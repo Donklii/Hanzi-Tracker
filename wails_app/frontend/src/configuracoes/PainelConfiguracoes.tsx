@@ -35,6 +35,13 @@ interface PainelConfiguracoesProps {
     apiCompativelComModelo: (modelo: string, api: string) => boolean;
     hardwareCompativelComModelo: (modelo: string, hw: string) => boolean;
     rotuloModelo: (m: string) => string;
+    motores: main.MotorOcrInfo[];
+    progressoMotor: Record<string, string>;
+    baixandoMotor: string | null;
+    trocandoMotor: string | null;
+    BaixarMotorOcr: (nome: string) => void;
+    RemoverMotorOcr: (nome: string) => void;
+    TrocarMotorOcr: (nome: string) => void;
 }
 
 export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
@@ -45,7 +52,8 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
         resCaptura, monitores, modelos, progressoModelo, baixandoModelo, avisoCompatibilidade,
         infoArmazenamento, armazenamentoOcupado, BaixarModeloOcr, RemoverModeloOcr, trocarModelo,
         CarregarArmazenamento, LimparCategoriaArmazenamento, ExcluirTodoArmazenamento,
-        hardwareEhCpu, ehCpuNome, ehNvidia, apiCompativelComModelo, hardwareCompativelComModelo, rotuloModelo
+        hardwareEhCpu, ehCpuNome, ehNvidia, apiCompativelComModelo, hardwareCompativelComModelo, rotuloModelo,
+        motores, progressoMotor, baixandoMotor, trocandoMotor, BaixarMotorOcr, RemoverMotorOcr, TrocarMotorOcr
     } = props;
 
 
@@ -308,6 +316,100 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                       </div>
                     );
                   })()}
+
+                  {(!termoBusca || "gerenciar motores engine sidecar baixar download ativar".includes(termoBusca.toLowerCase())) && (
+                    <div className="form-group">
+                      <label>Gerenciar Motores de OCR</label>
+                      <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginBottom: '8px' }}>
+                        O motor é o programa que faz o reconhecimento. Baixe motores adicionais, ative qual usar ou remova para liberar espaço. Apenas um motor fica ativo por vez.
+                      </small>
+                      <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginBottom: '8px', fontStyle: 'italic' }}>
+                        ℹ️ Os motores são baixados como executáveis e verificados por sha256 (o download só é aceito se o hash conferir). Alguns antivírus podem sinalizá-los por heurística — é um falso positivo comum de programas empacotados.
+                      </small>
+
+                      {motores.length === 0 && (
+                        <div style={{ color: 'var(--cor-texto-suave)', fontSize: '12px' }}>Carregando motores…</div>
+                      )}
+
+                      {motores.map(m => {
+                        const emDownload = baixandoMotor === m.nome;
+                        const emTroca = trocandoMotor === m.nome;
+                        const msg = progressoMotor[m.nome];
+                        return (
+                          <div key={m.nome} style={{
+                            border: m.ativo ? '1px solid #64b5f6' : '1px solid var(--cor-borda)',
+                            borderRadius: '8px',
+                            padding: '12px',
+                            marginBottom: '8px',
+                            backgroundColor: 'var(--cor-fundo-cartao)'
+                          }}>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '12px' }}>
+                              <div style={{ flex: 1 }}>
+                                <div style={{ fontWeight: 'bold', fontSize: '13px' }}>
+                                  {m.rotulo}
+                                  {m.ativo && <span style={{ marginLeft: '8px', fontSize: '10px', color: '#81c784' }}>● ATIVO</span>}
+                                  {m.instalado && !m.ativo && <span style={{ marginLeft: '8px', fontSize: '10px', color: '#64b5f6' }}>INSTALADO{m.tamanhoBytes ? ` · ${FormatarTamanho(m.tamanhoBytes)}` : ''}</span>}
+                                  {!m.instalado && m.tamanhoBytes ? <span style={{ marginLeft: '8px', fontSize: '10px', color: 'var(--cor-texto-suave)' }}>{FormatarTamanho(m.tamanhoBytes)}</span> : null}
+                                </div>
+                                <div style={{ fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '2px' }}>{m.descricao}</div>
+                                <div style={{ fontSize: '10px', color: 'var(--cor-texto-suave)', marginTop: '2px' }}>
+                                  Aceleração: {m.variante}{m.requisitos ? ` · Requer: ${m.requisitos}` : ''}
+                                </div>
+                              </div>
+                              <div style={{ display: 'flex', gap: '6px' }}>
+                                {!m.instalado && (
+                                  <button
+                                    className="scan-btn"
+                                    style={{ padding: '4px 10px', fontSize: '11px', opacity: emDownload ? 0.6 : 1 }}
+                                    disabled={emDownload || baixandoMotor !== null}
+                                    onClick={() => {
+                                      // Motores grandes (ou com requisito de hardware) pedem confirmação
+                                      // antes do download pesado; os leves baixam direto.
+                                      const pesado = m.tamanhoBytes >= 400 * 1024 * 1024 || !!m.requisitos;
+                                      if (pesado) {
+                                        setConfirmacao({
+                                          titulo: `Baixar ${m.rotulo}?`,
+                                          mensagem: `Este motor ocupa ${FormatarTamanho(m.tamanhoBytes)}${m.requisitos ? ` e requer: ${m.requisitos}` : ''}. O download pode demorar bastante.`,
+                                          rotuloAcao: 'Baixar motor',
+                                          acao: () => BaixarMotorOcr(m.nome),
+                                        });
+                                      } else {
+                                        BaixarMotorOcr(m.nome);
+                                      }
+                                    }}
+                                  >
+                                    {emDownload ? 'Baixando…' : '⬇️ Baixar'}
+                                  </button>
+                                )}
+                                {m.instalado && !m.ativo && (
+                                  <button
+                                    className="scan-btn"
+                                    style={{ padding: '4px 10px', fontSize: '11px', opacity: emTroca ? 0.6 : 1 }}
+                                    disabled={emTroca || trocandoMotor !== null}
+                                    onClick={() => TrocarMotorOcr(m.nome)}
+                                  >
+                                    {emTroca ? 'Ativando…' : '✓ Ativar'}
+                                  </button>
+                                )}
+                                {m.instalado && !m.ativo && (
+                                  <button
+                                    className="scan-btn"
+                                    style={{ padding: '4px 10px', fontSize: '11px', backgroundColor: '#f44336' }}
+                                    onClick={() => RemoverMotorOcr(m.nome)}
+                                  >
+                                    🗑️ Remover
+                                  </button>
+                                )}
+                              </div>
+                            </div>
+                            {msg && (
+                              <div style={{ fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '8px' }}>{msg}</div>
+                            )}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  )}
 
                   {(!termoBusca || "gerenciar modelos baixar download onnx".includes(termoBusca.toLowerCase())) && (
                     <div className="form-group">

@@ -8,7 +8,7 @@ import { ModalConfirmacao } from './comum/ModalConfirmacao';
 import { AbaDescobrimento } from './descobrimento/AbaDescobrimento';
 import { AbaEstudos } from './estudos/AbaEstudos';
 import { config, main, progresso } from '../wailsjs/go/models';
-import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, GetVocab, ShowHighlight, HideHoverPopup, ShowHoverPopup, LookupWord, DecomposeCharacter, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, ListarModelos, BaixarModelo, RemoverModelo, GetStorageInfo, LimparArmazenamento, ExcluirTudo, AbrirPastaDados, GetCaptureResolution, GetSessionImage, GetMonitores } from "../wailsjs/go/main/App";
+import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, GetVocab, ShowHighlight, HideHoverPopup, ShowHoverPopup, LookupWord, DecomposeCharacter, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, ListarModelos, BaixarModelo, RemoverModelo, ListarMotores, BaixarMotor, RemoverMotor, TrocarMotor, GetStorageInfo, LimparArmazenamento, ExcluirTudo, AbrirPastaDados, GetCaptureResolution, GetSessionImage, GetMonitores } from "../wailsjs/go/main/App";
 import { EventsOn } from "../wailsjs/runtime/runtime";
 
 function App() {
@@ -30,6 +30,10 @@ function App() {
   const [modelos, setModelos] = useState<main.ModeloOcrInfo[]>([]);
   const [progressoModelo, setProgressoModelo] = useState<Record<string, string>>({});
   const [baixandoModelo, setBaixandoModelo] = useState<string | null>(null);
+  const [motores, setMotores] = useState<main.MotorOcrInfo[]>([]);
+  const [progressoMotor, setProgressoMotor] = useState<Record<string, string>>({});
+  const [baixandoMotor, setBaixandoMotor] = useState<string | null>(null);
+  const [trocandoMotor, setTrocandoMotor] = useState<string | null>(null);
   const [avisoCompatibilidade, setAvisoCompatibilidade] = useState<string | null>(null);
   const [infoArmazenamento, setInfoArmazenamento] = useState<main.StorageInfo | null>(null);
   const [armazenamentoOcupado, setArmazenamentoOcupado] = useState(false);
@@ -93,6 +97,7 @@ function App() {
     });
     GetCaptureResolution().then(res => setResCaptura(res));
     CarregarModelos();
+    CarregarMotores();
     CarregarVocabulario();
 
     // @ts-ignore
@@ -106,6 +111,18 @@ function App() {
         setProgressoModelo(prev => ({ ...prev, [data.nome]: '⚠️ ' + data.erro }));
       }
     });
+
+    // Motores (sidecars): progresso de download/instalação e refresh do estado ativo (bootstrap/troca).
+    EventsOn("motor_download_progresso", (data: any) => {
+      if (!data?.nome) return;
+      if (data.mensagem) {
+        setProgressoMotor(prev => ({ ...prev, [data.nome]: data.mensagem }));
+      } else if (data.erro) {
+        setProgressoMotor(prev => ({ ...prev, [data.nome]: '⚠️ ' + data.erro }));
+      }
+    });
+    EventsOn("ocr_pronto", () => { CarregarMotores(); });
+    EventsOn("motor_bootstrap_fim", () => { CarregarMotores(); });
 
     EventsOn("trigger_scan", () => {
       EscanearTelaEhProcessar();
@@ -292,6 +309,57 @@ function App() {
       .catch((err: any) => {
         setProgressoModelo(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
       });
+  };
+
+  const CarregarMotores = () => {
+    ListarMotores().then(m => setMotores(m || [])).catch(() => {});
+  };
+
+  const BaixarMotorOcr = (nome: string) => {
+    setBaixandoMotor(nome);
+    setProgressoMotor(prev => ({ ...prev, [nome]: 'Iniciando download…' }));
+    BaixarMotor(nome)
+      .then(() => {
+        setProgressoMotor(prev => ({ ...prev, [nome]: '✅ Instalado!' }));
+        CarregarMotores();
+      })
+      .catch((err: any) => {
+        setProgressoMotor(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
+      })
+      .finally(() => setBaixandoMotor(null));
+  };
+
+  const RemoverMotorOcr = (nome: string) => {
+    RemoverMotor(nome)
+      .then(() => {
+        setProgressoMotor(prev => {
+          const copia = { ...prev };
+          delete copia[nome];
+          return copia;
+        });
+        CarregarMotores();
+      })
+      .catch((err: any) => {
+        setProgressoMotor(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
+      });
+  };
+
+  const TrocarMotorOcr = (nome: string) => {
+    setTrocandoMotor(nome);
+    setProgressoMotor(prev => ({ ...prev, [nome]: 'Ativando…' }));
+    TrocarMotor(nome)
+      .then(() => {
+        setProgressoMotor(prev => {
+          const copia = { ...prev };
+          delete copia[nome];
+          return copia;
+        });
+        CarregarMotores();
+      })
+      .catch((err: any) => {
+        setProgressoMotor(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
+      })
+      .finally(() => setTrocandoMotor(null));
   };
 
   const CarregarArmazenamento = () => {
@@ -784,6 +852,13 @@ function App() {
         BaixarModeloOcr={BaixarModeloOcr}
         RemoverModeloOcr={RemoverModeloOcr}
         trocarModelo={trocarModelo}
+        motores={motores}
+        progressoMotor={progressoMotor}
+        baixandoMotor={baixandoMotor}
+        trocandoMotor={trocandoMotor}
+        BaixarMotorOcr={BaixarMotorOcr}
+        RemoverMotorOcr={RemoverMotorOcr}
+        TrocarMotorOcr={TrocarMotorOcr}
         CarregarArmazenamento={CarregarArmazenamento}
         LimparCategoriaArmazenamento={LimparCategoriaArmazenamento}
         ExcluirTodoArmazenamento={ExcluirTodoArmazenamento}

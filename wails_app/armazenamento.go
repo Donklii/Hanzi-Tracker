@@ -131,6 +131,18 @@ func (a *App) GetStorageInfo() StorageInfo {
 		},
 	}
 
+	// Motores de OCR baixados (sidecars). Só aparece quando há algum baixado.
+	if b := tamanhoCaminho(pastaMotores()); b > 0 {
+		itens = append(itens, ItemArmazenamento{
+			Chave:     "motores",
+			Rotulo:    "Motores de OCR",
+			Descricao: "Programas de reconhecimento baixados. Limpar remove os motores inativos (mantém o ativo e o overlay).",
+			Caminho:   pastaMotores(),
+			Bytes:     b,
+			Limpavel:  true,
+		})
+	}
+
 	// Categorias de ambiente de desenvolvimento (modelos EasyOCR e cache de instalação) só fazem
 	// sentido quando existem: no app distribuído já compilado normalmente nem aparecem, evitando
 	// expor tecnicalidades ao usuário final.
@@ -208,6 +220,8 @@ func (a *App) LimparArmazenamento(chave string) error {
 	switch chave {
 	case "modelos_onnx":
 		return limparPasta(pastaModelos())
+	case "motores":
+		return a.limparMotores()
 	case "modelos_easyocr":
 		return os.RemoveAll(pastaEasyOcr())
 	case "cache_pip":
@@ -228,6 +242,9 @@ func (a *App) ExcluirTudo() error {
 
 	if err := limparPasta(pastaModelos()); err != nil {
 		erros = append(erros, fmt.Sprintf("modelos ONNX: %v", err))
+	}
+	if err := a.limparMotores(); err != nil {
+		erros = append(erros, fmt.Sprintf("motores: %v", err))
 	}
 	if err := os.RemoveAll(pastaEasyOcr()); err != nil {
 		erros = append(erros, fmt.Sprintf("modelos EasyOCR: %v", err))

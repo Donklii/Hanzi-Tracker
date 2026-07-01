@@ -64,10 +64,17 @@ wails build   # instala/compila o frontend e gera HanziTracker.exe com os assets
 ## 3. Empacotamento final
 
 O **app Wails** é dono do backend de OCR e do overlay e **resolve automaticamente** qual executável
-subir: `resolverMotorOcrPadrao` (OCR) e `resolverComandoPopup` (overlay) preferem o sidecar congelado
-quando presente e caem para `python server.py`/`popup.py` só no código-fonte. O orquestrador `main.go`
-(raiz) não sobe mais o OCR — só reserva a porta e a pasta de dados e lança o app. Basta deixar os
-executáveis congelados nos caminhos esperados, junto ao app:
+subir: `resolverMotorInicial`/`resolverComandoPopup` procuram, nesta ordem, o motor **baixado no AppData**
+(`%APPDATA%\HanziTracker\motores\`, modelo padrão da Fase 5), depois o sidecar congelado **ao lado do app**
+e, por fim, `python server.py`/`popup.py` só no código-fonte. O orquestrador `main.go` (raiz) não sobe mais
+o OCR — só reserva a porta e a pasta de dados e lança o app.
+
+Há **duas formas** de distribuir os motores (as duas funcionam; dá para combinar):
+
+- **Download sob demanda (padrão):** não envie motor nenhum junto do app. No primeiro start sem motor,
+  o `bootstrapMotorPadrao` baixa o RapidOCR padrão + o overlay para o AppData e ativa. O instalador fica
+  leve. Ver [docs/PUBLICAR-MOTORES.md](docs/PUBLICAR-MOTORES.md).
+- **Bundle ao lado do app (offline):** deixe as pastas congeladas junto do executável:
 
 ```
 HanziTracker/
@@ -80,9 +87,10 @@ HanziTracker/
 > o Python é **congelado** (sem o sandbox do Python da Store), então o `HanziTracker.exe` pode ser
 > aberto diretamente e sobe os sidecars por conta própria.
 
-> Caminhos procurados: OCR → `ocr_server/ocr_server.exe`, `dist/ocr_server/ocr_server.exe` ou
-> `ocr_server.exe`; overlay → `popup/popup.exe`, `dist/popup/popup.exe` ou `popup.exe`. Ausentes todos,
-> cai para `python ...` (modo código-fonte).
+> Caminhos procurados: motor baixado → `%APPDATA%\HanziTracker\motores\<Motor>\ocr_server.exe`; bundle →
+> `ocr_server/ocr_server.exe`, `dist/ocr_server/ocr_server.exe` ou `ocr_server.exe`; overlay baixado →
+> `motores\_overlay\popup.exe`, bundle → `popup/popup.exe`, `dist/popup/popup.exe` ou `popup.exe`.
+> Ausentes todos e sem `server.py`/`popup.py` (código-fonte), o app faz o bootstrap (baixa o padrão).
 
 ## Comportamento da aceleração
 

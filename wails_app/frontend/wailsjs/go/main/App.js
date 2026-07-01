@@ -113,3 +113,19 @@ export function ShowHoverPopup(arg1, arg2, arg3, arg4, arg5) {
 export function StartBackgroundLoop() {
   return window['go']['main']['App']['StartBackgroundLoop']();
 }
+
+export function ListarMotores() {
+  return window['go']['main']['App']['ListarMotores']();
+}
+
+export function BaixarMotor(arg1) {
+  return window['go']['main']['App']['BaixarMotor'](arg1);
+}
+
+export function RemoverMotor(arg1) {
+  return window['go']['main']['App']['RemoverMotor'](arg1);
+}
+
+export function TrocarMotor(arg1) {
+  return window['go']['main']['App']['TrocarMotor'](arg1);
+}

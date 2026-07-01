@@ -14,6 +14,7 @@ type Config struct {
 	HardwareSelecionado          string  `json:"hardwareSelecionado"`
 	DispositivoOcr               string  `json:"dispositivoOcr"`
 	ModeloOcr                    string  `json:"modeloOcr"`
+	MotorOcrAtivo                string  `json:"motorOcrAtivo"` // qual MOTOR (sidecar) subir no início; ver motores.go
 	EscalaResolucaoOcr           int     `json:"escalaResolucaoOcr"`
 	LimitarPorUsoCpu             bool    `json:"limitarPorUsoCpu"`
 	UsoMaximoCpuPercent          float64 `json:"usoMaximoCpuPercent"`
@@ -39,6 +40,7 @@ func DefaultConfig() Config {
 		HardwareSelecionado:         "CPU",
 		DispositivoOcr:              "cpu",
 		ModeloOcr:                   "RapidOCR",
+		MotorOcrAtivo:               "RapidOCR",
 		EscalaResolucaoOcr:          100,
 		LimitarPorUsoCpu:            false,
 		UsoMaximoCpuPercent:         80.0,

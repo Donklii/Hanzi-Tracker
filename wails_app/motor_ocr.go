@@ -22,13 +22,13 @@ type DescritorMotorOcr struct {
 	Dir     string   // diretório de trabalho ("" = herda do app)
 }
 
-// resolverMotorOcrPadrao resolve o backend de OCR PADRÃO (RapidOCR): prefere o sidecar congelado
-// (PyInstaller) quando presente — modo distribuído, sem Python/pip no usuário final — e cai para
-// `python server.py` no código-fonte, tentando os caminhos relativos conforme o diretório de trabalho
-// do app (wails_app no modo fonte, a raiz do app no distribuído). Herdeiro do antigo resolverMotorOcr
-// do orquestrador, agora que a posse do processo de OCR passou para o app. Ver BUILD.md §3.
-func resolverMotorOcrPadrao() DescritorMotorOcr {
-	// Sidecar congelado do motor (PyInstaller onedir gera <nome>/<nome>.exe) ou solto ao lado do app.
+// resolverMotorOcrPadrao resolve o backend de OCR a partir dos artefatos LOCAIS (não baixados): um
+// sidecar congelado ao lado do app (instalação com bundle / execução offline) ou, no código-fonte,
+// `python server.py`. Devolve ok=false quando NENHUM dos dois existe — o que, no modo distribuído,
+// significa que o motor ainda não foi baixado (sinal de first-run: quem decide o bootstrap é
+// resolverMotorInicial, que também considera os motores baixados no AppData). Ver motores.go e BUILD.md §3.
+func resolverMotorOcrPadrao() (DescritorMotorOcr, bool) {
+	// Sidecar congelado ao lado do app (PyInstaller onedir gera <nome>/<nome>.exe).
 	candidatosExe := []string{
 		filepath.Join("ocr_server", "ocr_server.exe"),
 		filepath.Join("dist", "ocr_server", "ocr_server.exe"),
@@ -41,20 +41,25 @@ func resolverMotorOcrPadrao() DescritorMotorOcr {
 			if errAbs != nil {
 				abs = caminho
 			}
-			return DescritorMotorOcr{Nome: "RapidOCR (sidecar congelado)", Comando: abs}
+			return DescritorMotorOcr{Nome: "RapidOCR (sidecar ao lado do app)", Comando: abs}, true
 		}
 	}
 
 	// Código-fonte: server.py com o Python do sistema (o cwd pode ser wails_app ou a raiz do projeto).
-	caminhoServer := filepath.Join("..", "python_backend", "server.py")
-	if _, err := os.Stat(caminhoServer); os.IsNotExist(err) {
-		caminhoServer = filepath.Join("python_backend", "server.py")
+	// Só entra se o arquivo existir — no app distribuído (sem Python) `false` dispara o bootstrap.
+	for _, caminhoServer := range []string{
+		filepath.Join("..", "python_backend", "server.py"),
+		filepath.Join("python_backend", "server.py"),
+	} {
+		if _, err := os.Stat(caminhoServer); err == nil {
+			return DescritorMotorOcr{
+				Nome:    "RapidOCR (código-fonte)",
+				Comando: "python",
+				Args:    []string{caminhoServer},
+			}, true
+		}
 	}
-	return DescritorMotorOcr{
-		Nome:    "RapidOCR (código-fonte)",
-		Comando: "python",
-		Args:    []string{caminhoServer},
-	}
+	return DescritorMotorOcr{}, false
 }
 
 // portaOcr devolve a porta do microserviço de OCR. Respeita a porta reservada pelo orquestrador
@@ -157,6 +162,18 @@ func (g *GerenciadorMotorOcr) MotorAtivo() string {
 		return ""
 	}
 	return g.descritor.Nome
+}
+
+// ComandoAtivo devolve o caminho do executável do motor em execução ("" se nenhum). Comparar por
+// caminho (e não por rótulo) é o jeito robusto de a UI saber QUAL motor do catálogo está ativo e de
+// RemoverMotor recusar apagar o motor que está rodando. Ver motores.go.
+func (g *GerenciadorMotorOcr) ComandoAtivo() string {
+	g.mutex.Lock()
+	defer g.mutex.Unlock()
+	if g.processo == nil {
+		return ""
+	}
+	return g.descritor.Comando
 }
 
 // Trocar faz o hot-swap: derruba o motor atual e sobe o novo na MESMA porta, aguardando o healthcheck.

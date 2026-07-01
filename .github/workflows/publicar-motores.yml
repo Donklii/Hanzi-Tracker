@@ -1,0 +1,59 @@
+name: Publicar Motores
+
+# Congela os sidecars (build_sidecars.ps1) num runner Windows e publica os .zip numa GitHub Release.
+# Dispara ao empurrar uma tag "motores-v*" (ou manualmente, informando a tag). O sha256 de cada zip é
+# escrito no resumo do job para você colar no manifesto (wails_app/motores_manifesto.go).
+# Ver docs/PUBLICAR-MOTORES.md. Windows-only porque o congelamento usa PyInstaller + DirectML.
+
+on:
+  push:
+    tags:
+      - 'motores-v*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag da release (ex.: motores-v2)'
+        required: true
+
+permissions:
+  contents: write # criar a release e anexar os assets
+
+jobs:
+  publicar:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Congelar sidecars (build_sidecars.ps1)
+        shell: pwsh
+        run: powershell -ExecutionPolicy Bypass -File build_sidecars.ps1
+
+      - name: sha256 dos artefatos (cole no manifesto)
+        shell: pwsh
+        run: |
+          $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
+          "## sha256 dos motores ($tag)" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          "" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          foreach ($z in @('python_backend/dist/ocr_server.zip', 'python_backend/dist/popup.zip')) {
+            if (-not (Test-Path $z)) { continue }
+            $h = (Get-FileHash $z -Algorithm SHA256).Hash.ToLower()
+            $s = (Get-Item $z).Length
+            $nome = [System.IO.Path]::GetFileName($z)
+            "- **$nome** — $s bytes — sha256 ``$h``" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          }
+
+      - name: Publicar Release com os zips
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.tag || github.ref_name }}
+          name: Motores ${{ github.event.inputs.tag || github.ref_name }}
+          files: |
+            python_backend/dist/ocr_server.zip
+            python_backend/dist/popup.zip
+          fail_on_unmatched_files: true

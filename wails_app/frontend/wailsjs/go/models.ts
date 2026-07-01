@@ -246,6 +246,38 @@ export namespace main {
 		    return a;
 		}
 	}
+	export class MotorOcrInfo {
+	    nome: string;
+	    rotulo: string;
+	    descricao: string;
+	    idiomas: string[];
+	    versao: string;
+	    variante: string;
+	    requisitos: string;
+	    padrao: boolean;
+	    tamanhoBytes: number;
+	    instalado: boolean;
+	    ativo: boolean;
+
+	    static createFrom(source: any = {}) {
+	        return new MotorOcrInfo(source);
+	    }
+
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.nome = source["nome"];
+	        this.rotulo = source["rotulo"];
+	        this.descricao = source["descricao"];
+	        this.idiomas = source["idiomas"];
+	        this.versao = source["versao"];
+	        this.variante = source["variante"];
+	        this.requisitos = source["requisitos"];
+	        this.padrao = source["padrao"];
+	        this.tamanhoBytes = source["tamanhoBytes"];
+	        this.instalado = source["instalado"];
+	        this.ativo = source["ativo"];
+	    }
+	}
 	export class Monitor {
 	    id: number;
 	    nome: string;

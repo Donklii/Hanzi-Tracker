@@ -369,47 +369,75 @@ func (a *App) startup(ctx context.Context) {
 	fmt.Println("Backend Go Inicializado.")
 
 	// Sobe o backend de OCR — agora o PRÓPRIO app é dono do processo (antes era o orquestrador em
-	// main.go), para poder trocar de motor em runtime. resolverMotorOcrPadrao escolhe o sidecar
-	// congelado (modo distribuído) ou o `python server.py` (código-fonte).
+	// main.go), para poder trocar de motor em runtime. resolverMotorInicial escolhe, nesta ordem: o
+	// motor preferido/padrão já baixado no AppData, um sidecar ao lado do app, ou `python server.py`
+	// (código-fonte). Se NADA existe (first-run distribuído), dispara o bootstrap do motor padrão.
 	a.motorOcr = NovoGerenciadorMotorOcr()
-	if err := a.motorOcr.Iniciar(resolverMotorOcrPadrao()); err != nil {
-		fmt.Printf("Aviso: falha ao subir o backend de OCR: %v\n", err)
-	}
-
-	// Espera o motor de OCR (sidecar Python) responder o healthcheck antes de anunciá-lo pronto.
-	// Roda em segundo plano para não travar a inicialização da UI; o frontend pode ouvir os eventos
-	// "ocr_pronto"/"ocr_indisponivel" para exibir o estado de carregamento do motor.
-	go func() {
-		if err := aguardarBackendOcr(30 * time.Second); err != nil {
-			fmt.Printf("Aviso: motor de OCR indisponível: %v\n", err)
-			runtime.EventsEmit(a.ctx, "ocr_indisponivel", err.Error())
-			return
+	if desc, ok := resolverMotorInicial(a.Config.MotorOcrAtivo); ok {
+		if err := a.motorOcr.Iniciar(desc); err != nil {
+			fmt.Printf("Aviso: falha ao subir o backend de OCR: %v\n", err)
 		}
-		fmt.Println("Motor de OCR pronto (healthcheck ok).")
-		runtime.EventsEmit(a.ctx, "ocr_pronto")
-	}()
 
-	// Sobe o overlay (popup): executável congelado no modo distribuído, ou python popup.py no fonte.
-	cmd := resolverComandoPopup()
-	stdin, err := cmd.StdinPipe()
-	cmd.Stdout = os.Stdout
-	cmd.Stderr = os.Stderr
-	cmd.SysProcAttr = &syscall.SysProcAttr{HideWindow: true}
-	if err == nil {
-		if err := cmd.Start(); err == nil {
-			a.popupCmd = cmd
-			a.popupStdin = stdin
-			fmt.Println("Processo popup.py iniciado.")
-		}
+		// Espera o motor responder o healthcheck antes de anunciá-lo pronto. Roda em segundo plano
+		// para não travar a UI; o frontend ouve "ocr_pronto"/"ocr_indisponivel".
+		go func() {
+			if err := aguardarBackendOcr(30 * time.Second); err != nil {
+				fmt.Printf("Aviso: motor de OCR indisponível: %v\n", err)
+				runtime.EventsEmit(a.ctx, "ocr_indisponivel", err.Error())
+				return
+			}
+			fmt.Println("Motor de OCR pronto (healthcheck ok).")
+			runtime.EventsEmit(a.ctx, "ocr_pronto")
+		}()
+
+		a.iniciarOverlay()
+	} else {
+		// First-run: nenhum motor local/instalado. Baixa o motor padrão (+ overlay) e sobe — tudo em
+		// segundo plano; a UI acompanha por "motor_bootstrap_inicio"/"motor_download_progresso"/"ocr_pronto".
+		fmt.Println("Nenhum motor de OCR encontrado — iniciando o bootstrap do motor padrão…")
+		go a.bootstrapMotorPadrao()
 	}
 }
 
-// resolverComandoPopup decide como subir o overlay (popup): prefere o executável congelado
-// (popup.exe, modo distribuído — sem Python no usuário final) quando presente; senão cai para
-// `python popup.py` (modo código-fonte), tentando os dois caminhos relativos conforme o diretório de
-// trabalho (raiz ou wails_app). Espelha resolverMotorOcr do orquestrador. Ver BUILD.md §3.
-func resolverComandoPopup() *exec.Cmd {
-	// Sidecar congelado do overlay (PyInstaller onedir gera <nome>/<nome>.exe) ou solto ao lado do app.
+// iniciarOverlay sobe o processo de overlay (popup) se ainda não estiver rodando e houver um executável
+// resolvível. É idempotente: chamado no startup e de novo após o bootstrap (quando o overlay só passa a
+// existir depois de baixado). O Go dirige o overlay por stdin; a janela fica oculta (HideWindow).
+func (a *App) iniciarOverlay() {
+	if a.popupCmd != nil {
+		return // já rodando
+	}
+	cmd, ok := resolverComandoPopup()
+	if !ok {
+		return // sem overlay disponível (ex.: first-run antes do bootstrap concluir)
+	}
+	stdin, err := cmd.StdinPipe()
+	if err != nil {
+		return
+	}
+	cmd.Stdout = os.Stdout
+	cmd.Stderr = os.Stderr
+	cmd.SysProcAttr = &syscall.SysProcAttr{HideWindow: true}
+	if err := cmd.Start(); err != nil {
+		return
+	}
+	a.popupCmd = cmd
+	a.popupStdin = stdin
+	fmt.Println("Overlay (popup) iniciado.")
+}
+
+// resolverComandoPopup decide como subir o overlay (popup), devolvendo ok=false quando NENHUM
+// executável é encontrado (ex.: first-run distribuído antes do bootstrap baixar o overlay). Ordem:
+// (1) overlay baixado no AppData (motores\_overlay\popup.exe); (2) sidecar ao lado do app; (3)
+// `python popup.py` no código-fonte, só se o arquivo existir. Ver motores.go e BUILD.md §3.
+func resolverComandoPopup() (*exec.Cmd, bool) {
+	// 1) Overlay baixado sob demanda no AppData (Fase 5).
+	if exe := caminhoExecutavelOverlay(); exe != "" {
+		if info, err := os.Stat(exe); err == nil && !info.IsDir() {
+			return exec.Command(exe), true
+		}
+	}
+
+	// 2) Sidecar congelado ao lado do app (instalação com bundle / offline).
 	candidatosExe := []string{
 		filepath.Join("popup", "popup.exe"),
 		filepath.Join("dist", "popup", "popup.exe"),
@@ -417,16 +445,20 @@ func resolverComandoPopup() *exec.Cmd {
 	}
 	for _, caminho := range candidatosExe {
 		if info, err := os.Stat(caminho); err == nil && !info.IsDir() {
-			return exec.Command(caminho)
+			return exec.Command(caminho), true
 		}
 	}
 
-	// Código-fonte: popup.py com o Python do sistema (o cwd pode ser wails_app ou a raiz do projeto).
-	caminhoPopup := filepath.Join("..", "python_backend", "popup.py")
-	if _, err := os.Stat(caminhoPopup); os.IsNotExist(err) {
-		caminhoPopup = filepath.Join("python_backend", "popup.py")
+	// 3) Código-fonte: popup.py com o Python do sistema (o cwd pode ser wails_app ou a raiz do projeto).
+	for _, caminhoPopup := range []string{
+		filepath.Join("..", "python_backend", "popup.py"),
+		filepath.Join("python_backend", "popup.py"),
+	} {
+		if _, err := os.Stat(caminhoPopup); err == nil {
+			return exec.Command("python", caminhoPopup), true
+		}
 	}
-	return exec.Command("python", caminhoPopup)
+	return nil, false
 }
 
 // Resolucao representa a resolução (em px) do monitor de captura.
@@ -599,7 +631,7 @@ func (a *App) BaixarModelo(nome string) error {
 		if _, err := os.Stat(caminho); err == nil {
 			continue // já baixado
 		}
-		if err := a.baixarArquivo(nome, arq.Url, caminho, arq.Sha256); err != nil {
+		if err := a.baixarArquivo(arq.Url, caminho, arq.Sha256, func(msg string) { a.emitirProgressoModelo(nome, msg) }); err != nil {
 			a.emitirProgressoModelo(nome, "⚠️ "+err.Error())
 			return err
 		}
@@ -607,11 +639,15 @@ func (a *App) BaixarModelo(nome string) error {
 	return nil
 }
 
-// baixarArquivo baixa uma URL para um caminho local de forma atômica (.tmp + rename), reportando %.
-// Se `sha256Esperado` estiver preenchido, o hash do conteúdo é calculado durante o streaming e
-// conferido antes de renomear; divergência aborta o download e apaga o .tmp (evita peso corrompido
-// ou adulterado). Vazio = verificação pulada (torna-se OBRIGATÓRIO ao baixar executáveis na Fase 5).
-func (a *App) baixarArquivo(nomeModelo, url, caminhoLocal, sha256Esperado string) error {
+// baixarArquivo baixa uma URL para um caminho local de forma atômica (.tmp + rename), reportando o
+// progresso via callback `onProgresso` (o chamador escolhe o evento — modelos vs. motores). Se
+// `sha256Esperado` estiver preenchido, o hash é calculado durante o streaming e conferido antes de
+// renomear; divergência aborta o download e apaga o .tmp (evita peso corrompido/adulterado). Vazio =
+// verificação pulada (torna-se OBRIGATÓRIO ao baixar executáveis — ver motores.go).
+func (a *App) baixarArquivo(url, caminhoLocal, sha256Esperado string, onProgresso func(string)) error {
+	if onProgresso == nil {
+		onProgresso = func(string) {}
+	}
 	resp, err := http.Get(url)
 	if err != nil {
 		return fmt.Errorf("falha ao baixar %s: %w", filepath.Base(caminhoLocal), err)
@@ -650,7 +686,7 @@ func (a *App) baixarArquivo(nomeModelo, url, caminhoLocal, sha256Esperado string
 				pct := int(baixado * 100 / total)
 				if pct != ultimoPct {
 					ultimoPct = pct
-					a.emitirProgressoModelo(nomeModelo, fmt.Sprintf("Baixando %s (%d%%)…", nomeArq, pct))
+					onProgresso(fmt.Sprintf("Baixando %s (%d%%)…", nomeArq, pct))
 				}
 			}
 		}
@@ -676,7 +712,7 @@ func (a *App) baixarArquivo(nomeModelo, url, caminhoLocal, sha256Esperado string
 			os.Remove(temp)
 			return fmt.Errorf("integridade de %s falhou: sha256 esperado %s, obtido %s", nomeArq, sha256Esperado, hashObtido)
 		}
-		a.emitirProgressoModelo(nomeModelo, fmt.Sprintf("%s verificado (sha256 ✓)", nomeArq))
+		onProgresso(fmt.Sprintf("%s verificado (sha256 ✓)", nomeArq))
 	}
 
 	return os.Rename(temp, caminhoLocal)

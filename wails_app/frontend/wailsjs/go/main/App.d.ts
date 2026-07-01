@@ -60,3 +60,11 @@ export function ShowHighlight(arg1:number,arg2:number,arg3:number,arg4:number):P
 export function ShowHoverPopup(arg1:string,arg2:string,arg3:string,arg4:number,arg5:number):Promise<void>;
 
 export function StartBackgroundLoop():Promise<void>;
+
+export function ListarMotores():Promise<Array<main.MotorOcrInfo>>;
+
+export function BaixarMotor(arg1:string):Promise<void>;
+
+export function RemoverMotor(arg1:string):Promise<void>;
+
+export function TrocarMotor(arg1:string):Promise<void>;

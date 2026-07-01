@@ -38,7 +38,19 @@ Os artefatos são grandes e mudam a cada build; o lugar certo para eles são os 
      --title "Motores v1 (RapidOCR + overlay)" `
      --notes "Sidecars congelados (PyInstaller, DirectML embutido)."
    ```
-   Sem o `gh`: *Releases → Draft a new release → Choose a tag → Attach binaries*.
+   **Sem o `gh` (direto pela web):** em *Releases → Draft a new release*, os campos do formulário
+   equivalem aos parâmetros do comando acima:
+
+   | Campo na página do GitHub          | Valor a preencher                                                 |
+   |-------------------------------------|---------------------------------------------------------------------|
+   | **Choose a tag**                    | `motores-v1` → clique em "Create new tag: motores-v1 on publish"    |
+   | **Target**                          | branch padrão (`main`) — não precisa mexer                          |
+   | **Release title**                   | `Motores v1 (RapidOCR + overlay)`                                    |
+   | **Describe this release**           | `Sidecars congelados (PyInstaller, DirectML embutido).`              |
+   | **Attach binaries by dropping...**  | arraste `ocr_server.zip` e `popup.zip` de `python_backend/dist/`     |
+
+   Deixe *"Set as the latest release"* marcado e *"Set as a pre-release"* desmarcado — é o
+   comportamento padrão do `gh release create` (sem `--prerelease`).
 
 3. **Pegue a URL de download** de cada asset. O padrão é estável:
    ```
@@ -50,12 +62,21 @@ Os artefatos são grandes e mudam a cada build; o lugar certo para eles são os 
    artefato — os mesmos valores que o script imprimiu. O sha256 é **obrigatório** para binários: o Go
    confere após baixar (a mecânica já existe em `baixarArquivo`) e recusa se não bater.
 
-## Como o app consome (fluxo já preparado)
+## Como o app consome (Passo 5 — implementado)
 
-- O Go baixa o `.zip` para `%APPDATA%\HanziTracker\motores\`, **verifica o sha256** e só então habilita.
-- `resolverMotorOcrPadrao()` / `resolverComandoPopup()` acham o `.exe` extraído (`ocr_server/ocr_server.exe`,
-  `popup/popup.exe`) e o `GerenciadorMotorOcr` sobe/derruba/troca o motor em runtime.
-- Isso é o que falta implementar nos **Passos 5 e 6** (download do sidecar + UI "Gerenciar Motores").
+- O manifesto de motores vive no Go ([wails_app/motores_manifesto.go](../wails_app/motores_manifesto.go)):
+  cada motor aponta `url` + `sha256` + `tamanhoBytes` do `.zip`, mais o `executavel` (o `.exe` na raiz do
+  zip). O overlay compartilhado (`popup.zip`) fica em `PopupOverlayBaixavel`.
+- `BaixarMotor(nome)` ([wails_app/motores.go](../wails_app/motores.go)) baixa o `.zip` para
+  `%APPDATA%\HanziTracker\motores\<Motor>\`, **verifica o sha256** (obrigatório — reusa `baixarArquivo`),
+  faz **pré-checagem de espaço em disco** e extrai (com proteção contra *Zip Slip*); o overlay vai para
+  `motores\_overlay\`. `RemoverMotor` apaga a pasta (recusa se o motor estiver ativo) e `TrocarMotor` faz
+  o hot-swap via `GerenciadorMotorOcr.Trocar` e **persiste** o motor ativo em `configuracoes.json`.
+- Na inicialização, `resolverMotorInicial` sobe o motor preferido/instalado; se **nada** existe (first-run
+  distribuído), `bootstrapMotorPadrao` baixa o motor padrão + o overlay e ativa — emitindo os eventos
+  `motor_bootstrap_inicio` / `motor_download_progresso` / `ocr_pronto` para o frontend acompanhar.
+- Falta só a **UI "Gerenciar Motores"** (Passo 6) que chama `ListarMotores`/`BaixarMotor`/`TrocarMotor`/
+  `RemoverMotor` e escuta esses eventos.
 
 ## Alternativas de hospedagem (também por HTTPS)
 
