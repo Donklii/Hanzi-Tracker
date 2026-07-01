@@ -368,10 +368,10 @@ func (a *App) startup(ctx context.Context) {
 	a.StartBackgroundLoop()
 	fmt.Println("Backend Go Inicializado.")
 
-	// Sobe o backend de OCR — agora o PRÓPRIO app é dono do processo (antes era o orquestrador em
-	// main.go), para poder trocar de motor em runtime. resolverMotorInicial escolhe, nesta ordem: o
-	// motor preferido/padrão já baixado no AppData, um sidecar ao lado do app, ou `python server.py`
-	// (código-fonte). Se NADA existe (first-run distribuído), dispara o bootstrap do motor padrão.
+	// O app é dono do processo de OCR (subir/derrubar/trocar). Todo motor é um EXECUTÁVEL — baixado no
+	// AppData ou empacotado num bundle ao lado do app; NÃO há mais fallback para `python server.py`
+	// (tudo é modular/baixável). resolverMotorInicial escolhe o motor preferido/padrão instalado ou o
+	// bundle; se NADA existe (first-run), o bootstrap baixa+instala+ativa o RapidOCR padrão sozinho.
 	a.motorOcr = NovoGerenciadorMotorOcr()
 	if desc, ok := resolverMotorInicial(a.Config.MotorOcrAtivo); ok {
 		if err := a.motorOcr.Iniciar(desc); err != nil {
@@ -390,10 +390,11 @@ func (a *App) startup(ctx context.Context) {
 			runtime.EventsEmit(a.ctx, "ocr_pronto")
 		}()
 
-		a.iniciarOverlay()
+		// Garante o overlay (pode faltar se o motor foi baixado avulso, sem ele) — baixa se preciso e sobe.
+		go a.garantirEIniciarOverlay()
 	} else {
-		// First-run: nenhum motor local/instalado. Baixa o motor padrão (+ overlay) e sobe — tudo em
-		// segundo plano; a UI acompanha por "motor_bootstrap_inicio"/"motor_download_progresso"/"ocr_pronto".
+		// First-run: nenhum motor instalado nem em bundle. Baixa o motor padrão (+ overlay) e ativa — tudo
+		// em segundo plano; a UI acompanha por "motor_bootstrap_inicio"/"motor_download_progresso"/"ocr_pronto".
 		fmt.Println("Nenhum motor de OCR encontrado — iniciando o bootstrap do motor padrão…")
 		go a.bootstrapMotorPadrao()
 	}
@@ -425,10 +426,20 @@ func (a *App) iniciarOverlay() {
 	fmt.Println("Overlay (popup) iniciado.")
 }
 
+// garantirEIniciarOverlay baixa o overlay compartilhado se ainda não estiver instalado e o sobe. Roda
+// em segundo plano (faz I/O de rede); iniciarOverlay é idempotente (não sobe o overlay duas vezes).
+func (a *App) garantirEIniciarOverlay() {
+	if err := a.garantirOverlay(); err != nil {
+		fmt.Printf("Aviso: overlay indisponível: %v\n", err)
+		return
+	}
+	a.iniciarOverlay()
+}
+
 // resolverComandoPopup decide como subir o overlay (popup), devolvendo ok=false quando NENHUM
-// executável é encontrado (ex.: first-run distribuído antes do bootstrap baixar o overlay). Ordem:
-// (1) overlay baixado no AppData (motores\_overlay\popup.exe); (2) sidecar ao lado do app; (3)
-// `python popup.py` no código-fonte, só se o arquivo existir. Ver motores.go e BUILD.md §3.
+// executável é encontrado (ex.: first-run antes de o bootstrap baixar o overlay). Ordem: (1) overlay
+// baixado no AppData (motores\_overlay\popup.exe); (2) overlay em bundle ao lado do app. NÃO há fallback
+// para `python popup.py`: o overlay é sempre um executável (baixado ou em bundle). Ver motores.go.
 func resolverComandoPopup() (*exec.Cmd, bool) {
 	// 1) Overlay baixado sob demanda no AppData (Fase 5).
 	if exe := caminhoExecutavelOverlay(); exe != "" {
@@ -437,7 +448,7 @@ func resolverComandoPopup() (*exec.Cmd, bool) {
 		}
 	}
 
-	// 2) Sidecar congelado ao lado do app (instalação com bundle / offline).
+	// 2) Overlay congelado ao lado do app (instalação com bundle / offline).
 	candidatosExe := []string{
 		filepath.Join("popup", "popup.exe"),
 		filepath.Join("dist", "popup", "popup.exe"),
@@ -446,16 +457,6 @@ func resolverComandoPopup() (*exec.Cmd, bool) {
 	for _, caminho := range candidatosExe {
 		if info, err := os.Stat(caminho); err == nil && !info.IsDir() {
 			return exec.Command(caminho), true
-		}
-	}
-
-	// 3) Código-fonte: popup.py com o Python do sistema (o cwd pode ser wails_app ou a raiz do projeto).
-	for _, caminhoPopup := range []string{
-		filepath.Join("..", "python_backend", "popup.py"),
-		filepath.Join("python_backend", "popup.py"),
-	} {
-		if _, err := os.Stat(caminhoPopup); err == nil {
-			return exec.Command("python", caminhoPopup), true
 		}
 	}
 	return nil, false
@@ -541,22 +542,67 @@ type SystemHardware struct {
 	Gpus []string `json:"gpus"`
 }
 
-// GetSystemHardware fetches the real hardware names from the Python backend
+// GetSystemHardware fetches the real hardware names natively in Go
 func (a *App) GetSystemHardware() SystemHardware {
-	resp, err := http.Get(enderecoBasePython() + "/api/hardware")
-	if err != nil {
-		fmt.Printf("Aviso: Falha ao buscar hardware do Python: %v\n", err)
-		return SystemHardware{Cpu: "CPU (Detecção Falhou)", Gpus: []string{"GPU (Detecção Falhou)"}}
-	}
-	defer resp.Body.Close()
-
-	var hw SystemHardware
-	if err := json.NewDecoder(resp.Body).Decode(&hw); err != nil {
-		fmt.Printf("Aviso: Falha ao decodificar JSON do hardware: %v\n", err)
-		return SystemHardware{Cpu: "CPU", Gpus: []string{"GPU"}}
+	cpu := "CPU"
+	out, err := exec.Command("powershell", "-NoProfile", "-Command", "(Get-ItemProperty -Path 'HKLM:\\HARDWARE\\DESCRIPTION\\System\\CentralProcessor\\0').ProcessorNameString").Output()
+	if err == nil {
+		cpuName := strings.TrimSpace(string(out))
+		if cpuName != "" {
+			cpu = cpuName
+		}
 	}
 
-	return hw
+	var gpus []string
+	out, err = exec.Command("powershell", "-NoProfile", "-Command", "Get-CimInstance Win32_VideoController | Select-Object -ExpandProperty Name").Output()
+	if err == nil {
+		linhas := strings.Split(string(out), "\n")
+		var filtradas []string
+		var todas []string
+		for _, linha := range linhas {
+			linha = strings.TrimSpace(linha)
+			if linha == "" {
+				continue
+			}
+			todas = append(todas, linha)
+
+			linhaLower := strings.ToLower(linha)
+			isVirtual := false
+			for _, excl := range []string{"virtual", "parsec", "mirror", "remote"} {
+				if strings.Contains(linhaLower, excl) {
+					isVirtual = true
+					break
+				}
+			}
+			if !isVirtual {
+				filtradas = append(filtradas, linha)
+			}
+		}
+
+		usar := filtradas
+		if len(filtradas) == 0 {
+			usar = todas
+		}
+
+		for _, g := range usar {
+			existe := false
+			for _, e := range gpus {
+				if e == g {
+					existe = true
+					break
+				}
+			}
+			if !existe {
+				gpus = append(gpus, g)
+			}
+		}
+	}
+
+	if len(gpus) == 0 {
+		gpus = append(gpus, "GPU (Detecção Falhou)")
+	}
+
+	return SystemHardware{Cpu: cpu, Gpus: gpus}
 }
 
 // ArquivoModelo é um arquivo (det/rec) que compõe um modelo, com a URL de download e o hash
@@ -998,14 +1044,30 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 			}
 
 			// Sub-caixa aproximada deste card dentro da linha (repartição proporcional por caracteres).
+			// Detecta a orientação da linha (horizontal vs vertical) pelo aspect ratio do bounding box
+			// e distribui proporcionalmente ao longo do eixo correto.
 			caixaCard := res.Caixa
 			nRunes := utf8.RuneCountInString(p)
 			if len(res.Caixa) == 4 && totalRunes > 0 {
 				x0 := res.Caixa[0]
+				y0 := res.Caixa[1]
 				largura := res.Caixa[2] - res.Caixa[0]
-				inicio := x0 + largura*float64(offsetRunes)/float64(totalRunes)
-				fim := x0 + largura*float64(offsetRunes+nRunes)/float64(totalRunes)
-				caixaCard = []float64{inicio, res.Caixa[1], fim, res.Caixa[3]}
+				altura := res.Caixa[3] - res.Caixa[1]
+
+				fracInicio := float64(offsetRunes) / float64(totalRunes)
+				fracFim := float64(offsetRunes+nRunes) / float64(totalRunes)
+
+				if altura > largura {
+					// Texto vertical: distribui ao longo de Y, mantém X inteiro
+					inicioY := y0 + altura*fracInicio
+					fimY := y0 + altura*fracFim
+					caixaCard = []float64{x0, inicioY, res.Caixa[2], fimY}
+				} else {
+					// Texto horizontal (ou quadrado): distribui ao longo de X, mantém Y inteiro
+					inicioX := x0 + largura*fracInicio
+					fimX := x0 + largura*fracFim
+					caixaCard = []float64{inicioX, y0, fimX, res.Caixa[3]}
+				}
 			}
 			offsetRunes += nRunes
 

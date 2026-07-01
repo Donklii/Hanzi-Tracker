@@ -81,13 +81,14 @@ MODELOS_BAIXAVEIS = {
 }
 
 
-# ----- Modelos embutidos (não baixáveis) -----
-# O modelo base "RapidOCR" usa os pesos mobile que já acompanham o pacote rapidocr_onnxruntime,
-# então não precisa de download. Listado aqui só para a UI exibir o estado "embutido".
+# ----- Pesos embutidos no motor (não baixáveis) -----
+# "Embutido" aqui é no nível de PESO, não de motor: os pesos mobile do PP-OCR já acompanham o pacote
+# rapidocr_onnxruntime, ou seja, vêm DENTRO do próprio motor RapidOCR (que na Fase 5 é um sidecar
+# baixável). Enquanto o motor RapidOCR estiver ativo, esses pesos estão disponíveis sem download extra.
 MODELOS_EMBUTIDOS = {
     "RapidOCR": {
         "rotulo": "RapidOCR (CPU Leve)",
-        "descricao": "Modelos mobile do PP-OCR embutidos no pacote. Sempre disponível.",
+        "descricao": "Modelos mobile do PP-OCR que já vêm com o motor RapidOCR (sem download extra).",
         "idiomas": ["zh", "en"],
     },
 }

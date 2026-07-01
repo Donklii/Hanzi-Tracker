@@ -16,18 +16,19 @@ import (
 // diretório de trabalho. Abstrai "qual motor está ativo" para o app trocar de motor apenas apontando o
 // descritor para outro executável baixado (ver Fase 5 no TODO.md e docs/CONTRATO-OCR.md).
 type DescritorMotorOcr struct {
-	Nome    string   // rótulo humano p/ logs (ex.: "RapidOCR (código-fonte)")
+	Nome    string   // rótulo humano p/ logs (ex.: "RapidOCR (bundle)")
 	Comando string   // executável: caminho do .exe congelado ou "python"
 	Args    []string // argumentos (ex.: caminho do server.py no modo fonte)
 	Dir     string   // diretório de trabalho ("" = herda do app)
 }
 
-// resolverMotorOcrPadrao resolve o backend de OCR a partir dos artefatos LOCAIS (não baixados): um
-// sidecar congelado ao lado do app (instalação com bundle / execução offline) ou, no código-fonte,
-// `python server.py`. Devolve ok=false quando NENHUM dos dois existe — o que, no modo distribuído,
-// significa que o motor ainda não foi baixado (sinal de first-run: quem decide o bootstrap é
-// resolverMotorInicial, que também considera os motores baixados no AppData). Ver motores.go e BUILD.md §3.
-func resolverMotorOcrPadrao() (DescritorMotorOcr, bool) {
+// resolverMotorOcrBundle resolve um sidecar congelado empacotado AO LADO do app (instalação com bundle
+// opcional / execução offline). NÃO há fallback para `python server.py`: todo motor é um executável,
+// baixado no AppData ou em bundle. Devolve ok=false quando não há bundle — sinal de que o motor precisa
+// ser baixado (o bootstrap decide isso; resolverMotorInicial também considera os motores já baixados no
+// AppData). Os arquivos python_backend/*.py continuam sendo a fonte para congelar os sidecars (não são
+// executados pelo app). Ver motores.go e BUILD.md §3.
+func resolverMotorOcrBundle() (DescritorMotorOcr, bool) {
 	// Sidecar congelado ao lado do app (PyInstaller onedir gera <nome>/<nome>.exe).
 	candidatosExe := []string{
 		filepath.Join("ocr_server", "ocr_server.exe"),
@@ -41,22 +42,7 @@ func resolverMotorOcrPadrao() (DescritorMotorOcr, bool) {
 			if errAbs != nil {
 				abs = caminho
 			}
-			return DescritorMotorOcr{Nome: "RapidOCR (sidecar ao lado do app)", Comando: abs}, true
-		}
-	}
-
-	// Código-fonte: server.py com o Python do sistema (o cwd pode ser wails_app ou a raiz do projeto).
-	// Só entra se o arquivo existir — no app distribuído (sem Python) `false` dispara o bootstrap.
-	for _, caminhoServer := range []string{
-		filepath.Join("..", "python_backend", "server.py"),
-		filepath.Join("python_backend", "server.py"),
-	} {
-		if _, err := os.Stat(caminhoServer); err == nil {
-			return DescritorMotorOcr{
-				Nome:    "RapidOCR (código-fonte)",
-				Comando: "python",
-				Args:    []string{caminhoServer},
-			}, true
+			return DescritorMotorOcr{Nome: "RapidOCR (bundle)", Comando: abs}, true
 		}
 	}
 	return DescritorMotorOcr{}, false

@@ -65,9 +65,11 @@ wails build   # instala/compila o frontend e gera HanziTracker.exe com os assets
 
 O **app Wails** é dono do backend de OCR e do overlay e **resolve automaticamente** qual executável
 subir: `resolverMotorInicial`/`resolverComandoPopup` procuram, nesta ordem, o motor **baixado no AppData**
-(`%APPDATA%\HanziTracker\motores\`, modelo padrão da Fase 5), depois o sidecar congelado **ao lado do app**
-e, por fim, `python server.py`/`popup.py` só no código-fonte. O orquestrador `main.go` (raiz) não sobe mais
-o OCR — só reserva a porta e a pasta de dados e lança o app.
+(`%APPDATA%\HanziTracker\motores\`, modelo padrão da Fase 5) e depois o sidecar congelado **ao lado do
+app** (bundle). **Não há mais fallback para `python server.py`/`popup.py`** — todo motor é um executável
+(baixado ou em bundle); se nenhum existe, o app baixa o padrão (bootstrap). Os `python_backend/*.py`
+seguem sendo a *fonte* que o `build_sidecars.ps1` congela, mas não são executados pelo app. O orquestrador
+`main.go` (raiz) não sobe mais o OCR — só reserva a porta e a pasta de dados e lança o app.
 
 Há **duas formas** de distribuir os motores (as duas funcionam; dá para combinar):
 
@@ -90,7 +92,7 @@ HanziTracker/
 > Caminhos procurados: motor baixado → `%APPDATA%\HanziTracker\motores\<Motor>\ocr_server.exe`; bundle →
 > `ocr_server/ocr_server.exe`, `dist/ocr_server/ocr_server.exe` ou `ocr_server.exe`; overlay baixado →
 > `motores\_overlay\popup.exe`, bundle → `popup/popup.exe`, `dist/popup/popup.exe` ou `popup.exe`.
-> Ausentes todos e sem `server.py`/`popup.py` (código-fonte), o app faz o bootstrap (baixa o padrão).
+> Ausentes todos, o app faz o bootstrap (baixa o motor padrão + overlay e ativa).
 
 ## Comportamento da aceleração
 

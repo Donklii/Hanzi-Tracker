@@ -62,11 +62,6 @@ class RequisicaoOcrHandler(BaseHTTPRequestHandler):
             })
             return
 
-        if self.path == '/api/hardware':
-            nomeCpu, listaGpus = servicoOcr._detectarHardware()
-            self._responderJson({"cpu": nomeCpu, "gpus": listaGpus})
-            return
-
         if self.path == '/api/modelos':
             self._responderJson(gerenciadorModelos.listar())
             return

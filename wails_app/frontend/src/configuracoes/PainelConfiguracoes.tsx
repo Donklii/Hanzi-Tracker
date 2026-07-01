@@ -3,6 +3,9 @@ import { useState } from 'react';
 import { config, main } from '../../wailsjs/go/models';
 import { AbrirPastaDados } from '../../wailsjs/go/main/App';
 
+// ----- Cores da barra de uso de armazenamento (uma por categoria; cicla se houver mais categorias) -----
+const CORES_CATEGORIA_ARMAZENAMENTO = ['#64b5f6', '#81c784', '#ffb74d', '#ba68c8', '#f06292', '#4db6ac', '#a1887f'];
+
 interface PainelConfiguracoesProps {
     painelConfigAberto: boolean;
     setPainelConfigAberto: (val: boolean) => void;
@@ -717,6 +720,35 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                     {!infoArmazenamento && (
                       <div style={{ fontSize: '12px', color: 'var(--cor-texto-suave)', marginTop: '6px' }}>Calculando…</div>
                     )}
+
+                    {infoArmazenamento && infoArmazenamento.totalBytes > 0 && (() => {
+                      // Barra empilhada: cada categoria com uso ocupa sua fração do total do app.
+                      const categorias = infoArmazenamento.itens.filter(it => it.bytes > 0);
+                      return (
+                        <div style={{ marginTop: '10px' }}>
+                          <div style={{ display: 'flex', height: '10px', borderRadius: '5px', overflow: 'hidden', backgroundColor: 'var(--cor-borda)' }}>
+                            {categorias.map((it, idx) => (
+                              <div
+                                key={it.chave}
+                                title={`${it.rotulo}: ${FormatarTamanho(it.bytes)}`}
+                                style={{
+                                  width: `${(it.bytes / infoArmazenamento.totalBytes) * 100}%`,
+                                  backgroundColor: CORES_CATEGORIA_ARMAZENAMENTO[idx % CORES_CATEGORIA_ARMAZENAMENTO.length],
+                                }}
+                              />
+                            ))}
+                          </div>
+                          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px 14px', marginTop: '8px' }}>
+                            {categorias.map((it, idx) => (
+                              <div key={it.chave} style={{ display: 'flex', alignItems: 'center', gap: '5px', fontSize: '11px', color: 'var(--cor-texto-suave)' }}>
+                                <span style={{ width: '10px', height: '10px', borderRadius: '2px', display: 'inline-block', backgroundColor: CORES_CATEGORIA_ARMAZENAMENTO[idx % CORES_CATEGORIA_ARMAZENAMENTO.length] }} />
+                                {it.rotulo} · {FormatarTamanho(it.bytes)}
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      );
+                    })()}
                   </div>
 
                   {infoArmazenamento?.itens.map(item => (

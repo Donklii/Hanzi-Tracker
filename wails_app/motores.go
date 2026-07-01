@@ -68,8 +68,8 @@ func descritorMotorInstalado(m MotorOcrBaixavel) (DescritorMotorOcr, bool) {
 
 // resolverMotorInicial escolhe o motor a subir na inicialização, na ordem: (1) motor preferido do
 // usuário (último ativo) instalado no AppData; (2) motor padrão do catálogo instalado no AppData;
-// (3) artefato local (sidecar ao lado do app ou python server.py no código-fonte). Devolve ok=false
-// quando NADA foi encontrado — sinal de first-run: o app deve chamar bootstrapMotorPadrao.
+// (3) sidecar em bundle ao lado do app. Devolve ok=false quando NADA foi encontrado — sinal de
+// first-run: o app deve chamar bootstrapMotorPadrao (baixa+instala+ativa o RapidOCR padrão).
 func resolverMotorInicial(nomePreferido string) (DescritorMotorOcr, bool) {
 	if nomePreferido != "" {
 		if m, ok := ObterMotorBaixavel(nomePreferido); ok {
@@ -83,7 +83,7 @@ func resolverMotorInicial(nomePreferido string) (DescritorMotorOcr, bool) {
 			return desc, true
 		}
 	}
-	return resolverMotorOcrPadrao()
+	return resolverMotorOcrBundle()
 }
 
 // ----- Download + extração -----
@@ -118,7 +118,12 @@ func extrairZip(origem, destino string) error {
 	}
 
 	for _, f := range r.File {
-		alvo := filepath.Join(destino, f.Name)
+		// Alguns zipadores (ex.: Compress-Archive do PowerShell) gravam os nomes com "\" em vez de "/",
+		// violando a spec ZIP. Normaliza para "/" para detectar diretório (trailing slash) e montar o
+		// caminho — sem isso, uma entrada de diretório vira arquivo vazio e a extração quebra depois.
+		nome := strings.ReplaceAll(f.Name, `\`, "/")
+		ehDir := strings.HasSuffix(nome, "/")
+		alvo := filepath.Join(destino, filepath.FromSlash(nome))
 
 		// Zip Slip: garante que o alvo fica DENTRO de destino.
 		alvoAbs, err := filepath.Abs(alvo)
@@ -129,7 +134,7 @@ func extrairZip(origem, destino string) error {
 			return fmt.Errorf("entrada de zip fora do destino (%s): %s", destino, f.Name)
 		}
 
-		if f.FileInfo().IsDir() {
+		if ehDir {
 			if err := os.MkdirAll(alvo, 0755); err != nil {
 				return err
 			}
@@ -172,6 +177,12 @@ func (a *App) baixarEExtrairArtefato(art ArtefatoBaixavel, destino string, onPro
 		return err
 	}
 
+	// Extração idempotente: limpa resíduo de uma tentativa anterior (ex.: download/extração parcial que
+	// falhou) antes de recriar o destino — senão um arquivo/diretório meio-criado colide com a nova
+	// extração (ex.: um "diretório" que ficou como arquivo vazio).
+	if err := os.RemoveAll(destino); err != nil {
+		return fmt.Errorf("falha ao limpar %s antes de extrair: %w", destino, err)
+	}
 	if err := os.MkdirAll(destino, 0755); err != nil {
 		return fmt.Errorf("falha ao criar %s: %w", destino, err)
 	}

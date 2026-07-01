@@ -7,9 +7,8 @@ on:
     branches: [ "*" ]
 
 jobs:
-  testar:
+  testar-python:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v4
 
@@ -25,5 +24,27 @@ jobs:
         pip install -r requirements.txt
 
     - name: Executar Testes
+      run: pytest
+
+  testar-go:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Configurar Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.25'
+
+    - name: Frontend dist mínimo
+      # O wails_app/main.go tem //go:embed all:frontend/dist, que exige a pasta em compile-time. No CI
+      # (checkout limpo) o dist ainda não foi buildado; os testes não usam o frontend, então basta um
+      # arquivo mínimo para o embed compilar.
       run: |
-        pytest
+        mkdir -p wails_app/frontend/dist
+        echo "<!doctype html><title>test</title>" > wails_app/frontend/dist/index.html
+
+    - name: Executar Testes (raiz + wails_app)
+      run: |
+        go test ./...
+        cd wails_app && go test ./...

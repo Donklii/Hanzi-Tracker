@@ -40,7 +40,14 @@ try {
 
 Write-Host "== 5/6  Empacotando (zip) as saidas onedir ==" -ForegroundColor Cyan
 # O onedir gera uma PASTA (exe + DLLs + dados). O artefato baixavel e o ZIP dessa pasta; o app o extrai
-# em %APPDATA%\HanziTracker\motores\<nome>\. Zipamos o CONTEUDO (exe na raiz do zip).
+# em %APPDATA%\HanziTracker\motores\<nome>\, com o exe na raiz do zip.
+#
+# IMPORTANTE: NAO usar Compress-Archive. O Compress-Archive do PowerShell grava os nomes das entradas com
+# separador "\" em vez de "/", violando a spec ZIP; extratores que a seguem (ex.: archive/zip do Go, no
+# app) tratam "\" como caractere literal, entao as entradas de diretorio nao sao reconhecidas e a extracao
+# quebra. [ZipFile]::CreateFromDirectory grava "/" corretamente; includeBaseDirectory=$false poe o
+# conteudo na raiz do zip (sem a pasta base).
+Add-Type -AssemblyName System.IO.Compression.FileSystem
 $pares = @(
     @{ Nome = "ocr_server"; Pasta = (Join-Path $backend "dist\ocr_server"); Zip = (Join-Path $backend "dist\ocr_server.zip") },
     @{ Nome = "popup";      Pasta = (Join-Path $backend "dist\popup");      Zip = (Join-Path $backend "dist\popup.zip") }
@@ -48,7 +55,7 @@ $pares = @(
 foreach ($p in $pares) {
     if (-not (Test-Path $p.Pasta)) { Write-Warning "NAO gerado: $($p.Pasta)"; continue }
     if (Test-Path $p.Zip) { Remove-Item $p.Zip -Force }
-    Compress-Archive -Path (Join-Path $p.Pasta "*") -DestinationPath $p.Zip
+    [System.IO.Compression.ZipFile]::CreateFromDirectory($p.Pasta, $p.Zip, [System.IO.Compression.CompressionLevel]::Optimal, $false)
 }
 
 Write-Host "== 6/6  Artefatos + sha256 (use no manifesto de motores) ==" -ForegroundColor Cyan

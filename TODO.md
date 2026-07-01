@@ -18,12 +18,21 @@ já é o padrão. **CUDA foi descartado** por custo/benefício: exigiria `onnxru
 ~2–3 GB de DLLs do CUDA/cuDNN embutidas, só p/ Nvidia e com ganho marginal em OCR. Reabrir só se houver
 demanda medida.
 
-- [ ] **Validar o CI de publicação** com um push de tag `motores-v*` real (não dá para testar localmente).
+Sobre "modelo embutido": o `MODELOS_EMBUTIDOS` (Python) **permanece** — "embutido" aqui é no nível de
+PESO, não de motor. Os pesos mobile do RapidOCR vêm dentro do pacote `rapidocr_onnxruntime`, ou seja,
+dentro do próprio motor (que já é sidecar baixável). Removê-lo esvaziaria o select "Modelo de OCR" de quem
+só tem o motor sem baixar pesos extras. A preocupação original ("motor não embutido") já foi resolvida
+pelo sistema de motores.
+
+- [ ] **⚠ Republicar os motores** (NECESSÁRIO — bloqueia o OCR). O `ocr_server.zip` do `motores-v1` foi
+      congelado com código PRÉ-rename: lê a env var antiga `CHINESESTUDY_OCR_PORT`, então sobe na porta
+      fallback 8080 e ignora a `HANZITRACKER_OCR_PORT` que o app reserva → o healthcheck falha e o motor
+      não engata. Solução: republicar via CI (nova tag), que congela com o código atual (env correta +
+      separador "/" do `build_sidecars.ps1` corrigido) e atualizar `motores_manifesto.go` para a nova tag +
+      hashes. Como não há mais fallback de código-fonte, o app depende 100% desse sidecar.
 - [ ] **Motores adicionais como sidecars:** EasyOCR (CPU e CUDA), Tesseract e PaddleOCR. Cada um empacota o
       seu runtime próprio isolado no `.exe` (substitui de vez o pip em runtime, que não funciona no
       congelado). O aviso de tamanho grande / requisito de GPU já está pronto na UI.
-- [ ] **RapidOCR deixa de ser "embutido":** remover `MODELOS_EMBUTIDOS` (Python) e o rótulo "embutido"/
-      "sempre disponível" da UI de modelos — RapidOCR vira só mais um motor baixável.
 - [ ] **Assinatura de código** dos binários dos sidecars (exige certificado; reduz falso positivo de
       antivírus). Hoje a integridade é garantida só por sha256.
 - [ ] **Recarregar o catálogo de PESOS por motor** ao trocar de motor (`TrocarMotor`) — só faz sentido com
@@ -32,12 +41,13 @@ demanda medida.
       demais (o RapidOCR já usa `modelos\RapidOCR\`).
 - [ ] **Manifesto de motores/modelos remoto (futuro):** buscar o catálogo de uma URL (com cache) para
       adicionar motores/modelos sem recompilar o app.
-- [ ] **Instalador do app (futuro):** deixar o usuário escolher quais motores/pesos já vêm no install
-      (bundle opcional), evitando o download no primeiro start; o download sob demanda continua depois.
+- [ ] **Instalador do app (futuro):** deixar o usuário escolher no install quais OCRs (motores) já vêm
+      embutidos — exigindo **pelo menos um** e permitindo **vários** (bundle opcional, evita o download no
+      primeiro start). O download sob demanda continua disponível depois. Hoje, sem instalador, o first-run
+      já baixa+instala+ativa o RapidOCR padrão sozinho (bootstrapMotorPadrao).
 
 ## Armazenamento (ideias futuras)
 - [ ] Permitir mover a pasta de modelos para outro disco.
-- [ ] Barra de uso por categoria na aba Armazenamento.
 - [ ] Limpeza automática agendada de logs antigos.
 
 ## Features Futuras (independentes)
