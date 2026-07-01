@@ -1,0 +1,13 @@
+# ----- Python -----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ----- Build / distribuição (PyInstaller) -----
+build/
+dist/
+*.exe
+build_env/
+
+# ----- Dados gerados em runtime -----
+exportacao/*.csv
