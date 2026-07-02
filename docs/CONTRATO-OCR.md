@@ -1,12 +1,15 @@
 # Contrato da API de OCR (v1)
 
 Este documento define o **contrato HTTP** que qualquer motor de OCR do Hanzi Tracker deve cumprir.
-Hoje a implementação de referência é o `python_backend/server.py` (motor padrão **RapidOCR**). Na
-Fase 5, cada motor vira um **sidecar** (executável autônomo) que fala exatamente este mesmo contrato,
-de forma que o app (Go) conversa com qualquer motor sem saber o que há por trás.
+A implementação é ÚNICA e compartilhada: `python_backend/principal/ServidorOcrModule.py` sobe o
+servidor do contrato, e cada motor é um *entry* fino que injeta nele o seu serviço e o seu catálogo de
+pesos — `server.py` (**RapidOCR**, padrão), `tesseract_server.py` (**Tesseract**) e
+`easyocr_server.py` (**EasyOCR**). Cada um vira um **sidecar** (executável autônomo) que fala
+exatamente este mesmo contrato, de forma que o app (Go) conversa com qualquer motor sem saber o que
+há por trás.
 
-> **Versão do contrato:** `1`. O número está em `VERSAO_CONTRATO_OCR` (Python, `server.py`) e em
-> `VersaoContratoOcr` (Go, `app.go`) — os dois devem casar. Incremente-o ao fazer qualquer mudança
+> **Versão do contrato:** `1`. O número está em `VERSAO_CONTRATO_OCR` (Python, `ServidorOcrModule.py`)
+> e em `VersaoContratoOcr` (Go, `app.go`) — os dois devem casar. Incremente-o ao fazer qualquer mudança
 > **quebrável** (novo/removido endpoint, header, ou formato de resposta). O app recusa um sidecar cujo
 > `versaoContrato` seja **maior** do que o que ele entende (motor mais novo que o app).
 
@@ -17,7 +20,10 @@ de forma que o app (Go) conversa com qualquer motor sem saber o que há por trá
   O **app** é dono do processo do motor e o sobe nessa porta (ou pede uma livre, se rodar avulso sem o
   orquestrador). Fallback `8080` só quando a variável não está definida.
 - Diretório de dados (leitura de pesos): repassado por `HANZITRACKER_DATA_DIR`; os pesos do motor
-  ficam em `<dados>/modelos/<Motor>/` (ex.: `modelos/RapidOCR/`).
+  ficam em `<dados>/modelos/<Motor>/` (ex.: `modelos/RapidOCR/`). `<Motor>` é o **nome de catálogo**
+  do motor, injetado pelo orquestrador em `HANZITRACKER_MOTOR` ao subir o sidecar — o mesmo nome que o
+  Go usa para **baixar** os pesos, então os dois lados concordam por construção. Fallback `RapidOCR`
+  quando a variável está ausente (execução avulsa em dev).
 - CORS: todo endpoint responde `Access-Control-Allow-Origin: *` e trata `OPTIONS` (preflight).
 
 ## Endpoints
@@ -39,6 +45,7 @@ Resposta `200 OK`:
 ```
 
 - `status`: `"ok"` quando pronto para receber OCR. Qualquer outro valor = ainda não pronto.
+- `motor`: o nome de catálogo do motor (ecoa `HANZITRACKER_MOTOR`; fallback `RapidOCR`).
 - `versaoContrato`: inteiro; o app recusa se for **maior** que `VersaoContratoOcr`.
 
 ### `GET /api/hardware`
@@ -80,7 +87,10 @@ Resposta `200 OK` — lista de:
 
 - `arquivos[].sha256`: hash esperado do arquivo. Quando **preenchido**, o Go confere após o download e
   aborta em caso de divergência; **vazio** = verificação pulada (torna-se **obrigatório** para os
-  binários de motor na Fase 5).
+  binários de motor na Fase 5 e para pesos `.pth` — pickle executa código ao desserializar).
+- **Peso publicado zipado:** se `arquivos[].url` termina em `.zip` mas `arquivos[].nome` não (caso do
+  EasyOCR, cujo upstream publica cada `.pth` zipado), o Go baixa o zip, confere o `sha256` **do zip** e
+  extrai o `nome` na pasta de modelos, descartando o zip.
 
 ### `POST /api/ocr`
 

@@ -7,6 +7,7 @@ export namespace config {
 	    hardwareSelecionado: string;
 	    dispositivoOcr: string;
 	    modeloOcr: string;
+	    motorOcrAtivo: string;
 	    escalaResolucaoOcr: number;
 	    limitarPorUsoCpu: boolean;
 	    usoMaximoCpuPercent: number;
@@ -17,11 +18,18 @@ export namespace config {
 	    habilitarPopupHover: boolean;
 	    tempoParadoPopupMs: number;
 	    destacarEstudoTela: boolean;
+	    destacarEstudoParcialTela: boolean;
 	    monitorAlvo: number;
 	    atalhoEscanear: string;
 	    atalhoPopupTodos: string;
 	    atalhoMarcarEstudo: string;
 	    atalhoAlternarPopupHover: string;
+	    traducaoApiKey: string;
+	    traducaoAtiva: boolean;
+	    traducaoPausarPorCota: boolean;
+	    traducaoLimiteCotaPercent: number;
+	    traducaoUsarCache: boolean;
+	    censurarJanelasDoApp: boolean;
 	
 	    static createFrom(source: any = {}) {
 	        return new Config(source);
@@ -35,6 +43,7 @@ export namespace config {
 	        this.hardwareSelecionado = source["hardwareSelecionado"];
 	        this.dispositivoOcr = source["dispositivoOcr"];
 	        this.modeloOcr = source["modeloOcr"];
+	        this.motorOcrAtivo = source["motorOcrAtivo"];
 	        this.escalaResolucaoOcr = source["escalaResolucaoOcr"];
 	        this.limitarPorUsoCpu = source["limitarPorUsoCpu"];
 	        this.usoMaximoCpuPercent = source["usoMaximoCpuPercent"];
@@ -45,11 +54,18 @@ export namespace config {
 	        this.habilitarPopupHover = source["habilitarPopupHover"];
 	        this.tempoParadoPopupMs = source["tempoParadoPopupMs"];
 	        this.destacarEstudoTela = source["destacarEstudoTela"];
+	        this.destacarEstudoParcialTela = source["destacarEstudoParcialTela"];
 	        this.monitorAlvo = source["monitorAlvo"];
 	        this.atalhoEscanear = source["atalhoEscanear"];
 	        this.atalhoPopupTodos = source["atalhoPopupTodos"];
 	        this.atalhoMarcarEstudo = source["atalhoMarcarEstudo"];
 	        this.atalhoAlternarPopupHover = source["atalhoAlternarPopupHover"];
+	        this.traducaoApiKey = source["traducaoApiKey"];
+	        this.traducaoAtiva = source["traducaoAtiva"];
+	        this.traducaoPausarPorCota = source["traducaoPausarPorCota"];
+	        this.traducaoLimiteCotaPercent = source["traducaoLimiteCotaPercent"];
+	        this.traducaoUsarCache = source["traducaoUsarCache"];
+	        this.censurarJanelasDoApp = source["censurarJanelasDoApp"];
 	    }
 	}
 
@@ -143,6 +159,7 @@ export namespace main {
 	export class ArquivoModelo {
 	    nome: string;
 	    url: string;
+	    sha256: string;
 	
 	    static createFrom(source: any = {}) {
 	        return new ArquivoModelo(source);
@@ -152,6 +169,7 @@ export namespace main {
 	        if ('string' === typeof source) source = JSON.parse(source);
 	        this.nome = source["nome"];
 	        this.url = source["url"];
+	        this.sha256 = source["sha256"];
 	    }
 	}
 	export class FlashcardCard {
@@ -174,6 +192,24 @@ export namespace main {
 	        this.confianca = source["confianca"];
 	        this.caixa = source["caixa"];
 	        this.imageId = source["imageId"];
+	    }
+	}
+	export class InfoCotaTraducao {
+	    caracteresUsados: number;
+	    cotaTotal: number;
+	    percentual: number;
+	    anoMes: string;
+	
+	    static createFrom(source: any = {}) {
+	        return new InfoCotaTraducao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.caracteresUsados = source["caracteresUsados"];
+	        this.cotaTotal = source["cotaTotal"];
+	        this.percentual = source["percentual"];
+	        this.anoMes = source["anoMes"];
 	    }
 	}
 	export class ItemArmazenamento {
@@ -246,38 +282,6 @@ export namespace main {
 		    return a;
 		}
 	}
-	export class MotorOcrInfo {
-	    nome: string;
-	    rotulo: string;
-	    descricao: string;
-	    idiomas: string[];
-	    versao: string;
-	    variante: string;
-	    requisitos: string;
-	    padrao: boolean;
-	    tamanhoBytes: number;
-	    instalado: boolean;
-	    ativo: boolean;
-
-	    static createFrom(source: any = {}) {
-	        return new MotorOcrInfo(source);
-	    }
-
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.nome = source["nome"];
-	        this.rotulo = source["rotulo"];
-	        this.descricao = source["descricao"];
-	        this.idiomas = source["idiomas"];
-	        this.versao = source["versao"];
-	        this.variante = source["variante"];
-	        this.requisitos = source["requisitos"];
-	        this.padrao = source["padrao"];
-	        this.tamanhoBytes = source["tamanhoBytes"];
-	        this.instalado = source["instalado"];
-	        this.ativo = source["ativo"];
-	    }
-	}
 	export class Monitor {
 	    id: number;
 	    nome: string;
@@ -298,6 +302,38 @@ export namespace main {
 	        this.altura = source["altura"];
 	        this.x = source["x"];
 	        this.y = source["y"];
+	    }
+	}
+	export class MotorOcrInfo {
+	    nome: string;
+	    rotulo: string;
+	    descricao: string;
+	    idiomas: string[];
+	    versao: string;
+	    variante: string;
+	    requisitos: string;
+	    padrao: boolean;
+	    tamanhoBytes: number;
+	    instalado: boolean;
+	    ativo: boolean;
+	
+	    static createFrom(source: any = {}) {
+	        return new MotorOcrInfo(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.nome = source["nome"];
+	        this.rotulo = source["rotulo"];
+	        this.descricao = source["descricao"];
+	        this.idiomas = source["idiomas"];
+	        this.versao = source["versao"];
+	        this.variante = source["variante"];
+	        this.requisitos = source["requisitos"];
+	        this.padrao = source["padrao"];
+	        this.tamanhoBytes = source["tamanhoBytes"];
+	        this.instalado = source["instalado"];
+	        this.ativo = source["ativo"];
 	    }
 	}
 	export class Resolucao {

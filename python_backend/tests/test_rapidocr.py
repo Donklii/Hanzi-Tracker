@@ -1,7 +1,8 @@
-# ----- Testes do manifesto de modelos de OCR -----
-# Smoke tests do catálogo de pesos ONNX (ocr/ModelosManifesto.py): consultas e integridade do catálogo.
+# ----- Testes do motor RapidOCR -----
+# Smoke tests do catálogo de pesos ONNX (motores/rapidocr/ModelosManifesto.py): consultas e
+# integridade do catálogo.
 
-from ocr import ModelosManifesto
+from motores.rapidocr import ModelosManifesto
 
 
 # ----- Consultas de modelos baixáveis -----

@@ -2,25 +2,30 @@
 import os
 from typing import Dict, List
 
-from ocr import ModelosManifesto
 from principal import ConstantesModule
 
 
 # ----- Gerenciador de Modelos de OCR -----
 class GerenciadorModelos:
-    """Baixa, lista e remove os modelos ONNX de OCR em %APPDATA%\\HanziTracker\\modelos.
+    """Lista os pesos de OCR de UM motor em %APPDATA%\\HanziTracker\\modelos\\<Motor>.
 
-    Apenas modelos ONNX (RapidOCR / PP-OCR) são gerenciados aqui — engines pip não podem
-    ser instalados num executável compilado, então não fazem parte do download dinâmico.
+    Genérico para qualquer motor: recebe o MANIFESTO de pesos dele (módulo com
+    MODELOS_BAIXAVEIS/MODELOS_EMBUTIDOS/obterModelo — ex.: motores.rapidocr.ModelosManifesto) e
+    resolve a subpasta pelo nome do motor (HANZITRACKER_MOTOR, via obterNomeMotor). Sem valor
+    padrão: cada motor está numa pasta própria em motores/, então o chamador SEMPRE informa o seu.
     """
 
-    def obterPastaModelos(self) -> str:
-        """Retorna (criando se preciso) a pasta de pesos do RapidOCR na pasta de dados do app.
+    def __init__(self, manifesto) -> None:
+        self._manifesto = manifesto
 
-        Cada motor tem sua subpasta dedicada sob 'modelos' (aqui: modelos/RapidOCR) para não colidir
-        com os pesos de outros motores. Deve casar com `pastaModelosRapidOcr()` do Go, que baixa os pesos.
+    def obterPastaModelos(self) -> str:
+        """Retorna (criando se preciso) a pasta de pesos DESTE motor na pasta de dados do app.
+
+        Cada motor tem sua subpasta dedicada sob 'modelos' (modelos/<Motor>, ex.: modelos/RapidOCR)
+        para não colidir com os pesos de outros motores. O nome vem de HANZITRACKER_MOTOR (injetada
+        pelo Go ao subir o sidecar) e deve casar com `pastaModelosMotor()` do Go, que baixa os pesos.
         """
-        pasta = os.path.join(ConstantesModule.obterPastaDados(), "modelos", "RapidOCR")
+        pasta = os.path.join(ConstantesModule.obterPastaDados(), "modelos", ConstantesModule.obterNomeMotor())
         os.makedirs(pasta, exist_ok=True)
         return pasta
 
@@ -29,7 +34,7 @@ class GerenciadorModelos:
 
     def caminhosModelo(self, nomeModelo: str) -> Dict[str, str]:
         """Mapa tipo -> caminho local (det/rec/cls) dos arquivos de um modelo baixável."""
-        modelo = ModelosManifesto.obterModelo(nomeModelo)
+        modelo = self._manifesto.obterModelo(nomeModelo)
 
         # Guard clause: modelo não é baixável
         if modelo is None:
@@ -59,7 +64,7 @@ class GerenciadorModelos:
         """Lista os modelos (embutidos + baixáveis) com o estado atual para a UI."""
         lista: List[dict] = []
 
-        for nome, info in ModelosManifesto.MODELOS_EMBUTIDOS.items():
+        for nome, info in self._manifesto.MODELOS_EMBUTIDOS.items():
             lista.append({
                 "nome": nome,
                 "rotulo": info["rotulo"],
@@ -71,7 +76,7 @@ class GerenciadorModelos:
                 "tamanhoBytes": 0,
             })
 
-        for nome, info in ModelosManifesto.MODELOS_BAIXAVEIS.items():
+        for nome, info in self._manifesto.MODELOS_BAIXAVEIS.items():
             instalado = self.modeloInstalado(nome)
             lista.append({
                 "nome": nome,

@@ -10,6 +10,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"image"
+	"image/draw"
 	"image/png"
 	"io"
 	"net/http"
@@ -17,9 +18,13 @@ import (
 	"os/exec"
 	"path/filepath"
 	"strings"
-	"syscall"
+	"sync"
 	"time"
+	"unicode"
 	"unicode/utf8"
+
+	"wails_app/overlay"
+	"wails_app/traducao"
 
 	"github.com/kbinani/screenshot"
 	"github.com/wailsapp/wails/v2/pkg/runtime"
@@ -97,6 +102,21 @@ func aguardarBackendOcr(timeout time.Duration) error {
 	return fmt.Errorf("backend de OCR não ficou pronto em %s: %w", timeout, ultimoErro)
 }
 
+// LinhaTraduzida armazena a tradução de uma linha OCR inteira (antes da segmentação em palavras).
+type LinhaTraduzida struct {
+	Texto    string    `json:"texto"`
+	Traducao string    `json:"traducao"` // "" se não traduzida (feature off, cota estourada ou erro de API)
+	Caixa    []float64 `json:"caixa"`     // caixa da LINHA inteira (res.Caixa), NÃO repartida por palavra
+}
+
+// InfoCotaTraducao é o DTO exposto ao frontend com o estado de cota de tradução.
+type InfoCotaTraducao struct {
+	CaracteresUsados int     `json:"caracteresUsados"`
+	CotaTotal        int     `json:"cotaTotal"`
+	Percentual       float64 `json:"percentual"`
+	AnoMes           string  `json:"anoMes"`
+}
+
 // App struct
 type App struct {
 	ctx           context.Context
@@ -104,10 +124,10 @@ type App struct {
 	Cedict        *dicionario.Cedict
 	BancoHanzi    *dicionario.BancoMakeMeAHanzi
 	lastImageHash string
+	mu            sync.RWMutex
 	lastCards     []FlashcardCard
+	lastLinhas    []LinhaTraduzida
 
-	popupCmd           *exec.Cmd
-	popupStdin         io.WriteCloser
 	popupsTodosVisivel bool
 
 	// motorOcr é dono do ciclo de vida do processo de OCR (subir/derrubar/trocar). A posse migrou do
@@ -157,6 +177,11 @@ func (a *App) AddVocab(hanzi, pinyin, significado, status string) error {
 	return progresso.AddOuUpdateVocab(hanzi, pinyin, significado, status)
 }
 
+// RemoveVocab
+func (a *App) RemoveVocab(hanzi string) error {
+	return progresso.RemoveVocab(hanzi)
+}
+
 // GetVocab
 func (a *App) GetVocab() ([]progresso.Vocab, error) {
 	return progresso.GetAllVocab()
@@ -167,32 +192,33 @@ func (a *App) GetConfig() (config.Config, error) {
 	return a.Config, nil
 }
 
-// ShowHoverPopup sends a message to popup.py to show the window
-// NOTA: x, y aqui já são coordenadas globais do desktop virtual (vindas de mouse.GetCursorPos),
-// portanto NÃO devemos somar o offset do monitor.
+// ShowHoverPopup exibe o card único perto do mouse.
 func (a *App) ShowHoverPopup(pinyin, hanzi, sig string, x, y int) {
-	if a.popupStdin != nil {
-		data := map[string]interface{}{
-			"action":       "show",
-			"pinyin":       pinyin,
-			"hanzi":        hanzi,
-			"significados": sig,
-			"x":            x,
-			"y":            y,
-		}
-		b, _ := json.Marshal(data)
-		a.popupStdin.Write(append(b, '\n'))
-	}
+	overlay.Show(pinyin, hanzi, sig, x, y)
 }
 
-// HideHoverPopup hides the floating popup window
+// HideHoverPopup oculta o card único.
 func (a *App) HideHoverPopup() {
-	if a.popupStdin != nil {
-		data := map[string]interface{}{
-			"action": "hide",
+	overlay.Hide()
+}
+
+func contemHanzi(s string) bool {
+	for _, r := range s {
+		if unicode.Is(unicode.Han, r) {
+			return true
 		}
-		b, _ := json.Marshal(data)
-		a.popupStdin.Write(append(b, '\n'))
+	}
+	return false
+}
+
+// GetCotaTraducao retorna o estado atual da cota de tradução para exibição no frontend.
+func (a *App) GetCotaTraducao() InfoCotaTraducao {
+	usados, total, pct, anoMes := traducao.InfoCotaParaUI()
+	return InfoCotaTraducao{
+		CaracteresUsados: usados,
+		CotaTotal:        total,
+		Percentual:       pct,
+		AnoMes:           anoMes,
 	}
 }
 
@@ -208,100 +234,174 @@ func (a *App) alternarTodosPopups() {
 	a.popupsTodosVisivel = true
 }
 
-// mostrarTodosPopups envia todos os cards do último scan ao popup.py para exibição simultânea.
-// O popup.py posiciona cada um sobre sua caixa e resolve sobreposições (empilhando e/ou
-// reduzindo o tamanho conforme necessário).
+// mostrarTodosPopups envia todos os cards do último scan ao overlay nativo para exibição simultânea.
+// Quando a tradução está ativa e há linhas traduzidas, monta os pop-ups por LINHA (um pop-up por
+// linha OCR com a tradução) em vez do modo padrão (um pop-up por palavra com pinyin/significado).
 func (a *App) mostrarTodosPopups() {
-	if a.popupStdin == nil {
-		return
-	}
-
 	monitorID := a.Config.MonitorAlvo
 	if monitorID >= screenshot.NumActiveDisplays() {
 		monitorID = 0
 	}
 	bounds := screenshot.GetDisplayBounds(monitorID)
-	offX := float64(bounds.Min.X)
-	offY := float64(bounds.Min.Y)
+	offX := bounds.Min.X
+	offY := bounds.Min.Y
 
-	itens := make([]map[string]interface{}, 0, len(a.lastCards))
-	for _, c := range a.lastCards {
+	a.mu.RLock()
+	linhasCopia := make([]LinhaTraduzida, len(a.lastLinhas))
+	copy(linhasCopia, a.lastLinhas)
+	cardsCopia := make([]FlashcardCard, len(a.lastCards))
+	copy(cardsCopia, a.lastCards)
+	a.mu.RUnlock()
+
+	// Modo LINHA: se a tradução está ativa e há pelo menos uma linha com tradução não-vazia,
+	// mostra um pop-up por LINHA (Hanzi = texto original, Sig = tradução, Pinyin = "").
+	if a.Config.TraducaoAtiva && a.Config.TraducaoApiKey != "" && len(linhasCopia) > 0 {
+		var itens []overlay.ItemPopup
+		temTraducao := false
+
+		for i := range linhasCopia {
+			l := &linhasCopia[i]
+
+			if !contemHanzi(l.Texto) {
+				continue
+			}
+
+			if l.Traducao == "" {
+				var traduzida bool
+				var traducaoLinha string
+
+				if a.Config.TraducaoUsarCache {
+					if cached, achou, err := progresso.BuscarTraducaoCache(l.Texto); err == nil && achou {
+						traducaoLinha = cached
+						traduzida = true
+					}
+				}
+
+				if !traduzida {
+					podeChamarAPI := true
+					if a.Config.TraducaoPausarPorCota {
+						if traducao.CotaExcedida(a.Config.TraducaoLimiteCotaPercent) {
+							podeChamarAPI = false
+						}
+					}
+
+					if podeChamarAPI {
+						if trad, err := traducao.Traduzir(a.Config.TraducaoApiKey, l.Texto, "pt"); err == nil && trad != "" {
+							traducaoLinha = trad
+							_ = traducao.RegistrarUso(len([]rune(l.Texto)))
+							if a.Config.TraducaoUsarCache {
+								_ = progresso.SalvarTraducaoCache(l.Texto, trad)
+							}
+						} else if err != nil {
+							fmt.Printf("Aviso: tradução falhou para linha: %v\n", err)
+						}
+					}
+				}
+				l.Traducao = traducaoLinha
+			}
+
+			if l.Traducao != "" {
+				temTraducao = true
+				if len(l.Caixa) == 4 {
+					itens = append(itens, overlay.ItemPopup{
+						Pinyin: "",
+						Hanzi:  l.Texto,
+						Sig:    l.Traducao,
+						X0:     int(l.Caixa[0]) + offX,
+						Y0:     int(l.Caixa[1]) + offY,
+						X1:     int(l.Caixa[2]) + offX,
+						Y1:     int(l.Caixa[3]) + offY,
+					})
+				}
+			}
+		}
+
+		if temTraducao {
+			overlay.MostrarTodos(itens, bounds.Dx(), bounds.Dy())
+			return
+		}
+	}
+
+	// Modo PALAVRA (padrão): um pop-up por palavra com pinyin/significado.
+	var itens []overlay.ItemPopup
+	for _, c := range cardsCopia {
 		if len(c.Caixa) != 4 {
 			continue
 		}
-		itens = append(itens, map[string]interface{}{
-			"pinyin":       c.Pinyin,
-			"hanzi":        c.Hanzi,
-			"significados": strings.Join(c.Significados, ", "),
-			"x0":           c.Caixa[0] + offX,
-			"y0":           c.Caixa[1] + offY,
-			"x1":           c.Caixa[2] + offX,
-			"y1":           c.Caixa[3] + offY,
+		itens = append(itens, overlay.ItemPopup{
+			Pinyin: c.Pinyin,
+			Hanzi:  c.Hanzi,
+			Sig:    strings.Join(c.Significados, ", "),
+			X0:     int(c.Caixa[0]) + offX,
+			Y0:     int(c.Caixa[1]) + offY,
+			X1:     int(c.Caixa[2]) + offX,
+			Y1:     int(c.Caixa[3]) + offY,
 		})
 	}
 
-	b, _ := json.Marshal(map[string]interface{}{"action": "show_all", "itens": itens})
-	a.popupStdin.Write(append(b, '\n'))
+	overlay.MostrarTodos(itens, bounds.Dx(), bounds.Dy())
 }
 
 // ocultarTodosPopups remove todos os pop-ups exibidos pelo "mostrar pop-up de tudo".
 func (a *App) ocultarTodosPopups() {
-	if a.popupStdin == nil {
-		return
-	}
-	b, _ := json.Marshal(map[string]interface{}{"action": "hide_all"})
-	a.popupStdin.Write(append(b, '\n'))
+	overlay.OcultarTodos()
 }
 
-// ShowHighlight sends a message to popup.py to draw a bounding box
+// ShowHighlight desenha uma borda ao redor de uma área específica
 func (a *App) ShowHighlight(x0, y0, x1, y1 int) {
-	if a.popupStdin != nil {
-		monitorID := a.Config.MonitorAlvo
-		if monitorID >= screenshot.NumActiveDisplays() {
-			monitorID = 0
-		}
-		bounds := screenshot.GetDisplayBounds(monitorID)
-
-		data := map[string]interface{}{
-			"action": "highlight",
-			"x0":     x0 + bounds.Min.X,
-			"y0":     y0 + bounds.Min.Y,
-			"x1":     x1 + bounds.Min.X,
-			"y1":     y1 + bounds.Min.Y,
-		}
-		b, _ := json.Marshal(data)
-		a.popupStdin.Write(append(b, '\n'))
+	monitorID := a.Config.MonitorAlvo
+	if monitorID >= screenshot.NumActiveDisplays() {
+		monitorID = 0
 	}
+	bounds := screenshot.GetDisplayBounds(monitorID)
+
+	overlay.ShowHighlight(x0+bounds.Min.X, y0+bounds.Min.Y, x1+bounds.Min.X, y1+bounds.Min.Y)
 }
 
-// ShowEstudoHighlights sends a message to popup.py to draw multiple study highlights
+// ShowEstudoHighlights envia molduras azuis para indicar palavras em estudo
 func (a *App) ShowEstudoHighlights(boxes [][]float64) {
-	if a.popupStdin != nil {
-		monitorID := a.Config.MonitorAlvo
-		if monitorID >= screenshot.NumActiveDisplays() {
-			monitorID = 0
-		}
-		bounds := screenshot.GetDisplayBounds(monitorID)
-
-		adjustedBoxes := make([][]float64, 0, len(boxes))
-		for _, box := range boxes {
-			if len(box) == 4 {
-				adjustedBoxes = append(adjustedBoxes, []float64{
-					box[0] + float64(bounds.Min.X),
-					box[1] + float64(bounds.Min.Y),
-					box[2] + float64(bounds.Min.X),
-					box[3] + float64(bounds.Min.Y),
-				})
-			}
-		}
-
-		data := map[string]interface{}{
-			"action": "estudo_highlights",
-			"boxes":  adjustedBoxes,
-		}
-		b, _ := json.Marshal(data)
-		a.popupStdin.Write(append(b, '\n'))
+	monitorID := a.Config.MonitorAlvo
+	if monitorID >= screenshot.NumActiveDisplays() {
+		monitorID = 0
 	}
+	bounds := screenshot.GetDisplayBounds(monitorID)
+
+	adjustedBoxes := make([][]float64, 0, len(boxes))
+	for _, box := range boxes {
+		if len(box) == 4 {
+			adjustedBoxes = append(adjustedBoxes, []float64{
+				box[0] + float64(bounds.Min.X),
+				box[1] + float64(bounds.Min.Y),
+				box[2] + float64(bounds.Min.X),
+				box[3] + float64(bounds.Min.Y),
+			})
+		}
+	}
+
+	overlay.ShowEstudoHighlights(adjustedBoxes)
+}
+
+// ShowEstudoParcialHighlights envia molduras amarelas para indicar caracteres individuais em estudo dentro de palavras
+func (a *App) ShowEstudoParcialHighlights(boxes [][]float64) {
+	monitorID := a.Config.MonitorAlvo
+	if monitorID >= screenshot.NumActiveDisplays() {
+		monitorID = 0
+	}
+	bounds := screenshot.GetDisplayBounds(monitorID)
+
+	adjustedBoxes := make([][]float64, 0, len(boxes))
+	for _, box := range boxes {
+		if len(box) == 4 {
+			adjustedBoxes = append(adjustedBoxes, []float64{
+				box[0] + float64(bounds.Min.X),
+				box[1] + float64(bounds.Min.Y),
+				box[2] + float64(bounds.Min.X),
+				box[3] + float64(bounds.Min.Y),
+			})
+		}
+	}
+
+	overlay.ShowEstudoParcialHighlights(adjustedBoxes)
 }
 
 // SaveConfig saves the configuration and updates the App state
@@ -316,9 +416,7 @@ func (a *App) shutdown(ctx context.Context) {
 	if a.motorOcr != nil {
 		a.motorOcr.Encerrar()
 	}
-	if a.popupCmd != nil && a.popupCmd.Process != nil {
-		a.popupCmd.Process.Kill()
-	}
+	overlay.Encerrar()
 	progresso.LimparImagensSessao()
 }
 
@@ -390,8 +488,8 @@ func (a *App) startup(ctx context.Context) {
 			runtime.EventsEmit(a.ctx, "ocr_pronto")
 		}()
 
-		// Garante o overlay (pode faltar se o motor foi baixado avulso, sem ele) — baixa se preciso e sobe.
-		go a.garantirEIniciarOverlay()
+		// Inicializa o overlay embutido.
+		overlay.Iniciar()
 	} else {
 		// First-run: nenhum motor instalado nem em bundle. Baixa o motor padrão (+ overlay) e ativa — tudo
 		// em segundo plano; a UI acompanha por "motor_bootstrap_inicio"/"motor_download_progresso"/"ocr_pronto".
@@ -400,67 +498,7 @@ func (a *App) startup(ctx context.Context) {
 	}
 }
 
-// iniciarOverlay sobe o processo de overlay (popup) se ainda não estiver rodando e houver um executável
-// resolvível. É idempotente: chamado no startup e de novo após o bootstrap (quando o overlay só passa a
-// existir depois de baixado). O Go dirige o overlay por stdin; a janela fica oculta (HideWindow).
-func (a *App) iniciarOverlay() {
-	if a.popupCmd != nil {
-		return // já rodando
-	}
-	cmd, ok := resolverComandoPopup()
-	if !ok {
-		return // sem overlay disponível (ex.: first-run antes do bootstrap concluir)
-	}
-	stdin, err := cmd.StdinPipe()
-	if err != nil {
-		return
-	}
-	cmd.Stdout = os.Stdout
-	cmd.Stderr = os.Stderr
-	cmd.SysProcAttr = &syscall.SysProcAttr{HideWindow: true}
-	if err := cmd.Start(); err != nil {
-		return
-	}
-	a.popupCmd = cmd
-	a.popupStdin = stdin
-	fmt.Println("Overlay (popup) iniciado.")
-}
 
-// garantirEIniciarOverlay baixa o overlay compartilhado se ainda não estiver instalado e o sobe. Roda
-// em segundo plano (faz I/O de rede); iniciarOverlay é idempotente (não sobe o overlay duas vezes).
-func (a *App) garantirEIniciarOverlay() {
-	if err := a.garantirOverlay(); err != nil {
-		fmt.Printf("Aviso: overlay indisponível: %v\n", err)
-		return
-	}
-	a.iniciarOverlay()
-}
-
-// resolverComandoPopup decide como subir o overlay (popup), devolvendo ok=false quando NENHUM
-// executável é encontrado (ex.: first-run antes de o bootstrap baixar o overlay). Ordem: (1) overlay
-// baixado no AppData (motores\_overlay\popup.exe); (2) overlay em bundle ao lado do app. NÃO há fallback
-// para `python popup.py`: o overlay é sempre um executável (baixado ou em bundle). Ver motores.go.
-func resolverComandoPopup() (*exec.Cmd, bool) {
-	// 1) Overlay baixado sob demanda no AppData (Fase 5).
-	if exe := caminhoExecutavelOverlay(); exe != "" {
-		if info, err := os.Stat(exe); err == nil && !info.IsDir() {
-			return exec.Command(exe), true
-		}
-	}
-
-	// 2) Overlay congelado ao lado do app (instalação com bundle / offline).
-	candidatosExe := []string{
-		filepath.Join("popup", "popup.exe"),
-		filepath.Join("dist", "popup", "popup.exe"),
-		"popup.exe",
-	}
-	for _, caminho := range candidatosExe {
-		if info, err := os.Stat(caminho); err == nil && !info.IsDir() {
-			return exec.Command(caminho), true
-		}
-	}
-	return nil, false
-}
 
 // Resolucao representa a resolução (em px) do monitor de captura.
 type Resolucao struct {
@@ -666,7 +704,14 @@ func (a *App) BaixarModelo(nome string) error {
 		return fmt.Errorf("o modelo '%s' não é baixável", nome)
 	}
 
-	destino := pastaModelosRapidOcr()
+	// O catálogo veio do motor ATIVO (ListarModelos consulta o processo dele), então os pesos vão para
+	// a subpasta desse motor — a mesma que o Python monta a partir de HANZITRACKER_MOTOR.
+	motorAtivo := a.nomeMotorAtivo()
+	if motorAtivo == "" {
+		return fmt.Errorf("nenhum motor de OCR ativo para receber o modelo '%s'", nome)
+	}
+
+	destino := pastaModelosMotor(motorAtivo)
 	if err := os.MkdirAll(destino, 0755); err != nil {
 		return fmt.Errorf("falha ao criar a pasta de modelos: %w", err)
 	}
@@ -677,10 +722,35 @@ func (a *App) BaixarModelo(nome string) error {
 		if _, err := os.Stat(caminho); err == nil {
 			continue // já baixado
 		}
-		if err := a.baixarArquivo(arq.Url, caminho, arq.Sha256, func(msg string) { a.emitirProgressoModelo(nome, msg) }); err != nil {
+		if err := a.baixarArquivoModelo(arq, destino, caminho, func(msg string) { a.emitirProgressoModelo(nome, msg) }); err != nil {
 			a.emitirProgressoModelo(nome, "⚠️ "+err.Error())
 			return err
 		}
+	}
+	return nil
+}
+
+// baixarArquivoModelo baixa UM arquivo de peso para a pasta do motor ativo. Alguns catálogos (ex.:
+// EasyOCR) publicam o peso ZIPADO — a URL termina em .zip mas `arq.Nome` é o arquivo final (.pth):
+// nesse caso o sha256 confere o ZIP baixado, que é extraído no destino e descartado.
+func (a *App) baixarArquivoModelo(arq ArquivoModelo, destino, caminho string, onProgresso func(string)) error {
+	// Guard clause: peso publicado direto (o caso comum, ex.: .onnx e .traineddata).
+	if !strings.EqualFold(filepath.Ext(arq.Url), ".zip") || strings.EqualFold(filepath.Ext(arq.Nome), ".zip") {
+		return a.baixarArquivo(arq.Url, caminho, arq.Sha256, onProgresso)
+	}
+
+	zipLocal := caminho + ".zip"
+	if err := a.baixarArquivo(arq.Url, zipLocal, arq.Sha256, onProgresso); err != nil {
+		return err
+	}
+	defer os.Remove(zipLocal)
+
+	onProgresso(fmt.Sprintf("Extraindo %s…", arq.Nome))
+	if err := extrairZip(zipLocal, destino); err != nil {
+		return fmt.Errorf("falha ao extrair o peso %s: %w", arq.Nome, err)
+	}
+	if _, err := os.Stat(caminho); err != nil {
+		return fmt.Errorf("o zip baixado não continha o arquivo esperado (%s)", arq.Nome)
 	}
 	return nil
 }
@@ -787,7 +857,12 @@ func (a *App) RemoverModelo(nome string) error {
 		return fmt.Errorf("modelo '%s' não encontrado no catálogo", nome)
 	}
 
-	destino := pastaModelosRapidOcr()
+	motorAtivo := a.nomeMotorAtivo()
+	if motorAtivo == "" {
+		return fmt.Errorf("nenhum motor de OCR ativo para remover o modelo '%s'", nome)
+	}
+
+	destino := pastaModelosMotor(motorAtivo)
 	for _, arq := range alvo.Arquivos {
 		if usadosPorOutros[arq.Nome] {
 			continue // compartilhado: preserva
@@ -826,6 +901,8 @@ type FlashcardCard struct {
 
 // CaptureAndOCR takes a screenshot and sends it to the Python OCR service
 func (a *App) GetLastCards() []FlashcardCard {
+	a.mu.RLock()
+	defer a.mu.RUnlock()
 	return a.lastCards
 }
 
@@ -903,6 +980,48 @@ func (a *App) MarcarVistoSilencioso(hanzi string) {
 	progresso.RegistrarVisto(hanzi, pinyin, sigStr)
 }
 
+// censurarRetangulo pinta de preto sólido a interseção entre `r` (coordenadas ABSOLUTAS de tela) e a
+// imagem `img`, cujo pixel (0,0) corresponde a (origemX, origemY) na tela — o canto superior esquerdo
+// do monitor alvo (screenshot.GetDisplayBounds(alvo).Min). Retângulos parcial ou totalmente fora da
+// imagem são recortados/ignorados automaticamente pelo Intersect — não precisa de nenhum tratamento
+// especial para "janela em outro monitor" ou "pop-up fora da área capturada".
+func censurarRetangulo(img *image.RGBA, origemX, origemY int, r image.Rectangle) {
+	local := r.Sub(image.Pt(origemX, origemY)).Intersect(img.Bounds())
+	if local.Empty() {
+		return
+	}
+	draw.Draw(img, local, image.Black, image.Point{}, draw.Src)
+}
+
+// retanguloAppNaTela devolve o retângulo (coordenadas ABSOLUTAS de tela) da janela principal do app, ou
+// ok=false se ela estiver minimizada (nesse caso não há nada visível a censurar).
+func (a *App) retanguloAppNaTela() (image.Rectangle, bool) {
+	if runtime.WindowIsMinimised(a.ctx) {
+		return image.Rectangle{}, false
+	}
+	x, y := runtime.WindowGetPosition(a.ctx)
+	w, h := runtime.WindowGetSize(a.ctx)
+	return image.Rect(x, y, x+w, y+h), true
+}
+
+// censurarAreasSensiveis apaga (preenche de preto) a área da janela principal do app e as áreas dos
+// pop-ups do overlay (hover, destaques e "mostrar tudo") dentro de `img`, quando `CensurarJanelasDoApp`
+// estiver ligado em Config. `img` é a captura do monitor alvo; origemX/origemY é o canto superior
+// esquerdo desse monitor na tela (screenshot.GetDisplayBounds(alvo).Min).
+func (a *App) censurarAreasSensiveis(img *image.RGBA, origemX, origemY int) {
+	if !a.Config.CensurarJanelasDoApp {
+		return
+	}
+
+	if r, ok := a.retanguloAppNaTela(); ok {
+		censurarRetangulo(img, origemX, origemY, r)
+	}
+
+	for _, r := range overlay.RetangulosVisiveis() {
+		censurarRetangulo(img, origemX, origemY, image.Rect(r.X0, r.Y0, r.X1, r.Y1))
+	}
+}
+
 func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	// Capture the target display
 	alvo := a.Config.MonitorAlvo
@@ -915,6 +1034,10 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 		return nil, fmt.Errorf("failed to capture screen: %w", err)
 	}
 
+	// Censura a área da janela do app e dos pop-ups do overlay ANTES de codificar/enviar ao OCR —
+	// precisa vir antes do fingerprint (hash) logo abaixo, senão o hash não refletiria a censura.
+	a.censurarAreasSensiveis(img, bounds.Min.X, bounds.Min.Y)
+
 	// Encode to PNG bytes
 	var buf bytes.Buffer
 	err = png.Encode(&buf, img)
@@ -925,7 +1048,10 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	// Fingerprint check
 	hash := fmt.Sprintf("%x", md5.Sum(buf.Bytes()))
 	if a.lastImageHash == hash {
-		return a.lastCards, nil
+		a.mu.RLock()
+		cards := a.lastCards
+		a.mu.RUnlock()
+		return cards, nil
 	}
 	a.lastImageHash = hash
 
@@ -983,11 +1109,23 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 
 	// Process strings using Jieba and CEDICT
 	var cards []FlashcardCard
+	var linhas []LinhaTraduzida
+
+	// Pré-calcula se a tradução deve ser tentada neste scan (evita repetir a verificação no loop).
+	// A tradução em si ocorre apenas em mostrarTodosPopups().
+
 	for _, res := range results {
 		// Pular palavras com confiança abaixo da configurada
 		if res.Confianca < a.Config.ConfiancaMinimaOcr {
 			continue
 		}
+
+		// ----- Tradução da LINHA inteira (antes da segmentação em palavras) -----
+		linhas = append(linhas, LinhaTraduzida{
+			Texto:    res.Texto,
+			Traducao: "", // Preenchido sob demanda em mostrarTodosPopups()
+			Caixa:    res.Caixa,
+		})
 
 		palavras := segmentacao.SegmentarTextoChines(res.Texto)
 
@@ -1113,7 +1251,10 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 		}
 	}
 
+	a.mu.Lock()
 	a.lastCards = cards
+	a.lastLinhas = linhas
+	a.mu.Unlock()
 	return cards, nil
 }
 

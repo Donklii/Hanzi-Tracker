@@ -8,7 +8,7 @@ import { ModalConfirmacao } from './comum/ModalConfirmacao';
 import { AbaDescobrimento } from './descobrimento/AbaDescobrimento';
 import { AbaEstudos } from './estudos/AbaEstudos';
 import { config, main, progresso } from '../wailsjs/go/models';
-import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, GetVocab, ShowHighlight, HideHoverPopup, ShowHoverPopup, LookupWord, DecomposeCharacter, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, ListarModelos, BaixarModelo, RemoverModelo, ListarMotores, BaixarMotor, RemoverMotor, TrocarMotor, GetStorageInfo, LimparArmazenamento, ExcluirTudo, AbrirPastaDados, GetCaptureResolution, GetSessionImage, GetMonitores } from "../wailsjs/go/main/App";
+import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, RemoveVocab, GetVocab, ShowHighlight, HideHoverPopup, ShowHoverPopup, LookupWord, DecomposeCharacter, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, ListarModelos, BaixarModelo, RemoverModelo, ListarMotores, BaixarMotor, RemoverMotor, TrocarMotor, GetStorageInfo, LimparArmazenamento, ExcluirTudo, AbrirPastaDados, GetCaptureResolution, GetSessionImage, GetMonitores, GetCotaTraducao } from "../wailsjs/go/main/App";
 import { EventsOn } from "../wailsjs/runtime/runtime";
 
 function App() {
@@ -36,6 +36,7 @@ function App() {
   const [trocandoMotor, setTrocandoMotor] = useState<string | null>(null);
   const [avisoCompatibilidade, setAvisoCompatibilidade] = useState<string | null>(null);
   const [infoArmazenamento, setInfoArmazenamento] = useState<main.StorageInfo | null>(null);
+  const [infoCotaTraducao, setInfoCotaTraducao] = useState<main.InfoCotaTraducao | null>(null);
   const [armazenamentoOcupado, setArmazenamentoOcupado] = useState(false);
   const [confirmacao, setConfirmacao] = useState<{ titulo: string; mensagem: string; rotuloAcao: string; acao: () => void } | null>(null);
   const [posicaoMouse, setPosicaoMouse] = useState({x: 0, y: 0});
@@ -121,8 +122,10 @@ function App() {
         setProgressoMotor(prev => ({ ...prev, [data.nome]: '⚠️ ' + data.erro }));
       }
     });
-    EventsOn("ocr_pronto", () => { CarregarMotores(); });
-    EventsOn("motor_bootstrap_fim", () => { CarregarMotores(); });
+    // Motor ativo mudou (bootstrap ou pronto): a lista de modelos vem do /api/modelos do motor em
+    // execução, então precisa recarregar junto — senão fica mostrando o catálogo do motor anterior.
+    EventsOn("ocr_pronto", () => { CarregarMotores(); CarregarModelos(); });
+    EventsOn("motor_bootstrap_fim", () => { CarregarMotores(); CarregarModelos(); });
 
     EventsOn("trigger_scan", () => {
       EscanearTelaEhProcessar();
@@ -231,6 +234,9 @@ function App() {
     if (painelConfigAberto && (abaConfiguracao === 'Armazenamento' || termoBusca)) {
       CarregarArmazenamento();
     }
+    if (painelConfigAberto && (abaConfiguracao === 'Tradução' || termoBusca)) {
+      GetCotaTraducao().then(setInfoCotaTraducao);
+    }
   }, [painelConfigAberto, abaConfiguracao, termoBusca]);
 
   // Efeito para destacar palavras "Em estudo" na tela
@@ -238,9 +244,14 @@ function App() {
     // @ts-ignore
     if (!window.go || !window.go.main || !window.go.main.App.ShowEstudoHighlights) return;
 
-    if (!configuracoesApp?.destacarEstudoTela) {
+    if (!configuracoesApp?.destacarEstudoTela && !configuracoesApp?.destacarEstudoParcialTela) {
       // @ts-ignore
       window.go.main.App.ShowEstudoHighlights([]);
+      // @ts-ignore
+      if (window.go.main.App.ShowEstudoParcialHighlights) {
+        // @ts-ignore
+        window.go.main.App.ShowEstudoParcialHighlights([]);
+      }
       return;
     }
 
@@ -248,6 +259,11 @@ function App() {
     if (cardsAtuais.length === 0) {
       // @ts-ignore
       window.go.main.App.ShowEstudoHighlights([]);
+      // @ts-ignore
+      if (window.go.main.App.ShowEstudoParcialHighlights) {
+        // @ts-ignore
+        window.go.main.App.ShowEstudoParcialHighlights([]);
+      }
       return;
     }
 
@@ -256,16 +272,57 @@ function App() {
     );
 
     const boxes: number[][] = [];
+    const boxesParciais: number[][] = [];
+    
     for (const c of cardsAtuais) {
       const hz = c.hanzi || c.Hanzi;
-      if (hz && estudoWords.has(hz) && c.caixa && c.caixa.length === 4) {
-        boxes.push(c.caixa);
+      if (hz && c.caixa && c.caixa.length === 4) {
+        if (configuracoesApp?.destacarEstudoTela && estudoWords.has(hz)) {
+          boxes.push(c.caixa);
+        } else if (configuracoesApp?.destacarEstudoParcialTela) {
+          // Calculate internal bounding box for characters being studied
+          // Only highlights single characters (compound words aren't inside compound words here)
+          const x0 = c.caixa[0];
+          const y0 = c.caixa[1];
+          const x1 = c.caixa[2];
+          const y1 = c.caixa[3];
+          const width = x1 - x0;
+          const height = y1 - y0;
+          
+          // Split the text into an array of characters correctly handling unicode
+          const chars = Array.from(hz as string);
+          const totalLen = chars.length;
+          
+          for (let i = 0; i < totalLen; i++) {
+            const char = chars[i];
+            if (estudoWords.has(char)) {
+              const fracInicio = i / totalLen;
+              const fracFim = (i + 1) / totalLen;
+              
+              let charBox: number[];
+              if (height > width) {
+                // vertical
+                charBox = [x0, y0 + height * fracInicio, x1, y0 + height * fracFim];
+              } else {
+                // horizontal
+                charBox = [x0 + width * fracInicio, y0, x0 + width * fracFim, y1];
+              }
+              boxesParciais.push(charBox);
+            }
+          }
+        }
       }
     }
+    
     // @ts-ignore
     window.go.main.App.ShowEstudoHighlights(boxes);
+    // @ts-ignore
+    if (window.go.main.App.ShowEstudoParcialHighlights) {
+      // @ts-ignore
+      window.go.main.App.ShowEstudoParcialHighlights(boxesParciais);
+    }
 
-  }, [configuracoesApp?.destacarEstudoTela, abaAtiva, cartoes, cartoesSecao, cartoesVocabulario]);
+  }, [configuracoesApp?.destacarEstudoTela, configuracoesApp?.destacarEstudoParcialTela, abaAtiva, cartoes, cartoesSecao, cartoesVocabulario]);
 
   const CarregarVocabulario = () => {
     GetVocab().then(v => setCartoesVocabulario(v || []));
@@ -355,6 +412,7 @@ function App() {
           return copia;
         });
         CarregarMotores();
+        CarregarModelos(); // o novo motor ativo pode expor um catálogo de modelos diferente
       })
       .catch((err: any) => {
         setProgressoMotor(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
@@ -656,6 +714,39 @@ function App() {
     }
   };
 
+  const hzSelecionado = cartaoSelecionado?.hanzi || cartaoSelecionado?.Hanzi;
+  const pySelecionado = cartaoSelecionado?.pinyin || cartaoSelecionado?.Pinyin;
+  const sigSelecionado = cartaoSelecionado?.significados ? cartaoSelecionado.significados.join(', ') : cartaoSelecionado?.Significado;
+  
+  const isEstudandoSelecionado = cartoesVocabulario.some(v => v.Hanzi === hzSelecionado && v.Status === 'estudo');
+  const isAprendidaSelecionado = cartoesVocabulario.some(v => v.Hanzi === hzSelecionado && v.Status === 'aprendido');
+
+  const alternarEstudoSelecionado = () => {
+    if (!hzSelecionado) return;
+    if (isEstudandoSelecionado) {
+      RemoveVocab(hzSelecionado).then(() => {
+        GetVocab().then(v => setCartoesVocabulario(v || []));
+      });
+    } else {
+      AddVocab(hzSelecionado, pySelecionado || '', sigSelecionado || '', 'estudo').then(() => {
+        GetVocab().then(v => setCartoesVocabulario(v || []));
+      });
+    }
+  };
+
+  const alternarAprendidaSelecionado = () => {
+    if (!hzSelecionado) return;
+    if (isAprendidaSelecionado) {
+      RemoveVocab(hzSelecionado).then(() => {
+        GetVocab().then(v => setCartoesVocabulario(v || []));
+      });
+    } else {
+      AddVocab(hzSelecionado, pySelecionado || '', sigSelecionado || '', 'aprendido').then(() => {
+        GetVocab().then(v => setCartoesVocabulario(v || []));
+      });
+    }
+  };
+
   return (
     <div id="App">
       {/* Sidebar Navigation */}
@@ -848,6 +939,7 @@ function App() {
         baixandoModelo={baixandoModelo}
         avisoCompatibilidade={avisoCompatibilidade}
         infoArmazenamento={infoArmazenamento}
+        infoCotaTraducao={infoCotaTraducao}
         armazenamentoOcupado={armazenamentoOcupado}
         BaixarModeloOcr={BaixarModeloOcr}
         RemoverModeloOcr={RemoverModeloOcr}
@@ -877,183 +969,11 @@ function App() {
         imagemModalBase64={imagemModalBase64}
         dadosDecomposicao={dadosDecomposicao}
         AoClicarNoCaractereDecomposto={AoClicarNoCaractereDecomposto}
+        isEstudando={isEstudandoSelecionado}
+        onToggleEstudo={alternarEstudoSelecionado}
+        isAprendida={isAprendidaSelecionado}
+        onToggleAprendida={alternarAprendidaSelecionado}
       />
-      {cartaoSelecionado && (
-        <div className="modal-overlay" onClick={() => setCartaoSelecionado(null)}>
-          <div className="modal-content hanzi-modal-content" onClick={e => e.stopPropagation()}>
-            <div className="modal-header">
-              <h2>Detalhes</h2>
-              <button className="modal-close" onClick={() => setCartaoSelecionado(null)}>×</button>
-            </div>
-            <div className="modal-body" style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px'}}>
-              
-              {imagemModalBase64 && (
-                <div style={{border: '1px solid var(--cor-borda)', padding: '4px', borderRadius: '4px', backgroundColor: 'var(--cor-fundo-cartao)'}}>
-                  <img src={"data:image/png;base64," + imagemModalBase64} alt="Recorte" style={{maxWidth: '100%', maxHeight: '150px'}} />
-                </div>
-              )}
-
-              <div style={{textAlign: 'center'}}>
-                <div style={{color: 'var(--cor-pinyin)', fontSize: '24px'}}>{cartaoSelecionado.pinyin || cartaoSelecionado.Pinyin}</div>
-                <div style={{fontFamily: 'var(--fonte-hanzi)', fontSize: '64px', fontWeight: 'bold', lineHeight: '1.2'}}>{cartaoSelecionado.hanzi || cartaoSelecionado.Hanzi}</div>
-                <div style={{color: 'var(--cor-texto-suave)', fontSize: '18px', marginTop: '10px'}}>{cartaoSelecionado.significados ? cartaoSelecionado.significados.join(', ') : cartaoSelecionado.Significado}</div>
-              </div>
-
-              {dadosDecomposicao && (
-                <div style={{width: '100%', borderTop: '1px solid var(--cor-borda)', paddingTop: '20px'}}>
-                  <h3 style={{fontSize: '16px', color: 'var(--cor-texto-primario)', marginBottom: '16px'}}>Decomposição</h3>
-                  
-                  {dadosDecomposicao.type === 'single' ? (
-                    <div style={{backgroundColor: 'var(--cor-fundo-cartao)', padding: '16px', borderRadius: '8px'}}>
-                      {dadosDecomposicao.data?.pinyin && dadosDecomposicao.data.pinyin.length > 0 && (
-                        <div style={{fontSize: '14px', marginBottom: '8px'}}>
-                          <strong>Pinyin (MakeMeAHanzi):</strong> {dadosDecomposicao.data.pinyin.join(', ')}
-                        </div>
-                      )}
-                      {dadosDecomposicao.data?.definition && (
-                        <div style={{fontSize: '14px', marginBottom: '8px'}}>
-                          <strong>Definição:</strong> {dadosDecomposicao.data.definition}
-                        </div>
-                      )}
-                      <div style={{fontSize: '14px'}}>
-                        <strong>Radical:</strong> {dadosDecomposicao.data?.radical || '-'}
-                      </div>
-                      {dadosDecomposicao.data?.abreviacoes && dadosDecomposicao.data.abreviacoes.length > 0 && (
-                        <div style={{fontSize: '14px', marginTop: '8px'}}>
-                          <strong>Abreviações visuais:</strong>
-                          <span style={{display: 'inline-flex', gap: '6px', marginLeft: '8px', alignItems: 'center'}}>
-                            {dadosDecomposicao.data.abreviacoes.map((a: string, i: number) => (
-                              <span
-                                key={i}
-                                style={{
-                                  fontFamily: 'var(--fonte-hanzi)',
-                                  fontSize: '22px',
-                                  backgroundColor: 'var(--cor-fundo-entrada)',
-                                  border: '1px solid var(--cor-borda)',
-                                  borderRadius: '6px',
-                                  padding: '2px 8px',
-                                }}
-                              >{a}</span>
-                            ))}
-                          </span>
-                        </div>
-                      )}
-                      <div style={{fontSize: '14px', marginTop: '8px'}}>
-                        <strong>Estrutura:</strong> {(() => {
-                          const raw = dadosDecomposicao.data?.decomposition || '';
-                          if (!raw) return '-';
-
-                          const mapaIdc: Record<string, string> = {
-                            '⿰': 'Esquerda–Direita',
-                            '⿱': 'Cima–Baixo',
-                            '⿲': 'Esquerda–Centro–Direita',
-                            '⿳': 'Cima–Centro–Baixo',
-                            '⿴': 'Cercado',
-                            '⿵': 'Aberto embaixo',
-                            '⿶': 'Aberto em cima',
-                            '⿷': 'Aberto à direita',
-                            '⿸': 'Cobertura superior-esquerda',
-                            '⿹': 'Cobertura superior-direita',
-                            '⿺': 'Cobertura inferior-esquerda',
-                            '⿻': 'Sobreposto',
-                          };
-
-                          const chars: string[] = Array.from(raw);
-                          const estrutura = mapaIdc[chars[0]] || null;
-                          const componentes = chars.filter((c: string) => !mapaIdc[c] && c !== '?');
-
-                          return estrutura
-                            ? `${chars[0]} ${estrutura}`
-                            : raw;
-                        })()}
-                      </div>
-                      {dadosDecomposicao.data?.etymology && Object.keys(dadosDecomposicao.data.etymology).length > 0 && (
-                        <div style={{fontSize: '14px', marginTop: '8px'}}>
-                          <strong>Etimologia:</strong> {(() => {
-                            const e = dadosDecomposicao.data.etymology;
-                            const tMap: Record<string, string> = {
-                              'pictophonetic': 'Pictofonético',
-                              'ideographic': 'Ideográfico',
-                              'pictographic': 'Pictográfico',
-                            };
-                            let txt = tMap[e.type] || e.type || 'Desconhecida';
-                            if (e.hint) txt += ` — ${e.hint}`;
-                            if (e.semantic) txt += ` (Semântica: ${e.semantic})`;
-                            if (e.phonetic) txt += ` (Fonética: ${e.phonetic})`;
-                            return txt;
-                          })()}
-                        </div>
-                      )}
-                      {(() => {
-                        const raw = dadosDecomposicao.data?.decomposition || '';
-                        if (!raw) return null;
-
-                        const mapaIdc: Record<string, string> = {
-                          '⿰': '', '⿱': '', '⿲': '', '⿳': '', '⿴': '', '⿵': '',
-                          '⿶': '', '⿷': '', '⿸': '', '⿹': '', '⿺': '', '⿻': '',
-                        };
-
-                        const componentes: string[] = (Array.from(raw) as string[]).filter((c: string) => !(c in mapaIdc) && c !== '?');
-
-                        if (componentes.length === 0) return null;
-
-                        return (
-                          <div style={{marginTop: '12px'}}>
-                            <strong style={{fontSize: '14px'}}>Componentes:</strong>
-                            <div style={{display: 'flex', gap: '8px', marginTop: '8px', flexWrap: 'wrap'}}>
-                              {componentes.map((comp, idx) => (
-                                <div
-                                  key={idx}
-                                  style={{
-                                    fontSize: '28px',
-                                    fontFamily: 'var(--fonte-hanzi)',
-                                    backgroundColor: 'var(--cor-fundo-entrada)',
-                                    border: '1px solid var(--cor-borda)',
-                                    borderRadius: '8px',
-                                    padding: '8px 14px',
-                                    cursor: 'pointer',
-                                    transition: 'all 0.2s',
-                                  }}
-                                  onClick={() => AoClicarNoCaractereDecomposto(comp)}
-                                >
-                                  {comp}
-                                </div>
-                              ))}
-                            </div>
-                          </div>
-                        );
-                      })()}
-                    </div>
-                  ) : (
-                    <div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(140px, 1fr))', gap: '10px'}}>
-                      {dadosDecomposicao.data.map((d: any, idx: number) => (
-                        <div 
-                           key={idx} 
-                           className="card" 
-                           style={{width: '100%', height: 'auto', padding: '12px', minHeight: '120px'}}
-                           onClick={() => AoClicarNoCaractereDecomposto(d.char)}
-                        >
-                           <div style={{fontSize: '28px', fontFamily: 'var(--fonte-hanzi)'}}>{d.char}</div>
-                           {d.res && d.res.length > 0 ? (
-                             <>
-                               <div style={{fontSize: '12px', color: 'var(--cor-pinyin)', marginTop: '8px'}}>{d.res[0].Pinyin}</div>
-                               <div style={{fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '4px', overflow: 'hidden', textOverflow: 'ellipsis', display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical'}}>
-                                 {d.res[0].Significados.join(', ')}
-                               </div>
-                             </>
-                           ) : (
-                             <div style={{fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '4px'}}>Desconhecido</div>
-                           )}
-                        </div>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              )}
-            </div>
-          </div>
-        </div>
-      )}
 
       {/* Pop-up de aviso de compatibilidade */}
       <ModalAvisoCompatibilidade

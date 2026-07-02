@@ -14,6 +14,10 @@ export function BaixarModelo(arg1) {
   return window['go']['main']['App']['BaixarModelo'](arg1);
 }
 
+export function BaixarMotor(arg1) {
+  return window['go']['main']['App']['BaixarMotor'](arg1);
+}
+
 export function BuscarPorPinyin(arg1) {
   return window['go']['main']['App']['BuscarPorPinyin'](arg1);
 }
@@ -40,6 +44,10 @@ export function GetCaptureResolution() {
 
 export function GetConfig() {
   return window['go']['main']['App']['GetConfig']();
+}
+
+export function GetCotaTraducao() {
+  return window['go']['main']['App']['GetCotaTraducao']();
 }
 
 export function GetLastCards() {
@@ -78,6 +86,10 @@ export function ListarModelos() {
   return window['go']['main']['App']['ListarModelos']();
 }
 
+export function ListarMotores() {
+  return window['go']['main']['App']['ListarMotores']();
+}
+
 export function LookupWord(arg1) {
   return window['go']['main']['App']['LookupWord'](arg1);
 }
@@ -90,8 +102,16 @@ export function ObterTotalHanzisDicionario() {
   return window['go']['main']['App']['ObterTotalHanzisDicionario']();
 }
 
+export function RemoveVocab(arg1) {
+  return window['go']['main']['App']['RemoveVocab'](arg1);
+}
+
 export function RemoverModelo(arg1) {
   return window['go']['main']['App']['RemoverModelo'](arg1);
+}
+
+export function RemoverMotor(arg1) {
+  return window['go']['main']['App']['RemoverMotor'](arg1);
 }
 
 export function SaveConfig(arg1) {
@@ -100,6 +120,10 @@ export function SaveConfig(arg1) {
 
 export function ShowEstudoHighlights(arg1) {
   return window['go']['main']['App']['ShowEstudoHighlights'](arg1);
+}
+
+export function ShowEstudoParcialHighlights(arg1) {
+  return window['go']['main']['App']['ShowEstudoParcialHighlights'](arg1);
 }
 
 export function ShowHighlight(arg1, arg2, arg3, arg4) {
@@ -112,18 +136,6 @@ export function ShowHoverPopup(arg1, arg2, arg3, arg4, arg5) {
 
 export function StartBackgroundLoop() {
   return window['go']['main']['App']['StartBackgroundLoop']();
-}
-
-export function ListarMotores() {
-  return window['go']['main']['App']['ListarMotores']();
-}
-
-export function BaixarMotor(arg1) {
-  return window['go']['main']['App']['BaixarMotor'](arg1);
-}
-
-export function RemoverMotor(arg1) {
-  return window['go']['main']['App']['RemoverMotor'](arg1);
 }
 
 export function TrocarMotor(arg1) {

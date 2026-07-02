@@ -32,9 +32,10 @@ Nesta versão mais recente, o projeto foi **migrado para Go + React (via Wails)*
 
 ## Como Instalar
 
-1. Instale as dependências do servidor Python de OCR:
+1. Instale as dependências do motor RapidOCR (padrão) — Tesseract/EasyOCR têm os seus próprios
+   `requirements.txt`, usados só pelo `build_sidecars.ps1` ao congelar cada sidecar:
    ```bash
-   pip install -r requirements.txt
+   pip install -r python_backend/motores/rapidocr/requirements.txt
    ```
 2. Instale as dependências do frontend:
    ```bash
@@ -52,7 +53,7 @@ go run .
 
 **O que este comando faz?**
 1. Compila o frontend (Vite/React) automaticamente, se necessário.
-2. Inicializa o microserviço Python `python_backend/server.py` em uma porta local de forma invisível, injetando o diretório de dados via variável de ambiente.
+2. Inicializa o microserviço Python `python_backend/motores/rapidocr/server.py` (motor padrão) em uma porta local de forma invisível, injetando o diretório de dados via variável de ambiente.
 3. Procura pelo executável final compilado do Wails na pasta `wails_app/build/bin/HanziTracker.exe`.
 4. Se encontrar, abre o executável. Se não, executa a aplicação Wails em modo fonte (`go run .` dentro de `wails_app`).
 5. Ao fechar a janela do aplicativo (ou com `Ctrl+C` no terminal), encerra automaticamente toda a árvore de processos (Wails + Python) para evitar vazamento de memória.

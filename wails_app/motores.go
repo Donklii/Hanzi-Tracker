@@ -39,16 +39,7 @@ func caminhoExecutavelMotor(m MotorOcrBaixavel) string {
 	return filepath.Join(pastaMotor(m.Nome), m.Executavel)
 }
 
-// pastaOverlay guarda o overlay compartilhado (não é um motor; nome reservado com "_" para não colidir
-// com um motor de mesmo nome).
-func pastaOverlay() string {
-	return filepath.Join(pastaMotores(), "_overlay")
-}
 
-// caminhoExecutavelOverlay é o .exe do overlay extraído (o popup.zip traz popup.exe na raiz).
-func caminhoExecutavelOverlay() string {
-	return filepath.Join(pastaOverlay(), "popup.exe")
-}
 
 // ----- Resolução do motor a subir -----
 
@@ -63,7 +54,7 @@ func descritorMotorInstalado(m MotorOcrBaixavel) (DescritorMotorOcr, bool) {
 	if err != nil {
 		abs = exe
 	}
-	return DescritorMotorOcr{Nome: m.Rotulo + " (instalado)", Comando: abs}, true
+	return DescritorMotorOcr{Nome: m.Rotulo + " (instalado)", Catalogo: m.Nome, Comando: abs}, true
 }
 
 // resolverMotorInicial escolhe o motor a subir na inicialização, na ordem: (1) motor preferido do
@@ -215,6 +206,15 @@ func (a *App) emitirProgressoMotor(nome, mensagem string) {
 	runtime.EventsEmit(a.ctx, "motor_download_progresso", map[string]interface{}{"nome": nome, "mensagem": mensagem})
 }
 
+// nomeMotorAtivo devolve o NOME de catálogo do motor em execução ("" se nenhum). Versão nil-safe de
+// CatalogoAtivo para os métodos do App que rodam antes/fora do startup.
+func (a *App) nomeMotorAtivo() string {
+	if a.motorOcr == nil {
+		return ""
+	}
+	return a.motorOcr.CatalogoAtivo()
+}
+
 // ----- API exposta ao frontend (Passo 6 consome) -----
 
 // MotorOcrInfo é o estado de um motor para a UI "Gerenciar Motores": catálogo + instalado/ativo.
@@ -326,9 +326,6 @@ func (a *App) limparMotores() error {
 
 	var erros []string
 	for _, e := range entradas {
-		if e.Name() == "_overlay" {
-			continue // overlay compartilhado — em uso enquanto o app roda
-		}
 		sub := filepath.Join(raiz, e.Name())
 		// Preserva a subpasta que contém o executável do motor ativo.
 		if ativo != "" && ativo != "." && strings.HasPrefix(ativo, filepath.Clean(sub)+string(os.PathSeparator)) {
@@ -372,13 +369,7 @@ func (a *App) TrocarMotor(nome string) error {
 
 // ----- Bootstrap de first-run -----
 
-// garantirOverlay baixa o overlay compartilhado se ele ainda não estiver instalado no AppData.
-func (a *App) garantirOverlay() error {
-	if info, err := os.Stat(caminhoExecutavelOverlay()); err == nil && !info.IsDir() {
-		return nil // já instalado
-	}
-	return a.baixarEExtrairArtefato(PopupOverlayBaixavel, pastaOverlay(), func(msg string) { a.emitirProgressoMotor("overlay", msg) })
-}
+
 
 // bootstrapMotorPadrao roda no first-run (nenhum motor local/instalado): baixa o motor padrão + o
 // overlay, sobe o motor e anuncia os eventos de estado. Deve rodar em uma goroutine (faz I/O de rede).
@@ -399,11 +390,6 @@ func (a *App) bootstrapMotorPadrao() {
 		return
 	}
 
-	// 2) Overlay compartilhado (não bloqueia o OCR se falhar).
-	if err := a.garantirOverlay(); err != nil {
-		fmt.Printf("Aviso: overlay indisponível após bootstrap: %v\n", err)
-	}
-
 	// 3) Sobe o motor recém-instalado e espera o healthcheck.
 	desc, ok := descritorMotorInstalado(padrao)
 	if !ok {
@@ -418,9 +404,6 @@ func (a *App) bootstrapMotorPadrao() {
 		runtime.EventsEmit(a.ctx, "ocr_indisponivel", err.Error())
 		return
 	}
-
-	// 4) Sobe o overlay agora que ele existe (o startup pulou por não haver executável).
-	a.iniciarOverlay()
 
 	a.Config.MotorOcrAtivo = padrao.Nome
 	if err := config.SaveConfig(a.Config); err != nil {

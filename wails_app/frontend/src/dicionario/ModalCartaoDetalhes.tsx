@@ -6,13 +6,19 @@ interface ModalCartaoDetalhesProps {
   imagemModalBase64: string | null;
   dadosDecomposicao: any | null;
   AoClicarNoCaractereDecomposto: (char: string) => void;
+  isEstudando: boolean;
+  onToggleEstudo: () => void;
+  isAprendida: boolean;
+  onToggleAprendida: () => void;
 }
 
 export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
   const {
     cartaoSelecionado, setCartaoSelecionado,
     imagemModalBase64, dadosDecomposicao,
-    AoClicarNoCaractereDecomposto
+    AoClicarNoCaractereDecomposto,
+    isEstudando, onToggleEstudo,
+    isAprendida, onToggleAprendida
   } = props;
 
   if (!cartaoSelecionado) return null;
@@ -188,6 +194,48 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
               )}
             </div>
           )}
+          
+          <div style={{display: 'flex', gap: '15px', marginTop: '5px', width: '100%', justifyContent: 'center', flexWrap: 'wrap'}}>
+            <button 
+              onClick={onToggleEstudo}
+              style={{
+                padding: '10px 20px', 
+                borderRadius: '8px', 
+                border: 'none', 
+                cursor: 'pointer', 
+                fontWeight: 'bold',
+                backgroundColor: isEstudando ? '#f44336' : 'var(--cor-destaque)',
+                color: 'white',
+                transition: 'opacity 0.2s',
+                flex: '1',
+                maxWidth: '250px'
+              }}
+              onMouseOver={(e) => e.currentTarget.style.opacity = '0.8'}
+              onMouseOut={(e) => e.currentTarget.style.opacity = '1'}
+            >
+              {isEstudando ? "Remover de Estudando" : "Adicionar a Estudando"}
+            </button>
+
+            <button 
+              onClick={onToggleAprendida}
+              style={{
+                padding: '10px 20px', 
+                borderRadius: '8px', 
+                border: 'none', 
+                cursor: 'pointer', 
+                fontWeight: 'bold',
+                backgroundColor: isAprendida ? '#f44336' : '#4CAF50',
+                color: 'white',
+                transition: 'opacity 0.2s',
+                flex: '1',
+                maxWidth: '250px'
+              }}
+              onMouseOver={(e) => e.currentTarget.style.opacity = '0.8'}
+              onMouseOut={(e) => e.currentTarget.style.opacity = '1'}
+            >
+              {isAprendida ? "Remover de Aprendidas" : "Adicionar a Aprendidas"}
+            </button>
+          </div>
         </div>
       </div>
     </div>

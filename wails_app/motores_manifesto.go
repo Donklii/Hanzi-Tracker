@@ -4,8 +4,9 @@ package main
 // Catálogo dos MOTORES de OCR e do componente de overlay compartilhado, publicados como .zip em
 // GitHub Releases deste repo e baixados sob demanda pelo Go para %APPDATA%\HanziTracker\motores\.
 //
-// Diferença para ocr/ModelosManifesto.py (PESOS ONNX): lá são apenas arquivos .onnx que o motor LÊ;
-// aqui são os PRÓPRIOS executáveis do motor (server.py congelado por PyInstaller). Este catálogo vive
+// Diferença para motores/<motor>/ModelosManifesto.py (PESOS, ex.: .onnx/.traineddata/.pth): lá são
+// apenas os arquivos que o motor LÊ; aqui são os PRÓPRIOS executáveis do motor (server.py e afins,
+// congelados por PyInstaller). Este catálogo vive
 // no GO — e não no Python — porque o app precisa baixar o motor padrão ANTES de qualquer processo
 // Python existir (bootstrap de first-run, Fase 5). O `Sha256` é OBRIGATÓRIO para binários: baixarArquivo
 // confere o hash após o download e recusa se divergir. Ver docs/PUBLICAR-MOTORES.md e Fase 5 no TODO.md.
@@ -37,15 +38,7 @@ type MotorOcrBaixavel struct {
 	Artefato   ArtefatoBaixavel `json:"artefato"`   //
 }
 
-// PopupOverlayBaixavel é o COMPONENTE de overlay compartilhado por TODOS os motores (a janela de
-// tradução dirigida pelo Go via stdin). NÃO é um motor de OCR: é baixado uma única vez no bootstrap,
-// à parte do catálogo de motores. O .exe extraído (popup/popup.exe) é localizado por resolverComandoPopup.
-var PopupOverlayBaixavel = ArtefatoBaixavel{
-	Nome:         "popup.zip",
-	Url:          _baseReleaseMotores + "/motores-v1/popup.zip",
-	Sha256:       "c4b5cf9c98b0f8b6aeaefd0ca4b4b2bd7184955e526c5650b60a561f0c774030",
-	TamanhoBytes: 11102791,
-}
+
 
 // MotoresBaixaveis é o catálogo de MOTORES de OCR publicados. Hoje só o RapidOCR padrão (o sidecar
 // congelado com DirectML embutido + fallback automático para CPU — cobre Nvidia/AMD/Intel sem CUDA
@@ -65,9 +58,9 @@ var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 		Executavel: "ocr_server.exe",
 		Artefato: ArtefatoBaixavel{
 			Nome:         "ocr_server.zip",
-			Url:          _baseReleaseMotores + "/motores-v1/ocr_server.zip",
-			Sha256:       "50e0fb93c1a2260acd005909081f1552afe102eb4903c426537e3bf5e731ea31",
-			TamanhoBytes: 121551807,
+			Url:          _baseReleaseMotores + "/motores-v3/ocr_server.zip",
+			Sha256:       "34f8d4dc0d31e078c06d569e5179a921186921b8f31d6825d5dc4597edd26629",
+			TamanhoBytes: 121561760,
 		},
 	},
 }

@@ -48,9 +48,11 @@ func pastaModelos() string {
 	return filepath.Join(pastaDados(), "modelos")
 }
 
-// pastaModelosRapidOcr é a subpasta dos pesos ONNX do motor RapidOCR (modelos\RapidOCR).
-func pastaModelosRapidOcr() string {
-	return filepath.Join(pastaModelos(), "RapidOCR")
+// pastaModelosMotor é a subpasta de pesos de UM motor (modelos\<NomeDeCatálogo>, ex.: modelos\RapidOCR).
+// O mesmo nome é injetado no sidecar via HANZITRACKER_MOTOR (motor_ocr.go), então o Python lê os pesos
+// exatamente onde o Go os baixa — deve casar com obterPastaModelos() do GerenciadorModelosModule.py.
+func pastaModelosMotor(nomeMotor string) string {
+	return filepath.Join(pastaModelos(), nomeMotor)
 }
 
 func pastaEasyOcr() string {
@@ -167,6 +169,18 @@ func (a *App) GetStorageInfo() StorageInfo {
 		})
 	}
 
+	tamanhoCacheTraducao, _, _ := progresso.TamanhoCacheTraducao()
+	if tamanhoCacheTraducao > 0 {
+		itens = append(itens, ItemArmazenamento{
+			Chave:     "cache_traducao",
+			Rotulo:    "Cache de Tradução",
+			Descricao: "Textos traduzidos para não gastar cota em repetições.",
+			Caminho:   caminhoBanco() + " (Tabela interna)",
+			Bytes:     tamanhoCacheTraducao,
+			Limpavel:  true,
+		})
+	}
+
 	itens = append(itens,
 		ItemArmazenamento{
 			Chave:     "logs",
@@ -228,6 +242,8 @@ func (a *App) LimparArmazenamento(chave string) error {
 		return os.RemoveAll(pastaCachePip())
 	case "logs":
 		return limparLogs()
+	case "cache_traducao":
+		return progresso.LimparCacheTraducao()
 	case "banco":
 		return progresso.LimparVocabulario()
 	default:
@@ -254,6 +270,9 @@ func (a *App) ExcluirTudo() error {
 	}
 	if err := limparLogs(); err != nil {
 		erros = append(erros, fmt.Sprintf("logs: %v", err))
+	}
+	if err := progresso.LimparCacheTraducao(); err != nil {
+		erros = append(erros, fmt.Sprintf("cache de tradução: %v", err))
 	}
 	if err := progresso.LimparVocabulario(); err != nil {
 		erros = append(erros, fmt.Sprintf("banco: %v", err))

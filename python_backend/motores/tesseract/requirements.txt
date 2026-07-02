@@ -1,0 +1,6 @@
+# Dependências do sidecar Tesseract (tesseract_server.py) — usado só pelo build_sidecars.ps1, num
+# venv próprio. O tesseract.exe em si NÃO vem do pip: o build o copia da instalação do Tesseract
+# (choco no CI; TESSERACT_DIR para apontar outra) para dentro do pacote congelado.
+
+numpy>=1.24.0
+opencv-python-headless>=4.8.0

@@ -7,8 +7,10 @@ embutida** (universal no Windows: Nvidia, AMD e Intel; sem CUDA Toolkit; sem dow
 
 - **Frontend**: React/TypeScript, compilado pelo Vite e embutido no app Wails (`//go:embed`).
 - **App (UI + ponte)**: Go/Wails — captura de tela, dicionários, SQLite, hotkeys, e ponte HTTP com o OCR.
-- **Backend de OCR**: microserviço Python (`python_backend/server.py`) usando RapidOCR (onnxruntime).
-- **Overlay**: `python_backend/popup.py`.
+- **Backend de OCR**: um microserviço Python por motor, cada um na sua pasta em `python_backend/motores/`
+  — `motores/rapidocr/server.py` (padrão, onnxruntime), `motores/tesseract/tesseract_server.py` e
+  `motores/easyocr/easyocr_server.py`. Compartilham o servidor HTTP do contrato
+  (`python_backend/principal/ServidorOcrModule.py`) e a base de serviço (`python_backend/ocr/`).
 
 No app distribuído, o backend Python é **congelado com PyInstaller** (não há Python/pip no usuário final).
 Por isso, a aceleração GPU precisa estar **embutida no congelamento** — é o que esta receita garante.
@@ -21,10 +23,17 @@ Todo o processo abaixo está automatizado em [build_sidecars.ps1](build_sidecars
 powershell -ExecutionPolicy Bypass -File build_sidecars.ps1
 ```
 
-Ele cria um ambiente isolado (`build_env`), instala as dependências, **troca o onnxruntime pelo
-onnxruntime-directml** (aceleração universal), roda o PyInstaller com os specs versionados
-([ocr_server.spec](python_backend/ocr_server.spec) e [popup.spec](python_backend/popup.spec)) e gera
-`python_backend/dist/ocr_server.zip` e `python_backend/dist/popup.zip`, imprimindo o **sha256** e o
+Ele congela os artefatos, cada motor num venv **próprio** (`build_env`, `build_env_tesseract`,
+`build_env_easyocr` — o onnxruntime-directml do RapidOCR e o torch do EasyOCR não podem conviver no
+mesmo ambiente), com os specs versionados dentro da pasta de cada motor
+([motores/rapidocr/ocr_server.spec](python_backend/motores/rapidocr/ocr_server.spec),
+[motores/tesseract/tesseract_server.spec](python_backend/motores/tesseract/tesseract_server.spec) e
+[motores/easyocr/easyocr_server.spec](python_backend/motores/easyocr/easyocr_server.spec)). No build do
+RapidOCR ele **troca o onnxruntime pelo onnxruntime-directml** (aceleração universal); no do Tesseract,
+copia a instalação do Tesseract (`choco install tesseract`, ou a pasta apontada por `TESSERACT_DIR`) para
+dentro do pacote e garante o `chi_sim.traineddata` (tessdata_fast 4.1.0, hash conferido) — sem a
+instalação, esse sidecar é pulado com aviso. Saída:
+`python_backend/dist/{ocr_server,tesseract_server,easyocr_server}.zip`, imprimindo o **sha256** e o
 tamanho de cada um (é o que você cola no manifesto de motores — ver
 [docs/PUBLICAR-MOTORES.md](docs/PUBLICAR-MOTORES.md)).
 
@@ -36,10 +45,9 @@ tamanho de cada um (é o que você cola no manifesto de motores — ver
 - O `ocr_server.spec` usa `collect_all("onnxruntime")` + `collect_all("rapidocr_onnxruntime")` porque
   esses pacotes são **importados dinamicamente** em runtime (`OcrService._inicializarOcr`) — a análise
   estática do PyInstaller não os enxergaria. Também exclui `easyocr`/`torch`/`paddleocr` (viram sidecars
-  próprios) para manter o pacote enxuto.
-- O `popup.spec` usa **`console=True` (NÃO `--windowed`)**: o `popup.py` lê os comandos do Go por
-  `sys.stdin`, que o PyInstaller **zera** no modo windowed — o overlay morreria na primeira leitura. O Go
-  já sobe o processo com `HideWindow`, então a janela de console fica oculta de qualquer forma.
+  próprios) para manter o pacote enxuto. Cada spec mora ao lado do seu entry (`motores/<motor>/`) e
+  resolve a raiz `python_backend` via `SPECPATH` para os imports absolutos (`ocr.*`, `principal.*`,
+  `motores.<motor>.*`) funcionarem no congelamento.
 
 Para conferir manualmente que o DirectML entrou no ambiente de build (o script já imprime isto):
 
@@ -63,10 +71,10 @@ wails build   # instala/compila o frontend e gera HanziTracker.exe com os assets
 
 ## 3. Empacotamento final
 
-O **app Wails** é dono do backend de OCR e do overlay e **resolve automaticamente** qual executável
-subir: `resolverMotorInicial`/`resolverComandoPopup` procuram, nesta ordem, o motor **baixado no AppData**
+O **app Wails** é dono do backend de OCR e **resolve automaticamente** qual executável
+subir: `resolverMotorInicial` procura, nesta ordem, o motor **baixado no AppData**
 (`%APPDATA%\HanziTracker\motores\`, modelo padrão da Fase 5) e depois o sidecar congelado **ao lado do
-app** (bundle). **Não há mais fallback para `python server.py`/`popup.py`** — todo motor é um executável
+app** (bundle). **Não há mais fallback para `python server.py`** — todo motor é um executável
 (baixado ou em bundle); se nenhum existe, o app baixa o padrão (bootstrap). Os `python_backend/*.py`
 seguem sendo a *fonte* que o `build_sidecars.ps1` congela, mas não são executados pelo app. O orquestrador
 `main.go` (raiz) não sobe mais o OCR — só reserva a porta e a pasta de dados e lança o app.
@@ -74,7 +82,7 @@ seguem sendo a *fonte* que o `build_sidecars.ps1` congela, mas não são executa
 Há **duas formas** de distribuir os motores (as duas funcionam; dá para combinar):
 
 - **Download sob demanda (padrão):** não envie motor nenhum junto do app. No primeiro start sem motor,
-  o `bootstrapMotorPadrao` baixa o RapidOCR padrão + o overlay para o AppData e ativa. O instalador fica
+  o `bootstrapMotorPadrao` baixa o RapidOCR padrão para o AppData e ativa. O instalador fica
   leve. Ver [docs/PUBLICAR-MOTORES.md](docs/PUBLICAR-MOTORES.md).
 - **Bundle ao lado do app (offline):** deixe as pastas congeladas junto do executável:
 
@@ -82,7 +90,6 @@ Há **duas formas** de distribuir os motores (as duas funcionam; dá para combin
 HanziTracker/
   HanziTracker.exe            (app Wails — a janela "Hanzi Tracker"; sobe e gere os sidecars)
   ocr_server/ocr_server.exe   (saída do PyInstaller do server.py)
-  popup/popup.exe             (saída do PyInstaller do popup.py)
 ```
 
 > O orquestrador `main.go` (raiz) é só o *launcher de desenvolvimento* (`go run .`). No app distribuído,

@@ -11,6 +11,8 @@ export function AddVocab(arg1:string,arg2:string,arg3:string,arg4:string):Promis
 
 export function BaixarModelo(arg1:string):Promise<void>;
 
+export function BaixarMotor(arg1:string):Promise<void>;
+
 export function BuscarPorPinyin(arg1:string):Promise<Array<string>>;
 
 export function CaptureAndOCR():Promise<Array<main.FlashcardCard>>;
@@ -24,6 +26,8 @@ export function ExcluirTudo():Promise<void>;
 export function GetCaptureResolution():Promise<main.Resolucao>;
 
 export function GetConfig():Promise<config.Config>;
+
+export function GetCotaTraducao():Promise<main.InfoCotaTraducao>;
 
 export function GetLastCards():Promise<Array<main.FlashcardCard>>;
 
@@ -43,28 +47,30 @@ export function LimparArmazenamento(arg1:string):Promise<void>;
 
 export function ListarModelos():Promise<Array<main.ModeloOcrInfo>>;
 
+export function ListarMotores():Promise<Array<main.MotorOcrInfo>>;
+
 export function LookupWord(arg1:string):Promise<Array<dicionario.EntradaDicionario>>;
 
 export function MarcarVistoSilencioso(arg1:string):Promise<void>;
 
 export function ObterTotalHanzisDicionario():Promise<number>;
 
+export function RemoveVocab(arg1:string):Promise<void>;
+
 export function RemoverModelo(arg1:string):Promise<void>;
+
+export function RemoverMotor(arg1:string):Promise<void>;
 
 export function SaveConfig(arg1:config.Config):Promise<void>;
 
 export function ShowEstudoHighlights(arg1:Array<any>):Promise<void>;
+
+export function ShowEstudoParcialHighlights(arg1:Array<any>):Promise<void>;
 
 export function ShowHighlight(arg1:number,arg2:number,arg3:number,arg4:number):Promise<void>;
 
 export function ShowHoverPopup(arg1:string,arg2:string,arg3:string,arg4:number,arg5:number):Promise<void>;
 
 export function StartBackgroundLoop():Promise<void>;
-
-export function ListarMotores():Promise<Array<main.MotorOcrInfo>>;
-
-export function BaixarMotor(arg1:string):Promise<void>;
-
-export function RemoverMotor(arg1:string):Promise<void>;
 
 export function TrocarMotor(arg1:string):Promise<void>;

@@ -25,11 +25,18 @@ type Config struct {
 	HabilitarPopupHover          bool    `json:"habilitarPopupHover"`
 	TempoParadoPopupMs           int     `json:"tempoParadoPopupMs"`
 	DestacarEstudoTela           bool    `json:"destacarEstudoTela"`
+	DestacarEstudoParcialTela    bool    `json:"destacarEstudoParcialTela"`
 	MonitorAlvo                  int     `json:"monitorAlvo"`
 	AtalhoEscanear               string  `json:"atalhoEscanear"`
 	AtalhoPopupTodos             string  `json:"atalhoPopupTodos"`
 	AtalhoMarcarEstudo           string  `json:"atalhoMarcarEstudo"`
 	AtalhoAlternarPopupHover     string  `json:"atalhoAlternarPopupHover"`
+	TraducaoApiKey               string  `json:"traducaoApiKey"`
+	TraducaoAtiva                bool    `json:"traducaoAtiva"`
+	TraducaoPausarPorCota        bool    `json:"traducaoPausarPorCota"`
+	TraducaoLimiteCotaPercent    float64 `json:"traducaoLimiteCotaPercent"`
+	TraducaoUsarCache            bool    `json:"traducaoUsarCache"`
+	CensurarJanelasDoApp         bool    `json:"censurarJanelasDoApp"`
 }
 
 func DefaultConfig() Config {
@@ -51,11 +58,18 @@ func DefaultConfig() Config {
 		HabilitarPopupHover:         true,
 		TempoParadoPopupMs:          500,
 		DestacarEstudoTela:          true,
+		DestacarEstudoParcialTela:   true,
 		MonitorAlvo:                 0,
 		AtalhoEscanear:              "ctrl+shift+e",
 		AtalhoPopupTodos:            "ctrl+shift+t",
 		AtalhoMarcarEstudo:          "ctrl+shift+m",
 		AtalhoAlternarPopupHover:    "ctrl+shift+h",
+		TraducaoApiKey:              "",
+		TraducaoAtiva:               false,
+		TraducaoPausarPorCota:       true,
+		TraducaoLimiteCotaPercent:   90,
+		TraducaoUsarCache:           true,
+		CensurarJanelasDoApp:        true,
 	}
 }
 

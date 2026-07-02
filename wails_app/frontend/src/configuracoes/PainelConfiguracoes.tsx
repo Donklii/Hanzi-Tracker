@@ -25,6 +25,7 @@ interface PainelConfiguracoesProps {
     baixandoModelo: string | null;
     avisoCompatibilidade: string | null;
     infoArmazenamento: main.StorageInfo | null;
+    infoCotaTraducao: main.InfoCotaTraducao | null;
     armazenamentoOcupado: boolean;
     BaixarModeloOcr: (nome: string) => void;
     RemoverModeloOcr: (nome: string) => void;
@@ -53,7 +54,7 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
         painelConfigAberto, setPainelConfigAberto, configuracoesApp, AtualizarConfiguracao, AplicarConfiguracao, setConfirmacao,
         abaConfiguracao, setAbaConfiguracao, termoBusca, setTermoBusca, infoHardware,
         resCaptura, monitores, modelos, progressoModelo, baixandoModelo, avisoCompatibilidade,
-        infoArmazenamento, armazenamentoOcupado, BaixarModeloOcr, RemoverModeloOcr, trocarModelo,
+        infoArmazenamento, infoCotaTraducao, armazenamentoOcupado, BaixarModeloOcr, RemoverModeloOcr, trocarModelo,
         CarregarArmazenamento, LimparCategoriaArmazenamento, ExcluirTodoArmazenamento,
         hardwareEhCpu, ehCpuNome, ehNvidia, apiCompativelComModelo, hardwareCompativelComModelo, rotuloModelo,
         motores, progressoMotor, baixandoMotor, trocandoMotor, BaixarMotorOcr, RemoverMotorOcr, TrocarMotorOcr
@@ -67,6 +68,10 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
       const i = Math.floor(Math.log(bytes) / Math.log(k));
       return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + tamanhos[i];
     };
+
+    // Motor de OCR ativo: os modelos vêm do /api/modelos do PROCESSO desse motor, então o catálogo
+    // exibido abaixo é sempre o do motor em execução (troca de motor recarrega `modelos`, ver App.tsx).
+    const motorAtivo = motores.find(m => m.ativo);
 
     if (!painelConfigAberto || !configuracoesApp) return null;
 
@@ -116,17 +121,18 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                 Atalhos Globais
               </button>
               <button
+                className={`settings-tab ${abaConfiguracao === 'Tradução' ? 'active' : ''}`}
+                onClick={() => setAbaConfiguracao('Tradução')}
+              >
+                Tradução (IA)
+              </button>
+              <button
                 className={`settings-tab ${abaConfiguracao === 'Armazenamento' ? 'active' : ''}`}
                 onClick={() => setAbaConfiguracao('Armazenamento')}
               >
                 Armazenamento
               </button>
-              <button
-                className={`settings-tab ${abaConfiguracao === 'Estudando' ? 'active' : ''}`}
-                onClick={() => setAbaConfiguracao('Estudando')}
-              >
-                Estudando
-              </button>
+
             </div>
 
             {/* Main Area */}
@@ -178,58 +184,94 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                     </div>
                   )}
 
-                  {(!termoBusca || "hover pop-up cursor tradução habilitar".includes(termoBusca.toLowerCase())) && (
+                  {(!termoBusca || "hover pop-up cursor tradução habilitar distância máxima pixels intervalo atualização ms tempo parado mouse".includes(termoBusca.toLowerCase())) && (
+                    <>
+                      <div className="form-group">
+                        <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+                          <span>Habilitar Pop-up de Tradução no Cursor (Hover)</span>
+                          <input 
+                            type="checkbox" 
+                            checked={configuracoesApp.habilitarPopupHover}
+                            onChange={e => AtualizarConfiguracao('habilitarPopupHover', e.target.checked)}
+                          />
+                        </label>
+                      </div>
+
+                      <SecaoDependente ativa={configuracoesApp.habilitarPopupHover}>
+                        {(!termoBusca || "distância máxima hover pixels".includes(termoBusca.toLowerCase())) && (
+                          <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
+                            <label style={{ margin: 0, flex: 1 }}>Distância Máxima do Hover</label>
+                            <input 
+                              type="range" 
+                              min="50" max="500" step="10"
+                              value={configuracoesApp.distanciaMaximaHoverPx}
+                              onChange={e => AtualizarConfiguracao('distanciaMaximaHoverPx', parseInt(e.target.value))}
+                              style={{ width: '200px', margin: 0 }}
+                            />
+                            <span style={{ minWidth: '45px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.distanciaMaximaHoverPx}px</span>
+                          </div>
+                        )}
+
+                        {(!termoBusca || "intervalo atualização hover ms".includes(termoBusca.toLowerCase())) && (
+                          <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
+                            <label style={{ margin: 0, flex: 1 }}>Intervalo de Atualização do Hover</label>
+                            <input 
+                              type="range" 
+                              min="16" max="500" step="10"
+                              value={configuracoesApp.intervaloAtualizacaoHoverMs}
+                              onChange={e => AtualizarConfiguracao('intervaloAtualizacaoHoverMs', parseInt(e.target.value))}
+                              style={{ width: '200px', margin: 0 }}
+                            />
+                            <span style={{ minWidth: '45px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.intervaloAtualizacaoHoverMs}ms</span>
+                          </div>
+                        )}
+
+                        {(!termoBusca || "tempo parado popup ms mouse".includes(termoBusca.toLowerCase())) && (
+                          <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px', margin: 0 }}>
+                            <label style={{ margin: 0, flex: 1 }}>Tempo com o mouse parado para abrir Popup</label>
+                            <input 
+                              type="range" 
+                              min="100" max="2000" step="100"
+                              value={configuracoesApp.tempoParadoPopupMs}
+                              onChange={e => AtualizarConfiguracao('tempoParadoPopupMs', parseInt(e.target.value))}
+                              style={{ width: '200px', margin: 0 }}
+                            />
+                            <span style={{ minWidth: '55px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.tempoParadoPopupMs}ms</span>
+                          </div>
+                        )}
+                      </SecaoDependente>
+                    </>
+                  )}
+
+                  {(!termoBusca || "estudando highlight azul destacar tela".includes(termoBusca.toLowerCase())) && (
                     <div className="form-group">
                       <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-                        <span>Habilitar Pop-up de Tradução no Cursor (Hover)</span>
+                        <span>Destacar com um quadrado azul nativo os Hanzis recém-escaneados que já estão "Em Estudo"</span>
                         <input 
                           type="checkbox" 
-                          checked={configuracoesApp.habilitarPopupHover}
-                          onChange={e => AtualizarConfiguracao('habilitarPopupHover', e.target.checked)}
+                          checked={configuracoesApp.destacarEstudoTela}
+                          onChange={e => AtualizarConfiguracao('destacarEstudoTela', e.target.checked)}
                         />
                       </label>
+                      <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
+                        Eles serão destacados na tela logo após o escaneamento caso você permaneça na aba de Descobrimento ou de Palavras dessa Seção.
+                      </small>
                     </div>
                   )}
 
-                  {(!termoBusca || "distância máxima hover pixels".includes(termoBusca.toLowerCase())) && (
-                    <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-                      <label style={{ margin: 0, flex: 1 }}>Distância Máxima do Hover</label>
-                      <input 
-                        type="range" 
-                        min="50" max="500" step="10"
-                        value={configuracoesApp.distanciaMaximaHoverPx}
-                        onChange={e => AtualizarConfiguracao('distanciaMaximaHoverPx', parseInt(e.target.value))}
-                        style={{ width: '200px', margin: 0 }}
-                      />
-                      <span style={{ minWidth: '45px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.distanciaMaximaHoverPx}px</span>
-                    </div>
-                  )}
-
-                  {(!termoBusca || "intervalo atualização hover ms".includes(termoBusca.toLowerCase())) && (
-                    <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-                      <label style={{ margin: 0, flex: 1 }}>Intervalo de Atualização do Hover</label>
-                      <input 
-                        type="range" 
-                        min="16" max="500" step="10"
-                        value={configuracoesApp.intervaloAtualizacaoHoverMs}
-                        onChange={e => AtualizarConfiguracao('intervaloAtualizacaoHoverMs', parseInt(e.target.value))}
-                        style={{ width: '200px', margin: 0 }}
-                      />
-                      <span style={{ minWidth: '45px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.intervaloAtualizacaoHoverMs}ms</span>
-                    </div>
-                  )}
-
-                  {(!termoBusca || "tempo parado popup ms mouse".includes(termoBusca.toLowerCase())) && (
-                    <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-                      <label style={{ margin: 0, flex: 1 }}>Tempo com o mouse parado para abrir Popup</label>
-                      <input 
-                        type="range" 
-                        min="100" max="2000" step="100"
-                        value={configuracoesApp.tempoParadoPopupMs}
-                        onChange={e => AtualizarConfiguracao('tempoParadoPopupMs', parseInt(e.target.value))}
-                        style={{ width: '200px', margin: 0 }}
-                      />
-                      <span style={{ minWidth: '55px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.tempoParadoPopupMs}ms</span>
+                  {(!termoBusca || "estudando highlight amarelo destacar tela parcial".includes(termoBusca.toLowerCase())) && (
+                    <div className="form-group">
+                      <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+                        <span>Destacar com um quadrado amarelo Hanzis que estão "Em Estudo" quando aparecerem dentro de outras palavras</span>
+                        <input 
+                          type="checkbox" 
+                          checked={configuracoesApp.destacarEstudoParcialTela}
+                          onChange={e => AtualizarConfiguracao('destacarEstudoParcialTela', e.target.checked)}
+                        />
+                      </label>
+                      <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
+                        Ex: se você está estudando o caractere "好", ele receberá um highlight amarelo dentro do card "你好".
+                      </small>
                     </div>
                   )}
                 </div>
@@ -237,6 +279,23 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                 {/* ---------- ABA: OCR & PROCESSAMENTO ---------- */}
                 <div style={{ display: (abaConfiguracao === 'OCR' || termoBusca) ? 'block' : 'none' }}>
                   {termoBusca && <h3 className="settings-section-title" style={{marginTop: '32px'}}>OCR & Processamento</h3>}
+
+                  {(!termoBusca || "censurar janela app pop-up captura ocr privacidade".includes(termoBusca.toLowerCase())) && (
+                    <div className="form-group">
+                      <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+                        <span>Censurar a janela do app e os pop-ups na captura de tela enviada ao OCR</span>
+                        <input
+                          type="checkbox"
+                          checked={configuracoesApp.censurarJanelasDoApp}
+                          onChange={e => AtualizarConfiguracao('censurarJanelasDoApp', e.target.checked)}
+                        />
+                      </label>
+                      <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
+                        Evita que o OCR leia de volta o texto da própria janela do Hanzi Tracker ou dos pop-ups
+                        (sempre visíveis por cima), caso estejam sobre a tela sendo escaneada.
+                      </small>
+                    </div>
+                  )}
 
                   {(!termoBusca || "modelo de ocr".includes(termoBusca.toLowerCase())) && (() => {
                     // Mostra apenas os modelos disponíveis (embutidos + já baixados). Os baixáveis
@@ -265,7 +324,9 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                           ))}
                         </select>
                         <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
-                          Outros modelos podem ser baixados em "Gerenciar Modelos", logo abaixo.
+                          {motorAtivo
+                            ? `Modelos compatíveis com o motor ativo: ${motorAtivo.rotulo}. Outros modelos podem ser baixados em "Gerenciar Modelos", logo abaixo.`
+                            : 'Outros modelos podem ser baixados em "Gerenciar Modelos", logo abaixo.'}
                         </small>
                       </div>
                     );
@@ -416,16 +477,24 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
 
                   {(!termoBusca || "gerenciar modelos baixar download onnx".includes(termoBusca.toLowerCase())) && (
                     <div className="form-group">
-                      <label>Gerenciar Modelos (Download Dinâmico)</label>
+                      <label>
+                        Gerenciar Modelos{motorAtivo ? ` — motor ativo: ${motorAtivo.rotulo}` : ''}
+                      </label>
                       <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginBottom: '8px' }}>
-                        Os modelos de OCR são baixados automaticamente quando você seleciona o motor correspondente. Aqui você pode baixá-los antecipadamente ou removê-los para liberar espaço.
+                        Modelos compatíveis com o motor de OCR ativo. Baixe-os antecipadamente ou remova-os para liberar espaço; ao trocar de motor em "Gerenciar Motores", esta lista é atualizada automaticamente.
                       </small>
 
-                      {modelos.length === 0 && (
+                      {!motorAtivo && (
+                        <div style={{ color: 'var(--cor-texto-suave)', fontSize: '12px' }}>
+                          Nenhum motor de OCR ativo no momento — ative um em "Gerenciar Motores", acima, para ver os modelos compatíveis.
+                        </div>
+                      )}
+
+                      {motorAtivo && modelos.length === 0 && (
                         <div style={{ color: 'var(--cor-texto-suave)', fontSize: '12px' }}>Carregando modelos…</div>
                       )}
 
-                      {modelos.map(m => {
+                      {motorAtivo && modelos.map(m => {
                         const emDownload = baixandoModelo === m.nome;
                         const msg = progressoModelo[m.nome];
                         return (
@@ -481,88 +550,90 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                 <div style={{ display: (abaConfiguracao === 'Desempenho' || termoBusca) ? 'block' : 'none' }}>
                   {termoBusca && <h3 className="settings-section-title" style={{marginTop: '32px'}}>Desempenho (Hardware)</h3>}
 
-                  {(!termoBusca || "dispositivo hardware ocr cpu gpu nvidia amd intel".includes(termoBusca.toLowerCase())) && (
-                    <div className="form-group">
-                      <label>Hardware de Processamento OCR</label>
-                      <select
-                        className="form-input"
-                        value={
-                          configuracoesApp.hardwareSelecionado === 'CPU' ? (infoHardware?.cpu || 'CPU') :
-                          configuracoesApp.hardwareSelecionado === 'GPU' ? (infoHardware?.gpus?.[0] || 'GPU') :
-                          configuracoesApp.hardwareSelecionado
-                        }
-                        onChange={e => {
-                          const val = e.target.value;
-                          const mudancas: Partial<config.Config> = { hardwareSelecionado: val };
-
-                          if (val === infoHardware?.cpu || val === 'CPU') {
-                            mudancas.dispositivoOcr = 'cpu';
-                          } else if (configuracoesApp.modeloOcr === 'EasyOCR (Download)') {
-                            // EasyOCR só acelera por CUDA; opção GPU não-Nvidia fica desabilitada
-                            mudancas.dispositivoOcr = 'cuda';
-                          } else {
-                            // RapidOCR: DirectML é universal no Windows
-                            mudancas.dispositivoOcr = 'directml';
+                  {(!termoBusca || "dispositivo hardware ocr cpu gpu nvidia amd intel api processamento cuda directml".includes(termoBusca.toLowerCase())) && (
+                    <>
+                      <div className="form-group">
+                        <label>Hardware de Processamento OCR</label>
+                        <select
+                          className="form-input"
+                          value={
+                            configuracoesApp.hardwareSelecionado === 'CPU' ? (infoHardware?.cpu || 'CPU') :
+                            configuracoesApp.hardwareSelecionado === 'GPU' ? (infoHardware?.gpus?.[0] || 'GPU') :
+                            configuracoesApp.hardwareSelecionado
                           }
+                          onChange={e => {
+                            const val = e.target.value;
+                            const mudancas: Partial<config.Config> = { hardwareSelecionado: val };
 
-                          AplicarConfiguracao(mudancas);
-                        }}
-                      >
-                        <option value={infoHardware?.cpu || 'CPU'} title="Compatível com todos os modelos de OCR.">{infoHardware?.cpu || 'Processador (CPU)'}</option>
-                        {infoHardware?.gpus?.map(gpu => {
-                          const incompat = !hardwareCompativelComModelo(configuracoesApp.modeloOcr, gpu);
-                          return (
-                            <option
-                              key={gpu}
-                              value={gpu}
-                              disabled={incompat}
-                              title={incompat
-                                ? `Incompatível com ${rotuloModelo(configuracoesApp.modeloOcr)}, que em GPU exige uma placa Nvidia (CUDA). Troque o modelo ou use a CPU.`
-                                : (ehNvidia(gpu) ? 'Suporta CUDA e DirectML.' : 'Suporta DirectML (não há CUDA fora da Nvidia).')}
+                            if (val === infoHardware?.cpu || val === 'CPU') {
+                              mudancas.dispositivoOcr = 'cpu';
+                            } else if (configuracoesApp.modeloOcr === 'EasyOCR (Download)') {
+                              // EasyOCR só acelera por CUDA; opção GPU não-Nvidia fica desabilitada
+                              mudancas.dispositivoOcr = 'cuda';
+                            } else {
+                              // RapidOCR: DirectML é universal no Windows
+                              mudancas.dispositivoOcr = 'directml';
+                            }
+
+                            AplicarConfiguracao(mudancas);
+                          }}
+                        >
+                          <option value={infoHardware?.cpu || 'CPU'} title="Compatível com todos os modelos de OCR.">{infoHardware?.cpu || 'Processador (CPU)'}</option>
+                          {infoHardware?.gpus?.map(gpu => {
+                            const incompat = !hardwareCompativelComModelo(configuracoesApp.modeloOcr, gpu);
+                            return (
+                              <option
+                                key={gpu}
+                                value={gpu}
+                                disabled={incompat}
+                                title={incompat
+                                  ? `Incompatível com ${rotuloModelo(configuracoesApp.modeloOcr)}, que em GPU exige uma placa Nvidia (CUDA). Troque o modelo ou use a CPU.`
+                                  : (ehNvidia(gpu) ? 'Suporta CUDA e DirectML.' : 'Suporta DirectML (não há CUDA fora da Nvidia).')}
+                              >
+                                {gpu}{incompat ? ` — incompatível com ${rotuloModelo(configuracoesApp.modeloOcr)}` : ''}
+                              </option>
+                            );
+                          })}
+                        </select>
+                      </div>
+
+                      <SecaoDependente ativa={configuracoesApp.hardwareSelecionado !== 'CPU' && configuracoesApp.hardwareSelecionado !== infoHardware?.cpu}>
+                        {(!termoBusca || "api processamento ocr cuda directml".includes(termoBusca.toLowerCase())) && (
+                          <div className="form-group" style={{ margin: 0 }}>
+                            <label>API de Processamento da Placa de Vídeo</label>
+                            <select
+                              className="form-input"
+                              value={configuracoesApp.dispositivoOcr}
+                              onChange={e => AtualizarConfiguracao('dispositivoOcr', e.target.value)}
                             >
-                              {gpu}{incompat ? ` — incompatível com ${rotuloModelo(configuracoesApp.modeloOcr)}` : ''}
-                            </option>
-                          );
-                        })}
-                      </select>
-                    </div>
-                  )}
-
-                  {(!termoBusca || "api processamento ocr cuda directml".includes(termoBusca.toLowerCase())) && 
-                    configuracoesApp.hardwareSelecionado !== 'CPU' && 
-                    configuracoesApp.hardwareSelecionado !== infoHardware?.cpu && (
-                    <div className="form-group" style={{paddingLeft: '24px'}}>
-                      <label>API de Processamento da Placa de Vídeo</label>
-                      <select
-                        className="form-input"
-                        value={configuracoesApp.dispositivoOcr}
-                        onChange={e => AtualizarConfiguracao('dispositivoOcr', e.target.value)}
-                      >
-                        <option
-                          value="directml"
-                          disabled={configuracoesApp.modeloOcr === 'EasyOCR (Download)'}
-                          title={configuracoesApp.modeloOcr === 'EasyOCR (Download)'
-                            ? 'O EasyOCR não suporta DirectML. Use CUDA (Nvidia) ou rode em CPU.'
-                            : 'Aceleração universal no Windows — funciona em qualquer GPU (Nvidia, AMD, Intel).'}
-                        >
-                          DirectML (Padrão Windows / Universal)
-                        </option>
-                        <option
-                          value="cuda"
-                          disabled={!ehNvidia(configuracoesApp.hardwareSelecionado)}
-                          title={ehNvidia(configuracoesApp.hardwareSelecionado)
-                            ? 'Aceleração CUDA, exclusiva de placas Nvidia.'
-                            : 'CUDA é exclusivo de placas Nvidia; a GPU selecionada não é Nvidia.'}
-                        >
-                          CUDA (Exclusivo Nvidia)
-                        </option>
-                      </select>
-                      <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
-                        {configuracoesApp.modeloOcr === 'EasyOCR (Download)'
-                          ? 'EasyOCR: aceleração apenas por CUDA (Nvidia).'
-                          : 'RapidOCR: DirectML funciona em qualquer GPU; CUDA é exclusivo Nvidia.'}
-                      </small>
-                    </div>
+                              <option
+                                value="directml"
+                                disabled={configuracoesApp.modeloOcr === 'EasyOCR (Download)'}
+                                title={configuracoesApp.modeloOcr === 'EasyOCR (Download)'
+                                  ? 'O EasyOCR não suporta DirectML. Use CUDA (Nvidia) ou rode em CPU.'
+                                  : 'Aceleração universal no Windows — funciona em qualquer GPU (Nvidia, AMD, Intel).'}
+                              >
+                                DirectML (Padrão Windows / Universal)
+                              </option>
+                              <option
+                                value="cuda"
+                                disabled={!ehNvidia(configuracoesApp.hardwareSelecionado)}
+                                title={ehNvidia(configuracoesApp.hardwareSelecionado)
+                                  ? 'Aceleração CUDA, exclusiva de placas Nvidia.'
+                                  : 'CUDA é exclusivo de placas Nvidia; a GPU selecionada não é Nvidia.'}
+                              >
+                                CUDA (Exclusivo Nvidia)
+                              </option>
+                            </select>
+                            <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
+                              {configuracoesApp.modeloOcr === 'EasyOCR (Download)'
+                                ? 'EasyOCR: aceleração apenas por CUDA (Nvidia).'
+                                : 'RapidOCR: DirectML funciona em qualquer GPU; CUDA é exclusivo Nvidia.'}
+                            </small>
+                          </div>
+                        )}
+                      </SecaoDependente>
+                    </>
                   )}
 
                   {(!termoBusca || "threads cpu ocr".includes(termoBusca.toLowerCase())) && (
@@ -579,7 +650,7 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                     </div>
                   )}
 
-                  {(!termoBusca || "limitar uso máximo cpu".includes(termoBusca.toLowerCase())) && (
+                  {(!termoBusca || "limitar uso máximo cpu tolerância".includes(termoBusca.toLowerCase())) && (
                     <>
                       <div className="form-group">
                         <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
@@ -592,23 +663,25 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                         </label>
                       </div>
                       
-                      {configuracoesApp.limitarPorUsoCpu && (
-                        <div className="form-group" style={{ paddingLeft: '24px', display: 'flex', alignItems: 'center', gap: '16px' }}>
-                          <label style={{ margin: 0, flex: 1 }}>Tolerância de Uso CPU</label>
-                          <input 
-                            type="range" 
-                            min="10" max="100" step="5"
-                            value={configuracoesApp.usoMaximoCpuPercent}
-                            onChange={e => AtualizarConfiguracao('usoMaximoCpuPercent', parseFloat(e.target.value))}
-                            style={{ width: '200px', margin: 0 }}
-                          />
-                          <span style={{ minWidth: '40px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.usoMaximoCpuPercent}%</span>
-                        </div>
-                      )}
+                      <SecaoDependente ativa={configuracoesApp.limitarPorUsoCpu}>
+                        {(!termoBusca || "tolerância de uso cpu máximo".includes(termoBusca.toLowerCase())) && (
+                          <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px', margin: 0 }}>
+                            <label style={{ margin: 0, flex: 1 }}>Tolerância de Uso CPU</label>
+                            <input 
+                              type="range" 
+                              min="10" max="100" step="5"
+                              value={configuracoesApp.usoMaximoCpuPercent}
+                              onChange={e => AtualizarConfiguracao('usoMaximoCpuPercent', parseFloat(e.target.value))}
+                              style={{ width: '200px', margin: 0 }}
+                            />
+                            <span style={{ minWidth: '40px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.usoMaximoCpuPercent}%</span>
+                          </div>
+                        )}
+                      </SecaoDependente>
                     </>
                   )}
 
-                  {(!termoBusca || "limitar uso máximo gpu".includes(termoBusca.toLowerCase())) && (
+                  {(!termoBusca || "limitar uso máximo gpu tolerância".includes(termoBusca.toLowerCase())) && (
                     <>
                       <div className="form-group">
                         <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
@@ -621,19 +694,21 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                         </label>
                       </div>
                       
-                      {configuracoesApp.limitarPorUsoGpu && (
-                        <div className="form-group" style={{ paddingLeft: '24px', display: 'flex', alignItems: 'center', gap: '16px' }}>
-                          <label style={{ margin: 0, flex: 1 }}>Tolerância de Uso GPU</label>
-                          <input 
-                            type="range" 
-                            min="10" max="100" step="5"
-                            value={configuracoesApp.usoMaximoGpuPercent}
-                            onChange={e => AtualizarConfiguracao('usoMaximoGpuPercent', parseFloat(e.target.value))}
-                            style={{ width: '200px', margin: 0 }}
-                          />
-                          <span style={{ minWidth: '40px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.usoMaximoGpuPercent}%</span>
-                        </div>
-                      )}
+                      <SecaoDependente ativa={configuracoesApp.limitarPorUsoGpu}>
+                        {(!termoBusca || "tolerância de uso gpu máximo".includes(termoBusca.toLowerCase())) && (
+                          <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px', margin: 0 }}>
+                            <label style={{ margin: 0, flex: 1 }}>Tolerância de Uso GPU</label>
+                            <input 
+                              type="range" 
+                              min="10" max="100" step="5"
+                              value={configuracoesApp.usoMaximoGpuPercent}
+                              onChange={e => AtualizarConfiguracao('usoMaximoGpuPercent', parseFloat(e.target.value))}
+                              style={{ width: '200px', margin: 0 }}
+                            />
+                            <span style={{ minWidth: '40px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.usoMaximoGpuPercent}%</span>
+                          </div>
+                        )}
+                      </SecaoDependente>
                     </>
                   )}
                 </div>
@@ -688,6 +763,106 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                         placeholder="Ex: ctrl+shift+h"
                       />
                     </div>
+                  )}
+                </div>
+
+                {/* ---------- ABA: TRADUÇÃO ---------- */}
+                <div style={{ display: (abaConfiguracao === 'Tradução' || termoBusca) ? 'block' : 'none' }}>
+                  {termoBusca && <h3 className="settings-section-title" style={{marginTop: '32px'}}>Tradução (IA)</h3>}
+
+                  {(!termoBusca || "tradução api key google cloud".includes(termoBusca.toLowerCase())) && (
+                    <div className="form-group">
+                      <label>Google Cloud Translation API Key</label>
+                      <input 
+                        type="password"
+                        className="form-input" 
+                        value={configuracoesApp.traducaoApiKey}
+                        onChange={e => AtualizarConfiguracao('traducaoApiKey', e.target.value)}
+                        placeholder="Cole sua API Key aqui..."
+                      />
+                      <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
+                        Requer uma API key própria do Google Cloud Platform (GCP). Cota gratuita: 500.000 caracteres/mês. 
+                        <strong>Aviso:</strong> o Google exige cartão cadastrado no GCP mesmo para usar apenas a cota gratuita.
+                      </small>
+                    </div>
+                  )}
+
+                  {(!termoBusca || "habilitar tradução de linha cota mensal uso limite guardar cache pausar".includes(termoBusca.toLowerCase())) && (
+                    <>
+                      <div className="form-group" style={{ marginTop: '16px' }}>
+                        <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+                          <span>Habilitar tradução por linha (Atalho de Pop-up de Tudo)</span>
+                          <input 
+                            type="checkbox" 
+                            checked={configuracoesApp.traducaoAtiva}
+                            onChange={e => AtualizarConfiguracao('traducaoAtiva', e.target.checked)}
+                          />
+                        </label>
+                      </div>
+
+                      <SecaoDependente ativa={configuracoesApp.traducaoAtiva}>
+                        {(!termoBusca || "pausar traduções limite cota mensal".includes(termoBusca.toLowerCase())) && (
+                          <div className="form-group">
+                            <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+                              <span>Pausar traduções ao atingir limite da cota gratuita mensal</span>
+                              <input 
+                                type="checkbox" 
+                                checked={configuracoesApp.traducaoPausarPorCota}
+                                onChange={e => AtualizarConfiguracao('traducaoPausarPorCota', e.target.checked)}
+                              />
+                            </label>
+                          </div>
+                        )}
+
+                        <SecaoDependente ativa={configuracoesApp.traducaoPausarPorCota}>
+                          {(!termoBusca || "limite cota mensal percentual".includes(termoBusca.toLowerCase())) && (
+                            <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px', margin: 0 }}>
+                              <label style={{ margin: 0, flex: 1 }}>Limite de Cota Mensal</label>
+                              <input 
+                                type="range" 
+                                min="10" max="100" step="5"
+                                value={configuracoesApp.traducaoLimiteCotaPercent}
+                                onChange={e => AtualizarConfiguracao('traducaoLimiteCotaPercent', parseFloat(e.target.value))}
+                                style={{ width: '200px', margin: 0 }}
+                              />
+                              <span style={{ minWidth: '40px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.traducaoLimiteCotaPercent}%</span>
+                            </div>
+                          )}
+                        </SecaoDependente>
+
+                        {(!termoBusca || "guardar cache traduções feitas".includes(termoBusca.toLowerCase())) && (
+                          <div className="form-group" style={{ marginTop: '16px' }}>
+                            <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+                              <span>Guardar traduções já feitas para não gastar cota na mesma linha</span>
+                              <input 
+                                type="checkbox" 
+                                checked={configuracoesApp.traducaoUsarCache}
+                                onChange={e => AtualizarConfiguracao('traducaoUsarCache', e.target.checked)}
+                              />
+                            </label>
+                          </div>
+                        )}
+
+                        {infoCotaTraducao && (!termoBusca || "uso da cota".includes(termoBusca.toLowerCase())) && (
+                          <div className="form-group" style={{ marginTop: '16px', padding: '12px', backgroundColor: 'var(--cor-fundo-cartao)', borderRadius: '8px', border: '1px solid var(--cor-borda)', marginBottom: 0 }}>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
+                              <span>Uso da Cota (Mês {infoCotaTraducao.anoMes})</span>
+                              <strong>{infoCotaTraducao.percentual.toFixed(1)}%</strong>
+                            </div>
+                            <div style={{ width: '100%', height: '8px', backgroundColor: 'var(--cor-borda)', borderRadius: '4px', overflow: 'hidden' }}>
+                              <div style={{ 
+                                height: '100%', 
+                                width: `${Math.min(100, infoCotaTraducao.percentual)}%`,
+                                backgroundColor: infoCotaTraducao.percentual >= 90 ? '#f44336' : (infoCotaTraducao.percentual >= 75 ? '#ffb74d' : 'var(--cor-destaque)')
+                              }} />
+                            </div>
+                            <div style={{ fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '8px', textAlign: 'right' }}>
+                              {infoCotaTraducao.caracteresUsados.toLocaleString('pt-BR')} / {infoCotaTraducao.cotaTotal.toLocaleString('pt-BR')} caracteres
+                            </div>
+                          </div>
+                        )}
+                      </SecaoDependente>
+                    </>
                   )}
                 </div>
 
@@ -814,26 +989,7 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                   </div>
                 </div>
 
-                {/* ---------- ABA: ESTUDANDO ---------- */}
-                <div style={{ display: (abaConfiguracao === 'Estudando' || termoBusca) ? 'block' : 'none' }}>
-                  {termoBusca && <h3 className="settings-section-title" style={{marginTop: '32px'}}>Estudando</h3>}
 
-                  {(!termoBusca || "estudando highlight azul destacar tela".includes(termoBusca.toLowerCase())) && (
-                    <div className="form-group">
-                      <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-                        <span>Destacar com um quadrado azul nativo os Hanzis recém-escaneados que já estão "Em Estudo"</span>
-                        <input 
-                          type="checkbox" 
-                          checked={configuracoesApp.destacarEstudoTela}
-                          onChange={e => AtualizarConfiguracao('destacarEstudoTela', e.target.checked)}
-                        />
-                      </label>
-                      <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
-                        Eles serão destacados na tela logo após o escaneamento caso você permaneça na aba de Descobrimento ou de Palavras dessa Seção.
-                      </small>
-                    </div>
-                  )}
-                </div>
 
                 {termoBusca && (
                   <div style={{ textAlign: 'center', color: 'var(--cor-texto-suave)', marginTop: '32px' }}>
@@ -846,5 +1002,24 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
           </div>
         </div>
       </>
+    );
+}
+
+// ----- Helpers -----
+
+interface SecaoDependenteProps {
+    ativa: boolean;
+    children: React.ReactNode;
+}
+
+function SecaoDependente({ ativa, children }: SecaoDependenteProps) {
+    if (!ativa) {
+        return null;
+    }
+
+    return (
+        <div style={{ paddingLeft: '24px', marginTop: '12px', marginBottom: '24px', borderLeft: '2px solid var(--cor-borda)' }}>
+            {children}
+        </div>
     );
 }

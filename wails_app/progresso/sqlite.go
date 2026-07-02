@@ -47,6 +47,13 @@ func InitDB() error {
 		id INTEGER PRIMARY KEY AUTOINCREMENT,
 		image_base64 TEXT
 	);
+
+	CREATE TABLE IF NOT EXISTS traducoes_cache (
+		id INTEGER PRIMARY KEY AUTOINCREMENT,
+		linha_original TEXT UNIQUE NOT NULL,
+		traducao TEXT NOT NULL,
+		data_add DATETIME DEFAULT CURRENT_TIMESTAMP
+	);
 	`
 	_, err = db.Exec(query)
 	if err != nil {
@@ -102,6 +109,14 @@ func LimparVocabulario() error {
 	// Recupera o espaço em disco liberado pelos registros apagados.
 	_, _ = db.Exec("VACUUM")
 	return nil
+}
+
+func RemoveVocab(hanzi string) error {
+	if db == nil {
+		return fmt.Errorf("DB não inicializado")
+	}
+	_, err := db.Exec("DELETE FROM vocabulario WHERE hanzi = ?", hanzi)
+	return err
 }
 
 func GetAllVocab() ([]Vocab, error) {

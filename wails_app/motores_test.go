@@ -56,11 +56,6 @@ func TestCatalogoDeMotoresIntegro(t *testing.T) {
 			t.Errorf("motor %q sem Executavel", nome)
 		}
 	}
-
-	// O overlay compartilhado também é um binário baixado: exige sha256 + HTTPS.
-	if PopupOverlayBaixavel.Sha256 == "" || !strings.HasPrefix(PopupOverlayBaixavel.Url, "https://") {
-		t.Error("PopupOverlayBaixavel com sha256 vazio ou URL não-https")
-	}
 }
 
 // ----- Extração de zip com proteção Zip Slip (motores.go) -----

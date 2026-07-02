@@ -16,10 +16,11 @@ import (
 // diretório de trabalho. Abstrai "qual motor está ativo" para o app trocar de motor apenas apontando o
 // descritor para outro executável baixado (ver Fase 5 no TODO.md e docs/CONTRATO-OCR.md).
 type DescritorMotorOcr struct {
-	Nome    string   // rótulo humano p/ logs (ex.: "RapidOCR (bundle)")
-	Comando string   // executável: caminho do .exe congelado ou "python"
-	Args    []string // argumentos (ex.: caminho do server.py no modo fonte)
-	Dir     string   // diretório de trabalho ("" = herda do app)
+	Nome     string   // rótulo humano p/ logs (ex.: "RapidOCR (bundle)")
+	Catalogo string   // NOME de catálogo do motor (chave em MotoresBaixaveis; "" = desconhecido). Define a subpasta de pesos modelos\<Catalogo> e é injetado no sidecar via HANZITRACKER_MOTOR.
+	Comando  string   // executável: caminho do .exe congelado ou "python"
+	Args     []string // argumentos (ex.: caminho do server.py no modo fonte)
+	Dir      string   // diretório de trabalho ("" = herda do app)
 }
 
 // resolverMotorOcrBundle resolve um sidecar congelado empacotado AO LADO do app (instalação com bundle
@@ -42,7 +43,7 @@ func resolverMotorOcrBundle() (DescritorMotorOcr, bool) {
 			if errAbs != nil {
 				abs = caminho
 			}
-			return DescritorMotorOcr{Nome: "RapidOCR (bundle)", Comando: abs}, true
+			return DescritorMotorOcr{Nome: "RapidOCR (bundle)", Catalogo: "RapidOCR", Comando: abs}, true
 		}
 	}
 	return DescritorMotorOcr{}, false
@@ -107,6 +108,12 @@ func (g *GerenciadorMotorOcr) iniciarSemLock(descritor DescritorMotorOcr) error 
 	cmd.Stderr = os.Stderr
 	cmd.SysProcAttr = &syscall.SysProcAttr{HideWindow: true}
 	cmd.Env = os.Environ() // herda HANZITRACKER_OCR_PORT + HANZITRACKER_DATA_DIR
+	// Informa ao sidecar o seu nome de catálogo: o Python monta a subpasta de pesos
+	// modelos\<Catalogo> a partir desta env (obterNomeMotor), garantindo que ele LÊ exatamente onde o
+	// Go BAIXA (pastaModelosMotor) sem duplicar a constante nos dois lados.
+	if descritor.Catalogo != "" {
+		cmd.Env = append(cmd.Env, "HANZITRACKER_MOTOR="+descritor.Catalogo)
+	}
 
 	if err := cmd.Start(); err != nil {
 		return fmt.Errorf("falha ao iniciar o backend de OCR (%s): %w", descritor.Nome, err)
@@ -148,6 +155,17 @@ func (g *GerenciadorMotorOcr) MotorAtivo() string {
 		return ""
 	}
 	return g.descritor.Nome
+}
+
+// CatalogoAtivo devolve o NOME de catálogo do motor em execução ("" se nenhum/desconhecido). É o que
+// define a subpasta de pesos do motor (modelos\<Catalogo>) — ver BaixarModelo/RemoverModelo no app.go.
+func (g *GerenciadorMotorOcr) CatalogoAtivo() string {
+	g.mutex.Lock()
+	defer g.mutex.Unlock()
+	if g.processo == nil {
+		return ""
+	}
+	return g.descritor.Catalogo
 }
 
 // ComandoAtivo devolve o caminho do executável do motor em execução ("" se nenhum). Comparar por

@@ -1,17 +1,14 @@
-# Dependências do backend Python (microserviço de OCR + overlay).
+# Dependências do motor RapidOCR (motores/rapidocr/server.py) + do overlay compartilhado (popup.py,
+# que reaproveita este venv só por conveniência de build — usa apenas a stdlib/tkinter). Também usado
+# pelo CI para instalar o suficiente para rodar a suíte de testes (pytest).
+#
 # Para desenvolvimento, isto instala o onnxruntime padrão (CPU) como dependência do rapidocr.
 # Para gerar o build distribuído COM aceleração DirectML, NÃO basta este arquivo: é preciso trocar
 # o onnxruntime pelo onnxruntime-directml no ambiente de build — veja BUILD.md.
 
-mss>=10.0.0
 rapidocr-onnxruntime>=1.4.0
-jieba>=0.42.1
-customtkinter>=6.0.0
 numpy>=1.24.0
 pytest>=8.0.0
-requests>=2.31.0
-psutil>=5.9.0
-keyboard>=0.13.5
 
 # Aceleração GPU (Windows): o DirectML é universal (Nvidia/AMD/Intel) e não exige CUDA Toolkit.
 # NÃO descomente a linha abaixo junto com o rapidocr acima: onnxruntime-directml e onnxruntime são
