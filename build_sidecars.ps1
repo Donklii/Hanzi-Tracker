@@ -33,7 +33,7 @@ function Preparar-Venv([string]$pasta, [string]$requirements) {
 }
 
 Write-Host "== 1/8  Venv do RapidOCR (build_env, motores/rapidocr/requirements.txt) ==" -ForegroundColor Cyan
-$pyRapid = Preparar-Venv (Join-Path $raiz "build_env") (Join-Path "python_backend" "motores" "rapidocr" "requirements.txt")
+$pyRapid = Preparar-Venv (Join-Path $raiz "build_env") ([IO.Path]::Combine("python_backend", "motores", "rapidocr", "requirements.txt"))
 
 Write-Host "== 2/8  Trocando onnxruntime -> onnxruntime-directml ==" -ForegroundColor Cyan
 # onnxruntime (CPU) e onnxruntime-directml sao MUTUAMENTE EXCLUSIVOS: remover antes de instalar.
@@ -48,16 +48,16 @@ Write-Host "== 3/8  Congelando ocr_server (PyInstaller) ==" -ForegroundColor Cya
 # relativos ao diretorio de INVOCACAO (Push-Location $backend), nao a pasta do .spec.
 Push-Location $backend
 try {
-    & $pyRapid -m PyInstaller --noconfirm (Join-Path "motores" "rapidocr" "ocr_server.spec")
+    & $pyRapid -m PyInstaller --noconfirm ([IO.Path]::Combine("motores", "rapidocr", "ocr_server.spec"))
 } finally {
     Pop-Location
 }
 
 Write-Host "== 4/8  Venv + congelamento do tesseract_server ==" -ForegroundColor Cyan
-$pyTess = Preparar-Venv (Join-Path $raiz "build_env_tesseract") (Join-Path "python_backend" "motores" "tesseract" "requirements.txt")
+$pyTess = Preparar-Venv (Join-Path $raiz "build_env_tesseract") ([IO.Path]::Combine("python_backend", "motores", "tesseract", "requirements.txt"))
 Push-Location $backend
 try {
-    & $pyTess -m PyInstaller --noconfirm (Join-Path "motores" "tesseract" "tesseract_server.spec")
+    & $pyTess -m PyInstaller --noconfirm ([IO.Path]::Combine("motores", "tesseract", "tesseract_server.spec"))
 } finally {
     Pop-Location
 }
@@ -87,10 +87,10 @@ if (-not (Test-Path (Join-Path $tesseractOrigem "tesseract.exe"))) {
 }
 
 Write-Host "== 6/8  Venv + congelamento do easyocr_server ==" -ForegroundColor Cyan
-$pyEasy = Preparar-Venv (Join-Path $raiz "build_env_easyocr") (Join-Path "python_backend" "motores" "easyocr" "requirements.txt")
+$pyEasy = Preparar-Venv (Join-Path $raiz "build_env_easyocr") ([IO.Path]::Combine("python_backend", "motores", "easyocr", "requirements.txt"))
 Push-Location $backend
 try {
-    & $pyEasy -m PyInstaller --noconfirm (Join-Path "motores" "easyocr" "easyocr_server.spec")
+    & $pyEasy -m PyInstaller --noconfirm ([IO.Path]::Combine("motores", "easyocr", "easyocr_server.spec"))
 } finally {
     Pop-Location
 }
