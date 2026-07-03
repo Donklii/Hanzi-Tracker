@@ -1,0 +1,61 @@
+name: Publicar Motores (Voz/TTS)
+
+# Congela os sidecars de VOZ/TTS (builds/build_sidecars_tts.ps1) num runner Windows e publica os .zip
+# numa GitHub Release. Dispara ao empurrar uma tag "motores-tts-v*" (ou manualmente, informando a tag).
+# O sha256 de cada zip é escrito no resumo do job para você colar no manifesto
+# (wails_app/motores_tts_manifesto.go). Os motores de OCR têm workflow próprio: publicar-motores-ocr.yml
+# (tags "motores-v*") — as tags são separadas para uma release de voz não invalidar as URLs dos de OCR.
+# Ver docs/PUBLICAR-MOTORES.md. Windows-only porque o congelamento usa PyInstaller.
+
+on:
+  push:
+    tags:
+      - 'motores-tts-v*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag da release (ex.: motores-tts-v1)'
+        required: true
+
+permissions:
+  contents: write # criar a release e anexar os assets
+
+jobs:
+  publicar:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Congelar sidecars de voz (builds/build_sidecars_tts.ps1)
+        shell: pwsh
+        run: powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts.ps1
+
+      - name: sha256 dos artefatos (cole no manifesto)
+        shell: pwsh
+        run: |
+          $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
+          "## sha256 dos motores de voz ($tag)" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          "" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          foreach ($z in @('python_backend/dist/kokoro_server.zip', 'python_backend/dist/chattts_server.zip')) {
+            if (-not (Test-Path $z)) { continue }
+            $h = (Get-FileHash $z -Algorithm SHA256).Hash.ToLower()
+            $s = (Get-Item $z).Length
+            $nome = [System.IO.Path]::GetFileName($z)
+            "- **$nome** — $s bytes — sha256 ``$h``" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          }
+
+      - name: Publicar Release com os zips
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.tag || github.ref_name }}
+          name: Motores de Voz ${{ github.event.inputs.tag || github.ref_name }}
+          files: |
+            python_backend/dist/kokoro_server.zip
+            python_backend/dist/chattts_server.zip
+          fail_on_unmatched_files: true

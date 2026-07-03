@@ -33,7 +33,7 @@ Nesta versão mais recente, o projeto foi **migrado para Go + React (via Wails)*
 ## Como Instalar
 
 1. Instale as dependências do motor RapidOCR (padrão) — Tesseract/EasyOCR têm os seus próprios
-   `requirements.txt`, usados só pelo `build_sidecars.ps1` ao congelar cada sidecar:
+   `requirements.txt`, usados só pelos scripts em `builds/` ao congelar cada sidecar:
    ```bash
    pip install -r python_backend/motores/rapidocr/requirements.txt
    ```

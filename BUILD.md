@@ -17,15 +17,20 @@ Por isso, a aceleração GPU precisa estar **embutida no congelamento** — é o
 
 ## 1. Congelar os sidecars (forma recomendada: um comando)
 
-Todo o processo abaixo está automatizado em [build_sidecars.ps1](build_sidecars.ps1). Na raiz do projeto:
+O processo está automatizado em dois scripts na pasta [builds/](builds/), separados por tipo de motor:
+[builds/build_sidecars_ocr.ps1](builds/build_sidecars_ocr.ps1) (OCR) e
+[builds/build_sidecars_tts.ps1](builds/build_sidecars_tts.ps1) (voz/TTS). Na raiz do projeto:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File build_sidecars.ps1
+powershell -ExecutionPolicy Bypass -File builds/build_sidecars_ocr.ps1
+# motores de voz (Kokoro-82M + ChatTTS):
+powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts.ps1
 ```
 
-Ele congela os artefatos, cada motor num venv **próprio** (`build_env`, `build_env_tesseract`,
+O script de OCR congela os artefatos, cada motor num venv **próprio** (`build_env`, `build_env_tesseract`,
 `build_env_easyocr` — o onnxruntime-directml do RapidOCR e o torch do EasyOCR não podem conviver no
-mesmo ambiente), com os specs versionados dentro da pasta de cada motor
+mesmo ambiente; o de voz usa `build_env_kokoro`/`build_env_chattts`), com os specs versionados dentro da
+pasta de cada motor
 ([motores/rapidocr/ocr_server.spec](python_backend/motores/rapidocr/ocr_server.spec),
 [motores/tesseract/tesseract_server.spec](python_backend/motores/tesseract/tesseract_server.spec) e
 [motores/easyocr/easyocr_server.spec](python_backend/motores/easyocr/easyocr_server.spec)). No build do
@@ -76,7 +81,7 @@ subir: `resolverMotorInicial` procura, nesta ordem, o motor **baixado no AppData
 (`%APPDATA%\HanziTracker\motores\`, modelo padrão da Fase 5) e depois o sidecar congelado **ao lado do
 app** (bundle). **Não há mais fallback para `python server.py`** — todo motor é um executável
 (baixado ou em bundle); se nenhum existe, o app baixa o padrão (bootstrap). Os `python_backend/*.py`
-seguem sendo a *fonte* que o `build_sidecars.ps1` congela, mas não são executados pelo app. O orquestrador
+seguem sendo a *fonte* que os scripts em `builds/` congelam, mas não são executados pelo app. O orquestrador
 `main.go` (raiz) não sobe mais o OCR — só reserva a porta e a pasta de dados e lança o app.
 
 Há **duas formas** de distribuir os motores (as duas funcionam; dá para combinar):

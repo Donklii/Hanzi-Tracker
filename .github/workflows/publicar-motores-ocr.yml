@@ -1,19 +1,19 @@
-name: Publicar Motores
+name: Publicar Motores (OCR)
 
-# Congela os sidecars (build_sidecars.ps1) num runner Windows e publica os .zip numa GitHub Release.
-# Dispara ao empurrar uma tag "motores-v*" (ou manualmente, informando a tag). O sha256 de cada zip é
-# escrito no resumo do job para você colar no manifesto (wails_app/motores_manifesto.go).
+# Congela os sidecars de OCR (builds/build_sidecars_ocr.ps1) num runner Windows e publica os .zip numa
+# GitHub Release. Dispara ao empurrar uma tag "motores-v*" (ou manualmente, informando a tag). O sha256
+# de cada zip é escrito no resumo do job para você colar no manifesto (wails_app/motores_manifesto.go).
+# Os motores de VOZ (TTS) têm workflow próprio: publicar-motores-tts.yml (tags "motores-tts-v*").
 # Ver docs/PUBLICAR-MOTORES.md. Windows-only porque o congelamento usa PyInstaller + DirectML.
 
 on:
   push:
     tags:
       - 'motores-v*'
-      - 'motores-tts-v*' # motores de voz (TTS) usam tags próprias, para não invalidar as URLs dos de OCR
   workflow_dispatch:
     inputs:
       tag:
-        description: 'Tag da release (ex.: motores-v2 ou motores-tts-v1)'
+        description: 'Tag da release (ex.: motores-v5)'
         required: true
 
 permissions:
@@ -32,23 +32,23 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar Tesseract (binários do sidecar tesseract_server)
-        # O tesseract.exe não vem do pip: o build_sidecars.ps1 copia a instalação (exe + DLLs +
+        # O tesseract.exe não vem do pip: o build_sidecars_ocr.ps1 copia a instalação (exe + DLLs +
         # tessdata) para dentro do pacote congelado. O choco instala em C:\Program Files\Tesseract-OCR,
         # o caminho padrão que o script procura (TESSERACT_DIR para outro).
         shell: pwsh
         run: choco install tesseract -y --no-progress
 
-      - name: Congelar sidecars (build_sidecars.ps1)
+      - name: Congelar sidecars de OCR (builds/build_sidecars_ocr.ps1)
         shell: pwsh
-        run: powershell -ExecutionPolicy Bypass -File build_sidecars.ps1
+        run: powershell -ExecutionPolicy Bypass -File builds/build_sidecars_ocr.ps1
 
       - name: sha256 dos artefatos (cole no manifesto)
         shell: pwsh
         run: |
           $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
-          "## sha256 dos motores ($tag)" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          "## sha256 dos motores de OCR ($tag)" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
           "" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
-          foreach ($z in @('python_backend/dist/ocr_server.zip', 'python_backend/dist/tesseract_server.zip', 'python_backend/dist/easyocr_server.zip', 'python_backend/dist/kokoro_server.zip', 'python_backend/dist/chattts_server.zip')) {
+          foreach ($z in @('python_backend/dist/ocr_server.zip', 'python_backend/dist/tesseract_server.zip', 'python_backend/dist/easyocr_server.zip')) {
             if (-not (Test-Path $z)) { continue }
             $h = (Get-FileHash $z -Algorithm SHA256).Hash.ToLower()
             $s = (Get-Item $z).Length
@@ -60,11 +60,9 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ github.event.inputs.tag || github.ref_name }}
-          name: Motores ${{ github.event.inputs.tag || github.ref_name }}
+          name: Motores OCR ${{ github.event.inputs.tag || github.ref_name }}
           files: |
             python_backend/dist/ocr_server.zip
             python_backend/dist/tesseract_server.zip
             python_backend/dist/easyocr_server.zip
-            python_backend/dist/kokoro_server.zip
-            python_backend/dist/chattts_server.zip
           fail_on_unmatched_files: true

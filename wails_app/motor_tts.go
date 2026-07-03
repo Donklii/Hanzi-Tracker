@@ -31,7 +31,7 @@ type DescritorMotorTts struct {
 }
 
 // resolverMotorTtsBundle resolve um sidecar de TTS congelado empacotado AO LADO do app (instalação
-// com bundle opcional / build local via build_sidecars.ps1, antes da release publicada). Devolve
+// com bundle opcional / build local via builds/build_sidecars_tts.ps1, antes da release publicada). Devolve
 // ok=false quando não há bundle — sinal de que o motor precisa ser baixado. Espelha
 // resolverMotorOcrBundle (motor_ocr.go).
 func resolverMotorTtsBundle(m MotorTtsBaixavel) (DescritorMotorTts, bool) {

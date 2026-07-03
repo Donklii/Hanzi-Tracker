@@ -18,13 +18,15 @@ preguiçosa na primeira leitura), catálogo/download ([motores_tts.go](wails_app
 [motores_tts_manifesto.go](wails_app/motores_tts_manifesto.go), pasta `motores_tts\`), `FalarPinyin`
 real devolvendo WAV base64 ([tts.go](wails_app/tts.go)), cache de áudio em SQLite
 ([progresso/tts_cache.go](wails_app/progresso/tts_cache.go), tabela `tts_audio_cache`), categorias
-na aba Armazenamento, specs PyInstaller, `build_sidecars.ps1` e CI atualizados. Os PESOS são
+na aba Armazenamento, specs PyInstaller, `builds/build_sidecars_tts.ps1` e CI
+([publicar-motores-tts.yml](.github/workflows/publicar-motores-tts.yml)) atualizados. Os PESOS são
 baixados pelo próprio sidecar do Hugging Face na primeira síntese (cache HF redirecionado para
 `modelos\<Motor>\hf`) — não há manifesto de pesos para TTS. O texto sintetizado é o **HANZI** do
 card (pronúncia nativa); o pinyin é só a leitura visual.
 
 - [ ] **Publicar os motores de voz — falta só a release.** Empurrar a tag `motores-tts-v1` (o CI
-      agora congela e anexa também `kokoro_server.zip` e `chattts_server.zip`, e imprime os sha256
+      congela `kokoro_server.zip` e `chattts_server.zip` no workflow dedicado
+      [publicar-motores-tts.yml](.github/workflows/publicar-motores-tts.yml), e imprime os sha256
       no resumo do job). Depois, colar em
       [motores_tts_manifesto.go](wails_app/motores_tts_manifesto.go) o `Sha256` e o `TamanhoBytes`
       dos dois artefatos (hoje estão vazios — estado "pendente de publicação": a UI mostra o botão
@@ -32,7 +34,7 @@ card (pronúncia nativa); o pinyin é só a leitura visual.
       os campos quando o sha256 é preenchido).
 - [ ] **Smoke test manual com modelo real** (nunca rodou — só o contrato foi testado de ponta a
       ponta com serviço falso): baixar o Kokoro-82M pela UI (ou build local via
-      `build_sidecars.ps1`, que o app acha como bundle), ligar o toggle mestre + "ao abrir o pop-up"
+      `builds/build_sidecars_tts.ps1`, que o app acha como bundle), ligar o toggle mestre + "ao abrir o pop-up"
       e conferir: primeira leitura baixa os pesos (~330 MB, status na barra), áudio toca, repetição
       sai instantânea (cache), categorias "Motores de Voz"/"Cache de Áudio (Voz)" aparecem na aba
       Armazenamento. Repetir com o ChatTTS (~1 GB). Atenção às APIs dos pacotes `kokoro`/`chattts`
@@ -47,7 +49,7 @@ card (pronúncia nativa); o pinyin é só a leitura visual.
 Base já pronta: catálogo de motores no Go ([motores_manifesto.go](wails_app/motores_manifesto.go)),
 download/extração/troca/bootstrap ([motores.go](wails_app/motores.go)), UI "Gerenciar Motores" e a release
 `motores-v4` publicada (RapidOCR + Tesseract + EasyOCR com hashes reais), mais o CI de publicação
-([.github/workflows/publicar-motores.yml](.github/workflows/publicar-motores.yml)). Também prontos:
+([.github/workflows/publicar-motores-ocr.yml](.github/workflows/publicar-motores-ocr.yml)). Também prontos:
 o recarregamento do catálogo de PESOS ao trocar/ativar motor (frontend recarrega `modelos` junto com
 `motores`) e a **subpasta de pesos por motor** (`modelos\<Motor>`): o Go injeta `HANZITRACKER_MOTOR`
 no sidecar e baixa em `pastaModelosMotor()`; o Python lê a mesma env (`obterNomeMotor`, fallback

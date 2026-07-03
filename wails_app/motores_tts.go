@@ -97,7 +97,7 @@ func (a *App) ListarMotoresTts() []MotorTtsInfo {
 		if info, err := os.Stat(exe); err == nil && !info.IsDir() {
 			instalado = true
 		}
-		// Um bundle local (build_sidecars.ps1) também conta como instalado para a UI: dá para usar
+		// Um bundle local (builds/build_sidecars_tts.ps1) também conta como instalado para a UI: dá para usar
 		// o motor sem baixar nada.
 		if !instalado {
 			if _, ok := resolverMotorTtsBundle(m); ok {

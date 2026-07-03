@@ -6,8 +6,17 @@ e como o app baixa e confia neles.
 ## Resposta curta
 
 **Ficam neste mesmo repositório, via GitHub *Releases*** (não commitados no Git). A publicação é
-**automatizada**: o workflow [publicar-motores.yml](../.github/workflows/publicar-motores.yml) congela
-os 4 sidecars num runner Windows e já cria a Release com os assets anexados — basta empurrar uma tag.
+**automatizada** e dividida por tipo de motor, cada um com seu workflow, script de build e tag próprios:
+
+| Tipo | Workflow | Script | Tag | Manifesto | Artefatos |
+|------|----------|--------|-----|-----------|-----------|
+| **OCR** | [publicar-motores-ocr.yml](../.github/workflows/publicar-motores-ocr.yml) | [builds/build_sidecars_ocr.ps1](../builds/build_sidecars_ocr.ps1) | `motores-v*` | [motores_manifesto.go](../wails_app/motores_manifesto.go) | `ocr_server.zip`, `tesseract_server.zip`, `easyocr_server.zip` |
+| **Voz/TTS** | [publicar-motores-tts.yml](../.github/workflows/publicar-motores-tts.yml) | [builds/build_sidecars_tts.ps1](../builds/build_sidecars_tts.ps1) | `motores-tts-v*` | [motores_tts_manifesto.go](../wails_app/motores_tts_manifesto.go) | `kokoro_server.zip`, `chattts_server.zip` |
+
+Cada workflow congela os seus sidecars num runner Windows e já cria a Release com os assets anexados —
+basta empurrar a tag correspondente. As tags são **separadas** de propósito: publicar uma release de voz
+não recongela nem invalida as URLs dos motores de OCR (e vice-versa). O restante deste guia usa o fluxo de
+OCR como exemplo; o de voz é idêntico, trocando workflow/script/tag/manifesto pela linha da tabela.
 
 > Por isso o `.gitignore` já ignora `*.exe`, `dist/` e `build_env/`: os binários **não** entram no
 > histórico do Git. O que entra no Git é o **código** (specs, script, workflow) e o **manifesto** (que
@@ -23,14 +32,17 @@ os 4 sidecars num runner Windows e já cria a Release com os assets anexados —
 
 ## Passo a passo (via CI — caminho normal)
 
-1. **Empurre uma tag `motores-vN`** (ex.: `git tag motores-v4 && git push origin motores-v4`) — ou, sem
-   criar tag localmente, abra **Actions → Publicar Motores → Run workflow** e informe a tag manualmente
-   (`workflow_dispatch`).
-2. O workflow [publicar-motores.yml](../.github/workflows/publicar-motores.yml) roda num runner
+1. **Empurre uma tag `motores-vN`** (ex.: `git tag motores-v5 && git push origin motores-v5`) — ou, sem
+   criar tag localmente, abra **Actions → Publicar Motores (OCR) → Run workflow** e informe a tag
+   manualmente (`workflow_dispatch`). Para os motores de voz, use a tag `motores-tts-vN` e o workflow
+   **Publicar Motores (Voz/TTS)**.
+2. O workflow [publicar-motores-ocr.yml](../.github/workflows/publicar-motores-ocr.yml) roda num runner
    `windows-latest`: instala o Tesseract via choco, executa
-   [build_sidecars.ps1](../build_sidecars.ps1), calcula o sha256/tamanho de cada zip e **já publica a
-   Release** com os 4 artefatos anexados (`ocr_server.zip`, `popup.zip`, `tesseract_server.zip`,
-   `easyocr_server.zip`) via `softprops/action-gh-release`.
+   [builds/build_sidecars_ocr.ps1](../builds/build_sidecars_ocr.ps1), calcula o sha256/tamanho de cada zip
+   e **já publica a Release** com os 3 artefatos anexados (`ocr_server.zip`, `tesseract_server.zip`,
+   `easyocr_server.zip`) via `softprops/action-gh-release`. O de voz
+   ([publicar-motores-tts.yml](../.github/workflows/publicar-motores-tts.yml)) faz o mesmo com
+   `kokoro_server.zip` e `chattts_server.zip` (sem Tesseract).
 3. **Pegue os hashes**: aparecem no *Step Summary* do job ("## sha256 dos motores (`<tag>`)") — não
    precisa recalcular nada manualmente.
 4. **Pegue a URL de download** de cada asset (padrão estável):
@@ -52,11 +64,14 @@ estiver indisponível.
 
 1. **Gere os artefatos** (na raiz do projeto, requer Windows):
    ```powershell
-   powershell -ExecutionPolicy Bypass -File build_sidecars.ps1
+   powershell -ExecutionPolicy Bypass -File builds/build_sidecars_ocr.ps1
+   # motores de voz:
+   powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts.ps1
    ```
-   No fim ele imprime, para cada zip, o `tamanho_bytes` e o `sha256`. **Guarde esses valores.**
-   Saída: `python_backend/dist/{ocr_server,popup,tesseract_server,easyocr_server}.zip` (o
+   No fim cada script imprime, para cada zip, o `tamanho_bytes` e o `sha256`. **Guarde esses valores.**
+   Saída de OCR: `python_backend/dist/{ocr_server,tesseract_server,easyocr_server}.zip` (o
    `tesseract_server` exige a instalação do Tesseract — `choco install tesseract` — ou `TESSERACT_DIR`).
+   Saída de voz: `python_backend/dist/{kokoro_server,chattts_server}.zip`.
 
 2. **Crie a Release** apontando para uma tag (pela UI do GitHub ou pelo `gh`):
    ```powershell

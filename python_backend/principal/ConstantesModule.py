@@ -48,8 +48,10 @@ def obterNomeMotor():
     (dev) e para valores inválidos como segmento de pasta.
     """
     nome = os.environ.get("HANZITRACKER_MOTOR", "").strip()
-    # Guard clause: ausente ou com separador de caminho (não pode escapar de modelos/)
-    if not nome or os.path.basename(nome) != nome:
+    # Guard clause: ausente, com separador de caminho (/ ou \, checados os DOIS explicitamente porque
+    # os.path.basename só reconhece o do SO atual — no Linux do CI, "\" não seria separador e um valor
+    # como "..\fora" passaria batido) ou referência relativa (. / ..). Não pode escapar de modelos/.
+    if not nome or "/" in nome or "\\" in nome or nome in (".", ".."):
         return "RapidOCR"
     return nome
 
