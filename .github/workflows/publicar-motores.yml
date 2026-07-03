@@ -47,7 +47,7 @@ jobs:
           $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
           "## sha256 dos motores ($tag)" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
           "" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
-          foreach ($z in @('python_backend/dist/ocr_server.zip', 'python_backend/dist/popup.zip', 'python_backend/dist/tesseract_server.zip', 'python_backend/dist/easyocr_server.zip')) {
+          foreach ($z in @('python_backend/dist/ocr_server.zip', 'python_backend/dist/tesseract_server.zip', 'python_backend/dist/easyocr_server.zip')) {
             if (-not (Test-Path $z)) { continue }
             $h = (Get-FileHash $z -Algorithm SHA256).Hash.ToLower()
             $s = (Get-Item $z).Length
@@ -62,7 +62,6 @@ jobs:
           name: Motores ${{ github.event.inputs.tag || github.ref_name }}
           files: |
             python_backend/dist/ocr_server.zip
-            python_backend/dist/popup.zip
             python_backend/dist/tesseract_server.zip
             python_backend/dist/easyocr_server.zip
           fail_on_unmatched_files: true
