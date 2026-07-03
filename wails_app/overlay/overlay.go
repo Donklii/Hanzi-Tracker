@@ -6,6 +6,7 @@ import (
 	"runtime"
 	"sync"
 	"syscall"
+	"time"
 	"unsafe"
 
 	"github.com/lxn/win"
@@ -288,6 +289,49 @@ func ShowEstudoParcialHighlights(boxes [][]float64) {
 			windowDatas[hwnd] = &WindowData{Type: 5}
 			win.ShowWindow(hwnd, win.SW_SHOWNOACTIVATE)
 			janelasEstudosParciais = append(janelasEstudosParciais, hwnd)
+		}
+	})
+}
+
+// OcultarHighlightsTemporariamente esconde os highlights (borders), aguarda a renderização
+// para garantir que saiam da tela, roda a acao (print da tela) e os restaura. 
+func OcultarHighlightsTemporariamente(acao func()) {
+	if threadID == 0 {
+		acao()
+		return
+	}
+
+	var escondidas []win.HWND
+	done := make(chan struct{})
+	
+	execNaThread(func() {
+		esconder := func(h win.HWND) {
+			if h != 0 && win.IsWindowVisible(h) {
+				win.ShowWindow(h, win.SW_HIDE)
+				escondidas = append(escondidas, h)
+			}
+		}
+		esconder(janelaHighlight)
+		for _, h := range janelasEstudos {
+			esconder(h)
+		}
+		for _, h := range janelasEstudosParciais {
+			esconder(h)
+		}
+		done <- struct{}{}
+	})
+	<-done // Aguarda chamadas completarem
+
+	// Pequeno delay para o Desktop Window Manager (DWM) atualizar o frame visualmente
+	time.Sleep(30 * time.Millisecond)
+
+	acao()
+
+	execNaThread(func() {
+		for _, h := range escondidas {
+			if h != 0 {
+				win.ShowWindow(h, win.SW_SHOWNOACTIVATE)
+			}
 		}
 	})
 }

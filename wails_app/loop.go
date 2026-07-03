@@ -76,14 +76,12 @@ func (a *App) StartBackgroundLoop() {
 					return
 				default:
 					cfg := a.Config
-					if cfg.HabilitarPopupHover {
-						x, y, err := mouse.GetCursorPos()
-						if err == nil {
-							runtime.EventsEmit(a.ctx, "mouse_pos", map[string]interface{}{
-								"x": x,
-								"y": y,
-							})
-						}
+					x, y, err := mouse.GetCursorPos()
+					if err == nil {
+						runtime.EventsEmit(a.ctx, "mouse_pos", map[string]interface{}{
+							"x": x,
+							"y": y,
+						})
 					}
 					
 					ms := cfg.IntervaloAtualizacaoHoverMs

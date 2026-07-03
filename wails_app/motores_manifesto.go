@@ -38,8 +38,6 @@ type MotorOcrBaixavel struct {
 	Artefato   ArtefatoBaixavel `json:"artefato"`   //
 }
 
-
-
 // MotoresBaixaveis é o catálogo de MOTORES de OCR publicados (release motores-v4):
 //   - RapidOCR (padrão): sidecar congelado com DirectML embutido + fallback automático para CPU
 //     (cobre Nvidia/AMD/Intel sem CUDA Toolkit). Já traz os pesos mobile embutidos — OCR sem download.
@@ -63,9 +61,9 @@ var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 		Executavel: "ocr_server.exe",
 		Artefato: ArtefatoBaixavel{
 			Nome:         "ocr_server.zip",
-			Url:          _baseReleaseMotores + "/motores-v4/ocr_server.zip",
-			Sha256:       "01722d0273fba9f970183840cedc4c449395120634575eb8fa8c78875417d055",
-			TamanhoBytes: 126065394,
+			Url:          _baseReleaseMotores + "/motores-v1/ocr_server.zip",
+			Sha256:       "290de20931bf8cc4c9a4887685df1884f468a8ba79e5fea626037ae555054875",
+			TamanhoBytes: 126066360,
 		},
 	},
 	"Tesseract": {
@@ -81,9 +79,9 @@ var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 		Executavel: "tesseract_server.exe",
 		Artefato: ArtefatoBaixavel{
 			Nome:         "tesseract_server.zip",
-			Url:          _baseReleaseMotores + "/motores-v4/tesseract_server.zip",
-			Sha256:       "5d9eb4c190739f925b3e06470ef4c6c0b562d675febcdbf67445613100805412",
-			TamanhoBytes: 104053873,
+			Url:          _baseReleaseMotores + "/motores-v1/tesseract_server.zip",
+			Sha256:       "3904412594afa69f7e4fab01af4142202c5761224ecf41778971e59ab0022b9f",
+			TamanhoBytes: 104055930,
 		},
 	},
 	"EasyOCR": {
@@ -99,9 +97,9 @@ var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 		Executavel: "easyocr_server.exe",
 		Artefato: ArtefatoBaixavel{
 			Nome:         "easyocr_server.zip",
-			Url:          _baseReleaseMotores + "/motores-v4/easyocr_server.zip",
-			Sha256:       "60bd74bc43e42d052da2d1b2048663a21c6a7ebb0720fac60e748b8372431a3d",
-			TamanhoBytes: 253360865,
+			Url:          _baseReleaseMotores + "/motores-v1/easyocr_server.zip",
+			Sha256:       "90baf98b9f1314ca2bdaf3f5ef383a97aa0647579cc44b27938b57d5e43d20a4",
+			TamanhoBytes: 253364151,
 		},
 	},
 }

@@ -32,6 +32,7 @@ for _pacote in ("kokoro", "misaki", "jieba", "pypinyin", "pypinyin_dict", "cn2an
 # Módulos locais (alguns importados dentro de funções, ex.: `from principal import ConstantesModule`).
 hiddenimports += [
     "torch",
+    "requests",
     "motores.kokoro.KokoroTtsService",
     "tts.ServicoTtsBase",
     "principal.ConstantesModule",

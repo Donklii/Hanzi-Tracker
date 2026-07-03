@@ -48,8 +48,8 @@ var MotoresTtsBaixaveis = map[string]MotorTtsBaixavel{
 		Artefato: ArtefatoBaixavel{
 			Nome:         "kokoro_server.zip",
 			Url:          _baseReleaseMotores + "/motores-tts-v1/kokoro_server.zip",
-			Sha256:       "", // PENDENTE: publicar a release motores-tts-v1 e colar o hash do resumo do CI
-			TamanhoBytes: 0,  // PENDENTE: idem
+			Sha256:       "a17c544ad7d86f2252a415b46759faa44b81401d9d9aba694f69bdc0955b6cb1",
+			TamanhoBytes: 300637452,
 		},
 	},
 	"ChatTTS": {
@@ -63,8 +63,8 @@ var MotoresTtsBaixaveis = map[string]MotorTtsBaixavel{
 		Artefato: ArtefatoBaixavel{
 			Nome:         "chattts_server.zip",
 			Url:          _baseReleaseMotores + "/motores-tts-v1/chattts_server.zip",
-			Sha256:       "", // PENDENTE: publicar a release motores-tts-v1 e colar o hash do resumo do CI
-			TamanhoBytes: 0,  // PENDENTE: idem
+			Sha256:       "9d53d3ab939a6c3a6210b76c6c6d4ef4b00d2185c02e2f66c860f07e80815408",
+			TamanhoBytes: 280536245,
 		},
 	},
 }

@@ -31,6 +31,7 @@ for _pacote in ("ChatTTS", "vocos", "vector_quantize_pytorch", "pybase16384", "t
 hiddenimports += [
     "torch",
     "torchaudio",
+    "requests",
     "motores.chattts.ChatTtsService",
     "tts.ServicoTtsBase",
     "principal.ConstantesModule",

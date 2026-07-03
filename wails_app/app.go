@@ -1039,14 +1039,22 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 		alvo = 0
 	}
 	bounds := screenshot.GetDisplayBounds(alvo)
-	img, err := screenshot.CaptureRect(bounds)
+	
+	var img *image.RGBA
+	var err error
+
+	overlay.OcultarHighlightsTemporariamente(func() {
+		img, err = screenshot.CaptureRect(bounds)
+		if err == nil {
+			// Censura a área da janela do app e dos pop-ups do overlay ANTES de codificar/enviar ao OCR —
+			// precisa vir antes do fingerprint (hash) logo abaixo, senão o hash não refletiria a censura.
+			a.censurarAreasSensiveis(img, bounds.Min.X, bounds.Min.Y)
+		}
+	})
+
 	if err != nil {
 		return nil, fmt.Errorf("failed to capture screen: %w", err)
 	}
-
-	// Censura a área da janela do app e dos pop-ups do overlay ANTES de codificar/enviar ao OCR —
-	// precisa vir antes do fingerprint (hash) logo abaixo, senão o hash não refletiria a censura.
-	a.censurarAreasSensiveis(img, bounds.Min.X, bounds.Min.Y)
 
 	// Encode to PNG bytes
 	var buf bytes.Buffer
