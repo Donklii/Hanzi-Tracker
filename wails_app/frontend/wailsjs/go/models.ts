@@ -30,6 +30,10 @@ export namespace config {
 	    traducaoLimiteCotaPercent: number;
 	    traducaoUsarCache: boolean;
 	    censurarJanelasDoApp: boolean;
+	    habilitarLeituraPinyin: boolean;
+	    lerPinyinAoAbrirPopup: boolean;
+	    lerPinyinAoExpandirCard: boolean;
+	    motorTtsAtivo: string;
 	
 	    static createFrom(source: any = {}) {
 	        return new Config(source);
@@ -66,6 +70,10 @@ export namespace config {
 	        this.traducaoLimiteCotaPercent = source["traducaoLimiteCotaPercent"];
 	        this.traducaoUsarCache = source["traducaoUsarCache"];
 	        this.censurarJanelasDoApp = source["censurarJanelasDoApp"];
+	        this.habilitarLeituraPinyin = source["habilitarLeituraPinyin"];
+	        this.lerPinyinAoAbrirPopup = source["lerPinyinAoAbrirPopup"];
+	        this.lerPinyinAoExpandirCard = source["lerPinyinAoExpandirCard"];
+	        this.motorTtsAtivo = source["motorTtsAtivo"];
 	    }
 	}
 
@@ -332,6 +340,34 @@ export namespace main {
 	        this.requisitos = source["requisitos"];
 	        this.padrao = source["padrao"];
 	        this.tamanhoBytes = source["tamanhoBytes"];
+	        this.instalado = source["instalado"];
+	        this.ativo = source["ativo"];
+	    }
+	}
+	export class MotorTtsInfo {
+	    nome: string;
+	    rotulo: string;
+	    descricao: string;
+	    versao: string;
+	    requisitos: string;
+	    tamanhoBytes: number;
+	    publicado: boolean;
+	    instalado: boolean;
+	    ativo: boolean;
+	
+	    static createFrom(source: any = {}) {
+	        return new MotorTtsInfo(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.nome = source["nome"];
+	        this.rotulo = source["rotulo"];
+	        this.descricao = source["descricao"];
+	        this.versao = source["versao"];
+	        this.requisitos = source["requisitos"];
+	        this.tamanhoBytes = source["tamanhoBytes"];
+	        this.publicado = source["publicado"];
 	        this.instalado = source["instalado"];
 	        this.ativo = source["ativo"];
 	    }

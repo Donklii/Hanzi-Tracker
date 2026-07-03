@@ -40,10 +40,15 @@ type MotorOcrBaixavel struct {
 
 
 
-// MotoresBaixaveis é o catálogo de MOTORES de OCR publicados. Hoje só o RapidOCR padrão (o sidecar
-// congelado com DirectML embutido + fallback automático para CPU — cobre Nvidia/AMD/Intel sem CUDA
-// Toolkit). EasyOCR/Tesseract/PaddleOCR e uma variante RapidOCR-DirectML dedicada entram aqui conforme
-// forem publicados (Passos 4 e 7 do TODO.md).
+// MotoresBaixaveis é o catálogo de MOTORES de OCR publicados (release motores-v4):
+//   - RapidOCR (padrão): sidecar congelado com DirectML embutido + fallback automático para CPU
+//     (cobre Nvidia/AMD/Intel sem CUDA Toolkit). Já traz os pesos mobile embutidos — OCR sem download.
+//   - Tesseract: dirige o tesseract.exe empacotado; já vem com tessdata_fast (chi_sim+eng) embutido,
+//     e o tessdata_best é baixável em "Gerenciar Modelos". Só CPU.
+//   - EasyOCR: PyTorch (CPU). NÃO embute pesos — exige baixar o modelo antes do primeiro uso.
+//
+// O `Nome` de cada entrada é o NOME DE CATÁLOGO (chave; injetado no sidecar via HANZITRACKER_MOTOR) e
+// define a subpasta de pesos modelos\<Nome> — precisa casar com os ModelosManifesto.py de cada motor.
 var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 	"RapidOCR": {
 		Nome:   "RapidOCR",
@@ -58,9 +63,45 @@ var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 		Executavel: "ocr_server.exe",
 		Artefato: ArtefatoBaixavel{
 			Nome:         "ocr_server.zip",
-			Url:          _baseReleaseMotores + "/motores-v3/ocr_server.zip",
-			Sha256:       "34f8d4dc0d31e078c06d569e5179a921186921b8f31d6825d5dc4597edd26629",
-			TamanhoBytes: 121561760,
+			Url:          _baseReleaseMotores + "/motores-v4/ocr_server.zip",
+			Sha256:       "01722d0273fba9f970183840cedc4c449395120634575eb8fa8c78875417d055",
+			TamanhoBytes: 126065394,
+		},
+	},
+	"Tesseract": {
+		Nome:   "Tesseract",
+		Rotulo: "Tesseract",
+		Descricao: "Motor Tesseract (CPU): dirige o tesseract.exe empacotado. Já vem com os pesos rápidos " +
+			"(tessdata_fast, chi_sim+eng) — o tessdata_best, mais preciso, é baixável em Gerenciar Modelos.",
+		Idiomas:    []string{"zh", "en"},
+		Versao:     "1.0.0",
+		Variante:   "CPU",
+		Requisitos: "",
+		Padrao:     false,
+		Executavel: "tesseract_server.exe",
+		Artefato: ArtefatoBaixavel{
+			Nome:         "tesseract_server.zip",
+			Url:          _baseReleaseMotores + "/motores-v4/tesseract_server.zip",
+			Sha256:       "5d9eb4c190739f925b3e06470ef4c6c0b562d675febcdbf67445613100805412",
+			TamanhoBytes: 104053873,
+		},
+	},
+	"EasyOCR": {
+		Nome:   "EasyOCR",
+		Rotulo: "EasyOCR",
+		Descricao: "Motor EasyOCR (PyTorch, CPU): detector CRAFT + reconhecedor zh_sim_g2. NÃO embute pesos — " +
+			"baixe o modelo em Gerenciar Modelos antes do primeiro uso.",
+		Idiomas:    []string{"zh", "en"},
+		Versao:     "1.0.0",
+		Variante:   "CPU",
+		Requisitos: "Requer baixar o modelo (~93 MB) em Gerenciar Modelos antes do primeiro uso.",
+		Padrao:     false,
+		Executavel: "easyocr_server.exe",
+		Artefato: ArtefatoBaixavel{
+			Nome:         "easyocr_server.zip",
+			Url:          _baseReleaseMotores + "/motores-v4/easyocr_server.zip",
+			Sha256:       "60bd74bc43e42d052da2d1b2048663a21c6a7ebb0720fac60e748b8372431a3d",
+			TamanhoBytes: 253360865,
 		},
 	},
 }

@@ -4,12 +4,49 @@
 - [ ] `docs/interface.png` desatualizado — regerar a captura de tela do frontend React.
 
 
+## Leitura do pinyin em voz alta (TTS) — pendências restantes
+
+Base já pronta (feature completa em código): UI (toggle mestre + 2 sub-toggles + select + "Gerenciar
+Motores de Voz" na aba Geral), campos em [config.go](wails_app/config/config.go), sidecars Python
+**Kokoro-82M** ([motores/kokoro/](python_backend/motores/kokoro/)) e **ChatTTS**
+([motores/chattts/](python_backend/motores/chattts/)) sobre a base compartilhada
+[ServicoTtsBase.py](python_backend/tts/ServicoTtsBase.py) + servidor do contrato
+[ServidorTtsModule.py](python_backend/principal/ServidorTtsModule.py) (ver
+[docs/CONTRATO-TTS.md](docs/CONTRATO-TTS.md)), gerenciador de processo próprio
+([motor_tts.go](wails_app/motor_tts.go), porta `HANZITRACKER_TTS_PORT`, coexiste com o OCR, subida
+preguiçosa na primeira leitura), catálogo/download ([motores_tts.go](wails_app/motores_tts.go) +
+[motores_tts_manifesto.go](wails_app/motores_tts_manifesto.go), pasta `motores_tts\`), `FalarPinyin`
+real devolvendo WAV base64 ([tts.go](wails_app/tts.go)), cache de áudio em SQLite
+([progresso/tts_cache.go](wails_app/progresso/tts_cache.go), tabela `tts_audio_cache`), categorias
+na aba Armazenamento, specs PyInstaller, `build_sidecars.ps1` e CI atualizados. Os PESOS são
+baixados pelo próprio sidecar do Hugging Face na primeira síntese (cache HF redirecionado para
+`modelos\<Motor>\hf`) — não há manifesto de pesos para TTS. O texto sintetizado é o **HANZI** do
+card (pronúncia nativa); o pinyin é só a leitura visual.
+
+- [ ] **Publicar os motores de voz — falta só a release.** Empurrar a tag `motores-tts-v1` (o CI
+      agora congela e anexa também `kokoro_server.zip` e `chattts_server.zip`, e imprime os sha256
+      no resumo do job). Depois, colar em
+      [motores_tts_manifesto.go](wails_app/motores_tts_manifesto.go) o `Sha256` e o `TamanhoBytes`
+      dos dois artefatos (hoje estão vazios — estado "pendente de publicação": a UI mostra o botão
+      como "Indisponível" e o download é recusado; `TestCatalogoDeMotoresTtsIntegro` passa a exigir
+      os campos quando o sha256 é preenchido).
+- [ ] **Smoke test manual com modelo real** (nunca rodou — só o contrato foi testado de ponta a
+      ponta com serviço falso): baixar o Kokoro-82M pela UI (ou build local via
+      `build_sidecars.ps1`, que o app acha como bundle), ligar o toggle mestre + "ao abrir o pop-up"
+      e conferir: primeira leitura baixa os pesos (~330 MB, status na barra), áudio toca, repetição
+      sai instantânea (cache), categorias "Motores de Voz"/"Cache de Áudio (Voz)" aparecem na aba
+      Armazenamento. Repetir com o ChatTTS (~1 GB). Atenção às APIs dos pacotes `kokoro`/`chattts`
+      no primeiro build congelado — as versões dos requirements são `>=`; se o upstream quebrar a
+      API, pinar a versão que funcionou.
+- [ ] **(Futuro) Escolha de voz** do Kokoro (hoje fixa em `zf_xiaobei`; ver `VOZ_PADRAO` em
+      [KokoroTtsService.py](python_backend/motores/kokoro/KokoroTtsService.py)) e velocidade de fala.
+
 
 ## Fase 5: Motores de OCR como Sidecars — pendências restantes
 
 Base já pronta: catálogo de motores no Go ([motores_manifesto.go](wails_app/motores_manifesto.go)),
 download/extração/troca/bootstrap ([motores.go](wails_app/motores.go)), UI "Gerenciar Motores" e a release
-`motores-v3` publicada (sidecar com a env `HANZITRACKER_OCR_PORT` correta), mais o CI de publicação
+`motores-v4` publicada (RapidOCR + Tesseract + EasyOCR com hashes reais), mais o CI de publicação
 ([.github/workflows/publicar-motores.yml](.github/workflows/publicar-motores.yml)). Também prontos:
 o recarregamento do catálogo de PESOS ao trocar/ativar motor (frontend recarrega `modelos` junto com
 `motores`) e a **subpasta de pesos por motor** (`modelos\<Motor>`): o Go injeta `HANZITRACKER_MOTOR`
@@ -31,48 +68,10 @@ dentro do próprio motor (que já é sidecar baixável). Removê-lo esvaziaria o
 só tem o motor sem baixar pesos extras. A preocupação original ("motor não embutido") já foi resolvida
 pelo sistema de motores.
 
-- [ ] **Publicar os motores adicionais (Tesseract + EasyOCR) — falta só a release.** O código está
-      pronto: sidecars `tesseract_server` (tesseract.exe empacotado + tessdata_fast embutido; pesos
-      `tessdata_best` baixáveis) e `easyocr_server` (PyTorch CPU; pesos CRAFT + zh_sim_g2 baixáveis,
-      zipados no upstream — o Go extrai), servidor HTTP do contrato compartilhado
-      (`ServidorOcrModule.py`), manifestos de pesos com sha256 pinados, specs, `build_sidecars.ps1` e o
-      CI de publicação já congelam/anexam os 4 zips. PaddleOCR ficou de fora (preterido por desempenho
-      de CPU); EasyOCR CUDA descartado como no RapidOCR (custo/benefício). Passos restantes:
-      1. Empurrar a tag `motores-v4` (CI publica os 4 zips e imprime os sha256 no resumo do job).
-      2. Atualizar em [motores_manifesto.go](wails_app/motores_manifesto.go) as URLs de `RapidOCR` e
-         `PopupOverlayBaixavel` para `motores-v4` + novos hashes/tamanhos (o CI recongela tudo), e
-         ADICIONAR ao `MotoresBaixaveis` (os `Nome` DEVEM casar com a subpasta de pesos/env
-         `HANZITRACKER_MOTOR`):
-         ```go
-         "Tesseract": {
-             Nome:   "Tesseract",
-             Rotulo: "Tesseract (Leve)",
-             Descricao: "Motor clássico do Google: leve e rápido na CPU, precisão menor em telas " +
-                 "de jogo. Já vem com modelos rápidos de chinês e inglês (tessdata_fast).",
-             Idiomas: []string{"zh", "en"}, Versao: "1.0.0", Variante: "CPU", Requisitos: "",
-             Padrao: false, Executavel: "tesseract_server.exe",
-             Artefato: ArtefatoBaixavel{Nome: "tesseract_server.zip",
-                 Url: _baseReleaseMotores + "/motores-v4/tesseract_server.zip",
-                 Sha256: "<sha256 do resumo do CI>", TamanhoBytes: 0 /* idem */},
-         },
-         "EasyOCR": {
-             Nome:   "EasyOCR",
-             Rotulo: "EasyOCR (Preciso, Pesado)",
-             Descricao: "Motor de deep learning (PyTorch, CPU): boa precisão, pacote grande. Não " +
-                 "embute pesos — baixe o modelo em Gerenciar Modelos antes do primeiro OCR.",
-             Idiomas: []string{"zh", "en"}, Versao: "1.0.0", Variante: "CPU", Requisitos: "",
-             Padrao: false, Executavel: "easyocr_server.exe",
-             Artefato: ArtefatoBaixavel{Nome: "easyocr_server.zip",
-                 Url: _baseReleaseMotores + "/motores-v4/easyocr_server.zip",
-                 Sha256: "<sha256 do resumo do CI>", TamanhoBytes: 0 /* idem */},
-         },
-         ```
-      3. Smoke test manual: baixar cada motor pela UI, trocar, OCR com peso embutido (Tesseract) e
-         baixável (EasyOCR), e conferir as subpastas `modelos\Tesseract\` / `modelos\EasyOCR\`.
 - [ ] **Limpar o caso legado `'EasyOCR (Download)'` no frontend** (matriz de compatibilidade
       modelo×hardware×API em `App.tsx` e `PainelConfiguracoes.tsx`): esse nome não existe em nenhum
       catálogo desde que o EasyOCR virou motor próprio (CPU-only, sem CUDA) — os ramos são código
-      morto. Revisar a matriz à luz dos motores reais ao publicar o `motores-v4`.
+      morto. Revisar a matriz à luz dos motores reais.
 - [ ] **Assinatura de código** dos binários dos sidecars (exige certificado; reduz falso positivo de
       antivírus). Hoje a integridade é garantida só por sha256.
 - [ ] **Manifesto de motores/modelos remoto (futuro):** buscar o catálogo de uma URL (com cache) para
@@ -86,7 +85,3 @@ pelo sistema de motores.
 ## Armazenamento (ideias futuras)
 - [ ] Permitir mover a pasta de modelos para outro disco.
 - [ ] Limpeza automática agendada de logs antigos.
-
-## Features Futuras (independentes)
-- [ ] Ler o pinyin em voz alta: alternar entre Kokoro-82M e ChatTTS, com opção de desligar a feature.
-

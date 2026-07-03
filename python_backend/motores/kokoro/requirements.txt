@@ -1,0 +1,9 @@
+# Dependências do sidecar Kokoro-82M (kokoro_server.py) — usado só pelo build_sidecars.ps1, num venv
+# próprio (o torch NÃO pode conviver com o onnxruntime-directml do build do RapidOCR). No Windows o
+# torch do PyPI já é o build de CPU — suficiente: o Kokoro tem só ~82M parâmetros e roda bem em CPU.
+#
+# O extra [zh] do misaki traz o G2P de chinês (jieba + pypinyin + cn2an) — obrigatório porque o texto
+# sintetizado é o HANZI do card (lang_code="z" no KPipeline).
+
+kokoro>=0.9.4
+misaki[zh]>=0.9.4

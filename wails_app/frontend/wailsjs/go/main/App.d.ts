@@ -13,6 +13,8 @@ export function BaixarModelo(arg1:string):Promise<void>;
 
 export function BaixarMotor(arg1:string):Promise<void>;
 
+export function BaixarMotorTts(arg1:string):Promise<void>;
+
 export function BuscarPorPinyin(arg1:string):Promise<Array<string>>;
 
 export function CaptureAndOCR():Promise<Array<main.FlashcardCard>>;
@@ -22,6 +24,8 @@ export function CaractereCompleto(arg1:string):Promise<string>;
 export function DecomposeCharacter(arg1:string):Promise<dicionario.DecomposicaoHanzi>;
 
 export function ExcluirTudo():Promise<void>;
+
+export function FalarPinyin(arg1:string,arg2:string):Promise<string>;
 
 export function GetCaptureResolution():Promise<main.Resolucao>;
 
@@ -49,6 +53,8 @@ export function ListarModelos():Promise<Array<main.ModeloOcrInfo>>;
 
 export function ListarMotores():Promise<Array<main.MotorOcrInfo>>;
 
+export function ListarMotoresTts():Promise<Array<main.MotorTtsInfo>>;
+
 export function LookupWord(arg1:string):Promise<Array<dicionario.EntradaDicionario>>;
 
 export function MarcarVistoSilencioso(arg1:string):Promise<void>;
@@ -60,6 +66,8 @@ export function RemoveVocab(arg1:string):Promise<void>;
 export function RemoverModelo(arg1:string):Promise<void>;
 
 export function RemoverMotor(arg1:string):Promise<void>;
+
+export function RemoverMotorTts(arg1:string):Promise<void>;
 
 export function SaveConfig(arg1:config.Config):Promise<void>;
 

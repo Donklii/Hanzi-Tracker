@@ -54,6 +54,15 @@ func InitDB() error {
 		traducao TEXT NOT NULL,
 		data_add DATETIME DEFAULT CURRENT_TIMESTAMP
 	);
+
+	CREATE TABLE IF NOT EXISTS tts_audio_cache (
+		id INTEGER PRIMARY KEY AUTOINCREMENT,
+		hanzi TEXT NOT NULL,
+		motor TEXT NOT NULL,
+		audio BLOB NOT NULL,
+		data_add DATETIME DEFAULT CURRENT_TIMESTAMP,
+		UNIQUE(hanzi, motor)
+	);
 	`
 	_, err = db.Exec(query)
 	if err != nil {

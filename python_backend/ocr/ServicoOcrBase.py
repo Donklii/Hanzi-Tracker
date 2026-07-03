@@ -1,4 +1,8 @@
 # ----- Importações -----
+import gc
+import logging
+import threading
+import time
 from typing import Any, Callable, List, Optional, Tuple
 
 import numpy as np
@@ -10,6 +14,8 @@ from principal import ConstantesModule
 # ----- Constantes do Módulo -----
 MENSAGEM_CARREGANDO_MODELO = "Carregando modelo de OCR (primeira vez)…"
 MENSAGEM_RECONHECENDO = "Reconhecendo texto (OCR)…"
+
+_registrador = logging.getLogger(__name__)
 
 
 # ----- Base dos serviços de OCR -----
@@ -35,6 +41,13 @@ class ServicoOcrBase:
         # operações pesadas (e 500s) a cada varredura automática enquanto a config não muda.
         self._falha_config = None
         self._falha_erro = None
+        # Serializa a inferência e o watchdog de inatividade: o servidor HTTP é single-thread, então
+        # o único concorrente é a thread do watchdog. O lock garante que ela nunca descarregue o motor
+        # (self._ocr = None) no meio de uma inferência. _ultimo_uso é o monotonic() do fim do último
+        # scan — base da contagem de ociosidade.
+        self._lock = threading.Lock()
+        self._ultimo_uso = 0.0
+        self._watchdog_iniciado = False
 
     # ----- Template principal -----
 
@@ -49,51 +62,60 @@ class ServicoOcrBase:
                 DeteccaoOcr("你好", 0.98, (40.0, 0.0, 80.0, 20.0)),
             ]
 
-        config_atual = self._configAtual()
+        # Sobe (uma vez) o watchdog que descarrega o motor após inatividade.
+        self._garantirWatchdogOcioso()
 
-        # Guard clause: se a última inicialização com ESTA mesma config falhou, não tenta de novo
-        # (evita repetir operações pesadas e 500s a cada varredura). Mude a config para reativar.
-        if self._falha_erro is not None and self._falha_config == config_atual:
-            raise self._falha_erro
+        # Todo o acesso a self._ocr (init, inferência, descarte) fica sob o lock: impede que o watchdog
+        # descarregue o motor no meio de uma inferência (self._ocr viraria None e quebraria _executarOcr).
+        with self._lock:
+            self._ultimo_uso = time.monotonic()
+            config_atual = self._configAtual()
 
-        # Inicializa ou reinicializa o motor caso a configuração mude
-        if self._ocr is None or self._config_carregada != config_atual:
+            # Guard clause: se a última inicialização com ESTA mesma config falhou, não tenta de novo
+            # (evita repetir operações pesadas e 500s a cada varredura). Mude a config para reativar.
+            if self._falha_erro is not None and self._falha_config == config_atual:
+                raise self._falha_erro
+
+            # Inicializa ou reinicializa o motor caso a configuração mude (ou tenha sido descarregado).
+            if self._ocr is None or self._config_carregada != config_atual:
+                try:
+                    self._inicializarOcr(aoProgredir)
+                except Exception as erro:
+                    self._falha_config = config_atual
+                    self._falha_erro = erro
+                    raise
+
+                # Sucesso: registra a config carregada e limpa qualquer falha memorizada
+                self._config_carregada = config_atual
+                self._falha_config = None
+                self._falha_erro = None
+
+            # Trata o downscale da imagem para processamento mais rápido
+            altura, largura = imagem.shape[:2]
+            lado_maior = max(altura, largura)
+            limite = ConstantesModule.LIMITE_LADO_MAIOR_OCR
+
+            escala = 1.0
+            imagem_processar = imagem
+            if limite > 0 and lado_maior > limite:
+                escala = limite / lado_maior
+                nova_largura = int(largura * escala)
+                nova_altura = int(altura * escala)
+                import cv2
+                imagem_processar = cv2.resize(imagem, (nova_largura, nova_altura), interpolation=cv2.INTER_AREA)
+
+            self._emitirProgresso(aoProgredir, MENSAGEM_RECONHECENDO)
+
             try:
-                self._inicializarOcr(aoProgredir)
-            except Exception as erro:
-                self._falha_config = config_atual
-                self._falha_erro = erro
-                raise
+                resultado = self._executarOcr(imagem_processar)
+            except (MemoryError, UnicodeDecodeError) as erro:
+                # Estado pode ter ficado inconsistente: descarta o motor e libera memória para o próximo retry.
+                self._ocr = None
+                gc.collect()
+                raise RuntimeError(self._mensagemErroInferencia(erro)) from erro
 
-            # Sucesso: registra a config carregada e limpa qualquer falha memorizada
-            self._config_carregada = config_atual
-            self._falha_config = None
-            self._falha_erro = None
-
-        # Trata o downscale da imagem para processamento mais rápido
-        altura, largura = imagem.shape[:2]
-        lado_maior = max(altura, largura)
-        limite = ConstantesModule.LIMITE_LADO_MAIOR_OCR
-
-        escala = 1.0
-        imagem_processar = imagem
-        if limite > 0 and lado_maior > limite:
-            escala = limite / lado_maior
-            nova_largura = int(largura * escala)
-            nova_altura = int(altura * escala)
-            import cv2
-            imagem_processar = cv2.resize(imagem, (nova_largura, nova_altura), interpolation=cv2.INTER_AREA)
-
-        self._emitirProgresso(aoProgredir, MENSAGEM_RECONHECENDO)
-
-        try:
-            resultado = self._executarOcr(imagem_processar)
-        except (MemoryError, UnicodeDecodeError) as erro:
-            # Estado pode ter ficado inconsistente: descarta o motor e libera memória para o próximo retry.
-            self._ocr = None
-            import gc
-            gc.collect()
-            raise RuntimeError(self._mensagemErroInferencia(erro)) from erro
+            # Marca o fim do uso: a ociosidade é contada a partir daqui.
+            self._ultimo_uso = time.monotonic()
 
         # Guard clause: nada detectado na imagem
         if not resultado:
@@ -127,9 +149,53 @@ class ServicoOcrBase:
         config acumula memória e leva a MemoryError. O gc.collect força a coleta da instância
         antiga antes de alocar a nova.
         """
-        import gc
         self._ocr = None
         gc.collect()
+
+    # ----- Descarregamento por inatividade (libera RAM/VRAM quando o app fica ocioso) -----
+
+    def _garantirWatchdogOcioso(self) -> None:
+        """Sobe (uma única vez) a thread que descarrega o motor ocioso. Idempotente; no-op em testes
+        ou com a feature desligada (SEGUNDOS_OCIOSO_DESCARREGAR_OCR <= 0)."""
+        # Guard clauses: em testes não subimos threads; timeout 0 desliga a feature.
+        if ConstantesModule.TESTANDO:
+            return
+        if ConstantesModule.SEGUNDOS_OCIOSO_DESCARREGAR_OCR <= 0:
+            return
+
+        with self._lock:
+            if self._watchdog_iniciado:
+                return
+            self._watchdog_iniciado = True
+
+        thread = threading.Thread(target=self._lacoWatchdogOcioso, name="ocr-watchdog-ocioso", daemon=True)
+        thread.start()
+
+    def _lacoWatchdogOcioso(self) -> None:
+        """Laço da thread daemon: acorda periodicamente e descarrega o motor se ficou ocioso além do
+        limite. O daemon morre junto com o processo — não precisa de sinal de parada."""
+        timeout = ConstantesModule.SEGUNDOS_OCIOSO_DESCARREGAR_OCR
+        intervalo = min(timeout, 15)  # granularidade da checagem (no máx. 15s)
+
+        while True:
+            time.sleep(intervalo)
+            with self._lock:
+                # Guard clause: nada carregado (ou já descarregado) — nada a fazer.
+                if self._ocr is None:
+                    continue
+                if time.monotonic() - self._ultimo_uso >= timeout:
+                    self._descarregarPorInatividade()
+
+    def _descarregarPorInatividade(self) -> None:
+        """Solta o motor após inatividade, liberando RAM (e VRAM no DirectML). Recarrega sob demanda no
+        próximo scan. DEVE ser chamado já com self._lock adquirido (feito no _lacoWatchdogOcioso)."""
+        self._ocr = None
+        self._config_carregada = None
+        gc.collect()
+        _registrador.info(
+            "Motor de OCR descarregado após %ds ocioso; recarrega no próximo scan.",
+            ConstantesModule.SEGUNDOS_OCIOSO_DESCARREGAR_OCR,
+        )
 
     def _mensagemErroInferencia(self, erro: Exception) -> str:
         """Traduz erros de baixo nível da inferência em mensagens acionáveis para o usuário."""

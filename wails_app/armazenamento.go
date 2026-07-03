@@ -145,6 +145,19 @@ func (a *App) GetStorageInfo() StorageInfo {
 		})
 	}
 
+	// Motores de voz (TTS) baixados. Só aparece quando há algum baixado. Os PESOS deles (baixados
+	// do Hugging Face para modelos\<Motor>\hf) já entram na categoria de modelos acima.
+	if b := tamanhoCaminho(pastaMotoresTts()); b > 0 {
+		itens = append(itens, ItemArmazenamento{
+			Chave:     "motores_tts",
+			Rotulo:    "Motores de Voz",
+			Descricao: "Programas de leitura em voz alta baixados. Limpar remove todos (a leitura volta a pedir download).",
+			Caminho:   pastaMotoresTts(),
+			Bytes:     b,
+			Limpavel:  true,
+		})
+	}
+
 	// Categorias de ambiente de desenvolvimento (modelos EasyOCR e cache de instalação) só fazem
 	// sentido quando existem: no app distribuído já compilado normalmente nem aparecem, evitando
 	// expor tecnicalidades ao usuário final.
@@ -177,6 +190,18 @@ func (a *App) GetStorageInfo() StorageInfo {
 			Descricao: "Textos traduzidos para não gastar cota em repetições.",
 			Caminho:   caminhoBanco() + " (Tabela interna)",
 			Bytes:     tamanhoCacheTraducao,
+			Limpavel:  true,
+		})
+	}
+
+	tamanhoCacheTts, _, _ := progresso.TamanhoCacheTts()
+	if tamanhoCacheTts > 0 {
+		itens = append(itens, ItemArmazenamento{
+			Chave:     "cache_tts",
+			Rotulo:    "Cache de Áudio (Voz)",
+			Descricao: "Falas já sintetizadas, para repetições saírem instantâneas e sem custo de CPU.",
+			Caminho:   caminhoBanco() + " (Tabela interna)",
+			Bytes:     tamanhoCacheTts,
 			Limpavel:  true,
 		})
 	}
@@ -236,6 +261,8 @@ func (a *App) LimparArmazenamento(chave string) error {
 		return limparPasta(pastaModelos())
 	case "motores":
 		return a.limparMotores()
+	case "motores_tts":
+		return a.limparMotoresTts()
 	case "modelos_easyocr":
 		return os.RemoveAll(pastaEasyOcr())
 	case "cache_pip":
@@ -244,6 +271,8 @@ func (a *App) LimparArmazenamento(chave string) error {
 		return limparLogs()
 	case "cache_traducao":
 		return progresso.LimparCacheTraducao()
+	case "cache_tts":
+		return progresso.LimparCacheTts()
 	case "banco":
 		return progresso.LimparVocabulario()
 	default:
@@ -262,6 +291,9 @@ func (a *App) ExcluirTudo() error {
 	if err := a.limparMotores(); err != nil {
 		erros = append(erros, fmt.Sprintf("motores: %v", err))
 	}
+	if err := a.limparMotoresTts(); err != nil {
+		erros = append(erros, fmt.Sprintf("motores de voz: %v", err))
+	}
 	if err := os.RemoveAll(pastaEasyOcr()); err != nil {
 		erros = append(erros, fmt.Sprintf("modelos EasyOCR: %v", err))
 	}
@@ -273,6 +305,9 @@ func (a *App) ExcluirTudo() error {
 	}
 	if err := progresso.LimparCacheTraducao(); err != nil {
 		erros = append(erros, fmt.Sprintf("cache de tradução: %v", err))
+	}
+	if err := progresso.LimparCacheTts(); err != nil {
+		erros = append(erros, fmt.Sprintf("cache de áudio TTS: %v", err))
 	}
 	if err := progresso.LimparVocabulario(); err != nil {
 		erros = append(erros, fmt.Sprintf("banco: %v", err))

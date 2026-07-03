@@ -8,7 +8,7 @@ import { ModalConfirmacao } from './comum/ModalConfirmacao';
 import { AbaDescobrimento } from './descobrimento/AbaDescobrimento';
 import { AbaEstudos } from './estudos/AbaEstudos';
 import { config, main, progresso } from '../wailsjs/go/models';
-import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, RemoveVocab, GetVocab, ShowHighlight, HideHoverPopup, ShowHoverPopup, LookupWord, DecomposeCharacter, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, ListarModelos, BaixarModelo, RemoverModelo, ListarMotores, BaixarMotor, RemoverMotor, TrocarMotor, GetStorageInfo, LimparArmazenamento, ExcluirTudo, AbrirPastaDados, GetCaptureResolution, GetSessionImage, GetMonitores, GetCotaTraducao } from "../wailsjs/go/main/App";
+import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, RemoveVocab, GetVocab, ShowHighlight, HideHoverPopup, ShowHoverPopup, LookupWord, DecomposeCharacter, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, ListarModelos, BaixarModelo, RemoverModelo, ListarMotores, BaixarMotor, RemoverMotor, TrocarMotor, GetStorageInfo, LimparArmazenamento, ExcluirTudo, AbrirPastaDados, GetCaptureResolution, GetSessionImage, GetMonitores, GetCotaTraducao, FalarPinyin, ListarMotoresTts, BaixarMotorTts, RemoverMotorTts } from "../wailsjs/go/main/App";
 import { EventsOn } from "../wailsjs/runtime/runtime";
 
 function App() {
@@ -34,6 +34,9 @@ function App() {
   const [progressoMotor, setProgressoMotor] = useState<Record<string, string>>({});
   const [baixandoMotor, setBaixandoMotor] = useState<string | null>(null);
   const [trocandoMotor, setTrocandoMotor] = useState<string | null>(null);
+  const [motoresTts, setMotoresTts] = useState<main.MotorTtsInfo[]>([]);
+  const [progressoMotorTts, setProgressoMotorTts] = useState<Record<string, string>>({});
+  const [baixandoMotorTts, setBaixandoMotorTts] = useState<string | null>(null);
   const [avisoCompatibilidade, setAvisoCompatibilidade] = useState<string | null>(null);
   const [infoArmazenamento, setInfoArmazenamento] = useState<main.StorageInfo | null>(null);
   const [infoCotaTraducao, setInfoCotaTraducao] = useState<main.InfoCotaTraducao | null>(null);
@@ -99,6 +102,7 @@ function App() {
     GetCaptureResolution().then(res => setResCaptura(res));
     CarregarModelos();
     CarregarMotores();
+    CarregarMotoresTts();
     CarregarVocabulario();
 
     // @ts-ignore
@@ -114,13 +118,23 @@ function App() {
     });
 
     // Motores (sidecars): progresso de download/instalação e refresh do estado ativo (bootstrap/troca).
+    // O evento é compartilhado entre motores de OCR e de Voz (nomes não colidem entre os catálogos),
+    // então a mensagem alimenta os dois mapas — cada lista só renderiza os nomes do próprio catálogo.
     EventsOn("motor_download_progresso", (data: any) => {
       if (!data?.nome) return;
       if (data.mensagem) {
         setProgressoMotor(prev => ({ ...prev, [data.nome]: data.mensagem }));
+        setProgressoMotorTts(prev => ({ ...prev, [data.nome]: data.mensagem }));
       } else if (data.erro) {
         setProgressoMotor(prev => ({ ...prev, [data.nome]: '⚠️ ' + data.erro }));
+        setProgressoMotorTts(prev => ({ ...prev, [data.nome]: '⚠️ ' + data.erro }));
       }
+    });
+
+    // Leitura em voz alta: estado da síntese na barra de status (subida do motor, download dos
+    // pesos na primeira vez, síntese). Mensagem vazia = terminou.
+    EventsOn("tts_estado", (mensagem: string) => {
+      setStatus(mensagem || 'Aguardando...');
     });
     // Motor ativo mudou (bootstrap ou pronto): a lista de modelos vem do /api/modelos do motor em
     // execução, então precisa recarregar junto — senão fica mostrando o catálogo do motor anterior.
@@ -202,6 +216,11 @@ function App() {
             const delay = configuracoesAppRef.current?.tempoParadoPopupMs || 500;
             timeoutPopupRef.current = setTimeout(() => {
               ShowHoverPopup(found.pinyin || '', found.hanzi || '', found.significados ? found.significados.join(', ') : '', data.x, data.y);
+              const cfgTts = configuracoesAppRef.current;
+              const hzTts = found.hanzi || found.Hanzi;
+              if (cfgTts?.lerPinyinAoAbrirPopup && hzTts) {
+                TocarLeituraPinyin(hzTts);
+              }
             }, delay);
           }
         }
@@ -420,6 +439,55 @@ function App() {
       .finally(() => setTrocandoMotor(null));
   };
 
+  const CarregarMotoresTts = () => {
+    ListarMotoresTts().then(m => setMotoresTts(m || [])).catch(() => {});
+  };
+
+  const BaixarMotorVoz = (nome: string) => {
+    setBaixandoMotorTts(nome);
+    setProgressoMotorTts(prev => ({ ...prev, [nome]: 'Iniciando download…' }));
+    BaixarMotorTts(nome)
+      .then(() => {
+        setProgressoMotorTts(prev => ({ ...prev, [nome]: '✅ Instalado!' }));
+        CarregarMotoresTts();
+      })
+      .catch((err: any) => {
+        setProgressoMotorTts(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
+      })
+      .finally(() => setBaixandoMotorTts(null));
+  };
+
+  const RemoverMotorVoz = (nome: string) => {
+    RemoverMotorTts(nome)
+      .then(() => {
+        setProgressoMotorTts(prev => {
+          const copia = { ...prev };
+          delete copia[nome];
+          return copia;
+        });
+        CarregarMotoresTts();
+      })
+      .catch((err: any) => {
+        setProgressoMotorTts(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
+      });
+  };
+
+  // Lê um hanzi em voz alta: pede a síntese ao Go (que resolve sidecar + cache) e toca o WAV
+  // devolvido em base64. A reprodução acontece AQUI (webview) porque o popup nativo Win32 não tem
+  // áudio. Usa o ref de config (não o state) porque também é chamada de dentro do handler de
+  // mouse_pos, cujo closure é o do primeiro render.
+  const TocarLeituraPinyin = (hanzi: string) => {
+    const cfg = configuracoesAppRef.current;
+    if (!cfg?.habilitarLeituraPinyin || !hanzi) return;
+    FalarPinyin(hanzi, cfg.motorTtsAtivo)
+      .then(b64 => {
+        if (b64) {
+          new Audio('data:audio/wav;base64,' + b64).play().catch(() => {});
+        }
+      })
+      .catch((err: any) => setStatus('⚠️ Leitura em voz alta: ' + String(err)));
+  };
+
   const CarregarArmazenamento = () => {
     GetStorageInfo().then(info => setInfoArmazenamento(info)).catch(() => {});
   };
@@ -591,6 +659,11 @@ function App() {
     setCartaoSelecionado(c);
     setDadosDecomposicao(null);
     const hz = c.hanzi || c.Hanzi;
+
+    const cfgTts = configuracoesAppRef.current;
+    if (cfgTts?.lerPinyinAoExpandirCard && hz) {
+      TocarLeituraPinyin(hz);
+    }
     
     if (hz.length > 1) {
       // Multi-character: decompose into individual characters
@@ -951,6 +1024,11 @@ function App() {
         BaixarMotorOcr={BaixarMotorOcr}
         RemoverMotorOcr={RemoverMotorOcr}
         TrocarMotorOcr={TrocarMotorOcr}
+        motoresTts={motoresTts}
+        progressoMotorTts={progressoMotorTts}
+        baixandoMotorTts={baixandoMotorTts}
+        BaixarMotorVoz={BaixarMotorVoz}
+        RemoverMotorVoz={RemoverMotorVoz}
         CarregarArmazenamento={CarregarArmazenamento}
         LimparCategoriaArmazenamento={LimparCategoriaArmazenamento}
         ExcluirTodoArmazenamento={ExcluirTodoArmazenamento}

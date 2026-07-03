@@ -133,6 +133,12 @@ type App struct {
 	// motorOcr é dono do ciclo de vida do processo de OCR (subir/derrubar/trocar). A posse migrou do
 	// orquestrador (main.go) para o app para permitir trocar de motor em runtime (Fase 5, Passo 1).
 	motorOcr *GerenciadorMotorOcr
+
+	// motorTts é dono do ciclo de vida do processo de TTS (Kokoro-82M/ChatTTS). Criado
+	// PREGUIÇOSAMENTE na primeira leitura em voz alta (garantirMotorTts) — nil até lá. ttsMutex
+	// serializa as leituras e protege essa criação (ver tts.go).
+	motorTts *GerenciadorMotorTts
+	ttsMutex sync.Mutex
 }
 
 // NewApp creates a new App application struct
@@ -415,6 +421,10 @@ func (a *App) shutdown(ctx context.Context) {
 	// Derruba o motor de OCR (e sua árvore) — o app é dono desse processo desde a migração da posse.
 	if a.motorOcr != nil {
 		a.motorOcr.Encerrar()
+	}
+	// Derruba o motor de TTS, se alguma leitura em voz alta o subiu nesta sessão (é preguiçoso).
+	if a.motorTts != nil {
+		a.motorTts.Encerrar()
 	}
 	overlay.Encerrar()
 	progresso.LimparImagensSessao()

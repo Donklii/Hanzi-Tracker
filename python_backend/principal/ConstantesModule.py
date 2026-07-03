@@ -20,6 +20,20 @@ DISPOSITIVO_OCR = "cpu"
 MODELO_OCR = "RapidOCR"
 # Limite do lado maior da captura antes do OCR (em px). 0 = resolução nativa do monitor (sem redução).
 LIMITE_LADO_MAIOR_OCR = 0
+# Descarrega o motor de OCR da memória após este tempo (em segundos) sem uso, liberando RAM (e VRAM,
+# no DirectML). É recarregado sob demanda no próximo scan (custo único de ~1-2s). Como o auto-scan
+# padrão ocorre a cada 10s (IntervaloCapturaSegundos), o motor fica "quente" durante o uso ativo e só
+# é descarregado quando o app fica ocioso (sem scans) por este tempo. 0 = nunca descarregar.
+SEGUNDOS_OCIOSO_DESCARREGAR_OCR = 120
+
+# ----- Configurações do TTS -----
+# Limita as threads do torch na síntese de fala, pelo mesmo motivo do OCR: não saturar a CPU
+# (preserva o FPS de jogos em foco).
+THREADS_CPU_TTS = 4
+# Descarrega o modelo de TTS da memória após este tempo (em segundos) sem uso. Maior que o do OCR
+# porque a recarga do torch é bem mais cara (~10-30s) e o TTS só roda por ação explícita do usuário.
+# 0 = nunca descarregar.
+SEGUNDOS_OCIOSO_DESCARREGAR_TTS = 300
 
 # ----- Armazenamento (AppData) -----
 # Pasta dedicada criada sob demanda em %APPDATA%\HanziTracker para o banco de progresso

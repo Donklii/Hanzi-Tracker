@@ -1,0 +1,8 @@
+# Dependências do sidecar ChatTTS (chattts_server.py) — usado só pelo build_sidecars.ps1, num venv
+# próprio (o torch NÃO pode conviver com o onnxruntime-directml do build do RapidOCR). No Windows o
+# torch do PyPI já é o build de CPU — sem CUDA, que foi descartado por custo/benefício (TODO.md).
+#
+# Os PESOS (~1 GB) não vêm do pip: o próprio sidecar os baixa do Hugging Face (2Noise/ChatTTS) na
+# primeira síntese, para modelos\ChatTTS\hf.
+
+chattts>=0.2.1

@@ -8,35 +8,39 @@ import (
 )
 
 type Config struct {
-	IntervaloCapturaSegundos     int     `json:"intervaloCapturaSegundos"`
-	ConfiancaMinimaOcr           float64 `json:"confiancaMinimaOcr"`
-	ThreadsCpuOcr                int     `json:"threadsCpuOcr"`
-	HardwareSelecionado          string  `json:"hardwareSelecionado"`
-	DispositivoOcr               string  `json:"dispositivoOcr"`
-	ModeloOcr                    string  `json:"modeloOcr"`
-	MotorOcrAtivo                string  `json:"motorOcrAtivo"` // qual MOTOR (sidecar) subir no início; ver motores.go
-	EscalaResolucaoOcr           int     `json:"escalaResolucaoOcr"`
-	LimitarPorUsoCpu             bool    `json:"limitarPorUsoCpu"`
-	UsoMaximoCpuPercent          float64 `json:"usoMaximoCpuPercent"`
-	LimitarPorUsoGpu             bool    `json:"limitarPorUsoGpu"`
-	UsoMaximoGpuPercent          float64 `json:"usoMaximoGpuPercent"`
-	DistanciaMaximaHoverPx       int     `json:"distanciaMaximaHoverPx"`
-	IntervaloAtualizacaoHoverMs  int     `json:"intervaloAtualizacaoHoverMs"`
-	HabilitarPopupHover          bool    `json:"habilitarPopupHover"`
-	TempoParadoPopupMs           int     `json:"tempoParadoPopupMs"`
-	DestacarEstudoTela           bool    `json:"destacarEstudoTela"`
-	DestacarEstudoParcialTela    bool    `json:"destacarEstudoParcialTela"`
-	MonitorAlvo                  int     `json:"monitorAlvo"`
-	AtalhoEscanear               string  `json:"atalhoEscanear"`
-	AtalhoPopupTodos             string  `json:"atalhoPopupTodos"`
-	AtalhoMarcarEstudo           string  `json:"atalhoMarcarEstudo"`
-	AtalhoAlternarPopupHover     string  `json:"atalhoAlternarPopupHover"`
-	TraducaoApiKey               string  `json:"traducaoApiKey"`
-	TraducaoAtiva                bool    `json:"traducaoAtiva"`
-	TraducaoPausarPorCota        bool    `json:"traducaoPausarPorCota"`
-	TraducaoLimiteCotaPercent    float64 `json:"traducaoLimiteCotaPercent"`
-	TraducaoUsarCache            bool    `json:"traducaoUsarCache"`
-	CensurarJanelasDoApp         bool    `json:"censurarJanelasDoApp"`
+	IntervaloCapturaSegundos    int     `json:"intervaloCapturaSegundos"`
+	ConfiancaMinimaOcr          float64 `json:"confiancaMinimaOcr"`
+	ThreadsCpuOcr               int     `json:"threadsCpuOcr"`
+	HardwareSelecionado         string  `json:"hardwareSelecionado"`
+	DispositivoOcr              string  `json:"dispositivoOcr"`
+	ModeloOcr                   string  `json:"modeloOcr"`
+	MotorOcrAtivo               string  `json:"motorOcrAtivo"` // qual MOTOR (sidecar) subir no início; ver motores.go
+	EscalaResolucaoOcr          int     `json:"escalaResolucaoOcr"`
+	LimitarPorUsoCpu            bool    `json:"limitarPorUsoCpu"`
+	UsoMaximoCpuPercent         float64 `json:"usoMaximoCpuPercent"`
+	LimitarPorUsoGpu            bool    `json:"limitarPorUsoGpu"`
+	UsoMaximoGpuPercent         float64 `json:"usoMaximoGpuPercent"`
+	DistanciaMaximaHoverPx      int     `json:"distanciaMaximaHoverPx"`
+	IntervaloAtualizacaoHoverMs int     `json:"intervaloAtualizacaoHoverMs"`
+	HabilitarPopupHover         bool    `json:"habilitarPopupHover"`
+	TempoParadoPopupMs          int     `json:"tempoParadoPopupMs"`
+	DestacarEstudoTela          bool    `json:"destacarEstudoTela"`
+	DestacarEstudoParcialTela   bool    `json:"destacarEstudoParcialTela"`
+	MonitorAlvo                 int     `json:"monitorAlvo"`
+	AtalhoEscanear              string  `json:"atalhoEscanear"`
+	AtalhoPopupTodos            string  `json:"atalhoPopupTodos"`
+	AtalhoMarcarEstudo          string  `json:"atalhoMarcarEstudo"`
+	AtalhoAlternarPopupHover    string  `json:"atalhoAlternarPopupHover"`
+	TraducaoApiKey              string  `json:"traducaoApiKey"`
+	TraducaoAtiva               bool    `json:"traducaoAtiva"`
+	TraducaoPausarPorCota       bool    `json:"traducaoPausarPorCota"`
+	TraducaoLimiteCotaPercent   float64 `json:"traducaoLimiteCotaPercent"`
+	TraducaoUsarCache           bool    `json:"traducaoUsarCache"`
+	CensurarJanelasDoApp        bool    `json:"censurarJanelasDoApp"`
+	HabilitarLeituraPinyin      bool    `json:"habilitarLeituraPinyin"`
+	LerPinyinAoAbrirPopup       bool    `json:"lerPinyinAoAbrirPopup"`
+	LerPinyinAoExpandirCard     bool    `json:"lerPinyinAoExpandirCard"`
+	MotorTtsAtivo               string  `json:"motorTtsAtivo"`
 }
 
 func DefaultConfig() Config {
@@ -70,6 +74,10 @@ func DefaultConfig() Config {
 		TraducaoLimiteCotaPercent:   90,
 		TraducaoUsarCache:           true,
 		CensurarJanelasDoApp:        true,
+		HabilitarLeituraPinyin:      false,
+		LerPinyinAoAbrirPopup:       false,
+		LerPinyinAoExpandirCard:     false,
+		MotorTtsAtivo:               "Kokoro-82M",
 	}
 }
 

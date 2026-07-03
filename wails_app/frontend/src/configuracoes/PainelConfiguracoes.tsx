@@ -46,6 +46,11 @@ interface PainelConfiguracoesProps {
     BaixarMotorOcr: (nome: string) => void;
     RemoverMotorOcr: (nome: string) => void;
     TrocarMotorOcr: (nome: string) => void;
+    motoresTts: main.MotorTtsInfo[];
+    progressoMotorTts: Record<string, string>;
+    baixandoMotorTts: string | null;
+    BaixarMotorVoz: (nome: string) => void;
+    RemoverMotorVoz: (nome: string) => void;
 }
 
 export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
@@ -57,7 +62,8 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
         infoArmazenamento, infoCotaTraducao, armazenamentoOcupado, BaixarModeloOcr, RemoverModeloOcr, trocarModelo,
         CarregarArmazenamento, LimparCategoriaArmazenamento, ExcluirTodoArmazenamento,
         hardwareEhCpu, ehCpuNome, ehNvidia, apiCompativelComModelo, hardwareCompativelComModelo, rotuloModelo,
-        motores, progressoMotor, baixandoMotor, trocandoMotor, BaixarMotorOcr, RemoverMotorOcr, TrocarMotorOcr
+        motores, progressoMotor, baixandoMotor, trocandoMotor, BaixarMotorOcr, RemoverMotorOcr, TrocarMotorOcr,
+        motoresTts, progressoMotorTts, baixandoMotorTts, BaixarMotorVoz, RemoverMotorVoz
     } = props;
 
 
@@ -239,6 +245,127 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                             <span style={{ minWidth: '55px', textAlign: 'right', color: 'var(--cor-destaque)', fontWeight: 'bold' }}>{configuracoesApp.tempoParadoPopupMs}ms</span>
                           </div>
                         )}
+                      </SecaoDependente>
+                    </>
+                  )}
+
+                  {(!termoBusca || "leitura pinyin voz alta tts falar áudio kokoro chattts pop-up card expandir".includes(termoBusca.toLowerCase())) && (
+                    <>
+                      <div className="form-group">
+                        <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+                          <span>Ler o Pinyin em Voz Alta</span>
+                          <input
+                            type="checkbox"
+                            checked={configuracoesApp.habilitarLeituraPinyin}
+                            onChange={e => AtualizarConfiguracao('habilitarLeituraPinyin', e.target.checked)}
+                          />
+                        </label>
+                      </div>
+
+                      <SecaoDependente ativa={configuracoesApp.habilitarLeituraPinyin}>
+                        <div className="form-group">
+                          <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+                            <span>Ler ao abrir o pop-up do mouse</span>
+                            <input
+                              type="checkbox"
+                              checked={configuracoesApp.lerPinyinAoAbrirPopup}
+                              onChange={e => AtualizarConfiguracao('lerPinyinAoAbrirPopup', e.target.checked)}
+                            />
+                          </label>
+                        </div>
+
+                        <div className="form-group">
+                          <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+                            <span>Ler ao expandir um card</span>
+                            <input
+                              type="checkbox"
+                              checked={configuracoesApp.lerPinyinAoExpandirCard}
+                              onChange={e => AtualizarConfiguracao('lerPinyinAoExpandirCard', e.target.checked)}
+                            />
+                          </label>
+                        </div>
+
+                        <div className="form-group">
+                          <label>Motor de TTS</label>
+                          <select
+                            className="form-input"
+                            value={configuracoesApp.motorTtsAtivo}
+                            onChange={e => AtualizarConfiguracao('motorTtsAtivo', e.target.value)}
+                          >
+                            <option value="Kokoro-82M">Kokoro-82M</option>
+                            <option value="ChatTTS">ChatTTS</option>
+                          </select>
+                          <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
+                            O motor selecionado precisa estar instalado (abaixo). A troca vale a partir da próxima leitura;
+                            o modelo de voz é baixado automaticamente na primeira vez.
+                          </small>
+                        </div>
+
+                        <div className="form-group">
+                          <label>Gerenciar Motores de Voz</label>
+                          <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginBottom: '8px' }}>
+                            O motor é o programa que sintetiza a fala. Baixe o que quiser usar ou remova para liberar espaço.
+                            Os pesos do modelo são baixados pelo próprio motor na primeira leitura em voz alta.
+                          </small>
+
+                          {motoresTts.length === 0 && (
+                            <div style={{ color: 'var(--cor-texto-suave)', fontSize: '12px' }}>Carregando motores…</div>
+                          )}
+
+                          {motoresTts.map(m => {
+                            const emDownload = baixandoMotorTts === m.nome;
+                            const msg = progressoMotorTts[m.nome];
+                            return (
+                              <div key={m.nome} style={{
+                                border: m.ativo ? '1px solid #64b5f6' : '1px solid var(--cor-borda)',
+                                borderRadius: '8px',
+                                padding: '12px',
+                                marginBottom: '8px',
+                                backgroundColor: 'var(--cor-fundo-cartao)'
+                              }}>
+                                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '12px' }}>
+                                  <div style={{ flex: 1 }}>
+                                    <div style={{ fontWeight: 'bold', fontSize: '13px' }}>
+                                      {m.rotulo}
+                                      {m.ativo && <span style={{ marginLeft: '8px', fontSize: '10px', color: '#81c784' }}>● ATIVO</span>}
+                                      {m.instalado && !m.ativo && <span style={{ marginLeft: '8px', fontSize: '10px', color: '#64b5f6' }}>INSTALADO{m.tamanhoBytes ? ` · ${FormatarTamanho(m.tamanhoBytes)}` : ''}</span>}
+                                      {!m.instalado && m.tamanhoBytes ? <span style={{ marginLeft: '8px', fontSize: '10px', color: 'var(--cor-texto-suave)' }}>{FormatarTamanho(m.tamanhoBytes)}</span> : null}
+                                    </div>
+                                    <div style={{ fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '2px' }}>{m.descricao}</div>
+                                    {m.requisitos && (
+                                      <div style={{ fontSize: '10px', color: 'var(--cor-texto-suave)', marginTop: '2px' }}>Requer: {m.requisitos}</div>
+                                    )}
+                                  </div>
+                                  <div style={{ display: 'flex', gap: '6px' }}>
+                                    {!m.instalado && (
+                                      <button
+                                        className="scan-btn"
+                                        style={{ padding: '4px 10px', fontSize: '11px', opacity: (emDownload || !m.publicado) ? 0.6 : 1 }}
+                                        disabled={emDownload || baixandoMotorTts !== null || !m.publicado}
+                                        title={!m.publicado ? 'Este motor ainda não foi publicado — aguarde a próxima atualização.' : undefined}
+                                        onClick={() => BaixarMotorVoz(m.nome)}
+                                      >
+                                        {emDownload ? 'Baixando…' : (m.publicado ? '⬇️ Baixar' : 'Indisponível')}
+                                      </button>
+                                    )}
+                                    {m.instalado && (
+                                      <button
+                                        className="scan-btn"
+                                        style={{ padding: '4px 10px', fontSize: '11px', backgroundColor: '#f44336' }}
+                                        onClick={() => RemoverMotorVoz(m.nome)}
+                                      >
+                                        🗑️ Remover
+                                      </button>
+                                    )}
+                                  </div>
+                                </div>
+                                {msg && (
+                                  <div style={{ fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '8px' }}>{msg}</div>
+                                )}
+                              </div>
+                            );
+                          })}
+                        </div>
                       </SecaoDependente>
                     </>
                   )}

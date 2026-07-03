@@ -18,6 +18,10 @@ export function BaixarMotor(arg1) {
   return window['go']['main']['App']['BaixarMotor'](arg1);
 }
 
+export function BaixarMotorTts(arg1) {
+  return window['go']['main']['App']['BaixarMotorTts'](arg1);
+}
+
 export function BuscarPorPinyin(arg1) {
   return window['go']['main']['App']['BuscarPorPinyin'](arg1);
 }
@@ -36,6 +40,10 @@ export function DecomposeCharacter(arg1) {
 
 export function ExcluirTudo() {
   return window['go']['main']['App']['ExcluirTudo']();
+}
+
+export function FalarPinyin(arg1, arg2) {
+  return window['go']['main']['App']['FalarPinyin'](arg1, arg2);
 }
 
 export function GetCaptureResolution() {
@@ -90,6 +98,10 @@ export function ListarMotores() {
   return window['go']['main']['App']['ListarMotores']();
 }
 
+export function ListarMotoresTts() {
+  return window['go']['main']['App']['ListarMotoresTts']();
+}
+
 export function LookupWord(arg1) {
   return window['go']['main']['App']['LookupWord'](arg1);
 }
@@ -112,6 +124,10 @@ export function RemoverModelo(arg1) {
 
 export function RemoverMotor(arg1) {
   return window['go']['main']['App']['RemoverMotor'](arg1);
+}
+
+export function RemoverMotorTts(arg1) {
+  return window['go']['main']['App']['RemoverMotorTts'](arg1);
 }
 
 export function SaveConfig(arg1) {

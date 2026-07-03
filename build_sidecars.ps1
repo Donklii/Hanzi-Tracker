@@ -1,14 +1,16 @@
-# Congela os sidecars Python (ocr_server + tesseract_server + easyocr_server) em .exe com
-# PyInstaller. Cada motor usa um venv PROPRIO: o build do RapidOCR carrega onnxruntime-directml e o do
-# EasyOCR carrega torch — pacotes que nao podem conviver no mesmo ambiente sem inchar/conflitar os
-# pacotes finais. NAO publica nada — so gera os artefatos e imprime o sha256 de cada zip.
+﻿# Congela os sidecars Python (ocr_server + tesseract_server + easyocr_server + kokoro_server +
+# chattts_server) em .exe com PyInstaller. Cada motor usa um venv PROPRIO: o build do RapidOCR
+# carrega onnxruntime-directml e os do EasyOCR/Kokoro/ChatTTS carregam torch — pacotes que nao podem
+# conviver no mesmo ambiente sem inchar/conflitar os pacotes finais. NAO publica nada — so gera os
+# artefatos e imprime o sha256 de cada zip.
 # Ver BUILD.md (arquitetura) e docs/PUBLICAR-MOTORES.md (como publicar os artefatos gerados aqui).
 #
 # Uso (na raiz do projeto):  powershell -ExecutionPolicy Bypass -File build_sidecars.ps1
 # Requisito p/ o sidecar Tesseract: instalacao do Tesseract (choco install tesseract) em
 # "C:\Program Files\Tesseract-OCR" — ou aponte outra pasta via a env TESSERACT_DIR. Sem ela, esse
 # sidecar e PULADO (com aviso); os demais saem normalmente.
-# Saida: python_backend/dist/{ocr_server,tesseract_server,easyocr_server}.zip (+ sha256 no fim).
+# Saida: python_backend/dist/{ocr_server,tesseract_server,easyocr_server,kokoro_server,
+# chattts_server}.zip (+ sha256 no fim).
 
 $ErrorActionPreference = "Stop"
 $raiz    = $PSScriptRoot
@@ -32,10 +34,10 @@ function Preparar-Venv([string]$pasta, [string]$requirements) {
     return $py
 }
 
-Write-Host "== 1/8  Venv do RapidOCR (build_env, motores/rapidocr/requirements.txt) ==" -ForegroundColor Cyan
+Write-Host "== 1/10 Venv do RapidOCR (build_env, motores/rapidocr/requirements.txt) ==" -ForegroundColor Cyan
 $pyRapid = Preparar-Venv (Join-Path $raiz "build_env") ([IO.Path]::Combine("python_backend", "motores", "rapidocr", "requirements.txt"))
 
-Write-Host "== 2/8  Trocando onnxruntime -> onnxruntime-directml ==" -ForegroundColor Cyan
+Write-Host "== 2/10 Trocando onnxruntime -> onnxruntime-directml ==" -ForegroundColor Cyan
 # onnxruntime (CPU) e onnxruntime-directml sao MUTUAMENTE EXCLUSIVOS: remover antes de instalar.
 & $pyRapid -m pip uninstall -y onnxruntime
 & $pyRapid -m pip install "onnxruntime-directml>=1.17.0"
@@ -43,7 +45,7 @@ Write-Host "== 2/8  Trocando onnxruntime -> onnxruntime-directml ==" -Foreground
 Write-Host "   Provedores disponiveis no ambiente de build:" -ForegroundColor DarkGray
 & $pyRapid -c "import onnxruntime as ort; print(ort.get_available_providers())"
 
-Write-Host "== 3/8  Congelando ocr_server (PyInstaller) ==" -ForegroundColor Cyan
+Write-Host "== 3/10 Congelando ocr_server (PyInstaller) ==" -ForegroundColor Cyan
 # Specs por motor moram em motores/<motor>/ (ver python_backend/motores/). PyInstaller grava dist/build
 # relativos ao diretorio de INVOCACAO (Push-Location $backend), nao a pasta do .spec.
 Push-Location $backend
@@ -53,7 +55,7 @@ try {
     Pop-Location
 }
 
-Write-Host "== 4/8  Venv + congelamento do tesseract_server ==" -ForegroundColor Cyan
+Write-Host "== 4/10 Venv + congelamento do tesseract_server ==" -ForegroundColor Cyan
 $pyTess = Preparar-Venv (Join-Path $raiz "build_env_tesseract") ([IO.Path]::Combine("python_backend", "motores", "tesseract", "requirements.txt"))
 Push-Location $backend
 try {
@@ -62,7 +64,7 @@ try {
     Pop-Location
 }
 
-Write-Host "== 5/8  Empacotando o tesseract.exe + tessdata no sidecar ==" -ForegroundColor Cyan
+Write-Host "== 5/10 Empacotando o tesseract.exe + tessdata no sidecar ==" -ForegroundColor Cyan
 # O tesseract.exe nao vem do pip: copiamos a instalacao inteira (exe + DLLs + tessdata, que ja traz o
 # eng) para dentro do pacote congelado, onde TesseractService._resolverExecutavel a procura. Depois
 # garantimos o chi_sim (tessdata_fast 4.1.0, hash conferido) — o peso chines embutido do motor.
@@ -86,7 +88,7 @@ if (-not (Test-Path (Join-Path $tesseractOrigem "tesseract.exe"))) {
     }
 }
 
-Write-Host "== 6/8  Venv + congelamento do easyocr_server ==" -ForegroundColor Cyan
+Write-Host "== 6/10 Venv + congelamento do easyocr_server ==" -ForegroundColor Cyan
 $pyEasy = Preparar-Venv (Join-Path $raiz "build_env_easyocr") ([IO.Path]::Combine("python_backend", "motores", "easyocr", "requirements.txt"))
 Push-Location $backend
 try {
@@ -95,7 +97,25 @@ try {
     Pop-Location
 }
 
-Write-Host "== 7/8  Empacotando (zip) as saidas onedir ==" -ForegroundColor Cyan
+Write-Host "== 7/10  Venv + congelamento do kokoro_server (motor de voz) ==" -ForegroundColor Cyan
+$pyKokoro = Preparar-Venv (Join-Path $raiz "build_env_kokoro") ([IO.Path]::Combine("python_backend", "motores", "kokoro", "requirements.txt"))
+Push-Location $backend
+try {
+    & $pyKokoro -m PyInstaller --noconfirm ([IO.Path]::Combine("motores", "kokoro", "kokoro_server.spec"))
+} finally {
+    Pop-Location
+}
+
+Write-Host "== 8/10  Venv + congelamento do chattts_server (motor de voz) ==" -ForegroundColor Cyan
+$pyChat = Preparar-Venv (Join-Path $raiz "build_env_chattts") ([IO.Path]::Combine("python_backend", "motores", "chattts", "requirements.txt"))
+Push-Location $backend
+try {
+    & $pyChat -m PyInstaller --noconfirm ([IO.Path]::Combine("motores", "chattts", "chattts_server.spec"))
+} finally {
+    Pop-Location
+}
+
+Write-Host "== 9/10  Empacotando (zip) as saidas onedir ==" -ForegroundColor Cyan
 # O onedir gera uma PASTA (exe + DLLs + dados). O artefato baixavel e o ZIP dessa pasta; o app o extrai
 # em %APPDATA%\HanziTracker\motores\<nome>\, com o exe na raiz do zip.
 #
@@ -109,7 +129,10 @@ $pares = @(
     @{ Nome = "ocr_server";       Pasta = (Join-Path $backend "dist\ocr_server");       Zip = (Join-Path $backend "dist\ocr_server.zip") },
 
     @{ Nome = "tesseract_server"; Pasta = (Join-Path $backend "dist\tesseract_server"); Zip = (Join-Path $backend "dist\tesseract_server.zip") },
-    @{ Nome = "easyocr_server";   Pasta = (Join-Path $backend "dist\easyocr_server");   Zip = (Join-Path $backend "dist\easyocr_server.zip") }
+    @{ Nome = "easyocr_server";   Pasta = (Join-Path $backend "dist\easyocr_server");   Zip = (Join-Path $backend "dist\easyocr_server.zip") },
+
+    @{ Nome = "kokoro_server";    Pasta = (Join-Path $backend "dist\kokoro_server");    Zip = (Join-Path $backend "dist\kokoro_server.zip") },
+    @{ Nome = "chattts_server";   Pasta = (Join-Path $backend "dist\chattts_server");   Zip = (Join-Path $backend "dist\chattts_server.zip") }
 )
 foreach ($p in $pares) {
     if (-not (Test-Path $p.Pasta)) { Write-Warning "NAO gerado: $($p.Pasta)"; continue }
@@ -117,7 +140,7 @@ foreach ($p in $pares) {
     [System.IO.Compression.ZipFile]::CreateFromDirectory($p.Pasta, $p.Zip, [System.IO.Compression.CompressionLevel]::Optimal, $false)
 }
 
-Write-Host "== 8/8  Artefatos + sha256 (use no manifesto de motores) ==" -ForegroundColor Cyan
+Write-Host "== 10/10  Artefatos + sha256 (use no manifesto de motores) ==" -ForegroundColor Cyan
 foreach ($p in $pares) {
     if (-not (Test-Path $p.Zip)) { continue }
     $hash = (Get-FileHash $p.Zip -Algorithm SHA256).Hash.ToLower()

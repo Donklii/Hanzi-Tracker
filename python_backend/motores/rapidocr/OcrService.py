@@ -137,6 +137,15 @@ class OcrService(ServicoOcrBase):
         original_init = ort.InferenceSession.__init__
 
         def patched_init(sess_self, *args, **patched_kwargs):
+            # Contém a arena de memória do onnxruntime (reduz o pico de RAM/VRAM). O RapidOCR já passa
+            # enable_cpu_mem_arena=False e arena_extend_strategy=kSameAsRequested (CPU e DirectML); aqui
+            # só reforçamos e desligamos o mem_pattern (planejamento que reserva memória antecipada).
+            # O RapidOCR sempre cria a InferenceSession com sess_options=... (keyword), então basta lê-lo.
+            sess_options = patched_kwargs.get("sess_options")
+            if sess_options is not None:
+                sess_options.enable_mem_pattern = False
+                sess_options.enable_cpu_mem_arena = False
+
             providers = patched_kwargs.get("providers")
             if providers:
                 novos_providers = []
