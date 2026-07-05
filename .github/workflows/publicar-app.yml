@@ -1,0 +1,107 @@
+name: Publicar App (Instalador)
+
+# Builda o app Wails (Go + React) e gera o instalador Windows via NSIS, publicando em GitHub Releases:
+#   - push na main:      instalador "dev" — prerelease ROLANTE (tag fixa "app-dev", sempre atualizada
+#                         para a build mais recente da main), pra sempre ter algo fresco pra testar sem
+#                         esperar uma release de verdade.
+#   - tag "app-v*":       release ESTÁVEL e versionada (ex.: app-v1.2.0 -> instalador na versão 1.2.0).
+#   - workflow_dispatch:  disparo manual; segue a mesma regra (rodar numa tag app-v* = estável, numa
+#                         branch = dev).
+#
+# O instalador tem uma tela custom de escolha de motor de OCR/voz (nsis-instalador/project.nsi,
+# copiado para build/windows/installer/ antes do build — build/ inteiro é gerado e gitignored pelo
+# Wails a cada build). NENHUM motor é embutido no instalador: a escolha só grava qual motor o app
+# baixa sozinho no primeiro start, reaproveitando o download-sob-demanda que já existe
+# (bootstrapMotorPadrao, em wails_app/motores.go). Ver docs/PUBLICAR-APP.md. Windows-only: gera um
+# instalador NSIS e builda com WebView2/DirectML.
+
+on:
+  push:
+    branches: [main]
+    tags:
+      - 'app-v*'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write # criar/atualizar a release e anexar o instalador
+
+jobs:
+  publicar:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: wails_app/go.mod
+
+      - name: Configurar Node (frontend)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar NSIS (gera o instalador)
+        shell: pwsh
+        run: choco install nsis -y --no-progress
+
+      - name: Instalar o Wails CLI
+        # Fixado na MESMA versão de github.com/wailsapp/wails/v2 usada em wails_app/go.mod — o template
+        # NSIS customizado (nsis-instalador/project.nsi) foi extraído dessa versão específica do Wails;
+        # ao atualizar uma, atualize a outra junto.
+        run: go install github.com/wailsapp/wails/v2/cmd/wails@v2.12.0
+
+      - name: Calcular a versão do app
+        id: versao
+        shell: pwsh
+        run: |
+          if ($env:GITHUB_REF -like 'refs/tags/app-v*') {
+            # Release estável: a versão vem da própria tag (ex.: app-v1.2.0 -> 1.2.0).
+            $versao = $env:GITHUB_REF -replace 'refs/tags/app-v', ''
+            if ($versao -notmatch '^\d+\.\d+\.\d+$') {
+              throw "Tag de release inválida: '$env:GITHUB_REF' — esperado 'app-vX.Y.Z' (ex.: app-v1.2.0)."
+            }
+            "versao=$versao"               | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+            "tag=app-v$versao"             | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+            "estavel=true"                 | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+            "titulo=Hanzi Tracker $versao" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+          } else {
+            # Build de dev: versão PURAMENTE NUMÉRICA (exigência do NSIS/VIProductVersion, que não
+            # aceita sufixos tipo "-dev+sha") baseada no número sequencial do workflow. O commit exato
+            # vai só no título da release, pra rastrear qual build é qual sem quebrar o instalador.
+            $versao = "0.0.$env:GITHUB_RUN_NUMBER"
+            $sha = $env:GITHUB_SHA.Substring(0, 7)
+            "versao=$versao"                          | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+            "tag=app-dev"                             | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+            "estavel=false"                           | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+            "titulo=Hanzi Tracker (dev, commit $sha)" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+          }
+
+      - name: Gravar a versão calculada em wails.json
+        shell: pwsh
+        run: |
+          $caminho = 'wails_app/wails.json'
+          $json = Get-Content $caminho -Raw | ConvertFrom-Json
+          $json.info.productVersion = '${{ steps.versao.outputs.versao }}'
+          ($json | ConvertTo-Json -Depth 10) | Set-Content -Path $caminho -Encoding utf8
+
+      - name: Copiar o template NSIS customizado (tela de escolha de motores)
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path 'wails_app/build/windows/installer' | Out-Null
+          Copy-Item 'wails_app/nsis-instalador/project.nsi' 'wails_app/build/windows/installer/project.nsi' -Force
+
+      - name: Buildar o app + instalador (wails build -nsis)
+        working-directory: wails_app
+        run: wails build -nsis -platform windows/amd64
+
+      - name: Publicar a release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.versao.outputs.tag }}
+          name: ${{ steps.versao.outputs.titulo }}
+          prerelease: ${{ steps.versao.outputs.estavel != 'true' }}
+          target_commitish: ${{ github.sha }}
+          files: wails_app/build/bin/HanziTracker-amd64-installer.exe
+          fail_on_unmatched_files: true

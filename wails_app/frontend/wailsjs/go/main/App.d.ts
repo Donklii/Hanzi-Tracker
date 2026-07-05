@@ -9,11 +9,17 @@ export function AbrirPastaDados():Promise<void>;
 
 export function AddVocab(arg1:string,arg2:string,arg3:string,arg4:string):Promise<void>;
 
+export function AvaliarTipoHanzi(arg1:string):Promise<string>;
+
 export function BaixarModelo(arg1:string):Promise<void>;
 
 export function BaixarMotor(arg1:string):Promise<void>;
 
 export function BaixarMotorTts(arg1:string):Promise<void>;
+
+export function BuscarCaracteresCompostosPor(arg1:string):Promise<Array<string>>;
+
+export function BuscarNoDicionarioGeral(arg1:string):Promise<Array<main.FlashcardCard>>;
 
 export function BuscarPorPinyin(arg1:string):Promise<Array<string>>;
 
@@ -23,6 +29,8 @@ export function CaractereCompleto(arg1:string):Promise<string>;
 
 export function DecomposeCharacter(arg1:string):Promise<dicionario.DecomposicaoHanzi>;
 
+export function DespertarMotorTts():Promise<void>;
+
 export function ExcluirTudo():Promise<void>;
 
 export function FalarPinyin(arg1:string,arg2:string):Promise<string>;
@@ -30,6 +38,8 @@ export function FalarPinyin(arg1:string,arg2:string):Promise<string>;
 export function GetCaptureResolution():Promise<main.Resolucao>;
 
 export function GetConfig():Promise<config.Config>;
+
+export function GetCotaGemini():Promise<main.InfoCotaGemini>;
 
 export function GetCotaTraducao():Promise<main.InfoCotaTraducao>;
 
@@ -59,7 +69,15 @@ export function LookupWord(arg1:string):Promise<Array<dicionario.EntradaDicionar
 
 export function MarcarVistoSilencioso(arg1:string):Promise<void>;
 
+export function ObterDadosEscritaHanzi(arg1:string):Promise<string>;
+
+export function ObterQuestoesRevisao(arg1:string,arg2:number):Promise<Array<main.QuestaoRevisao>>;
+
 export function ObterTotalHanzisDicionario():Promise<number>;
+
+export function PararPreCacheTts():Promise<void>;
+
+export function PreCarregarCacheTts(arg1:string):Promise<void>;
 
 export function RemoveVocab(arg1:string):Promise<void>;
 

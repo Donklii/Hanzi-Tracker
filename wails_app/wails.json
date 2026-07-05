@@ -9,5 +9,11 @@
   "author": {
     "name": "Donklii",
     "email": "donklii13@gmail.com"
+  },
+  "info": {
+    "companyName": "Donklii",
+    "productName": "Hanzi Tracker",
+    "productVersion": "0.0.0",
+    "copyright": "Copyright © Donklii"
   }
 }

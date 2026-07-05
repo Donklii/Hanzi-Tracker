@@ -13,6 +13,11 @@ import (
 )
 
 var (
+	resumoCancel chan struct{}
+	resumoMu     sync.Mutex
+)
+
+var (
 	threadID uint32
 	actionQ  = make(chan func(), 100)
 	ready    chan struct{}
@@ -23,6 +28,7 @@ var (
 	janelasEstudosParciais []win.HWND
 	janelaHover            win.HWND
 	janelaHighlight        win.HWND
+	janelaResumo           win.HWND
 )
 
 // Iniciar arranca a thread de interface (Win32) do overlay e registra a Window Class.
@@ -99,11 +105,12 @@ func limpaJanelas(lista *[]win.HWND) {
 
 // ItemPopup descreve os dados necessários para exibir um card (similar ao JSON dict em Python).
 type ItemPopup struct {
-	Pinyin string
-	Hanzi  string
-	Sig    string
-	X0, Y0 int
-	X1, Y1 int
+	Pinyin     string
+	Hanzi      string
+	Sig        string
+	X0, Y0     int
+	X1, Y1     int
+	SoTraducao bool // Se true, exibe apenas a tradução (Sig), sem Hanzi/Pinyin, no tamanho da linha de origem.
 }
 
 // Show exibe o card de hover na posição (x,y).
@@ -124,7 +131,7 @@ func Show(pinyin, hanzi, sig string, x, y int) {
 			finalY = y + 30
 		}
 
-		janelaHover = createWindow(className, "HanziTrackerHover", finalX, finalY, w, h, true)
+		janelaHover = createWindow(className, "HanziTrackerHover", finalX, finalY, w, h, true, 255)
 		windowDatas[janelaHover] = &WindowData{
 			Type:   1,
 			Pinyin: pinyin,
@@ -150,6 +157,127 @@ func Hide() {
 	})
 }
 
+// MostrarResumo exibe o resumo gerado pelo Gemini em um canto da tela.
+// Se ttlSec for 0, o pop-up não tem TTL (fica na tela até ser sobrescrito ou ocultado).
+// Se ttlSec for < 0, calcula o TTL automaticamente baseado no texto.
+func MostrarResumo(titulo, texto, canto string, monX, monY, monW, monH int, ttlSec int) {
+	resumoMu.Lock()
+	if resumoCancel != nil {
+		close(resumoCancel)
+		resumoCancel = nil
+	}
+	
+	if ttlSec < 0 {
+		// Tempo de leitura: ~15 caracteres por segundo, mínimo de 10 segundos
+		ttlSec = max(10, len(texto)/15)
+	}
+
+	var newCancel chan struct{}
+	if ttlSec > 0 {
+		newCancel = make(chan struct{})
+		resumoCancel = newCancel
+	}
+	resumoMu.Unlock()
+
+	execNaThread(func() {
+		w := 420
+
+		hdc := win.CreateDC(utf16PtrFromString("DISPLAY"), nil, nil, nil)
+		fonteTitulo := createFont(15, true)
+		fonteTexto := createFont(12, false)
+
+		_, hTitulo := calcTextRect(hdc, titulo, fonteTitulo, w-(2*16))
+		_, hTexto := calcTextRect(hdc, texto, fonteTexto, w-(2*16))
+
+		win.DeleteObject(win.HGDIOBJ(fonteTitulo))
+		win.DeleteObject(win.HGDIOBJ(fonteTexto))
+		win.DeleteDC(hdc)
+
+		h := 16 + hTitulo + 8 + hTexto + 16
+		maxH := int(float64(monH) * 0.45)
+		if h > maxH {
+			h = maxH
+		}
+
+		var x, y int
+		switch canto {
+		case "superior-esquerdo":
+			x = monX + 16
+			y = monY + 16
+		case "superior-direito":
+			x = monX + monW - 16 - w
+			y = monY + 16
+		case "inferior-esquerdo":
+			x = monX + 16
+			y = monY + monH - 16 - h
+		default: // "inferior-direito" e outros
+			x = monX + monW - 16 - w
+			y = monY + monH - 16 - h
+		}
+
+		if janelaResumo == 0 {
+			janelaResumo = createWindow(className, "HanziTrackerResumo", x, y, w, h, true, 245)
+			windowDatas[janelaResumo] = &WindowData{
+				Type:   6,
+				Hanzi:  titulo,
+				Sig:    texto,
+				Escala: 1.0,
+			}
+			win.ShowWindow(janelaResumo, win.SW_SHOWNOACTIVATE)
+		} else {
+			win.SetWindowPos(janelaResumo, 0, int32(x), int32(y), int32(w), int32(h), win.SWP_NOZORDER|win.SWP_NOACTIVATE|win.SWP_SHOWWINDOW)
+			data := windowDatas[janelaResumo]
+			data.Hanzi = titulo
+			data.Sig = texto
+			win.InvalidateRect(janelaResumo, nil, true)
+		}
+		win.UpdateWindow(janelaResumo)
+	})
+
+	if ttlSec > 0 {
+		go func() {
+		ticker := time.NewTicker(200 * time.Millisecond)
+		defer ticker.Stop()
+
+		remaining := time.Duration(ttlSec) * time.Second
+
+		for {
+			select {
+			case <-newCancel:
+				return // cancelado por outra chamada
+			case <-ticker.C:
+				isHovering := false
+				var pt win.POINT
+				if win.GetCursorPos(&pt) {
+					mx, my := int(pt.X), int(pt.Y)
+					hwnd := janelaResumo // leitura simples (não sincronizada rigorosamente, mas ok em Win32)
+					if hwnd != 0 {
+						var r win.RECT
+						if win.GetWindowRect(hwnd, &r) {
+							// Adiciona 15px de margem de tolerância ao redor do pop-up
+							if mx >= int(r.Left)-15 && mx <= int(r.Right)+15 && my >= int(r.Top)-15 && my <= int(r.Bottom)+15 {
+								isHovering = true
+							}
+						}
+					} else {
+						// janela ainda não criada, pausa o timer
+						isHovering = true
+					}
+				}
+
+				if !isHovering {
+					remaining -= 200 * time.Millisecond
+					if remaining <= 0 {
+						OcultarResumo()
+						return
+					}
+				}
+			}
+		}
+	}()
+	}
+}
+
 // MostrarTodos posiciona inteligentemente e exibe os cards para um conjunto de itens.
 func MostrarTodos(itens []ItemPopup, sw, sh int) {
 	execNaThread(func() {
@@ -158,6 +286,41 @@ func MostrarTodos(itens []ItemPopup, sw, sh int) {
 		var colocadas []Rect
 
 		for _, item := range itens {
+			// Modo tradução-somente: popup com largura da linha de origem, logo abaixo dela.
+			if item.SoTraducao {
+				larLinha := item.X1 - item.X0
+				if larLinha < 60 {
+					larLinha = 60
+				}
+				w, h := medirCardTraducao(item.Sig, larLinha)
+				x := item.X0
+				y := item.Y1 + 2 // logo abaixo da linha
+				// Garante que não sai da tela
+				if x+w > sw {
+					x = sw - w
+				}
+				if x < 0 {
+					x = 0
+				}
+				if y+h > sh {
+					y = item.Y0 - h - 2 // acima da linha se não couber abaixo
+				}
+				if y < 0 {
+					y = 0
+				}
+
+				hwnd := createWindow(className, "HanziTrackerCard", x, y, w, h, true, 255)
+				windowDatas[hwnd] = &WindowData{
+					Type:   7, // Tradução-somente
+					Sig:    item.Sig,
+					Escala: 1.0,
+				}
+				win.ShowWindow(hwnd, win.SW_SHOWNOACTIVATE)
+				janelasTodos = append(janelasTodos, hwnd)
+				colocadas = append(colocadas, Rect{X0: x, Y0: y, X1: x + w, Y1: y + h})
+				continue
+			}
+
 			centroX := (item.X0 + item.X1) / 2
 			colocado := false
 			var w, h, preferX, preferY int
@@ -172,7 +335,7 @@ func MostrarTodos(itens []ItemPopup, sw, sh int) {
 
 				x, y, rect, ok := AcharPosicao(preferX, preferY, w, h, colocadas, sw, sh)
 				if ok {
-					hwnd := createWindow(className, "HanziTrackerCard", x, y, w, h, true)
+					hwnd := createWindow(className, "HanziTrackerCard", x, y, w, h, true, 255)
 					windowDatas[hwnd] = &WindowData{
 						Type:   3,
 						Pinyin: item.Pinyin,
@@ -192,7 +355,7 @@ func MostrarTodos(itens []ItemPopup, sw, sh int) {
 				// Aceita sobreposição se nem na menor escala encontrou lugar
 				x := max(0, min(preferX, sw-w))
 				y := max(0, min(preferY, sh-h))
-				hwnd := createWindow(className, "HanziTrackerCard", x, y, w, h, true)
+				hwnd := createWindow(className, "HanziTrackerCard", x, y, w, h, true, 255)
 				windowDatas[hwnd] = &WindowData{
 					Type:   3,
 					Pinyin: item.Pinyin,
@@ -215,6 +378,23 @@ func OcultarTodos() {
 	})
 }
 
+// OcultarResumo oculta o pop-up de resumo.
+func OcultarResumo() {
+	resumoMu.Lock()
+	if resumoCancel != nil {
+		close(resumoCancel)
+		resumoCancel = nil
+	}
+	resumoMu.Unlock()
+
+	execNaThread(func() {
+		if janelaResumo != 0 {
+			win.DestroyWindow(janelaResumo)
+			janelaResumo = 0
+		}
+	})
+}
+
 // ShowHighlight exibe uma moldura vazada (verde) na posição selecionada.
 func ShowHighlight(x0, y0, x1, y1 int) {
 	execNaThread(func() {
@@ -234,62 +414,111 @@ func ShowHighlight(x0, y0, x1, y1 int) {
 			h = 1
 		}
 
-		janelaHighlight = createWindow(className, "HanziTrackerHighlight", x0, y0, w, h, true)
+		janelaHighlight = createWindow(className, "HanziTrackerHighlight", x0, y0, w, h, true, 255)
 		windowDatas[janelaHighlight] = &WindowData{Type: 2}
 		win.ShowWindow(janelaHighlight, win.SW_SHOWNOACTIVATE)
 		win.UpdateWindow(janelaHighlight)
 	})
 }
 
+// atualizarMolduras reutiliza as janelas (HWNDs) existentes para evitar flicker (piscar).
+func atualizarMolduras(lista *[]win.HWND, boxes [][]float64, windowName string, tipo int) {
+	type WinItem struct {
+		hwnd win.HWND
+		r    win.RECT
+		used bool
+	}
+
+	itens := make([]*WinItem, len(*lista))
+	for i, h := range *lista {
+		var r win.RECT
+		win.GetWindowRect(h, &r)
+		itens[i] = &WinItem{hwnd: h, r: r, used: false}
+	}
+
+	var novasJanelas []win.HWND
+	var extras []win.HWND
+
+	for _, box := range boxes {
+		if len(box) != 4 {
+			continue
+		}
+		x0, y0, x1, y1 := int(box[0]), int(box[1]), int(box[2]), int(box[3])
+		w := x1 - x0
+		h := y1 - y0
+		if w <= 0 {
+			w = 1
+		}
+		if h <= 0 {
+			h = 1
+		}
+
+		encontrou := false
+		// 1. Tenta achar uma janela exatamente na mesma posição e tamanho
+		for _, item := range itens {
+			if !item.used && int(item.r.Left) == x0 && int(item.r.Top) == y0 && int(item.r.Right) == x0+w && int(item.r.Bottom) == y0+h {
+				item.used = true
+				encontrou = true
+				if !win.IsWindowVisible(item.hwnd) {
+					win.ShowWindow(item.hwnd, win.SW_SHOWNOACTIVATE)
+				}
+				novasJanelas = append(novasJanelas, item.hwnd)
+				break
+			}
+		}
+
+		// 2. Se não achou exata, pega qualquer uma não usada e reposiciona
+		if !encontrou {
+			for _, item := range itens {
+				if !item.used {
+					item.used = true
+					encontrou = true
+					win.SetWindowPos(item.hwnd, 0, int32(x0), int32(y0), int32(w), int32(h), win.SWP_NOZORDER|win.SWP_NOACTIVATE|win.SWP_SHOWWINDOW)
+					win.InvalidateRect(item.hwnd, nil, true)
+					win.UpdateWindow(item.hwnd)
+					novasJanelas = append(novasJanelas, item.hwnd)
+					break
+				}
+			}
+		}
+
+		// 3. Se não tem mais janelas livres, cria uma nova
+		if !encontrou {
+			alpha := byte(255)
+			if tipo == 4 || tipo == 5 {
+				alpha = 150 // Semi-transparente para as caixas de estudo automáticas
+			}
+			hwnd := createWindow(className, windowName, x0, y0, w, h, true, alpha)
+			windowDatas[hwnd] = &WindowData{Type: tipo}
+			win.ShowWindow(hwnd, win.SW_SHOWNOACTIVATE)
+			novasJanelas = append(novasJanelas, hwnd)
+		}
+	}
+
+	// Esconde as janelas que sobraram em vez de destruir, mantendo no pool
+	for _, item := range itens {
+		if !item.used {
+			if win.IsWindowVisible(item.hwnd) {
+				win.ShowWindow(item.hwnd, win.SW_HIDE)
+			}
+			extras = append(extras, item.hwnd)
+		}
+	}
+
+	*lista = append(novasJanelas, extras...)
+}
+
 // ShowEstudoHighlights exibe várias molduras vazadas (azuis) simultaneamente.
 func ShowEstudoHighlights(boxes [][]float64) {
 	execNaThread(func() {
-		limpaJanelas(&janelasEstudos)
-		for _, box := range boxes {
-			if len(box) != 4 {
-				continue
-			}
-			x0, y0, x1, y1 := int(box[0]), int(box[1]), int(box[2]), int(box[3])
-			w := x1 - x0
-			h := y1 - y0
-			if w <= 0 {
-				w = 1
-			}
-			if h <= 0 {
-				h = 1
-			}
-
-			hwnd := createWindow(className, "HanziTrackerEstudo", x0, y0, w, h, true)
-			windowDatas[hwnd] = &WindowData{Type: 4}
-			win.ShowWindow(hwnd, win.SW_SHOWNOACTIVATE)
-			janelasEstudos = append(janelasEstudos, hwnd)
-		}
+		atualizarMolduras(&janelasEstudos, boxes, "HanziTrackerEstudo", 4)
 	})
 }
 
 // ShowEstudoParcialHighlights exibe várias molduras vazadas (amarelas) simultaneamente.
 func ShowEstudoParcialHighlights(boxes [][]float64) {
 	execNaThread(func() {
-		limpaJanelas(&janelasEstudosParciais)
-		for _, box := range boxes {
-			if len(box) != 4 {
-				continue
-			}
-			x0, y0, x1, y1 := int(box[0]), int(box[1]), int(box[2]), int(box[3])
-			w := x1 - x0
-			h := y1 - y0
-			if w <= 0 {
-				w = 1
-			}
-			if h <= 0 {
-				h = 1
-			}
-
-			hwnd := createWindow(className, "HanziTrackerEstudoParcial", x0, y0, w, h, true)
-			windowDatas[hwnd] = &WindowData{Type: 5}
-			win.ShowWindow(hwnd, win.SW_SHOWNOACTIVATE)
-			janelasEstudosParciais = append(janelasEstudosParciais, hwnd)
-		}
+		atualizarMolduras(&janelasEstudosParciais, boxes, "HanziTrackerEstudoParcial", 5)
 	})
 }
 
@@ -363,6 +592,7 @@ func RetangulosVisiveis() []Rect {
 
 		coletar(janelaHover)
 		coletar(janelaHighlight)
+		coletar(janelaResumo)
 		for _, h := range janelasTodos {
 			coletar(h)
 		}

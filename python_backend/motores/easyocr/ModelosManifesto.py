@@ -1,6 +1,6 @@
 # ----- Manifesto de Modelos do Motor EasyOCR -----
 # Catálogo dos pesos (.pth) do sidecar EasyOCR. Mesmo formato do motores/rapidocr/ModelosManifesto.py:
-# quem BAIXA/REMOVE os arquivos é o Go, em %APPDATA%\HanziTracker\modelos\EasyOCR\; o Python só
+# quem BAIXA/REMOVE os arquivos é o Go, em %APPDATA%\HanziTracker\motores_ocr\EasyOCR\modelos\; o Python só
 # informa nome/url/sha256 e LÊ os pesos (model_storage_directory do easyocr.Reader).
 #
 # Particularidades deste motor:

@@ -157,11 +157,11 @@ func montarComandoWails(modoDev bool) *exec.Cmd {
 	}
 
 	// Usa o executável já compilado, se existir
-	exePath := filepath.Join("wails_app", "build", "bin", "HanziTracker.exe")
+	/* exePath := filepath.Join("wails_app", "build", "bin", "HanziTracker.exe")
 	if _, err := os.Stat(exePath); err == nil {
 		fmt.Println("Executável compilado encontrado. Iniciando...")
 		return exec.Command(exePath)
-	}
+	} */
 
 	fmt.Println("Executável não encontrado. Rodando a partir do código fonte em wails_app...")
 

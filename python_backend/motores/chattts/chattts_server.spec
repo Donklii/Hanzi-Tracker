@@ -1,7 +1,7 @@
 # -*- mode: python ; coding: utf-8 -*-
 # Congela o microserviço de TTS do ChatTTS (chattts_server.py) como sidecar autônomo, com o PyTorch
 # de CPU embutido. Os PESOS (~1 GB) não vão no pacote: o próprio sidecar os baixa do Hugging Face
-# na primeira síntese, para modelos\ChatTTS\hf (cache HF redirecionado pelo entry).
+# na primeira síntese, para motores_tts\ChatTTS\modelos\hf (cache HF redirecionado pelo entry).
 # Ver docs/CONTRATO-TTS.md. Rode via build_sidecars.ps1. Saída (onedir): dist/chattts_server/
 # chattts_server.exe — relativa ao diretório de INVOCAÇÃO do PyInstaller (python_backend), não de
 # onde este spec mora.

@@ -11,14 +11,15 @@ interface AbaDescobrimentoProps {
   AoEntrarNoCartao: (c: any) => void;
   AoSairDoCartao: () => void;
   AoClicarNoCartao: (c: any) => void;
-  SalvarPalavra: (cartao: any, status: string) => void;
-  DeduplicarCartoes: (cartoes: any[]) => any[];
+  SalvarPalavra: (hanzi: string, status: string, callback?: () => void) => void;
+  DeduplicarCartoes: (lista: any[]) => any[];
+  ocultarBadgeTipo?: boolean;
 }
 
 export function AbaDescobrimento(props: AbaDescobrimentoProps) {
   const {
     abaAtiva, cartoes, cartoesSecao, vistas, cartoesVocabulario,
-    AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, SalvarPalavra, DeduplicarCartoes
+    AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, SalvarPalavra, DeduplicarCartoes, ocultarBadgeTipo
   } = props;
 
   if (abaAtiva !== 'descobrimento' && abaAtiva !== 'tela_unica' && abaAtiva !== 'vistas') return null;
@@ -33,11 +34,12 @@ export function AbaDescobrimento(props: AbaDescobrimentoProps) {
           AoClicarNoCartao={AoClicarNoCartao} 
           list={cartoes} 
           defaultStatus='visto' 
-          actionBtns={(c) => (
-            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px'}} onClick={() => SalvarPalavra(c, 'estudo')}>
+          actionBtns={(c: any) => (
+            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px'}} onClick={() => SalvarPalavra(c.hanzi || c.Hanzi, 'estudo')}>
               + Mover p/ Estudo
             </button>
           )} 
+          ocultarBadgeTipo={ocultarBadgeTipo}
         />
       )}
 
@@ -49,27 +51,29 @@ export function AbaDescobrimento(props: AbaDescobrimentoProps) {
           AoClicarNoCartao={AoClicarNoCartao} 
           list={DeduplicarCartoes(cartoesSecao)} 
           defaultStatus='visto' 
-          actionBtns={(c) => (
-            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px'}} onClick={() => SalvarPalavra(c, 'estudo')}>
+          actionBtns={(c: any) => (
+            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px'}} onClick={() => SalvarPalavra(c.hanzi || c.Hanzi, 'estudo')}>
               + Mover p/ Estudo
             </button>
           )} 
+          ocultarBadgeTipo={ocultarBadgeTipo}
         />
       )}
 
       {abaAtiva === 'vistas' && (
         <ListaCartoes 
-          cartoesVocabulario={cartoesVocabulario} 
-          AoEntrarNoCartao={AoEntrarNoCartao} 
-          AoSairDoCartao={AoSairDoCartao} 
-          AoClicarNoCartao={AoClicarNoCartao} 
           list={vistas} 
           defaultStatus='visto' 
-          actionBtns={(c) => (
-            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px'}} onClick={() => SalvarPalavra(c, 'estudo')}>
+          actionBtns={(c: any) => (
+            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px'}} onClick={() => SalvarPalavra(c.hanzi || c.Hanzi, 'estudo')}>
               + Mover p/ Estudo
             </button>
           )} 
+          cartoesVocabulario={cartoesVocabulario}
+          AoEntrarNoCartao={AoEntrarNoCartao}
+          AoSairDoCartao={AoSairDoCartao}
+          AoClicarNoCartao={AoClicarNoCartao}
+          ocultarBadgeTipo={ocultarBadgeTipo}
         />
       )}
     </>

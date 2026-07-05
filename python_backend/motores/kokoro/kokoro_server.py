@@ -13,11 +13,14 @@ os.environ.setdefault("HANZITRACKER_MOTOR", "Kokoro-82M")
 from principal import ConstantesModule
 
 # Pesos: o Kokoro os baixa do Hugging Face na primeira síntese. Redireciona o cache do HF para a
-# subpasta de modelos DESTE motor (modelos/<Motor>/hf) ANTES de qualquer import do huggingface_hub,
-# para os pesos morarem no AppData do app — mensuráveis/limpáveis pela aba Armazenamento.
+# subpasta de modelos DESTE motor (motores_tts/<Motor>/modelos/hf) ANTES de qualquer import do
+# huggingface_hub, para os pesos morarem DENTRO da pasta do próprio motor no AppData — mensuráveis/
+# limpáveis pela aba Armazenamento junto com o executável (mesma estrutura do OCR).
 os.environ.setdefault(
     "HF_HOME",
-    os.path.join(ConstantesModule.obterPastaDados(), "modelos", ConstantesModule.obterNomeMotor(), "hf"),
+    os.path.join(
+        ConstantesModule.obterPastaDados(), "motores_tts", ConstantesModule.obterNomeMotor(), "modelos", "hf"
+    ),
 )
 
 from motores.kokoro.KokoroTtsService import KokoroTtsService

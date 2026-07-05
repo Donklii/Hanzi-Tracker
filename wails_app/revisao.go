@@ -1,0 +1,416 @@
+package main
+
+import (
+	"fmt"
+	"math/rand/v2"
+	"strings"
+	"unicode/utf8"
+
+	"wails_app/dicionario"
+	"wails_app/progresso"
+)
+
+// ----- Revisão de Hanzis -----
+// Gera as questões dos 4 modos de revisão (significado, fonética, desenho e contexto) no BACKEND:
+// aqui o acesso ao dicionário MakeMeAHanzi (definições/pinyin), ao banco de frases do Tatoeba e aos
+// traçados do Hanzi Writer é barato e síncrono — o frontend só renderiza a questão pronta e valida
+// a interação. O áudio da revisão fonética NÃO vem aqui: o frontend pede via FalarPinyin (tts.go),
+// que já resolve cache e sidecar.
+
+// Modos de revisão (chaves compartilhadas com o frontend).
+const (
+	ModoSignificado = "significado"
+	ModoFonetica    = "fonetica"
+	ModoDesenho     = "desenho"
+	ModoContexto    = "contexto"
+)
+
+// Quantidade de questões por sessão quando o frontend não especifica, e teto de segurança.
+const (
+	QuestoesPorSessaoPadrao = 10
+	QuestoesPorSessaoMaximo = 50
+)
+
+// OpcaoRevisao é uma das 4 alternativas de uma questão de múltipla escolha.
+type OpcaoRevisao struct {
+	Hanzi     string `json:"hanzi"`
+	Pinyin    string `json:"pinyin"`
+	Definicao string `json:"definicao"`
+	Correta   bool   `json:"correta"`
+}
+
+// QuestaoRevisao é uma questão pronta para renderização. O campo Variante diz qual das duas formas
+// aleatórias do modo foi sorteada:
+//   - significado: "hanzi_para_significado" | "significado_para_hanzi"
+//   - fonetica:    "audio_para_hanzi"       | "hanzi_para_audio"
+//   - desenho:     "desenho_contexto"       | "desenho_memoria"
+//   - contexto:    "contexto" (opções E canvas — o usuário escolhe como responder)
+type QuestaoRevisao struct {
+	Modo      string `json:"modo"`
+	Variante  string `json:"variante"`
+	Hanzi     string `json:"hanzi"`
+	Pinyin    string `json:"pinyin"`
+	Definicao string `json:"definicao"`
+	EmEstudo  bool   `json:"emEstudo"`
+
+	// Frase de contexto (modos contexto e desenho_contexto; vazia nos demais). FraseLacuna troca o
+	// hanzi-alvo por "＿" — inclusive no desenho guiado, senão bastaria copiar o caractere da frase.
+	FraseLacuna     string `json:"fraseLacuna"`
+	FraseOriginal   string `json:"fraseOriginal"`
+	FraseTraducao   string `json:"fraseTraducao"`
+	FraseAtribuicao string `json:"fraseAtribuicao"` // crédito CC-BY do Tatoeba — exibir junto da frase
+
+	// Opcoes: 4 alternativas embaralhadas (vazio nos modos só-desenho).
+	Opcoes []OpcaoRevisao `json:"opcoes"`
+}
+
+// alvoRevisao amarra a entrada do dicionário à origem dela (vocabulário em estudo ou sorteio).
+type alvoRevisao struct {
+	entrada  dicionario.DecomposicaoHanzi
+	emEstudo bool
+}
+
+// ----- Binding: dados de escrita para o Hanzi Writer -----
+
+// ObterDadosEscritaHanzi devolve o JSON cru de traçados do caractere, no formato que o motor
+// Hanzi Writer espera no charDataLoader do frontend.
+func (a *App) ObterDadosEscritaHanzi(caractere string) (string, error) {
+	dados, existe := a.BancoTracados.Dados(caractere)
+	if !existe {
+		return "", fmt.Errorf("não há dados de traçado para %q", caractere)
+	}
+	return dados, nil
+}
+
+// ----- Binding: geração de questões -----
+
+// ObterQuestoesRevisao monta uma sessão de questões para o modo pedido. Prioriza caracteres com
+// status "estudo" no vocabulário (se a config permitir) e completa com sorteios do dicionário
+// MakeMeAHanzi para evitar repetições quando há poucos caracteres em estudo.
+func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisao, error) {
+	if quantidade <= 0 {
+		quantidade = QuestoesPorSessaoPadrao
+	}
+	if quantidade > QuestoesPorSessaoMaximo {
+		quantidade = QuestoesPorSessaoMaximo
+	}
+
+	candidatos := a.candidatosParaModo(modo)
+	if len(candidatos) < 4 {
+		return nil, fmt.Errorf("não há caracteres suficientes no dicionário para o modo %q", modo)
+	}
+
+	vocabulario, _ := progresso.GetAllVocab()
+	var emEstudo []string
+	vistosEstudo := make(map[string]bool)
+	
+	mapaStatus := make(map[string]string)
+	for _, v := range vocabulario {
+		for _, r := range v.Hanzi {
+			ch := string(r)
+			if v.Status == "estudo" {
+				mapaStatus[ch] = "estudo"
+				if !vistosEstudo[ch] {
+					vistosEstudo[ch] = true
+					emEstudo = append(emEstudo, ch)
+				}
+			} else if v.Status == "aprendido" && mapaStatus[ch] != "estudo" {
+				mapaStatus[ch] = "aprendido"
+			}
+		}
+	}
+	rand.Shuffle(len(emEstudo), func(i, j int) { emEstudo[i], emEstudo[j] = emEstudo[j], emEstudo[i] })
+
+	var candEstudo []dicionario.DecomposicaoHanzi
+	var candAprendido []dicionario.DecomposicaoHanzi
+	for _, c := range candidatos {
+		if mapaStatus[c.Caractere] == "estudo" {
+			candEstudo = append(candEstudo, c)
+		} else if mapaStatus[c.Caractere] == "aprendido" {
+			candAprendido = append(candAprendido, c)
+		}
+	}
+
+	alvos := a.selecionarAlvos(candidatos, emEstudo, quantidade)
+
+	questoes := make([]QuestaoRevisao, 0, len(alvos))
+	for _, alvo := range alvos {
+		questao, err := a.montarQuestao(modo, alvo, candidatos, candEstudo, candAprendido)
+		if err != nil {
+			continue // alvo sem frase/distratores viáveis: pula sem derrubar a sessão
+		}
+		questoes = append(questoes, questao)
+	}
+
+	if len(questoes) == 0 {
+		return nil, fmt.Errorf("não foi possível montar questões para o modo %q", modo)
+	}
+	return questoes, nil
+}
+
+// ----- Seleção de candidatos e alvos -----
+
+// candidatosParaModo filtra o universo de caracteres pelo que o modo exige além de definição e
+// pinyin (já garantidos por CandidatosRevisao): traçados para desenhar, frase para contextualizar.
+func (a *App) candidatosParaModo(modo string) []dicionario.DecomposicaoHanzi {
+	todos := a.BancoHanzi.CandidatosRevisao()
+
+	// Filtra pelo tipo de Hanzi selecionado nas configurações
+	if a.Config.TipoHanziExibicao == "simplificado" || a.Config.TipoHanziExibicao == "tradicional" {
+		todos = filtrar(todos, func(e dicionario.DecomposicaoHanzi) bool {
+			tipo := a.Cedict.AvaliarTipoHanzi(e.Caractere)
+			if a.Config.TipoHanziExibicao == "simplificado" {
+				return tipo != "Tradicional"
+			}
+			return tipo != "Simplificado"
+		})
+	}
+
+	switch modo {
+	case ModoDesenho:
+		return filtrar(todos, func(e dicionario.DecomposicaoHanzi) bool {
+			return a.BancoTracados.Tem(e.Caractere)
+		})
+	case ModoContexto:
+		return filtrar(todos, func(e dicionario.DecomposicaoHanzi) bool {
+			r, _ := utf8.DecodeRuneInString(e.Caractere)
+			return a.BancoFrases.TemCaractere(r) && a.BancoTracados.Tem(e.Caractere)
+		})
+	default: // significado e fonética usam o universo inteiro
+		return todos
+	}
+}
+
+func filtrar(entradas []dicionario.DecomposicaoHanzi, manter func(dicionario.DecomposicaoHanzi) bool) []dicionario.DecomposicaoHanzi {
+	filtradas := make([]dicionario.DecomposicaoHanzi, 0, len(entradas))
+	for _, e := range entradas {
+		if manter(e) {
+			filtradas = append(filtradas, e)
+		}
+	}
+	return filtradas
+}
+
+// selecionarAlvos escolhe os caracteres-alvo da sessão: primeiro os em estudo (embaralhados),
+// depois completa com sorteios do dicionário, sem repetir caractere dentro da sessão.
+func (a *App) selecionarAlvos(candidatos []dicionario.DecomposicaoHanzi, emEstudo []string, quantidade int) []alvoRevisao {
+	porCaractere := make(map[string]dicionario.DecomposicaoHanzi, len(candidatos))
+	for _, c := range candidatos {
+		porCaractere[c.Caractere] = c
+	}
+
+	alvos := make([]alvoRevisao, 0, quantidade)
+	usados := make(map[string]bool, quantidade)
+
+	if a.Config.PriorizarEstudoRevisao {
+		for _, caractere := range emEstudo {
+			if len(alvos) >= quantidade {
+				break
+			}
+			entrada, elegivel := porCaractere[caractere]
+			if !elegivel || usados[caractere] {
+				continue
+			}
+			usados[caractere] = true
+			alvos = append(alvos, alvoRevisao{entrada: entrada, emEstudo: true})
+		}
+	}
+
+	for _, i := range rand.Perm(len(candidatos)) {
+		if len(alvos) >= quantidade {
+			break
+		}
+		entrada := candidatos[i]
+		if usados[entrada.Caractere] {
+			continue
+		}
+		usados[entrada.Caractere] = true
+		alvos = append(alvos, alvoRevisao{entrada: entrada})
+	}
+
+	// Mistura os em-estudo com os sorteados — sem isso a sessão começaria sempre pelos de estudo.
+	rand.Shuffle(len(alvos), func(i, j int) { alvos[i], alvos[j] = alvos[j], alvos[i] })
+	return alvos
+}
+
+// ----- Montagem das questões -----
+
+func (a *App) montarQuestao(modo string, alvo alvoRevisao, candidatos, candEstudo, candAprendido []dicionario.DecomposicaoHanzi) (QuestaoRevisao, error) {
+	questao := QuestaoRevisao{
+		Modo:      modo,
+		Hanzi:     alvo.entrada.Caractere,
+		Pinyin:    alvo.entrada.Pinyin[0],
+		Definicao: alvo.entrada.Definicao,
+		EmEstudo:  alvo.emEstudo,
+	}
+
+	switch modo {
+	case ModoSignificado:
+		questao.Variante = sortearVariante("hanzi_para_significado", "significado_para_hanzi")
+		questao.Opcoes = montarOpcoes(alvo.entrada, candidatos, candEstudo, candAprendido, distintosPorSignificado)
+
+	case ModoFonetica:
+		questao.Variante = sortearVariante("audio_para_hanzi", "hanzi_para_audio")
+		questao.Opcoes = montarOpcoes(alvo.entrada, candidatos, candEstudo, candAprendido, distintosPorPinyin)
+
+	case ModoDesenho:
+		questao.Variante = sortearVariante("desenho_contexto", "desenho_memoria")
+		if questao.Variante == "desenho_contexto" && !a.preencherFrase(&questao) {
+			questao.Variante = "desenho_memoria" // sem frase para este caractere: cai na outra forma
+		}
+
+	case ModoContexto:
+		questao.Variante = "contexto"
+		if !a.preencherFrase(&questao) {
+			return questao, fmt.Errorf("nenhuma frase contém %q", questao.Hanzi)
+		}
+		frase := questao.FraseOriginal
+		questao.Opcoes = montarOpcoes(alvo.entrada, candidatos, candEstudo, candAprendido, func(escolhidas []OpcaoRevisao, candidata dicionario.DecomposicaoHanzi) bool {
+			// Distrator não pode aparecer na frase — estaria "correto" aos olhos do usuário.
+			return distintosPorHanzi(escolhidas, candidata) && !strings.Contains(frase, candidata.Caractere)
+		})
+
+	default:
+		return questao, fmt.Errorf("modo de revisão desconhecido: %q", modo)
+	}
+
+	precisaOpcoes := modo == ModoSignificado || modo == ModoFonetica || modo == ModoContexto
+	if precisaOpcoes && len(questao.Opcoes) != 4 {
+		return questao, fmt.Errorf("não há distratores suficientes para %q", questao.Hanzi)
+	}
+	return questao, nil
+}
+
+func sortearVariante(a, b string) string {
+	if rand.IntN(2) == 0 {
+		return a
+	}
+	return b
+}
+
+// preencherFrase sorteia uma frase que contenha o hanzi-alvo (preferindo curtas, que cabem melhor
+// na tela) e preenche os campos de frase da questão. Devolve false se não houver nenhuma.
+func (a *App) preencherFrase(questao *QuestaoRevisao) bool {
+	alvo, _ := utf8.DecodeRuneInString(questao.Hanzi)
+	frases := a.BancoFrases.FrasesComCaractere(alvo)
+	if len(frases) == 0 {
+		return false
+	}
+
+	const tamanhoConfortavel = 20 // em caracteres chineses; acima disso a lacuna fica difícil de achar
+	curtas := make([]dicionario.Frase, 0, len(frases))
+	for _, f := range frases {
+		if utf8.RuneCountInString(f.Chines) <= tamanhoConfortavel {
+			curtas = append(curtas, f)
+		}
+	}
+	if len(curtas) > 0 {
+		frases = curtas
+	}
+
+	escolhida := frases[rand.IntN(len(frases))]
+	questao.FraseOriginal = escolhida.Chines
+	questao.FraseLacuna = strings.Replace(escolhida.Chines, questao.Hanzi, "＿", 1)
+	questao.FraseTraducao = escolhida.Ingles
+	questao.FraseAtribuicao = escolhida.Atribuicao
+	return true
+}
+
+// ----- Distratores -----
+
+// criterioDistrator decide se a candidata pode entrar no conjunto de opções já escolhidas.
+// Cada modo usa um critério: as opções precisam ser DISTINGUÍVEIS entre si naquilo que o usuário
+// compara (som na fonética, glosa no significado, o próprio caractere no contexto).
+type criterioDistrator func(escolhidas []OpcaoRevisao, candidata dicionario.DecomposicaoHanzi) bool
+
+// montarOpcoes monta as 4 alternativas (alvo + 3 distratores sorteados) já embaralhadas.
+// Devolve menos de 4 se o critério esgotar os candidatos — o chamador descarta a questão.
+func montarOpcoes(alvo dicionario.DecomposicaoHanzi, candidatos, candEstudo, candAprendido []dicionario.DecomposicaoHanzi, aceitar criterioDistrator) []OpcaoRevisao {
+	opcoes := []OpcaoRevisao{novaOpcao(alvo, true)}
+
+	tentarAdicionar := func(lista []dicionario.DecomposicaoHanzi) bool {
+		for _, i := range rand.Perm(len(lista)) {
+			candidata := lista[i]
+			if candidata.Caractere != alvo.Caractere && aceitar(opcoes, candidata) {
+				opcoes = append(opcoes, novaOpcao(candidata, false))
+				return true
+			}
+		}
+		return false
+	}
+
+	// 1º distrator: 50% de chance de ser um hanzi aprendido
+	if rand.Float64() <= 0.50 {
+		_ = tentarAdicionar(candAprendido)
+	}
+	if len(opcoes) < 2 {
+		_ = tentarAdicionar(candidatos)
+	}
+
+	// 2º distrator: 75% de chance de ser um hanzi em estudo
+	if rand.Float64() <= 0.75 {
+		_ = tentarAdicionar(candEstudo)
+	}
+	if len(opcoes) < 3 {
+		_ = tentarAdicionar(candidatos)
+	}
+
+	// 3º distrator: aleatório
+	_ = tentarAdicionar(candidatos)
+
+	// Preenchimento de segurança, caso alguma lista estivesse vazia ou sem candidatos válidos
+	for len(opcoes) < 4 {
+		if !tentarAdicionar(candidatos) {
+			break // Esgotou os candidatos gerais também
+		}
+	}
+
+	rand.Shuffle(len(opcoes), func(i, j int) { opcoes[i], opcoes[j] = opcoes[j], opcoes[i] })
+	return opcoes
+}
+
+func novaOpcao(entrada dicionario.DecomposicaoHanzi, correta bool) OpcaoRevisao {
+	return OpcaoRevisao{
+		Hanzi:     entrada.Caractere,
+		Pinyin:    entrada.Pinyin[0],
+		Definicao: entrada.Definicao,
+		Correta:   correta,
+	}
+}
+
+// distintosPorSignificado: nenhuma glosa principal repetida — senão haveria duas opções "certas".
+func distintosPorSignificado(escolhidas []OpcaoRevisao, candidata dicionario.DecomposicaoHanzi) bool {
+	glosaCandidata := glosaPrincipal(candidata.Definicao)
+	for _, o := range escolhidas {
+		if glosaPrincipal(o.Definicao) == glosaCandidata {
+			return false
+		}
+	}
+	return true
+}
+
+// distintosPorPinyin: nenhuma sílaba (com tom) repetida — homófonos como 他/她/它 soariam idênticos
+// no áudio e a questão não teria resposta única.
+func distintosPorPinyin(escolhidas []OpcaoRevisao, candidata dicionario.DecomposicaoHanzi) bool {
+	for _, o := range escolhidas {
+		if o.Pinyin == candidata.Pinyin[0] {
+			return false
+		}
+	}
+	return true
+}
+
+func distintosPorHanzi(escolhidas []OpcaoRevisao, candidata dicionario.DecomposicaoHanzi) bool {
+	for _, o := range escolhidas {
+		if o.Hanzi == candidata.Caractere {
+			return false
+		}
+	}
+	return true
+}
+
+// glosaPrincipal extrai a primeira acepção da definição ("you (informal)" de "you (informal); thou").
+func glosaPrincipal(definicao string) string {
+	glosa, _, _ := strings.Cut(definicao, ";")
+	return strings.ToLower(strings.TrimSpace(glosa))
+}

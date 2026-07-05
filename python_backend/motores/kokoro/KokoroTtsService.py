@@ -8,7 +8,7 @@ from tts.ServicoTtsBase import ServicoTtsBase
 
 # ----- Constantes do Módulo -----
 # Repositório dos pesos no Hugging Face (baixados na primeira síntese, para o cache HF que o entry
-# redireciona a modelos/<Motor>/hf). Modelo de ~82M parâmetros, ~330 MB de download.
+# redireciona a motores_tts/<Motor>/modelos/hf). Modelo de ~82M parâmetros, ~330 MB de download.
 REPO_KOKORO = "hexgrad/Kokoro-82M"
 # Voz padrão de mandarim (feminina). Outras do repositório: zf_xiaoni, zf_xiaoxiao, zf_xiaoyi,
 # zm_yunjian, zm_yunxi, zm_yunxia, zm_yunyang.

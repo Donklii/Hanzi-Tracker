@@ -11,12 +11,13 @@ interface AbaEstudosProps {
   AoSairDoCartao: () => void;
   AoClicarNoCartao: (c: any) => void;
   SalvarPalavra: (cartao: any, status: string) => void;
+  ocultarBadgeTipo?: boolean;
 }
 
 export function AbaEstudos(props: AbaEstudosProps) {
   const {
     abaAtiva, estudando, aprendidas, cartoesVocabulario,
-    AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, SalvarPalavra
+    AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, SalvarPalavra, ocultarBadgeTipo
   } = props;
 
   if (abaAtiva !== 'estudando' && abaAtiva !== 'aprendidas') return null;
@@ -31,6 +32,7 @@ export function AbaEstudos(props: AbaEstudosProps) {
           AoClicarNoCartao={AoClicarNoCartao} 
           list={estudando} 
           defaultStatus='estudo' 
+          ocultarBadgeTipo={ocultarBadgeTipo}
           actionBtns={(c) => (
             <>
               <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px', backgroundColor: '#4caf50', flex: 1}} onClick={() => SalvarPalavra(c, 'aprendido')}>
@@ -52,6 +54,7 @@ export function AbaEstudos(props: AbaEstudosProps) {
           AoClicarNoCartao={AoClicarNoCartao} 
           list={aprendidas} 
           defaultStatus='aprendido' 
+          ocultarBadgeTipo={ocultarBadgeTipo}
           actionBtns={(c) => (
             <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px', backgroundColor: '#f44336'}} onClick={() => SalvarPalavra(c, 'estudo')}>
               Reestudar

@@ -104,7 +104,7 @@ class TesseractService(ServicoOcrBase):
 
     Sem bindings nativos: a imagem vai num PNG temporário e o resultado volta em TSV pelo stdout,
     agrupado por linha em agruparLinhasTsv. Os pesos embutidos (tessdata_fast) moram em
-    tesseract\\tessdata ao lado do exe; os baixáveis (tessdata_best), em modelos\\Tesseract\\.
+    tesseract\\tessdata ao lado do exe; os baixáveis (tessdata_best), em motores_ocr\\Tesseract\\modelos\\.
     """
 
     def __init__(self) -> None:

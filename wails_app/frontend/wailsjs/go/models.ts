@@ -29,11 +29,26 @@ export namespace config {
 	    traducaoPausarPorCota: boolean;
 	    traducaoLimiteCotaPercent: number;
 	    traducaoUsarCache: boolean;
+	    geminiApiKey: string;
+	    geminiAtivo: boolean;
+	    geminiPopupResumo: boolean;
+	    geminiPopupLinha: boolean;
+	    geminiCantoResumo: string;
+	    geminiEnviarImagem: boolean;
+	    geminiPausarPorCota: boolean;
+	    geminiLimiteRequisicoesDia: number;
+	    geminiModelo: string;
 	    censurarJanelasDoApp: boolean;
 	    habilitarLeituraPinyin: boolean;
 	    lerPinyinAoAbrirPopup: boolean;
 	    lerPinyinAoExpandirCard: boolean;
+	    lerPinyinAoCompletarDesenho: boolean;
 	    motorTtsAtivo: string;
+	    priorizarEstudoRevisao: boolean;
+	    sonsRevisao: boolean;
+	    tipoHanziGerado: string;
+	    tipoHanziExibicao: string;
+	    restringirHanziDesenho: boolean;
 	
 	    static createFrom(source: any = {}) {
 	        return new Config(source);
@@ -69,11 +84,26 @@ export namespace config {
 	        this.traducaoPausarPorCota = source["traducaoPausarPorCota"];
 	        this.traducaoLimiteCotaPercent = source["traducaoLimiteCotaPercent"];
 	        this.traducaoUsarCache = source["traducaoUsarCache"];
+	        this.geminiApiKey = source["geminiApiKey"];
+	        this.geminiAtivo = source["geminiAtivo"];
+	        this.geminiPopupResumo = source["geminiPopupResumo"];
+	        this.geminiPopupLinha = source["geminiPopupLinha"];
+	        this.geminiCantoResumo = source["geminiCantoResumo"];
+	        this.geminiEnviarImagem = source["geminiEnviarImagem"];
+	        this.geminiPausarPorCota = source["geminiPausarPorCota"];
+	        this.geminiLimiteRequisicoesDia = source["geminiLimiteRequisicoesDia"];
+	        this.geminiModelo = source["geminiModelo"];
 	        this.censurarJanelasDoApp = source["censurarJanelasDoApp"];
 	        this.habilitarLeituraPinyin = source["habilitarLeituraPinyin"];
 	        this.lerPinyinAoAbrirPopup = source["lerPinyinAoAbrirPopup"];
 	        this.lerPinyinAoExpandirCard = source["lerPinyinAoExpandirCard"];
+	        this.lerPinyinAoCompletarDesenho = source["lerPinyinAoCompletarDesenho"];
 	        this.motorTtsAtivo = source["motorTtsAtivo"];
+	        this.priorizarEstudoRevisao = source["priorizarEstudoRevisao"];
+	        this.sonsRevisao = source["sonsRevisao"];
+	        this.tipoHanziGerado = source["tipoHanziGerado"];
+	        this.tipoHanziExibicao = source["tipoHanziExibicao"];
+	        this.restringirHanziDesenho = source["restringirHanziDesenho"];
 	    }
 	}
 
@@ -187,6 +217,7 @@ export namespace main {
 	    confianca: number;
 	    caixa: number[];
 	    imageId?: number;
+	    tipoHanzi: string;
 	
 	    static createFrom(source: any = {}) {
 	        return new FlashcardCard(source);
@@ -200,6 +231,21 @@ export namespace main {
 	        this.confianca = source["confianca"];
 	        this.caixa = source["caixa"];
 	        this.imageId = source["imageId"];
+	        this.tipoHanzi = source["tipoHanzi"];
+	    }
+	}
+	export class InfoCotaGemini {
+	    requisicoesUsadas: number;
+	    data: string;
+	
+	    static createFrom(source: any = {}) {
+	        return new InfoCotaGemini(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.requisicoesUsadas = source["requisicoesUsadas"];
+	        this.data = source["data"];
 	    }
 	}
 	export class InfoCotaTraducao {
@@ -372,6 +418,74 @@ export namespace main {
 	        this.ativo = source["ativo"];
 	    }
 	}
+	export class OpcaoRevisao {
+	    hanzi: string;
+	    pinyin: string;
+	    definicao: string;
+	    correta: boolean;
+	
+	    static createFrom(source: any = {}) {
+	        return new OpcaoRevisao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.hanzi = source["hanzi"];
+	        this.pinyin = source["pinyin"];
+	        this.definicao = source["definicao"];
+	        this.correta = source["correta"];
+	    }
+	}
+	export class QuestaoRevisao {
+	    modo: string;
+	    variante: string;
+	    hanzi: string;
+	    pinyin: string;
+	    definicao: string;
+	    emEstudo: boolean;
+	    fraseLacuna: string;
+	    fraseOriginal: string;
+	    fraseTraducao: string;
+	    fraseAtribuicao: string;
+	    opcoes: OpcaoRevisao[];
+	
+	    static createFrom(source: any = {}) {
+	        return new QuestaoRevisao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.modo = source["modo"];
+	        this.variante = source["variante"];
+	        this.hanzi = source["hanzi"];
+	        this.pinyin = source["pinyin"];
+	        this.definicao = source["definicao"];
+	        this.emEstudo = source["emEstudo"];
+	        this.fraseLacuna = source["fraseLacuna"];
+	        this.fraseOriginal = source["fraseOriginal"];
+	        this.fraseTraducao = source["fraseTraducao"];
+	        this.fraseAtribuicao = source["fraseAtribuicao"];
+	        this.opcoes = this.convertValues(source["opcoes"], OpcaoRevisao);
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
 	export class Resolucao {
 	    largura: number;
 	    altura: number;
@@ -451,6 +565,7 @@ export namespace progresso {
 	    Status: string;
 	    // Go type: time
 	    DataAdd: any;
+	    tipoHanzi: string;
 	
 	    static createFrom(source: any = {}) {
 	        return new Vocab(source);
@@ -464,6 +579,7 @@ export namespace progresso {
 	        this.Significado = source["Significado"];
 	        this.Status = source["Status"];
 	        this.DataAdd = this.convertValues(source["DataAdd"], null);
+	        this.tipoHanzi = source["tipoHanzi"];
 	    }
 	
 		convertValues(a: any, classs: any, asMap: boolean = false): any {

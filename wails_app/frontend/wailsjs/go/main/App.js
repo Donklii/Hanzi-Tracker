@@ -10,6 +10,10 @@ export function AddVocab(arg1, arg2, arg3, arg4) {
   return window['go']['main']['App']['AddVocab'](arg1, arg2, arg3, arg4);
 }
 
+export function AvaliarTipoHanzi(arg1) {
+  return window['go']['main']['App']['AvaliarTipoHanzi'](arg1);
+}
+
 export function BaixarModelo(arg1) {
   return window['go']['main']['App']['BaixarModelo'](arg1);
 }
@@ -20,6 +24,14 @@ export function BaixarMotor(arg1) {
 
 export function BaixarMotorTts(arg1) {
   return window['go']['main']['App']['BaixarMotorTts'](arg1);
+}
+
+export function BuscarCaracteresCompostosPor(arg1) {
+  return window['go']['main']['App']['BuscarCaracteresCompostosPor'](arg1);
+}
+
+export function BuscarNoDicionarioGeral(arg1) {
+  return window['go']['main']['App']['BuscarNoDicionarioGeral'](arg1);
 }
 
 export function BuscarPorPinyin(arg1) {
@@ -38,6 +50,10 @@ export function DecomposeCharacter(arg1) {
   return window['go']['main']['App']['DecomposeCharacter'](arg1);
 }
 
+export function DespertarMotorTts() {
+  return window['go']['main']['App']['DespertarMotorTts']();
+}
+
 export function ExcluirTudo() {
   return window['go']['main']['App']['ExcluirTudo']();
 }
@@ -52,6 +68,10 @@ export function GetCaptureResolution() {
 
 export function GetConfig() {
   return window['go']['main']['App']['GetConfig']();
+}
+
+export function GetCotaGemini() {
+  return window['go']['main']['App']['GetCotaGemini']();
 }
 
 export function GetCotaTraducao() {
@@ -110,8 +130,24 @@ export function MarcarVistoSilencioso(arg1) {
   return window['go']['main']['App']['MarcarVistoSilencioso'](arg1);
 }
 
+export function ObterDadosEscritaHanzi(arg1) {
+  return window['go']['main']['App']['ObterDadosEscritaHanzi'](arg1);
+}
+
+export function ObterQuestoesRevisao(arg1, arg2) {
+  return window['go']['main']['App']['ObterQuestoesRevisao'](arg1, arg2);
+}
+
 export function ObterTotalHanzisDicionario() {
   return window['go']['main']['App']['ObterTotalHanzisDicionario']();
+}
+
+export function PararPreCacheTts() {
+  return window['go']['main']['App']['PararPreCacheTts']();
+}
+
+export function PreCarregarCacheTts(arg1) {
+  return window['go']['main']['App']['PreCarregarCacheTts'](arg1);
 }
 
 export function RemoveVocab(arg1) {

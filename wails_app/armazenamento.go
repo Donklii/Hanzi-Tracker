@@ -4,10 +4,12 @@ import (
 	"fmt"
 	"os"
 	"os/exec"
-	"path/filepath"
 	"strings"
 
 	"github.com/shirou/gopsutil/v3/disk"
+	"wails_app/armazenamento"
+	"wails_app/motoresocr"
+	"wails_app/motorestts"
 	"wails_app/progresso"
 )
 
@@ -31,128 +33,33 @@ type StorageInfo struct {
 	PastaDados string              `json:"pastaDados"`
 }
 
-// ----- Caminhos -----
-
-func pastaDados() string {
-	appData, err := os.UserConfigDir()
-	if err != nil {
-		return ""
-	}
-	return filepath.Join(appData, "HanziTracker")
-}
-
-// pastaModelos é a raiz dos pesos de OCR (%APPDATA%\HanziTracker\modelos). Cada motor guarda os seus
-// numa subpasta dedicada (ex.: modelos\RapidOCR) para não colidir com os pesos de outros motores.
-// A aba de Armazenamento mede/limpa a raiz, englobando todos os motores.
-func pastaModelos() string {
-	return filepath.Join(pastaDados(), "modelos")
-}
-
-// pastaModelosMotor é a subpasta de pesos de UM motor (modelos\<NomeDeCatálogo>, ex.: modelos\RapidOCR).
-// O mesmo nome é injetado no sidecar via HANZITRACKER_MOTOR (motor_ocr.go), então o Python lê os pesos
-// exatamente onde o Go os baixa — deve casar com obterPastaModelos() do GerenciadorModelosModule.py.
-func pastaModelosMotor(nomeMotor string) string {
-	return filepath.Join(pastaModelos(), nomeMotor)
-}
-
-func pastaEasyOcr() string {
-	home, err := os.UserHomeDir()
-	if err != nil {
-		return ""
-	}
-	return filepath.Join(home, ".EasyOCR")
-}
-
-func pastaCachePip() string {
-	local := os.Getenv("LOCALAPPDATA")
-	if local == "" {
-		return ""
-	}
-	return filepath.Join(local, "pip", "Cache")
-}
-
-func caminhoBanco() string {
-	return filepath.Join(pastaDados(), "progresso.db")
-}
-
-// ----- Medição -----
-
-// tamanhoCaminho soma o tamanho de um arquivo ou de todos os arquivos de uma pasta (recursivo).
-func tamanhoCaminho(caminho string) int64 {
-	if caminho == "" {
-		return 0
-	}
-	info, err := os.Stat(caminho)
-	if err != nil {
-		return 0
-	}
-	if !info.IsDir() {
-		return info.Size()
-	}
-
-	var total int64
-	filepath.Walk(caminho, func(_ string, fi os.FileInfo, err error) error {
-		if err == nil && fi != nil && !fi.IsDir() {
-			total += fi.Size()
-		}
-		return nil
-	})
-	return total
-}
-
-// tamanhoLogs soma o tamanho dos arquivos .log na pasta de dados.
-func tamanhoLogs() int64 {
-	var total int64
-	entradas, err := os.ReadDir(pastaDados())
-	if err != nil {
-		return 0
-	}
-	for _, e := range entradas {
-		if e.IsDir() || !strings.HasSuffix(strings.ToLower(e.Name()), ".log") {
-			continue
-		}
-		if info, err := e.Info(); err == nil {
-			total += info.Size()
-		}
-	}
-	return total
-}
-
 // ----- Métodos expostos ao frontend -----
 
 // GetStorageInfo retorna o uso de disco por categoria e o espaço livre no volume.
 func (a *App) GetStorageInfo() StorageInfo {
-	itens := []ItemArmazenamento{
-		{
-			Chave:     "modelos_onnx",
-			Rotulo:    "Modelos de OCR",
-			Descricao: "Modelos de reconhecimento baixados sob demanda.",
-			Caminho:   pastaModelos(),
-			Bytes:     tamanhoCaminho(pastaModelos()),
-			Limpavel:  true,
-		},
-	}
+	var itens []ItemArmazenamento
 
-	// Motores de OCR baixados (sidecars). Só aparece quando há algum baixado.
-	if b := tamanhoCaminho(pastaMotores()); b > 0 {
+	// Motores de OCR baixados (sidecars + os pesos de cada um, agora dentro de motores_ocr\<Motor>\modelos).
+	// Só aparece quando há algum baixado.
+	if b := armazenamento.TamanhoCaminho(motoresocr.PastaMotoresOcr()); b > 0 {
 		itens = append(itens, ItemArmazenamento{
-			Chave:     "motores",
+			Chave:     "motores_ocr",
 			Rotulo:    "Motores de OCR",
-			Descricao: "Programas de reconhecimento baixados. Limpar remove os motores inativos (mantém o ativo e o overlay).",
-			Caminho:   pastaMotores(),
+			Descricao: "Programas de reconhecimento e seus modelos baixados. Limpar remove os motores inativos (mantém o ativo e o overlay).",
+			Caminho:   motoresocr.PastaMotoresOcr(),
 			Bytes:     b,
 			Limpavel:  true,
 		})
 	}
 
-	// Motores de voz (TTS) baixados. Só aparece quando há algum baixado. Os PESOS deles (baixados
-	// do Hugging Face para modelos\<Motor>\hf) já entram na categoria de modelos acima.
-	if b := tamanhoCaminho(pastaMotoresTts()); b > 0 {
+	// Motores de voz (TTS) baixados (sidecars + os pesos de cada um, baixados do Hugging Face para
+	// motores_tts\<Motor>\modelos\hf). Só aparece quando há algum baixado.
+	if b := armazenamento.TamanhoCaminho(motorestts.PastaMotoresTts()); b > 0 {
 		itens = append(itens, ItemArmazenamento{
 			Chave:     "motores_tts",
 			Rotulo:    "Motores de Voz",
-			Descricao: "Programas de leitura em voz alta baixados. Limpar remove todos (a leitura volta a pedir download).",
-			Caminho:   pastaMotoresTts(),
+			Descricao: "Programas de leitura em voz alta e seus modelos baixados. Limpar remove todos (a leitura volta a pedir download).",
+			Caminho:   motorestts.PastaMotoresTts(),
 			Bytes:     b,
 			Limpavel:  true,
 		})
@@ -161,22 +68,22 @@ func (a *App) GetStorageInfo() StorageInfo {
 	// Categorias de ambiente de desenvolvimento (modelos EasyOCR e cache de instalação) só fazem
 	// sentido quando existem: no app distribuído já compilado normalmente nem aparecem, evitando
 	// expor tecnicalidades ao usuário final.
-	if b := tamanhoCaminho(pastaEasyOcr()); b > 0 {
+	if b := armazenamento.TamanhoCaminho(armazenamento.PastaEasyOcr()); b > 0 {
 		itens = append(itens, ItemArmazenamento{
 			Chave:     "modelos_easyocr",
 			Rotulo:    "Modelos do EasyOCR",
 			Descricao: "Pesos do motor EasyOCR, baixados ao usá-lo.",
-			Caminho:   pastaEasyOcr(),
+			Caminho:   armazenamento.PastaEasyOcr(),
 			Bytes:     b,
 			Limpavel:  true,
 		})
 	}
-	if b := tamanhoCaminho(pastaCachePip()); b > 0 {
+	if b := armazenamento.TamanhoCaminho(armazenamento.PastaCachePip()); b > 0 {
 		itens = append(itens, ItemArmazenamento{
 			Chave:     "cache_pip",
 			Rotulo:    "Cache de instalação",
 			Descricao: "Arquivos temporários de instalação de componentes. Seguro apagar.",
-			Caminho:   pastaCachePip(),
+			Caminho:   armazenamento.PastaCachePip(),
 			Bytes:     b,
 			Limpavel:  true,
 		})
@@ -188,7 +95,7 @@ func (a *App) GetStorageInfo() StorageInfo {
 			Chave:     "cache_traducao",
 			Rotulo:    "Cache de Tradução",
 			Descricao: "Textos traduzidos para não gastar cota em repetições.",
-			Caminho:   caminhoBanco() + " (Tabela interna)",
+			Caminho:   armazenamento.CaminhoBanco() + " (Tabela interna)",
 			Bytes:     tamanhoCacheTraducao,
 			Limpavel:  true,
 		})
@@ -200,7 +107,7 @@ func (a *App) GetStorageInfo() StorageInfo {
 			Chave:     "cache_tts",
 			Rotulo:    "Cache de Áudio (Voz)",
 			Descricao: "Falas já sintetizadas, para repetições saírem instantâneas e sem custo de CPU.",
-			Caminho:   caminhoBanco() + " (Tabela interna)",
+			Caminho:   armazenamento.CaminhoBanco() + " (Tabela interna)",
 			Bytes:     tamanhoCacheTts,
 			Limpavel:  true,
 		})
@@ -211,16 +118,16 @@ func (a *App) GetStorageInfo() StorageInfo {
 			Chave:     "logs",
 			Rotulo:    "Logs de erro",
 			Descricao: "Arquivos de log gerados quando algo falha.",
-			Caminho:   pastaDados(),
-			Bytes:     tamanhoLogs(),
+			Caminho:   armazenamento.PastaDados(),
+			Bytes:     armazenamento.TamanhoLogs(),
 			Limpavel:  true,
 		},
 		ItemArmazenamento{
 			Chave:     "banco",
 			Rotulo:    "Banco de vocabulário",
 			Descricao: "Suas palavras vistas, em estudo e aprendidas. Apagar zera o progresso!",
-			Caminho:   caminhoBanco(),
-			Bytes:     tamanhoCaminho(caminhoBanco()),
+			Caminho:   armazenamento.CaminhoBanco(),
+			Bytes:     armazenamento.TamanhoCaminho(armazenamento.CaminhoBanco()),
 			Limpavel:  true,
 			Perigoso:  true,
 		},
@@ -234,10 +141,10 @@ func (a *App) GetStorageInfo() StorageInfo {
 	info := StorageInfo{
 		Itens:      itens,
 		TotalBytes: total,
-		PastaDados: pastaDados(),
+		PastaDados: armazenamento.PastaDados(),
 	}
 
-	if uso, err := disk.Usage(pastaDados()); err == nil {
+	if uso, err := disk.Usage(armazenamento.PastaDados()); err == nil {
 		info.DiscoLivre = int64(uso.Free)
 		info.DiscoTotal = int64(uso.Total)
 	}
@@ -247,7 +154,7 @@ func (a *App) GetStorageInfo() StorageInfo {
 
 // AbrirPastaDados abre a pasta de dados do app no Explorer.
 func (a *App) AbrirPastaDados() error {
-	pasta := pastaDados()
+	pasta := armazenamento.PastaDados()
 	if err := os.MkdirAll(pasta, 0755); err != nil {
 		return err
 	}
@@ -257,18 +164,16 @@ func (a *App) AbrirPastaDados() error {
 // LimparArmazenamento apaga os dados de uma categoria pela chave.
 func (a *App) LimparArmazenamento(chave string) error {
 	switch chave {
-	case "modelos_onnx":
-		return limparPasta(pastaModelos())
-	case "motores":
+	case "motores_ocr":
 		return a.limparMotores()
 	case "motores_tts":
 		return a.limparMotoresTts()
 	case "modelos_easyocr":
-		return os.RemoveAll(pastaEasyOcr())
+		return os.RemoveAll(armazenamento.PastaEasyOcr())
 	case "cache_pip":
-		return os.RemoveAll(pastaCachePip())
+		return os.RemoveAll(armazenamento.PastaCachePip())
 	case "logs":
-		return limparLogs()
+		return armazenamento.LimparLogs()
 	case "cache_traducao":
 		return progresso.LimparCacheTraducao()
 	case "cache_tts":
@@ -285,22 +190,19 @@ func (a *App) LimparArmazenamento(chave string) error {
 func (a *App) ExcluirTudo() error {
 	var erros []string
 
-	if err := limparPasta(pastaModelos()); err != nil {
-		erros = append(erros, fmt.Sprintf("modelos ONNX: %v", err))
-	}
 	if err := a.limparMotores(); err != nil {
 		erros = append(erros, fmt.Sprintf("motores: %v", err))
 	}
 	if err := a.limparMotoresTts(); err != nil {
 		erros = append(erros, fmt.Sprintf("motores de voz: %v", err))
 	}
-	if err := os.RemoveAll(pastaEasyOcr()); err != nil {
+	if err := os.RemoveAll(armazenamento.PastaEasyOcr()); err != nil {
 		erros = append(erros, fmt.Sprintf("modelos EasyOCR: %v", err))
 	}
-	if err := os.RemoveAll(pastaCachePip()); err != nil {
+	if err := os.RemoveAll(armazenamento.PastaCachePip()); err != nil {
 		erros = append(erros, fmt.Sprintf("cache pip: %v", err))
 	}
-	if err := limparLogs(); err != nil {
+	if err := armazenamento.LimparLogs(); err != nil {
 		erros = append(erros, fmt.Sprintf("logs: %v", err))
 	}
 	if err := progresso.LimparCacheTraducao(); err != nil {
@@ -315,46 +217,6 @@ func (a *App) ExcluirTudo() error {
 
 	if len(erros) > 0 {
 		return fmt.Errorf("alguns itens não puderam ser apagados — %s", strings.Join(erros, "; "))
-	}
-	return nil
-}
-
-// ----- Auxiliares de remoção -----
-
-// limparPasta apaga o conteúdo de uma pasta, mas mantém a pasta em si.
-func limparPasta(pasta string) error {
-	entradas, err := os.ReadDir(pasta)
-	if err != nil {
-		// Guard clause: pasta inexistente já está "limpa"
-		if os.IsNotExist(err) {
-			return nil
-		}
-		return err
-	}
-	for _, e := range entradas {
-		if err := os.RemoveAll(filepath.Join(pasta, e.Name())); err != nil {
-			return err
-		}
-	}
-	return nil
-}
-
-// limparLogs remove apenas os arquivos .log da pasta de dados.
-func limparLogs() error {
-	entradas, err := os.ReadDir(pastaDados())
-	if err != nil {
-		if os.IsNotExist(err) {
-			return nil
-		}
-		return err
-	}
-	for _, e := range entradas {
-		if e.IsDir() || !strings.HasSuffix(strings.ToLower(e.Name()), ".log") {
-			continue
-		}
-		if err := os.Remove(filepath.Join(pastaDados(), e.Name())); err != nil {
-			return err
-		}
 	}
 	return nil
 }

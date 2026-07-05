@@ -36,11 +36,26 @@ type Config struct {
 	TraducaoPausarPorCota       bool    `json:"traducaoPausarPorCota"`
 	TraducaoLimiteCotaPercent   float64 `json:"traducaoLimiteCotaPercent"`
 	TraducaoUsarCache           bool    `json:"traducaoUsarCache"`
+	GeminiApiKey                string  `json:"geminiApiKey"`
+	GeminiAtivo                 bool    `json:"geminiAtivo"`
+	GeminiPopupResumo           bool    `json:"geminiPopupResumo"`
+	GeminiPopupLinha            bool    `json:"geminiPopupLinha"`
+	GeminiCantoResumo           string  `json:"geminiCantoResumo"`
+	GeminiEnviarImagem          bool    `json:"geminiEnviarImagem"`
+	GeminiPausarPorCota         bool    `json:"geminiPausarPorCota"`
+	GeminiLimiteRequisicoesDia  int     `json:"geminiLimiteRequisicoesDia"`
+	GeminiModelo                string  `json:"geminiModelo"`
 	CensurarJanelasDoApp        bool    `json:"censurarJanelasDoApp"`
 	HabilitarLeituraPinyin      bool    `json:"habilitarLeituraPinyin"`
 	LerPinyinAoAbrirPopup       bool    `json:"lerPinyinAoAbrirPopup"`
 	LerPinyinAoExpandirCard     bool    `json:"lerPinyinAoExpandirCard"`
+	LerPinyinAoCompletarDesenho bool    `json:"lerPinyinAoCompletarDesenho"`
 	MotorTtsAtivo               string  `json:"motorTtsAtivo"`
+	PriorizarEstudoRevisao      bool    `json:"priorizarEstudoRevisao"` // revisão sorteia primeiro os hanzis em estudo
+	SonsRevisao                 bool    `json:"sonsRevisao"`            // jingles de acerto/erro/conclusão na revisão
+	TipoHanziGerado             string  `json:"tipoHanziGerado"`        // "ambos", "tradicional", "simplificado"
+	TipoHanziExibicao           string  `json:"tipoHanziExibicao"`      // "ambos", "tradicional", "simplificado"
+	RestringirHanziDesenho      bool    `json:"restringirHanziDesenho"` // aplica a regra de exibição na busca por desenho
 }
 
 func DefaultConfig() Config {
@@ -73,11 +88,26 @@ func DefaultConfig() Config {
 		TraducaoPausarPorCota:       true,
 		TraducaoLimiteCotaPercent:   90,
 		TraducaoUsarCache:           true,
+		GeminiApiKey:                "",
+		GeminiAtivo:                 false,
+		GeminiPopupResumo:           true,
+		GeminiPopupLinha:            false,
+		GeminiCantoResumo:           "inferior-direito",
+		GeminiEnviarImagem:          false,
+		GeminiPausarPorCota:         true,
+		GeminiLimiteRequisicoesDia:  1500,
+		GeminiModelo:                "gemini-2.5-flash",
 		CensurarJanelasDoApp:        true,
 		HabilitarLeituraPinyin:      false,
 		LerPinyinAoAbrirPopup:       false,
 		LerPinyinAoExpandirCard:     false,
+		LerPinyinAoCompletarDesenho: true,
 		MotorTtsAtivo:               "Kokoro-82M",
+		PriorizarEstudoRevisao:      true,
+		SonsRevisao:                 true,
+		TipoHanziGerado:             "ambos",
+		TipoHanziExibicao:           "simplificado",
+		RestringirHanziDesenho:      true,
 	}
 }
 

@@ -33,7 +33,7 @@ class ChatTtsService(ServicoTtsBase):
 
         chat = ChatTTS.Chat()
         # source="huggingface": baixa os pesos do repositório 2Noise/ChatTTS para o cache HF (que o
-        # entry redireciona a modelos/<Motor>/hf) na primeira carga; nas seguintes, lê do cache.
+        # entry redireciona a motores_tts/<Motor>/modelos/hf) na primeira carga; nas seguintes, lê do cache.
         if not chat.load(source="huggingface", compile=False):
             raise RuntimeError(
                 "Falha ao carregar os modelos do ChatTTS — download do Hugging Face incompleto? "

@@ -3,12 +3,10 @@ package main
 import (
 	"bytes"
 	"context"
-	"crypto/md5"
-	"crypto/sha256"
 	"encoding/base64"
-	"encoding/hex"
 	"encoding/json"
 	"fmt"
+	"hash/fnv"
 	"image"
 	"image/draw"
 	"image/png"
@@ -28,85 +26,20 @@ import (
 
 	"github.com/kbinani/screenshot"
 	"github.com/wailsapp/wails/v2/pkg/runtime"
+	"wails_app/baixador"
 	"wails_app/config"
 	"wails_app/dicionario"
+	"wails_app/motoresocr"
+	"wails_app/motorestts"
 	"wails_app/progresso"
 	"wails_app/segmentacao"
 )
-
-// enderecoBasePython devolve a base URL do microserviço Python de OCR. A porta é definida
-// dinamicamente pelo orquestrador (main.go) e repassada via HANZITRACKER_OCR_PORT; o 8080 é apenas
-// um fallback para quando o app é executado avulso, fora do orquestrador.
-func enderecoBasePython() string {
-	porta := os.Getenv("HANZITRACKER_OCR_PORT")
-	if porta == "" {
-		porta = "8080"
-	}
-	return "http://localhost:" + porta
-}
-
-// VersaoContratoOcr é a versão do contrato da API de OCR que este app entende (ver docs/CONTRATO-OCR.md).
-// O healthcheck recusa um sidecar cujo `versaoContrato` seja maior (contrato mais novo do que o app sabe
-// falar), evitando engatar um motor incompatível.
-const VersaoContratoOcr = 1
-
-// RespostaHealth espelha o JSON de GET /api/health do backend de OCR.
-type RespostaHealth struct {
-	Status         string `json:"status"`
-	Servico        string `json:"servico"`
-	Motor          string `json:"motor"`
-	VersaoContrato int    `json:"versaoContrato"`
-}
-
-// aguardarBackendOcr aguarda o backend de OCR responder GET /api/health com status "ok" e um contrato
-// compatível, tentando repetidamente até `timeout`. Devolve nil quando o motor está pronto, ou um erro
-// descritivo (timeout ou contrato incompatível). É a base para o app só marcar o motor como pronto
-// depois que o sidecar realmente subiu (Fase 5, Passo 1).
-func aguardarBackendOcr(timeout time.Duration) error {
-	cliente := &http.Client{Timeout: 2 * time.Second}
-	prazo := time.Now().Add(timeout)
-	var ultimoErro error
-
-	for time.Now().Before(prazo) {
-		resp, err := cliente.Get(enderecoBasePython() + "/api/health")
-		if err != nil {
-			ultimoErro = err // ainda subindo: aguarda e re-tenta
-			time.Sleep(300 * time.Millisecond)
-			continue
-		}
-
-		var saude RespostaHealth
-		errDecode := json.NewDecoder(resp.Body).Decode(&saude)
-		resp.Body.Close()
-		if errDecode != nil {
-			ultimoErro = errDecode
-			time.Sleep(300 * time.Millisecond)
-			continue
-		}
-
-		// Guard clause: contrato mais novo do que o app sabe falar — não engata (evita motor incompatível).
-		if saude.VersaoContrato > VersaoContratoOcr {
-			return fmt.Errorf("motor de OCR fala o contrato v%d, mas o app só entende até v%d — atualize o app", saude.VersaoContrato, VersaoContratoOcr)
-		}
-
-		if saude.Status == "ok" {
-			return nil
-		}
-		ultimoErro = fmt.Errorf("motor respondeu status %q", saude.Status)
-		time.Sleep(300 * time.Millisecond)
-	}
-
-	if ultimoErro == nil {
-		ultimoErro = fmt.Errorf("sem resposta")
-	}
-	return fmt.Errorf("backend de OCR não ficou pronto em %s: %w", timeout, ultimoErro)
-}
 
 // LinhaTraduzida armazena a tradução de uma linha OCR inteira (antes da segmentação em palavras).
 type LinhaTraduzida struct {
 	Texto    string    `json:"texto"`
 	Traducao string    `json:"traducao"` // "" se não traduzida (feature off, cota estourada ou erro de API)
-	Caixa    []float64 `json:"caixa"`     // caixa da LINHA inteira (res.Caixa), NÃO repartida por palavra
+	Caixa    []float64 `json:"caixa"`    // caixa da LINHA inteira (res.Caixa), NÃO repartida por palavra
 }
 
 // InfoCotaTraducao é o DTO exposto ao frontend com o estado de cota de tradução.
@@ -123,22 +56,32 @@ type App struct {
 	Config        config.Config
 	Cedict        *dicionario.Cedict
 	BancoHanzi    *dicionario.BancoMakeMeAHanzi
+	BancoFrases   *dicionario.BancoFrases   // frases Tatoeba p/ revisão por contexto (carga preguiçosa)
+	BancoTracados *dicionario.BancoTracados // traçados Hanzi Writer p/ revisão de desenho (carga preguiçosa)
 	lastImageHash string
 	mu            sync.RWMutex
 	lastCards     []FlashcardCard
 	lastLinhas    []LinhaTraduzida
+	lastImagemPng []byte // última captura JÁ CENSURADA, guardada para o modo resumo do Gemini poder enviar a imagem
 
 	popupsTodosVisivel bool
 
 	// motorOcr é dono do ciclo de vida do processo de OCR (subir/derrubar/trocar). A posse migrou do
 	// orquestrador (main.go) para o app para permitir trocar de motor em runtime (Fase 5, Passo 1).
-	motorOcr *GerenciadorMotorOcr
+	motorOcr *motoresocr.GerenciadorMotorOcr
 
 	// motorTts é dono do ciclo de vida do processo de TTS (Kokoro-82M/ChatTTS). Criado
 	// PREGUIÇOSAMENTE na primeira leitura em voz alta (garantirMotorTts) — nil até lá. ttsMutex
 	// serializa as leituras e protege essa criação (ver tts.go).
-	motorTts *GerenciadorMotorTts
+	motorTts *motorestts.GerenciadorMotorTts
 	ttsMutex sync.Mutex
+
+	// Pré-carregamento do cache de TTS (ver tts_precache.go): sintetiza EM LOTE a fala de todas as
+	// palavras dos dicionários. Um lote longo por vez — preCacheTtsAtivo barra reentrância e
+	// preCacheTtsCancelar sinaliza o cancelamento cooperativo. Protegidos por preCacheTtsMutex.
+	preCacheTtsMutex    sync.Mutex
+	preCacheTtsAtivo    bool
+	preCacheTtsCancelar chan struct{}
 }
 
 // NewApp creates a new App application struct
@@ -172,9 +115,11 @@ func NewApp() *App {
 	}
 
 	return &App{
-		Config:     cfg,
-		Cedict:     cedict,
-		BancoHanzi: bancoHanzi,
+		Config:        cfg,
+		Cedict:        cedict,
+		BancoHanzi:    bancoHanzi,
+		BancoFrases:   dicionario.NovoBancoFrases(),
+		BancoTracados: dicionario.NovoBancoTracados(),
 	}
 }
 
@@ -188,9 +133,19 @@ func (a *App) RemoveVocab(hanzi string) error {
 	return progresso.RemoveVocab(hanzi)
 }
 
-// GetVocab
+// AvaliarTipoHanzi retorna o tipo do hanzi para o frontend ("Tradicional", "Simplificado" ou "Ambos")
+func (a *App) AvaliarTipoHanzi(hanzi string) string {
+	return a.Cedict.AvaliarTipoHanzi(hanzi)
+}
+
 func (a *App) GetVocab() ([]progresso.Vocab, error) {
-	return progresso.GetAllVocab()
+	v, err := progresso.GetAllVocab()
+	if err == nil {
+		for i := range v {
+			v[i].TipoHanzi = a.Cedict.AvaliarTipoHanzi(v[i].Hanzi)
+		}
+	}
+	return v, err
 }
 
 // GetConfig returns the current configuration
@@ -259,66 +214,43 @@ func (a *App) mostrarTodosPopups() {
 	copy(cardsCopia, a.lastCards)
 	a.mu.RUnlock()
 
+	// Desvio para Gemini: se ativo, tem chave e temos linhas, tentamos exibir pelo Gemini primeiro.
+	if a.Config.GeminiAtivo && a.Config.GeminiApiKey != "" && len(linhasCopia) > 0 {
+		if a.Config.GeminiPopupResumo {
+			if a.mostrarResumoGemini(linhasCopia, bounds.Min.X, bounds.Min.Y, bounds.Dx(), bounds.Dy()) {
+				return
+			}
+		} else if a.Config.GeminiPopupLinha {
+			if a.mostrarPopupsLinhaGemini(linhasCopia, offX, offY, bounds.Dx(), bounds.Dy()) {
+				return
+			}
+		}
+	}
+
 	// Modo LINHA: se a tradução está ativa e há pelo menos uma linha com tradução não-vazia,
 	// mostra um pop-up por LINHA (Hanzi = texto original, Sig = tradução, Pinyin = "").
-	if a.Config.TraducaoAtiva && a.Config.TraducaoApiKey != "" && len(linhasCopia) > 0 {
+	if !a.Config.GeminiAtivo && a.Config.TraducaoAtiva && a.Config.TraducaoApiKey != "" && len(linhasCopia) > 0 {
+		a.traduzirLinhasPendentes(linhasCopia)
+
 		var itens []overlay.ItemPopup
 		temTraducao := false
-
 		for i := range linhasCopia {
 			l := &linhasCopia[i]
-
-			if !contemHanzi(l.Texto) {
+			if l.Traducao == "" {
 				continue
 			}
-
-			if l.Traducao == "" {
-				var traduzida bool
-				var traducaoLinha string
-
-				if a.Config.TraducaoUsarCache {
-					if cached, achou, err := progresso.BuscarTraducaoCache(l.Texto); err == nil && achou {
-						traducaoLinha = cached
-						traduzida = true
-					}
-				}
-
-				if !traduzida {
-					podeChamarAPI := true
-					if a.Config.TraducaoPausarPorCota {
-						if traducao.CotaExcedida(a.Config.TraducaoLimiteCotaPercent) {
-							podeChamarAPI = false
-						}
-					}
-
-					if podeChamarAPI {
-						if trad, err := traducao.Traduzir(a.Config.TraducaoApiKey, l.Texto, "pt"); err == nil && trad != "" {
-							traducaoLinha = trad
-							_ = traducao.RegistrarUso(len([]rune(l.Texto)))
-							if a.Config.TraducaoUsarCache {
-								_ = progresso.SalvarTraducaoCache(l.Texto, trad)
-							}
-						} else if err != nil {
-							fmt.Printf("Aviso: tradução falhou para linha: %v\n", err)
-						}
-					}
-				}
-				l.Traducao = traducaoLinha
-			}
-
-			if l.Traducao != "" {
-				temTraducao = true
-				if len(l.Caixa) == 4 {
-					itens = append(itens, overlay.ItemPopup{
-						Pinyin: "",
-						Hanzi:  l.Texto,
-						Sig:    l.Traducao,
-						X0:     int(l.Caixa[0]) + offX,
-						Y0:     int(l.Caixa[1]) + offY,
-						X1:     int(l.Caixa[2]) + offX,
-						Y1:     int(l.Caixa[3]) + offY,
-					})
-				}
+			temTraducao = true
+			if len(l.Caixa) == 4 {
+				itens = append(itens, overlay.ItemPopup{
+					Pinyin:     "",
+					Hanzi:      "",
+					Sig:        l.Traducao,
+					SoTraducao: true,
+					X0:         int(l.Caixa[0]) + offX,
+					Y0:         int(l.Caixa[1]) + offY,
+					X1:         int(l.Caixa[2]) + offX,
+					Y1:         int(l.Caixa[3]) + offY,
+				})
 			}
 		}
 
@@ -351,6 +283,61 @@ func (a *App) mostrarTodosPopups() {
 // ocultarTodosPopups remove todos os pop-ups exibidos pelo "mostrar pop-up de tudo".
 func (a *App) ocultarTodosPopups() {
 	overlay.OcultarTodos()
+	overlay.OcultarResumo()
+}
+
+// traduzirLinhasPendentes preenche in place a Traducao das linhas com hanzi que ainda não a têm:
+// primeiro pelo cache (se ligado) e depois com UMA chamada em LOTE à API — a cota é cobrada por
+// caractere, então o lote custa o mesmo que N chamadas sequenciais e o pop-up aparece muito mais
+// rápido. Falha de API apenas deixa as traduções vazias (o chamador ignora linhas sem tradução).
+func (a *App) traduzirLinhasPendentes(linhas []LinhaTraduzida) {
+	var pendentes []int
+	for i := range linhas {
+		l := &linhas[i]
+		if !contemHanzi(l.Texto) || l.Traducao != "" {
+			continue
+		}
+
+		if a.Config.TraducaoUsarCache {
+			if cached, achou, err := progresso.BuscarTraducaoCache(l.Texto); err == nil && achou {
+				l.Traducao = cached
+				continue
+			}
+		}
+		pendentes = append(pendentes, i)
+	}
+
+	// Guard clauses: nada a traduzir, ou a pausa por cota barrou a chamada de API.
+	if len(pendentes) == 0 {
+		return
+	}
+	if a.Config.TraducaoPausarPorCota && traducao.CotaExcedida(a.Config.TraducaoLimiteCotaPercent) {
+		return
+	}
+
+	textos := make([]string, len(pendentes))
+	totalCaracteres := 0
+	for j, idx := range pendentes {
+		textos[j] = linhas[idx].Texto
+		totalCaracteres += len([]rune(linhas[idx].Texto))
+	}
+
+	traducoes, err := traducao.TraduzirLote(a.Config.TraducaoApiKey, textos, "pt")
+	if err != nil {
+		fmt.Printf("Aviso: tradução em lote falhou: %v\n", err)
+		return
+	}
+	_ = traducao.RegistrarUso(totalCaracteres)
+
+	for j, idx := range pendentes {
+		if traducoes[j] == "" {
+			continue
+		}
+		linhas[idx].Traducao = traducoes[j]
+		if a.Config.TraducaoUsarCache {
+			_ = progresso.SalvarTraducaoCache(linhas[idx].Texto, traducoes[j])
+		}
+	}
 }
 
 // ShowHighlight desenha uma borda ao redor de uma área específica
@@ -476,12 +463,18 @@ func (a *App) startup(ctx context.Context) {
 	a.StartBackgroundLoop()
 	fmt.Println("Backend Go Inicializado.")
 
+	// Aplica a escolha de motores feita na tela custom do instalador (ver instalador.go), ANTES de
+	// resolver/bootstrapar o motor — é o que faz bootstrapMotorPadrao baixar o motor ESCOLHIDO em vez
+	// do padrão do catálogo. No-op silencioso em builds de dev (sem instalador, sem marcador).
+	a.aplicarEscolhaDoInstalador()
+
 	// O app é dono do processo de OCR (subir/derrubar/trocar). Todo motor é um EXECUTÁVEL — baixado no
 	// AppData ou empacotado num bundle ao lado do app; NÃO há mais fallback para `python server.py`
-	// (tudo é modular/baixável). resolverMotorInicial escolhe o motor preferido/padrão instalado ou o
-	// bundle; se NADA existe (first-run), o bootstrap baixa+instala+ativa o RapidOCR padrão sozinho.
-	a.motorOcr = NovoGerenciadorMotorOcr()
-	if desc, ok := resolverMotorInicial(a.Config.MotorOcrAtivo); ok {
+	// (tudo é modular/baixável). motoresocr.ResolverMotorInicial escolhe o motor preferido/padrão
+	// instalado ou o bundle; se NADA existe (first-run), o bootstrap baixa+instala+ativa o RapidOCR
+	// padrão sozinho.
+	a.motorOcr = motoresocr.NovoGerenciadorMotorOcr()
+	if desc, ok := motoresocr.ResolverMotorInicial(a.Config.MotorOcrAtivo); ok {
 		if err := a.motorOcr.Iniciar(desc); err != nil {
 			fmt.Printf("Aviso: falha ao subir o backend de OCR: %v\n", err)
 		}
@@ -489,7 +482,7 @@ func (a *App) startup(ctx context.Context) {
 		// Espera o motor responder o healthcheck antes de anunciá-lo pronto. Roda em segundo plano
 		// para não travar a UI; o frontend ouve "ocr_pronto"/"ocr_indisponivel".
 		go func() {
-			if err := aguardarBackendOcr(30 * time.Second); err != nil {
+			if err := motoresocr.AguardarBackend(30 * time.Second); err != nil {
 				fmt.Printf("Aviso: motor de OCR indisponível: %v\n", err)
 				runtime.EventsEmit(a.ctx, "ocr_indisponivel", err.Error())
 				return
@@ -507,8 +500,6 @@ func (a *App) startup(ctx context.Context) {
 		go a.bootstrapMotorPadrao()
 	}
 }
-
-
 
 // Resolucao representa a resolução (em px) do monitor de captura.
 type Resolucao struct {
@@ -677,7 +668,7 @@ type ModeloOcrInfo struct {
 
 // ListarModelos retorna o catálogo de modelos de OCR e seu estado (instalado/embutido)
 func (a *App) ListarModelos() ([]ModeloOcrInfo, error) {
-	resp, err := http.Get(enderecoBasePython() + "/api/modelos")
+	resp, err := http.Get(motoresocr.EnderecoBase() + "/api/modelos")
 	if err != nil {
 		return nil, fmt.Errorf("falha ao buscar modelos do Python: %w", err)
 	}
@@ -721,7 +712,7 @@ func (a *App) BaixarModelo(nome string) error {
 		return fmt.Errorf("nenhum motor de OCR ativo para receber o modelo '%s'", nome)
 	}
 
-	destino := pastaModelosMotor(motorAtivo)
+	destino := motoresocr.PastaModelosMotor(motorAtivo)
 	if err := os.MkdirAll(destino, 0755); err != nil {
 		return fmt.Errorf("falha ao criar a pasta de modelos: %w", err)
 	}
@@ -746,102 +737,23 @@ func (a *App) BaixarModelo(nome string) error {
 func (a *App) baixarArquivoModelo(arq ArquivoModelo, destino, caminho string, onProgresso func(string)) error {
 	// Guard clause: peso publicado direto (o caso comum, ex.: .onnx e .traineddata).
 	if !strings.EqualFold(filepath.Ext(arq.Url), ".zip") || strings.EqualFold(filepath.Ext(arq.Nome), ".zip") {
-		return a.baixarArquivo(arq.Url, caminho, arq.Sha256, onProgresso)
+		return baixador.BaixarArquivo(arq.Url, caminho, arq.Sha256, onProgresso)
 	}
 
 	zipLocal := caminho + ".zip"
-	if err := a.baixarArquivo(arq.Url, zipLocal, arq.Sha256, onProgresso); err != nil {
+	if err := baixador.BaixarArquivo(arq.Url, zipLocal, arq.Sha256, onProgresso); err != nil {
 		return err
 	}
 	defer os.Remove(zipLocal)
 
 	onProgresso(fmt.Sprintf("Extraindo %s…", arq.Nome))
-	if err := extrairZip(zipLocal, destino); err != nil {
+	if err := baixador.ExtrairZip(zipLocal, destino); err != nil {
 		return fmt.Errorf("falha ao extrair o peso %s: %w", arq.Nome, err)
 	}
 	if _, err := os.Stat(caminho); err != nil {
 		return fmt.Errorf("o zip baixado não continha o arquivo esperado (%s)", arq.Nome)
 	}
 	return nil
-}
-
-// baixarArquivo baixa uma URL para um caminho local de forma atômica (.tmp + rename), reportando o
-// progresso via callback `onProgresso` (o chamador escolhe o evento — modelos vs. motores). Se
-// `sha256Esperado` estiver preenchido, o hash é calculado durante o streaming e conferido antes de
-// renomear; divergência aborta o download e apaga o .tmp (evita peso corrompido/adulterado). Vazio =
-// verificação pulada (torna-se OBRIGATÓRIO ao baixar executáveis — ver motores.go).
-func (a *App) baixarArquivo(url, caminhoLocal, sha256Esperado string, onProgresso func(string)) error {
-	if onProgresso == nil {
-		onProgresso = func(string) {}
-	}
-	resp, err := http.Get(url)
-	if err != nil {
-		return fmt.Errorf("falha ao baixar %s: %w", filepath.Base(caminhoLocal), err)
-	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != 200 {
-		return fmt.Errorf("download de %s retornou HTTP %d", filepath.Base(caminhoLocal), resp.StatusCode)
-	}
-
-	temp := caminhoLocal + ".tmp"
-	f, err := os.Create(temp)
-	if err != nil {
-		return err
-	}
-
-	// Calcula o sha256 no mesmo passo da escrita (streaming), sem reler o arquivo do disco.
-	hasher := sha256.New()
-
-	total := resp.ContentLength
-	nomeArq := filepath.Base(caminhoLocal)
-	var baixado int64
-	buf := make([]byte, 64*1024)
-	ultimoPct := -1
-	for {
-		n, errRead := resp.Body.Read(buf)
-		if n > 0 {
-			if _, errWrite := f.Write(buf[:n]); errWrite != nil {
-				f.Close()
-				os.Remove(temp)
-				return errWrite
-			}
-			hasher.Write(buf[:n])
-			baixado += int64(n)
-			if total > 0 {
-				pct := int(baixado * 100 / total)
-				if pct != ultimoPct {
-					ultimoPct = pct
-					onProgresso(fmt.Sprintf("Baixando %s (%d%%)…", nomeArq, pct))
-				}
-			}
-		}
-		if errRead == io.EOF {
-			break
-		}
-		if errRead != nil {
-			f.Close()
-			os.Remove(temp)
-			return errRead
-		}
-	}
-
-	if err := f.Close(); err != nil {
-		os.Remove(temp)
-		return err
-	}
-
-	// Verificação de integridade: só quando o manifesto declara o hash esperado.
-	if sha256Esperado != "" {
-		hashObtido := hex.EncodeToString(hasher.Sum(nil))
-		if !strings.EqualFold(hashObtido, sha256Esperado) {
-			os.Remove(temp)
-			return fmt.Errorf("integridade de %s falhou: sha256 esperado %s, obtido %s", nomeArq, sha256Esperado, hashObtido)
-		}
-		onProgresso(fmt.Sprintf("%s verificado (sha256 ✓)", nomeArq))
-	}
-
-	return os.Rename(temp, caminhoLocal)
 }
 
 // RemoverModelo apaga os arquivos de um modelo do AppData real, preservando arquivos que ainda são
@@ -872,7 +784,7 @@ func (a *App) RemoverModelo(nome string) error {
 		return fmt.Errorf("nenhum motor de OCR ativo para remover o modelo '%s'", nome)
 	}
 
-	destino := pastaModelosMotor(motorAtivo)
+	destino := motoresocr.PastaModelosMotor(motorAtivo)
 	for _, arq := range alvo.Arquivos {
 		if usadosPorOutros[arq.Nome] {
 			continue // compartilhado: preserva
@@ -907,6 +819,7 @@ type FlashcardCard struct {
 	Confianca    float64   `json:"confianca"`
 	Caixa        []float64 `json:"caixa"`
 	ImageId      int       `json:"imageId,omitempty"`
+	TipoHanzi    string    `json:"tipoHanzi"`
 }
 
 // CaptureAndOCR takes a screenshot and sends it to the Python OCR service
@@ -918,6 +831,10 @@ func (a *App) GetLastCards() []FlashcardCard {
 
 func (a *App) DecomposeCharacter(char string) *dicionario.DecomposicaoHanzi {
 	return a.BancoHanzi.Buscar(char)
+}
+
+func (a *App) BuscarCaracteresCompostosPor(char string) []string {
+	return a.BancoHanzi.BuscarCompostosPor(char)
 }
 
 func (a *App) CaractereCompleto(abrev string) string {
@@ -934,6 +851,54 @@ func (a *App) BuscarPorPinyin(pinyin string) []string {
 		return res[:30]
 	}
 	return res
+}
+
+// BuscarNoDicionarioGeral realiza uma pesquisa global combinando CEDICT e MakeMeAHanzi
+func (a *App) BuscarNoDicionarioGeral(termo string) []FlashcardCard {
+	var resultados []FlashcardCard
+	vistos := make(map[string]bool)
+
+	// Busca primeiro no MakeMeAHanzi (para garantir caracteres únicos de etimologia)
+	if a.BancoHanzi != nil {
+		entradasMake := a.BancoHanzi.BuscarGeral(termo)
+		for _, e := range entradasMake {
+			if !vistos[e.Caractere] {
+				vistos[e.Caractere] = true
+				
+				sigs := strings.Split(e.Definicao, ";")
+				for i := range sigs {
+					sigs[i] = strings.TrimSpace(sigs[i])
+				}
+				
+				resultados = append(resultados, FlashcardCard{
+					Hanzi:        e.Caractere,
+					Pinyin:       strings.Join(e.Pinyin, ", "),
+					Significados: sigs,
+					Confianca:    1.0,
+					TipoHanzi:    a.Cedict.AvaliarTipoHanzi(e.Caractere),
+				})
+			}
+		}
+	}
+
+	// Busca no CEDICT
+	if a.Cedict != nil {
+		entradas := a.Cedict.BuscarGeral(termo)
+		for _, e := range entradas {
+			if !vistos[e.Simplificado] {
+				vistos[e.Simplificado] = true
+				resultados = append(resultados, FlashcardCard{
+					Hanzi:        e.Simplificado,
+					Pinyin:       e.Pinyin,
+					Significados: e.Significados,
+					Confianca:    1.0,
+					TipoHanzi:    a.Cedict.AvaliarTipoHanzi(e.Simplificado),
+				})
+			}
+		}
+	}
+
+	return resultados
 }
 
 func (a *App) LookupWord(word string) []dicionario.EntradaDicionario {
@@ -988,7 +953,59 @@ func (a *App) MarcarVistoSilencioso(hanzi string) {
 		}
 	}
 	progresso.RegistrarVisto(hanzi, pinyin, sigStr)
+
+	a.registrarHanzisIndividuais(hanzi)
 }
+
+
+// registrarHanzisIndividuais desmembra uma palavra multi-caractere nos seus hanzis individuais
+// e registra cada um como 'visto' com pinyin/significado próprios. Não se aplica a componentes
+// de decomposição — apenas aos caracteres que formam a palavra no CEDICT.
+func (a *App) registrarHanzisIndividuais(palavra string) {
+	if utf8.RuneCountInString(palavra) <= 1 {
+		return
+	}
+
+	for _, r := range palavra {
+		if !unicode.Is(unicode.Han, r) {
+			continue
+		}
+
+		caractere := string(r)
+		pinyinChar, significadosChar := "", []string{}
+
+		if dec := a.BancoHanzi.Buscar(caractere); dec != nil && dec.Definicao != "" {
+			if len(dec.Pinyin) > 0 {
+				pinyinChar = strings.Join(dec.Pinyin, ", ")
+			}
+			significadosChar = []string{dec.Definicao}
+		}
+
+		if len(significadosChar) == 0 {
+			entradas := a.Cedict.Buscar(caractere)
+			if len(entradas) > 0 {
+				pinyinChar = entradas[0].Pinyin
+				significadosChar = entradas[0].Significados
+			}
+		}
+
+		sigStr := ""
+		if len(significadosChar) > 0 {
+			sigStr = significadosChar[0]
+			for i := 1; i < len(significadosChar); i++ {
+				sigStr += ", " + significadosChar[i]
+			}
+		}
+
+		progresso.RegistrarVisto(caractere, pinyinChar, sigStr)
+	}
+}
+
+// codificadorPng é o encoder compartilhado das capturas e dos crops. BestSpeed porque os PNGs ou
+// vão ao sidecar por localhost ou viram crops minúsculos de card — em ambos os casos o tamanho
+// extra é irrelevante e a compressão padrão gastava CPU visível a cada scan.
+var codificadorPng = png.Encoder{CompressionLevel: png.BestSpeed}
+var clienteHttpOcr = &http.Client{}
 
 // censurarRetangulo pinta de preto sólido a interseção entre `r` (coordenadas ABSOLUTAS de tela) e a
 // imagem `img`, cujo pixel (0,0) corresponde a (origemX, origemY) na tela — o canto superior esquerdo
@@ -1039,7 +1056,7 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 		alvo = 0
 	}
 	bounds := screenshot.GetDisplayBounds(alvo)
-	
+
 	var img *image.RGBA
 	var err error
 
@@ -1056,15 +1073,12 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 		return nil, fmt.Errorf("failed to capture screen: %w", err)
 	}
 
-	// Encode to PNG bytes
-	var buf bytes.Buffer
-	err = png.Encode(&buf, img)
-	if err != nil {
-		return nil, fmt.Errorf("failed to encode PNG: %w", err)
-	}
-
-	// Fingerprint check
-	hash := fmt.Sprintf("%x", md5.Sum(buf.Bytes()))
+	// Fingerprint nos PIXELS CRUS (FNV-1a), ANTES de codificar: no auto-scan o caso comum é a tela
+	// não ter mudado, e hashear os bytes do RGBA é muito mais barato que pagar a compressão PNG do
+	// frame inteiro só para descobrir isso. A censura já foi aplicada acima, então o hash a reflete.
+	hasher := fnv.New64a()
+	_, _ = hasher.Write(img.Pix)
+	hash := fmt.Sprintf("%x", hasher.Sum64())
 	if a.lastImageHash == hash {
 		a.mu.RLock()
 		cards := a.lastCards
@@ -1073,6 +1087,15 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	}
 	a.lastImageHash = hash
 
+	// Encode to PNG bytes. BestSpeed: a imagem vai ao sidecar por localhost, então o payload maior
+	// não custa nada — e a compressão padrão gastava dezenas de ms de CPU por scan.
+	var buf bytes.Buffer
+	err = codificadorPng.Encode(&buf, img)
+	if err != nil {
+		return nil, fmt.Errorf("failed to encode PNG: %w", err)
+	}
+	imagemPng := append([]byte(nil), buf.Bytes()...)
+
 	// A tela mudou: o overlay de "pop-up de tudo" ficou obsoleto, então o ocultamos.
 	if a.popupsTodosVisivel {
 		a.ocultarTodosPopups()
@@ -1080,7 +1103,7 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	}
 
 	// Send to Python API
-	req, err := http.NewRequest("POST", enderecoBasePython()+"/api/ocr", &buf)
+	req, err := http.NewRequest("POST", motoresocr.EnderecoBase()+"/api/ocr", &buf)
 	if err != nil {
 		return nil, fmt.Errorf("failed to create request: %w", err)
 	}
@@ -1108,8 +1131,7 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	}
 	req.Header.Set("X-Ocr-Max-Side", fmt.Sprintf("%d", realMaxSide))
 
-	client := &http.Client{}
-	resp, err := client.Do(req)
+	resp, err := clienteHttpOcr.Do(req)
 	if err != nil {
 		return nil, fmt.Errorf("failed to call Python API: %w", err)
 	}
@@ -1196,6 +1218,18 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 				if len(entradas) > 0 {
 					pinyin = entradas[0].Pinyin
 					significados = entradas[0].Significados
+					
+					// Conversão de acordo com a configuração de Tipo de Hanzi Gerado
+					tipoGeradoOcr := a.Config.TipoHanziGerado
+					if a.Config.TipoHanziExibicao != "" && a.Config.TipoHanziExibicao != "ambos" {
+						tipoGeradoOcr = a.Config.TipoHanziExibicao
+					}
+					
+					if tipoGeradoOcr == "simplificado" && entradas[0].Simplificado != "" {
+						p = entradas[0].Simplificado
+					} else if tipoGeradoOcr == "tradicional" && entradas[0].Tradicional != "" {
+						p = entradas[0].Tradicional
+					}
 				}
 			}
 
@@ -1236,7 +1270,7 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 
 				cropped := img.SubImage(rect)
 				var bufImg bytes.Buffer
-				if err := png.Encode(&bufImg, cropped); err == nil {
+				if err := codificadorPng.Encode(&bufImg, cropped); err == nil {
 					base64Img = base64.StdEncoding.EncodeToString(bufImg.Bytes())
 				}
 			}
@@ -1255,6 +1289,7 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 				Confianca:    res.Confianca,
 				Caixa:        caixaCard,
 				ImageId:      imgId,
+				TipoHanzi:    a.Cedict.AvaliarTipoHanzi(p),
 			})
 
 			// Salvar no histórico de "Já Vistas"
@@ -1266,12 +1301,14 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 				}
 			}
 			progresso.RegistrarVisto(p, pinyin, sigStr)
+			a.registrarHanzisIndividuais(p)
 		}
 	}
 
 	a.mu.Lock()
 	a.lastCards = cards
 	a.lastLinhas = linhas
+	a.lastImagemPng = imagemPng
 	a.mu.Unlock()
 	return cards, nil
 }

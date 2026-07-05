@@ -1,0 +1,17 @@
+{
+  "tag": "motores-v1",
+  "artefatos": {
+    "ocr_server.zip": {
+      "sha256": "290de20931bf8cc4c9a4887685df1884f468a8ba79e5fea626037ae555054875",
+      "tamanhoBytes": 126066360
+    },
+    "tesseract_server.zip": {
+      "sha256": "3904412594afa69f7e4fab01af4142202c5761224ecf41778971e59ab0022b9f",
+      "tamanhoBytes": 104055930
+    },
+    "easyocr_server.zip": {
+      "sha256": "90baf98b9f1314ca2bdaf3f5ef383a97aa0647579cc44b27938b57d5e43d20a4",
+      "tamanhoBytes": 253364151
+    }
+  }
+}

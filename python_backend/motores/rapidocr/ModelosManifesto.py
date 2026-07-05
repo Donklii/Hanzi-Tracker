@@ -1,6 +1,6 @@
 # ----- Manifesto de Modelos de OCR Baixáveis -----
 # Catálogo dos modelos ONNX (RapidOCR / PP-OCR) que podem ser baixados sob demanda
-# para %APPDATA%\HanziTracker\modelos. Apenas modelos ONNX entram aqui: são arquivos
+# para %APPDATA%\HanziTracker\motores_ocr\RapidOCR\modelos. Apenas modelos ONNX entram aqui: são arquivos
 # puros e funcionam mesmo no executável compilado (.exe), ao contrário de engines pip
 # (EasyOCR, onnxruntime-directml/gpu), que não podem ser instalados num exe congelado.
 #

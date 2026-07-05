@@ -70,6 +70,7 @@ func (a *App) StartBackgroundLoop() {
 
 		// Goroutine separada para rastrear o mouse velozmente
 		go func() {
+			ultimoX, ultimoY := -1, -1
 			for {
 				select {
 				case <-a.ctx.Done():
@@ -77,11 +78,13 @@ func (a *App) StartBackgroundLoop() {
 				default:
 					cfg := a.Config
 					x, y, err := mouse.GetCursorPos()
-					if err == nil {
+					// mouse parado = evento redundante
+					if err == nil && (x != ultimoX || y != ultimoY) {
 						runtime.EventsEmit(a.ctx, "mouse_pos", map[string]interface{}{
 							"x": x,
 							"y": y,
 						})
+						ultimoX, ultimoY = x, y
 					}
 					
 					ms := cfg.IntervaloAtualizacaoHoverMs

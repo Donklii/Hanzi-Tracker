@@ -25,8 +25,9 @@ há por trás. Espelha o contrato de OCR (ver `CONTRATO-OCR.md`).
   (`garantirMotorTts`, em `tts.go`) — nunca no startup; a feature é opcional e desligada por padrão.
 - Pesos: **o próprio sidecar os baixa** do Hugging Face na primeira síntese (não há
   `ModelosManifesto.py` para TTS). O cache do HF é redirecionado pelo *entry* para
-  `<dados>/modelos/<Motor>/hf` (envs `HANZITRACKER_DATA_DIR` + `HANZITRACKER_MOTOR`), então os pesos
-  moram no AppData do app — mensuráveis/limpáveis pela aba Armazenamento.
+  `<dados>/motores_tts/<Motor>/modelos/hf` (envs `HANZITRACKER_DATA_DIR` + `HANZITRACKER_MOTOR`), então
+  os pesos moram DENTRO da pasta do próprio motor no AppData (mesma estrutura do OCR) — mensuráveis/
+  limpáveis pela aba Armazenamento junto com o executável.
 - CORS: todo endpoint responde `Access-Control-Allow-Origin: *` e trata `OPTIONS` (preflight).
 
 ## Endpoints

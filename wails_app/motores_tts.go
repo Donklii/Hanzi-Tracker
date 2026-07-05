@@ -6,64 +6,15 @@ import (
 	"path/filepath"
 	"sort"
 	"strings"
+
+	"wails_app/armazenamento"
+	"wails_app/baixador"
+	"wails_app/motorestts"
 )
 
 // ----- Ciclo de vida dos MOTORES de TTS (sidecars baixáveis) -----
-// Baixa/extrai/remove os motores de voz publicados (ver motores_tts_manifesto.go) em
-// %APPDATA%\HanziTracker\motores_tts\<Motor>\. Espelha motores.go (motores de OCR), reaproveitando
-// baixarEExtrairArtefato (escrita atômica + verificação sha256 + pré-checagem de disco). A pasta é
-// SEPARADA de motores\ porque limparMotores() preserva apenas o motor de OCR ativo — misturar os
-// dois faria a limpeza de OCR apagar um motor de voz instalado.
-
-// ----- Caminhos -----
-
-// pastaMotoresTts é a raiz dos executáveis dos motores de voz (%APPDATA%\HanziTracker\motores_tts).
-func pastaMotoresTts() string {
-	return filepath.Join(pastaDados(), "motores_tts")
-}
-
-// pastaMotorTts é a subpasta de UM motor de voz (o zip é extraído aqui; o .exe fica na raiz dela).
-func pastaMotorTts(nome string) string {
-	return filepath.Join(pastaMotoresTts(), nome)
-}
-
-// caminhoExecutavelMotorTts é o caminho completo do .exe de um motor de voz instalado.
-func caminhoExecutavelMotorTts(m MotorTtsBaixavel) string {
-	return filepath.Join(pastaMotorTts(m.Nome), m.Executavel)
-}
-
-// ----- Resolução do motor a subir -----
-
-// descritorMotorTtsInstalado devolve como rodar um motor de voz JÁ BAIXADO no AppData (ok=false se
-// ausente).
-func descritorMotorTtsInstalado(m MotorTtsBaixavel) (DescritorMotorTts, bool) {
-	exe := caminhoExecutavelMotorTts(m)
-	info, err := os.Stat(exe)
-	if err != nil || info.IsDir() {
-		return DescritorMotorTts{}, false
-	}
-	abs, err := filepath.Abs(exe)
-	if err != nil {
-		abs = exe
-	}
-	return DescritorMotorTts{Nome: m.Rotulo + " (instalado)", Catalogo: m.Nome, Comando: abs}, true
-}
-
-// resolverMotorTts resolve como subir o motor de voz `nome`, na ordem: (1) instalado no AppData;
-// (2) sidecar em bundle ao lado do app (build local). Devolve ok=false quando o motor não está
-// disponível — sinal para a UI pedir o download em "Gerenciar Motores de Voz". Diferente do OCR,
-// NÃO há bootstrap automático: a feature é opcional e desligada por padrão, então o download é
-// sempre uma ação explícita do usuário.
-func resolverMotorTts(nome string) (DescritorMotorTts, bool) {
-	m, ok := ObterMotorTtsBaixavel(nome)
-	if !ok {
-		return DescritorMotorTts{}, false
-	}
-	if desc, ok := descritorMotorTtsInstalado(m); ok {
-		return desc, true
-	}
-	return resolverMotorTtsBundle(m)
-}
+// Expõe ao frontend o catálogo e o ciclo de vida (download/extração/remoção) donos do pacote
+// motorestts, em %APPDATA%\HanziTracker\motores_tts\<Motor>\.
 
 // ----- API exposta ao frontend -----
 
@@ -90,9 +41,9 @@ func (a *App) ListarMotoresTts() []MotorTtsInfo {
 		ativoCmd = filepath.Clean(a.motorTts.ComandoAtivo())
 	}
 
-	lista := make([]MotorTtsInfo, 0, len(MotoresTtsBaixaveis))
-	for _, m := range MotoresTtsBaixaveis {
-		exe := caminhoExecutavelMotorTts(m)
+	lista := make([]MotorTtsInfo, 0, len(motorestts.MotoresTtsBaixaveis))
+	for _, m := range motorestts.MotoresTtsBaixaveis {
+		exe := motorestts.CaminhoExecutavelMotorTts(m)
 		instalado := false
 		if info, err := os.Stat(exe); err == nil && !info.IsDir() {
 			instalado = true
@@ -100,13 +51,13 @@ func (a *App) ListarMotoresTts() []MotorTtsInfo {
 		// Um bundle local (builds/build_sidecars_tts.ps1) também conta como instalado para a UI: dá para usar
 		// o motor sem baixar nada.
 		if !instalado {
-			if _, ok := resolverMotorTtsBundle(m); ok {
+			if _, ok := motorestts.ResolverMotorTts(m.Nome); ok {
 				instalado = true
 			}
 		}
 		ativo := false
 		if instalado && ativoCmd != "" && ativoCmd != "." {
-			if desc, ok := resolverMotorTts(m.Nome); ok && filepath.Clean(desc.Comando) == ativoCmd {
+			if desc, ok := motorestts.ResolverMotorTts(m.Nome); ok && filepath.Clean(desc.Comando) == ativoCmd {
 				ativo = true
 			}
 		}
@@ -129,11 +80,12 @@ func (a *App) ListarMotoresTts() []MotorTtsInfo {
 // BaixarMotorTts baixa e instala um motor de voz do catálogo no AppData (progresso via o mesmo
 // evento "motor_download_progresso" dos motores de OCR — a UI diferencia pelo nome).
 func (a *App) BaixarMotorTts(nome string) error {
-	m, ok := ObterMotorTtsBaixavel(nome)
+	m, ok := motorestts.ObterMotorTtsBaixavel(nome)
 	if !ok {
 		return fmt.Errorf("motor de voz '%s' não encontrado no catálogo", nome)
 	}
-	if err := a.baixarEExtrairArtefato(m.Artefato, pastaMotorTts(m.Nome), func(msg string) { a.emitirProgressoMotor(m.Nome, msg) }); err != nil {
+	destino := motorestts.PastaMotorTts(m.Nome)
+	if err := baixador.BaixarEExtrairArtefato(m.Artefato, destino, armazenamento.PastaDados(), func(msg string) { a.emitirProgressoMotor(m.Nome, msg) }); err != nil {
 		a.emitirProgressoMotor(m.Nome, "⚠️ "+err.Error())
 		return err
 	}
@@ -144,7 +96,7 @@ func (a *App) BaixarMotorTts(nome string) error {
 // processo antes (diferente do OCR, ficar sem TTS não quebra nada — a próxima leitura em voz alta
 // pede o download de novo).
 func (a *App) RemoverMotorTts(nome string) error {
-	m, ok := ObterMotorTtsBaixavel(nome)
+	m, ok := motorestts.ObterMotorTtsBaixavel(nome)
 	if !ok {
 		return fmt.Errorf("motor de voz '%s' não encontrado no catálogo", nome)
 	}
@@ -154,7 +106,7 @@ func (a *App) RemoverMotorTts(nome string) error {
 		a.motorTts.Encerrar()
 	}
 
-	pasta := pastaMotorTts(m.Nome)
+	pasta := motorestts.PastaMotorTts(m.Nome)
 	if _, err := os.Stat(pasta); os.IsNotExist(err) {
 		return nil // já removido
 	}
@@ -169,7 +121,7 @@ func (a *App) limparMotoresTts() error {
 		a.motorTts.Encerrar()
 	}
 
-	raiz := pastaMotoresTts()
+	raiz := motorestts.PastaMotoresTts()
 	entradas, err := os.ReadDir(raiz)
 	if err != nil {
 		if os.IsNotExist(err) {

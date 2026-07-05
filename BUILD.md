@@ -74,11 +74,15 @@ wails build   # instala/compila o frontend e gera HanziTracker.exe com os assets
 > O nome do executável (`HanziTracker.exe`) vem de `outputfilename` em `wails_app/wails.json`; a janela
 > tem o título "Hanzi Tracker" (definido em `wails_app/main.go`).
 
+> **Instalador Windows (NSIS):** gerado automaticamente por CI a cada push na `main` (build de teste) ou
+> tag `app-vN.N.N` (release estável), com uma tela de escolha de motor de OCR/voz — ver
+> [docs/PUBLICAR-APP.md](docs/PUBLICAR-APP.md).
+
 ## 3. Empacotamento final
 
 O **app Wails** é dono do backend de OCR e **resolve automaticamente** qual executável
 subir: `resolverMotorInicial` procura, nesta ordem, o motor **baixado no AppData**
-(`%APPDATA%\HanziTracker\motores\`, modelo padrão da Fase 5) e depois o sidecar congelado **ao lado do
+(`%APPDATA%\HanziTracker\motores_ocr\`, modelo padrão da Fase 5) e depois o sidecar congelado **ao lado do
 app** (bundle). **Não há mais fallback para `python server.py`** — todo motor é um executável
 (baixado ou em bundle); se nenhum existe, o app baixa o padrão (bootstrap). Os `python_backend/*.py`
 seguem sendo a *fonte* que os scripts em `builds/` congelam, mas não são executados pelo app. O orquestrador
@@ -101,9 +105,9 @@ HanziTracker/
 > o Python é **congelado** (sem o sandbox do Python da Store), então o `HanziTracker.exe` pode ser
 > aberto diretamente e sobe os sidecars por conta própria.
 
-> Caminhos procurados: motor baixado → `%APPDATA%\HanziTracker\motores\<Motor>\ocr_server.exe`; bundle →
+> Caminhos procurados: motor baixado → `%APPDATA%\HanziTracker\motores_ocr\<Motor>\ocr_server.exe`; bundle →
 > `ocr_server/ocr_server.exe`, `dist/ocr_server/ocr_server.exe` ou `ocr_server.exe`; overlay baixado →
-> `motores\_overlay\popup.exe`, bundle → `popup/popup.exe`, `dist/popup/popup.exe` ou `popup.exe`.
+> `motores_ocr\_overlay\popup.exe`, bundle → `popup/popup.exe`, `dist/popup/popup.exe` ou `popup.exe`.
 > Ausentes todos, o app faz o bootstrap (baixa o motor padrão + overlay e ativa).
 
 ## Comportamento da aceleração

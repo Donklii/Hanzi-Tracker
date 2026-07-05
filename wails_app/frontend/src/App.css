@@ -561,3 +561,459 @@ body {
   border-radius: 3px;
   height: 6px;
 }
+
+/* ============================================= */
+/* Seção: Revisão de Hanzis                      */
+/* ============================================= */
+
+.revisao-selecao-modos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  max-width: 640px;
+  margin: 20px auto;
+}
+
+.revisao-card-modo {
+  padding: 24px 20px;
+  border-radius: var(--raio-cartao);
+  border: 1px solid var(--cor-borda);
+  background-color: var(--cor-fundo-cartao);
+  color: var(--cor-texto-primario);
+  cursor: pointer;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: all 0.2s ease-in-out;
+}
+
+.revisao-card-modo:hover {
+  border-color: var(--cor-destaque);
+  transform: translateY(-2px);
+}
+
+.revisao-card-modo-icone {
+  color: var(--cor-destaque);
+}
+
+.revisao-card-modo-titulo {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.revisao-card-modo-descricao {
+  font-size: 12px;
+  color: var(--cor-texto-suave);
+  line-height: 1.5;
+}
+
+.revisao-opcoes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.revisao-opcao {
+  padding: 16px;
+  border-radius: var(--raio-botao);
+  border: 2px solid var(--cor-borda);
+  background-color: var(--cor-fundo-cartao);
+  color: var(--cor-texto-primario);
+  cursor: pointer;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 64px;
+  transition: border-color 0.15s ease-in-out, transform 0.1s ease-in-out;
+}
+
+.revisao-opcao:hover:not(:disabled) {
+  border-color: var(--cor-destaque);
+  transform: translateY(-1px);
+}
+
+.revisao-opcao:disabled {
+  cursor: default;
+}
+
+.revisao-opcao.hanzi {
+  font-size: 34px;
+  font-family: var(--fonte-hanzi);
+}
+
+.revisao-opcao.correta {
+  border-color: var(--cor-sucesso);
+  background-color: rgba(16, 185, 129, 0.08);
+}
+
+.revisao-opcao.errada {
+  border-color: var(--cor-perigo);
+  background-color: rgba(239, 68, 68, 0.08);
+  animation: revisao-tremor 0.3s ease-in-out;
+}
+
+.revisao-opcao-play {
+  font-size: 20px;
+  color: var(--cor-destaque);
+}
+
+.revisao-botao-audio {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  border-radius: 24px;
+  border: 1px solid var(--cor-borda);
+  background-color: var(--cor-fundo-cartao);
+  color: var(--cor-texto-primario);
+  cursor: pointer;
+  font-size: 15px;
+  transition: border-color 0.15s ease-in-out;
+}
+
+.revisao-botao-audio:hover:not(:disabled) {
+  border-color: var(--cor-destaque);
+}
+
+.revisao-botao-audio:disabled {
+  cursor: wait;
+  opacity: 0.7;
+}
+
+.revisao-botao-audio.tocando {
+  border-color: var(--cor-destaque);
+  animation: revisao-pulso 1s ease-in-out infinite;
+}
+
+.revisao-placar {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.revisao-placar-percentual {
+  font-size: 56px;
+  font-weight: bold;
+  color: var(--cor-destaque);
+}
+
+.revisao-placar-mensagem {
+  font-size: 18px;
+  color: var(--cor-texto-primario);
+  margin: 4px 0;
+}
+
+.revisao-placar-detalhe {
+  color: var(--cor-texto-suave);
+  margin: 8px 0 16px;
+}
+
+.revisao-placar-barra {
+  width: 260px;
+  height: 10px;
+  background-color: var(--cor-fundo-cartao);
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 0 auto 24px;
+}
+
+.revisao-placar-barra-preenchimento {
+  height: 100%;
+  background-color: var(--cor-destaque);
+  transition: width 0.6s ease-out;
+}
+
+.revisao-placar-acoes {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+@keyframes revisao-pulso {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.35); }
+  50% { box-shadow: 0 0 0 8px rgba(99, 102, 241, 0); }
+}
+
+@keyframes revisao-tremor {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-4px); }
+  75% { transform: translateX(4px); }
+}
+/* ============================================= */
+/* Seção: Revisão de Hanzis — Gamificação        */
+/* ============================================= */
+
+.revisao-container {
+  max-width: 640px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 210px); /* empurra o banner de feedback para o rodapé da área útil */
+}
+
+/* --- Topo: barra de progresso + chips --- */
+
+.revisao-topo {
+  margin-bottom: 20px;
+}
+
+.revisao-barra-progresso {
+  width: 100%;
+  height: 14px;
+  background-color: var(--cor-fundo-cartao);
+  border-radius: 7px;
+  overflow: hidden;
+}
+
+.revisao-barra-progresso-preenchimento {
+  height: 100%;
+  background: linear-gradient(90deg, var(--cor-sucesso), var(--cor-sucesso-hover));
+  border-radius: 7px;
+  transition: width 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.revisao-topo-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--cor-texto-suave);
+}
+
+.revisao-topo-contador {
+  font-weight: bold;
+}
+
+.revisao-chip {
+  padding: 2px 10px;
+  border-radius: 12px;
+  background-color: var(--cor-fundo-cartao);
+  border: 1px solid var(--cor-borda);
+  font-size: 12px;
+  font-weight: bold;
+  color: var(--cor-texto-secundario);
+}
+
+.revisao-chip-combo {
+  color: var(--cor-alerta);
+  border-color: var(--cor-alerta);
+  animation: revisao-bump 0.35s ease-out;
+}
+
+.revisao-chip-estudo {
+  color: var(--cor-destaque-hover);
+  border-color: var(--cor-destaque);
+}
+
+.revisao-dica-teclas {
+  margin-left: auto;
+  font-size: 10px;
+  opacity: 0.7;
+}
+
+/* --- Entrada da questão e enunciados --- */
+
+.revisao-questao {
+  animation: revisao-entrada 0.3s ease-out;
+}
+
+.revisao-hanzi-grande {
+  font-size: 96px;
+  font-family: var(--fonte-hanzi);
+  text-align: center;
+  margin: 20px 0;
+  animation: revisao-pop 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.revisao-enunciado-texto {
+  font-size: 22px;
+  text-align: center;
+  margin: 30px 0;
+}
+
+/* --- Banner de feedback fixo no rodapé (estilo Duolingo) --- */
+
+.revisao-banner {
+  position: sticky;
+  bottom: 12px;
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px 18px;
+  border-radius: var(--raio-cartao);
+  animation: revisao-banner-sobe 0.28s cubic-bezier(0.22, 1, 0.36, 1);
+  backdrop-filter: blur(4px);
+}
+
+.revisao-banner.acerto {
+  background-color: rgba(16, 185, 129, 0.14);
+  border: 2px solid var(--cor-sucesso);
+}
+
+.revisao-banner.erro {
+  background-color: rgba(239, 68, 68, 0.14);
+  border: 2px solid var(--cor-perigo);
+}
+
+.revisao-banner-icone {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: bold;
+  flex-shrink: 0;
+  color: #fff;
+}
+
+.revisao-banner.acerto .revisao-banner-icone { background-color: var(--cor-sucesso); }
+.revisao-banner.erro .revisao-banner-icone { background-color: var(--cor-perigo); }
+
+.revisao-banner-textos {
+  flex: 1;
+  min-width: 0;
+}
+
+.revisao-banner-titulo {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.revisao-banner.acerto .revisao-banner-titulo { color: var(--cor-sucesso-hover); }
+.revisao-banner.erro .revisao-banner-titulo { color: var(--cor-perigo-hover); }
+
+.revisao-banner-detalhe {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 4px;
+  font-size: 13px;
+  color: var(--cor-texto-secundario);
+}
+
+.revisao-banner-hanzi {
+  font-size: 24px;
+  font-family: var(--fonte-hanzi);
+  color: var(--cor-texto-primario);
+}
+
+.revisao-banner-pinyin {
+  color: var(--cor-pinyin);
+}
+
+.revisao-banner-continuar {
+  padding: 12px 28px;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: transform 0.08s ease-in-out, box-shadow 0.08s ease-in-out;
+}
+
+.revisao-banner-continuar.acerto {
+  background-color: var(--cor-sucesso);
+  box-shadow: 0 4px 0 rgba(6, 95, 70, 0.9); /* "3D" à la Duolingo */
+}
+
+.revisao-banner-continuar.erro {
+  background-color: var(--cor-perigo);
+  box-shadow: 0 4px 0 rgba(127, 29, 29, 0.9);
+}
+
+.revisao-banner-continuar:hover {
+  filter: brightness(1.1);
+}
+
+.revisao-banner-continuar:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+}
+
+/* --- Placar: estatísticas e confetes --- */
+
+.revisao-placar {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 20px;
+}
+
+.revisao-placar-estatisticas {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  margin: 0 0 24px;
+}
+
+.revisao-placar-estatistica {
+  background-color: var(--cor-fundo-cartao);
+  border: 1px solid var(--cor-borda);
+  border-radius: var(--raio-cartao);
+  padding: 12px 20px;
+  min-width: 110px;
+}
+
+.revisao-placar-estatistica-valor {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.revisao-placar-estatistica-rotulo {
+  font-size: 11px;
+  color: var(--cor-texto-suave);
+  margin-top: 2px;
+  text-transform: uppercase;
+}
+
+.revisao-confetes {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.revisao-confete {
+  position: absolute;
+  top: -12px;
+  border-radius: 2px;
+  opacity: 0;
+  animation-name: revisao-confete-cai;
+  animation-timing-function: ease-in;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+/* --- Animações --- */
+
+@keyframes revisao-entrada {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes revisao-pop {
+  from { opacity: 0; transform: scale(0.7); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes revisao-bump {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.35); }
+  100% { transform: scale(1); }
+}
+
+@keyframes revisao-banner-sobe {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes revisao-confete-cai {
+  0% { opacity: 1; transform: translateY(0) rotate(0deg); }
+  100% { opacity: 0.9; transform: translateY(420px) rotate(660deg); }
+}

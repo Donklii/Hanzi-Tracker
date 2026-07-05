@@ -4,20 +4,23 @@ import "fmt"
 
 // ----- Cache de áudio TTS -----
 // Espelha o traducao_cache.go: tabela dentro do progresso.db (não é arquivo próprio) que guarda o
-// WAV sintetizado por (hanzi, motor). Sínteses repetidas — hover no mesmo card, revisão — saem
-// instantâneas e sem custo de CPU do torch. A chave inclui o motor porque Kokoro e ChatTTS têm
-// vozes diferentes: trocar o select não pode servir o áudio do motor antigo.
+// WAV sintetizado por (pinyin, motor). A chave é o PINYIN (não o hanzi) de propósito: hanzis
+// homófonos (马/码/吗, todos "ma") têm a MESMA pronúncia, então compartilham um único áudio — a
+// tradução hanzi→pinyin é feita pelo chamador (App.traduzirHanziParaChaveTts). Sínteses repetidas —
+// hover no mesmo card, revisão — saem instantâneas e sem custo de CPU do torch. A chave inclui o
+// motor porque Kokoro e ChatTTS têm vozes diferentes: trocar o select não pode servir o áudio do
+// motor antigo.
 
-// BuscarAudioTts procura um áudio já sintetizado para o par (hanzi, motor).
+// BuscarAudioTts procura um áudio já sintetizado para o par (pinyin, motor).
 // Devolve os bytes do WAV, se achou, e um eventual erro de banco.
-func BuscarAudioTts(hanzi, motor string) (audio []byte, achou bool, err error) {
+func BuscarAudioTts(pinyin, motor string) (audio []byte, achou bool, err error) {
 	if db == nil {
 		return nil, false, fmt.Errorf("DB não inicializado")
 	}
 
 	err = db.QueryRow(
-		"SELECT audio FROM tts_audio_cache WHERE hanzi = ? AND motor = ?",
-		hanzi, motor,
+		"SELECT audio FROM tts_audio_cache WHERE pinyin = ? AND motor = ?",
+		pinyin, motor,
 	).Scan(&audio)
 
 	if err != nil {
@@ -31,17 +34,17 @@ func BuscarAudioTts(hanzi, motor string) (audio []byte, achou bool, err error) {
 	return audio, true, nil
 }
 
-// SalvarAudioTts armazena um áudio sintetizado no cache. Usa INSERT OR IGNORE para que a
-// constraint UNIQUE sirva de rede de segurança contra duplicatas. O chamador DEVE ter verificado
-// BuscarAudioTts ANTES.
-func SalvarAudioTts(hanzi, motor string, audio []byte) error {
+// SalvarAudioTts armazena um áudio sintetizado no cache, indexado pela pronúncia (pinyin, motor).
+// Usa INSERT OR IGNORE para que a constraint UNIQUE sirva de rede de segurança contra duplicatas. O
+// chamador DEVE ter verificado BuscarAudioTts ANTES.
+func SalvarAudioTts(pinyin, motor string, audio []byte) error {
 	if db == nil {
 		return fmt.Errorf("DB não inicializado")
 	}
 
 	_, err := db.Exec(
-		"INSERT OR IGNORE INTO tts_audio_cache (hanzi, motor, audio) VALUES (?, ?, ?)",
-		hanzi, motor, audio,
+		"INSERT OR IGNORE INTO tts_audio_cache (pinyin, motor, audio) VALUES (?, ?, ?)",
+		pinyin, motor, audio,
 	)
 	return err
 }

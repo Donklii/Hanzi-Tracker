@@ -42,15 +42,15 @@ NOME_PASTA_DADOS_APPDATA = "HanziTracker"
 
 
 def obterNomeMotor():
-    """Nome de catálogo DESTE motor (define a subpasta de pesos modelos/<Motor>). O Go injeta
-    HANZITRACKER_MOTOR ao subir o sidecar com o mesmo nome que usa em pastaModelosMotor(), garantindo
-    que o Python lê os pesos exatamente onde o Go os baixa. Fallback "RapidOCR" para execução avulsa
-    (dev) e para valores inválidos como segmento de pasta.
+    """Nome de catálogo DESTE motor: define a subpasta de pesos dele (motores_ocr/<Motor>/modelos no
+    OCR, motores_tts/<Motor>/modelos/hf no TTS). O Go injeta HANZITRACKER_MOTOR ao subir o sidecar com o mesmo
+    nome que usa em PastaModelosMotor(), garantindo que o Python lê os pesos exatamente onde o Go os
+    baixa. Fallback "RapidOCR" para execução avulsa (dev) e para valores inválidos como segmento de pasta.
     """
     nome = os.environ.get("HANZITRACKER_MOTOR", "").strip()
     # Guard clause: ausente, com separador de caminho (/ ou \, checados os DOIS explicitamente porque
     # os.path.basename só reconhece o do SO atual — no Linux do CI, "\" não seria separador e um valor
-    # como "..\fora" passaria batido) ou referência relativa (. / ..). Não pode escapar de modelos/.
+    # como "..\fora" passaria batido) ou referência relativa (. / ..). Não pode escapar da subpasta de pesos.
     if not nome or "/" in nome or "\\" in nome or nome in (".", ".."):
         return "RapidOCR"
     return nome

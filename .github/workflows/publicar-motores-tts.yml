@@ -1,11 +1,12 @@
 name: Publicar Motores (Voz/TTS)
 
-# Congela os sidecars de VOZ/TTS (builds/build_sidecars_tts.ps1) num runner Windows e publica os .zip
-# numa GitHub Release. Dispara ao empurrar uma tag "motores-tts-v*" (ou manualmente, informando a tag).
-# O sha256 de cada zip é escrito no resumo do job para você colar no manifesto
-# (wails_app/motores_tts_manifesto.go). Os motores de OCR têm workflow próprio: publicar-motores-ocr.yml
-# (tags "motores-v*") — as tags são separadas para uma release de voz não invalidar as URLs dos de OCR.
-# Ver docs/PUBLICAR-MOTORES.md. Windows-only porque o congelamento usa PyInstaller.
+# Congela os sidecars de VOZ/TTS (builds/build_sidecars_tts.ps1) num runner Windows, publica os .zip
+# numa GitHub Release e ATUALIZA O MANIFESTO automaticamente: reescreve
+# wails_app/motorestts/artefatos_tts.json (tag + sha256 + tamanho de cada zip), valida com `go test` e
+# commita no main. Dispara ao empurrar uma tag "motores-tts-v*" (ou manualmente, informando a tag). Os
+# motores de OCR têm workflow próprio: publicar-motores-ocr.yml (tags "motores-v*") — as tags são
+# separadas para uma release de voz não invalidar as URLs dos de OCR. Ver docs/PUBLICAR-MOTORES.md.
+# Windows-only porque o congelamento usa PyInstaller.
 
 on:
   push:
@@ -18,7 +19,7 @@ on:
         required: true
 
 permissions:
-  contents: write # criar a release e anexar os assets
+  contents: write # criar a release, anexar os assets e commitar o manifesto atualizado no main
 
 jobs:
   publicar:
@@ -32,11 +33,16 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Configurar Go (para validar o manifesto)
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: wails_app/go.mod
+
       - name: Congelar sidecars de voz (builds/build_sidecars_tts.ps1)
         shell: pwsh
         run: powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts.ps1
 
-      - name: sha256 dos artefatos (cole no manifesto)
+      - name: sha256 dos artefatos (referência no resumo do job)
         shell: pwsh
         run: |
           $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
@@ -59,3 +65,47 @@ jobs:
             python_backend/dist/kokoro_server.zip
             python_backend/dist/chattts_server.zip
           fail_on_unmatched_files: true
+
+      - name: Atualizar o manifesto (artefatos_tts.json)
+        shell: pwsh
+        run: |
+          $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
+          # A release foi buildada na tag (HEAD destacado). Volta para a ponta do branch padrão, onde o
+          # manifesto é commitado, para o app passar a apontar aos motores recém-publicados. Usa FETCH_HEAD
+          # (sempre setado pelo fetch) em vez de origin/main, que pode não ter sido atualizado pelo checkout.
+          git fetch origin main --depth=1
+          git checkout -B main FETCH_HEAD
+          # Recalcula sha256 + tamanho de cada zip e reescreve o JSON embutido (fonte dos campos voláteis).
+          # [ordered] mantém a ordem estável (diffs limpos); utf8NoBOM porque o json.Unmarshal do Go não
+          # tolera BOM.
+          $zips = @('kokoro_server.zip', 'chattts_server.zip')
+          $artefatos = [ordered]@{}
+          foreach ($nome in $zips) {
+            $caminho = "python_backend/dist/$nome"
+            if (-not (Test-Path $caminho)) { throw "artefato ausente para o manifesto: $caminho" }
+            $artefatos[$nome] = [ordered]@{
+              sha256       = (Get-FileHash $caminho -Algorithm SHA256).Hash.ToLower()
+              tamanhoBytes = (Get-Item $caminho).Length
+            }
+          }
+          $manifesto = [ordered]@{ tag = $tag; artefatos = $artefatos }
+          ($manifesto | ConvertTo-Json -Depth 5) | Set-Content -Path 'wails_app/motorestts/artefatos_tts.json' -Encoding utf8NoBOM
+
+      - name: Validar o manifesto (go test)
+        working-directory: wails_app
+        run: go test ./motorestts/...
+
+      - name: Commitar o manifesto atualizado no main
+        shell: pwsh
+        run: |
+          $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add wails_app/motorestts/artefatos_tts.json
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            Write-Host 'Manifesto de voz já estava atualizado; nada a commitar.'
+          } else {
+            git commit -m "chore(motores): aponta manifesto de voz para $tag [skip ci]"
+            git push origin main
+          }

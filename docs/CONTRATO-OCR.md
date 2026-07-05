@@ -20,7 +20,7 @@ há por trás.
   O **app** é dono do processo do motor e o sobe nessa porta (ou pede uma livre, se rodar avulso sem o
   orquestrador). Fallback `8080` só quando a variável não está definida.
 - Diretório de dados (leitura de pesos): repassado por `HANZITRACKER_DATA_DIR`; os pesos do motor
-  ficam em `<dados>/modelos/<Motor>/` (ex.: `modelos/RapidOCR/`). `<Motor>` é o **nome de catálogo**
+  ficam em `<dados>/motores_ocr/<Motor>/modelos/` (ex.: `motores_ocr/RapidOCR/modelos/`). `<Motor>` é o **nome de catálogo**
   do motor, injetado pelo orquestrador em `HANZITRACKER_MOTOR` ao subir o sidecar — o mesmo nome que o
   Go usa para **baixar** os pesos, então os dois lados concordam por construção. Fallback `RapidOCR`
   quando a variável está ausente (execução avulsa em dev).

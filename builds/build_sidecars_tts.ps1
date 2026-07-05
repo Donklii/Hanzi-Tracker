@@ -6,7 +6,7 @@
 #
 # Uso (de qualquer pasta):  powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts.ps1
 # Os PESOS dos modelos NAO sao embutidos: o proprio sidecar os baixa do Hugging Face na primeira
-# sintese (cache HF redirecionado para modelos\<Motor>\hf) — ver docs/CONTRATO-TTS.md.
+# sintese (cache HF redirecionado para motores_tts\<Motor>\modelos\hf) — ver docs/CONTRATO-TTS.md.
 # Saida: python_backend/dist/{kokoro_server,chattts_server}.zip (+ sha256 no fim).
 
 $ErrorActionPreference = "Stop"
@@ -78,4 +78,4 @@ foreach ($p in $pares) {
     Write-Host ("    sha256:        {0}" -f $hash)
 }
 Write-Host ""
-Write-Host "Concluido. Publique os .zip conforme docs/PUBLICAR-MOTORES.md e cole o sha256 no manifesto (wails_app/motores_tts_manifesto.go)." -ForegroundColor Cyan
+Write-Host "Concluido. Via CI (tag motores-tts-vN) o manifesto e atualizado sozinho. Manualmente: cole tag/sha256/tamanho em wails_app/motorestts/artefatos_tts.json (ver docs/PUBLICAR-MOTORES.md)." -ForegroundColor Cyan

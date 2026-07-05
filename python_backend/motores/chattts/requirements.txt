@@ -3,6 +3,7 @@
 # torch do PyPI já é o build de CPU — sem CUDA, que foi descartado por custo/benefício (TODO.md).
 #
 # Os PESOS (~1 GB) não vêm do pip: o próprio sidecar os baixa do Hugging Face (2Noise/ChatTTS) na
-# primeira síntese, para modelos\ChatTTS\hf.
+# primeira síntese, para motores_tts\ChatTTS\modelos\hf.
 
 chattts>=0.2.1
+requests

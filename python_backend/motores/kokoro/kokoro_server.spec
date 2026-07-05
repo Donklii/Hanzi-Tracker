@@ -1,7 +1,7 @@
 # -*- mode: python ; coding: utf-8 -*-
 # Congela o microserviço de TTS do Kokoro-82M (kokoro_server.py) como sidecar autônomo, com o
 # PyTorch de CPU embutido. Os PESOS não vão no pacote: o próprio sidecar os baixa do Hugging Face
-# na primeira síntese, para modelos\Kokoro-82M\hf (cache HF redirecionado pelo entry).
+# na primeira síntese, para motores_tts\Kokoro-82M\modelos\hf (cache HF redirecionado pelo entry).
 # Ver docs/CONTRATO-TTS.md. Rode via build_sidecars.ps1. Saída (onedir): dist/kokoro_server/
 # kokoro_server.exe — relativa ao diretório de INVOCAÇÃO do PyInstaller (python_backend), não de
 # onde este spec mora.

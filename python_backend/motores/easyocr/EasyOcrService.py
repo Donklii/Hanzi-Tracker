@@ -22,7 +22,7 @@ class EasyOcrService(ServicoOcrBase):
 
     O sidecar é congelado com o torch de CPU — sem variante CUDA (descartada por custo/benefício,
     como no RapidOCR; ver Fase 5 no TODO.md). Os pesos NÃO vêm embutidos: o Go os baixa para
-    modelos\\EasyOCR\\ e aqui o Reader só os lê (download_enabled=False).
+    motores_ocr\\EasyOCR\\modelos\\ e aqui o Reader só os lê (download_enabled=False).
     """
 
     def __init__(self) -> None:

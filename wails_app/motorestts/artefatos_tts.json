@@ -1,0 +1,13 @@
+{
+  "tag": "motores-tts-v1",
+  "artefatos": {
+    "kokoro_server.zip": {
+      "sha256": "ffa854a22ac1e588735871d29963190b5492a6e75d17f640f715cd4e49a5daf9",
+      "tamanhoBytes": 300639897
+    },
+    "chattts_server.zip": {
+      "sha256": "abf2c7beaec876b0d28518d4a9feb97c963ada78f53399cfadee2ed7d79649d9",
+      "tamanhoBytes": 281014992
+    }
+  }
+}

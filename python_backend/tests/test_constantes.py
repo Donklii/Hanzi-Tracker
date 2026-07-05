@@ -1,6 +1,6 @@
 # ----- Testes das constantes/ambiente do backend -----
 # Cobre obterNomeMotor (principal/ConstantesModule.py): o nome de catálogo do motor vem de
-# HANZITRACKER_MOTOR (injetada pelo Go) e define a subpasta de pesos modelos/<Motor>.
+# HANZITRACKER_MOTOR (injetada pelo Go) e define a subpasta de pesos do motor (motores_ocr/<Motor>/modelos).
 
 from principal import ConstantesModule
 
@@ -23,7 +23,7 @@ def testarNomeMotorVazioCaiNoPadrao(monkeypatch):
 
 
 def testarNomeMotorComSeparadorEhRecusado(monkeypatch):
-    # Um valor com separador escaparia de modelos/ — cai no padrão em vez de virar caminho.
+    # Um valor com separador escaparia da subpasta de pesos — cai no padrão em vez de virar caminho.
     monkeypatch.setenv("HANZITRACKER_MOTOR", "..\\fora")
     assert ConstantesModule.obterNomeMotor() == "RapidOCR"
     monkeypatch.setenv("HANZITRACKER_MOTOR", "../fora")

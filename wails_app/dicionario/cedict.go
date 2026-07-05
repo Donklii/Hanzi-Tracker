@@ -105,6 +105,17 @@ func (c *Cedict) Buscar(palavra string) []EntradaDicionario {
 	return c.entradas[palavra]
 }
 
+// TodasPalavras devolve todas as formas escritas indexadas (simplificado e tradicional), sem
+// repetição. É a fonte de hanzis do pré-carregamento do cache de TTS (ver tts_precache.go): cada
+// forma vira uma síntese de fala.
+func (c *Cedict) TodasPalavras() []string {
+	palavras := make([]string, 0, len(c.entradas))
+	for palavra := range c.entradas {
+		palavras = append(palavras, palavra)
+	}
+	return palavras
+}
+
 // BuscarPorPinyin retorna uma lista de Hanzis simplificados que correspondem ao pinyin dado (sem tom/espaço)
 func (c *Cedict) BuscarPorPinyin(pinyin string) []string {
     cleanPinyin := strings.ToLower(pinyin)
@@ -112,6 +123,126 @@ func (c *Cedict) BuscarPorPinyin(pinyin string) []string {
         cleanPinyin = strings.ReplaceAll(cleanPinyin, num, "")
     }
     return c.pinyinIndex[cleanPinyin]
+}
+
+// BuscarGeral pesquisa em todo o dicionário por hanzi, pinyin ou significado (limite de 50)
+func (c *Cedict) BuscarGeral(termo string) []EntradaDicionario {
+	if termo == "" {
+		return nil
+	}
+	termoLower := strings.ToLower(termo)
+	cleanTermo := termoLower
+	for _, num := range []string{"1", "2", "3", "4", "5", " "} {
+		cleanTermo = strings.ReplaceAll(cleanTermo, num, "")
+	}
+
+	var priority []EntradaDicionario
+	var secondary []EntradaDicionario
+	vistos := make(map[string]bool)
+
+varredura:
+	for _, entradas := range c.entradas {
+		for _, e := range entradas {
+			isPriority := false
+			isSecondary := false
+
+			// Hanzi
+			if strings.Contains(e.Simplificado, termo) || strings.Contains(e.Tradicional, termo) {
+				isPriority = true
+			}
+			// Pinyin
+			if !isPriority {
+				pinyinClean := RemoverTonsPinyin(strings.ToLower(e.Pinyin))
+				pinyinClean = strings.ReplaceAll(pinyinClean, " ", "")
+				if strings.Contains(pinyinClean, cleanTermo) {
+					isPriority = true
+				}
+			}
+			// Significado
+			if !isPriority {
+				for _, sig := range e.Significados {
+					if strings.Contains(strings.ToLower(sig), termoLower) {
+						isSecondary = true
+						break
+					}
+				}
+			}
+
+			if isPriority || isSecondary {
+				if !vistos[e.Simplificado] {
+					vistos[e.Simplificado] = true
+					if isPriority {
+						priority = append(priority, e)
+						if len(priority) >= 3000 {
+							break varredura
+						}
+					} else {
+						secondary = append(secondary, e)
+					}
+				}
+			}
+		}
+	}
+
+	var resultados []EntradaDicionario
+	resultados = append(resultados, priority...)
+	
+	if len(resultados) < 3000 {
+		for _, s := range secondary {
+			resultados = append(resultados, s)
+			if len(resultados) >= 3000 {
+				break
+			}
+		}
+	} else if len(resultados) > 3000 {
+		resultados = resultados[:3000]
+	}
+
+	return resultados
+}
+
+// AvaliarTipoHanzi determina se um caractere é Tradicional, Simplificado ou Ambos
+func (c *Cedict) AvaliarTipoHanzi(hanzi string) string {
+	// Guard clause: dicionário ausente (ex.: App de teste sem o CEDICT carregado).
+	if c == nil {
+		return ""
+	}
+
+	entradas := c.entradas[hanzi]
+	if len(entradas) == 0 {
+		return ""
+	}
+	e := entradas[0]
+	if e.Simplificado == hanzi && e.Tradicional == hanzi {
+		return "Ambos"
+	} else if e.Simplificado == hanzi {
+		return "Simplificado"
+	} else if e.Tradicional == hanzi {
+		return "Tradicional"
+	}
+	return ""
+}
+
+func RemoverTonsPinyin(p string) string {
+	replacements := map[rune]rune{
+		'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
+		'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
+		'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
+		'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
+		'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
+		'ü': 'u', 'ǖ': 'u', 'ǘ': 'u', 'ǚ': 'u', 'ǜ': 'u',
+		'v': 'u',
+	}
+	
+	var sb strings.Builder
+	for _, r := range p {
+		if val, ok := replacements[r]; ok {
+			sb.WriteRune(val)
+		} else {
+			sb.WriteRune(r)
+		}
+	}
+	return sb.String()
 }
 
 var tones = map[rune][]rune{

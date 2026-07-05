@@ -1,7 +1,7 @@
 # -*- mode: python ; coding: utf-8 -*-
 # Congela o microserviço de OCR do EasyOCR (easyocr_server.py) como sidecar autônomo, com o PyTorch
 # de CPU embutido (sem CUDA — descartado por custo/benefício, ver Fase 5 no TODO.md). Os PESOS não
-# vão no pacote: o Go os baixa para modelos\EasyOCR\ (ver ModelosManifesto.py, neste mesmo diretório).
+# vão no pacote: o Go os baixa para motores_ocr\EasyOCR\modelos\ (ver ModelosManifesto.py, neste mesmo diretório).
 # Ver docs/CONTRATO-OCR.md. Rode via build_sidecars.ps1. Saída (onedir): dist/easyocr_server/
 # easyocr_server.exe — relativa ao diretório de INVOCAÇÃO do PyInstaller (python_backend), não de
 # onde este spec mora.

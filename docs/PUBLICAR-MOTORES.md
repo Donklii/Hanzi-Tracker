@@ -8,19 +8,27 @@ e como o app baixa e confia neles.
 **Ficam neste mesmo repositório, via GitHub *Releases*** (não commitados no Git). A publicação é
 **automatizada** e dividida por tipo de motor, cada um com seu workflow, script de build e tag próprios:
 
-| Tipo | Workflow | Script | Tag | Manifesto | Artefatos |
+| Tipo | Workflow | Script | Tag | Manifesto (dados voláteis) | Artefatos |
 |------|----------|--------|-----|-----------|-----------|
-| **OCR** | [publicar-motores-ocr.yml](../.github/workflows/publicar-motores-ocr.yml) | [builds/build_sidecars_ocr.ps1](../builds/build_sidecars_ocr.ps1) | `motores-v*` | [motores_manifesto.go](../wails_app/motores_manifesto.go) | `ocr_server.zip`, `tesseract_server.zip`, `easyocr_server.zip` |
-| **Voz/TTS** | [publicar-motores-tts.yml](../.github/workflows/publicar-motores-tts.yml) | [builds/build_sidecars_tts.ps1](../builds/build_sidecars_tts.ps1) | `motores-tts-v*` | [motores_tts_manifesto.go](../wails_app/motores_tts_manifesto.go) | `kokoro_server.zip`, `chattts_server.zip` |
+| **OCR** | [publicar-motores-ocr.yml](../.github/workflows/publicar-motores-ocr.yml) | [builds/build_sidecars_ocr.ps1](../builds/build_sidecars_ocr.ps1) | `motores-v*` | [motoresocr/artefatos_ocr.json](../wails_app/motoresocr/artefatos_ocr.json) | `ocr_server.zip`, `tesseract_server.zip`, `easyocr_server.zip` |
+| **Voz/TTS** | [publicar-motores-tts.yml](../.github/workflows/publicar-motores-tts.yml) | [builds/build_sidecars_tts.ps1](../builds/build_sidecars_tts.ps1) | `motores-tts-v*` | [motorestts/artefatos_tts.json](../wails_app/motorestts/artefatos_tts.json) | `kokoro_server.zip`, `chattts_server.zip` |
 
-Cada workflow congela os seus sidecars num runner Windows e já cria a Release com os assets anexados —
-basta empurrar a tag correspondente. As tags são **separadas** de propósito: publicar uma release de voz
-não recongela nem invalida as URLs dos motores de OCR (e vice-versa). O restante deste guia usa o fluxo de
-OCR como exemplo; o de voz é idêntico, trocando workflow/script/tag/manifesto pela linha da tabela.
+Cada workflow congela os seus sidecars num runner Windows, cria a Release com os assets anexados **e
+atualiza o manifesto sozinho** — basta empurrar a tag correspondente. As tags são **separadas** de
+propósito: publicar uma release de voz não recongela nem invalida as URLs dos motores de OCR (e
+vice-versa). O restante deste guia usa o fluxo de OCR como exemplo; o de voz é idêntico, trocando
+workflow/script/tag/manifesto pela linha da tabela.
+
+> **Manifesto = catálogo (Go) + dados voláteis (JSON).** Os rótulos, descrições e o nome do `.exe` de
+> cada motor vivem no Go ([motoresocr/manifesto.go](../wails_app/motoresocr/manifesto.go),
+> [motorestts/manifesto.go](../wails_app/motorestts/manifesto.go)). O que **muda a cada release** — a
+> tag embutida na URL, o `sha256` e o tamanho de cada zip — fica num JSON à parte
+> (`artefatos_ocr.json` / `artefatos_tts.json`), embutido no binário via `go:embed` e injetado no
+> catálogo por um `init()`. É esse JSON, e só ele, que o CI reescreve e commita a cada publicação.
 
 > Por isso o `.gitignore` já ignora `*.exe`, `dist/` e `build_env/`: os binários **não** entram no
 > histórico do Git. O que entra no Git é o **código** (specs, script, workflow) e o **manifesto** (que
-> só aponta URLs + sha256, em [motores_manifesto.go](../wails_app/motores_manifesto.go)).
+> só aponta URLs + sha256, no catálogo Go + `artefatos_*.json`).
 
 ## Por que Releases, e não commitar o `.exe`
 
@@ -39,23 +47,23 @@ OCR como exemplo; o de voz é idêntico, trocando workflow/script/tag/manifesto 
 2. O workflow [publicar-motores-ocr.yml](../.github/workflows/publicar-motores-ocr.yml) roda num runner
    `windows-latest`: instala o Tesseract via choco, executa
    [builds/build_sidecars_ocr.ps1](../builds/build_sidecars_ocr.ps1), calcula o sha256/tamanho de cada zip
-   e **já publica a Release** com os 3 artefatos anexados (`ocr_server.zip`, `tesseract_server.zip`,
+   e **publica a Release** com os 3 artefatos anexados (`ocr_server.zip`, `tesseract_server.zip`,
    `easyocr_server.zip`) via `softprops/action-gh-release`. O de voz
    ([publicar-motores-tts.yml](../.github/workflows/publicar-motores-tts.yml)) faz o mesmo com
    `kokoro_server.zip` e `chattts_server.zip` (sem Tesseract).
-3. **Pegue os hashes**: aparecem no *Step Summary* do job ("## sha256 dos motores (`<tag>`)") — não
-   precisa recalcular nada manualmente.
-4. **Pegue a URL de download** de cada asset (padrão estável):
-   ```
-   https://github.com/<usuario>/<repo>/releases/download/motores-v4/ocr_server.zip
-   https://github.com/<usuario>/<repo>/releases/download/motores-v4/popup.zip
-   https://github.com/<usuario>/<repo>/releases/download/motores-v4/tesseract_server.zip
-   https://github.com/<usuario>/<repo>/releases/download/motores-v4/easyocr_server.zip
-   ```
-5. **Preencha o manifesto de motores** ([motores_manifesto.go](../wails_app/motores_manifesto.go)) com
-   `url`, `sha256` e `tamanhoBytes` de cada artefato — os mesmos valores do *Step Summary*. O sha256 é
-   **obrigatório** para binários: o Go confere após baixar (mecânica em `baixarArquivo`) e recusa se não
-   bater. Ver o passo a passo detalhado em [TODO.md](../TODO.md) (seção "Fase 5").
+3. **O manifesto se atualiza sozinho.** Ainda no mesmo job, depois de publicar a Release, o workflow volta
+   para a ponta do `main`, reescreve o JSON de dados voláteis (`artefatos_ocr.json` / `artefatos_tts.json`)
+   com a tag nova + o sha256/tamanho de cada zip, valida com `go test ./motoresocr/...` (ou
+   `./motorestts/...`) e **commita direto no `main`** como `github-actions[bot]`. A URL de cada motor é
+   derivada da tag (`.../releases/download/<tag>/<zip>`), então não há nada a colar à mão.
+4. **Confira** (opcional): o *Step Summary* lista o sha256 de cada zip, e o commit
+   `chore(motores): aponta manifesto ... para <tag> [skip ci]` aparece no `main`. Pronto — o próximo build
+   do app já aponta para os motores recém-publicados.
+
+> **Sem colar hash à mão, sem risco de loop.** O `init()` do manifesto injeta `url`/`sha256`/`tamanhoBytes`
+> a partir do JSON embutido, e o Go confere o hash após baixar (mecânica em `baixador.BaixarArquivo`),
+> recusando se não bater. O commit é feito com o `GITHUB_TOKEN`, que por design **não** dispara novos
+> workflows — então atualizar o manifesto não reaciona a publicação.
 
 ## Alternativa: publicar manualmente (sem empurrar tag)
 
@@ -97,7 +105,11 @@ estiver indisponível.
    Deixe *"Set as the latest release"* marcado e *"Set as a pre-release"* desmarcado — é o
    comportamento padrão do `gh release create` (sem `--prerelease`).
 
-3. Siga a partir do passo 4 do fluxo via CI acima (pegar URLs + preencher o manifesto).
+3. **Atualize o manifesto à mão** (o CI não roda neste caminho): edite o JSON de dados voláteis
+   (`wails_app/motoresocr/artefatos_ocr.json` ou `wails_app/motorestts/artefatos_tts.json`) com a `tag` da
+   release e, para cada zip, o `sha256` e o `tamanhoBytes` que o script imprimiu no passo 1. A URL é
+   derivada da tag pelo `init()` do manifesto — não precisa escrevê-la. Rode `go test ./motoresocr/...`
+   (ou `./motorestts/...`) dentro de `wails_app/` para conferir que o JSON casa com o catálogo.
 
 > Se publicar manualmente numa tag que o CI **também** dispararia (`motores-v*`), o push da tag ainda vai
 > acionar o workflow — ele recongela tudo do zero e tenta publicar na mesma Release. Prefira sempre o
@@ -105,13 +117,15 @@ estiver indisponível.
 
 ## Como o app consome (Passo 5 — implementado)
 
-- O manifesto de motores vive no Go ([wails_app/motores_manifesto.go](../wails_app/motores_manifesto.go)):
-  cada motor aponta `url` + `sha256` + `tamanhoBytes` do `.zip`, mais o `executavel` (o `.exe` na raiz do
-  zip). O overlay compartilhado (`popup.zip`) fica em `PopupOverlayBaixavel`.
+- O manifesto de motores vive no Go ([motoresocr/manifesto.go](../wails_app/motoresocr/manifesto.go) e
+  [motorestts/manifesto.go](../wails_app/motorestts/manifesto.go) para voz): cada motor aponta `url` +
+  `sha256` + `tamanhoBytes` do `.zip` — os três injetados do `artefatos_*.json` por um `init()` — mais o
+  `executavel` (o `.exe` na raiz do zip).
 - `BaixarMotor(nome)` ([wails_app/motores.go](../wails_app/motores.go)) baixa o `.zip` para
-  `%APPDATA%\HanziTracker\motores\<Motor>\`, **verifica o sha256** (obrigatório — reusa `baixarArquivo`),
+  `%APPDATA%\HanziTracker\motores_ocr\<Motor>\`, **verifica o sha256** (obrigatório — reusa `baixarArquivo`),
   faz **pré-checagem de espaço em disco** e extrai (com proteção contra *Zip Slip*); o overlay vai para
-  `motores\_overlay\`. `RemoverMotor` apaga a pasta (recusa se o motor estiver ativo) e `TrocarMotor` faz
+  `motores_ocr\_overlay\`. Os pesos de cada motor ficam em `motores_ocr\<Motor>\modelos\`. `RemoverMotor`
+  apaga a pasta (recusa se o motor estiver ativo) e `TrocarMotor` faz
   o hot-swap via `GerenciadorMotorOcr.Trocar` e **persiste** o motor ativo em `configuracoes.json`.
 - Na inicialização, `resolverMotorInicial` sobe o motor preferido/instalado; se **nada** existe (first-run
   distribuído), `bootstrapMotorPadrao` baixa o motor padrão + o overlay e ativa — emitindo os eventos

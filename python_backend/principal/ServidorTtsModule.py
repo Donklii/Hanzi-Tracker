@@ -80,7 +80,7 @@ def _criarHandler(servicoTts):
                     raise ValueError("campo 'texto' vazio na requisição de TTS")
 
                 # A primeira síntese pode demorar: carga do modelo + download dos pesos do
-                # Hugging Face (o cache HF é redirecionado para modelos/<Motor>/hf pelo entry).
+                # Hugging Face (o cache HF é redirecionado para motores_tts/<Motor>/modelos/hf pelo entry).
                 audioWav = servicoTts.SintetizarFala(
                     texto, aoProgredir=lambda msg: registradorLogs.info("[tts] %s", msg)
                 )

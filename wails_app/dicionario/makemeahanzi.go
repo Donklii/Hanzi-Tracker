@@ -5,6 +5,7 @@ import (
 	"bytes"
 	_ "embed"
 	"encoding/json"
+	"strings"
 )
 
 
@@ -52,6 +53,11 @@ type DecomposicaoHanzi struct {
 
 type BancoMakeMeAHanzi struct {
 	entradas map[string]DecomposicaoHanzi
+
+	// candidatosRevisao: subconjunto com definição E pinyin, excluindo abreviações visuais.
+	// É o universo de sorteio da revisão de hanzis (alvos e distratores) — cacheado no Carregar
+	// para as consultas aleatórias não varrerem o mapa inteiro a cada questão.
+	candidatosRevisao []DecomposicaoHanzi
 }
 
 
@@ -99,7 +105,24 @@ func (b *BancoMakeMeAHanzi) Carregar() error {
 		}
 	}
 
+	// ----- Terceira passagem: cachear os candidatos da revisão -----
+	for caractere, entrada := range b.entradas {
+		if _, ehAbrev := mapaAbrevParaCompleto[caractere]; ehAbrev {
+			continue
+		}
+		if entrada.Definicao == "" || len(entrada.Pinyin) == 0 || entrada.Pinyin[0] == "" {
+			continue
+		}
+		b.candidatosRevisao = append(b.candidatosRevisao, entrada)
+	}
+
 	return erroVarredor
+}
+
+// CandidatosRevisao devolve os caracteres elegíveis para a revisão (com definição e pinyin).
+// O slice retornado é compartilhado — o chamador não deve modificá-lo.
+func (b *BancoMakeMeAHanzi) CandidatosRevisao() []DecomposicaoHanzi {
+	return b.candidatosRevisao
 }
 
 
@@ -123,4 +146,91 @@ func (b *BancoMakeMeAHanzi) CaractereCompleto(abrev string) string {
 
 func (b *BancoMakeMeAHanzi) TotalHanzis() int {
 	return len(b.entradas)
+}
+
+// TodosCaracteres devolve todos os caracteres indexados, EXCETO as abreviações visuais de radical
+// (bloco CJK Radicals Supplement), que não são palavras faláveis. Alimenta o pré-carregamento do
+// cache de TTS (ver tts_precache.go) junto com o CC-CEDICT.
+func (b *BancoMakeMeAHanzi) TodosCaracteres() []string {
+	caracteres := make([]string, 0, len(b.entradas))
+	for caractere := range b.entradas {
+		if _, ehAbrev := mapaAbrevParaCompleto[caractere]; ehAbrev {
+			continue
+		}
+		caracteres = append(caracteres, caractere)
+	}
+	return caracteres
+}
+
+// BuscarCompostosPor retorna até 100 caracteres que utilizam o caractere dado como componente
+func (b *BancoMakeMeAHanzi) BuscarCompostosPor(componente string) []string {
+	var resultados []string
+	if componente == "" {
+		return resultados
+	}
+	for char, entrada := range b.entradas {
+		if char != componente && strings.Contains(entrada.Decomposicao, componente) {
+			resultados = append(resultados, char)
+			if len(resultados) >= 100 {
+				break
+			}
+		}
+	}
+	return resultados
+}
+
+// BuscarGeral realiza a busca na base do MakeMeAHanzi por hanzi, pinyin ou significado
+func (b *BancoMakeMeAHanzi) BuscarGeral(termo string) []DecomposicaoHanzi {
+	var resultados []DecomposicaoHanzi
+	if termo == "" {
+		return resultados
+	}
+
+	termoLower := strings.ToLower(termo)
+	cleanTermo := termoLower
+	for _, num := range []string{"1", "2", "3", "4", "5", " "} {
+		cleanTermo = strings.ReplaceAll(cleanTermo, num, "")
+	}
+
+	var priority []DecomposicaoHanzi
+	var secondary []DecomposicaoHanzi
+
+	for _, e := range b.entradas {
+		isPriority := false
+		isSecondary := false
+
+		// Hanzi
+		if strings.Contains(e.Caractere, termo) {
+			isPriority = true
+		}
+
+		// Pinyin
+		if !isPriority {
+			for _, p := range e.Pinyin {
+				pinyinClean := RemoverTonsPinyin(strings.ToLower(p))
+				pinyinClean = strings.ReplaceAll(pinyinClean, " ", "")
+				if strings.Contains(pinyinClean, cleanTermo) {
+					isPriority = true
+					break
+				}
+			}
+		}
+
+		// Definição
+		if !isPriority {
+			if strings.Contains(strings.ToLower(e.Definicao), termoLower) {
+				isSecondary = true
+			}
+		}
+
+		if isPriority {
+			priority = append(priority, e)
+		} else if isSecondary {
+			secondary = append(secondary, e)
+		}
+	}
+
+	resultados = append(resultados, priority...)
+	resultados = append(resultados, secondary...)
+	return resultados
 }

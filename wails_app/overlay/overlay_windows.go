@@ -14,6 +14,7 @@ import (
 const (
 	WM_APP_WAKEUP = win.WM_APP + 1
 	LWA_COLORKEY  = 1
+	LWA_ALPHA     = 2
 )
 
 var (
@@ -135,7 +136,7 @@ func calcTextRect(hdc win.HDC, text string, hfont win.HFONT, wrapWidth int) (win
 	return rect, int(altura)
 }
 
-func createWindow(className, title string, x, y, w, h int, isTopmost bool) win.HWND {
+func createWindow(className, title string, x, y, w, h int, isTopmost bool, alpha byte) win.HWND {
 	dwExStyle := uint32(win.WS_EX_LAYERED | win.WS_EX_TOOLWINDOW)
 	if isTopmost {
 		dwExStyle |= win.WS_EX_TOPMOST
@@ -151,14 +152,17 @@ func createWindow(className, title string, x, y, w, h int, isTopmost bool) win.H
 		0, 0, win.GetModuleHandle(nil), nil,
 	)
 
-	// LWA_COLORKEY para a cor magenta (Transparente)
-	setLayeredWindowAttributes(hwnd, win.RGB(255, 0, 255), 0, LWA_COLORKEY)
+	flags := uint32(LWA_COLORKEY)
+	if alpha < 255 {
+		flags |= LWA_ALPHA
+	}
+	setLayeredWindowAttributes(hwnd, win.RGB(255, 0, 255), alpha, flags)
 	return hwnd
 }
 
 // Struct para dados de cada janela
 type WindowData struct {
-	Type   int // 1=Hover, 2=Highlight, 3=TodosCards, 4=EstudoHighlights
+	Type   int // 1=Hover, 2=Highlight, 3=TodosCards, 4=EstudoHighlights, 6=Resumo, 7=TraducaoSomente
 	Pinyin string
 	Hanzi  string
 	Sig    string
@@ -279,6 +283,106 @@ func desenharCard(hwnd win.HWND, hdc win.HDC, data *WindowData) {
 	}
 }
 
+// medirCardTraducao calcula o tamanho de um popup que exibe apenas a tradução, usando a largura
+// da linha de origem como referência. Se o texto traduzido for mais largo que a linha, a largura
+// do popup se expande para caber confortavelmente.
+func medirCardTraducao(sig string, larguraLinha int) (w, h int) {
+	hdc := win.GetDC(0)
+	defer win.ReleaseDC(0, hdc)
+
+	pad := 6
+	szSig := 11
+
+	fSig := createFont(szSig, false)
+	defer win.DeleteObject(win.HGDIOBJ(fSig))
+
+	// Mede o texto em modo single-line para descobrir a largura natural.
+	rNatural, _ := calcTextRect(hdc, sig, fSig, 0)
+	larguraNatural := int(rNatural.Right-rNatural.Left) + pad*2
+
+	// Usa o maior entre a largura da linha e a largura natural do texto.
+	w = larguraLinha
+	if larguraNatural > w {
+		w = larguraNatural
+	}
+
+	wDisponivel := w - pad*2
+	if wDisponivel < 40 {
+		wDisponivel = 40
+		w = wDisponivel + pad*2
+	}
+
+	_, hSig := calcTextRect(hdc, sig, fSig, wDisponivel)
+
+	h = pad*2 + hSig
+
+	return w, h
+}
+
+// desenharCardTraducao renderiza um popup que exibe APENAS a tradução (sem Hanzi/Pinyin).
+// Fundo escuro com borda laranja, texto cinza claro centralizado.
+func desenharCardTraducao(hwnd win.HWND, hdc win.HDC, data *WindowData) {
+	var rect win.RECT
+	win.GetClientRect(hwnd, &rect)
+
+	bgCor := win.RGB(0x1a, 0x1a, 0x24)
+	bordaCor := win.RGB(0xff, 0x98, 0x00)
+
+	fillRect(hdc, &rect, bgCor)
+	drawFrame(hdc, &rect, bordaCor, 1)
+
+	pad := int32(6)
+	szSig := 11
+
+	fSig := createFont(szSig, false)
+	defer win.DeleteObject(win.HGDIOBJ(fSig))
+
+	rSig := win.RECT{Left: pad, Top: pad, Right: rect.Right - pad, Bottom: rect.Bottom - pad}
+	drawTextCentered(hdc, data.Sig, &rSig, win.RGB(0xcc, 0xcc, 0xcc), fSig, true)
+}
+
+func desenharResumo(hwnd win.HWND, hdc win.HDC, data *WindowData) {
+	var rect win.RECT
+	win.GetClientRect(hwnd, &rect)
+
+	bgCor := win.RGB(0x1a, 0x1a, 0x24)
+	bordaCor := win.RGB(0xff, 0x98, 0x00)
+
+	fillRect(hdc, &rect, bgCor)
+	drawFrame(hdc, &rect, bordaCor, 1)
+
+	fTitulo := createFont(15, true)
+	fTexto := createFont(12, false)
+	defer win.DeleteObject(win.HGDIOBJ(fTitulo))
+	defer win.DeleteObject(win.HGDIOBJ(fTexto))
+
+	yAtual := int32(16)
+
+	if data.Hanzi != "" {
+		rTitulo, hTitulo := calcTextRect(hdc, data.Hanzi, fTitulo, 0)
+		rTitulo.Left = 16
+		rTitulo.Right = rect.Right - 16
+		rTitulo.Top = yAtual
+		rTitulo.Bottom = yAtual + int32(hTitulo)
+		
+		win.SetTextColor(hdc, win.RGB(0xff, 0x98, 0x00))
+		win.SetBkMode(hdc, win.TRANSPARENT)
+		win.SelectObject(hdc, win.HGDIOBJ(fTitulo))
+		drawText(hdc, data.Hanzi, -1, &rTitulo, win.DT_LEFT|win.DT_SINGLELINE|win.DT_VCENTER)
+		
+		yAtual += int32(hTitulo) + 8
+	}
+
+	if data.Sig != "" {
+		rTexto := win.RECT{Left: 16, Top: yAtual, Right: rect.Right - 16, Bottom: rect.Bottom - 16}
+		
+		win.SetTextColor(hdc, win.RGB(0xcc, 0xcc, 0xcc))
+		win.SetBkMode(hdc, win.TRANSPARENT)
+		win.SelectObject(hdc, win.HGDIOBJ(fTexto))
+		drawText(hdc, data.Sig, -1, &rTexto, win.DT_LEFT|win.DT_WORDBREAK|win.DT_NOPREFIX)
+	}
+}
+
 func wndProc(hwnd win.HWND, msg uint32, wParam, lParam uintptr) uintptr {
 	switch msg {
 	case win.WM_PAINT:
@@ -290,19 +394,25 @@ func wndProc(hwnd win.HWND, msg uint32, wParam, lParam uintptr) uintptr {
 			switch data.Type {
 			case 1, 3: // Hover ou TodosCards
 				desenharCard(hwnd, hdc, data)
+			case 7: // Tradução-somente
+				desenharCardTraducao(hwnd, hdc, data)
+			case 6: // Resumo
+				desenharResumo(hwnd, hdc, data)
 			case 2: // Highlight (Borda Verde)
 				var r win.RECT
 				win.GetClientRect(hwnd, &r)
-				// Fundo já é a cor-chave, fica transparente. Desenhamos só a moldura.
+				fillRect(hdc, &r, win.RGB(255, 0, 255))
 				drawFrame(hdc, &r, win.RGB(0, 255, 0), 3)
 			case 4: // EstudoHighlights (Borda Azul)
 				var r win.RECT
 				win.GetClientRect(hwnd, &r)
-				drawFrame(hdc, &r, win.RGB(0x21, 0x96, 0xf3), 3) // #2196f3
+				fillRect(hdc, &r, win.RGB(255, 0, 255))
+				drawFrame(hdc, &r, win.RGB(0x21, 0x96, 0xf3), 2) // #2196f3
 			case 5: // EstudoParcialHighlights (Borda Amarela)
 				var r win.RECT
 				win.GetClientRect(hwnd, &r)
-				drawFrame(hdc, &r, win.RGB(0xff, 0xeb, 0x3b), 3) // #FFEB3B
+				fillRect(hdc, &r, win.RGB(255, 0, 255))
+				drawFrame(hdc, &r, win.RGB(0xff, 0xeb, 0x3b), 2) // #FFEB3B
 			}
 		}
 

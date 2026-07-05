@@ -1,7 +1,7 @@
 # ----- Manifesto de Modelos do Motor Tesseract -----
 # Catálogo dos pesos (.traineddata) do sidecar Tesseract. Mesmo formato do
 # motores/rapidocr/ModelosManifesto.py: quem BAIXA/REMOVE os arquivos é o Go, em
-# %APPDATA%\HanziTracker\modelos\Tesseract\; o Python só informa nome/url/sha256 e LÊ os pesos
+# %APPDATA%\HanziTracker\motores_ocr\Tesseract\modelos\; o Python só informa nome/url/sha256 e LÊ os pesos
 # (via --tessdata-dir).
 #
 # O `sha256` é preenchido e conferido pelo Go após o download. As URLs apontam para a TAG 4.1.0 dos
