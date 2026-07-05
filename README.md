@@ -56,7 +56,7 @@ se você usou um). Veja [docs/PUBLICAR-MOTORES.md](docs/PUBLICAR-MOTORES.md) par
   - `makemeahanzi_dictionary.txt` (MakeMeAHanzi)
 
 > **Python só é necessário se você for mexer no código dos motores** (`python_backend/`) ou recongelar
-> os sidecars para publicar uma nova versão (ver [BUILD.md](BUILD.md) e
+> os sidecars para publicar uma nova versão (ver [docs/BUILD.md](docs/BUILD.md) e
 > [docs/PUBLICAR-MOTORES.md](docs/PUBLICAR-MOTORES.md)). Para simplesmente rodar/desenvolver o app,
 > `go run .` já baixa e sobe o motor de OCR sozinho, exatamente como no app distribuído.
 

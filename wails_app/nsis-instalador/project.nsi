@@ -1,4 +1,4 @@
-Unicode true
+﻿Unicode true
 
 ####
 ## Baseado no template padrão do Wails (v2.12.0, pkg/buildassets/build/windows/installer/project.nsi),
@@ -10,6 +10,9 @@ Unicode true
 ## Este arquivo é copiado para build/windows/installer/project.nsi pela CI (e pelo BUILD.md, para quem
 ## builda local) ANTES de "wails build -nsis" — wails_app/build/ inteiro é gerado/gitignored, então o
 ## fonte deste template vive aqui, fora do caminho que o Wails regenera.
+##
+## IMPORTANTE: salve este arquivo em UTF-8 COM BOM. Sem o BOM, o makensis lê o fonte como ANSI
+## (mesmo com "Unicode true") e todos os acentos/travessões quebram na UI do instalador.
 ####
 
 !include "wails_tools.nsh"
@@ -32,6 +35,11 @@ ManifestDPIAware true
 !include "nsDialogs.nsh"
 !include "LogicLib.nsh"
 
+# Estilo Win32 que INICIA UM NOVO GRUPO de radio buttons (aplicado ao primeiro radio de cada grupo).
+!ifndef WS_GROUP
+    !define WS_GROUP 0x00020000
+!endif
+
 !define MUI_ICON "..\icon.ico"
 !define MUI_UNICON "..\icon.ico"
 !define MUI_FINISHPAGE_NOAUTOCLOSE # Wait on the INSTFILES page so the user can take a look into the details of the installation steps
@@ -50,36 +58,43 @@ Var SelMotorOcr
 Var SelMotorTts
 
 Function PaginaEscolhaMotores
+    # Sem isto a página custom herda o cabeçalho da página anterior ("Escolha o Local da Instalação").
+    !insertmacro MUI_HEADER_TEXT "Motores de OCR e voz" "Escolha o que o Hanzi Tracker baixa sozinho na primeira abertura — nada é instalado agora."
+
     nsDialogs::Create 1018
     Pop $DialogMotores
     ${If} $DialogMotores == error
         Abort
     ${EndIf}
 
-    ${NSD_CreateLabel} 0 0 100% 24u "Escolha o motor de reconhecimento de texto (OCR). Ele será baixado automaticamente na primeira abertura do programa — nada é instalado agora."
+    ${NSD_CreateLabel} 0 0 100% 12u "Motor de reconhecimento de texto (OCR):"
     Pop $0
 
-    ${NSD_CreateRadioButton} 10 26u 100% 12u "RapidOCR — recomendado (leve, com aceleração de GPU quando disponível)"
+    ${NSD_CreateRadioButton} 10 14u 100% 12u "RapidOCR — recomendado (leve, com aceleração de GPU quando disponível)"
     Pop $RadioOcrRapid
+    # WS_GROUP separa os grupos: sem ele o Windows trata TODOS os radios da página como um grupo
+    # só, e marcar um motor de voz desmarcaria o de OCR.
+    ${NSD_AddStyle} $RadioOcrRapid ${WS_GROUP}
     ${NSD_SetState} $RadioOcrRapid ${BST_CHECKED}
 
-    ${NSD_CreateRadioButton} 10 40u 100% 12u "Tesseract (apenas CPU)"
+    ${NSD_CreateRadioButton} 10 27u 100% 12u "Tesseract (apenas CPU)"
     Pop $RadioOcrTesseract
 
-    ${NSD_CreateRadioButton} 10 54u 100% 12u "EasyOCR (apenas CPU; exige baixar um modelo extra depois)"
+    ${NSD_CreateRadioButton} 10 40u 100% 12u "EasyOCR (apenas CPU; exige baixar um modelo extra depois)"
     Pop $RadioOcrEasyOcr
 
-    ${NSD_CreateLabel} 0 78u 100% 24u "Escolha o motor de leitura em voz alta (opcional — pode ativar depois em Configurações):"
+    ${NSD_CreateLabel} 0 62u 100% 16u "Motor de leitura em voz alta (opcional — dá para ativar depois em Configurações):"
     Pop $0
 
-    ${NSD_CreateRadioButton} 10 104u 100% 12u "Nenhum agora (ativar depois, se quiser)"
+    ${NSD_CreateRadioButton} 10 80u 100% 12u "Nenhum agora"
     Pop $RadioTtsNenhum
+    ${NSD_AddStyle} $RadioTtsNenhum ${WS_GROUP}
     ${NSD_SetState} $RadioTtsNenhum ${BST_CHECKED}
 
-    ${NSD_CreateRadioButton} 10 118u 100% 12u "Kokoro-82M — leve e rápido"
+    ${NSD_CreateRadioButton} 10 93u 100% 12u "Kokoro-82M — leve e rápido"
     Pop $RadioTtsKokoro
 
-    ${NSD_CreateRadioButton} 10 132u 100% 12u "ChatTTS — voz mais natural, porém mais pesado"
+    ${NSD_CreateRadioButton} 10 106u 100% 12u "ChatTTS — voz mais natural, porém mais pesado"
     Pop $RadioTtsChatTts
 
     nsDialogs::Show

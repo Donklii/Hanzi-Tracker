@@ -3,7 +3,7 @@ name: Publicar Motores (OCR)
 # Congela os sidecars de OCR (builds/build_sidecars_ocr.ps1) num runner Windows, publica os .zip numa
 # GitHub Release e ATUALIZA O MANIFESTO automaticamente: reescreve wails_app/motoresocr/artefatos_ocr.json
 # (tag + sha256 + tamanho de cada zip), valida com `go test` e commita no main — o app passa a apontar
-# para os motores recém-publicados sem edição manual. Dispara ao empurrar uma tag "motores-v*" (ou
+# para os motores recém-publicados sem edição manual. Dispara ao empurrar uma tag "motores-ocr-v*" (ou
 # manualmente, informando a tag). Os motores de VOZ (TTS) têm workflow próprio: publicar-motores-tts.yml
 # (tags "motores-tts-v*"). Ver docs/PUBLICAR-MOTORES.md. Windows-only porque o congelamento usa
 # PyInstaller + DirectML.
@@ -11,11 +11,11 @@ name: Publicar Motores (OCR)
 on:
   push:
     tags:
-      - 'motores-v*'
+      - 'motores-ocr-v*'
   workflow_dispatch:
     inputs:
       tag:
-        description: 'Tag da release (ex.: motores-v5)'
+        description: 'Tag da release (ex.: motores-ocr-v5)'
         required: true
 
 permissions:
