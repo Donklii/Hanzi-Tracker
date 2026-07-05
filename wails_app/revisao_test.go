@@ -6,6 +6,7 @@ import (
 
 	"wails_app/config"
 	"wails_app/dicionario"
+	"wails_app/segmentacao"
 )
 
 // appDeTeste monta um App mínimo para a revisão: dicionários reais (embarcados), sem SQLite —
@@ -18,18 +19,28 @@ func appDeTeste(t *testing.T) *App {
 		t.Fatalf("falha ao carregar MakeMeAHanzi: %v", err)
 	}
 
+	cedict := dicionario.NovoCedict()
+	if err := cedict.Carregar(); err != nil {
+		t.Fatalf("falha ao carregar CEDICT: %v", err)
+	}
+
+	if err := segmentacao.InitJieba(); err != nil {
+		t.Fatalf("falha ao carregar Jieba: %v", err)
+	}
+
 	return &App{
 		Config:        config.DefaultConfig(),
 		BancoHanzi:    banco,
 		BancoFrases:   dicionario.NovoBancoFrases(),
 		BancoTracados: dicionario.NovoBancoTracados(),
+		Cedict:        cedict,
 	}
 }
 
 func TestObterQuestoesRevisaoTodosOsModos(t *testing.T) {
 	app := appDeTeste(t)
 
-	for _, modo := range []string{ModoSignificado, ModoFonetica, ModoDesenho, ModoContexto} {
+	for _, modo := range []string{ModoSignificado, ModoFonetica, ModoDesenho, ModoContexto, ModoGeral} {
 		questoes, err := app.ObterQuestoesRevisao(modo, 10)
 		if err != nil {
 			t.Fatalf("modo %s: %v", modo, err)

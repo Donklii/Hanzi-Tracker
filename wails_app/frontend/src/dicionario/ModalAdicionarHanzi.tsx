@@ -144,6 +144,8 @@ export function ModalAdicionarHanzi(props: ModalAdicionarHanziProps) {
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
               <label style={{ fontSize: '12px', color: 'var(--cor-texto-suave)', marginBottom: '8px', alignSelf: 'flex-start' }}>
                 Desenhe o Hanzi abaixo:
+                <br />
+                <span style={{ opacity: 0.8 }}>⚠️ A ordem e a direção dos traços importa para o reconhecimento correto.</span>
               </label>
               <CanvasHanziLookup 
                 onRecognize={(sugestoes) => setSugestoesPinyin(sugestoes)} 

@@ -164,6 +164,17 @@ export function CanvasHanziLookup({ onRecognize, targetHanzi, configuracoesApp }
     if (newStrokes.length === 0) onRecognize([]);
   };
 
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'z') {
+        e.preventDefault();
+        undoLastStroke();
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [strokes, isLoaded]); // undoLastStroke also depends on performLookup which needs isLoaded
+
   return (
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%' }}>
       {!isLoaded && (

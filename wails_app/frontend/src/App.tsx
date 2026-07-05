@@ -3,6 +3,7 @@ import './App.css';
 import { PainelConfiguracoes } from './configuracoes/PainelConfiguracoes';
 import { ModalCartaoDetalhes } from './dicionario/ModalCartaoDetalhes';
 import { ModalAdicionarHanzi } from './dicionario/ModalAdicionarHanzi';
+import { ModalBuscaPorDesenho } from './dicionario/ModalBuscaPorDesenho';
 import { ModalAvisoCompatibilidade } from './comum/ModalAvisoCompatibilidade';
 import { ModalConfirmacao } from './comum/ModalConfirmacao';
 import { AbaDescobrimento } from './descobrimento/AbaDescobrimento';
@@ -103,6 +104,7 @@ function App() {
   const [abaConfiguracao, setAbaConfiguracao] = useState('Geral');
   const [termoBusca, setTermoBusca] = useState('');
   const [totalHanzis, setTotalHanzis] = useState<number>(0);
+  const [modalBuscaPorDesenhoOpen, setModalBuscaPorDesenhoOpen] = useState(false);
   const [modalAdicionarHanzi, setModalAdicionarHanzi] = useState<{ open: boolean, status: string }>({ open: false, status: '' });
   const [inputAdicionarHanzi, setInputAdicionarHanzi] = useState('');
   const [sugestoesPinyin, setSugestoesPinyin] = useState<string[]>([]);
@@ -1055,7 +1057,7 @@ function App() {
                       setTermoBuscaGlobal(e.target.value);
                     }}
                     style={{
-                      padding: '8px 12px 8px 32px',
+                      padding: '8px 36px 8px 32px',
                       borderRadius: '8px',
                       border: '1px solid var(--cor-borda)',
                       backgroundColor: 'var(--cor-fundo-secundario)',
@@ -1064,6 +1066,18 @@ function App() {
                       width: '240px'
                     }}
                   />
+                  <div 
+                    onClick={() => setModalBuscaPorDesenhoOpen(true)}
+                    style={{ position: 'absolute', right: '10px', top: '50%', transform: 'translateY(-50%)', cursor: 'pointer', color: 'var(--cor-texto-suave)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+                    title="Pesquisar por desenho"
+                    onMouseEnter={(e) => e.currentTarget.style.color = 'var(--cor-texto-primario)'}
+                    onMouseLeave={(e) => e.currentTarget.style.color = 'var(--cor-texto-suave)'}
+                  >
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                      <path d="M12 20h9"></path>
+                      <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
+                    </svg>
+                  </div>
                 </div>
               </div>
             )}
@@ -1116,7 +1130,21 @@ function App() {
         </div>
 
         {status !== 'Aguardando...' && status !== '' && (
-          <div style={{ color: 'var(--cor-texto-suave)', marginBottom: '12px' }}>
+          <div style={{
+            position: 'fixed',
+            bottom: '24px',
+            right: '24px',
+            backgroundColor: 'var(--cor-fundo)',
+            color: 'var(--cor-texto-primario)',
+            padding: '12px 16px',
+            borderRadius: '8px',
+            border: '1px solid var(--cor-borda)',
+            boxShadow: '0 4px 12px rgba(0,0,0,0.5)',
+            zIndex: 9999,
+            fontSize: '13px',
+            pointerEvents: 'none',
+            maxWidth: '300px'
+          }}>
             {status}
           </div>
         )}
@@ -1175,6 +1203,7 @@ function App() {
           abaAtiva={abaAtiva}
           configuracoesApp={configuracoesApp}
           setStatus={setStatus}
+          AoClicarNoCartao={AoClicarNoCartao}
         />
       </div>
 
@@ -1264,6 +1293,13 @@ function App() {
         setSugestoesPinyin={setSugestoesPinyin}
         SalvarPalavra={SalvarPalavra}
         setStatus={setStatus}
+        configuracoesApp={configuracoesApp}
+      />
+
+      <ModalBuscaPorDesenho
+        isOpen={modalBuscaPorDesenhoOpen}
+        onClose={() => setModalBuscaPorDesenhoOpen(false)}
+        onSelect={(hanzi) => setTermoBuscaGlobal(hanzi)}
         configuracoesApp={configuracoesApp}
       />
 

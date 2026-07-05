@@ -12,6 +12,11 @@ node_modules/
 
 # ----- Build / distribuição (PyInstaller) -----
 build/
+# Exceção: o ícone do app (fonte do icon.ico gerado pelo Wails) é versionado — sem ele o CI
+# buildaria o instalador com o ícone padrão do Wails.
+!wails_app/build/
+wails_app/build/*
+!wails_app/build/appicon.png
 dist/
 *.exe
 build_env/

@@ -14,6 +14,7 @@ interface PlacarRevisaoProps {
 }
 
 const ROTULOS_MODO: Record<string, string> = {
+  geral: 'Geral',
   significado: 'Significado',
   fonetica: 'Fonética',
   desenho: 'Desenho',

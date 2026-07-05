@@ -608,6 +608,12 @@ body {
   line-height: 1.5;
 }
 
+.revisao-card-modo-destaque {
+  grid-column: 1 / -1;
+  border-color: var(--cor-destaque);
+  background: linear-gradient(135deg, var(--cor-fundo-cartao) 0%, color-mix(in srgb, var(--cor-destaque) 8%, var(--cor-fundo-cartao)) 100%);
+}
+
 .revisao-opcoes {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -746,11 +752,12 @@ body {
 /* ============================================= */
 
 .revisao-container {
+  width: 100%;
   max-width: 640px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  min-height: calc(100vh - 210px); /* empurra o banner de feedback para o rodapé da área útil */
+  flex: 1; /* Preenche toda a área útil para evitar saltos no layout */
 }
 
 /* --- Topo: barra de progresso + chips --- */
@@ -806,6 +813,7 @@ body {
 .revisao-chip-estudo {
   color: var(--cor-destaque-hover);
   border-color: var(--cor-destaque);
+  margin-left: auto;
 }
 
 .revisao-dica-teclas {
@@ -818,6 +826,9 @@ body {
 
 .revisao-questao {
   animation: revisao-entrada 0.3s ease-out;
+  display: flex;
+  flex-direction: column;
+  flex: 1; /* Preenche o espaço entre o topo e o banner */
 }
 
 .revisao-hanzi-grande {

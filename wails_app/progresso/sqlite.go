@@ -12,13 +12,13 @@ import (
 )
 
 type Vocab struct {
-	Id         int
-	Hanzi      string
-	Pinyin     string
+	Id          int
+	Hanzi       string
+	Pinyin      string
 	Significado string
-	Status     string // "estudo", "aprendido"
-	DataAdd    time.Time
-	TipoHanzi  string `json:"tipoHanzi"`
+	Status      string // "estudo", "aprendido"
+	DataAdd     time.Time
+	TipoHanzi   string `json:"tipoHanzi"`
 }
 
 var db *sql.DB
@@ -76,10 +76,13 @@ func InitDB() error {
 		return err
 	}
 
-	// Limpeza de legado: versões antigas gravavam as imagens de sessão nesta tabela (hoje ficam em
-	// memória — ver SalvarImagemSessao); esvaziá-la recupera o espaço de bancos antigos.
-	_, err = db.Exec("DELETE FROM session_images")
-	return err
+	// Imagens de sessão são efêmeras: descarta sobras da sessão anterior (shutdown abrupto) e
+	// recupera o espaço em disco que elas ocupavam (o VACUUM copia só as páginas vivas — barato).
+	if _, err = db.Exec("DELETE FROM session_images"); err != nil {
+		return err
+	}
+	_, _ = db.Exec("VACUUM")
+	return nil
 }
 
 // migrarCacheTtsParaPinyin recria a tabela tts_audio_cache quando ela ainda está no schema antigo
@@ -164,13 +167,13 @@ func RegistrarVisto(hanzi, pinyin, significado string) error {
 	VALUES (?, ?, ?, 'visto')
 	`
 	_, err := db.Exec(query, hanzi, pinyin, significado)
-	
+
 	if err == nil {
 		vistosSessaoMu.Lock()
 		vistosSessao[hanzi] = true
 		vistosSessaoMu.Unlock()
 	}
-	
+
 	return err
 }
 
@@ -232,18 +235,13 @@ func GetAllVocab() ([]Vocab, error) {
 }
 
 // ----- Imagens de sessão (crops dos cards) -----
-// Efêmeras por definição (zeradas a cada sessão), então vivem em MEMÓRIA: gravá-las no SQLite
-// gerava um INSERT + fsync por palavra a cada scan sem nenhum benefício de persistência. O teto
-// descarta as mais antigas para a RAM não crescer sem limite em sessões longas de auto-scan.
+// Ficam em DISCO (tabela session_images), com leitura preguiçosa: o frontend guarda só o id e busca
+// o base64 quando o card é aberto. Sessões não têm duração definida, então em RAM os crops de um
+// auto-scan longo cresceriam sem limite (ou, com teto, os cards antigos perderiam o crop cedo).
+// O custo de disco fica controlado gravando os crops de cada scan numa ÚNICA transação (um fsync
+// por scan, não por palavra) e descartando as mais antigas acima do teto.
 
-const maxImagensSessao = 10_000
-
-var (
-	imagensSessaoMu       sync.Mutex
-	imagensSessao         = map[int]string{}
-	ordemImagensSessao    []int // ids na ordem de inserção, para o descarte das mais antigas
-	proximoIdImagemSessao = 1
-)
+const maxImagensSessao = 1_000
 
 // vistosSessao evita repetir o INSERT OR IGNORE das mesmas palavras a cada scan — para
 // palavras já registradas o comando não muda nada, mas ainda custa um acesso a disco.
@@ -252,40 +250,73 @@ var (
 	vistosSessao   = map[string]bool{}
 )
 
-func SalvarImagemSessao(base64 string) (int, error) {
-	imagensSessaoMu.Lock()
-	defer imagensSessaoMu.Unlock()
-
-	id := proximoIdImagemSessao
-	proximoIdImagemSessao++
-	imagensSessao[id] = base64
-	ordemImagensSessao = append(ordemImagensSessao, id)
-
-	// Teto de RAM: descarta as imagens mais antigas (os cards antigos ficam sem crop no modal).
-	for len(ordemImagensSessao) > maxImagensSessao {
-		delete(imagensSessao, ordemImagensSessao[0])
-		ordemImagensSessao = ordemImagensSessao[1:]
+// SalvarImagensSessaoLote grava todos os crops de um scan numa única transação e devolve os ids
+// gerados, na mesma ordem. Também descarta as imagens mais antigas acima de maxImagensSessao
+// (os cards antigos ficam sem crop no modal).
+func SalvarImagensSessaoLote(imagens []string) ([]int, error) {
+	if len(imagens) == 0 {
+		return nil, nil
+	}
+	if db == nil {
+		return nil, fmt.Errorf("DB não inicializado")
 	}
 
-	return id, nil
+	tx, err := db.Begin()
+	if err != nil {
+		return nil, err
+	}
+	defer tx.Rollback()
+
+	stmt, err := tx.Prepare("INSERT INTO session_images (image_base64) VALUES (?)")
+	if err != nil {
+		return nil, err
+	}
+	defer stmt.Close()
+
+	ids := make([]int, 0, len(imagens))
+	for _, base64 := range imagens {
+		res, err := stmt.Exec(base64)
+		if err != nil {
+			return nil, err
+		}
+		id, err := res.LastInsertId()
+		if err != nil {
+			return nil, err
+		}
+		ids = append(ids, int(id))
+	}
+
+	// Teto de disco: descarta as mais antigas (ids são monotônicos por AUTOINCREMENT).
+	ultimoId := ids[len(ids)-1]
+	if _, err := tx.Exec("DELETE FROM session_images WHERE id <= ?", ultimoId-maxImagensSessao); err != nil {
+		return nil, err
+	}
+
+	return ids, tx.Commit()
 }
 
 func GetImagemSessao(id int) (string, error) {
-	imagensSessaoMu.Lock()
-	defer imagensSessaoMu.Unlock()
+	if db == nil {
+		return "", fmt.Errorf("DB não inicializado")
+	}
 
-	base64, achou := imagensSessao[id]
-	if !achou {
+	var base64 string
+	err := db.QueryRow("SELECT image_base64 FROM session_images WHERE id = ?", id).Scan(&base64)
+	if err == sql.ErrNoRows {
 		return "", fmt.Errorf("imagem de sessão %d não encontrada", id)
+	}
+	if err != nil {
+		return "", err
 	}
 	return base64, nil
 }
 
+// LimparImagensSessao esvazia a tabela (chamada no shutdown; o espaço em disco é recuperado
+// pelo VACUUM do próximo InitDB).
 func LimparImagensSessao() error {
-	imagensSessaoMu.Lock()
-	defer imagensSessaoMu.Unlock()
-
-	imagensSessao = map[int]string{}
-	ordemImagensSessao = nil
-	return nil
+	if db == nil {
+		return fmt.Errorf("DB não inicializado")
+	}
+	_, err := db.Exec("DELETE FROM session_images")
+	return err
 }

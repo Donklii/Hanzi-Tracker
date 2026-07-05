@@ -93,3 +93,33 @@ func SegmentarComPosicao(texto string) []PalavraPosicionada {
 
 	return posicionadas
 }
+
+// TokenSegmentado contains a raw token from Jieba
+type TokenSegmentado struct {
+	Texto    string
+	EhChines bool
+}
+
+// SegmentarTodosTokens segmenta o texto preservando todos os tokens (incluindo pontuação e espaços).
+// Classifica cada token se é composto inteiramente por caracteres chineses ou não.
+func SegmentarTodosTokens(texto string) []TokenSegmentado {
+	var tokens []TokenSegmentado
+	ch := seg.Cut(texto, true)
+	for token := range ch {
+		if token == "" {
+			continue
+		}
+		ehChinesa := true
+		for _, c := range token {
+			if c < '\u4e00' || c > '\u9fff' {
+				ehChinesa = false
+				break
+			}
+		}
+		tokens = append(tokens, TokenSegmentado{
+			Texto:    token,
+			EhChines: ehChinesa,
+		})
+	}
+	return tokens
+}

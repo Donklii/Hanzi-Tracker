@@ -1,36 +1,6 @@
 // ----- Seção: Comum -----
 import React, { useState, useRef } from 'react';
 import { progresso } from '../../wailsjs/go/models';
-import { TocarAudio } from './TocarAudio';
-
-function BotaoAudioPinyin({ hanzi, motorTtsAtivo }: { hanzi: string, motorTtsAtivo: string }) {
-  const [tocando, setTocando] = useState(false);
-
-  const tocar = async (e: React.MouseEvent) => {
-    e.stopPropagation();
-    if (tocando) return;
-    
-    setTocando(true);
-    await TocarAudio(hanzi, motorTtsAtivo);
-    setTocando(false);
-  };
-
-  return (
-    <button
-      onClick={tocar}
-      style={{
-        background: 'none', border: 'none', cursor: 'pointer', fontSize: '14px', 
-        opacity: tocando ? 0.6 : 0.8, padding: '0 4px', marginRight: '4px',
-        display: 'inline-flex', alignItems: 'center', justifyContent: 'center'
-      }}
-      title="Ouvir Pronúncia"
-      onMouseOver={e => e.currentTarget.style.opacity = '1'}
-      onMouseOut={e => e.currentTarget.style.opacity = '0.8'}
-    >
-      🔊
-    </button>
-  );
-}
 
 interface ListaCartoesProps {
   list: any[];
@@ -105,7 +75,6 @@ export function ListaCartoes(props: ListaCartoesProps) {
             {badge}
             {badgeTipoHanzi}
             <div className="card-pinyin" style={{color: statusDB === 'estudo' ? '#64b5f6' : statusDB === 'aprendido' ? '#81c784' : 'var(--cor-destaque)', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-              <BotaoAudioPinyin hanzi={hz} motorTtsAtivo={motorTtsAtivo || ''} />
               {py}
             </div>
             <div className="card-hanzi">{hz}</div>

@@ -82,6 +82,10 @@ type App struct {
 	preCacheTtsMutex    sync.Mutex
 	preCacheTtsAtivo    bool
 	preCacheTtsCancelar chan struct{}
+
+	// mapaStatusRevisao armazena o status de cada caractere (estudo/aprendido) durante uma sessão
+	// de revisão, usado pela seleção ponderada de frases em preencherFrase.
+	mapaStatusRevisao map[string]string
 }
 
 // NewApp creates a new App application struct
@@ -141,9 +145,15 @@ func (a *App) AvaliarTipoHanzi(hanzi string) string {
 func (a *App) GetVocab() ([]progresso.Vocab, error) {
 	v, err := progresso.GetAllVocab()
 	if err == nil {
+		var filtrado []progresso.Vocab
 		for i := range v {
+			if _, ehAbrev := dicionario.MapaAbrevParaCompleto[v[i].Hanzi]; ehAbrev {
+				continue // Oculta componentes e radicais avulsos do histórico
+			}
 			v[i].TipoHanzi = a.Cedict.AvaliarTipoHanzi(v[i].Hanzi)
+			filtrado = append(filtrado, v[i])
 		}
+		v = filtrado
 	}
 	return v, err
 }
@@ -858,6 +868,30 @@ func (a *App) BuscarNoDicionarioGeral(termo string) []FlashcardCard {
 	var resultados []FlashcardCard
 	vistos := make(map[string]bool)
 
+	if strings.HasPrefix(termo, "[DESENHO]") {
+		caracteres := strings.TrimPrefix(termo, "[DESENHO]")
+		for _, c := range caracteres {
+			charStr := string(c)
+			if charStr == " " {
+				continue
+			}
+			entradas := a.LookupWord(charStr)
+			for _, e := range entradas {
+				if !vistos[e.Simplificado] {
+					vistos[e.Simplificado] = true
+					resultados = append(resultados, FlashcardCard{
+						Hanzi:        e.Simplificado,
+						Pinyin:       e.Pinyin,
+						Significados: e.Significados,
+						Confianca:    1.0,
+						TipoHanzi:    a.Cedict.AvaliarTipoHanzi(e.Simplificado),
+					})
+				}
+			}
+		}
+		return resultados
+	}
+
 	// Busca primeiro no MakeMeAHanzi (para garantir caracteres únicos de etimologia)
 	if a.BancoHanzi != nil {
 		entradasMake := a.BancoHanzi.BuscarGeral(termo)
@@ -1151,6 +1185,11 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	var cards []FlashcardCard
 	var linhas []LinhaTraduzida
 
+	// Crops dos cards deste scan, gravados em disco de uma vez no fim do loop (uma transação por
+	// scan, não um fsync por palavra — ver progresso.SalvarImagensSessaoLote).
+	var cropsPendentes []string
+	var indicesCardsComCrop []int
+
 	// Pré-calcula se a tradução deve ser tentada neste scan (evita repetir a verificação no loop).
 	// A tradução em si ocorre apenas em mostrarTodosPopups().
 
@@ -1261,6 +1300,13 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 			}
 			offsetRunes += nRunes
 
+			// Ignorar cartões de caracteres individuais que não têm nenhum significado (como lixo de OCR)
+			// ou que são componentes visuais/radicais avulsos (como 氵, 冫, 亻, etc).
+			_, ehAbrev := dicionario.MapaAbrevParaCompleto[p]
+			if utf8.RuneCountInString(p) == 1 && (len(significados) == 0 || ehAbrev) {
+				continue
+			}
+
 			var base64Img string
 			if len(caixaCard) == 4 {
 				// Expand um pouquinho o crop pra dar respiro visual (padding de 10px)
@@ -1275,22 +1321,18 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 				}
 			}
 
-			imgId := 0
-			if base64Img != "" {
-				if id, err := progresso.SalvarImagemSessao(base64Img); err == nil {
-					imgId = id
-				}
-			}
-
 			cards = append(cards, FlashcardCard{
 				Hanzi:        p,
 				Pinyin:       pinyin,
 				Significados: significados,
 				Confianca:    res.Confianca,
 				Caixa:        caixaCard,
-				ImageId:      imgId,
 				TipoHanzi:    a.Cedict.AvaliarTipoHanzi(p),
 			})
+			if base64Img != "" {
+				cropsPendentes = append(cropsPendentes, base64Img)
+				indicesCardsComCrop = append(indicesCardsComCrop, len(cards)-1)
+			}
 
 			// Salvar no histórico de "Já Vistas"
 			sigStr := ""
@@ -1302,6 +1344,13 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 			}
 			progresso.RegistrarVisto(p, pinyin, sigStr)
 			a.registrarHanzisIndividuais(p)
+		}
+	}
+
+	// Grava os crops do scan em disco de uma vez e preenche os ids nos cards correspondentes.
+	if ids, err := progresso.SalvarImagensSessaoLote(cropsPendentes); err == nil {
+		for i, indice := range indicesCardsComCrop {
+			cards[indice].ImageId = ids[i]
 		}
 	}
 

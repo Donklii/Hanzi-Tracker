@@ -436,6 +436,24 @@ export namespace main {
 	        this.correta = source["correta"];
 	    }
 	}
+	export class PalavraRevisao {
+	    texto: string;
+	    pinyin: string;
+	    significados: string[];
+	    ehChines: boolean;
+	
+	    static createFrom(source: any = {}) {
+	        return new PalavraRevisao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.texto = source["texto"];
+	        this.pinyin = source["pinyin"];
+	        this.significados = source["significados"];
+	        this.ehChines = source["ehChines"];
+	    }
+	}
 	export class QuestaoRevisao {
 	    modo: string;
 	    variante: string;
@@ -445,6 +463,8 @@ export namespace main {
 	    emEstudo: boolean;
 	    fraseLacuna: string;
 	    fraseOriginal: string;
+	    fraseLacunaSegmentada: PalavraRevisao[];
+	    fraseOriginalSegmentada: PalavraRevisao[];
 	    fraseTraducao: string;
 	    fraseAtribuicao: string;
 	    opcoes: OpcaoRevisao[];
@@ -463,6 +483,8 @@ export namespace main {
 	        this.emEstudo = source["emEstudo"];
 	        this.fraseLacuna = source["fraseLacuna"];
 	        this.fraseOriginal = source["fraseOriginal"];
+	        this.fraseLacunaSegmentada = this.convertValues(source["fraseLacunaSegmentada"], PalavraRevisao);
+	        this.fraseOriginalSegmentada = this.convertValues(source["fraseOriginalSegmentada"], PalavraRevisao);
 	        this.fraseTraducao = source["fraseTraducao"];
 	        this.fraseAtribuicao = source["fraseAtribuicao"];
 	        this.opcoes = this.convertValues(source["opcoes"], OpcaoRevisao);

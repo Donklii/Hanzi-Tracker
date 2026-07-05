@@ -7,6 +7,7 @@ interface SelecaoModoRevisaoProps {
 }
 
 export const MODOS_REVISAO = [
+  { chave: 'geral', titulo: 'Geral', descricao: 'Mistura todas as modalidades em uma única sessão.' },
   { chave: 'significado', titulo: 'Significado', descricao: 'Ligue o Hanzi ao seu significado (e vice-versa).' },
   { chave: 'fonetica', titulo: 'Fonética', descricao: 'Ligue o som do Hanzi ao caractere (e vice-versa).' },
   { chave: 'desenho', titulo: 'Desenho', descricao: 'Desenhe o Hanzi no canvas, guiado por contexto ou de memória.' },
@@ -14,6 +15,9 @@ export const MODOS_REVISAO = [
 ];
 
 const ICONES_MODO: Record<string, JSX.Element> = {
+  geral: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polyline points="16 3 21 3 21 8"></polyline><line x1="4" y1="20" x2="21" y2="3"></line><polyline points="21 16 21 21 16 21"></polyline><line x1="15" y1="15" x2="21" y2="21"></line><line x1="4" y1="4" x2="9" y2="9"></line></svg>
+  ),
   significado: (
     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
   ),
@@ -32,7 +36,7 @@ export function SelecaoModoRevisao({ aoEscolherModo }: SelecaoModoRevisaoProps) 
   return (
     <div className="revisao-selecao-modos">
       {MODOS_REVISAO.map(m => (
-        <button key={m.chave} className="revisao-card-modo" onClick={() => aoEscolherModo(m.chave)}>
+        <button key={m.chave} className={`revisao-card-modo${m.chave === 'geral' ? ' revisao-card-modo-destaque' : ''}`} onClick={() => aoEscolherModo(m.chave)}>
           <div className="revisao-card-modo-icone">{ICONES_MODO[m.chave]}</div>
           <div className="revisao-card-modo-titulo">{m.titulo}</div>
           <div className="revisao-card-modo-descricao">{m.descricao}</div>

@@ -4,18 +4,20 @@ import (
 	"fmt"
 	"math/rand/v2"
 	"strings"
+	"unicode"
 	"unicode/utf8"
 
 	"wails_app/dicionario"
 	"wails_app/progresso"
+	"wails_app/segmentacao"
 )
 
 // ----- Revisão de Hanzis -----
-// Gera as questões dos 4 modos de revisão (significado, fonética, desenho e contexto) no BACKEND:
-// aqui o acesso ao dicionário MakeMeAHanzi (definições/pinyin), ao banco de frases do Tatoeba e aos
-// traçados do Hanzi Writer é barato e síncrono — o frontend só renderiza a questão pronta e valida
-// a interação. O áudio da revisão fonética NÃO vem aqui: o frontend pede via FalarPinyin (tts.go),
-// que já resolve cache e sidecar.
+// Gera as questões dos 5 modos de revisão (significado, fonética, desenho, contexto e geral) no
+// BACKEND: aqui o acesso ao dicionário MakeMeAHanzi (definições/pinyin), ao banco de frases do
+// Tatoeba e aos traçados do Hanzi Writer é barato e síncrono — o frontend só renderiza a questão
+// pronta e valida a interação. O áudio da revisão fonética NÃO vem aqui: o frontend pede via
+// FalarPinyin (tts.go), que já resolve cache e sidecar.
 
 // Modos de revisão (chaves compartilhadas com o frontend).
 const (
@@ -23,7 +25,11 @@ const (
 	ModoFonetica    = "fonetica"
 	ModoDesenho     = "desenho"
 	ModoContexto    = "contexto"
+	ModoGeral       = "geral"
 )
+
+// modosConcretos são os 4 modos "reais" usados pelo modo geral para sortear a modalidade de cada questão.
+var modosConcretos = []string{ModoSignificado, ModoFonetica, ModoDesenho, ModoContexto}
 
 // Quantidade de questões por sessão quando o frontend não especifica, e teto de segurança.
 const (
@@ -55,13 +61,23 @@ type QuestaoRevisao struct {
 
 	// Frase de contexto (modos contexto e desenho_contexto; vazia nos demais). FraseLacuna troca o
 	// hanzi-alvo por "＿" — inclusive no desenho guiado, senão bastaria copiar o caractere da frase.
-	FraseLacuna     string `json:"fraseLacuna"`
-	FraseOriginal   string `json:"fraseOriginal"`
-	FraseTraducao   string `json:"fraseTraducao"`
-	FraseAtribuicao string `json:"fraseAtribuicao"` // crédito CC-BY do Tatoeba — exibir junto da frase
+	FraseLacuna             string           `json:"fraseLacuna"`
+	FraseOriginal           string           `json:"fraseOriginal"`
+	FraseLacunaSegmentada   []PalavraRevisao `json:"fraseLacunaSegmentada"`
+	FraseOriginalSegmentada []PalavraRevisao `json:"fraseOriginalSegmentada"`
+	FraseTraducao           string           `json:"fraseTraducao"`
+	FraseAtribuicao         string           `json:"fraseAtribuicao"` // crédito CC-BY do Tatoeba — exibir junto da frase
 
 	// Opcoes: 4 alternativas embaralhadas (vazio nos modos só-desenho).
 	Opcoes []OpcaoRevisao `json:"opcoes"`
+}
+
+// PalavraRevisao representa um token da frase segmentada, com seu pinyin e significados caso seja chinês.
+type PalavraRevisao struct {
+	Texto        string   `json:"texto"`
+	Pinyin       string   `json:"pinyin"`
+	Significados []string `json:"significados"`
+	EhChines     bool     `json:"ehChines"`
 }
 
 // alvoRevisao amarra a entrada do dicionário à origem dela (vocabulário em estudo ou sorteio).
@@ -87,6 +103,8 @@ func (a *App) ObterDadosEscritaHanzi(caractere string) (string, error) {
 // ObterQuestoesRevisao monta uma sessão de questões para o modo pedido. Prioriza caracteres com
 // status "estudo" no vocabulário (se a config permitir) e completa com sorteios do dicionário
 // MakeMeAHanzi para evitar repetições quando há poucos caracteres em estudo.
+//
+// O modo "geral" mistura todos os 4 modos na mesma sessão, sorteando a modalidade de cada questão.
 func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisao, error) {
 	if quantidade <= 0 {
 		quantidade = QuestoesPorSessaoPadrao
@@ -103,11 +121,14 @@ func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisa
 	vocabulario, _ := progresso.GetAllVocab()
 	var emEstudo []string
 	vistosEstudo := make(map[string]bool)
-	
+
 	mapaStatus := make(map[string]string)
 	for _, v := range vocabulario {
 		for _, r := range v.Hanzi {
 			ch := string(r)
+			if _, ehAbrev := dicionario.MapaAbrevParaCompleto[ch]; ehAbrev {
+				continue
+			}
 			if v.Status == "estudo" {
 				mapaStatus[ch] = "estudo"
 				if !vistosEstudo[ch] {
@@ -121,6 +142,9 @@ func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisa
 	}
 	rand.Shuffle(len(emEstudo), func(i, j int) { emEstudo[i], emEstudo[j] = emEstudo[j], emEstudo[i] })
 
+	// Salva o mapaStatus no App para uso posterior na priorização de frases.
+	a.mapaStatusRevisao = mapaStatus
+
 	var candEstudo []dicionario.DecomposicaoHanzi
 	var candAprendido []dicionario.DecomposicaoHanzi
 	for _, c := range candidatos {
@@ -133,9 +157,42 @@ func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisa
 
 	alvos := a.selecionarAlvos(candidatos, emEstudo, quantidade)
 
+	// Para o modo geral, pré-computa os candidatos dos 4 modos concretos.
+	var candidatosPorModo map[string][]dicionario.DecomposicaoHanzi
+	if modo == ModoGeral {
+		candidatosPorModo = make(map[string][]dicionario.DecomposicaoHanzi, len(modosConcretos))
+		for _, m := range modosConcretos {
+			candidatosPorModo[m] = a.candidatosParaModo(m)
+		}
+	}
+
 	questoes := make([]QuestaoRevisao, 0, len(alvos))
 	for _, alvo := range alvos {
-		questao, err := a.montarQuestao(modo, alvo, candidatos, candEstudo, candAprendido)
+		modoQuestao := modo
+		candQuestao := candidatos
+
+		if modo == ModoGeral {
+			// Sorteia um modo concreto para esta questão, garantindo que o alvo é elegível.
+			modoQuestao = a.sortearModoParaAlvo(alvo, candidatosPorModo)
+			candQuestao = candidatosPorModo[modoQuestao]
+		}
+
+		// Recalcula distratores em estudo/aprendidos para o pool correto.
+		var ceQuestao, caQuestao []dicionario.DecomposicaoHanzi
+		if modo == ModoGeral {
+			for _, c := range candQuestao {
+				if mapaStatus[c.Caractere] == "estudo" {
+					ceQuestao = append(ceQuestao, c)
+				} else if mapaStatus[c.Caractere] == "aprendido" {
+					caQuestao = append(caQuestao, c)
+				}
+			}
+		} else {
+			ceQuestao = candEstudo
+			caQuestao = candAprendido
+		}
+
+		questao, err := a.montarQuestao(modoQuestao, alvo, candQuestao, ceQuestao, caQuestao)
 		if err != nil {
 			continue // alvo sem frase/distratores viáveis: pula sem derrubar a sessão
 		}
@@ -148,10 +205,26 @@ func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisa
 	return questoes, nil
 }
 
+// sortearModoParaAlvo escolhe um modo concreto aleatório que aceite o alvo dado.
+// Tenta os 4 modos em ordem aleatória e cai em "significado" como último recurso.
+func (a *App) sortearModoParaAlvo(alvo alvoRevisao, candidatosPorModo map[string][]dicionario.DecomposicaoHanzi) string {
+	ordem := rand.Perm(len(modosConcretos))
+	for _, i := range ordem {
+		m := modosConcretos[i]
+		for _, c := range candidatosPorModo[m] {
+			if c.Caractere == alvo.entrada.Caractere {
+				return m
+			}
+		}
+	}
+	return ModoSignificado // fallback seguro: significado aceita qualquer caractere
+}
+
 // ----- Seleção de candidatos e alvos -----
 
 // candidatosParaModo filtra o universo de caracteres pelo que o modo exige além de definição e
 // pinyin (já garantidos por CandidatosRevisao): traçados para desenhar, frase para contextualizar.
+// O modo "geral" usa o universo inteiro (cada questão será re-filtrada pelo modo concreto sorteado).
 func (a *App) candidatosParaModo(modo string) []dicionario.DecomposicaoHanzi {
 	todos := a.BancoHanzi.CandidatosRevisao()
 
@@ -176,6 +249,8 @@ func (a *App) candidatosParaModo(modo string) []dicionario.DecomposicaoHanzi {
 			r, _ := utf8.DecodeRuneInString(e.Caractere)
 			return a.BancoFrases.TemCaractere(r) && a.BancoTracados.Tem(e.Caractere)
 		})
+	case ModoGeral:
+		return todos // o universo completo — cada questão será filtrada individualmente
 	default: // significado e fonética usam o universo inteiro
 		return todos
 	}
@@ -289,13 +364,21 @@ func sortearVariante(a, b string) string {
 }
 
 // preencherFrase sorteia uma frase que contenha o hanzi-alvo (preferindo curtas, que cabem melhor
-// na tela) e preenche os campos de frase da questão. Devolve false se não houver nenhuma.
+// na tela) e preenche os campos de frase da questão. Filtra e converte a frase de acordo com a
+// configuração TipoHanziExibicao: "simplificado" ou "tradicional" descartam frases incompatíveis
+// e convertem o texto; "ambos" mantém a frase original.
+//
+// Priorização: frases contendo mais caracteres aprendidos/em estudo ganham peso maior na seleção
+// aleatória, favorecendo frases com vocabulário que o usuário já conhece.
+// Devolve false se não houver nenhuma frase disponível.
 func (a *App) preencherFrase(questao *QuestaoRevisao) bool {
 	alvo, _ := utf8.DecodeRuneInString(questao.Hanzi)
 	frases := a.BancoFrases.FrasesComCaractere(alvo)
 	if len(frases) == 0 {
 		return false
 	}
+
+	tipoExibicao := a.Config.TipoHanziExibicao
 
 	const tamanhoConfortavel = 20 // em caracteres chineses; acima disso a lacuna fica difícil de achar
 	curtas := make([]dicionario.Frase, 0, len(frases))
@@ -308,12 +391,172 @@ func (a *App) preencherFrase(questao *QuestaoRevisao) bool {
 		frases = curtas
 	}
 
-	escolhida := frases[rand.IntN(len(frases))]
-	questao.FraseOriginal = escolhida.Chines
-	questao.FraseLacuna = strings.Replace(escolhida.Chines, questao.Hanzi, "＿", 1)
+	// Filtra frases compatíveis com o tipo de Hanzi configurado (ignora quando "ambos")
+	if tipoExibicao == "simplificado" || tipoExibicao == "tradicional" {
+		compativeis := make([]dicionario.Frase, 0, len(frases))
+		for _, f := range frases {
+			if a.Cedict.FraseCompativelComTipo(f.Chines, tipoExibicao) {
+				compativeis = append(compativeis, f)
+			}
+		}
+		// Se houver frases compatíveis, usa só elas; caso contrário, mantém todas
+		// (serão convertidas abaixo)
+		if len(compativeis) > 0 {
+			frases = compativeis
+		}
+	}
+
+	// Seleção ponderada: frases com mais caracteres aprendidos/em estudo ganham peso maior.
+	escolhida := a.selecionarFrasePonderada(frases)
+
+	// Converte a frase para o tipo de Hanzi configurado (quando não é "ambos")
+	textoChinês := escolhida.Chines
+	if tipoExibicao == "simplificado" || tipoExibicao == "tradicional" {
+		textoChinês = a.Cedict.ConverterTexto(textoChinês, tipoExibicao)
+	}
+
+	questao.FraseOriginal = textoChinês
+	questao.FraseLacuna = strings.Replace(textoChinês, questao.Hanzi, "＿", 1)
 	questao.FraseTraducao = escolhida.Ingles
 	questao.FraseAtribuicao = escolhida.Atribuicao
+
+	// Segmenta a frase para habilitar o popup de tooltip por palavra no frontend
+	questao.FraseOriginalSegmentada = a.decomporTextoRevisao(questao.FraseOriginal)
+
+	// Cria a versão com lacuna baseada na segmentada original
+	questao.FraseLacunaSegmentada = make([]PalavraRevisao, len(questao.FraseOriginalSegmentada))
+	for i, p := range questao.FraseOriginalSegmentada {
+		if strings.Contains(p.Texto, questao.Hanzi) {
+			p.Texto = strings.Replace(p.Texto, questao.Hanzi, "＿", 1)
+			// Remove pinyin e significado do token que contém o caractere oculto (pois ele é a resposta)
+			p.Pinyin = ""
+			p.Significados = nil
+		}
+		questao.FraseLacunaSegmentada[i] = p
+	}
+
 	return true
+}
+
+// decomporTextoRevisao segmenta uma frase e preenche pinyin/significado dos tokens chineses.
+func (a *App) decomporTextoRevisao(texto string) []PalavraRevisao {
+	tokensRaw := segmentacao.SegmentarTodosTokens(texto)
+	var resultado []PalavraRevisao
+
+	for _, t := range tokensRaw {
+		if !t.EhChines {
+			resultado = append(resultado, PalavraRevisao{
+				Texto:    t.Texto,
+				EhChines: false,
+			})
+			continue
+		}
+
+		hasMeaning := false
+		if utf8.RuneCountInString(t.Texto) == 1 {
+			hasMeaning = true
+		} else {
+			if len(a.Cedict.Buscar(t.Texto)) > 0 {
+				hasMeaning = true
+			}
+		}
+
+		var subTokens []string
+		if hasMeaning {
+			subTokens = append(subTokens, t.Texto)
+		} else {
+			subTokens = append(subTokens, a.breakIntoDictionaryWords(t.Texto)...)
+		}
+
+		for _, st := range subTokens {
+			tr := PalavraRevisao{
+				Texto:    st,
+				EhChines: true,
+			}
+
+			// Priorizar MakeMeAHanzi para caracteres isolados
+			usouMakeMeAHanzi := false
+			if utf8.RuneCountInString(st) == 1 {
+				dec := a.BancoHanzi.Buscar(st)
+				if dec != nil && dec.Definicao != "" {
+					if len(dec.Pinyin) > 0 {
+						tr.Pinyin = strings.Join(dec.Pinyin, ", ")
+					}
+					tr.Significados = []string{dec.Definicao}
+					usouMakeMeAHanzi = true
+				}
+			}
+
+			if !usouMakeMeAHanzi {
+				entradas := a.Cedict.Buscar(st)
+				if len(entradas) > 0 {
+					tr.Pinyin = entradas[0].Pinyin
+					tr.Significados = entradas[0].Significados
+				}
+			}
+
+			resultado = append(resultado, tr)
+		}
+	}
+
+	return resultado
+}
+
+const (
+	pesoFraseBase      = 10
+	pesoFraseAprendido = 400
+	pesoFraseEstudo    = 200
+)
+
+// selecionarFrasePonderada escolhe uma frase usando seleção ponderada. O peso base garante que
+// frases sem vocabulário conhecido ainda possam aparecer. Frases com maior proporção de vocabulário conhecido
+// do usuário (estudando ou aprendido) em relação ao total de hanzis únicos são proporcionalmente mais prováveis.
+func (a *App) selecionarFrasePonderada(frases []dicionario.Frase) dicionario.Frase {
+	if len(frases) == 1 || len(a.mapaStatusRevisao) == 0 {
+		return frases[rand.IntN(len(frases))]
+	}
+
+	pesos := make([]int, len(frases))
+	pesoTotal := 0
+	for i, f := range frases {
+		pontosConhecimento := 0
+		totalUnicos := 0
+		vistos := make(map[rune]bool)
+		
+		for _, r := range f.Chines {
+			if vistos[r] || !unicode.Is(unicode.Han, r) {
+				continue
+			}
+			vistos[r] = true
+			totalUnicos++
+			switch a.mapaStatusRevisao[string(r)] {
+			case "aprendido":
+				pontosConhecimento += pesoFraseAprendido
+			case "estudo":
+				pontosConhecimento += pesoFraseEstudo
+			}
+		}
+
+		var pesoFinal int
+		if totalUnicos > 0 {
+			pesoFinal = pesoFraseBase + (pontosConhecimento / totalUnicos)
+		} else {
+			pesoFinal = pesoFraseBase
+		}
+
+		pesos[i] = pesoFinal
+		pesoTotal += pesoFinal
+	}
+
+	// Roleta ponderada
+	sorteio := rand.IntN(pesoTotal)
+	for i, peso := range pesos {
+		sorteio -= peso
+		if sorteio < 0 {
+			return frases[i]
+		}
+	}
+	return frases[len(frases)-1] // fallback (não deve ocorrer)
 }
 
 // ----- Distratores -----

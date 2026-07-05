@@ -44,7 +44,13 @@ jobs:
 
       - name: Instalar NSIS (gera o instalador)
         shell: pwsh
-        run: choco install nsis -y --no-progress
+        # O choco só grava o PATH novo no registro do Windows; os steps seguintes do job não releem o
+        # registro, então o diretório do makensis precisa entrar no PATH do job via GITHUB_PATH — sem
+        # isso o Wails apenas avisa "makensis not found" e conclui SEM gerar o instalador (exit 0),
+        # e o erro só aparece lá no step de publicar a release ("does not match any files").
+        run: |
+          choco install nsis -y --no-progress
+          Add-Content $env:GITHUB_PATH 'C:\Program Files (x86)\NSIS'
 
       - name: Instalar o Wails CLI
         # Fixado na MESMA versão de github.com/wailsapp/wails/v2 usada em wails_app/go.mod — o template
@@ -94,7 +100,16 @@ jobs:
 
       - name: Buildar o app + instalador (wails build -nsis)
         working-directory: wails_app
-        run: wails build -nsis -platform windows/amd64
+        shell: pwsh
+        # O makensis /VERSION falha cedo se o NSIS não estiver acessível (o Wails trataria a ausência
+        # como warning e buildaria "com sucesso" sem instalador); o Test-Path garante que o build
+        # realmente produziu o .exe que o step de release vai anexar.
+        run: |
+          makensis /VERSION
+          wails build -nsis -platform windows/amd64
+          if (-not (Test-Path 'build/bin/HanziTracker-amd64-installer.exe')) {
+            throw 'wails build terminou sem gerar build/bin/HanziTracker-amd64-installer.exe'
+          }
 
       - name: Publicar a release
         uses: softprops/action-gh-release@v2

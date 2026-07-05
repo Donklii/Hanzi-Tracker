@@ -81,7 +81,7 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
     ? dadosDecomposicao.data.definition
     : significadoCartao;
 
-  const qualquerModoAtivo = modoDesenhoLivre || modoTreinoGuiado;
+  const qualquerModoAtivo = modoDesenhoLivre || modoTreinoGuiado || modoCompostos;
 
   const fecharModos = () => {
     setModoDesenhoLivre(false);
@@ -112,6 +112,7 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
           <h2>
             {modoDesenhoLivre ? "Desenho Livre (Busca)" : 
              modoTreinoGuiado ? "Treino Guiado de Caligrafia" : 
+             modoCompostos ? "Caracteres Compostos" :
              "Detalhes"}
           </h2>
           <button className="modal-close" onClick={() => setCartaoSelecionado(null)}>×</button>
@@ -123,6 +124,8 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
             <div style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
               <div style={{ marginBottom: '16px', color: 'var(--cor-texto-suave)', fontSize: '14px', textAlign: 'center' }}>
                 Desenhe por cima do Hanzi para pesquisar caracteres estruturalmente semelhantes ou compostos por ele.
+                <br />
+                <span style={{ fontSize: '12px', opacity: 0.8 }}>⚠️ A ordem e a direção dos traços importa para o reconhecimento correto.</span>
               </div>
               <CanvasHanziLookup 
                 onRecognize={(sugestoes) => setSugestoesPratica(sugestoes)}

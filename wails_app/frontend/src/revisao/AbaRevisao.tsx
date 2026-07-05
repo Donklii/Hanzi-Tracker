@@ -9,7 +9,7 @@
 // feedback fixo no rodapé com botão "Continuar" e atalhos de teclado (1–4 escolhem, Enter avança).
 import { useEffect, useRef, useState } from 'react';
 import { main, config } from '../../wailsjs/go/models';
-import { ObterQuestoesRevisao, FalarPinyin } from '../../wailsjs/go/main/App';
+import { ObterQuestoesRevisao, FalarPinyin, ShowHoverPopup, HideHoverPopup } from '../../wailsjs/go/main/App';
 import { CanvasDesenho } from './CanvasDesenho';
 import { SelecaoModoRevisao } from './SelecaoModoRevisao';
 import { OpcoesRevisao } from './OpcoesRevisao';
@@ -29,16 +29,20 @@ interface AbaRevisaoProps {
   abaAtiva: string;
   configuracoesApp: config.Config | null;
   setStatus: (s: string) => void;
+  AoClicarNoCartao?: (card: any) => void;
 }
 
 type FaseRevisao = 'selecao' | 'carregando' | 'sessao' | 'placar';
 
-export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus }: AbaRevisaoProps) {
+export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCartao }: AbaRevisaoProps) {
   const [fase, setFase] = useState<FaseRevisao>('selecao');
   const [modo, setModo] = useState('');
   const [questoes, setQuestoes] = useState<main.QuestaoRevisao[]>([]);
   const [indiceAtual, setIndiceAtual] = useState(0);
   const [acertos, setAcertos] = useState(0);
+  const [mostrarTraducaoFrase, setMostrarTraducaoFrase] = useState(() => {
+    return localStorage.getItem('mostrarTraducaoFrase') !== 'false';
+  });
 
   // Gamificação: sequência de acertos (combo), melhor sequência da sessão e pontos acumulados.
   const [sequencia, setSequencia] = useState(0);
@@ -174,12 +178,14 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus }: AbaRevisao
     setIndiceEscolhido(null);
     setAcertouAtual(null);
     setRespondendoComDesenho(false);
+    setMostrarTraducaoFrase(localStorage.getItem('mostrarTraducaoFrase') !== 'false');
     pararAudio();
   }
 
   function registrarResposta(acertou: boolean) {
     if (acertouAtual !== null) return; // já respondida (ex.: clique duplo)
     setAcertouAtual(acertou);
+    setMostrarTraducaoFrase(true); // Desoculta automaticamente após responder, mas sem salvar no localStorage
 
     if (acertou) {
       const novaSequencia = sequencia + 1;
@@ -305,7 +311,6 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus }: AbaRevisao
             <span key={sequencia} className="revisao-chip revisao-chip-combo" title="Acertos seguidos">🔥 {sequencia}</span>
           )}
           {questaoAtual.emEstudo && <span className="revisao-chip revisao-chip-estudo">EM ESTUDO</span>}
-          <span className="revisao-dica-teclas">1–4 escolhem · Enter continua</span>
         </div>
       </div>
 
@@ -371,10 +376,80 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus }: AbaRevisao
                 aoClicar={() => tocarAudio(questaoAtual.fraseOriginal)}
               />
               <div style={{ fontSize: '26px', lineHeight: 1.6, fontFamily: 'var(--fonte-hanzi)' }}>
-                {respondida ? questaoAtual.fraseOriginal : questaoAtual.fraseLacuna}
+                {(() => {
+                  const segmentada = respondida ? questaoAtual.fraseOriginalSegmentada : questaoAtual.fraseLacunaSegmentada;
+                  if (!segmentada || segmentada.length === 0) {
+                    return <span>{respondida ? questaoAtual.fraseOriginal : questaoAtual.fraseLacuna}</span>;
+                  }
+                  return segmentada.map((t, idx) => {
+                    if (t.ehChines && t.pinyin) {
+                      return (
+                        <span
+                          key={idx}
+                          style={{ cursor: 'pointer', transition: 'color 0.2s' }}
+                          onMouseEnter={(e) => {
+                            e.currentTarget.style.color = 'var(--cor-destaque)';
+                            const rect = e.currentTarget.getBoundingClientRect();
+                            const screenOffsetX = e.screenX - e.clientX;
+                            const screenOffsetY = e.screenY - e.clientY;
+                            const targetScreenX = Math.round(rect.left + rect.width / 2 + screenOffsetX);
+                            const targetScreenY = Math.round(rect.top + screenOffsetY);
+                            ShowHoverPopup(t.pinyin, t.texto, t.significados ? t.significados.join(', ') : '', targetScreenX, targetScreenY);
+                          }}
+                          onMouseLeave={(e) => {
+                            e.currentTarget.style.color = '';
+                            HideHoverPopup();
+                          }}
+                          onClick={() => {
+                            if (AoClicarNoCartao) {
+                              AoClicarNoCartao({ Hanzi: t.texto, Pinyin: t.pinyin, Significados: t.significados });
+                            }
+                          }}
+                        >
+                          {t.texto}
+                        </span>
+                      );
+                    }
+                    return <span key={idx}>{t.texto}</span>;
+                  });
+                })()}
               </div>
             </div>
-            <div style={{ color: 'var(--cor-texto-suave)', fontSize: '13px', marginTop: '6px' }}>{questaoAtual.fraseTraducao}</div>
+            <div style={{ display: 'flex', gap: '8px', alignItems: 'center', justifyContent: 'center', marginTop: '6px', color: 'var(--cor-texto-suave)', fontSize: '13px' }}>
+              <span style={{ opacity: mostrarTraducaoFrase ? 1 : 0.3, transition: 'opacity 0.2s' }}>
+                {mostrarTraducaoFrase ? questaoAtual.fraseTraducao : "Tradução oculta"}
+              </span>
+              <button
+                className="revisao-ocultar-traducao-btn"
+                onClick={() => {
+                  const novo = !mostrarTraducaoFrase;
+                  setMostrarTraducaoFrase(novo);
+                  localStorage.setItem('mostrarTraducaoFrase', String(novo));
+                }}
+                title={mostrarTraducaoFrase ? "Ocultar tradução" : "Exibir tradução"}
+                style={{ 
+                  padding: '4px', 
+                  opacity: 0.6, 
+                  display: 'flex', 
+                  color: mostrarTraducaoFrase ? 'var(--cor-destaque)' : 'var(--cor-texto-primario)',
+                  background: 'transparent',
+                  border: 'none',
+                  cursor: 'pointer'
+                }}
+              >
+                {mostrarTraducaoFrase ? (
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+                    <circle cx="12" cy="12" r="3" />
+                  </svg>
+                ) : (
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24" />
+                    <line x1="1" y1="1" x2="23" y2="23" />
+                  </svg>
+                )}
+              </button>
+            </div>
             {questaoAtual.variante === 'desenho_contexto' && (
               <div style={{ display: 'flex', gap: '12px', alignItems: 'center', justifyContent: 'center', marginTop: '12px' }}>
                 <BotaoAudio

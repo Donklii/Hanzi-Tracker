@@ -17,9 +17,10 @@ var dadosDicionario []byte
 
 // ----- Mapa de Abreviações Visuais -----
 
-// Caracteres do bloco CJK Radicals Supplement (U+2E80–U+2EFF)
+// Caracteres do bloco CJK Radicals Supplement e outros componentes visuais comuns
 // mapeados para seus caracteres CJK completos equivalentes.
-var mapaAbrevParaCompleto = map[string]string{
+var MapaAbrevParaCompleto = map[string]string{
+	// CJK Radicals Supplement
 	"⺀": "冫", // gelo
 	"⺈": "刀", // faca
 	"⺊": "卜", // adivinhação
@@ -29,6 +30,31 @@ var mapaAbrevParaCompleto = map[string]string{
 	"⺮": "竹", // bambu (forma superior)
 	"⺳": "网", // rede (forma superior)
 	"⺼": "肉", // carne (parece 月)
+	
+	// Componentes e Radicais Avulsos (para não virarem cards separados)
+	"氵": "水",
+	"冫": "冰",
+	"亻": "人",
+	"艹": "草",
+	"扌": "手",
+	"阝": "邑", // ou 阜, mapeado para 邑 convencionalmente
+	"犭": "犬",
+	"忄": "心",
+	"辶": "走",
+	"廴": "建",
+	"彳": "行",
+	"刂": "刀",
+	"灬": "火",
+	"糹": "糸",
+	"纟": "糸",
+	"釒": "金",
+	"钅": "金",
+	"飠": "食",
+	"饣": "食",
+	"衤": "衣",
+	"礻": "示",
+	"疒": "病",
+	"罒": "网",
 }
 
 
@@ -94,7 +120,7 @@ func (b *BancoMakeMeAHanzi) Carregar() error {
 
 	// ----- Segunda passagem: vincular abreviações aos caracteres completos -----
 	reverso := make(map[string][]string)
-	for abrev, completo := range mapaAbrevParaCompleto {
+	for abrev, completo := range MapaAbrevParaCompleto {
 		reverso[completo] = append(reverso[completo], abrev)
 	}
 
@@ -107,7 +133,7 @@ func (b *BancoMakeMeAHanzi) Carregar() error {
 
 	// ----- Terceira passagem: cachear os candidatos da revisão -----
 	for caractere, entrada := range b.entradas {
-		if _, ehAbrev := mapaAbrevParaCompleto[caractere]; ehAbrev {
+		if _, ehAbrev := MapaAbrevParaCompleto[caractere]; ehAbrev {
 			continue
 		}
 		if entrada.Definicao == "" || len(entrada.Pinyin) == 0 || entrada.Pinyin[0] == "" {
@@ -136,9 +162,9 @@ func (b *BancoMakeMeAHanzi) Buscar(hanzi string) *DecomposicaoHanzi {
 
 
 // CaractereCompleto retorna o caractere CJK completo se o argumento for
-// uma abreviação visual. Retorna string vazia caso contrário.
+// uma abreviação visual ou componente. Retorna string vazia (ou próprio caractere) caso contrário.
 func (b *BancoMakeMeAHanzi) CaractereCompleto(abrev string) string {
-	if completo, existe := mapaAbrevParaCompleto[abrev]; existe {
+	if completo, existe := MapaAbrevParaCompleto[abrev]; existe {
 		return completo
 	}
 	return abrev
@@ -154,7 +180,7 @@ func (b *BancoMakeMeAHanzi) TotalHanzis() int {
 func (b *BancoMakeMeAHanzi) TodosCaracteres() []string {
 	caracteres := make([]string, 0, len(b.entradas))
 	for caractere := range b.entradas {
-		if _, ehAbrev := mapaAbrevParaCompleto[caractere]; ehAbrev {
+		if _, ehAbrev := MapaAbrevParaCompleto[caractere]; ehAbrev {
 			continue
 		}
 		caracteres = append(caracteres, caractere)
@@ -195,7 +221,11 @@ func (b *BancoMakeMeAHanzi) BuscarGeral(termo string) []DecomposicaoHanzi {
 	var priority []DecomposicaoHanzi
 	var secondary []DecomposicaoHanzi
 
-	for _, e := range b.entradas {
+	for char, e := range b.entradas {
+		if _, ehAbrev := MapaAbrevParaCompleto[char]; ehAbrev {
+			continue // Ignora componentes e abreviações na busca geral
+		}
+
 		isPriority := false
 		isSecondary := false
 

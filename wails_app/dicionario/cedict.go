@@ -19,14 +19,18 @@ type EntradaDicionario struct {
 }
 
 type Cedict struct {
-	entradas    map[string][]EntradaDicionario
-	pinyinIndex map[string][]string
+	entradas      map[string][]EntradaDicionario
+	pinyinIndex   map[string][]string
+	simpParaTrad  map[rune]rune // simplificado → tradicional (caracteres que diferem)
+	tradParaSimp  map[rune]rune // tradicional → simplificado (caracteres que diferem)
 }
 
 func NovoCedict() *Cedict {
 	return &Cedict{
-		entradas:    make(map[string][]EntradaDicionario),
-		pinyinIndex: make(map[string][]string),
+		entradas:     make(map[string][]EntradaDicionario),
+		pinyinIndex:  make(map[string][]string),
+		simpParaTrad: make(map[rune]rune),
+		tradParaSimp: make(map[rune]rune),
 	}
 }
 
@@ -55,6 +59,20 @@ func (c *Cedict) Carregar() error {
 			continue
 		}
 		tradicional, simplificado := palavras[0], palavras[1]
+
+		// Monta mapas de conversão caractere-a-caractere (simplificado↔tradicional)
+		if tradicional != simplificado {
+			runesT := []rune(tradicional)
+			runesS := []rune(simplificado)
+			if len(runesT) == len(runesS) {
+				for k := 0; k < len(runesT); k++ {
+					if runesT[k] != runesS[k] {
+						c.simpParaTrad[runesS[k]] = runesT[k]
+						c.tradParaSimp[runesT[k]] = runesS[k]
+					}
+				}
+			}
+		}
 
 		parts2 := strings.SplitN(parts[1], "] /", 2)
 		if len(parts2) != 2 {
@@ -221,6 +239,56 @@ func (c *Cedict) AvaliarTipoHanzi(hanzi string) string {
 		return "Tradicional"
 	}
 	return ""
+}
+
+// ConverterTexto converte um texto para simplificado ou tradicional, caractere a caractere,
+// usando os mapas construídos a partir do CEDICT. Caracteres sem mapeamento (pontuação, caracteres
+// comuns a ambas as formas) passam inalterados. O parâmetro alvo deve ser "simplificado" ou "tradicional".
+func (c *Cedict) ConverterTexto(texto string, alvo string) string {
+	if c == nil {
+		return texto
+	}
+	var mapa map[rune]rune
+	switch alvo {
+	case "simplificado":
+		mapa = c.tradParaSimp
+	case "tradicional":
+		mapa = c.simpParaTrad
+	default:
+		return texto
+	}
+	if len(mapa) == 0 {
+		return texto
+	}
+
+	var sb strings.Builder
+	sb.Grow(len(texto))
+	for _, r := range texto {
+		if convertido, ok := mapa[r]; ok {
+			sb.WriteRune(convertido)
+		} else {
+			sb.WriteRune(r)
+		}
+	}
+	return sb.String()
+}
+
+// FraseContemTipo verifica se uma frase contém caracteres exclusivamente do tipo oposto ao desejado.
+// Retorna true se a frase for compatível com o tipo alvo (i.e., não contém caracteres do tipo oposto).
+func (c *Cedict) FraseCompativelComTipo(frase string, tipoDesejado string) bool {
+	if c == nil || tipoDesejado == "ambos" || tipoDesejado == "" {
+		return true
+	}
+	for _, r := range frase {
+		tipo := c.AvaliarTipoHanzi(string(r))
+		if tipoDesejado == "simplificado" && tipo == "Tradicional" {
+			return false
+		}
+		if tipoDesejado == "tradicional" && tipo == "Simplificado" {
+			return false
+		}
+	}
+	return true
 }
 
 func RemoverTonsPinyin(p string) string {
