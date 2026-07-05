@@ -1,17 +1,17 @@
 {
-  "tag": "motores-v1",
+  "tag": "motores-ocr-v1",
   "artefatos": {
     "ocr_server.zip": {
-      "sha256": "290de20931bf8cc4c9a4887685df1884f468a8ba79e5fea626037ae555054875",
-      "tamanhoBytes": 126066360
+      "sha256": "bd5139349e84ace7c56a4a7e5d48cfd1ef783fd6aa66d0db7acb87bfaf827e11",
+      "tamanhoBytes": 126066039
     },
     "tesseract_server.zip": {
-      "sha256": "3904412594afa69f7e4fab01af4142202c5761224ecf41778971e59ab0022b9f",
-      "tamanhoBytes": 104055930
+      "sha256": "288ee3e05669c7ee39062def8e25751bfdcc9760234aeff1aeb58e37f7288a7b",
+      "tamanhoBytes": 104055974
     },
     "easyocr_server.zip": {
-      "sha256": "90baf98b9f1314ca2bdaf3f5ef383a97aa0647579cc44b27938b57d5e43d20a4",
-      "tamanhoBytes": 253364151
+      "sha256": "04a94b8ff39cc436db07316812c3877cbf54bdd98dc904f9368073291375306e",
+      "tamanhoBytes": 253367298
     }
   }
 }
