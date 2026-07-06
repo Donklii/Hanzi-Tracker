@@ -10,14 +10,18 @@ e como o app baixa e confia neles.
 
 | Tipo | Workflow | Script | Tag | Manifesto (dados voláteis) | Artefatos |
 |------|----------|--------|-----|-----------|-----------|
-| **OCR** | [publicar-motores-ocr.yml](../.github/workflows/publicar-motores-ocr.yml) | [builds/build_sidecars_ocr.ps1](../builds/build_sidecars_ocr.ps1) | `motores-v*` | [motoresocr/artefatos_ocr.json](../wails_app/motoresocr/artefatos_ocr.json) | `ocr_server.zip`, `tesseract_server.zip`, `easyocr_server.zip` |
-| **Voz/TTS** | [publicar-motores-tts.yml](../.github/workflows/publicar-motores-tts.yml) | [builds/build_sidecars_tts.ps1](../builds/build_sidecars_tts.ps1) | `motores-tts-v*` | [motorestts/artefatos_tts.json](../wails_app/motorestts/artefatos_tts.json) | `kokoro_server.zip`, `chattts_server.zip` |
+| **OCR (Windows)** | [publicar-motores-ocr-windows.yml](../.github/workflows/publicar-motores-ocr-windows.yml) | [builds/build_sidecars_ocr_windows.ps1](../builds/build_sidecars_ocr_windows.ps1) | `motores-ocr-windows-v*` | [motoresocr/artefatos_ocr.json](../wails_app/motoresocr/artefatos_ocr.json) | `ocr_server.zip`, `tesseract_server.zip`, `easyocr_server.zip` |
+| **OCR (Linux)** | [publicar-motores-ocr-linux.yml](../.github/workflows/publicar-motores-ocr-linux.yml) | [builds/build_sidecars_ocr_linux.sh](../builds/build_sidecars_ocr_linux.sh) | `motores-ocr-linux-v*` | [motoresocr/artefatos_ocr_linux.json](../wails_app/motoresocr/artefatos_ocr_linux.json) | `ocr_server_linux.zip`, `easyocr_server_linux.zip` |
+| **Voz/TTS (Windows)** | [publicar-motores-tts-windows.yml](../.github/workflows/publicar-motores-tts-windows.yml) | [builds/build_sidecars_tts_windows.ps1](../builds/build_sidecars_tts_windows.ps1) | `motores-tts-windows-v*` | [motorestts/artefatos_tts.json](../wails_app/motorestts/artefatos_tts.json) | `kokoro_server.zip`, `chattts_server.zip` |
+| **Voz/TTS (Linux)** | [publicar-motores-tts-linux.yml](../.github/workflows/publicar-motores-tts-linux.yml) | [builds/build_sidecars_tts_linux.sh](../builds/build_sidecars_tts_linux.sh) | `motores-tts-linux-v*` | [motorestts/artefatos_tts_linux.json](../wails_app/motorestts/artefatos_tts_linux.json) | `kokoro_server_linux.zip`, `chattts_server_linux.zip` |
 
-Cada workflow congela os seus sidecars num runner Windows, cria a Release com os assets anexados **e
-atualiza o manifesto sozinho** — basta empurrar a tag correspondente. As tags são **separadas** de
-propósito: publicar uma release de voz não recongela nem invalida as URLs dos motores de OCR (e
-vice-versa). O restante deste guia usa o fluxo de OCR como exemplo; o de voz é idêntico, trocando
-workflow/script/tag/manifesto pela linha da tabela.
+Cada workflow congela os seus sidecars no runner do SO correspondente, cria a Release com os assets
+anexados **e atualiza o manifesto sozinho** — basta empurrar a tag correspondente. As tags são
+**separadas** de propósito: publicar uma release de voz não recongela nem invalida as URLs dos motores
+de OCR (e vice-versa), e o mesmo vale entre Windows e Linux — **cada SO tem seu próprio JSON de dados
+voláteis**, e o app escolhe qual usar por `runtime.GOOS`. O restante deste guia usa o fluxo de OCR
+Windows como exemplo; os demais são idênticos, trocando workflow/script/tag/manifesto pela linha da
+tabela (particularidades do Linux na seção [Motores para Linux](#motores-para-linux)).
 
 > **Manifesto = catálogo (Go) + dados voláteis (JSON).** Os rótulos, descrições e o nome do `.exe` de
 > cada motor vivem no Go ([motoresocr/manifesto.go](../wails_app/motoresocr/manifesto.go),
@@ -35,21 +39,21 @@ workflow/script/tag/manifesto pela linha da tabela.
 - O Git guarda **todo** o histórico: commitar um `.exe` de dezenas/centenas de MB incha o repositório
   para sempre (mesmo depois de apagado). Releases guardam o binário **fora** da árvore versionada.
 - O GitHub **recusa** arquivos > 100 MB num push normal; *assets* de Release aceitam até **2 GB** cada.
-- Releases são versionadas por *tag* (ex.: `motores-v4`), então cada versão do sidecar tem URL própria e
+- Releases são versionadas por *tag* (ex.: `motores-ocr-windows-v4`), então cada versão do sidecar tem URL própria e
   imutável — exatamente o que um manifesto de download precisa.
 
 ## Passo a passo (via CI — caminho normal)
 
-1. **Empurre uma tag `motores-vN`** (ex.: `git tag motores-v5 && git push origin motores-v5`) — ou, sem
+1. **Empurre uma tag `motores-ocr-windows-vN`** (ex.: `git tag motores-ocr-windows-v5 && git push origin motores-ocr-windows-v5`) — ou, sem
    criar tag localmente, abra **Actions → Publicar Motores (OCR) → Run workflow** e informe a tag
-   manualmente (`workflow_dispatch`). Para os motores de voz, use a tag `motores-tts-vN` e o workflow
+   manualmente (`workflow_dispatch`). Para os motores de voz, use a tag `motores-tts-windows-vN` e o workflow
    **Publicar Motores (Voz/TTS)**.
-2. O workflow [publicar-motores-ocr.yml](../.github/workflows/publicar-motores-ocr.yml) roda num runner
+2. O workflow [publicar-motores-ocr-windows.yml](../.github/workflows/publicar-motores-ocr-windows.yml) roda num runner
    `windows-latest`: instala o Tesseract via choco, executa
-   [builds/build_sidecars_ocr.ps1](../builds/build_sidecars_ocr.ps1), calcula o sha256/tamanho de cada zip
+   [builds/build_sidecars_ocr_windows.ps1](../builds/build_sidecars_ocr_windows.ps1), calcula o sha256/tamanho de cada zip
    e **publica a Release** com os 3 artefatos anexados (`ocr_server.zip`, `tesseract_server.zip`,
    `easyocr_server.zip`) via `softprops/action-gh-release`. O de voz
-   ([publicar-motores-tts.yml](../.github/workflows/publicar-motores-tts.yml)) faz o mesmo com
+   ([publicar-motores-tts-windows.yml](../.github/workflows/publicar-motores-tts-windows.yml)) faz o mesmo com
    `kokoro_server.zip` e `chattts_server.zip` (sem Tesseract).
 3. **O manifesto se atualiza sozinho.** Ainda no mesmo job, depois de publicar a Release, o workflow volta
    para a ponta do `main`, reescreve o JSON de dados voláteis (`artefatos_ocr.json` / `artefatos_tts.json`)
@@ -72,9 +76,9 @@ estiver indisponível.
 
 1. **Gere os artefatos** (na raiz do projeto, requer Windows):
    ```powershell
-   powershell -ExecutionPolicy Bypass -File builds/build_sidecars_ocr.ps1
+   powershell -ExecutionPolicy Bypass -File builds/build_sidecars_ocr_windows.ps1
    # motores de voz:
-   powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts.ps1
+   powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts_windows.ps1
    ```
    No fim cada script imprime, para cada zip, o `tamanho_bytes` e o `sha256`. **Guarde esses valores.**
    Saída de OCR: `python_backend/dist/{ocr_server,tesseract_server,easyocr_server}.zip` (o
@@ -114,6 +118,25 @@ estiver indisponível.
 > Se publicar manualmente numa tag que o CI **também** dispararia (`motores-v*`), o push da tag ainda vai
 > acionar o workflow — ele recongela tudo do zero e tenta publicar na mesma Release. Prefira sempre o
 > fluxo via CI; use o manual só sem empurrar a tag correspondente (ou apague o workflow run depois).
+
+## Motores para Linux
+
+Os workflows `*-linux.yml` espelham os de Windows com três particularidades:
+
+- **Aceleração**: o RapidOCR Linux fica no onnxruntime de **CPU** (o DirectML é Windows-only), e
+  torch/torchvision/torchaudio vêm do **índice de CPU do PyTorch** — no Linux o PyPI padrão puxaria as
+  wheels CUDA (+ ~5 GB de pacotes `nvidia-*`), inúteis e grandes demais.
+- **Sem Tesseract**: o sidecar Windows empacota a instalação do choco (`tesseract.exe` + DLLs);
+  empacotar um Tesseract relocável no Linux é outro projeto. O catálogo do app **omite o Tesseract
+  fora do Windows** (`init()` em [motoresocr/manifesto.go](../wails_app/motoresocr/manifesto.go)).
+- **Estado pré-publicação**: enquanto a primeira tag `motores-*-linux-v1` não é publicada, o
+  `artefatos_*_linux.json` fica com `sha256` vazio — a UI mostra o motor como não publicado e o
+  download é recusado em runtime (mesmo modelo que os motores de voz usaram antes da primeira release).
+
+Os zips Linux levam o sufixo `_linux` no nome e o executável dentro deles não tem extensão (padrão do
+PyInstaller fora do Windows) — os dois nomes são derivados por SO em
+[baixador/plataforma.go](../wails_app/baixador/plataforma.go). A extração no app já garante o bit de
+execução (todo arquivo sai 0755 de `baixador.ExtrairZip`).
 
 ## Como o app consome (Passo 5 — implementado)
 

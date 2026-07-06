@@ -1,0 +1,109 @@
+name: Publicar Motores (Voz/TTS, Linux)
+
+# Congela os sidecars de VOZ/TTS para LINUX (builds/build_sidecars_tts_linux.sh) num runner Ubuntu,
+# publica os .zip numa GitHub Release e ATUALIZA O MANIFESTO automaticamente: reescreve
+# wails_app/motorestts/artefatos_tts_linux.json (tag + sha256 + tamanho de cada zip), valida com
+# `go test` e commita no main. Dispara ao empurrar uma tag "motores-tts-linux-v*" (ou manualmente,
+# informando a tag). É o irmão Linux do publicar-motores-tts-windows.yml (Windows, tags "motores-tts-windows-v*") —
+# os manifestos são UM POR SO, então publicar aqui nunca invalida as URLs dos motores Windows.
+# Ver docs/PUBLICAR-MOTORES.md.
+
+on:
+  push:
+    tags:
+      - 'motores-tts-linux-v*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag da release (ex.: motores-tts-linux-v1)'
+        required: true
+
+permissions:
+  contents: write # criar a release, anexar os assets e commitar o manifesto atualizado no main
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Configurar Go (para validar o manifesto)
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: wails_app/go.mod
+
+      - name: Congelar sidecars de voz (builds/build_sidecars_tts_linux.sh)
+        run: bash builds/build_sidecars_tts_linux.sh
+
+      - name: sha256 dos artefatos (referência no resumo do job)
+        run: |
+          tag='${{ github.event.inputs.tag || github.ref_name }}'
+          {
+            echo "## sha256 dos motores de voz Linux ($tag)"
+            echo ""
+            for z in python_backend/dist/kokoro_server_linux.zip python_backend/dist/chattts_server_linux.zip; do
+              [[ -f "$z" ]] || continue
+              echo "- **$(basename "$z")** — $(stat -c%s "$z") bytes — sha256 \`$(sha256sum "$z" | cut -d' ' -f1)\`"
+            done
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publicar Release com os zips
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.tag || github.ref_name }}
+          name: Motores de Voz Linux ${{ github.event.inputs.tag || github.ref_name }}
+          files: |
+            python_backend/dist/kokoro_server_linux.zip
+            python_backend/dist/chattts_server_linux.zip
+          fail_on_unmatched_files: true
+
+      - name: Atualizar o manifesto (artefatos_tts_linux.json)
+        run: |
+          tag='${{ github.event.inputs.tag || github.ref_name }}'
+          # A release foi buildada na tag (HEAD destacado). Volta para a ponta do branch padrão, onde o
+          # manifesto é commitado, para o app passar a apontar aos motores recém-publicados. Usa
+          # FETCH_HEAD (sempre setado pelo fetch) em vez de origin/main, que pode não ter sido
+          # atualizado pelo checkout.
+          git fetch origin main --depth=1
+          git checkout -B main FETCH_HEAD
+          # Recalcula sha256 + tamanho de cada zip e reescreve o JSON embutido (fonte dos campos
+          # voláteis) — sem BOM, que o json.Unmarshal do Go não tolera (jq nunca escreve BOM).
+          artefatos='{}'
+          for nome in kokoro_server_linux.zip chattts_server_linux.zip; do
+            caminho="python_backend/dist/$nome"
+            if [[ ! -f "$caminho" ]]; then
+              echo "artefato ausente para o manifesto: $caminho" >&2
+              exit 1
+            fi
+            sha="$(sha256sum "$caminho" | cut -d' ' -f1)"
+            tam="$(stat -c%s "$caminho")"
+            artefatos="$(jq --arg n "$nome" --arg s "$sha" --argjson t "$tam" \
+              '.[$n] = {sha256: $s, tamanhoBytes: $t}' <<<"$artefatos")"
+          done
+          jq -n --arg tag "$tag" --argjson artefatos "$artefatos" \
+            '{tag: $tag, artefatos: $artefatos}' > wails_app/motorestts/artefatos_tts_linux.json
+
+      - name: Validar o manifesto (go test)
+        working-directory: wails_app
+        # Rodando no Ubuntu, o pacote carrega exatamente o artefatos_tts_linux.json recém-escrito
+        # (a escolha do manifesto é por runtime.GOOS — ver motorestts/manifesto.go).
+        run: go test ./motorestts/...
+
+      - name: Commitar o manifesto atualizado no main
+        run: |
+          tag='${{ github.event.inputs.tag || github.ref_name }}'
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add wails_app/motorestts/artefatos_tts_linux.json
+          if git diff --cached --quiet; then
+            echo 'Manifesto de voz Linux já estava atualizado; nada a commitar.'
+          else
+            git commit -m "chore(motores): aponta manifesto de voz Linux para $tag [skip ci]"
+            git push origin main
+          fi

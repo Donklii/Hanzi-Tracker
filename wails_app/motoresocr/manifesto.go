@@ -3,6 +3,7 @@ package motoresocr
 import (
 	_ "embed"
 	"encoding/json"
+	"runtime"
 
 	"wails_app/baixador"
 )
@@ -19,7 +20,7 @@ import (
 // confere o hash após o download e recusa se divergir. Ver docs/PUBLICAR-MOTORES.md e Fase 5 no TODO.md.
 
 // MotorOcrBaixavel é uma entrada do catálogo de motores: metadados para a UI "Gerenciar Motores"
-// (Passo 6) + o artefato a baixar e o caminho do .exe dentro do zip já extraído.
+// (Passo 6) + o artefato a baixar e o caminho do executável dentro do zip já extraído.
 type MotorOcrBaixavel struct {
 	Nome       string                    `json:"nome"`       // chave única / rótulo curto (ex.: "RapidOCR")
 	Rotulo     string                    `json:"rotulo"`     // rótulo humano para a UI
@@ -29,7 +30,7 @@ type MotorOcrBaixavel struct {
 	Variante   string                    `json:"variante"`   // aceleração: "CPU", "DirectML", "CUDA" (ou combinação)
 	Requisitos string                    `json:"requisitos"` // "" = nenhum; ex.: "GPU Nvidia + drivers CUDA"
 	Padrao     bool                      `json:"padrao"`     // baixado automaticamente no bootstrap de first-run?
-	Executavel string                    `json:"executavel"` // .exe relativo à pasta de extração (o zip traz o exe na raiz — ex.: "ocr_server.exe")
+	Executavel string                    `json:"executavel"` // executável relativo à pasta de extração, na raiz do zip (".exe" no Windows; sem sufixo no Linux)
 	Artefato   baixador.ArtefatoBaixavel `json:"artefato"`   //
 }
 
@@ -54,9 +55,9 @@ var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 		Variante:   "CPU/DirectML",
 		Requisitos: "",
 		Padrao:     true,
-		Executavel: "ocr_server.exe",
-		// Url/Sha256/TamanhoBytes são injetados por init() a partir de artefatos_ocr.json (ver abaixo).
-		Artefato: baixador.ArtefatoBaixavel{Nome: "ocr_server.zip"},
+		Executavel: baixador.NomeExecutavelSo("ocr_server"),
+		// Url/Sha256/TamanhoBytes são injetados por init() a partir do artefatos_ocr*.json do SO (ver abaixo).
+		Artefato: baixador.ArtefatoBaixavel{Nome: baixador.NomeZipArtefatoSo("ocr_server")},
 	},
 	"Tesseract": {
 		Nome:   "Tesseract",
@@ -68,8 +69,8 @@ var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 		Variante:   "CPU",
 		Requisitos: "",
 		Padrao:     false,
-		Executavel: "tesseract_server.exe",
-		Artefato:   baixador.ArtefatoBaixavel{Nome: "tesseract_server.zip"},
+		Executavel: baixador.NomeExecutavelSo("tesseract_server"),
+		Artefato:   baixador.ArtefatoBaixavel{Nome: baixador.NomeZipArtefatoSo("tesseract_server")},
 	},
 	"EasyOCR": {
 		Nome:   "EasyOCR",
@@ -81,19 +82,34 @@ var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 		Variante:   "CPU",
 		Requisitos: "Requer baixar o modelo (~93 MB) em Gerenciar Modelos antes do primeiro uso.",
 		Padrao:     false,
-		Executavel: "easyocr_server.exe",
-		Artefato:   baixador.ArtefatoBaixavel{Nome: "easyocr_server.zip"},
+		Executavel: baixador.NomeExecutavelSo("easyocr_server"),
+		Artefato:   baixador.ArtefatoBaixavel{Nome: baixador.NomeZipArtefatoSo("easyocr_server")},
 	},
 }
 
-// ----- Injeção dos campos voláteis (tag/sha256/tamanho) a partir de artefatos_ocr.json -----
+// ----- Injeção dos campos voláteis (tag/sha256/tamanho) a partir de artefatos_ocr*.json -----
 // O que MUDA a cada release — a tag embutida na URL, o sha256 e o tamanho de cada zip — NÃO fica
-// hardcoded no catálogo acima: vive em artefatos_ocr.json, embutido no binário via go:embed. O
-// workflow publicar-motores-ocr.yml reescreve esse JSON e o commita a cada nova release, então o
-// manifesto passa a apontar para a versão mais recente sem edição manual. Ver docs/PUBLICAR-MOTORES.md.
+// hardcoded no catálogo acima: vive em UM JSON POR SO, embutido no binário via go:embed. O workflow
+// publicar-motores-ocr-windows.yml (Windows) reescreve artefatos_ocr.json e o publicar-motores-ocr-linux.yml
+// reescreve artefatos_ocr_linux.json, cada um commitando o seu — assim uma release de motores de um
+// SO nunca invalida as URLs do outro. Ver docs/PUBLICAR-MOTORES.md.
 
 //go:embed artefatos_ocr.json
-var artefatosOcrBrutos []byte
+var artefatosOcrWindows []byte
+
+//go:embed artefatos_ocr_linux.json
+var artefatosOcrLinux []byte
+
+// artefatosOcrBrutos é o manifesto do SO atual (ambos são embutidos; a escolha é por runtime.GOOS,
+// sem build tags — o binário já é por-SO de qualquer forma, e os testes validam o JSON do runner).
+var artefatosOcrBrutos = escolherArtefatosOcr()
+
+func escolherArtefatosOcr() []byte {
+	if runtime.GOOS == "windows" {
+		return artefatosOcrWindows
+	}
+	return artefatosOcrLinux
+}
 
 // dadosArtefatoOcr é o par volátil (sha256 + tamanho) de um zip, chaveado pelo nome do arquivo.
 type dadosArtefatoOcr struct {
@@ -109,14 +125,21 @@ type manifestoArtefatosOcr struct {
 
 // init injeta url (derivada da tag), sha256 e tamanho em cada entrada de MotoresBaixaveis a partir do
 // JSON embutido. Um JSON malformado ou sem tag é bug de publicação (dado embutido no binário, pego
-// pelos testes antes de qualquer release): falha alto com panic em vez de gerar URLs quebradas.
+// pelos testes antes de qualquer release): falha alto com panic em vez de gerar URLs quebradas. Um
+// sha256 vazio é aceito (estado pré-publicação do SO) — o download é recusado em runtime.
 func init() {
+	// O sidecar Tesseract empacota o tesseract.exe da instalação Windows (choco) — ainda não há build
+	// Linux dele, então fora do Windows ele sai do catálogo (a UI nem o oferece).
+	if runtime.GOOS != "windows" {
+		delete(MotoresBaixaveis, "Tesseract")
+	}
+
 	var dados manifestoArtefatosOcr
 	if err := json.Unmarshal(artefatosOcrBrutos, &dados); err != nil {
-		panic("motoresocr: artefatos_ocr.json inválido: " + err.Error())
+		panic("motoresocr: artefatos_ocr*.json inválido: " + err.Error())
 	}
 	if dados.Tag == "" {
-		panic("motoresocr: artefatos_ocr.json sem tag de release")
+		panic("motoresocr: artefatos_ocr*.json sem tag de release")
 	}
 	for chave, motor := range MotoresBaixaveis {
 		art := dados.Artefatos[motor.Artefato.Nome]

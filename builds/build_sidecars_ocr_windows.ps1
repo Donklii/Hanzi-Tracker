@@ -2,10 +2,10 @@
 # Cada motor usa um venv PROPRIO: o build do RapidOCR carrega onnxruntime-directml e o do EasyOCR
 # carrega torch — pacotes que nao podem conviver no mesmo ambiente sem inchar/conflitar os pacotes
 # finais. NAO publica nada — so gera os artefatos e imprime o sha256 de cada zip.
-# Os motores de VOZ (TTS) tem script proprio: builds/build_sidecars_tts.ps1.
+# Os motores de VOZ (TTS) tem script proprio: builds/build_sidecars_tts_windows.ps1.
 # Ver BUILD.md (arquitetura) e docs/PUBLICAR-MOTORES.md (como publicar os artefatos gerados aqui).
 #
-# Uso (de qualquer pasta):  powershell -ExecutionPolicy Bypass -File builds/build_sidecars_ocr.ps1
+# Uso (de qualquer pasta):  powershell -ExecutionPolicy Bypass -File builds/build_sidecars_ocr_windows.ps1
 # Requisito p/ o sidecar Tesseract: instalacao do Tesseract (choco install tesseract) em
 # "C:\Program Files\Tesseract-OCR" — ou aponte outra pasta via a env TESSERACT_DIR. Sem ela, esse
 # sidecar e PULADO (com aviso); os demais saem normalmente.
@@ -127,4 +127,4 @@ foreach ($p in $pares) {
     Write-Host ("    sha256:        {0}" -f $hash)
 }
 Write-Host ""
-Write-Host "Concluido. Via CI (tag motores-vN) o manifesto e atualizado sozinho. Manualmente: cole tag/sha256/tamanho em wails_app/motoresocr/artefatos_ocr.json (ver docs/PUBLICAR-MOTORES.md)." -ForegroundColor Cyan
+Write-Host "Concluido. Via CI (tag motores-ocr-windows-vN) o manifesto e atualizado sozinho. Manualmente: cole tag/sha256/tamanho em wails_app/motoresocr/artefatos_ocr.json (ver docs/PUBLICAR-MOTORES.md)." -ForegroundColor Cyan

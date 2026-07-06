@@ -1,0 +1,13 @@
+{
+  "tag": "motores-tts-linux-v1",
+  "artefatos": {
+    "kokoro_server_linux.zip": {
+      "sha256": "",
+      "tamanhoBytes": 0
+    },
+    "chattts_server_linux.zip": {
+      "sha256": "",
+      "tamanhoBytes": 0
+    }
+  }
+}

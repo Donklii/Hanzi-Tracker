@@ -39,6 +39,8 @@ func (a *App) nomeMotorAtivo() string {
 // ----- API exposta ao frontend (Passo 6 consome) -----
 
 // MotorOcrInfo é o estado de um motor para a UI "Gerenciar Motores": catálogo + instalado/ativo.
+// `publicado` espelha o conceito dos motores de voz: indica se o artefato deste SO já tem release
+// (sha256 preenchido no artefatos_ocr*.json) — sem release, o download é recusado.
 type MotorOcrInfo struct {
 	Nome         string   `json:"nome"`
 	Rotulo       string   `json:"rotulo"`
@@ -49,6 +51,7 @@ type MotorOcrInfo struct {
 	Requisitos   string   `json:"requisitos"`
 	Padrao       bool     `json:"padrao"`
 	TamanhoBytes int64    `json:"tamanhoBytes"`
+	Publicado    bool     `json:"publicado"`
 	Instalado    bool     `json:"instalado"`
 	Ativo        bool     `json:"ativo"`
 }
@@ -83,6 +86,7 @@ func (a *App) ListarMotores() []MotorOcrInfo {
 			Requisitos:   m.Requisitos,
 			Padrao:       m.Padrao,
 			TamanhoBytes: m.Artefato.TamanhoBytes,
+			Publicado:    m.Artefato.Sha256 != "",
 			Instalado:    instalado,
 			Ativo:        ativo,
 		})
@@ -96,6 +100,11 @@ func (a *App) BaixarMotor(nome string) error {
 	m, ok := motoresocr.ObterMotorBaixavel(nome)
 	if !ok {
 		return fmt.Errorf("motor '%s' não encontrado no catálogo", nome)
+	}
+	// Guard clause: sha256 vazio = o zip deste SO ainda não tem release (ex.: Linux antes da primeira
+	// release motores-ocr-linux-v*) — recusa antes de gastar centenas de MB num download inútil.
+	if m.Artefato.Sha256 == "" {
+		return fmt.Errorf("o motor '%s' ainda não foi publicado para este sistema operacional", m.Rotulo)
 	}
 	destino := motoresocr.PastaMotorOcr(m.Nome)
 	if err := baixador.BaixarEExtrairArtefato(m.Artefato, destino, armazenamento.PastaDados(), func(msg string) { a.emitirProgressoMotor(m.Nome, msg) }); err != nil {
@@ -205,6 +214,14 @@ func (a *App) bootstrapMotorPadrao() {
 	}
 	if !ok {
 		runtime.EventsEmit(a.ctx, "ocr_indisponivel", "nenhum motor padrão declarado no catálogo")
+		return
+	}
+
+	// Guard clause: sha256 vazio = o zip deste SO ainda não tem release (ex.: Linux antes da primeira
+	// release motores-ocr-linux-v*). O app segue no ar (dicionário, revisão, progresso), só sem OCR.
+	if escolhido.Artefato.Sha256 == "" {
+		runtime.EventsEmit(a.ctx, "ocr_indisponivel",
+			fmt.Sprintf("o motor %s ainda não foi publicado para este sistema operacional", escolhido.Rotulo))
 		return
 	}
 

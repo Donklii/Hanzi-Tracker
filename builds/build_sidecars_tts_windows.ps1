@@ -1,10 +1,10 @@
 # Congela os sidecars de VOZ/TTS (kokoro_server + chattts_server) em .exe com PyInstaller. Cada motor
 # usa um venv PROPRIO (ambos carregam torch, mas com dependencias de modelo distintas — kokoro/misaki
 # vs. ChatTTS/vocos — que e mais limpo isolar). NAO publica nada — so gera os artefatos e imprime o
-# sha256 de cada zip. Os motores de OCR tem script proprio: builds/build_sidecars_ocr.ps1.
+# sha256 de cada zip. Os motores de OCR tem script proprio: builds/build_sidecars_ocr_windows.ps1.
 # Ver BUILD.md (arquitetura) e docs/PUBLICAR-MOTORES.md (como publicar os artefatos gerados aqui).
 #
-# Uso (de qualquer pasta):  powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts.ps1
+# Uso (de qualquer pasta):  powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts_windows.ps1
 # Os PESOS dos modelos NAO sao embutidos: o proprio sidecar os baixa do Hugging Face na primeira
 # sintese (cache HF redirecionado para motores_tts\<Motor>\modelos\hf) — ver docs/CONTRATO-TTS.md.
 # Saida: python_backend/dist/{kokoro_server,chattts_server}.zip (+ sha256 no fim).
@@ -78,4 +78,4 @@ foreach ($p in $pares) {
     Write-Host ("    sha256:        {0}" -f $hash)
 }
 Write-Host ""
-Write-Host "Concluido. Via CI (tag motores-tts-vN) o manifesto e atualizado sozinho. Manualmente: cole tag/sha256/tamanho em wails_app/motorestts/artefatos_tts.json (ver docs/PUBLICAR-MOTORES.md)." -ForegroundColor Cyan
+Write-Host "Concluido. Via CI (tag motores-tts-windows-vN) o manifesto e atualizado sozinho. Manualmente: cole tag/sha256/tamanho em wails_app/motorestts/artefatos_tts.json (ver docs/PUBLICAR-MOTORES.md)." -ForegroundColor Cyan

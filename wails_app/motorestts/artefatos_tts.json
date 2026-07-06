@@ -1,5 +1,5 @@
 {
-  "tag": "motores-tts-v1",
+  "tag": "motores-tts-windows-v1",
   "artefatos": {
     "kokoro_server.zip": {
       "sha256": "f9c4cced57c27520ce073e972991451ea1572adec8201a4c55602af09ebbb824",

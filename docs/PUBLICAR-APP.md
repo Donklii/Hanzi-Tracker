@@ -5,8 +5,7 @@ versão é decidida e como funciona a tela de escolha de motor de OCR/voz dentro
 
 ## Resposta curta
 
-A publicação é **automatizada** pelo workflow
-[publicar-app.yml](../.github/workflows/publicar-app.yml), que builda o app Wails (Go + React) e gera
+A publicação é impulsionada pelo workflow [publicar-app-windows.yml](../.github/workflows/publicar-app-windows.yml), que builda o app Wails (Go + React) e gera
 o instalador via NSIS, publicando em **GitHub Releases** (mesmo lugar dos motores — ver
 [PUBLICAR-MOTORES.md](PUBLICAR-MOTORES.md)):
 
@@ -19,6 +18,11 @@ o instalador via NSIS, publicando em **GitHub Releases** (mesmo lugar dos motore
 O instalador **não embute nenhum motor de OCR/voz** — ele mostra uma tela de escolha (RapidOCR /
 Tesseract / EasyOCR para OCR; Nenhum / Kokoro-82M / ChatTTS para voz) e só grava essa escolha para o
 app baixar sozinho no primeiro start, reaproveitando o download-sob-demanda que já existe.
+
+O mesmo esquema de gatilhos existe para **Linux**:
+[publicar-app-linux.yml](../.github/workflows/publicar-app-linux.yml) builda o app no Ubuntu e anexa
+um pacote `.deb` **na mesma release** (`app-dev` rolante ou `app-vX.Y.Z` estável) — ver a seção
+[O pacote Linux (.deb)](#o-pacote-linux-deb).
 
 ## Por que uma release "dev" rolante, e não uma a cada commit
 
@@ -36,7 +40,7 @@ enche de dezenas de entradas sem significado, e tags `app-vX.Y.Z` continuam rese
    tag localmente, **Actions → Publicar App (Instalador) → Run workflow**, escolhendo a tag no
    dropdown "Use workflow from"). O workflow reconhece o padrão `app-v*` e publica uma release estável
    e permanente com esse número de versão.
-3. O workflow [publicar-app.yml](../.github/workflows/publicar-app.yml) roda num runner
+3. O workflow [publicar-app-windows.yml](../.github/workflows/publicar-app-windows.yml) roda num runner
    `windows-latest`: instala o NSIS via choco, instala o Wails CLI, calcula a versão (tabela acima),
    grava-a em `wails_app/wails.json` (`info.productVersion`), copia o template NSIS customizado
    ([nsis-instalador/project.nsi](../wails_app/nsis-instalador/project.nsi)) para
@@ -47,6 +51,43 @@ enche de dezenas de entradas sem significado, e tags `app-vX.Y.Z` continuam rese
 > **Primeira execução:** dispare manualmente pela aba Actions (`workflow_dispatch`) antes de confiar no
 > gatilho automático — é a única forma de validar de ponta a ponta que o `makensis` compila o
 > `project.nsi` customizado sem erro (isso não dá pra testar localmente sem instalar o NSIS).
+
+## O pacote Linux (.deb)
+
+O workflow [publicar-app-linux.yml](../.github/workflows/publicar-app-linux.yml) espelha os gatilhos
+do Windows (push na `main` → `.deb` dev com nome fixo `hanzitracker_dev_amd64.deb` na prerelease
+rolante `app-dev`; tag `app-v*` → `.deb` versionado na release estável). Os dois workflows anexam
+**na mesma release**; a criação concorrente é tratada com o `gh` CLI (se um criar primeiro, o outro
+só anexa o arquivo).
+
+O empacotamento fica em [linux-instalador/](../wails_app/linux-instalador/):
+`montar_deb.sh` monta o `.deb` com `dpkg-deb` (binário em `/usr/bin/hanzitracker`, atalho de menu
+`hanzitracker.desktop`, ícone reaproveitando o mesmo `build/appicon.png` do Windows). Não há tela de
+escolha de motores (o NSIS é Windows-only): no Linux o app baixa o RapidOCR sozinho no first-run, como
+um build de dev do Windows. Os motores Linux têm workflows próprios (tags `motores-ocr-linux-v*` /
+`motores-tts-linux-v*` — ver [PUBLICAR-MOTORES.md](PUBLICAR-MOTORES.md#motores-para-linux)); enquanto a
+primeira release deles não sai, o app sobe sem OCR/TTS (o manifesto Linux fica com sha256 vazio e o
+download é recusado com aviso).
+
+Limitações conhecidas da build Linux (documentar na release quando divulgar):
+
+- **Compatibilidade**: buildado no `ubuntu-latest` (24.04) com WebKitGTK 4.1 → requer Ubuntu 24.04+,
+  Debian 13+, Mint 22+ (ou equivalentes com `libwebkit2gtk-4.1` e glibc ≥ 2.39).
+- **X11 recomendado**: a captura de tela (`kbinani/screenshot`) e os atalhos globais
+  (`golang.design/x/hotkey`) falam X11; em sessão Wayland a captura de apps nativos pode sair
+  preta/vazia, e num ambiente sem X (Wayland puro sem XWayland) a lib de hotkey aborta o app no start.
+- **Sem overlay**: os pop-ups desenhados por cima do jogo são janelas Win32
+  ([overlay/overlay_outros.go](../wails_app/overlay/overlay_outros.go) é no-op fora do Windows) — a
+  interface principal do app funciona normalmente.
+
+Para gerar o `.deb` manualmente num Linux (ou WSL) com as dependências
+(`libgtk-3-dev libwebkit2gtk-4.1-dev libx11-dev` + Wails CLI):
+
+```bash
+cd wails_app
+wails build -platform linux/amd64 -tags webkit2_41
+bash linux-instalador/montar_deb.sh 1.2.0 build/bin/HanziTracker build/bin/hanzitracker_1.2.0_amd64.deb
+```
 
 ## A tela de escolha de motores (dentro do instalador)
 

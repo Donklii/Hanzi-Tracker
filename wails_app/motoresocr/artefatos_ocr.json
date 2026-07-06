@@ -1,5 +1,5 @@
 {
-  "tag": "motores-ocr-v1",
+  "tag": "motores-ocr-windows-v1",
   "artefatos": {
     "ocr_server.zip": {
       "sha256": "bd5139349e84ace7c56a4a7e5d48cfd1ef783fd6aa66d0db7acb87bfaf827e11",

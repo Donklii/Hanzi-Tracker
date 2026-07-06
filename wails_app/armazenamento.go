@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 	"os/exec"
+	"runtime"
 	"strings"
 
 	"github.com/shirou/gopsutil/v3/disk"
@@ -152,13 +153,16 @@ func (a *App) GetStorageInfo() StorageInfo {
 	return info
 }
 
-// AbrirPastaDados abre a pasta de dados do app no Explorer.
+// AbrirPastaDados abre a pasta de dados do app no gerenciador de arquivos do SO.
 func (a *App) AbrirPastaDados() error {
 	pasta := armazenamento.PastaDados()
 	if err := os.MkdirAll(pasta, 0755); err != nil {
 		return err
 	}
-	return exec.Command("explorer", pasta).Start()
+	if runtime.GOOS == "windows" {
+		return exec.Command("explorer", pasta).Start()
+	}
+	return exec.Command("xdg-open", pasta).Start()
 }
 
 // LimparArmazenamento apaga os dados de uma categoria pela chave.

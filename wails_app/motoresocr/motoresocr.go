@@ -13,8 +13,9 @@ import (
 	"path/filepath"
 	"strconv"
 	"sync"
-	"syscall"
 	"time"
+
+	"wails_app/processos"
 )
 
 // EnderecoBase devolve a base URL do microserviço Python de OCR. A porta é definida dinamicamente pelo
@@ -146,7 +147,7 @@ func portaOcr() int {
 // GerenciadorMotorOcr é o DONO do ciclo de vida do processo de OCR dentro do app: subir, derrubar e
 // trocar (hot-swap) o motor em runtime. Mantém apenas UM motor ativo por vez, sempre na mesma porta
 // dinâmica, para a troca (Fase 5) não depender do orquestrador. O encerramento derruba a árvore inteira
-// via taskkill /T (o motor pode ter subprocessos), como o main.go faz com os demais filhos.
+// (processos.DerrubarArvore — o motor pode ter subprocessos), como o main.go faz com os demais filhos.
 type GerenciadorMotorOcr struct {
 	mutex     sync.Mutex
 	processo  *exec.Cmd
@@ -179,7 +180,7 @@ func (g *GerenciadorMotorOcr) iniciarSemLock(descritor DescritorMotorOcr) error 
 	}
 	cmd.Stdout = os.Stdout
 	cmd.Stderr = os.Stderr
-	cmd.SysProcAttr = &syscall.SysProcAttr{HideWindow: true}
+	processos.PrepararSidecar(cmd)
 	cmd.Env = os.Environ() // herda HANZITRACKER_OCR_PORT + HANZITRACKER_DATA_DIR
 	// Informa ao sidecar o seu nome de catálogo: o Python monta a subpasta de pesos
 	// motores_ocr\<Catalogo>\modelos a partir desta env (obterNomeMotor), garantindo que ele LÊ
@@ -197,7 +198,7 @@ func (g *GerenciadorMotorOcr) iniciarSemLock(descritor DescritorMotorOcr) error 
 	return nil
 }
 
-// Encerrar derruba o motor ativo e toda a sua árvore (taskkill /T). Idempotente.
+// Encerrar derruba o motor ativo e toda a sua árvore (processos.DerrubarArvore). Idempotente.
 func (g *GerenciadorMotorOcr) Encerrar() {
 	g.mutex.Lock()
 	defer g.mutex.Unlock()
@@ -211,9 +212,7 @@ func (g *GerenciadorMotorOcr) encerrarSemLock() {
 	}
 
 	pid := g.processo.Process.Pid
-	kill := exec.Command("taskkill", "/F", "/T", "/PID", strconv.Itoa(pid))
-	kill.SysProcAttr = &syscall.SysProcAttr{HideWindow: true}
-	if err := kill.Run(); err != nil {
+	if err := processos.DerrubarArvore(pid); err != nil {
 		g.processo.Process.Kill() // fallback: ao menos o processo direto
 	}
 	g.processo.Wait() // reap: libera os recursos do processo encerrado

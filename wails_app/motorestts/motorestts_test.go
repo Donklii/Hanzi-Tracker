@@ -38,7 +38,7 @@ func TestMotorTtsPadraoDaConfigExisteNoCatalogo(t *testing.T) {
 
 // ----- Integridade do catálogo -----
 
-// Diferente do catálogo de OCR, o sha256 pode estar VAZIO enquanto a release motores-tts-v1 não é
+// Diferente do catálogo de OCR, o sha256 pode estar VAZIO enquanto a release motores-tts-windows-v1 não é
 // publicada (o download é recusado em runtime nesse estado; ver manifesto.go). Quando preenchido,
 // precisa ser um sha256 válido acompanhado do tamanho — o mesmo rigor dos motores de OCR.
 func TestCatalogoDeMotoresTtsIntegro(t *testing.T) {

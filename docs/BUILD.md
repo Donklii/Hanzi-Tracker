@@ -18,13 +18,13 @@ Por isso, a aceleração GPU precisa estar **embutida no congelamento** — é o
 ## 1. Congelar os sidecars (forma recomendada: um comando)
 
 O processo está automatizado em dois scripts na pasta [builds/](builds/), separados por tipo de motor:
-[builds/build_sidecars_ocr.ps1](builds/build_sidecars_ocr.ps1) (OCR) e
-[builds/build_sidecars_tts.ps1](builds/build_sidecars_tts.ps1) (voz/TTS). Na raiz do projeto:
+[builds/build_sidecars_ocr_windows.ps1](builds/build_sidecars_ocr_windows.ps1) (OCR) e
+[builds/build_sidecars_tts_windows.ps1](builds/build_sidecars_tts_windows.ps1) (voz/TTS). Na raiz do projeto:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File builds/build_sidecars_ocr.ps1
+powershell -ExecutionPolicy Bypass -File builds/build_sidecars_ocr_windows.ps1
 # motores de voz (Kokoro-82M + ChatTTS):
-powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts.ps1
+powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts_windows.ps1
 ```
 
 O script de OCR congela os artefatos, cada motor num venv **próprio** (`build_env`, `build_env_tesseract`,

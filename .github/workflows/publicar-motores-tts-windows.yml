@@ -1,21 +1,21 @@
-name: Publicar Motores (Voz/TTS)
+name: Publicar Motores (Voz/TTS, Windows)
 
-# Congela os sidecars de VOZ/TTS (builds/build_sidecars_tts.ps1) num runner Windows, publica os .zip
+# Congela os sidecars de VOZ/TTS (builds/build_sidecars_tts_windows.ps1) num runner Windows, publica os .zip
 # numa GitHub Release e ATUALIZA O MANIFESTO automaticamente: reescreve
 # wails_app/motorestts/artefatos_tts.json (tag + sha256 + tamanho de cada zip), valida com `go test` e
-# commita no main. Dispara ao empurrar uma tag "motores-tts-v*" (ou manualmente, informando a tag). Os
-# motores de OCR têm workflow próprio: publicar-motores-ocr.yml (tags "motores-ocr-v*") — as tags são
+# commita no main. Dispara ao empurrar uma tag "motores-tts-windows-v*" (ou manualmente, informando a tag). Os
+# motores de OCR têm workflow próprio: publicar-motores-ocr.yml (tags "motores-ocr-windows-v*") — as tags são
 # separadas para uma release de voz não invalidar as URLs dos de OCR. Ver docs/PUBLICAR-MOTORES.md.
 # Windows-only porque o congelamento usa PyInstaller.
 
 on:
   push:
     tags:
-      - 'motores-tts-v*'
+      - 'motores-tts-windows-v*'
   workflow_dispatch:
     inputs:
       tag:
-        description: 'Tag da release (ex.: motores-tts-v1)'
+        description: 'Tag da release (ex.: motores-tts-windows-v1)'
         required: true
 
 permissions:
@@ -38,9 +38,9 @@ jobs:
         with:
           go-version-file: wails_app/go.mod
 
-      - name: Congelar sidecars de voz (builds/build_sidecars_tts.ps1)
+      - name: Congelar sidecars de voz (builds/build_sidecars_tts_windows.ps1)
         shell: pwsh
-        run: powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts.ps1
+        run: powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts_windows.ps1
 
       - name: sha256 dos artefatos (referência no resumo do job)
         shell: pwsh

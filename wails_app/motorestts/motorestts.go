@@ -16,8 +16,9 @@ import (
 	"strconv"
 	"strings"
 	"sync"
-	"syscall"
 	"time"
+
+	"wails_app/processos"
 )
 
 // EnderecoBase devolve a base URL do microserviço de TTS. A porta é resolvida por portaTts() na
@@ -97,7 +98,7 @@ type DescritorMotorTts struct {
 }
 
 // resolverMotorTtsBundle resolve um sidecar de TTS congelado empacotado AO LADO do app (instalação
-// com bundle opcional / build local via builds/build_sidecars_tts.ps1, antes da release publicada). Devolve
+// com bundle opcional / build local via builds/build_sidecars_tts_windows.ps1, antes da release publicada). Devolve
 // ok=false quando não há bundle — sinal de que o motor precisa ser baixado. Espelha
 // resolverMotorOcrBundle (motoresocr).
 func resolverMotorTtsBundle(m MotorTtsBaixavel) (DescritorMotorTts, bool) {
@@ -144,7 +145,7 @@ func portaTts() int {
 
 // GerenciadorMotorTts é o DONO do ciclo de vida do processo de TTS dentro do app: subir, derrubar e
 // trocar o motor em runtime. Mantém apenas UM motor de voz ativo por vez, sempre na mesma porta
-// dinâmica. O encerramento derruba a árvore inteira via taskkill /T, como o gerenciador de OCR.
+// dinâmica. O encerramento derruba a árvore inteira (processos.DerrubarArvore), como o gerenciador de OCR.
 type GerenciadorMotorTts struct {
 	mutex     sync.Mutex
 	processo  *exec.Cmd
@@ -177,7 +178,7 @@ func (g *GerenciadorMotorTts) iniciarSemLock(descritor DescritorMotorTts) error 
 	}
 	cmd.Stdout = os.Stdout
 	cmd.Stderr = os.Stderr
-	cmd.SysProcAttr = &syscall.SysProcAttr{HideWindow: true}
+	processos.PrepararSidecar(cmd)
 	cmd.Env = os.Environ() // herda HANZITRACKER_TTS_PORT + HANZITRACKER_DATA_DIR
 	// Informa ao sidecar o seu nome de catálogo: o Python monta a subpasta de pesos
 	// modelos\<Catalogo>\hf a partir desta env (obterNomeMotor), garantindo que os pesos baixados
@@ -195,7 +196,7 @@ func (g *GerenciadorMotorTts) iniciarSemLock(descritor DescritorMotorTts) error 
 	return nil
 }
 
-// Encerrar derruba o motor ativo e toda a sua árvore (taskkill /T). Idempotente.
+// Encerrar derruba o motor ativo e toda a sua árvore (processos.DerrubarArvore). Idempotente.
 func (g *GerenciadorMotorTts) Encerrar() {
 	g.mutex.Lock()
 	defer g.mutex.Unlock()
@@ -209,9 +210,7 @@ func (g *GerenciadorMotorTts) encerrarSemLock() {
 	}
 
 	pid := g.processo.Process.Pid
-	kill := exec.Command("taskkill", "/F", "/T", "/PID", strconv.Itoa(pid))
-	kill.SysProcAttr = &syscall.SysProcAttr{HideWindow: true}
-	if err := kill.Run(); err != nil {
+	if err := processos.DerrubarArvore(pid); err != nil {
 		g.processo.Process.Kill() // fallback: ao menos o processo direto
 	}
 	g.processo.Wait() // reap: libera os recursos do processo encerrado

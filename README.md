@@ -15,6 +15,11 @@ Durante a instalação você escolhe qual motor de OCR (e, opcionalmente, de voz
 esse motor sozinho na primeira abertura. Veja [docs/PUBLICAR-APP.md](docs/PUBLICAR-APP.md) para como
 o instalador é gerado e publicado.
 
+Também há um pacote **Linux (.deb)** nas mesmas releases (Ubuntu 24.04+/Debian 13+, sessão X11
+recomendada): `sudo apt install ./hanzitracker_<versão>_amd64.deb`. No Linux os motores disponíveis
+são RapidOCR e EasyOCR (CPU) + Kokoro e ChatTTS para voz — o Tesseract é Windows-only. Detalhes e
+limitações em [docs/PUBLICAR-APP.md](docs/PUBLICAR-APP.md#o-pacote-linux-deb).
+
 O restante deste documento cobre como rodar e compilar o projeto **a partir do código-fonte**
 (para desenvolvimento).
 

@@ -1,4 +1,4 @@
-name: Publicar App (Instalador)
+name: Publicar App Windows (Instalador)
 
 # Builda o app Wails (Go + React) e gera o instalador Windows via NSIS, publicando em GitHub Releases:
 #   - push na main:      instalador "dev" — prerelease ROLANTE (tag fixa "app-dev", sempre atualizada

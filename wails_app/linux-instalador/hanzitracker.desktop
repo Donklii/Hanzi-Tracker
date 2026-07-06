@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Hanzi Tracker
+Comment=Estude chinês enquanto joga: OCR da tela, pop-ups de vocabulário e revisão
+Exec=hanzitracker
+Icon=hanzitracker
+Terminal=false
+Categories=Education;Languages;
+Keywords=chinês;chinese;hanzi;ocr;mandarim;
+StartupWMClass=hanzitracker

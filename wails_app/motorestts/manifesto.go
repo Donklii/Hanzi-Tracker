@@ -3,6 +3,7 @@ package motorestts
 import (
 	_ "embed"
 	"encoding/json"
+	"runtime"
 
 	"wails_app/baixador"
 )
@@ -21,14 +22,14 @@ import (
 // os.environ.setdefault dos entries Python (kokoro_server.py / chattts_server.py).
 
 // MotorTtsBaixavel é uma entrada do catálogo de motores de voz: metadados para a UI + o artefato
-// a baixar e o caminho do .exe dentro do zip já extraído.
+// a baixar e o caminho do executável dentro do zip já extraído.
 type MotorTtsBaixavel struct {
 	Nome       string                    `json:"nome"`       // chave única (ex.: "Kokoro-82M")
 	Rotulo     string                    `json:"rotulo"`     // rótulo humano para a UI
 	Descricao  string                    `json:"descricao"`  //
 	Versao     string                    `json:"versao"`     // versão do motor (semver)
 	Requisitos string                    `json:"requisitos"` // "" = nenhum; ex.: "baixa ~1 GB de pesos no primeiro uso"
-	Executavel string                    `json:"executavel"` // .exe relativo à pasta de extração (o zip traz o exe na raiz)
+	Executavel string                    `json:"executavel"` // executável relativo à pasta de extração, na raiz do zip (".exe" no Windows; sem sufixo no Linux)
 	Artefato   baixador.ArtefatoBaixavel `json:"artefato"`   //
 }
 
@@ -46,9 +47,9 @@ var MotoresTtsBaixaveis = map[string]MotorTtsBaixavel{
 			"Baixa ~330 MB de pesos do Hugging Face no primeiro uso.",
 		Versao:     "1.0.0",
 		Requisitos: "Baixa ~330 MB de pesos na primeira leitura em voz alta.",
-		Executavel: "kokoro_server.exe",
-		// Url/Sha256/TamanhoBytes são injetados por init() a partir de artefatos_tts.json (ver abaixo).
-		Artefato: baixador.ArtefatoBaixavel{Nome: "kokoro_server.zip"},
+		Executavel: baixador.NomeExecutavelSo("kokoro_server"),
+		// Url/Sha256/TamanhoBytes são injetados por init() a partir do artefatos_tts*.json do SO (ver abaixo).
+		Artefato: baixador.ArtefatoBaixavel{Nome: baixador.NomeZipArtefatoSo("kokoro_server")},
 	},
 	"ChatTTS": {
 		Nome:   "ChatTTS",
@@ -57,19 +58,34 @@ var MotoresTtsBaixaveis = map[string]MotorTtsBaixavel{
 			"Baixa ~1 GB de pesos do Hugging Face no primeiro uso; síntese mais lenta em CPU.",
 		Versao:     "1.0.0",
 		Requisitos: "Baixa ~1 GB de pesos na primeira leitura em voz alta.",
-		Executavel: "chattts_server.exe",
-		Artefato:   baixador.ArtefatoBaixavel{Nome: "chattts_server.zip"},
+		Executavel: baixador.NomeExecutavelSo("chattts_server"),
+		Artefato:   baixador.ArtefatoBaixavel{Nome: baixador.NomeZipArtefatoSo("chattts_server")},
 	},
 }
 
-// ----- Injeção dos campos voláteis (tag/sha256/tamanho) a partir de artefatos_tts.json -----
+// ----- Injeção dos campos voláteis (tag/sha256/tamanho) a partir de artefatos_tts*.json -----
 // Espelha o mecanismo do manifesto de OCR (motoresocr): o que MUDA a cada release — a tag na URL, o
-// sha256 e o tamanho de cada zip — vive em artefatos_tts.json, embutido via go:embed. O workflow
-// publicar-motores-tts.yml reescreve esse JSON e o commita a cada release, mantendo o manifesto na
-// versão mais recente sem edição manual. Ver docs/PUBLICAR-MOTORES.md.
+// sha256 e o tamanho de cada zip — vive em UM JSON POR SO, embutido via go:embed. O workflow
+// publicar-motores-tts-windows.yml (Windows) reescreve artefatos_tts.json e o publicar-motores-tts-linux.yml
+// reescreve artefatos_tts_linux.json, cada um commitando o seu — assim uma release de motores de um
+// SO nunca invalida as URLs do outro. Ver docs/PUBLICAR-MOTORES.md.
 
 //go:embed artefatos_tts.json
-var artefatosTtsBrutos []byte
+var artefatosTtsWindows []byte
+
+//go:embed artefatos_tts_linux.json
+var artefatosTtsLinux []byte
+
+// artefatosTtsBrutos é o manifesto do SO atual (ambos são embutidos; a escolha é por runtime.GOOS,
+// sem build tags — o binário já é por-SO de qualquer forma, e os testes validam o JSON do runner).
+var artefatosTtsBrutos = escolherArtefatosTts()
+
+func escolherArtefatosTts() []byte {
+	if runtime.GOOS == "windows" {
+		return artefatosTtsWindows
+	}
+	return artefatosTtsLinux
+}
 
 // dadosArtefatoTts é o par volátil (sha256 + tamanho) de um zip, chaveado pelo nome do arquivo.
 type dadosArtefatoTts struct {

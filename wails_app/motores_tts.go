@@ -48,7 +48,7 @@ func (a *App) ListarMotoresTts() []MotorTtsInfo {
 		if info, err := os.Stat(exe); err == nil && !info.IsDir() {
 			instalado = true
 		}
-		// Um bundle local (builds/build_sidecars_tts.ps1) também conta como instalado para a UI: dá para usar
+		// Um bundle local (builds/build_sidecars_tts_windows.ps1) também conta como instalado para a UI: dá para usar
 		// o motor sem baixar nada.
 		if !instalado {
 			if _, ok := motorestts.ResolverMotorTts(m.Nome); ok {
@@ -83,6 +83,11 @@ func (a *App) BaixarMotorTts(nome string) error {
 	m, ok := motorestts.ObterMotorTtsBaixavel(nome)
 	if !ok {
 		return fmt.Errorf("motor de voz '%s' não encontrado no catálogo", nome)
+	}
+	// Guard clause: sha256 vazio = o zip deste SO ainda não tem release (a UI já desabilita pelo
+	// campo `publicado`; aqui é a defesa do backend contra um download inútil).
+	if m.Artefato.Sha256 == "" {
+		return fmt.Errorf("o motor de voz '%s' ainda não foi publicado para este sistema operacional", m.Rotulo)
 	}
 	destino := motorestts.PastaMotorTts(m.Nome)
 	if err := baixador.BaixarEExtrairArtefato(m.Artefato, destino, armazenamento.PastaDados(), func(msg string) { a.emitirProgressoMotor(m.Nome, msg) }); err != nil {

@@ -1,0 +1,13 @@
+{
+  "tag": "motores-ocr-linux-v1",
+  "artefatos": {
+    "ocr_server_linux.zip": {
+      "sha256": "",
+      "tamanhoBytes": 0
+    },
+    "easyocr_server_linux.zip": {
+      "sha256": "",
+      "tamanhoBytes": 0
+    }
+  }
+}

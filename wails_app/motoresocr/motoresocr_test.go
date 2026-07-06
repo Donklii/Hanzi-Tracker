@@ -2,6 +2,7 @@ package motoresocr
 
 import (
 	"encoding/json"
+	"regexp"
 	"strings"
 	"testing"
 )
@@ -34,24 +35,32 @@ func TestMotorOcrPadrao(t *testing.T) {
 	}
 }
 
-// ----- Integridade do catálogo: sha256 obrigatório e URL HTTPS -----
+// ----- Integridade do catálogo: URL HTTPS + sha256 válido quando publicado -----
 
+// O sha256 pode estar VAZIO enquanto o artefato do motor não é publicado PARA O SO deste runner
+// (ex.: os zips Linux antes da primeira release motores-ocr-linux-v*; o download é recusado em
+// runtime nesse estado — mesmo modelo dos motores de voz). Quando preenchido, precisa ser um sha256
+// válido acompanhado do tamanho.
 func TestCatalogoDeMotoresIntegro(t *testing.T) {
 	if len(MotoresBaixaveis) == 0 {
 		t.Fatal("catálogo de motores vazio")
 	}
+	padraoSha256 := regexp.MustCompile(`^[0-9a-f]{64}$`)
 	for nome, m := range MotoresBaixaveis {
-		if m.Artefato.Sha256 == "" {
-			t.Errorf("motor %q sem sha256 (obrigatório para binários)", nome)
-		}
 		if !strings.HasPrefix(m.Artefato.Url, "https://") {
 			t.Errorf("motor %q com URL não-https: %s", nome, m.Artefato.Url)
 		}
-		if m.Artefato.TamanhoBytes <= 0 {
-			t.Errorf("motor %q com TamanhoBytes inválido: %d", nome, m.Artefato.TamanhoBytes)
-		}
 		if m.Executavel == "" {
 			t.Errorf("motor %q sem Executavel", nome)
+		}
+		if m.Artefato.Sha256 == "" {
+			continue // pendente de publicação neste SO: aceito, o download é recusado em runtime
+		}
+		if !padraoSha256.MatchString(m.Artefato.Sha256) {
+			t.Errorf("motor %q com sha256 inválido: %q", nome, m.Artefato.Sha256)
+		}
+		if m.Artefato.TamanhoBytes <= 0 {
+			t.Errorf("motor %q publicado (sha256 preenchido) mas com TamanhoBytes inválido: %d", nome, m.Artefato.TamanhoBytes)
 		}
 	}
 }

@@ -45,7 +45,7 @@ func VerificarEspacoDisco(caminhoRef string, bytesNecessarios int64) error {
 }
 
 // ExtrairZip descompacta `origem` em `destino`, protegendo contra Zip Slip (entradas com ../ que
-// escapariam da pasta). O conteúdo do zip publicado tem o .exe na raiz (ver builds/build_sidecars_ocr.ps1).
+// escapariam da pasta). O conteúdo do zip publicado tem o .exe na raiz (ver builds/build_sidecars_ocr_windows.ps1).
 func ExtrairZip(origem, destino string) error {
 	r, err := zip.OpenReader(origem)
 	if err != nil {
