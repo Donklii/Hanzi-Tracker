@@ -1,5 +1,5 @@
 // ----- Seção: Comum -----
-import React, { useState, useRef } from 'react';
+import React from 'react';
 import { progresso } from '../../wailsjs/go/models';
 
 interface ListaCartoesProps {
@@ -11,27 +11,23 @@ interface ListaCartoesProps {
   AoSairDoCartao: () => void;
   AoClicarNoCartao: (c: any) => void;
   ocultarBadgeTipo?: boolean;
-  motorTtsAtivo?: string;
 }
 
 export function ListaCartoes(props: ListaCartoesProps) {
   const {
     list, defaultStatus, actionBtns,
-    cartoesVocabulario, AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, ocultarBadgeTipo, motorTtsAtivo
+    cartoesVocabulario, AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, ocultarBadgeTipo
   } = props;
 
   if (list.length === 0) {
     return <div style={{ color: 'var(--cor-texto-suave)', textAlign: 'center', marginTop: '20px' }}>Nenhuma palavra encontrada.</div>;
   }
-  
-  const statusPorHanzi = new Map(cartoesVocabulario.map(v => [v.Hanzi, v.Status]));
 
-  // As tags não interferem no sort, mantém a ordem original da lista
-  const sortedList = list;
+  const statusPorHanzi = new Map(cartoesVocabulario.map(v => [v.Hanzi, v.Status]));
 
   return (
     <div className="cards-container">
-      {sortedList.map((c, i) => {
+      {list.map((c, i) => {
         const hz = c.hanzi || c.Hanzi;
         const py = c.pinyin || c.Pinyin || '---';
         const sigs = c.significados ? c.significados.join(', ') : c.Significado || 'Sem tradução';

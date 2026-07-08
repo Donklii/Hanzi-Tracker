@@ -2,7 +2,7 @@
 # Catálogo dos modelos ONNX (RapidOCR / PP-OCR) que podem ser baixados sob demanda
 # para %APPDATA%\HanziTracker\motores_ocr\RapidOCR\modelos. Apenas modelos ONNX entram aqui: são arquivos
 # puros e funcionam mesmo no executável compilado (.exe), ao contrário de engines pip
-# (EasyOCR, onnxruntime-directml/gpu), que não podem ser instalados num exe congelado.
+# (EasyOCR, onnxruntime-webgpu/gpu), que não podem ser instalados num exe congelado.
 #
 # Cada modelo lista os arquivos que o compõem (detector "det", reconhecedor "rec" e,
 # opcionalmente, classificador "cls"). O campo `sha256`, quando preenchido, é conferido

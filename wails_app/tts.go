@@ -45,7 +45,6 @@ func (a *App) DespertarMotorTts() {
 	}()
 }
 
-
 // emitirEstadoTts envia ao frontend o estado atual da síntese (barra de status). Mensagem vazia =
 // terminou/limpou.
 func (a *App) emitirEstadoTts(mensagem string) {

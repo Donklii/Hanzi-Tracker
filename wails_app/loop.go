@@ -12,61 +12,11 @@ import (
 
 func (a *App) StartBackgroundLoop() {
 	go func() {
-		// Tentar registrar o atalho de captura manual (ex: Ctrl+Shift+E) configurado
-		if a.Config.AtalhoEscanear != "" {
-			if hk := util.ParseHotkey(a.Config.AtalhoEscanear); hk != nil {
-				if err := hk.Register(); err == nil {
-					go func() {
-						for {
-							<-hk.Keydown()
-							runtime.EventsEmit(a.ctx, "trigger_scan")
-						}
-					}()
-				}
-			}
-		}
-
-		// Tentar registrar atalho de marcar estudo rápido
-		if a.Config.AtalhoMarcarEstudo != "" {
-			if hk := util.ParseHotkey(a.Config.AtalhoMarcarEstudo); hk != nil {
-				if err := hk.Register(); err == nil {
-					go func() {
-						for {
-							<-hk.Keydown()
-							runtime.EventsEmit(a.ctx, "trigger_save")
-						}
-					}()
-				}
-			}
-		}
-
-		// Tentar registrar atalho de "mostrar pop-up de tudo" (liga/desliga o overlay)
-		if a.Config.AtalhoPopupTodos != "" {
-			if hk := util.ParseHotkey(a.Config.AtalhoPopupTodos); hk != nil {
-				if err := hk.Register(); err == nil {
-					go func() {
-						for {
-							<-hk.Keydown()
-							a.alternarTodosPopups()
-						}
-					}()
-				}
-			}
-		}
-
-		// Tentar registrar atalho de "ligar/desligar popup do mouse"
-		if a.Config.AtalhoAlternarPopupHover != "" {
-			if hk := util.ParseHotkey(a.Config.AtalhoAlternarPopupHover); hk != nil {
-				if err := hk.Register(); err == nil {
-					go func() {
-						for {
-							<-hk.Keydown()
-							runtime.EventsEmit(a.ctx, "toggle_popup_hover")
-						}
-					}()
-				}
-			}
-		}
+		// Atalhos globais configuráveis (todos opcionais).
+		registrarAtalhoGlobal(a.Config.AtalhoEscanear, func() { runtime.EventsEmit(a.ctx, "trigger_scan") })
+		registrarAtalhoGlobal(a.Config.AtalhoMarcarEstudo, func() { runtime.EventsEmit(a.ctx, "trigger_save") })
+		registrarAtalhoGlobal(a.Config.AtalhoPopupTodos, a.alternarTodosPopups)
+		registrarAtalhoGlobal(a.Config.AtalhoAlternarPopupHover, func() { runtime.EventsEmit(a.ctx, "toggle_popup_hover") })
 
 		// Goroutine separada para rastrear o mouse velozmente
 		go func() {
@@ -86,7 +36,7 @@ func (a *App) StartBackgroundLoop() {
 						})
 						ultimoX, ultimoY = x, y
 					}
-					
+
 					ms := cfg.IntervaloAtualizacaoHoverMs
 					if ms < 16 {
 						ms = 16 // Mínimo de ~60fps
@@ -134,3 +84,26 @@ func (a *App) StartBackgroundLoop() {
 	}()
 }
 
+// registrarAtalhoGlobal registra um atalho global do SO e dispara aoAcionar a cada acionamento.
+// Atalho vazio ou não-parseável é ignorado (feature opcional); falha de registro (ex.: combinação
+// já tomada por outro app) é apenas logada — o app segue funcional sem o atalho.
+func registrarAtalhoGlobal(combo string, aoAcionar func()) {
+	if combo == "" {
+		return
+	}
+	hk := util.ParseHotkey(combo)
+	if hk == nil {
+		return
+	}
+	if err := hk.Register(); err != nil {
+		fmt.Printf("Aviso: falha ao registrar o atalho global %q: %v\n", combo, err)
+		return
+	}
+
+	go func() {
+		for {
+			<-hk.Keydown()
+			aoAcionar()
+		}
+	}()
+}

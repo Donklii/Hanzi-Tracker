@@ -228,14 +228,14 @@ func (a *App) bootstrapMotorPadrao() {
 	runtime.EventsEmit(a.ctx, "motor_bootstrap_inicio", escolhido.Rotulo)
 	fmt.Printf("Bootstrap: baixando o motor escolhido (%s)…\n", escolhido.Rotulo)
 
-	// 1) Motor escolhido (instalador) ou padrão do catálogo (dev).
+	// 1) Baixa o motor escolhido (instalador) ou o padrão do catálogo (dev).
 	if err := a.BaixarMotor(escolhido.Nome); err != nil {
 		fmt.Printf("Bootstrap falhou (motor): %v\n", err)
 		runtime.EventsEmit(a.ctx, "ocr_indisponivel", "falha ao baixar o motor: "+err.Error())
 		return
 	}
 
-	// 3) Sobe o motor recém-instalado e espera o healthcheck.
+	// 2) Sobe o motor recém-instalado e espera o healthcheck.
 	desc, ok := motoresocr.DescritorMotorInstalado(escolhido)
 	if !ok {
 		runtime.EventsEmit(a.ctx, "ocr_indisponivel", "motor baixado, mas o executável não foi encontrado")

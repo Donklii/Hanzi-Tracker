@@ -94,7 +94,7 @@ func (a *App) mostrarResumoGemini(linhas []LinhaTraduzida, monX, monY, monW, mon
 					dots = 2
 					direction = 1
 				}
-				overlay.MostrarResumo(titulo, "Esperando o Gemini responder" + strings.Repeat(".", dots), canto, monX, monY, monW, monH, 0)
+				overlay.MostrarResumo(titulo, "Esperando o Gemini responder"+strings.Repeat(".", dots), canto, monX, monY, monW, monH, 0)
 			}
 		}
 	}()
@@ -120,7 +120,7 @@ func (a *App) mostrarPopupsLinhaGemini(linhas []LinhaTraduzida, offX, offY, sw, 
 
 	for _, idx := range linhasComHanzi {
 		l := &linhas[idx]
-		
+
 		if a.Config.TraducaoUsarCache {
 			if cached, achou, err := progresso.BuscarTraducaoCache(l.Texto); err == nil && achou {
 				l.Traducao = cached

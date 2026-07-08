@@ -192,8 +192,8 @@ func BaixarEExtrairArtefato(art ArtefatoBaixavel, destino, raizDados string, onP
 		return fmt.Errorf("recusado: %s não declara sha256 (obrigatório para executáveis)", art.Nome)
 	}
 
-	// Pré-checagem de espaço: pico em disco = zip baixado + árvore extraída. Binários + DLLs do
-	// onnxruntime/DirectML comprimem bem, então a extração passa de 3x o zip; exigimos ~5x de folga.
+	// Pré-checagem de espaço: pico em disco = zip baixado + árvore extraída. Binários + libs do
+	// onnxruntime comprimem bem, então a extração passa de 3x o zip; exigimos ~5x de folga.
 	if err := VerificarEspacoDisco(raizDados, art.TamanhoBytes*5); err != nil {
 		return err
 	}

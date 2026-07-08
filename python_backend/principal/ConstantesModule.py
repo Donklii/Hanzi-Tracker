@@ -13,7 +13,8 @@ CONFIANCA_MINIMA_OCR = 0.5
 THREADS_CPU_OCR = 4
 # Hardware selecionado para inferência: CPU ou GPU específica detectada
 HARDWARE_SELECIONADO = "CPU"
-# Dispositivo de execução do OCR: "cpu", "cuda", ou "directml" (definido de acordo com o hardware e a API)
+# Dispositivo de execução do OCR: "cpu" ou "webgpu" ("directml"/"cuda" são valores legados de
+# configs antigas, tratados como pedido de GPU pelo OcrService)
 DISPOSITIVO_OCR = "cpu"
 # Modelo (PESO) de OCR a utilizar, do catálogo do motor ativo (ex.: "RapidOCR", "RapidOCR Server",
 # "Tesseract Rápido", "EasyOCR Chinês"). Chega pelo header X-Ocr-Model injetado pelo Go.
@@ -21,7 +22,7 @@ MODELO_OCR = "RapidOCR"
 # Limite do lado maior da captura antes do OCR (em px). 0 = resolução nativa do monitor (sem redução).
 LIMITE_LADO_MAIOR_OCR = 0
 # Descarrega o motor de OCR da memória após este tempo (em segundos) sem uso, liberando RAM (e VRAM,
-# no DirectML). É recarregado sob demanda no próximo scan (custo único de ~1-2s). Como o auto-scan
+# no WebGPU). É recarregado sob demanda no próximo scan (custo único de ~1-2s). Como o auto-scan
 # padrão ocorre a cada 10s (IntervaloCapturaSegundos), o motor fica "quente" durante o uso ativo e só
 # é descarregado quando o app fica ocioso (sem scans) por este tempo. 0 = nunca descarregar.
 SEGUNDOS_OCIOSO_DESCARREGAR_OCR = 120

@@ -1,6 +1,10 @@
 package progresso
 
-import "fmt"
+import (
+	"database/sql"
+	"errors"
+	"fmt"
+)
 
 // BuscarTraducaoCache procura uma tradução já armazenada para a linha original.
 // Devolve a tradução, se achou, e um eventual erro de banco.
@@ -16,7 +20,7 @@ func BuscarTraducaoCache(linhaOriginal string) (traducao string, achou bool, err
 
 	if err != nil {
 		// sql.ErrNoRows não é um erro de fato — só indica cache miss.
-		if err.Error() == "sql: no rows in result set" {
+		if errors.Is(err, sql.ErrNoRows) {
 			return "", false, nil
 		}
 		return "", false, err

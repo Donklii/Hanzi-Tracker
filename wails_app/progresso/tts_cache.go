@@ -1,6 +1,10 @@
 package progresso
 
-import "fmt"
+import (
+	"database/sql"
+	"errors"
+	"fmt"
+)
 
 // ----- Cache de áudio TTS -----
 // Espelha o traducao_cache.go: tabela dentro do progresso.db (não é arquivo próprio) que guarda o
@@ -25,7 +29,7 @@ func BuscarAudioTts(pinyin, motor string) (audio []byte, achou bool, err error) 
 
 	if err != nil {
 		// sql.ErrNoRows não é um erro de fato — só indica cache miss.
-		if err.Error() == "sql: no rows in result set" {
+		if errors.Is(err, sql.ErrNoRows) {
 			return nil, false, nil
 		}
 		return nil, false, err

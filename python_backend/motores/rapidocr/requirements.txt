@@ -3,15 +3,16 @@
 # pelo CI para instalar o suficiente para rodar a suíte de testes (pytest).
 #
 # Para desenvolvimento, isto instala o onnxruntime padrão (CPU) como dependência do rapidocr.
-# Para gerar o build distribuído COM aceleração DirectML, NÃO basta este arquivo: é preciso trocar
-# o onnxruntime pelo onnxruntime-directml no ambiente de build — veja BUILD.md.
+# Para gerar o build distribuído COM aceleração WebGPU, NÃO basta este arquivo: é preciso trocar
+# o onnxruntime pelo onnxruntime-webgpu no ambiente de build — veja BUILD.md.
 
 rapidocr-onnxruntime>=1.4.0
 numpy>=1.24.0
 pytest>=8.0.0
 
-# Aceleração GPU (Windows): o DirectML é universal (Nvidia/AMD/Intel) e não exige CUDA Toolkit.
-# NÃO descomente a linha abaixo junto com o rapidocr acima: onnxruntime-directml e onnxruntime são
-# MUTUAMENTE EXCLUSIVOS. A troca correta (uninstall onnxruntime; install onnxruntime-directml) é
-# feita no ambiente de build conforme o BUILD.md.
-# onnxruntime-directml>=1.17.0
+# Aceleração GPU (Windows e Linux): o WebGPU é universal (Nvidia/AMD/Intel; D3D12 no Windows,
+# Vulkan no Linux) e não exige CUDA Toolkit.
+# NÃO descomente a linha abaixo junto com o rapidocr acima: onnxruntime-webgpu e onnxruntime são
+# MUTUAMENTE EXCLUSIVOS (instalam o mesmo módulo `onnxruntime`). A troca correta (uninstall
+# onnxruntime; install onnxruntime-webgpu) é feita no ambiente de build conforme o BUILD.md.
+# onnxruntime-webgpu>=1.27.0

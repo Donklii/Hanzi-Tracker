@@ -44,12 +44,14 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Instalar dependências de build (GTK/WebKit/X11)
+      - name: Instalar dependências de build (GTK/WebKit/X11 + xvfb)
         # GTK+WebKit são o runtime de janela do Wails no Linux; libx11-dev é exigido pelo cgo da lib
-        # de atalhos globais (golang.design/x/hotkey).
+        # de atalhos globais (golang.design/x/hotkey). xvfb é necessário porque o init() dessa lib
+        # abre um display X11 e aborta o processo se não houver nenhum (runner é headless) — mesmo
+        # motivo do testes.yml.
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends libgtk-3-dev libwebkit2gtk-4.1-dev libx11-dev
+          sudo apt-get install -y --no-install-recommends libgtk-3-dev libwebkit2gtk-4.1-dev libx11-dev xvfb
 
       - name: Instalar o Wails CLI
         # Fixado na MESMA versão de github.com/wailsapp/wails/v2 usada em wails_app/go.mod — ao
@@ -97,8 +99,10 @@ jobs:
       - name: Buildar o app (wails build linux)
         working-directory: wails_app
         # A tag webkit2_41 linka contra o WebKitGTK 4.1 — o 4.0 não existe mais no Ubuntu 24.04.
+        # xvfb-run: a geração de bindings executa código que importa a lib de hotkey (X11), que aborta
+        # sem um display mesmo sem abrir janela nenhuma — mesmo motivo do testes.yml.
         run: |
-          wails build -platform linux/amd64 -tags webkit2_41
+          xvfb-run -a wails build -platform linux/amd64 -tags webkit2_41
           if [[ ! -f build/bin/HanziTracker ]]; then
             echo 'wails build terminou sem gerar build/bin/HanziTracker' >&2
             exit 1

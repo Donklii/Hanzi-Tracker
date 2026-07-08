@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, Dispatch, SetStateAction } from 'react';
 import './App.css';
 import { PainelConfiguracoes } from './configuracoes/PainelConfiguracoes';
 import { ModalCartaoDetalhes } from './dicionario/ModalCartaoDetalhes';
@@ -13,19 +13,7 @@ import { AbaBuscaGlobal } from './busca/AbaBuscaGlobal';
 import { config, main, progresso } from '../wailsjs/go/models';
 import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, RemoveVocab, GetVocab, ShowHighlight, HideHoverPopup, ShowHoverPopup, LookupWord, DecomposeCharacter, BuscarCaracteresCompostosPor, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, ListarModelos, BaixarModelo, RemoverModelo, ListarMotores, BaixarMotor, RemoverMotor, TrocarMotor, GetStorageInfo, LimparArmazenamento, ExcluirTudo, AbrirPastaDados, GetCaptureResolution, GetSessionImage, GetMonitores, GetCotaTraducao, GetCotaGemini, FalarPinyin, ListarMotoresTts, BaixarMotorTts, RemoverMotorTts, PreCarregarCacheTts, PararPreCacheTts, BuscarPorPinyin, BuscarNoDicionarioGeral } from "../wailsjs/go/main/App";
 import { EventsOn } from "../wailsjs/runtime/runtime";
-
-// Espelha main.ProgressoPreCacheTts (Go): andamento do pré-carregamento em lote do cache de áudio,
-// entregue pelo evento "tts_precache_progresso". Tipado aqui porque payloads de evento não entram nos
-// models.ts gerados.
-interface ProgressoPreCacheTts {
-  total: number;
-  processados: number;
-  sintetizados: number;
-  jaEmCache: number;
-  falhas: number;
-  emAndamento: boolean;
-  mensagem: string;
-}
+import { ProgressoPreCacheTts } from './configuracoes/comum';
 
 function App() {
   const [abaAtiva, setAbaAtiva] = useState('descobrimento');
@@ -472,74 +460,57 @@ function App() {
     ListarModelos().then(m => setModelos(m || [])).catch(() => { });
   };
 
-  const FormatarTamanho = (bytes: number): string => {
-    if (!bytes) return '';
-    const mb = bytes / (1024 * 1024);
-    if (mb >= 1024) return (mb / 1024).toFixed(1) + ' GB';
-    return mb.toFixed(1) + ' MB';
-  };
-
-  const BaixarModeloOcr = (nome: string) => {
-    setBaixandoModelo(nome);
-    setProgressoModelo(prev => ({ ...prev, [nome]: 'Iniciando download…' }));
-    BaixarModelo(nome)
-      .then(() => {
-        setProgressoModelo(prev => ({ ...prev, [nome]: '✅ Instalado!' }));
-        CarregarModelos();
-      })
-      .catch((err: any) => {
-        setProgressoModelo(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
-      })
-      .finally(() => setBaixandoModelo(null));
-  };
-
-  const RemoverModeloOcr = (nome: string) => {
-    RemoverModelo(nome)
-      .then(() => {
-        setProgressoModelo(prev => {
-          const copia = { ...prev };
-          delete copia[nome];
-          return copia;
+  // Fábrica dos pares baixar/remover de itens de catálogo (modelos de OCR, motores de OCR e de
+  // voz): os três compartilham o mesmo fluxo de progresso/sucesso/erro, mudando só a API chamada e
+  // os states de destino.
+  const CriarAcoesDeCatalogo = (
+    api: { baixar: (nome: string) => Promise<void>; remover: (nome: string) => Promise<void> },
+    setProgresso: Dispatch<SetStateAction<Record<string, string>>>,
+    setBaixando: Dispatch<SetStateAction<string | null>>,
+    recarregar: () => void,
+  ) => ({
+    baixar: (nome: string) => {
+      setBaixando(nome);
+      setProgresso(prev => ({ ...prev, [nome]: 'Iniciando download…' }));
+      api.baixar(nome)
+        .then(() => {
+          setProgresso(prev => ({ ...prev, [nome]: '✅ Instalado!' }));
+          recarregar();
+        })
+        .catch((err: any) => {
+          setProgresso(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
+        })
+        .finally(() => setBaixando(null));
+    },
+    remover: (nome: string) => {
+      api.remover(nome)
+        .then(() => {
+          setProgresso(prev => {
+            const copia = { ...prev };
+            delete copia[nome];
+            return copia;
+          });
+          recarregar();
+        })
+        .catch((err: any) => {
+          setProgresso(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
         });
-        CarregarModelos();
-      })
-      .catch((err: any) => {
-        setProgressoModelo(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
-      });
-  };
+    },
+  });
 
   const CarregarMotores = () => {
     ListarMotores().then(m => setMotores(m || [])).catch(() => { });
   };
 
-  const BaixarMotorOcr = (nome: string) => {
-    setBaixandoMotor(nome);
-    setProgressoMotor(prev => ({ ...prev, [nome]: 'Iniciando download…' }));
-    BaixarMotor(nome)
-      .then(() => {
-        setProgressoMotor(prev => ({ ...prev, [nome]: '✅ Instalado!' }));
-        CarregarMotores();
-      })
-      .catch((err: any) => {
-        setProgressoMotor(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
-      })
-      .finally(() => setBaixandoMotor(null));
-  };
+  const acoesModeloOcr = CriarAcoesDeCatalogo(
+    { baixar: BaixarModelo, remover: RemoverModelo }, setProgressoModelo, setBaixandoModelo, CarregarModelos);
+  const BaixarModeloOcr = acoesModeloOcr.baixar;
+  const RemoverModeloOcr = acoesModeloOcr.remover;
 
-  const RemoverMotorOcr = (nome: string) => {
-    RemoverMotor(nome)
-      .then(() => {
-        setProgressoMotor(prev => {
-          const copia = { ...prev };
-          delete copia[nome];
-          return copia;
-        });
-        CarregarMotores();
-      })
-      .catch((err: any) => {
-        setProgressoMotor(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
-      });
-  };
+  const acoesMotorOcr = CriarAcoesDeCatalogo(
+    { baixar: BaixarMotor, remover: RemoverMotor }, setProgressoMotor, setBaixandoMotor, CarregarMotores);
+  const BaixarMotorOcr = acoesMotorOcr.baixar;
+  const RemoverMotorOcr = acoesMotorOcr.remover;
 
   const TrocarMotorOcr = (nome: string) => {
     const motor = motores.find(m => m.nome === nome);
@@ -565,34 +536,10 @@ function App() {
     ListarMotoresTts().then(m => setMotoresTts(m || [])).catch(() => { });
   };
 
-  const BaixarMotorVoz = (nome: string) => {
-    setBaixandoMotorTts(nome);
-    setProgressoMotorTts(prev => ({ ...prev, [nome]: 'Iniciando download…' }));
-    BaixarMotorTts(nome)
-      .then(() => {
-        setProgressoMotorTts(prev => ({ ...prev, [nome]: '✅ Instalado!' }));
-        CarregarMotoresTts();
-      })
-      .catch((err: any) => {
-        setProgressoMotorTts(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
-      })
-      .finally(() => setBaixandoMotorTts(null));
-  };
-
-  const RemoverMotorVoz = (nome: string) => {
-    RemoverMotorTts(nome)
-      .then(() => {
-        setProgressoMotorTts(prev => {
-          const copia = { ...prev };
-          delete copia[nome];
-          return copia;
-        });
-        CarregarMotoresTts();
-      })
-      .catch((err: any) => {
-        setProgressoMotorTts(prev => ({ ...prev, [nome]: '⚠️ ' + String(err) }));
-      });
-  };
+  const acoesMotorVoz = CriarAcoesDeCatalogo(
+    { baixar: BaixarMotorTts, remover: RemoverMotorTts }, setProgressoMotorTts, setBaixandoMotorTts, CarregarMotoresTts);
+  const BaixarMotorVoz = acoesMotorVoz.baixar;
+  const RemoverMotorVoz = acoesMotorVoz.remover;
 
   // Dispara a síntese em lote de TODAS as palavras dos dicionários para o cache de áudio, no motor
   // atualmente selecionado. O andamento chega pelo evento "tts_precache_progresso".
@@ -691,20 +638,16 @@ function App() {
     SaveConfig(novo);
   };
 
-  // ----- Matriz de compatibilidade Motor x Hardware x API -----
-  // O HARDWARE de processamento depende do MOTOR de OCR ativo: cada motor declara as acelerações que
-  // suporta na sua `variante` (ex.: "CPU/DirectML", "CPU", "CPU/CUDA"). A CPU vale para todo motor;
-  // DirectML acelera em qualquer GPU (Windows); CUDA é exclusivo Nvidia. O motor é a escolha primária;
-  // ao ativar um motor incompatível com o hardware atual, a config migra para uma combinação suportada.
-  const ehNvidia = (hw: string) => (hw || '').toLowerCase().includes('nvidia');
-
+  // ----- Matriz de compatibilidade Motor x Hardware -----
+  // O HARDWARE de processamento depende do MOTOR de OCR ativo: cada motor declara na sua `variante`
+  // ("CPU" ou "CPU/WebGPU") se acelera por GPU. A CPU vale para todo motor; WebGPU acelera em
+  // qualquer GPU (Nvidia/AMD/Intel — D3D12 no Windows, Vulkan no Linux). O motor é a escolha
+  // primária; ao ativar um motor incompatível com o hardware atual, a config migra para uma
+  // combinação suportada.
   const ehCpuNome = (hw: string): boolean => hw === 'CPU' || hw === infoHardware?.cpu;
 
-  // Acelerações que um motor suporta, derivadas da sua `variante`.
-  const aceleracoesMotor = (variante: string) => {
-    const v = (variante || 'CPU').toLowerCase();
-    return { directml: v.includes('directml'), cuda: v.includes('cuda') };
-  };
+  // Um motor acelera por GPU se a sua `variante` inclui WebGPU.
+  const motorAceleraPorGpu = (variante: string) => (variante || 'CPU').toLowerCase().includes('webgpu');
 
   // Migra o hardware/API para uma combinação que o motor recém-ativado suporte (avisando o usuário).
   const migrarHardwareParaMotor = (motor?: main.MotorOcrInfo) => {
@@ -713,25 +656,17 @@ function App() {
     const hwAtual = configuracoesApp.hardwareSelecionado;
     if (ehCpuNome(hwAtual)) return; // CPU é compatível com qualquer motor — nada a migrar.
 
-    const { directml, cuda } = aceleracoesMotor(motor.variante);
-    const cpuNome = infoHardware?.cpu || 'CPU';
-    const gpuUsavel = directml || (cuda && ehNvidia(hwAtual));
-
-    // GPU atual não é utilizável por este motor (motor só-CPU, ou GPU não-Nvidia num motor só-CUDA).
-    if (!gpuUsavel) {
+    // GPU selecionada, mas o motor recém-ativado é só-CPU → processamento volta para a CPU.
+    if (!motorAceleraPorGpu(motor.variante)) {
+      const cpuNome = infoHardware?.cpu || 'CPU';
       AplicarConfiguracao({ hardwareSelecionado: cpuNome, dispositivoOcr: 'cpu' });
       setAvisoCompatibilidade(`O motor ${motor.rotulo} não é compatível com o hardware "${hwAtual}". O processamento foi alterado para a CPU.`);
       return;
     }
 
-    // GPU utilizável, mas a API selecionada pode não ser suportada pelo motor.
-    const api = configuracoesApp.dispositivoOcr;
-    if (api === 'directml' && !directml) {
-      AplicarConfiguracao({ dispositivoOcr: 'cuda' });
-      setAvisoCompatibilidade(`O motor ${motor.rotulo} não suporta DirectML. A API foi alterada para CUDA.`);
-    } else if (api === 'cuda' && !(cuda && ehNvidia(hwAtual))) {
-      AplicarConfiguracao({ dispositivoOcr: 'directml' });
-      setAvisoCompatibilidade(`O motor ${motor.rotulo} não suporta CUDA neste hardware. A API foi alterada para DirectML.`);
+    // GPU + motor com WebGPU: normaliza a API (inclusive valores legados "directml"/"cuda").
+    if (configuracoesApp.dispositivoOcr !== 'webgpu') {
+      AplicarConfiguracao({ dispositivoOcr: 'webgpu' });
     }
   };
 
@@ -902,31 +837,17 @@ function App() {
   const isEstudandoSelecionado = cartoesVocabulario.some(v => v.Hanzi === hzSelecionado && v.Status === 'estudo');
   const isAprendidaSelecionado = cartoesVocabulario.some(v => v.Hanzi === hzSelecionado && v.Status === 'aprendido');
 
-  const alternarEstudoSelecionado = () => {
+  // Alterna o vínculo do cartão selecionado com um status: remove se já está nele, senão grava.
+  const alternarStatusSelecionado = (status: string, jaNesteStatus: boolean) => {
     if (!hzSelecionado) return;
-    if (isEstudandoSelecionado) {
-      RemoveVocab(hzSelecionado).then(() => {
-        GetVocab().then(v => setCartoesVocabulario(v || []));
-      });
-    } else {
-      AddVocab(hzSelecionado, pySelecionado || '', sigSelecionado || '', 'estudo').then(() => {
-        GetVocab().then(v => setCartoesVocabulario(v || []));
-      });
-    }
+    const operacao = jaNesteStatus
+      ? RemoveVocab(hzSelecionado)
+      : AddVocab(hzSelecionado, pySelecionado || '', sigSelecionado || '', status);
+    operacao.then(CarregarVocabulario);
   };
 
-  const alternarAprendidaSelecionado = () => {
-    if (!hzSelecionado) return;
-    if (isAprendidaSelecionado) {
-      RemoveVocab(hzSelecionado).then(() => {
-        GetVocab().then(v => setCartoesVocabulario(v || []));
-      });
-    } else {
-      AddVocab(hzSelecionado, pySelecionado || '', sigSelecionado || '', 'aprendido').then(() => {
-        GetVocab().then(v => setCartoesVocabulario(v || []));
-      });
-    }
-  };
+  const alternarEstudoSelecionado = () => alternarStatusSelecionado('estudo', isEstudandoSelecionado);
+  const alternarAprendidaSelecionado = () => alternarStatusSelecionado('aprendido', isAprendidaSelecionado);
 
   // Filtro de exibição por tipo de Hanzi (Simplificado / Tradicional)
   const filtrarPorTipo = (lista: any[]) => {
@@ -1084,7 +1005,7 @@ function App() {
 
             {abaAtiva === 'descobrimento' && (
               <button className="scan-btn" onClick={EscanearTelaEhProcessar}>
-                Escanear Tela ({configuracoesApp?.atalhoEscanear || 'F4'})
+                Escanear Tela ({configuracoesApp?.atalhoEscanear || 'ctrl+shift+e'})
               </button>
             )}
 
@@ -1225,7 +1146,6 @@ function App() {
         modelos={modelos}
         progressoModelo={progressoModelo}
         baixandoModelo={baixandoModelo}
-        avisoCompatibilidade={avisoCompatibilidade}
         infoArmazenamento={infoArmazenamento}
         infoCotaTraducao={infoCotaTraducao}
         infoCotaGemini={infoCotaGemini}
@@ -1248,11 +1168,9 @@ function App() {
         progressoPreCacheTts={progressoPreCacheTts}
         PreCarregarAudioTts={PreCarregarAudioTts}
         PararPreCarregarAudioTts={PararPreCarregarAudioTts}
-        CarregarArmazenamento={CarregarArmazenamento}
         LimparCategoriaArmazenamento={LimparCategoriaArmazenamento}
         ExcluirTodoArmazenamento={ExcluirTodoArmazenamento}
         ehCpuNome={ehCpuNome}
-        ehNvidia={ehNvidia}
       />
 
       {/* Card Details Modal Overlay */}

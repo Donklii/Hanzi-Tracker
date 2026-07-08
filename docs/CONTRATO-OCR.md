@@ -103,7 +103,7 @@ Executa o OCR sobre uma imagem.
   |------------------|--------|--------------------------------------------------------------|
   | `X-Ocr-Model`    | string | Nome do modelo/peso a usar.                                  |
   | `X-Ocr-Device`   | string | Dispositivo lógico de inferência.                           |
-  | `X-Ocr-Hardware` | string | Hardware selecionado (CPU / DirectML / CUDA).               |
+  | `X-Ocr-Hardware` | string | Hardware selecionado (nome da CPU ou da GPU).               |
   | `X-Ocr-Threads`  | int    | Limite de threads de CPU.                                    |
   | `X-Ocr-Max-Side` | int    | Maior lado (px) da imagem enviada; `0`/ausente = sem limite.|
 

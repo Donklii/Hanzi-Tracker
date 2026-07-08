@@ -452,50 +452,21 @@ func (a *App) decomporTextoRevisao(texto string) []PalavraRevisao {
 			continue
 		}
 
-		hasMeaning := false
-		if utf8.RuneCountInString(t.Texto) == 1 {
-			hasMeaning = true
-		} else {
-			if len(a.Cedict.Buscar(t.Texto)) > 0 {
-				hasMeaning = true
-			}
-		}
-
 		var subTokens []string
-		if hasMeaning {
+		if a.temEntradaNoDicionario(t.Texto) {
 			subTokens = append(subTokens, t.Texto)
 		} else {
-			subTokens = append(subTokens, a.breakIntoDictionaryWords(t.Texto)...)
+			subTokens = append(subTokens, a.quebrarEmPalavrasDoDicionario(t.Texto)...)
 		}
 
 		for _, st := range subTokens {
-			tr := PalavraRevisao{
-				Texto:    st,
-				EhChines: true,
-			}
-
-			// Priorizar MakeMeAHanzi para caracteres isolados
-			usouMakeMeAHanzi := false
-			if utf8.RuneCountInString(st) == 1 {
-				dec := a.BancoHanzi.Buscar(st)
-				if dec != nil && dec.Definicao != "" {
-					if len(dec.Pinyin) > 0 {
-						tr.Pinyin = strings.Join(dec.Pinyin, ", ")
-					}
-					tr.Significados = []string{dec.Definicao}
-					usouMakeMeAHanzi = true
-				}
-			}
-
-			if !usouMakeMeAHanzi {
-				entradas := a.Cedict.Buscar(st)
-				if len(entradas) > 0 {
-					tr.Pinyin = entradas[0].Pinyin
-					tr.Significados = entradas[0].Significados
-				}
-			}
-
-			resultado = append(resultado, tr)
+			pinyin, significados, _ := a.buscarLeituraHanzi(st)
+			resultado = append(resultado, PalavraRevisao{
+				Texto:        st,
+				Pinyin:       pinyin,
+				Significados: significados,
+				EhChines:     true,
+			})
 		}
 	}
 
@@ -522,7 +493,7 @@ func (a *App) selecionarFrasePonderada(frases []dicionario.Frase) dicionario.Fra
 		pontosConhecimento := 0
 		totalUnicos := 0
 		vistos := make(map[rune]bool)
-		
+
 		for _, r := range f.Chines {
 			if vistos[r] || !unicode.Is(unicode.Han, r) {
 				continue

@@ -218,6 +218,9 @@ func (a *App) ExcluirTudo() error {
 	if err := progresso.LimparVocabulario(); err != nil {
 		erros = append(erros, fmt.Sprintf("banco: %v", err))
 	}
+	// As COTAS (tradução/Gemini) são preservadas de propósito: elas contabilizam consumo já feito nas
+	// APIs externas neste período — apagar o contador não devolve o consumo, só cegaria o app para o
+	// free tier restante.
 
 	if len(erros) > 0 {
 		return fmt.Errorf("alguns itens não puderam ser apagados — %s", strings.Join(erros, "; "))

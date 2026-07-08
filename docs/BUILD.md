@@ -1,7 +1,8 @@
 # Build de Distribuição — Hanzi Tracker
 
-Este documento descreve como gerar a versão distribuível do app, **com aceleração GPU por DirectML
-embutida** (universal no Windows: Nvidia, AMD e Intel; sem CUDA Toolkit; sem download em runtime).
+Este documento descreve como gerar a versão distribuível do app, **com aceleração GPU por WebGPU
+embutida** (universal nos dois SOs: Nvidia, AMD e Intel — sobre D3D12 no Windows e Vulkan no Linux;
+sem CUDA Toolkit; sem download em runtime).
 
 ## Visão geral da arquitetura
 
@@ -28,13 +29,13 @@ powershell -ExecutionPolicy Bypass -File builds/build_sidecars_tts_windows.ps1
 ```
 
 O script de OCR congela os artefatos, cada motor num venv **próprio** (`build_env`, `build_env_tesseract`,
-`build_env_easyocr` — o onnxruntime-directml do RapidOCR e o torch do EasyOCR não podem conviver no
+`build_env_easyocr` — o onnxruntime-webgpu do RapidOCR e o torch do EasyOCR não podem conviver no
 mesmo ambiente; o de voz usa `build_env_kokoro`/`build_env_chattts`), com os specs versionados dentro da
 pasta de cada motor
 ([motores/rapidocr/ocr_server.spec](python_backend/motores/rapidocr/ocr_server.spec),
 [motores/tesseract/tesseract_server.spec](python_backend/motores/tesseract/tesseract_server.spec) e
 [motores/easyocr/easyocr_server.spec](python_backend/motores/easyocr/easyocr_server.spec)). No build do
-RapidOCR ele **troca o onnxruntime pelo onnxruntime-directml** (aceleração universal); no do Tesseract,
+RapidOCR ele **troca o onnxruntime pelo onnxruntime-webgpu** (aceleração universal); no do Tesseract,
 copia a instalação do Tesseract (`choco install tesseract`, ou a pasta apontada por `TESSERACT_DIR`) para
 dentro do pacote e garante o `chi_sim.traineddata` (tessdata_fast 4.1.0, hash conferido) — sem a
 instalação, esse sidecar é pulado com aviso. Saída:
@@ -44,9 +45,9 @@ tamanho de cada um (é o que você cola no manifesto de motores — ver
 
 ### Por que os specs (e não flags soltas)
 
-- `onnxruntime` (CPU) e `onnxruntime-directml` são **mutuamente exclusivos** (ambos instalam o pacote
+- `onnxruntime` (CPU) e `onnxruntime-webgpu` são **mutuamente exclusivos** (ambos instalam o pacote
   `onnxruntime/`); o `rapidocr-onnxruntime` puxa o CPU, então o script o **remove antes** de instalar o
-  DirectML. É isso que embute o `DirectML.dll` e os `onnxruntime_providers_*.dll`.
+  WebGPU. É isso que embute a lib do onnxruntime com o WebGPU/Dawn e os `onnxruntime_providers_*`.
 - O `ocr_server.spec` usa `collect_all("onnxruntime")` + `collect_all("rapidocr_onnxruntime")` porque
   esses pacotes são **importados dinamicamente** em runtime (`OcrService._inicializarOcr`) — a análise
   estática do PyInstaller não os enxergaria. Também exclui `easyocr`/`torch`/`paddleocr` (viram sidecars
@@ -54,11 +55,11 @@ tamanho de cada um (é o que você cola no manifesto de motores — ver
   resolve a raiz `python_backend` via `SPECPATH` para os imports absolutos (`ocr.*`, `principal.*`,
   `motores.<motor>.*`) funcionarem no congelamento.
 
-Para conferir manualmente que o DirectML entrou no ambiente de build (o script já imprime isto):
+Para conferir manualmente que o WebGPU entrou no ambiente de build (o script já imprime isto):
 
 ```powershell
 build_env\Scripts\python.exe -c "import onnxruntime as ort; print(ort.get_available_providers())"
-# Esperado conter: 'DmlExecutionProvider'
+# Esperado conter: 'WebGpuExecutionProvider'
 ```
 
 ## 2. Frontend + App Wails
@@ -112,7 +113,7 @@ HanziTracker/
 
 ## Comportamento da aceleração
 
-- Com o DirectML embutido, **CPU e DirectML funcionam para todos**, sem download nem reinício.
-- **CUDA** (Nvidia) não é embutido (pesado) nem instalável no congelado; ao selecioná-lo, o app
-  **cai para CPU graciosamente** (ver `OcrService._inicializarOcr`). CUDA real só rodando do código-fonte
-  com `onnxruntime-gpu` + CUDA Toolkit instalados.
+- Com o WebGPU embutido, **CPU e GPU funcionam para todos**, sem download nem reinício.
+- **CUDA** (Nvidia) não é embutido (pesado) nem instalável no congelado; configs antigas com
+  "directml"/"cuda" são tratadas como pedido de GPU (WebGPU), e um binário sem o provedor
+  **cai para CPU graciosamente** (ver `OcrService._inicializarOcr`).

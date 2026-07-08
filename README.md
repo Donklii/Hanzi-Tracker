@@ -35,11 +35,11 @@ O restante deste documento cobre como rodar e compilar o projeto **a partir do c
 - **Leitura em voz alta (TTS):** lê o hanzi de qualquer card em voz alta usando um motor de voz local (Kokoro-82M, leve, ou ChatTTS, mais natural e pesado), baixado sob demanda. Os áudios sintetizados ficam em cache (por pronúncia, não por hanzi — homófonos compartilham o mesmo áudio) para leituras repetidas saírem instantâneas.
 - **Revisão de Hanzis:** modos de prática por **significado**, **fonética** (áudio via TTS), **desenho** (traçar o caractere) e **contexto** (frases reais do Tatoeba com lacuna), sorteando entre as palavras marcadas como "em estudo" e o dicionário geral.
 - **Busca global:** campo de busca que consulta hanzi, pinyin ou significado em todo o CC-CEDICT + MakeMeAHanzi de uma vez.
-- **Motores de OCR selecionáveis:** RapidOCR (padrão, leve, com aceleração DirectML/CUDA), Tesseract (CPU) e EasyOCR (CPU) — troque de motor a qualquer momento pela interface; cada um baixa seus próprios pesos sob demanda.
+- **Motores de OCR selecionáveis:** RapidOCR (padrão, leve, com aceleração WebGPU em qualquer GPU), Tesseract (CPU) e EasyOCR (CPU) — troque de motor a qualquer momento pela interface; cada um baixa seus próprios pesos sob demanda.
 - **Compatibilidade hardware × modelo:** ao escolher um modelo, as opções de hardware/aceleração incompatíveis são desabilitadas (com tooltip explicando o motivo). Se o modelo selecionado não suportar o hardware atual, a configuração migra automaticamente para uma combinação suportada e um aviso é exibido.
 - **Qualidade da Imagem (OCR):** controle para reduzir a resolução enviada ao OCR (mantendo a proporção do monitor), equilibrando precisão e uso de CPU/GPU.
 - **Gerenciamento de Armazenamento:** seção nas configurações que mostra o espaço usado por cada categoria de dados (motores, modelos, banco, cache de tradução/voz), com opções para limpar itens individuais ou **excluir tudo**.
-- **Configurações Avançadas:** interface rica (estilo Claude Desktop) para editar todas as constantes: hardware de IA (CPU vs DirectML vs CUDA), pausa por limite de uso, threads, atalhos globais, etc. Tudo salvo dinamicamente no `AppData`.
+- **Configurações Avançadas:** interface rica (estilo Claude Desktop) para editar todas as constantes: hardware de IA (CPU vs GPU via WebGPU), pausa por limite de uso, threads, atalhos globais, etc. Tudo salvo dinamicamente no `AppData`.
 
 ## Motores de OCR e voz (baixados sob demanda)
 

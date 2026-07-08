@@ -23,6 +23,13 @@ type Vocab struct {
 
 var db *sql.DB
 
+// vistosSessao evita repetir o INSERT OR IGNORE das mesmas palavras a cada scan — para
+// palavras já registradas o comando não muda nada, mas ainda custa um acesso a disco.
+var (
+	vistosSessaoMu sync.Mutex
+	vistosSessao   = map[string]bool{}
+)
+
 func InitDB() error {
 	appData, err := os.UserConfigDir()
 	if err != nil {
@@ -227,11 +234,22 @@ func GetAllVocab() ([]Vocab, error) {
 		if err := rows.Scan(&v.Id, &v.Hanzi, &v.Pinyin, &v.Significado, &v.Status, &d); err != nil {
 			return nil, err
 		}
-		t, _ := time.Parse(time.RFC3339, d)
-		v.DataAdd = t
+		v.DataAdd = parseDataSqlite(d)
 		lista = append(lista, v)
 	}
 	return lista, nil
+}
+
+// parseDataSqlite converte o texto de um DATETIME do SQLite em time.Time. O DEFAULT
+// CURRENT_TIMESTAMP grava "2006-01-02 15:04:05" (UTC), NÃO RFC3339 — parsear como RFC3339
+// devolvia sempre o time zero. Mantém o RFC3339 como fallback para valores gravados por
+// drivers/versões que usem esse formato. Falha vira time zero (dado meramente informativo).
+func parseDataSqlite(d string) time.Time {
+	if t, err := time.Parse("2006-01-02 15:04:05", d); err == nil {
+		return t
+	}
+	t, _ := time.Parse(time.RFC3339, d)
+	return t
 }
 
 // ----- Imagens de sessão (crops dos cards) -----
@@ -242,13 +260,6 @@ func GetAllVocab() ([]Vocab, error) {
 // por scan, não por palavra) e descartando as mais antigas acima do teto.
 
 const maxImagensSessao = 1_000
-
-// vistosSessao evita repetir o INSERT OR IGNORE das mesmas palavras a cada scan — para
-// palavras já registradas o comando não muda nada, mas ainda custa um acesso a disco.
-var (
-	vistosSessaoMu sync.Mutex
-	vistosSessao   = map[string]bool{}
-)
 
 // SalvarImagensSessaoLote grava todos os crops de um scan numa única transação e devolve os ids
 // gerados, na mesma ordem. Também descarta as imagens mais antigas acima de maxImagensSessao

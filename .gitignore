@@ -9,6 +9,9 @@ __pycache__/
 
 # ----- Node / frontend -----
 node_modules/
+# Gerados pelo Wails/Vite em builds locais — nunca fazem parte do fonte
+wails_app/frontend/package.json.md5
+wails_app/frontend/vite.config.ts.timestamp-*.mjs
 
 # ----- Build / distribuição (PyInstaller) -----
 build/

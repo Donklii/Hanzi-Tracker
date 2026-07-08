@@ -9,7 +9,9 @@ export function TocarAudio(hanzi: string, motor: string): Promise<void> {
 
   const tsInicio = Date.now();
   return new Promise((resolve) => {
-    FalarPinyin(hanzi, motor || 'Kokoro-82M (Leve)')
+    // Fallback pelo NOME de catálogo ("Kokoro-82M"), não pelo rótulo de UI ("Kokoro-82M (Leve)") —
+    // FalarPinyin valida o nome contra o catálogo e recusaria o rótulo como motor desconhecido.
+    FalarPinyin(hanzi, motor || 'Kokoro-82M')
       .then(b64 => {
         if (Date.now() - tsInicio > 5000) {
           resolve(); // Ignora se demorou muito

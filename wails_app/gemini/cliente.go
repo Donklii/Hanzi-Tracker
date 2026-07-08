@@ -13,7 +13,6 @@ import (
 	"time"
 )
 
-
 // clienteHTTP é o cliente compartilhado para todas as chamadas à API do Gemini.
 // Timeout de 60s porque a geração de conteúdo com imagem pode demorar.
 var clienteHTTP = &http.Client{Timeout: 60 * time.Second}

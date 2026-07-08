@@ -55,14 +55,14 @@ func TestColide(t *testing.T) {
 func TestAcharPosicao(t *testing.T) {
 	sw, sh := 1920, 1080
 	tests := []struct {
-		name        string
-		preferX     int
-		preferY     int
-		w           int
-		h           int
-		colocadas   []Rect
-		expectedOk  bool
-		expectedY0  int // para verificar o comportamento de empilhamento
+		name       string
+		preferX    int
+		preferY    int
+		w          int
+		h          int
+		colocadas  []Rect
+		expectedOk bool
+		expectedY0 int // para verificar o comportamento de empilhamento
 	}{
 		{
 			name:       "Livre na posição preferida",

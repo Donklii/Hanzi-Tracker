@@ -50,7 +50,7 @@ func Iniciar() {
 		wc.CbSize = uint32(unsafe.Sizeof(wc))
 		wc.LpfnWndProc = syscall.NewCallback(wndProc)
 		wc.HInstance = win.GetModuleHandle(nil)
-		wc.HCursor = win.LoadCursor(0, (*uint16)(unsafe.Pointer(uintptr(win.IDC_ARROW))))
+		wc.HCursor = win.LoadCursor(0, win.MAKEINTRESOURCE(win.IDC_ARROW))
 		wc.HbrBackground = win.HBRUSH(createSolidBrush(win.RGB(255, 0, 255))) // Cor chave Magenta
 		wc.LpszClassName = utf16PtrFromString(className)
 		win.RegisterClassEx(&wc)
@@ -124,7 +124,7 @@ func Show(pinyin, hanzi, sig string, x, y int) {
 		}
 
 		w, h := medirCard(pinyin, hanzi, sig, 1.0)
-		
+
 		finalX := x - (w / 2)
 		finalY := y - h - 10
 		if finalY < 0 {
@@ -166,7 +166,7 @@ func MostrarResumo(titulo, texto, canto string, monX, monY, monW, monH int, ttlS
 		close(resumoCancel)
 		resumoCancel = nil
 	}
-	
+
 	if ttlSec < 0 {
 		// Tempo de leitura: ~15 caracteres por segundo, mínimo de 10 segundos
 		ttlSec = max(10, len(texto)/15)
@@ -236,45 +236,45 @@ func MostrarResumo(titulo, texto, canto string, monX, monY, monW, monH int, ttlS
 
 	if ttlSec > 0 {
 		go func() {
-		ticker := time.NewTicker(200 * time.Millisecond)
-		defer ticker.Stop()
+			ticker := time.NewTicker(200 * time.Millisecond)
+			defer ticker.Stop()
 
-		remaining := time.Duration(ttlSec) * time.Second
+			remaining := time.Duration(ttlSec) * time.Second
 
-		for {
-			select {
-			case <-newCancel:
-				return // cancelado por outra chamada
-			case <-ticker.C:
-				isHovering := false
-				var pt win.POINT
-				if win.GetCursorPos(&pt) {
-					mx, my := int(pt.X), int(pt.Y)
-					hwnd := janelaResumo // leitura simples (não sincronizada rigorosamente, mas ok em Win32)
-					if hwnd != 0 {
-						var r win.RECT
-						if win.GetWindowRect(hwnd, &r) {
-							// Adiciona 15px de margem de tolerância ao redor do pop-up
-							if mx >= int(r.Left)-15 && mx <= int(r.Right)+15 && my >= int(r.Top)-15 && my <= int(r.Bottom)+15 {
-								isHovering = true
+			for {
+				select {
+				case <-newCancel:
+					return // cancelado por outra chamada
+				case <-ticker.C:
+					isHovering := false
+					var pt win.POINT
+					if win.GetCursorPos(&pt) {
+						mx, my := int(pt.X), int(pt.Y)
+						hwnd := janelaResumo // leitura simples (não sincronizada rigorosamente, mas ok em Win32)
+						if hwnd != 0 {
+							var r win.RECT
+							if win.GetWindowRect(hwnd, &r) {
+								// Adiciona 15px de margem de tolerância ao redor do pop-up
+								if mx >= int(r.Left)-15 && mx <= int(r.Right)+15 && my >= int(r.Top)-15 && my <= int(r.Bottom)+15 {
+									isHovering = true
+								}
 							}
+						} else {
+							// janela ainda não criada, pausa o timer
+							isHovering = true
 						}
-					} else {
-						// janela ainda não criada, pausa o timer
-						isHovering = true
 					}
-				}
 
-				if !isHovering {
-					remaining -= 200 * time.Millisecond
-					if remaining <= 0 {
-						OcultarResumo()
-						return
+					if !isHovering {
+						remaining -= 200 * time.Millisecond
+						if remaining <= 0 {
+							OcultarResumo()
+							return
+						}
 					}
 				}
 			}
-		}
-	}()
+		}()
 	}
 }
 
@@ -523,7 +523,7 @@ func ShowEstudoParcialHighlights(boxes [][]float64) {
 }
 
 // OcultarHighlightsTemporariamente esconde os highlights (borders), aguarda a renderização
-// para garantir que saiam da tela, roda a acao (print da tela) e os restaura. 
+// para garantir que saiam da tela, roda a acao (print da tela) e os restaura.
 func OcultarHighlightsTemporariamente(acao func()) {
 	if threadID == 0 {
 		acao()
@@ -532,7 +532,7 @@ func OcultarHighlightsTemporariamente(acao func()) {
 
 	var escondidas []win.HWND
 	done := make(chan struct{})
-	
+
 	execNaThread(func() {
 		esconder := func(h win.HWND) {
 			if h != 0 && win.IsWindowVisible(h) {

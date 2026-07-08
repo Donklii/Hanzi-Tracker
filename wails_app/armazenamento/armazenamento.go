@@ -84,24 +84,6 @@ func TamanhoLogs() int64 {
 
 // ----- Limpeza -----
 
-// LimparPasta apaga o conteúdo de uma pasta, mas mantém a pasta em si.
-func LimparPasta(pasta string) error {
-	entradas, err := os.ReadDir(pasta)
-	if err != nil {
-		// Guard clause: pasta inexistente já está "limpa"
-		if os.IsNotExist(err) {
-			return nil
-		}
-		return err
-	}
-	for _, e := range entradas {
-		if err := os.RemoveAll(filepath.Join(pasta, e.Name())); err != nil {
-			return err
-		}
-	}
-	return nil
-}
-
 // LimparLogs remove apenas os arquivos .log da pasta de dados.
 func LimparLogs() error {
 	entradas, err := os.ReadDir(PastaDados())

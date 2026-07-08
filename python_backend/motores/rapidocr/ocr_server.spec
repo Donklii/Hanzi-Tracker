@@ -1,6 +1,7 @@
 # -*- mode: python ; coding: utf-8 -*-
 # Congela o microserviço de OCR (server.py) como sidecar autônomo "ocr_server" (motor padrão RapidOCR).
-# Ver BUILD.md e docs/CONTRATO-OCR.md. Rode via build_sidecars.ps1 (ambiente com onnxruntime-directml).
+# Ver BUILD.md e docs/CONTRATO-OCR.md. Rode via builds/build_sidecars_ocr_{windows.ps1,linux.sh}
+# (ambiente com onnxruntime-webgpu).
 # Saída (onedir): dist/ocr_server/ocr_server.exe — casa com resolverMotorOcrPadrao() do app. O dist/
 # sai relativo ao diretório de INVOCAÇÃO do PyInstaller (python_backend), não de onde este spec mora.
 
@@ -13,8 +14,8 @@ from PyInstaller.utils.hooks import collect_all
 _backend = os.path.abspath(os.path.join(SPECPATH, "..", ".."))
 
 # onnxruntime e rapidocr são importados DINAMICAMENTE em runtime (OcrService._inicializarOcr), então a
-# análise estática do PyInstaller não os enxerga. collect_all arrasta os binários (inclui DirectML.dll
-# e os onnxruntime_providers_*.dll), os dados e os submódulos ocultos desses pacotes.
+# análise estática do PyInstaller não os enxerga. collect_all arrasta os binários (a lib do onnxruntime
+# com o WebGPU/Dawn embutido e os onnxruntime_providers_*), os dados e os submódulos ocultos desses pacotes.
 datas, binaries, hiddenimports = [], [], []
 for _pacote in ("onnxruntime", "rapidocr_onnxruntime"):
     _d, _b, _h = collect_all(_pacote)
@@ -43,7 +44,7 @@ a = Analysis(
     hookspath=[],
     runtime_hooks=[],
     # Motores dos OUTROS sidecars: ficam de fora mesmo se estiverem instalados no ambiente, mantendo
-    # o pacote enxuto e sem o conflito de GPU (onnxruntime-directml x torch no mesmo processo).
+    # o pacote enxuto e sem o conflito de GPU (onnxruntime-webgpu x torch no mesmo processo).
     excludes=["easyocr", "torch", "torchvision", "paddle", "paddleocr"],
     noarchive=False,
 )

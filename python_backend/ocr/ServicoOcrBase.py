@@ -187,7 +187,7 @@ class ServicoOcrBase:
                     self._descarregarPorInatividade()
 
     def _descarregarPorInatividade(self) -> None:
-        """Solta o motor após inatividade, liberando RAM (e VRAM no DirectML). Recarrega sob demanda no
+        """Solta o motor após inatividade, liberando RAM (e VRAM na aceleração por GPU). Recarrega sob demanda no
         próximo scan. DEVE ser chamado já com self._lock adquirido (feito no _lacoWatchdogOcioso)."""
         self._ocr = None
         self._config_carregada = None
@@ -199,11 +199,11 @@ class ServicoOcrBase:
 
     def _mensagemErroInferencia(self, erro: Exception) -> str:
         """Traduz erros de baixo nível da inferência em mensagens acionáveis para o usuário."""
-        # UnicodeDecodeError aqui é quase sempre uma mensagem nativa do DirectML (em codepage do
+        # UnicodeDecodeError aqui é quase sempre uma mensagem nativa do runtime de GPU (em codepage do
         # Windows) que o onnxruntime tenta ler como UTF-8 — tipicamente "memória de vídeo insuficiente".
         if isinstance(erro, UnicodeDecodeError):
             return (
-                "Falha na aceleração por GPU (DirectML), normalmente por falta de memória de vídeo. "
+                "Falha na aceleração por GPU, normalmente por falta de memória de vídeo. "
                 "Troque o dispositivo para CPU ou reduza a 'Resolução de Captura' nas configurações."
             )
 

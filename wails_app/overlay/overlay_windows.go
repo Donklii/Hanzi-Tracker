@@ -125,7 +125,7 @@ func calcTextRect(hdc win.HDC, text string, hfont win.HFONT, wrapWidth int) (win
 		return win.RECT{}, 0
 	}
 	win.SelectObject(hdc, win.HGDIOBJ(hfont))
-	rect := win.RECT{0, 0, int32(wrapWidth), 0}
+	rect := win.RECT{Left: 0, Top: 0, Right: int32(wrapWidth), Bottom: 0}
 	flags := uint32(win.DT_CALCRECT | win.DT_CENTER)
 	if wrapWidth > 0 {
 		flags |= win.DT_WORDBREAK
@@ -170,7 +170,7 @@ type WindowData struct {
 }
 
 var (
-	className = "HanziTrackerOverlay"
+	className   = "HanziTrackerOverlay"
 	windowDatas = make(map[win.HWND]*WindowData)
 )
 
@@ -231,7 +231,7 @@ func desenharCard(hwnd win.HWND, hdc win.HDC, data *WindowData) {
 	win.GetClientRect(hwnd, &rect)
 
 	// Fundo (Simula tk.Frame com fundo #1a1a24 e borda #ff9800)
-	bgCor := win.RGB(0x1a, 0x1a, 0x24)     // #1a1a24
+	bgCor := win.RGB(0x1a, 0x1a, 0x24)    // #1a1a24
 	bordaCor := win.RGB(0xff, 0x98, 0x00) // #ff9800
 
 	fillRect(hdc, &rect, bgCor)
@@ -271,13 +271,13 @@ func desenharCard(hwnd win.HWND, hdc win.HDC, data *WindowData) {
 
 	if data.Sig != "" {
 		yAtual += int32(max(3, int(8*data.Escala)))
-		
+
 		limite := max(20, int(70*data.Escala))
 		runes := []rune(data.Sig)
 		if len(runes) > limite {
 			data.Sig = string(runes[:limite-1]) + "…"
 		}
-		
+
 		rSig := win.RECT{Left: int32(pad), Top: yAtual, Right: rect.Right - int32(pad), Bottom: rect.Bottom}
 		drawTextCentered(hdc, data.Sig, &rSig, win.RGB(0xcc, 0xcc, 0xcc), fSig, true)
 	}
@@ -364,18 +364,18 @@ func desenharResumo(hwnd win.HWND, hdc win.HDC, data *WindowData) {
 		rTitulo.Right = rect.Right - 16
 		rTitulo.Top = yAtual
 		rTitulo.Bottom = yAtual + int32(hTitulo)
-		
+
 		win.SetTextColor(hdc, win.RGB(0xff, 0x98, 0x00))
 		win.SetBkMode(hdc, win.TRANSPARENT)
 		win.SelectObject(hdc, win.HGDIOBJ(fTitulo))
 		drawText(hdc, data.Hanzi, -1, &rTitulo, win.DT_LEFT|win.DT_SINGLELINE|win.DT_VCENTER)
-		
+
 		yAtual += int32(hTitulo) + 8
 	}
 
 	if data.Sig != "" {
 		rTexto := win.RECT{Left: 16, Top: yAtual, Right: rect.Right - 16, Bottom: rect.Bottom - 16}
-		
+
 		win.SetTextColor(hdc, win.RGB(0xcc, 0xcc, 0xcc))
 		win.SetBkMode(hdc, win.TRANSPARENT)
 		win.SelectObject(hdc, win.HGDIOBJ(fTexto))

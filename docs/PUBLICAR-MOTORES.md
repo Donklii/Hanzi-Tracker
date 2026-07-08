@@ -93,7 +93,7 @@ estiver indisponível.
      python_backend/dist/tesseract_server.zip `
      python_backend/dist/easyocr_server.zip `
      --title "Motores v4 (RapidOCR + Tesseract + EasyOCR + overlay)" `
-     --notes "Sidecars congelados (PyInstaller; RapidOCR com DirectML embutido)."
+     --notes "Sidecars congelados (PyInstaller; RapidOCR com WebGPU embutido)."
    ```
    **Sem o `gh` (direto pela web):** em *Releases → Draft a new release*, os campos do formulário
    equivalem aos parâmetros do comando acima:
@@ -103,7 +103,7 @@ estiver indisponível.
    | **Choose a tag**                    | `motores-v4` → clique em "Create new tag: motores-v4 on publish"    |
    | **Target**                          | branch padrão (`main`) — não precisa mexer                          |
    | **Release title**                   | `Motores v4 (RapidOCR + Tesseract + EasyOCR + overlay)`              |
-   | **Describe this release**           | `Sidecars congelados (PyInstaller; RapidOCR com DirectML embutido).` |
+   | **Describe this release**           | `Sidecars congelados (PyInstaller; RapidOCR com WebGPU embutido).` |
    | **Attach binaries by dropping...**  | arraste os quatro `.zip` de `python_backend/dist/`                   |
 
    Deixe *"Set as the latest release"* marcado e *"Set as a pre-release"* desmarcado — é o
@@ -123,9 +123,10 @@ estiver indisponível.
 
 Os workflows `*-linux.yml` espelham os de Windows com três particularidades:
 
-- **Aceleração**: o RapidOCR Linux fica no onnxruntime de **CPU** (o DirectML é Windows-only), e
-  torch/torchvision/torchaudio vêm do **índice de CPU do PyTorch** — no Linux o PyPI padrão puxaria as
-  wheels CUDA (+ ~5 GB de pacotes `nvidia-*`), inúteis e grandes demais.
+- **Aceleração**: o RapidOCR usa o **onnxruntime-webgpu** nos dois SOs (WebGPU sobre Vulkan no
+  Linux; sobre D3D12 no Windows); no EasyOCR, torch/torchvision vêm do **índice de CPU do PyTorch**
+  — no Linux o PyPI padrão puxaria as wheels CUDA (+ ~5 GB de pacotes `nvidia-*`), inúteis e
+  grandes demais.
 - **Sem Tesseract**: o sidecar Windows empacota a instalação do choco (`tesseract.exe` + DLLs);
   empacotar um Tesseract relocável no Linux é outro projeto. O catálogo do app **omite o Tesseract
   fora do Windows** (`init()` em [motoresocr/manifesto.go](../wails_app/motoresocr/manifesto.go)).

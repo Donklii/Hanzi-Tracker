@@ -12,17 +12,17 @@ import (
 var cedictBytes []byte
 
 type EntradaDicionario struct {
-	Tradicional string
+	Tradicional  string
 	Simplificado string
 	Pinyin       string
 	Significados []string
 }
 
 type Cedict struct {
-	entradas      map[string][]EntradaDicionario
-	pinyinIndex   map[string][]string
-	simpParaTrad  map[rune]rune // simplificado → tradicional (caracteres que diferem)
-	tradParaSimp  map[rune]rune // tradicional → simplificado (caracteres que diferem)
+	entradas     map[string][]EntradaDicionario
+	pinyinIndex  map[string][]string
+	simpParaTrad map[rune]rune // simplificado → tradicional (caracteres que diferem)
+	tradParaSimp map[rune]rune // tradicional → simplificado (caracteres que diferem)
 }
 
 func NovoCedict() *Cedict {
@@ -94,13 +94,10 @@ func (c *Cedict) Carregar() error {
 		if tradicional != simplificado {
 			c.entradas[tradicional] = append(c.entradas[tradicional], entrada)
 		}
-        
+
 		// Limpa o pinyin para busca reversa (remove tons e espaços)
-		cleanPinyin := strings.ToLower(pinyinStr)
-		for _, num := range []string{"1", "2", "3", "4", "5", " "} {
-			cleanPinyin = strings.ReplaceAll(cleanPinyin, num, "")
-		}
-		
+		cleanPinyin := limparPinyinParaBusca(pinyinStr)
+
 		// Adiciona no índice de pinyin se ainda não estiver presente para esse hanzi
 		if cleanPinyin != "" {
 			encontrado := false
@@ -136,11 +133,7 @@ func (c *Cedict) TodasPalavras() []string {
 
 // BuscarPorPinyin retorna uma lista de Hanzis simplificados que correspondem ao pinyin dado (sem tom/espaço)
 func (c *Cedict) BuscarPorPinyin(pinyin string) []string {
-    cleanPinyin := strings.ToLower(pinyin)
-    for _, num := range []string{"1", "2", "3", "4", "5", " "} {
-        cleanPinyin = strings.ReplaceAll(cleanPinyin, num, "")
-    }
-    return c.pinyinIndex[cleanPinyin]
+	return c.pinyinIndex[limparPinyinParaBusca(pinyin)]
 }
 
 // BuscarGeral pesquisa em todo o dicionário por hanzi, pinyin ou significado (limite de 50)
@@ -149,10 +142,7 @@ func (c *Cedict) BuscarGeral(termo string) []EntradaDicionario {
 		return nil
 	}
 	termoLower := strings.ToLower(termo)
-	cleanTermo := termoLower
-	for _, num := range []string{"1", "2", "3", "4", "5", " "} {
-		cleanTermo = strings.ReplaceAll(cleanTermo, num, "")
-	}
+	cleanTermo := limparPinyinParaBusca(termo)
 
 	var priority []EntradaDicionario
 	var secondary []EntradaDicionario
@@ -204,7 +194,7 @@ varredura:
 
 	var resultados []EntradaDicionario
 	resultados = append(resultados, priority...)
-	
+
 	if len(resultados) < 3000 {
 		for _, s := range secondary {
 			resultados = append(resultados, s)
@@ -291,6 +281,16 @@ func (c *Cedict) FraseCompativelComTipo(frase string, tipoDesejado string) bool 
 	return true
 }
 
+// limparPinyinParaBusca normaliza pinyin digitado/indexado para comparação: minúsculo, sem os
+// dígitos de tom (1-5) e sem espaços. É o formato das chaves do índice reverso de pinyin.
+func limparPinyinParaBusca(p string) string {
+	p = strings.ToLower(p)
+	for _, tom := range []string{"1", "2", "3", "4", "5", " "} {
+		p = strings.ReplaceAll(p, tom, "")
+	}
+	return p
+}
+
 func RemoverTonsPinyin(p string) string {
 	replacements := map[rune]rune{
 		'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
@@ -301,7 +301,7 @@ func RemoverTonsPinyin(p string) string {
 		'ü': 'u', 'ǖ': 'u', 'ǘ': 'u', 'ǚ': 'u', 'ǜ': 'u',
 		'v': 'u',
 	}
-	
+
 	var sb strings.Builder
 	for _, r := range p {
 		if val, ok := replacements[r]; ok {
@@ -329,7 +329,7 @@ func ConverterPinyin(pinyinNum string) string {
 		if len(part) == 0 {
 			continue
 		}
-		
+
 		lastChar := part[len(part)-1]
 		if lastChar >= '1' && lastChar <= '5' {
 			toneIdx := int(lastChar - '0')
@@ -337,10 +337,10 @@ func ConverterPinyin(pinyinNum string) string {
 				toneIdx = 0
 			}
 			word := part[:len(part)-1]
-			
+
 			vowels := []rune{'a', 'e', 'o', 'i', 'u', 'v'}
 			targetVowel := rune(0)
-			
+
 			if strings.ContainsRune(word, 'a') {
 				targetVowel = 'a'
 			} else if strings.ContainsRune(word, 'e') {
@@ -363,7 +363,7 @@ func ConverterPinyin(pinyinNum string) string {
 					}
 				}
 			}
-			
+
 			if targetVowel != 0 {
 				word = strings.Replace(word, string(targetVowel), string(tones[targetVowel][toneIdx]), 1)
 			}

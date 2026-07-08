@@ -144,6 +144,12 @@ func LoadConfig() (Config, error) {
 		return cfg, fmt.Errorf("falha ao parsear config: %w", err)
 	}
 
+	// Migração: "directml" e "cuda" são valores pré-WebGPU de DispositivoOcr. A intenção era
+	// acelerar por GPU, então viram "webgpu" (o sidecar atual só conhece cpu/webgpu).
+	if cfg.DispositivoOcr == "directml" || cfg.DispositivoOcr == "cuda" {
+		cfg.DispositivoOcr = "webgpu"
+	}
+
 	return cfg, nil
 }
 

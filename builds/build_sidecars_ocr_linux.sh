@@ -4,7 +4,8 @@
 # só gera os artefatos e imprime o sha256 de cada zip.
 #
 # Diferenças em relação ao build Windows:
-#   - RapidOCR: fica no onnxruntime de CPU dos requirements (o DirectML é Windows-only; não há troca).
+#   - RapidOCR: o MESMO swap onnxruntime -> onnxruntime-webgpu do Windows (WebGPU roda sobre Vulkan
+#     no Linux; sobre D3D12 no Windows) — uma pilha de aceleração só nos dois SOs.
 #   - EasyOCR: o torch/torchvision vêm do índice de CPU do PyTorch — no Linux o PyPI padrão puxa as
 #     wheels CUDA (+ ~5 GB de pacotes nvidia-*), inúteis aqui e grandes demais para runner e usuário.
 #   - Tesseract: SEM build Linux por enquanto — o sidecar Windows empacota a instalação do choco
@@ -33,8 +34,17 @@ preparar_venv() {
     "$pasta/bin/python" -m pip install pyinstaller
 }
 
-echo "== 1/4 Venv + congelamento do ocr_server (RapidOCR, onnxruntime CPU) =="
+echo "== 1/4 Venv + congelamento do ocr_server (RapidOCR, onnxruntime WebGPU) =="
 preparar_venv "$raiz/build_env" "python_backend/motores/rapidocr/requirements.txt"
+# onnxruntime (CPU) e onnxruntime-webgpu são MUTUAMENTE EXCLUSIVOS (instalam o MESMO módulo
+# `onnxruntime`): remover antes de instalar — o mesmo swap do build Windows. --force-reinstall:
+# em venv REUTILIZADO os requirements reinstalam o onnxruntime CPU por cima dos arquivos do webgpu
+# e o uninstall os remove — sem o force, o pip diria "already satisfied" (o dist-info do webgpu
+# sobrevive) e deixaria o venv sem o módulo. --no-deps: as dependências são as mesmas do CPU.
+"$raiz/build_env/bin/python" -m pip uninstall -y onnxruntime
+"$raiz/build_env/bin/python" -m pip install --force-reinstall --no-deps "onnxruntime-webgpu>=1.27.0"
+echo "   Provedores disponíveis no ambiente de build:"
+"$raiz/build_env/bin/python" -c "import onnxruntime as ort; print('  ', ort.get_available_providers())"
 # PyInstaller grava dist/build relativos ao diretório de INVOCAÇÃO (cd $backend), não à pasta do .spec.
 (cd "$backend" && "$raiz/build_env/bin/python" -m PyInstaller --noconfirm motores/rapidocr/ocr_server.spec)
 

@@ -101,8 +101,8 @@ func main() {
 	go func() {
 		<-canalSinais
 		fmt.Println("\nSinal de encerramento recebido. Derrubando processos...")
-		// taskkill /T na árvore do Wails também derruba o motor de OCR e o popup (netos do app).
-		encerrarArvore(wailsCmd, "Wails")
+		// Derrubar a árvore do Wails também derruba o motor de OCR e o popup (netos do app).
+		encerrarArvore(wailsCmd)
 		os.Exit(0)
 	}()
 
@@ -111,6 +111,8 @@ func main() {
 	wailsCmd.Stderr = os.Stderr
 	// O app Wails (e, no modo dev/fonte, o binário que ele gera) herda a porta do OCR daqui.
 	wailsCmd.Env = envFilho
+	// Fora do Windows, põe o app num process group próprio para encerrarArvore alcançar os netos.
+	prepararComandoFilho(wailsCmd)
 
 	if err := wailsCmd.Start(); err != nil {
 		fmt.Printf("Erro ao iniciar o aplicativo Wails: %v\n", err)
@@ -126,21 +128,19 @@ func main() {
 
 	// A janela foi fechada: garante a derrubada da árvore do Wails (motor de OCR e popup são netos do
 	// app e caem junto). O próprio app já encerra o motor no shutdown; isto é a rede de segurança.
-	encerrarArvore(wailsCmd, "Wails")
+	encerrarArvore(wailsCmd)
 	fmt.Println("Encerrando Hanzi Tracker...")
 }
 
-// encerrarArvore mata um processo e toda a sua árvore de descendentes via "taskkill /T".
-// É o caminho confiável no Windows: o popup.py é neto do app Wails e o `go run` cria um binário
-// filho — ambos só são encerrados matando a árvore inteira, não apenas o processo direto.
-func encerrarArvore(cmd *exec.Cmd, nome string) {
+// encerrarArvore mata um processo e toda a sua árvore de descendentes pelo mecanismo do SO —
+// taskkill /T no Windows, kill no process group no Linux (ver processos_windows.go/processos_outros.go).
+func encerrarArvore(cmd *exec.Cmd) {
 	// Guard clause: nada para encerrar
 	if cmd == nil || cmd.Process == nil {
 		return
 	}
 
-	kill := exec.Command("taskkill", "/F", "/T", "/PID", fmt.Sprintf("%d", cmd.Process.Pid))
-	if err := kill.Run(); err != nil {
+	if err := derrubarArvoreProcessos(cmd.Process.Pid); err != nil {
 		// Fallback: mata ao menos o processo direto
 		cmd.Process.Kill()
 	}
@@ -151,19 +151,18 @@ func encerrarArvore(cmd *exec.Cmd, nome string) {
 func montarComandoWails(modoDev bool) *exec.Cmd {
 	if modoDev {
 		fmt.Println("Modo DEV: iniciando 'wails dev' (hot reload do frontend)...")
-		cmd := exec.Command("wails", "dev")
+		args := []string{"dev"}
+		if runtime.GOOS == "linux" {
+			// Ubuntu 24.04+ só distribui o WebKitGTK 4.1 (o pacote 4.0 foi descontinuado),
+			// então é preciso avisar o Wails para linkar contra ele.
+			args = append(args, "-tags", "webkit2_41")
+		}
+		cmd := exec.Command("wails", args...)
 		cmd.Dir = "wails_app"
 		return cmd
 	}
 
-	// Usa o executável já compilado, se existir
-	/* exePath := filepath.Join("wails_app", "build", "bin", "HanziTracker.exe")
-	if _, err := os.Stat(exePath); err == nil {
-		fmt.Println("Executável compilado encontrado. Iniciando...")
-		return exec.Command(exePath)
-	} */
-
-	fmt.Println("Executável não encontrado. Rodando a partir do código fonte em wails_app...")
+	fmt.Println("Rodando a partir do código fonte em wails_app...")
 
 	// Compila o frontend antes do go run, pois o app embute frontend/dist via //go:embed.
 	// Sem isso, mudanças no React não apareceriam (ou o embed falharia se dist não existir).
@@ -175,7 +174,13 @@ func montarComandoWails(modoDev bool) *exec.Cmd {
 	// As tags "desktop,production" são exigidas pelo Wails: sem elas o build é recusado
 	// ("Wails applications will not build without the correct build tags"). "production" faz o app
 	// usar os assets embutidos (frontend/dist) em vez de tentar um servidor de dev (Vite).
-	cmd := exec.Command("go", "run", "-tags", "desktop,production", ".")
+	tags := "desktop,production"
+	if runtime.GOOS == "linux" {
+		// Ubuntu 24.04+ só distribui o WebKitGTK 4.1 (o pacote 4.0 foi descontinuado),
+		// então é preciso avisar o Wails para linkar contra ele.
+		tags += ",webkit2_41"
+	}
+	cmd := exec.Command("go", "run", "-tags", tags, ".")
 	cmd.Dir = "wails_app"
 	return cmd
 }

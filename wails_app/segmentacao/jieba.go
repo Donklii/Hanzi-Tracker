@@ -5,7 +5,6 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
-	"unicode/utf8"
 
 	"github.com/wangbin/jiebago"
 )
@@ -33,10 +32,10 @@ func SegmentarTextoChines(texto string) []string {
 	palavrasBrutas := seg.Cut(texto, true)
 
 	for word := range palavrasBrutas {
-		// Filter and keep only valid Chinese characters (CJK Ideographs: \u4e00 to \u9fff)
+		// Mantém apenas os caracteres chineses de cada token (descarta pontuação/latinos misturados)
 		var palavraLimpa strings.Builder
 		for _, runeValue := range word {
-			if runeValue >= '\u4e00' && runeValue <= '\u9fff' {
+			if ehRuneChinesa(runeValue) {
 				palavraLimpa.WriteRune(runeValue)
 			}
 		}
@@ -53,45 +52,6 @@ func SegmentarTextoChines(texto string) []string {
 	}
 
 	return palavrasFiltradas
-}
-
-// PalavraPosicionada represents a segmented word with its position
-type PalavraPosicionada struct {
-	Texto  string `json:"texto"`
-	Inicio int    `json:"inicio"`
-	Fim    int    `json:"fim"`
-}
-
-// SegmentarComPosicao segmenta preservando a ordem e o intervalo
-func SegmentarComPosicao(texto string) []PalavraPosicionada {
-	var posicionadas []PalavraPosicionada
-	indice := 0
-
-	ch := seg.Cut(texto, true)
-	for token := range ch {
-		tamanho := utf8.RuneCountInString(token)
-		ehChinesa := false
-		if token != "" {
-			ehChinesa = true
-			for _, c := range token {
-				if c < '\u4e00' || c > '\u9fff' {
-					ehChinesa = false
-					break
-				}
-			}
-		}
-
-		if ehChinesa {
-			posicionadas = append(posicionadas, PalavraPosicionada{
-				Texto:  token,
-				Inicio: indice,
-				Fim:    indice + tamanho,
-			})
-		}
-		indice += tamanho
-	}
-
-	return posicionadas
 }
 
 // TokenSegmentado contains a raw token from Jieba
@@ -111,7 +71,7 @@ func SegmentarTodosTokens(texto string) []TokenSegmentado {
 		}
 		ehChinesa := true
 		for _, c := range token {
-			if c < '\u4e00' || c > '\u9fff' {
+			if !ehRuneChinesa(c) {
 				ehChinesa = false
 				break
 			}
@@ -122,4 +82,9 @@ func SegmentarTodosTokens(texto string) []TokenSegmentado {
 		})
 	}
 	return tokens
+}
+
+// ehRuneChinesa diz se a rune está no bloco principal de ideogramas CJK (U+4E00–U+9FFF).
+func ehRuneChinesa(r rune) bool {
+	return r >= '一' && r <= '鿿'
 }

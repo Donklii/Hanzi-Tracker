@@ -8,12 +8,10 @@ import (
 	"strings"
 )
 
-
 // ----- Banco de Dados Embarcado -----
 
 //go:embed makemeahanzi_dictionary.txt
 var dadosDicionario []byte
-
 
 // ----- Mapa de Abreviações Visuais -----
 
@@ -30,7 +28,7 @@ var MapaAbrevParaCompleto = map[string]string{
 	"⺮": "竹", // bambu (forma superior)
 	"⺳": "网", // rede (forma superior)
 	"⺼": "肉", // carne (parece 月)
-	
+
 	// Componentes e Radicais Avulsos (para não virarem cards separados)
 	"氵": "水",
 	"冫": "冰",
@@ -56,7 +54,6 @@ var MapaAbrevParaCompleto = map[string]string{
 	"疒": "病",
 	"罒": "网",
 }
-
 
 // ----- Estruturas -----
 
@@ -86,7 +83,6 @@ type BancoMakeMeAHanzi struct {
 	candidatosRevisao []DecomposicaoHanzi
 }
 
-
 // ----- Inicialização -----
 
 func NovoBancoMakeMeAHanzi() *BancoMakeMeAHanzi {
@@ -94,7 +90,6 @@ func NovoBancoMakeMeAHanzi() *BancoMakeMeAHanzi {
 		entradas: make(map[string]DecomposicaoHanzi),
 	}
 }
-
 
 // ----- Métodos Públicos -----
 
@@ -151,7 +146,6 @@ func (b *BancoMakeMeAHanzi) CandidatosRevisao() []DecomposicaoHanzi {
 	return b.candidatosRevisao
 }
 
-
 func (b *BancoMakeMeAHanzi) Buscar(hanzi string) *DecomposicaoHanzi {
 	if entrada, existe := b.entradas[hanzi]; existe {
 		return &entrada
@@ -159,7 +153,6 @@ func (b *BancoMakeMeAHanzi) Buscar(hanzi string) *DecomposicaoHanzi {
 
 	return nil
 }
-
 
 // CaractereCompleto retorna o caractere CJK completo se o argumento for
 // uma abreviação visual ou componente. Retorna string vazia (ou próprio caractere) caso contrário.
@@ -213,10 +206,7 @@ func (b *BancoMakeMeAHanzi) BuscarGeral(termo string) []DecomposicaoHanzi {
 	}
 
 	termoLower := strings.ToLower(termo)
-	cleanTermo := termoLower
-	for _, num := range []string{"1", "2", "3", "4", "5", " "} {
-		cleanTermo = strings.ReplaceAll(cleanTermo, num, "")
-	}
+	cleanTermo := limparPinyinParaBusca(termo)
 
 	var priority []DecomposicaoHanzi
 	var secondary []DecomposicaoHanzi

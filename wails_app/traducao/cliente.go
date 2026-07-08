@@ -35,19 +35,6 @@ type corpoRequisicao struct {
 	Format string   `json:"format"`
 }
 
-// Traduzir traduz UM texto (atalho para TraduzirLote com um item — ver contrato lá).
-func Traduzir(apiKey, texto, idiomaAlvo string) (string, error) {
-	if texto == "" {
-		return "", nil
-	}
-
-	traducoes, err := TraduzirLote(apiKey, []string{texto}, idiomaAlvo)
-	if err != nil {
-		return "", err
-	}
-	return traducoes[0], nil
-}
-
 // TraduzirLote chama a Cloud Translation API v2 (Basic) com VÁRIOS textos numa única requisição —
 // a cota é cobrada por caractere, então o lote custa o mesmo que N chamadas e evita N round-trips
 // sequenciais no caminho do "pop-up de tudo". Devolve as traduções na mesma ordem dos textos.

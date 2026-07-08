@@ -27,7 +27,7 @@ type MotorOcrBaixavel struct {
 	Descricao  string                    `json:"descricao"`  //
 	Idiomas    []string                  `json:"idiomas"`    // códigos ISO (ex.: ["zh", "en"])
 	Versao     string                    `json:"versao"`     // versão do motor (semver)
-	Variante   string                    `json:"variante"`   // aceleração: "CPU", "DirectML", "CUDA" (ou combinação)
+	Variante   string                    `json:"variante"`   // aceleração: "CPU" ou "CPU/WebGPU" (a UI deriva as opções daqui)
 	Requisitos string                    `json:"requisitos"` // "" = nenhum; ex.: "GPU Nvidia + drivers CUDA"
 	Padrao     bool                      `json:"padrao"`     // baixado automaticamente no bootstrap de first-run?
 	Executavel string                    `json:"executavel"` // executável relativo à pasta de extração, na raiz do zip (".exe" no Windows; sem sufixo no Linux)
@@ -36,8 +36,9 @@ type MotorOcrBaixavel struct {
 
 // MotoresBaixaveis é o catálogo de MOTORES de OCR publicados (a tag/sha/tamanho de cada .zip vêm de
 // artefatos_ocr.json, injetados por init — ver a seção no fim do arquivo):
-//   - RapidOCR (padrão): sidecar congelado com DirectML embutido + fallback automático para CPU
-//     (cobre Nvidia/AMD/Intel sem CUDA Toolkit). Já traz os pesos mobile embutidos — OCR sem download.
+//   - RapidOCR (padrão): sidecar congelado com WebGPU embutido + fallback automático para CPU
+//     (cobre Nvidia/AMD/Intel nos dois SOs — D3D12 no Windows, Vulkan no Linux — sem CUDA Toolkit).
+//     Já traz os pesos mobile embutidos — OCR sem download.
 //   - Tesseract: dirige o tesseract.exe empacotado; já vem com tessdata_fast (chi_sim+eng) embutido,
 //     e o tessdata_best é baixável em "Gerenciar Modelos". Só CPU.
 //   - EasyOCR: PyTorch (CPU). NÃO embute pesos — exige baixar o modelo antes do primeiro uso.
@@ -49,10 +50,10 @@ var MotoresBaixaveis = map[string]MotorOcrBaixavel{
 		Nome:   "RapidOCR",
 		Rotulo: "RapidOCR (Padrão)",
 		Descricao: "Motor padrão do Hanzi Tracker: RapidOCR sobre onnxruntime, leve e preciso. " +
-			"Aceleração DirectML embutida (Nvidia/AMD/Intel, sem CUDA Toolkit) com fallback automático para CPU.",
+			"Aceleração WebGPU embutida (Nvidia/AMD/Intel, sem CUDA Toolkit) com fallback automático para CPU.",
 		Idiomas:    []string{"zh", "en"},
 		Versao:     "1.0.0",
-		Variante:   "CPU/DirectML",
+		Variante:   "CPU/WebGPU",
 		Requisitos: "",
 		Padrao:     true,
 		Executavel: baixador.NomeExecutavelSo("ocr_server"),

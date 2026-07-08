@@ -1,5 +1,5 @@
 # Congela os sidecars de OCR (ocr_server + tesseract_server + easyocr_server) em .exe com PyInstaller.
-# Cada motor usa um venv PROPRIO: o build do RapidOCR carrega onnxruntime-directml e o do EasyOCR
+# Cada motor usa um venv PROPRIO: o build do RapidOCR carrega onnxruntime-webgpu e o do EasyOCR
 # carrega torch — pacotes que nao podem conviver no mesmo ambiente sem inchar/conflitar os pacotes
 # finais. NAO publica nada — so gera os artefatos e imprime o sha256 de cada zip.
 # Os motores de VOZ (TTS) tem script proprio: builds/build_sidecars_tts_windows.ps1.
@@ -37,10 +37,16 @@ function Preparar-Venv([string]$pasta, [string]$requirements) {
 Write-Host "== 1/7 Venv do RapidOCR (build_env, motores/rapidocr/requirements.txt) ==" -ForegroundColor Cyan
 $pyRapid = Preparar-Venv (Join-Path $raiz "build_env") ([IO.Path]::Combine("python_backend", "motores", "rapidocr", "requirements.txt"))
 
-Write-Host "== 2/7 Trocando onnxruntime -> onnxruntime-directml ==" -ForegroundColor Cyan
-# onnxruntime (CPU) e onnxruntime-directml sao MUTUAMENTE EXCLUSIVOS: remover antes de instalar.
-& $pyRapid -m pip uninstall -y onnxruntime
-& $pyRapid -m pip install "onnxruntime-directml>=1.17.0"
+Write-Host "== 2/7 Trocando onnxruntime -> onnxruntime-webgpu ==" -ForegroundColor Cyan
+# onnxruntime (CPU) e onnxruntime-webgpu sao MUTUAMENTE EXCLUSIVOS (instalam o MESMO modulo
+# `onnxruntime`): remover antes de instalar. O uninstall do onnxruntime-directml cobre venvs de
+# build antigos (a aceleracao era DirectML antes do WebGPU; ver docs/BUILD.md).
+# --force-reinstall: em venv REUTILIZADO o passo 1 reinstala o onnxruntime CPU por cima dos arquivos
+# do webgpu e o uninstall acima os remove — sem o force, o pip diria "already satisfied" (o dist-info
+# do webgpu sobrevive) e deixaria o venv sem o modulo. --no-deps: as dependencias (numpy, flatbuffers,
+# protobuf, packaging) sao as mesmas do onnxruntime CPU, ja instaladas pelos requirements.
+& $pyRapid -m pip uninstall -y onnxruntime onnxruntime-directml
+& $pyRapid -m pip install --force-reinstall --no-deps "onnxruntime-webgpu>=1.27.0"
 
 Write-Host "   Provedores disponiveis no ambiente de build:" -ForegroundColor DarkGray
 & $pyRapid -c "import onnxruntime as ort; print(ort.get_available_providers())"
