@@ -2,12 +2,12 @@
   "tag": "motores-ocr-linux-v1",
   "artefatos": {
     "ocr_server_linux.zip": {
-      "sha256": "",
-      "tamanhoBytes": 0
+      "sha256": "59bb1b409a6276d7379695bf42ce5ac8602bede9f214b8383f2c9e149ef2b828",
+      "tamanhoBytes": 225261931
     },
     "easyocr_server_linux.zip": {
-      "sha256": "",
-      "tamanhoBytes": 0
+      "sha256": "5d20b836198bfa036a0034bbccac5ef309da4105e8422743deddb049ae023cdd",
+      "tamanhoBytes": 418731657
     }
   }
 }
