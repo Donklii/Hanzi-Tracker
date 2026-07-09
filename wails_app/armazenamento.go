@@ -10,6 +10,7 @@ import (
 	"github.com/shirou/gopsutil/v3/disk"
 	"wails_app/armazenamento"
 	"wails_app/motoresocr"
+	"wails_app/motoresstt"
 	"wails_app/motorestts"
 	"wails_app/progresso"
 )
@@ -61,6 +62,19 @@ func (a *App) GetStorageInfo() StorageInfo {
 			Rotulo:    "Motores de Voz",
 			Descricao: "Programas de leitura em voz alta e seus modelos baixados. Limpar remove todos (a leitura volta a pedir download).",
 			Caminho:   motorestts.PastaMotoresTts(),
+			Bytes:     b,
+			Limpavel:  true,
+		})
+	}
+
+	// Motores de escuta (STT) baixados (sidecars + os pesos de cada um, baixados do Hugging Face
+	// para motores_stt\<Motor>\modelos\hf). Só aparece quando há algum baixado.
+	if b := armazenamento.TamanhoCaminho(motoresstt.PastaMotoresStt()); b > 0 {
+		itens = append(itens, ItemArmazenamento{
+			Chave:     "motores_stt",
+			Rotulo:    "Motores de Escuta",
+			Descricao: "Programas de reconhecimento de fala e seus modelos baixados. Limpar remove todos (a revisão de pronúncia volta a pedir download).",
+			Caminho:   motoresstt.PastaMotoresStt(),
 			Bytes:     b,
 			Limpavel:  true,
 		})
@@ -172,6 +186,8 @@ func (a *App) LimparArmazenamento(chave string) error {
 		return a.limparMotores()
 	case "motores_tts":
 		return a.limparMotoresTts()
+	case "motores_stt":
+		return a.limparMotoresStt()
 	case "modelos_easyocr":
 		return os.RemoveAll(armazenamento.PastaEasyOcr())
 	case "cache_pip":
@@ -199,6 +215,9 @@ func (a *App) ExcluirTudo() error {
 	}
 	if err := a.limparMotoresTts(); err != nil {
 		erros = append(erros, fmt.Sprintf("motores de voz: %v", err))
+	}
+	if err := a.limparMotoresStt(); err != nil {
+		erros = append(erros, fmt.Sprintf("motores de escuta: %v", err))
 	}
 	if err := os.RemoveAll(armazenamento.PastaEasyOcr()); err != nil {
 		erros = append(erros, fmt.Sprintf("modelos EasyOCR: %v", err))

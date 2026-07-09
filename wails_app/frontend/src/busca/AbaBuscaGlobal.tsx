@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { progresso, main } from '../../wailsjs/go/models';
 import { ListaCartoes } from '../comum/ListaCartoes';
+import { STATUS_VOCABULARIO } from '../comum/status';
 
 interface AbaBuscaGlobalProps {
   termoBuscaGlobal: string;
@@ -48,9 +49,19 @@ export function AbaBuscaGlobal(props: AbaBuscaGlobalProps) {
     setLimiteDisplay(50);
   }, [termoBuscaGlobal]);
 
+  // O pseudo-cartão da última captura de tela (ver App.tsx: EscanearTelaEhProcessar) não é uma
+  // palavra do dicionário, então nunca aparece em resultadosBuscaGlobal (que vem da busca no
+  // backend). Pra ele também ser pesquisável na inputbox, comparamos o termo digitado com o texto
+  // do próprio card em vez de depender do resultado do backend.
+  const cartaoCaptura = cartoes.find((c: any) => c.isScreenshotCard);
+  const SINONIMOS_CAPTURA = ['captura', 'print', 'screenshot', 'tela', 'imagem', 'ocr'];
+  const termoBuscaLimpo = termoBuscaGlobal.toLowerCase().trim();
+  const cartaoCapturaCombina = !!cartaoCaptura && termoBuscaLimpo.length >= 2 &&
+    SINONIMOS_CAPTURA.some(s => s.includes(termoBuscaLimpo));
+
   // Lógica de Agrupamento
   // Prioridade: Vocabulário > Estudando > Já Vistas > Palavras da seção > Descobrimento > Ainda não visto
-  
+
   const grupoVocabulario: main.FlashcardCard[] = [];
   const grupoEstudando: main.FlashcardCard[] = [];
   const grupoVistas: main.FlashcardCard[] = [];
@@ -79,6 +90,10 @@ export function AbaBuscaGlobal(props: AbaBuscaGlobalProps) {
       grupoNaoVisto.push(res);
     }
   });
+
+  if (cartaoCapturaCombina && cartaoCaptura) {
+    grupoDescobrimento.push(cartaoCaptura);
+  }
 
   const sortResults = (list: main.FlashcardCard[]) => {
     const termClean = termoBuscaGlobal.toLowerCase().replace(/\s/g, "");
@@ -176,17 +191,17 @@ export function AbaBuscaGlobal(props: AbaBuscaGlobalProps) {
     );
   };
 
-  if (resultadosBuscaGlobal.length === 0) {
+  if (resultadosBuscaGlobal.length === 0 && !cartaoCapturaCombina) {
     return <div style={{ color: 'var(--cor-texto-suave)' }}>Nenhum resultado encontrado.</div>;
   }
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', paddingBottom: '40px' }}>
-      {renderGroup('Estudando', grupoEstudando, 'estudo')}
-      {renderGroup('Vocabulário (Aprendidas)', grupoVocabulario, 'aprendido')}
+      {renderGroup('Estudando', grupoEstudando, STATUS_VOCABULARIO.Estudo)}
+      {renderGroup('Vocabulário (Aprendidas)', grupoVocabulario, STATUS_VOCABULARIO.Aprendido)}
       {renderGroup('Descobrimento (Em Tela)', grupoDescobrimento, '')}
       {renderGroup('Palavras dessa Seção', grupoSecao, '')}
-      {renderGroup('Já Vistas (Histórico)', grupoVistas, 'visto')}
+      {renderGroup('Já Vistas (Histórico)', grupoVistas, STATUS_VOCABULARIO.Visto)}
       {renderGroup('Ainda Não Visto', grupoNaoVisto, '')}
       <div ref={bottomRef} style={{ height: '40px' }}></div>
     </div>

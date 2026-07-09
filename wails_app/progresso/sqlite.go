@@ -331,3 +331,37 @@ func LimparImagensSessao() error {
 	_, err := db.Exec("DELETE FROM session_images")
 	return err
 }
+
+// ----- Snapshot e troca do arquivo (sincronização de nuvem) -----
+
+// ExportarSnapshot grava uma cópia consistente do banco em `destino` via VACUUM INTO — segura
+// mesmo com o app escrevendo em paralelo (o SQLite serializa) e já compactada (só páginas vivas).
+// É o que a sincronização de nuvem envia, em vez do arquivo vivo (que poderia ir pela metade).
+func ExportarSnapshot(destino string) error {
+	if db == nil {
+		return fmt.Errorf("DB não inicializado")
+	}
+	// VACUUM INTO recusa destino existente; descarta a sobra de uma execução interrompida.
+	if err := os.Remove(destino); err != nil && !os.IsNotExist(err) {
+		return err
+	}
+	_, err := db.Exec("VACUUM INTO ?", destino)
+	return err
+}
+
+// FecharDB fecha a conexão para o arquivo do banco poder ser substituído (sincronização de nuvem,
+// escolha "usar dados da nuvem"). Reabrir com InitDB.
+func FecharDB() error {
+	if db == nil {
+		return nil
+	}
+	err := db.Close()
+	db = nil
+
+	// O cache de "vistos" descreve o banco antigo — o novo arquivo pode não ter essas palavras.
+	vistosSessaoMu.Lock()
+	vistosSessao = map[string]bool{}
+	vistosSessaoMu.Unlock()
+
+	return err
+}

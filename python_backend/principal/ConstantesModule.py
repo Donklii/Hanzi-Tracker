@@ -36,6 +36,20 @@ THREADS_CPU_TTS = 4
 # 0 = nunca descarregar.
 SEGUNDOS_OCIOSO_DESCARREGAR_TTS = 300
 
+# ----- Configurações do STT -----
+# Limita as threads do onnxruntime na transcrição, pelo mesmo motivo do OCR/TTS: não saturar a CPU.
+THREADS_CPU_STT = 4
+# Descarrega o modelo de STT da memória após este tempo (em segundos) sem uso. Igual ao TTS: a
+# recarga é cara e o STT só roda por ação explícita do usuário (push-to-talk na revisão de
+# pronúncia). 0 = nunca descarregar.
+SEGUNDOS_OCIOSO_DESCARREGAR_STT = 300
+# Taxa de amostragem alvo da captura do microfone (Hz). É a taxa nativa do Paraformer; se o
+# dispositivo não a suportar, a captura cai na taxa padrão dele e o sherpa-onnx resampleia.
+TAXA_AMOSTRAGEM_STT = 16000
+# Duração máxima de uma gravação push-to-talk (em segundos): protege contra um "parar" que nunca
+# chega (ex.: frontend derrubado com o botão pressionado) — a captura para sozinha neste limite.
+SEGUNDOS_MAXIMOS_GRAVACAO_STT = 30
+
 # ----- Armazenamento (AppData) -----
 # Pasta dedicada criada sob demanda em %APPDATA%\HanziTracker para o banco de progresso
 # e o arquivo de configurações editáveis pelo usuário.

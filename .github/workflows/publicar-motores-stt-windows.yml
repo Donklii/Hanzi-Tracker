@@ -1,0 +1,116 @@
+name: Publicar Motores (Escuta/STT, Windows)
+
+# Congela o sidecar de ESCUTA/STT (builds/build_sidecars_stt_windows.ps1) num runner Windows,
+# publica o .zip numa GitHub Release e ATUALIZA O MANIFESTO automaticamente: reescreve
+# wails_app/motoresstt/artefatos_stt.json (tag + sha256 + tamanho do zip), valida com `go test` e
+# commita no main. Dispara ao empurrar uma tag "motores-stt-windows-v*" (ou manualmente, informando
+# a tag). As tags são separadas por serviço e por SO para uma release nunca invalidar as URLs das
+# outras. Ver docs/PUBLICAR-MOTORES.md. Windows-only porque o congelamento usa PyInstaller.
+
+on:
+  push:
+    tags:
+      - 'motores-stt-windows-v*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag da release (ex.: motores-stt-windows-v1)'
+        required: true
+
+permissions:
+  contents: write # criar a release, anexar os assets e commitar o manifesto atualizado no main
+  actions: write # necessário para disparar o workflow do app via gh cli
+
+jobs:
+  publicar:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Configurar Go (para validar o manifesto)
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: wails_app/go.mod
+
+      - name: Congelar sidecar de escuta (builds/build_sidecars_stt_windows.ps1)
+        shell: pwsh
+        run: powershell -ExecutionPolicy Bypass -File builds/build_sidecars_stt_windows.ps1
+
+      - name: sha256 do artefato (referência no resumo do job)
+        shell: pwsh
+        run: |
+          $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
+          "## sha256 dos motores de escuta ($tag)" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          "" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          foreach ($z in @('python_backend/dist/paraformer_server.zip')) {
+            if (-not (Test-Path $z)) { continue }
+            $h = (Get-FileHash $z -Algorithm SHA256).Hash.ToLower()
+            $s = (Get-Item $z).Length
+            $nome = [System.IO.Path]::GetFileName($z)
+            "- **$nome** — $s bytes — sha256 ``$h``" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          }
+
+      - name: Publicar Release com o zip
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.tag || github.ref_name }}
+          name: Motores de Escuta ${{ github.event.inputs.tag || github.ref_name }}
+          files: |
+            python_backend/dist/paraformer_server.zip
+          fail_on_unmatched_files: true
+
+      - name: Atualizar o manifesto (artefatos_stt.json)
+        shell: pwsh
+        run: |
+          $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
+          # A release foi buildada na tag (HEAD destacado). Volta para a ponta do branch padrão, onde o
+          # manifesto é commitado, para o app passar a apontar aos motores recém-publicados. Usa FETCH_HEAD
+          # (sempre setado pelo fetch) em vez de origin/main, que pode não ter sido atualizado pelo checkout.
+          git fetch origin main --depth=1
+          git checkout -B main FETCH_HEAD
+          # Recalcula sha256 + tamanho do zip e reescreve o JSON embutido (fonte dos campos voláteis).
+          # [ordered] mantém a ordem estável (diffs limpos); utf8NoBOM porque o json.Unmarshal do Go não
+          # tolera BOM.
+          $zips = @('paraformer_server.zip')
+          $artefatos = [ordered]@{}
+          foreach ($nome in $zips) {
+            $caminho = "python_backend/dist/$nome"
+            if (-not (Test-Path $caminho)) { throw "artefato ausente para o manifesto: $caminho" }
+            $artefatos[$nome] = [ordered]@{
+              sha256       = (Get-FileHash $caminho -Algorithm SHA256).Hash.ToLower()
+              tamanhoBytes = (Get-Item $caminho).Length
+            }
+          }
+          $manifesto = [ordered]@{ tag = $tag; artefatos = $artefatos }
+          ($manifesto | ConvertTo-Json -Depth 5) | Set-Content -Path 'wails_app/motoresstt/artefatos_stt.json' -Encoding utf8NoBOM
+
+      - name: Validar o manifesto (go test)
+        working-directory: wails_app
+        run: go test ./motoresstt/...
+
+      - name: Commitar o manifesto atualizado no main
+        shell: pwsh
+        run: |
+          $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add wails_app/motoresstt/artefatos_stt.json
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            Write-Host 'Manifesto de escuta já estava atualizado; nada a commitar.'
+          } else {
+            git commit -m "chore(motores): aponta manifesto de escuta para $tag [skip ci]"
+            git push origin main
+          }
+
+      - name: Disparar workflow do app Windows
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: pwsh
+        run: gh workflow run publicar-app-windows.yml --ref main

@@ -20,6 +20,7 @@ on:
 
 permissions:
   contents: write # criar a release, anexar os assets e commitar o manifesto atualizado no main
+  actions: write # necessário para disparar o workflow do app via gh cli
 
 jobs:
   publicar:
@@ -109,3 +110,9 @@ jobs:
             git commit -m "chore(motores): aponta manifesto de voz para $tag [skip ci]"
             git push origin main
           }
+
+      - name: Disparar workflow do app Windows
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: pwsh
+        run: gh workflow run publicar-app-windows.yml --ref main

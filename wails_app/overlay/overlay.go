@@ -113,8 +113,8 @@ type ItemPopup struct {
 	SoTraducao bool // Se true, exibe apenas a tradução (Sig), sem Hanzi/Pinyin, no tamanho da linha de origem.
 }
 
-// Show exibe o card de hover na posição (x,y).
-func Show(pinyin, hanzi, sig string, x, y int) {
+// MostrarHover exibe o card de hover na posição (x,y).
+func MostrarHover(pinyin, hanzi, sig string, x, y int) {
 	execNaThread(func() {
 		if janelaHighlight != 0 {
 			win.ShowWindow(janelaHighlight, win.SW_HIDE)
@@ -145,8 +145,8 @@ func Show(pinyin, hanzi, sig string, x, y int) {
 	})
 }
 
-// Hide oculta o card de hover.
-func Hide() {
+// OcultarHover oculta o card de hover.
+func OcultarHover() {
 	execNaThread(func() {
 		if janelaHover != 0 {
 			win.ShowWindow(janelaHover, win.SW_HIDE)
@@ -395,8 +395,8 @@ func OcultarResumo() {
 	})
 }
 
-// ShowHighlight exibe uma moldura vazada (verde) na posição selecionada.
-func ShowHighlight(x0, y0, x1, y1 int) {
+// MostrarDestaque exibe uma moldura vazada (verde) na posição selecionada.
+func MostrarDestaque(x0, y0, x1, y1 int) {
 	execNaThread(func() {
 		if janelaHover != 0 {
 			win.ShowWindow(janelaHover, win.SW_HIDE)
@@ -508,23 +508,23 @@ func atualizarMolduras(lista *[]win.HWND, boxes [][]float64, windowName string, 
 	*lista = append(novasJanelas, extras...)
 }
 
-// ShowEstudoHighlights exibe várias molduras vazadas (azuis) simultaneamente.
-func ShowEstudoHighlights(boxes [][]float64) {
+// MostrarDestaquesEstudo exibe várias molduras vazadas (azuis) simultaneamente.
+func MostrarDestaquesEstudo(boxes [][]float64) {
 	execNaThread(func() {
 		atualizarMolduras(&janelasEstudos, boxes, "HanziTrackerEstudo", 4)
 	})
 }
 
-// ShowEstudoParcialHighlights exibe várias molduras vazadas (amarelas) simultaneamente.
-func ShowEstudoParcialHighlights(boxes [][]float64) {
+// MostrarDestaquesEstudoParcial exibe várias molduras vazadas (amarelas) simultaneamente.
+func MostrarDestaquesEstudoParcial(boxes [][]float64) {
 	execNaThread(func() {
 		atualizarMolduras(&janelasEstudosParciais, boxes, "HanziTrackerEstudoParcial", 5)
 	})
 }
 
-// OcultarHighlightsTemporariamente esconde os highlights (borders), aguarda a renderização
+// OcultarDestaquesTemporariamente esconde os destaques (bordas), aguarda a renderização
 // para garantir que saiam da tela, roda a acao (print da tela) e os restaura.
-func OcultarHighlightsTemporariamente(acao func()) {
+func OcultarDestaquesTemporariamente(acao func()) {
 	if threadID == 0 {
 		acao()
 		return

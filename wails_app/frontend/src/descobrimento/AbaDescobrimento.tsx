@@ -1,9 +1,15 @@
 // ----- Seção: Descobrimento -----
+// Renderiza as três abas que exibem cartões crus (último OCR, acumulado da seção e histórico de
+// vistas). As três usam a MESMA ListaCartoes: o que muda entre elas é só a lista de origem, então
+// a aba escolhe a lista num registro em vez de repetir três blocos de JSX idênticos.
 import { progresso } from '../../wailsjs/go/models';
 import { ListaCartoes } from '../comum/ListaCartoes';
+import { DeduplicarCartoes } from '../comum/cartoes';
+import { STATUS_VOCABULARIO } from '../comum/status';
+import { ABAS, Aba } from '../casca/abas';
 
 interface AbaDescobrimentoProps {
-  abaAtiva: string;
+  abaAtiva: Aba;
   cartoes: any[];
   cartoesSecao: any[];
   vistas: any[];
@@ -11,71 +17,59 @@ interface AbaDescobrimentoProps {
   AoEntrarNoCartao: (c: any) => void;
   AoSairDoCartao: () => void;
   AoClicarNoCartao: (c: any) => void;
-  SalvarPalavra: (hanzi: string, status: string, callback?: () => void) => void;
-  DeduplicarCartoes: (lista: any[]) => any[];
+  SalvarPalavra: (cartao: any, status: string) => void;
   ocultarBadgeTipo?: boolean;
 }
+
 
 export function AbaDescobrimento(props: AbaDescobrimentoProps) {
   const {
     abaAtiva, cartoes, cartoesSecao, vistas, cartoesVocabulario,
-    AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, SalvarPalavra, DeduplicarCartoes, ocultarBadgeTipo
+    AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, SalvarPalavra, ocultarBadgeTipo
   } = props;
 
-  if (abaAtiva !== 'descobrimento' && abaAtiva !== 'tela_unica' && abaAtiva !== 'vistas') return null;
+  // Thunks (e não valores): só a lista da aba ativa é calculada — DeduplicarCartoes varre o
+  // acumulado da seção e não deve rodar quando a aba nem está na tela.
+  const listaPorAba: Partial<Record<Aba, () => any[]>> = {
+    [ABAS.Descobrimento]: () => cartoes,
+    [ABAS.TelaUnica]: () => DeduplicarCartoes(cartoesSecao),
+    [ABAS.Vistas]: () => vistas,
+  };
+
+  const obterLista = listaPorAba[abaAtiva];
+  if (!obterLista) {
+    return null;
+  }
 
   return (
-    <>
-      {abaAtiva === 'descobrimento' && (
-        <ListaCartoes 
-          cartoesVocabulario={cartoesVocabulario} 
-          AoEntrarNoCartao={AoEntrarNoCartao} 
-          AoSairDoCartao={AoSairDoCartao} 
-          AoClicarNoCartao={AoClicarNoCartao} 
-          list={cartoes} 
-          defaultStatus='visto' 
-          actionBtns={(c: any) => (
-            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px'}} onClick={() => SalvarPalavra(c.hanzi || c.Hanzi, 'estudo')}>
-              + Mover p/ Estudo
-            </button>
-          )} 
-          ocultarBadgeTipo={ocultarBadgeTipo}
-        />
-      )}
+    <ListaCartoes
+      key={abaAtiva} // remonta ao trocar de aba, como faziam os três blocos separados de antes
+      cartoesVocabulario={cartoesVocabulario}
+      AoEntrarNoCartao={AoEntrarNoCartao}
+      AoSairDoCartao={AoSairDoCartao}
+      AoClicarNoCartao={AoClicarNoCartao}
+      list={obterLista()}
+      defaultStatus={STATUS_VOCABULARIO.Visto}
+      actionBtns={(cartao: any) => <BotaoMoverParaEstudo cartao={cartao} SalvarPalavra={SalvarPalavra} />}
+      ocultarBadgeTipo={ocultarBadgeTipo}
+    />
+  );
+}
 
-      {abaAtiva === 'tela_unica' && (
-        <ListaCartoes 
-          cartoesVocabulario={cartoesVocabulario} 
-          AoEntrarNoCartao={AoEntrarNoCartao} 
-          AoSairDoCartao={AoSairDoCartao} 
-          AoClicarNoCartao={AoClicarNoCartao} 
-          list={DeduplicarCartoes(cartoesSecao)} 
-          defaultStatus='visto' 
-          actionBtns={(c: any) => (
-            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px'}} onClick={() => SalvarPalavra(c.hanzi || c.Hanzi, 'estudo')}>
-              + Mover p/ Estudo
-            </button>
-          )} 
-          ocultarBadgeTipo={ocultarBadgeTipo}
-        />
-      )}
 
-      {abaAtiva === 'vistas' && (
-        <ListaCartoes 
-          list={vistas} 
-          defaultStatus='visto' 
-          actionBtns={(c: any) => (
-            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px'}} onClick={() => SalvarPalavra(c.hanzi || c.Hanzi, 'estudo')}>
-              + Mover p/ Estudo
-            </button>
-          )} 
-          cartoesVocabulario={cartoesVocabulario}
-          AoEntrarNoCartao={AoEntrarNoCartao}
-          AoSairDoCartao={AoSairDoCartao}
-          AoClicarNoCartao={AoClicarNoCartao}
-          ocultarBadgeTipo={ocultarBadgeTipo}
-        />
-      )}
-    </>
+interface BotaoMoverParaEstudoProps {
+  cartao: any;
+  SalvarPalavra: (cartao: any, status: string) => void;
+}
+
+function BotaoMoverParaEstudo({ cartao, SalvarPalavra }: BotaoMoverParaEstudoProps) {
+  return (
+    <button
+      className="scan-btn"
+      style={{ padding: '4px 8px', fontSize: '11px' }}
+      onClick={() => SalvarPalavra(cartao, STATUS_VOCABULARIO.Estudo)}
+    >
+      + Mover p/ Estudo
+    </button>
   );
 }

@@ -8,7 +8,6 @@ import (
 	"fmt"
 	"hash/fnv"
 	"image"
-	"image/draw"
 	"image/png"
 	"io"
 	"net/http"
@@ -20,12 +19,13 @@ import (
 	"wails_app/overlay"
 	"wails_app/traducao"
 
-	"github.com/kbinani/screenshot"
 	"github.com/wailsapp/wails/v2/pkg/runtime"
 	"wails_app/config"
 	"wails_app/dicionario"
 	"wails_app/motoresocr"
+	"wails_app/motoresstt"
 	"wails_app/motorestts"
+	"wails_app/nuvem"
 	"wails_app/progresso"
 	"wails_app/segmentacao"
 )
@@ -82,6 +82,8 @@ type App struct {
 	lastImagemPng      []byte // última captura JÁ CENSURADA, guardada para o modo resumo do Gemini poder enviar a imagem
 	popupsTodosVisivel bool
 
+	historicoRevisao map[string]bool
+
 	// motorOcr é dono do ciclo de vida do processo de OCR (subir/derrubar/trocar). A posse migrou do
 	// orquestrador (main.go) para o app para permitir trocar de motor em runtime (Fase 5, Passo 1).
 	motorOcr *motoresocr.GerenciadorMotorOcr
@@ -91,6 +93,12 @@ type App struct {
 	// serializa as leituras e protege essa criação (ver tts.go).
 	motorTts *motorestts.GerenciadorMotorTts
 	ttsMutex sync.Mutex
+
+	// motorStt é dono do ciclo de vida do processo de STT (Paraformer-ZH). Criado PREGUIÇOSAMENTE
+	// quando a revisão de pronúncia precisa escutar o microfone (garantirMotorStt) — nil até lá.
+	// sttMutex serializa as escutas e protege essa criação (ver stt.go).
+	motorStt *motoresstt.GerenciadorMotorStt
+	sttMutex sync.Mutex
 
 	// Pré-carregamento do cache de TTS (ver tts_precache.go): sintetiza EM LOTE a fala de todas as
 	// palavras dos dicionários. Um lote longo por vez — preCacheTtsAtivo barra reentrância e
@@ -102,6 +110,9 @@ type App struct {
 	// mapaStatusRevisao armazena o status de cada caractere (estudo/aprendido) durante uma sessão
 	// de revisão, usado pela seleção ponderada de frases em preencherFrase.
 	mapaStatusRevisao map[string]string
+
+	// nuvem sincroniza o banco de progresso com o Google Drive do usuário (ver nuvem_bindings.go).
+	nuvem *nuvem.Gerenciador
 }
 
 // NewApp creates a new App application struct
@@ -149,6 +160,9 @@ func (a *App) startup(ctx context.Context) {
 	a.ctx = ctx
 	a.StartBackgroundLoop()
 	fmt.Println("Backend Go Inicializado.")
+
+	// Sincronização do banco com o Google Drive (se o usuário conectou; ver nuvem_bindings.go).
+	a.iniciarNuvem(ctx)
 
 	// Aplica a escolha de motores feita na tela custom do instalador (ver instalador.go), ANTES de
 	// resolver/bootstrapar o motor — é o que faz bootstrapMotorPadrao baixar o motor ESCOLHIDO em vez
@@ -198,8 +212,14 @@ func (a *App) shutdown(ctx context.Context) {
 	if a.motorTts != nil {
 		a.motorTts.Encerrar()
 	}
+	// Derruba o motor de STT, se a revisão de pronúncia o subiu nesta sessão (também preguiçoso).
+	if a.motorStt != nil {
+		a.motorStt.Encerrar()
+	}
 	overlay.Encerrar()
 	progresso.LimparImagensSessao()
+	// Depois da limpeza das imagens de sessão, para o snapshot final subir já enxuto.
+	a.encerrarNuvem()
 }
 
 // GetConfig returns the current configuration
@@ -211,6 +231,18 @@ func (a *App) GetConfig() (config.Config, error) {
 func (a *App) SaveConfig(newConfig config.Config) error {
 	a.Config = newConfig
 	return config.SaveConfig(newConfig)
+}
+
+// GetLastScreenshot retorna a última imagem escaneada codificada em base64 com prefixo data URI.
+// É chamada pelo frontend para exibir o print na seção Descobrimento.
+func (a *App) GetLastScreenshot() string {
+	a.mu.RLock()
+	defer a.mu.RUnlock()
+	if len(a.lastImagemPng) == 0 {
+		return ""
+	}
+	encoded := base64.StdEncoding.EncodeToString(a.lastImagemPng)
+	return "data:image/png;base64," + encoded
 }
 
 // GetCotaTraducao retorna o estado atual da cota de tradução para exibição no frontend.
@@ -228,12 +260,12 @@ func (a *App) GetCotaTraducao() InfoCotaTraducao {
 
 // ShowHoverPopup exibe o card único perto do mouse.
 func (a *App) ShowHoverPopup(pinyin, hanzi, sig string, x, y int) {
-	overlay.Show(pinyin, hanzi, sig, x, y)
+	overlay.MostrarHover(pinyin, hanzi, sig, x, y)
 }
 
 // HideHoverPopup oculta o card único.
 func (a *App) HideHoverPopup() {
-	overlay.Hide()
+	overlay.OcultarHover()
 }
 
 // alternarTodosPopups liga/desliga a exibição simultânea dos pop-ups de todos os cards atuais.
@@ -395,17 +427,17 @@ func (a *App) traduzirLinhasPendentes(linhas []LinhaTraduzida) {
 // ShowHighlight desenha uma borda ao redor de uma área específica
 func (a *App) ShowHighlight(x0, y0, x1, y1 int) {
 	bounds := a.limitesMonitorAlvo()
-	overlay.ShowHighlight(x0+bounds.Min.X, y0+bounds.Min.Y, x1+bounds.Min.X, y1+bounds.Min.Y)
+	overlay.MostrarDestaque(x0+bounds.Min.X, y0+bounds.Min.Y, x1+bounds.Min.X, y1+bounds.Min.Y)
 }
 
 // ShowEstudoHighlights envia molduras azuis para indicar palavras em estudo
 func (a *App) ShowEstudoHighlights(boxes [][]float64) {
-	overlay.ShowEstudoHighlights(a.ajustarCaixasAoMonitor(boxes))
+	overlay.MostrarDestaquesEstudo(a.ajustarCaixasAoMonitor(boxes))
 }
 
 // ShowEstudoParcialHighlights envia molduras amarelas para indicar caracteres individuais em estudo dentro de palavras
 func (a *App) ShowEstudoParcialHighlights(boxes [][]float64) {
-	overlay.ShowEstudoParcialHighlights(a.ajustarCaixasAoMonitor(boxes))
+	overlay.MostrarDestaquesEstudoParcial(a.ajustarCaixasAoMonitor(boxes))
 }
 
 // ajustarCaixasAoMonitor desloca caixas locais do monitor de captura para coordenadas absolutas de
@@ -436,47 +468,9 @@ func (a *App) ajustarCaixasAoMonitor(boxes [][]float64) [][]float64 {
 var codificadorPng = png.Encoder{CompressionLevel: png.BestSpeed}
 var clienteHttpOcr = &http.Client{}
 
-// censurarRetangulo pinta de preto sólido a interseção entre `r` (coordenadas ABSOLUTAS de tela) e a
-// imagem `img`, cujo pixel (0,0) corresponde a (origemX, origemY) na tela — o canto superior esquerdo
-// do monitor alvo (screenshot.GetDisplayBounds(alvo).Min). Retângulos parcial ou totalmente fora da
-// imagem são recortados/ignorados automaticamente pelo Intersect — não precisa de nenhum tratamento
-// especial para "janela em outro monitor" ou "pop-up fora da área capturada".
-func censurarRetangulo(img *image.RGBA, origemX, origemY int, r image.Rectangle) {
-	local := r.Sub(image.Pt(origemX, origemY)).Intersect(img.Bounds())
-	if local.Empty() {
-		return
-	}
-	draw.Draw(img, local, image.Black, image.Point{}, draw.Src)
-}
 
-// retanguloAppNaTela devolve o retângulo (coordenadas ABSOLUTAS de tela) da janela principal do app, ou
-// ok=false se ela estiver minimizada (nesse caso não há nada visível a censurar).
-func (a *App) retanguloAppNaTela() (image.Rectangle, bool) {
-	if runtime.WindowIsMinimised(a.ctx) {
-		return image.Rectangle{}, false
-	}
-	x, y := runtime.WindowGetPosition(a.ctx)
-	w, h := runtime.WindowGetSize(a.ctx)
-	return image.Rect(x, y, x+w, y+h), true
-}
 
-// censurarAreasSensiveis apaga (preenche de preto) a área da janela principal do app e as áreas dos
-// pop-ups do overlay (hover, destaques e "mostrar tudo") dentro de `img`, quando `CensurarJanelasDoApp`
-// estiver ligado em Config. `img` é a captura do monitor alvo; origemX/origemY é o canto superior
-// esquerdo desse monitor na tela (screenshot.GetDisplayBounds(alvo).Min).
-func (a *App) censurarAreasSensiveis(img *image.RGBA, origemX, origemY int) {
-	if !a.Config.CensurarJanelasDoApp {
-		return
-	}
 
-	if r, ok := a.retanguloAppNaTela(); ok {
-		censurarRetangulo(img, origemX, origemY, r)
-	}
-
-	for _, r := range overlay.RetangulosVisiveis() {
-		censurarRetangulo(img, origemX, origemY, image.Rect(r.X0, r.Y0, r.X1, r.Y1))
-	}
-}
 
 func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	img, bounds, err := a.capturarMonitorCensurado()
@@ -614,30 +608,15 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	a.lastLinhas = linhas
 	a.lastImagemPng = imagemPng
 	a.mu.Unlock()
+
+	if a.ctx != nil {
+		runtime.EventsEmit(a.ctx, "ocr_imagem_atualizada")
+	}
+
 	return cards, nil
 }
 
-// capturarMonitorCensurado tira o print do monitor alvo (com os highlights do overlay escondidos
-// para não serem re-lidos pelo OCR) e aplica a censura das janelas do app antes de devolver.
-func (a *App) capturarMonitorCensurado() (*image.RGBA, image.Rectangle, error) {
-	bounds := a.limitesMonitorAlvo()
 
-	var img *image.RGBA
-	var err error
-	overlay.OcultarHighlightsTemporariamente(func() {
-		img, err = screenshot.CaptureRect(bounds)
-		if err == nil {
-			// Censura a área da janela do app e dos pop-ups do overlay ANTES de codificar/enviar ao OCR —
-			// precisa vir antes do fingerprint (hash), senão o hash não refletiria a censura.
-			a.censurarAreasSensiveis(img, bounds.Min.X, bounds.Min.Y)
-		}
-	})
-
-	if err != nil {
-		return nil, bounds, fmt.Errorf("failed to capture screen: %w", err)
-	}
-	return img, bounds, nil
-}
 
 // enviarParaOcr manda o PNG da captura ao sidecar de OCR com os headers de configuração e devolve
 // as detecções decodificadas.

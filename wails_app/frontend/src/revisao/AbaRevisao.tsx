@@ -5,17 +5,21 @@
 // SQLite), mas SEM passar pelo toggle habilitarLeituraPinyin — aqui o áudio é parte da questão.
 //
 // Gamificação (estilo Duolingo): barra de progresso no topo, pontos com bônus de sequência (🔥),
-// jingles sintetizados de acerto/erro/conclusão (./sons.ts, toggle sonsRevisao), banner de
+// jingles sintetizados de acerto/erro/conclusão (../comum/sons.ts, toggle sonsRevisao), banner de
 // feedback fixo no rodapé com botão "Continuar" e atalhos de teclado (1–4 escolhem, Enter avança).
 import { useEffect, useRef, useState } from 'react';
+import './revisao.css';
 import { main, config } from '../../wailsjs/go/models';
-import { ObterQuestoesRevisao, FalarPinyin, ShowHoverPopup, HideHoverPopup } from '../../wailsjs/go/main/App';
-import { CanvasDesenho } from './CanvasDesenho';
+import { ObterQuestoesRevisao, FalarPinyin } from '../../wailsjs/go/main/App';
+import { CanvasDesenho } from '../comum/CanvasDesenho';
 import { SelecaoModoRevisao } from './SelecaoModoRevisao';
 import { OpcoesRevisao } from './OpcoesRevisao';
+import { OrdenacaoFrase } from './OrdenacaoFrase';
+import { Pronuncia } from './Pronuncia';
 import { BotaoAudio } from './BotaoAudio';
 import { PlacarRevisao } from './PlacarRevisao';
-import { definirSonsRevisaoHabilitados, tocarSomAcerto, tocarSomErro, tocarSomConclusao } from './sons';
+import { PopupRevisao } from './PopupRevisao';
+import { definirSonsRevisaoHabilitados, tocarSomAcerto, tocarSomErro, tocarSomConclusao } from '../comum/sons';
 
 const QUESTOES_POR_SESSAO = 10;
 
@@ -37,6 +41,7 @@ type FaseRevisao = 'selecao' | 'carregando' | 'sessao' | 'placar';
 export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCartao }: AbaRevisaoProps) {
   const [fase, setFase] = useState<FaseRevisao>('selecao');
   const [modo, setModo] = useState('');
+  const [popupInfo, setPopupInfo] = useState<{hanzi: string, pinyin: string, significados: string, x: number, y: number} | null>(null);
   const [questoes, setQuestoes] = useState<main.QuestaoRevisao[]>([]);
   const [indiceAtual, setIndiceAtual] = useState(0);
   const [acertos, setAcertos] = useState(0);
@@ -130,7 +135,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
     if (fase === 'sessao' && questoes[indiceAtual]) {
       const q = questoes[indiceAtual];
       let textoParaPrecarregar = '';
-      if (q.variante === 'contexto' || q.variante === 'desenho_contexto') {
+      if (q.variante === 'contexto' || q.variante === 'desenho_contexto' || q.variante === 'ordenacao' || q.variante === 'pronuncia_frase' || q.variante === 'pronuncia_sequencia') {
         textoParaPrecarregar = q.fraseOriginal;
       } else if (q.variante === 'hanzi_para_significado' || q.variante === 'significado_para_hanzi' || q.variante === 'desenho_memoria') {
         textoParaPrecarregar = q.hanzi;
@@ -200,7 +205,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
       const q = questoes[indiceAtual];
       if (q) {
-        if (q.variante === 'contexto' || q.variante === 'desenho_contexto') {
+        if (q.variante === 'contexto' || q.variante === 'desenho_contexto' || q.variante === 'ordenacao' || q.variante === 'pronuncia_frase' || q.variante === 'pronuncia_sequencia') {
           autoAudioTimeoutRef.current = window.setTimeout(() => tocarAudio(q.fraseOriginal), 400);
         } else if (q.variante === 'hanzi_para_significado' || q.variante === 'significado_para_hanzi' || q.variante === 'desenho_memoria') {
           autoAudioTimeoutRef.current = window.setTimeout(() => tocarAudio(q.hanzi), 400);
@@ -271,7 +276,9 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
   // ----- Renderização -----
 
   if (fase === 'selecao') {
-    return <SelecaoModoRevisao aoEscolherModo={iniciarSessao} />;
+    const ttsAtivo = !!configuracoesApp?.motorTtsAtivo && configuracoesApp.motorTtsAtivo !== 'nenhum';
+    const sttAtivo = !!configuracoesApp?.motorSttAtivo && configuracoesApp.motorSttAtivo !== 'nenhum';
+    return <SelecaoModoRevisao aoEscolherModo={iniciarSessao} ttsAtivo={ttsAtivo} sttAtivo={sttAtivo} />;
   }
 
   if (fase === 'carregando') {
@@ -337,6 +344,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
           </button>
         </div>
       )}
+      <PopupRevisao info={popupInfo} />
     </div>
   );
 
@@ -366,8 +374,12 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
       case 'desenho_contexto':
       case 'contexto':
+      case 'ordenacao':
+      case 'pronuncia_frase':
+      case 'pronuncia_sequencia':
         return (
           <div className="revisao-frase" style={{ textAlign: 'center', margin: '20px 0' }}>
+            {questaoAtual.variante !== 'ordenacao' && questaoAtual.variante !== 'pronuncia_sequencia' && (
             <div style={{ display: 'flex', gap: '8px', alignItems: 'center', justifyContent: 'center' }}>
               <BotaoAudio
                 rotulo=""
@@ -390,19 +402,21 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
                           onMouseEnter={(e) => {
                             e.currentTarget.style.color = 'var(--cor-destaque)';
                             const rect = e.currentTarget.getBoundingClientRect();
-                            const screenOffsetX = e.screenX - e.clientX;
-                            const screenOffsetY = e.screenY - e.clientY;
-                            const targetScreenX = Math.round(rect.left + rect.width / 2 + screenOffsetX);
-                            const targetScreenY = Math.round(rect.top + screenOffsetY);
-                            ShowHoverPopup(t.pinyin, t.texto, t.significados ? t.significados.join(', ') : '', targetScreenX, targetScreenY);
+                            setPopupInfo({
+                              pinyin: t.pinyin,
+                              hanzi: t.texto,
+                              significados: t.significados ? t.significados.join(', ') : '',
+                              x: rect.left + rect.width / 2,
+                              y: rect.top
+                            });
                           }}
                           onMouseLeave={(e) => {
                             e.currentTarget.style.color = '';
-                            HideHoverPopup();
+                            setPopupInfo(null);
                           }}
                           onClick={() => {
                             if (AoClicarNoCartao) {
-                              AoClicarNoCartao({ Hanzi: t.texto, Pinyin: t.pinyin, Significados: t.significados });
+                              AoClicarNoCartao({ Hanzi: t.texto, Pinyin: t.pinyin, significados: t.significados });
                             }
                           }}
                         >
@@ -415,10 +429,12 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
                 })()}
               </div>
             </div>
+            )}
             <div style={{ display: 'flex', gap: '8px', alignItems: 'center', justifyContent: 'center', marginTop: '6px', color: 'var(--cor-texto-suave)', fontSize: '13px' }}>
-              <span style={{ opacity: mostrarTraducaoFrase ? 1 : 0.3, transition: 'opacity 0.2s' }}>
-                {mostrarTraducaoFrase ? questaoAtual.fraseTraducao : "Tradução oculta"}
+              <span style={{ opacity: mostrarTraducaoFrase || questaoAtual.variante === 'ordenacao' || questaoAtual.variante === 'pronuncia_frase' || questaoAtual.variante === 'pronuncia_sequencia' ? 1 : 0.3, transition: 'opacity 0.2s' }}>
+                {mostrarTraducaoFrase || questaoAtual.variante === 'ordenacao' || questaoAtual.variante === 'pronuncia_frase' || questaoAtual.variante === 'pronuncia_sequencia' ? questaoAtual.fraseTraducao : "Tradução oculta"}
               </span>
+              {questaoAtual.variante !== 'ordenacao' && questaoAtual.variante !== 'pronuncia_frase' && questaoAtual.variante !== 'pronuncia_sequencia' && (
               <button
                 className="revisao-ocultar-traducao-btn"
                 onClick={() => {
@@ -449,6 +465,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
                   </svg>
                 )}
               </button>
+              )}
             </div>
             {questaoAtual.variante === 'desenho_contexto' && (
               <div style={{ display: 'flex', gap: '12px', alignItems: 'center', justifyContent: 'center', marginTop: '12px' }}>
@@ -489,6 +506,34 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
       questaoAtual.variante === 'audio_para_hanzi' ||
       questaoAtual.variante === 'hanzi_para_audio' ||
       (questaoAtual.variante === 'contexto' && !respondendoComDesenho);
+
+    if (questaoAtual.variante === 'pronuncia_frase' || questaoAtual.variante === 'pronuncia_sequencia') {
+      return (
+        <Pronuncia
+          questao={questaoAtual}
+          respondida={respondida}
+          aoConcluir={(acertou) => registrarResposta(acertou)}
+          aoTocarAudio={tocarAudio}
+          hanziTocando={hanziTocando}
+          hanziSintetizando={hanziSintetizando}
+          AoClicarNoCartao={AoClicarNoCartao}
+        />
+      );
+    }
+
+    if (questaoAtual.variante === 'ordenacao') {
+      return (
+        <OrdenacaoFrase
+          questao={questaoAtual}
+          respondida={respondida}
+          aoConcluir={(acertou) => registrarResposta(acertou)}
+          aoTocarAudio={tocarAudio}
+          hanziTocando={hanziTocando}
+          hanziSintetizando={hanziSintetizando}
+          AoClicarNoCartao={AoClicarNoCartao}
+        />
+      );
+    }
 
     if (varianteComOpcoes) {
       const tipoConteudo =

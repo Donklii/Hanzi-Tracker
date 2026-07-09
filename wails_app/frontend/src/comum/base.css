@@ -1,0 +1,164 @@
+/* ----- Base compartilhada: variáveis, reset, scrollbar, modais e botões usados por 2+ seções ----- */
+/* Importado PRIMEIRO (em App.tsx) para que as seções possam sobrescrever o que precisarem. */
+
+:root {
+  /* Cores - Tema Premium Dark (Estilo Donklii) */
+  --cor-fundo-janela: #0a0a0a;
+  --cor-fundo-painel: #171717;
+  --cor-fundo-cartao: #262626;
+  --cor-fundo-entrada: #121212;
+  --cor-borda: #404040;
+  
+  --cor-destaque: #6366f1;
+  --cor-destaque-hover: #818cf8;
+  --cor-pinyin: #a5b4fc;
+  
+  --cor-texto-primario: #fafafa;
+  --cor-texto-secundario: #a3a3a3;
+  --cor-texto-suave: #737373;
+  
+  --cor-sucesso: #10b981;
+  --cor-sucesso-hover: #34d399;
+  --cor-alerta: #f59e0b;
+  --cor-alerta-hover: #fbbf24;
+  --cor-perigo: #ef4444;
+  --cor-perigo-hover: #f87171;
+  --cor-neutro: #262626;
+  --cor-neutro-hover: #404040;
+
+  /* Fontes e Geometria */
+  --fonte-texto: 'Inter', 'Segoe UI', sans-serif;
+  --fonte-hanzi: 'Microsoft YaHei', sans-serif;
+  --raio-painel: 16px;
+  --raio-cartao: 12px;
+  --raio-botao: 8px;
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--cor-fundo-janela);
+  color: var(--cor-texto-primario);
+  font-family: var(--fonte-texto);
+  overflow: hidden; /* App like feel */
+}
+
+#App {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.scan-btn {
+  background: linear-gradient(135deg, var(--cor-destaque), #4f46e5);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: var(--raio-botao);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+  transition: all 0.2s;
+}
+
+.scan-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(99, 102, 241, 0.4);
+}
+
+.scan-btn:active {
+  transform: translateY(0);
+}
+
+/* Modal de Configurações */
+.modal-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  animation: fadeIn 0.2s ease-out;
+}
+
+.modal-content {
+  background-color: var(--cor-fundo-painel);
+  border: 1px solid var(--cor-borda);
+  border-radius: var(--raio-painel);
+  width: 900px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+  animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  overflow: hidden;
+}
+
+.modal-header {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid var(--cor-borda);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.modal-header h2 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--cor-texto-primario);
+}
+
+.modal-close {
+  background: none;
+  border: none;
+  color: var(--cor-texto-secundario);
+  font-size: 24px;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.modal-close:hover {
+  color: var(--cor-texto-primario);
+}
+
+.settings-section-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 24px;
+  color: var(--cor-destaque);
+  border-bottom: 1px solid var(--cor-borda);
+  padding-bottom: 8px;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--cor-fundo-janela); 
+}
+::-webkit-scrollbar-thumb {
+  background: var(--cor-borda); 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--cor-texto-suave); 
+}

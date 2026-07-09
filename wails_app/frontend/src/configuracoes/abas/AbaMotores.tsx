@@ -1,6 +1,7 @@
-// ----- Seção: Configurações — aba Motores (OCR, hardware, modelos e voz/TTS) -----
+// ----- Seção: Configurações — aba Motores (OCR, hardware, modelos, voz/TTS e escuta/STT) -----
 import { config, main } from '../../../wailsjs/go/models';
-import { FormatarTamanho, ProgressoPreCacheTts } from '../comum';
+import { FormatarTamanho } from '../../comum/formatacao';
+import { ProgressoPreCacheTts } from '../../comum/tipos';
 
 interface AbaMotoresProps {
   termoBusca: string;
@@ -31,6 +32,11 @@ interface AbaMotoresProps {
   progressoPreCacheTts: ProgressoPreCacheTts | null;
   PreCarregarAudioTts: () => void;
   PararPreCarregarAudioTts: () => void;
+  motoresStt: main.MotorSttInfo[];
+  progressoMotorStt: Record<string, string>;
+  baixandoMotorStt: string | null;
+  BaixarMotorEscuta: (nome: string) => void;
+  RemoverMotorEscuta: (nome: string) => void;
 }
 
 export function AbaMotores(props: AbaMotoresProps) {
@@ -41,6 +47,7 @@ export function AbaMotores(props: AbaMotoresProps) {
     modelos, progressoModelo, baixandoModelo, BaixarModeloOcr, RemoverModeloOcr, trocarModelo,
     motoresTts, progressoMotorTts, baixandoMotorTts, BaixarMotorVoz, RemoverMotorVoz,
     progressoPreCacheTts, PreCarregarAudioTts, PararPreCarregarAudioTts,
+    motoresStt, progressoMotorStt, baixandoMotorStt, BaixarMotorEscuta, RemoverMotorEscuta,
   } = props;
 
   // Motor de OCR ativo: os modelos vêm do /api/modelos do PROCESSO desse motor, então o catálogo
@@ -61,7 +68,7 @@ export function AbaMotores(props: AbaMotoresProps) {
 
   return (
     <>
-      {termoBusca && <h3 className="settings-section-title" style={{ marginTop: '32px' }}>Motores (OCR & TTS)</h3>}
+      {termoBusca && <h3 className="settings-section-title" style={{ marginTop: '32px' }}>Motores (OCR, TTS & STT)</h3>}
 
       <h4 style={{ marginBottom: '16px', color: 'var(--cor-destaque)' }}>Reconhecimento de Texto (OCR)</h4>
 
@@ -485,6 +492,95 @@ export function AbaMotores(props: AbaMotoresProps) {
           </div>
         );
       })()}
+
+      <h4 style={{ marginTop: '32px', marginBottom: '16px', color: 'var(--cor-destaque)' }}>Reconhecimento de Voz (STT)</h4>
+
+      {(!termoBusca || "motor de stt escuta reconhecimento de voz fala pronúncia microfone baixar download".includes(termoBusca.toLowerCase())) && (
+        <>
+          <div className="form-group">
+            <label>Motor de Escuta</label>
+            <select
+              className="form-input"
+              value={configuracoesApp.motorSttAtivo}
+              onChange={e => AtualizarConfiguracao('motorSttAtivo', e.target.value)}
+            >
+              {motoresStt.map(m => (
+                <option key={m.nome} value={m.nome}>{m.nome}</option>
+              ))}
+            </select>
+            <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
+              Usado na revisão de pronúncia (falar no microfone). O motor selecionado precisa estar
+              instalado (abaixo); o modelo de reconhecimento é baixado automaticamente na primeira escuta.
+            </small>
+          </div>
+
+          <div className="form-group">
+            <label>Gerenciar Motores de Escuta</label>
+            <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginBottom: '8px' }}>
+              O motor é o programa que grava o microfone e transcreve a fala. Baixe o que quiser usar ou
+              remova para liberar espaço. Os pesos do modelo são baixados pelo próprio motor na primeira escuta.
+            </small>
+
+            {motoresStt.length === 0 && (
+              <div style={{ color: 'var(--cor-texto-suave)', fontSize: '12px' }}>Carregando motores…</div>
+            )}
+
+            {motoresStt.map(m => {
+              const emDownload = baixandoMotorStt === m.nome;
+              const msg = progressoMotorStt[m.nome];
+              return (
+                <div key={m.nome} style={{
+                  border: m.ativo ? '1px solid #64b5f6' : '1px solid var(--cor-borda)',
+                  borderRadius: '8px',
+                  padding: '12px',
+                  marginBottom: '8px',
+                  backgroundColor: 'var(--cor-fundo-cartao)'
+                }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '12px' }}>
+                    <div style={{ flex: 1 }}>
+                      <div style={{ fontWeight: 'bold', fontSize: '13px' }}>
+                        {m.rotulo}
+                        {m.ativo && <span style={{ marginLeft: '8px', fontSize: '10px', color: '#81c784' }}>● ATIVO</span>}
+                        {m.instalado && !m.ativo && <span style={{ marginLeft: '8px', fontSize: '10px', color: '#64b5f6' }}>INSTALADO{m.tamanhoBytes ? ` · ${FormatarTamanho(m.tamanhoBytes)}` : ''}</span>}
+                        {!m.instalado && m.tamanhoBytes ? <span style={{ marginLeft: '8px', fontSize: '10px', color: 'var(--cor-texto-suave)' }}>{FormatarTamanho(m.tamanhoBytes)}</span> : null}
+                      </div>
+                      <div style={{ fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '2px' }}>{m.descricao}</div>
+                      {m.requisitos && (
+                        <div style={{ fontSize: '10px', color: 'var(--cor-texto-suave)', marginTop: '2px' }}>Requer: {m.requisitos}</div>
+                      )}
+                    </div>
+                    <div style={{ display: 'flex', gap: '6px' }}>
+                      {!m.instalado && (
+                        <button
+                          className="scan-btn"
+                          style={{ padding: '4px 10px', fontSize: '11px', opacity: (emDownload || !m.publicado) ? 0.6 : 1 }}
+                          disabled={emDownload || baixandoMotorStt !== null || !m.publicado}
+                          title={!m.publicado ? 'Este motor ainda não foi publicado — aguarde a próxima atualização.' : undefined}
+                          onClick={() => BaixarMotorEscuta(m.nome)}
+                        >
+                          {emDownload ? 'Baixando…' : (m.publicado ? '⬇️ Baixar' : 'Indisponível')}
+                        </button>
+                      )}
+                      {m.instalado && (
+                        <button
+                          className="scan-btn"
+                          style={{ padding: '4px 10px', fontSize: '11px', backgroundColor: '#f44336' }}
+                          onClick={() => RemoverMotorEscuta(m.nome)}
+                        >
+                          🗑️ Remover
+                        </button>
+                      )}
+                    </div>
+                  </div>
+                  {msg && (
+                    <div style={{ fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '8px' }}>{msg}</div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        </>
+      )}
     </>
   );
 }

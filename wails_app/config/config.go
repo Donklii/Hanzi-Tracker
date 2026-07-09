@@ -51,11 +51,14 @@ type Config struct {
 	LerPinyinAoExpandirCard     bool    `json:"lerPinyinAoExpandirCard"`
 	LerPinyinAoCompletarDesenho bool    `json:"lerPinyinAoCompletarDesenho"`
 	MotorTtsAtivo               string  `json:"motorTtsAtivo"`
+	MotorSttAtivo               string  `json:"motorSttAtivo"` // motor de reconhecimento de fala da revisão de pronúncia; ver stt.go
 	PriorizarEstudoRevisao      bool    `json:"priorizarEstudoRevisao"` // revisão sorteia primeiro os hanzis em estudo
 	SonsRevisao                 bool    `json:"sonsRevisao"`            // jingles de acerto/erro/conclusão na revisão
 	TipoHanziGerado             string  `json:"tipoHanziGerado"`        // "ambos", "tradicional", "simplificado"
 	TipoHanziExibicao           string  `json:"tipoHanziExibicao"`      // "ambos", "tradicional", "simplificado"
 	RestringirHanziDesenho      bool    `json:"restringirHanziDesenho"` // aplica a regra de exibição na busca por desenho
+	DriveClientId               string  `json:"driveClientId"`          // credenciais OAuth da sincronização com o Google Drive,
+	DriveClientSecret           string  `json:"driveClientSecret"`      // coladas pelo usuário na aba Armazenamento (ver wails_app/nuvem)
 }
 
 func DefaultConfig() Config {
@@ -103,11 +106,14 @@ func DefaultConfig() Config {
 		LerPinyinAoExpandirCard:     false,
 		LerPinyinAoCompletarDesenho: true,
 		MotorTtsAtivo:               "Kokoro-82M",
+		MotorSttAtivo:               "Paraformer-ZH",
 		PriorizarEstudoRevisao:      true,
 		SonsRevisao:                 true,
 		TipoHanziGerado:             "ambos",
 		TipoHanziExibicao:           "simplificado",
 		RestringirHanziDesenho:      true,
+		DriveClientId:               "",
+		DriveClientSecret:           "",
 	}
 }
 

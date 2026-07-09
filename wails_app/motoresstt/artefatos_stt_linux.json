@@ -1,0 +1,9 @@
+{
+  "tag": "motores-stt-linux-v1",
+  "artefatos": {
+    "paraformer_server_linux.zip": {
+      "sha256": "",
+      "tamanhoBytes": 0
+    }
+  }
+}

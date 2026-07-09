@@ -22,6 +22,10 @@ export function BaixarMotor(arg1) {
   return window['go']['main']['App']['BaixarMotor'](arg1);
 }
 
+export function BaixarMotorStt(arg1) {
+  return window['go']['main']['App']['BaixarMotorStt'](arg1);
+}
+
 export function BaixarMotorTts(arg1) {
   return window['go']['main']['App']['BaixarMotorTts'](arg1);
 }
@@ -38,6 +42,10 @@ export function BuscarPorPinyin(arg1) {
   return window['go']['main']['App']['BuscarPorPinyin'](arg1);
 }
 
+export function CancelarEscutaStt() {
+  return window['go']['main']['App']['CancelarEscutaStt']();
+}
+
 export function CaptureAndOCR() {
   return window['go']['main']['App']['CaptureAndOCR']();
 }
@@ -46,8 +54,20 @@ export function CaractereCompleto(arg1) {
   return window['go']['main']['App']['CaractereCompleto'](arg1);
 }
 
+export function ConectarNuvem() {
+  return window['go']['main']['App']['ConectarNuvem']();
+}
+
 export function DecomposeCharacter(arg1) {
   return window['go']['main']['App']['DecomposeCharacter'](arg1);
+}
+
+export function DesconectarNuvem() {
+  return window['go']['main']['App']['DesconectarNuvem']();
+}
+
+export function DespertarMotorStt() {
+  return window['go']['main']['App']['DespertarMotorStt']();
 }
 
 export function DespertarMotorTts() {
@@ -78,8 +98,16 @@ export function GetCotaTraducao() {
   return window['go']['main']['App']['GetCotaTraducao']();
 }
 
+export function GetInfoNuvem() {
+  return window['go']['main']['App']['GetInfoNuvem']();
+}
+
 export function GetLastCards() {
   return window['go']['main']['App']['GetLastCards']();
+}
+
+export function GetLastScreenshot() {
+  return window['go']['main']['App']['GetLastScreenshot']();
 }
 
 export function GetMonitores() {
@@ -106,6 +134,10 @@ export function HideHoverPopup() {
   return window['go']['main']['App']['HideHoverPopup']();
 }
 
+export function IniciarEscutaStt() {
+  return window['go']['main']['App']['IniciarEscutaStt']();
+}
+
 export function LimparArmazenamento(arg1) {
   return window['go']['main']['App']['LimparArmazenamento'](arg1);
 }
@@ -116,6 +148,10 @@ export function ListarModelos() {
 
 export function ListarMotores() {
   return window['go']['main']['App']['ListarMotores']();
+}
+
+export function ListarMotoresStt() {
+  return window['go']['main']['App']['ListarMotoresStt']();
 }
 
 export function ListarMotoresTts() {
@@ -142,6 +178,10 @@ export function ObterTotalHanzisDicionario() {
   return window['go']['main']['App']['ObterTotalHanzisDicionario']();
 }
 
+export function PararEscutaStt() {
+  return window['go']['main']['App']['PararEscutaStt']();
+}
+
 export function PararPreCacheTts() {
   return window['go']['main']['App']['PararPreCacheTts']();
 }
@@ -162,8 +202,16 @@ export function RemoverMotor(arg1) {
   return window['go']['main']['App']['RemoverMotor'](arg1);
 }
 
+export function RemoverMotorStt(arg1) {
+  return window['go']['main']['App']['RemoverMotorStt'](arg1);
+}
+
 export function RemoverMotorTts(arg1) {
   return window['go']['main']['App']['RemoverMotorTts'](arg1);
+}
+
+export function ResolverConflitoNuvem(arg1) {
+  return window['go']['main']['App']['ResolverConflitoNuvem'](arg1);
 }
 
 export function SaveConfig(arg1) {
@@ -184,6 +232,10 @@ export function ShowHighlight(arg1, arg2, arg3, arg4) {
 
 export function ShowHoverPopup(arg1, arg2, arg3, arg4, arg5) {
   return window['go']['main']['App']['ShowHoverPopup'](arg1, arg2, arg3, arg4, arg5);
+}
+
+export function SincronizarNuvem() {
+  return window['go']['main']['App']['SincronizarNuvem']();
 }
 
 export function StartBackgroundLoop() {

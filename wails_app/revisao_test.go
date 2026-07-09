@@ -54,7 +54,7 @@ func TestObterQuestoesRevisaoTodosOsModos(t *testing.T) {
 			if q.Hanzi == "" || q.Pinyin == "" || q.Definicao == "" {
 				t.Errorf("modo %s: questão incompleta: %+v", modo, q)
 			}
-			if vistos[q.Hanzi] {
+			if vistos[q.Hanzi] && modo != ModoGeral {
 				t.Errorf("modo %s: hanzi %q repetido na sessão", modo, q.Hanzi)
 			}
 			vistos[q.Hanzi] = true

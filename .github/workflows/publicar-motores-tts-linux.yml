@@ -20,6 +20,7 @@ on:
 
 permissions:
   contents: write # criar a release, anexar os assets e commitar o manifesto atualizado no main
+  actions: write # necessário para disparar o workflow do app via gh cli
 
 jobs:
   publicar:
@@ -107,3 +108,8 @@ jobs:
             git commit -m "chore(motores): aponta manifesto de voz Linux para $tag [skip ci]"
             git push origin main
           fi
+
+      - name: Disparar workflow do app Linux
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publicar-app-linux.yml --ref main

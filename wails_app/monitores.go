@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"image"
 	"os/exec"
+	"runtime"
 	"strings"
 
 	"github.com/kbinani/screenshot"
@@ -29,20 +30,82 @@ type Resolucao struct {
 	Altura  int `json:"altura"`
 }
 
+// getDisplayBoundsX11 é um wrapper sobre screenshot.GetDisplayBounds que resolve o problema do X11 no Linux.
+// A lib de captura retorna offsets pseudo-XRandR (onde o monitor à esquerda do principal tem coords negativas).
+// Contudo, X11 (captura de tela, XQueryPointer, XCreateWindow) opera no espaço da Root Window,
+// cuja origem (0,0) é estritamente o topo-esquerdo do conjunto inteiro de monitores.
+// Essa função translaciona todos os bounds para o espaço positivo da Root Window.
+func getDisplayBoundsX11(index int) image.Rectangle {
+	bounds := screenshot.GetDisplayBounds(index)
+	return traduzirParaAbsolutoX11(bounds)
+}
+
+// traduzirParaAbsolutoX11 converte um retângulo do sistema de coordenadas pseudo-XRandR
+// (retornado pela captura ou por bibliotecas gráficas como GTK) para coordenadas absolutas
+// da Root Window do X11. Retorna o próprio retângulo se não estiver no Linux.
+func traduzirParaAbsolutoX11(r image.Rectangle) image.Rectangle {
+	if runtime.GOOS != "linux" {
+		return r
+	}
+
+	n := screenshot.NumActiveDisplays()
+	minX, minY := 0, 0
+	for i := 0; i < n; i++ {
+		b := screenshot.GetDisplayBounds(i)
+		if b.Min.X < minX {
+			minX = b.Min.X
+		}
+		if b.Min.Y < minY {
+			minY = b.Min.Y
+		}
+	}
+	return image.Rect(
+		r.Min.X-minX, r.Min.Y-minY,
+		r.Max.X-minX, r.Max.Y-minY,
+	)
+}
+
+// getMonitorNamesLinux tenta descobrir os nomes reais dos monitores via xrandr.
+func getMonitorNamesLinux() []string {
+	if runtime.GOOS != "linux" {
+		return nil
+	}
+	out, err := exec.Command("xrandr", "--listmonitors").Output()
+	if err != nil {
+		return nil
+	}
+	
+	var names []string
+	lines := strings.Split(string(out), "\n")
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+		// Ignora a primeira linha "Monitors: N" e pega apenas as de monitores
+		if len(line) > 0 && strings.Contains(line, ":") {
+			parts := strings.Fields(line)
+			if len(parts) > 0 {
+				// O último token da linha do xrandr costuma ser o nome limpo (ex: "DP-1")
+				names = append(names, parts[len(parts)-1])
+			}
+		}
+	}
+	return names
+}
+
 // GetMonitores retorna a lista de todos os monitores conectados
 func (a *App) GetMonitores() []Monitor {
 	wmiNames := getMonitorNamesWMI()
+	linuxNames := getMonitorNamesLinux()
+	
 	n := screenshot.NumActiveDisplays()
 	var monitores []Monitor
 	for i := 0; i < n; i++ {
-		bounds := screenshot.GetDisplayBounds(i)
+		bounds := getDisplayBoundsX11(i)
 		nome := fmt.Sprintf("Monitor %d", i+1)
-		if i == 0 && len(wmiNames) == 0 {
-			nome = "Monitor Principal"
-		}
-
-		if i < len(wmiNames) {
+		
+		if runtime.GOOS == "windows" && i < len(wmiNames) {
 			nome = wmiNames[i]
+		} else if runtime.GOOS == "linux" && i < len(linuxNames) {
+			nome = linuxNames[i]
 		}
 
 		monitores = append(monitores, Monitor{
@@ -64,14 +127,14 @@ func (a *App) GetCaptureResolution() Resolucao {
 	return Resolucao{Largura: bounds.Dx(), Altura: bounds.Dy()}
 }
 
-// limitesMonitorAlvo devolve o retângulo (coordenadas absolutas de tela) do monitor de captura
+// limitesMonitorAlvo devolve o retângulo (coordenadas absolutas da Root Window) do monitor de captura
 // configurado, caindo no monitor 0 quando o alvo salvo não existe mais (ex.: monitor desconectado).
 func (a *App) limitesMonitorAlvo() image.Rectangle {
 	alvo := a.Config.MonitorAlvo
 	if alvo < 0 || alvo >= screenshot.NumActiveDisplays() {
 		alvo = 0
 	}
-	return screenshot.GetDisplayBounds(alvo)
+	return getDisplayBoundsX11(alvo)
 }
 
 // getMonitorNamesWMI usa PowerShell para extrair o nome real dos monitores no Windows

@@ -4,6 +4,8 @@
 
 interface SelecaoModoRevisaoProps {
   aoEscolherModo: (modo: string) => void;
+  ttsAtivo: boolean;
+  sttAtivo: boolean;
 }
 
 export const MODOS_REVISAO = [
@@ -12,6 +14,8 @@ export const MODOS_REVISAO = [
   { chave: 'fonetica', titulo: 'Fonética', descricao: 'Ligue o som do Hanzi ao caractere (e vice-versa).' },
   { chave: 'desenho', titulo: 'Desenho', descricao: 'Desenhe o Hanzi no canvas, guiado por contexto ou de memória.' },
   { chave: 'contexto', titulo: 'Contexto', descricao: 'Complete a lacuna da frase com o Hanzi correto.' },
+  { chave: 'ordenacao', titulo: 'Ordenação', descricao: 'Coloque os caracteres na ordem correta para formar a frase.' },
+  { chave: 'pronuncia', titulo: 'Pronúncia', descricao: 'Pratique a pronúncia falando frases ou sequências de caracteres.' },
 ];
 
 const ICONES_MODO: Record<string, JSX.Element> = {
@@ -30,18 +34,35 @@ const ICONES_MODO: Record<string, JSX.Element> = {
   contexto: (
     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="17" y1="10" x2="3" y2="10"></line><line x1="21" y1="6" x2="3" y2="6"></line><line x1="21" y1="14" x2="3" y2="14"></line><line x1="17" y1="18" x2="3" y2="18"></line></svg>
   ),
+  ordenacao: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 9h16"/><path d="M4 15h16"/><path d="M10 3L6 7l4 4"/><path d="M14 21l4-4-4-4"/></svg>
+  ),
+  pronuncia: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"></path><path d="M19 10v2a7 7 0 0 1-14 0v-2"></path><line x1="12" y1="19" x2="12" y2="22"></line></svg>
+  ),
 };
 
-export function SelecaoModoRevisao({ aoEscolherModo }: SelecaoModoRevisaoProps) {
+export function SelecaoModoRevisao({ aoEscolherModo, ttsAtivo, sttAtivo }: SelecaoModoRevisaoProps) {
   return (
     <div className="revisao-selecao-modos">
-      {MODOS_REVISAO.map(m => (
-        <button key={m.chave} className={`revisao-card-modo${m.chave === 'geral' ? ' revisao-card-modo-destaque' : ''}`} onClick={() => aoEscolherModo(m.chave)}>
-          <div className="revisao-card-modo-icone">{ICONES_MODO[m.chave]}</div>
-          <div className="revisao-card-modo-titulo">{m.titulo}</div>
-          <div className="revisao-card-modo-descricao">{m.descricao}</div>
-        </button>
-      ))}
+      {MODOS_REVISAO.map(m => {
+        const desativado = (m.chave === 'fonetica' && !ttsAtivo) || (m.chave === 'pronuncia' && !sttAtivo);
+        const titleAttr = desativado ? (m.chave === 'fonetica' ? 'Requer um motor TTS ativo nas configurações.' : 'Requer um motor de reconhecimento de fala ativo nas configurações.') : undefined;
+
+        return (
+          <button 
+            key={m.chave} 
+            className={`revisao-card-modo${m.chave === 'geral' ? ' revisao-card-modo-destaque' : ''}${desativado ? ' desativado' : ''}`} 
+            onClick={() => { if (!desativado) aoEscolherModo(m.chave); }}
+            disabled={desativado}
+            title={titleAttr}
+          >
+            <div className="revisao-card-modo-icone">{ICONES_MODO[m.chave]}</div>
+            <div className="revisao-card-modo-titulo">{m.titulo}</div>
+            <div className="revisao-card-modo-descricao">{m.descricao}</div>
+          </button>
+        );
+      })}
     </div>
   );
 }

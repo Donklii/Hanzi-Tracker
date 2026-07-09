@@ -1,0 +1,65 @@
+/* ----- Comum: grade de cartões (ListaCartoes) ----- */
+
+/* Flashcards e Hanzi */
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  background-color: var(--cor-fundo-cartao);
+  border: 1px solid var(--cor-borda);
+  border-radius: var(--raio-cartao);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: 220px;
+  box-sizing: border-box;
+  transition: all 0.2s;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.card:hover {
+  border-color: var(--cor-destaque);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+}
+
+.card-pinyin {
+  color: var(--cor-pinyin);
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.card-hanzi {
+  font-family: var(--fonte-hanzi);
+  font-size: 32px;
+  font-weight: bold;
+  color: var(--cor-texto-primario);
+}
+
+.card-sigs {
+  font-size: 11px;
+  color: var(--cor-texto-suave);
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: center;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-actions {
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+  margin-top: auto; /* Pushes the buttons to the bottom of the card */
+  width: 100%;
+}

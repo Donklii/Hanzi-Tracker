@@ -1,0 +1,12 @@
+# Dependências do sidecar Paraformer-ZH (paraformer_server.py) — usado pelos scripts
+# builds/build_sidecars_stt_*.{sh,ps1}, num venv próprio. Bem mais leve que os motores de TTS: a
+# inferência é onnxruntime puro (embutido na wheel do sherpa-onnx), sem torch.
+#
+# sounddevice faz a CAPTURA do microfone no próprio sidecar (a webview do Wails no Linux não tem
+# SpeechRecognition nem getUserMedia) — a wheel embute o PortAudio, nada a instalar via apt.
+# huggingface_hub baixa os pesos do modelo na primeira transcrição (ver ParaformerSttService.py).
+
+sherpa-onnx>=1.10
+sounddevice>=0.4.6
+huggingface_hub>=0.23
+numpy

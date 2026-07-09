@@ -2,7 +2,7 @@ import React from 'react'
 import {createRoot} from 'react-dom/client'
 import './style.css'
 import App from './App'
-import { ErrorBoundary } from './ErrorBoundary'
+import { LimiteDeErro } from './comum/LimiteDeErro'
 
 const container = document.getElementById('root')
 
@@ -10,8 +10,8 @@ const root = createRoot(container!)
 
 root.render(
     <React.StrictMode>
-        <ErrorBoundary>
+        <LimiteDeErro>
             <App/>
-        </ErrorBoundary>
+        </LimiteDeErro>
     </React.StrictMode>
 )

@@ -1,8 +1,9 @@
 // ----- Seção: Dicionário -----
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
+import './dicionario.css';
 import { CanvasHanziLookup } from './CanvasHanziLookup';
-import { CanvasDesenho } from '../revisao/CanvasDesenho';
-import { FalarPinyin, BuscarCaracteresCompostosPor } from '../../wailsjs/go/main/App';
+import { CanvasDesenho } from '../comum/CanvasDesenho';
+import { BuscarCaracteresCompostosPor } from '../../wailsjs/go/main/App';
 import { TocarAudio } from '../comum/TocarAudio';
 
 const IconPencil = () => (
@@ -104,6 +105,49 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
     await TocarAudio(hanziAtual, motorTtsAtivo);
     setAudioTocando(false);
   };
+  if (cartaoSelecionado.isScreenshotCard) {
+    return (
+      <div className="modal-overlay" onClick={() => setCartaoSelecionado(null)}>
+        <div className="modal-content hanzi-modal-content" onClick={e => e.stopPropagation()} style={{ maxWidth: '800px', width: '90%' }}>
+          <div className="modal-header">
+            <h2>Detalhes da Captura</h2>
+            <button className="modal-close" onClick={() => setCartaoSelecionado(null)}>×</button>
+          </div>
+          
+          <div className="modal-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px' }}>
+            <div style={{ border: '1px solid var(--cor-borda)', padding: '4px', borderRadius: '4px', backgroundColor: 'var(--cor-fundo-cartao)', width: '100%', display: 'flex', justifyContent: 'center' }}>
+              <img 
+                src={imagemModalBase64 ? "data:image/png;base64," + imagemModalBase64 : ''} 
+                alt="Última captura OCR" 
+                style={{ maxWidth: '100%', maxHeight: '40vh', objectFit: 'contain' }} 
+              />
+            </div>
+
+            <div style={{ textAlign: 'center', position: 'relative', width: '100%' }}>
+              <div style={{ fontSize: '28px', color: 'var(--cor-pinyin)', fontWeight: 'bold', marginBottom: '10px' }}>
+                Visualizar Print Escaneado
+              </div>
+              
+              <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', margin: '20px 0' }}>
+                <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ color: 'var(--cor-texto-primario)' }}>
+                  <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path>
+                  <circle cx="12" cy="13" r="4"></circle>
+                </svg>
+              </div>
+
+              <div style={{ fontSize: '18px', color: 'var(--cor-texto-primario)', marginBottom: '10px' }}>
+                {significadoCartao}
+              </div>
+              
+              <div style={{ fontSize: '14px', color: 'var(--cor-texto-suave)' }}>
+                Status: Processado com sucesso
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="modal-overlay" onClick={() => setCartaoSelecionado(null)}>
@@ -223,7 +267,7 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
                 apenasTreino={true}
                 aoConcluir={() => {
                   setTreinoConcluidoMsg('sim');
-                  if (props.lerPinyinAoCompletarDesenho !== false) {
+                  if (lerPinyinAoCompletarDesenho !== false) {
                     tocarAudioPratica(); // Toca automaticamente se ativado
                   }
                 }}

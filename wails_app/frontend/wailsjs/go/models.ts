@@ -44,12 +44,15 @@ export namespace config {
 	    lerPinyinAoExpandirCard: boolean;
 	    lerPinyinAoCompletarDesenho: boolean;
 	    motorTtsAtivo: string;
+	    motorSttAtivo: string;
 	    priorizarEstudoRevisao: boolean;
 	    sonsRevisao: boolean;
 	    tipoHanziGerado: string;
 	    tipoHanziExibicao: string;
 	    restringirHanziDesenho: boolean;
-	
+	    driveClientId: string;
+	    driveClientSecret: string;
+
 	    static createFrom(source: any = {}) {
 	        return new Config(source);
 	    }
@@ -99,11 +102,14 @@ export namespace config {
 	        this.lerPinyinAoExpandirCard = source["lerPinyinAoExpandirCard"];
 	        this.lerPinyinAoCompletarDesenho = source["lerPinyinAoCompletarDesenho"];
 	        this.motorTtsAtivo = source["motorTtsAtivo"];
+	        this.motorSttAtivo = source["motorSttAtivo"];
 	        this.priorizarEstudoRevisao = source["priorizarEstudoRevisao"];
 	        this.sonsRevisao = source["sonsRevisao"];
 	        this.tipoHanziGerado = source["tipoHanziGerado"];
 	        this.tipoHanziExibicao = source["tipoHanziExibicao"];
 	        this.restringirHanziDesenho = source["restringirHanziDesenho"];
+	        this.driveClientId = source["driveClientId"];
+	        this.driveClientSecret = source["driveClientSecret"];
 	    }
 	}
 
@@ -390,6 +396,34 @@ export namespace main {
 	        this.ativo = source["ativo"];
 	    }
 	}
+	export class MotorSttInfo {
+	    nome: string;
+	    rotulo: string;
+	    descricao: string;
+	    versao: string;
+	    requisitos: string;
+	    tamanhoBytes: number;
+	    publicado: boolean;
+	    instalado: boolean;
+	    ativo: boolean;
+
+	    static createFrom(source: any = {}) {
+	        return new MotorSttInfo(source);
+	    }
+
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.nome = source["nome"];
+	        this.rotulo = source["rotulo"];
+	        this.descricao = source["descricao"];
+	        this.versao = source["versao"];
+	        this.requisitos = source["requisitos"];
+	        this.tamanhoBytes = source["tamanhoBytes"];
+	        this.publicado = source["publicado"];
+	        this.instalado = source["instalado"];
+	        this.ativo = source["ativo"];
+	    }
+	}
 	export class MotorTtsInfo {
 	    nome: string;
 	    rotulo: string;
@@ -463,11 +497,13 @@ export namespace main {
 	    emEstudo: boolean;
 	    fraseLacuna: string;
 	    fraseOriginal: string;
+	    fraseOculta: string;
 	    fraseLacunaSegmentada: PalavraRevisao[];
 	    fraseOriginalSegmentada: PalavraRevisao[];
 	    fraseTraducao: string;
 	    fraseAtribuicao: string;
 	    opcoes: OpcaoRevisao[];
+	    pilhaOrdenacao: OpcaoRevisao[];
 	
 	    static createFrom(source: any = {}) {
 	        return new QuestaoRevisao(source);
@@ -483,11 +519,13 @@ export namespace main {
 	        this.emEstudo = source["emEstudo"];
 	        this.fraseLacuna = source["fraseLacuna"];
 	        this.fraseOriginal = source["fraseOriginal"];
+	        this.fraseOculta = source["fraseOculta"];
 	        this.fraseLacunaSegmentada = this.convertValues(source["fraseLacunaSegmentada"], PalavraRevisao);
 	        this.fraseOriginalSegmentada = this.convertValues(source["fraseOriginalSegmentada"], PalavraRevisao);
 	        this.fraseTraducao = source["fraseTraducao"];
 	        this.fraseAtribuicao = source["fraseAtribuicao"];
 	        this.opcoes = this.convertValues(source["opcoes"], OpcaoRevisao);
+	        this.pilhaOrdenacao = this.convertValues(source["pilhaOrdenacao"], OpcaoRevisao);
 	    }
 	
 		convertValues(a: any, classs: any, asMap: boolean = false): any {
@@ -572,6 +610,35 @@ export namespace main {
 	        if ('string' === typeof source) source = JSON.parse(source);
 	        this.cpu = source["cpu"];
 	        this.gpus = source["gpus"];
+	    }
+	}
+
+}
+
+export namespace nuvem {
+	
+	export class Info {
+	    estado: string;
+	    email: string;
+	    ultimaSincronizacao: string;
+	    remotoBytes: number;
+	    remotoModificadoEm: string;
+	    localBytes: number;
+	    erro: string;
+	
+	    static createFrom(source: any = {}) {
+	        return new Info(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.estado = source["estado"];
+	        this.email = source["email"];
+	        this.ultimaSincronizacao = source["ultimaSincronizacao"];
+	        this.remotoBytes = source["remotoBytes"];
+	        this.remotoModificadoEm = source["remotoModificadoEm"];
+	        this.localBytes = source["localBytes"];
+	        this.erro = source["erro"];
 	    }
 	}
 

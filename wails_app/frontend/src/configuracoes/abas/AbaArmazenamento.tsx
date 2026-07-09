@@ -1,7 +1,8 @@
-// ----- Seção: Configurações — aba Armazenamento (uso de disco e limpeza por categoria) -----
-import { main } from '../../../wailsjs/go/models';
+// ----- Seção: Configurações — aba Armazenamento (nuvem, uso de disco e limpeza por categoria) -----
+import { config, main, nuvem } from '../../../wailsjs/go/models';
 import { AbrirPastaDados } from '../../../wailsjs/go/main/App';
-import { FormatarTamanho } from '../comum';
+import { BrowserOpenURL } from '../../../wailsjs/runtime/runtime';
+import { FormatarTamanho } from '../../comum/formatacao';
 
 // Cores da barra de uso de armazenamento (uma por categoria; cicla se houver mais categorias).
 const CORES_CATEGORIA_ARMAZENAMENTO = ['#64b5f6', '#81c784', '#ffb74d', '#ba68c8', '#f06292', '#4db6ac', '#a1887f'];
@@ -13,12 +14,127 @@ interface AbaArmazenamentoProps {
   setConfirmacao: (c: any) => void;
   LimparCategoriaArmazenamento: (chave: string) => void;
   ExcluirTodoArmazenamento: () => void;
+  configuracoesApp: config.Config;
+  AtualizarConfiguracao: (key: keyof config.Config, value: any) => void;
+  infoNuvem: nuvem.Info | null;
+  nuvemOcupada: boolean;
+  ConectarNuvemDrive: () => void;
+  SincronizarNuvemDrive: () => void;
+  DesconectarNuvemDrive: () => void;
+  abrirConflitoNuvem: () => void;
 }
 
-export function AbaArmazenamento({ termoBusca, infoArmazenamento, armazenamentoOcupado, setConfirmacao, LimparCategoriaArmazenamento, ExcluirTodoArmazenamento }: AbaArmazenamentoProps) {
+// SecaoNuvem é o cartão da sincronização com o Google Drive: credenciais OAuth (coladas pelo
+// usuário), conectar/sincronizar/desconectar e o estado da conexão.
+function SecaoNuvem({ configuracoesApp, AtualizarConfiguracao, infoNuvem, nuvemOcupada, ConectarNuvemDrive, SincronizarNuvemDrive, DesconectarNuvemDrive, abrirConflitoNuvem }:
+  Pick<AbaArmazenamentoProps, 'configuracoesApp' | 'AtualizarConfiguracao' | 'infoNuvem' | 'nuvemOcupada' | 'ConectarNuvemDrive' | 'SincronizarNuvemDrive' | 'DesconectarNuvemDrive' | 'abrirConflitoNuvem'>) {
+  const desconectado = !infoNuvem || infoNuvem.estado === 'desconectado' || infoNuvem.estado === 'nao_configurado';
+  const temCredenciais = !!configuracoesApp.driveClientId && !!configuracoesApp.driveClientSecret;
+
+  return (
+    <div className="form-group">
+      <label style={{ margin: 0 }}>Sincronização na Nuvem (Google Drive)</label>
+      <small style={{ color: 'var(--cor-texto-suave)', display: 'block', margin: '4px 0 8px' }}>
+        Guarda uma cópia do seu banco de vocabulário no seu Google Drive e a atualiza sozinho enquanto você usa o app.
+      </small>
+
+      {desconectado && (
+        <>
+          <input
+            type="text"
+            className="form-input"
+            value={configuracoesApp.driveClientId || ''}
+            onChange={e => AtualizarConfiguracao('driveClientId', e.target.value)}
+            placeholder="Client ID (….apps.googleusercontent.com)"
+          />
+          <input
+            type="password"
+            className="form-input"
+            style={{ marginTop: '6px' }}
+            value={configuracoesApp.driveClientSecret || ''}
+            onChange={e => AtualizarConfiguracao('driveClientSecret', e.target.value)}
+            placeholder="Client Secret"
+          />
+          <small style={{ color: 'var(--cor-texto-suave)', display: 'block', margin: '6px 0 8px' }}>
+            Requer credenciais OAuth próprias:{' '}
+            <a
+              href="#"
+              style={{ color: 'var(--cor-destaque)' }}
+              onClick={e => { e.preventDefault(); BrowserOpenURL('https://console.cloud.google.com/apis/credentials'); }}
+            >
+              crie no Google Cloud Console
+            </a>{' '}
+            um "ID do cliente OAuth" do tipo <strong>App para computador</strong>, com a API do Google Drive ativada no projeto, e cole o par aqui.
+          </small>
+          <button
+            className="scan-btn"
+            disabled={nuvemOcupada || !temCredenciais}
+            style={{ opacity: (nuvemOcupada || !temCredenciais) ? 0.5 : 1 }}
+            title={temCredenciais ? undefined : 'Preencha o Client ID e o Client Secret para conectar.'}
+            onClick={ConectarNuvemDrive}
+          >
+            {nuvemOcupada ? '⏳ Aguardando autorização no navegador…' : '🔗 Conectar Google Drive'}
+          </button>
+        </>
+      )}
+
+      {infoNuvem?.estado === 'conflito' && (
+        <div style={{ border: '1px solid #ffb74d', borderRadius: '8px', padding: '12px', backgroundColor: 'var(--cor-fundo-cartao)' }}>
+          <div style={{ fontSize: '13px', fontWeight: 'bold', color: '#ffb74d' }}>⚠️ Já existe um backup na nuvem</div>
+          <div style={{ fontSize: '12px', color: 'var(--cor-texto-suave)', margin: '4px 0 8px' }}>
+            Conectado como <strong>{infoNuvem.email}</strong>. Nada será sincronizado até você escolher entre os dados deste computador e os da nuvem.
+          </div>
+          <button className="scan-btn" style={{ padding: '4px 10px', fontSize: '11px' }} disabled={nuvemOcupada} onClick={abrirConflitoNuvem}>
+            Resolver conflito
+          </button>
+        </div>
+      )}
+
+      {infoNuvem?.estado === 'conectado' && (
+        <div style={{ border: '1px solid var(--cor-borda)', borderRadius: '8px', padding: '12px', backgroundColor: 'var(--cor-fundo-cartao)' }}>
+          <div style={{ fontSize: '13px' }}>
+            ☁️ Conectado como <strong>{infoNuvem.email || 'conta Google'}</strong>
+          </div>
+          <div style={{ fontSize: '12px', color: 'var(--cor-texto-suave)', marginTop: '2px' }}>
+            {infoNuvem.ultimaSincronizacao
+              ? <>Última sincronização: {new Date(infoNuvem.ultimaSincronizacao).toLocaleString()} · {FormatarTamanho(infoNuvem.remotoBytes) || '0 MB'} na nuvem</>
+              : 'Ainda não sincronizado nesta sessão.'}
+          </div>
+          {infoNuvem.erro && (
+            <div style={{ fontSize: '12px', color: '#f44336', marginTop: '4px' }}>⚠️ {infoNuvem.erro}</div>
+          )}
+          <div style={{ display: 'flex', gap: '8px', marginTop: '10px' }}>
+            <button className="scan-btn" style={{ padding: '4px 10px', fontSize: '11px', opacity: nuvemOcupada ? 0.5 : 1 }} disabled={nuvemOcupada} onClick={SincronizarNuvemDrive}>
+              {nuvemOcupada ? '⏳ Sincronizando…' : '🔄 Sincronizar agora'}
+            </button>
+            <button className="scan-btn" style={{ padding: '4px 10px', fontSize: '11px', backgroundColor: 'var(--cor-fundo-secundario)' }} disabled={nuvemOcupada} onClick={DesconectarNuvemDrive}>
+              Desconectar
+            </button>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+export function AbaArmazenamento({ termoBusca, infoArmazenamento, armazenamentoOcupado, setConfirmacao, LimparCategoriaArmazenamento, ExcluirTodoArmazenamento,
+  configuracoesApp, AtualizarConfiguracao, infoNuvem, nuvemOcupada, ConectarNuvemDrive, SincronizarNuvemDrive, DesconectarNuvemDrive, abrirConflitoNuvem }: AbaArmazenamentoProps) {
   return (
     <>
       {termoBusca && <h3 className="settings-section-title" style={{ marginTop: '32px' }}>Armazenamento</h3>}
+
+      {(!termoBusca || "nuvem google drive sincronização backup conectar conta credenciais client id secret oauth".includes(termoBusca.toLowerCase())) && (
+        <SecaoNuvem
+          configuracoesApp={configuracoesApp}
+          AtualizarConfiguracao={AtualizarConfiguracao}
+          infoNuvem={infoNuvem}
+          nuvemOcupada={nuvemOcupada}
+          ConectarNuvemDrive={ConectarNuvemDrive}
+          SincronizarNuvemDrive={SincronizarNuvemDrive}
+          DesconectarNuvemDrive={DesconectarNuvemDrive}
+          abrirConflitoNuvem={abrirConflitoNuvem}
+        />
+      )}
 
       <div className="form-group">
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>

@@ -1,0 +1,62 @@
+/* ----- Casca: barra lateral de navegação ----- */
+
+/* ----- Sidebar Estilo Glassmorphism / Painel ----- */
+.sidebar {
+  width: 260px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  background-color: var(--cor-fundo-painel);
+  border-right: 1px solid var(--cor-borda);
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  box-shadow: 2px 0 10px rgba(0,0,0,0.5);
+  z-index: 10;
+}
+
+.sidebar h1 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 32px;
+  background: linear-gradient(135deg, #a5b4fc, #6366f1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.sidebar-btn {
+  background-color: transparent;
+  color: var(--cor-texto-secundario);
+  border: none;
+  padding: 12px 16px;
+  border-radius: var(--raio-botao);
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.sidebar-btn:hover {
+  background-color: var(--cor-fundo-cartao);
+  color: var(--cor-texto-primario);
+  transform: translateX(4px);
+}
+
+.sidebar-btn.active {
+  background-color: var(--cor-destaque);
+  color: white;
+}
+
+.sidebar-btn.active:hover {
+  transform: none;
+  background-color: var(--cor-destaque-hover);
+}
+
+.sidebar-spacer {
+  flex-grow: 1;
+}

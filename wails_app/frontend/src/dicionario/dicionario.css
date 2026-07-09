@@ -1,0 +1,11 @@
+/* ----- Dicionário: variante do modal de detalhes do hanzi ----- */
+
+.hanzi-modal-content {
+  width: 600px !important;
+  max-width: 90vw;
+  height: fit-content !important;
+  max-height: 75vh !important;
+  flex-direction: column !important;
+  padding: 32px !important;
+  overflow-y: auto !important;
+}

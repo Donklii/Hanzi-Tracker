@@ -25,11 +25,13 @@ const (
 	ModoFonetica    = "fonetica"
 	ModoDesenho     = "desenho"
 	ModoContexto    = "contexto"
+	ModoOrdenacao   = "ordenacao"
+	ModoPronuncia   = "pronuncia"
 	ModoGeral       = "geral"
 )
 
-// modosConcretos são os 4 modos "reais" usados pelo modo geral para sortear a modalidade de cada questão.
-var modosConcretos = []string{ModoSignificado, ModoFonetica, ModoDesenho, ModoContexto}
+// modosConcretos são os 5 modos "reais" usados pelo modo geral para sortear a modalidade de cada questão.
+var modosConcretos = []string{ModoSignificado, ModoFonetica, ModoDesenho, ModoContexto, ModoOrdenacao, ModoPronuncia}
 
 // Quantidade de questões por sessão quando o frontend não especifica, e teto de segurança.
 const (
@@ -63,13 +65,17 @@ type QuestaoRevisao struct {
 	// hanzi-alvo por "＿" — inclusive no desenho guiado, senão bastaria copiar o caractere da frase.
 	FraseLacuna             string           `json:"fraseLacuna"`
 	FraseOriginal           string           `json:"fraseOriginal"`
+	FraseOculta             string           `json:"fraseOculta"` // texto da frase com os hanzis trocados por _
 	FraseLacunaSegmentada   []PalavraRevisao `json:"fraseLacunaSegmentada"`
 	FraseOriginalSegmentada []PalavraRevisao `json:"fraseOriginalSegmentada"`
 	FraseTraducao           string           `json:"fraseTraducao"`
 	FraseAtribuicao         string           `json:"fraseAtribuicao"` // crédito CC-BY do Tatoeba — exibir junto da frase
 
-	// Opcoes: 4 alternativas embaralhadas (vazio nos modos só-desenho).
+	// Opcoes: 4 alternativas embaralhadas (vazio nos modos só-desenho e ordenacao).
 	Opcoes []OpcaoRevisao `json:"opcoes"`
+
+	// PilhaOrdenacao: hanzis corretos misturados com distratores, usados apenas no ModoOrdenacao
+	PilhaOrdenacao []OpcaoRevisao `json:"pilhaOrdenacao"`
 }
 
 // PalavraRevisao representa um token da frase segmentada, com seu pinyin e significados caso seja chinês.
@@ -106,16 +112,18 @@ func (a *App) ObterDadosEscritaHanzi(caractere string) (string, error) {
 //
 // O modo "geral" mistura todos os 4 modos na mesma sessão, sorteando a modalidade de cada questão.
 func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisao, error) {
+	if modo == ModoFonetica && (a.Config.MotorTtsAtivo == "" || a.Config.MotorTtsAtivo == "nenhum") {
+		return nil, fmt.Errorf("o modo fonética requer um motor TTS ativo nas configurações")
+	}
+	if modo == ModoPronuncia && (a.Config.MotorSttAtivo == "" || a.Config.MotorSttAtivo == "nenhum") {
+		return nil, fmt.Errorf("o modo pronúncia requer um motor de reconhecimento de fala ativo nas configurações")
+	}
+
 	if quantidade <= 0 {
 		quantidade = QuestoesPorSessaoPadrao
 	}
 	if quantidade > QuestoesPorSessaoMaximo {
 		quantidade = QuestoesPorSessaoMaximo
-	}
-
-	candidatos := a.candidatosParaModo(modo)
-	if len(candidatos) < 4 {
-		return nil, fmt.Errorf("não há caracteres suficientes no dicionário para o modo %q", modo)
 	}
 
 	vocabulario, _ := progresso.GetAllVocab()
@@ -145,6 +153,11 @@ func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisa
 	// Salva o mapaStatus no App para uso posterior na priorização de frases.
 	a.mapaStatusRevisao = mapaStatus
 
+	candidatos := a.candidatosParaModo(modo)
+	if len(candidatos) < 4 {
+		return nil, fmt.Errorf("não há caracteres suficientes no dicionário para o modo %q", modo)
+	}
+
 	var candEstudo []dicionario.DecomposicaoHanzi
 	var candAprendido []dicionario.DecomposicaoHanzi
 	for _, c := range candidatos {
@@ -155,46 +168,134 @@ func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisa
 		}
 	}
 
-	alvos := a.selecionarAlvos(candidatos, emEstudo, quantidade)
+	a.mu.Lock()
+	a.historicoRevisao = make(map[string]bool)
+	a.mu.Unlock()
 
-	// Para o modo geral, pré-computa os candidatos dos 4 modos concretos.
+	alvos := a.selecionarAlvos(candidatos, emEstudo, quantidade*3)
+
+	// Para o modo geral, pré-computa os candidatos dos modos concretos permitidos.
 	var candidatosPorModo map[string][]dicionario.DecomposicaoHanzi
+	var modosPermitidos []string
+
 	if modo == ModoGeral {
-		candidatosPorModo = make(map[string][]dicionario.DecomposicaoHanzi, len(modosConcretos))
 		for _, m := range modosConcretos {
+			if m == ModoFonetica && (a.Config.MotorTtsAtivo == "" || a.Config.MotorTtsAtivo == "nenhum") {
+				continue
+			}
+			if m == ModoPronuncia && (a.Config.MotorSttAtivo == "" || a.Config.MotorSttAtivo == "nenhum") {
+				continue
+			}
+			modosPermitidos = append(modosPermitidos, m)
+		}
+
+		candidatosPorModo = make(map[string][]dicionario.DecomposicaoHanzi, len(modosPermitidos))
+		for _, m := range modosPermitidos {
 			candidatosPorModo[m] = a.candidatosParaModo(m)
 		}
 	}
 
-	questoes := make([]QuestaoRevisao, 0, len(alvos))
+	questoes := make([]QuestaoRevisao, 0, quantidade)
 	for _, alvo := range alvos {
-		modoQuestao := modo
-		candQuestao := candidatos
-
-		if modo == ModoGeral {
-			// Sorteia um modo concreto para esta questão, garantindo que o alvo é elegível.
-			modoQuestao = a.sortearModoParaAlvo(alvo, candidatosPorModo)
-			candQuestao = candidatosPorModo[modoQuestao]
+		if len(questoes) >= quantidade {
+			break
 		}
 
-		// Recalcula distratores em estudo/aprendidos para o pool correto.
-		var ceQuestao, caQuestao []dicionario.DecomposicaoHanzi
-		if modo == ModoGeral {
-			for _, c := range candQuestao {
-				if mapaStatus[c.Caractere] == "estudo" {
-					ceQuestao = append(ceQuestao, c)
-				} else if mapaStatus[c.Caractere] == "aprendido" {
-					caQuestao = append(caQuestao, c)
+		modoEvitar := ""
+		if modo == ModoGeral && len(questoes) > 0 && rand.Float32() < 0.2 {
+			qRef := questoes[rand.IntN(len(questoes))]
+			var alvoRepetido alvoRevisao
+			encontrou := false
+			for _, c := range candidatos {
+				if c.Caractere == qRef.Hanzi {
+					alvoRepetido = alvoRevisao{entrada: c}
+					encontrou = true
+					break
 				}
+			}
+			if encontrou {
+				alvo = alvoRepetido
+				modoEvitar = varianteParaModoBase(qRef.Variante)
+			}
+		}
+
+		candQuestao := candidatos
+		var ceQuestao, caQuestao []dicionario.DecomposicaoHanzi
+		var questao QuestaoRevisao
+		var err error
+
+		if modo == ModoGeral {
+			ordem := rand.Perm(len(modosPermitidos))
+			sucesso := false
+			for _, i := range ordem {
+				m := modosPermitidos[i]
+				if m == modoEvitar {
+					continue
+				}
+				candQuestao = candidatosPorModo[m]
+
+				elegivel := false
+				for _, c := range candQuestao {
+					if c.Caractere == alvo.entrada.Caractere {
+						elegivel = true
+						break
+					}
+				}
+				if !elegivel {
+					continue
+				}
+
+				ceQuestao = nil
+				caQuestao = nil
+				for _, c := range candQuestao {
+					if mapaStatus[c.Caractere] == "estudo" {
+						ceQuestao = append(ceQuestao, c)
+					} else if mapaStatus[c.Caractere] == "aprendido" {
+						caQuestao = append(caQuestao, c)
+					}
+				}
+
+				q, e := a.montarQuestao(m, alvo, candQuestao, ceQuestao, caQuestao)
+				if e == nil {
+					sig := assinaturaQuestao(&q)
+					a.mu.RLock()
+					usado := a.historicoRevisao[sig]
+					a.mu.RUnlock()
+					if !usado {
+						questao = q
+						err = nil
+						sucesso = true
+						a.mu.Lock()
+						a.historicoRevisao[sig] = true
+						a.mu.Unlock()
+						break
+					}
+				}
+			}
+			if !sucesso {
+				err = fmt.Errorf("nenhum modo disponível ou inédito para o alvo")
 			}
 		} else {
 			ceQuestao = candEstudo
 			caQuestao = candAprendido
+			questao, err = a.montarQuestao(modo, alvo, candQuestao, ceQuestao, caQuestao)
+			if err == nil {
+				sig := assinaturaQuestao(&questao)
+				a.mu.RLock()
+				usado := a.historicoRevisao[sig]
+				a.mu.RUnlock()
+				if !usado {
+					a.mu.Lock()
+					a.historicoRevisao[sig] = true
+					a.mu.Unlock()
+				} else {
+					err = fmt.Errorf("questão já usada")
+				}
+			}
 		}
 
-		questao, err := a.montarQuestao(modoQuestao, alvo, candQuestao, ceQuestao, caQuestao)
 		if err != nil {
-			continue // alvo sem frase/distratores viáveis: pula sem derrubar a sessão
+			continue // alvo sem frase/distratores viáveis, ou já repetido: pula
 		}
 		questoes = append(questoes, questao)
 	}
@@ -205,19 +306,34 @@ func (a *App) ObterQuestoesRevisao(modo string, quantidade int) ([]QuestaoRevisa
 	return questoes, nil
 }
 
-// sortearModoParaAlvo escolhe um modo concreto aleatório que aceite o alvo dado.
-// Tenta os 4 modos em ordem aleatória e cai em "significado" como último recurso.
-func (a *App) sortearModoParaAlvo(alvo alvoRevisao, candidatosPorModo map[string][]dicionario.DecomposicaoHanzi) string {
-	ordem := rand.Perm(len(modosConcretos))
-	for _, i := range ordem {
-		m := modosConcretos[i]
-		for _, c := range candidatosPorModo[m] {
-			if c.Caractere == alvo.entrada.Caractere {
-				return m
-			}
-		}
+func varianteParaModoBase(variante string) string {
+	switch variante {
+	case "ordenacao":
+		return ModoOrdenacao
+	case "contexto", "desenho_contexto":
+		return ModoContexto
+	case "pronuncia_frase", "pronuncia_sequencia":
+		return ModoPronuncia
+	case "desenho_memoria":
+		return ModoDesenho
+	case "hanzi_para_audio", "audio_para_hanzi":
+		return ModoFonetica
+	default:
+		return ModoSignificado
 	}
-	return ModoSignificado // fallback seguro: significado aceita qualquer caractere
+}
+
+func assinaturaQuestao(q *QuestaoRevisao) string {
+	if q.Variante == "ordenacao" {
+		return "ordenacao:" + q.FraseOriginal
+	}
+	if q.Variante == "pronuncia_frase" || q.Variante == "pronuncia_sequencia" {
+		return q.Variante + ":" + q.FraseOriginal
+	}
+	if q.Variante == "contexto" || q.Variante == "desenho_contexto" {
+		return q.Variante + ":" + q.Hanzi + ":" + q.FraseOriginal
+	}
+	return q.Variante + ":" + q.Hanzi
 }
 
 // ----- Seleção de candidatos e alvos -----
@@ -248,6 +364,11 @@ func (a *App) candidatosParaModo(modo string) []dicionario.DecomposicaoHanzi {
 		return filtrar(todos, func(e dicionario.DecomposicaoHanzi) bool {
 			r, _ := utf8.DecodeRuneInString(e.Caractere)
 			return a.BancoFrases.TemCaractere(r) && a.BancoTracados.Tem(e.Caractere)
+		})
+	case ModoOrdenacao, ModoPronuncia:
+		return filtrar(todos, func(e dicionario.DecomposicaoHanzi) bool {
+			r, _ := utf8.DecodeRuneInString(e.Caractere)
+			return a.temFrase90(r)
 		})
 	case ModoGeral:
 		return todos // o universo completo — cada questão será filtrada individualmente
@@ -345,6 +466,21 @@ func (a *App) montarQuestao(modo string, alvo alvoRevisao, candidatos, candEstud
 			return distintosPorHanzi(escolhidas, candidata) && !strings.Contains(frase, candidata.Caractere)
 		})
 
+	case ModoOrdenacao:
+		questao.Variante = "ordenacao"
+		if !a.preencherFrase(&questao) {
+			return questao, fmt.Errorf("nenhuma frase contém %q", questao.Hanzi)
+		}
+		if err := a.gerarPilhaOrdenacao(&questao, candidatos); err != nil {
+			return questao, err
+		}
+
+	case ModoPronuncia:
+		questao.Variante = sortearVariante("pronuncia_frase", "pronuncia_sequencia")
+		if !a.preencherFrase(&questao) {
+			return questao, fmt.Errorf("nenhuma frase contém %q", questao.Hanzi)
+		}
+
 	default:
 		return questao, fmt.Errorf("modo de revisão desconhecido: %q", modo)
 	}
@@ -406,6 +542,77 @@ func (a *App) preencherFrase(questao *QuestaoRevisao) bool {
 		}
 	}
 
+	// Filtra frases por porcentagem de caracteres já visualizados (aprendidos ou em estudo).
+	var frases90, frases50, frases25 []dicionario.Frase
+	for _, f := range frases {
+		totalUnicos := 0
+		conhecidos := 0
+		vistos := make(map[rune]bool)
+
+		for _, r := range f.Chines {
+			if vistos[r] || !unicode.Is(unicode.Han, r) {
+				continue
+			}
+			vistos[r] = true
+			totalUnicos++
+			if a.mapaStatusRevisao[string(r)] != "" {
+				conhecidos++
+			}
+		}
+
+		if totalUnicos > 0 {
+			perc := float64(conhecidos) / float64(totalUnicos)
+			if perc >= 0.9 {
+				frases90 = append(frases90, f)
+			}
+			if perc >= 0.5 {
+				frases50 = append(frases50, f)
+			}
+			if perc >= 0.25 {
+				frases25 = append(frases25, f)
+			}
+		}
+	}
+
+	if questao.Variante == "ordenacao" || questao.Variante == "pronuncia_frase" || questao.Variante == "pronuncia_sequencia" {
+		if len(frases90) > 0 {
+			frases = frases90
+		} else {
+			return false // requisito rígido: se não houver 90%, descarta
+		}
+	} else {
+		if len(frases50) > 0 {
+			frases = frases50
+		} else if len(frases25) > 0 {
+			frases = frases25
+		}
+	}
+
+	// Filtra frases inéditas para essa variante/hanzi nesta sessão
+	var disponiveis []dicionario.Frase
+	a.mu.RLock()
+	historico := a.historicoRevisao
+	a.mu.RUnlock()
+
+	for _, f := range frases {
+		sig := questao.Variante + ":" + questao.Hanzi + ":" + f.Chines
+		if questao.Variante == "ordenacao" {
+			sig = "ordenacao:" + f.Chines
+		} else if questao.Variante == "pronuncia_frase" || questao.Variante == "pronuncia_sequencia" {
+			sig = questao.Variante + ":" + f.Chines
+		}
+		if historico != nil && !historico[sig] {
+			disponiveis = append(disponiveis, f)
+		} else if historico == nil {
+			disponiveis = append(disponiveis, f)
+		}
+	}
+
+	if len(disponiveis) == 0 {
+		return false
+	}
+	frases = disponiveis
+
 	// Seleção ponderada: frases com mais caracteres aprendidos/em estudo ganham peso maior.
 	escolhida := a.selecionarFrasePonderada(frases)
 
@@ -419,6 +626,16 @@ func (a *App) preencherFrase(questao *QuestaoRevisao) bool {
 	questao.FraseLacuna = strings.Replace(textoChinês, questao.Hanzi, "＿", 1)
 	questao.FraseTraducao = escolhida.Ingles
 	questao.FraseAtribuicao = escolhida.Atribuicao
+
+	var oculta strings.Builder
+	for _, r := range textoChinês {
+		if unicode.Is(unicode.Han, r) {
+			oculta.WriteString("＿")
+		} else {
+			oculta.WriteRune(r)
+		}
+	}
+	questao.FraseOculta = oculta.String()
 
 	// Segmenta a frase para habilitar o popup de tooltip por palavra no frontend
 	questao.FraseOriginalSegmentada = a.decomporTextoRevisao(questao.FraseOriginal)
@@ -532,6 +749,35 @@ func (a *App) selecionarFrasePonderada(frases []dicionario.Frase) dicionario.Fra
 
 // ----- Distratores -----
 
+// temFrase90 verifica se o caractere possui pelo menos uma frase onde 90% do vocabulário é conhecido.
+func (a *App) temFrase90(alvo rune) bool {
+	frases := a.BancoFrases.FrasesComCaractere(alvo)
+	for _, f := range frases {
+		totalUnicos := 0
+		conhecidos := 0
+		vistos := make(map[rune]bool)
+
+		for _, r := range f.Chines {
+			if vistos[r] || !unicode.Is(unicode.Han, r) {
+				continue
+			}
+			vistos[r] = true
+			totalUnicos++
+			if a.mapaStatusRevisao[string(r)] != "" {
+				conhecidos++
+			}
+		}
+
+		if totalUnicos > 0 {
+			perc := float64(conhecidos) / float64(totalUnicos)
+			if perc >= 0.9 {
+				return true
+			}
+		}
+	}
+	return false
+}
+
 // criterioDistrator decide se a candidata pode entrar no conjunto de opções já escolhidas.
 // Cada modo usa um critério: as opções precisam ser DISTINGUÍVEIS entre si naquilo que o usuário
 // compara (som na fonética, glosa no significado, o próprio caractere no contexto).
@@ -627,4 +873,144 @@ func distintosPorHanzi(escolhidas []OpcaoRevisao, candidata dicionario.Decomposi
 func glosaPrincipal(definicao string) string {
 	glosa, _, _ := strings.Cut(definicao, ";")
 	return strings.ToLower(strings.TrimSpace(glosa))
+}
+
+// gerarPilhaOrdenacao cria a pilha de hanzis para a questão de ordenação da frase.
+// A pilha conterá as ocorrências originais e ~1/3 de distratores, que compartilham radicais/fonéticos com as originais.
+func (a *App) gerarPilhaOrdenacao(questao *QuestaoRevisao, candidatos []dicionario.DecomposicaoHanzi) error {
+	hanzisNaFrase := make(map[string]dicionario.DecomposicaoHanzi)
+	var ordemHanzis []string
+
+	for _, r := range questao.FraseOriginal {
+		if !unicode.Is(unicode.Han, r) {
+			continue
+		}
+		ch := string(r)
+		if _, existe := hanzisNaFrase[ch]; !existe {
+			entrada := a.BancoHanzi.Buscar(ch)
+			if entrada != nil {
+				hanzisNaFrase[ch] = *entrada
+			} else {
+				hanzisNaFrase[ch] = dicionario.DecomposicaoHanzi{Caractere: ch}
+			}
+			ordemHanzis = append(ordemHanzis, ch)
+		}
+	}
+
+	if len(hanzisNaFrase) == 0 {
+		return fmt.Errorf("frase sem hanzis válidos")
+	}
+
+	// Calcula a quantidade de distratores para ser cerca de 1/3 da pilha total
+	// Ex: Se frase tem 4 hanzis, 2 distratores -> total 6, distratores são 1/3.
+	qtdDistratores := (len(hanzisNaFrase) + 1) / 2
+
+	componentes := make(map[string]bool)
+	for _, ch := range ordemHanzis {
+		entrada := hanzisNaFrase[ch]
+		if entrada.Radical != "" {
+			componentes[entrada.Radical] = true
+		}
+		if entrada.Etimologia.Fonetica != "" {
+			componentes[entrada.Etimologia.Fonetica] = true
+		}
+		if entrada.Etimologia.Semantica != "" {
+			componentes[entrada.Etimologia.Semantica] = true
+		}
+	}
+
+	var distratoresPlausiveis []dicionario.DecomposicaoHanzi
+	vistosDistratores := make(map[string]bool)
+
+	for comp := range componentes {
+		if comp == "" {
+			continue
+		}
+		compostos := a.BancoHanzi.BuscarCompostosPor(comp)
+		for _, compHanzi := range compostos {
+			if _, ehFrase := hanzisNaFrase[compHanzi]; ehFrase {
+				continue
+			}
+			if !vistosDistratores[compHanzi] {
+				vistosDistratores[compHanzi] = true
+				entrada := a.BancoHanzi.Buscar(compHanzi)
+				if entrada != nil && entrada.Definicao != "" && len(entrada.Pinyin) > 0 {
+					distratoresPlausiveis = append(distratoresPlausiveis, *entrada)
+				}
+			}
+		}
+	}
+
+	rand.Shuffle(len(distratoresPlausiveis), func(i, j int) {
+		distratoresPlausiveis[i], distratoresPlausiveis[j] = distratoresPlausiveis[j], distratoresPlausiveis[i]
+	})
+
+	var pilha []OpcaoRevisao
+	// Adiciona os corretos considerando ocorrências repetidas na frase
+	for _, r := range questao.FraseOriginal {
+		if !unicode.Is(unicode.Han, r) {
+			continue
+		}
+		ch := string(r)
+		entrada := hanzisNaFrase[ch]
+		pinyin := ""
+		if len(entrada.Pinyin) > 0 {
+			pinyin = entrada.Pinyin[0]
+		}
+		pilha = append(pilha, OpcaoRevisao{
+			Hanzi:     ch,
+			Pinyin:    pinyin,
+			Definicao: entrada.Definicao,
+			Correta:   true,
+		})
+	}
+
+	adicionados := 0
+	for _, dist := range distratoresPlausiveis {
+		if adicionados >= qtdDistratores {
+			break
+		}
+		pilha = append(pilha, OpcaoRevisao{
+			Hanzi:     dist.Caractere,
+			Pinyin:    dist.Pinyin[0],
+			Definicao: dist.Definicao,
+			Correta:   false,
+		})
+		adicionados++
+	}
+
+	// Caso não tenha encontrado distratores suficientes por componente, completa aleatoriamente
+	if adicionados < qtdDistratores {
+		candidatosShuffled := make([]dicionario.DecomposicaoHanzi, len(candidatos))
+		copy(candidatosShuffled, candidatos)
+		rand.Shuffle(len(candidatosShuffled), func(i, j int) {
+			candidatosShuffled[i], candidatosShuffled[j] = candidatosShuffled[j], candidatosShuffled[i]
+		})
+		for _, dist := range candidatosShuffled {
+			if adicionados >= qtdDistratores {
+				break
+			}
+			if _, ehFrase := hanzisNaFrase[dist.Caractere]; ehFrase {
+				continue
+			}
+			if vistosDistratores[dist.Caractere] {
+				continue
+			}
+			pilha = append(pilha, OpcaoRevisao{
+				Hanzi:     dist.Caractere,
+				Pinyin:    dist.Pinyin[0],
+				Definicao: dist.Definicao,
+				Correta:   false,
+			})
+			adicionados++
+			vistosDistratores[dist.Caractere] = true
+		}
+	}
+
+	rand.Shuffle(len(pilha), func(i, j int) {
+		pilha[i], pilha[j] = pilha[j], pilha[i]
+	})
+
+	questao.PilhaOrdenacao = pilha
+	return nil
 }

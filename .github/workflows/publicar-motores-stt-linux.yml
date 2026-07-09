@@ -1,0 +1,114 @@
+name: Publicar Motores (Escuta/STT, Linux)
+
+# Congela o sidecar de ESCUTA/STT para LINUX (builds/build_sidecars_stt_linux.sh) num runner
+# Ubuntu, publica o .zip numa GitHub Release e ATUALIZA O MANIFESTO automaticamente: reescreve
+# wails_app/motoresstt/artefatos_stt_linux.json (tag + sha256 + tamanho do zip), valida com
+# `go test` e commita no main. Dispara ao empurrar uma tag "motores-stt-linux-v*" (ou manualmente,
+# informando a tag). É o irmão Linux do publicar-motores-stt-windows.yml (Windows, tags
+# "motores-stt-windows-v*") — os manifestos são UM POR SO, então publicar aqui nunca invalida as
+# URLs dos motores Windows. Ver docs/PUBLICAR-MOTORES.md.
+
+on:
+  push:
+    tags:
+      - 'motores-stt-linux-v*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag da release (ex.: motores-stt-linux-v1)'
+        required: true
+
+permissions:
+  contents: write # criar a release, anexar os assets e commitar o manifesto atualizado no main
+  actions: write # necessário para disparar o workflow do app via gh cli
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Configurar Go (para validar o manifesto)
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: wails_app/go.mod
+
+      - name: Congelar sidecar de escuta (builds/build_sidecars_stt_linux.sh)
+        run: bash builds/build_sidecars_stt_linux.sh
+
+      - name: sha256 do artefato (referência no resumo do job)
+        run: |
+          tag='${{ github.event.inputs.tag || github.ref_name }}'
+          {
+            echo "## sha256 dos motores de escuta Linux ($tag)"
+            echo ""
+            for z in python_backend/dist/paraformer_server_linux.zip; do
+              [[ -f "$z" ]] || continue
+              echo "- **$(basename "$z")** — $(stat -c%s "$z") bytes — sha256 \`$(sha256sum "$z" | cut -d' ' -f1)\`"
+            done
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publicar Release com o zip
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.tag || github.ref_name }}
+          name: Motores de Escuta Linux ${{ github.event.inputs.tag || github.ref_name }}
+          files: |
+            python_backend/dist/paraformer_server_linux.zip
+          fail_on_unmatched_files: true
+
+      - name: Atualizar o manifesto (artefatos_stt_linux.json)
+        run: |
+          tag='${{ github.event.inputs.tag || github.ref_name }}'
+          # A release foi buildada na tag (HEAD destacado). Volta para a ponta do branch padrão, onde o
+          # manifesto é commitado, para o app passar a apontar aos motores recém-publicados. Usa
+          # FETCH_HEAD (sempre setado pelo fetch) em vez de origin/main, que pode não ter sido
+          # atualizado pelo checkout.
+          git fetch origin main --depth=1
+          git checkout -B main FETCH_HEAD
+          # Recalcula sha256 + tamanho do zip e reescreve o JSON embutido (fonte dos campos
+          # voláteis) — sem BOM, que o json.Unmarshal do Go não tolera (jq nunca escreve BOM).
+          artefatos='{}'
+          for nome in paraformer_server_linux.zip; do
+            caminho="python_backend/dist/$nome"
+            if [[ ! -f "$caminho" ]]; then
+              echo "artefato ausente para o manifesto: $caminho" >&2
+              exit 1
+            fi
+            sha="$(sha256sum "$caminho" | cut -d' ' -f1)"
+            tam="$(stat -c%s "$caminho")"
+            artefatos="$(jq --arg n "$nome" --arg s "$sha" --argjson t "$tam" \
+              '.[$n] = {sha256: $s, tamanhoBytes: $t}' <<<"$artefatos")"
+          done
+          jq -n --arg tag "$tag" --argjson artefatos "$artefatos" \
+            '{tag: $tag, artefatos: $artefatos}' > wails_app/motoresstt/artefatos_stt_linux.json
+
+      - name: Validar o manifesto (go test)
+        working-directory: wails_app
+        # Rodando no Ubuntu, o pacote carrega exatamente o artefatos_stt_linux.json recém-escrito
+        # (a escolha do manifesto é por runtime.GOOS — ver motoresstt/manifesto.go).
+        run: go test ./motoresstt/...
+
+      - name: Commitar o manifesto atualizado no main
+        run: |
+          tag='${{ github.event.inputs.tag || github.ref_name }}'
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add wails_app/motoresstt/artefatos_stt_linux.json
+          if git diff --cached --quiet; then
+            echo 'Manifesto de escuta Linux já estava atualizado; nada a commitar.'
+          else
+            git commit -m "chore(motores): aponta manifesto de escuta Linux para $tag [skip ci]"
+            git push origin main
+          fi
+
+      - name: Disparar workflow do app Linux
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publicar-app-linux.yml --ref main

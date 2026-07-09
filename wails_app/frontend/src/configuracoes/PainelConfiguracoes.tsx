@@ -1,8 +1,9 @@
 // ----- Seção: Configurações — casca do painel (modal, sidebar de abas e busca) -----
-// O conteúdo de cada aba vive em abas/Aba*.tsx; helpers compartilhados em comum.tsx.
+// O conteúdo de cada aba vive em abas/Aba*.tsx; helpers só de configurações em comum.tsx e os
+// compartilhados com outras seções em ../comum/.
 import { CSSProperties } from 'react';
+import './configuracoes.css';
 import { config, main } from '../../wailsjs/go/models';
-import { ProgressoPreCacheTts } from './comum';
 import { AbaGeral } from './abas/AbaGeral';
 import { AbaEstudo } from './abas/AbaEstudo';
 import { AbaMotores } from './abas/AbaMotores';
@@ -11,6 +12,9 @@ import { AbaAtalhos } from './abas/AbaAtalhos';
 import { AbaTraducao } from './abas/AbaTraducao';
 import { AbaArmazenamento } from './abas/AbaArmazenamento';
 import { AbaInfo } from './abas/AbaInfo';
+import { useCatalogos } from './useCatalogos';
+import { useArmazenamento } from './useArmazenamento';
+import { useNuvem } from '../nuvem/useNuvem';
 
 // Abas comuns da sidebar, na ordem de exibição (a aba Info tem botão próprio, com estilo especial).
 const ABAS_SIDEBAR = [
@@ -37,47 +41,20 @@ interface PainelConfiguracoesProps {
     infoHardware: main.SystemHardware | null;
     resCaptura: main.Resolucao | null;
     monitores: any[];
-    modelos: main.ModeloOcrInfo[];
-    progressoModelo: Record<string, string>;
-    baixandoModelo: string | null;
-    infoArmazenamento: main.StorageInfo | null;
     infoCotaTraducao: main.InfoCotaTraducao | null;
     infoCotaGemini: main.InfoCotaGemini | null;
-    armazenamentoOcupado: boolean;
-    BaixarModeloOcr: (nome: string) => void;
-    RemoverModeloOcr: (nome: string) => void;
-    trocarModelo: (nome: string) => void;
-    LimparCategoriaArmazenamento: (chave: string) => void;
-    ExcluirTodoArmazenamento: () => void;
-    ehCpuNome: (hw: string) => boolean;
-    motores: main.MotorOcrInfo[];
-    progressoMotor: Record<string, string>;
-    baixandoMotor: string | null;
-    trocandoMotor: string | null;
-    BaixarMotorOcr: (nome: string) => void;
-    RemoverMotorOcr: (nome: string) => void;
-    TrocarMotorOcr: (nome: string) => void;
-    motoresTts: main.MotorTtsInfo[];
-    progressoMotorTts: Record<string, string>;
-    baixandoMotorTts: string | null;
-    BaixarMotorVoz: (nome: string) => void;
-    RemoverMotorVoz: (nome: string) => void;
-    progressoPreCacheTts: ProgressoPreCacheTts | null;
-    PreCarregarAudioTts: () => void;
-    PararPreCarregarAudioTts: () => void;
+    // Objetos inteiros dos hooks já extraídos — evita espalhar dezenas de props individuais.
+    catalogos: ReturnType<typeof useCatalogos>;
+    armazenamento: ReturnType<typeof useArmazenamento>;
+    nuvem: ReturnType<typeof useNuvem>;
 }
 
 export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
     const {
         painelConfigAberto, setPainelConfigAberto, configuracoesApp, AtualizarConfiguracao, AplicarConfiguracao, setConfirmacao,
         abaConfiguracao, setAbaConfiguracao, termoBusca, setTermoBusca, infoHardware,
-        resCaptura, monitores, modelos, progressoModelo, baixandoModelo,
-        infoArmazenamento, infoCotaTraducao, infoCotaGemini, armazenamentoOcupado, BaixarModeloOcr, RemoverModeloOcr, trocarModelo,
-        LimparCategoriaArmazenamento, ExcluirTodoArmazenamento,
-        ehCpuNome,
-        motores, progressoMotor, baixandoMotor, trocandoMotor, BaixarMotorOcr, RemoverMotorOcr, TrocarMotorOcr,
-        motoresTts, progressoMotorTts, baixandoMotorTts, BaixarMotorVoz, RemoverMotorVoz,
-        progressoPreCacheTts, PreCarregarAudioTts, PararPreCarregarAudioTts
+        resCaptura, monitores, infoCotaTraducao, infoCotaGemini,
+        catalogos, armazenamento, nuvem,
     } = props;
 
     if (!painelConfigAberto || !configuracoesApp) return null;
@@ -165,28 +142,33 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                     AplicarConfiguracao={AplicarConfiguracao}
                     setConfirmacao={setConfirmacao}
                     infoHardware={infoHardware}
-                    ehCpuNome={ehCpuNome}
-                    motores={motores}
-                    progressoMotor={progressoMotor}
-                    baixandoMotor={baixandoMotor}
-                    trocandoMotor={trocandoMotor}
-                    BaixarMotorOcr={BaixarMotorOcr}
-                    RemoverMotorOcr={RemoverMotorOcr}
-                    TrocarMotorOcr={TrocarMotorOcr}
-                    modelos={modelos}
-                    progressoModelo={progressoModelo}
-                    baixandoModelo={baixandoModelo}
-                    BaixarModeloOcr={BaixarModeloOcr}
-                    RemoverModeloOcr={RemoverModeloOcr}
-                    trocarModelo={trocarModelo}
-                    motoresTts={motoresTts}
-                    progressoMotorTts={progressoMotorTts}
-                    baixandoMotorTts={baixandoMotorTts}
-                    BaixarMotorVoz={BaixarMotorVoz}
-                    RemoverMotorVoz={RemoverMotorVoz}
-                    progressoPreCacheTts={progressoPreCacheTts}
-                    PreCarregarAudioTts={PreCarregarAudioTts}
-                    PararPreCarregarAudioTts={PararPreCarregarAudioTts}
+                    ehCpuNome={catalogos.ehCpuNome}
+                    motores={catalogos.motores}
+                    progressoMotor={catalogos.progressoMotor}
+                    baixandoMotor={catalogos.baixandoMotor}
+                    trocandoMotor={catalogos.trocandoMotor}
+                    BaixarMotorOcr={catalogos.BaixarMotorOcr}
+                    RemoverMotorOcr={catalogos.RemoverMotorOcr}
+                    TrocarMotorOcr={catalogos.TrocarMotorOcr}
+                    modelos={catalogos.modelos}
+                    progressoModelo={catalogos.progressoModelo}
+                    baixandoModelo={catalogos.baixandoModelo}
+                    BaixarModeloOcr={catalogos.BaixarModeloOcr}
+                    RemoverModeloOcr={catalogos.RemoverModeloOcr}
+                    trocarModelo={catalogos.trocarModelo}
+                    motoresTts={catalogos.motoresTts}
+                    progressoMotorTts={catalogos.progressoMotorTts}
+                    baixandoMotorTts={catalogos.baixandoMotorTts}
+                    BaixarMotorVoz={catalogos.BaixarMotorVoz}
+                    RemoverMotorVoz={catalogos.RemoverMotorVoz}
+                    progressoPreCacheTts={catalogos.progressoPreCacheTts}
+                    PreCarregarAudioTts={catalogos.PreCarregarAudioTts}
+                    PararPreCarregarAudioTts={catalogos.PararPreCarregarAudioTts}
+                    motoresStt={catalogos.motoresStt}
+                    progressoMotorStt={catalogos.progressoMotorStt}
+                    baixandoMotorStt={catalogos.baixandoMotorStt}
+                    BaixarMotorEscuta={catalogos.BaixarMotorEscuta}
+                    RemoverMotorEscuta={catalogos.RemoverMotorEscuta}
                   />
                 </div>
 
@@ -221,11 +203,19 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                 <div style={estiloAba('Armazenamento')}>
                   <AbaArmazenamento
                     termoBusca={termoBusca}
-                    infoArmazenamento={infoArmazenamento}
-                    armazenamentoOcupado={armazenamentoOcupado}
+                    infoArmazenamento={armazenamento.infoArmazenamento}
+                    armazenamentoOcupado={armazenamento.armazenamentoOcupado}
                     setConfirmacao={setConfirmacao}
-                    LimparCategoriaArmazenamento={LimparCategoriaArmazenamento}
-                    ExcluirTodoArmazenamento={ExcluirTodoArmazenamento}
+                    configuracoesApp={configuracoesApp}
+                    AtualizarConfiguracao={AtualizarConfiguracao}
+                    LimparCategoriaArmazenamento={armazenamento.LimparCategoriaArmazenamento}
+                    ExcluirTodoArmazenamento={armazenamento.ExcluirTodoArmazenamento}
+                    infoNuvem={nuvem.infoNuvem}
+                    nuvemOcupada={nuvem.nuvemOcupada}
+                    ConectarNuvemDrive={nuvem.ConectarNuvemDrive}
+                    SincronizarNuvemDrive={nuvem.SincronizarNuvemDrive}
+                    DesconectarNuvemDrive={nuvem.DesconectarNuvemDrive}
+                    abrirConflitoNuvem={nuvem.abrirConflitoNuvem}
                   />
                 </div>
 

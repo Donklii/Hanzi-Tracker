@@ -14,6 +14,8 @@ e como o app baixa e confia neles.
 | **OCR (Linux)** | [publicar-motores-ocr-linux.yml](../.github/workflows/publicar-motores-ocr-linux.yml) | [builds/build_sidecars_ocr_linux.sh](../builds/build_sidecars_ocr_linux.sh) | `motores-ocr-linux-v*` | [motoresocr/artefatos_ocr_linux.json](../wails_app/motoresocr/artefatos_ocr_linux.json) | `ocr_server_linux.zip`, `easyocr_server_linux.zip` |
 | **Voz/TTS (Windows)** | [publicar-motores-tts-windows.yml](../.github/workflows/publicar-motores-tts-windows.yml) | [builds/build_sidecars_tts_windows.ps1](../builds/build_sidecars_tts_windows.ps1) | `motores-tts-windows-v*` | [motorestts/artefatos_tts.json](../wails_app/motorestts/artefatos_tts.json) | `kokoro_server.zip`, `chattts_server.zip` |
 | **Voz/TTS (Linux)** | [publicar-motores-tts-linux.yml](../.github/workflows/publicar-motores-tts-linux.yml) | [builds/build_sidecars_tts_linux.sh](../builds/build_sidecars_tts_linux.sh) | `motores-tts-linux-v*` | [motorestts/artefatos_tts_linux.json](../wails_app/motorestts/artefatos_tts_linux.json) | `kokoro_server_linux.zip`, `chattts_server_linux.zip` |
+| **Escuta/STT (Windows)** | [publicar-motores-stt-windows.yml](../.github/workflows/publicar-motores-stt-windows.yml) | [builds/build_sidecars_stt_windows.ps1](../builds/build_sidecars_stt_windows.ps1) | `motores-stt-windows-v*` | [motoresstt/artefatos_stt.json](../wails_app/motoresstt/artefatos_stt.json) | `paraformer_server.zip` |
+| **Escuta/STT (Linux)** | [publicar-motores-stt-linux.yml](../.github/workflows/publicar-motores-stt-linux.yml) | [builds/build_sidecars_stt_linux.sh](../builds/build_sidecars_stt_linux.sh) | `motores-stt-linux-v*` | [motoresstt/artefatos_stt_linux.json](../wails_app/motoresstt/artefatos_stt_linux.json) | `paraformer_server_linux.zip` |
 
 Cada workflow congela os seus sidecars no runner do SO correspondente, cria a Release com os assets
 anexados **e atualiza o manifesto sozinho** — basta empurrar a tag correspondente. As tags são
@@ -25,10 +27,12 @@ tabela (particularidades do Linux na seção [Motores para Linux](#motores-para-
 
 > **Manifesto = catálogo (Go) + dados voláteis (JSON).** Os rótulos, descrições e o nome do `.exe` de
 > cada motor vivem no Go ([motoresocr/manifesto.go](../wails_app/motoresocr/manifesto.go),
-> [motorestts/manifesto.go](../wails_app/motorestts/manifesto.go)). O que **muda a cada release** — a
+> [motorestts/manifesto.go](../wails_app/motorestts/manifesto.go),
+> [motoresstt/manifesto.go](../wails_app/motoresstt/manifesto.go)). O que **muda a cada release** — a
 > tag embutida na URL, o `sha256` e o tamanho de cada zip — fica num JSON à parte
-> (`artefatos_ocr.json` / `artefatos_tts.json`), embutido no binário via `go:embed` e injetado no
-> catálogo por um `init()`. É esse JSON, e só ele, que o CI reescreve e commita a cada publicação.
+> (`artefatos_ocr.json` / `artefatos_tts.json` / `artefatos_stt.json`), embutido no binário via
+> `go:embed` e injetado no catálogo por um `init()`. É esse JSON, e só ele, que o CI reescreve e
+> commita a cada publicação.
 
 > Por isso o `.gitignore` já ignora `*.exe`, `dist/` e `build_env/`: os binários **não** entram no
 > histórico do Git. O que entra no Git é o **código** (specs, script, workflow) e o **manifesto** (que

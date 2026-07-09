@@ -1,6 +1,7 @@
 // ----- Seção: Estudos -----
 import { progresso } from '../../wailsjs/go/models';
 import { ListaCartoes } from '../comum/ListaCartoes';
+import { STATUS_VOCABULARIO } from '../comum/status';
 
 interface AbaEstudosProps {
   abaAtiva: string;
@@ -31,14 +32,14 @@ export function AbaEstudos(props: AbaEstudosProps) {
           AoSairDoCartao={AoSairDoCartao} 
           AoClicarNoCartao={AoClicarNoCartao} 
           list={estudando} 
-          defaultStatus='estudo' 
+          defaultStatus={STATUS_VOCABULARIO.Estudo} 
           ocultarBadgeTipo={ocultarBadgeTipo}
           actionBtns={(c) => (
             <>
-              <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px', backgroundColor: '#4caf50', flex: 1}} onClick={() => SalvarPalavra(c, 'aprendido')}>
+              <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px', backgroundColor: '#4caf50', flex: 1}} onClick={() => SalvarPalavra(c, STATUS_VOCABULARIO.Aprendido)}>
                 Aprendi
               </button>
-              <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px', backgroundColor: '#f44336', flex: 1}} onClick={() => SalvarPalavra(c, 'visto')}>
+              <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px', backgroundColor: '#f44336', flex: 1}} onClick={() => SalvarPalavra(c, STATUS_VOCABULARIO.Visto)}>
                 Remover
               </button>
             </>
@@ -53,10 +54,10 @@ export function AbaEstudos(props: AbaEstudosProps) {
           AoSairDoCartao={AoSairDoCartao} 
           AoClicarNoCartao={AoClicarNoCartao} 
           list={aprendidas} 
-          defaultStatus='aprendido' 
+          defaultStatus={STATUS_VOCABULARIO.Aprendido} 
           ocultarBadgeTipo={ocultarBadgeTipo}
           actionBtns={(c) => (
-            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px', backgroundColor: '#f44336'}} onClick={() => SalvarPalavra(c, 'estudo')}>
+            <button className="scan-btn" style={{padding: '4px 8px', fontSize: '11px', backgroundColor: '#f44336'}} onClick={() => SalvarPalavra(c, STATUS_VOCABULARIO.Estudo)}>
               Reestudar
             </button>
           )} 
