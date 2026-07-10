@@ -2,16 +2,16 @@
   "tag": "motores-ocr-windows-v1",
   "artefatos": {
     "ocr_server.zip": {
-      "sha256": "bd5139349e84ace7c56a4a7e5d48cfd1ef783fd6aa66d0db7acb87bfaf827e11",
-      "tamanhoBytes": 126066039
+      "sha256": "b16ac145abcc21bb6d7b3294be1991aa4969884e2ce210bb014ce4c55385eb08",
+      "tamanhoBytes": 117651728
     },
     "tesseract_server.zip": {
-      "sha256": "288ee3e05669c7ee39062def8e25751bfdcc9760234aeff1aeb58e37f7288a7b",
-      "tamanhoBytes": 104055974
+      "sha256": "83200204e5c7372a186b1b006ee99a5c767fd64a1b8c229b699e74113dcdbe53",
+      "tamanhoBytes": 104055711
     },
     "easyocr_server.zip": {
-      "sha256": "04a94b8ff39cc436db07316812c3877cbf54bdd98dc904f9368073291375306e",
-      "tamanhoBytes": 253367298
+      "sha256": "dd3dc75c8acd29c27c67a57a15c6200bd034cb09d888997b28a2bbec943932d4",
+      "tamanhoBytes": 254589720
     }
   }
 }
