@@ -2,12 +2,12 @@
   "tag": "motores-tts-windows-v1",
   "artefatos": {
     "kokoro_server.zip": {
-      "sha256": "f9c4cced57c27520ce073e972991451ea1572adec8201a4c55602af09ebbb824",
-      "tamanhoBytes": 301261672
+      "sha256": "14041e4baf7c73198e8f55cdf01e03d8fb26b4737ed1c63d978f928db5c87e24",
+      "tamanhoBytes": 302673451
     },
     "chattts_server.zip": {
-      "sha256": "00ffa187c7649d2db5b54cd54e51522324947efc457752b67037d9fc0d312e54",
-      "tamanhoBytes": 282233468
+      "sha256": "b378f17be3a6da8e43bec72d9180bec65a0df029e04fd743d45ba44d2c494a19",
+      "tamanhoBytes": 283614477
     }
   }
 }
