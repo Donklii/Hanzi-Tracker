@@ -38,18 +38,34 @@ type MotorSttBaixavel struct {
 // vêm de artefatos_stt*.json, injetados por init — ver a seção no fim do arquivo):
 //   - Paraformer-ZH: reconhecimento de mandarim do FunASR rodando em onnxruntime via sherpa-onnx —
 //     preciso em frases e em caracteres isolados, rápido em CPU e sem torch (sidecar leve). Também
-//     é ele quem CAPTURA o microfone (a webview não tem acesso ao microfone no Linux).
+//     é ele quem CAPTURA o microfone (a webview não tem acesso ao microfone no Linux). É offline
+//     (não-streaming): os parciais em tempo real saem re-decodificando o áudio acumulado a cada
+//     consulta de /api/stt/parcial.
+//   - Zipformer-ZH-Streaming: reconhecimento de mandarim GENUINAMENTE streaming (transducer do
+//     sherpa-onnx) — o fluxo de decodificação mantém estado e cada parcial custa só o trecho novo
+//     de áudio, com latência menor e CPU constante. Em troca, tende a ser menos preciso que o
+//     Paraformer, principalmente em caracteres isolados.
 var MotoresSttBaixaveis = map[string]MotorSttBaixavel{
 	"Paraformer-ZH": {
 		Nome:   "Paraformer-ZH",
 		Rotulo: "Paraformer-ZH (Mandarim)",
-		Descricao: "Motor de reconhecimento de fala em mandarim (FunASR/sherpa-onnx), rápido em CPU. " +
+		Descricao: "Motor de reconhecimento de fala em mandarim (FunASR/sherpa-onnx), rápido em CPU e o mais preciso do catálogo — inclusive em caracteres isolados. " +
 			"Baixa ~240 MB de pesos do Hugging Face no primeiro uso.",
 		Versao:     "1.0.0",
 		Requisitos: "Baixa ~240 MB de pesos na primeira transcrição.",
 		Executavel: baixador.NomeExecutavelSo("paraformer_server"),
 		// Url/Sha256/TamanhoBytes são injetados por init() a partir do artefatos_stt*.json do SO (ver abaixo).
 		Artefato: baixador.ArtefatoBaixavel{Nome: baixador.NomeZipArtefatoSo("paraformer_server")},
+	},
+	"Zipformer-ZH-Streaming": {
+		Nome:   "Zipformer-ZH-Streaming",
+		Rotulo: "Zipformer-ZH Streaming (Mandarim, tempo real)",
+		Descricao: "Motor de reconhecimento de fala em mandarim genuinamente streaming (sherpa-onnx): a transcrição parcial aparece com latência mínima enquanto você fala. " +
+			"Menos preciso que o Paraformer-ZH em caracteres isolados. Baixa ~50 MB de pesos do Hugging Face no primeiro uso.",
+		Versao:     "1.0.0",
+		Requisitos: "Baixa ~50 MB de pesos na primeira transcrição.",
+		Executavel: baixador.NomeExecutavelSo("zipformer_streaming_server"),
+		Artefato:   baixador.ArtefatoBaixavel{Nome: baixador.NomeZipArtefatoSo("zipformer_streaming_server")},
 	},
 }
 

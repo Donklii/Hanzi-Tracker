@@ -15,9 +15,10 @@ interface OpcoesRevisaoProps {
   aoTocarAudio?: (hanzi: string) => void;
   hanziTocando?: string | null;
   hanziSintetizando?: string | null;
+  vertical?: boolean;
 }
 
-export function OpcoesRevisao({ opcoes, tipoConteudo, respondida, indiceEscolhido, aoEscolher, aoTocarAudio, hanziTocando, hanziSintetizando }: OpcoesRevisaoProps) {
+export function OpcoesRevisao({ opcoes, tipoConteudo, respondida, indiceEscolhido, aoEscolher, aoTocarAudio, hanziTocando, hanziSintetizando, vertical }: OpcoesRevisaoProps) {
   const classesOpcao = (indice: number): string => {
     const classes = ['revisao-opcao'];
     if (tipoConteudo === 'hanzi') classes.push('hanzi');
@@ -26,8 +27,10 @@ export function OpcoesRevisao({ opcoes, tipoConteudo, respondida, indiceEscolhid
     return classes.join(' ');
   };
 
+  const classesWrapper = `revisao-opcoes${vertical ? ' vertical' : ''}`;
+
   return (
-    <div className="revisao-opcoes">
+    <div className={classesWrapper}>
       {opcoes.map((opcao, indice) => (
         <button
           key={indice}

@@ -101,3 +101,69 @@ func TestFecharDbPermiteSubstituirEhReabrirOhArquivo(t *testing.T) {
 		t.Fatalf("esperava o vocabulário do banco substituto, veio %+v", lista)
 	}
 }
+
+func TestEstatisticasESequencias(t *testing.T) {
+	prepararBancoDeTeste(t)
+
+	// Caso de sucesso: incrementando os acertos nas categorias
+	err := AtualizarAcertosSequencia("猫", "māo", "gato", "significado", true)
+	if err != nil {
+		t.Fatalf("Erro ao atualizar acertos: %v", err)
+	}
+	err = AtualizarAcertosSequencia("猫", "māo", "gato", "significado", true)
+	if err != nil {
+		t.Fatalf("Erro ao atualizar acertos: %v", err)
+	}
+
+	stats, err := ObterEstatisticasPalavra("猫")
+	if err != nil {
+		t.Fatalf("Erro ao obter estatísticas: %v", err)
+	}
+	if stats["significado"] != 2 {
+		t.Errorf("Esperava acertos_sequencia_significado = 2, veio %d", stats["significado"])
+	}
+
+	// Caso de falha/reset: errar reseta o streak para 0
+	err = AtualizarAcertosSequencia("猫", "māo", "gato", "significado", false)
+	if err != nil {
+		t.Fatalf("Erro ao atualizar acertos: %v", err)
+	}
+
+	stats, err = ObterEstatisticasPalavra("猫")
+	if err != nil {
+		t.Fatalf("Erro ao obter estatísticas: %v", err)
+	}
+	if stats["significado"] != 0 {
+		t.Errorf("Esperava acertos_sequencia_significado resetado para 0, veio %d", stats["significado"])
+	}
+
+	// Testar sugestões para aprendido
+	// Preenche todas as 5 categorias com streak >= 3
+	categorias := []string{"significado", "fonetica", "desenho", "contexto", "pronuncia"}
+	for _, cat := range categorias {
+		for i := 0; i < 3; i++ {
+			err = AtualizarAcertosSequencia("狗", "gǒu", "cachorro", cat, true)
+			if err != nil {
+				t.Fatalf("Erro ao incrementar categoria %s: %v", cat, err)
+			}
+		}
+	}
+
+	// Outra palavra que não atinge todos os requisitos (só significado)
+	for i := 0; i < 3; i++ {
+		err = AtualizarAcertosSequencia("鸟", "niǎo", "pássaro", "significado", true)
+		if err != nil {
+			t.Fatalf("Erro ao incrementar categoria significado para 鸟: %v", err)
+		}
+	}
+
+	sugestoes, err := ObterSugestoesAprendidoLote([]string{"狗", "鸟"})
+	if err != nil {
+		t.Fatalf("Erro ao obter sugestões: %v", err)
+	}
+
+	// Deve sugerir apenas "狗"
+	if len(sugestoes) != 1 || sugestoes[0].Hanzi != "狗" {
+		t.Errorf("Esperava sugerir apenas a palavra '狗', veio: %+v", sugestoes)
+	}
+}

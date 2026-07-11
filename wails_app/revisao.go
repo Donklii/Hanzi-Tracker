@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math/rand/v2"
+	"sort"
 	"strings"
 	"unicode"
 	"unicode/utf8"
@@ -310,7 +311,7 @@ func varianteParaModoBase(variante string) string {
 	switch variante {
 	case "ordenacao":
 		return ModoOrdenacao
-	case "contexto", "desenho_contexto":
+	case "contexto", "traducao_contexto", "desenho_contexto":
 		return ModoContexto
 	case "pronuncia_frase", "pronuncia_sequencia":
 		return ModoPronuncia
@@ -330,7 +331,7 @@ func assinaturaQuestao(q *QuestaoRevisao) string {
 	if q.Variante == "pronuncia_frase" || q.Variante == "pronuncia_sequencia" {
 		return q.Variante + ":" + q.FraseOriginal
 	}
-	if q.Variante == "contexto" || q.Variante == "desenho_contexto" {
+	if q.Variante == "contexto" || q.Variante == "traducao_contexto" || q.Variante == "desenho_contexto" {
 		return q.Variante + ":" + q.Hanzi + ":" + q.FraseOriginal
 	}
 	return q.Variante + ":" + q.Hanzi
@@ -456,15 +457,21 @@ func (a *App) montarQuestao(modo string, alvo alvoRevisao, candidatos, candEstud
 		}
 
 	case ModoContexto:
-		questao.Variante = "contexto"
+		questao.Variante = sortearVariante("contexto", "traducao_contexto")
 		if !a.preencherFrase(&questao) {
 			return questao, fmt.Errorf("nenhuma frase contém %q", questao.Hanzi)
 		}
-		frase := questao.FraseOriginal
-		questao.Opcoes = montarOpcoes(alvo.entrada, candidatos, candEstudo, candAprendido, func(escolhidas []OpcaoRevisao, candidata dicionario.DecomposicaoHanzi) bool {
-			// Distrator não pode aparecer na frase — estaria "correto" aos olhos do usuário.
-			return distintosPorHanzi(escolhidas, candidata) && !strings.Contains(frase, candidata.Caractere)
-		})
+		if questao.Variante == "contexto" {
+			frase := questao.FraseOriginal
+			questao.Opcoes = montarOpcoes(alvo.entrada, candidatos, candEstudo, candAprendido, func(escolhidas []OpcaoRevisao, candidata dicionario.DecomposicaoHanzi) bool {
+				// Distrator não pode aparecer na frase — estaria "correto" aos olhos do usuário.
+				return distintosPorHanzi(escolhidas, candidata) && !strings.Contains(frase, candidata.Caractere)
+			})
+		} else {
+			if err := a.gerarOpcoesTraducaoContexto(&questao); err != nil {
+				return questao, err
+			}
+		}
 
 	case ModoOrdenacao:
 		questao.Variante = "ordenacao"
@@ -476,9 +483,60 @@ func (a *App) montarQuestao(modo string, alvo alvoRevisao, candidatos, candEstud
 		}
 
 	case ModoPronuncia:
-		questao.Variante = sortearVariante("pronuncia_frase", "pronuncia_sequencia")
-		if !a.preencherFrase(&questao) {
-			return questao, fmt.Errorf("nenhuma frase contém %q", questao.Hanzi)
+		// Sorteia entre "pronuncia_frase", "pronuncia_sequencia" e "pronuncia_baralho"
+		switch rand.IntN(3) {
+		case 0:
+			questao.Variante = "pronuncia_frase"
+		case 1:
+			questao.Variante = "pronuncia_sequencia"
+		default:
+			questao.Variante = "pronuncia_baralho"
+		}
+
+		if questao.Variante == "pronuncia_baralho" {
+			var pool []dicionario.DecomposicaoHanzi
+			if a.Config.PriorizarEstudoRevisao && len(candEstudo) > 0 {
+				pool = append(pool, candEstudo...)
+			}
+			pool = append(pool, candAprendido...)
+			if len(pool) < 6 {
+				pool = append(pool, candidatos...)
+			}
+
+			rand.Shuffle(len(pool), func(i, j int) {
+				pool[i], pool[j] = pool[j], pool[i]
+			})
+
+			selecionadas := []dicionario.DecomposicaoHanzi{alvo.entrada}
+			usadas := map[string]bool{alvo.entrada.Caractere: true}
+
+			for _, entry := range pool {
+				if len(selecionadas) >= 6 {
+					break
+				}
+				if !usadas[entry.Caractere] && entry.Caractere != "" && len(entry.Pinyin) > 0 {
+					selecionadas = append(selecionadas, entry)
+					usadas[entry.Caractere] = true
+				}
+			}
+
+			questao.FraseOriginalSegmentada = make([]PalavraRevisao, len(selecionadas))
+			for i, entry := range selecionadas {
+				pinyinVal := ""
+				if len(entry.Pinyin) > 0 {
+					pinyinVal = entry.Pinyin[0]
+				}
+				questao.FraseOriginalSegmentada[i] = PalavraRevisao{
+					Texto:        entry.Caractere,
+					Pinyin:       pinyinVal,
+					Significados: []string{entry.Definicao},
+					EhChines:     true,
+				}
+			}
+		} else {
+			if !a.preencherFrase(&questao) {
+				return questao, fmt.Errorf("nenhuma frase contém %q", questao.Hanzi)
+			}
 		}
 
 	default:
@@ -486,8 +544,14 @@ func (a *App) montarQuestao(modo string, alvo alvoRevisao, candidatos, candEstud
 	}
 
 	precisaOpcoes := modo == ModoSignificado || modo == ModoFonetica || modo == ModoContexto
-	if precisaOpcoes && len(questao.Opcoes) != 4 {
-		return questao, fmt.Errorf("não há distratores suficientes para %q", questao.Hanzi)
+	if precisaOpcoes {
+		limiteOpcoes := 4
+		if questao.Variante == "traducao_contexto" {
+			limiteOpcoes = 3
+		}
+		if len(questao.Opcoes) != limiteOpcoes {
+			return questao, fmt.Errorf("não há distratores suficientes para %q (modo %s, variante %s)", questao.Hanzi, questao.Modo, questao.Variante)
+		}
 	}
 	return questao, nil
 }
@@ -638,7 +702,7 @@ func (a *App) preencherFrase(questao *QuestaoRevisao) bool {
 	questao.FraseOculta = oculta.String()
 
 	// Segmenta a frase para habilitar o popup de tooltip por palavra no frontend
-	questao.FraseOriginalSegmentada = a.decomporTextoRevisao(questao.FraseOriginal)
+	questao.FraseOriginalSegmentada = a.DecomporTextoRevisao(questao.FraseOriginal)
 
 	// Cria a versão com lacuna baseada na segmentada original
 	questao.FraseLacunaSegmentada = make([]PalavraRevisao, len(questao.FraseOriginalSegmentada))
@@ -656,7 +720,7 @@ func (a *App) preencherFrase(questao *QuestaoRevisao) bool {
 }
 
 // decomporTextoRevisao segmenta uma frase e preenche pinyin/significado dos tokens chineses.
-func (a *App) decomporTextoRevisao(texto string) []PalavraRevisao {
+func (a *App) DecomporTextoRevisao(texto string) []PalavraRevisao {
 	tokensRaw := segmentacao.SegmentarTodosTokens(texto)
 	var resultado []PalavraRevisao
 
@@ -1012,5 +1076,106 @@ func (a *App) gerarPilhaOrdenacao(questao *QuestaoRevisao, candidatos []dicionar
 	})
 
 	questao.PilhaOrdenacao = pilha
+	return nil
+}
+
+// gerarOpcoesTraducaoContexto gera 3 alternativas para o modo de tradução por contexto (1 correta e 2 distratores).
+// Os distratores são traduções de frases que compartilham a maior quantidade de hanzis possível com a frase original.
+func (a *App) gerarOpcoesTraducaoContexto(questao *QuestaoRevisao) error {
+	frases := a.BancoFrases.ObterTodasFrases()
+	if len(frases) < 3 {
+		return fmt.Errorf("não há frases suficientes no banco de dados para gerar distratores")
+	}
+
+	hanzisAlvo := make(map[rune]bool)
+	for _, r := range questao.FraseOriginal {
+		if unicode.Is(unicode.Han, r) {
+			hanzisAlvo[r] = true
+		}
+	}
+
+	type candidatoDistrator struct {
+		frase          dicionario.Frase
+		compartilhados int
+	}
+
+	var candidatos []candidatoDistrator
+
+	for _, f := range frases {
+		if f.Chines == questao.FraseOriginal || f.Ingles == questao.FraseTraducao {
+			continue
+		}
+
+		compartilhados := 0
+		vistos := make(map[rune]bool)
+		for _, r := range f.Chines {
+			if !unicode.Is(unicode.Han, r) || vistos[r] {
+				continue
+			}
+			vistos[r] = true
+			if hanzisAlvo[r] {
+				compartilhados++
+			}
+		}
+
+		candidatos = append(candidatos, candidatoDistrator{
+			frase:          f,
+			compartilhados: compartilhados,
+		})
+	}
+
+	if len(candidatos) < 2 {
+		return fmt.Errorf("não há frases candidatas suficientes para gerar os distratores")
+	}
+
+	// Embaralha para que os empates em número de hanzis compartilhados tenham chances iguais de seleção
+	rand.Shuffle(len(candidatos), func(i, j int) {
+		candidatos[i], candidatos[j] = candidatos[j], candidatos[i]
+	})
+
+	// Ordenação estável decrescente pelo número de hanzis compartilhados
+	sort.SliceStable(candidatos, func(i, j int) bool {
+		return candidatos[i].compartilhados > candidatos[j].compartilhados
+	})
+
+	tipoExibicao := a.Config.TipoHanziExibicao
+
+	// Monta as 3 opções
+	opcaoCorreta := OpcaoRevisao{
+		Hanzi:     questao.FraseOriginal,
+		Definicao: questao.FraseTraducao,
+		Correta:   true,
+	}
+
+	distrator1 := candidatos[0].frase
+	textoDist1 := distrator1.Chines
+	if tipoExibicao == "simplificado" || tipoExibicao == "tradicional" {
+		textoDist1 = a.Cedict.ConverterTexto(textoDist1, tipoExibicao)
+	}
+	opcaoDist1 := OpcaoRevisao{
+		Hanzi:     textoDist1,
+		Definicao: distrator1.Ingles,
+		Correta:   false,
+	}
+
+	distrator2 := candidatos[1].frase
+	textoDist2 := distrator2.Chines
+	if tipoExibicao == "simplificado" || tipoExibicao == "tradicional" {
+		textoDist2 = a.Cedict.ConverterTexto(textoDist2, tipoExibicao)
+	}
+	opcaoDist2 := OpcaoRevisao{
+		Hanzi:     textoDist2,
+		Definicao: distrator2.Ingles,
+		Correta:   false,
+	}
+
+	opcoes := []OpcaoRevisao{opcaoCorreta, opcaoDist1, opcaoDist2}
+
+	// Embaralha as 3 opções da questão
+	rand.Shuffle(len(opcoes), func(i, j int) {
+		opcoes[i], opcoes[j] = opcoes[j], opcoes[i]
+	})
+
+	questao.Opcoes = opcoes
 	return nil
 }

@@ -47,12 +47,19 @@ type respostaHealth struct {
 
 // EnderecoBase devolve a base URL do microserviço. A porta vem da env do serviço (definida pelo
 // orquestrador ou por ResolverPorta); a PortaFallback só vale para execução avulsa.
+//
+// Usa 127.0.0.1 (loopback IPv4 explícito), NÃO "localhost". Os sidecars Python sobem via
+// http.server.HTTPServer, que escuta só em IPv4 (address_family = AF_INET, bind em 0.0.0.0). Em
+// muitas máquinas Windows "localhost" resolve para o IPv6 ::1 primeiro, então o Go discava
+// [::1]:porta e levava "connection refused" (o Python não escuta em IPv6) — o erro que aparecia na
+// versão instalada. 127.0.0.1 casa exatamente com o que o Python escuta e elimina a ambiguidade de
+// resolução de nome/família de endereço.
 func (s Servico) EnderecoBase() string {
 	porta := os.Getenv(s.EnvPorta)
 	if porta == "" {
 		porta = strconv.Itoa(s.PortaFallback)
 	}
-	return "http://localhost:" + porta
+	return "http://127.0.0.1:" + porta
 }
 
 // AguardarBackend aguarda o backend responder GET /api/health com status "ok" e um contrato

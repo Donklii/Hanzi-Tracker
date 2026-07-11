@@ -48,7 +48,7 @@ jobs:
           {
             echo "## sha256 dos motores de escuta Linux ($tag)"
             echo ""
-            for z in python_backend/dist/paraformer_server_linux.zip; do
+            for z in python_backend/dist/paraformer_server_linux.zip python_backend/dist/zipformer_streaming_server_linux.zip; do
               [[ -f "$z" ]] || continue
               echo "- **$(basename "$z")** — $(stat -c%s "$z") bytes — sha256 \`$(sha256sum "$z" | cut -d' ' -f1)\`"
             done
@@ -61,6 +61,7 @@ jobs:
           name: Motores de Escuta Linux ${{ github.event.inputs.tag || github.ref_name }}
           files: |
             python_backend/dist/paraformer_server_linux.zip
+            python_backend/dist/zipformer_streaming_server_linux.zip
           fail_on_unmatched_files: true
 
       - name: Atualizar o manifesto (artefatos_stt_linux.json)
@@ -75,7 +76,7 @@ jobs:
           # Recalcula sha256 + tamanho do zip e reescreve o JSON embutido (fonte dos campos
           # voláteis) — sem BOM, que o json.Unmarshal do Go não tolera (jq nunca escreve BOM).
           artefatos='{}'
-          for nome in paraformer_server_linux.zip; do
+          for nome in paraformer_server_linux.zip zipformer_streaming_server_linux.zip; do
             caminho="python_backend/dist/$nome"
             if [[ ! -f "$caminho" ]]; then
               echo "artefato ausente para o manifesto: $caminho" >&2

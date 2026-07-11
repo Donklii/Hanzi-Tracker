@@ -97,6 +97,51 @@ def testarProgressoEhEmitidoNaCargaENaTranscricao(servicoFalso):
     assert len(mensagens) == 2  # carregando modelo + transcrevendo
 
 
+# ----- Parciais em tempo real (TranscreverParcial) -----
+
+def _simularGravacaoEmAndamento(servico, amostras):
+    # TranscreverParcial só exige um fluxo de entrada não-None e blocos acumulados — em teste,
+    # qualquer objeto marca "capturando" sem tocar em dispositivo de áudio nenhum.
+    servico._fluxo_entrada = object()
+    servico._blocosGravados = [amostras]
+
+
+def testarParcialTranscreveDuranteAGravacao(servicoFalso):
+    servicoFalso.PrepararModelo()
+    _simularGravacaoEmAndamento(servicoFalso, _amostrasDeFala())
+    assert servicoFalso.TranscreverParcial() == "你好"
+
+
+def testarParcialSemGravacaoDevolveVazio(servicoFalso):
+    servicoFalso.PrepararModelo()
+    assert servicoFalso.TranscreverParcial() == ""
+
+
+def testarParcialNaoCarregaOModelo(servicoFalso):
+    # Parcial nunca paga a carga do modelo (potencial download de minutos) — isso é papel do
+    # /preparar e do /parar; enquanto isso ele devolve vazio.
+    _simularGravacaoEmAndamento(servicoFalso, _amostrasDeFala())
+    assert servicoFalso.TranscreverParcial() == ""
+    assert servicoFalso.inicializacoes == 0
+
+
+def testarParcialComModeloOcupadoDevolveVazio(servicoFalso):
+    servicoFalso.PrepararModelo()
+    _simularGravacaoEmAndamento(servicoFalso, _amostrasDeFala())
+    # Outra thread (um /parar em andamento) segura o lock do modelo: o parcial pula o tick.
+    with servicoFalso._lock:
+        assert servicoFalso.TranscreverParcial() == ""
+
+
+def testarParcialNoModoDeTesteDevolveVazio():
+    testandoOriginal = ConstantesModule.TESTANDO
+    ConstantesModule.TESTANDO = True
+    try:
+        assert ServicoSttFalso().TranscreverParcial() == ""
+    finally:
+        ConstantesModule.TESTANDO = testandoOriginal
+
+
 # ----- Mock de testes (TESTANDO=True): sem modelo nem microfone -----
 
 def testarModoDeTesteNaoCarregaModelo():

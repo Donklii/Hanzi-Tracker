@@ -3,16 +3,18 @@
 Este documento define o **contrato HTTP** que qualquer motor de escuta (reconhecimento de fala da
 revisão de pronúncia) do Hanzi Tracker deve cumprir. A implementação é ÚNICA e compartilhada:
 `python_backend/principal/ServidorSttModule.py` sobe o servidor do contrato, e cada motor é um
-*entry* fino que injeta nele o seu serviço — `paraformer_server.py` (**Paraformer-ZH**). Cada um
-vira um **sidecar** (executável autônomo) que fala exatamente este mesmo contrato, de forma que o
-app (Go) conversa com qualquer motor sem saber o que há por trás. Espelha os contratos de OCR e de
-TTS (ver `CONTRATO-OCR.md` / `CONTRATO-TTS.md`).
+*entry* fino que injeta nele o seu serviço — `paraformer_server.py` (**Paraformer-ZH**, offline) e
+`zipformer_streaming_server.py` (**Zipformer-ZH-Streaming**, streaming de verdade). Cada um vira um
+**sidecar** (executável autônomo) que fala exatamente este mesmo contrato, de forma que o app (Go)
+conversa com qualquer motor sem saber o que há por trás. Espelha os contratos de OCR e de TTS (ver
+`CONTRATO-OCR.md` / `CONTRATO-TTS.md`).
 
 > **Versão do contrato:** `1`. O número está em `VERSAO_CONTRATO_STT` (Python,
 > `ServidorSttModule.py`) e em `VersaoContrato` (Go, `motoresstt/motoresstt.go`) — os dois devem
 > casar. Incremente-o ao fazer qualquer mudança **quebrável** (novo/removido endpoint ou formato de
 > requisição/resposta). O app recusa um sidecar cujo `versaoContrato` seja **maior** do que o que
-> ele entende.
+> ele entende. O `/api/stt/parcial` foi ADITIVO e não exigiu bump: o app trata `404` como "motor
+> antigo, sem parciais" e degrada em silêncio.
 
 ## Por que a gravação acontece NO SIDECAR
 
@@ -20,8 +22,9 @@ A webview do Wails no Linux (WebKitGTK) não implementa a Web Speech API (`Speec
 Wails não habilita `enable-media-stream` — nem `getUserMedia` existe. Então o sidecar é dono das
 DUAS pontas: **captura o microfone** (sounddevice/PortAudio) e **transcreve** (sherpa-onnx). O
 frontend só comanda o push-to-talk: `iniciar` ao pressionar o botão, `parar` ao soltar (devolve o
-texto), `cancelar` para descartar. Quando a webview TEM Web Speech (ex.: navegador), o frontend a
-usa direto e este sidecar nem sobe (ver `useSTT.ts`).
+texto), `cancelar` para descartar. Quando o usuário seleciona a Web Speech em Configurações →
+Motores → Motor de Escuta (e a webview a oferece), o frontend a usa direto e este sidecar nem sobe
+(ver `useSTT.ts`).
 
 ## Transporte
 
@@ -81,6 +84,29 @@ a um `parar` que o frontend perdeu. A captura tem teto de duração
 
 Resposta `200 OK`: `{ "ok": true }` · Falha (ex.: sem microfone): `500` com `{ "error": "<mensagem>" }`.
 
+### `POST /api/stt/parcial`
+
+Transcrição **parcial** do áudio acumulado até agora, **sem parar a captura** — é o que dá os
+parciais em tempo real ao caminho por motor (o app faz *polling* deste endpoint a cada ~900 ms
+durante a escuta, `lacoParcialStt` em `stt.go`, e emite o texto ao frontend via o evento
+`stt_parcial`). *Best-effort* de propósito: devolve `texto` **vazio** sempre que um parcial não
+puder sair agora (nada gravado, modelo ocupado com outro decode ou ainda não carregado — o parcial
+NUNCA dispara a carga/download do modelo) e o tick seguinte tenta de novo. O `/parar` continua
+sendo a transcrição de verdade.
+
+Como o parcial é implementado fica a cargo do serviço de cada motor: o Paraformer-ZH (offline)
+re-decodifica o áudio acumulado inteiro a cada consulta; o Zipformer-ZH-Streaming mantém um fluxo
+de decodificação com estado e alimenta só o trecho novo (custo constante).
+
+Resposta `200 OK`:
+
+```json
+{ "texto": "你好" }
+```
+
+Falha: `500` com `{ "error": "<mensagem>" }`. Num sidecar **antigo** (publicado antes deste
+endpoint) a resposta é `404` — o app interrompe o polling e segue sem parciais.
+
 ### `POST /api/stt/parar`
 
 Para a captura e **transcreve** o que foi gravado (o usuário soltou o botão). A primeira chamada
@@ -110,7 +136,11 @@ Resposta `200 OK`: `{ "ok": true }`.
 
 - O modelo é **descarregado da RAM** após `SEGUNDOS_OCIOSO_DESCARREGAR_STT` (300s) sem uso
   (`ServicoSttBase`), recarregando sob demanda na próxima transcrição.
-- A captura tenta 16 kHz mono (taxa nativa do Paraformer); se o dispositivo não suportar, cai na
-  taxa padrão dele e o sherpa-onnx resampleia na transcrição.
-- Diferente da Web Speech API, **não há transcrição parcial**: o texto chega inteiro na resposta do
-  `parar`. A UI preenche o vão com as mensagens do evento `stt_estado` ("Transcrevendo fala…").
+- A captura tenta 16 kHz mono (taxa nativa dos dois modelos); se o dispositivo não suportar, cai
+  na taxa padrão dele e o sherpa-onnx resampleia na transcrição.
+- O servidor é **multi-thread** (`ThreadingHTTPServer`): o polling de `/parcial` chega DURANTE um
+  `/parar` ou `/preparar` em andamento. A concorrência real é limitada pelos locks do
+  `ServicoSttBase` (modelo + gravação); o parcial adquire o lock do modelo em modo não-bloqueante
+  e devolve vazio quando ele está ocupado.
+- Os parciais chegam ao frontend pelo evento `stt_parcial`; o `stt_estado` segue preenchendo os
+  vãos sem transcrição ("Transcrevendo fala…", carga do modelo etc.).

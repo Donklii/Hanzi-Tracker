@@ -69,3 +69,18 @@ func (a *App) registrarHanzisIndividuais(palavra string) {
 		progresso.RegistrarVisto(caractere, pinyin, strings.Join(significados, ", "))
 	}
 }
+
+// RegistrarRespostaRevisao atualiza as estatísticas de acertos/erros de uma palavra na categoria correspondente.
+func (a *App) RegistrarRespostaRevisao(hanzi, pinyin, significado, categoria string, acertou bool) error {
+	return progresso.AtualizarAcertosSequencia(hanzi, pinyin, significado, categoria, acertou)
+}
+
+// ObterEstatisticasPalavra retorna os acertos em sequência nas 5 categorias para uma palavra.
+func (a *App) ObterEstatisticasPalavra(hanzi string) (map[string]int, error) {
+	return progresso.ObterEstatisticasPalavra(hanzi)
+}
+
+// ObterSugestoesAprendidoLote verifica quais das palavras enviadas atingiram o critério para serem marcadas como aprendidas.
+func (a *App) ObterSugestoesAprendidoLote(hanzis []string) ([]progresso.Vocab, error) {
+	return progresso.ObterSugestoesAprendidoLote(hanzis)
+}

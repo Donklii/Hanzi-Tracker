@@ -4,6 +4,10 @@
     "paraformer_server.zip": {
       "sha256": "d63a8a0ac6e8dced9c433e552313759b645fb48eafdbdf065368ea7c8fb03d73",
       "tamanhoBytes": 40338047
+    },
+    "zipformer_streaming_server.zip": {
+      "sha256": "",
+      "tamanhoBytes": 0
     }
   }
 }

@@ -10,7 +10,7 @@
 import { useEffect, useRef, useState } from 'react';
 import './revisao.css';
 import { main, config } from '../../wailsjs/go/models';
-import { ObterQuestoesRevisao, FalarPinyin } from '../../wailsjs/go/main/App';
+import { ObterQuestoesRevisao, FalarPinyin, RegistrarRespostaRevisao, ObterSugestoesAprendidoLote, AddVocab } from '../../wailsjs/go/main/App';
 import { CanvasDesenho } from '../comum/CanvasDesenho';
 import { SelecaoModoRevisao } from './SelecaoModoRevisao';
 import { OpcoesRevisao } from './OpcoesRevisao';
@@ -48,6 +48,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
   const [mostrarTraducaoFrase, setMostrarTraducaoFrase] = useState(() => {
     return localStorage.getItem('mostrarTraducaoFrase') !== 'false';
   });
+  const [sugestoesAprendido, setSugestoesAprendido] = useState<any[]>([]);
 
   // Gamificação: sequência de acertos (combo), melhor sequência da sessão e pontos acumulados.
   const [sequencia, setSequencia] = useState(0);
@@ -116,11 +117,15 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
       if (acertouAtual === null && ['1', '2', '3', '4'].indexOf(e.key) !== -1) {
         const q = questoes[indiceAtual];
-        const mostrandoOpcoes = q && q.opcoes && q.opcoes.length === 4 &&
+        const numOpcoes = q?.opcoes?.length || 0;
+        const mostrandoOpcoes = q && numOpcoes > 0 &&
           q.modo !== 'desenho' && !(q.variante === 'contexto' && respondendoComDesenho);
         if (mostrandoOpcoes) {
-          e.preventDefault();
-          escolherOpcao(parseInt(e.key) - 1);
+          const keyNum = parseInt(e.key);
+          if (keyNum <= numOpcoes) {
+            e.preventDefault();
+            escolherOpcao(keyNum - 1);
+          }
         }
       }
     }
@@ -135,9 +140,9 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
     if (fase === 'sessao' && questoes[indiceAtual]) {
       const q = questoes[indiceAtual];
       let textoParaPrecarregar = '';
-      if (q.variante === 'contexto' || q.variante === 'desenho_contexto' || q.variante === 'ordenacao' || q.variante === 'pronuncia_frase' || q.variante === 'pronuncia_sequencia') {
+      if (q.variante === 'contexto' || q.variante === 'traducao_contexto' || q.variante === 'desenho_contexto' || q.variante === 'ordenacao' || q.variante === 'pronuncia_frase' || q.variante === 'pronuncia_sequencia') {
         textoParaPrecarregar = q.fraseOriginal;
-      } else if (q.variante === 'hanzi_para_significado' || q.variante === 'significado_para_hanzi' || q.variante === 'desenho_memoria') {
+      } else if (q.variante === 'hanzi_para_significado' || q.variante === 'significado_para_hanzi' || q.variante === 'desenho_memoria' || q.variante === 'pronuncia_baralho') {
         textoParaPrecarregar = q.hanzi;
       }
 
@@ -166,6 +171,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
         setSequencia(0);
         setMelhorSequencia(0);
         setPontos(0);
+        setSugestoesAprendido([]);
         prepararQuestao();
         setFase('sessao');
       })
@@ -192,6 +198,15 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
     setAcertouAtual(acertou);
     setMostrarTraducaoFrase(true); // Desoculta automaticamente após responder, mas sem salvar no localStorage
 
+    const q = questoes[indiceAtual];
+    if (q) {
+      const deveContar = q.modo !== 'ordenacao' && !(q.modo === 'pronuncia' && q.variante === 'pronuncia_frase');
+      if (deveContar) {
+        RegistrarRespostaRevisao(q.hanzi, q.pinyin, q.definicao, q.modo, acertou)
+          .catch((err: any) => console.error("Erro ao registrar resposta da revisão:", err));
+      }
+    }
+
     if (acertou) {
       const novaSequencia = sequencia + 1;
       setSequencia(novaSequencia);
@@ -205,9 +220,9 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
       const q = questoes[indiceAtual];
       if (q) {
-        if (q.variante === 'contexto' || q.variante === 'desenho_contexto' || q.variante === 'ordenacao' || q.variante === 'pronuncia_frase' || q.variante === 'pronuncia_sequencia') {
+        if (q.variante === 'contexto' || q.variante === 'traducao_contexto' || q.variante === 'desenho_contexto' || q.variante === 'ordenacao' || q.variante === 'pronuncia_frase' || q.variante === 'pronuncia_sequencia') {
           autoAudioTimeoutRef.current = window.setTimeout(() => tocarAudio(q.fraseOriginal), 400);
-        } else if (q.variante === 'hanzi_para_significado' || q.variante === 'significado_para_hanzi' || q.variante === 'desenho_memoria') {
+        } else if (q.variante === 'hanzi_para_significado' || q.variante === 'significado_para_hanzi' || q.variante === 'desenho_memoria' || q.variante === 'pronuncia_baralho') {
           autoAudioTimeoutRef.current = window.setTimeout(() => tocarAudio(q.hanzi), 400);
         }
       }
@@ -227,7 +242,17 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
   function proximaQuestao() {
     if (indiceAtual + 1 >= questoes.length) {
       tocarSomConclusao();
-      setFase('placar');
+      
+      const hanzisPraticados = Array.from(new Set(questoes.map(q => q.hanzi))).filter(Boolean);
+      ObterSugestoesAprendidoLote(hanzisPraticados)
+        .then((sugs: any) => {
+          setSugestoesAprendido(sugs || []);
+          setFase('placar');
+        })
+        .catch((err: any) => {
+          console.error("Erro ao obter sugestões de aprendido:", err);
+          setFase('placar');
+        });
       return;
     }
     setIndiceAtual(i => i + 1);
@@ -293,8 +318,16 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
         modo={modo}
         pontos={pontos}
         melhorSequencia={melhorSequencia}
+        sugestoes={sugestoesAprendido}
         aoRepetir={() => iniciarSessao(modo)}
         aoTrocarModo={() => setFase('selecao')}
+        aoAdicionarComoAprendida={(hanzi, pinyin, significado) => {
+          AddVocab(hanzi, pinyin, significado, 'aprendido')
+            .then(() => {
+              setSugestoesAprendido(prev => prev.filter(item => item.hanzi !== hanzi));
+            })
+            .catch((err: any) => console.error("Erro ao marcar palavra como aprendida:", err));
+        }}
       />
     );
   }
@@ -374,12 +407,13 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
       case 'desenho_contexto':
       case 'contexto':
+      case 'traducao_contexto':
       case 'ordenacao':
       case 'pronuncia_frase':
       case 'pronuncia_sequencia':
         return (
           <div className="revisao-frase" style={{ textAlign: 'center', margin: '20px 0' }}>
-            {questaoAtual.variante !== 'ordenacao' && questaoAtual.variante !== 'pronuncia_sequencia' && (
+            {questaoAtual.variante !== 'ordenacao' && questaoAtual.variante !== 'pronuncia_sequencia' && questaoAtual.variante !== 'pronuncia_frase' && (
             <div style={{ display: 'flex', gap: '8px', alignItems: 'center', justifyContent: 'center' }}>
               <BotaoAudio
                 rotulo=""
@@ -389,9 +423,9 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
               />
               <div style={{ fontSize: '26px', lineHeight: 1.6, fontFamily: 'var(--fonte-hanzi)' }}>
                 {(() => {
-                  const segmentada = respondida ? questaoAtual.fraseOriginalSegmentada : questaoAtual.fraseLacunaSegmentada;
+                  const segmentada = (respondida || questaoAtual.variante === 'traducao_contexto') ? questaoAtual.fraseOriginalSegmentada : questaoAtual.fraseLacunaSegmentada;
                   if (!segmentada || segmentada.length === 0) {
-                    return <span>{respondida ? questaoAtual.fraseOriginal : questaoAtual.fraseLacuna}</span>;
+                    return <span>{(respondida || questaoAtual.variante === 'traducao_contexto') ? questaoAtual.fraseOriginal : questaoAtual.fraseLacuna}</span>;
                   }
                   return segmentada.map((t, idx) => {
                     if (t.ehChines && t.pinyin) {
@@ -430,6 +464,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
               </div>
             </div>
             )}
+            {questaoAtual.variante !== 'traducao_contexto' && (
             <div style={{ display: 'flex', gap: '8px', alignItems: 'center', justifyContent: 'center', marginTop: '6px', color: 'var(--cor-texto-suave)', fontSize: '13px' }}>
               <span style={{ opacity: mostrarTraducaoFrase || questaoAtual.variante === 'ordenacao' || questaoAtual.variante === 'pronuncia_frase' || questaoAtual.variante === 'pronuncia_sequencia' ? 1 : 0.3, transition: 'opacity 0.2s' }}>
                 {mostrarTraducaoFrase || questaoAtual.variante === 'ordenacao' || questaoAtual.variante === 'pronuncia_frase' || questaoAtual.variante === 'pronuncia_sequencia' ? questaoAtual.fraseTraducao : "Tradução oculta"}
@@ -467,6 +502,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
               </button>
               )}
             </div>
+            )}
             {questaoAtual.variante === 'desenho_contexto' && (
               <div style={{ display: 'flex', gap: '12px', alignItems: 'center', justifyContent: 'center', marginTop: '12px' }}>
                 <BotaoAudio
@@ -505,9 +541,10 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
       questaoAtual.variante === 'significado_para_hanzi' ||
       questaoAtual.variante === 'audio_para_hanzi' ||
       questaoAtual.variante === 'hanzi_para_audio' ||
+      questaoAtual.variante === 'traducao_contexto' ||
       (questaoAtual.variante === 'contexto' && !respondendoComDesenho);
 
-    if (questaoAtual.variante === 'pronuncia_frase' || questaoAtual.variante === 'pronuncia_sequencia') {
+    if (questaoAtual.variante === 'pronuncia_frase' || questaoAtual.variante === 'pronuncia_sequencia' || questaoAtual.variante === 'pronuncia_baralho') {
       return (
         <Pronuncia
           questao={questaoAtual}
@@ -537,7 +574,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
     if (varianteComOpcoes) {
       const tipoConteudo =
-        questaoAtual.variante === 'hanzi_para_significado' ? 'definicao' :
+        (questaoAtual.variante === 'hanzi_para_significado' || questaoAtual.variante === 'traducao_contexto') ? 'definicao' :
         questaoAtual.variante === 'hanzi_para_audio' ? 'audio' : 'hanzi';
 
       return (
@@ -551,6 +588,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
             aoTocarAudio={tocarAudio}
             hanziTocando={hanziTocando}
             hanziSintetizando={hanziSintetizando}
+            vertical={questaoAtual.variante === 'traducao_contexto'}
           />
           {questaoAtual.variante === 'contexto' && !respondida && (
             <div style={{ textAlign: 'center', marginTop: '12px' }}>

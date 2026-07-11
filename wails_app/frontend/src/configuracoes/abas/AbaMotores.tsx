@@ -2,6 +2,7 @@
 import { config, main } from '../../../wailsjs/go/models';
 import { FormatarTamanho } from '../../comum/formatacao';
 import { ProgressoPreCacheTts } from '../../comum/tipos';
+import { MOTOR_STT_WEB_SPEECH, TemWebSpeech } from '../../comum/useSTT';
 
 interface AbaMotoresProps {
   termoBusca: string;
@@ -495,7 +496,9 @@ export function AbaMotores(props: AbaMotoresProps) {
 
       <h4 style={{ marginTop: '32px', marginBottom: '16px', color: 'var(--cor-destaque)' }}>Reconhecimento de Voz (STT)</h4>
 
-      {(!termoBusca || "motor de stt escuta reconhecimento de voz fala pronúncia microfone baixar download".includes(termoBusca.toLowerCase())) && (
+      {(!termoBusca || "motor de stt escuta reconhecimento de voz fala pronúncia microfone baixar download web speech navegador".includes(termoBusca.toLowerCase())) && (() => {
+        const webSpeechDisponivel = TemWebSpeech();
+        return (
         <>
           <div className="form-group">
             <label>Motor de Escuta</label>
@@ -504,13 +507,24 @@ export function AbaMotores(props: AbaMotoresProps) {
               value={configuracoesApp.motorSttAtivo}
               onChange={e => AtualizarConfiguracao('motorSttAtivo', e.target.value)}
             >
+              <option
+                value={MOTOR_STT_WEB_SPEECH}
+                disabled={!webSpeechDisponivel}
+                title={webSpeechDisponivel
+                  ? 'Reconhecimento de voz da própria webview — sem download, mas exige conexão e suporte da plataforma.'
+                  : 'A webview desta plataforma não oferece a Web Speech API.'}
+              >
+                Web Speech (navegador){!webSpeechDisponivel ? ' — indisponível nesta plataforma' : ''}
+              </option>
               {motoresStt.map(m => (
                 <option key={m.nome} value={m.nome}>{m.nome}</option>
               ))}
             </select>
             <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
-              Usado na revisão de pronúncia (falar no microfone). O motor selecionado precisa estar
-              instalado (abaixo); o modelo de reconhecimento é baixado automaticamente na primeira escuta.
+              Usado na revisão de pronúncia (falar no microfone). "Web Speech" usa o reconhecimento
+              embutido da webview (sem download, requer internet e suporte da plataforma); os demais
+              são motores locais — o selecionado precisa estar instalado (abaixo) e o modelo de
+              reconhecimento é baixado automaticamente na primeira escuta.
             </small>
           </div>
 
@@ -580,7 +594,8 @@ export function AbaMotores(props: AbaMotoresProps) {
             })}
           </div>
         </>
-      )}
+        );
+      })()}
     </>
   );
 }

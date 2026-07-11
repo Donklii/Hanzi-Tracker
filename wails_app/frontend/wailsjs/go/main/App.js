@@ -62,6 +62,10 @@ export function DecomposeCharacter(arg1) {
   return window['go']['main']['App']['DecomposeCharacter'](arg1);
 }
 
+export function DecomporTextoRevisao(arg1) {
+  return window['go']['main']['App']['DecomporTextoRevisao'](arg1);
+}
+
 export function DesconectarNuvem() {
   return window['go']['main']['App']['DesconectarNuvem']();
 }
@@ -244,4 +248,16 @@ export function StartBackgroundLoop() {
 
 export function TrocarMotor(arg1) {
   return window['go']['main']['App']['TrocarMotor'](arg1);
+}
+
+export function ObterEstatisticasPalavra(arg1) {
+  return window['go']['main']['App']['ObterEstatisticasPalavra'](arg1);
+}
+
+export function RegistrarRespostaRevisao(arg1, arg2, arg3, arg4, arg5) {
+  return window['go']['main']['App']['RegistrarRespostaRevisao'](arg1, arg2, arg3, arg4, arg5);
+}
+
+export function ObterSugestoesAprendidoLote(arg1) {
+  return window['go']['main']['App']['ObterSugestoesAprendidoLote'](arg1);
 }

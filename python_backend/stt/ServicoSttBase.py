@@ -36,12 +36,16 @@ class ServicoSttBase:
         (qualquer objeto não-None que represente o motor carregado).
       - `_executarStt(amostras, taxa)`: transcreve amostras float32 mono (-1..1) e
         devolve o texto reconhecido.
+      - `_executarSttParcial(amostras, taxa, geracao)` (opcional): transcrição PARCIAL do áudio
+        acumulado, para os parciais em tempo real. O default re-decodifica tudo com
+        `_executarStt` (correto para motores offline); motores genuinamente streaming
+        sobrescrevem para alimentar só o trecho novo.
     """
 
     def __init__(self) -> None:
         self._stt = None
-        # Lock do MODELO: serializa transcrição, pré-aquecimento e o watchdog de inatividade (o
-        # servidor HTTP é single-thread; o único concorrente é a thread do watchdog).
+        # Lock do MODELO: serializa transcrição, pré-aquecimento, parciais e o watchdog de
+        # inatividade (o servidor HTTP é multi-thread — um /parcial pode chegar durante o /parar).
         self._lock = threading.Lock()
         self._ultimo_uso = 0.0
         self._watchdog_iniciado = False
@@ -54,6 +58,9 @@ class ServicoSttBase:
         self._blocosGravados: list = []
         self._taxaGravacao = ConstantesModule.TAXA_AMOSTRAGEM_STT
         self._inicioGravacao = 0.0
+        # Geração da gravação: incrementa a cada IniciarGravacao. Motores streaming a usam para
+        # saber que uma fala NOVA começou e descartar o fluxo de decodificação da anterior.
+        self._geracaoGravacao = 0
 
     # ----- Ciclo da gravação (push-to-talk) -----
 
@@ -67,12 +74,14 @@ class ServicoSttBase:
             with self._lockGravacao:
                 self._blocosGravados = []
                 self._inicioGravacao = time.monotonic()
+                self._geracaoGravacao += 1
             return
 
         fluxo = self._abrirFluxoEntrada()
         with self._lockGravacao:
             self._blocosGravados = []
             self._inicioGravacao = time.monotonic()
+            self._geracaoGravacao += 1
             self._fluxo_entrada = fluxo
         fluxo.start()
 
@@ -181,6 +190,42 @@ class ServicoSttBase:
 
         return (texto or "").strip()
 
+    def TranscreverParcial(self) -> str:
+        """Transcreve o áudio acumulado até agora SEM parar a captura (parciais em tempo real,
+        endpoint /api/stt/parcial). Best-effort de propósito: devolve "" sempre que um parcial não
+        puder sair AGORA (nada gravado, modelo ocupado ou ainda não carregado) — o tick seguinte
+        do polling tenta de novo, e o /parar continua sendo a transcrição de verdade."""
+        # Guard clause: em ambiente de testes não há captura nem modelo.
+        if ConstantesModule.TESTANDO:
+            return ""
+
+        with self._lockGravacao:
+            gravando = self._fluxo_entrada is not None
+            blocos = list(self._blocosGravados)
+            taxa = self._taxaGravacao
+            geracao = self._geracaoGravacao
+        # Guard clause: sem gravação em andamento (ou ainda sem áudio) não há o que transcrever.
+        if not gravando or not blocos:
+            return ""
+
+        amostras = np.concatenate(blocos).reshape(-1).astype(np.float32)
+
+        # Não-bloqueante: se o modelo está ocupado (carga, /parar, outro parcial), pula o tick em
+        # vez de enfileirar — parcial atrasado não tem valor.
+        if not self._lock.acquire(blocking=False):
+            return ""
+        try:
+            # Guard clause: parcial NUNCA dispara a carga do modelo (pode ser um download de
+            # minutos) — isso é papel do /preparar e do /parar.
+            if self._stt is None:
+                return ""
+            self._ultimo_uso = time.monotonic()
+            texto = self._executarSttParcial(amostras, taxa, geracao)
+            self._ultimo_uso = time.monotonic()
+            return (texto or "").strip()
+        finally:
+            self._lock.release()
+
     def PrepararModelo(self, aoProgredir: Optional[Callable[[str], None]] = None) -> None:
         """Carrega o modelo sem transcrever nada (pré-aquecimento ao entrar na revisão de
         pronúncia): a primeira transcrição real sai sem a espera do download/carga dos pesos."""
@@ -208,6 +253,13 @@ class ServicoSttBase:
 
     def _executarStt(self, amostras: np.ndarray, taxa: int) -> str:
         raise NotImplementedError
+
+    def _executarSttParcial(self, amostras: np.ndarray, taxa: int, geracao: int) -> str:
+        """Transcrição parcial do áudio acumulado. O default re-decodifica TUDO do zero com
+        `_executarStt` — correto (e barato: falas push-to-talk têm teto de 30s) para motores
+        offline como o Paraformer. Motores streaming sobrescrevem para alimentar só o trecho novo
+        ao fluxo persistente, usando `geracao` para detectar o começo de uma fala nova."""
+        return self._executarStt(amostras, taxa)
 
     # ----- Auxiliares compartilhados -----
 

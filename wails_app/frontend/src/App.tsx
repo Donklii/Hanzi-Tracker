@@ -594,6 +594,13 @@ function App() {
         motorTtsAtivo={configuracoesApp?.motorTtsAtivo || ''}
         lerPinyinAoCompletarDesenho={configuracoesApp?.lerPinyinAoCompletarDesenho ?? true}
         configuracoesApp={configuracoesApp}
+        aoBuscarPalavrasCompostas={(hanzi) => {
+          setTermoBuscaGlobal(hanzi);
+          if (abaAtiva === ABAS.Revisao) {
+            setAbaAtiva(ABAS.Descobrimento);
+          }
+          FecharModalCartao();
+        }}
       />
 
       {/* Pop-up de aviso de compatibilidade */}

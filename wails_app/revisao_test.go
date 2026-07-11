@@ -68,24 +68,37 @@ func validarQuestao(t *testing.T, q QuestaoRevisao) {
 
 	precisaOpcoes := q.Modo == ModoSignificado || q.Modo == ModoFonetica || q.Modo == ModoContexto
 	if precisaOpcoes {
-		if len(q.Opcoes) != 4 {
-			t.Fatalf("questão %q (%s): esperava 4 opções, veio %d", q.Hanzi, q.Modo, len(q.Opcoes))
+		limiteOpcoes := 4
+		if q.Variante == "traducao_contexto" {
+			limiteOpcoes = 3
+		}
+		if len(q.Opcoes) != limiteOpcoes {
+			t.Fatalf("questão %q (%s, variante %s): esperava %d opções, veio %d", q.Hanzi, q.Modo, q.Variante, limiteOpcoes, len(q.Opcoes))
 		}
 		corretas := 0
 		for _, o := range q.Opcoes {
 			if o.Correta {
 				corretas++
-				if o.Hanzi != q.Hanzi {
-					t.Errorf("questão %q: opção correta aponta para %q", q.Hanzi, o.Hanzi)
+				if q.Variante == "traducao_contexto" {
+					if o.Definicao != q.FraseTraducao {
+						t.Errorf("questão %q: opção correta de tradução esperava %q, veio %q", q.Hanzi, q.FraseTraducao, o.Definicao)
+					}
+					if o.Hanzi != q.FraseOriginal {
+						t.Errorf("questão %q: opção correta de tradução esperava hanzi %q, veio %q", q.Hanzi, q.FraseOriginal, o.Hanzi)
+					}
+				} else {
+					if o.Hanzi != q.Hanzi {
+						t.Errorf("questão %q: opção correta aponta para %q", q.Hanzi, o.Hanzi)
+					}
 				}
 			}
 		}
 		if corretas != 1 {
-			t.Errorf("questão %q: esperava exatamente 1 opção correta, veio %d", q.Hanzi, corretas)
+			t.Errorf("questão %q (variante %s): esperava exatamente 1 opção correta, veio %d", q.Hanzi, q.Variante, corretas)
 		}
 	}
 
-	temFrase := q.Variante == "contexto" || q.Variante == "desenho_contexto"
+	temFrase := q.Variante == "contexto" || q.Variante == "traducao_contexto" || q.Variante == "desenho_contexto"
 	if temFrase {
 		if q.FraseOriginal == "" || !strings.Contains(q.FraseOriginal, q.Hanzi) {
 			t.Errorf("questão %q: frase original não contém o alvo: %q", q.Hanzi, q.FraseOriginal)
@@ -98,7 +111,7 @@ func validarQuestao(t *testing.T, q QuestaoRevisao) {
 		}
 	}
 
-	if q.Modo == ModoContexto {
+	if q.Modo == ModoContexto && q.Variante == "contexto" {
 		for _, o := range q.Opcoes {
 			if !o.Correta && strings.Contains(q.FraseOriginal, o.Hanzi) {
 				t.Errorf("questão %q: distrator %q aparece na própria frase", q.Hanzi, o.Hanzi)

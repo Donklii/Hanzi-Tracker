@@ -36,6 +36,8 @@ export function ConectarNuvem():Promise<nuvem.Info>;
 
 export function DecomposeCharacter(arg1:string):Promise<dicionario.DecomposicaoHanzi>;
 
+export function DecomporTextoRevisao(arg1:string):Promise<Array<main.PalavraRevisao>>;
+
 export function DesconectarNuvem():Promise<nuvem.Info>;
 
 export function DespertarMotorStt():Promise<void>;
@@ -127,3 +129,9 @@ export function SincronizarNuvem():Promise<nuvem.Info>;
 export function StartBackgroundLoop():Promise<void>;
 
 export function TrocarMotor(arg1:string):Promise<void>;
+
+export function ObterEstatisticasPalavra(arg1:string):Promise<{[key: string]: number}>;
+
+export function RegistrarRespostaRevisao(arg1:string,arg2:string,arg3:string,arg4:string,arg5:boolean):Promise<void>;
+
+export function ObterSugestoesAprendidoLote(arg1:Array<string>):Promise<Array<progresso.Vocab>>;

@@ -9,8 +9,10 @@ interface PlacarRevisaoProps {
   modo: string;
   pontos: number;
   melhorSequencia: number;
+  sugestoes?: any[];
   aoRepetir: () => void;
   aoTrocarModo: () => void;
+  aoAdicionarComoAprendida?: (hanzi: string, pinyin: string, significado: string) => void;
 }
 
 const ROTULOS_MODO: Record<string, string> = {
@@ -32,7 +34,17 @@ function mensagemPorFaixa(percentual: number): string {
   return 'Não desista — a repetição é o caminho.';
 }
 
-export function PlacarRevisao({ acertos, total, modo, pontos, melhorSequencia, aoRepetir, aoTrocarModo }: PlacarRevisaoProps) {
+export function PlacarRevisao({ 
+  acertos, 
+  total, 
+  modo, 
+  pontos, 
+  melhorSequencia, 
+  sugestoes = [], 
+  aoRepetir, 
+  aoTrocarModo,
+  aoAdicionarComoAprendida
+}: PlacarRevisaoProps) {
   const percentual = total > 0 ? Math.round((acertos / total) * 100) : 0;
 
   // Contagem animada: o número sobe de 0 até o percentual em ~900ms (ease-out).
@@ -108,6 +120,41 @@ export function PlacarRevisao({ acertos, total, modo, pontos, melhorSequencia, a
           <div className="revisao-placar-estatistica-rotulo">acertos</div>
         </div>
       </div>
+
+      {sugestoes.length > 0 && (
+        <div className="revisao-sugestoes-aprendido">
+          <div className="revisao-sugestao-titulo">
+            🎉 Palavras Prontas para Aprender!
+          </div>
+          <div className="revisao-sugestao-descricao">
+            Você acertou estas palavras pelo menos 3 vezes seguidas em todas as categorias. Gostaria de adicioná-las às aprendidas?
+          </div>
+          <div className="revisao-sugestao-lista">
+            {sugestoes.map(sug => {
+              const hanzi = sug.hanzi || sug.Hanzi;
+              const pinyin = sug.pinyin || sug.Pinyin;
+              const significado = sug.significado || sug.Significado;
+              return (
+                <div key={hanzi} className="revisao-sugestao-item">
+                  <div className="revisao-sugestao-item-info">
+                    <span className="revisao-sugestao-item-hanzi">{hanzi}</span>
+                    <div className="revisao-sugestao-item-detalhe">
+                      <span className="revisao-sugestao-item-pinyin">{pinyin}</span>
+                      <span className="revisao-sugestao-item-significado" title={significado}>{significado}</span>
+                    </div>
+                  </div>
+                  <button 
+                    className="revisao-sugestao-item-btn"
+                    onClick={() => aoAdicionarComoAprendida && aoAdicionarComoAprendida(hanzi, pinyin, significado)}
+                  >
+                    ✓ Aprendida
+                  </button>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
 
       <div className="revisao-placar-acoes">
         <button className="scan-btn" onClick={aoRepetir}>Revisar novamente</button>

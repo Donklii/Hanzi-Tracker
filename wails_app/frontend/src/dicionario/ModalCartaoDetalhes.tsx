@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import './dicionario.css';
 import { CanvasHanziLookup } from './CanvasHanziLookup';
 import { CanvasDesenho } from '../comum/CanvasDesenho';
-import { BuscarCaracteresCompostosPor } from '../../wailsjs/go/main/App';
+import { BuscarCaracteresCompostosPor, ObterEstatisticasPalavra } from '../../wailsjs/go/main/App';
 import { TocarAudio } from '../comum/TocarAudio';
 
 const IconPencil = () => (
@@ -24,6 +24,21 @@ const IconList = () => (
   </svg>
 );
 
+const IconStats = () => (
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '24px', height: '24px' }}>
+    <line x1="18" y1="20" x2="18" y2="10" />
+    <line x1="12" y1="20" x2="12" y2="4" />
+    <line x1="6" y1="20" x2="6" y2="14" />
+  </svg>
+);
+
+const IconSearch = () => (
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '24px', height: '24px' }}>
+    <circle cx="11" cy="11" r="8" />
+    <line x1="21" y1="21" x2="16.65" y2="16.65" />
+  </svg>
+);
+
 interface ModalCartaoDetalhesProps {
   cartaoSelecionado: any | null;
   setCartaoSelecionado: (val: any | null) => void;
@@ -37,6 +52,7 @@ interface ModalCartaoDetalhesProps {
   motorTtsAtivo: string;
   lerPinyinAoCompletarDesenho: boolean;
   configuracoesApp?: any;
+  aoBuscarPalavrasCompostas: (hanzi: string) => void;
 }
 
 export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
@@ -48,33 +64,50 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
     isAprendida, onToggleAprendida,
     motorTtsAtivo,
     lerPinyinAoCompletarDesenho,
-    configuracoesApp
+    configuracoesApp,
+    aoBuscarPalavrasCompostas
   } = props;
 
   const [modoDesenhoLivre, setModoDesenhoLivre] = useState(false);
   const [modoTreinoGuiado, setModoTreinoGuiado] = useState(false);
   const [modoCompostos, setModoCompostos] = useState(false);
+  const [modoEstatisticas, setModoEstatisticas] = useState(false);
+  const [estatisticas, setEstatisticas] = useState<Record<string, number> | null>(null);
   const [caracteresCompostos, setCaracteresCompostos] = useState<string[]>([]);
   const [sugestoesPratica, setSugestoesPratica] = useState<string[]>([]);
   const [treinoConcluidoMsg, setTreinoConcluidoMsg] = useState('');
   const [audioTocando, setAudioTocando] = useState(false);
+  const hanziAtual = cartaoSelecionado ? (cartaoSelecionado.hanzi || cartaoSelecionado.Hanzi) : '';
+  const isMultiChar = hanziAtual.length > 1;
 
   // Resetar modos de prática sempre que o modal for reaberto ou mudar de caractere
   useEffect(() => {
     setModoDesenhoLivre(false);
     setModoTreinoGuiado(false);
     setModoCompostos(false);
+    setModoEstatisticas(false);
+    setEstatisticas(null);
     setCaracteresCompostos([]);
     setSugestoesPratica([]);
     setTreinoConcluidoMsg('');
     setAudioTocando(false);
   }, [cartaoSelecionado?.hanzi, cartaoSelecionado?.Hanzi]);
 
+  // Carregar estatísticas do caractere
+  useEffect(() => {
+    if (modoEstatisticas && hanziAtual) {
+      ObterEstatisticasPalavra(hanziAtual)
+        .then((stats: any) => {
+          setEstatisticas(stats);
+        })
+        .catch((err: any) => {
+          console.error("Erro ao obter estatísticas:", err);
+        });
+    }
+  }, [modoEstatisticas, hanziAtual]);
+
 
   if (!cartaoSelecionado) return null;
-
-  const hanziAtual = cartaoSelecionado.hanzi || cartaoSelecionado.Hanzi;
-  const isMultiChar = hanziAtual.length > 1;
   
   // Priorizar tradução do makemeahanzi se for um caractere único
   const significadoCartao = cartaoSelecionado.significados ? cartaoSelecionado.significados.join(', ') : cartaoSelecionado.Significado;
@@ -82,12 +115,13 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
     ? dadosDecomposicao.data.definition
     : significadoCartao;
 
-  const qualquerModoAtivo = modoDesenhoLivre || modoTreinoGuiado || modoCompostos;
+  const qualquerModoAtivo = modoDesenhoLivre || modoTreinoGuiado || modoCompostos || modoEstatisticas;
 
   const fecharModos = () => {
     setModoDesenhoLivre(false);
     setModoTreinoGuiado(false);
     setModoCompostos(false);
+    setModoEstatisticas(false);
     setSugestoesPratica([]);
     setTreinoConcluidoMsg('');
   };
@@ -295,6 +329,52 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
                 </div>
               )}
             </div>
+          ) : modoEstatisticas ? (
+            <div style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+              <div style={{ fontSize: '16px', marginBottom: '10px', color: 'var(--cor-texto-suave)' }}>
+                Estatísticas de Aprendizado
+              </div>
+              <div style={{ fontFamily: 'var(--fonte-hanzi)', fontSize: '56px', fontWeight: 'bold', marginBottom: '10px' }}>
+                {hanziAtual}
+              </div>
+              <div style={{ color: 'var(--cor-pinyin)', fontSize: '18px', marginBottom: '20px' }}>
+                {cartaoSelecionado.pinyin || cartaoSelecionado.Pinyin}
+              </div>
+
+              <div style={{ width: '100%', maxWidth: '320px', display: 'flex', flexDirection: 'column', gap: '16px', marginBottom: '24px' }}>
+                {estatisticas ? (
+                  Object.entries(estatisticas).map(([cat, val]) => {
+                    const rotulo = cat.charAt(0).toUpperCase() + cat.slice(1);
+                    const progressoPercent = Math.min((val / 3) * 100, 100);
+                    return (
+                      <div key={cat} style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: '14px' }}>
+                          <span style={{ fontWeight: 'bold', color: 'var(--cor-texto-primario)' }}>
+                            {rotulo === 'Fonetica' ? 'Fonética' : rotulo === 'Pronuncia' ? 'Pronúncia' : rotulo}
+                          </span>
+                          <span style={{ color: val >= 3 ? 'var(--cor-sucesso)' : 'var(--cor-texto-suave)', fontWeight: 'bold', marginLeft: 'auto' }}>
+                            {val >= 3 ? '✓ Concluído' : `${val} / 3`}
+                          </span>
+                        </div>
+                        <div style={{ width: '100%', height: '8px', backgroundColor: 'var(--cor-borda)', borderRadius: '4px', overflow: 'hidden' }}>
+                          <div 
+                            style={{ 
+                              height: '100%', 
+                              width: `${progressoPercent}%`, 
+                              backgroundColor: val >= 3 ? 'var(--cor-sucesso)' : 'var(--cor-destaque)',
+                              transition: 'width 0.4s ease-out',
+                              borderRadius: '4px'
+                            }} 
+                          />
+                        </div>
+                      </div>
+                    );
+                  })
+                ) : (
+                  <div style={{ textAlign: 'center', color: 'var(--cor-texto-suave)' }}>Carregando estatísticas...</div>
+                )}
+              </div>
+            </div>
           ) : (
             <>
               {imagemModalBase64 && (
@@ -325,6 +405,19 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
                         background: 'none', border: 'none', cursor: 'pointer', fontSize: '24px', 
                         opacity: '0.6', transition: 'opacity 0.2s', zIndex: 10
                       }}
+                      title="Buscar Palavras Compostas"
+                      onMouseOver={e => e.currentTarget.style.opacity = '1'}
+                      onMouseOut={e => e.currentTarget.style.opacity = '0.6'}
+                      onClick={() => aoBuscarPalavrasCompostas(hanziAtual)}
+                    >
+                      <IconSearch />
+                    </button>
+                    <button 
+                      style={{
+                        position: 'absolute', top: '78px', right: '10px',
+                        background: 'none', border: 'none', cursor: 'pointer', fontSize: '24px', 
+                        opacity: '0.6', transition: 'opacity 0.2s', zIndex: 10
+                      }}
                       title="Explorar Composição"
                       onMouseOver={e => e.currentTarget.style.opacity = '1'}
                       onMouseOut={e => e.currentTarget.style.opacity = '0.6'}
@@ -334,6 +427,21 @@ export function ModalCartaoDetalhes(props: ModalCartaoDetalhesProps) {
                     </button>
                   </>
                 )}
+                <button 
+                  style={{
+                    position: 'absolute', 
+                    top: isMultiChar ? '10px' : '112px', 
+                    right: '10px',
+                    background: 'none', border: 'none', cursor: 'pointer', fontSize: '24px', 
+                    opacity: '0.6', transition: 'opacity 0.2s', zIndex: 10
+                  }}
+                  title="Visualizar Estatísticas"
+                  onMouseOver={e => e.currentTarget.style.opacity = '1'}
+                  onMouseOut={e => e.currentTarget.style.opacity = '0.6'}
+                  onClick={() => setModoEstatisticas(true)}
+                >
+                  <IconStats />
+                </button>
                 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '15px' }}>
                   <button 
                     onClick={tocarAudioPratica}

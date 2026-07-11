@@ -105,3 +105,12 @@ func (b *BancoFrases) TotalFrases() int {
 	}
 	return len(b.frases)
 }
+
+// ObterTodasFrases devolve todas as frases do banco.
+func (b *BancoFrases) ObterTodasFrases() []Frase {
+	if err := b.garantirCarregado(); err != nil {
+		return nil
+	}
+	return b.frases
+}
+

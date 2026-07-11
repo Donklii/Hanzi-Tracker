@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"strings"
 	"sync"
 	"time"
 
@@ -19,6 +20,13 @@ type Vocab struct {
 	Status      string // "estudo", "aprendido"
 	DataAdd     time.Time
 	TipoHanzi   string `json:"tipoHanzi"`
+
+	// Estatísticas de progresso
+	AcertosSequenciaSignificado int `json:"acertosSequenciaSignificado"`
+	AcertosSequenciaFonetica    int `json:"acertosSequenciaFonetica"`
+	AcertosSequenciaDesenho     int `json:"acertosSequenciaDesenho"`
+	AcertosSequenciaContexto    int `json:"acertosSequenciaContexto"`
+	AcertosSequenciaPronuncia   int `json:"acertosSequenciaPronuncia"`
 }
 
 var db *sql.DB
@@ -49,7 +57,12 @@ func InitDB() error {
 		pinyin TEXT,
 		significado TEXT,
 		status TEXT,
-		data_add DATETIME DEFAULT CURRENT_TIMESTAMP
+		data_add DATETIME DEFAULT CURRENT_TIMESTAMP,
+		acertos_sequencia_significado INTEGER DEFAULT 0,
+		acertos_sequencia_fonetica INTEGER DEFAULT 0,
+		acertos_sequencia_desenho INTEGER DEFAULT 0,
+		acertos_sequencia_contexto INTEGER DEFAULT 0,
+		acertos_sequencia_pronuncia INTEGER DEFAULT 0
 	);
 
 	CREATE TABLE IF NOT EXISTS session_images (
@@ -75,6 +88,11 @@ func InitDB() error {
 	`
 	_, err = db.Exec(query)
 	if err != nil {
+		return err
+	}
+
+	// Migração para adicionar colunas de estatísticas se não existirem
+	if err := adicionarColunasEstatisticas(); err != nil {
 		return err
 	}
 
@@ -221,7 +239,13 @@ func GetAllVocab() ([]Vocab, error) {
 		return nil, fmt.Errorf("DB não inicializado")
 	}
 
-	rows, err := db.Query("SELECT id, hanzi, pinyin, significado, status, data_add FROM vocabulario ORDER BY data_add DESC")
+	rows, err := db.Query(`
+		SELECT id, hanzi, pinyin, significado, status, data_add,
+		       acertos_sequencia_significado, acertos_sequencia_fonetica,
+		       acertos_sequencia_desenho, acertos_sequencia_contexto,
+		       acertos_sequencia_pronuncia
+		FROM vocabulario ORDER BY data_add DESC
+	`)
 	if err != nil {
 		return nil, err
 	}
@@ -231,7 +255,10 @@ func GetAllVocab() ([]Vocab, error) {
 	for rows.Next() {
 		var v Vocab
 		var d string
-		if err := rows.Scan(&v.Id, &v.Hanzi, &v.Pinyin, &v.Significado, &v.Status, &d); err != nil {
+		if err := rows.Scan(&v.Id, &v.Hanzi, &v.Pinyin, &v.Significado, &v.Status, &d,
+			&v.AcertosSequenciaSignificado, &v.AcertosSequenciaFonetica,
+			&v.AcertosSequenciaDesenho, &v.AcertosSequenciaContexto,
+			&v.AcertosSequenciaPronuncia); err != nil {
 			return nil, err
 		}
 		v.DataAdd = parseDataSqlite(d)
@@ -364,4 +391,194 @@ func FecharDB() error {
 	vistosSessaoMu.Unlock()
 
 	return err
+}
+
+// ----- Seção: Estatísticas de Aprendizado e Sequências (Streaks) -----
+
+// adicionarColunasEstatisticas verifica a estrutura da tabela vocabulario e adiciona as novas
+// colunas de acertos consecutivos se elas estiverem ausentes.
+func adicionarColunasEstatisticas() error {
+	rows, err := db.Query("PRAGMA table_info(vocabulario)")
+	if err != nil {
+		return err
+	}
+	defer rows.Close()
+
+	colunasExistentes := make(map[string]bool)
+	for rows.Next() {
+		var cid, notnull, pk int
+		var nome, tipo string
+		var dflt sql.NullString
+		if err := rows.Scan(&cid, &nome, &tipo, &notnull, &dflt, &pk); err != nil {
+			return err
+		}
+		colunasExistentes[nome] = true
+	}
+
+	colunasNovas := []string{
+		"acertos_sequencia_significado",
+		"acertos_sequencia_fonetica",
+		"acertos_sequencia_desenho",
+		"acertos_sequencia_contexto",
+		"acertos_sequencia_pronuncia",
+	}
+
+	for _, col := range colunasNovas {
+		if !colunasExistentes[col] {
+			_, err := db.Exec(fmt.Sprintf("ALTER TABLE vocabulario ADD COLUMN %s INTEGER DEFAULT 0", col))
+			if err != nil {
+				return err
+			}
+		}
+	}
+	return nil
+}
+
+// obterColunaCategoria mapeia o nome da categoria vinda da revisão para o nome da coluna no SQLite.
+func obterColunaCategoria(categoria string) (string, error) {
+	switch categoria {
+	case "significado":
+		return "acertos_sequencia_significado", nil
+	case "fonetica":
+		return "acertos_sequencia_fonetica", nil
+	case "desenho":
+		return "acertos_sequencia_desenho", nil
+	case "contexto":
+		return "acertos_sequencia_contexto", nil
+	case "pronuncia":
+		return "acertos_sequencia_pronuncia", nil
+	}
+	return "", fmt.Errorf("categoria sem coluna de estatística ou inválida: %s", categoria)
+}
+
+// GarantirVocabExiste assegura que um caractere existe na tabela vocabulario (como status 'visto' por padrão).
+func GarantirVocabExiste(hanzi, pinyin, significado string) error {
+	if db == nil {
+		return fmt.Errorf("DB não inicializado")
+	}
+
+	query := `
+	INSERT OR IGNORE INTO vocabulario (hanzi, pinyin, significado, status)
+	VALUES (?, ?, ?, 'visto')
+	`
+	_, err := db.Exec(query, hanzi, pinyin, significado)
+	return err
+}
+
+// AtualizarAcertosSequencia incrementa em 1 ou reseta para 0 o streak de uma palavra em uma categoria.
+func AtualizarAcertosSequencia(hanzi, pinyin, significado, categoria string, acertou bool) error {
+	if db == nil {
+		return fmt.Errorf("DB não inicializado")
+	}
+
+	coluna, err := obterColunaCategoria(categoria)
+	if err != nil {
+		// Retorna nil sem erro se for uma categoria que não conta (ex: ordenação)
+		return nil
+	}
+
+	if err := GarantirVocabExiste(hanzi, pinyin, significado); err != nil {
+		return err
+	}
+
+	var query string
+	if acertou {
+		query = fmt.Sprintf("UPDATE vocabulario SET %s = %s + 1 WHERE hanzi = ?", coluna, coluna)
+	} else {
+		query = fmt.Sprintf("UPDATE vocabulario SET %s = 0 WHERE hanzi = ?", coluna)
+	}
+
+	_, err = db.Exec(query, hanzi)
+	return err
+}
+
+// ObterEstatisticasPalavra retorna o streak de cada uma das 5 categorias para o caractere.
+func ObterEstatisticasPalavra(hanzi string) (map[string]int, error) {
+	if db == nil {
+		return nil, fmt.Errorf("DB não inicializado")
+	}
+
+	var significado, fonetica, desenho, contexto, pronuncia int
+	query := `
+		SELECT acertos_sequencia_significado, acertos_sequencia_fonetica,
+		       acertos_sequencia_desenho, acertos_sequencia_contexto,
+		       acertos_sequencia_pronuncia
+		FROM vocabulario WHERE hanzi = ?
+	`
+	err := db.QueryRow(query, hanzi).Scan(&significado, &fonetica, &desenho, &contexto, &pronuncia)
+	if err == sql.ErrNoRows {
+		return map[string]int{
+			"significado": 0,
+			"fonetica":    0,
+			"desenho":     0,
+			"contexto":    0,
+			"pronuncia":   0,
+		}, nil
+	}
+	if err != nil {
+		return nil, err
+	}
+
+	return map[string]int{
+		"significado": significado,
+		"fonetica":    fonetica,
+		"desenho":     desenho,
+		"contexto":    contexto,
+		"pronuncia":   pronuncia,
+	}, nil
+}
+
+// ObterSugestoesAprendidoLote verifica quais das palavras enviadas atingiram o critério para serem marcadas como aprendidas.
+func ObterSugestoesAprendidoLote(hanzis []string) ([]Vocab, error) {
+	if len(hanzis) == 0 {
+		return nil, nil
+	}
+	if db == nil {
+		return nil, fmt.Errorf("DB não inicializado")
+	}
+
+	// Constrói os placeholders para a query
+	placeholders := make([]string, len(hanzis))
+	args := make([]any, len(hanzis))
+	for i, h := range hanzis {
+		placeholders[i] = "?"
+		args[i] = h
+	}
+
+	query := fmt.Sprintf(`
+		SELECT id, hanzi, pinyin, significado, status, data_add,
+		       acertos_sequencia_significado, acertos_sequencia_fonetica,
+		       acertos_sequencia_desenho, acertos_sequencia_contexto,
+		       acertos_sequencia_pronuncia
+		FROM vocabulario
+		WHERE status != 'aprendido'
+		  AND hanzi IN (%s)
+		  AND acertos_sequencia_significado >= 3
+		  AND acertos_sequencia_fonetica >= 3
+		  AND acertos_sequencia_desenho >= 3
+		  AND acertos_sequencia_contexto >= 3
+		  AND acertos_sequencia_pronuncia >= 3
+	`, strings.Join(placeholders, ","))
+
+	rows, err := db.Query(query, args...)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	var sugestoes []Vocab
+	for rows.Next() {
+		var v Vocab
+		var d string
+		if err := rows.Scan(&v.Id, &v.Hanzi, &v.Pinyin, &v.Significado, &v.Status, &d,
+			&v.AcertosSequenciaSignificado, &v.AcertosSequenciaFonetica,
+			&v.AcertosSequenciaDesenho, &v.AcertosSequenciaContexto,
+			&v.AcertosSequenciaPronuncia); err != nil {
+			return nil, err
+		}
+		v.DataAdd = parseDataSqlite(d)
+		sugestoes = append(sugestoes, v)
+	}
+
+	return sugestoes, nil
 }

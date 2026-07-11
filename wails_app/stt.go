@@ -24,6 +24,14 @@ import (
 // o download dos pesos do Hugging Face (feito pelo sidecar) numa conexão lenta.
 var clienteHttpStt = &http.Client{Timeout: 15 * time.Minute}
 
+// Intervalo entre consultas de transcrição parcial ao sidecar durante uma escuta (o "tempo real"
+// do caminho por motor — o Web Speech tem parciais nativos, o sidecar responde a polling).
+const intervaloParcialStt = 900 * time.Millisecond
+
+// Cliente curto próprio dos parciais: um tick que não respondeu logo é descartado (o seguinte pega
+// o texto mais novo) — não pode herdar os 15 min do cliente principal.
+var clienteHttpSttParcial = &http.Client{Timeout: 10 * time.Second}
+
 // emitirEstadoStt envia ao frontend o estado atual da escuta/transcrição (mensagem na tela de
 // pronúncia). Mensagem vazia = terminou/limpou.
 func (a *App) emitirEstadoStt(mensagem string) {
@@ -105,9 +113,19 @@ func (a *App) IniciarEscutaStt() error {
 		return err
 	}
 
+	// Derruba um eventual laço de parciais órfão ANTES de recomeçar a captura, para nenhum tick da
+	// escuta anterior decodificar (e emitir) em cima da gravação nova.
+	a.pararPollingParcialSttSemLock()
+
 	a.emitirEstadoStt("")
-	_, err := a.chamarSidecarStt("/api/stt/iniciar")
-	return err
+	if _, err := a.chamarSidecarStt("/api/stt/iniciar"); err != nil {
+		return err
+	}
+
+	// Escuta no ar: sobe o laço que consulta a transcrição parcial e a emite ao frontend — é o
+	// que dá "tempo real" ao caminho por motor (espelha os parciais nativos do Web Speech).
+	a.iniciarPollingParcialStt()
+	return nil
 }
 
 // PararEscutaStt para a captura e devolve o texto transcrito (o frontend chama ao SOLTAR o botão).
@@ -117,6 +135,10 @@ func (a *App) IniciarEscutaStt() error {
 func (a *App) PararEscutaStt() (string, error) {
 	a.sttMutex.Lock()
 	defer a.sttMutex.Unlock()
+
+	// A escuta terminou: derruba o laço de parciais antes de transcrever, para nenhum parcial
+	// atrasado chegar DEPOIS do texto final.
+	a.pararPollingParcialSttSemLock()
 
 	// Guard clause: nenhum motor no ar = nenhuma escuta em andamento (ex.: iniciar falhou).
 	if a.motorStt == nil || a.motorStt.CatalogoAtivo() == "" {
@@ -146,12 +168,87 @@ func (a *App) CancelarEscutaStt() error {
 	a.sttMutex.Lock()
 	defer a.sttMutex.Unlock()
 
+	a.pararPollingParcialSttSemLock()
+
 	// Guard clause: nada rodando — nada a cancelar.
 	if a.motorStt == nil || a.motorStt.CatalogoAtivo() == "" {
 		return nil
 	}
 	_, err := a.chamarSidecarStt("/api/stt/cancelar")
 	return err
+}
+
+// ----- Parciais em tempo real (polling de /api/stt/parcial) -----
+
+// iniciarPollingParcialStt sobe a goroutine que consulta a transcrição parcial da escuta em
+// andamento e a emite ao frontend via o evento "stt_parcial". DEVE ser chamado com a.sttMutex
+// adquirido e com a escuta já iniciada no sidecar.
+func (a *App) iniciarPollingParcialStt() {
+	a.pararPollingParcialSttSemLock() // defesa contra um laço órfão de uma escuta anterior
+	parar := make(chan struct{})
+	a.sttParcialParar = parar
+	go a.lacoParcialStt(parar)
+}
+
+// pararPollingParcialSttSemLock encerra o laço de parciais da escuta atual (no-op sem laço no ar).
+// DEVE ser chamado com a.sttMutex adquirido.
+func (a *App) pararPollingParcialSttSemLock() {
+	if a.sttParcialParar == nil {
+		return
+	}
+	close(a.sttParcialParar)
+	a.sttParcialParar = nil
+}
+
+// lacoParcialStt é o corpo da goroutine de parciais: a cada tick pede ao sidecar a transcrição do
+// áudio acumulado e emite o texto quando ele muda. Roda SEM o sttMutex de propósito — segurá-lo
+// bloquearia o /parar; um tick que colidir com o parar apenas falha e é descartado. O laço morre
+// pelo canal `parar` (fechado no parar/cancelar/nova escuta) ou quando o sidecar responde 404
+// (motor antigo, sem o endpoint — os parciais degradam em silêncio).
+func (a *App) lacoParcialStt(parar chan struct{}) {
+	ticker := time.NewTicker(intervaloParcialStt)
+	defer ticker.Stop()
+
+	ultimoTexto := ""
+	for {
+		select {
+		case <-parar:
+			return
+		case <-ticker.C:
+		}
+
+		resp, err := clienteHttpSttParcial.Post(motoresstt.EnderecoBase()+"/api/stt/parcial", "application/json", bytes.NewReader(nil))
+		if err != nil {
+			continue // sidecar ocupado ou tick perdido: o próximo tenta de novo
+		}
+		if resp.StatusCode == http.StatusNotFound {
+			resp.Body.Close()
+			return // motor sem /parcial: não há o que consultar até a próxima escuta
+		}
+
+		var resposta struct {
+			Texto string `json:"texto"`
+		}
+		errDecode := json.NewDecoder(resp.Body).Decode(&resposta)
+		resp.Body.Close()
+		if errDecode != nil || resp.StatusCode != http.StatusOK {
+			continue
+		}
+		// "" = parcial indisponível neste tick (nada gravado/modelo ocupado), não "texto apagado".
+		if resposta.Texto == "" || resposta.Texto == ultimoTexto {
+			continue
+		}
+		ultimoTexto = resposta.Texto
+		a.emitirParcialStt(resposta.Texto)
+	}
+}
+
+// emitirParcialStt envia ao frontend a transcrição parcial da escuta em andamento.
+func (a *App) emitirParcialStt(texto string) {
+	if a.ctx == nil {
+		return
+	}
+	runtime.EventsEmit(a.ctx, "stt_parcial", texto)
 }
 
 // chamarSidecarStt faz um POST cru a um endpoint do sidecar de STT JÁ NO AR e devolve o corpo da

@@ -48,7 +48,7 @@ jobs:
           $tag = '${{ github.event.inputs.tag }}'; if (-not $tag) { $tag = '${{ github.ref_name }}' }
           "## sha256 dos motores de escuta ($tag)" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
           "" | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
-          foreach ($z in @('python_backend/dist/paraformer_server.zip')) {
+          foreach ($z in @('python_backend/dist/paraformer_server.zip', 'python_backend/dist/zipformer_streaming_server.zip')) {
             if (-not (Test-Path $z)) { continue }
             $h = (Get-FileHash $z -Algorithm SHA256).Hash.ToLower()
             $s = (Get-Item $z).Length
@@ -63,6 +63,7 @@ jobs:
           name: Motores de Escuta ${{ github.event.inputs.tag || github.ref_name }}
           files: |
             python_backend/dist/paraformer_server.zip
+            python_backend/dist/zipformer_streaming_server.zip
           fail_on_unmatched_files: true
 
       - name: Atualizar o manifesto (artefatos_stt.json)
@@ -77,7 +78,7 @@ jobs:
           # Recalcula sha256 + tamanho do zip e reescreve o JSON embutido (fonte dos campos voláteis).
           # [ordered] mantém a ordem estável (diffs limpos); utf8NoBOM porque o json.Unmarshal do Go não
           # tolera BOM.
-          $zips = @('paraformer_server.zip')
+          $zips = @('paraformer_server.zip', 'zipformer_streaming_server.zip')
           $artefatos = [ordered]@{}
           foreach ($nome in $zips) {
             $caminho = "python_backend/dist/$nome"

@@ -94,11 +94,13 @@ type App struct {
 	motorTts *motorestts.GerenciadorMotorTts
 	ttsMutex sync.Mutex
 
-	// motorStt é dono do ciclo de vida do processo de STT (Paraformer-ZH). Criado PREGUIÇOSAMENTE
+	// motorStt é dono do ciclo de vida do processo de STT (Paraformer-ZH…). Criado PREGUIÇOSAMENTE
 	// quando a revisão de pronúncia precisa escutar o microfone (garantirMotorStt) — nil até lá.
-	// sttMutex serializa as escutas e protege essa criação (ver stt.go).
-	motorStt *motoresstt.GerenciadorMotorStt
-	sttMutex sync.Mutex
+	// sttMutex serializa as escutas e protege essa criação (ver stt.go). sttParcialParar encerra o
+	// laço de polling dos parciais da escuta em andamento (nil quando não há laço; sob sttMutex).
+	motorStt        *motoresstt.GerenciadorMotorStt
+	sttMutex        sync.Mutex
+	sttParcialParar chan struct{}
 
 	// Pré-carregamento do cache de TTS (ver tts_precache.go): sintetiza EM LOTE a fala de todas as
 	// palavras dos dicionários. Um lote longo por vez — preCacheTtsAtivo barra reentrância e

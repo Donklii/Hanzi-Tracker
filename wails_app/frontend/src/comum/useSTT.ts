@@ -1,18 +1,28 @@
 // ----- Reconhecimento de fala (STT) da revisão de pronúncia -----
-// Dois caminhos, na ordem de preferência:
+// Dois caminhos, escolhidos em Configurações → Motores → Motor de Escuta (Config.MotorSttAtivo):
 //   1. Web Speech API (SpeechRecognition), quando a webview a oferece — grátis e com resultados
-//      parciais em tempo real.
-//   2. MOTOR de escuta (sidecar Paraformer-ZH, ver stt.go/motoresstt): a webview do Wails no Linux
-//      (WebKitGTK) não tem SpeechRecognition NEM getUserMedia, então tanto a gravação do microfone
-//      quanto a transcrição acontecem no sidecar — o frontend só comanda iniciar/parar/cancelar
-//      (push-to-talk). Sem parciais: a transcrição chega inteira no parar.
-// Sem nenhum dos dois (motor não instalado), `suportado` fica false e `motivoIndisponivel` orienta
-// o download em Configurações → Motores.
+//      parciais em tempo real (valor "WebSpeech" na config).
+//   2. MOTOR de escuta (sidecar Paraformer-ZH/Zipformer-ZH-Streaming, ver stt.go/motoresstt): a
+//      webview do Wails no Linux (WebKitGTK) não tem SpeechRecognition NEM getUserMedia, então
+//      tanto a gravação do microfone quanto a transcrição acontecem no sidecar — o frontend só
+//      comanda iniciar/parar/cancelar (push-to-talk). Os parciais chegam pelo evento "stt_parcial"
+//      (o Go faz polling do sidecar durante a escuta); a transcrição de verdade chega no parar.
+// Fallbacks: motor selecionado mas não instalado cai para a Web Speech quando ela existe;
+// sem nenhum caminho, `suportado` fica false e `motivoIndisponivel` orienta a correção em
+// Configurações → Motores.
 import { useState, useEffect, useCallback, useRef } from 'react';
 import {
-  CancelarEscutaStt, DespertarMotorStt, IniciarEscutaStt, ListarMotoresStt, PararEscutaStt,
+  CancelarEscutaStt, DespertarMotorStt, GetConfig, IniciarEscutaStt, ListarMotoresStt, PararEscutaStt,
 } from '../../wailsjs/go/main/App';
 import { EventsOn } from '../../wailsjs/runtime/runtime';
+
+// Valor de Config.MotorSttAtivo que seleciona o reconhecimento da própria webview (Web Speech API)
+// em vez de um sidecar do catálogo.
+export const MOTOR_STT_WEB_SPEECH = 'WebSpeech';
+
+export function TemWebSpeech(): boolean {
+  return !!((window as any).SpeechRecognition || (window as any).webkitSpeechRecognition);
+}
 
 interface OpcoesSTT {
   idioma?: string;
@@ -34,18 +44,87 @@ export function useSTT(opcoes: OpcoesSTT = {}) {
   const [erro, setErro] = useState<string | null>(null);
 
   const recognitionRef = useRef<any>(null);
-  // Promessa do IniciarEscutaStt em voo: parar() espera por ela para nunca chegar ao sidecar
-  // antes do iniciar (o usuário pode soltar o botão antes de o motor terminar de subir).
   const iniciarPendenteRef = useRef<Promise<void> | null>(null);
   const escutandoRef = useRef(false);
 
+  const timeoutInatividadeRef = useRef<number | null>(null);
+  const pararRef = useRef<() => void>(() => {});
+
+  const resetarTimeoutInatividade = useCallback(() => {
+    if (timeoutInatividadeRef.current) {
+      clearTimeout(timeoutInatividadeRef.current);
+    }
+    timeoutInatividadeRef.current = window.setTimeout(() => {
+      pararRef.current();
+    }, 12000);
+  }, []);
+
+  // ----- Decisão do caminho de escuta (Config.MotorSttAtivo) -----
+  useEffect(() => {
+    let cancelado = false;
+
+    const decidir = (motorConfigurado: string) => {
+      if (motorConfigurado === MOTOR_STT_WEB_SPEECH) {
+        if (TemWebSpeech()) {
+          setModo('web');
+          return;
+        }
+        setModo('nenhum');
+        setMotivoIndisponivel('A Web Speech API não existe nesta plataforma — selecione um motor baixável em Configurações → Motores → Motor de Escuta.');
+        return;
+      }
+
+      ListarMotoresStt()
+        .then(motores => {
+          if (cancelado) return;
+          const alvo = (motores || []).find(m => m.nome === motorConfigurado);
+          const instalado = alvo ? alvo.instalado : (motores || []).some(m => m.instalado);
+          if (instalado) {
+            setModo('motor');
+            return;
+          }
+          if (TemWebSpeech()) {
+            setModo('web'); // fallback: motor não instalado, mas a webview sabe escutar
+            return;
+          }
+          setModo('nenhum');
+          setMotivoIndisponivel((motores || []).some(m => m.publicado)
+            ? 'Baixe o motor de escuta em Configurações → Motores → Reconhecimento de Voz (STT).'
+            : 'O motor de escuta ainda não foi publicado para este sistema — aguarde a próxima atualização.');
+        })
+        .catch(() => {
+          if (cancelado) return;
+          if (TemWebSpeech()) {
+            setModo('web');
+            return;
+          }
+          setModo('nenhum');
+          setMotivoIndisponivel('Não foi possível consultar os motores de escuta.');
+        });
+    };
+
+    GetConfig()
+      .then(cfg => {
+        if (!cancelado) decidir(cfg?.motorSttAtivo || '');
+      })
+      .catch(() => {
+        if (!cancelado) decidir('');
+      });
+
+    return () => {
+      cancelado = true;
+    };
+  }, []);
+
   // ----- Caminho 1: Web Speech API -----
   useEffect(() => {
+    if (modo !== 'web') {
+      return;
+    }
     const SpeechRecognition = (window as any).SpeechRecognition || (window as any).webkitSpeechRecognition;
     if (!SpeechRecognition) {
-      return; // sem Web Speech: o efeito do motor (abaixo) decide o modo
+      return;
     }
-    setModo('web');
 
     const recognition = new SpeechRecognition();
     recognition.lang = idioma;
@@ -57,9 +136,11 @@ export function useSTT(opcoes: OpcoesSTT = {}) {
       setErro(null);
       setTranscricaoParcial('');
       setTranscricaoFinal('');
+      resetarTimeoutInatividade();
     };
 
     recognition.onresult = (event: any) => {
+      resetarTimeoutInatividade();
       let currentFinal = '';
       let currentInterim = '';
 
@@ -80,10 +161,18 @@ export function useSTT(opcoes: OpcoesSTT = {}) {
     recognition.onerror = (event: any) => {
       setErro(event.error);
       setEscutando(false);
+      if (timeoutInatividadeRef.current) {
+        clearTimeout(timeoutInatividadeRef.current);
+        timeoutInatividadeRef.current = null;
+      }
     };
 
     recognition.onend = () => {
       setEscutando(false);
+      if (timeoutInatividadeRef.current) {
+        clearTimeout(timeoutInatividadeRef.current);
+        timeoutInatividadeRef.current = null;
+      }
     };
 
     recognitionRef.current = recognition;
@@ -91,53 +180,49 @@ export function useSTT(opcoes: OpcoesSTT = {}) {
     return () => {
       if (recognitionRef.current) {
         recognitionRef.current.abort();
+        recognitionRef.current = null;
+      }
+      if (timeoutInatividadeRef.current) {
+        clearTimeout(timeoutInatividadeRef.current);
       }
     };
-  }, [idioma, continuo]);
+  }, [modo, idioma, continuo, resetarTimeoutInatividade]);
 
   // ----- Caminho 2: motor de escuta (sidecar) -----
   useEffect(() => {
-    const temWebSpeech = !!((window as any).SpeechRecognition || (window as any).webkitSpeechRecognition);
-    if (temWebSpeech) {
+    if (modo !== 'motor') {
       return;
     }
 
-    let cancelado = false;
-    ListarMotoresStt()
-      .then(motores => {
-        if (cancelado) return;
-        if ((motores || []).some(m => m.instalado)) {
-          setModo('motor');
-          // Pré-aquece em segundo plano: sobe o sidecar e carrega o modelo (na primeiríssima vez,
-          // baixa os pesos), para o primeiro push-to-talk sair sem essa espera.
-          DespertarMotorStt();
-          return;
-        }
-        setModo('nenhum');
-        setMotivoIndisponivel((motores || []).some(m => m.publicado)
-          ? 'Baixe o motor de escuta em Configurações → Motores → Reconhecimento de Voz (STT).'
-          : 'O motor de escuta ainda não foi publicado para este sistema — aguarde a próxima atualização.');
-      })
-      .catch(() => {
-        if (cancelado) return;
-        setModo('nenhum');
-        setMotivoIndisponivel('Não foi possível consultar os motores de escuta.');
-      });
+    // Pré-aquece o sidecar (boot + carga do modelo) para o primeiro push-to-talk sair sem espera
+    DespertarMotorStt();
 
-    // Estado da escuta/transcrição vindo do Go ("Iniciando o motor…", "Transcrevendo fala…").
     const desligarEvento = EventsOn('stt_estado', (mensagem: string) => {
-      if (!cancelado) setEstadoMotor(mensagem || '');
+      setEstadoMotor(mensagem || '');
+    });
+
+    // Parciais em tempo real: o Go consulta o sidecar durante a escuta e emite o texto acumulado
+    // (espelha o onresult do Web Speech). Cada parcial novo também renova o timeout de
+    // inatividade — o usuário ainda está falando.
+    const desligarParcial = EventsOn('stt_parcial', (texto: string) => {
+      if (!escutandoRef.current) {
+        return; // parcial atrasado de uma escuta já encerrada: o texto final é quem manda
+      }
+      setTranscricaoParcial(texto || '');
+      resetarTimeoutInatividade();
     });
 
     return () => {
-      cancelado = true;
       desligarEvento();
-      // Gravação órfã (desmontou com o botão pressionado): descarta no sidecar.
+      desligarParcial();
       if (escutandoRef.current) {
         CancelarEscutaStt().catch(() => { });
       }
+      if (timeoutInatividadeRef.current) {
+        clearTimeout(timeoutInatividadeRef.current);
+      }
     };
-  }, []);
+  }, [modo, resetarTimeoutInatividade]);
 
   const iniciar = useCallback(() => {
     if (modo === 'web') {
@@ -153,8 +238,6 @@ export function useSTT(opcoes: OpcoesSTT = {}) {
       return;
     }
 
-    // Guard clauses do modo motor: catálogo ainda carregando/indisponível, já escutando ou uma
-    // transcrição anterior ainda em voo.
     if (modo !== 'motor' || escutando || processando) {
       return;
     }
@@ -165,18 +248,28 @@ export function useSTT(opcoes: OpcoesSTT = {}) {
     setEscutando(true);
     escutandoRef.current = true;
 
+    resetarTimeoutInatividade();
+
     const pendente = IniciarEscutaStt()
       .catch((e: any) => {
         setErro(String(e));
         setEscutando(false);
         escutandoRef.current = false;
-        throw e; // o parar() em espera desiste junto
+        if (timeoutInatividadeRef.current) {
+          clearTimeout(timeoutInatividadeRef.current);
+          timeoutInatividadeRef.current = null;
+        }
+        throw e;
       });
-    // O catch acima já tratou; engole a rejeição para não virar unhandled rejection.
     iniciarPendenteRef.current = pendente.catch(() => { });
-  }, [modo, escutando, processando]);
+  }, [modo, escutando, processando, resetarTimeoutInatividade]);
 
   const parar = useCallback(() => {
+    if (timeoutInatividadeRef.current) {
+      clearTimeout(timeoutInatividadeRef.current);
+      timeoutInatividadeRef.current = null;
+    }
+
     if (modo === 'web') {
       if (recognitionRef.current && escutando) {
         recognitionRef.current.stop();
@@ -184,7 +277,6 @@ export function useSTT(opcoes: OpcoesSTT = {}) {
       return;
     }
 
-    // Guard clause: nada sendo escutado (iniciar falhou ou nem rodou).
     if (modo !== 'motor' || !escutandoRef.current) {
       return;
     }
@@ -197,6 +289,7 @@ export function useSTT(opcoes: OpcoesSTT = {}) {
     aposIniciar
       .then(() => PararEscutaStt())
       .then(texto => {
+        setTranscricaoParcial(''); // o texto final substitui o último parcial
         setTranscricaoFinal(texto || '');
         if (!texto) {
           setErro('Nada foi reconhecido — tente falar mais perto do microfone.');
@@ -206,16 +299,17 @@ export function useSTT(opcoes: OpcoesSTT = {}) {
       .finally(() => setProcessando(false));
   }, [modo, escutando]);
 
-  // limpar descarta a transcrição já CONSUMIDA pela tela. Sem isso, um efeito que reavalia quando
-  // outra dependência muda (ex.: a fila de caracteres da PronunciaSequencia avança) compararia o
-  // próximo alvo contra a fala ANTERIOR — a transcrição só se apagaria no próximo iniciar().
+  pararRef.current = parar;
+
   const limpar = useCallback(() => {
     setTranscricaoFinal('');
     setTranscricaoParcial('');
+    if (timeoutInatividadeRef.current) {
+      clearTimeout(timeoutInatividadeRef.current);
+      timeoutInatividadeRef.current = null;
+    }
   }, []);
 
-  // `suportado` fica otimista durante a detecção ('indefinido'): evita um flash da mensagem de
-  // "não suportado" enquanto ListarMotoresStt responde.
   const suportado = modo !== 'nenhum';
 
   return {

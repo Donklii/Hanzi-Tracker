@@ -141,7 +141,7 @@ interface BarraLateralProps {
 export function BarraLateral({ abaAtiva, aoTrocarAba, cartaoEmFoco, aoAbrirConfiguracoes }: BarraLateralProps) {
   return (
     <div className="sidebar">
-      <h1>Chinese Study</h1>
+      <h1>Hanzi Tracker</h1>
 
       {/* Fragment (não <div>): os rótulos e botões precisam continuar sendo filhos diretos do
           flex container .sidebar, senão o .sidebar-spacer perde o empurrão para o rodapé. */}

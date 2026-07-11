@@ -2,7 +2,7 @@
 import json
 import logging
 import os
-from http.server import BaseHTTPRequestHandler, HTTPServer
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 from principal import ConstantesModule
 
@@ -13,7 +13,8 @@ registradorLogs = logging.getLogger(__name__)
 
 # Versão do contrato da API de STT (ver docs/CONTRATO-STT.md). O app (Go) confere este número no
 # healthcheck e recusa um sidecar de contrato incompatível. Incremente ao mudar o contrato de forma
-# quebrável (endpoints, formato de requisição/resposta).
+# quebrável (endpoints, formato de requisição/resposta). O /api/stt/parcial é ADITIVO e opcional
+# (o app trata 404 como "motor antigo, sem parciais"), então não exigiu bump.
 VERSAO_CONTRATO_STT = 1
 
 
@@ -86,6 +87,14 @@ def _criarHandler(servicoStt):
                     self._responderJson({"ok": True})
                     return
 
+                if self.path == '/api/stt/parcial':
+                    # Transcrição PARCIAL do áudio acumulado, sem parar a captura (o app faz
+                    # polling durante a escuta para os parciais em tempo real). Best-effort:
+                    # devolve texto vazio quando um parcial não pode sair agora (nada gravado,
+                    # modelo ocupado/não carregado) — o tick seguinte tenta de novo.
+                    self._responderJson({"texto": servicoStt.TranscreverParcial()})
+                    return
+
                 if self.path == '/api/stt/parar':
                     # Para a captura e transcreve o que foi gravado. A primeira chamada pode
                     # demorar: carga do modelo + download dos pesos (se /preparar não rodou antes).
@@ -121,6 +130,9 @@ def iniciarServidorStt(servicoStt, porta=None):
     if porta is None:
         porta = int(os.environ.get("HANZITRACKER_STT_PORT", "8091"))
     enderecoServidor = ('', porta)
-    servidorHttp = HTTPServer(enderecoServidor, _criarHandler(servicoStt))
+    # ThreadingHTTPServer (e não HTTPServer): o polling de /api/stt/parcial acontece DURANTE um
+    # /parar ou /preparar em andamento — single-thread, os parciais fariam fila atrás deles. A
+    # concorrência real é limitada pelos locks do ServicoSttBase (modelo + gravação).
+    servidorHttp = ThreadingHTTPServer(enderecoServidor, _criarHandler(servicoStt))
     registradorLogs.info(f"Iniciando Microserviço de STT ({ConstantesModule.obterNomeMotor()}) na porta {porta}...")
     servidorHttp.serve_forever()

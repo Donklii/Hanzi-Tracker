@@ -12,12 +12,14 @@ import (
 // ----- Catálogo de motores de STT (manifesto.go) -----
 
 func TestObterMotorSttBaixavelExistente(t *testing.T) {
-	m, ok := ObterMotorSttBaixavel("Paraformer-ZH")
-	if !ok {
-		t.Fatal("esperava encontrar o motor Paraformer-ZH no catálogo de STT")
-	}
-	if m.Executavel == "" {
-		t.Error("motor Paraformer-ZH sem Executavel definido")
+	for _, nome := range []string{"Paraformer-ZH", "Zipformer-ZH-Streaming"} {
+		m, ok := ObterMotorSttBaixavel(nome)
+		if !ok {
+			t.Fatalf("esperava encontrar o motor %s no catálogo de STT", nome)
+		}
+		if m.Executavel == "" {
+			t.Errorf("motor %s sem Executavel definido", nome)
+		}
 	}
 }
 
