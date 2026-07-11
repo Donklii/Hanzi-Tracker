@@ -2,12 +2,12 @@
   "tag": "motores-stt-windows-v1",
   "artefatos": {
     "paraformer_server.zip": {
-      "sha256": "d63a8a0ac6e8dced9c433e552313759b645fb48eafdbdf065368ea7c8fb03d73",
-      "tamanhoBytes": 40338047
+      "sha256": "3f0c7eee036913a5b6b316501f916dd36325d48ded646d98383780b4b274d1e5",
+      "tamanhoBytes": 40340450
     },
     "zipformer_streaming_server.zip": {
-      "sha256": "",
-      "tamanhoBytes": 0
+      "sha256": "85a4d1a2079f9ac1c2573453763952c54358d8feafe095b0eeed250c19670e51",
+      "tamanhoBytes": 40342576
     }
   }
 }
