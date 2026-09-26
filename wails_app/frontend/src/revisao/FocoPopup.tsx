@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { config, main, progresso } from '../../wailsjs/go/models';
+import { config, progresso, revisao } from '../../wailsjs/go/models';
 import { Interruptor } from './Interruptor';
 import { AdicionarHanziFoco, RemoverHanziFoco, GetVocab } from '../../wailsjs/go/main/App';
 import { useBuscaDicionario } from '../busca/useBuscaDicionario';
@@ -17,8 +17,8 @@ import './revisao.css';
 interface FocoPopupProps {
   configuracoesApp: config.Config | null;
   AtualizarConfiguracao: (key: keyof config.Config, value: any) => void;
-  foco: main.ItemFocoRevisao[];
-  aoClicarNoFoco?: (item: main.ItemFocoRevisao) => void;
+  foco: revisao.ItemFocoRevisao[];
+  aoClicarNoFoco?: (item: revisao.ItemFocoRevisao) => void;
   recarregarFoco?: () => void;
   aoFechar: () => void;
 }

@@ -5,7 +5,7 @@
 // de palavras que atingiram a meta de estudo — cujo botão de marcar como aprendida conduz o
 // feedback completo (salvando → sucesso/falha) sem sair da tela.
 import { useEffect, useMemo, useState } from 'react';
-import { main } from '../../wailsjs/go/models';
+import { revisao } from '../../wailsjs/go/models';
 import { t } from '../i18n/i18n';
 import { AREAS_APRENDIZADO, IconeAcertos, IconeCheck, IconeFoco, IconePontos, IconeReset, IconeSequencia, IconeTrofeu } from './IconesPlacar';
 import { obterTiposBolinhas } from './progressoBolinhas';
@@ -43,11 +43,11 @@ export interface ProgressoPalavraPlacar {
 // pré-sessão falhou), os deltas ficam em 0 e o placar mostra só o estado atual. As palavras que
 // mais avançaram vêm primeiro.
 export function montarProgressoPlacar(
-  retrato: main.ProgressoRevisaoPalavras,
-  antesPorHanzi: Map<string, main.ProgressoPalavraRevisao> | null,
+  retrato: revisao.ProgressoRevisaoPalavras,
+  antesPorHanzi: Map<string, revisao.ProgressoPalavraRevisao> | null,
 ): ProgressoPalavraPlacar[] {
   const meta = retrato.meta || 3;
-  const itens = (retrato.palavras || []).map(p => {
+  const itens = (retrato.palavras || []).map((p: revisao.ProgressoPalavraRevisao) => {
     const antes = antesPorHanzi ? antesPorHanzi.get(p.hanzi) : undefined;
     const areas = AREAS_APRENDIZADO.map(({ area }) => {
       const streak = (p.streaks && p.streaks[area]) || 0;
@@ -70,7 +70,7 @@ export function montarProgressoPlacar(
       ganhoTotal,
     };
   });
-  return itens.sort((a, b) => b.ganhoTotal - a.ganhoTotal);
+  return itens.sort((a: ProgressoPalavraPlacar, b: ProgressoPalavraPlacar) => b.ganhoTotal - a.ganhoTotal);
 }
 
 // O binding ObterSugestoesAprendidoLote devolve progresso.Vocab com campos Maiúsculos (a struct
@@ -95,7 +95,7 @@ interface PlacarRevisaoProps {
   sugestoes?: SugestaoAprendido[];
   progresso?: ProgressoPalavraPlacar[];
   meta?: number;
-  focoNovas?: main.ItemFocoRevisao[]; // palavras que ENTRARAM no foco ao marcar sugestões como aprendidas
+  focoNovas?: revisao.ItemFocoRevisao[]; // palavras que ENTRARAM no foco ao marcar sugestões como aprendidas
   aoRepetir: () => void;
   aoTrocarModo: () => void;
   aoAdicionarComoAprendida?: (hanzi: string, pinyin: string, significado: string) => Promise<void>;

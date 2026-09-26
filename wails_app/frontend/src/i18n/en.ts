@@ -1,6 +1,9 @@
 // Mapa de tradução português→inglês da INTERFACE. Chave = string exata em português usada no código;
 // valor = tradução inglesa. Preenchido incrementalmente ao converter cada componente (ver TODO.md).
 export const en: Record<string, string> = {
+  'Expandir gerações restantes': 'Expand remaining generations',
+  'Limitar às 3 primeiras gerações': 'Limit to first 3 generations',
+  'Expandir gerações': 'Expand generations',
   'Recomendações': 'Recommendations',
   'Baralho de Recomendações': 'Recommendation Deck',
   'Sorteie 3 cartas com palavras recomendadas para estudo': 'Draw 3 cards with recommended words for study',

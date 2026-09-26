@@ -77,7 +77,8 @@ Notas de latência:
   primeiríssima vez, baixa os pesos do Hugging Face (~330 MB no Kokoro-82M, ~1 GB no ChatTTS). O
   cliente Go usa timeout longo (15 min) por causa disso e anuncia o estado ao frontend via o evento
   `tts_estado`.
-- O app cacheia o WAV devolvido por `(hanzi, motor)` em SQLite (`tts_audio_cache`,
-  `progresso/tts_cache.go`): repetições nem chegam ao sidecar.
+- O app cacheia o WAV devolvido por `(pinyin, motor)` em arquivos individuais no disco
+  (`%APPDATA%\HanziTracker\cache_audio\<motor>\<pinyin>.wav`, `progresso/tts_cache.go`): repetições
+  nem chegam ao sidecar e não inflam o banco de dados principal.
 - O modelo é **descarregado da RAM** após `SEGUNDOS_OCIOSO_DESCARREGAR_TTS` (300s) sem uso
   (`ServicoTtsBase`), recarregando sob demanda na próxima síntese.

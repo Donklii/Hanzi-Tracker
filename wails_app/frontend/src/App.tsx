@@ -29,7 +29,7 @@ import { useDestaquesTela } from './descobrimento/useDestaquesTela';
 import { useRastreamentoMouse } from './descobrimento/useRastreamentoMouse';
 import { useRefEspelho } from './comum/useRefEspelho';
 import { useLeituraPinyin } from './comum/useLeituraPinyin';
-import { config, main, progresso } from '../wailsjs/go/models';
+import { config, main, progresso, revisao, tela } from '../wailsjs/go/models';
 import { t } from './i18n/i18n';
 import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, RemoveVocab, GetVocab, ShowHighlight, HideHoverPopup, LookupWord, DecomposeCharacter, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, GetCaptureResolution, GetSessionImage, GetLastScreenshot, GetLastCards, GetMonitores, GetCotaTraducao, GetCotaGemini, ObterFocoRevisao, ReiniciarAplicativo, ConverterTexto } from "../wailsjs/go/main/App";
 import { AtalhosProvider } from './atalhos/AtalhosContext';
@@ -56,7 +56,7 @@ function AppConteudo() {
   const [configuracoesApp, setConfiguracoesApp] = useState<config.Config | null>(null);
   const [infoHardware, setInfoHardware] = useState<main.SystemHardware | null>(null);
   const [monitores, setMonitores] = useState<any[]>([]);
-  const [resCaptura, setResCaptura] = useState<main.Resolucao | null>(null);
+  const [resCaptura, setResCaptura] = useState<tela.Resolucao | null>(null);
   const armazenamento = useArmazenamento({
     setStatus,
     aoExcluirTudo: () => {
@@ -97,7 +97,7 @@ function AppConteudo() {
   const [cartaoEmFoco, setCartaoEmFoco] = useState<any | null>(null);
   // Grupo global de foco da revisão: o estado mora aqui porque o painel é exibido no cabeçalho
   // da página (GrupoFocoCabecalho), mas quem carrega/sincroniza os dados é a AbaRevisao.
-  const [focoRevisao, setFocoRevisao] = useState<main.ItemFocoRevisao[]>([]);
+  const [focoRevisao, setFocoRevisao] = useState<revisao.ItemFocoRevisao[]>([]);
   // Re-sincroniza o grupo de foco após adições manuais pelo pop-up (a consulta já rotaciona no backend).
   const recarregarFoco = () => {
     ObterFocoRevisao().then(itens => setFocoRevisao(itens || [])).catch(() => {});
@@ -766,17 +766,17 @@ function AppConteudo() {
           setFoco={setFocoRevisao}
           aoMudarFase={setFaseRevisao}
         />
-
-        {/* Pop-up estilo Balatro: sugere estudar as palavras que o OCR mais viu (abas Seção/Já Vistas) */}
-        <SugestaoEstudoPopup
-          abaAtiva={abaAtiva}
-          habilitado={configuracoesApp?.mostrarSugestaoPalavrasVistas ?? true}
-          SalvarPalavra={SalvarPalavra}
-          setStatus={setStatus}
-          AoClicarNoCartao={AoClicarNoCartao}
-          cartoesSecao={cartoesSecao}
-        />
       </div>
+
+      {/* Pop-up estilo Balatro: sugere estudar as palavras que o OCR mais viu (abas Seção/Já Vistas) */}
+      <SugestaoEstudoPopup
+        abaAtiva={abaAtiva}
+        habilitado={configuracoesApp?.mostrarSugestaoPalavrasVistas ?? true}
+        SalvarPalavra={SalvarPalavra}
+        setStatus={setStatus}
+        AoClicarNoCartao={AoClicarNoCartao}
+        cartoesSecao={cartoesSecao}
+      />
 
       {/* Settings Modal Overlay */}
       <PainelConfiguracoes

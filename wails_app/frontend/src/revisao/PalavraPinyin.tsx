@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { main } from '../../wailsjs/go/models';
+import { revisao } from '../../wailsjs/go/models';
 import { BotaoAudio } from './BotaoAudio';
 import { extrairLeituras } from './comparacaoPronuncia';
 import { tocarSomAcerto } from '../comum/sons';
@@ -13,7 +13,7 @@ import { t } from '../i18n/i18n';
 // Não há falha irreversível; o envio correto conclui a questão com sucesso.
 
 interface PalavraPinyinProps {
-  questao: main.QuestaoRevisao;
+  questao: revisao.QuestaoRevisao;
   respondida: boolean;
   acertou: boolean | null;
   aoConcluir: (acertou: boolean) => void;

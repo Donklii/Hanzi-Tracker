@@ -1,6 +1,9 @@
 // Mapa de tradução português→espanhol da INTERFACE. Chave = string exata em português usada no código;
 // valor = tradução espanhola.
 export const es: Record<string, string> = {
+  'Expandir gerações restantes': 'Expandir generaciones restantes',
+  'Limitar às 3 primeiras gerações': 'Limitar a las 3 primeras generaciones',
+  'Expandir gerações': 'Expandir generaciones',
   'Mostrar mais...': 'Mostrar más...',
   'Mostrar menos...': 'Mostrar menos...',
   'Estudo': 'Estudio',

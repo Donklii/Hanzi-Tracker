@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo, useRef } from 'react';
-import { main } from '../../wailsjs/go/models';
+import { revisao } from '../../wailsjs/go/models';
 import { useSTT } from '../comum/useSTT';
 import { PopupRevisao } from './PopupRevisao';
 import { t } from '../i18n/i18n';
@@ -18,7 +18,7 @@ const MS_EXIBIR_ERRO_SEQUENCIA = 2000;  // variante sequência: cartão vermelho
 const MS_EXIBIR_ACERTO_SEQUENCIA = 1000; // variante sequência: cartão verde antes de avançar
 
 interface PronunciaProps {
-  questao: main.QuestaoRevisao;
+  questao: revisao.QuestaoRevisao;
   respondida: boolean;
   aoConcluir: (acertou: boolean, foiPulada?: boolean) => void;
   aoTocarAudio: (texto: string) => void;
@@ -60,12 +60,12 @@ function PronunciaFrase({ questao, respondida, aoConcluir, aoTocarAudio, AoClica
   const tamanhoAcertosNoInicio = useRef(0);
   const gravouAlgumaVez = useRef(false);
 
-  const tokens = useMemo(() => {
+  const tokens: revisao.PalavraRevisao[] = useMemo(() => {
     return questao.fraseOriginalSegmentada || [];
   }, [questao.fraseOriginalSegmentada]);
 
   const totalChineses = useMemo(() => {
-    return tokens.filter(t => t.ehChines).length;
+    return tokens.filter((t: revisao.PalavraRevisao) => t.ehChines).length;
   }, [tokens]);
 
   const questaoAcertada = totalChineses > 0 ? (indicesAcertados.size / totalChineses) >= 0.75 : false;
@@ -73,8 +73,8 @@ function PronunciaFrase({ questao, respondida, aoConcluir, aoTocarAudio, AoClica
   // Total de hanzis da frase — dimensiona os limites anti-escuta-infinita do useSTT
   const caracteresAlvo = useMemo(() => {
     return tokens
-      .filter(t => t.ehChines)
-      .reduce((soma, t) => soma + t.texto.length, 0);
+      .filter((t: revisao.PalavraRevisao) => t.ehChines)
+      .reduce((soma: number, t: revisao.PalavraRevisao) => soma + t.texto.length, 0);
   }, [tokens]);
 
   const {
@@ -88,14 +88,14 @@ function PronunciaFrase({ questao, respondida, aoConcluir, aoTocarAudio, AoClica
 
   const pinyinAlvo = useMemo(() => {
     return tokens
-      .map(t => t.ehChines ? t.pinyin : t.texto)
+      .map((t: revisao.PalavraRevisao) => t.ehChines ? t.pinyin : t.texto)
       .join(' ');
   }, [tokens]);
 
   const pinyinsFaltando = useMemo(() => {
     return tokens
-      .filter((t, i) => t.ehChines && t.pinyin && !indicesAcertados.has(i))
-      .map(t => t.pinyin)
+      .filter((t: revisao.PalavraRevisao, i: number) => t.ehChines && t.pinyin && !indicesAcertados.has(i))
+      .map((t: revisao.PalavraRevisao) => t.pinyin)
       .join(' ');
   }, [tokens, indicesAcertados]);
 
@@ -130,7 +130,7 @@ function PronunciaFrase({ questao, respondida, aoConcluir, aoTocarAudio, AoClica
       }
 
       if (mudou) {
-        const todosChinesesAcertados = tokens.every((t, i) => !t.ehChines || novosAcertos.has(i));
+        const todosChinesesAcertados = tokens.every((t: revisao.PalavraRevisao, i: number) => !t.ehChines || novosAcertos.has(i));
         if (todosChinesesAcertados) {
           setAcertoPreviamenteDetectado(true);
           parar();
@@ -153,9 +153,9 @@ function PronunciaFrase({ questao, respondida, aoConcluir, aoTocarAudio, AoClica
 
     const avaliarFinal = (acertosAtuais: Set<number>) => {
       limpar();
-      const todosChinesesAcertados = tokens.every((t, i) => !t.ehChines || acertosAtuais.has(i));
+      const todosChinesesAcertados = tokens.every((t: revisao.PalavraRevisao, i: number) => !t.ehChines || acertosAtuais.has(i));
       
-      const totalChinesesVal = tokens.filter(t => t.ehChines).length;
+      const totalChinesesVal = tokens.filter((t: revisao.PalavraRevisao) => t.ehChines).length;
       const acertou75Pct = totalChinesesVal > 0 ? (acertosAtuais.size / totalChinesesVal) >= 0.75 : false;
 
       if (todosChinesesAcertados) {
@@ -294,7 +294,7 @@ function PronunciaFrase({ questao, respondida, aoConcluir, aoTocarAudio, AoClica
               gap: '4px 2px'
             }}
           >
-            {tokens.map((t, idx) => {
+            {tokens.map((t: revisao.PalavraRevisao, idx: number) => {
               const ehAcertado = indicesAcertados.has(idx);
               if (t.ehChines && t.pinyin) {
                 return (
@@ -431,7 +431,7 @@ function PronunciaSequencia({ questao, respondida, aoConcluir, aoTocarAudio, AoC
   // Inicializa a fila de caracteres com base na frase segmentada (mantendo palavras compostas juntas)
   const filaInicial = useMemo(() => {
     const itens: FilaItem[] = [];
-    questao.fraseOriginalSegmentada?.forEach((p, idx) => {
+    questao.fraseOriginalSegmentada?.forEach((p: revisao.PalavraRevisao, idx: number) => {
       if (!p.ehChines) return;
       itens.push({
         id: `${idx}`,
@@ -802,7 +802,7 @@ function PronunciaSequencia({ questao, respondida, aoConcluir, aoTocarAudio, AoC
 function PronunciaBaralho({ questao, respondida, aoConcluir, aoTocarAudio, AoClicarNoCartao, modoDicaInicial = 'consoantes' }: PronunciaProps & { modoDicaInicial?: 'consoantes' | 'vogais' }) {
   const filaInicial = useMemo(() => {
     const itens: FilaItem[] = [];
-    questao.fraseOriginalSegmentada?.forEach((p, idx) => {
+    questao.fraseOriginalSegmentada?.forEach((p: revisao.PalavraRevisao, idx: number) => {
       if (!p.ehChines) return;
       itens.push({
         id: `${idx}`,

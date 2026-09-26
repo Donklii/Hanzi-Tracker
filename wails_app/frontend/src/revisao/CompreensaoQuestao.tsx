@@ -3,13 +3,13 @@
 // Exibe feedback visual de acerto/erro e revela traduções ao final ou no modo guiado.
 
 import React, { useState, useEffect } from 'react';
-import { main } from '../../wailsjs/go/models';
+import { revisao, busca } from '../../wailsjs/go/models';
 import { t } from '../i18n/i18n';
 import { PopupRevisao } from './PopupRevisao';
 import { BotaoAudio } from './BotaoAudio';
 
 interface CompreensaoQuestaoProps {
-  questao: main.QuestaoRevisao;
+  questao: revisao.QuestaoRevisao;
   respondida: boolean;
   indiceEscolhido: number | null;
   aoEscolher: (indice: number) => void;
@@ -87,7 +87,7 @@ export function CompreensaoQuestao({
   if (ehDialogo && respondida && indiceEscolhido !== null && questao.opcoes[indiceEscolhido]) {
     fala2Texto = removerPrefixoPersonagem(questao.opcoes[indiceEscolhido].hanzi || questao.opcoes[indiceEscolhido].definicao || '');
   } else if (ehDialogo && respondida) {
-    const corretaOpt = questao.opcoes.find(o => o.correta);
+    const corretaOpt = questao.opcoes.find((o: busca.OpcaoRevisao) => o.correta);
     if (corretaOpt) {
       fala2Texto = removerPrefixoPersonagem(corretaOpt.hanzi || corretaOpt.definicao || '');
     }
@@ -116,13 +116,13 @@ export function CompreensaoQuestao({
     if (!ehDialogo && respondida) {
       const decomporFn = (window as any).go?.main?.App?.DecomporTextoRevisao;
       if (decomporFn && questao.opcoes) {
-        const promises = questao.opcoes.map((opcao) => {
+        const promises = questao.opcoes.map((opcao: busca.OpcaoRevisao) => {
           const txt = opcao.hanzi || opcao.definicao || '';
           return decomporFn(txt).catch(() => []);
         });
         Promise.all(promises).then((results) => {
           const mapToks: { [idx: number]: any[] } = {};
-          results.forEach((toks, idx) => {
+          results.forEach((toks: any[], idx: number) => {
             mapToks[idx] = toks;
           });
           setTokensOpcoes(mapToks);
@@ -398,7 +398,7 @@ export function CompreensaoQuestao({
 
         {/* --- Grade de Opções de Múltipla Escolha --- */}
         <div className="revisao-opcoes vertical" style={{ width: '100%', display: 'flex', flexDirection: 'column', gap: '14px' }}>
-          {questao.opcoes.map((opcao, indice) => {
+          {questao.opcoes.map((opcao: busca.OpcaoRevisao, indice: number) => {
             const textoOpcaoLimpo = removerPrefixoPersonagem(opcao.hanzi || opcao.definicao || '');
             return (
               <button
@@ -525,7 +525,7 @@ export function CompreensaoQuestao({
 
       {/* --- Grade de Opções de Múltipla Escolha --- */}
       <div className="revisao-opcoes vertical" style={{ width: '100%', display: 'flex', flexDirection: 'column', gap: '14px' }}>
-        {questao.opcoes.map((opcao, indice) => {
+        {questao.opcoes.map((opcao: busca.OpcaoRevisao, indice: number) => {
           const toks = tokensOpcoes[indice];
           const textoFull = opcao.hanzi || opcao.definicao || '';
           return (

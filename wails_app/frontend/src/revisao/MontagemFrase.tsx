@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo, useRef, useLayoutEffect } from 'react';
-import { main } from '../../wailsjs/go/models';
+import { revisao } from '../../wailsjs/go/models';
 import { PopupRevisao } from './PopupRevisao';
 import { BotaoAudio } from './BotaoAudio';
 import { t } from '../i18n/i18n';
@@ -23,7 +23,7 @@ interface SlotState {
 }
 
 interface MontagemFraseProps {
-  questao: main.QuestaoRevisao;
+  questao: revisao.QuestaoRevisao;
   respondida: boolean;
   acertou: boolean | null;
   aoConcluir: (acertou: boolean) => void;

@@ -1,97 +1,175 @@
 package progresso
 
 import (
-	"database/sql"
-	"errors"
+	"crypto/sha256"
+	"encoding/hex"
 	"fmt"
+	"os"
+	"path/filepath"
+	"strings"
+	"wails_app/armazenamento"
 )
 
 // ----- Cache de áudio TTS -----
-// Espelha o traducao_cache.go: tabela dentro do progresso.db (não é arquivo próprio) que guarda o
-// WAV sintetizado por (pinyin, motor). A chave é o PINYIN (não o hanzi) de propósito: hanzis
-// homófonos (马/码/吗, todos "ma") têm a MESMA pronúncia, então compartilham um único áudio — a
-// tradução hanzi→pinyin é feita pelo chamador (App.traduzirHanziParaChaveTts). Sínteses repetidas —
-// hover no mesmo card, revisão — saem instantâneas e sem custo de CPU do torch. A chave inclui o
-// motor porque Kokoro e ChatTTS têm vozes diferentes: trocar o select não pode servir o áudio do
-// motor antigo.
+// Armazena os arquivos WAV sintetizados em arquivos individuais no diretório dedicado em AppData
+// (%APPDATA%\HanziTracker\cache_audio\<motor>\<pinyin>.wav). A chave é o PINYIN (não o hanzi) de
+// propósito: hanzis homófonos (马/码/吗, todos "ma") têm a MESMA pronúncia, compartilhando o mesmo
+// arquivo de áudio. A chave inclui o motor em subpastas dedicadas porque vozes diferentes não
+// podem colidir. Salvar em arquivos desacopla o áudio do banco SQLite (progresso.db), mantendo o
+// arquivo do banco enxuto para sincronização na nuvem e reduzindo a concorrência de locks.
+
 
 // BuscarAudioTts procura um áudio já sintetizado para o par (pinyin, motor).
-// Devolve os bytes do WAV, se achou, e um eventual erro de banco.
+// Devolve os bytes do WAV, se achou, e um eventual erro de I/O.
 func BuscarAudioTts(pinyin, motor string) (audio []byte, achou bool, err error) {
-	if db == nil {
-		return nil, false, fmt.Errorf("DB não inicializado")
-	}
+	caminho := caminhoArquivoAudio(pinyin, motor)
 
-	err = db.QueryRow(
-		"SELECT audio FROM tts_audio_cache WHERE pinyin = ? AND motor = ?",
-		pinyin, motor,
-	).Scan(&audio)
-
+	dados, err := os.ReadFile(caminho)
 	if err != nil {
-		// sql.ErrNoRows não é um erro de fato — só indica cache miss.
-		if errors.Is(err, sql.ErrNoRows) {
+		if os.IsNotExist(err) {
 			return nil, false, nil
 		}
 		return nil, false, err
 	}
 
-	return audio, true, nil
+	return dados, true, nil
 }
 
-// SalvarAudioTts armazena um áudio sintetizado no cache, indexado pela pronúncia (pinyin, motor).
-// Usa INSERT OR IGNORE para que a constraint UNIQUE sirva de rede de segurança contra duplicatas. O
-// chamador DEVE ter verificado BuscarAudioTts ANTES.
+
+// SalvarAudioTts armazena um áudio sintetizado em arquivo individual no disco.
+// A gravação é feita de forma atômica via arquivo temporário para evitar arquivos corrompidos.
 func SalvarAudioTts(pinyin, motor string, audio []byte) error {
-	if db == nil {
-		return fmt.Errorf("DB não inicializado")
+	if len(audio) == 0 {
+		return fmt.Errorf("áudio vazio")
 	}
 
-	_, err := db.Exec(
-		"INSERT OR IGNORE INTO tts_audio_cache (pinyin, motor, audio) VALUES (?, ?, ?)",
-		pinyin, motor, audio,
-	)
-	return err
-}
+	caminho := caminhoArquivoAudio(pinyin, motor)
+	pasta := filepath.Dir(caminho)
 
-// LimparCacheTts apaga todos os áudios cacheados e recupera o espaço em disco.
-func LimparCacheTts() error {
-	if db == nil {
-		return fmt.Errorf("DB não inicializado")
+	if err := os.MkdirAll(pasta, 0755); err != nil {
+		return fmt.Errorf("falha ao criar pasta de cache de áudio: %w", err)
 	}
-	if _, err := db.Exec("DELETE FROM tts_audio_cache"); err != nil {
-		return err
+
+	tempFile := caminho + ".tmp"
+	if err := os.WriteFile(tempFile, audio, 0644); err != nil {
+		return fmt.Errorf("falha ao gravar arquivo temporário de áudio: %w", err)
 	}
-	// Recupera o espaço em disco liberado pelos registros apagados.
-	_, _ = db.Exec("VACUUM")
+
+	if err := os.Rename(tempFile, caminho); err != nil {
+		_ = os.Remove(tempFile)
+		return fmt.Errorf("falha ao mover áudio para destino definitivo: %w", err)
+	}
+
 	return nil
 }
 
-// TamanhoCacheTts devolve uma estimativa do tamanho em bytes e a contagem de áudios cacheados.
-// Como o cache é uma tabela dentro de progresso.db (não um arquivo próprio), o tamanho é
-// aproximado via SUM(LENGTH(...)).
-func TamanhoCacheTts() (bytes int64, linhas int, err error) {
-	if db == nil {
-		return 0, 0, fmt.Errorf("DB não inicializado")
+
+// LimparCacheTts apaga todos os áudios cacheados e o diretório de cache no disco.
+func LimparCacheTts() error {
+	pasta := armazenamento.PastaCacheAudio()
+	if err := os.RemoveAll(pasta); err != nil {
+		return err
+	}
+	return nil
+}
+
+
+// TamanhoCacheTts devolve o tamanho total em bytes e a contagem de arquivos de áudio cacheados.
+func TamanhoCacheTts() (bytes int64, arquivos int, err error) {
+	pasta := armazenamento.PastaCacheAudio()
+	if _, errStat := os.Stat(pasta); errStat != nil {
+		if os.IsNotExist(errStat) {
+			return 0, 0, nil
+		}
+		return 0, 0, errStat
 	}
 
-	// Contagem de linhas
-	err = db.QueryRow("SELECT COUNT(*) FROM tts_audio_cache").Scan(&linhas)
-	if err != nil {
-		return 0, 0, err
+	var totalBytes int64
+	var contagem int
+
+	err = filepath.Walk(pasta, func(_ string, info os.FileInfo, errWalk error) error {
+		if errWalk != nil {
+			return nil
+		}
+		if info != nil && !info.IsDir() && strings.HasSuffix(strings.ToLower(info.Name()), ".wav") {
+			totalBytes += info.Size()
+			contagem++
+		}
+		return nil
+	})
+
+	return totalBytes, contagem, err
+}
+
+
+// ----- Utilitários de Nomenclatura e Caminhos -----
+
+
+// caminhoArquivoAudio devolve o caminho absoluto do arquivo WAV para o par (pinyin, motor).
+func caminhoArquivoAudio(pinyin, motor string) string {
+	pastaMotor := sanitizarNomeMotor(motor)
+	nomeArquivo := sanitizarNomeArquivoAudio(pinyin)
+	return filepath.Join(armazenamento.PastaCacheAudio(), pastaMotor, nomeArquivo)
+}
+
+
+// sanitizarNomeMotor garante um nome seguro de diretório para o motor.
+func sanitizarNomeMotor(motor string) string {
+	nome := strings.TrimSpace(motor)
+	if nome == "" {
+		return "padrao"
 	}
 
-	// Guard clause: tabela vazia — sem necessidade de calcular SUM
-	if linhas == 0 {
-		return 0, 0, nil
+	var builder strings.Builder
+	for _, r := range nome {
+		if r < 32 || r == '\\' || r == '/' || r == ':' || r == '*' || r == '?' || r == '"' || r == '<' || r == '>' || r == '|' {
+			builder.WriteRune('_')
+		} else {
+			builder.WriteRune(r)
+		}
 	}
 
-	// Tamanho aproximado: soma dos comprimentos dos blobs de áudio (domina o tamanho da tabela)
-	err = db.QueryRow(
-		"SELECT COALESCE(SUM(LENGTH(audio)), 0) FROM tts_audio_cache",
-	).Scan(&bytes)
-	if err != nil {
-		return 0, linhas, err
+	limpo := strings.TrimRight(builder.String(), ". ")
+	if limpo == "" {
+		return "padrao"
+	}
+	return limpo
+}
+
+
+// sanitizarNomeArquivoAudio converte a chave pinyin em um nome de arquivo seguro para o SO,
+// preservando os diacríticos de tom e a legibilidade no Explorer.
+func sanitizarNomeArquivoAudio(pinyin string) string {
+	nome := strings.TrimSpace(pinyin)
+	if nome == "" {
+		return "_vazio.wav"
 	}
 
-	return bytes, linhas, nil
+	var builder strings.Builder
+	for _, r := range nome {
+		if r < 32 || r == '\\' || r == '/' || r == ':' || r == '*' || r == '?' || r == '"' || r == '<' || r == '>' || r == '|' {
+			builder.WriteRune('_')
+		} else {
+			builder.WriteRune(r)
+		}
+	}
+
+	limpo := strings.TrimRight(builder.String(), ". ")
+	if limpo == "" {
+		limpo = "_"
+	}
+
+	maiusculo := strings.ToUpper(limpo)
+	if maiusculo == "CON" || maiusculo == "PRN" || maiusculo == "AUX" || maiusculo == "NUL" ||
+		(len(maiusculo) == 4 && (strings.HasPrefix(maiusculo, "COM") || strings.HasPrefix(maiusculo, "LPT")) && maiusculo[3] >= '1' && maiusculo[3] <= '9') {
+		limpo = "_" + limpo
+	}
+
+	runas := []rune(limpo)
+	if len(runas) > 80 {
+		hash := sha256.Sum256([]byte(pinyin))
+		limpo = string(runas[:70]) + "_" + hex.EncodeToString(hash[:4])
+	}
+
+	return limpo + ".wav"
 }

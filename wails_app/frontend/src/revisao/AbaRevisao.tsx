@@ -12,7 +12,7 @@
 import { useEffect, useRef, useState } from 'react';
 import './revisao.css';
 import { t } from '../i18n/i18n';
-import { main, config } from '../../wailsjs/go/models';
+import { config, revisao, busca } from '../../wailsjs/go/models';
 import { ObterQuestoesRevisao, ObterQuestoesRevisaoComPrimeira, ObterPrimeiraQuestaoRevisao, FalarPinyinRevisao, InvalidarSintesesTts, ObterClipesCacheTts, RegistrarRespostaRevisao, RegistrarRespostaFrase, ObterSugestoesAprendidoLote, ObterProgressoRevisaoPalavras, ObterFocoRevisao, AddVocab, ObterArvoreJornada, ObterProgressoJornada, ObterQuestoesJornada, ObterQuestoesJornadaComPrimeira, ObterPrimeiraQuestaoJornada, RegistrarRevisaoJornadaConcluida } from '../../wailsjs/go/main/App';
 import { CanvasDesenho } from '../comum/CanvasDesenho';
 import { SelecaoModoRevisao } from './SelecaoModoRevisao';
@@ -80,8 +80,8 @@ interface AbaRevisaoProps {
   AtualizarConfiguracao?: (key: keyof config.Config, value: any) => void;
   // Grupo global de foco: o estado vive no App, que também o exibe no cabeçalho da página
   // (GrupoFocoCabecalho); esta aba o carrega/sincroniza e usa o snapshot no placar.
-  foco: main.ItemFocoRevisao[];
-  setFoco: (itens: main.ItemFocoRevisao[]) => void;
+  foco: revisao.ItemFocoRevisao[];
+  setFoco: (itens: revisao.ItemFocoRevisao[]) => void;
   aoMudarFase?: (fase: FaseRevisao) => void;
 }
 
@@ -95,7 +95,7 @@ interface SessaoJornada {
 
 // Palavras-alvo da sessão (dedup): no desenho de palavra multi-hanzi q.hanzi vira o hanzi
 // componente e q.palavraFoco é a palavra inteira — o progresso acompanha a PALAVRA.
-function palavrasPraticadasDe(questoes: main.QuestaoRevisao[]): string[] {
+function palavrasPraticadasDe(questoes: revisao.QuestaoRevisao[]): string[] {
   return Array.from(new Set(questoes.map(q => q.palavraFoco || q.hanzi))).filter(Boolean);
 }
 
@@ -107,7 +107,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
   }, [fase, aoMudarFase]);
   const [modo, setModo] = useState('');
   const [popupInfo, setPopupInfo] = useState<{hanzi: string, pinyin: string, significados: string, x: number, y: number} | null>(null);
-  const [questoes, setQuestoes] = useState<main.QuestaoRevisao[]>([]);
+  const [questoes, setQuestoes] = useState<revisao.QuestaoRevisao[]>([]);
   const [totalInicial, setTotalInicial] = useState(0);
   const [indiceAtual, setIndiceAtual] = useState(0);
   const [acertos, setAcertos] = useState(0);
@@ -123,7 +123,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
   const [progressoJornada, setProgressoJornada] = useState<Record<string, number>>({});
   const [nivelAbertoId, setNivelAbertoId] = useState<string | null>(null);
   const [sessaoJornada, setSessaoJornada] = useState<SessaoJornada | null>(null);
-  const [filaErros, setFilaErros] = useState<main.QuestaoRevisao[]>([]);
+  const [filaErros, setFilaErros] = useState<revisao.QuestaoRevisao[]>([]);
   const [emRecuperacao, setEmRecuperacao] = useState(false);
   // rodadaRecuperacao entra na key da questão: sem ela, uma questão repetida na MESMA posição da
   // fila (2ª rodada de recuperação em diante) não remontaria, e os componentes com estado próprio
@@ -141,17 +141,17 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
   // Progresso por palavra para o placar: retrato ANTES da sessão (buscado assim que as questões
   // chegam) e a visão consolidada com os deltas por área (montada ao concluir a última questão).
-  const todasQuestoesSessaoRef = useRef<main.QuestaoRevisao[]>([]);
-  const progressoAntesRef = useRef<Map<string, main.ProgressoPalavraRevisao> | null>(null);
+  const todasQuestoesSessaoRef = useRef<revisao.QuestaoRevisao[]>([]);
+  const progressoAntesRef = useRef<Map<string, revisao.ProgressoPalavraRevisao> | null>(null);
   const [progressoPlacar, setProgressoPlacar] = useState<ProgressoPalavraPlacar[]>([]);
   const [metaAcertos, setMetaAcertos] = useState(3);
   const [modoCarregando, setModoCarregando] = useState<string | null>(null);
-  const [primeiraQuestaoCarregando, setPrimeiraQuestaoCarregando] = useState<main.QuestaoRevisao | null>(null);
+  const [primeiraQuestaoCarregando, setPrimeiraQuestaoCarregando] = useState<revisao.QuestaoRevisao | null>(null);
 
   // Grupo global de foco (foco_revisao.go): os caracteres priorizados entre sessões — estado no
   // App (exibido no cabeçalho via GrupoFocoCabecalho), carregado/sincronizado aqui. O snapshot
   // pré-sessão permite destacar no placar quem ENTROU no grupo ao marcar palavras como aprendidas.
-  const [focoNovas, setFocoNovas] = useState<main.ItemFocoRevisao[]>([]);
+  const [focoNovas, setFocoNovas] = useState<revisao.ItemFocoRevisao[]>([]);
   const focoAntesDaSessaoRef = useRef<string[]>([]);
 
   // Gamificação: sequência de acertos (combo), melhor sequência da sessão e pontos acumulados.
@@ -192,7 +192,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
   // demais (o usuário já seguiu adiante) — ver VALIDADE_AUDIO_MS.
   const tsReproducaoRef = useRef(0);
 
-  const questaoAtual: main.QuestaoRevisao | undefined = questoes[indiceAtual];
+  const questaoAtual: revisao.QuestaoRevisao | undefined = questoes[indiceAtual];
   const respondida = acertouAtual !== null;
 
   // Os jingles obedecem ao toggle das configurações (ligado por padrão).
@@ -293,7 +293,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
         textoParaPrecarregar = q.hanzi;
       } else if (q.variante === 'quebracabeca_significado' || q.variante === 'quebracabeca_fonetica' || q.variante === 'quebracabeca_trio') {
         // Pré-carrega o áudio de todas as 6 opções do quebra-cabeça (palavras: vão para o cache).
-        q.opcoes.forEach(opt => {
+        q.opcoes.forEach((opt: busca.OpcaoRevisao) => {
           if (opt.hanzi) obterAudioBuffer(opt.hanzi).catch(() => {});
         });
       }
@@ -307,10 +307,10 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
       // Fonética-frase / Fonética-tradução: pré-carrega também os clipes por palavra (leitura lenta "tartaruga")
       if (q.variante === 'fonetica_frase' || q.variante === 'fonetica_traducao' || q.variante === 'fonetica_fila_pinyin') {
         const palavras = (q.fraseOriginalSegmentada || [])
-          .filter(t => t.ehChines && t.texto)
-          .map(t => t.texto);
+          .filter((t: revisao.PalavraRevisao) => t.ehChines && t.texto)
+          .map((t: revisao.PalavraRevisao) => t.texto);
         palavras.reduce(
-          (fila, palavra) => fila.then(() => obterAudioBuffer(palavra).then(() => {}, () => {})),
+          (fila: Promise<void>, palavra: string) => fila.then(() => obterAudioBuffer(palavra).then(() => {}, () => {})),
           Promise.resolve()
         );
       }
@@ -350,7 +350,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
         }
         return ObterQuestoesRevisao(modoParaBackend, qtdQuestoes);
       })
-      .then((qs: main.QuestaoRevisao[]) => iniciarQuestoes(qs))
+      .then((qs: revisao.QuestaoRevisao[]) => iniciarQuestoes(qs))
       .catch((err: any) => {
         setStatus(t('⚠️ Revisão: {erro}', { erro: String(err) }));
         setFase('selecao');
@@ -359,7 +359,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
   // iniciarQuestoes zera o estado da sessão e entra na fase de questões. Serve a qualquer origem
   // de questões (modo comum ou Jornada).
-  function iniciarQuestoes(qs: main.QuestaoRevisao[]) {
+  function iniciarQuestoes(qs: revisao.QuestaoRevisao[]) {
     if (transicaoSessaoTimeoutRef.current) {
       clearTimeout(transicaoSessaoTimeoutRef.current);
       transicaoSessaoTimeoutRef.current = null;
@@ -547,7 +547,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
       // Se a questão foi PULADA pelo usuário, ela NÃO deve reaparecer para correção!
       const deveRevisarErradas = !!sessaoJornada || (configuracoesApp?.revisarErradasAoFinal ?? true);
       if (deveRevisarErradas && q && !foiPulada) {
-        const copia = main.QuestaoRevisao.createFrom(q);
+        const copia = revisao.QuestaoRevisao.createFrom(q);
         setFilaErros(fila => [...fila, copia]);
       }
     }
@@ -681,7 +681,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
   // Palavras chinesas da frase: uma por segmento; sem segmentação, cai para caractere a caractere.
   // Base da verificação de cache e da leitura em sequência.
-  function palavrasChinesasDe(frase: string, segmentos: main.PalavraRevisao[] | undefined): string[] {
+  function palavrasChinesasDe(frase: string, segmentos: revisao.PalavraRevisao[] | undefined): string[] {
     const palavras = (segmentos || []).filter(s => s.ehChines && s.texto).map(s => s.texto);
     if (palavras.length > 0) return palavras;
     return [...frase].filter(ch => /[\u4e00-\u9fff]/.test(ch));
@@ -692,7 +692,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
   // separadas já estão em cache, toca-as em sequência (frase o mais fluida possível); senão, aguarda
   // a frase carregar por completo sem tocar nada — só um aviso —, deixando o buffer pronto para o
   // próximo clique.
-  async function tocarAudioFrase(frase: string, segmentos: main.PalavraRevisao[] | undefined) {
+  async function tocarAudioFrase(frase: string, segmentos: revisao.PalavraRevisao[] | undefined) {
     if (!frase) return;
     pararAudio();
 
@@ -799,7 +799,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
 
   // Leitura "tartaruga" da fonética-frase: fala palavra por palavra, mais devagar e com uma
   // pausa suave entre elas, para o ouvido isolar cada som antes de montar a frase.
-  async function tocarAudioLento(frase: string, segmentos: main.PalavraRevisao[] | undefined) {
+  async function tocarAudioLento(frase: string, segmentos: revisao.PalavraRevisao[] | undefined) {
     if (!frase) return;
     pararAudio();
     const vez = ++leituraLentaRef.current;
@@ -1122,7 +1122,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
                   (!segmentada || segmentada.length === 0) ? (
                     <span>{questaoAtual.fraseOriginal}</span>
                   ) : (
-                    segmentada.map((t, idx) => {
+                    segmentada.map((t: revisao.PalavraRevisao, idx: number) => {
                       if (t.ehChines && t.pinyin) {
                         return (
                           <span
@@ -1271,7 +1271,7 @@ export function AbaRevisao({ abaAtiva, configuracoesApp, setStatus, AoClicarNoCa
                   if (!segmentada || segmentada.length === 0) {
                     return <span>{(respondida || ehTraducaoContexto) ? questaoAtual.fraseOriginal : questaoAtual.fraseLacuna}</span>;
                   }
-                  return segmentada.map((t, idx) => {
+                  return segmentada.map((t: revisao.PalavraRevisao, idx: number) => {
                     if (t.ehChines && t.pinyin) {
                       return (
                         <div

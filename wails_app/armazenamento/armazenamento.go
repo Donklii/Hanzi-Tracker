@@ -39,6 +39,11 @@ func CaminhoBanco() string {
 	return filepath.Join(PastaDados(), "progresso.db")
 }
 
+
+func PastaCacheAudio() string {
+	return filepath.Join(PastaDados(), "cache_audio")
+}
+
 // ----- Medição -----
 
 // TamanhoCaminho soma o tamanho de um arquivo ou de todos os arquivos de uma pasta (recursivo).

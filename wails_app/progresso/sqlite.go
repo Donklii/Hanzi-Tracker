@@ -96,15 +96,6 @@ func InitDB() error {
 		data_add DATETIME DEFAULT CURRENT_TIMESTAMP
 	);
 
-	CREATE TABLE IF NOT EXISTS tts_audio_cache (
-		id INTEGER PRIMARY KEY AUTOINCREMENT,
-		pinyin TEXT NOT NULL,
-		motor TEXT NOT NULL,
-		audio BLOB NOT NULL,
-		data_add DATETIME DEFAULT CURRENT_TIMESTAMP,
-		UNIQUE(pinyin, motor)
-	);
-
 	CREATE TABLE IF NOT EXISTS foco_revisao (
 		id INTEGER PRIMARY KEY AUTOINCREMENT,
 		hanzi TEXT UNIQUE NOT NULL,
@@ -173,8 +164,8 @@ func InitDB() error {
 		return err
 	}
 
-	// Migra o cache de TTS do schema antigo (chave por hanzi) para o novo (chave por pinyin).
-	if err := migrarCacheTtsParaPinyin(); err != nil {
+	// Migra o cache de áudio TTS do banco para arquivos individuais em AppData e dropa a tabela tts_audio_cache.
+	if err := migrarCacheTtsParaArquivos(); err != nil {
 		return err
 	}
 
@@ -187,50 +178,59 @@ func InitDB() error {
 	return nil
 }
 
-// migrarCacheTtsParaPinyin recria a tabela tts_audio_cache quando ela ainda está no schema antigo
-// (chave por `hanzi`). A chave passou a ser o PINYIN para que hanzis homófonos compartilhem um único
-// áudio (ver App.traduzirHanziParaChaveTts). Como o cache é descartável, a migração simplesmente
-// dropa e recria — os áudios são re-sintetizados sob demanda. Idempotente: no schema novo, não faz nada.
-func migrarCacheTtsParaPinyin() error {
-	rows, err := db.Query("PRAGMA table_info(tts_audio_cache)")
+
+// migrarCacheTtsParaArquivos migra todos os áudios já salvos na tabela tts_audio_cache para arquivos
+// individuais no diretório dedicado em AppData (%APPDATA%\HanziTracker\cache_audio\<motor>\<pinyin>.wav),
+// faz o DROP da tabela no SQLite e executa VACUUM para reduzir o progresso.db. Idempotente: se a tabela
+// não existir mais no banco, retorna imediatamente sem custo.
+func migrarCacheTtsParaArquivos() error {
+	var existe int
+	err := db.QueryRow("SELECT COUNT(*) FROM sqlite_master WHERE type='table' AND name='tts_audio_cache'").Scan(&existe)
 	if err != nil {
 		return err
 	}
-	defer rows.Close()
 
-	temColunaHanzi := false
-	for rows.Next() {
-		var cid, notnull, pk int
-		var nome, tipo string
-		var dflt sql.NullString
-		if err := rows.Scan(&cid, &nome, &tipo, &notnull, &dflt, &pk); err != nil {
-			return err
-		}
-		if nome == "hanzi" {
-			temColunaHanzi = true
-		}
-	}
-	if err := rows.Err(); err != nil {
-		return err
-	}
-
-	// Guard clause: já está no schema novo (chave por pinyin) — nada a migrar.
-	if !temColunaHanzi {
+	// Guard clause: tabela já não existe mais — nada a migrar.
+	if existe == 0 {
 		return nil
 	}
 
-	_, err = db.Exec(`
-		DROP TABLE tts_audio_cache;
-		CREATE TABLE tts_audio_cache (
-			id INTEGER PRIMARY KEY AUTOINCREMENT,
-			pinyin TEXT NOT NULL,
-			motor TEXT NOT NULL,
-			audio BLOB NOT NULL,
-			data_add DATETIME DEFAULT CURRENT_TIMESTAMP,
-			UNIQUE(pinyin, motor)
-		);
-	`)
-	return err
+	rowsInfo, err := db.Query("PRAGMA table_info(tts_audio_cache)")
+	if err != nil {
+		return err
+	}
+	defer rowsInfo.Close()
+
+	colunaChave := "pinyin"
+	for rowsInfo.Next() {
+		var cid, notnull, pk int
+		var nome, tipo string
+		var dflt sql.NullString
+		if errScan := rowsInfo.Scan(&cid, &nome, &tipo, &notnull, &dflt, &pk); errScan == nil && nome == "hanzi" {
+			colunaChave = "hanzi"
+		}
+	}
+	rowsInfo.Close()
+
+	query := fmt.Sprintf("SELECT %s, motor, audio FROM tts_audio_cache", colunaChave)
+	rows, err := db.Query(query)
+	if err == nil {
+		for rows.Next() {
+			var chave, motor string
+			var audio []byte
+			if errScan := rows.Scan(&chave, &motor, &audio); errScan == nil && len(audio) > 0 {
+				_ = SalvarAudioTts(chave, motor, audio)
+			}
+		}
+		rows.Close()
+	}
+
+	if _, err := db.Exec("DROP TABLE tts_audio_cache"); err != nil {
+		return err
+	}
+
+	_, _ = db.Exec("VACUUM")
+	return nil
 }
 
 func AddOuUpdateVocab(hanzi, status string) error {

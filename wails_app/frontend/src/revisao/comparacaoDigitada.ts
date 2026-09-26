@@ -7,7 +7,7 @@
 // inviável), reaproveitando o normalizador de sílabas do módulo de pronúncia.
 
 import { extrairLeituras } from './comparacaoPronuncia';
-import { main } from '../../wailsjs/go/models';
+import { revisao } from '../../wailsjs/go/models';
 
 // Faixa de caracteres Han (URO + Extensão A) — cobre o vocabulário do app.
 const REGEX_HAN = /[㐀-鿿]/;
@@ -55,18 +55,18 @@ function avaliar(entrada: string, alvoHanzis: string, pinyinsAceitos: string[]):
 }
 
 // Contexto (escrever 1 hanzi): compara com questao.hanzi ou com o pinyin do alvo (polifônicos OK).
-export function avaliarRespostaContexto(entrada: string, questao: main.QuestaoRevisao): ResultadoDigitado {
+export function avaliarRespostaContexto(entrada: string, questao: revisao.QuestaoRevisao): ResultadoDigitado {
   return avaliar(entrada, questao.hanzi, leiturasCompactas(questao.pinyin));
 }
 
 // Frase (fonética-frase / ordenação): compara com a sequência de hanzis da frase ou com o pinyin
 // de todos os tokens chineses concatenado. Usa a leitura primária de cada token (antes de vírgula)
 // para não explodir polifônicos em várias "leituras da frase".
-export function avaliarRespostaFrase(entrada: string, questao: main.QuestaoRevisao): ResultadoDigitado {
-  const tokens = (questao.fraseOriginalSegmentada || []).filter(t => t.ehChines);
-  const alvoHanzis = tokens.length ? tokens.map(t => t.texto).join('') : (questao.fraseOriginal || '');
+export function avaliarRespostaFrase(entrada: string, questao: revisao.QuestaoRevisao): ResultadoDigitado {
+  const tokens = (questao.fraseOriginalSegmentada || []).filter((t: revisao.PalavraRevisao) => t.ehChines);
+  const alvoHanzis = tokens.length ? tokens.map((t: revisao.PalavraRevisao) => t.texto).join('') : (questao.fraseOriginal || '');
   const pinyinFrase = tokens
-    .map(t => (t.pinyin || '').split(/[,，;；/]/)[0])
+    .map((t: revisao.PalavraRevisao) => (t.pinyin || '').split(/[,，;；/]/)[0])
     .join(' ');
   return avaliar(entrada, alvoHanzis, [compactarPinyin(pinyinFrase)].filter(Boolean));
 }

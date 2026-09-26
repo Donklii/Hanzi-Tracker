@@ -1,5 +1,5 @@
 import React from 'react';
-import { main } from '../../wailsjs/go/models';
+import { revisao } from '../../wailsjs/go/models';
 import { t } from '../i18n/i18n';
 import { rotuloTema, rotuloDificuldade } from './taxonomiaFrases';
 
@@ -69,7 +69,7 @@ const MAPA_TEMAS: Record<string, string> = {
 };
 
 interface MetaFraseProps {
-  questao: main.QuestaoRevisao;
+  questao: revisao.QuestaoRevisao;
   respondida?: boolean;
   revelarFraseManual?: boolean;
 }
@@ -102,7 +102,7 @@ export function MetaFrase({ questao, respondida, revelarFraseManual }: MetaFrase
 
 // ----- Seção: Funções Auxiliares e Formatação -----
 
-export function verificarEhQuestaoComFrase(questao?: main.QuestaoRevisao): boolean {
+export function verificarEhQuestaoComFrase(questao?: revisao.QuestaoRevisao): boolean {
   if (!questao) return false;
   if (questao.fraseTema || questao.fraseDificuldade || questao.fraseOriginal) return true;
 
@@ -123,7 +123,7 @@ export function verificarEhQuestaoComFrase(questao?: main.QuestaoRevisao): boole
 
 
 export function verificarEhFraseCensurada(
-  questao: main.QuestaoRevisao,
+  questao: revisao.QuestaoRevisao,
   respondida?: boolean,
   revelarFraseManual?: boolean
 ): boolean {

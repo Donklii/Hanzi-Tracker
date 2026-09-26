@@ -237,3 +237,56 @@
   border-top-right-radius: 6px;
 }
 
+.arvore-no-mais-filhos {
+  position: absolute;
+  bottom: -9px;
+  background-color: var(--cor-destaque);
+  color: #fff;
+  border: 1.5px solid var(--cor-fundo-cartao);
+  border-radius: 10px;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 7px;
+  cursor: pointer;
+  line-height: 1.3;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.35);
+  transition: transform 0.15s ease, background-color 0.15s ease;
+  z-index: 2;
+}
+
+.arvore-no-mais-filhos:hover {
+  transform: scale(1.15);
+  filter: brightness(1.15);
+}
+
+.arvore-acoes-rodape {
+  display: flex;
+  justify-content: center;
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px dashed var(--cor-borda);
+}
+
+.arvore-botao-expandir {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--cor-fundo-entrada);
+  color: var(--cor-destaque);
+  border: 1px solid var(--cor-borda);
+  border-radius: 20px;
+  padding: 6px 16px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.arvore-botao-expandir:hover {
+  background-color: var(--cor-fundo-secundario);
+  border-color: var(--cor-destaque);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+

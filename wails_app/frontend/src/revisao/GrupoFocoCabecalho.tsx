@@ -5,7 +5,7 @@
 // botão de lista que abre o pop-up de gerenciamento (FocoPopup). O tamanho do grupo e a adição
 // manual moraram na linha antes; agora vivem no pop-up para deixar o cabeçalho enxuto.
 import { useState, useEffect } from 'react';
-import { config, main } from '../../wailsjs/go/models';
+import { config, revisao } from '../../wailsjs/go/models';
 import { Interruptor } from './Interruptor';
 import { FocoPopup } from './FocoPopup';
 import { t } from '../i18n/i18n';
@@ -14,8 +14,8 @@ import './revisao.css';
 interface GrupoFocoCabecalhoProps {
   configuracoesApp: config.Config | null;
   AtualizarConfiguracao?: (key: keyof config.Config, value: any) => void;
-  foco: main.ItemFocoRevisao[];
-  aoClicarNoFoco?: (item: main.ItemFocoRevisao) => void;
+  foco: revisao.ItemFocoRevisao[];
+  aoClicarNoFoco?: (item: revisao.ItemFocoRevisao) => void;
   recarregarFoco?: () => void;
 }
 

@@ -1,5 +1,5 @@
 // ----- Seção: Configurações — aba Desempenho (resolução do OCR e limites de CPU/GPU) -----
-import { config, main } from '../../../wailsjs/go/models';
+import { config, main, tela } from '../../../wailsjs/go/models';
 import { SecaoDependente } from '../comum';
 import { t } from '../../i18n/i18n';
 
@@ -7,7 +7,7 @@ interface AbaDesempenhoProps {
   termoBusca: string;
   configuracoesApp: config.Config;
   AtualizarConfiguracao: (key: keyof config.Config, value: any) => void;
-  resCaptura: main.Resolucao | null;
+  resCaptura: tela.Resolucao | null;
   AplicarConfiguracao: (mudancas: Partial<config.Config>) => void;
   infoHardware: main.SystemHardware | null;
   ehCpuNome: (hw: string) => boolean;

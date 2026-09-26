@@ -1,19 +1,19 @@
 // ----- Seção: Componente Skeleton Loading da Revisão -----
 import { t } from '../i18n/i18n';
-import { main } from '../../wailsjs/go/models';
+import { revisao } from '../../wailsjs/go/models';
 
 export type TipoSkeleton = 'opcoes' | 'desenho' | 'montagem' | 'pronuncia' | 'quebracabeca' | 'quebracabeca_trio' | 'fila_pinyin';
 
 interface SkeletonRevisaoProps {
   modo?: string | null;
-  questao?: main.QuestaoRevisao | null;
+  questao?: revisao.QuestaoRevisao | null;
   modosDesativados?: string[];
   mensagem?: string;
 }
 
 export function determinarTipoSkeleton(
   modo?: string | null,
-  questao?: main.QuestaoRevisao | null,
+  questao?: revisao.QuestaoRevisao | null,
   modosDesativados?: string[]
 ): TipoSkeleton {
   // 1. Se já temos a primeira questão (qs[0]), a variante é 100% exata!

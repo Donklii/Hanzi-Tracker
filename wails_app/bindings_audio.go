@@ -83,7 +83,7 @@ func (a *App) garantirMotorTts(nome string) error {
 // FalarPinyin é o gatilho de "ler o pinyin em voz alta": recebe o HANZI do card (não a string de
 // pinyin romanizada — é o hanzi que garante pronúncia nativa correta) e o nome do motor de TTS
 // selecionado, e devolve os bytes do WAV sintetizado em base64 (o frontend toca via <audio> — o
-// popup nativo Win32 não tem áudio). Consulta primeiro o cache em SQLite, indexado pela PRONÚNCIA
+// popup nativo Win32 não tem áudio). Consulta primeiro o cache em disco, indexado pela PRONÚNCIA
 // (pinyin do hanzi): hanzis homófonos compartilham um único áudio, então a leitura sai instantânea e
 // sem custo de CPU mesmo na primeira vez que ESTE hanzi aparece, se um homófono já foi lido antes.
 //
@@ -294,7 +294,7 @@ func (a *App) ObterClipesCacheTts(palavras []string, motor string) ([]string, er
 
 // ----- Pré-carregamento do cache de áudio (TTS) -----
 // Sintetiza EM LOTE a fala de todas as palavras dos dicionários embarcados (CC-CEDICT +
-// MakeMeAHanzi) e grava cada WAV no cache de TTS (progresso.db, por hanzi+motor), para que a leitura
+// MakeMeAHanzi) e grava cada WAV no cache de TTS (em arquivos por pinyin+motor), para que a leitura
 // em voz alta de qualquer card saia instantânea e sem custo de CPU depois. É uma operação LONGA
 // (dezenas de milhares de sínteses no torch), então:
 //   - roda em SEGUNDO PLANO (goroutine), o gatilho volta na hora;

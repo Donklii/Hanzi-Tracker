@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { main } from '../../wailsjs/go/models';
+import { revisao } from '../../wailsjs/go/models';
 import { BotaoAudio } from './BotaoAudio';
 import { extrairLeituras } from './comparacaoPronuncia';
 import { tocarSomAcerto } from '../comum/sons';
@@ -19,7 +19,7 @@ import { t } from '../i18n/i18n';
 // partes corretas e incorretas, a parte correta é validada e a parte incorreta é descartada.
 
 interface FilaPinyinProps {
-  questao: main.QuestaoRevisao;
+  questao: revisao.QuestaoRevisao;
   respondida: boolean;
   acertou: boolean | null;
   aoConcluir: (acertou: boolean) => void;
@@ -35,7 +35,7 @@ function compactarPinyin(texto: string): string {
   return extrairLeituras(texto).reduce((acc, leitura) => acc + leitura.join(''), '');
 }
 
-function leiturasAceitasToken(token: main.PalavraRevisao): string[] {
+function leiturasAceitasToken(token: revisao.PalavraRevisao): string[] {
   if (!token.pinyin) return [];
   const pinyinsBrutos = token.pinyin.split(/[,，;；/]/);
   const aceitas: string[] = [];
@@ -55,7 +55,7 @@ function apenasHanzis(texto: string): string {
   return achados ? achados.join('') : '';
 }
 
-function contarLetrasPinyinClean(token: main.PalavraRevisao): number {
+function contarLetrasPinyinClean(token: revisao.PalavraRevisao): number {
   if (!token.pinyin) return 0;
   const pLimpo = token.pinyin.split(/[,，;；/]/)[0].replace(/[\s'`’-]/g, '');
   return pLimpo.length;
@@ -74,7 +74,7 @@ export interface ResultadoMatching {
 // Valida sequencialmente as palavras digitadas a partir do índice atual da frase.
 export function conferirPrefixoMatching(
   entrada: string,
-  tokens: main.PalavraRevisao[],
+  tokens: revisao.PalavraRevisao[],
   startIdx: number
 ): ResultadoMatching {
   if (!entrada || startIdx >= tokens.length) {
@@ -212,7 +212,7 @@ export function FilaPinyin({
   hanziSintetizando,
   AoClicarNoCartao
 }: FilaPinyinProps) {
-  const tokens = (questao.fraseOriginalSegmentada || []).filter(t => t.ehChines && t.texto);
+  const tokens = (questao.fraseOriginalSegmentada || []).filter((t: revisao.PalavraRevisao) => t.ehChines && t.texto);
 
   const [indiceAtual, setIndiceAtual] = useState(0);
   const [entrada, setEntrada] = useState('');
@@ -263,7 +263,7 @@ export function FilaPinyin({
   }, [indiceAtual, respondida]);
 
   // Total de letras pendentes a partir do índice efetivo atual (primeira palavra não escrita nem enviada)
-  const totalLetrasPendentes = tokens.reduce((acc, t, idx) => {
+  const totalLetrasPendentes = tokens.reduce((acc: number, t: revisao.PalavraRevisao, idx: number) => {
     if (idx < indiceEfetivo || concluidos[idx]) return acc;
     return acc + contarLetrasPinyinClean(t);
   }, 0);
@@ -323,7 +323,7 @@ export function FilaPinyin({
   }
 
   // Renderiza o pinyin censurado ou revelado de um token específico
-  function renderizarPinyinDoToken(token: main.PalavraRevisao, tokenIdx: number) {
+  function renderizarPinyinDoToken(token: revisao.PalavraRevisao, tokenIdx: number) {
     const pinyinOriginal = token.pinyin ? token.pinyin.split(/[,，;；/]/)[0].trim() : '';
     if (!pinyinOriginal) return null;
 
@@ -379,7 +379,7 @@ export function FilaPinyin({
             aoClicar={() => aoTocarAudio(questao.fraseOriginal)}
           />
           <div className="revisao-frase-tokens-container">
-            {tokens.map((token, idx) => {
+            {tokens.map((token: revisao.PalavraRevisao, idx: number) => {
               const ehConcluidoOuLive = concluidos[idx] || respondida || idx < indiceEfetivo;
               const ehAtivo = idx === indiceEfetivo && !respondida && !ehConcluidoOuLive;
 

@@ -6,12 +6,12 @@
 //   'audio'        — um botão ▶ que TOCA o som daquela opção (o clique no corpo do botão responde)
 //   'imagem_hanzi' — imagem do Hanzi em miniatura + o Hanzi/palavra abaixo
 // Após respondida: a opção correta fica verde; a escolhida errada fica vermelha (com tremor).
-import { main } from '../../wailsjs/go/models';
+import { busca } from '../../wailsjs/go/models';
 import { t } from '../i18n/i18n';
 import { obterUrlImagemHanzi } from './obterImagemHanzi';
 
 interface OpcoesRevisaoProps {
-  opcoes: main.OpcaoRevisao[];
+  opcoes: busca.OpcaoRevisao[];
   tipoConteudo: 'hanzi' | 'definicao' | 'audio' | 'pinyin' | 'imagem_hanzi';
   respondida: boolean;
   indiceEscolhido: number | null;

@@ -89,28 +89,15 @@ export function SugestaoEstudoPopup({ abaAtiva, habilitado, SalvarPalavra, setSt
     }
     window.addEventListener('keydown', aoTeclarHandler);
     return () => window.removeEventListener('keydown', aoTeclarHandler);
-  });
-
-  const scrollPosRef = useRef<number>(0);
-
-  // Bloqueia a rolagem da seção principal (.main-content) enquanto o pop-up está aberto e visível,
-  // mantendo o pop-up visível no topo e restaurando a rolagem original ao fechar.
-  useEffect(() => {
-    const visivel = aberto && abaAtiva === abaOndeAbriu;
-    if (!visivel) return;
-    const painelPrincipal = document.querySelector('.main-content') as HTMLElement | null;
-    if (!painelPrincipal) return;
-
-    scrollPosRef.current = painelPrincipal.scrollTop;
-    const overflowOriginal = painelPrincipal.style.overflowY;
-    painelPrincipal.style.overflowY = 'hidden';
-    painelPrincipal.scrollTop = 0;
-
-    return () => {
-      painelPrincipal.style.overflowY = overflowOriginal;
-      painelPrincipal.scrollTop = scrollPosRef.current;
-    };
   }, [aberto, abaAtiva, abaOndeAbriu]);
+
+  // Se o usuário trocar de aba enquanto o pop-up estiver aberto, fecha com segurança.
+  useEffect(() => {
+    if (aberto && abaAtiva !== abaOndeAbriu) {
+      setAberto(false);
+      setAbaOndeAbriu(null);
+    }
+  }, [abaAtiva, aberto, abaOndeAbriu]);
 
   if (!aberto || cartas.length === 0 || abaAtiva !== abaOndeAbriu) {
     return null;
@@ -163,7 +150,7 @@ export function SugestaoEstudoPopup({ abaAtiva, habilitado, SalvarPalavra, setSt
 
   return (
     <div className="sugestao-estudo-overlay" onClick={IgnorarTodas}>
-      <div className="sugestao-estudo-mesa">
+      <div className="sugestao-estudo-mesa" onClick={(e) => e.stopPropagation()}>
         <div className="sugestao-estudo-titulo">{t('Palavras muito vistas!')}</div>
         <div className="sugestao-estudo-subtitulo">
           {t('O OCR encontrou estas palavras várias vezes na sua tela. Quer movê-las para "Em estudo"?')}

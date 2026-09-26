@@ -211,8 +211,8 @@ não manualmente.
 O status de estudo, configurações, motores e caches ficam persistidos automaticamente pelo Go no
 diretório AppData do Windows do usuário logado:
 
-```
-%APPDATA%\HanziTracker\progresso.db               ← vocabulário + cache de tradução e de áudio TTS (SQLite)
+%APPDATA%\HanziTracker\progresso.db               ← vocabulário + cache de tradução (SQLite)
+%APPDATA%\HanziTracker\cache_audio\<Motor>\       ← cache de áudio TTS (.wav por pinyin)
 %APPDATA%\HanziTracker\configuracoes.json          ← configurações alteradas via UI
 %APPDATA%\HanziTracker\motores_ocr\<Motor>\        ← sidecar de OCR baixado (.exe + pesos em modelos\)
 %APPDATA%\HanziTracker\motores_tts\<Motor>\        ← sidecar de voz baixado (.exe + pesos do Hugging Face)

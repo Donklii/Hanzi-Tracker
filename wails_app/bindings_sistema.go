@@ -129,7 +129,7 @@ func (a *App) GetStorageInfo() StorageInfo {
 			Chave:     "cache_tts",
 			Rotulo:    "Cache de Áudio (Voz)",
 			Descricao: "Falas já sintetizadas, para repetições saírem instantâneas e sem custo de CPU.",
-			Caminho:   armazenamento.CaminhoBanco() + " (Tabela interna)",
+			Caminho:   armazenamento.PastaCacheAudio(),
 			Bytes:     tamanhoCacheTts,
 			Limpavel:  true,
 		})

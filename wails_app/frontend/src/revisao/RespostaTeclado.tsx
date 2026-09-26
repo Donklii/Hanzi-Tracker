@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
-import { main } from '../../wailsjs/go/models';
+import { revisao } from '../../wailsjs/go/models';
 import { BotaoAudio } from './BotaoAudio';
 import { avaliarRespostaContexto, avaliarRespostaFrase, ModoResposta } from './comparacaoDigitada';
 import { t } from '../i18n/i18n';
@@ -11,7 +11,7 @@ import { t } from '../i18n/i18n';
 // do "✏️ Prefiro desenhar a resposta": substitui a área de resposta e oferece um "↩ Voltar".
 
 interface RespostaTecladoProps {
-  questao: main.QuestaoRevisao;
+  questao: revisao.QuestaoRevisao;
   escopo: 'hanzi' | 'frase'; // hanzi = 1 caractere (contexto); frase = sentença inteira
   respondida: boolean;
   acertou: boolean | null;
@@ -119,7 +119,7 @@ export function RespostaTeclado({
 }
 
 interface FraseReveladaProps {
-  questao: main.QuestaoRevisao;
+  questao: revisao.QuestaoRevisao;
   aoTocarAudio: (texto: string) => void;
   hanziTocando: string | null;
   hanziSintetizando: string | null;
@@ -139,7 +139,7 @@ function FraseRevelada({ questao, aoTocarAudio, hanziTocando, hanziSintetizando 
           carregando={hanziSintetizando === questao.fraseOriginal}
           aoClicar={() => aoTocarAudio(questao.fraseOriginal)}
         />
-        {tokens.map((t, i) =>
+        {tokens.map((t: revisao.PalavraRevisao, i: number) =>
           t.ehChines && t.pinyin ? (
             <span key={i} className="revisao-teclado-token">
               <span className={`py ${t.ehNaoVista ? 'revisao-pinyin-nao-visto' : ''}`}>{t.pinyin}</span>

@@ -3,7 +3,7 @@
 // compartilhados com outras seções em ../comum/.
 import { CSSProperties } from 'react';
 import './configuracoes.css';
-import { config, main } from '../../wailsjs/go/models';
+import { config, main, tela } from '../../wailsjs/go/models';
 import { AbaGeral } from './abas/AbaGeral';
 import { AbaEstudo } from './abas/AbaEstudo';
 import { AbaMotores } from './abas/AbaMotores';
@@ -40,7 +40,7 @@ interface PainelConfiguracoesProps {
     termoBusca: string;
     setTermoBusca: (val: string) => void;
     infoHardware: main.SystemHardware | null;
-    resCaptura: main.Resolucao | null;
+    resCaptura: tela.Resolucao | null;
     monitores: any[];
     infoCotaTraducao: main.InfoCotaTraducao | null;
     infoCotaGemini: main.InfoCotaGemini | null;

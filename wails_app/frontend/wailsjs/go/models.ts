@@ -1,8 +1,48 @@
+export namespace busca {
+	
+	export class ElementoOrdenacao {
+	    texto: string;
+	    pinyin: string;
+	    definicao: string;
+	    correta: boolean;
+	
+	    static createFrom(source: any = {}) {
+	        return new ElementoOrdenacao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.texto = source["texto"];
+	        this.pinyin = source["pinyin"];
+	        this.definicao = source["definicao"];
+	        this.correta = source["correta"];
+	    }
+	}
+	export class OpcaoRevisao {
+	    hanzi: string;
+	    pinyin: string;
+	    definicao: string;
+	    correta: boolean;
+	
+	    static createFrom(source: any = {}) {
+	        return new OpcaoRevisao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.hanzi = source["hanzi"];
+	        this.pinyin = source["pinyin"];
+	        this.definicao = source["definicao"];
+	        this.correta = source["correta"];
+	    }
+	}
+
+}
+
 export namespace config {
 	
 	export class Config {
 	    intervaloCapturaSegundos: number;
-	    autoScanAtivo: boolean;
 	    confiancaMinimaOcr: number;
 	    threadsCpuOcr: number;
 	    hardwareSelecionado: string;
@@ -62,10 +102,11 @@ export namespace config {
 	    restringirHanziDesenho: boolean;
 	    mostrarSugestaoPalavrasVistas: boolean;
 	    vigiaCardsAtivo: boolean;
+	    autoScanAtivo: boolean;
 	    rastrearPalavrasPerdidas: boolean;
 	    idiomaTraducao: string;
 	    canalAtualizacao: string;
-
+	
 	    static createFrom(source: any = {}) {
 	        return new Config(source);
 	    }
@@ -73,7 +114,6 @@ export namespace config {
 	    constructor(source: any = {}) {
 	        if ('string' === typeof source) source = JSON.parse(source);
 	        this.intervaloCapturaSegundos = source["intervaloCapturaSegundos"];
-	        this.autoScanAtivo = source["autoScanAtivo"];
 	        this.confiancaMinimaOcr = source["confiancaMinimaOcr"];
 	        this.threadsCpuOcr = source["threadsCpuOcr"];
 	        this.hardwareSelecionado = source["hardwareSelecionado"];
@@ -119,7 +159,7 @@ export namespace config {
 	        this.motorSttAtivo = source["motorSttAtivo"];
 	        this.priorizarEstudoRevisao = source["priorizarEstudoRevisao"];
 	        this.tamanhoFocoRevisao = source["tamanhoFocoRevisao"];
-        this.tamanhoFocoAutomatico = source["tamanhoFocoAutomatico"];
+	        this.tamanhoFocoAutomatico = source["tamanhoFocoAutomatico"];
 	        this.sonsRevisao = source["sonsRevisao"];
 	        this.modosRevisaoGeralDesativados = source["modosRevisaoGeralDesativados"];
 	        this.atividadesDesativadas = source["atividadesDesativadas"];
@@ -133,6 +173,7 @@ export namespace config {
 	        this.restringirHanziDesenho = source["restringirHanziDesenho"];
 	        this.mostrarSugestaoPalavrasVistas = source["mostrarSugestaoPalavrasVistas"];
 	        this.vigiaCardsAtivo = source["vigiaCardsAtivo"];
+	        this.autoScanAtivo = source["autoScanAtivo"];
 	        this.rastrearPalavrasPerdidas = source["rastrearPalavrasPerdidas"];
 	        this.idiomaTraducao = source["idiomaTraducao"];
 	        this.canalAtualizacao = source["canalAtualizacao"];
@@ -143,6 +184,20 @@ export namespace config {
 
 export namespace dicionario {
 	
+	export class ComponenteHanzi {
+	    caractere: string;
+	    tracos: number[];
+	
+	    static createFrom(source: any = {}) {
+	        return new ComponenteHanzi(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.caractere = source["caractere"];
+	        this.tracos = source["tracos"];
+	    }
+	}
 	export class Etimologia {
 	    type?: string;
 	    phonetic?: string;
@@ -169,6 +224,7 @@ export namespace dicionario {
 	    etymology?: Etimologia;
 	    radical: string;
 	    abreviacoes?: string[];
+	    matches?: number[][];
 	
 	    static createFrom(source: any = {}) {
 	        return new DecomposicaoHanzi(source);
@@ -183,6 +239,7 @@ export namespace dicionario {
 	        this.etymology = this.convertValues(source["etymology"], Etimologia);
 	        this.radical = source["radical"];
 	        this.abreviacoes = source["abreviacoes"];
+	        this.matches = source["matches"];
 	    }
 	
 		convertValues(a: any, classs: any, asMap: boolean = false): any {
@@ -203,25 +260,12 @@ export namespace dicionario {
 		    return a;
 		}
 	}
-	export class ComponenteHanzi {
-	    caractere: string;
-	    tracos: number[];
-
-	    static createFrom(source: any = {}) {
-	        return new ComponenteHanzi(source);
-	    }
-
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.caractere = source["caractere"];
-	        this.tracos = source["tracos"];
-	    }
-	}
 	export class EntradaDicionario {
 	    Tradicional: string;
 	    Simplificado: string;
 	    Pinyin: string;
 	    Significados: string[];
+	    Tipo: string;
 	
 	    static createFrom(source: any = {}) {
 	        return new EntradaDicionario(source);
@@ -233,53 +277,131 @@ export namespace dicionario {
 	        this.Simplificado = source["Simplificado"];
 	        this.Pinyin = source["Pinyin"];
 	        this.Significados = source["Significados"];
+	        this.Tipo = source["Tipo"];
 	    }
 	}
 
 }
 
+export namespace jornada {
+	
+	export class Nivel {
+	    id: string;
+	    titulo: string;
+	    pos: number[];
+	    palavras: string[];
+	    revisoes: string[];
+	
+	    static createFrom(source: any = {}) {
+	        return new Nivel(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.id = source["id"];
+	        this.titulo = source["titulo"];
+	        this.pos = source["pos"];
+	        this.palavras = source["palavras"];
+	        this.revisoes = source["revisoes"];
+	    }
+	}
+	export class Ramo {
+	    id: string;
+	    nome: string;
+	    icone: string;
+	    dificuldade: string;
+	    pai: string;
+	    tema: string;
+	    rotuloMapa: number[];
+	    niveis: Nivel[];
+	
+	    static createFrom(source: any = {}) {
+	        return new Ramo(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.id = source["id"];
+	        this.nome = source["nome"];
+	        this.icone = source["icone"];
+	        this.dificuldade = source["dificuldade"];
+	        this.pai = source["pai"];
+	        this.tema = source["tema"];
+	        this.rotuloMapa = source["rotuloMapa"];
+	        this.niveis = this.convertValues(source["niveis"], Nivel);
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
+	export class Mapa {
+	    largura: number;
+	    altura: number;
+	
+	    static createFrom(source: any = {}) {
+	        return new Mapa(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.largura = source["largura"];
+	        this.altura = source["altura"];
+	    }
+	}
+	export class Arvore {
+	    mapa: Mapa;
+	    ramos: Ramo[];
+	
+	    static createFrom(source: any = {}) {
+	        return new Arvore(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.mapa = this.convertValues(source["mapa"], Mapa);
+	        this.ramos = this.convertValues(source["ramos"], Ramo);
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
+	
+	
+
+}
+
 export namespace main {
 	
-	export class EstadoAtualizacao {
-	    versaoAtual: string;
-	    canalBuild: string;
-	    commit: string;
-	    buildLocal: boolean;
-	    fase: string;
-	    versaoAlvo: string;
-	    erro: string;
-
-	    static createFrom(source: any = {}) {
-	        return new EstadoAtualizacao(source);
-	    }
-
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.versaoAtual = source["versaoAtual"];
-	        this.canalBuild = source["canalBuild"];
-	        this.commit = source["commit"];
-	        this.buildLocal = source["buildLocal"];
-	        this.fase = source["fase"];
-	        this.versaoAlvo = source["versaoAlvo"];
-	        this.erro = source["erro"];
-	    }
-	}
-	export class ResultadoVerificacaoAtualizacao {
-	    disponivel: boolean;
-	    versaoAlvo: string;
-	    motivo: string;
-
-	    static createFrom(source: any = {}) {
-	        return new ResultadoVerificacaoAtualizacao(source);
-	    }
-
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.disponivel = source["disponivel"];
-	        this.versaoAlvo = source["versaoAlvo"];
-	        this.motivo = source["motivo"];
-	    }
-	}
 	export class ArquivoModelo {
 	    nome: string;
 	    url: string;
@@ -296,6 +418,30 @@ export namespace main {
 	        this.sha256 = source["sha256"];
 	    }
 	}
+	export class EstadoAtualizacao {
+	    versaoAtual: string;
+	    canalBuild: string;
+	    commit: string;
+	    buildLocal: boolean;
+	    fase: string;
+	    versaoAlvo: string;
+	    erro: string;
+	
+	    static createFrom(source: any = {}) {
+	        return new EstadoAtualizacao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.versaoAtual = source["versaoAtual"];
+	        this.canalBuild = source["canalBuild"];
+	        this.commit = source["commit"];
+	        this.buildLocal = source["buildLocal"];
+	        this.fase = source["fase"];
+	        this.versaoAlvo = source["versaoAlvo"];
+	        this.erro = source["erro"];
+	    }
+	}
 	export class FlashcardCard {
 	    hanzi: string;
 	    pinyin: string;
@@ -306,12 +452,12 @@ export namespace main {
 	    tipoHanzi: string;
 	    posicaoRanking: number;
 	    nivelHSK?: number;
-	    fantasma?: boolean;
-
+	    fantasma: boolean;
+	
 	    static createFrom(source: any = {}) {
 	        return new FlashcardCard(source);
 	    }
-
+	
 	    constructor(source: any = {}) {
 	        if ('string' === typeof source) source = JSON.parse(source);
 	        this.hanzi = source["hanzi"];
@@ -374,30 +520,6 @@ export namespace main {
 	        this.alternativa = source["alternativa"];
 	        this.tipoHanzi = source["tipoHanzi"];
 	        this.nivelHSK = source["nivelHSK"];
-	    }
-	}
-	export class RecomendacaoBaralho {
-	    hanzi: string;
-	    pinyin: string;
-	    significado: string;
-	    motivo: string;
-	    revelada: boolean;
-	    nivelHSK?: number;
-	    posicaoRanking?: number;
-	
-	    static createFrom(source: any = {}) {
-	        return new RecomendacaoBaralho(source);
-	    }
-	
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.hanzi = source["hanzi"];
-	        this.pinyin = source["pinyin"];
-	        this.significado = source["significado"];
-	        this.motivo = source["motivo"];
-	        this.revelada = source["revelada"];
-	        this.nivelHSK = source["nivelHSK"];
-	        this.posicaoRanking = source["posicaoRanking"];
 	    }
 	}
 	export class ItemArmazenamento {
@@ -470,28 +592,6 @@ export namespace main {
 		    return a;
 		}
 	}
-	export class Monitor {
-	    id: number;
-	    nome: string;
-	    largura: number;
-	    altura: number;
-	    x: number;
-	    y: number;
-	
-	    static createFrom(source: any = {}) {
-	        return new Monitor(source);
-	    }
-	
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.id = source["id"];
-	        this.nome = source["nome"];
-	        this.largura = source["largura"];
-	        this.altura = source["altura"];
-	        this.x = source["x"];
-	        this.y = source["y"];
-	    }
-	}
 	export class MotorOcrInfo {
 	    nome: string;
 	    rotulo: string;
@@ -502,6 +602,7 @@ export namespace main {
 	    requisitos: string;
 	    padrao: boolean;
 	    tamanhoBytes: number;
+	    publicado: boolean;
 	    instalado: boolean;
 	    ativo: boolean;
 	
@@ -520,6 +621,7 @@ export namespace main {
 	        this.requisitos = source["requisitos"];
 	        this.padrao = source["padrao"];
 	        this.tamanhoBytes = source["tamanhoBytes"];
+	        this.publicado = source["publicado"];
 	        this.instalado = source["instalado"];
 	        this.ativo = source["ativo"];
 	    }
@@ -534,11 +636,11 @@ export namespace main {
 	    publicado: boolean;
 	    instalado: boolean;
 	    ativo: boolean;
-
+	
 	    static createFrom(source: any = {}) {
 	        return new MotorSttInfo(source);
 	    }
-
+	
 	    constructor(source: any = {}) {
 	        if ('string' === typeof source) source = JSON.parse(source);
 	        this.nome = source["nome"];
@@ -580,218 +682,44 @@ export namespace main {
 	        this.ativo = source["ativo"];
 	    }
 	}
-	export class ItemFocoRevisao {
+	export class RecomendacaoBaralho {
 	    hanzi: string;
 	    pinyin: string;
-	    significados: string[];
-	    areasConcluidas: number;
- 
-	    static createFrom(source: any = {}) {
-	        return new ItemFocoRevisao(source);
-	    }
- 
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.hanzi = source["hanzi"];
-	        this.pinyin = source["pinyin"];
-	        this.significados = source["significados"];
-	        this.areasConcluidas = source["areasConcluidas"];
-	    }
-	}
-	export class ProgressoPalavraRevisao {
-	    hanzi: string;
-	    pinyin: string;
-	    significados: string[];
-	    status: string;
-	    streaks: {[key: string]: number};
-
-	    static createFrom(source: any = {}) {
-	        return new ProgressoPalavraRevisao(source);
-	    }
-
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.hanzi = source["hanzi"];
-	        this.pinyin = source["pinyin"];
-	        this.significados = source["significados"];
-	        this.status = source["status"];
-	        this.streaks = source["streaks"];
-	    }
-	}
-	export class ProgressoRevisaoPalavras {
-	    meta: number;
-	    palavras: ProgressoPalavraRevisao[];
-
-	    static createFrom(source: any = {}) {
-	        return new ProgressoRevisaoPalavras(source);
-	    }
-
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.meta = source["meta"];
-	        this.palavras = source["palavras"];
-	    }
-	}
-	export class ElementoOrdenacao {
-	    texto: string;
-	    pinyin: string;
-	    definicao: string;
-	    correta: boolean;
+	    significado: string;
+	    motivo: string;
+	    revelada: boolean;
+	    nivelHSK?: number;
+	    posicaoRanking?: number;
 	
 	    static createFrom(source: any = {}) {
-	        return new ElementoOrdenacao(source);
-	    }
-	
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.texto = source["texto"];
-	        this.pinyin = source["pinyin"];
-	        this.definicao = source["definicao"];
-	        this.correta = source["correta"];
-	    }
-	}
-	export class OpcaoRevisao {
-	    hanzi: string;
-	    pinyin: string;
-	    definicao: string;
-	    correta: boolean;
-	
-	    static createFrom(source: any = {}) {
-	        return new OpcaoRevisao(source);
+	        return new RecomendacaoBaralho(source);
 	    }
 	
 	    constructor(source: any = {}) {
 	        if ('string' === typeof source) source = JSON.parse(source);
 	        this.hanzi = source["hanzi"];
 	        this.pinyin = source["pinyin"];
-	        this.definicao = source["definicao"];
-	        this.correta = source["correta"];
+	        this.significado = source["significado"];
+	        this.motivo = source["motivo"];
+	        this.revelada = source["revelada"];
+	        this.nivelHSK = source["nivelHSK"];
+	        this.posicaoRanking = source["posicaoRanking"];
 	    }
 	}
-	export class PalavraRevisao {
-	    texto: string;
-	    pinyin: string;
-	    significados: string[];
-	    ehChines: boolean;
-	    ehLacuna?: boolean;
-	    ehNaoVista?: boolean;
+	export class ResultadoVerificacaoAtualizacao {
+	    disponivel: boolean;
+	    versaoAlvo: string;
+	    motivo: string;
 	
 	    static createFrom(source: any = {}) {
-	        return new PalavraRevisao(source);
+	        return new ResultadoVerificacaoAtualizacao(source);
 	    }
 	
 	    constructor(source: any = {}) {
 	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.texto = source["texto"];
-	        this.pinyin = source["pinyin"];
-	        this.significados = source["significados"];
-	        this.ehChines = source["ehChines"];
-	        this.ehLacuna = source["ehLacuna"];
-	        this.ehNaoVista = source["ehNaoVista"];
-	    }
-	}
-	export class QuestaoRevisao {
-	    modo: string;
-	    variante: string;
-	    hanzi: string;
-	    palavraFoco: string;
-	    pinyin: string;
-	    definicao: string;
-	    componenteAlvo: string;
-	    tracosAlvo: number[];
-	    componentesMontagem: dicionario.ComponenteHanzi[];
-	    distratoresMontagem: string[];
-	    emEstudo: boolean;
-	    emFoco: boolean;
-	    fraseLacuna: string;
-	    fraseOriginal: string;
-	    fraseOculta: string;
-	    fraseLacunaSegmentada: PalavraRevisao[];
-	    fraseOriginalSegmentada: PalavraRevisao[];
-	    fraseTraducao: string;
-	    fraseAtribuicao: string;
-	    fraseTema: string;
-	    fraseDificuldade: string;
-	    dificuldade: string;
-	    opcoes: OpcaoRevisao[];
-	    pilhaOrdenacao: OpcaoRevisao[];
-	    pecasEsperadas: string[];
-	    elementosOrdenacao: ElementoOrdenacao[];
-	    perguntaCompreensao?: string;
-	    perguntaCompreensaoSegmentada?: PalavraRevisao[];
-	    perguntaTraduzida?: string;
-	    contextoTraduzido?: string;
-	    indiceRespostaCorreta?: number;
-	
-	    static createFrom(source: any = {}) {
-	        return new QuestaoRevisao(source);
-	    }
-	
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.modo = source["modo"];
-	        this.variante = source["variante"];
-	        this.hanzi = source["hanzi"];
-	        this.palavraFoco = source["palavraFoco"];
-	        this.pinyin = source["pinyin"];
-	        this.definicao = source["definicao"];
-	        this.componenteAlvo = source["componenteAlvo"];
-	        this.tracosAlvo = source["tracosAlvo"];
-	        this.componentesMontagem = this.convertValues(source["componentesMontagem"], dicionario.ComponenteHanzi);
-	        this.distratoresMontagem = source["distratoresMontagem"];
-	        this.emEstudo = source["emEstudo"];
-	        this.emFoco = source["emFoco"];
-	        this.fraseLacuna = source["fraseLacuna"];
-	        this.fraseOriginal = source["fraseOriginal"];
-	        this.fraseOculta = source["fraseOculta"];
-	        this.fraseLacunaSegmentada = this.convertValues(source["fraseLacunaSegmentada"], PalavraRevisao);
-	        this.fraseOriginalSegmentada = this.convertValues(source["fraseOriginalSegmentada"], PalavraRevisao);
-	        this.fraseTraducao = source["fraseTraducao"];
-	        this.fraseAtribuicao = source["fraseAtribuicao"];
-	        this.fraseTema = source["fraseTema"];
-	        this.fraseDificuldade = source["fraseDificuldade"];
-	        this.dificuldade = source["dificuldade"];
-	        this.opcoes = this.convertValues(source["opcoes"], OpcaoRevisao);
-	        this.pilhaOrdenacao = this.convertValues(source["pilhaOrdenacao"], OpcaoRevisao);
-	        this.pecasEsperadas = source["pecasEsperadas"];
-	        this.elementosOrdenacao = this.convertValues(source["elementosOrdenacao"], ElementoOrdenacao);
-	        this.perguntaCompreensao = source["perguntaCompreensao"];
-	        this.perguntaCompreensaoSegmentada = this.convertValues(source["perguntaCompreensaoSegmentada"], PalavraRevisao);
-	        this.perguntaTraduzida = source["perguntaTraduzida"];
-	        this.contextoTraduzido = source["contextoTraduzido"];
-	        this.indiceRespostaCorreta = source["indiceRespostaCorreta"];
-	    }
-	
-		convertValues(a: any, classs: any, asMap: boolean = false): any {
-		    if (!a) {
-		        return a;
-		    }
-		    if (a.slice && a.map) {
-		        return (a as any[]).map(elem => this.convertValues(elem, classs));
-		    } else if ("object" === typeof a) {
-		        if (asMap) {
-		            for (const key of Object.keys(a)) {
-		                a[key] = new classs(a[key]);
-		            }
-		            return a;
-		        }
-		        return new classs(a);
-		    }
-		    return a;
-		}
-	}
-	export class Resolucao {
-	    largura: number;
-	    altura: number;
-	
-	    static createFrom(source: any = {}) {
-	        return new Resolucao(source);
-	    }
-	
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.largura = source["largura"];
-	        this.altura = source["altura"];
+	        this.disponivel = source["disponivel"];
+	        this.versaoAlvo = source["versaoAlvo"];
+	        this.motivo = source["motivo"];
 	    }
 	}
 	export class StorageInfo {
@@ -849,6 +777,61 @@ export namespace main {
 
 }
 
+export namespace notasversao {
+	
+	export class GrupoNota {
+	    titulo: string;
+	    itens: string[];
+	
+	    static createFrom(source: any = {}) {
+	        return new GrupoNota(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.titulo = source["titulo"];
+	        this.itens = source["itens"];
+	    }
+	}
+	export class Nota {
+	    id: string;
+	    data: string;
+	    titulo: string;
+	    grupos: GrupoNota[];
+	
+	    static createFrom(source: any = {}) {
+	        return new Nota(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.id = source["id"];
+	        this.data = source["data"];
+	        this.titulo = source["titulo"];
+	        this.grupos = this.convertValues(source["grupos"], GrupoNota);
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
+
+}
+
 export namespace nuvem {
 	
 	export class Info {
@@ -880,6 +863,56 @@ export namespace nuvem {
 
 export namespace progresso {
 	
+	export class FraseUsuario {
+	    Chines: string;
+	    Ingles: string;
+	    Atribuicao: string;
+	    Tema: string;
+	    Dificuldade: string;
+	
+	    static createFrom(source: any = {}) {
+	        return new FraseUsuario(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.Chines = source["Chines"];
+	        this.Ingles = source["Ingles"];
+	        this.Atribuicao = source["Atribuicao"];
+	        this.Tema = source["Tema"];
+	        this.Dificuldade = source["Dificuldade"];
+	    }
+	}
+	export class PerguntaCompreensaoUsuario {
+	    contexto: string;
+	    pergunta: string;
+	    opcoes: string[];
+	    indice_resposta_correta: number;
+	    pergunta_traduzida: string;
+	    contexto_traduzido: string;
+	    tema: string;
+	    dificuldade: string;
+	    atribuicao: string;
+	    script: string;
+	
+	    static createFrom(source: any = {}) {
+	        return new PerguntaCompreensaoUsuario(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.contexto = source["contexto"];
+	        this.pergunta = source["pergunta"];
+	        this.opcoes = source["opcoes"];
+	        this.indice_resposta_correta = source["indice_resposta_correta"];
+	        this.pergunta_traduzida = source["pergunta_traduzida"];
+	        this.contexto_traduzido = source["contexto_traduzido"];
+	        this.tema = source["tema"];
+	        this.dificuldade = source["dificuldade"];
+	        this.atribuicao = source["atribuicao"];
+	        this.script = source["script"];
+	    }
+	}
 	export class Vocab {
 	    Id: number;
 	    Hanzi: string;
@@ -889,9 +922,14 @@ export namespace progresso {
 	    // Go type: time
 	    DataAdd: any;
 	    tipoHanzi: string;
+	    acertosSequenciaSignificado: number;
+	    acertosSequenciaFonetica: number;
+	    acertosSequenciaDesenho: number;
+	    acertosSequenciaContexto: number;
+	    acertosSequenciaPronuncia: number;
 	    vezesVistaOcr: number;
 	    posicaoRanking: number;
-
+	
 	    static createFrom(source: any = {}) {
 	        return new Vocab(source);
 	    }
@@ -905,6 +943,11 @@ export namespace progresso {
 	        this.Status = source["Status"];
 	        this.DataAdd = this.convertValues(source["DataAdd"], null);
 	        this.tipoHanzi = source["tipoHanzi"];
+	        this.acertosSequenciaSignificado = source["acertosSequenciaSignificado"];
+	        this.acertosSequenciaFonetica = source["acertosSequenciaFonetica"];
+	        this.acertosSequenciaDesenho = source["acertosSequenciaDesenho"];
+	        this.acertosSequenciaContexto = source["acertosSequenciaContexto"];
+	        this.acertosSequenciaPronuncia = source["acertosSequenciaPronuncia"];
 	        this.vezesVistaOcr = source["vezesVistaOcr"];
 	        this.posicaoRanking = source["posicaoRanking"];
 	    }
@@ -928,64 +971,176 @@ export namespace progresso {
 		}
 	}
 
-	export class FraseUsuario {
-	    Chines: string;
-	    Ingles: string;
-	    Atribuicao: string;
-	    Tema: string;
-	    Dificuldade: string;
-
-	    static createFrom(source: any = {}) {
-	        return new FraseUsuario(source);
-	    }
-
-	    constructor(source: any = {}) {
-	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.Chines = source["Chines"];
-	        this.Ingles = source["Ingles"];
-	        this.Atribuicao = source["Atribuicao"];
-	        this.Tema = source["Tema"];
-	        this.Dificuldade = source["Dificuldade"];
-	    }
-	}
-
 }
 
-export namespace notasversao {
+export namespace revisao {
 	
-	export class GrupoNota {
-	    titulo: string;
-	    itens: string[];
-
+	export class ItemFocoRevisao {
+	    hanzi: string;
+	    pinyin: string;
+	    significados: string[];
+	    areasConcluidas: number;
+	
 	    static createFrom(source: any = {}) {
-	        return new GrupoNota(source);
+	        return new ItemFocoRevisao(source);
 	    }
-
+	
 	    constructor(source: any = {}) {
 	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.titulo = source["titulo"];
-	        this.itens = source["itens"];
+	        this.hanzi = source["hanzi"];
+	        this.pinyin = source["pinyin"];
+	        this.significados = source["significados"];
+	        this.areasConcluidas = source["areasConcluidas"];
 	    }
 	}
-
-	export class Nota {
-	    id: string;
-	    data: string;
-	    titulo: string;
-	    grupos: GrupoNota[];
-
+	export class PalavraRevisao {
+	    texto: string;
+	    pinyin: string;
+	    significados: string[];
+	    ehChines: boolean;
+	    ehLacuna?: boolean;
+	    ehNaoVista?: boolean;
+	
 	    static createFrom(source: any = {}) {
-	        return new Nota(source);
+	        return new PalavraRevisao(source);
 	    }
-
+	
 	    constructor(source: any = {}) {
 	        if ('string' === typeof source) source = JSON.parse(source);
-	        this.id = source["id"];
-	        this.data = source["data"];
-	        this.titulo = source["titulo"];
-	        this.grupos = this.convertValues(source["grupos"], GrupoNota);
+	        this.texto = source["texto"];
+	        this.pinyin = source["pinyin"];
+	        this.significados = source["significados"];
+	        this.ehChines = source["ehChines"];
+	        this.ehLacuna = source["ehLacuna"];
+	        this.ehNaoVista = source["ehNaoVista"];
 	    }
-
+	}
+	export class ProgressoPalavraRevisao {
+	    hanzi: string;
+	    pinyin: string;
+	    significados: string[];
+	    status: string;
+	    streaks: Record<string, number>;
+	
+	    static createFrom(source: any = {}) {
+	        return new ProgressoPalavraRevisao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.hanzi = source["hanzi"];
+	        this.pinyin = source["pinyin"];
+	        this.significados = source["significados"];
+	        this.status = source["status"];
+	        this.streaks = source["streaks"];
+	    }
+	}
+	export class ProgressoRevisaoPalavras {
+	    meta: number;
+	    palavras: ProgressoPalavraRevisao[];
+	
+	    static createFrom(source: any = {}) {
+	        return new ProgressoRevisaoPalavras(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.meta = source["meta"];
+	        this.palavras = this.convertValues(source["palavras"], ProgressoPalavraRevisao);
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
+	export class QuestaoRevisao {
+	    modo: string;
+	    variante: string;
+	    hanzi: string;
+	    palavraFoco: string;
+	    pinyin: string;
+	    definicao: string;
+	    componenteAlvo: string;
+	    tracosAlvo: number[];
+	    componentesMontagem: dicionario.ComponenteHanzi[];
+	    distratoresMontagem: string[];
+	    emEstudo: boolean;
+	    emFoco: boolean;
+	    fraseLacuna: string;
+	    fraseOriginal: string;
+	    fraseOculta: string;
+	    fraseLacunaSegmentada: PalavraRevisao[];
+	    fraseOriginalSegmentada: PalavraRevisao[];
+	    fraseOriginalLacunaSegmentada?: PalavraRevisao[];
+	    fraseTraducao: string;
+	    fraseAtribuicao: string;
+	    fraseTema: string;
+	    fraseDificuldade: string;
+	    dificuldade: string;
+	    opcoes: busca.OpcaoRevisao[];
+	    pilhaOrdenacao: busca.OpcaoRevisao[];
+	    pecasEsperadas: string[];
+	    elementosOrdenacao: busca.ElementoOrdenacao[];
+	    perguntaCompreensao?: string;
+	    perguntaCompreensaoSegmentada?: PalavraRevisao[];
+	    perguntaTraduzida?: string;
+	    contextoTraduzido?: string;
+	    indiceRespostaCorreta?: number;
+	
+	    static createFrom(source: any = {}) {
+	        return new QuestaoRevisao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.modo = source["modo"];
+	        this.variante = source["variante"];
+	        this.hanzi = source["hanzi"];
+	        this.palavraFoco = source["palavraFoco"];
+	        this.pinyin = source["pinyin"];
+	        this.definicao = source["definicao"];
+	        this.componenteAlvo = source["componenteAlvo"];
+	        this.tracosAlvo = source["tracosAlvo"];
+	        this.componentesMontagem = this.convertValues(source["componentesMontagem"], dicionario.ComponenteHanzi);
+	        this.distratoresMontagem = source["distratoresMontagem"];
+	        this.emEstudo = source["emEstudo"];
+	        this.emFoco = source["emFoco"];
+	        this.fraseLacuna = source["fraseLacuna"];
+	        this.fraseOriginal = source["fraseOriginal"];
+	        this.fraseOculta = source["fraseOculta"];
+	        this.fraseLacunaSegmentada = this.convertValues(source["fraseLacunaSegmentada"], PalavraRevisao);
+	        this.fraseOriginalSegmentada = this.convertValues(source["fraseOriginalSegmentada"], PalavraRevisao);
+	        this.fraseOriginalLacunaSegmentada = this.convertValues(source["fraseOriginalLacunaSegmentada"], PalavraRevisao);
+	        this.fraseTraducao = source["fraseTraducao"];
+	        this.fraseAtribuicao = source["fraseAtribuicao"];
+	        this.fraseTema = source["fraseTema"];
+	        this.fraseDificuldade = source["fraseDificuldade"];
+	        this.dificuldade = source["dificuldade"];
+	        this.opcoes = this.convertValues(source["opcoes"], busca.OpcaoRevisao);
+	        this.pilhaOrdenacao = this.convertValues(source["pilhaOrdenacao"], busca.OpcaoRevisao);
+	        this.pecasEsperadas = source["pecasEsperadas"];
+	        this.elementosOrdenacao = this.convertValues(source["elementosOrdenacao"], busca.ElementoOrdenacao);
+	        this.perguntaCompreensao = source["perguntaCompreensao"];
+	        this.perguntaCompreensaoSegmentada = this.convertValues(source["perguntaCompreensaoSegmentada"], PalavraRevisao);
+	        this.perguntaTraduzida = source["perguntaTraduzida"];
+	        this.contextoTraduzido = source["contextoTraduzido"];
+	        this.indiceRespostaCorreta = source["indiceRespostaCorreta"];
+	    }
+	
 		convertValues(a: any, classs: any, asMap: boolean = false): any {
 		    if (!a) {
 		        return a;
@@ -1006,3 +1161,45 @@ export namespace notasversao {
 	}
 
 }
+
+export namespace tela {
+	
+	export class Monitor {
+	    id: number;
+	    nome: string;
+	    largura: number;
+	    altura: number;
+	    x: number;
+	    y: number;
+	
+	    static createFrom(source: any = {}) {
+	        return new Monitor(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.id = source["id"];
+	        this.nome = source["nome"];
+	        this.largura = source["largura"];
+	        this.altura = source["altura"];
+	        this.x = source["x"];
+	        this.y = source["y"];
+	    }
+	}
+	export class Resolucao {
+	    largura: number;
+	    altura: number;
+	
+	    static createFrom(source: any = {}) {
+	        return new Resolucao(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.largura = source["largura"];
+	        this.altura = source["altura"];
+	    }
+	}
+
+}
+
