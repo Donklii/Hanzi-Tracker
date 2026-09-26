@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+出言不逊 | TRADUÇÃO: hablar con insolencia/hablar con arrogancia/expresarse con falta de respeto
+出访 | TRADUÇÃO: realizar una visita oficial/visitar en misión oficial
+出诊 | TRADUÇÃO: hacer una visita a domicilio (un médico)/atención médica a domicilio
+出谋划策 | TRADUÇÃO: proponer planes y estrategias/dar consejos (modismo)/hacer sugerencias
+出警 | TRADUÇÃO: enviar a la policía (al lugar del hecho)/acudir la policía a una llamada de emergencia/desplegar fuerzas policiales
+出让 | TRADUÇÃO: ceder/traspasar/transferir (propiedades o derechos)
+出货 | TRADUÇÃO: despachar mercancías/enviar productos/extraer de almacén/retirar fondos
+出资 | TRADUÇÃO: aportar capital/financiar/invertir fondos
+出卖 | TRADUÇÃO: vender/poner a la venta/traicionar/venderse
+出赛 | TRADUÇÃO: competir/participar en una competición deportiva
+出走 | TRADUÇÃO: fugarse de casa/marcharse/huir/irse del hogar
+出超 | TRADUÇÃO: superávit comercial/balanza comercial favorable
+出路 | TRADUÇÃO: salida (lit. y fig.)/vía de escape/perspectiva de futuro/salida comercial (para productos)
+出身 | TRADUÇÃO: origen familiar/procedencia social/provenir de/ser originario de
+出车 | TRADUÇÃO: salir de servicio (un vehículo)/despachar un vehículo/ponerse en marcha
+出轨 | TRADUÇÃO: descarrilar/(fig.) salirse de los límites/(fig.) ser infiel/cometer adulterio
+出辑 | TRADUÇÃO: lanzar un álbum/publicar un disco
+出迎 | TRADUÇÃO: salir a recibir/salir a dar la bienvenida
+出逃 | TRADUÇÃO: huir/escapar/fugarse (del país)
+出游 | TRADUÇÃO: salir de excursión/hacer un viaje/salir de paseo
+出道 | TRADUÇÃO: debutar/iniciar la carrera artística o profesional
+出远门 | TRADUÇÃO: viajar lejos del hogar/hacer un viaje largo
+出丑 | TRADUÇÃO: hacer el ridículo/quedar en ridículo/pasar vergüenza
+出锋头 | TRADUÇÃO: variante de 出風頭|出风头
+出钱 | TRADUÇÃO: pagar/poner dinero/financiar
+出错 | TRADUÇÃO: cometer un error/equivocarse/fallar/error
+出错信息 | TRADUÇÃO: (inform.) mensaje de error
+出镜 | TRADUÇÃO: aparecer en cámara/salir en pantalla/actuar en una película
+出钟 | TRADUÇÃO: (de una prostituta) prestar servicio a domicilio/acompañar a un cliente
+出门 | TRADUÇÃO: salir de casa/salir a la calle/ir de viaje/estar fuera de casa/(de una mujer) casarse
+出门在外 | TRADUÇÃO: estar lejos de casa/vivir fuera del hogar familiar
+出阁 | TRADUÇÃO: (literario) (de una mujer) casarse/contraer matrimonio
+出院 | TRADUÇÃO: recibir el alta médica/salir del hospital
+出险 | TRADUÇÃO: salir del peligro/librarse del peligro/ocurrir un siniestro (seguros)
+出难题 | TRADUÇÃO: plantear un problema difícil/poner en apuros/crear dificultades
+出露 | TRADUÇÃO: aflorar/emerger/hacerse visible
+出面 | TRADUÇÃO: intervenir personalmente/dar la cara/presentarse/actuar en representación
+出鞘 | TRADUÇÃO: desenvainar/salir de la vaina
+出头 | TRADUÇÃO: salir adelante/destacar/asomar la cabeza/más de/y pico (después de un número)
+出头的椽子先烂 | TRADUÇÃO: lit. las vigas que sobresalen son las primeras en pudrirse (modismo)/fig. quien destaca demasiado se convierte en blanco de ataques
+出头鸟 | TRADUÇÃO: persona que destaca (o toma la delantera)/el pájaro que asoma la cabeza (blanco fácil)
+出题 | TRADUÇÃO: poner preguntas de examen/proponer un tema (de examen o debate)
+出类拔萃 | TRADUÇÃO: sobresalir entre los demás (modismo)/destacado/eminente/excepcional
+出风口 | TRADUÇÃO: salida de aire/rejilla de ventilación
+出风头 | TRADUÇÃO: buscar notoriedad/ser el centro de atención/hacerse notar/lo mismo que 出鋒頭|出风头
+出饭 | TRADUÇÃO: (coloq.) (del arroz) rendir mucho al cocinarse/crecer mucho al cocer
+出餐 | TRADUÇÃO: (de un restaurante) servir los platos/despachar la comida
+出马 | TRADUÇÃO: entrar en acción/tomar cartas en el asunto/postularse/lanzarse a una campaña
+出惊 | TRADUÇÃO: véase 吃驚|吃惊
+出点子 | TRADUÇÃO: aportar ideas/dar sugerencias/proponer una idea
+凼 | TRADUÇÃO: hoyo/charca/fosa/pozo negro
+凼子 | TRADUÇÃO: hoyo/charca/fosa/pozo de estiércol
+凼肥 | TRADUÇÃO: abono de fosa/estiércol de pozo
+函 | TRADUÇÃO: sobre/estuche/caja/carta/correspondencia ‖ variante de 函
+函人 | TRADUÇÃO: fabricante de armaduras/armero (en la antigüedad)
+函件 | TRADUÇÃO: cartas/correspondencia/comunicación escrita
+函大 | TRADUÇÃO: universidad por correspondencia (abrev. de 函授大學|函授大学)
+函子 | TRADUÇÃO: (mat.) funtor
+函式库 | TRADUÇÃO: biblioteca de funciones (programación)/librería de software
+函授 | TRADUÇÃO: enseñar por correspondencia/educación a distancia
+函授大学 | TRADUÇÃO: universidad por correspondencia/universidad a distancia
+函授课程 | TRADUÇÃO: curso por correspondencia/curso a distancia
+函数 | TRADUÇÃO: (mat.) función
+函洞 | TRADUÇÃO: variante de 涵洞
+函谷关 | TRADUÇÃO: Paso de Hangu (en la actual provincia de Henan, paso estratégico que formaba la puerta oriental del Estado de Qin durante el período de los Reinos Combatientes)
+函购 | TRADUÇÃO: compra por correspondencia/pedido por correo
+函办 | TRADUÇÃO: remitir a la justicia/poner a disposición judicial (abrev. de 函送法辦|函送法办)
+函送 | TRADUÇÃO: remitir por escrito/enviar por oficio/notificar por carta
+函送法办 | TRADUÇÃO: remitir a la justicia/poner a disposición de la autoridad judicial
+函馆 | TRADUÇÃO: Hakodate (puerto principal del sur de Hokkaidō 北海道, Japón)
+刀 | TRADUÇÃO: apellido Dao ‖ cuchillo/hoja/sable/machete (CL:把)/(jerga) (préstamo) dólar/clasificador para resmas de cien hojas (de papel)/clasificador para cortes o puñaladas/(jerga de internet) regatear/pedir un pequeño descuento (esp. en plataformas de segunda mano)
+刀不磨要生锈，人不学要落后 | TRADUÇÃO: (proverbio) el cuchillo se oxida si no se afila, la persona se queda atrás si no estudia
+刀俎 | TRADUÇÃO: cuchillo y tabla de cortar/cuchillo sacrificial y mesa de ofrendas/(fig.) dominador implacable
+刀光剑影 | TRADUÇÃO: lit. destello de cuchillos y sombras de espadas (modismo)/fig. conflicto feroz/ambiente bélico
+刀光血影 | TRADUÇÃO: matanza sangrienta/baño de sangre/masacre
+刀具 | TRADUÇÃO: herramienta de corte/cuchillería/útil de corte
+刀刃 | TRADUÇÃO: filo del cuchillo/hoja/(fig.) punto crucial/momento clave
+刀削面 | TRADUÇÃO: fideos cortados a cuchillo (especialidad de Shanxi)
+刀剑 | TRADUÇÃO: espada y sable/armas blancas/espadas
+刀叉 | TRADUÇÃO: cuchillo y tenedor/cubiertos/CL:副
+刀口 | TRADUÇÃO: filo del cuchillo/corte/incisión
+刀塔 | TRADUÇÃO: DotA (Defense of the Ancients, videojuego)
+刀子 | TRADUÇÃO: cuchillo/CL:把
+刀子嘴巴，豆腐心 | TRADUÇÃO: lit. boca de cuchillo y corazón de tofu/lengua afilada pero corazón compasivo (modismo)
+刀子嘴，豆腐心 | TRADUÇÃO: tener lengua afilada pero corazón blando (modismo)/duro por fuera pero bondadoso por dentro
+刀客 | TRADUÇÃO: espadachín/espadachina/bandolero armado con sable (en el noroeste de China)
+刀山火海 | TRADUÇÃO: lit. montañas de dagas y mares de fuego (modismo)/fig. peligros extremos/las situaciones más arriesgadas
+刀工 | TRADUÇÃO: técnica de corte a cuchillo (en cocina)
+刀库 | TRADUÇÃO: almacén de herramientas (en máquinas herramienta o CNC)
+刀斧手 | TRADUÇÃO: verdugo/guerrero armado con hacha y sable/ejecutor
+刀枪 | TRADUÇÃO: sables y lanzas/armas
+刀枪不入 | TRADUÇÃO: lit. impenetrable para sables y lanzas (modismo)/fig. invulnerable/inmune a las críticas/insensible
+刀枪剑戟 | TRADUÇÃO: (modismo) armas blancas de la antigua China, como sables, lanzas, espadas y alabardas
+刀乐 | TRADUÇÃO: (préstamo) dólar
+刀片 | TRADUÇÃO: cuchilla/hoja de afeitar/plaquita de corte
+刀片刺网 | TRADUÇÃO: alambre de púas concertina/alambre de cuchillas
+刀片铁丝网 | TRADUÇÃO: alambrada de cuchillas/alambre de espino con cuchillas
+刀疤 | TRADUÇÃO: cicatriz de cuchillada/cicatriz de corte
+刀笔 | TRADUÇÃO: redacción de actas judiciales/tinterillo/chicana legal
+刀耕火种 | TRADUÇÃO: agricultura de roza y quema/tala y quema
+刀背 | TRADUÇÃO: lomo del cuchillo/dorso de la hoja
+刀叶 | TRADUÇÃO: hoja (de cuchillo o herramienta)/pala (de hélice o turbina)
+刀螂 | TRADUÇÃO: (dialectal) mantis religiosa
+刀身 | TRADUÇÃO: cuerpo de la hoja/hoja (de cuchillo o espada)
+刀郎 | TRADUÇÃO: Dolan (pueblo de la cuenca del Tarim, Xinjiang, también conocido como 多郎)/Daolang (cantante chino)
+刀锋 | TRADUÇÃO: filo del cuchillo/punta de la espada/filo cortante
+刀锯斧钺 | TRADUÇÃO: cuchillo, sierra, hacha y hacha de guerra (modismo)/instrumentos de tortura y ejecución
+刀锯鼎镬 | TRADUÇÃO: cuchillo, sierra y caldero hirviente/antiguos instrumentos de suplicio/tortura cruel
+刀鞘 | TRADUÇÃO: vaina/funda (de espada o cuchillo)
+刀类 | TRADUÇÃO: cuchillería/tipos de cuchillos/armas blancas cortantes
+刀马旦 | TRADUÇÃO: daomadan (papel de guerrera femenina en la ópera china)
+刀鱼 | TRADUÇÃO: anchoa de cola de rata (Coilia ectenes)/pez sable/pez cuchillo
+刁 | TRADUÇÃO: apellido Diao ‖ astuto/malicioso/mañoso/pícaro
+刁妇 | TRADUÇÃO: mujer arpía/fiera/mujer taimada y maliciosa
+刁悍 | TRADUÇÃO: astuto y feroz/bravucón y taimado
+刁斗 | TRADUÇÃO: cazo de cobre militar (usado de día para cocinar y de noche para dar toques de guardia en la antigüedad)
+刁民 | TRADUÇÃO: (despectivo) gentuza revoltosa/poblador insubordinado o taimado
+刁滑 | TRADUÇÃO: ladino/astuto/taimado/marrullero
+刁蛮 | TRADUÇÃO: caprichoso y rebelde/taimado e intratable
+刁钻 | TRADUÇÃO: astuto/malicioso/retorcido/quisquilloso
+刁难 | TRADUÇÃO: poner trabas deliberadamente/hacer la vida difícil a alguien/dificultar a propósito/pron. en Taiwán [diao1nan2]
+刂 | TRADUÇÃO: radical Kangxi 18 (刀) en forma vertical lateral, conocido como 立刀旁 o 側刀旁|侧刀旁
+刃 | TRADUÇÃO: filo/hoja cortante
+刃具 | TRADUÇÃO: herramienta cortante/útil de corte
+分 | TRADUÇÃO: dividir/separar/distribuir/repartir/distinguir (lo bueno de lo malo)/(en palabras compuestas) rama de (una organización); sub- (como en 分局)/fracción/una décima parte (de ciertas unidades)/unidad de longitud equivalente a 0,33 cm/minuto (unidad de tiempo)/minuto de arco (unidad angular)/punto (en deportes o juegos)/0,01 yuanes (céntimo de yuan) ‖ parte/porción/participación/ingrediente/componente
+分一杯羹 | TRADUÇÃO: (fig.) sacar una tajada/llevarse una parte del botín o beneficio/participar en el reparto
+分久必合，合久必分 | TRADUÇÃO: (lit.) lo que está dividido mucho tiempo debe unirse, y lo que está unido mucho tiempo debe dividirse (proverbio del Romance de los Tres Reinos 三國演義|三国演义)/(fig.) las cosas cambian constantemente
+分之 | TRADUÇÃO: (indica una fracción, p. ej. 百分之 ... por ciento)
+分享 | TRADUÇÃO: compartir (hacer partícipe a otros de algo bueno)
+分付 | TRADUÇÃO: servicio de crédito "compra ahora, paga después" de WeChat ‖ variante de 吩咐
+分布 | TRADUÇÃO: distribuirse/repartirse/estar distribuido/distribución (estadística, geográfica)
+分布图 | TRADUÇÃO: diagrama de dispersión/mapa de distribución/histograma ‖ diagrama de dispersión/mapa de distribución/histograma
+分布式 | TRADUÇÃO: distribuido (inform.)
+分布式环境 | TRADUÇÃO: (inform.) entorno distribuido
+分布式结构 | TRADUÇÃO: arquitectura distribuida
+分布式网络 | TRADUÇÃO: red distribuida
+分布控制 | TRADUÇÃO: control distribuido
+分位数 | TRADUÇÃO: (estadística) cuantil
+分光 | TRADUÇÃO: (prefijo) espectro-/separar la luz
+分光光度法 | TRADUÇÃO: espectrofotometría
+分光计 | TRADUÇÃO: espectrómetro
+分克 | TRADUÇÃO: decigramo
+分内 | TRADUÇÃO: propio del deber de uno/de la propia responsabilidad
+分公司 | TRADUÇÃO: sucursal/filial de una empresa
+分册 | TRADUÇÃO: fascículo/tomo/volumen (de un libro)
+分分钟 | TRADUÇÃO: en cualquier momento/en un abrir y cerrar de ojos/a cada minuto/constantemente
+分列 | TRADUÇÃO: desglosar/disponer en filas/dividir en categorías/desglose
+分列式 | TRADUÇÃO: (militar) desfile militar en formación/paso de revista
+分别 | TRADUÇÃO: separarse/despedirse/distinguir/diferenciar/diferencia/distinción/por separado/individualmente/respectivamente
+分则 | TRADUÇÃO: disposiciones específicas (del código legal)/parte especial
+分割 | TRADUÇÃO: dividir/fraccionar/particionar/separar/cortar
+分割区 | TRADUÇÃO: (inform.) partición
+分力 | TRADUÇÃO: (fís.) fuerza componente/componente de una fuerza
+分包 | TRADUÇÃO: subcontratar/empaquetar por separado
+分包商 | TRADUÇÃO: subcontratista
+分化 | TRADUÇÃO: dividirse/diferenciarse/diferenciación
+分区 | TRADUÇÃO: zonificación/división en distritos o sectores/(inform.) partición
+分升 | TRADUÇÃO: decilitro
+分叉 | TRADUÇÃO: bifurcarse/ramificarse/bifurcación/ramificación
+分句 | TRADUÇÃO: (gramática) proposición/cláusula
+分地 | TRADUÇÃO: distribuir tierras/repartir tierras
+分外 | TRADUÇÃO: excepcionalmente/sumamente/fuera de las obligaciones de uno
+分娩 | TRADUÇÃO: dar a luz/parir/parto
+分子式 | TRADUÇÃO: fórmula molecular
+分子料理 | TRADUÇÃO: gastronomía molecular/cocina molecular
+分子生物学 | TRADUÇÃO: biología molecular
+分子筛 | TRADUÇÃO: tamiz molecular
+分子遗传学 | TRADUÇÃO: genética molecular
+分子医学 | TRADUÇÃO: medicina molecular
+分子量 | TRADUÇÃO: masa molecular/peso molecular
+分子杂交 | TRADUÇÃO: hibridación molecular
+分宜 | TRADUÇÃO: véase 分宜縣|分宜县
+分宜县 | TRADUÇÃO: Fenyi, condado de la ciudad de Xinyu 新余市, Jiangxi
+分家 | TRADUÇÃO: dividir la propiedad familiar y vivir por separado/separación del hogar familiar
+分寸 | TRADUÇÃO: sentido de la medida/tacto/propiedad/moderación/decora
+分封 | TRADUÇÃO: otorgar feudos/repartir tierras y títulos nobiliarios
+分封制 | TRADUÇÃO: sistema feudal de enfeudamiento/sistema de enfeoffment
+分局 | TRADUÇÃO: sucursal/comisaría de distrito/subdelegación
+分居 | TRADUÇÃO: separarse (pareja casada)/vivir separados (cónyuges o familiares)
+分尸 | TRADUÇÃO: descuartizar un cadáver
+分屏 | TRADUÇÃO: (inform.) pantalla dividida/dividir la pantalla
+分层 | TRADUÇÃO: estratificación/división en capas/laminación
+分属 | TRADUÇÃO: pertenecer respectivamente a/clasificación
+分岔 | TRADUÇÃO: (formal) bifurcarse/ramificarse/(formal) bifurcación/ramificación
+分崩离析 | TRADUÇÃO: desmoronarse y desintegrarse (modismo)/caerse a pedazos/desmembrarse
+分巡兵备道 | TRADUÇÃO: circuito de vigilancia y defensa militar (dinastía Qing)
+分工 | TRADUÇÃO: división del trabajo/repartir las tareas
+分店 | TRADUÇÃO: sucursal (de una tienda o cadena)/filial
+分度 | TRADUÇÃO: graduación (de un instrumento de medición)/escala graduada
+分庭抗礼 | TRADUÇÃO: tratarse de igual a igual (modismo)/competir en pie de igualdad/hacer frente como igual
+分形 | TRADUÇÃO: fractal
+分形几何 | TRADUÇÃO: geometría fractal
+分形几何学 | TRADUÇÃO: geometría fractal
+分心 | TRADUÇÃO: distraerse/desviar la atención/(de cortesía) tomarse la molestia de ocuparse de algo
+分忧 | TRADUÇÃO: compartir las penas/aliviar las preocupaciones de alguien
+分成 | TRADUÇÃO: dividirse en/repartirse beneficios o comisiones/porcentaje de reparto/décimas partes
+分房 | TRADUÇÃO: dormir en habitaciones separadas/asignación de viviendas públicas
+分所 | TRADUÇÃO: sucursal (de un bufete, consultoría, etc.)/oficina filial
+分手 | TRADUÇÃO: separarse/romper (una relación)/terminar una relación amorosa/despedirse
+分手代理 | TRADUÇÃO: "agente de ruptura" (persona contratada para terminar una relación amorosa en nombre de otra)
+分手炮 | TRADUÇÃO: (jerga) sexo de despedida/relación sexual de ruptura
+分批 | TRADUÇÃO: por lotes/en grupos/por tandas/por etapas
+分拆 | TRADUÇÃO: escindir/desglosar/escisión empresarial/segregar
+分掉 | TRADUÇÃO: repartir del todo/dividir y distribuir completamente
+分拣 | TRADUÇÃO: clasificar/seleccionar y ordenar (paquetes, correo, etc.)
+分担 | TRADUÇÃO: compartir (una carga, un gasto, una responsabilidad)/asumir conjuntamente
+分摊 | TRADUÇÃO: prorratear/repartir proporcionalmente (costes o responsabilidades)/distribuir gastos
+分支 | TRADUÇÃO: rama/ramal/bifurcación/sucursal/ramificarse/subdividirse
+分散 | TRADUÇÃO: dispersar/descentralizar/esparcir/distribuir
+分散和弦 | TRADUÇÃO: (música) arpegio/acorde arpegiado
+分散式 | TRADUÇÃO: descentralizado/distribuido
+分数 | TRADUÇÃO: puntuación/nota/calificación/(mat.) fracción
+分数挂帅 | TRADUÇÃO: obsesión por las notas escolares/priorizar exclusivamente las calificaciones
+分数线 | TRADUÇÃO: raya de fracción/(en exámenes) nota de corte/puntuación mínima de admisión
+分文 | TRADUÇÃO: ni un céntimo/un solo centavo
+分文不取 | TRADUÇÃO: no cobrar ni un céntimo/ofrecer gratis/no aceptar ninguna remuneración
+分明 | TRADUÇÃO: claro/evidente/nítido/evidentemente/claramente
+分星掰两 | TRADUÇÃO: minucioso hasta el último detalle/hacer cuentas al céntimo/meticuloso
+分时 | TRADUÇÃO: tiempo compartido (inmuebles)/(inform.) tiempo compartido/multiplexación en el tiempo
+分时多工 | TRADUÇÃO: multiplexación por división de tiempo/MDT/TDM
+分晓 | TRADUÇÃO: resultado/desenlace/aclararse/comprenderse el desenlace
+分会 | TRADUÇÃO: filial/sección/sucursal (de una asociación)
+分会场 | TRADUÇÃO: subsede/sede secundaria (de una conferencia o evento)
+分期 | TRADUÇÃO: por etapas/por plazos/fraccionado/a plazos
+分期付款 | TRADUÇÃO: pago a plazos/pagar a plazos/financiar en cuotas
+分析 | TRADUÇÃO: analizar/análisis/CL:個|个
+分析人士 | TRADUÇÃO: analista/experto
+分析化学 | TRADUÇÃO: química analítica
+分析员 | TRADUÇÃO: analista (p. ej. de noticias o datos)
+分析器 | TRADUÇÃO: analizador/analizador sintáctico
+分析学 | TRADUÇÃO: análisis matemático
+分析家 | TRADUÇÃO: analista (político o económico)
+分析师 | TRADUÇÃO: analista financiero/analista profesional
+分析心理学 | TRADUÇÃO: psicología analítica/psicología junguiana
+分析法 | TRADUÇÃO: método analítico
+分析处理 | TRADUÇÃO: procesamiento de análisis/analizar y procesar/(inform.) análisis sintáctico
+分析语 | TRADUÇÃO: lengua analítica (lingüística)
+分枝 | TRADUÇÃO: rama/ramificación
+分校 | TRADUÇÃO: campus filial/sucursal de una escuela o universidad
+分桃 | TRADUÇÃO: homosexualidad masculina/amor homosexual (alusión histórica de "compartir el melocotón")
+分机 | TRADUÇÃO: extensión telefónica/CL:臺|台
+分櫱 | TRADUÇÃO: variante de 分蘖
+分权 | TRADUÇÃO: separación de poderes/descentralización del poder
+分权制衡 | TRADUÇÃO: división y equilibrio de poderes/sistema de frenos y contrapesos
+分步骤 | TRADUÇÃO: paso a paso/por pasos sucesivos
+分歧 | TRADUÇÃO: divergencia/discrepancia/desacuerdo/(mat.) bifurcación
+分歧点 | TRADUÇÃO: punto de discrepancia/punto de divergencia
+分段 | TRADUÇÃO: dividir en secciones/segmentar/por tramos/por etapas
+分母 | TRADUÇÃO: (mat.) denominador de una fracción
+分毫 | TRADUÇÃO: la más mínima cantidad/una pizca/un ápice
+分毫之差 | TRADUÇÃO: diferencia de un pelo/diferencia mínima
+分水岭 | TRADUÇÃO: divisoria de aguas/(fig.) punto de inflexión/hito divisorio
+分水线 | TRADUÇÃO: línea divisoria de aguas/línea de cumbres
+分汊 | TRADUÇÃO: (hidrología) (de un río) bifurcarse/ramificarse
+分治 | TRADUÇÃO: gobernar por separado/partición/división territorial/algoritmo de divide y vencerás
+分泌 | TRADUÇÃO: segregar/secretar/secreción
+分泌物 | TRADUÇÃO: secreción/sustancia segregada
+分泌颗粒 | TRADUÇÃO: gránulo secretor (biología)
+分波多工 | TRADUÇÃO: multiplexación por división de longitud de onda/WDM
+分洪 | TRADUÇÃO: derivación de crecidas/alivio de inundaciones/desvío de avenidas de agua
+分派 | TRADUÇÃO: asignar (tareas)/destinar/distribuir
+分流 | TRADUÇÃO: desviar el flujo/bifurcar el tráfico o caudal/canalizar en distintas vías/redistribuir personal o estudiantes
+分流电路 | TRADUÇÃO: circuito en derivación/divisor de corriente (electrónica)
+分清 | TRADUÇÃO: distinguir claramente/diferenciar con claridad
+分为 | TRADUÇÃO: dividirse en/subdividirse en
+分争 | TRADUÇÃO: disputar/contender/litigar
+分班 | TRADUÇÃO: distribuir en clases/dividir en grupos o secciones
+分瓦 | TRADUÇÃO: decivatio
+分生组织 | TRADUÇÃO: meristemo/tejido meristemático (botánica)
+分产主义 | TRADUÇÃO: (economía) distributismo
+分界线 | TRADUÇÃO: línea divisoria/línea de demarcación/frontera
+分异 | TRADUÇÃO: diferenciación/distinción
+分当 | TRADUÇÃO: como debe ser/como es de esperar/conforme a la obligación de uno
+分发 | TRADUÇÃO: distribuir/repartir/distribución/asignar destinos
+分相 | TRADUÇÃO: fase dividida/desfasaje (electr.)
+分社 | TRADUÇÃO: delegación de prensa/agencia local/sucursal de una cooperativa
+分神 | TRADUÇÃO: distraerse/prestar atención a otra cosa/desviar la atención
+分秒必争 | TRADUÇÃO: no perder ni un minuto (modismo)/aprovechar cada segundo/cada instante cuenta
+分租 | TRADUÇÃO: alquilar por habitaciones/subarrendar partes de un inmueble/(agricultura) aparcería
+分灶吃饭 | TRADUÇÃO: "comer en fogones separados" (lema de la política de descentralización fiscal iniciada en China en los años 1980)
+分立 | TRADUÇÃO: constituirse por separado/escindirse en entidades independientes/separado/independiente
+分站 | TRADUÇÃO: subestación/estación secundaria
+分管 | TRADUÇÃO: estar a cargo de/encargarse de una sección o área
+分节 | TRADUÇÃO: segmentado/dividido en secciones
+分米 | TRADUÇÃO: decímetro
+分系统 | TRADUÇÃO: subsistema
+分红 | TRADUÇÃO: dividendo/reparto de utilidades/repartir beneficios
+分级 | TRADUÇÃO: clasificar/graduar/categorizar/clasificación/categoría/gradación
+分组 | TRADUÇÃO: agrupar/dividir en grupos/subgrupo/(redes) paquete de datos
+分组交换 | TRADUÇÃO: conmutación de paquetes (telecomunicaciones)
+分给 | TRADUÇÃO: repartir a/distribuir a/asignar a
+分缝 | TRADUÇÃO: raya del pelo
+分而治之 | TRADUÇÃO: divide y vencerás (modismo)/dividir para reinar
+分肥 | TRADUÇÃO: repartirse el botín/reparto injusto de ganancias
+分至点 | TRADUÇÃO: equinoccios y solsticios/puntos equinocciales y solsticiales/punto de divergencia
+分色 | TRADUÇÃO: separación de colores/selección de color (artes gráficas)
+分色镜头 | TRADUÇÃO: lente de separación de colores
+分蘖 | TRADUÇÃO: macollar/ahijar/hijuelo/macolla/tallo secundario (en cereales)
+分号 | TRADUÇÃO: punto y coma (signo de puntuación)
+分行 | TRADUÇÃO: sucursal bancaria/filial bancaria
+分袂 | TRADUÇÃO: despedirse/separarse de un amigo o conocido
+分裂 | TRADUÇÃO: dividirse/escindirse/fragmentarse/fisión/cisma/escisión
+分裂主义 | TRADUÇÃO: separatismo
+分裂情感性障碍 | TRADUÇÃO: trastorno esquizoafectivo
+分裂组织 | TRADUÇÃO: grupo separatista/(botánica) tejido meristemático/meristemo
+分装 | TRADUÇÃO: envasar por separado/dosificar/fraccionar en paquetes más pequeños
+分装机 | TRADUÇÃO: máquina envasadora/llenadora-dosificadora
+分角器 | TRADUÇÃO: transportador de ángulos/dispositivo divisor de ángulos
+分角线 | TRADUÇÃO: (Taiwán) bisectriz de un ángulo
+分解 | TRADUÇÃO: descomponer/descomponerse/desintegrar/desglosar
+分解代谢 | TRADUÇÃO: catabolismo (biología)/desasimilación
+分解作用 | TRADUÇÃO: descomposición/acción de degradación
+分解者 | TRADUÇÃO: (biología) descomponedor/organismo descomponedor
+分设 | TRADUÇÃO: establecer por separado/crear dependencias independientes
+分诉 | TRADUÇÃO: exponer en detalle/explicar las razones de uno/justificarse
+分词 | TRADUÇÃO: participio (gramática)/segmentación de palabras (procesamiento de lenguaje natural)
+分说 | TRADUÇÃO: explicar en detalle/dar explicaciones/aclarar
+分贝 | TRADUÇÃO: decibelio/decibel
+分账 | TRADUÇÃO: repartir ingresos/reparto de ganancias o cuentas/liquidación compartida
+分赃 | TRADUÇÃO: repartirse el botín/repartir ganancias ilícitas
+分赴 | TRADUÇÃO: dirigirse por separado a distintos lugares (para cumplir una misión)
+分身 | TRADUÇÃO: desdoblarse/avatar/cuenta secundaria/clon/sacar tiempo para otra tarea/descuartizar el cuerpo/dar a luz
+分身乏术 | TRADUÇÃO: no poder multiplicarse para atender todo (modismo)/estar sobrecargado y sin posibilidad de atender otros asuntos
+分辨 | TRADUÇÃO: distinguir/diferenciar/discernir/resolver (imágenes)
+分辨率 | TRADUÇÃO: resolución (de pantallas, cámaras, imágenes, etc.)
+分辩 | TRADUÇÃO: defenderse de una acusación/dar explicaciones para justificarse
+分述 | TRADUÇÃO: exponer detalladamente por partes/relatar por separado
+分送 | TRADUÇÃO: distribuir/enviar por separado/repartir
+分道扬镳 | TRADUÇÃO: lit. tomar caminos distintos y espolear a los caballos (modismo)/fig. separar sus caminos/tomar rumbos diferentes
+分部 | TRADUÇÃO: rama/filial/sección/departamento/subdividir
+分配 | TRADUÇÃO: distribuir/repartir/asignar/adjudicar/(inform.) particionar (un disco duro)
+分配器 | TRADUÇÃO: dispensador/dosificador/distribuidor/divisor de señal
+分配律 | TRADUÇÃO: (mat.) ley distributiva/propiedad distributiva
+分野 | TRADUÇÃO: línea divisoria/frontera/delimitación de campos/(astrología china) correspondencia entre regiones celestes y reinos terrestres
+分量 | TRADUÇÃO: (fís.) componente de un vector ‖ tamaño de la porción (de comida) ‖ peso/cantidad/medida/(fig.) peso (importancia, prestigio, autoridad)/densidad o solidez (de un texto)
+分针 | TRADUÇÃO: minutero (de un reloj)
+分销 | TRADUÇÃO: distribución comercial/venta al por menor
+分销商 | TRADUÇÃO: distribuidor/empresa distribuidora
+分销店 | TRADUÇÃO: tienda de distribución/punto de venta al por menor
+分销网络 | TRADUÇÃO: red de distribución
+分录 | TRADUÇÃO: asiento contable/partida contable
+分钱 | TRADUÇÃO: céntimo/centavo
+分锅 | TRADUÇÃO: (dialectal) separarse para vivir de forma independiente/(deportes) repartir culpas por una derrota/analizar los motivos del fracaso
+分镜 | TRADUÇÃO: guion gráfico/storyboard/toma dividida
+分镜表 | TRADUÇÃO: guion gráfico/tabla de storyboard
+分镜头 | TRADUÇÃO: guion gráfico/secuencia de planos/storyboard
+分钟 | TRADUÇÃO: minuto
+分门别类 | TRADUÇÃO: clasificar por categorías (modismo)/ordenar metódicamente
+分开 | TRADUÇÃO: separar/separarse/dividir/apartar
+分队 | TRADUÇÃO: pelotón/escuadra/sección militar
+分隔 | TRADUÇÃO: separar/dividir/aislar/partición/separador
+分际 | TRADUÇÃO: límite/frontera (entre roles, ámbitos o conceptos)/término adecuado/alcance
+分离 | TRADUÇÃO: separar/separarse/desprender/segregar/aislar
+分离主义 | TRADUÇÃO: separatismo
+分离分子 | TRADUÇÃO: separatista/elemento separatista
+分音符 | TRADUÇÃO: diéresis/crema
+分页 | TRADUÇÃO: (inform.) paginar/paginación/salto de página/paginación de memoria/pestaña (interfaz gráfica)
+分页符 | TRADUÇÃO: salto de página
+分项 | TRADUÇÃO: subapartado/subtema/ítem secundario/desglose
+分头 | TRADUÇÃO: por separado/en distintas direcciones/peinado con raya
+分头路 | TRADUÇÃO: raya del pelo
+分频 | TRADUÇÃO: división de frecuencia/crossover (de audio)/reparto de frecuencias
+分类 | TRADUÇÃO: clasificar/clasificación/categorizar
+分类学 | TRADUÇÃO: taxonomía/sistemática
+分类帐 | TRADUÇÃO: libro mayor/hoja de cálculo
+分类理论 | TRADUÇÃO: teoría de la clasificación
+分餐 | TRADUÇÃO: servir porciones individuales/comer en platos individuales (en lugar de compartir del plato central)
+分馏 | TRADUÇÃO: destilación fraccionada
+分点 | TRADUÇÃO: punto de división/punto equinoccial
+切 | TRADUÇÃO: cortar/rebanar/trocear/(mat.) tangente ‖ definitivamente/absolutamente (no)/(interjección de desdén o burla) ¡bah!/¡sí, claro!/afilar/moler/(en palabras compuestas) cercano a/urgente/ansioso/corresponder con/(indica la aplicación del método fonético fanqie 反切)
+切·格瓦拉 | TRADUÇÃO: Che Guevara (Ernesto Guevara, 1928–1967, líder de la Revolución cubana)
+切中 | TRADUÇÃO: dar en el blanco/acertar de lleno (en un argumento)/tocar el punto clave
+切中时弊 | TRADUÇÃO: dar en el clavo sobre los males de la época (modismo)/señalar con precisión los problemas actuales
+切中时病 | TRADUÇÃO: dar en la llaga de los problemas actuales (modismo)/acertar de pleno en el defecto
+切中要害 | TRADUÇÃO: dar en el quid de la cuestión (modismo)/tocar el punto neurálgico/dar en la diana
+切入 | TRADUÇÃO: hacer una incisión/(fig.) adentrarse en/abordar (un tema)/penetrar (en un mercado)/(deportes) penetrar la defensa/(cine) cortar hacia el siguiente plano
+切刀 | TRADUÇÃO: cuchilla/cortador/cuchillo de corte
+切分音 | TRADUÇÃO: síncopa (música)
+切切 | TRADUÇÃO: con insistencia/urgentemente/ansiosamente/asegúrese sin falta de/es fundamental
+切切私语 | TRADUÇÃO: susurros al oído/murmullos en voz baja
+切削 | TRADUÇÃO: mecanizar/cortar metales/mecanizado por arranque de viruta
+切割 | TRADUÇÃO: cortar/seccionar/corte
+切勿 | TRADUÇÃO: de ninguna manera/en absoluto/evítese por completo
+切口 | TRADUÇÃO: incisión/corte/muesca/canto de una página (de un libro) ‖ jerga/argot/lenguaje en clave
+切合 | TRADUÇÃO: ajustarse a/adaptarse a/adecuado/pertinente
+切合实际 | TRADUÇÃO: realista/apegado a la realidad/práctico
+切向 | TRADUÇÃO: dirección tangencial
+切向力 | TRADUÇÃO: fuerza tangencial
+切向速度 | TRADUÇÃO: velocidad tangencial
+切向量 | TRADUÇÃO: vector tangente
+切嘱 | TRADUÇÃO: exhortar con insistencia/encargo apremiante
+切块 | TRADUÇÃO: cortar en trozos/trocear/cortar en dados
+切实 | TRADUÇÃO: realista/factible/concienzudo/a conciencia/firmemente
+切实可行 | TRADUÇÃO: viable/factible/plenamente realizable
+切尼 | TRADUÇÃO: Cheney (nombre o apellido)/Dick Cheney (1941–, político republicano estadounidense, vicepresidente de EE. UU. 2001–2008)
+切平面 | TRADUÇÃO: plano tangente (a una superficie)
+切忌 | TRADUÇÃO: evitar a toda costa/prohibirse terminantemente
+切成 | TRADUÇÃO: cortar en/rebanar en/picar en/trocear en
+切换 | TRADUÇÃO: cambiar de modo/conmutar/alternar/(cine) cambiar de plano
+切断 | TRADUÇÃO: cortar/interrumpir/seccionar/cortar el suministro
+切望 | TRADUÇÃO: anhelar profundamente/esperar con ansia
+切末 | TRADUÇÃO: atrezo teatral/accesorios de escena (en la ópera tradicional china)
+切杆 | TRADUÇÃO: golpe de aproximación corto (golf)/chip
+切激 | TRADUÇÃO: vehemente/apasionado/con vehemencia
+切尔西 | TRADUÇÃO: Chelsea (nombre y topónimo)
+切尔诺贝利 | TRADUÇÃO: Chernóbil
+切片 | TRADUÇÃO: cortar en rodajas/rebanada/loncha/corte histológico/portaobjetos con muestra
+切片检查 | TRADUÇÃO: biopsia/examen histopatológico
+切牙 | TRADUÇÃO: diente incisivo/incisivo
+切特豪斯学校 | TRADUÇÃO: Escuela Charterhouse (colegio público del Reino Unido)
+切痛 | TRADUÇÃO: dolor punzante/dolor agudo
+切盼 | TRADUÇÃO: anhelar vivamente/esperar con fervor
+切碎 | TRADUÇÃO: picar/desmenuzar/cortar en trozos pequeños
+切磋 | TRADUÇÃO: intercambiar experiencias/aprender unos de otros/perfeccionarse mutuamente mediante el diálogo
+切磋琢磨 | TRADUÇÃO: lit. cortar, limar, cincelar y pulir (modismo)/fig. perfeccionarse mutuamente mediante el estudio y el intercambio
+切空间 | TRADUÇÃO: (mat.) espacio tangente
+切糕 | TRADUÇÃO: pastel de nueces y frutos secos de Xinjiang (qiegao)
+切结书 | TRADUÇÃO: declaración jurada escrita/compromiso por escrito
+切线 | TRADUÇÃO: recta tangente/línea tangente (geometría)
+切肉刀 | TRADUÇÃO: cuchilla de carnicero/macheta de carnicero
+切脉 | TRADUÇÃO: tomar el pulso/palpar el pulso (en MTC)
+切腹 | TRADUÇÃO: haraquiri/seppuku (suicidio ritual japonés por evisceración)
+切肤之痛 | TRADUÇÃO: dolor que cala hondo (modismo)/angustia lacerante/dolor en carne propia
+切莫 | TRADUÇÃO: de ninguna manera debe/por favor no.../bajo ningún concepto
+切菜板 | TRADUÇÃO: tabla de cortar/tabla de picar verduras
+切叶蜂 | TRADUÇÃO: abeja cortadora de hojas (Megachile)
+切要 | TRADUÇÃO: sumamente importante/esencial/vital
+切触 | TRADUÇÃO: osculación (contacto de orden superior en geometría)
+切记 | TRADUÇÃO: recordar sin falta/tener muy presente/grabar en la memoria
+切诊 | TRADUÇÃO: (MTC) toma del pulso y palpación (uno de los cuatro métodos de diagnóstico 四診|四诊)
+切变 | TRADUÇÃO: cizallamiento (física)
+切责 | TRADUÇÃO: reprender severamente/recriminar
+切身 | TRADUÇÃO: personal/directo/que atañe a uno mismo
+切近 | TRADUÇÃO: cercano/próximo/afín a
+切迫 | TRADUÇÃO: urgente/apremiante/inminente
+切达 | TRADUÇÃO: cheddar (queso)
+切除 | TRADUÇÃO: extirpar/resecar/cortar (un tumor, etc.)
+切面 | TRADUÇÃO: sección/corte transversal/(mat.) plano tangente
+切音 | TRADUÇÃO: indicar la pronunciación mediante el método fanqie/deletreo fonético chino
+切韵 | TRADUÇÃO: Qieyun (primer diccionario de rimas chino, del año 601 d. C., que contiene 11.500 caracteres) ‖ véase 反切
+切题 | TRADUÇÃO: ceñirse al tema/ser pertinente/venir al caso
+切骨之仇 | TRADUÇÃO: odio visceral (modismo)/odio que penetra hasta los huesos/enemistad mortal
+切点 | TRADUÇÃO: (mat.) punto de tangencia/punto de contacto
+切齿 | TRADUÇÃO: rechinar los dientes (de ira o indignación)
+切齿腐心 | TRADUÇÃO: odiar con toda el alma (modismo)/rechinar los dientes con odio visceral
+刈 | TRADUÇÃO: segar/cortar hierba
+刈包 | TRADUÇÃO: guabao (popular aperitivo taiwanés de pan al vapor relleno de cerdo, verduras encurtidas, cacahuete en polvo y cilantro)
+刈羽 | TRADUÇÃO: Kariwa (nombre japonés/emplazamiento de central nuclear en la prefectura de Niigata 新潟, Japón)
+刊 | TRADUÇÃO: imprimir/publicar/publicación/periódico/revista/tallar/grabar/corregir ‖ variante antigua de 刊/pelar con cuchillo/grabar/corregir
+刊印 | TRADUÇÃO: imprimir y editar/imprimir/publicar
+刊正 | TRADUÇÃO: corregir pruebas/enmendar errores (en un texto)
+刊物 | TRADUÇÃO: publicación/periódico/revista
+刊登 | TRADUÇÃO: publicar (en un periódico o revista)/insertar (un artículo)
+刊发 | TRADUÇÃO: publicar/difundir (en prensa escrita o revista)
+刊号 | TRADUÇÃO: número de publicación periódica/código de registro de publicación
+刊行 | TRADUÇÃO: publicar y distribuir/dar a la estampa
+刊误 | TRADUÇÃO: corregir erratas/subsanar errores de imprenta
+刊误表 | TRADUÇÃO: variante de 勘誤表|勘误表
+刊载 | TRADUÇÃO: publicar/insertar (en una publicación o revista)/pron. en Taiwán [kan1zai4]
+刊头 | TRADUÇÃO: cabecera (de un periódico o revista)
+刊首语 | TRADUÇÃO: prólogo/nota editorial/mensaje de apertura (en una revista)
+刌 | TRADUÇÃO: (literario) cortar/trocear/seccionar
+刎 | TRADUÇÃO: cortarse la garganta/degollarse
+刑 | TRADUÇÃO: apellido Xing ‖ castigo/pena/condena/tortura/pena corporal
+刑事 | TRADUÇÃO: penal/criminal
+刑事审判庭 | TRADUÇÃO: sala de lo penal/tribunal de lo penal
+刑事局 | TRADUÇÃO: Oficina de Investigación Criminal (CIB)
+刑事拘留 | TRADUÇÃO: detención penal/detener preventivamente por causa penal
+刑事法庭 | TRADUÇÃO: tribunal penal/juzgado de lo penal
+刑事法院 | TRADUÇÃO: tribunal penal/juzgado de lo penal
+刑事犯 | TRADUÇÃO: delincuente común/reo penal
+刑事犯罪 | TRADUÇÃO: delito penal/crimen
+刑事诉讼法 | TRADUÇÃO: ley de enjuiciamiento criminal/código procesal penal
+刑事警察 | TRADUÇÃO: policía judicial/policía de investigación criminal/agente de la policía judicial
+刑事警察局 | TRADUÇÃO: Oficina de Policía de Investigación Criminal
+刑人 | TRADUÇÃO: reo condenado a muerte/ejecutar a un reo
+刑侦 | TRADUÇÃO: investigación criminal/policía científica
+刑具 | TRADUÇÃO: instrumentos de tortura/útiles de castigo penal
+刑名 | TRADUÇÃO: xing-ming (doctrina legalista del periodo de los Reinos Combatientes asociada a Shen Buhai 申不害)/denominación de un castigo o pena
+刑名之学 | TRADUÇÃO: doctrina xing-ming (escuela de pensamiento legalista del periodo de los Reinos Combatientes)
+刑堂 | TRADUÇÃO: sala de torturas/tribunal de castigos
+刑场 | TRADUÇÃO: lugar de ejecución/patíbulo/campo de ejecuciones
+刑天 | TRADUÇÃO: Xingtian (héroe gigante decapitado de la mitología china, decapitado por el Emperador Amarillo 黃帝|黄帝)
+刑庭 | TRADUÇÃO: sala de lo penal (abrev. de 刑事法庭)
+刑律 | TRADUÇÃO: leyes penales/código penal (antiguo)
+刑戮 | TRADUÇÃO: (literario) pena corporal o ejecución capital
+刑房 | TRADUÇÃO: cámara de tortura/oficina de castigos
+刑拘 | TRADUÇÃO: detención penal/detener preventivamente (abrev. de 刑事拘留)
+刑期 | TRADUÇÃO: condena de prisión/duración de la pena
+刑杖 | TRADUÇÃO: vara de azotes/bastón de castigo corporal
+刑案 | TRADUÇÃO: caso penal/causa criminal
+刑求 | TRADUÇÃO: torturar para obtener confesión/obtener confesiones mediante tortura
+刑法 | TRADUÇÃO: derecho penal/código penal
+刑满 | TRADUÇÃO: cumplir la condena (de prisión)
+刑网 | TRADUÇÃO: la red de la ley/el brazo de la justicia penal
+刑罚 | TRADUÇÃO: sanción penal/castigo penal/pena
+刑舂 | TRADUÇÃO: condena a moler grano como pena de trabajos forzados (antiguo)
+刑讯 | TRADUÇÃO: interrogatorio bajo tortura/inquisición
+刑诉法 | TRADUÇÃO: ley de enjuiciamiento criminal/código procesal penal (abrev. de 刑事訴訟法|刑事诉讼法)
+刑警 | TRADUÇÃO: policía judicial/policía de investigación criminal (abrev. de 刑事警察)
+刑辱 | TRADUÇÃO: humillar mediante tortura
+刑部 | TRADUÇÃO: Ministerio de Justicia (en la China imperial)
+划 | TRADUÇÃO: remar/bogar/valer la pena/ser rentable ‖ cortar/rajar/arañar/raspar (un fósforo o cerilla) ‖ delimitar/trazar (una línea)/planificar/asignar/transferir/trazo de un carácter chino
+划不来 | TRADUÇÃO: no valer la pena/no salir a cuenta/no ser rentable
+划子 | TRADUÇÃO: barca de remos/bote pequeño/remo/varilla para cortina
+划得来 | TRADUÇÃO: valer la pena/salir a cuenta/ser rentable
+划拉 | TRADUÇÃO: barrer/apartar con la mano/garabatear/remover
+划拳 | TRADUÇÃO: juego chino de adivinar los dedos (juego de beber)
+划桨 | TRADUÇÃO: remar/bogar
+划算 | TRADUÇÃO: salir a cuenta/valer la pena/económico/rentable/calcular pros y contras
+划船 | TRADUÇÃO: remar en bote/remo (deporte)/paseo en barca/barca de remos
+划船机 | TRADUÇÃO: máquina de remo/remoergómetro
+划艇 | TRADUÇÃO: canoa/canoa de carreras/embarcación de remo
+刓 | TRADUÇÃO: recortar/redondear las esquinas/desgastar
+刖 | TRADUÇÃO: amputar los pies como castigo (uno de los cinco castigos corporales de la antigua China 五刑)
+列 | TRADUÇÃO: alinear/disponer en orden/fila/serie/(en tablas) columna/(Taiwán) fila
+列位 | TRADUÇÃO: señoras y señores/todos los presentes/distinguidos asistentes
+列侯 | TRADUÇÃO: señor feudal/marqués (título nobiliario en la antigua China)
+列传 | TRADUÇÃO: biografías colectivas (en anales históricos chinos)
+列克 | TRADUÇÃO: lek (moneda de Albania)
+列克星顿 | TRADUÇÃO: Lexington (Massachusetts)
+列入 | TRADUÇÃO: incluir en la lista/incorporar/hacer figurar
+列兵 | TRADUÇÃO: soldado raso (ejército)
+列出 | TRADUÇÃO: enumerar/hacer una lista de/listar
+列别杰夫 | TRADUÇÃO: variante de 列別捷夫|列别捷夫
+列别捷夫 | TRADUÇÃO: Lébedev (apellido ruso)
+列印 | TRADUÇÃO: (Taiwán) imprimir
+列国 | TRADUÇÃO: los diversos estados/las naciones
+列夫·托尔斯泰 | TRADUÇÃO: León Tolstói (1828–1910, novelista ruso)
+列子 | TRADUÇÃO: Lie Zi (autor taoísta del periodo de los Reinos Combatientes)/Liezi (texto taoísta clásico en ocho capítulos atribuido a Lie Zi)
+列宁 | TRADUÇÃO: Lenin (Vladímir Ilich Lenin, 1870–1924, líder revolucionario ruso)
+列宁主义 | TRADUÇÃO: leninismo
+列宁格勒 | TRADUÇÃO: Leningrado (antiguo nombre de San Petersburgo 聖彼得堡|圣彼得堡 entre 1924 y 1991)
+列岛 | TRADUÇÃO: archipiélago/cadena de islas
+列席 | TRADUÇÃO: asistir como observador (sin derecho a voto)/asistir a una reunión en calidad de oyente
+列弗 | TRADUÇÃO: lev (moneda de Bulgaria)
+列强 | TRADUÇÃO: las grandes potencias (historia)
+列支敦士登 | TRADUÇÃO: Liechtenstein
+列支敦斯登 | TRADUÇÃO: Liechtenstein (Taiwán)
+列明 | TRADUÇÃO: especificar claramente/enumerar con detalle
+列星 | TRADUÇÃO: alineación estelar/las constelaciones
+列氏温标 | TRADUÇÃO: escala termométrica Réaumur
+列治文 | TRADUÇÃO: Richmond (topónimo o apellido)
+列为 | TRADUÇÃO: ser clasificado como/ser catalogado como/incluirse entre
+列王纪上 | TRADUÇÃO: Primer Libro de los Reyes (Biblia)
+列王纪下 | TRADUÇÃO: Segundo Libro de los Reyes (Biblia)
+列王记上 | TRADUÇÃO: Primer Libro de los Reyes
+列王记下 | TRADUÇÃO: Segundo Libro de los Reyes
+列缺 | TRADUÇÃO: relámpago (arcaico)
+列缺霹雳 | TRADUÇÃO: relámpagos y truenos
+列举 | TRADUÇÃO: enumerar/hacer una lista de/mencionar uno por uno
+列表 | TRADUÇÃO: tabular/listar/tabla/lista
+列装 | TRADUÇÃO: entrar en servicio activo (armamento o equipo militar)/incorporarse al servicio
+列车 | TRADUÇÃO: tren/ferrocarril
+列车员 | TRADUÇÃO: auxiliar de tren/revisor de tren/asistente de a bordo
+列车长 | TRADUÇÃO: jefe de tren/jefe de convoy
+列队 | TRADUÇÃO: formarse en filas/ponerse en formación
+刜 | TRADUÇÃO: cortar con hacha/talar/golpear
+初 | TRADUÇÃO: (en palabras compuestas) al principio; inicialmente/(en palabras compuestas) primero; inicial; temprano/(en fechas del calendario lunar, antes de los números 1 al 10) días del 1 al 10 de un mes lunar (como en 初三 "el día 3")
+初一 | TRADUÇÃO: primer año de secundaria básica/primer día del mes lunar
+初三 | TRADUÇÃO: tercer año de secundaria básica/tercer día del mes lunar
+初中 | TRADUÇÃO: escuela secundaria básica/educación secundaria obligatoria (abrev. de 初級中學|初级中学)
+初中生 | TRADUÇÃO: estudiante de secundaria básica
+初二 | TRADUÇÃO: segundo año de secundaria básica/segundo día del mes lunar
+初伏 | TRADUÇÃO: primer período de canícula (chufu, el primero de los tres períodos más calurosos del año 三伏)
+初估 | TRADUÇÃO: estimar preliminarmente/estimación inicial
+初来乍到 | TRADUÇÃO: recién llegado/acabar de llegar a un lugar nuevo (modismo)
+初具规模 | TRADUÇÃO: empezar a tomar forma/adquirir ya cierta escala
+初冬 | TRADUÇÃO: principios de invierno/invierno temprano
+初出茅庐 | TRADUÇÃO: recién salido de la cabaña de paja (modismo)/joven e inexperto/novato/principiante
+初刻拍案惊奇 | TRADUÇÃO: Golpear la mesa con asombro (Primera parte), colección de relatos de la dinastía Ming de Ling Mengchu 凌濛初|凌蒙初
+初创 | TRADUÇÃO: recién fundado/etapa inicial de creación/empresa emergente
+初创公司 | TRADUÇÃO: empresa emergente/startup
+初升 | TRADUÇÃO: naciente/saliente (sol, luna)
+初唐四杰 | TRADUÇÃO: los Cuatro Grandes Poetas de principios de la dinastía Tang (Wang Bo 王勃, Yang Jiong 楊炯|杨炯, Lu Zhaolin 盧照鄰|卢照邻 y Luo Binwang 駱賓王|骆宾王)
+初夏 | TRADUÇÃO: principios de verano/verano temprano
+初夜 | TRADUÇÃO: primeras horas de la noche/noche de bodas/(fig.) primera relación sexual
+初始 | TRADUÇÃO: inicial/punto de partida
+初始化 | TRADUÇÃO: (inform.) inicializar/inicialización
+初婚 | TRADUÇÃO: primeras nupcias/casarse por primera vez
+初学者 | TRADUÇÃO: principiante/aprendiz
+初审 | TRADUÇÃO: primera instancia/juicio preliminar/primera revisión
+初小 | TRADUÇÃO: ciclo inicial de educación primaria (abrev. de 初級小學|初级小学)
+初年 | TRADUÇÃO: primeros años (de un reinado, era o siglo)
+初心 | TRADUÇÃO: intención original/aspiración inicial/(budismo) mente de principiante
+初恋 | TRADUÇÃO: primer amor
+初恋感觉 | TRADUÇÃO: sensación del primer amor/sentimientos del primer enamoramiento
+初战 | TRADUÇÃO: primera batalla/primer combate de una campaña
+初探 | TRADUÇÃO: sondeo preliminar/estudio exploratorio inicial/primeras indagaciones
+初文 | TRADUÇÃO: forma arcaica original de un carácter chino
+初更 | TRADUÇÃO: primera vigilia de la noche (de 19:00 a 21:00 en la antigua China)
+初期 | TRADUÇÃO: fase inicial/periodo inicial/principios
+初次 | TRADUÇÃO: por primera vez/primer (encuentro, intento, etc.)
+初步 | TRADUÇÃO: preliminar/inicial/tentativo
+初步设想 | TRADUÇÃO: idea preliminar/planteamiento inicial
+初潮 | TRADUÇÃO: menarquía/primera menstruación
+初犯 | TRADUÇÃO: primer delito/delincuente primario
+初生 | TRADUÇÃO: recién nacido/naciente/primario (biología)
+初生之犊不怕虎 | TRADUÇÃO: véase 初生之犢不畏虎|初生之犊不畏虎
+初生之犊不畏虎 | TRADUÇÃO: lit. el ternero recién nacido no teme al tigre (modismo)/fig. la audacia e intrepidez de la juventud
+初生牛犊不怕虎 | TRADUÇÃO: lit. los terneros recién nacidos no temen a los tigres (modismo)/fig. los jóvenes no conocen el miedo
+初秋 | TRADUÇÃO: principios de otoño/séptimo mes del calendario lunar
+初稿 | TRADUÇÃO: primer borrador/borrador inicial
+初等 | TRADUÇÃO: elemental/primario
+初等代数 | TRADUÇÃO: álgebra elemental
+初等教育 | TRADUÇÃO: educación primaria/enseñanza elemental
+初级 | TRADUÇÃO: elemental/básico/primario/de nivel inicial
+初级中学 | TRADUÇÃO: escuela secundaria básica/educación secundaria elemental
+初级小学 | TRADUÇÃO: escuela primaria de primer ciclo
+初声 | TRADUÇÃO: consonante inicial (de una sílaba en coreano/hangeul)
+初叶 | TRADUÇÃO: primeros años/comienzos (de un siglo o época)
+初衷 | TRADUÇÃO: intención original/propósito inicial
+初设 | TRADUÇÃO: fundado inicialmente/establecido por primera vez
+初试 | TRADUÇÃO: examen preliminar/primera prueba/primer intento
+初试身手 | TRADUÇÃO: probar suerte por primera vez/demostrar las propias habilidades por vez primera
+初识 | TRADUÇÃO: conocer a alguien por primera vez/descubrir algo por vez primera
+初赛 | TRADUÇÃO: fase preliminar/ronda clasificatoria (de una competición)
+初选 | TRADUÇÃO: elecciones primarias/selección preliminar
+初露 | TRADUÇÃO: primeros indicios/empezar a manifestarse
+初露才华 | TRADUÇÃO: despuntar el talento/mostrar el talento por primera vez
+初露锋芒 | TRADUÇÃO: mostrar las primeras dotes (modismo)/hacer las primeras demostraciones de brillantez
+初露头角 | TRADUÇÃO: asomar los cuernos por primera vez (modismo)/empezar a despuntar el talento/talento incipiente
+刞 | TRADUÇÃO: variante antigua de 耝
+刡 | TRADUÇÃO: raspar/pelar/raer
+判 | TRADUÇÃO: (en palabras compuestas) diferenciar; distinguir/(en palabras compuestas) claramente (distinto)/juzgar/decidir/calificar/(un juez) dictar sentencia/sentenciar
+判令 | TRADUÇÃO: ordenar judicialmente/decreto judicial/mandato judicial
+判例 | TRADUÇÃO: jurisprudencia/precedente judicial
+判例法 | TRADUÇÃO: derecho jurisprudencial/derecho consuetudinario (common law)
+判刑 | TRADUÇÃO: condenar a una pena de prisión/sentenciar
+判别 | TRADUÇÃO: diferenciar/discriminar/distinguir
+判别式 | TRADUÇÃO: (mat.) discriminante
+判官 | TRADUÇÃO: juez del inframundo (mitología)/magistrado asistente (durante las dinastías Tang y Song)
+判定 | TRADUÇÃO: determinar/juzgar/fallo/resolución/determinación
+判据 | TRADUÇÃO: criterio de juicio/criterio de decisión
+判断 | TRADUÇÃO: juzgar/determinar/juicio/criterio
+判断力 | TRADUÇÃO: capacidad de juicio/criterio/sensatez
+判断语 | TRADUÇÃO: predicado de juicio (gramática)
+判明 | TRADUÇÃO: determinar con certeza/esclarecer/distinguir claramente
+判决 | TRADUÇÃO: sentencia/fallo judicial/dictar sentencia/sentenciar
+判然 | TRADUÇÃO: netamente/claramente/marcadamente
+判罪 | TRADUÇÃO: declarar culpable/condenar por un delito
+判罚 | TRADUÇÃO: sancionar/penalizar/sanción/penalti
+判若两人 | TRADUÇÃO: parecer una persona completamente distinta (modismo)/cambiar del todo
+判若云泥 | TRADUÇÃO: tan diferentes como el cielo y el fango (modismo)/diferencia abismal
+判处 | TRADUÇÃO: sentenciar a/condenar a
+判袂 | TRADUÇÃO: (literario) separarse dos personas/despedirse
+判读 | TRADUÇÃO: interpretar (radiografías, fotos satelitales, etc.)/decodificar y analizar datos (de una caja negra, etc.)
+判赔 | TRADUÇÃO: condenar a pagar una indemnización
+别 | TRADUÇÃO: apellido Bie ‖ separarse/despedirse/(literario) diferenciar/distinguir/(dialectal) desviar/apartar (la cara, la mirada)/(en palabras compuestas) otro; distinto/¡no ...!/sujetar con un alfiler o clip/prender/clavar; encajar (para trabar el movimiento)/(sufijo nominal) categoría o distinción (como en 性別|性别, 派別|派别) ‖ hacer cambiar de opinión o conducta a alguien
+别人 | TRADUÇÃO: los demás/otras personas/otra persona/el prójimo
+别人牵驴你拔橛子 | TRADUÇÃO: lit. otro se llevó el burro y tú solo sacaste la estaca (modismo)/fig. pagar los platos rotos siendo el menos culpable
+别来无恙 | TRADUÇÃO: (literario) confío en que se encuentre bien desde la última vez que nos vimos/¿cómo ha estado desde nuestra despedida?
+别传 | TRADUÇÃO: biografía suplementaria/biografía no oficial
+别克 | TRADUÇÃO: Buick
+别具 | TRADUÇÃO: véase 獨具|独具
+别具一格 | TRADUÇÃO: tener un estilo propio y singular (modismo)/estilo distintivo
+别具匠心 | TRADUÇÃO: mostrar gran ingenio y originalidad (modismo)/diseño concebido con brillantez
+别具只眼 | TRADUÇÃO: véase 獨具隻眼|独具只眼
+别出心裁 | TRADUÇÃO: tener una idea novedosa (modismo)/hacer gala de gran originalidad/enfoque original
+别动队 | TRADUÇÃO: comando especial/destacamento especial/fuerzas especiales
+别名 | TRADUÇÃO: alias/sobrenombre/nombre alternativo
+别墅 | TRADUÇÃO: chalé/villa/casa de campo/residencia unifamiliar/CL:幢,座
+别太客气 | TRADUÇÃO: no sea tan formal/¡no se preocupe!/¡no hay de qué!/por favor, no haga cumplidos
+别子 | TRADUÇÃO: pasador de cerrojo/colgante
+别字 | TRADUÇÃO: véase 白字
+别客气 | TRADUÇÃO: de nada/no hay de qué/no se preocupe por cumplidos
+别提了 | TRADUÇÃO: ni me lo recuerdes/ni hablar/mejor no hablemos de eso
+别有 | TRADUÇÃO: tener otro.../poseer un encanto especial
+别有天地 | TRADUÇÃO: un mundo aparte (modismo)/paisaje de singular belleza/entorno encantador
+别有洞天 | TRADUÇÃO: un mundo completamente diferente y fascinante (modismo)/paraje de singular belleza
+别有用心 | TRADUÇÃO: albergar segundas intenciones (modismo)/tener motivos ocultos
+别有韵味 | TRADUÇÃO: poseer un encanto especial/tener un sabor muy particular
+别样 | TRADUÇÃO: de otra clase/diferente/singular/especial
+别树一帜 | TRADUÇÃO: lit. izar un estandarte en un árbol solitario (modismo)/fig. crear una escuela propia/distinguirse con un estilo único
+别树一旗 | TRADUÇÃO: lit. alzar una bandera propia (modismo)/fig. marcar un rumbo independiente/crear un estilo propio
+别无 | TRADUÇÃO: no haber otro.../no tener más...
+别无二致 | TRADUÇÃO: sin la menor diferencia (modismo)/exactamente igual
+别无他法 | TRADUÇÃO: no haber otra alternativa/no quedar otro remedio
+别无他物 | TRADUÇÃO: no haber ninguna otra cosa/nada más
+别无选择 | TRADUÇÃO: no tener otra opción/no quedar más remedio
+别无长物 | TRADUÇÃO: no poseer más que lo indispensable (modismo)/vivir con suma austeridad
+别理 | TRADUÇÃO: no le hagas caso/¡ignóralo!/no te metas/no le hables
+别的 | TRADUÇÃO: otro/demás
+别看 | TRADUÇÃO: a pesar de que/aunque parezca que no/no hay que dejarse engañar porque
+别称 | TRADUÇÃO: otro nombre/denominación alternativa/alias
+别筵 | TRADUÇÃO: banquete de despedida
+别管 | TRADUÇÃO: sin importar (quién, qué, etc.)/no te metas/sea quien sea
+别绪 | TRADUÇÃO: sentimientos de la despedida/melancolía al separarse
+别致 | TRADUÇÃO: original/singular/novedoso y elegante ‖ variante de 別緻|别致
+别脸 | TRADUÇÃO: apartar la cara/desviar el rostro
+别苗头 | TRADUÇÃO: (dialectal) competir con alguien/medirse frente a otro
+别庄 | TRADUÇÃO: villa de recreo/casa de campo
+别处 | TRADUÇÃO: en otro lugar/en otra parte
+别号 | TRADUÇÃO: seudónimo/alias/nombre de cortesía alternativo
+别说 | TRADUÇÃO: por no hablar de/sin mencionar/mucho menos/ni qué decir tiene
+别论 | TRADUÇÃO: otro cantar/asunto completamente distinto/objeción (antiguo)
+别赫捷列夫 | TRADUÇÃO: Vladímir Béjterev (1857–1927, neurólogo y psiquiatra ruso)
+别针 | TRADUÇÃO: imperdible/alfiler/broche/CL:枚
+别开生面 | TRADUÇÃO: abrir nuevos horizontes (modismo)/inaugurar un nuevo estilo/abrir nuevos caminos con originalidad
+别离 | TRADUÇÃO: separarse/despedirse/separación
+劫 | TRADUÇÃO: variante de 劫 ‖ variante de 劫 ‖ variante de 劫 ‖ robar/saquear/despojar por la fuerza/coaccionar/calamidad/desastre/(budismo) kalpa (abrev. de 劫波)
+刨 | TRADUÇÃO: cepillo de carpintero/cepillar (madera)/pelar (con pelador)/raspar ‖ cavar/excavar/(coloq.) excluir/descontar/deducir ‖ variante de 刨
+刨冰 | TRADUÇÃO: raspado/granizado/hielo raspado
+刨刀 | TRADUÇÃO: cuchilla de cepillar/herramienta de cepillado/pelador
+刨子 | TRADUÇÃO: cepillo de carpintero
+刨工 | TRADUÇÃO: cepillador/operario de cepilladora/trabajo de cepillado
+刨床 | TRADUÇÃO: cepilladora (máquina herramienta)
+刨根 | TRADUÇÃO: desenterrar la raíz/(fig.) ir al fondo del asunto/indagar a fondo
+刨根儿 | TRADUÇÃO: variante erhua de 刨根
+刨根问底 | TRADUÇÃO: indagar hasta las últimas consecuencias (modismo)/averiguar la raíz de un asunto/hacer preguntas minuciosas
+刨程 | TRADUÇÃO: carrera de cepillado (en mecanizado)
+刨笔刀 | TRADUÇÃO: sacapuntas/tajalápiz
+刨丝器 | TRADUÇÃO: rallador/cortador en juliana
+刨花 | TRADUÇÃO: virutas de madera
+刨花板 | TRADUÇÃO: tablero de aglomerado/aglomerado de madera
+刨齿 | TRADUÇÃO: tallado de engranajes por cepillado
+利 | TRADUÇÃO: apellido Li ‖ afilado/favorable/ventaja/beneficio/ganancia/interés/beneficiar/favorecer
+利事 | TRADUÇÃO: (cantonés) lo mismo que 紅包|红包 (sobre rojo con dinero)
+利什曼病 | TRADUÇÃO: (med.) leishmaniasis/leishmaniosis
+利他 | TRADUÇÃO: beneficiar a los demás/altruismo
+利他主义 | TRADUÇÃO: altruismo
+利他林 | TRADUÇÃO: Ritalin (nombre comercial)/metilfenidato (fármaco para el TDAH)
+利他能 | TRADUÇÃO: Ritalin (nombre comercial)/metilfenidato/también escrito 利他林
+利他行为 | TRADUÇÃO: conducta altruista/comportamiento altruista
+利他灵 | TRADUÇÃO: Ritalin (nombre comercial)/metilfenidato/también escrito 利他林
+利令智昏 | TRADUÇÃO: perder el juicio por la codicia (modismo)/ofuscado por el afán de lucro
+利伯曼 | TRADUÇÃO: Liberman, Lieberman o Liebermann (nombre o apellido)
+利伯维尔 | TRADUÇÃO: Libreville (capital de Gabón)
+利刀 | TRADUÇÃO: cuchillo afilado/cuchillo cortante
+利刃 | TRADUÇÃO: hoja afilada/arma cortante
+利剑 | TRADUÇÃO: espada afilada
+利勒哈默尔 | TRADUÇÃO: Lillehammer (ciudad de Noruega)
+利口酒 | TRADUÇÃO: (préstamo) licor
+利古里亚 | TRADUÇÃO: Liguria (región del noroeste de Italia)
+利器 | TRADUÇÃO: arma afilada/herramienta sumamente eficaz/persona de talento sobresaliente
+利国利民 | TRADUÇÃO: beneficiar tanto al país como al pueblo
+利基 | TRADUÇÃO: nicho (de mercado)/ventaja competitiva
+利多 | TRADUÇÃO: véase 利好
+利多卡因 | TRADUÇÃO: (préstamo) lidocaína
+利奈唑胺 | TRADUÇÃO: linezolid (antibiótico sintético)
+利好 | TRADUÇÃO: (finanzas) noticia favorable/factor alcista/dato positivo
+利害 | TRADUÇÃO: pros y contras/ventajas y desventajas/ganancias y pérdidas ‖ variante de 厲害|厉害
+利害攸关 | TRADUÇÃO: ser de vital importancia (modismo)/estar en juego intereses fundamentales
+利害冲突 | TRADUÇÃO: conflicto de intereses
+利害关系 | TRADUÇÃO: relación de intereses/interés directo/implicación
+利害关系人 | TRADUÇÃO: parte interesada/persona con interés legítimo
+利害关系方 | TRADUÇÃO: parte interesada
+利尿 | TRADUÇÃO: diuresis/promover la micción
+利尿剂 | TRADUÇÃO: diurético
+利川 | TRADUÇÃO: véase 利川市
+利川市 | TRADUÇÃO: Lichuan (ciudad a nivel de condado en la prefectura autónoma tujia y miao de Enshi 恩施土家族苗族自治州, Hubei)
+利州 | TRADUÇÃO: véase 利州區|利州区
+利州区 | TRADUÇÃO: Lizhou (distrito de la ciudad de Guangyuan 廣元市|广元市, Sichuan)
+利己 | TRADUÇÃO: beneficiarse a uno mismo/afán de lucro personal/egoísmo
+利己主义 | TRADUÇÃO: egoísmo
+利市 | TRADUÇÃO: ganancias comerciales/buen augurio/afortunado/dinero de propina en días festivos (sobre rojo)
+利弊 | TRADUÇÃO: pros y contras/ventajas y desventajas
+利得 | TRADUÇÃO: ganancia/beneficio económico/rendimiento
+利得税 | TRADUÇÃO: impuesto sobre los beneficios/impuesto a las ganancias
+利息 | TRADUÇÃO: intereses (financieros)/rédito/CL:筆|笔
+利息率 | TRADUÇÃO: tipo de interés/tasa de interés
+利欲 | TRADUÇÃO: codicia/afán desmedido de lucro
+利欲心 | TRADUÇÃO: deseo de lucro/ansia de riqueza/ambición material
+利欲熏心 | TRADUÇÃO: cegado por la codicia (modismo)/ofuscado por la ambición de riquezas
+利手 | TRADUÇÃO: mano dominante/lateralidad manual
+利于 | TRADUÇÃO: favorecer a/ser beneficioso para/propiciar
+利是 | TRADUÇÃO: variante de 利事
+利未记 | TRADUÇÃO: Levítico/Tercer Libro de Moisés (Biblia)
+利乐包 | TRADUÇÃO: envase Tetra Pak/brik
+利权 | TRADUÇÃO: derechos económicos/privilegios comerciales o financieros
+利比亚 | TRADUÇÃO: Libia
+利比里亚 | TRADUÇÃO: Liberia
+利民 | TRADUÇÃO: beneficiar al pueblo/en bien del pueblo
+利津 | TRADUÇÃO: véase 利津縣|利津县
+利津县 | TRADUÇÃO: Lijin (condado de la ciudad de Dongying 東營市|东营市, Shandong)
+利滚利 | TRADUÇÃO: anatocismo/interés compuesto (bola de nieve de deudas acumuladas)
+利润 | TRADUÇÃO: ganancias/beneficios/utilidades
+利润率 | TRADUÇÃO: margen de beneficio/tasa de ganancia
+利爪 | TRADUÇÃO: garra afilada
+利物浦 | TRADUÇÃO: Liverpool (Inglaterra)
+利率 | TRADUÇÃO: tipo de interés/tasa de interés
+利玛窦 | TRADUÇÃO: Matteo Ricci (1552–1610, misionero jesuita y traductor en la China de la dinastía Ming)
+利用 | TRADUÇÃO: aprovechar/utilizar/hacer uso de/explotar/valerse de
+利益 | TRADUÇÃO: interés/beneficio/provecho/CL:個|个
+利益冲突 | TRADUÇÃO: conflicto de intereses
+利益输送 | TRADUÇÃO: transferencia ilícita de beneficios/tráfico de influencias para lucrar a terceros
+利益集团 | TRADUÇÃO: grupo de interés/grupo de presión
+利眠宁 | TRADUÇÃO: clordiazepóxido/Librium (nombre comercial)
+利禄 | TRADUÇÃO: riquezas y cargos oficiales/fama y fortuna
+利空 | TRADUÇÃO: (finanzas) factor bajista/noticia desfavorable/dato negativo
+利纳克斯 | TRADUÇÃO: Linux (sistema operativo)
+利索 | TRADUÇÃO: ágil/diestro/resuelto/rápido y eficiente
+利维坦 | TRADUÇÃO: (préstamo) leviatán
+利兹 | TRADUÇÃO: Leeds
+利落 | TRADUÇÃO: ágil/despachado/resuelto/ordenado/arreglado
+利诱 | TRADUÇÃO: tentar con ganancias/atraer mediante soborno o señuelo material
+利贴 | TRADUÇÃO: nota Post-it/papel adhesivo tipo Post-it
+利宾纳 | TRADUÇÃO: Ribena (marca de bebida de grosella negra)
+利辛 | TRADUÇÃO: véase 利辛縣|利辛县
+利辛县 | TRADUÇÃO: Lixin (condado de la ciudad de Bozhou 亳州市, Anhui)
+利通 | TRADUÇÃO: véase 利通區|利通区
+利通区 | TRADUÇÃO: Litong (distrito de la ciudad de Wuzhong 吳忠市|吴忠市, Ningxia)
+利钱 | TRADUÇÃO: intereses/rendimientos financieros/réditos
+利隆圭 | TRADUÇÃO: Lilongüe (capital de Malaui)
+利雅得 | TRADUÇÃO: Riad (capital de Arabia Saudita)
+利雅德 | TRADUÇÃO: Riad (capital de Arabia Saudita) (Taiwán)
+利马 | TRADUÇÃO: Lima (capital de Perú)
+利马索尔 | TRADUÇÃO: Limasol (Chipre)
+利默里克 | TRADUÇÃO: Limerick (Irlanda)
+删 | TRADUÇÃO: borrar/eliminar/suprimir
+删剪 | TRADUÇÃO: cortar (metraje de una película)/censurar/recortar
+删去 | TRADUÇÃO: suprimir/eliminar/borrar
+删帖 | TRADUÇÃO: borrar una publicación en un foro o red social
+删掉 | TRADUÇÃO: borrar/eliminar
+删改 | TRADUÇÃO: corregir y suprimir/modificar un texto/revisar suprimiendo pasajes
+删汰 | TRADUÇÃO: (literario) purgar/eliminar/suprimir
+删减 | TRADUÇÃO: recortar (un texto o presupuesto)/reducir/suprimir escenas (de una película)
+删节 | TRADUÇÃO: expurgar/abreviar/recortar un texto para su publicación
+删简压缩 | TRADUÇÃO: abreviar y condensar/simplificar y resumir
+删除 | TRADUÇÃO: eliminar/borrar/suprimir/cancelar
+刮 | TRADUÇÃO: raspar/raer/afeitar/despojar/extorsionar ‖ soplar (el viento)
+刮伤 | TRADUÇÃO: rasguño/arañazo/raspar/rayón (en un objeto)
+刮刀 | TRADUÇÃO: rasqueta/espátula/rascador
+刮刮卡 | TRADUÇÃO: tarjeta rasca y gana/rasca
+刮刮叫 | TRADUÇÃO: variante de 呱呱叫
+刮刮乐 | TRADUÇÃO: lotería instantánea rasca y gana/rasca
+刮勺 | TRADUÇÃO: espátula rascadora/rasqueta de cocina
+刮掉 | TRADUÇÃO: raspar/afeitar por completo/(el viento) arrastrar
+刮擦 | TRADUÇÃO: rozar/raspar/rozadura
+刮痧 | TRADUÇÃO: guasha (técnica terapéutica de raspado cutáneo en la MTC)
+刮皮刀 | TRADUÇÃO: pelador/pelapatatas
+刮目相待 | TRADUÇÃO: véase 刮目相看
+刮目相看 | TRADUÇÃO: ver a alguien con ojos totalmente nuevos (modismo)/mirar con renovado respeto/reconocer el gran progreso de alguien
+刮脸 | TRADUÇÃO: afeitarse la cara/afeitar el rostro
+刮蹭 | TRADUÇÃO: rozar el coche contra algo/hacer un rayón/raspón de vehículos
+刮铲 | TRADUÇÃO: espátula/rasqueta
+刮胡刀 | TRADUÇÃO: maquinilla de afeitar/navaja de afeitar
+刮胡子 | TRADUÇÃO: afeitarse la barba
+到 | TRADUÇÃO: llegar/alcanzar/ir a/hacia/hasta/(complemento verbal que indica llegar a un lugar o alcanzar un punto)/atento/minucioso/esmerado
+到不行 | TRADUÇÃO: sumamente/extremadamente/a más no poder
+到了 | TRADUÇÃO: al final/por fin/finalmente
+到什么山上，唱什么歌 | TRADUÇÃO: lit. en cada montaña se canta su canción (modismo)/fig. donde fueres, haz lo que vieres/adaptarse al lugar donde uno está
+到付 | TRADUÇÃO: pago contra reembolso/pago a la entrega
+到任 | TRADUÇÃO: asumir el cargo/tomar posesión del puesto
+到位 | TRADUÇÃO: colocarse en su lugar/estar a punto/cumplirse a cabalidad/bien ejecutado
+到来 | TRADUÇÃO: llegar/llegada/advenimiento
+到场 | TRADUÇÃO: comparecer/hacerse presente en el lugar/asistir
+到家 | TRADUÇÃO: llegar a casa/excelente/perfecto/acabado al más alto nivel
+到岸价 | TRADUÇÃO: precio CIF (coste, seguro y flete)/precio en puerto de destino
+到底 | TRADUÇÃO: al fin y al cabo/finalmente/a fin de cuentas/hasta el final/a fondo
+到府服务 | TRADUÇÃO: (Taiwán) servicio a domicilio/atención a domicilio
+到得 | TRADUÇÃO: llegar a (cierto lugar o momento)
+到手 | TRADUÇÃO: conseguir/hacerse con/llegar a las manos de uno
+到手软 | TRADUÇÃO: (hacer algo) hasta que duelan las manos/sin parar de recibir
+到时 | TRADUÇÃO: a su debido tiempo/en ese momento futuro
+到时候 | TRADUÇÃO: cuando llegue el momento/en su debido momento
+到期 | TRADUÇÃO: vencer (plazo, deuda)/expirar (visado, contrato)/madurar
+到期收益率 | TRADUÇÃO: (finanzas) rendimiento al vencimiento (TIR)
+到期日 | TRADUÇÃO: fecha de vencimiento/fecha de expiración
+到案 | TRADUÇÃO: comparecer ante la justicia/ser puesto a disposición judicial
+到此 | TRADUÇÃO: hasta aquí/hasta este punto
+到此一游 | TRADUÇÃO: "... estuvo aquí" (típico mensaje de recuerdo en grafitis o viajes)
+到此为止 | TRADUÇÃO: hasta aquí/terminar aquí/poner punto final
+到现在 | TRADUÇÃO: hasta ahora/hasta la fecha/hasta el presente
+到目前为止 | TRADUÇÃO: hasta el momento presente/hasta ahora/hasta la fecha
+到处 | TRADUÇÃO: por todas partes/en todas partes/por doquier
+到处可见 | TRADUÇÃO: visible por todas partes/omnipresente
+到访 | TRADUÇÃO: realizar una visita/visitar
+到货 | TRADUÇÃO: llegada de la mercancía/llegar el pedido o paquete
+到账 | TRADUÇÃO: acreditarse en cuenta/ingresar en cuenta bancaria
+到达 | TRADUÇÃO: llegar/arribar/alcanzar
+到达大厅 | TRADUÇÃO: sala de llegadas (en aeropuerto o terminal)
+到那个时候 | TRADUÇÃO: para ese entonces/en ese momento
+到头 | TRADUÇÃO: hasta el final/al final/llegar a su término
+到头来 | TRADUÇÃO: al final/a fin de cuentas/a la postre
+到点 | TRADUÇÃO: es la hora/llegar la hora señalada
+到齐 | TRADUÇÃO: estar todos presentes/haber llegado todos
+刱 | TRADUÇÃO: variante de 創|创 ‖ variante de 創|创
+刲 | TRADUÇÃO: abrir en canal y destripar/degollar
+刳 | TRADUÇÃO: abrir cortando/destripar/vaciar/ahuecar
+刴 | TRADUÇÃO: variante de 剁
+刵 | TRADUÇÃO: corte de orejas como castigo penal (antiguo)
+制 | TRADUÇÃO: sistema/régimen/controlar/regular/variante de 製|制 ‖ fabricar/confeccionar/elaborar
+制伏 | TRADUÇÃO: someter/dominar/reducir/controlar
+制动 | TRADUÇÃO: frenar/frenado
+制动器 | TRADUÇÃO: freno/dispositivo de frenado
+制动踏板 | TRADUÇÃO: pedal de freno
+制胜 | TRADUÇÃO: vencer/alcanzar la victoria/imponerse
+制定 | TRADUÇÃO: formular/elaborar/establecer/promulgar
+制导 | TRADUÇÃO: guiar/guiado (de un misil)/teleguiar
+制度 | TRADUÇÃO: sistema/régimen/institución/CL:個|个
+制度化 | TRADUÇÃO: institucionalización/institucionalizar
+制式 | TRADUÇÃO: reglamentario/estandarizado/norma estándar/sistema (de televisión, ej. PAL o NTSC)/formato estándar
+制式化 | TRADUÇÃO: estandarización/reglamentación
+制服 | TRADUÇÃO: dominar/someter/reducir/uniforme/indumentaria reglamentaria/CL:套
+制服呢 | TRADUÇÃO: (textil) paño para uniformes
+制服店 | TRADUÇÃO: (Taiwán) local nocturno de azafatas con uniforme temático
+制止 | TRADUÇÃO: frenar/detener/poner fin a/impedir/contener
+制空权 | TRADUÇÃO: dominio del espacio aéreo/supremacía aérea
+制约 | TRADUÇÃO: restringir/condicionar/limitar/condicionamiento
+制药业 | TRADUÇÃO: industria farmacéutica
+制衡 | TRADUÇÃO: contrapesar/frenos y contrapesos/control mutuo de poderes
+制裁 | TRADUÇÃO: sancionar/sanción/castigo (incl. sanciones económicas)
+制订 | TRADUÇÃO: redactar/elaborar/formular (un plan, normativa)
+制酸剂 | TRADUÇÃO: antiácido (medicina)
+制钱 | TRADUÇÃO: moneda de cobre estándar (de las dinastías Ming y Qing)
+制霸 | TRADUÇÃO: dominar absolutamente/hegemonizar/reinar supremo (préstamo del japonés 制覇 "seiha")
+制高点 | TRADUÇÃO: punto culminante/posición dominante/(militar) cota dominante/posición estratégica elevada
+刷 | TRADUÇÃO: cepillo/brocha/pintar/cepillar/fregar/(fig.) descalificar/eliminar (de un concurso)/despedir (de un empleo)/(onomat.) frufrú/deslizar o pasar (una tarjeta)/hacer scroll (en el móvil)/(videojuegos) farmear/grindear ‖ seleccionar
+刷入 | TRADUÇÃO: (inform.) flashear/grabar firmware
+刷剧 | TRADUÇÃO: hacer un maratón de series/ver series de un tirón
+刷卡 | TRADUÇÃO: pagar con tarjeta/pasar la tarjeta de crédito
+刷单 | TRADUÇÃO: realizar pedidos ficticios (para inflar valoraciones en plataformas de comercio electrónico)
+刷夜 | TRADUÇÃO: pasar la noche en vela/trasnochar toda la noche
+刷子 | TRADUÇÃO: cepillo/brocha/CL:把
+刷屏 | TRADUÇÃO: inundar la pantalla/hacer flood o spam (en un foro o chat)
+刷手机 | TRADUÇÃO: mirar el móvil/hacer scroll en el móvil/pagar pasando el móvil
+刷扣 | TRADUÇÃO: (Taiwán) rasguear un acorde (en guitarra)
+刷新 | TRADUÇÃO: renovar/actualizar (pantalla o página web)/marcar un nuevo hito/batir (un récord)
+刷新率 | TRADUÇÃO: tasa de refresco/frecuencia de actualización (de pantalla)
+刷新纪录 | TRADUÇÃO: batir el récord/establecer una nueva marca
+刷机 | TRADUÇÃO: flashear un teléfono móvil/reinstalar el sistema operativo del teléfono
+刷洗 | TRADUÇÃO: lavar con cepillo/cepillar y fregar
+刷爆 | TRADUÇÃO: agotar el límite de la tarjeta de crédito/reventar la tarjeta
+刷牙 | TRADUÇÃO: cepillarse los dientes/lavarse los dientes
+刷脸 | TRADUÇÃO: pagar o identificarse con reconocimiento facial/escanear el rostro
+刷头 | TRADUÇÃO: cabezal del cepillo/cabezal de brocha
+刷题 | TRADUÇÃO: hacer batería de ejercicios para exámenes/practicar masivamente problemas de examen
+券 | TRADUÇÃO: bono/título/vale/cupón/entrada/certificado/escritura ‖ variante de 券
+券商 | TRADUÇÃO: sociedad de valores/agencia bursátil/corredor de bolsa
+刺 | TRADUÇÃO: (onomat.) ¡zas!/sonido sibilante ‖ espina/aguijón/punzar/pinchar/apuñalar/asesinar
+刺中 | TRADUÇÃO: atravesar de una estocada/herir clavando/acertar con arma punzante
+刺五加 | TRADUÇÃO: acantopánax/eleuterococo (Acanthopanax senticosus, raíz utilizada en MTC)
+刺伤 | TRADUÇÃO: apuñalar/herir con arma blanca o punzante/herida punzante
+刺儿 | TRADUÇÃO: espina/(fig.) pulla/ironía mordaz/(fig.) defecto o pega
+刺儿李 | TRADUÇÃO: grosella espinosa
+刺儿话 | TRADUÇÃO: palabras mordaces/pullas/comentarios hirientes
+刺儿头 | TRADUÇÃO: persona conflictiva/hueso duro de roer/persona difícil de tratar
+刺刀 | TRADUÇÃO: bayoneta
+刺刺不休 | TRADUÇÃO: parlotear sin cesar (modismo)/hablar por los codos
+刺史 | TRADUÇÃO: gobernador provincial/inspector regional (en la antigua China)
+刺字 | TRADUÇÃO: tatuar/grabar caracteres en la piel (antiguo castigo)
+刺客 | TRADUÇÃO: asesino a sueldo/sicario/magnicida
+刺戟 | TRADUÇÃO: véase 刺激
+刺戳 | TRADUÇÃO: apuñalar/ensartar/punzar
+刺探 | TRADUÇÃO: espiar/indagar en secreto/sondear
+刺柏 | TRADUÇÃO: enebro chino/enebro común (Juniperus formosana)
+刺桐 | TRADUÇÃO: árbol del coral (Erythrina variegata)
+刺梨 | TRADUÇÃO: escaramujo de Rosa roxburghii (utilizado en MTC)
+刺棱 | TRADUÇÃO: (onomat.) sonido de movimiento repentino o deslizamiento/pron. en Taiwán [ci4leng2]
+刺槐 | TRADUÇÃO: falsa acacia/acacia blanca (Robinia pseudoacacia)
+刺死 | TRADUÇÃO: apuñalar hasta la muerte/matar a cuchilladas
+刺杀 | TRADUÇÃO: asesinar (por motivos políticos)/magnicidio/(militar) combatir con bayoneta/(béisbol) poner out
+刺激 | TRADUÇÃO: estimular/excitar/irritar/provocar/estímulo/irritante
+刺激剂 | TRADUÇÃO: agente irritante/estimulante
+刺激性 | TRADUÇÃO: irritante/estimulante/excitante/picante/mordaz
+刺激物 | TRADUÇÃO: estímulo/agente irritante
+刺痛 | TRADUÇÃO: picar/punzar/doler intensamente/(fig.) herir profundamente/dolor punzante/escozor
+刺目 | TRADUÇÃO: deslumbrante/chillón/hiriente a la vista
+刺眼 | TRADUÇÃO: deslumbrante/hiriente para la vista/chillón (color)/deslumbrar
+刺破 | TRADUÇÃO: perforar/pinchar/agujerear
+刺穿 | TRADUÇÃO: atravesar de parte a parte/ensartar/perforar
+刺丝囊 | TRADUÇÃO: nematocisto (cápsula urticante de cnidarios)
+刺丝胞 | TRADUÇÃO: cnidocito/célula urticante (biología)
+刺丝胞动物 | TRADUÇÃO: cnidarios (filo animal que incluye medusas y pólipos)
+刺绣 | TRADUÇÃO: bordar/bordado
+刺绣品 | TRADUÇÃO: artículo bordado/bordados
+刺耳 | TRADUÇÃO: estridente/chirriante/hiriente al oído
+刺胞 | TRADUÇÃO: cnidocito/célula urticante
+刺胞动物 | TRADUÇÃO: cnidarios (filo de animales que incluye medusas y corales)
+刺花 | TRADUÇÃO: tatuar/tatuaje
+刺花纹 | TRADUÇÃO: tatuar/hacerse tatuajes
+刺芹菇 | TRADUÇÃO: seta de cardo (Pleurotus eryngii)
+刺苋 | TRADUÇÃO: amaranto espinoso (Amaranthus spinosus)
+刺猬 | TRADUÇÃO: erizo (animal)
+刺身 | TRADUÇÃO: sashimi
+刺钢丝 | TRADUÇÃO: alambre de púas/alambre de espino
+刺青 | TRADUÇÃO: tatuar/tatuaje
+刺头 | TRADUÇÃO: véase 刺兒頭|刺儿头
+刺骨 | TRADUÇÃO: que cala hasta los huesos/cortante/penetrante (el frío)
+刺鼻 | TRADUÇÃO: acre/penetrante (olor)/que pica en la nariz/pestilente
+刻 | TRADUÇÃO: cuarto de hora/momento/instante/tallar/grabar/esculpir/severo/clasificador para intervalos breves de tiempo
+刻不容缓 | TRADUÇÃO: no admitir demora (modismo)/ser de suma urgencia/no poder esperar
+刻刀 | TRADUÇÃO: buril/cuchillo de tallar/gubia
+刻剥 | TRADUÇÃO: esquilmar/extorsionar/explotar duramente
+刻印 | TRADUÇÃO: grabar un sello/imprimir con tipos de madera/impronta/grabar en la memoria
+刻奇 | TRADUÇÃO: kitsch (préstamo, en el sentido acuñado por Milan Kundera: sentimentalismo inducido socialmente)
+刻写 | TRADUÇÃO: inscribir/grabar inscripciones
+刻度 | TRADUÇÃO: escala graduada/graduación/marcas de medición
+刻度盘 | TRADUÇÃO: dial/esfera graduada (de un instrumento o aparato)
+刻意 | TRADUÇÃO: deliberadamente/a propósito/intencionadamente/meticulosamente
+刻意求工 | TRADUÇÃO: buscar la perfección con esmero (modismo)/afanarse por la máxima meticulosidad
+刻意为之 | TRADUÇÃO: hacerlo deliberadamente/actuar a propósito/hacer un esfuerzo consciente
+刻日 | TRADUÇÃO: variante de 克日
+刻期 | TRADUÇÃO: variante de 克期
+刻本 | TRADUÇÃO: edición xilográfica/libro impreso con planchas de madera
+刻板 | TRADUÇÃO: rígido/inflexible/estereotipado/mecánico/grabar planchas de imprenta
+刻板印象 | TRADUÇÃO: estereotipo
+刻毒 | TRADUÇÃO: ponzoñoso/mordaz/rencoroso y malicioso
+刻版 | TRADUÇÃO: planchas de madera grabadas (para imprenta)

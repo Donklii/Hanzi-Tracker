@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+辍耕 | TRADUÇÃO: to stop plowing/to give up a life in the fields
+辍食吐哺 | TRADUÇÃO: to stop eating and spit out
+輠 | TRADUÇÃO: grease-pot under a cart
+輣 | TRADUÇÃO: war chariot (archaic)
+輤 | TRADUÇÃO: a pall to cover the hearse
+辊 | TRADUÇÃO: roller
+辇 | TRADUÇÃO: (archaic) man-drawn carriage/an imperial carriage/to transport by carriage
+辇下 | TRADUÇÃO: imperial capital (city)
+辇路 | TRADUÇÃO: road along which the emperor's carriage passes
+辇运 | TRADUÇÃO: (literary) to transport/to ship
+辈 | TRADUÇÃO: lifetime/generation/group of people/class/classifier for generations/(literary) classifier for people
+辈儿 | TRADUÇÃO: generation
+辈出 | TRADUÇÃO: to come forth in large numbers
+辈分 | TRADUÇÃO: seniority in the family or clan; position in the family hierarchy/Taiwan pr. [bei4fen4]
+辈子 | TRADUÇÃO: all one's life/lifetime
+轮 | TRADUÇÃO: wheel; disk; ring/steamship/to take turns; to rotate/classifier for big round objects: disk, or recurring events: round, turn
+轮任 | TRADUÇÃO: rotating appointment (e.g. presidency of EU)
+轮休 | TRADUÇÃO: to take holidays in rotation/to stagger employees' days off/(agriculture) to lie fallow in rotation
+轮作 | TRADUÇÃO: rotation of crops (to preserve fertility of soil)
+轮候 | TRADUÇÃO: to wait one's turn
+轮值 | TRADUÇÃO: to take turns on duty
+轮到 | TRADUÇÃO: to be (sb's or sth's) turn
+轮台 | TRADUÇÃO: see 輪台縣|轮台县
+轮台古城 | TRADUÇÃO: ruins of Luntai city, archaeological site in Bayingolin Mongol Autonomous Prefecture 巴音郭楞蒙古自治州, Xinjiang
+轮台县 | TRADUÇÃO: Luntai, a county in Bayingolin Mongol Autonomous Prefecture 巴音郭楞蒙古自治州, Xinjiang
+轮唱 | TRADUÇÃO: round (music)/canon
+轮回 | TRADUÇÃO: variant of 輪迴|轮回/(neologism) (slang) to respond to a message after a very long delay (pun on 輪迴|轮回, the cycle of rebirth) (opposite of 秒回) ‖ (Buddhism) samsara; cycle of rebirth/to recur cyclically; to succeed one another in cycles
+轮奸 | TRADUÇÃO: to gang rape
+轮子 | TRADUÇÃO: wheel/(derog.) Falun Gong practitioner/CL:個|个
+轮岗 | TRADUÇÃO: to rotate jobs within an organization
+轮廓 | TRADUÇÃO: outline; silhouette
+轮廓线 | TRADUÇÃO: outline; silhouette
+轮廓鲜明 | TRADUÇÃO: sharp image/clear-cut/in bold outline/in sharp relief
+轮指 | TRADUÇÃO: circular finger movement (in playing plucked instrument)/strumming
+轮换 | TRADUÇÃO: to rotate; to take turns
+轮暴 | TRADUÇÃO: to gang rape
+轮替 | TRADUÇÃO: to take turns; to follow a rotating schedule
+轮椅 | TRADUÇÃO: wheelchair
+轮机 | TRADUÇÃO: turbine (abbr. for 渦輪機|涡轮机)/engine (of a ship)
+轮机手 | TRADUÇÃO: helmsman
+轮次 | TRADUÇÃO: in turn/by turns/lap/turn/round/classifier for laps, turns, rounds
+轮流 | TRADUÇÃO: to alternate; to take turns
+轮渡 | TRADUÇÃO: ferry
+轮滑 | TRADUÇÃO: roller skating
+轮牧 | TRADUÇÃO: rotation grazing
+轮状病毒 | TRADUÇÃO: rotavirus
+轮班 | TRADUÇÃO: shift working
+轮番 | TRADUÇÃO: in turn/one after another
+轮盘 | TRADUÇÃO: roulette/wheel
+轮盘赌 | TRADUÇÃO: roulette
+轮种 | TRADUÇÃO: rotation of crops
+轮空 | TRADUÇÃO: (sports) bye; to get a bye/(of an employee) to be not scheduled at work for a period of time (when working shifts)
+轮箍 | TRADUÇÃO: tire
+轮缘 | TRADUÇÃO: rim/edge of wheel
+轮胎 | TRADUÇÃO: tire; pneumatic tire
+轮船 | TRADUÇÃO: steamship; steamer; steamboat/CL:艘
+轮训 | TRADUÇÃO: training in rotation
+轮询 | TRADUÇÃO: (computing) to poll
+轮距 | TRADUÇÃO: tread (the distance between the two front – or two rear – wheels of a vehicle)
+轮轴 | TRADUÇÃO: wheel and axle (mechanism)/axle
+轮辐 | TRADUÇÃO: wheel spoke
+轮毂 | TRADUÇÃO: hub of a wheel/the whole metal part of a wheel; "rim"
+轮毂罩 | TRADUÇÃO: hubcap
+轮转 | TRADUÇÃO: to rotate
+轮转机 | TRADUÇÃO: merry-go-round
+轮齿 | TRADUÇÃO: tooth of cog wheel/gear tooth
+輫 | TRADUÇÃO: carriage (archaic)
+辌 | TRADUÇÃO: see 轀輬|辒辌
+𫐓 | TRADUÇÃO: wheel band
+辑 | TRADUÇÃO: to gather up/to collect/to edit/to compile
+辑睦 | TRADUÇÃO: tranquil/harmonious
+辑穆 | TRADUÇÃO: variant of 輯睦|辑睦
+辑录 | TRADUÇÃO: to compile; to collect
+辑集 | TRADUÇÃO: to anthologize
+辏 | TRADUÇÃO: to converge/hub of wheel
+輴 | TRADUÇÃO: hearse
+輵 | TRADUÇÃO: great array of spears and chariots
+𬨎 | TRADUÇÃO: light carriage/trifling
+输 | TRADUÇÃO: to lose; to be beaten/(bound form) to transport/(literary) to donate; to contribute/(coll.) to enter (a password)
+输不起 | TRADUÇÃO: to take defeat with bad grace/to be a sore loser/cannot afford to lose
+输入 | TRADUÇÃO: to import/to input
+输入法 | TRADUÇÃO: input method
+输入系统 | TRADUÇÃO: input system/data entry system
+输入设备 | TRADUÇÃO: input device (computer)
+输出 | TRADUÇÃO: to output; to deliver (energy, data, signals etc)/to export (goods, services, technology etc)
+输出品 | TRADUÇÃO: export item/product for export
+输出管 | TRADUÇÃO: vas efferens
+输卵管 | TRADUÇÃO: Fallopian tube/oviduct
+输墨装置 | TRADUÇÃO: ink supply mechanism
+输家 | TRADUÇÃO: loser (as opposed to winner 贏家|赢家)
+输尿管 | TRADUÇÃO: ureter
+输得起 | TRADUÇÃO: can afford to lose/to take defeat with good grace
+输掉 | TRADUÇÃO: to lose
+输水管 | TRADUÇÃO: pipe/pipeline
+输沙量 | TRADUÇÃO: quantity of sand (transported by a river)/sediment content
+输油管 | TRADUÇÃO: petroleum pipeline
+输注 | TRADUÇÃO: to inject/infusion
+输液 | TRADUÇÃO: intravenous infusion; to get put on an IV
+输球 | TRADUÇÃO: (ball sports) to lose a match
+输理 | TRADUÇÃO: to be in the wrong
+输移 | TRADUÇÃO: (sediment) transport
+输精管 | TRADUÇÃO: vas deferens
+输给 | TRADUÇÃO: to lose to (sb)/to be outdone by
+输血 | TRADUÇÃO: to transfuse blood/to give aid and support
+输赢 | TRADUÇÃO: win or loss/outcome
+输送 | TRADUÇÃO: to transport; to convey; to deliver
+输送媒介 | TRADUÇÃO: transport medium
+输送带 | TRADUÇÃO: conveyor belt
+输运 | TRADUÇÃO: to transport/transportation
+输电 | TRADUÇÃO: electricity transmission/to transmit electricity
+輹 | TRADUÇÃO: parts of cart holding the axle
+辐 | TRADUÇÃO: spoke of a wheel
+辐射 | TRADUÇÃO: to radiate/radiation
+辐射侦察 | TRADUÇÃO: radiation detection
+辐射仪 | TRADUÇÃO: radiation meter
+辐射分解 | TRADUÇÃO: radiolysis
+辐射剂量 | TRADUÇÃO: radiation dose
+辐射剂量率 | TRADUÇÃO: radiation dose rate
+辐射场 | TRADUÇÃO: radiation field
+辐射对称 | TRADUÇÃO: radial symmetry
+辐射强度 | TRADUÇÃO: radiation intensity
+辐射敏感性 | TRADUÇÃO: radiosensitivity
+辐射散射 | TRADUÇÃO: radiation scattering
+辐射波 | TRADUÇÃO: radiation (wave)/radiated wave
+辐射源 | TRADUÇÃO: radiation source
+辐射能 | TRADUÇÃO: radiation energy (e.g. solar)
+辐射计 | TRADUÇÃO: radiometer
+辐射警告标志 | TRADUÇÃO: radiation warning symbol
+辐射防护 | TRADUÇÃO: radiation protection
+辐条 | TRADUÇÃO: (wheel) spoke
+辐照 | TRADUÇÃO: irradiation
+輼 | TRADUÇÃO: variant of 轀|辒, hearse
+辗 | TRADUÇÃO: variant of 碾 ‖ used in 輾轉|辗转
+辗轧 | TRADUÇÃO: variant of 碾軋|碾轧
+辗转 | TRADUÇÃO: to toss about in bed/from person to person/indirectly/to wander
+辗转反侧 | TRADUÇÃO: to toss and turn restlessly (in the bed)
+舆 | TRADUÇÃO: (literary) chassis of a carriage (contrasted with the canopy 堪)/(literary) (fig.) the earth (while the carriage canopy is a metaphor for heaven); land; territory/(literary) carriage/(literary) sedan chair; palanquin/(bound form) the multitudes; the people; the public
+舆地 | TRADUÇÃO: land/map/(old) geography
+舆情 | TRADUÇÃO: public sentiment
+舆论 | TRADUÇÃO: public opinion
+舆论界 | TRADUÇÃO: media/commentators
+舆论调查 | TRADUÇÃO: opinion poll
+辒 | TRADUÇÃO: hearse
+辒车 | TRADUÇÃO: hearse
+辒辌 | TRADUÇÃO: (sleeping) carriage/hearse
+毂 | TRADUÇÃO: used in 轂轆|毂辘 ‖ the hub of wheel
+毂盖 | TRADUÇÃO: hubcap
+毂辘 | TRADUÇÃO: variant of 軲轆|轱辘
+辖 | TRADUÇÃO: linchpin (used to fasten a wheel to an axle)/(bound form) to govern; to have jurisdiction over
+辖制 | TRADUÇÃO: to control
+辖区 | TRADUÇÃO: administrative region
+辕 | TRADUÇÃO: shaft of a cart or carriage/(bound form) entrance gate of a military camp or yamen; (fig.) government office
+辘 | TRADUÇÃO: used in 轆轆|辘辘/used in 軲轆|轱辘 and 轂轆|毂辘/used in 轆轤|辘轳
+辘辘 | TRADUÇÃO: (onom.) rumbling noise (produced by wheels rolling, one's stomach etc)
+辘轳 | TRADUÇÃO: well pulley/windlass/potter's wheel
+𫐖 | TRADUÇÃO: used in 轇轕|𫐖𮝺/Taiwan pr. [jiu1]
+𫐖𮝺 | TRADUÇÃO: (literary) to intertwine; to become entangled
+转 | TRADUÇÃO: see 轉文|转文 ‖ to turn/to change direction/to transfer/to forward (mail)/(Internet) to share (sb else's content) ‖ to revolve/to turn/to circle about/to walk about/classifier for revolutions (per minute etc): revs, rpm/classifier for repeated actions
+转一趟 | TRADUÇÃO: to go on a trip
+转世 | TRADUÇÃO: reincarnation or transmigration (Buddhism)
+转乘 | TRADUÇÃO: to transfer/to change trains, buses etc
+转交 | TRADUÇÃO: to pass on to sb/to carry and give to sb else
+转介 | TRADUÇÃO: to refer sb to an agency (or hospital etc)/referral
+转位 | TRADUÇÃO: transposition/displacement/inversion/translocation/to displace/to transpose ‖ index (rotating gauge)/cam gradation
+转作 | TRADUÇÃO: (agriculture) to switch to growing a different crop
+转来转去 | TRADUÇÃO: to rove around/to run around in circles/to walk back and forth
+转侧 | TRADUÇÃO: to change one's viewpoint/to turn from side to side (in bed)
+转入 | TRADUÇÃO: to change over to; to shift to; to switch to
+转入地下 | TRADUÇÃO: to go underground/to turn to secret activities
+转剧 | TRADUÇÃO: becoming acute/to exacerbate
+转动 | TRADUÇÃO: to turn sth around/to swivel ‖ to rotate (about an axis)/to revolve/to turn/to move in a circle/to gyrate
+转动件 | TRADUÇÃO: rotor
+转动惯量 | TRADUÇÃO: moment of inertia (mechanics)
+转动轴 | TRADUÇÃO: axis of rotation (mechanics)/spindle
+转包 | TRADUÇÃO: to subcontract (to another party)
+转化 | TRADUÇÃO: to change; to turn; to convert/(genetics) to transform/(chemistry) isomerization
+转化糖 | TRADUÇÃO: inverted sugar
+转危为安 | TRADUÇÃO: to turn peril into safety (idiom); to avert a danger (esp. political or medical)
+转去 | TRADUÇÃO: to return/to go back
+转口 | TRADUÇÃO: entrepot/transit (of goods)/(coll.) to deny/to go back on one's word
+转台 | TRADUÇÃO: to change the channel (TV) ‖ rotating stage/swivel table
+转向 | TRADUÇÃO: to change direction/fig. to change one's stance ‖ to get lost/to lose one's way
+转向信号 | TRADUÇÃO: turn signal (auto.)/turning indicator
+转向灯 | TRADUÇÃO: vehicle turn indicator light
+转向盘 | TRADUÇÃO: steering wheel
+转告 | TRADUÇÃO: to pass on/to communicate/to transmit
+转喻 | TRADUÇÃO: metonymy
+转回 | TRADUÇÃO: to turn back/to put back/reversal/melodic inversion (in music)
+转圈 | TRADUÇÃO: to rotate/to twirl/to run around/to encircle/rotation/(coll.) to speak indirectly/to beat about the bush
+转圜 | TRADUÇÃO: to save or redeem (a situation)/to mediate/to intercede
+转圜余地 | TRADUÇÃO: to have room to save a situation/margin for error (idiom)
+转型 | TRADUÇÃO: to undergo fundamental change; to transition; to transform/to update (to a new model of product)
+转基因 | TRADUÇÃO: genetic modification
+转基因食品 | TRADUÇÃO: genetically modified (GM) food
+转塔 | TRADUÇÃO: rotating turret
+转天 | TRADUÇÃO: the following day; next day
+转好 | TRADUÇÃO: improvement/turnaround (for the better)
+转嫁 | TRADUÇÃO: to remarry (of widow)/to pass on (blame, cost, obligation, unpleasant consequence etc)/to transfer (blame, guilt)/to pass the buck
+转子 | TRADUÇÃO: (electricity) rotor
+转字锁 | TRADUÇÃO: combination lock
+转存 | TRADUÇÃO: to transfer (one's savings, data etc) elsewhere for storage
+转学 | TRADUÇÃO: (of a student) to change schools; to transfer from one school to another
+转学生 | TRADUÇÃO: transfer student
+转寄 | TRADUÇÃO: to forward (a letter, email, package etc)
+转写 | TRADUÇÃO: to transliterate; to transcribe/to transfer words onto a surface by direct contact (as with a decal)
+转导 | TRADUÇÃO: to transduce
+转差 | TRADUÇÃO: to slip (e.g. of clutch)/slippage/also used of economic indicators, statistical discrepancies etc
+转差率 | TRADUÇÃO: slippage rate
+转帆 | TRADUÇÃO: to tack (of sailing ship)/to jibe/to go about
+转年 | TRADUÇÃO: the following year; next year
+转干 | TRADUÇÃO: to become a cadre (e.g. a promotion from shopfloor)
+转引 | TRADUÇÃO: to quote from secondary source
+转弯 | TRADUÇÃO: to turn/to go around a corner
+转弯抹角 | TRADUÇÃO: see 拐彎抹角|拐弯抹角
+转往 | TRADUÇÃO: to change (to final stretch of journey)
+转徙 | TRADUÇÃO: to migrate/to move house
+转念 | TRADUÇÃO: to have second thoughts about sth/to think better of
+转性 | TRADUÇÃO: to change one's character or nature
+转悠 | TRADUÇÃO: to roll/to wander around/to appear repeatedly
+转悲为喜 | TRADUÇÃO: to turn grief into happiness (idiom)
+转战 | TRADUÇÃO: to fight in one place after another
+转战千里 | TRADUÇÃO: fighting everywhere over a thousand miles (idiom); constant fighting across the country/never-ending struggle
+转手 | TRADUÇÃO: to pass on/to resell/to change hands
+转托 | TRADUÇÃO: to pass on a task/to delegate one's work/to pass the buck
+转折 | TRADUÇÃO: shift in the trend of events/turnaround/plot shift in a book/turn in the conversation
+转折点 | TRADUÇÃO: turning point/breaking point
+转捩 | TRADUÇÃO: to turn
+转捩点 | TRADUÇÃO: turning point
+转授 | TRADUÇÃO: to delegate
+转接 | TRADUÇÃO: (telephony etc) to switch/to connect/to transfer
+转接班机 | TRADUÇÃO: connecting flight
+转换 | TRADUÇÃO: to change/to switch/to convert/to transform
+转换器 | TRADUÇÃO: converter/transducer
+转换断层 | TRADUÇÃO: transform fault (geology)
+转播 | TRADUÇÃO: relay/broadcast (on radio or TV)
+转败为胜 | TRADUÇÃO: to turn defeat into victory (idiom); snatching victory from the jaws of defeat
+转文 | TRADUÇÃO: to parade by interspersing one's speech or writing with literary allusions/Taiwan pr. [zhuan3 wen2] ‖ (Internet) to repost (Tw)
+转会 | TRADUÇÃO: to transfer to another club (professional sports)
+转会费 | TRADUÇÃO: transfer fee/signing bonus/sign-on bonus
+转校 | TRADUÇÃO: to transfer (school)
+转椅 | TRADUÇÃO: swivel chair/children's roundabout
+转业 | TRADUÇÃO: to change one's profession/to transfer to civilian work
+转机 | TRADUÇÃO: (to take) a turn for the better/to change planes
+转正 | TRADUÇÃO: to transfer to full membership/to obtain tenure
+转步 | TRADUÇÃO: to turn around
+转归 | TRADUÇÃO: (of ownership, custody etc) to be transferred to/to revert to/(medicine) clinical outcome/to reclassify (e.g. from asymptomatic carrier to confirmed case)
+转氨基酶 | TRADUÇÃO: amino transferase (enzyme)
+转氨酶 | TRADUÇÃO: transferase (enzyme)
+转法轮 | TRADUÇÃO: to transmit Buddhist teaching/chakram or chakka (throwing disk)
+转注 | TRADUÇÃO: transfer character (one of the Six Methods 六書|六书 of forming Chinese characters)/character with meanings influenced by other words/sometimes called mutually explanatory character
+转注字 | TRADUÇÃO: transfer character (one of the Six Methods 六書|六书 of forming Chinese characters)/character with meanings influenced by other words/sometimes called mutually explanatory character
+转炉 | TRADUÇÃO: converter (rotary furnace in steelmaking)
+转生 | TRADUÇÃO: reincarnation (Buddhism)
+转产 | TRADUÇÃO: to change production/to move over to new products
+转用 | TRADUÇÃO: to adapt for use for another purpose
+转发 | TRADUÇÃO: to transmit/to forward (mail, SMS, packets of data)/to pass on/to republish (an article from another publication)
+转盘 | TRADUÇÃO: turntable/rotary (traffic)
+转眼 | TRADUÇÃO: in a flash/in the blink of an eye/to glance
+转眼之间 | TRADUÇÃO: (idiom) in the wink of an eye; in a flash
+转眼即逝 | TRADUÇÃO: to pass in an instant/over in the twinkling of an eye
+转眼间 | TRADUÇÃO: in the blink of an eye
+转瞬 | TRADUÇÃO: in the twinkling of an eye/in a flash/to turn one's eyes
+转瞬即逝 | TRADUÇÃO: (idiom) fleeting; transitory
+转矩 | TRADUÇÃO: torque
+转矩臂 | TRADUÇÃO: torque arm
+转码 | TRADUÇÃO: (computing) transcoding/to convert (from one encoding to another)
+转磨 | TRADUÇÃO: rotary grindstone
+转科 | TRADUÇÃO: to change major (at college)/to take up a new specialist subject/to transfer to a different medical department
+转租 | TRADUÇÃO: to sublet/to sublease
+转移 | TRADUÇÃO: to shift; to relocate; to transfer/(fig.) to shift (attention); to change (the subject etc)/(medicine) to metastasize
+转移安置 | TRADUÇÃO: to relocate/to evacuate
+转移支付 | TRADUÇÃO: transfer payment (payment from government or private sector for which no good or service is required in return)
+转移视线 | TRADUÇÃO: to shift one's eyes/(fig.) to shift one's attention/to divert attention
+转移阵地 | TRADUÇÃO: to move one's base (of operations)/to reposition/to relocate
+转笔刀 | TRADUÇÃO: pencil sharpener
+转筋 | TRADUÇÃO: muscle cramp
+转纽 | TRADUÇÃO: organ stop (button activating a row of pipes)
+转给 | TRADUÇÃO: to pass on to
+转置 | TRADUÇÃO: to transpose
+转义 | TRADUÇÃO: (linguistics) transferred meaning/(computing) to escape
+转义字符 | TRADUÇÃO: (computing) escape character
+转义序列 | TRADUÇÃO: (computing) escape sequence
+转而 | TRADUÇÃO: to turn to (sth else); to switch to
+转职 | TRADUÇÃO: to change job or profession
+转背 | TRADUÇÃO: to turn one's back/to turn around/fig. change in a very short time
+转腰子 | TRADUÇÃO: (coll.) to pace around nervously/to speak indirectly/to beat about the bush
+转脸 | TRADUÇÃO: to turn one's head/in no time/in the twinkling of an eye
+转船 | TRADUÇÃO: to transfer ships
+转蛋 | TRADUÇÃO: toy in a capsule (dispensed from a vending machine)
+转行 | TRADUÇÃO: to change profession
+转制 | TRADUÇÃO: to convert; to reprocess; to turn (sth) into
+转角 | TRADUÇÃO: bend in a street/corner/to turn a corner
+转诊 | TRADUÇÃO: to transfer (a patient for treatment in a different hospital)
+转调 | TRADUÇÃO: (music) to change key/modulation/(of an employee) to be transferred to another post
+转译 | TRADUÇÃO: to translate (to another language)/to convert
+转变 | TRADUÇÃO: to change/to transform/shift/transformation/CL:個|个
+转变立场 | TRADUÇÃO: to change positions/to shift one's ground
+转让 | TRADUÇÃO: to transfer (ownership, rights etc)
+转卖 | TRADUÇÃO: to resell
+转账 | TRADUÇÃO: to transfer (money to a bank account)
+转账卡 | TRADUÇÃO: debit card
+转赠 | TRADUÇÃO: to pass on a present
+转身 | TRADUÇÃO: (of a person) to turn round/to face about/(of a widow) to remarry (archaic)
+转车 | TRADUÇÃO: to transfer/to change trains, buses etc ‖ a turntable
+转车台 | TRADUÇÃO: a turntable
+转轨 | TRADUÇÃO: to change track
+转轴 | TRADUÇÃO: axis of rotation
+转轴儿 | TRADUÇÃO: erhua variant of 轉軸|转轴
+转载 | TRADUÇÃO: to forward (a shipment)/to reprint sth published elsewhere/Taiwan pr. [zhuan3 zai4]
+转轮 | TRADUÇÃO: rotating disk/wheel/rotor/cycle of reincarnation in Buddhism
+转轮手枪 | TRADUÇÃO: revolver (handgun)
+转轮王 | TRADUÇÃO: Chakravarti raja (Sanskrit: King of Kings)/emperor in Hindu mythology
+转轮圣帝 | TRADUÇÃO: chakravarti raja (emperor in Hindu mythology)
+转轮圣王 | TRADUÇÃO: Chakravarti raja (Sanskrit: King of Kings)/emperor in Hindu mythology
+转转 | TRADUÇÃO: to go for a stroll
+转述 | TRADUÇÃO: to pass on (stories)/to relate
+转送 | TRADUÇÃO: to pass (sth) on (to sb else)/to transfer sb (to another hospital etc)
+转速 | TRADUÇÃO: angular velocity/number of revolutions per minute
+转速表 | TRADUÇÃO: tachometer/RPM gauge
+转游 | TRADUÇÃO: variant of 轉悠|转悠
+转运 | TRADUÇÃO: to forward; to transfer; to transship/to have luck turn in one's favor
+转运栈 | TRADUÇÃO: storage depot on a transportation route
+转运站 | TRADUÇÃO: distribution depot/staging post/transit center
+转道 | TRADUÇÃO: to make a detour/to go by way of
+转达 | TRADUÇÃO: to pass on/to convey/to communicate
+转递 | TRADUÇÃO: to pass on; to relay
+转醒 | TRADUÇÃO: see 醒轉|醒转
+转铃 | TRADUÇÃO: bicycle bell (with a rotating internal mechanism)
+转铃儿 | TRADUÇÃO: erhua variant of 轉鈴|转铃
+转录 | TRADUÇÃO: transcription/to make a copy of a recording
+转钟 | TRADUÇÃO: past midnight
+转门 | TRADUÇÃO: revolving door/turnstile
+转关系 | TRADUÇÃO: to transfer (from one unit to another)
+转院 | TRADUÇÃO: to transfer (a patient) to a different hospital/to transfer to hospital (e.g. a prisoner)
+转面无情 | TRADUÇÃO: to turn one's face against sb and show no mercy (idiom); to turn against a friend
+转韵 | TRADUÇÃO: change of rhyme (within a poem)
+转头 | TRADUÇÃO: to turn one's head/to change direction/U-turn/volte face/to repent ‖ nutation (plants turning to face the sun)
+转体 | TRADUÇÃO: to roll over/to turn over (one's body)
+转鼓 | TRADUÇÃO: rotary drum
+辙 | TRADUÇÃO: rut; track of a wheel (Taiwan pr. [che4])/(coll.) the direction of traffic/a rhyme (of a song, poem etc)/(dialect) (usu. after 有 or 沒|没) way; idea
+轿 | TRADUÇÃO: sedan chair/palanquin/litter
+轿夫 | TRADUÇÃO: porter for a palanquin
+轿子 | TRADUÇÃO: sedan chair/palanquin/litter
+轿厢 | TRADUÇÃO: elevator car; cable car cabin; gondola (on a Ferris wheel)
+轿车 | TRADUÇÃO: (old) enclosed carriage for carrying passengers/(automotive) sedan
+轏 | TRADUÇÃO: chariot for sleeping and conveyance
+轑 | TRADUÇÃO: spokes
+轒 | TRADUÇÃO: war chariot
+辚 | TRADUÇÃO: rumbling of wheels
+𮝺 | TRADUÇÃO: used in 轇轕|𫐖𮝺
+轖 | TRADUÇÃO: leather top of a cart
+𫐘 | TRADUÇÃO: used in 轗軻|𫐘轲
+𫐘轲 | TRADUÇÃO: (literary) variant of 坎坷
+轘 | TRADUÇÃO: to tear between chariots (as punishment)
+轘裂 | TRADUÇÃO: see 車裂|车裂
+轙 | TRADUÇÃO: rings on the yokes
+轜 | TRADUÇÃO: variant of 輀
+轝 | TRADUÇÃO: variant of 輿|舆
+轞 | TRADUÇÃO: vehicle for transporting prisoners
+轰 | TRADUÇÃO: explosion/bang/boom/rumble/to attack/to shoo away/to expel
+轰动 | TRADUÇÃO: to cause a sensation/to create a stir in (a place)/commotion/controversy
+轰动一时 | TRADUÇÃO: to cause a sensation (idiom)
+轰动效应 | TRADUÇÃO: sensational effect/wild reaction
+轰击 | TRADUÇÃO: bombard
+轰炸 | TRADUÇÃO: to bomb; to bombard/CL:波,輪|轮
+轰炸机 | TRADUÇÃO: bomber (aircraft)
+轰然 | TRADUÇÃO: loudly/with a loud bang/a loud rumble
+轰走 | TRADUÇÃO: to drive away
+轰赶 | TRADUÇÃO: to drive away
+轰趴 | TRADUÇÃO: (loanword) party (social gathering)/(Tw) party (typically associated with sex and drugs)
+轰趴馆 | TRADUÇÃO: party venue (available for hire)
+轰轰 | TRADUÇÃO: booming/roaring
+轰轰烈烈 | TRADUÇÃO: strong/vigorous/large-scale
+轰隆 | TRADUÇÃO: (onom.) rumbling/rolling
+轰响 | TRADUÇÃO: loud sound, such as that of thunder or a bomb/to rumble/to roar
+轰鸣 | TRADUÇÃO: boom (sound of explosion)/rumble
+辔 | TRADUÇÃO: bridle; reins
+辔头 | TRADUÇÃO: bridle
+轹 | TRADUÇÃO: to bully/wheel-rut
+轳 | TRADUÇÃO: used in 轆轤|辘轳
+辛 | TRADUÇÃO: surname Xin ‖ (of taste) hot or pungent/hard/laborious/suffering/eighth in order/eighth of the ten Heavenly Stems 十天干/letter "H" or Roman "VIII" in list "A, B, C", or "I, II, III" etc/ancient Chinese compass point: 285°/octa
+辛丑 | TRADUÇÃO: thirty-eighth year H2 of the 60 year cycle, e.g. 1961 or 2021/cf 辛丑條約|辛丑条约, Protocol of Beijing of 1901 ending the 8-nation intervention after the Boxer uprising
+辛丑条约 | TRADUÇÃO: Boxer Protocol of 1901 signed in Beijing, ending the Eight-power Allied Force intervention after the Boxer uprising
+辛亥 | TRADUÇÃO: forty-eighth year H12 of the 60 year cycle, e.g. 1971 or 2031/cf 辛亥革命, Xinhai Revolution of 1911
+辛亥革命 | TRADUÇÃO: Xinhai Revolution (1911), which ended the Qing Dynasty
+辛伐他汀 | TRADUÇÃO: simvastatin
+辛劳 | TRADUÇÃO: laborious
+辛勤 | TRADUÇÃO: hardworking; industrious
+辛勤耕耘 | TRADUÇÃO: to devote oneself tirelessly to one's work; to labor diligently over many years
+辛卯 | TRADUÇÃO: twenty-eighth year H4 of the 60 year cycle, e.g. 2011 or 2071
+辛奇 | TRADUÇÃO: (loanword) kimchi
+辛巳 | TRADUÇÃO: eighteenth year H6 of the 60 year cycle, e.g. 2001 or 2061
+辛巴威 | TRADUÇÃO: Zimbabwe (Tw)
+辛布 | TRADUÇÃO: Thimphu, capital of Bhutan (Tw)
+辛普森 | TRADUÇÃO: Simpson (name)
+辛普森一家 | TRADUÇÃO: The Simpsons (US TV series)
+辛未 | TRADUÇÃO: eight year H8 of the 60 year cycle, e.g. 1991 or 2051
+辛格 | TRADUÇÃO: (name) Singh
+辛烷 | TRADUÇÃO: octane (C8H18)
+辛烷值 | TRADUÇÃO: octane rating
+辛苦 | TRADUÇÃO: exhausting/hard/tough/arduous/to work hard/to go to a lot of trouble/hardship(s)
+辛贝特 | TRADUÇÃO: Shin Bet (Israel national security service)
+辛辛苦苦 | TRADUÇÃO: painstakingly/with great trouble
+辛辛那提 | TRADUÇÃO: Cincinnati, Ohio
+辛辣 | TRADUÇÃO: spicy hot (taste)/fig. biting (criticism)
+辛迪加 | TRADUÇÃO: (loanword) syndicate
+辛酉 | TRADUÇÃO: fifty-eighth year H10 of the 60 year cycle, e.g. 1981 or 2041
+辛酸 | TRADUÇÃO: pungent (taste)/bitter/fig. sad/miserable
+辛集 | TRADUÇÃO: see 辛集市
+辛集市 | TRADUÇÃO: Xinji, a county-level city in Shijiazhuang City 石家莊市|石家庄市, Hebei
+辜 | TRADUÇÃO: surname Gu ‖ crime/sin
+辜振甫 | TRADUÇÃO: Koo Chen-fu (1917-2005), Taiwanese businessman and diplomat
+辜负 | TRADUÇÃO: to fail to live up (to expectations)/unworthy (of trust)/to let down/to betray (hopes)/to disappoint
+辜鸿铭 | TRADUÇÃO: Ku Hung-ming or Gu Hongming (1857–1928), Malaysian writer known for his English-language works and defense of Qing dynasty monarchy
+辟 | TRADUÇÃO: (literary) king; monarch/(literary) (of a sovereign) to summon to official service/(literary) to avoid (variant of 避)/(literary) to repel (variant of 避) ‖ penal law/variant of 闢|辟 ‖ to open (a door)/to open up (for development)/to dispel; to refute; to repudiate/(bound form) penetrating; incisive
+辟谷 | TRADUÇÃO: (Taoism) to abstain from eating cereals; to fast/also pr. [pi4gu3]
+辟邪 | TRADUÇÃO: to ward off evil spirits/mythical lion-like animal that wards off evil (also called 貔貅)
+辟雍 | TRADUÇÃO: central of the five Zhou dynasty royal academies
+辟雍砚 | TRADUÇÃO: ink slab or ink stone of celadon or white porcelain with unglazed surface
+辣 | TRADUÇÃO: old variant of 辣 ‖ hot (spicy)/pungent/(of chili pepper, raw onions etc) to sting/to burn
+辣哈布 | TRADUÇÃO: (Catholicism) Rahab, mother of Boaz
+辣妹 | TRADUÇÃO: Spice Girls (1990s UK pop group) ‖ hot chick/sexy girl/abbr. LM
+辣妹子 | TRADUÇÃO: sassy young woman or pretty girl (esp. one from China's spice belt: Guizhou, Hunan, Jiangxi, Sichuan and Yunnan)
+辣妈 | TRADUÇÃO: (coll.) hot mom
+辣子 | TRADUÇÃO: cayenne pepper/chili
+辣子鸡 | TRADUÇÃO: laziji, spicy dish of chicken cubes stir-fried with chili peppers
+辣彼 | TRADUÇÃO: (loanword) rabbi
+辣根 | TRADUÇÃO: horseradish
+辣条 | TRADUÇÃO: latiao, spicy gluten strip (Chinese snack)/(slang) snake
+辣椒 | TRADUÇÃO: hot pepper/chili
+辣椒仔 | TRADUÇÃO: Tabasco (brand)
+辣椒素 | TRADUÇÃO: capsaicin
+辣椒酱 | TRADUÇÃO: red pepper paste/chili sauce
+辣汁 | TRADUÇÃO: hot sauce/chili sauce
+辣白菜 | TRADUÇÃO: spicy pickled cabbage; kimchi
+辣眼睛 | TRADUÇÃO: (neologism c. 2016) (slang) unpleasant to look at/hard on the eyes
+辣胡椒 | TRADUÇÃO: hot pepper
+辣豆酱 | TRADUÇÃO: chili con carne
+辣酱油 | TRADUÇÃO: Worcestershire sauce
+辣鸡 | TRADUÇÃO: spicy chicken/(Internet slang) garbage (pun on 垃圾)
+辞 | TRADUÇÃO: old variant of 辭|辞 ‖ to resign/to dismiss/to decline/(literary) to take leave/(archaic poetic genre) ballad/variant of 詞|词
+办 | TRADUÇÃO: to take care of (a matter); to deal with (a task, procedure etc); to organize (an event)/to establish; to set up; to manage; to run (an enterprise)/(law) to handle; to investigate; to prosecute (a case or suspect)/(bound form) office (as in 招辦|招办, admissions office) (abbr. for 辦公室|办公室)
+办不到 | TRADUÇÃO: cannot be done; not feasible; impossible to accomplish
+办事 | TRADUÇÃO: to handle (affairs)/to work
+办事处 | TRADUÇÃO: office; agency; bureau
+办公 | TRADUÇÃO: to handle official business (usu. in an office); to do (office) work
+办公地址 | TRADUÇÃO: business address; office address
+办公大楼 | TRADUÇÃO: office building
+办公室 | TRADUÇÃO: office; business premises
+办公厅 | TRADUÇÃO: general office
+办公时间 | TRADUÇÃO: office hours
+办公桌轮用 | TRADUÇÃO: hot-desking
+办公楼 | TRADUÇÃO: office building/CL:座,棟|栋
+办公自动化 | TRADUÇÃO: office automation
+办到 | TRADUÇÃO: to accomplish; to get (sth) done
+办报 | TRADUÇÃO: to run a newspaper; to publish a newspaper
+办好 | TRADUÇÃO: to take care of (a matter); to get (a task) done; to handle (a project) expeditiously
+办妥 | TRADUÇÃO: to arrange/to settle/to complete/to carry through
+办学 | TRADUÇÃO: to run a school
+办年货 | TRADUÇÃO: to shop in preparation for Chinese New Year
+办案 | TRADUÇÃO: to handle a (criminal) case
+办桌 | TRADUÇÃO: (Tw) to hold a banquet/to provide catering/catering/banquet/roadside banquet (Taiwanese-style banquet, typically held under large tents in the street, to celebrate special occasions)
+办法 | TRADUÇÃO: way of handling sth; means; measure; (practical) solution to a problem/CL:條|条
+办理 | TRADUÇÃO: to handle; to transact; to conduct
+办罪 | TRADUÇÃO: (formal) to prosecute or punish sb for a crime; to hold sb legally accountable
+办证 | TRADUÇÃO: to apply for a certificate, permit, license or ID/(as an official or authority) to process or issue a certificate, permit etc
+办货 | TRADUÇÃO: to purchase goods (for a company etc)
+办酒席 | TRADUÇÃO: to prepare a feast
+辨 | TRADUÇÃO: to distinguish/to recognize
+辨别 | TRADUÇÃO: to distinguish; to differentiate; to discern; to recognize; to tell
+辨别力 | TRADUÇÃO: discrimination/power of discrimination
+辨士 | TRADUÇÃO: (loanword) pence; penny
+辨明 | TRADUÇÃO: to clarify/to distinguish/to elucidate
+辨析 | TRADUÇÃO: to differentiate and analyze/to discriminate
+辨认 | TRADUÇÃO: to recognize/to identify
+辨证 | TRADUÇÃO: to investigate
+辨证施治 | TRADUÇÃO: diagnosis and treatment based on an overall analysis of the illness and the patient's condition
+辨证论治 | TRADUÇÃO: holistic diagnosis and treatment (TCM)
+辨识 | TRADUÇÃO: identification/to identify/to recognize
+辨识度 | TRADUÇÃO: distinctiveness; identifiability; recognizability
+辞世 | TRADUÇÃO: (literary) to pass away; to die; to depart from this world
+辞令 | TRADUÇÃO: polite speech; diplomatic language; rhetoric
+辞任 | TRADUÇÃO: to resign (a position)
+辞典 | TRADUÇÃO: variant of 詞典|词典
+辞别 | TRADUÇÃO: to bid farewell (to); to say goodbye (to)
+辞去 | TRADUÇÃO: to resign/to quit
+辞呈 | TRADUÇÃO: (written) resignation
+辞官 | TRADUÇÃO: to resign a government post
+辞工 | TRADUÇÃO: to resign from a job
+辞掉 | TRADUÇÃO: to quit (one's job)/to dismiss (an employee)
+辞书 | TRADUÇÃO: dictionary/encyclopedia
+辞书学 | TRADUÇÃO: lexicography
+辞格 | TRADUÇÃO: figure of speech
+辞海 | TRADUÇÃO: Cihai, encyclopedic dictionary of Chinese first published in 1936
+辞灶 | TRADUÇÃO: see 送灶
+辞章 | TRADUÇÃO: poetry and prose/rhetoric
+辞职 | TRADUÇÃO: to resign
+辞藻 | TRADUÇÃO: rhetoric
+辞行 | TRADUÇÃO: to say goodbye/leave-taking/farewells
+辞谢 | TRADUÇÃO: to decline gratefully
+辞退 | TRADUÇÃO: to dismiss/to discharge/to fire
+辫 | TRADUÇÃO: a braid or queue/to plait
+辫子 | TRADUÇÃO: plait/braid/pigtail/a mistake or shortcoming that may be exploited by an opponent/handle/CL:根,條|条
+辩 | TRADUÇÃO: to dispute/to debate/to argue/to discuss
+辩别 | TRADUÇÃO: variant of 辨別|辨别
+辩士 | TRADUÇÃO: eloquent person/person with rhetoric skills
+辩手 | TRADUÇÃO: debater; debate team member
+辩才 | TRADUÇÃO: eloquence
+辩才天 | TRADUÇÃO: Saraswati (the Hindu goddess of wisdom and arts and consort of Lord Brahma)
+辩方 | TRADUÇÃO: (law) the defense
+辩明 | TRADUÇÃO: to explain clearly/to elucidate
+辩机 | TRADUÇÃO: Bianji (c. 620-648), Tang dynasty buddhist monk and disciple of 玄奘, author and translator of Great Tang Records on the Western Regions 大唐西域記|大唐西域记
+辩争 | TRADUÇÃO: to argue/to dispute
+辩白 | TRADUÇÃO: to offer an explanation/to plead innocence/to try to defend oneself
+辩称 | TRADUÇÃO: to argue (that)/to allege/to dispute/to plead (e.g. not guilty)
+辩答 | TRADUÇÃO: a reply (in debate)
+辩解 | TRADUÇÃO: to explain/to justify/to defend (a point of view etc)/to provide an explanation/to try to defend oneself
+辩词 | TRADUÇÃO: an excuse
+辩诬 | TRADUÇÃO: to debate/to refute
+辩说 | TRADUÇÃO: to debate; to argue
+辩论 | TRADUÇÃO: debate/argument/to argue over/CL:場|场,次
+辩证 | TRADUÇÃO: to investigate/dialectical
+辩证唯物主义 | TRADUÇÃO: dialectical materialism
+辩证法 | TRADUÇÃO: dialectics/dialectic or Socratic method of debate
+辩护 | TRADUÇÃO: to speak in defense of/to argue in favor of/to defend/to plead
+辩护人 | TRADUÇÃO: defender/defending counsel
+辩护士 | TRADUÇÃO: defender/apologist
+辩辞 | TRADUÇÃO: an excuse
+辩难 | TRADUÇÃO: to debate/to retort/to refute
+辩驳 | TRADUÇÃO: to dispute/to refute
+辰 | TRADUÇÃO: 5th earthly branch: 7-9 a.m., 3rd solar month (5th April-4th May), year of the Dragon/ancient Chinese compass point: 120°
+辰光 | TRADUÇÃO: sunlight/(Wu dialect) time of the day/moment
+辰星 | TRADUÇÃO: Mercury in traditional Chinese astronomy/see also 水星
+辰时 | TRADUÇÃO: 7-9 am (in the system of two-hour subdivisions used in former times)
+辰溪 | TRADUÇÃO: see 辰溪縣|辰溪县
+辰溪县 | TRADUÇÃO: Chenxi, a county in Huaihua City 懷化市|怀化市, Hunan
+辰砂 | TRADUÇÃO: cinnabar
+辰龙 | TRADUÇÃO: Year 5, year of the Dragon (e.g. 2000)
+辱 | TRADUÇÃO: disgrace/dishonor/to insult/to bring disgrace or humiliation to/to be indebted to/self-deprecating/Taiwan pr. [ru4]
+辱骂 | TRADUÇÃO: to insult/to revile/abuse/vituperation
+辱华 | TRADUÇÃO: to insult China (by criticizing its policies or boycotting its goods)
+农 | TRADUÇÃO: surname Nong ‖ (bound form) agriculture ‖ variant of 農|农
+农事 | TRADUÇÃO: farming task
+农事活动 | TRADUÇÃO: agricultural activities
+农人 | TRADUÇÃO: farmer
+农作 | TRADUÇÃO: farming/crops
+农作物 | TRADUÇÃO: (farm) crops
+农具 | TRADUÇÃO: farm implements/farm tools
+农区 | TRADUÇÃO: agricultural areas/farming areas
+农友 | TRADUÇÃO: our peasant friends (political term used in the early years of the Old Democratic Revolution, 1840-1919)/(Tw) (coll.) farmer
+农园 | TRADUÇÃO: plantation
+农地 | TRADUÇÃO: farmland
+农场 | TRADUÇÃO: farm
+农夫 | TRADUÇÃO: peasant/farmer
+农夫山泉 | TRADUÇÃO: Nongfu Spring, Chinese bottled water and beverage company
+农奴 | TRADUÇÃO: serf
+农奴解放日 | TRADUÇÃO: Serf Liberation Day (PRC)
+农妇 | TRADUÇÃO: peasant woman (in former times)/female farm worker
+农学 | TRADUÇÃO: agricultural science
+农安 | TRADUÇÃO: see 農安縣|农安县
+农安县 | TRADUÇÃO: Nong'an, a county in Changchun City 長春市|长春市, Jilin
+农家 | TRADUÇÃO: School of Agriculture, school of thought of the Warring States Period (475-221 BC) ‖ peasant family
+农家庭院 | TRADUÇÃO: farmyard
+农家乐 | TRADUÇÃO: a property providing rural accommodation (farm stay, boutique hotel etc)
+农家肥 | TRADUÇÃO: manure
+农工 | TRADUÇÃO: agricultural worker/abbr. for 農業工人|农业工人/peasant and worker (in Marxism)
+农德孟 | TRADUÇÃO: Nong Duc Manh (1940-), general secretary of the Vietnamese Communist Party 2001-2011
+农忙 | TRADUÇÃO: (agriculture) busy season; peak farming season
+农户 | TRADUÇÃO: farmer/farmer household
+农房 | TRADUÇÃO: farm house
+农旅 | TRADUÇÃO: agritourism
+农历 | TRADUÇÃO: the traditional Chinese calendar/the lunar calendar
+农历新年 | TRADUÇÃO: Chinese New Year/Lunar New Year
+农会 | TRADUÇÃO: farmer's cooperative/abbr. for 農民協會|农民协会
+农村 | TRADUÇÃO: rural area/village/CL:個|个
+农村合作化 | TRADUÇÃO: collectivization of agriculture (in Marxist theory)
+农村家庭联产承包责任制 | TRADUÇÃO: rural household contract responsibility system, PRC government policy linking rural income to productivity
+农林 | TRADUÇÃO: agriculture and forestry
+农林水产省 | TRADUÇÃO: Ministry of Agriculture, Forestry and Fisheries (Japan)
+农桑 | TRADUÇÃO: (literary) farming and sericulture; agricultural production
+农业 | TRADUÇÃO: agriculture/farming
+农业区 | TRADUÇÃO: agricultural region
+农业合作化 | TRADUÇÃO: collectivization of agriculture (in Marxist theory)
+农业国 | TRADUÇÃO: agricultural country
+农业厅 | TRADUÇÃO: (provincial) department of agriculture
+农业机械 | TRADUÇÃO: agricultural machinery
+农业现代化 | TRADUÇÃO: modernization of agriculture, one of Deng Xiaoping's Four Modernizations
+农业生技 | TRADUÇÃO: (Tw) agricultural biotechnology; agritech
+农业生产合作社 | TRADUÇÃO: agricultural producers' cooperative
+农业部 | TRADUÇÃO: Ministry of Agriculture/Department of Agriculture
+农业集体化 | TRADUÇÃO: collectivization of agriculture (under communism)
+农机 | TRADUÇÃO: agricultural machinery
+农民 | TRADUÇÃO: peasant; farmer
+农民工 | TRADUÇÃO: migrant worker (who moved from a rural area of China to a city to find work)
+农民起义 | TRADUÇÃO: peasant uprising; peasant revolt
+农民阶级 | TRADUÇÃO: peasant class (esp. in Marxist theory); peasantry
+农民党 | TRADUÇÃO: Peasant Party (Republic of China)
+农活 | TRADUÇÃO: farm work
+农产 | TRADUÇÃO: agriculture products/farm produce
+农产品 | TRADUÇÃO: agricultural produce
+农田 | TRADUÇÃO: farmland/cultivated land
+农耕 | TRADUÇÃO: farming/agriculture
+农膜 | TRADUÇÃO: agricultural film (plastic sheeting used as a mulch or to cover greenhouses and polytunnels)
+农舍 | TRADUÇÃO: farmhouse
+农庄 | TRADUÇÃO: farm/ranch
+农艺 | TRADUÇÃO: agronomy
+农药 | TRADUÇÃO: agricultural chemical/farm chemical/pesticide
+农谚 | TRADUÇÃO: farmers' saying
+农贷 | TRADUÇÃO: (government) loan to agriculture
+农贸市场 | TRADUÇÃO: wet market
+农资 | TRADUÇÃO: agricultural inputs; farm supplies
+农运 | TRADUÇÃO: peasant movement (abbr. for 農民運動|农民运动)
+农运会 | TRADUÇÃO: China National Farmers' Games (sports meeting for peasants held every 4 years since 1988)
+农闲 | TRADUÇÃO: the agricultural off-season; the farming slack season
+辵 | TRADUÇÃO: to walk (side part of split character)
+辶 | TRADUÇÃO: to walk (side part of split character)
+辿 | TRADUÇÃO: used in names, e.g. 龍王辿|龙王辿 Longwang Chan, a place in Shaanxi Province/(literary) (of one's walking pace) slow
+迂 | TRADUÇÃO: literal-minded/pedantic/doctrinaire/longwinded/circuitous
+迂儒 | TRADUÇÃO: unrealistic/pedantic and impractical
+迂回奔袭 | TRADUÇÃO: to attack from an unexpected direction
+迂回曲折 | TRADUÇÃO: meandering and circuitous (idiom); complicated developments that never get anywhere/going around in circles
+迂执 | TRADUÇÃO: pedantic and stubborn
+迂夫子 | TRADUÇÃO: pedant/old fogey
+迂拘 | TRADUÇÃO: conventional/conservative
+迂拙 | TRADUÇÃO: stupid/impractical
+迂曲 | TRADUÇÃO: circuitous/tortuous/roundabout
+迂气 | TRADUÇÃO: pedantry
+迂滞 | TRADUÇÃO: high-sounding and impractical
+迂磨 | TRADUÇÃO: sluggish/delaying
+迂缓 | TRADUÇÃO: dilatory/slow in movement/roundabout
+迂腐 | TRADUÇÃO: pedantic/trite/inflexible/adherence to old ideas
+迂见 | TRADUÇÃO: absurd opinion/pedantic and unrealistic view
+迂讷 | TRADUÇÃO: overcautious/conservative and dull in conversation
+迂论 | TRADUÇÃO: unrealistic argument/high flown and impractical opinion
+迂回 | TRADUÇÃO: roundabout route/circuitous/tortuous/to outflank/indirect/roundabout
+迂远 | TRADUÇÃO: impractical
+迂阔 | TRADUÇÃO: high sounding and impractical/high flown nonsense
+迄 | TRADUÇÃO: as yet/until
+迄今 | TRADUÇÃO: so far/to date/until now
+迄今为止 | TRADUÇÃO: so far/up to now/still (not)
+迅 | TRADUÇÃO: rapid/fast
+迅即 | TRADUÇÃO: immediately/promptly/quickly
+迅捷 | TRADUÇÃO: fast and nimble
+迅猛 | TRADUÇÃO: quick and violent
+迅疾 | TRADUÇÃO: rapid/swift
+迅速 | TRADUÇÃO: rapid/speedy/fast
+迅雷 | TRADUÇÃO: thunderbolt
+迆 | TRADUÇÃO: variant of 迤 ‖ variant of 迤
+迋 | TRADUÇÃO: to deceive/to scare/to travel
+迍 | TRADUÇÃO: used in 迍邅
+迍邅 | TRADUÇÃO: (literary) making no progress
+迎 | TRADUÇÃO: to welcome; to meet/to forge ahead (esp. in the face of difficulties); to meet face to face
+迎佛骨 | TRADUÇÃO: to ceremonially receive a bone relic of the Buddha
+迎来 | TRADUÇÃO: to welcome (a visitor or newcomer)/(fig.) to usher in
+迎来送往 | TRADUÇÃO: lit. to meet those arriving, to send of those departing (idiom); busy entertaining guests/all time taken over with social niceties
+迎刃而解 | TRADUÇÃO: lit. (bamboo) splits when it meets the knife's edge (idiom)/fig. easily solved
+迎合 | TRADUÇÃO: to cater to/to pander to
+迎娶 | TRADUÇÃO: (of a groom) to fetch one's bride from her parents' home to escort her to the wedding ceremony/(fig.) to take as one's wife; to marry (a woman)
+迎客松 | TRADUÇÃO: Greeting Pine, symbol of Huangshan 黃山|黄山
+迎战 | TRADUÇÃO: to meet the enemy head-on
+迎接 | TRADUÇÃO: to welcome; to greet
+迎接挑战 | TRADUÇÃO: to meet a challenge
+迎击 | TRADUÇÃO: to face an attack/to repulse the enemy
+迎敌 | TRADUÇÃO: to go out from one's position to confront the enemy
+迎新 | TRADUÇÃO: to see in the New Year/to welcome new guests/by extension, to receive new students
+迎春花 | TRADUÇÃO: winter jasmine (Jasminum nudiflorum)
+迎江 | TRADUÇÃO: see 迎江區|迎江区
+迎江区 | TRADUÇÃO: Yingjiang, a district of Anqing City 安慶市|安庆市, Anhui
+迎泽 | TRADUÇÃO: see 迎澤區|迎泽区
+迎泽区 | TRADUÇÃO: Yingze, a district of Taiyuan City 太原市, Shanxi
+迎火 | TRADUÇÃO: backfire (firefighting)
+迎神赛会 | TRADUÇÃO: folk festival, esp. involving shrine or image of God
+迎亲 | TRADUÇÃO: (of the groom's family) to send a bridal sedan chair 花轎|花轿 to fetch the bride/to send a party to escort the bride to the groom's house
+迎宾 | TRADUÇÃO: to welcome a guest/to entertain a customer (of prostitute)
+迎难而上 | TRADUÇÃO: (idiom) to press on in the face of challenges
+迎面 | TRADUÇÃO: directly; head-on (collision)/(of wind) in one's face
+迎面而来 | TRADUÇÃO: directly/head-on (collision)/in one's face (of wind)
+迎头 | TRADUÇÃO: to meet head-on/face-to-face/directly
+迎头儿 | TRADUÇÃO: erhua variant of 迎頭|迎头
+迎头打击 | TRADUÇÃO: to hit head on
+迎头痛击 | TRADUÇÃO: to deliver a frontal assault/to meet head-on (idiom)
+迎头赶上 | TRADUÇÃO: to try hard to catch up
+迎风 | TRADUÇÃO: in the wind/facing the wind/downwind
+迎风招展 | TRADUÇÃO: to flutter in the wind (idiom)
+迎风飘舞 | TRADUÇÃO: to flutter in the wind
+迏 | TRADUÇÃO: old variant of 達|达
+近 | TRADUÇÃO: near/close to/approximately
+近乎 | TRADUÇÃO: close to/intimate
+近乎同步 | TRADUÇÃO: plesiochronous
+近人 | TRADUÇÃO: contemporary/modern person/close friend/associate/intimate
+近代 | TRADUÇÃO: the not-very-distant past/modern times, excluding recent decades/(in the context of Chinese history) the period from the Opium Wars until the May 4th Movement (mid-19th century to 1919)/capitalist times (pre-1949)
+近代史 | TRADUÇÃO: modern history (in Chinese historiography, from the Opium Wars to the fall of the Qing dynasty)
+近似 | TRADUÇÃO: to approximate; to be similar
+近似解 | TRADUÇÃO: approximate solution
+近来 | TRADUÇÃO: recently/lately
+近便 | TRADUÇÃO: nearby and therefore convenient
+近光灯 | TRADUÇÃO: low beam (headlights)
+近前 | TRADUÇÃO: to come close/to get near to/front
+近古 | TRADUÇÃO: near ancient history (often taken to mean Song, Yuan, Ming and Qing times)
+近因 | TRADUÇÃO: immediate cause/proximate cause
+近在咫尺 | TRADUÇÃO: (idiom) very close; almost within reach; close at hand
+近在眼前 | TRADUÇÃO: right under one's nose; right in front of one's eyes; close at hand; imminent
+近地天体 | TRADUÇÃO: near-Earth object (NEO)
+近地轨道 | TRADUÇÃO: low Earth orbit (LEO)
+近地点 | TRADUÇÃO: apsis/perigee
+近场通信 | TRADUÇÃO: (computing) near-field communication (NFC)
+近场通讯 | TRADUÇÃO: (Tw) (computing) near-field communication (NFC)
+近年 | TRADUÇÃO: recent year(s)
+近年来 | TRADUÇÃO: for the past few years
+近几年 | TRADUÇÃO: in recent years
+近打 | TRADUÇÃO: Kinta valley and river in Perak, Malaysia
+近打河 | TRADUÇÃO: Kinta River in Perak, Malaysia
+近拱点 | TRADUÇÃO: (astronomy) periapsis
+近日 | TRADUÇÃO: (in) the past few days/recently/(within) the next few days
+近日点 | TRADUÇÃO: perihelion, the nearest point of a planet in elliptic orbit to the sun/lower apsis
+近景 | TRADUÇÃO: scene in the foreground; nearby scenery/(photography) a close shot/the present situation; how things stand
+近期 | TRADUÇÃO: near in time/in the near future/very soon/recent
+近朱者赤，近墨者黑 | TRADUÇÃO: those who handle cinnabar are stained red; those who work with ink are stained black (idiom)/you are the product of your environment
+近朱近墨 | TRADUÇÃO: one is judged by the company one keeps (idiom)
+近东 | TRADUÇÃO: Near East
+近水楼台 | TRADUÇÃO: lit. a pavilion near the water (idiom); fig. using one's proximity to the powerful to obtain favor
+近水楼台先得月 | TRADUÇÃO: the pavilion closest to the water enjoys moonlight first (idiom)/to benefit from intimacy with an influential person
+近况 | TRADUÇÃO: recent developments/current situation
+近海 | TRADUÇÃO: coastal waters/offshore
+近照 | TRADUÇÃO: recent photo
+近现代史 | TRADUÇÃO: modern history and contemporary history
+近畿地方 | TRADUÇÃO: the Kinki region of Japan, aka the Kansai region, with cities including Kyoto, Osaka and Kobe
+近端 | TRADUÇÃO: (anatomy) proximal
+近端胞浆 | TRADUÇÃO: proximal cytoplasm
+近义词 | TRADUÇÃO: near-synonym
+近臣 | TRADUÇÃO: member of a monarch's inner ministerial circle (old)
+近藤 | TRADUÇÃO: Kondō (Japanese surname)
+近处 | TRADUÇÃO: nearby
+近卫文麿 | TRADUÇÃO: Prince KONOE Fumimaro (1891-), Japanese nobleman and militarist politician, prime minister 1937-1939 and 1940-1941
+近视 | TRADUÇÃO: myopic; nearsighted/(fig.) shortsighted
+近视眼 | TRADUÇÃO: nearsightedness; myopia
+近亲 | TRADUÇÃO: close relative
+近亲交配 | TRADUÇÃO: inbreeding
+近亲繁殖 | TRADUÇÃO: inbreeding
+近距离 | TRADUÇÃO: close range
+近距离无线通讯 | TRADUÇÃO: (computing) near-field communication (NFC)
+近路 | TRADUÇÃO: shortcut
+近道 | TRADUÇÃO: shortcut/a quicker method
+近郊 | TRADUÇÃO: suburbs/outskirts
+近郊区 | TRADUÇÃO: suburbs/city outskirts
+近邻 | TRADUÇÃO: close neighbor
+近零 | TRADUÇÃO: close to zero
+近顷 | TRADUÇÃO: recently/of late
+近体诗 | TRADUÇÃO: a genre of poetry, developed in the Tang Dynasty, characterized by its strict form
+迓 | TRADUÇÃO: to receive (as a guest)
+返 | TRADUÇÃO: to return (to)
+返利 | TRADUÇÃO: dealer incentive/sales bonus/rebate
+返券黄牛 | TRADUÇÃO: "shopping coupon scalper", sb who sells unwanted or returned shopping coupons to others for a profit
+返回 | TRADUÇÃO: to return to/to come (or go) back
+返国 | TRADUÇÃO: to return to one's country
+返场 | TRADUÇÃO: to do an encore/(gaming) (of an item or character) to become available for purchase again
+返家 | TRADUÇÃO: to return home
+返岗 | TRADUÇÃO: to resume one's former position (after being laid off)/to return to work (after taking leave)
+返工 | TRADUÇÃO: to do poorly done work over again/(Guangdong dialect) to go to work
+返校 | TRADUÇÃO: to return to school
+返港 | TRADUÇÃO: to return to Hong Kong
+返潮 | TRADUÇÃO: (of clothing, furniture, walls etc) to get damp (by absorbing moisture from the air or the ground)
+返现 | TRADUÇÃO: (neologism c. 2009) to give a cashback reward to a consumer
+返璞归真 | TRADUÇÃO: to return to one's true self/to regain the natural state
+返祖 | TRADUÇÃO: (biology) to exhibit atavism; to revert to ancestral traits
+返祖现象 | TRADUÇÃO: (biology) atavism
+返程 | TRADUÇÃO: return trip/to make a return trip; to return
+返老还童 | TRADUÇÃO: to recover one's youthful vigor/to feel rejuvenated (idiom)
+返聘 | TRADUÇÃO: to rehire retired personnel
+返台 | TRADUÇÃO: to return to Taiwan
+返航 | TRADUÇÃO: to return to the point of departure
+返贫 | TRADUÇÃO: to fall back into poverty
+返还 | TRADUÇÃO: restitution/return of something to its original owner/remittance
+返乡 | TRADUÇÃO: to return to one's home town
+返销粮 | TRADUÇÃO: grain bought by the state and resold to areas undergoing a grain shortage
+返青 | TRADUÇÃO: (of plants) to turn green again/to revegetate
+返点 | TRADUÇÃO: sales bonus/affiliate reward/rebate/commission
+迕 | TRADUÇÃO: obstinate, perverse
+迢 | TRADUÇÃO: remote
+迣 | TRADUÇÃO: to leap over
+迤 | TRADUÇÃO: used in 逶迤 ‖ extending to
+迤逦 | TRADUÇÃO: meandering/winding
+迥然 | TRADUÇÃO: vastly (different)
+迥然不同 | TRADUÇÃO: widely different/utterly different
+迥异 | TRADUÇÃO: totally different
+迦 | TRADUÇÃO: (phonetic sound for Buddhist terms)
+迦南 | TRADUÇÃO: Canaan (in Biblical Palestine)
+迦太基 | TRADUÇÃO: Carthage
+迦持 | TRADUÇÃO: the laws of the Buddhism
+迦纳 | TRADUÇÃO: Ghana (Tw)
+迦叶佛 | TRADUÇÃO: Buddha Kassapa (Pāli) or Kāśyapa (Skt) (one of the Buddhas of the past)
+迨 | TRADUÇÃO: until/while
+迪 | TRADUÇÃO: to enlighten
+迪伦 | TRADUÇÃO: (name) Dylan
+迪克 | TRADUÇÃO: Dick (person name)
+迪化 | TRADUÇÃO: Dihua or Tihwa (old name of Ürümqi 烏魯木齊|乌鲁木齐)
+迪吉里杜管 | TRADUÇÃO: (loanword) didgeridoo
+迪吧 | TRADUÇÃO: disco (coll.)/diva (loanword)
+迪士尼 | TRADUÇÃO: Disney, American entertainment conglomerate/Walt Disney (1901–1966), American animator and film producer
+迪士尼乐园 | TRADUÇÃO: Disneyland
+迪奥 | TRADUÇÃO: Dior (brand name)
+迪厅 | TRADUÇÃO: disco/night club/abbr. for 迪斯科廳|迪斯科厅
+迪庆 | TRADUÇÃO: see 迪慶藏族自治州|迪庆藏族自治州
+迪庆州 | TRADUÇÃO: see 迪慶藏族自治州|迪庆藏族自治州
+迪庆藏族自治州 | TRADUÇÃO: Diqing Tibetan Autonomous Prefecture, in Yunnan Province 雲南省|云南省
+迪戈·加西亚岛 | TRADUÇÃO: Diego Garcia tropical island and US military base in the Indian Ocean, main island of Chago archipelago 查戈斯群島|查戈斯群岛
+迪拜 | TRADUÇÃO: Dubai
+迪斯可 | TRADUÇÃO: disco (loanword) (Tw)
+迪斯尼 | TRADUÇÃO: see 迪士尼
+迪斯尼乐园 | TRADUÇÃO: Disneyland/also written 迪士尼樂園|迪士尼乐园
+迪斯科 | TRADUÇÃO: (loanword) disco
+迪斯科吧 | TRADUÇÃO: discotheque
+迪斯科厅 | TRADUÇÃO: disco hall/nightclub
+迪斯雷利 | TRADUÇÃO: Benjamin Disraeli (1804-1881), British conservative politician and novelist, prime minister 1868-1880
+迪庄 | TRADUÇÃO: Dijon (French town)
+迫不及待 | TRADUÇÃO: (idiom) unable to hold oneself back; eager to do sth without delay
+迫不得已 | TRADUÇÃO: to have no alternative (idiom); compelled by circumstances/forced into sth
+迫令 | TRADUÇÃO: to order/to force
+迫使 | TRADUÇÃO: to force; to compel
+迫供 | TRADUÇÃO: to extort a confession/Taiwan pr. [po4 gong1]
+迫促 | TRADUÇÃO: to urge/urgent/pressing
+迫切 | TRADUÇÃO: urgent; pressing
+迫切性 | TRADUÇÃO: urgency
+迫在眉睫 | TRADUÇÃO: pressing in on one's eyelashes (idiom); imminent
+迫害 | TRADUÇÃO: to persecute
+迫击炮 | TRADUÇÃO: mortar (weapon)/Taiwan pr. [po4 ji2 pao4]
+迫于 | TRADUÇÃO: constrained/restricted/forced to/under pressure to do sth
+迫胁 | TRADUÇÃO: to coerce/fig. narrow
+迫临 | TRADUÇÃO: to approach/to press in
+迫视 | TRADUÇÃO: to stare at/to watch intently
+迫近 | TRADUÇÃO: to approach/to press in
+迫降 | TRADUÇÃO: to force a plane to land ‖ to force sb to surrender
+迭 | TRADUÇÃO: alternately/repeatedly
+迭代 | TRADUÇÃO: to iterate/(literary) to alternate
+迭起 | TRADUÇÃO: continuously arising/to arise repeatedly
+迭部 | TRADUÇÃO: see 迭部縣|迭部县
+迭部县 | TRADUÇÃO: Têwo, a county in Gannan Tibetan Autonomous Prefecture 甘南藏族自治州, Gansu
+迮 | TRADUÇÃO: haste/to press
+迮径 | TRADUÇÃO: narrow path
+述 | TRADUÇÃO: (bound form) to state; to tell; to narrate; to relate
+述职 | TRADUÇÃO: to report on one's work or duties (to a supervisor)
+述语 | TRADUÇÃO: predicate
+述说 | TRADUÇÃO: to recount; to narrate; to give an account of
+回力镖 | TRADUÇÃO: boomerang
+回圈 | TRADUÇÃO: (Tw) (computing) loop
+回廊 | TRADUÇÃO: winding corridor/cloister/ambulatory (covered walkway around a cloister)
+回旋加速器 | TRADUÇÃO: (physics) cyclotron
+回旋处 | TRADUÇÃO: traffic circle; rotary; roundabout
+回旋镖 | TRADUÇÃO: boomerang
+回旋余地 | TRADUÇÃO: room to maneuver; leeway; latitude
+回荡 | TRADUÇÃO: to resound/to reverberate/to echo
+回纹针 | TRADUÇÃO: paper clip
+回转寿司 | TRADUÇÃO: conveyor belt sushi (restaurant)
+迶 | TRADUÇÃO: to walk
+迷 | TRADUÇÃO: to bewilder/crazy about/fan/enthusiast/lost/confused
+迷上 | TRADUÇÃO: to become fascinated with; to become obsessed with
+迷不知返 | TRADUÇÃO: to go astray and to not know how to get back on the right path (idiom)
+迷之 | TRADUÇÃO: variant of 謎之|谜之
+迷乱 | TRADUÇÃO: confusion
+迷人 | TRADUÇÃO: fascinating/enchanting/charming/tempting
+迷住 | TRADUÇÃO: to fascinate/to strongly attract/to obsess/to infatuate/to captivate/to enchant
+迷你 | TRADUÇÃO: mini (as in mini-skirt or Mini Cooper) (loanword)
+迷你剧 | TRADUÇÃO: miniseries
+迷你裙 | TRADUÇÃO: miniskirt
+迷信 | TRADUÇÃO: superstition/to have a superstitious belief (in sth)
+迷因 | TRADUÇÃO: (loanword) meme
+迷梦 | TRADUÇÃO: pipedream/unrealizable plan
+迷失 | TRADUÇÃO: to get lost; to lose one's bearings
+迷妹 | TRADUÇÃO: (slang) fangirl
+迷奸 | TRADUÇÃO: to drug and then rape sb
+迷宫 | TRADUÇÃO: maze/labyrinth
+迷幻 | TRADUÇÃO: psychedelic/hallucinatory
+迷幻剂 | TRADUÇÃO: a psychedelic/hallucinogen
+迷幻药 | TRADUÇÃO: hallucinogen/psychedelic drug
+迷幻蘑菇 | TRADUÇÃO: psilocybin mushroom/magic mushroom
+迷弟 | TRADUÇÃO: (slang) fanboy
+迷彩 | TRADUÇÃO: camouflage
+迷彩服 | TRADUÇÃO: camouflage clothing
+迷思 | TRADUÇÃO: (loanword) myth
+迷惑 | TRADUÇÃO: to puzzle/to confuse/to baffle
+迷惑不解 | TRADUÇÃO: to feel puzzled
+迷惑龙 | TRADUÇÃO: apatosaurus/former name: brontosaurus/also called 雷龍|雷龙
+迷惘 | TRADUÇÃO: perplexed/at a loss
+迷恋 | TRADUÇÃO: to be infatuated with/to be enchanted by/to be passionate about
+迷晕 | TRADUÇÃO: to knock sb out with a drug/to render sb unconscious
+迷津 | TRADUÇÃO: a maze/to lose the way/bewildering
+迷漫 | TRADUÇÃO: vast haze/lost in boundless mists
+迷蒙 | TRADUÇÃO: misty
+迷瞪 | TRADUÇÃO: puzzled/bewildered/infatuated
+迷笛 | TRADUÇÃO: Beijing Midi School of Music, est. 1993 (abbr. for 北京迷笛音樂學校|北京迷笛音乐学校)
+迷糊 | TRADUÇÃO: muddle-headed/dazed/only half conscious
+迷航 | TRADUÇÃO: (of a ship, aircraft or migratory bird) to lose its way/(fig.) to drift off course (in life, projects etc)
+迷茫 | TRADUÇÃO: vast and indistinct/perplexed/bewildered/at a loss
+迷药 | TRADUÇÃO: knockout drops/incapacitating agent/Mickey Finn
+迷误 | TRADUÇÃO: mistake; error/to mislead; to lead astray
+迷走神经 | TRADUÇÃO: vagus nerve
+迷路 | TRADUÇÃO: to lose the way/lost/labyrinth/labyrinthus vestibularis (of the inner ear)
+迷踪罗汉拳 | TRADUÇÃO: Mizongyi, Mizong, My Jhong Law Horn - "Lost Track Fist" (Chinese Martial Art)
+迷迭香 | TRADUÇÃO: rosemary (Rosmarinus officinalis)
+迷迷糊糊 | TRADUÇÃO: in a daze/bewildered
+迷途 | TRADUÇÃO: to lose one's way
+迷途知返 | TRADUÇÃO: to get back on the right path/to mend one's ways
+迷醉 | TRADUÇÃO: bewitched/intoxicated by sth
+迷阵 | TRADUÇÃO: maze
+迷离 | TRADUÇÃO: blurred/hard to make out distinctly
+迷离惝恍 | TRADUÇÃO: (idiom) blurred; confusing
+迷离马虎 | TRADUÇÃO: muddle-headed
+迷雾 | TRADUÇÃO: dense fog/fig. completely misleading
+迷魂 | TRADUÇÃO: to bewitch/to enchant/to cast a spell over sb
+迷魂汤 | TRADUÇÃO: potion given to souls before they are reincarnated, which makes them forget their previous life (aka 孟婆湯|孟婆汤)/magic potion; (fig.) bewitching words or actions
+迷魂药 | TRADUÇÃO: magic potion; (fig.) bewitching words or actions/knockout drug/ecstasy; MDMA
+迷魂阵 | TRADUÇÃO: stratagem to trap sb/to bewitch and trap
+迷魂香 | TRADUÇÃO: a kind of sleeping gas or smoke used by thieves to incapacitate victims
+迷鸟 | TRADUÇÃO: vagrant bird (a migrating bird which has lost its way)/a vagrant
+迸 | TRADUÇÃO: to burst forth/to spurt/to crack/split
+迸流 | TRADUÇÃO: to gush/to spurt
+迸发 | TRADUÇÃO: to burst forth
+迸裂 | TRADUÇÃO: to split/to crack/to burst (open)
+迺 | TRADUÇÃO: variant of 乃 (used as a surname, in given names or in place names)
+迻 | TRADUÇÃO: to shift/to transfer
+追 | TRADUÇÃO: to sculpt/to carve/musical instrument (old) ‖ to chase/to pursue/to look into/to investigate/to reminisce/to recall/to court (one's beloved)/to binge-watch (a TV drama)/retroactively/posthumously
+追上 | TRADUÇÃO: to overtake
+追亡逐北 | TRADUÇÃO: to pursue and attack a fleeing enemy
+追债 | TRADUÇÃO: to demand repayment of a debt; to collect a debt
+追光 | TRADUÇÃO: (theater) spotlight
+追光灯 | TRADUÇÃO: (theater) spotlight/followspot
+追剿 | TRADUÇÃO: to pursue and eliminate/to suppress
+追剧 | TRADUÇÃO: to watch a TV series etc regularly/to binge-watch
+追加 | TRADUÇÃO: to add something extra/an additional increment/addendum/to append/an additional posthumous title
+追加剂 | TRADUÇÃO: (Tw) (vaccine) booster dose/booster shot
+追名逐利 | TRADUÇÃO: (idiom) to seek fame and wealth
+追问 | TRADUÇÃO: to question closely/to investigate in detail/to examine minutely/to get to the heart of the matter
+追回 | TRADUÇÃO: to recover (sth lost or stolen)/to get back
+追梦 | TRADUÇÃO: to chase a dream; to pursue one's dreams
+追奔逐北 | TRADUÇÃO: see 追亡逐北
+追客 | TRADUÇÃO: avid fan who anxiously awaits new content
+追封 | TRADUÇÃO: to confer a posthumous title
+追尊 | TRADUÇÃO: posthumous honorific name
+追寻 | TRADUÇÃO: to pursue/to track down/to search
+追寻现代中国 | TRADUÇÃO: In Search of Modern China by Jonathan D Spence 史景遷|史景迁
+追尾 | TRADUÇÃO: to tailgate/to hit the car in front as a result of tailgating
+追念 | TRADUÇÃO: to recollect
+追思 | TRADUÇÃO: memorial/recollection (of the deceased)
+追思会 | TRADUÇÃO: memorial service/memorial meeting
+追悔 | TRADUÇÃO: to repent/remorse
+追悔莫及 | TRADUÇÃO: too late for regrets (idiom); It is useless to repent after the event.
+追悼 | TRADUÇÃO: to mourn; to pay last respects
+追悼文 | TRADUÇÃO: eulogy
+追悼会 | TRADUÇÃO: memorial service/funeral service
+追想 | TRADUÇÃO: to recall
+追忆 | TRADUÇÃO: to recollect/to recall (past times)/to look back
+追怀 | TRADUÇÃO: to recall/to bring to mind/to reminisce
+追打 | TRADUÇÃO: to chase and beat
+追捕 | TRADUÇÃO: to pursue/to be after/to hunt down
+追捧 | TRADUÇÃO: to exhibit great enthusiasm for sb or sth; to embrace/favor; acclaim; adulation; high demand
+追授 | TRADUÇÃO: to posthumously award
+追击 | TRADUÇÃO: to pursue and attack
+追叙 | TRADUÇÃO: to recount what happened prior to events already known
+追新 | TRADUÇÃO: to seek out the new (e.g. the latest tech products)
+追星 | TRADUÇÃO: to idolize a celebrity
+追星族 | TRADUÇÃO: passionate fan (of a celebrity); stan
+追本溯源 | TRADUÇÃO: to trace sth back to its origin
+追本穷源 | TRADUÇÃO: see 追本溯源
+追查 | TRADUÇÃO: to try to find out; to trace; to track down
+追根 | TRADUÇÃO: to trace sth back to its source/to get to the bottom of sth
+追根问底 | TRADUÇÃO: lit. to examine roots and inquire at the base (idiom); to get to the bottom of sth
+追根寻底 | TRADUÇÃO: see 追根究底
+追根求源 | TRADUÇÃO: to track sth to its roots
+追根溯源 | TRADUÇÃO: to pursue sth back to its origins/to trace back to the source/to get to the bottom of sth
+追根究底 | TRADUÇÃO: to get to the heart of the matter
+追根究底儿 | TRADUÇÃO: erhua variant of 追根究底
+追歼 | TRADUÇÃO: to pursue and kill/to wipe out
+追杀 | TRADUÇÃO: to chase to kill
+追比 | TRADUÇÃO: to flog/to cane (as punishment)
+追求 | TRADUÇÃO: to pursue (a goal etc) stubbornly/to seek after/to woo
+追溯 | TRADUÇÃO: lit. to go upstream/to trace sth back to/to date from
+追究 | TRADUÇÃO: to investigate/to look into
+追索 | TRADUÇÃO: to demand payment/to extort/to trace/to seek/to pursue/to explore
+追缉 | TRADUÇÃO: to pursue/to be after/to hunt down (the perpetrator of a crime, an escaped prisoner etc)
+追缴 | TRADUÇÃO: to recover (stolen property)/to pursue and force sb to give back the spoils
+追肥 | TRADUÇÃO: top soil dressing/additional fertilizer
+追荐 | TRADUÇÃO: to pray for the soul of a deceased
+追补 | TRADUÇÃO: a supplement/additional budget
+追讨 | TRADUÇÃO: to demand payment of money owing
+追记 | TRADUÇÃO: to award posthumously/to write down afterwards/retrospective account
+追诉 | TRADUÇÃO: to prosecute/given leave to sue
+追诉时效 | TRADUÇÃO: (law) period during which one can prosecute or sue sb (as stipulated by a statute of limitations)
+追询 | TRADUÇÃO: to interrogate/to question closely
+追认 | TRADUÇÃO: to recognize sth after the event/posthumous recognition/to ratify/to endorse retroactively
+追谥 | TRADUÇÃO: to grant a posthumous honorary title or name
+追责 | TRADUÇÃO: to hold accountable
+追购 | TRADUÇÃO: to purchase in addition (an extra item)
+追赠 | TRADUÇÃO: to give to the departed/to confer (a title) posthumously
+追赃 | TRADUÇÃO: to order the return of stolen goods
+追赶 | TRADUÇÃO: to pursue/to chase after/to accelerate/to catch up with/to overtake
+追踪 | TRADUÇÃO: to track; to trace; to follow up/(HK, Tw) to follow (on social media)
+追踪报导 | TRADUÇÃO: follow-up report
+追踪号码 | TRADUÇÃO: tracking number (of a package shipment)
+追踪调查 | TRADUÇÃO: follow-up study/investigative follow-up
+追蹑 | TRADUÇÃO: to follow the trail of/to track/to trace

@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+时运不济 | TRADUÇÃO: la suerte es adversa (modismo)/los augurios no son buenos/mala racha
+时运亨通 | TRADUÇÃO: la suerte está de nuestro lado (modismo)/todo va viento en popa/tener buena fortuna
+时过境迁 | TRADUÇÃO: las cosas cambian con el paso del tiempo (modismo)/las circunstancias han cambiado
+时针 | TRADUÇÃO: manecilla de las horas/horario (del reloj)
+时钟 | TRADUÇÃO: reloj
+时钟座 | TRADUÇÃO: Horologium (constelación)/el Reloj
+时长 | TRADUÇÃO: duración
+时间 | TRADUÇÃO: tiempo/duración/momento
+时间不早了 | TRADUÇÃO: se hace tarde/ya es tarde
+时间区间 | TRADUÇÃO: intervalo de tiempo
+时间囊 | TRADUÇÃO: cápsula del tiempo
+时间差 | TRADUÇÃO: diferencia de tiempo/diferencia horaria/desfase temporal/(voleibol) ataque con desfase temporal (forma abreviada de 時間差攻擊|时间差攻击)/(por extensión) ventaja derivada de una diferencia temporal
+时间差攻击 | TRADUÇÃO: (voleibol) ataque con desfase temporal
+时间序列 | TRADUÇÃO: serie temporal (estad.)/serie de tiempo
+时间戳 | TRADUÇÃO: marca de tiempo/marca temporal
+时间是把杀猪刀 | TRADUÇÃO: (lit.) el tiempo es un cuchillo de carnicero/(fig.) el tiempo pasa implacable/el tiempo no perdona a nadie
+时间测定学 | TRADUÇÃO: cronometría
+时间简史 | TRADUÇÃO: "Breve historia del tiempo" de Stephen Hawking
+时间线 | TRADUÇÃO: cronología/línea de tiempo
+时间胶囊 | TRADUÇÃO: cápsula del tiempo
+时间表 | TRADUÇÃO: horario/cronograma
+时间轴 | TRADUÇÃO: eje cronológico/línea de tiempo/eje temporal
+时间进程 | TRADUÇÃO: curso temporal/desarrollo en el tiempo
+时间点 | TRADUÇÃO: punto en el tiempo/momento determinado
+时限 | TRADUÇÃO: límite de tiempo/plazo
+时隔 | TRADUÇÃO: tras un intervalo de/después de un período de tiempo
+时隐时现 | TRADUÇÃO: aparecer y desaparecer alternativamente (modismo)/visible intermitentemente
+时雍 | TRADUÇÃO: concordia/armonía
+时显时隐 | TRADUÇÃO: aparecer y desaparecer alternativamente/visible intermitentemente
+时髦 | TRADUÇÃO: de moda/moderno/elegante
+时点 | TRADUÇÃO: punto temporal/momento específico
+晃动 | TRADUÇÃO: sacudir/balancear/mecer/tambalearse
+晃悠 | TRADUÇÃO: balancearse/bambolearse/vagar/merodear
+晃晃悠悠 | TRADUÇÃO: tambaleante/bamboleante
+晃荡 | TRADUÇÃO: mecerse/balancearse/sacudirse/vagar
+晄 | TRADUÇÃO: variante antigua de 晃
+晅 | TRADUÇÃO: luz del sol/secar al sol
+晋 | TRADUÇÃO: apellido Jin/las dinastías Jin (265–420)/Jin Occidental 西晉|西晋 (265–316), Jin Oriental 東晉|东晋 (317–420) y dinastía Jin Posterior (936–946)/nombre abreviado de Shanxi 山西 ‖ avanzar/promover/ascender
+晋中 | TRADUÇÃO: véase 晉中市|晋中市
+晋中市 | TRADUÇÃO: Jinzhong, ciudad-prefectura en la provincia de Shanxi 山西省
+晋代 | TRADUÇÃO: dinastía Jin (265-420)
+晋升 | TRADUÇÃO: ascender/promover a un cargo superior
+晋城 | TRADUÇÃO: véase 晉城市|晋城市
+晋城市 | TRADUÇÃO: Jincheng, ciudad-prefectura en la provincia de Shanxi 山西省
+晋安 | TRADUÇÃO: véase 晉安區|晋安区
+晋安区 | TRADUÇÃO: Jin'an, distrito de la ciudad de Fuzhou 福州市, Fujian
+晋察冀 | TRADUÇÃO: Shanxi 山西, Chahar 察哈爾|察哈尔 y Hebei 河北 (tres provincias de la República de China en el período 1912-1936)
+晋宁 | TRADUÇÃO: véase 晉寧區|晋宁区
+晋宁区 | TRADUÇÃO: Jinning, distrito de la ciudad de Kunming 昆明市, Yunnan
+晋州 | TRADUÇÃO: véase 晉州市|晋州市/prefectura de Jin, establecida bajo la dinastía Wei del Norte en 528, centrada en la actual Linfen 臨汾市|临汾市 en Shanxi
+晋州市 | TRADUÇÃO: Jinzhou, ciudad a nivel de condado en la ciudad de Shijiazhuang 石家莊市|石家庄市, Hebei
+晋惠帝 | TRADUÇÃO: emperador Hui de Jin (259-307), nombre personal Sima Zhong 司馬衷|司马衷, segundo emperador de la dinastía Jin 晉朝|晋朝, reinó del 290 al 307
+晋文公 | TRADUÇÃO: duque Wen de Jin (697-628 a. C., reinó del 636 al 628 a. C.), uno de los Cinco Hegemóns 春秋五霸
+晋书 | TRADUÇÃO: Libro de Jin, quinta de las 24 historias dinásticas 二十四史, compilada bajo Fang Xuanling 房玄齡|房玄龄 en 648 durante la dinastía Tang 唐朝, 130 rollos
+晋朝 | TRADUÇÃO: dinastía Jin (265-420)
+晋江 | TRADUÇÃO: véase 晉江市|晋江市
+晋江市 | TRADUÇÃO: Jinjiang, ciudad a nivel de condado en la ciudad de Quanzhou 泉州市, Fujian
+晋源 | TRADUÇÃO: véase 晉源區|晋源区
+晋源区 | TRADUÇÃO: Jinyuan, distrito de la ciudad de Taiyuan 太原市, Shanxi
+晋爵 | TRADUÇÃO: ascender a la nobleza/elevar de rango nobiliario
+晋级 | TRADUÇÃO: ascender de rango/promoción/clasificarse (a la siguiente ronda)
+晋县 | TRADUÇÃO: condado de Jin en Hebei
+晋见 | TRADUÇÃO: tener una audiencia con/ser recibido por
+晋铎 | TRADUÇÃO: (catolicismo) ordenarse como sacerdote
+晌 | TRADUÇÃO: parte del día/mediodía
+晌午 | TRADUÇÃO: mediodía
+晏 | TRADUÇÃO: apellido Yan ‖ tardío/tranquilo/apacible
+晏婴 | TRADUÇÃO: Yan Ying (hacia 500 a. C.), famoso estadista de Qi durante las Primaveras y Otoños, también conocido como Yanzi 晏子, protagonista del libro Yanzi Chunqiu 晏子春秋
+晏子 | TRADUÇÃO: Yanzi (hacia 500 a. C.), famoso estadista del estado de Qi 齊國|齐国, también conocido como Yan Ying 晏嬰|晏婴, protagonista del libro Yanzi Chunqiu 晏子春秋
+晏子春秋 | TRADUÇÃO: Anales del Maestro Yan, libro que describe la vida y sabiduría de Yanzi 晏子 (hacia 500 a. C.), estadista de Qi
+晏平仲 | TRADUÇÃO: otro nombre de Yan Ying 晏嬰|晏婴 o Yanzi 晏子 (hacia 500 a. C.), famoso estadista de Qi 齊國|齐国
+晏驾 | TRADUÇÃO: fallecer (exclusivo del emperador)
+晑 | TRADUÇÃO: brillante/claro
+晒 | TRADUÇÃO: variante de 曬|晒 ‖ (del sol) brillar sobre/tomar el sol/secar al sol (ropa, grano, etc.)/(fig.) exponer y compartir (experiencias y opiniones) en la red (préstamo de "share")/(coloq.) ignorar a alguien/dar la espalda a alguien
+晗 | TRADUÇÃO: antes del amanecer/a punto de amanecer/(usado en nombres propios)
+晙 | TRADUÇÃO: (literario) mañana temprana/(literario) brillante/(usado en nombres)
+晚 | TRADUÇÃO: tarde/noche/tardío
+晚上 | TRADUÇÃO: por la noche/tarde/noche/CL:個|个
+晚上好 | TRADUÇÃO: ¡buenas noches!/¡buenas tardes!
+晚世 | TRADUÇÃO: época contemporánea/tiempos modernos/en la actualidad
+晚半天儿 | TRADUÇÃO: atardecer/última hora de la tarde
+晚报 | TRADUÇÃO: periódico vespertino/diario de la tarde
+晚场 | TRADUÇÃO: función nocturna (de cine, teatro, etc.)/sesión de noche
+晚婚晚育 | TRADUÇÃO: casarse tarde y tener hijos a una edad tardía
+晚安 | TRADUÇÃO: ¡buenas noches!
+晚宴 | TRADUÇÃO: banquete nocturno/cena de gala/velada
+晚年 | TRADUÇÃO: últimos años de vida/vejez
+晚晌 | TRADUÇÃO: atardecer/noche
+晚景 | TRADUÇÃO: paisaje crepuscular/circunstancias de la vejez
+晚会 | TRADUÇÃO: velada/fiesta nocturna/gala nocturna/CL:個|个
+晚期 | TRADUÇÃO: fase tardía/etapa final/terminal
+晚期癌症 | TRADUÇÃO: cáncer terminal/cáncer en fase avanzada
+晚归 | TRADUÇÃO: regresar tarde a casa/volver tarde
+晚清 | TRADUÇÃO: dinastía Qing tardía/China de finales del siglo XIX y principios del XX
+晚熟 | TRADUÇÃO: (de cosechas o personas) de maduración tardía/maduración tardía
+晚班 | TRADUÇÃO: turno nocturno/turno de noche
+晚生 | TRADUÇÃO: yo (autodespectivo, frente a personas mayores) (ant.)
+晚礼服 | TRADUÇÃO: vestido de noche/traje de etiqueta
+晚祷 | TRADUÇÃO: oración vespertina/vísperas
+晚节不保 | TRADUÇÃO: (modismo) manchar la propia reputación al final de la vida/perder la integridad en la vejez
+晚育 | TRADUÇÃO: maternidad tardía/tener hijos a edad avanzada
+晚自习 | TRADUÇÃO: sesión de autoestudio nocturno/estudio vespertino
+晚车 | TRADUÇÃO: tren nocturno
+晚辈 | TRADUÇÃO: generación más joven/descendientes/los menores
+晚近 | TRADUÇÃO: reciente/últimamente/en tiempos recientes
+晚间 | TRADUÇÃO: noche/por la noche/durante la noche
+晚霞 | TRADUÇÃO: resplandor del atardecer/nubes crepusculares
+晚饭 | TRADUÇÃO: cena/CL:份,頓|顿,次,餐
+晚餐 | TRADUÇÃO: cena/comida de la noche/CL:份,頓|顿,次
+晚点 | TRADUÇÃO: (de trenes, aviones, etc.) retrasarse/llegar con retraso/cena ligera
+𬀪 | TRADUÇÃO: aparecer (el sol)
+晜 | TRADUÇÃO: descendiente/hermano mayor
+昼 | TRADUÇÃO: día/horas diurnas
+昼伏夜出 | TRADUÇÃO: nocturno/esconderse de día y salir de noche
+昼夜 | TRADUÇÃO: día y noche/las 24 horas/continuamente sin parar
+昼夜平分点 | TRADUÇÃO: equinoccio
+昼夜节律 | TRADUÇÃO: ritmo circadiano
+昼行性 | TRADUÇÃO: diurnidad/diurno
+晞 | TRADUÇÃO: amanecer/secar al sol
+晟 | TRADUÇÃO: apellido Cheng ‖ brillo del sol/esplendor/también pronunciado [cheng2]
+晡 | TRADUÇÃO: entre 3 y 5 de la tarde
+晢 | TRADUÇÃO: brillante/claro
+晤 | TRADUÇÃO: reunirse/encontrarse
+晤谈 | TRADUÇÃO: conversar cara a cara/reunión/entrevista
+晤面 | TRADUÇÃO: encontrarse en persona/reunirse con alguien
+晥 | TRADUÇÃO: variante antigua de 皖
+晦 | TRADUÇÃO: (forma ligada) último día del mes lunar/(forma ligada) oscuro/sombrío/(literario) noche
+晦暗 | TRADUÇÃO: oscuro y sombrío/tenebroso
+晦气 | TRADUÇÃO: mala suerte/desafortunado/nefasto
+晦涩 | TRADUÇÃO: difícil de entender/críptico/oscuro
+晨 | TRADUÇÃO: mañana/alba/madrugada
+晨勃 | TRADUÇÃO: erección matutina
+晨报 | TRADUÇÃO: periódico matutino/diario de la mañana
+晨昏 | TRADUÇÃO: mañana y anochecer/día y noche
+晨昏定省 | TRADUÇÃO: visitas de saludo matutinas y vespertinas a los padres/compárese con 昏定晨省
+晨星 | TRADUÇÃO: estrellas matutinas/lucero del alba
+晨曦 | TRADUÇÃO: primeros rayos del sol matutino/primeras luces del alba
+晨歌 | TRADUÇÃO: canto matinal (de aves)/aubada
+晨祷 | TRADUÇÃO: maitines (anglicano)/laudes (católico)/oración matutina
+晨练 | TRADUÇÃO: ejercicios matutinos
+晨跑 | TRADUÇÃO: salir a correr por la mañana
+晨钟暮鼓 | TRADUÇÃO: (lit.) campana matutina y tambor vespertino, que simbolizan la vida monástica (modismo)/(fig.) estímulo para estudiar o progresar
+晨间 | TRADUÇÃO: matutino/de la mañana
+晨露 | TRADUÇÃO: rocío matutino
+晩 | TRADUÇÃO: variante de 晚
+晪 | TRADUÇÃO: (literario) brillante
+晫 | TRADUÇÃO: (literario) esplendoroso
+晬 | TRADUÇÃO: primer cumpleaños de un niño
+普 | TRADUÇÃO: general/universal/popular/en todas partes
+普丁 | TRADUÇÃO: (Taiwán) Vladímir Putin (1952-), presidente de Rusia
+普世 | TRADUÇÃO: universal/mundial
+普京 | TRADUÇÃO: Vladímir Putin (1952-), presidente de Rusia
+普什图语 | TRADUÇÃO: idioma pastún/lengua pastún
+普信 | TRADUÇÃO: (jerga de internet) excesivamente confiado a pesar de ser mediocre
+普信男 | TRADUÇÃO: (neologismo) hombre ordinario que se cree irresistible para las mujeres
+普列谢茨克 | TRADUÇÃO: Plesetsk, asentamiento en el óblast de Arcángel, Rusia
+普列谢茨克卫星发射场 | TRADUÇÃO: cosmódromo de Plesetsk, óblast de Arcángel, Rusia
+普利司通 | TRADUÇÃO: Bridgestone (empresa de neumáticos)
+普利托里亚 | TRADUÇÃO: Pretoria, capital de Sudáfrica (Taiwán)
+普利策奖 | TRADUÇÃO: Premio Pulitzer
+普利茅斯 | TRADUÇÃO: Plymouth
+普加乔夫 | TRADUÇÃO: Yemelián Pugachov (1742-1775), cosaco ruso, líder de la rebelión campesina de 1773-1775 contra Catalina la Grande
+普及 | TRADUÇÃO: popularizar/generalizar/difundir ampliamente/generalizado/universal/omnipresente
+普吉 | TRADUÇÃO: Phuket (ciudad de Tailandia)
+普埃布拉 | TRADUÇÃO: Puebla, ciudad al sureste de la Ciudad de México/término para plantas con epíteto específico pueblensis, como Tillandsia pueblensis o Echeveria pueblensis
+普外科 | TRADUÇÃO: (med.) cirugía general (abrev. de 普通外科)
+普天下 | TRADUÇÃO: en todo el mundo/por todo el orbe
+普天之下 | TRADUÇÃO: (modismo) bajo todo el cielo/en el mundo entero/por todo el mundo
+普天同庆 | TRADUÇÃO: celebración universal/regocijo de todo el pueblo
+普契尼 | TRADUÇÃO: Puccini
+普安 | TRADUÇÃO: véase 普安縣|普安县
+普安县 | TRADUÇÃO: Pu'an, condado en la prefectura autónoma buyi y miao de Qianxinan 黔西南布依族苗族自治州, Guizhou
+普定 | TRADUÇÃO: véase 普定縣|普定县
+普定县 | TRADUÇÃO: Puding, condado en la ciudad de Anshun 安順市|安顺市, Guizhou
+普密蓬·阿杜德 | TRADUÇÃO: Bhumibol Adulyadej (1927-2016), rey de Tailandia de 1946 a 2016
+普宁 | TRADUÇÃO: véase 普寧市|普宁市
+普宁市 | TRADUÇÃO: Puning, ciudad a nivel de condado en la ciudad de Jieyang 揭陽市|揭阳市, Guangdong
+普布斯 | TRADUÇÃO: Tillandsia pueblensis, especie de planta aérea
+普希金 | TRADUÇÃO: Aleksandr Pushkin (1799-1837), célebre poeta romántico ruso
+普度众生 | TRADUÇÃO: (budismo) salvar a todos los seres vivos del sufrimiento (modismo)
+普惠 | TRADUÇÃO: inclusivo/accesible y asequible para todos
+普拉 | TRADUÇÃO: Pula (ciudad de Croacia)
+普拉亚 | TRADUÇÃO: Praia, capital de Cabo Verde
+普拉提 | TRADUÇÃO: pilates (sistema de entrenamiento físico)
+普拉提斯 | TRADUÇÃO: véase 普拉提
+普拉达 | TRADUÇÃO: Prada (marca)
+普普艺术 | TRADUÇÃO: (Taiwán) arte pop
+普普通通 | TRADUÇÃO: común y corriente/ordinario/nada especial
+普朗克 | TRADUÇÃO: Max Planck (1858-1947), físico alemán
+普朗克常数 | TRADUÇÃO: (física) constante de Planck h, aproximadamente 6,626 x 10⁻³⁴ julios por segundo
+普林 | TRADUÇÃO: (Taiwán) purina
+普林斯顿 | TRADUÇÃO: Princeton, Nueva Jersey
+普林斯顿大学 | TRADUÇÃO: Universidad de Princeton
+普查 | TRADUÇÃO: censo/estudio general/investigación general/sondeo
+普格 | TRADUÇÃO: véase 普格縣|普格县
+普格县 | TRADUÇÃO: Puge, condado en la prefectura autónoma yi de Liangshan 涼山彝族自治州|凉山彝族自治州, Sichuan
+普桑 | TRADUÇÃO: Volkswagen Santana modelo clásico basado en Passat B2/Poussin (nombre)
+普氏 | TRADUÇÃO: Nikolai Przhevalski 普爾熱瓦爾斯基|普尔热瓦尔斯基 (1839-1888), explorador ruso
+普氏小羚羊 | TRADUÇÃO: gacela de Przewalski (Procapra przewalskii) de Asia Central
+普氏立克次体 | TRADUÇÃO: Rickettsia prowazekii
+普氏野马 | TRADUÇÃO: caballo de Przewalski (Equus przewalskii), caballo salvaje de Asia Central
+普法 | TRADUÇÃO: difundir el conocimiento de las leyes/popularizar la ley
+普法战争 | TRADUÇÃO: guerra franco-prusiana (1870-1871)
+普洱 | TRADUÇÃO: véase 普洱市/véase 普洱茶
+普洱市 | TRADUÇÃO: Pu'er, ciudad-prefectura en la provincia de Yunnan 雲南省|云南省
+普洱茶 | TRADUÇÃO: té pu'er, tipo de té fermentado de la región de Pu'er en el suroeste de Yunnan
+普渡 | TRADUÇÃO: (budismo, taoísmo) liberar a todos los seres del sufrimiento/(Taiwán) ritual de ofrendas a espíritus errantes (abrev. de 中元普渡)
+普渡大学 | TRADUÇÃO: Universidad Purdue
+普济众生 | TRADUÇÃO: misericordia y auxilio universales (modismo)/salvación universal del Buda
+普照 | TRADUÇÃO: (de la luz solar) bañar todo con su luz/iluminar ampliamente
+普尔热瓦尔斯基 | TRADUÇÃO: Nikolai Przhevalski (1839-1888), explorador ruso/abrev. como 普氏
+普立兹奖 | TRADUÇÃO: Premio Pulitzer (Taiwán)
+普米 | TRADUÇÃO: etnia pumi
+普米族 | TRADUÇÃO: etnia pumi
+普级 | TRADUÇÃO: (clasificación) general/no especializado
+普罗 | TRADUÇÃO: proletariado/abrev. de 普羅列塔利亞|普罗列塔利亚
+普罗列塔利亚 | TRADUÇÃO: proletariado
+普罗大众 | TRADUÇÃO: las masas populares/el proletariado/el pueblo llano
+普罗夫迪夫 | TRADUÇÃO: Plovdiv, ciudad de Bulgaria
+普罗扎克 | TRADUÇÃO: Prozac (fluoxetina)
+普罗提诺 | TRADUÇÃO: Plotino (204-270), filósofo neoplatónico
+普罗旺斯 | TRADUÇÃO: Provenza (sur de Francia)
+普罗旺斯语 | TRADUÇÃO: idioma provenzal/lengua provenzal
+普罗科菲夫 | TRADUÇÃO: Serguéi Prokófiev (1891-1953), compositor ruso
+普罗米修斯 | TRADUÇÃO: Prometeo, titán del fuego en la mitología griega
+普罗维登斯 | TRADUÇÃO: Providence, capital de Rhode Island
+普罗迪 | TRADUÇÃO: (apellido) Prodi
+普考 | TRADUÇÃO: examen general para puestos de nivel básico en la administración pública de Taiwán (abrev. de 普通考試|普通考试)
+普莱斯 | TRADUÇÃO: Price (nombre)
+普莱费尔 | TRADUÇÃO: (apellido) Playfair
+普萘洛尔 | TRADUÇÃO: propranolol (betabloqueante para tratar la hipertensión)
+普兰 | TRADUÇÃO: véase 普蘭縣|普兰县
+普兰店 | TRADUÇÃO: véase 普蘭店區|普兰店区
+普兰店区 | TRADUÇÃO: Pulandian, distrito de la ciudad de Dalian 大連市|大连市, Liaoning
+普兰县 | TRADUÇÃO: Purang, condado en la prefectura de Ngari 阿里地區|阿里地区, Tíbet
+普西 | TRADUÇÃO: psi (letra griega Ψψ)
+普贤 | TRADUÇÃO: Samantabhadra, señor budista de la verdad
+普贤菩萨 | TRADUÇÃO: Bodisatva Samantabhadra
+普赛 | TRADUÇÃO: psi (letra griega Ψψ)
+普通 | TRADUÇÃO: común/ordinario/general/corriente
+普通中学 | TRADUÇÃO: escuela secundaria general
+普通人 | TRADUÇÃO: persona común/persona de a pie/ciudadano común
+普通名词 | TRADUÇÃO: sustantivo común (gram.)/nombre común
+普通夜鹰 | TRADUÇÃO: (especie de ave de China) chotacabras de Jung (Caprimulgus jotaka)
+普通教育 | TRADUÇÃO: educación general
+普通朱雀 | TRADUÇÃO: (especie de ave de China) camachuelo carminoso (Carpodacus erythrinus)
+普通楼燕 | TRADUÇÃO: (especie de ave de China) vencejo común (Apus apus)
+普通民众 | TRADUÇÃO: el pueblo común/las masas/la gente común
+普通法 | TRADUÇÃO: derecho anglosajón/common law
+普通海鸥 | TRADUÇÃO: (especie de ave de China) gaviota cana (Larus canus)
+普通潜鸟 | TRADUÇÃO: (especie de ave de China) colimbo grande (Gavia immer)
+普通燕鸻 | TRADUÇÃO: (especie de ave de China) canastera oriental (Glareola maldivarum)
+普通燕鸥 | TRADUÇÃO: (especie de ave de China) charrán común (Sterna hirundo)
+普通秋沙鸭 | TRADUÇÃO: (especie de ave de China) serreta grande (Mergus merganser)
+普通秧鸡 | TRADUÇÃO: (especie de ave de China) rascón indio (Rallus indicus)
+普通翠鸟 | TRADUÇÃO: (especie de ave de China) martín pescador común (Alcedo atthis)
+普通老百姓 | TRADUÇÃO: gente común/gente corriente/el pueblo llano
+普通股 | TRADUÇÃO: acción ordinaria
+普通角闪石 | TRADUÇÃO: hornblenda (mineral formador de rocas, tipo de anfíbol)
+普通话 | TRADUÇÃO: putonghua/mandarín estándar
+普通话水平测试 | TRADUÇÃO: Examen de Nivel de Putonghua (prueba oficial de fluidez en chino estándar para hablantes nativos, creada en China en 1994)
+普通赤杨 | TRADUÇÃO: aliso negro (Alnus glutinosa)/aliso común
+普通车 | TRADUÇÃO: tren local/vehículo ordinario
+普通高中 | TRADUÇÃO: escuela secundaria superior general/bachillerato general
+普通高等学校招生全国统一考试 | TRADUÇÃO: Examen Nacional de Admisión a la Educación Superior de China/conocido comúnmente como Gaokao 高考
+普通䴓 | TRADUÇÃO: (especie de ave de China) trepador azul (Sitta europaea)
+普通𫛭 | TRADUÇÃO: (especie de ave de China) busardo oriental (Buteo japonicus)
+普通鹰鹃 | TRADUÇÃO: (especie de ave de China) cuclillo gavilán común (Hierococcyx varius)
+普通鸬鹚 | TRADUÇÃO: (especie de ave de China) cormorán grande (Phalacrocorax carbo)
+普遍 | TRADUÇÃO: universal/general/extendido/común
+普遍化 | TRADUÇÃO: generalización (lógica)
+普遍性 | TRADUÇÃO: universalidad/omnipresencia
+普遍性假设 | TRADUÇÃO: hipótesis universal
+普适 | TRADUÇÃO: universal/de aplicación universal
+普选 | TRADUÇÃO: sufragio universal
+普选权 | TRADUÇÃO: derecho al sufragio universal
+普里什蒂纳 | TRADUÇÃO: Pristina, capital de Kosovo 科索沃
+普里切特 | TRADUÇÃO: Pratchett (nombre)
+普陀 | TRADUÇÃO: véase 普陀區|普陀区
+普陀区 | TRADUÇÃO: distrito de Putuo en Shanghái/distrito de Putuo en la ciudad de Zhoushan 舟山市, Zhejiang
+普陀山 | TRADUÇÃO: monte Putuo en Zhoushan 舟山市, Zhejiang, una de las Cuatro Montañas Sagradas y morada de Guanyin 觀音|观音 (Avalokiteshvara)
+普降 | TRADUÇÃO: precipitación generalizada/lluvia extensa
+普雷克斯流程 | TRADUÇÃO: proceso PUREX
+普雷斯堡 | TRADUÇÃO: Presburgo (Bratislava, Eslovaquia)
+普雷斯顿 | TRADUÇÃO: Preston, ciudad de Inglaterra
+普食 | TRADUÇÃO: (med.) dieta ordinaria/dieta general
+普高 | TRADUÇÃO: escuela secundaria superior general (abrev. de 普通高中)
+普鲁卡因 | TRADUÇÃO: procaína (anestésico local)
+普鲁士 | TRADUÇÃO: Prusia (estado histórico alemán)
+普鲁斯特 | TRADUÇÃO: Marcel Proust (1871-1922), escritor francés
+普鲁东 | TRADUÇÃO: Pierre-Joseph Proudhon (1809-1865), filósofo socialista francés
+普鲁东主义 | TRADUÇÃO: proudhonismo (teoría socialista del siglo XIX)
+景 | TRADUÇÃO: apellido Jing ‖ (forma ligada) paisaje/vista/escenario/circunstancia/situación/acto o escena (teatral)/(literario) luz solar
+景仰 | TRADUÇÃO: admirar/venerar/respetar profundamente
+景区 | TRADUÇÃO: zona escénica/área paisajística/atracción turística
+景宁 | TRADUÇÃO: véase 景寧畲族自治縣|景宁畲族自治县
+景宁畲族自治县 | TRADUÇÃO: condado autónomo she de Jingning, en la ciudad de Lishui 麗水市|丽水市, Zhejiang
+景宁县 | TRADUÇÃO: véase 景寧畲族自治縣|景宁畲族自治县
+景山 | TRADUÇÃO: Jingshan (colina en el parque Jingshan)
+景山公园 | TRADUÇÃO: parque Jingshan (en Pekín)
+景德镇 | TRADUÇÃO: véase 景德鎮市|景德镇市
+景德镇市 | TRADUÇÃO: Jingdezhen, ciudad-prefectura en la provincia de Jiangxi 江西省
+景教 | TRADUÇÃO: nestorianismo/cristianismo nestoriano
+景东 | TRADUÇÃO: véase 景東彝族自治縣|景东彝族自治县
+景东彝族自治县 | TRADUÇÃO: condado autónomo yi de Jingdong, en la ciudad de Pu'er 普洱市, Yunnan
+景东县 | TRADUÇÃO: véase 景東彝族自治縣|景东彝族自治县
+景气 | TRADUÇÃO: (de la economía o comercio) próspero/floreciente/bonanza económica
+景况 | TRADUÇÃO: circunstancias/situación económica
+景泰 | TRADUÇÃO: véase 景泰縣|景泰县/emperador Jingtai, nombre de era del séptimo emperador Ming Zhu Qiyu 朱祁鈺|朱祁钰 (1428-1457), reinó de 1449 a 1457, nombre de templo Daizong 代宗
+景泰县 | TRADUÇÃO: Jingtai, condado en la ciudad de Baiyin 白銀市|白银市, Gansu
+景泰蓝 | TRADUÇÃO: esmalte alveolado/cloisonné
+景洪 | TRADUÇÃO: véase 景洪市
+景洪市 | TRADUÇÃO: Jinghong, ciudad a nivel de condado en la prefectura autónoma dai de Xishuangbanna 西雙版納傣族自治州|西双版纳傣族自治州, Yunnan
+景深 | TRADUÇÃO: profundidad de campo
+景物 | TRADUÇÃO: paisaje/elementos del paisaje
+景福宫 | TRADUÇÃO: palacio de Gyeongbokgung en el centro de Seúl
+景县 | TRADUÇÃO: condado de Jing, en la ciudad de Hengshui 衡水市, Hebei
+景致 | TRADUÇÃO: paisaje/vista/panorama
+景色 | TRADUÇÃO: paisaje/vista/panorama
+景观 | TRADUÇÃO: paisaje/vista paisajística
+景观设计 | TRADUÇÃO: diseño paisajístico/arquitectura del paisaje
+景谷 | TRADUÇÃO: véase 景谷傣族彝族自治縣|景谷傣族彝族自治县
+景谷傣族彝族自治县 | TRADUÇÃO: condado autónomo dai y yi de Jinggu, en la ciudad de Pu'er 普洱市, Yunnan
+景谷县 | TRADUÇÃO: véase 景谷傣族彝族自治縣|景谷傣族彝族自治县
+景象 | TRADUÇÃO: escena/panorama/visión/espectáculo
+景遇 | TRADUÇÃO: (literario) circunstancias/situación vital
+景颇 | TRADUÇÃO: etnia jingpo
+景颇族 | TRADUÇÃO: etnia jingpo
+景点 | TRADUÇÃO: atracción turística/lugar de interés turístico/punto escénico
+晰 | TRADUÇÃO: claro/distinto ‖ variante de 晰
+晳 | TRADUÇÃO: variante de 皙
+晴 | TRADUÇÃO: despejado/soleado/buen tiempo
+晴天 | TRADUÇÃO: día soleado/día despejado
+晴天娃娃 | TRADUÇÃO: teru teru bozu (muñeco tradicional japonés colgado de las ventanas para pedir buen tiempo)
+晴天霹雳 | TRADUÇÃO: (lit.) trueno en cielo despejado (modismo)/(fig.) rayo caído de un cielo sereno/noticia repentina e impactante
+晴好 | TRADUÇÃO: tiempo despejado y soleado
+晴时多云 | TRADUÇÃO: mayormente despejado/parcialmente nublado con intervalos soleados (meteorología)
+晴朗 | TRADUÇÃO: soleado y despejado/claro
+晴空万里 | TRADUÇÃO: cielo completamente despejado y sin nubes
+晴隆 | TRADUÇÃO: véase 晴隆縣|晴隆县
+晴隆县 | TRADUÇÃO: Qinglong, condado en la prefectura autónoma buyi y miao de Qianxinan 黔西南布依族苗族自治州, Guizhou
+晴雨 | TRADUÇÃO: llueva o haga sol/tiempo bueno o malo
+晴雨表 | TRADUÇÃO: barómetro (lit. y fig.)
+晶 | TRADUÇÃO: cristal
+晶亮 | TRADUÇÃO: brillante/reluciente/centelleante
+晶光 | TRADUÇÃO: luz centelleante/destello brillante
+晶圆 | TRADUÇÃO: oblea semiconductora/wafer
+晶振 | TRADUÇÃO: oscilador de cristal
+晶明 | TRADUÇÃO: brillante/transparente y reluciente
+晶晶 | TRADUÇÃO: reluciente/centelleante/resplandeciente
+晶格 | TRADUÇÃO: red cristalina
+晶片 | TRADUÇÃO: (Taiwán) (inform.) chip/microchip
+晶状 | TRADUÇÃO: cristalino/en forma de cristal
+晶状体 | TRADUÇÃO: cristalino (del ojo)/lente cristalina
+晶莹 | TRADUÇÃO: transparente y brillante/centelleante y diáfano
+晶系 | TRADUÇÃO: sistema cristalino
+晶闸管 | TRADUÇÃO: (electrónica) tiristor/rectificador controlado de silicio (SCR)
+晶体 | TRADUÇÃO: cristal/cuerpo cristalino
+晶体管 | TRADUÇÃO: transistor
+晶体结构 | TRADUÇÃO: estructura cristalina
+晷 | TRADUÇÃO: reloj de sol
+智 | TRADUÇÃO: (literario) sabio/sabiduría/inteligencia
+智人 | TRADUÇÃO: Homo sapiens
+智利 | TRADUÇÃO: Chile
+智力 | TRADUÇÃO: inteligencia/intelecto/capacidad intelectual
+智力低下 | TRADUÇÃO: retraso mental/discapacidad intelectual
+智力测验 | TRADUÇÃO: prueba de inteligencia/test de inteligencia
+智力玩具 | TRADUÇÃO: juguete educativo/juguete didáctico
+智取 | TRADUÇÃO: vencer con astucia/tomar mediante artimañas/superar con ingenio
+智商 | TRADUÇÃO: CI (cociente intelectual)
+智商税 | TRADUÇÃO: impuesto a la estupidez/compra insensata de productos sobrevalorados
+智囊团 | TRADUÇÃO: grupo de expertos/laboratorio de ideas/think tank
+智囊机构 | TRADUÇÃO: institución de asesoramiento/laboratorio de ideas/think tank
+智多星 | TRADUÇÃO: persona ingeniosa/cerebro de una operación
+智库 | TRADUÇÃO: laboratorio de ideas/think tank
+智性恋 | TRADUÇÃO: sapiosexualidad
+智慧 | TRADUÇÃO: sabiduría/inteligencia
+智慧型手机 | TRADUÇÃO: teléfono inteligente (Taiwán)/smartphone
+智慧产权 | TRADUÇÃO: propiedad intelectual
+智慧财产 | TRADUÇÃO: propiedad intelectual (Taiwán)
+智慧齿 | TRADUÇÃO: muela del juicio
+智熄 | TRADUÇÃO: (jerga) extremadamente tonto/estupidez insoportable (juego de palabras con 窒息)
+智牙 | TRADUÇÃO: muela del juicio
+智珠在握 | TRADUÇÃO: (lit.) tener en mano la perla de la sabiduría (modismo)/(fig.) poseer una inteligencia y seguridad extraordinarias
+智异山 | TRADUÇÃO: monte Jiri o Jirisan, montaña en el sur de Corea del Sur
+智神星 | TRADUÇÃO: Palas (asteroide descubierto en 1802 por H. W. Olbers)
+智者 | TRADUÇÃO: sabio/persona sabia y entendida
+智者千虑，必有一失 | TRADUÇÃO: (lit.) hasta el sabio que reflexiona mil veces comete un error (modismo)/(fig.) nadie es infalible/hasta el mejor escribano echa un borrón
+智育 | TRADUÇÃO: educación intelectual/desarrollo intelectual
+智能 | TRADUÇÃO: inteligente/capacidad intelectual/inteligencia
+智能卡 | TRADUÇÃO: tarjeta inteligente/smart card
+智能手机 | TRADUÇÃO: teléfono inteligente/smartphone
+智能手表 | TRADUÇÃO: reloj inteligente/smartwatch
+智能设计 | TRADUÇÃO: diseño inteligente (religión)
+智能障碍 | TRADUÇÃO: discapacidad intelectual/trastorno cognitivo
+智能体 | TRADUÇÃO: (inform.) agente inteligente/agente de IA
+智谋 | TRADUÇÃO: ingenio/astucia/recursos intelectuales
+智识 | TRADUÇÃO: conocimiento/saber/intelectual
+智障 | TRADUÇÃO: discapacidad intelectual/retrasado
+智障人士 | TRADUÇÃO: persona con discapacidad intelectual
+智𫖮 | TRADUÇÃO: Zhiyi (538-597), fundador de la escuela Tiantai del budismo
+智驾 | TRADUÇÃO: conducción inteligente (tecnología automotriz, abrev. de 智能駕駛|智能驾驶)
+智齿 | TRADUÇÃO: muela del juicio
+暗 | TRADUÇÃO: variante de 暗 ‖ oscuro/oscurecer/secreto/oculto/(literario) confuso/ignorante ‖ (literario) cerrar (una puerta)/eclipsar/confuso/ignorante (variante de 暗)/oscuro (variante de 暗)
+晾 | TRADUÇÃO: secar al aire/orear/(fig.) ignorar a alguien/dar de lado
+晾干 | TRADUÇÃO: secar al aire/orear hasta secar
+晾晒 | TRADUÇÃO: secar al sol/solear
+晾衣夹 | TRADUÇÃO: pinza para la ropa/pinza de tender
+晾衣架 | TRADUÇÃO: tendedero/tendedero de ropa
+晾衣绳 | TRADUÇÃO: cuerda de tender/cuerda para la ropa
+晿 | TRADUÇÃO: (usado en nombres propios)
+暄 | TRADUÇÃO: cálido y agradable
+暄腾 | TRADUÇÃO: suave y esponjoso (del pan al vapor)
+暆 | TRADUÇÃO: (del sol) declinante/en declive
+暇 | TRADUÇÃO: ocio/tiempo libre
+晕 | TRADUÇÃO: mareado/aturdido/desmayarse/perder el conocimiento ‖ mareado/halo (alrededor del sol o la luna)
+晕乎 | TRADUÇÃO: mareado/aturdido
+晕倒 | TRADUÇÃO: desmayarse/perder el conocimiento/desvanecerse
+晕厥 | TRADUÇÃO: desmayarse/sufrir un síncope
+晕场 | TRADUÇÃO: desmayarse por los nervios (en un examen, en el escenario, etc.)/pánico escénico
+晕染 | TRADUÇÃO: difuminar/difuminado/degradado (técnica de aguada)
+晕机 | TRADUÇÃO: marearse en el avión
+晕死 | TRADUÇÃO: ¡no me digas!/¡qué fastidio!/¡vaya tela!
+晕池 | TRADUÇÃO: marearse o desmayarse en el baño por el calor
+晕眩 | TRADUÇÃO: marearse/mareo/vértigo
+晕碳 | TRADUÇÃO: entrar en coma carbohidrato/sentir somnolencia tras comer muchos carbohidratos
+晕糊 | TRADUÇÃO: mareado/aturdido/confuso
+晕船 | TRADUÇÃO: marearse en barco/sufrir mareo por movimiento marítimo
+晕菜 | TRADUÇÃO: (dialectal) desorientarse/quedar pasmado/marearse
+晕血 | TRADUÇÃO: marearse al ver sangre/tener fobia a la sangre
+晕血症 | TRADUÇÃO: fobia a la sangre/hematofobia
+晕车 | TRADUÇÃO: marearse en el coche/cinetosis
+晕针 | TRADUÇÃO: desmayarse durante la acupuntura o una inyección
+晕头 | TRADUÇÃO: mareado/aturdido
+晕头转向 | TRADUÇÃO: mareado y disorientado/aturdido
+晕高儿 | TRADUÇÃO: tener vértigo por las alturas
+晖 | TRADUÇÃO: luz solar/resplandor/variante de 輝|辉
+晖映 | TRADUÇÃO: variante de 輝映|辉映
+暋 | TRADUÇÃO: triste/preocupado/deprimido ‖ (literario) grosero y desrazonable
+暌 | TRADUÇÃO: en oposición a/separado de
+暌违 | TRADUÇÃO: (literario) estar separado (de un amigo, de la patria, etc.) durante un tiempo
+暌隔 | TRADUÇÃO: (literario) separado/distanciado
+暍 | TRADUÇÃO: insolación/calor sofocante
+𬀩 | TRADUÇÃO: brillo resplandeciente del sol
+暑 | TRADUÇÃO: calor/tiempo caluroso/calor del verano
+暑促 | TRADUÇÃO: promoción de verano/rebajas de verano
+暑假 | TRADUÇÃO: vacaciones de verano/CL:個|个
+暑天 | TRADUÇÃO: día caluroso de verano/días caniculares
+暑期 | TRADUÇÃO: período de vacaciones estivales/temporada de verano
+暑期学校 | TRADUÇÃO: escuela de verano/cursos de verano
+暑气 | TRADUÇÃO: calor del verano/bochorno estival
+暑温 | TRADUÇÃO: enfermedad por calor estival (MTC)
+暑热 | TRADUÇÃO: calor sofocante del verano
+暑瘟 | TRADUÇÃO: enfermedad pestilente estival/enfermedad tropical
+暒 | TRADUÇÃO: variante antigua de 晴
+暔 | TRADUÇÃO: nombre de un país antiguo
+暕 | TRADUÇÃO: luz brillante
+暖冬 | TRADUÇÃO: invierno templado/invierno suave
+暖化 | TRADUÇÃO: calentamiento
+暖和 | TRADUÇÃO: cálido/templado/agradablemente tibio
+暖壶 | TRADUÇÃO: termo/frasco de vacío
+暖宝宝 | TRADUÇÃO: calentador de manos/parche térmico adhesivo
+暖巢管家 | TRADUÇÃO: asistente que cuida a personas mayores que viven solas o sin hijos cerca
+暖心 | TRADUÇÃO: (coloq.) reconfortante/conmovedor/cálido para el corazón
+暖意 | TRADUÇÃO: sensación de calidez/calor agradable
+暖房 | TRADUÇÃO: calefacción/invernadero/fiesta de inauguración de una casa nueva
+暖暖 | TRADUÇÃO: distrito de Nuannuan en la ciudad de Keelung 基隆市, Taiwán
+暖暖包 | TRADUÇÃO: (Taiwán) calentador de manos desechable
+暖暖区 | TRADUÇÃO: distrito de Nuannuan en la ciudad de Keelung 基隆市, Taiwán
+暖棚 | TRADUÇÃO: invernadero/túnel de cultivo
+暖气 | TRADUÇÃO: calefacción central/calefactor/aire caliente
+暖气机 | TRADUÇÃO: radiador/calefactor
+暖气片 | TRADUÇÃO: radiador (de calefacción)
+暖水瓶 | TRADUÇÃO: termo/botella térmica
+暖洋洋 | TRADUÇÃO: agradablemente cálido/acogedor
+暖流 | TRADUÇÃO: corriente cálida/(fig.) ola de calidez emocional
+暖烘烘 | TRADUÇÃO: bien calentito/agradable y cálido
+暖炉 | TRADUÇÃO: estufa/calefactor
+暖瓶 | TRADUÇÃO: termo
+暖男 | TRADUÇÃO: hombre atento, cariñoso y protector
+暖色 | TRADUÇÃO: color cálido (especialmente rojo, naranja y amarillo)
+暖融融 | TRADUÇÃO: agradablemente tibio/muy acogedor y cálido
+暖调 | TRADUÇÃO: tono cálido/color cálido
+暖轿 | TRADUÇÃO: palanquín cerrado
+暖锋 | TRADUÇÃO: frente cálido (meteorología)
+暖阁 | TRADUÇÃO: habitación cálida/sala calefactada
+暖风 | TRADUÇÃO: brisa cálida
+暗中 | TRADUÇÃO: en la oscuridad/en secreto/a hurtadillas/subrepticiamente
+暗中监视 | TRADUÇÃO: espiar en secreto/vigilar a escondidas
+暗井 | TRADUÇÃO: pozo ciego/pozo interior (minería)
+暗伤 | TRADUÇÃO: lesión interna/daño invisible
+暗光鸟 | TRADUÇÃO: martinete común (Taiwán)
+暗公鸟 | TRADUÇÃO: martinete común (Taiwán)
+暗冕鹪莺 | TRADUÇÃO: (especie de ave de China) prinia rojiza (Prinia rufescens)
+暗合 | TRADUÇÃO: coincidir implícitamente/coincidencia de opiniones sin acuerdo previo
+暗含 | TRADUÇÃO: implicar/sugerir/connotar/implícito
+暗哨 | TRADUÇÃO: puesto de centinela oculto
+暗哨儿 | TRADUÇÃO: silbido como señal secreta
+暗喜 | TRADUÇÃO: alegrarse en secreto/sonrisa oculta/satisfacción secreta
+暗喻 | TRADUÇÃO: metáfora
+暗器 | TRADUÇÃO: arma oculta/arma arrojadiza secreta
+暗地 | TRADUÇÃO: en secreto/para sus adentros/a escondidas
+暗地里 | TRADUÇÃO: en secreto/a espaldas de los demás/a escondidas
+暗堡 | TRADUÇÃO: búnker oculto/fortín camuflado
+暗娼 | TRADUÇÃO: prostituta clandestina
+暗室 | TRADUÇÃO: cuarto oscuro
+暗害 | TRADUÇÃO: asesinar en secreto/atentar por la espalda
+暗察明访 | TRADUÇÃO: véase 明察暗訪|明察暗访
+暗影 | TRADUÇÃO: sombra/penumbra
+暗想 | TRADUÇÃO: pensar para uno mismo/reflexionar en silencio
+暗恋 | TRADUÇÃO: amor platónico secreto/estar enamorado en secreto de
+暗房 | TRADUÇÃO: (fotografía) cuarto oscuro
+暗扣 | TRADUÇÃO: broche oculto/cierre invisible
+暗指 | TRADUÇÃO: aludir a/insinuar/referirse veladamente a
+暗探 | TRADUÇÃO: agente secreto/detective encubierto
+暗星云 | TRADUÇÃO: (astron.) nebulosa oscura/nebulosa de absorción
+暗昧 | TRADUÇÃO: oscuro/ambiguo/turbio/poco claro
+暗暗 | TRADUÇÃO: en secreto/para sus adentros/silenciosamente
+暗桩 | TRADUÇÃO: pilotes sumergidos para bloquear embarcaciones/(fig.) espía infiltrado/informante encubierto
+暗杀 | TRADUÇÃO: asesinar/magnicidio
+暗沙 | TRADUÇÃO: banco de arena sumergido/islote de coral sumergido
+暗河 | TRADUÇÃO: río subterráneo
+暗流 | TRADUÇÃO: corriente submarina/(fig.) corriente subterránea
+暗淡 | TRADUÇÃO: oscuro/tenue/apagado/(fig.) sombrío/desalentador
+暗渠 | TRADUÇÃO: canal subterráneo/acequia cubierta/alcantarilla
+暗渡陈仓 | TRADUÇÃO: (lit.) cruzar en secreto el río Wei en Chencang (modismo)/(fig.) hacer una maniobra de distracción para avanzar por otro lado/engañar con un ardid
+暗沟 | TRADUÇÃO: zanja cubierta/desagüe subterráneo/cloaca
+暗滞 | TRADUÇÃO: apagado (cutis)/falto de brillo
+暗潮 | TRADUÇÃO: corriente de fondo/marea subterránea
+暗滩 | TRADUÇÃO: bajío oculto/banco de arena sumergido
+暗灰鹃鵙 | TRADUÇÃO: (especie de ave de China) oruguero alinegro (Lalage melaschistos)
+暗无天日 | TRADUÇÃO: tinieblas absolutas (modismo)/mundo sin justicia/oscuridad total
+暗煅 | TRADUÇÃO: calcinación en recipiente cerrado (MTC)
+暗爽 | TRADUÇÃO: regocijarse en secreto/sentir una íntima satisfacción
+暗物质 | TRADUÇÃO: (física) materia oscura
+暗疔 | TRADUÇÃO: forúnculo axilar/golondrino
+暗疾 | TRADUÇÃO: enfermedad inconfesable/afección vergonzosa
+暗疮 | TRADUÇÃO: acné/grano
+暗盒 | TRADUÇÃO: chasis (fotográfico)/casete/cargador
+暗礁 | TRADUÇÃO: arrecife sumergido/escollo sumergido/(fig.) peligro oculto
+暗示 | TRADUÇÃO: insinuar/sugerir/dar a entender/insinuación/sugerencia
+暗笑 | TRADUÇÃO: reírse para sus adentros/reírse por lo bajo/sonreír con disimulo
+暗算 | TRADUÇÃO: tramar contra alguien/conspirar a traición
+暗箭 | TRADUÇÃO: flecha disparada desde la sombra/ataque traicionero/puñalada por la espalda
+暗箱 | TRADUÇÃO: cámara oscura/fuelle de cámara
+暗箱操作 | TRADUÇÃO: manipulaciones bajo la mesa/operaciones encubiertas/corrupción entre bastidores
+暗经 | TRADUÇÃO: menstruación latente (MTC)
+暗绿柳莺 | TRADUÇÃO: (especie de ave de China) mosquitero verdoso (Phylloscopus trochiloides)
+暗绿绣眼鸟 | TRADUÇÃO: (especie de ave de China) anteojitos de Swinhoe (Zosterops simplex)
+暗绿背鸬鹚 | TRADUÇÃO: (especie de ave de China) cormorán japonés (Phalacrocorax capillatus)
+暗网 | TRADUÇÃO: (inform.) red oscura/Dark Web
+暗线光谱 | TRADUÇÃO: espectro de líneas oscuras/espectro de absorción
+暗骂 | TRADUÇÃO: maldecir entre dientes/rezongar por lo bajo
+暗背雨燕 | TRADUÇÃO: (especie de ave de China) vencejo dorsioscuro (Apus acuticauda)
+暗胸朱雀 | TRADUÇÃO: (especie de ave de China) camachuelo pechioscuro (Procarduelis nipalensis)
+暗能量 | TRADUÇÃO: (astron.) energía oscura
+暗腹雪鸡 | TRADUÇÃO: (especie de ave de China) perdigallo del Himalaya (Tetraogallus himalayensis)
+暗自 | TRADUÇÃO: para sus adentros/en secreto/interiormente
+暗色鸦雀 | TRADUÇÃO: (especie de ave de China) picoloro encapuchado (Suthora zappeyi)
+暗花儿 | TRADUÇÃO: diseño oculto o velado grabado en porcelana o tejido
+暗藏 | TRADUÇÃO: ocultar/esconder/encubrir
+暗处 | TRADUÇÃO: lugar oscuro/lugar oculto
+暗号 | TRADUÇÃO: santo y seña/contraseña/señal secreta
+暗亏 | TRADUÇÃO: pérdida oculta/desventaja disimulada
+暗袋 | TRADUÇÃO: bolsa opaca para cambio de película fotográfica
+暗里 | TRADUÇÃO: en secreto/en privado/a puerta cerrada
+暗记 | TRADUÇÃO: memorizar/marca secreta/señal oculta
+暗记儿 | TRADUÇÃO: marca secreta
+暗访 | TRADUÇÃO: investigar de incógnito/hacer indagaciones en secreto
+暗语 | TRADUÇÃO: palabra clave/código secreto/lenguaje en clave
+暗转 | TRADUÇÃO: (teatro) oscuro (al final de una escena)/(literario) ascenso secreto de rango
+暗送秋波 | TRADUÇÃO: lanzar miradas insinuantes (modismo)/hacer guiños seductores
+暗道 | TRADUÇÃO: pasaje secreto/túnel secreto
+暗适应 | TRADUÇÃO: adaptación a la oscuridad (fisiología visual)
+暗锁 | TRADUÇÃO: cerradura embutida/cerradura invisible
+暗间儿 | TRADUÇÃO: habitación interior sin ventanas
+暗香 | TRADUÇÃO: fragancia sutil/aroma tenue
+暗香疏影 | TRADUÇÃO: fragancia sutil y sombras ralas (descripción poética del ciruelo en flor)
+暗鹭 | TRADUÇÃO: martinete común (Taiwán)
+暗黑 | TRADUÇÃO: oscuro/tenebroso
+暗黑破坏神 | TRADUÇÃO: Diablo (serie de videojuegos)
+旸 | TRADUÇÃO: sol naciente/luz solar
+暜 | TRADUÇÃO: variante antigua de 普
+暝 | TRADUÇÃO: oscuro/anochecer
+暞 | TRADUÇÃO: variante antigua de 曒
+暠 | TRADUÇÃO: brillante/blanco
+皓 | TRADUÇÃO: variante de 皓 ‖ (forma ligada) brillante/luminoso/blanco (especialmente dientes blancos o cabellos canos) ‖ variante de 皓/inmaculadamente blanco
+暡 | TRADUÇÃO: usado en 暡曚
+暡曚 | TRADUÇÃO: (literario) (de la luz diurna) tenue/difuso
+畅 | TRADUÇÃO: libre/despejado/fluido/sin trabas/despreocupado
+畅享 | TRADUÇÃO: disfrutar plenamente/gozar al máximo
+畅快 | TRADUÇÃO: alegre y desahogado/a gusto/despreocupado
+畅想 | TRADUÇÃO: imaginar libremente/fantasear/soñar despierto
+畅所欲言 | TRADUÇÃO: expresar libremente los propios pensamientos (modismo)/hablar a corazón abierto
+畅旺 | TRADUÇÃO: próspero/activo/floreciente (comercio, ventas)
+畅然 | TRADUÇÃO: alegremente/con regocijo
+畅谈 | TRADUÇÃO: conversar libremente/hablar sin reservas
+畅货中心 | TRADUÇÃO: tienda de descuento (Taiwán)/outlet
+畅通 | TRADUÇÃO: fluido/despejado/sin obstrucciones
+畅达 | TRADUÇÃO: fluido/claro y desenvuelto (estilo)
+畅销 | TRADUÇÃO: de gran venta/superventas/éxito de ventas
+畅销书 | TRADUÇÃO: libro superventas/bestseller
+畅顺 | TRADUÇÃO: fluido/sin tropiezos
+畅饮 | TRADUÇÃO: beber a satisfacción/beber a placer
+暨 | TRADUÇÃO: (literario) y/así como/(literario) hasta/en cuanto a (como en 暨今 "hasta hoy")
+暨今 | TRADUÇÃO: hasta el presente/hasta hoy
+暨南大学 | TRADUÇÃO: Universidad Jinan en la provincia de Guangdong
+暨大 | TRADUÇÃO: abrev. de la Universidad Jinan 暨南大學|暨南大学
+暪 | TRADUÇÃO: oscuro
+暂 | TRADUÇÃO: temporal/provisional/pron. en Taiwán [zhan4] ‖ apresurarse/variante de 暫|暂
+暂且 | TRADUÇÃO: por ahora/por el momento/provisionalmente
+暂住证 | TRADUÇÃO: permiso de residencia temporal
+暂停 | TRADUÇÃO: suspender temporalmente/tiempo fuera (deporte)/pausa
+暂停键 | TRADUÇÃO: botón de pausa
+暂定 | TRADUÇÃO: provisional/tentativo/fijado provisionalmente
+暂息 | TRADUÇÃO: tregua momentánea/breve pausa
+暂态 | TRADUÇÃO: transitorio/estado transitorio
+暂搁 | TRADUÇÃO: dejar en suspenso/aplazar temporalmente
+暂时 | TRADUÇÃO: temporal/por ahora/provisionalmente
+暂短 | TRADUÇÃO: breve/de corta duración
+暂缓 | TRADUÇÃO: aplazar/posponer temporalmente
+暂缺 | TRADUÇÃO: vacante temporal/escasez temporal
+暂行 | TRADUÇÃO: provisional/temporal
+暮 | TRADUÇÃO: atardecer/anochecer/ocaso
+暮年 | TRADUÇÃO: vejez/últimos años de vida
+暮景 | TRADUÇÃO: paisaje del atardecer/(fig.) ocaso de la vida/vejez
+暮岁 | TRADUÇÃO: finales de año/vejez
+暮气 | TRADUÇÃO: bruma del atardecer/(fig.) apatía/falta de vigor vital
+暮色 | TRADUÇÃO: crepúsculo/luz crepuscular
+暮色苍茫 | TRADUÇÃO: la bruma crepuscular del anochecer (modismo)/crepúsculo nebuloso
+暮霭 | TRADUÇÃO: neblina del atardecer/bruma vespertina
+暮鼓晨钟 | TRADUÇÃO: (lit.) tambor vespertino y campana matutina (modismo)/(fig.) disciplina de la vida monástica/llamada de atención oportuna
+昵称 | TRADUÇÃO: apodo/sobrenombre cariñoso/poner apodo
+暲 | TRADUÇÃO: brillante/salir (el sol)
+暴 | TRADUÇÃO: apellido Bao ‖ repentino/violento/cruel/mostrar o exponer/dañar ‖ variante de 曝
+暴乱 | TRADUÇÃO: disturbio/motín/rebelión
+暴光 | TRADUÇÃO: exposición a la luz/revelar
+暴利 | TRADUÇÃO: ganancias extraordinarias/beneficio usurario
+暴利税 | TRADUÇÃO: impuesto sobre beneficios extraordinarios
+暴力 | TRADUÇÃO: violencia/violento/por la fuerza
+暴力分拣 | TRADUÇÃO: manejo brusco de paquetes durante la clasificación postal
+暴力法 | TRADUÇÃO: método violento/fuerza bruta
+暴力犯罪 | TRADUÇÃO: delito violento/crimen violento
+暴动 | TRADUÇÃO: insurrección/rebelión/sublevación
+暴卒 | TRADUÇÃO: morir repentinamente de enfermedad súbita
+暴君 | TRADUÇÃO: tirano/déspota
+暴富 | TRADUÇÃO: enriquecerse de la noche a la mañana/hacerse rico repentinamente
+暴徒 | TRADUÇÃO: matón/gamberro/rufián/forajido
+暴怒 | TRADUÇÃO: montar en cólera/enfurecerse violentamente
+暴恐 | TRADUÇÃO: terrorista (relativo al terrorismo violento)
+暴戾 | TRADUÇÃO: despiadado/cruel y violento
+暴戾恣睢 | TRADUÇÃO: (modismo) tiránico y despótico/cruel y arbitrario
+暴打 | TRADUÇÃO: golpear brutalmente/dar una paliza tremenda
+暴扣 | TRADUÇÃO: mate contundente/volcada (baloncesto)
+暴击 | TRADUÇÃO: golpe crítico (videojuegos)
+暴政 | TRADUÇÃO: tiranía/gobierno despótico
+暴敛 | TRADUÇÃO: cobrar tributos excesivos/extorsionar impuestos
+暴毙 | TRADUÇÃO: morir repentinamente/muerte súbita
+暴晒 | TRADUÇÃO: exponer al sol abrasador/abrasar el sol
+暴死 | TRADUÇÃO: morir de forma repentina
+暴殄天物 | TRADUÇÃO: despilfarrar los dones de la naturaleza (modismo)/malgastar las cosas sin cuidado
+暴民 | TRADUÇÃO: turba enfurecida/gentuza alborotadora
+暴洪 | TRADUÇÃO: riada repentina/inundación relámpago
+暴漫 | TRADUÇÃO: cómic de rabia/rage comic
+暴涨 | TRADUÇÃO: dispararse (precios, ríos)/subir vertiginosamente
+暴烈 | TRADUÇÃO: violento/feroz/impetuoso
+暴热 | TRADUÇÃO: volverse extremadamente popular de repente/ola repentina de calor abrasador
+暴燥 | TRADUÇÃO: variante de 暴躁
+暴牙 | TRADUÇÃO: dientes prominentes/dientes de conejo
+暴病 | TRADUÇÃO: enfermedad fulminante/ataque repentino de gravedad
+暴瘦 | TRADUÇÃO: perder peso drásticamente/adelgazar bruscamente
+暴发 | TRADUÇÃO: brotar repentinamente (enfermedad)/hacerse rico de la noche a la mañana
+暴发户 | TRADUÇÃO: nuevo rico/advenedizo/parvenu
+暴胖 | TRADUÇÃO: engordar rápidamente/aumentar drásticamente de peso
+暴虎冯河 | TRADUÇÃO: (lit.) luchar con tigres a puño limpio y cruzar ríos caudalosos a pie (modismo)/(fig.) temeridad insensata
+暴虐 | TRADUÇÃO: brutal/tiránico/cruel
+暴虐无道 | TRADUÇÃO: (modismo) tiránico y despiadado/salvaje y sin ley
+暴行 | TRADUÇÃO: atrocidad/acto de barbarie/violencia salvaje
+暴论 | TRADUÇÃO: afirmación disparatada/opinión escandalosa (del japonés 暴論)
+暴走 | TRADUÇÃO: fuera de control/enfurecido/caminata rápida de larga distancia
+暴走族 | TRADUÇÃO: aficionados a las largas caminatas a paso ligero/(Taiwán) banda juvenil de motoristas rebeldes
+暴走漫画 | TRADUÇÃO: cómics rage comic/viñetas de rabia
+暴走鞋 | TRADUÇÃO: zapatillas con ruedas
+暴跌 | TRADUÇÃO: desplomarse/caída estrepitosa (en economía)
+暴跳如雷 | TRADUÇÃO: echar chispas de rabia (modismo)/ponerse furioso/patalear de ira
+暴躁 | TRADUÇÃO: irascible/irritable/colérico
+暴雨 | TRADUÇÃO: lluvia torrencial/aguacero/tromba de agua/CL:場|场,陣|阵
+暴雪 | TRADUÇÃO: ventisca/tormenta de nieve
+暴雪鹱 | TRADUÇÃO: (especie de ave de China) fulmar boreal (Fulmarus glacialis)
+暴雷 | TRADUÇÃO: trueno ensordecedor/(de una plataforma financiera) quebrar repentinamente
+暴露 | TRADUÇÃO: exponer/revelar/quedar al descubierto/también pronunciado [pu4 lu4]
+暴露无遗 | TRADUÇÃO: quedar completamente al descubierto/revelarse por completo
+暴露狂 | TRADUÇÃO: exhibicionista
+暴露癖 | TRADUÇÃO: exhibicionismo
+暴风 | TRADUÇÃO: tormenta de viento/vendaval
+暴风圈 | TRADUÇÃO: radio de tormenta (meteorología)/zona de vientos huracanados/(fig.) epicentro de una crisis
+暴风雨 | TRADUÇÃO: tormenta/tempestad/temporal
+暴风雪 | TRADUÇÃO: tormenta de nieve/ventisca
+暴风骤雨 | TRADUÇÃO: tempestad impetuosa/huracán violento (modismo)
+暴食 | TRADUÇÃO: comer con voracidad/darse un atracón
+暴食症 | TRADUÇÃO: bulimia/trastorno por atracón
+暴饮暴食 | TRADUÇÃO: comer y beber con exceso/atiborrarse sin moderación
+暴龙 | TRADUÇÃO: tiranosaurio/tiranosaurio rex
+暴龙属 | TRADUÇÃO: género Tyrannosaurus
+暴龙科 | TRADUÇÃO: tiranosáuridos/familia Tyrannosauridae
+暵 | TRADUÇÃO: seco/caluroso
+暶 | TRADUÇÃO: (literario) brillante/(literario) hermoso/atractivo
+暸 | TRADUÇÃO: brillante/claro
+暹 | TRADUÇÃO: salida del sol
+暹粒 | TRADUÇÃO: Siem Reap, Camboya
+暹罗 | TRADUÇÃO: Siam (antiguo nombre de Tailandia)
+暹罗语 | TRADUÇÃO: lengua siamesa/idioma tailandés
+暹逻 | TRADUÇÃO: variante de 暹羅|暹罗
+暻 | TRADUÇÃO: brillante
+暾 | TRADUÇÃO: sol recién salido en el horizonte
+暾欲谷 | TRADUÇÃO: Tonyukuk (fallecido hacia 724 d. C.)
+曀 | TRADUÇÃO: nublado/sol oculto por las nubes
+晔 | TRADUÇÃO: resplandeciente/destello brillante
+历年 | TRADUÇÃO: año civil/año calendario ‖ a lo largo de los años/años transcurridos
+历数 | TRADUÇÃO: (literario) movimientos de los cuerpos celestes/destino/sistema calendárico ‖ enumerar/contar uno a uno
+历书 | TRADUÇÃO: almanaque/calendario
+历法 | TRADUÇÃO: ciencia del calendario/sistema de calendario ‖ variante de 曆法|历法 calendario
+昙 | TRADUÇÃO: nubes oscuras
+昙花 | TRADUÇÃO: flor de una noche/galán de noche (Epiphyllum oxypetalum)
+昙花一现 | TRADUÇÃO: (lit.) la flor del cactus florece una sola noche (modismo)/(fig.) flor de un día/efímero
+曈 | TRADUÇÃO: sol a punto de salir
+晓 | TRADUÇÃO: amanecer/madrugada/saber/conocer/hacer saber
+晓以大义 | TRADUÇÃO: (modismo) persuadir apelando a los principios morales/hacer razonar por deber moral
+晓喻 | TRADUÇÃO: informar/hacer comprender/convencer
+晓得 | TRADUÇÃO: saber/conocer/entender
+晓示 | TRADUÇÃO: notificar/hacer saber mediante aviso
+晓谕 | TRADUÇÃO: variante de 曉喻|晓喻
+曌 | TRADUÇÃO: carácter inventado para sí misma por la emperatriz Wu Zetian 武則天|武则天 de la dinastía Tang
+曐 | TRADUÇÃO: variante antigua de 星
+曑 | TRADUÇÃO: variante antigua de 參|参/(constelación)
+曒 | TRADUÇÃO: variante antigua de 皦
+曓 | TRADUÇÃO: variante antigua de 暴
+暧 | TRADUÇÃO: (de la luz solar) tenue/oscuro/turbio/sospechoso
+暧昧 | TRADUÇÃO: ambiguo/equívoco/turbio/sospechoso
+暧昧关系 | TRADUÇÃO: relación ambigua/aventura amorosa sospechosa/relación turbia
+曘 | TRADUÇÃO: color del sol/oscuro
+曙 | TRADUÇÃO: (forma ligada) alba/amanecer/pron. en Taiwán [shu4]
+曙光 | TRADUÇÃO: primeras luces del alba/(fig.) rayo de esperanza/nueva aurora
+曙红朱雀 | TRADUÇÃO: (especie de ave de China) camachuelo de Walton (Carpodacus waltoni)
+曙色 | TRADUÇÃO: luz del amanecer
+曚 | TRADUÇÃO: penumbra antes del amanecer
+曚昽 | TRADUÇÃO: (literario) (de la luz diurna) tenue/(literario) brumoso/indistinto
+曛 | TRADUÇÃO: crepúsculo vespertino/luz del atardecer
+曜 | TRADUÇÃO: brillante/glorioso/uno de los siete cuerpos celestes de la astronomía antigua
+曝 | TRADUÇÃO: usado en 曝光/pron. en Taiwán [pu4] ‖ orear/secar al sol
+曝光 | TRADUÇÃO: exponer (fotografía)/(fig.) sacar a la luz/destapar (un escándalo)/exposición publicitaria/pron. en Taiwán [pu4 guang1]
+曝光表 | TRADUÇÃO: exposímetro/fotómetro
+曝晒 | TRADUÇÃO: exponer a la luz solar intensa/solear intensamente
+曝露 | TRADUÇÃO: exponer (al aire, a la luz, etc.)/dejar al descubierto/exposición
+旷 | TRADUÇÃO: descuidar/faltar (a clase o al trabajo)/desperdiciar (tiempo)/vasto/holgado
+旷世 | TRADUÇÃO: incomparable/sin igual en el mundo
+旷代 | TRADUÇÃO: sin igual en la época/inigualable en esta generación
+旷古 | TRADUÇÃO: desde el principio de los tiempos/inaudito en la historia
+旷古未有 | TRADUÇÃO: sin precedentes en la historia (modismo)/inaudito
+旷古未闻 | TRADUÇÃO: nunca antes visto ni oído en la historia (modismo)/inaudito/también escrito 曠古未有|旷古未有
+旷地 | TRADUÇÃO: terreno abierto/descampado/campo abierto
+旷夫 | TRADUÇÃO: soltero/hombre sin casar
+旷工 | TRADUÇÃO: ausentismo laboral/faltar al trabajo sin justificación
+旷废 | TRADUÇÃO: descuidar (el trabajo)/desperdiciar (el talento)
+旷日持久 | TRADUÇÃO: prolongado y dilatado (modismo)/prolongarse en el tiempo
+旷时摄影 | TRADUÇÃO: fotografía a intervalos/cámara rápida/time-lapse
+旷渺 | TRADUÇÃO: remoto y dilatado/inmensidad distante
+旷职 | TRADUÇÃO: faltar al deber laboral/ausentarse injustificadamente del trabajo
+旷课 | TRADUÇÃO: hacer novillos/faltar a clase sin justificación
+旷费 | TRADUÇÃO: desperdiciar/malgastar
+旷达 | TRADUÇÃO: de mente abierta/magnánimo/desprendido y filosófico
+旷野 | TRADUÇÃO: campo abierto/estepa/naturaleza salvaje
+旷阔 | TRADUÇÃO: vasto y dilatado/inmenso
+叠 | TRADUÇÃO: variante de 疊|叠 ‖ variante de 疊|叠 ‖ apilar/(forma ligada) repetido/doblar/clasificador: pila, fajo (de objetos finos)/clasificador para secciones repetidas en una composición musical
+曦 | TRADUÇÃO: (literario) luz solar del amanecer/rayos matinales
+昽 | TRADUÇÃO: usado en 曚曨|曚昽
+曩 | TRADUÇÃO: en tiempos pasados/antiguamente
+晒干 | TRADUÇÃO: secar al sol
+晒伤 | TRADUÇÃO: quemarse con el sol/quemadura solar
+晒友 | TRADUÇÃO: véase 曬客|晒客
+晒图 | TRADUÇÃO: cianotipo/heliografía/hacer un plano heliográfico
+晒太阳 | TRADUÇÃO: tomar el sol/poner algo al sol para secar
+晒娃 | TRADUÇÃO: (coloq.) publicar fotos e información de los hijos en redes sociales/sharenting
+晒娃族 | TRADUÇÃO: (coloq.) padres que comparten excesivamente fotos de sus hijos en redes
+晒客 | TRADUÇÃO: persona que comparte sus experiencias e impresiones en internet
+晒斑 | TRADUÇÃO: manchas solares en la piel
+晒油 | TRADUÇÃO: (Malasia) salsa de soja oscura espesa (para dar brillo y color caramelo a los platos)
+晒照 | TRADUÇÃO: (jerga de internet) publicar una foto de uno mismo en línea
+晒衣绳 | TRADUÇÃO: cuerda de tender/tendedero de cuerda
+晒骆驼 | TRADUÇÃO: xilitol (cantonés)/véase también 木糖醇
+晒黑 | TRADUÇÃO: broncearse/ponerse moreno/denunciar prácticas desleales en foros de consumidores
+曰 | TRADUÇÃO: decir/hablar
+曱 | TRADUÇÃO: usado en 曱甴
+曱甴 | TRADUÇÃO: (dialectal) cucaracha/también pronunciado [yue1you2]
+曲 | TRADUÇÃO: apellido Qu ‖ doblado/torcido/injusto ‖ melodía/canción/CL:支 ‖ variante de 麴|曲 ‖ iniciador de fermentación/levadura/pron. en Taiwán [qu2]
+曲别针 | TRADUÇÃO: clip (para papel)/sujetapapeles
+曲周 | TRADUÇÃO: véase 曲周縣|曲周县
+曲周县 | TRADUÇÃO: Quzhou, condado en la ciudad de Handan 邯鄲市|邯郸市, Hebei
+曲奇 | TRADUÇÃO: galleta/cookie (préstamo del cantonés)
+曲子 | TRADUÇÃO: melodía/pieza musical/canción/CL:支
+曲射 | TRADUÇÃO: (militar) tiro con trayectoria curva/fuego curvo
+曲射炮 | TRADUÇÃO: pieza de artillería de tiro curvo (mortero, obús)
+曲尺 | TRADUÇÃO: escuadra (herramienta de medición de ángulos rectos)
+曲尺楼梯 | TRADUÇÃO: escalera en L/escalera con giro en ángulo recto
+曲度 | TRADUÇÃO: curvatura
+曲意 | TRADUÇÃO: contra la propia voluntad/forzadamente
+曲意逢迎 | TRADUÇÃO: adular servilmente (modismo)/hacer la rosca para congraciarse
+曲折 | TRADUÇÃO: sinuoso/tortuoso/(fig.) complicado/lleno de vicisitudes
+曲松 | TRADUÇÃO: véase 曲松縣|曲松县
+曲松县 | TRADUÇÃO: Qusum, condado en la ciudad de Shannan 山南市, Tíbet
+曲柄 | TRADUÇÃO: manivela
+曲柄钻 | TRADUÇÃO: berbiquí/taladro manual de manivela
+曲棍 | TRADUÇÃO: palo curvado/stick de hockey
+曲棍球 | TRADUÇÃO: hockey sobre hierba
+曲水 | TRADUÇÃO: véase 曲水縣|曲水县
+曲水县 | TRADUÇÃO: Qüxü, condado en la ciudad de Lhasa 拉薩市|拉萨市, Tíbet
+曲江 | TRADUÇÃO: véase 曲江區|曲江区
+曲江区 | TRADUÇÃO: Qujiang, distrito de la ciudad de Shaoguan 韶關市|韶关市, Guangdong
+曲池穴 | TRADUÇÃO: punto de acupuntura Quchi (IG11), en el pliegue externo del codo
+曲沃 | TRADUÇÃO: véase 曲沃縣|曲沃县
+曲沃县 | TRADUÇÃO: Quwo, condado en la ciudad de Linfen 臨汾市|临汾市, Shanxi
+曲率 | TRADUÇÃO: (mat.) curvatura
+曲率向量 | TRADUÇÃO: vector curvatura
+曲目 | TRADUÇÃO: repertorio/programa musical/canción/pieza de música
+曲直 | TRADUÇÃO: (lit.) lo torcido y lo recto/(fig.) lo correcto y lo incorrecto/la razón y la sinrazón
+曲突徙薪 | TRADUÇÃO: (lit.) doblar la chimenea y apartar la leña (modismo)/(fig.) tomar medidas preventivas
+曲笔 | TRADUÇÃO: falsificación en los escritos/distorsión histórica deliberada/desviación deliberada
+曲终奏雅 | TRADUÇÃO: final perfecto y sublime (modismo)
+曲线 | TRADUÇÃO: curva/línea curva/indirecto/por vía indirecta
+曲线图 | TRADUÇÃO: gráfico de líneas/curva gráfica
+曲线拟合 | TRADUÇÃO: ajuste de curvas
+曲线救国 | TRADUÇÃO: salvar la patria por caminos indirectos (salvar la nación mediante compromisos o ardides velados)
+曲线论 | TRADUÇÃO: teoría de curvas
+曲线锯 | TRADUÇÃO: sierra de calar/caladora
+曲肱而枕 | TRADUÇÃO: (lit.) usar el brazo doblado como almohada (modismo)/(fig.) contentarse con una vida sencilla y frugal
+曲艺 | TRADUÇÃO: artes escénicas folclóricas chinas/baladas y narraciones tradicionales
+曲蟮 | TRADUÇÃO: variante de 蛐蟮
+曲里拐弯 | TRADUÇÃO: lleno de curvas y revueltas (modismo)/tortuoso
+曲解 | TRADUÇÃO: tergiversar/malinterpretar/distorsionar el significado
+曲调 | TRADUÇÃO: melodía/tonada
+曲轴 | TRADUÇÃO: cigüeñal
+曲阜 | TRADUÇÃO: véase 曲阜市
+曲阜孔庙 | TRADUÇÃO: Templo de Confucio en Qufu
+曲阜市 | TRADUÇÃO: Qufu, ciudad natal de Confucio 孔子, actualmente ciudad a nivel de condado en Jining 濟寧市|济宁市, Shandong
+曲阳 | TRADUÇÃO: véase 曲陽縣|曲阳县
+曲阳县 | TRADUÇÃO: Quyang, condado en la ciudad de Baoding 保定市, Hebei
+曲霉毒素 | TRADUÇÃO: aflatoxina/micotoxina de aspergillus
+曲靖 | TRADUÇÃO: véase 曲靖市
+曲靖市 | TRADUÇÃO: Qujing, ciudad-prefectura en la provincia de Yunnan 雲南省|云南省
+曲面 | TRADUÇÃO: superficie curva/superficie
+曲面论 | TRADUÇÃO: teoría de superficies
+曲颈瓶 | TRADUÇÃO: retorta/frasco de cuello encorvado
+曲风 | TRADUÇÃO: estilo musical/género de música
+曲高和寡 | TRADUÇÃO: melodía demasiado elevada para ser coreada (modismo)/demasiado elitista o refinado para el gusto general
+曲麻莱 | TRADUÇÃO: véase 曲麻萊縣|曲麻莱县
+曲麻莱县 | TRADUÇÃO: Qumarlêb, condado en la prefectura autónoma tibetana de Yushu 玉樹藏族自治州|玉树藏族自治州, Qinghai
+曳 | TRADUÇÃO: arrastrar/tirar de/pron. en Taiwán [yi4]
+曳光弹 | TRADUÇÃO: munición trazadora/bala trazadora
+曳尾鹱 | TRADUÇÃO: (especie de ave de China) pardela del Pacífico (Puffinus pacificus)
+曳引车 | TRADUÇÃO: (Taiwán) tractocamión/cabeza tractora
+曳步舞 | TRADUÇÃO: shuffle dance/danza shuffle
+更 | TRADUÇÃO: cambiar o reemplazar/experimentar/vigilia (período nocturno de dos horas)/guardia nocturna ‖ más/aún más/todavía más
+更上一层楼 | TRADUÇÃO: subir de nivel/dar un paso más hacia la cima/superarse aún más
+更代 | TRADUÇÃO: relevo de mandos/sustitución generacional
+更仆难数 | TRADUÇÃO: incontable/demasiados para enumerar/innumerable
+更加 | TRADUÇÃO: aún más/todavía más
+更动 | TRADUÇÃO: modificar/cambiar/alterar
+更胜 | TRADUÇÃO: ser superior a/superar a
+更胜一筹 | TRADUÇÃO: llevar la delantera/ser un punto superior/estar un paso por delante
+更卒 | TRADUÇÃO: soldado de guardia rotativa (ant.)
+更博 | TRADUÇÃO: (jerga de internet) actualizar el blog
+更名 | TRADUÇÃO: cambiar de nombre/renombrar
+更夫 | TRADUÇÃO: sereno (vigilante nocturno tradicional)
+更始 | TRADUÇÃO: hacer un nuevo comienzo/renacer/reiniciar
+更年期 | TRADUÇÃO: menopausia/andropausia/climaterio
+更张 | TRADUÇÃO: (lit.) cambiar las cuerdas del arco/(fig.) reformar y emprender de nuevo
+更换 | TRADUÇÃO: reemplazar/cambiar/sustituir
+更改 | TRADUÇÃO: modificar/alterar/cambiar
+更新 | TRADUÇÃO: renovar/actualizar/reemplazar lo viejo por lo nuevo/regenerar
+更新世 | TRADUÇÃO: Pleistoceno (época geológica)
+更新换代 | TRADUÇÃO: renovación generacional/actualización y reemplazo de productos
+更是 | TRADUÇÃO: aún más/con mayor razón
+更替 | TRADUÇÃO: alternar/relevar/sustituir sucesivamente
+更有甚者 | TRADUÇÃO: es más/por añadidura/para colmo (modismo)
+更楼 | TRADUÇÃO: torre de vigilancia nocturna/torre del tambor para las vigilias
+更次 | TRADUÇÃO: una vigilia nocturna (período de dos horas durante la noche)
+更正 | TRADUÇÃO: corregir/rectificar/hacer una fe de erratas
+更深 | TRADUÇÃO: avanzada la noche/en lo más profundo de la noche
+更深人静 | TRADUÇÃO: avanzada la noche y en completo silencio (modismo)
+更漏 | TRADUÇÃO: clepsidra para medir las vigilias nocturnas
+更为 | TRADUÇÃO: aún más/todavía más
+更生 | TRADUÇÃO: resurrección/renacimiento/rejuvenecimiento/nueva vida
+更番 | TRADUÇÃO: por turnos/alternadamente
+更衣 | TRADUÇÃO: cambiarse de ropa/ir al baño (eufemismo)
+更衣室 | TRADUÇÃO: vestuario/probador/cambiador/(eufemismo) retrete
+更迭 | TRADUÇÃO: alternar/sucederse/cambiar sucesivamente
+更递 | TRADUÇÃO: sustituir/reemplazar sucesivamente
+更阑 | TRADUÇÃO: noche muy avanzada/altas horas de la noche
+更鼓 | TRADUÇÃO: tambor de las vigilias nocturnas/tablilla del sereno
+曷 | TRADUÇÃO: por qué/cómo/cuándo/qué/dónde
+书 | TRADUÇÃO: abrev. de 書經|书经 ‖ libro/carta/documento/CL:本,冊|册,部/escribir
+书不尽言 | TRADUÇÃO: hay mucho más que decir que lo expresado en esta carta (fórmula de despedida epistolar) (modismo)
+书中自有黄金屋，书中自有颜如玉 | TRADUÇÃO: (lit.) en los libros hay mansiones doradas y bellas doncellas (proverbio)/(fig.) estudia con esmero y alcanzarás honor y riqueza
+书亭 | TRADUÇÃO: quiosco de libros
+书信 | TRADUÇÃO: carta/epístola/correspondencia
+书信集 | TRADUÇÃO: epistolario/colección de cartas
+书函 | TRADUÇÃO: carta/misiva/estuche para libros
+书刊 | TRADUÇÃO: libros y publicaciones periódicas/publicaciones
+书札 | TRADUÇÃO: carta/también escrito 書札|书札 ‖ carta
+书包 | TRADUÇÃO: mochila escolar/cartera para libros/CL:個|个,隻|只
+书卷 | TRADUÇÃO: tomo/volumen/rollo
+书卷气 | TRADUÇÃO: aire erudito/aspecto culto
+书卷奖 | TRADUÇÃO: premio a la excelencia académica universitaria (Taiwán)
+书名 | TRADUÇÃO: título de un libro/fama como calígrafo
+书名号 | TRADUÇÃO: comillas angulares dobles chinas 《》(signo de puntuación para títulos de obras)
+书呆子 | TRADUÇÃO: ratón de biblioteca/pedante/empollón ingenuo
+书报 | TRADUÇÃO: prensa y libros/periódicos y publicaciones
+书坛 | TRADUÇÃO: mundo de la caligrafía/círculo caligráfico
+书写 | TRADUÇÃO: escribir/redactar
+书写不能症 | TRADUÇÃO: agrafia
+书写符号 | TRADUÇÃO: signo de escritura/símbolo gráfico
+书写语言 | TRADUÇÃO: lengua escrita/lenguaje escrito
+书局 | TRADUÇÃO: librería/editorial
+书店 | TRADUÇÃO: librería/tienda de libros/CL:家
+书库 | TRADUÇÃO: almacén de libros/depósito bibliográfico/(fig.) persona muy erudita/Biblioteca mitológica del Pseudo-Apolodoro
+书房 | TRADUÇÃO: estudio (habitación)/despacho/CL:間|间
+书挡 | TRADUÇÃO: sujetalibros
+书会 | TRADUÇÃO: sociedad caligráfica/escuela rural antigua/sociedad literaria antigua
+书本 | TRADUÇÃO: libro/libros en general
+书板 | TRADUÇÃO: tablilla para escribir/plancha de impresión
+书架 | TRADUÇÃO: estantería de libros/librero/CL:個|个
+书柬 | TRADUÇÃO: variante de 書簡|书简
+书案 | TRADUÇÃO: escritorio/mesa de estudio/acta oficial
+书桌 | TRADUÇÃO: escritorio/mesa de trabajo/CL:張|张
+书档 | TRADUÇÃO: sujetalibros
+书柜 | TRADUÇÃO: estantería para libros/librería
+书橱 | TRADUÇÃO: librería/armario para libros
+书法 | TRADUÇÃO: caligrafía/arte de la caligrafía
+书法家 | TRADUÇÃO: calígrafo
+书牍 | TRADUÇÃO: correspondencia/tablillas de madera para escribir (ant.)/cartas y documentos
+书生 | TRADUÇÃO: estudiante erudito/letrado/intelectual tradicional
+书画 | TRADUÇÃO: pintura y caligrafía
+书画家 | TRADUÇÃO: pintor y calígrafo
+书画毡 | TRADUÇÃO: tapete de fieltro para caligrafía
+书皮 | TRADUÇÃO: cubierta de libro/forro de libro
+书皮儿 | TRADUÇÃO: variante erhua de 書皮|书皮
+书目 | TRADUÇÃO: bibliografía/catálogo de libros/lista de títulos/CL:本
+书眉 | TRADUÇÃO: encabezado de página/margen superior de página
+书社 | TRADUÇÃO: club de lectura/editorial
+书稿 | TRADUÇÃO: manuscrito de un libro
+书立 | TRADUÇÃO: sujetalibros
+书箧 | TRADUÇÃO: caja para libros/cofre para libros
+书简 | TRADUÇÃO: (literario) carta/epístola
+书籍 | TRADUÇÃO: libros/obras literarias
+书签 | TRADUÇÃO: marcapáginas/punto de lectura/CL:張|张
+书约 | TRADUÇÃO: contrato editorial
+书经 | TRADUÇÃO: Clásico de Historia (Shujing), uno de los Cinco Clásicos del confucianismo 五經|五经, también conocido como 尚書經|尚书经, 尚書|尚书, 書|书
+书圣 | TRADUÇÃO: Sabio de la Caligrafía, título tradicional honorífico de Wang Xizhi 王羲之 (303-361)
+书肺 | TRADUÇÃO: pulmón en libro (anatomía de arácnidos)
+书脊 | TRADUÇÃO: lomo de un libro
+书腰 | TRADUÇÃO: faja de libro (tira de papel promocional en la cubierta) (Taiwán)
+书号 | TRADUÇÃO: número de registro de libro/ISBN
+书虫 | TRADUÇÃO: ratón de biblioteca/polilla de los libros
+书蠹 | TRADUÇÃO: polilla de los libros (literal y figurado)/pececillo de plata/pedante
+书角 | TRADUÇÃO: esquina de una página/esquina de un libro
+书记 | TRADUÇÃO: secretario (máximo dirigente de un comité de partido)/escribano/oficinista
+书记官 | TRADUÇÃO: secretario judicial/escribano judicial
+书记处 | TRADUÇÃO: secretaría/secretariado
+书评 | TRADUÇÃO: reseña de un libro/crítica literaria
+书证 | TRADUÇÃO: prueba documental/evidencia escrita
+书迹 | TRADUÇÃO: obra caligráfica conservada/manuscrito autógrafo
+书院 | TRADUÇÃO: academia de estudios clásicos (dinastías Tang a Qing)
+书面 | TRADUÇÃO: por escrito/escrito
+书面许可 | TRADUÇÃO: autorización por escrito/permiso por escrito
+书面语 | TRADUÇÃO: lengua escrita/lenguaje formal escrito
+书页 | TRADUÇÃO: página de un libro/hoja
+书题 | TRADUÇÃO: título del libro/tema de un libro
+书风 | TRADUÇÃO: estilo caligráfico
+书馆 | TRADUÇÃO: casa de té con narradores de cuentos pingshu/escuela privada antigua/biblioteca de textos clásicos
+书馆儿 | TRADUÇÃO: casa de té con narración de cuentos pingshu
+书香 | TRADUÇÃO: aroma a libros/tradición erudita familiar
+书香门第 | TRADUÇÃO: familia de abolengo intelectual (modismo)/familia de letrados
+书体 | TRADUÇÃO: estilo caligráfico/tipo de letra
+书斋 | TRADUÇÃO: gabinete de estudio/despacho
+曹 | TRADUÇÃO: apellido Cao/estado vasallo de la dinastía Zhou ‖ clase o categoría/generación/demandante y demandado (ant.)/ministerio o departamento gubernamental (ant.)
+曹不兴 | TRADUÇÃO: Cao Buxing (activo hacia 210-250), famoso pintor semilegendario, uno de los Cuatro Grandes Pintores de las Seis Dinastías 六朝四大家
+曹丕 | TRADUÇÃO: Cao Pi (187-226), segundo hijo de Cao Cao 曹操, emperador Wen de Cao Wei 魏文帝 desde 220, también destacado calígrafo
+曹刚川 | TRADUÇÃO: Cao Gangchuan (1935-), general y líder militar de China
+曹参 | TRADUÇÃO: Cao Can (-190 a. C.), segundo canciller de la dinastía Han, luchó junto a Liu Bang 劉邦|刘邦 durante la Contienda Chu-Han 楚漢戰爭|楚汉战争/también pronunciado [Cao2 Shen1]
+曹妃甸 | TRADUÇÃO: véase 曹妃甸區|曹妃甸区
+曹妃甸区 | TRADUÇÃO: Caofeidian, distrito de la ciudad de Tangshan 唐山市, Hebei
+曹操 | TRADUÇÃO: Cao Cao (155-220), célebre estadista, poeta, calígrafo y señor de la guerra al final de Han, fundador de facto de Cao Wei 曹魏 y padre de Cao Pi 曹丕
+曹植 | TRADUÇÃO: Cao Zhi (192-232), hijo de Cao Cao 曹操, célebre poeta y calígrafo
+曹冲 | TRADUÇÃO: Cao Chong (196-208), hijo prodigio de Cao Cao 曹操
+曹白鱼 | TRADUÇÃO: sábalo alargado (Ilisha elongata)/arenque chino
+曹禺 | TRADUÇÃO: Cao Yu (1910-1997), insigne dramaturgo chino
+曹县 | TRADUÇÃO: condado de Cao, en la ciudad de Heze 菏澤市|菏泽市, Shandong
+曹锟 | TRADUÇÃO: Cao Kun (1862-1938), señor de la guerra del norte
+曹雪芹 | TRADUÇÃO: Cao Xueqin (hacia 1715-1764), autor de Sueño en el pabellón rojo 紅樓夢|红楼梦
+曹靖华 | TRADUÇÃO: Cao Jinghua (1897-1987), traductor del ruso, catedrático de la Universidad de Pekín y ensayista

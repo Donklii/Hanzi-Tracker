@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+天孙娘娘 | TRADUÇÃO: Deusa da Fertilidade
+天安门 | TRADUÇÃO: Portão Tiananmen, entrada da Cidade Imperial em Pequim
+天安门广场 | TRADUÇÃO: Praça da Paz Celestial
+天安门开了 | TRADUÇÃO: a braguilha está aberta/a porta do celeiro está aberta
+天宫 | TRADUÇÃO: Templo Celestial (p. ex., do Imperador de Jade) / Tiangong, programa da estação espacial chinesa
+天寒地冻 | TRADUÇÃO: (expressão idiomática) extremamente frio; gelado
+天宁 | TRADUÇÃO: veja 天寧區|天宁区
+天宁区 | TRADUÇÃO: Tianning, um distrito da cidade de Changzhou 常州市, Jiangsu
+天尊 | TRADUÇÃO: (título honorífico de uma divindade)
+天山 | TRADUÇÃO: Tian Shan, cordilheira na fronteira entre China e Quirguistão ‖ veja 天山區|天山区
+天山区 | TRADUÇÃO: Tianshan, um distrito da cidade de Ürümqi 烏魯木齊市|乌鲁木齐市, Xinjiang
+天峨 | TRADUÇÃO: veja 天峨縣|天峨县
+天峨县 | TRADUÇÃO: Tian'e, um condado na cidade de Hechi 河池市, Guangxi
+天峻 | TRADUÇÃO: veja 天峻縣|天峻县
+天峻县 | TRADUÇÃO: Tianjun, um condado na Prefeitura Autônoma Mongol e Tibetana de Haixi 海西蒙古族藏族自治州, Qinghai
+天崩地裂 | TRADUÇÃO: o céu desaba e a terra se rasga (expressão idiomática); abalado por um grande desastre / fig. revolução violenta / grande agitação social
+天差地别 | TRADUÇÃO: (expressão idiomática) opostos polares; tão diferentes quanto possível
+天差地远 | TRADUÇÃO: opostos polares (expressão idiomática) / totalmente diferentes
+天帝 | TRADUÇÃO: Deus do céu / Imperador Celestial
+天干 | TRADUÇÃO: os 10 troncos celestes 甲, 乙, 丙, 丁, 戊, 己, 庚, 辛, 壬, 癸, usados ciclicamente no calendário e como numerais ordinais I, II etc.
+天平 | TRADUÇÃO: balança (para pesar coisas)
+天平动 | TRADUÇÃO: (astronomia) libração
+天年 | TRADUÇÃO: expectativa de vida natural
+天幸 | TRADUÇÃO: sorte providencial / escapada por pouco
+天底 | TRADUÇÃO: (astronomia) nadir
+天底下 | TRADUÇÃO: neste mundo / sob o sol
+天府 | TRADUÇÃO: Província Celestial (epíteto de Sichuan, especialmente a área ao redor de Chengdu) / terra da abundância
+天府之国 | TRADUÇÃO: (expressão idiomática) terra da abundância (usado geralmente em referência a Sichuan)
+天庭 | TRADUÇÃO: meio da testa / corte imperial / céu
+天心 | TRADUÇÃO: veja 天心區|天心区 ‖ centro do céu / vontade do céu / vontade dos deuses / vontade do monarca
+天心区 | TRADUÇÃO: Tianxin, um distrito da cidade de Changsha 長沙市|长沙市, Hunan
+天性 | TRADUÇÃO: natureza / tendência inata
+天意 | TRADUÇÃO: providência / Vontade do Céu
+天悬地隔 | TRADUÇÃO: veja 天差地遠|天差地远
+天成 | TRADUÇÃO: como se feito pelo céu
+天才 | TRADUÇÃO: talento / dom / gênio / talentoso / dotado
+天择 | TRADUÇÃO: seleção natural
+天敌 | TRADUÇÃO: predador; inimigo natural
+天数 | TRADUÇÃO: número de dias / destino / fado
+天文 | TRADUÇÃO: astronomia
+天文台 | TRADUÇÃO: observatório astronômico
+天文单位 | TRADUÇÃO: unidade astronômica (UA)
+天文学 | TRADUÇÃO: astronomia
+天文学大成 | TRADUÇÃO: o Almagesto de Ptolomeu
+天文学家 | TRADUÇÃO: astrônomo
+天文数字 | TRADUÇÃO: (expressão idiomática) número astronômico
+天文望远镜 | TRADUÇÃO: telescópio astronômico
+天文馆 | TRADUÇÃO: planetário
+天方 | TRADUÇÃO: (antigo) Arábia / árabe
+天方夜谭 | TRADUÇÃO: As Mil e Uma Noites (história clássica) ‖ história de fantasia
+天旋地转 | TRADUÇÃO: o céu gira, a terra roda (expressão idiomática); tonto com a cabeça girando / fig. enormes mudanças no mundo
+天旱 | TRADUÇÃO: seca
+天明 | TRADUÇÃO: amanhecer / alvorada
+天星码头 | TRADUÇÃO: Terminal da Star Ferry, Hong Kong
+天时 | TRADUÇÃO: a hora / o momento certo / condições climáticas / destino / curso do tempo / ordem natural do céu
+天时地利人和 | TRADUÇÃO: a hora é certa, condições geográficas e sociais são favoráveis (expressão idiomática); um bom momento para ir à guerra
+天晓得 | TRADUÇÃO: Só Deus sabe!
+天书 | TRADUÇÃO: édito imperial / livro celestial (superstição) / escrita obscura ou ilegível / grego
+天有不测风云，人有旦夕祸福 | TRADUÇÃO: a fortuna é tão imprevisível quanto o tempo, cada dia pode trazer fortuna ou calamidade (expressão idiomática); algo inesperado pode acontecer a qualquer momento
+天朝 | TRADUÇÃO: Império Celestial, título tributário conferido à China imperial / Reino Celestial Taiping
+天柱 | TRADUÇÃO: veja 天柱縣|天柱县 ‖ pilares que sustentam o céu
+天柱县 | TRADUÇÃO: Tianzhu, um condado na Prefeitura Autônoma Miao e Dong de Qiandongnan 黔東南苗族侗族自治州|黔东南苗族侗族自治州, Guizhou
+天条 | TRADUÇÃO: decreto celestial; mandamento divino; (fig.) tabu inquebrável; édito absoluto (frequentemente humorístico ou sarcástico) / decretos de proibição do Reino Celestial Taiping 太平天國|太平天国
+天梯 | TRADUÇÃO: escada para o céu / estrada de montanha alta / escada alta em um edifício ou outra grande estrutura / elevador espacial
+天棚 | TRADUÇÃO: teto / toldo
+天枢 | TRADUÇÃO: Dubhe; Alpha Ursae Majoris na Ursa Maior
+天桥 | TRADUÇÃO: distrito de Tianqiao da cidade de Jinan 濟南市|济南市, Shandong / distrito de Tianqiao em Pequim, antigamente um centro de cultura popular ‖ passarela elevada / ponte para pedestres
+天桥区 | TRADUÇÃO: Tianqiao, um distrito da cidade de Jinan 濟南市|济南市, Shandong
+天机 | TRADUÇÃO: mistério conhecido apenas pelo céu (arcaico) / reviravolta inescrutável do destino / fig. segredo de Estado
+天机不可泄漏 | TRADUÇÃO: lit. os mistérios do céu não devem ser revelados (expressão idiomática); não devem ser revelados / Não estou em condições de informá-lo.
+天机不可泄露 | TRADUÇÃO: lit. os mistérios do céu não devem ser revelados (expressão idiomática); não devem ser revelados / Não estou em condições de informá-lo.
+天权 | TRADUÇÃO: Megrez; Delta Ursae Majoris na Ursa Maior
+天次 | TRADUÇÃO: número de dias em que algo ocorre (p. ex., dias de poluição intensa) / dias / ocasiões
+天杀的 | TRADUÇÃO: Maldito!/maldito / desgraçado
+天气 | TRADUÇÃO: tempo (clima)
+天气预报 | TRADUÇÃO: previsão do tempo
+天水 | TRADUÇÃO: veja 天水市
+天水市 | TRADUÇÃO: Tianshui, cidade de nível de prefeitura na província de Gansu 甘肅省|甘肃省
+天水碧 | TRADUÇÃO: ciano claro
+天池 | TRADUÇÃO: Lago Tianchi em Xinjiang ‖ "lago celestial", lago situado em uma montanha / usado como nome de numerosos lagos, como 長白山天池|长白山天池
+天河 | TRADUÇÃO: Via Láctea / veja 天河區|天河区
+天河区 | TRADUÇÃO: Tianhe, um distrito da cidade de Guangzhou 廣州市|广州市, Guangdong
+天津 | TRADUÇÃO: Tianjin, município (abrev. 津)
+天津外国语大学 | TRADUÇÃO: Universidade de Estudos Estrangeiros de Tianjin
+天津大学 | TRADUÇÃO: Universidade de Tianjin
+天津市 | TRADUÇÃO: Município de Tianjin (abrev. 津)
+天津会议专条 | TRADUÇÃO: Acordo de Tianjin de 1885 entre Li Hongzhang 李鴻章|李鸿章 e Itō Hirobumi 伊藤博文 para retirar as tropas Qing e japonesas da Coreia
+天津条约 | TRADUÇÃO: Tratado de Tianjin de 1858, uma sequência de tratados desiguais 不平等條約|不平等条约 entre Rússia, EUA, Inglaterra, França e China Qing
+天津环球金融中心 | TRADUÇÃO: Centro Financeiro Mundial de Tianjin, arranha-céu também conhecido como Torre de Tianjin ou Torre Jin / abrev. para 津塔
+天津卫 | TRADUÇÃO: (dinastia Ming) guarnição de Tianjin; nome histórico de Tianjin 天津
+天涯 | TRADUÇÃO: veja 天涯區|天涯区 ‖ o outro lado do mundo / um lugar distante
+天涯何处无芳草 | TRADUÇÃO: há muito mais peixe no mar (expressão idiomática)
+天涯区 | TRADUÇÃO: Tianya, um distrito da cidade de Sanya 三亞市|三亚市, Hainan
+天涯比邻 | TRADUÇÃO: veja 天涯若比鄰|天涯若比邻
+天涯海角 | TRADUÇÃO: Tianya Haijiao, área turística na costa sul de Hainan, 24 km a oeste de Sanya 三亞|三亚 ‖ os confins da terra / mundos separados
+天涯若比邻 | TRADUÇÃO: lugares distantes como vizinhos (expressão idiomática) / próximos em espírito embora distantes
+天渊 | TRADUÇÃO: distância entre dois polos / polos opostos
+天渊之别 | TRADUÇÃO: veja 天壤之別|天壤之别
+天沟 | TRADUÇÃO: calha (de água pluvial)
+天演 | TRADUÇÃO: mudança natural / evolução (tradução inicial, posteriormente substituída por 進化|进化)
+天演论 | TRADUÇÃO: teoria da evolução (tradução inicial, posteriormente substituída por 進化論|进化论)
+天汉 | TRADUÇÃO: Via Láctea
+天灾 | TRADUÇÃO: desastre natural
+天灾人祸 | TRADUÇÃO: calamidades naturais e desastres causados pelo homem (expressão idiomática)
+天灾地孽 | TRADUÇÃO: catástrofes e fenômenos não naturais/avisos enviados pelo céu
+天无绝人之路 | TRADUÇÃO: O céu nunca fecha o caminho de alguém (expressão idiomática); não se desespere e você encontrará uma saída./Nunca desista da esperança./Nunca diga morrer.
+天然 | TRADUÇÃO: natural
+天然呆 | TRADUÇÃO: (estrangeirismo do japonês "tennen boke") distraído/desmiolado
+天然橡胶 | TRADUÇÃO: borracha natural
+天然毒素 | TRADUÇÃO: toxina natural
+天然气 | TRADUÇÃO: gás natural
+天然纤维 | TRADUÇÃO: fibra natural
+天然铀 | TRADUÇÃO: urânio natural
+天煞孤星 | TRADUÇÃO: ruína da existência alheia
+天灯 | TRADUÇÃO: lanterna celeste (miniatura de balão de ar quente usada durante festivais)
+天燕座 | TRADUÇÃO: Apus (constelação)
+天炉座 | TRADUÇÃO: Fornax (constelação)
+天父 | TRADUÇÃO: Pai Celestial
+天牛 | TRADUÇÃO: besouro serrador
+天狼星 | TRADUÇÃO: Sirius, estrela dupla na constelação de Cão Maior 大犬座
+天王 | TRADUÇÃO: imperador/deus/título autoproclamado por Hong Xiuquan/ver também 洪秀全
+天王星 | TRADUÇÃO: Urano (planeta)
+天珠 | TRADUÇÃO: conta dzi, um tipo de conta de pedra altamente valorizada no Tibete por muitos séculos, reputada por deter poder sobrenatural
+天球 | TRADUÇÃO: esfera celeste
+天球赤道 | TRADUÇÃO: equador celeste
+天理 | TRADUÇÃO: lei do céu/a ordem natural das coisas
+天理教 | TRADUÇÃO: Tenrikyo, uma religião japonesa
+天理难容 | TRADUÇÃO: O céu não pode tolerar isso (expressão idiomática)/comportamento intolerável
+天琴座 | TRADUÇÃO: Lyra (constelação)
+天琴星座 | TRADUÇÃO: Lyra, constelação que contém Vega 織女星|织女星
+天璇 | TRADUÇÃO: Merak; Beta Ursae Majoris na Ursa Maior
+天玑 | TRADUÇÃO: Phecda; Gamma Ursae Majoris na Ursa Maior
+天生 | TRADUÇÃO: natureza/disposição/ inato/natural
+天生一对 | TRADUÇÃO: um par feito no céu; um casal perfeito
+天生的一对 | TRADUÇÃO: casal que foi feito um para o outro
+天生丽质 | TRADUÇÃO: (expressão idiomática) ser naturalmente bonita; nascer bonita
+天界 | TRADUÇÃO: céu
+天癸 | TRADUÇÃO: (MTC) menstruação/período
+天皇 | TRADUÇÃO: Soberano Celestial, um dos três soberanos lendários 三皇/imperador/imperador do Japão
+天疱疮 | TRADUÇÃO: (medicina) pênfigo
+天真 | TRADUÇÃO: ingênuo/inocente/sem artifícios
+天真烂漫 | TRADUÇÃO: (expressão idiomática) inocente e espontâneo
+天眼 | TRADUÇÃO: apelido do radiotelescópio FAST (em Guizhou)
+天祝 | TRADUÇÃO: ver 天祝藏族自治縣|天祝藏族自治县
+天祝县 | TRADUÇÃO: ver 天祝藏族自治縣|天祝藏族自治县
+天祝藏族自治县 | TRADUÇÃO: Condado Autônomo Tibetano de Tianzhu, na cidade de Wuwei 武威市, Gansu
+天神 | TRADUÇÃO: deus/divindade
+天禄 | TRADUÇÃO: animal esculpido auspicioso, geralmente um unicórnio ou veado com cauda longa/posse do império
+天秤 | TRADUÇÃO: balança de pratos/ pronúncia de Taiwan [tian1 ping2]
+天秤座 | TRADUÇÃO: Libra (constelação e signo do zodíaco)
+天空 | TRADUÇÃO: céu
+天穿日 | TRADUÇÃO: festival hakka realizado no 20º dia do primeiro mês lunar
+天窗 | TRADUÇÃO: alçapão/claraboia/teto solar
+天竺 | TRADUÇÃO: o subcontinente indiano (especialmente no contexto Tang ou budista)
+天竺牡丹 | TRADUÇÃO: dália
+天竺葵 | TRADUÇÃO: gerânio (Pelargonium hortorum)
+天竺鼠 | TRADUÇÃO: cobaia/porquinho-da-índia
+天等 | TRADUÇÃO: ver 天等縣|天等县
+天等县 | TRADUÇÃO: Tiandeng, um condado na cidade de Chongzuo 崇左市, Guangxi
+天箭座 | TRADUÇÃO: Sagitta (constelação)
+天篷 | TRADUÇÃO: dossel
+天籁 | TRADUÇÃO: sons da natureza
+天籁之音 | TRADUÇÃO: música extraordinariamente bela
+天经地义 | TRADUÇÃO: lit. lei do céu e princípio da terra (expressão idiomática); fig. correto e apropriado/correto e imutável/uma questão de curso normal
+天网 | TRADUÇÃO: Skynet (sistema nacional de vigilância por vídeo na China)
+天网恢恢 | TRADUÇÃO: lit. a rede do céu tem malhas largas, mas nada escapa dela (expressão idiomática, de Laozi 73)/fig. o caminho do Céu é justo, mas os culpados não escaparão/você não pode fugir do longo braço da lei
+天网恢恢，疏而不失 | TRADUÇÃO: ver 天網恢恢，疏而不漏|天网恢恢，疏而不漏
+天网恢恢，疏而不漏 | TRADUÇÃO: lit. a rede do céu tem malhas largas, mas nada escapa dela (expressão idiomática, de Laozi 73)/fig. o caminho do Céu é justo, mas os culpados não escaparão/você não pode fugir do longo braço da lei
+天线 | TRADUÇÃO: antena/(fig.) conexão com autoridades superiores; canal para pessoas influentes
+天线宝宝 | TRADUÇÃO: Teletubbies
+天罡 | TRADUÇÃO: (antigo) a Ursa Maior/(antigo) nome coletivo para as três estrelas que formam a alça da Ursa Maior
+天罗地网 | TRADUÇÃO: rede inescapável (expressão idiomática)/armadilha/arrastão
+天翻地覆 | TRADUÇÃO: céu e terra virados de cabeça para baixo (expressão idiomática); fig. confusão completa/tudo virado ao contrário
+天老儿 | TRADUÇÃO: albino (humano)
+天老爷 | TRADUÇÃO: ver 老天爺|老天爷
+天职 | TRADUÇÃO: vocação/dever/missão de vida
+天舟座 | TRADUÇÃO: Argo (constelação, agora dividida em Carina 船底座 e Puppis 船尾座)
+天良 | TRADUÇÃO: consciência
+天色 | TRADUÇÃO: cor do céu/hora do dia, indicada pela cor do céu/tempo
+天花 | TRADUÇÃO: varíola/teto/ estame do milho/(antigo) neve/(dialeto) óleo de gergelim
+天花乱坠 | TRADUÇÃO: (lit.) uma enxurrada de flores celestiais (expressão idiomática)/(fig.) adornos extravagantes; exagero
+天花板 | TRADUÇÃO: teto (de um cômodo)/(fig.) limite superior; (gíria) o melhor (em determinado campo)
+天花病毒 | TRADUÇÃO: vírus da varíola
+天荒地老 | TRADUÇÃO: (expressão idiomática) até o fim dos tempos
+天葬 | TRADUÇÃO: sepultamento celeste (prática funerária tibetana)
+天蓝 | TRADUÇÃO: azul-céu
+天蓝色 | TRADUÇÃO: azul-celeste
+天蝼 | TRADUÇÃO: grilo-toupeira/palavra gíria para a praga agrícola Gryllotalpa
+天蟹座 | TRADUÇÃO: Câncer (constelação e signo do zodíaco)/variante de 巨蟹座
+天蝎 | TRADUÇÃO: Escorpião (constelação)
+天蝎座 | TRADUÇÃO: Escorpião (constelação e signo do zodíaco)
+天行赤眼 | TRADUÇÃO: conjuntivite aguda contagiosa (MTC)
+天衣无缝 | TRADUÇÃO: lit. roupas celestiais sem costura (expressão idiomática)/fig. impecável
+天要下雨，娘要嫁人 | TRADUÇÃO: (lit.) os céus choverão e as mães viúvas se casarão novamente (ditado)/(fig.) algumas coisas são inevitáveis
+天亲 | TRADUÇÃO: sangue da própria carne
+天诛 | TRADUÇÃO: punição celestial/punição do rei
+天课 | TRADUÇÃO: zakat
+天谴 | TRADUÇÃO: a ira do Céu/desagrado imperial
+天象 | TRADUÇÃO: fenômeno meteorológico ou astronômico (ex.: arco-íris ou eclipse)
+天象仪 | TRADUÇÃO: projetor de planetário
+天猫座 | TRADUÇÃO: Lynx (constelação)
+天贝 | TRADUÇÃO: tempeh (estrangeirismo)
+天资 | TRADUÇÃO: talento inato/dádiva/flair/aptidão natural/dote
+天赐 | TRADUÇÃO: dado pelo céu
+天赋 | TRADUÇÃO: dom/talento inato
+天赋异禀 | TRADUÇÃO: talento extraordinário/excepcionalmente dotado
+天趣 | TRADUÇÃO: charme natural (de escritos, obras de arte etc.)
+天路历程 | TRADUÇÃO: O Peregrino, romance de 1678 de John Bunyan (primeira tradução chinesa em 1851)
+天车 | TRADUÇÃO: ponte rolante
+天造地设 | TRADUÇÃO: (expressão idiomática) feito pelo Céu e arranjado pela Terra / ideal / perfeito / (de um par) feito um para o outro
+天道 | TRADUÇÃO: lei natural / lei celeste / (dialeto) clima; tempo
+天道酬勤 | TRADUÇÃO: (expressão idiomática) O Céu recompensa os diligentes.
+天边 | TRADUÇÃO: horizonte / confins da Terra / lugares remotíssimos
+天那水 | TRADUÇÃO: (estrangeirismo) tíner
+天量 | TRADUÇÃO: número impressionante / quantidade astronômica
+天镇 | TRADUÇÃO: ver 天鎮縣|天镇县
+天镇县 | TRADUÇÃO: Tianzhen, um condado em Datong City 大同市, Shanxi
+天长 | TRADUÇÃO: ver 天長市|天长市
+天长地久 | TRADUÇÃO: (expressão idiomática) duradouro enquanto o mundo durar / eterno
+天长市 | TRADUÇÃO: Tianchang, uma cidade em nível de condado em Chuzhou City 滁州市, Anhui
+天长日久 | TRADUÇÃO: (expressão idiomática) após muito tempo
+天门 | TRADUÇÃO: Tianmen, cidade subprefeitura em Hubei
+天门冬 | TRADUÇÃO: aspargo (planta)
+天门冬科 | TRADUÇÃO: Asparagaceae, família de plantas com flores que inclui o aspargo
+天门市 | TRADUÇÃO: Tianmen, cidade subprefeitura em Hubei
+天际 | TRADUÇÃO: horizonte
+天际线 | TRADUÇÃO: horizonte da cidade / linha do horizonte
+天险 | TRADUÇÃO: fortaleza natural
+天雨路滑 | TRADUÇÃO: (expressão idiomática) estradas escorregadias devido à chuva
+天电 | TRADUÇÃO: atmosféricos / estática (rádio)
+天灵盖 | TRADUÇÃO: alto da cabeça / moleira
+天青石 | TRADUÇÃO: lápis-lazúli
+天顶 | TRADUÇÃO: zênite
+天顺 | TRADUÇÃO: Imperador Tianshun, nome de reinado do oitavo imperador Ming 朱祁鎮|朱祁镇 (1427-1464), reinou 1457-1464, nome de templo Yingzong 英宗
+天头 | TRADUÇÃO: margem superior de uma página
+天香国色 | TRADUÇÃO: (expressão idiomática) fragrância divina, graça nacional / beleza excepcional
+天马 | TRADUÇÃO: (mitologia) cavalo celestial / cavalo de raça; cavalo Ferghana / (mitologia ocidental) Pégaso
+天马行空 | TRADUÇÃO: (expressão idiomática) como um corcel celestial galopando pelos céus / (de escrita, caligrafia etc.) ousado e imaginativo / sem restrições de estilo
+天惊石破 | TRADUÇÃO: ver 石破天驚|石破天惊
+天体 | TRADUÇÃO: corpo celeste / corpo nu
+天体主义 | TRADUÇÃO: naturismo
+天体光谱学 | TRADUÇÃO: espectroscopia astronômica
+天体力学 | TRADUÇÃO: mecânica celeste
+天体演化学 | TRADUÇÃO: cosmogonia
+天体物理 | TRADUÇÃO: astrofísica
+天体物理学 | TRADUÇÃO: astrofísica
+天体物理学家 | TRADUÇÃO: astrofísico(a)
+天高气爽 | TRADUÇÃO: ver 秋高氣爽|秋高气爽
+天高皇帝远 | TRADUÇÃO: (expressão idiomática) fig. lugares remotos estão fora do alcance do governo central / o céu está alto e o imperador está longe
+天魔 | TRADUÇÃO: demoníaco / demônio / diabo
+天鸽座 | TRADUÇÃO: Columba (constelação)
+天鹅 | TRADUÇÃO: cisne
+天鹅座 | TRADUÇÃO: Cygnus (constelação)
+天鹅湖 | TRADUÇÃO: Lago dos Cisnes
+天鹅绒 | TRADUÇÃO: veludo / penugem de cisne
+天鹤座 | TRADUÇÃO: Grus (constelação)
+天鹰座 | TRADUÇÃO: Águia (constelação)
+天麻 | TRADUÇÃO: Gastrodia elata (botânica)
+天黑 | TRADUÇÃO: escurecer / anoitecer
+天龙人 | TRADUÇÃO: (Taiwan) (gíria) pessoas privilegiadas alheias às dificuldades alheias / residentes de Taipei ou moradores urbanos que se consideram superiores aos outros (empréstimo ortográfico do japonês 天竜人 “Tenryūjin”, grupo arrogante e privilegiado no mangá “One Piece”)
+天龙八部 | TRADUÇÃO: Demigods and Semidevils, romance de artes marciais de Jin Yong 金庸 e suas adaptações para TV e cinema
+天龙国 | TRADUÇÃO: (Taiwan) (gíria) apelido para Taipei (implicando que os residentes são privilegiados, com acesso a recursos abundantes)
+天龙座 | TRADUÇÃO: Draco (constelação)
+太 | TRADUÇÃO: mais alto / maior / demais (muito) / muito / extremamente
+太上 | TRADUÇÃO: título de respeito para taoístas
+太上皇 | TRADUÇÃO: Taishang Huang / Imperador Aposentado / pai do imperador reinante / fig. fantoche; quem manipula nos bastidores
+太乙金华宗旨 | TRADUÇÃO: O Segredo da Flor de Ouro, clássico do taoísmo chinês publicado no final do século XVII
+太保 | TRADUÇÃO: Taibao ou Taipao, cidade no Condado de Chiayi 嘉義縣|嘉义县, oeste de Taiwan ‖ alto funcionário na China antiga / delinquentes juvenis
+太保市 | TRADUÇÃO: Taibao ou Taipao, cidade no Condado de Chiayi 嘉義縣|嘉义县, oeste de Taiwan
+太仓 | TRADUÇÃO: ver 太倉市|太仓市
+太仓市 | TRADUÇÃO: Taicang, uma cidade em nível de condado em Suzhou City 蘇州市|苏州市, Jiangsu
+太仆 | TRADUÇÃO: cargo ministerial na China imperial (nas dinastias Qin e Han, o ministro responsável pelos estábulos imperiais)
+太仆寺 | TRADUÇÃO: Tribunal do Cavalo Imperial, cargo originalmente responsável pela criação de cavalos / Bandeira Taibus na Liga Xilingol 錫林郭勒盟|锡林郭勒盟, Mongólia Interior
+太仆寺卿 | TRADUÇÃO: Ministro do Cavalo Imperial, originalmente encarregado da criação de cavalos
+太仆寺旗 | TRADUÇÃO: Bandeira Taibus na Liga Xilingol 錫林郭勒盟|锡林郭勒盟, Mongólia Interior
+太公 | TRADUÇÃO: bisavô / (antigo) avô / pai
+太公兵法 | TRADUÇÃO: nome alternativo para 六韜|六韬, um dos Sete Clássicos Militares da China antiga
+太公望 | TRADUÇÃO: ver Jiang Ziya 姜子牙
+太公钓鱼，愿者上钩 | TRADUÇÃO: (expressão idiomática) Jiang Ziya está pescando, se você quiser, pegue o anzol / colocar a cabeça na forca
+太初 | TRADUÇÃO: o início absoluto
+太半 | TRADUÇÃO: mais da metade / maioria / a maior parte / principalmente
+太原 | TRADUÇÃO: ver 太原市
+太原市 | TRADUÇÃO: Taiyuan, cidade em nível de prefeitura e capital da Província de Shanxi 山西省
+太古 | TRADUÇÃO: imemorial
+太古代 | TRADUÇÃO: Arqueozoico (era geológica anterior a 2500 milhões de anos atrás)
+太古宙 | TRADUÇÃO: Arqueano (éon geológico anterior a 2500 milhões de anos atrás)
+太古洋行 | TRADUÇÃO: Butterfield and Swire (banco de Hong Kong)
+太史 | TRADUÇÃO: sobrenome de dois caracteres Taishi
+太史令 | TRADUÇÃO: arquivista-chefe (cargo oficial em muitos estados chineses até a dinastia Han)
+太史公 | TRADUÇÃO: Grande Arquivista, título pelo qual Sima Qian 司馬遷|司马迁 se refere a si mesmo nos Registros do Historiador 史記|史记
+太后 | TRADUÇÃO: Imperatriz Viúva
+太和 | TRADUÇÃO: ver 太和縣|太和县 / ver 太和區|太和区
+太和区 | TRADUÇÃO: Taihe, um distrito de Jinzhou City 錦州市|锦州市, Liaoning
+太和殿 | TRADUÇÃO: Salão da Harmonia Suprema, o maior dos três salões que constituem o coração do Pátio Externo da Cidade Proibida 紫禁城
+太和县 | TRADUÇÃO: Taihe, um condado em Fuyang City 阜陽市|阜阳市, Anhui
+太太 | TRADUÇÃO: mulher casada / Sra. / senhora / esposa / CL:個|个,位
+太夫人 | TRADUÇÃO: (antigo) viúva / senhora idosa (título para a mãe de um nobre ou oficial)
+太好了 | TRADUÇÃO: muito bom / ótimo
+太妃糖 | TRADUÇÃO: (estrangeirismo) caramelo; toffee
+太妹 | TRADUÇÃO: garota delinquente / moleca / valentona escolar
+太婆 | TRADUÇÃO: bisavó
+太子 | TRADUÇÃO: príncipe herdeiro
+太子丹 | TRADUÇÃO: Príncipe Dan de Yan (séc. III a.C.), que encomendou a tentativa de assassinato do Rei Ying Zheng de Qin (posteriormente Primeiro Imperador) por Jing Ke em 227 a.C.
+太子十三峰 | TRADUÇÃO: treze picos da Cordilheira Nevada de Meili na Prefeitura Autônoma Tibetana de Diqing, Yunnan
+太子太保 | TRADUÇÃO: tutor do príncipe herdeiro (na China imperial)
+太子河 | TRADUÇÃO: ver 太子河區|太子河区
+太子河区 | TRADUÇÃO: Taizihe, distrito da cidade de Liaoyang, Liaoning
+太子港 | TRADUÇÃO: Porto Príncipe, capital do Haiti
+太子党 | TRADUÇÃO: principinhos, descendentes de altos quadros do Partido Comunista (RPC)
+太学 | TRADUÇÃO: Colégio Imperial do Supremo Conhecimento, fundado em 124 a.C., a mais alta instituição educacional da China antiga até a Dinastia Sui
+太守 | TRADUÇÃO: governador de província
+太宗 | TRADUÇÃO: nome póstumo dado ao segundo imperador de uma dinastia/Rei Taejong da Coreia Joseon (1367–1422), reinou de 1400 a 1418
+太师 | TRADUÇÃO: tutor imperial
+太常 | TRADUÇÃO: ministro de cerimônias na China imperial
+太平 | TRADUÇÃO: ver 太平區|太平区 ‖ paz e segurança
+太平公主 | TRADUÇÃO: Princesa Taiping (c. 665-713), princesa da Dinastia Tang, politicamente poderosa e conhecida por sua beleza
+太平区 | TRADUÇÃO: Taiping, distrito da cidade de Fuxin, Liaoning
+太平天国 | TRADUÇÃO: Reino Celestial Taiping (1851-1864)
+太平天国起义 | TRADUÇÃO: Rebelião Taiping (1850–1864), rebelião massiva no sul da China contra a Dinastia Qing, liderada por Hong Xiuquan, que buscou estabelecer o Reino Celestial Taiping, resultando em um dos conflitos mais letais da história com milhões de baixas
+太平广记 | TRADUÇÃO: Extensos registros da era Taiping (978), história ficcional editada por Li Fang
+太平御览 | TRADUÇÃO: Leituras Imperiais da Era Taiping, enciclopédia geral da Dinastia Song compilada entre 977-983 sob Li Fang, 1000 volumes
+太平洋 | TRADUÇÃO: Oceano Pacífico
+太平洋周边 | TRADUÇÃO: variante de 太平洋週邊|太平洋周边, Borda do Pacífico ‖ Borda do Pacífico
+太平洋战争 | TRADUÇÃO: Guerra do Pacífico entre Japão e EUA, 1941-1945
+太平洋潜鸟 | TRADUÇÃO: (espécie de ave da China) mobelha-do-pacífico (Gavia pacifica)
+太平洋联合铁路 | TRADUÇÃO: Union Pacific Railroad
+太平盛世 | TRADUÇÃO: paz e prosperidade (expressão idiomática)
+太平绅士 | TRADUÇÃO: Juiz de Paz (JP)
+太平门 | TRADUÇÃO: saída de emergência
+太平间 | TRADUÇÃO: necrotério/morgue
+太平鸟 | TRADUÇÃO: (espécie de ave da China) tagarela-boreal (Bombycilla garrulus)
+太康 | TRADUÇÃO: ver 太康縣|太康县
+太康县 | TRADUÇÃO: Taikang, condado na cidade de Zhoukou, Henan
+太极 | TRADUÇÃO: o Absoluto ou Supremo Último, a fonte de todas as coisas segundo algumas interpretações da mitologia chinesa
+太极剑 | TRADUÇÃO: um tipo de esgrima tradicional chinesa
+太极图 | TRADUÇÃO: diagrama do esquema cosmológico/símbolo do Yin-Yang ☯
+太极图说 | TRADUÇÃO: livro filosófico do erudito da Dinastia Song Zhou Dunyi, partindo de uma interpretação do Livro das Mutações
+太极拳 | TRADUÇÃO: tai chi chuan, forma tradicional de exercício físico ou relaxamento/arte marcial
+太岁 | TRADUÇÃO: Tai Sui, Deus do ano/nome arcaico para o planeta Júpiter/apelido para alguém que é o mais poderoso em uma área
+太液池 | TRADUÇÃO: área a oeste da Cidade Proibida, agora dividida em Zhongnanhai e Beihai
+太湖 | TRADUÇÃO: Lago Tai perto da cidade de Wuxi, na fronteira de Jiangsu e Zhejiang, um dos maiores lagos de água doce da China ‖ ver 太湖縣|太湖县
+太湖县 | TRADUÇÃO: Taihu, condado na cidade de Anqing, Anhui
+太爷 | TRADUÇÃO: (respeitoso para) avô/pai de alguém/pessoas mais velhas/chefe da casa (usado por servos)/magistrado distrital
+太牢 | TRADUÇÃO: (na antiguidade) animal de sacrifício (vaca, ovelha ou porco)
+太田 | TRADUÇÃO: Ohta ou Ōta (sobrenome japonês)
+太白 | TRADUÇÃO: Condado de Taibai em Baoji, Shaanxi/Vênus
+太白山 | TRADUÇÃO: Monte Taibai em Shaanxi
+太白星 | TRADUÇÃO: Vênus (planeta)
+太白粉 | TRADUÇÃO: amido de milho/amido de batata
+太白县 | TRADUÇÃO: Taibai, condado na cidade de Baoji, Shaanxi
+太监 | TRADUÇÃO: eunuco da corte/eunuco palaciano
+太祖 | TRADUÇÃO: Grande Ancestral (título póstumo, e.g. para o fundador de uma dinastia)
+太空 | TRADUÇÃO: espaço sideral
+太空人 | TRADUÇÃO: astronauta
+太空探索 | TRADUÇÃO: exploração espacial
+太空服 | TRADUÇÃO: traje espacial
+太空梭 | TRADUÇÃO: ônibus espacial
+太空步 | TRADUÇÃO: moonwalk (dança)
+太空漫步 | TRADUÇÃO: caminhada espacial
+太空站 | TRADUÇÃO: estação espacial
+太空舞步 | TRADUÇÃO: moonwalk (dança)
+太空船 | TRADUÇÃO: nave espacial
+太空舱 | TRADUÇÃO: cápsula espacial/cápsula de ejeção (cabine)
+太空行走 | TRADUÇÃO: caminhada espacial
+太空游 | TRADUÇÃO: turismo espacial
+太空飞船 | TRADUÇÃO: Ônibus Espacial, sistema de nave dos EUA (1981-2011) ‖ nave espacial/nave cósmica
+太虚 | TRADUÇÃO: Taixu (famoso monge budista, 1890-1947) ‖ grande vazio/o vácuo/céu/céus/universo/cosmos/essência original do cosmos
+太行山 | TRADUÇÃO: Cordilheira Taihang na fronteira entre Hebei e Shanxi
+太谷 | TRADUÇÃO: ver 太谷區|太谷区
+太谷区 | TRADUÇÃO: Taigu, distrito da cidade de Jinzhong, Shanxi
+太过 | TRADUÇÃO: excessivamente/demais
+太医 | TRADUÇÃO: médico imperial
+太长不看 | TRADUÇÃO: (gíria da internet) TL;DR
+太阿 | TRADUÇÃO: variante de 泰阿
+太阴 | TRADUÇÃO: a Lua (especialmente no Daoísmo)
+太阳 | TRADUÇÃO: sol/luz solar; claridade do sol/têmpora (na lateral da cabeça humana) (abrev. de 太陽穴|太阳穴)
+太阳光 | TRADUÇÃO: luz solar
+太阳光柱 | TRADUÇÃO: pilar solar/coluna solar (óptica atmosférica)
+太阳报 | TRADUÇÃO: The Sun (nome de vários jornais, notadamente no Reino Unido e em Hong Kong)
+太阳从西边出来 | TRADUÇÃO: lit. o sol nasce no oeste (expressão idiomática)/fig. quando o inferno congelar/quando galo cantar de muleta
+太阳微系统公司 | TRADUÇÃO: Sun Microsystems
+太阳日 | TRADUÇÃO: dia solar
+太阳晒屁股 | TRADUÇÃO: ter dormido demais/Acordem!
+太阳活动 | TRADUÇÃO: atividade de manchas solares/variação solar
+太阳照在桑干河上 | TRADUÇÃO: "O Sol Brilha sobre o Rio Sanggan", romance realista socialista de Ding Ling, pelo qual recebeu o Prêmio Stalin de Literatura em 1951
+太阳灯 | TRADUÇÃO: lâmpada solar
+太阳眼镜 | TRADUÇÃO: óculos de sol
+太阳神 | TRADUÇÃO: Deus Sol/Apolo
+太阳神经丛 | TRADUÇÃO: plexo solar chakra
+太阳神计划 | TRADUÇÃO: Projeto Apollo
+太阳穴 | TRADUÇÃO: têmpora (nas laterais da cabeça humana)
+太阳窗 | TRADUÇÃO: janela solar/teto solar (de carro)
+太阳窝 | TRADUÇÃO: têmpora (nas laterais da cabeça humana)
+太阳系 | TRADUÇÃO: sistema solar
+太阳翼 | TRADUÇÃO: painel solar
+太阳能 | TRADUÇÃO: energia solar
+太阳能板 | TRADUÇÃO: painel solar
+太阳能电池 | TRADUÇÃO: célula solar
+太阳花 | TRADUÇÃO: girassol (Helianthus annuus)/onze-horas (Portulaca grandiflora)
+太阳蛋 | TRADUÇÃO: ovo frito; ovo com a gema para cima
+太阳轮 | TRADUÇÃO: plexo solar (chacra)
+太阳镜 | TRADUÇÃO: óculos de sol
+太阳雨 | TRADUÇÃO: chuva com sol
+太阳电池 | TRADUÇÃO: célula solar
+太阳电池板 | TRADUÇÃO: painel solar
+太阳风 | TRADUÇÃO: vento solar
+太阳风暴 | TRADUÇÃO: tempestade solar
+太阳饼 | TRADUÇÃO: bolo solar (pequeno bolo redondo de massa folhada com recheio de maltose, originário de Taichung, Taiwan)
+太阳黑子 | TRADUÇÃO: mancha solar
+太阳黑子周 | TRADUÇÃO: ciclo de manchas solares
+太鲁阁 | TRADUÇÃO: Parque Nacional Taroko no Condado de Hualien, Taiwan/grupo étnico Taroko de Taiwan
+太鲁阁族 | TRADUÇÃO: Taroko, um dos povos indígenas de Taiwan
+太麻里 | TRADUÇÃO: Taimali, distrito do Condado de Taitung, sudeste de Taiwan
+太麻里乡 | TRADUÇÃO: distrito de Taimali no Condado de Taitung, sudeste de Taiwan
+夫 | TRADUÇÃO: marido/homem/trabalhador braçal/trabalhador conscrito (antigo) ‖ (clássico) este, aquele/ele, ela, eles/partícula exclamativa final/partícula inicial, introduz uma opinião
+夫人 | TRADUÇÃO: senhora/madame/Sra./CL:位
+夫君 | TRADUÇÃO: marido (tratamento honorífico)
+夫唱妇随 | TRADUÇÃO: marido canta e esposa acompanha/fig. harmonia conjugal
+夫妻 | TRADUÇÃO: marido e mulher; casal
+夫妻反目 | TRADUÇÃO: marido e mulher em conflito (expressão idiomática do Livro das Mutações); discórdia conjugal
+夫妻店 | TRADUÇÃO: loja familiar
+夫妻相 | TRADUÇÃO: semelhança física entre cônjuges idosos/traços faciais comuns que indicam predestinação matrimonial
+夫妻肺片 | TRADUÇÃO: prato frio picante de Sichuan feito de carne bovina e miúdos fatiados finamente
+夫妻脸 | TRADUÇÃO: ver 夫妻相
+夫妇 | TRADUÇÃO: casal/marido e mulher/CL:對|对
+夫婿 | TRADUÇÃO: marido (literário)
+夫子 | TRADUÇÃO: Mestre (forma antiga de tratamento para professores, estudiosos)/(usado sarcasticamente) pedante
+夫子自道 | TRADUÇÃO: parecer estar elogiando outros enquanto na verdade elogia a si mesmo/a crítica de alguém a outros expõe suas próprias falhas
+夫家 | TRADUÇÃO: família do marido (tradicionalmente para onde a esposa se muda)
+夫役 | TRADUÇÃO: corveia/trabalhador braçal
+夫权 | TRADUÇÃO: autoridade do marido sobre o lar
+夫余 | TRADUÇÃO: Puyo, Buyeo coreano (c. 200 a.C.-494 d.C.), antigo reino na fronteira nordeste da China
+夬 | TRADUÇÃO: decisivo
+夭 | TRADUÇÃO: (forma presa) morrer prematuramente (tb pron. [yao3])/(literário) (da vegetação) exuberante ‖ (forma presa) morrer prematuramente (tb pron. [yao3]) (variante de 夭)
+夭亡 | TRADUÇÃO: morrer jovem
+夭寿 | TRADUÇÃO: morrer jovem/(Taiwan) (palavrão) morra/vá pro inferno/(literário) vida curta e vida longa
+夭折 | TRADUÇÃO: morrer jovem ou prematuramente/ter um fim prematuro/ser abortado prematuramente
+夭殇 | TRADUÇÃO: morrer jovem
+央 | TRADUÇÃO: centro/fim/suplicar/implorar
+央中 | TRADUÇÃO: pedir mediação/solicitar que alguém aja como intermediário
+央人 | TRADUÇÃO: pedir a alguém (que faça algo); suplicar
+央企 | TRADUÇÃO: empresa estatal administrada centralmente (RPC), abrev. de 中央企業|中央企业
+央及 | TRADUÇÃO: pedir/implorar/suplicar/envolver
+央告 | TRADUÇÃO: implorar/suplicar/pedir encarecidamente
+央求 | TRADUÇÃO: implorar/suplicar/pedir encarecidamente
+央行 | TRADUÇÃO: banco central (abrev. de 中央銀行|中央银行)
+央视 | TRADUÇÃO: China Central Television (CCTV), abrev. de 中國中央電視台|中国中央电视台
+央托 | TRADUÇÃO: solicitar assistência/pedir que alguém faça algo
+央财 | TRADUÇÃO: Universidade Central de Finanças e Economia, Pequim/abrev. de 中央財經大學|中央财经大学
+夯 | TRADUÇÃO: variante de 笨 ‖ socar; compactar/socador; compactador/excelente; excepcionalmente bom/variante de ㄏㄤ[hang1]
+夯具 | TRADUÇÃO: socador/compactador
+夯土 | TRADUÇÃO: terra socada
+夯土机 | TRADUÇÃO: compactador/socador
+夯实 | TRADUÇÃO: socar/compactar (terra etc)
+夯歌 | TRADUÇÃO: cantiga de trabalho dos socadores
+夯汉 | TRADUÇÃO: carregador que transporta cargas pesadas no ombro (dialetal)
+夯砣 | TRADUÇÃO: socador/compactador
+失 | TRADUÇÃO: perder/errar/falhar
+失主 | TRADUÇÃO: dono de objeto perdido ou roubado
+失之交臂 | TRADUÇÃO: perder por pouco/deixar escapar uma grande oportunidade
+失之东隅，收之桑榆 | TRADUÇÃO: perder ao nascer do sol mas ganhar ao pôr do sol (expressão idiomática)/compensar depois por uma perda anterior/o que se perde nos balanços ganha-se nos carrosséis
+失之毫厘，谬以千里 | TRADUÇÃO: uma pequena falha pode levar a um grande erro (expressão idiomática); uma discrepância menor causando perdas enormes
+失之毫厘，差之千里 | TRADUÇÃO: uma pequena falha pode levar a um grande erro (expressão idiomática); uma discrepância menor causando perdas enormes
+失之毫厘，差以千里 | TRADUÇÃO: uma pequena falha pode levar a um grande erro (expressão idiomática); uma discrepância menor causando perdas enormes
+失事 | TRADUÇÃO: (de avião, navio etc) sofrer um acidente (queda de avião, naufrágio, colisão de veículos etc)/estragar tudo
+失信 | TRADUÇÃO: quebrar uma promessa
+失信被执行人 | TRADUÇÃO: (direito) devedor de decisão judicial (pessoa que deixou de cumprir obrigações estabelecidas em decisão judicial escrita, como pagar indenização a alguém, apesar de ter meios para tal)/sonegador de dívidas
+失修 | TRADUÇÃO: falta de reparo
+失传 | TRADUÇÃO: (de habilidades etc) extinguir-se/perdido/extinto
+失仪 | TRADUÇÃO: descortês/falta de etiqueta
+失利 | TRADUÇÃO: perder/sofrer derrota
+失势 | TRADUÇÃO: perder poder e influência
+失去 | TRADUÇÃO: perder
+失去后劲 | TRADUÇÃO: perder o fôlego/perder o impulso/perder o ritmo
+失口 | TRADUÇÃO: lapso da língua/indiscrição/deixar escapar um segredo
+失和 | TRADUÇÃO: desarmonia/tornar-se distante
+失单 | TRADUÇÃO: lista de objetos perdidos ou roubados
+失地 | TRADUÇÃO: perder território/território perdido
+失坠 | TRADUÇÃO: perda
+失婚 | TRADUÇÃO: perder o cônjuge (por fim do casamento ou luto)
+失学 | TRADUÇÃO: impossibilitado de ir à escola/interrupção na educação
+失守 | TRADUÇÃO: (militar) (de uma cidade etc) cair em mãos inimigas/(fig.) piorar a situação
+失宜 | TRADUÇÃO: inadequado/impróprio
+失察 | TRADUÇÃO: falhar na observação ou supervisão/perder/deixar algo passar
+失实 | TRADUÇÃO: dar uma imagem falsa da situação
+失写症 | TRADUÇÃO: agrafia
+失宠 | TRADUÇÃO: perder o favor/em desfavor/desgraçado
+失常 | TRADUÇÃO: não normal/uma aberração
+失序 | TRADUÇÃO: desorganizar-se/sair do eixo
+失张失智 | TRADUÇÃO: fora de si
+失怙 | TRADUÇÃO: ficar órfão de pai
+失恃 | TRADUÇÃO: perder alguém em quem se confia/perder a mãe
+失悔 | TRADUÇÃO: arrepender-se/sentir remorso
+失意 | TRADUÇÃO: decepcionado; frustrado
+失态 | TRADUÇÃO: esquecer as boas maneiras/perder a compostura/perder o autocontrole (numa situação)
+失忆 | TRADUÇÃO: perder a memória
+失忆症 | TRADUÇÃO: amnésia
+失恋 | TRADUÇÃO: perder o amor/terminar (um relacionamento romântico)/sentir-se rejeitado
+失手 | TRADUÇÃO: um deslize/erro de cálculo/decisão imprudente/acidentalmente/por engano/perder o controle/ser derrotado
+失掉 | TRADUÇÃO: perder/errar (oportunidade)
+失控 | TRADUÇÃO: sair do controle/perder o controle
+失措 | TRADUÇÃO: ficar perplexo/não saber o que fazer
+失效 | TRADUÇÃO: falhar/perder a eficácia/expirar (prazo de validade)
+失效日期 | TRADUÇÃO: data de validade (de documento)
+失败 | TRADUÇÃO: ser derrotado/perder/falhar (ex.: experimentos)/fracasso/derrota/CL:次
+失败主义 | TRADUÇÃO: derrotismo
+失败是成功之母 | TRADUÇÃO: O fracasso é a mãe do sucesso.
+失败者 | TRADUÇÃO: perdedor
+失散 | TRADUÇÃO: perder contato/desaparecido/disperso/separado
+失敬 | TRADUÇÃO: mostrar desrespeito; desculpe-me – por favor, perdoe-me
+失明 | TRADUÇÃO: perder a visão/ficar cego/cegueira
+失明症 | TRADUÇÃO: cegueira
+失智 | TRADUÇÃO: sofrer perda de função cognitiva; desenvolver demência
+失智症 | TRADUÇÃO: (Taiwan) demência
+失望 | TRADUÇÃO: decepcionado/perder a esperança/desesperar
+失期 | TRADUÇÃO: atrasado (para um horário marcado)
+失枕 | TRADUÇÃO: torcicolo/pescoço duro
+失格 | TRADUÇÃO: desrespeitar as regras/sair dos limites/desqualificação/perder a face/desqualificado
+失业 | TRADUÇÃO: desemprego/perder o emprego
+失业率 | TRADUÇÃO: taxa de desemprego
+失业者 | TRADUÇÃO: desempregado
+失欢 | TRADUÇÃO: perder o favor/ficar afastado
+失活 | TRADUÇÃO: (de uma enzima, microrganismo, catalisador etc) perder atividade biológica ou química; tornar-se inativado
+失准 | TRADUÇÃO: abaixo do esperado/insatisfatório/fora dos padrões/errado/(de um instrumento) estar descalibrado/(de uma previsão) estar errada
+失温 | TRADUÇÃO: sofrer hipotermia
+失温症 | TRADUÇÃO: hipotermia
+失火 | TRADUÇÃO: pegar fogo; estar em chamas
+失物招领 | TRADUÇÃO: achados e perdidos
+失物认领 | TRADUÇÃO: achados e perdidos
+失独 | TRADUÇÃO: enlutado(a) pela perda do filho único
+失独家庭 | TRADUÇÃO: família enlutada pela perda do filho único
+失当 | TRADUÇÃO: inadequado/impróprio
+失盗 | TRADUÇÃO: ter algo roubado/perder por roubo/roubado
+失真 | TRADUÇÃO: falta de fidelidade/ distorção (de sinal)
+失眠 | TRADUÇÃO: sofrer de insônia
+失瞻 | TRADUÇÃO: deixar de cumprimentar em tempo hábil
+失神 | TRADUÇÃO: distraído/perder o ânimo/desanimado
+失禁 | TRADUÇÃO: perder o controle da bexiga ou intestinos; incontinente
+失礼 | TRADUÇÃO: agir com descortesia/perdoe-me (pela minha impropriedade)
+失窃 | TRADUÇÃO: perder por roubo/ter a propriedade roubada
+失笑 | TRADUÇÃO: rir apesar de si mesmo/não conseguir conter o riso/cair na gargalhada
+失策 | TRADUÇÃO: cometer um erro/calcular mal/erro de cálculo/movimento imprudente
+失算 | TRADUÇÃO: calcular mal; julgar mal
+失节 | TRADUÇÃO: ser desleal (ao país, cônjuge etc)/perder a castidade
+失约 | TRADUÇÃO: faltar a um compromisso
+失而复得 | TRADUÇÃO: perder algo e depois recuperá-lo (expressão idiomática)
+失联 | TRADUÇÃO: perder contato/estar perdido
+失聪 | TRADUÇÃO: ficar surdo; perder a audição/surdez; perda auditiva
+失声 | TRADUÇÃO: perder a voz/(gritar) involuntariamente
+失职 | TRADUÇÃO: negligenciar o dever; ser culpado de negligência no dever
+失能 | TRADUÇÃO: tornar-se incapacitado
+失色 | TRADUÇÃO: perder a cor/ficar pálido
+失落 | TRADUÇÃO: perder (algo)/deixar cair (algo)/sentir uma sensação de perda/frustrado/decepção/perda
+失着 | TRADUÇÃO: movimento imprudente/fazer um movimento imprudente
+失血 | TRADUÇÃO: perder sangue/hemorragia/(fig.) sofrer perdas (financeiras etc)
+失血性贫血 | TRADUÇÃO: anemia por perda de sangue
+失衡 | TRADUÇÃO: desequilibrar/desequilíbrio
+失言 | TRADUÇÃO: lapso da língua/indiscrição/deixar escapar um segredo
+失语 | TRADUÇÃO: deixar escapar/perda da fala (ex.: como resultado de dano cerebral); afasia
+失语症 | TRADUÇÃO: afasia ou afemia (perda da linguagem)
+失误 | TRADUÇÃO: lapso/erro/cometer um erro/falta/saída de rede (em vôlei, tênis etc)
+失调 | TRADUÇÃO: desafinado (música) ‖ desequilíbrio/tornar-se disfuncional/faltar com os cuidados adequados (após uma doença etc)
+失调电压 | TRADUÇÃO: tensão de offset
+失读症 | TRADUÇÃO: alexia
+失责 | TRADUÇÃO: quebra de responsabilidade/falha em cumprir o dever
+失足 | TRADUÇÃO: perder o equilíbrio/escorregar/dar um passo errado na vida
+失踪 | TRADUÇÃO: estar desaparecido/desaparecer/não localizado
+失身 | TRADUÇÃO: perder a virgindade; perder a castidade
+失身分 | TRADUÇÃO: degradante
+失迎 | TRADUÇÃO: falha em receber/(linguagem humilde) sinto muito por não ter vido encontrá-lo pessoalmente
+失迷 | TRADUÇÃO: perder o caminho/perder-se (na estrada etc)
+失速 | TRADUÇÃO: (aviação) estolar
+失道 | TRADUÇÃO: (literário) perder o caminho; perder-se/(literário) desviar-se do curso adequado
+失道寡助 | TRADUÇÃO: uma causa injusta encontra pouco apoio (expressão idiomática, de Mêncio)/cf 得道多助 uma causa justa atrai muito apoio
+失重 | TRADUÇÃO: ausência de peso
+失错 | TRADUÇÃO: cometer um erro descuidado/erro; engano
+失陪 | TRADUÇÃO: Com licença, preciso ir agora.
+失灵 | TRADUÇÃO: fora de ordem (de máquina)/não funcionando corretamente/uma falha (de um sistema)
+失面子 | TRADUÇÃO: perder a face; ser humilhado
+失风 | TRADUÇÃO: problema/dano/revés/algo dá errado
+失体统 | TRADUÇÃO: falta de decoro/má educação
+失体面 | TRADUÇÃO: perder a face
+失魂 | TRADUÇÃO: entrar em pânico
+失魂落魄 | TRADUÇÃO: (expressão idiomática) atordoado; fora de si
+夶 | TRADUÇÃO: variante antiga de 比
+夷 | TRADUÇÃO: povos não-Han, especialmente ao leste da China/bárbaros/eliminar/exterminar/demolir/arrasar
+夷平 | TRADUÇÃO: nivelar; arrasar até o chão
+夷戮 | TRADUÇÃO: massacrar
+夷旷 | TRADUÇÃO: amplo/nivelado e largo/de espírito aberto
+夷洲 | TRADUÇÃO: nome de um antigo país bárbaro, possivelmente Taiwan
+夷灭 | TRADUÇÃO: massacrar/extinguir-se
+夷为平地 | TRADUÇÃO: nivelar/arrasar até o chão
+夷然 | TRADUÇÃO: calmo
+夷狄 | TRADUÇÃO: tribos não-Han no leste e norte da China antiga/bárbaros
+夷犹 | TRADUÇÃO: hesitar
+夷门 | TRADUÇÃO: o portão Yi de 大梁, capital de Wei 魏 durante os Estados Combatentes
+夷陵 | TRADUÇÃO: veja 夷陵區|夷陵区
+夷陵区 | TRADUÇÃO: Yiling, um distrito da cidade de Yichang 宜昌市, Hubei
+夸 | TRADUÇÃO: usado em transliteração ‖ gabar-se; exagerar/elogiar
+夸克 | TRADUÇÃO: (física de partículas) (empréstimo) quark
+夸夸其谈 | TRADUÇÃO: variante de 誇誇其談|夸夸其谈 ‖ (expressão idiomática) falar muito e sem fundamento; falar alto; ser cheio de conversa fiada
+夼 | TRADUÇÃO: terreno baixo/depressão (usado em topônimos de Shandong)
+夹 | TRADUÇÃO: usado em 夾肢窩|夹肢窝 ‖ apertar/imprensar de ambos os lados/colocar entre/sanduíche/carregar algo debaixo do braço/entalado/entre/intercalar/misturar/mesclar/grampo/pasta/pr. Taiwan [jia2] ‖ de duas camadas (cobertor); forrado (roupa) ‖ pr. Taiwan usada em 夾生|夹生 e 夾竹桃|夹竹桃 ‖ variante de 夾|夹
+夹七夹八 | TRADUÇÃO: completamente bagunçado/confuso
+夹克 | TRADUÇÃO: (estrangeirismo) jaqueta/também pr. [jia2 ke4]
+夹具 | TRADUÇÃO: grampo/dispositivo de fixação (usinagem)
+夹塞儿 | TRADUÇÃO: furar a fila (numa fila)
+夹娃娃 | TRADUÇÃO: (coloq.) induzir um aborto (Taiwan)
+夹子 | TRADUÇÃO: clipe/grampo/pinça/pasta/carteira
+夹子音 | TRADUÇÃO: (coloq.) (neologismo, atestado em 2021) voz fina e fofa
+夹尾巴 | TRADUÇÃO: ter o rabo entre as pernas
+夹层 | TRADUÇÃO: camada oca entre duas camadas sólidas/(arquitetura) mezanino
+夹山国家森林公园 | TRADUÇÃO: Jiashan National Forest Park, em Shimen 石門|石门, Changde 常德, Hunan
+夹山寺 | TRADUÇÃO: Templo de Jiashan, templo budista no condado de Shimen 石門縣|石门县, Changde 常德, Hunan, suposto local final e sepultura do líder rebelde camponês do final da dinastia Ming, Li Zicheng 李自成
+夹带 | TRADUÇÃO: conter em si/misturar-se/inserir algo às escondidas/intercalar/(hidrologia etc) arrastar/contrabandear/cola (num exame)
+夹心 | TRADUÇÃO: rechear (ex.: na culinária)/recheado
+夹心族 | TRADUÇÃO: geração sanduíche
+夹心饼干 | TRADUÇÃO: biscoito recheado/(jocoso) pessoa presa entre duas partes opostas; pessoa entre a cruz e a caldeirinha
+夹批 | TRADUÇÃO: anotações críticas entre as linhas
+夹持 | TRADUÇÃO: prender/pinçar
+夹击 | TRADUÇÃO: ataque em pinça/ataque de dois ou mais lados/ataque convergente/ataque pelo flanco/garfo no xadrez, com uma peça fazendo dois ataques
+夹攻 | TRADUÇÃO: ataque de dois lados/movimento em pinça/ataque convergente/ataque pelo flanco/garfo no xadrez, com uma peça fazendo dois ataques
+夹断 | TRADUÇÃO: beliscar (cortar rente)/apertar
+夹板 | TRADUÇÃO: tábuas de madeira usadas para pressionar algo/(medicina) tala
+夹棍 | TRADUÇÃO: prensa de pernas (instrumento de tortura)
+夹江 | TRADUÇÃO: veja 夾江縣|夹江县
+夹江县 | TRADUÇÃO: Jiajiang, um condado na cidade de Leshan 樂山市|乐山市, Sichuan
+夹生 | TRADUÇÃO: malpassado/(fig.) não completamente concluído, resolvido, desenvolvido etc/pr. Taiwan [jia4 sheng5]
+夹生饭 | TRADUÇÃO: arroz malpassado/(fig.) trabalho mal feito, difícil de completar por ter sido mal feito inicialmente/pr. Taiwan [jia4 sheng5 fan4]
+夹当 | TRADUÇÃO: momento crucial/hora crítica
+夹当儿 | TRADUÇÃO: variante com retroflexão de 夾當|夹当
+夹盘 | TRADUÇÃO: mandril (para broca etc)
+夹竹桃 | TRADUÇÃO: espirradeira (Nerium indicum)/pr. Taiwan [jia4 zhu2 tao2]
+夹紧 | TRADUÇÃO: apertar/agarrar
+夹缝 | TRADUÇÃO: fenda/brecha
+夹肢窝 | TRADUÇÃO: variante de 胳肢窩|胳肢窝
+夹脚拖 | TRADUÇÃO: chinelos de dedo
+夹脚拖鞋 | TRADUÇÃO: chinelos de dedo
+夹袄 | TRADUÇÃO: jaqueta forrada/jaqueta de duas camadas/CL:件
+夹角 | TRADUÇÃO: ângulo (entre duas retas que se cruzam)
+夹起尾巴 | TRADUÇÃO: enfiar o rabo entre as pernas/fig. recuar/em situação humilhante
+夹道 | TRADUÇÃO: viela (ladeada por muros)/alinhar-se na rua
+夹道欢迎 | TRADUÇÃO: alinhar-se nas ruas para dar as boas-vindas
+夹钳 | TRADUÇÃO: pinça/alicate
+夹链袋 | TRADUÇÃO: saco resselável; saco ziplock
+夹杂 | TRADUÇÃO: misturar (substâncias díspares)/mesclar/uma mistura/estar enredado com
+夹头 | TRADUÇÃO: (mecânica) mandril; pinça
+夹馅 | TRADUÇÃO: recheado (de comida)/com recheio
+奄 | TRADUÇÃO: sobrenome Yan ‖ variante de 閹|阉/castrar/variante de 淹/atrasar ‖ de repente/abruptamente/apressadamente/cobrir/cercar
+奄列 | TRADUÇÃO: omelete
+奄奄一息 | TRADUÇÃO: moribundo/no último suspiro
+奇 | TRADUÇÃO: ímpar (número) ‖ estranho/esquisito/curioso/maravilhoso/surpreendentemente/incomumente
+奇事 | TRADUÇÃO: maravilha
+奇亚籽 | TRADUÇÃO: (estrangeirismo) semente de chia
+奇人 | TRADUÇÃO: excêntrico/pessoa estranha/pessoa de talento extraordinário
+奇伟 | TRADUÇÃO: singular e majestoso/estranho e grandioso
+奇偶 | TRADUÇÃO: paridade/ímpar e par
+奇偶性 | TRADUÇÃO: paridade (ímpar ou par)
+奇兵 | TRADUÇÃO: tropas que aparecem de surpresa (num ataque ou emboscada)
+奇函数 | TRADUÇÃO: função ímpar (mat.)
+奇努克 | TRADUÇÃO: Chinook (helicóptero)
+奇卡诺人 | TRADUÇÃO: Chicano; Chicana; mexicano-americano
+奇台 | TRADUÇÃO: veja 奇台縣|奇台县
+奇台县 | TRADUÇÃO: Qitai, um condado na Prefeitura Autônoma Hui de Changji 昌吉回族自治州, Xinjiang
+奇士 | TRADUÇÃO: pessoa estranha/excêntrico
+奇妙 | TRADUÇÃO: maravilhoso; esplêndido; intrigante; misterioso; estranho
+奇崛 | TRADUÇÃO: estranho e proeminente
+奇差 | TRADUÇÃO: (coloq.) extremamente ruim (em qualidade); terrivelmente ruim
+奇幻 | TRADUÇÃO: fantasia (ficção)
+奇形怪状 | TRADUÇÃO: esquisitices fantásticas de todo tipo (expressão idiomática); de forma grotesca
+奇彩 | TRADUÇÃO: esplendor inesperado
+奇志 | TRADUÇÃO: grande aspiração
+奇思妙想 | TRADUÇÃO: ideia não convencional mas maravilhosa
+奇怪 | TRADUÇÃO: estranho/esquisito/espantar-se/ficar perplexo
+奇耻大辱 | TRADUÇÃO: (expressão idiomática) uma grande humilhação; um enorme constrangimento
+奇才 | TRADUÇÃO: gênio
+奇技 | TRADUÇÃO: habilidade especial; proeza notável
+奇效 | TRADUÇÃO: efeito maravilhoso/eficácia prodigiosa
+奇数 | TRADUÇÃO: número ímpar
+奇文 | TRADUÇÃO: texto notável ou peculiar
+奇文共赏 | TRADUÇÃO: lit. texto notável apreciado por todos (expressão idiomática); universalmente elogiado (sentido original)/besteira incompreensível/bobagem absurda
+奇景 | TRADUÇÃO: paisagem maravilhosa/vista incrível/(fig.) maravilha
+奇特 | TRADUÇÃO: peculiar/incomum/esquisito
+奇珍 | TRADUÇÃO: tesouro raro/algo de valor inestimável e único
+奇珍异宝 | TRADUÇÃO: tesouro raro e precioso (expressão idiomática)
+奇瑞 | TRADUÇÃO: Chery (fabricante de automóveis)
+奇瓦瓦 | TRADUÇÃO: Chihuahua, México
+奇异 | TRADUÇÃO: fantástico/bizarro/exótico/espantado
+奇异夸克 | TRADUÇÃO: quark estranho (física de partículas)
+奇异果 | TRADUÇÃO: kiwi/ groselha chinesa
+奇异笔 | TRADUÇÃO: caneta marcadora (instrumento de escrita)
+奇祸 | TRADUÇÃO: calamidade inesperada/desastre súbito
+奇绝 | TRADUÇÃO: estranho/raro/bizarro
+奇缺 | TRADUÇÃO: muito escasso (comida, água limpa etc)/escassez extrema/déficit
+奇羡 | TRADUÇÃO: excedente/lucro
+奇闻 | TRADUÇÃO: anedota bizarra; notícia extraordinária
+奇能 | TRADUÇÃO: habilidade especial
+奇能异士 | TRADUÇÃO: herói extraordinário com habilidades especiais/super-herói de artes marciais
+奇花异卉 | TRADUÇÃO: veja 奇花異草|奇花异草
+奇花异草 | TRADUÇÃO: (expressão idiomática) flores e plantas raras ou exóticas
+奇葩 | TRADUÇÃO: flor exótica/(fig.) maravilha/prodígio/(slang) esquisitão/extravagante
+奇葩异卉 | TRADUÇÃO: veja 奇花異草|奇花异草
+奇装异服 | TRADUÇÃO: vestimenta bizarra
+奇袭 | TRADUÇÃO: ataque surpresa/investida
+奇览 | TRADUÇÃO: excursão singular/fora da rota turística
+奇观 | TRADUÇÃO: espetáculo; visão impressionante
+奇解 | TRADUÇÃO: solução singular (para uma equação matemática)
+奇诡 | TRADUÇÃO: estranho; peculiar; intrigante
+奇谈 | TRADUÇÃO: história estranha/conto exótico/fig. argumento ridículo
+奇谈怪论 | TRADUÇÃO: histórias estranhas e argumentos absurdos (expressão idiomática)/comentários irracionais
+奇谲 | TRADUÇÃO: estranho e enganador/astuto/traidor
+奇谭 | TRADUÇÃO: variante de 奇談|奇谈
+奇货可居 | TRADUÇÃO: mercadoria rara que vale a pena acumular/objeto para especulação
+奇趣 | TRADUÇÃO: charme peculiar
+奇迹 | TRADUÇÃO: variante de 奇蹟|奇迹 ‖ milagre; maravilha; prodígio
+奇蹄目 | TRADUÇÃO: Perissodactyla/ordem dos ungulados de dedos ímpares (incluindo cavalo, anta, rinoceronte)
+奇蹄类 | TRADUÇÃO: Perissodactyla (ungulados de dedos ímpares, como cavalos, zebras etc.)
+奇遇 | TRADUÇÃO: encontro feliz/acontecimento fortuito/aventura
+奇丑 | TRADUÇÃO: grotesco/extremamente feio/horrível
+奇丑无比 | TRADUÇÃO: extremamente feio/incomparavelmente hediondo
+奇门遁甲 | TRADUÇÃO: Qimen Dunjia, um sistema antigo de artes ocultas usado para adivinhação e planejamento estratégico
+奇丽 | TRADUÇÃO: singularmente belo/estranho e maravilhoso
+奇点 | TRADUÇÃO: (astronomia, matemática) singularidade/pr. também [ji1dian3]
+奈 | TRADUÇÃO: usado em expressões que transmitem frustração e futilidade, como 無奈|无奈 e 莫可奈何|莫可奈何 (literário)/usado por seu valor fonético na escrita de palavras estrangeiras
+奈何 | TRADUÇÃO: fazer algo com alguém/lidar com/arranjar-se como?/em vão
+奈及利亚 | TRADUÇÃO: (Taiwan) Nigéria
+奈培 | TRADUÇÃO: néper (unidade de razão, Np)
+奈曼 | TRADUÇÃO: bandeira Naiman ou khoshuu Naiman em Tongliao 通遼|通辽, Mongólia Interior
+奈曼旗 | TRADUÇÃO: bandeira Naiman ou khoshuu Naiman em Tongliao 通遼|通辽, Mongólia Interior
+奈洛比 | TRADUÇÃO: Nairóbi, capital do Quênia (Taiwan)
+奈秒 | TRADUÇÃO: (Taiwan) nanossegundo, ns, 10^-9 s/equivalente na China continental: 納秒|纳秒
+奈米 | TRADUÇÃO: (Taiwan) nanômetro/nano- (prefixo que significa "escala nanométrica")
+奈良 | TRADUÇÃO: Nara (prefeitura e cidade no Japão)
+奈良时代 | TRADUÇÃO: Período Nara (710-794) no início da história japonesa
+奈飞 | TRADUÇÃO: Netflix, empresa americana de entretenimento
+奉 | TRADUÇÃO: oferecer (tributo)/apresentar respeitosamente (a superior, ancestral, divindade etc.)/estimar/reverenciar/acreditar em (uma religião)/esperar ordens (de superior)
+奉上 | TRADUÇÃO: oferecer
+奉公 | TRADUÇÃO: dedicar-se a assuntos públicos
+奉公克己 | TRADUÇÃO: autocontenção e devoção aos deveres públicos (expressão idiomática); dedicação altruísta/servir ao interesse público de todo coração
+奉公守法 | TRADUÇÃO: cumprir deveres oficiais e observar a lei
+奉劝 | TRADUÇÃO: permita-me oferecer um conselho
+奉化 | TRADUÇÃO: veja 奉化區|奉化区
+奉化区 | TRADUÇÃO: Fenghua, um distrito da cidade de Ningbo 寧波市|宁波市, Zhejiang
+奉召 | TRADUÇÃO: receber ordens
+奉告 | TRADUÇÃO: (honorífico) informar
+奉命 | TRADUÇÃO: receber ordens/seguir ordens/agir sob ordens
+奉天 | TRADUÇÃO: nome antigo para Shenyang 瀋陽|沈阳 na moderna província de Liaoning
+奉子成婚 | TRADUÇÃO: casar após engravidar
+奉承 | TRADUÇÃO: bajular/adulhar/insinuar-se/adulação
+奉承讨好 | TRADUÇÃO: puxar o saco/obter o resultado desejado por meio de bajulação
+奉新 | TRADUÇÃO: veja 奉新縣|奉新县
+奉新县 | TRADUÇÃO: Fengxin, um condado na cidade de Yichun 宜春市, Jiangxi
+奉旨 | TRADUÇÃO: por ordens imperiais
+奉为圭臬 | TRADUÇÃO: tomar como princípio orientador (expressão idiomática)
+奉献 | TRADUÇÃO: oferecer respeitosamente/consagrar/dedicar/devotar
+奉献精神 | TRADUÇÃO: espírito de devoção; dedicação
+奉现 | TRADUÇÃO: oferenda
+奉申贺敬 | TRADUÇÃO: cumprimentos educados (ex.: em um cartão de felicitações)
+奉祀 | TRADUÇÃO: adorar/prestar homenagens a (uma divindade, ancestral etc)/(de um santuário ou templo) ser dedicado a (uma divindade, ancestral etc.)
+奉节 | TRADUÇÃO: veja 奉節縣|奉节县
+奉节县 | TRADUÇÃO: Fengjie, um condado em Chongqing 重慶|重庆
+奉系 | TRADUÇÃO: camarilha de Fengtian (de senhores da guerra do norte)
+奉系军阀 | TRADUÇÃO: camarilha de Fengtian (de senhores da guerra do norte)
+奉职 | TRADUÇÃO: devoção ao dever
+奉若神明 | TRADUÇÃO: honrar alguém como um deus (expressão idiomática); reverenciar/adorar/deificar/fazer uma vaca sagrada de algo/colocar alguém em um pedestal
+奉行 | TRADUÇÃO: seguir (um curso, uma política)
+奉诏 | TRADUÇÃO: receber um comando imperial
+奉贤 | TRADUÇÃO: Fengxian, distrito suburbano de Xangai
+奉贤区 | TRADUÇÃO: Fengxian, distrito suburbano de Xangai
+奉赠 | TRADUÇÃO: (honorífico) presentear/doar
+奉辛比克党 | TRADUÇÃO: Funcinpec (partido político cambojano monarquista)
+奉迎 | TRADUÇÃO: (honorífico) saudar/bajular
+奉送 | TRADUÇÃO: (honorífico) dar
+奉还 | TRADUÇÃO: devolver com agradecimentos/devolver (honorífico)
+奉陪 | TRADUÇÃO: (honorífico) acompanhar/fazer companhia a alguém
+奉养 | TRADUÇÃO: cuidar (de pais idosos)/pr. em Taiwan: [feng4yang4]
+奌 | TRADUÇÃO: variante de 點|点
+奎 | TRADUÇÃO: virilha/15ª das 28 constelações da astronomia chinesa
+奎宁 | TRADUÇÃO: quinina (empréstimo)
+奎宁水 | TRADUÇÃO: água tônica; água com quinino
+奎屯 | TRADUÇÃO: veja 奎屯市
+奎屯市 | TRADUÇÃO: Kuytun, uma cidade nível de condado na Prefeitura Autônoma Cazaque de Ili 伊犁哈薩克自治州|伊犁哈萨克自治州, Xinjiang
+奎文 | TRADUÇÃO: veja 奎文區|奎文区
+奎文区 | TRADUÇÃO: Kuiwen, um distrito da cidade de Weifang 濰坊市|潍坊市, Shandong
+奎星 | TRADUÇÃO: Kuixing, a Ursa Maior, uma das 28 constelações
+奏 | TRADUÇÃO: tocar música/alcançar/apresentar um memorial ao imperador (antigo)
+奏帖 | TRADUÇÃO: memorial ao imperador (dobrado em forma de sanfona)
+奏折 | TRADUÇÃO: memorial ao imperador (dobrado em forma de sanfona)
+奏效 | TRADUÇÃO: mostrar resultados; ser eficaz
+奏乐 | TRADUÇÃO: tocar música/tocar uma melodia
+奏鸣曲 | TRADUÇÃO: sonata
+奏鸣曲式 | TRADUÇÃO: forma sonata (uma das estruturas de grande escala usadas na música clássica ocidental)
+奂 | TRADUÇÃO: sobrenome Huan ‖ excelente
+契 | TRADUÇÃO: entalhar/palavras entalhadas/concordar/um contrato/uma escritura
+契丹 | TRADUÇÃO: Qidan ou Khitan, grupo étnico na China antiga, um ramo do povo Donghu que habitava o vale do rio Xar Murun no curso superior do rio Liao 遼河|辽河
+契丹国志 | TRADUÇÃO: História da Dinastia Liao, livro do século XIII sobre a história do Império Khitan (916-1125)
+契卡 | TRADUÇÃO: Tcheca, uma agência de polícia secreta soviética, precursora da KGB
+契合 | TRADUÇÃO: acordo/concordar/dar-se bem/congênito/concordando com/aliançar-se com alguém
+契妈 | TRADUÇÃO: mãe adotiva
+契子 | TRADUÇÃO: filho adotivo
+契据 | TRADUÇÃO: escritura/contrato/escritura de venda
+契机 | TRADUÇÃO: oportunidade/momento decisivo/ponto de virada
+契沙比克湾 | TRADUÇÃO: Baía de Chesapeake
+契箭 | TRADUÇÃO: flecha usada como símbolo de autoridade (por comandantes de campo)
+契约 | TRADUÇÃO: acordo/contrato
+契约桥牌 | TRADUÇÃO: bridge de contrato (jogo de cartas)
+契约精神 | TRADUÇÃO: cultura de honrar obrigações contratuais
+契诃夫 | TRADUÇÃO: Anton Pavlovitch Tchekhov (1860-1904), escritor russo famoso por seus contos e peças teatrais
+奓 | TRADUÇÃO: variante antiga de 侈 ‖ variante antiga de 奢 ‖ abrir/espalhar
+奔 | TRADUÇÃO: apressar-se/correr rapidamente/fugir com o amante ‖ ir para/dirigir-se a/em direção a/pr. em Taiwan [ben1] ‖ variante de 奔 ‖ variante de 奔
+奔三 | TRADUÇÃO: estar chegando aos 30 anos
+奔命 | TRADUÇÃO: correr de um lado para o outro com tarefas/estar sempre ocupado com recados
+奔丧 | TRADUÇÃO: apressar-se para voltar para casa para o funeral de um pai ou avô
+奔四 | TRADUÇÃO: estar chegando aos 40 anos
+奔奔族 | TRADUÇÃO: lit. “Clã Apressado”, geração nascida entre 1975-1985 e o grupo social mais hedonista e trabalhador da China (netspeak)
+奔忙 | TRADUÇÃO: estar ocupado correndo de um lado para o outro/andar numa azáfama
+奔放 | TRADUÇÃO: audacioso e desinibido/sem peias
+奔月 | TRADUÇÃO: voar para a lua
+奔波 | TRADUÇÃO: andar de um lado para o outro/estar constantemente em movimento
+奔流 | TRADUÇÃO: fluir em grande velocidade/jorrar/correnteza impetuosa
+奔泻 | TRADUÇÃO: (de torrentes) precipitar-se/cair em cascata
+奔现 | TRADUÇÃO: (neologismo) encontrar alguém na vida real após formar um relacionamento online
+奔窜 | TRADUÇÃO: (de pessoas ou animais) fugir em debandada/dispersar-se/(de enchente, ideia etc) espalhar-se em todas as direções
+奔袭 | TRADUÇÃO: realizar um ataque de longa distância
+奔走 | TRADUÇÃO: correr/andar às pressas/estar na correria
+奔走相告 | TRADUÇÃO: espalhar a notícia (expressão idiomática)
+奔赴 | TRADUÇÃO: apressar-se para/dirigir-se a
+奔跑 | TRADUÇÃO: correr
+奔逃 | TRADUÇÃO: fugir/sair correndo
+奔头 | TRADUÇÃO: algo pelo que vale a pena lutar/perspectiva/futuro promissor
+奔头儿 | TRADUÇÃO: variante com erhua de 奔頭|奔头
+奔马 | TRADUÇÃO: (literário) (rápido como um) cavalo a galope
+奔驰 | TRADUÇÃO: Mercedes-Benz, montadora alemã de carros ‖ correr rapidamente/acelerar/galopar
+奔腾 | TRADUÇÃO: Pentium (microprocessador da Intel) ‖ (de ondas) avançar impetuosamente/rolar em ondas/galopar
+奕 | TRADUÇÃO: abundante/elegante
+奕䜣 | TRADUÇÃO: Príncipe Imperial Yixin (1833-1898), sexto filho do Imperador Daoguang, proeminente político, diplomata e modernizador no final do Qing
+奕𬣞 | TRADUÇÃO: nome de batismo do Imperador Qing Xianfeng 咸豐|咸丰
+套 | TRADUÇÃO: cobrir/revestir/capa/estojo/sobrepor/intercalar/copiar/fórmula/arreio/laço/ (fig.) pescar/obter sorrateiramente/classificador para conjuntos, coleções/curva (de um rio ou cordilheira, em topônimos)/tau (letra grega Ττ)
+套中人 | TRADUÇÃO: pessoa conservadora
+套交情 | TRADUÇÃO: tentar ganhar a amizade de alguém
+套件 | TRADUÇÃO: kit (equipamento)/conjunto (de componentes de bicicleta)
+套作 | TRADUÇÃO: (agricultura) plantar em consórcio
+套儿 | TRADUÇÃO: (coloq.) laço/cilada/armadilha/estratagema/camisinha
+套利 | TRADUÇÃO: arbitragem
+套利者 | TRADUÇÃO: arbitrador/arbitrador financeiro
+套包 | TRADUÇÃO: parte do colar do arreio de cavalo
+套汇 | TRADUÇÃO: câmbio ilegal/arbitragem
+套印 | TRADUÇÃO: impressão colorida usando várias imagens sobrepostas
+套取 | TRADUÇÃO: adquirir fraudulentamente/troca ilegal
+套口供 | TRADUÇÃO: induzir um suspeito a confessar
+套问 | TRADUÇÃO: sondar alguém/descobrir por meio de perguntas indiretas e táticas
+套圈 | TRADUÇÃO: virola/argola de vedação/jogo de argolas
+套套 | TRADUÇÃO: métodos/truques de sempre/(gíria) camisinha
+套娃 | TRADUÇÃO: boneca russa (matryoshka) ou boneca aninhada similar
+套子 | TRADUÇÃO: bainha/estojo/capa/método convencional/lugar-comum/truque/(coloq.) camisinha
+套房 | TRADUÇÃO: pequena sala abrindo para outra; sala interna/suíte/apartamento/(Taiwan) quarto com banheiro privativo
+套换 | TRADUÇÃO: trocar (moeda) ilegalmente/câmbio fraudulento
+套数 | TRADUÇÃO: ciclo de canções na ópera chinesa/(fig.) uma série de truques/observações polidas/número de (coisas que são contadas em 套, como casas)
+套曲 | TRADUÇÃO: divertimento (música)
+套服 | TRADUÇÃO: terno (de roupas)/fato
+套期保值 | TRADUÇÃO: fazer hedge/proteger-se contra riscos
+套牌车 | TRADUÇÃO: carro com placas falsas
+套牢 | TRADUÇÃO: imobilizar com laço/ficar preso no mercado de ações
+套现 | TRADUÇÃO: converter (um ativo) em dinheiro/resgatar
+套用 | TRADUÇÃO: aplicar (algo usado anteriormente em contexto diferente)/usar (regras, sistemas, modelos etc copiados de outros lugares) (muitas vezes implicando que não são adequados à nova situação)/tomar emprestado (uma frase)/(Taiwan) (computação) aplicar (um estilo, formatação etc)
+套叠 | TRADUÇÃO: sobreposição/aninhamento/intercalar
+套磁 | TRADUÇÃO: (coloq.) cultivar boas relações com alguém/tentar ganhar o favor de alguém
+套票 | TRADUÇÃO: bilhete combinado
+套种 | TRADUÇÃO: plantar em consórcio
+套筒 | TRADUÇÃO: manga/um tubo para embalar
+套筒扳手 | TRADUÇÃO: chave de soquete
+套管 | TRADUÇÃO: revestimento de tubo/caixa de tubulação
+套红 | TRADUÇÃO: imprimir partes de uma página (ex.: manchete) em vermelho (ou outra cor)
+套索 | TRADUÇÃO: laço/corda com nó corrediço
+套结 | TRADUÇÃO: nó corrediço
+套绳 | TRADUÇÃO: laço
+套色 | TRADUÇÃO: impressão colorida usando várias imagens sobrepostas
+套衫 | TRADUÇÃO: pulôver
+套衫儿 | TRADUÇÃO: pulôver
+套袖 | TRADUÇÃO: manga de proteção
+套裙 | TRADUÇÃO: conjunto feminino (incluindo saia)
+套装 | TRADUÇÃO: roupa ou conjunto de roupas/fato/conjunto de itens coordenados/kit
+套裤 | TRADUÇÃO: perneiras
+套话 | TRADUÇÃO: frase educada; cumprimentos convencionais/lugar-comum/tentar arrancar informações de alguém
+套语 | TRADUÇÃO: conjunto de frases educadas/expressões de cortesia
+套购 | TRADUÇÃO: compra fraudulenta/comprar algo ilegalmente
+套路 | TRADUÇÃO: sequência de movimentos em artes marciais/rotina/padrão/método padrão
+套车 | TRADUÇÃO: atrelar (um cavalo a uma carroça)
+套近乎 | TRADUÇÃO: tentar se insinuar na amizade de alguém (geralmente pejorativo)
+套钟 | TRADUÇÃO: carrilhão
+套间 | TRADUÇÃO: vestíbulo/pequena sala interna (que dá para outras)/suíte/apartamento
+套鞋 | TRADUÇÃO: galochas/sapatos de borracha
+套头 | TRADUÇÃO: (de uma peça de vestuário) projetada para ser colocada puxando-a pela cabeça (como um suéter ou camiseta)
+套餐 | TRADUÇÃO: refeição combinada/prato executivo/(fig.) pacote de produtos ou serviços (ex.: para assinatura de celular)
+套马 | TRADUÇÃO: atrelar um cavalo/laçar um cavalo
+套马杆 | TRADUÇÃO: laço em vara longa de madeira
+奘 | TRADUÇÃO: (literário) forte; robusto (usado em nomes próprios)/(coloq.) grosseiro; rústico ‖ gordo/robusto
+奚 | TRADUÇÃO: sobrenome Xi ‖ (literário) o quê?/onde?/por quê?
+奚啸伯 | TRADUÇÃO: Xi Xiaobo (1910-1977), estrela da ópera de Pequim, um dos Quatro grandes barbudos 四大鬚生|四大须生
+奚落 | TRADUÇÃO: zombar/ridicularizar/escarnecer de/tratar friamente/abandonar
+奜 | TRADUÇÃO: grande
+奠 | TRADUÇÃO: fixar/estabelecer/libação para os mortos
+奠仪 | TRADUÇÃO: presente em dinheiro para a família do falecido
+奠基 | TRADUÇÃO: lançar a fundação
+奠基人 | TRADUÇÃO: fundador/pioneiro
+奠基石 | TRADUÇÃO: pedra fundamental/pedra angular
+奠基者 | TRADUÇÃO: fundador/pioneiro
+奠定 | TRADUÇÃO: estabelecer/fixar/consolidar
+奠济宫 | TRADUÇÃO: Templo Dianji em Keelung, Taiwan
+奠祭 | TRADUÇÃO: libação de vinho no chão para sacrifício
+奠都 | TRADUÇÃO: determinar a posição da capital/fundar uma capital
+奠酒 | TRADUÇÃO: libação de vinho
+奡 | TRADUÇÃO: arrogante/vigoroso
+奢 | TRADUÇÃO: extravagante
+奢侈 | TRADUÇÃO: luxuoso/extravagante
+奢侈品 | TRADUÇÃO: artigo de luxo
+奢望 | TRADUÇÃO: uma esperança extravagante/ter expectativas excessivas
+奢求 | TRADUÇÃO: fazer exigências extravagantes/pedido irrazoável
+奢泰 | TRADUÇÃO: extravagante/faustoso/delapidador
+奢盼 | TRADUÇÃO: uma esperança extravagante/ter expectativas irreais
+奢糜 | TRADUÇÃO: variante de 奢靡
+奢华 | TRADUÇÃO: luxuoso/faustoso/lavado
+奢靡 | TRADUÇÃO: extravagante
+奢香 | TRADUÇÃO: She Xiang (c. 1361-1396), líder do grupo étnico Yi em Yunnan no início da dinastia Ming
+奢丽 | TRADUÇÃO: suntuoso/um luxo
+奣 | TRADUÇÃO: céu claro e sem nuvens
+奥 | TRADUÇÃO: (forma presa) Áustria (abrev. de 奧地利|奥地利)/(forma presa) Olimpíadas (abrev. de 奧林匹克|奥林匹克) ‖ obscuro/misterioso
+奥丁 | TRADUÇÃO: Odin (deus da mitologia nórdica)
+奥丁谐振器 | TRADUÇÃO: bobina de Oudin/ressonador de Oudin
+奥什 | TRADUÇÃO: Osh (cidade no Quirguistão)
+奥克拉荷马 | TRADUÇÃO: Oklahoma, estado dos EUA (Taiwan)
+奥克苏斯河 | TRADUÇÃO: Rio Oxus/nome alternativo para o Amu Dária 阿姆河
+奥克兰 | TRADUÇÃO: Auckland (cidade neozelandesa)/Oakland (Califórnia, EUA)
+奥切诺斯 | TRADUÇÃO: Oceano (titã da mitologia grega)
+奥利奥 | TRADUÇÃO: biscoitos Oreo
+奥利安 | TRADUÇÃO: Orion (constelação, empréstimo)/também escrito 獵戶座|猎户座
+奥利给 | TRADUÇÃO: (neologismo c. 2020) vai, você consegue!
+奥利维亚 | TRADUÇÃO: Olívia (nome)
+奥匈帝国 | TRADUÇÃO: Império Austro-Húngaro 1867–1918
+奥卡姆剃刀 | TRADUÇÃO: navalha de Occam
+奥古斯塔 | TRADUÇÃO: Augusta (nome de lugar: capital do Maine, cidade na Geórgia etc.)
+奥古斯都 | TRADUÇÃO: Augusto (nome)
+奥司他韦 | TRADUÇÃO: (empréstimo) oseltamivir
+奥国 | TRADUÇÃO: Áustria
+奥地利 | TRADUÇÃO: Áustria
+奥塞梯 | TRADUÇÃO: Ossétia (região etnolinguística nas Montanhas do Cáucaso)
+奥塞罗 | TRADUÇÃO: variante de 奧賽羅|奥赛罗
+奥妙 | TRADUÇÃO: maravilhoso/misterioso/profundo/maravilha
+奥姆真理教 | TRADUÇÃO: Aum Shinrikyo (ou Verdade Suprema), seita japonesa responsável pelo ataque de gás sarin no metrô de Tóquio em 1995
+奥委会 | TRADUÇÃO: comitê olímpico
+奥威尔 | TRADUÇÃO: Orwell (nome)/George Orwell (1903-1950), romancista britânico, autor de "A Revolução dos Bichos" 動物農場|动物农场 e "1984" 一九八四年
+奥客 | TRADUÇÃO: (Taiwan) (coloq.) cliente problemático/hóspede desagradável (do taiwanês 漚客, pron. Tai-lo [àu-kheh])
+奥密克戎 | TRADUÇÃO: ômicron (letra grega Ο, ο)
+奥巴马 | TRADUÇÃO: Barack Obama (1961–), político democrata dos EUA, presidente 2009–2017
+奥布里 | TRADUÇÃO: Aubrey (nome)
+奥康内尔 | TRADUÇÃO: O'Connell (nome)/Daniel O'Connell (1775-1847), nacionalista irlandês e ativista católico
+奥康纳 | TRADUÇÃO: O'Connor (nome)/Thomas Power O'Connor (1848-1929), jornalista irlandês e líder político nacionalista
+奥德修斯 | TRADUÇÃO: Odisseu
+奥德赛 | TRADUÇÃO: Odisseia de Homero
+奥托 | TRADUÇÃO: Otto
+奥援 | TRADUÇÃO: aliado oculto/apoio poderoso/apoio/retaguarda
+奥数 | TRADUÇÃO: Olimpíada Internacional de Matemática (OIM) (abrev. de 國際奧林匹克數學競賽|国际奥林匹克数学竞赛) ‖ matemática olímpica/matemática competitiva
+奥斯丁 | TRADUÇÃO: Austin ou Austen (nome)/Austin, Texas/também escrito 奧斯汀|奥斯汀
+奥斯卡 | TRADUÇÃO: (indústria cinematográfica) Oscar (Prêmio da Academia)/CL:屆|届/(nome) Oscar
+奥斯卡金像奖 | TRADUÇÃO: Prêmio da Academia; Oscar
+奥斯威辛 | TRADUÇÃO: Auschwitz (campo de concentração)
+奥斯威辛集中营 | TRADUÇÃO: campo de concentração de Auschwitz
+奥斯曼 | TRADUÇÃO: Otomano (império)
+奥斯曼帝国 | TRADUÇÃO: Império Otomano (1299–1922)
+奥斯汀 | TRADUÇÃO: Austin ou Austen (nome)/Austin, Texas
+奥斯特洛夫斯基 | TRADUÇÃO: Nikolai Ostrovsky (1904-1936), escritor realista socialista soviético/Alexander Ostrovsky (1823-1886), dramaturgo russo
+奥斯瓦尔德 | TRADUÇÃO: Oswald
+奥斯维辛 | TRADUÇÃO: Auschwitz (campo de concentração)
+奥斯陆 | TRADUÇÃO: Oslo, capital da Noruega
+奥会 | TRADUÇÃO: Jogos Olímpicos (abrev. de 奧林匹克運動會|奥林匹克运动会)/(Taiwan) Comitê Olímpico (abrev. de 奧林匹克委員會|奥林匹克委员会)
+奥朗德 | TRADUÇÃO: François Hollande (1954-), político socialista francês, presidente da França 2012-2017
+奥林匹亚 | TRADUÇÃO: Olímpia (Grécia)
+奥林匹克 | TRADUÇÃO: Olímpico
+奥林匹克运动会 | TRADUÇÃO: Jogos Olímpicos; Olimpíadas
+奥林匹克运动会组织委员会 | TRADUÇÃO: Comitê Organizador dos Jogos Olímpicos
+奥林匹克体育场 | TRADUÇÃO: Estádio Olímpico
+奥林巴斯 | TRADUÇÃO: Olympus, fabricante japonês de câmeras e instrumentos ópticos
+奥步 | TRADUÇÃO: ver 漚步|沤步
+奥氏体 | TRADUÇÃO: (metalurgia) austenita/austenítico
+奥波莱 | TRADUÇÃO: Opole, cidade na Polônia
+奥派 | TRADUÇÃO: (economia) Escola Austríaca
+奥尔巴尼 | TRADUÇÃO: Albany, Nova York
+奥尔布赖特 | TRADUÇÃO: Madeleine Albright (1937–2022), Secretária de Estado dos EUA 1997–2001
+奥尔德尼岛 | TRADUÇÃO: Ilha de Alderney (Ilhas do Canal)
+奥尔德斯·赫胥黎 | TRADUÇÃO: Aldous Huxley (1894–1963), romancista britânico e autor de "Admirável Mundo Novo" 美麗新世界|美丽新世界
+奥尔良 | TRADUÇÃO: Orleães
+奥特曼 | TRADUÇÃO: Ultraman, super-herói japonês de ficção científica
+奥特朗托 | TRADUÇÃO: Otranto, cidade no salto da bota da Itália
+奥特朗托海峡 | TRADUÇÃO: Estreito de Otranto entre o salto da Itália e a Albânia
+奥特莱斯 | TRADUÇÃO: outlets (empréstimo)/loja de varejo (p. ex., especializada em segundas marcas)/loja de fábrica
+奥卢 | TRADUÇÃO: Oulu (cidade na Finlândia)
+奥秘 | TRADUÇÃO: segredo/mistério
+奥米伽 | TRADUÇÃO: ômega (letra grega Ω, ω)/também pron. [ao4mi3jia1]
+奥纳西斯 | TRADUÇÃO: Onassis (nome)/Aristotle Onassis (1906-1975), magnata grego da navegação
+奥组委 | TRADUÇÃO: Comitê Organizador Olímpico (abrev. de 奧林匹克運動會組織委員會|奥林匹克运动会组织委员会)

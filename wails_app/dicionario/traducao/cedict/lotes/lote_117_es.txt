@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+飞鸿 | TRADUÇÃO: ganso salvaje/ánsar cisne/(fig.) carta/mensaje
+飞鸿踏雪 | TRADUÇÃO: véase 雪泥鴻爪|雪泥鸿爪
+飞鸿雪爪 | TRADUÇÃO: véase 雪泥鴻爪|雪泥鸿爪
+飞鸽 | TRADUÇÃO: Flying Pigeon (famosa marca de bicicletas de Tianjin, fabricada desde 1936)
+飞鹰 | TRADUÇÃO: águila
+飞鹰走马 | TRADUÇÃO: cazar a caballo con halcones (modismo)/salir de cacería
+飞黄腾达 | TRADUÇÃO: el corcel celestial Feihuang galopa (modismo)/(fig.) hacer una carrera meteórica/alcanzar un éxito fulgurante
+飞鼠 | TRADUÇÃO: ardilla voladora/(dialectal) murciélago
+飞龙 | TRADUÇÃO: dragón en vuelo/(fig.) (literario) persona en la cumbre del éxito
+食 | TRADUÇÃO: comer/alimento/comida/pienso/forraje/eclipse ‖ alimentar (a una persona o animal)/dar de comer
+食不厌精，脍不厌细 | TRADUÇÃO: comer únicamente grano bien molido y carne finamente picada (modismo, de las Analectas)/(fig.) ser muy refinado y exigente con la comida
+食不果腹 | TRADUÇÃO: la comida no llena el estómago (modismo)/(fig.) pasar hambre/vivir en la miseria/en extrema pobreza
+食不知味 | TRADUÇÃO: comer sin saborear la comida (modismo)/(fig.) estar preocupado o abatido/perder el gusto por comer por desazón
+食之无味，弃之不甘 | TRADUÇÃO: véase 食之無味，棄之可惜|食之无味，弃之可惜
+食之无味，弃之可惜 | TRADUÇÃO: insípido para comer, pero una lástima tirarlo (modismo)/(fig.) algo de poco valor pero de lo que cuesta desprenderse
+食人 | TRADUÇÃO: antropófago/comehombres/devorar personas/(fig.) oprimir al pueblo
+食人俗 | TRADUÇÃO: canibalismo/antropofagia
+食人魔 | TRADUÇÃO: ogro
+食人鱼 | TRADUÇÃO: piraña
+食人鲨 | TRADUÇÃO: tiburón devorador de hombres/tiburón blanco/lo mismo que 大白鯊|大白鲨 (Carcharodon carcharias)
+食俸 | TRADUÇÃO: sueldo de funcionario público/estar al servicio del Estado
+食具 | TRADUÇÃO: vajilla/utensilios para comer/cubiertos
+食古不化 | TRADUÇÃO: tragar conocimientos antiguos sin digerirlos (modismo)/ser pedante sin asimilar lo aprendido
+食品 | TRADUÇÃO: producto alimenticio/alimento/comestibles/víveres
+食品加工机 | TRADUÇÃO: procesador de alimentos/robot de cocina
+食品摊 | TRADUÇÃO: puesto de comida/puesto de alimentos
+食堂 | TRADUÇÃO: comedor/cafetería/cantina/CL:個|个,間|间
+食季 | TRADUÇÃO: temporada de eclipses
+食安 | TRADUÇÃO: seguridad alimentaria (abrev. de 食品安全 o 食物安全)
+食客 | TRADUÇÃO: comensal (en un restaurante, etc.)/parásito/mantenido/allegado
+食宿 | TRADUÇÃO: alojamiento y manutención/hospedaje y comida
+食尸鬼 | TRADUÇÃO: gul/necrófago
+食欲 | TRADUÇÃO: apetito/ganas de comer
+食指 | TRADUÇÃO: dedo índice/(literario) bocas que alimentar
+食指大动 | TRADUÇÃO: hacérsele a uno la boca agua (modismo)/abrirse el apetito ante un manjar delicioso
+食料 | TRADUÇÃO: ingredientes/alimentos/víveres
+食材 | TRADUÇÃO: ingrediente (culinario)/materia prima alimentaria
+食槽 | TRADUÇÃO: comedero/pesebre
+食水 | TRADUÇÃO: (Singapur, Malasia, Hong Kong) agua potable
+食油 | TRADUÇÃO: aceite comestible/aceite de cocina
+食法 | TRADUÇÃO: modo de consumo/método de preparación culinaria
+食火鸡 | TRADUÇÃO: casuario (género Casuarius), gran ave no voladora originaria del noreste de Australia y Nueva Guinea/CL:隻|只
+食物 | TRADUÇÃO: comida/alimento/alimentos
+食物中毒 | TRADUÇÃO: intoxicación alimentaria
+食物及药品管理局 | TRADUÇÃO: Administración de Alimentos y Medicamentos de EE. UU. (FDA)
+食物链 | TRADUÇÃO: cadena alimentaria/cadena trófica
+食玉炊桂 | TRADUÇÃO: la comida es más cara que el jade y la leña más costosa que el canelo (modismo)/(fig.) el costo de la vida es altísimo
+食玩 | TRADUÇÃO: juguete con caramelo/figurita que acompaña a un alimento/dulce DIY
+食用 | TRADUÇÃO: comer/consumir/comestible
+食用油 | TRADUÇÃO: aceite comestible/aceite de cocina
+食疗 | TRADUÇÃO: dietoterapia/terapia nutricional (MTC)/tratamiento mediante alimentos
+食禄 | TRADUÇÃO: cobrar sueldo del gobierno/estar en el servicio público/salario de funcionario
+食管 | TRADUÇÃO: esófago/(Taiwán) regulación de inocuidad alimentaria y sanidad (abrev. de 食品衛生管理|食品卫生管理)
+食粮 | TRADUÇÃO: grano/cereales alimentarios/alimento/víveres
+食肆 | TRADUÇÃO: restaurante/casa de comidas/establecimiento gastronómico
+食肉 | TRADUÇÃO: carnívoro/comer carne
+食肉动物 | TRADUÇÃO: animal carnívoro/carnívoro
+食肉寝皮 | TRADUÇÃO: comer la carne de alguien y dormir sobre su piel (modismo)/jurar venganza a muerte contra alguien/odio implacable
+食肉目 | TRADUÇÃO: Carnivora (orden de mamíferos carnívoros)
+食肉类 | TRADUÇÃO: especies carnívoras/carnívoros
+食腐动物 | TRADUÇÃO: animal carroñero/carroñero
+食脑虫 | TRADUÇÃO: ameba comecerebros (Naegleria fowleri)
+食色 | TRADUÇÃO: comida y sexo/apetito y lujuria
+食色性也 | TRADUÇÃO: el apetito y la lujuria forman parte de la naturaleza humana (Mencio 6A:4)/por naturaleza deseamos comida y sexo
+食草动物 | TRADUÇÃO: animal herbívoro/herbívoro
+食荼卧棘 | TRADUÇÃO: comer frutos amargos y acostarse sobre espinas (modismo)/compartir las penurias del pueblo común
+食菌 | TRADUÇÃO: hongo comestible/seta comestible
+食虫植物 | TRADUÇÃO: planta insectívora/planta carnívora
+食虫目 | TRADUÇÃO: Insectivora (orden de mamíferos insectívoros)
+食蟹獴 | TRADUÇÃO: véase 蟹獴
+食蚁兽 | TRADUÇÃO: oso hormiguero
+食衣住行 | TRADUÇÃO: véase 衣食住行
+食补 | TRADUÇÃO: alimento tónico/terapia alimentaria fortificante/consumir alimentos nutritivos reparadores
+食言 | TRADUÇÃO: romper la palabra/incumplir una promesa/faltar a la promesa
+食言而肥 | TRADUÇÃO: engordar tragándose las propias palabras (modismo)/(fig.) no cumplir las promesas hechas
+食谱 | TRADUÇÃO: recetario/receta/libro de cocina/régimen alimenticio/CL:份,個|个
+食道 | TRADUÇÃO: esófago/(antiguo) forma correcta de comer/(antiguo) ruta de transporte de alimentos
+食道癌 | TRADUÇÃO: cáncer de esófago
+食醋 | TRADUÇÃO: vinagre de mesa/vinagre comestible
+食量 | TRADUÇÃO: apetito/cantidad de comida que se ingiere/capacidad para comer
+食顷 | TRADUÇÃO: un instante/el tiempo de una comida/breve momento
+食盐 | TRADUÇÃO: sal comestible/sal de mesa
+饣 | TRADUÇÃO: radical "comer" o "comida" en caracteres chinos (radical Kangxi 184)
+飡 | TRADUÇÃO: variante de 餐
+饥 | TRADUÇÃO: (en combinaciones) hambriento/hambre ‖ variante de 飢|饥
+饥不择食 | TRADUÇÃO: a buen hambre no hay pan duro (modismo)/el hambriento no escoge lo que come/en momentos de apuro no hay que ser exigente
+饥寒交迫 | TRADUÇÃO: acosado por el hambre y el frío (modismo)/pasar hambre y frío/en extrema miseria
+饥渴 | TRADUÇÃO: hambriento y sediento/hambre y sed/(fig.) ansiar con fervor (conocimiento, amor, etc.)
+饥肠辘辘 | TRADUÇÃO: rugir las tripas de hambre (modismo)/estar hambriento/muerto de hambre
+饥饿 | TRADUÇÃO: hambre/inanición/hambruna
+饤 | TRADUÇÃO: disponer alimentos solo de adorno/sacrificio ritual de alimentos
+饲 | TRADUÇÃO: variante antigua de 飼|饲 ‖ criar/alimentar/cebar
+饦 | TRADUÇÃO: usado en 餺飥|馎饦
+飧 | TRADUÇÃO: (literario) cena ‖ variante de 飧
+饨 | TRADUÇÃO: usado en 餛飩|馄饨/pronunciación de Taiwán [dun4]
+饪 | TRADUÇÃO: comida cocinada/cocinar (hasta que esté listo) ‖ variante de 飪|饪
+饫 | TRADUÇÃO: harto/saciado (de comer)
+饫甘餍肥 | TRADUÇÃO: hartarse de exquisiteces y manjares suculentos (modismo)/llevar una vida de lujo y abundancia
+飬 | TRADUÇÃO: variante antigua de 餋 ‖ variante antigua de 養|养
+饬 | TRADUÇÃO: (en combinaciones) poner en orden/disponer debidamente/prudente/bien educado/dar una orden (a alguien)
+飮 | TRADUÇÃO: variante de 飲|饮
+饭 | TRADUÇÃO: arroz cocido/CL:碗/comida/CL:頓|顿/(préstamo) fan/seguidor
+饭勺 | TRADUÇÃO: paleta de arroz/cuchara para arroz
+饭匙 | TRADUÇÃO: cuchara de arroz/paleta para servir arroz
+饭卡 | TRADUÇÃO: tarjeta de comedor/tarjeta para comidas
+饭圈 | TRADUÇÃO: comunidad de fans/fandom
+饭堂 | TRADUÇÃO: comedor/cantina/cafetería
+饭局 | TRADUÇÃO: cena formal/banquete/reunión para comer
+饭岛柳莺 | TRADUÇÃO: (especie de ave de China) mosquitero de Ijima (Phylloscopus ijimae)
+饭店 | TRADUÇÃO: restaurante/hotel/CL:家
+饭厅 | TRADUÇÃO: comedor/salón comedor
+饭后一支烟，赛过活神仙 | TRADUÇÃO: un cigarrillo después de comer hace sentir mejor que un dios inmortal (proverbio)
+饭后服用 | TRADUÇÃO: posprandial (farm.)/tomar (medicamento) después de comer
+饭后百步走，活到九十九 | TRADUÇÃO: dar cien pasos después de comer permite vivir hasta los noventa y nueve (proverbio)
+饭托 | TRADUÇÃO: gancho de restaurante/persona contratada para atraer comensales
+饭撒 | TRADUÇÃO: (coloq.) gesto de un ídolo para deleitar a sus fans (guiño, saludo especial, lanzar regalos autografiados, etc.)/hacer fan service (del japonés "fansābisu")
+饭替 | TRADUÇÃO: doble de acción para escenas de comer (en cine o televisión)
+饭桌 | TRADUÇÃO: mesa de comedor/mesa para comer
+饭桶 | TRADUÇÃO: cubo de arroz (para servir)/(fig.) cabeza hueca/inútil/bueno para nada
+饭气攻心 | TRADUÇÃO: coma alimentario/somnolencia posprandial
+饭盆 | TRADUÇÃO: cuenco de comida para mascotas/comedero para perros
+饭盒 | TRADUÇÃO: fiambrera/portaviandas/tartera
+饭碗 | TRADUÇÃO: cuenco de arroz/(fig.) sustento/empleo/medio de vida
+饭票 | TRADUÇÃO: (lit. y fig.) vale de comida/bono de comedor
+饭粒 | TRADUÇÃO: grano de arroz cocido
+饭糗茹草 | TRADUÇÃO: (lit.) alimentarse de provisiones secas y hierbas silvestres (modismo)/(fig.) vivir en la miseria absoluta
+饭团 | TRADUÇÃO: bola de arroz/onigiri (bola de arroz estilo japonés rellena)
+饭庄 | TRADUÇÃO: gran restaurante tradicional
+饭菜 | TRADUÇÃO: comida/platos de comida
+饭量 | TRADUÇÃO: apetito/cantidad de comida consumida/tamaño de la porción
+饭类 | TRADUÇÃO: platos de arroz (en un menú)
+饭食 | TRADUÇÃO: comida/alimentos
+饭馆 | TRADUÇÃO: restaurante/casa de comidas/CL:家
+饭馆儿 | TRADUÇÃO: forma con erhua de 飯館|饭馆
+饭点 | TRADUÇÃO: hora de comer (hora del almuerzo, de la cena, etc.)
+飰 | TRADUÇÃO: variante antigua de 飯|饭
+饮品 | TRADUÇÃO: bebida
+饮宴 | TRADUÇÃO: banquete/festín/fiesta con comida y bebida
+饮弹 | TRADUÇÃO: dispararse/suicidarse de un tiro/recibir un disparo
+饮恨 | TRADUÇÃO: albergar rencor/guardar resentimiento/tragarse la indignación
+饮恨吞声 | TRADUÇÃO: tragarse el rencor y callar el odio profundo (modismo)
+饮料 | TRADUÇÃO: bebida/refresco
+饮水 | TRADUÇÃO: beber agua/agua potable ‖ abrevar/dar de beber (a los animales)
+饮水器 | TRADUÇÃO: dispensador de agua/bebedero
+饮水思源 | TRADUÇÃO: al beber agua, pensar en su fuente (modismo); gratitud hacia el origen de las bendiciones/no olvidar de dónde viene la propia dicha/ser agradecido
+饮水机 | TRADUÇÃO: dispensador de agua/fuente de agua/enfriador de agua
+饮泣 | TRADUÇÃO: (literario) llorar en silencio/ahogar el llanto
+饮流怀源 | TRADUÇÃO: al beber de la corriente, recordar su manantial (modismo); no olvidar las raíces ni a quienes ayudaron/ser agradecido
+饮用 | TRADUÇÃO: beber/consumir (bebidas)/potable/bebible
+饮用水 | TRADUÇÃO: agua potable
+饮茶 | TRADUÇÃO: tomar té y refrigerios/tomar dim sum (cantonés)
+饮酒 | TRADUÇÃO: beber vino/tomar alcohol
+饮酒作乐 | TRADUÇÃO: beber y divertirse/festejar alegremente con bebida/irse de juerga
+饮酒驾车 | TRADUÇÃO: conducir bajo los efectos del alcohol/conducir ebrio
+饮食 | TRADUÇÃO: comida y bebida/alimentación/dieta
+饮食疗养 | TRADUÇÃO: dietoterapia/régimen dietético
+饮鸩止渴 | TRADUÇÃO: beber veneno para calmar la sed (modismo)/(fig.) buscar un remedio temporal que solo empeora la situación
+饴 | TRADUÇÃO: jarabe de maltosa
+饴糖 | TRADUÇÃO: azúcar de malta/maltosa
+飶 | TRADUÇÃO: aroma de la comida/fragancia de los alimentos
+饲主 | TRADUÇÃO: dueño de mascota/criador
+饲料 | TRADUÇÃO: forraje/pienso/alimento para animales
+饲槽 | TRADUÇÃO: comedero/pesebre
+饲育 | TRADUÇÃO: criar (animales)/alimentar y criar
+饲草 | TRADUÇÃO: hierba forrajera/forraje
+饲养 | TRADUÇÃO: criar/alimentar (animales)
+饲养员 | TRADUÇÃO: cuidador de zoológico/criador/ganadero/peón de granja
+饲养场 | TRADUÇÃO: criadero/granja de cría/cebadero
+饲养业 | TRADUÇÃO: ganadería/industria de cría animal
+饲养者 | TRADUÇÃO: criador/alimentador
+饲喂 | TRADUÇÃO: alimentar (a un animal)/dar de comer
+饱 | TRADUÇÃO: saciado/lleno (después de comer)/satisfecho
+饱人不知饿人饥 | TRADUÇÃO: el harto no sabe lo que sufre el hambriento (modismo)
+饱以老拳 | TRADUÇÃO: propinar una lluvia de puñetazos/aporrear con los puños
+饱受 | TRADUÇÃO: sufrir plenamente/padecer repetidamente/estar expuesto a
+饱含 | TRADUÇÃO: estar lleno de (emoción)/rebosar de (amor, lágrimas, etc.)
+饱和 | TRADUÇÃO: saturado/lleno hasta el límite
+饱和脂肪 | TRADUÇÃO: grasa saturada
+饱和脂肪酸 | TRADUÇÃO: ácido graso saturado (AGS)
+饱嗝儿 | TRADUÇÃO: eructo (tras haber comido copiosamente)/eructar de satisfacción
+饱尝 | TRADUÇÃO: saborear plenamente/experimentar al máximo durante largo tiempo
+饱学 | TRADUÇÃO: erudito/sabio/muy instruido
+饱暖思淫欲，饥寒起盗心 | TRADUÇÃO: la holgura y la saciedad despiertan la lujuria, el hambre y el frío incitan al robo (modismo)
+饱满 | TRADUÇÃO: pleno/repleto/turgente/vigoroso
+饱汉不知饿汉饥 | TRADUÇÃO: el saciado no entiende el hambre del necesitado (modismo)
+饱眼福 | TRADUÇÃO: recrear la vista (modismo)/darse un festín visual/deleitarse los ojos
+饱私囊 | TRADUÇÃO: llenarse los bolsillos/enriquecerse indebidamente
+饱经忧患 | TRADUÇÃO: curtido por las penas/haber experimentado grandes sufrimientos
+饱经沧桑 | TRADUÇÃO: haber vivido muchas vicisitudes y cambios drásticos
+饱经风霜 | TRADUÇÃO: curtido por la intemperie/haber sufrido los rigores de la vida
+饱绽 | TRADUÇÃO: hinchado a punto de reventar (por comer en exceso)
+饱览 | TRADUÇÃO: contemplar detenidamente/deleitarse la vista contemplando
+饱读 | TRADUÇÃO: leer profusamente/haber leído muchas obras
+饱足 | TRADUÇÃO: satisfecho/estar saciado (tras comer)
+饱食终日 | TRADUÇÃO: pasarse el día comiendo sin hacer nada productivo
+饱食终日，无所用心 | TRADUÇÃO: comer tres comidas al día sin dar golpe (modismo)/estar saciado y permanecer ocioso todo el día
+饱餐 | TRADUÇÃO: comer hasta saciarse/darse un festín
+饱餐一顿 | TRADUÇÃO: comer hasta quedar satisfecho/darse una buena comida
+饱餐战饭 | TRADUÇÃO: llenar el estómago antes de la batalla (modismo)/prepararse bien antes del combate
+饰 | TRADUÇÃO: adorno/decoración/adornar/decorar/ocultar (un defecto)/disimular/disculpa (para ocultar una falta)/interpretar un papel (en ópera o teatro)/personificar
+饰品 | TRADUÇÃO: adorno/pieza de joyería/accesorio
+饰巾 | TRADUÇÃO: pañuelo ornamental para la cabeza
+饰带 | TRADUÇÃO: faja/cinta ornamental/listón
+饰演 | TRADUÇÃO: interpretar/hacer el papel de/encarnar
+饰物 | TRADUÇÃO: adornos/alhajas/joyas
+饰胸鹬 | TRADUÇÃO: (especie de ave de China) correlimos canelo (Tryngites subruficollis)
+饰词 | TRADUÇÃO: pretexto/excusa engañosa
+饰边 | TRADUÇÃO: ribete ornamental/orla/borde decorativo
+饰钉 | TRADUÇÃO: tachuela decorativa/remache de adorno (para ropa, zapatos, cinturones, etc.)
+饰面 | TRADUÇÃO: revestimiento decorativo/paramento/chapa de adorno
+饳 | TRADUÇÃO: usado en 餶飿|馉饳
+餀 | TRADUÇÃO: comida rancia/alimento alterado o descompuesto
+餂 | TRADUÇÃO: obtener mediante engaño/engatusar
+饺 | TRADUÇÃO: ravioli chino relleno de carne/empanadilla china
+饺子 | TRADUÇÃO: jiaozi (empanadilla china rellena)/ravioli chino/CL:個|个,隻|只
+饺子馆 | TRADUÇÃO: restaurante de jiaozi/empanadería china
+饺饵 | TRADUÇÃO: jiaozi/empanadilla china/lo mismo que 餃子|饺子
+饸 | TRADUÇÃO: usado en 餄餎|饸饹
+饸饹 | TRADUÇÃO: fideos hele (tipo de fideo tradicional elaborado con harina de trigo sarraceno o sorgo)
+饼 | TRADUÇÃO: torta redonda/pan plano/galleta/pastelito/CL:張|张
+饼干 | TRADUÇÃO: galleta/biscote/CL:片,塊|块
+饼图 | TRADUÇÃO: gráfico circular/gráfico de sectores/gráfico de pastel
+饼型图 | TRADUÇÃO: gráfico circular/gráfico de sectores
+饼子 | TRADUÇÃO: torta de maíz o mijo/pan plano de maíz
+饼屋 | TRADUÇÃO: panadería/pastelería
+饼状图 | TRADUÇÃO: gráfico circular/gráfico de pastel
+饼肥 | TRADUÇÃO: abono de torta de semillas oleaginosas
+饼铛 | TRADUÇÃO: plancha para hornear/sartén plana para tortas
+饼饵 | TRADUÇÃO: pasteles/repostería
+餇 | TRADUÇÃO: comida/alimento
+饷 | TRADUÇÃO: paga militar/salario de soldados ‖ variante de 餉|饷
+饷银 | TRADUÇÃO: (antiguo) paga/sueldo en plata (esp. para soldados)
+养 | TRADUÇÃO: criar (animales)/educar (a los hijos)/mantener (mascotas)/sustentar/dar a luz
+养伤 | TRADUÇÃO: curar una herida/recuperarse de una lesión/convalecer
+养儿防老 | TRADUÇÃO: criar hijos como seguro para la vejez (modismo)
+养兵 | TRADUÇÃO: entrenar y mantener tropas
+养兵千日，用兵一时 | TRADUÇÃO: alimentar y entrenar tropas durante mil días para emplearlas una sola vez (modismo)/(fig.) la preparación constante da frutos en el momento decisivo
+养兵千日，用在一时 | TRADUÇÃO: véase 養兵千日，用兵一時|养兵千日，用兵一时
+养兵千日，用在一朝 | TRADUÇÃO: preparar tropas durante mil días para usarlas una mañana (modismo)/(fig.) una larga preparación sirve para el momento crucial
+养分 | TRADUÇÃO: nutriente/sustancia nutritiva
+养地 | TRADUÇÃO: nutrir la tierra/mejorar el suelo (mediante rotación de cultivos o abonos)
+养大 | TRADUÇÃO: criar hasta que crezca (un niño o animal)
+养女 | TRADUÇÃO: hija adoptiva/hija de crianza
+养子 | TRADUÇÃO: hijo adoptivo/hijo de crianza
+养家 | TRADUÇÃO: mantener a la familia/sustentar el hogar
+养家活口 | TRADUÇÃO: mantener a la familia (modismo)/ganarse el sustento para el hogar
+养家糊口 | TRADUÇÃO: mantener y alimentar a la familia (modismo)/ganarse la vida para sustentar el hogar
+养尊处优 | TRADUÇÃO: vivir con toda comodidad y regalo (modismo)/llevar una vida de príncipe
+养廉 | TRADUÇÃO: fomentar la honradez/desalentar la corrupción
+养性 | TRADUÇÃO: cultivo espiritual o mental
+养成 | TRADUÇÃO: cultivar/desarrollar/adquirir (un hábito)/fomentar
+养料 | TRADUÇÃO: nutrimento/alimento/sustancia nutricia
+养乐多 | TRADUÇÃO: Yakult (marca japonesa de bebida láctea fermentada)
+养殖 | TRADUÇÃO: criar/cultivar (animales, plantas acuáticas, etc.)/piscicultura o ganadería
+养殖业 | TRADUÇÃO: industria de la cría y acuicultura/acuicultura y ganadería
+养母 | TRADUÇÃO: madre adoptiva/madre de crianza
+养活 | TRADUÇÃO: mantener/sustentar (una familia, animales)/alimentar y vestir/dar sustento/necesidades básicas/dar a luz
+养汉 | TRADUÇÃO: cometer adulterio (dicho de una mujer casada)
+养父 | TRADUÇÃO: padre adoptivo/padre de crianza
+养生 | TRADUÇÃO: cuidar la salud/preservar la vitalidad/criar a un hijo o animal/curado (del hormigón, etc.)
+养生之道 | TRADUÇÃO: el arte de cuidar la salud y longevidad/método de preservación de la salud
+养生法 | TRADUÇÃO: método de salud y régimen de vida
+养生送死 | TRADUÇÃO: cuidar en vida y dar digna sepultura tras la muerte (modismo)
+养病 | TRADUÇÃO: convalecer/recuperarse de una enfermedad/reponerse
+养痈贻患 | TRADUÇÃO: consentir un absceso engendra desgracias (modismo)/tolerar un mal naciente conduce al desastre/criar cuervos
+养痈遗患 | TRADUÇÃO: consentir un absceso engendra desgracias (modismo)/tolerar un mal naciente conduce al desastre/criar cuervos
+养眼 | TRADUÇÃO: agradable a la vista/deleite visual/cuidar la vista
+养神 | TRADUÇÃO: reposar la mente/descansar/recuperar la calma
+养精蓄锐 | TRADUÇÃO: reponer fuerzas y acumular energía (modismo)/prepararse con vigor para el gran esfuerzo
+养羊 | TRADUÇÃO: cría de ovejas/ovinocultura
+养老 | TRADUÇÃO: mantener a los ancianos/disfrutar de la jubilación/cuidar a los padres mayores
+养老保险 | TRADUÇÃO: seguro de vejez/seguro de pensiones de jubilación
+养老送终 | TRADUÇÃO: cuidar a los padres en la vejez y organizar sus exequias fúnebres (modismo)
+养老金 | TRADUÇÃO: pensión de jubilación/jubilación
+养老金双轨制 | TRADUÇÃO: sistema de pensiones de doble vía (en China, con regímenes distintos para el sector público y empresas)
+养老院 | TRADUÇÃO: asilo de ancianos/residencia de la tercera edad/residencia de ancianos
+养育 | TRADUÇÃO: criar/educar/nutrir y formar
+养花 | TRADUÇÃO: cultivar flores/floricultura
+养虎伤身 | TRADUÇÃO: criar un tigre y labrarse la propia ruina (modismo)/(fig.) ser blando con el enemigo es buscarse el perjuicio
+养虎为患 | TRADUÇÃO: criar un tigre acarrea calamidades (modismo)/(fig.) consentir al enemigo es buscarse problemas
+养虎遗患 | TRADUÇÃO: criar un tigre acarrea calamidades futuras (modismo)/(fig.) ser condescendiente con el peligro engendra desastre
+养蜂 | TRADUÇÃO: criar abejas/apicultura
+养蜂人 | TRADUÇÃO: apicultor
+养蜂业 | TRADUÇÃO: apicultura/industria apícola
+养蚕 | TRADUÇÃO: criar gusanos de seda/sericultura
+养蚕业 | TRADUÇÃO: sericultura/industria de la seda
+养护 | TRADUÇÃO: mantener/conservar/curado (de hormigón, etc.)
+养路费 | TRADUÇÃO: tasa de mantenimiento de carreteras (en China)
+养鸡场 | TRADUÇÃO: granja avícola/granja de pollos
+养颜 | TRADUÇÃO: embellecer el cutis/nutrir la piel/mantener una apariencia juvenil
+养鱼池 | TRADUÇÃO: estanque de peces/estanque piscícola
+养鱼缸 | TRADUÇÃO: pecera/acuario
+餋 | TRADUÇÃO: ofrecer sacrificios
+饵 | TRADUÇÃO: pastelillo/comida/engullir/atraer/cebo/señuelo
+饵子 | TRADUÇÃO: cebo de pesca
+饵敌 | TRADUÇÃO: atraer al enemigo con señuelos/tender una trampa al enemigo
+饵丝 | TRADUÇÃO: ersi (tipo de fideos de harina de arroz típicos de Yunnan)
+饵线 | TRADUÇÃO: bajo de línea (en pesca con mosca)
+饵诱 | TRADUÇÃO: seducir con cebos/atraer con señuelos
+饵雷 | TRADUÇÃO: trampa cazabobos/mina con trampa
+饹 | TRADUÇÃO: usado en 餎餷|饹馇 ‖ usado en 餄餎|饸饹
+饹馇 | TRADUÇÃO: gezha (torta delgada de harina de judías, típica de Hebei, a menudo cortada y frita)
+餐 | TRADUÇÃO: comida/ingerir alimentos/clasificador para comidas
+餐具 | TRADUÇÃO: vajilla/servicio de mesa/cubiertos
+餐刀 | TRADUÇÃO: cuchillo de mesa
+餐前酒 | TRADUÇÃO: aperitivo/vino de aperitivo
+餐室 | TRADUÇÃO: comedor
+餐宴 | TRADUÇÃO: banquete/festín
+餐巾 | TRADUÇÃO: servilleta/CL:張|张
+餐巾纸 | TRADUÇÃO: servilleta de papel
+餐厅 | TRADUÇÃO: comedor/salón comedor/restaurante/CL:間|间,家
+餐后酒 | TRADUÇÃO: digestivo/licor de sobremesa
+餐会 | TRADUÇÃO: banquete/almuerzo o cena formal/ágape
+餐桌 | TRADUÇÃO: mesa de comedor/mesa para comer/CL:張|张
+餐桌转盘 | TRADUÇÃO: plato giratorio de mesa/tornamesa de mesa
+餐桌盐 | TRADUÇÃO: sal de mesa
+餐牌 | TRADUÇÃO: menú/carta del restaurante
+餐车 | TRADUÇÃO: coche comedor/vagón restaurante/carrito de comida
+餐酒馆 | TRADUÇÃO: (Taiwán) bistró/bistrot
+餐食 | TRADUÇÃO: comida/ración de comida (ofrecida por servicios como aerolíneas, etc.)
+餐饮 | TRADUÇÃO: comida y bebida/gastronomía/hostelería y restauración
+餐饮店 | TRADUÇÃO: establecimiento gastronómico/restaurante
+餐饮业 | TRADUÇÃO: sector de la restauración/industria gastronómica y de hostelería
+餐馆 | TRADUÇÃO: restaurante/casa de comidas/CL:家
+餐点 | TRADUÇÃO: comidas ligeras/platos/raciones
+饽 | TRADUÇÃO: pastel/bollo/torta
+饽饽 | TRADUÇÃO: pastelillo/bollo al vapor/torta dulce
+馁 | TRADUÇÃO: (en combinaciones) hambriento/desanimado/abatido/(literario) (de pescado) descompuesto o podrido
+饿 | TRADUÇÃO: hambriento/hambre/pasar hambre/hacer pasar hambre
+饿扁 | TRADUÇÃO: (coloq.) estar muerto de hambre/hambriento hasta los huesos
+饿死 | TRADUÇÃO: morir de hambre/morirse de hambre
+饿殍 | TRADUÇÃO: cadáver de quien murió de inanición/personas hambrientas y moribundas
+饿殍载道 | TRADUÇÃO: los cadáveres de muertos por inanición llenan los caminos (modismo)/situación extrema de hambruna
+饿肚子 | TRADUÇÃO: pasar hambre/quedarse sin comer
+饿莩 | TRADUÇÃO: variante de 餓殍|饿殍
+饿莩载道 | TRADUÇÃO: los cadáveres de víctimas del hambre cubren los caminos (modismo)/situación extrema de hambruna
+饿莩遍野 | TRADUÇÃO: los muertos de hambre yacen por todos los campos (modismo)/situación desoladora de hambruna
+饿虎扑食 | TRADUÇÃO: abalanzarse como un tigre hambriento sobre su presa
+饿鬼 | TRADUÇÃO: persona insaciable/tragón/(budismo) espíritu hambriento/preta
+𫗦 | TRADUÇÃO: usado en 餔子|𫗦子
+𫗦子 | TRADUÇÃO: papilla infantil/alimento para bebés
+馂 | TRADUÇÃO: (literario) sobras de una comida/(literario) comer las sobras
+饾 | TRADUÇÃO: disponer manjares y refrigerios en la mesa
+𫗧 | TRADUÇÃO: olla de arroz cocido
+馀 | TRADUÇÃO: apellido Yu ‖ variante de 餘|余, resto/remanente/sobrante
+余下 | TRADUÇÃO: restante/lo que queda
+余光 | TRADUÇÃO: rabillo del ojo/visión periférica/luz crepuscular/resplandor del sol poniente
+余切 | TRADUÇÃO: cotangente (de un ángulo, escrita cot θ o ctg θ)
+余剩 | TRADUÇÃO: excedente/remanente/resto
+余割 | TRADUÇÃO: cosecante (de un ángulo, escrita cosec θ o csc θ)
+余力 | TRADUÇÃO: energías de sobra (para hacer otra cosa)/fuerza restante
+余勇可贾 | TRADUÇÃO: aún queda valentía de sobra por ofrecer (modismo)/(fig.) tras el éxito inicial, aún se tiene ímpetu para seguir adelante
+余味 | TRADUÇÃO: regusto/sabor residual/impresión duradera
+余地 | TRADUÇÃO: margen/espacio de maniobra/holgura
+余姚 | TRADUÇÃO: véase 餘姚市|余姚市
+余姚市 | TRADUÇÃO: ciudad de Yuyao, en la ciudad de Ningbo 寧波市|宁波市, Zhejiang
+余存 | TRADUÇÃO: remanente/saldo restante/remanente de existencias
+余孽 | TRADUÇÃO: restos de elementos nocivos/secuaces supervivientes/residuos del régimen anterior
+余干 | TRADUÇÃO: véase 餘干縣|余干县
+余干县 | TRADUÇÃO: condado de Yugan, en la ciudad de Shangrao 上饒市|上饶市, Jiangxi
+余年 | TRADUÇÃO: años restantes de vida/vejez
+余弦 | TRADUÇÃO: (mat.) coseno
+余弧 | TRADUÇÃO: arco complementario
+余怒 | TRADUÇÃO: ira residual/enfado remanente
+余怒未息 | TRADUÇÃO: continuar enfadado/la ira aún no se ha apagado
+余悸 | TRADUÇÃO: temor persistente/miedo residual tras un susto
+余庆 | TRADUÇÃO: véase 餘慶縣|余庆县
+余庆县 | TRADUÇÃO: condado de Yuqing, en la ciudad de Zunyi 遵義市|遵义市, Guizhou
+余数 | TRADUÇÃO: resto (en una división)/residuo
+余数定理 | TRADUÇÃO: teorema del resto
+余晖 | TRADUÇÃO: crepúsculo/resplandor del atardecer
+余杭 | TRADUÇÃO: véase 餘杭區|余杭区
+余杭区 | TRADUÇÃO: distrito de Yuhang, en la ciudad de Hangzhou 杭州市, Zhejiang
+余江 | TRADUÇÃO: véase 餘江區|余江区
+余江区 | TRADUÇÃO: distrito de Yujiang, en la ciudad de Yingtan 鷹潭市|鹰潭市, Jiangxi
+余波 | TRADUÇÃO: coletazos/repercusiones/consecuencias posteriores
+余温 | TRADUÇÃO: calor residual/tibieza remanente/(fig.) entusiasmo persistente
+余热 | TRADUÇÃO: calor residual/energía térmica residual/(fig.) capacidad laboral remanente de los jubilados
+余烬 | TRADUÇÃO: rescoldo/cenizas aún calientes/brasas
+余甘子 | TRADUÇÃO: grosella espinosa india/amla (Phyllanthus emblica)
+余生 | TRADUÇÃO: el resto de la vida/años que quedan de vida/supervivencia (tras una catástrofe)
+余留 | TRADUÇÃO: remanente/lo que queda/asunto pendiente/parte fraccionaria
+余留事务 | TRADUÇÃO: asuntos pendientes/negocios no concluidos
+余皇 | TRADUÇÃO: variante de 艅艎
+余码 | TRADUÇÃO: código excedente (en decimal codificado en binario)
+余粮 | TRADUÇÃO: grano excedente/cereal sobrante
+余绪 | TRADUÇÃO: reminiscencia/eco del pasado/reliquia vestigial
+余缺 | TRADUÇÃO: superávit y déficit/excedente y escasez
+余者 | TRADUÇÃO: los restantes/los demás
+余裕 | TRADUÇÃO: holgura/amplitud/margen sobrado
+余角 | TRADUÇÃO: ángulo complementario
+余辉 | TRADUÇÃO: variante de 餘暉|余晖
+余量 | TRADUÇÃO: remanente/margen/tolerancia admisible
+余钱 | TRADUÇÃO: dinero sobrante/ahorros disponibles
+余集 | TRADUÇÃO: complemento de un conjunto (mat.)/conjunto complementario
+余震 | TRADUÇÃO: réplica sísmica/réplica de terremoto
+余音 | TRADUÇÃO: eco persistente/resonancia prolongada
+余音绕梁 | TRADUÇÃO: la melodía resuena en torno a las vigas (modismo)/(fig.) música o voz melodiosa e inolvidable
+余韵 | TRADUÇÃO: encanto perdurable/eco memorable/regusto agradable (de un vino, etc.)
+余响绕梁 | TRADUÇÃO: la resonancia gira en torno a las vigas (modismo)/(fig.) canto melodioso y prolongado
+余项 | TRADUÇÃO: término residual (mat.)/resto/término de error
+余额 | TRADUÇÃO: saldo (de una cuenta, factura, etc.)/remanente/balance
+余党 | TRADUÇÃO: restos de una facción derrotada/remanentes de una banda
+馄 | TRADUÇÃO: usado en 餛飩|馄饨 y 餛燉|馄炖
+馄炖 | TRADUÇÃO: véase 餛飩|馄饨
+馄饨 | TRADUÇÃO: wonton (empanadilla china servida comúnmente en sopa)/ravioli chino/pronunciación de Taiwán [hun2dun5]
+馃 | TRADUÇÃO: pastelillo/torta frita
+馃子 | TRADUÇÃO: (dialectal) pastelillo frito/(dialectal) youtiao/churro chino
+饯 | TRADUÇÃO: banquete de despedida/fruta en almíbar o confitada
+饯别 | TRADUÇÃO: ofrecer una comida de despedida/agasajar en la despedida
+饯行 | TRADUÇÃO: ofrecer un banquete de despedida/agasajar a quien parte de viaje
+餟 | TRADUÇÃO: rodear santuarios y hacer sacrificios
+餠 | TRADUÇÃO: variante de 餅|饼
+馅 | TRADUÇÃO: relleno (para empanadillas, pasteles, etc.)
+馅儿 | TRADUÇÃO: forma con erhua de 餡|馅
+馅儿饼 | TRADUÇÃO: forma con erhua de 餡餅|馅饼
+馅料 | TRADUÇÃO: relleno/ingredientes del relleno
+馅饼 | TRADUÇÃO: pastel de carne/empanada/pastel relleno
+餤 | TRADUÇÃO: avanzar
+馆地 | TRADUÇÃO: escuela privada tradicional (antiguo)
+馆子 | TRADUÇÃO: restaurante/casa de comidas/teatro (antiguo)
+馆藏 | TRADUÇÃO: colección de museo o biblioteca/fondos bibliográficos/fondos museísticos
+馆宾 | TRADUÇÃO: preceptor privado/tutor particular
+馆陶 | TRADUÇÃO: véase 館陶縣|馆陶县
+馆陶县 | TRADUÇÃO: condado de Guantao, en la ciudad de Handan 邯鄲市|邯郸市, Hebei
+餩 | TRADUÇÃO: hipo
+餪 | TRADUÇÃO: enviar manjares de regalo/ofrecer un festín de obsequio
+餫 | TRADUÇÃO: variante de 餛|馄
+餮 | TRADUÇÃO: (literario) voraz/glotón
+餯 | TRADUÇÃO: (de comida) podrida y apestosa/echada a perder
+糇 | TRADUÇÃO: provisiones secas/alimento seco de viaje
+餲 | TRADUÇÃO: (literario) (de comida) agria/estropeada/pasada ‖ torta frita de fideos, también conocida como 饊子|馓子
+饧 | TRADUÇÃO: jarabe de maltosa/melaza/párpados pesados/adormilado/lánguido/(de masa o caramelo) ablandarse/volverse blando y pegajoso
+饧面 | TRADUÇÃO: dejar reposar la masa
+喂哺 | TRADUÇÃO: alimentar (a un bebé)/amamantar
+喂奶 | TRADUÇÃO: amamantar/dar el pecho/dar el biberón
+喂料 | TRADUÇÃO: alimentar con materias primas/suministro de pienso (también fig.)
+喂母乳 | TRADUÇÃO: lactancia materna/amamantar
+喂食 | TRADUÇÃO: alimentar/dar de comer
+喂养 | TRADUÇÃO: alimentar (a un niño, animal, etc.)/criar/mantener (animales)
+馉 | TRADUÇÃO: usado en 餶飿|馉饳
+馉饳 | TRADUÇÃO: gudu (tipo de wonton de la antigüedad)
+馇 | TRADUÇÃO: cocer y revolver (pienso para animales)/(coloq.) cocer a fuego lento (gachas, etc.) ‖ usado en 餎餷|饹馇
+𩠌 | TRADUÇÃO: (cantonés) plato de acompañamiento para el arroz
+馎 | TRADUÇÃO: usado en 餺飥|馎饦
+馎饦 | TRADUÇÃO: botuo (tipo de fideos anchos y cortos de la antigüedad)
+饩 | TRADUÇÃO: ración de grano/animal para sacrificio ritual
+馈 | TRADUÇÃO: (literario) hacer una ofrenda a los dioses/variante de 饋|馈 ‖ (en combinaciones) regalar/obsequiar/(en combinaciones) enviar/transmitir/alimentar (señal, etc.)
+馏 | TRADUÇÃO: destilar/separar sustancias líquidas por ebullición ‖ cocer al vapor/calentar comida al vapor en una vaporera
+馏分 | TRADUÇÃO: fracción (de un destilado)/corte de destilación
+馊 | TRADUÇÃO: rancio/agrio (dicho de comida estropeada)
+馊主意 | TRADUÇÃO: mala idea/idea absurda/consejo disparatado
+馊臭 | TRADUÇÃO: olor a rancio/hedor a comida podrida
+馌 | TRADUÇÃO: llevar comida a los campesinos que trabajan en el campo
+馍 | TRADUÇÃO: panecillo al vapor ‖ variante de 饃|馍
+馍馍 | TRADUÇÃO: bollo al vapor/pan al vapor
+饄 | TRADUÇÃO: variante antigua de 糖
+馒 | TRADUÇÃO: usado en 饅頭|馒头
+馒头 | TRADUÇÃO: mantou/panecillo al vapor/bollo cocido al vapor
+𱃲 | TRADUÇÃO: variante de 飫|饫
+馐 | TRADUÇÃO: manjares/delicias culinarias
+馑 | TRADUÇÃO: época de hambruna/pérdida de cosechas
+馓 | TRADUÇÃO: usado en 饊子|馓子
+馓子 | TRADUÇÃO: sanzi (tiras de masa frita crujiente trenzadas)
+馈线 | TRADUÇÃO: línea alimentadora/cable de alimentación
+馈赠 | TRADUÇÃO: obsequiar/regalar/hacer entrega de un presente
+馈送 | TRADUÇÃO: regalar/ofrendar/alimentar (señal a un dispositivo, papel a una impresora, etc.)
+饎 | TRADUÇÃO: comida/cocinar
+饐 | TRADUÇÃO: rancio/descompuesto
+饥荒 | TRADUÇÃO: hambruna/escasez de alimentos/dificultades económicas/deudas
+饥馑荐臻 | TRADUÇÃO: las hambrunas se suceden sin cesar (modismo, del Clásico de Poesía)
+饶 | TRADUÇÃO: apellido Rao ‖ rico/abundante/fértil/añadir de regalo/dar de propina o bonificación/perdonar/disculpar/a pesar de/aunque
+饶了 | TRADUÇÃO: perdonar/disculpar/tener piedad de
+饶命 | TRADUÇÃO: perdonar la vida
+饶富 | TRADUÇÃO: ser rico en/abundante en (cierta cualidad)
+饶平 | TRADUÇÃO: véase 饒平縣|饶平县
+饶平县 | TRADUÇÃO: condado de Raoping, en la ciudad de Chaozhou 潮州市, Cantón
+饶恕 | TRADUÇÃO: perdonar/disculpar/absolver
+饶有 | TRADUÇÃO: lleno de (interés, humor, sentimiento, etc.)/rebosante de
+饶有兴趣 | TRADUÇÃO: sumamente interesante/fascinante/con gran interés
+饶有风趣 | TRADUÇÃO: rebosante de gracia y humor (modismo)/muy ameno e ingenioso
+饶沃 | TRADUÇÃO: fértil/rico/abundante
+饶河 | TRADUÇÃO: véase 饒河縣|饶河县
+饶河县 | TRADUÇÃO: condado de Raohe, en la ciudad de Shuangyashan 雙鴨山市|双鸭山市, Heilongjiang
+饶舌 | TRADUÇÃO: charlatán/hablar por los codos/irse de la lengua/rap (género musical)
+饶舌调唇 | TRADUÇÃO: parlotear e incitar a la discordia (modismo)/chismoso y provocador
+饶舌音乐 | TRADUÇÃO: música rap
+饶过 | TRADUÇÃO: perdonar/disculpar/pasar por alto
+饶阳 | TRADUÇÃO: véase 饒陽縣|饶阳县
+饶阳县 | TRADUÇÃO: condado de Raoyang, en la ciudad de Hengshui 衡水市, Hebei
+饔 | TRADUÇÃO: (literario) comida cocinada/desayuno
+饔飧 | TRADUÇÃO: (literario) desayuno y cena/(fig.) comida cocinada
+饔饩 | TRADUÇÃO: ofrecer animales sacrificados o vivos como presente ritual
+饕 | TRADUÇÃO: (literario) voraz/glotón/ansioso
+饕客 | TRADUÇÃO: sibarita/amante del buen comer/gourmet
+饕餮 | TRADUÇÃO: taotie (criatura mítica feroz, quinto hijo del rey dragón)/motivo zoomorfo en bronces rituales de las dinastías Shang y Zhou/glotón/suntuoso (banquete)
+饕餮之徒 | TRADUÇÃO: comilón/glotón/(por extensión) persona insaciable de poder, dinero, sexo, etc.
+饕餮大餐 | TRADUÇÃO: gran festín digno de reyes (modismo)/banquete suntuoso
+饕餮纹 | TRADUÇÃO: motivo de taotie (en bronces antiguos)
+飨 | TRADUÇÃO: (literario) agasajar con comida y bebida/ofrecer un banquete
+飨客 | TRADUÇÃO: agasajar a los invitados
+飨宴 | TRADUÇÃO: festín/banquete/(fig.) deleite/gran experiencia para los sentidos, la mente o el espíritu
+飨饮 | TRADUÇÃO: disfrutar de la comida y bebida ofrecidas
+𫗴 | TRADUÇÃO: gachas espesas de arroz
+饙 | TRADUÇÃO: cocer arroz al vapor
+餍 | TRADUÇÃO: saciarse/quedar satisfecho de comer
+馋 | TRADUÇÃO: goloso/glotón/antojarse/tener antojo
+馋人 | TRADUÇÃO: hacer la boca agua/apetitoso/persona golosa o glotona
+馋嘴 | TRADUÇÃO: goloso/glotón
+馋嘴蛙 | TRADUÇÃO: rana toro salteada en salsa picante
+馋涎欲垂 | TRADUÇÃO: véase 饞涎欲滴|馋涎欲滴
+馋涎欲滴 | TRADUÇÃO: caérsele a uno la baba de deseo (modismo)/(fig.) ansiar con avidez/muy apetecible
+馋痨 | TRADUÇÃO: gula insaciable/voracidad
+馋猫 | TRADUÇÃO: (humorístico) comilón/persona de buen diente (usado en tono afectuoso)
+馋鬼 | TRADUÇÃO: tragón/glotón
+馕 | TRADUÇÃO: pan naan (pan plano tradicional de Asia Central y Xinjiang) ‖ atiborrarse/comer con avidez
+馕嗓 | TRADUÇÃO: atiborrarse la garganta de comida
+馕坑 | TRADUÇÃO: horno tandoor (para hornear naan)
+馕饼 | TRADUÇÃO: pan naan
+首 | TRADUÇÃO: cabeza/líder/jefe/primero/clasificador para poemas, canciones, etc.
+首付 | TRADUÇÃO: pago inicial/anticipo/enganche
+首付款 | TRADUÇÃO: pago inicial/anticipo
+首任 | TRADUÇÃO: primer titular (de un cargo)/primer designado
+首位 | TRADUÇÃO: primer lugar/primer puesto
+首例 | TRADUÇÃO: primer caso/primer precedente
+首倡 | TRADUÇÃO: iniciar/ser el primero en proponer
+首先 | TRADUÇÃO: en primer lugar/ante todo/primeramente
+首创 | TRADUÇÃO: iniciar por primera vez/crear/ser pionero/inventar
+首创者 | TRADUÇÃO: pionero/creador original/iniciador
+首善之区 | TRADUÇÃO: la región ejemplar del país (modismo)/(a menudo referido a la capital)
+首善之地 | TRADUÇÃO: véase 首善之區|首善之区
+首字母 | TRADUÇÃO: letra inicial/iniciales
+首字母缩写 | TRADUÇÃO: acrónimo/sigla
+首季 | TRADUÇÃO: primera temporada/primer trimestre
+首家 | TRADUÇÃO: primera (tienda de su tipo, hotel de su tipo, etc.)/pionera
+首富 | TRADUÇÃO: persona más rica/mayor millonario
+首尾 | TRADUÇÃO: cabeza y cola/principio y fin
+首尾相接 | TRADUÇÃO: unirse cabeza con cola/parachoques con parachoques (en atasco de tráfico)
+首尾音 | TRADUÇÃO: ataque y rima (lingüística)
+首届 | TRADUÇÃO: primera edición/primera sesión (de una conferencia, etc.)
+首屈一指 | TRADUÇÃO: ser el número uno (modismo)/insuperable/sobresaliente
+首层 | TRADUÇÃO: planta baja/primer piso
+首席 | TRADUÇÃO: jefe/principal (representante, corresponsal, etc.)/titular
+首席代表 | TRADUÇÃO: representante principal/jefe de representación
+首席信息官 | TRADUÇÃO: director de información (CIO)
+首席执行官 | TRADUÇÃO: director ejecutivo (CEO)/consejero delegado
+首席大法官 | TRADUÇÃO: presidente del Tribunal Supremo (de EE. UU.)/magistrado presidente
+首席技术官 | TRADUÇÃO: director de tecnología (CTO)
+首席法官 | TRADUÇÃO: juez presidente/magistrado principal
+首席营销官 | TRADUÇÃO: director de marketing (CMO)
+首席财务官 | TRADUÇÃO: director financiero (CFO)
+首席运营官 | TRADUÇÃO: director de operaciones (COO)
+首府 | TRADUÇÃO: capital de una región autónoma/sede administrativa
+首度 | TRADUÇÃO: por primera vez/primera ocasión
+首战告捷 | TRADUÇÃO: vencer en la primera batalla/obtener una victoria en el debut
+首批 | TRADUÇÃO: primer lote/primera remesa/primer grupo
+首推 | TRADUÇÃO: considerar el principal/destacar como primer ejemplo/implementar por primera vez
+首日封 | TRADUÇÃO: sobre de primer día (filatelia)
+首映 | TRADUÇÃO: estrenar (una película o serie)/estreno cinematográfico/de primera visión/aparecer primero a la vista
+首映式 | TRADUÇÃO: ceremonia de estreno (de una película)
+首次 | TRADUÇÃO: primera vez/por primera vez/inicial
+首次公开招股 | TRADUÇÃO: oferta pública inicial (OPI)
+首次注视时间 | TRADUÇÃO: duración de la primera fijación (psicología)
+首款 | TRADUÇÃO: confesar un delito/primer modelo o versión (de un producto, software, coche, etc.)
+首演 | TRADUÇÃO: estreno teatral/primera representación pública/debut escénico
+首尔 | TRADUÇÃO: Seúl (capital de Corea del Sur, nombre chino adoptado en 2005 para sustituir a 漢城|汉城)
+首尔国立大学 | TRADUÇÃO: Universidad Nacional de Seúl (SNU), Corea del Sur
+首尔特别市 | TRADUÇÃO: Ciudad Especial de Seúl (nombre oficial de la capital de Corea del Sur)
+首当其冲 | TRADUÇÃO: llevar la peor parte/ser el primero en sufrir el embate (modismo)
+首发 | TRADUÇÃO: primera emisión/primer lanzamiento/estreno
+首相 | TRADUÇÃO: primer ministro (de Japón, Reino Unido, etc.)
+首秀 | TRADUÇÃO: debut/primera presentación pública
+首级 | TRADUÇÃO: cabeza decapitada (de un enemigo)
+首县 | TRADUÇÃO: magistrado del condado principal en la China imperial
+首肯 | TRADUÇÃO: asentir con la cabeza en señal de aprobación/aprobar
+首脑 | TRADUÇÃO: jefe de Estado/líder/cumbre (reunión)
+首脑会晤 | TRADUÇÃO: encuentro de mandatarios/reunión de líderes
+首脑会谈 | TRADUÇÃO: conversaciones en la cumbre/reunión entre jefes de Estado
+首脑会议 | TRADUÇÃO: conferencia de jefes de Estado/cumbre
+首要 | TRADUÇÃO: primordial/de máxima importancia/fundamental
+首轮 | TRADUÇÃO: primera ronda (de una competición, etc.)
+首办 | TRADUÇÃO: organizar por primera vez
+首选 | TRADUÇÃO: primera opción/preferencia principal/obtener el primer puesto en los exámenes imperiales
+首邑 | TRADUÇÃO: capital regional/capital local
+首都 | TRADUÇÃO: capital (de un país)/CL:個|个
+首都剧场 | TRADUÇÃO: Teatro Capital (en Pekín)
+首都国际机场 | TRADUÇÃO: Aeropuerto Internacional de Pekín-Capital
+首都机场 | TRADUÇÃO: Aeropuerto Internacional de Pekín-Capital (PEK)
+首都经济贸易大学 | TRADUÇÃO: Universidad Capital de Economía y Comercio (Pekín)
+首都经贸大学 | TRADUÇÃO: Universidad Capital de Economía y Negocios (Pekín)
+首都领地 | TRADUÇÃO: territorio de la capital/Territorio de la Capital Australiana (ACT, en torno a Canberra 堪培拉)
+首重 | TRADUÇÃO: dar prioridad a/conceder máxima importancia/situar en primer lugar
+首长 | TRADUÇÃO: alto cargo/alto funcionario/dirigente
+首音 | TRADUÇÃO: ataque silábico (lingüística)
+首页 | TRADUÇÃO: página de inicio (de un sitio web)/portada/primera página/(fig.) comienzo/carta de presentación
+首领 | TRADUÇÃO: líder/jefe/cabecilla
+首饰 | TRADUÇÃO: joyas/adornos para la cabeza/joyería
+首鼠两端 | TRADUÇÃO: vacilar indeciso (modismo)/dudar entre dos opciones
+馗 | TRADUÇÃO: pómulo/encrucijada/alto
+馘 | TRADUÇÃO: (literario) cortar la oreja izquierda de un enemigo muerto en combate/oreja cortada de un enemigo
+馘首 | TRADUÇÃO: cortar la cabeza (del enemigo, cacería de cabezas)
+香 | TRADUÇÃO: fragante/aromático/sabroso/apetitoso/comer con ganas/(de sueño) profundo/perfume/especia/varilla de incienso/CL:根
+香Q | TRADUÇÃO: fragante y de textura elástica y gomosa al paladar (Taiwán)
+香干 | TRADUÇÃO: tofu ahumado y aromatizado
+香几 | TRADUÇÃO: mesa pequeña para el incensario
+香包 | TRADUÇÃO: bolsita aromática (usada en la Fiesta del Barco del Dragón)
+香口胶 | TRADUÇÃO: chicle/goma de mascar
+香吻 | TRADUÇÃO: beso dulce/beso afectuoso
+香味 | TRADUÇÃO: fragancia/aroma/buen olor/CL:股
+香味扑鼻 | TRADUÇÃO: el aroma penetra en la nariz (modismo)/oler muy bien/fragancia embriagadora
+香喷喷 | TRADUÇÃO: delicioso/muy aromático y apetitoso
+香囊 | TRADUÇÃO: saquito aromático/bolsita de especias
+香坊 | TRADUÇÃO: véase 香坊區|香坊区
+香坊区 | TRADUÇÃO: distrito de Xiangfang, en la ciudad de Harbin 哈爾濱市|哈尔滨市, Heilongjiang
+香奈儿 | TRADUÇÃO: Chanel (marca de moda)
+香娇玉嫩 | TRADUÇÃO: mujer hermosa y delicada (modismo)
+香子兰 | TRADUÇÃO: vainilla (Vanilla planifolia)
+香客 | TRADUÇÃO: peregrino budista/devoto que acude a quemar incienso
+香山公园 | TRADUÇÃO: Parque de las Colinas Fragantes (en Pekín)
+香山区 | TRADUÇÃO: distrito de Xiangshan, en la ciudad de Hsinchu 新竹市, Taiwán
+香巢 | TRADUÇÃO: nido de amor/lugar de cohabitación secreta (también despectivo)
+香巴拉 | TRADUÇÃO: Shambhala (reino mítico en el budismo y el hinduismo)
+香料 | TRADUÇÃO: especia/condimento/aromatizante/perfume
+香会 | TRADUÇÃO: hermandad de peregrinos
+香木 | TRADUÇÃO: madera aromática/madera de incienso
+香根草 | TRADUÇÃO: vetiver (Vetiveria zizanioides)
+香格里拉 | TRADUÇÃO: Shangri-La (tierra idílica de la novela "Horizontes perdidos" de 1933 de James Hilton)/paraíso terrenal/véase 香格里拉市
+香格里拉市 | TRADUÇÃO: ciudad de Shangri-La, en la prefectura autónoma tibetana de Diqing 迪慶藏族自治州|迪庆藏族自治州, Yunnan
+香桂 | TRADUÇÃO: véase 桂皮, canela china
+香案 | TRADUÇÃO: mesa para el incensario/altar de incienso
+香椿 | TRADUÇÃO: cedro chino (Toona sinensis, árbol caducifolio cuyas hojas tiernas se usan como verdura)
+香榭丽舍 | TRADUÇÃO: Campos Elíseos
+香榭丽舍大街 | TRADUÇÃO: Avenida de los Campos Elíseos
+香橙 | TRADUÇÃO: naranjo amargo/naranja (árbol y fruto)
+香槟 | TRADUÇÃO: champán/champaña (préstamo)
+香槟酒 | TRADUÇÃO: vino de champán/champaña/CL:瓶,杯
+香橼 | TRADUÇÃO: cidro/cidra (Citrus medica)
+香氛 | TRADUÇÃO: fragancia/perfume/aroma
+香气 | TRADUÇÃO: fragancia/aroma/olor agradable
+香水 | TRADUÇÃO: perfume/colonia
+香河 | TRADUÇÃO: véase 香河縣|香河县
+香河县 | TRADUÇÃO: condado de Xianghe, en la ciudad de Langfang 廊坊市, Hebei
+香油 | TRADUÇÃO: aceite de sésamo/aceite aromatizado
+香泡 | TRADUÇÃO: cidro/cidra (Citrus medica)
+香波 | TRADUÇÃO: champú (préstamo)/véase 洗髮皂|洗发皂
+香洲 | TRADUÇÃO: véase 香洲區|香洲区
+香洲区 | TRADUÇÃO: distrito de Xiangzhou, en la ciudad de Zhuhai 珠海市, Cantón
+香消玉损 | TRADUÇÃO: véase 香消玉殞|香消玉殒
+香消玉殒 | TRADUÇÃO: fallecer una mujer hermosa (modismo)/morir prematuramente una dama bella
+香消玉碎 | TRADUÇÃO: véase 香消玉殞|香消玉殒
+香液 | TRADUÇÃO: perfume/esencia aromática/bálsamo
+香港 | TRADUÇÃO: Hong Kong (Región Administrativa Especial de la República Popular China, abrev. 港)
+香港中文大学 | TRADUÇÃO: Universidad China de Hong Kong
+香港交易所 | TRADUÇÃO: Bolsa de Valores de Hong Kong
+香港人 | TRADUÇÃO: hongkonés/habitante de Hong Kong
+香港基本法 | TRADUÇÃO: Ley Básica de Hong Kong (en vigor desde la restitución de soberanía china en 1997)
+香港大学 | TRADUÇÃO: Universidad de Hong Kong
+香港岛 | TRADUÇÃO: Isla de Hong Kong
+香港工会联合会 | TRADUÇÃO: Federación de Sindicatos de Hong Kong
+香港文化中心 | TRADUÇÃO: Centro Cultural de Hong Kong
+香港湿地公园 | TRADUÇÃO: Parque de Humedales de Hong Kong (en Yuen Long, Nuevos Territorios)
+香港理工大学 | TRADUÇÃO: Universidad Politécnica de Hong Kong
+香港众志 | TRADUÇÃO: Demosistō (partido político prodemocracia de Hong Kong, fundado en 2016)
+香港科技大学 | TRADUÇÃO: Universidad de Ciencia y Tecnología de Hong Kong
+香港脚 | TRADUÇÃO: pie de atleta
+香港警察 | TRADUÇÃO: Policía de Hong Kong (desde 1997)
+香港贸易发展局 | TRADUÇÃO: Consejo de Desarrollo Comercial de Hong Kong
+香港足球总会 | TRADUÇÃO: Asociación de Fútbol de Hong Kong
+香港金融管理局 | TRADUÇÃO: Autoridad Monetaria de Hong Kong
+香港银行公会 | TRADUÇÃO: Asociación de Bancos de Hong Kong
+香港电台 | TRADUÇÃO: Radio Televisión de Hong Kong (RTHK, radiodifusor público)
+香汤 | TRADUÇÃO: baño con hierbas aromáticas/agua de baño perfumada
+香滑 | TRADUÇÃO: suave y cremoso/untuoso
+香火 | TRADUÇÃO: incienso encendido en templos/quemar varillas de incienso
+香火不绝 | TRADUÇÃO: afluencia ininterrumpida de peregrinos (modismo)/el incienso arde sin cesar
+香火钱 | TRADUÇÃO: donaciones al templo/limosna para incienso
+香火鼎盛 | TRADUÇÃO: templo lleno de devotos y fieles (modismo)/incienso floreciente
+香烟 | TRADUÇÃO: humo de incienso (quemado en ofrenda a los antepasados)/(fig.) continuidad del linaje familiar/cigarrillo (CL:支,條|条,根,包,盒) ‖ cigarrillo (CL:支,條|条,根,包,盒) (variante de 香煙|香烟)
+香烛 | TRADUÇÃO: varillas de incienso y velas
+香熏 | TRADUÇÃO: aroma/sahumerio
+香熏疗法 | TRADUÇÃO: aromaterapia (medicina alternativa)
+香炉 | TRADUÇÃO: incensario/pebetero/turíbulo
+香片 | TRADUÇÃO: té de jazmín/té aromatizado
+香獐子 | TRADUÇÃO: ciervo almizclero (Moschus moschiferus)
+香瓜 | TRADUÇÃO: melón oriental (Cucumis melo Grupo Makuwa)/melón cantalupo/melón dulce (Cucumis melo)
+香甜 | TRADUÇÃO: dulce y fragante/(de sueño) profundo y apacible
+香皂 | TRADUÇÃO: jabón de tocador/jabón perfumado/CL:塊|块
+香粉 | TRADUÇÃO: polvos faciales/talco perfumado
+香精 | TRADUÇÃO: esencia aromática/extracto/saborizante/condimento
+香纯 | TRADUÇÃO: variante de 香醇
+香肉 | TRADUÇÃO: (dialectal) carne de perro
+香胰子 | TRADUÇÃO: jabón de tocador
+香脂 | TRADUÇÃO: bálsamo/crema facial perfumada
+香肠 | TRADUÇÃO: salchicha/embutido/CL:根
+香肠嘴 | TRADUÇÃO: labios hinchados/labios excesivamente gruesos
+香腺 | TRADUÇÃO: glándula odorífera/glándula de almizcle
+香艳 | TRADUÇÃO: seductor/erótico/romántico y sensual
+香花 | TRADUÇÃO: flor fragante/(fig.) obra artística benéfica o edificante
+香茅 | TRADUÇÃO: hierba limón/citronela (Cymbopogon)
+香茅醇 | TRADUÇÃO: citronelol (quím.)
+香草 | TRADUÇÃO: hierba aromática/vainilla/nombre alternativo de Eupatorium fortunei/(fig.) persona leal y recta (antiguo)
+香草精 | TRADUÇÃO: extracto de vainilla/esencia de vainilla
+香草兰 | TRADUÇÃO: vainilla (Vanilla planifolia)
+香荽 | TRADUÇÃO: cilantro
+香菇 | TRADUÇÃO: seta shiitake (Lentinus edodes, hongo comestible)
+香菜 | TRADUÇÃO: cilantro/culantro (Coriandrum sativum)
+香菰 | TRADUÇÃO: variante de 香菇
+香叶 | TRADUÇÃO: hoja de laurel
+香叶醇 | TRADUÇÃO: geraniol (quím.)
+香蒜酱 | TRADUÇÃO: salsa de ajo/pesto
+香蒲 | TRADUÇÃO: espadaña/enea (Typha orientalis)
+香蕈 | TRADUÇÃO: seta shiitake (Lentinus edodes, hongo comestible)
+香蕉 | TRADUÇÃO: plátano/banana/CL:根,把
+香蕉人 | TRADUÇÃO: persona plátano (amarillo por fuera, blanco por dentro, término para asiático-estadounidenses asimilados a la cultura occidental)/persona de rasgos asiáticos pero occidentalizada
+香薄荷 | TRADUÇÃO: ajedrea (hierba)
+香薰 | TRADUÇÃO: aromaterapia/incienso aromático
+香薷 | TRADUÇÃO: menta china (Elsholtzia ciliata)
+香豌豆 | TRADUÇÃO: guisante de olor (Lathyrus odoratus)
+香车宝马 | TRADUÇÃO: véase 寶馬香車|宝马香车
+香酥 | TRADUÇÃO: crujiente y aromático/frito crujiente
+香醇 | TRADUÇÃO: suave y aromático/intenso y meloso (sabor o aroma)
+香醋 | TRADUÇÃO: vinagre balsámico/vinagre aromático
+香闺 | TRADUÇÃO: aposento femenino/tocador de mujer
+香附 | TRADUÇÃO: cochinilla/juncia real (Cyperus rotundus)
+香颂 | TRADUÇÃO: canción francesa/chanson (préstamo)
+香饽饽 | TRADUÇÃO: pastel delicioso/persona o cosa muy cotizada/bien muy solicitado
+香馥馥 | TRADUÇÃO: sumamente perfumado/de rica fragancia
+香体剂 | TRADUÇÃO: desodorante
+香鼬 | TRADUÇÃO: comadreja de montaña/comadreja alpina (Mustela altaica)
+馝 | TRADUÇÃO: fragancia/perfume
+馡 | TRADUÇÃO: fragante/aromático
+馣 | TRADUÇÃO: aroma fragante
+馥 | TRADUÇÃO: fragancia/perfume/aroma
+馥列白 | TRADUÇÃO: flat white (café)
+馥芮白 | TRADUÇÃO: flat white (café)
+馥郁 | TRADUÇÃO: intensamente fragante/aromático
+馥馥 | TRADUÇÃO: (literario) muy fragante/profundamente aromático
+馨 | TRADUÇÃO: fragante/olor agradable
+馨香 | TRADUÇÃO: fragancia/perfume de incienso
+马 | TRADUÇÃO: apellido Ma/abrev. de Malasia 馬來西亞|马来西亚 ‖ caballo/CL:匹/caballo en el ajedrez chino/caballo en el ajedrez occidental
+马丁 | TRADUÇÃO: Martín (nombre)
+马丁·路德 | TRADUÇÃO: Martín Lutero (1483-1546), figura clave de la Reforma Protestante
+马丁·路德·金 | TRADUÇÃO: Martin Luther King, Jr. (1929-1968), clérigo estadounidense y activista por los derechos civiles
+马丁尼 | TRADUÇÃO: martini (préstamo)
+马丁炉 | TRADUÇÃO: horno Martin/horno de solera abierta
+马三家 | TRADUÇÃO: poblado de Masanjia, en el distrito de Yuhong 于洪區|于洪区, Liaoning, conocido por su campo de reeducación mediante el trabajo
+马三立 | TRADUÇÃO: Ma Sanli (1914-2003), comediante chino de xiangsheng
+马上 | TRADUÇÃO: de inmediato/en seguida/a caballo/(fig.) mediante la fuerza militar
+马上比武 | TRADUÇÃO: torneo medieval/justa a caballo
+马上风 | TRADUÇÃO: muerte durante el acto sexual/coito letal
+马不停蹄 | TRADUÇÃO: sin detenerse/sin tregua/a paso continuo
+马丘比丘 | TRADUÇÃO: Machu Picchu
+马中锡 | TRADUÇÃO: Ma Zhongxi (1446-1512), escritor de la dinastía Ming, autor de la fábula "El lobo de Zhongshan" 中山狼傳|中山狼传
+马仔 | TRADUÇÃO: secuaz/esbirro/matón de banda
+马夫 | TRADUÇÃO: mozo de cuadra/caballerizo/chulo/proxeneta
+马伯乐 | TRADUÇÃO: Henri Maspero (1883-1945), sinólogo francés
+马但 | TRADUÇÃO: Matán (hijo de Eleazar y padre de Jacob en Mateo 1:15)
+马来 | TRADUÇÃO: Malaya/Malasia
+马来亚 | TRADUÇÃO: Malaya
+马来人 | TRADUÇÃO: malayo/habitante malayo
+马来半岛 | TRADUÇÃO: península de Malaca/península Malaya
+马来文 | TRADUÇÃO: idioma malayo/lengua malaya
+马来西亚 | TRADUÇÃO: Malasia
+马来西亚人 | TRADUÇÃO: malasio/habitante de Malasia
+马来西亚语 | TRADUÇÃO: idioma malasio (variante oficial del malayo hablada en Malasia)
+马来语 | TRADUÇÃO: idioma malayo/lengua malaya
+马来鸻 | TRADUÇÃO: (especie de ave de China) chorlitejo malayo (Anarhynchus peronii)
+马俊仁 | TRADUÇÃO: Ma Junren (1944-), entrenador chino de atletismo
+马克 | TRADUÇÃO: Mark (nombre) ‖ marco (unidad monetaria)
+马克·吐温 | TRADUÇÃO: Mark Twain (Samuel Langhorne Clemens, 1835-1910), escritor, novelista y humorista estadounidense, autor de "Las aventuras de Huckleberry Finn" 哈克貝利·芬歷險記|哈克贝利·芬历险记
+马克宏 | TRADUÇÃO: (Taiwán) Emmanuel Macron (1977-), presidente de Francia desde 2017
+马克思 | TRADUÇÃO: Marx (nombre)/Karl Marx (1818-1883), revolucionario, economista e historiador alemán
+马克思主义 | TRADUÇÃO: marxismo
+马克思列宁主义 | TRADUÇÃO: marxismo-leninismo
+马克斯·普朗克 | TRADUÇÃO: Max Planck (1858-1947), físico alemán, postulador de la cuantización de la energía
+马克斯威尔 | TRADUÇÃO: James Clerk Maxwell (1831-1879), físico escocés
+马克杯 | TRADUÇÃO: taza/mug (préstamo)
+马克沁 | TRADUÇÃO: Sir Hiram Maxim (1840-1916), inventor británico-estadounidense de la ametralladora Maxim
+马克沁机枪 | TRADUÇÃO: ametralladora Maxim
+马克笔 | TRADUÇÃO: rotulador/marcador (préstamo)
+马克西米连 | TRADUÇÃO: Maximiliano (nombre)
+马克龙 | TRADUÇÃO: Emmanuel Macron (1977-), presidente de Francia desde 2017
+马兜铃科 | TRADUÇÃO: aristoloquiáceas (Aristolochiaceae, familia de plantas)
+马兜铃酸 | TRADUÇÃO: ácido aristolóquico
+马公 | TRADUÇÃO: ciudad de Magong o Makung, en el condado de Penghu 澎湖縣|澎湖县 (Islas Pescadores), Taiwán
+马公市 | TRADUÇÃO: ciudad de Magong o Makung, en el condado de Penghu 澎湖縣|澎湖县 (Islas Pescadores), Taiwán
+马六甲 | TRADUÇÃO: Malaca (ciudad y estado de Malasia), también estrecho de Malaca
+马六甲海峡 | TRADUÇÃO: estrecho de Malaca
+马其顿 | TRADUÇÃO: Macedonia
+马其顿共和国 | TRADUÇÃO: República de Macedonia (antigua república yugoslava)
+马具 | TRADUÇÃO: arneses de caballo/guarnición ecuestre/arreos
+马刀 | TRADUÇÃO: sable/sable de caballería
+马列 | TRADUÇÃO: Marx y Lenin
+马列主义 | TRADUÇÃO: marxismo-leninismo
+马列毛 | TRADUÇÃO: Marx, Lenin y Mao
+马利 | TRADUÇÃO: Malí (Taiwán)
+马利亚 | TRADUÇÃO: María (nombre bíblico)/María, madre de Jesucristo
+马利亚纳群岛 | TRADUÇÃO: Islas Marianas en el Pacífico
+马利基 | TRADUÇÃO: Nouri al-Maliki (1950-), primer ministro de Irak entre 2006 y 2014
+马利筋 | TRADUÇÃO: algodoncillo/burladora (Asclepias curassavica)
+马到成功 | TRADUÇÃO: lograr un éxito instantáneo (modismo)/triunfar de inmediato
+马刺 | TRADUÇÃO: espuela (de montar a caballo)
+马前卒 | TRADUÇÃO: peón/lacayo/mandadero/(lit.) corredor delante del carruaje
+马力 | TRADUÇÃO: caballo de fuerza/caballos de vapor (CV)
+马加骆 | TRADUÇÃO: queso mozzarella (préstamo)
+马勃菌 | TRADUÇÃO: hongo bejín/cuesco de lobo (Basidiomycota)
+马勒 | TRADUÇÃO: Mahler (nombre)/Gustav Mahler (1860-1911), compositor austríaco
+马勺 | TRADUÇÃO: cucharón de madera
+马化腾 | TRADUÇÃO: Ma Huateng alias Pony Ma (1971-), magnate empresarial chino, director ejecutivo de Tencent
+马匹 | TRADUÇÃO: caballos/caballería
+马南邨 | TRADUÇÃO: Ma Nancun (1912-1966), seudónimo del escritor chino Deng Tuo 鄧拓|邓拓
+马占 | TRADUÇÃO: (dialectal) comerciante (préstamo)
+马卡龙 | TRADUÇÃO: macaron (pastelito francés de masa de merengue relleno, préstamo)
+马友友 | TRADUÇÃO: Yo-Yo Ma (1955-), violonchelista franco-estadounidense de origen chino
+马口铁 | TRADUÇÃO: hojalata
+马可·奥勒留 | TRADUÇÃO: Marco Aurelio (121-180), emperador romano y filósofo
+马可·波罗 | TRADUÇÃO: Marco Polo (1254-c. 1324), mercader y viajero veneciano que recorrió la Ruta de la Seda hasta China, autor de "Los viajes de Marco Polo"
+马可尼 | TRADUÇÃO: Marconi (empresa británica de electrónica)
+马可福音 | TRADUÇÃO: Evangelio según San Marcos
+马哈拉施特拉邦 | TRADUÇÃO: estado de Maharashtra (India)
+马哈迪 | TRADUÇÃO: Mahathir bin Mohamad (1925-), político malasio, primer ministro en 1981-2003 y 2018-2020
+马哲 | TRADUÇÃO: filosofía marxista
+马噶尔尼 | TRADUÇÃO: Earl George Macartney (1737-1806), diplomático británico que encabezó la embajada a la China Qing en 1793/Paul McCartney, músico británico de The Beatles
+马噶尔尼使团 | TRADUÇÃO: embajada de Macartney a la China Qing en 1793
+马圈 | TRADUÇÃO: establo/caballeriza
+马国 | TRADUÇÃO: Malasia
+马塞卢 | TRADUÇÃO: Maseru (capital de Lesoto)
+马大 | TRADUÇÃO: Marta (nombre bíblico)
+马大哈 | TRADUÇÃO: persona descuidada/atolondrado/despistado y olvidadizo/abrev. de 馬馬虎虎、大大咧咧、嘻嘻哈哈|马马虎虎、大大咧咧、嘻嘻哈哈
+马天尼 | TRADUÇÃO: martini (préstamo)
+马太 | TRADUÇÃO: Mateo (protestantismo)
+马太福音 | TRADUÇÃO: Evangelio según San Mateo
+马失前蹄 | TRADUÇÃO: tropezar el caballo de las patas delanteras (modismo)/(fig.) fracaso repentino por descuido o error de cálculo
+马奶酒 | TRADUÇÃO: kumis/licor de leche de yegua fermentada
+马子 | TRADUÇÃO: bandolero/bandido/ficha de juego/bacinilla/(jerga) chica/piba/novia
+马家军 | TRADUÇÃO: camarilla de los señores de la guerra Ma (en Gansu y Ningxia en los años 1930 y 1940)
+马尼托巴 | TRADUÇÃO: provincia de Manitoba (Canadá)
+马尼拉 | TRADUÇÃO: Manila (capital de Filipinas)
+马尼拉大学 | TRADUÇÃO: Universidad de Manila
+马尾 | TRADUÇÃO: véase 馬尾區|马尾区 ‖ coleta (peinado)/cola de caballo/fibras delgadas como cola de caballo (en diversas plantas)
+马尾区 | TRADUÇÃO: distrito de Mawei, en la ciudad de Fuzhou 福州市, Fujian
+马尾松 | TRADUÇÃO: pino de Masson (Pinus massoniana, pino rojo chino)
+马尾水 | TRADUÇÃO: río Mawei que atraviesa la ciudad de Fuzhou
+马尾水师学堂 | TRADUÇÃO: academia naval del río Mawei, nombre alternativo de la Academia Naval de Fuzhou 福州船政學堂|福州船政学堂, fundada en 1866 por la dinastía Qing
+马尾港 | TRADUÇÃO: puerto de Mawei (puerto de la ciudad de Fuzhou)
+马尾穿豆腐，提不起来 | TRADUÇÃO: como tofu ensartado en pelo de cola de caballo, imposible levantarlo (modismo)/(fig.) no hablemos más de esto (juego de palabras con 提)
+马尾军港 | TRADUÇÃO: base naval de Mawei en la ciudad de Fuzhou (en la época Qing)
+马尾辫 | TRADUÇÃO: coleta/trenza de cola de caballo
+马尿 | TRADUÇÃO: (fig.) (despectivo) cerveza u otra bebida alcohólica (esp. barata o de mala calidad)/orina de caballo
+马屁 | TRADUÇÃO: grupa de caballo/adulación/lisonja servil
+马屁精 | TRADUÇÃO: adulador/lameculos/pelota/servil
+马山 | TRADUÇÃO: véase 馬山縣|马山县
+马山县 | TRADUÇÃO: condado de Mashan, en la ciudad de Nanning 南寧市|南宁市, Guangxi
+马工枚速 | TRADUÇÃO: Sima Xiangru es minucioso y Mei Gao es rápido (modismo)/cada cual con su talento propio
+马布多 | TRADUÇÃO: Maputo (capital de Mozambique, Taiwán)
+马帮 | TRADUÇÃO: caravana de caballos de carga/arrieros
+马年 | TRADUÇÃO: Año del Caballo (en el zodíaco chino, p. ej. 2002)
+马店 | TRADUÇÃO: posada con establo para caballos
+马库色 | TRADUÇÃO: Herbert Marcuse (1898-1979), filósofo alemán-estadounidense
+马厩 | TRADUÇÃO: establo/caballeriza
+马后炮 | TRADUÇÃO: dar jaque con el cañón tras mover el caballo (en ajedrez chino)/(fig.) acción inútil a destiempo/hablar a toro pasado ‖ variante de 馬後炮|马后炮
+马德拉斯 | TRADUÇÃO: Madrás o Chennai 欽奈|钦奈 (capital de Tamil Nadu, India)
+马德拉群岛 | TRADUÇÃO: archipiélago de Madeira/islas Madeira
+马德望 | TRADUÇÃO: Battambang (ciudad de Camboya)
+马德里 | TRADUÇÃO: Madrid (capital de España)
+马恩列斯 | TRADUÇÃO: abrev. de Marx 馬克思|马克思, Engels 恩格斯, Lenin 列寧|列宁 y Stalin 斯大林
+马恩岛 | TRADUÇÃO: Isla de Man (Islas Británicas)
+马戛尔尼 | TRADUÇÃO: Earl George Macartney (1737-1806), líder de la embajada británica a la China Qing en 1793/Paul McCartney, exmiembro de The Beatles
+马戛尔尼使团 | TRADUÇÃO: misión diplomática de Macartney a la China Qing en 1793
+马戏 | TRADUÇÃO: circo/función circense
+马戏团 | TRADUÇÃO: circo/compañía circense
+马房 | TRADUÇÃO: establo/caballeriza
+马扎尔 | TRADUÇÃO: magiar/húngaro
+马扎尔语 | TRADUÇÃO: idioma magiar/lengua húngara
+马托格罗索 | TRADUÇÃO: Mato Grosso (estado de Brasil)
+马拉 | TRADUÇÃO: Marat (nombre)/Jean-Paul Marat (1743-1793), médico, científico y revolucionario francés
+马拉加 | TRADUÇÃO: Málaga (España)/ciudad de Málaga en Azerbaiyán Oriental, Irán
+马拉博 | TRADUÇÃO: Malabo (capital de Guinea Ecuatorial)
+马拉喀什 | TRADUÇÃO: Marrakech (ciudad de Marruecos)
+马拉地 | TRADUÇÃO: maratí (lengua del oeste de la India)
+马拉地语 | TRADUÇÃO: idioma maratí (lengua del oeste de la India)
+马拉多纳 | TRADUÇÃO: Diego Maradona (1960-2020), futbolista argentino
+马拉威 | TRADUÇÃO: Malaui (Taiwán)
+马拉斯奇诺樱桃 | TRADUÇÃO: cereza marrasquino
+马拉松 | TRADUÇÃO: maratón (préstamo)
+马拉松赛 | TRADUÇÃO: carrera de maratón
+马拉盏 | TRADUÇÃO: belacan (condimento del sudeste asiático a base de pasta de camarones fermentados, préstamo)
+马拉糕 | TRADUÇÃO: pastel esponjoso cantonés al vapor/pastel mara
+马拉维 | TRADUÇÃO: Malaui
+马拉开波 | TRADUÇÃO: Maracaibo (Venezuela)
+马拿瓜 | TRADUÇÃO: Managua (capital de Nicaragua, Taiwán)
+马掌 | TRADUÇÃO: casco del caballo/herradura
+马提尼克 | TRADUÇÃO: Martinica (isla francesa del Caribe)
+马斯克 | TRADUÇÃO: Elon Musk (1971-), magnate y cofundador de Tesla Motors
+马斯内 | TRADUÇÃO: Jules Massenet (1842-1912), compositor francés
+马斯喀特 | TRADUÇÃO: Mascate (capital de Omán)
+马斯垂克 | TRADUÇÃO: Maastricht (Países Bajos)
+马斯河 | TRADUÇÃO: río Mosa o río Meuse (Europa occidental)
+马斯洛 | TRADUÇÃO: Abraham Maslow (1908-1970), psicólogo estadounidense
+马斯特里赫特 | TRADUÇÃO: Maastricht
+马普托 | TRADUÇÃO: Maputo (capital de Mozambique)
+马服君 | TRADUÇÃO: Señor de Mafu (famoso general Zhao She del estado de Zhao 趙國|赵国)
+马服子 | TRADUÇÃO: Hijo del Señor de Mafu (-260 a. C.), desafortunado general del estado de Zhao 趙國|赵国 que condujo a un ejército de 400.000 hombres a la aniquilación en la batalla de Changping 長平之戰|长平之战 en 260 a. C./también llamado Zhao Kuo 趙括|赵括
+马朱罗 | TRADUÇÃO: Majuro (capital de las Islas Marshall)
+马村 | TRADUÇÃO: véase 馬村區|马村区
+马村区 | TRADUÇÃO: distrito de Macun, en la ciudad de Jiaozuo 焦作市, Henan
+马林巴 | TRADUÇÃO: marimba (préstamo)
+马格德堡 | TRADUÇÃO: Magdeburgo (ciudad alemana)
+马桶 | TRADUÇÃO: bacinilla/retrete tradicional de madera/inodoro/taza del váter
+马桶刷 | TRADUÇÃO: escobilla de baño/escobilla del váter
+马桶拔子 | TRADUÇÃO: desatascador de inodoro/desatascador de ventosa
+马桶搋子 | TRADUÇÃO: desatascador de inodoro/desatascador de ventosa
+马荣 | TRADUÇÃO: volcán Mayon (Filipinas)
+马枪 | TRADUÇÃO: carabina/lanza de caballería
+马槽 | TRADUÇÃO: pesebre/comedero de caballos
+马槟榔 | TRADUÇÃO: alcaparra china (Capparis masaikai)
+马歇尔 | TRADUÇÃO: Marshall (nombre)/George Catlett Marshall (1880-1959), general estadounidense en la Segunda Guerra Mundial y secretario de Estado (1947-1949), autor del Plan Marshall para Europa y premio Nobel de la Paz
+马步 | TRADUÇÃO: postura del jinete (en artes marciales chinas)
+马杀鸡 | TRADUÇÃO: masaje (préstamo fonético del inglés "massage")
+马氏珍珠贝 | TRADUÇÃO: ostra perlífera (género Pinctada)
+马氏管 | TRADUÇÃO: túbulos de Malpighi (en el aparato digestivo de los insectos, etc.)
+马氏体 | TRADUÇÃO: martensita (metalurgia)/martensítico
+马洛 | TRADUÇÃO: Marlow (nombre)
+马海毛 | TRADUÇÃO: mohair (fibra textil, préstamo)
+马熊 | TRADUÇÃO: oso pardo tibetano (Ursus arctos pruinosus)
+马灯 | TRADUÇÃO: farol de queroseno/linterna de establo
+马尔他 | TRADUÇÃO: Malta (Taiwán)
+马尔他人 | TRADUÇÃO: maltés/habitante de Malta
+马尔他语 | TRADUÇÃO: idioma maltés/lengua maltesa
+马尔代夫 | TRADUÇÃO: Maldivas
+马尔卡河 | TRADUÇÃO: río Malka (Rusia, también conocido como río Balyksu)
+马尔可夫过程 | TRADUÇÃO: proceso de Márkov (mat.)
+马尔地夫 | TRADUÇÃO: Maldivas (Taiwán)
+马尔堡病毒 | TRADUÇÃO: virus de Marburgo
+马尔库斯 | TRADUÇÃO: Marco (nombre)
+马尔康 | TRADUÇÃO: véase 馬爾康市|马尔康市
+马尔康市 | TRADUÇÃO: ciudad de Barkam o Ma'erkang, en la prefectura autónoma tibetana y qiang de Ngawa 阿壩藏族羌族自治州|阿坝藏族羌族自治州, Sichuan
+马尔斯 | TRADUÇÃO: Marte (dios romano de la guerra)
+马尔维纳斯群岛 | TRADUÇÃO: Islas Malvinas (también conocidas como islas Falkland)
+马尔谷 | TRADUÇÃO: Marcos/San Marcos evangelista/variante católica menos común de 馬克|马克
+马尔贝克 | TRADUÇÃO: Malbec (variedad de uva)
+马尔马拉海 | TRADUÇÃO: mar de Mármara
+马尔默 | TRADUÇÃO: Malmö (ciudad de Suecia)
+马犬 | TRADUÇÃO: pastor belga malinois (raza canina, abrev. de 馬里努阿犬|马里努阿犬)
+马王堆 | TRADUÇÃO: Mawangdui (famoso yacimiento arqueológico de la dinastía Han en Changsha, Hunan)
+马球 | TRADUÇÃO: polo (deporte)
+马瑙斯 | TRADUÇÃO: Manaos (ciudad de Brasil)
+马甲 | TRADUÇÃO: chaleco/corsé/cuenta títere (jerga de internet)/chaleco (dialectal)
+马甲线 | TRADUÇÃO: línea de abdominales marcados (coloq.)/surco abdominal lateral
+马略卡 | TRADUÇÃO: Mallorca (isla de España)
+马眼 | TRADUÇÃO: meato uretral masculino
+马祖 | TRADUÇÃO: Islas Matsu (frente a las costas de Fujian, administradas por Taiwán)
+马祖列岛 | TRADUÇÃO: Islas Matsu
+马礼逊 | TRADUÇÃO: Robert Morrison (1782-1834), ministro presbiteriano, traductor y primer misionero protestante en China de la Sociedad Misionera de Londres
+马科 | TRADUÇÃO: équidos (Equidae, familia de mamíferos)
+马穆楚 | TRADUÇÃO: Mamoudzou (capital de Mayotte)
+马竿 | TRADUÇÃO: lazo con pértiga para caballos/bastón de invidente
+马糊 | TRADUÇÃO: variante de 馬虎|马虎
+马粪纸 | TRADUÇÃO: cartón paja/cartón basto de estraza
+马约卡 | TRADUÇÃO: Mallorca (isla de España)
+马约特 | TRADUÇÃO: Mayotte (isla entre el noroeste de Madagascar y Mozambique)
+马纳马 | TRADUÇÃO: Manama (capital de Baréin)
+马扎 | TRADUÇÃO: taburete plegable/banqueta de tijera
+马累 | TRADUÇÃO: Malé (capital de Maldivas)
+马绍尔群岛 | TRADUÇÃO: Islas Marshall
+马经 | TRADUÇÃO: guía hípica/pronósticos de carreras de caballos
+马缨丹 | TRADUÇÃO: lantana (Lantana camara, botánica)
+马缨花 | TRADUÇÃO: acacia de Constantinopla (Albizia julibrissin)/rododendro arbóreo (Rhododendron delavayi)
+马群 | TRADUÇÃO: manada de caballos/caballada
+马耳他 | TRADUÇÃO: Malta
+马耳东风 | TRADUÇÃO: el viento del este sopla en las orejas del caballo (modismo)/(fig.) hacer oídos sordos a los consejos/palabras a las que no se hace caso
+马背 | TRADUÇÃO: lomo del caballo/lomo de caballo (arquitectura tradicional china con cumbreras curvadas y testeros decorados)
+马脚 | TRADUÇÃO: pata de caballo/(fig.) rastro delator/lo que se intenta ocultar (como en "enseñar la oreja" o "descubrir el pastel")
+马自达 | TRADUÇÃO: Mazda (marca automotriz japonesa, derivada del apellido Matsuda 松田)/también conocida como 萬事得|万事得
+马致远 | TRADUÇÃO: Ma Zhiyuan (c. 1250-1321), dramaturgo de la dinastía Yuan de la tradición zaju 雜劇|杂剧, uno de los Cuatro Grandes Dramaturgos de Yuan 元曲四大家
+马航 | TRADUÇÃO: Malaysia Airlines (aerolínea de Malasia)
+马良 | TRADUÇÃO: Ma Liang (época de los Tres Reinos)
+马芬 | TRADUÇÃO: magdalena/muffin (préstamo, también escrito 瑪芬|玛芬)
+马英九 | TRADUÇÃO: Ma Ying-jeou (1950-), político taiwanés del Kuomintang, alcalde de Taipéi (1998-2006) y presidente de la República de China (2008-2016)
+马莎 | TRADUÇÃO: Marks & Spencer (cadena británica de tiendas)/Martha (nombre)
+马葫芦 | TRADUÇÃO: (dialectal) boca de alcantarilla/tapa de registro (préstamo del japonés "manhōru")
+马萨诸塞 | TRADUÇÃO: Massachusetts (estado de EE. UU.)
+马苏德 | TRADUÇÃO: Ahmad Shah Masud (1953-2001), ingeniero, comandante militar afgano y líder antitribal tayiko
+马苏里拉 | TRADUÇÃO: queso mozzarella (préstamo)
+马兰 | TRADUÇÃO: base militar de Malan y sitio de pruebas atómicas en la prefectura autónoma mongola de Bayingolin 巴音郭楞蒙古自治州, Xinjiang
+马兰基地 | TRADUÇÃO: Base de Malan (base militar y sitio de ensayos nucleares en la prefectura autónoma mongola de Bayingolin 巴音郭楞蒙古自治州, Xinjiang)
+马兰花 | TRADUÇÃO: lirio de los tejados (Iris tectorum)
+马虎 | TRADUÇÃO: descuidado/negligente/superficial/chapucero
+马蛔虫 | TRADUÇÃO: ascáride equino (Parascaris equorum)
+马蜂 | TRADUÇÃO: avispón/avispa
+马术 | TRADUÇÃO: equitación/hípica
+马表 | TRADUÇÃO: cronómetro
+马褂 | TRADUÇÃO: magua/chaqueta corta tradicional de hombre abotonada de la dinastía Qing 清代 (1644-1911)
+马褡子 | TRADUÇÃO: alforja para caballo
+马贼 | TRADUÇÃO: bandoleros a caballo/ladrones montados
+马赛 | TRADUÇÃO: Marsella (ciudad del sur de Francia)/basay (uno de los pueblos indígenas de Taiwán)
+马赛克 | TRADUÇÃO: mosaico (préstamo)/pixelado/efecto de pixelación
+马赛族 | TRADUÇÃO: pueblo basay (pueblo indígena de Taiwán)/pueblo masái de Kenia y Tanzania
+马赛曲 | TRADUÇÃO: La Marsellesa (himno nacional de Francia)
+马赫 | TRADUÇÃO: Ernst Mach (1838-1916), físico y filósofo austríaco ‖ mach (física)/número de Mach

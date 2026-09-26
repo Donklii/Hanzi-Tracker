@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+皮 | TRADUÇÃO: apellido Pi ‖ piel/cáscara/corteza/capa externa/cuero/pellejo/pelaje/cubierta/envoltura/revestimiento/(de comida) blando/no crujiente/(coloq.) travieso/pico- (10⁻¹²)
+皮下 | TRADUÇÃO: subcutáneo/bajo la piel/(inyección) subcutánea
+皮下注射 | TRADUÇÃO: inyección hipodérmica/inyección subcutánea
+皮克斯 | TRADUÇÃO: Pixar/Pixar Animation Studios
+皮克林 | TRADUÇÃO: Pickering (nombre)
+皮儿 | TRADUÇÃO: envoltura/cubierta/piel/cáscara
+皮具 | TRADUÇÃO: artículos de cuero/productos de marroquinería/CL:件
+皮划艇 | TRADUÇÃO: piragüismo/canoa y kayak/(deporte) piragüismo
+皮划艇静水 | TRADUÇÃO: piragüismo en aguas tranquilas
+皮包 | TRADUÇÃO: bolso de mano/cartera/maletín
+皮包公司 | TRADUÇÃO: (lit.) empresa de maletín/empresa fantasma/sociedad pantalla
+皮包骨头 | TRADUÇÃO: en los huesos/ser puro hueso (modismo)/también escrito 皮包骨
+皮匠 | TRADUÇÃO: zapatero remendón/artesano del cuero/talabartero
+皮卡 | TRADUÇÃO: camioneta pickup/camioneta
+皮卡尔 | TRADUÇÃO: Picard (nombre)
+皮囊 | TRADUÇÃO: bolsa de cuero/odre/(fig.) cuerpo humano/envoltura carnal
+皮埃尔 | TRADUÇÃO: Pierre (nombre)
+皮塔饼 | TRADUÇÃO: pan de pita
+皮外伤 | TRADUÇÃO: herida superficial/rasguño/magulladura
+皮夹 | TRADUÇÃO: billetera/cartera/pronunciación en Taiwán [pi2 jia2]
+皮子 | TRADUÇÃO: piel/cuero/pelaje
+皮实 | TRADUÇÃO: (de objetos) duradero/resistente/(de personas) robusto/fuerte/resistente
+皮尺 | TRADUÇÃO: cinta métrica
+皮层 | TRADUÇÃO: corteza/córtex
+皮层性 | TRADUÇÃO: cortical
+皮层性视损伤 | TRADUÇÃO: deterioro visual cortical (CVI)
+皮山 | TRADUÇÃO: véase 皮山縣|皮山县
+皮山县 | TRADUÇÃO: Pishan, condado de la prefectura de Jotán 和田市, Sinkiang
+皮带 | TRADUÇÃO: cinturón/correa/correa de cuero/CL:條|条,根
+皮带传动 | TRADUÇÃO: transmisión por correa
+皮带运输机 | TRADUÇÃO: cinta transportadora
+皮带扣 | TRADUÇÃO: hebilla de cinturón
+皮弗娄牛 | TRADUÇÃO: beefalo (cruce de ganado vacuno y bisonte)
+皮影戏 | TRADUÇÃO: teatro de sombras/sombras chinescas
+皮星 | TRADUÇÃO: picosatélite
+皮条 | TRADUÇÃO: tira de cuero/correa/proxeneta/alcahuete
+皮条客 | TRADUÇÃO: proxeneta/chulo/rufian
+皮钦语 | TRADUÇÃO: pidgin
+皮壳 | TRADUÇÃO: caparazón/corteza dura/cáscara exterior/también pron. [pi2 ke2]
+皮毛 | TRADUÇÃO: piel y pelaje/peletería/pieles/superficial/conocimiento superficial
+皮炎 | TRADUÇÃO: dermatitis
+皮尔 | TRADUÇÃO: Pierre, capital de Dakota del Sur
+皮尔森 | TRADUÇÃO: Pearson (nombre y topónimo)
+皮牙子 | TRADUÇÃO: (dialectal) cebolla (préstamo del uigur "piyaz")
+皮特凯恩群岛 | TRADUÇÃO: Islas Pitcairn
+皮特拉克 | TRADUÇÃO: Petrarca/Francesco Petrarca (1304-1374), erudito y poeta lírico italiano
+皮球 | TRADUÇÃO: pelota de goma/pelota de cuero/balón
+皮疹 | TRADUÇÃO: erupción cutánea/sarpullido/exantema
+皮痒 | TRADUÇÃO: (coloq.) buscar pelea/merecer unos azotes/pedir a gritos un castigo
+皮皮虾 | TRADUÇÃO: galera/camarón mantis
+皮秒 | TRADUÇÃO: picosegundo, ps, 10^-12 s
+皮笑肉不笑 | TRADUÇÃO: sonreír falsamente (modismo)/sonreír de manera forzada o hipócrita
+皮筋 | TRADUÇÃO: banda elástica/goma elástica/goma
+皮筏 | TRADUÇÃO: balsa de cuero/balsa inflable/odre balsa
+皮箱 | TRADUÇÃO: maleta de cuero/valija
+皮纳塔 | TRADUÇÃO: piñata
+皮肉 | TRADUÇÃO: piel y carne/cuerpo físico/(fig.) aspecto superficial/capa externa
+皮肉之苦 | TRADUÇÃO: sufrimiento físico/dolor corporal/castigo corporal
+皮脂腺 | TRADUÇÃO: glándulas sebáceas
+皮肤 | TRADUÇÃO: piel/cutis/CL:層|层,塊|块
+皮肤病 | TRADUÇÃO: enfermedad de la piel/dermatosis
+皮肤癌 | TRADUÇÃO: cáncer de piel
+皮肤科 | TRADUÇÃO: dermatología
+皮肤肌肉囊 | TRADUÇÃO: saco dermomuscular
+皮脸 | TRADUÇÃO: descarado/sinvergüenza/insolente/travieso
+皮艇 | TRADUÇÃO: kayak
+皮草 | TRADUÇÃO: prendas de piel/peletería
+皮萨饼 | TRADUÇÃO: pizza
+皮蛋 | TRADUÇÃO: huevo centenario/huevo milenario/huevo en conserva
+皮衣 | TRADUÇÃO: chaqueta de cuero/abrigo de cuero/prenda de piel
+皮袋 | TRADUÇÃO: bolsa de cuero/odre
+皮袍 | TRADUÇÃO: túnica changpao forrada de piel 長袍|长袍
+皮制品 | TRADUÇÃO: artículos de cuero/productos de marroquinería
+皮裤 | TRADUÇÃO: pantalones de cuero
+皮试 | TRADUÇÃO: (med.) prueba cutánea
+皮诺切特 | TRADUÇÃO: Augusto Pinochet (1915-2006), dictador chileno
+皮货 | TRADUÇÃO: pieles/artículos de peletería
+皮质 | TRADUÇÃO: corteza/corteza cerebral/materia cortical
+皮质醇 | TRADUÇÃO: cortisol
+皮质类固醇 | TRADUÇÃO: corticosteroide
+皮重 | TRADUÇÃO: tara/peso de tara
+皮开肉绽 | TRADUÇÃO: piel abierta y carne desgarrada (modismo)/lacerado por azotes o tortura
+皮面 | TRADUÇÃO: superficie/cubierta de cuero (de un libro)/parche de tambor/empeine de cuero (de un zapato)
+皮革 | TRADUÇÃO: cuero/piel curtida/CL:張|张
+皮革商 | TRADUÇÃO: peletero/comerciante de cueros
+皮鞋 | TRADUÇÃO: zapatos de cuero/zapatos de vestir
+皮鞋匠 | TRADUÇÃO: zapatero
+皮鞋油 | TRADUÇÃO: betún para calzado/crema para zapatos/grasa de zapatos
+皮鞭 | TRADUÇÃO: látigo de cuero/fusta
+皮黄 | TRADUÇÃO: ópera de Pekín (o sus melodías)/abrev. de 西皮二黃|西皮二黄
+疱 | TRADUÇÃO: ampolla/grano/acné/pústula/forúnculo
+疱疹 | TRADUÇÃO: herpes (med.)/ampolla/vesícula
+疱疹病毒 | TRADUÇÃO: virus del herpes (med.)
+皴 | TRADUÇÃO: agrietado/cortado (por el frío)
+皴裂 | TRADUÇÃO: agrietarse (labios, piel)/cortarse
+鼓 | TRADUÇÃO: variante antigua de 鼓 ‖ tambor/CL:通,面/tocar el tambor/golpear/animar/estimular/hincharse/abultar
+皲 | TRADUÇÃO: agrietarse/cortarse (la piel)
+皲裂 | TRADUÇÃO: agrietarse/cortarse (de la piel, labios, etc.)
+皱 | TRADUÇÃO: arrugar/arrugarse/arrugado/pliegue
+皱巴巴 | TRADUÇÃO: arrugado/ajado/arrugadizo
+皱折 | TRADUÇÃO: pliegue/arruga/doblez
+皱摺 | TRADUÇÃO: variante de 皺折|皱折
+皱眉 | TRADUÇÃO: fruncir el ceño
+皱眉头 | TRADUÇÃO: fruncir el ceño/poner mala cara
+皱纹 | TRADUÇÃO: arruga/surco/CL:道
+皱缩 | TRADUÇÃO: encogerse con arrugas/arrugarse/contraerse
+皱叶欧芹 | TRADUÇÃO: perejil rizado (Petroselinum crispum)
+皱褶 | TRADUÇÃO: pliegue/arruga/arrugado
+皱起 | TRADUÇÃO: fruncir/arrugar (los labios, la frente)
+皻 | TRADUÇÃO: piel agrietada ‖ variante antigua de 齇/rosácea
+皽 | TRADUÇÃO: (literario) células muertas de la piel/caspa/pronunciación en Taiwán [zhan3]
+皿 | TRADUÇÃO: (forma ligada) vasija/plato/recipiente/radical no. 108
+盂 | TRADUÇÃO: jofaina/cuenco/vasija de boca ancha
+盂方水方 | TRADUÇÃO: si el cuenco es cuadrado, el agua también lo será (modismo)/la conducta del pueblo refleja la de sus gobernantes
+盂县 | TRADUÇÃO: condado de Yu o Yuxian, en la ciudad de Yangquan 陽泉市|阳泉市, Shanxi
+盂兰盆 | TRADUÇÃO: véase 盂蘭盆會|盂兰盆会
+盂兰盆会 | TRADUÇÃO: Fiesta de Ullambana/Festival de los Fantasmas Hambrientos (decimoquinto día del séptimo mes lunar) (budismo)
+盅 | TRADUÇÃO: taza sin asa/copita/cuenco pequeño
+盆 | TRADUÇÃO: palangana/lavamanos/maceta/unidad de volumen equivalente a unos 128 litros/CL:個|个
+盆友 | TRADUÇÃO: (jerga de internet) amigo (juego de palabras con 朋友)
+盆地 | TRADUÇÃO: cuenca (geografía)/depresión
+盆子 | TRADUÇÃO: palangana/cuenco/recipiente
+盆底 | TRADUÇÃO: suelo pélvico (anatomía)
+盆景 | TRADUÇÃO: bonsái/paisaje en bandeja
+盆栽 | TRADUÇÃO: cultivar en maceta/planta en maceta/bonsái
+盆浴 | TRADUÇÃO: baño de tina/baño de inmersión/bañera
+盆钵 | TRADUÇÃO: cacharros de cerámica/vajilla de barro/alfarería
+盆腔 | TRADUÇÃO: cavidad pélvica/canal de parto
+盆花 | TRADUÇÃO: flor en maceta/planta de flor en maceta
+盍 | TRADUÇÃO: variante de 盍 ‖ por qué no
+盈 | TRADUÇÃO: lleno/colmado/rebosante/excedente/superávit
+盈凸月 | TRADUÇÃO: luna gibosa creciente/luna llena
+盈利 | TRADUÇÃO: ganancia/beneficio/lucro/obtener ganancias
+盈江 | TRADUÇÃO: véase 盈江縣|盈江县
+盈江县 | TRADUÇÃO: Yingjiang, condado de la prefectura autónoma dai y jingpo de Dehong 德宏傣族景頗族自治州|德宏傣族景颇族自治州, Yunnan
+盈箱累箧 | TRADUÇÃO: llenar cajas y cestas hasta el borde (con riquezas)
+盈亏 | TRADUÇÃO: ganancias y pérdidas/crecimiento y mengua
+盈亏自负 | TRADUÇÃO: asumir la responsabilidad por sus propias ganancias y pérdidas/autonomía financiera
+盈门 | TRADUÇÃO: (lit.) llenar la puerta/llenar la casa (en bodas u ocasiones festivas)
+盈余 | TRADUÇÃO: superávit/excedente/ganancia neta
+盉 | TRADUÇÃO: he (antiguo recipiente de bronce de tres o cuatro patas para mezclar o calentar vino)
+益 | TRADUÇÃO: apellido Yi ‖ beneficio/provecho/ventaja/beneficioso/aumentar/añadir/cada vez más
+益加 | TRADUÇÃO: cada vez más/más y más/aún más
+益友 | TRADUÇÃO: amigo provechoso/buen amigo/compañero sabio
+益寿延年 | TRADUÇÃO: véase 延年益壽|延年益寿
+益州 | TRADUÇÃO: Yizhou, antiguo estado o prefectura en la actual Sichuan
+益智 | TRADUÇÃO: desarrollar la inteligencia/estimular el intelecto/Alpinia oxyphylla (MTC)
+益智玩具 | TRADUÇÃO: juguete educativo/juego didáctico
+益母 | TRADUÇÃO: agripalma (Leonurus heterophyllus)
+益母草 | TRADUÇÃO: hierba de agripalma (Leonurus heterophyllus o L. cardiaca)
+益生菌 | TRADUÇÃO: probióticos
+益发 | TRADUÇÃO: cada vez más/más y más/aún más
+益处 | TRADUÇÃO: beneficio/ventaja/provecho
+益虫 | TRADUÇÃO: insecto beneficioso/insecto útil
+益趋 | TRADUÇÃO: tender cada vez más a/hacerse cada vez más
+益阳 | TRADUÇÃO: véase 益陽市|益阳市
+益阳市 | TRADUÇÃO: Yiyang, ciudad-prefectura en la provincia de Hunan 湖南省
+益鸟 | TRADUÇÃO: ave beneficiosa/pájaro útil (que combate plagas)
+盋 | TRADUÇÃO: variante poco común de 缽|钵
+盎 | TRADUÇÃO: (literario) vasija antigua de barro de panza ancha y boca estrecha/(literario) rebosante/abundante
+盎司 | TRADUÇÃO: onza (unidad de medida)
+盎撒 | TRADUÇÃO: anglosajón
+盎斯 | TRADUÇÃO: variante de 盎司
+盎格鲁 | TRADUÇÃO: anglo-
+盎格鲁撒克逊 | TRADUÇÃO: anglosajón (pueblo)
+盎格鲁萨克逊 | TRADUÇÃO: anglosajón
+盎然 | TRADUÇÃO: rebosante/abundante/exuberante/lleno de vida
+盎盂相击 | TRADUÇÃO: chocar platos y vasijas (modismo)/reñir/disputar (entre cónyuges o familiares)
+盎盂相敲 | TRADUÇÃO: reñir en el hogar (modismo)/tener desavenencias familiares
+盒 | TRADUÇÃO: cajita/caja/estuche
+盒中袋 | TRADUÇÃO: bolsa en caja/bag-in-box (embalaje)
+盒子 | TRADUÇÃO: caja/estuche/hezi (tipo de empanada tradicional del norte de China)
+盒带 | TRADUÇÃO: cinta de casete/casete (abrev. de 盒式錄音磁帶|盒式录音磁带)/CL:盤|盘
+盒式录音磁带 | TRADUÇÃO: cinta de casete de audio
+盒饭 | TRADUÇÃO: comida en fiambrera/comida para llevar en caja/bento
+盔 | TRADUÇÃO: casco/yelmo
+盔甲 | TRADUÇÃO: armadura/yelmo y coraza
+盔头 | TRADUÇÃO: tocado o casco ceremonial en la ópera china
+盚 | TRADUÇÃO: apellido Qiu
+盛 | TRADUÇÃO: apellido Sheng ‖ servir (comida)/llenar/contener/tomar con cuchara o utensilio ‖ floreciente/próspero/abundante/magnífico/vigoroso/ampliamente
+盛世 | TRADUÇÃO: época de florecimiento/era de prosperidad/edad de oro
+盛事 | TRADUÇÃO: gran acontecimiento/gran evento
+盛京 | TRADUÇÃO: Shengjing (antiguo nombre de Shenyang 瀋陽|沈阳, Liaoning)
+盛传 | TRADUÇÃO: correr el rumor ampliamente/divulgarse con fuerza/rumorearse por todas partes
+盛典 | TRADUÇÃO: gran ceremonia/solemne celebración
+盛名 | TRADUÇÃO: gran fama/gran reputación
+盛器 | TRADUÇÃO: vasija/recipiente/contenedor
+盛夏 | TRADUÇÃO: pleno verano/pleno estío/canícula
+盛大 | TRADUÇÃO: grandioso/magnífico/imponente
+盛大舞会 | TRADUÇÃO: gran baile/baile de gala
+盛妆 | TRADUÇÃO: vigoroso/fuerte y sano/atavío espléndido
+盛季 | TRADUÇÃO: temporada alta/período de apogeo
+盛宴 | TRADUÇÃO: banquete/festín/gran fiesta
+盛年 | TRADUÇÃO: la flor de la vida/plenitud de la vida/juventud
+盛德 | TRADUÇÃO: gran virtud/magnífica bondad moral
+盛怒 | TRADUÇÃO: gran furia/cólera/enfurecido/furioso
+盛情 | TRADUÇÃO: gran amabilidad/magnífica hospitalidad/gran afecto
+盛景 | TRADUÇÃO: paisaje magnífico/gran vista/espectacular panorama
+盛会 | TRADUÇÃO: gran reunión/gran asamblea/reunión distinguida/certamen
+盛服 | TRADUÇÃO: vestimenta de gala/atavío espléndido
+盛极一时 | TRADUÇÃO: estar en pleno apogeo por un tiempo/ser furor de una época (modismo)
+盛气 | TRADUÇÃO: arrogancia/porte imponente/espíritu vigoroso
+盛气凌人 | TRADUÇÃO: arrogante/prepotente/altanero y dominante (modismo)
+盛况 | TRADUÇÃO: gran ocasión/ocasión solemne/magnífico espectáculo
+盛况空前 | TRADUÇÃO: acontecimiento grandioso y sin precedentes (modismo)
+盛产 | TRADUÇÃO: producir en abundancia/abundar en/ser rico en
+盛称 | TRADUÇÃO: elogiar vivamente/alabar en gran manera
+盛筵 | TRADUÇÃO: suntuoso banquete/gran banquete
+盛举 | TRADUÇÃO: gran empresa/magnífica iniciativa/gran acontecimiento
+盛行 | TRADUÇÃO: estar de moda/prevalecer/estar muy extendido/ser popular
+盛行率 | TRADUÇÃO: tasa de prevalencia/prevalencia/incidencia
+盛衰 | TRADUÇÃO: auge y decadencia/ascenso y caída/prosperidad y declive
+盛装 | TRADUÇÃO: contener (un recipiente) ‖ traje de gala/atavío suntuoso/mejores galas
+盛誉 | TRADUÇÃO: gran reputación/gran renombre/altos elogios
+盛赞 | TRADUÇÃO: elogiar efusivamente/alabar con entusiasmo/encomio
+盛开 | TRADUÇÃO: en plena floración/florecer plenamente/abrirse por completo
+盛饭 | TRADUÇÃO: servir arroz/llenar un cuenco de arroz
+盛馔 | TRADUÇÃO: manjares suntuosos/comida exquisita
+盗 | TRADUÇÃO: robar/saquear/hurtar/ladrón/bandido/asaltante
+盗伐 | TRADUÇÃO: tala ilegal/talar árboles ilegalmente
+盗刷 | TRADUÇÃO: usar fraudulentamente (una tarjeta de crédito)
+盗匪 | TRADUÇÃO: bandido/asaltante/salteador
+盗取 | TRADUÇÃO: hurtar/robar (datos, identidad, cuentas)/malversar
+盗图 | TRADUÇÃO: usar imágenes sin autorización/robar fotos
+盗墓 | TRADUÇÃO: profanar tumbas/saquear tumbas
+盗垒 | TRADUÇÃO: robo de base (béisbol)/robar una base
+盗采 | TRADUÇÃO: extracción ilegal/minería ilegal/tala o recolección furtiva
+盗汗 | TRADUÇÃO: sudores nocturnos (med.)
+盗版 | TRADUÇÃO: pirateado/piratería/ilegal/véase también 正版
+盗版党 | TRADUÇÃO: Partido Pirata
+盗猎 | TRADUÇÃO: caza furtiva/cazar furtivamente
+盗用 | TRADUÇÃO: usurpar/usar indebidamente/malversar/apropiarse indebidamente
+盗窃 | TRADUÇÃO: robar/hurtar/robo/hurto
+盗薮 | TRADUÇÃO: guarida de bandidos/nido de ladrones
+盗号 | TRADUÇÃO: robar una cuenta (en línea)
+盗贼 | TRADUÇÃO: ladrón/asaltante/bandido
+盗卖 | TRADUÇÃO: vender lo robado/vender ilegalmente bienes hurtados
+盗录 | TRADUÇÃO: grabar ilegalmente/piratear (audio o vídeo)/hacer una copia pirata
+盗龙 | TRADUÇÃO: Rapator ornitholestoides (dinosaurio)
+盝 | TRADUÇÃO: estuche/caja
+盏 | TRADUÇÃO: tacita/copita/clasificador para lámparas
+盟 | TRADUÇÃO: pacto/juramento/alianza/aliarse/liga (división administrativa en Mongolia Interior)
+盟兄 | TRADUÇÃO: hermano jurado mayor
+盟兄弟 | TRADUÇÃO: hermanos jurados
+盟友 | TRADUÇÃO: aliado
+盟员 | TRADUÇÃO: miembro de una alianza o liga/aliado
+盟国 | TRADUÇÃO: país aliado/naciones aliadas
+盟山誓海 | TRADUÇÃO: jurar amor eterno (modismo)/hacer juramentos de amor eterno
+盟弟 | TRADUÇÃO: hermano jurado menor
+盟约 | TRADUÇÃO: tratado de alianza/pacto/convenio entre aliados
+盟誓 | TRADUÇÃO: juramento de alianza
+盟军 | TRADUÇÃO: fuerzas aliadas/ejército aliado
+盟邦 | TRADUÇÃO: estado aliado/nación aliada
+尽人皆知 | TRADUÇÃO: sabido por todos (modismo)/de dominio público/conocido de sobra
+尽到 | TRADUÇÃO: cumplir con (un deber, responsabilidad, etc.)
+尽力 | TRADUÇÃO: esforzarse al máximo/no escatimar esfuerzos/hacer todo lo posible
+尽力而为 | TRADUÇÃO: hacer todo lo que esté al alcance de uno (modismo)/esforzarse al máximo
+尽善尽美 | TRADUÇÃO: perfecto (modismo)/la perfección absoluta/inmejorable
+尽地主之谊 | TRADUÇÃO: hacer los honores como anfitrión/cumplir con los deberes de anfitrión
+尽失 | TRADUÇÃO: perder por completo (esperanza, apetito, autoridad, etc.)
+尽孝 | TRADUÇÃO: cumplir con la piedad filial
+尽展 | TRADUÇÃO: desplegar plenamente (el potencial, el talento, etc.)
+尽心 | TRADUÇÃO: con todo el corazón/con toda devoción
+尽心尽力 | TRADUÇÃO: hacer el máximo esfuerzo (modismo)/entregarse en cuerpo y alma
+尽心竭力 | TRADUÇÃO: esforzarse con todas las fuerzas (modismo)/no escatimar esfuerzo alguno
+尽忠 | TRADUÇÃO: mostrar lealtad absoluta/ser leal hasta el final
+尽性 | TRADUÇÃO: desarrollar plenamente la naturaleza de uno/desplegar al máximo las capacidades
+尽情 | TRADUÇÃO: a sus anchas/a gusto/con toda libertad/al máximo
+尽意 | TRADUÇÃO: expresar plenamente/todos los sentimientos de uno
+尽收眼底 | TRADUÇÃO: abarcar todo con la mirada/tener una vista panorámica completa
+尽是 | TRADUÇÃO: estar lleno de/todo es/completamente
+尽欢 | TRADUÇÃO: divertirse a lo grande/disfrutar a fondo
+尽欢而散 | TRADUÇÃO: retirarse tras haber disfrutado plenamente (modismo)/terminar la fiesta habiéndoselo pasado en grande
+尽皆 | TRADUÇÃO: todos sin excepción/completamente/enteramente
+尽义务 | TRADUÇÃO: cumplir con el deber/hacer voluntariado sin pedir recompensa
+尽职 | TRADUÇÃO: cumplir con su deber/concienzudo/responsable
+尽职尽责 | TRADUÇÃO: diligente y responsable (modismo)/cumplir con el deber cabalmente
+尽职调查 | TRADUÇÃO: diligencia debida (derecho)/due diligence
+尽致 | TRADUÇÃO: en el más mínimo detalle/con sumo detalle/vívido
+尽兴 | TRADUÇÃO: divertirse a sus anchas/disfrutar al máximo/a satisfacción del corazón
+尽言 | TRADUÇÃO: decirlo todo/hablar sin reservas
+尽调 | TRADUÇÃO: diligencia debida (derecho) (abrev. de 盡職調查|尽职调查)
+尽责 | TRADUÇÃO: cumplir con su responsabilidad/hacer su parte concienzudamente
+尽速 | TRADUÇÃO: lo más rápido posible/a la mayor brevedad
+尽释前嫌 | TRADUÇÃO: olvidar viejos rencores (modismo)/hacer las paces
+尽头 | TRADUÇÃO: final/término/límite/extremo
+尽饱 | TRADUÇÃO: comer hasta saciarse/estar lleno
+监 | TRADUÇÃO: supervisar/inspeccionar/cárcel/prisión ‖ (forma ligada) supervisor/oficina de supervisión (en la China imperial)
+监利 | TRADUÇÃO: véase 監利市|监利市
+监利市 | TRADUÇÃO: Jianli, ciudad a nivel de condado en la ciudad de Jingzhou 荊州市|荆州市, Hubei
+监外执行 | TRADUÇÃO: cumplir condena fuera de prisión/libertad vigilada o condicional (derecho)
+监学 | TRADUÇÃO: prefecto de estudios/inspector escolar (antiguo)
+监守 | TRADUÇÃO: custodiar/tener bajo custodia
+监守自盗 | TRADUÇÃO: malversar fondos bajo custodia (modismo)/robar lo que se debe vigilar
+监察 | TRADUÇÃO: supervisar/fiscalizar/inspeccionar/controlar
+监察人 | TRADUÇÃO: supervisor/inspector/fiscalizador
+监察局 | TRADUÇÃO: oficina de inspección/oficina de supervisión
+监察部 | TRADUÇÃO: Ministerio de Supervisión (MOS)
+监察院 | TRADUÇÃO: Yuan de Control (órgano fiscalizador de Taiwán)
+监工 | TRADUÇÃO: capataz/sobrestante/supervisar una obra
+监押 | TRADUÇÃO: encarcelar/poner bajo custodia/cárcel
+监控 | TRADUÇÃO: monitorizar/monitorear/vigilar/controlar/vigilancia
+监查 | TRADUÇÃO: inspeccionar/auditar/supervisar
+监查员 | TRADUÇÃO: inspector/auditor/supervisor
+监测 | TRADUÇÃO: monitorizar/monitorear/hacer seguimiento
+监牢 | TRADUÇÃO: cárcel/prisión
+监牧 | TRADUÇÃO: pastor (eclesiástico católico)/prefecto apostólico/funcionario de ganadería de la dinastía Tang
+监狱 | TRADUÇÃO: prisión/cárcel/penitenciaría
+监理 | TRADUÇÃO: supervisar (p. ej. obras)/fiscalizar/regular/supervisor
+监理所 | TRADUÇÃO: oficina de inspección y control/oficina de tránsito vehicular
+监看 | TRADUÇÃO: vigilar/monitorizar/echar un ojo
+监督 | TRADUÇÃO: supervisar/inspeccionar/fiscalizar
+监督人 | TRADUÇÃO: supervisor/inspector/superintendente
+监督者 | TRADUÇÃO: supervisor/fiscalizador
+监票 | TRADUÇÃO: escrutar las votaciones/fiscalizar una elección
+监禁 | TRADUÇÃO: encarcelar/recluir/privar de libertad/encarcelamiento
+监管 | TRADUÇÃO: regular/supervisar/administrar/supervisión/regulación
+监织造 | TRADUÇÃO: supervisor de tejidos (cargo oficial en la dinastía Ming)
+监考 | TRADUÇÃO: vigilar un examen/hacer de examinador
+监听 | TRADUÇÃO: interceptar comunicaciones/escuchar a escondidas/monitorear audio
+监制 | TRADUÇÃO: supervisar la producción/productor ejecutivo (cine, televisión)
+监视 | TRADUÇÃO: vigilar/mantener bajo observación/vigilancia
+监视器 | TRADUÇÃO: cámara de seguridad/monitor de vigilancia
+监视孔 | TRADUÇÃO: mirilla
+监视居住 | TRADUÇÃO: arresto domiciliario bajo vigilancia (derecho en la RPC)
+监誓 | TRADUÇÃO: tomar juramento/administrar un juramento
+监誓人 | TRADUÇÃO: tomador de juramento/administrador del juramento
+监护 | TRADUÇÃO: ejercer la tutela/cuidar de
+监护人 | TRADUÇÃO: tutor/guardián legal/custodio
+监护权 | TRADUÇÃO: patria potestad/custodia (de un menor)/tutela
+监趸 | TRADUÇÃO: preso/presidiario (cantonés)
+监门 | TRADUÇÃO: portero/guardián de la puerta
+盘 | TRADUÇÃO: bandeja/plato/fuente/(finanzas) (forma ligada) cotización de mercado/(inform.) (forma ligada) disco/enrollar (cuerda, trenza, etc.)/revisar/examinar/inventariar/traspasar (un negocio o propiedad)/trasladar/mover (objetos pesados)/clasificador para objetos con forma de plato o disco/clasificador para rollos/clasificador para partidas o sets (ajedrez, tenis de mesa, etc.)
+盘亘 | TRADUÇÃO: entrelazado sin interrupción/extenderse continuamente
+盘倒 | TRADUÇÃO: interrogar dejando sin palabras
+盘剥 | TRADUÇÃO: explotar/cobrar usura
+盘古 | TRADUÇÃO: Pangu (creador del universo en la mitología china)
+盘古氏 | TRADUÇÃO: Pangu (creador del universo en la mitología china)
+盘问 | TRADUÇÃO: interrogar/inquirir/hacer preguntas detalladas
+盘坐 | TRADUÇÃO: sentarse con las piernas cruzadas (como en la postura del loto)
+盘子 | TRADUÇÃO: plato/fuente/bandeja/CL:個|个
+盘察 | TRADUÇÃO: examinar detenidamente/interrogar e inspeccionar
+盘审 | TRADUÇÃO: interrogar/tomar declaración
+盘尼西林 | TRADUÇÃO: penicilina
+盘尾树鹊 | TRADUÇÃO: urraca de raqueta (Crypsirina temia)
+盘山 | TRADUÇÃO: véase 盤山縣|盘山县 ‖ rodear una montaña/serpentear por una montaña
+盘山县 | TRADUÇÃO: Panshan, condado en la ciudad de Panjin 盤錦市|盘锦市, Liaoning
+盘川 | TRADUÇÃO: véase 盤纏|盘缠
+盘州 | TRADUÇÃO: véase 盤州市|盘州市
+盘州市 | TRADUÇÃO: Panzhou, ciudad a nivel de condado en la ciudad de Liupanshui 六盤水市|六盘水市, Guizhou
+盘带 | TRADUÇÃO: regatear (fútbol)/conducir el balón
+盘底 | TRADUÇÃO: interrogar hasta llegar al fondo de algo
+盘店 | TRADUÇÃO: traspasar una tienda o negocio/adquirir un negocio con sus activos
+盘弄 | TRADUÇÃO: manipular con las manos/juguetear/acariciar
+盘据 | TRADUÇÃO: variante de 盤踞|盘踞
+盘旋 | TRADUÇÃO: describir espirales/dar vueltas en círculo/girar/revolotear
+盘旋曲折 | TRADUÇÃO: serpentear con muchas curvas (modismo)/(de un camino) sinuoso y tortuoso
+盘曲 | TRADUÇÃO: enrollado/tortuoso/sinuoso/retorcido
+盘杠子 | TRADUÇÃO: hacer piruetas en la barra fija
+盘查 | TRADUÇÃO: inspeccionar/interrogar (en un control o puesto de guardia)
+盘根问底 | TRADUÇÃO: indagar a fondo (modismo)/llegar al meollo del asunto
+盘根究底 | TRADUÇÃO: llegar al fondo del asunto (modismo)/investigar hasta la raíz
+盘根错节 | TRADUÇÃO: raíces retorcidas y ramas entrelazadas (modismo)/asunto muy intrincado y complejo
+盘桓 | TRADUÇÃO: merodear/demorarse/hospedarse/quedarse/dar vueltas
+盘梯 | TRADUÇÃO: escalera de caracol
+盘活 | TRADUÇÃO: revitalizar (activos, recursos)/poner en circulación
+盘球 | TRADUÇÃO: regatear (deportes)/conducir el balón
+盘盘 | TRADUÇÃO: sinuoso/serpenteante/retorcido
+盘石 | TRADUÇÃO: variante de 磐石
+盘碗 | TRADUÇÃO: vajilla/platos y cuencos
+盘秤 | TRADUÇÃO: balanza con platillo/CL:臺|台
+盘程 | TRADUÇÃO: véase 盤纏|盘缠
+盘符 | TRADUÇÃO: letra de unidad (en informática)
+盘算 | TRADUÇÃO: calcular/planear/meditar/tramar
+盘管 | TRADUÇÃO: serpentín/tubo en espiral
+盘绕 | TRADUÇÃO: enrollarse alrededor/enroscarse/entrelazarse
+盘缠 | TRADUÇÃO: enrollar/enroscar ‖ gastos de viaje/viáticos
+盘羊 | TRADUÇÃO: argalí (Ovis ammon)
+盘腿 | TRADUÇÃO: cruzar las piernas/sentarse con las piernas cruzadas
+盘膝 | TRADUÇÃO: con las piernas cruzadas
+盘诘 | TRADUÇÃO: interrogar rigurosamente (derecho)
+盘货 | TRADUÇÃO: hacer inventario/recontar existencias
+盘费 | TRADUÇÃO: gastos de viaje/viáticos
+盘跚 | TRADUÇÃO: variante de 蹣跚|蹒跚
+盘踞 | TRADUÇÃO: atrincherarse/ocupar ilegalmente (un territorio)/apoderarse de
+盘道 | TRADUÇÃO: camino de montaña sinuoso/carretera serpenteante
+盘锦 | TRADUÇÃO: véase 盤錦市|盘锦市
+盘锦市 | TRADUÇÃO: Panjin, ciudad-prefectura en la provincia de Liaoning 遼寧省|辽宁省
+盘错 | TRADUÇÃO: entrelazado/complejo/complicado
+盘陀 | TRADUÇÃO: piedras desiguales/ondulado/tortuoso
+盘陀路 | TRADUÇÃO: camino tortuoso/sendero serpenteante
+盘头 | TRADUÇÃO: peinarse en un moño/moño/turbante/adorno para el pelo/interrogar
+盘飧 | TRADUÇÃO: platos de comida/viandas servidas
+盘餐 | TRADUÇÃO: plato acompañante/guarnición/vianda
+盘香 | TRADUÇÃO: espiral de incienso/incienso en espiral
+盘驳 | TRADUÇÃO: interrogar y refutar/repreguntar
+盘点 | TRADUÇÃO: hacer balance/hacer inventario/pasar revista
+盘龙 | TRADUÇÃO: véase 盤龍區|盘龙区
+盘龙区 | TRADUÇÃO: Panlong, distrito de la ciudad de Kunming 昆明市, Yunnan
+盘龙卧虎 | TRADUÇÃO: dragón enroscado y tigre agazapado (modismo)/(fig.) talentos ocultos
+盥 | TRADUÇÃO: lavarse (especialmente las manos)
+盥洗 | TRADUÇÃO: lavarse/asearse
+盥洗室 | TRADUÇÃO: lavabo/cuarto de baño/aseo/CL:間|间
+盥洗盆 | TRADUÇÃO: lavabo/palangana
+盦 | TRADUÇÃO: vasija/recipiente
+卢 | TRADUÇÃO: apellido Lu/abrev. de Luxemburgo 盧森堡|卢森堡 ‖ (antiguo) vasija para arroz/negro/variante antigua de 廬|庐/(jerga) (Taiwán) fastidioso/pesado
+卢克索 | TRADUÇÃO: Luxor (ciudad de Egipto)
+卢卡 | TRADUÇÃO: Lucca (ciudad de la Toscana)
+卢卡斯 | TRADUÇÃO: Lucas (nombre)
+卢卡申科 | TRADUÇÃO: Aleksandr Lukashenko, presidente de Bielorrusia desde 1994
+卢因 | TRADUÇÃO: Lewin (nombre)/Kurt Lewin (1890-1944), psicólogo germano-estadounidense
+卢塞恩 | TRADUÇÃO: Lucerna (ciudad de Suiza)
+卢安达 | TRADUÇÃO: Ruanda (Taiwán)
+卢布 | TRADUÇÃO: rublo (moneda rusa)
+卢布尔雅那 | TRADUÇÃO: Liubliana, capital de Eslovenia
+卢恩字母 | TRADUÇÃO: alfabeto rúnico/runas
+卢旺达 | TRADUÇÃO: Ruanda
+卢梭 | TRADUÇÃO: Jean-Jacques Rousseau (1712-1778), filósofo de la Ilustración
+卢森堡 | TRADUÇÃO: Luxemburgo
+卢武铉 | TRADUÇÃO: Roh Moo-hyun (1946-2009), político surcoreano, presidente de 2003 a 2008
+卢比 | TRADUÇÃO: rupia (moneda de la India y otros países)
+卢比安纳 | TRADUÇÃO: Liubliana, capital de Eslovenia (Taiwán)
+卢氏 | TRADUÇÃO: véase 盧氏縣|卢氏县
+卢氏县 | TRADUÇÃO: Lushi, condado en la ciudad de Sanmenxia 三門峽市|三门峡市, Henan
+卢泰愚 | TRADUÇÃO: Roh Tae-woo (1932-2021), político surcoreano, presidente de 1988 a 1993
+卢浮宫 | TRADUÇÃO: Museo del Louvre (París)
+卢沟桥 | TRADUÇÃO: puente de Lugou/puente de Marco Polo (suroeste de Pekín)
+卢沟桥事变 | TRADUÇÃO: Incidente del Puente de Marco Polo del 7 de julio de 1937, inicio de la Segunda Guerra Sino-Japonesa 抗日戰爭|抗日战争
+卢照邻 | TRADUÇÃO: Lu Zhaolin (637-689), uno de los Cuatro Grandes Poetas del Tang Temprano 初唐四傑|初唐四杰
+卢瑟 | TRADUÇÃO: perdedor (préstamo de "loser")
+卢瑟福 | TRADUÇÃO: Rutherford (nombre)/Ernest Rutherford (1871-1937), físico nuclear neozelandés
+卢瓦尔河 | TRADUÇÃO: río Loira (Francia)
+卢萨卡 | TRADUÇÃO: Lusaka, capital de Zambia
+卢龙 | TRADUÇÃO: véase 盧龍縣|卢龙县
+卢龙县 | TRADUÇÃO: Lulong, condado en la ciudad de Qinhuangdao 秦皇島市|秦皇岛市, Hebei
+盩 | TRADUÇÃO: nombre de un distrito en Shaanxi
+荡 | TRADUÇÃO: variante de 蕩|荡 ‖ variante de 燙|烫/variante de 趟 ‖ lavar/disipar/dilapidar/barrer/mover/sacudir/disoluto/estanque
+荡漾 | TRADUÇÃO: ondular/ondear/formar ondas/también escrito 蕩漾|荡漾 ‖ ondular/ondear
+荡然 | TRADUÇÃO: variante de 蕩然|荡然 ‖ desaparecido por completo/desvanecido/no quedar nada
+荡秋千 | TRADUÇÃO: columpiarse/montar en columpio
+盬 | TRADUÇÃO: vasija con tapa
+盭 | TRADUÇÃO: irrazonable/violento
+目 | TRADUÇÃO: ojo/(literario) mirar/ojo (de una red)/malla/tamaño de malla/artículo/sección/catálogo/lista/(taxonomía) orden/nombre/título
+目下 | TRADUÇÃO: al presente/actualmente/por ahora
+目下十行 | TRADUÇÃO: véase 一目十行
+目不交睫 | TRADUÇÃO: sin pegar ojo (modismo)/no dormir en toda la noche
+目不忍见 | TRADUÇÃO: véase 目不忍視|目不忍视
+目不忍视 | TRADUÇÃO: (lit.) los ojos no soportan mirarlo (modismo)/(fig.) lamentable de ver/insoportable a la vista
+目不斜视 | TRADUÇÃO: sin mirar a los lados (modismo)/mirar al frente con fijeza/estar completamente concentrado
+目不暇接 | TRADUÇÃO: tantas cosas que los ojos no dan abasto (modismo)/un festín para la vista
+目不暇给 | TRADUÇÃO: la vista no alcanza a abarcarlo todo (modismo)/demasiadas maravillas que contemplar
+目不窥园 | TRADUÇÃO: sin asomarse al jardín (modismo)/estar absorto en el estudio
+目不见睫 | TRADUÇÃO: los ojos no pueden ver las propias pestañas (modismo)/(fig.) incapaz de ver los propios defectos/falta de autoconocimiento
+目不识丁 | TRADUÇÃO: no saber ni la "O" por redonda (modismo)/analfabeto total
+目不转睛 | TRADUÇÃO: sin pestañear (modismo)/con la mirada fija/mirar embobado
+目不转瞬 | TRADUÇÃO: con la mirada fija (modismo)/mirar fijamente sin parpadear
+目中无人 | TRADUÇÃO: no tener a nadie en cuenta (modismo)/altivo/arrogante/mirar a todos por encima del hombro
+目之所及 | TRADUÇÃO: hasta donde alcanza la vista/lo que se puede ver
+目今 | TRADUÇÃO: hoy en día/en la actualidad/al presente
+目光 | TRADUÇÃO: mirada/ojos/(fig.) atención/visión/perspicacia
+目光呆滞 | TRADUÇÃO: tener la mirada perdida (modismo)/mirada apagada
+目光如豆 | TRADUÇÃO: corto de miras (modismo)/visión muy limitada
+目光所及 | TRADUÇÃO: hasta donde alcanza la vista
+目光短浅 | TRADUÇÃO: ser corto de miras/tener poca visión de futuro
+目前 | TRADUÇÃO: actualmente/en la actualidad/por el momento/en el presente
+目劄 | TRADUÇÃO: (MTC) parpadeo excesivo/espasmo palpebral
+目力 | TRADUÇÃO: agudeza visual/visión/alcance visual
+目力所及 | TRADUÇÃO: hasta donde alcanza la vista/lo que los ojos pueden ver
+目怔口呆 | TRADUÇÃO: atónito y boquiabierto (modismo)/estupefacto/pasmado
+目成 | TRADUÇÃO: hacer ojitos/intercambiar miradas de complicidad o coqueteo
+目挑心招 | TRADUÇÃO: seducir con la mirada e invitar con el corazón (modismo)/coquetear con la vista
+目击 | TRADUÇÃO: presenciar/ver con los propios ojos/testigo presencial
+目击者 | TRADUÇÃO: testigo presencial
+目数 | TRADUÇÃO: número de malla (tamiz)/tamaño de grano (papel de lija)
+目标 | TRADUÇÃO: objetivo/meta/blanco/diana/CL:個|个
+目标地址 | TRADUÇÃO: dirección de destino/dirección objetivo
+目标市场 | TRADUÇÃO: mercado objetivo/público objetivo
+目标检测 | TRADUÇÃO: detección de objetos (visión artificial)
+目测 | TRADUÇÃO: calcular a ojo/estimación visual/medir a simple vista
+目无全牛 | TRADUÇÃO: ver el buey ya despiezado (modismo)/sumamente diestro/comprender un problema de un vistazo
+目无法纪 | TRADUÇÃO: desacatar la ley y la disciplina (modismo)/desprecio total por las leyes
+目无组织 | TRADUÇÃO: no respetar la disciplina del grupo o de la organización
+目珠 | TRADUÇÃO: globo ocular/ojo
+目的 | TRADUÇÃO: propósito/objetivo/finalidad/meta
+目的地 | TRADUÇÃO: destino/lugar de destino
+目盲 | TRADUÇÃO: ciego/ceguera
+目眦 | TRADUÇÃO: comisura del ojo/rabillo del ojo
+目眩 | TRADUÇÃO: deslumbrado/mareado/aturdido
+目眩神迷 | TRADUÇÃO: deslumbrado y fascinado (modismo)/quedar prendado y aturdido
+目眩头昏 | TRADUÇÃO: mareado y ver estrellas/aturdimiento y vértigo
+目睁口呆 | TRADUÇÃO: atónito/boquiabierto/pasmado
+目睹 | TRADUÇÃO: presenciar/ser testigo ocular/ver con los propios ojos
+目𥆧 | TRADUÇÃO: tic en el párpado/espasmo del párpado
+目瞪口呆 | TRADUÇÃO: (modismo) boquiabierto/pasmado/estupefacto
+目空一切 | TRADUÇÃO: mirar a todos por encima del hombro (modismo)/creerse superior a todos/arrogante en grado sumo
+目空四海 | TRADUÇÃO: no valorar a nadie en el mundo (modismo)/extremadamente arrogante/soberbio
+目视 | TRADUÇÃO: observar visualmente/mirar con los ojos (sin instrumentos)
+目视飞行 | TRADUÇÃO: (aviación) vuelo visual/reglas de vuelo visual (VFR)
+目语 | TRADUÇÃO: hablar con la mirada/comunicarse con los ojos
+目迷五色 | TRADUÇÃO: deslumbrado por la policromía (modismo)/aturdido por una variedad deslumbrante
+目送 | TRADUÇÃO: seguir con la mirada (a alguien que se marcha)/despedir con los ojos
+目录 | TRADUÇÃO: catálogo/índice/tabla de contenidos/directorio (informática)
+目录学 | TRADUÇÃO: bibliografía (disciplina)
+目镜 | TRADUÇÃO: ocular (de microscopio o telescopio)
+盯 | TRADUÇÃO: mirar fijamente/clavar la vista en/vigilar de cerca/observar atentamente
+盯住 | TRADUÇÃO: clavar los ojos en/seguir de cerca/marcar de cerca (deportes)
+盯市 | TRADUÇÃO: valoración a precios de mercado/marcar al mercado (contabilidad)
+盯梢 | TRADUÇÃO: seguir a alguien/vigilar/hacer un seguimiento/sombrear
+盯牢 | TRADUÇÃO: no perder de vista/mirar fijamente a/examinar de cerca
+盯紧 | TRADUÇÃO: vigilar de cerca/no quitar ojo a
+盯视 | TRADUÇÃO: mirar fijamente/fijar la mirada
+盱 | TRADUÇÃO: apellido Xu ‖ ansioso/mirar fijamente
+盱眙 | TRADUÇÃO: véase 盱眙縣|盱眙县
+盱眙县 | TRADUÇÃO: Xuyi, condado en la ciudad de Huai'an 淮安市, Jiangsu
+盲 | TRADUÇÃO: ciego/invidente
+盲人 | TRADUÇÃO: persona ciega/invidente
+盲人摸象 | TRADUÇÃO: los ciegos tocan el elefante (modismo, del sutra del Nirvana 大般涅槃經|大般涅盘经)/(fig.) ver sólo una parte de la realidad/confundir la parte con el todo
+盲人门球 | TRADUÇÃO: golbol/goalball (deporte paralímpico)
+盲区 | TRADUÇÃO: punto ciego/zona ciega
+盲友 | TRADUÇÃO: persona con discapacidad visual/amigo invidente
+盲品 | TRADUÇÃO: cata a ciegas
+盲囊 | TRADUÇÃO: ciego (anatomía)/apéndice cecal
+盲孔 | TRADUÇÃO: vía ciega (electrónica)/agujero ciego
+盲字 | TRADUÇÃO: braille/escritura en braille
+盲从 | TRADUÇÃO: seguir ciegamente/obediencia ciega/conformismo irracional
+盲打 | TRADUÇÃO: mecanografía al tacto/escribir a máquina sin mirar el teclado
+盲文 | TRADUÇÃO: braille/sistema braille
+盲杖 | TRADUÇÃO: bastón blanco (para ciegos)
+盲法 | TRADUÇÃO: método ciego/enmascaramiento (en ensayos científicos)
+盲流 | TRADUÇÃO: migración rural desordenada hacia las ciudades/migrante rural errante
+盲测 | TRADUÇÃO: prueba a ciegas/test a ciegas
+盲猜 | TRADUÇÃO: adivinar a ciegas/hacer una conjetura
+盲盒 | TRADUÇÃO: caja sorpresa/caja misteriosa/blind box
+盲目 | TRADUÇÃO: ciego (fig.)/irreflexivo/a ciegas
+盲端 | TRADUÇÃO: fondo de saco cecal/extremo ciego
+盲胞 | TRADUÇÃO: persona invidente (Taiwán)/discapacitado visual
+盲肠 | TRADUÇÃO: ciego (anatomía)/apéndice
+盲肠炎 | TRADUÇÃO: apendicitis/tiflitis
+盲蛛 | TRADUÇÃO: opilión (arácnido del orden Opiliones)
+盲蜘蛛 | TRADUÇÃO: opilión (arácnido del orden Opiliones)
+盲道 | TRADUÇÃO: camino podotáctil/guía podotáctil para invidentes
+盲道砖 | TRADUÇÃO: baldosa podotáctil
+盲鳗 | TRADUÇÃO: pez bruja/mixino (orden Myxiniformes)
+盲点 | TRADUÇÃO: punto ciego
+直 | TRADUÇÃO: apellido Zhi/Zhi (aprox. 2000 a. C.), quinto de los legendarios Emperadores de la Llama 炎帝 ‖ recto/rectificar/enderezar/justo/franco/sincero/(indica acción o movimiento continuo)/vertical/trazo vertical descendente en los caracteres chinos
+直上云霄 | TRADUÇÃO: elevarse directo a las nubes/remontarse a los cielos
+直来直去 | TRADUÇÃO: ir y venir en línea recta/(fig.) directo y franco/sin rodeos (en el trato o la palabra)
+直来直往 | TRADUÇÃO: directo/franco/tajante
+直系军阀 | TRADUÇÃO: facción de Zhili de los señores de la guerra del norte
+直列 | TRADUÇÃO: en línea (de un conector, motor, etc.)
+直到 | TRADUÇÃO: hasta/hasta que
+直到现在 | TRADUÇÃO: hasta ahora/incluso ahora/hasta el presente
+直勾勾 | TRADUÇÃO: (de la mirada) fija/perdida/clavada
+直升机 | TRADUÇÃO: helicóptero/CL:架 ‖ variante de 直升機|直升机
+直升机坪 | TRADUÇÃO: helipuerto/helisuperficie/plataforma para helicópteros
+直升飞机 | TRADUÇÃO: véase 直升機|直升机
+直呼 | TRADUÇÃO: llamar directamente
+直呼其名 | TRADUÇÃO: llamar a alguien directamente por su nombre (sin títulos de cortesía)
+直奔 | TRADUÇÃO: dirigirse directamente a/ir directo hacia
+直尺 | TRADUÇÃO: regla graduada/regla recta
+直属 | TRADUÇÃO: directamente subordinado/directamente dependiente
+直布罗陀 | TRADUÇÃO: Gibraltar
+直布罗陀海峡 | TRADUÇÃO: estrecho de Gibraltar
+直幅 | TRADUÇÃO: rollo vertical (pintura, caligrafía)/pancarta vertical
+直待 | TRADUÇÃO: esperar hasta/hasta que
+直径 | TRADUÇÃO: diámetro
+直情径行 | TRADUÇÃO: actuar de manera franca y directa (modismo)/proceder según los propios impulsos
+直感 | TRADUÇÃO: intuición/percepción directa
+直愣愣 | TRADUÇÃO: con la mirada perdida/atontado/mirando fijamente
+直截 | TRADUÇÃO: directo/tajante/sin rodeos
+直截了当 | TRADUÇÃO: directo y claro (modismo)/sin rodeos/tajante
+直抒胸臆 | TRADUÇÃO: expresar lo que se siente con franqueza/abrir el corazón
+直拍 | TRADUÇÃO: empuñadura de pluma (tenis de mesa)/agarre penhold
+直捷 | TRADUÇÃO: directo/expedito/sin rodeos
+直捷了当 | TRADUÇÃO: variante de 直截了當|直截了当
+直掇 | TRADUÇÃO: variante de 直裰
+直排 | TRADUÇÃO: composición vertical (tipografía)/escritura vertical
+直接 | TRADUÇÃO: directo (opuesto: indirecto 間接|间接)/inmediato/directamente
+直接了当 | TRADUÇÃO: véase 直截了當|直截了当
+直接数据 | TRADUÇÃO: datos directos (en emulación LAN)
+直接税 | TRADUÇÃO: impuesto directo
+直接竞争 | TRADUÇÃO: competencia directa/competidor directo
+直接宾语 | TRADUÇÃO: objeto directo/complemento directo (gramática)
+直接选举 | TRADUÇÃO: elección directa
+直插式 | TRADUÇÃO: de inserción directa/conector en línea
+直捣 | TRADUÇÃO: avanzar directo hacia (el cuartel enemigo)/(fig.) atacar directamente el núcleo del problema
+直捣黄龙 | TRADUÇÃO: atacar directo a Huanglong (modismo)/(fig.) atacar la raíz del problema/asestar un golpe decisivo al enemigo
+直撅撅 | TRADUÇÃO: completamente recto/tieso/rígido
+直播 | TRADUÇÃO: transmitir en directo/transmisión en vivo/(internet) hacer un directo/(agricultura) siembra directa
+直播带货 | TRADUÇÃO: venta por transmisión en vivo/comercio electrónico mediante transmisiones en directo
+直播间 | TRADUÇÃO: sala de transmisión en vivo/estudio de directo
+直方图 | TRADUÇÃO: histograma
+直书 | TRADUÇÃO: relatar con fidelidad/escribir con veracidad
+直根 | TRADUÇÃO: raíz axonomorfa/raíz pivotante
+直僵 | TRADUÇÃO: tieso/rígido
+直流 | TRADUÇÃO: fluir continuamente/corriente continua (CC)
+直流电 | TRADUÇÃO: corriente continua
+直溜溜 | TRADUÇÃO: recto como una flecha/bien derecho
+直营店 | TRADUÇÃO: tienda propia/tienda gestionada directamente por la empresa
+直爽 | TRADUÇÃO: franco/directo/sincero/sin pelos en la lengua
+直率 | TRADUÇÃO: franco/abierto/sincero
+直球 | TRADUÇÃO: bola rápida (béisbol)/(fig.) (coloq.) directo/sin tapujos/claro y directo
+直男 | TRADUÇÃO: (jerga) hombre heterosexual/(jerga) hombre pragmático y poco romántico/insensible a sutilezas emocionales
+直男癌 | TRADUÇÃO: (jerga) machismo rancio/comportamiento misógino e insensible de corte tradicionalista
+直白 | TRADUÇÃO: hablar con franqueza/franco/directo/explícito
+直皖战争 | TRADUÇÃO: Guerra Zhili-Anhui de 1920 entre señores de la guerra del norte
+直眉瞪眼 | TRADUÇÃO: mirar con enfado o con la mirada perdida/clavar la vista fijamente
+直瞪瞪 | TRADUÇÃO: mirar fijamente con los ojos muy abiertos/mirar pasmado
+直积 | TRADUÇÃO: producto directo (en teoría de conjuntos)
+直立 | TRADUÇÃO: erguido/erecto/vertical
+直立人 | TRADUÇÃO: Homo erectus
+直笛 | TRADUÇÃO: flauta dulce (Taiwán)
+直笔 | TRADUÇÃO: relato veraz y sin adornos/estilo franco al escribir
+直系 | TRADUÇÃO: en línea directa (parentesco)
+直系祖先 | TRADUÇÃO: ancestro directo/antepasado en línea directa
+直系血亲 | TRADUÇÃO: pariente consanguíneo en línea directa
+直系亲属 | TRADUÇÃO: familiar directo/parientes de primer grado
+直线 | TRADUÇÃO: línea recta/bruscamente (subir o bajar en línea recta)
+直线加速器 | TRADUÇÃO: acelerador lineal
+直线性加速器 | TRADUÇÃO: acelerador lineal
+直翅目 | TRADUÇÃO: ortópteros (Orthoptera, orden de saltamontes, grillos y langostas)
+直脚鞋 | TRADUÇÃO: zapato simétrico (apto para ambos pies)
+直肠 | TRADUÇÃO: recto (anatomía)
+直肠子 | TRADUÇÃO: (coloq.) persona franca y directa/sin dobleces
+直肠直肚 | TRADUÇÃO: franco y desahogado (modismo)/decir lo que se piensa sin rodeos
+直肠镜 | TRADUÇÃO: proctoscopio/rectoscopio (med.)
+直至 | TRADUÇÃO: hasta/hasta llegar a
+直航 | TRADUÇÃO: vuelo directo/navegación directa (a...)
+直落布兰雅 | TRADUÇÃO: Telok Blangah (lugar en Singapur)
+直行 | TRADUÇÃO: seguir recto/ir derecho/(fig.) actuar con rectitud
+直裰 | TRADUÇÃO: túnica talar tradicional de eruditos y monjes
+直视 | TRADUÇÃO: mirar de frente/mirar directamente a
+直觉 | TRADUÇÃO: intuición
+直觉性 | TRADUÇÃO: intuitividad/carácter intuitivo
+直观 | TRADUÇÃO: intuitivo/visual/directamente perceptible por los sentidos
+直角 | TRADUÇÃO: ángulo recto
+直角三角形 | TRADUÇÃO: triángulo rectángulo
+直角器 | TRADUÇÃO: escuadra (herramienta de carpintero)
+直角尺 | TRADUÇÃO: escuadra de carpintero
+直角坐标 | TRADUÇÃO: coordenadas cartesianas/coordenadas rectangulares
+直言 | TRADUÇÃO: hablar con franqueza/decir las cosas claras
+直言不讳 | TRADUÇÃO: hablar sin tapujos (modismo)/sin pelos en la lengua/declarar abiertamente
+直言命题 | TRADUÇÃO: proposición categórica (lógica)
+直言无讳 | TRADUÇÃO: véase 直言不諱|直言不讳
+直言无隐 | TRADUÇÃO: véase 直言不諱|直言不讳
+直话 | TRADUÇÃO: palabras francas/hablar claro
+直谏 | TRADUÇÃO: amonestación franca/criticar abiertamente al superior
+直译 | TRADUÇÃO: traducción literal
+直译器 | TRADUÇÃO: intérprete (informática)
+直辖 | TRADUÇÃO: gobernar directamente/bajo administración directa
+直辖市 | TRADUÇÃO: municipio bajo administración directa del gobierno central (Pekín, Tianjin, Shanghái y Chongqing)
+直通 | TRADUÇÃO: comunicar directamente con/llevar directo a
+直通火车 | TRADUÇÃO: tren directo/tren sin transbordo
+直通车 | TRADUÇÃO: servicio directo/tren directo/(fig.) procedimiento exprés
+直连 | TRADUÇÃO: conexión directa/conectar directamente a
+直道而行 | TRADUÇÃO: actuar con rectitud e integridad (modismo)
+直达 | TRADUÇÃO: llegar directamente/directo/sin escalas
+直达列车 | TRADUÇÃO: tren directo/tren sin escalas
+直达航班 | TRADUÇÃO: vuelo directo/vuelo sin escalas
+直达车 | TRADUÇÃO: autobús o tren directo
+直选 | TRADUÇÃO: elección directa
+直销 | TRADUÇÃO: venta directa/comercialización directa
+直陈 | TRADUÇÃO: exponer con franqueza/declarar abiertamente/manifestar directamente
+直隶 | TRADUÇÃO: Zhili (antigua provincia china en torno a Pekín, disuelta en 1928)
+直面 | TRADUÇÃO: afrontar directamente/encarar (la realidad, el peligro)
+直顺 | TRADUÇÃO: liso y sedoso (pelo)/recto y suave
+直飞 | TRADUÇÃO: volar directo (a...)/vuelo sin escalas
+直馏 | TRADUÇÃO: destilación directa
+直发 | TRADUÇÃO: pelo lacio/cabello liso
+直发器 | TRADUÇÃO: plancha para el pelo/alisador de pelo
+直发板 | TRADUÇÃO: véase 直髮器|直发器
+盵 | TRADUÇÃO: apellido Qi
+相 | TRADUÇÃO: apellido Xiang ‖ mutuamente/el uno al otro/recíprocamente/traste del mástil de la pipa 琵琶 ‖ aspecto/apariencia/retrato/imagen/ministro de estado/(física) fase/(literario) examinar los rasgos/adivinar el futuro (por fisonomía o quiromancia)
+相中 | TRADUÇÃO: agradar a/elegir (tras mirar)/pronunciación en Taiwán [xiang4 zhong4]
+相乘 | TRADUÇÃO: multiplicar (mat.)/multiplicación
+相互 | TRADUÇÃO: mutuo/recíproco/el uno al otro
+相互作用 | TRADUÇÃO: interactuar/interacción/efecto recíproco
+相互保证毁灭 | TRADUÇÃO: destrucción mutua asegurada
+相互兼容 | TRADUÇÃO: mutuamente compatibles/compatibilidad mutua
+相互关系 | TRADUÇÃO: interrelación/relación mutua
+相交 | TRADUÇÃO: cortarse (caminos, líneas)/asociarse/hacerse amigos
+相交数 | TRADUÇÃO: número de intersección (mat.)
+相仿 | TRADUÇÃO: semejante/similar/parecido
+相伴 | TRADUÇÃO: acompañarse mutuamente/hacerse compañía
+相似 | TRADUÇÃO: similar/parecido/semejante
+相似性 | TRADUÇÃO: similitud/semejanza
+相似词 | TRADUÇÃO: sinónimo
+相位 | TRADUÇÃO: fase (ondas)
+相位差 | TRADUÇÃO: diferencia de fase/desfase
+相依 | TRADUÇÃO: ser interdependientes/depender el uno del otro
+相依为命 | TRADUÇÃO: depender el uno del otro para vivir (modismo)/apoyarse mutuamente para subsistir
+相保 | TRADUÇÃO: protegerse mutuamente/garantizarse mutuamente
+相信 | TRADUÇÃO: creer/confiar/estar convencido
+相偕 | TRADUÇÃO: juntos (literario)/en compañía mutua
+相传 | TRADUÇÃO: transmitirse/pasar de generación en generación/cuenta la tradición que.../según la leyenda
+相像 | TRADUÇÃO: parecerse/ser similares/asemejarse
+相公 | TRADUÇÃO: señor/joven caballero/amo/(antigua forma de dirigirse al esposo) esposo/jugador de mahjong descalificado
+相册 | TRADUÇÃO: álbum de fotos/álbum fotográfico
+相切 | TRADUÇÃO: ser tangentes entre sí (mat.)
+相加 | TRADUÇÃO: sumar (números)/(fig.) juntar/combinar
+相助 | TRADUÇÃO: ayudarse mutuamente/acudir en ayuda de alguien
+相劝 | TRADUÇÃO: aconsejarse mutuamente/exhortar/persuadir
+相反 | TRADUÇÃO: opuesto/contrario/al contrario
+相合 | TRADUÇÃO: coincidir/concordar con/ser compatible con
+相同 | TRADUÇÃO: idéntico/igual/mismo
+相向 | TRADUÇÃO: uno frente a otro/cara a cara/en direcciones opuestas que convergen
+相吸 | TRADUÇÃO: atracción mutua/atraerse recíprocamente
+相国 | TRADUÇÃO: primer ministro (en la antigua China)
+相图 | TRADUÇÃO: diagrama de fases (mat.)/retrato de fase
+相城 | TRADUÇÃO: véase 相城區|相城区
+相城区 | TRADUÇÃO: Xiangcheng, distrito de la ciudad de Suzhou 蘇州市|苏州市, Jiangsu
+相士 | TRADUÇÃO: fisonomista/adivino por los rasgos del rostro
+相夫教子 | TRADUÇÃO: ayudar al esposo y educar a los hijos (modismo)/virtudes de la esposa tradicional
+相契 | TRADUÇÃO: congeniar/llevarse bien (literario)/hacer buena pareja
+相好 | TRADUÇÃO: llevarse íntimamente/amigo íntimo/amante
+相安无事 | TRADUÇÃO: convivir en paz y armonía (modismo)/vivir sin conflictos
+相宜 | TRADUÇÃO: adecuado/conveniente/apropiado
+相容 | TRADUÇÃO: compatible/tolerarse mutuamente
+相容条件 | TRADUÇÃO: condiciones de compatibilidad/condiciones de consistencia
+相对 | TRADUÇÃO: relativamente/opuesto/enfrentar/relativo/vis-à-vis/contraparte
+相对位置 | TRADUÇÃO: posición relativa
+相对地址 | TRADUÇÃO: dirección relativa (informática)
+相对密度 | TRADUÇÃO: densidad relativa
+相对比较 | TRADUÇÃO: comparativamente/de manera relativa
+相对湿度 | TRADUÇÃO: humedad relativa
+相对而言 | TRADUÇÃO: hablando en términos relativos/comparativamente hablando
+相对论 | TRADUÇÃO: teoría de la relatividad
+相对论性 | TRADUÇÃO: relativista (física)
+相对象 | TRADUÇÃO: acudir a una cita con fines matrimoniales/conocer a un pretendiente
+相山 | TRADUÇÃO: véase 相山區|相山区
+相山区 | TRADUÇÃO: Xiangshan, distrito de la ciudad de Huaibei 淮北市, Anhui
+相左 | TRADUÇÃO: discrepar/estar en desacuerdo/desencontrarse
+相差 | TRADUÇÃO: diferir/haber diferencia
+相差不多 | TRADUÇÃO: casi igual/poca diferencia/muy parecido
+相帮 | TRADUÇÃO: ayudarse mutuamente/prestar auxilio
+相干 | TRADUÇÃO: tener que ver con/pertinente/(física) coherente (de la luz, ondas)
+相平面 | TRADUÇÃO: plano de fase (mat.)
+相形见绌 | TRADUÇÃO: palidecer en comparación (modismo)/quedar eclipsado al compararse
+相待 | TRADUÇÃO: tratar/portarse con
+相得益彰 | TRADUÇÃO: complementarse de maravilla (modismo)/resaltar lo mejor el uno del otro
+相思 | TRADUÇÃO: añoranza de amor/pensar con anhelo en el ser amado
+相思病 | TRADUÇÃO: mal de amores
+相悖 | TRADUÇÃO: contradictorio/opuesto/contrario a
+相恶 | TRADUÇÃO: odiarse mutuamente/aborrecerse
+相爱 | TRADUÇÃO: amarse el uno al otro/quererse mutuamente
+相爱相杀 | TRADUÇÃO: relación de amor-odio/amarse y lastimarse a la vez
+相态 | TRADUÇÃO: estado de agregación/fase (estado de la materia)
+相应 | TRADUÇÃO: correspondiente/adecuado/pertinente/en consonancia/en consecuencia
+相恋 | TRADUÇÃO: estar enamorados el uno del otro/amarse
+相手蟹 | TRADUÇÃO: cangrejo sesármido (familia Sesarmidae)
+相承 | TRADUÇÃO: heredarse sucesivamente/complementarse y transmitirse
+相投 | TRADUÇÃO: congeniar/afín/compartir los mismos gustos e intereses
+相抵 | TRADUÇÃO: compensarse/equilibrarse/anularse mutuamente
+相持 | TRADUÇÃO: enfrentarse en un punto muerto/mantener el pulso
+相持不下 | TRADUÇÃO: estancado en un punto muerto (modismo)/sin ceder ninguna de las partes
+相接 | TRADUÇÃO: unirse/enlazarse/estar en contacto
+相提并论 | TRADUÇÃO: poner al mismo nivel (modismo)/mencionar a la par/comparar por igual
+相撞 | TRADUÇÃO: chocar entre sí/colisionar/impactar
+相扑 | TRADUÇÃO: sumo/lucha de sumo/también pron. [xiang4 pu1]
+相拥 | TRADUÇÃO: abrazarse el uno al otro
+相敬如宾 | TRADUÇÃO: respetarse como a un huésped de honor (modismo)/respeto mutuo entre esposos
+相斥 | TRADUÇÃO: repulsión mutua/repelerse mutuamente
+相映成趣 | TRADUÇÃO: contrastar agradablemente (modismo)/realzarse el uno al otro
+相会 | TRADUÇÃO: reunirse/encontrarse
+相望 | TRADUÇÃO: mirarse mutuamente/hallarse frente a frente
+相架 | TRADUÇÃO: portafotos/marco de fotos
+相框 | TRADUÇÃO: marco fotográfico/marco de fotos
+相机 | TRADUÇÃO: cámara fotográfica (abrev. de 照相機|照相机)/en el momento oportuno/según las circunstancias
+相机而动 | TRADUÇÃO: esperar la oportunidad propicia para actuar (modismo)
+相机而行 | TRADUÇÃO: obrar según aconsejen las circunstancias (modismo)
+相机行事 | TRADUÇÃO: actuar de acuerdo con la situación (modismo)
+相比 | TRADUÇÃO: comparar/en comparación con
+相比之下 | TRADUÇÃO: en comparación/por contraste
+相沿成习 | TRADUÇÃO: arraigarse por costumbre/hacerse tradición por uso prolongado
+相濡以沫 | TRADUÇÃO: humedecerse mutuamente con saliva (modismo)/(fig.) ayudarse y sostenerse en momentos difíciles
+相熟 | TRADUÇÃO: conocerse bien/estar familiarizados
+相争 | TRADUÇÃO: disputar entre sí/competir el uno contra el otro/rivalizar
+相片 | TRADUÇÃO: fotografía/foto/imagen/CL:張|张
+相生 | TRADUÇÃO: engendrarse mutuamente/generación mutua
+相异 | TRADUÇÃO: diferente/distinto/disímil
+相当 | TRADUÇÃO: equivalente a/adecuado/bastante/considerablemente
+相当于 | TRADUÇÃO: equivalente a/equivaler a
+相看 | TRADUÇÃO: mirarse el uno al otro/contemplar con atención
+相碰撞 | TRADUÇÃO: colisionar entre sí/chocar unos contra otros
+相称 | TRADUÇÃO: corresponderse/hacer juego/ser adecuado/proporcionado
+相空间 | TRADUÇÃO: espacio de fases (mat.)
+相符 | TRADUÇÃO: coincidir/concordar/corresponderse
+相等 | TRADUÇÃO: igual/equivalente
+相簿 | TRADUÇÃO: álbum de fotos
+相约 | TRADUÇÃO: quedar en/citarse/acordar encontrarse
+相纸 | TRADUÇÃO: papel fotográfico
+相继 | TRADUÇÃO: sucesivamente/uno tras otro
+相骂 | TRADUÇÃO: insultarse mutuamente/reñir a gritos
+相聚 | TRADUÇÃO: reunirse/juntarse/congregarse
+相联 | TRADUÇÃO: interconectado/vinculado entre sí
+相声 | TRADUÇÃO: xiangsheng/diálogo cómico tradicional chino/crosstalk
+相背 | TRADUÇÃO: opuesto/contrario/darse la espalda
+相若 | TRADUÇÃO: semejante/a la par con/comparable
+相处 | TRADUÇÃO: convivir/tratarse/llevarse bien o mal
+相术 | TRADUÇÃO: fisonomía/adivinación por los rasgos faciales
+相衬 | TRADUÇÃO: hacer juego/contrastar armónicamente/combinar bien
+相见 | TRADUÇÃO: verse/encontrarse en persona
+相见恨晚 | TRADUÇÃO: lamentar no haberse conocido antes (modismo)/sentir como si se conocieran de toda la vida
+相视 | TRADUÇÃO: mirarse mutuamente/mirarse a los ojos
+相视而笑 | TRADUÇÃO: mirarse y sonreírse mutuamente (modismo)
+相亲 | TRADUÇÃO: cita a ciegas concertada/encuentro para evaluar a un pretendiente (Taiwán pron. [xiang4 qin1])/tenerse mutuo afecto
+相亲相爱 | TRADUÇÃO: amarse entrañablemente (modismo)/inseparables y muy unidos
+相亲角 | TRADUÇÃO: rincón de citas matrimoniales (espacio en parques donde padres buscan pareja para sus hijos)
+相觑 | TRADUÇÃO: mirarse fijamente el uno al otro
+相角 | TRADUÇÃO: cantonera para fotos/(mat.) ángulo de fase
+相认 | TRADUÇÃO: reconocerse/identificarse/reconocer una relación pasada
+相识 | TRADUÇÃO: conocerse/conocido/amistad
+相貌 | TRADUÇÃO: apariencia física/semblante/facciones
+相距 | TRADUÇÃO: distar/estar separado por una distancia
+相较 | TRADUÇÃO: comparar/en comparación
+相辅相成 | TRADUÇÃO: complementarse mutuamente (modismo)
+相轻 | TRADUÇÃO: menospreciarse mutuamente/desdearse el uno al otro
+相迎 | TRADUÇÃO: salir a recibir a alguien/dar la bienvenida
+相近 | TRADUÇÃO: cercano/similar/parecido
+相通 | TRADUÇÃO: intercomunicado/conectado/estar en sintonía
+相逢 | TRADUÇÃO: encontrarse por casualidad/toparse
+相连 | TRADUÇÃO: estar unido/conectado/enlazar
+相遇 | TRADUÇÃO: encontrarse/coincidir/toparse
+相违 | TRADUÇÃO: contradecir/contravenir/estar en conflicto con
+相邻 | TRADUÇÃO: contiguo/adyacente/vecino
+相配 | TRADUÇÃO: hacer buena pareja/combinar bien/hacer juego/adecuado
+相配人 | TRADUÇÃO: pareja bien avenida/persona que hace buena pareja con otra
+相配物 | TRADUÇÃO: objeto que combina bien/cosa que hace buen juego
+相间 | TRADUÇÃO: alternarse/intercalarse
+相关 | TRADUÇÃO: relacionado/pertinente/estar interrelacionado/(estadística) correlación
+相关性 | TRADUÇÃO: correlación/interdependencia
+相隔 | TRADUÇÃO: distanciado por/separado por (tiempo o espacio)
+相随 | TRADUÇÃO: acompañar/seguir de cerca/(fig.) ir de la mano
+相面 | TRADUÇÃO: fisonomía/adivinación por los rasgos del rostro
+相类 | TRADUÇÃO: similar/parecido/análogo
+相体裁衣 | TRADUÇÃO: cortar el traje a medida del cuerpo (modismo)/(fig.) actuar según las circunstancias reales
+盹 | TRADUÇÃO: dar una cabezada/echar una siesta/sueñecito
+盻 | TRADUÇÃO: mirar con furia/clavar los ojos con enojo
+盼 | TRADUÇÃO: anhelar/esperar con ansias/desear
+盼星星盼月亮 | TRADUÇÃO: desear las estrellas y la luna (modismo)/anhelar ardientemente/esperar con suma ilusión
+盼望 | TRADUÇÃO: esperar con ilusión/anhelar/aguardar con ansias
+盼睐 | TRADUÇÃO: su atención/su consideración favorable (estilo epistolar)
+盼复 | TRADUÇÃO: esperando su pronta respuesta (estilo epistolar)
+盼头 | TRADUÇÃO: esperanzas/buenas perspectivas/motivo de ilusión
+盾 | TRADUÇÃO: escudo (CL:面)/dong vietnamita/unidad monetaria (rupia indonesia, florín, etc.)
+盾构机 | TRADUÇÃO: tuneladora/máquina perforadora de túneles
+盾牌 | TRADUÇÃO: escudo/pretexto/excusa
+盾牌座 | TRADUÇÃO: Scutum (constelación del Escudo)
+省 | TRADUÇÃO: ahorrar/economizar/omitir/eliminar/prescindir de/provincia/capital provincial/ministerio (gobierno de Japón) ‖ (forma ligada) examinar atentamente/(forma ligada) reflexionar sobre la conducta de uno/(forma ligada) percatarse/darse cuenta/(forma ligada) visitar a padres o ancianos
+省事 | TRADUÇÃO: simplificar las cosas/ahorrar molestias ‖ perspicaz/comprensivo/(arcaico) tramitar asuntos administrativos
+省份 | TRADUÇÃO: provincia
+省便 | TRADUÇÃO: cómodo/conveniente/práctico
+省俭 | TRADUÇÃO: frugal/ahorrativo/austero
+省分 | TRADUÇÃO: variante de 省份
+省力 | TRADUÇÃO: ahorrar esfuerzo/ahorrar trabajo/cómodo
+省劲 | TRADUÇÃO: ahorrar esfuerzo/ahorrar trabajo
+省劲儿 | TRADUÇÃO: variante erhua de 省勁|省劲
+省却 | TRADUÇÃO: ahorrarse/eliminar/prescindir de
+省去 | TRADUÇÃO: omitir/prescindir de/ahorrarse (tiempo, molestias)
+省吃俭用 | TRADUÇÃO: vivir frugalmente (modismo)/ahorrar en comida y gastos
+省垣 | TRADUÇÃO: capital provincial (literario)
+省城 | TRADUÇÃO: capital provincial
+省委 | TRADUÇÃO: comité provincial del Partido
+省字号 | TRADUÇÃO: apóstrofo (puntuación)
+省察 | TRADUÇÃO: examinar con ojo crítico/introspección/autoexamen
+省市 | TRADUÇÃO: provincias y ciudades
+省得 | TRADUÇÃO: para evitar/a fin de ahorrarse (dinero o tiempo)/para que no
+省心 | TRADUÇÃO: no causar preocupaciones/ahorrar disgustos/tranquilo
+省悟 | TRADUÇÃO: abrir los ojos a la realidad/darse cuenta/comprender la verdad
+省会 | TRADUÇÃO: capital provincial
+省油的灯 | TRADUÇÃO: persona fácil de tratar (usualmente en forma negativa: 不是省油的灯)
+省治 | TRADUÇÃO: sede del gobierno provincial/capital de provincia
+省流 | TRADUÇÃO: ahorrar datos móviles/modo ahorro de datos (abrev. de 省流量)
+省港澳 | TRADUÇÃO: abrev. de la región económica de la provincia de Cantón (o Cantón ciudad), Hong Kong y Macao
+省界 | TRADUÇÃO: límite provincial/frontera interprovincial
+省略 | TRADUÇÃO: omitir/omisión/elipsis
+省略符号 | TRADUÇÃO: apóstrofo/signo de elisión
+省略号 | TRADUÇÃO: puntos suspensivos (puntuación)
+省直管县 | TRADUÇÃO: condado administrado directamente por la provincia (reforma administrativa en la RPC)
+省省吧 | TRADUÇÃO: (coloq.) ¡ahórrate las palabras!/¡no pierdas el tiempo!
+省称 | TRADUÇÃO: abreviatura/forma abreviada
+省级 | TRADUÇÃO: a nivel provincial/provincial
+省视 | TRADUÇÃO: visitar a los mayores/inspeccionar
+省亲 | TRADUÇÃO: visitar a los padres o familiares
+省辖市 | TRADUÇÃO: ciudad administrada por la provincia
+省钱 | TRADUÇÃO: ahorrar dinero
+省长 | TRADUÇÃO: gobernador provincial
+省电 | TRADUÇÃO: ahorrar electricidad/ahorro de energía
+省音 | TRADUÇÃO: elisión (lingüística)
+眂 | TRADUÇÃO: variante antigua de 視|视
+眄 | TRADUÇÃO: mirar de reojo/hacer ojitos/guiñar ‖ mirar con desdén/mirar de través
+眄眄 | TRADUÇÃO: mirada apagada/mirar de reojo
+眄睐 | TRADUÇÃO: lanzar miradas de amor/mirar con cariño
+眄睨 | TRADUÇÃO: mirar de soslayo/mirar con desdén
+眄视 | TRADUÇÃO: echar una mirada de soslayo/mirar de reojo
+眅 | TRADUÇÃO: mostrar la esclerótica/ojos saltones
+眇 | TRADUÇÃO: tuerto/ciego de un ojo/ciego/diminuto/humilde/mirar fijamente
+眇小 | TRADUÇÃO: variante de 渺小
+眇眇 | TRADUÇÃO: sublime/solitario/remoto/mirar a lo lejos
+眈 | TRADUÇÃO: usado en 眈眈
+眈眈 | TRADUÇÃO: con mirada fija y rapaz/atentamente
+眉 | TRADUÇÃO: ceja/margen superior
+眉来眼去 | TRADUÇÃO: cruzar miradas de complicidad (modismo)/coquetear con la mirada/hacerse ojitos
+眉宇 | TRADUÇÃO: (literario) frente/(literario) semblante/ceño
+眉尖 | TRADUÇÃO: cejas (especialmente al fruncirlas)/extremo de la ceja
+眉山 | TRADUÇÃO: véase 眉山市
+眉山市 | TRADUÇÃO: Meishan, ciudad-prefectura en la provincia de Sichuan 四川省
+眉心 | TRADUÇÃO: entrecejo/espacio entre las cejas
+眉心轮 | TRADUÇÃO: ajna/chacra del tercer ojo 查克拉, situado en la frente/también escrito 眉間輪|眉间轮
+眉批 | TRADUÇÃO: notas marginales superiores/comentarios al margen superior
+眉月 | TRADUÇÃO: luna en cuarto creciente
+眉梢 | TRADUÇÃO: extremo de la ceja
+眉毛 | TRADUÇÃO: ceja/CL:根
+眉毛钳 | TRADUÇÃO: pinzas para depilar las cejas
+眉毛胡子一把抓 | TRADUÇÃO: querer abarcarlo todo sin distinguir prioridades (modismo)/hacer las cosas a bulto
+眉清目秀 | TRADUÇÃO: de facciones finas y agraciadas (modismo)/rostro hermoso y delicado
+眉目 | TRADUÇÃO: rasgos faciales/fisonomía/orden/lógica/esbozo o idea general ‖ progreso/visos de solución/señales de buen desenlace
+眉目传情 | TRADUÇÃO: lanzar miradas amorosas/coquetear con los ojos
+眉眼 | TRADUÇÃO: cejas y ojos/semblante/facciones del rostro
+眉眼传情 | TRADUÇÃO: lanzar miradas seductoras/hacer ojitos
+眉睫 | TRADUÇÃO: cejas y pestañas/(fig.) inminente/urgente/a la vuelta de la esquina
+眉端 | TRADUÇÃO: extremo de la ceja/margen superior de la página
+眉笔 | TRADUÇÃO: lápiz de cejas (cosmética)
+眉县 | TRADUÇÃO: condado de Mei o Meixian, en la ciudad de Baoji 寶雞市|宝鸡市, Shaanxi
+眉角 | TRADUÇÃO: extremo exterior de la ceja/expresión facial/(Taiwán) truco del oficio/artilugio
+眉开眼笑 | TRADUÇÃO: radiante de alegría (modismo)/con una sonrisa de oreja a oreja
+眉间 | TRADUÇÃO: entrecejo/glabela
+眉间轮 | TRADUÇÃO: ajna/chacra del tercer ojo 查克拉, situado en la frente
+眉头 | TRADUÇÃO: entrecejo/cejas
+眉飞色舞 | TRADUÇÃO: radiante de entusiasmo (modismo)/desbordar alegría en el rostro
+眉黛 | TRADUÇÃO: cejas pintadas de negro (literario)
+眊 | TRADUÇÃO: de vista nublada/vista corta
+看 | TRADUÇÃO: cuidar/atender/vigilar/custodiar ‖ ver/mirar/leer/visitar/considerar/juzgar/tratar (a un paciente o enfermedad)/depender de/opinar/(tras verbo) probar a hacer algo/estar atento a
+看一看 | TRADUÇÃO: echar un vistazo/mirar un poco
+看上 | TRADUÇÃO: encapricharse de/elegir/fijarse en/gustar de
+看上去 | TRADUÇÃO: al parecer/parece que
+看不中 | TRADUÇÃO: no gustar/no convencer/no dar el visto bueno
+看不出 | TRADUÇÃO: no poder distinguir/no notarse
+看不惯 | TRADUÇÃO: no soportar ver/desaprobar/desagradar
+看不懂 | TRADUÇÃO: no entender lo que se ve o lee
+看不清 | TRADUÇÃO: no ver con claridad/borroso
+看不见 | TRADUÇÃO: no poder ver/no verse/invisible
+看不起 | TRADUÇÃO: menospreciar/despreciar/mirar por encima del hombro
+看不过 | TRADUÇÃO: no poder tolerar verlo/no soportar más/véase 看不過去|看不过去
+看不过去 | TRADUÇÃO: no tolerar quedarse de brazos cruzados/no poder soportarlo
+看不顺眼 | TRADUÇÃO: desagradable a la vista/resultar molesto o indignante
+看中 | TRADUÇÃO: elegir tras considerar/agradar/fijarse en/preferir
+看人下菜碟儿 | TRADUÇÃO: (dialectal) tratar a la gente según su posición o interés (modismo)/hacer distinciones según convenga
+看人行事 | TRADUÇÃO: actuar según la categoría de la persona (modismo)/tratar a la gente según conveniencia
+看似 | TRADUÇÃO: parecer/aparentar/verse como
+看作 | TRADUÇÃO: considerar como/tener por
+看来 | TRADUÇÃO: al parecer/según parece
+看倌 | TRADUÇÃO: estimado lector/estimado público
+看做 | TRADUÇÃO: considerar como/tener por
+看出 | TRADUÇÃO: discernir/notar/descubrir con la mirada
+看到 | TRADUÇÃO: ver/percibir con la vista
+看台 | TRADUÇÃO: grada/tribuna/graderío
+看呆 | TRADUÇÃO: quedarse boquiabierto/mirar atónito/quedar extasiado
+看在 | TRADUÇÃO: por consideración a (en la expresión 看在 + ... + 的份上)/en atención a
+看在眼里 | TRADUÇÃO: darse cuenta de todo/tomar nota mentalmente
+看好 | TRADUÇÃO: vigilar de cerca/cuidar bien ‖ tener buenas perspectivas/apostar por/ver con optimismo
+看守 | TRADUÇÃO: vigilar/custodiar/guardar
+看守所 | TRADUÇÃO: centro de detención/cárcel preventiva
+看守者 | TRADUÇÃO: vigilante/guardia/guardián
+看官 | TRADUÇÃO: (antiguo) estimados lectores/estimado público
+看客 | TRADUÇÃO: espectadores/mirones/curiosos
+看家 | TRADUÇÃO: cuidar la casa/habilidad especial/destreza sobresaliente
+看家本事 | TRADUÇÃO: véase 看家本領|看家本领
+看家本领 | TRADUÇÃO: especialidad (modismo)/habilidad maestra/fuerte de uno
+看待 | TRADUÇÃO: considerar/tratar/juzgar
+看得中 | TRADUÇÃO: gustar/tomar simpatía por/encontrar de su agrado
+看得出 | TRADUÇÃO: notarse/verse con claridad/discernirse
+看得见 | TRADUÇÃO: poder ver/visible
+看得起 | TRADUÇÃO: tener en alta estima/respetar/valorar
+看得过 | TRADUÇÃO: pasable/aceptable/presentable
+看得过儿 | TRADUÇÃO: variante erhua de 看得過|看得过
+看情况 | TRADUÇÃO: según las circunstancias/según el caso/depende
+看惯 | TRADUÇÃO: estar acostumbrado a ver/habitual a la vista
+看懂 | TRADUÇÃO: comprender lo que se lee o ve/entender
+看成 | TRADUÇÃO: considerar como/tener por
+看戏 | TRADUÇÃO: ver una obra de teatro/mirar los toros desde la barrera/espectador pasivo
+看扁 | TRADUÇÃO: tener en poco/subestimar/menospreciar
+看押 | TRADUÇÃO: poner bajo custodia/retener preventivamente
+看书 | TRADUÇÃO: leer/estudiar/leer libros
+看望 | TRADUÇÃO: visitar a alguien/ir a ver (a un enfermo, amigo)
+看板 | TRADUÇÃO: cartel publicitario/valla publicitaria/tablón de anuncios
+看样子 | TRADUÇÃO: al parecer/según parece/parece que
+看法 | TRADUÇÃO: punto de vista/opinión/modo de ver/CL:個|个
+看淡 | TRADUÇÃO: restar importancia/desapegarse de (la fama o la riqueza)/(de un mercado) debilitarse
+看清 | TRADUÇÃO: ver con claridad/distinguir claramente
+看准 | TRADUÇÃO: cerciorarse con la mirada/fijarse bien/apuntar con certeza
+看准机会 | TRADUÇÃO: aprovechar la oportunidad propicia/ver el momento adecuado
+看涨 | TRADUÇÃO: con tendencia al alza/alcista (finanzas)
+看热闹 | TRADUÇÃO: curiosear el bullicio/acudir al alboroto/mirar como espectador
+看片 | TRADUÇÃO: ver una película
+看球 | TRADUÇÃO: ver un partido de pelota (o fútbol)/¡cuidado con la bola! (golf)
+看病 | TRADUÇÃO: consultar al médico/examinar a un paciente
+看相 | TRADUÇÃO: leer el destino por las facciones del rostro/hacer fisonomía
+看看 | TRADUÇÃO: echar una mirada/examinar/observar/(coloq.) muy pronto
+看破 | TRADUÇÃO: ver a través de/desengañarse de/renunciar al mundo terrenal

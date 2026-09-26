@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+登革热 | TRADUÇÃO: dengue/fiebre del dengue/fiebre hemorrágica de Singapur
+登革疫苗 | TRADUÇÃO: vacuna contra el dengue
+登革病毒 | TRADUÇÃO: virus del dengue
+登顶 | TRADUÇÃO: alcanzar la cima/llegar a la cumbre (lit. y fig.)
+登高一呼 | TRADUÇÃO: hacer un llamamiento público/hacer un llamado enérgico/alzar la voz
+登高望远 | TRADUÇÃO: estar en lo alto y mirar lejos (modismo); tener visión de futuro y amplitud de miras/gran perspicacia y previsión
+发 | TRADUÇÃO: enviar/manifestar (emociones)/emitir/desarrollar/prosperar/hacerse rico/clasificador para disparos o proyectiles ‖ cabello/pelo/pronunciación en Taiwán [fa3]
+发交 | TRADUÇÃO: expedir y entregar (a alguien)/remitir
+发亮 | TRADUÇÃO: brillar/relucir/brillante/reluciente
+发人深思 | TRADUÇÃO: (modismo) que da que pensar/hace reflexionar/suscita honda reflexión
+发人深省 | TRADUÇÃO: (modismo) dar que pensar/hacer reflexionar profundamente/aleccionador
+发人深醒 | TRADUÇÃO: variante de 發人深省|发人深省
+发令 | TRADUÇÃO: dar una orden/dar la señal de salida
+发令枪 | TRADUÇÃO: pistola de salida/pistola de largada
+发件人 | TRADUÇÃO: remitente (de correo o correo electrónico)
+发布 | TRADUÇÃO: variante de 發布|发布 ‖ publicar/emitir/anunciar/divulgar/distribuir
+发布会 | TRADUÇÃO: conferencia de prensa/rueda de prensa/sesión informativa ‖ conferencia de prensa/rueda de prensa/sesión informativa
+发作 | TRADUÇÃO: manifestarse/brotar/desencadenarse/sufrir un ataque (de una enfermedad o emoción)
+发作性嗜睡病 | TRADUÇÃO: narcolepsia
+发信 | TRADUÇÃO: enviar una carta/despachar correspondencia
+发光 | TRADUÇÃO: emitir luz/brillar/resplandecer/centellear/ser luminoso
+发光二极管 | TRADUÇÃO: diodo emisor de luz/LED
+发光二极体 | TRADUÇÃO: diodo emisor de luz (LED) (Taiwán)
+发光强度 | TRADUÇÃO: intensidad luminosa
+发兵 | TRADUÇÃO: movilizar tropas/enviar tropas/despachar un ejército
+发冷 | TRADUÇÃO: sentir escalofríos/tener frío (como síntoma clínico o emoción)
+发出 | TRADUÇÃO: emitir (una orden, decreto, etc.)/expedir/despachar/producir (un sonido)/lanzar (un grito)/soltar (una risa)
+发出指示 | TRADUÇÃO: emitir instrucciones/dar directivas
+发刊 | TRADUÇÃO: publicar/editar (un periódico o revista)
+发刊词 | TRADUÇÃO: editorial inaugural/prefacio de presentación (de una publicación)
+发力 | TRADUÇÃO: esforzarse/aplicar fuerza/cobrar impulso/tener un fuerte desempeño (de una empresa, etc.)
+发动 | TRADUÇÃO: arrancar/poner en marcha/iniciar/lanzar/movilizar/desatar
+发动力 | TRADUÇÃO: fuerza motriz/potencia motriz
+发动机 | TRADUÇÃO: motor/CL:臺|台
+发包 | TRADUÇÃO: adjudicar un contrato/subcontratar ‖ moño postizo/extensión de cabello
+发卡 | TRADUÇÃO: emitir una tarjeta/(jerga) rechazar a un pretendiente ‖ horquilla/pinza para el pelo/pasador de pelo
+发呆 | TRADUÇÃO: quedarse pasmado/mirar fijamente al vacío/quedarse embobado/estar en babia
+发售 | TRADUÇÃO: poner a la venta/comercializar/vender
+发问 | TRADUÇÃO: preguntar/formular una pregunta/interrogar
+发喉急 | TRADUÇÃO: enfurecerse/perder los estribos
+发丧 | TRADUÇÃO: celebrar un funeral/anunciar un duelo
+发嘘声 | TRADUÇÃO: abuchear/silbar (en señal de desaprobación)
+发回 | TRADUÇÃO: devolver/reenviar al remitente
+发国难财 | TRADUÇÃO: lucrarse con una calamidad nacional/especular en tiempos de crisis nacional
+发报 | TRADUÇÃO: enviar un telegrama/transmitir un mensaje
+发报人 | TRADUÇÃO: remitente (de un telegrama o mensaje)
+发梦 | TRADUÇÃO: soñar/tener un sueño/(fig.) hacerse ilusiones
+发奋 | TRADUÇÃO: esforzarse/poner empeño/trabajar con afán
+发奋图强 | TRADUÇÃO: esforzarse con determinación por prosperar (modismo)/ponerse las pilas/decidido a superarse
+发奋有为 | TRADUÇÃO: demostrar la valía mediante una firme resolución (modismo)
+发好人卡 | TRADUÇÃO: (jerga) rechazar a un pretendiente tratándolo de "buena persona" (mandar a la friendzone)
+发威 | TRADUÇÃO: desplegar el poder/hacer alarde de fuerza/causar estragos (de un tifón, etc.)/enfurecerse (una autoridad)/imponer dominio
+发家 | TRADUÇÃO: forjar una fortuna familiar/enriquecerse/prosperar
+发射 | TRADUÇÃO: disparar (un proyectil)/lanzar (un cohete)/emitir (partículas)/descargar/lanzamiento/emisión
+发射井 | TRADUÇÃO: silo de lanzamiento
+发射器 | TRADUÇÃO: transmisor de radio/lanzador
+发射场 | TRADUÇÃO: sitio de lanzamiento/base de lanzamiento/cosmódromo
+发射星云 | TRADUÇÃO: nebulosa de emisión
+发射机 | TRADUÇÃO: transmisor/emisor
+发射机应答器 | TRADUÇÃO: transpondedor/respondedor
+发射站 | TRADUÇÃO: plataforma de lanzamiento/estación emisora
+发射台 | TRADUÇÃO: plataforma de lanzamiento/rampa de lanzamiento/transmisor (de radio, TV)
+发展 | TRADUÇÃO: desarrollo/crecimiento/desarrollar/crecer/expandir
+发展中 | TRADUÇÃO: en desarrollo/en vías de desarrollo/en curso
+发展中国家 | TRADUÇÃO: país en desarrollo/país en vías de desarrollo
+发展商 | TRADUÇÃO: (HK) promotor inmobiliario/empresa promotora
+发展研究中心 | TRADUÇÃO: Centro de Investigación del Desarrollo (del Consejo de Estado de la República Popular China)
+发工资日 | TRADUÇÃO: día de pago/día de cobro
+发帖 | TRADUÇÃO: publicar una entrada (en un foro de internet)/postear
+发怒 | TRADUÇÃO: enfadarse/enojarse/enfurecerse
+发怔 | TRADUÇÃO: atónito/perplejo/estupefacto/pasmado
+发急 | TRADUÇÃO: impacientarse/inquietarse/ponerse ansioso
+发怵 | TRADUÇÃO: sentir temor/acobardarse/tener aprensión
+发情 | TRADUÇÃO: (zoología) entrar en celo/estar en celo
+发情期 | TRADUÇÃO: época de celo (zool.)/estro/período de celo
+发想 | TRADUÇÃO: idear/concebir una idea/inspiración/generación de ideas
+发愁 | TRADUÇÃO: preocuparse/afligirse/apesadumbrarse
+发愣 | TRADUÇÃO: quedarse atontado/quedarse pasmado/estar aturdido
+发慌 | TRADUÇÃO: agitarse/ponerse nervioso/inquietarse
+发愤 | TRADUÇÃO: determinarse con firmeza/poner empeño/aplicarse con tesón
+发愤图强 | TRADUÇÃO: estar resuelto a superarse y alcanzar el éxito (modismo)/empeñarse con tesón en prosperar
+发愤忘食 | TRADUÇÃO: tan entregado al trabajo o estudio que olvida comer (modismo)
+发憷 | TRADUÇÃO: variante de 發怵|发怵
+发懵 | TRADUÇÃO: aturdirse/sentirse confundido/estar desconcertado/quedarse en blanco/pronunciación en Taiwán [fa1 meng2]
+发抖 | TRADUÇÃO: temblar/tiritar/estremecerse
+发掘 | TRADUÇÃO: excavar/desenterrar/explorar/(fig.) sacar a la luz/descubrir
+发扬 | TRADUÇÃO: desarrollar/promover/fomentar/realzar/hacer pleno uso de
+发扬光大 | TRADUÇÃO: desarrollar y potenciar/llevar adelante/engrandecer/glorificar
+发扬踔厉 | TRADUÇÃO: estar lleno de vigor (modismo)/enérgico y animoso
+发扬蹈厉 | TRADUÇÃO: véase 發揚踔厲|发扬踔厉
+发挥 | TRADUÇÃO: desplegar/exhibir/poner en práctica/dar rienda suelta/desarrollar (una idea)
+发改委 | TRADUÇÃO: abrev. de 國家發展和改革委員會|国家发展和改革委员会, Comisión Nacional de Desarrollo y Reforma de la RPC (CNDR)
+发放 | TRADUÇÃO: proporcionar/otorgar/conceder/distribuir/repartir
+发散 | TRADUÇÃO: dispersar/divergir/disipar
+发文 | TRADUÇÃO: emitir un documento/oficio emitido por una autoridad/correspondencia saliente/(internet) publicar un artículo en línea
+发明 | TRADUÇÃO: inventar/invención/invento/CL:個|个
+发明人 | TRADUÇÃO: inventor
+发明创造 | TRADUÇÃO: inventar e innovar/inventos e innovaciones
+发明家 | TRADUÇÃO: inventor
+发明者 | TRADUÇÃO: inventor/creador
+发昏 | TRADUÇÃO: desmayarse/perder el conocimiento/aturdirse
+发春 | TRADUÇÃO: estar en celo
+发晕 | TRADUÇÃO: sentirse mareado/marearse
+发暗 | TRADUÇÃO: oscurecerse/deslucirse/perder brillo
+发案 | TRADUÇÃO: ocurrencia de un caso o delito/tener lugar un delito/publicar ofertas de trabajo independiente
+发条 | TRADUÇÃO: resorte de reloj/cuerda de reloj/(atributivo) de cuerda/a cuerda
+发棵 | TRADUÇÃO: brotar retoños/echar tallos
+发榜 | TRADUÇÃO: publicar la lista de aprobados o admitidos
+发横财 | TRADUÇÃO: ganar dinero fácil/hacerse rico de la noche a la mañana/lucrarse ilegal o inesperadamente
+发毛 | TRADUÇÃO: enfurecerse/asustarse/inquietarse (dialecto de Pekín)
+发气 | TRADUÇÃO: enojarse/enfadarse
+发水 | TRADUÇÃO: inundarse/haber crecida de agua/desbordarse las aguas
+发汗 | TRADUÇÃO: sudar/transpirar
+发泡 | TRADUÇÃO: hacer espuma/producir burbujas/(de una bebida) espumoso/con gas
+发泡剂 | TRADUÇÃO: agente espumante/agente espumígeno
+发泡胶 | TRADUÇÃO: poliestireno expandido (EPS)/espuma de poliestireno
+发泄 | TRADUÇÃO: desahogar (emociones)/dar rienda suelta
+发源 | TRADUÇÃO: originarse/nacer (un río)/fuente/origen
+发源地 | TRADUÇÃO: lugar de origen/cuna/fuente
+发火 | TRADUÇÃO: encenderse/prender fuego/estallar/enfadarse/enojarse
+发炎 | TRADUÇÃO: inflamarse/inflamación
+发烟弹 | TRADUÇÃO: bomba de humo/granada de humo
+发热 | TRADUÇÃO: tener fiebre/calentarse/emitir calor/perder la calma
+发热伴血小板减少综合征 | TRADUÇÃO: síndrome de fiebre severa con trombocitopenia (SFTS)
+发烧 | TRADUÇÃO: tener fiebre/estar afiebrado/(fig.) estar fascinado con/apasionarse por/(fig.) floreciente/en auge
+发烧友 | TRADUÇÃO: aficionado entusiasta/fanático/entusiasta
+发烫 | TRADUÇÃO: ardiendo/quemando/muy caliente al tacto
+发牌 | TRADUÇÃO: repartir cartas/dar las cartas
+发牢骚 | TRADUÇÃO: quejarse/refunfuñar/rezongar
+发狂 | TRADUÇÃO: volverse loco/enloquecer/desesperarse/loco
+发奖 | TRADUÇÃO: otorgar un premio/entregar un premio
+发现 | TRADUÇÃO: notar/darse cuenta de/descubrir/hallar/detectar/descubrimiento
+发现物 | TRADUÇÃO: hallazgo/objeto descubierto
+发现号 | TRADUÇÃO: transbordador espacial Discovery
+发球 | TRADUÇÃO: (tenis, etc.) sacar/servir/(golf) hacer el saque inicial
+发球区 | TRADUÇÃO: zona de saque/área de salida (golf)
+发生 | TRADUÇÃO: ocurrir/suceder/tener lugar/desencadenarse
+发生率 | TRADUÇÃO: tasa de incidencia/tasa de frecuencia
+发生关系 | TRADUÇÃO: tener relaciones sexuales con alguien/tener tratos con
+发病 | TRADUÇÃO: manifestarse una enfermedad/enfermar/caer enfermo/inicio de una enfermedad
+发病率 | TRADUÇÃO: tasa de incidencia (de una enfermedad)/tasa de morbilidad
+发痛 | TRADUÇÃO: doler/sentir dolor/estar dolorido
+发疯 | TRADUÇÃO: volverse loco/enloquecer/perder la razón
+发痒 | TRADUÇÃO: picar/dar comezón/sentir picazón
+发癫 | TRADUÇÃO: volverse loco/enloquecer/perder la cabeza
+发白 | TRADUÇÃO: palidecer/perder color/blanquear
+发直 | TRADUÇÃO: mirar fijamente/quedarse con la mirada fija/estar pasmado
+发困 | TRADUÇÃO: entrarle sueño/adormilarse/tener somnolencia
+发短信 | TRADUÇÃO: enviar un mensaje de texto/enviar un SMS
+发神经 | TRADUÇÃO: (coloq.) volverse loco/perder la cabeza/desquiciado/chalado
+发祥 | TRADUÇÃO: tener origen próspero/dar origen a algo auspicioso
+发祥地 | TRADUÇÃO: cuna (de una civilización, arte, etc.)/lugar de nacimiento
+发票 | TRADUÇÃO: factura/recibo/comprobante fiscal/factura oficial unificada (abrev. de 統一發票|统一发票)
+发福 | TRADUÇÃO: engordar/subir de peso (considerado tradicionalmente signo de prosperidad y buena salud)
+发稿 | TRADUÇÃO: enviar el manuscrito a la imprenta (un editor)/enviar un despacho o crónica (un periodista)
+发积 | TRADUÇÃO: véase 發跡|发迹
+发窘 | TRADUÇÃO: sentirse avergonzado/desconcertarse/abochornado
+发端 | TRADUÇÃO: originarse/iniciar/comienzo/origen
+发笑 | TRADUÇÃO: reírse/echarse a reír/dar risa
+发粉 | TRADUÇÃO: levadura química/polvo de hornear
+发糕 | TRADUÇÃO: fa gao (pastel esponjoso chino al vapor, dulce y tradicional de Año Nuevo)
+发红 | TRADUÇÃO: enrojecer/ruborizarse/sonrojarse
+发绀 | TRADUÇÃO: cianosis (coloración azulada de la piel por falta de oxígeno en sangre)
+发给 | TRADUÇÃO: expedir/otorgar/conceder/distribuir
+发声 | TRADUÇÃO: emitir un sonido/vocalizar/alzar la voz/expresar opiniones o demandas
+发声器 | TRADUÇÃO: dispositivo emisor de sonido/aparato de sonido
+发声器官 | TRADUÇÃO: órganos vocales/cuerdas vocales
+发声法 | TRADUÇÃO: fonación/entonación/método de emisión vocal
+发聋振聩 | TRADUÇÃO: tan sonoro que despierta hasta al sordo (modismo); despertar a los indiferentes/revelador
+发育 | TRADUÇÃO: desarrollarse/madurar/crecimiento/desarrollo/maduro (sexualmente)
+发育期 | TRADUÇÃO: pubertad/período de desarrollo
+发育生物学 | TRADUÇÃO: biología del desarrollo
+发胖 | TRADUÇÃO: engordar/ganar peso
+发脆 | TRADUÇÃO: volverse quebradizo/volverse crujiente
+发脱口齿 | TRADUÇÃO: dicción/articulación vocal/pronunciación clara
+发胀 | TRADUÇÃO: hincharse/inflarse/hinchazón
+发脾气 | TRADUÇÃO: perder los estribos/enfurecerse/hacer una rabieta
+发自 | TRADUÇÃO: provenir de/emanar de/desarrollarse a partir de
+发臭 | TRADUÇÃO: apestar/oler mal/hediondo
+发芽 | TRADUÇÃO: germinar (una semilla)/brotar (una planta)/(fig.) comenzar a desarrollarse (una idea o plan)
+发落 | TRADUÇÃO: disponer el castigo de (un infractor)/tratar a un delincuente/despachar
+发蒙 | TRADUÇÃO: estar confundido/estar desconcertado/pronunciación en Taiwán [fa1 meng2] ‖ (antiguo) instruir a los jóvenes/enseñar a leer y escribir a un niño/fácil como el abecedario
+发蔫 | TRADUÇÃO: marchitarse/decaer/mostrarse apático o mustio
+发薪 | TRADUÇÃO: pagar el sueldo/pagar salarios
+发薪日 | TRADUÇÃO: día de cobro/día de pago
+发虚 | TRADUÇÃO: sentirse débil/estar falto de confianza/inseguro
+发号施令 | TRADUÇÃO: dar órdenes y mandatos (modismo)/mandar a diestra y siniestra
+发行 | TRADUÇÃO: publicar/emitir/lanzar/distribuir
+发行人 | TRADUÇÃO: editor/emisor
+发行备忘录 | TRADUÇÃO: folleto de emisión (para oferta pública de acciones)/memorando de publicación
+发行商 | TRADUÇÃO: editor/distribuidor/emisor
+发行红利股 | TRADUÇÃO: emisión de acciones gratuitas (forma de pago de dividendos)/emisión de bonificación
+发行额 | TRADUÇÃO: tirada (de una publicación periódica)/volumen de emisión
+发表 | TRADUÇÃO: publicar/emitir/declarar/dar a conocer
+发表会 | TRADUÇÃO: rueda de prensa/ceremonia de presentación/lanzamiento (de un producto)/desfile (de moda)/recital/presentación pública
+发表演讲 | TRADUÇÃO: pronunciar un discurso/dar un discurso
+发觉 | TRADUÇÃO: percatarse/darse cuenta de/detectar/percibir
+发言 | TRADUÇÃO: hacer uso de la palabra/hablar/declaración/intervención/CL:個|个
+发言人 | TRADUÇÃO: portavoz/vocero
+发言权 | TRADUÇÃO: derecho a hablar/derecho a expresar la opinión/voz y voto
+发誓 | TRADUÇÃO: jurar/hacer un voto/prometer solemnemente
+发语词 | TRADUÇÃO: palabra inicial/partícula inicial de función gramatical auxiliar en chino clásico
+发语辞 | TRADUÇÃO: partícula auxiliar literaria que se sitúa al principio de una oración
+发财 | TRADUÇÃO: hacerse rico/enriquecerse/prosperar económicamente
+发财树 | TRADUÇÃO: pachira acuática/árbol del dinero (Pachira aquatica)
+发财致富 | TRADUÇÃO: enriquecerse/alcanzar la riqueza/prosperar
+发财车 | TRADUÇÃO: (Taiwán) furgoneta pequeña/camioneta Kei/camión utilitario pequeño
+发货 | TRADUÇÃO: despachar mercancías/enviar mercancías/hacer el envío
+发贴 | TRADUÇÃO: pegar algo en la pared/publicar (en un tablón de anuncios o sitio web)
+发起 | TRADUÇÃO: iniciar/promover/lanzar (un ataque, una iniciativa, etc.)/proponer por primera vez
+发起人 | TRADUÇÃO: promotor/iniciador/miembro fundador/propulsor
+发足 | TRADUÇÃO: (literario) partir a pie/echar a andar
+发迹 | TRADUÇÃO: abrirse camino/prosperar/hacer fortuna/alcanzar el éxito
+发车 | TRADUÇÃO: salida (de un autobús o tren)/despachar un vehículo
+发轫 | TRADUÇÃO: poner en marcha/iniciar/comienzo/origen
+发软 | TRADUÇÃO: debilitarse/aflojarse las piernas
+发送 | TRADUÇÃO: transmitir/enviar/despachar/expedir (un documento oficial)
+发送器 | TRADUÇÃO: transmisor/emisor
+发运 | TRADUÇÃO: despachar mercancías/embarque/expedición/envío
+发达 | TRADUÇÃO: bien desarrollado/floreciente/desarrollar/promover/expandir/(literario) alcanzar fama y fortuna/prosperar
+发达国 | TRADUÇÃO: país desarrollado
+发达国家 | TRADUÇÃO: país desarrollado
+发达地区 | TRADUÇÃO: región desarrollada/zona desarrollada
+发配 | TRADUÇÃO: desterrar a cumplir condena penal/deportar
+发酒疯 | TRADUÇÃO: ponerse agresivo o descontrolado por el alcohol/estar borracho y desvariar
+发酵 | TRADUÇÃO: fermentar/(fig.) fermentar (emociones, acontecimientos)/gestarse
+发难 | TRADUÇÃO: alzarse en armas/sublevarse/formular preguntas difíciles o comprometedoras
+发电 | TRADUÇÃO: generar electricidad/enviar un telegrama
+发电厂 | TRADUÇÃO: central eléctrica/planta eléctrica
+发电机 | TRADUÇÃO: generador eléctrico/dinamo
+发电站 | TRADUÇÃO: central eléctrica/estación generadora
+发电量 | TRADUÇÃO: producción eléctrica/capacidad de generación
+发霉 | TRADUÇÃO: enmohecerse/mohecer
+发音 | TRADUÇÃO: pronunciar/pronunciación/emitir sonido
+发音器官 | TRADUÇÃO: órganos fonatorios/cuerdas vocales
+发音体 | TRADUÇÃO: cuerpo emisor de sonido (caja de resonancia, cuerda vibrante, etc.)
+发愿 | TRADUÇÃO: hacer un voto/formular un deseo solemne
+发颤 | TRADUÇÃO: temblar/tiritar/estremecerse
+发飘 | TRADUÇÃO: sentirse tambaleante/sentirse flojo o inestable
+发飙 | TRADUÇÃO: perder el control/montar en cólera/estallar en furia
+发骚 | TRADUÇÃO: cachondo/lascivo/estar caliente
+发面 | TRADUÇÃO: fermentar la masa/leudar la masa/hacer pan
+发麻 | TRADUÇÃO: sentirse entumecido/adormecerse (una extremidad)
+白 | TRADUÇÃO: apellido Bai/etnia Bai ‖ blanco/nevado/puro/claro/vacío/en blanco/gratis/en vano/reaccionario/anticomunista/funeral/mirar con desdén/escribir un carácter erróneo/declarar/explicar/vernáculo/parlamento en la ópera china
+白丁 | TRADUÇÃO: (literario) plebeyo/persona iletrada (en la antigüedad, quien no había aprobado los exámenes oficiales)/(antiguo) conscripto temporal
+白三烯 | TRADUÇÃO: leucotrieno (bioquímica)
+白乳胶 | TRADUÇÃO: pegamento blanco/cola blanca
+白干儿 | TRADUÇÃO: aguardiente blanco/licor fuerte de arroz
+白事 | TRADUÇÃO: funeral/explicar (literario)
+白人 | TRADUÇÃO: persona blanca/caucásico
+白令海 | TRADUÇÃO: mar de Bering
+白令海峡 | TRADUÇÃO: estrecho de Bering (entre Siberia y Alaska)
+白住 | TRADUÇÃO: vivir (en algún lugar) gratis/alojarse sin pagar
+白俄 | TRADUÇÃO: Bielorrusia/abrev. de 白俄羅斯|白俄罗斯
+白俄罗斯 | TRADUÇÃO: Bielorrusia
+白俄罗斯人 | TRADUÇÃO: bielorruso (persona)
+白兀鹫 | TRADUÇÃO: (especie de ave de China) alimoche común (Neophron percnopterus)
+白先勇 | TRADUÇÃO: Bai Xianyong (1937-), novelista chino-taiwanés-estadounidense de etnia hui
+白兔 | TRADUÇÃO: conejo blanco/(fig.) (jerga) pecho femenino
+白内障 | TRADUÇÃO: catarata (oftalmología)
+白冠噪鹛 | TRADUÇÃO: (especie de ave de China) charlatán crestiblanco (Garrulax leucolophus)
+白冠攀雀 | TRADUÇÃO: (especie de ave de China) pájaro moscón coronado (Remiz coronatus)
+白冠燕尾 | TRADUÇÃO: (especie de ave de China) torrentero coroniblanco (Enicurus leschenaulti)
+白冠长尾雉 | TRADUÇÃO: (especie de ave de China) faisán venerado (Syrmaticus reevesii)
+白冰冰 | TRADUÇÃO: Pai Ping-ping (conocida artista y presentadora taiwanesa)
+白刃 | TRADUÇÃO: arma blanca desenvainada/espada desnuda
+白刃战 | TRADUÇÃO: combate cuerpo a cuerpo/combate a bayoneta
+白切鸡 | TRADUÇÃO: pollo cocido al estilo cantonés ("pollo cortado en blanco")
+白化病 | TRADUÇÃO: albinismo
+白化症 | TRADUÇÃO: albinismo
+白匪 | TRADUÇÃO: bandidos blancos (término despectivo para las tropas nacionalistas del KMT)
+白区 | TRADUÇÃO: zona blanca (zona controlada por el Kuomintang durante la Segunda Guerra Revolucionaria 1927-1937)
+白卷 | TRADUÇÃO: examen en blanco/hoja de examen en blanco
+白口铁 | TRADUÇÃO: arrabio blanco/fundición blanca
+白吃 | TRADUÇÃO: comer gratis/comer de gorra/comer sin pagar
+白吃白喝 | TRADUÇÃO: comer y beber de gorra/gorrón
+白名单 | TRADUÇÃO: lista blanca
+白唇鹿 | TRADUÇÃO: ciervo de hocico blanco (Cervus albirostris)
+白喉 | TRADUÇÃO: difteria
+白喉冠鹎 | TRADUÇÃO: (especie de ave de China) bulbul gorgiclaro (Alophoixus pallidus)
+白喉噪鹛 | TRADUÇÃO: (especie de ave de China) charlatán gorgiblanco (Pterorhinus albogularis)
+白喉姬鹟 | TRADUÇÃO: (especie de ave de China) papamoscas gorgiblanco (Anthipes monileger)
+白喉扇尾鹟 | TRADUÇÃO: (especie de ave de China) abanico gorgiblanco (Rhipidura albicollis)
+白喉斑秧鸡 | TRADUÇÃO: (especie de ave de China) cotarita de patas grises (Rallina eurizonoides)
+白喉林莺 | TRADUÇÃO: (especie de ave de China) curruca zarcerilla (Curruca curruca)
+白喉林鹟 | TRADUÇÃO: (especie de ave de China) papamoscas pechipardo (Cyornis brunneatus)
+白喉杆菌 | TRADUÇÃO: bacilo de Klebs-Löffler (bacteria de la difteria)
+白喉毒素 | TRADUÇÃO: toxina diftérica
+白喉犀鸟 | TRADUÇÃO: (especie de ave de China) cálao pardo de Austen (Anorrhinus austeni)
+白喉短翅鸫 | TRADUÇÃO: (especie de ave de China) alicorto chico (Brachypteryx leucophris)
+白喉石䳭 | TRADUÇÃO: (especie de ave de China) tarabilla de Hodgson (Saxicola insignis)
+白喉矶鸫 | TRADUÇÃO: (especie de ave de China) roquero gorgiblanco (Monticola gularis)
+白喉红尾鸲 | TRADUÇÃO: (especie de ave de China) colirrojo gorgiblanco (Phoenicurus schisticeps)
+白喉红臀鹎 | TRADUÇÃO: (especie de ave de China) bulbul pechidorado (Pycnonotus aurigaster)
+白喉针尾雨燕 | TRADUÇÃO: (especie de ave de China) vencejo espinoso mongol (Hirundapus caudacutus)
+白嘴端凤头燕鸥 | TRADUÇÃO: (especie de ave de China) charrán patinegro (Thalasseus sandvicensis)
+白噪声 | TRADUÇÃO: ruido blanco
+白城 | TRADUÇÃO: véase 白城市
+白城市 | TRADUÇÃO: Baicheng, ciudad-prefectura en la provincia de Jilin 吉林省
+白垩 | TRADUÇÃO: creta/greda
+白垩世 | TRADUÇÃO: Cretácico (período geológico de hace 140-65 millones de años)
+白垩纪 | TRADUÇÃO: Cretácico (período geológico de hace 140-65 millones de años)
+白报纸 | TRADUÇÃO: papel prensa/papel de periódico
+白塔 | TRADUÇÃO: véase 白塔區|白塔区
+白塔区 | TRADUÇÃO: Baita, distrito de la ciudad de Liaoyang 遼陽市|辽阳市, Liaoning
+白塔寺 | TRADUÇÃO: templo Baita en Lanzhou 蘭州|兰州
+白夜 | TRADUÇÃO: noche blanca
+白大衣高血压 | TRADUÇÃO: hipertensión de bata blanca/síndrome de la bata blanca
+白大褂 | TRADUÇÃO: bata blanca de laboratorio (usada por médicos y personal sanitario)/(metonimia) médico/profesional sanitario
+白天 | TRADUÇÃO: día/durante el día/de día/CL:個|个
+白奴 | TRADUÇÃO: esclavo blanco/(neologismo de las décadas de 2000-2010) esclavo de cuello blanco (empleado de oficina sobreexplotado)
+白嫖 | TRADUÇÃO: ir con prostitutas sin pagar/(jerga) consumir un servicio o contenido sin pagar/gorronear
+白嫩 | TRADUÇÃO: (de la piel) blanca y tersa/blanca y delicada
+白子 | TRADUÇÃO: ficha blanca de Go/pupa de abeja/albino
+白字 | TRADUÇÃO: carácter chino mal escrito o mal pronunciado en lugar de otro
+白宫 | TRADUÇÃO: Casa Blanca
+白宫群英 | TRADUÇÃO: El ala oeste de la Casa Blanca (serie de televisión de EE. UU.)
+白富美 | TRADUÇÃO: "mujer ideal" (de piel clara, rica y hermosa) (jerga de internet)
+白尾地鸦 | TRADUÇÃO: (especie de ave de China) arrendajo terrestre de Xinjiang (Podoces biddulphi)
+白尾梢虹雉 | TRADUÇÃO: (especie de ave de China) lofóforo de Sclater (Lophophorus sclateri)
+白尾海雕 | TRADUÇÃO: (especie de ave de China) pigargo europeo (Haliaeetus albicilla)
+白尾蓝仙鹟 | TRADUÇÃO: (especie de ave de China) papamoscas coliblanco (Leucoptilon concretum)
+白尾蓝地鸲 | TRADUÇÃO: (especie de ave de China) ruiseñor coliazul (Myiomela leucura)
+白尾䴓 | TRADUÇÃO: (especie de ave de China) trepador coliblanco (Sitta himalayensis)
+白尾鹞 | TRADUÇÃO: (especie de ave de China) aguilucho pálido (Circus cyaneus)
+白尾鹲 | TRADUÇÃO: (especie de ave de China) rabijunco menor (Phaethon lepturus)
+白居易 | TRADUÇÃO: Bai Juyi (772-846), poeta de la dinastía Tang
+白屈菜 | TRADUÇÃO: celidonia mayor (Chelidonium majus)
+白山 | TRADUÇÃO: véase 白山市
+白山宗 | TRADUÇÃO: secta sufí del islam en Asia Central
+白山市 | TRADUÇÃO: Baishan, ciudad-prefectura en la provincia de Jilin 吉林省
+白山派 | TRADUÇÃO: secta sufí del islam en Asia Central
+白崇禧 | TRADUÇÃO: Bai Chongxi (1893-1966), líder de la facción de señores de la guerra de Guangxi y destacado general nacionalista
+白左 | TRADUÇÃO: "izquierda blanca" (neologismo de 2015 que designa a los progresistas o liberales occidentales ingenuos e hipócritas)
+白巧 | TRADUÇÃO: chocolate blanco (abrev. de 白巧克力)
+白巧克力 | TRADUÇÃO: chocolate blanco
+白布 | TRADUÇÃO: tela blanca de algodón/calicó
+白帝城 | TRADUÇÃO: ciudad de Baidi en Chongqing 重慶|重庆, al norte del río Yangtsé
+白带 | TRADUÇÃO: leucorrea/flujo blanco
+白带鱼 | TRADUÇÃO: pez sable (Trichiurus lepturus)
+白平衡 | TRADUÇÃO: (fotografía) balance de blancos
+白厅 | TRADUÇÃO: Whitehall (Londres)
+白手套 | TRADUÇÃO: guante blanco/(fig.) (jerga) testaferro/intermediario en negociaciones o corruptelas encubiertas
+白手起家 | TRADUÇÃO: empezar de cero (modismo)/forjar una fortuna sin ayuda ni recursos iniciales
+白托 | TRADUÇÃO: centro de día para ancianos (abrev. de 白天托管)/cegado por la codicia/estafador (homófono de 拜託|拜托)
+白扯淡 | TRADUÇÃO: (coloq.) hablar tonterías/decir disparates
+白扯蛋 | TRADUÇÃO: variante de 白扯淡
+白拣 | TRADUÇÃO: ganga/conseguir algo gratis sin esfuerzo
+白描 | TRADUÇÃO: dibujo lineal en estilo tradicional de tinta y pincel/estilo de escritura sencillo y directo
+白搭 | TRADUÇÃO: inútil/de nada sirve/no servir para nada
+白文 | TRADUÇÃO: texto original sin notas de un libro/edición sin comentarios de un libro/caracteres grabados en hueco (en un sello)
+白斑尾柳莺 | TRADUÇÃO: (especie de ave de China) mosquitero de Kloss (Phylloscopus ogilviegranti)
+白斑病 | TRADUÇÃO: vitíligo
+白斑症 | TRADUÇÃO: vitíligo
+白斑翅雪雀 | TRADUÇÃO: (especie de ave de China) gorrión alpino común (Montifringilla nivalis)
+白斑军舰鸟 | TRADUÇÃO: (especie de ave de China) rabihorcado chico (Fregata ariel)
+白斑黑石䳭 | TRADUÇÃO: (especie de ave de China) tarabilla pía (Saxicola caprata)
+白斩鸡 | TRADUÇÃO: pollo cocido al estilo cantonés ("pollo cortado en blanco")
+白旄黄钺 | TRADUÇÃO: estandarte blanco y hacha de batalla dorada (modismo); expedición militar/mando supremo del ejército
+白族 | TRADUÇÃO: grupo étnico Bai
+白旗 | TRADUÇÃO: bandera blanca
+白日 | TRADUÇÃO: pleno día/el sol/el tiempo
+白日做梦 | TRADUÇÃO: soñar despierto/hacerse vanas ilusiones
+白日梦 | TRADUÇÃO: ensueño/sueño despierto/fantasía
+白昼 | TRADUÇÃO: el día/las horas diurnas
+白晓燕 | TRADUÇÃO: Pai Hsiao-yen (hija de Pai Ping-ping)
+白月光 | TRADUÇÃO: (jerga) el amor imposible e inolvidable/el primer amor platónico que nunca se olvida
+白朗 | TRADUÇÃO: véase 白朗縣|白朗县
+白朗县 | TRADUÇÃO: Bainang, condado de la ciudad de Shigatse 日喀則市|日喀则市, Tíbet
+白木耳 | TRADUÇÃO: oreja blanca (Tremella fuciformis)/hongo de nieve
+白术 | TRADUÇÃO: rizoma de atractilodes grande (Atractylodes macrocephala)
+白板 | TRADUÇÃO: pizarra blanca/tabula rasa/tabla rasa
+白板笔 | TRADUÇÃO: rotulador de pizarra blanca/marcador borrable
+白枕鹤 | TRADUÇÃO: (especie de ave de China) grulla cuelliblanca (Antigone vipio)
+白果 | TRADUÇÃO: ginkgo (fruto o semilla)
+白条 | TRADUÇÃO: pagaré informal/recibo provisional de deuda
+白棉纸 | TRADUÇÃO: papel de estarcir/papel de seda de algodón
+白杨 | TRADUÇÃO: álamo/CL:棵
+白杨树 | TRADUÇÃO: álamo blanco (Populus bonatii)
+白榴石 | TRADUÇÃO: leucita
+白朴 | TRADUÇÃO: Bai Pu (1226-1306), dramaturgo de la dinastía Yuan, uno de los cuatro grandes dramaturgos del Yuan 元曲四大家
+白僵蚕 | TRADUÇÃO: larva de gusano de seda infectada con Beauveria bassiana (usada en MTC)
+白毛 | TRADUÇÃO: pelo blanco (de animales)/véase también 白髮|白发
+白毛女 | TRADUÇÃO: La chica de los cabellos blancos (1950), una de las primeras películas de la RPC
+白水 | TRADUÇÃO: véase 白水縣|白水县 ‖ agua pura/agua hervida
+白水晶 | TRADUÇÃO: cristal de roca/cuarzo hialino
+白水江自然保护区 | TRADUÇÃO: Reserva Natural de Baishuijiang, Gansu
+白水泥 | TRADUÇÃO: cemento blanco
+白水县 | TRADUÇÃO: Baishui, condado de la ciudad de Weinan 渭南市, Shaanxi
+白求恩 | TRADUÇÃO: Norman Bethune (1890-1939), médico canadiense que colaboró con las brigadas internacionales y con Mao en Yan'an
+白沙 | TRADUÇÃO: Baisha (nombre común de lugar)/condado autónomo de Baisha Li, Hainan/municipio de Baisha en el condado de Penghu 澎湖縣|澎湖县, Taiwán
+白沙瓦 | TRADUÇÃO: Peshawar, ciudad del norte de Pakistán
+白沙县 | TRADUÇÃO: condado autónomo de Baisha Li, Hainan
+白沙乡 | TRADUÇÃO: municipio de Baisha en el condado de Penghu 澎湖縣|澎湖县, Taiwán
+白沙黎族自治县 | TRADUÇÃO: condado autónomo de Baisha Li, Hainan
+白沫 | TRADUÇÃO: espuma/espumarajo (por la boca)
+白河 | TRADUÇÃO: condado de Baihe en Ankang 安康, Shaanxi/municipio de Baihe en el condado de Tainan 台南縣|台南县, Taiwán
+白河县 | TRADUÇÃO: Baihe, condado de la ciudad de Ankang 安康市, Shaanxi
+白洋淀 | TRADUÇÃO: lago Baiyangdian en Hebei
+白洞 | TRADUÇÃO: agujero blanco (cosmología)
+白活 | TRADUÇÃO: malgastar la vida/vivir en vano/no aprovechar la vida
+白海 | TRADUÇÃO: mar Blanco
+白净 | TRADUÇÃO: (de la piel) blanca y tersa/limpia y clara
+白汤 | TRADUÇÃO: sopa clara/caldo blanco, también llamado 奶湯|奶汤/decocción medicinal de hierbas
+白泽 | TRADUÇÃO: Bai Ze (bestia mítica de la antigua China capaz de hablar y conocer a todos los espíritus)
+白浊 | TRADUÇÃO: gonorrea (término de MTC)/más comúnmente llamada 淋病
+白灼 | TRADUÇÃO: escalfar/blanquear en agua hirviendo (rebanadas finas de carne o verdura)
+白煤 | TRADUÇÃO: antracita/carbón blanco/energía hidráulica
+白熊 | TRADUÇÃO: oso polar/oso blanco
+白热 | TRADUÇÃO: calor blanco/incandescencia
+白热化 | TRADUÇÃO: volverse incandescente/intensificarse al máximo/llegar al punto culminante
+白炽 | TRADUÇÃO: incandescente/al rojo blanco
+白炽灯 | TRADUÇÃO: lámpara incandescente/bombilla incandescente
+白烂 | TRADUÇÃO: (jerga) estúpido/ridículo/absurdo
+白牌 | TRADUÇÃO: (de un producto) sin marca/marca blanca
+白狐 | TRADUÇÃO: zorro ártico
+白玄鸥 | TRADUÇÃO: (especie de ave de China) charrán blanco (Gygis alba)
+白玉 | TRADUÇÃO: véase 白玉縣|白玉县 ‖ jade blanco/tofu (por analogía)
+白玉县 | TRADUÇÃO: Baiyü, condado de la prefectura autónoma tibetana de Garzê 甘孜藏族自治州, Sichuan
+白玉菇 | TRADUÇÃO: seta shimeji blanca (variedad cultivada blanca de Hypsizygus tessellatus)
+白班 | TRADUÇÃO: turno de día
+白班儿 | TRADUÇÃO: turno de día
+白琵鹭 | TRADUÇÃO: (especie de ave de China) espátula común (Platalea leucorodia)
+白璧微瑕 | TRADUÇÃO: leve defecto en una joya preciosa (modismo); pequeña mancha o imperfección en algo casi perfecto
+白璧无瑕 | TRADUÇÃO: impecable e intachable (modismo)/integridad moral intachable
+白瓷 | TRADUÇÃO: porcelana blanca (blanc de Chine)
+白痢 | TRADUÇÃO: disentería con mucosidad blanca/diarrea blanca
+白痴 | TRADUÇÃO: idiota/idiotez/estúpido
+白癜风 | TRADUÇÃO: vitíligo
+白白 | TRADUÇÃO: en vano/inútilmente/gratis/blanco
+白皙 | TRADUÇÃO: (de la tez o piel) blanca y sonrosada/de tez muy clara
+白皮书 | TRADUÇÃO: libro blanco
+白皮杉醇 | TRADUÇÃO: piceatanol C14H12O4
+白皮松 | TRADUÇÃO: pino de corteza blanca (Pinus bungeana)
+白皮猪 | TRADUÇÃO: (despectivo) cerdo blanco/persona blanca
+白目 | TRADUÇÃO: (jerga) indiscreto/insensato/metepatas/estúpido
+白相人 | TRADUÇÃO: (dialectal) pillo/granuja/matón
+白眉地鸫 | TRADUÇÃO: (especie de ave de China) zorzal siberiano (Geokichla sibirica)
+白眉姬鹟 | TRADUÇÃO: (especie de ave de China) papamoscas narciso de lomo amarillo (Ficedula zanthopygia)
+白眉山雀 | TRADUÇÃO: (especie de ave de China) carbonero cejiblanco (Poecile superciliosus)
+白眉山鹧鸪 | TRADUÇÃO: (especie de ave de China) arroyera de cuello blanco (Arborophila gingica)
+白眉扇尾鹟 | TRADUÇÃO: (especie de ave de China) abanico cejiblanco (Rhipidura aureola)
+白眉拳 | TRADUÇÃO: Bak Mei (boxeo de la ceja blanca, arte marcial chino)
+白眉林鸲 | TRADUÇÃO: (especie de ave de China) coliazul cejiblanco (Tarsiger indicus)
+白眉棕啄木鸟 | TRADUÇÃO: (especie de ave de China) picolete cejiblanco (Sasia ochracea)
+白眉歌鸫 | TRADUÇÃO: (especie de ave de China) zorzal alirrojo (Turdus iliacus)
+白眉秧鸡 | TRADUÇÃO: (especie de ave de China) polluela cejiblanca (Porzana cinerea)
+白眉蓝姬鹟 | TRADUÇÃO: (especie de ave de China) papamoscas ultramarino (Ficedula superciliaris)
+白眉赤眼 | TRADUÇÃO: sin motivo alguno (modismo)/de repente y sin razón
+白眉雀鹛 | TRADUÇÃO: (especie de ave de China) fulveta cejiblanca (Fulvetta vinipectus)
+白眉鸭 | TRADUÇÃO: (especie de ave de China) cerceta carretona (Spatula querquedula)
+白眉鹀 | TRADUÇÃO: (especie de ave de China) escribano de Tristram (Emberiza tristrami)
+白眉鸫 | TRADUÇÃO: (especie de ave de China) zorzal oscuro (Turdus obscurus)
+白眶斑翅鹛 | TRADUÇÃO: (especie de ave de China) fanipero de anteojos (Actinodura ramsayi)
+白眶雀鹛 | TRADUÇÃO: (especie de ave de China) fulveta de Nepal (Alcippe nipalensis)
+白眶鸦雀 | TRADUÇÃO: (especie de ave de China) picoloro de anteojos (Suthora conspicillata)
+白眶鹟莺 | TRADUÇÃO: (especie de ave de China) mosquitero de anteojos (Phylloscopus intermedius)
+白眼 | TRADUÇÃO: mirar con desdén/mirar de reojo con desprecio/mirada desdeñosa
+白眼河燕 | TRADUÇÃO: (especie de ave de China) avión ribereño asiático (Pseudochelidon sirintarae)
+白眼狼 | TRADUÇÃO: desagradecido/persona ingrata y desalmada
+白眼珠 | TRADUÇÃO: el blanco del ojo/esclerótica
+白眼珠儿 | TRADUÇÃO: variante con erhua de 白眼珠
+白眼𫛭鹰 | TRADUÇÃO: (especie de ave de China) busardo de ojos blancos (Butastur teesa)
+白瞎 | TRADUÇÃO: (dialectal) desperdiciar (esfuerzo, dinero, etc.)/echar a perder
+白矮星 | TRADUÇÃO: enana blanca
+白石砬子 | TRADUÇÃO: Reserva Natural Nacional de Baishilazi en Kuandian 寬甸|宽甸, Liaoning
+白砂糖 | TRADUÇÃO: azúcar blanco granulado
+白砒 | TRADUÇÃO: arsénico blanco/trióxido de arsénico
+白碑 | TRADUÇÃO: estela sin inscripción/monumento en blanco
+白磷 | TRADUÇÃO: fósforo blanco
+白矾 | TRADUÇÃO: alumbre
+白票 | TRADUÇÃO: voto en blanco/abstención
+白秋沙鸭 | TRADUÇÃO: (especie de ave de China) serreta chica (Mergellus albellus)
+白种 | TRADUÇÃO: la raza blanca
+白米 | TRADUÇÃO: arroz blanco/arroz pulido
+白米饭 | TRADUÇÃO: arroz blanco cocido
+白粉 | TRADUÇÃO: polvos faciales/polvo de tiza/heroína
+白粉病 | TRADUÇÃO: oídio (enfermedad fúngica de las plantas)
+白粥 | TRADUÇÃO: arroz caldoso blanco/congee blanco sencillo
+白糖 | TRADUÇÃO: azúcar blanco refinado
+白纹伊蚊 | TRADUÇÃO: mosquito tigre asiático (Aedes albopictus)
+白纸黑字 | TRADUÇÃO: (escrito) en blanco y negro/por escrito de forma fehaciente
+白素贞 | TRADUÇÃO: Bai Suzhen (personaje legendario femenino de la Leyenda de la Serpiente Blanca)
+白细胞 | TRADUÇÃO: glóbulo blanco/leucocito
+白线 | TRADUÇÃO: línea blanca (marcas viales)
+白线斑蚊 | TRADUÇÃO: mosquito tigre asiático (Aedes albopictus)
+白罗斯 | TRADUÇÃO: Bielorrusia
+白羊 | TRADUÇÃO: Aries (signo del zodiaco)
+白羊座 | TRADUÇÃO: Aries (constelación y signo del zodiaco)
+白羊朝 | TRADUÇÃO: dinastía Ak Koyunlu (confederación túrquica del carnero blanco en Irán c. 1378-1500)
+白翅交嘴雀 | TRADUÇÃO: (especie de ave de China) piquituerto aliblanco (Loxia leucoptera)
+白翅啄木鸟 | TRADUÇÃO: (especie de ave de China) pico aliblanco (Dendrocopos leucopterus)
+白翅拟蜡嘴雀 | TRADUÇÃO: (especie de ave de China) picogordo aliblanco (Mycerobas carnipes)
+白翅浮鸥 | TRADUÇÃO: (especie de ave de China) fumarel aliblanco (Chlidonias leucopterus)
+白翅百灵 | TRADUÇÃO: (especie de ave de China) calandria aliblanca (Melanocorypha leucoptera)
+白翅蓝鹊 | TRADUÇÃO: (especie de ave de China) urraca aliblanca (Urocissa whiteheadi)
+白翎岛 | TRADUÇÃO: isla de Baengnyeong (Corea del Sur, cerca de la Línea de Límite Norte)
+白翎面 | TRADUÇÃO: municipio de Baengnyeong (Corea del Sur)/véase también 白翎島|白翎岛
+白翳 | TRADUÇÃO: opacidad corneal (en MTC)/leucoma/catarata
+白耳奇鹛 | TRADUÇÃO: (especie de ave de China) sibia orejiblanca (Heterophasia auricularis)
+白肉 | TRADUÇÃO: carne de cerdo cocida sin sazonar/carne blanca (pescado, ave, etc.)
+白肩雕 | TRADUÇÃO: (especie de ave de China) águila imperial oriental (Aquila heliaca)
+白肩黑鹮 | TRADUÇÃO: (especie de ave de China) ibis de Davison (Pseudibis davisoni)
+白背兀鹫 | TRADUÇÃO: (especie de ave de China) buitre dorsiblanco bengalí (Gyps bengalensis)
+白背啄木鸟 | TRADUÇÃO: (especie de ave de China) pico dorsiblanco (Dendrocopos leucotos)
+白背矶鸫 | TRADUÇÃO: (especie de ave de China) roquero rojo (Monticola saxatilis)
+白胡椒 | TRADUÇÃO: pimienta blanca
+白胸翡翠 | TRADUÇÃO: (especie de ave de China) alción esmirnense (Halcyon smyrnensis)
+白胸苦恶鸟 | TRADUÇÃO: (especie de ave de China) gallineta pechiblanca (Amaurornis phoenicurus)
+白胸鸦雀 | TRADUÇÃO: (especie de ave de China) picoloro pechiblanco (Paradoxornis ruficeps)
+白脱 | TRADUÇÃO: mantequilla (préstamo del inglés)
+白脱牛奶 | TRADUÇÃO: suero de mantequilla/mazada
+白腰叉尾海燕 | TRADUÇÃO: (especie de ave de China) paíño boreal (Hydrobates leucorhous)
+白腰文鸟 | TRADUÇÃO: (especie de ave de China) capuchino culiblanco (Lonchura striata)
+白腰朱顶雀 | TRADUÇÃO: (especie de ave de China) pardillo piquigualdo (Acanthis flammea)
+白腰杓鹬 | TRADUÇÃO: (especie de ave de China) zarapito real (Numenius arquata)
+白腰滨鹬 | TRADUÇÃO: (especie de ave de China) correlimos culiblanco (Calidris fuscicollis)
+白腰燕鸥 | TRADUÇÃO: (especie de ave de China) charrán aleutiano (Onychoprion aleuticus)
+白腰草鹬 | TRADUÇÃO: (especie de ave de China) andarríos grande (Tringa ochropus)
+白腰雪雀 | TRADUÇÃO: (especie de ave de China) gorrión de Taczanowski (Onychostruthus taczanowskii)
+白腰鹊鸲 | TRADUÇÃO: (especie de ave de China) shama culiblanca (Copsychus malabaricus)
+白腹姬鹟 | TRADUÇÃO: (especie de ave de China) papamoscas azul y blanco (Cyanoptila cyanomelana)
+白腹幽鹛 | TRADUÇÃO: (especie de ave de China) tordina gorgimoteada (Pellorneum albiventre)
+白腹毛脚燕 | TRADUÇÃO: (especie de ave de China) avión siberiano (Delichon lagopodum)
+白腹海雕 | TRADUÇÃO: (especie de ave de China) pigargo vientriblanco (Icthyophaga leucogaster)
+白腹短翅鸲 | TRADUÇÃO: (especie de ave de China) alicorto ventriblanco (Luscinia phaenicuroides)
+白腹军舰鸟 | TRADUÇÃO: (especie de ave de China) rabihorcado de la Christmas (Fregata andrewsi)
+白腹锦鸡 | TRADUÇÃO: (especie de ave de China) faisán de Lady Amherst (Chrysolophus amherstiae)
+白腹隼雕 | TRADUÇÃO: (especie de ave de China) águila azor perdicera (Aquila fasciata)
+白腹凤鹛 | TRADUÇÃO: (especie de ave de China) yuhina ventriblanca (Erpornis zantholeuca)
+白腹鸫 | TRADUÇÃO: (especie de ave de China) zorzal pálido (Turdus pallidus)
+白腹鹞 | TRADUÇÃO: (especie de ave de China) aguilucho moteado (Circus spilonotus)
+白腹鹭 | TRADUÇÃO: (especie de ave de China) garza imperial ventriblanca (Ardea insignis)
+白腹黑啄木鸟 | TRADUÇÃO: (especie de ave de China) picamaderos ventriblanco (Dryocopus javensis)
+白腿小隼 | TRADUÇÃO: (especie de ave de China) falconete pío (Microhierax melanoleucos)
+白脸 | TRADUÇÃO: cara pintada de blanco/personaje con maquillaje facial blanco en la ópera tradicional china
+白脸䴓 | TRADUÇÃO: (especie de ave de China) trepador de Przewalski (Sitta przewalskii)
+白脸鹭 | TRADUÇÃO: (especie de ave de China) garza cariblanca (Egretta novaehollandiae)
+白色 | TRADUÇÃO: blanco/(fig.) reaccionario/anticomunista
+白色人种 | TRADUÇÃO: la raza blanca
+白色家电 | TRADUÇÃO: electrodomésticos de línea blanca (frigoríficos, lavadoras, etc.)
+白色恐怖 | TRADUÇÃO: Terror Blanco
+白色情人节 | TRADUÇÃO: Día Blanco (14 de marzo)
+白色战剂 | TRADUÇÃO: agente blanco (herbicida militar)
+白色体 | TRADUÇÃO: leucoplasto
+白芍 | TRADUÇÃO: raíz de peonía blanca (Paeonia lactiflora, usada en MTC)
+白花花 | TRADUÇÃO: blanco resplandeciente/blanquísimo
+白花蛇 | TRADUÇÃO: víbora hocicuda china (Agkistrodon acutus)
+白花蛇舌草 | TRADUÇÃO: Hedyotis diffusa (planta medicinal)
+白芷 | TRADUÇÃO: angélica de Dahuria (Angelica dahurica)/raíz de angélica de Dahuria (usada en MTC)
+白茅 | TRADUÇÃO: carrizo blanco/imperata (Imperata cylindrica)
+白茫茫 | TRADUÇÃO: (de la niebla, nieve, etc.) una vasta extensión blanca/mar blanco resplandeciente
+白茶 | TRADUÇÃO: té blanco
+白苋 | TRADUÇÃO: amaranto blanco (Amaranthus albus)/hojas y brotes tiernos de espinaca china (Amaranthus spp.)
+白苋紫茄 | TRADUÇÃO: amaranto blanco y berenjena morada (modismo); comida sencilla y vida humilde sin pretensiones
+白菜 | TRADUÇÃO: col china (especialmente col de Pekín o napa, Brassica rapa subsp. pekinensis)/a veces usada para referirse al bok choy (Brassica rapa subsp. chinensis)/CL:棵
+白菜价 | TRADUÇÃO: (coloq.) precio regalado/precio tirado por los suelos/ganga
+白菜型油菜 | TRADUÇÃO: colza de tipo col china (Brassica rapa cultivada por sus hojas comestibles, aceite o abono verde)
+白菜豆 | TRADUÇÃO: alubias blancas/frijoles blancos
+白莲 | TRADUÇÃO: loto blanco (flor)/Sociedad del Loto Blanco/lo mismo que 白蓮教|白莲教
+白莲教 | TRADUÇÃO: secta del Loto Blanco/Sociedad del Loto Blanco
+白薯 | TRADUÇÃO: boniato/batata/camote
+白苏 | TRADUÇÃO: perilla común (Perilla frutescens)
+白蔹 | TRADUÇÃO: enredadera de raíz blanca (Ampelopsis japonica, con raíz usada en MTC)
+白兰地 | TRADUÇÃO: brandy (préstamo del inglés)
+白兰瓜 | TRADUÇÃO: melón blanco de Honeydew
+白萝卜 | TRADUÇÃO: rábano blanco/daikon (Raphanus sativus var. longipinnatus)
+白虎 | TRADUÇÃO: Tigre Blanco (una de las cuatro constelaciones cuadrangulares chinas)/(jerga) vulva lampiña
+白虎观 | TRADUÇÃO: Pabellón del Tigre Blanco (salón de palacio de la dinastía Han donde se celebraron las célebres discusiones de 白虎通德論|白虎通德论)
+白蛇传 | TRADUÇÃO: La leyenda de la serpiente blanca/Cuento de la serpiente blanca
+白蛉热 | TRADUÇÃO: fiebre por flebótomos/fiebre del papataci
+白蛋白 | TRADUÇÃO: albúmina
+白蚀症 | TRADUÇÃO: vitíligo
+白蚁 | TRADUÇÃO: termita/hormiga blanca
+白蜡 | TRADUÇÃO: cera blanca china (obtenida del insecto Ericerus pela)
+白蜡树 | TRADUÇÃO: fresno chino (Fraxinus chinensis, cuya corteza y hojas se usan en MTC)
+白蜡虫 | TRADUÇÃO: cochinilla de la cera blanca (Ericerus pela)
+白血球 | TRADUÇÃO: glóbulo blanco/leucocito
+白血病 | TRADUÇÃO: leucemia
+白行简 | TRADUÇÃO: Bai Xingjian (c. 776-826), novelista y poeta de la dinastía Tang, hermano menor de Bai Juyi 白居易 y autor de la novela Biografía de Li Wa 李娃傳|李娃传
+白衣天使 | TRADUÇÃO: "ángel de blanco" (término elogioso para una enfermera)
+白衣战士 | TRADUÇÃO: guerrero de blanco/personal médico y sanitario
+白衣苍狗 | TRADUÇÃO: nubes blancas que cambian a la forma de perro gris (modismo); lo impredecible y mudable de las cosas del mundo
+白话 | TRADUÇÃO: lengua vernácula/lenguaje hablado cotidiano
+白话文 | TRADUÇÃO: escritos en chino vernáculo/literatura vernácula
+白话诗 | TRADUÇÃO: verso libre en chino vernáculo
+白读 | TRADUÇÃO: pronunciación coloquial (en contraposición a la literaria) de un carácter chino
+白豆蔻 | TRADUÇÃO: cardamomo blanco (Elettaria cardamomum)
+白费 | TRADUÇÃO: malgastar/desperdiciar (energía, esfuerzo, etc.)
+白费唇舌 | TRADUÇÃO: gastar saliva en vano (modismo)/hablar para nada/perder el aliento
+白起 | TRADUÇÃO: Bai Qi (-258 a. C.), célebre general del estado de Qin 秦國|秦国, vencedor en la batalla de Changping 長平|长平/lo mismo que 公孫起|公孙起
+白跑一趟 | TRADUÇÃO: hacer un viaje en vano/ir para nada
+白军 | TRADUÇÃO: Ejército Blanco/Guardia Blanca o Movimiento Blanco (tropas anticomunistas en la Guerra Civil Rusa 1917-1922)
+白道 | TRADUÇÃO: (astronomía) órbita lunar/actividades legales y legítimas (en contraste con 黑道)/ciudadanía respetuosa de la ley
+白酒 | TRADUÇÃO: baijiu (licor destilado tradicional chino, habitualmente de sorgo)/(Taiwán) vino blanco (abrev. de 白葡萄酒)
+白醋 | TRADUÇÃO: vinagre blanco/vinagre común
+白金 | TRADUÇÃO: platino/plata/oro blanco/(Singapur) donativo funerario en efectivo
+白金汉宫 | TRADUÇÃO: Palacio de Buckingham
+白金汉郡 | TRADUÇÃO: Buckinghamshire (condado de Inglaterra)
+白银 | TRADUÇÃO: véase 白銀區|白银区/véase 白銀市|白银市 ‖ plata
+白银区 | TRADUÇÃO: Baiyin, distrito de la ciudad de Baiyin 白銀市|白银市, Gansu
+白银市 | TRADUÇÃO: Baiyin, ciudad-prefectura en la provincia de Gansu 甘肅省|甘肃省
+白银书 | TRADUÇÃO: libro valioso decorado con plata, oro y joyas (comúnmente usado como forma encubierta de soborno)
+白铜 | TRADUÇÃO: alpaca/cuproníquel/aleación de cobre y níquel
+白钢 | TRADUÇÃO: acero blanco/acero rápido
+白钨矿 | TRADUÇÃO: scheelita
+白铁 | TRADUÇÃO: hierro galvanizado/hojalata
+白镴 | TRADUÇÃO: peltre/aleación de estaño para soldadura
+白开水 | TRADUÇÃO: agua hervida simple/agua tibia sola
+白附 | TRADUÇÃO: acónito blanco
+白附片 | TRADUÇÃO: rodajas de acónito blanco procesado (usado en MTC)
+白陶 | TRADUÇÃO: cerámica blanca (de la dinastía Shang, siglos XVI-XI a. C.)
+白雪 | TRADUÇÃO: nieve blanca/nieve
+白雪公主 | TRADUÇÃO: Blancanieves
+白雪皑皑 | TRADUÇÃO: nieve blanca y resplandeciente (especialmente en las cumbres distantes)
+白云 | TRADUÇÃO: véase 白雲區|白云区 ‖ nube blanca
+白云区 | TRADUÇÃO: Baiyun, distrito de la ciudad de Cantón 廣州市|广州市, Guangdong/Baiyun, distrito de la ciudad de Guiyang 貴陽市|贵阳市, Guizhou
+白云岩 | TRADUÇÃO: dolomía (geología)
+白云机场 | TRADUÇÃO: Aeropuerto de Baiyun (Cantón)
+白云母 | TRADUÇÃO: moscovita/mica blanca
+白云石 | TRADUÇÃO: dolomita
+白云苍狗 | TRADUÇÃO: una nube blanca se transforma en un perro gris (modismo); los cambios impredecibles y constantes del mundo
+白云鄂博 | TRADUÇÃO: véase 白雲鄂博礦區|白云鄂博矿区
+白云鄂博矿区 | TRADUÇÃO: distrito minero de Bayan Obo, distrito de la ciudad de Baotou 包頭市|包头市, Mongolia Interior
+白电 | TRADUÇÃO: electrodomésticos de línea blanca (abrev. de 白色家電|白色家电)
+白霜 | TRADUÇÃO: escarcha blanca/helada
+白露 | TRADUÇÃO: Bailu o Rocío Blanco (15.º de los 24 períodos solares 二十四節氣|二十四节气, del 8 al 22 de septiembre)
+白面书生 | TRADUÇÃO: erudito de rostro pálido (modismo); joven sin experiencia práctica/intelectual inexperto
+白顶䳭 | TRADUÇÃO: (especie de ave de China) collalba pía (Oenanthe pleschanka)
+白顶溪鸲 | TRADUÇÃO: (especie de ave de China) colirrojo fluvial coroniblanco (Phoenicurus leucocephalus)
+白顶玄鸥 | TRADUÇÃO: (especie de ave de China) tiñosa común (Anous stolidus)
+白顶鹀 | TRADUÇÃO: (especie de ave de China) escribano de Stewart (Emberiza stewarti)
+白项凤鹛 | TRADUÇÃO: (especie de ave de China) yuhina nuquiblanca (Yuhina bakeri)
+白领 | TRADUÇÃO: de cuello blanco/oficinista/empleado administrativo
+白领八哥 | TRADUÇÃO: (especie de ave de China) miná acollarado (Acridotheres albocinctus)
+白领翡翠 | TRADUÇÃO: (especie de ave de China) alción acollarado (Todiramphus chloris)
+白领凤鹛 | TRADUÇÃO: (especie de ave de China) yuhina diademada (Parayuhina diademata)
+白头 | TRADUÇÃO: cabellera canosa/vejez
+白头偕老 | TRADUÇÃO: (modismo) llegar juntos a la vejez/vivir juntos hasta que el pelo encanezca (una pareja de casados)
+白头到老 | TRADUÇÃO: véase 白頭偕老|白头偕老
+白头山 | TRADUÇÃO: montaña Baekdu o Changbai 長白山|长白山 (cordillera volcánica entre la provincia de Jilin y Corea del Norte)
+白头海雕 | TRADUÇÃO: águila calva (Haliaeetus leucocephalus, ave nacional de los Estados Unidos)
+白头硬尾鸭 | TRADUÇÃO: (especie de ave de China) malvasía cabeciblanca (Oxyura leucocephala)
+白头翁 | TRADUÇÃO: raíz de pulsatila china/bulbul chino
+白头鹀 | TRADUÇÃO: (especie de ave de China) escribano cabeciblanco (Emberiza leucocephalos)
+白头鵙鹛 | TRADUÇÃO: (especie de ave de China) timalí cabeciblanco (Gampsorhynchus rufulus)
+白头鹎 | TRADUÇÃO: (especie de ave de China) bulbul chino (Pycnonotus sinensis)
+白头鹤 | TRADUÇÃO: (especie de ave de China) grulla monje (Grus monacha)
+白头鹞 | TRADUÇÃO: (especie de ave de China) aguilucho lagunero occidental (Circus aeruginosus)
+白头鹰 | TRADUÇÃO: águila calva
+白颊噪鹛 | TRADUÇÃO: (especie de ave de China) charlatán cariblanco (Pterorhinus sannio)
+白颊山鹧鸪 | TRADUÇÃO: (especie de ave de China) arroyera cariblanca (Arborophila atrogularis)
+白颊鹎 | TRADUÇÃO: (especie de ave de China) bulbul cariblanco (Pycnonotus leucogenys)
+白颊黑雁 | TRADUÇÃO: (especie de ave de China) barnacla cariblanca (Branta leucopsis)
+白颈噪鹛 | TRADUÇÃO: (especie de ave de China) charlatán cuelliblanco (Garrulax strepitans)
+白颈长尾雉 | TRADUÇÃO: (especie de ave de China) faisán de Elliot (Syrmaticus ellioti)
+白颈鸦 | TRADUÇÃO: (especie de ave de China) cuervo de collar (Corvus torquatus)
+白颈鸫 | TRADUÇÃO: (especie de ave de China) mirlo acollarado (Turdus albocinctus)
+白颈鹳 | TRADUÇÃO: (especie de ave de China) cigüeña lanuda asiática (Ciconia episcopus)
+白额圆尾鹱 | TRADUÇÃO: (especie de ave de China) petrel de las Bonin (Pterodroma hypoleuca)
+白额燕鸥 | TRADUÇÃO: (especie de ave de China) charrancito común (Sternula albifrons)
+白额雁 | TRADUÇÃO: (especie de ave de China) ánsar careto grande (Anser albifrons)
+白额鹱 | TRADUÇÃO: (especie de ave de China) pardela canela (Calonectris leucomelas)
+白饭 | TRADUÇÃO: arroz blanco cocido/arroz solo sin acompañamiento
+白饶 | TRADUÇÃO: regalar algo extra de propina/(coloq.) en vano/inútilmente
+白首齐眉 | TRADUÇÃO: envejecer juntos en mutuo respeto y armonía (modismo)
+白香词谱 | TRADUÇÃO: Guía métrica de poesía ci de Baixiang (1795), editada por Xu Menglan 舒夢蘭|舒梦兰
+白马寺 | TRADUÇÃO: Templo del Caballo Blanco en Luoyang (uno de los primeros templos budistas de China)
+白马王子 | TRADUÇÃO: príncipe azul/el hombre de sus sueños
+白马股 | TRADUÇÃO: acciones de primera clase/valores sólidos y de alto rendimiento (blue chips)
+白马鸡 | TRADUÇÃO: (especie de ave de China) faisán orejudo blanco (Crossoptilon crossoptilon)
+白马雪山 | TRADUÇÃO: montañas nevadas de Baima (hasta 5430 m, en la prefectura autónoma tibetana de Dechen 迪慶藏族自治州|迪庆藏族自治州, Yunnan)
+白驹过隙 | TRADUÇÃO: un potro blanco pasa veloz como un rayo por una rendija (modismo); ¡cómo pasa el tiempo!/la brevedad de la vida
+白骨 | TRADUÇÃO: huesos de los muertos/osamenta
+白骨精 | TRADUÇÃO: demonio de los Huesos Blancos (en la novela Peregrinación al Oeste 西遊記|西游记)/(fig.) persona astuta y taimada
+白骨顶 | TRADUÇÃO: focha común (Fulica atra)
+白体 | TRADUÇÃO: letra redonda/tipo normal
+白发 | TRADUÇÃO: canas/cabello blanco o canoso/CL:根
+白发人送黑发人 | TRADUÇÃO: los padres ancianos que ven morir a sus hijos jóvenes antes que a ellos
+白发苍苍 | TRADUÇÃO: canoso y anciano/con el cabello encanecido por la vejez
+白鬼 | TRADUÇÃO: "fantasma blanco" (término despectivo cantanés para los caucásicos)
+白鬼笔 | TRADUÇÃO: (botánica) falo hediondo (Phallus impudicus)
+白鱼 | TRADUÇÃO: pescado blanco/alburno
+白鲸 | TRADUÇÃO: Moby Dick, novela de Herman Melville 赫曼·麥爾維爾|赫曼·麦尔维尔 ‖ beluga/ballena blanca
+白鳍豚 | TRADUÇÃO: véase 白鱀豚|白𬶨豚
+白𬶨豚 | TRADUÇÃO: baiji/delfín del río Yangtsé (Lipotes vexillifer)
+白鹈鹕 | TRADUÇÃO: (especie de ave de China) pelícano común (Pelecanus onocrotalus)
+白鹄 | TRADUÇÃO: cisne blanco/cisne
+白鹤 | TRADUÇÃO: (especie de ave de China) grulla siberiana (Leucogeranus leucogeranus)
+白鹤拳 | TRADUÇÃO: estilo marcial de la grulla blanca de Fujian (Baihequan)
+白鹤梁 | TRADUÇÃO: cresta de la Grulla Blanca en Fuling, Sichuan (famosa por sus antiguas inscripciones hidrológicas en el Yangtsé)
+白鹤滩 | TRADUÇÃO: Baihetan (presa hidroeléctrica en el río Jinsha 金沙江, en el límite entre Yunnan y Sichuan)
+白鹡鸰 | TRADUÇÃO: (especie de ave de China) lavandera blanca (Motacilla alba)
+白鹇 | TRADUÇÃO: (especie de ave de China) faisán plateado (Lophura nycthemera)
+白鹭 | TRADUÇÃO: (especie de ave de China) garceta común (Egretta garzetta)
+白鹭湾湿地公园 | TRADUÇÃO: Parque del Humedal de Bailuwan en Chengdu
+白鹳 | TRADUÇÃO: (especie de ave de China) cigüeña blanca (Ciconia ciconia)
+白碱滩 | TRADUÇÃO: véase 白鹼灘區|白碱滩区
+白碱滩区 | TRADUÇÃO: Baijiantan, distrito de la ciudad de Karamay 克拉瑪依市|克拉玛依市, Xinjiang
+白面 | TRADUÇÃO: harina de trigo/harina/heroína
+白面儿 | TRADUÇÃO: heroína
+白麻子 | TRADUÇÃO: marcas de viruela/persona picada de viruela
+白点噪鹛 | TRADUÇÃO: (especie de ave de China) charlatán de Biet (Ianthocincla bieti)
+白鼻子 | TRADUÇÃO: persona astuta o taimada/payaso con la nariz pintada de blanco
+白鼻心 | TRADUÇÃO: (Taiwán) paguma o civeta de las palmeras enmascarada (Paguma larvata)
+百 | TRADUÇÃO: apellido Bai ‖ cien/ciento/centenar/numeroso/todo tipo de
+百不咋 | TRADUÇÃO: de poca monta (modismo)/sin importancia/insignificante
+百不杂 | TRADUÇÃO: variante de 百不咋
+百事可乐 | TRADUÇÃO: Pepsi
+百事无成 | TRADUÇÃO: no haber logrado nada (modismo)/fracasar en todos los empeños
+百事轻怡 | TRADUÇÃO: Pepsi Light/Diet Pepsi
+百事通 | TRADUÇÃO: sabelotodo/persona muy informada
+百位 | TRADUÇÃO: la posición de las centenas en el sistema decimal
+百依百顺 | TRADUÇÃO: dócil y obediente en todo/absolutamente sumiso
+百倍 | TRADUÇÃO: cien veces/centuplicado/(fig.) enormemente/aumentar notablemente
+百兆 | TRADUÇÃO: (redes informáticas) 100 megabits por segundo/100Base-T
+百克 | TRADUÇÃO: hectogramo
+百儿八十 | TRADUÇÃO: alrededor de un centenar/unos cien o poco más
+百出 | TRADUÇÃO: surgir a montones (tras un sustantivo)/lleno de.../plagado de...
+百分 | TRADUÇÃO: por ciento/porcentaje
+百分之 | TRADUÇÃO: por ciento
+百分之一百 | TRADUÇÃO: cien por ciento/totalmente (eficaz)
+百分之百 | TRADUÇÃO: cien por ciento/al cien por cien/absolutamente
+百分位数 | TRADUÇÃO: percentil (estadística)
+百分制 | TRADUÇÃO: escala de calificación sobre cien puntos/sistema centesimal
+百分数 | TRADUÇÃO: porcentaje
+百分比 | TRADUÇÃO: porcentaje
+百分率 | TRADUÇÃO: porcentaje/tasa porcentual
+百分百 | TRADUÇÃO: cien por cien/cien por ciento/totalmente
+百分号 | TRADUÇÃO: signo de porcentaje (%)
+百分点 | TRADUÇÃO: punto porcentual
+百利甜 | TRADUÇÃO: crema de licor Baileys (marca de bebida alcohólica)/véase también 百利甜酒
+百利甜酒 | TRADUÇÃO: crema de licor Baileys (marca de bebida alcohólica)
+百胜 | TRADUÇÃO: BaiSheng (nombre común de empresa china)/PakSing (nombre común de empresa en Hong Kong)
+百胜难虑敌，三折乃良医 | TRADUÇÃO: cien victorias no bastan para prever al enemigo, mas quien se fractura el brazo tres veces se vuelve buen médico (verso de Liu Yuxi 劉禹錫|刘禹锡)/(fig.) se aprende más de los tropiezos que de los éxitos
+百胜餐饮 | TRADUÇÃO: Tricon Global Restaurants (incluye Pizza Hut y KFC)
+百胜餐饮集团 | TRADUÇÃO: Yum! Brands, Inc. (corporación estadounidense de comida rápida que opera Pizza Hut, KFC, etc.)
+百汇 | TRADUÇÃO: parfait (postre, préstamo)
+百十 | TRADUÇÃO: alrededor de un centenar/unos cien
+百卉千葩 | TRADUÇÃO: miríada de plantas y flores floreciendo (modismo); rico y lleno de colorido
+百口莫辩 | TRADUÇÃO: (modismo) incapaz de defenderse o demostrar la inocencia frente a acusaciones; no encontrar palabras para justificarse
+百合 | TRADUÇÃO: (botánica) lirio/azucena/(ACG) (jerga) yuri (género de manga o anime centrado en relaciones románticas entre mujeres)
+百合子 | TRADUÇÃO: Yuriko (nombre femenino japonés)
+百合科 | TRADUÇÃO: liliáceas (Liliaceae)/familia de los lirios
+百合花 | TRADUÇÃO: lirio/azucena/(fig.) persona pura e intachable/virgen
+百合花饰 | TRADUÇÃO: flor de lis (emblema heráldico)
+百善孝为先 | TRADUÇÃO: de todas las virtudes la piedad filial es la más importante (modismo)
+百团大战 | TRADUÇÃO: Ofensiva de los Cien Regimientos (agosto-diciembre de 1940, gran ofensiva militar comunista contra el ejército japonés)
+百姓 | TRADUÇÃO: pueblo común/gente común/ciudadanos
+百威 | TRADUÇÃO: Budweiser (cerveza)
+百威啤酒 | TRADUÇÃO: cerveza Budweiser
+百媚千娇 | TRADUÇÃO: véase 千嬌百媚|千娇百媚
+百孔千疮 | TRADUÇÃO: plagado de heridas y agujeros/(fig.) lleno de desperfectos/acribillado de problemas
+百家 | TRADUÇÃO: muchas escuelas de pensamiento/muchas familias u hogares
+百家姓 | TRADUÇÃO: El libro de los cien apellidos (manual de lectura anónimo de la dinastía Song que enumera 438 apellidos)
+百家乐 | TRADUÇÃO: bacará (juego de cartas, préstamo)
+百家争鸣 | TRADUÇÃO: contienda de las cien escuelas del pensamiento (modismo); florecimiento de diversas escuelas filosóficas en el período de los Reinos Combatientes (475-221 a. C.)
+百宝箱 | TRADUÇÃO: cofre del tesoro
+百尺竿头 | TRADUÇÃO: en la cima más alta del desarrollo espiritual (expresión budista)
+百尺竿头，更进一步 | TRADUÇÃO: tras trepar a lo más alto de un poste de cien pies, dar un paso más (modismo); esforzarse por superarse aun habiendo alcanzado el éxito
+百川 | TRADUÇÃO: ríos/corrientes de agua
+百川归海 | TRADUÇÃO: todos los ríos desembocan en el mar (modismo); todas las cosas convergen en una misma dirección
+百帕 | TRADUÇÃO: hectopascal (hPa), unidad de presión atmosférica
+百年 | TRADUÇÃO: cien años/un siglo/(fig.) toda la vida/la vida entera de una persona
+百年不遇 | TRADUÇÃO: que ocurre solo una vez cada cien años (sequía, inundación, etc.)/rarísimo
+百年之后 | TRADUÇÃO: (modismo) (eufemismo) tras la muerte de alguien/cuando uno fallezca
+百年大计 | TRADUÇÃO: proyecto de importancia vital y duradera/plan centenario
+百年好合 | TRADUÇÃO: que vivan cien años de feliz unión (voto matrimonial tradicional)
+百年树人 | TRADUÇÃO: cultivar a las personas lleva cien años (modismo); la educación de las nuevas generaciones es una labor de largo plazo
+百几 | TRADUÇÃO: más de cien/ciento y tantos
+百度 | TRADUÇÃO: Baidu (empresa china de internet y motor de búsqueda)
+百度币 | TRADUÇÃO: moneda virtual creada por Baidu
+百度百科 | TRADUÇÃO: Baidu Baike (enciclopedia en línea de Baidu)
+百度知道 | TRADUÇÃO: Baidu Zhidao (plataforma comunitaria de preguntas y respuestas en línea)
+百废俱兴 | TRADUÇÃO: emprender todas las tareas rezagadas (modismo)/florecimiento pleno de todas las obras
+百废具兴 | TRADUÇÃO: variante de 百廢俱興|百废俱兴
+百废待兴 | TRADUÇÃO: mil asuntos postergados pendientes de emprender (modismo)/muchas tareas por recomenzar
+百废待举 | TRADUÇÃO: múltiples tareas pendientes de emprender (modismo)/mil cosas por hacer
+百弊丛生 | TRADUÇÃO: surgir toda clase de perjuicios y anomalías (modismo)
+百强 | TRADUÇÃO: los 100 mejores (p. ej., las 100 principales ciudades)
+百忙 | TRADUÇÃO: ocupada agenda/en medio de múltiples ocupaciones
+百思不得其解 | TRADUÇÃO: véase 百思不解
+百思不解 | TRADUÇÃO: no entender nada a pesar de darle cien vueltas (modismo)/quedar perplejo tras pensarlo mucho
+百思莫解 | TRADUÇÃO: véase 百思不解
+百思买 | TRADUÇÃO: Best Buy (cadena de tiendas de electrónica)
+百感交集 | TRADUÇÃO: agolparse mil sentimientos en el corazón/mezcla de toda clase de emociones
+百慕大 | TRADUÇÃO: Bermudas
+百慕大三角 | TRADUÇÃO: Triángulo de las Bermudas
+百慕达 | TRADUÇÃO: Bermudas (Taiwán)
+百战不殆 | TRADUÇÃO: salir ileso de cien batallas (modismo de El arte de la guerra de Sunzi 孫子兵法|孙子兵法); vencer en cada combate
+百战百胜 | TRADUÇÃO: salir victorioso en cada batalla/siempre victorioso/invicto
+百折不回 | TRADUÇÃO: véase 百折不撓|百折不挠
+百折不挠 | TRADUÇÃO: inquebrantable ante los reveses (modismo)/indomable/firme a pesar de los tropiezos
+百日咳 | TRADUÇÃO: tos ferina/tos convulsiva
+百日维新 | TRADUÇÃO: Reforma de los Cien Días (1898, fallido intento de reforma de la dinastía Qing)
+百日菊 | TRADUÇÃO: zinnia (botánica)
+百会 | TRADUÇÃO: véase 百會穴|百会穴
+百会穴 | TRADUÇÃO: punto de acupuntura GV-20 o Baihui (localizado en la coronilla de la cabeza) (MTC)
+百果 | TRADUÇÃO: toda clase de frutas
+百乐餐 | TRADUÇÃO: comida de traje/comida comunitaria donde cada uno aporta un plato (potluck)
+百步穿杨 | TRADUÇÃO: acertar una hoja de sauce a cien pasos (modismo); disparar con puntería infalible
+百岁老人 | TRADUÇÃO: centenario/persona centenaria
+百洁布 | TRADUÇÃO: estropajo/almohadilla para fregar platos/esponja de cocina
+百济 | TRADUÇÃO: Baekje o Paekche (18 a. C.-660 d. C., uno de los Tres Reinos de Corea)
+百无一失 | TRADUÇÃO: infalible/sin riesgo de fallo alguno/completamente seguro
+百无禁忌 | TRADUÇÃO: nada es tabú (modismo)/sin restricciones ni prohibiciones/todo vale
+百无聊赖 | TRADUÇÃO: (modismo) aburrido soberanamente/dominado por un profundo tedio y desgano
+百炼成钢 | TRADUÇÃO: templarse como el acero tras cien pruebas (modismo)/forjarse en las dificultades
+百炼钢 | TRADUÇÃO: acero de alta calidad refinado repetidas veces
+百物 | TRADUÇÃO: todas las cosas/todos los objetos
+百兽 | TRADUÇÃO: todas las bestias/todos los animales
+百瓦 | TRADUÇÃO: hectovatio
+百病 | TRADUÇÃO: todas las enfermedades
+百发百中 | TRADUÇÃO: (lit.) cien disparos, cien aciertos (modismo)/(fig.) puntería infalible/no fallar un solo tiro
+百眼巨人 | TRADUÇÃO: gigante de cien ojos (Argos Panoptes)
+百科 | TRADUÇÃO: universal/enciclopédico/abrev. de 百科全書|百科全书
+百科事典 | TRADUÇÃO: enciclopedia
+百科全书 | TRADUÇÃO: enciclopedia/CL:本,集
+百科词典 | TRADUÇÃO: diccionario enciclopédico
+百谷 | TRADUÇÃO: todos los cereales/toda clase de granos
+百端待举 | TRADUÇÃO: mil asuntos pendientes de llevar a cabo (modismo)/incontables tareas por realizar
+百米 | TRADUÇÃO: hectómetro/cien metros
+百米赛跑 | TRADUÇÃO: carrera de cien metros lisos/prueba de 100 metros
+百粤 | TRADUÇÃO: Baiyue (término genérico para los pueblos aborígenes del sur de China)/también escrito 百越
+百总 | TRADUÇÃO: véase 把總|把总
+百老汇 | TRADUÇÃO: Broadway (Nueva York)
+百闻不如一见 | TRADUÇÃO: ver una sola vez vale más que oír cien veces (modismo); es mejor verlo por uno mismo que oír hablar de ello/ver para creer
+百听不厌 | TRADUÇÃO: no cansarse nunca de escucharlo/digno de ser escuchado cien veces
+百脚 | TRADUÇÃO: ciempiés/escolopendra
+百般 | TRADUÇÃO: de cien maneras/de todas las formas posibles/por todos los medios
+百般刁难 | TRADUÇÃO: (modismo) poner toda clase de trabas/crear un sinfín de dificultades intencionadamente
+百般奉承 | TRADUÇÃO: adular de todas las maneras imaginables/hacer la pelota constantemente
+百般巴结 | TRADUÇÃO: adular y complacer servilmente de mil modos (modismo)
+百色 | TRADUÇÃO: véase 百色市
+百色市 | TRADUÇÃO: Baise, ciudad-prefectura en la región autónoma zhuang de Guangxi 廣西壯族自治區|广西壮族自治区
+百花园 | TRADUÇÃO: Jardín de las Cien Flores (nombre)/jardín Baihua en el pueblo de Hongmiao 洪廟村|洪庙村, Shandong
+百花奖 | TRADUÇÃO: Premios de las Cien Flores (premio cinematográfico concedido desde 1962 en China)
+百花运动 | TRADUÇÃO: Campaña de las Cien Flores (RPC, 1956-1957)
+百花齐放 | TRADUÇÃO: florecer cien flores juntas (modismo); permitir la libre expresión en las artes
+百花齐放，百家争鸣 | TRADUÇÃO: que florezcan cien flores y compitan cien escuelas del pensamiento (modismo); consigna histórica y cultural de China
+百草 | TRADUÇÃO: toda clase de hierbas/toda la flora
+百草枯 | TRADUÇÃO: paraquat (herbicida)
+百万 | TRADUÇÃO: millón
+百万位 | TRADUÇÃO: la posición de los millones en el sistema decimal
+百万吨 | TRADUÇÃO: megatonelada/millón de toneladas
+百万富翁 | TRADUÇÃO: millonario
+百万赫兹 | TRADUÇÃO: megahercio (física, electrónica)
+百叶 | TRADUÇÃO: librillo/callos (revestimiento del estómago de los rumiantes usado como alimento)
+百叶窗 | TRADUÇÃO: persiana/celosía/contraventana
+百叶箱 | TRADUÇÃO: garita meteorológica/pantalla de Stevenson (caja blanca ventilada para instrumentos meteorológicos)
+百里挑一 | TRADUÇÃO: uno entre cien/lo mejor de lo mejor/flor y nata
+百褶裙 | TRADUÇÃO: falda plisada/falda tableada
+百计千方 | TRADUÇÃO: véase 千方百計|千方百计
+百读不厌 | TRADUÇÃO: deleitar al leerse cien veces (modismo)/no cansarse de leerlo
+百变 | TRADUÇÃO: siempre cambiante/versátil/polifacético
+百货 | TRADUÇÃO: mercancías generales/artículos de consumo general
+百货公司 | TRADUÇÃO: grandes almacenes/tienda departamental
+百货商店 | TRADUÇÃO: grandes almacenes/tienda de mercancías generales
+百货大楼 | TRADUÇÃO: edificio de grandes almacenes
+百货店 | TRADUÇÃO: bazar/tienda de ramos generales/tienda departamental
+百越 | TRADUÇÃO: Baiyue (término genérico para los pueblos no han del sur de China)
+百足 | TRADUÇÃO: ciempiés/milpiés
+百足之虫死而不僵 | TRADUÇÃO: un ciempiés sigue moviéndose tras morir (modismo); las viejas costumbres o instituciones arraigadas tardan en desaparecer por completo
+百足虫 | TRADUÇÃO: ciempiés
+百里 | TRADUÇÃO: apellido de dos caracteres Baili
+百里香 | TRADUÇÃO: tomillo (Thymus vulgaris)
+百金花 | TRADUÇÃO: centaura menor (Centaurium pulchellum var. altaicum)
+百灵 | TRADUÇÃO: alondra (ave de la familia Alaudidae)
+百灵鸟 | TRADUÇÃO: alondra común
+百页窗 | TRADUÇÃO: variante de 百葉窗|百叶窗
+百余 | TRADUÇÃO: más de un centenar/un centenar largo
+百香果 | TRADUÇÃO: fruta de la pasión/maracuyá
+癿 | TRADUÇÃO: (utilizado en topónimos)
+皀 | TRADUÇÃO: un solo grano
+皁 | TRADUÇÃO: negro/alguaciles (por la ropa negra que vestían antiguamente)
+皂 | TRADUÇÃO: jabón/negro
+皂石 | TRADUÇÃO: esteatita/piedra de jabón
+皂矾 | TRADUÇÃO: vitriolo verde (sulfato ferroso hidratado FeSO4·7H2O)
+皂素 | TRADUÇÃO: saponina (química)
+皂苷 | TRADUÇÃO: saponina (química)
+皂荚 | TRADUÇÃO: acacia de miel china (Gleditsia sinensis)
+皂荚树 | TRADUÇÃO: árbol de acacia de miel china (Gleditsia sinensis)
+皂角 | TRADUÇÃO: acacia de miel china (Gleditsia sinensis)
+皂碱 | TRADUÇÃO: jabón/lo mismo que 肥皂
+皃 | TRADUÇÃO: variante de 貌
+的 | TRADUÇÃO: de (partícula posesiva)/(usado tras un atributo para modificar a un sustantivo)/(usado al final de una oración declarativa para dar énfasis)/(usado tras un sustantivo, verbo o adjetivo para sustantivar, como en 皮革的 "uno hecho de cuero" o 跑堂兒的|跑堂儿的 "un camarero" o 新的 "el nuevo")/también pronunciado [di4] o [di5] en poesía y canciones ‖ taxi (abrev. de 的士) ‖ de verdad/verdaderamente/ciertamente ‖ (forma ligada) diana/blanco
+的哥 | TRADUÇÃO: taxista hombre (coloq.)
+的士 | TRADUÇÃO: taxi (préstamo)
+的士高 | TRADUÇÃO: (HK) discoteca/música disco (préstamo)
+的姐 | TRADUÇÃO: taxista mujer (coloq.)
+的款 | TRADUÇÃO: fondos seguros/dinero fidedigno
+的的喀喀湖 | TRADUÇÃO: lago Titicaca
+的确 | TRADUÇÃO: realmente/ciertamente/efectivamente/en verdad
+的确良 | TRADUÇÃO: dacrón/tergal (préstamo)
+的话 | TRADUÇÃO: si/en caso de que (tras una cláusula condicional)
+的里雅斯特 | TRADUÇÃO: Trieste (ciudad portuaria de Italia)
+的黎波里 | TRADUÇÃO: Trípoli (capital de Libia)/Trípoli (ciudad del norte de Líbano)
+皆 | TRADUÇÃO: todos/cada uno/en todos los casos
+皆可 | TRADUÇÃO: ambos valen/todos son aceptables/cualquiera de ellos es correcto
+皆因 | TRADUÇÃO: simplemente porque/todo debido a
+皆大欢喜 | TRADUÇÃO: Como gustéis (comedia de William Shakespeare) ‖ para satisfacción y deleite de todos/con alegría general
+皆然 | TRADUÇÃO: ser todos iguales/ocurrir lo mismo en todos los casos (literario)
+皇 | TRADUÇÃO: apellido Huang ‖ emperador/variante antigua de 惶
+皇上 | TRADUÇÃO: el emperador/Su Majestad Imperial
+皇上不急太监急 | TRADUÇÃO: véase 皇帝不急太監急|皇帝不急太监急
+皇上不急急太监 | TRADUÇÃO: véase 皇帝不急太監急|皇帝不急太监急
+皇位 | TRADUÇÃO: trono imperial/dignidad de emperador
+皇储 | TRADUÇÃO: príncipe heredero/heredero al trono
+皇冠 | TRADUÇÃO: corona imperial/corona
+皇冠上的明珠 | TRADUÇÃO: la joya más brillante de la corona
+皇冠假日酒店 | TRADUÇÃO: Crowne Plaza (cadena hotelera)
+皇冠出版 | TRADUÇÃO: Crown Publishing (editorial de Hong Kong)
+皇冠出版集团 | TRADUÇÃO: Grupo Editorial Crown (Hong Kong)
+皇古 | TRADUÇÃO: tiempos remotos/la más remota antigüedad
+皇后 | TRADUÇÃO: emperatriz/consorte imperial
+皇后区 | TRADUÇÃO: Queens (uno de los cinco distritos de la ciudad de Nueva York)
+皇后镇 | TRADUÇÃO: Queenstown (ciudad de Nueva Zelanda)
+皇城 | TRADUÇÃO: Ciudad Imperial (área central de Pekín que rodea la Ciudad Prohibida)
+皇堡 | TRADUÇÃO: Whopper (hamburguesa de Burger King)
+皇天 | TRADUÇÃO: Augusto Cielo/el Cielo como deidad suprema (a menudo emparejado con 后土, la Deidad de la Tierra)
+皇天不负苦心人 | TRADUÇÃO: el Cielo no decepciona a quien se esfuerza (modismo); con perseverancia y esfuerzo el éxito llega inevitablemente
+皇天后土 | TRADUÇÃO: el cielo y la tierra (modismo)/los dioses del cielo y de la tierra
+皇太后 | TRADUÇÃO: emperatriz viuda
+皇太子 | TRADUÇÃO: príncipe heredero
+皇太极 | TRADUÇÃO: Hong Taiji (1592-1643), octavo hijo de Nurhaci 努爾哈赤|努尔哈赤, segundo kan de la dinastía Jin Posterior 後金|后金 y fundador de la dinastía Qing 大清/nombre póstumo Qing Taizong 清太宗
+皇太极清太宗 | TRADUÇÃO: Hong Taiji (1592-1643), octavo hijo de Nurhaci 努爾哈赤|努尔哈赤, segundo kan de la dinastía Jin Posterior 後金|后金 y fundador de la dinastía Qing 大清
+皇姑 | TRADUÇÃO: véase 皇姑區|皇姑区
+皇姑区 | TRADUÇÃO: Huanggu, distrito de la ciudad de Shenyang 瀋陽市|沈阳市, Liaoning
+皇子 | TRADUÇÃO: príncipe imperial/hijo del emperador
+皇室 | TRADUÇÃO: familia real/casa imperial/miembro de la familia imperial
+皇宫 | TRADUÇÃO: palacio imperial
+皇家 | TRADUÇÃO: real/imperial/casa real
+皇家加勒比海游轮公司 | TRADUÇÃO: Royal Caribbean Cruise Lines (compañía naviera de cruceros)
+皇家学会 | TRADUÇÃO: Royal Society (academia científica del Reino Unido)
+皇家海军 | TRADUÇÃO: Marina Real británica (Royal Navy)
+皇家香港警察 | TRADUÇÃO: Real Policía de Hong Kong (1969-1997)
+皇家马德里 | TRADUÇÃO: Real Madrid (club de fútbol)
+皇家骑警 | TRADUÇÃO: Real Policía Montada de Canadá (RCMP)
+皇帝 | TRADUÇÃO: emperador/CL:個|个
+皇帝不急太监急 | TRADUÇÃO: (lit.) el emperador no tiene prisa pero los eunucos sí (modismo)/(fig.) los observadores están más angustiados que el propio interesado
+皇帝不急急死太监 | TRADUÇÃO: véase 皇帝不急太監急|皇帝不急太监急
+皇帝女儿不愁嫁 | TRADUÇÃO: (lit.) la hija del emperador no se preocupa por encontrar marido (modismo)/(fig.) producto o persona de gran demanda que no teme quedarse sin salida
+皇帝的新衣 | TRADUÇÃO: el traje nuevo del emperador (es decir, desnudo)
+皇帝菜 | TRADUÇÃO: véase 茼蒿
+皇带鱼 | TRADUÇÃO: pez remo gigante (Regalecus glesne)
+皇恩 | TRADUÇÃO: gracia imperial/benevolencia del emperador
+皇族 | TRADUÇÃO: familia imperial/nobleza imperial/linaje del emperador
+皇族内阁 | TRADUÇÃO: Gabinete de la Familia Imperial (gabinete de emergencia de la dinastía Qing creado en mayo de 1911)
+皇历 | TRADUÇÃO: variante de 黃曆|黄历
+皇朝 | TRADUÇÃO: corte imperial/dinastía imperial/gobierno en tiempos imperiales
+皇榜 | TRADUÇÃO: edicto imperial fijado en tablón público/bando imperial
+皇权 | TRADUÇÃO: poder imperial/autoridad imperial
+皇法 | TRADUÇÃO: ley imperial/lo mismo que 王法
+皇甫 | TRADUÇÃO: apellido de dos caracteres Huangfu
+皇甫嵩 | TRADUÇÃO: Huangfu Song (-195), general y señor de la guerra de la dinastía Han tardía
+皇甫镈 | TRADUÇÃO: Huangfu Bo (c. 800), ministro de la dinastía Tang temprana
+皇皇 | TRADUÇÃO: majestuoso/grandioso/variante de 惶惶/variante de 遑遑
+皇粮 | TRADUÇÃO: grano tributario/fondos o suministros provistos por el Estado
+皇考 | TRADUÇÃO: (arcaico) (honorífico) difunto padre del emperador
+皇亲国戚 | TRADUÇÃO: parientes del emperador y allegados reales (modismo); persona con conexiones influyentes en el poder
+皇军 | TRADUÇÃO: ejército imperial (especialmente el japonés)
+皇马 | TRADUÇÃO: Real Madrid (club de fútbol)/abrev. de 皇家馬德里|皇家马德里
+皈 | TRADUÇÃO: acatar/seguir/adherirse
+皈依 | TRADUÇÃO: convertirse a (una religión)/abrazar la fe
+皈依者 | TRADUÇÃO: converso/prosélito
+皋 | TRADUÇÃO: orilla/marisma ‖ ribera alta/variante de 皋 ‖ variante de 皋
+皋兰 | TRADUÇÃO: véase 皋蘭縣|皋兰县
+皋兰县 | TRADUÇÃO: Gaolan, condado de la ciudad de Lanzhou 蘭州市|兰州市, Gansu
+皌 | TRADUÇÃO: véase 開皌|开皌
+皎 | TRADUÇÃO: brillante/blanco y resplandeciente
+皎厉 | TRADUÇÃO: altivo/orgulloso
+皎月 | TRADUÇÃO: luna brillante
+皎洁 | TRADUÇÃO: reluciente y puro/claro y límpido (del resplandor lunar)
+皎白 | TRADUÇÃO: blanco reluciente/blanco inmaculado
+皎皎 | TRADUÇÃO: claro y brillante/resplandeciente
+皎皎者易污 | TRADUÇÃO: lo más blanco y puro es lo que más fácilmente se mancha (modismo); la virtud intachable es vulnerable a las calumnias
+皒 | TRADUÇÃO: véase 皒皒
+皒皒 | TRADUÇÃO: blanco/resplandeciente
+皓白 | TRADUÇÃO: blanco como la nieve/inmaculado
+皓首 | TRADUÇÃO: cabeza llena de canas/(fig.) anciano
+皓首苍颜 | TRADUÇÃO: cabellos canos y rostro demacrado por la vejez (modismo); vejez decrépita
+皓齿 | TRADUÇÃO: dientes blancos (símbolo de juventud y belleza)
+皓齿明眸 | TRADUÇÃO: dientes blancos y ojos brillantes (modismo); joven hermosa
+皓齿朱唇 | TRADUÇÃO: dientes blancos y labios bermejos (modismo); joven hermosa
+皕 | TRADUÇÃO: doscientos (raramente utilizado)/200
+皖 | TRADUÇÃO: nombre abreviado de Anhui 安徽
+皖南事变 | TRADUÇÃO: Incidente del Sur de Anhui (1940, enfrentamiento armado entre tropas nacionalistas y comunistas)
+皖系军阀 | TRADUÇÃO: facción de Anhui de los señores de la guerra del norte (1911-c. 1929)
+皘 | TRADUÇÃO: blanco
+皙 | TRADUÇÃO: (literario) de piel clara/de tez blanca
+皑 | TRADUÇÃO: (literario) blanco como la nieve
+皑皑 | TRADUÇÃO: (literario) blanco como la nieve/blanco inmaculado
+皝 | TRADUÇÃO: resplandeciente/luminoso/blanco canoso
+皞 | TRADUÇÃO: brillante/radiante
+皤 | TRADUÇÃO: blanco/canoso
+皦 | TRADUÇÃO: apellido Jiao ‖ brillante/centelleante
+皨 | TRADUÇÃO: variante antigua de 星
+皪 | TRADUÇÃO: brillo (de las perlas)/nácar
+皫 | TRADUÇÃO: blanco
+皭 | TRADUÇÃO: puro/inmaculado

@@ -1,18 +1,74 @@
 // ----- Seção: Configurações — aba Desempenho (resolução do OCR e limites de CPU/GPU) -----
 import { config, main } from '../../../wailsjs/go/models';
 import { SecaoDependente } from '../comum';
+import { t } from '../../i18n/i18n';
 
 interface AbaDesempenhoProps {
   termoBusca: string;
   configuracoesApp: config.Config;
   AtualizarConfiguracao: (key: keyof config.Config, value: any) => void;
   resCaptura: main.Resolucao | null;
+  AplicarConfiguracao: (mudancas: Partial<config.Config>) => void;
+  infoHardware: main.SystemHardware | null;
+  ehCpuNome: (hw: string) => boolean;
+  motores: main.MotorOcrInfo[];
 }
 
-export function AbaDesempenho({ termoBusca, configuracoesApp, AtualizarConfiguracao, resCaptura }: AbaDesempenhoProps) {
+export function AbaDesempenho({
+  termoBusca, configuracoesApp, AtualizarConfiguracao, resCaptura,
+  AplicarConfiguracao, infoHardware, ehCpuNome, motores
+}: AbaDesempenhoProps) {
+  const motorAtivo = motores.find(m => m.ativo);
+  const varianteMotor = (motorAtivo?.variante || 'CPU').toLowerCase();
+  const motorSoCpu = !varianteMotor.includes('webgpu');
+  const nomeCpu = infoHardware?.cpu || 'CPU';
+  const hardwareEhCpu = ehCpuNome(configuracoesApp?.hardwareSelecionado || 'CPU');
+
   return (
     <>
-      {termoBusca && <h3 className="settings-section-title" style={{ marginTop: '32px' }}>Desempenho (Hardware)</h3>}
+      {termoBusca && <h3 className="settings-section-title" style={{ marginTop: '32px' }}>{t('Desempenho (Hardware)')}</h3>}
+
+      {(!termoBusca || "hardware dispositivo processamento ocr cpu gpu nvidia amd intel api webgpu vulkan aceleração".includes(termoBusca.toLowerCase())) && (
+        <div className="form-group">
+          <label>{t('Hardware de Processamento')}{motorAtivo ? ` — ${t(motorAtivo.rotulo)}` : ''}</label>
+
+          {motorSoCpu ? (
+            <>
+              <input className="form-input" value={nomeCpu} disabled readOnly />
+              <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
+                {motorAtivo ? t('{nomeMotor} roda apenas em CPU — não há opção de GPU para este motor.', { nomeMotor: t(motorAtivo.rotulo) }) : t('Este motor roda apenas em CPU.')}
+              </small>
+            </>
+          ) : (
+            <>
+              <select
+                className="form-input"
+                value={hardwareEhCpu ? nomeCpu : configuracoesApp.hardwareSelecionado}
+                onChange={e => {
+                  const val = e.target.value;
+                  AplicarConfiguracao({
+                    hardwareSelecionado: val,
+                    dispositivoOcr: val === nomeCpu ? 'cpu' : 'webgpu',
+                  });
+                }}
+              >
+                <option value={nomeCpu} title={t('Compatível com todos os motores de OCR.')}>{nomeCpu} (CPU)</option>
+                {infoHardware?.gpus?.map(gpu => (
+                  <option key={gpu} value={gpu} title={t('Aceleração via WebGPU — funciona em qualquer GPU (Nvidia, AMD, Intel).')}>
+                    {gpu}
+                  </option>
+                ))}
+              </select>
+
+              {!hardwareEhCpu && (
+                <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
+                  {t('Aceleração via WebGPU (D3D12 no Windows; Vulkan no Linux). O processamento usa o adaptador de vídeo padrão do sistema.')}
+                </small>
+              )}
+            </>
+          )}
+        </div>
+      )}
 
       {(!termoBusca || "qualidade da imagem ocr resolução captura desempenho".includes(termoBusca.toLowerCase())) && (() => {
         const pct = configuracoesApp.escalaResolucaoOcr || 100;
@@ -31,7 +87,7 @@ export function AbaDesempenho({ termoBusca, configuracoesApp, AtualizarConfigura
 
         return (
           <div className="form-group">
-            <label>Qualidade da Imagem (OCR): {pct}% ({wExib} × {hExib}){ehNativo ? ' — nativo' : ''}</label>
+            <label>{t('Qualidade da Imagem (OCR):')} {pct}% ({wExib} × {hExib}){ehNativo ? ` — ${t('nativo')}` : ''}</label>
             <input
               type="range"
               min={10}
@@ -44,7 +100,7 @@ export function AbaDesempenho({ termoBusca, configuracoesApp, AtualizarConfigura
               style={{ width: '100%' }}
             />
             <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
-              Menor resolução = mais rápido e menos memória, porém menos preciso. Resolução nativa atual: {wNat} × {hNat}.
+              {t('Menor resolução = mais rápido e menos memória, porém menos preciso. Resolução nativa atual: {resolucaoNativa}.', { resolucaoNativa: `${wNat} × ${hNat}` })}
             </small>
           </div>
         );
@@ -52,7 +108,7 @@ export function AbaDesempenho({ termoBusca, configuracoesApp, AtualizarConfigura
 
       {(!termoBusca || "threads cpu ocr".includes(termoBusca.toLowerCase())) && (
         <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-          <label style={{ margin: 0, flex: 1 }}>Núcleos/Threads CPU permitidos para OCR</label>
+          <label style={{ margin: 0, flex: 1 }}>{t('Núcleos/Threads CPU permitidos para OCR')}</label>
           <input
             type="range"
             min="1" max="16"
@@ -68,7 +124,7 @@ export function AbaDesempenho({ termoBusca, configuracoesApp, AtualizarConfigura
         <>
           <div className="form-group">
             <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-              <span>Pausar escaneamentos se uso da CPU estiver muito alto</span>
+              <span>{t('Pausar escaneamentos se uso da CPU estiver muito alto')}</span>
               <input
                 type="checkbox"
                 checked={configuracoesApp.limitarPorUsoCpu}
@@ -80,7 +136,7 @@ export function AbaDesempenho({ termoBusca, configuracoesApp, AtualizarConfigura
           <SecaoDependente ativa={configuracoesApp.limitarPorUsoCpu}>
             {(!termoBusca || "tolerância de uso cpu máximo".includes(termoBusca.toLowerCase())) && (
               <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px', margin: 0 }}>
-                <label style={{ margin: 0, flex: 1 }}>Tolerância de Uso CPU</label>
+                <label style={{ margin: 0, flex: 1 }}>{t('Tolerância de Uso CPU')}</label>
                 <input
                   type="range"
                   min="10" max="100" step="5"
@@ -99,7 +155,7 @@ export function AbaDesempenho({ termoBusca, configuracoesApp, AtualizarConfigura
         <>
           <div className="form-group">
             <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-              <span>Pausar escaneamentos se uso da GPU estiver muito alto</span>
+              <span>{t('Pausar escaneamentos se uso da GPU estiver muito alto')}</span>
               <input
                 type="checkbox"
                 checked={configuracoesApp.limitarPorUsoGpu}
@@ -111,7 +167,7 @@ export function AbaDesempenho({ termoBusca, configuracoesApp, AtualizarConfigura
           <SecaoDependente ativa={configuracoesApp.limitarPorUsoGpu}>
             {(!termoBusca || "tolerância de uso gpu máximo".includes(termoBusca.toLowerCase())) && (
               <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px', margin: 0 }}>
-                <label style={{ margin: 0, flex: 1 }}>Tolerância de Uso GPU</label>
+                <label style={{ margin: 0, flex: 1 }}>{t('Tolerância de Uso GPU')}</label>
                 <input
                   type="range"
                   min="10" max="100" step="5"

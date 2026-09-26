@@ -72,16 +72,82 @@ body {
   transform: translateY(0);
 }
 
-/* Modal de Configurações */
+.compact-scan-control {
+  display: flex;
+  align-items: center;
+  background-color: var(--cor-fundo-cartao);
+  border: 1px solid var(--cor-borda);
+  border-radius: var(--raio-botao);
+  padding: 4px;
+  gap: 4px;
+}
+
+.compact-scan-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+  background-color: transparent;
+  color: var(--cor-texto-secundario);
+}
+
+.compact-scan-btn:hover {
+  background-color: var(--cor-fundo-cartao);
+  color: var(--cor-texto-primario);
+}
+
+.compact-scan-btn.active {
+  background: linear-gradient(135deg, var(--cor-sucesso), #059669);
+  color: white;
+  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);
+}
+
+.compact-scan-btn.active:hover {
+  background: linear-gradient(135deg, var(--cor-sucesso-hover), #10b981);
+}
+
+.compact-scan-btn.paused,
+.compact-scan-btn.danger {
+  background: linear-gradient(135deg, var(--cor-perigo), #dc2626);
+  color: white;
+  box-shadow: 0 2px 8px rgba(239, 68, 68, 0.3);
+}
+
+.compact-scan-btn.paused:hover,
+.compact-scan-btn.danger:hover {
+  background: linear-gradient(135deg, var(--cor-perigo-hover), #ef4444);
+}
+
+.compact-scan-btn.action {
+  background: linear-gradient(135deg, var(--cor-destaque), #4f46e5);
+  color: white;
+  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
+}
+
+.compact-scan-btn.action:hover {
+  background: linear-gradient(135deg, var(--cor-destaque-hover), #6366f1);
+  transform: translateY(-1px);
+}
+
+.compact-scan-btn:active {
+  transform: scale(0.95);
+}
+
+/* Modal de Configurações e Detalhes do Cartão */
 .modal-overlay {
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
+  position: fixed;
+  inset: 0;
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(4px);
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 100;
+  z-index: 3000;
   animation: fadeIn 0.2s ease-out;
 }
 

@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+酸辛 | TRADUÇÃO: misery
+酸辣土豆丝 | TRADUÇÃO: hot and sour shredded potato
+酸辣汤 | TRADUÇÃO: hot and sour soup/sour and spicy soup
+酸辣粉 | TRADUÇÃO: hot and sour noodles (Sichuan-origin dish made with starch-based noodles)
+酸辣酱 | TRADUÇÃO: hot and sour sauce/chutney
+酸雨 | TRADUÇÃO: acid rain
+酸碱值 | TRADUÇÃO: pH (chemistry)
+酸黄瓜 | TRADUÇÃO: pickle; pickled cucumber
+酹 | TRADUÇÃO: pour out libation/sprinkle
+酺 | TRADUÇÃO: drink heavily/drink in company
+醁 | TRADUÇÃO: name of a wine
+醂 | TRADUÇÃO: used in 味醂
+腌汁 | TRADUÇÃO: marinade (sauce)
+腌泡 | TRADUÇÃO: to marinade
+腌渍 | TRADUÇÃO: to pickle/cured/salted
+腌肉 | TRADUÇÃO: salt pork/bacon/marinaded meat/cured meat
+腌黄瓜 | TRADUÇÃO: pickle; pickled cucumber
+醄 | TRADUÇÃO: used in 酕醄
+醅 | TRADUÇÃO: unstrained spirits
+醆 | TRADUÇÃO: wine cup
+醇 | TRADUÇÃO: alcohol/wine with high alcohol content/rich/pure/good wine/sterols ‖ old variant of 醇
+醇厚 | TRADUÇÃO: mellow and rich/simple and kind
+醇美 | TRADUÇÃO: mellow/rich/superb
+醇酸 | TRADUÇÃO: alkyd/alcohol acid/hydroxyacid
+醇酸树脂 | TRADUÇÃO: alkyd resin
+醉 | TRADUÇÃO: intoxicated
+醉人 | TRADUÇÃO: intoxicating/fascinating
+醉倒 | TRADUÇÃO: to pass out drunk
+醉心 | TRADUÇÃO: enthralled/fascinated
+醉心于 | TRADUÇÃO: to be infatuated with
+醉意 | TRADUÇÃO: tipsiness; signs of intoxication
+醉态 | TRADUÇÃO: drunken state
+醉枣 | TRADUÇÃO: dates in liquor
+醉汉 | TRADUÇÃO: intoxicated man/drunkard
+醉熏熏 | TRADUÇÃO: variant of 醉醺醺
+醉生梦死 | TRADUÇÃO: as if drunk or entranced (idiom); leading a befuddled existence/in a drunken stupor
+醉翁 | TRADUÇÃO: wine-lover/drinker/toper/drunkard
+醉翁之意不在酒 | TRADUÇÃO: wine-lover's heart is not in the cup (idiom); a drinker not really interested in alcohol/having an ulterior motive/to have other things in mind/with an ax to grind/accomplishing something besides what one set out to do
+醉圣 | TRADUÇÃO: the Sage of intoxication/refers to Tang Dynasty poet Li Bai 李白 (701-762)
+醉虾 | TRADUÇÃO: drunken shrimp (Chinese dish based on shrimps marinated in Chinese wine)
+醉酒 | TRADUÇÃO: to get drunk
+醉酒驾车 | TRADUÇÃO: drunk driving (very high blood alcohol concentration)
+醉醺醺 | TRADUÇÃO: drunk/intoxicated
+醉鸡 | TRADUÇÃO: chicken in rice wine/also translated drunken chicken
+醉驾 | TRADUÇÃO: to drive while above the legal alcohol limit
+醉鬼 | TRADUÇÃO: drunkard
+醊 | TRADUÇÃO: pour libation on ground
+醋 | TRADUÇÃO: vinegar/jealousy (in love rivalry)
+醋劲 | TRADUÇÃO: jealousy (in love)
+醋劲儿 | TRADUÇÃO: erhua variant of 醋勁|醋劲
+醋意 | TRADUÇÃO: jealousy (in love rivalry)
+醋栗 | TRADUÇÃO: gooseberry
+醋海生波 | TRADUÇÃO: lit. waves on a sea of vinegar/trouble caused by a jealous woman (idiom)
+醋磺内酯钾 | TRADUÇÃO: acesulfame potassium; acesulfame K (an artificial sweetener)
+醋坛子 | TRADUÇÃO: vinegar jar/(fig.) person of a jealous nature
+醋酸 | TRADUÇÃO: acetic acid (CH3COOH)/acetate
+醋酸乙酯 | TRADUÇÃO: ethyl acetate/acetidin
+醋酸纤维 | TRADUÇÃO: cellulose acetate (used for film and fiber)
+醌 | TRADUÇÃO: quinone (chemistry)
+醍 | TRADUÇÃO: used in 醍醐
+醍醐 | TRADUÇÃO: refined cream cheese/fig. crème de la crème/nirvana/Buddha nature/Buddhist truth/broth/flawless personal character
+醍醐灌顶 | TRADUÇÃO: lit. to anoint your head with the purest cream (idiom); fig. to enlighten people with perfect wisdom/flawless Buddhist teaching
+醐 | TRADUÇÃO: used in 醍醐
+醑 | TRADUÇÃO: spiritus/strain spirits
+醒 | TRADUÇÃO: to wake up/to be awake/to become aware/to sober up/to come to
+醒世恒言 | TRADUÇÃO: Stories to Awaken the World, vernacular short stories by Feng Menglong 馮夢龍|冯梦龙 published in 1627
+醒来 | TRADUÇÃO: to waken
+醒悟 | TRADUÇÃO: to come to oneself/to come to realize/to come to see the truth/to wake up to reality
+醒目 | TRADUÇÃO: eye-grabbing (headline)/striking (illustration)
+醒豁 | TRADUÇÃO: clear/unambiguous
+醒转 | TRADUÇÃO: to wake up; to regain consciousness
+醒酒 | TRADUÇÃO: to dissipate the effects of alcohol/to sober up
+醒面 | TRADUÇÃO: to let the dough rest
+醓 | TRADUÇÃO: brine of pickled meat
+醖 | TRADUÇÃO: variant of 醞|酝
+醚 | TRADUÇÃO: ether
+醛 | TRADUÇÃO: aldehyde
+醛固酮 | TRADUÇÃO: aldosterone
+醛基 | TRADUÇÃO: aldehyde group -COH
+醛糖 | TRADUÇÃO: aldose, monosaccharide containing aldehyde group -COH
+醛类 | TRADUÇÃO: (chemistry) aldehyde
+丑事 | TRADUÇÃO: scandal
+丑人多作怪 | TRADUÇÃO: (saying) unattractive or untalented people tend to make spectacles of themselves
+丑八怪 | TRADUÇÃO: ugly person
+丑剧 | TRADUÇÃO: absurd drama/farce/disgraceful show
+丑化 | TRADUÇÃO: to defame/to libel/to defile/to smear/to vilify
+丑国 | TRADUÇÃO: (slang) United States; USA; US
+丑妻近地家中宝 | TRADUÇÃO: an ugly wife is a treasure at home (idiom)
+丑媳妇早晚要见公婆 | TRADUÇÃO: (lit.) the ugly daughter-in-law must sooner or later meet her parents-in-law (proverb)/(fig.) something unpleasant or embarrassing cannot be avoided forever; sooner or later one must face it
+丑小鸭 | TRADUÇÃO: (fig.) ugly duckling
+丑怪 | TRADUÇÃO: grotesque
+丑恶 | TRADUÇÃO: ugly/repulsive
+丑态 | TRADUÇÃO: shameful performance/disgraceful situation
+丑相 | TRADUÇÃO: ugly expression/unsightly manners
+丑闻 | TRADUÇÃO: scandal
+丑行 | TRADUÇÃO: scandal
+丑诋 | TRADUÇÃO: to slander
+丑话 | TRADUÇÃO: ugly talk/vulgarity/obscenity
+丑话说在前头 | TRADUÇÃO: let's talk about the unpleasant things first; let's be frank
+丑陋 | TRADUÇÃO: ugly
+丑类 | TRADUÇÃO: villain/evil person
+醝 | TRADUÇÃO: liquor/spirit
+酝 | TRADUÇÃO: to brew
+酝酿 | TRADUÇÃO: (of alcohol) to ferment/(of a crisis) to be brewing/to mull over (an issue)/to hold exploratory discussions
+醟 | TRADUÇÃO: to drink to excess/dissolute
+醡 | TRADUÇÃO: press for extracting wine
+醢 | TRADUÇÃO: minced meat/pickled meat
+醣 | TRADUÇÃO: carbohydrate/old variant of 糖
+醣苷 | TRADUÇÃO: (Tw) glycoside
+醣类 | TRADUÇÃO: carbohydrate
+醨 | TRADUÇÃO: dregs of wine
+醪 | TRADUÇÃO: wine or liquor with sediment
+醪糟 | TRADUÇÃO: sweet fermented rice/glutinous rice wine
+医 | TRADUÇÃO: medical/medicine/doctor/to cure/to treat
+医之好治不病以为功 | TRADUÇÃO: doctors like to treat those who are not sick so that they can get credit for the patient's "recovery" (idiom)
+医保 | TRADUÇÃO: medical insurance/abbr. for 醫療保險|医疗保险
+医务 | TRADUÇÃO: medical affairs
+医务人员 | TRADUÇÃO: medical personnel
+医务室 | TRADUÇÃO: infirmary/sick bay/CL:個|个
+医务所 | TRADUÇÃO: clinic/CL:家
+医卜 | TRADUÇÃO: medicine and divination
+医嘱 | TRADUÇÃO: doctor's orders
+医大 | TRADUÇÃO: abbr. for 醫科大學|医科大学, university of medicine
+医学 | TRADUÇÃO: medicine/medical science/study of medicine
+医学中心 | TRADUÇÃO: medical center
+医学博士 | TRADUÇÃO: doctor of medicine
+医学家 | TRADUÇÃO: medical scientist
+医学专家 | TRADUÇÃO: medical expert/medical specialist
+医学检验 | TRADUÇÃO: medical laboratory technology
+医学检验师 | TRADUÇÃO: medical technologist
+医学系 | TRADUÇÃO: medical school
+医学院 | TRADUÇÃO: medical school
+医官 | TRADUÇÃO: official in charge of medical affairs/respectful title for a doctor
+医家 | TRADUÇÃO: healer/physician/medical man/doctor (esp. of TCM)
+医密 | TRADUÇÃO: patient confidentiality (medicine)
+医师 | TRADUÇÃO: doctor; physician
+医德 | TRADUÇÃO: medical ethics
+医患 | TRADUÇÃO: doctor-patient
+医托 | TRADUÇÃO: a shill for a clinic
+医改 | TRADUÇÃO: reform of the medical system
+医书 | TRADUÇÃO: medical book
+医案 | TRADUÇÃO: case history (TCM)/case record
+医治 | TRADUÇÃO: to treat (an illness)/medical treatment
+医理 | TRADUÇÃO: medical knowledge; principles of medical science
+医生 | TRADUÇÃO: doctor; medical practitioner
+医疗 | TRADUÇÃO: medical treatment
+医疗保健 | TRADUÇÃO: health care
+医疗保险 | TRADUÇÃO: medical insurance
+医疗器械 | TRADUÇÃO: medical equipment
+医疗疏失 | TRADUÇÃO: medical negligence/medical malpractice
+医疗护理 | TRADUÇÃO: health care
+医疗费 | TRADUÇÃO: medical expenses
+医科 | TRADUÇÃO: medicine (as a science)/medical science
+医科大学 | TRADUÇÃO: university of medicine
+医科学校 | TRADUÇÃO: medical school
+医美 | TRADUÇÃO: aesthetic medicine
+医药 | TRADUÇÃO: medical care and medicines/medicine (drug)/medical/pharmaceutical
+医药分离 | TRADUÇÃO: separating medical consultation from dispensing drugs, proposed policy to counteract perceived PRC problem of "drugs serving to nourish doctors" 以藥養醫|以药养医
+医药商店 | TRADUÇÃO: chemist/druggist/pharmacy
+医药学 | TRADUÇÃO: medical science
+医术 | TRADUÇÃO: medical expertise/art of healing
+医护 | TRADUÇÃO: doctors and nurses/medic/medical (personnel)
+医护人员 | TRADUÇÃO: medical personnel/doctors and nurses
+医道 | TRADUÇÃO: Hur Jun (TV series) ‖ art of healing/medical skill
+医院 | TRADUÇÃO: hospital/CL:所,家,座
+医闹 | TRADUÇÃO: (neologism, attested by 2013) organized disruption of healthcare facilities or verbal and physical abuse of medical staff by an aggrieved patient or proxies such as family members or hired thugs, typically aimed at obtaining compensation
+酱 | TRADUÇÃO: thick paste of fermented soybean/marinated in soy paste/paste/jam
+酱料 | TRADUÇÃO: sauce
+酱油 | TRADUÇÃO: soy sauce
+酱油膏 | TRADUÇÃO: thickened soy sauce
+酱瓜 | TRADUÇÃO: pickled cucumber
+酱紫 | TRADUÇÃO: dark reddish purple/Internet slang abbr. for 這樣子|这样子
+醭 | TRADUÇÃO: mold on liquids
+醮 | TRADUÇÃO: to perform sacrifice
+醯 | TRADUÇÃO: acyl
+醰 | TRADUÇÃO: bitter taste in wine/rich/full flavored
+酦 | TRADUÇÃO: used in 醱酵|酦酵/Taiwan pr. [po4] ‖ to ferment alcohol/Taiwan pr. [po4]
+酦酵 | TRADUÇÃO: variant of 發酵|发酵
+𬪩 | TRADUÇÃO: concentrated/strong wine
+醳 | TRADUÇÃO: fine wine/to award with (food and drink)
+醴 | TRADUÇÃO: sweet wine
+醴泉县 | TRADUÇÃO: Liquan county in Xianyang 咸陽|咸阳, Shaanxi/also written 禮泉縣|礼泉县
+醴陵 | TRADUÇÃO: see 醴陵市
+醴陵市 | TRADUÇÃO: Liling, a county-level city in Zhuzhou City 株洲市, Hunan
+醵 | TRADUÇÃO: to contribute to a feast/to pool (money)
+醹 | TRADUÇÃO: strong (of wine)
+醺 | TRADUÇÃO: helplessly intoxicated
+醽 | TRADUÇÃO: name of a wine
+醾 | TRADUÇÃO: unfiltered wine/wine brewed twice
+酿 | TRADUÇÃO: to ferment/to brew/to make honey (of bees)/to lead to/to form gradually/wine/stuffed vegetables (cooking method)
+酿成 | TRADUÇÃO: to make (wine or spirits)/(fig.) to lead to (a bad result)
+酿母菌 | TRADUÇÃO: yeast
+酿热物 | TRADUÇÃO: biological fuel (such as horse dung)
+酿制 | TRADUÇÃO: to brew (beer, soy sauce etc); to make (wine, vinegar etc); to distill (spirits)
+酿造 | TRADUÇÃO: to brew/to make (wine, vinegar, soybean paste etc) by fermentation
+酿造学 | TRADUÇÃO: zymurgy
+酿酒 | TRADUÇÃO: to make a fermented drink (i.e. to brew beer, make wine etc)
+酿酒业 | TRADUÇÃO: brewing industry/wine industry
+酿酶 | TRADUÇÃO: zymase (enzyme in yeast involved in fermentation)
+衅 | TRADUÇÃO: quarrel/dispute/a blood sacrifice (arch.)
+衅端 | TRADUÇÃO: pretext for a dispute
+衅隙 | TRADUÇÃO: enmity
+釂 | TRADUÇÃO: drain a goblet
+酾 | TRADUÇÃO: (literary) to filter (wine)/to pour (wine or tea)/to dredge/also pr. [shai1]/Taiwan pr. [si1]
+酽 | TRADUÇÃO: (of tea, wine etc) strong; (of ink, aroma etc) thick; (of a color) deep; rich
+釆 | TRADUÇÃO: old variant of 辨
+采地 | TRADUÇÃO: fief
+采矿场 | TRADUÇÃO: mining area
+采声 | TRADUÇÃO: applause; cheering
+采兰赠芍 | TRADUÇÃO: (lit.) to pluck orchids and gift peonies (idiom)/(fig.) (of lovers) to exchange presents
+采兰赠药 | TRADUÇÃO: see 采蘭贈芍|采兰赠芍
+采邑 | TRADUÇÃO: fief
+釉 | TRADUÇÃO: glaze (of porcelain)
+释 | TRADUÇÃO: to explain/to release/Buddha (abbr. for 釋迦牟尼|释迦牟尼)/Buddhism
+释俗 | TRADUÇÃO: to explain in simple terms
+释典 | TRADUÇÃO: Buddhist doctrine/sutras
+释出 | TRADUÇÃO: to release/to make available/to liberate/disengagement
+释卷 | TRADUÇÃO: to stop reading
+释名 | TRADUÇÃO: "Shiming", late Han dictionary, containing 1502 entries, using puns on the pronunciation of headwords to explain their meaning
+释回 | TRADUÇÃO: to release from custody
+释嫌 | TRADUÇÃO: to forget bad feelings; to mend a relationship
+释子 | TRADUÇÃO: (literary) Buddhist monk; Buddhist monastic
+释家 | TRADUÇÃO: Buddhism/a Buddhist
+释尊 | TRADUÇÃO: another name for Sakyamuni 釋迦牟尼佛|释迦牟尼佛, the historical Buddha
+释念 | TRADUÇÃO: (literary) to be reassured/not to worry
+释怀 | TRADUÇÃO: to get over (a traumatic experience, misgivings etc)
+释手 | TRADUÇÃO: to let go/to loosen one's grip/to put sth down
+释放 | TRADUÇÃO: to release/to set free/to liberate (a prisoner)/to discharge
+释放出狱 | TRADUÇÃO: to release from jail
+释教 | TRADUÇÃO: Buddhism
+释文 | TRADUÇÃO: interpreting words/to explain the meaning of words in classic texts/to decipher an old script
+释法 | TRADUÇÃO: to interpret the law
+释然 | TRADUÇÃO: relieved/at ease/feel relieved
+释疑 | TRADUÇÃO: to dispel doubts/to clear up difficulties
+释经 | TRADUÇÃO: exegesis/explanation of classic text
+释义 | TRADUÇÃO: the meaning of sth/an explanation of the meaning of words or phrases/definition/an interpretation (of doctrine)/religious doctrine
+释读 | TRADUÇÃO: to read and interpret ancient texts/to decipher
+释迦 | TRADUÇÃO: Shakya, an ethnicity and clan of the northeast of South Asia to which the Buddha (Siddhartha Gautama) belonged/the Buddha (abbr. for 釋迦牟尼|释迦牟尼, Shakyamuni, which means "the Sage of the Shakyas") ‖ sugar apple (Annona squamosa)
+释迦佛 | TRADUÇÃO: Sakyamuni Buddha (Sanskrit: sage of the Sakya)/Siddhartha Gautama (563-485 BC), the historical Buddha and founder of Buddhism
+释迦牟尼 | TRADUÇÃO: Shakyamuni (Sanskrit for "the Sage of the Shakyas", i.e. the Buddha, Siddhartha Gautama)
+释迦牟尼佛 | TRADUÇÃO: Sakyamuni Buddha (Sanskrit: sage of the Sakya)/Siddhartha Gautama (563-485 BC), the historical Buddha and founder of Buddhism
+释除 | TRADUÇÃO: (formal) to dispel (doubts); to allay (concerns)
+里人 | TRADUÇÃO: person from the same village, town or province/peasant (derog.)/(of a school of thought etc) follower
+里克特 | TRADUÇÃO: Richter (name)/Charles Francis Richter (1900-1985), US physicist and seismologist, after whom the Richter scale is named
+里加 | TRADUÇÃO: Riga, capital of Latvia
+里士满 | TRADUÇÃO: Richmond (name)
+里奇蒙 | TRADUÇÃO: Richmond (place name or surname)
+里奥斯 | TRADUÇÃO: Ríos (name)
+里巷 | TRADUÇÃO: lane/alley
+里希特霍芬 | TRADUÇÃO: Ferdinand von Richthofen (1833-1905), German geologist and explorer who published a major foundational study of the geology of China in 1887 and first introduced the term Silk Road 絲綢之路|丝绸之路
+里弄 | TRADUÇÃO: lanes and alleys/neighborhood/lane neighborhoods in parts of Shanghai, with modified Chinese courtyard houses, occupied by single families in the 1930s, now crowded with multiple families
+里弗赛德 | TRADUÇÃO: Riverside
+里拉 | TRADUÇÃO: (loanword) lira (currency of Turkey)
+里斯本 | TRADUÇÃO: Lisbon, capital of Portugal
+里昂 | TRADUÇÃO: Lyon, French city on the Rhône
+里朗威 | TRADUÇÃO: Lilongwe, capital of Malawi (Tw)
+里根 | TRADUÇÃO: Reagan (name)/Ronald Reagan (1911-2004), US president (1981-1989)
+里氏 | TRADUÇÃO: (seismology) Richter (scale)
+里氏震级 | TRADUÇÃO: (seismology) Richter scale
+里港 | TRADUÇÃO: Likang township in Pingtung County 屏東縣|屏东县, Taiwan
+里港乡 | TRADUÇÃO: Likang township in Pingtung County 屏東縣|屏东县, Taiwan
+里尔 | TRADUÇÃO: Lille (city in France)
+里瓦几亚条约 | TRADUÇÃO: Treaty of Livadia (1879) between Russia and China, relating to territory in Chinese Turkistan, renegotiated in 1881 (Treaty of St. Petersburg)
+里瓦尔多 | TRADUÇÃO: Rivaldo
+里社 | TRADUÇÃO: village shrine to the earth god
+里程 | TRADUÇÃO: mileage (distance traveled)/course (of development)
+里程碑 | TRADUÇÃO: milestone
+里程表 | TRADUÇÃO: odometer
+里程计 | TRADUÇÃO: speedometer (of a vehicle)
+里约 | TRADUÇÃO: Rio/abbr. for 里約熱內盧|里约热内卢 ‖ agreement between the residents of a 里, an administrative district under a city or town (Tw)
+里约热内卢 | TRADUÇÃO: Rio de Janeiro
+里维埃拉 | TRADUÇÃO: riviera (loanword)
+里维耶拉 | TRADUÇÃO: riviera (loanword) (Tw)
+里肌 | TRADUÇÃO: (Tw) tenderloin (usu. of pork)
+里肌肉 | TRADUÇÃO: loin (of pork)
+里谚 | TRADUÇÃO: common saying/folk proverb
+里贾纳 | TRADUÇÃO: Regina city, capital of Saskatchewan province, Canada
+里长伯 | TRADUÇÃO: neighborhood warden
+重 | TRADUÇÃO: to repeat/repetition/again/re-/classifier: layer ‖ heavy/serious/to attach importance to
+重中之重 | TRADUÇÃO: of the utmost importance/of highest priority
+重九 | TRADUÇÃO: the Double Ninth Festival (9th day of the 9th lunar month)
+重五 | TRADUÇÃO: Dragon Boat Festival (5th day of 5th lunar month)
+重任 | TRADUÇÃO: heavy responsibility
+重估 | TRADUÇÃO: to re-evaluate
+重来 | TRADUÇÃO: to start over/to do sth all over again
+重修 | TRADUÇÃO: to reconstruct/to repair/to revamp/to revise/to retake a failed course
+重修旧好 | TRADUÇÃO: to make friends again/to renew old cordial relations
+重做 | TRADUÇÃO: to redo
+重伤 | TRADUÇÃO: serious injury/seriously injured
+重价 | TRADUÇÃO: high price
+重元素 | TRADUÇÃO: heavy element (such as uranium)
+重光 | TRADUÇÃO: to recover one's sight/(fig.) to recover (lost territories)
+重兵 | TRADUÇÃO: massive military force
+重典 | TRADUÇÃO: important classic text/severe laws
+重出江湖 | TRADUÇÃO: (of a person) to return to the fray after a period of inactivity; to jump back into the thick of things/(of sth that was once popular) to be resurrected; to make a comeback
+重刊 | TRADUÇÃO: to reprint
+重判 | TRADUÇÃO: major punishment (law)
+重利 | TRADUÇÃO: high interest/huge profit/to value money highly
+重利轻义 | TRADUÇÃO: to value material gain over righteousness
+重创 | TRADUÇÃO: to inflict heavy losses; to inflict serious damage
+重剑 | TRADUÇÃO: épée (fencing)
+重力 | TRADUÇÃO: gravity
+重力加速度 | TRADUÇÃO: (physics) gravitational acceleration
+重力场 | TRADUÇÃO: gravitational field
+重力异常 | TRADUÇÃO: gravitational anomaly (geology)
+重午 | TRADUÇÃO: Dragon Boat Festival (5th day of 5th lunar month)
+重卡 | TRADUÇÃO: heavy truck (abbr. for 重型卡車|重型卡车)
+重印 | TRADUÇÃO: to reprint
+重又 | TRADUÇÃO: once again
+重口味 | TRADUÇÃO: strong flavor (spicy, salty etc)/(of food) strongly flavored/(of a person) having a preference for strong flavors/(slang) intense/hardcore
+重合 | TRADUÇÃO: to match up/to coincide
+重名 | TRADUÇÃO: to have the same name ‖ renowned/a great name
+重命名 | TRADUÇÃO: (computing) to rename
+重商主义 | TRADUÇÃO: mercantilism
+重启 | TRADUÇÃO: to restart (a machine etc); to reactivate (a postponed project etc)
+重器 | TRADUÇÃO: treasure
+重回 | TRADUÇÃO: to return
+重围 | TRADUÇÃO: to redouble a siege
+重地 | TRADUÇÃO: location of political, economic, military, or cultural importance (usu. not open to the general public); sensitive area
+重型 | TRADUÇÃO: heavy/heavy duty/large caliber
+重塑 | TRADUÇÃO: to reconstruct (an art object)/to remodel
+重压 | TRADUÇÃO: high pressure/bearing a heavy weight
+重大 | TRADUÇÃO: great/important/major/significant
+重奏 | TRADUÇÃO: musical ensemble of several instruments (e.g. duet 二重奏 or trio 三重奏)
+重婚 | TRADUÇÃO: bigamy
+重婚罪 | TRADUÇÃO: bigamy
+重子 | TRADUÇÃO: baryon (physics)
+重孝 | TRADUÇÃO: mourning dress
+重孙 | TRADUÇÃO: great-grandson
+重孙女 | TRADUÇÃO: great-granddaughter
+重孙子 | TRADUÇÃO: great-grandson
+重定向 | TRADUÇÃO: to redirect
+重审 | TRADUÇÃO: to reinvestigate/to investigate and reconsider a judgment
+重屋 | TRADUÇÃO: lit. multiple roof/building of several stories
+重峦叠嶂 | TRADUÇÃO: range upon range of mountains (idiom)
+重工 | TRADUÇÃO: heavy industry
+重工业 | TRADUÇÃO: heavy industry/manufacturing
+重度 | TRADUÇÃO: serious/severe
+重建 | TRADUÇÃO: to rebuild; to reconstruct; to reestablish
+重形式轻内容 | TRADUÇÃO: heavy on form, light on substance/to stress form at the expense of content
+重影 | TRADUÇÃO: overlapping images/double exposure of photo (e.g. due to fault or motion of camera)/double vision
+重心 | TRADUÇÃO: center of gravity/central core/main part
+重庆 | TRADUÇÃO: Chongqing municipality (short name 渝)
+重庆大学 | TRADUÇÃO: Chongqing University
+重庆市 | TRADUÇÃO: Chongqing municipality (short name 渝)
+重惩 | TRADUÇÃO: to punish severely
+重托 | TRADUÇÃO: great trust
+重披战袍 | TRADUÇÃO: (fig.) to re-enter the fray; to return to a field of activity after a period of absence
+重拾 | TRADUÇÃO: to pick up (a theme etc)/to regain (confidence)/to revive (a custom, friendship etc)
+重挫 | TRADUÇÃO: devastating setback/slump (in stock market etc)/crushing defeat/to cause a serious setback/to plummet
+重振 | TRADUÇÃO: to revitalize; to restore (prestige, prosperity etc)/revival; recovery
+重排 | TRADUÇÃO: to rearrange/to retypeset
+重提 | TRADUÇÃO: to raise the same topic
+重提旧事 | TRADUÇÃO: to raise the same old topic again/to hark back
+重插 | TRADUÇÃO: to replug/to disconnect and reconnect (from a plug, port, connection etc)
+重播 | TRADUÇÃO: to replay/to rerun/(agriculture) to reseed/to oversow
+重击 | TRADUÇÃO: bang/thump
+重操旧业 | TRADUÇÃO: to resume one's old trade (idiom)
+重担 | TRADUÇÃO: heavy burden; difficult task; great responsibility
+重整 | TRADUÇÃO: to restructure/to reorganize/to revamp
+重整奥思定会 | TRADUÇÃO: Order of Augustinian Recollects, a mendicant Catholic religious order of friars and nuns
+重整旗鼓 | TRADUÇÃO: lit. to reorganize flags and drums (idiom); to regroup after a setback/to prepare for new initiatives/to attempt a comeback
+重文 | TRADUÇÃO: repetitious passage/multiple variants of Chinese characters
+重文轻武 | TRADUÇÃO: to value letters and belittle arms (idiom); to stress civil matters and neglect the military/to prefer the pen to the sword
+重新 | TRADUÇÃO: again; once more; re-
+重新做人 | TRADUÇÃO: to start a new life; to make a fresh start
+重新启动 | TRADUÇÃO: to reboot; to restart
+重新装修 | TRADUÇÃO: refurbishment; renovation
+重新造林 | TRADUÇÃO: reforestation
+重新开始 | TRADUÇÃO: to resume; to restart; to start afresh
+重新开机 | TRADUÇÃO: to restart; to reboot
+重于泰山 | TRADUÇÃO: heavier than Mt Tai (idiom); fig. extremely serious matter
+重映 | TRADUÇÃO: to reshow (a movie)
+重晶石 | TRADUÇÃO: barite (geology)
+重望 | TRADUÇÃO: renowned/prestigious/great hopes/expectations
+重查 | TRADUÇÃO: to reinvestigate; to check again
+重核 | TRADUÇÃO: heavy nucleus
+重案 | TRADUÇÃO: major case/serious crime
+重构 | TRADUÇÃO: to reconstruct/reconstruction/(computing) refactoring
+重楼 | TRADUÇÃO: multistory building
+重样 | TRADUÇÃO: same/similar/same type
+重机枪 | TRADUÇÃO: heavy machine gun
+重机关枪 | TRADUÇÃO: also written 重機槍|重机枪/heavy machine gun
+重正化 | TRADUÇÃO: to renormalize/renormalization
+重武器 | TRADUÇÃO: heavy weapon
+重历旧游 | TRADUÇÃO: to revisit/to return to a previously visited spot
+重氢 | TRADUÇÃO: heavy hydrogen (isotope)/deuterium
+重水 | TRADUÇÃO: heavy water (chemistry)
+重水反应堆 | TRADUÇÃO: heavy water reactor (HWR)
+重沓 | TRADUÇÃO: redundant/to pile up
+重油 | TRADUÇÃO: (petrochemistry) heavy oil/fuel oil
+重油蛋糕 | TRADUÇÃO: pound cake
+重洋 | TRADUÇÃO: seas and oceans
+重活 | TRADUÇÃO: heavy work
+重活儿 | TRADUÇÃO: erhua variant of 重活
+重混 | TRADUÇÃO: remix (music)
+重温 | TRADUÇÃO: to learn sth over again/to review/to brush up/to revive (memories, friendship etc)
+重温旧梦 | TRADUÇÃO: to revive old dreams (idiom); to relive past experiences
+重温旧业 | TRADUÇÃO: to resume one's old trade (idiom)
+重演 | TRADUÇÃO: to recur (of events, esp. adverse ones)/to repeat (a performance)
+重灾 | TRADUÇÃO: severe disaster
+重灾区 | TRADUÇÃO: area particularly hard-hit by a disaster/disaster area
+重版 | TRADUÇÃO: to republish
+重物 | TRADUÇÃO: heavy object
+重犯 | TRADUÇÃO: serious criminal/felon
+重获 | TRADUÇÃO: recovery/to recover
+重玩 | TRADUÇÃO: to replay (a video game)
+重现 | TRADUÇÃO: to reappear
+重现江湖 | TRADUÇÃO: see 重出江湖
+重瓣 | TRADUÇÃO: (botany) double-flowered
+重生 | TRADUÇÃO: to be reborn/rebirth
+重用 | TRADUÇÃO: to put in an important position
+重申 | TRADUÇÃO: to reaffirm/to reiterate
+重男轻女 | TRADUÇÃO: to value males and attach less importance to females (idiom)
+重叠 | TRADUÇÃO: to overlap/to superimpose/to telescope/to run together/to duplicate/one over another/superposition/an overlap/redundancy/reduplication (in Chinese grammar, e.g. 散散步 to have a stroll)
+重病 | TRADUÇÃO: serious illness
+重病特护 | TRADUÇÃO: intensive care
+重病特护区 | TRADUÇÃO: intensive care department (of hospital)
+重症 | TRADUÇÃO: acute (of medical condition)/grave
+重症监护 | TRADUÇÃO: intensive care
+重症监护室 | TRADUÇÃO: intensive care unit (ICU)
+重症肌无力 | TRADUÇÃO: myasthenia gravis (medicine)
+重眼皮 | TRADUÇÃO: double eyelid/epicanthal fold of upper eyelid (characteristic of Asian people)
+重眼皮儿 | TRADUÇÃO: double eyelid/epicanthal fold of upper eyelid (characteristic of Asian people)
+重睹天日 | TRADUÇÃO: to see the light again (idiom); delivered from oppression
+重炮 | TRADUÇÃO: heavy artillery
+重碳酸钙 | TRADUÇÃO: calcium bicarbonate Ca(HCO3)2
+重碳酸盐 | TRADUÇÃO: bicarbonate
+重码 | TRADUÇÃO: repeated code/coincident code (i.e. two characters or words having the same encoding)
+重磅 | TRADUÇÃO: (of a bomb) powerful/(of news) impactful; significant/(of fabric) heavy-duty
+重磅炸弹 | TRADUÇÃO: (fig.) sth that produces shockwaves/bombshell (revelation)/blockbuster (product)
+重算 | TRADUÇÃO: to recalculate/to reckon again
+重组 | TRADUÇÃO: to reorganize; to recombine; to restructure
+重组家庭 | TRADUÇÃO: blended family
+重结晶 | TRADUÇÃO: to recrystallize
+重编 | TRADUÇÃO: (of a dictionary etc) revised edition
+重茧 | TRADUÇÃO: thick callus/(literary) thick silkwaste padded clothes
+重罪 | TRADUÇÃO: serious crime/felony
+重置 | TRADUÇÃO: to reset/reset/replacement
+重罚 | TRADUÇÃO: to punish severely
+重义轻利 | TRADUÇÃO: to value righteousness rather than material gain (idiom)
+重者 | TRADUÇÃO: more serious case/in extreme cases
+重聚 | TRADUÇÃO: to meet again
+重联 | TRADUÇÃO: (physics) magnetic reconnection/(railways) double heading (using two locomotives at the front of a train)
+重听 | TRADUÇÃO: hard of hearing
+重臂 | TRADUÇÃO: actuator (arm of a lever)/lever/actuating arm
+重臣 | TRADUÇÃO: important minister/major figure in government
+重色轻友 | TRADUÇÃO: paying more attention to a lover than friends (idiom)/to value sex over friendship
+重茬 | TRADUÇÃO: continuous cropping; to plant the same crop continuously on the same land
+重荷 | TRADUÇÃO: heavy load/heavy burden
+重装 | TRADUÇÃO: (computing) to reinstall
+重制 | TRADUÇÃO: to make a copy/to reproduce/to remake (a movie)
+重复 | TRADUÇÃO: to repeat/to duplicate/CL:個|个 ‖ variant of 重複|重复
+重复使力伤害 | TRADUÇÃO: repetitive strain injury (RSI)
+重复性劳损 | TRADUÇÃO: repetitive strain injury (RSI)
+重复法 | TRADUÇÃO: repetition/duplication/reduplication/anadiplosis
+重要 | TRADUÇÃO: important; significant; major
+重要性 | TRADUÇÃO: importance
+重复性 | TRADUÇÃO: repetitive
+重见天日 | TRADUÇÃO: to see the light again (idiom); delivered from oppression
+重视 | TRADUÇÃO: to attach importance to sth; to value
+重视教育 | TRADUÇÃO: to stress education
+重训 | TRADUÇÃO: (Tw) weight training (abbr. for 重量訓練|重量训练)
+重访 | TRADUÇÃO: to revisit
+重设 | TRADUÇÃO: to reset
+重评 | TRADUÇÃO: to reevaluate/to reassess
+重试 | TRADUÇÃO: to retry/to try again
+重话 | TRADUÇÃO: harsh words
+重译 | TRADUÇÃO: to translate again (i.e. to redo the same translation)/to translate repeatedly from one language to the next (so multiplying errors)
+重读 | TRADUÇÃO: stress (on a syllable)
+重负 | TRADUÇÃO: heavy load/heavy burden (also fig. of tax)
+重责 | TRADUÇÃO: heavy responsibility/serious criticism
+重赏 | TRADUÇÃO: ample reward/to reward generously
+重起炉灶 | TRADUÇÃO: to start over from scratch (idiom)
+重趼 | TRADUÇÃO: thick callus
+重蹈 | TRADUÇÃO: (fig.) to follow (a path that has proved ill-advised)
+重蹈覆辙 | TRADUÇÃO: lit. to follow in the tracks of an overturned cart (idiom)/fig. to follow a path that led to failure in the past/to repeat a disastrous mistake
+重身子 | TRADUÇÃO: pregnant/pregnant woman
+重载 | TRADUÇÃO: (computing) overloading ‖ heavy load (on a truck)
+重辣 | TRADUÇÃO: very spicy
+重办 | TRADUÇÃO: to punish severely
+重农 | TRADUÇÃO: to stress the importance of agriculture (in ancient philosophy)
+重农抑商 | TRADUÇÃO: economic doctrine and policy in traditional China of emphasizing agriculture and suppressing commerce
+重返 | TRADUÇÃO: to return to
+重迭 | TRADUÇÃO: variant of 重疊|重叠
+重述 | TRADUÇÃO: to repeat/to restate/to recapitulate
+重造 | TRADUÇÃO: to reconstruct
+重逢 | TRADUÇÃO: to meet again/to be reunited/reunion
+重连 | TRADUÇÃO: to reconnect
+重重 | TRADUÇÃO: layer upon layer/one after another ‖ heavily/severely
+重量 | TRADUÇÃO: weight/CL:個|个
+重量单位 | TRADUÇÃO: unit of weight
+重量吨 | TRADUÇÃO: dead weight ton
+重量级 | TRADUÇÃO: (sports) heavyweight class/(fig.) important; major; prominent; influential
+重量训练 | TRADUÇÃO: weight training (Tw)
+重量轻质 | TRADUÇÃO: to value quantity over quality
+重金 | TRADUÇÃO: large sum of money
+重金属 | TRADUÇÃO: heavy metal
+重镇 | TRADUÇÃO: (military) strategic town/(fig.) major center (for commerce, culture or tourism etc)
+重开 | TRADUÇÃO: to reopen
+重阳 | TRADUÇÃO: Double Ninth or Yang Festival/9th day of 9th lunar month
+重阳节 | TRADUÇÃO: Double Ninth or Yang Festival/9th day of 9th lunar month
+重离子 | TRADUÇÃO: heavy ion (physics)
+重霄 | TRADUÇÃO: ninth heaven/Highest Heaven
+重音 | TRADUÇÃO: accent (of a word)/stress (on a syllable)
+重音节 | TRADUÇÃO: accented syllable/stress
+重头 | TRADUÇÃO: anew/from the beginning/(in poetry and song) repetition of a melody or rhythm ‖ main; most important; essential/important part
+重头戏 | TRADUÇÃO: opera (or role) involving much singing and action/(fig.) highlight/main feature/major activity
+重黎 | TRADUÇÃO: Chongli, another name for Zhurong 祝融, god of fire
+重点 | TRADUÇÃO: to recount (e.g. results of election)/to re-evaluate ‖ important point; main point; focus/key (project etc)/to focus on; to put the emphasis on
+野人 | TRADUÇÃO: a savage/uncivilized person/(old) commoner
+野兔 | TRADUÇÃO: hare
+野叟曝言 | TRADUÇÃO: Yesou Puyan or Humble Words of a Rustic Elder, monumental Qing novel by Xia Jingqu 夏敬渠
+野口 | TRADUÇÃO: Noguchi (Japanese surname)
+野史 | TRADUÇÃO: unofficial history/history as popular legends
+野合 | TRADUÇÃO: to commit adultery
+野味 | TRADUÇÃO: game/wild animals and birds hunted for food or sport
+野地 | TRADUÇÃO: wilderness
+野外 | TRADUÇÃO: countryside/areas outside the city
+野外定向 | TRADUÇÃO: orienteering
+野外放养 | TRADUÇÃO: free-range (breeding livestock or poultry)
+野孩子 | TRADUÇÃO: feral child
+野小茴 | TRADUÇÃO: dill seed
+野山椒 | TRADUÇÃO: same as 朝天椒
+野径 | TRADUÇÃO: country path/track in the wilderness
+野心 | TRADUÇÃO: ambition/wild schemes/careerism
+野性 | TRADUÇÃO: wild nature/unruliness
+野战 | TRADUÇÃO: battlefield operation/paintball
+野战军 | TRADUÇÃO: field army
+野放 | TRADUÇÃO: to release (an animal) into the wild
+野村 | TRADUÇÃO: Nomura (Japanese surname)
+野果 | TRADUÇÃO: wild fruit
+野格利口酒 | TRADUÇÃO: Jägermeister (alcoholic drink)
+野樱莓 | TRADUÇÃO: chokeberry (Aronia melanocarpa)
+野汉子 | TRADUÇÃO: woman's lover
+野火 | TRADUÇÃO: wildfire/(spreading like) wildfire/bush fire/farm fire (for clearing fields)
+野火春风 | TRADUÇÃO: abbr. for 野火燒不盡，春風吹又生|野火烧不尽，春风吹又生
+野火烧不尽，春风吹又生 | TRADUÇÃO: lit. even a prairie fire cannot destroy the grass - it grows again when the breeze blows (proverb)/fig. cannot be easily eliminated/abbr. to 野火春風|野火春风
+野炊 | TRADUÇÃO: to cook a meal over a campfire (usu. for a group of people on an outing)/cookout
+野炮 | TRADUÇÃO: field artillery
+野营 | TRADUÇÃO: to camp/field lodgings
+野爹 | TRADUÇÃO: (vulgar) a man sb's mother has an affair with
+野牛 | TRADUÇÃO: bison
+野狐禅 | TRADUÇÃO: heresy
+野狗 | TRADUÇÃO: wild dog/feral dog/stray dog
+野兽 | TRADUÇÃO: beast/wild animal
+野甘蓝 | TRADUÇÃO: European wild cabbage (Brassica oleracea)
+野生 | TRADUÇÃO: wild/undomesticated
+野生动植物园 | TRADUÇÃO: wildlife park/safari park
+野生动物 | TRADUÇÃO: wild animal
+野生植物 | TRADUÇÃO: plants in the wild
+野生生物 | TRADUÇÃO: wildlife/creatures in the wild/wild organism
+野生生物基金会 | TRADUÇÃO: World Wildlife Fund (WWF)
+野田佳彦 | TRADUÇÃO: Noda Yoshihiko (1957-), prime minister of Japan 2011-2012
+野禽 | TRADUÇÃO: fowl
+野种 | TRADUÇÃO: (derog.) illegitimate child/bastard
+野胡萝卜 | TRADUÇÃO: carrot (Daucus carota)
+野花 | TRADUÇÃO: wildflower/woman of easy virtue
+野草 | TRADUÇÃO: weeds/mistress or prostitute (old)
+野菜 | TRADUÇÃO: wild herb/potherb
+野蛮 | TRADUÇÃO: barbarous/uncivilized
+野蛮人 | TRADUÇÃO: barbarian
+野调无腔 | TRADUÇÃO: coarse in speech and manner
+野豕 | TRADUÇÃO: (literary) wild boar
+野猪 | TRADUÇÃO: wild boar (Sus scrofa)/CL:頭|头
+野猫 | TRADUÇÃO: wildcat/feral cat; stray cat
+野趣 | TRADUÇÃO: rustic charm
+野路子 | TRADUÇÃO: (coll.) unorthodox (method etc)
+野游 | TRADUÇÃO: outing in the country/to go on a hike/to go courting
+野钓 | TRADUÇÃO: wild angling
+野鸡 | TRADUÇÃO: pheasant/unregistered and operating illegally (business)/(slang) prostitute
+野鸡大学 | TRADUÇÃO: diploma mill
+野颠茄 | TRADUÇÃO: deadly nightshade (Atropa belladonna)
+野餐 | TRADUÇÃO: picnic/to have a picnic
+野餐垫 | TRADUÇÃO: picnic blanket
+野马 | TRADUÇÃO: feral horse/free-roaming horse/wild horse
+野驴 | TRADUÇÃO: onager (Equus onager)
+野鸳鸯 | TRADUÇÃO: wild mandarin duck/(derog.) illicit lovers/unorthodox couple
+野鸭 | TRADUÇÃO: wild duck/mallard (Anas platyrhyncha)
+野鼬瓣花 | TRADUÇÃO: wild hemp
+量 | TRADUÇÃO: to measure ‖ capacity/quantity/amount/to estimate/abbr. for 量詞|量词, classifier (in Chinese grammar)/measure word
+量入为出 | TRADUÇÃO: to assess one's income and spend accordingly (idiom); to live within one's means/You can only spend what you earn.
+量具 | TRADUÇÃO: measuring device
+量刑 | TRADUÇÃO: (law) to determine the sentence
+量力 | TRADUÇÃO: to estimate one's strength
+量力而为 | TRADUÇÃO: to weigh one's abilities and act accordingly/to act according to one's means/to cut one's coat according to one's cloth
+量力而行 | TRADUÇÃO: to assess one's capabilities and act accordingly (idiom); to act within one's competence/One does what one can.
+量化 | TRADUÇÃO: to quantify; quantification; quantitative/to quantize; quantization
+量化宽松 | TRADUÇÃO: quantitative easing (finance)
+量化逻辑 | TRADUÇÃO: quantificational logic (i.e. first-order logic)
+量器 | TRADUÇÃO: measuring vessel/measuring apparatus
+量子 | TRADUÇÃO: (physics) quantum
+量子力学 | TRADUÇÃO: quantum mechanics
+量子化 | TRADUÇÃO: quantization (physics)
+量子场论 | TRADUÇÃO: quantum field theory
+量子沫 | TRADUÇÃO: quantum foam (in string theory, and science fiction)
+量子纠缠 | TRADUÇÃO: quantum entanglement (physics)
+量子色动力学 | TRADUÇÃO: quantum chromodynamics (particle physics)
+量子论 | TRADUÇÃO: quantum theory (physics)
+量子阱 | TRADUÇÃO: (physics) quantum well
+量子电动力学 | TRADUÇÃO: quantum electrodynamics QED
+量尺寸 | TRADUÇÃO: to take sb's measurements
+量度 | TRADUÇÃO: to measure/measurement
+量才录用 | TRADUÇÃO: to assess sb's capabilities and employ him accordingly (idiom); to employ sb competent for the task
+量杯 | TRADUÇÃO: measuring cup/graduated measuring cylinder
+量油尺 | TRADUÇÃO: dipstick/oil measuring rod
+量测 | TRADUÇÃO: to measure/measurement
+量瓶 | TRADUÇÃO: measuring flask/graduated measuring cylinder
+量产 | TRADUÇÃO: to mass-produce
+量程 | TRADUÇÃO: range (of scales or measuring equipment)
+量筒 | TRADUÇÃO: graduated measuring cylinder/volumetric cylinder
+量级 | TRADUÇÃO: order of magnitude/weight class (boxing etc); (fig.) class (level of capability)
+量纲 | TRADUÇÃO: dimension (unit)
+量腹 | TRADUÇÃO: to estimate how much food is required for a meal
+量表 | TRADUÇÃO: gauge/meter/scale
+量规 | TRADUÇÃO: gauge held against an object to judge thickness, diameter etc (e.g. feeler gauge, calipers)/rubric (i.e. a guide listing specific criteria for grading) (abbr. for 評價量規|评价量规)
+量角器 | TRADUÇÃO: protractor/angle gauge
+量计 | TRADUÇÃO: gauge
+量词 | TRADUÇÃO: classifier (in Chinese grammar)/measure word
+量变 | TRADUÇÃO: quantitative change
+量贩 | TRADUÇÃO: to sell in a large amount at a lower price per unit
+量贩店 | TRADUÇÃO: wholesale store/hypermarket
+量贩式 | TRADUÇÃO: at wholesale price
+量身 | TRADUÇÃO: to take sb's measurements/to measure sb up
+量身定做 | TRADUÇÃO: to tailor-make/tailor-made/tailored to/customized
+量身定制 | TRADUÇÃO: tailor-made
+量体温 | TRADUÇÃO: to take sb's temperature
+量体裁衣 | TRADUÇÃO: (lit.) to cut cloth according to the body (idiom)/(fig.) to act according to actual circumstances
+量体重 | TRADUÇÃO: to weigh oneself; to measure sb's weight
+厘克 | TRADUÇÃO: centigram
+厘升 | TRADUÇÃO: centiliter
+厘析 | TRADUÇÃO: to analyze in detail
+厘清 | TRADUÇÃO: to clarify (the facts)/clarification
+厘瓦 | TRADUÇÃO: centiwatt
+厘米 | TRADUÇÃO: centimeter
+金 | TRADUÇÃO: surname Jin/surname Kim (Korean)/Jurchen Jin dynasty (1115–1234) ‖ gold/chemical element Au/generic term for lustrous and ductile metals/money/golden/highly respected/one of the eight categories of ancient musical instruments 八音
+金三角 | TRADUÇÃO: Golden Triangle (Southeast Asia)
+金主 | TRADUÇÃO: financial backer/bankroller
+金代 | TRADUÇÃO: Jin Dynasty (1115-1234), founded by the Jurchen 女真 people of North China, a precursor of the Mongol Yuan Dynasty
+金伯利岩 | TRADUÇÃO: Kimberlite (geology)
+金元券 | TRADUÇÃO: currency issued by Nationalist Government in 1948
+金光闪烁 | TRADUÇÃO: spangle
+金光党 | TRADUÇÃO: racketeers/con artists
+金冠地莺 | TRADUÇÃO: (bird species of China) slaty-bellied tesia (Tesia olivea)
+金冠戴菊 | TRADUÇÃO: goldcrest (Regulus regulus)/gold-crowned kinglet
+金冠树八哥 | TRADUÇÃO: (bird species of China) golden-crested myna (Ampeliceps coronatus)
+金刚 | TRADUÇÃO: King Kong ‖ diamond/(used to translate Sanskrit "vajra", a thunderbolt or mythical weapon)/guardian deity (in Buddhist iconography)
+金刚山 | TRADUÇÃO: Kumgangsan Tourist Region in east North Korea
+金刚座 | TRADUÇÃO: Bodhimanda (place of enlightenment associated with a Bodhisattva)
+金刚怒目 | TRADUÇÃO: (idiom) to have a face as terrifying as a temple's guardian deity
+金刚手菩萨 | TRADUÇÃO: Vajrapani Bodhisattva
+金刚杵 | TRADUÇÃO: vajra scepter (ritual object of Buddhism)
+金刚狼 | TRADUÇÃO: Wolverine, comic book superhero
+金刚石 | TRADUÇÃO: diamond/also called 鑽石|钻石
+金刚砂 | TRADUÇÃO: carborundum/emery
+金刚总持 | TRADUÇÃO: Vajradhara
+金刚萨埵 | TRADUÇÃO: Vajrasattva
+金刚鹦鹉 | TRADUÇÃO: macaw
+金匠 | TRADUÇÃO: goldsmith
+金汇兑本位制 | TRADUÇÃO: gold exchange standard (economics)
+金匮 | TRADUÇÃO: variant of 金櫃|金柜
+金匮石室 | TRADUÇÃO: variant of 金櫃石室|金柜石室
+金印 | TRADUÇÃO: golden seal/characters tattooed on a convict's face
+金口河 | TRADUÇÃO: see 金口河區|金口河区
+金口河区 | TRADUÇÃO: Jinkouhe, a district of Leshan City 樂山市|乐山市, Sichuan
+金句 | TRADUÇÃO: pearl of wisdom; quotable quote
+金史 | TRADUÇÃO: History of the Jurchen Jin Dynasty, twenty second of the 24 dynastic histories 二十四史, composed under Toktoghan 脫脫|脱脱 in 1345 during the Yuan Dynasty 元, 135 scrolls
+金合欢 | TRADUÇÃO: acacia
+金喉拟啄木鸟 | TRADUÇÃO: (bird species of China) golden-throated barbet (Psilopogon franklinii)
+金国汗 | TRADUÇÃO: the Later Jin dynasty (from 1616-)/the Manchu khanate or kingdom that took over as the Qing dynasty in 1644
+金圆券 | TRADUÇÃO: currency issued by Nationalist Government in 1948
+金城江 | TRADUÇÃO: see 金城江區|金城江区
+金城江区 | TRADUÇÃO: Jinchengjiang, a district of Hechi City 河池市, Guangxi
+金城汤池 | TRADUÇÃO: impregnable fortress
+金城镇 | TRADUÇÃO: Jincheng (common place name)/Chincheng town in Kinmen County 金門縣|金门县 (Kinmen or Quemoy islands), Taiwan
+金堂 | TRADUÇÃO: see 金堂縣|金堂县
+金堂县 | TRADUÇÃO: Jintang, a county in Chengdu City 成都市, Sichuan
+金塔 | TRADUÇÃO: see 金塔縣|金塔县
+金塔县 | TRADUÇÃO: Jinta, a county in Jiuquan City 酒泉市, Gansu
+金坛 | TRADUÇÃO: see 金壇區|金坛区
+金坛区 | TRADUÇÃO: Jintan, a district of Changzhou City 常州市, Jiangsu
+金夏沙 | TRADUÇÃO: Kinshasa, capital of the Democratic Republic of the Congo (Tw)
+金大中 | TRADUÇÃO: Kim Dae-jung (1926-2009), South Korea politician, president 1998-2003, Nobel peace prize laureate 2000
+金天翮 | TRADUÇÃO: Jin Tianhe (1874–1947), late-Qing poet and novelist, co-author of A Flower in a Sinful Sea 孽海花
+金威 | TRADUÇÃO: Kingway (Chinese beer brand)
+金子 | TRADUÇÃO: Kaneko (Japanese surname) ‖ gold
+金字 | TRADUÇÃO: gold lettering/gold characters
+金字塔 | TRADUÇÃO: pyramid (building or structure)
+金字塔式 | TRADUÇÃO: downward-facing dog (yoga pose)
+金宇中 | TRADUÇÃO: Kim Woo-jung (1936-), Korean businessman and founder of the Daewoo Group
+金安 | TRADUÇÃO: see 金安區|金安区
+金安区 | TRADUÇÃO: Jin'an, a district of Lu'an City 六安市, Anhui
+金富轼 | TRADUÇÃO: Kim Busik (1075-1151), court historian of the Korean Georyo dynasty 高麗|高丽, compiler of History of Three Kingdoms 三國史記|三国史记
+金宁 | TRADUÇÃO: Chinning township in Kinmen County 金門縣|金门县 (Kinmen or Quemoy islands), Taiwan
+金宁乡 | TRADUÇÃO: Chinning township in Kinmen County 金門縣|金门县 (Kinmen or Quemoy islands), Taiwan
+金寨 | TRADUÇÃO: see 金寨縣|金寨县
+金寨县 | TRADUÇÃO: Jinzhai, a county in Lu'an City 六安市, Anhui
+金宝 | TRADUÇÃO: Campbell (name)/Kampar, town in the state of Perak, Malaysia
+金小蜂 | TRADUÇÃO: a parisitoid wasp (genus Nasonia)
+金屋藏娇 | TRADUÇÃO: a golden house to keep one's mistress (idiom); a magnificent house built for a beloved woman
+金属 | TRADUÇÃO: metal/CL:種|种
+金属疲劳 | TRADUÇÃO: metal fatigue
+金属键 | TRADUÇÃO: metallic bond
+金山 | TRADUÇÃO: Jinshan suburban district of Shanghai/Jinshan or Chinshan township in New Taipei City 新北市, Taiwan
+金山区 | TRADUÇÃO: Jinshan suburban district of Shanghai
+金山寺 | TRADUÇÃO: Jinshan Temple, where Fahai lives (from Madam White Snake)
+金山乡 | TRADUÇÃO: Jinshan or Chinshan township in New Taipei City 新北市, Taiwan
+金峰 | TRADUÇÃO: Jinfeng or Chinfeng township in Taitung County 臺東縣|台东县, southeast Taiwan
+金峰乡 | TRADUÇÃO: Jinfeng or Chinfeng township in Taitung County 臺東縣|台东县, southeast Taiwan
+金川 | TRADUÇÃO: see 金川區|金川区/see 金川縣|金川县
+金川区 | TRADUÇÃO: Jinchuan, a district of Jinchang City 金昌市, Gansu
+金川县 | TRADUÇÃO: Jinchuan, a county in Ngawa Tibetan and Qiang Autonomous Prefecture 阿壩藏族羌族自治州|阿坝藏族羌族自治州, Sichuan
+金州 | TRADUÇÃO: see 金州區|金州区
+金州区 | TRADUÇÃO: Jinzhou, a district of Dalian City 大連市|大连市, Liaoning
+金帐汗国 | TRADUÇÃO: Golden Horde (ancient state)
+金币 | TRADUÇÃO: gold coin
+金平 | TRADUÇÃO: see 金平區|金平区/see 金平苗族瑤族傣族自治縣|金平苗族瑶族傣族自治县
+金平区 | TRADUÇÃO: Jinping, a district of Shantou City 汕頭市|汕头市, Guangdong
+金平糖 | TRADUÇÃO: a type of small, bumpy, colored, hard sugar candy (orthographic borrowing from Japanese 金平糖 "konpeitō")
+金平县 | TRADUÇÃO: see 金平苗族瑤族傣族自治縣|金平苗族瑶族傣族自治县
+金平苗族瑶族傣族自治县 | TRADUÇÃO: Jinping Miao, Yao, and Dai Autonomous County, in Honghe Hani and Yi Autonomous Prefecture 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+金库 | TRADUÇÃO: treasury
+金庸 | TRADUÇÃO: Jin Yong, pen name of Louis Cha (1924-2018), wuxia 武俠|武侠 novelist, author of the 1957-1961 Condor Trilogy
+金戈铁马 | TRADUÇÃO: very powerful army
+金改 | TRADUÇÃO: financial reform (abbr. for 金融改革)
+金文 | TRADUÇÃO: inscription in bronze/bell-cauldron inscription
+金斑鸻 | TRADUÇÃO: (bird species of China) Pacific golden plover (Pluvialis fulva)
+金斯敦 | TRADUÇÃO: Kingstown, capital of Saint Vincent and the Grenadines/Kingston, capital of Jamaica
+金日成 | TRADUÇÃO: Kim Il Sung (1912-1994) Great Leader of North Korea
+金昌 | TRADUÇÃO: see 金昌市
+金昌市 | TRADUÇÃO: Jinchang, prefecture-level city in Gansu Province 甘肅省|甘肃省
+金星 | TRADUÇÃO: Venus (planet) ‖ gold star/stars (that one sees from blow to the head etc)
+金曜日 | TRADUÇÃO: Friday (used in ancient Chinese astronomy)
+金曲 | TRADUÇÃO: hit song
+金曲奖 | TRADUÇÃO: Golden Melody Awards
+金朝 | TRADUÇÃO: Jin Dynasty (1115-1234), founded by the Jurchen 女真 people of North China, a precursor of the Mongol Yuan Dynasty
+金本位 | TRADUÇÃO: gold standard (monetary system)
+金东 | TRADUÇÃO: see 金東區|金东区
+金东区 | TRADUÇÃO: Jindong, a district of Jinhua City 金華市|金华市, Zhejiang
+金林 | TRADUÇÃO: see 金林區|金林区
+金林区 | TRADUÇÃO: Jinlin, a district of Yichun City 伊春市, Heilongjiang
+金枝玉叶 | TRADUÇÃO: golden branch, jade leaves (idiom); fig. blue-blooded nobility, esp. imperial kinsmen or peerless beauty
+金柑 | TRADUÇÃO: kumquat
+金桂冠 | TRADUÇÃO: Kim Kye-gwan (1943-), North Korean diplomat, first vice-foreign minister and chief negotiator 2010-2019
+金桔 | TRADUÇÃO: kumquat
+金条 | TRADUÇÃO: gold bar
+金枣 | TRADUÇÃO: oval kumquat; Nagami kumquat (Citrus margarita)
+金榜 | TRADUÇÃO: (lit.) tablet with inscription in gold/(fig.) pass list for the top imperial examinations; roll of honor
+金榜题名 | TRADUÇÃO: to win top marks in the imperial examinations
+金枪鱼 | TRADUÇÃO: tuna
+金橘 | TRADUÇÃO: kumquat/also written 金桔
+金柜 | TRADUÇÃO: strongbox/safe/metal bookcase
+金柜石室 | TRADUÇÃO: safe places for storing important articles
+金正恩 | TRADUÇÃO: Kim Jong-un (c. 1983-), third son of Kim Jong-il 金正日, supreme leader of North Korea from 2011
+金正日 | TRADUÇÃO: Kim Jong-il (1942-2011), Dear Leader of North Korea 1982-2011
+金正男 | TRADUÇÃO: Kim Jong-nam (1971-2017), the eldest son of Kim Jong-il 金正日
+金正银 | TRADUÇÃO: former spelling of Kim Jong-un 金正恩
+金毛 | TRADUÇÃO: blond fur; golden hair/(coll.) golden retriever
+金毛寻回犬 | TRADUÇÃO: golden retriever
+金毛犬 | TRADUÇÃO: golden retriever (dog breed)
+金毛狗 | TRADUÇÃO: golden retriever (dog breed)/Cibotium barometz, Asian tropical tree fern with hairy fronds (used in TCM)
+金氏 | TRADUÇÃO: Guinness (name) (Tw)
+金水 | TRADUÇÃO: see 金水區|金水区
+金水区 | TRADUÇÃO: Jinshui, a district of Zhengzhou City 鄭州市|郑州市, Henan
+金永南 | TRADUÇÃO: Kim Yong-nam (1928-), North Korean politician, foreign minister 1983-1998, president of the Supreme People's Assembly 1998-2019 (nominal head of state and described as deputy leader)
+金沙 | TRADUÇÃO: see 金沙縣|金沙县 ‖ gold dust/salted egg yolk sauce
+金沙江 | TRADUÇÃO: Jinsha River, the upper course of the Yangtze River 長江|长江 in southwestern China
+金沙县 | TRADUÇÃO: Jinsha, a county in Bijie City 畢節市|毕节市, Guizhou
+金沙萨 | TRADUÇÃO: Kinshasa, capital of the Democratic Republic of the Congo
+金沙镇 | TRADUÇÃO: Chinsha town in Kinmen County 金門縣|金门县 (Kinmen or Quemoy islands), Taiwan
+金泉 | TRADUÇÃO: Gimcheon (city in South Korea)
+金泳三 | TRADUÇÃO: Kim Young-sam (1927-2015), South Korean politician, president 1993-1998
+金湖 | TRADUÇÃO: Jinhu county in Huai'an 淮安, Jiangsu/Chinhu town in Kinmen County 金門縣|金门县 (Kinmen or Quemoy islands), Taiwan
+金湖县 | TRADUÇÃO: Jinhu, a county in Huai'an City 淮安市, Jiangsu
+金湖镇 | TRADUÇÃO: Chinhu town in Kinmen County 金門縣|金门县 (Kinmen or Quemoy islands), Taiwan
+金汤 | TRADUÇÃO: impregnable fortress (abbr. for 金城湯池|金城汤池)
+金汤力 | TRADUÇÃO: (loanword) gin and tonic
+金溪 | TRADUÇÃO: see 金溪縣|金溪县
+金溪县 | TRADUÇÃO: Jinxi, a county in Fuzhou City 撫州市|抚州市, Jiangxi
+金漆 | TRADUÇÃO: copper paint/fake gold leaf
+金渐层 | TRADUÇÃO: golden British shorthair (cat)
+金湾 | TRADUÇÃO: see 金灣區|金湾区
+金湾区 | TRADUÇÃO: Jinwan, a district of Zhuhai City 珠海市, Guangdong
+金乌 | TRADUÇÃO: Golden Crow/the sun/the three-legged golden crow that lives in the sun
+金乌西坠，玉兔东升 | TRADUÇÃO: lit. the golden bird of the sun sets in the west, the jade hare of the moon rises in the east/fig. at sunset
+金无足赤 | TRADUÇÃO: not all gold is sufficiently red (idiom); no-one is perfect
+金熊奖 | TRADUÇÃO: Golden Bear, award at the Berlin International Film Festival
+金灿灿 | TRADUÇÃO: golden-bright and dazzling
+金牌 | TRADUÇÃO: gold medal/CL:枚
+金牛 | TRADUÇÃO: Taurus (star sign)/Jinniu district of Chengdu city 成都市, Sichuan
+金牛区 | TRADUÇÃO: Jinniu, a district of Chengdu City 成都市, Sichuan
+金牛座 | TRADUÇÃO: Taurus (constellation and sign of the zodiac)
+金狮奖 | TRADUÇÃO: Golden Lion, award at the Venice Film Festival
+金奖 | TRADUÇÃO: gold medal; first prize
+金玉 | TRADUÇÃO: gold and jade/precious
+金玉其外，败絮其中 | TRADUÇÃO: gilded exterior, shabby and ruined on the inside (idiom)
+金玉其表，败絮其中 | TRADUÇÃO: gilded exterior, shabby and ruined on the inside (idiom)
+金玉满堂 | TRADUÇÃO: lit. gold and jade fill the hall (idiom)/fig. abundant wealth/abundance of knowledge
+金玉良言 | TRADUÇÃO: gems of wisdom (idiom); priceless advice
+金球奖 | TRADUÇÃO: Golden Globe Award
+金瓜 | TRADUÇÃO: pumpkin (Gymnopetalum chinense)/a mace with a brass head resembling a pumpkin
+金瓜石 | TRADUÇÃO: Jinguashi, town in Ruifang District, New Taipei City, Taiwan, noted for its historic gold and copper mines, used as a prisoner-of-war camp by the Japanese (1942-1945)
+金瓶梅 | TRADUÇÃO: Jinpingmei or the Golden Lotus (1617), Ming dynasty vernacular novel, formerly notorious and banned for its sexual content
+金瓶梅词话 | TRADUÇÃO: Jinpingmei or the Golden Lotus (1617), Ming dynasty vernacular novel, formerly notorious and banned for its sexual content
+金瓯 | TRADUÇÃO: Ca Mau, Vietnam
+金田村 | TRADUÇÃO: Jintian village in Guiping county 桂平, Gveigangj or Guigang prefecture 貴港|贵港, Guangxi, starting point of the Taiping Tianguo 太平天國|太平天国 rebellion in 1851
+金田起义 | TRADUÇÃO: Jintian Uprising
+金盆洗手 | TRADUÇÃO: lit. to wash one's hands in a gold basin (idiom)/fig. to abandon the life of an outlaw
+金目鲈 | TRADUÇÃO: Barramundi/Lates calcarifer (a species of catadromous fish in family Latidae of order Perciformes)
+金盾工程 | TRADUÇÃO: Golden Shield Project, information system for censorship and surveillance, thought to include the Great Firewall of China 防火長城|防火长城 as a component
+金眶鸻 | TRADUÇÃO: (bird species of China) little ringed plover (Charadrius dubius)
+金眶鹟莺 | TRADUÇÃO: (bird species of China) green-crowned warbler (Phylloscopus burkii)
+金眼鹛雀 | TRADUÇÃO: (bird species of China) yellow-eyed babbler (Chrysomma sinense)
+金石 | TRADUÇÃO: metal and stone/fig. hard objects/inscription on metal or bronze
+金石学 | TRADUÇÃO: epigraphy
+金石丝竹 | TRADUÇÃO: (lit.) (music instruments made of) metal, stone, string, and bamboo (idiom)/(fig.) traditional Chinese music instruments
+金石良言 | TRADUÇÃO: gems of wisdom (idiom); priceless advice
+金碧荧煌 | TRADUÇÃO: splendid in green and gold (idiom); looking radiant
+金碧辉煌 | TRADUÇÃO: gold and jade in glorious splendor (idiom)/fig. a dazzling sight (e.g. royal palace)
+金砖 | TRADUÇÃO: (bound form) BRICS ‖ gold brick
+金砖国家 | TRADUÇÃO: BRICS (economic bloc)
+金矿 | TRADUÇÃO: gold mine/gold ore
+金秀 | TRADUÇÃO: see 金秀瑤族自治縣|金秀瑶族自治县
+金秀瑶族自治县 | TRADUÇÃO: Jinxiu Yao Autonomous County, in Laibin City 來賓市|来宾市, Guangxi
+金秀县 | TRADUÇÃO: see 金秀瑤族自治縣|金秀瑶族自治县
+金秋 | TRADUÇÃO: fall; autumn
+金科玉律 | TRADUÇÃO: golden rule/key principle
+金窝银窝不如自己的狗窝 | TRADUÇÃO: there's no place like home (idiom)
+金童玉女 | TRADUÇÃO: lit. golden boys and jade maidens (idiom)/attendants of the Daoist immortals/fig. lovely young children/a golden couple/(of a couple who are in the public eye) a lovely young couple
+金箍 | TRADUÇÃO: gold band
+金箍棒 | TRADUÇÃO: golden cudgel, weapon wielded by Sun Wukong in the novel Journey to the West 西遊記|西游记
+金箔 | TRADUÇÃO: gold leaf
+金红 | TRADUÇÃO: reddish-gold (color)
+金红石 | TRADUÇÃO: (mineralogy) rutile
+金纸 | TRADUÇÃO: joss paper
+金丝燕 | TRADUÇÃO: Aerodramus, genus of birds that use echolocation, a subset of the Collocaliini tribe (swiflets), two of whose species – Aerodramus fuciphagus and Aerodramus maximus – build nests harvested to make bird's nest soup
+金丝猴 | TRADUÇÃO: golden snub-nosed monkey (Rhinopithecus roxellana)
+金丝雀 | TRADUÇÃO: canary
+金县 | TRADUÇÃO: King County
+金钵 | TRADUÇÃO: (gold) alms bowl (of a Buddhist monk)
+金翅 | TRADUÇÃO: oriental greenfinch (Carduelis sinica)
+金翅噪鹛 | TRADUÇÃO: (bird species of China) Assam laughingthrush (Trochalopteron chrysopterum)
+金翅雀 | TRADUÇÃO: (bird species of China) grey-capped greenfinch (Chloris sinica)
+金背三趾啄木鸟 | TRADUÇÃO: (bird species of China) common flameback (Dinopium javanense)
+金胸歌鸲 | TRADUÇÃO: (bird species of China) firethroat (Calliope pectardens)
+金胸雀鹛 | TRADUÇÃO: (bird species of China) golden-breasted fulvetta (Lioparus chrysotis)
+金腰燕 | TRADUÇÃO: (bird species of China) red-rumped swallow (Cecropis daurica)
+金台 | TRADUÇÃO: see 金臺區|金台区
+金台区 | TRADUÇÃO: Jintai, a district of Baoji City 寶雞市|宝鸡市, Shaanxi
+金色 | TRADUÇÃO: golden/gold (color)
+金色林鸲 | TRADUÇÃO: (bird species of China) golden bush robin (Tarsiger chrysaeus)
+金色鸦雀 | TRADUÇÃO: (bird species of China) golden parrotbill (Suthora verreauxi)
+金茂大厦 | TRADUÇÃO: Jin Mao Tower, skyscraper in Shanghai
+金菇 | TRADUÇÃO: enoki mushroom/abbr. for 金針菇|金针菇
+金华 | TRADUÇÃO: see 金華市|金华市
+金华市 | TRADUÇÃO: Jinhua, prefecture-level city in Zhejiang Province 浙江省
+金华火腿 | TRADUÇÃO: Jinhua ham
+金葱粉 | TRADUÇÃO: glitter (sparkling material)
+金葱胶 | TRADUÇÃO: glitter glue
+金兰 | TRADUÇÃO: profound friendship/sworn brotherhood
+金兰之交 | TRADUÇÃO: intimate friendship (idiom)
+金兰谱 | TRADUÇÃO: (old) genealogical records of sworn brothers, each keeping a copy
+金融 | TRADUÇÃO: banking/finance/financial
+金融区 | TRADUÇÃO: financial district
+金融危机 | TRADUÇÃO: financial crisis
+金融家 | TRADUÇÃO: financier; banker
+金融市场 | TRADUÇÃO: financial market
+金融改革 | TRADUÇÃO: financial reform
+金融时报 | TRADUÇÃO: Financial Times
+金融时报指数 | TRADUÇÃO: Financial Times stock exchange index (FTSE 100 or footsie)
+金融业 | TRADUÇÃO: financial sector/the banking business
+金融杠杆 | TRADUÇÃO: financial leverage/leveraging (i.e. buying shares on borrowed funds)
+金融机构 | TRADUÇÃO: financial institution/banking institution
+金融机关 | TRADUÇÃO: financial organization
+金融界 | TRADUÇÃO: banking circles/the world of finance
+金融系统 | TRADUÇÃO: financial system
+金融衍生产品 | TRADUÇÃO: financial derivative
+金融风暴 | TRADUÇÃO: banking crisis/storm in financial circles
+金融风波 | TRADUÇÃO: financial crisis/banking crisis
+金蝉 | TRADUÇÃO: Golden Cicada
+金蝉脱壳 | TRADUÇÃO: lit. the cicada sheds its carapace (idiom); fig. to vanish leaving an empty shell/a crafty escape plan
+金衡 | TRADUÇÃO: troy weight, system of weights for precious metals and gemstones based on the 12-ounce pound (or 5,760 grains)
+金角湾 | TRADUÇÃO: Zolotoy Rog or Golden Horn Bay in Vladivostok (famous for its pollution)
+金贵 | TRADUÇÃO: (coll.) precious; extremely valuable
+金迷纸醉 | TRADUÇÃO: lit. dazzling with paper and gold (idiom); fig. indulging in a life of luxury
+金边 | TRADUÇÃO: Phnom Penh, capital of Cambodia
+金乡 | TRADUÇÃO: see 金鄉縣|金乡县
+金乡县 | TRADUÇÃO: Jinxiang, a county in Jining City 濟寧市|济宁市, Shandong
+金酒 | TRADUÇÃO: gin
+金里奇 | TRADUÇÃO: (Newt) Gingrich
+金针 | TRADUÇÃO: needle used in embroidery or sewing/acupuncture needle/orange day-lily (Hemerocallis fulva)
+金针花 | TRADUÇÃO: orange day-lily (Hemerocallis fulva)
+金针菇 | TRADUÇÃO: enoki mushroom (Flammulina velutipes), used in cuisines of Japan, Korea and China, cultivated to be long, thin and white
+金针菜 | TRADUÇÃO: day lily (Hemerocallis), used in Chinese medicine and cuisine
+金铃子 | TRADUÇÃO: chinaberry (Melia azedarach)
+金银 | TRADUÇÃO: gold and silver
+金银块 | TRADUÇÃO: bullion
+金银岛 | TRADUÇÃO: Treasure Island by R.L. Stevenson 羅伯特·路易斯·斯蒂文森|罗伯特·路易斯·斯蒂文森
+金银箔 | TRADUÇÃO: gold and silver foil/gold and silver leaf
+金银花 | TRADUÇÃO: honeysuckle
+金银铜铁锡 | TRADUÇÃO: the five metals: gold, silver, copper, iron, tin
+金铜合铸 | TRADUÇÃO: copper gold alloy
+金钱 | TRADUÇÃO: money/currency
+金钱挂帅 | TRADUÇÃO: caring only about money and wealth
+金钱万能 | TRADUÇÃO: money is omnipotent (idiom)/with money, you can do anything/money talks
+金钱豹 | TRADUÇÃO: leopard
+金镏子 | TRADUÇÃO: gold ring
+金钟 | TRADUÇÃO: Admiralty, Hong Kong
+金钥 | TRADUÇÃO: the key (to solving a problem etc)/(Tw) (cryptography) key
+金銮殿 | TRADUÇÃO: throne room
+金门 | TRADUÇÃO: Kinmen or Quemoy islands off the Fujian coast, administered by Taiwan/Jinmen county in Quanzhou 泉州, Fujian, PRC
+金门岛 | TRADUÇÃO: Kinmen or Quemoy islands off the Fujian coast, administered by Taiwan
+金门县 | TRADUÇÃO: Kinmen County, Taiwan (the Kinmen or Quemoy islands off the Fujian coast)/Jinmen county in Quanzhou 泉州, Fujian
+金阁寺 | TRADUÇÃO: Kinkakuji or Golden pavilion in northwest Kyōto 京都, Japan/informal name of Buddhist temple Rokuonji 鹿苑寺
+金阙 | TRADUÇÃO: the imperial palace
+金陵 | TRADUÇÃO: pre-Han name for Nanjing/common place name
+金陵大学 | TRADUÇÃO: University of Nanking
+金阳 | TRADUÇÃO: see 金陽縣|金阳县
+金阳县 | TRADUÇÃO: Jinyang, a county in Liangshan Yi Autonomous Prefecture 涼山彝族自治州|凉山彝族自治州, Sichuan
+金雀花 | TRADUÇÃO: broom/furze (family Fabaceae)
+金鸡 | TRADUÇÃO: golden pheasant (Chrysolophus pictus)
+金鸡独立 | TRADUÇÃO: golden rooster stands on one leg (tai chi posture)/standing on one leg
+金鸡纳 | TRADUÇÃO: quinine (Cinchona ledgeriana)
+金鸡纳树 | TRADUÇÃO: Cinchona ledgeriana, tree whose bark contains quinine
+金鸡纳霜 | TRADUÇÃO: quinine powder
+金霸王 | TRADUÇÃO: Duracell (US brand of batteries etc)
+金顶戴菊 | TRADUÇÃO: goldcrest (Regulus satrapa)
+金顶戴菊鸟 | TRADUÇÃO: goldcrest (Regulus satrapa)
+金领 | TRADUÇÃO: gold collar/high-level senior executive/highly-skilled worker
+金头扇尾莺 | TRADUÇÃO: (bird species of China) golden-headed cisticola (Cisticola exilis)
+金头穗鹛 | TRADUÇÃO: (bird species of China) golden babbler (Cyanoderma chrysaeum)
+金头缝叶莺 | TRADUÇÃO: (bird species of China) mountain tailorbird (Phyllergates cuculatus)
+金头黑雀 | TRADUÇÃO: (bird species of China) gold-naped finch (Pyrrhoplectes epauletta)
+金额 | TRADUÇÃO: sum of money; amount of money
+金额丝雀 | TRADUÇÃO: (bird species of China) red-fronted serin (Serinus pusillus)
+金额叶鹎 | TRADUÇÃO: (bird species of China) golden-fronted leafbird (Chloropsis aurifrons)
+金额雀鹛 | TRADUÇÃO: (bird species of China) golden-fronted fulvetta (Schoeniparus variegaticeps)
+金饭碗 | TRADUÇÃO: secure and lucrative job
+金饰 | TRADUÇÃO: gold ornaments
+金马奖 | TRADUÇÃO: Golden Horse Film Festival and Awards
+金发 | TRADUÇÃO: blond/blonde/fair-haired
+金发碧眼 | TRADUÇÃO: fair-haired and blue-eyed/blonde/of Western appearance
+金鱼 | TRADUÇÃO: goldfish
+金鱼佬 | TRADUÇÃO: pedophile (slang, referring to the case of a Hong Kong child abductor who lured girls with the prospect of seeing "goldfish" in his apartment)
+金鱼草 | TRADUÇÃO: snapdragon (Antirrhinum majus)
+金鱼藻 | TRADUÇÃO: hornwort (Ceratophyllum demersum)
+金凤 | TRADUÇÃO: see 金鳳區|金凤区
+金凤区 | TRADUÇÃO: Jinfeng, a district of Yinchuan City 銀川市|银川市, Ningxia
+金雕 | TRADUÇÃO: (bird species of China) golden eagle (Aquila chrysaetos)
+金卤灯 | TRADUÇÃO: metal halide lamp
+金黄 | TRADUÇÃO: golden yellow; golden
+金黄色 | TRADUÇÃO: gold color
+金黄鹂 | TRADUÇÃO: (bird species of China) Eurasian golden oriole (Oriolus oriolus)
+金霉素 | TRADUÇÃO: (pharmacology) chlortetracycline
+金龟 | TRADUÇÃO: tortoise/scarab beetle
+金龟婿 | TRADUÇÃO: wealthy son-in-law/wealthy husband
+金龟子 | TRADUÇÃO: scarab
+金龟车 | TRADUÇÃO: (Tw) Volkswagen Beetle
+钆 | TRADUÇÃO: gadolinium (chemistry)
+钇 | TRADUÇÃO: yttrium (chemistry)
+钌 | TRADUÇÃO: ruthenium (chemistry) ‖ see 釕銱兒|钌铞儿/Taiwan pr. [liao3]
+钌铞儿 | TRADUÇÃO: hasp
+钊 | TRADUÇÃO: to encourage/to cut/to strain
+钉 | TRADUÇÃO: nail/to follow closely/to keep at sb (to do sth)/variant of 盯 ‖ to join things together by fixing them in place at one or more points/to nail/to pin/to staple/to sew on
+钉子 | TRADUÇÃO: nail/snag/saboteur
+钉子户 | TRADUÇÃO: householder who refuses to vacate his home despite pressure from property developers
+钉是钉，铆是铆 | TRADUÇÃO: lit. a nail is a nail and a rivet is a rivet (idiom)/fig. meticulous/conscientious/unambiguous
+钉书机 | TRADUÇÃO: stapler
+钉书针 | TRADUÇÃO: variant of 訂書針|订书针
+钉梢 | TRADUÇÃO: to follow sb/to tail/to shadow/also written 盯梢
+钉枪 | TRADUÇÃO: nail gun; staple gun
+钉死 | TRADUÇÃO: to nail securely/to execute by means of impalement/to crucify
+钉牢 | TRADUÇÃO: to clinch (a nail)/to nail down
+钉耙 | TRADUÇÃO: rake
+钉螺 | TRADUÇÃO: Oncomelania
+钉钉 | TRADUÇÃO: DingTalk, business communication platform developed by Alibaba
+钉钯 | TRADUÇÃO: rake
+钉锤 | TRADUÇÃO: nail hammer/claw hammer
+钉头 | TRADUÇÃO: head of nail
+钋 | TRADUÇÃO: polonium (chemistry)/Taiwan pr. [po4]
+釜 | TRADUÇÃO: kettle/cauldron
+釜山 | TRADUÇÃO: Busan Metropolitan City in South Gyeongsang Province 慶尚南道|庆尚南道, South Korea
+釜山市 | TRADUÇÃO: Busan Metropolitan City in South Gyeongsang Province 慶尚南道|庆尚南道, South Korea
+釜山广域市 | TRADUÇÃO: Busan Metropolitan City in South Gyeongsang Province 慶尚南道|庆尚南道, South Korea
+釜底抽薪 | TRADUÇÃO: to take drastic measures to deal with a situation/to pull the carpet from under sb
+釜底游鱼 | TRADUÇÃO: a fish at the bottom of the pot (idiom)/in a desperate situation
+针 | TRADUÇÃO: needle/pin/injection/stitch/CL:根,支 ‖ variant of 針|针, needle
+针具 | TRADUÇÃO: acupuncture needle/hypodermic needle
+针刺 | TRADUÇÃO: to prick with a needle/to treat by acupuncture
+针刺麻醉 | TRADUÇÃO: acupuncture anesthesia
+针剂 | TRADUÇÃO: fluid loaded into a syringe for a hypodermic injection
+针剂瓶 | TRADUÇÃO: ampoule
+针孔 | TRADUÇÃO: pinhole
+针孔摄像头 | TRADUÇÃO: miniature hidden camera; spy camera
+针孔摄影机 | TRADUÇÃO: (Tw) miniature, concealable camera with a pinhole-sized lens/pinhole camera
+针对 | TRADUÇÃO: to target; to focus on; to be aimed at or against; in response to
+针对性 | TRADUÇÃO: focus/direction/purpose/relevance
+针尖儿对麦芒儿 | TRADUÇÃO: see 針尖對麥芒|针尖对麦芒
+针尖对麦芒 | TRADUÇÃO: sharply opposed to each other, with neither prepared to give an inch (idiom)
+针尾沙锥 | TRADUÇÃO: (bird species of China) pin-tailed snipe (Gallinago stenura)

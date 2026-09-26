@@ -3,6 +3,7 @@
 package overlay
 
 import (
+	"fmt"
 	"runtime"
 	"sync"
 	"syscall"
@@ -54,6 +55,13 @@ func Iniciar() {
 		wc.HbrBackground = win.HBRUSH(createSolidBrush(win.RGB(255, 0, 255))) // Cor chave Magenta
 		wc.LpszClassName = utf16PtrFromString(className)
 		win.RegisterClassEx(&wc)
+
+		// Sondada aqui — na thread do overlay, antes de qualquer janela real — para que toda janela
+		// já nasça excluída dos prints e o close(ready) publique o valor para as goroutines de captura.
+		capturaExcluiOverlays = sondarExclusaoDaCaptura()
+		if !capturaExcluiOverlays {
+			fmt.Printf("Aviso: Windows sem WDA_EXCLUDEFROMCAPTURE (10 2004+): capturas usam o fallback de esconder os destaques\n")
+		}
 
 		close(ready)
 
@@ -522,10 +530,13 @@ func MostrarDestaquesEstudoParcial(boxes [][]float64) {
 	})
 }
 
-// OcultarDestaquesTemporariamente esconde os destaques (bordas), aguarda a renderização
-// para garantir que saiam da tela, roda a acao (print da tela) e os restaura.
-func OcultarDestaquesTemporariamente(acao func()) {
-	if threadID == 0 {
+// ExecutarCapturaSemOverlays roda a acao (print da tela) garantindo que as janelas do overlay não
+// contaminem a captura. Com a exclusão de captura ativa (WDA_EXCLUDEFROMCAPTURE) elas já nascem
+// invisíveis para prints e a acao roda direto — sem o esconde-e-restaura que fazia os destaques
+// piscarem a cada captura do vigia. Sem suporte (Windows < 10 2004), cai no fallback: esconde os
+// destaques, aguarda a renderização para garantir que saiam da tela, roda a acao e os restaura.
+func ExecutarCapturaSemOverlays(acao func()) {
+	if threadID == 0 || capturaExcluiOverlays {
 		acao()
 		return
 	}
@@ -565,11 +576,14 @@ func OcultarDestaquesTemporariamente(acao func()) {
 	})
 }
 
-// RetangulosVisiveis devolve, em coordenadas ABSOLUTAS de tela, os retângulos de todas as janelas do
-// overlay atualmente visíveis (hover, destaques verdes/azuis e os cards do "mostrar tudo"). Usado para
-// censurar essas áreas antes de enviar a captura de tela ao OCR — sem isso, o próprio pop-up (sempre
-// topmost) poderia ser lido de volta pelo OCR no scan seguinte.
-func RetangulosVisiveis() []Rect {
+// RetangulosParaCensura devolve, em coordenadas ABSOLUTAS de tela, os retângulos das janelas do
+// overlay que podem APARECER NO PRINT e precisam ser censuradas antes do OCR — sem isso, o próprio
+// pop-up (sempre topmost) poderia ser lido de volta pelo OCR no scan seguinte. Com a exclusão de
+// captura ativa nenhuma janela do overlay entra no print: devolve nil e nada é censurado.
+func RetangulosParaCensura() []Rect {
+	if capturaExcluiOverlays {
+		return nil
+	}
 	// threadID só é != 0 depois de Iniciar(); sem thread de overlay rodando não existe nenhuma janela
 	// criada, e enfileirar em execNaThread aqui travaria para sempre esperando uma função que nunca
 	// seria executada (ninguém chamaria drainActions). Por isso este guard vem ANTES de tudo.

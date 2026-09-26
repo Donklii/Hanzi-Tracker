@@ -1,7 +1,7 @@
 // ----- Seção: Revisão — Sons sintetizados (Web Audio) -----
 // Jingles curtos de feedback (acerto/erro/conclusão/traço) gerados por osciladores em tempo real:
-// zero assets de áudio, zero dependências, funciona offline e não engorda o binário. O timbre
-// imita a linguagem sonora do Duolingo: terça ascendente no acerto (subindo o tom conforme o
+// zero assets de áudio, zero dependências, funciona offline e não engorda o binário. O timbre:
+// terça ascendente no acerto (subindo o tom conforme o
 // combo), queda grave no erro e arpejo de fanfarra ao concluir a sessão.
 //
 // O AudioContext é criado preguiçosamente na primeira nota — sempre após um clique do usuário,
@@ -50,8 +50,8 @@ function tocarNota(frequencia: number, aposMs: number, duracaoMs: number, tipo: 
   oscilador.stop(fim + 0.05);
 }
 
-// Acerto: E5→B5 ("ding" ascendente). O combo sobe o tom em 1 semitom por acerto seguido (máx. 6),
-// como o som de combo do Duolingo — recompensa audível por manter a sequência.
+// Acerto: E5→B5 ("ding" ascendente). O combo sobe o tom em 1 semitom por acerto seguido (máx. 6) —
+// recompensa audível por manter a sequência.
 export function tocarSomAcerto(combo = 0) {
   const fator = Math.pow(2, Math.min(combo, 6) / 12);
   tocarNota(659.26 * fator, 0, 140, 'sine', 0.22);
@@ -79,4 +79,22 @@ export function tocarSomTracoOk() {
 
 export function tocarSomTracoErro() {
   tocarNota(196, 0, 70, 'square', 0.05);
+}
+
+// Pegar/soltar uma peça do quebra-cabeça: "tique" curtíssimo e discreto, só o suficiente para dar
+// tato sonoro ao gesto sem competir com os jingles de acerto/erro.
+export function tocarSomClique() {
+  tocarNota(587.33, 0, 40, 'triangle', 0.07);
+}
+
+// Encaixe de duas peças (par formado): "clô" bimodal grave→agudo, a sensação de duas peças que
+// se acoplam. Mais sutil que tocarSomAcerto (reservado ao fim da atividade).
+export function tocarSomEncaixe() {
+  tocarNota(523.25, 0, 55, 'sine', 0.16);
+  tocarNota(830.61, 45, 120, 'sine', 0.14);
+}
+
+// Peça repelida pela barreira do tabuleiro: "toc" seco e grave, um esbarrão sem ser um erro.
+export function tocarSomBarreira() {
+  tocarNota(146.83, 0, 60, 'square', 0.05);
 }

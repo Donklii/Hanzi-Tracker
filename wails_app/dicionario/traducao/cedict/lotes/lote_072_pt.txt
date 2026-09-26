@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+玡 | TRADUÇÃO: variante de 琊
+玢 | TRADUÇÃO: (literário) um tipo de jade ‖ pórfiros
+玤 | TRADUÇÃO: (joia)
+玥 | TRADUÇÃO: pérola usada em sacrifícios
+玦 | TRADUÇÃO: pingente de jade em forma de anel aberto
+珏 | TRADUÇÃO: gemas montadas juntas
+玩 | TRADUÇÃO: brincar/divertir-se/entreter-se/bringuedo/objeto para entretenimento/antiguidade (Taiwan pronúncia [wan4])/guardar algo para diversão ‖ variante de 玩/Taiwan pronúncia [wan4]
+玩不起 | TRADUÇÃO: não ter condições de brincar/(fig.) não saber perder; não aceitar a derrota
+玩世不恭 | TRADUÇÃO: (expressão idiomática) desprezar convenções mundanas; ser frívolo
+玩人丧德 | TRADUÇÃO: brincar com os outros e ofender a moral; perverso
+玩伴 | TRADUÇÃO: companheiro de brincadeiras
+玩偶 | TRADUÇÃO: figura de brinquedo/boneco articulado/bicho de pelúcia/boneca/(fig.) brinquedo de alguém
+玩偶之家 | TRADUÇÃO: Casa de Bonecas (1879), drama de Ibsen 易卜生
+玩儿 | TRADUÇÃO: brincar/divertir-se/sair para se divertir
+玩儿不转 | TRADUÇÃO: não conseguir lidar; não encontrar jeito (de fazer algo); não estar à altura da tarefa
+玩儿命 | TRADUÇÃO: arriscar a vida; fazer algo com risco de vida
+玩儿坏 | TRADUÇÃO: pregar peças em alguém
+玩儿完 | TRADUÇÃO: forma erhua de 玩完
+玩儿得转 | TRADUÇÃO: conseguir lidar; estar à altura da tarefa
+玩儿票 | TRADUÇÃO: teatro amador
+玩儿花招 | TRADUÇÃO: pregar peças; fazer truques
+玩具 | TRADUÇÃO: brinquedo
+玩具厂 | TRADUÇÃO: fábrica de brinquedos
+玩具枪 | TRADUÇÃO: pistola de brinquedo
+玩味 | TRADUÇÃO: refletir; ponderar sobre sutilezas
+玩咖 | TRADUÇÃO: (gíria) garanhão; playboy; festeiro
+玩器 | TRADUÇÃO: objeto elegante para apreciar
+玩失踪 | TRADUÇÃO: esconder-se (como brincadeira)
+玩完 | TRADUÇÃO: (coloq.) fracassar; dar com os burros n'água; ir por água abaixo
+玩家 | TRADUÇÃO: jogador (de um jogo)/entusiasta (de áudio, aeromodelismo etc.)
+玩家角色 | TRADUÇÃO: personagem do jogador (em RPG)
+玩弄 | TRADUÇÃO: brincar com/entreter-se com/flertar com/engajar-se em/recorrer a
+玩弄词藻 | TRADUÇÃO: fazer jogos de palavras (de forma desonesta); ser hipócrita e esconder-se por trás de retórica floreada
+玩忽 | TRADUÇÃO: negligenciar; tratar com desdém; não levar a sério
+玩忽职守 | TRADUÇÃO: negligenciar o dever; descumprimento do dever; negligência profissional
+玩意 | TRADUÇÃO: brinquedo/coisa/atuação/truque (em apresentação, espetáculo de palco, acrobacia etc.)
+玩意儿 | TRADUÇÃO: variante erhua de 玩意
+玩手腕 | TRADUÇÃO: fazer manobras; jogar politicamente
+玩乐 | TRADUÇÃO: brincar por aí; divertir-se
+玩法 | TRADUÇÃO: desrespeitar a lei; burlar o sistema/(lazer) regras do jogo/maneira de fazer uma atividade/(turismo) maneira de vivenciar um lugar
+玩火 | TRADUÇÃO: brincar com fogo
+玩火自焚 | TRADUÇÃO: (expressão idiomática) brincar com fogo e queimar-se; quem brinca com fogo se queima; ter os dedos queimados
+玩牌 | TRADUÇÃO: jogar cartas/jogar mahjong
+玩物 | TRADUÇÃO: brinquedo; objeto de entretenimento
+玩物丧志 | TRADUÇÃO: (expressão idiomática) a distração com futilidades destrói a determinação; excesso de atenção a detalhes triviais enfraquece a vontade
+玩狎 | TRADUÇÃO: tratar levianamente; flertar com; tratar com desdém; zombar
+玩笑 | TRADUÇÃO: brincadeira; piada
+玩索 | TRADUÇÃO: buscar vestígios sutis; ponderar
+玩者 | TRADUÇÃO: jogador
+玩耍 | TRADUÇÃO: brincar (como crianças); divertir-se
+玩兴 | TRADUÇÃO: interesse em se divertir; vontade de brincar
+玩花招 | TRADUÇÃO: pregar peças; fazer truques
+玩艺 | TRADUÇÃO: variante de 玩意
+玩艺儿 | TRADUÇÃO: variante de 玩意兒|玩意儿
+玩话 | TRADUÇÃO: conversa de brincadeira; brincadeira
+玩赏 | TRADUÇÃO: apreciar; ter prazer em; desfrutar
+玩转 | TRADUÇÃO: conhecer todos os meandros de algo; conhecer (um lugar) por dentro e por fora
+玩遍 | TRADUÇÃO: visitar (um grande número de lugares); percorrer (todo o país, toda a cidade etc.)
+玩阴的 | TRADUÇÃO: (coloq.) jogar sujo; usar táticas obscuras/(coloq.) dissimulado; sorrateiro
+玫 | TRADUÇÃO: (jade fino)/usado em 玫瑰
+玫瑰 | TRADUÇÃO: rosa rugosa (arbusto) (Rosa rugosa) (CL:棵)/flor de rosa (CL:朵)
+玫瑰念珠 | TRADUÇÃO: rosário (conta de oração católica)
+玫瑰战争 | TRADUÇÃO: Guerra das Rosas (1455-1485)
+玫瑰星云 | TRADUÇÃO: Nebulosa Roseta NGC 2237
+玫瑰果 | TRADUÇÃO: fruto da roseira; rosa mosqueta
+玫瑰花 | TRADUÇÃO: rosa (flor)
+玫瑰茄 | TRADUÇÃO: hibisco (Hibiscus sabdariffa); vinagreira
+玫红眉朱雀 | TRADUÇÃO: (espécie de ave da China) pintarroxo-de-sobrancelha-rosada (Carpodacus rodochroa)
+玭 | TRADUÇÃO: pérola
+玲 | TRADUÇÃO: (onom.) tin-tin (em compostos como 玎玲 ou 玲瓏|玲珑)/tilintar de pingentes de jade
+玲玲 | TRADUÇÃO: (onom.) tilintar (p. ex., de joias)
+玲珑 | TRADUÇÃO: (onom.) tilintar de joias/exímio/detalhado e fino/inteligente/ágil
+玲珑剔透 | TRADUÇÃO: primorosamente feito; muito inteligente
+玳 | TRADUÇÃO: casca de tartaruga/tartaruga ‖ variante de 玳
+玳瑁 | TRADUÇÃO: tartaruga-de-pente (Eretmochelys imbricata)/casco de tartaruga/Taiwan pronúncia [dai4 mei4]
+玳瑁壳 | TRADUÇÃO: casco de tartaruga
+玳瑁眼镜 | TRADUÇÃO: óculos com armação de casco de tartaruga/CL:副
+玶 | TRADUÇÃO: nome de um tipo de jade
+玷 | TRADUÇÃO: mancha/desgraça/defeito em jade
+玷污 | TRADUÇÃO: manchar/sujar/denegrir
+玷辱 | TRADUÇÃO: desonrar; envergonhar
+玹 | TRADUÇÃO: pedra preciosa semelhante a jade/cor de jade
+玻 | TRADUÇÃO: veja 玻璃
+玻利尼西亚 | TRADUÇÃO: Polinésia
+玻利维亚 | TRADUÇÃO: Bolívia
+玻尿酸 | TRADUÇÃO: ácido hialurônico; hialuronano
+玻意耳 | TRADUÇÃO: Robert Boyle (1627-1691), químico inglês
+玻尔兹曼 | TRADUÇÃO: Ludwig Boltzmann (1844-1906), físico e filósofo austríaco
+玻片 | TRADUÇÃO: lâmina de vidro para amostra médica
+玻璃 | TRADUÇÃO: vidro/CL:張|张,塊|块/(gíria) homossexual masculino
+玻璃化 | TRADUÇÃO: vitrificação
+玻璃市 | TRADUÇÃO: Perlis, estado da Malásia adjacente à Tailândia, capital Kangar 加央
+玻璃心 | TRADUÇÃO: (gíria) muito sensível; melindroso
+玻璃杯 | TRADUÇÃO: copo de vidro
+玻璃水 | TRADUÇÃO: líquido para para-brisas
+玻璃球 | TRADUÇÃO: bolinha de gude (usada em jogos)
+玻璃砂 | TRADUÇÃO: areia silicosa (geologia)
+玻璃管 | TRADUÇÃO: tubo de vidro
+玻璃纸 | TRADUÇÃO: celofane
+玻璃纤维 | TRADUÇÃO: fibra de vidro
+玻璃罩 | TRADUÇÃO: cobertura de vidro/campânula de vidro
+玻璃钢 | TRADUÇÃO: plástico reforçado com fibra de vidro/fibra de vidro
+玻璃体 | TRADUÇÃO: humor vítreo
+玻纤 | TRADUÇÃO: fibra de vidro (abrev. de 玻璃纖維|玻璃纤维)
+玻色子 | TRADUÇÃO: bóson (física de partículas)
+玻里尼西亚 | TRADUÇÃO: Polinésia (Taiwan)
+玼 | TRADUÇÃO: límpido (como uma gema)
+玿 | TRADUÇÃO: (literário) um tipo de jade fino
+珀 | TRADUÇÃO: usado em 琥珀
+珀斯 | TRADUÇÃO: Perth, capital da Austrália Ocidental/também escrito 帕斯
+珀西·比希·雪莱 | TRADUÇÃO: Percy Bysshe Shelley (1792-1822), poeta romântico inglês
+珂 | TRADUÇÃO: pedra semelhante a jade
+珂罗版 | TRADUÇÃO: colótipo (impressão) (estrangeirismo)
+珃 | TRADUÇÃO: (jade)
+珅 | TRADUÇÃO: um tipo de jade
+珇 | TRADUÇÃO: entalhe em jade
+珈 | TRADUÇÃO: gama/joia
+珉 | TRADUÇÃO: pedra semelhante a jade
+珊 | TRADUÇÃO: coral
+珊卓 | TRADUÇÃO: Sandra (nome)
+珊瑚 | TRADUÇÃO: coral
+珊瑚礁 | TRADUÇÃO: recife de coral
+珋 | TRADUÇÃO: (literário) pedra preciosa lustrosa
+珌 | TRADUÇÃO: gema no punho da espada
+珍 | TRADUÇÃO: coisa preciosa/tesouro/iguaria culinária/raro/valioso/estimar muito ‖ variante de 珍
+珍·奥斯汀 | TRADUÇÃO: Jane Austen (1775-1817), romancista inglesa/também escrito 簡·奧斯汀|简·奥斯汀
+珍品 | TRADUÇÃO: objeto valioso/curiosidade
+珍多冰 | TRADUÇÃO: cendol, sobremesa gelada doce do Sudeste Asiático
+珍奇 | TRADUÇÃO: raro/estranho
+珍奶 | TRADUÇÃO: abrev. de chá de leite com pérolas 珍珠奶茶
+珍宝 | TRADUÇÃO: um tesouro
+珍惜 | TRADUÇÃO: estimar/valorizar/preservar com carinho
+珍爱 | TRADUÇÃO: estimar/preservar com carinho
+珍珠 | TRADUÇÃO: pérola (CL:顆|颗,粒)/(fig.) gota; lágrima
+珍珠奶茶 | TRADUÇÃO: chá de leite com pérolas/chá de leite com tapioca/chá de leite com bolhas
+珍珠岩 | TRADUÇÃO: perlita
+珍珠母 | TRADUÇÃO: madrepérola (usada em ornamentação e na MTC)
+珍珠港 | TRADUÇÃO: Pearl Harbor (Havaí)
+珍珠翡翠白玉汤 | TRADUÇÃO: sopa de repolho, arroz e tofu
+珍异 | TRADUÇÃO: raro/precioso e estranho
+珍禽奇兽 | TRADUÇÃO: animais e pássaros raros
+珍稀 | TRADUÇÃO: raro/precioso e incomum
+珍羞 | TRADUÇÃO: variante de 珍饈|珍馐
+珍闻 | TRADUÇÃO: curiosidade/notícia curiosa/item estranho e interessante
+珍藏 | TRADUÇÃO: coleção de itens raros e valiosos/colecionar (tais itens)
+珍视 | TRADUÇÃO: dar grande importância a/estimar
+珍贵 | TRADUÇÃO: precioso
+珍重 | TRADUÇÃO: estimar/preservar com carinho/valorizar muito/(na despedida) cuide-se bem
+珍馐 | TRADUÇÃO: iguaria/guloseima/comida rara
+珍馐美味 | TRADUÇÃO: iguaria e sabor fino (expressão idiomática); um deleite maravilhoso
+珍馐美馔 | TRADUÇÃO: iguaria e sabor fino (expressão idiomática); um deleite maravilhoso
+珒 | TRADUÇÃO: um tipo de jade
+珓 | TRADUÇÃO: par de objetos hemisféricos usados em adivinhação
+珔 | TRADUÇÃO: (jade)
+珖 | TRADUÇÃO: (jade)
+珙 | TRADUÇÃO: (gema)
+珙桐 | TRADUÇÃO: árvore-dos-lencinhos (Davidia involucrata)
+珙县 | TRADUÇÃO: Condado de Gong (Gongxian), condado na cidade de Yibin 宜賓市|宜宾市, Sichuan
+珚 | TRADUÇÃO: um tipo de jade
+珛 | TRADUÇÃO: jade que se deteriora rapidamente
+珝 | TRADUÇÃO: um tipo de jade
+珞 | TRADUÇÃO: colar/ornamento de pescoço
+珞巴 | TRADUÇÃO: grupo étnico Lhoba
+珞巴族 | TRADUÇÃO: grupo étnico Lhoba
+珞巴语 | TRADUÇÃO: idioma Lhoba, idioma do grupo étnico Lhoba no sudeste do Tibete
+珠 | TRADUÇÃO: conta/pérola/CL:粒,顆|颗
+珠三角 | TRADUÇÃO: Delta do Rio das Pérolas
+珠光宝气 | TRADUÇÃO: adornado com joias cintilantes (expressão idiomática)
+珠圆玉润 | TRADUÇÃO: lit. tão redondo quanto pérolas e tão liso quanto jade (expressão idiomática)/fig. elegante e polido (de canto ou escrita)
+珠子 | TRADUÇÃO: pérola/conta/CL:粒,顆|颗
+珠宝 | TRADUÇÃO: pérolas/joias/pedras preciosas
+珠山 | TRADUÇÃO: Monte Everest (abrev. de 珠穆朗瑪峰|珠穆朗玛峰)/Zhushan, distrito da cidade de Jingdezhen 景德鎮市|景德镇市, Jiangxi
+珠山区 | TRADUÇÃO: Zhushan, distrito da cidade de Jingdezhen 景德鎮市|景德镇市, Jiangxi
+珠峰 | TRADUÇÃO: Monte Everest (abrev. de 珠穆朗瑪峰|珠穆朗玛峰)
+珠崖 | TRADUÇÃO: Zhuya, nome histórico para a Ilha de Hainan 海南島|海南岛
+珠晖 | TRADUÇÃO: ver 珠暉區|珠晖区
+珠晖区 | TRADUÇÃO: Zhuhui, distrito da cidade de Hengyang 衡陽市|衡阳市, Hunan
+珠母 | TRADUÇÃO: madrepérola
+珠江 | TRADUÇÃO: Rio das Pérolas (Guangdong)
+珠江三角洲 | TRADUÇÃO: Delta do Rio das Pérolas (PRD)
+珠流 | TRADUÇÃO: fluente com palavras/palavras fluindo como contas de pérola
+珠流璧转 | TRADUÇÃO: lit. pérola flui, jade se move (expressão idiomática); fig. a passagem do tempo/águas passadas
+珠海 | TRADUÇÃO: ver 珠海市
+珠海市 | TRADUÇÃO: Zhuhai, cidade de nível de prefeitura na Província de Guangdong 廣東省|广东省
+珠澳 | TRADUÇÃO: Zhuhai e Macau (abrev. de 珠海 + 澳門|澳门)
+珠灰 | TRADUÇÃO: cinza pérola
+珠玉 | TRADUÇÃO: pérolas e jades/joias/comentário inteligente/bela escrita/gemas de sabedoria/gênio/pessoa notável
+珠玉在侧 | TRADUÇÃO: gemas ao lado (expressão idiomática); ladeado por gênios
+珠玑 | TRADUÇÃO: (literário) pérola; gema/(literário) (fig.) frase eloquente; pérola de sabedoria
+珠穆朗玛 | TRADUÇÃO: Monte Everest (do seu nome tibetano, Chomolungma)
+珠穆朗玛峰 | TRADUÇÃO: Monte Everest (do seu nome tibetano, Chomolungma)
+珠箔 | TRADUÇÃO: cortina de pérolas/tela de contas
+珠算 | TRADUÇÃO: cálculo usando ábaco
+珠联璧合 | TRADUÇÃO: cordão de pérola e jade (expressão idiomática); combinação ideal/par perfeito
+珠胎暗结 | TRADUÇÃO: engravidar fora do casamento
+珠茶 | TRADUÇÃO: chá de pólvora, chá verde chinês cujas folhas são formadas em pequenos grânulos
+珠颈斑鸠 | TRADUÇÃO: (espécie de ave da China) rola-de-pescoço-malhado (Spilopelia chinensis)
+珡 | TRADUÇÃO: variante de 琴, guqin ou cítara
+珣 | TRADUÇÃO: (gema)
+珣玗琪 | TRADUÇÃO: tipo de jade antigo
+珥 | TRADUÇÃO: brinco de pérola ou jade
+珦 | TRADUÇÃO: um tipo de jade
+珧 | TRADUÇÃO: madrepérola
+珩 | TRADUÇÃO: gema superior de pingente de cinto
+珪 | TRADUÇÃO: variante de 圭
+班 | TRADUÇÃO: sobrenome Ban ‖ equipe/turma/grau/(militar) pelotão/turno de trabalho/classificador para grupos de pessoas e veículos de transporte programados
+班上 | TRADUÇÃO: (na) sala de aula/(na) turma
+班主 | TRADUÇÃO: líder de uma companhia teatral
+班主任 | TRADUÇÃO: professor responsável por uma turma
+班什 | TRADUÇÃO: Binche (cidade belga)
+班代 | TRADUÇÃO: (Taiwan) representante de turma/presidente de turma
+班伯利 | TRADUÇÃO: Bunbury, cidade costeira na Austrália Ocidental
+班伯里 | TRADUÇÃO: Bunbury, cidade costeira na Austrália Ocidental/Banbury, cidade em Oxfordshire, Inglaterra
+班克斯 | TRADUÇÃO: (sobrenome) Banks/Banksy (artista britânico)
+班克西 | TRADUÇÃO: Banksy (artista de rua britânico)
+班加罗尔 | TRADUÇÃO: Bangalore, capital do estado indiano de Karnataka, sudoeste
+班务会 | TRADUÇÃO: reunião de rotina de um pelotão/equipe ou turma
+班卓琴 | TRADUÇÃO: (empréstimo) banjo
+班吉 | TRADUÇÃO: Bangui, capital da República Centro-Africana
+班固 | TRADUÇÃO: Ban Gu (32-92 d.C.), historiador da dinastia Han Oriental, escreveu a História Dinástica do Han Ocidental 漢書|汉书
+班图斯坦 | TRADUÇÃO: Bantustão
+班基 | TRADUÇÃO: Bangui, capital da República Centro-Africana (Taiwan)
+班子 | TRADUÇÃO: grupo organizado/companhia teatral
+班导 | TRADUÇÃO: (Taiwan) professor responsável por uma turma/professor-tutor
+班导师 | TRADUÇÃO: (Taiwan) professor responsável por uma turma/professor-tutor
+班师 | TRADUÇÃO: retirar tropas da frente/voltar em triunfo
+班底 | TRADUÇÃO: (teatro) (originalmente) atores não principais; elenco de apoio; (hoje) membros-chave de uma equipe de produção (atores, diretores, roteiristas etc)/(por extensão) membros-chave de um grupo ou organização
+班戈 | TRADUÇÃO: veja 班戈縣|班戈县
+班戈县 | TRADUÇÃO: Baingoin, um condado na cidade de Nagqu 那曲市, Tibete
+班房 | TRADUÇÃO: cadeia/prisão
+班会 | TRADUÇÃO: reunião de turma (em escolas)
+班期 | TRADUÇÃO: horário (para voos, viagens etc)
+班机 | TRADUÇÃO: avião de linha/voos regulares (CL:趟,次,班)
+班台 | TRADUÇÃO: mesa de escritório
+班次 | TRADUÇÃO: grau/número de turma (na escola)/número de voo ou viagem/voos ou viagens (vistos como itens)/turno (período de trabalho)
+班珠尔 | TRADUÇÃO: Banjul, capital da Gâmbia
+班玛 | TRADUÇÃO: veja 班瑪縣|班玛县
+班玛县 | TRADUÇÃO: Banma, um condado na Prefeitura Autônoma Tibetana de Golog 果洛藏族自治州, Qinghai
+班白 | TRADUÇÃO: variante de 斑白
+班禅 | TRADUÇÃO: Panchen (Lama)/abrev. de 班禪額爾德尼|班禅额尔德尼
+班禅喇嘛 | TRADUÇÃO: Panchen Lama
+班禅额尔德尼 | TRADUÇÃO: Panchen Erdeni ou Panchen Lama/abrev. para 班禪|班禅
+班竹 | TRADUÇÃO: Banjul, capital da Gâmbia (Taiwan)
+班级 | TRADUÇÃO: turma (grupo de alunos)/grau (na escola)
+班组 | TRADUÇÃO: grupo ou equipe (em fábricas etc)
+班线 | TRADUÇÃO: rota (de um ônibus etc)
+班花 | TRADUÇÃO: a garota mais bonita da turma
+班草 | TRADUÇÃO: o garoto mais bonito da turma
+班超 | TRADUÇÃO: Ban Chao (33-102 d.C.), notável diplomata e militar da dinastia Han
+班车 | TRADUÇÃO: serviço regular de ônibus
+班辈 | TRADUÇÃO: hierarquia familiar/ordem de precedência
+班辈儿 | TRADUÇÃO: hierarquia familiar/ordem de precedência
+班轮 | TRADUÇÃO: navio regular de passageiros ou carga/serviço regular de navio a vapor
+班达亚齐 | TRADUÇÃO: Banda Aceh, capital da província de Achém, na Indonésia, no noroeste de Sumatra
+班达海 | TRADUÇÃO: Mar de Banda, no Arquipélago das Índias Orientais
+班长 | TRADUÇÃO: monitor de turma/líder de pelotão/líder de equipe/CL:個|个
+班门弄斧 | TRADUÇÃO: exibir a própria habilidade insignificante diante de um perito (expressão idiomática)
+班雅明 | TRADUÇÃO: Benjamin (nome)
+班驳 | TRADUÇÃO: variante de 斑駁|斑驳
+佩林 | TRADUÇÃO: Palin (nome)/Sarah Palin (1964-), política republicana dos EUA, governadora do Alasca 2006-2009
+珳 | TRADUÇÃO: variante antiga de 玟
+珵 | TRADUÇÃO: jade fino/ornamento de jade
+珶 | TRADUÇÃO: jade branco usado no cinto
+珷 | TRADUÇÃO: gema inferior/um tipo de jade
+珹 | TRADUÇÃO: um tipo de jade/um tipo de pérola
+珺 | TRADUÇÃO: jade bonito
+珻 | TRADUÇÃO: variante antiga de 玫
+珽 | TRADUÇÃO: cetro
+现 | TRADUÇÃO: aparecer/apresentar/agora/existente/atual
+现下 | TRADUÇÃO: agora/neste momento
+现世 | TRADUÇÃO: esta vida/perder a face/estar desgraçado
+现世报 | TRADUÇÃO: retribuição cármica dentro da própria vida
+现世宝 | TRADUÇÃO: inútil/tolo
+现今 | TRADUÇÃO: agora/hoje em dia/moderno
+现付 | TRADUÇÃO: pagar na hora
+现代 | TRADUÇÃO: Hyundai, empresa sul-coreana ‖ tempos modernos/era moderna/época moderna
+现代五项 | TRADUÇÃO: pentatlo moderno
+现代人 | TRADUÇÃO: homem moderno/Homo sapiens
+现代化 | TRADUÇÃO: modernização/CL:個|个
+现代史 | TRADUÇÃO: história moderna
+现代形式 | TRADUÇÃO: a forma moderna
+现代性 | TRADUÇÃO: modernidade
+现代新儒家 | TRADUÇÃO: Novo Confucianismo Moderno/veja também 新儒家
+现代派 | TRADUÇÃO: facção modernista/modernistas
+现代舞 | TRADUÇÃO: dança moderna
+现代集团 | TRADUÇÃO: Hyundai, a corporação coreana
+现代音乐 | TRADUÇÃO: música moderna/música contemporânea
+现任 | TRADUÇÃO: ocupar um cargo atualmente/atual (presidente etc); atual/(coloq.) namorado(a) atual, cônjuge atual
+现值 | TRADUÇÃO: valor presente
+现做 | TRADUÇÃO: fazer (comida) na hora/feito na hora
+现充 | TRADUÇÃO: (gíria) alguém bem-sucedido ou realizado na vida real (em oposição ao online) (empréstimo do japonês リア充 "riajuu")
+现剥 | TRADUÇÃO: (de frutas, camarões etc) descascado na hora/pronúncia de Taiwan [xian4bo1]
+现势 | TRADUÇÃO: situação atual
+现在 | TRADUÇÃO: agora/atualmente/agora
+现在分词 | TRADUÇÃO: particípio presente (na gramática inglesa)
+现在式 | TRADUÇÃO: tempo presente
+现场 | TRADUÇÃO: a cena (de um crime, acidente etc)/(no) local/(no) sítio
+现场报道 | TRADUÇÃO: reportagem ao vivo
+现场投注 | TRADUÇÃO: apostas ao vivo
+现场采访 | TRADUÇÃO: entrevista no local
+现场会 | TRADUÇÃO: reunião in loco/reunião no local
+现场会议 | TRADUÇÃO: reunião in loco/reunião no local
+现场直播 | TRADUÇÃO: transmissão ao vivo in loco
+现场视察 | TRADUÇÃO: inspeção in loco
+现如今 | TRADUÇÃO: hoje em dia/atualmente/agora
+现存 | TRADUÇÃO: existente/em estoque
+现学现用 | TRADUÇÃO: aplicar imediatamente na prática o que se acaba de aprender (expressão idiomática)
+现实 | TRADUÇÃO: realidade/real/realista/pragmático/materialista/egoísta
+现实主义 | TRADUÇÃO: realismo
+现实情况 | TRADUÇÃO: estado atual/situação atual
+现年 | TRADUÇÃO: idade atual (de uma pessoa)
+现形 | TRADUÇÃO: tornar-se visível/aparecer/manifestar sua verdadeira natureza
+现役 | TRADUÇÃO: serviço ativo (militar)/na ativa (esporte)
+现成 | TRADUÇÃO: pronto/disponível imediatamente
+现成话 | TRADUÇÃO: frase feita/comentário inútil
+现房 | TRADUÇÃO: apartamento pronto/apartamento acabado
+现打 | TRADUÇÃO: preparar um lote fresco de algo (suco, massa, temperos etc.); feito na hora (ou moído, espremido, coado etc.)
+现抓 | TRADUÇÃO: improvisar
+现时 | TRADUÇÃO: atual/corrente
+现有 | TRADUÇÃO: já existente/disponível atualmente
+现榨 | TRADUÇÃO: extrair (suco, óleo etc.) na hora; espremido na hora
+现款 | TRADUÇÃO: dinheiro (em espécie)
+现况 | TRADUÇÃO: situação atual
+现炒现卖 | TRADUÇÃO: lit. fritar e vender na hora/fig. (de recém-formados) aplicar o conhecimento ainda fresco aprendido na escola
+现烤 | TRADUÇÃO: assado na hora/torrado na hora
+现状 | TRADUÇÃO: situação atual/estado atual
+现眼 | TRADUÇÃO: passar vergonha/fazer papel de bobo
+现磨 | TRADUÇÃO: moído na hora
+现行 | TRADUÇÃO: em vigor/vigente/atual
+现行犯 | TRADUÇÃO: criminoso preso em flagrante
+现象 | TRADUÇÃO: fenômeno/CL:個|个,種|种/aparência
+现象学 | TRADUÇÃO: fenomenologia
+现象级 | TRADUÇÃO: fenomenal
+现货 | TRADUÇÃO: mercadoria ou commodity disponível imediatamente após a venda/mercadoria em estoque/item disponível/valores reais (investimento)/mercadorias físicas
+现货价 | TRADUÇÃO: preço de mercadoria física/preço à vista
+现身 | TRADUÇÃO: mostrar-se/aparecer/(de uma divindade) manifestar-se em carne e osso
+现身说法 | TRADUÇÃO: falar com base na própria experiência/usar a si mesmo como exemplo
+现金 | TRADUÇÃO: dinheiro em espécie
+现金周转 | TRADUÇÃO: fluxo de caixa
+现金基础 | TRADUÇÃO: regime de caixa (contabilidade)
+现金流 | TRADUÇÃO: fluxo de caixa
+现金流转 | TRADUÇÃO: fluxo de caixa
+现金流转表 | TRADUÇÃO: demonstrativo de fluxo de caixa
+现金流量 | TRADUÇÃO: fluxo de caixa
+现金流量表 | TRADUÇÃO: demonstrativo de fluxo de caixa
+现金牛 | TRADUÇÃO: vaca leiteira (fig., negócio lucrativo)
+现钱 | TRADUÇÃO: dinheiro em espécie
+现阶段 | TRADUÇÃO: na fase atual/no estágio atual
+琀 | TRADUÇÃO: gemas ou pérolas antigamente colocadas na boca de um cadáver
+琁 | TRADUÇÃO: jade bonito/estrela
+球友 | TRADUÇÃO: entusiasta (de esportes com bola)/parceiro de golfe (ou tênis etc.)
+球员 | TRADUÇÃO: jogador (de esportes com bola)/membro da equipe
+球团 | TRADUÇÃO: (Taiwan) (especialmente beisebol) clube esportivo profissional (como entidade empresarial)
+球场 | TRADUÇÃO: estádio/quadra/campo/cancha/pista/ campo de golfe/CL:個|个,處|处
+球场会馆 | TRADUÇÃO: clube social (golfe)
+球孢子菌病 | TRADUÇÃO: coccidioidomicose
+球季 | TRADUÇÃO: temporada (de beisebol, futebol etc.)
+球差 | TRADUÇÃO: aberração esférica (óptica)
+球座 | TRADUÇÃO: tee (golfe)
+球弹 | TRADUÇÃO: bola (em esportes, incluindo bilhar)
+球形 | TRADUÇÃO: esférico/em forma de bola
+球感 | TRADUÇÃO: senso de bola/feeling com a bola
+球手 | TRADUÇÃO: jogador (de esportes com bola)
+球拍 | TRADUÇÃO: raquete (tênis, badminton etc.)/pá (tênis de mesa)/taco (críquete)
+球星 | TRADUÇÃO: estrela do esporte (esporte com bola)
+球会 | TRADUÇÃO: (Hong Kong) clube de esportes com bola (futebol, basquete etc.)
+球杆 | TRADUÇÃO: taco (golfe)/taco (bilhar)/também escrito 球桿|球杆
+球栅阵列封装 | TRADUÇÃO: encapsulamento BGA (Ball Grid Array), tipo de pacote de microchip
+球棍 | TRADUÇÃO: taco (esporte)/bastão
+球棒 | TRADUÇÃO: taco (beisebol ou críquete)/stick (hóquei)
+球台 | TRADUÇÃO: mesa (para jogos com bola)
+球状 | TRADUÇÃO: esfera/forma esférica
+球状物 | TRADUÇÃO: globo/esfera
+球状蛋白质 | TRADUÇÃO: proteína globular
+球瓶 | TRADUÇÃO: pino (boliche)
+球磨 | TRADUÇÃO: veja 球磨機|球磨机
+球磨机 | TRADUÇÃO: moinho de bolas
+球童 | TRADUÇÃO: gandula (tênis)/caddie (golfe)
+球竿 | TRADUÇÃO: taco (bilhar)/taco (golfe)/stick (hóquei)
+球籍 | TRADUÇÃO: cidadania do planeta (de uma nação ou indivíduo)
+球粒陨石 | TRADUÇÃO: condrito (tipo de meteorito)
+球网 | TRADUÇÃO: rede (para jogos com bola)
+球腔菌 | TRADUÇÃO: Mycosphaerella (gênero de fungo ascomiceto, patógeno de plantas)
+球芽甘蓝 | TRADUÇÃO: couve-de-bruxelas (Brassica oleracea L. var. gemmifera)
+球茎 | TRADUÇÃO: (botânica) cormo
+球菌 | TRADUÇÃO: coco (bactéria patogênica esférica)
+球蛋白 | TRADUÇÃO: globulina
+球虫 | TRADUÇÃO: coccídio (biologia)
+球赛 | TRADUÇÃO: (esportes com bola) partida/jogo/CL:場|场
+球路 | TRADUÇÃO: (esportes) trajetória da bola/método de lançamento da bola (ex.: em beisebol: curva, slider, reta etc.)
+球迷 | TRADUÇÃO: fã (esportes com bola)/CL:個|个
+球道 | TRADUÇÃO: fairway (golfe)/pista (boliche)
+球门 | TRADUÇÃO: gol (no futebol)
+球阀 | TRADUÇÃO: válvula esférica
+球队 | TRADUÇÃO: time esportivo (basquete, futebol, futebol americano etc.)
+球面 | TRADUÇÃO: esfera/superfície esférica
+球面几何 | TRADUÇÃO: geometria esférica
+球面度 | TRADUÇÃO: esterradiano (mat.)
+球鞋 | TRADUÇÃO: tênis (calçado esportivo)
+球类 | TRADUÇÃO: esportes com bola
+球馆 | TRADUÇÃO: arena esportiva/ginásio
+球体 | TRADUÇÃO: esferoide
+琅 | TRADUÇÃO: pedra semelhante a jade/limpo e branco/tilintar de pingentes ‖ usado em 瑯琊|琅琊 ‖ variante de 琅
+琅威理 | TRADUÇÃO: Capitão William M Lang (1843-), conselheiro britânico da marinha Qing no norte da China durante a década de 1880
+琅嬛 | TRADUÇÃO: reino mítico das fadas
+理 | TRADUÇÃO: textura/grão (da madeira)/essência interior/ordem intrínseca/razão/lógica/verdade/ciência/ciência natural (esp. física)/gerenciar/prestar atenção a/administrar (assuntos)/lidar com/colocar em ordem/arrumar
+理中客 | TRADUÇÃO: racional, neutro, objetivo (abrev. de 理性、中立、客觀|理性、中立、客观)
+理事 | TRADUÇÃO: membro do conselho/(literário) cuidar de assuntos
+理事会 | TRADUÇÃO: conselho
+理事长 | TRADUÇÃO: diretor-geral
+理光 | TRADUÇÃO: Ricoh, empresa japonesa de imagem e eletrônicos
+理儿 | TRADUÇÃO: razão
+理则 | TRADUÇÃO: princípio/lógica
+理则学 | TRADUÇÃO: lógica
+理化 | TRADUÇÃO: física e química/(arcaico) governança e educação
+理化因素 | TRADUÇÃO: fatores físicos e químicos
+理喻 | TRADUÇÃO: fazer alguém entender pela razão
+理塘 | TRADUÇÃO: ver 理塘縣|理塘县
+理塘县 | TRADUÇÃO: Litang, um condado na Prefeitura Autônoma Tibetana de Garzê 甘孜藏族自治州, Sichuan
+理学 | TRADUÇÃO: Escola do Princípio/Escola Racionalista Neoconfucionista (da Dinastia Song a meados da Dinastia Qing, c. 1000-1750, tipificada pelos ensinamentos de Cheng Hao 程顥|程颢, Cheng Yi 程頤|程颐 e Zhu Xi 朱熹) ‖ ciência
+理学家 | TRADUÇÃO: estudioso da escola racionalista do Neoconfucionismo 理學|理学
+理学硕士 | TRADUÇÃO: Mestre em Ciências (grau de M.Sc.)
+理容院 | TRADUÇÃO: salão de cabeleireiro e beleza/barbearia/salão de massagem
+理屈词穷 | TRADUÇÃO: lit. tendo apresentado um argumento falho, não se tem mais nada a acrescentar (expressão idiomática)/fig. incapaz de fornecer um argumento convincente para apoiar a própria posição/não ter argumentos
+理工 | TRADUÇÃO: ciências e engenharia como disciplinas acadêmicas
+理工大学 | TRADUÇÃO: Universidade de Ciências e Engenharia/também às vezes Instituto de Tecnologia
+理工男 | TRADUÇÃO: nerd; técnico
+理工科 | TRADUÇÃO: ciências e engenharia como disciplinas acadêmicas
+理念 | TRADUÇÃO: ideia/conceito/filosofia/teoria
+理性 | TRADUÇÃO: razão/racionalidade/racional
+理性主义 | TRADUÇÃO: racionalismo
+理性知识 | TRADUÇÃO: conhecimento racional
+理性与感性 | TRADUÇÃO: Razão e Sensibilidade, romance de Jane Austen 珍·奧斯汀|珍·奥斯汀
+理性认识 | TRADUÇÃO: cognição/conhecimento racional
+理想 | TRADUÇÃO: um ideal/um sonho/ideal/perfeito
+理想主义 | TRADUÇÃO: idealismo
+理想化 | TRADUÇÃO: idealizar
+理想国 | TRADUÇÃO: "A República" de Platão (c. 380 a.C.) ‖ estado ideal/utopia
+理应 | TRADUÇÃO: deveria; é correto que
+理所应当 | TRADUÇÃO: é apenas certo e adequado; é evidente
+理所当然 | TRADUÇÃO: como deveria ser por direito (expressão idiomática); próprio e esperado como algo natural/inevitável e correto
+理据 | TRADUÇÃO: fundamentos/justificativa/base lógica/(linguística) motivação
+理智 | TRADUÇÃO: razão/intelecto/racionalidade/racional
+理会 | TRADUÇÃO: entender/prestar atenção a/notar
+理查 | TRADUÇÃO: (nome) Richard
+理查德 | TRADUÇÃO: Richard (nome)
+理查森 | TRADUÇÃO: Richardson (nome)
+理气 | TRADUÇÃO: (MTC) retificar 氣|气
+理气化痰 | TRADUÇÃO: (MTC) retificar 氣|气 e transformar catarro
+理清 | TRADUÇÃO: desembaraçar (fiação etc)/(fig.) esclarecer (os próprios pensamentos etc)
+理由 | TRADUÇÃO: razão/fundamentos/justificativa/CL:個|个
+理当 | TRADUÇÃO: deveria; deve
+理疗 | TRADUÇÃO: fisioterapia
+理疗师 | TRADUÇÃO: fisioterapeuta
+理监事 | TRADUÇÃO: membro de um conselho de diretores
+理直气壮 | TRADUÇÃO: estar com a razão e autoconfiante (expressão idiomática); ousado e confiante com a justiça ao seu lado/ter a coragem das próprias convicções/justo e veemente
+理睬 | TRADUÇÃO: dar atenção a/prestar atenção a
+理神论 | TRADUÇÃO: deísmo, teoria teológica de um Deus que não interfere no Universo
+理科 | TRADUÇÃO: as ciências (em oposição às humanidades 文科)
+理科学士 | TRADUÇÃO: Bacharel em Ciências B.Sc.
+理县 | TRADUÇÃO: Condado de Li ou Lixian, um condado na Prefeitura Autônoma Tibetana e Qiang de Ngawa 阿壩藏族羌族自治州|阿坝藏族羌族自治州, Sichuan
+理亏 | TRADUÇÃO: estar errado
+理解 | TRADUÇÃO: compreender; entender
+理解力 | TRADUÇÃO: capacidade de compreender ideias/entendimento
+理论 | TRADUÇÃO: teoria/CL:個|个/argumentar/prestar atenção a
+理论基础 | TRADUÇÃO: fundamento teórico
+理论家 | TRADUÇÃO: teórico/teórica
+理论贡献 | TRADUÇÃO: contribuição teórica
+理财 | TRADUÇÃO: gerenciar riquezas; gerenciar finanças; gestão financeira
+理财学 | TRADUÇÃO: gestão financeira (como campo de estudo)
+理货员 | TRADUÇÃO: vendedor/auxiliar de depósito
+理赔 | TRADUÇÃO: liquidar um sinistro/liquidação de sinistro/pagamento de indenização
+理路 | TRADUÇÃO: pensamento lógico
+理雅各 | TRADUÇÃO: James Legge (1815-1897), missionário protestante escocês na China Qing e tradutor dos clássicos chineses para o inglês
+理顺 | TRADUÇÃO: endireitar/organizar/colocar em ordem
+理头 | TRADUÇÃO: cortar o cabelo/cortar o cabelo de alguém
+理发 | TRADUÇÃO: cortar o cabelo; fazer o cabelo/cortar (o cabelo de alguém); dar um corte de cabelo (a alguém)
+理发员 | TRADUÇÃO: barbeiro; cabeleireiro
+理发器 | TRADUÇÃO: máquina de cortar cabelo
+理发师 | TRADUÇÃO: barbeiro; cabeleireiro
+理发店 | TRADUÇÃO: barbearia/salão de cabeleireiro/CL:家
+理发厅 | TRADUÇÃO: (Taiwan) barbearia/salão de cabeleireiro/CL:家
+理发院 | TRADUÇÃO: barbearia; salão de cabeleireiro
+琇 | TRADUÇÃO: (jade)
+琈 | TRADUÇÃO: (literário) um tipo de jade/(literário) cor de jade
+琉 | TRADUÇÃO: pedra preciosa ‖ variante antiga de 琉 ‖ variante antiga de 琉
+琉特琴 | TRADUÇÃO: (empréstimo) alaúde
+琉球 | TRADUÇÃO: Ryūkyū/refere-se às Ilhas Ryūkyū 琉球群島|琉球群岛 que vão do Japão a Taiwan/Liuchiu município no Condado de Pingtung 屏東縣|屏东县, Taiwan
+琉球国 | TRADUÇÃO: Reino de Ryūkyū 1429-1879 (na moderna Okinawa)
+琉球歌鸲 | TRADUÇÃO: (espécie de ave da China) rouxinol-de-ryukyu (Larvivora komadori)
+琉球海 | TRADUÇÃO: Mar de Ryūkyū/refere-se às Ilhas Ryūkyū 琉球群島|琉球群岛 que vão do Japão a Taiwan
+琉球王国 | TRADUÇÃO: Reino de Ryūkyū 1429-1879 (na moderna Okinawa)
+琉球群岛 | TRADUÇÃO: Ilhas Ryukyu/Okinawa 沖繩|冲绳 e outras ilhas do Japão moderno
+琉球角鸮 | TRADUÇÃO: (espécie de ave da China) coruja-de-orelhas-de-ryukyu (Otus elegans)
+琉球乡 | TRADUÇÃO: município de Liuchiu no Condado de Pingtung 屏東縣|屏东县, Taiwan
+琉璃 | TRADUÇÃO: esmalte colorido usado na arquitetura tradicional chinesa/objeto de arte em vidro colorido ou transparente
+琉璃塔 | TRADUÇÃO: pagode de azulejos vidrados
+琉璃庙 | TRADUÇÃO: cidade de Liulimiao no município de Pequim
+琉璃瓦 | TRADUÇÃO: telha de telhado vidrada
+琉璃苣 | TRADUÇÃO: borragem (Borago officinalis)
+琉璃蓝鹟 | TRADUÇÃO: (bird species of China) papa-moscas-de-zappey (Cyanoptila cumatilis)
+琊 | TRADUÇÃO: usado em topônimos, notavelmente 瑯琊山|琅琊山/pronúncia em Taiwan [ye2]
+璃 | TRADUÇÃO: (caractere fonético usado em transliteração de nomes estrangeiros)/pronúncia em Taiwan [li4]/variante de 璃 ‖ vidro colorido/esmalte ‖ variante de 璃
+琖 | TRADUÇÃO: copo de vinho
+琚 | TRADUÇÃO: gemas ornamentais para cinto
+琛 | TRADUÇÃO: pedra preciosa/gema
+琝 | TRADUÇÃO: variante antiga de 玟
+琠 | TRADUÇÃO: gema usada como brinco/brincos de jade
+琢 | TRADUÇÃO: lapidar (gemas) ‖ usado em 琢磨/pronúncia em Taiwan [zhuo2]
+琢磨 | TRADUÇÃO: entalhar e polir (jade)/refinar e polir uma obra literária ‖ ponderar/refletir/pensar a fundo/pronúncia em Taiwan [zhuo2 mo2]
+琤 | TRADUÇÃO: tilintar de gemas
+琤𪻐 | TRADUÇÃO: (literário) (onom.) tilintar de pingentes de jade/borbulhar de água corrente/notas musicais de uma cítara
+琥 | TRADUÇÃO: usado em 琥珀
+琥珀 | TRADUÇÃO: âmbar
+琦 | TRADUÇÃO: (literário) jade fino
+琨 | TRADUÇÃO: (jade)
+琪 | TRADUÇÃO: (literário) jade fino
+琫 | TRADUÇÃO: ornamento de gema na bainha
+琬 | TRADUÇÃO: insígnia real
+琭 | TRADUÇÃO: (jade)
+琮 | TRADUÇÃO: sobrenome Cong ‖ tubo de jade com furo redondo e lados retangulares, usado cerimonialmente na antiguidade
+琯 | TRADUÇÃO: instrumento musical/polir jade ou ouro
+琰 | TRADUÇÃO: gema/brilho de gemas
+琱 | TRADUÇÃO: gravar gemas
+琲 | TRADUÇÃO: colar
+琳 | TRADUÇÃO: gema
+琳·戴维斯 | TRADUÇÃO: Lynn E. Davis (1943-), acadêmica e especialista em controle de armas dos EUA, subsecretária de Estado 1993-1997
+琳琅 | TRADUÇÃO: joias cintilantes
+琳琅满目 | TRADUÇÃO: (expressão idiomática) ser um deleite para os olhos/ser uma cornucópia de delícias/ser diverso e abundante
+琴 | TRADUÇÃO: guqin 古琴 (um tipo de cítara)/instrumento musical em geral ‖ variante de 琴, guqin ou cítara
+琴剑飘零 | TRADUÇÃO: flutuar entre cítara e espada (expressão idiomática)/fig. vagar sem rumo sem posição fixa
+琴师 | TRADUÇÃO: tocador de instrumento de cordas
+琴弓 | TRADUÇÃO: arco (de um instrumento de cordas)
+琴弦 | TRADUÇÃO: corda (de um instrumento de cordas)
+琴手 | TRADUÇÃO: tocador de instrumento de cordas
+琴斯托霍瓦 | TRADUÇÃO: Częstochowa (cidade na Polônia)
+琴书 | TRADUÇÃO: forma de arte tradicional, consistindo em narrativa cantada com acompanhamento musical
+琴棋书画 | TRADUÇÃO: (expressão idiomática) as quatro artes do scholar chinês (guqin, Go, caligrafia e pintura)/(por extensão) as realizações de uma pessoa bem-educada
+琴瑟 | TRADUÇÃO: qin e se, dois instrumentos de cordas que tocam em perfeita harmonia/harmonia conjugal
+琴瑟不调 | TRADUÇÃO: desafinado/discórdia conjugal, cf. qin e se 琴瑟, dois instrumentos de cordas como símbolo de harmonia conjugal
+琴瑟和鸣 | TRADUÇÃO: em perfeita harmonia/sincronizado/lit. qin e se cantam em harmonia
+琴通宁 | TRADUÇÃO: (Taiwan) gim tônica
+琴通尼 | TRADUÇÃO: (Taiwan) gim tônica
+琴酒 | TRADUÇÃO: gim (variante taiwanesa de 金酒)
+琴锤 | TRADUÇÃO: malê/baqueta
+琴键 | TRADUÇÃO: tecla de piano
+琴鸟 | TRADUÇÃO: ave-lira
+琵 | TRADUÇÃO: veja 琵琶, alaúde pipa
+琵嘴鸭 | TRADUÇÃO: (bird species of China) marreco-colhereiro (Spatula clypeata)
+琵琶 | TRADUÇÃO: pipa, alaúde chinês, com 4 cordas, corpo grande em forma de pera e escala com trastes
+琵琶行 | TRADUÇÃO: Canção da Tocadora de Pipa, longo poema do poeta Tang Bai Juyi 白居易
+琵琶骨 | TRADUÇÃO: (antigo) omoplata
+琵琶鱼 | TRADUÇÃO: tamboril
+琵鹭 | TRADUÇÃO: colhereiro (ave pernalta da família Threskiornithidae)
+琶 | TRADUÇÃO: veja 琵琶, alaúde pipa
+琶洲 | TRADUÇÃO: distrito de Pazhou em Guangzhou, Guangdong/ilha de Pazhou em Guangzhou, antigamente chamada Whampoa, ponto de ancoragem histórico para navios de comércio estrangeiro
+琶音 | TRADUÇÃO: (música) arpejo
+珐 | TRADUÇÃO: usado em 琺瑯|珐琅
+珐琅 | TRADUÇÃO: esmalte/artigos esmaltados
+珐琅质 | TRADUÇÃO: (antigo) esmalte dentário (ainda em uso em Taiwan)
+珲 | TRADUÇÃO: (jade fino)
+珲春 | TRADUÇÃO: veja 琿春市|珲春市
+珲春市 | TRADUÇÃO: Hunchun, cidade nível distrital na Prefeitura Autônoma Coreana de Yanbian 延邊朝鮮族自治州|延边朝鲜族自治州, Jilin
+瑀 | TRADUÇÃO: (calcedônia)
+瑁 | TRADUÇÃO: (jade)
+瑂 | TRADUÇÃO: (pedra que se assemelha a jade)
+瑃 | TRADUÇÃO: (um tipo de jade)
+瑄 | TRADUÇÃO: peça ornamental de jade
+瑉 | TRADUÇÃO: variante de 珉
+玮 | TRADUÇÃO: (jade avermelhado)/precioso/raro
+瑏 | TRADUÇÃO: (jade)
+瑑 | TRADUÇÃO: linhas gravadas
+瑔 | TRADUÇÃO: jade/concha
+瑕 | TRADUÇÃO: mancha/defeito em jade
+瑕不掩瑜 | TRADUÇÃO: lit. uma mancha não ofusca o brilho do jade/as vantagens superam as desvantagens (expressão idiomática)
+瑕玷 | TRADUÇÃO: mancha/defeito
+瑕疵 | TRADUÇÃO: mancha/defeito/imperfeição
+瑗 | TRADUÇÃO: grande anel de jade
+瑙 | TRADUÇÃO: usado em 瑪瑙|玛瑙
+瑙蒙短尾鹛 | TRADUÇÃO: (bird species of China) tordiz-de-naung-mung (Napothera naungmungensis)
+瑙鲁 | TRADUÇÃO: Nauru, país insular no sudoeste do Pacífico
+瑚 | TRADUÇÃO: usado em 珊瑚
+瑛 | TRADUÇÃO: (literário) pedra translúcida semelhante a jade/(literário) brilho de jade
+瑜 | TRADUÇÃO: excelência/brilho de gemas
+瑜伽 | TRADUÇÃO: (empréstimo) ioga
+瑜伽垫 | TRADUÇÃO: tapete de ioga
+瑜伽宗 | TRADUÇÃO: veja 唯識宗|唯识宗
+瑜伽行派 | TRADUÇÃO: veja 唯識宗|唯识宗
+瑜伽裤 | TRADUÇÃO: calça de ioga
+瑜珈 | TRADUÇÃO: variante de 瑜伽/ioga
+瑜迦 | TRADUÇÃO: (empréstimo) ioga
+瑞 | TRADUÇÃO: sortudo/auspicioso/propício/rayl (unidade acústica)
+瑞亚 | TRADUÇÃO: Reia (titânide da mitologia grega)
+瑞典 | TRADUÇÃO: Suécia
+瑞典人 | TRADUÇÃO: sueco (pessoa)
+瑞典语 | TRADUÇÃO: sueco (língua)
+瑞利准则 | TRADUÇÃO: critério de Rayleigh (óptica)
+瑞士 | TRADUÇÃO: Suíça
+瑞士人 | TRADUÇÃO: suíço (pessoa)
+瑞士卷 | TRADUÇÃO: rocambole suíço
+瑞士法郎 | TRADUÇÃO: franco suíço (moeda)
+瑞士军刀 | TRADUÇÃO: canivete suíço
+瑞安 | TRADUÇÃO: ver 瑞安市
+瑞安市 | TRADUÇÃO: Rui'an, cidade administrativa de nível distrital em Wenzhou 溫州市|温州市, Zhejiang
+瑞幸咖啡 | TRADUÇÃO: Luckin Coffee, rede de cafeterias fundada em Pequim em 2017
+瑞德西韦 | TRADUÇÃO: remdesivir (medicação antiviral) (estrangeirismo)
+瑞昌 | TRADUÇÃO: ver 瑞昌市
+瑞昌市 | TRADUÇÃO: Ruichang, cidade administrativa de nível distrital em Jiujiang 九江市, Jiangxi
+瑞朗 | TRADUÇÃO: franco suíço
+瑞氏染料 | TRADUÇÃO: corante de Wright (usado em estudos sanguíneos)
+瑞氏染色 | TRADUÇÃO: coloração de Wright (usada em estudos sanguíneos)
+瑞气 | TRADUÇÃO: vapores propícios
+瑞波币 | TRADUÇÃO: Ripple (moeda digital)
+瑞尔 | TRADUÇÃO: riel (moeda cambojana)
+瑞狮 | TRADUÇÃO: Rui Shi, Leões Auspiciosos da mitologia chinesa
+瑞兽 | TRADUÇÃO: animal auspicioso (como o dragão)
+瑞穗 | TRADUÇÃO: Ruisui ou Juisui, vila no Condado de Hualien 花蓮縣|花莲县, leste de Taiwan
+瑞穗乡 | TRADUÇÃO: Ruisui ou Juisui, vila no Condado de Hualien 花蓮縣|花莲县, leste de Taiwan
+瑞色 | TRADUÇÃO: cor adorável
+瑞芳 | TRADUÇÃO: Ruifang ou Juifang, cidade em Nova Taipei 新北市, Taiwan
+瑞芳镇 | TRADUÇÃO: Ruifang ou Juifang, cidade em Nova Taipei 新北市, Taiwan
+瑞萨 | TRADUÇÃO: Renesas Electronics (empresa japonesa de microchips)
+瑞金 | TRADUÇÃO: ver 瑞金市
+瑞金市 | TRADUÇÃO: Ruijin, cidade administrativa de nível distrital em Ganzhou 贛州市|赣州市, Jiangxi
+瑞雪 | TRADUÇÃO: neve oportuna
+瑞香 | TRADUÇÃO: dafne-de-inverno
+瑞丽 | TRADUÇÃO: ver 瑞麗市|瑞丽市
+瑞丽市 | TRADUÇÃO: Ruili, cidade administrativa de nível distrital na Prefeitura Autônoma Dai e Jingpo de Dehong 德宏傣族景頗族自治州|德宏傣族景颇族自治州, Yunnan
+瑟 | TRADUÇÃO: tipo de harpa vertical, menor que a 箜篌, com 5 a 25 cordas
+瑟瑟 | TRADUÇÃO: tremendo / farfalhando
+瑟瑟发抖 | TRADUÇÃO: tremer de frio
+瑟索 | TRADUÇÃO: tremer / estremecer
+瑟缩 | TRADUÇÃO: encolher-se tremendo (de frio) / tremer amedrontado (de medo) / encolher-se / acovardar-se
+瑢 | TRADUÇÃO: usado em 瑽瑢|𪻐瑢
+琐 | TRADUÇÃO: fragmentário / insignificante
+琐事 | TRADUÇÃO: ninharia
+琐屑 | TRADUÇÃO: assuntos triviais / coisas insignificantes
+琐碎 | TRADUÇÃO: insignificante / trivial / tedioso / irrelevante
+琐细 | TRADUÇÃO: trivial
+琐罗亚斯德 | TRADUÇÃO: Zoroastro, Zaratustra (c. 600 a.C.), profeta persa e fundador do zoroastrismo
+琐罗亚斯德教 | TRADUÇÃO: zoroastrismo
+琐罗亚斯特 | TRADUÇÃO: ver 瑣羅亞斯德|琐罗亚斯德
+琐闻 | TRADUÇÃO: itens de notícias
+琐记 | TRADUÇÃO: reminiscências fragmentárias / notas diversas
+瑶 | TRADUÇÃO: Yao (sobrenome) / etnia Yao ‖ jade / pedra preciosa / madrepérola / nácar / precioso / usado como complemento honorífico
+瑶之圃 | TRADUÇÃO: jardim de jade do governante celestial / paraíso
+瑶族 | TRADUÇÃO: etnia Yao
+瑶柱 | TRADUÇÃO: ver 乾貝|干贝
+瑶池 | TRADUÇÃO: lago de Jade no Monte Kunlun, residência de Xi Wangmu 西王母
+瑶海 | TRADUÇÃO: ver 瑤海區|瑶海区
+瑶海区 | TRADUÇÃO: Yaohai, distrito de Hefei 合肥市, Anhui
+瑧 | TRADUÇÃO: (literário) tipo de jade / pronúncia de Taiwan: [jin1]
+瑨 | TRADUÇÃO: (literário) pedra semelhante a jade
+莹 | TRADUÇÃO: lustre de gemas
+玛 | TRADUÇÃO: usado em 瑪瑙|玛瑙
+玛仁糖 | TRADUÇÃO: bolo tradicional de nozes e caramelo de Xinjiang
+玛俐欧 | TRADUÇÃO: Mario (personagem de videogame da Nintendo) / também transcrito como 馬里奧|马里奥, 馬力歐|马力欧 etc
+玛克辛 | TRADUÇÃO: Maxine (nome)
+玛利亚 | TRADUÇÃO: Maria (nome bíblico)
+玛卡 | TRADUÇÃO: maca (Lepidium meyenii)
+玛多 | TRADUÇÃO: ver 瑪多縣|玛多县
+玛多县 | TRADUÇÃO: Madoi, condado na Prefeitura Autônoma Tibetana de Golog 果洛藏族自治州, Qinghai
+玛奇朵 | TRADUÇÃO: macchiato (estrangeirismo) / latte macchiato (café)
+玛家 | TRADUÇÃO: Machia, vila no Condado de Pingtung 屏東縣|屏东县, Taiwan
+玛家乡 | TRADUÇÃO: Machia, vila no Condado de Pingtung 屏東縣|屏东县, Taiwan
+玛尼 | TRADUÇÃO: Mani (deus)
+玛律 | TRADUÇÃO: Malé, capital das Maldivas (Taiwan)
+玛德琳 | TRADUÇÃO: Madeleine (nome) ‖ madeleine (bolo francês)
+玛拉基亚 | TRADUÇÃO: Malaquias
+玛拉基书 | TRADUÇÃO: Livro de Malaquias
+玛拿西 | TRADUÇÃO: Manassés (filho de Ezequias)
+玛曲 | TRADUÇÃO: ver 瑪曲縣|玛曲县
+玛曲县 | TRADUÇÃO: Maqu, condado na Prefeitura Autônoma Tibetana de Gannan 甘南藏族自治州, Gansu
+玛格丽特 | TRADUÇÃO: Margaret (nome) ‖ margarita (coquetel)
+玛沁 | TRADUÇÃO: ver 瑪沁縣|玛沁县
+玛沁县 | TRADUÇÃO: Maqên, condado na Prefeitura Autônoma Tibetana de Golog 果洛藏族自治州, Qinghai
+玛瑙 | TRADUÇÃO: cornalina (mineral) / ágata
+玛瑙贝 | TRADUÇÃO: cauri
+玛窦 | TRADUÇÃO: Mateus / São Mateus evangelista / variante menos comum de 馬太|马太 (preferida pela Igreja Católica)
+玛窦福音 | TRADUÇÃO: Evangelho segundo São Mateus
+玛纳斯 | TRADUÇÃO: Manas, herói da épica quirguiz / condado e vila de Manas na Prefeitura Autônoma Hui de Changji 昌吉回族自治州, Xinjiang
+玛纳斯河 | TRADUÇÃO: Rio Manas, Xinjiang
+玛纳斯县 | TRADUÇÃO: Manas, condado na Prefeitura Autônoma Hui de Changji 昌吉回族自治州, Xinjiang
+玛芬 | TRADUÇÃO: (estrangeirismo) muffin
+玛莎拉 | TRADUÇÃO: (estrangeirismo) masala
+玛莎拉蒂 | TRADUÇÃO: Maserati
+玛迪达 | TRADUÇÃO: Matilda (nome)
+玛雅 | TRADUÇÃO: Maya (civilização)
+玛雅人 | TRADUÇÃO: povos maias
+玛丽 | TRADUÇÃO: Mary ou Marie (nome) / Mali
+玛丽亚 | TRADUÇÃO: Maria (nome)
+玛丽娅 | TRADUÇÃO: Maria (nome) / Santa Maria
+玛丽莲·梦露 | TRADUÇÃO: Marilyn Monroe (1926-1962), atriz norte-americana
+玛丽苏 | TRADUÇÃO: (gíria) Mary Sue (tipo de personagem em ficção)
+瑭 | TRADUÇÃO: (jade)
+琅琊 | TRADUÇÃO: ver 瑯琊區|琅琊区
+琅琊区 | TRADUÇÃO: Langya, distrito de Chuzhou 滁州市, Anhui
+琅琊山 | TRADUÇÃO: Monte Langya, leste da província de Anhui
+瑰 | TRADUÇÃO: (pedra semipreciosa) / extraordinário ‖ variante antiga de 瑰
+瑰伟 | TRADUÇÃO: ornamentado (estilo) / magnífico
+瑰奇 | TRADUÇÃO: magnífico/precioso
+瑰宝 | TRADUÇÃO: tesouro/coisa rara e valiosa
+瑰玮 | TRADUÇÃO: ornamentado (estilo)/magnífico
+瑰异 | TRADUÇÃO: maravilhoso/magnífico
+瑰丽 | TRADUÇÃO: elegante/magnífico/excepcionalmente belo
+瑱 | TRADUÇÃO: (literário) pingentes de jade presos a um chapéu oficial e pendendo ao lado de cada orelha, simbolizando a recusa em ouvir fofocas maliciosas/(literário) preencher ‖ peso de jade
+玱 | TRADUÇÃO: (onom.) tinido de gemas
+瑳 | TRADUÇÃO: brilho de gemas
+瑻 | TRADUÇÃO: variante arcaica de 琨
+𪻐 | TRADUÇÃO: usado em 瑽瑢|𪻐瑢 e 琤瑽|琤𪻐
+𪻐瑢 | TRADUÇÃO: (literário) (onom.) tinido de pingentes de jade
+瑾 | TRADUÇÃO: brilho (de gemas)
+瑿 | TRADUÇÃO: uma pedra preta parecida com jade/azeviche
+璀 | TRADUÇÃO: brilho de gemas
+璀璀 | TRADUÇÃO: brilhante e claro
+璀璨 | TRADUÇÃO: brilhante/resplandecente
+璀璨夺目 | TRADUÇÃO: deslumbrante (expressão idiomática)
+璀错 | TRADUÇÃO: muitos e variados
+璁 | TRADUÇÃO: pedra semelhante a jade
+璅 | TRADUÇÃO: fragmentário/insignificante
+璆 | TRADUÇÃO: (gema)/tintinar
+璇 | TRADUÇÃO: (jade) ‖ variante de 璇
+璈 | TRADUÇÃO: (instr. mus.)
+琏 | TRADUÇÃO: vaso sacrificial usado para oferendas de grãos/também pron. [lian2]
+𫞩 | TRADUÇÃO: (gema)/rouge (cosmético)
+璋 | TRADUÇÃO: tablete de jade usada em cerimônias, em forma de metade esquerda ou direita de um "gui" 圭, também dado a bebês do sexo masculino para brincar
+璐 | TRADUÇÃO: jade belo
+璘 | TRADUÇÃO: brilho de gema
+璚 | TRADUÇÃO: anel de jade semicircular ‖ (pedra vermelha)
+璜 | TRADUÇÃO: ornamento de jade semicircular
+璝 | TRADUÇÃO: variante de 瑰
+璞 | TRADUÇÃO: gema não polida
+璟 | TRADUÇÃO: brilho de gema
+璠 | TRADUÇÃO: (gema)
+琎 | TRADUÇÃO: pedra semelhante a jade
+玑 | TRADUÇÃO: (literário) pérola barroca/pérola irregular
+璥 | TRADUÇÃO: (gema)
+瑷 | TRADUÇÃO: jade de qualidade fina
+瑷珲条约 | TRADUÇÃO: Tratado de Aigun, tratado desigual de 1858 imposto à China Qing pela Rússia czarista
+璧 | TRADUÇÃO: anel de jade
+璧山 | TRADUÇÃO: veja 璧山區|璧山区
+璧山区 | TRADUÇÃO: Bishan, um distrito de Chongqing 重慶|重庆
+璧玉 | TRADUÇÃO: disco de jade com um furo no centro
+璧谢 | TRADUÇÃO: recusar (um presente) com agradecimentos
+璧还 | TRADUÇÃO: devolver (um objeto emprestado) com agradecimentos/recusar (um presente) com agradecimentos
+璨 | TRADUÇÃO: gema/brilho de gema
+璨玉 | TRADUÇÃO: jade lustroso
+璨璨 | TRADUÇÃO: muito brilhante
+璨美 | TRADUÇÃO: resplandecente
+璩 | TRADUÇÃO: sobrenome Qu ‖ (anel de jade)
+璪 | TRADUÇÃO: pingente de pérolas na coroa
+珰 | TRADUÇÃO: (literário) ornamento pendente/brinco/eunuco
+璬 | TRADUÇÃO: pingente de jade/ornamento de jade
+璮 | TRADUÇÃO: um tipo de jade
+㻅 | TRADUÇÃO: ornamento de jade nas costuras do gorro
+环 | TRADUÇÃO: sobrenome Huan ‖ anel/aro/laço/(elo de) corrente/classificador para pontuações em tiro com arco etc./cercar/rodear/circundar
+环住 | TRADUÇÃO: abraçar
+环保 | TRADUÇÃO: proteção ambiental/ecológico/ambientalmente amigável/abrev. de 環境保護|环境保护
+环保主义 | TRADUÇÃO: ambientalismo
+环保主义者 | TRADUÇÃO: ambientalista
+环保型 | TRADUÇÃO: ecológico/ambientalmente amigável
+环保局 | TRADUÇÃO: escritório de proteção ambiental/Bureau Nacional de Proteção Ambiental da RPC
+环保厅 | TRADUÇÃO: departamento (provincial) de proteção ambiental
+环保科学 | TRADUÇÃO: ciência ambiental
+环保筷 | TRADUÇÃO: hashis reutilizáveis (Taiwan)
+环保斗士 | TRADUÇÃO: ativista ambiental/lutador pela proteção ambiental
+环创 | TRADUÇÃO: decoração chamativa para crianças pequenas (em salas de aula, bibliotecas etc.) (pôsteres, móbiles, murais etc.) (abrev. de 環境創設|环境创设)
+环化 | TRADUÇÃO: ciclar/ciclização (química)
+环围 | TRADUÇÃO: formar um anel ao redor
+环城 | TRADUÇÃO: que circunda a cidade (de muralhas, anel viário etc.)/ao redor da cidade
+环境 | TRADUÇÃO: ambiente/circunstâncias/arredores/CL:個|个/ambiente
+环境保护 | TRADUÇÃO: proteção ambiental
+环境创设 | TRADUÇÃO: design de um ambiente de aprendizagem para crianças pequenas, incorporando trabalhos artísticos projetados para atraí-las
+环境因素 | TRADUÇÃO: fator ambiental
+环境影响 | TRADUÇÃO: impacto ambiental
+环境影响评估 | TRADUÇÃO: avaliação de impacto ambiental AIA/abrev. para 環評|环评
+环境损害 | TRADUÇÃO: dano ambiental
+环境污染 | TRADUÇÃO: poluição ambiental
+环境温度 | TRADUÇÃO: temperatura ambiente
+环境行动主义 | TRADUÇÃO: ambientalismo/ativismo ambiental
+环境卫生 | TRADUÇÃO: saneamento ambiental/abrev. para 環衛|环卫
+环太平洋 | TRADUÇÃO: Bacia do Pacífico
+环太平洋地震带 | TRADUÇÃO: Círculo de Fogo (cinturão sísmico circum-pacífico)
+环太平洋火山带 | TRADUÇÃO: Círculo de Fogo (cinturão sísmico circum-pacífico)
+环岛 | TRADUÇÃO: rotatória/viradouro/rotunda/viajar ao redor de uma ilha
+环带 | TRADUÇÃO: clitelo (anatomia de anelídeos)
+环幕 | TRADUÇÃO: tela de cinema de 360°
+环形 | TRADUÇÃO: em forma de anel/(matemática) anel
+环形公路 | TRADUÇÃO: estrada anelar/anel viário
+环形山 | TRADUÇÃO: cratera/montanha em forma de anel
+环形结构 | TRADUÇÃO: configuração em anel
+环形路 | TRADUÇÃO: estrada circular/ circuito
+环戊烯 | TRADUÇÃO: ciclopenteno C5H8 (anel de cinco átomos de carbono)
+环抱 | TRADUÇÃO: circundar/rodear/abraçar
+环极涡旋 | TRADUÇÃO: vórtice circumpolar
+环比 | TRADUÇÃO: (estatística) período sobre período (ex.: "mês sobre mês" ou "trimestre sobre trimestre", dependendo do contexto)
+环氧乙烷 | TRADUÇÃO: óxido de etileno
+环氧树脂 | TRADUÇÃO: resina epóxi (química)
+环江 | TRADUÇÃO: veja 環江毛南族自治縣|环江毛南族自治县
+环江毛南族自治县 | TRADUÇÃO: Condado Autônomo Maonan de Huanjiang, na cidade de Hechi 河池市, Guangxi
+环江县 | TRADUÇÃO: vide 環江毛南族自治縣|环江毛南族自治县
+环法 | TRADUÇÃO: Tour de France (corrida de ciclismo)/abrev. de 環法自行車賽|环法自行车赛
+环法自行车赛 | TRADUÇÃO: Tour de France (corrida de ciclismo)
+环渤海湾地区 | TRADUÇÃO: Cinturão Econômico de Bohai (região econômica que abrange Pequim, Tianjin, Hebei, Liaoning e Shandong)
+环烃 | TRADUÇÃO: hidrocarboneto cíclico (ex.: anel benzênico)
+环烷烃 | TRADUÇÃO: cicloalcano
+环状 | TRADUÇÃO: anular/toroidal/em forma de laço/anélaceo
+环状列石 | TRADUÇÃO: círculo de pedras eretas
+环球 | TRADUÇÃO: ao redor do mundo/mundial
+环球化 | TRADUÇÃO: globalização
+环球唱片 | TRADUÇÃO: Universal Records
+环球定位系统 | TRADUÇÃO: GPS (Sistema de Posicionamento Global)
+环球旅行 | TRADUÇÃO: volta ao mundo (viagem)
+环球时报 | TRADUÇÃO: Global Times (resumo semanal de notícias internacionais do Diário do Povo 人民日報|人民日报)
+环球音乐集团 | TRADUÇÃO: Universal Music Group
+环环相扣 | TRADUÇÃO: intimamente ligados/interligados/inter-relacionar-se
+环磷酰胺 | TRADUÇÃO: ciclofosfamida (medicamento)
+环礁 | TRADUÇÃO: atol
+环秀山庄 | TRADUÇÃO: Vila da Montanha com Beleza Abraçadora em Suzhou, Jiangsu, um dos Jardins Clássicos de Suzhou, Patrimônio Mundial da UNESCO
+环箍 | TRADUÇÃO: um arco (aro)
+环节 | TRADUÇÃO: (zoologia) segmento (do corpo de uma minhoca, centopeia etc.)/(fig.) parte de um todo integrado: aspecto (de um projeto), elemento (de uma política), setor (da economia), etapa (de um processo) etc.
+环节动物 | TRADUÇÃO: anelídeo (verme)
+环节动物门 | TRADUÇÃO: Anelídeos, filo dos vermes anelídeos
+环线 | TRADUÇÃO: anel viário/linha circular (ex.: ferroviária ou de metrô)
+环县 | TRADUÇÃO: Condado de Huan ou Huanxian, na cidade de Qingyang 慶陽市|庆阳市, Gansu
+环绕 | TRADUÇÃO: cercar/rodear/girar em torno de
+环翠 | TRADUÇÃO: vide 環翠區|环翠区
+环翠区 | TRADUÇÃO: Huancui, distrito da cidade de Weihai 威海市, Shandong
+环肌 | TRADUÇÃO: músculo circular
+环卫 | TRADUÇÃO: limpeza pública/(saneamento) urbano/saneamento ambiental/abrev. de 環境衛生|环境卫生
+环卫工人 | TRADUÇÃO: trabalhador da limpeza pública
+环衬 | TRADUÇÃO: guarda (folha de papel no início/fim de um livro)
+环视 | TRADUÇÃO: olhar ao redor (de uma sala etc.)/(fig.) ter uma visão abrangente de
+环评 | TRADUÇÃO: avaliação de impacto ambiental (AIA)/abrev. de 環境影響評估|环境影响评估
+环路 | TRADUÇÃO: anel viário/circuito fechado; loop
+环游 | TRADUÇÃO: viajar ao redor (do mundo, de um país etc.)
+环面 | TRADUÇÃO: superfície anelar/anel/ toro (matemática)
+环颈山鹧鸪 | TRADUÇÃO: (espécie de ave da China) perdiz-montesa (Arborophila torqueola)
+环颈鸻 | TRADUÇÃO: (espécie de ave da China) borrelho-de-coleira-interrompida (Anarhynchus alexandrinus)
+环顾 | TRADUÇÃO: olhar ao redor/inspecionar
+环顾四周 | TRADUÇÃO: olhar ao redor
+环香 | TRADUÇÃO: espiral de incenso
+璱 | TRADUÇÃO: brilhante (jade)
+璲 | TRADUÇÃO: pingentes ornamentais de cinto
+玙 | TRADUÇÃO: jade ornamental
+璸 | TRADUÇÃO: (pérola)
+璺 | TRADUÇÃO: uma trinca (em porcelana, vidro etc.)/CL:道
+玺 | TRADUÇÃO: selo de governante
+玺印 | TRADUÇÃO: selo (especialmente de governante)
+瓀 | TRADUÇÃO: quartzo branco opaco
+瓁 | TRADUÇÃO: jade não lapidado
+𬍛 | TRADUÇÃO: brilho (pérolas)
+琼 | TRADUÇÃO: abreviação de Hainan 海南 ‖ jaspe/jade fino/ belo/excelente (ex.: vinho, comida)/abrev. da província de Hainan
+琼中 | TRADUÇÃO: Qiongzhong, condado autônomo Li e Miao, Hainan
+琼中县 | TRADUÇÃO: Qiongzhong, condado autônomo Li e Miao, Hainan
+琼中黎族苗族自治县 | TRADUÇÃO: Qiongzhong, condado autônomo Li e Miao, Hainan
+琼山 | TRADUÇÃO: vide 瓊山區|琼山区
+琼山区 | TRADUÇÃO: Qiongshan, distrito da cidade de Haikou 海口市, Hainan
+琼崖 | TRADUÇÃO: Qiongya, nome histórico da Ilha de Hainan 海南島|海南岛
+琼州 | TRADUÇÃO: Qiongzhou, nome histórico da Ilha de Hainan 海南島|海南岛
+琼州海峡 | TRADUÇÃO: Estreito de Qiongzhou (entre a Ilha de Hainan e a China continental)
+琼斯 | TRADUÇÃO: Jones (nome)
+琼斯顿 | TRADUÇÃO: Johnston (nome)
+琼楼玉宇 | TRADUÇÃO: palácio de jade adornado com joias (expressão idiomática); moradia suntuosa
+琼海 | TRADUÇÃO: Cidade de Qionghai, Hainan
+琼海市 | TRADUÇÃO: Cidade de Qionghai, Hainan
+琼浆玉液 | TRADUÇÃO: néctar adornado com joias (expressão idiomática); ambrosia dos imortais/ bebida superb/vinho de primeira qualidade
+琼瑛 | TRADUÇÃO: pedra semelhante a jade
+琼瑶 | TRADUÇÃO: Chiung Yao (1938–2024), escritora taiwanesa
+琼筵 | TRADUÇÃO: banquete/festa elaborada
+琼结 | TRADUÇÃO: vide 瓊結縣|琼结县
+琼结县 | TRADUÇÃO: Qonggyai, condado na cidade de Shannan 山南市, Tibete
+琼脂 | TRADUÇÃO: ágar-ágar
+珑 | TRADUÇÃO: tinido de pingentes de jade
+璎 | TRADUÇÃO: colar
+璎珞 | TRADUÇÃO: colar de jade ou pérolas
+瓖 | TRADUÇÃO: ornamentos
+瓘 | TRADUÇÃO: jade usado para fazer cálices
+瓒 | TRADUÇÃO: copo para libação
+瓛 | TRADUÇÃO: (antigo) tablete ou cetro de jade segurado por um duque em cerimônias
+瓜 | TRADUÇÃO: melão; cabaça; abóbora/(gíria) um mexerico (fofoca)
+瓜代 | TRADUÇÃO: substituição de pessoal/um novo turno/(lit.) substituto para soldado de licença na época da colheita de melões
+瓜分 | TRADUÇÃO: particionar/dividir
+瓜地马拉 | TRADUÇÃO: (Taiwan) Guatemala
+瓜娃子 | TRADUÇÃO: (dialeto) tolo/idiota
+瓜子 | TRADUÇÃO: semente de melão/sementes de abóbora, melancia ou girassol etc., torradas e temperadas, consumidas como petisco
+瓜子脸 | TRADUÇÃO: rosto oval
+瓜州 | TRADUÇÃO: vide 瓜州縣|瓜州县
+瓜州县 | TRADUÇÃO: Guazhou, condado na cidade de Jiuquan 酒泉市, Gansu
+瓜德罗普 | TRADUÇÃO: Guadalupe
+瓜拉丁加奴 | TRADUÇÃO: Kuala Terengganu, capital do estado de Terengganu, Malásia
+瓜拿纳 | TRADUÇÃO: guaraná (Paullinia cupana)
+瓜果 | TRADUÇÃO: frutas (sentido plural)/melões e frutas
+瓜无滚圆，人无十全 | TRADUÇÃO: nenhuma cabaça é perfeitamente redonda, assim como nenhum homem é perfeito (provérbio)
+瓜熟蒂落 | TRADUÇÃO: quando o melão está maduro, cai (expressão idiomática); os problemas se resolvem com o tempo
+瓜田 | TRADUÇÃO: campo de melões
+瓜田不纳履，李下不整冠 | TRADUÇÃO: lit. não amarre seus sapatos em um campo de melões, nem ajuste seu chapéu debaixo de uma ameixeira (expressão idiomática)/fig. não faça nada que possa levantar suspeitas/atos inocentes podem ser mal interpretados
+瓜田李下 | TRADUÇÃO: abrev. de 瓜田不納履，李下不整冠|瓜田不纳履，李下不整冠
+瓜皮帽 | TRADUÇÃO: solidéu chinês que lembra a casca de meio melão
+瓜脐 | TRADUÇÃO: umbigo do melão
+瓜菜 | TRADUÇÃO: frutas e legumes
+瓜葛 | TRADUÇÃO: conexão/vínculo/envolvimento
+瓜蒂 | TRADUÇÃO: pedicelo e cálice do melão (usado na MTC)
+瓜农 | TRADUÇÃO: agricultor de melão
+瓜达拉哈拉 | TRADUÇÃO: Guadalajara
+瓜达拉马 | TRADUÇÃO: Serra de Guadarrama
+瓜达拉马山 | TRADUÇÃO: Serra de Guadarrama
+瓜达尔 | TRADUÇÃO: Gwadar, cidade portuária de livre comércio na província paquistanesa do Baluchistão
+瓜达尔卡纳尔岛 | TRADUÇÃO: Guadalcanal, a maior ilha das Ilhas Salomão
+瓜达尔卡纳尔岛战役 | TRADUÇÃO: Batalha de Guadalcanal (agosto de 1942 – fevereiro de 1943), campanha decisiva no Teatro do Pacífico da Segunda Guerra Mundial
+瓜达尔港 | TRADUÇÃO: Porto de Gwadar, no Mar Arábico, na província paquistanesa do Baluchistão
+瓞 | TRADUÇÃO: (literário) melão pequeno
+瓠 | TRADUÇÃO: cabaça
+瓠瓜 | TRADUÇÃO: cabaça-cabaça
+瓢 | TRADUÇÃO: concha/colher grande
+瓢泼 | TRADUÇÃO: (chuva) torrencial
+瓢泼大雨 | TRADUÇÃO: (expressão idiomática) chuva torrencial/pancada d'água
+瓢泼而下 | TRADUÇÃO: (chuva) cair com força
+瓢羹 | TRADUÇÃO: (dialeto) colher
+瓢虫 | TRADUÇÃO: joaninha
+瓣 | TRADUÇÃO: pétala/segmento/dente (de alho)/pedaço/seção/fragmento/válvula/lâmina/classificador para pedaços, segmentos etc.
+瓣胃 | TRADUÇÃO: omaso (terceiro compartimento do estômago de ruminantes)
+瓣膜 | TRADUÇÃO: válvula (biológica)
+瓣鳃纲 | TRADUÇÃO: Lamelibrânquios/classe de bivalves
+瓤 | TRADUÇÃO: polpa (de fruta)/algo dentro de uma cobertura/mau/fraco
+瓤儿 | TRADUÇÃO: variante erhua de 瓤
+瓦 | TRADUÇÃO: telha/abrev. de 瓦特 (watt)
+瓦亮 | TRADUÇÃO: brilhante/muito claro
+瓦利 | TRADUÇÃO: Váli (filho de Odin)
+瓦利斯和富图纳 | TRADUÇÃO: Wallis e Futuna (coletividade insular francesa no Pacífico Sul)
+瓦剌 | TRADUÇÃO: Oirates (aliança de tribos da Mongólia Ocidental) (termo da Dinastia Ming)
+瓦加杜古 | TRADUÇÃO: Uagadugu, capital de Burkina Faso
+瓦努阿图 | TRADUÇÃO: Vanuatu, país no sudoeste do Oceano Pacífico
+瓦勒他 | TRADUÇÃO: Valeta, capital de Malta (Taiwan)
+瓦匠 | TRADUÇÃO: pedreiro/azulejista
+瓦哈比教派 | TRADUÇÃO: Wahhabismo (seita conservadora do Islã)
+瓦器 | TRADUÇÃO: cerâmica/olaria
+瓦城 | TRADUÇÃO: outro nome para Mandalay 曼德勒, segunda maior cidade de Mianmar
+瓦工 | TRADUÇÃO: assentamento de azulejos/assentamento de tijolos/revestimento de gesso
+瓦德瑟 | TRADUÇÃO: Vadsø (cidade em Finnmark, Noruega)
+瓦德西 | TRADUÇÃO: Waldersee (nome)/Alfred Graf Von Waldersee (1832-1904), comandante-em-chefe da Aliança das Oito Nações
+瓦房 | TRADUÇÃO: casa com telhado de telhas
+瓦房店 | TRADUÇÃO: ver 瓦房店市
+瓦房店市 | TRADUÇÃO: Wafangdian, cidade a nível de condado na cidade de Dalian, Liaoning
+瓦斯 | TRADUÇÃO: gás (estrangeirismo)
+瓦杜兹 | TRADUÇÃO: Vaduz, capital de Liechtenstein
+瓦楞 | TRADUÇÃO: fileiras de telhas em um telhado/ondulado/corrugado
+瓦楞纸 | TRADUÇÃO: papelão ondulado; papelão corrugado
+瓦尔基里 | TRADUÇÃO: valquíria
+瓦尔德 | TRADUÇÃO: Vardø (cidade em Finnmark, Noruega)
+瓦尔特 | TRADUÇÃO: Walter
+瓦尔纳 | TRADUÇÃO: Varna (cidade na Bulgária)
+瓦尔达克 | TRADUÇÃO: Vardak (província afegã)
+瓦尔达克省 | TRADUÇÃO: Vardak (província afegã)
+瓦片 | TRADUÇÃO: telha/CL:塊|块
+瓦特 | TRADUÇÃO: (estrangeirismo) watt
+瓦当 | TRADUÇÃO: telha de beiral
+瓦砚 | TRADUÇÃO: tinteiro ou pedra de tinta feito de uma telha de palácio antiga
+瓦砾 | TRADUÇÃO: entulho/detritos
+瓦砾堆 | TRADUÇÃO: monte de entulho/detritos
+瓦罕走廊 | TRADUÇÃO: Corredor de Wakhan, estreita faixa de terra no nordeste do Afeganistão que faz fronteira com a China em seu extremo leste
+瓦良格 | TRADUÇÃO: Varyag, antigo porta-aviões soviético comprado pela China e renomeado 遼寧號|辽宁号
+瓦良格人 | TRADUÇÃO: varegue (termo medieval para viking)
+瓦莱塔 | TRADUÇÃO: Valeta, capital de Malta
+瓦萨比 | TRADUÇÃO: (estrangeirismo) wasabi
+瓦蓝 | TRADUÇÃO: (geralmente do céu) azul-celeste; azul-brilhante
+瓦西里 | TRADUÇÃO: (nome) Vasily; Vasiliy
+瓦西里耶维奇 | TRADUÇÃO: Vasilievich (nome)
+瓦解 | TRADUÇÃO: colapsar; desintegrar-se; desmoronar/destruir; desarticular
+瓦解冰泮 | TRADUÇÃO: desintegração completa
+瓦赫基尔河 | TRADUÇÃO: rio Vakhsh (curso superior do Amu Dária)
+瓦都兹 | TRADUÇÃO: Vaduz, capital de Liechtenstein (Taiwan)
+瓦里斯 | TRADUÇÃO: (nome) Wallis/John Wallis (1616–1703), matemático inglês
+瓦隆 | TRADUÇÃO: valão, habitante da área francófona do sul da Bélgica
+瓧 | TRADUÇÃO: (antigo) variante contraída de 十瓦
+瓩 | TRADUÇÃO: (antigo) variante contraída de 千瓦
+瓬 | TRADUÇÃO: oleiro/ceramista
+瓮 | TRADUÇÃO: variante de 甕|瓮/jarra de barro/urna ‖ sobrenome Weng ‖ recipiente de cerâmica para água, vinho etc. ‖ variante de 甕|瓮
+瓰 | TRADUÇÃO: (antigo) variante contraída de 分瓦
+瓱 | TRADUÇÃO: (antigo) variante contraída de 毫瓦
+瓴 | TRADUÇÃO: canais côncavos de telhado
+瓵 | TRADUÇÃO: jarra de barro
+瓶 | TRADUÇÃO: garrafa/vaso/jarro/CL:個|个/classificador para vinho e líquidos ‖ variante de 瓶
+瓶塞 | TRADUÇÃO: rolha/tampa de garrafa
+瓶塞钻 | TRADUÇÃO: saca-rolhas
+瓶子 | TRADUÇÃO: garrafa/CL:個|个
+瓶盂 | TRADUÇÃO: jarro/frasco/vaso/garrafa
+瓶胚 | TRADUÇÃO: pré-forma
+瓶胆 | TRADUÇÃO: o vácuo dentro do invólucro externo de uma garrafa térmica
+瓶盖 | TRADUÇÃO: tampa de garrafa
+瓶装 | TRADUÇÃO: engarrafado
+瓶装水 | TRADUÇÃO: água engarrafada
+瓶领 | TRADUÇÃO: colarinho de garrafa
+瓶颈 | TRADUÇÃO: gargalo de garrafa/(fig.) gargalo/problema que impede o progresso
+瓶鼻海豚 | TRADUÇÃO: golfinho-nariz-de-garrafa (Tursiops truncatus)
+瓷 | TRADUÇÃO: porcelana/faiança/cerâmica fina
+瓷器 | TRADUÇÃO: porcelana/faiança/cerâmica
+瓷娃娃 | TRADUÇÃO: boneca de porcelana/(fig.) pessoa com osteogênese imperfeita
+瓷实 | TRADUÇÃO: (dialeto) firme/robusto
+瓷瓶 | TRADUÇÃO: garrafa de porcelana

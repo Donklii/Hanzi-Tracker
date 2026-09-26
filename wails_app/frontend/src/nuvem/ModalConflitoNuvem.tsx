@@ -5,6 +5,7 @@ import { CSSProperties } from 'react';
 import { nuvem } from '../../wailsjs/go/models';
 import { FormatarTamanho } from '../comum/formatacao';
 import { EscolhaConflitoNuvem } from './tipos';
+import { t } from '../i18n/i18n';
 
 interface ModalConflitoNuvemProps {
   aberto: boolean;
@@ -16,7 +17,7 @@ interface ModalConflitoNuvemProps {
 
 // formatarData converte um RFC3339 do backend em data legível ("" = desconhecida).
 function formatarData(rfc3339: string): string {
-  if (!rfc3339) return 'data desconhecida';
+  if (!rfc3339) return t('data desconhecida');
   return new Date(rfc3339).toLocaleString();
 }
 
@@ -39,42 +40,42 @@ export function ModalConflitoNuvem({ aberto, infoNuvem, ocupado, aoEscolher, aoF
   };
 
   return (
-    <div className="modal-overlay" onClick={aoFechar} style={{ zIndex: 1001 }}>
+    <div className="modal-overlay" onClick={aoFechar} style={{ zIndex: 3001 }}>
       <div
         className="modal-content"
         style={{ maxWidth: '560px', padding: '24px', flexDirection: 'column', height: 'auto' }}
         onClick={e => e.stopPropagation()}
       >
         <div className="modal-header">
-          <h2 style={{ fontSize: '18px' }}>☁️ Já existe um backup no seu Google Drive</h2>
+          <h2 style={{ fontSize: '18px' }}>{t('☁️ Já existe um backup no seu Google Drive')}</h2>
           <button className="modal-close" onClick={aoFechar}>×</button>
         </div>
 
         <div style={{ color: 'var(--cor-texto-primario)', fontSize: '14px', lineHeight: 1.5, marginTop: '8px', marginBottom: '20px' }}>
-          Este Google Drive já guarda um banco de outra instalação do Hanzi Tracker.
-          Escolha qual banco vale — <strong>o outro lado será sobrescrito</strong> e isso não pode ser desfeito.
+          {t('Este Google Drive já guarda um backup de outra instalação do Hanzi Tracker.')}{' '}
+          <strong>{t('Escolha qual lado vale — o outro será sobrescrito e isso não pode ser desfeito.')}</strong>
         </div>
 
         <div style={{ display: 'flex', gap: '12px' }}>
           <button style={estiloOpcao} disabled={ocupado} onClick={() => aoEscolher('manterLocal')}>
-            <div style={{ fontWeight: 'bold', fontSize: '14px' }}>💻 Manter os dados deste computador</div>
+            <div style={{ fontWeight: 'bold', fontSize: '14px' }}>{t('💻 Manter os dados deste computador')}</div>
             <div style={{ fontSize: '12px', color: 'var(--cor-texto-suave)' }}>
-              Banco local · {FormatarTamanho(infoNuvem.localBytes) || '0 MB'}
+              {t('Dados deste computador · ')}{FormatarTamanho(infoNuvem.localBytes) || '0 MB'}
             </div>
-            <div style={{ fontSize: '12px', color: '#f44336' }}>O backup na nuvem será sobrescrito.</div>
+            <div style={{ fontSize: '12px', color: '#f44336' }}>{t('O backup na nuvem será sobrescrito.')}</div>
           </button>
 
           <button style={estiloOpcao} disabled={ocupado} onClick={() => aoEscolher('usarNuvem')}>
-            <div style={{ fontWeight: 'bold', fontSize: '14px' }}>☁️ Usar os dados da nuvem</div>
+            <div style={{ fontWeight: 'bold', fontSize: '14px' }}>{t('☁️ Usar os dados da nuvem')}</div>
             <div style={{ fontSize: '12px', color: 'var(--cor-texto-suave)' }}>
-              Backup de {formatarData(infoNuvem.remotoModificadoEm)} · {FormatarTamanho(infoNuvem.remotoBytes) || '0 MB'}
+              {t('Backup de {data} · ', { data: formatarData(infoNuvem.remotoModificadoEm) })}{FormatarTamanho(infoNuvem.remotoBytes) || '0 MB'}
             </div>
-            <div style={{ fontSize: '12px', color: '#f44336' }}>O vocabulário deste computador será sobrescrito.</div>
+            <div style={{ fontSize: '12px', color: '#f44336' }}>{t('O vocabulário e as configurações deste computador serão sobrescritos.')}</div>
           </button>
         </div>
 
         <div style={{ fontSize: '12px', color: 'var(--cor-texto-suave)', marginTop: '16px' }}>
-          Dá para decidir depois: enquanto isso, nada é sincronizado (o botão “Resolver conflito” fica na aba Armazenamento).
+          {t('Dá para decidir depois: enquanto isso, nada é sincronizado (o botão “Resolver conflito” fica na aba Armazenamento).')}
         </div>
       </div>
     </div>

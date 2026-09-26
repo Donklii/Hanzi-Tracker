@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significado1/significado2/.../ em inglês>
+# Traduza cada significado (a lista separada por "/") para português, mantendo os mesmos separadores "/", a mesma ORDEM e a mesma QUANTIDADE de significados por linha.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+低层 | TRADUÇÃO: baixo nível
+低帮 | TRADUÇÃO: estilo cano baixo (sapatos)
+低平火山口 | TRADUÇÃO: maar
+低年级 | TRADUÇÃO: série inferior (na escola, ex.: 1º ou 2º ano); divisão inferior (de uma escola etc.)
+低廉 | TRADUÇÃO: de baixo custo/barato/baixo
+低微 | TRADUÇÃO: parco (salário)/humilde (posição social)/débil (voz)
+低息 | TRADUÇÃO: de juros baixos
+低成本 | TRADUÇÃO: baixo custo/de baixo custo
+低收入 | TRADUÇÃO: baixa renda
+低放射性废物 | TRADUÇÃO: resíduo de baixo nível de radioatividade
+低效 | TRADUÇÃO: ineficiente/ineficaz
+低于 | TRADUÇÃO: ser inferior a
+低昂 | TRADUÇÃO: altos e baixos/subidas e descidas
+低档 | TRADUÇÃO: de baixa qualidade/de baixo valor ou categoria/de qualidade inferior/inferior
+低栏 | TRADUÇÃO: barreiras baixas (prova de atletismo)
+低气压 | TRADUÇÃO: baixa pressão/depressão (meteorologia)
+低沉 | TRADUÇÃO: (do tempo) nublado; sombrio/(da voz) baixo e grave/abatido; desanimado
+低消 | TRADUÇÃO: consumo mínimo (exigido por restaurante, bar, clube etc.) (abrev. de 最低消費)
+低消费 | TRADUÇÃO: baixo nível de gastos; pequena despesa
+低温 | TRADUÇÃO: baixa temperatura
+低潮 | TRADUÇÃO: maré baixa/baixa-maré
+低浓缩铀 | TRADUÇÃO: urânio pouco enriquecido (LEU)
+低热 | TRADUÇÃO: febre baixa (37,3–38°C)
+低烧 | TRADUÇÃO: febre baixa (até 38°C)
+低产 | TRADUÇÃO: baixo rendimento
+低眉顺眼 | TRADUÇÃO: dócil; submisso
+低矮 | TRADUÇÃO: baixo/pequeno (altura)
+低碳 | TRADUÇÃO: (atributivo) de baixo carbono; baixo-carboidrato (dieta)
+低空 | TRADUÇÃO: baixa altitude
+低空跳伞 | TRADUÇÃO: BASE Jumping
+低空飞过 | TRADUÇÃO: passar raspando com nota mínima (num exame)
+低洼 | TRADUÇÃO: baixo (terreno)
+低端 | TRADUÇÃO: de baixo padrão
+低端人口 | TRADUÇÃO: trabalhadores mal remunerados em indústrias que oferecem empregos para não qualificados/abrev. pejorativa para 低端產業從業人口
+低等 | TRADUÇÃO: inferior
+低等动物 | TRADUÇÃO: animal inferior/forma de vida primitiva
+低筋面粉 | TRADUÇÃO: farinha com baixo teor de glúten/farinha de bolo/farinha de confeitaria/farinha mole
+低粉 | TRADUÇÃO: abrev. de 低筋麵粉
+低级 | TRADUÇÃO: de nível baixo/rudimentar/vulgar/baixo/inferior
+低级语言 | TRADUÇÃO: linguagem de baixo nível (computador)
+低维 | TRADUÇÃO: de baixa dimensão (matemática)
+低缓 | TRADUÇÃO: baixo e calmo (voz etc.)/baixo e suavemente inclinado (terreno)
+低耗 | TRADUÇÃO: baixo consumo (energia, combustível etc.)
+低聚物 | TRADUÇÃO: oligômero (química)
+低声 | TRADUÇÃO: em voz baixa/baixinho
+低声细语 | TRADUÇÃO: em sussurro/em voz baixa (expressão idiomática)
+低胸 | TRADUÇÃO: decote baixo (vestido)/decote pronunciado
+低能 | TRADUÇÃO: incapaz/incompetente/estúpido/deficiente mental
+低能儿 | TRADUÇÃO: criança com retardo mental/retardado mental/idiota
+低脂 | TRADUÇÃO: baixo teor de gordura
+低落 | TRADUÇÃO: desanimado; sombrio/declinar; piorar
+低血压 | TRADUÇÃO: pressão arterial baixa
+低血糖 | TRADUÇÃO: hipoglicemia (medicina)
+低语 | TRADUÇÃO: murmurar
+低调 | TRADUÇÃO: baixo tom/voz baixa/contido/discreto/baixo perfil
+低谷 | TRADUÇÃO: vale/depressão (em oposição a picos)/fig. ponto baixo/fundo do poço/nadir da sorte de alguém
+低贱 | TRADUÇÃO: humilde; modesto/barato; de baixo preço
+低迷 | TRADUÇÃO: indistinto (paisagem etc.)/baixo (ânimo)/em recessão (economia)
+低速 | TRADUÇÃO: baixa velocidade
+低速区 | TRADUÇÃO: zona de baixa velocidade (sismologia)
+低速挡 | TRADUÇÃO: marcha baixa; primeira marcha
+低速率 | TRADUÇÃO: baixa velocidade
+低开 | TRADUÇÃO: (finanças) (do preço de um título etc.) abrir mais baixo que o preço de fechamento anterior
+低开高走 | TRADUÇÃO: (finanças) (do preço de um título etc.) abrir mais baixo que o preço de fechamento anterior mas subir durante a sessão de negociação
+低陷 | TRADUÇÃO: ceder/assentar
+低阶 | TRADUÇÃO: baixo nível
+低阶语言 | TRADUÇÃO: linguagem de baixo nível (computador)
+低音 | TRADUÇÃO: baixo (grave)
+低音喇叭 | TRADUÇÃO: woofer
+低音大提琴 | TRADUÇÃO: contrabaixo
+低音大号 | TRADUÇÃO: tuba
+低音提琴 | TRADUÇÃO: contrabaixo/violone
+低音炮 | TRADUÇÃO: subwoofer
+低音管 | TRADUÇÃO: fagote
+低领口 | TRADUÇÃO: decote baixo
+低头 | TRADUÇÃO: abaixar a cabeça/ceder/submeter-se
+低头不见抬头见 | TRADUÇÃO: veja 抬頭不見低頭見
+低头族 | TRADUÇÃO: viciados em smartphones
+低头认罪 | TRADUÇÃO: abaixar a cabeça em reconhecimento de culpa/admitir a própria culpa
+低首下心 | TRADUÇÃO: ser bajuladoramente submisso (expressão idiomática)
+低体温症 | TRADUÇÃO: hipotermia
+低龄 | TRADUÇÃO: (de um membro de um grupo específico) de idade inferior à média
+低龄化 | TRADUÇÃO: (de um certo grupo de pessoas, ex.: usuários de drogas recreativas) tornar-se mais jovem, em média, do que antes
+低龄犯罪 | TRADUÇÃO: crime juvenil; delinquência juvenil
+住 | TRADUÇÃO: morar; residir; ficar/parar; cessar/ (complemento de resultado indicando firmeza ou estado estável alcançado)
+住区 | TRADUÇÃO: área residencial
+住友 | TRADUÇÃO: Sumitomo, empresa japonesa
+住口 | TRADUÇÃO: cale a boca/cale-se/pare de falar
+住商 | TRADUÇÃO: residencial e comercial
+住嘴 | TRADUÇÃO: calar a boca/Cale a boca!
+住地 | TRADUÇÃO: área residencial/zona residencial
+住址 | TRADUÇÃO: endereço
+住宅 | TRADUÇÃO: residência; moradia; habitação
+住宅区 | TRADUÇÃO: área residencial/empreendimento habitacional
+住宅楼 | TRADUÇÃO: edifício residencial/ CL:幢,座,棟
+住宅泡沫 | TRADUÇÃO: bolha imobiliária
+住客 | TRADUÇÃO: hóspede de hotel/inquilino
+住家 | TRADUÇÃO: residência/família/residir
+住宿 | TRADUÇÃO: pernoitar/alojamento/hospedagem
+住居 | TRADUÇÃO: viver/residir
+住建部 | TRADUÇÃO: Ministério da Habitação e Desenvolvimento Urbano-Rural da RPC (MOHURD)
+住户 | TRADUÇÃO: domicílio/morador/chefe de família
+住房 | TRADUÇÃO: habitação
+住房和城乡建设部 | TRADUÇÃO: Ministério da Habitação e Desenvolvimento Urbano-Rural da RPC (MOHURD)
+住所 | TRADUÇÃO: habitação/moradia/residência/CL:處|处
+住手 | TRADUÇÃO: desistir/parar/conter-se
+住持 | TRADUÇÃO: administrar um mosteiro budista ou taoísta/abade/monge chefe
+住校 | TRADUÇÃO: ser interno (na escola)
+住棚节 | TRADUÇÃO: Sucot (feriado judaico)
+住海边 | TRADUÇÃO: (fig.) (gíria) meter o nariz onde não é chamado
+住脚 | TRADUÇÃO: (antigo) parar/deter-se
+住舍 | TRADUÇÃO: casa/residência
+住处 | TRADUÇÃO: residência; moradia
+住读 | TRADUÇÃO: frequentar internato
+住院 | TRADUÇÃO: estar internado (no hospital); ser hospitalizado
+住院部 | TRADUÇÃO: ala de internação
+住院医师 | TRADUÇÃO: médico residente
+佐 | TRADUÇÃO: auxiliar/assistente/ajudante/acompanhar
+佐世保 | TRADUÇÃO: Sasebo (cidade e porto naval em Nagasaki, Japão)
+佐丹奴 | TRADUÇÃO: Giordano (marca)
+佐佐木 | TRADUÇÃO: Sasaki (sobrenome japonês)
+佐料 | TRADUÇÃO: condimentos/temperos
+佐治亚 | TRADUÇÃO: Geórgia, estado dos EUA
+佐科威 | TRADUÇÃO: Joko Widodo (1961-), político indonésio, presidente da Indonésia (2014-)
+佐罗 | TRADUÇÃO: Zorro
+佐藤 | TRADUÇÃO: Satō (sobrenome japonês)
+佐证 | TRADUÇÃO: evidência/prova/confirmar/confirmação
+佐贰 | TRADUÇÃO: vice/adjunto
+佐酒 | TRADUÇÃO: (de comida ou atividade prazerosa) acompanhar bebidas; realçar a experiência de consumir álcool
+佐野 | TRADUÇÃO: Sano (sobrenome e topônimo japonês)
+佐餐 | TRADUÇÃO: (de comida) acompanhamento
+佑 | TRADUÇÃO: (forma presa) abençoar; proteger
+佑护 | TRADUÇÃO: bênção
+占 | TRADUÇÃO: variante de 占/observar/adivinhar/tomar posse de/ocupar/ocupar (espaço)
+占上风 | TRADUÇÃO: tomar a liderança/obter vantagem
+占下风 | TRADUÇÃO: estar em desvantagem
+占中 | TRADUÇÃO: Ocupe Central, movimento de desobediência civil em Hong Kong (setembro de 2014 -)
+占便宜 | TRADUÇÃO: vantajoso/favorável/beneficiar-se às custas dos outros/tirar vantagem indevida
+占优势 | TRADUÇÃO: predominar/ocupar posição dominante
+占先 | TRADUÇÃO: ter precedência
+占去 | TRADUÇÃO: tomar (o tempo de alguém etc)/ocupar (a atenção de alguém etc)/representar (uma proporção de algo)
+占压 | TRADUÇÃO: imobilizar (fundos ou recursos etc que poderiam ser usados de outra forma)
+占据 | TRADUÇÃO: ocupar; tomar
+占有 | TRADUÇÃO: ter/possuir/deter/ocupar/dispor/representar (uma alta proporção etc)
+占比 | TRADUÇÃO: variante de 占比/proporção; porcentagem
+占为己有 | TRADUÇÃO: apropriar-se indevidamente (do que pertence por direito a outros)
+占用 | TRADUÇÃO: ocupar
+占线 | TRADUÇÃO: ocupado (linha telefônica)
+占领 | TRADUÇÃO: capturar; tomar; ocupar pela força
+占领者 | TRADUÇÃO: ocupante
+何 | TRADUÇÃO: sobrenome He/o quê/como/por que/qual/carregar
+何不 | TRADUÇÃO: por que não?/por que não fazer (algo)?
+何不食肉糜 | TRADUÇÃO: (lit.) "Por que eles não comem mingau de carne?" (dito pelo Imperador Hui de Jin quando informado de que seu povo não tinha arroz) (ditado)/(fig.) estar alheio ao sofrimento das pessoas comuns
+何人 | TRADUÇÃO: quem
+何以 | TRADUÇÃO: (literário) por que/como
+何以见得 | TRADUÇÃO: como se pode ter certeza?
+何其 | TRADUÇÃO: (literário) (semelhante a 多麼|多么, usado antes de um adjetivo em exclamações) quão (afortunado etc); tão (muitos etc)
+何出此言 | TRADUÇÃO: de onde vêm essas palavras?/por que você (ele, etc) diz tal coisa?
+何厚铧 | TRADUÇÃO: He Houhua (1955-), financista e político macaense, Chefe do Executivo 1999-2009
+何去何从 | TRADUÇÃO: que caminho seguir/que direção tomar
+何啻 | TRADUÇÃO: (literário) muito mais que/não limitado a
+何尝 | TRADUÇÃO: (pergunta retórica) quando?/como?/não é que...
+何在 | TRADUÇÃO: onde?/que lugar?
+何如 | TRADUÇÃO: que tal/que tipo de
+何妨 | TRADUÇÃO: que mal há em (fazer algo)
+何干 | TRADUÇÃO: que negócio?
+何必 | TRADUÇÃO: não há necessidade/por que deveria
+何应钦 | TRADUÇÃO: He Yingqin (1890-1987), general sênior do Guomindang
+何所 | TRADUÇÃO: onde/que lugar
+何故 | TRADUÇÃO: para quê?/qual é a razão?
+何方 | TRADUÇÃO: onde?
+何方神圣 | TRADUÇÃO: quem é esse figurão?
+何日 | TRADUÇÃO: quando?
+何时 | TRADUÇÃO: quando
+何曾 | TRADUÇÃO: eu alguma vez ...? (ou "ele alguma vez ...?" etc)
+何乐不为 | TRADUÇÃO: (expressão idiomática) o que há contra isso? (pergunta retórica indicando vontade ou disposição para fazer algo)
+何乐而不为 | TRADUÇÃO: o que há contra isso? (pergunta retórica indicando vontade ou disposição para fazer algo)
+何止 | TRADUÇÃO: muito mais que/não apenas
+何况 | TRADUÇÃO: quanto mais/para não mencionar/além disso/ainda mais
+何为 | TRADUÇÃO: o que é/(antigo) para quê/(em pergunta retórica) não adianta/(antigo) por que
+何等 | TRADUÇÃO: que tipo?/quão, que/um tanto
+何苦 | TRADUÇÃO: por que se dar ao trabalho?/vale a pena?
+何处 | TRADUÇÃO: de onde/onde
+何西阿书 | TRADUÇÃO: Livro de Oseias
+何许 | TRADUÇÃO: (literário) que lugar/que tempo/como
+何许人 | TRADUÇÃO: (literário) que tipo de pessoa
+何谓 | TRADUÇÃO: (literário) o que é?/qual é o significado de?
+何须 | TRADUÇÃO: não há necessidade/por que deveria
+何首乌 | TRADUÇÃO: poligonácea chinesa (Polygonum multiflorum)/raiz de flor de lã
+佗 | TRADUÇÃO: carregar nas costas
+佘 | TRADUÇÃO: sobrenome She
+余 | TRADUÇÃO: sobrenome Yu/(literário) eu; me/variante de 餘|余/extra/excedente/restante/resto da divisão/(após valor numérico) ou mais/além de (algum número)/resíduo (mat.)/depois/eu/me
+余月 | TRADUÇÃO: termo alternativo para o quarto mês lunar
+余车 | TRADUÇÃO: carruagem do imperador
+佚 | TRADUÇÃO: sobrenome Yi/variante antiga de 迭/(forma presa) (de um livro, autor etc) perdido (no tempo)/(forma presa) recluso
+佚名 | TRADUÇÃO: anônimo
+佛 | TRADUÇÃO: Buda; budismo (abrev. de 佛陀)/usado em 仿佛/usado em 彷彿|仿佛/(feminino) ornamento de cabeça/variante de 彿|佛
+佛像 | TRADUÇÃO: imagem budista/estátua de Buda ou Bodhisattva/CL:尊, 張|张
+佛光 | TRADUÇÃO: ensinamentos de Buda/auréola (ao redor da cabeça de Buda)
+佛典 | TRADUÇÃO: escrituras budistas/classicos budistas
+佛卡夏 | TRADUÇÃO: focaccia
+佛口蛇心 | TRADUÇÃO: boca de Buda, coração de serpente (expressão idiomática)/falso e malicioso
+佛吉尼亚 | TRADUÇÃO: Virgínia, estado dos EUA
+佛坪 | TRADUÇÃO: ver 佛坪縣|佛坪县
+佛坪县 | TRADUÇÃO: Foping, um condado na cidade de Hanzhong 漢中市|汉中市, Shaanxi
+佛塔 | TRADUÇÃO: pagode
+佛媛 | TRADUÇÃO: golpista budista (influenciadora feminina da internet que explora imagens budistas para autopromoção ou fins comerciais)
+佛学 | TRADUÇÃO: doutrina budista/estudos budistas
+佛家 | TRADUÇÃO: budismo/budista
+佛寺 | TRADUÇÃO: templo budista
+佛山 | TRADUÇÃO: ver 佛山市
+佛山市 | TRADUÇÃO: Foshan, cidade de nível de prefeitura na província de Guangdong 廣東省|广东省
+佛冈 | TRADUÇÃO: ver 佛岡縣|佛冈县
+佛冈县 | TRADUÇÃO: Fogang, um condado na cidade de Qingyuan 清遠市|清远市, Guangdong
+佛得角 | TRADUÇÃO: Cabo Verde
+佛心 | TRADUÇÃO: coração como o de Buda (cheio de compaixão)/espírito de Buda (desperto para a realidade e sem mais apegos às aparências)
+佛性 | TRADUÇÃO: natureza búdica
+佛爱 | TRADUÇÃO: fi (letra grega Φ, φ)
+佛手 | TRADUÇÃO: mão de Buda; cidra digitada (Citrus medica var. sarcodactylis)
+佛手柑 | TRADUÇÃO: mão de Buda; cidra digitada (Citrus medica var. sarcodactylis)
+佛手瓜 | TRADUÇÃO: chuchu (Sechium edule); chouchou; físico
+佛教 | TRADUÇÃO: budismo
+佛教徒 | TRADUÇÃO: budista
+佛教语 | TRADUÇÃO: termo budista
+佛书 | TRADUÇÃO: escritura budista
+佛朗哥 | TRADUÇÃO: Franco (nome)/generalíssimo Francisco Franco Bahamonde (1892-1975), ditador espanhol e chefe de estado 1939-1975
+佛朗明哥 | TRADUÇÃO: (Taiwan) (estrangeirismo) flamenco
+佛朗机 | TRADUÇÃO: português (empréstimo linguístico da era Ming)
+佛朗机炮 | TRADUÇÃO: canhão ocidental (ou de estilo ocidental) da era Ming
+佛朗机铳 | TRADUÇÃO: canhão ocidental (e de estilo ocidental) da era Ming
+佛法 | TRADUÇÃO: Dharma (os ensinamentos de Buda)/doutrina budista
+佛法僧目 | TRADUÇÃO: Coraciiformes, ordem de aves que inclui martins-pescadores e calaus
+佛洛伊德 | TRADUÇÃO: Floyd (nome)/Freud (nome)/Dr. Sigmund Freud (1856-1939), o fundador da psicanálise
+佛洛斯特 | TRADUÇÃO: (sobrenome) Frost
+佛爷 | TRADUÇÃO: Buda (termo de respeito para Sakyamuni 釋迦牟尼|释迦牟尼)/Sua Santidade (refere-se a um notável budista)/Buda/Deus/imperador/na corte do final da dinastia Qing, refere-se exclusivamente à imperatriz viúva Cixi 慈禧太后
+佛牙 | TRADUÇÃO: dente de Buda (como relíquia sagrada)
+佛珠 | TRADUÇÃO: contas de oração budistas
+佛祖 | TRADUÇÃO: Buda/fundador de uma seita budista
+佛系 | TRADUÇÃO: (neologismo, atestado a partir de 2017) (coloq.) desencanado com tudo (geralmente usado para descrever jovens que não compram a sociedade aspiracional)
+佛经 | TRADUÇÃO: textos budistas; escritura budista
+佛罗伦斯 | TRADUÇÃO: (Taiwan) Florença, Itália
+佛罗伦萨 | TRADUÇÃO: Florença, Itália
+佛罗里达 | TRADUÇÃO: Flórida
+佛罗里达州 | TRADUÇÃO: Flórida
+佛舍利 | TRADUÇÃO: cinzas de Buda cremado
+佛蒙特 | TRADUÇÃO: Vermont, estado dos EUA
+佛兰德 | TRADUÇÃO: pertencente ou relativo ao povo, língua ou cultura flamenga
+佛兰芒语 | TRADUÇÃO: flamengo (língua)
+佛号 | TRADUÇÃO: um dos muitos nomes de Buda
+佛诞日 | TRADUÇÃO: Aniversário de Buda (8º dia do 4º mês lunar)
+佛语 | TRADUÇÃO: termo budista
+佛跳墙 | TRADUÇÃO: lit. Buda pula o muro, nome de um prato chinês que usa muitos ingredientes não vegetarianos
+佛门 | TRADUÇÃO: budismo
+佛陀 | TRADUÇÃO: Buda (uma pessoa que atingiu o estado de Buda, ou especificamente Siddhartha Gautama)
+佛香阁 | TRADUÇÃO: Torre do Incenso Budista no Palácio de Verão 頤和園|颐和园, Pequim
+佛骨 | TRADUÇÃO: ossos de Buda (como relíquia sagrada)
+佛骨塔 | TRADUÇÃO: estupa (santuário budista)
+佛龛 | TRADUÇÃO: nicho para estátua (esp. budista, cristã etc.)
+作 | TRADUÇÃO: (forma presa) trabalhador/(forma presa) oficina/(gíria) problemático; pessoa que dá trabalho/pôr-se a; fazer/escrever; compor/fingir; simular/considerar como; tomar por/ser; fazer o papel de/sentir (coceira, náusea etc.)/obras; escritos
+作下 | TRADUÇÃO: fazer/realizar (geralmente conotação negativa)
+作主 | TRADUÇÃO: decidir; ter a palavra final
+作乱 | TRADUÇÃO: rebelar-se; insurgir-se
+作人 | TRADUÇÃO: conduzir-se/o mesmo que 做人
+作件 | TRADUÇÃO: peça de trabalho
+作伴 | TRADUÇÃO: acompanhar/fazer companhia a alguém
+作保 | TRADUÇÃO: servir de fiador para alguém/ser o garantidor de alguém/prestar fiança por alguém
+作假 | TRADUÇÃO: falsificar/adulterar/trapacear/defraudar/fraudulento/agir de modo afetado
+作出 | TRADUÇÃO: produzir/elaborar/fazer (uma escolha, decisão, proposta, resposta, comentário etc.)/emitir (permissão, declaração, explicação, pedido de desculpas, garantia ao público etc.)/tirar (conclusão)/proferir (discurso, julgamento)/criar (explicação)/extrair
+作别 | TRADUÇÃO: despedir-se/dar adeus
+作势 | TRADUÇÃO: adotar uma atitude/assumir uma pose
+作古 | TRADUÇÃO: falecer/morrer
+作合 | TRADUÇÃO: fazer um par/casar-se
+作品 | TRADUÇÃO: obra (de arte)/opus/CL:部,篇
+作呕 | TRADUÇÃO: sentir enjoo/sentir náusea/sentir repulsa
+作坊 | TRADUÇÃO: oficina (de artesão)
+作寿 | TRADUÇÃO: variante de 做壽|做寿
+作梦 | TRADUÇÃO: variante de 做夢|做梦
+作好准备 | TRADUÇÃO: preparar/fazer preparativos adequados
+作妖 | TRADUÇÃO: (dialetal) causar problemas; dar trabalho
+作奸犯科 | TRADUÇÃO: desrespeitar a lei
+作威作福 | TRADUÇÃO: abuso tirânico (expressão idiomática); passar por cima dos outros
+作孽 | TRADUÇÃO: pecar
+作客 | TRADUÇÃO: viver em algum lugar como visitante; ficar com alguém como hóspede; estar de passagem
+作家 | TRADUÇÃO: autor/CL:個|个,位
+作对 | TRADUÇÃO: opor-se a/contrapor-se a/formar um par
+作废 | TRADUÇÃO: tornar-se inválido/cancelar/deletar/anular
+作弄 | TRADUÇÃO: provocar/pregar peças em
+作弊 | TRADUÇÃO: praticar fraude/trapacear/envolver-se em práticas corruptas
+作怪 | TRADUÇÃO: (de um fantasma) fazer coisas estranhas acontecerem/dar trabalho/agir nos bastidores/fazer travessuras/esquisito/comportar-se mal (eufemismo para fazer sexo)
+作息 | TRADUÇÃO: trabalhar e descansar
+作息时间 | TRADUÇÃO: agenda diária/rotina diária
+作息时间表 | TRADUÇÃO: horário diário/horário de trabalho
+作恶 | TRADUÇÃO: fazer o mal
+作爱 | TRADUÇÃO: fazer amor
+作态 | TRADUÇÃO: assumir uma atitude; posar
+作战 | TRADUÇÃO: combate/lutar
+作手 | TRADUÇÃO: escritor/especialista
+作揖 | TRADUÇÃO: curvar-se com as mãos postas à frente
+作数 | TRADUÇÃO: válido/valer (como válido)
+作文 | TRADUÇÃO: escrever uma redação/redação (trabalho escolar)/CL:篇
+作料 | TRADUÇÃO: condimentos/tempero/pronúncia coloq. [zuo2 liao5]/pronúncia em Taiwan [zuo2 liao4]
+作曲 | TRADUÇÃO: compor (música)
+作曲家 | TRADUÇÃO: compositor/cantor-compositor
+作曲者 | TRADUÇÃO: compositor/compositor de canções
+作东 | TRADUÇÃO: oferecer um jantar/convidar (para jantar)/pagar a conta
+作案 | TRADUÇÃO: cometer um crime
+作梗 | TRADUÇÃO: obstruir; atrapalhar; interferir; criar dificuldades
+作业 | TRADUÇÃO: tarefa escolar/dever de casa/trabalho/tarefa/operação/CL:個|个/operar
+作业员 | TRADUÇÃO: operador (de uma máquina etc.); trabalhador de fábrica
+作业环境 | TRADUÇÃO: ambiente operacional
+作业系统 | TRADUÇÃO: sistema operacional (Taiwan)
+作乐 | TRADUÇÃO: divertir-se; fazer alegria
+作死 | TRADUÇÃO: buscar a desgraça/também pronúncia [zuo1si3]
+作法 | TRADUÇÃO: curso de ação/método de fazer algo/prática/modus operandi
+作派 | TRADUÇÃO: variante de 做派
+作准 | TRADUÇÃO: ser válido; valer/autêntico
+作为 | TRADUÇÃO: conduta/ação/atividade/realização/conquista/agir como/como (na qualidade de)/na qualidade de/ver como/ considerar (algo como)/tomar algo como
+作物 | TRADUÇÃO: cultura; plantação
+作用 | TRADUÇÃO: agir sobre; afetar/ação; função; atividade/impacto; resultado; efeito/propósito; intenção/(sufixo) -ção, -ção etc, como em 抑制作用, inibição
+作用力 | TRADUÇÃO: força de ação (física)
+作用域 | TRADUÇÃO: escopo (computação)
+作用域链 | TRADUÇÃO: cadeia de escopos (computação)
+作画 | TRADUÇÃO: desenhar; pintar; criar obra de arte
+作痛 | TRADUÇÃO: doer
+作祟 | TRADUÇÃO: assombrado/assombrar/causar travessuras
+作秀 | TRADUÇÃO: exibir-se (estrangeirismo, do inglês "show")/fazer pose/apresentar-se num show
+作笔记 | TRADUÇÃO: tomar notas
+作答 | TRADUÇÃO: responder/responder
+作茧 | TRADUÇÃO: fazer um casulo
+作茧自缚 | TRADUÇÃO: tecer um casulo em volta de si (expressão idiomática); enredado numa armadilha feita por si mesmo/preso na própria armadilha
+作罢 | TRADUÇÃO: abandonar (assunto etc.)
+作者 | TRADUÇÃO: autor; escritor
+作者不详 | TRADUÇÃO: autor desconhecido
+作者未详 | TRADUÇÃO: autor não especificado
+作者权 | TRADUÇÃO: direito autoral
+作兴 | TRADUÇÃO: talvez/possivelmente/há razão para acreditar
+作色 | TRADUÇÃO: mostrar sinais de raiva/ficar ruborizado de irritação
+作誓 | TRADUÇÃO: fazer um juramento
+作证 | TRADUÇÃO: dar testemunho; testemunhar/servir como prova
+作证能力 | TRADUÇÃO: competência
+作贼 | TRADUÇÃO: ser um ladrão
+作践 | TRADUÇÃO: maltratar/humilhar/degradar/arruinar/também pronúncia [zuo2 jian4]
+作辍 | TRADUÇÃO: ora trabalhando, ora parando
+作陪 | TRADUÇÃO: acompanhar (em um banquete etc.) para fazer companhia ao convidado principal
+作风 | TRADUÇÃO: estilo/estilo de trabalho/maneira
+作风正派 | TRADUÇÃO: ser honesto e íntegro/ter integridade moral
+作马 | TRADUÇÃO: cavalete
+作鸟兽散 | TRADUÇÃO: lit. dispersar-se como pássaros e feras (expressão idiomática)/fig. sair em várias direções/fugir em debandada
+佝 | TRADUÇÃO: usado em 佝僂|佝偻/pronúncia em Taiwan [kou4]/usado em 佝瞀
+佝偻 | TRADUÇÃO: encurvado; corcunda
+佝偻病 | TRADUÇÃO: raquitismo (medicina)
+佝瞀 | TRADUÇÃO: variante de 怐愗
+佞 | TRADUÇÃO: bajular/bajulação
+佟 | TRADUÇÃO: sobrenome Tong
+佟佳江 | TRADUÇÃO: Rio Tongjia na Manchúria, afluente do Rio Yalu 鴨綠江|鸭绿江
+你 | TRADUÇÃO: você (informal, em oposição ao cortês 您)/você (Nota: Em Taiwan, 妳 é usado para se dirigir a mulheres, mas na China continental não é comum. Em vez disso, 你 é usado para ambos os sexos.)
+你个头 | TRADUÇÃO: (coloq.) minha orelha!; pois sim! (usado para zombar de uma afirmação que alguém acabou de fazer, como em 專家你個頭|专家你个头 "especialista", minha orelha!)
+你们 | TRADUÇÃO: vocês
+你好 | TRADUÇÃO: olá; oi
+你妈 | TRADUÇÃO: (interjeição) vai se foder/(intensificador) porra
+你情我愿 | TRADUÇÃO: ambos estarem dispostos/consentimento mútuo
+你我 | TRADUÇÃO: você e eu/todos/todos (na sociedade)/nós (as pessoas em geral)
+你死我活 | TRADUÇÃO: lit. você morre, eu vivo (expressão idiomática); adversários irreconciliáveis/duas partes não podem coexistir
+你争我夺 | TRADUÇÃO: lit. você briga, eu pego (expressão idiomática); competir ferozmente sem dar trégua/rivalidade feroz/disputa acirrada
+你看着办吧 | TRADUÇÃO: Você resolve isso sozinho./Faça como quiser.
+你真行 | TRADUÇÃO: você é incrível (muitas vezes uma expressão irônica de vexame, mas também pode expressar aprovação)
+你等 | TRADUÇÃO: (arcaico) vós todos
+你走你的阳关道，我过我的独木桥 | TRADUÇÃO: lit. você pega a estrada larga, eu atravesso a ponte de tronco (expressão idiomática)/fig. você vai pelo seu caminho, eu vou pelo meu/você faz do seu jeito, eu faço do meu
+你追我赶 | TRADUÇÃO: competição amigável/tentar se igualar
+佡 | TRADUÇÃO: variante de 仙, imortal/leve (como uma pluma)
+佢 | TRADUÇÃO: (cantonês) ele, ela, isso
+佣 | TRADUÇÃO: comissão (para intermediário)/taxa de corretagem/contratar/empregar/servo/trabalhador contratado/ajuda doméstica
+佣金 | TRADUÇÃO: comissão
+佣钱 | TRADUÇÃO: comissão; taxa de corretagem
+佤 | TRADUÇÃO: grupo étnico Wa
+佤族 | TRADUÇÃO: grupo étnico Wa
+佧 | TRADUÇÃO: nome antigo para um grupo étnico na China
+佧佤族 | TRADUÇÃO: grupo étnico Wa, Kawa ou Va de Mianmar, sul da China e sudeste da Ásia
+佩 | TRADUÇÃO: respeitar/usar (cinto etc.)/ornamentos de cinto
+佩剑 | TRADUÇÃO: espada/(esgrima) sabre
+佩奇 | TRADUÇÃO: Peppa, do desenho Peppa Pig
+佩带 | TRADUÇÃO: usar (como acessórios)/carregar na cintura
+佩戴 | TRADUÇÃO: usar (como acessório: joia, pedômetro, crachá etc.)
+佩服 | TRADUÇÃO: admirar
+佩洛西 | TRADUÇÃO: Nancy Pelosi (1940-), política democrata dos EUA da Califórnia, presidente da Câmara dos Representantes dos EUA 2007-2011 e 2019-
+佩环 | TRADUÇÃO: pingente de jade em forma de anel para cinto
+佩皮尼昂 | TRADUÇÃO: Perpinhão (cidade na França)
+佩兰 | TRADUÇÃO: orquídea/erva-cheirosa/(botânica) Eupatorium fortunei/Herba Eupatorii (usada na medicina chinesa)
+佩饰 | TRADUÇÃO: ornamento/pingente
+佩鲁贾 | TRADUÇÃO: Perúgia (cidade na Itália)
+佪 | TRADUÇÃO: irresoluto/vai e vem
+佫 | TRADUÇÃO: sobrenome He
+佬 | TRADUÇÃO: homem/homem (cantonês)
+佯 | TRADUÇÃO: fingir/ simular
+佯狂 | TRADUÇÃO: fingir loucura
+佯装 | TRADUÇÃO: fingir/fazer-se passar por
+佯言 | TRADUÇÃO: alegar falsamente (literário)
+佰 | TRADUÇÃO: cem (numeral antifraude bancário)
+佱 | TRADUÇÃO: variante antiga de 法
+佳 | TRADUÇÃO: sobrenome Jia/bonito/fino/bom
+佳世客 | TRADUÇÃO: rede de hipermercados japonesa JUSCO
+佳人 | TRADUÇÃO: mulher bonita
+佳人才子 | TRADUÇÃO: (expressão idiomática) (lit.) bela dama, estudioso talentoso/(fig.) par de amantes ideais
+佳作 | TRADUÇÃO: obra-prima/obra de escrita primorosa
+佳偶 | TRADUÇÃO: casal felizmente casado
+佳冬 | TRADUÇÃO: Distrito de Chiatung no Condado de Pingtung, Taiwan
+佳冬乡 | TRADUÇÃO: Município de Chiatung no Condado de Pingtung, Taiwan
+佳利酿 | TRADUÇÃO: Carignan (tipo de uva)
+佳境 | TRADUÇÃO: (literário) belos arredores; lugar pitoresco/estágio favorável; estado excelente (de desenvolvimento, desempenho etc.)
+佳妙 | TRADUÇÃO: maravilhoso/bela (caligrafia)
+佳得乐 | TRADUÇÃO: Gatorade (marca)
+佳期 | TRADUÇÃO: dia do casamento/dia de encontro amoroso
+佳木斯 | TRADUÇÃO: ver 佳木斯市
+佳木斯大学 | TRADUÇÃO: Universidade de Jiamusi (Heilongjiang)
+佳木斯市 | TRADUÇÃO: Jiamusi, cidade de nível de prefeitura na Província de Heilongjiang
+佳洁士 | TRADUÇÃO: Crest (marca)
+佳节 | TRADUÇÃO: dia festivo/feriado
+佳县 | TRADUÇÃO: Condado de Jia ou Jiaxian, um condado na Cidade de Yulin, Shaanxi
+佳绩 | TRADUÇÃO: bom resultado; sucesso
+佳美 | TRADUÇÃO: belo
+佳能 | TRADUÇÃO: Canon (empresa japonesa)
+佳评如潮 | TRADUÇÃO: um sucesso/popularidade imensa
+佳话 | TRADUÇÃO: história ou feito que cativa a imaginação e se espalha
+佳宾 | TRADUÇÃO: variante de 嘉賓|嘉宾
+佳酿 | TRADUÇÃO: vinho excelente
+佳里 | TRADUÇÃO: Distrito de Jiali em Tainan, Taiwan
+佳音 | TRADUÇÃO: boas notícias
+佳肴 | TRADUÇÃO: comida fina/iguarias/comida deliciosa
+佳丽 | TRADUÇÃO: uma beldade/belo
+佳丽酿 | TRADUÇÃO: Carignan (tipo de uva)
+佴 | TRADUÇÃO: assistente
+并吞 | TRADUÇÃO: engolir/anexar/fundir
+并卷机 | TRADUÇÃO: máquina de barbote de fita
+并拢 | TRADUÇÃO: juntar/colocar lado a lado (ex.: os dedos, duas metades de uma folha de papel rasgada etc.)
+并发症 | TRADUÇÃO: complicações (efeito colateral indesejado de procedimento médico)
+并纱 | TRADUÇÃO: duplicação (combinação de dois ou mais comprimentos de fio em um único fio)
+并购 | TRADUÇÃO: fusão e aquisição (F&A)/aquisição/assumir o controle
+并集 | TRADUÇÃO: união (símbolo ∪) (teoria dos conjuntos)
+佶 | TRADUÇÃO: difícil de pronunciar
+佷 | TRADUÇÃO: agir contrariamente a
+佸 | TRADUÇÃO: encontrar
+佹 | TRADUÇÃO: (literário) perverso; irracional/(literário) excêntrico; enigmático/(literário) por acaso; de repente
+佺 | TRADUÇÃO: imortal
+佻 | TRADUÇÃO: frívolo/instável/atraso
+佼 | TRADUÇÃO: belo
+佼佼者 | TRADUÇÃO: figura conhecida/excelente (pessoa, empresa etc.)
+佽 | TRADUÇÃO: sobrenome Ci/ágil/ajudar
+佾 | TRADUÇÃO: fila de dançarinos em sacrifícios
+使 | TRADUÇÃO: fazer/causar/permitir/usar/empregar/enviar/instruir alguém a fazer algo/emissário/mensageiro
+使不得 | TRADUÇÃO: não pode ser usado/não se deve (fazer algo)/inaceitável
+使人信服 | TRADUÇÃO: convincente
+使出 | TRADUÇÃO: usar/exercer
+使劲 | TRADUÇÃO: exercer toda a força
+使劲儿 | TRADUÇÃO: variante com erhua de 使勁|使劲
+使命 | TRADUÇÃO: missão/tarefa de longo prazo à qual alguém se dedica/um chamado
+使唤 | TRADUÇÃO: mandar alguém fazer algo/(coloq.) manusear (um animal de tração, ferramenta, máquina etc.)/pronúncia de Taiwan [shi3 huan4]
+使团 | TRADUÇÃO: missão diplomática
+使坏 | TRADUÇÃO: fazer truques sujos/estar fazendo travessuras
+使役 | TRADUÇÃO: usar (um animal ou servo)/animal de trabalho/animal de carga/forma causativa de verbos (esp. na gramática do japonês, coreano etc.)
+使徒 | TRADUÇÃO: apóstolo
+使徒行传 | TRADUÇÃO: Atos dos Apóstolos (Novo Testamento)
+使得 | TRADUÇÃO: utilizável; servível/factível; exequível; possível/fazer; causar; provocar
+使性 | TRADUÇÃO: dar um chilique/agir de mau humor
+使性子 | TRADUÇÃO: perder a paciência
+使成 | TRADUÇÃO: fazer com que/tornar
+使然 | TRADUÇÃO: (literário) fazer com que seja assim/ditar
+使用 | TRADUÇÃO: usar/empregar/aplicar/fazer uso de
+使用价值 | TRADUÇÃO: valor de uso
+使用条款 | TRADUÇÃO: termos de uso
+使用权 | TRADUÇÃO: direitos de uso
+使用者 | TRADUÇÃO: (Taiwan) usuário
+使用量 | TRADUÇÃO: volume de uso/quantidade de uso
+使尽 | TRADUÇÃO: exercer toda a força
+使眼色 | TRADUÇÃO: dar um olhar significativo a alguém
+使节 | TRADUÇÃO: emissário (diplomático)
+使节团 | TRADUÇÃO: um grupo diplomático/uma delegação
+使者 | TRADUÇÃO: emissário/mensageiro
+使领官员 | TRADUÇÃO: embaixador e cônsul/diplomata
+使领馆 | TRADUÇÃO: embaixada e consulado
+使馆 | TRADUÇÃO: consulado/missão diplomática
+侀 | TRADUÇÃO: forma/estatuto
+侁 | TRADUÇÃO: grande multidão
+侂 | TRADUÇÃO: (literário) encarregar (variante de 託|托)
+侃 | TRADUÇÃO: íntegro e honesto/alegre/bater papo à toa/gabar-se/falar fluentemente/variante antiga de 侃
+侃侃 | TRADUÇÃO: possuir segurança e compostura
+侃侃而谈 | TRADUÇÃO: falar francamente com segurança
+侃价 | TRADUÇÃO: pechinchar/regatear com um vendedor ambulante
+侃大山 | TRADUÇÃO: bater papo à toa/fofocar/gabar-se ou vangloriar-se
+侃星 | TRADUÇÃO: tagarela/gabador
+侃爷 | TRADUÇÃO: gabola
+侄 | TRADUÇÃO: variante de 姪|侄/variante de 姪|侄/filho do irmão; sobrinho
+侅 | TRADUÇÃO: dar/preparado para incluído em/abrangido em
+来 | TRADUÇÃO: vir/(usado como substituto para um verbo mais específico)/para cá (complemento direcional de movimento em direção ao falante)/desde (como em 自古以來|自古以来)/nos últimos (período de tempo)/(prefixo) o próximo ... (como em 來世|来世)/(entre dois verbos) a fim de/(após um número redondo) aproximadamente/(usado após 得 para indicar possibilidade, ou após 不 para indicar impossibilidade)
+来M | TRADUÇÃO: (coloq.) (de mulheres) menstruar
+来不及 | TRADUÇÃO: não há tempo suficiente (para fazer algo); é tarde demais
+来不得 | TRADUÇÃO: não se pode permitir (estar presente)/não se pode admitir
+来世 | TRADUÇÃO: vida após a morte/próxima vida
+来之不易 | TRADUÇÃO: (expressão idiomática) difícil de conseguir; não facilmente obtido
+来事 | TRADUÇÃO: (coloq.) (esp. após 會|会) ser socialmente hábil; saber lidar com as pessoas
+来信 | TRADUÇÃO: carta recebida/enviar-nos uma carta
+来函 | TRADUÇÃO: carta recebida/carta vinda de longe/o mesmo que 來信|来信
+来到 | TRADUÇÃO: chegar
+来劲 | TRADUÇÃO: (dialeto) estar cheio de entusiasmo/de ânimo elevado/excitante/incitar alguém
+来势 | TRADUÇÃO: ímpeto de algo que se aproxima
+来去无踪 | TRADUÇÃO: (expressão idiomática) chegar sem sombra, partir sem deixar pegada; ir e vir sem deixar rastro
+来台 | TRADUÇÃO: vir a Taiwan/variante de 來台|来台
+来回 | TRADUÇÃO: fazer uma viagem de ida e volta/viagem de volta/para lá e para cá/de um lado para o outro/repetidamente
+来回来去 | TRADUÇÃO: repetidamente/para lá e para cá repetidas vezes
+来安 | TRADUÇÃO: veja 來安縣|来安县
+来安县 | TRADUÇÃO: Lai'an, um distrito na cidade de Chuzhou 滁州市, Anhui
+来客 | TRADUÇÃO: hóspede
+来年 | TRADUÇÃO: próximo ano/o ano que vem
+来往 | TRADUÇÃO: ir e vir/ter relações comerciais ou sociais com/estar em relação com
+来得 | TRADUÇÃO: emergir (de uma comparação)/sair-se (como)/ser competente ou capaz de
+来得及 | TRADUÇÃO: ter tempo suficiente; conseguir fazer a tempo; ainda dar tempo
+来得早不如来得巧 | TRADUÇÃO: chegar cedo não supera chegar na hora certa/sincronia perfeita
+来复枪 | TRADUÇÃO: rifle (empréstimo linguístico)/também grafado 來福槍|来福枪
+来复线 | TRADUÇÃO: raiamento (ranhuras espirais no interior do cano de uma arma de fogo que dão rotação à bala)
+来意 | TRADUÇÃO: o propósito de alguém ao vir
+来文 | TRADUÇÃO: documento recebido/documento enviado
+来日 | TRADUÇÃO: dias futuros/(literário) o dia seguinte/(antigo) dias passados
+来日方长 | TRADUÇÃO: (expressão idiomática) o futuro é longo; ainda haverá tempo para isso depois/Atravessaremos essa ponte quando chegarmos lá
+来朝 | TRADUÇÃO: (literário) amanhã (de manhã)
+来历 | TRADUÇÃO: história/antecedentes/origem
+来历不明 | TRADUÇÃO: (expressão idiomática) de origem desconhecida; de histórico duvidoso
+来港 | TRADUÇÃO: vir a Hong Kong
+来源 | TRADUÇÃO: fonte (de informação etc)/origem
+来源于 | TRADUÇÃO: originar-se em
+来潮 | TRADUÇÃO: (da água) subir/maré subindo/(de mulheres) menstruar
+来火 | TRADUÇÃO: ficar com raiva
+来火儿 | TRADUÇÃO: ficar com raiva
+来无影，去无踪 | TRADUÇÃO: (expressão idiomática) chegar sem sombra, partir sem deixar pegada; ir e vir sem deixar rastro
+来犯 | TRADUÇÃO: (de forças inimigas) invadir; atacar
+来生 | TRADUÇÃO: próxima vida
+来由 | TRADUÇÃO: razão; causa
+来硬的 | TRADUÇÃO: ficar duro/usar a força
+来示 | TRADUÇÃO: (polido) sua carta
+来神 | TRADUÇÃO: animar-se
+来福枪 | TRADUÇÃO: rifle (empréstimo linguístico)/também grafado 來復槍|来复枪
+来福线 | TRADUÇÃO: raiamento (ranhuras helicoidais no interior do cano de uma arma de fogo)
+来义 | TRADUÇÃO: Laiyi, distrito rural no condado de Pingtung 屏東縣|屏东县, Taiwan
+来义乡 | TRADUÇÃO: distrito rural de Laii no condado de Pingtung 屏東縣|屏东县, Taiwan
+来者不善，善者不来 | TRADUÇÃO: (expressão idiomática) Quem vem certamente tem más intenções, ninguém de boa vontade virá./Tenha cuidado para não confiar em estrangeiros./Cuidado com presentes gregos!
+来者不拒 | TRADUÇÃO: (expressão idiomática) não recusar ninguém/todo visitante é bem-vindo
+来而不往非礼也 | TRADUÇÃO: (clássico) não retribuir é contra a etiqueta/responder na mesma moeda
+来临 | TRADUÇÃO: aproximar-se; chegar mais perto
+来自 | TRADUÇÃO: vir de (um lugar)/De: (em cabeçalho de e-mail)
+来华 | TRADUÇÃO: vir para a China
+来着 | TRADUÇÃO: partícula auxiliar indicando que algo aconteceu no passado
+来苏糖 | TRADUÇÃO: lixose (tipo de açúcar)
+来袭 | TRADUÇÃO: invadir/(de uma tempestade etc) atingir/acometer
+来访 | TRADUÇÃO: fazer uma visita
+来访者 | TRADUÇÃO: visitante/(aconselhamento psicológico) cliente
+来讲 | TRADUÇÃO: quanto a/considerando/para
+来宾 | TRADUÇÃO: veja 來賓市|来宾市/convidado/visitante
+来宾市 | TRADUÇÃO: Laibin, cidade de nível de prefeitura na Região Autônoma Zhuang de Guangxi 廣西壯族自治區|广西壮族自治区
+来路 | TRADUÇÃO: estrada de entrada/origem/história passada
+来路不明 | TRADUÇÃO: origem não identificada/ninguém sabe de onde vem/de histórico duvidoso
+来踪去迹 | TRADUÇÃO: (lit.) os vestígios dos movimentos de uma pessoa (expressão idiomática)/(fig.) a história de alguém; os pormenores de um assunto
+来电 | TRADUÇÃO: chamada telefônica (ou telegrama) recebida/telefonar; enviar um telegrama/sentir uma atração instantânea por alguém/(da eletricidade, após uma interrupção) voltar
+来电答铃 | TRADUÇÃO: (Taiwan) tom de retorno (ouvido por quem origina uma chamada telefônica)
+来电显示 | TRADUÇÃO: identificador de chamadas
+来项 | TRADUÇÃO: renda
+来头 | TRADUÇÃO: causa/razão/interesse/influência
+来凤 | TRADUÇÃO: veja 來鳳縣|来凤县
+来凤县 | TRADUÇÃO: Laifeng, um distrito na Prefeitura Autônoma Tujia e Miao de Enshi 恩施土家族苗族自治州, Hubei
+来鸿 | TRADUÇÃO: carta recebida (literário)
+来鸿去燕 | TRADUÇÃO: (expressão idiomática) (lit.) o ganso vem, a andorinha vai; (fig.) sempre em movimento
+来龙去脉 | TRADUÇÃO: origem e desenvolvimento do terreno (expressão idiomática)/sequência completa dos acontecimentos; causas e efeitos
+侇 | TRADUÇÃO: (literário) classe; categoria/(literário) colocar; dispor
+侈 | TRADUÇÃO: extravagante/desperdiçador/exagerado
+侈糜 | TRADUÇÃO: variante de 侈靡
+侈谈 | TRADUÇÃO: tagarelar
+侈靡 | TRADUÇÃO: perdulário/extravagante
+侉 | TRADUÇÃO: sotaque estrangeiro
+侉子 | TRADUÇÃO: pessoa que fala com sotaque estrangeiro
+例 | TRADUÇÃO: exemplo/precedente/regra/caso/instância
+例假 | TRADUÇÃO: (eufemismo) período menstrual/(eufemismo antigo) licença menstrual/feriado legal
+例句 | TRADUÇÃO: frase exemplo
+例外 | TRADUÇÃO: exceção/ser uma exceção
+例外字 | TRADUÇÃO: exceção(ões)
+例如 | TRADUÇÃO: por exemplo; por exemplo; tal como
+例子 | TRADUÇÃO: caso/(para) exemplo/exemplo/CL:個|个
+例会 | TRADUÇÃO: reunião regular
+例汤 | TRADUÇÃO: sopa do dia
+例示 | TRADUÇÃO: exemplificar
+例行 | TRADUÇÃO: de rotina (tarefa, procedimento etc)/como de costume
+例行公事 | TRADUÇÃO: negócio de rotina/prática habitual/mera formalidade
+例言 | TRADUÇÃO: observações introdutórias
+例语 | TRADUÇÃO: (lexicografia) frase ilustrativa; palavra ou frase de amostra
+例证 | TRADUÇÃO: exemplo/caso em questão
+例题 | TRADUÇÃO: problema ou pergunta resolvida para fins ilustrativos em sala de aula; pergunta de prática (usada na preparação para um exame); pergunta de amostra
+侌 | TRADUÇÃO: variante antiga de 陰|阴
+侍 | TRADUÇÃO: servir/prestar assistência a
+侍候 | TRADUÇÃO: servir/esperar por
+侍奉 | TRADUÇÃO: cuidar de/servir/atender às necessidades de alguém
+侍女 | TRADUÇÃO: empregada
+侍妾 | TRADUÇÃO: concubina
+侍弄 | TRADUÇÃO: cuidar de/cuidar (da plantação, jardim, gado, animais de estimação etc)/consertar
+侍从 | TRADUÇÃO: servir (uma personalidade importante)/assistente; criado
+侍从官 | TRADUÇÃO: ajudante de ordens
+侍应 | TRADUÇÃO: garçom; garçonete
+侍应生 | TRADUÇÃO: garçom; garçonete
+侍立 | TRADUÇÃO: ficar de prontidão
+侍者 | TRADUÇÃO: atendente/garçom
+侍卫 | TRADUÇÃO: guarda imperial
+侍卫官 | TRADUÇÃO: guarda
+侍郎 | TRADUÇÃO: vice-ministro (dinastias Ming e Qing)/vice-ministro (também título oficial em dinastias anteriores)
+侏 | TRADUÇÃO: anão
+侏儒 | TRADUÇÃO: anão/pigmeu/pessoa de baixa estatura/microscópico
+侏儒仓鼠 | TRADUÇÃO: hamster anão
+侏儒症 | TRADUÇÃO: nanismo hipofisário
+侏罗 | TRADUÇÃO: montanhas do Jura (leste da França e se estendendo até a Suíça)
+侏罗纪 | TRADUÇÃO: Jurássico (período geológico de 205 a 140 milhões de anos atrás)
+侏蓝仙鹟 | TRADUÇÃO: (espécie de ave da China) papa-moscas-pigmeu-azul (Muscicapella hodgsoni)
+侐 | TRADUÇÃO: quieto/silencioso
+侑 | TRADUÇÃO: (literário) instigar (alguém a comer ou beber)
+侔 | TRADUÇÃO: similar/comparável/igual
+仑 | TRADUÇÃO: arranjar/variante de 崙|仑/usado em 崑崙|昆仑
+侗 | TRADUÇÃO: grupo étnico Dong/ignorante
+侗人 | TRADUÇÃO: pessoas da minoria étnica Dong
+侗剧 | TRADUÇÃO: ópera Dong
+侗族 | TRADUÇÃO: grupo étnico Dong
+侘 | TRADUÇÃO: gabar-se/desanimado
+侚 | TRADUÇÃO: (literário) rápido/variante de 殉
+供 | TRADUÇÃO: fornecer; prover/servir para (uso ou conveniência de)/oferecer (sacrifícios)/(forma presa) oferendas/confessar (pronúncia taiwanesa [gong1])/confissão; depoimento (pronúncia taiwanesa [gong1])
+供不应求 | TRADUÇÃO: oferta não supre a demanda
+供佛花 | TRADUÇÃO: oferenda de flores para Buda
+供品 | TRADUÇÃO: oferenda
+供大于求 | TRADUÇÃO: oferta excede a demanda
+供奉 | TRADUÇÃO: consagrar/adorar e venerar/uma oferenda (aos ancestrais)/um sacrifício (a um deus)
+供应 | TRADUÇÃO: abastecer; fornecer (bens, serviços etc.)
+供应品 | TRADUÇÃO: suprimentos
+供应商 | TRADUÇÃO: fornecedor
+供应室 | TRADUÇÃO: sala de suprimentos; (especialmente em hospital) central de esterilização
+供应者 | TRADUÇÃO: fornecedor
+供应链 | TRADUÇÃO: cadeia de suprimentos
+供房 | TRADUÇÃO: comprar uma casa financiada/hipoteca imobiliária
+供暖 | TRADUÇÃO: fornecer aquecimento (em um edifício)/aquecimento
+供水 | TRADUÇÃO: fornecer água
+供求 | TRADUÇÃO: oferta e demanda (economia)
+供油系统 | TRADUÇÃO: sistema de abastecimento de combustível/sistema de lubrificação
+供热 | TRADUÇÃO: aquecimento (para um edifício)/fornecer aquecimento
+供物 | TRADUÇÃO: oferenda
+供状 | TRADUÇÃO: confissão por escrito
+供献 | TRADUÇÃO: uma contribuição
+供石 | TRADUÇÃO: rocha de estudioso (uma das rochas naturalmente erodidas e de formas fantásticas, exibidas em interiores ou jardins na China)
+供称 | TRADUÇÃO: fazer uma confissão (direito)
+供稿 | TRADUÇÃO: colaborar (com uma revista etc.)
+供给 | TRADUÇÃO: fornecer/prover/oferta (como em oferta e demanda)
+供职 | TRADUÇÃO: ocupar um cargo ou função
+供花 | TRADUÇÃO: oferenda de flores
+供血 | TRADUÇÃO: doar sangue
+供血者 | TRADUÇÃO: doador de sangue
+供词 | TRADUÇÃO: confissão; depoimento/pronúncia taiwanesa [gong1ci2]
+供认 | TRADUÇÃO: confessar/confissão
+供认不讳 | TRADUÇÃO: fazer uma confissão completa; declarar-se culpado
+供货 | TRADUÇÃO: fornecer mercadorias
+供货商 | TRADUÇÃO: fornecedor/vendedor
+供述 | TRADUÇÃO: confissão
+供过于求 | TRADUÇÃO: oferta excede a demanda
+供销 | TRADUÇÃO: oferta e comercialização/distribuição/oferta e venda
+供销商 | TRADUÇÃO: negócio de distribuição/fornecedor
+供电 | TRADUÇÃO: fornecer eletricidade
+供需 | TRADUÇÃO: oferta e demanda
+供养 | TRADUÇÃO: prover/sustentar os mais velhos/apoiar os pais/fazer oferendas (a deuses ou ancestrais)/pronúncia taiwanesa [gong4yang4]
+供体 | TRADUÇÃO: doador (química, física, medicina)
+侜 | TRADUÇÃO: ocultar/cobrir
+依 | TRADUÇÃO: depender de/obedecer ou ouvir alguém/de acordo com/à luz de
+依仗 | TRADUÇÃO: contar com/depender de
+依依 | TRADUÇÃO: relutante em partir/(de grama etc.) macio e flexível, balançando ao vento
+依依不舍 | TRADUÇÃO: relutante em partir (expressão idiomática); de coração partido por ter que sair
+依偎 | TRADUÇÃO: aninhar-se contra/aconchegar-se a
+依傍 | TRADUÇÃO: depender de/confiar em/imitar (um modelo)/basear um trabalho (em algum modelo)
+依地酸二钴 | TRADUÇÃO: kelocianor
+依存 | TRADUÇÃO: depender de algo para existir/dependente de
+依安 | TRADUÇÃO: veja 依安縣|依安县
+依安县 | TRADUÇÃO: Yi'an, um condado na cidade de Qiqihar 齊齊哈爾市|齐齐哈尔市, Heilongjiang
+依属 | TRADUÇÃO: dependência
+依山傍水 | TRADUÇÃO: montanhas de um lado e água do outro
+依序 | TRADUÇÃO: em ordem; sequencialmente
+依从 | TRADUÇÃO: cumprir com/obedecer
+依循 | TRADUÇÃO: seguir; cumprir
+依恋 | TRADUÇÃO: estar afetuosamente ligado a; não desejar se separar de; apegar-se a
+依我来看 | TRADUÇÃO: como eu vejo/na minha opinião
+依我看 | TRADUÇÃO: na minha opinião
+依撒依亚 | TRADUÇÃO: Isaías (transliteração católica)
+依撒意亚 | TRADUÇÃO: Isaías
+依撒格 | TRADUÇÃO: Isaac (nome)
+依据 | TRADUÇÃO: de acordo com/base/fundamento
+依样画葫芦 | TRADUÇÃO: lit. desenhar uma cabaça a partir do modelo (expressão idiomática)/fig. copiar algo mecanicamente sem tentativa de originalidade
+依次 | TRADUÇÃO: em ordem/em sucessão
+依法 | TRADUÇÃO: legal (procedimentos)/de acordo com a lei
+依法治国 | TRADUÇÃO: governar de acordo com a lei
+依然 | TRADUÇÃO: ainda; como antes
+依然如故 | TRADUÇÃO: (expressão idiomática) de volta a onde estávamos; absolutamente nenhuma melhora; as coisas não mudaram nada
+依然故我 | TRADUÇÃO: ser o mesmo de sempre (expressão idiomática)/não ter mudado/(pejorativo) estar preso nos próprios hábitos
+依照 | TRADUÇÃO: de acordo com; à luz de
+依稀 | TRADUÇÃO: vagamente/confusamente/provavelmente/muito provavelmente
+依旧 | TRADUÇÃO: como antes; ainda/permanecer o mesmo
+依着 | TRADUÇÃO: em conformidade com
+依葫芦画瓢 | TRADUÇÃO: desenhar uma concha usando uma cabaça como modelo (expressão idiomática)/seguir o padrão existente sem modificação
+依兰 | TRADUÇÃO: ver 依蘭縣|依兰县
+依兰县 | TRADUÇÃO: Yilan, um condado na cidade de Harbin 哈爾濱市|哈尔滨市, Heilongjiang
+依亲 | TRADUÇÃO: (Taiwan) estar sob os cuidados de parentes/ser dependente de um parente/recorrer a conexões familiares
+依计行事 | TRADUÇÃO: agir de acordo com o plano
+依托 | TRADUÇÃO: apoiar-se em/depender de/apoio
+依赖 | TRADUÇÃO: depender de; ser dependente de
+依赖注入 | TRADUÇÃO: (engenharia de software) injeção de dependência
+依附 | TRADUÇÃO: aderir/vincular-se a/anexar-se
+依云 | TRADUÇÃO: Evian, empresa de água mineral/Évian-les-Bains, cidade turística e termal no sudeste da França
+依靠 | TRADUÇÃO: contar com algo (para apoio etc); depender de
+依顺 | TRADUÇÃO: obedecer
+侢 | TRADUÇÃO: variante antiga de 戴
+侮 | TRADUÇÃO: insultar/ridicularizar/desonrar
+侮弄 | TRADUÇÃO: zombar/intimidar e insultar
+侮慢 | TRADUÇÃO: humilhar/intimidar
+侮骂 | TRADUÇÃO: repreender; insultar
+侮蔑 | TRADUÇÃO: desprezo/desdenhar
+侮辱 | TRADUÇÃO: insultar/humilhar/desonra
+侯 | TRADUÇÃO: sobrenome Hou/marquês, segundo dos cinco níveis da nobreza chinesa antiga 五等爵位/nobre; alto funcionário/usado em 閩侯|闽侯 (nome de um lugar em Fujian)
+侯景之乱 | TRADUÇÃO: Rebelião de Hou Jing contra a dinastia Liang das Dinastias do Sul 南朝梁 em 548
+侯爵 | TRADUÇÃO: marquês
+侯赛因 | TRADUÇÃO: Husain ou Hussein (nome)/Hussein (c. 626-680), líder muçulmano cujo martírio é comemorado na Ashura/Saddam Hussein al Tikriti (1937-2006), ditador do Iraque de 1979 a 2003
+侯门 | TRADUÇÃO: casa nobre
+侯门似海 | TRADUÇÃO: (literal) o portão de uma casa nobre é como o mar (expressão idiomática)/(figurado) há uma grande distância entre a nobreza e o povo comum
+侯马 | TRADUÇÃO: ver 侯馬市|侯马市
+侯马市 | TRADUÇÃO: Houma, uma cidade nível de condado na cidade de Linfen 臨汾市|临汾市, Shanxi
+侴 | TRADUÇÃO: sobrenome Chou
+侵 | TRADUÇÃO: invadir/usurpar/infringir/aproximar-se
+侵占 | TRADUÇÃO: invadir e ocupar (território)
+侵入 | TRADUÇÃO: fazer incursões (militares)/invadir/intrometer-se/invadir sem autorização/obter acesso não autorizado (computação)
+侵入岩 | TRADUÇÃO: rocha intrusiva
+侵入性 | TRADUÇÃO: invasivo (p. ex., doença ou procedimento)
+侵入者 | TRADUÇÃO: intruso/invasor
+侵删 | TRADUÇÃO: (gíria da Internet) se isto for uma violação de direitos autorais, por favor, avise-me e removerei
+侵吞 | TRADUÇÃO: anexar/engolir/desviar (dinheiro)
+侵夜 | TRADUÇÃO: (literário) anoitecer/noite
+侵害 | TRADUÇÃO: usurpar/infringir
+侵害人 | TRADUÇÃO: perpetrador
+侵彻 | TRADUÇÃO: (de um projétil) penetrar (blindagem etc)
+侵扰 | TRADUÇÃO: invadir e assediar
+侵晨 | TRADUÇÃO: perto do amanhecer
+侵权 | TRADUÇÃO: infringir os direitos de/violar/infração
+侵权行为 | TRADUÇÃO: ato ilícito; violação (dos direitos de alguém)
+侵犯 | TRADUÇÃO: infringir/usurpar/violar/agredir
+侵略 | TRADUÇÃO: invadir/invasão
+侵略战争 | TRADUÇÃO: guerra de agressão
+侵略者 | TRADUÇÃO: agressores; invasores
+侵略军 | TRADUÇÃO: exército invasor
+侵华 | TRADUÇÃO: invadir a China (referindo-se às potências imperialistas do século XIX e ao Japão)
+侵蚀 | TRADUÇÃO: erodir/corroer
+侵蚀作用 | TRADUÇÃO: erosão
+侵袭 | TRADUÇÃO: invadir/atacar/assalto
+侵限 | TRADUÇÃO: intrusão; violação de perímetro/(especialmente) (de uma pessoa ou objeto estranho) violar o perímetro ao redor dos trilhos de trem
+侣 | TRADUÇÃO: companheiro
+局 | TRADUÇÃO: estreito/escritório/situação/classificador para jogos: partida, set, rodada etc/apertado; estreito
+局促 | TRADUÇÃO: apertado/desconfortável/variante de 侷促|局促/variante de 侷促|局促
+局限 | TRADUÇÃO: variante de 局限/limitar/restringir/confinar algo dentro de limites estabelecidos
+侹 | TRADUÇÃO: (literário) nivelado e reto
+侽 | TRADUÇÃO: variante antiga de 男
+便 | TRADUÇÃO: informal/simples/adequado/conveniente/oportuno/urinar ou defecar/equivalente a 就: então/nesse caso/mesmo se/logo depois/usado em 便宜/usado em 便便/usado em 便嬛
+便中 | TRADUÇÃO: na conveniência de alguém/quando for conveniente
+便人 | TRADUÇÃO: alguém que por acaso está disponível para um recado
+便便 | TRADUÇÃO: cocô; fazer cocô (termo infantil ou feminino)/obeso/volumoso
+便函 | TRADUÇÃO: uma carta informal enviada por uma organização
+便利 | TRADUÇÃO: conveniente/fácil/facilitar
+便利商店 | TRADUÇÃO: loja de conveniência (Taiwan)
+便利店 | TRADUÇÃO: loja de conveniência
+便利性 | TRADUÇÃO: conveniência
+便利贴 | TRADUÇÃO: nota adesiva
+便器 | TRADUÇÃO: vaso sanitário/mictório
+便士 | TRADUÇÃO: (estrangeirismo) pence; penny
+便壶 | TRADUÇÃO: urinol/penico
+便嬛 | TRADUÇÃO: (antigo) gracioso
+便宜 | TRADUÇÃO: conveniente/barato; de baixo custo/vantagem mesquinha/deixar alguém escapar com leveza
+便宜行事 | TRADUÇÃO: agir a critério próprio/agir como achar melhor
+便宜货 | TRADUÇÃO: uma pechincha/mercadoria barata
+便宴 | TRADUÇÃO: banquete informal; jantar
+便帽 | TRADUÇÃO: boné
+便急 | TRADUÇÃO: precisar ir ao banheiro/urgência urinária ou fecal
+便意 | TRADUÇÃO: vontade de defecar
+便所 | TRADUÇÃO: (dialeto) banheiro/privada
+便捷 | TRADUÇÃO: conveniente e rápido
+便捷化 | TRADUÇÃO: facilitar/agilizar/tornar conveniente e rápido
+便携 | TRADUÇÃO: portátil/fácil de carregar
+便携式 | TRADUÇÃO: portátil
+便于 | TRADUÇÃO: fácil de; conveniente para
+便是 | TRADUÇÃO: (enfatiza que algo é precisamente ou exatamente como afirmado)/precisamente/exatamente/mesmo/se/assim como/da mesma forma que
+便服 | TRADUÇÃO: roupas do dia a dia; traje informal; roupas civis
+便服店 | TRADUÇÃO: (Taiwan) local de vida noturna onde as anfitriãs usam roupas casuais próprias (em vez de fantasias ou trajes formais)
+便桶 | TRADUÇÃO: penico
+便条 | TRADUÇÃO: (nota) informal/CL:張|张,個|个
+便条纸 | TRADUÇÃO: papel de rascunho
+便桥 | TRADUÇÃO: ponte temporária
+便步走 | TRADUÇÃO: marchar à vontade/passo de marcha
+便民 | TRADUÇÃO: amigável ao usuário; conveniente (para clientes, cidadãos etc)
+便民利民 | TRADUÇÃO: (jargão político) tornar a vida mais fácil e melhor para o público
+便池 | TRADUÇÃO: mictório
+便溺 | TRADUÇÃO: urinar ou defecar/urina e fezes
+便当 | TRADUÇÃO: conveniente/prático/fácil/bentô (refeição em caixa compartimentada)/marmita
+便盆 | TRADUÇÃO: comadre
+便秘 | TRADUÇÃO: constipação/prisão de ventre
+便笺 | TRADUÇÃO: bilhete/papel para anotações
+便签 | TRADUÇÃO: nota/lembrete/CL:張|张,個|个
+便血 | TRADUÇÃO: sangue nas fezes
+便衣 | TRADUÇÃO: roupa à paisana; trajes civis/policial à paisana
+便衣警察 | TRADUÇÃO: polícia à paisana
+便装 | TRADUÇÃO: roupa casual
+便览 | TRADUÇÃO: guia rápido
+便车 | TRADUÇÃO: carona
+便道 | TRADUÇÃO: calçada/passeio/atalho/estrada provisória
+便酌 | TRADUÇÃO: jantar informal
+便门 | TRADUÇÃO: porta lateral/postigo
+便闭 | TRADUÇÃO: veja 便秘
+便难 | TRADUÇÃO: replicar com perguntas desafiadoras/debater
+便鞋 | TRADUÇÃO: sapatos de pano/chinelos
+便饭 | TRADUÇÃO: refeição simples/comida caseira simples
+俣 | TRADUÇÃO: grande
+系 | TRADUÇÃO: conectar/relacionar-se a/amarrar/ligar/ser (literário)/sistema/departamento/faculdade/atar/apertar/abotoar/conectar/prender/preocupar-se
+系数 | TRADUÇÃO: coeficiente/fator/módulo/razão
+促 | TRADUÇÃO: (forma ligada) de curta duração; apressado; rápido/(forma ligada) apressar; urgir/(literário) próximo; pressionado contra
+促使 | TRADUÇÃO: incitar; induzir; estimular
+促动 | TRADUÇÃO: motivar
+促弦 | TRADUÇÃO: apertar as cordas (de um instrumento musical)
+促成 | TRADUÇÃO: facilitar; ajudar a realizar
+促求 | TRADUÇÃO: urgir
+促狭 | TRADUÇÃO: (coloq.) brincalhão; travesso/(coloq.) astuto; manhoso
+促狭鬼 | TRADUÇÃO: travesso; patife
+促织 | TRADUÇÃO: grilo (inseto)
+促声 | TRADUÇÃO: tom entrante (sinônimo de 入聲|入声)
+促膝 | TRADUÇÃO: sentar-se joelho com joelho
+促膝谈心 | TRADUÇÃO: (expressão idiomática) sentar lado a lado e ter uma conversa franca
+促请 | TRADUÇÃO: instar
+促退 | TRADUÇÃO: dificultar o progresso
+促进 | TRADUÇÃO: promover (uma ideia ou causa); avançar; impulsionar
+促销 | TRADUÇÃO: promover vendas
+俄 | TRADUÇÃO: Rússia/russo/abrev. de 俄羅斯|俄罗斯/Taiwan pr. [E4]/subitamente/muito em breve
+俄中 | TRADUÇÃO: Rússia-China
+俄中朝 | TRADUÇÃO: Rússia, China e Coreia do Norte
+俄亥俄 | TRADUÇÃO: Ohio
+俄亥俄州 | TRADUÇÃO: Ohio
+俄备得 | TRADUÇÃO: Obede (filho de Boaz e Rute)
+俄克拉何马 | TRADUÇÃO: Oklahoma, estado dos EUA
+俄克拉何马城 | TRADUÇÃO: Cidade de Oklahoma
+俄克拉荷马 | TRADUÇÃO: variante de 俄克拉何馬|俄克拉何马
+俄勒冈 | TRADUÇÃO: Oregon
+俄勒冈州 | TRADUÇÃO: Oregon
+俄国 | TRADUÇÃO: Rússia
+俄国人 | TRADUÇÃO: russo (pessoa)
+俄塔社 | TRADUÇÃO: Agência Telegráfica de Informação da Rússia (ITAR-TASS), agência de notícias russa
+俄巴底亚书 | TRADUÇÃO: Livro de Obadias
+俄文 | TRADUÇÃO: língua russa
+俄期 | TRADUÇÃO: abrev. de 俄狄浦斯期, fase edipiana
+俄乌 | TRADUÇÃO: russo-ucraniano
+俄尔 | TRADUÇÃO: veja 俄而
+俄狄浦斯 | TRADUÇÃO: Édipo, herói da tragédia Édipo Rei do dramaturgo ateniense Sófocles
+俄狄浦斯情结 | TRADUÇÃO: complexo de Édipo
+俄狄浦斯期 | TRADUÇÃO: fase edipiana (psicologia)
+俄罗斯 | TRADUÇÃO: Rússia
+俄罗斯人 | TRADUÇÃO: russo (pessoa)
+俄罗斯帝国 | TRADUÇÃO: Império Russo (1546-1917)
+俄罗斯方块 | TRADUÇÃO: Tetris (videogame)
+俄罗斯族 | TRADUÇÃO: minoria étnica russa na China
+俄罗斯联邦 | TRADUÇÃO: Federação Russa, RSFSR
+俄罗斯轮盘 | TRADUÇÃO: roleta russa
+俄而 | TRADUÇÃO: (literário) muito em breve/dentro em pouco
+俄联邦 | TRADUÇÃO: a Federação Russa
+俄语 | TRADUÇÃO: língua russa
+俄军 | TRADUÇÃO: exército russo
+俄顷 | TRADUÇÃO: num instante/em breve
+俅 | TRADUÇÃO: gorro ornamental
+俉 | TRADUÇÃO: usado em 逢俉
+俊俏 | TRADUÇÃO: atraente e inteligente/encantador/elegante
+俊杰 | TRADUÇÃO: elite/talento excepcional/gênio
+俊拔 | TRADUÇÃO: excepcionalmente talentoso
+俊秀 | TRADUÇÃO: de boa aparência/elegante/bonito
+俊美 | TRADUÇÃO: bonito/lindo
+俊雅 | TRADUÇÃO: (literário) elegante; gracioso; refinado
+俍 | TRADUÇÃO: (literário) ser bom em; ter perícia em/(literário) artesão habilidoso
+俎 | TRADUÇÃO: suporte para alimentos em sacrifícios
+俏 | TRADUÇÃO: bonito/encantador/(de mercadorias) em alta demanda/(coloq.) temperar (comida)
+俏皮 | TRADUÇÃO: elegante/encantador/atraente/espirituoso/facetoso/irônico
+俏皮话 | TRADUÇÃO: gracejo/piada/comentário sarcástico/duplo sentido
+俏美 | TRADUÇÃO: encantador; bonito
+俏货 | TRADUÇÃO: mercadorias que vendem bem
+俏丽 | TRADUÇÃO: bonito/atraente
+俐 | TRADUÇÃO: usado em 伶俐
+俐落 | TRADUÇÃO: variante de 利落
+俑 | TRADUÇÃO: figuras de madeira enterradas com os mortos
+俑坑 | TRADUÇÃO: fosso com figuras funerárias/fosso contendo guerreiros de terracota
+𠇹 | TRADUÇÃO: (literário) atravessar/reto/caminho
+伣 | TRADUÇÃO: (antigo) como/assim como
+俗 | TRADUÇÃO: costume/convenção/popular/comum/grosseiro/vulgar/secular
+俗不可耐 | TRADUÇÃO: intoleravelmente vulgar
+俗世 | TRADUÇÃO: o mundo mundano; o mundo dos mortais
+俗世奇人 | TRADUÇÃO: Pessoas Extraordinárias em Nosso Mundo Comum, contos do romancista Feng Jicai 馮驥才|冯骥才
+俗事 | TRADUÇÃO: rotina diária/assuntos comuns
+俗人 | TRADUÇÃO: pessoas comuns/leigos (ou seja, não sacerdotes)
+俗名 | TRADUÇÃO: nome vulgar/nome leigo (de um sacerdote)
+俗套 | TRADUÇÃO: padrões convencionais/clichê
+俗字 | TRADUÇÃO: forma não padrão de um caractere chinês
+俗家 | TRADUÇÃO: leigo/pessoa leiga/casa original de um monge
+俗气 | TRADUÇÃO: brega/falta de elegância/de mau gosto/vulgar/banal
+俗滥 | TRADUÇÃO: clichê/brega
+俗称 | TRADUÇÃO: comumente chamado de/termo comum
+俗话 | TRADUÇÃO: ditado popular/provérbio
+俗话说 | TRADUÇÃO: como diz o provérbio/como se costuma dizer...
+俗语 | TRADUÇÃO: ditado popular/provérbio/fala coloquial
+俗谚 | TRADUÇÃO: ditado popular/provérbio
+俗谚口碑 | TRADUÇÃO: ditos populares (expressão idiomática); provérbios amplamente divulgados
+俗辣 | TRADUÇÃO: (gíria) (Taiwan) covarde; tigre de papel; um ninguém (do taiwanês 卒仔)
+俗随时变 | TRADUÇÃO: os costumes mudam com o tempo (expressão idiomática); outros tempos, outros costumes/Ó Tempos, Ó Costumes!
+俗体字 | TRADUÇÃO: forma não padrão de um caractere chinês
+俘 | TRADUÇÃO: aprisionar/prisioneiro de guerra
+俘获 | TRADUÇÃO: capturar (propriedade ou pessoal inimigo)/captura (física: absorção de partícula subatômica por um átomo ou núcleo)
+俘虏 | TRADUÇÃO: aprisionar/um cativo (geralmente um prisioneiro de guerra)
+俚 | TRADUÇÃO: nome antigo para o grupo étnico 黎/rústico/vulgar/sem refinamento/abreviatura de 俚語|俚语, gíria
+俚语 | TRADUÇÃO: gíria
+俚谚 | TRADUÇÃO: ditado popular/provérbio popular
+俛 | TRADUÇÃO: exortar
+俯 | TRADUÇÃO: variante de 俯/olhar para baixo/abaixar-se
+俜 | TRADUÇÃO: usado em 伶俜
+保 | TRADUÇÃO: Bulgária (abreviatura de 保加利亞|保加利亚)/defender; proteger; guardar/garantir; assegurar/(antigo) unidade administrativa civil no sistema baojia 保甲
+保不住 | TRADUÇÃO: não conseguir manter (algo)/incapaz de guardar/mais provável que não/pode muito bem
+保不定 | TRADUÇÃO: mais provável que não/bem possível/na iminência de
+保不齐 | TRADUÇÃO: mais provável que não/bem possível/na iminência de
+保亭 | TRADUÇÃO: Condado Autônomo Li e Miao de Baoting, Hainan
+保亭县 | TRADUÇÃO: Condado Autônomo Li e Miao de Baoting, Hainan
+保亭黎族苗族自治县 | TRADUÇÃO: Condado Autônomo Li e Miao de Baoting, Hainan
+保人 | TRADUÇÃO: fiador; pessoa que paga fiança
+保住 | TRADUÇÃO: preservar/salvar
+保佑 | TRADUÇÃO: abençoar e proteger/bênção
+保修 | TRADUÇÃO: prometer manter algo em bom estado/garantia
+保修期 | TRADUÇÃO: período de garantia/período de garantia
+保值 | TRADUÇÃO: preservar o valor; proteger contra depreciação
+保健 | TRADUÇÃO: proteção à saúde/cuidados de saúde/manter em boa saúde
+保健操 | TRADUÇÃO: exercícios de saúde
+保全 | TRADUÇÃO: salvar de danos/preservar/manter/manter em boas condições/(Taiwan) segurança
+保全员 | TRADUÇÃO: (Taiwan) segurança
+保八 | TRADUÇÃO: manter uma taxa de crescimento anual do PIB de 8% (política da RPC)
+保准 | TRADUÇÃO: garantir/confiável/com certeza/variante de 保准
+保利科技有限公司 | TRADUÇÃO: Poly Technologies (empresa de fabricação de defesa)
+保力龙 | TRADUÇÃO: poliestireno
+保加利亚 | TRADUÇÃO: Bulgária
+保呈 | TRADUÇÃO: documento que garante as palavras ou ações de um terceiro (antigo)
+保命 | TRADUÇÃO: preservar a própria vida; garantir a própria sobrevivência
+保单 | TRADUÇÃO: certificado de garantia
+保固 | TRADUÇÃO: garantir a qualidade de uma edificação, produto ou serviço, assumindo a correção de eventuais defeitos/garantia/garantia
+保墒 | TRADUÇÃO: preservação da umidade do solo
+保外就医 | TRADUÇÃO: liberar para tratamento médico (de um prisioneiro)
+保姆 | TRADUÇÃO: babá; cuidador de crianças/empregada doméstica
+保媒 | TRADUÇÃO: atuar como intermediário (entre potenciais parceiros de casamento, etc.)
+保存 | TRADUÇÃO: conservar; preservar; guardar; armazenar; (computação) salvar (um arquivo, etc.)
+保守 | TRADUÇÃO: conservador/guardar/manter
+保守主义 | TRADUÇÃO: conservadorismo
+保守派 | TRADUÇÃO: facção conservadora
+保守党 | TRADUÇÃO: partidos políticos conservadores
+保安 | TRADUÇÃO: grupo étnico Bonan/garantir a segurança pública/garantir a segurança (para trabalhadores envolvidos na produção)/segurança pública/segurança
+保安人员 | TRADUÇÃO: pessoal de segurança/membro da força policial
+保安团 | TRADUÇÃO: grupo de manutenção da paz
+保安族 | TRADUÇÃO: grupo étnico Bonan
+保安部队 | TRADUÇÃO: forças de segurança
+保定 | TRADUÇÃO: ver 保定市
+保定市 | TRADUÇÃO: Baoding, cidade de nível de prefeitura na Província de Hebei 河北省
+保家卫国 | TRADUÇÃO: guardar o lar, defender o país (expressão idiomática); defesa nacional
+保密 | TRADUÇÃO: manter algo confidencial/manter sigilo
+保密协议 | TRADUÇÃO: acordo de não divulgação/acordo de confidencialidade
+保密性 | TRADUÇÃO: sigilo
+保山 | TRADUÇÃO: ver 保山市
+保山市 | TRADUÇÃO: Baoshan, cidade de nível de prefeitura na Província de Yunnan 雲南省|云南省
+保底 | TRADUÇÃO: empatar/garantir um mínimo (salário, etc.)
+保康 | TRADUÇÃO: ver 保康縣|保康县
+保康县 | TRADUÇÃO: Baokang, um condado na Cidade de Xiangyang 襄陽市|襄阳市, Hubei
+保德 | TRADUÇÃO: ver 保德縣|保德县
+保德县 | TRADUÇÃO: Baode, um condado na Cidade de Xinzhou 忻州市, Shanxi
+保惠师 | TRADUÇÃO: (Cristianismo) Paráclito
+保户 | TRADUÇÃO: titular de apólice de seguro
+保持 | TRADUÇÃO: manter/preservar/segurar/guardar
+保持器 | TRADUÇÃO: (ortodontia) aparelho de contenção
+保时捷 | TRADUÇÃO: Porsche (empresa de carros)
+保暖 | TRADUÇÃO: manter aquecido
+保暖内衣 | TRADUÇÃO: roupa íntima térmica
+保有 | TRADUÇÃO: manter/reter
+保本 | TRADUÇÃO: empatar
+保残守缺 | TRADUÇÃO: conservador/preservar o obsoleto
+保母 | TRADUÇÃO: variante de 保姆
+保温 | TRADUÇÃO: manter quente/preservação de calor
+保温杯 | TRADUÇÃO: copo (ou garrafa) térmico isolante
+保温瓶 | TRADUÇÃO: garrafa térmica
+保洁 | TRADUÇÃO: saneamento
+保洁箱 | TRADUÇÃO: lixeira
+保湿 | TRADUÇÃO: hidratar/hidratante
+保尔 | TRADUÇÃO: Paulo (nome)
+保尔森 | TRADUÇÃO: Paulson ou Powellson (nome)/Henry (Hank) Paulson (1946-), banqueiro americano, Secretário do Tesouro dos EUA 2006-2009
+保特瓶 | TRADUÇÃO: variante de 寶特瓶|宝特瓶
+保甲 | TRADUÇÃO: sistema histórico comunitário administrativo e de autodefesa criado durante a Dinastia Song e revivido durante a Era Republicana, no qual as famílias são agrupadas em jia 甲 e jia são agrupados em bao 保
+保留 | TRADUÇÃO: guardar/reter/ter reservas (sobre algo)/conter-se (de dizer algo)/reservar para depois
+保留价 | TRADUÇÃO: preço de reserva (em um leilão)/(economia) preço de reserva
+保留剧目 | TRADUÇÃO: repertório/repertório/item de repertório

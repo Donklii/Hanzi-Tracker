@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+将令 | TRADUÇÃO: (antigo) (militar) comando/ordem
+将伯 | TRADUÇÃO: pedir assistência/solicitar ajuda
+将伯之助 | TRADUÇÃO: assistência que se obtém de outro
+将来 | TRADUÇÃO: futuro/daqui para frente/CL:個|个
+将信将疑 | TRADUÇÃO: ver 半信半疑
+将功折罪 | TRADUÇÃO: ver 將功贖罪|将功赎罪
+将功补过 | TRADUÇÃO: compensar falhas com boas ações (expressão idiomática)
+将功赎罪 | TRADUÇÃO: expiar crimes com ações meritórias
+将勤补拙 | TRADUÇÃO: (expressão idiomática) compensar a falta de habilidade com trabalho árduo
+将士 | TRADUÇÃO: oficiais e soldados
+将官 | TRADUÇÃO: general
+将就 | TRADUÇÃO: aceitar (relutantemente)/tolerar
+将帅 | TRADUÇÃO: comandante-em-chefe, equivalente ao rei no xadrez chinês
+将心比心 | TRADUÇÃO: colocar-se no lugar do outro (expressão idiomática)
+将息 | TRADUÇÃO: (literário) descansar/recuperar-se
+将才 | TRADUÇÃO: comandante de campo talentoso (militar)
+将会 | TRADUÇÃO: verbo auxiliar que introduz ação futura: pode (ser capaz de)/irá (causar)/deveria (permitir)/vai
+将棋 | TRADUÇÃO: xadrez japonês (shōgi)
+将乐 | TRADUÇÃO: ver 將樂縣|将乐县
+将乐县 | TRADUÇÃO: Jiangle, um condado na cidade de Sanming 三明市, Fujian
+将死 | TRADUÇÃO: dar xeque-mate (no xadrez)/estar prestes a morrer
+将牌 | TRADUÇÃO: trunfo (naipe de cartas)
+将至 | TRADUÇÃO: estar prestes a chegar/estar ao virar da esquina
+将要 | TRADUÇÃO: irá/vai/estar prestes a
+将计就计 | TRADUÇÃO: virar o jogo contra o oponente usando sua própria estratégia (expressão idiomática)
+将军 | TRADUÇÃO: (nome de lugar comum) ‖ general/oficial militar de alta patente/executar xeque ou xeque-mate/fig. envergonhar/desafiar/deixar alguém em saia justa
+将军肚 | TRADUÇÃO: barriga de chope/barriga de cerveja
+将军肚子 | TRADUÇÃO: barriga de cerveja (elogioso)
+将近 | TRADUÇÃO: quase/quase perto de/próximo de
+将错就错 | TRADUÇÃO: lit. se está errado, está errado (expressão idiomática); fazer o melhor após um erro/aceitar um erro e adaptar-se/ir levando
+将领 | TRADUÇÃO: oficial militar de alta patente
+专 | TRADUÇÃO: para uma pessoa, ocasião ou propósito específico/focado em uma coisa/especial/especialista/particular (a algo)/concentrado/especializado ‖ variante de 專|专
+专一 | TRADUÇÃO: focado/exclusivo
+专事 | TRADUÇÃO: especializado
+专人 | TRADUÇÃO: especialista/pessoa designada para tarefa específica
+专任 | TRADUÇÃO: em tempo integral/designar alguém para tarefa específica
+专八 | TRADUÇÃO: TEM-8 ou Teste de Proficiência para Alunos de Inglês – Nível 8, maior nível de proficiência para alunos de inglês na RP da China (abrev. de 英語專業八級考試|英语专业八级考试)
+专列 | TRADUÇÃO: trem especial/abrev. de 專門列車|专门列车
+专利 | TRADUÇÃO: patente/algo desfrutado ou possuído exclusivamente por certo grupo de pessoas/monopólio
+专利局 | TRADUÇÃO: escritório de patentes
+专利权 | TRADUÇÃO: direito de patente
+专利法 | TRADUÇÃO: lei de patentes
+专利药品 | TRADUÇÃO: medicamentos patenteados
+专制 | TRADUÇÃO: autocracia/ditadura
+专制主义 | TRADUÇÃO: absolutismo/despotismo/autocracia
+专制君主制 | TRADUÇÃO: monarquia absoluta/autocracia
+专区 | TRADUÇÃO: área estabelecida para um fim designado/(subdivisão provincial da RP da China 1949-1975) prefeitura
+专司 | TRADUÇÃO: trabalhar exclusivamente em/ter como única função/pessoa ou agência responsável por algo específico
+专名 | TRADUÇÃO: nome próprio
+专名词 | TRADUÇÃO: nome próprio
+专员 | TRADUÇÃO: diretor assistente/comissário
+专场 | TRADUÇÃO: apresentação especial/exibição exclusiva
+专家 | TRADUÇÃO: especialista; perito
+专家系统 | TRADUÇÃO: sistema especialista
+专家评价 | TRADUÇÃO: avaliação de especialistas
+专家评论 | TRADUÇÃO: comentário de especialistas
+专属 | TRADUÇÃO: pertencer ou ser dedicado exclusivamente; proprietário; privado; pessoal
+专属经济区 | TRADUÇÃO: zona econômica exclusiva
+专征 | TRADUÇÃO: empreender uma expedição punitiva pessoal
+专心 | TRADUÇÃO: focar a atenção; concentrar-se em (fazer algo)
+专心一意 | TRADUÇÃO: concentrar-se em
+专心致志 | TRADUÇÃO: (expressão idiomática) focado inteiramente; dedicado
+专意 | TRADUÇÃO: deliberadamente/de propósito
+专控 | TRADUÇÃO: controle exclusivo
+专擅 | TRADUÇÃO: sem autorização/agir por iniciativa própria
+专攻 | TRADUÇÃO: especializar-se em/ter como especialidade
+专政 | TRADUÇÃO: ditadura
+专断 | TRADUÇÃO: agir arbitrariamente/tomar decisões sem consultar outros
+专有 | TRADUÇÃO: exclusivo/proprietário
+专有名词 | TRADUÇÃO: termo técnico/nome próprio
+专案 | TRADUÇÃO: projeto/caso
+专案小组 | TRADUÇÃO: força-tarefa
+专案组 | TRADUÇÃO: equipe de investigação especial (jurídica ou judicial)
+专案经理 | TRADUÇÃO: gerente de projeto
+专业 | TRADUÇÃO: especialidade/campo especializado/área principal de estudo (na universidade)/curso/CL:門|门,個|个/profissional
+专业人士 | TRADUÇÃO: profissional
+专业人才 | TRADUÇÃO: especialista (em uma área)
+专业化 | TRADUÇÃO: especialização
+专业性 | TRADUÇÃO: profissionalismo; especialização
+专业户 | TRADUÇÃO: família rural que se especializa em um tipo específico de produto/(fig.) especialista
+专业教育 | TRADUÇÃO: educação especializada/escola técnica
+专机 | TRADUÇÃO: avião fretado/aeronave VIP
+专横 | TRADUÇÃO: imperioso/arrogante
+专柜 | TRADUÇÃO: balcão de vendas dedicado a certo tipo de produto (ex.: bebidas alcoólicas)
+专栏 | TRADUÇÃO: coluna especial
+专权 | TRADUÇÃO: autocracia/ditadura
+专款 | TRADUÇÃO: fundo especial/dinheiro alocado para um fim específico
+专治 | TRADUÇÃO: (de medicamento) usar especificamente para o tratamento de
+专注 | TRADUÇÃO: focar; concentrar-se; dar atenção total
+专营 | TRADUÇÃO: especializar-se em (um produto ou serviço específico)/monopólio
+专营店 | TRADUÇÃO: agência exclusiva/loja franqueada/loja autorizada
+专用 | TRADUÇÃO: especial/dedicado
+专用网路 | TRADUÇÃO: rede dedicada
+专用集成电路 | TRADUÇÃO: circuito integrado de aplicação específica (ASIC)
+专硕 | TRADUÇÃO: mestrado profissional (abrev. de 專業學位碩士|专业学位硕士)
+专科 | TRADUÇÃO: assunto especializado/ramo (de medicina)/escola de treinamento especializado
+专科学校 | TRADUÇÃO: escola especializada/faculdade de formação profissional/politécnico
+专科院校 | TRADUÇÃO: academia
+专程 | TRADUÇÃO: especificamente/especialmente (para aquele fim)
+专管 | TRADUÇÃO: ser responsável por algo específico
+专线 | TRADUÇÃO: linha telefônica dedicada/linha direta/ramal ferroviário especial/CL:條|条
+专美于前 | TRADUÇÃO: monopolizar os holofotes (expressão idiomática)/receber toda a glória/ocupar a posição mais alta
+专职 | TRADUÇÃO: dever especial/tarefa em tempo integral/cargo dedicado integralmente a uma função
+专著 | TRADUÇÃO: monografia/texto especializado
+专访 | TRADUÇÃO: entrevistar (uma pessoa específica ou sobre um tópico específico)/entrevista especial/reportagem especial baseada em tal entrevista
+专责 | TRADUÇÃO: responsabilidade específica
+专卖 | TRADUÇÃO: monopólio/direito exclusivo de comercialização
+专卖店 | TRADUÇÃO: loja especializada
+专车 | TRADUÇÃO: trem (ou ônibus etc.) especial ou reservado/limusine/carro particular usado como táxi e reservado por aplicativo de smartphone
+专辑 | TRADUÇÃO: álbum (musical)/coletânea especial de material impresso ou transmitido
+专递 | TRADUÇÃO: fazer uma entrega especial; enviar por serviço de courier
+专长 | TRADUÇÃO: especialidade/conhecimento ou habilidade especial
+专门 | TRADUÇÃO: especializado; dedicado (a uma área ou propósito específico)/especialmente; especificamente (para um propósito particular)/(de instituições, pessoal etc.) designado ou designado para uma tarefa específica; especial
+专门人员 | TRADUÇÃO: especialista / equipe especializada
+专门列车 | TRADUÇÃO: trem especial
+专门化 | TRADUÇÃO: especializar-se
+专门家 | TRADUÇÃO: especialista
+专门机构 | TRADUÇÃO: agência especializada
+专项 | TRADUÇÃO: especial / dedicado
+专题 | TRADUÇÃO: tópico específico (abordado por um livro, palestra, programa de TV etc.)/artigo, reportagem ou programa etc. sobre um tópico específico
+专题地图 | TRADUÇÃO: mapa temático
+专题报导 | TRADUÇÃO: reportagem especial (na mídia)
+专题片 | TRADUÇÃO: reportagem especial (exibida na TV etc.)
+尉 | TRADUÇÃO: sobrenome Wei ‖ oficial militar ‖ usado em 尉遲|尉迟/usado em 尉犁 (nome de um lugar em Xinjiang)
+尉氏 | TRADUÇÃO: veja 尉氏縣|尉氏县
+尉氏县 | TRADUÇÃO: Weishi, um condado na cidade de Kaifeng 開封市|开封市, Henan
+尉犁 | TRADUÇÃO: veja 尉犁縣|尉犁县
+尉犁县 | TRADUÇÃO: Yuli, um condado na Prefeitura Autônoma Mongol de Bayingolin 巴音郭楞蒙古自治州, Xinjiang
+尉缭 | TRADUÇÃO: Wei Lao (c. 450 a.C., datas de nascimento e morte desconhecidas), conselheiro do primeiro imperador Qin, Qin Shihuang 秦始皇, possível autor do texto Wei Liaozi 尉繚子|尉缭子 sobre estratégia militar
+尉缭子 | TRADUÇÃO: Wei Liaozi, um dos Sete Clássicos Militares da China antiga 武經七書|武经七书, possivelmente escrito por Wei Liao 尉繚|尉缭 durante o Período dos Reinos Combatentes (475-220 a.C.)
+尉迟 | TRADUÇÃO: sobrenome de dois caracteres Yuchi
+尉迟恭 | TRADUÇÃO: General Yuchi Gong (585-658), famoso militar fundamental na fundação da dinastia Tang
+尊 | TRADUÇÃO: sênior/da geração anterior/honrar/respeitar/tratamento honorífico/classificador para canhões e estátuas/vaso antigo para vinho
+尊公 | TRADUÇÃO: (honorífico) seu pai
+尊卑 | TRADUÇÃO: superior e subordinado/hierarquia social
+尊君 | TRADUÇÃO: (honorífico) seu pai
+尊命 | TRADUÇÃO: sua ordem (honorífico)
+尊严 | TRADUÇÃO: dignidade/santidade/honra/majestade
+尊堂 | TRADUÇÃO: (honorífico) sua mãe
+尊奉 | TRADUÇÃO: adorar/reverenciar/venerar
+尊容 | TRADUÇÃO: semblante augusto/sua cara (geralmente zombeteiro)
+尊尚 | TRADUÇÃO: valorizar muito/sustentar algo como modelo
+尊崇 | TRADUÇÃO: reverenciar/admirar/honrar/venerar
+尊师 | TRADUÇÃO: mestre venerado
+尊师爱徒 | TRADUÇÃO: título de um sacerdote taoísta/mestre venerado
+尊师贵道 | TRADUÇÃO: reverenciar o mestre e seus ensinamentos
+尊从 | TRADUÇÃO: obedecer/seguir/respeitar
+尊意 | TRADUÇÃO: (honorífico) sua respeitada opinião/O que Vossa Majestade acha?
+尊敬 | TRADUÇÃO: respeitar; reverenciar; estimar/honrável; distinto (usado em ocasiões formais antes de um termo de tratamento)
+尊荣 | TRADUÇÃO: honra e glória
+尊称 | TRADUÇÃO: dirigir-se a alguém deferentemente/título/tratamento honorífico
+尊翁 | TRADUÇÃO: (honorífico) seu pai
+尊老 | TRADUÇÃO: respeitar os idosos
+尊老爱幼 | TRADUÇÃO: respeitar os idosos e acarinhar os jovens
+尊者 | TRADUÇÃO: senhor honrado (pessoa de status ou senioridade superior, ou monge budista)
+尊号 | TRADUÇÃO: título honorífico/forma de tratamento reservada a uma rainha, ancestral, imperador etc.
+尊亲 | TRADUÇÃO: (honorífico) seu pai ou sua mãe
+尊亲属 | TRADUÇÃO: (Direito) parentes mais velhos; parentes de geração superior, como pais, tios ou avós
+尊贵 | TRADUÇÃO: respeitado/respeitável/honrável
+尊贤使能 | TRADUÇÃO: respeitar o talento e fazer uso da habilidade (Mêncio)
+尊贤爱物 | TRADUÇÃO: honrar os sábios e amar o povo/respeitar o talento nobre enquanto protege as pessoas comuns
+尊重 | TRADUÇÃO: estimar/respeitar/honrar/valorizar/eminente/sério/próprio
+尊长 | TRADUÇÃO: superior/idosos e superiores
+尊驾 | TRADUÇÃO: lit. sua carruagem honrada/vossa alteza/senhor honrado (também sarcástico)/você
+尊鱼 | TRADUÇÃO: truta
+寻 | TRADUÇÃO: procurar/buscar/vasculhar
+寻事生非 | TRADUÇÃO: procurar confusão
+寻仇 | TRADUÇÃO: realizar uma rixa de sangue contra alguém
+寻出 | TRADUÇÃO: descobrir/encontrar/desenterrar/revelar
+寻味 | TRADUÇÃO: refletir sobre algo
+寻呼机 | TRADUÇÃO: pager; bip
+寻问 | TRADUÇÃO: perguntar/indagar
+寻回犬 | TRADUÇÃO: retriever (grupo de raças de cães)
+寻址 | TRADUÇÃO: endereçar/procurar endereço/inserir dados na memória
+寻宝 | TRADUÇÃO: caça ao tesouro
+寻常 | TRADUÇÃO: usual; comum; ordinário
+寻思 | TRADUÇÃO: considerar/pensar/ponderar
+寻找 | TRADUÇÃO: procurar; buscar
+寻摸 | TRADUÇÃO: procurar/explorar/investigar
+寻根 | TRADUÇÃO: buscar as próprias raízes/chegar ao fundo de uma questão
+寻根问底 | TRADUÇÃO: lit. examinar raízes e perguntar na base (expressão idiomática); chegar ao fundo de algo
+寻根溯源 | TRADUÇÃO: veja 追根溯源
+寻机 | TRADUÇÃO: buscar uma oportunidade
+寻欢 | TRADUÇÃO: buscar prazer (especialmente sexual)
+寻欢作乐 | TRADUÇÃO: busca de prazer (expressão idiomática); vida de dissipação
+寻死 | TRADUÇÃO: tentar suicídio / buscar a morte
+寻水术 | TRADUÇÃO: rabdomancia
+寻求 | TRADUÇÃO: procurar; buscar
+寻乌 | TRADUÇÃO: veja 尋烏縣|寻乌县
+寻乌县 | TRADUÇÃO: Xunwu, um condado na cidade de Ganzhou 贛州市|赣州市, Jiangxi
+寻获 | TRADUÇÃO: encontrar/rastrear/recuperar (algo perdido)
+寻甸 | TRADUÇÃO: veja 尋甸回族彝族自治縣|寻甸回族彝族自治县
+寻甸回族彝族自治县 | TRADUÇÃO: Condado Autônomo Hui e Yi de Xundian, na cidade de Kunming 昆明市, Yunnan
+寻甸县 | TRADUÇÃO: veja 尋甸回族彝族自治縣|寻甸回族彝族自治县
+寻的 | TRADUÇÃO: autoguiado/busca de alvo (militar)
+寻短见 | TRADUÇÃO: cometer suicídio
+寻租 | TRADUÇÃO: busca de renda (economia)
+寻花 | TRADUÇÃO: contemplar flores/visitar uma prostituta
+寻花问柳 | TRADUÇÃO: lit. apreciar a bela paisagem primaveril (expressão idiomática)/fig. frequentar bordéis/semear a aveia selvagem
+寻觅 | TRADUÇÃO: procurar
+寻访 | TRADUÇÃO: procurar (alguém)/ir atrás de (alguém)
+寻衅 | TRADUÇÃO: provocar briga/procurar confusão
+寻衅滋事罪 | TRADUÇÃO: crime de conduta desordeira (Direito da China)
+寻开心 | TRADUÇÃO: caçoar/divertir-se
+尌 | TRADUÇÃO: ereto (algo)/erguer (algo)
+对 | TRADUÇÃO: certo; correto/em direção a; para/com relação a; a respeito de/tratar (alguém de certa maneira)/estar de frente (para)/(forma presa) oposto; virado para; que combina/ajustar (duas partes)/encaixar/adequar-se/responder; replicar/acrescentar; despejar (um líquido)/conferir; comparar/classificador: par
+对上 | TRADUÇÃO: encaixar uma coisa na outra/fazer coincidir duas coisas
+对不上 | TRADUÇÃO: não combinar/não poder concordar com isso
+对不住 | TRADUÇÃO: decepcionar (alguém)/ser injusto (com alguém)/desculpe/com licença (formal)
+对不对 | TRADUÇÃO: certo ou errado?/Está certo?/Tá bom, sim? (coloq.)
+对不起 | TRADUÇÃO: desculpe; com licença; perdão/decepcionar; desapontar
+对世权 | TRADUÇÃO: (Direito) direito absoluto/direito erga omnes
+对幺 | TRADUÇÃO: duque de ás (em dominó)/um duplo
+对乙酰氨基酚 | TRADUÇÃO: paracetamol/acetaminofeno
+对了 | TRADUÇÃO: Correto!/Ah, é verdade, ... (quando alguém se lembra de repente de algo que queria mencionar)/Ah, a propósito, ...
+对事不对人 | TRADUÇÃO: é contra o ato, não contra a pessoa (expressão idiomática)
+对仗 | TRADUÇÃO: antítese (em poesia)/lutar/travar guerra
+对付 | TRADUÇÃO: lidar com; dar conta de/arranjar-se; virar-se (com algo)/(dialetal) (geralmente usado na negativa) dar-se bem (com alguém)
+对位 | TRADUÇÃO: contraponto (em música etc)/alinhar/alinhamento
+对偶 | TRADUÇÃO: dual/dualidade/antítese/frases emparelhadas (como recurso retórico)/cônjuge
+对偶多面体 | TRADUÇÃO: poliedro dual
+对偶性 | TRADUÇÃO: (Mat.) dualidade
+对价 | TRADUÇÃO: contraprestação (em troca de ações)/quid pro quo
+对内 | TRADUÇÃO: interno/nacional/doméstico (política)
+对刺 | TRADUÇÃO: treino de baioneta em duplas
+对劲 | TRADUÇÃO: adequado; do agrado de alguém/ter uma boa relação
+对劲儿 | TRADUÇÃO: variante com erhua de 對勁|对劲
+对半 | TRADUÇÃO: pela metade; igualmente (em duas partes); meio a meio
+对口 | TRADUÇÃO: (de dois artistas) falar ou cantar alternadamente/ser adequado a um cargo ou tarefa/(de comida) agradar ao paladar de alguém
+对口型 | TRADUÇÃO: fazer dublagem labial (lip-sync)
+对口径 | TRADUÇÃO: combinar uma mesma versão dos fatos
+对口相声 | TRADUÇÃO: diálogo cômico formalizado entre dois humoristas: o engraçado 逗哏 e o sério 捧哏
+对口词 | TRADUÇÃO: diálogo (para apresentação no palco)
+对句 | TRADUÇÃO: dístico (estrofe de dois versos)
+对合 | TRADUÇÃO: lucro igual ao valor investido/(Mat.) involução
+对味儿 | TRADUÇÃO: saboroso/do agrado de alguém
+对唱 | TRADUÇÃO: cantar em dueto/frase de resposta/resposta antifonal
+对嘴 | TRADUÇÃO: fazer dublagem labial (lip-sync)
+对地 | TRADUÇÃO: dirigido ao solo (ex.: ataques)
+对坐 | TRADUÇÃO: sentar-se de frente um para o outro
+对垒 | TRADUÇÃO: enfrentar um adversário (militar, esportivo etc)
+对外 | TRADUÇÃO: externo/estrangeiro/relativo a assuntos externos ou estrangeiros
+对外政策 | TRADUÇÃO: política externa
+对外经济贸易大学 | TRADUÇÃO: Universidade de Negócios Internacionais e Economia (Pequim)
+对外联络部 | TRADUÇÃO: Departamento de Relações Externas do Comitê Central do PCC (secretaria de relações exteriores do Partido Comunista Chinês)
+对外贸易 | TRADUÇÃO: comércio exterior
+对外关系 | TRADUÇÃO: relações exteriores
+对子 | TRADUÇÃO: par de frases antitéticas/dístico antitético
+对家 | TRADUÇÃO: parceiro (em jogo de quatro pessoas)/família do pretendente (em casamento arranjado)
+对对子 | TRADUÇÃO: compor a frase de resposta (em jogo de dísticos)
+对对碰 | TRADUÇÃO: jogo da memória (jogo de pares)
+对局 | TRADUÇÃO: lados opostos (em xadrez etc)/posição (de forças opostas)
+对岸 | TRADUÇÃO: margem oposta (de um corpo d'água)
+对峙 | TRADUÇÃO: (de montanhas etc) estar de frente uma para a outra/(fig.) enfrentar-se mutuamente
+对工 | TRADUÇÃO: adequado
+对工儿 | TRADUÇÃO: adequado
+对帐 | TRADUÇÃO: variante de 對賬|对账
+对弈 | TRADUÇÃO: jogar go, xadrez etc
+对待 | TRADUÇÃO: tratar/tratamento
+对得起 | TRADUÇÃO: não decepcionar (alguém)/tratar (alguém) com justiça/ser digno de
+对心 | TRADUÇÃO: congenial/do agrado de alguém
+对心儿 | TRADUÇÃO: variante com erhua de 對心|对心
+对应 | TRADUÇÃO: corresponder (a); ser equivalente a; ser contraparte de
+对应词 | TRADUÇÃO: (Linguística) equivalente; tradução de um termo para a língua-alvo
+对我来说 | TRADUÇÃO: no que me diz respeito
+对战 | TRADUÇÃO: travar batalha (com alguém)
+对手 | TRADUÇÃO: oponente/rival/competidor/adversário (à altura)/par
+对打 | TRADUÇÃO: brigar (um contra um)
+对抗 | TRADUÇÃO: resistir a/opor-se a/confrontar/antagonismo/confronto
+对抗性 | TRADUÇÃO: antagônico
+对抗者 | TRADUÇÃO: adversário/oponente
+对抗赛 | TRADUÇÃO: duelo/partida/competição entre oponentes emparelhados (ex.: esportiva)
+对接 | TRADUÇÃO: conectar/acoplar/união (entre componentes)
+对换 | TRADUÇÃO: trocar/permutar
+对折 | TRADUÇÃO: vender com 50% de desconto/dobrar ao meio
+对撞 | TRADUÇÃO: colidir de frente
+对撞机 | TRADUÇÃO: colisor de partículas
+对攻 | TRADUÇÃO: atacar (um ao outro)
+对敌 | TRADUÇÃO: enfrentar/confrontar o inimigo
+对数 | TRADUÇÃO: (Mat.) logaritmo
+对数函数 | TRADUÇÃO: função logarítmica
+对方 | TRADUÇÃO: a outra pessoa; o outro lado; a outra parte
+对方付款电话 | TRADUÇÃO: ligação a cobrar
+对方付费电话 | TRADUÇÃO: ligação a cobrar
+对于 | TRADUÇÃO: com relação a; no que diz respeito a; sobre
+对日 | TRADUÇÃO: (política etc) em relação ao Japão
+对映 | TRADUÇÃO: ser a imagem especular de algo/enantiomórfico/antípoda/enantiomérico (Química)
+对映异构 | TRADUÇÃO: isomerismo enantiomérico (Química)
+对映异构体 | TRADUÇÃO: isômero enantiomérico (Química)
+对映体 | TRADUÇÃO: enantiômero (Química)
+对望 | TRADUÇÃO: olhar um para o outro
+对本 | TRADUÇÃO: (retorno) igual ao capital/lucro de 100 por cento
+对杯 | TRADUÇÃO: erguer os copos juntos; brindar um ao outro
+对案 | TRADUÇÃO: contraproposta
+对标 | TRADUÇÃO: comparar um produto com (um produto rival)/benchmarking (em relação a outro produto)
+对歌 | TRADUÇÃO: frase de resposta em dueto/cantar em resposta antifonal
+对比 | TRADUÇÃO: contrastar/contraste/proporção/CL:個|个
+对比度 | TRADUÇÃO: contraste (balanço de preto e branco na tela da TV)/grau de contraste
+对比温度 | TRADUÇÃO: (Termodinâmica) temperatura reduzida
+对比联想 | TRADUÇÃO: (Psicologia) associação por contraste
+对比色 | TRADUÇÃO: contraste de cores
+对氨基苯丙酮 | TRADUÇÃO: p-aminopropiofenona
+对决 | TRADUÇÃO: confronto/disputa/decisão final
+对冲 | TRADUÇÃO: hedge (finanças)
+对冲基金 | TRADUÇÃO: fundo de hedge
+对流 | TRADUÇÃO: convecção
+对流层 | TRADUÇÃO: (meteorologia) troposfera
+对流层顶 | TRADUÇÃO: tropopausa/topo da troposfera
+对消 | TRADUÇÃO: equilíbrio/anular-se mutuamente (de forças opostas) (física)
+对准 | TRADUÇÃO: apontar para/mirar/dirigir a/estar direcionado a/alinhamento/registro (engenharia mecânica)
+对火 | TRADUÇÃO: acender um cigarro usando a ponta acesa do cigarro de outra pessoa
+对焦 | TRADUÇÃO: focalizar (uma câmera)
+对照 | TRADUÇÃO: contrastar/comparar/colocar lado a lado para comparação (como textos paralelos)/conferir
+对照组 | TRADUÇÃO: grupo de controle
+对照表 | TRADUÇÃO: tabela de comparação
+对版 | TRADUÇÃO: (de um produto) corresponder à descrição anunciada
+对牛弹琴 | TRADUÇÃO: lit. tocar alaúde para uma vaca (expressão idiomática)/fig. oferecer um mimo a uma plateia que não o aprecia/jogar pérolas aos porcos/caviar para o público geral/pregar para surdos/falar por cima da cabeça de alguém
+对生 | TRADUÇÃO: (botânica) filotaxia oposta/disposição de folhas opostas
+对症 | TRADUÇÃO: diagnóstico correto/receitar o remédio certo para uma doença/adequar o medicamento à doença
+对症下药 | TRADUÇÃO: lit. receitar o remédio certo para uma doença (expressão idiomática); fig. estudar um problema para encontrar a maneira certa de resolvê-lo/tomar as medidas adequadas
+对白 | TRADUÇÃO: diálogo (em um filme ou peça teatral)
+对眼 | TRADUÇÃO: estrabismo/ao gosto de alguém
+对称 | TRADUÇÃO: simetria/simétrico
+对称性 | TRADUÇÃO: simetria
+对称破缺 | TRADUÇÃO: quebra de simetria (física)
+对称空间 | TRADUÇÃO: espaço simétrico (mat.)
+对称美 | TRADUÇÃO: simetria (como qualidade estética)
+对称轴 | TRADUÇÃO: eixo de simetria/eixo central (na arquitetura chinesa)
+对空射击 | TRADUÇÃO: tiro antiaéreo/atirar em aviões inimigos
+对空火器 | TRADUÇÃO: arma antiaérea
+对立 | TRADUÇÃO: opor-se/opor algo a/ser antagônico a/antitético/oposto relativo/oposição/diametral
+对立面 | TRADUÇÃO: oposto/antônimo/o lado oposto (em um conflito)
+对等 | TRADUÇÃO: igual em status; em pé de igualdade; de igual estatura (esp. entre duas partes)/equivalente; proporcionado; correspondente (em valor, nível etc.)
+对答 | TRADUÇÃO: replicar/responder/resposta/réplica
+对答如流 | TRADUÇÃO: capaz de responder rápida e fluentemente (expressão idiomática); ter uma resposta pronta
+对策 | TRADUÇÃO: contramedida para lidar com uma situação
+对簿 | TRADUÇÃO: confrontar alguém com uma acusação/denúncia por escrito em tribunal (antigamente)/levar alguém ao tribunal
+对簿公堂 | TRADUÇÃO: acusação pública em tribunal (expressão idiomática)/confronto legal/levar alguém ao tribunal/processar
+对骂 | TRADUÇÃO: trocar insultos/trocar ofensas/briga de insultos
+对美 | TRADUÇÃO: (política etc.) em relação à América
+对羟基苯甲酸酯 | TRADUÇÃO: parabeno (química)
+对联 | TRADUÇÃO: dístico rimado/par de versos escritos verticalmente nas laterais de uma porta/CL:副,幅
+对胃口 | TRADUÇÃO: ao gosto de alguém/do agrado de alguém
+对苯醌 | TRADUÇÃO: 1,4-benzoquinona (química)/para-benzoquinona
+对茬儿 | TRADUÇÃO: concordar com/da mesma opinião/coincidir
+对华 | TRADUÇÃO: (política etc.) em relação à China
+对着和尚骂贼秃 | TRADUÇÃO: (lit.) na presença de um monge, insultar outro monge, chamando-o de bandido careca (ditado)/(fig.) insultar indiretamente; criticar obliquamente
+对着干 | TRADUÇÃO: adotar postura de confronto/enfrentar de frente/competir
+对号 | TRADUÇÃO: tique/marca de verificação (✓)/número de verificação (número de série, número de assento etc.)/(fig.) duas coisas coincidem
+对号入座 | TRADUÇÃO: sentar-se no lugar de acordo com o número do bilhete/(fig.) colocar (coisas ou pessoas) em seus devidos lugares/levar um comentário geral como ataque pessoal
+对号座 | TRADUÇÃO: assento reservado; lugar marcado
+对虾 | TRADUÇÃO: camarão/gamba
+对虾科 | TRADUÇÃO: peneídeos (a família do camarão ou gamba)
+对襟 | TRADUÇÃO: jaqueta chinesa abotoada
+对衬 | TRADUÇÃO: servir como contraponto um para o outro
+对视 | TRADUÇÃO: olhar face a face
+对亲 | TRADUÇÃO: cortejo/encontro para fins de casamento/estabelecer um relacionamento
+对角 | TRADUÇÃO: ângulo oposto
+对角线 | TRADUÇÃO: (geometria) diagonal
+对词 | TRADUÇÃO: (de atores) ensaiar falas juntos; ensaiar um diálogo
+对话 | TRADUÇÃO: conversar (com alguém)/diálogo; conversa
+对话框 | TRADUÇÃO: caixa de diálogo (computação)
+对话课 | TRADUÇÃO: aula de conversação
+对课 | TRADUÇÃO: dar a frase de resposta (exercício escolar de memória ou composição)
+对调 | TRADUÇÃO: trocar de lugar/trocar de papéis
+对谈 | TRADUÇÃO: conversar com alguém (face a face)/discussão/papo/bate-papo
+对讲机 | TRADUÇÃO: interfone/talkie-walkie
+对讲电话 | TRADUÇÃO: interfone
+对证 | TRADUÇÃO: confronto
+对象 | TRADUÇÃO: alvo; objeto/parceiro; parceira/namorado; namorada/CL:個|个
+对质 | TRADUÇÃO: confrontar (em tribunal etc.)/confronto
+对账 | TRADUÇÃO: verificar registros contábeis
+对赌 | TRADUÇÃO: apostar (com alguém)/assumir um risco (com tempo e esforço etc., p. ex., em um empreendimento comercial)
+对路 | TRADUÇÃO: adequado/ao gosto de alguém
+对跖点 | TRADUÇÃO: antípoda
+对过 | TRADUÇÃO: do outro lado/em frente/o outro lado
+对酌 | TRADUÇÃO: sentar-se face a face e beber
+对酒当歌 | TRADUÇÃO: lit. cantar para acompanhar o vinho (expressão idiomática); fig. a vida é curta, divirta-se enquanto pode
+对表 | TRADUÇÃO: acertar ou sincronizar um relógio
+对门 | TRADUÇÃO: o edifício ou quarto em frente
+对开 | TRADUÇÃO: circulando em direção oposta (ônibus, trens, balsas etc.)
+对阵 | TRADUÇÃO: (de exércitos) enfrentar-se, prontos para a batalha/(esportes) (de duas equipes) jogar uma contra a outra
+对面 | TRADUÇÃO: (sentado) em frente/do outro lado (da rua)/diretamente na frente/estar face a face
+对顶角 | TRADUÇÃO: ângulo vertical/ângulo (entre duas linhas ou dois planos)
+对头 | TRADUÇÃO: correto/normal/estar em bons termos com/no caminho certo/certo ‖ (oponente de longa data) inimigo/adversário/hostil/inimigo
+对马 | TRADUÇÃO: Ilha de Tsushima, entre o Japão e a Coreia do Sul
+对马岛 | TRADUÇÃO: Ilha de Tsushima, entre o Japão e a Coreia do Sul
+对马海峡 | TRADUÇÃO: Estreito de Tsushima, entre o Japão e a Coreia do Sul
+对齐 | TRADUÇÃO: alinhar/(tipografia) justificar
+导 | TRADUÇÃO: transmitir/liderar/conduzir/orientar/dirigir
+导入 | TRADUÇÃO: introduzir em/canalizar/liderar/guiar para dentro/importar (dados)
+导入期 | TRADUÇÃO: fase ou período introdutório
+导出 | TRADUÇÃO: derivar/derivado/derivação/implicar/induzir/exportar (dados)
+导出值 | TRADUÇÃO: valor deduzido por cálculo/valor derivado
+导出范畴 | TRADUÇÃO: (mat.) categoria derivada
+导函数 | TRADUÇÃO: função derivada/derivada f' de uma função f
+导向 | TRADUÇÃO: ser orientado para/orientação
+导报 | TRADUÇÃO: guia (usado em nomes de jornais)
+导尿 | TRADUÇÃO: inserir um cateter urinário
+导尿管 | TRADUÇÃO: cateter urinário
+导师 | TRADUÇÃO: tutor/professor orientador/orientador acadêmico
+导引 | TRADUÇÃO: mesmo que 引導|引导/Dao Yin, exercícios taoístas envolvendo respiração, alongamento e automassagem
+导弹 | TRADUÇÃO: míssil (guiado)/CL:枚
+导戏 | TRADUÇÃO: dirigir um filme ou peça teatral
+导播 | TRADUÇÃO: dirigir uma transmissão de televisão ou rádio/diretor (TV, rádio)
+导数 | TRADUÇÃO: derivada (matemática)
+导乐 | TRADUÇÃO: (estrangeirismo) doula
+导正 | TRADUÇÃO: (Taiwan) orientar alguém na direção certa/corrigir (comportamento etc.)
+导流板 | TRADUÇÃO: aerofólio (automotivo)
+导液管 | TRADUÇÃO: (medicina) cateter
+导演 | TRADUÇÃO: dirigir/diretor (cinema etc.)
+导火索 | TRADUÇÃO: pavio (para explosivos)
+导火线 | TRADUÇÃO: pavio (para explosivos)/(fig.) causa próxima/a gota d'água
+导热性 | TRADUÇÃO: condução térmica
+导热膏 | TRADUÇÃO: pasta térmica
+导盲犬 | TRADUÇÃO: cão-guia (para cegos)
+导盲砖 | TRADUÇÃO: (Taiwan) piso tátil
+导盲道 | TRADUÇÃO: (Taiwan) caminho para deficientes visuais (feito com piso tátil)
+导管 | TRADUÇÃO: duto; cano; conduto/(botânica) vaso/(medicina) cateter
+导管组织 | TRADUÇÃO: tecido vascular
+导线 | TRADUÇÃO: fio elétrico
+导致 | TRADUÇÃO: levar a; criar; causar; provocar
+导航 | TRADUÇÃO: (lit. e fig.) navegar
+导航员 | TRADUÇÃO: navegador (em avião ou barco)
+导览 | TRADUÇÃO: guia (de visita, turístico, áudio etc.)/visita guiada/navegador (de site)/guiar
+导言 | TRADUÇÃO: introdução/preâmbulo
+导语 | TRADUÇÃO: preâmbulo/introdução/(jornalismo) lead/parágrafo inicial
+导论 | TRADUÇÃO: introdução
+导护 | TRADUÇÃO: (Taiwan) (de professor ou pai voluntário) realizar serviço de segurança estudantil, guiando alunos e mantendo a ordem do trânsito durante a entrada e saída
+导读 | TRADUÇÃO: guia (ex.: livro ou outro material impresso)
+导购 | TRADUÇÃO: guia de compras/vendedor/equipe de vendas
+导轨 | TRADUÇÃO: (mecânica) guia linear; corrediça
+导轮 | TRADUÇÃO: polia-guia/prefácio/apresentação
+导游 | TRADUÇÃO: guia turístico/guia de viagem/conduzir uma excursão
+导电 | TRADUÇÃO: conduzir eletricidade
+导电性 | TRADUÇÃO: condutividade (elétrica)
+导体 | TRADUÇÃO: condutor (de eletricidade ou calor)
+小 | TRADUÇÃO: pequeno/minúsculo/pouco/jovem
+小case | TRADUÇÃO: (gíria) moleza/coisa simples
+小三 | TRADUÇÃO: amante/a outra mulher (coloq.)/terceiro ano do ensino fundamental
+小三劝退师 | TRADUÇÃO: consultor que rompe o relacionamento extraconjugal de alguém mediante pagamento
+小三和弦 | TRADUÇÃO: tríade menor lá-dó-mi
+小三度 | TRADUÇÃO: terça menor (intervalo musical)
+小不忍则乱大谋 | TRADUÇÃO: (expressão idiomática) grandes planos podem ser arruinados por um pouco de impaciência
+小不点 | TRADUÇÃO: minúsculo/muito pequeno/coisa minúscula/criança pequena/bebê
+小丑 | TRADUÇÃO: palhaço
+小丑鱼 | TRADUÇÃO: peixe-palhaço
+小丘 | TRADUÇÃO: colina; outeiro
+小乘 | TRADUÇÃO: Hinayana, o Pequeno Veículo/Budismo na Índia antes dos sutras Mahayana/também pron. [Xiao3 cheng2]
+小九九 | TRADUÇÃO: tabuada/(fig.) plano/esquema
+小事 | TRADUÇÃO: ninharia/assunto trivial/CL:點|点
+小事一桩 | TRADUÇÃO: assunto trivial; moleza
+小二 | TRADUÇÃO: garçom
+小亚细亚 | TRADUÇÃO: Ásia Menor/Anatólia
+小人 | TRADUÇÃO: pessoa de baixo status social (antigo)/eu, mim (usado para se referir humildemente a si mesmo)/pessoa má/caráter vil
+小人得志 | TRADUÇÃO: lit. uma pessoa vil floresce (expressão idiomática)/fig. uma pessoa inferior assume uma posição de poder, tornando-se convencida e arrogante
+小人书 | TRADUÇÃO: livro de histórias em quadrinhos infantis/CL:本
+小人物 | TRADUÇÃO: pessoa insignificante/um ninguém
+小人精 | TRADUÇÃO: criança excepcionalmente brilhante/prodígio
+小仙女 | TRADUÇÃO: fada menina/moça bonita ou mulher jovem/(neologismo) (gíria) mulher jovem irracional e egocêntrica
+小仙鹟 | TRADUÇÃO: (espécie de pássaro da China) papa-moscas-pequeno (Niltava macgrigoriae)
+小企业 | TRADUÇÃO: pequena empresa
+小伙 | TRADUÇÃO: rapaz/moço/jovem/CL:個|个
+小伙儿 | TRADUÇÃO: variante erhua de 小伙
+小伙子 | TRADUÇÃO: rapaz/moço/jovem/CL:個|个
+小作怡情，大作伤身 | TRADUÇÃO: uma demonstração ocasional de histeria pode adicionar um elemento lúdico a um relacionamento, mas exagerar pode levar a um rompimento (advertência derivada do ditado 小酌怡情，大酌傷身|小酌怡情，大酌伤身)
+小便 | TRADUÇÃO: urina/urinar/(eufemismo) pênis ou vulva
+小便器 | TRADUÇÃO: mictório
+小便宜 | TRADUÇÃO: vantagem mesquinha; pequenos ganhos
+小便斗 | TRADUÇÃO: mictório
+小便池 | TRADUÇÃO: mictório
+小偷 | TRADUÇÃO: ladrão
+小偷儿 | TRADUÇÃO: forma erhua de 小偷
+小偷小摸 | TRADUÇÃO: envolver-se em pequenos furtos
+小传 | TRADUÇÃO: esboço biográfico/perfil
+小儿 | TRADUÇÃO: criança pequena/(humilde) meu filho ‖ (coloq.) primeira infância/(coloq.) bebê menino
+小儿科 | TRADUÇÃO: pediatria/departamento pediátrico/coisa de pouca importância/ninharia/brincadeira de criança/(gíria) infantil/mesquinho/pão-duro
+小儿经 | TRADUÇÃO: Xiao'erjing, refere-se ao uso do alfabeto árabe para escrever chinês
+小儿软骨病 | TRADUÇÃO: (medicina) raquitismo
+小儿麻痹 | TRADUÇÃO: pólio (poliomielite)
+小儿麻痹病毒 | TRADUÇÃO: poliovírus
+小儿麻痹症 | TRADUÇÃO: poliomielite/paralisia infantil
+小两口 | TRADUÇÃO: (coloq.) jovem casal
+小两口儿 | TRADUÇÃO: variante erhua de 小兩口|小两口
+小公主 | TRADUÇÃO: lit. princesinha/fig. menina mimada/versão feminina de 小皇帝
+小公共 | TRADUÇÃO: micro-ônibus (usado para transporte público)
+小册子 | TRADUÇÃO: livreto/panfleto/folheto de informações/cardápio/CL:本
+小刀 | TRADUÇÃO: faca/CL:把
+小刀会 | TRADUÇÃO: Sociedade do Punhal, sociedade secreta antimanchu que liderou uma rebelião malsucedida em 1855
+小别胜新婚 | TRADUÇÃO: reencontro após uma ausência é mais doce do que recém-casados (expressão idiomática)/a distância faz o coração bater mais forte
+小动作 | TRADUÇÃO: mau hábito (ex.: cutucar o nariz)/manobra mesquinha/truque sujo/jogo psicológico
+小胜 | TRADUÇÃO: (esportes) garantir uma vitória apertada; vencer por pouco
+小包 | TRADUÇÃO: pacote
+小区 | TRADUÇÃO: condomínio residencial; comunidade; bairro/(telecomunicações) célula
+小区广播 | TRADUÇÃO: (telecomunicações) transmissão celular
+小升初 | TRADUÇÃO: progressão do ensino fundamental para o ensino médio (abreviação de 小學生升入初中生|小学生升入初中生)
+小半 | TRADUÇÃO: porção menor que a metade/a parte menor/a parte menor
+小卒 | TRADUÇÃO: soldado raso/figura menor/um ninguém/(xadrez) peão
+小卷 | TRADUÇÃO: lula pequena (Taiwan)
+小叔 | TRADUÇÃO: irmão mais novo do marido/cunhado
+小受 | TRADUÇÃO: (gíria) passivo (em relação homossexual)
+小可 | TRADUÇÃO: pequeno/sem importância/(forma cortês) minha humilde pessoa
+小可爱 | TRADUÇÃO: bonitinho/amor/(Taiwan) regata (vestimenta feminina)
+小吃 | TRADUÇÃO: comida de rua/lanche
+小吃店 | TRADUÇÃO: lanchonete/bar de lanches/CL:家
+小同乡 | TRADUÇÃO: pessoa da mesma província
+小名 | TRADUÇÃO: apelido de infância/nome de criança
+小吞噬细胞 | TRADUÇÃO: micrófago (tipo de glóbulo branco)
+小品 | TRADUÇÃO: criação literária ou artística curta e simples/ensaio/esquete
+小哥 | TRADUÇÃO: (coloq.) rapaz; forma educada ou amigável de se referir ou dirigir a um jovem
+小哥哥 | TRADUÇÃO: garotinho mais velho que outra criança pequena (ex.: seu companheiro de brincadeiras)/(neologismo c. 2017) (gíria) forma amigável de tratamento para um jovem da mesma idade ou um pouco mais velho
+小商贩 | TRADUÇÃO: pequeno comerciante/vendedor ambulante
+小嗓 | TRADUÇÃO: falsete (na ópera chinesa)
+小嘴乌鸦 | TRADUÇÃO: (espécie de ave da China) gralha-preta (Corvus corone)
+小嘴鸻 | TRADUÇÃO: (espécie de ave da China) borrelho-ruivo (Eudromias morinellus)
+小团体主义 | TRADUÇÃO: faccionalismo/mentalidade de grupo fechado
+小型 | TRADUÇÃO: de pequena escala/de pequeno porte
+小型企业 | TRADUÇÃO: pequena empresa
+小型巴士 | TRADUÇÃO: micro-ônibus
+小型核武器 | TRADUÇÃO: mini-nuclear/mini-bomba nuclear
+小型柜橱 | TRADUÇÃO: armário/pequena cômoda
+小型汽车 | TRADUÇÃO: carro compacto
+小型货车 | TRADUÇÃO: furgão leve
+小型车 | TRADUÇÃO: carro compacto
+小城 | TRADUÇÃO: cidade pequena
+小报 | TRADUÇÃO: jornal sensacionalista/tablóide
+小寿星 | TRADUÇÃO: criança aniversariante/aniversariante
+小夜 | TRADUÇÃO: primeira metade da noite; início da noite (cf. 大夜, início da manhã)
+小夜曲 | TRADUÇÃO: serenata
+小夜班 | TRADUÇÃO: turno noturno; turno da noite inicial
+小天鹅 | TRADUÇÃO: Little Swan (marca de eletrodomésticos da RPC) ‖ (espécie de ave da China) cisne-bravo (Cygnus columbianus)
+小太太 | TRADUÇÃO: concubina/amante
+小太平鸟 | TRADUÇÃO: (espécie de ave da China) cabecinha-japonesa (Bombycilla japonica)
+小太阳 | TRADUÇÃO: aquecedor parabólico; forno de calor
+小女 | TRADUÇÃO: minha filha (forma humilde)
+小女人 | TRADUÇÃO: garota delicada e mimosa/concubina
+小奶狗 | TRADUÇÃO: (gíria) tipo de namorado ingênuo, carente, emocionalmente dependente e bonitinho
+小妖 | TRADUÇÃO: pequeno demônio
+小妖精 | TRADUÇÃO: duende/talvez/rapariga
+小妹 | TRADUÇÃO: irmã mais nova/garota/(Taiwan) jovem funcionária que trabalha em cargo de baixo escalão lidando com o público (assistente, garçonete, atendente etc.)
+小妹妹 | TRADUÇÃO: irmãzinha/garotinha/(coloq.) vulva
+小姐 | TRADUÇÃO: senhorita/menina/(gíria) prostituta/CL:個|个,位
+小姐姐 | TRADUÇÃO: garotinha mais velha que outra criança pequena (ex.: sua companheira de brincadeiras)/(neologismo c. 2017) (gíria) mocinha (forma amigável de tratamento para uma jovem da mesma idade ou um pouco mais velha)
+小姑 | TRADUÇÃO: tia paterna mais nova/irmã mais nova do marido; cunhada
+小姑子 | TRADUÇÃO: (coloq.) irmã mais nova do marido; cunhada
+小姨 | TRADUÇÃO: tia materna mais nova/irmã mais nova da esposa; cunhada
+小姨子 | TRADUÇÃO: (coloq.) irmã mais nova da esposa; cunhada (termo não usado para se dirigir diretamente a ela)
+小娃 | TRADUÇÃO: criança
+小娃娃 | TRADUÇÃO: bebê
+小婊砸 | TRADUÇÃO: (gíria) piranquinha (variação de 小婊子)
+小婿 | TRADUÇÃO: meu genro (forma humilde)/eu (falando aos sogros)
+小媳妇 | TRADUÇÃO: jovem casada/amante/(fig.) saco de pancadas/(antigo) noiva criança
+小妈 | TRADUÇÃO: concubina do pai/(coloq.) madrasta (especialmente uma madrasta jovem)
+小子 | TRADUÇÃO: (literário) jovem/(antigo) rapaz (termo de tratamento usado pela geração mais velha)/(antigo) eu, mim (usado ao falar com os mais velhos) ‖ (coloq.) garoto/(pejorativo) sujeito/cara/(desprezível) indivíduo
+小孩 | TRADUÇÃO: criança/CL:個|个
+小孩儿 | TRADUÇÃO: variante erhua de 小孩
+小孩哥 | TRADUÇÃO: (gíria) garotinho que demonstra habilidades, maturidade ou descolamento além da idade
+小孩堤防 | TRADUÇÃO: Kinderdijk, vila nos Países Baixos com grande rede de moinhos de vento que atrai muitos turistas
+小孩姐 | TRADUÇÃO: (gíria) garotinha que demonstra habilidades, maturidade ou descolamento além da idade
+小孩子 | TRADUÇÃO: criança
+小学 | TRADUÇÃO: escola primária; ensino fundamental I
+小学生 | TRADUÇÃO: aluno do ensino fundamental I/criança em idade escolar/CL:個|个,名/(fig.) iniciante
+小学而大遗 | TRADUÇÃO: concentrar-se em pontos triviais enquanto negligencia o problema principal (expressão idiomática)
+小官 | TRADUÇÃO: funcionário subalterno/burocrata menor
+小家子气 | TRADUÇÃO: mesquinho/mente pequena
+小家碧玉 | TRADUÇÃO: filha bonita de família humilde
+小家鼠 | TRADUÇÃO: camundongo doméstico
+小寒 | TRADUÇÃO: Pequeno Frio, 23º dos 24 termos solares 二十四節氣|二十四节气, de 6 a 19 de janeiro
+小寨 | TRADUÇÃO: bairro Xiaozhai de Xi'an
+小写 | TRADUÇÃO: letras minúsculas/caixa baixa
+小写字母 | TRADUÇÃO: letras minúsculas (caixa baixa)
+小将 | TRADUÇÃO: (na literatura clássica) jovem oficial militar de alta patente para sua idade/(durante a Revolução Cultural) jovem militante da Guarda Vermelha/(no uso moderno) estrela em ascensão (no esporte, política etc.)
+小小 | TRADUÇÃO: muito pequeno/muito pouco/muito menor
+小小说 | TRADUÇÃO: miniconto/microconto
+小屁孩 | TRADUÇÃO: criança/garoto/(pejorativo) pirralho/moleque
+小屋 | TRADUÇÃO: cabana/chalé/casinha/barraco/galpão
+小岩洞 | TRADUÇÃO: gruta
+小岛 | TRADUÇÃO: Kojima (sobrenome e topônimo japonês) ‖ ilhota
+小川 | TRADUÇÃO: Ogawa (sobrenome japonês)
+小巧 | TRADUÇÃO: pequeno e requintado/delicado/fino (feições)/compacto/prático
+小巧玲珑 | TRADUÇÃO: (expressão idiomática) delicado; refinado; gracioso
+小巫见大巫 | TRADUÇÃO: lit. pequeno feiticeiro diante de um grande mago (expressão idiomática)/fig. empalidecer em comparação
+小己 | TRADUÇÃO: um indivíduo
+小巴 | TRADUÇÃO: micro-ônibus
+小巷 | TRADUÇÃO: beco
+小幅 | TRADUÇÃO: por uma pequena margem/ligeiramente (aumento ou diminuição)/(de uma pintura ou obra de caligrafia) pequeno
+小年夜 | TRADUÇÃO: (coloq.) a noite anterior à véspera do Ano Novo lunar/(Taiwan) a noite anterior à véspera de Ano Novo (lunar ou gregoriano)/(antigo) Véspera do Pequeno Ano Novo (23º ou 24º do 12º mês lunar, quando se oferecem sacrifícios ao deus da cozinha)
+小年轻 | TRADUÇÃO: (coloq.) jovem; rapaz
+小店 | TRADUÇÃO: loja pequena
+小店区 | TRADUÇÃO: distrito de Xiaodian, da cidade de Taiyuan 太原市, Shanxi
+小康 | TRADUÇÃO: Xiaokang, estado ideal de sociedade próximo ao confucionismo, segundo apenas a Datong 大同 ‖ moderadamente abastado/bem de vida/período de paz e prosperidade
+小康社会 | TRADUÇÃO: sociedade em que as necessidades materiais da maioria dos cidadãos são adequadamente atendidas
+小厮 | TRADUÇÃO: (literário) servo menor de idade
+小广播 | TRADUÇÃO: rádio-peão/fofoca/espalhar boatos
+小建 | TRADUÇÃO: mês lunar de 29 dias/mesmo que 小盡|小尽
+小弟 | TRADUÇÃO: irmão mais novo/eu, seu irmão mais novo (forma humilde)
+小弟弟 | TRADUÇÃO: irmãozinho/garotinho/(coloq.) pênis
+小强 | TRADUÇÃO: (gíria) barata ("Pequeno Qiang" era originalmente o nome dado a uma barata morta que supostamente fora animal de estimação do protagonista da comédia de Hong Kong de 1993 "Flirting Scholar". Posteriormente, passou a ser usado como nome para qualquer barata e também para personagens de cinema e TV aparentemente indestrutíveis ou que ressuscitam repetidamente.)
+小弹 | TRADUÇÃO: submunição (de bomba cluster)
+小径 | TRADUÇÃO: trilha/atalho
+小心 | TRADUÇÃO: ter cuidado/tomar cuidado
+小心地滑 | TRADUÇÃO: cuidado – piso molhado
+小心眼 | TRADUÇÃO: mente estreita/pão-duro
+小心眼儿 | TRADUÇÃO: mesquinho/apertado/mente estreita
+小心翼翼 | TRADUÇÃO: cauteloso; cuidadoso; prudente
+小心谨慎 | TRADUÇÃO: cauteloso e tímido; prudente/cuidadoso
+小恭 | TRADUÇÃO: (literário) urina
+小意思 | TRADUÇÃO: pequeno gesto/mero mimo (usado para presentes)
+小憩 | TRADUÇÃO: descansar um pouco/fazer uma pausa
+小惩大诫 | TRADUÇÃO: punir pouco para prevenir muito/uma pequena reprimenda para evitar erros maiores
+小我 | TRADUÇÃO: o eu/o indivíduo
+小扁豆 | TRADUÇÃO: lentilha
+小手小脚 | TRADUÇÃO: mesquinho/pão-duro/falta de ousadia/tímido
+小打小闹 | TRADUÇÃO: em pequena escala
+小技 | TRADUÇÃO: pequenas habilidades/teatro folclórico musical
+小抄 | TRADUÇÃO: cola (para provas)
+小抄儿 | TRADUÇÃO: variante com retroflexão de 小抄
+小折刀 | TRADUÇÃO: canivete
+小拇指 | TRADUÇÃO: dedo mínimo
+小拐 | TRADUÇÃO: virar à direita (em xangainês)
+小括号 | TRADUÇÃO: parênteses redondos ( )
+小指 | TRADUÇÃO: dedo mínimo
+小提琴 | TRADUÇÃO: rabeca/violino
+小提琴手 | TRADUÇÃO: violinista; rabequista
+小插曲 | TRADUÇÃO: episódio/interlúdio breve
+小摊 | TRADUÇÃO: barraca de vendedor
+小摊儿 | TRADUÇÃO: variante com retroflexão de 小攤|小摊
+小支气管 | TRADUÇÃO: bronquíolo
+小改改 | TRADUÇÃO: (gíria da internet) mocinha (influência do cantonês para 小姐姐)
+小攻 | TRADUÇÃO: (gíria) ativo (numa relação homossexual)
+小数 | TRADUÇÃO: número pequeno/pequena quantidade/parte decimal/número decimal entre 0 e 1/fração decimal
+小数点 | TRADUÇÃO: ponto decimal
+小斑啄木鸟 | TRADUÇÃO: pica-pau-galego (Dryobates minor)
+小斑姬鹟 | TRADUÇÃO: papa-moscas-pied (Ficedula westermanni)
+小斑点 | TRADUÇÃO: pintinha
+小于 | TRADUÇÃO: menor que, <
+小日子 | TRADUÇÃO: vida simples/(gíria da internet) substituto eufemístico para 日本 ou 日本人
+小日本 | TRADUÇÃO: (pejor.) japonês/japa
+小日本儿 | TRADUÇÃO: variante com retroflexão de 小日本
+小昊 | TRADUÇÃO: Xiaohao (c. 2200 a.C.), líder dos Dongyi
+小星头啄木鸟 | TRADUÇÃO: pica-pau-pequeno-japonês (Yungipicus kizuki)
+小春 | TRADUÇÃO: décimo mês do calendário lunar/verão indiano/safras semeadas no fim do outono
+小昭寺 | TRADUÇÃO: Templo Ramoche, Lhasa
+小时 | TRADUÇÃO: hora/CL:個|个
+小时了了，大未必佳 | TRADUÇÃO: ser brilhante na infância não garante sucesso na vida adulta (provérbio)
+小时候 | TRADUÇÃO: na infância
+小时候儿 | TRADUÇÃO: variante com retroflexão de 小時候|小时候
+小时工 | TRADUÇÃO: trabalhador horista/trabalho por hora
+小暑 | TRADUÇÃO: Xiaoshu ou Calor Menor, 11.º dos 24 termos solares (7-22 de julho)
+小曲 | TRADUÇÃO: canção popular/música folclórica/balada
+小书签 | TRADUÇÃO: miniaplicativo (computação)
+小朋友 | TRADUÇÃO: criança (usado ao se referir ou dirigir a uma criança, ou, em Taiwan, para se referir ao próprio filho)
+小本 | TRADUÇÃO: capital pequeno/de forma modesta
+小杓鹬 | TRADUÇÃO: maçarico-de-bico-fino (Numenius minutus)
+小杜鹃 | TRADUÇÃO: cuco-pequeno (Cuculus poliocephalus)
+小松菜 | TRADUÇÃO: komatsuna, variedade de Brassica rapa
+小林 | TRADUÇÃO: Kobayashi (sobrenome japonês)
+小槌 | TRADUÇÃO: maleta/batuta
+小楼 | TRADUÇÃO: prédio pequeno de dois ou mais andares/casinha modesta
+小标题 | TRADUÇÃO: subtítulo
+小样 | TRADUÇÃO: prova tipográfica/(informal) carinha (insulto leve ou termo carinhoso)
+小树 | TRADUÇÃO: arbusto/árvore pequena/muda/CL:棵
+小树林 | TRADUÇÃO: bosque
+小桥 | TRADUÇÃO: Xiao Qiao, uma das Duas Qiaos (figuras de Os Três Reinos)
+小桥流水 | TRADUÇÃO: uma ponte pequena sobre um riacho corrente
+小步舞曲 | TRADUÇÃO: minueto
+小段子 | TRADUÇÃO: parágrafo curto/artigo de notícias
+小毛头 | TRADUÇÃO: (coloq.) recém-nascido/menino pequeno
+小民 | TRADUÇÃO: povo comum/comum/civil
+小气 | TRADUÇÃO: pão-duro/mísero/mente estreita/pequeno
+小气候 | TRADUÇÃO: microclima/fig. situação local
+小气鬼 | TRADUÇÃO: pão-duro/avarento
+小池百合子 | TRADUÇÃO: KOIKE Yuriko (1952-), política japonesa
+小汽车 | TRADUÇÃO: carro compacto
+小河 | TRADUÇÃO: riacho/ribeirão/riacho
+小油菜 | TRADUÇÃO: tipo de couve (Brassica rapa)
+小泉 | TRADUÇÃO: Koizumi (nome)/KOIZUMI Jun'ichirō, político japonês
+小泉纯一郎 | TRADUÇÃO: KOIZUMI Jun'ichirō (1942-), político japonês
+小泡 | TRADUÇÃO: vesículas
+小波 | TRADUÇÃO: ondeleta (matemática)
+小洞不补大洞吃苦 | TRADUÇÃO: um ponto não costurado vira buraco (provérbio); de grão em grão a galinha enche o papo
+小淘气 | TRADUÇÃO: Pestinha, herói da Marvel Comics ‖ traquina
+小渊 | TRADUÇÃO: Obuchi (sobrenome japonês)
+小渊惠三 | TRADUÇÃO: Obuchi Keizo (1937-2000), político japonês
+小混混 | TRADUÇÃO: desordeiro/valentão/bom para nada
+小清新 | TRADUÇÃO: descolado/alternativo
+小港 | TRADUÇÃO: Xiaogang, distrito de Kaohsiung, sul de Taiwan
+小港区 | TRADUÇÃO: distrito de Xiaogang, Kaohsiung
+小汤山 | TRADUÇÃO: Xiaotangshan, vila em Pequim
+小溪 | TRADUÇÃO: riacho/riacho pequeno
+小滴 | TRADUÇÃO: gotícula
+小满 | TRADUÇÃO: Xiaoman ou Grão Cheio Menor, 8.º dos 24 termos solares (21 maio-5 junho)
+小潮 | TRADUÇÃO: maré morta
+小滨鹬 | TRADUÇÃO: pilrito-pequeno (Calidris minuta)
+小灰山椒鸟 | TRADUÇÃO: minivete-de-Swinhoe (Pericrocotus cantonensis)
+小灶 | TRADUÇÃO: refeitório para quadros superiores/(fig.) tratamento especial
+小熊座 | TRADUÇÃO: Ursa Menor (constelação)
+小熊维尼 | TRADUÇÃO: Winnie-the-Pooh (ursinho de histórias infantis adaptado pela Disney)
+小熊猫 | TRADUÇÃO: panda-vermelho (Ailurus fulgens)
+小燕尾 | TRADUÇÃO: rabo-de-leque-pequeno (Enicurus scouleri)
+小牛 | TRADUÇÃO: bezerro/(coloq.) modelo mais barato da Lamborghini
+小牛肉 | TRADUÇÃO: vitela
+小犬 | TRADUÇÃO: filhote de cachorro/meu filho (humilde)
+小犬座 | TRADUÇÃO: Cão Menor (constelação)
+小狗 | TRADUÇÃO: filhote de cachorro; cachorrinho
+小狮座 | TRADUÇÃO: Leão Menor (constelação)
+小玩意 | TRADUÇÃO: apetrecho; dispositivo (pequeno item de software)
+小球 | TRADUÇÃO: esportes como tênis de mesa e badminton que usam bolas pequenas/ver também 大球
+小生产 | TRADUÇÃO: produção em pequena escala
+小产 | TRADUÇÃO: abortar/aborto espontâneo/aborto
+小田鸡 | TRADUÇÃO: (espécie de ave da China) franga-d’água-de-baillon (Zapornia pusilla)
+小畑健 | TRADUÇÃO: OBATA Takeshi, artista de mangá, ilustrador da série cult Death Note 死亡筆記|死亡笔记
+小番茄 | TRADUÇÃO: tomate-cereja
+小病 | TRADUÇÃO: doença leve; indisposição
+小登 | TRADUÇÃO: (gíria) jovem; garoto (neologismo humorístico ou autodepreciativo derivado de 老登, estabelecido desde c. 2022)
+小发财 | TRADUÇÃO: (coloq.) (Taiwan) caminhonete pequena (Kei truck)
+小白 | TRADUÇÃO: (gíria) novato; calouro/(antigo) (gíria) idiota; tolo/abrev. para 小白臉|小白脸, bonitão
+小白兔 | TRADUÇÃO: coelhinho branco/(fig.) pessoa ingênua e inocente/(fig.) (gíria) seios
+小白腰雨燕 | TRADUÇÃO: (espécie de ave da China) andorinhão-pequeno (Apus nipalensis)
+小白脸 | TRADUÇÃO: jovem atraente (geralmente pejorativo); bonitão/gigolô
+小白脸儿 | TRADUÇÃO: variante erhua de 小白臉|小白脸
+小白菜 | TRADUÇÃO: couve-chinesa (Brassica rapa subsp. chinensis)/CL:棵
+小白额雁 | TRADUÇÃO: (espécie de ave da China) ganso-de-testa-branca-pequeno (Anser erythropus)
+小白鼠 | TRADUÇÃO: camundongo branco/cobaia de laboratório/(fig.) cobaia humana
+小百科全书 | TRADUÇÃO: micropédia
+小的 | TRADUÇÃO: (coloq.) criança pequena; os pequenos da família/(antigo) (humilde) eu (usado por um plebeu ao falar com um oficial)
+小皇帝 | TRADUÇÃO: imperador criança/(fig.) criança mimada/menino mimado/filho único superprotegido
+小尽 | TRADUÇÃO: mês lunar de 29 dias
+小盘尾 | TRADUÇÃO: (espécie de ave da China) drongo-de-raquetes-pequeno (Dicrurus remifer)
+小看 | TRADUÇÃO: desprezar; subestimar
+小眼角 | TRADUÇÃO: canto externo do olho
+小众 | TRADUÇÃO: minoria da população/não mainstream (atividade, busca etc)/nicho (mercado etc)
+小睡 | TRADUÇÃO: cochilar; tirar uma soneca
+小瞧 | TRADUÇÃO: (coloq.) desprezar; subestimar
+小确幸 | TRADUÇÃO: pequena coisa que dá prazer (ex.: uma cerveja gelada após um dia difícil ou um achado fortuito num brechó)
+小祖宗 | TRADUÇÃO: pirralho; diabinho
+小票 | TRADUÇÃO: recibo/nota fiscal/cédula de pequeno valor
+小秘 | TRADUÇÃO: (ironicamente) “secretária” (i.e., amante do chefe)
+小笔电 | TRADUÇÃO: minilaptop ou mininotebook/netbook/CL:臺|台,部
+小算盘 | TRADUÇÃO: lit. ábaco pequeno/fig. cálculos egoístas; mesquinhez
+小管 | TRADUÇÃO: lula pequena (Taiwan)
+小节 | TRADUÇÃO: assunto menor; trivialidade/barra (música)
+小节线 | TRADUÇÃO: (música) barra de compasso
+小范围 | TRADUÇÃO: de pequena escala; local; em medida limitada
+小篆 | TRADUÇÃO: selo pequeno ou menor, forma de caractere chinês padronizada pela dinastia Qin
+小笼包 | TRADUÇÃO: bolinho cozido no vapor
+小笼汤包 | TRADUÇÃO: bolinho de sopa cozido no vapor
+小米 | TRADUÇÃO: Xiaomi, empresa chinesa de eletrônicos fundada em 2010 ‖ milhete
+小米椒 | TRADUÇÃO: o mesmo que 朝天椒
+小米辣 | TRADUÇÃO: xiaomila, uma cultivar de pimenta ardida (Capsicum frutescens)
+小粉 | TRADUÇÃO: amido; fécula
+小粉红 | TRADUÇÃO: jovens nacionalistas cibernéticos chineses
+小精灵 | TRADUÇÃO: elfo
+小红帽 | TRADUÇÃO: Chapeuzinho Vermelho
+小红书 | TRADUÇÃO: REDnote (plataforma de rede social chinesa)/(histórico) Livrinho Vermelho, apelido para 毛主席語錄|毛主席语录
+小红莓 | TRADUÇÃO: oxicoco; arando
+小红萝卜 | TRADUÇÃO: rabanete vermelho pequeno
+小组 | TRADUÇÃO: grupo
+小组委员会 | TRADUÇÃO: subcomitê
+小组赛 | TRADUÇÃO: (esportes) fase de grupos; partida da fase de grupos
+小结 | TRADUÇÃO: resumo; breve; recapitulação
+小绒鸭 | TRADUÇÃO: (espécie de ave da China) êider-de-steller (Polysticta stelleri)
+小绿人 | TRADUÇÃO: (Taiwan) figura de pedestre verde animada no semáforo
+小编 | TRADUÇÃO: editor de mídia social; administrador de página; criador de conteúdo online (frequentemente usado pelo escritor como persona autorreferencial)
+小羊 | TRADUÇÃO: cordeiro
+小羊驼 | TRADUÇÃO: (zoologia) vicunha
+小美洲鸵 | TRADUÇÃO: (ornitologia) ema-pequena; ema-de-darwin (Rhea pennata)
+小羚羊 | TRADUÇÃO: gazela
+小老婆 | TRADUÇÃO: concubina; amante/(dialeto) mulher
+小老鼠 | TRADUÇÃO: arroba (@)
+小考 | TRADUÇÃO: prova; teste
+小聪明 | TRADUÇÃO: sabichão; esperto em trivialidades; astuto mas mesquinho
+小声 | TRADUÇÃO: em voz baixa; falar em sussurros
+小肚鸡肠 | TRADUÇÃO: lit. barriga pequena, tripa de galinha (expressão idiomática); mesquinho; tacanho
+小胖爪 | TRADUÇÃO: (coloq.) mão
+小脑 | TRADUÇÃO: cerebelo (parte do cérebro)
+小脚 | TRADUÇÃO: pés ligados (tradição)
+小肠 | TRADUÇÃO: intestino delgado
+小腹 | TRADUÇÃO: ventre; abdome inferior
+小腿 | TRADUÇÃO: perna (do joelho ao tornozelo); canela
+小腿肚 | TRADUÇÃO: panturrilha
+小舅子 | TRADUÇÃO: (coloq.) irmão mais novo da esposa; cunhado
+小舌 | TRADUÇÃO: úvula
+小船 | TRADUÇÃO: barco
+小花 | TRADUÇÃO: (coloq.) jovem atriz popular
+小花远志 | TRADUÇÃO: polígala-de-flor-pequena (Polygala arvensis Willd. ou P. telephioides), com raízes usadas na medicina chinesa
+小茴香 | TRADUÇÃO: funcho; semente de funcho
+小菜 | TRADUÇÃO: aperitivo; entrada/tarefa fácil; moleza/ver também 小菜一碟
+小菜一碟 | TRADUÇÃO: um pequeno aperitivo/moleza; muito fácil (expressão idiomática)
+小菜儿 | TRADUÇÃO: variante erhua de 小菜
+小苇鳽 | TRADUÇÃO: (espécie de ave da China) socoi-pequeno (Ixobrychus minutus)
+小葵花凤头鹦鹉 | TRADUÇÃO: (espécie de ave da China) cacatua-de-crista-amarela (Cacatua sulphurea)
+小葱 | TRADUÇÃO: cebolinha-verde; cebolinha-francesa
+小薰 | TRADUÇÃO: Xiao Xun (1989-), atriz taiwanesa
+小苏打 | TRADUÇÃO: bicarbonato de sódio; bicarbonato de sódio (pr. em Taiwan [xiao3su1da3])
+小萝卜头 | TRADUÇÃO: (coloq.) garoto; pequenino
+小号 | TRADUÇÃO: trompete/tamanho pequeno (roupas etc)/(coloq.) mijada; xixi/(humilde) nossa loja/conta alternativa (para fórum na internet etc)
+小蜜 | TRADUÇÃO: (depreciativo) namorada de um homem casado
+小蜜蜂 | TRADUÇÃO: abelha; (fig.) pessoa trabalhadora (especialmente quem vai e volta)/amplificador de voz (headset com microfone e alto-falante portátil)
+小蝗莺 | TRADUÇÃO: (espécie de ave da China) cigarrinha-de-pallas (Helopsaltes certhiola)
+小虾 | TRADUÇÃO: camarão
+小虾米 | TRADUÇÃO: camarão pequeno / (fig.) peixe pequeno / figurante
+小蠹 | TRADUÇÃO: besouro-das-cascas (zoologia)
+小行星 | TRADUÇÃO: asteroide / planeta menor
+小行星带 | TRADUÇÃO: cinturão de asteroides entre Marte e Júpiter
+小冲突 | TRADUÇÃO: escaramuça / confronto / disputa / conflito breve
+小袋 | TRADUÇÃO: bolsa / saquinho
+小袋鼠 | TRADUÇÃO: wallaby / pademelão
+小里小气 | TRADUÇÃO: mesquinho / sovina
+小褂 | TRADUÇÃO: camisa curta (estilo chinês) justa ao corpo
+小视 | TRADUÇÃO: menosprezar / desprezar / subestimar
+小觑 | TRADUÇÃO: desprezar / ter desdém por
+小解 | TRADUÇÃO: urinar / esvaziar a bexiga
+小计 | TRADUÇÃO: subtotal
+小试牛刀 | TRADUÇÃO: dar uma pequena demonstração de sua habilidade impressionante (expressão idiomática)
+小说 | TRADUÇÃO: romance / ficção / CL:本,部
+小说家 | TRADUÇÃO: Escola dos Pequenos Debates, uma das Cem Escolas de Pensamento durante o Período dos Reinos Combatentes ‖ romancista
+小调 | TRADUÇÃO: xiaodiao, um gênero de canção folclórica chinesa / (música) tom menor
+小谎 | TRADUÇÃO: mentirinha
+小豆 | TRADUÇÃO: veja 紅豆|红豆
+小豆蔻 | TRADUÇÃO: cardamomo-indiano (Amomum cardamomum)
+小猫 | TRADUÇÃO: gatinho
+小贝 | TRADUÇÃO: "Becks", apelido do futebolista britânico David Beckham (veja 貝克漢姆|贝克汉姆)
+小货车 | TRADUÇÃO: caminhonete pequena; caminhão leve
+小贩 | TRADUÇÃO: vendedor ambulante / camelô
+小费 | TRADUÇÃO: gorjeta / gratificação
+小资 | TRADUÇÃO: pequeno-burguês / yuppie / abreviatura de 小資產階級|小资产阶级
+小资产阶级 | TRADUÇÃO: pequena burguesia
+小卖部 | TRADUÇÃO: quiosque / balcão de lanches / seção de varejo no interior de um negócio maior
+小赤壁 | TRADUÇÃO: Pequena Falésia Vermelha, apelido de Bitan 碧潭, Xindian, condado de Taibei, Taiwan
+小跑 | TRADUÇÃO: trotar; correr devagar
+小路 | TRADUÇÃO: estrada secundária; viela; caminho; trilha
+小车 | TRADUÇÃO: carro pequeno / minicarro / carroça pequena / carrinho de mão / tipo de dança folclórica
+小军舰鸟 | TRADUÇÃO: (espécie de ave da China) fragata-grande (Fregata minor)
+小辈 | TRADUÇÃO: a geração mais jovem
+小辈子 | TRADUÇÃO: (dialeto de Sichuan) membro da geração mais jovem
+小轮车 | TRADUÇÃO: BMX (bicicleta) / ciclismo BMX (esporte)
+小转 | TRADUÇÃO: virar à direita (dialeto xangainês)
+小轿车 | TRADUÇÃO: (automóvel) sedan / carro
+小辫 | TRADUÇÃO: trança (cabelo)
+小辫儿 | TRADUÇÃO: variante erhua de 小辮|小辫
+小辫子 | TRADUÇÃO: trança (cabelo) / (fig.) falha ou evidência de delito que pode ser usada contra alguém
+小游 | TRADUÇÃO: excursão / passeio curto
+小过 | TRADUÇÃO: pequeno erro / ofensa menor / um pouco demais
+小道 | TRADUÇÃO: atalho / trilha / suborno como meio de alcançar um objetivo / artes menores (referência confucionista à agricultura, medicina, adivinhação e outras profissões indignas de um cavalheiro)
+小道具 | TRADUÇÃO: (teatro) objeto de cena manual (cálice, pistola etc.)
+小道新闻 | TRADUÇÃO: notícia de bastidores
+小道消息 | TRADUÇÃO: boato / fofoca
+小酌 | TRADUÇÃO: tomar uns drinques (muitas vezes implicando uma pequena festa)
+小酒馆 | TRADUÇÃO: bistro
+小野 | TRADUÇÃO: Ono (sobrenome e topônimo japonês)
+小野不由美 | TRADUÇÃO: Ono Fuyumi (1960-), romancista japonesa
+小量 | TRADUÇÃO: uma pequena quantidade
+小金 | TRADUÇÃO: veja 小金縣|小金县
+小金库 | TRADUÇÃO: reserva suplementar de caixa / fundo privado / fundo secreto / caixa dois
+小金县 | TRADUÇÃO: Xiaojin, um condado na Prefeitura Autônoma Tibetana e Qiang de Ngawa, Sichuan
+小钢珠 | TRADUÇÃO: pachinko
+小钢炮 | TRADUÇÃO: (coloq.) peça de artilharia leve como um morteiro / (fig.) pessoa que fala com ousadia e franqueza / hatch (carro) / (também usado figurativamente com vários significados em outros contextos)
+小钱 | TRADUÇÃO: uma pequena quantia de dinheiro
+小镇 | TRADUÇÃO: cidade pequena; vila
+小铲子 | TRADUÇÃO: colher de pedreiro
+小开 | TRADUÇÃO: (dialetal) filho do patrão / filho de homem rico / jovem patrão
+小除夕 | TRADUÇÃO: a véspera da Véspera de Ano Novo
+小隐隐于林，大隐隐于市 | TRADUÇÃO: um eremita comum vive no isolamento dos bosques; o verdadeiro recluso escolhe a cidade (expressão idiomática)
+小隐隐于野，大隐隐于市 | TRADUÇÃO: um eremita comum vive no isolamento do campo; o verdadeiro recluso escolhe a cidade (expressão idiomática)
+小雁塔 | TRADUÇÃO: Pequena Pagode do Ganso Selvagem em Xi'an
+小雅 | TRADUÇÃO: uma das três principais divisões do Livro das Canções 詩經|诗经
+小集团 | TRADUÇÃO: facção / panelinha
+小鸡 | TRADUÇÃO: pintinho
+小鸡鸡 | TRADUÇÃO: pênis (linguagem infantil)
+小雨 | TRADUÇÃO: chuva leve / garoa
+小雨伞 | TRADUÇÃO: (gíria) camisinha
+小雪 | TRADUÇÃO: Xiaoxue ou Pequena Neve, 20.º dos 24 termos solares 22 de novembro a 6 de dezembro
+小云雀 | TRADUÇÃO: (espécie de ave da China) cotovia- oriental (Alauda gulgula)
+小电影 | TRADUÇÃO: (gíria) filme adulto; filme pornográfico
+小电驴 | TRADUÇÃO: (coloq.) scooter elétrica; motoneta elétrica / (dialetal) scooter
+小灵通 | TRADUÇÃO: Sistema Telefônico Pessoal (PHS), rede móvel que operou na China de 1998 a 2013
+小青年 | TRADUÇÃO: jovem / rapaz
+小青脚鹬 | TRADUÇÃO: (espécie de ave da China) maçarico-de-nordmann (Tringa guttifer)
+小韵 | TRADUÇÃO: grupo de homofones (grupo de caracteres homofônicos em um livro de rimas)
+小项 | TRADUÇÃO: item pequeno / evento (de programa)
+小头 | TRADUÇÃO: a parte ou quota menor de algo
+小题大作 | TRADUÇÃO: variante de 小題大做|小题大做
+小题大做 | TRADUÇÃO: fazer um grande alvoroço por uma questão menor (expressão idiomática)
+小额融资 | TRADUÇÃO: microfinanças
+小颚 | TRADUÇÃO: mandíbula (maxilar inferior)
+小食 | TRADUÇÃO: lanche; petisco
+小食中心 | TRADUÇÃO: (Malásia) praça de alimentação
+小饭桌 | TRADUÇÃO: refeitório diurno para crianças em idade escolar que não podem almoçar em casa
+小饭馆 | TRADUÇÃO: casa de chá / cantina / cafeteria
+小马 | TRADUÇÃO: potro / pônei
+小马座 | TRADUÇÃO: Equuleus (constelação)
+小脏鬼 | TRADUÇÃO: diabinho sujo (carinhoso, para criança)
+小松糕 | TRADUÇÃO: muffin
+小鬟 | TRADUÇÃO: (histórico) coque usado por moças / escrava jovem (cortesã doméstica pré-púbere com penteado distinto de coques emparelhados)
+小鬼 | TRADUÇÃO: diabinho (termo carinhoso para criança) / criança levada / diabrete
+小鲜肉 | TRADUÇÃO: (coloq.) ídolo adolescente (masculino)
+小鳞胸鹪鹛 | TRADUÇÃO: (espécie de ave da China) ave-formigueira-pigmeia (Pnoepyga pusilla)
+小鸟 | TRADUÇÃO: passarinho / filhote de ave / (fig.) pênis (termo infantil) / (golfe) birdie
+小鸟依人 | TRADUÇÃO: lit. como um passarinho dependendo das pessoas (expressão idiomática) / fig. fofo e desamparado
+小鸟球 | TRADUÇÃO: birdie
+小鸟胃 | TRADUÇÃO: (fig.) apetite pequeno/pessoa de apetite pequeno
+小凤头燕鸥 | TRADUÇÃO: (espécie de ave da China) trinta-réis-das-bermudas (Thalasseus bengalensis)
+小鸨 | TRADUÇÃO: (espécie de ave da China) sisão (Tetrax tetrax)
+小鸦鹃 | TRADUÇÃO: (espécie de ave da China) cucal-bengalense (Centropus bengalensis)
+小鹀 | TRADUÇÃO: (espécie de ave da China) escrevedeira-anã (Emberiza pusilla)
+小鹃鸠 | TRADUÇÃO: (espécie de ave da China) rola-cuco-pequena (Macropygia ruficeps)
+小鹅 | TRADUÇÃO: gansinho
+小鸥 | TRADUÇÃO: (espécie de ave da China) gaivota-pequena (Hydrocoloeus minutus)
+小鹰号 | TRADUÇÃO: Kitty Hawk (porta-aviões dos EUA)
+小䴙䴘 | TRADUÇÃO: (espécie de ave da China) mergulhão-pequeno (Tachybaptus ruficollis)
+小鹿乱撞 | TRADUÇÃO: fig. inquieto, por medo ou emoções fortes
+小麦 | TRADUÇÃO: trigo/CL:粒
+小麦胚芽 | TRADUÇÃO: gérmen de trigo
+小面包 | TRADUÇÃO: pãozinho/bolinha
+小黄 | TRADUÇÃO: (Taiwan) (coloq.) táxi
+小黄瓜 | TRADUÇÃO: pepino em conserva
+小黄脚鹬 | TRADUÇÃO: (espécie de ave da China) maçarico-de-perna-amarela (Tringa flavipes)
+小黄车 | TRADUÇÃO: bicicleta amarela (apelido para bicicletas fornecidas pela empresa de bicicletas compartilhadas Ofo, ativa 2014–2020)
+小黑领噪鹛 | TRADUÇÃO: (espécie de ave da China) zaragateiro-de-colar (Garrulax monileger)
+小鼓 | TRADUÇÃO: caixa (instrumento musical)
+小鼠 | TRADUÇÃO: camundongo
+小龙 | TRADUÇÃO: serpente (como um dos 12 animais do zodíaco chinês 生肖)
+小龙虾 | TRADUÇÃO: lagostim/(esp.) lagostim-vermelho-da-louisiana 克氏原螯蝦|克氏原螯虾
+小𥻗子 | TRADUÇÃO: mingau de milho moído mais fino que 大𥻗子
+尐 | TRADUÇÃO: (literário) poucos/alguns
+少 | TRADUÇÃO: pouco/menos/faltar/parar (de fazer algo)/raramente ‖ jovem
+少不了 | TRADUÇÃO: não poder prescindir de/ser inevitável/é certo que haverá muitos
+少不得 | TRADUÇÃO: não poder evitar/não poder prescindir de
+少不更事 | TRADUÇÃO: (expressão idiomática) jovem e inexperiente; molhado atrás das orelhas
+少不经事 | TRADUÇÃO: ver 少不更事
+少之又少 | TRADUÇÃO: muito poucos; muito pouco
+少来 | TRADUÇÃO: evitar (fazer algo)/(coloq.) Qual é!/Para com isso!/Poupa-me!
+少先队 | TRADUÇÃO: Pioneiros Jovens da China, abrev. de 少年先鋒隊|少年先锋队
+少儿 | TRADUÇÃO: criança
+少儿不宜 | TRADUÇÃO: impróprio para menores
+少刻 | TRADUÇÃO: um breve instante/logo
+少块肉 | TRADUÇÃO: (coloq.) (geralmente usado na negativa) (não) fazer diferença (fazer algo)/(não) custar nada (fazer algo)
+少壮 | TRADUÇÃO: jovem e forte; no auge da juventude
+少壮不努力，老大徒伤悲 | TRADUÇÃO: se fores preguiçoso na juventude, te arrependerás na velhice
+少壮派 | TRADUÇÃO: jovem guarda/grupo jovem e vigoroso com novas ideias/nova onda
+少女 | TRADUÇÃO: menina/moça
+少女峰 | TRADUÇÃO: Jungfrau, pico na Suíça
+少奶奶 | TRADUÇÃO: jovem senhora da casa/esposa do jovem patrão
+少妇 | TRADUÇÃO: mulher jovem casada
+少子化 | TRADUÇÃO: declínio da taxa de natalidade (empréstimo ortográfico do japonês 少子化 "shoushika")
+少安毋躁 | TRADUÇÃO: manter a calma, não se exaltar/não se impacientar
+少安无躁 | TRADUÇÃO: variante de 少安毋躁
+少将 | TRADUÇÃO: major-general (exército)/contra-almirante (marinha)/vice-marechal-do-ar (força aérea)
+少尉 | TRADUÇÃO: segundo-tenente (patente do exército)
+少年 | TRADUÇÃO: juventude inicial/jovem/(literário) mocidade; rapaz
+少年之家 | TRADUÇÃO: centro infantil/clube infantil
+少年人 | TRADUÇÃO: (Taiwan) jovens; moçada
+少年先锋队 | TRADUÇÃO: Pioneiros Jovens da China (ligação escolar do ensino fundamental, preparatória para a Liga da Juventude Comunista)/abrev. para 少先隊|少先队
+少年夫妻老来伴 | TRADUÇÃO: marido e mulher na juventude, companheiros na velhice
+少年宫 | TRADUÇÃO: Palácio da Juventude, instituição onde crianças podem participar de várias atividades extracurriculares
+少年犯 | TRADUÇÃO: jovem criminoso/menor infrator
+少年老成 | TRADUÇÃO: realizado apesar de jovem/sem vigor juvenil
+少府 | TRADUÇÃO: ministro encarregado do tesouro do palácio na China imperial
+少放 | TRADUÇÃO: colocar menos (de um tempero etc)
+少数 | TRADUÇÃO: pequeno número/poucos/minoria
+少数族裔 | TRADUÇÃO: minoria étnica
+少数民族 | TRADUÇÃO: minoria étnica
+少数民族乡 | TRADUÇÃO: município étnico (subdivisão formal de nível de aldeia de um condado da RPC)
+少有 | TRADUÇÃO: raro/incomum
+少东 | TRADUÇÃO: filho do patrão/jovem patrão; jovem chefe
+少东家 | TRADUÇÃO: filho do patrão
+少林 | TRADUÇÃO: o mosteiro Shaolin e sua escola de artes marciais
+少林寺 | TRADUÇÃO: Templo Shaolin, mosteiro budista famoso por seus monges especialistas em kung fu
+少校 | TRADUÇÃO: oficial de patente júnior no exército chinês/major/capitão-de-fragata
+少根筋 | TRADUÇÃO: (coloq.) de cérebro pequeno/tolo/distraído
+少爷 | TRADUÇÃO: filho do patrão/jovem senhor da casa/seu filho (honorífico)
+少男 | TRADUÇÃO: jovem, homem solteiro; rapaz
+少男少女 | TRADUÇÃO: meninos e meninas/adolescentes
+少白头 | TRADUÇÃO: ficar grisalho precocemente/jovem com cabelos grisalhos
+少管闲事 | TRADUÇÃO: Cuide da sua vida!/Não se intrometa!
+少艾 | TRADUÇÃO: jovem e bonita/moça bonita
+少见 | TRADUÇÃO: raro; visto raramente/(formal) é um raro prazer vê-lo
+少见多怪 | TRADUÇÃO: (lit.) uma pessoa que viu pouco do mundo se espantará com certas coisas (expressão idiomática)/(fig.) ficar surpreso com algo por falta de sofisticação; ingênuo; simplório
+少许 | TRADUÇÃO: um pouco; uns poucos
+少说为佳 | TRADUÇÃO: Poucas palavras são melhores./A brevidade é a alma do engenho.
+少选 | TRADUÇÃO: (literário) um breve instante
+少部分 | TRADUÇÃO: uma pequena proporção de/pronúncia em Taiwan [shao3bu4fen4]
+少量 | TRADUÇÃO: uma pitada/um pouco/alguns
+少间 | TRADUÇÃO: logo/um breve instante/um pequeno intervalo/um pouco melhor (estado de saúde)
+少阳病 | TRADUÇÃO: nome de uma doença na MTC
+少阳经 | TRADUÇÃO: meridiano da vesícula biliar yang menor (um dos 12 meridianos principais da MTC)
+少顷 | TRADUÇÃO: dentro de um breve instante/logo
+尔 | TRADUÇÃO: variante de 爾|尔 ‖ assim/tão/dessa forma/você/tu
+尓 | TRADUÇÃO: variante de 爾|尔
+尕 | TRADUÇÃO: pequeno (dialeto)
+尖 | TRADUÇÃO: pontudo; afilado; afiado/(de um som) agudo; estridente/(da audição, visão etc) apurado; aguçado; perspicaz/tornar (a voz) aguda/ponta aguda; ponta/o melhor de algo; a nata
+尖刀 | TRADUÇÃO: punhal
+尖利 | TRADUÇÃO: afiado/cortante/agudo/estridente/perfurante
+尖刻 | TRADUÇÃO: cáustico/mordaz/picante/ácido/vitriólico/acre
+尖厉 | TRADUÇÃO: estridente (voz)
+尖叫 | TRADUÇÃO: gritar; dar um grito agudo
+尖叫鸡 | TRADUÇÃO: frango de borracha que chia
+尖吻鲈 | TRADUÇÃO: barramundi ou robalo-asiático (Lates calcarifer)
+尖嘴鱼 | TRADUÇÃO: bodião-do-recife (Gomphosus varius)

@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+马赫数 | TRADUÇÃO: número de Mach
+马超 | TRADUÇÃO: Ma Chao (176-222), general de Shu no Romance dos Três Reinos
+马趴 | TRADUÇÃO: cair de cara no chão
+马路 | TRADUÇÃO: rua/estrada
+马路口 | TRADUÇÃO: cruzamento (de ruas)
+马路沿儿 | TRADUÇÃO: beira da estrada
+马路牙子 | TRADUÇÃO: meio-fio
+马蹄 | TRADUÇÃO: casco de cavalo/ferradura/junça aquática (Eleocharis dulcis ou E. congesta)
+马蹄形 | TRADUÇÃO: forma de ferradura
+马蹄星云 | TRADUÇÃO: Nebulosa Ômega ou Nebulosa Ferradura M17
+马蹄莲 | TRADUÇÃO: copo-de-leite
+马蹄蟹 | TRADUÇÃO: caranguejo-ferradura (Tachypleus tridentatus)
+马蹄铁 | TRADUÇÃO: ferradura
+马车 | TRADUÇÃO: carroça/bigga/carro de guerra
+马连良 | TRADUÇÃO: Ma Lianliang (1901-1966), estrela da ópera de Pequim, um dos Quatro Grandes Barbados (四大鬚生|四大须生)
+马达 | TRADUÇÃO: motor
+马达加斯加 | TRADUÇÃO: Madagascar
+马达加斯加岛 | TRADUÇÃO: ilha de Madagascar
+马边 | TRADUÇÃO: ver 馬邊彝族自治縣|马边彝族自治县
+马边彝族自治县 | TRADUÇÃO: Condado Autônomo Yi de Mabian, na cidade de Leshan 樂山市|乐山市, Sichuan
+马边县 | TRADUÇÃO: ver 馬邊彝族自治縣|马边彝族自治县
+马那瓜 | TRADUÇÃO: Manágua, capital da Nicarágua
+马里 | TRADUÇÃO: Mali
+马里亚纳海沟 | TRADUÇÃO: Fossa das Marianas
+马里亚纳群岛 | TRADUÇÃO: Ilhas Marianas no Pacífico
+马里博尔 | TRADUÇÃO: Maribor, segunda maior cidade da Eslovênia
+马里奥 | TRADUÇÃO: Mario (nome)
+马里兰 | TRADUÇÃO: Maryland, estado dos EUA
+马铃薯 | TRADUÇÃO: batata
+马铃薯泥 | TRADUÇÃO: purê de batata
+马衔 | TRADUÇÃO: brida/embocadura
+马钱子 | TRADUÇÃO: Strychnos nux-vomica
+马镫 | TRADUÇÃO: estribo
+马关 | TRADUÇÃO: ver 馬關縣|马关县
+马关条约 | TRADUÇÃO: Tratado de Shimonoseki (1895), que encerrou a Primeira Guerra Sino-Japonesa 甲午戰爭|甲午战争
+马关县 | TRADUÇÃO: Condado de Maguan, na Prefeitura Autônoma Zhuang e Miao de Wenshan 文山壯族苗族自治州|文山壮族苗族自治州, Yunnan
+马陆 | TRADUÇÃO: milípede
+马队 | TRADUÇÃO: cavalaria/caravana de cavalos transportando mercadorias
+马雅 | TRADUÇÃO: civilização maia
+马雅可夫斯基 | TRADUÇÃO: Vladimir Maiakovski (1893-1930), poeta e dramaturgo russo
+马云 | TRADUÇÃO: Ma Yun (1964-), também conhecido como Jack Ma, empresário bilionário chinês, cofundador da Alibaba 阿里巴巴
+马面 | TRADUÇÃO: Cara de Cavalo, um dos dois guardiões do submundo na mitologia chinesa
+马革裹尸 | TRADUÇÃO: ser enterrado em pele de cavalo (expressão idiomática)/dar a vida no campo de batalha
+马靴 | TRADUÇÃO: botas de montaria
+马鞍 | TRADUÇÃO: sela
+马鞍山 | TRADUÇÃO: ver 馬鞍山市|马鞍山市
+马鞍山市 | TRADUÇÃO: Ma'anshan, cidade administrativa a nível de prefeitura na província de Anhui 安徽省
+马鞭 | TRADUÇÃO: chicote de cavalo
+马头 | TRADUÇÃO: variante antiga de 碼頭|码头
+马头星云 | TRADUÇÃO: Nebulosa Cabeça de Cavalo
+马头琴 | TRADUÇÃO: morin khuur (instrumento de cordas friccionadas mongol)
+马首是瞻 | TRADUÇÃO: seguir cegamente (expressão idiomática)/tomar como único guia
+马马虎虎 | TRADUÇÃO: descuidado/casual/vago/mais ou menos/tolerável/razoável
+马驹 | TRADUÇÃO: potro (cavalo jovem)
+马驹子 | TRADUÇÃO: ver 馬駒|马驹
+马骝 | TRADUÇÃO: macaco (dialetal)/pequeno macaco (termo carinhoso para crianças, subordinados)
+马骡 | TRADUÇÃO: mula
+马鲛 | TRADUÇÃO: cavala espanhola
+马鲛鱼 | TRADUÇÃO: cavala espanhola
+马鳖 | TRADUÇÃO: sanguessuga
+马鹿 | TRADUÇÃO: veado-vermelho/tolo/idiota (do japonês "baka")
+马鹿易形 | TRADUÇÃO: saber distinguir cavalo e vejo/saber o certo do errado
+马麻 | TRADUÇÃO: (gíria) mamãe; mãe (trocadilho com 媽媽|妈妈)
+马黛茶 | TRADUÇÃO: chimarrão (bebida de erva-mate)
+马齿徒增 | TRADUÇÃO: (autodepreciativo) ter envelhecido sem realizar nada (expressão idiomática)
+马齿苋 | TRADUÇÃO: beldroega (Portulaca oleracea)
+马龙 | TRADUÇÃO: ver 馬龍區|马龙区
+马龙区 | TRADUÇÃO: Distrito de Malong, na cidade de Qujing 曲靖市, Yunnan
+马龙派 | TRADUÇÃO: Igreja Maronita; maronitas
+驭 | TRADUÇÃO: variante de 御/conduzir/administrar/controlar
+驭手 | TRADUÇÃO: pessoa responsável por animais de carga/cocheiro
+驭气 | TRADUÇÃO: voar magicamente pelo ar
+驭兽术 | TRADUÇÃO: treinamento de animais/domar bestas selvagens (ex.: domar leões)
+冯 | TRADUÇÃO: sobrenome Feng ‖ galopar/auxiliar/atacar/vadear/grande/variante antiga de 憑|凭
+冯内果 | TRADUÇÃO: Kurt Vonnegut, Jr. (1922-2007), escritor norte-americano
+冯友兰 | TRADUÇÃO: Feng Youlan (1895-1990), distinto filósofo chinês
+冯梦龙 | TRADUÇÃO: Feng Menglong (1574-1646), romancista do final da dinastia Ming que escrevia em língua coloquial (baihua), autor de Histórias Antigas e Novas 古今小說|古今小说
+冯德英 | TRADUÇÃO: Feng Deying (1935–2022), autor do romance de 1958 Ervas Amargas 苦菜花
+冯德莱恩 | TRADUÇÃO: Ursula von der Leyen (1958-), política alemã, presidente da Comissão Europeia desde 2019
+冯武 | TRADUÇÃO: Feng Doubo ou Feng Wu (1672-), calígrafo da transição Ming-Qing/também chamado 馮竇伯|冯窦伯
+冯玉祥 | TRADUÇÃO: Feng Yuxiang (1882-1948), senhor da guerra durante a República da China, fortemente crítico de Chiang Kai-shek
+冯窦伯 | TRADUÇÃO: Feng Doubo ou Feng Wu (1672-), calígrafo da transição Ming-Qing/também chamado 馮武|冯武
+冯骥才 | TRADUÇÃO: Feng Jicai (1942-), romancista de Tianjin, autor de Pessoas Extraordinárias no Nosso Mundo Comum 俗世奇人
+馯 | TRADUÇÃO: variante antiga de 駻
+驮子 | TRADUÇÃO: carga de animal de carga
+驮兽 | TRADUÇÃO: animal de carga
+驮畜 | TRADUÇÃO: animal de carga
+驮筐 | TRADUÇÃO: cesto duplo pendurado em animal de carga
+驮篓 | TRADUÇÃO: cesto duplo pendurado em animal de carga
+驮轿 | TRADUÇÃO: liteira carregada por animal de carga
+驮运 | TRADUÇÃO: transportar em animal de carga/carregar (uma carga nas costas)
+驮运路 | TRADUÇÃO: trilha de animais
+驮重 | TRADUÇÃO: (de um animal de carga) carregar uma carga pesada
+驮马 | TRADUÇÃO: cavalo de carga
+馲 | TRADUÇÃO: camelo/pronúncia em Taiwan [luo4]
+驰 | TRADUÇÃO: correr rápido/acelerar/galopar/disseminar/espalhar
+驰名 | TRADUÇÃO: famoso
+驰援 | TRADUÇÃO: correr para o resgate
+驰誉 | TRADUÇÃO: famoso/aclamado
+驰道 | TRADUÇÃO: (antigo) via imperial
+驰骋 | TRADUÇÃO: galopar/avançar a toda velocidade
+驰骛 | TRADUÇÃO: mover-se rapidamente/apressar-se/correr atrás (de fama vazia, poder, dinheiro etc.)
+驰鹜 | TRADUÇÃO: variante de 馳騖|驰骛
+驰龙科 | TRADUÇÃO: Dromaeosauridae (família de dinossauros que inclui o velociraptor)
+驯 | TRADUÇÃO: dominar gradualmente/domar/domesticar
+驯化 | TRADUÇÃO: domar/domesticar
+驯善 | TRADUÇÃO: dócil/manejável
+驯从 | TRADUÇÃO: manso/obediente
+驯悍记 | TRADUÇÃO: A Megera Domada, peça de William Shakespeare
+驯扰 | TRADUÇÃO: domar
+驯服 | TRADUÇÃO: domar/domado/dócil
+驯良 | TRADUÇÃO: dócil/manso
+驯顺 | TRADUÇÃO: manso/dócil
+驯养 | TRADUÇÃO: domesticar/criar e treinar
+驯养繁殖 | TRADUÇÃO: domesticação e criação/criação em cativeiro
+驯养繁殖场 | TRADUÇÃO: instalação de criação em cativeiro/fazenda de reprodução
+驯马 | TRADUÇÃO: domar um cavalo/cavalo de sela amestrado
+驯马人 | TRADUÇÃO: treinador de cavalos
+驯马场 | TRADUÇÃO: pista de treinamento de cavalos
+驯驼 | TRADUÇÃO: domar um camelo
+驯鹿 | TRADUÇÃO: rena
+馵 | TRADUÇÃO: (cavalo)
+驲 | TRADUÇÃO: cavalo para despachar mensagens
+驴 | TRADUÇÃO: variante de 驢|驴 ‖ burro/asno
+驳 | TRADUÇÃO: variegado/heterogêneo/refutar/contradizer/transportar por barcaça/barcaça/chat(a) ‖ variante de 駁|驳
+驳倒 | TRADUÇÃO: refutar/demolir (um argumento, teoria etc.)
+驳嘴 | TRADUÇÃO: (dialeto) discutir/brigar
+驳回 | TRADUÇÃO: rejeitar/recusar/indeferir
+驳子 | TRADUÇÃO: rebocar (uma barcaça)
+驳岸 | TRADUÇÃO: muro de pedra baixo construído ao longo da margem para proteger o aterro/enrocamento
+驳复 | TRADUÇÃO: refutar
+驳斥 | TRADUÇÃO: refutar/desmascarar/negar/denunciar
+驳正 | TRADUÇÃO: refutar e corrigir
+驳壳枪 | TRADUÇÃO: pistola Mauser
+驳船 | TRADUÇÃO: barcaça; chat(a)
+驳落 | TRADUÇÃO: descascar/manchado/ser reprovado num exame/ser rebaixado
+驳词 | TRADUÇÃO: uma refutação (variante de 駁辭|驳辞)
+驳议 | TRADUÇÃO: corrigir (por escrito) os erros ou equívocos de alguém
+驳辞 | TRADUÇÃO: refutação/discurso incoerente
+驳运 | TRADUÇÃO: transporte por barcaça/barcaça
+驳杂 | TRADUÇÃO: heterogêneo
+驳面子 | TRADUÇÃO: magoar os sentimentos de alguém recusando seu pedido
+𫘝 | TRADUÇÃO: usado em 駃騠|𫘝𫘨 ‖ (literário) cavalo rápido/(literário) rápido (variante de 快)
+𫘝𫘨 | TRADUÇÃO: bardoto
+𬳶 | TRADUÇÃO: (literário) (de um cavalo) forte; robusto
+駋 | TRADUÇÃO: (cavalo)
+驻 | TRADUÇÃO: parar/ficar/estar estacionado (de tropas, diplomatas etc.)
+驻京 | TRADUÇÃO: (abrev.) estacionado em Pequim
+驻地 | TRADUÇÃO: estação/acampamento
+驻大陆 | TRADUÇÃO: estacionado no continente (isto é, na RPC)
+驻守 | TRADUÇÃO: guarnecer e) defender
+驻波 | TRADUÇÃO: onda estacionária
+驻港 | TRADUÇÃO: (abrev.) estacionado em Hong Kong
+驻留 | TRADUÇÃO: ficar/permanecer/continuar/(informática) residir/programa residente
+驻节 | TRADUÇÃO: (de um alto funcionário) residir temporariamente no exterior (ou noutra parte do país) a serviço oficial
+驻扎 | TRADUÇÃO: estacionar/aquartonar (tropas)
+驻华 | TRADUÇÃO: estacionado na China/localizado na China
+驻足 | TRADUÇÃO: parar (de andar)/deter-se
+驻跸 | TRADUÇÃO: (literário) (de um imperador durante viagem) fazer escala; alojar-se temporariamente em rota
+驻车制动器 | TRADUÇÃO: freio de estacionamento
+驻军 | TRADUÇÃO: estacionar ou aquartelar tropas/guarnição
+驻锡 | TRADUÇÃO: (budismo) (de um monge) fixar residência (geralmente num templo para ensino ou iluminação espiritual)
+驻颜 | TRADUÇÃO: manter uma aparência jovem
+驻马店 | TRADUÇÃO: ver 駐馬店市|驻马店市
+驻马店市 | TRADUÇÃO: Zhumadian, cidade de nível de prefeitura na província de Henan
+驻点 | TRADUÇÃO: ponto estacionário
+驽 | TRADUÇÃO: (literário) cavalo inferior
+驽钝 | TRADUÇÃO: (literário) lerdo/de raciocínio lento
+驽马 | TRADUÇÃO: (literário) cavalo inferior
+驽马恋栈 | TRADUÇÃO: lit. um cavalo cansado reluta em deixar o estábulo (expressão idiomática)/fig. um trabalhador medíocre se agarra a um bom cargo
+驽马恋栈豆 | TRADUÇÃO: ver 駑馬戀棧|驽马恋栈
+驹 | TRADUÇÃO: potro
+驹子 | TRADUÇÃO: filhote de cavalo, asno ou mula/poldro/potro/poldra
+𬳵 | TRADUÇÃO: (cavalo)
+驵 | TRADUÇÃO: cavalo poderoso
+驾 | TRADUÇÃO: sobrenome Jia ‖ atrelar/puxar (uma carroça etc)/dirigir/pilotar/navegar/montar/sua boa pessoa/prefixo de palavra denotando respeito (polido)
+驾乘 | TRADUÇÃO: dirigir (um carro)/voar (uma aeronave)/pilotar (um barco)
+驾培 | TRADUÇÃO: treinamento de motoristas (abrev. de 駕駛培訓|驾驶培训)
+驾崩 | TRADUÇÃO: (de um imperador) falecer
+驾帆船 | TRADUÇÃO: vela (esporte)
+驾御 | TRADUÇÃO: variante de 駕馭|驾驭
+驾校 | TRADUÇÃO: autoescola
+驾机 | TRADUÇÃO: pilotar um avião
+驾照 | TRADUÇÃO: carteira de motorista (abrev. de 駕駛執照|驾驶执照)
+驾临 | TRADUÇÃO: honrar alguém com sua presença/sua chegada (honorífico)/sua presença estimada
+驾艇 | TRADUÇÃO: pilotar um barco
+驾车 | TRADUÇÃO: dirigir um veículo
+驾轻就熟 | TRADUÇÃO: lit. um passeio fácil por um caminho familiar (expressão idiomática)/fig. a experiência facilita o progresso/uma tarefa tão familiar que se pode fazê-la de olhos fechados
+驾辕 | TRADUÇÃO: puxar uma carruagem (de animal de tração)
+驾云 | TRADUÇÃO: cavalgar as nuvens/fig. satisfeito consigo mesmo/arrogante
+驾驭 | TRADUÇÃO: esporear (cavalo)/conduzir/governar/manejar/administrar/dominar/controlar
+驾驶 | TRADUÇÃO: dirigir (veículo); pilotar (navio, avião etc)/motorista; piloto; capitão
+驾驶人 | TRADUÇÃO: motorista (de carro, van)
+驾驶员 | TRADUÇÃO: piloto; motorista
+驾驶执照 | TRADUÇÃO: carteira de motorista
+驾驶室 | TRADUÇÃO: cabine (de locomotiva, caminhão etc); compartimento do motorista; casa do leme
+驾驶席 | TRADUÇÃO: assento do motorista/assento do piloto
+驾驶舱 | TRADUÇÃO: cabine de comando/cabine de controle
+驾驶证 | TRADUÇÃO: carteira de motorista
+驾鹤成仙 | TRADUÇÃO: voar num grou e tornar-se imortal
+驾鹤西去 | TRADUÇÃO: ir para o céu montado em um grou (fig., lit. cavalgar um grou para o paraíso ocidental) / falecer (expressão idiomática)
+驾鹤西归 | TRADUÇÃO: ver 駕鶴西去|驾鹤西去
+驾鹤西游 | TRADUÇÃO: ver 駕鶴西去|驾鹤西去
+驾龄 | TRADUÇÃO: tempo de experiência como motorista
+駗 | TRADUÇÃO: estria
+骀 | TRADUÇÃO: cavalo cansado / cavalo exausto
+驸 | TRADUÇÃO: genro do imperador
+驸马 | TRADUÇÃO: genro do imperador
+驶 | TRADUÇÃO: ir rápido / correr (veículo, cavalo etc.) / andar (veículo) / navegar (barco)
+驶入 | TRADUÇÃO: entrar (carro, navio, trem etc.)
+驶出 | TRADUÇÃO: sair do porto / zarpar
+驶向 | TRADUÇÃO: dirigir-se para (trem, barco, avião etc.)
+驶往 | TRADUÇÃO: viajar para / dirigir-se a (veículo, barco etc.)
+驶流 | TRADUÇÃO: fluxo rápido / torrente
+驶离 | TRADUÇÃO: afastar (o avião) / ir embora (de um lugar) de carro / partir / sair
+駜 | TRADUÇÃO: cavalo forte
+驼 | TRADUÇÃO: corcova / corcunda / camelo ‖ variante de 駝|驼
+驼子 | TRADUÇÃO: corcunda
+驼峰 | TRADUÇÃO: corcova de camelo / lombada (em pátio ferroviário)
+驼峰命名法 | TRADUÇÃO: (computação) CamelCase
+驼背 | TRADUÇÃO: corcunda / encurvado / corcovado
+驼背鲸 | TRADUÇÃO: baleia-jubarte (Megaptera novaeangliae)
+驼色 | TRADUÇÃO: cor de camelo (marrom claro)
+驼鸡 | TRADUÇÃO: avestruz (Struthio camelus) / escreve-se também 鴕鳥|鸵鸟 / pássaro fabuloso como o Roca de Simbad
+驼鹿 | TRADUÇÃO: alce
+驷 | TRADUÇÃO: tiro de quatro cavalos
+駠 | TRADUÇÃO: variante antiga de 騮|骝
+骈 | TRADUÇÃO: Pian (sobrenome) ‖ andar lado a lado (cavalo) / estar lado a lado / estar fundido / paralelo (estilo literário)
+骈偶文风 | TRADUÇÃO: estilo literário do início da dinastia Tang desprezado como superficial pelos classicistas
+骈俪 | TRADUÇÃO: paralelo (frases) / prosa paralela
+骈肩 | TRADUÇÃO: ombro a ombro
+骈胁 | TRADUÇÃO: costelas fundidas (deformidade física)
+骈体 | TRADUÇÃO: prosa paralela (estilo literário antigo)
+𬳽 | TRADUÇÃO: grande multidão
+駬 | TRADUÇÃO: (cavalo)
+骇 | TRADUÇÃO: assombrar / chocar / atacar (computação, estrangeirismo)
+骇人 | TRADUÇÃO: aterrorizante / chocante / terrível
+骇人听闻 | TRADUÇÃO: chocante / horripilante / atroz / terrível
+骇客 | TRADUÇÃO: (computação) (estrangeirismo) hacker
+骇怕 | TRADUÇÃO: ter medo / estar assustado
+骇浪 | TRADUÇÃO: mares agitados ou tempestuosos
+骇然 | TRADUÇÃO: tomado de choque, horror ou espanto / estarrecido / chocado
+骇异 | TRADUÇÃO: (literário) surpreso / chocado / perplexo
+駯 | TRADUÇÃO: focinho preto (de um cavalo)
+骃 | TRADUÇÃO: cavalo cinza-ferro
+骆 | TRADUÇÃO: sobrenome Luo ‖ camelo/cavalo branco com crina preta (arcaico)
+骆宾王 | TRADUÇÃO: Luo Binwang (640-684), um dos Quatro Grandes Poetas do Início da Dinastia Tang 初唐四傑|初唐四杰
+骆马 | TRADUÇÃO: lhama
+骆驼 | TRADUÇÃO: camelo (CL:峰,匹,頭|头) / (coloq.) pessoa burra / idiota
+骆驼祥子 | TRADUÇÃO: O Camelo Xiangzi, romance de Lao She 老舍
+駴 | TRADUÇÃO: batida trovejante de tambores
+駵 | TRADUÇÃO: variante antiga de 騮|骝
+骎 | TRADUÇÃO: cavalo veloz
+駹 | TRADUÇÃO: cavalo preto com cara branca
+駻 | TRADUÇÃO: feroz (cavalo) / bravio
+𬳿 | TRADUÇÃO: usado em 騊駼|𫘦𬳿
+駽 | TRADUÇÃO: cinza
+駾 | TRADUÇÃO: aproximar-se a galope veloz (cavalo)
+骏 | TRADUÇÃO: cavalo fogoso / cavalo de raça
+骏马 | TRADUÇÃO: cavalo nobre / corcel
+骋 | TRADUÇÃO: apressar-se / correr / abrir / galopar
+骍 | TRADUÇÃO: cavalo (ou gado) avermelhado / cavalo baio
+騃 | TRADUÇÃO: estúpido / idiota
+𫘧 | TRADUÇÃO: (cavalo)
+骓 | TRADUÇÃO: Zhui (sobrenome) ‖ (literário) cavalo malhado
+騆 | TRADUÇÃO: cavalo divino
+騇 | TRADUÇÃO: égua
+騉 | TRADUÇÃO: cavalo fino
+𫘦 | TRADUÇÃO: usado em 騊駼|𫘦𬳿
+𫘦𬳿 | TRADUÇÃO: (literário) tipo de cavalo bem conceituado nativo das regiões setentrionais, particularmente associado ao povo Xiongnu 匈奴
+騋 | TRADUÇÃO: égua
+骔 | TRADUÇÃO: variante de 騣|鬃
+骒 | TRADUÇÃO: (forma ligada) fêmea (cavalo, mula, camelo etc.)
+骒马 | TRADUÇÃO: égua
+骒驼 | TRADUÇÃO: camela (fêmea do camelo)
+骒骡 | TRADUÇÃO: mula (fêmea da mula)
+骑 | TRADUÇÃO: (Taiwan) cavalo de sela / soldado montado ‖ sentar-se montado / andar a cavalo ou de bicicleta / classificador para cavalos de sela
+骑兵 | TRADUÇÃO: cavalaria
+骑劫 | TRADUÇÃO: sequestrar (avião, veículo automotor, conta de mídia social, discussão etc.)
+骑坐 | TRADUÇÃO: montar / andar a cavalo
+骑士 | TRADUÇÃO: cavaleiro / (Taiwan) ciclista (moto, bicicleta etc.)
+骑士气概 | TRADUÇÃO: cavalheirismo
+骑士风格 | TRADUÇÃO: condição de cavaleiro
+骑射 | TRADUÇÃO: arco equestre / montaria e tiro
+骑师 | TRADUÇÃO: jóquei / cavaleiro / amazona
+骑手 | TRADUÇÃO: cavaleiro / amazona / jóquei / ciclista
+骑枪 | TRADUÇÃO: carabina / lança
+骑楼 | TRADUÇÃO: arcada (arquitetura)
+骑墙 | TRADUÇÃO: ficar em cima do muro (numa disputa)
+骑田岭 | TRADUÇÃO: Cordilheira Qitian entre o sul de Hunan e Guangdong
+骑脖子拉屎 | TRADUÇÃO: (lit.) cagar montado no ombro de alguém (ditado) / (fig.) tratar alguém como lixo
+骑虎难下 | TRADUÇÃO: se montar num tigre, é difícil descer (expressão idiomática) / impossível parar no meio do caminho
+骑行 | TRADUÇÃO: andar de bicicleta, cavalo ou moto / ciclismo / equitação / motociclismo
+骑术 | TRADUÇÃO: equitação / arte de montar a cavalo
+骑警 | TRADUÇÃO: polícia montada (a cavalo ou de moto)
+骑警队 | TRADUÇÃO: destacamento de polícia montada (a cavalo ou de moto)
+骑车 | TRADUÇÃO: andar de bicicleta ou moto
+骑都尉 | TRADUÇÃO: (arcaico) comandante de cavalaria / capitão de cavalaria
+骑马 | TRADUÇÃO: montar a cavalo
+骑马找马 | TRADUÇÃO: (expressão idiomática) (coloq.) continuar num emprego (ou relacionamento etc.) insatisfatório enquanto procura ativamente por um melhor
+骑驴找马 | TRADUÇÃO: (expressão idiomática) (coloq.) continuar num emprego (ou relacionamento, etc.) insatisfatório enquanto procura ativamente algo melhor
+骑驴找驴 | TRADUÇÃO: lit. procurar a mula enquanto monta nela (expressão idiomática)/fig. procurar o que já se tem
+骑驴觅驴 | TRADUÇÃO: ver 騎驢找驢|骑驴找驴
+骑鹤 | TRADUÇÃO: montar um grou (como um praticante daoísta)
+骑鹤上扬州 | TRADUÇÃO: lit. montar um grou para Yangzhou (expressão idiomática); conseguir um cargo oficial
+骑鹤化 | TRADUÇÃO: (Daoísmo) morrer
+骐 | TRADUÇÃO: (literário) cavalo preto
+骐𬴊 | TRADUÇÃO: (literário) cavalo de raça/variante de 麒麟
+骐麟 | TRADUÇÃO: variante de 麒麟
+验 | TRADUÇÃO: variante de 驗‖ examinar/testar/verificar
+騑 | TRADUÇÃO: cavalo lateral (numa parelha de cavalos atrelados)/cavalo
+騕 | TRADUÇÃO: nome de um cavalo fabuloso
+骛 | TRADUÇÃO: (forma presa) apressar-se/esforçar-se por
+騗 | TRADUÇÃO: variante antiga de 騙|pular em um cavalo balançando uma perna sobre ele
+騘 | TRADUÇÃO: variante antiga de 驄|骢
+骗 | TRADUÇÃO: enganar/trapacear/enganar (a cavalo etc.) pulando com uma perna sobre
+骗人 | TRADUÇÃO: enganar alguém/um golpe
+骗供 | TRADUÇÃO: enganar alguém para confessar/induzir uma confissão
+骗保 | TRADUÇÃO: cometer fraude de seguros
+骗取 | TRADUÇÃO: obter por meio de engano
+骗子 | TRADUÇÃO: golpista/um trapaceiro
+骗局 | TRADUÇÃO: um golpe/uma armadilha/uma falcatrua/um esquema fraudulento/CL:場|场
+骗徒 | TRADUÇÃO: golpista/trapaceiro
+骗案 | TRADUÇÃO: golpe/fraude
+骗色 | TRADUÇÃO: enganar alguém para fazer sexo
+骗术 | TRADUÇÃO: truque/engano
+骗走 | TRADUÇÃO: enganar (alguém para tirar algo)/trapacear (alguém para tirar algo)
+𫘨 | TRADUÇÃO: usado em 駃騠|𫘝𫘨
+騢 | TRADUÇÃO: (cavalo)
+鬃 | TRADUÇÃO: variante de 鬃‖ cerdas/crina de cavalo‖ cabelo desgrenhado/crina de cavalo
+骙 | TRADUÇÃO: (de um cavalo) potente/forte
+䯄 | TRADUÇÃO: cavalo malhado
+骞 | TRADUÇÃO: (literário) erguer alto
+骘 | TRADUÇÃO: um garanhão/erguer/arranjar/estabilizar/diferenciar/julgar
+骝 | TRADUÇÃO: cavalo baio com crina preta
+腾 | TRADUÇÃO: (forma presa) galopar; empinar/(forma presa) planar; pairar/abrir espaço; desocupar; desocupar/(sufixo verbal que indica ação repetida)
+腾出 | TRADUÇÃO: disponibilizar (algum tempo ou espaço) (para alguém)
+腾出手 | TRADUÇÃO: ficar com as mãos livres (para fazer outra coisa)
+腾挪 | TRADUÇÃO: mover/deslocar/sair do caminho/desviar (dinheiro etc.) para uma finalidade diferente
+腾格里 | TRADUÇÃO: Tengri, deus do céu na mitologia mongol e turcomana
+腾格里沙漠 | TRADUÇÃO: Deserto de Tengger, localizado na Mongólia Interior e Ningxia
+腾空 | TRADUÇÃO: elevar-se no ar; tornar-se aéreo
+腾空而起 | TRADUÇÃO: (expressão idiomática) elevar-se no ar
+腾冲 | TRADUÇÃO: ver 騰衝市|腾冲市
+腾冲市 | TRADUÇÃO: Tengchong, uma cidade a nível de condado na cidade de Baoshan 保山市, Yunnan
+腾讯 | TRADUÇÃO: Tencent, conglomerado chinês de tecnologia, fundado em 1998
+腾越 | TRADUÇÃO: pular por cima/saltar/voar por cima
+腾飞 | TRADUÇÃO: lit. voar rapidamente para cima/fig. avanço rápido/situação (em rápido desenvolvimento)
+腾腾 | TRADUÇÃO: fumegante/ácido
+腾骧 | TRADUÇÃO: (literário) galopar/carregar para frente
+𫘬 | TRADUÇÃO: (literário) cavalo com patas dianteiras brancas
+𫘪 | TRADUÇÃO: cavalo castanho-aveia com barriga branca
+驺 | TRADUÇÃO: sobrenome Zou‖ cocheiro ou condutor de carruagem empregado por um nobre (antigo)
+驺从 | TRADUÇÃO: escolta montada
+驺虞 | TRADUÇÃO: zouyu (animal mítico)/funcionário responsável por animais de parque/nome de uma melodia cerimonial arcaica
+骚 | TRADUÇÃO: (forma presa) perturbar; interromper/namoradeiro; coquete/abr. de 離騷|离骚/(literário) escritos literários; poesia/cheiro fétido (variante de 臊)/(dialetal) (de certos animais domésticos) macho
+骚乱 | TRADUÇÃO: distúrbio; motim/criar uma perturbação
+骚乱者 | TRADUÇÃO: um amotinado
+骚动 | TRADUÇÃO: distúrbio; tumulto/CL:陣|阵/tornar-se inquieto
+骚包 | TRADUÇÃO: (gíria) sedutor/chamativo/pessoa chamativa e sedutora/Jezabel pintada
+骚味 | TRADUÇÃO: cheiro fétido
+骚客 | TRADUÇÃO: (literário) poeta/literato
+骚情 | TRADUÇÃO: frívolo/namoradeiro
+骚扰 | TRADUÇÃO: perturbar/causar comoção/assediar
+骚扰客蚤 | TRADUÇÃO: Xenopsylla vexabilis
+骚搅 | TRADUÇÃO: perturbar; importunar
+骚然 | TRADUÇÃO: turbulento
+骚瑞 | TRADUÇÃO: (empréstimo) desculpe
+骚话 | TRADUÇÃO: obscenidades/palavrões
+骚货 | TRADUÇÃO: mulher vulgar; piranha
+骚驴 | TRADUÇÃO: asno
+骚体 | TRADUÇÃO: poesia no estilo de 離騷|离骚
+骚闹 | TRADUÇÃO: barulhento; fazer alarido
+骟 | TRADUÇÃO: castrar
+騺 | TRADUÇÃO: cavalo pesado/cavalo incapaz de se mover devido a perna torcida/andar pesadamente
+骡 | TRADUÇÃO: mula/CL:匹,頭|头‖ variante de 騾|骡
+骡子 | TRADUÇÃO: mula/CL:匹,頭|头
+骡马 | TRADUÇÃO: animal de carga/cavalo e mula
+骡马大车 | TRADUÇÃO: carroças de mulas e cavalos
+蓦 | TRADUÇÃO: saltar sobre ou por cima/de repente
+蓦地 | TRADUÇÃO: de repente; inesperadamente
+蓦地里 | TRADUÇÃO: de repente; inesperadamente
+蓦然 | TRADUÇÃO: de repente/de repente
+骜 | TRADUÇÃO: um corcel nobre (literário)/(de um cavalo) indomável/(fig.) (de uma pessoa) teimoso/pronúncia em Taiwan [ao2]
+骖 | TRADUÇÃO: cavalos laterais de uma parelha de 4
+骠 | TRADUÇÃO: cavalo branco
+骢 | TRADUÇÃO: cavalo baio
+驱使 | TRADUÇÃO: incitar/estimular/incentivar/mandar alguém fazer algo
+驱力 | TRADUÇÃO: (psicológico) força motriz/impulso
+驱动 | TRADUÇÃO: acionar/impulsionar/unidade (roda de veículo)/mecanismo de acionamento (fita ou disco)/driver de dispositivo (software de computação)
+驱动力 | TRADUÇÃO: força motriz
+驱动器 | TRADUÇÃO: unidade
+驱动程序 | TRADUÇÃO: driver de dispositivo (software de computação)
+驱动轮 | TRADUÇÃO: roda motriz
+驱寒 | TRADUÇÃO: aquecer-se/expelir o frio (MTC)
+驱役 | TRADUÇÃO: mandar (alguém) fazer algo/(por extensão) colocar em uso
+驱散 | TRADUÇÃO: dispersar (uma multidão etc.)/(fig.) dissipar (dúvidas etc.)
+驱病 | TRADUÇÃO: afasta doenças
+驱瘟 | TRADUÇÃO: expelir pestes
+驱策 | TRADUÇÃO: incitar (alguém a fazer algo)/impulsionar (alguém a tomar uma ação)
+驱蚊 | TRADUÇÃO: repelir mosquitos
+驱虫 | TRADUÇÃO: repelir insetos/desparasitar
+驱走 | TRADUÇÃO: espantar/afugentar
+驱赶 | TRADUÇÃO: dirigir (veículo)/expulsar/afugentar/tocar (pessoas em direção a um portão)
+驱车 | TRADUÇÃO: ir de carro (como motorista ou passageiro)
+驱逐 | TRADUÇÃO: expulsar/deportar/banimento
+驱逐令 | TRADUÇÃO: ordem de banimento/mandado de expulsão
+驱逐出境 | TRADUÇÃO: deportar/expulsar
+驱逐舰 | TRADUÇÃO: contratorpedeiro (navio de guerra)
+驱邪 | TRADUÇÃO: exorcizar/exorcismo
+驱除 | TRADUÇÃO: afugentar/dissipar/expulsar
+驱除鞑虏 | TRADUÇÃO: expulsar os manchus, slogan revolucionário de cerca de 1900
+驱离 | TRADUÇÃO: afugentar/dissipar
+驱魔 | TRADUÇÃO: exorcizar/expulsar demônios
+驱魔赶鬼 | TRADUÇÃO: exorcizar/expulsar espíritos malignos
+驆 | TRADUÇÃO: usado em transliterações de textos budistas
+驈 | TRADUÇÃO: cavalo preto com patas brancas
+骅 | TRADUÇÃO: cavalo alazão
+骕 | TRADUÇÃO: usado em 驌驦|骕骦
+骕骦 | TRADUÇÃO: (literário) bom cavalo
+骁 | TRADUÇÃO: bom cavalo/valente
+骁勇善战 | TRADUÇÃO: ser corajoso e bom em combate (expressão idiomática)
+骁将 | TRADUÇÃO: general valente
+𬴊 | TRADUÇÃO: (literário) cavalo malhado
+骣 | TRADUÇÃO: (literário) montar a cavalo sem sela
+骣骑 | TRADUÇÃO: montar sem sela
+驒 | TRADUÇÃO: (cavalo)
+驔 | TRADUÇÃO: cavalo preto
+骄 | TRADUÇÃO: orgulhoso/arrogante
+骄人 | TRADUÇÃO: digno de orgulho/impressionante/invejável/mostrar desprezo pelos outros
+骄傲 | TRADUÇÃO: orgulho/arrogância/vaidoso/orgulhoso de algo
+骄兵必败 | TRADUÇÃO: lit. um exército arrogante está fadado a perder (expressão idiomática)/fig. a soberba precede a queda
+骄奢淫佚 | TRADUÇÃO: variante de 驕奢淫逸|骄奢淫逸
+骄奢淫逸 | TRADUÇÃO: extravagante e dissoluto/decadente
+骄横 | TRADUÇÃO: arrogante/arrogante e autoritário
+骄气 | TRADUÇÃO: arrogância
+骄矜 | TRADUÇÃO: altivo/orgulhoso
+骄纵 | TRADUÇÃO: arrogante e voluntarioso
+骄者必败 | TRADUÇÃO: o orgulho precede a queda (expressão idiomática)
+骄阳 | TRADUÇÃO: sol escaldante
+骄阳似火 | TRADUÇÃO: o sol brilha com força
+驖 | TRADUÇÃO: cavalo marrom-escuro
+验伤 | TRADUÇÃO: examinar uma ferida ou lesão (geralmente para fins forenses)
+验光 | TRADUÇÃO: exame de vista/optometria
+验光师 | TRADUÇÃO: optometrista
+验光法 | TRADUÇÃO: optometria; teste de vista
+验光配镜业 | TRADUÇÃO: optometria/teste de vista
+验光配镜法 | TRADUÇÃO: optometria/teste de vista
+验孕 | TRADUÇÃO: fazer um teste de gravidez
+验孕棒 | TRADUÇÃO: teste de gravidez caseiro
+验定 | TRADUÇÃO: concluir algo após examinar/ensaiar (quimicamente)
+验尿 | TRADUÇÃO: fazer exame de urina
+验尸 | TRADUÇÃO: autópsia/exame post mortem
+验尸官 | TRADUÇÃO: legista
+验收 | TRADUÇÃO: inspecionar e aceitar/aceitação
+验方 | TRADUÇÃO: receita médica testada e comprovada
+验明 | TRADUÇÃO: constatar/identificar/verificar (a identidade de alguém etc.)
+验明正身 | TRADUÇÃO: identificar/verificar a identidade de alguém/identificação
+验核 | TRADUÇÃO: verificar/examinar/inspecionar
+验票 | TRADUÇÃO: verificar bilhetes
+验算 | TRADUÇÃO: verificar um cálculo/dupla verificação
+验血 | TRADUÇÃO: fazer exame de sangue
+验证 | TRADUÇÃO: inspecionar e verificar/verificação experimental/validar (uma teoria)/autenticar
+验证码 | TRADUÇÃO: código de verificação/CAPTCHA, um tipo de teste de desafio-resposta (computação)
+验货 | TRADUÇÃO: inspeção de mercadorias
+验资 | TRADUÇÃO: verificação de capital/certificação de capital registrado
+验钞器 | TRADUÇÃO: máquina de contar dinheiro e detectar notas falsas
+验钞机 | TRADUÇÃO: dispositivo usado para verificar dinheiro e detectar notas falsas
+验关 | TRADUÇÃO: inspeção aduaneira (na fronteira)
+验电器 | TRADUÇÃO: eletroscópio
+驙 | TRADUÇÃO: (cavalo)
+惊 | TRADUÇÃO: assustar/ficar assustado/ficar amedrontado/alarme
+惊世骇俗 | TRADUÇÃO: universalmente chocante/ofender toda a sociedade
+惊人 | TRADUÇÃO: surpreendente/impressionante
+惊人之举 | TRADUÇÃO: surpreender as pessoas (com um feito milagroso)
+惊动 | TRADUÇÃO: alarmar/assustar/incomodar
+惊厥 | TRADUÇÃO: desmaiar de medo/(medicina) convulsões
+惊叫 | TRADUÇÃO: gritar de medo
+惊呆 | TRADUÇÃO: estarrecido/atônito
+惊呼 | TRADUÇÃO: gritar de alarme ou surpresa
+惊喜 | TRADUÇÃO: bela surpresa/ficar agradavelmente surpreso
+惊喜若狂 | TRADUÇÃO: agradavelmente surpreso como um louco (expressão idiomática); pular de alegria loucamente/expressar alegria imensa
+惊叹 | TRADUÇÃO: exclamar admiração/suspiro de surpresa
+惊叹不已 | TRADUÇÃO: exclamar espantado
+惊叹号 | TRADUÇÃO: ponto de exclamação (!)
+惊吓 | TRADUÇÃO: assustar/horrortificar/aterrorizar
+惊梦 | TRADUÇÃO: despertar de um sonho
+惊天动地 | TRADUÇÃO: (expressão idiomática) abalar o mundo
+惊奇 | TRADUÇÃO: ficar surpreso/ficar admirado/espantar-se
+惊师动众 | TRADUÇÃO: alarmar todos/escandalizar o público
+惊弓之鸟 | TRADUÇÃO: (lit.) um pássaro assustado com o simples estalo de um arco (expressão idiomática)/(fig.) alguém que se assusta facilmente devido a experiências passadas
+惊心 | TRADUÇÃO: estarrecedor/chocante/assustado
+惊心动魄 | TRADUÇÃO: (expressão idiomática) de parar o coração; de arrepiar os cabelos; de tirar o fôlego
+惊心胆颤 | TRADUÇÃO: assustador/assustado (expressão idiomática)
+惊怕 | TRADUÇÃO: alarmado/amedrontado
+惊怖 | TRADUÇÃO: surpreender
+惊急 | TRADUÇÃO: atordoado e ansioso
+惊怪 | TRADUÇÃO: maravilhar-se
+惊怯 | TRADUÇÃO: covarde e em pânico
+惊恐 | TRADUÇÃO: alarmado/amedrontado
+惊恐翼龙 | TRADUÇÃO: Phobetor (gênero de pterossauro pterodactilóide)
+惊恐万状 | TRADUÇÃO: convulsionado de medo (expressão idiomática)
+惊悉 | TRADUÇÃO: ficar chocado ao saber
+惊悚 | TRADUÇÃO: terror (filme)/suspense
+惊悟 | TRADUÇÃO: cair em si de repente/perceber de súbito
+惊悸 | TRADUÇÃO: trêmulo de medo/coração palpitante de medo
+惊惕 | TRADUÇÃO: alarmado/em alerta
+惊惶 | TRADUÇÃO: aterrorizado
+惊惶失措 | TRADUÇÃO: veja 驚慌失措|惊慌失措
+惊愕 | TRADUÇÃO: (literário) estarrecido; estupefato
+惊栗 | TRADUÇÃO: terror (gênero)/tremer de medo
+惊慌 | TRADUÇÃO: entrar em pânico/ficar alarmado
+惊慌失措 | TRADUÇÃO: perder a cabeça por medo (expressão idiomática)
+惊慌失色 | TRADUÇÃO: ficar pálido de pânico (expressão idiomática)
+惊惧 | TRADUÇÃO: alarmado/aterrorizado
+惊扰 | TRADUÇÃO: alarmar/perturbar
+惊槑 | TRADUÇÃO: (gíria da internet) estupefato/estarrecido
+惊涛 | TRADUÇÃO: ondas furiosas/ondas tempestuosas
+惊涛骇浪 | TRADUÇÃO: situação perigosa
+惊为天人 | TRADUÇÃO: (lit.) ficar atônito como se visse um ser celestial (expressão idiomática)/(fig.) ficar pasmo com a beleza ou excelência extraordinária de alguém ou algo
+惊爆 | TRADUÇÃO: inesperado/estarrecedor (notícias etc.)
+惊现 | TRADUÇÃO: aparecer inesperadamente
+惊异 | TRADUÇÃO: admirado
+惊疑 | TRADUÇÃO: perplexo
+惊痫 | TRADUÇÃO: epilepsia
+惊群动众 | TRADUÇÃO: alarmar a todos/escandalizar o público
+惊羡 | TRADUÇÃO: maravilhar-se com
+惊艳 | TRADUÇÃO: variante de 驚豔|惊艳 ‖ muito impressionado; estupefato; admirado/assombrar; impressionar profundamente
+惊蛰 | TRADUÇÃO: Jingzhe ou Despertar dos Insetos, 3º dos 24 termos solares 二十四節氣|二十四节气 6 a 20 de março
+惊觉 | TRADUÇÃO: perceber de repente/acordar sobressaltado
+惊讶 | TRADUÇÃO: admirado/assombrado/surpreender/impressionante/assombro/reverência
+惊诧 | TRADUÇÃO: surpreso/admirado/estarrecido
+惊赏 | TRADUÇÃO: surpreso e admirado/apreciar com surpresa
+惊起 | TRADUÇÃO: dar um sobressalto/espantar (um animal etc.)
+惊跳 | TRADUÇÃO: assustar-se; dar um susto
+惊车 | TRADUÇÃO: carro desgovernado (causado por animal atrelado que dispara de medo)
+惊逃 | TRADUÇÃO: debandar em pânico
+惊遽 | TRADUÇÃO: em pânico/estarrecido
+惊醒 | TRADUÇÃO: despertar/ser acordado por algo/acordar sobressaltado/dormir leve
+惊错 | TRADUÇÃO: perplexo/surpreso e desnorteado
+惊险 | TRADUÇÃO: perigoso; arriscado; tenso; de suspense
+惊险片 | TRADUÇÃO: (cinema) suspense; filme de suspense
+惊雷 | TRADUÇÃO: trovão repentino/fig. reviravolta surpreendente
+惊颤 | TRADUÇÃO: tremer de medo
+惊风 | TRADUÇÃO: convulsão infantil (doença que afeta crianças, especialmente abaixo de cinco anos, marcada por espasmos musculares)
+惊飞 | TRADUÇÃO: sair como um foguete; disparar
+惊马 | TRADUÇÃO: cavalo espantado
+惊骇 | TRADUÇÃO: chocado/horrorizado/aterrorizado
+惊魂 | TRADUÇÃO: em estado de pânico/amedrontado
+惊魂甫定 | TRADUÇÃO: ter acabado de se recuperar de um choque
+惊鸟 | TRADUÇÃO: espantar um pássaro para que ele voe
+惊鸿 | TRADUÇÃO: gracioso (especialmente postura feminina)/ágil
+驿 | TRADUÇÃO: cavalo de posta/estação de revezamento
+驿传 | TRADUÇÃO: serviço postal de correio a cavalo (antigamente)
+驿城 | TRADUÇÃO: veja 驛城區|驿城区
+驿城区 | TRADUÇÃO: Yicheng, um distrito da cidade de Zhumadian 駐馬店市|驻马店市, Henan
+驿站 | TRADUÇÃO: estação de revezamento para cavalos de posta (antigo)
+驿马 | TRADUÇÃO: cavalo de posta
+骤 | TRADUÇÃO: súbito/inesperado/abrupto/subitamente/pronúncia em Taiwan [zou4]
+骤死 | TRADUÇÃO: morte súbita (desempate em competição esportiva)
+骤死式 | TRADUÇÃO: estilo de desempate por morte súbita (competição esportiva)
+骤减 | TRADUÇÃO: diminuir rapidamente; cair vertiginosamente
+骤然 | TRADUÇÃO: subitamente/abruptamente
+骤变 | TRADUÇÃO: mudar subitamente; mudar abruptamente
+骤降 | TRADUÇÃO: cair rapidamente; despencar
+骤雨 | TRADUÇÃO: pancada de chuva repentina; chuva forte e breve
+驴友 | TRADUÇÃO: mochileiro/companheiro de viagem
+驴唇不对马嘴 | TRADUÇÃO: (lit.) os lábios de um burro não combinam com a boca de um cavalo (ditado)/(fig.) fora do alvo; irrelevante; incongruente
+驴子 | TRADUÇÃO: burro; asno
+驴年马月 | TRADUÇÃO: veja 猴年馬月|猴年马月
+驴肝肺 | TRADUÇÃO: (lit.) fígado e pulmões de burro; (fig.) má intenção
+驴唇马嘴 | TRADUÇÃO: veja 驢唇不對馬嘴|驴唇不对马嘴
+驴驹子 | TRADUÇÃO: potro de burro
+驴骡 | TRADUÇÃO: bardoto
+骧 | TRADUÇÃO: (literário) correr brincalhão (de um cavalo)/erguer/manter alto
+骥 | TRADUÇÃO: cavalo de raça/refinado e virtuoso
+骥骜 | TRADUÇÃO: bom cavalo/cavalo de raça
+骦 | TRADUÇÃO: usado em 驌驦|骕骦
+骊 | TRADUÇÃO: cavalo preto/cavalo veloz/bom cavalo/dragão negro lendário
+骊姬之乱 | TRADUÇÃO: Rebelião de Li Ji em 657-651 a.C., onde a concubina Li Ji tentou colocar seu filho no trono, mas foi eventualmente derrotada pelo Duque Wen de Jin 晉文公|晋文公
+骊山 | TRADUÇÃO: Monte Li perto de Xi'an com o túmulo do Primeiro Imperador
+骊黄牝牡 | TRADUÇÃO: um garanhão preto ou possivelmente uma égua amarela (expressão idiomática); não julgue pela aparência
+骉 | TRADUÇÃO: uma manada de cavalos
+骨 | TRADUÇÃO: usado em 骨碌碌/usado em 骨碌/usado em 骨朵 ‖ osso
+骨刺 | TRADUÇÃO: esporão/proeminência óssea
+骨刻 | TRADUÇÃO: entalhe em osso
+骨力 | TRADUÇÃO: (caligrafia chinesa) vigor das pinceladas/fortitude; coragem; fibra
+骨化 | TRADUÇÃO: ossificar/ossificação
+骨器 | TRADUÇÃO: ferramenta de osso (arqueologia)
+骨子 | TRADUÇÃO: costelas/armação
+骨子里 | TRADUÇÃO: por baixo da superfície; fundamentalmente; no nível mais profundo
+骨干 | TRADUÇÃO: diáfise (segmento longo de um osso)/fig. espinha dorsal; base
+骨干网路 | TRADUÇÃO: rede backbone
+骨感 | TRADUÇÃO: ossudo; magro
+骨折 | TRADUÇÃO: sofrer uma fratura/(de um osso) quebrar/fratura
+骨料 | TRADUÇÃO: agregado (areia ou cascalho usado em concreto 混凝土)
+骨朵 | TRADUÇÃO: (coloq.) botão de flor ‖ clava (arma antiga em forma de bastão com ponta em forma de melão)/(botão de) flor
+骨架 | TRADUÇÃO: estrutura/esqueleto
+骨殖 | TRADUÇÃO: restos esqueléticos/pronúncia em Taiwan [gu3 zhi2]
+骨气 | TRADUÇÃO: caráter inflexível/espírito corajoso/integridade/força moral
+骨水泥 | TRADUÇÃO: cimento ósseo/cimento ortopédico
+骨法 | TRADUÇÃO: estrutura óssea e fisionomia/a força observada nas pinceladas (caligrafia chinesa)
+骨灰 | TRADUÇÃO: cinzas de ossos/cinzas crematórias; restos mortais cremados
+骨灰盒 | TRADUÇÃO: urna funerária/caixa para cinzas
+骨灰龛 | TRADUÇÃO: columbário
+骨炭 | TRADUÇÃO: negro de osso/carvão animal
+骨烬 | TRADUÇÃO: ossos e cinzas/restos mortais (após a cremação budista)
+骨片 | TRADUÇÃO: espícula
+骨牌 | TRADUÇÃO: dominó
+骨牌效应 | TRADUÇÃO: efeito dominó/efeito cascata
+骨瓷 | TRADUÇÃO: porcelana de osso (porcelana branca fina feita de uma mistura de argila e cinza de osso)
+骨病 | TRADUÇÃO: osteopatia
+骨痛热症 | TRADUÇÃO: dengue/febre quebra-ossos
+骨瘤 | TRADUÇÃO: osteoma (tumor benigno composto de tecido semelhante a osso)
+骨瘦如柴 | TRADUÇÃO: (expressão idiomática) magro como um palito; emaciado
+骨瘦如豺 | TRADUÇÃO: variante de 骨瘦如柴
+骨盆 | TRADUÇÃO: pelve
+骨盆底 | TRADUÇÃO: assoalho pélvico (anatomia)
+骨盘 | TRADUÇÃO: pelve (Taiwan)
+骨碌 | TRADUÇÃO: rolar rapidamente; girar
+骨碌碌 | TRADUÇÃO: (onom.) rolando; girando
+骨科 | TRADUÇÃO: ortopedia/cirurgia ortopédica
+骨立 | TRADUÇÃO: (literário) emaciado; descarnado
+骨节 | TRADUÇÃO: articulação (do esqueleto)
+骨粉 | TRADUÇÃO: farinha de osso
+骨坛 | TRADUÇÃO: urna
+骨肉 | TRADUÇÃO: parentesco consanguíneo/parente/própria carne e sangue
+骨肉相残 | TRADUÇÃO: parentes próximos se matam (expressão idiomática); conflito interno; luta fratricida
+骨肉相连 | TRADUÇÃO: lit. inter-relacionados como ossos e carne (expressão idiomática); inseparavelmente relacionados/estreitamente entrelaçados
+骨肥厚 | TRADUÇÃO: hiperostose (espessamento anormal do osso)
+骨膜 | TRADUÇÃO: (anatomia) periósteo
+骨胶原 | TRADUÇÃO: colágeno (proteína)
+骨董 | TRADUÇÃO: variante de 古董
+骨血 | TRADUÇÃO: carne e sangue/própria prole
+骨裂 | TRADUÇÃO: fratura óssea/(de um osso) fraturar
+骨质增生 | TRADUÇÃO: (medicina) hiperostose
+骨质疏松 | TRADUÇÃO: osteoporose
+骨质疏松症 | TRADUÇÃO: osteoporose
+骨赘 | TRADUÇÃO: (medicina) osteófito; esporão ósseo
+骨都都 | TRADUÇÃO: (onom.) para som de mergulho ou plop
+骨针 | TRADUÇÃO: espícula (em biologia)/agulha de osso (em arqueologia)
+骨关节炎 | TRADUÇÃO: osteoartrite
+骨顶鸡 | TRADUÇÃO: (espécie de ave da China) galeirão-comum (Fulica atra)
+骨头 | TRADUÇÃO: osso/CL:根,塊|块/caráter moral/amargor
+骨头架子 | TRADUÇÃO: esqueleto/pessoa muito magra/mero esqueleto
+骨头节儿 | TRADUÇÃO: articulação (do esqueleto)
+骨骸 | TRADUÇÃO: ossos/esqueleto
+骨骺 | TRADUÇÃO: (anatomia) epífise
+骨骺线 | TRADUÇÃO: (anatomia) linha epifisária
+骨骼 | TRADUÇÃO: ossos/esqueleto
+骨骼肌 | TRADUÇÃO: músculo estriado
+骨髓 | TRADUÇÃO: medula óssea
+骨髓增生异常综合征 | TRADUÇÃO: síndrome mielodisplásica (SMD)
+骨髓移植 | TRADUÇÃO: (medicina) transplante de medula óssea
+骨髓腔 | TRADUÇÃO: (anatomia) cavidade medular; cavidade medular de um osso
+骨鲠 | TRADUÇÃO: espinha de peixe/osso preso na garganta/algo que se sente obrigado a dizer/falante sincero
+骨鲠之臣 | TRADUÇÃO: lit. espinha de peixe de um ministro (expressão idiomática); fig. pessoa em quem se pode confiar para críticas sinceras
+骨鲠在喉 | TRADUÇÃO: espinha de peixe presa na garganta (expressão idiomática); fig. sentir-se obrigado a falar com franqueza/algo na mente
+骨龄 | TRADUÇÃO: (medicina) idade óssea
+骫 | TRADUÇÃO: ser curvado/torto (de ossos)
+骭 | TRADUÇÃO: tíbia
+肮 | TRADUÇÃO: usado em 骯髒|肮脏
+肮脏 | TRADUÇÃO: sujo; imundo/desprezível
+骰 | TRADUÇÃO: dado (de jogo)
+骰塔 | TRADUÇÃO: torre de dados
+骰子 | TRADUÇÃO: dados (de jogo)
+骰盅 | TRADUÇÃO: copo de dados
+骰钟 | TRADUÇÃO: variante de 骰盅
+骱 | TRADUÇÃO: articulação de ossos
+骴 | TRADUÇÃO: uma carcaça putrefata
+骶 | TRADUÇÃO: (forma presa) sacro
+骶骨 | TRADUÇÃO: (anatomia) sacro
+骷 | TRADUÇÃO: usado em 骷髏|骷髅
+骷髅 | TRADUÇÃO: esqueleto humano/crânio humano
+骷髅头 | TRADUÇÃO: caveira; representação do crânio de um morto
+骸 | TRADUÇÃO: ossos do corpo
+骸骨 | TRADUÇÃO: esqueleto/restos mortais esqueléticos
+骹 | TRADUÇÃO: canela (a perna do joelho ao tornozelo)/perna (do quadril ao tornozelo)/(anatomia equina) quartela
+骺 | TRADUÇÃO: (anatomia) epífise
+骺软骨板 | TRADUÇÃO: placa epifisária/placa de crescimento (osso)
+骼 | TRADUÇÃO: usado em 骨骼
+鲠 | TRADUÇÃO: engasgar com um pedaço de comida ‖ engasgar com um pedaço de comida/(literário) uma espinha de peixe presa na garganta
+髀 | TRADUÇÃO: nádegas/coxa
+髁 | TRADUÇÃO: côndilos
+髂 | TRADUÇÃO: ílio/osso mais externo da cintura pélvica
+髂窝 | TRADUÇÃO: fossa ilíaca (anatomia)/bacia pélvica interna ao ílio
+髂骨 | TRADUÇÃO: ílio (o osso grande e chato da cintura pélvica)
+髄 | TRADUÇÃO: variante de 髓
+髆 | TRADUÇÃO: omoplata
+髈 | TRADUÇÃO: (dialeto) coxa
+髍 | TRADUÇÃO: paralisia de um lado do corpo
+髎 | TRADUÇÃO: (literário) osso do quadril/(MTC) espaço entre duas articulações
+髅 | TRADUÇÃO: usado em 髑髏|髑髅 e 骷髏|骷髅
+髇 | TRADUÇÃO: (onom.) som de flechas
+髑 | TRADUÇÃO: usado em 髑髏|髑髅
+髑髅 | TRADUÇÃO: (literário) crânio (de um morto)
+脏乱 | TRADUÇÃO: sujo e desordenado/uma bagunça
+脏乱差 | TRADUÇÃO: (coloq.) sórdido/porcaria; imundície
+脏兮兮 | TRADUÇÃO: sujo/imundo
+脏土 | TRADUÇÃO: solo sujo/lama/lixo
+脏字 | TRADUÇÃO: obscenidade/palavrão
+脏弹 | TRADUÇÃO: bomba suja
+脏标 | TRADUÇÃO: selo de Orientação Parental (RP China)
+脏水 | TRADUÇÃO: água suja/esgoto/águas residuais
+脏污 | TRADUÇÃO: sujeira/lama/sujidade/sujo/imundo
+脏煤 | TRADUÇÃO: carvão sujo/refugo de mina
+脏病 | TRADUÇÃO: (coloq.) doença venérea
+脏话 | TRADUÇÃO: palavrão/linguagem obscena/falar obscenidades
+脏辫 | TRADUÇÃO: dreadlocks
+脏脏 | TRADUÇÃO: sujo/imundo
+脏脏包 | TRADUÇÃO: pão doce recheado de chocolate e coberto com cacau
+髓 | TRADUÇÃO: (forma presa) medula óssea/(fig.) cerne/(botânica) medula
+髓结 | TRADUÇÃO: nó medular (em madeira)
+髓脑 | TRADUÇÃO: cérebro/massa cinzenta
+髓过氧化物酶 | TRADUÇÃO: mieloperoxidase (também MPO) (biologia molecular)
+髓鞘 | TRADUÇÃO: bainha de mielina
+体 | TRADUÇÃO: usado em 體己|体己/pronúncia em Taiwan [ti3] ‖ corpo/forma/estilo/sistema/substância/experienciar/aspecto (linguística)
+体位 | TRADUÇÃO: postura (corporal)
+体例 | TRADUÇÃO: estilo (literário)/forma
+体侧 | TRADUÇÃO: lado do corpo
+体内 | TRADUÇÃO: dentro do corpo/in vivo (vs in vitro)/no interior de
+体刑 | TRADUÇÃO: pena corporal
+体制 | TRADUÇÃO: sistema/organização
+体力 | TRADUÇÃO: força física/poder físico
+体力劳动 | TRADUÇÃO: trabalho físico
+体势 | TRADUÇÃO: característica/feição
+体协 | TRADUÇÃO: associação esportiva (abrev. de 體育協會|体育协会)
+体味 | TRADUÇÃO: odor corporal/apreciar um sabor sutil
+体团 | TRADUÇÃO: comunidade
+体型 | TRADUÇÃO: biotipo/tipo físico
+体壁 | TRADUÇÃO: tegumento (biologia)
+体坛 | TRADUÇÃO: círculos esportivos/mundo do esporte
+体外 | TRADUÇÃO: fora do corpo/in vitro
+体外受精 | TRADUÇÃO: fertilização in vitro
+体大思精 | TRADUÇÃO: extenso e penetrante (expressão idiomática); profundo e abrangente (de escrita)
+体察 | TRADUÇÃO: experimentar/observar
+体己 | TRADUÇÃO: íntimo/economias privadas de familiares
+体己钱 | TRADUÇÃO: economias privadas de familiares próximos
+体式 | TRADUÇÃO: (de caracteres) forma; estilo (cursivo, impresso etc)/(de obra literária) forma; estilo; gênero
+体弱 | TRADUÇÃO: debilidade/fraqueza
+体弱多病 | TRADUÇÃO: propenso a doenças/enfermiço/de saúde frágil
+体形 | TRADUÇÃO: figura/forma corporal
+体彩 | TRADUÇÃO: loteria esportiva (apostas esportivas administradas por agência governamental, China Sports Lottery) (abrev. de 體育彩票|体育彩票)
+体征 | TRADUÇÃO: (médico) sinal/sinal físico
+体念 | TRADUÇÃO: considerar a posição alheia/colocar-se no lugar de outro
+体性 | TRADUÇÃO: disposição/índole
+体恤 | TRADUÇÃO: empatizar; mostrar solicitude/(empréstimo) camiseta T-shirt
+体恤入微 | TRADUÇÃO: enfatizar até o mínimo detalhe (expressão idiomática); demonstrar toda consideração possível/cuidado meticuloso
+体恤衫 | TRADUÇÃO: camiseta T-shirt/CL:件
+体悟 | TRADUÇÃO: experienciar/perceber/compreender
+体惜 | TRADUÇÃO: empatizar/compreender e simpatizar
+体感 | TRADUÇÃO: sensação física/somestesia/detecção de movimento (em jogos)
+体感温度 | TRADUÇÃO: temperatura aparente (meteorologia)
+体态 | TRADUÇÃO: figura/físico/postura
+体操 | TRADUÇÃO: ginástica
+体操运动员 | TRADUÇÃO: ginasta
+体操队 | TRADUÇÃO: equipe de ginástica
+体书 | TRADUÇÃO: estilo caligráfico
+体会 | TRADUÇÃO: saber por experiência/aprender pela experiência/realizar/entendimento/experiência
+体校 | TRADUÇÃO: escola de esportes; escola de educação física (abrev. de 體育學校|体育学校)
+体格 | TRADUÇÃO: saúde física/estado físico/físico
+体格检查 | TRADUÇÃO: exame físico/exame clínico/check-up de saúde
+体模 | TRADUÇÃO: modelo corporal
+体检 | TRADUÇÃO: abrev. de 體格檢查|体格检查
+体毛 | TRADUÇÃO: pelo corporal
+体液 | TRADUÇÃO: fluido corporal
+体测 | TRADUÇÃO: teste de aptidão física/fazer um teste de aptidão física
+体温 | TRADUÇÃO: temperatura (corporal)
+体温检测仪 | TRADUÇÃO: termômetro infravermelho/pistola de temperatura
+体温表 | TRADUÇÃO: termômetro clínico
+体温计 | TRADUÇÃO: termômetro clínico
+体无完肤 | TRADUÇÃO: lit. cheio de cortes e hematomas (expressão idiomática); fig. totalmente refutado
+体现 | TRADUÇÃO: incorporar/refletir/encarnar
+体癣 | TRADUÇÃO: tinha/Tinea corporis
+体积 | TRADUÇÃO: volume (espaço ocupado por um objeto)
+体积单位 | TRADUÇÃO: unidade de volume
+体系 | TRADUÇÃO: sistema/estrutura/CL:個|个
+体细胞 | TRADUÇÃO: célula somática
+体统 | TRADUÇÃO: decoro/propriedade/forma ou disposição (de obra escrita)
+体罚 | TRADUÇÃO: castigo corporal; infligir punição física a (alguém)
+体育 | TRADUÇÃO: esportes/educação física
+体育场 | TRADUÇÃO: estádio/CL:個|个,座
+体育场馆 | TRADUÇÃO: ginásio
+体育比赛 | TRADUÇÃO: competição esportiva
+体育活动 | TRADUÇÃO: esportes/atividade esportiva
+体育渣 | TRADUÇÃO: pessoa sem aptidão esportiva
+体育生 | TRADUÇÃO: estudante que treina regularmente para um esporte/estudante que tem educação física como matéria
+体育界 | TRADUÇÃO: círculos esportivos/mundo esportivo
+体育系 | TRADUÇÃO: departamento de Educação Física
+体育运动 | TRADUÇÃO: esportes; atividades atléticas
+体育达标测验 | TRADUÇÃO: teste de aptidão física (para estudantes etc)
+体育锻炼 | TRADUÇÃO: exercício físico
+体育项目 | TRADUÇÃO: evento esportivo
+体育馆 | TRADUÇÃO: academia/ginásio/estádio/CL:個|个
+体能 | TRADUÇÃO: capacidade física/condicionamento
+体脂 | TRADUÇÃO: gordura corporal
+体腔 | TRADUÇÃO: cavidade corporal/celoma (biologia)
+体肤 | TRADUÇÃO: pele/carne/corpo
+体臭 | TRADUÇÃO: odor corporal (desagradável)
+体虱 | TRADUÇÃO: piolho do corpo
+体表 | TRADUÇÃO: superfície do corpo/periferia do corpo/termômetro corporal/(literário) aparência de uma pessoa
+体裁 | TRADUÇÃO: gênero/estilo/forma de escrita
+体认 | TRADUÇÃO: compreender/conscientização
+体谅 | TRADUÇÃO: compreender/ter consideração (por algo)/mostrar entendimento/apreciar
+体貌 | TRADUÇÃO: aparência
+体贴 | TRADUÇÃO: atencioso (com as necessidades dos outros)
+体贴入微 | TRADUÇÃO: mostrar toda a consideração possível (expressão idiomática); cuidado meticuloso
+体质 | TRADUÇÃO: constituição (de uma pessoa); condição física subjacente/composição física/ (de uma organização, sociedade etc) solidez estrutural
+体适能 | TRADUÇÃO: aptidão física
+体重 | TRADUÇÃO: peso corporal
+体重器 | TRADUÇÃO: balança para medir peso corporal; balança de banheiro
+体重秤 | TRADUÇÃO: balança para medir peso corporal; balança de banheiro
+体重计 | TRADUÇÃO: balança para medir peso corporal; balança de banheiro
+体量 | TRADUÇÃO: volume ou tamanho geral (de um edifício etc); escala; quantidade
+体长 | TRADUÇÃO: comprimento do corpo
+体面 | TRADUÇÃO: dignidade; prestígio; face/honroso; respeitável/(da aparência de alguém) apresentável; decente
+体香 | TRADUÇÃO: odor corporal agradável
+体香剂 | TRADUÇÃO: desodorante (pessoal)
+体验 | TRADUÇÃO: experimentar por si mesmo
+体魄 | TRADUÇÃO: físico; compleição
+体鸣乐器 | TRADUÇÃO: idiofone
+髌 | TRADUÇÃO: quebrar a rótula/cortar ou esmagar as rótulas como castigo corporal
+髌骨 | TRADUÇÃO: rótula/patela
+髋 | TRADUÇÃO: pelve/pélvico
+髋关节 | TRADUÇÃO: pelve/articulação do quadril
+髋骨 | TRADUÇÃO: osso do quadril
+高 | TRADUÇÃO: sobrenome Gao ‖ alto/elevado/acima da média/alto/seu (honorífico)
+高䠷 | TRADUÇÃO: (de uma pessoa) esbelto; alto e magro
+高下 | TRADUÇÃO: superioridade relativa (melhor ou pior, mais forte ou mais fraco, acima ou abaixo etc)
+高不可攀 | TRADUÇÃO: alto demais para ser alcançado (expressão idiomática); eminente e inacessível
+高不成低不就 | TRADUÇÃO: não consegue alcançar o alto nem aceitar o baixo (expressão idiomática); não é bom o suficiente para um cargo alto, mas orgulhoso demais para aceitar um baixo
+高不凑低不就 | TRADUÇÃO: não consegue alcançar o alto nem aceitar o baixo (expressão idiomática); não é bom o suficiente para um cargo alto, mas orgulhoso demais para aceitar um baixo
+高中 | TRADUÇÃO: ensino médio (abrev. de 高級中學|高级中学) ‖ passar brilhantemente (usado de forma congratulatória)
+高中学生 | TRADUÇÃO: aluno do ensino médio
+高中生 | TRADUÇÃO: aluno do ensino médio
+高亢 | TRADUÇÃO: agudo e penetrante (instrumento musical, voz etc)/exaltado/de alto astral (atmosfera)
+高亮 | TRADUÇÃO: destacar (computação)/(de som) alto e claro/penetrante
+高人 | TRADUÇÃO: pessoa muito capaz
+高人一等 | TRADUÇÃO: um corte acima dos outros/superior
+高仙芝 | TRADUÇÃO: Gao Xianzhi ou Go Seonji (c. 702-756), general da dinastia Tang de ascendência Goguryeo 高句麗|高句丽, ativo na Ásia Central
+高仿 | TRADUÇÃO: imitação/ falso de qualidade
+高企 | TRADUÇÃO: (de preços etc) permanecer alto
+高估 | TRADUÇÃO: superestimar/supervalorizar
+高位 | TRADUÇÃO: posição elevada/status eminente/cargo de topo/posição elevada/membros (superiores)/um máximo (i.e. máximo local)/ponto alto na escala, nota alta, temperatura, latitude etc
+高低 | TRADUÇÃO: altura; nível; (música) tom/superioridade relativa/propriedade; discrição (geralmente na negativa, como 不知高低)/não importa o quê; simplesmente (não vai..., deve... etc)/finalmente
+高低不就 | TRADUÇÃO: não consegue alcançar o alto nem aceitar o baixo (expressão idiomática); não é bom o suficiente para um cargo alto, mas orgulhoso demais para aceitar um baixo
+高低杠 | TRADUÇÃO: barras assimétricas (ginástica)
+高低潮 | TRADUÇÃO: maré/água alta e baixa
+高保真 | TRADUÇÃO: alta fidelidade/hi-fi
+高个子 | TRADUÇÃO: pessoa alta/(de uma pessoa) alto
+高傲 | TRADUÇÃO: arrogante/altivo/orgulhoso
+高僧 | TRADUÇÃO: um monge sênior
+高价 | TRADUÇÃO: preço alto
+高光 | TRADUÇÃO: realce (em uma foto ou pintura)/(cosméticos) iluminador
+高光时刻 | TRADUÇÃO: destaque; momento glorioso
+高八度 | TRADUÇÃO: uma oitava acima (música)
+高冷 | TRADUÇÃO: reservado/distante/(geografia) (de um local) elevado e frio
+高出 | TRADUÇÃO: ser mais alto (do que o valor declarado) por ...
+高分 | TRADUÇÃO: notas altas/pontuação alta
+高分低能 | TRADUÇÃO: nota alta mas baixa capacidade (como resultado de ensinar para o teste)
+高分子 | TRADUÇÃO: macromolécula/polímero
+高分子化学 | TRADUÇÃO: química dos polímeros
+高分辨率 | TRADUÇÃO: alta resolução
+高利 | TRADUÇÃO: alta taxa de juros/usurário
+高利贷 | TRADUÇÃO: empréstimo a juros altos; usura
+高加索 | TRADUÇÃO: Cáucaso/caucasiano
+高加索山脉 | TRADUÇÃO: Montanhas do Cáucaso
+高勾丽 | TRADUÇÃO: variante de 高句麗|高句丽
+高升 | TRADUÇÃO: conseguir uma promoção
+高卡车 | TRADUÇÃO: (estrangeirismo) go-kart
+高危 | TRADUÇÃO: de alto risco
+高原 | TRADUÇÃO: planalto/CL:片
+高原反应 | TRADUÇÃO: mal da altitude
+高原山鹑 | TRADUÇÃO: (espécie de ave da China) perdiz-tibetana (Perdix hodgsoniae)
+高原岩鹨 | TRADUÇÃO: (espécie de ave da China) acentor-do-altai (Prunella himalayana)
+高参 | TRADUÇÃO: oficial do estado-maior sênior; oficial do estado-maior de grande talento
+高叉泳装 | TRADUÇÃO: maiô de perna alta
+高反 | TRADUÇÃO: mal da altitude (abrev. de 高原反應|高原反应)
+高句丽 | TRADUÇÃO: Goguryeo (37 a.C.-668 d.C.), um dos Três Reinos Coreanos
+高台 | TRADUÇÃO: ver 高台縣|高台县
+高台县 | TRADUÇÃO: Gaotai, um condado em Zhangye City 張掖市|张掖市, Gansu
+高名 | TRADUÇÃO: renome/fama
+高呼 | TRADUÇÃO: gritar alto
+高唐 | TRADUÇÃO: ver 高唐縣|高唐县
+高唐县 | TRADUÇÃO: Gaotang, um condado em Liaocheng City 聊城市, Shandong
+高唱 | TRADUÇÃO: cantar alto/fig. gritar slogans
+高唱入云 | TRADUÇÃO: cantar alto chega às nuvens (expressão idiomática); fig. elogiar aos céus
+高喊 | TRADUÇÃO: gritar alto/levantar um grito/gritar
+高地 | TRADUÇÃO: planalto/terras altas
+高坪 | TRADUÇÃO: ver 高坪區|高坪区
+高坪区 | TRADUÇÃO: Gaoping, um distrito de Nanchong City 南充市, Sichuan
+高城深池 | TRADUÇÃO: muros altos e fosso profundo (expressão idiomática); defesa impenetrável
+高堂 | TRADUÇÃO: salão principal/honorífico para os pais (antigo)
+高塔 | TRADUÇÃO: torre/CL:座
+高压 | TRADUÇÃO: (física) alta pressão/(meteorologia) alta pressão atmosférica/alta voltagem/pressão arterial sistólica/opressivo; tirânico
+高压手段 | TRADUÇÃO: medidas opressivas (com mão pesada)
+高压氧 | TRADUÇÃO: oxigênio hiperbárico/oxigenação hiperbárica/também abrev. de 高壓氧治療|高压氧治疗, terapia hiperbárica
+高压氧治疗 | TRADUÇÃO: medicina hiperbárica/oxigenoterapia hiperbárica (OHB)/também 高壓氧療法|高压氧疗法
+高压氧疗法 | TRADUÇÃO: terapia de oxigênio hiperbárico (TOHB)/também 高壓氧治療|高压氧治疗
+高压清洗机 | TRADUÇÃO: lavadora de alta pressão
+高压线 | TRADUÇÃO: linha de transmissão de alta tensão
+高压锅 | TRADUÇÃO: panela de pressão
+高压电 | TRADUÇÃO: alta tensão
+高寿 | TRADUÇÃO: longevidade/idade avançada/sua venerável idade?
+高大 | TRADUÇÃO: alto/alta estatura/imponente
+高大上 | TRADUÇÃO: (gíria) de alto padrão, elegante e sofisticado/abrev. de 高端大氣上檔次
+高妙 | TRADUÇÃO: magistral/sutil e engenhoso (referente a obra de arte, texto etc.)
+高学历 | TRADUÇÃO: alto nível de escolaridade/formação acadêmica incluindo mestrado ou doutorado
+高安 | TRADUÇÃO: veja 高安市
+高安市 | TRADUÇÃO: Gao'an, cidade administrativa em Yichun 宜春市, Jiangxi
+高宗 | TRADUÇÃO: Gaozong, nome de templo de vários imperadores, notadamente 唐高宗, 宋高宗 e 清高宗 (respectivamente 李治, 趙構 e 乾隆)
+高官 | TRADUÇÃO: alto funcionário
+高官厚禄 | TRADUÇÃO: alto cargo e salário generoso (expressão idiomática); promoção a posição de alto escalão
+高官显爵 | TRADUÇÃO: alto escalão
+高密 | TRADUÇÃO: veja 高密市 ‖ alta densidade
+高密市 | TRADUÇÃO: Gaomi, cidade administrativa em Weifang 濰坊市, Shandong
+高富帅 | TRADUÇÃO: "Sr. Perfeito" (alto, rico e bonito) (gíria de internet)
+高寒 | TRADUÇÃO: alto e gelado (área montanhosa)
+高射机枪 | TRADUÇÃO: metralhadora antiaérea/CL:架
+高射炮 | TRADUÇÃO: canhão antiaéreo
+高尚 | TRADUÇÃO: nobre/elevado/refinado/exímio
+高就 | TRADUÇÃO: assumir um cargo de prestígio/(cortês) trabalhar (como em 您在哪高就 "onde o(a) senhor(a) trabalha?")
+高居 | TRADUÇÃO: estar acima de/ocupar uma posição importante/classificar-se (entre os primeiros)
+高层 | TRADUÇÃO: edifício alto/de alto nível; de classe alta
+高层执行员 | TRADUÇÃO: executivo sênior
+高层建筑 | TRADUÇÃO: edifício alto/arranha-céu
+高层云 | TRADUÇÃO: alto-estrato/nuvem estrato alta
+高山 | TRADUÇÃO: montanha alta; montanha alpina
+高山兀鹫 | TRADUÇÃO: (espécie de ave da China) abutre-do-himalaia (Gyps himalayensis)
+高山区 | TRADUÇÃO: distrito alpino
+高山岭雀 | TRADUÇÃO: (espécie de ave da China) pardal-da-montanha-de-brandt (Leucosticte brandti)
+高山旋木雀 | TRADUÇÃO: (espécie de ave da China) trepadeira-de-cauda-barrada (Certhia himalayana)
+高山族 | TRADUÇÃO: aborígenes Gaoshan (Taiwan), "tribos da montanha" (Taiwan)/aborígenes taiwaneses (RPC)
+高山病 | TRADUÇÃO: mal da altitude/mal agudo da montanha
+高山症 | TRADUÇÃO: mal da altitude/mal agudo da montanha
+高山短翅莺 | TRADUÇÃO: (espécie de ave da China) felosa-do-mato-ruivo (Locustella mandelli)
+高山金翅雀 | TRADUÇÃO: (espécie de ave da China) verdilhão-de-peito-amarelo (Chloris spinoides)
+高山雀鹛 | TRADUÇÃO: (espécie de ave da China) fulveta-chinesa (Fulvetta striaticollis)
+高岸 | TRADUÇÃO: em grande estilo/margem alta
+高岸深谷 | TRADUÇÃO: margem alta, vale profundo (expressão idiomática); local isolado
+高峰 | TRADUÇÃO: pico/cume/auge
+高峰会 | TRADUÇÃO: cúpula (reunião)
+高峰会议 | TRADUÇÃO: conferência de cúpula
+高峰期 | TRADUÇÃO: período de pico/horário de pico
+高峻 | TRADUÇÃO: alto e íngreme
+高岭土 | TRADUÇÃO: caulim (argila)/argila para porcelana
+高州 | TRADUÇÃO: veja 高州市
+高州市 | TRADUÇÃO: Gaozhou, cidade administrativa em Maoming 茂名市, Guangdong
+高工 | TRADUÇÃO: engenheiro sênior (abrev. de 高級工程師)/(Taiwan) escola técnica industrial de ensino médio (abrev. de 高級工業職業學校)
+高帽子 | TRADUÇÃO: chapéu cônico alto de papel usado como humilhação pública/chapéu de burro/(fig.) bajulação
+高帮 | TRADUÇÃO: cano alto (sapatos)/sapatos de cano alto
+高平 | TRADUÇÃO: veja 高平市
+高平市 | TRADUÇÃO: Gaoping, cidade administrativa em Jincheng 晉城市, Shanxi/Cao Bang, cidade no norte do Vietnã
+高年 | TRADUÇÃO: velho/idoso
+高年级生 | TRADUÇÃO: aluno veterano
+高干 | TRADUÇÃO: quadro de alto escalão/membro do partido de alto escalão
+高度 | TRADUÇÃO: altura/altitude/elevação/alto grau/muito/CL:個|个
+高弓足 | TRADUÇÃO: pé com arco alto
+高强 | TRADUÇÃO: excelente/excepcional
+高徒 | TRADUÇÃO: aluno brilhante
+高德纳 | TRADUÇÃO: nome chinês do cientista da computação norte-americano Donald Knuth (1938-), adotado antes de sua visita à China em 1977
+高性能 | TRADUÇÃO: alto desempenho
+高慢 | TRADUÇÃO: orgulhoso/arrogante
+高手 | TRADUÇÃO: especialista/experiente/ás
+高手如云 | TRADUÇÃO: (expressão idiomática) repleto de especialistas
+高才 | TRADUÇÃO: grande talento; capacidade rara/pessoa de habilidade excepcional
+高才生 | TRADUÇÃO: variante de 高材生
+高技术 | TRADUÇÃO: alta tecnologia; de alta tecnologia
+高抬 | TRADUÇÃO: elogiar alguém
+高抬贵手 | TRADUÇÃO: ser generoso (expressão idiomática)/ser magnânimo/Me dê um tempo!
+高招 | TRADUÇÃO: jogada sábia/golpe de mestre/boas ideias
+高挑 | TRADUÇÃO: erguido alto/(de uma pessoa) esguio; alto e magro (pronúncia taiwanesa [gao1tiao1])
+高挑子 | TRADUÇÃO: pessoa alta
+高接梨 | TRADUÇÃO: (Taiwan) pera de alta enxertia (variedade de pera asiática cultivada em Taiwan, produzida enxertando mudas de regiões de alta altitude ou latitude em porta-enxertos locais, adaptando-as ao clima subtropical de Taiwan)
+高扬 | TRADUÇÃO: erguido alto/elevado/elevação/disparado
+高攀 | TRADUÇÃO: escalada social/procurar conexões com pessoas de classe social mais alta
+高攀不上 | TRADUÇÃO: ser indigno de associar-se a (alguém de status social mais elevado)
+高效 | TRADUÇÃO: eficiente/muito eficaz
+高效率 | TRADUÇÃO: alta eficiência
+高效能 | TRADUÇÃO: altamente eficiente/eficácia
+高教 | TRADUÇÃO: ensino superior (abrev. de 高等教育)
+高教机 | TRADUÇÃO: aeronave de treinamento avançado (abrev. de 高級教練機)
+高敞 | TRADUÇÃO: amplo e espaçoso
+高数 | TRADUÇÃO: matemática avançada/matemática superior (disciplina escolar, abrev. de 高等數學)
+高斯 | TRADUÇÃO: Carl Friedrich Gauss (1777-1855), matemático alemão ‖ gauss, unidade de indução magnética
+高新技术 | TRADUÇÃO: alta tecnologia/alta tecnologia
+高于 | TRADUÇÃO: maior que/exceder
+高昂 | TRADUÇÃO: erguer (a cabeça) alto/caro/alto (ânimo etc.)
+高昌 | TRADUÇÃO: veja 高昌區
+高昌区 | TRADUÇÃO: Gaochang, distrito de Turpan 吐魯番市, Xinjiang
+高明 | TRADUÇÃO: veja 高明區 ‖ brilhante; superior; sábio
+高明区 | TRADUÇÃO: Gaoming, distrito de Foshan 佛山市, Guangdong
+高旷 | TRADUÇÃO: alto e amplo
+高朋满座 | TRADUÇÃO: cercado de amigos ilustres (expressão idiomática); em companhia
+高朗 | TRADUÇÃO: alto e claro/claro e limpo
+高木 | TRADUÇÃO: Takagi (sobrenome japonês)
+高本汉 | TRADUÇÃO: Bernhard Karlgren (1889-1978), distinto linguista e sinólogo sueco
+高材 | TRADUÇÃO: grande talento/capacidade rara/pessoa de habilidade excepcional
+高材生 | TRADUÇÃO: aluno de destaque; aluno de alto desempenho; estudante de habilidade excepcional
+高村正彦 | TRADUÇÃO: KOMURA Masahiko (1942-), político japonês, ministro das relações exteriores de 1998, ministro da defesa de 2007

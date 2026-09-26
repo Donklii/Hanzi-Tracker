@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+开往 | TRADUÇÃO: salir rumbo a/dirigirse a (un tren, autobús, etc.)/con destino a
+开后门 | TRADUÇÃO: abrir la puerta trasera/(fig.) actuar por debajo de la mesa/hacer tratos secretos o corruptos/recurrir a influencias ilícitas
+开征 | TRADUÇÃO: empezar a recaudar impuestos/iniciar el cobro de tributos
+开心 | TRADUÇÃO: sentirse feliz/alegrarse/estar contento/pasar un buen rato/burlarse de alguien/tomar el pelo a
+开心果 | TRADUÇÃO: pistacho/pistache/(fig.) persona alegre y divertida/alma de la fiesta
+开心颜 | TRADUÇÃO: sonreír de alegría/alegrarse/mostrar una expresión radiante
+开快车 | TRADUÇÃO: conducir a alta velocidad/(fig.) apresurarse en el trabajo/hacer las cosas a toda prisa
+开恩 | TRADUÇÃO: conceder una gracia/tener piedad/mostrar misericordia (especialmente de Dios)
+开悟 | TRADUÇÃO: alcanzar la iluminación (budismo)/iluminarse
+开怀 | TRADUÇÃO: a gusto/de todo corazón/a sus anchas/sin restricciones
+开戒 | TRADUÇÃO: romper la abstinencia/volver a beber o comer algo tras un período de abstención/romper un tabú
+开战 | TRADUÇÃO: declarar la guerra/iniciar una guerra/entrar en combate
+开戏 | TRADUÇÃO: comenzar la función de ópera/empezar la obra teatral
+开户 | TRADUÇÃO: abrir una cuenta (bancaria, etc.)
+开房 | TRADUÇÃO: véase 開房間|开房间
+开房间 | TRADUÇÃO: alquilar una habitación de hotel/(de una pareja) alquilar una habitación para tener relaciones sexuales
+开打 | TRADUÇÃO: comenzar (un partido, competencia o combate)/estallar (una guerra)/ejecutar escenas de combate acrobático (en la ópera china)/liarse a golpes/pelearse
+开拍 | TRADUÇÃO: comenzar a rodar (una película, escena, etc.)/iniciar la puja (en una subasta)/iniciar la sesión bursátil (en el mercado de valores)
+开拓 | TRADUÇÃO: roturar (tierras para la agricultura)/desarrollar (regiones fronterizas o nuevos yacimientos)/(fig.) abrir (nuevos horizontes)/expandir/pionero
+开拓性 | TRADUÇÃO: pionero/innovador/revolucionario
+开拓者 | TRADUÇÃO: pionero/precursor
+开拔 | TRADUÇÃO: partir (las tropas)/ponerse en marcha/fecha de partida (de una expedición militar)
+开挖 | TRADUÇÃO: excavar/abrir una zanja/comenzar a cavar
+开掘 | TRADUÇÃO: excavar/cavar/(fig.) explorar (archivos o fuentes) y desenterrar hallazgos
+开挂 | TRADUÇÃO: hacer trampa en un videojuego (abrev. de 開外掛|开外挂)/(coloq.) increíblemente hábil/fuera de serie/hacer algo sobrehumano
+开采 | TRADUÇÃO: extraer (minerales o recursos naturales)/explotar (un yacimiento)/minar
+开播 | TRADUÇÃO: (agricultura) comenzar la siembra/(de radio o televisión) iniciar transmisiones/comenzar a emitir (un programa)
+开支 | TRADUÇÃO: gastos/desembolsos (CL:筆|笔,項|项)/gastar dinero/(coloq.) pagar salarios
+开放 | TRADUÇÃO: florecer/abrirse/estar abierto (al público)/abrirse al exterior/ser de mente abierta/desinhibido/liberal en cuanto a la sexualidad
+开放式系统 | TRADUÇÃO: sistemas abiertos
+开放式网络 | TRADUÇÃO: red abierta
+开放性 | TRADUÇÃO: apertura/carácter abierto
+开放源代码 | TRADUÇÃO: véase 開放源碼|开放源码
+开放源码 | TRADUÇÃO: (inform.) código abierto/de código abierto
+开放源码软件 | TRADUÇÃO: software de código abierto (OSS)
+开放系统 | TRADUÇÃO: sistema abierto
+开放系统互连 | TRADUÇÃO: interconexión de sistemas abiertos/OSI
+开败 | TRADUÇÃO: marchitarse y caer (las flores)
+开敞 | TRADUÇÃO: amplio y despejado/abierto de par en par
+开方 | TRADUÇÃO: (med.) extender una receta/recetar/(mat.) extraer la raíz de una cantidad
+开明 | TRADUÇÃO: ilustrado/de mente abierta/tolerante/lucidez
+开明君主 | TRADUÇÃO: monarca ilustrado/déspota ilustrado
+开映 | TRADUÇÃO: estrenar una película/comenzar la proyección de una película
+开春 | TRADUÇÃO: comienzo de la primavera/Año Nuevo lunar
+开普勒 | TRADUÇÃO: Johannes Kepler (1571-1630), astrónomo alemán y formulador de las leyes de Kepler sobre el movimiento planetario
+开普敦 | TRADUÇÃO: Ciudad del Cabo (ciudad de Sudáfrica)
+开晴 | TRADUÇÃO: despejarse (el tiempo)/aclararse el cielo
+开畅 | TRADUÇÃO: alegre y despreocupado/animado
+开旷 | TRADUÇÃO: amplio y despejado/vasto
+开曼群岛 | TRADUÇÃO: Islas Caimán
+开会 | TRADUÇÃO: celebrar una reunión/asistir a una reunión/tener una junta
+开服 | TRADUÇÃO: abrir los servidores (de un videojuego en línea, tras mantenimiento o actualización)
+开朗 | TRADUÇÃO: amplio y luminoso/despejado/(de carácter) optimista/alegre/extrovertido/abierto
+开本 | TRADUÇÃO: formato de libro (según el número de cortes o pliegues de un pliego de papel, como 16-kai o 32-kai)
+开杆 | TRADUÇÃO: comenzar (un torneo de golf o snooker)/dar el golpe de salida
+开架 | TRADUÇÃO: estanterías abiertas (en biblioteca o tienda de autoservicio)/libre acceso
+开业 | TRADUÇÃO: abrir un negocio/iniciar actividades comerciales/abierto al público
+开业大吉 | TRADUÇÃO: próspera inauguración/éxito en la apertura del negocio
+开枪 | TRADUÇÃO: abrir fuego/disparar un arma
+开机 | TRADUÇÃO: arrancar una máquina o motor/encender (un ordenador o teléfono)/iniciar el rodaje (de una película o serie)
+开步 | TRADUÇÃO: dar un paso al frente/echar a andar/comenzar a caminar
+开水 | TRADUÇÃO: agua hervida/agua hirviendo
+开水壶 | TRADUÇÃO: hervidor de agua/tetera
+开江 | TRADUÇÃO: véase 開江縣|开江县
+开江县 | TRADUÇÃO: Kaijiang, condado de la ciudad de Dazhou 達州市|达州市, Sichuan
+开河 | TRADUÇÃO: abrir un río/cavar un canal/deshelarse (un río)
+开河期 | TRADUÇÃO: período de deshielo (de un río en primavera)
+开消 | TRADUÇÃO: variante de 開銷|开销
+开涮 | TRADUÇÃO: (coloq.) tomar el pelo a/burlarse de/mofarse de
+开源 | TRADUÇÃO: crear nuevas fuentes de ingresos/(inform.) código abierto (abrev. de 開放源碼|开放源码)
+开源节流 | TRADUÇÃO: (modismo) abrir nuevas fuentes de ingresos y reducir gastos/aumentar ingresos y ahorrar
+开源软件 | TRADUÇÃO: software de código abierto
+开溜 | TRADUÇÃO: marcharse a hurtadillas/escurrir el bulto/escaparse sigilosamente
+开满 | TRADUÇÃO: florecer en abundancia/cubierto de flores
+开演 | TRADUÇÃO: comenzar (una obra de teatro, función o película)/empezar la función
+开漳圣王 | TRADUÇÃO: Rey Santo Fundador de Zhangzhou, título póstumo del general Chen Yuanguang 陳元光|陈元光 (657-711) de la dinastía Tang
+开火 | TRADUÇÃO: abrir fuego/empezar a disparar/encender el fuego (para cocinar)
+开灯 | TRADUÇÃO: encender la luz
+开炉 | TRADUÇÃO: encender un horno de fundición/iniciar la fundición
+开尔文 | TRADUÇÃO: Lord Kelvin (1824-1907), físico británico (William Thomson)/kelvin (unidad de temperatura)
+开犁 | TRADUÇÃO: empezar a arar/trazar el primer surco
+开奖 | TRADUÇÃO: anunciar los números ganadores de la lotería/sorteo de lotería
+开玩笑 | TRADUÇÃO: bromear/hacer una broma/hacer chistes
+开球 | TRADUÇÃO: bola abierta (mat.)/iniciar un partido de pelota/saque de centro (fútbol)/golpe de salida (golf)
+开瓶器 | TRADUÇÃO: abrebotellas/descorchador/sacacorchos
+开瓶费 | TRADUÇÃO: descorche/tarifa por descorche
+开疆 | TRADUÇÃO: colonizar zonas fronterizas/expandir el territorio
+开疆拓土 | TRADUÇÃO: (modismo) expandir el territorio/conquistar nuevas tierras/(fig.) expandir un negocio a nuevos mercados
+开发 | TRADUÇÃO: desarrollar/explotar (recursos naturales)/abrir al desarrollo/desarrollo
+开发人员 | TRADUÇÃO: desarrollador/personal de desarrollo
+开发区 | TRADUÇÃO: zona de desarrollo/área de desarrollo económico
+开发周期 | TRADUÇÃO: ciclo de desarrollo/período de desarrollo/también escrito 開發週期|开发周期 ‖ ciclo de desarrollo/período de desarrollo
+开发商 | TRADUÇÃO: promotor inmobiliario/desarrollador (de bienes raíces o productos comerciales)
+开发者 | TRADUÇÃO: desarrollador
+开发银行 | TRADUÇÃO: banco de desarrollo
+开皌 | TRADUÇÃO: recibir condolencias
+开盒 | TRADUÇÃO: (jerga) doxxear/hacer doxing (revelar datos personales en internet)
+开盘 | TRADUÇÃO: abrir la sesión bursátil (mercado de valores)/abrir la cotización
+开盘汇率 | TRADUÇÃO: tipo de cambio de apertura
+开眼 | TRADUÇÃO: abrir los ojos/(fig.) ampliar los horizontes
+开眼界 | TRADUÇÃO: ampliar los horizontes/abrir la mente a nuevas experiencias
+开炮 | TRADUÇÃO: abrir fuego de artillería/disparar cañones/(fig.) lanzar duras críticas
+开矿 | TRADUÇÃO: explotar una mina/abrir una veta minera
+开示 | TRADUÇÃO: instruir (a discípulos o novicios)/predicar/enseñar el dharma/revelar
+开票 | TRADUÇÃO: abrir las urnas y contar votos/emitir una factura o recibo/hacer un vale
+开禁 | TRADUÇÃO: levantar una prohibición/levantar el toque de queda
+开福 | TRADUÇÃO: véase 開福區|开福区
+开福区 | TRADUÇÃO: Kaifu, distrito de la ciudad de Changsha 長沙市|长沙市, Hunan
+开窍 | TRADUÇÃO: comprender por fin/despejarse la mente/empezar a entender las cosas con claridad
+开立 | TRADUÇÃO: abrir (una cuenta, sucursal, etc.)/extender (un certificado, recibo o receta)
+开站 | TRADUÇÃO: inaugurar o poner en servicio una estación (de tren o autobús)
+开端 | TRADUÇÃO: inicio/comienzo/principio
+开笔 | TRADUÇÃO: empezar a escribir versos o ensayos/iniciar la carrera literaria
+开筵 | TRADUÇÃO: ofrecer un banquete/celebrar un banquete
+开箱 | TRADUÇÃO: desempaquetar/hacer un unboxing/desembalar
+开篇 | TRADUÇÃO: inicio de una obra literaria/canción de apertura de una balada estilo tanci 彈詞|弹词
+开红盘 | TRADUÇÃO: (de una tienda) abrir con éxito tras Año Nuevo/(de un negocio) tener ganancias/(de la bolsa) cerrar en alza/(en deportes) ganar el primer partido de una competición
+开绿灯 | TRADUÇÃO: dar luz verde/dar el visto bueno
+开绽 | TRADUÇÃO: descoserse/abrirse una costura
+开线 | TRADUÇÃO: descoserse/abrirse por la costura
+开罐器 | TRADUÇÃO: abrelatas
+开罪 | TRADUÇÃO: ofender a alguien/caer en desgracia con/desagradar
+开罚单 | TRADUÇÃO: poner una multa/emitir una infracción/multar
+开骂 | TRADUÇÃO: lanzar una diatriba/empezar a insultar o reprender
+开罗 | TRADUÇÃO: El Cairo (capital de Egipto)
+开罗大学 | TRADUÇÃO: Universidad de El Cairo
+开考 | TRADUÇÃO: comenzar un examen
+开胃 | TRADUÇÃO: abrir el apetito/apetitoso/estimular el apetito/divertirse a costa de alguien
+开胃菜 | TRADUÇÃO: aperitivo/entrante/entrada
+开胃酒 | TRADUÇÃO: vino de aperitivo/aperitivo
+开脱 | TRADUÇÃO: exculpar/absolver/exonerar de culpa
+开脱罪责 | TRADUÇÃO: absolver de culpa/exonerar de responsabilidad/exculpar
+开腔 | TRADUÇÃO: tomar la palabra/empezar a hablar
+开脑洞 | TRADUÇÃO: tener ocurrencias disparatadas y sumamente imaginativas/volar la imaginación
+开膛手杰克 | TRADUÇÃO: Jack el Destripador
+开胶 | TRADUÇÃO: despegarse (la cola o pegamento)/desprenderse
+开脸 | TRADUÇÃO: depilar el rostro y perfilar el nacimiento del cabello de la novia (antiguo)/tallar un rostro
+开台 | TRADUÇÃO: comienzo de la función teatral/apertura del espectáculo
+开台锣鼓 | TRADUÇÃO: toques de gong de apertura teatral/toques que anuncian el inicio de la ópera china
+开船 | TRADUÇÃO: zarpar/levar anclas/partir el barco
+开花 | TRADUÇÃO: florecer/abrirse las flores/(fig.) estallar/abrirse en pedazos/(fig.) rebosar de alegría/(fig.) proliferar por todas partes
+开花儿 | TRADUÇÃO: variante con sufijo -r de 開花|开花
+开花结实 | TRADUÇÃO: véase 開花結果|开花结果
+开花结果 | TRADUÇÃO: (lit.) florecer y dar fruto (modismo)/(fig.) dar buenos frutos/llegar a buen puerto/fructificar
+开花衣 | TRADUÇÃO: abrir una paca de algodón
+开苞 | TRADUÇÃO: desflorar/desvirgar
+开荒 | TRADUÇÃO: roturar tierras vírgenes/abrir tierras de cultivo
+开荤 | TRADUÇÃO: romper la dieta vegetariana comiendo carne/(fig.) probar algo por primera vez como experiencia novedosa
+开蒙 | TRADUÇÃO: (antiguo) iniciar la educación escolar (de un niño)/empezar a estudiar
+开药 | TRADUÇÃO: recetar medicamentos/prescribir fármacos
+开行 | TRADUÇÃO: ponerse en marcha (un autobús, tren o barco)/partir
+开衩 | TRADUÇÃO: abertura (en una prenda de vestir)/raja
+开裂 | TRADUÇÃO: agrietarse/rajarse/abrirse (de frutos o capullos de algodón)
+开襟 | TRADUÇÃO: túnica china abotonada al frente/desabrochado al frente (para refrescarse)
+开襟衫 | TRADUÇÃO: rebeca/cárdigan
+开裆裤 | TRADUÇÃO: pantalones con abertura en la entrepierna (para niños pequeños)
+开解 | TRADUÇÃO: aclarar/explicar/apaciguar la angustia de alguien/consolar
+开言 | TRADUÇÃO: empezar a hablar/tomar la palabra
+开设 | TRADUÇÃO: ofrecer (bienes o servicios)/abrir (un negocio, tienda, etc.)/fundar/establecer
+开许 | TRADUÇÃO: (literario) permitir/autorizar
+开诚布公 | TRADUÇÃO: variante de 開誠布公|开诚布公 ‖ (modismo) con franqueza y sinceridad/hablar con el corazón en la mano/abierto y sincero/poner las cartas sobre la mesa
+开诚相见 | TRADUÇÃO: tratarse con franqueza y sinceridad (modismo)
+开课 | TRADUÇÃO: comenzar las clases/impartir un curso/enseñar una materia
+开讲 | TRADUÇÃO: empezar una conferencia/comenzar a contar una historia
+开议 | TRADUÇÃO: iniciar una sesión o reunión (de negocios)/empezar deliberaciones o negociaciones
+开账 | TRADUÇÃO: extender una cuenta o factura/hacer la factura
+开赛 | TRADUÇÃO: dar inicio al partido/comenzar la competición/saque inicial
+开走 | TRADUÇÃO: marcharse (un vehículo)/arrancar y marcharse/irse conduciendo
+开赴 | TRADUÇÃO: partir hacia (tropas)/dirigirse hacia
+开足马力 | TRADUÇÃO: acelerar a toda potencia (modismo)/a toda velocidad/(fig.) trabajar con el máximo empeño
+开路 | TRADUÇÃO: abrir camino/abrirse paso/construir una carretera/(electricidad) circuito abierto
+开路先锋 | TRADUÇÃO: pionero/precursor/vanguardista
+开车 | TRADUÇÃO: conducir un coche (tren, etc.)/(jerga) publicar contenido erótico en línea/hacer bromas de doble sentido
+开车人 | TRADUÇÃO: conductor/persona que conduce un vehículo
+开车族 | TRADUÇÃO: automovilistas/conductores de vehículos
+开办 | TRADUÇÃO: fundar/establecer (un negocio, escuela, etc.)/abrir
+开通 | TRADUÇÃO: abrir al tráfico (una carretera o línea férrea)/inaugurar (una línea telefónica o servicio)/suscribirse a (un servicio exclusivo) ‖ de mente abierta/tolerante/liberal
+开运竹 | TRADUÇÃO: bambú de la suerte (Dracaena sanderiana)
+开道 | TRADUÇÃO: abrir paso/despejar el camino
+开远 | TRADUÇÃO: véase 開遠市|开远市
+开远市 | TRADUÇÃO: Kaiyuan, ciudad a nivel de condado en la prefectura autónoma hani y yi de Honghe 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+开都河 | TRADUÇÃO: río Kaidu, Xinjiang
+开酒费 | TRADUÇÃO: descorche/tarifa por descorche
+开释 | TRADUÇÃO: poner en libertad (a un preso)/liberar
+开金 | TRADUÇÃO: oro de ley/oro con quilates definidos
+开销 | TRADUÇÃO: pagar (gastos)/gastos/desembolsos/(antiguo) despedir (a un empleado)
+开锅 | TRADUÇÃO: curar un wok/destapar una olla/empezar a hervir el contenido de una olla/(fig.) armarse un alboroto
+开锁 | TRADUÇÃO: abrir una cerradura/descerrajar/abrir el candado
+开镰 | TRADUÇÃO: comenzar la cosecha/empezar a segar
+开锣 | TRADUÇÃO: tocar el gong para iniciar la función teatral
+开锣喝道 | TRADUÇÃO: despejar el paso tocando gongs y gritando órdenes (modismo)
+开钻 | TRADUÇÃO: comenzar la perforación (petróleo, etc.)
+开凿 | TRADUÇÃO: excavar (un canal, túnel, pozo, etc.)/perforar
+开门 | TRADUÇÃO: abrir la puerta/abrir las puertas al público/abrir para los negocios
+开门揖盗 | TRADUÇÃO: dejar la puerta abierta invita al ladrón (modismo)/atraer el desastre facilitando el camino a los malhechores
+开门杀 | TRADUÇÃO: accidente por apertura intempestiva de la puerta del coche (dooring)
+开门炮 | TRADUÇÃO: petardos de medianoche en Año Nuevo (tradición china)
+开门红 | TRADUÇÃO: buen comienzo/éxito inicial/empezar con buen pie
+开门见山 | TRADUÇÃO: (lit.) abrir la puerta y ver la montaña/(fig.) ir directo al grano (modismo)/sin rodeos
+开闭幕式 | TRADUÇÃO: ceremonias de apertura y clausura
+开间 | TRADUÇÃO: unidad de medida para el ancho de una habitación (unos 10 chi 尺)/ancho de una habitación/(arquitectura) crujía
+开阔 | TRADUÇÃO: amplio/vasto/despejado/abrir/ensanchar
+开关 | TRADUÇÃO: interruptor eléctrico/válvula de gas/abrir la puerta de la ciudad o frontera/abrir y cerrar/encender y apagar
+开辟 | TRADUÇÃO: abrir/fundar/establecer/inaugurar
+开辟者 | TRADUÇÃO: pionero/fundador
+开除 | TRADUÇÃO: expulsar (de una organización)/despedir (a un empleado)
+开除学籍 | TRADUÇÃO: expulsar de la escuela/expulsar de la universidad
+开除党籍 | TRADUÇÃO: expulsar del Partido
+开阳 | TRADUÇÃO: Mizar (Zeta Ursae Majoris en el Carro Mayor)/véase 開陽縣|开阳县
+开阳县 | TRADUÇÃO: Kaiyang, condado de la ciudad de Guiyang 貴陽市|贵阳市, Guizhou
+开集 | TRADUÇÃO: conjunto abierto (mat.)
+开霁 | TRADUÇÃO: despejarse (el tiempo)/aclarar tras la lluvia
+开革 | TRADUÇÃO: despedir/destituir
+开头 | TRADUÇÃO: comienzo/inicio/empezar/al principio
+开颜 | TRADUÇÃO: sonreír/radiante de alegría/sonriente
+开饭 | TRADUÇÃO: empezar a comer/servir la comida
+开首 | TRADUÇÃO: comienzo/inicio/apertura/al principio/empezar/abrir
+开高叉 | TRADUÇÃO: falda con abertura alta/vestido con abertura alta
+开鲁 | TRADUÇÃO: véase 開魯縣|开鲁县
+开鲁县 | TRADUÇÃO: Kailu, condado de la ciudad de Tongliao 通遼市|通辽市, Mongolia Interior
+开麦拉 | TRADUÇÃO: (Taiwán) cámara (préstamo del inglés)
+开黑 | TRADUÇÃO: (jerga) (videojuegos en línea) jugar en equipo formando un grupo privado coordinado
+开黑店 | TRADUÇÃO: abrir una posada clandestina para asaltar a los viajeros/(fig.) estafar/hacer cobros abusivos/robar a mano armada
+开斋 | TRADUÇÃO: romper el ayuno/dejar la dieta vegetariana
+开斋节 | TRADUÇÃO: (islam) Eid al-Fitr (fiesta del fin del Ramadán)
+闶 | TRADUÇÃO: usado en 閌閬|闶阆
+闶阆 | TRADUÇÃO: (dialectal) espacio abierto dentro de una estructura/patio interior
+闳 | TRADUÇÃO: apellido Hong ‖ grande/puerta amplia
+闰 | TRADUÇÃO: intercalar/intercalario/día o mes bisiesto (en el calendario solar o lunar)
+闰四月，吃树叶 | TRADUÇÃO: un cuarto mes bisiesto trae escasez de alimentos
+闰年 | TRADUÇÃO: año bisiesto/(calendario lunar) año con trece meses por mes intercalar
+闰月 | TRADUÇÃO: mes bisiesto/mes intercalar en el calendario lunar
+闲 | TRADUÇÃO: cerca/recinto/(variante de 閒|闲) ocioso/desocupado/tiempo libre ‖ ocioso/desocupado/tiempo libre
+闲人 | TRADUÇÃO: variante de 閒人|闲人 ‖ persona ociosa/desocupado/persona sin motivo legítimo para estar en un lugar
+闲冗 | TRADUÇÃO: funcionarios con pocas tareas/supernumerarios
+闲在 | TRADUÇÃO: en el tiempo libre/a gusto/ocioso
+闲坐 | TRADUÇÃO: sentarse ociosamente/estar sentado sin hacer nada
+闲居 | TRADUÇÃO: llevar una vida tranquila y retirada/quedarse en casa sin nada que hacer/vivir en retiro
+闲心 | TRADUÇÃO: ánimo sosegado/disposición tranquila
+闲暇 | TRADUÇÃO: tiempo libre/ocio/desocupado/sin usar ‖ tiempo libre/ocio
+闲章 | TRADUÇÃO: sello artístico o de pasatiempo (con versos o dichos populares en lugar del nombre del autor)
+闲聊天 | TRADUÇÃO: charlar ociosamente/chismear
+闲职 | TRADUÇÃO: sinecura/cargo sin responsabilidades/puesto cómodo
+闲花 | TRADUÇÃO: flor silvestre
+闲言碎语 | TRADUÇÃO: habladurías/chismes/rumores maliciosos/comentarios ociosos
+闲话家常 | TRADUÇÃO: charlar de asuntos domésticos y cotidianos (modismo)
+闲谈 | TRADUÇÃO: variante de 閒談|闲谈 ‖ charlar/conversar ociosamente
+闲逛 | TRADUÇÃO: pasear sin rumbo/deambular/callejear
+闲逸 | TRADUÇÃO: calma y descanso/sosiego y comodidad
+闲雅 | TRADUÇÃO: elegante y refinado/grácil/desenvuelto
+闲杂 | TRADUÇÃO: (personal o tareas) sin asignación fija/misceláneo
+闲静 | TRADUÇÃO: tranquilo/sereno/apacible
+閒 | TRADUÇÃO: variante de 間|间 ‖ variante de 間|间
+闲事 | TRADUÇÃO: asuntos ajenos/cosas sin importancia
+闲侃 | TRADUÇÃO: charlar por pasar el rato/platicar ociosamente
+闲来无事 | TRADUÇÃO: en ratos libres/sin nada que hacer/en el ocio
+闲口 | TRADUÇÃO: habladuría ociosa/comentario innecesario
+闲家 | TRADUÇÃO: (juegos de azar) jugador que no es la banca/jugador de punto
+闲情 | TRADUÇÃO: ánimo sosegado y distendido/disposición despreocupada
+闲情逸致 | TRADUÇÃO: disposición tranquila y despreocupada/gusto refinado y sosegado
+闲扯 | TRADUÇÃO: charlar de bastedades/parlotear/charlar ociosamente
+闲散 | TRADUÇÃO: relajado/sosegado/(de recursos o fondos) ocioso/inactivo/sin utilizar
+闲晃 | TRADUÇÃO: pasar el rato/merodear/vagar
+闲书 | TRADUÇÃO: lectura ligera/libros de entretenimiento
+闲混 | TRADUÇÃO: perder el tiempo/holgazanear
+闲空 | TRADUÇÃO: tiempo libre/ratos libres/desocupado
+闲置 | TRADUÇÃO: dejar sin usar/dejar inactivo/tener en desuso
+闲聊 | TRADUÇÃO: charlar/conversar amistosamente/platicar
+闲言闲语 | TRADUÇÃO: chismes y murmuraciones/habladurías
+闲话 | TRADUÇÃO: charla informal/chisme/murmuración/hablar de lo que surja
+闲适 | TRADUÇÃO: relajado y cómodo/tranquilo/despreocupado
+闲钱 | TRADUÇÃO: dinero sobrante/dinero disponible/ahorros no comprometidos
+闲云野鹤 | TRADUÇÃO: (modismo) espíritu libre/persona que vive libre y sin ataduras
+闲余 | TRADUÇÃO: (del tiempo) ocioso/libre/desocupado
+间 | TRADUÇÃO: entre/en medio de/en un espacio o tiempo determinado/habitación/espacio entre pilares/clasificador para habitaciones ‖ brecha/separar/entresacar (plántulas)/sembrar discordia
+间不容发 | TRADUÇÃO: (escapar del peligro) por un pelo (modismo)/en estado crítico/al borde del abismo
+间作 | TRADUÇÃO: cultivo intercalado/intercalación de cultivos
+间使 | TRADUÇÃO: emisario secreto/punto de acupuntura Pc-5
+间充 | TRADUÇÃO: mesenquimatoso (tejido en biología celular)
+间充质 | TRADUÇÃO: mesénquima (tejido conectivo embrionario)
+间充质干细胞 | TRADUÇÃO: célula madre mesenquimatosa/CMM
+间壁 | TRADUÇÃO: casa de al lado/vecino contiguo/tabique divisorio
+间奏 | TRADUÇÃO: interludio (música)
+间或 | TRADUÇÃO: de vez en cuando/ocasionalmente
+间接 | TRADUÇÃO: indirecto
+间接税 | TRADUÇÃO: impuesto indirecto
+间接证据 | TRADUÇÃO: prueba indirecta/prueba indiciaria
+间接宾语 | TRADUÇÃO: complemento indirecto/objeto indirecto (gramática)
+间接选举 | TRADUÇÃO: elección indirecta
+间断 | TRADUÇÃO: interrumpido/discontinuo/suspendido/pausa/interrupción
+间歇 | TRADUÇÃO: intermitente/interrupción/pausa/intermitencia
+间歇训练 | TRADUÇÃO: entrenamiento a intervalos
+间皮瘤 | TRADUÇÃO: mesotelioma (med.)
+间脑 | TRADUÇÃO: diencéfalo
+间苗 | TRADUÇÃO: entresacar plántulas/raleo de brotes
+间谍 | TRADUÇÃO: espía
+间谍活动 | TRADUÇÃO: espionaje/actividades de espionaje
+间谍网 | TRADUÇÃO: red de espionaje
+间谍罪 | TRADUÇÃO: delito de espionaje
+间谍软件 | TRADUÇÃO: spyware/programa espía
+间质 | TRADUÇÃO: estroma (fisiología)/mesénquima
+间距 | TRADUÇÃO: espacio/separación/distancia entre objetos/intervalo entre eventos
+间隔 | TRADUÇÃO: intervalo/separación/compartimento/dividir/separar/dejar un intervalo de
+间隔摄影 | TRADUÇÃO: fotografía de lapso de tiempo/time-lapse
+间隔号 | TRADUÇÃO: punto medio (·), signo de puntuación en chino para separar nombres extranjeros transliterados o elementos de una lista
+间隔重复 | TRADUÇÃO: repetición espaciada
+间隙 | TRADUÇÃO: holgura/intervalo/brecha/espacio
+闵 | TRADUÇÃO: apellido Min ‖ variante antigua de 憫|悯
+闵凶 | TRADUÇÃO: desgracia/aflicción/sufrimiento
+闵科夫斯基 | TRADUÇÃO: Minkowski/Hermann Minkowski (1864-1909), matemático alemán
+闵行区 | TRADUÇÃO: distrito de Minhang en Shanghái
+閗 | TRADUÇÃO: variante de 鬥|斗
+闸口 | TRADUÇÃO: esclusa abierta/estación de peaje/puerta de embarque (aeropuerto, etc.)/(fig.) punto de acceso
+闸机 | TRADUÇÃO: torniquete/torno de acceso
+闸盒 | TRADUÇÃO: caja de fusibles/caja de interruptores
+闸道 | TRADUÇÃO: (inform.) puerta de enlace/gateway (Taiwán)
+闸门 | TRADUÇÃO: compuerta de esclusa/compuerta
+闸阀 | TRADUÇÃO: válvula de compuerta
+闹 | TRADUÇÃO: variante de 鬧|闹 ‖ ruidoso/estrepitoso/hacer ruido/alborotar/desahogar (emociones)/enfermar/tener un ataque (de enfermedad)/emprender (una actividad)/bromear
+閛 | TRADUÇÃO: sonido de abrir o cerrar una puerta
+閟 | TRADUÇÃO: oculto/esconder
+阂 | TRADUÇÃO: obstruir/bloquear
+関 | TRADUÇÃO: variante de 關|关
+阁 | TRADUÇÃO: pabellón (generalmente de dos plantas)/gabinete (política)/tocador/aposento femenino/estante/anaquel
+阁下 | TRADUÇÃO: su excelencia/usted (tratamiento de respeto)/su señoría
+阁僚 | TRADUÇÃO: miembro del gabinete/ministro
+阁员 | TRADUÇÃO: miembro del gabinete
+阁揆 | TRADUÇÃO: primer ministro/jefe de gobierno
+阁楼 | TRADUÇÃO: buhardilla/desván/ático
+阁议 | TRADUÇÃO: reunión del gabinete/consejo de ministros
+𬮤 | TRADUÇÃO: puerta lateral/variante de 閣|阁/pabellón/gabinete/tocador ‖ variante de 闔|阖
+阀 | TRADUÇÃO: figura poderosa/facción influyente/clan dominante/(préstamo) válvula
+阀芯 | TRADUÇÃO: vástago de válvula/núcleo de válvula
+阀门 | TRADUÇÃO: válvula (mecánica)
+閦 | TRADUÇÃO: multitud/transliteración del sánscrito 'kso', ej. el buda Aksobhya 阿閦佛
+闺 | TRADUÇÃO: pequeña puerta arqueada/aposento de dama/tocador/(fig.) mujeres
+闺女 | TRADUÇÃO: doncella/muchacha soltera/(coloq.) hija
+闺密 | TRADUÇÃO: variante de 閨蜜|闺蜜
+闺情 | TRADUÇÃO: sentimientos amorosos femeninos/pasión de una dama
+闺房 | TRADUÇÃO: aposento de dama/tocador/harén
+闺秀 | TRADUÇÃO: señorita de buena familia/dama distinguida
+闺窗 | TRADUÇÃO: ventana del aposento femenino/aposento de una doncella
+闺范 | TRADUÇÃO: conducta ejemplar femenina/virtudes requeridas a las mujeres (antiguo)
+闺蜜 | TRADUÇÃO: (coloq.) mejor amiga (de una mujer)/amiga íntima/(originalmente escrito 閨密|闺密, abrev. de 閨中密友|闺中密友)
+闺门旦 | TRADUÇÃO: papel de señorita joven e inocente en la ópera china
+闺阁 | TRADUÇÃO: aposento femenino/tocador de doncella
+闺阃 | TRADUÇÃO: aposentos de las mujeres/cuartos femeninos
+闽 | TRADUÇÃO: nombre abreviado de la provincia de Fujian 福建
+闽侯 | TRADUÇÃO: véase 閩侯縣|闽侯县
+闽侯县 | TRADUÇÃO: Minhou, condado de la ciudad de Fuzhou 福州市, Fujian
+闽南 | TRADUÇÃO: Minnan (sur de Fujian)
+闽南话 | TRADUÇÃO: min del sur (grupo de dialectos sínicos hablados en el sur de Fujian y alrededores)/hokkien
+闽南语 | TRADUÇÃO: min del sur (lengua sínica hablada en el sur de Fujian y zonas cercanas)/hokkien
+闽江 | TRADUÇÃO: río Min, Fujian
+闽清 | TRADUÇÃO: véase 閩清縣|闽清县
+闽清县 | TRADUÇÃO: Minqing, condado de la ciudad de Fuzhou 福州市, Fujian
+闽粤 | TRADUÇÃO: Fujian y Guangdong
+闽菜 | TRADUÇÃO: cocina de Fujian/gastronomía de Fujian
+闽语 | TRADUÇÃO: lenguas min/dialectos min (hablados en Fujian, Taiwán, etc.)
+阃 | TRADUÇÃO: umbral/aposentos interiores/mujer/esposa (honorífico)
+阃奥 | TRADUÇÃO: habitación más interior/(fig.) lo más profundo del corazón
+阃寄 | TRADUÇÃO: mando militar (antiguo)
+阃范 | TRADUÇÃO: modelo de virtudes femeninas
+阆 | TRADUÇÃO: usado en 閌閬|闶阆 ‖ (literario) vasto/espacioso/(literario) majestuoso/(literario) puerta alta/(literario) foso seco exterior de una muralla
+阆中 | TRADUÇÃO: véase 閬中市|阆中市
+阆中市 | TRADUÇÃO: Langzhong, ciudad a nivel de condado en la ciudad de Nanchong 南充市, Sichuan
+阆苑 | TRADUÇÃO: paraíso de Langyuan, morada de los inmortales en leyendas y poesías
+阆风 | TRADUÇÃO: monte Langfeng/lo mismo que Langyuan 閬苑|阆苑, morada de los inmortales
+阆风巅 | TRADUÇÃO: cima de Langfeng/morada de los inmortales
+阆凤山 | TRADUÇÃO: monte Langfeng/morada de los inmortales
+闾 | TRADUÇÃO: puerta de una aldea/aldea/callejón
+阅 | TRADUÇÃO: inspeccionar/revisar/leer/examinar/pasar por/experimentar
+阅世 | TRADUÇÃO: conocer el mundo/experimentar la vida
+阅兵 | TRADUÇÃO: pasar revista a las tropas/desfile militar
+阅兵式 | TRADUÇÃO: desfile militar/parada militar
+阅卷 | TRADUÇÃO: corregir exámenes/revisar expedientes judiciales
+阅女无数 | TRADUÇÃO: (modismo) haber estado con innumerables mujeres/tener gran experiencia con mujeres
+阅微草堂笔记 | TRADUÇÃO: Notas de la cabaña de observaciones minuciosas (colección de relatos sobrenaturales de Ji Yun 紀昀|纪昀)
+阅历 | TRADUÇÃO: experimentar/experiencia vital/vivencias
+阅男无数 | TRADUÇÃO: (modismo) haber estado con innumerables hombres/tener gran experiencia con hombres
+阅听人 | TRADUÇÃO: (Taiwán) audiencia/público receptor
+阅览 | TRADUÇÃO: leer/consultar
+阅览室 | TRADUÇÃO: sala de lectura/CL:間|间
+阅读 | TRADUÇÃO: leer/lectura
+阅读器 | TRADUÇÃO: lector (software o dispositivo)
+阅读广度 | TRADUÇÃO: amplitud de lectura/alcance lector
+阅读理解 | TRADUÇÃO: comprensión lectora
+阅读装置 | TRADUÇÃO: lector electrónico (para códigos de barras, RFID, etc.)
+阅读障碍 | TRADUÇÃO: dislexia
+閳 | TRADUÇÃO: variante antigua de 闡|阐
+阊 | TRADUÇÃO: puerta celestial/puerta del palacio imperial
+阉 | TRADUÇÃO: castrar/capar/eunuco/castrado
+阉人 | TRADUÇÃO: eunuco/castrado
+阉割 | TRADUÇÃO: castrar/capar/(fig.) emascular/desvirtuar
+阉然 | TRADUÇÃO: a escondidas/en secreto
+阉竖 | TRADUÇÃO: eunuco (término despectivo)
+閺 | TRADUÇÃO: mirar hacia abajo
+阎 | TRADUÇÃO: apellido Yan (a veces escrito 閆|闫 en años recientes) ‖ (literario) puerta de un callejón
+阎君 | TRADUÇÃO: (budismo) Yama, rey del inframundo
+阎王 | TRADUÇÃO: (budismo) Yama, el rey del infierno/(fig.) persona cruel y tiránica
+阎王好见，小鬼难当 | TRADUÇÃO: (modismo) es fácil tratar con el rey del infierno, pero difícil lidiar con los pequeños demonios/es más difícil lidiar con los subalternos que con el jefe
+阎王殿 | TRADUÇÃO: palacio del rey Yama/palacio del inframundo
+阎王爷 | TRADUÇÃO: (budismo) Señor Yama, rey del infierno
+阎罗 | TRADUÇÃO: (budismo) Yama, rey del infierno
+阎罗殿 | TRADUÇÃO: palacio del rey Yama
+阎罗王 | TRADUÇÃO: (budismo) Rey Yama, soberano del inframundo
+阎老 | TRADUÇÃO: (budismo) Rey Yama
+阎良 | TRADUÇÃO: véase 閻良區|阎良区
+阎良区 | TRADUÇÃO: Yanliang, distrito de la ciudad de Xi'an 西安市, Shaanxi
+阎锡山 | TRADUÇÃO: Yan Xishan (1883-1960), señor de la guerra de Shanxi
+阎魔 | TRADUÇÃO: (budismo) Yama, señor del infierno
+阏 | TRADUÇÃO: bloquear/contener/controlar ‖ usado en 閼氏|阏氏
+阏氏 | TRADUÇÃO: esposa principal de un jefe xiongnu durante la dinastía Han (206 a.C.-220 d.C.)
+阍 | TRADUÇÃO: portero/guardia de la puerta
+阈 | TRADUÇÃO: umbral
+阈值 | TRADUÇÃO: valor umbral/umbral
+阈限 | TRADUÇÃO: (psicología) umbral/liminal
+阌 | TRADUÇÃO: Wenxiang (en la provincia de Henan)
+闁 | TRADUÇÃO: variante antigua de 褒/alabar/elogiar
+阒 | TRADUÇÃO: silencioso/solitario/vivir solo
+阒寂 | TRADUÇÃO: silencioso/en completa calma/desierto
+阒然 | TRADUÇÃO: silencioso/en absoluto silencio
+闱 | TRADUÇÃO: puerta de las habitaciones de mujeres/puerta del palacio
+𬮱 | TRADUÇÃO: apellido Yin ‖ puertas interiores
+阔人 | TRADUÇÃO: persona rica/los ricos/adinerado
+阔佬 | TRADUÇÃO: ricachón/millonario/persona acaudalada
+阔别 | TRADUÇÃO: separados durante mucho tiempo/larga separación
+阔嘴鹬 | TRADUÇÃO: (especie de ave de China) correlimos falcinelo (Calidris falcinellus)
+阔少 | TRADUÇÃO: (desp.) señorito de familia rica/joven adinerado y derrochador
+阔度 | TRADUÇÃO: anchura/amplitud
+阔步 | TRADUÇÃO: avanzar a grandes zancadas/caminar a paso firme
+阔气 | TRADUÇÃO: ostentoso/espléndido/derrochador/lujoso
+阔绰 | TRADUÇÃO: espléndido en el gasto/ostentoso/generoso con el dinero
+阔老 | TRADUÇÃO: variante de 闊佬|阔佬
+阔叶 | TRADUÇÃO: de hoja ancha (árbol o planta)
+阔蹑 | TRADUÇÃO: caminar a grandes pasos (formal)
+阕 | TRADUÇÃO: (literario) terminar/cesar/estrofa de un poema ci 詞|词/clasificador para canciones o poemas ci
+阑 | TRADUÇÃO: barandilla/balaustrada/biombo de puerta/exhausto/avanzado (en el tiempo)/tardío
+阑入 | TRADUÇÃO: entrar sin autorización/infiltrarse/mezclarse
+阑出 | TRADUÇÃO: salir impulsivamente/enviar mercancías sin autorización
+阑尾 | TRADUÇÃO: apéndice/apéndice vermiforme (anatomía)
+阑尾切除术 | TRADUÇÃO: apendicectomía (med.)
+阑尾炎 | TRADUÇÃO: apendicitis (med.)
+阑干 | TRADUÇÃO: (literario) entrecruzado/desordenado/borde del ojo/variante de 欄杆|栏杆
+阑槛 | TRADUÇÃO: barandilla/valla/balaustrada ‖ véase 闌檻|阑槛
+阑殚 | TRADUÇÃO: agotado/exhausto
+阑珊 | TRADUÇÃO: en decadencia/llegando a su fin/lánguido
+阑遗 | TRADUÇÃO: artículos abandonados/objetos no reclamados
+阑头 | TRADUÇÃO: dintel/arquitrabe
+阑风 | TRADUÇÃO: viento incesante
+阇 | TRADUÇÃO: torre de defensa sobre una puerta/barbacana ‖ (usado en transliteración del sánscrito)
+阇梨 | TRADUÇÃO: monje budista (sánscrito: jala)
+阇黎 | TRADUÇÃO: maestro budista (transliteración del sánscrito acharya)/también escrito 闍梨|阇梨
+阗 | TRADUÇÃO: llenar/llenarse por completo/sonido retumbante
+𫔶 | TRADUÇÃO: parteluz vertical de una puerta
+阘 | TRADUÇÃO: puerta o ventana en un piso superior
+闿 | TRADUÇÃO: aflojar/abrir
+阖 | TRADUÇÃO: puerta/cerrar/entero/todo
+阖家 | TRADUÇÃO: toda la familia/variante de 合家
+阖庐 | TRADUÇÃO: Rey Helu de Wu (fallecido en 496 a.C., reinó de 514 a 496 a.C.)/también llamado 闔閭|阖闾
+阖第光临 | TRADUÇÃO: honrar con la presencia de toda la familia (modismo)
+阖闾 | TRADUÇÃO: Rey Helu de Wu (fallecido en 496 a.C., reinó de 514 a 496 a.C.)/también llamado 闔廬|阖庐
+阖闾城 | TRADUÇÃO: capital del Rey Helu de Wu en el siglo VI a.C. (en la actual Wuxi, Jiangsu)
+阖闾城遗址 | TRADUÇÃO: ruinas de la ciudad de Helu (siglo VI a.C., en la actual Wuxi, Jiangsu)
+阙 | TRADUÇÃO: apellido Que ‖ usado en lugar de 缺 (antiguo)/falta/error ‖ torre de vigilancia imperial (antiguo)/deficiencia/defecto
+阙特勤 | TRADUÇÃO: Kul Tigin o Kultegin (685-c. 731), general del Segundo Kaganato Túrquico
+闯 | TRADUÇÃO: precipitarse/embestir/irrumpir/abrirse paso/foguearse (enfrentando dificultades)
+闯入 | TRADUÇÃO: irrumpir/entrar por la fuerza/infiltrarse
+闯出名堂 | TRADUÇÃO: hacerse un nombre/alcanzar el éxito con esfuerzo
+闯卡 | TRADUÇÃO: forzar el paso por un control sin detenerse/saltarse un retén
+闯王 | TRADUÇÃO: Rey Chuang o Rey Temerario, título del líder rebelde campesino Li Zicheng 李自成 (1605-1645) de finales de la dinastía Ming
+闯王陵 | TRADUÇÃO: mausoleo de Li Zicheng 李自成, apodado Rey Audaz 闖王|闯王
+闯祸 | TRADUÇÃO: causar un problema/armar un lío/meterse en problemas
+闯空门 | TRADUÇÃO: allanar una casa cuando no hay nadie (para robar)
+闯红灯 | TRADUÇÃO: pasarse un semáforo en rojo/saltarse un semáforo en rojo/(jerga) mantener relaciones sexuales durante la menstruación
+闯荡 | TRADUÇÃO: salir al mundo a buscar fortuna/abrirse camino en la vida
+闯荡江湖 | TRADUÇÃO: recorrer el país buscando fortuna/viajar por el mundo
+闯进 | TRADUÇÃO: irrumpir/entrar precipitadamente
+闯过 | TRADUÇÃO: superar forzando el paso/atravesar a la fuerza
+闯关 | TRADUÇÃO: franquear una barrera/superar un obstáculo/abrirse paso por un control
+闯关者 | TRADUÇÃO: persona que supera una barrera/intruso que fuerza el paso
+闗 | TRADUÇÃO: variante antigua de 關|关
+关 | TRADUÇÃO: apellido Guan ‖ paso montañoso/cerrar/apagar/encerrar (a alguien en una habitación, un pájaro en una jaula, etc.)/concernir/afectar
+关上 | TRADUÇÃO: cerrar (una puerta)/apagar (luces, aparatos, etc.)
+关中 | TRADUÇÃO: llanura de Guanzhong en Shaanxi
+关中地区 | TRADUÇÃO: región de Guanzhong en Shaanxi
+关中平原 | TRADUÇÃO: llanura de Guanzhong en Shaanxi
+关之琳 | TRADUÇÃO: Rosamund Kwan (1962-), actriz de Hong Kong
+关乎 | TRADUÇÃO: relacionarse con/concernir a/referente a
+关云长 | TRADUÇÃO: nombre de cortesía de Guan Yu 關羽|关羽
+关你屁事 | TRADUÇÃO: (coloq.) ¡qué te importa!/¡no te metas en lo que no te importa!/¡a ti qué te va ni te viene!
+关系 | TRADUÇÃO: relación/conexión/concernir/afectar/tener que ver con/guanxi (red de influencias)/CL:個|个 ‖ variante de 關係|关系
+关系代名词 | TRADUÇÃO: pronombre relativo
+关系到 | TRADUÇÃO: atañer a/afectar a/tener que ver con
+关系式 | TRADUÇÃO: ecuación relacional (mat.)
+关系户 | TRADUÇÃO: contacto de conveniencia/persona con la que se intercambian favores de mutuo beneficio
+关系网 | TRADUÇÃO: red de contactos y favores/red de influencias
+关停 | TRADUÇÃO: cerrar y suspender actividades/clausurar (fábricas, centrales eléctricas, etc.)
+关内 | TRADUÇÃO: región intramuros/dentro de los pasos montañosos de la antigua China
+关公 | TRADUÇÃO: Señor Guan (es decir, Guan Yu 關羽|关羽)
+关公面前耍大刀 | TRADUÇÃO: (lit.) blandir la alabarda ante Guan Gong (modismo)/(fig.) hacer el ridículo presumiendo ante un maestro
+关切 | TRADUÇÃO: profundamente preocupado/preocupación profunda/inquietud
+关卡 | TRADUÇÃO: puesto de control (aduanero o policial)/(fig.) barrera/obstáculo/traba administrativa/CL:道
+关口 | TRADUÇÃO: paso fronterizo/puerta de acceso/(fig.) momento crítico/coyuntura decisiva
+关员 | TRADUÇÃO: funcionario de aduanas/agente aduanero
+关严 | TRADUÇÃO: cerrar herméticamente/ajustar bien (puertas, ventanas o grifos)
+关城 | TRADUÇÃO: fuerte defensivo sobre un puesto fronterizo
+关塔纳摩 | TRADUÇÃO: Guantánamo, Cuba
+关塔那摩 | TRADUÇÃO: Guantánamo
+关塔那摩湾 | TRADUÇÃO: bahía de Guantánamo (Cuba)
+关塞 | TRADUÇÃO: fortaleza fronteriza de desfiladero
+关境 | TRADUÇÃO: territorio aduanero/frontera aduanera
+关外 | TRADUÇÃO: más allá de los pasos montañosos (especialmente al norte o este del paso Shanhai 山海關|山海关 o al oeste del paso Jiayu 嘉峪關|嘉峪关)
+关子 | TRADUÇÃO: punto culminante o de suspenso (en una narración)
+关山 | TRADUÇÃO: Guanshan, municipio en el condado de Taitung 臺東縣|台东县, sureste de Taiwán ‖ fortalezas y montañas (a lo largo de la Gran Muralla)/la tierra natal
+关山镇 | TRADUÇÃO: municipio de Guanshan en el condado de Taitung 臺東縣|台东县, sureste de Taiwán
+关岛 | TRADUÇÃO: Guam
+关岛大学 | TRADUÇÃO: Universidad de Guam
+关岭 | TRADUÇÃO: véase 關嶺布依族苗族自治縣|关岭布依族苗族自治县
+关岭布依族苗族自治县 | TRADUÇÃO: Guanling, condado autónomo buyi y miao en la ciudad de Anshun 安順市|安顺市, Guizhou
+关岭县 | TRADUÇÃO: véase 關嶺布依族苗族自治縣|关岭布依族苗族自治县
+关店歇业 | TRADUÇÃO: cerrar la tienda y suspender actividades/cerrado por descanso
+关庙 | TRADUÇÃO: Guanmiao, distrito en la ciudad de Tainan 台南|台南, Taiwán
+关厂 | TRADUÇÃO: cerrar una fábrica/cierre patronal
+关张 | TRADUÇÃO: cerrar el negocio/cerrar la tienda definitivamente
+关征 | TRADUÇÃO: recaudación aduanera/arancel de aduanas
+关心 | TRADUÇÃO: preocuparse por/interesarse por/tener consideración por
+关爱 | TRADUÇÃO: mostrar cariño y cuidado/cuidar con afecto/atención afectuosa
+关怀 | TRADUÇÃO: solicitud/cuidado/mostrar preocupación afectuosa/atento a
+关怀备至 | TRADUÇÃO: cuidar con el máximo esmero (modismo)/atención meticulosa y afectuosa
+关押 | TRADUÇÃO: encarcelar/recluir/mantener en prisión
+关掉 | TRADUÇÃO: apagar/desconectar/cerrar (un grifo o llave)
+关文 | TRADUÇÃO: documento oficial entre autoridades de igual rango (época imperial)
+关断 | TRADUÇÃO: cortar/desconectar/interrumpir el paso
+关于 | TRADUÇÃO: acerca de/con respecto a/sobre/en cuanto a
+关东 | TRADUÇÃO: región del noreste de China/Manchuria (al este del paso Shanhai)/región de Kanto en Japón
+关东地震 | TRADUÇÃO: gran terremoto de Kanto de 1923
+关东煮 | TRADUÇÃO: oden (plato japonés de caldo con huevos cocidos, pasteles de pescado, rábano daikon, tofu, etc.)
+关东军 | TRADUÇÃO: ejército japonés de Kwantung (famoso por sus atrocidades en China durante la Segunda Guerra Mundial)
+关格 | TRADUÇÃO: bloqueo urinario y vómitos severos (MTC)
+关栈 | TRADUÇÃO: almacén de aduanas/depósito aduanero
+关栈费 | TRADUÇÃO: tarifa de almacenamiento aduanero
+关机 | TRADUÇÃO: apagar (un dispositivo o máquina)/finalizar el rodaje de una película
+关注 | TRADUÇÃO: prestar atención a/seguir de cerca/seguir (en redes sociales)/atención/interés
+关涉 | TRADUÇÃO: atañer/concernir/involucrar/conexión/relación
+关汉卿 | TRADUÇÃO: Guan Hanqing (c. 1235-c. 1300), dramaturgo de la dinastía Yuan de ópera zaju, uno de los Cuatro Grandes Dramaturgos de Yuan
+关照 | TRADUÇÃO: cuidar/vigilar/atender/avisar/recordar
+关白 | TRADUÇÃO: informar/notificar
+关禁闭 | TRADUÇÃO: poner bajo arresto en celda (a un soldado o estudiante)
+关税 | TRADUÇÃO: arancel/derecho de aduana
+关税同盟 | TRADUÇÃO: unión aduanera
+关税国境 | TRADUÇÃO: frontera aduanera
+关税壁垒 | TRADUÇÃO: barrera arancelaria
+关税与贸易总协定 | TRADUÇÃO: GATT (Acuerdo General sobre Aranceles Aduaneros y Comercio de 1995)
+关颖珊 | TRADUÇÃO: Michelle Kwan (1980-), ex patinadora artística estadounidense y medallista olímpica
+关节 | TRADUÇÃO: articulación (fisiología)/punto clave/momento crítico
+关节囊 | TRADUÇÃO: cápsula articular (anatomía)
+关节炎 | TRADUÇÃO: artritis
+关节腔 | TRADUÇÃO: cavidad articular
+关节面 | TRADUÇÃO: carilla articular/superficie articular (anatomía)
+关紧 | TRADUÇÃO: cerrar firmemente/asegurar bien/apretar
+关羽 | TRADUÇÃO: Guan Yu (-219), célebre general del reino de Shu, hermano de juramento de Liu Bei en el Romance de los Tres Reinos, deificado como deidad de la lealtad y la justicia
+关联 | TRADUÇÃO: estar relacionado/vincularse/relación/vínculo/conexión
+关联公司 | TRADUÇÃO: empresa afiliada/empresa asociada
+关联词 | TRADUÇÃO: conector discursivo/conjunción (gramática)
+关西 | TRADUÇÃO: región de Kansai en Japón/Guanxi, municipio en el condado de Hsinchu 新竹縣|新竹县, noroeste de Taiwán
+关西镇 | TRADUÇÃO: municipio de Guanxi en el condado de Hsinchu 新竹縣|新竹县, noroeste de Taiwán
+关说 | TRADUÇÃO: interceder a favor de alguien/hacer cabildeo ilícito/tráfico de influencias
+关贸总协定 | TRADUÇÃO: GATT (Acuerdo General sobre Aranceles Aduaneros y Comercio)
+关连 | TRADUÇÃO: variante de 關聯|关联
+关金 | TRADUÇÃO: véase 關金券|关金券
+关金券 | TRADUÇÃO: unidad monetaria de aduanas china (moneda usada en China entre 1930 y 1948)
+关键 | TRADUÇÃO: punto clave/clave/crucial/pivotal/CL:個|个
+关键字 | TRADUÇÃO: palabra clave
+关键绩效指标 | TRADUÇÃO: indicador clave de rendimiento (KPI)
+关键词 | TRADUÇÃO: palabra clave
+关门 | TRADUÇÃO: cerrar la puerta/echar el cerrojo/(de un comercio) cerrar (por la noche o definitivamente)
+关门兔 | TRADUÇÃO: (deportes) (coloq.) liebre de cola/marcapasos de cierre (en carreras de fondo)
+关门大吉 | TRADUÇÃO: cerrar un negocio definitivamente con la mejor cara posible (modismo)
+关门弟子 | TRADUÇÃO: último discípulo aceptado por un maestro
+关门打狗 | TRADUÇÃO: (lit.) cerrar la puerta y apalear al perro (modismo)/(fig.) cortar la retirada al enemigo y atacarlo con contundencia
+关门捉贼 | TRADUÇÃO: atrapar al ladrón cerrándole las vías de escape (modismo)
+关闭 | TRADUÇÃO: cerrar (una puerta, ventana, etc.)/clausurar (una tienda, escuela, etc.)/apagar
+关关难过，关关过 | TRADUÇÃO: enfrentar obstáculo tras obstáculo y salir adelante
+关防 | TRADUÇÃO: medidas de seguridad y control fronterizo/sello oficial de aduanas o militar (épocas Ming y Qing)
+关隘 | TRADUÇÃO: paso de montaña fortificado/desfiladero estratégico
+关头 | TRADUÇÃO: coyuntura crítica/momento decisivo
+关饷 | TRADUÇÃO: cobrar el salario/pagar los sueldos
+阚 | TRADUÇÃO: apellido Kan ‖ mirar de reojo/echar un vistazo
+闟 | TRADUÇÃO: pacíficamente/tranquilamente
+阓 | TRADUÇÃO: puerta de un mercado
+阐 | TRADUÇÃO: expresar/revelar/esclarecer/abrir
+阐扬 | TRADUÇÃO: divulgar y ensalzar/propagar/exponer
+阐明 | TRADUÇÃO: esclarecer/explicar con claridad/exponer
+阐发 | TRADUÇÃO: dilucidar/exponer y profundizar/estudiar y explicar
+阐示 | TRADUÇÃO: demostrar/exponer claramente
+阐述 | TRADUÇÃO: exponer (una postura)/desarrollar (un tema)/tratar detalladamente
+阐释 | TRADUÇÃO: interpretar/explicar/dilucidar/elucidación
+辟室 | TRADUÇÃO: reunirse a puerta cerrada/apartarse en una habitación tranquila
+辟室密谈 | TRADUÇÃO: conversar a puerta cerrada/mantener una reunión confidencial
+辟建 | TRADUÇÃO: (Taiwán) construir (en terreno no urbanizado)/abrir y edificar
+辟谣 | TRADUÇÃO: desmentir un rumor/refutar una falsedad
+阛 | TRADUÇÃO: muralla de un mercado/cercado de mercado
+闼 | TRADUÇÃO: puerta de un aposento interior
+阜 | TRADUÇÃO: abundante/colina/montículo
+阜南 | TRADUÇÃO: véase 阜南縣|阜南县
+阜南县 | TRADUÇÃO: Funan, condado de la ciudad de Fuyang 阜陽市|阜阳市, Anhui
+阜城 | TRADUÇÃO: véase 阜城縣|阜城县
+阜城县 | TRADUÇÃO: Fucheng, condado de la ciudad de Hengshui 衡水市, Hebei
+阜宁 | TRADUÇÃO: véase 阜寧縣|阜宁县
+阜宁县 | TRADUÇÃO: Funing, condado de la ciudad de Yancheng 鹽城市|盐城市, Jiangsu
+阜平 | TRADUÇÃO: véase 阜平縣|阜平县
+阜平县 | TRADUÇÃO: Fuping, condado de la ciudad de Baoding 保定市, Hebei
+阜康 | TRADUÇÃO: véase 阜康市
+阜康市 | TRADUÇÃO: Fukang, ciudad a nivel de condado en la prefectura autónoma hui de Changji 昌吉回族自治州, Xinjiang
+阜成门 | TRADUÇÃO: Fuchengmen, barrio de Pekín
+阜新 | TRADUÇÃO: véase 阜新市/véase 阜新蒙古族自治縣|阜新蒙古族自治县
+阜新市 | TRADUÇÃO: Fuxin, ciudad-prefectura en la provincia de Liaoning 遼寧省|辽宁省
+阜新县 | TRADUÇÃO: véase 阜新蒙古族自治縣|阜新蒙古族自治县
+阜新蒙古族自治县 | TRADUÇÃO: Fuxin, condado autónomo mongol en la ciudad de Fuxin 阜新市, Liaoning
+阜阳 | TRADUÇÃO: véase 阜陽市|阜阳市
+阜阳市 | TRADUÇÃO: Fuyang, ciudad-prefectura en la provincia de Anhui 安徽省
+阞 | TRADUÇÃO: capa geológica/veta
+阡 | TRADUÇÃO: camino que va de norte a sur entre campos
+阢 | TRADUÇÃO: usado en 阢隉|阢陧
+阢陧 | TRADUÇÃO: variante de 杌隉|杌陧
+阤 | TRADUÇÃO: orilla/ladera de una colina
+阨 | TRADUÇÃO: desfiladero/paso estrecho/en apuros
+阪 | TRADUÇÃO: pendiente/ladera
+阮 | TRADUÇÃO: apellido Ruan/pequeño estado durante la dinastía Shang (1600-1046 a.C.) en el sureste del actual Gansu ‖ ruan (laúd tradicional chino de cuatro cuerdas)
+阮元 | TRADUÇÃO: Ruan Yuan (1764-1849), célebre erudito y funcionario de la dinastía Qing
+阮咸 | TRADUÇÃO: véase 阮
+阮安 | TRADUÇÃO: Nguyen An (1381-1453), arquitecto e ingeniero vietnamita, principal diseñador de la Ciudad Prohibida
+阮崇武 | TRADUÇÃO: Ruan Chongwu (1933-), tercer gobernador de Hainan
+阮晋勇 | TRADUÇÃO: Nguyễn Tấn Dũng (1949-), primer ministro de Vietnam (2006-2016)
+阮琴 | TRADUÇÃO: véase 阮
+阰 | TRADUÇÃO: montaña en el antiguo estado de Chu
+防 | TRADUÇÃO: proteger/defender/prevenir/guardarse de
+防不胜防 | TRADUÇÃO: (modismo) imposible de prevenir del todo/difícil de evitar
+防伪 | TRADUÇÃO: antifalsificación/evitar falsificaciones
+防备 | TRADUÇÃO: precaverse contra/estar en guardia/tomar precauciones
+防冻 | TRADUÇÃO: anticongelante
+防冻剂 | TRADUÇÃO: anticongelante/agente anticongelante
+防制 | TRADUÇÃO: (Taiwán) combatir (el acoso, el lavado de dinero, etc.)/contrarrestar
+防务 | TRADUÇÃO: defensa/asuntos de defensa militar
+防化救援 | TRADUÇÃO: rescate y protección antiquímica
+防喘振 | TRADUÇÃO: (diseño de turbomáquinas) antisobretensión/antibombeo
+防喷罩 | TRADUÇÃO: filtro antipop (ingeniería de audio)
+防城 | TRADUÇÃO: véase 防城區|防城区
+防城区 | TRADUÇÃO: Fangcheng, distrito de la ciudad de Fangchenggang 防城港市, Guangxi
+防城港 | TRADUÇÃO: véase 防城港市
+防城港市 | TRADUÇÃO: Fangchenggang, ciudad-prefectura en la región autónoma zhuang de Guangxi 廣西壯族自治區|广西壮族自治区
+防堵 | TRADUÇÃO: bloquear/contener/prevenir
+防夹 | TRADUÇÃO: antipinzamiento (mecanismo que evita atrapar los dedos en ventanillas automáticas)
+防守 | TRADUÇÃO: defender/proteger
+防守者 | TRADUÇÃO: defensor
+防寒服 | TRADUÇÃO: ropa de abrigo para el frío/abrigo térmico
+防弊 | TRADUÇÃO: antifraude/evitar trampas o irregularidades
+防弹 | TRADUÇÃO: antibalas/a prueba de balas
+防弹衣 | TRADUÇÃO: chaleco antibalas
+防微杜渐 | TRADUÇÃO: cortar de raíz los problemas incipientes (modismo)/atajar el mal desde el principio
+防患 | TRADUÇÃO: tomar medidas preventivas/prevenir accidentes o desastres
+防患于未然 | TRADUÇÃO: véase 防患未然
+防患未然 | TRADUÇÃO: prevenir los problemas antes de que ocurran (modismo)/cortar de raíz
+防患未萌 | TRADUÇÃO: evitar el desastre antes de que brote (modismo)/atajar a tiempo
+防控 | TRADUÇÃO: prevención y control (de epidemias, etc.)/prevenir y controlar
+防损 | TRADUÇÃO: prevención de pérdidas
+防暑降温 | TRADUÇÃO: prevenir la insolación y refrescar
+防暴 | TRADUÇÃO: antidisturbios/control de disturbios
+防暴盾 | TRADUÇÃO: escudo antidisturbios
+防暴警察 | TRADUÇÃO: policía antidisturbios/fuerzas antidisturbios
+防晒 | TRADUÇÃO: protección solar/protegerse del sol
+防晒油 | TRADUÇÃO: bronceador con protección solar/aceite solar
+防晒霜 | TRADUÇÃO: crema solar/bloqueador solar/protector solar
+防杜 | TRADUÇÃO: prevenir/impedir
+防核 | TRADUÇÃO: defensa nuclear/antinuclear
+防止 | TRADUÇÃO: evitar/prevenir/impedir
+防毒 | TRADUÇÃO: proteger contra sustancias tóxicas, narcóticos o virus informáticos
+防毒围裙 | TRADUÇÃO: delantal de protección química
+防毒手套 | TRADUÇÃO: guantes de protección química/guantes protectores
+防毒斗篷 | TRADUÇÃO: capa de protección química
+防毒软件 | TRADUÇÃO: software antivirus/antivirus
+防毒通道 | TRADUÇÃO: pasadizo de descontaminación o protección química
+防毒面具 | TRADUÇÃO: máscara antigás
+防毒面罩 | TRADUÇÃO: máscara antigás/careta de protección
+防毒靴套 | TRADUÇÃO: cubrebotas de protección química
+防水 | TRADUÇÃO: impermeable/a prueba de agua
+防汛 | TRADUÇÃO: control de inundaciones/precauciones contra crecidas
+防治 | TRADUÇÃO: prevenir y curar/prevención y tratamiento
+防波堤 | TRADUÇÃO: rompeolas/malecón/(fig.) zona de amortiguación defensiva
+防洪 | TRADUÇÃO: control de inundaciones/prevención de riadas
+防滑 | TRADUÇÃO: antideslizante
+防滑链 | TRADUÇÃO: cadena para la nieve (de neumático)
+防潮 | TRADUÇÃO: a prueba de humedad/resistente a la humedad/protección contra mareas
+防潮堤 | TRADUÇÃO: dique contra mareas
+防潮垫 | TRADUÇÃO: esterilla aislante/manta impermeable para acampar
+防火 | TRADUÇÃO: a prueba de incendios/protección contra el fuego/prevenir incendios
+防火梯 | TRADUÇÃO: escalera de incendios
+防火墙 | TRADUÇÃO: cortafuegos/firewall
+防火道 | TRADUÇÃO: cortafuegos (franja de terreno para frenar incendios)
+防火长城 | TRADUÇÃO: Gran Cortafuegos de China (sistema de censura de internet)
+防灾 | TRADUÇÃO: prevención de desastres/protección contra catástrofes naturales
+防焊油墨 | TRADUÇÃO: máscara de soldadura (en placas de circuitos)
+防特 | TRADUÇÃO: frustrar el espionaje/contraespionaje
+防狼喷雾 | TRADUÇÃO: gas pimienta/espray de pimienta para defensa personal
+防疫 | TRADUÇÃO: prevención de epidemias/medidas antiepidémicas
+防盗 | TRADUÇÃO: antirrobo/protección contra robos
+防盗门 | TRADUÇÃO: puerta de seguridad/puerta blindada
+防磁 | TRADUÇÃO: antimagnético
+防御 | TRADUÇÃO: defensa/defenderse
+防御工事 | TRADUÇÃO: fortificación/obras defensivas
+防御性 | TRADUÇÃO: de carácter defensivo/defensivo
+防御率 | TRADUÇÃO: promedio de carreras limpias permitidas (béisbol)
+防御术 | TRADUÇÃO: arte defensivo/técnicas de defensa
+防空 | TRADUÇÃO: defensa antiaérea
+防空洞 | TRADUÇÃO: refugio antiaéreo/(fig.) guarida de delincuentes/escondite
+防空避难 | TRADUÇÃO: (Taiwán) evacuación a un refugio antiaéreo
+防空避难所 | TRADUÇÃO: (Taiwán) refugio antiaéreo
+防范 | TRADUÇÃO: estar en guardia/tomar precauciones/prevenir/preventivo
+防线 | TRADUÇÃO: línea defensiva/perímetro de defensa/CL:道
+防腐 | TRADUÇÃO: imputrescible/antiséptico/anticorrosivo
+防腐剂 | TRADUÇÃO: conservante/antiséptico
+防艾 | TRADUÇÃO: prevención del sida/protección contra el VIH
+防蚊液 | TRADUÇÃO: repelente de mosquitos
+防卫 | TRADUÇÃO: defender/defensivo/defensa
+防卫大臣 | TRADUÇÃO: ministro de Defensa (especialmente en Japón)
+防卫武器 | TRADUÇÃO: arma defensiva
+防卫过当 | TRADUÇÃO: exceso en la legítima defensa
+防护 | TRADUÇÃO: proteger/resguardar/protección
+防护服 | TRADUÇÃO: traje de protección/traje de bioseguridad
+防护眼镜 | TRADUÇÃO: gafas de protección/gafas de seguridad
+防身 | TRADUÇÃO: autodefensa/defenderse a uno mismo
+防避 | TRADUÇÃO: protección/evitar el peligro
+防锈 | TRADUÇÃO: antioxidante/prevenir la herrumbre
+防长 | TRADUÇÃO: abrev. de 國防部長|国防部长, ministro de Defensa
+防门 | TRADUÇÃO: puerta defensiva/puerta de protección
+防闲 | TRADUÇÃO: vigilar/precaverse
+防震 | TRADUÇÃO: resistente a terremotos/antichoque/antivibración
+防霉 | TRADUÇÃO: antimoho/resistente al moho
+防风 | TRADUÇÃO: proteger del viento/fangfeng (Saposhnikovia divaricata, raíz usada en MTC)
+防风固沙 | TRADUÇÃO: fijación de dunas y barrera contra el viento
+防骇 | TRADUÇÃO: antihacker/protección contra piratas informáticos
+防龋 | TRADUÇÃO: (odontología) prevención de caries/anticaries
+阹 | TRADUÇÃO: corral/rodear
+阻 | TRADUÇÃO: obstaculizar/bloquear/impedir/frenar
+阻值 | TRADUÇÃO: valor de resistencia/impedancia eléctrica
+阻力 | TRADUÇÃO: resistencia/fricción/arrastre
+阻吓 | TRADUÇÃO: disuadir/amedrentar
+阻塞 | TRADUÇÃO: obstruir/bloquear/taponar
+阻尼 | TRADUÇÃO: amortiguamiento (física)
+阻差办公 | TRADUÇÃO: (derecho) obstrucción a la justicia o a la función pública (Hong Kong)
+阻截 | TRADUÇÃO: interceptar/bloquear el paso
+阻抑 | TRADUÇÃO: inhibir/frenar/reprimir/neutralizar
+阻抗 | TRADUÇÃO: impedancia (eléctrica)
+阻抗匹配 | TRADUÇÃO: adaptación de impedancia
+阻抗变换器 | TRADUÇÃO: transformador de impedancia
+阻援 | TRADUÇÃO: bloquear refuerzos enemigos
+阻挠 | TRADUÇÃO: obstaculizar/entorpecer/frustrar
+阻击 | TRADUÇÃO: frenar el avance enemigo mediante fuego/contener/bloquear
+阻挡 | TRADUÇÃO: detener/resistir/bloquear el paso
+阻扰 | TRADUÇÃO: entorpecer/estorbar/perturbar
+阻拦 | TRADUÇÃO: detener/bloquear/impedir el paso
+阻攻 | TRADUÇÃO: (Taiwán) taponar un tiro (baloncesto)
+阻断 | TRADUÇÃO: cortar/bloquear/interceptar/interrumpir
+阻断服务攻击 | TRADUÇÃO: (Taiwán) (inform.) ataque de denegación de servicio (DDoS)
+阻桡 | TRADUÇÃO: variante de 阻撓|阻挠
+阻止 | TRADUÇÃO: impedir/detener/evitar
+阻滞 | TRADUÇÃO: atascarse/congestionarse/colmatado
+阻燃 | TRADUÇÃO: ignífugo/retardante de llama
+阻留 | TRADUÇÃO: retener/interceptar/retención
+阻碍 | TRADUÇÃO: obstaculizar/impedir/traba/obstáculo
+阻绝 | TRADUÇÃO: cortar el paso/bloquear completamente
+阻遏 | TRADUÇÃO: contener/frenar/detener
+阻隔 | TRADUÇÃO: separar/aislar/distanciar
+阻难 | TRADUÇÃO: poner trabas/crear dificultades
+阻雨 | TRADUÇÃO: quedar inmovilizado por la lluvia
+阼 | TRADUÇÃO: escalones orientales de acceso al templo o palacio
+阽 | TRADUÇÃO: peligroso/al borde del abismo
+阿 | TRADUÇÃO: prefijo de familiaridad ante nombres o términos de parentesco/usado en transliteraciones/(forma ligada) Afganistán (abrev. de 阿富汗)/(forma ligada) Albania (abrev. de 阿爾巴尼亞|阿尔巴尼亚)/(forma ligada) Argelia (abrev. de 阿爾及利亞|阿尔及利亚)/(forma ligada) Argentina (abrev. de 阿根廷) ‖ (literario) adular/lisonjear
+阿Q | TRADUÇÃO: Ah Q (antihéroe de la famosa novela corta de Lu Xun de 1921 "La verdadera historia de Ah Q" 阿Q正傳|阿Q正传)
+阿Q正传 | TRADUÇÃO: La verdadera historia de Ah Q (célebre novela corta de 1921 escrita por Lu Xun 魯迅|鲁迅)
+阿三 | TRADUÇÃO: (desp.) un indio/hindú
+阿不来提·阿不都热西提 | TRADUÇÃO: Ablet Abdureshit (1942-), político uigur, presidente de la Región Autónoma Uigur de Xinjiang (1993-2003)
+阿丹 | TRADUÇÃO: Adán (nombre)/Adén (capital provisional de Yemen)
+阿亚图拉 | TRADUÇÃO: ayatolá (líder religioso en el islam chiita)
+阿亨 | TRADUÇÃO: Aquisgrán (ciudad de Alemania)/también escrito 亞琛|亚琛
+阿什哈巴德 | TRADUÇÃO: Asjabad (capital de Turkmenistán)
+阿什哈巴特 | TRADUÇÃO: Asjabad (capital de Turkmenistán) (Taiwán)
+阿什拉维 | TRADUÇÃO: apellido Ashrawi/Hanan Ashrawi (1946-), académica y activista política palestina
+阿仙药 | TRADUÇÃO: extracto de gambir (de Uncaria gambir, usado en MTC)
+阿伊努 | TRADUÇÃO: ainu (pueblo indígena del norte de Japón y este de Rusia)
+阿伊莎 | TRADUÇÃO: Aisha (nombre)/Aisha bint Abi Bakr (c. 614-678), esposa del profeta Mahoma 穆罕默德
+阿伏伽德罗 | TRADUÇÃO: Amedeo Avogadro (1776-1856), científico italiano
+阿伏伽德罗常数 | TRADUÇÃO: constante de Avogadro/número de Avogadro (quím.)
+阿伯丁 | TRADUÇÃO: Aberdeen (ciudad de Escocia)
+阿佛洛狄忒 | TRADUÇÃO: Afrodita (diosa griega del amor)
+阿佤 | TRADUÇÃO: etnia wa (grupo étnico de Myanmar, sur de China y sudeste asiático)
+阿来 | TRADUÇÃO: Alai (1959-), escritor chino de etnia tibetana, premio de literatura Mao Dun en 2000 por su novela "Cuando el polvo se asienta" 塵埃落定|尘埃落定
+阿依莎 | TRADUÇÃO: Aisha (nombre)/Aisha bint Abi Bakr (c. 614-678), esposa del profeta Mahoma/también escrito 阿伊莎
+阿修罗 | TRADUÇÃO: asura (espíritus guerreros en la mitología india y el budismo)
+阿们 | TRADUÇÃO: (préstamo) amén
+阿伦 | TRADUÇÃO: Aalen (ciudad de Alemania)
+阿伦达尔 | TRADUÇÃO: Arendal (ciudad en Agder, Noruega)
+阿兄 | TRADUÇÃO: hermano mayor
+阿克伦 | TRADUÇÃO: río Aqueronte (en Epiro, noroeste de Grecia)
+阿克伦河 | TRADUÇÃO: río Aqueronte (en el noroeste de Grecia)
+阿克塞 | TRADUÇÃO: véase 阿克塞哈薩克族自治縣|阿克塞哈萨克族自治县
+阿克塞哈萨克族自治县 | TRADUÇÃO: Aksai, condado autónomo kazajo en la ciudad de Jiuquan 酒泉市, Gansu
+阿克塞县 | TRADUÇÃO: véase 阿克塞哈薩克族自治縣|阿克塞哈萨克族自治县
+阿克拉 | TRADUÇÃO: Acra (capital de Ghana)
+阿克苏 | TRADUÇÃO: véase 阿克蘇地區|阿克苏地区/véase 阿克蘇市|阿克苏市/véase 阿克蘇河|阿克苏河
+阿克苏地区 | TRADUÇÃO: prefectura de Aksu en la Región Autónoma Uigur de Xinjiang 新疆維吾爾自治區|新疆维吾尔自治区
+阿克苏市 | TRADUÇÃO: Aksu, ciudad a nivel de condado en la prefectura de Aksu 阿克蘇地區|阿克苏地区, Xinjiang
+阿克苏河 | TRADUÇÃO: río Aksu en Xinjiang
+阿克赛钦 | TRADUÇÃO: Aksai Chin (región disputada en la meseta tibetana)
+阿克陶 | TRADUÇÃO: véase 阿克陶縣|阿克陶县
+阿克陶县 | TRADUÇÃO: Akto, condado en la prefectura autónoma kirguís de Kizilsu 克孜勒蘇柯爾克孜自治州|克孜勒苏柯尔克孜自治州, Xinjiang
+阿公 | TRADUÇÃO: (antiguo) abuelo/tratamiento respetuoso para un anciano o el suegro de una mujer/(taiwanés) abuelo
+阿兵哥 | TRADUÇÃO: (coloq.) soldadito/recluta/soldado
+阿其所好 | TRADUÇÃO: adular y satisfacer los caprichos de alguien
+阿凡提 | TRADUÇÃO: Nasreddin Hoca (el Efendi), héroe del folclore islámico conocido por su sabiduría y humor
+阿凡达 | TRADUÇÃO: Avatar (película)
+阿列克西斯 | TRADUÇÃO: Alexis (nombre)
+阿列夫 | TRADUÇÃO: álef (primera letra א del alfabeto hebreo)
+阿利坎特 | TRADUÇÃO: Alicante (ciudad de España)
+阿利藤 | TRADUÇÃO: raíz y planta de Alyxia (usada en MTC)
+阿加维 | TRADUÇÃO: véase 阿爾加維|阿尔加维
+阿加莎·克里斯蒂 | TRADUÇÃO: Agatha Christie
+阿加迪尔 | TRADUÇÃO: Agadir (ciudad del suroeste de Marruecos)
+阿勒泰 | TRADUÇÃO: véase 阿勒泰地區|阿勒泰地区/véase 阿勒泰市
+阿勒泰地区 | TRADUÇÃO: prefectura de Altay en la Región Autónoma Uigur de Xinjiang 新疆維吾爾自治區|新疆维吾尔自治区
+阿勒泰市 | TRADUÇÃO: Altay, ciudad a nivel de condado en la prefectura de Altay 阿勒泰地區|阿勒泰地区, Xinjiang
+阿卜杜拉 | TRADUÇÃO: Abdalá/Abdullah (nombre)
+阿卡 | TRADUÇÃO: Acre (ciudad de Israel, también conocida como Akko)
+阿卡提 | TRADUÇÃO: Arcadia (prefectura griega en el Peloponeso)
+阿卡普尔科 | TRADUÇÃO: Acapulco (ciudad de México)
+阿卡贝拉 | TRADUÇÃO: (préstamo) a capela/a cappella
+阿卡迪亚 | TRADUÇÃO: Arcadia (topónimo)
+阿卡迪亚大学 | TRADUÇÃO: Universidad de Acadia (Canadá)
+阿史那骨咄禄 | TRADUÇÃO: Ashina Qutlugh, nombre propio de Ilterish Qaghan 頡跌利施可汗|颉跌利施可汗
+阿司匹林 | TRADUÇÃO: (préstamo) aspirina
+阿合奇 | TRADUÇÃO: véase 阿合奇縣|阿合奇县
+阿合奇县 | TRADUÇÃO: Akqi, condado en la prefectura autónoma kirguís de Kizilsu 克孜勒蘇柯爾克孜自治州|克孜勒苏柯尔克孜自治州, Xinjiang
+阿哥 | TRADUÇÃO: (familiar) hermano mayor
+阿喀琉斯 | TRADUÇÃO: Aquiles (héroe griego central de la Ilíada, hijo de Tetis y Peleo)
+阿嘿颜 | TRADUÇÃO: variante de 阿黑顏|阿黑颜
+阿嚏 | TRADUÇÃO: (onomat.) ¡achís!/¡atchús! (sonido de un estornudo)
+阿囡 | TRADUÇÃO: niñita/cielo/hija mía (apelativo cariñoso para una niña)
+阿图什 | TRADUÇÃO: véase 阿圖什市|阿图什市
+阿图什市 | TRADUÇÃO: Artush, ciudad a nivel de condado en la prefectura autónoma kirguís de Kizilsu 克孜勒蘇柯爾克孜自治州|克孜勒苏柯尔克孜自治州, Xinjiang
+阿土 | TRADUÇÃO: campesino rústico/paleto (desp.)
+阿城 | TRADUÇÃO: véase 阿城區|阿城区
+阿城区 | TRADUÇÃO: Acheng, distrito de la ciudad de Harbin 哈爾濱市|哈尔滨市, Heilongjiang
+阿基米德 | TRADUÇÃO: Arquímedes (c. 287-212 a.C.)
+阿堵 | TRADUÇÃO: (literario) esto/(abrev. de 阿堵物) dinero
+阿堵物 | TRADUÇÃO: (literario) (eufemismo) dinero/vil metal (lit. "esta cosa")
+阿塞拜疆 | TRADUÇÃO: Azerbaiyán
+阿坝 | TRADUÇÃO: véase 阿壩藏族羌族自治州|阿坝藏族羌族自治州/véase 阿壩縣|阿坝县
+阿坝州 | TRADUÇÃO: véase 阿壩藏族羌族自治州|阿坝藏族羌族自治州
+阿坝县 | TRADUÇÃO: Ngawa, condado en la prefectura autónoma tibetana y qiang de Ngawa 阿壩藏族羌族自治州|阿坝藏族羌族自治州, Sichuan
+阿坝藏族羌族自治州 | TRADUÇÃO: prefectura autónoma tibetana y qiang de Ngawa, en la provincia de Sichuan 四川省
+阿多尼斯 | TRADUÇÃO: Adonis (figura de la mitología griega)
+阿多诺 | TRADUÇÃO: apellido Adorno/Theodor W. Adorno 狄奧多·阿多諾|狄奥多·阿多诺 (1903-1969), sociólogo, filósofo, musicólogo y compositor alemán
+阿奇里斯 | TRADUÇÃO: Aquiles (héroe griego de la Ilíada)
+阿奇霉素 | TRADUÇÃO: (farmacología) azitromicina
+阿奎纳 | TRADUÇÃO: apellido Aquino/Tomás de Aquino 托馬斯·阿奎納|托马斯·阿奎纳 (1225-1274)
+阿契美尼德王朝 | TRADUÇÃO: dinastía aqueménida (559-330 a.C., imperio persa aqueménida)
+阿奶 | TRADUÇÃO: abuelita/abuela
+阿妹 | TRADUÇÃO: hermana menor
+阿姆哈拉 | TRADUÇÃO: Amhara (provincia, idioma y grupo étnico de Etiopía)/amhárico/etíope
+阿姆斯特丹 | TRADUÇÃO: Ámsterdam (capital de los Países Bajos)
+阿姆斯特朗 | TRADUÇÃO: apellido Armstrong
+阿姆河 | TRADUÇÃO: Amu Daria (el río más grande de Asia Central, antiguamente conocido como Oxus)
+阿姨 | TRADUÇÃO: tía materna/madrastra/cuidadora infantil/niñera/señora (tratamiento cariñoso usado por niños)/CL:個|个
+阿婆 | TRADUÇÃO: abuela/anciana/suegra
+阿妈 | TRADUÇÃO: abuela (paterna) (Taiwán)/(dialectal) madre/nodriza/ama de cría/(manchú) padre
+阿嬷 | TRADUÇÃO: (Taiwán) abuela/anciana (del taiwanés a-má)
+阿宅 | TRADUÇÃO: casero/friki/otaku/persona que no sale de casa
+阿家 | TRADUÇÃO: suegra (madre del esposo)
+阿富汗 | TRADUÇÃO: Afganistán
+阿富汗语 | TRADUÇÃO: pastún/afgano (lengua)
+阿尼林 | TRADUÇÃO: (quím.) (préstamo) anilina
+阿巴嘎旗 | TRADUÇÃO: bandera de Abag en la liga de Xilingol 錫林郭勒盟|锡林郭勒盟, Mongolia Interior
+阿巴拉契亚 | TRADUÇÃO: montes Apalaches en América del Norte
+阿巴斯 | TRADUÇÃO: Mahmud Abbás (1935-), político palestino, presidente de la Autoridad Nacional Palestina, también conocido como Abu Mazen
+阿布叔醇 | TRADUÇÃO: albuterol/salbutamol (medicamento contra el asma)
+阿布哈兹 | TRADUÇÃO: Abjasia
+阿布扎比 | TRADUÇÃO: Abu Dabi (capital de los Emiratos Árabes Unidos)
+阿布沙耶夫 | TRADUÇÃO: Abu Sayyaf (grupo militante separatista islamista)
+阿布贾 | TRADUÇÃO: Abuya (capital de Nigeria)
+阿布达比 | TRADUÇÃO: Abu Dabi (capital de los Emiratos Árabes Unidos) (Taiwán)
+阿希姆 | TRADUÇÃO: Askim (ciudad en Østfold, Noruega)
+阿弗洛狄忒 | TRADUÇÃO: variante de 阿佛洛狄忒
+阿弟 | TRADUÇÃO: hermano menor
+阿弥陀佛 | TRADUÇÃO: buda Amitābha/el buda de la tierra pura occidental/¡que el buda nos proteja!/¡buda misericordioso!
+阿弥陀如来 | TRADUÇÃO: Amitābha Tathāgata (buda de la luz infinita)
+阿彼雅 | TRADUÇÃO: Abías (nombre bíblico)
+阿得拉 | TRADUÇÃO: Adderall (fármaco estimulante)
+阿得拉尔 | TRADUÇÃO: Adderall (fármaco estimulante)
+阿得莱德 | TRADUÇÃO: Adelaida (capital de Australia Meridional)
+阿德莱德 | TRADUÇÃO: Adelaida (capital de Australia Meridional)
+阿德雷德 | TRADUÇÃO: Adelaida (capital de Australia Meridional)/también escrito 阿德萊德|阿德莱德
+阿房宫 | TRADUÇÃO: palacio Epang (complejo palaciego al oeste de Xi'an construido por Qin Shihuang 秦始皇)
+阿扁 | TRADUÇÃO: A-bian (apodo de Chen Shui-bian 陳水扁|陈水扁)
+阿托品 | TRADUÇÃO: atropina (alcaloide de la belladona Atropa belladonna)
+阿拉 | TRADUÇÃO: Alá (Dios en árabe) ‖ (dialecto wu) yo/a mí/nosotros/nuestro
+阿拉丁 | TRADUÇÃO: Aladino (personaje de Las mil y una noches)
+阿拉伯 | TRADUÇÃO: árabe/arábigo/de Arabia
+阿拉伯人 | TRADUÇÃO: árabe/pueblo árabe
+阿拉伯共同市场 | TRADUÇÃO: Mercado Común Árabe
+阿拉伯半岛 | TRADUÇÃO: península arábiga/península de Arabia
+阿拉伯国家联盟 | TRADUÇÃO: Liga de los Estados Árabes/Liga Árabe
+阿拉伯数字 | TRADUÇÃO: números arábigos (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+阿拉伯文 | TRADUÇÃO: lengua y escritura árabe/árabe
+阿拉伯海 | TRADUÇÃO: mar Arábigo
+阿拉伯糖 | TRADUÇÃO: arabinosa (tipo de monosacárido)
+阿拉伯联合大公国 | TRADUÇÃO: Emiratos Árabes Unidos (Taiwán)
+阿拉伯联合酋长国 | TRADUÇÃO: Emiratos Árabes Unidos (EAU)
+阿拉伯胶 | TRADUÇÃO: goma arábiga/goma de acacia
+阿拉伯茴香 | TRADUÇÃO: véase 孜然/comino
+阿拉伯语 | TRADUÇÃO: idioma árabe/lengua árabe
+阿拉善 | TRADUÇÃO: véase 阿拉善盟
+阿拉善右旗 | TRADUÇÃO: bandera derecha de Alxa en la liga de Alxa 阿拉善盟, Mongolia Interior
+阿拉善左旗 | TRADUÇÃO: bandera izquierda de Alxa en la liga de Alxa 阿拉善盟, Mongolia Interior
+阿拉善盟 | TRADUÇÃO: liga de Alxa, en la Región Autónoma de Mongolia Interior 內蒙古自治區|内蒙古自治区
+阿拉塔斯 | TRADUÇÃO: apellido Alatas/Ali Alatas (1932-2008), ministro de Relaciones Exteriores de Indonesia (1988-1999)
+阿拉山口 | TRADUÇÃO: véase 阿拉山口市
+阿拉山口市 | TRADUÇÃO: Alashankou, ciudad a nivel de condado en la prefectura autónoma mongola de Bortala 博爾塔拉蒙古自治州|博尔塔拉蒙古自治州, Xinjiang
+阿拉巴马 | TRADUÇÃO: Alabama (estado de EE. UU.)
+阿拉干山脉 | TRADUÇÃO: cordillera de Arakan (o montes Rakhine), en el oeste de Myanmar
+阿拉弗拉海 | TRADUÇÃO: mar de Arafura
+阿拉摩 | TRADUÇÃO: El Álamo (ciudad de Estados Unidos)
+阿拉斯 | TRADUÇÃO: Arrás (ciudad del norte de Francia)
+阿拉斯加 | TRADUÇÃO: Alaska (estado de EE. UU.)
+阿拉斯加大学 | TRADUÇÃO: Universidad de Alaska
+阿拉斯加雪橇犬 | TRADUÇÃO: malamute de Alaska
+阿拉木图 | TRADUÇÃO: Almatí (antigua capital de Kazajistán)
+阿拉法特 | TRADUÇÃO: Yasser Arafat (1929-2004), líder palestino 亞西爾·阿拉法特|亚西尔·阿拉法特
+阿拉尔 | TRADUÇÃO: Aral (ciudad a nivel de subprefectura en el oeste de Xinjiang)
+阿拉尔市 | TRADUÇÃO: ciudad de Aral (ciudad a nivel de subprefectura en el oeste de Xinjiang)
+阿拉瓦 | TRADUÇÃO: Álava/Araba
+阿拉米语 | TRADUÇÃO: lengua aramea/arameo
+阿拔斯王朝 | TRADUÇÃO: dinastía abásida/califato abasí (750-1258)
+阿拖品化 | TRADUÇÃO: atropinización
+阿提拉 | TRADUÇÃO: Atila (406-453), rey de los hunos, conocido como el azote de Dios
+阿摩司书 | TRADUÇÃO: Libro de Amós (libro del Antiguo Testamento)
+阿摩尼亚 | TRADUÇÃO: (préstamo) amoníaco
+阿摩尼亚水 | TRADUÇÃO: solución de amoníaco/agua amoniacal
+阿斗 | TRADUÇÃO: A-dou (apodo de Liu Shan 劉禪|刘禅, hijo de Liu Bei)/(fig.) persona débil e inepta
+阿斯伯格 | TRADUÇÃO: véase 阿斯佩爾格爾|阿斯佩尔格尔
+阿斯佩尔格尔 | TRADUÇÃO: Hans Asperger (1906-1980), pediatra austríaco
+阿斯利康 | TRADUÇÃO: AstraZeneca (empresa farmacéutica británico-sueca)
+阿斯匹林 | TRADUÇÃO: aspirina (variante de 阿司匹林)
+阿斯匹灵 | TRADUÇÃO: (Taiwán) aspirina
+阿斯图里亚斯 | TRADUÇÃO: Asturias (principado autónomo en el noroeste de España)/antiguo reino de Asturias
+阿斯塔纳 | TRADUÇÃO: Astaná (capital de Kazajistán)
+阿斯巴特 | TRADUÇÃO: aspartamo (edulcorante artificial)
+阿斯巴甜 | TRADUÇÃO: (préstamo) aspartamo
+阿斯旺 | TRADUÇÃO: Asuán (ciudad del sur de Egipto)
+阿斯旺高坝 | TRADUÇÃO: presa de Asuán (en el sur de Egipto)
+阿斯兰 | TRADUÇÃO: Aslan (personaje de Las crónicas de Narnia)
+阿斯顿·马丁 | TRADUÇÃO: Aston Martin
+阿斯马拉 | TRADUÇÃO: Asmara (capital de Eritrea)
+阿旺曲培 | TRADUÇÃO: Ngawang Choephel (1966-), musicólogo y disidente tibetano
+阿旺曲沛 | TRADUÇÃO: Ngawang Choepel (musicólogo tibetano)
+阿昌 | TRADUÇÃO: etnia achang
+阿昌族 | TRADUÇÃO: etnia achang
+阿明 | TRADUÇÃO: Al-Amín
+阿昔洛韦 | TRADUÇÃO: aciclovir (antiviral)
+阿是穴 | TRADUÇÃO: (MTC) punto ashi (punto doloroso que no corresponde a un meridiano fijo de acupuntura)
+阿普吐龙 | TRADUÇÃO: apatosaurio/brontosaurio/también llamado 雷龍|雷龙
+阿普尔顿 | TRADUÇÃO: Appleton/Sir Edward Appleton (1892-1965), físico británico y premio Nobel descubridor de la ionosfera
+阿曼 | TRADUÇÃO: Omán
+阿曼湾 | TRADUÇÃO: golfo de Omán
+阿月浑子 | TRADUÇÃO: pistacho/pistachero
+阿月浑子树 | TRADUÇÃO: pistachero/árbol del pistacho
+阿木林 | TRADUÇÃO: tonto/persona ingenua o torpe
+阿松森岛 | TRADUÇÃO: isla Ascensión
+阿根廷 | TRADUÇÃO: Argentina
+阿格尼迪 | TRADUÇÃO: Agnus Dei (sección de la misa católica)/Cordero de Dios
+阿梵达 | TRADUÇÃO: (préstamo) avatar
+阿森 | TRADUÇÃO: Assen (ciudad de los Países Bajos)
+阿森松岛 | TRADUÇÃO: isla Ascensión
+阿森纳 | TRADUÇÃO: Arsenal Football Club/Arsenal (club de fútbol)
+阿荣旗 | TRADUÇÃO: bandera de Arun en Hulunbuir 呼倫貝爾|呼伦贝尔, Mongolia Interior
+阿比 | TRADUÇÃO: Abby/Abi (nombre)
+阿比西尼亚 | TRADUÇÃO: Abisinia (nombre histórico de Etiopía)
+阿比西尼亚人 | TRADUÇÃO: abisinio (persona)
+阿比让 | TRADUÇÃO: Abiyán (ciudad de Costa de Marfil)
+阿沙力 | TRADUÇÃO: variante de 阿莎力
+阿法尔 | TRADUÇÃO: región de Afar en el noreste de Etiopía/pueblo afar
+阿法尔沙漠 | TRADUÇÃO: desierto de Afar (en el sur de Etiopía)
+阿法罗密欧 | TRADUÇÃO: Alfa Romeo
+阿波罗 | TRADUÇÃO: Apolo (dios griego o romano)
+阿波罗计划 | TRADUÇÃO: Programa Apolo (1961-1975, proyecto de alunizaje de la NASA)
+阿洛菲 | TRADUÇÃO: Alofi (capital de Niue)
+阿混 | TRADUÇÃO: (dialectal) holgazán/vago/haragán
+阿爸 | TRADUÇÃO: Abba (palabra aramea para padre)/por ext. Dios Padre en el Evangelio cristiano ‖ (dialectal) padre/papá
+阿爸父 | TRADUÇÃO: Abba Padre (palabra aramea para padre)/por ext. Dios Padre en el Evangelio cristiano
+阿爹 | TRADUÇÃO: papá/padre/abuelo paterno/anciano

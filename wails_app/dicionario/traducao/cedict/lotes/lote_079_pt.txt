@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+社会公共利益 | TRADUÇÃO: interesse público
+社会化 | TRADUÇÃO: socializar
+社会名流 | TRADUÇÃO: celebridade/pessoa pública
+社会团体 | TRADUÇÃO: grupo social/organização comunitária
+社会学 | TRADUÇÃO: sociologia
+社会工作 | TRADUÇÃO: serviço social
+社会工作者 | TRADUÇÃO: assistente social/assistente social
+社会工程学 | TRADUÇÃO: (cibersegurança) engenharia social
+社会性 | TRADUÇÃO: social/societal
+社会服务 | TRADUÇÃO: serviços sociais
+社会正义 | TRADUÇÃO: justiça social
+社会民主 | TRADUÇÃO: social-democracia
+社会民主主义 | TRADUÇÃO: social-democracia
+社会民主党 | TRADUÇÃO: Partido Social-Democrata
+社会活动 | TRADUÇÃO: atividade social
+社会环境 | TRADUÇÃO: ambiente social/meio social
+社会科学 | TRADUÇÃO: ciências sociais
+社会等级 | TRADUÇÃO: classe social/estamento/casta
+社会经济 | TRADUÇÃO: socioeconômico
+社会总需求 | TRADUÇÃO: demanda social agregada/necessidade total da sociedade
+社会融资 | TRADUÇÃO: financiamento privado (não governamental)
+社会行动 | TRADUÇÃO: ações sociais
+社会语言学 | TRADUÇÃO: sociolinguística
+社会达尔文主义 | TRADUÇÃO: darwinismo social
+社会关系 | TRADUÇÃO: relação social
+社会关怀 | TRADUÇÃO: cuidado social
+社会阶层 | TRADUÇÃO: classe social
+社会党 | TRADUÇÃO: partido socialista
+社死 | TRADUÇÃO: (neologismo c. 2020) (gíria) morrer de vergonha (figurativamente)
+社民党 | TRADUÇÃO: Partido Social-Democrata
+社火 | TRADUÇÃO: entretenimento festivo (dança do leão, lanterna de dragão etc.)
+社牛 | TRADUÇÃO: (gíria) extremamente extrovertido/pessoa socialmente destemida (abrev. de 社交牛逼症)
+社畜 | TRADUÇÃO: (coloq.) escravo corporativo (empréstimo ortográfico do japonês 社畜 "shachiku")
+社科 | TRADUÇÃO: ciências sociais (abrev.)
+社科院 | TRADUÇÃO: Academia Chinesa de Ciências Sociais (CASS)
+社稷 | TRADUÇÃO: estado/país/os Deuses da terra e do grão
+社维法 | TRADUÇÃO: (Taiwan) leis de ordem pública/abrev. de 社會秩序維護法|社会秩序维护法
+社群 | TRADUÇÃO: comunidade/agrupamento social
+社群媒体 | TRADUÇÃO: (Taiwan) mídia social
+社融 | TRADUÇÃO: financiamento privado (abrev. para 社會融資|社会融资)
+社评 | TRADUÇÃO: editorial (em jornal)/também escrito 社論|社论
+社论 | TRADUÇÃO: editorial (em jornal)/CL:篇
+社运 | TRADUÇÃO: movimento social (abrev. para 社會運動|社会运动)
+社长 | TRADUÇÃO: presidente ou diretor (de associação etc.)
+社头 | TRADUÇÃO: Shetou, município no Condado de Changhua 彰化縣|彰化县, Taiwan
+社头乡 | TRADUÇÃO: Shetou, município no Condado de Changhua 彰化縣|彰化县, Taiwan
+社鼠城狐 | TRADUÇÃO: lit. rato num santuário rural, raposa nas muralhas da cidade; fig. canalhas inescrupulosos que abusam do poder alheio para intimidar e explorar pessoas
+礿 | TRADUÇÃO: sacrifício imperial primaveril aos ancestrais
+祀 | TRADUÇÃO: oferecer libação/sacrificar ‖ variante de 祀
+祀物 | TRADUÇÃO: objetos sacrificiais
+祀神 | TRADUÇÃO: oferecer sacrifícios aos deuses
+祁 | TRADUÇÃO: sobrenome Qi ‖ imenso/vasto
+祁奚 | TRADUÇÃO: Qi Xi (c. 620-550 a.C.), ministro do estado de Jin 晉國|晋国 no Período das Primaveras e Outonos
+祁奚之荐 | TRADUÇÃO: recomendação de Qi Xi (expressão idiomática); recomendar a melhor pessoa para o cargo independentemente da lealdade a facções
+祁东 | TRADUÇÃO: ver 祁東縣|祁东县
+祁东县 | TRADUÇÃO: Qidong, um condado na cidade de Hengyang 衡陽市|衡阳市, Hunan
+祁县 | TRADUÇÃO: Condado de Qi ou Qixian, um condado na cidade de Jinzhong 晉中市|晋中市, Shanxi
+祁连 | TRADUÇÃO: ver 祁連縣|祁连县
+祁连山 | TRADUÇÃO: Montanhas Qilian em Qinghai
+祁连山脉 | TRADUÇÃO: Montanhas Qilian (antigamente Cordilheira Richthofen), dividindo as províncias de Qinghai e Gansu
+祁连县 | TRADUÇÃO: Qilian, um condado na Prefeitura Autônoma Tibetana de Haibei 海北藏族自治州, Qinghai
+祁门 | TRADUÇÃO: ver 祁門縣|祁门县
+祁门县 | TRADUÇÃO: Qimen, um condado na cidade de Huangshan 黃山市|黄山市, Anhui
+祁阳 | TRADUÇÃO: ver 祁陽市|祁阳市
+祁阳市 | TRADUÇÃO: Qiyang, uma cidade-condado na cidade de Yongzhou 永州市, Hunan
+祂 | TRADUÇÃO: (pronome de terceira pessoa para Deus na Bíblia cristã)/(pronome de terceira pessoa para seres divinos em ficção)
+祄 | TRADUÇÃO: abençoar
+祅 | TRADUÇÃO: (literário) fenômeno estranho ou anômalo (variante de 妖)
+祆 | TRADUÇÃO: Ahura Mazda, a divindade criadora no Zoroastrismo
+祆教 | TRADUÇÃO: Zoroastrismo
+祇 | TRADUÇÃO: deus da terra
+祈 | TRADUÇÃO: implorar/orar/solicitar
+祈仙台 | TRADUÇÃO: altar/plataforma memorial para orar por imortais
+祈使句 | TRADUÇÃO: frase imperativa
+祈望 | TRADUÇÃO: esperar/desejar/esperança/desejo/(antigo) nome de um cargo oficial
+祈求 | TRADUÇÃO: rezar por/apelar
+祈盼 | TRADUÇÃO: esperar ansiosamente por; desejar fervorosamente
+祈福 | TRADUÇÃO: orar por bênçãos
+祈福禳灾 | TRADUÇÃO: orar por sorte e sacrificar para evitar desastres (i.e., superstições tradicionais)
+祈祷 | TRADUÇÃO: orar/fazer uma oração
+祈愿 | TRADUÇÃO: orar/orar por algo/desejar algo/oração/desejo
+祉 | TRADUÇÃO: felicidade
+祉禄 | TRADUÇÃO: felicidade e riqueza
+祊 | TRADUÇÃO: altar lateral dentro do templo ancestral
+祍 | TRADUÇÃO: variante antiga de 衽
+祏 | TRADUÇÃO: santuário de pedra
+祐 | TRADUÇÃO: (da divindade) abençoar/proteger
+祓 | TRADUÇÃO: purificar/remover o mal/ritual para buscar boa sorte e evitar desastres
+祓濯 | TRADUÇÃO: purificar/limpar
+祓禊 | TRADUÇÃO: abluções exorcísticas
+祓除 | TRADUÇÃO: exorcizar (espíritos malignos)/purificar através de ritual/livrar-se de (um mau hábito)
+祓饰 | TRADUÇÃO: refrescar/renovar
+祔 | TRADUÇÃO: adorar ancestrais
+秘 | TRADUÇÃO: variante de 秘 ‖ ver 秘魯|秘鲁 ‖ secreto/secretário
+秘传 | TRADUÇÃO: transmitir conhecimento secreto de geração em geração dentro de uma escola ou família etc.
+秘方 | TRADUÇÃO: receita secreta
+秘本 | TRADUÇÃO: um livro raro valioso
+秘结 | TRADUÇÃO: constipação
+秘而不宣 | TRADUÇÃO: reter informação/manter algo em segredo
+秘藏 | TRADUÇÃO: esconder/um esconderijo/um cache
+秘诀 | TRADUÇÃO: variante de 秘訣|秘诀 ‖ segredo (para longevidade)/chave (para a felicidade)/receita (para o sucesso)
+祖 | TRADUÇÃO: sobrenome Zu ‖ ancestral/antepassado/avós
+祖上 | TRADUÇÃO: ancestrais; antepassados
+祖传 | TRADUÇÃO: transmitido dos ancestrais/hereditário
+祖先 | TRADUÇÃO: ancestrais; antepassados/(biologia) espécie ancestral
+祖国 | TRADUÇÃO: pátria
+祖国和平统一委员会 | TRADUÇÃO: Comitê para a Reunificação Pacífica da Pátria (norte-coreano)
+祖茔 | TRADUÇÃO: túmulo ancestral
+祖坟 | TRADUÇÃO: túmulo ancestral
+祖姑母 | TRADUÇÃO: tia-avó (irmã do avô paterno)
+祖宅 | TRADUÇÃO: casa ancestral
+祖宗 | TRADUÇÃO: ancestral/antepassado
+祖居 | TRADUÇÃO: residência antiga/terra natal original
+祖屋 | TRADUÇÃO: casa ancestral
+祖师 | TRADUÇÃO: fundador (de um ofício, seita religiosa etc.)
+祖师爷 | TRADUÇÃO: fundador (de um ofício, seita religiosa etc.)
+祖母 | TRADUÇÃO: avó paterna
+祖母绿 | TRADUÇÃO: esmeralda
+祖冲之 | TRADUÇÃO: Zu Chongzhi (429-500), astrônomo e matemático
+祖父 | TRADUÇÃO: avô paterno
+祖父母 | TRADUÇÃO: avós paternos
+祖父辈 | TRADUÇÃO: pessoas da geração dos avós
+祖祖辈辈 | TRADUÇÃO: por gerações/de geração em geração
+祖祠 | TRADUÇÃO: santuário dedicado aos ancestrais
+祖籍 | TRADUÇÃO: cidade natal ancestral/domicílio original (e registro civil)
+祖系 | TRADUÇÃO: ancestralidade/linhagem (também escrito 祖係|祖系)
+祖训 | TRADUÇÃO: preceitos ancestrais
+祖语 | TRADUÇÃO: protolíngua/língua-mãe (linguística)
+祖辈 | TRADUÇÃO: ancestrais/antepassados/ascendência
+祖马 | TRADUÇÃO: Zuma (nome)/Jacob Zuma (1942-), político sul-africano do ANC, vice-presidente 1999-2005, presidente 2009-2018
+祖鲁 | TRADUÇÃO: zulu
+祖鲁人 | TRADUÇÃO: povo zulu
+祖鸟 | TRADUÇÃO: ancestral dinossauro das aves
+祖鸟类 | TRADUÇÃO: ancestrais dinossauros das aves
+祗 | TRADUÇÃO: respeitoso/respeitosamente
+祘 | TRADUÇÃO: variante de 算, calcular
+祚 | TRADUÇÃO: bênção/o trono
+祛 | TRADUÇÃO: sacrifício para afastar calamidades/afastar/remover
+祛寒 | TRADUÇÃO: dissipar o frio (MTC)
+祛暑 | TRADUÇÃO: combater o calor do verão
+祛淤 | TRADUÇÃO: variante de 祛瘀
+祛疑 | TRADUÇÃO: dissipar dúvidas
+祛痰 | TRADUÇÃO: dissipar o catarro (MTC)
+祛痰药 | TRADUÇÃO: medicamento para dissipar o catarro (MTC)
+祛瘀 | TRADUÇÃO: dissipar a estagnação do sangue (MTC)
+祛邪 | TRADUÇÃO: exorcizar/expulsar espíritos malignos
+祛除 | TRADUÇÃO: dissipar/eliminar
+祛风 | TRADUÇÃO: aliviar (resfriado, dor reumática etc.)/lit. expelir o vento patogênico (MTC)
+祛魅 | TRADUÇÃO: desencantar-se
+祜 | TRADUÇÃO: bênção celestial
+祝 | TRADUÇÃO: sobrenome Zhu ‖ rezar por/desejar (feliz aniversário, boa viagem etc.)/invocador de espíritos em cerimônias de sacrifício
+祝允明 | TRADUÇÃO: Zhu Yunming (1460-1526), calígrafo da dinastia Ming
+祝寿 | TRADUÇÃO: oferecer parabéns de aniversário (a um idoso)
+祝好 | TRADUÇÃO: tudo de melhor! (ao encerrar uma correspondência)
+祝枝山 | TRADUÇÃO: Zhu Zhishan (1460-1526), calígrafo e poeta da dinastia Ming, um dos Quatro Grandes Talentos do Sul
+祝福 | TRADUÇÃO: bênçãos/desejar bem a alguém
+祝祷 | TRADUÇÃO: rezar/orar
+祝融 | TRADUÇÃO: Zhurong, deus do fogo na mitologia chinesa (usado alusivamente, como em 毀於祝融|毁于祝融 "destruído pelo fogo")
+祝融号 | TRADUÇÃO: o rover chinês "Zhurong" em Marte, pousou no planeta em 2021
+祝谢 | TRADUÇÃO: agradecer
+祝贺 | TRADUÇÃO: parabenizar/parabéns/CL:個|个
+祝贺词 | TRADUÇÃO: discurso de congratulações
+祝酒 | TRADUÇÃO: fazer um brinde (com bebida)
+祝酒词 | TRADUÇÃO: discurso curto ao propor um brinde
+祝酒辞 | TRADUÇÃO: discurso curto ao propor um brinde
+祝颂 | TRADUÇÃO: expressar bons votos
+祝愿 | TRADUÇÃO: desejar
+祝发 | TRADUÇÃO: cortar o cabelo (como ritual de minoria ou para tornar-se monge)
+神 | TRADUÇÃO: Deus ‖ divindade/deus/sobrenatural/mágico/misterioso/espírito/mente/ânimo/vivo/expressivo/olhar/expressão facial/(coloq.) incrível; impressionante
+神不守舍 | TRADUÇÃO: (expressão idiomática) distraído/atordoado
+神不知鬼不觉 | TRADUÇÃO: ultrassecreto/sigiloso
+神乎其技 | TRADUÇÃO: (expressão idiomática) brilhante/extremamente habilidoso/virtuoso
+神交 | TRADUÇÃO: irmãos de alma/amigos espirituais que nunca se encontraram/comungar espiritualmente
+神人 | TRADUÇÃO: Deus/divindade
+神仙 | TRADUÇÃO: imortal taoísta/entidade sobrenatural/(em ficção moderna) fada, elfo, duende etc./fig. pessoa despreocupada
+神似 | TRADUÇÃO: semelhança em expressão e espírito/parecer-se notavelmente com
+神位 | TRADUÇÃO: placa espiritual/lápide ancestral
+神佛 | TRADUÇÃO: deuses e budas
+神作 | TRADUÇÃO: (gíria) obra-prima
+神偷 | TRADUÇÃO: mestre dos ladrões
+神伤 | TRADUÇÃO: deprimido/desanimado/abatido
+神像 | TRADUÇÃO: efígie de um deus ou buda/(antigo) retrato do falecido
+神入 | TRADUÇÃO: (psicologia) empatia/empatizar
+神出鬼没 | TRADUÇÃO: (lit.) aparecer e desaparecer imprevisivelmente como um espírito ou fantasma (expressão idiomática)/(fig.) esquivo
+神力 | TRADUÇÃO: força oculta/poder de um deus ou espírito
+神功 | TRADUÇÃO: poderes incríveis/habilidade milagrosa
+神勇 | TRADUÇÃO: extraordinariamente corajoso/heróico
+神劳形瘁 | TRADUÇÃO: completamente esgotado emocional e fisicamente (expressão idiomática)
+神化 | TRADUÇÃO: tornar divino/apoteose
+神器 | TRADUÇÃO: objeto mágico/objeto simbólico do poder imperial/arma refinada/ferramenta muito útil
+神奇 | TRADUÇÃO: mágico/sobrenatural/miraculoso
+神奇宝贝 | TRADUÇÃO: Pokémon ou Monstros de Bolso, popular série japonesa de videogame, anime e mangá
+神奈川 | TRADUÇÃO: Kanagawa (prefeitura no Japão)
+神奥 | TRADUÇÃO: misterioso/um enigma
+神女 | TRADUÇÃO: A Deusa, filme mudo de 1934 sobre uma prostituta de Xangai, dirigido por 吳永剛|吴永刚 ‖ deusa/(antigo) prostituta
+神女峰 | TRADUÇÃO: nome de um pico perto das Três Gargantas 長江三峽|长江三峡
+神女有心，襄王无梦 | TRADUÇÃO: (expressão idiomática) a fada está disposta, mas o Rei Xiang não sonha (dito sobre o amor não correspondido de uma mulher)
+神妙 | TRADUÇÃO: maravilhoso/estupendo
+神学 | TRADUÇÃO: teologia/teológico
+神学士 | TRADUÇÃO: estudante de teologia/Bacharel em Divindade/Talebã (persa: estudante)
+神学家 | TRADUÇÃO: teólogo
+神学研究所 | TRADUÇÃO: seminário
+神学院 | TRADUÇÃO: seminário
+神宫 | TRADUÇÃO: santuário xintoísta de status elevado (esp. santuário imperial, ex.: Grande Santuário de Ise)
+神专 | TRADUÇÃO: (gíria da internet) álbum musical magistral/álbum clássico (abreviação de 神級專輯|神级专辑)
+神山 | TRADUÇÃO: montanha sagrada
+神州 | TRADUÇÃO: antigo nome para a China
+神工鬼斧 | TRADUÇÃO: artesanato sobrenaturalmente fino (expressão idiomática)/obra dos deuses/habilidade inigualável/artesanato primoroso
+神差鬼使 | TRADUÇÃO: obra de deuses e demônios (expressão idiomática)/evento inexplicável que clama por explicação sobrenatural/curiosa coincidência
+神厨 | TRADUÇÃO: chef mestre
+神庙 | TRADUÇÃO: templo
+神往 | TRADUÇÃO: estar fascinado/estar arrebatado/ansiar por/sonhar com
+神志 | TRADUÇÃO: consciência/estado mental/em pleno juízo
+神志不清 | TRADUÇÃO: estar delirando/estar mentalmente confuso
+神志昏迷 | TRADUÇÃO: estar em estado de delírio
+神思 | TRADUÇÃO: estado de espírito
+神思恍惚 | TRADUÇÃO: distraído/absentemente/em transe
+神性 | TRADUÇÃO: divindade
+神怪 | TRADUÇÃO: espíritos e demônios (geralmente nocivos)/demônio
+神情 | TRADUÇÃO: semblante/expressão
+神态 | TRADUÇÃO: aparência/maneira/porte/comportamento/semblante/expressão/mien
+神慰 | TRADUÇÃO: consolação espiritual
+神憎鬼厌 | TRADUÇÃO: (expressão idiomática) desprezível/repugnante
+神户 | TRADUÇÃO: Kobe, cidade no Japão
+神探 | TRADUÇÃO: detetive magistral/lit. detetive milagroso/Ver Sherlock Holmes 福爾摩斯|福尔摩斯 ou Di Renjie 狄仁傑|狄仁杰
+神明 | TRADUÇÃO: divindades/deuses
+神智 | TRADUÇÃO: mente/sabedoria/consciência
+神曲 | TRADUÇÃO: A Divina Comédia por Dante Alighieri 但丁 ‖ fermento medicado (usado na MTC para tratar indigestão)
+神木 | TRADUÇÃO: ver 神木市
+神木市 | TRADUÇÃO: Shenmu, cidade administrativa subordinada a Yulin 榆林市, Shaanxi
+神枯 | TRADUÇÃO: desolação espiritual
+神格 | TRADUÇÃO: Divindade
+神枪手 | TRADUÇÃO: atirador de elite
+神机妙算 | TRADUÇÃO: estratégia divina e planejamento maravilhoso (expressão idiomática)/esquema engenhoso/supremamente astuto em seus planos
+神权 | TRADUÇÃO: direito divino (dos reis)
+神权政治 | TRADUÇÃO: teocracia
+神权统治 | TRADUÇÃO: teocracia
+神殿 | TRADUÇÃO: santuário
+神气 | TRADUÇÃO: expressão/maneira/vigoroso/impressionante/altivo/pretensioso
+神气活现 | TRADUÇÃO: aparência arrogante/aparência convencida/agir com condescendência/posar
+神池 | TRADUÇÃO: ver 神池縣|神池县
+神池县 | TRADUÇÃO: Shenchi, condado em Xinzhou 忻州市, Shanxi
+神治 | TRADUÇÃO: teocrático/teocracia
+神清气爽 | TRADUÇÃO: (expressão idiomática) cheio de vitalidade/relaxado e alerta
+神游 | TRADUÇÃO: fazer uma viagem mental
+神汉 | TRADUÇÃO: feiticeiro
+神父 | TRADUÇÃO: padre católico ou ortodoxo/Padre (título de tratamento)
+神兽 | TRADUÇÃO: animal mitológico
+神甫 | TRADUÇÃO: variante de 神父
+神异 | TRADUÇÃO: mágico/milagroso/místico
+神社 | TRADUÇÃO: (histórico) santuário ou altar para sacrifícios a divindades locais ou ancestrais (na China antiga)/santuário xintoísta
+神祇 | TRADUÇÃO: deus/divindade
+神秘莫测 | TRADUÇÃO: mistério/insondável/enigmático
+神祖 | TRADUÇÃO: Divindade
+神神叨叨 | TRADUÇÃO: ver 神神道道
+神神道道 | TRADUÇÃO: estranho/esquisito/anormal
+神祠 | TRADUÇÃO: santuário
+神秘 | TRADUÇÃO: misterioso/mistério
+神秘主义 | TRADUÇÃO: misticismo
+神秘面纱 | TRADUÇÃO: véu de mistério
+神童 | TRADUÇÃO: criança prodígio
+神笔 | TRADUÇÃO: lit. caneta divina/fig. escrita excepcional
+神级 | TRADUÇÃO: (gíria da internet) nível divino/lendário
+神经 | TRADUÇÃO: nervo/estado mental/(coloq.) desequilibrado/maluco
+神经中枢 | TRADUÇÃO: (anatomia) centro nervoso
+神经元 | TRADUÇÃO: neurônio
+神经元网 | TRADUÇÃO: rede neural
+神经原 | TRADUÇÃO: variante de 神經元|神经元
+神经原纤维 | TRADUÇÃO: (anatomia) neurofibrila
+神经外科 | TRADUÇÃO: neurocirurgia
+神经大条 | TRADUÇÃO: casca grossa/insensível
+神经失常 | TRADUÇÃO: aberração mental/anormalidade nervosa
+神经学 | TRADUÇÃO: neurologia
+神经学家 | TRADUÇÃO: neurologista
+神经官能症 | TRADUÇÃO: neurose
+神经性 | TRADUÇÃO: neural/mental/neurológico
+神经性毒剂 | TRADUÇÃO: agente nervoso/gás nervoso
+神经毒素 | TRADUÇÃO: neurotoxina
+神经氨酸酶 | TRADUÇÃO: neuraminidase (o N de vírus como gripe aviária H5N1)
+神经生物学 | TRADUÇÃO: neurobiologia
+神经病 | TRADUÇÃO: transtorno mental/neuropatia/(depreciativo) louco/doido
+神经症 | TRADUÇÃO: neurose
+神经痛 | TRADUÇÃO: neuralgia (medicina)
+神经科 | TRADUÇÃO: departamento de neurologia
+神经突 | TRADUÇÃO: processo nervoso
+神经管 | TRADUÇÃO: tubo neural (embriologia)
+神经节 | TRADUÇÃO: (anatomia) gânglio
+神经系统 | TRADUÇÃO: (anatomia) sistema nervoso
+神经索 | TRADUÇÃO: cordão nervoso
+神经细胞 | TRADUÇÃO: célula nervosa/neurônio
+神经网 | TRADUÇÃO: rede neural
+神经网络 | TRADUÇÃO: rede neural
+神经网路 | TRADUÇÃO: rede neural (artificial ou biológica)
+神经纤维 | TRADUÇÃO: (anatomia) fibra nervosa
+神经纤维瘤 | TRADUÇÃO: (medicina) neurofibroma
+神经胶质 | TRADUÇÃO: célula glial/neuróglia
+神经胶质细胞 | TRADUÇÃO: célula glial (fornece suporte ao neurônio)/neuróglia
+神经衰弱 | TRADUÇÃO: exaustão nervosa/neurastenia/esgotamento mental (frequentemente usado para descrever o que hoje é entendido como depressão clínica)
+神经质 | TRADUÇÃO: nervoso/irritado/excitável/neurótico
+神经过敏 | TRADUÇÃO: nervoso/assustado/hipersensível
+神圣 | TRADUÇÃO: divino/sagrado/santo/santificar/consagrar
+神圣不可侵犯 | TRADUÇÃO: sagrado e inviolável
+神圣罗马帝国 | TRADUÇÃO: Sacro Império Romano-Germânico (história)
+神圣周 | TRADUÇÃO: Semana Santa/Semana da Páscoa (especialmente católica)
+神职 | TRADUÇÃO: clero/eclesiástico
+神职人员 | TRADUÇÃO: clero/eclesiástico
+神舟 | TRADUÇÃO: Shenzhou (nave espacial)/Hasee (fabricante de computadores)
+神舟号飞船 | TRADUÇÃO: nave espacial Shenzhou
+神色 | TRADUÇÃO: expressão fisionômica/aparência
+神话 | TRADUÇÃO: lenda/conto de fadas/mito/mitologia
+神话故事 | TRADUÇÃO: história mitológica/mito
+神谕 | TRADUÇÃO: oráculo
+神谱 | TRADUÇÃO: panteão/lista de deuses e imortais
+神迹 | TRADUÇÃO: milagre
+神舆 | TRADUÇÃO: mikoshi (santuário portátil xintoísta japonês)
+神农 | TRADUÇÃO: Shennong ou Deus da Agricultura (c. 2000 a.C.), primeiro dos lendários Imperadores Chamas, 炎帝, e criador da agricultura
+神农本草经 | TRADUÇÃO: Compêndio de Matéria Médica de Shennong, compêndio farmacológico da dinastia Han, 3 volumes
+神农架 | TRADUÇÃO: Shennongjialin, reserva florestal administrada diretamente no leste de Hubei
+神农架地区 | TRADUÇÃO: Shennongjialin, reserva florestal administrada diretamente no leste de Hubei
+神农架林区 | TRADUÇÃO: Shennongjialin, reserva florestal administrada diretamente no leste de Hubei
+神农氏 | TRADUÇÃO: Shennong ou Deus da Agricultura (c. 2000 a.C.), primeiro dos lendários Imperadores Chamas, 炎帝, e criador da agricultura na China/seguidores ou clã de Shennong 神農|神农
+神通 | TRADUÇÃO: habilidade notável/poder mágico
+神通广大 | TRADUÇÃO: (expressão idiomática) possuir grande poder mágico/possuir habilidades notáveis
+神速 | TRADUÇÃO: velocidade do relâmpago/incrivelmente rápido/ritmo de desenvolvimento impressionante
+神造论 | TRADUÇÃO: criacionismo
+神道 | TRADUÇÃO: xintoísmo (religião japonesa)
+神道教 | TRADUÇÃO: xintoísmo
+神采 | TRADUÇÃO: expressão fisionômica/espírito/vigor
+神采奕奕 | TRADUÇÃO: radiante de energia (expressão idiomática)/transbordando de vida e vigor
+神采飞扬 | TRADUÇÃO: em alto-astral (expressão idiomática)/radiante de saúde e vigor
+神隐 | TRADUÇÃO: ser ocultado por forças sobrenaturais/desaparecer misteriosamente/(fig.) estar fora dos olhos do público
+神雕侠侣 | TRADUÇÃO: variante de 神鵰俠侶|神雕侠侣 ‖ "O Retorno do Herói Condor" (romance wuxia de 1959-61 de Jin Yong 金庸)
+神灵 | TRADUÇÃO: deus/espírito/demônio/entidades ocultas ou sobrenaturais em geral
+神韵 | TRADUÇÃO: charme ou graça (na poesia ou arte)
+神风特攻队 | TRADUÇÃO: Unidade Kamikaze (corpo japonês de pilotos suicidas na Segunda Guerra Mundial)/kamikaze (coquetel à base de vodca)
+神风突击队 | TRADUÇÃO: unidade kamikaze (corpo japonês de pilotos suicidas na Segunda Guerra Mundial)
+神马 | TRADUÇÃO: cavalo mítico/gíria da internet para 什麼|什么
+神髓 | TRADUÇÃO: lit. espírito e medula/caráter essencial
+神体 | TRADUÇÃO: Divindade
+神魂 | TRADUÇÃO: mente/estado mental (frequentemente anormal)
+神魂颠倒 | TRADUÇÃO: lit. espírito e alma de cabeça para baixo (expressão idiomática)/infatuado e perdidamente apaixonado/fascinado/cativado
+神魔小说 | TRADUÇÃO: romance sobrenatural/romance de fantasmas e duendes
+神鸟 | TRADUÇÃO: pássaro sobrenatural
+神龙汽车 | TRADUÇÃO: Dongfeng Peugeot-Citroën (montadora automotiva)
+神龛 | TRADUÇÃO: santuário/altar doméstico
+祟 | TRADUÇÃO: espírito maligno
+祠 | TRADUÇÃO: santuário/oferecer um sacrifício
+祠堂 | TRADUÇÃO: salão ancestral/salão memorial
+祠墓 | TRADUÇÃO: salão memorial e túmulo
+祠庙 | TRADUÇÃO: salão ancestral/templo dos antepassados
+祢 | TRADUÇÃO: você (usado para se dirigir a uma divindade) ‖ sobrenome Mi ‖ placa memorial em um templo em comemoração a um pai falecido
+祥 | TRADUÇÃO: auspicioso/propício
+祥光 | TRADUÇÃO: luz auspiciosa
+祥和 | TRADUÇÃO: auspicioso e pacífico
+祥瑞 | TRADUÇÃO: sinal auspicioso
+祥符 | TRADUÇÃO: veja 祥符區|祥符区
+祥符区 | TRADUÇÃO: Xiangfu, distrito da cidade de Kaifeng 開封市|开封市, Henan
+祥云 | TRADUÇÃO: veja 祥雲縣|祥云县 ‖ nuvem mágica
+祥云县 | TRADUÇÃO: Xiangyun, distrito na Prefeitura Autônoma Bai de Dali 大理白族自治州, Yunnan
+祧 | TRADUÇÃO: salão ancestral
+票 | TRADUÇÃO: bilhete/cédula de voto/nota bancária/CL:張|张/pessoa detida para resgate/apresentação amadora de ópera chinesa/classificador para grupos, lotes, transações comerciais
+票仓 | TRADUÇÃO: reduto eleitoral (numa eleição)/bastião (para um partido político ou candidato)/distrito onde a maioria dos eleitores vota consistentemente em um partido ou candidato específico
+票价 | TRADUÇÃO: preço do bilhete/tarifa/taxa de entrada
+票券 | TRADUÇÃO: vale/ação/certificado de ação
+票汇 | TRADUÇÃO: remessa por saque
+票卡 | TRADUÇÃO: cartão legível por máquina que serve como bilhete (Taiwan)
+票友 | TRADUÇÃO: ator amador (por exemplo, em ópera chinesa)
+票友儿 | TRADUÇÃO: ator amador (por exemplo, em ópera chinesa)
+票子 | TRADUÇÃO: (coloq.) dinheiro vivo/nota
+票房 | TRADUÇÃO: bilheteria
+票据 | TRADUÇÃO: instrumento negociável (saque, nota etc.)/recibo/comprovante
+票据法 | TRADUÇÃO: lei de instrumentos negociáveis
+票数 | TRADUÇÃO: número de votos/contagem de votos
+票根 | TRADUÇÃO: canhoto do bilhete
+票决 | TRADUÇÃO: decidir por votação
+票活 | TRADUÇÃO: trabalhar como amador sem remuneração
+票源 | TRADUÇÃO: (Taiwan) base eleitoral
+票站 | TRADUÇÃO: seção eleitoral/local de votação
+票箱 | TRADUÇÃO: urna eleitoral
+票庄 | TRADUÇÃO: casa de câmbio (antiga forma de negócio bancário)
+票证 | TRADUÇÃO: bilhete/passe (por exemplo, para entrar num edifício)
+票贩子 | TRADUÇÃO: cambista de ingressos
+票选 | TRADUÇÃO: votar por cédula
+票面值 | TRADUÇÃO: valor nominal (de um título)
+祫 | TRADUÇÃO: sacrifício trienal aos ancestrais
+祭 | TRADUÇÃO: sobrenome Zhai ‖ oferecer um sacrifício a (deuses ou ancestrais)/(em romances clássicos) recitar um encantamento para ativar uma arma mágica/empunhar (algo mágico)/(forma presa) cerimônia/(Taiwan) (forma presa) festival (comemorativo)
+祭仪 | TRADUÇÃO: cerimônia sacrificial/oferenda sacrificial
+祭典 | TRADUÇÃO: cerimônia sacrificial/festival religioso
+祭出 | TRADUÇÃO: brandir (uma arma figurada, i.e., alguma medida destinada a lidar com a situação)/recorrer a (alguma tática)
+祭司 | TRADUÇÃO: sacerdote
+祭司权术 | TRADUÇÃO: arte sacerdotal
+祭品 | TRADUÇÃO: oferenda
+祭器 | TRADUÇÃO: utensílios rituais/vasos sacrificiais
+祭坛 | TRADUÇÃO: altar
+祭奠 | TRADUÇÃO: oferecer sacrifícios (aos ancestrais)/realizar ou assistir a uma cerimônia fúnebre
+祭孔 | TRADUÇÃO: oferecer sacrifícios a Confúcio
+祭吊 | TRADUÇÃO: prantear e fazer preces
+祭拜 | TRADUÇÃO: oferecer sacrifício (aos ancestrais)
+祭文 | TRADUÇÃO: oração fúnebre/elogio fúnebre/discurso elegíaco
+祭灶 | TRADUÇÃO: oferecer sacrifícios ao deus da cozinha
+祭物 | TRADUÇÃO: ofertas em sacrifício/sacrifícios
+祭牲 | TRADUÇÃO: animal sacrificial
+祭祀 | TRADUÇÃO: oferecer sacrifícios aos deuses ou ancestrais
+祭祖 | TRADUÇÃO: oferecer sacrifícios aos ancestrais
+祭礼 | TRADUÇÃO: oferendas / culto / rito religioso
+祭赛 | TRADUÇÃO: realizar um sacrifício
+祭酒 | TRADUÇÃO: oferecer uma libação / pessoa que realiza a libação antes de um banquete / membro sênior de uma profissão / cargo governamental importante na China imperial
+祲 | TRADUÇÃO: força maligna
+祺 | TRADUÇÃO: (literário) boa sorte; boa fortuna / (usado em frases finais formais de cartas e em nomes pessoais)
+祻 | TRADUÇÃO: variante de 禍|祸, desastre
+祼 | TRADUÇÃO: derramar libação
+禄 | TRADUÇÃO: boa fortuna / salário oficial
+禄位 | TRADUÇÃO: posição e salário oficial
+禄俸 | TRADUÇÃO: salário oficial
+禄劝 | TRADUÇÃO: ver 祿勸彝族苗族自治縣|禄劝彝族苗族自治县
+禄劝彝族苗族自治县 | TRADUÇÃO: Condado Autônomo Yi e Miao de Luquan, na cidade de Kunming 昆明市, Yunnan
+禄劝县 | TRADUÇÃO: ver 祿勸彝族苗族自治縣|禄劝彝族苗族自治县
+禄命 | TRADUÇÃO: destino de uma pessoa ao longo da vida
+禄星 | TRADUÇÃO: Deus Estelar da Posição e Riqueza (Taoísmo)
+禄秩 | TRADUÇÃO: posição e salário oficial
+禄籍 | TRADUÇÃO: boa fortuna e reputação
+禄蠹 | TRADUÇÃO: sinecurista
+禄丰 | TRADUÇÃO: ver 祿豐市|禄丰市
+禄丰市 | TRADUÇÃO: Lufeng, uma cidade administrativa no Condado Autônomo Yi de Chuxiong 楚雄彝族自治州, Yunnan
+禄食 | TRADUÇÃO: salário oficial
+禄养 | TRADUÇÃO: sustentar alguém com salário oficial
+禄饵 | TRADUÇÃO: salário oficial como isca (para talentos)
+禁 | TRADUÇÃO: suportar / aguentar ‖ proibir / vedar
+禁不住 | TRADUÇÃO: não poder deixar de / não conseguir aguentar
+禁不起 | TRADUÇÃO: não conseguir suportar
+禁令 | TRADUÇÃO: proibição / interdição
+禁伐 | TRADUÇÃO: proibição de corte de madeira
+禁制 | TRADUÇÃO: controlar / restringir / proibir / proibição / restrição
+禁制令 | TRADUÇÃO: proibição / interdição / lei que proíbe algo
+禁区 | TRADUÇÃO: área restrita; zona proibida; área interdita
+禁受 | TRADUÇÃO: suportar / aguentar
+禁品 | TRADUÇÃO: mercadorias proibidas
+禁售 | TRADUÇÃO: proibir a venda de
+禁地 | TRADUÇÃO: área proibida / área restrita / (fig.) algo considerado interdito
+禁夜 | TRADUÇÃO: toque de recolher
+禁忌 | TRADUÇÃO: tabu / contraindicação (medicina) / abster-se de
+禁忌语 | TRADUÇÃO: linguagem tabu
+禁欲 | TRADUÇÃO: suprimir o desejo / autocontrole / ascetismo
+禁欲主义 | TRADUÇÃO: ascetismo
+禁戒 | TRADUÇÃO: abster-se de; proibir (certos alimentos etc.)
+禁书 | TRADUÇÃO: livro proibido
+禁果 | TRADUÇÃO: fruto proibido (especialmente sexo pré-marital)
+禁止 | TRADUÇÃO: proibir / vedar / banir
+禁止吸烟 | TRADUÇÃO: Proibido fumar!
+禁止外出 | TRADUÇÃO: proibir alguém de sair / impor toque de recolher / castigar (como medida disciplinar)
+禁止驶入 | TRADUÇÃO: Proibida a entrada! (placa de trânsito)
+禁毒 | TRADUÇÃO: proibição de drogas
+禁渔 | TRADUÇÃO: proibição da pesca
+禁演 | TRADUÇÃO: proibir (uma peça ou filme)
+禁烟 | TRADUÇÃO: proibir fumar / parar de fumar / proibir cozinhar / proibição do ópio (especialmente na China a partir de 1729)
+禁用 | TRADUÇÃO: resistir ao uso intenso / durável ‖ proibir o uso de algo / banir / (informática) desabilitar
+禁绝 | TRADUÇÃO: proibir totalmente / dar fim a
+禁脔 | TRADUÇÃO: propriedade exclusiva / domínio proibido
+禁药 | TRADUÇÃO: droga proibida; substância proibida
+禁卫 | TRADUÇÃO: defesa do palácio imperial ou da capital / a guarda do palácio (ou um membro dessa unidade)
+禁卫军 | TRADUÇÃO: guarda imperial
+禁见 | TRADUÇÃO: negar a um detido privilégios de visita
+禁语 | TRADUÇÃO: tabu (palavra) / palavra proibida
+禁赛 | TRADUÇÃO: banir (um atleta) de competições
+禁足 | TRADUÇÃO: proibir alguém de sair / confinar a um local (ex.: estudante, soldado, prisioneiro, monge etc.) / castigar (como medida disciplinar) / recolher / toque de recolher / restrição de movimento / proibição de visitar um lugar / proibido / interditado / ressalva
+禁军 | TRADUÇÃO: guarda imperial
+禁运 | TRADUÇÃO: embargo / proibição de exportação (ex.: de armas)
+禁酒 | TRADUÇÃO: proibição / proibição de álcool / lei seca
+禁酒令 | TRADUÇÃO: proibição / proibição de álcool
+禁锢 | TRADUÇÃO: confinar / aprisionar / proibição / grilhões / amarras
+禁飞区 | TRADUÇÃO: zona de exclusão aérea
+禁食 | TRADUÇÃO: jejuar / abster-se de comer / proibir a ingestão de (certos alimentos) / jejum
+禂 | TRADUÇÃO: orar / oração
+禊 | TRADUÇÃO: cerimônia semestral de purificação
+禋 | TRADUÇÃO: sacrifício
+祸不单行 | TRADUÇÃO: o infortúnio não vem sozinho (expressão idiomática)
+祸不旋踵 | TRADUÇÃO: o problema nunca está longe (expressão idiomática)
+祸乱 | TRADUÇÃO: calamidade e caos / desordem devastadora / grande turbulência
+祸事 | TRADUÇÃO: desastre / ruína
+祸及 | TRADUÇÃO: trazer desastre sobre
+祸国殃民 | TRADUÇÃO: danificar o país e causar sofrimento ao povo (expressão idiomática)
+祸害 | TRADUÇÃO: desastre / dano / flagelo / mau elemento / danificar / prejudicar / arruinar
+祸从口出 | TRADUÇÃO: Problemas saem da boca (expressão idiomática). Uma língua solta pode causar muitos problemas.
+祸患 | TRADUÇÃO: desastre / calamidade
+祸根 | TRADUÇÃO: raiz do problema / causa da ruína
+祸水 | TRADUÇÃO: fonte de calamidade (especialmente de mulheres)
+祸福 | TRADUÇÃO: desastre e felicidade
+祸福吉凶 | TRADUÇÃO: destino / presságio / sorte ou desastres previstos nos astros (astrologia)
+祸福无常 | TRADUÇÃO: desastre e felicidade não seguem regras (expressão idiomática); bênçãos e infortúnios futuros são imprevisíveis
+祸福与共 | TRADUÇÃO: permanecer juntos nos bons e maus momentos (expressão idiomática)
+祸首 | TRADUÇÃO: principal infrator / principal culpado
+祸首罪魁 | TRADUÇÃO: ver 罪魁禍首|罪魁祸首
+祯 | TRADUÇÃO: auspicioso / sortudo
+福 | TRADUÇÃO: sobrenome Fu / abrev. para província de Fujian 福建省 ‖ boa fortuna / felicidade / sorte
+福佬 | TRADUÇÃO: Hoklo
+福克 | TRADUÇÃO: Fock ou Foch (nome)
+福克斯 | TRADUÇÃO: Fox (empresa de mídia) / Focus (carro fabricado pela Ford)
+福克纳 | TRADUÇÃO: William Faulkner (1897-1962), romancista e poeta americano
+福克兰群岛 | TRADUÇÃO: Ilhas Malvinas
+福分 | TRADUÇÃO: boa sina; boa fortuna
+福利 | TRADUÇÃO: benefício material/benefício em espécie/bem-estar social
+福利事业 | TRADUÇÃO: serviços de bem-estar social
+福利品 | TRADUÇÃO: item recondicionado ou de mostruário
+福利院 | TRADUÇÃO: instituição de assistência social
+福地 | TRADUÇÃO: terra da felicidade/paraíso
+福报 | TRADUÇÃO: recompensa cármica (Budismo)
+福寿 | TRADUÇÃO: felicidade e longevidade
+福寿绵长 | TRADUÇÃO: boa sorte e vida longa
+福寿螺 | TRADUÇÃO: caramujo-gigante-da-amazônia (Ampullaria gigas spix)
+福如东海 | TRADUÇÃO: que sua felicidade seja tão imensa quanto o Mar do Leste (expressão idiomática)
+福委会 | TRADUÇÃO: comitê de bem-estar/abrev. de 福利委員會|福利委员会
+福娃 | TRADUÇÃO: Fuwa (mascotes oficiais das Olimpíadas de 2008)
+福安 | TRADUÇÃO: veja 福安市
+福安市 | TRADUÇÃO: Fu'an, cidade administrativa de nível distrital em Ningde City 寧德市|宁德市, Fujian
+福山 | TRADUÇÃO: veja 福山區|福山区
+福山区 | TRADUÇÃO: Fushan, distrito de Yantai City 煙台市|烟台市, Shandong
+福冈 | TRADUÇÃO: Fukuoka (cidade no Japão, capital da província de Fukuoka)/Fukuoka (província no Japão)
+福岛 | TRADUÇÃO: Fukushima (sobrenome e topônimo japoneses)
+福州 | TRADUÇÃO: veja 福州市
+福州市 | TRADUÇÃO: Fuzhou, cidade administrativa de nível provincial e capital da Província de Fujian 福建省
+福布斯 | TRADUÇÃO: Forbes (editora dos EUA)/revista Forbes
+福建 | TRADUÇÃO: veja 福建省
+福建省 | TRADUÇÃO: Província de Fujian, capital Fuzhou 福州市 (nome abreviado 閩|闽)
+福彩 | TRADUÇÃO: loteria administrada pela Welfare Lottery da China, agência governamental que usa parte da receita para financiar projetos sociais (abrev. de 福利彩票)
+福摩萨 | TRADUÇÃO: Formosa
+福斯 | TRADUÇÃO: (Taiwan) Volkswagen (montadora)/Fox Entertainment Group
+福斯塔夫 | TRADUÇÃO: Falstaff (personagem de Shakespeare)
+福斯特 | TRADUÇÃO: Foster ou Forster (nome)/Stephen Collins Foster (1826-1864), compositor americano
+福星 | TRADUÇÃO: mascote/estrela da sorte
+福星高照 | TRADUÇÃO: estrela da sorte em ascensão (expressão idiomática); sinal de sorte
+福晋 | TRADUÇÃO: na dinastia Qing, termo manchu para esposa
+福林 | TRADUÇÃO: forinte (moeda húngara) (estrangeirismo)
+福柯 | TRADUÇÃO: Michel Foucault (1926-1984), filósofo francês
+福楼拜 | TRADUÇÃO: Gustave Flaubert (1821-1880), romancista realista francês, autor de Madame Bovary
+福气 | TRADUÇÃO: boa fortuna/uma bênção
+福泉 | TRADUÇÃO: veja 福泉市
+福泉市 | TRADUÇÃO: Fuquan, cidade administrativa de nível distrital em Qiannan Buyei e Miao Autonomous Prefecture 黔南布依族苗族自治州, Guizhou
+福海 | TRADUÇÃO: veja 福海縣|福海县
+福海县 | TRADUÇÃO: Fuhai, distrito em Altay Prefecture 阿勒泰地區|阿勒泰地区, Xinjiang
+福清 | TRADUÇÃO: veja 福清市
+福清市 | TRADUÇÃO: Fuqing, cidade administrativa de nível distrital em Fuzhou City 福州市, Fujian
+福泽 | TRADUÇÃO: boa fortuna
+福泽谕吉 | TRADUÇÃO: Fukuzawa Yukichi (1835-1901), proeminente ocidentalizador japonês, educador liberal e fundador da Universidade Keio
+福无双至 | TRADUÇÃO: (expressão idiomática) bênçãos nunca vêm em pares
+福煦 | TRADUÇÃO: Ferdinand Foch (1851-1929), general francês de destaque e comandante-chefe das forças aliadas no final da Primeira Guerra Mundial
+福尔 | TRADUÇÃO: Félix Faure (1841-1899), presidente da França de 1895 a 1899
+福尔摩斯 | TRADUÇÃO: Sherlock Holmes, 歇洛克·福爾摩斯|歇洛克·福尔摩斯
+福尔摩沙 | TRADUÇÃO: Formosa (Taiwan)
+福尔马林 | TRADUÇÃO: (estrangeirismo) formalina
+福特 | TRADUÇÃO: Ford (nome)/Ford, marca de automóveis dos EUA
+福特汽车 | TRADUÇÃO: Ford Motor Company
+福瑞 | TRADUÇÃO: (estrangeirismo) furry (personagem animal antropomórfico)
+福田 | TRADUÇÃO: veja 福田區|福田区/Fukuda (sobrenome japonês) ‖ campo para cultivar felicidade/domínio para práticas que levam à iluminação (Budismo)
+福田区 | TRADUÇÃO: Futian, distrito de Shenzhen City 深圳市, Guangdong
+福田康夫 | TRADUÇÃO: FUKUDA Yasuo (1936-), político japonês do PLD, primeiro-ministro 2007-2008
+福相 | TRADUÇÃO: expressão facial de boa fortuna/aparência alegre e contente
+福祉 | TRADUÇÃO: bem-estar
+福禄贝尔 | TRADUÇÃO: sobrenome Fröbel ou Froebel/Friedrich Wilhelm August Fröbel (1782–1852), pedagogo alemão
+福科 | TRADUÇÃO: Michel Foucault (1926-1984), filósofo francês/também escrito 福柯
+福维克 | TRADUÇÃO: Vorwerk (marca)
+福绵 | TRADUÇÃO: veja 福綿區|福绵区
+福绵区 | TRADUÇÃO: Fumian, distrito de Yulin City 玉林市, Guangxi
+福兴 | TRADUÇÃO: Fuxing ou Fuhsing, vila no Condado de Changhua 彰化縣|彰化县, Taiwan
+福兴乡 | TRADUÇÃO: Fuxing ou Fuhsing, vila no Condado de Changhua 彰化縣|彰化县, Taiwan
+福袋 | TRADUÇÃO: fukubukuro ou "bolsa da sorte", costume de Ano Novo japonês em que comerciantes oferecem sacolas surpresa com produtos variados com grande desconto
+福贡 | TRADUÇÃO: veja 福貢縣|福贡县
+福贡县 | TRADUÇÃO: Fugong, distrito em Nujiang Lisu Autonomous Prefecture 怒江傈僳族自治州, Yunnan
+福音 | TRADUÇÃO: boas notícias/boas novas/evangelho
+福音书 | TRADUÇÃO: evangelho
+福马林 | TRADUÇÃO: (Taiwan) (estrangeirismo) formalina
+福鼎 | TRADUÇÃO: veja 福鼎市
+福鼎市 | TRADUÇÃO: Fuding, cidade administrativa de nível distrital em Ningde City 寧德市|宁德市, Fujian
+祦 | TRADUÇÃO: feliz/usado em nomes históricos
+禔 | TRADUÇÃO: bem-estar
+祎 | TRADUÇÃO: excelente/precioso/raro/fino/usado em nomes próprios
+禖 | TRADUÇÃO: sacrifício para pedir herdeiro
+禘 | TRADUÇÃO: sacrifício ancestral imperial
+禚 | TRADUÇÃO: topônimo
+禛 | TRADUÇÃO: receber bênçãos com espírito sincero
+禜 | TRADUÇÃO: sacrifício
+禝 | TRADUÇÃO: variante antiga de 稷
+禠 | TRADUÇÃO: felicidade/bênção
+祃 | TRADUÇÃO: (arc.) ritual religioso ao partir para a guerra
+禢 | TRADUÇÃO: sobrenome Ta
+禤 | TRADUÇÃO: sobrenome Xuan
+禥 | TRADUÇÃO: variante antiga de 祺
+御夫座 | TRADUÇÃO: Auriga (constelação)
+御寒 | TRADUÇÃO: defender-se do frio; manter-se aquecido
+御敌 | TRADUÇÃO: inimigo armado da nação/inimigo do imperador/fig. desafiante ao título/contendor que se opõe ao campeão em competição esportiva
+禧 | TRADUÇÃO: alegria
+禧玛诺 | TRADUÇÃO: Shimano (marca)
+禨 | TRADUÇÃO: presságio/orar
+禅 | TRADUÇÃO: dhyana (sânscrito)/Zen/meditação (Budismo) ‖ abdicar
+禅位 | TRADUÇÃO: abdicar (como rei)
+禅修 | TRADUÇÃO: praticar Zen (especialmente meditação)
+禅城 | TRADUÇÃO: veja 禪城區|禅城区
+禅城区 | TRADUÇÃO: Chancheng, distrito de Foshan City 佛山市, Guangdong
+禅堂 | TRADUÇÃO: sala de meditação (em mosteiro budista)
+禅宗 | TRADUÇÃO: Budismo Zen
+禅师 | TRADUÇÃO: título honorífico para monge budista
+禅房 | TRADUÇÃO: sala de um mosteiro budista/templo
+禅杖 | TRADUÇÃO: cajado de um monge budista
+禅林 | TRADUÇÃO: templo budista
+禅机 | TRADUÇÃO: palavra ou gesto alegórico budista/sutilezas da doutrina budista
+禅让 | TRADUÇÃO: abdicar
+禅门五宗 | TRADUÇÃO: as cinco escolas do budismo Chan
+禅院 | TRADUÇÃO: salão budista
+禫 | TRADUÇÃO: sacrifício no fim do luto
+礼 | TRADUÇÃO: Li (sobrenome) ‖ presente/rito/cerimônia/propriedade/etiqueta/cortesia
+礼佛 | TRADUÇÃO: adorar Buda/rezar a Buda
+礼俗 | TRADUÇÃO: etiqueta/costume
+礼仪 | TRADUÇÃO: etiqueta/cerimônia
+礼仪之邦 | TRADUÇÃO: (expressão idiomática) terra de cerimônia e propriedade
+礼制 | TRADUÇÃO: etiqueta/sistema de ritos
+礼券 | TRADUÇÃO: vale-presente/cupom de presente
+礼包 | TRADUÇÃO: sacola de presente/embrulho de presente
+礼品 | TRADUÇÃO: presente
+礼单 | TRADUÇÃO: lista de presentes
+礼器 | TRADUÇÃO: objeto ritual/vaso sacrificial
+礼堂 | TRADUÇÃO: salão de assembleias/auditório
+礼坏乐崩 | TRADUÇÃO: veja 禮崩樂壞
+礼多人不怪 | TRADUÇÃO: ninguém reclamará de excesso de cortesia (expressão idiomática)/cortesia não custa nada
+礼尚往来 | TRADUÇÃO: lit. o comportamento adequado é baseado na reciprocidade (expressão idiomática)/fig. retribuir cortesia com cortesia
+礼崩乐坏 | TRADUÇÃO: ritos e música em ruínas (expressão idiomática); fig. sociedade em desordem total
+礼帽 | TRADUÇÃO: chapéu que combina com traje formal/cartola
+礼废乐崩 | TRADUÇÃO: veja 禮崩樂壞
+礼拜 | TRADUÇÃO: assistir a um serviço religioso/(coloq.) semana/(coloq.) domingo
+礼拜一 | TRADUÇÃO: segunda-feira
+礼拜三 | TRADUÇÃO: quarta-feira
+礼拜二 | TRADUÇÃO: terça-feira
+礼拜五 | TRADUÇÃO: sexta-feira
+礼拜六 | TRADUÇÃO: sábado
+礼拜四 | TRADUÇÃO: quinta-feira
+礼拜堂 | TRADUÇÃO: capela/igreja (protestante)
+礼拜天 | TRADUÇÃO: domingo
+礼拜日 | TRADUÇÃO: domingo
+礼教 | TRADUÇÃO: código de ética confucionista
+礼教吃人 | TRADUÇÃO: sofrimentos causados pela ética confucionista
+礼数 | TRADUÇÃO: etiqueta/(antigo) gradação de etiqueta conforme status social
+礼服 | TRADUÇÃO: túnica cerimonial/traje formal (smoking, vestido de gala etc.)
+礼服店 | TRADUÇÃO: (Taiwan) estabelecimento noturno onde as anfitriãs usam vestidos de gala formais
+礼乐 | TRADUÇÃO: (confucionismo) ritos e música (os meios de regular a sociedade)
+礼乐崩坏 | TRADUÇÃO: veja 禮崩樂壞
+礼泉 | TRADUÇÃO: veja 禮泉縣
+礼泉县 | TRADUÇÃO: Liquan, um condado na cidade de Xianyang, Shaanxi
+礼法 | TRADUÇÃO: etiqueta/ritos cerimoniais
+礼炮 | TRADUÇÃO: salva de tiros (ex.: salva de 21 tiros)/salva
+礼炮号 | TRADUÇÃO: Salyut (saudação), série de naves espaciais russas
+礼物 | TRADUÇÃO: presente
+礼节 | TRADUÇÃO: etiqueta
+礼经 | TRADUÇÃO: Clássico dos Ritos (igual a 禮記)
+礼县 | TRADUÇÃO: Condado de Li ou Lixian, um condado na cidade de Longnan, Gansu
+礼义 | TRADUÇÃO: retidão/justiça
+礼义廉耻 | TRADUÇÃO: (expressão idiomática) propriedade, justiça, integridade e senso de vergonha (ou seja, os quatro laços sociais, 四維)
+礼花 | TRADUÇÃO: fogos de artifício
+礼记 | TRADUÇÃO: Clássico dos Ritos
+礼让 | TRADUÇÃO: mostrar consideração (por outros)/ceder (a outro veículo etc.)/cortesia/comitas
+礼赞 | TRADUÇÃO: louvar/muito bem, bravo!
+礼貌 | TRADUÇÃO: cortesia; educação; maneiras/cortês; educado
+礼宾 | TRADUÇÃO: protocolo/etiqueta oficial
+礼宾员 | TRADUÇÃO: concierge
+礼宾部 | TRADUÇÃO: departamento de concierge de um hotel ou resort
+礼贤下士 | TRADUÇÃO: respeito pelos sábios
+礼轻人意重 | TRADUÇÃO: presente leve, mas significado pesado (expressão idiomática)/Não é o presente que conta, é a intenção por trás dele.
+礼轻人意重，千里送鹅毛 | TRADUÇÃO: pena de ganso enviada de longe, um presente leve, mas significado pesado (expressão idiomática)/Não é o presente que conta, é a intenção por trás dele.
+礼轻情意重 | TRADUÇÃO: pena de ganso enviada de longe, um presente insignificante com um pensamento pesado por trás (expressão idiomática)/Não é o presente que conta, mas a intenção por trás dele.
+礼遇 | TRADUÇÃO: cortesia/tratamento deferente/recepção educada
+礼部 | TRADUÇÃO: Ministério dos Ritos (confucionistas) (na China imperial)
+礼部尚书 | TRADUÇÃO: Diretor do Conselho de Ritos (confucionistas)
+礼金 | TRADUÇÃO: presente em dinheiro
+祷 | TRADUÇÃO: oração/rezar/súplica
+祷告 | TRADUÇÃO: rezar/oração
+祷念 | TRADUÇÃO: rezar/fazer as próprias orações
+祷文 | TRADUÇÃO: ladainha (texto de uma oração)
+祷祝 | TRADUÇÃO: rezar (por algo)
+祷词 | TRADUÇÃO: ladainha (texto de uma oração)
+禳 | TRADUÇÃO: sacrifício para evitar calamidade
+禳解 | TRADUÇÃO: rezar aos deuses para evitar um infortúnio
+禴 | TRADUÇÃO: sacrifício imperial ancestral de primavera
+禸 | TRADUÇÃO: pisar
+禹 | TRADUÇÃO: Yu, o Grande (c. século XXI a.C.), líder mítico que domou as inundações/Yu (sobrenome)
+禹城 | TRADUÇÃO: veja 禹城市
+禹城市 | TRADUÇÃO: Yucheng, uma cidade administrativa na cidade de Dezhou, Shandong
+禹州 | TRADUÇÃO: veja 禹州市
+禹州市 | TRADUÇÃO: Yuzhou, uma cidade administrativa na cidade de Xuchang, Henan
+禹会 | TRADUÇÃO: veja 禹會區
+禹会区 | TRADUÇÃO: Yuhui, um distrito da cidade de Bengbu, Anhui
+禹王台 | TRADUÇÃO: veja 禹王台區
+禹王台区 | TRADUÇÃO: Yuwangtai, um distrito da cidade de Kaifeng, Henan
+禺 | TRADUÇÃO: variante antiga de 偶 ‖ (arcaico) distrito/(antigo) tipo de macaco
+离 | TRADUÇÃO: besta mítica (arcaico) ‖ Li (sobrenome) ‖ partir/afastar-se de/estar longe de/(dando distâncias) de/sem (algo)/independente de/um dos Oito Trigramas 八卦, simbolizando fogo/☲
+禽 | TRADUÇÃO: (forma presa) aves; pássaros/(literário) aves e animais/variante antiga de 擒
+禽流感 | TRADUÇÃO: gripe aviária/influenza aviária
+禽兽 | TRADUÇÃO: aves e animais/criatura/besta (pessoa brutal)
+禽兽不如 | TRADUÇÃO: pior que uma besta/portar-se imoralmente
+禽畜 | TRADUÇÃO: aves e gado
+禽蛋 | TRADUÇÃO: ovos de aves
+禽类 | TRADUÇÃO: espécies de aves/aves
+禽鸟 | TRADUÇÃO: aves/pássaros
+禽龙 | TRADUÇÃO: iguanodonte
+禾 | TRADUÇÃO: (morfema preso) planta de grãos; cereal
+禾场 | TRADUÇÃO: eira
+禾木科 | TRADUÇÃO: gramíneas (família que inclui bambu, cereais, arroz)
+禾本科 | TRADUÇÃO: Graminae ou Poaceae, a família das gramíneas
+禾秆 | TRADUÇÃO: palha
+禾稻 | TRADUÇÃO: arroz em casca
+禾谷 | TRADUÇÃO: cereal/grão alimentício
+禾苗 | TRADUÇÃO: muda (de arroz ou outro grão)/CL:棵
+禾草 | TRADUÇÃO: grama; capim
+秃 | TRADUÇÃO: calvo (sem cabelo ou penas)/estéril; nu; desnudo/rombo; sem ponta/(de um texto) insatisfatório; deficiente
+秃子 | TRADUÇÃO: careca/pessoa careca
+秃宝盖 | TRADUÇÃO: nome do radical "tampa" em caracteres chineses (Kangxi radical 14)/ver também 冖
+秃瓢 | TRADUÇÃO: cabeça careca (coloq.)
+秃疮 | TRADUÇÃO: (dialeto) fava do couro cabeludo (doença de pele)
+秃发 | TRADUÇÃO: um ramo do povo nômade Xianbei 鮮卑|鲜卑
+秃顶 | TRADUÇÃO: cabeça calva
+秃头 | TRADUÇÃO: descobrir a cabeça; estar de cabeça descoberta/ficar careca/cabeça calva/pessoa careca
+秃驴 | TRADUÇÃO: (pejor.) monge budista
+秃鹫 | TRADUÇÃO: abutre/(espécie de ave da China) abutre-preto (Aegypius monachus)
+秃鹰 | TRADUÇÃO: abutre; condor
+秃鹳 | TRADUÇÃO: (espécie de ave da China) jabiru-menor (Leptoptilos javanicus)
+秃鼻乌鸦 | TRADUÇÃO: (espécie de ave da China) gralha-calva (Corvus frugilegus)
+秀 | TRADUÇÃO: (morfema preso) refinado; elegante; gracioso; belo/(morfema preso) superior; excelente/(empréstimo) show/(literário) crescer; florescer; (de cereais) espigar
+秀场 | TRADUÇÃO: local de shows ao vivo
+秀外惠中 | TRADUÇÃO: variante de 秀外慧中
+秀外慧中 | TRADUÇÃO: belo e inteligente (expressão idiomática)
+秀山 | TRADUÇÃO: Condado Autônomo Tujia e Miao de Xiushan, em Chongqing 重慶|重庆
+秀山土家族苗族自治县 | TRADUÇÃO: Condado Autônomo Tujia e Miao de Xiushan, em Chongqing 重慶|重庆
+秀山县 | TRADUÇÃO: Condado Autônomo Tujia e Miao de Xiushan, em Chongqing 重慶|重庆
+秀峰 | TRADUÇÃO: ver 秀峰區|秀峰区
+秀峰区 | TRADUÇÃO: Xiufeng, um distrito da cidade de Guilin 桂林市, Guangxi
+秀屿 | TRADUÇÃO: ver 秀嶼區|秀屿区
+秀屿区 | TRADUÇÃO: Xiuyu, um distrito da cidade de Putian 莆田市, Fujian
+秀恩爱 | TRADUÇÃO: fazer demonstração pública de afeto
+秀才 | TRADUÇÃO: pessoa que passou no exame imperial em nível de condado (histórico)/erudito/escritor habilidoso/bom talento
+秀才不出门，全知天下事 | TRADUÇÃO: um erudito não precisa sair de casa para saber o que acontece no mundo (expressão idiomática)
+秀才不出门，能知天下事 | TRADUÇÃO: um erudito não precisa sair de casa para saber o que acontece no mundo (expressão idiomática)
+秀林 | TRADUÇÃO: Xiulin ou Hsiulin, distrito rural no condado de Hualien 花蓮縣|花莲县, leste de Taiwan
+秀林乡 | TRADUÇÃO: Xiulin ou Hsiulin, distrito rural no condado de Hualien 花蓮縣|花莲县, leste de Taiwan
+秀气 | TRADUÇÃO: delicado/gracioso
+秀水 | TRADUÇÃO: Xiushui ou Hsiushui, distrito rural no condado de Changhua 彰化縣|彰化县, Taiwan
+秀水乡 | TRADUÇÃO: Xiushui ou Hsiushui, distrito rural no condado de Changhua 彰化縣|彰化县, Taiwan
+秀洲 | TRADUÇÃO: ver 秀洲區|秀洲区
+秀洲区 | TRADUÇÃO: Xiuzhou, um distrito da cidade de Jiaxing 嘉興市|嘉兴市, Zhejiang
+秀珍菇 | TRADUÇÃO: cogumelo-ostra (Pleurotus ostreatus)
+秀美 | TRADUÇÃO: elegante/gracioso
+秀肌肉 | TRADUÇÃO: flexionar os músculos; (fig.) (de uma pessoa, país etc) demonstrar sua força
+秀色可餐 | TRADUÇÃO: um banquete para os olhos (expressão idiomática)/(de mulheres) deslumbrante/graciosa/(de paisagens) bela
+秀色孙鲽 | TRADUÇÃO: yellowtail
+秀英 | TRADUÇÃO: ver 秀英區|秀英区
+秀英区 | TRADUÇÃO: Xiuying, um distrito da cidade de Haikou 海口市, Hainan
+秀逗 | TRADUÇÃO: dar curto-circuito/(fig.) ter um lapso mental/confundir as coisas/ficar confuso
+秀雅 | TRADUÇÃO: refinado/de bom gosto
+秀发 | TRADUÇÃO: belo cabelo
+秀丽 | TRADUÇÃO: bonito; belo
+私 | TRADUÇÃO: pessoal/particular/egoísta
+私下 | TRADUÇÃO: em particular
+私了 | TRADUÇÃO: resolver em particular/resolver a portas fechadas/resolver fora do tribunal
+私事 | TRADUÇÃO: assuntos pessoais
+私交 | TRADUÇÃO: amizade pessoal
+私人 | TRADUÇÃO: privado/pessoal/interpessoal/alguém com quem se tem uma relação pessoal próxima/membro de um círculo restrito
+私人服务器 | TRADUÇÃO: (jogos) emulador de servidor; servidor privado
+私人钥匙 | TRADUÇÃO: chave privada (em criptografia)
+私仇 | TRADUÇÃO: rancor pessoal
+私企 | TRADUÇÃO: empresa privada/abrev. de 私營企業|私营企业
+私信 | TRADUÇÃO: correspondência privada; carta pessoal/(informática) mensagem pessoal (MP); enviar mensagem a alguém
+私偏 | TRADUÇÃO: preferência egoísta
+私利 | TRADUÇÃO: ganho pessoal; interesse egoísta
+私募 | TRADUÇÃO: colocação privada (investimento)
+私募基金 | TRADUÇÃO: fundo de private equity/fundo oferecido em colocação privada (ex.: fundo hedge)
+私吞 | TRADUÇÃO: apropriar-se indevidamente (de fundos públicos etc)/desviar
+私售 | TRADUÇÃO: ver 私賣|私卖
+私囊 | TRADUÇÃO: bolso próprio
+私塾 | TRADUÇÃO: escola particular (antigamente)
+私奔 | TRADUÇÃO: fugir para se casar
+私宅 | TRADUÇÃO: residência particular
+私定终身 | TRADUÇÃO: fazer um juramento de casamento sem aprovação dos pais
+私家 | TRADUÇÃO: particular/privado ou administrado privadamente
+私家车 | TRADUÇÃO: carro particular
+私密 | TRADUÇÃO: privado/secreto/íntimo
+私底下 | TRADUÇÃO: privadamente/secretamente/confidencialmente
+私弊 | TRADUÇÃO: prática fraudulenta
+私心 | TRADUÇÃO: egoísmo/motivos egoístas
+私情 | TRADUÇÃO: considerações pessoais/romance
+私愤 | TRADUÇÃO: rancor pessoal/maldade
+私房 | TRADUÇÃO: casa de propriedade privada/cômodos particulares/bens próprios ‖ pessoal/particular/confidencial
+私房钱 | TRADUÇÃO: dinheiro secreto/reserva secreta de dinheiro
+私掠 | TRADUÇÃO: corsário
+私教 | TRADUÇÃO: personal trainer
+私会 | TRADUÇÃO: (de amantes) encontrar-se em segredo; ter um encontro clandestino
+私有 | TRADUÇÃO: privado/de propriedade privada
+私有制 | TRADUÇÃO: propriedade privada de bens
+私有化 | TRADUÇÃO: privatização/privatizar
+私服 | TRADUÇÃO: (jogos) emulador de servidor; servidor privado (abrev. de 私人服務器|私人服务器)
+私欲 | TRADUÇÃO: desejo egoísta
+私法 | TRADUÇÃO: direito privado
+私营 | TRADUÇÃO: de propriedade privada/particular
+私营企业 | TRADUÇÃO: empresa privada/oposto: empresa estatal 國有企業|国有企业
+私生女 | TRADUÇÃO: filha ilegítima
+私生子 | TRADUÇÃO: filho ilegítimo
+私生子女 | TRADUÇÃO: filho ilegítimo/filha ilegítima
+私生活 | TRADUÇÃO: vida privada
+私产 | TRADUÇÃO: propriedade privada
+私秘 | TRADUÇÃO: variante de 私密
+私立 | TRADUÇÃO: privado/particular (escola, hospital etc)/criar ilegalmente
+私立学校 | TRADUÇÃO: escola particular
+私第 | TRADUÇÃO: (literário) residência particular/residência privada
+私聊 | TRADUÇÃO: (computação) conversar em particular/bate-papo privado
+私自 | TRADUÇÃO: privado/pessoal/secretamente/sem autorização explícita
+私藏 | TRADUÇÃO: esconder/guardar em posse particular/esconderijo/estoque secreto
+私处 | TRADUÇÃO: partes íntimas/genitália
+私行 | TRADUÇÃO: viajar a negócios particulares/agir sem aprovação oficial/inspecionar disfarçadamente/agir em interesse próprio
+私讯 | TRADUÇÃO: (Taiwan) mensagem privada/enviar uma mensagem privada
+私语 | TRADUÇÃO: cochichar/conversa sussurrada
+私卖 | TRADUÇÃO: vender ilegalmente/contrabandear/vender em particular
+私办 | TRADUÇÃO: privado/de iniciativa privada
+私通 | TRADUÇÃO: ter ligações secretas com/estar em comunicação secreta com (o inimigo etc)/manter relação sexual ilícita/adultério
+私运 | TRADUÇÃO: contrabandear
+私邸 | TRADUÇÃO: residência particular de um alto funcionário (distinta de uma residência oficial)
+私酿 | TRADUÇÃO: fabricar bebidas alcoólicas ilegalmente
+私钥 | TRADUÇÃO: (criptografia) chave privada
+私闯 | TRADUÇÃO: entrar (num lugar) sem permissão/invadir
+私隐 | TRADUÇÃO: (Hong Kong) privacidade
+私盐 | TRADUÇÃO: sal comercializado ilegalmente (sem pagamento do imposto sobre o sal)
+秈 | TRADUÇÃO: arroz-comum
+秉 | TRADUÇÃO: sobrenome Bing ‖ agarrar/segurar/manter
+秉公 | TRADUÇÃO: justamente/imparcialmente
+秉公办理 | TRADUÇÃO: conduzir negócios com imparcialidade (expressão idiomática)/agir com justiça
+秉性 | TRADUÇÃO: caráter inato/disposição natural/atitude
+秉承 | TRADUÇÃO: receber ordens/receber comandos/dar continuidade (a uma tradição)
+秉持 | TRADUÇÃO: manter/defender firmemente
+秉烛 | TRADUÇÃO: variante de 炳燭|炳烛
+秉笔 | TRADUÇÃO: segurar a caneta/fazer a escrita propriamente dita
+秉笔直书 | TRADUÇÃO: registrar fielmente
+秉赋 | TRADUÇÃO: variante de 稟賦|禀赋
+秋 | TRADUÇÃO: sobrenome Qiu ‖ outono ‖ variante arcaica de 秋 ‖ usado em 鞦韆|秋千
+秋令 | TRADUÇÃO: outono/tempo de outono
+秋刀鱼 | TRADUÇÃO: sauro-do-Pacífico (Cololabis saira)
+秋分 | TRADUÇÃO: Qiufen ou Equinócio de Outono, 16º dos 24 termos solares 23 de setembro-7 de outubro
+秋分点 | TRADUÇÃO: ponto do equinócio de outono
+秋天 | TRADUÇÃO: outono/CL:個|个
+秋季 | TRADUÇÃO: estação do outono
+秋审 | TRADUÇÃO: julgamento de outono (audiência judicial de casos capitais durante as dinastias Ming e Qing)
+秋征 | TRADUÇÃO: taxa de outono (imposto sobre a colheita)
+秋后算帐 | TRADUÇÃO: fig. ajustar contas depois da colheita de outono (expressão idiomática)/esperar o momento oportuno para acertar contas
+秋后算账 | TRADUÇÃO: fig. ajustar contas no momento oportuno (expressão idiomática)
+秋播 | TRADUÇÃO: semeadura de outono (para uma colheita na primavera)
+秋收 | TRADUÇÃO: colheita de outono/ceifar
+秋收起义 | TRADUÇÃO: Revolução da Colheita de Outono (1927), insurreição nas províncias de Hunan e Jiangxi liderada por Mao Tsé-Tung
+秋日 | TRADUÇÃO: outono
+秋景 | TRADUÇÃO: paisagem outonal/estação da colheita
+秋榜 | TRADUÇÃO: resultados dos exames imperiais de outono
+秋毫 | TRADUÇÃO: pelos finos crescidos por animais no outono/(fig.) algo quase imperceptível/a coisa mais insignificante/o mínimo detalhe
+秋毫无犯 | TRADUÇÃO: (expressão idiomática) (de soldados) altamente disciplinados, sem cometer a menor ofensa contra civis
+秋水 | TRADUÇÃO: águas límpidas do outono (descrição tradicional dos belos olhos de uma garota)
+秋水仙 | TRADUÇÃO: açafrão-do-outono (Colchicum autumnale)
+秋水仙素 | TRADUÇÃO: colchicina (farmácia)
+秋水仙碱 | TRADUÇÃO: colchicina (alcaloide tóxico usado para tratar gota)
+秋汛 | TRADUÇÃO: enchente de outono
+秋波 | TRADUÇÃO: ondas outonais/(fig.) olhos luminosos de uma mulher/olhar amoroso
+秋海棠 | TRADUÇÃO: begônia
+秋凉 | TRADUÇÃO: o frescor do outono
+秋灌 | TRADUÇÃO: irrigação de outono
+秋熟 | TRADUÇÃO: amadurecimento no outono (de colheitas)
+秋燥 | TRADUÇÃO: doença da secura do outono (MTC)
+秋狝 | TRADUÇÃO: (de um imperador) caçar no outono
+秋瑾 | TRADUÇÃO: Qiu Jin (1875-1907), famosa mártir da revolução anti-Qing, tema de vários livros e filmes
+秋田 | TRADUÇÃO: Akita (província e cidade no Japão)/cão Akita (abreviação de 秋田犬)
+秋田犬 | TRADUÇÃO: Akita (raça de cão)
+秋粮 | TRADUÇÃO: colheitas de grãos de outono
+秋老虎 | TRADUÇÃO: onda de calor durante o outono/veranico
+秋耕 | TRADUÇÃO: lavoura de outono
+秋色 | TRADUÇÃO: cores do outono/paisagem outonal
+秋荼密网 | TRADUÇÃO: (expressão idiomática) fig. punições abundantes e rigorosas prescritas por lei
+秋菜 | TRADUÇÃO: legumes de outono
+秋叶 | TRADUÇÃO: folha de outono
+秋叶原 | TRADUÇÃO: Akihabara, região do centro de Tóquio famosa por lojas de eletrônicos
+秋葵 | TRADUÇÃO: quiabo (Abelmoschus esculentus)
+秋葵荚 | TRADUÇÃO: quiabo (Hibiscus esculentus)/dedos-de-moça
+秋衣 | TRADUÇÃO: roupa íntima de manga comprida
+秋装 | TRADUÇÃO: roupas de outono
+秋裤 | TRADUÇÃO: calça de cueca (roupa íntima comprida)
+秋试 | TRADUÇÃO: exame de outono (exame provincial trienal durante as dinastias Ming e Qing)
+秋游 | TRADUÇÃO: passeio de outono/excursão de outono
+秋闱 | TRADUÇÃO: exame de outono (exame provincial trienal durante as dinastias Ming e Qing)
+秋雨 | TRADUÇÃO: chuva de outono
+秋霜 | TRADUÇÃO: geada de outono/fig. cabelos brancos como sinal de velhice
+秋风扫落叶 | TRADUÇÃO: fig. varrer o velho e fazer uma limpeza completa (expressão idiomática)
+秋风送爽 | TRADUÇÃO: a brisa fresca do outono (expressão idiomática)
+秋风过耳 | TRADUÇÃO: (expressão idiomática) não se importar nem um pouco
+秋风飒飒 | TRADUÇÃO: o vento de outono sussurra (expressão idiomática)
+秋高气爽 | TRADUÇÃO: tempo outonal claro e refrescante
+秏 | TRADUÇÃO: variante de 耗
+科 | TRADUÇÃO: ramo de estudo/seção administrativa/divisão/campo/ramo/direções de palco/família (taxonomia)/regras/leis/aplicar (punição)/cobrar (impostos etc)/multar alguém/CL:個|个
+科什图尼察 | TRADUÇÃO: sobrenome Kostunica/Vojislav Kostunica (1944-), político sérvio, último presidente da Iugoslávia 2000-2003, primeiro-ministro da Sérvia 2004-2008
+科企 | TRADUÇÃO: ciência e tecnologia e indústria/empresa de tecnologia
+科佩尔 | TRADUÇÃO: Koper (cidade portuária da Eslovênia)
+科伦坡 | TRADUÇÃO: Colombo, capital do Sri Lanka
+科仪 | TRADUÇÃO: ritual (taoísmo)/instrumento científico (abreviação de 科學儀器|科学仪器)
+科克 | TRADUÇÃO: Cork, cidade na Irlanda
+科利奥兰纳斯 | TRADUÇÃO: Coriolanus/tragédia de 1607 de William Shakespeare 莎士比亞|莎士比亚
+科卿 | TRADUÇÃO: Cochim (no sul da Índia)
+科右中旗 | TRADUÇÃO: bandeira central direita de Horqin (em mongol: Khorchin Baruun Garyn Dund khoshuu), na liga Hinggan 興安盟|兴安盟, leste da Mongólia Interior
+科右前旗 | TRADUÇÃO: bandeira frontal direita de Horqin (em mongol: Khorchin Baruun Garyn Ömnöd khoshuu), na liga Hinggan 興安盟|兴安盟, leste da Mongólia Interior
+科名 | TRADUÇÃO: posição obtida nos exames imperiais/honrarias acadêmicas
+科奈 | TRADUÇÃO: Kenai (península, lago, montanhas), Alasca
+科威特 | TRADUÇÃO: Kuwait
+科学 | TRADUÇÃO: ciência/conhecimento científico/científico/racional/CL:門|门,個|个,種|种
+科学主义 | TRADUÇÃO: cientificismo
+科学史 | TRADUÇÃO: história da ciência
+科学执政 | TRADUÇÃO: governança baseada na racionalidade, evidências e princípios científicos
+科学家 | TRADUÇÃO: cientista
+科学实验 | TRADUÇÃO: experimento científico
+科学幻想 | TRADUÇÃO: ficção científica
+科学怪人 | TRADUÇÃO: Frankenstein (romance)
+科学技术 | TRADUÇÃO: ciência e tecnologia
+科学技术是第一生产力 | TRADUÇÃO: ciência e tecnologia são a primeira força produtiva (de um discurso de 1978 de Deng Xiaoping 鄧小平|邓小平 introduzindo as Quatro Modernizações 四個現代化|四个现代化)
+科学技术现代化 | TRADUÇÃO: modernização da ciência e tecnologia, uma das Quatro Modernizações de Deng Xiaoping
+科学普及 | TRADUÇÃO: popularização da ciência
+科学界 | TRADUÇÃO: mundo da ciência/círculos científicos
+科学发展观 | TRADUÇÃO: Concepção Científica de Desenvolvimento, uma diretriz orientadora do PCC atribuída a Hu Jintao 胡錦濤|胡锦涛, incorporada à Constituição do PCC em 2007
+科学知识 | TRADUÇÃO: conhecimento científico
+科学研究 | TRADUÇÃO: pesquisa científica
+科学管理 | TRADUÇÃO: gestão científica
+科学编辑 | TRADUÇÃO: editor de um periódico científico, publicação etc.
+科学育儿 | TRADUÇÃO: parentalidade científica
+科学院 | TRADUÇÃO: academia de ciências/CL:個|个
+科室 | TRADUÇÃO: departamento/divisão administrativa/unidade (ex.: unidade de terapia intensiva)
+科尼赛克 | TRADUÇÃO: Koenigsegg (fabricante de automóveis)
+科布多 | TRADUÇÃO: Qobto ou Kobdo, canato da Mongólia exterior
+科幻 | TRADUÇÃO: ficção científica/abrev. de 科學幻想|科学幻想
+科幻小说 | TRADUÇÃO: romance de ficção científica
+科幻电影 | TRADUÇÃO: filme de ficção científica
+科恩 | TRADUÇÃO: Cohen (nome)
+科托努 | TRADUÇÃO: Cotonou (cidade no Benim)
+科技 | TRADUÇÃO: ciência e tecnologia
+科技人员 | TRADUÇÃO: pessoal científico e técnico
+科技工作者 | TRADUÇÃO: trabalhador em ciência e tecnologia
+科技感 | TRADUÇÃO: sensação de alta tecnologia (de um produto etc.)/impressão de que a aparência de alguém é artificial, afetada por procedimentos estéticos
+科技树 | TRADUÇÃO: árvore tecnológica; padrão ou sequência de desenvolvimento tecnológico (em jogos ou metaforicamente em inovação do mundo real)
+科技脸 | TRADUÇÃO: rosto visivelmente modificado por cirurgia plástica, botox etc.
+科技惊悚 | TRADUÇÃO: techno-thriller (romance)/thriller de ficção científica
+科技惊悚小说 | TRADUÇÃO: romance techno-thriller
+科摩洛 | TRADUÇÃO: Comores
+科摩罗 | TRADUÇÃO: União das Comores
+科教 | TRADUÇÃO: educação científica/ciência popular
+科教片 | TRADUÇÃO: filme de educação científica/filme de ciência popular
+科教兴国 | TRADUÇÃO: revitalizar o país através da ciência e da educação
+科斗 | TRADUÇÃO: variante antiga de 蝌蚪
+科普 | TRADUÇÃO: popularização da ciência (abrev. de 科學普及|科学普及)/(atributivo) ciência popular/(coloq.) explicar em termos leigos
+科普特人 | TRADUÇÃO: os coptas, principal grupo etnorreligioso de cristãos egípcios
+科普特语 | TRADUÇÃO: copta, língua afro-asiática dos coptas 科普特人, falada no Egito até o final do século XVII
+科朗 | TRADUÇÃO: cólon (moeda da Costa Rica e antiga moeda de El Salvador)
+科林 | TRADUÇÃO: Colin (nome)
+科林·弗思 | TRADUÇÃO: Colin Firth, ator inglês (1960-)
+科林斯 | TRADUÇÃO: Corinto, uma cidade-estado da Grécia antiga/Corinto, uma cidade moderna na Grécia/(nome) Collins
+科比 | TRADUÇÃO: (nome) Coby; Colby; Kirby/Kobe Bryant (1978–2020), jogador de basquete americano
+科浦 | TRADUÇÃO: Coop, varejista suíço com a marca “coop”
+科泽科德 | TRADUÇÃO: antigo nome chinês para Calicute, cidade no mar Arábico em Kerala, Índia/agora chamada 卡利卡特
+科尔 | TRADUÇÃO: Kohl (nome)/Helmut Kohl (1930-2017), político alemão da CDU, Chanceler 1982-1998
+科尔多瓦 | TRADUÇÃO: Córdova, Espanha
+科尔沁 | TRADUÇÃO: veja 科爾沁區|科尔沁区
+科尔沁区 | TRADUÇÃO: Horqin, um distrito da cidade de Tongliao 通遼市|通辽市, Mongólia Interior
+科尔沁右翼中旗 | TRADUÇÃO: bandeira central direita de Horqin (em mongol: Khorchin Baruun Garyn Dund khoshuu), na liga Hinggan 興安盟|兴安盟, leste da Mongólia Interior
+科尔沁右翼前旗 | TRADUÇÃO: bandeira frontal direita de Horqin (em mongol: Khorchin Baruun Garyn Ömnöd khoshuu), na liga Hinggan 興安盟|兴安盟, leste da Mongólia Interior
+科尔沁左翼中旗 | TRADUÇÃO: bandeira média esquerda de Horqin (em mongol: Khorchin Züün Garyn Dund khoshuu), em Tongliao 通遼|通辽, Mongólia Interior
+科尔沁左翼后旗 | TRADUÇÃO: bandeira traseira esquerda de Horqin (em mongol: Khorchin Züün Garyn Xoit khoshuu), em Tongliao 通遼|通辽, Mongólia Interior
+科特布斯 | TRADUÇÃO: Cottbus (cidade na Alemanha)
+科特迪瓦 | TRADUÇÃO: Costa do Marfim na África Ocidental
+科特迪瓦共和国 | TRADUÇÃO: República da Costa do Marfim
+科班 | TRADUÇÃO: (antiga) escola de ópera chinesa/educação ou treinamento profissional formal
+科甲 | TRADUÇÃO: exames imperiais
+科目 | TRADUÇÃO: disciplina acadêmica/campo de estudo
+科盲 | TRADUÇÃO: pessoa ignorante sobre ciência e tecnologia/analfabetismo científico
+科研 | TRADUÇÃO: pesquisa (científica)
+科研人员 | TRADUÇÃO: pesquisador (científico)
+科研小组 | TRADUÇÃO: grupo de pesquisa científica
+科研样机 | TRADUÇÃO: protótipo de pesquisa
+科系 | TRADUÇÃO: departamento
+科纳克里 | TRADUÇÃO: Conacri, capital da Guiné
+科级 | TRADUÇÃO: nível (administrativo) de seção
+科索沃 | TRADUÇÃO: Kosovo
+科罗娜 | TRADUÇÃO: Corona (cerveja)
+科罗恩病 | TRADUÇÃO: doença de Crohn
+科罗拉多 | TRADUÇÃO: Colorado
+科罗拉多大峡谷 | TRADUÇÃO: Grand Canyon (Colorado)
+科罗拉多州 | TRADUÇÃO: Colorado (estado)
+科罗纳 | TRADUÇÃO: Corona/Colonna
+科考 | TRADUÇÃO: rodada preliminar dos exames imperiais/abrev. de 科學考察|科学考察, exploração científica
+科考队 | TRADUÇÃO: equipe de exploração científica/expedição
+科举 | TRADUÇÃO: exame imperial
+科举制 | TRADUÇÃO: sistema de exames imperiais
+科举考试 | TRADUÇÃO: exames imperiais (em tempos passados)
+科茨沃尔德 | TRADUÇÃO: os Cotswolds (Inglaterra)
+科莫多龙 | TRADUÇÃO: dragão-de-komodo (Varanus komodoensis)
+科西嘉岛 | TRADUÇÃO: ilha da Córsega (localizada a oeste da Itália e sudeste da França)
+科迪勒拉 | TRADUÇÃO: Cordilheira, série de cadeias montanhosas que se estendem da Patagônia na América do Sul até o Alasca e Ilhas Aleutas
+科迪勒拉山系 | TRADUÇÃO: Cordilheira, série de cadeias montanhosas que se estendem da Patagônia na América do Sul até o Alasca e Ilhas Aleutas
+科长 | TRADUÇÃO: chefe de seção/CL:個|个
+科隆 | TRADUÇÃO: Colônia, Alemanha/Colón, Panamá

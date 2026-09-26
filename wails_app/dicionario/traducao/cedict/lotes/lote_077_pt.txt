@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+看破红尘 | TRADUÇÃO: (expressão idiomática) ver através das ilusões do mundo material (muitas vezes um precursor para se tornar um monge ou monja budista)/tornar-se desiludido com a sociedade humana
+看穿 | TRADUÇÃO: ver através de (uma pessoa, esquema, truque etc)
+看笑话 | TRADUÇÃO: observar com divertimento enquanto alguém faz papel de bobo
+看管 | TRADUÇÃO: cuidar de/olhar por
+看花眼 | TRADUÇÃO: ficar deslumbrado/não acreditar no que os olhos veem
+看菜吃饭 | TRADUÇÃO: (literal) comer conforme o prato (expressão idiomática)/(figurado) agir de acordo com as circunstâncias reais
+看菜吃饭，量体裁衣 | TRADUÇÃO: (literal) comer conforme o prato, cortar o pano conforme o corpo (expressão idiomática)/(figurado) agir de acordo com as circunstâncias reais
+看着不管 | TRADUÇÃO: ficar de lado sem dar atenção/ignorar
+看着办 | TRADUÇÃO: fazer como achar melhor/decidir conforme as circunstâncias
+看见 | TRADUÇÃO: ver/avistar
+看诊 | TRADUÇÃO: (de um médico) atender um paciente/realizar uma consulta/(de um paciente) consultar um médico
+看护 | TRADUÇÃO: cuidar/olhar por/vigiar/(antigo) enfermeiro(a) hospitalar
+看贬 | TRADUÇÃO: esperar que (uma moeda etc) se desvalorize
+看走眼 | TRADUÇÃO: errar no julgamento/deixar-se enganar
+看起来 | TRADUÇÃO: aparentemente/parece que/dá a impressão de/parece à primeira vista
+看跌 | TRADUÇÃO: (finanças) baixista
+看轻 | TRADUÇÃO: menosprezar/depreciar/levar algo na leveza
+看透 | TRADUÇÃO: compreender profundamente/ver além da fachada/ver através de (alguém)
+看医生 | TRADUÇÃO: consultar um médico/ir ao médico
+看重 | TRADUÇÃO: considerar importante/valorizar
+看错 | TRADUÇÃO: interpretar mal o que se vê ou lê/julgar mal (alguém)/confundir (alguém com outra pessoa)/ler errado (um documento)
+看门人 | TRADUÇÃO: zelador/vigia
+看开 | TRADUÇÃO: aceitar um fato desagradável/superar algo/anima-se
+看头 | TRADUÇÃO: qualidades que fazem algo valer a pena ver (ou ler)
+看顾 | TRADUÇÃO: vigiar/cuidar de
+看鸟人 | TRADUÇÃO: observador de pássaros
+看点 | TRADUÇÃO: destaque (de um evento, filme etc)
+看齐 | TRADUÇÃO: seguir o exemplo de alguém/emular/(de tropas etc) alinhar-se (para formação de parada)
+视 | TRADUÇÃO: variante de 視|视/variante de 示 ‖ variante antiga de 視|视 ‖ (literário, ou forma presa) olhar para
+眑 | TRADUÇÃO: olhos fundos/profundo/abstruso
+眕 | TRADUÇÃO: conter a raiva
+眙 | TRADUÇÃO: usado em 盱眙 (nome de lugar em Jiangsu)
+眚 | TRADUÇÃO: catarata do olho/erro
+眛 | TRADUÇÃO: cego/imperceptivo
+眞 | TRADUÇÃO: variante de 真
+真 | TRADUÇÃO: realmente/verdadeiramente/de fato/real/verdadeiro/genuíno
+真主 | TRADUÇÃO: Alá
+真主党 | TRADUÇÃO: Hezbollah (grupo islâmico libanês)
+真事 | TRADUÇÃO: realidade/veracidade/a coisa real
+真亮 | TRADUÇÃO: claro/nítido
+真人 | TRADUÇÃO: uma pessoa real/mestre espiritual taoísta
+真人不露相 | TRADUÇÃO: o sábio se apresenta como uma pessoa comum (expressão idiomática)
+真人版 | TRADUÇÃO: versão da vida real (de algum personagem imaginário)
+真人真事 | TRADUÇÃO: pessoas genuínas e eventos verdadeiros
+真人秀 | TRADUÇÃO: (TV) reality show
+真个 | TRADUÇÃO: (dialeto) realmente/verdadeiramente/de fato
+真值表 | TRADUÇÃO: tabela-verdade
+真假 | TRADUÇÃO: genuíno ou falso/verdadeiro ou falso
+真假难辨 | TRADUÇÃO: difícil distinguir o real da imitação
+真伪 | TRADUÇÃO: verdadeiro ou falso/autenticidade
+真伪莫辨 | TRADUÇÃO: não conseguir julgar verdadeiro ou falso (expressão idiomática)/incapaz de distinguir o genuíno do falso/não saber se acreditar (no que se lê nas notícias)
+真传 | TRADUÇÃO: tradição autêntica/ensinamentos ou técnicas transmitidos
+真凶 | TRADUÇÃO: culpado
+真刀真枪 | TRADUÇÃO: (literal) espadas e lanças reais (expressão idiomática)/(figurado) muito a sério/genuíno
+真分数 | TRADUÇÃO: fração própria (com numerador < denominador, ex.: cinco sétimos)/ver também: fração imprópria 假分數|假分数 e número misto 帶分數|带分数
+真切 | TRADUÇÃO: vívido/distinto/claro/sincero/honesto
+真否定句 | TRADUÇÃO: negação verdadeira (TN)
+真命 | TRADUÇÃO: receber o mandato celestial (de imortais taoistas etc)/ordenado pelo céu
+真善美 | TRADUÇÃO: verdade, bondade e beleza
+真如 | TRADUÇÃO: Tathata
+真姬菇 | TRADUÇÃO: cogumelo faia (Hypsizygus tessulatus)
+真子集 | TRADUÇÃO: subconjunto próprio
+真容 | TRADUÇÃO: retrato/verdadeiras feições/(figurado) verdadeira natureza
+真实 | TRADUÇÃO: verdadeiro/real
+真实性 | TRADUÇÃO: autenticidade/veracidade/realidade/validade
+真实感 | TRADUÇÃO: a sensação de que algo é genuíno/sensação de realidade/em pessoa
+真彩色 | TRADUÇÃO: cor verdadeira
+真后生动物 | TRADUÇÃO: eumetazoários/sub-reino de animais excluindo esponjas
+真心 | TRADUÇÃO: sinceridade/boa-fé
+真心实意 | TRADUÇÃO: (expressão idiomática) genuíno/sincero/de todo coração
+真心话大冒险 | TRADUÇÃO: The Moment of Truth (programa de TV)/Verdade ou Consequência (jogo)
+真性 | TRADUÇÃO: real/a natureza de algo
+真怪 | TRADUÇÃO: estranho/incomum/Não acredito que...
+真情 | TRADUÇÃO: situação real/a verdade/emoções verdadeiras/sentimentos genuínos
+真情实意 | TRADUÇÃO: (expressão idiomática) sentimentos sinceros/emoções genuínas
+真意 | TRADUÇÃO: intenção real/verdadeiro significado/interpretação correta
+真爱 | TRADUÇÃO: amor verdadeiro
+真凭实据 | TRADUÇÃO: evidência confiável (expressão idiomática)/prova conclusiva/evidência definitiva
+真才实学 | TRADUÇÃO: sólido aprendizado/habilidade e conhecimento reais/talento genuíno
+真挚 | TRADUÇÃO: sincero/sinceridade
+真数 | TRADUÇÃO: (mat.) argumento (de um logaritmo)
+真是 | TRADUÇÃO: realmente/verdadeiramente/(coloq.) (usado para expressar desaprovação, aborrecimento etc)
+真是的 | TRADUÇÃO: Nossa! (interjeição de aborrecimento ou frustração)
+真书 | TRADUÇÃO: escrita regular (estilo caligráfico chinês)
+真有你的 | TRADUÇÃO: Você é realmente bom!/Você é incrível!
+真核 | TRADUÇÃO: eucariótico
+真格 | TRADUÇÃO: verdadeiro/real
+真格的 | TRADUÇÃO: (coloq.) sério/real/verdadeiro
+真棒 | TRADUÇÃO: super!/muito bom/maravilhoso
+真枪实弹 | TRADUÇÃO: (expressão idiomática) com armas reais e munição real/(figurado) a sério (envolvendo ação genuína em vez de ensaio, simulação ou teoria)/(coloq.) fazer sexo real/ir até o fim
+真正 | TRADUÇÃO: genuíno/real/verdadeiro/realmente/de fato
+真武 | TRADUÇÃO: Senhor do profundo céu, principal divindade taoísta/também conhecido como Tartaruga Negra 玄武 ou Imperador celestial negro 玄天上帝
+真版 | TRADUÇÃO: versão real (em oposição a pirata)/versão genuína
+真牛 | TRADUÇÃO: (gíria) muito legal/incrível
+真率 | TRADUÇÃO: sincero/genuíno/direto
+真珠 | TRADUÇÃO: variante de 珍珠
+真理 | TRADUÇÃO: verdade/CL:個|个
+真理报 | TRADUÇÃO: Pravda (jornal)
+真理部 | TRADUÇÃO: Ministério da Verdade, ministério fictício do romance 1984 de George Orwell
+真番郡 | TRADUÇÃO: Comando de Zhenpan (108 a.C.-c. 300 d.C.), um dos quatro comandos da dinastia Han na Coreia do Norte
+真的 | TRADUÇÃO: realmente/verdadeiramente/de fato/verdadeiro/genuíno/próprio (matemática)
+真皮 | TRADUÇÃO: derme/couro genuíno
+真皮层 | TRADUÇÃO: derme (camada)
+真相 | TRADUÇÃO: a verdade sobre algo/os fatos reais
+真相大白 | TRADUÇÃO: toda a verdade é revelada (expressão idiomática)/tudo fica claro
+真相毕露 | TRADUÇÃO: rosto real totalmente revelado (expressão idiomática)/fig. desmascarar e expor toda a verdade
+真真 | TRADUÇÃO: realmente/de fato/genuinamente/escrupulosamente
+真知 | TRADUÇÃO: conhecimento verdadeiro
+真知灼见 | TRADUÇÃO: percepção profunda/visão penetrante
+真确 | TRADUÇÃO: autêntico
+真神 | TRADUÇÃO: o Deus Verdadeiro
+真空 | TRADUÇÃO: vácuo (física)/vácuo (fig.)/(gíria) não usar calcinha/calcinha por baixo
+真空泵 | TRADUÇÃO: bomba de vácuo
+真空管 | TRADUÇÃO: válvula termiônica/tubo de vácuo
+真纳 | TRADUÇÃO: (Mohammad Ali) Jinnah (fundador do Paquistão)
+真丝 | TRADUÇÃO: seda/seda pura
+真经 | TRADUÇÃO: sutra/tratado taoísta
+真声 | TRADUÇÃO: voz natural; voz modal (cf. 假聲|假声, falsete)
+真声最高音 | TRADUÇÃO: (música) a nota mais alta que se pode cantar em voz natural (não falsete)
+真肯定句 | TRADUÇÃO: afirmação verdadeira (TA)
+真腊 | TRADUÇÃO: reino Khmer do Kampuchea ou Camboja/termo chinês para a Camboja do século VII ao XV
+真菌 | TRADUÇÃO: fungos/fungo
+真菌纲 | TRADUÇÃO: Eumycetes (classe taxonômica de fungos)
+真叶 | TRADUÇÃO: (botânica) folha verdadeira
+真蚬 | TRADUÇÃO: Corbicula leana, uma espécie de molusco bivalve
+真言 | TRADUÇÃO: afirmação verdadeira/encantação (traduz o sânscrito: dharani 陀羅尼|陀罗尼)
+真言宗 | TRADUÇÃO: Budismo Shingon
+真诠 | TRADUÇÃO: explicar verdadeiramente (esp. de texto clássico ou religioso)/comentário verdadeiro/exegese correta
+真诚 | TRADUÇÃO: sincero/genuíno/verdadeiro
+真谛 | TRADUÇÃO: o verdadeiro significado/a verdadeira essência
+真象 | TRADUÇÃO: (variante de 真相) a verdade sobre algo/os fatos reais
+真迹 | TRADUÇÃO: autêntico (pintura ou caligrafia)/obra genuína (de artista famoso)
+真身 | TRADUÇÃO: o corpo real (de Buda ou um deus)/efígie verdadeira
+真道 | TRADUÇÃO: o caminho verdadeiro
+真释 | TRADUÇÃO: explicação verdadeira/razão genuína
+真金不怕火来烧 | TRADUÇÃO: ver 真金不怕火煉|真金不怕火炼
+真金不怕火炼 | TRADUÇÃO: O ouro verdadeiro não teme o fogo. (expressão idiomática)
+真金白银 | TRADUÇÃO: dinheiro real; dinheiro vivo e duro
+真际 | TRADUÇÃO: a verdade/a realidade
+真面目 | TRADUÇÃO: verdadeira identidade/verdadeiras cores
+真题 | TRADUÇÃO: questões de exames de anos anteriores
+真香 | TRADUÇÃO: incrível (expressão de aprovação usada hipocritamente depois de reclamar da exata mesma coisa antes) (neologismo c. 2014)
+真髓 | TRADUÇÃO: essência
+真鲷 | TRADUÇÃO: pagro (Pagrosomus major)/pargo-vermelho
+眠 | TRADUÇÃO: dormir/hibernar
+眢 | TRADUÇÃO: pálpebras inflamadas/seco
+眣 | TRADUÇÃO: olhos proeminentes
+眦 | TRADUÇÃO: (anatomia) canto do olho; canto lateral do olho ‖ variante de 眥|眦
+眦睚 | TRADUÇÃO: ver 睚眥|睚眦
+眨 | TRADUÇÃO: piscar (os olhos)/piscar (para)
+眨巴 | TRADUÇÃO: piscar (os olhos)/piscar (para)
+眨眼 | TRADUÇÃO: piscar (os olhos)/piscar (para)/num piscar de olhos
+眨眼睛 | TRADUÇÃO: piscadela
+眩 | TRADUÇÃO: (literário) tonto/(literário) deslumbrado; perplexo/deslumbrar (variante de 炫)
+眩人 | TRADUÇÃO: feiticeiro/mágico
+眩惑 | TRADUÇÃO: confusão/incapaz de escapar de uma paixão ou vício
+眩晕 | TRADUÇÃO: vertigem/tontura/desmaio/sensação de balanço, tontura, falta de equilíbrio ou flutuação (ex.: de um AVC)/pronúncia em Taiwan [xuan4 yun1]
+眩目 | TRADUÇÃO: variante de 炫目
+眩耀 | TRADUÇÃO: tonto; confuso/variante de 炫耀
+眩丽 | TRADUÇÃO: charmoso/encantador/cativante
+眭 | TRADUÇÃO: sobrenome Sui ‖ ter um olhar profundo ou penetrante
+眯 | TRADUÇÃO: cegar (com poeira, etc.)/pronúncia em Taiwan [mi3] ‖ estreitar os olhos/semicerrar os olhos/(dialeto) tirar uma soneca
+眯缝 | TRADUÇÃO: semicerrar os olhos
+眰 | TRADUÇÃO: variante antiga de 眣
+眳 | TRADUÇÃO: espaço entre as sobrancelhas e os cílios
+眳睛 | TRADUÇÃO: infeliz/insatisfeito
+眴 | TRADUÇÃO: deslumbrado/tonto
+眵 | TRADUÇÃO: (forma presa) remela (secreção seca no canto do olho)
+眵目糊 | TRADUÇÃO: (dialeto) remela (secreção seca no canto do olho)
+眶 | TRADUÇÃO: (forma presa) órbita ocular/pronúncia em Taiwan [kuang1]
+眷 | TRADUÇÃO: (forma presa) família, esp. esposa e filhos/(literário) ter amor e afeição por; sentir preocupação por ‖ (literário) ter amor e afeição por; sentir preocupação por (variante de 眷)
+眷区 | TRADUÇÃO: alojamento para casados/alojamento residencial para homens com família
+眷属 | TRADUÇÃO: membro da família/marido e mulher
+眷念 | TRADUÇÃO: pensar com carinho em
+眷爱 | TRADUÇÃO: amar/ter apego sentimental a
+眷怀 | TRADUÇÃO: ansiar por/sentir falta de
+眷恋 | TRADUÇÃO: sentir falta de/ansiar por/lembrar com saudade/anseio
+眷村 | TRADUÇÃO: vila de dependentes militares (comunidade estabelecida em Taiwan para soldados nacionalistas e seus dependentes após o KMT recuar da China continental em 1949)
+眷眷之心 | TRADUÇÃO: nostalgia/saudade/anseio pelo ente querido partido
+眷注 | TRADUÇÃO: pensar com carinho em alguém
+眷顾 | TRADUÇÃO: cuidar de/mostrar preocupação por/pensar com saudade (do próprio país)
+眸 | TRADUÇÃO: pupila (do olho)/olho
+眸子 | TRADUÇÃO: pupila do olho
+眹 | TRADUÇÃO: pupila
+眺 | TRADUÇÃO: olhar ao longe
+眺望 | TRADUÇÃO: observar a paisagem de uma posição elevada
+眼 | TRADUÇÃO: olho (CL:隻|只,雙|双)/(frequentemente usado com 一) um olhar; uma olhada/buraco pequeno/(forma presa) ponto saliente/classificador para poços, cavernas, etc.
+眼下 | TRADUÇÃO: agora; no presente/(anatomia) subocular
+眼不见为净 | TRADUÇÃO: o que permanece invisível é considerado limpo/o que os olhos não veem, o coração não sente (expressão idiomática)
+眼不见，心不烦 | TRADUÇÃO: o que os olhos não veem, o coração não sente (expressão idiomática)
+眼不转睛 | TRADUÇÃO: com atenção fixa (expressão idiomática)
+眼中 | TRADUÇÃO: aos olhos (de alguém)
+眼中刺 | TRADUÇÃO: um espinho no olho/fig. uma pedra no sapato
+眼中钉 | TRADUÇÃO: um espinho no lado/fig. uma pedra no sapato
+眼中钉，肉中刺 | TRADUÇÃO: um espinho no lado e no olho/fig. uma pedra no sapato
+眼干症 | TRADUÇÃO: (medicina) xeroftalmia; síndrome do olho seco
+眼光 | TRADUÇÃO: olhar/percepção/visão/visão do futuro/maneira de ver as coisas
+眼光短 | TRADUÇÃO: míope/visão curta
+眼冒金星 | TRADUÇÃO: ver estrelas/tonto
+眼前 | TRADUÇÃO: diante dos olhos/agora/no presente
+眼前一亮 | TRADUÇÃO: ter os olhos iluminados/impressionar-se com o que se vê
+眼力 | TRADUÇÃO: visão/acuidade visual/capacidade de discernimento
+眼力见 | TRADUÇÃO: capacidade de ler situações e reagir adequadamente
+眼力见儿 | TRADUÇÃO: forma erhuada de 眼力見|眼力见
+眼动 | TRADUÇÃO: movimento ocular
+眼动技术 | TRADUÇÃO: tecnologia de rastreamento ocular
+眼圈 | TRADUÇÃO: borda do olho/órbita
+眼圈红了 | TRADUÇÃO: estar prestes a chorar
+眼压 | TRADUÇÃO: pressão intraocular
+眼尖 | TRADUÇÃO: ter boa visão
+眼尾 | TRADUÇÃO: canto externo do olho
+眼屎 | TRADUÇÃO: remela
+眼岔 | TRADUÇÃO: confundir com outra coisa
+眼巴巴 | TRADUÇÃO: olhar ansiosamente/impaciente
+眼底 | TRADUÇÃO: fundo do olho/dentro do olho/diante dos olhos/panorama completo
+眼底下 | TRADUÇÃO: diante dos olhos/panorama completo/agora mesmo
+眼底镜 | TRADUÇÃO: oftalmoscópio/fundoscópio
+眼影 | TRADUÇÃO: sombra (maquiagem)
+眼成穿 | TRADUÇÃO: esperar ansiosamente (expressão idiomática)
+眼房 | TRADUÇÃO: câmera ocular
+眼房水 | TRADUÇÃO: humor aquoso
+眼明手快 | TRADUÇÃO: de vista aguçada e mãos rápidas
+眼时 | TRADUÇÃO: agora/atualmente
+眼晕 | TRADUÇÃO: sentir tontura
+眼柄 | TRADUÇÃO: pedúnculo ocular (de crustáceo etc.)
+眼格 | TRADUÇÃO: ver 眼界
+眼梢 | TRADUÇÃO: canto do olho próximo à têmpora
+眼毒 | TRADUÇÃO: olhar venenoso/olhar hostil/de vista aguçada
+眼气 | TRADUÇÃO: invejar/ter ciúmes
+眼波 | TRADUÇÃO: olhar fluido
+眼泪 | TRADUÇÃO: lágrima/CL:滴
+眼熟 | TRADUÇÃO: familiar/parecer familiar
+眼热 | TRADUÇÃO: cobiçar/invejoso
+眼珠 | TRADUÇÃO: olhos/globo ocular
+眼珠儿 | TRADUÇÃO: globo ocular/fig. menina dos olhos
+眼珠子 | TRADUÇÃO: globo ocular/fig. menina dos olhos
+眼球 | TRADUÇÃO: globo ocular/(fig.) atenção
+眼生 | TRADUÇÃO: desconhecido/de aparência estranha
+眼界 | TRADUÇÃO: (lit. e fig.) campo de visão/escopo/horizonte
+眼疾 | TRADUÇÃO: doença ocular
+眼疾手快 | TRADUÇÃO: (expressão idiomática) de vista aguçada e habilidoso
+眼病 | TRADUÇÃO: doença ocular
+眼白 | TRADUÇÃO: branco do olho
+眼皮 | TRADUÇÃO: pálpebra
+眼皮子 | TRADUÇÃO: pálpebra
+眼皮子底下 | TRADUÇÃO: bem diante dos olhos/bem debaixo do nariz/atual/no momento
+眼皮子浅 | TRADUÇÃO: míope/pouco perspicaz
+眼皮底下 | TRADUÇÃO: diante dos olhos
+眼目 | TRADUÇÃO: olhos
+眼看 | TRADUÇÃO: em breve/em um instante/assistir a algo acontecer
+眼眨毛 | TRADUÇÃO: cílios
+眼眵 | TRADUÇÃO: remela
+眼眶 | TRADUÇÃO: órbita/borda do olho
+眼眸 | TRADUÇÃO: olhos
+眼睛 | TRADUÇÃO: olho/CL:隻|只,雙|双
+眼睛吃冰淇淋 | TRADUÇÃO: (gíria) (Taiwan) paquerar as pessoas bonitas
+眼睁睁 | TRADUÇÃO: olhar fixamente/assistir impotente/assistir com indiferença
+眼睫毛 | TRADUÇÃO: cílios
+眼瞎耳聋 | TRADUÇÃO: ser surdo e cego (expressão idiomática)
+眼瞓 | TRADUÇÃO: sonolento (cantonês)/equivalente em mandarim: 睏|困
+眼睑 | TRADUÇÃO: pálpebra
+眼神 | TRADUÇÃO: expressão no olhar/olhar significativo/piscadela/visão (dialeto)
+眼神不好 | TRADUÇÃO: ter visão fraca
+眼神不济 | TRADUÇÃO: ter visão fraca
+眼福 | TRADUÇÃO: festa para os olhos/oportunidade rara de ver algo belo
+眼科 | TRADUÇÃO: (departamento de) oftalmologia
+眼科学 | TRADUÇÃO: oftalmologia
+眼科医生 | TRADUÇÃO: oftalmologista; médico oftalmologista
+眼穿肠断 | TRADUÇÃO: esperar ansiosamente (expressão idiomática)
+眼窝 | TRADUÇÃO: órbita
+眼帘 | TRADUÇÃO: olhos (na literatura)/visão
+眼红 | TRADUÇÃO: cobiçar/invejoso/verde de inveja/indignado/furioso
+眼纹噪鹛 | TRADUÇÃO: (espécie de ave da China) zaragateiro-malhado (Ianthocincla ocellata)
+眼纹黄山雀 | TRADUÇÃO: (espécie de ave da China) chapim-preto-do-himalaia (Machlolophus xanthogenys)
+眼线 | TRADUÇÃO: informante/delator/espião/batedor/(cosméticos) delineador
+眼线液 | TRADUÇÃO: delineador líquido (cosméticos)
+眼线笔 | TRADUÇÃO: lápis delineador (cosméticos)
+眼罩 | TRADUÇÃO: tapa-olho/venda/máscara de dormir/óculos de proteção/viseira/antolhos (para cavalo etc.)
+眼色 | TRADUÇÃO: sinal com os olhos/olhar significativo
+眼花 | TRADUÇÃO: vista cansada/visão turva/visão vaga e pouco nítida
+眼花缭乱 | TRADUÇÃO: ficar deslumbrado
+眼药 | TRADUÇÃO: colírio/pomada oftálmica
+眼药水 | TRADUÇÃO: colírio/lava-olhos
+眼虫 | TRADUÇÃO: euglena (gênero de organismo unicelular)
+眼虫藻 | TRADUÇÃO: euglena (biologia)
+眼袋 | TRADUÇÃO: inchaço sob os olhos/bolsas sob os olhos
+眼里容不得沙子 | TRADUÇÃO: não tolerar areia no olho (expressão idiomática)/não conseguir ignorar algo inaceitável/não estar disposto a fazer vista grossa
+眼里揉不得沙子 | TRADUÇÃO: ver 眼裡容不得沙子|眼里容不得沙子
+眼见 | TRADUÇÃO: ver com os próprios olhos/muito em breve
+眼见得 | TRADUÇÃO: obviamente/claramente
+眼见为实 | TRADUÇÃO: ver para crer
+眼见为实，耳听为虚 | TRADUÇÃO: ver 耳聽為虛，眼見為實|耳听为虚，眼见为实
+眼观六路耳听八方 | TRADUÇÃO: lit. os olhos observam seis caminhos e os ouvidos escutam em todas as direções/ser observador e alerta (expressão idiomática)
+眼观四处，耳听八方 | TRADUÇÃO: ver 眼觀四面，耳聽八方|眼观四面，耳听八方
+眼观四面，耳听八方 | TRADUÇÃO: lit. os olhos observam todos os lados e os ouvidos escutam em todas as direções (expressão idiomática)/fig. ser observador e alerta
+眼角 | TRADUÇÃO: canto interno ou externo do olho; canto do olho
+眼角膜 | TRADUÇÃO: córnea
+眼证 | TRADUÇÃO: testemunha ocular
+眼距宽 | TRADUÇÃO: hipertelorismo orbital (medicina)
+眼跳 | TRADUÇÃO: tremor no olho
+眼过劳 | TRADUÇÃO: fadiga ocular/vista cansada
+眼镜 | TRADUÇÃO: óculos/CL:副
+眼镜片 | TRADUÇÃO: lente (de óculos etc.)
+眼镜猴 | TRADUÇÃO: társio (primatas da família Tarsiidae)
+眼镜蛇 | TRADUÇÃO: naja/cobra
+眼电图 | TRADUÇÃO: eletro-oculograma (EOG)
+眼霜 | TRADUÇÃO: creme para os olhos
+眼风 | TRADUÇÃO: sinal com os olhos/olhar significativo
+眼馋 | TRADUÇÃO: cobiçar/invejar
+眼馋肚饱 | TRADUÇÃO: ter olhos maiores que a barriga (expressão idiomática)
+眼高 | TRADUÇÃO: arrogante/desdenhoso/ter altas expectativas
+眼高手低 | TRADUÇÃO: ter padrões elevados mas pouca habilidade/ser exigente mas incompetente (expressão idiomática)
+眼点 | TRADUÇÃO: ocelo (em criaturas inferiores)
+眽 | TRADUÇÃO: olhar fixamente/olhar de esguelha/olhar
+眽眽 | TRADUÇÃO: variante de 脈脈|脉脉
+众 | TRADUÇÃO: abrev. de 眾議院|众议院, Câmara dos Deputados ‖ (morfema preso) multidão; turba/(morfema preso) muitos; numerosos ‖ variante de 眾|众
+众人 | TRADUÇÃO: todo mundo/todos
+众人拾柴火焰高 | TRADUÇÃO: (lit.) quando todos juntam lenha, as chamas sobem mais alto (provérbio)/(fig.) quanto mais pessoas, mais força
+众人敬仰 | TRADUÇÃO: universalmente admirado/muito estimado por todos
+众创空间 | TRADUÇÃO: hackerspace; hacklab; makerspace
+众包 | TRADUÇÃO: crowdsourcing/abrev. de 群眾外包|群众外包
+众叛亲离 | TRADUÇÃO: lit. pessoas se rebelam e amigos desertam (expressão idiomática)/fig. encontrar-se totalmente isolado
+众口一词 | TRADUÇÃO: todos com a mesma voz/unânime
+众口同声 | TRADUÇÃO: (de pessoas) estar em uníssono (expressão idiomática)/unânime
+众口皆碑 | TRADUÇÃO: ser elogiado por todos
+众口铄金 | TRADUÇÃO: lit. a opinião pública é poderosa o suficiente para derreter metal (expressão idiomática)/fig. o clamor público pode obscurecer a verdade/disseminação em massa de boatos pode confundir o certo e o errado
+众口难调 | TRADUÇÃO: é difícil agradar a todos (expressão idiomática)
+众多 | TRADUÇÃO: numeroso
+众寡悬殊 | TRADUÇÃO: (expressão idiomática) grande disparidade numérica de forças
+众志成城 | TRADUÇÃO: a união de vontades é uma fortaleza inexpugnável (expressão idiomática)
+众怒 | TRADUÇÃO: ira pública/indignação pública
+众怒难犯 | TRADUÇÃO: (expressão idiomática) não se pode incorrer na ira pública/é perigoso incorrer na raiva das massas
+众所周知 | TRADUÇÃO: (expressão idiomática) como todos sabem ‖ variante de 眾所周知|众所周知
+众擎易举 | TRADUÇÃO: muitas mãos fazem o trabalho leve (expressão idiomática)
+众数 | TRADUÇÃO: (estatística) moda
+众星拱月 | TRADUÇÃO: veja 眾星捧月|众星捧月
+众星拱辰 | TRADUÇÃO: lit. todas as estrelas giram em torno da Estrela Polar 北辰 (expressão idiomática, dos Analectos); fig. ver alguém como figura central/agrupar-se em torno de um líder reverenciado
+众星捧月 | TRADUÇÃO: lit. todas as estrelas se curvam ao redor da lua (expressão idiomática, dos Analectos); fig. ver alguém como figura central/agrupar-se em torno de um líder reverenciado/girar em torno de alguém
+众星攒月 | TRADUÇÃO: veja 眾星捧月|众星捧月
+众智 | TRADUÇÃO: conhecimento coletivo/sabedoria coletiva
+众望 | TRADUÇÃO: expectativas do povo
+众望所归 | TRADUÇÃO: (expressão idiomática) gozar de apoio popular/receber aprovação geral
+众生 | TRADUÇÃO: todos os seres vivos
+众目昭彰 | TRADUÇÃO: lit. as massas têm olhos aguçados (expressão idiomática)/fig. alguém está sujeito ao escrutínio do público em geral
+众目睽睽 | TRADUÇÃO: (expressão idiomática) (sob) o olhar público; os olhares de muitas pessoas
+众盲摸象 | TRADUÇÃO: multidão de cegos tocando um elefante (expressão idiomática, do sutra Nirvana 大般涅槃經|大般涅盘经); fig. incapaz de ver o panorama geral/confundir a parte com o todo/não ver a floresta por causa das árvores
+众矢之的 | TRADUÇÃO: lit. alvo de uma multidão de flechas (expressão idiomática); o alvo das críticas públicas/atacado de todos os lados
+众筹 | TRADUÇÃO: crowdfunding/financiamento coletivo
+众说 | TRADUÇÃO: várias ideias/opiniões diversas
+众说纷揉 | TRADUÇÃO: lit. opiniões diversas confusas e divididas (expressão idiomática); opiniões divergem/assuntos controversos
+众说纷纭 | TRADUÇÃO: opiniões divergem (expressão idiomática)
+众说郛 | TRADUÇÃO: hub para opiniões diversas
+众议员 | TRADUÇÃO: membro da Câmara dos Deputados
+众议院 | TRADUÇÃO: câmara baixa de assembleia bicameral/Câmara dos Representantes (EUA)/Câmara dos Deputados
+众香子 | TRADUÇÃO: pimenta-da-jamaica; pimenta-jamaicana (Pimenta dioica)
+着 | TRADUÇÃO: variante de 著|着 ‖ variante de 著|着 ‖ variante de 著|着 ‖ variante de 著|着 ‖ um lance no xadrez (pronúncia de Taiwan [zhuo2])/truque; tática/(dial.) ok; tudo bem/(dial.) colocar; adicionar ‖ tocar/entrar em contato/sentir/ser afetado por/pegar fogo/queimar/(coloq.) adormecer/(após verbo) acertar no alvo/ter sucesso em ‖ partícula aspectual indicando ação em progresso ou estado contínuo ‖ vestir (roupas)/entrar em contato/usar/aplicar
+睂 | TRADUÇÃO: variante antiga de 眉
+睃 | TRADUÇÃO: lançar um olhar a; olhar de soslaio/pronúncia de Taiwan [jun4]
+睃巡 | TRADUÇÃO: (olhos) varrer/olhar à esquerda e à direita/escrutinar/também escrito 巡睃
+睄 | TRADUÇÃO: olhar para (variante antiga de 瞧) ‖ (coloq.) dar uma olhada
+睅 | TRADUÇÃO: olhos protuberantes
+睆 | TRADUÇÃO: bonito/gracioso
+睇 | TRADUÇÃO: (literário) lançar um olhar de esguelha/(dial.) ver; olhar para
+睊 | TRADUÇÃO: olhar
+𪾢 | TRADUÇÃO: olhos arregalados
+睎 | TRADUÇÃO: ansiar por/olhar fixamente para
+困意 | TRADUÇÃO: sonolência; modorra
+困觉 | TRADUÇÃO: (dial.) dormir
+睒 | TRADUÇÃO: olhar furtivo/brilhante
+睓 | TRADUÇÃO: variante de 㥏
+睖 | TRADUÇÃO: olhar fixamente/fulminar com os olhos
+睘 | TRADUÇÃO: variante de 瞏
+睙 | TRADUÇÃO: revirar os olhos para olhar
+睚 | TRADUÇÃO: (literário) canto do olho; canto interno da fenda palpebral
+睚眦 | TRADUÇÃO: (literário) fulminar com os olhos de raiva/(literário) (fig.) uma pequena desavença
+睚眦必报 | TRADUÇÃO: lit. buscar vingança por um olhar sujo (expressão idiomática)/fig. mesquinho/vingativo
+睛 | TRADUÇÃO: olho; globo ocular
+睁 | TRADUÇÃO: abrir (os olhos)
+睁一眼闭一眼 | TRADUÇÃO: fazer vista grossa
+睁一只眼闭一只眼 | TRADUÇÃO: fazer vista grossa
+睁眼 | TRADUÇÃO: abrir os olhos
+睁眼瞎 | TRADUÇÃO: um analfabeto/alguém com visão turva/alguém que é deliberadamente cego
+睁眼说瞎话 | TRADUÇÃO: (expressão idiomática) mentir descaradamente; falar tolices
+睁着眼睛说瞎话 | TRADUÇÃO: (expressão idiomática) mentir descaradamente; falar tolices
+睁开 | TRADUÇÃO: abrir (os olhos)
+睁只眼闭只眼 | TRADUÇÃO: fazer vista grossa
+睐 | TRADUÇÃO: olhar de esguelha/olhar de soslaio
+睟 | TRADUÇÃO: olho brilhante/claro
+睡 | TRADUÇÃO: dormir/deitar-se
+睡午觉 | TRADUÇÃO: tirar uma soneca/cochilar
+睡回笼觉 | TRADUÇÃO: voltar a dormir (em vez de se levantar de manhã)/dormir até mais tarde
+睡梦 | TRADUÇÃO: sono; sonho
+睡梦中 | TRADUÇÃO: durante o sono
+睡姿 | TRADUÇÃO: postura ao dormir
+睡得着 | TRADUÇÃO: conseguir adormecer; pegar no sono
+睡意 | TRADUÇÃO: sonolência
+睡懒觉 | TRADUÇÃO: dormir até mais tarde
+睡房 | TRADUÇÃO: quarto (de dormir)
+睡椅 | TRADUÇÃO: poltrona reclinável/espreguiçadeira
+睡相 | TRADUÇÃO: postura ao dormir
+睡眠 | TRADUÇÃO: sono/dormir/(computação) entrar em modo de suspensão
+睡眠呼吸暂停 | TRADUÇÃO: apneia do sono
+睡眠失调 | TRADUÇÃO: distúrbio do sono
+睡眠虫 | TRADUÇÃO: tripanossomo
+睡眼惺忪 | TRADUÇÃO: (expressão idiomática) com olhos sonolentos; ainda meio adormecido
+睡美人 | TRADUÇÃO: Bela Adormecida
+睡着 | TRADUÇÃO: adormecer
+睡莲 | TRADUÇÃO: nenúfar
+睡衣 | TRADUÇÃO: roupa de dormir/pijama
+睡衣裤 | TRADUÇÃO: pijama
+睡袋 | TRADUÇÃO: saco de dormir
+睡袍 | TRADUÇÃO: camisola
+睡裙 | TRADUÇÃO: camisola
+睡觉 | TRADUÇÃO: ir para a cama/dormir
+睡过头 | TRADUÇÃO: dormir demais
+睡乡 | TRADUÇÃO: sono/terra dos sonhos/mundo dos sonhos
+睡醒 | TRADUÇÃO: acordar
+睡饱 | TRADUÇÃO: dormir o suficiente; ter uma boa noite de sono
+睡鼠 | TRADUÇÃO: arganaz
+睢 | TRADUÇÃO: nome de família Sui ‖ olhar fixamente
+睢宁 | TRADUÇÃO: ver 睢寧縣|睢宁县
+睢宁县 | TRADUÇÃO: Suining, um condado na cidade de Xuzhou, Jiangsu
+睢县 | TRADUÇÃO: Condado de Sui ou Suixian, um condado na cidade de Shangqiu, Henan
+睢阳 | TRADUÇÃO: ver 睢陽區|睢阳区
+睢阳区 | TRADUÇÃO: Suiyang, um distrito na cidade de Shangqiu, Henan
+睢鸠 | TRADUÇÃO: borrelho (Charadrius morinellus)
+督 | TRADUÇÃO: (forma presa) supervisionar
+督促 | TRADUÇÃO: supervisionar e pressionar para a conclusão de uma tarefa/incitar
+督学 | TRADUÇÃO: inspetor escolar
+督察 | TRADUÇÃO: supervisionar/fiscalizar/inspetor/censura
+督察大队 | TRADUÇÃO: brigada de censura (RPC)
+督导 | TRADUÇÃO: dirigir/supervisionar
+督工 | TRADUÇÃO: supervisionar trabalhadores/encarregado; capataz
+督建 | TRADUÇÃO: supervisionar e construir/construído sob a supervisão de
+督战 | TRADUÇÃO: supervisionar operações de combate
+督抚 | TRADUÇÃO: governador-geral 總督|总督 e inspetor-geral 巡撫|巡抚
+督标 | TRADUÇÃO: regimento do exército à disposição do governador-geral da província
+督责 | TRADUÇÃO: supervisionar/repreender
+督军 | TRADUÇÃO: governador militar provincial durante o início da era da República da China (1911-1949 d.C.)
+督办 | TRADUÇÃO: supervisionar/superintendente
+督进去 | TRADUÇÃO: (gíria) (Taiwan) enfiar "aquilo" para dentro/empurrar para dentro
+督龟 | TRADUÇÃO: (Taiwan) cochilar (do taiwanês 盹龜, Tai-lo pr. [tuh-ku])
+睥 | TRADUÇÃO: usado em 睥睨/pronúncia em Taiwan [bi4]
+睥睨 | TRADUÇÃO: (literário) olhar com desdém pelo canto do olho; olhar de soslaio
+睦 | TRADUÇÃO: amigável/harmonioso
+睦亲 | TRADUÇÃO: (literário) parente próximo (dentro de um clã)/(literário) manter harmonia entre parentes
+睦谊 | TRADUÇÃO: cordialidade/amizade
+睦邻 | TRADUÇÃO: dar-se bem com os vizinhos/relação amigável com o vizinho
+睦邻政策 | TRADUÇÃO: política de boa vizinhança
+睨 | TRADUÇÃO: olhar de soslaio
+睨视 | TRADUÇÃO: olhar de soslaio
+睪 | TRADUÇÃO: espionar
+睪丸 | TRADUÇÃO: variante de 睾丸 (de Taiwan)
+睫 | TRADUÇÃO: cílios
+睫毛 | TRADUÇÃO: cílios
+睫毛膏 | TRADUÇÃO: rímel
+睫状体 | TRADUÇÃO: corpo ciliar (no olho, contendo os músculos de foco)
+睯 | TRADUÇÃO: sombrio; deprimido
+睹 | TRADUÇÃO: observar/ver ‖ variante antiga de 睹
+睹物思人 | TRADUÇÃO: (expressão idiomática) lembrar-se carinhosamente de uma pessoa ao ver algo associado a ela
+睺 | TRADUÇÃO: (aparece como fonético ho, especialmente em palavras do sânscrito)/meio cego (arcaico)
+睽 | TRADUÇÃO: separado/olhar fixamente
+睽违 | TRADUÇÃO: variante de 暌違|暌违
+睽隔 | TRADUÇÃO: variante de 暌隔
+睾 | TRADUÇÃO: (forma presa) testículo
+睾丸 | TRADUÇÃO: testículo
+睾丸扭转 | TRADUÇÃO: (medicina) torção testicular
+睾丸激素 | TRADUÇÃO: testosterona
+睾丸甾酮 | TRADUÇÃO: testosterona
+睾丸素 | TRADUÇÃO: testosterona
+睾丸酮 | TRADUÇÃO: testosterona
+睾甾酮 | TRADUÇÃO: testosterona
+睾酮 | TRADUÇÃO: testosterona (abrev. de 睾丸甾酮)
+睿智 | TRADUÇÃO: sábio e previdente
+瞀 | TRADUÇÃO: visão indistinta/embaçado
+瞄 | TRADUÇÃO: mirar/(fig.) direcionar o olhar para; dar uma olhada em
+瞄一眼 | TRADUÇÃO: dar uma olhadela para
+瞄准 | TRADUÇÃO: mirar; alvejar
+瞄准具 | TRADUÇÃO: dispositivo de mira/mira (para arma de fogo etc.)
+瞅 | TRADUÇÃO: (dialeto) olhar para ‖ variante antiga de 瞅
+瞅睬 | TRADUÇÃO: prestar atenção a
+瞅见 | TRADUÇÃO: ver
+眯眼 | TRADUÇÃO: apertar os olhos (como ao sorrir ou semicerrar)
+眯眯眼 | TRADUÇÃO: olhos apertados
+瞈 | TRADUÇÃO: ver 瞈矇|瞈蒙
+瞈蒙 | TRADUÇÃO: visão embaçada
+瞋 | TRADUÇÃO: (literário) olhar com raiva; fulminar com os olhos
+瞋目 | TRADUÇÃO: variante de 嗔目
+瞌 | TRADUÇÃO: usado em 瞌睡
+瞌睡 | TRADUÇÃO: sonolento/cochilar/tirar uma soneca
+瞌睡虫 | TRADUÇÃO: inseto mitológico que faz as pessoas cochilar/(fig.) sonolência/(coloq.) pessoa que adora dormir/dorminhoco
+瞍 | TRADUÇÃO: cego
+瞎 | TRADUÇÃO: cego/infundadamente/tolamente/sem propósito
+瞎吹 | TRADUÇÃO: gabar-se/falar demais
+瞎子 | TRADUÇÃO: pessoa cega
+瞎子摸象 | TRADUÇÃO: cegos apalpando um elefante (expressão idiomática, do Sutra do Nirvana 大般涅槃經|大般涅盘经); fig. incapaz de ver o quadro completo/confundir a parte com o todo/não enxergar a floresta por causa das árvores
+瞎弄 | TRADUÇÃO: brincar com/mexer em
+瞎忙 | TRADUÇÃO: andar às voltas/trabalhar em vão
+瞎扯 | TRADUÇÃO: falar irresponsavelmente/falar besteira
+瞎扯蛋 | TRADUÇÃO: falar irresponsavelmente; falar besteira
+瞎拼 | TRADUÇÃO: fazer compras como um hobby divertido (estrangeirismo) (Taiwan)
+瞎指挥 | TRADUÇÃO: dar ordens absurdas/emitir instruções por ignorância
+瞎掰 | TRADUÇÃO: (coloq.) falar bobagem/ficar à toa
+瞎搞 | TRADUÇÃO: fazer bagunça/atrapalhar/fazer algo sem planejamento
+瞎晃 | TRADUÇÃO: vagar sem rumo/ficar à toa
+瞎混 | TRADUÇÃO: levar a vida sem rumo/viver sem objetivo
+瞎猜 | TRADUÇÃO: dar um palpite no escuro/achar por alto
+瞎眼 | TRADUÇÃO: ser cego/estar cego
+瞎编 | TRADUÇÃO: inventar (uma história)
+瞎编乱造 | TRADUÇÃO: mentiras e falsidades aleatórias
+瞎话 | TRADUÇÃO: inverdade; mentira
+瞎说 | TRADUÇÃO: falar besteira/afirmar algo sem compreensão ou base factual/não saber do que se está falando
+瞎猫碰上死耗子 | TRADUÇÃO: um gato cego encontra um rato morto (expressão idiomática)/sorte cega
+瞎逛 | TRADUÇÃO: vagar sem rumo
+瞎闹 | TRADUÇÃO: fazer escândalo/fazer bagunça/agir sem juízo
+瞏 | TRADUÇÃO: (literário) olhar com terror/(literário) sozinho; desamparado
+瞑 | TRADUÇÃO: fechar (os olhos)
+瞑想 | TRADUÇÃO: meditar/pensar profundamente/contemplação/meditação
+瞑目 | TRADUÇÃO: fechar os olhos/(fig.) morrer satisfeito (Morrer sem fechar os olhos significaria ter queixas não resolvidas.)
+瞑眩 | TRADUÇÃO: tontura, náusea etc. como efeito colateral de tratamento medicamentoso (medicina chinesa)
+瞓 | TRADUÇÃO: dormir (cantonês)/equivalente em mandarim: 睡
+瞓觉 | TRADUÇÃO: dormir (cantonês)/equivalente em mandarim: 睡覺|睡觉
+瞕 | TRADUÇÃO: catarata no olho
+翳 | TRADUÇÃO: variante de 翳 ‖ biombo de penas/ensombrecer/sombrear/catarata
+眍 | TRADUÇÃO: afundar (dos olhos)
+眍䁖 | TRADUÇÃO: afundar (dos olhos)
+䁖 | TRADUÇÃO: dar uma olhada
+瞒 | TRADUÇÃO: ocultar de/manter (alguém) sem saber
+瞒上欺下 | TRADUÇÃO: enganar os superiores e oprimir os subordinados (expressão idiomática)
+瞒不过 | TRADUÇÃO: não poder esconder (um assunto) de (alguém)
+瞒哄 | TRADUÇÃO: enganar/trapacear (alguém)
+瞒报 | TRADUÇÃO: ocultar ou enganar em um relatório/falsificar subnotificando ou supernotificando
+瞒天大谎 | TRADUÇÃO: mentira enorme/intriga monstruosa
+瞒天过海 | TRADUÇÃO: cruzar o mar com um truque (expressão idiomática)/alcançar um objetivo por meios enganosos
+瞒心昧己 | TRADUÇÃO: sufocar a própria consciência
+瞒骗 | TRADUÇÃO: enganar/ocultar
+瞟 | TRADUÇÃO: lançar um olhar
+瞠 | TRADUÇÃO: olhar fixamente para algo inalcançável
+瞠目 | TRADUÇÃO: olhar fixamente/arregalar os olhos
+瞠目以对 | TRADUÇÃO: retribuir apenas com um olhar vazio/olhar de volta
+瞠目结舌 | TRADUÇÃO: (expressão idiomática) estarrecer; pasmar; atônito
+瞢 | TRADUÇÃO: visão embaçada/sentir vergonha
+𥆧 | TRADUÇÃO: contrair (músculo ou pálpebra) ‖ piscar/brilhar/tempo muito curto
+𥆧息 | TRADUÇÃO: num piscar de olhos/instante/efêmero
+瞥 | TRADUÇÃO: lançar um olhar/olhadela/despontar em um instante
+瞥见 | TRADUÇÃO: vislumbrar/avistar de relance
+瞧 | TRADUÇÃO: olhar para/ver/consultar (um médico)/visitar
+瞧不起 | TRADUÇÃO: desprezar; menosprezar
+瞧着办 | TRADUÇÃO: agir como achar conveniente/Depende de você./Vamos esperar e ver, e depois decidir o que fazer.
+瞧见 | TRADUÇÃO: ver/enxergar
+瞪 | TRADUÇÃO: abrir (os olhos) bem/olhar fixamente/encarar (alguém)
+瞪眼 | TRADUÇÃO: abrir bem os olhos/olhar fixamente/encarar (alguém)/franzir a testa
+瞪羚 | TRADUÇÃO: gazela
+瞪鞋摇滚 | TRADUÇÃO: shoegaze (gênero musical)
+瞫 | TRADUÇÃO: sobrenome Shen
+瞬 | TRADUÇÃO: piscar/instante
+瞬息 | TRADUÇÃO: num piscar de olhos/num instante/efêmero
+瞬息之间 | TRADUÇÃO: (expressão idiomática) num piscar de olhos; num instante
+瞬息万变 | TRADUÇÃO: num instante inúmeras mudanças (expressão idiomática); mudança rápida e substancial
+瞬态 | TRADUÇÃO: (física) (atributivo) transiente
+瞬时 | TRADUÇÃO: instantâneo
+瞬时辐射 | TRADUÇÃO: radiação imediata
+瞬发中子 | TRADUÇÃO: nêutron imediato
+瞬发辐射 | TRADUÇÃO: radiação imediata
+瞬膜 | TRADUÇÃO: membrana nictitante (zoologia)
+瞬间 | TRADUÇÃO: num instante; num piscar de olhos
+瞬间转移 | TRADUÇÃO: teletransporte
+瞬霎 | TRADUÇÃO: num piscar; num instante
+瞭 | TRADUÇÃO: observar de um ponto alto ou distante
+瞭哨 | TRADUÇÃO: fazer sentinela/montar guarda
+瞭望 | TRADUÇÃO: observar de um ponto alto ou distante/vigiar
+瞭望哨 | TRADUÇÃO: posto de vigia
+瞭望塔 | TRADUÇÃO: torre de vigia/torre de observação
+瞭望台 | TRADUÇÃO: torre de observação/torre de vigia
+瞰 | TRADUÇÃO: olhar de cima/vigiar de um ponto alto ‖ variante de 瞰
+瞰望 | TRADUÇÃO: ter vista para/observar de cima
+瞰临 | TRADUÇÃO: ter vista para/observar de cima
+瞳 | TRADUÇÃO: pupila do olho
+瞳人 | TRADUÇÃO: pupila (do olho)
+瞳仁 | TRADUÇÃO: pupila do olho
+瞳孔 | TRADUÇÃO: pupila (do olho)
+瞳眸 | TRADUÇÃO: pupila do olho/os olhos de alguém
+瞳距 | TRADUÇÃO: distância interpupilar (DI)
+瞵 | TRADUÇÃO: olhar fixamente para
+瞷 | TRADUÇÃO: espionar/vigiar
+瞹 | TRADUÇÃO: variante de 曖|暧
+瞻 | TRADUÇÃO: contemplar/olhar para
+瞻仰 | TRADUÇÃO: venerar/admirar
+瞻前顾后 | TRADUÇÃO: lit. olhar para frente e para trás (expressão idiomática)/fig. considerar cuidadosamente; pesar os prós e contras/fig. ser supercauteloso e indeciso
+瞻拜 | TRADUÇÃO: adorar/contemplar com reverência
+瞻望 | TRADUÇÃO: olhar para longe/antecipar (algo)
+瞻礼日 | TRADUÇÃO: Dia do Senhor/Domingo
+瞻顾 | TRADUÇÃO: olhar para frente e para trás com cautela
+睑 | TRADUÇÃO: pálpebra
+睑腺炎 | TRADUÇÃO: (medicina) terçol; hordéolo
+瞽 | TRADUÇÃO: cego/sem discernimento
+瞽者 | TRADUÇÃO: pessoa cega (literário)
+瞽阇 | TRADUÇÃO: monge cego/refere-se ao famoso historiador cego 左丘明
+瞿 | TRADUÇÃO: sobrenome Qu ‖ assustado/leitura em Taiwan: [ju4]
+瞿塘峡 | TRADUÇÃO: Garganta de Qutang, desfiladeiro de 8 km no rio Changjiang ou Yangtzé em Chongqing, o primeiro dos Três Desfiladeiros
+瞿昙 | TRADUÇÃO: Gautama / sobrenome de Sidarta Gautama, o Buda histórico
+瞿秋白 | TRADUÇÃO: Qu Qiubai (1899-1935), político chinês, especialista soviético dos comunistas chineses na época da influência soviética, editor e tradutor de russo, capturado e executado pelo Guomindang durante a Longa Marcha
+蒙在鼓里 | TRADUÇÃO: variante de 蒙在鼓裡/蒙在鼓里 ‖ (expressão idiomática) (literário) mantido dentro de um tambor/figuradamente completamente no escuro
+蒙混 | TRADUÇÃO: enganar / ludibriar / pronúncia em Taiwan: [meng1 hun4]
+蒙混过关 | TRADUÇÃO: safar-se / passar despercebido / lograr com blefe / pronúncia em Taiwan: [meng1 hun4 guo4 guan1]
+蒙蒙亮 | TRADUÇÃO: amanhecer / primeiros raios de luz
+蒙蒙黑 | TRADUÇÃO: anoitecer
+蒙眬 | TRADUÇÃO: (da visão) embaçado
+蒙头转向 | TRADUÇÃO: perder as referências / completamente confuso
+蒙骗 | TRADUÇÃO: enganar / ludibriar / lograr alguém ‖ variante de 矇騙|蒙骗
+矉 | TRADUÇÃO: olhar com raiva / abrir os olhos com raiva / variante de 顰|颦, franzir a testa / carrancudo
+矍 | TRADUÇÃO: sobrenome Jue ‖ olhar com medo
+矍铄 | TRADUÇÃO: robusto e saudável
+眬 | TRADUÇÃO: usado em 矇矓|蒙眬
+矔 | TRADUÇÃO: brilhante (dos olhos)
+矗 | TRADUÇÃO: alto / ereto
+矗立 | TRADUÇÃO: erguer-se / alto e ereto (de edifício grande)
+瞩 | TRADUÇÃO: olhar fixamente / encarar
+瞩望 | TRADUÇÃO: esperar ansiosamente
+瞩目 | TRADUÇÃO: concentrar a atenção em
+矛 | TRADUÇÃO: lança / CL:支
+矛斑蝗莺 | TRADUÇÃO: (espécie de ave da China) felosa-lanceolada (Locustella lanceolata)
+矛柄 | TRADUÇÃO: cabo de lança
+矛盾 | TRADUÇÃO: contradição / CL:個|个 / visões conflitantes / contraditório
+矛纹草鹛 | TRADUÇÃO: (espécie de ave da China) babax-chinês (Pterorhinus lanceolatus)
+矛隼 | TRADUÇÃO: (espécie de ave da China) gerifalte (Falco rusticolus)
+矛头 | TRADUÇÃO: ponta de lança / ataque ou crítica
+矛头指向 | TRADUÇÃO: visar alguém ou algo (para ataque, crítica etc.)
+矜 | TRADUÇÃO: gabar-se / estimar / simpatizar
+矜功不立 | TRADUÇÃO: gabar-se muito, mas nada resultar (expressão idiomática)
+矜持 | TRADUÇÃO: reservado / distante
+矜贵 | TRADUÇÃO: de sangue nobre / nobre / aristocrático / arrogante
+矞 | TRADUÇÃO: grandioso / elegante / propício
+矟 | TRADUÇÃO: lança
+矠 | TRADUÇÃO: (antigo) lança
+矢 | TRADUÇÃO: flecha / dardo / reto / jurar / forma antiga de 屎
+矢口否认 | TRADUÇÃO: negar categoricamente
+矢志 | TRADUÇÃO: fazer juramento de fazer algo / comprometer-se / jurar
+矢量 | TRADUÇÃO: (mat.) vetor
+矣 | TRADUÇÃO: partícula final clássica, similar ao moderno 了
+知 | TRADUÇÃO: saber / estar ciente
+知之甚微 | TRADUÇÃO: saber muito pouco sobre
+知乎 | TRADUÇÃO: Zhihu, site chinês de perguntas e respostas modelado no Quora, em zhihu.com, lançado em janeiro de 2011
+知了 | TRADUÇÃO: cigarra (onom.)
+知了猴 | TRADUÇÃO: (coloq.) ninfa de cigarra recém-emergida
+知交 | TRADUÇÃO: amigo íntimo
+知人善任 | TRADUÇÃO: (expressão idiomática) especialista em nomear pessoas de acordo com suas habilidades; colocar as pessoas certas nos lugares certos
+知人善用 | TRADUÇÃO: ver 知人善任
+知人知面不知心 | TRADUÇÃO: pode-se conhecer uma pessoa por muito tempo sem entender sua verdadeira natureza (expressão idiomática)
+知人者智，自知者明 | TRADUÇÃO: quem entende os outros é inteligente, mas quem se conhece é verdadeiramente sábio (expressão idiomática, do 道德經 de Laozi)
+知其不可而为之 | TRADUÇÃO: continuar resolutamente apesar de saber que a tarefa é impossível (expressão idiomática)
+知其然而不知其所以然 | TRADUÇÃO: (dito) saber que é assim, mas não saber por que é assim
+知冷知热 | TRADUÇÃO: saber se os outros estão com frio ou calor (expressão idiomática) / ser muito atencioso
+知名 | TRADUÇÃO: bem conhecido; famoso
+知名人士 | TRADUÇÃO: figura pública / celebridade
+知名度 | TRADUÇÃO: reputação / perfil / familiaridade na consciência pública
+知子莫若父 | TRADUÇÃO: ninguém entende melhor o filho que o pai (expressão idiomática)
+知州 | TRADUÇÃO: alto funcionário provincial na China dinástica
+知己 | TRADUÇÃO: conhecer a si mesmo / ser íntimo ou próximo / amigo íntimo
+知己知彼 | TRADUÇÃO: conhece a si mesmo, conhece teu inimigo (expressão idiomática, de "A Arte da Guerra" de Sunzi 孫子兵法)
+知己知彼，百战不殆 | TRADUÇÃO: conhece a ti mesmo e ao teu inimigo, e nunca serás derrotado (expressão idiomática, de "A Arte da Guerra" de Sunzi 孫子兵法)
+知府 | TRADUÇÃO: magistrado de prefeitura (períodos Tang a Qing)
+知彼知己 | TRADUÇÃO: conhecer o inimigo e conhecer a si mesmo (expressão idiomática, de "A Arte da Guerra" de Sunzi)
+知彼知己，百战不殆 | TRADUÇÃO: conhecer o inimigo e a si mesmo te levará ileso através de cem batalhas (expressão idiomática, de "A Arte da Guerra" de Sunzi)
+知心 | TRADUÇÃO: carinhoso / íntimo
+知耻 | TRADUÇÃO: ter senso de vergonha
+知恩不报 | TRADUÇÃO: ingrato
+知悉 | TRADUÇÃO: saber / ser informado de
+知情 | TRADUÇÃO: saber os fatos / entender / estar familiarizado com a situação
+知情人 | TRADUÇÃO: pessoa informada / conhecedor / fonte informada
+知情同意 | TRADUÇÃO: consentimento informado
+知情权 | TRADUÇÃO: direito à informação
+知情达理 | TRADUÇÃO: ver 通情達理|通情达理
+知悭识俭 | TRADUÇÃO: (expressão idiomática) saber ser econômico
+知易行难 | TRADUÇÃO: fácil de entender, mas difícil de pôr em prática (expressão idiomática) / mais fácil falar do que fazer
+知晓 | TRADUÇÃO: saber / compreender
+知更鸟 | TRADUÇÃO: pintarroxo / tordo (Erithacus rubecula)
+知书达理 | TRADUÇÃO: educado e equilibrado (expressão idiomática)
+知会 | TRADUÇÃO: informar / contar / notificar / notificação
+知母 | TRADUÇÃO: Anemarrhena asphodeloides / rizoma de Anemarrhena (usado na MTC)
+知法犯法 | TRADUÇÃO: saber a lei e infringi-la (expressão idiomática); agir conscientemente contra as regras
+知无不言，言无不尽 | TRADUÇÃO: (lit.) não esconder nada do que sabe, não parar antes de dizer tudo (expressão idiomática) / (fig.) franco; sincero
+知礼 | TRADUÇÃO: ser bem-educado
+知县 | TRADUÇÃO: magistrado de distrito (antigo)
+知觉 | TRADUÇÃO: percepção / consciência
+知觉力 | TRADUÇÃO: capacidade de perceber / perceptividade / senciência
+知识 | TRADUÇÃO: conhecimento / CL:門|门 / intelectual
+知识分子 | TRADUÇÃO: variante de 知識分子|知识分子 ‖ intelectual; intelligentsia
+知识共享 | TRADUÇÃO: Creative Commons
+知识宝库 | TRADUÇÃO: tesouro do conhecimento
+知识工程师 | TRADUÇÃO: trabalhador do conhecimento
+知识库 | TRADUÇÃO: base de conhecimento
+知识产权 | TRADUÇÃO: direitos de propriedade intelectual (lei)
+知识界 | TRADUÇÃO: círculos intelectuais / intelligentsia
+知识论 | TRADUÇÃO: epistemologia
+知识越多越反动 | TRADUÇÃO: quanto mais conhecimento, mais reacionário (absurdo slogan anti-intelectual atribuído após o evento à Gangue dos Quatro 四人幫)
+知识青年 | TRADUÇÃO: jovem intelectual / (histórico) jovem urbano com educação formal enviado para áreas rurais para reeducação e trabalho durante a Revolução Cultural (anos 1960–70)
+知识面 | TRADUÇÃO: amplitude de conhecimento
+知趣 | TRADUÇÃO: agir com tato / diplomático / discreto
+知足 | TRADUÇÃO: contente com sua situação / saber contentar-se (portanto, feliz)
+知足常乐 | TRADUÇÃO: satisfeito com o que se tem (expressão idiomática)
+知遇之恩 | TRADUÇÃO: literalmente, a bondade de reconhecer o valor de alguém e empregá-lo (expressão idiomática)/patrocínio/proteção
+知过改过 | TRADUÇÃO: reconhecer as próprias falhas e corrigi-las (expressão idiomática)
+知道 | TRADUÇÃO: saber/tomar conhecimento de/ficar sabendo
+知道了 | TRADUÇÃO: OK!/Entendi!
+知错能改 | TRADUÇÃO: reconhecer os próprios erros e ser capaz de se reformar (expressão idiomática)
+知难而退 | TRADUÇÃO: (literal) sondar as dificuldades e recuar para evitar a derrota (expressão idiomática)/(figurado) desistir de uma situação complicada; desistir ao descobrir como realmente é
+知青 | TRADUÇÃO: jovem instruído (especialmente aqueles enviados para trabalhar em áreas rurais durante a Revolução Cultural) (abreviatura de 知識青年|知识青年)
+知音 | TRADUÇÃO: amigo íntimo/alma gêmea
+矦 | TRADUÇÃO: variante antiga de 侯
+矧 | TRADUÇÃO: (partícula interrogativa)
+矨 | TRADUÇÃO: baixo e pequeno
+矩尺 | TRADUÇÃO: esquadro (ferramenta para medir ângulos retos)
+矩尺座 | TRADUÇÃO: Norma (constelação)
+矩形 | TRADUÇÃO: retângulo
+矩阵 | TRADUÇÃO: arranjo/matriz (matemática)
+矬 | TRADUÇÃO: baixo/anão
+矬子里拔将军 | TRADUÇÃO: literal, escolher um general entre os anões (expressão idiomática)/figurado, escolher o melhor de um grupo ruim
+短 | TRADUÇÃO: curto/breve/faltar/ponto fraco/defeito
+短中取长 | TRADUÇÃO: ver 短中抽長|短中抽长
+短中抽长 | TRADUÇÃO: dar o melhor de si em uma situação ruim/aproveitar ao máximo recursos limitados (expressão idiomática)
+短促 | TRADUÇÃO: curto (tempo)/fugaz/breve/ofegante (respiração)/seco (tom de voz)
+短信 | TRADUÇÃO: mensagem de texto/SMS
+短仓 | TRADUÇÃO: posição vendida (finanças)
+短传 | TRADUÇÃO: passe curto (em esportes com bola)
+短债 | TRADUÇÃO: empréstimo de curto prazo
+短兵相接 | TRADUÇÃO: literal, soldados com armas curtas lutam corpo a corpo (expressão idiomática)/combate feroz de infantaria à queima-roupa/lutar a curta distância
+短剧 | TRADUÇÃO: peça curta/esboço/esquete/(neologismo, atestado em 2020) minissérie em vídeo (especialmente episódica feita para plataformas móveis, tipicamente menos de 5 minutos por episódio)
+短剑 | TRADUÇÃO: punhal/adaga
+短句 | TRADUÇÃO: cláusula (gramática)
+短吻鳄 | TRADUÇÃO: jacaré
+短命 | TRADUÇÃO: morrer jovem/de curta duração
+短命鬼 | TRADUÇÃO: pessoa que morre prematuramente
+短嘴山椒鸟 | TRADUÇÃO: (espécie de ave da China) pericrocoto-de-bico-curto (Pericrocotus brevirostris)
+短嘴豆雁 | TRADUÇÃO: (espécie de ave da China) ganso-da-tundra (Anser serrirostris)
+短嘴金丝燕 | TRADUÇÃO: (espécie de ave da China) andorinhão-do-himalaia (Aerodramus brevirostris)
+短多 | TRADUÇÃO: boas perspectivas no curto prazo (finanças)
+短小精悍 | TRADUÇÃO: (de uma pessoa) baixo mas corajoso (expressão idiomática)/(de um artigo) conciso e vigoroso
+短少 | TRADUÇÃO: estar em falta (falta de quantia)
+短尾信天翁 | TRADUÇÃO: (espécie de ave da China) albatroz-de-cauda-curta (Phoebastria albatrus)
+短尾矮袋鼠 | TRADUÇÃO: quokka (Setonix brachyurus)
+短尾贼鸥 | TRADUÇÃO: (espécie de ave da China) moleiro-parasítico (Stercorarius parasiticus)
+短尾鸦雀 | TRADUÇÃO: (espécie de ave da China) bico-de-papagaio-de-cauda-curta (Suthora davidiana)
+短尾莺 | TRADUÇÃO: (espécie de ave da China) felosa-rabilonga-asiática (Urosphena squameiceps)
+短尾鹪鹛 | TRADUÇÃO: (espécie de ave da China) tagazina-listrada (Gypsophila brevicaudata)
+短尾鹩鹛 | TRADUÇÃO: (espécie de ave da China) tagazina-de-garganta-ruiva (Spelaeornis caudatus)
+短尾鹱 | TRADUÇÃO: (espécie de ave da China) pardela-de-cauda-curta (Ardenna tenuirostris)
+短尾鹦鹉 | TRADUÇÃO: (espécie de ave da China) lorículo-vernal (Loriculus vernalis)
+短工 | TRADUÇÃO: trabalho temporário/bico/trabalhador sazonal
+短打扮 | TRADUÇÃO: roupa que expõe braços e pernas (ex.: shorts, regata); usar tal roupa
+短指 | TRADUÇÃO: braquidactilia (anomalia genética de dedos curtos ou ausentes)
+短文 | TRADUÇÃO: texto curto/artigo curto/ensaio curto
+短斤缺两 | TRADUÇÃO: dar peso menor que o devido
+短时储存 | TRADUÇÃO: armazenamento de curto prazo/armazenar
+短时间 | TRADUÇÃO: curto prazo/curto período
+短暂 | TRADUÇÃO: de curta duração/breve/momentâneo
+短期 | TRADUÇÃO: curto prazo
+短期融资 | TRADUÇÃO: financiamento de curto prazo
+短板 | TRADUÇÃO: aduela curta do barril (que permite o vazamento do conteúdo)/(figurado) defeito/ponto fraco
+短欠 | TRADUÇÃO: faltar (no pagamento)/carecer/faltar
+短歌 | TRADUÇÃO: balada
+短波 | TRADUÇÃO: onda curta (rádio)
+短波长 | TRADUÇÃO: comprimento de onda curto
+短浅 | TRADUÇÃO: estreito e raso
+短片 | TRADUÇÃO: curta-metragem/clipe de vídeo
+短程 | TRADUÇÃO: curto alcance
+短程线 | TRADUÇÃO: geodésica
+短空 | TRADUÇÃO: perspectivas ruins no curto prazo (finanças)
+短笛 | TRADUÇÃO: flautim/piccolo
+短篇小说 | TRADUÇÃO: conto
+短简 | TRADUÇÃO: bilhete curto
+短粗 | TRADUÇÃO: atarracado (baixo e robusto)
+短线 | TRADUÇÃO: curto prazo
+短缺 | TRADUÇÃO: escassez/falta
+短耳鸮 | TRADUÇÃO: (espécie de ave da China) coruja-do-nabal (Asio flammeus)
+短腿猎犬 | TRADUÇÃO: dachshund/basset hound
+短至 | TRADUÇÃO: solstício de inverno
+短处 | TRADUÇÃO: defeito/imperfeição/culpa/pontos fracos
+短衣 | TRADUÇÃO: vestimenta curta/jaqueta curta
+短衣帮 | TRADUÇÃO: literal, partido da jaqueta curta/povo trabalhador/massas trabalhadoras/operários
+短袖 | TRADUÇÃO: mangas curtas/camisa de manga curta
+短裤 | TRADUÇÃO: calças curtas/shorts
+短袜 | TRADUÇÃO: meia (até o tornozelo)
+短见 | TRADUÇÃO: miopia; suicídio (especialmente em 尋短見|寻短见)
+短视 | TRADUÇÃO: (geralmente figurado) míope/visão curta
+短视近利 | TRADUÇÃO: focado em ganho de curto prazo
+短视频 | TRADUÇÃO: vídeo curto/clipe de vídeo
+短讯 | TRADUÇÃO: SMS/mensagem de texto
+短训班 | TRADUÇÃO: curso de treinamento curto
+短语 | TRADUÇÃO: sintagma/frase (gramática)
+短趾雕 | TRADUÇÃO: (espécie de ave da China) águia-cobreira-de-dedos-curtos (Circaetus gallicus)
+短跑 | TRADUÇÃO: corrida de velocidade/curta distância
+短距起落飞机 | TRADUÇÃO: aeronave de decolagem e aterrissagem curta
+短距离 | TRADUÇÃO: curta distância/um tiro de pedra
+短路 | TRADUÇÃO: curto-circuito
+短靴 | TRADUÇÃO: botas de cano curto
+短发 | TRADUÇÃO: cabelo curto
+矮 | TRADUÇÃO: (de uma pessoa) baixo/(de um muro etc) baixo/(de posição) inferior (a); mais baixo (que)
+矮人 | TRADUÇÃO: anão
+矮个儿 | TRADUÇÃO: pessoa de baixa estatura/pessoa baixa
+矮凳 | TRADUÇÃO: banco baixo
+矮化 | TRADUÇÃO: (fitopatologia) nanismo/(horticultura) ananicar; reduzir de tamanho (por poda, melhoramento genético, etc.)/(fig.) diminuir o status de; menosprezar/(fig.) minimizar
+矮半截 | TRADUÇÃO: ser inferior a/ser de nível inferior a
+矮呆病 | TRADUÇÃO: cretinismo
+矮地茶 | TRADUÇÃO: (empréstimo) ardisia-japonesa (Ardisia japonica) (erva)
+矮墩墩 | TRADUÇÃO: atarracado/baixinho e gordo
+矮壮素 | TRADUÇÃO: clormequato/cicocel
+矮子 | TRADUÇÃO: pessoa baixa/anão
+矮子里拔将军 | TRADUÇÃO: (expr. idiomática) escolher um general entre os anões/(fig.) escolher a melhor pessoa disponível (de um grupo medíocre)
+矮小 | TRADUÇÃO: baixo e pequeno/pequeno e insignificante
+矮小精悍 | TRADUÇÃO: (expressão idiomática) baixo, mas intrépido
+矮星 | TRADUÇÃO: estrela anã
+矮林 | TRADUÇÃO: bosque/capoeira/mato
+矮杆品种 | TRADUÇÃO: variedade de colmo curto/variedade de colmo baixo
+矮杨梅 | TRADUÇÃO: baga-anã (Myrica nana)
+矮树 | TRADUÇÃO: árvore baixa/arbusto/moita
+矮油 | TRADUÇÃO: (gíria) variante de 哎呦 "ai credo!"
+矮瓜 | TRADUÇÃO: berinjela (cantonês)
+矮矬 | TRADUÇÃO: baixo (em estatura)
+矮胖 | TRADUÇÃO: baixo e gordinho/atarracado/bolecha
+矮脚白花蛇利草 | TRADUÇÃO: veja 白花蛇舌草
+矮脚罗伞 | TRADUÇÃO: Ardisia villosa
+矮脚苦蒿 | TRADUÇÃO: veja 熊膽草|熊胆草
+矮茎朱砂根 | TRADUÇÃO: Ardisia brevicaulis
+矮行星 | TRADUÇÃO: planeta anão
+矮丑穷 | TRADUÇÃO: (gíria da internet) (de um homem) inferior (lit. baixo, feio e pobre)/oposto: 高富帥|高富帅
+矮鹿 | TRADUÇÃO: corço siberiano (Capreolus pygargus)
+矮黑人 | TRADUÇÃO: negrito
+矫 | TRADUÇÃO: sobrenome Jiao ‖ usado em 矯情|矫情 ‖ corrigir/retificar/endireitar/forte/bravo/fingir/simular/afetação
+矫健 | TRADUÇÃO: forte e saudável/vigoroso
+矫味剂 | TRADUÇÃO: agente corretivo/agente flavorizante
+矫形 | TRADUÇÃO: ortopédico (p. ex., cirurgia)
+矫形外科 | TRADUÇÃO: cirurgia ortopédica
+矫形牙套 | TRADUÇÃO: aparelho ortodôntico
+矫形医生 | TRADUÇÃO: médico ortopedista
+矫情 | TRADUÇÃO: (dialeto de Pequim) argumentativo; irracional ‖ afetado/não natural/pretensioso
+矫捷 | TRADUÇÃO: vigoroso e ágil/atlético
+矫揉造作 | TRADUÇÃO: pretensão/afetação/artificialidade
+矫枉过正 | TRADUÇÃO: (expressão idiomática) passar do ponto ao corrigir/compensar em excesso
+矫枉过直 | TRADUÇÃO: veja 矯枉過正|矫枉过正
+矫正 | TRADUÇÃO: corrigir/retificar (p. ex., um defeito físico como audição ou visão)/curar/retificação/correção/endireitar
+矫正透镜 | TRADUÇÃO: lente corretiva
+矫治 | TRADUÇÃO: corrigir (p. ex., visão ou audição)/retificar/curar
+矫直 | TRADUÇÃO: endireitar/(fig.) corrigir os próprios modos
+矫直机 | TRADUÇÃO: (manufatura) máquina de endireitar/endireitadora
+矫矫 | TRADUÇÃO: galante/corajoso/preeminente
+矫诏 | TRADUÇÃO: pretexto de agir sob ordem imperial
+矫饰 | TRADUÇÃO: fingir superioridade; pretender que algo é melhor do que é; afetação
+矰 | TRADUÇÃO: flecha com flâmula
+矱 | TRADUÇÃO: padrão/norma/pronúncia em Taiwan: [huo4]
+石 | TRADUÇÃO: sobrenome Shi/abrev. de Shijiazhuang 石家莊|石家庄, capital de Hebei ‖ medida seca para grãos igual a dez dou 斗; cem litros/pronúncia antiga [shi2] ‖ rocha/pedra/inscrição em pedra/um dos oito tipos de instrumentos musicais antigos 八音
+石井 | TRADUÇÃO: Ishii (sobrenome japonês)
+石作 | TRADUÇÃO: oficina de alvenaria
+石像 | TRADUÇÃO: estátua de pedra
+石像鬼 | TRADUÇÃO: gárgula/grotesco
+石刁柏 | TRADUÇÃO: aspargo
+石刑 | TRADUÇÃO: apedrejamento (método de execução)
+石刻 | TRADUÇÃO: inscrição em pedra/pedra esculpida
+石勒 | TRADUÇÃO: Shi Le, fundador do Zhao Posterior dos Dezesseis Reinos 後趙|后赵 (319-350)
+石化 | TRADUÇÃO: petrificar/indústria petroquímica
+石化厂 | TRADUÇÃO: usina petroquímica
+石匠 | TRADUÇÃO: pedreiro
+石南属 | TRADUÇÃO: urze
+石南树 | TRADUÇÃO: charneca/brejo
+石南花 | TRADUÇÃO: urze (Ericaceae)
+石印 | TRADUÇÃO: litografia/impressão litográfica
+石原慎太郎 | TRADUÇÃO: Ishihara Shintarō (1932-), autor e político japonês, governador de Tóquio 1999-2012
+石台 | TRADUÇÃO: veja 石台縣|石台县
+石台县 | TRADUÇÃO: Shitai, um condado na cidade de Chizhou 池州市, Anhui
+石嘴山 | TRADUÇÃO: veja 石嘴山市
+石嘴山市 | TRADUÇÃO: Shizuishan, cidade a nível de prefeitura na Região Autônoma Hui de Ningxia 寧夏回族自治區|宁夏回族自治区
+石器 | TRADUÇÃO: ferramenta de pedra/implemento de pedra
+石器时代 | TRADUÇÃO: Idade da Pedra
+石城 | TRADUÇÃO: veja 石城縣|石城县
+石城县 | TRADUÇÃO: Shicheng, um condado na cidade de Ganzhou 贛州市|赣州市, Jiangxi
+石块 | TRADUÇÃO: pedra/rocha
+石墨 | TRADUÇÃO: grafite/plumbagina
+石墨烯 | TRADUÇÃO: grafeno
+石墨碳 | TRADUÇÃO: carbono grafítico
+石女 | TRADUÇÃO: mulher com ausência ou atresia vaginal (defeito congênito)
+石子儿 | TRADUÇÃO: seixo
+石家庄 | TRADUÇÃO: veja 石家莊市|石家庄市
+石家庄市 | TRADUÇÃO: Shijiazhuang, cidade a nível de prefeitura e capital da Província de Hebei 河北省
+石屎 | TRADUÇÃO: (dialeto) concreto
+石屎森林 | TRADUÇÃO: (dialeto) selva de concreto
+石屏 | TRADUÇÃO: veja 石屏縣|石屏县
+石屏县 | TRADUÇÃO: Shiping, um condado na Prefeitura Autônoma Yi e Hani de Honghe 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+石峰 | TRADUÇÃO: veja 石峰區|石峰区
+石峰区 | TRADUÇÃO: Shifeng, um distrito da cidade de Zhuzhou 株洲市, Hunan
+石岗 | TRADUÇÃO: Shek Kong (área em Hong Kong)
+石川 | TRADUÇÃO: Ishikawa (sobrenome e nome de lugar japonês)
+石工 | TRADUÇÃO: alvenaria/pedreiro
+石库门 | TRADUÇÃO: estilo arquitetônico "shikumen": residências tradicionais (cerca do século XIX) com pátios, outrora comuns em Xangai
+石庭 | TRADUÇÃO: jardim de pedras
+石弩 | TRADUÇÃO: catapulta/balista (catapulta de cerco que atira blocos de pedra)
+石投大海 | TRADUÇÃO: desaparecer como uma pedra jogada ao mar/desaparecer para sempre sem deixar vestígios
+石拐 | TRADUÇÃO: veja 石拐區|石拐区
+石拐区 | TRADUÇÃO: Shiguai, um distrito da cidade de Baotou 包頭市|包头市, Mongólia Interior
+石敢当 | TRADUÇÃO: estela de pedra erguida para afastar espíritos malignos
+石斑鱼 | TRADUÇÃO: garoupa/subfamília Epinephelinae
+石斛 | TRADUÇÃO: Dendrobium nobilis (Dendrobium nobile)
+石景山 | TRADUÇÃO: ver 石景山區|石景山区
+石景山区 | TRADUÇÃO: Shijingshan, um distrito interno da zona oeste de Pequim
+石板 | TRADUÇÃO: laje/placa de pedra/pedra de cantaria
+石板瓦 | TRADUÇÃO: telha de ardósia
+石板路 | TRADUÇÃO: estrada ou calçada pavimentada com lajes de pedra
+石林 | TRADUÇÃO: Floresta de Pedra, conjunto notável de formações calcárias em Yunnan
+石林彝族自治县 | TRADUÇÃO: Condado Autônomo Yi de Shilin, na cidade de Kunming 昆明市, Yunnan
+石林县 | TRADUÇÃO: ver 石林彝族自治縣|石林彝族自治县
+石柱 | TRADUÇÃO: Condado Autônomo Tujia de Shizhu, em Chongqing 重慶|重庆 ‖ estela/pedra vertical/obelisco
+石柱土家族自治县 | TRADUÇÃO: Condado Autônomo Tujia de Shizhu, em Chongqing 重慶|重庆
+石柱县 | TRADUÇÃO: Condado Autônomo Tujia de Shizhu, na área suburbana de Qianjiang, município de Chongqing
+石棉 | TRADUÇÃO: ver 石棉縣|石棉县 ‖ amianto
+石棉瓦 | TRADUÇÃO: telha de fibrocimento (ondulada)
+石棉县 | TRADUÇÃO: Shimian, um condado na cidade de Ya'an 雅安市, Sichuan
+石棺 | TRADUÇÃO: sarcófago
+石楠 | TRADUÇÃO: fotínia chinesa (Photinia serratifolia)
+石榴 | TRADUÇÃO: romã
+石榴子 | TRADUÇÃO: sementes de romã/arilos de romã
+石榴树 | TRADUÇÃO: romãzeira
+石榴石 | TRADUÇÃO: granada (gema vermelha Mg3Al2Si3O12)
+石楼 | TRADUÇÃO: ver 石樓縣|石楼县
+石楼县 | TRADUÇÃO: Shilou, um condado na cidade de Lüliang 呂梁市|吕梁市, Shanxi
+石沉大海 | TRADUÇÃO: (lit.) jogar uma pedra e vê-la afundar sem deixar vestígios no mar (expressão idiomática) / (fig.) não obter nenhuma resposta
+石河子 | TRADUÇÃO: Shihezi, cidade subprefeitura no norte de Xinjiang
+石河子市 | TRADUÇÃO: Shixenze shehiri (cidade de Shixenze) ou cidade subprefeitura de Shihezi no norte de Xinjiang
+石油 | TRADUÇÃO: óleo/petróleo
+石油化学 | TRADUÇÃO: petroquímica
+石油蜡 | TRADUÇÃO: cera de petróleo
+石油输出国组织 | TRADUÇÃO: Organização dos Países Exportadores de Petróleo (OPEP)
+石油醚 | TRADUÇÃO: éter de petróleo
+石泉 | TRADUÇÃO: ver 石泉縣|石泉县
+石泉县 | TRADUÇÃO: Shiquan, um condado na cidade de Ankang 安康市, Shaanxi
+石洞 | TRADUÇÃO: caverna; gruta
+石渠 | TRADUÇÃO: Condado de Sêrxü (tibetano: ser shul rdzong) na Prefeitura Autônoma Tibetana de Garzê 甘孜藏族自治州, Sichuan (antigamente na província de Kham, Tibete) / nome de diversas figuras históricas ‖ canal de pedra (ex.: dreno)
+石渠县 | TRADUÇÃO: Sêrxü, um condado na Prefeitura Autônoma Tibetana de Garzê 甘孜藏族自治州, Sichuan
+石渠阁 | TRADUÇÃO: reunião do gabinete em 51 a.C. que estabeleceu os cinco clássicos do confucionismo 五經|五经 como cânone estatal
+石渠阁议 | TRADUÇÃO: reunião do gabinete em 51 a.C. que estabeleceu os cinco clássicos do confucionismo 五經|五经 como cânone estatal
+石渣 | TRADUÇÃO: cascalho
+石涛 | TRADUÇÃO: Shi Tao (1642-1707), pintor paisagista e poeta chinês
+石灰 | TRADUÇÃO: cal (óxido de cálcio)
+石灰岩 | TRADUÇÃO: calcário
+石灰石 | TRADUÇÃO: calcário
+石灰华 | TRADUÇÃO: travertino (geologia) / tufa (um tipo de mármore bandado)
+石炭 | TRADUÇÃO: carvão mineral (antigo)
+石炭井 | TRADUÇÃO: Subdistrito de Shitanjing, do distrito de Dawukou 大武口區|大武口区, cidade de Shizuishan 石嘴山市, Ningxia
+石炭井区 | TRADUÇÃO: Subdistrito de Shitanjing, do distrito de Dawukou 大武口區|大武口区, cidade de Shizuishan 石嘴山市, Ningxia
+石炭系 | TRADUÇÃO: sistema carbonífero/camada de carvão (geologia)
+石炭纪 | TRADUÇÃO: Carbonífero (período geológico de 354-292 milhões de anos atrás)
+石炭酸 | TRADUÇÃO: fenol C6H5OH / o mesmo que 苯酚
+石片 | TRADUÇÃO: lasca
+石状 | TRADUÇÃO: pétreo
+石狮 | TRADUÇÃO: ver 石獅市|石狮市 ‖ ver 石獅子|石狮子
+石狮子 | TRADUÇÃO: leão guardião, estátua de leão tradicionalmente colocada na entrada de palácios imperiais chineses, tumbas imperiais, templos etc.
+石狮市 | TRADUÇÃO: Shishi, uma cidade-condado na cidade de Quanzhou 泉州市, Fujian
+石玉昆 | TRADUÇÃO: Shi Yukun (c. 1810-1871), mestre contador de histórias de pinghua 評話|评话 da dinastia Qing
+石田 | TRADUÇÃO: Ishida (sobrenome e topônimo japonês)
+石田芳夫 | TRADUÇÃO: Ishida Yoshio (1948-), jogador japonês de Go
+石破天惊 | TRADUÇÃO: (expressão idiomática) algo que causa um grande impacto ou surpresa / inovador / obra notável e original
+石硪 | TRADUÇÃO: pedra plana com cordas presas, usada para socar o chão
+石碇 | TRADUÇÃO: Shiding ou Shihting, distrito da Nova Taipei 新北市, Taiwan
+石碇乡 | TRADUÇÃO: Shiding ou Shihting, distrito da Nova Taipei 新北市, Taiwan
+石碑 | TRADUÇÃO: estela/lápide de pedra/CL:方
+石磙 | TRADUÇÃO: rolo de pedra (para trilhar)
+石磨 | TRADUÇÃO: mó de rebolo/pedra de amolar
+石窟 | TRADUÇÃO: caverna rochosa/gruta/cavernas em penhascos (frequentemente com estátuas budistas)
+石竹 | TRADUÇÃO: cravo chinês (Dianthus chinensis)
+石竹属 | TRADUÇÃO: gênero Dianthus (cravos e craveiros)
+石竹目 | TRADUÇÃO: Classe Magnoliopsida (biologia)
+石竹科 | TRADUÇÃO: família Caryophyllaceae (cravos e craveiros)
+石笋 | TRADUÇÃO: estalagmite
+石粉 | TRADUÇÃO: talco
+石绵 | TRADUÇÃO: variante de 石棉
+石罅 | TRADUÇÃO: fenda numa rocha
+石脑油 | TRADUÇÃO: nafta
+石膏 | TRADUÇÃO: gesso CaSO4·2(H2O) / gesso (para imobilização de ossos quebrados)
+石膏墙板 | TRADUÇÃO: drywall/chapa de gesso acartonado/placa de gesso
+石膏绷带 | TRADUÇÃO: tala de gesso (para fraturas)
+石舫 | TRADUÇÃO: Barco de Mármore, famoso pavilhão
+石花菜 | TRADUÇÃO: Gelidium amansii, espécie de alga vermelha da qual se extrai ágar
+石英 | TRADUÇÃO: quartzo
+石英脉 | TRADUÇÃO: veio de quartzo
+石英表 | TRADUÇÃO: relógio de quartzo
+石英钟 | TRADUÇÃO: relógio de quartzo
+石英卤素灯 | TRADUÇÃO: lâmpada halógena de quartzo
+石蒜 | TRADUÇÃO: lirio-aranha-vermelho (Lycoris radiata)
+石蕊 | TRADUÇÃO: líquen das renas/tornassol (química)
+石蕊试纸 | TRADUÇÃO: papel de tornassol (química)
+石虎 | TRADUÇÃO: Shi Hu (295-349), imperador do Zhao Posterior 後趙|后赵 ‖ gato-leopardo (Prionailurus bengalensis) / tigre de pedra esculpido, instalado no túmulo de figuras reverenciadas na antiguidade para afastar espíritos malignos
+石蜐 | TRADUÇÃO: percebe (Pollicipes pollicipes)
+石蜡 | TRADUÇÃO: parafina
+石质 | TRADUÇÃO: pétreo
+石钟乳 | TRADUÇÃO: estalactite
+石门 | TRADUÇÃO: ver 石門縣|石门县 / ver 石門鄉|石门乡
+石门县 | TRADUÇÃO: Shimen, um condado na cidade de Changde 常德市, Hunan
+石门乡 | TRADUÇÃO: Shimen ou Shihmen, distrito da Nova Taipei 新北市, Taiwan
+石阡 | TRADUÇÃO: ver 石阡縣|石阡县
+石阡县 | TRADUÇÃO: Shiqian, um condado na cidade de Tongren 銅仁市|铜仁市, Guizhou
+石阶 | TRADUÇÃO: degrau de pedra
+石雀 | TRADUÇÃO: (espécie de ave da China) pardal-das-rochas (Petronia petronia)

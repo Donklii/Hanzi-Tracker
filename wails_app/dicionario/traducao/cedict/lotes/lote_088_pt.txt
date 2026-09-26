@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+职衔 | TRADUÇÃO: título (cargo em uma organização)
+职高 | TRADUÇÃO: escola técnica de nível médio (abreviação de 職業高中|职业高中)
+聍 | TRADUÇÃO: usado em 耵聹|耵聍
+聼 | TRADUÇÃO: variante de 聽|听
+听上去 | TRADUÇÃO: soar (difícil, que vale a pena, etc.)/parecer
+听不到 | TRADUÇÃO: não conseguir ouvir
+听不懂 | TRADUÇÃO: incapaz de entender o que se ouve
+听不见 | TRADUÇÃO: não conseguir ouvir
+听不进去 | TRADUÇÃO: não ouvir/ignorar deliberadamente
+听之任之 | TRADUÇÃO: (expressão idiomática) adotar uma atitude laissez-faire; fazer vista grossa (a algo indesejável)
+听事 | TRADUÇÃO: realizar audiência/aconselhar sobre assuntos de estado/administrar assuntos de estado/sala de audiência/escutar
+听任 | TRADUÇÃO: deixar (algo acontecer)/permitir (alguém fazer algo)/submeter-se/ceder
+听来 | TRADUÇÃO: soar (velho, estrangeiro, emocionante, certo, etc.)/parecer (verdade)/dar a impressão (de)/ouvir de algum lugar
+听信 | TRADUÇÃO: ouvir informações/receber notícias/acreditar no que ouve
+听候 | TRADUÇÃO: aguardar (ordens, uma decisão, um julgamento)
+听其自便 | TRADUÇÃO: permitir que alguém faça algo à sua conveniência
+听其自然 | TRADUÇÃO: deixar as coisas seguirem seu curso/aceitar as coisas como elas vêm
+听其言而观其行 | TRADUÇÃO: ouvir o que ele diz e observar o que ele faz (expressão idiomática, dos Analectos); julgar uma pessoa não por suas palavras, mas por suas ações
+听其言观其行 | TRADUÇÃO: ouvir o que ele diz e observar o que ele faz (expressão idiomática, dos Analectos); julgar uma pessoa não por suas palavras, mas por suas ações
+听到 | TRADUÇÃO: ouvir
+听力 | TRADUÇÃO: audição/habilidade de compreensão oral
+听力理解 | TRADUÇÃO: compreensão auditiva
+听劝 | TRADUÇÃO: aceitar conselhos; ouvir a orientação
+听友 | TRADUÇÃO: ouvinte (de um programa de rádio etc.)
+听取 | TRADUÇÃO: ouvir (notícias); escutar
+听君一席话，胜读十年书 | TRADUÇÃO: ouvir as palavras de um sábio pode ser superior a estudar dez anos de livros (provérbio)
+听命 | TRADUÇÃO: obedecer a uma ordem/aceitar ordens/aceitar uma situação
+听天安命 | TRADUÇÃO: aceitar a própria situação como ditada pelo céu (expressão idiomática)
+听天由命 | TRADUÇÃO: (expressão idiomática) submeter-se à vontade do céu; resignar-se ao destino; confiar na sorte
+听审 | TRADUÇÃO: comparecer ao tribunal/participar de um julgamento
+听审会 | TRADUÇÃO: audiência (jurídica)
+听写 | TRADUÇÃO: (de um aluno) escrever (em um exercício de ditado); ditado/(música) transcrever de ouvido
+听小骨 | TRADUÇÃO: ossículos (do ouvido médio)/três ossículos, agindo como alavancas para amplificar o som, a saber: estribo, bigorna e martelo
+听岔 | TRADUÇÃO: ouvir errado/ouvir incorretamente
+听得懂 | TRADUÇÃO: entender (ao ouvir)/captar (o que alguém diz)
+听得见 | TRADUÇÃO: ser capaz de ouvir; poder ouvir
+听从 | TRADUÇÃO: ouvir e obedecer/acatar/atender/dar ouvidos
+听凭 | TRADUÇÃO: permitir (que alguém faça o que quiser)
+听懂 | TRADUÇÃO: entender (ao ouvir)/captar (o que é dito)
+听戏 | TRADUÇÃO: assistir a uma ópera (tradicional chinesa)
+听房 | TRADUÇÃO: escutar escondido na antecâmara nupcial (costume popular)
+听断 | TRADUÇÃO: julgar (ou seja, ouvir e proferir sentença em um tribunal)/ouvir e decidir
+听书 | TRADUÇÃO: ouvir uma apresentação de pinghua storytelling 評話|评话/ouvir um audiolivro
+听会 | TRADUÇÃO: participar de uma reunião (e ouvir o que é discutido)
+听清 | TRADUÇÃO: ouvir claramente
+听墙根 | TRADUÇÃO: bisbilhotar/escutar secretamente as conversas de alguém
+听墙根儿 | TRADUÇÃO: variante com erhua de 聽牆根|听墙根
+听牌 | TRADUÇÃO: (mahjong) estar a uma peça de completar uma mão/(esportes) estar prestes a vencer
+听众 | TRADUÇÃO: plateia/ouvintes
+听窗 | TRADUÇÃO: escutar escondido na antecâmara nupcial (costume popular)
+听筒 | TRADUÇÃO: fone de ouvido/auscultador/estetoscópio
+听者 | TRADUÇÃO: ouvinte/membro da plateia
+听而不闻 | TRADUÇÃO: ouvir mas não reagir (expressão idiomática); fazer ouvidos moucos/ignorar deliberadamente
+听闻 | TRADUÇÃO: ouvir/ouvir o que alguém diz/notícia que se ouviu
+听腻了 | TRADUÇÃO: farto de ouvir
+听见 | TRADUÇÃO: ouvir
+听见风就是雨 | TRADUÇÃO: lit. ao ouvir vento, dizer chuva/concordar acriticamente com tudo que se ouve/repetir as palavras dos outros/fazer coro com os outros
+听觉 | TRADUÇÃO: sentido da audição/auditivo
+听讼 | TRADUÇÃO: ouvir litígios (em um tribunal)/julgar um caso
+听诊器 | TRADUÇÃO: estetoscópio
+听话 | TRADUÇÃO: fazer o que é mandado/obediente
+听话听声，锣鼓听音 | TRADUÇÃO: entender as implicações não ditas (expressão idiomática)
+听说 | TRADUÇÃO: ouvir (algo dito)/ouve-se (que)/boato/compreensão e expressão oral
+听说读写 | TRADUÇÃO: compreensão e expressão oral, leitura e escrita (habilidades linguísticas)
+听课 | TRADUÇÃO: assistir a uma aula/ir a uma palestra
+听讲 | TRADUÇÃO: assistir a uma palestra/ouvir uma conversa
+听证会 | TRADUÇÃO: audiência (legislativa)
+听起来 | TRADUÇÃO: soar como/parecer (que)
+听错 | TRADUÇÃO: ouvir errado
+听阈 | TRADUÇÃO: limiar de audibilidade
+听障 | TRADUÇÃO: deficiência auditiva
+听随 | TRADUÇÃO: obedecer/permitir
+听头 | TRADUÇÃO: uma lata (empréstimo do inglês "tin")
+听风就是雨 | TRADUÇÃO: lit. acreditar na chuva ao ouvir o vento (expressão idiomática)/acreditar em boatos/ser crédulo
+听骨 | TRADUÇÃO: ossículos (no ouvido médio)/também escrito 聽小骨|听小骨
+听骨链 | TRADUÇÃO: cadeia de ossículos (no ouvido médio)
+聋 | TRADUÇÃO: surdo
+聋人 | TRADUÇÃO: pessoa surda/pessoa com deficiência auditiva
+聋哑 | TRADUÇÃO: surdo e não verbal
+聋哑人 | TRADUÇÃO: pessoa surda e muda
+聋子 | TRADUÇÃO: surdo
+聋聩 | TRADUÇÃO: surdo/fig. estúpido e ignorante
+聋胞 | TRADUÇÃO: pessoa com deficiência auditiva (Taiwan)
+聿 | TRADUÇÃO: (partícula introdutória arcaica)/então/e então
+肄 | TRADUÇÃO: aprender/praticar ou estudar (antigo)
+肄业 | TRADUÇÃO: frequentar (uma escola)/abandonar (a faculdade etc.)
+肄业生 | TRADUÇÃO: estudante que abandonou o curso
+肄业证书 | TRADUÇÃO: certificado de conclusão parcial/certificado de frequência (para um aluno que não se formou)
+肃 | TRADUÇÃO: sobrenome Su ‖ respeitoso/solenidade/eliminar/limpar
+肃北 | TRADUÇÃO: veja 肅北蒙古族自治縣|肃北蒙古族自治县
+肃北县 | TRADUÇÃO: veja 肅北蒙古族自治縣|肃北蒙古族自治县
+肃北蒙古族自治县 | TRADUÇÃO: Condado Autônomo Mongol de Subei, em Jiuquan City 酒泉市, Gansu
+肃南 | TRADUÇÃO: veja 肅南裕固族自治縣|肃南裕固族自治县
+肃南县 | TRADUÇÃO: veja 肅南裕固族自治縣|肃南裕固族自治县
+肃南裕固族自治县 | TRADUÇÃO: Condado Autônomo Yugur de Sunan, em Zhangye City 張掖市|张掖市, Gansu
+肃反 | TRADUÇÃO: eliminar contrarrevolucionários (abreviação de 肅清反革命分子|肃清反革命分子)
+肃反运动 | TRADUÇÃO: expurgo de contrarrevolucionários (especialmente o expurgo de contrarrevolucionários ocultos de Mao 1955-56 e o Grande Expurgo de Stalin 1936-38)
+肃宁 | TRADUÇÃO: veja 肅寧縣|肃宁县
+肃宁县 | TRADUÇÃO: Suning, um condado em Cangzhou City 滄州市|沧州市, Hebei
+肃州 | TRADUÇÃO: veja 肅州區|肃州区
+肃州区 | TRADUÇÃO: distrito de Suzhou, um distrito da cidade de Jiuquan 酒泉市, em Gansu
+肃慎 | TRADUÇÃO: grupo étnico antigo da fronteira nordeste da China
+肃敬 | TRADUÇÃO: respeitoso/deferente
+肃杀 | TRADUÇÃO: austero/severo/áspero/sombrio e desolado (outono ou inverno)
+肃清 | TRADUÇÃO: expurgar/purgar
+肃然 | TRADUÇÃO: respeitoso/solene/reverente
+肃然起敬 | TRADUÇÃO: sentir profunda veneração por alguém (expressão idiomática)
+肃穆 | TRADUÇÃO: solene e respeitoso/sereno
+肃立 | TRADUÇÃO: ficar em pé respeitosamente/(de árvores, montanhas) erguendo-se imponente e majestoso
+肃静 | TRADUÇÃO: silenciosamente solene
+肆 | TRADUÇÃO: quatro (numeral antifraude bancário)/desenfreado/dissoluto/(literário) loja
+肆意 | TRADUÇÃO: desenfreadamente/insolentemente/arbitrariamente
+肆意妄为 | TRADUÇÃO: veja 恣意妄為|恣意妄为
+肆无忌惮 | TRADUÇÃO: absolutamente desenfreado/desbragado/sem o menor escrúpulo
+肆虐 | TRADUÇÃO: causar estragos; devastar
+肆行 | TRADUÇÃO: agir de forma imprudente
+肇 | TRADUÇÃO: no início/idealizar/originar
+肇事 | TRADUÇÃO: causar um acidente/ser responsável por um incidente/provocar uma perturbação
+肇事者 | TRADUÇÃO: infrator/criminoso
+肇事逃逸 | TRADUÇÃO: fuga após acidente (hit-and-run)
+肇俊哲 | TRADUÇÃO: Zhao Junzhe (1979-), jogador de futebol chinês
+肇因 | TRADUÇÃO: causa/origem
+肇始 | TRADUÇÃO: iniciar/começar/o início
+肇州 | TRADUÇÃO: veja 肇州縣|肇州县
+肇州县 | TRADUÇÃO: Zhaozhou, um condado na cidade de Daqing 大慶市|大庆市, Heilongjiang
+肇建 | TRADUÇÃO: (literário) estabelecer; fundar (um país etc); iniciar a construção (de algo de grande escala, ex.: palácio, universidade etc)
+肇庆 | TRADUÇÃO: veja 肇慶市|肇庆市
+肇庆大学 | TRADUÇÃO: Universidade de Zhaoqing (Guangdong)
+肇庆市 | TRADUÇÃO: Zhaoqing, cidade de nível de prefeitura na província de Guangdong 廣東省|广东省
+肇东 | TRADUÇÃO: veja 肇東市|肇东市
+肇东市 | TRADUÇÃO: Zhaodong, uma cidade de nível de condado na cidade de Suihua 綏化市|绥化市, Heilongjiang
+肇源 | TRADUÇÃO: veja 肇源縣|肇源县
+肇源县 | TRADUÇÃO: Zhaoyuan, um condado na cidade de Daqing 大慶市|大庆市, Heilongjiang
+肇祸 | TRADUÇÃO: causar um acidente
+肇端 | TRADUÇÃO: o ponto de partida
+肈 | TRADUÇÃO: variante de 肇
+肉 | TRADUÇÃO: carne/polpa (de uma fruta)/(coloq.) (de uma fruta) mole/(de uma pessoa) flácido/irresoluto/radical Kangxi 130
+肉丁 | TRADUÇÃO: carne em cubos
+肉中刺 | TRADUÇÃO: um espinho na carne
+肉丸 | TRADUÇÃO: almôndega
+肉乎乎 | TRADUÇÃO: rechonchudo; carnudo
+肉干 | TRADUÇÃO: carne seca; charque
+肉偿 | TRADUÇÃO: (fig.) usar sexo para pagar (uma dívida)
+肉冠 | TRADUÇÃO: crista (crista carnuda na cabeça de uma ave)
+肉冻 | TRADUÇÃO: áspic; geleia de carne
+肉刑 | TRADUÇÃO: castigo corporal (como castração ou amputação)
+肉包子打狗 | TRADUÇÃO: lit. atirar um pãozinho de carne em um cachorro (expressão idiomática)/fig. jogar (dinheiro ou esforço) no lixo/dar adeus a algo
+肉呼呼 | TRADUÇÃO: variante de 肉乎乎
+肉商 | TRADUÇÃO: comerciante de carne/açougueiro
+肉嘟嘟 | TRADUÇÃO: gorducho
+肉圆 | TRADUÇÃO: ba-wan, bolinho feito de massa glutinosa, geralmente recheado com carne de porco moída, brotos de bambu etc, servido com molho saboroso (lanche taiwanês) (do taiwanês 肉圓, pron. Tai-lo [bah-uân])
+肉垂麦鸡 | TRADUÇÃO: (espécie de ave da China) abibe-de-vermelho (Vanellus indicus)
+肉垫 | TRADUÇÃO: coxim (almofada na pata de animal)
+肉夹馍 | TRADUÇÃO: lit. carne cunhada em pão no vapor/"hambúrguer chinês"/sanduíche de carne fatiada popular no norte da China
+肉孜节 | TRADUÇÃO: veja 開齋節|开斋节
+肉弹 | TRADUÇÃO: atacante suicida; bombista suicida/mulher voluptuosa; homem musculoso
+肉感 | TRADUÇÃO: apelo sexual/sensual/sensualidade/sensual/voluptuoso
+肉欲 | TRADUÇÃO: desejo carnal
+肉搏 | TRADUÇÃO: lutar corpo a corpo
+肉搏战 | TRADUÇÃO: combate corpo a corpo
+肉搜 | TRADUÇÃO: (Taiwan) abrev. de 人肉搜索|人肉搜索
+肉末 | TRADUÇÃO: carne moída
+肉果 | TRADUÇÃO: fruto carnudo; sarcocarpo/noz-moscada
+肉桂 | TRADUÇÃO: canela da China (Cinnamomum cassia)
+肉条 | TRADUÇÃO: costeleta
+肉棒 | TRADUÇÃO: bastão de carne/pênis
+肉毒中毒 | TRADUÇÃO: botulismo
+肉毒杆菌 | TRADUÇÃO: Clostridium botulinum (bactéria que produz toxina botulínica)
+肉毒杆菌毒素 | TRADUÇÃO: toxina botulínica
+肉毒梭状芽孢杆菌 | TRADUÇÃO: Clostridium botulinum
+肉毒素 | TRADUÇÃO: toxina botulínica (abrev. de 肉毒桿菌毒素|肉毒杆菌毒素)
+肉汁 | TRADUÇÃO: caldo de carne
+肉沫 | TRADUÇÃO: carne de porco moída
+肉汤 | TRADUÇÃO: sopa de carne/caldo
+肉汤面 | TRADUÇÃO: macarrão em sopa de carne
+肉燥 | TRADUÇÃO: (Taiwan) carne de porco moída cozida com molho de soja e especiarias (servida com arroz ou macarrão, ou como recheio de pães)/pron. taiwanesa [rou4 sao4]
+肉烂在锅里 | TRADUÇÃO: lit. a carne se desfaz ao cozinhar, mas tudo fica na panela (expressão idiomática)/fig. alguns podem perder ou ganhar, mas de qualquer forma os benefícios não vão para estranhos
+肉片 | TRADUÇÃO: fatia de carne
+肉瘤 | TRADUÇÃO: verruga/sarcoma/supérfluo/inútil
+肉皮 | TRADUÇÃO: pele de porco
+肉盾 | TRADUÇÃO: escudo humano/(em jogos) tanque; escudo de carne
+肉眼 | TRADUÇÃO: olho nu/olhos de leigo
+肉眼凡胎 | TRADUÇÃO: ignorante (expressão idiomática)
+肉眼观察 | TRADUÇÃO: observação a olho nu
+肉票 | TRADUÇÃO: refém
+肉糜 | TRADUÇÃO: carne moída
+肉丝 | TRADUÇÃO: carne desfiada/carne de porco desfiada
+肉羹 | TRADUÇÃO: ensopado/caldo grosso
+肉脯 | TRADUÇÃO: carne seca
+肉芽肿 | TRADUÇÃO: (patologia) granuloma
+肉蒲团 | TRADUÇÃO: O Tapete de Oração Carnal, romance erótico chinês do século XVII, geralmente atribuído a Li Yu 李漁|李渔
+肉袒 | TRADUÇÃO: fazer um humilde pedido de desculpas (escrita formal)
+肉豆蔻 | TRADUÇÃO: noz-moscada (Myristica fragrans Houtt)/maça/Myristicaceae (família de plantas que produzem óleos aromáticos ou alucinógenos)
+肉豆蔻科 | TRADUÇÃO: Myristicaceae (família de plantas incluindo a noz-moscada)
+肉贩 | TRADUÇÃO: açougueiro
+肉质 | TRADUÇÃO: qualidade da carne/suculento (botânica)
+肉质根 | TRADUÇÃO: raiz suculenta (botânica)
+肉足鹱 | TRADUÇÃO: (espécie de ave da China) bobo-de-patas-carnudas (Puffinus carneipes)
+肉身 | TRADUÇÃO: corpo corpóreo
+肉酱 | TRADUÇÃO: molho de carne moída/(fig.) picadinho/pessoa cortada em pedaços
+肉铺 | TRADUÇÃO: açougue
+肉鸡 | TRADUÇÃO: frango de corte/frango assado/(computação) computador zumbi/máquina infectada em uma botnet
+肉类 | TRADUÇÃO: carne
+肉食 | TRADUÇÃO: carnívoro
+肉食动物 | TRADUÇÃO: carnívoro/animal carnívoro
+肉饼 | TRADUÇÃO: hambúrguer/bolinho de carne
+肉馅 | TRADUÇÃO: carne moída/recheio de carne
+肉骨茶 | TRADUÇÃO: bak-kut-teh ou sopa de costela de porco
+肉体 | TRADUÇÃO: corpo físico
+肉松 | TRADUÇÃO: carne desfiada/pêlo de porco
+肉碱 | TRADUÇÃO: carnitina (bioquímica)
+肉麻 | TRADUÇÃO: repugnante/cafona/sentimental/bajulador (elogio)
+肊 | TRADUÇÃO: variante de 臆
+肋 | TRADUÇÃO: (forma presa) costela
+肋木 | TRADUÇÃO: (ginástica) barras de parede
+肋眼 | TRADUÇÃO: bife ancho/filet mignon com osso
+肋间肌 | TRADUÇÃO: músculo intercostal
+肋骨 | TRADUÇÃO: costela/CL:根
+肌 | TRADUÇÃO: (forma presa) carne; músculo
+肌动蛋白 | TRADUÇÃO: actina
+肌原纤维 | TRADUÇÃO: (anatomia) miofibrila
+肌球蛋白 | TRADUÇÃO: miosina (bioquímica)
+肌理 | TRADUÇÃO: textura (da pele, superfície etc.)
+肌纤维 | TRADUÇÃO: fibra muscular
+肌纤蛋白 | TRADUÇÃO: miocilina/fibrina muscular
+肌肉 | TRADUÇÃO: músculo/carne
+肌肉注射 | TRADUÇÃO: injeção intramuscular
+肌肉男 | TRADUÇÃO: homem musculoso; marombeiro
+肌肉发达 | TRADUÇÃO: musculoso
+肌肉组织 | TRADUÇÃO: tecido muscular
+肌肉萎缩症 | TRADUÇÃO: distrofia muscular
+肌肉记忆 | TRADUÇÃO: memória muscular
+肌肉松弛剂 | TRADUÇÃO: relaxante muscular (medicina)
+肌胃 | TRADUÇÃO: moela
+肌腱 | TRADUÇÃO: tendão (anatomia)/tendão/cadeia muscular posterior da coxa
+肌肤 | TRADUÇÃO: pele/carne/fig. relação física íntima
+肌苷酸二钠 | TRADUÇÃO: inosinato dissódico (E631)
+肌酸 | TRADUÇÃO: creatina
+肌电图 | TRADUÇÃO: eletromiograma (EMG)
+肌体 | TRADUÇÃO: corpo/organismo (geralmente humano)/(fig.) tecido (da sociedade etc.)/estrutura coesa (de uma entidade)
+肯 | TRADUÇÃO: variante antiga de 肯 ‖ concordar; consentir/estar disposto a
+肏 | TRADUÇÃO: foder (vulgar)
+肏你妈 | TRADUÇÃO: foder sua mãe (vulgar)
+肏屄 | TRADUÇÃO: foder (uma mulher) (vulgar)
+肏蛋 | TRADUÇÃO: péssimo/ruim
+肏逼 | TRADUÇÃO: variante de 肏屄
+胳 | TRADUÇÃO: variante de 胳 ‖ usado em 胳肢窩|胳肢窝 ‖ axila ‖ usado em 胳肢
+肓 | TRADUÇÃO: região entre o coração e o diafragma
+肕 | TRADUÇÃO: variante antiga de 韌|韧
+肖 | TRADUÇÃO: sobrenome Xiao ‖ semelhante/parecido/assemelhar-se/ser como
+肖伯纳 | TRADUÇÃO: Bernard Shaw (1856-1950), dramaturgo irlandês-britânico
+肖似 | TRADUÇÃO: assemelhar-se/parecer-se com
+肖像 | TRADUÇÃO: retrato (pintura, foto etc.)/(sentido geral) representação de uma pessoa/semelhança
+肖像权 | TRADUÇÃO: direitos de imagem; direito à própria imagem
+肖恩 | TRADUÇÃO: Sean, Shaun ou Shawn (nome)
+肖想 | TRADUÇÃO: (Taiwan) sonhar em ter (algo que não se pode ter); cobiçar (algo além do alcance)
+肖扬 | TRADUÇÃO: Xiao Yang (1938-), presidente da Suprema Corte da RPC 1998-2008
+肖蛸 | TRADUÇÃO: variante de 蠨蛸|蟏蛸
+肖邦 | TRADUÇÃO: Frédéric Chopin (1810-1849), pianista e compositor polonês
+肘 | TRADUÇÃO: cotovelo/paleta de porco
+肘子 | TRADUÇÃO: paleta de porco/(coloq.) cotovelo
+肘击 | TRADUÇÃO: golpear com o cotovelo; dar uma cotovelada
+肘腋 | TRADUÇÃO: lit. axila/cotovelo e axila/fig. bem perto (de um desastre)/no quintal de casa/à porta
+肙 | TRADUÇÃO: um pequeno verme/retorcer/cercar/vazio
+肚 | TRADUÇÃO: dobradinha ‖ barriga
+肚儿 | TRADUÇÃO: variante com retroflexão de 肚
+肚兜 | TRADUÇÃO: peça de roupa íntima que cobre o peito e o abdômen
+肚子 | TRADUÇÃO: barriga/abdômen/estômago/CL:個|个
+肚子痛 | TRADUÇÃO: dor de estômago/dor de barriga
+肚孤 | TRADUÇÃO: (Taiwan) cochilar
+肚痛 | TRADUÇÃO: dor de estômago
+肚皮 | TRADUÇÃO: barriga
+肚皮舞 | TRADUÇÃO: dança do ventre
+肚腩 | TRADUÇÃO: barriga/barriga saliente
+肚腹 | TRADUÇÃO: barriga (antigo)
+肚脐 | TRADUÇÃO: umbigo
+肚脐眼 | TRADUÇÃO: umbigo
+肛交 | TRADUÇÃO: sexo anal/relação anal
+肛塞 | TRADUÇÃO: plug anal
+肛欲期 | TRADUÇÃO: fase anal (psicologia)
+肛毛 | TRADUÇÃO: pelo ao redor do ânus
+肛裂 | TRADUÇÃO: fissura anal
+肛门 | TRADUÇÃO: ânus
+肛门直肠 | TRADUÇÃO: reto (anatomia)
+肜 | TRADUÇÃO: sobrenome Rong
+肝 | TRADUÇÃO: fígado (CL:葉|叶)/(gíria) jogar por horas, geralmente até tarde da noite (videogame)/(de videogame) que envolve muita repetição para progredir; repetitivo
+肝吸虫 | TRADUÇÃO: verme do fígado/fasciola hepática
+肝火 | TRADUÇÃO: irritabilidade/irascibilidade/(MTC) inflamação do fígado
+肝炎 | TRADUÇÃO: hepatite
+肝病 | TRADUÇÃO: doença hepática/doença do fígado
+肝癌 | TRADUÇÃO: câncer de fígado
+肝硬化 | TRADUÇÃO: cirrose hepática
+肝糖 | TRADUÇÃO: glicogênio
+肝脑涂地 | TRADUÇÃO: oferecer a própria vida em sacrifício
+肝肠寸断 | TRADUÇÃO: lit. fígado e intestinos cortados em pedaços (expressão idiomática)/fig. tomado pela dor
+肝胆相照 | TRADUÇÃO: tratar uns aos outros com absoluta sinceridade (expressão idiomática); mostrar total devoção
+肝脏 | TRADUÇÃO: fígado
+肝醣 | TRADUÇÃO: (Taiwan) glicogênio
+肟 | TRADUÇÃO: oxima/oximida (química)
+股 | TRADUÇÃO: coxa/parte de um todo; porção/(finanças) ação; parcela/feixe de fio/unidade administrativa de baixo nível, traduzida como "seção" ou "departamento", hierarquicamente abaixo de 科/classificador para coisas longas e sinuosas como cordas, rios etc./classificador para fumaça, cheiros etc.: fio, baforada, sopro/classificador para bandos de pessoas, gangues etc./classificador para ações súbitas e violentas
+股二头肌 | TRADUÇÃO: bíceps femoral (anatomia)
+股交 | TRADUÇÃO: sexo interfemoral
+股份 | TRADUÇÃO: ação (em uma empresa) / quota
+股份公司 | TRADUÇÃO: sociedade anônima
+股份制公司 | TRADUÇÃO: sociedade por ações
+股份有限公司 | TRADUÇÃO: sociedade anônima de capital limitado / corporação
+股价 | TRADUÇÃO: preço das ações / cotação
+股利 | TRADUÇÃO: dividendo
+股动脉 | TRADUÇÃO: artéria femoral
+股四头肌 | TRADUÇÃO: quadríceps / músculos da coxa
+股市 | TRADUÇÃO: mercado de ações / bolsa de valores
+股息 | TRADUÇÃO: dividendo
+股栗 | TRADUÇÃO: (literário) tremer de medo
+股指 | TRADUÇÃO: índice do mercado de ações / índice de preços das ações / abrev. de 股票指數|股票指数
+股掌 | TRADUÇÃO: (ter alguém) na palma da mão / (sob) controle total
+股本 | TRADUÇÃO: capital social / investimento
+股本回报率 | TRADUÇÃO: retorno sobre o patrimônio líquido (ROE)
+股东 | TRADUÇÃO: acionista
+股东名册 | TRADUÇÃO: livro de registro de acionistas
+股东大会 | TRADUÇÃO: assembleia geral de acionistas
+股东特别大会 | TRADUÇÃO: assembleia geral extraordinária de acionistas
+股权 | TRADUÇÃO: participação acionária / direito de ação
+股民 | TRADUÇÃO: investidor em ações
+股沟 | TRADUÇÃO: fenda glútea / fenda anal
+股灾 | TRADUÇÃO: crash do mercado de ações
+股癣 | TRADUÇÃO: tinha crural / dermatomicose, especialmente sexualmente transmissível / frieira na virilha
+股神 | TRADUÇÃO: investidor lendário em ações
+股票 | TRADUÇÃO: certificado de ação / ação (finanças)
+股票交易所 | TRADUÇÃO: bolsa de valores
+股票代号 | TRADUÇÃO: código de ação (para identificar cupom de ação)
+股票市场 | TRADUÇÃO: mercado de ações / bolsa de valores
+股票投资 | TRADUÇÃO: investir em ações / comprar ações
+股票指数 | TRADUÇÃO: índice do mercado de ações / índice de preços das ações
+股肱 | TRADUÇÃO: assessor de confiança
+股长 | TRADUÇÃO: chefe de uma seção (departamento) / chefe / diretor / (numa turma escolar) aluno responsável por uma função específica, ex.: 風紀股長|风纪股长 monitor de disciplina
+股集资 | TRADUÇÃO: emissão de ações
+股骨 | TRADUÇÃO: fêmur
+肢 | TRADUÇÃO: membro (do corpo)
+肢解 | TRADUÇÃO: desmembrar / (fig.) dividir em partes
+肢体 | TRADUÇÃO: membros (do corpo) / membros e tronco / corpo
+肢体冲突 | TRADUÇÃO: confronto físico / briga
+肢体语言 | TRADUÇÃO: linguagem corporal
+肥 | TRADUÇÃO: gordo / fértil / folgado ou grande / fertilizar / enriquecer ilegalmente / fertilizante / adubo
+肥力 | TRADUÇÃO: fertilidade (do solo)
+肥厚 | TRADUÇÃO: carnudo / rechonchudo / fértil
+肥城 | TRADUÇÃO: veja 肥城市
+肥城市 | TRADUÇÃO: Feicheng, cidade administrativa em nível de condado em Tai'an 泰安市, Shandong
+肥墩墩 | TRADUÇÃO: extremamente obeso
+肥壮 | TRADUÇÃO: robusto e forte
+肥大 | TRADUÇÃO: (roupa) folgado; largo / (pessoa) gordo; obeso / (medicina) hipertrofia
+肥实 | TRADUÇÃO: carnudo (fruta) / gordo (carne) / fértil (terra)
+肥差 | TRADUÇÃO: cargo lucrativo / emprego fácil
+肥效 | TRADUÇÃO: eficácia do fertilizante
+肥料 | TRADUÇÃO: fertilizante / adubo
+肥东 | TRADUÇÃO: veja 肥東縣|肥东县
+肥东县 | TRADUÇÃO: Feidong, condado em Hefei 合肥市, Anhui
+肥水不流外人田 | TRADUÇÃO: (provérbio) não deixar a própria água fértil irrigar o campo alheio / guardar os lucros para a família
+肥沃 | TRADUÇÃO: fértil
+肥滋滋 | TRADUÇÃO: gordo / rechonchudo
+肥牛 | TRADUÇÃO: fatias de carne bovina gorda (especialmente para fondue)
+肥甘 | TRADUÇÃO: comidas finas
+肥田 | TRADUÇÃO: terra fértil / fertilizar o solo
+肥田粉 | TRADUÇÃO: sulfato de amônio (fertilizante)
+肥皂 | TRADUÇÃO: sabão / CL:塊|块,條|条
+肥皂剧 | TRADUÇÃO: novela (telenovela) / soap opera (estrangeirismo)
+肥皂水 | TRADUÇÃO: água com sabão
+肥皂沫 | TRADUÇÃO: espuma de sabão
+肥皂泡 | TRADUÇÃO: bolha de sabão
+肥硕 | TRADUÇÃO: carnudo (fruta) / rechonchudo / robusto e firme (membros, corpo) / corpulento
+肥缺 | TRADUÇÃO: cargo lucrativo
+肥羊 | TRADUÇÃO: (fig.) alvo fácil e atraente / fonte de lucro constante / vaca leiteira
+肥美 | TRADUÇÃO: fértil / viçoso / carnudo / arredondado
+肥肉 | TRADUÇÃO: gordura (como gordura de porco) / carne gorda / (fig.) mina de ouro / vaca leiteira
+肥肝 | TRADUÇÃO: foie gras
+肥胖 | TRADUÇÃO: gordo; obeso
+肥胖症 | TRADUÇÃO: obesidade
+肥肠 | TRADUÇÃO: tripa de porco (intestino grosso usado como alimento)
+肥膘 | TRADUÇÃO: gordura corporal, especialmente a camada de gordura sob a pele (usada para humanos, animais ou carne)
+肥腻 | TRADUÇÃO: (de alimentos) gorduroso / ensebado
+肥西 | TRADUÇÃO: veja 肥西縣|肥西县
+肥西县 | TRADUÇÃO: Feixi, condado em Hefei 合肥市, Anhui
+肥乡 | TRADUÇÃO: veja 肥鄉區|肥乡区
+肥乡区 | TRADUÇÃO: Feixiang, distrito de Handan 邯鄲市|邯郸市, Hebei
+肥头大耳 | TRADUÇÃO: gordo; rechonchudo; roliço
+肥马轻裘 | TRADUÇÃO: cavalos gordos e peles leves (viver no luxo)
+胚 | TRADUÇÃO: variante de 胚 ‖ embrião
+肩 | TRADUÇÃO: ombro / arcar com (responsabilidades etc.)
+肩并肩 | TRADUÇÃO: ombro a ombro; lado a lado; emparelhado
+肩周炎 | TRADUÇÃO: capsulite adesiva (ombro congelado)
+肩射导弹 | TRADUÇÃO: míssil disparado do ombro
+肩带 | TRADUÇÃO: alça de ombro; cinto de ombro; talabarte / CL:條|条
+肩扛 | TRADUÇÃO: carregar no ombro
+肩章 | TRADUÇÃO: dragonas / divisas de ombro
+肩胛 | TRADUÇÃO: ombro / região escapular / escápula
+肩胛骨 | TRADUÇÃO: escápula / omoplata
+肩膀 | TRADUÇÃO: ombro
+肩膊 | TRADUÇÃO: ombro
+肩负 | TRADUÇÃO: arcar com (um fardo) / suportar / sofrer (uma desvantagem)
+肩起 | TRADUÇÃO: arcar com / assumir (responsabilidades etc.)
+肩部 | TRADUÇÃO: ombro / área do ombro
+肩头 | TRADUÇÃO: nos ombros/(dialeto) ombro
+肪 | TRADUÇÃO: gordura animal
+肫 | TRADUÇÃO: moela
+肬 | TRADUÇÃO: variante de 疣
+肭 | TRADUÇÃO: usado em 膃肭|腽肭
+肯亚 | TRADUÇÃO: (Taiwan) Quênia
+肯塔基 | TRADUÇÃO: Kentucky, estado dos EUA
+肯定 | TRADUÇÃO: ter certeza/definitivamente/reconhecer/afirmativo (resposta)
+肯定句 | TRADUÇÃO: oração afirmativa
+肯尼亚 | TRADUÇÃO: Quênia
+肯尼迪 | TRADUÇÃO: Kennedy (nome)/J.F. Kennedy (1917-1963), político democrata dos EUA, presidente 1961-1963
+肯尼迪航天中心 | TRADUÇÃO: Centro Espacial Kennedy, Cabo Canaveral, Flórida
+肯尼迪角 | TRADUÇÃO: Cabo Kennedy, nome 1963-1973 do Cabo Canaveral, Flórida
+肯德基 | TRADUÇÃO: KFC/Frango Frito do Kentucky
+肯德基炸鸡 | TRADUÇÃO: Frango Frito do Kentucky (KFC)
+肯德拉 | TRADUÇÃO: Kendra (nome)
+肯普索恩 | TRADUÇÃO: (Dirk) Kempthorne (senador dos EUA por Idaho)
+肯特 | TRADUÇÃO: Kent (condado inglês)
+肰 | TRADUÇÃO: carne de cachorro/variante antiga de 然
+肱 | TRADUÇÃO: braço (parte superior)/braço
+肱三头肌 | TRADUÇÃO: tríceps braquial (parte posterior do braço)
+肱二头肌 | TRADUÇÃO: músculo bíceps/bíceps
+肱骨 | TRADUÇÃO: úmero
+育 | TRADUÇÃO: ter filhos/criar ou educar/educar
+育人 | TRADUÇÃO: educar pessoas (especialmente moralmente)
+育儿 | TRADUÇÃO: criar uma criança
+育儿嫂 | TRADUÇÃO: babá (para bebês e crianças pequenas)
+育儿袋 | TRADUÇÃO: bolsa marsupial
+育婴 | TRADUÇÃO: cuidar de um bebê
+育婴假 | TRADUÇÃO: (Taiwan) licença-parental
+育婴师 | TRADUÇÃO: babá (para bebês e crianças pequenas)
+育幼袋 | TRADUÇÃO: bolsa de uma fêmea marsupial
+育幼院 | TRADUÇÃO: orfanato
+育有 | TRADUÇÃO: ser pai/mãe de (uma criança)
+育乐 | TRADUÇÃO: (Taiwan) (abrev. de 教育與娛樂) educação e entretenimento, o 5º e 6º aspectos da vida além das quatro necessidades básicas de alimentação, vestuário, moradia e transporte 食衣住行/ (às vezes usado para significar edutenimento ou apenas recreação)
+育水 | TRADUÇÃO: nome de rio/nome antigo de Baihe 白河 em Henan
+育种 | TRADUÇÃO: criar ou procriar/procriação
+育空 | TRADUÇÃO: Yukon (território canadense adjacente ao Alasca)
+育肥 | TRADUÇÃO: engordar (gado)
+育苗 | TRADUÇÃO: cultivar mudas ou plântulas
+育龄 | TRADUÇÃO: idade fértil
+育龄期 | TRADUÇÃO: idade fértil
+肵 | TRADUÇÃO: mesa
+肸 | TRADUÇÃO: usado em 肸肸/usado em 肸蠁|肸蚃/ pronúncia de Taiwan [xi4]
+肸肸 | TRADUÇÃO: (literário) (onomatopeia) som de risada
+肸蚃 | TRADUÇÃO: (literário) (de um som, fragrância etc) encher o ar
+肹 | TRADUÇÃO: variante antiga de 肸
+肺 | TRADUÇÃO: pulmão/CL:個|个
+肺刺激性毒剂 | TRADUÇÃO: agente tóxico irritante pulmonar
+肺动脉 | TRADUÇÃO: artéria pulmonar
+肺心病 | TRADUÇÃO: cardiopatia pulmonar (medicina)
+肺栓塞 | TRADUÇÃO: embolia pulmonar (medicina)
+肺气肿 | TRADUÇÃO: enfisema
+肺水肿 | TRADUÇÃO: edema pulmonar
+肺泡 | TRADUÇÃO: alvéolo pulmonar
+肺活量 | TRADUÇÃO: (medicina) capacidade vital
+肺炎 | TRADUÇÃO: pneumonia/inflamação dos pulmões
+肺炎克雷伯氏菌 | TRADUÇÃO: Klebsiella pneumoniae
+肺炎双球菌 | TRADUÇÃO: Diplococcus pneumoniae
+肺炎霉浆菌 | TRADUÇÃO: Mycoplasma pneumoniae
+肺病 | TRADUÇÃO: doença pulmonar
+肺痨 | TRADUÇÃO: tuberculose
+肺癌 | TRADUÇÃO: câncer de pulmão
+肺结核 | TRADUÇÃO: tuberculose/TB
+肺结核病 | TRADUÇÃO: tuberculose, TB
+肺结节 | TRADUÇÃO: (medicina) nódulo pulmonar
+肺腑 | TRADUÇÃO: fundo do coração (figurativo)
+肺腑之言 | TRADUÇÃO: palavras do fundo do coração
+肺脏 | TRADUÇÃO: pulmões
+肺通气 | TRADUÇÃO: ventilação pulmonar (medicina)
+肼 | TRADUÇÃO: hidrazina
+肽 | TRADUÇÃO: peptídeo (dois ou mais aminoácidos ligados por ligações peptídicas CO-NH)
+肽单位 | TRADUÇÃO: unidade peptídica (na cadeia proteica)
+肽基 | TRADUÇÃO: grupo peptídico/unidade peptídica
+肽聚糖 | TRADUÇÃO: peptidoglicano (PG) ou mureína (polímero de açúcares e aminoácidos formando a parede celular)
+肽键 | TRADUÇÃO: ligação peptídica CO-NH/ligação em proteína entre radical carboxila e radical amino
+肽链 | TRADUÇÃO: cadeia peptídica (cadeia de aminoácidos que compõem a proteína)
+胂 | TRADUÇÃO: arsina
+胂凡纳明 | TRADUÇÃO: arsfenamina
+胃 | TRADUÇÃO: estômago/CL:個|个
+胃下垂 | TRADUÇÃO: gastroptose
+胃口 | TRADUÇÃO: apetite/preferência
+胃囊 | TRADUÇÃO: estômago (de humano)/(zoologia) bolsa gástrica
+胃寒 | TRADUÇÃO: frio no estômago (MTC)
+胃小凹 | TRADUÇÃO: (fisiologia) fossetas gástricas
+胃液 | TRADUÇÃO: suco gástrico
+胃灼热 | TRADUÇÃO: azia/pirose
+胃炎 | TRADUÇÃO: gastrite
+胃疼 | TRADUÇÃO: dor de estômago
+胃病 | TRADUÇÃO: problema estomacal/doença estomacal
+胃痛 | TRADUÇÃO: ter dor de estômago
+胃癌 | TRADUÇÃO: câncer de estômago
+胃绕道 | TRADUÇÃO: bypass gástrico
+胃肠道 | TRADUÇÃO: trato gastrointestinal
+胃蛋白酶 | TRADUÇÃO: pepsina
+胃袋 | TRADUÇÃO: (coloq.) estômago; barriga
+胃酸 | TRADUÇÃO: ácido gástrico
+胃镜 | TRADUÇÃO: gastroscópio (medicina)
+胄 | TRADUÇÃO: capacete/descendentes
+胄子 | TRADUÇÃO: filho mais velho
+胄甲 | TRADUÇÃO: capacete e armadura
+胄裔 | TRADUÇÃO: descendentes
+胇 | TRADUÇÃO: variante antiga de 肺
+胊 | TRADUÇÃO: canga
+背井离乡 | TRADUÇÃO: deixar sua terra natal, especialmente contra a própria vontade (expressão idiomática)
+背信 | TRADUÇÃO: quebrar a confiança
+背信弃义 | TRADUÇÃO: quebrar a confiança e abandonar o que é certo (expressão idiomática); trair/traiçoeiro/perfídia
+背倚 | TRADUÇÃO: ter as costas apoiadas em/encostar-se/estar apoiado por (uma montanha etc.)
+背侧 | TRADUÇÃO: costas/lado posterior
+背光 | TRADUÇÃO: ter a luz direta bloqueada; ficar de costas para a fonte de luz/(eletrônica) luz de fundo
+背光屏 | TRADUÇÃO: (eletrônica) tela com luz de fundo
+背刺 | TRADUÇÃO: apunhalar pelas costas
+背包 | TRADUÇÃO: mochila/mochila/flandre/mochila de campanha/cobertor enrolado/CL:個|个
+背包客 | TRADUÇÃO: mochileiro
+背包袱 | TRADUÇÃO: ter um peso na mente/assumir um fardo mental
+背包游 | TRADUÇÃO: mochilão
+背叛 | TRADUÇÃO: trair
+背叛者 | TRADUÇÃO: traidor
+背囊 | TRADUÇÃO: mochila/mochila/mochila
+背地 | TRADUÇÃO: secretamente/em particular/pelas costas de alguém
+背地里 | TRADUÇÃO: pelas costas de alguém; secretamente
+背城借一 | TRADUÇÃO: fazer uma última resistência diante da muralha da cidade (expressão idiomática); lutar até o último suspiro/empreender uma luta desesperada
+背夹电池 | TRADUÇÃO: capa de bateria (para um telefone)
+背字 | TRADUÇÃO: má sorte
+背对 | TRADUÇÃO: estar de costas para
+背对背 | TRADUÇÃO: costas com costas
+背山 | TRADUÇÃO: com as costas para a montanha (localização favorecida)
+背山临水 | TRADUÇÃO: com as costas para a montanha e de frente para a água (localização favorecida)
+背带 | TRADUÇÃO: suspensórios/alças/tira (para rifle)/correias (para mochila)
+背带裤 | TRADUÇÃO: macacão/macacão
+背影 | TRADUÇÃO: vista traseira/figura vista por trás/vista das costas (de uma pessoa ou objeto)
+背影儿 | TRADUÇÃO: variante com erhua de 背影
+背影杀手 | TRADUÇÃO: (gíria) (ger. de uma mulher) alguém que parece deslumbrante por trás/alguém que tem um ótimo corpo, mas não necessariamente um rosto atraente/abrev. de 背殺|背杀
+背后 | TRADUÇÃO: atrás/na parte de trás/na retaguarda/pelas costas de alguém
+背德 | TRADUÇÃO: imoral; antiético
+背心 | TRADUÇÃO: peça sem mangas (colete, regata, camiseta etc.)/CL:件
+背斜 | TRADUÇÃO: anticlinal (geologia)
+背时 | TRADUÇÃO: desatualizado/azarento
+背景 | TRADUÇÃO: fundo; cenário; contexto/(fig.) padrinho poderoso
+背景虚化 | TRADUÇÃO: desfoque de fundo (fotografia)
+背景调查 | TRADUÇÃO: verificação de antecedentes
+背景音乐 | TRADUÇÃO: música de fundo (BGM)/trilha sonora/ambiente musical
+背书 | TRADUÇÃO: recitar (um texto) de memória; aprender um texto de cor/apoiar; endossar (um candidato político, produto, cheque etc.)/apoio; endosso
+背板 | TRADUÇÃO: painel/painel traseiro
+背弃 | TRADUÇÃO: abandonar/desertar/renunciar
+背榜 | TRADUÇÃO: ficar em último lugar num exame
+背杀 | TRADUÇÃO: (gíria) (ger. de uma mulher) alguém que parece deslumbrante por trás/alguém que tem um ótimo corpo, mas não necessariamente um rosto atraente/abrev. de 背影殺手|背影杀手
+背气 | TRADUÇÃO: parar de respirar (como condição médica)/(fig.) desmaiar (de raiva)/ter um derrame
+背水一战 | TRADUÇÃO: lit. lutar com as costas para o rio (expressão idiomática); fig. lutar para vencer ou morrer
+背泳 | TRADUÇÃO: (HK) nado de costas
+背称 | TRADUÇÃO: termo usado para se referir a uma pessoa que não está presente (ex.: 小姨子) (contrastado com 面稱|面称)
+背篓 | TRADUÇÃO: cesto carregado nas costas
+背约 | TRADUÇÃO: quebrar um acordo/voltar atrás na palavra/não cumprir a promessa
+背脊 | TRADUÇÃO: a parte de trás do corpo humano
+背着 | TRADUÇÃO: carregando nas costas ‖ virando as costas para (algo ou alguém)/manter algo em segredo de (alguém)/manter (as mãos) atrás das costas
+背着手 | TRADUÇÃO: com as mãos entrelaçadas atrás das costas
+背着抱着一般重 | TRADUÇÃO: lit. quer se carregue nas costas ou nos braços, é igualmente pesado (expressão idiomática)/fig. não se pode evitar o fardo
+背诵 | TRADUÇÃO: recitar/repetir de memória
+背调 | TRADUÇÃO: verificação de antecedentes (abrev. de 背景調查|背景调查)/conduzir uma verificação de antecedentes
+背谬 | TRADUÇÃO: variante de 悖謬|悖谬
+背负 | TRADUÇÃO: carregar/levar nas costas/arcar com
+背转 | TRADUÇÃO: virar-se/virar as costas para/(ginástica etc.) giro de costas
+背逆 | TRADUÇÃO: violar; ir contra
+背运 | TRADUÇÃO: má sorte/azarado
+背道而驰 | TRADUÇÃO: correr na direção oposta (expressão idiomática); ir de encontro a
+背部 | TRADUÇÃO: costas (de um humano ou outro vertebrado, ou de um objeto)
+背锅 | TRADUÇÃO: (gíria) (neologismo derivado de 背黑鍋|背黑锅) levar a culpa; ser o bode expiatório
+背阔肌 | TRADUÇÃO: músculo grande dorsal (parte traseira do peito)
+背阴 | TRADUÇÃO: na sombra/sombreado
+背离 | TRADUÇÃO: afastar-se de/desviar-se de/desvio
+背靠背 | TRADUÇÃO: costas com costas
+背面 | TRADUÇÃO: o verso/o lado reverso/o lado errado
+背头 | TRADUÇÃO: penteado puxado para trás
+背骨 | TRADUÇÃO: coluna vertebral
+背鳍 | TRADUÇÃO: nadadeira dorsal
+背黑锅 | TRADUÇÃO: ser feito de bode expiatório; ser injustamente culpado
+胍 | TRADUÇÃO: guanidina
+胎 | TRADUÇÃO: feto/classificador para ninhadas (de filhotes etc.)/enchimento (em roupas ou roupas de cama)/útero carregando um feto/(fig.) origem/fonte/(empréstimo) pneu
+胎便 | TRADUÇÃO: mecônio
+胎儿 | TRADUÇÃO: feto/feto/embrião
+胎动 | TRADUÇÃO: movimento fetal
+胎压 | TRADUÇÃO: pressão do pneu
+胎座 | TRADUÇÃO: (botânica) placenta
+胎教 | TRADUÇÃO: educação pré-natal/treinamento pré-natal/influências pré-natais
+胎死腹中 | TRADUÇÃO: feto morre na barriga/(fig.) planos ou projetos fracassados antes de serem executados
+胎生 | TRADUÇÃO: viviparidade/zoogenia
+胎盘 | TRADUÇÃO: placenta
+胎粪 | TRADUÇÃO: mecônio
+胎记 | TRADUÇÃO: marca de nascença
+胎面 | TRADUÇÃO: superfície do pneu/banda de rodagem (do pneu)
+胎体 | TRADUÇÃO: (em cerâmica, laca etc.) a base (feita de argila, metal, bambu etc.) sobre a qual são aplicados esmalte, laca ou outros elementos decorativos
+胎龄 | TRADUÇÃO: idade gestacional
+胏 | TRADUÇÃO: carne seca com osso
+胑 | TRADUÇÃO: asas de pássaros/pernas de animais
+胔 | TRADUÇÃO: carne podre/ossos de animal morto
+胖 | TRADUÇÃO: saudável/tranquilo ‖ gordo/rechonchudo
+胖乎乎 | TRADUÇÃO: rechonchudo
+胖人 | TRADUÇÃO: pessoa com sobrepeso/gordo
+胖嘟嘟 | TRADUÇÃO: gordinho/rechonchudo/gorducho
+胖墩儿 | TRADUÇÃO: (coloq.) pessoa baixa e gorda (esp. uma criança)/um roliço
+胖墩墩 | TRADUÇÃO: baixinho e gordinho/atarracado
+胖大海 | TRADUÇÃO: malva-nut/semente de Sterculia lychnophora
+胖子 | TRADUÇÃO: gordo/pessoa gorda
+胖揍 | TRADUÇÃO: (coloq.) dar uma boa surra em alguém
+胖次 | TRADUÇÃO: (gíria da internet) calcinha (estrangeirismo)
+胖头鱼 | TRADUÇÃO: ver 鱅魚|鳙鱼
+胗 | TRADUÇÃO: moela
+胙 | TRADUÇÃO: conceder/outorgar/carne sacrificial oferecida aos deuses (antigo)/bênção/título de soberano (antigo)
+胚乳 | TRADUÇÃO: (botânica) endosperma
+胚囊 | TRADUÇÃO: (botânica) saco embrionário
+胚囊泡 | TRADUÇÃO: (biologia) vesícula blastodérmica
+胚层 | TRADUÇÃO: folheto germinativo/camada de tecido em embriologia
+胚泡 | TRADUÇÃO: (biologia) blastocisto
+胚珠 | TRADUÇÃO: óvulo
+胚胎 | TRADUÇÃO: embrião
+胚胎学 | TRADUÇÃO: embriologia
+胚胎发生 | TRADUÇÃO: embriogênese
+胚芽 | TRADUÇÃO: broto/germe/gérmen
+胚芽米 | TRADUÇÃO: arroz semipolido (arroz sem casca, mas com o gérmen)
+胚芽鞘 | TRADUÇÃO: coleóptilo, bainha protetora que cobre o broto emergente (botânica)
+胛 | TRADUÇÃO: omoplata
+胝 | TRADUÇÃO: usado em 胼胝
+胞 | TRADUÇÃO: placenta/útero/nascido dos mesmos pais
+胞兄 | TRADUÇÃO: irmão mais velho (dos mesmos pais)
+胞嘧啶 | TRADUÇÃO: citosina nucleotídeo (C, pareia com guanina G 鳥嘌呤|鸟嘌呤 no DNA e RNA)
+胞妹 | TRADUÇÃO: irmã mais nova (dos mesmos pais)
+胞姐 | TRADUÇÃO: irmã mais velha (dos mesmos pais)
+胞子 | TRADUÇÃO: variante de 孢子
+胞宫 | TRADUÇÃO: útero; ventre
+胞弟 | TRADUÇÃO: irmão mais novo (dos mesmos pais)
+胞波 | TRADUÇÃO: irmãos do outro lado da fronteira (usado no contexto da amizade China-Mianmar) (estrangeirismo do birmanês "paukphaw", significando "parente próximo")
+胞浆 | TRADUÇÃO: citoplasma
+胞藻 | TRADUÇÃO: algas
+胞衣 | TRADUÇÃO: placenta (restos pós-parto)
+胠 | TRADUÇÃO: flanco de animal/lado/arrombar/roubar
+胠箧 | TRADUÇÃO: roubar/furtar
+胡 | TRADUÇÃO: sobrenome Hu ‖ povos não-han, especialmente da Ásia central/ imprudente/ ultrajante/ o quê?/ por quê?/ completar uma mão vencedora no mahjong (também escrito 和) ‖ usado em 衚衕|胡同 ‖ barba/bigode
+胡乱 | TRADUÇÃO: descuidado/imprudente/casualmente/desatentamente/à vontade/ao acaso/de qualquer jeito
+胡人 | TRADUÇÃO: grupos étnicos ao norte e oeste da China na antiguidade/estrangeiro/bárbaro
+胡佛 | TRADUÇÃO: Hoover (nome)/Herbert Hoover (1874-1964), engenheiro de minas e político republicano dos EUA, presidente (1929-1933)
+胡作非为 | TRADUÇÃO: agir desenfreadamente (expressão idiomática); cometer atrocidades
+胡佳 | TRADUÇÃO: Hu Jia (1973-), ativista chinês dos direitos humanos dissidente
+胡来 | TRADUÇÃO: agir arbitrariamente sem respeitar as regras/mexer com algo/fazer bagunça/causar problemas
+胡兀鹫 | TRADUÇÃO: (espécie de ave da China) abutre-barbudo (Gypaetus barbatus)
+胡克 | TRADUÇÃO: Hook ou Hooke (nome)/Robert Hooke (1635-1703), brilhante cientista experimental e inventor inglês
+胡叼盘 | TRADUÇÃO: apelido pejorativo dado a Hu Xijin 胡錫進|胡锡进 por fazer as vontades do PCC como editor do "Global Times"
+胡吃海喝 | TRADUÇÃO: comer e beber glutonamente/devorar
+胡吃海塞 | TRADUÇÃO: empanturrar-se de comida
+胡同 | TRADUÇÃO: beco; viela/CL:條|条 ‖ variante de 胡同
+胡同儿 | TRADUÇÃO: forma erhua de 胡同
+胡吹 | TRADUÇÃO: gabar-se exageradamente
+胡吣 | TRADUÇÃO: falar de forma provocadora ou sem sentido
+胡图族 | TRADUÇÃO: hutu, grupo étnico em Ruanda e Burundi
+胡涂 | TRADUÇÃO: variante de 糊塗|糊涂
+胡塞尔 | TRADUÇÃO: Edmund Husserl (1859–1938), filósofo alemão
+胡天 | TRADUÇÃO: zoroastrismo
+胡天胡帝 | TRADUÇÃO: com toda a majestade de um imperador (expressão idiomática)/imprudente/intemperante
+胡夫 | TRADUÇÃO: Quéops (faraó, reinou possivelmente 2590-2568 a.C.)
+胡姬花 | TRADUÇÃO: Vanda miss joaquim (orquídea híbrida), flor nacional de Singapura
+胡安 | TRADUÇÃO: Juan (nome próprio espanhol)
+胡弄 | TRADUÇÃO: enganar/iludir/fazer algo de qualquer jeito
+胡志强 | TRADUÇÃO: Jason Hu (1948-), ex-ministro das Relações Exteriores de Taiwan
+胡志明 | TRADUÇÃO: Ho Chi Minh (1890-1969), ex-líder vietnamita/ver também 胡志明市
+胡志明市 | TRADUÇÃO: Cidade de Ho Chi Minh, também conhecida como Saigon, Vietnã
+胡思乱想 | TRADUÇÃO: (expressão idiomática) entregar-se a devaneios; deixar a imaginação correr solta
+胡想 | TRADUÇÃO: entregar-se a devaneios; deixar a imaginação correr solta
+胡慧中 | TRADUÇÃO: Sibelle Hu (1958-), atriz taiwanesa
+胡扯 | TRADUÇÃO: tagarelar/absurdo/bobagem
+胡扯八溜 | TRADUÇÃO: falar bobagem
+胡扯淡 | TRADUÇÃO: bobagem/conversa fiada irresponsável
+胡抡 | TRADUÇÃO: agir precipitadamente
+胡搞 | TRADUÇÃO: fazer bagunça/mexer com algo/ter um caso extraconjugal
+胡搅 | TRADUÇÃO: perturbar/incomodar
+胡搅蛮缠 | TRADUÇÃO: (expressão idiomática) importunar sem parar
+胡桃 | TRADUÇÃO: noz (fruto)
+胡桃夹子 | TRADUÇÃO: O Quebra-Nozes (balé)
+胡椒 | TRADUÇÃO: pimenta-do-reino
+胡椒喷雾 | TRADUÇÃO: spray de pimenta/spray OC
+胡椒子 | TRADUÇÃO: grão de pimenta-do-reino/sementes de pimenta
+胡椒属 | TRADUÇÃO: gênero Piper (Piper spp.)
+胡椒粉 | TRADUÇÃO: pimenta-do-reino moída (em pó)
+胡椒粒 | TRADUÇÃO: grão de pimenta-do-reino/sementes de pimenta
+胡椒薄荷 | TRADUÇÃO: hortelã-pimenta
+胡乐 | TRADUÇÃO: música Hu/música da Ásia central (p. ex., apreciada por literatos da dinastia Tang)
+胡温新政 | TRADUÇÃO: Nova Política Hu-Wen (formada em 2003), liderança supostamente reformista de Hu Jintao 胡錦濤|胡锦涛 e Wen Jiabao 溫家寶|温家宝
+胡燕妮 | TRADUÇÃO: Jenny Hu (1945-), atriz de Hong Kong
+胡牌 | TRADUÇÃO: variante de 和牌
+胡狼 | TRADUÇÃO: chacal
+胡琴 | TRADUÇÃO: huqin/família de violinos chineses de duas cordas, com caixa de madeira coberta de pele de cobra e arco de bambu com crina de cavalo
+胡琴儿 | TRADUÇÃO: variante erhua de 胡琴
+胡瓜 | TRADUÇÃO: pepino
+胡瓜鱼 | TRADUÇÃO: eperlano (família Osmeridae)
+胡笙 | TRADUÇÃO: instrumento de sopro de palheta introduzido pelos povos não-han do Norte e Oeste
+胡紫薇 | TRADUÇÃO: Hu Ziwei (1970-), apresentadora de TV chinesa
+胡编 | TRADUÇÃO: inventar/concoctar (uma história, desculpa etc.)
+胡编乱造 | TRADUÇÃO: inventar uma história absurda (expressão idiomática)/criar coisas
+胡缠 | TRADUÇÃO: importunar/envolver alguém de forma irracional
+胡耀邦 | TRADUÇÃO: Hu Yaobang (1915-1989), político chinês
+胡臭 | TRADUÇÃO: variante de 狐臭
+胡芫 | TRADUÇÃO: coentro
+胡花 | TRADUÇÃO: esbanjar dinheiro/gastar dinheiro de forma imprudente
+胡荽 | TRADUÇÃO: coentro
+胡芦巴 | TRADUÇÃO: feno-grego
+胡萝卜 | TRADUÇÃO: cenoura
+胡萝卜素 | TRADUÇÃO: caroteno
+胡蜂 | TRADUÇÃO: vespa/abelhão
+胡蝶 | TRADUÇÃO: variante de 蝴蝶
+胡言乱语 | TRADUÇÃO: (expressão idiomática) falar disparates sem sentido/absurdos sem fundamento
+胡话 | TRADUÇÃO: absurdo/fala ridícula/dito sem sentido
+胡说 | TRADUÇÃO: falar bobagem/dizer tolices
+胡说八道 | TRADUÇÃO: falar besteira
+胡诌 | TRADUÇÃO: inventar absurdos/criar desculpas/falar ao acaso/disparate sem nexo
+胡诌乱傍 | TRADUÇÃO: (expressão idiomática) falar tolices ao acaso/dizer o que vem à cabeça
+胡诌乱扯 | TRADUÇÃO: (expressão idiomática) falar bobagens/dizer o que vem à cabeça
+胡诌乱说 | TRADUÇÃO: (expressão idiomática) falar tolices ao acaso/dizer o que vem à cabeça
+胡诌乱道 | TRADUÇÃO: (expressão idiomática) falar bobagens/dizer o que vem à cabeça
+胡诌八扯 | TRADUÇÃO: (expressão idiomática) falar tolices ao acaso/dizer o que vem à cabeça
+胡豆 | TRADUÇÃO: fava (Vicia faba)
+胡越 | TRADUÇÃO: os povos do norte, oeste e sul da China ‖ grande distância/desastre/calamidade
+胡适 | TRADUÇÃO: Hu Shi (1891-1962), proponente original da escrita em chinês coloquial 白話文|白话文
+胡鄂公 | TRADUÇÃO: Hu Egong (1884-1951), revolucionário e político chinês
+胡铨 | TRADUÇÃO: Hu Quan (1102-1180), funcionário e poeta da dinastia Song
+胡锦涛 | TRADUÇÃO: Hu Jintao (1942-), Secretário-Geral do PCC 2002-2012, presidente da RPC 2003-2013
+胡锡进 | TRADUÇÃO: Hu Xijin (1960-), editor-chefe do "Global Times" 環球時報|环球时报 2005-2021
+胡雁 | TRADUÇÃO: ganso tártaro, ganso selvagem encontrado em territórios a noroeste da China na antiguidade
+胡闹 | TRADUÇÃO: agir de forma voluntariosa e fazer escândalo/criar confusão
+胡麻 | TRADUÇÃO: gergelim/(botânica) linho/linhaça
+胡麻籽 | TRADUÇÃO: semente de gergelim
+胤 | TRADUÇÃO: descendente/herdeiro/prole/posteridade/herdar
+胥 | TRADUÇÃO: sobrenome Xu ‖ todos/auxiliar/armazenar
+胥吏 | TRADUÇÃO: funcionário governamental de baixo escalão (antigamente)
+胦 | TRADUÇÃO: umbigo
+胩 | TRADUÇÃO: carbilamina/isocianeto
+胬 | TRADUÇÃO: usado em 胬肉
+胬肉 | TRADUÇÃO: pterígio (medicina)
+胭 | TRADUÇÃO: rouge ‖ variante de 胭
+胭脂 | TRADUÇÃO: rouge
+胭脂虫 | TRADUÇÃO: cochonilha
+胭脂鱼 | TRADUÇÃO: peixe-lua-de-nadadeira-alta-chinês (Myxocyprinus asiaticus)
+胯 | TRADUÇÃO: virilha/região da virilha/quadril
+胯下之辱 | TRADUÇÃO: (lit.) a humilhação de ter que rastejar entre as pernas do adversário (como Han Xin 韓信|韩信 supostamente fez em vez de travar uma luta de espadas) (expressão idiomática)/(fig.) (suportar) humilhação total
+胯下物 | TRADUÇÃO: (gíria) pênis/pau
+胯间 | TRADUÇÃO: virilha/entrepernas
+胯骨 | TRADUÇÃO: osso do quadril
+胰 | TRADUÇÃO: pâncreas
+胰子 | TRADUÇÃO: pâncreas (de animal doméstico)/(dialeto) sabão
+胰岛 | TRADUÇÃO: (anatomia) ilhotas pancreáticas; ilhotas de Langerhans
+胰岛素 | TRADUÇÃO: insulina
+胰液 | TRADUÇÃO: suco pancreático
+胰腺 | TRADUÇÃO: pâncreas
+胰腺炎 | TRADUÇÃO: pancreatite
+胰脏 | TRADUÇÃO: pâncreas
+胰脏炎 | TRADUÇÃO: pancreatite
+胱 | TRADUÇÃO: usado em 膀胱
+胲 | TRADUÇÃO: hidroxilamina (química)
+胳肢 | TRADUÇÃO: (dialeto) fazer cócegas
+胳肢窝 | TRADUÇÃO: axila/também pronúncia [ge1 zhi5 wo1]/também escrito 夾肢窩|夹肢窝
+胳膊 | TRADUÇÃO: braço/CL:隻|只,條|条,雙|双
+胳膊拧不过大腿 | TRADUÇÃO: (expressão idiomática) o fraco não pode vencer o forte
+胳膊肘 | TRADUÇÃO: cotovelo
+胳膊肘子 | TRADUÇÃO: ver 胳膊肘
+胳膊肘往外拐 | TRADUÇÃO: ver 胳膊肘朝外拐
+胳膊肘朝外拐 | TRADUÇÃO: lit. o cotovelo vira para fora (expressão idiomática)/fig. ficar do lado de estranhos em vez dos seus
+胳臂 | TRADUÇÃO: braço/CL:條|条,隻|只/também pronúncia [ge1 bi4]
+胳臂箍儿 | TRADUÇÃO: braçadeira
+胳臂肘儿 | TRADUÇÃO: cotovelo
+胴 | TRADUÇÃO: intestino grosso/tronco
+胴体 | TRADUÇÃO: carcaça/corpo nu
+胸 | TRADUÇÃO: variante de 胸 ‖ peito/bosque/coração/mente/tórax
+胸中 | TRADUÇÃO: a mente de alguém
+胸中无数 | TRADUÇÃO: ver 心中無數|心中无数
+胸乳 | TRADUÇÃO: seio (de mulher)
+胸前 | TRADUÇÃO: (no) peito/colo
+胸卡 | TRADUÇÃO: crachá/etiqueta de identificação/carteira de identidade (usada no peito)
+胸口 | TRADUÇÃO: peito
+胸噎 | TRADUÇÃO: engasgo torácico (arreio animal)
+胸围 | TRADUÇÃO: medida do peito/busto
+胸大无脑 | TRADUÇÃO: (ter) peitos grandes mas sem cérebro/burra de peito
+胸大肌 | TRADUÇÃO: músculo peitoral maior
+胸宽 | TRADUÇÃO: largura do peito
+胸廓 | TRADUÇÃO: tórax
+胸廓切开术 | TRADUÇÃO: toracotomia (medicina)
+胸闷 | TRADUÇÃO: dor no peito/aperto no peito
+胸怀 | TRADUÇÃO: peito (assento das emoções)/coração/mente aberta e tolerante/pensar em/alimentar
+胸怀坦荡 | TRADUÇÃO: (expressão idiomática) aberto e franco/sem esconder nada/ingênuo/altruísta/magnânimo/mente aberta
+胸推 | TRADUÇÃO: massagem com os seios
+胸有丘壑 | TRADUÇÃO: perspicaz/astuto
+胸有城府 | TRADUÇÃO: modo de pensar sutil (expressão idiomática); difícil de compreender/profundo e astuto
+胸有成略 | TRADUÇÃO: o herói já tem planos traçados (expressão idiomática); ter planos prontos antecipadamente/prevenido vale por dois
+胸有成竹 | TRADUÇÃO: (expressão idiomática) ter um plano bem elaborado em mente
+胸有成算 | TRADUÇÃO: o herói já tem planos traçados (expressão idiomática); ter planos prontos antecipadamente/prevenido vale por dois
+胸椎 | TRADUÇÃO: vértebra torácica/as doze vértebras torácicas atrás da caixa torácica de humanos e da maioria dos mamíferos
+胸槽 | TRADUÇÃO: fenda (espaço entre os seios de uma mulher)
+胸无城府 | TRADUÇÃO: (expressão idiomática) aberto e franco/sem esconder nada/ingênuo
+胸无大志 | TRADUÇÃO: (expressão idiomática) não ter aspirações/sem ambição
+胸无宿物 | TRADUÇÃO: (expressão idiomática) aberto e franco/sem esconder nada/ingênuo
+胸墙 | TRADUÇÃO: parapeito/muro defensivo/parapeito de trincheira
+胸牌 | TRADUÇÃO: crachá/etiqueta de identificação/carteira de identidade (usada no peito)
+胸甲 | TRADUÇÃO: peitoral/couraça
+胸章 | TRADUÇÃO: distintivo de lapela/CL:枚
+胸罩 | TRADUÇÃO: sutiã / sutiã (roupa íntima)
+胸肉 | TRADUÇÃO: carne do peito (peito de frango, peito bovino etc.)
+胸肌 | TRADUÇÃO: músculos peitorais
+胸胁 | TRADUÇÃO: tórax e hipocôndrio / parte superior do corpo
+胸脯 | TRADUÇÃO: peito
+胸腔 | TRADUÇÃO: cavidade torácica
+胸腺 | TRADUÇÃO: timo
+胸腺嘧啶 | TRADUÇÃO: timina (nucleotídeo T, que pareia com adenina A 腺嘌呤 no DNA)
+胸膛 | TRADUÇÃO: peito
+胸膜 | TRADUÇÃO: (anatomia) pleura
+胸膜炎 | TRADUÇÃO: pleurisia
+胸臆 | TRADUÇÃO: sentimentos íntimos / o que está no fundo do coração
+胸花 | TRADUÇÃO: ramo de lapela / boutonnière
+胸襟 | TRADUÇÃO: lapela de jaqueta / coração / aspiração / visão
+胸透 | TRADUÇÃO: fluoroscopia torácica
+胸部 | TRADUÇÃO: peito / seios
+胸针 | TRADUÇÃO: broche
+胸靶 | TRADUÇÃO: silhueta de peito (usada como alvo em treino de tiro)
+胸音 | TRADUÇÃO: voz de peito
+胸骨 | TRADUÇÃO: esterno
+胸鳍 | TRADUÇÃO: nadadeira peitoral
+胹 | TRADUÇÃO: cozido demais / macio
+胺 | TRADUÇÃO: (química) amina / pronúncia coloquial [an1]; pronúncia em Taiwan [an1]
+胺基酸 | TRADUÇÃO: (Taiwan) aminoácido
+胻 | TRADUÇÃO: panturrilha (parte inferior da perna) / (arcaico) barriga
+胼 | TRADUÇÃO: usado em 胼胝
+胼手胝足 | TRADUÇÃO: lit. com calos nas mãos e nos pés (expressão idiomática) / fig. trabalhar até moer os ossos
+胼胝 | TRADUÇÃO: calo
+胼胝体 | TRADUÇÃO: (anatomia) corpo caloso
+能 | TRADUÇÃO: sobrenome Neng ‖ poder; ser capaz de / talvez; possivelmente / habilidade / (física) energia
+能上能下 | TRADUÇÃO: pronto para assumir qualquer cargo, alto ou baixo
+能事 | TRADUÇÃO: habilidades particulares / forte
+能人 | TRADUÇÃO: pessoa capaz / Homo habilis, espécie extinta de hominídeo ereto do Leste Africano
+能伸能屈 | TRADUÇÃO: veja 能屈能伸
+能力 | TRADUÇÃO: capacidade / habilidade / CL:個|个
+能动性 | TRADUÇÃO: iniciativa / papel ativo
+能否 | TRADUÇÃO: se pode; se é possível
+能够 | TRADUÇÃO: ser capaz de / poder
+能写会算 | TRADUÇÃO: (expressão idiomática) ser alfabetizado e ter habilidades matemáticas
+能屈能伸 | TRADUÇÃO: pode curvar-se e submeter-se, ou pode ficar ereto (expressão idiomática, do Livro das Mutações) / pronto para ceder e dar / flexível
+能干 | TRADUÇÃO: capaz / competente
+能彀 | TRADUÇÃO: variante antiga de 能夠|能够
+能手 | TRADUÇÃO: especialista / perito
+能效 | TRADUÇÃO: eficiência energética
+能歌善舞 | TRADUÇÃO: sabe cantar e dançar (expressão idiomática) / fig. pessoa de muitos talentos
+能源 | TRADUÇÃO: fontes de energia; energia
+能源危机 | TRADUÇÃO: crise energética
+能级 | TRADUÇÃO: nível de energia
+能者多劳 | TRADUÇÃO: (expressão idiomática) são os mais capazes que mais trabalham (usado como consolo para os sobrecarregados ou como elogio ao fazer um pedido)
+能耐 | TRADUÇÃO: habilidade / capacidade
+能耗 | TRADUÇÃO: consumo de energia
+能见度 | TRADUÇÃO: visibilidade
+能言善辩 | TRADUÇÃO: de língua afiada (expressão idiomática) / eloqüente
+能诗善文 | TRADUÇÃO: altamente letrado / lit. capaz em poesia, proficiente em prosa
+能说会道 | TRADUÇÃO: fala muito bem (expressão idiomática) / ter o dom da palavra
+能量 | TRADUÇÃO: energia / capacidades
+能量代谢 | TRADUÇÃO: metabolismo energético
+能量守恒 | TRADUÇÃO: conservação de energia (física)
+能量饮料 | TRADUÇÃO: bebida energética
+能愿动词 | TRADUÇÃO: verbo modal (ex.: 肯, 能, 會|会, 要, 該|该, 得, 願意|愿意, 可以, 可能, 敢, 應該|应该)
+胾 | TRADUÇÃO: carne cortada em pedaços / carne em cubos
+脂 | TRADUÇÃO: gordura / rouge (cosméticos) / resina
+脂环烃 | TRADUÇÃO: hidrocarboneto alicíclico (i.e., que envolve anel que não o benzeno)
+脂粉 | TRADUÇÃO: cosméticos
+脂粉气 | TRADUÇÃO: qualidade feminina / efeminado
+脂肪 | TRADUÇÃO: gordura (no corpo, em planta ou em alimento)
+脂肪团 | TRADUÇÃO: celulite
+脂肪肝 | TRADUÇÃO: fígado gorduroso
+脂肪酸 | TRADUÇÃO: ácido graxo
+脂膏 | TRADUÇÃO: gordura / graxa / riquezas / fortuna / frutos do trabalho
+脂蛋白 | TRADUÇÃO: lipoproteína
+脂质体 | TRADUÇÃO: lipossomo (vesícula lipídica bicamada)
+脂酸 | TRADUÇÃO: veja 脂肪酸
+脂麻 | TRADUÇÃO: variante de 芝麻
+脆 | TRADUÇÃO: variante antiga de 脆 ‖ quebradiço / frágil / crocante / estaladiço / voz clara e alta / elegante
+胁 | TRADUÇÃO: flanco (lado do torso) / coagir / ameaçar ‖ variante de 脅|胁
+胁从犯 | TRADUÇÃO: cúmplice sob coação; cúmplice coagido; cúmplice induzido
+胁持 | TRADUÇÃO: manter sob coação
+胁迫 | TRADUÇÃO: coagir / compelir / forçar
+脆弱 | TRADUÇÃO: fraco / frágil
+脆爽 | TRADUÇÃO: (de comida) crocante e saboroso / (de voz ou som) agudo e claro
+脆片 | TRADUÇÃO: chips / batata frita em pacote (tipo batata palha)
+脆皮 | TRADUÇÃO: pele crocante (de comida)
+脆谷乐 | TRADUÇÃO: Cheerios (cereal matinal)
+脆脆 | TRADUÇÃO: crocante
+脆骨 | TRADUÇÃO: cartilagem
+脉动 | TRADUÇÃO: pulso / pulsação / vibração
+脉口 | TRADUÇÃO: localização no pulso sobre a artéria radial onde se toma o pulso na MTC
+脉压 | TRADUÇÃO: pressão arterial
+脉息 | TRADUÇÃO: pulso
+脉搏 | TRADUÇÃO: pulso (tanto médico quanto figurado)
+脉案 | TRADUÇÃO: (MTC) diagnóstico, geralmente escrito na receita / prontuário médico
+脉石 | TRADUÇÃO: (mineração) ganga / veio de minério
+脉管 | TRADUÇÃO: vascular (composto de vasos)
+脉管组织 | TRADUÇÃO: tecido vascular
+脉络 | TRADUÇÃO: artérias e veias / rede de vasos sanguíneos / sistema vascular (de planta ou animal) / (fig.) tecido (estrutura subjacente) / contexto geral
+脉络膜 | TRADUÇÃO: coroide (camada vascular do globo ocular entre a retina e a esclera)
+脉脉 | TRADUÇÃO: afetuoso / amoroso
+脉冲 | TRADUÇÃO: pulso (física)
+脉冲星 | TRADUÇÃO: pulsar (astronomia)
+脉冲波 | TRADUÇÃO: ver 脈衝|脉冲
+脉诊 | TRADUÇÃO: (MTC) diagnóstico pela palpação do pulso / fazer tal diagnóstico
+脉象 | TRADUÇÃO: condição ou tipo de pulso (na medicina chinesa)
+脉轮 | TRADUÇÃO: chacra
+脉门 | TRADUÇÃO: lado interno do pulso, onde se sente o pulso
+脊 | TRADUÇÃO: (forma presa) coluna vertebral; espinha dorsal / (forma presa) crista; cume
+脊令 | TRADUÇÃO: variante de 鶺鴒|鹡鸰
+脊柱 | TRADUÇÃO: coluna vertebral / columna vertebralis
+脊柱侧凸 | TRADUÇÃO: escoliose
+脊柱侧弯 | TRADUÇÃO: escoliose
+脊柱裂 | TRADUÇÃO: espinha bífida
+脊梁 | TRADUÇÃO: espinha dorsal; coluna vertebral; pronúncia em Taiwan [ji3 liang5] ‖ (coloq.) costas (de um humano ou outro vertebrado)
+脊梁骨 | TRADUÇÃO: espinha dorsal; coluna vertebral
+脊椎 | TRADUÇÃO: vértebra / espinha dorsal
+脊椎侧弯 | TRADUÇÃO: escoliose
+脊椎动物 | TRADUÇÃO: vertebrado
+脊椎动物门 | TRADUÇÃO: Vertebrata, o filo dos vertebrados
+脊椎指压治疗师 | TRADUÇÃO: quiroprático; quiropraxista
+脊椎指压疗法 | TRADUÇÃO: terapia quiroprática; quiropraxia
+脊椎骨 | TRADUÇÃO: vértebra
+脊灰 | TRADUÇÃO: pólio (abrev. de 脊髓灰質炎|脊髓灰质炎)
+脊索 | TRADUÇÃO: notocorda (anatomia)
+脊索动物 | TRADUÇÃO: cordado
+脊索动物门 | TRADUÇÃO: Chordata, filo que contém os vertebrados
+脊线 | TRADUÇÃO: linha de crista; linha de cumeada
+脊背 | TRADUÇÃO: costas (de um humano ou outro vertebrado)
+脊骨 | TRADUÇÃO: espinha dorsal; coluna vertebral
+脊骨神经医学 | TRADUÇÃO: quiropraxia
+脊髓 | TRADUÇÃO: medula espinhal / medulla spinalis
+脊髓灰质炎 | TRADUÇÃO: poliomielite
+脊髓炎 | TRADUÇÃO: mielite; inflamação da medula espinhal
+脒 | TRADUÇÃO: amidina (química)
+脖 | TRADUÇÃO: pescoço
+脖子 | TRADUÇÃO: pescoço / CL:個|个
+脖梗 | TRADUÇÃO: variante de 脖頸|脖颈
+脖梗儿 | TRADUÇÃO: forma com erhua de 脖梗
+脖梗子 | TRADUÇÃO: variante de 脖頸子|脖颈子
+脖领 | TRADUÇÃO: gola de camisa
+脖颈 | TRADUÇÃO: nuca; parte de trás do pescoço
+脖颈儿 | TRADUÇÃO: forma com erhua de 脖頸|脖颈
+脖颈子 | TRADUÇÃO: ver 脖頸|脖颈
+脘 | TRADUÇÃO: cavidade interna do estômago
+胫 | TRADUÇÃO: parte inferior da perna ‖ variante de 脛|胫
+胫骨 | TRADUÇÃO: tíbia; canela
+脝 | TRADUÇÃO: gordo / inchado
+脞 | TRADUÇÃO: carne picada / ninharias
+脡 | TRADUÇÃO: carne de peito (de animal) / reto
+脢 | TRADUÇÃO: carne no dorso de um animal
+脤 | TRADUÇÃO: carne sacrificial (crua)
+𣍰 | TRADUÇÃO: cavidade pélvica / baixo ventre
+脧 | TRADUÇÃO: variante de 朘
+脨 | TRADUÇÃO: variante antiga de 瘠
+脩 | TRADUÇÃO: carne seca oferecida pelos alunos ao professor no primeiro encontro (nos tempos antigos) / seco; murcho
+脱 | TRADUÇÃO: tirar; despir / escapar; fugir / livrar-se de
+脱下 | TRADUÇÃO: tirar (roupa)
+脱不了身 | TRADUÇÃO: ocupado e sem poder se ausentar
+脱亚入欧 | TRADUÇÃO: abandonar os velhos costumes (asiáticos) e aprender com a Europa / refere-se às ideias que levaram à Restauração Meiji e aos subsequentes projetos de colonização do Japão na Ásia
+脱俗 | TRADUÇÃO: livre de vulgaridade / refinado / excepcional
+脱光 | TRADUÇÃO: despir-se completamente / ficar nu / (coloq.) encontrar um parceiro
+脱出 | TRADUÇÃO: libertar-se / desvencilhar-se / escapar / sair dos limites de
+脱力 | TRADUÇÃO: exausto; sem forças
+脱北者 | TRADUÇÃO: refugiado norte-coreano
+脱卸 | TRADUÇÃO: evadir responsabilidade / esquivar-se
+脱去 | TRADUÇÃO: livrar-se de; despojar-se de
+脱口 | TRADUÇÃO: deixar escapar (palavras)
+脱口秀 | TRADUÇÃO: (estrangeirismo) talk show / stand-up comedy
+脱口而出 | TRADUÇÃO: (expressão idiomática) deixar escapar; revelar (um comentário indiscreto)
+脱咖啡因 | TRADUÇÃO: descafeinado / sem cafeína / ver também 無咖啡因|无咖啡因
+脱售 | TRADUÇÃO: vender; desfazer-se de (mercadorias)
+脱单 | TRADUÇÃO: (neologismo) encontrar um parceiro romântico
+脱困 | TRADUÇÃO: sair de uma situação difícil
+脱垂 | TRADUÇÃO: prolapso
+脱孝 | TRADUÇÃO: cumprir o período de luto
+脱岗 | TRADUÇÃO: tirar uma folga; ausentar-se (p.ex. para estudar) / matar serviço; vadiar no trabalho
+脱序 | TRADUÇÃO: desordem; caos
+脱手 | TRADUÇÃO: (não comércio regular) vender ou desfazer-se de (mercadorias etc.) / livrar-se de / descarregar
+脱掉 | TRADUÇÃO: remover; tirar / despir; despojar-se de / descartar / desvencilhar-se de / sair; cair (roupa etc.)
+脱换 | TRADUÇÃO: mudar de pele; ecdise
+脱支 | TRADUÇÃO: dessinização e rejeição da cultura Han
+脱敏 | TRADUÇÃO: dessensibilizar; tornar-se dessensibilizado / anonimizar (dados); remover conteúdo sensível
+脱星 | TRADUÇÃO: ator ou atriz conhecido por ter sido fotografado nu ou por aparecer em cenas sensuais
+脱期 | TRADUÇÃO: não sair no prazo / perder um prazo
+脱机 | TRADUÇÃO: off-line
+脱档 | TRADUÇÃO: esgotado; sem estoque
+脱欧 | TRADUÇÃO: retirar-se da União Europeia / abrev. de 脫離歐盟|脱离欧盟
+脱壳 | TRADUÇÃO: sair da casca do ovo / mudar de pele; ecdise / descascar; remover a casca / descamar
+脱毛 | TRADUÇÃO: perder pelo ou pena / mudar de pelo; ecdise / depilação / barbear
+脱毛剂 | TRADUÇÃO: medicamento depilatório
+脱氧 | TRADUÇÃO: desoxidação
+脱氧核糖 | TRADUÇÃO: desoxirribose
+脱氧核糖核酸 | TRADUÇÃO: DNA
+脱氧核苷酸 | TRADUÇÃO: desoxirribonucleosídeo monofosfato / dNMP
+脱氧麻黄碱 | TRADUÇÃO: metanfetamina
+脱氢 | TRADUÇÃO: desidrogenação
+脱氢酶 | TRADUÇÃO: desidrogenase (enzima)
+脱水 | TRADUÇÃO: secar / extrair água / desidratação / desidratado / dessecação
+脱水机 | TRADUÇÃO: dispositivo para extrair água (como uma centrífuga)
+脱泥 | TRADUÇÃO: remover lama / deslamação (na produção de carvão)
+脱浅 | TRADUÇÃO: reflutuar (um barco que encalhou)
+脱溶 | TRADUÇÃO: precipitar (sólido de uma solução)

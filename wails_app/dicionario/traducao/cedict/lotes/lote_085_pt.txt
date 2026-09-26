@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+紧迫 | TRADUÇÃO: urgente/pressionante
+紧迫盯人 | TRADUÇÃO: (esportes) marcar de perto um adversário/(fig.) vigiar de perto; monitorar estreitamente
+紧追 | TRADUÇÃO: perseguir de perto
+紧逼 | TRADUÇÃO: pressionar/acuarr
+紧邻 | TRADUÇÃO: estar bem ao lado/vizinho próximo
+紧锣密鼓 | TRADUÇÃO: (lit.) batida urgente de gongos e tambores (expressão idiomática)/(fig.) preparar-se apressadamente para um evento iminente
+紧闭 | TRADUÇÃO: fechar bem/fechado com segurança/seguro
+紧随其后 | TRADUÇÃO: seguir bem de perto alguém ou algo (expressão idiomática)
+紧集 | TRADUÇÃO: conjunto compacto
+紧靠 | TRADUÇÃO: estar bem ao lado de/encostar-se firmemente contra
+绯 | TRADUÇÃO: vermelho-escuro/seda púrpura
+绯红 | TRADUÇÃO: carmesim/escarlate
+绯闻 | TRADUÇÃO: escândalo sexual
+绯胸鹦鹉 | TRADUÇÃO: (espécie de ave da China) periquito-de-peito-vermelho (Psittacula alexandri)
+緌 | TRADUÇÃO: cordões de um chapéu
+𦈏 | TRADUÇÃO: variante antiga de 緡|缗
+緎 | TRADUÇÃO: costura
+繁 | TRADUÇÃO: variante antiga de 繁 ‖ sobrenome Bo ‖ complicado/muitos/em grande número/abrev. de 繁體|繁体, forma tradicional dos caracteres chineses
+绪 | TRADUÇÃO: começos/pistas/estado mental/fio
+绪言 | TRADUÇÃO: ver 緒論|绪论
+绪论 | TRADUÇÃO: introdução/capítulo introdutório
+绱 | TRADUÇÃO: sola de sapato
+绱鞋 | TRADUÇÃO: variante de 上鞋
+緖 | TRADUÇÃO: variante de 緒|绪
+缃 | TRADUÇÃO: cor amarelo-claro
+缄口不言 | TRADUÇÃO: ver 閉口不言|闭口不言
+缄默 | TRADUÇÃO: ficar em silêncio
+缂 | TRADUÇÃO: usado em 緙絲|缂丝
+缂丝 | TRADUÇÃO: kesi ou k’o-ssu, tapeçaria de seda chinesa tecida em desenho pictórico
+线上 | TRADUÇÃO: online
+线上查询 | TRADUÇÃO: consulta online
+线下 | TRADUÇÃO: offline/abaixo da linha
+线人 | TRADUÇÃO: espião/informante
+线圈 | TRADUÇÃO: solenoide (engenharia elétrica)/bobina
+线圈般 | TRADUÇÃO: solenoide (engenharia elétrica)/bobina
+线图 | TRADUÇÃO: desenho linear/diagrama/gráfico de linhas
+线团 | TRADUÇÃO: novelo de barbante
+线报 | TRADUÇÃO: dica (informação)
+线尾燕 | TRADUÇÃO: (espécie de ave da China) andorinha-de-cauda-de-arame (Hirundo smithii)
+线形图 | TRADUÇÃO: gráfico de linhas
+线性 | TRADUÇÃO: linear/linearidade
+线性代数 | TRADUÇÃO: álgebra linear
+线性回归 | TRADUÇÃO: regressão linear (estatística)
+线性图 | TRADUÇÃO: gráfico de linhas
+线性方程 | TRADUÇÃO: equação linear (mat.)
+线性波 | TRADUÇÃO: onda linear
+线性空间 | TRADUÇÃO: (mat.) espaço vetorial; espaço linear
+线性算子 | TRADUÇÃO: operador linear (mat.)
+线性系统 | TRADUÇÃO: sistema linear
+线性规划 | TRADUÇÃO: programação linear
+线杆 | TRADUÇÃO: poste telefônico/poste de utilidade pública
+线条 | TRADUÇÃO: linha (em desenho, caligrafia etc)/linhas ou contornos de um objeto tridimensional (penteado, roupa, carro etc)
+线段 | TRADUÇÃO: segmento de reta
+线状 | TRADUÇÃO: linear
+线程 | TRADUÇÃO: (informática) thread
+线粒体 | TRADUÇÃO: mitocôndria
+线索 | TRADUÇÃO: rastro/pistas/fio (de uma história)
+线绳 | TRADUÇÃO: corda de algodão; barbante
+线缆 | TRADUÇÃO: cabo/fio/cordoalha (computador)
+线脚 | TRADUÇÃO: costura; pesponto/guarnição decorativa; moldura (usada para ocultar juntas em arquitetura ou design de interiores)
+线虫 | TRADUÇÃO: nematódeo
+线西 | TRADUÇÃO: Xianxi ou Distrito de Hsienhsi no Condado de Changhua 彰化縣|彰化县, Taiwan
+线西乡 | TRADUÇÃO: Xianxi ou Distrito de Hsienhsi no Condado de Changhua 彰化縣|彰化县, Taiwan
+线路 | TRADUÇÃO: (eletricidade) linha; circuito; fio/(trânsito) estrada; via; rota
+线轴 | TRADUÇÃO: carretel de linha
+线速度 | TRADUÇÃO: velocidade linear
+线锯 | TRADUÇÃO: serra tico-tico/serra de recortes
+线香 | TRADUÇÃO: bastão de incenso
+緛 | TRADUÇÃO: (arcaico) encurtar
+缉 | TRADUÇÃO: apreender; prender/Taiwan pron. [qi4] ‖ costurar finamente
+缉拿 | TRADUÇÃO: prender/apreender
+缉捕 | TRADUÇÃO: apreender/deter/uma prisão
+缉查 | TRADUÇÃO: realizar inspeções de fiscalização (para atividade ilegal)
+缉毒 | TRADUÇÃO: combate ao narcotráfico/repressão a drogas
+缉毒犬 | TRADUÇÃO: cão detector de drogas/cão farejador
+缉获 | TRADUÇÃO: prender/apreender
+缉私 | TRADUÇÃO: reprimir contrabandistas/fiscalizar mercadorias contrabandeadas
+缉访 | TRADUÇÃO: buscar e investigar
+缎 | TRADUÇÃO: cetim
+缎子 | TRADUÇÃO: cetim
+缎布 | TRADUÇÃO: cetim
+缎带 | TRADUÇÃO: fita
+缎纹织 | TRADUÇÃO: trama de cetim
+缎织 | TRADUÇÃO: trama de cetim
+缔 | TRADUÇÃO: (arcaico) amarrar inextricavelmente/(forma ligada) formar uma união duradoura; estabelecer (uma aliança, amizade, nação etc)
+缔约 | TRADUÇÃO: concluir um tratado
+缔约国 | TRADUÇÃO: estados signatários/países que são parte de um tratado
+缔约方 | TRADUÇÃO: parte em um contrato, tratado etc
+缔结 | TRADUÇÃO: concluir (um acordo)
+缔造 | TRADUÇÃO: fundar/criar
+缔造者 | TRADUÇÃO: criador (de uma grande obra)/fundador
+缗 | TRADUÇÃO: corda/linha de pesca/novelo de moedas
+缘 | TRADUÇÃO: causa/razão/carma/destino/afinidade predestinada/margem/bainha/beira/ao longo de
+缘何 | TRADUÇÃO: (literário) por quê?; por qual motivo?
+缘分 | TRADUÇÃO: destino ou acaso que une pessoas/afinidade ou relação predestinada/(bud.) destino
+缘故 | TRADUÇÃO: razão/causa
+缘于 | TRADUÇÃO: originar-se de/vir do fato de que/devido a/por causa de
+缘木求鱼 | TRADUÇÃO: lit. subir em árvore para pegar peixe (expressão idiomática); fig. tentar o impossível
+缘由 | TRADUÇÃO: razão/causa
+缘起 | TRADUÇÃO: originar-se/origem; gênese/relato das origens de um empreendimento
+缘饰 | TRADUÇÃO: orla/debuxo
+緤 | TRADUÇÃO: variante de 紲|绁
+褓 | TRADUÇÃO: variante de 褓 ‖ usado em 襁褓/usado em 褓姆 e 褓母
+缌 | TRADUÇÃO: linho fino
+编 | TRADUÇÃO: tecer/trançar/organizar/agrupar/arranjar/editar/compilar/escrever/compor/inventar/fabricar
+编修 | TRADUÇÃO: compilar e editar
+编入 | TRADUÇÃO: incluir (numa lista etc)/designar (para uma turma, unidade de trabalho etc)
+编列 | TRADUÇÃO: arranjar em ordem/compilar/preparar (um orçamento, projeto etc)
+编制 | TRADUÇÃO: estabelecer (uma unidade ou departamento)/lotação de pessoal autorizada no governo ou instituições públicas (excluindo pessoal temporário ou terceirizado ‖ tecer; trançar/compilar; organizar (plano de aula, orçamento etc)
+编剧 | TRADUÇÃO: escrever uma peça/roteirista/dramaturgo/roteirista
+编务 | TRADUÇÃO: edição (trabalho de editor)
+编印 | TRADUÇÃO: compilar e imprimir/publicar
+编审 | TRADUÇÃO: revisar/revisor
+编写 | TRADUÇÃO: compilar
+编导 | TRADUÇÃO: escrever e dirigir (uma peça, filme etc)/dramaturgo-diretor/coreógrafo-diretor/roteirista-diretor
+编年史 | TRADUÇÃO: anais/crônica
+编年体 | TRADUÇÃO: no estilo de anais/história cronológica, a forma regular das histórias dinásticas chinesas
+编成 | TRADUÇÃO: organizar/reunir/editar
+编排 | TRADUÇÃO: arranjar/dispor
+编撰 | TRADUÇÃO: compilar/editar
+编曲 | TRADUÇÃO: compor (música)/arranjo (musical)
+编次 | TRADUÇÃO: arranjar em sequência/sequência em que as coisas são arranjadas
+编班 | TRADUÇÃO: agrupar alunos em turmas/dividir pessoas (funcionários etc) em grupos
+编班考试 | TRADUÇÃO: teste de nivelamento
+编目 | TRADUÇÃO: catalogar/catálogo/lista
+编码 | TRADUÇÃO: codificar/código
+编码器 | TRADUÇÃO: codificador
+编磬 | TRADUÇÃO: instrumento musical consistindo de um conjunto de pedras sonoras suspensas de uma viga e tocadas como um xilofone
+编程 | TRADUÇÃO: (computação) programar/programação
+编组 | TRADUÇÃO: organizar em grupos/formação (de trens)
+编结 | TRADUÇÃO: tecer/trançar
+编织 | TRADUÇÃO: tecer; tricotar; trançar; entrançar/(fig.) criar (algo abstrato, como um sonho, uma mentira etc)
+编织品 | TRADUÇÃO: tecido trançado
+编纂 | TRADUÇÃO: compilar (uma enciclopédia etc)
+编者 | TRADUÇÃO: editor; compilador
+编者按 | TRADUÇÃO: comentário do editor
+编者案 | TRADUÇÃO: variante de 編者按|编者按
+编舞 | TRADUÇÃO: coreografia/coreógrafo
+编著 | TRADUÇÃO: compilar/escrever
+编号 | TRADUÇÃO: numerar; atribuir números/número de série
+编注 | TRADUÇÃO: nota do editor
+编译 | TRADUÇÃO: traduzir e editar/tradutor-editor/(computação) compilar (código fonte)
+编译器 | TRADUÇÃO: compilador (programa)
+编译家 | TRADUÇÃO: tradutor e editor
+编辑 | TRADUÇÃO: editar/compilar/editor/compilador
+编辑器 | TRADUÇÃO: editor (software)
+编辑室 | TRADUÇÃO: sala de redação
+编辑家 | TRADUÇÃO: editor/compilador
+编造 | TRADUÇÃO: compilar/redigir/fabricar/inventar/forjar/criar/urdir
+编遣 | TRADUÇÃO: reorganizar (tropas etc) e dispensar pessoal excedente
+编选 | TRADUÇÃO: selecionar e editar/compilar
+编录 | TRADUÇÃO: selecionar e editar/compilar extratos
+编钟 | TRADUÇÃO: conjunto de sinos (antigo instrumento musical chinês)
+编队 | TRADUÇÃO: formar colunas/organizar em equipes/formação (de navios ou aeronaves)
+缓 | TRADUÇÃO: lento/sem pressa/lerdo/gradual/relaxado/adiar/postergar/retardar/ganhar tempo/reviver/recuperar
+缓不济急 | TRADUÇÃO: (expressão idiomática) medidas lentas não ajudam numa situação urgente/lento demais para atender a uma necessidade urgente
+缓兵之计 | TRADUÇÃO: táticas de retardamento/medidas para ganhar tempo/estratagema para obter uma trégua
+缓刑 | TRADUÇÃO: pena suspensa/liberdade condicional
+缓动 | TRADUÇÃO: lerdo
+缓和 | TRADUÇÃO: aliviar (tensão)/mitigar/suavizar/amenizar/tornar mais moderado
+缓存 | TRADUÇÃO: (computação) cache/memória tampão
+缓征 | TRADUÇÃO: suspender impostos temporariamente/adiar o alistamento militar
+缓急 | TRADUÇÃO: prioridade/se algo é urgente
+缓急相济 | TRADUÇÃO: ajudar-se mutuamente na dificuldade/assistência mútua em situação extrema
+缓急轻重 | TRADUÇÃO: veja 輕重緩急|轻重缓急
+缓慢 | TRADUÇÃO: lento; sem pressa; lerdo
+缓期 | TRADUÇÃO: adiar/postergar (para mais tarde)/protelar
+缓期付款 | TRADUÇÃO: adiar o pagamento
+缓步 | TRADUÇÃO: andar devagar/passear/gradualmente/lentamente
+缓气 | TRADUÇÃO: recuperar o fôlego/descansar um pouco
+缓发中子 | TRADUÇÃO: nêutron retardado
+缓缓 | TRADUÇÃO: lentamente/sem pressa/pouco a pouco
+缓聘 | TRADUÇÃO: adiar a contratação/postergar a admissão
+缓冲 | TRADUÇÃO: amortecer/suavizar/ajustar a mudanças bruscas
+缓冲器 | TRADUÇÃO: amortecedor (computação)
+缓解 | TRADUÇÃO: trazer alívio/aliviar (uma crise)/atenuar (uma dor)
+缓办 | TRADUÇÃO: adiar/protelar
+缓降 | TRADUÇÃO: diminuir gradualmente/descer gradualmente
+缓降器 | TRADUÇÃO: carretel de cabo e arnês usado para descer em segurança (ex.: de um prédio em chamas)
+缓颊 | TRADUÇÃO: instigar reconciliação/dissuadir de ação punitiva
+緪 | TRADUÇÃO: uma corda
+緫 | TRADUÇÃO: variante de 總|总
+缅 | TRADUÇÃO: Mianmar (antiga Birmânia) (abrev. de 緬甸|缅甸) ‖ distante/remoto/detalhado
+缅元 | TRADUÇÃO: kyat (moeda de Mianmar)
+缅因 | TRADUÇÃO: Maine, estado dos EUA
+缅怀 | TRADUÇÃO: comemorar/recordar com carinho/pensar no passado
+缅文 | TRADUÇÃO: birmanês (língua, esp. escrita)
+缅甸 | TRADUÇÃO: Mianmar (ou Birmânia)
+缅甸联邦 | TRADUÇÃO: União de Mianmar, nome oficial da Birmânia 1998-2010
+缅甸语 | TRADUÇÃO: birmanês (língua de Mianmar)
+缅邈 | TRADUÇÃO: distante/remoto
+纬 | TRADUÇÃO: latitude/trama (fio horizontal na tecelagem)/urdidura (horizontal)
+纬圈 | TRADUÇÃO: linha de latitude/paralelo
+纬度 | TRADUÇÃO: latitude
+纬纱 | TRADUÇÃO: trama (fio horizontal na tecelagem)
+纬线 | TRADUÇÃO: trama/linha de latitude/paralelo
+纬线圈 | TRADUÇÃO: linha de latitude/paralelo
+纬锦 | TRADUÇÃO: brocado de trama/tecido com trama multicolorida
+𦈕 | TRADUÇÃO: rede
+缑 | TRADUÇÃO: sobrenome Gou ‖ corda presa ao punho de uma espada/(arcaico) punho/espada
+缈 | TRADUÇÃO: usado em 縹緲|缥缈
+练 | TRADUÇÃO: praticar/treinar/aperfeiçoar (uma habilidade)/exercício/(literário) seda branca/ferver e lavar seda crua
+练兵 | TRADUÇÃO: treinar tropas/treinamento militar
+练功 | TRADUÇÃO: praticar tai chi/praticar kung-fu (ou outra arte marcial)/treinar (para dança, acrobacia, etc.)
+练字 | TRADUÇÃO: praticar escrita de caracteres
+练就 | TRADUÇÃO: dominar (uma habilidade)
+练手 | TRADUÇÃO: praticar uma habilidade
+练摊 | TRADUÇÃO: (dialeto) montar uma barraca de rua
+练习 | TRADUÇÃO: praticar/exercício/treino/prática/CL:個|个
+练习册 | TRADUÇÃO: caderno de exercícios
+练习场 | TRADUÇÃO: campo de treino (golfe)/quadra de treino
+练习本 | TRADUÇÃO: caderno de exercícios/livro de atividades/CL:本
+练习生 | TRADUÇÃO: (antigo, exceto em Taiwan) estagiário; aprendiz; funcionário em período probatório/(entretenimento) trainee que passa por treinamento sistemático antes da estreia (especialmente em grupos de ídolos)
+练达 | TRADUÇÃO: experiente/sofisticado/mundano
+缏 | TRADUÇÃO: trança
+缇 | TRADUÇÃO: seda laranja-avermelhada/de cor laranja-avermelhada
+致 | TRADUÇÃO: (forma dependente) fino; delicado; requintado ‖ (literário) enviar; transmitir; veicular/(forma dependente) causar; levar a; consequentemente
+致密 | TRADUÇÃO: fino; denso; compacto
+縂 | TRADUÇÃO: variante de 總|总
+縃 | TRADUÇÃO: seda fina
+萦 | TRADUÇÃO: (literário) enrolar-se em volta
+萦绕 | TRADUÇÃO: pairar/insistir/cercar
+萦回 | TRADUÇÃO: pairar; girar ao redor (no ar, na mente, etc.)
+缙 | TRADUÇÃO: seda vermelha
+缙云 | TRADUÇÃO: veja 縉雲縣|缙云县
+缙云县 | TRADUÇÃO: Jinyun, um condado na cidade de Lishui 麗水市|丽水市, Zhejiang
+缢 | TRADUÇÃO: (literário) morrer por enforcamento ou estrangulamento
+缢死 | TRADUÇÃO: executar por enforcamento/enforcar-se
+缢杀 | TRADUÇÃO: estrangular até a morte
+缢颈 | TRADUÇÃO: enforcar-se
+缒 | TRADUÇÃO: baixar com uma corda
+縏 | TRADUÇÃO: bolsa pequena/saco
+绉 | TRADUÇÃO: crepe (tecido)/rugas
+绉褶 | TRADUÇÃO: variante de 皺褶|皱褶
+缣 | TRADUÇÃO: seda grossa e impermeável
+缊 | TRADUÇÃO: cor laranja/usado em 絪縕|𬘡缊 ‖ cânhamo/vago/misterioso
+缞 | TRADUÇÃO: vestes de luto de cânhamo grosso
+縚 | TRADUÇÃO: trança/cordão/faixa
+缚 | TRADUÇÃO: amarrar/atar/pr. em Taiwan: [fu2]
+缚手缚脚 | TRADUÇÃO: (expressão idiomática) estar limitado por muitas restrições
+缚鸡之力 | TRADUÇÃO: (lit.) a força para amarrar uma galinha (expressão idiomática)/(fig.) força física muito fraca
+缜 | TRADUÇÃO: fino e denso
+缜匝 | TRADUÇÃO: denso/fino (textura)
+缜密 | TRADUÇÃO: meticuloso/cuidadoso/deliberado/delicado/fino (textura)
+缜润 | TRADUÇÃO: fino e liso
+缟 | TRADUÇÃO: seda branca lisa
+缟玛瑙 | TRADUÇÃO: ônix/ágata branca
+缟素 | TRADUÇÃO: vestido de luto de seda branca
+缛 | TRADUÇÃO: adornado/bonito
+縠 | TRADUÇÃO: gaze de seda fina
+縡 | TRADUÇÃO: assunto; negócio
+縢 | TRADUÇÃO: amarrar/corda/atar
+县 | TRADUÇÃO: condado/(Japão) província
+县令 | TRADUÇÃO: magistrado de condado (período Tang a Qing)
+县名 | TRADUÇÃO: nome do condado
+县地 | TRADUÇÃO: sede do condado
+县城 | TRADUÇÃO: sede do condado
+县域 | TRADUÇÃO: condado
+县委 | TRADUÇÃO: comitê do Partido Comunista Chinês do condado
+县官 | TRADUÇÃO: magistrado distrital/magistrado do condado
+县府 | TRADUÇÃO: governo do condado
+县志 | TRADUÇÃO: história geral de um condado/anais do condado
+县政府 | TRADUÇÃO: administração do condado/governo regional do condado
+县界 | TRADUÇÃO: fronteira do condado; limite do condado
+县级 | TRADUÇÃO: nível de condado
+县级市 | TRADUÇÃO: cidade de nível de condado (divisão administrativa na China)
+县长 | TRADUÇÃO: chefe do condado
+縦 | TRADUÇÃO: variante antiga de 縱|纵
+縩 | TRADUÇÃO: veja 綷縩
+缝 | TRADUÇÃO: costurar ‖ costura/rachadura/fenda estreita/CL:道
+缝合 | TRADUÇÃO: costurar suturar (em cirurgia)/fechar (um ferimento)
+缝合带 | TRADUÇÃO: zona de sutura (geologia)
+缝子 | TRADUÇÃO: rachadura/fenda/abertura estreita/crevice
+缝穷 | TRADUÇÃO: costurar e remendar roupas por pouco dinheiro
+缝纫 | TRADUÇÃO: costurar
+缝纫机 | TRADUÇÃO: máquina de costura/CL:臺|台
+缝絍 | TRADUÇÃO: costurar/alar
+缝缀 | TRADUÇÃO: remendar/consertar
+缝线 | TRADUÇÃO: linha de costura/sutura
+缝缝连连 | TRADUÇÃO: trabalho de costura/costura e remendo
+缝衣匠 | TRADUÇÃO: alfaiate
+缝衣工人 | TRADUÇÃO: trabalhador de costura
+缝衣针 | TRADUÇÃO: agulha de costura
+缝补 | TRADUÇÃO: remendar (roupas)/costurar e consertar
+缝制 | TRADUÇÃO: costurar/fazer (roupas, roupas de cama)
+缝针 | TRADUÇÃO: costurar tecido/(medicina) suturar um ferimento ou incisão
+缝针迹 | TRADUÇÃO: costura
+缝隙 | TRADUÇÃO: pequena rachadura/fenda
+缡 | TRADUÇÃO: véu ou lenço nupcial
+缩 | TRADUÇÃO: retirar/puxar para trás/contrair/encolher/reduzir/abreviatura/também pron. [su4]
+缩印 | TRADUÇÃO: reimprimir (um livro etc.) em formato menor
+缩印本 | TRADUÇÃO: edição compacta (de um dicionário etc.)
+缩写 | TRADUÇÃO: abreviatura/abreviar
+缩小 | TRADUÇÃO: reduzir; diminuir; encolher
+缩小模型 | TRADUÇÃO: miniatura
+缩影 | TRADUÇÃO: versão em miniatura de algo/microcosmo/epítome/(Taiwan) microfilmar
+缩微平片 | TRADUÇÃO: microficha
+缩成 | TRADUÇÃO: encolher até
+缩成一团 | TRADUÇÃO: aglomerar-se/encolher-se
+缩手缩脚 | TRADUÇÃO: de mãos e pés atados (expressão idiomática); limitado
+缩排 | TRADUÇÃO: recuar (diagramação)
+缩放 | TRADUÇÃO: redimensionamento/zoom (gráficos)
+缩时摄影 | TRADUÇÃO: fotografia em timelapse
+缩格 | TRADUÇÃO: recuar (diagramação)
+缩氨酸 | TRADUÇÃO: peptídeo (dois ou mais aminoácidos ligados por ligações peptídicas CO-NH)
+缩水 | TRADUÇÃO: encolher (na lavagem)/fig. reduzir (de lucros etc.)
+缩减 | TRADUÇÃO: cortar/reduzir
+缩略 | TRADUÇÃO: contrair/abreviar/abreviação
+缩略图 | TRADUÇÃO: miniatura (informática)
+缩略字 | TRADUÇÃO: caractere abreviado
+缩略语 | TRADUÇÃO: palavra abreviada/acrônimo
+缩短 | TRADUÇÃO: encurtar; reduzir; diminuir
+缩称 | TRADUÇÃO: abreviatura; forma abreviada
+缩约 | TRADUÇÃO: contração (gramática)/abreviação
+缩紧 | TRADUÇÃO: apertar/contrair/encolher
+缩胸 | TRADUÇÃO: redução de mama/mamoplastia redutora
+缩衣节食 | TRADUÇÃO: economizar em roupas e comida/poupar e economizar (expressão idiomática)
+缩表 | TRADUÇÃO: reduzir o balanço patrimonial
+缩语 | TRADUÇÃO: palavra abreviada/acrônimo
+缩进 | TRADUÇÃO: recuar para; retrair-se/(tipografia) recuar
+缩阴 | TRADUÇÃO: tonificar a vagina
+缩头乌龟 | TRADUÇÃO: tartaruga que encolhe a cabeça/fig. covarde; galinha
+𬙂 | TRADUÇÃO: comprido
+縰 | TRADUÇÃO: faixa para o cabelo
+纵 | TRADUÇÃO: vertical; norte-sul (pronúncia de Taiwan [zong1])/de frente para trás; longitudinal; no sentido do comprimento (pronúncia de Taiwan [zong1])/unidade militar correspondente a um corpo do exército (pronúncia de Taiwan [zong1])/(forma presa) soltar (um cativo)/induzir a/saltar/(literário) mesmo que
+纵享 | TRADUÇÃO: desfrutar/entregar-se
+纵令 | TRADUÇÃO: indulgir/dar rédea solta/mesmo que
+纵使 | TRADUÇÃO: mesmo que/ainda que
+纵剖面 | TRADUÇÃO: corte vertical/corte longitudinal
+纵向 | TRADUÇÃO: longitudinal/vertical
+纵容 | TRADUÇÃO: tolerar ou conivente com erros; permitir que (alguém) se envolva em mau comportamento
+纵坐标 | TRADUÇÃO: coordenada vertical; ordenada
+纵情 | TRADUÇÃO: à vontade
+纵意 | TRADUÇÃO: arbitrário/desenfreado
+纵欲 | TRADUÇÃO: entregar-se à devassidão
+纵摇 | TRADUÇÃO: arfagem (de um barco)
+纵放 | TRADUÇÃO: indisciplinado/desenfreado/indulgir
+纵断面 | TRADUÇÃO: corte vertical/corte longitudinal
+纵梁 | TRADUÇÃO: viga longitudinal
+纵横 | TRADUÇÃO: lit. urdidura e trama na tecelagem; vertical e horizontal/comprimento e largura/cruzado/que pode se mover sem obstáculos/abrev. de 合縱連橫|合纵连横, Escola da Diplomacia durante o Período dos Reinos Combatentes (475-221 a.C.)
+纵横交错 | TRADUÇÃO: entrecruzado (expressão idiomática)
+纵横字谜 | TRADUÇÃO: palavras cruzadas
+纵横家 | TRADUÇÃO: Escola da Diplomacia do Período dos Reinos Combatentes (475-221 a.C.) cujos principais defensores foram Su Qin 蘇秦|苏秦 e Zhang Yi 張儀|张仪
+纵横驰骋 | TRADUÇÃO: cruzar/correr sem obstáculos por todo o país
+纵步 | TRADUÇÃO: dar passadas largas/saltar
+纵波 | TRADUÇÃO: onda longitudinal
+纵深 | TRADUÇÃO: profundidade (da frente para trás)/profundidade (em um território)/extensão (de tempo)/fig. profundidade (de implantação, progresso, desenvolvimento etc)
+纵火 | TRADUÇÃO: atear fogo/cometer incêndio criminoso
+纵火犯 | TRADUÇÃO: incendiário
+纵然 | TRADUÇÃO: mesmo que; ainda que
+纵目 | TRADUÇÃO: até onde a vista alcança
+纵纹 | TRADUÇÃO: estria longitudinal (no cérebro)
+纵纹绿鹎 | TRADUÇÃO: (espécie de ave da China) bulbul listrado (Alcurus striatus)
+纵纹腹小鸮 | TRADUÇÃO: (espécie de ave da China) coruja-das-torres (Athene noctua)
+纵纹角鸮 | TRADUÇÃO: (espécie de ave da China) coruja-listrada (Otus brucei)
+纵线 | TRADUÇÃO: linha vertical/linha de coordenada vertical
+纵声 | TRADUÇÃO: em voz alta
+纵肌 | TRADUÇÃO: músculo longitudinal
+纵虎归山 | TRADUÇÃO: lit. deixar o tigre voltar para a montanha; fig. armazenar calamidades futuras
+纵裂 | TRADUÇÃO: lóbulo/fenda longitudinal/fratura vertical
+纵览 | TRADUÇÃO: vista panorâmica/levantamento amplo
+纵观 | TRADUÇÃO: pesquisar de forma abrangente/um levantamento geral
+纵言 | TRADUÇÃO: teorizar de forma geral
+纵谈 | TRADUÇÃO: falar livremente
+纵论 | TRADUÇÃO: falar livremente
+纵贯 | TRADUÇÃO: lit. fio de urdidura na tecelagem/fig. linhas verticais ou norte-sul/atravessar/cruzar longitudinalmente/atravessar (especialmente norte-sul ou de cima para baixo)
+纵跳 | TRADUÇÃO: (esportes) salto vertical
+纵身 | TRADUÇÃO: saltar/arremessar-se
+纵酒 | TRADUÇÃO: beber excessivamente
+纵队 | TRADUÇÃO: coluna; fileira (formação de pessoas) (CL:列,路)/corpo do exército do EPL (1946–1949)
+纵隔 | TRADUÇÃO: mediastino (órgãos e tecidos no tórax entre os pulmões)
+缧 | TRADUÇÃO: (literário) corda grossa usada para prender um prisioneiro
+䌸 | TRADUÇÃO: amarrar
+纤 | TRADUÇÃO: corda de reboque de barqueiro ‖ fino/delicado/miúdo
+纤夫 | TRADUÇÃO: burlaco (puxador de barcaças)
+纤手 | TRADUÇÃO: puxador de barcaças; barqueiro/corretor; intermediário ‖ mãos delicadas/mãos tenras e suaves de mulher
+纤道 | TRADUÇÃO: caminho de sirga (ao longo de um canal)
+缦 | TRADUÇÃO: seda fina lisa/lento/sem adornos
+絷 | TRADUÇÃO: conectar/amarrar
+缕 | TRADUÇÃO: fio/linha/detalhado/em detalhe/classificador para fios (de fumaça, névoa ou vapor), mechas (de cabelo)
+缕述 | TRADUÇÃO: relatar em detalhes
+缥 | TRADUÇÃO: usado em 縹渺|缥渺/pronúncia em Taiwan [piao3] ‖ (literário) azul claro/(literário) tecido de seda azul claro
+缥囊 | TRADUÇÃO: bolsa de livros feita de seda
+缥渺 | TRADUÇÃO: variante de 飄渺|飘渺
+缥缈 | TRADUÇÃO: variante de 飄渺|飘渺
+縻 | TRADUÇÃO: amarrar
+总 | TRADUÇÃO: (forma presa) geral; global/resumir/em todos os casos; sempre; invariavelmente/de qualquer forma; afinal; eventualmente; mais cedo ou mais tarde/certamente/(após o nome de uma pessoa) abrev. de 總經理|总经理 ou 總編|总编 etc.
+总主教 | TRADUÇÃO: arcebispo/primaz (de uma igreja)/metropolitano
+总之 | TRADUÇÃO: em uma palavra/em resumo/em suma
+总人口 | TRADUÇÃO: população total
+总供给 | TRADUÇÃO: oferta agregada
+总值 | TRADUÇÃO: valor total
+总价 | TRADUÇÃO: preço total
+总公司 | TRADUÇÃO: empresa-mãe/sede administrativa
+总共 | TRADUÇÃO: ao todo; em suma; no total
+总分 | TRADUÇÃO: pontuação geral/pontos totais
+总则 | TRADUÇÃO: regras gerais; princípios gerais; disposições gerais
+总动员 | TRADUÇÃO: mobilização geral (para guerra etc.)
+总务 | TRADUÇÃO: assuntos gerais/divisão de assuntos gerais/pessoa encarregada de tudo
+总汇 | TRADUÇÃO: (de riachos) confluir; convergir/confluência; fig. compêndio; fig. agregação/(no nome de uma loja) empório/(Taiwan) sanduíche misto (abrev. de 總匯三明治|总汇三明治)
+总汇三明治 | TRADUÇÃO: (Taiwan) sanduíche de clube
+总卵黄管 | TRADUÇÃO: ducto vitelino comum (anatomia de platelmintos), formado pela união dos ductos vitelinos que entram no oótipo
+总参谋部 | TRADUÇÃO: Quartel-General do Estado-Maior (militar)
+总参谋长 | TRADUÇÃO: Chefe do Estado-Maior (militar)
+总台 | TRADUÇÃO: balcão de recepção/balcão de atendimento
+总司令 | TRADUÇÃO: comandante-em-chefe/comandante militar supremo de um país ou teatro de operações
+总司令部 | TRADUÇÃO: quartel-general
+总合 | TRADUÇÃO: reunir/somar/totalmente
+总和 | TRADUÇÃO: soma
+总吨位 | TRADUÇÃO: tonelagem total (de uma frota ou empresa de navegação)
+总回报 | TRADUÇÃO: retorno total/lucro agregado
+总局 | TRADUÇÃO: sede central/escritório central/repartição central
+总平面图 | TRADUÇÃO: planta geral/plano de implantação
+总干事 | TRADUÇÃO: secretário-geral
+总后勤部 | TRADUÇÃO: Departamento Geral de Logística (militar)
+总得 | TRADUÇÃO: ter que/precisar/estar obrigado a
+总成本 | TRADUÇÃO: custos totais
+总括 | TRADUÇÃO: resumir/abrangente
+总指挥部 | TRADUÇÃO: quartel-general
+总揽 | TRADUÇÃO: assumir plena responsabilidade/ter controle total/monopolizar
+总收入 | TRADUÇÃO: renda bruta
+总收益 | TRADUÇÃO: lucro total/retorno agregado
+总政治部 | TRADUÇÃO: Departamento Geral Político (militar)
+总数 | TRADUÇÃO: total/soma/agregado
+总方针 | TRADUÇÃO: política geral/diretrizes gerais
+总是 | TRADUÇÃO: sempre
+总书记 | TRADUÇÃO: secretário-geral (do Partido Comunista)
+总会三明治 | TRADUÇÃO: (Taiwan) sanduíche de clube (variante de 總匯三明治|总汇三明治)
+总会会长 | TRADUÇÃO: presidente da associação
+总有 | TRADUÇÃO: inevitavelmente haverá
+总杆赛 | TRADUÇÃO: jogo por tacadas (golfe)
+总机 | TRADUÇÃO: central telefônica/mesa telefônica/PABX
+总次数 | TRADUÇÃO: número total de vezes
+总归 | TRADUÇÃO: de qualquer modo; mesmo assim; afinal
+总决赛 | TRADUÇÃO: final (esportes)
+总法律顾问 | TRADUÇÃO: consultor jurídico-geral
+总热值 | TRADUÇÃO: poder calorífico bruto
+总理 | TRADUÇÃO: primeiro-ministro/premier/CL:個|个,位,名
+总理衙门 | TRADUÇÃO: o equivalente do Ministério do Exterior da dinastia Qing
+总产值 | TRADUÇÃO: produto bruto/produção total
+总产量 | TRADUÇÃO: produção total
+总的来说 | TRADUÇÃO: de modo geral/resumindo/em suma/em resumo
+总监 | TRADUÇÃO: chefe/diretor (de uma unidade organizacional)/(polícia) comissário/inspetor-geral/classificação de governador local na administração da dinastia Tang
+总目 | TRADUÇÃO: superordem (taxonomia)/catálogo/sumário
+总督 | TRADUÇÃO: governador-geral/vice-rei/governador
+总社 | TRADUÇÃO: sede central; quartel-general
+总称 | TRADUÇÃO: termo genérico
+总站 | TRADUÇÃO: terminal (de transporte)
+总算 | TRADUÇÃO: finalmente/por fim/no fim das contas
+总管 | TRADUÇÃO: estar encarregado de (uma grande área de responsabilidade)/pessoa responsável; gerente/(antigo) mordomo (de família rica); administrador-chefe
+总管理处 | TRADUÇÃO: quartel-general/escritório administrativo principal
+总结 | TRADUÇÃO: resumir/concluir/resumo/currículo/CL:個|个
+总统 | TRADUÇÃO: presidente (de um país)/CL:個|个,位,名,屆|届
+总统任期 | TRADUÇÃO: mandato presidencial/presidência
+总统制 | TRADUÇÃO: sistema presidencialista
+总统大选 | TRADUÇÃO: eleição presidencial
+总统府 | TRADUÇÃO: palácio presidencial
+总统选举 | TRADUÇÃO: eleição presidencial
+总经理 | TRADUÇÃO: gerente-geral/diretor-executivo
+总线 | TRADUÇÃO: barramento de computador
+总编 | TRADUÇÃO: editor-chefe (de jornal)/abrev. de 總編輯|总编辑
+总编辑 | TRADUÇÃO: editor-chefe (de jornal)
+总署 | TRADUÇÃO: repartição geral
+总而言之 | TRADUÇÃO: em suma/em resumo/em poucas palavras
+总能 | TRADUÇÃO: energia total
+总裁 | TRADUÇÃO: presidente/diretor-geral (de uma empresa etc.)
+总装 | TRADUÇÃO: montar (o produto final); montagem final
+总装备部 | TRADUÇÃO: Departamento Geral de Armamento (DGA)
+总要 | TRADUÇÃO: no entanto
+总览 | TRADUÇÃO: uma visão geral
+总角 | TRADUÇÃO: (literário) penteado infantil com cabelo preso em um coque de ambos os lados da cabeça; (fig.) infância
+总角之交 | TRADUÇÃO: (expressão idiomática) amigo de infância
+总角之好 | TRADUÇÃO: (expressão idiomática) amigo de infância
+总计 | TRADUÇÃO: total (geral)
+总论 | TRADUÇÃO: (frequentemente usado em títulos de livros ou capítulos) introdução geral; visão geral
+总谐波失真 | TRADUÇÃO: (acústica) distorção harmônica total (DHT)
+总谱 | TRADUÇÃO: partitura musical
+总述 | TRADUÇÃO: visão geral/dar uma visão geral
+总运单 | TRADUÇÃO: conhecimento de embarque mestre (CEM) (transporte)
+总部 | TRADUÇÃO: quartel-general
+总医院 | TRADUÇÃO: hospital geral
+总重 | TRADUÇÃO: peso bruto/peso total
+总量 | TRADUÇÃO: total/quantidade total
+总长 | TRADUÇÃO: comprimento total ‖ nome usado para ministros de gabinete entre 1912-1927, substituído por 部長|部长
+总开关 | TRADUÇÃO: interruptor principal
+总集 | TRADUÇÃO: coletânea geral/antologia
+总需求 | TRADUÇÃO: demanda agregada
+总领事 | TRADUÇÃO: cônsul-geral
+总领事馆 | TRADUÇÃO: consulado geral
+总领馆 | TRADUÇÃO: consulado geral/mesmo que 總領事館|总领事馆
+总额 | TRADUÇÃO: total (quantia ou valor)
+总体 | TRADUÇÃO: completamente/totalmente/total/inteiro/geral/população (estatística)
+总体上说 | TRADUÇÃO: olhando para o quadro geral/tudo considerado/considerando todos os aspectos
+总体目标 | TRADUÇÃO: meta geral/objetivo geral
+总体经济学 | TRADUÇÃO: (Taiwan) macroeconomia
+总体规划 | TRADUÇÃO: plano geral/plano diretor
+绩 | TRADUÇÃO: fiar (cânhamo etc.)/mérito/realização/Taiwan pron. [ji1]
+绩优股 | TRADUÇÃO: ações de primeira linha/ações blue chip
+绩效 | TRADUÇÃO: desempenho/resultados/realização
+绩溪 | TRADUÇÃO: veja 績溪縣|绩溪县
+绩溪县 | TRADUÇÃO: Jixi, município no distrito de Xuancheng 宣城市, Anhui
+绩点 | TRADUÇÃO: (educação) nota média/pontuação de crédito
+縿 | TRADUÇÃO: franja/ornamento de bandeira
+繁冗 | TRADUÇÃO: variante de 煩冗|烦冗
+繁博 | TRADUÇÃO: numeroso e abrangente
+繁多 | TRADUÇÃO: muitos e variados/de muitos tipos diferentes
+繁密 | TRADUÇÃO: numerosos e próximos/(de cabelo) exuberante/(de bosque) denso/(de tiros) intenso
+繁峙 | TRADUÇÃO: ver 繁峙縣|繁峙县
+繁峙县 | TRADUÇÃO: Fanshi, município no distrito de Xinzhou 忻州市, Shanxi
+繁征博引 | TRADUÇÃO: série elaborada de referências/muitas citações
+繁忙 | TRADUÇÃO: ocupado/agitado
+繁文 | TRADUÇÃO: complicado/formalismos elaborados
+繁文缛节 | TRADUÇÃO: burocracia excessiva/escrita desnecessariamente complicada/mumbo-jumbo
+繁昌 | TRADUÇÃO: ver 繁昌區|繁昌区
+繁昌区 | TRADUÇÃO: Fanchang, distrito de Wuhu 蕪湖市|芜湖市, Anhui
+繁星 | TRADUÇÃO: muitas estrelas/céu cheio de estrelas
+繁本 | TRADUÇÃO: edição detalhada/versão não expurgada
+繁荣 | TRADUÇÃO: próspero/florescente
+繁荣昌盛 | TRADUÇÃO: glorioso e florescente (expressão idiomática); próspero
+繁殖 | TRADUÇÃO: procriar/reproduzir/propagar
+繁殖体 | TRADUÇÃO: (biologia) propágulo
+繁琐 | TRADUÇÃO: complicado e numeroso/enroscado em detalhes menores
+繁盛 | TRADUÇÃO: próspero/florescente/(de vegetação) exuberante
+繁简 | TRADUÇÃO: complicado e simples/forma tradicional e simplificada dos caracteres chineses
+繁缛 | TRADUÇÃO: numeroso e elaborado
+繁缕 | TRADUÇÃO: morrião-vermelho (Stellaria media)
+繁育 | TRADUÇÃO: criar/reproduzir
+繁花 | TRADUÇÃO: floração abundante/massa de flores/flores exuberantes
+繁茂 | TRADUÇÃO: (de vegetação) viçoso/exuberante
+繁华 | TRADUÇÃO: próspero/agitado
+繁芜 | TRADUÇÃO: prolixo/verboso/florescente e próspero
+繁衍 | TRADUÇÃO: multiplicar/reproduzir/aumentar gradualmente em número ou quantidade
+繁复 | TRADUÇÃO: complicado
+繁重 | TRADUÇÃO: pesado/árduo/pesado (de tarefa)/difícil/oneroso
+繁杂 | TRADUÇÃO: muitos/diversos
+繁体 | TRADUÇÃO: forma tradicional do chinês, em oposição à forma simplificada 簡體|简体
+繁体字 | TRADUÇÃO: caractere chinês tradicional
+繁闹 | TRADUÇÃO: agitado/movimentado
+绷不住 | TRADUÇÃO: (gíria da Internet) não conseguir se conter/incapaz de suportar/não poder deixar de (fazer algo)
+绷子 | TRADUÇÃO: bastidor de bordar/aro/tambor de bordar
+绷带 | TRADUÇÃO: (estrangeirismo) bandagem/atadura
+绷床 | TRADUÇÃO: cama elástica/trampolim
+绷簧 | TRADUÇÃO: mola
+绷紧 | TRADUÇÃO: esticar/esticar até ficar tenso
+绷着脸 | TRADUÇÃO: fazer cara feia/ficar de cara amarrada/parecer descontente
+繄 | TRADUÇÃO: interjeição/som de suspiro
+缫 | TRADUÇÃO: fiar seda a partir de casulos
+缪 | TRADUÇÃO: sobrenome Miao ‖ variante de 謬|谬 ‖ usado em 綢繆|绸缪 ‖ variante antiga de 穆
+缪巧 | TRADUÇÃO: plano/esquema/inteligente/esperto
+缪思 | TRADUÇÃO: variante de 繆斯|缪斯
+缪斯 | TRADUÇÃO: Musa (mitologia grega)
+繇 | TRADUÇÃO: cantiga popular/trabalho forçado ‖ causa/meio ‖ interpretações dos trigramas
+𫄶 | TRADUÇÃO: variante de 襁
+𫄶褓 | TRADUÇÃO: variante de 襁褓
+繋 | TRADUÇÃO: variante de 繫|系
+繐 | TRADUÇÃO: pano fino e solto/borla
+缯 | TRADUÇÃO: sobrenome Zeng ‖ tecidos de seda ‖ amarrar/atar
+织 | TRADUÇÃO: tecer/tricotar
+织品 | TRADUÇÃO: tecido/têxtil
+织女 | TRADUÇÃO: Vega (estrela)/tecelã de contos populares
+织女星 | TRADUÇÃO: Vega, estrela mais brilhante da constelação Lira 天琴星座
+织布 | TRADUÇÃO: pano tecido/tecer pano
+织布机 | TRADUÇÃO: tear
+织机 | TRADUÇÃO: tear
+织物 | TRADUÇÃO: tecido/têxtil
+织田信长 | TRADUÇÃO: ODA Nobunaga (1534-1582), xogum japonês (senhor da guerra), desempenhou um papel importante na unificação do Japão
+织当访婢 | TRADUÇÃO: se for tecelagem, pergunte à serva (expressão idiomática); ao lidar com um assunto, consulte o especialista apropriado
+织纴 | TRADUÇÃO: fiação e tecelagem
+织花 | TRADUÇÃO: padrão tecido
+织补 | TRADUÇÃO: cerzir/remendar
+织造 | TRADUÇÃO: tecer/fabricar por tecelagem
+织金 | TRADUÇÃO: ver 織金縣|织金县
+织金县 | TRADUÇÃO: Zhijin, município no distrito de Bijie 畢節市|毕节市, Guizhou
+织金锦 | TRADUÇÃO: brocado de ouro
+织锦 | TRADUÇÃO: brocado/tecido de seda com padrão colorido
+缮 | TRADUÇÃO: reparar/consertar/reescrever/transcrever
+缮写 | TRADUÇÃO: copiar/transcrever
+缮清 | TRADUÇÃO: fazer uma cópia limpa
+繘 | TRADUÇÃO: corda de poço
+繙 | TRADUÇÃO: traduzir
+缭 | TRADUÇÃO: enrolar/cerzir com pontos inclinados
+缭乱 | TRADUÇÃO: deslumbrado/confuso
+缭绕 | TRADUÇÃO: (de fumaça de chaminé) subir em espiral/(de som) perdurar
+缭边儿 | TRADUÇÃO: costurar uma bainha
+绕 | TRADUÇÃO: enrolar/enroscar (fio)/girar ao redor/espiralar/mover-se ao redor/contornar (um obstáculo)/desviar/fazer um desvio/confundir/desnortear ‖ variante de 繞|绕, girar ao redor/espiralar/mover-se ao redor/contornar (um obstáculo)/desviar/fazer um desvio
+绕一圈 | TRADUÇÃO: dar uma volta/fazer um circuito
+绕来绕去 | TRADUÇÃO: sinuoso e indireto (expressão idiomática); dar voltas sem nunca chegar a lugar nenhum
+绕口令 | TRADUÇÃO: trava-língua
+绕嘴 | TRADUÇÃO: difícil de pronunciar/trava-língua
+绕圈子 | TRADUÇÃO: dar voltas/fazer um desvio/(fig.) rodeios
+绕地 | TRADUÇÃO: orbitar a Terra
+绕射 | TRADUÇÃO: (física) difratar
+绕弯 | TRADUÇÃO: dar um passeio/fig. falar com rodeios
+绕弯儿 | TRADUÇÃO: dar um passeio/(fig.) falar com rodeios
+绕弯子 | TRADUÇÃO: lit. fazer um longo desvio/fig. falar vagamente sobre o tópico sem chegar ao ponto/falar com rodeios
+绕弯子儿 | TRADUÇÃO: lit. fazer um longo desvio/fig. falar vagamente sobre o tópico sem chegar ao ponto/falar com rodeios
+绕手 | TRADUÇÃO: questão espinhosa/caso complicado
+绕梁三日 | TRADUÇÃO: reverbera nas vigas por três dias (expressão idiomática); fig. sonoro e ressonante (especialmente de voz cantada)
+绕流 | TRADUÇÃO: turbulência (em mecânica dos fluidos)
+绕组 | TRADUÇÃO: bobina (em motor elétrico ou transformador)
+绕绕 | TRADUÇÃO: tortuoso e complicado/envolvido e complicado
+绕脖子 | TRADUÇÃO: complicado/emaranhado/andar com rodeios
+绕膝 | TRADUÇÃO: (crianças) correr ao redor dos joelhos dos pais/fig. ficar para cuidar dos pais idosos
+绕膝承欢 | TRADUÇÃO: viver com os pais, trazendo-lhes felicidade (expressão idiomática)
+绕行 | TRADUÇÃO: fazer um desvio/fazer uma rota circular/(de um planeta) orbitar/(de um marinheiro) circum-navegar/tomar um desvio/contornar
+绕路 | TRADUÇÃO: fazer um desvio/tomar o caminho mais longo
+绕过 | TRADUÇÃO: contornar/burlar/evitar/enrolar-se (de uma estrada etc.)
+绕道 | TRADUÇÃO: ir por uma rota indireta/fazer um desvio/(medicina ou engenharia civil) bypass
+绕远儿 | TRADUÇÃO: ir pelo caminho mais longo/fazer um desvio/(de uma rota) indireto
+绕腾 | TRADUÇÃO: dar uma volta longa/fig. falar vagamente sobre o tema sem chegar ao ponto/andar com rodeios
+繠 | TRADUÇÃO: pendurar/pendente frouxamente
+绣像 | TRADUÇÃO: ilustrações de personagens em romances chineses clássicos
+绣墩 | TRADUÇÃO: ver 坐墩
+绣帷 | TRADUÇÃO: tapeçaria
+绣球花 | TRADUÇÃO: hortênsia
+绣球藤 | TRADUÇÃO: Clematis montana
+绣花 | TRADUÇÃO: bordar/fazer bordado
+绣花鞋 | TRADUÇÃO: sapatos bordados
+缋 | TRADUÇÃO: multicor/desenhar
+繣 | TRADUÇÃO: obstinado/perverso
+襁 | TRADUÇÃO: cordão de moedas de cobre/variante de 襁 ‖ pano para carregar bebê nas costas
+繨 | TRADUÇÃO: nó (de uma corda)
+绳 | TRADUÇÃO: corda/CL:根
+绳之以法 | TRADUÇÃO: punir de acordo com a lei/levar à justiça
+绳墨 | TRADUÇÃO: lit. linha de marcação de carpinteiro/mesmo que 墨斗/fig. regras/regras e regulamentos
+绳套 | TRADUÇÃO: laço/arnês
+绳子 | TRADUÇÃO: barbante; corda; corda/CL:條|条
+绳文 | TRADUÇÃO: período Jōmon da pré-história japonesa, com cerâmica de padrão de corda
+绳梯 | TRADUÇÃO: escada de corda
+绳索 | TRADUÇÃO: corda
+绳索套 | TRADUÇÃO: laço
+绳结 | TRADUÇÃO: nó
+绘 | TRADUÇÃO: desenhar; pintar/depictar; retratar
+绘图 | TRADUÇÃO: traçar; esboçar; projetar; plotar
+绘文字 | TRADUÇÃO: emoji
+绘本 | TRADUÇÃO: livro ilustrado
+绘架座 | TRADUÇÃO: Pictor (constelação)
+绘画 | TRADUÇÃO: desenhar; pintar
+绘声绘色 | TRADUÇÃO: vívido e colorido (expressão idiomática); fiel à vida/vivo e realista
+绘制 | TRADUÇÃO: desenhar; traçar (um mapa, projeto, diagrama, ilustração etc.)
+系上 | TRADUÇÃO: amarrar/apertar o cinto/afivelar
+系囚 | TRADUÇÃO: prisioneiro
+系带 | TRADUÇÃO: (anatomia) frênulo
+系放 | TRADUÇÃO: marcar (um animal, para pesquisa científica); anilhar (um pássaro)
+系泊 | TRADUÇÃO: amarrar/atracar
+茧 | TRADUÇÃO: (forma presa) casulo/(forma presa) calo (variante de 趼) ‖ variante de 繭|茧
+茧子 | TRADUÇÃO: calo (pele endurecida)/calos (nos pés)/também 趼子
+缰 | TRADUÇÃO: variante de 韁|缰 ‖ rédeas/freio/cabresto
+缳 | TRADUÇÃO: amarrar/atar/laço/laço (para suicídio)/laço de enforcamento
+缳首 | TRADUÇÃO: morte por enforcamento
+缲 | TRADUÇÃO: bainha com pontos invisíveis ‖ enrolar seda de casulos
+缴 | TRADUÇÃO: entregar; entregar; pagar/capturar (armas); apreender
+缴交 | TRADUÇÃO: entregar; entregar (uma taxa etc.)
+缴付 | TRADUÇÃO: pagar/entregar (pagamento de imposto etc.)
+缴械 | TRADUÇÃO: desarmar/(de um inimigo) depor as armas; render-se
+缴枪 | TRADUÇÃO: depor as armas/render-se/desarmar
+缴枪不杀 | TRADUÇÃO: “renda-se e sua vida será poupada”
+缴获 | TRADUÇÃO: capturar/apreender
+缴税 | TRADUÇÃO: pagar imposto
+缴纳 | TRADUÇÃO: pagar (impostos etc.)
+缴费 | TRADUÇÃO: pagar uma taxa
+缴销 | TRADUÇÃO: entregar para cancelamento (ex.: uma licença)
+䍁 | TRADUÇÃO: borla
+绎 | TRADUÇÃO: contínuo/interpretar/desembaraçar/fiar seda (antigo)
+𦈡 | TRADUÇÃO: seda multicolorida/pedaço de seda rasgado em dois, usado para verificar a identidade do portador combinando as duas metades
+继 | TRADUÇÃO: continuar/seguir depois/continuar com/suceder/herdar/então/depois
+继任 | TRADUÇÃO: suceder alguém em um cargo/sucessor
+继任者 | TRADUÇÃO: sucessor
+继位 | TRADUÇÃO: suceder ao trono
+继兄 | TRADUÇÃO: meio-irmão mais velho
+继兄弟姐妹 | TRADUÇÃO: meio-irmãos
+继嗣 | TRADUÇÃO: continuar/continuar uma linhagem familiar/posteridade/herdeiro
+继女 | TRADUÇÃO: enteada/CL:個|个,名
+继妹 | TRADUÇÃO: meia-irmã mais nova
+继姐 | TRADUÇÃO: meia-irmã mais velha
+继子 | TRADUÇÃO: enteado
+继子女 | TRADUÇÃO: enteados/filhos adotivos
+继室 | TRADUÇÃO: segunda esposa (de um viúvo)
+继弟 | TRADUÇÃO: meio-irmão mais novo
+继往开来 | TRADUÇÃO: seguir o passado e anunciar o futuro (expressão idiomática); parte de uma transição histórica/formando uma ponte entre estágios anteriores e posteriores
+继后 | TRADUÇÃO: depois/mais tarde
+继承 | TRADUÇÃO: herdar/suceder (ao trono etc.)/dar continuidade (a uma tradição etc.)
+继承人 | TRADUÇÃO: herdeiro/sucessor
+继承权 | TRADUÇÃO: direito de herança
+继承者 | TRADUÇÃO: sucessor
+继承衣钵 | TRADUÇÃO: assumir o manto de alguém/seguir os passos de alguém
+继武 | TRADUÇÃO: seguir os passos do predecessor
+继母 | TRADUÇÃO: madrasta
+继父 | TRADUÇÃO: padrasto
+继父母 | TRADUÇÃO: padrastos
+继统 | TRADUÇÃO: suceder ao trono
+继续 | TRADUÇÃO: continuar; prosseguir com; dar continuidade a
+继续教育 | TRADUÇÃO: educação continuada
+继而 | TRADUÇÃO: então/depois
+继亲 | TRADUÇÃO: família reconstituída/(antigo) madrasta/casar-se
+继轨 | TRADUÇÃO: seguir os passos de
+继述 | TRADUÇÃO: (literário) dar continuidade/herdar/suceder
+继配 | TRADUÇÃO: segunda esposa (de um viúvo)
+继电器 | TRADUÇÃO: relé (eletrônica)
+缤 | TRADUÇÃO: usado em 繽紛|缤纷
+缤纷 | TRADUÇÃO: vasto e variado/rico e diverso
+缱 | TRADUÇÃO: usado em 繾綣|缱绻
+缱绻 | TRADUÇÃO: (literário) apaixonado e inseparável
+𫄸 | TRADUÇÃO: carmesim
+纂修 | TRADUÇÃO: compilar e revisar/herdar e desenvolver
+𬙊 | TRADUÇÃO: amarrar/corda
+颣 | TRADUÇÃO: defeito/nó
+缬 | TRADUÇÃO: nó/dar um nó
+缬氨酸 | TRADUÇÃO: valina (Val), um aminoácido essencial
+缬草 | TRADUÇÃO: valeriana (Valeriana officinalis)
+纉 | TRADUÇÃO: variante de 纘|缵
+纩 | TRADUÇÃO: seda ou algodão fino
+续 | TRADUÇÃO: continuar/reabastecer
+续作 | TRADUÇÃO: sequência/continuação
+续保 | TRADUÇÃO: renovação de seguro
+续借 | TRADUÇÃO: renovação de empréstimo (ex.: renovação de biblioteca)
+续假 | TRADUÇÃO: licença prolongada/ausência prolongada
+续命 | TRADUÇÃO: prolongar a vida/estender a vida; (fig.) permitir que algo continue/dar novo fôlego a algo
+续增 | TRADUÇÃO: acréscimo/apêndice/adendo
+续娶 | TRADUÇÃO: casar novamente (após viuvez)
+续弦 | TRADUÇÃO: (literário) (de um viúvo) casar novamente
+续书 | TRADUÇÃO: sequência/continuação de um livro
+续杯 | TRADUÇÃO: reabastecer (um copo de bebida)
+续发感染 | TRADUÇÃO: infecção secundária
+续租 | TRADUÇÃO: renovar um aluguel
+续篇 | TRADUÇÃO: sequência/continuação (de uma história)
+续签 | TRADUÇÃO: renovar um contrato/extensão de contrato
+续约 | TRADUÇÃO: renovar ou estender um contrato
+续编 | TRADUÇÃO: sequência/continuação (de uma publicação seriada)
+续续 | TRADUÇÃO: contínuo/sem parar/ininterrupto
+续航 | TRADUÇÃO: (de um avião, navio, veículo etc) continuar uma viagem sem reabastecer/(de um dispositivo eletrônico, bateria etc) funcionar antes de precisar ser recarregado
+续西游记 | TRADUÇÃO: uma das três sequências da Dinastia Ming da Jornada ao Oeste 西遊記|西游记
+续订 | TRADUÇÃO: renovar
+续费 | TRADUÇÃO: renovar uma assinatura
+续跌 | TRADUÇÃO: continuar a cair (de preços de ações)
+续随子 | TRADUÇÃO: alcaparra (Capparis spinosa)
+续集 | TRADUÇÃO: sequência/próximo episódio (de série de TV etc)
+纎 | TRADUÇÃO: variante antiga de 纖|纤
+缠 | TRADUÇÃO: enrolar ao redor/enrolar/bobinar/embaraçar/envolver/incomodar/irritar
+缠夹 | TRADUÇÃO: incomodar/perturbar/assedar
+缠夹不清 | TRADUÇÃO: confundir as coisas (expressão idiomática)/incomodar alguém com conversa confusa e irritante
+缠夹二先生 | TRADUÇÃO: pessoa confusa e irritante que fala sem parar de forma ininteligível
+缠手 | TRADUÇÃO: problemático/difícil de lidar
+缠扰 | TRADUÇÃO: assediar/perturbar
+缠结 | TRADUÇÃO: enrolar/nó/embaraçar
+缠络 | TRADUÇÃO: enrolar ao redor/torcerse e virar (de estrada ou rio)
+缠丝玛瑙 | TRADUÇÃO: sardônica (pedra preciosa de calcedônia listrada marrom-branca)
+缠绵 | TRADUÇÃO: tocante (emoções)/persistente (doença)
+缠绵不已 | TRADUÇÃO: agarrar sem deixar ir/importunar sem parar/agarrar-se amorosamente um ao outro
+缠绵悱恻 | TRADUÇÃO: (de uma pessoa) triste além das palavras (expressão idiomática)/(de música, literatura etc) comovente/muito sentimental
+缠绕 | TRADUÇÃO: retorcido/enrolar/entortar/importunar/incomodar
+缠绕茎 | TRADUÇÃO: videira/caule volúvel
+缠足 | TRADUÇÃO: enfaixamento dos pés
+缠身 | TRADUÇÃO: (de uma doença, dívida etc) atormentar alguém/sobrecarregar alguém/preocupar alguém
+缠头 | TRADUÇÃO: faixa de cabeça bordada usada como decoração por atores ou no grupo étnico Hui/recompensar um ator com faixa de cabeça de brocado
+纑 | TRADUÇÃO: fio de cânhamo/vestir cânhamo
+纒 | TRADUÇÃO: variante antiga de 纏|缠
+缨 | TRADUÇÃO: borla/algo em forma de borla (ex.: uma folha etc)/fita
+缨翅目 | TRADUÇÃO: ver 薊馬|蓟马
+才然 | TRADUÇÃO: recentemente/um momento atrás/agora mesmo
+𬙋 | TRADUÇÃO: corda para segurar as mangas
+纤尘 | TRADUÇÃO: partícula de poeira/poeira fina
+纤尘不染 | TRADUÇÃO: ver 一塵不染|一尘不染
+纤密 | TRADUÇÃO: próximo/fino/intrincado
+纤小 | TRADUÇÃO: fino/delicado
+纤屑 | TRADUÇÃO: detalhe fino
+纤巧 | TRADUÇÃO: delicado/fino
+纤度 | TRADUÇÃO: finura da fibra (geralmente medida em termos de densidade linear de massa)
+纤弱 | TRADUÇÃO: frágil/delicado
+纤微 | TRADUÇÃO: leve/fino
+纤悉 | TRADUÇÃO: detalhado/fino e meticuloso
+纤悉无遗 | TRADUÇÃO: detalhado e sem nada faltando (expressão idiomática); meticuloso e completo/sem perder um iota
+纤柔 | TRADUÇÃO: delicado/fino
+纤毛 | TRADUÇÃO: cílio
+纤毛动力蛋白 | TRADUÇÃO: proteína dineína ciliar
+纤瘦 | TRADUÇÃO: esbelto/fino como um fio
+纤细 | TRADUÇÃO: fino/esbelto/delgado
+纤维 | TRADUÇÃO: fibra/CL:種|种
+纤维丛 | TRADUÇÃO: fibrado (mat.)
+纤维囊泡症 | TRADUÇÃO: fibrose cística
+纤维状 | TRADUÇÃO: fibroso
+纤维素 | TRADUÇÃO: celulose
+纤维肌痛 | TRADUÇÃO: fibromialgia
+纤维胶 | TRADUÇÃO: viscose
+纤维蛋白 | TRADUÇÃO: proteína fibrosa
+纤纤 | TRADUÇÃO: esbelto/esguio
+纤美 | TRADUÇÃO: requintado/delicado e bonito
+纤腰 | TRADUÇÃO: cintura fina
+纤芯 | TRADUÇÃO: núcleo (de uma fibra)
+纤芯直径 | TRADUÇÃO: diâmetro do núcleo (de uma fibra)
+纤薄 | TRADUÇÃO: muito fino; delicado
+纤体 | TRADUÇÃO: obter uma figura esbelta/emagrecimento
+缵 | TRADUÇÃO: (literário) herdar
+纙 | TRADUÇÃO: cordão no qual moedas são enfiadas
+纚 | TRADUÇÃO: (literário) amarrar/prender/corda ‖ faixa de cabeça de seda/pronúncia em Taiwan: [shi3]
+纛 | TRADUÇÃO: estandarte grande/estandarte ou leque de penas
+缆 | TRADUÇÃO: cabo/amarra/amarrar
+缆桩 | TRADUÇÃO: cabeço de amarração
+缆索 | TRADUÇÃO: cabo/amarra/corda de amarração
+缆索吊椅 | TRADUÇÃO: teleférico
+缆线 | TRADUÇÃO: cabo
+缆绳 | TRADUÇÃO: cabo/cordame/cabo de amarração
+缆车 | TRADUÇÃO: teleférico
+缶 | TRADUÇÃO: vaso de cerâmica/vaso de barro
+缸 | TRADUÇÃO: jarro/jarra/vasilha/classificador para cargas de roupa suja/CL:口
+缺 | TRADUÇÃO: deficiência/falta/escasso/cargo vago/faltar (algo)
+缺一不可 | TRADUÇÃO: nenhum pode faltar/indispensável para o conjunto
+缺乏 | TRADUÇÃO: faltar/carecer de
+缺乏症 | TRADUÇÃO: deficiência clínica
+缺位 | TRADUÇÃO: (de um cargo) ficar vago/cargo vago; vaga/(de regulamento, serviço etc) insatisfatório; disfuncional
+缺勤 | TRADUÇÃO: faltar ao trabalho ou à escola
+缺口 | TRADUÇÃO: entalhe/fenda/fenda/brecha/déficit
+缺嘴 | TRADUÇÃO: lábio leporino
+缺失 | TRADUÇÃO: falta; deficiência/defeito; falha/estar deficiente; faltar
+缺少 | TRADUÇÃO: falta/escassez/déficit/carecer (de)/faltar
+缺席 | TRADUÇÃO: estar ausente/faltar
+缺德 | TRADUÇÃO: malvado/desprezível/condenável/sem princípios
+缺德事 | TRADUÇÃO: malfeito/ação imoral/ação perversa/delito intencional
+缺德鬼 | TRADUÇÃO: pessoa perniciosa/pessoa maldosa e mesquinha
+缺心少肺 | TRADUÇÃO: sem cérebro/estúpido
+缺心眼 | TRADUÇÃO: estúpido/sem noção/tolo
+缺心眼儿 | TRADUÇÃO: variante erhua de 缺心眼
+缺憾 | TRADUÇÃO: arrependimento/algo lamentável
+缺损 | TRADUÇÃO: defeituoso/defeito
+缺斤少两 | TRADUÇÃO: dar peso menor que o devido
+缺斤短两 | TRADUÇÃO: dar peso menor que o devido
+缺氧 | TRADUÇÃO: sem oxigênio/anaeróbico
+缺氧症 | TRADUÇÃO: anoxia
+缺水 | TRADUÇÃO: escassez de água/desidratação
+缺油 | TRADUÇÃO: escassez de petróleo
+缺漏 | TRADUÇÃO: negligenciar/omissões/deficiências
+缺省 | TRADUÇÃO: padrão (configuração)
+缺粮 | TRADUÇÃO: faltar mantimentos
+缺血 | TRADUÇÃO: (medicina) (de um órgão ou tecido) ter suprimento sanguíneo insuficiente/(de um banco de sangue) ficar com pouco sangue disponível
+缺衣少食 | TRADUÇÃO: sem roupa nem comida/em extrema pobreza
+缺觉 | TRADUÇÃO: faltar sono; estar privado de sono
+缺角 | TRADUÇÃO: (de uma forma quadrada, como uma planta de casa) ter um canto faltando/(fig.) faltar algo/peça faltante
+缺货 | TRADUÇÃO: falta de suprimentos/produtos indisponíveis
+缺钱 | TRADUÇÃO: falta de dinheiro
+缺阵 | TRADUÇÃO: (esportes) perder um jogo (por lesão, suspensão etc); ficar de fora de uma partida
+缺陷 | TRADUÇÃO: defeito; falha
+缺电 | TRADUÇÃO: ter falta de energia elétrica
+缺额 | TRADUÇÃO: vaga
+缺点 | TRADUÇÃO: ponto fraco/defeito/defeito/desvantagem/CL:個|个
+钵 | TRADUÇÃO: pequeno prato ou bacia de barro/tigela de esmola de monge/Sânscrito paatra ‖ variante de 缽|钵
+钵盂 | TRADUÇÃO: tigela de esmola
+钵头 | TRADUÇÃO: tigela de barro (xangainês)
+罁 | TRADUÇÃO: variante antiga de 缸
+罃 | TRADUÇÃO: jarro de barro de pescoço comprido
+罄 | TRADUÇÃO: esgotar/exaurir/vazio
+罄匮 | TRADUÇÃO: esgotado/exaurido
+罄然 | TRADUÇÃO: bem disciplinado
+罄尽 | TRADUÇÃO: esgotar completamente
+罄竭 | TRADUÇÃO: variante de 磬竭
+罄竹难书 | TRADUÇÃO: (lit.) demasiado numeroso para ser registrado em tiras de bambu (expressão idiomática)/(fig.) (de crimes ou malfeitos) inumeráveis; incontáveis
+罄身 | TRADUÇÃO: nudez/nudez
+罄身儿 | TRADUÇÃO: variante erhua de 罄身
+罅 | TRADUÇÃO: rachadura/rancor
+罅隙 | TRADUÇÃO: brecha/rachadura/fenda
+罆 | TRADUÇÃO: variante de 罐
+坛子 | TRADUÇÃO: jarro (de barro, de barriga grande e boca pequena)
+罉 | TRADUÇÃO: (dialeto) panela de cozinhar/variante de 鐺|铛
+罂粟 | TRADUÇÃO: papoula
+罍 | TRADUÇÃO: grande jarro de barro para vinho
+罎 | TRADUÇÃO: variante de 罈|坛
+罏 | TRADUÇÃO: monte de terra para proteger jarras de vinho
+罐 | TRADUÇÃO: lata/jarro/pote ‖ variante de 罐
+罐子 | TRADUÇÃO: jarro/jarra/pote
+罐笼 | TRADUÇÃO: (mineração) gaiola de mina
+罐装 | TRADUÇÃO: enlatado (comida, café etc)
+罐车 | TRADUÇÃO: (rodoviário) caminhão-tanque/(ferroviário) vagão-tanque
+罐头 | TRADUÇÃO: lata/lata/CL:個|个
+罐头笑声 | TRADUÇÃO: risada enlatada; faixa de risada
+罐头起子 | TRADUÇÃO: abridor de latas
+罒 | TRADUÇÃO: rede (radical Kangxi 122)
+罓 | TRADUÇÃO: rede (radical Kangxi 122)
+罔两 | TRADUÇÃO: variante de 魍魎|魍魉
+罔顾 | TRADUÇÃO: ignorar; desconsiderar
+罕 | TRADUÇÃO: raro
+罕有 | TRADUÇÃO: raramente ter/raro
+罕见 | TRADUÇÃO: raro/visto raramente
+罘 | TRADUÇÃO: nome de lugar
+罛 | TRADUÇÃO: grande rede de pesca
+罝 | TRADUÇÃO: rede para pegar coelhos
+罟 | TRADUÇÃO: implicar/rede para pássaros ou peixes
+罠 | TRADUÇÃO: armadilha para animais
+罡 | TRADUÇÃO: estrelas da Ursa Maior que constituem a cauda da concha
+罡风 | TRADUÇÃO: no daoísmo, vento astral no qual os imortais podem cavalgar/vento forte
+罣 | TRADUÇÃO: variante de 掛|挂
+罥 | TRADUÇÃO: rede para pegar pássaros/amarrar/pendurar
+罦 | TRADUÇÃO: rede para pegar pássaros
+罨 | TRADUÇÃO: fomentação/válvula
+罩 | TRADUÇÃO: cobrir; espalhar-se sobre/cobertura; abrigo; capuz/armadilha de bambu para peixes/gaiola de bambu para galinhas/(Taiwan) (coloq.) proteger; dar cobertura a/(Taiwan) (coloq.) incrível; demais/(Taiwan) (coloq.) (frequentemente como 罩得住) ter o controle; dar conta
+罩子 | TRADUÇÃO: cobertura; revestimento
+罩杯 | TRADUÇÃO: copo (tamanho de sutiã)
+罩衣 | TRADUÇÃO: avental/guarda-pó/CL:件
+罩衫 | TRADUÇÃO: avental/jaleco
+罩袍 | TRADUÇÃO: robe chinês de mangas largas usado como vestimenta mais externa/burca
+罩门 | TRADUÇÃO: calcanhar de Aquiles/ponto fraco
+罪 | TRADUÇÃO: culpa/crime/falta/culpa/pecado ‖ variante de 罪, crime
+罪人 | TRADUÇÃO: pecador
+罪刑 | TRADUÇÃO: crime e castigo/pena para um crime
+罪名 | TRADUÇÃO: acusação; denúncia/estigma; má reputação
+罪大恶极 | TRADUÇÃO: culpado de crimes terríveis (expressão idiomática)/repreensível
+罪孽 | TRADUÇÃO: pecado/crime/ato errado
+罪性 | TRADUÇÃO: natureza pecaminosa
+罪恶 | TRADUÇÃO: crime/maldade/pecado
+罪恶感 | TRADUÇÃO: sentimento de culpa
+罪恶滔天 | TRADUÇÃO: ter cometido crimes hediondos (expressão idiomática)
+罪愆 | TRADUÇÃO: pecado/ofensa
+罪有应得 | TRADUÇÃO: culpado e merecedor de punição (expressão idiomática)/castigo inteiramente apropriado/pena que se ajusta ao crime
+罪案 | TRADUÇÃO: caso criminal
+罪犯 | TRADUÇÃO: criminoso
+罪状 | TRADUÇÃO: acusações ou fatos sobre um crime/natureza da ofensa
+罪疚 | TRADUÇÃO: culpa
+罪与罚 | TRADUÇÃO: Crime e Castigo de Dostoiévski
+罪行 | TRADUÇÃO: crime/ofensa
+罪行累累 | TRADUÇÃO: que tem uma extensa ficha criminal
+罪责 | TRADUÇÃO: culpa
+罪过 | TRADUÇÃO: pecado/ofensa
+罪魁 | TRADUÇÃO: líder de quadrilha criminosa/principal culpado/(fig.) causa de um problema
+罪魁祸首 | TRADUÇÃO: líder de quadrilha criminosa; principal ofensor; principal culpado; principal causa de um desastre (expressão idiomática)
+罫 | TRADUÇÃO: casas do tabuleiro de xadrez
+罭 | TRADUÇÃO: rede de arrasto
+置 | TRADUÇÃO: instalar/colocar/por/comprar
+置中对齐 | TRADUÇÃO: alinhamento centralizado (tipografia)
+置之不问 | TRADUÇÃO: passar sem demonstrar interesse (expressão idiomática)
+置之不理 | TRADUÇÃO: não dar atenção a (expressão idiomática)/ignorar/desconsiderar
+置之度外 | TRADUÇÃO: não dar importância a/não ter consideração por/desconsiderar
+置之死地而后生 | TRADUÇÃO: colocar tropas em situação desesperadora para que lutem pela vida e vençam a batalha; lutar desesperadamente ao enfrentar perigo mortal; encontrar uma saída de uma situação terrível (expressão idiomática baseada em "A Arte da Guerra" de Sunzi)
+置之脑后 | TRADUÇÃO: banir dos pensamentos/ignorar/não dar atenção
+置信 | TRADUÇÃO: acreditar (no que alguém alega) (geralmente usado na negativa)/(mat.) intervalo (de confiança etc.)
+置信系数 | TRADUÇÃO: coeficiente de confiança (mat.)
+置信区间 | TRADUÇÃO: intervalo de confiança (estatística)
+置信水平 | TRADUÇÃO: nível de confiança (mat.)
+置信限 | TRADUÇÃO: limite de confiança (mat.)
+置入 | TRADUÇÃO: inserir/implantar/incorporar/introduzir (um novo elemento)
+置入性行销 | TRADUÇÃO: colocação de produto
+置喙 | TRADUÇÃO: dar uma opinião/comentar (sobre o assunto)/ter uma palavra (no assunto)
+置换 | TRADUÇÃO: permutar/permutação (mat.)/deslocar/deslocamento/substituir/substituição
+置换突变 | TRADUÇÃO: mutação de sentido
+置换群 | TRADUÇÃO: grupo de permutações (mat.)
+置放 | TRADUÇÃO: pôr/colocar
+置于 | TRADUÇÃO: colocar em; pôr em (uma posição)
+置景 | TRADUÇÃO: (cinema, teatro) montar o cenário
+置业 | TRADUÇÃO: comprar imóveis
+置气 | TRADUÇÃO: ficar com raiva; ofender-se
+置物柜 | TRADUÇÃO: armário/guarda-volumes
+置疑 | TRADUÇÃO: duvidar
+置若罔闻 | TRADUÇÃO: fazer ouvidos moucos (expressão idiomática); fingir não ouvir
+置装 | TRADUÇÃO: variante de 治裝|治装
+置装费 | TRADUÇÃO: variante de 治裝費|治装费
+置评 | TRADUÇÃO: comentário/declaração
+置诸高阁 | TRADUÇÃO: lit. colocar numa prateleira alta/não prestar atenção (expressão idiomática)
+置买 | TRADUÇÃO: comprar/adquirir (geralmente imóveis)
+置身 | TRADUÇÃO: colocar-se; estar (num lugar ou situação)
+置身事外 | TRADUÇÃO: não se envolver; ficar de fora (expressão idiomática)
+置办 | TRADUÇÃO: comprar/adquirir
+置辩 | TRADUÇÃO: argumentar
+置顶 | TRADUÇÃO: fixar (um tópico de fórum na Internet etc.)
+罚 | TRADUÇÃO: punir; penalizar; multar ‖ variante de 罰|罚
+罚不当罪 | TRADUÇÃO: punição desproporcional/a punição é mais severa que o crime
+罚俸 | TRADUÇÃO: perder o salário
+罚出场 | TRADUÇÃO: (de um árbitro) expulsar um jogador do campo
+罚则 | TRADUÇÃO: disposição penal; penalidade
+罚半蹲 | TRADUÇÃO: punir um aluno fazendo-o ficar em posição de meio agachamento com os braços estendidos para frente
+罚单 | TRADUÇÃO: multa de trânsito/notificação de infração
+罚写 | TRADUÇÃO: fazer um aluno escrever algo muitas vezes, como castigo/escrever linhas
+罚款 | TRADUÇÃO: multar/pena/multa (monetária)
+罚没 | TRADUÇÃO: impor multa e confiscar (propriedade)
+罚球 | TRADUÇÃO: lance penal/livre penal (nos esportes)
+罚站 | TRADUÇÃO: ser obrigado a ficar em pé parado como punição
+罚跪 | TRADUÇÃO: punir com ajoelhamento prolongado
+罚酒 | TRADUÇÃO: beber como resultado de ter perdido uma aposta
+罚金 | TRADUÇÃO: multa/perder
+罚钱 | TRADUÇÃO: multar
+罚锾 | TRADUÇÃO: uma multa
+罱 | TRADUÇÃO: tipo de ferramenta usada para dragar peixes, plantas aquáticas ou lodo de rio, consistindo de uma rede presa a um par de varas de bambu, usadas para abrir e fechar a rede/dragar com tal ferramenta
+罱泥船 | TRADUÇÃO: barco usado para coletar lodo de rio (para usar como fertilizante)
+署 | TRADUÇÃO: escritório/departamento/(pronúncia de Taiwan [shu4]) assinar/arranjar
+署名 | TRADUÇÃO: assinar (uma assinatura)
+署方 | TRADUÇÃO: departamento (governamental)
+罳 | TRADUÇÃO: biombo
+骂 | TRADUÇÃO: repreender/insultar/xingar/CL:通,頓|顿 ‖ variante de 罵|骂
+骂不绝口 | TRADUÇÃO: repreender sem parar (expressão idiomática); insulto incessante
+骂人 | TRADUÇÃO: xingar ou praguejar (contra pessoas)/repreender ou gritar com alguém
+骂到臭头 | TRADUÇÃO: dar uma bronca em alguém (Taiwan)
+骂名 | TRADUÇÃO: infâmia/nome enegrecido
+骂娘 | TRADUÇÃO: xingar (alguém); insultar alguém
+骂架 | TRADUÇÃO: ter uma discussão aos gritos; trocar insultos verbais; brigar ruidosamente
+骂骂咧咧 | TRADUÇÃO: praguejar enquanto fala; ser mal-educado na fala
+骂声 | TRADUÇÃO: repreensão/advertência verbal/(fig.) crítica furiosa/opróbrio/CL:片
+骂街 | TRADUÇÃO: gritar insultos na rua
+罶 | TRADUÇÃO: cesto de pesca/cesto para peixes
+罢 | TRADUÇÃO: parar/cessar/demitir/suspender/desistir/terminar ‖ (partícula final, mesma que 吧)
+罢了 | TRADUÇÃO: partícula modal indicando (só isso, apenas, nada demais) ‖ partícula modal indicando (não se importe, ok)
+罢休 | TRADUÇÃO: desistir/abandonar (um objetivo etc.)/deixar pra lá/esquecer/deixar o assunto de lado
+罢免 | TRADUÇÃO: remover alguém do cargo/demitir
+罢官 | TRADUÇÃO: demitir do cargo/renunciar ao cargo
+罢工 | TRADUÇÃO: greve/fazer greve

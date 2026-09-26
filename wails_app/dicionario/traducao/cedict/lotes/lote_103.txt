@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+跳过 | TRADUÇÃO: to jump over/to skip (a step, chapter etc)
+跳远 | TRADUÇÃO: long jump (athletics)
+跳闸 | TRADUÇÃO: (of a circuit breaker or switch) to trip/to jump a turnstile
+跳集体舞 | TRADUÇÃO: to do ensemble dancing/to dance in a group
+跳电 | TRADUÇÃO: (of a circuit breaker or switch) to trip
+跳频 | TRADUÇÃO: frequency-hopping spread spectrum
+跳马 | TRADUÇÃO: vault (gymnastics)
+跳高 | TRADUÇÃO: (athletics) high jump
+踩 | TRADUÇÃO: variant of 踩 ‖ to step on/to tread/to stamp/to press a pedal/to pedal (a bike)/(online) to downvote
+跺脚 | TRADUÇÃO: to stamp one's feet
+跽 | TRADUÇÃO: kneel
+踅 | TRADUÇÃO: walk with one leg ‖ to walk around/turn back midway
+踅子 | TRADUÇÃO: variant of 茓子
+踅摸 | TRADUÇÃO: to look for/to seek (colloq.)
+踆 | TRADUÇÃO: squat
+踈 | TRADUÇÃO: variant of 疏
+踉 | TRADUÇÃO: used in 跳踉 ‖ used in 踉蹌|踉跄
+踉跄 | TRADUÇÃO: to stagger; to walk falteringly
+踉𬧀 | TRADUÇÃO: variant of 踉蹌|踉跄
+踊 | TRADUÇÃO: leap ‖ leap
+踋 | TRADUÇÃO: old variant of 腳|脚
+踏 | TRADUÇÃO: see 踏實|踏实 ‖ to tread/to stamp/to step on/to press a pedal/to investigate on the spot
+踏上 | TRADUÇÃO: to set foot on/to step on or into
+踏勘 | TRADUÇÃO: to go and inspect (a site)/to do an on-site survey
+踏垫 | TRADUÇÃO: floor mat; bathroom mat; car mat; doormat
+踏实 | TRADUÇÃO: firmly-based/steady/steadfast/to have peace of mind/free from anxiety/Taiwan pr. [ta4 shi2]
+踏春 | TRADUÇÃO: to go for a hike in spring
+踏月 | TRADUÇÃO: to go for a walk in the moonlight
+踏板 | TRADUÇÃO: pedal (in a car, on a piano etc)/treadle/footstool/footrest/footboard
+踏板摩托车 | TRADUÇÃO: scooter
+踏板车 | TRADUÇÃO: scooter
+踏查 | TRADUÇÃO: to investigate on the spot
+踏歌 | TRADUÇÃO: to sing and dance/general term for a round dance
+踏步 | TRADUÇÃO: stride/to step (on the spot)/to mark time/at a standstill
+踏步不前 | TRADUÇÃO: to be at a standstill/to mark time
+踏看 | TRADUÇÃO: to investigate on the spot
+踏破铁鞋 | TRADUÇÃO: (lit.) to wear out one's iron shoes (idiom)/(fig.) to search high and low
+踏破铁鞋无觅处，得来全不费工夫 | TRADUÇÃO: to travel far and wide looking for sth, only to find it easily
+踏破门槛 | TRADUÇÃO: to wear out the doorstep (idiom)/to crowd at sb's door
+踏空 | TRADUÇÃO: to miss one's step/(of an investor) to fail to invest before the price rises
+踏袭 | TRADUÇÃO: to follow blindly
+踏访 | TRADUÇÃO: to visit (a place)
+踏足 | TRADUÇÃO: to set foot on (a foreign land etc); to tread/(fig.) to enter (a new sphere)
+踏踏实实 | TRADUÇÃO: steady/steadfast
+踏车 | TRADUÇÃO: treadwheel/treadmill
+踏进 | TRADUÇÃO: to set foot in/to tread (in or on)/to walk into
+踏雪 | TRADUÇÃO: to go for a walk in the snow
+踏雪寻梅 | TRADUÇÃO: to walk in the snow to view the flowering plum
+踏雪板 | TRADUÇÃO: snowshoe
+踏青 | TRADUÇÃO: lit. tread the green; go for a walk in the spring (when the grass has turned green)/spring hike season around Qingming festival 清明, 4th-6th April
+踏青赏春 | TRADUÇÃO: to enjoy a beautiful spring walk (idiom)
+踏青赏花 | TRADUÇÃO: to enjoy the flowers on a spring outing (idiom)
+践 | TRADUÇÃO: to fulfill (a promise)/to tread/to walk
+践约 | TRADUÇÃO: to keep a promise/to honor an agreement
+践行 | TRADUÇÃO: to carry out; to implement; to keep (one's word)
+践踏 | TRADUÇÃO: to trample
+踒 | TRADUÇÃO: to slip and sprain a limb
+踔 | TRADUÇÃO: to get ahead/to stride/to excel/Taiwan pr. [zhuo2]
+踖 | TRADUÇÃO: to step/walk reverently
+踘 | TRADUÇÃO: leather ball/Taiwan pr. [ju2]
+踜 | TRADUÇÃO: to stumble/to slip/to fall
+踝 | TRADUÇÃO: ankle
+踝骨 | TRADUÇÃO: ankle bone/ankle
+踞 | TRADUÇÃO: to be based upon/to squat
+踟 | TRADUÇÃO: used in 踟躕|踟蹰
+踟躇 | TRADUÇÃO: variant of 踟躕|踟蹰
+踟蹰 | TRADUÇÃO: to waver; to hesitate
+踟蹰不前 | TRADUÇÃO: hesitant to take action
+踠 | TRADUÇÃO: ankle/fetlock/bent/crooked
+踡 | TRADUÇÃO: to curl up
+踢 | TRADUÇÃO: to kick/to play (e.g. soccer)/(slang) butch (in a lesbian relationship)
+踢拳 | TRADUÇÃO: kickboxing
+踢爆 | TRADUÇÃO: to reveal/to expose
+踢皮球 | TRADUÇÃO: to kick a ball around/(fig.) to mutually shirk responsibility/to pass the buck
+踢脚板 | TRADUÇÃO: baseboard/skirting board
+踢脚线 | TRADUÇÃO: skirting board
+踢腿 | TRADUÇÃO: to kick; to do a kick (in dancing, martial arts etc)
+踢踏舞 | TRADUÇÃO: tap dance
+踢蹋舞 | TRADUÇÃO: tap dance/step dance
+踢馆 | TRADUÇÃO: to challenge an established martial arts school to a fight (to prove one's skills or gain reputation)/(fig.) to prove oneself by competing against those already established in a particular field
+踢马刺 | TRADUÇÃO: horse spur
+踣 | TRADUÇÃO: (literary) to tumble; to fall down/(literary) to fall dead
+踤 | TRADUÇÃO: to butt against
+踥 | TRADUÇÃO: to walk with small steps
+踥踥 | TRADUÇÃO: moving back and forth
+踥蹀 | TRADUÇÃO: walking/in motion
+踦 | TRADUÇÃO: shin
+踧 | TRADUÇÃO: carefully/level/smooth
+踩刹车 | TRADUÇÃO: to step on the brake/to brake (when driving)
+踩动 | TRADUÇÃO: to operate by means of a pedal
+踩失脚 | TRADUÇÃO: to lose one's footing
+踩水 | TRADUÇÃO: to tread water/to paddle or tramp in shallow water
+踩空 | TRADUÇÃO: to miss one's step
+踩线 | TRADUÇÃO: to scout for a tour operator/to reconnoiter a potential tour itinerary/(tennis) to commit a foot fault
+踩线团 | TRADUÇÃO: group on a tour to get acquainted with the local situation
+踩踏 | TRADUÇÃO: to trample on
+踩道 | TRADUÇÃO: to scout/to reconnoiter
+踩镲 | TRADUÇÃO: hi-hat
+踩雷 | TRADUÇÃO: to step on a mine/(fig.) to inadvertently do sth that has an unpleasant result/(fig.) to be accidentally exposed to a spoiler
+踩高跷 | TRADUÇÃO: to walk on stilts
+踩点 | TRADUÇÃO: to reconnoiter; to case the joint/to cut it fine; to arrive with no time to spare/to dance to the beat
+踪 | TRADUÇÃO: variant of 蹤|踪 ‖ (bound form) footprint; trace; tracks
+踮 | TRADUÇÃO: to stand on tiptoe/Taiwan pr. [dian4]
+踮脚尖 | TRADUÇÃO: to stand on tiptoe
+逾 | TRADUÇÃO: variant of 逾 ‖ to exceed/to go beyond/to transcend/to cross over/to jump over
+踱 | TRADUÇÃO: to pace; to stroll/Taiwan pr. [duo4]
+踱方步 | TRADUÇÃO: to pace; to stroll
+踱步 | TRADUÇÃO: to pace; to stroll
+踊跃 | TRADUÇÃO: to leap/to jump/eager/enthusiastically
+踵 | TRADUÇÃO: to arrive/to follow/heel
+踶 | TRADUÇÃO: to kick/to tread on
+踶跂 | TRADUÇÃO: overconfident and conceited mannerisms
+踹 | TRADUÇÃO: to kick/to trample/to tread on
+踹共 | TRADUÇÃO: (Tw) (neologism, attested by 2010) to speak one's mind directly (face to face with the person with whom one has an issue) (from Taiwanese 出來講, Tai-lo pr. [tshut-lâi kóng], with "tshut-lâi" pronounced in contracted form as "tshòai")
+踺 | TRADUÇÃO: used in 踺子
+踺子 | TRADUÇÃO: (gymnastics) roundoff
+踼 | TRADUÇÃO: to fall flat/to fall on the face
+踽 | TRADUÇÃO: hunchbacked/walk alone
+踽踽独行 | TRADUÇÃO: to walk alone (idiom)
+蹀 | TRADUÇÃO: to tread on/to stamp one's foot
+蹀血 | TRADUÇÃO: variant of 喋血
+蹀足 | TRADUÇÃO: to stamp the feet (formal writing)
+蹀蹀 | TRADUÇÃO: to walk in a mincing gait (formal writing)
+蹀躞 | TRADUÇÃO: to walk in small steps/to pace about
+蹁 | TRADUÇÃO: to limp
+蹂 | TRADUÇÃO: trample
+蹂躏 | TRADUÇÃO: to ravage/to devastate/to trample on/to violate
+蹄 | TRADUÇÃO: hoof/pig's trotters ‖ variant of 蹄
+蹄印 | TRADUÇÃO: hoofprint
+蹄子 | TRADUÇÃO: hoof/(old) wench/hussy
+蹄膀 | TRADUÇÃO: upper part of a pig's leg
+蹄髈 | TRADUÇÃO: variant of 蹄膀
+蹅 | TRADUÇÃO: (coll.) to trudge (in mud, snow etc)
+蹇 | TRADUÇÃO: surname Jian ‖ lame/cripple/unfortunate/slow/difficult/nag (inferior horse)/donkey/lame horse
+蹇修 | TRADUÇÃO: (literary) matchmaker
+蹇拙 | TRADUÇÃO: clumsy (writing)/awkward/obscure
+蹇滞 | TRADUÇÃO: awkward/ominous/unfavorable
+蹇涩 | TRADUÇÃO: awkward/lame/difficulty (esp. in moving)/not smooth
+蹇运 | TRADUÇÃO: misfortune; bad luck
+蹈 | TRADUÇÃO: to tread on/to trample/to stamp/to fulfill/Taiwan pr. [dao4]
+蹈常袭故 | TRADUÇÃO: follow the same old path (idiom); stuck in a rut/always the same routine
+蹉 | TRADUÇÃO: to error/to slip/to miss/to err
+蹉跎 | TRADUÇÃO: (literary) to slip/(of looks etc) to fade away/(of time) to slip away/to squander (time, opportunities); to dillydally
+蹊 | TRADUÇÃO: used in 蹊蹺|蹊跷/Taiwan pr. [xi1] ‖ (literary) footpath
+蹊径 | TRADUÇÃO: path/(fig.) way
+蹊跷 | TRADUÇÃO: odd; queer; strange; fishy
+蹋 | TRADUÇÃO: to step on
+跄 | TRADUÇÃO: walk rapidly ‖ stagger/sway from side to side
+跄踉 | TRADUÇÃO: see 踉蹌|踉跄
+蹎 | TRADUÇÃO: to fall forward (variant of 顛|颠)
+蹐 | TRADUÇÃO: walk with short steps
+蹓 | TRADUÇÃO: to stroll/walk a horse
+跸 | TRADUÇÃO: to clear streets when emperor tours
+蹙 | TRADUÇÃO: to knit (one's brows)/wrinkled (of brows)/to hesitate/distressed
+蹙眉 | TRADUÇÃO: to frown
+蹚 | TRADUÇÃO: to wade/to trample
+蹚浑水 | TRADUÇÃO: variant of 趟渾水|趟浑水
+蹜 | TRADUÇÃO: walk carefully
+蹝 | TRADUÇÃO: slippers
+跖骨 | TRADUÇÃO: metatarsal bones; metatarsus
+蹡 | TRADUÇÃO: (manner of walking)
+𬧀 | TRADUÇÃO: used in 踉蹡|踉𬧀
+蹢 | TRADUÇÃO: hoof
+蹒 | TRADUÇÃO: used in 蹣跚|蹒跚/Taiwan pr. [man2]
+蹒跚 | TRADUÇÃO: to walk unsteadily; to stagger; to lurch; to hobble; to totter
+蹒跚不前 | TRADUÇÃO: to falter/to stall
+踪影 | TRADUÇÃO: trace/vestige/presence
+踪迹 | TRADUÇÃO: tracks/trail/footprint/trace/vestige
+蹦 | TRADUÇÃO: to jump; to bounce; to hop
+蹦儿 | TRADUÇÃO: erhua variant of 蹦
+蹦出来 | TRADUÇÃO: to crop up/to pop up/to emerge abruptly
+蹦床 | TRADUÇÃO: trampoline
+蹦极 | TRADUÇÃO: (loanword) bungee jumping
+蹦跳 | TRADUÇÃO: to hop; to jump
+蹦蹦儿车 | TRADUÇÃO: motor tricycle (onom. bang-bang car)
+蹦蹦跳跳 | TRADUÇÃO: bouncing and vivacious
+蹦跶 | TRADUÇÃO: (coll.) to jump about; to be active; to be lively/(coll.) (fig.) to struggle (before succumbing); to be alive and kicking (esp. toward the end of one's life)
+蹦迪 | TRADUÇÃO: disco dancing/to dance at a disco
+蹦达 | TRADUÇÃO: variant of 蹦躂|蹦跶
+蹦高 | TRADUÇÃO: to jump
+蹦高儿 | TRADUÇÃO: erhua variant of 蹦高
+蹧 | TRADUÇÃO: see 蹧蹋
+蹧塌 | TRADUÇÃO: variant of 糟蹋
+蹧蹋 | TRADUÇÃO: variant of 糟蹋
+蹩 | TRADUÇÃO: to limp/to sprain (an ankle or wrist)/to move carefully, as if evading a danger/to scurry
+蹩脚 | TRADUÇÃO: inferior/shoddy/lousy/lame
+蹪 | TRADUÇÃO: to stumble/to fall
+蹬 | TRADUÇÃO: to step on; to tread on/to put on; to wear (shoes, trousers etc)/(slang) to dump (sb)/Taiwan pr. [deng4] ‖ used in 蹭蹬
+蹬子 | TRADUÇÃO: pedal
+蹬脚 | TRADUÇÃO: to stamp one's foot/to kick
+蹬腿 | TRADUÇÃO: to kick one's legs/leg press (exercise)/(coll.) to kick the bucket
+蹬鼻子上脸 | TRADUÇÃO: lit. to climb all over sb/fig. to take advantage of sb's weakness
+蹭 | TRADUÇÃO: to rub against/to walk slowly/(coll.) to freeload
+蹭吃 | TRADUÇÃO: to freeload for food
+蹭吃蹭喝 | TRADUÇÃO: to cadge a meal
+蹭热度 | TRADUÇÃO: (coll.) (often derog.) to piggyback on (sb's) popularity/to exploit (sb's) popularity to attract attention to oneself
+蹭网 | TRADUÇÃO: (coll.) to use sb else's Internet connection (with or without permission)
+蹭课 | TRADUÇÃO: (coll.) to sit in on a class
+蹭蹬 | TRADUÇÃO: (literary) to encounter setbacks; to have bad luck
+蹭车 | TRADUÇÃO: (coll.) to ride in sb else's car to save money/to ride on a train or bus without buying a ticket (fare-dodging)
+蹭饭 | TRADUÇÃO: (coll.) to mooch a meal
+蹮 | TRADUÇÃO: old variant of 躚|跹
+蹯 | TRADUÇÃO: paws of animal
+蹲 | TRADUÇÃO: (dialect) to sprain one's foot or leg due to a sudden impact or landing ‖ to crouch/to squat/to stay (somewhere)
+蹲下 | TRADUÇÃO: to squat down/to crouch
+蹲伏 | TRADUÇÃO: to crouch low and bend forward (esp. in hiding or in wait)
+蹲便器 | TRADUÇÃO: squat toilet
+蹲坑 | TRADUÇÃO: Turkish toilet/squat toilet/to vacate one's bowels
+蹲大牢 | TRADUÇÃO: to be behind bars
+蹲守 | TRADUÇÃO: to hang around keeping a watch out for sth
+蹲厕 | TRADUÇÃO: squat toilet
+蹲牢 | TRADUÇÃO: see 蹲大牢
+蹲膘 | TRADUÇÃO: to fatten cattle in a shed/to become fat
+蹲苦窑 | TRADUÇÃO: (slang) to be behind bars
+蹲踞 | TRADUÇÃO: squat/crouch
+蹲马步 | TRADUÇÃO: to do a martial-art squat
+蹲点 | TRADUÇÃO: (of a cadre etc) to work for a period of time with a grassroots unit to gain firsthand experience/(dialect) taking a crap
+蹴 | TRADUÇÃO: carefully/to kick/to tread on/to stamp ‖ variant of 蹴
+蹴踘 | TRADUÇÃO: variant of 蹴鞠
+蹴鞠 | TRADUÇÃO: cuju, ancient Chinese football (soccer)
+蹶 | TRADUÇÃO: to stumble/to trample/to kick (of horse) ‖ see 尥蹶子
+跷 | TRADUÇÃO: to raise one's foot/to stand on tiptoe/stilts ‖ variant of 蹺|跷/to raise one's foot/stilts
+跷家 | TRADUÇÃO: to run away from home
+跷班 | TRADUÇÃO: see 翹班|翘班
+跷课 | TRADUÇÃO: to skip class
+跷跷板 | TRADUÇÃO: see-saw
+蹼 | TRADUÇÃO: web (of feet of ducks, frogs etc)
+蹽 | TRADUÇÃO: to run/to slip away/to stride
+蹾 | TRADUÇÃO: (coll.) to put sth down heavily/to plonk
+躁 | TRADUÇÃO: impatient; hot-tempered
+躁动 | TRADUÇÃO: to stir restlessly/to be agitated/commotion/agitation
+躁热 | TRADUÇÃO: uncomfortably hot; feverish and restless
+躁狂 | TRADUÇÃO: manic
+躁狂抑郁症 | TRADUÇÃO: manic depression
+躁狂症 | TRADUÇÃO: mania/manic episode
+躁郁症 | TRADUÇÃO: bipolar disorder
+跶 | TRADUÇÃO: to stumble/to slip/variant of 達|达
+躃 | TRADUÇÃO: variant of 躄
+躄 | TRADUÇÃO: both feet crippled/lame
+躅 | TRADUÇÃO: used in 躑躅|踯躅
+躇 | TRADUÇÃO: used in 躊躇|踌躇
+趸 | TRADUÇÃO: wholesale
+趸售 | TRADUÇÃO: to sell wholesale
+趸批 | TRADUÇÃO: wholesale
+趸柱 | TRADUÇÃO: main supporting pillar
+趸船 | TRADUÇÃO: barge/pontoon/landing stage
+趸卖 | TRADUÇÃO: to sell wholesale
+踌 | TRADUÇÃO: used in 躊躇|踌躇
+踌躇 | TRADUÇÃO: to hesitate/(literary) to pace back and forth/(literary) self-satisfied
+踌躇不前 | TRADUÇÃO: to hesitate to move forward/to hesitate/to hold back
+踌躇不决 | TRADUÇÃO: to hesitate/indecisive
+踌躇满志 | TRADUÇÃO: enormously proud of one's success (idiom); smug/complacent
+踌蹰 | TRADUÇÃO: variant of 躊躇|踌躇
+跻 | TRADUÇÃO: (literary) to ascend; to climb; to mount
+跻身 | TRADUÇÃO: to rise into the ranks of; to be among (the best)/to get into (an industry, trade etc)
+跃 | TRADUÇÃO: to jump/to leap
+跃升 | TRADUÇÃO: to leap to (a higher position etc)/to jump/(of a plane) to ascend
+跃居 | TRADUÇÃO: to vault
+跃层 | TRADUÇÃO: duplex (apartment)
+跃然 | TRADUÇÃO: to show forth/to appear as a vivid image/to stand out markedly
+跃然纸上 | TRADUÇÃO: to appear vividly on paper (idiom); to show forth vividly (in writing, painting etc)/to stand out markedly
+跃跃欲试 | TRADUÇÃO: to be eager to give sth a try (idiom)
+跃进 | TRADUÇÃO: to leap forward/to make rapid progress/a leap forward
+跃迁 | TRADUÇÃO: transition/jump (e.g. quantum leap in spectroscopy)
+跃马 | TRADUÇÃO: to gallop/to spur on a horse/to let one's steed have his head
+跃龙 | TRADUÇÃO: allosaurus
+躐 | TRADUÇÃO: step across
+踯 | TRADUÇÃO: used in 躑躅|踯躅
+踯躅 | TRADUÇÃO: (literary) to pace back and forth
+跞 | TRADUÇÃO: move/walk
+踬 | TRADUÇÃO: to stumble
+躔 | TRADUÇÃO: (literary) animal tracks/the course of a celestial body/(of a celestial body) to follow its course
+蹰 | TRADUÇÃO: used in 踟躕|踟蹰
+躗 | TRADUÇÃO: to exaggerate/to fabricate/falsehood
+𨀁 | TRADUÇÃO: to walk
+躙 | TRADUÇÃO: variant of 躪|躏, to trample down/to oppress/to overrun
+跹 | TRADUÇÃO: to manner of dancing/to walk around
+躛 | TRADUÇÃO: variant of 躗
+𨅬 | TRADUÇÃO: to pass/to step over/to creep/to twine round
+躞 | TRADUÇÃO: to walk
+躞蹀 | TRADUÇÃO: to walk with a mincing gait
+躠 | TRADUÇÃO: to limp
+蹑 | TRADUÇÃO: to walk on tiptoe/to walk quietly/to tread (on)/to follow
+蹑履 | TRADUÇÃO: to wear shoes
+蹑悄悄 | TRADUÇÃO: softly/quietly
+蹑手蹑脚 | TRADUÇÃO: to walk quietly on tiptoe (idiom)
+蹑机 | TRADUÇÃO: silk loom with a foot peddle
+蹑登 | TRADUÇÃO: to go up
+蹑脚 | TRADUÇÃO: to walk cautiously in order not to make noise
+蹑脚根 | TRADUÇÃO: variant of 躡腳跟|蹑脚跟
+蹑脚跟 | TRADUÇÃO: to walk cautiously in order not to make noise
+蹑着脚 | TRADUÇÃO: to tiptoe
+蹑足 | TRADUÇÃO: to walk on tiptoe/to step on sb's foot/to join (a trade, profession etc)/to associate with (a certain group of people)
+蹑跟 | TRADUÇÃO: too large or small for the feet (of shoes)
+蹑迹 | TRADUÇÃO: to follow sb's tracks/to tail
+蹑蹀 | TRADUÇÃO: to walk with mincing steps
+蹑踪 | TRADUÇÃO: to follow along behind sb (formal writing)
+躣 | TRADUÇÃO: (manner of walking)
+蹿 | TRADUÇÃO: to leap up/(coll.) to gush out; to spurt out
+蹿升 | TRADUÇÃO: to rise rapidly/to shoot up
+蹿房越脊 | TRADUÇÃO: lit. to leap the house and cross the roofridge (idiom); dashing over rooftops (of robbers and pursuing knight-errant 俠客|侠客 in fiction)
+蹿稀 | TRADUÇÃO: (coll.) to have diarrhea
+蹿红 | TRADUÇÃO: to become suddenly popular
+蹿货 | TRADUÇÃO: product in great demand/hot property
+蹿跳 | TRADUÇÃO: to bound forward/to bound along
+蹿蹦 | TRADUÇÃO: to jump up; to leap
+蹿腾 | TRADUÇÃO: to jump about wildly (coll.)
+躜 | TRADUÇÃO: to jump
+躧 | TRADUÇÃO: shoe/to step
+躩 | TRADUÇÃO: bend/leap
+躏 | TRADUÇÃO: used in 蹂躪|蹂躏
+身 | TRADUÇÃO: body/life/oneself/personally/one's morality and conduct/the main part of a structure or body/pregnant/classifier for sets of clothes: suit, twinset/Kangxi radical 158
+身上 | TRADUÇÃO: on the body/at hand/among
+身不由主 | TRADUÇÃO: see 身不由己
+身不由己 | TRADUÇÃO: (idiom) (of one's circumstances) beyond one's control; unable to do anything about it; (of one's actions) not subject to conscious control (i.e. done in spite of oneself)
+身世 | TRADUÇÃO: one's life experience; one's lot; one's past history
+身亡 | TRADUÇÃO: to die
+身份 | TRADUÇÃO: identity; aspect of one's identity (e.g. mayor, father, permanent resident); role; capacity (as in "in his capacity as ..." 以 + ... + 的身份); status (social, legal etc); position; rank
+身份卡 | TRADUÇÃO: identity card/ID card
+身份盗窃 | TRADUÇÃO: identity theft
+身份证 | TRADUÇÃO: identity card/ID
+身份证明 | TRADUÇÃO: ID card/proof of identity
+身份证号码 | TRADUÇÃO: I.D. number
+身份识别卡 | TRADUÇÃO: identification card/ID card
+身价 | TRADUÇÃO: social status/price of a slave/price of a person (a sportsman etc)/worth/value (of stocks, valuables etc)
+身先士卒 | TRADUÇÃO: to fight at the head of one's troops/(fig.) to take the lead
+身先朝露 | TRADUÇÃO: body will go with the morning dew (idiom); fig. ephemeral and precarious nature of human existence
+身兼 | TRADUÇÃO: holding two jobs simultaneously
+身分 | TRADUÇÃO: variant of 身份
+身分证 | TRADUÇÃO: variant of 身份證|身份证
+身分证号码 | TRADUÇÃO: variant of 身份證號碼|身份证号码/I.D. number
+身在曹营心在汉 | TRADUÇÃO: live in Cao camp but have the heart in Han camp (idiom)/to be somewhere while longing to be somewhere else
+身在福中不知福 | TRADUÇÃO: to live in plenty without appreciating it (idiom); not to know when one is well off
+身型 | TRADUÇÃO: body shape
+身外之物 | TRADUÇÃO: mere worldly possessions
+身姿 | TRADUÇÃO: the way one carries oneself
+身子 | TRADUÇÃO: body/pregnancy/health
+身子骨 | TRADUÇÃO: posture/upright posture
+身孕 | TRADUÇÃO: pregnancy/pregnant
+身家 | TRADUÇÃO: oneself and one's family/family background/pedigree/one's property/one's total assets
+身家调查 | TRADUÇÃO: to do a background check on sb
+身强力壮 | TRADUÇÃO: strong and vigorous/sturdy/robust
+身形 | TRADUÇÃO: figure (esp. a woman's)
+身影 | TRADUÇÃO: silhouette/figure
+身后 | TRADUÇÃO: the time after one's death/a place behind sb/(fig.) one's social background
+身后事 | TRADUÇÃO: matters to attend to after sb's death (esp. funeral arrangements)
+身心 | TRADUÇÃO: body and mind/mental and physical
+身心交病 | TRADUÇÃO: worn out in body and soul (idiom)
+身心交瘁 | TRADUÇÃO: worn out in body and soul (idiom)
+身心俱疲 | TRADUÇÃO: physically and emotionally exhausted
+身心爽快 | TRADUÇÃO: refreshment
+身心科 | TRADUÇÃO: psychiatry
+身心障碍 | TRADUÇÃO: disability
+身态 | TRADUÇÃO: pose/figure/attitude
+身怀六甲 | TRADUÇÃO: to be pregnant (idiom)
+身手 | TRADUÇÃO: skill/talent/agility
+身手敏捷 | TRADUÇÃO: agile; nimble; deft
+身才 | TRADUÇÃO: stature/build (height and weight)/figure
+身披羽毛 | TRADUÇÃO: feathered
+身故 | TRADUÇÃO: to die
+身败名裂 | TRADUÇÃO: to lose one's standing/to have one's reputation swept away/a complete defeat and fall from grace
+身教 | TRADUÇÃO: to teach by example
+身教胜于言教 | TRADUÇÃO: teaching by example beats explaining in words (idiom)/action speaks louder than words
+身材 | TRADUÇÃO: stature/build (height and weight)/figure
+身板 | TRADUÇÃO: body/physique/physical condition
+身板儿 | TRADUÇÃO: erhua variant of 身板
+身正不怕影子斜 | TRADUÇÃO: (lit.) when a man stands straight, he doesn't worry that his shadow is slanting (saying)/(fig.) as long as one conducts oneself honorably, one need not worry about what people think; a clean hand wants no washing
+身历声 | TRADUÇÃO: (Tw) stereophonic sound
+身段 | TRADUÇÃO: a woman's physique/figure/posture on stage
+身法 | TRADUÇÃO: pose or motion of one's body in martial arts
+身为 | TRADUÇÃO: in the capacity of/as
+身无分文 | TRADUÇÃO: (idiom) penniless; completely broke
+身无长技 | TRADUÇÃO: to possess no special talents
+身无长物 | TRADUÇÃO: (idiom) to possess nothing except bare necessities; to live a frugal life
+身穿 | TRADUÇÃO: to wear (a garment)
+身经百战 | TRADUÇÃO: lit. veteran of a hundred battles (idiom)/fig. experienced/seasoned
+身临其境 | TRADUÇÃO: (idiom) to experience it for oneself/to actually *be* there (as opposed to reading about it etc)
+身着 | TRADUÇÃO: to wear
+身处 | TRADUÇÃO: in (some place)/to be in (adversity, a difficult situation, danger, turmoil etc)/to find oneself in/placed in/surrounded by
+身负重伤 | TRADUÇÃO: seriously injured
+身躯 | TRADUÇÃO: body
+身轻如燕 | TRADUÇÃO: as lithe as a swallow (of athlete or beautiful girl)
+身边 | TRADUÇÃO: at one's side/on hand
+身量 | TRADUÇÃO: height (of a person); stature/(fig.) reputation; standing
+身长 | TRADUÇÃO: height (of person)/length of clothing from shoulders to bottom (tailor or dressmaker's measure)
+身陷 | TRADUÇÃO: to be trapped/to be imprisoned
+身陷囹圄 | TRADUÇÃO: thrown into prison/behind bars
+身陷牢狱 | TRADUÇÃO: to go to prison/to be imprisoned
+身陷牢笼 | TRADUÇÃO: fallen into a trap
+身首异处 | TRADUÇÃO: to be decapitated (idiom)
+身体 | TRADUÇÃO: the body/one's health
+身体力行 | TRADUÇÃO: to practice what one preaches (idiom)
+身体是革命的本钱 | TRADUÇÃO: lit. the body is the revolution's capital/fig. good health is a prerequisite for work (Mao Zedong's saying)
+身体检查 | TRADUÇÃO: see 體格檢查|体格检查
+身体质量指数 | TRADUÇÃO: body mass index (BMI)
+身高 | TRADUÇÃO: (a person's) height
+身高马大 | TRADUÇÃO: tall/huge
+躬 | TRADUÇÃO: (literary) body (of a human, esp. the torso)/(bound form) to bow/(literary) oneself; personally ‖ old variant of 躬
+躬履 | TRADUÇÃO: to carry out a task personally/to take responsibility for
+躬行 | TRADUÇÃO: to personally undertake or manage
+躬亲 | TRADUÇÃO: to attend to personally/in person
+躬诣 | TRADUÇÃO: to call (at sb's home) personally
+躬身 | TRADUÇÃO: to bow/personally
+躰 | TRADUÇÃO: variant of 體|体
+躱 | TRADUÇÃO: variant of 躲
+躲 | TRADUÇÃO: to hide/to dodge/to avoid
+躲债 | TRADUÇÃO: to dodge a creditor
+躲年 | TRADUÇÃO: to avoid going home for the Chinese New Year (for any of various reasons: because one finds the festivities onerous in some way, or because it would be seen as inauspicious for one to attend, or, in former times, to avoid creditors, since it was the custom to have debts settled before New Year's Day, and once into the New Year, debtors got a reprieve)
+躲得过初一，躲不过十五 | TRADUÇÃO: lit. you may go undetected during the new moon, but at full moon you'll be found out (idiom)/fig. you can't put it off forever/sooner or later you'll have to deal with it
+躲懒 | TRADUÇÃO: to shy away from work/to get by without attending duty
+躲清闲 | TRADUÇÃO: to avoid external disturbance in order to idle
+躲穷 | TRADUÇÃO: to take refuge with a rich relative
+躲藏 | TRADUÇÃO: to conceal oneself/to go into hiding/to take cover
+躲让 | TRADUÇÃO: to step aside (for a passing vehicle)/to get out of the way/to make way for
+躲猫猫 | TRADUÇÃO: hide-and-seek (game)/peekaboo (game)
+躲躲藏藏 | TRADUÇÃO: to be in hiding
+躲躲闪闪 | TRADUÇÃO: to evade/to dodge (out of the way)
+躲过初一，躲不过十五 | TRADUÇÃO: see 躲得過初一，躲不過十五|躲得过初一，躲不过十五
+躲避 | TRADUÇÃO: to hide/to evade/to dodge/to take shelter/to avoid (difficulties)
+躲避球 | TRADUÇÃO: dodgeball
+躲闪 | TRADUÇÃO: to evade/to dodge (out of the way)
+躲开 | TRADUÇÃO: to stay out of (hot water, trouble, awkward situation etc)/to avoid (sb)
+躲难 | TRADUÇÃO: to take refuge/to seek refuge from disaster
+躲雨 | TRADUÇÃO: to take shelter from the rain
+躲风 | TRADUÇÃO: lit. to avoid the wind/fig. to keep low to avoid a difficult situation/to stay out of trouble
+躹 | TRADUÇÃO: variant of 鞠
+躺 | TRADUÇÃO: to recline/to lie down
+躺下 | TRADUÇÃO: to lie down
+躺倒 | TRADUÇÃO: to lie down
+躺尸 | TRADUÇÃO: (deprecatory) to lie motionless (asleep, drunk, lazing etc)
+躺平 | TRADUÇÃO: to lie stretched out/(neologism, attested by 2021) to opt out of the rat race
+躺椅 | TRADUÇÃO: deck chair/recliner/couch/lounge
+躺枪 | TRADUÇÃO: (neologism, attested by 2014) (coll.) to be criticized, blamed or implicated in sth despite having done nothing to deserve it; to be unfairly targeted; to catch a stray (abbr. for 躺著也中槍|躺着也中枪)
+躺着也中枪 | TRADUÇÃO: (Internet slang) (lit.) to get shot even though lying down; (fig.) to be unfairly targeted
+躺赢 | TRADUÇÃO: to win without needing to even lift a finger/victory presented on a platter
+躯 | TRADUÇÃO: human body
+躯干 | TRADUÇÃO: trunk/torso
+躯壳 | TRADUÇÃO: the body (as opposed to the soul)
+躯体 | TRADUÇÃO: (human) body
+軃 | TRADUÇÃO: variant of 嚲|亸
+軃神 | TRADUÇÃO: frivolous youth (dialect)
+軆 | TRADUÇÃO: old variant of 體|体
+车 | TRADUÇÃO: surname Che ‖ car/vehicle/CL:輛|辆/machine/to shape with a lathe/Kangxi radical 159 ‖ war chariot (archaic)/rook (in Chinese chess)/rook (in chess)
+车主 | TRADUÇÃO: vehicle owner
+车份 | TRADUÇÃO: vehicle rental fee paid by cab and rickshaw drivers
+车份儿 | TRADUÇÃO: erhua variant of 車份|车份
+车位 | TRADUÇÃO: parking spot/unloading point/garage place/stand for taxi
+车到山前必有路 | TRADUÇÃO: lit. when we get to the mountain, there'll be a way through (idiom)/fig. everything will turn out for the best; let's worry about it when it happens; it will be all right on the night
+车到山前必有路，船到桥头自然直 | TRADUÇÃO: (idiom) everything will turn out all right; let's worry about it when it happens; it will be all right on the night
+车到山前自有路 | TRADUÇÃO: see 車到山前必有路|车到山前必有路
+车前 | TRADUÇÃO: Chinese plantain (Plantago asiatica), perennial herb used in TCM
+车前草 | TRADUÇÃO: see 車前|车前
+车厘子 | TRADUÇÃO: (loanword) sweet cherry
+车型 | TRADUÇÃO: vehicle model (i.e. particular version of a car or motorcycle etc)
+车城 | TRADUÇÃO: Checheng township in Pingtung County 屏東縣|屏东县, Taiwan
+车城乡 | TRADUÇÃO: Checheng township in Pingtung County 屏東縣|屏东县, Taiwan
+车夫 | TRADUÇÃO: cart driver/coachman
+车奴 | TRADUÇÃO: car slave, sb forced to sacrifice quality of life to buy or maintain a car
+车子 | TRADUÇÃO: car or other vehicle (bicycle, truck etc)
+车展 | TRADUÇÃO: auto show; motor show
+车工 | TRADUÇÃO: lathe work/lathe operator
+车带 | TRADUÇÃO: (vehicle) tire
+车床 | TRADUÇÃO: lathe
+车库 | TRADUÇÃO: garage
+车厢 | TRADUÇÃO: carriage/CL:節|节
+车厂 | TRADUÇÃO: (bus, train etc) depot/car factory or repair shop
+车后箱 | TRADUÇÃO: car boot, trunk
+车房 | TRADUÇÃO: garage/carport/(old) rickshaw room
+车手 | TRADUÇÃO: racing driver (in a car race); rider (in a motorcycle or bicycle race)/(Tw) low-level operative in a scam syndicate
+车技 | TRADUÇÃO: driving skills
+车把 | TRADUÇÃO: handlebar (of a bicycle); shaft (of a rickshaw)
+车把式 | TRADUÇÃO: expert cart-driver/charioteer
+车斗 | TRADUÇÃO: open-topped container (mounted on a truck or cart) for carrying loads/dump box (of a dump truck)/bucket (of a front loader)/wheelbarrow
+车架 | TRADUÇÃO: cart/barrow/frame/chassis
+车条 | TRADUÇÃO: spoke (of wheel)
+车模 | TRADUÇÃO: model car/auto show model
+车机 | TRADUÇÃO: (automotive) head unit; infotainment system
+车检 | TRADUÇÃO: to inspect a vehicle
+车次 | TRADUÇÃO: train or coach service ("service" as in "they run 12 services per day between the two cities")
+车水马龙 | TRADUÇÃO: endless stream of horse and carriages (idiom)/heavy traffic
+车流 | TRADUÇÃO: traffic/rate of traffic flow
+车照 | TRADUÇÃO: vehicle license
+车灯 | TRADUÇÃO: vehicle light (headlight, turn indicator etc)
+车尔尼雪夫斯基 | TRADUÇÃO: Nikolai Chernyshevsky
+车牌 | TRADUÇÃO: vehicle license plate
+车皮 | TRADUÇÃO: wagon/freight car
+车票 | TRADUÇÃO: ticket (for a bus or train)
+车祸 | TRADUÇÃO: traffic accident; car crash/CL:起
+车程 | TRADUÇÃO: travel time/expected time for a car journey
+车窗 | TRADUÇÃO: car window; window of a vehicle (bus, train etc)
+车站 | TRADUÇÃO: rail station/bus stop/CL:處|处,個|个
+车筐 | TRADUÇÃO: bicycle basket
+车管所 | TRADUÇÃO: vehicle administration office; motor vehicle registration office (abbr. for 車輛管理所|车辆管理所)
+车箱 | TRADUÇÃO: variant of 車廂|车厢
+车篮 | TRADUÇÃO: bicycle basket
+车籍 | TRADUÇÃO: a vehicle's registration information (Tw)
+车胎 | TRADUÇÃO: tire
+车臣 | TRADUÇÃO: Chechnya, a republic in southwestern Russia/Chechen
+车号 | TRADUÇÃO: vehicle number (license plate number, taxi number, bus number, train car number)
+车行 | TRADUÇÃO: car-related business/car dealership/taxi company/(commercial) garage ‖ to drive; to travel by car
+车行通道 | TRADUÇÃO: traffic passage
+车行道 | TRADUÇÃO: roadway/carriageway
+车裂 | TRADUÇÃO: to tear off sb's four limbs and head using five horse-drawn carts (historical form of capital punishment)
+车贷 | TRADUÇÃO: car loan (abbr. for 汽車貸款|汽车贷款)
+车费 | TRADUÇÃO: passenger fare
+车贴 | TRADUÇÃO: car allowance
+车身 | TRADUÇÃO: the body of a vehicle; (bicycle) frame
+车轴 | TRADUÇÃO: axle/CL:根
+车轴草 | TRADUÇÃO: honewort/Cryptotaenia japonica
+车载 | TRADUÇÃO: carried within a vehicle; onboard
+车载斗量 | TRADUÇÃO: lit. measured in cartloads and gallons/fig. by the barrowload (i.e. lots and lots)/innumerable
+车辆 | TRADUÇÃO: vehicle
+车轮 | TRADUÇÃO: wheel
+车轮子 | TRADUÇÃO: wheel
+车轮战 | TRADUÇÃO: tactic of several persons or groups taking turns to fight one opponent; tag-team attack
+车轮饼 | TRADUÇÃO: imagawayaki (sweet snack made of batter cooked in the shape of a car wheel, stuffed with azuki bean paste or other fillings)
+车辕 | TRADUÇÃO: shaft of a traditional animal-drawn vehicle (cart, carriage, wagon etc), connecting the harness to the vehicle body
+车辙 | TRADUÇÃO: wheel rut; vehicle track
+车速 | TRADUÇÃO: vehicle speed
+车道 | TRADUÇÃO: traffic lane/driveway
+车里雅宾斯克 | TRADUÇÃO: Chelyabinsk town on the eastern flanks of Ural, on trans-Siberian railway
+车铃 | TRADUÇÃO: bicycle bell
+车钱 | TRADUÇÃO: fare/transport costs
+车门 | TRADUÇÃO: car door/door of bus, railway carriage etc
+车间 | TRADUÇÃO: workshop/CL:個|个
+车闸 | TRADUÇÃO: brake (of a car, bicycle etc)
+车队 | TRADUÇÃO: motorcade; convoy (CL:列)/fleet of vehicles/racing team (esp. in motor sports or cycling)
+车险 | TRADUÇÃO: auto insurance
+车震 | TRADUÇÃO: to have car sex
+车顶 | TRADUÇÃO: car roof
+车顶架 | TRADUÇÃO: roof rack
+车头灯 | TRADUÇÃO: (vehicle) headlight
+车头相 | TRADUÇÃO: photo attached to the front of a hearse in a funeral procession
+车马 | TRADUÇÃO: vehicles and horses
+车驾 | TRADUÇÃO: the emperor's carriage; (metonym) the emperor
+车龙 | TRADUÇÃO: long queue of slow-moving traffic/tram
+轧 | TRADUÇÃO: surname Ya ‖ to crush together (in a crowd)/to make friends/to check (accounts) ‖ to crush/to knock sb down with a vehicle ‖ to roll (steel)
+轧场 | TRADUÇÃO: to roll with a stone roller/to thresh grain by rolling
+轧染 | TRADUÇÃO: pad dyeing
+轧染机 | TRADUÇÃO: pressure roller used in dyeing trough
+轧棉 | TRADUÇÃO: to gin cotton (separate seeds from fiber)
+轧机 | TRADUÇÃO: steel rolling mill
+轧空 | TRADUÇÃO: (finance) to squeeze short sellers
+轧花机 | TRADUÇÃO: cotton gin
+轧制 | TRADUÇÃO: rolling steel
+轧轧 | TRADUÇÃO: (onom.) sound of machinery, e.g. squeaking
+轧辊 | TRADUÇÃO: (steelmaking) roll/roller/CL:根
+轧道机 | TRADUÇÃO: road roller
+轧道车 | TRADUÇÃO: trolley for inspecting rail track
+轧钢 | TRADUÇÃO: to roll steel (into sheets or bars)
+轧钢厂 | TRADUÇÃO: a steel rolling mill
+轧钢条 | TRADUÇÃO: steel rails
+轧钢机 | TRADUÇÃO: a steel rolling mill
+轧马路 | TRADUÇÃO: to stroll around the streets (esp. of a young couple)
+轨 | TRADUÇÃO: (bound form) rail; track; course; path
+轨域 | TRADUÇÃO: (Tw) (quantum mechanics) orbital
+轨枕 | TRADUÇÃO: sleeper/tie
+轨范 | TRADUÇÃO: standard/criterion
+轨距 | TRADUÇÃO: gauge
+轨迹 | TRADUÇÃO: locus/orbit/trajectory/track
+轨迹球 | TRADUÇÃO: trackball (computing)
+轨道 | TRADUÇÃO: track (for trains etc)/orbit (of a satellite)/(fig.) a person's established path in life/desired trajectory (of a business or other endeavor)/(audio engineering) track/(quantum mechanics) orbital
+轨道交通 | TRADUÇÃO: metro/rapid transit/subway
+轨道空间站 | TRADUÇÃO: orbital space station
+轨道舱 | TRADUÇÃO: orbital module
+军 | TRADUÇÃO: (bound form) army/military
+军事 | TRADUÇÃO: military affairs; (attributive) military
+军事力量 | TRADUÇÃO: military strength/military force(s)
+军事化 | TRADUÇÃO: militarization
+军事基地 | TRADUÇÃO: military base
+军事威胁 | TRADUÇÃO: military threat
+军事学 | TRADUÇÃO: military science
+军事家 | TRADUÇÃO: military expert/general
+军事实力 | TRADUÇÃO: military strength/military power
+军事工业 | TRADUÇÃO: defense industry
+军事情报 | TRADUÇÃO: military intelligence
+军事援助 | TRADUÇÃO: military aid
+军事政变 | TRADUÇÃO: military coup
+军事机构 | TRADUÇÃO: military institution
+军事法庭 | TRADUÇÃO: court-martial; military tribunal
+军事演习 | TRADUÇÃO: military exercise/war game
+军事科学 | TRADUÇÃO: military science
+军事行动 | TRADUÇÃO: military operation
+军事训练 | TRADUÇÃO: military exercise/army drill
+军事设施 | TRADUÇÃO: military installations
+军事部门 | TRADUÇÃO: military branch
+军事体育 | TRADUÇÃO: military sports/military fitness (curriculum etc)/abbr. to 軍體|军体
+军人 | TRADUÇÃO: serviceman/soldier/military personnel
+军令如山 | TRADUÇÃO: military orders are like mountains (idiom)/a military order must be obeyed
+军令状 | TRADUÇÃO: military order
+军备 | TRADUÇÃO: (military) arms/armaments
+军备竞赛 | TRADUÇÃO: arms race/armament(s) race
+军公教 | TRADUÇÃO: army, civil service and education/all branches of state employment
+军刀 | TRADUÇÃO: military knife/saber
+军分区 | TRADUÇÃO: military subdistricts
+军力 | TRADUÇÃO: military power
+军功 | TRADUÇÃO: (military) meritorious service
+军功章 | TRADUÇÃO: military medal
+军务 | TRADUÇÃO: military affairs
+军势 | TRADUÇÃO: army strength/military prowess or potential
+军区 | TRADUÇÃO: geographical area of command/(PLA) military district
+军品 | TRADUÇÃO: product for military use
+军售 | TRADUÇÃO: arms sales
+军国主义 | TRADUÇÃO: militarism
+军团 | TRADUÇÃO: corps/legion
+军团杆菌 | TRADUÇÃO: legionella bacteria
+军团菌 | TRADUÇÃO: legionella (bacterium causing legionnaires' disease)
+军团菌病 | TRADUÇÃO: legionnaires' disease
+军士 | TRADUÇÃO: soldier/noncommssioned officer (NCO)
+军妓 | TRADUÇÃO: military prostitute
+军委 | TRADUÇÃO: Military Commission of the Communist Party Central Committee
+军委会 | TRADUÇÃO: Military Commission of the Communist Party Central Committee/same as 軍委|军委
+军嫂 | TRADUÇÃO: wife of a serviceman; soldier's wife
+军官 | TRADUÇÃO: officer (military)
+军属 | TRADUÇÃO: military family member; dependent of a servicemember/(historical) civilian employee attached to the military
+军工 | TRADUÇÃO: defense industry (abbr. for 軍事工業|军事工业)
+军工复合体 | TRADUÇÃO: military-industrial complex
+军师 | TRADUÇÃO: (old) military counselor/(coll.) trusted adviser
+军心 | TRADUÇÃO: (military) troop morale/(fig.) team morale
+军情 | TRADUÇÃO: military situation/military intelligence
+军情五处 | TRADUÇÃO: MI5 (British military counterintelligence office)
+军情六处 | TRADUÇÃO: MI6 (British military intelligence agency)
+军政 | TRADUÇÃO: army and government
+军政府 | TRADUÇÃO: military government
+军方 | TRADUÇÃO: military
+军旅 | TRADUÇÃO: army
+军曹鱼 | TRADUÇÃO: cobia or black kingfish (Rachycentron canadum)
+军校 | TRADUÇÃO: military school/military academy
+军棋 | TRADUÇÃO: land battle chess, Chinese board game similar to Stratego
+军乐 | TRADUÇÃO: military music
+军乐团 | TRADUÇÃO: military band
+军乐队 | TRADUÇÃO: military band
+军机 | TRADUÇÃO: military aircraft/secret plan/Privy Council during the Qing dynasty
+军机处 | TRADUÇÃO: Office of Military and Political Affairs (Qing Dynasty)
+军歌 | TRADUÇÃO: military song
+军民 | TRADUÇÃO: army-civilian/military-masses/military-civilian
+军法 | TRADUÇÃO: martial law
+军港 | TRADUÇÃO: naval port/naval base
+军演 | TRADUÇÃO: military exercises
+军火 | TRADUÇÃO: weapons and ammunition/munitions/arms
+军火交易 | TRADUÇÃO: arms deal
+军火公司 | TRADUÇÃO: arms company
+军火库 | TRADUÇÃO: arsenal
+军营 | TRADUÇÃO: barracks/army camp
+军犬 | TRADUÇÃO: military dog
+军用 | TRADUÇÃO: (for) military use/military application
+军粮 | TRADUÇÃO: army provisions
+军绿 | TRADUÇÃO: army green
+军舰 | TRADUÇÃO: warship/military naval vessel/CL:艘
+军号 | TRADUÇÃO: bugle
+军装 | TRADUÇÃO: military uniform
+军训 | TRADUÇÃO: to do military training
+军警 | TRADUÇÃO: the military and the police/military alert (announcing the approach of the enemy)
+军费 | TRADUÇÃO: military expenditure
+军费开支 | TRADUÇÃO: military spending
+军车 | TRADUÇÃO: military vehicle
+军迷 | TRADUÇÃO: military enthusiast
+军医 | TRADUÇÃO: military doctor
+军医院 | TRADUÇÃO: military hospital
+军衔 | TRADUÇÃO: army rank/military rank
+军阀 | TRADUÇÃO: military clique/junta/warlord
+军阀混战 | TRADUÇÃO: incessant fighting between warlords
+军阵 | TRADUÇÃO: battle formation
+军队 | TRADUÇÃO: armed forces; troops/CL:支
+军需 | TRADUÇÃO: military supplies
+军需官 | TRADUÇÃO: quartermaster
+军饷 | TRADUÇÃO: a soldier's pay and provisions
+军马 | TRADUÇÃO: warhorse; cavalry horse/troops
+军体 | TRADUÇÃO: military sports/military fitness (curriculum etc)/abbr. for 軍事體育|军事体育
+军龄 | TRADUÇÃO: length of military service
+𫐄 | TRADUÇÃO: crossbar for yoking horses
+轩 | TRADUÇÃO: surname Xuan ‖ pavilion with a view/high/tall/high fronted, curtained carriage (old)
+轩冕 | TRADUÇÃO: (literary) curtained carriage and ceremonial cap (symbols of a senior official); (fig.) dignitaries/(literary) to hold an official post
+轩尼诗 | TRADUÇÃO: Hennessy (cognac)
+轩掖 | TRADUÇÃO: forbidden place
+轩昂 | TRADUÇÃO: high/lofty/elevated/dignified
+轩槛 | TRADUÇÃO: railings of a balcony
+轩然大波 | TRADUÇÃO: huge waves/(fig.) ruckus/controversy/sensation
+轩轩自得 | TRADUÇÃO: to be delighted with oneself
+轩辕 | TRADUÇÃO: Xuan Yuan, personal name of Huangdi, the Yellow Emperor 黃帝|黄帝 ‖ two-character surname Xuanyuan
+轩辕十四 | TRADUÇÃO: Regulus (constellation)
+轩辕氏 | TRADUÇÃO: alternative name for the Yellow Emperor 黃帝|黄帝
+轫 | TRADUÇÃO: brake
+軖 | TRADUÇÃO: spinning wheel/wheelbarrow
+軘 | TRADUÇÃO: war chariot
+軚 | TRADUÇÃO: (Cantonese) steering wheel/(Cantonese) tire (car, bicycle)
+轭 | TRADUÇÃO: yoke
+軜 | TRADUÇÃO: inner reins of a 4-horse team
+𬨂 | TRADUÇÃO: end of axle
+软 | TRADUÇÃO: soft/flexible ‖ variant of 軟|软
+软件 | TRADUÇÃO: software
+软件企业 | TRADUÇÃO: software company
+软件包 | TRADUÇÃO: software package
+软件即服务 | TRADUÇÃO: software as a service (SaaS)
+软件平台 | TRADUÇÃO: software platform
+软件技术 | TRADUÇÃO: software technology
+软件系统 | TRADUÇÃO: software system
+软件开发 | TRADUÇÃO: software development
+软刀子 | TRADUÇÃO: (lit.) the soft knife/(fig.) underhanded tactics/devious means of attack
+软包 | TRADUÇÃO: soft (bread) roll
+软化 | TRADUÇÃO: to soften
+软口盖 | TRADUÇÃO: soft palate/velum
+软呢 | TRADUÇÃO: soft, pliable wool fabric
+软和 | TRADUÇÃO: (coll.) pleasantly soft/comfy/(of words) gentle/soothing
+软坐 | TRADUÇÃO: soft seat (= first class in PRC trains)
+软妹币 | TRADUÇÃO: (Internet slang) Renminbi (pun on 人民幣|人民币)
+软实力 | TRADUÇÃO: soft power (in international relations)
+软尺 | TRADUÇÃO: soft measuring tape (non-retractable type used for body measurements etc)
+软席 | TRADUÇÃO: soft seat (= first class in PRC trains)
+软座 | TRADUÇÃO: soft seat (on trains or boats)
+软弱 | TRADUÇÃO: weak/feeble/flabby
+软文 | TRADUÇÃO: advertorial
+软木 | TRADUÇÃO: cork
+软木塞 | TRADUÇÃO: a cork
+软木砖 | TRADUÇÃO: cork tile/cork flooring
+软柿子 | TRADUÇÃO: (coll.) pushover/soft touch
+软梯 | TRADUÇÃO: rope ladder
+软毛 | TRADUÇÃO: fur
+软水 | TRADUÇÃO: soft water (cf. 硬水, hard water)
+软泥 | TRADUÇÃO: soft mud/silt/sludge/ooze (geology)
+软泥儿 | TRADUÇÃO: erhua variant of 軟泥|软泥
+软流圈 | TRADUÇÃO: (geology) asthenosphere
+软流层 | TRADUÇÃO: (geology) asthenosphere
+软焊 | TRADUÇÃO: to solder
+软烂 | TRADUÇÃO: (of food etc) soft; pulpy/(Tw) (of a person) lacking drive; shiftless; lazy
+软片 | TRADUÇÃO: (photographic) film
+软玉 | TRADUÇÃO: nephrite/Ca(Mg,Fe)3(SiO3)4
+软甲纲 | TRADUÇÃO: Malacostraca, a large class of crustaceans
+软盘 | TRADUÇÃO: floppy disk
+软硬不吃 | TRADUÇÃO: unmoved by force or persuasion
+软硬件 | TRADUÇÃO: software and hardware
+软硬兼施 | TRADUÇÃO: use both carrot and stick/use gentle methods and force/an iron hand in a velvet glove
+软碟 | TRADUÇÃO: floppy disk
+软磁盘 | TRADUÇÃO: floppy disk
+软磁碟 | TRADUÇÃO: floppy disk
+软磨硬泡 | TRADUÇÃO: to coax and pester (idiom)/to wheedle/to cajole
+软禁 | TRADUÇÃO: to place under house arrest
+软管 | TRADUÇÃO: hose/flexible tube
+软糖 | TRADUÇÃO: soft candy (gummi candy, gumdrop, jellybean etc)
+软糯 | TRADUÇÃO: soft and chewy (mouthfeel)/(of a voice) tender; coaxing; clinging
+软组织 | TRADUÇÃO: soft tissue
+软绵绵 | TRADUÇÃO: soft/velvety/flabby/weak/schmaltzy
+软耳朵 | TRADUÇÃO: credulous person/credulous
+软肋 | TRADUÇÃO: (anatomy) costal cartilage/(fig.) weak spot; weak link; vulnerability
+软脂酸 | TRADUÇÃO: palmitic acid (chemistry)
+软脚虾 | TRADUÇÃO: weakling/coward
+软脚蟹 | TRADUÇÃO: same as 軟腳蝦|软脚虾
+软膏 | TRADUÇÃO: ointment/paste
+软卧 | TRADUÇÃO: soft sleeper (a type of sleeper train ticket class with a softer bunk)
+软着陆 | TRADUÇÃO: (aviation) soft landing/(economics) soft landing
+软足类 | TRADUÇÃO: (coll.) inkfish; octopus, squid and cuttlefish
+软钉子 | TRADUÇÃO: lit. a soft nail/fig. a tactful retort or rejection
+软饭男 | TRADUÇÃO: kept man
+软饮 | TRADUÇÃO: soft drink
+软饮料 | TRADUÇÃO: soft drink
+软骨 | TRADUÇÃO: cartilage
+软骨病 | TRADUÇÃO: chondropathy (medicine)
+软骨头 | TRADUÇÃO: weak, cowardly person/spineless individual
+软骨鱼 | TRADUÇÃO: cartilaginous fish (such as sharks and rays)
+软骨鱼类 | TRADUÇÃO: cartilaginous fishes/Chondrichthyes (taxonomic class including sharks and rays)
+软体 | TRADUÇÃO: (of an animal) soft-bodied/(Tw) software
+软体动物 | TRADUÇÃO: mollusk
+软体业 | TRADUÇÃO: the software industry
+软龈音 | TRADUÇÃO: velar sound (linguistics)
+软腭 | TRADUÇÃO: soft palate
+软腭音 | TRADUÇÃO: (linguistics) velar consonant
+軠 | TRADUÇÃO: old variant of 軖
+軡 | TRADUÇÃO: old variant of 黔
+轷 | TRADUÇÃO: surname Hu
+軥 | TRADUÇÃO: ends of yoke
+軨 | TRADUÇÃO: lattice work on front and sides
+轸 | TRADUÇÃO: square/strongly (as of emotion)
+轸方 | TRADUÇÃO: square/four-square
+軭 | TRADUÇÃO: to spoil (Cant.)/to ruin/to warp (car wheel)
+軱 | TRADUÇÃO: big bone
+轱 | TRADUÇÃO: used in 軲轆|轱辘
+轱辘 | TRADUÇÃO: (coll.) wheel/to turn; to roll
+軶 | TRADUÇÃO: old variant of 軛|轭
+軷 | TRADUÇÃO: sacrifice
+轴 | TRADUÇÃO: axis/axle/spool (for thread)/roller (for scrolls)/classifier for calligraphy rolls etc ‖ see 壓軸戲|压轴戏/Taiwan pr. [zhou2]
+轴向 | TRADUÇÃO: axis/axial
+轴对称 | TRADUÇÃO: (geometry) axial symmetry
+轴心 | TRADUÇÃO: axle/(fig.) central element/key element/axis (alliance of nations)
+轴心国 | TRADUÇÃO: Axis powers (World War II)
+轴承 | TRADUÇÃO: (mechanical) bearing
+轴承销 | TRADUÇÃO: pin bearing
+轴旋转 | TRADUÇÃO: to rotate about an axis/axis of rotation (math.)
+轴率 | TRADUÇÃO: axial ratio
+轴突 | TRADUÇÃO: axon
+轴突运输 | TRADUÇÃO: axonal transport
+轴索 | TRADUÇÃO: axon (long thin axis of nerve cell)
+轴丝 | TRADUÇÃO: axoneme (long thread of nerve cell)
+轴线 | TRADUÇÃO: central axis (line)
+轴距 | TRADUÇÃO: wheelbase
+轵 | TRADUÇÃO: end of axle outside of hub
+轺 | TRADUÇÃO: light carriage
+轲 | TRADUÇÃO: given name of Mencius ‖ used in 轗軻|𫐘轲
+轶 | TRADUÇÃO: (bound form) (of a book, author etc) lost (to the ages) (variant of 佚)/(bound form) to surpass the ordinary; outstanding (variant of 逸)
+轶事 | TRADUÇÃO: variant of 逸事
+轶事遗闻 | TRADUÇÃO: anecdote (about historical person)/lost or apocryphal story
+轶群 | TRADUÇÃO: variant of 逸群
+轶闻 | TRADUÇÃO: anecdote/apocryphal story
+轼 | TRADUÇÃO: (literary) handrail at the front of a carriage or chariot; to bow while leaning on this handrail as a gesture of respect
+軿 | TRADUÇÃO: curtained carriage used by women/to gather together/to assemble
+輀 | TRADUÇÃO: hearse
+輂 | TRADUÇÃO: horse carriage (old)
+輂辇 | TRADUÇÃO: emperor's carriage
+较 | TRADUÇÃO: (bound form) to compare/(literary) to dispute/compared to/(before an adjective) relatively; comparatively; rather/also pr. [jiao3]
+较劲 | TRADUÇÃO: to match one's strength with/to compete/more competitive/to set oneself against sb/disobliging/to make a special effort
+较劲儿 | TRADUÇÃO: erhua variant of 較勁|较劲
+较场 | TRADUÇÃO: military drill ground/same as 校場|校场
+较大 | TRADUÇÃO: comparatively large
+较好 | TRADUÇÃO: better
+较差 | TRADUÇÃO: range (the difference between the lowest and highest values) ‖ mediocre/rather poor/not specially good
+较比 | TRADUÇÃO: comparatively (colloquial)/fairly/quite/rather/relatively
+较为 | TRADUÇÃO: comparatively/relatively/fairly
+较然 | TRADUÇÃO: clearly/evidently/markedly
+较略 | TRADUÇÃO: approximately/roughly/about
+较真 | TRADUÇÃO: serious; meticulous; nitpicky/to take sth (or sb) seriously
+较真儿 | TRADUÇÃO: erhua variant of 較真|较真
+较短絜长 | TRADUÇÃO: to compare long and short/to compare the pros and cons
+较著 | TRADUÇÃO: obvious/prominent/standing out
+较量 | TRADUÇÃO: to pit oneself against sb/to compete with sb/contest/battle/to haggle/to quibble
+较长絜短 | TRADUÇÃO: to compare long and short/to compare the pros and cons
+辂 | TRADUÇÃO: (archaic) large carriage, esp. a conveyance for a monarch
+辁 | TRADUÇÃO: limited (of talent or ability)/(archaic) solid wheel (without spokes)
+辀 | TRADUÇÃO: (literary) shaft (of a cart)/cart
+载 | TRADUÇÃO: to record in writing/to carry (i.e. publish in a newspaper etc)/Taiwan pr. [zai4]/year ‖ to carry/to convey/to load/to hold/to fill up/and/also/as well as/simultaneously
+载人 | TRADUÇÃO: to carry a passenger/(of spaceships etc) manned/also pr. [zai3 ren2]
+载伯德 | TRADUÇÃO: Zebedee (name)
+载入 | TRADUÇÃO: to load into/to record/to write into/to enter (data)/to go into (the records)/to go down (in history)
+载入史册 | TRADUÇÃO: to be recorded in history; to go down in history
+载具 | TRADUÇÃO: conveyance (car, boat, aircraft etc); vehicle/(fig.) medium; platform; vector/(Tw) (Taiwan pr. [zai3 ju4]) a consumer's device (smart card or mobile app barcode etc) that can be scanned at checkout to save the receipt 統一發票|统一发票 to a cloud account
+载客 | TRADUÇÃO: to carry passengers
+载客车 | TRADUÇÃO: passenger vehicle
+载客量 | TRADUÇÃO: passenger capacity
+载弹量 | TRADUÇÃO: payload
+载携 | TRADUÇÃO: to carry/to bear
+载明 | TRADUÇÃO: to state explicitly in writing/to specify/to stipulate
+载歌且舞 | TRADUÇÃO: singing and dancing (idiom); festive celebrations
+载歌载舞 | TRADUÇÃO: singing and dancing (idiom); festive celebrations
+载波 | TRADUÇÃO: carrier wave
+载湉 | TRADUÇÃO: birth name of Qing emperor Guangxu 光緒|光绪
+载漪 | TRADUÇÃO: Zai Yi (1856-1922), Manchu imperial prince and politician, disgraced after supporting the Boxers
+载玻片 | TRADUÇÃO: microscope slide
+载籍 | TRADUÇÃO: books (in Confucian education)
+载舟覆舟 | TRADUÇÃO: to carry a boat or to overturn a boat (idiom); fig. The people can support a regime or overturn it.
+载荷 | TRADUÇÃO: load
+载货 | TRADUÇÃO: freight/load
+载货汽车 | TRADUÇÃO: truck
+载车 | TRADUÇÃO: onboard (equipment)/to ferry cars/missile trucks
+载途 | TRADUÇÃO: to cover the road (snow, wind, hazards etc)/distance (between locations)
+载运 | TRADUÇÃO: to convey (on vehicle)/to freight
+载道 | TRADUÇÃO: to fill the road (also fig. clamor, cries of complaint)/to communicate a moral/to convey the Way/to express (idea, preference, complaint)
+载酒问字 | TRADUÇÃO: a scholarly and inquisitive individual (idiom)
+载重 | TRADUÇÃO: load/carrying capacity
+载重能力 | TRADUÇÃO: weight-carrying capacity
+载重量 | TRADUÇÃO: dead weight/weight capacity of a vehicle
+载频 | TRADUÇÃO: frequency of carrier wave
+载体 | TRADUÇÃO: carrier (chemistry)/vector (epidemiology)/vehicle or medium
+轾 | TRADUÇÃO: back and lower of chariot/short/low
+𪨶 | TRADUÇÃO: old variant of 畲
+辄 | TRADUÇÃO: then/at once/always/(archaic) luggage rack on a chariot ‖ variant of 輒|辄
+挽联 | TRADUÇÃO: pair of parallel verses inscribed on streamers, used as funeral decoration
+挽诗 | TRADUÇÃO: elegy
+挽近 | TRADUÇÃO: old variant of 晚近
+辅 | TRADUÇÃO: to assist/to complement/auxiliary
+辅仁大学 | TRADUÇÃO: Fu Jen Catholic University of Peking (from 1925), forerunner of Beijing Normal University 北京師範大學|北京师范大学/Fu Jen Catholic University in New Taipei City, Taiwan
+辅以 | TRADUÇÃO: supplemented by/accompanied by/with
+辅佐 | TRADUÇÃO: to assist (usually a ruler)
+辅修 | TRADUÇÃO: (education) to minor in; minor
+辅具 | TRADUÇÃO: assistive device (walking frame, hearing aid etc)
+辅助 | TRADUÇÃO: to assist; to aid/supplementary; auxiliary
+辅助语 | TRADUÇÃO: auxiliary language
+辅助医疗 | TRADUÇÃO: complementary medicine
+辅大 | TRADUÇÃO: abbr. for 輔仁大學|辅仁大学
+辅导 | TRADUÇÃO: to guide; to mentor; to counsel; to coach; to tutor
+辅导人 | TRADUÇÃO: tutor
+辅导员 | TRADUÇÃO: coach (teacher or trainer)
+辅导班 | TRADUÇÃO: tutorial class/remedial class/preparatory course
+辅导金 | TRADUÇÃO: grant (Tw)
+辅币 | TRADUÇÃO: fractional currency (coin or note of value smaller than the country's unit of currency)/token (used instead of money for slot machines etc)
+辅弼 | TRADUÇÃO: to assist a ruler in governing a country/prime minister
+辅料 | TRADUÇÃO: auxiliary ingredients/supplementary materials
+辅系 | TRADUÇÃO: (Tw) (university education) minor
+辅课 | TRADUÇÃO: subsidiary course
+辅警 | TRADUÇÃO: auxiliary police officer
+辅酶 | TRADUÇÃO: coenzyme (chemistry)
+辅音 | TRADUÇÃO: consonant
+辅食 | TRADUÇÃO: complementary food (for an infant)
+轻 | TRADUÇÃO: light/easy/gentle/soft/reckless/unimportant/frivolous/small in number/unstressed/neutral/to disparage
+轻佻 | TRADUÇÃO: frivolous/coquettish
+轻侮 | TRADUÇÃO: (literary) to treat with disrespect
+轻便 | TRADUÇÃO: lightweight and portable/light and convenient
+轻信 | TRADUÇÃO: to easily trust; gullible; naïve
+轻伤 | TRADUÇÃO: lightly wounded/minor injuries
+轻元素 | TRADUÇÃO: light element (such as hydrogen)
+轻功 | TRADUÇÃO: (Chinese martial arts) the art of agile movement such as leaping, wall-running or gliding through the air (exaggerated in wuxia stories)
+轻取 | TRADUÇÃO: to beat easily/to gain an easy victory
+轻口薄舌 | TRADUÇÃO: (idiom) hasty and rude; caustic and sharp-tongued
+轻咬 | TRADUÇÃO: to nibble
+轻嘴薄舌 | TRADUÇÃO: lit. light mouth, thin tongue (idiom); hasty and rude/caustic and sharp-tongued
+轻型 | TRADUÇÃO: light (machinery, aircraft etc)
+轻型轨道交通 | TRADUÇÃO: light rail/transit system (underground, at street level or elevated)/streetcar/metro/abbr. to 輕軌|轻轨
+轻子 | TRADUÇÃO: lepton (particle physics)
+轻工 | TRADUÇÃO: light engineering
+轻工业 | TRADUÇÃO: light industry
+轻巧 | TRADUÇÃO: dexterous/deft/easy/light and easy to use/nimble/agile/lithe/graceful
+轻度 | TRADUÇÃO: mild (symptoms etc)
+轻微 | TRADUÇÃO: slight/light/trivial/to a small extent
+轻快 | TRADUÇÃO: light and quick/brisk/spry/lively/effortless/relaxed/agile/blithe
+轻慢 | TRADUÇÃO: irreverent
+轻手轻脚 | TRADUÇÃO: (idiom) (to move or do sth) softly; quietly; gently
+轻打 | TRADUÇÃO: to tap; to hit lightly
+轻捷 | TRADUÇÃO: light on one's feet/nimble/agile
+轻描淡写 | TRADUÇÃO: (idiom) to treat sth as no big deal/to downplay/to understate
+轻抚 | TRADUÇÃO: to stroke lightly/to caress
+轻击区 | TRADUÇÃO: putting green (golf)
+轻击棒 | TRADUÇÃO: putter (golf)
+轻击球 | TRADUÇÃO: to hit the ball lightly (sport)/putt (golf)
+轻敌 | TRADUÇÃO: to underestimate the enemy
+轻于鸿毛 | TRADUÇÃO: light as a goose feather (idiom); trifling/unimportant
+轻易 | TRADUÇÃO: easy; simple/rashly; offhandedly
+轻染 | TRADUÇÃO: tinge
+轻柔 | TRADUÇÃO: soft; gentle; pliable
+轻机枪 | TRADUÇÃO: light machine gun
+轻机关枪 | TRADUÇÃO: also written 輕機槍|轻机枪/light machine gun
+轻武器 | TRADUÇÃO: light weapon
+轻水 | TRADUÇÃO: light water (as opposed to heavy water)/see light water reactor 輕水反應堆|轻水反应堆
+轻水反应堆 | TRADUÇÃO: light water reactor (LWR)
+轻浪浮薄 | TRADUÇÃO: (idiom) frivolous
+轻浮 | TRADUÇÃO: frivolous/careless/giddy
+轻狂 | TRADUÇÃO: frivolous
+轻率 | TRADUÇÃO: cavalier/offhand/reckless
+轻生 | TRADUÇÃO: to commit suicide; to take one's own life
+轻盈 | TRADUÇÃO: graceful/lithe/light and graceful/lighthearted/relaxed
+轻省 | TRADUÇÃO: relaxed/easy
+轻看 | TRADUÇÃO: to look down upon
+轻窕 | TRADUÇÃO: frivolous/capricious/playful
+轻纱 | TRADUÇÃO: light muslin/gauze
+轻罪 | TRADUÇÃO: petty crime/misdemeanor
+轻者 | TRADUÇÃO: less serious case/in less severe cases
+轻而易举 | TRADUÇÃO: easy/with no difficulty
+轻声 | TRADUÇÃO: in a quiet voice; softly/(linguistics) neutral tone
+轻声细语 | TRADUÇÃO: to speak softly/to whisper (idiom)
+轻脆 | TRADUÇÃO: sharp and clear/crisp/melodious/ringing/tinkling/silvery (of sound)/fragile/frail/also written 清脆
+轻举妄动 | TRADUÇÃO: to act blindly without thinking (idiom)
+轻蔑 | TRADUÇÃO: scornful; disdainful; contemptuous; pejorative/disdain; contempt
+轻薄 | TRADUÇÃO: light (weight)/frivolous/a philanderer/to scorn/disrespectful
+轻裘肥马 | TRADUÇÃO: lit. light furs and stout horses/fig. to live in luxury
+轻视 | TRADUÇÃO: contempt/contemptuous/to despise/to scorn/scornful
+轻言 | TRADUÇÃO: to say, without careful consideration
+轻言细语 | TRADUÇÃO: to speak softly
+轻质石油 | TRADUÇÃO: light petroleum (product)/gasoline and diesel oil
+轻质石油产品 | TRADUÇÃO: light petroleum product (i.e. gasoline and diesel oil)
+轻车熟路 | TRADUÇÃO: lit. to drive a lightweight chariot on a familiar road (idiom)/fig. to do sth routinely and with ease/a walk in the park
+轻车简从 | TRADUÇÃO: (of an official) to travel with little luggage and just a small escort/to travel without ostentation
+轻轨 | TRADUÇÃO: light rail; transit system (underground, at street level or elevated); streetcar; metro (abbr. for 輕型軌道交通|轻型轨道交通)
+轻轻 | TRADUÇÃO: lightly; softly
+轻重 | TRADUÇÃO: severity (of the case)/degree of seriousness/whether sth is slight or serious
+轻重主次 | TRADUÇÃO: to invert the importance of things (i.e. stress the incidental and neglect the main point)/lacking a sense of perspective/to put the cart before the horse
+轻重倒置 | TRADUÇÃO: to invert the importance of things (i.e. stress the unimportant and neglect the important)/lacking a sense of perspective/to put the cart before the horse
+轻重缓急 | TRADUÇÃO: slight or important, urgent or non-urgent (idiom); to deal with important matters first/sense of priority
+轻量 | TRADUÇÃO: lightweight
+轻量级 | TRADUÇÃO: lightweight (boxing etc)
+轻铁 | TRADUÇÃO: Hong Kong LRT (Light Rail Transit) (abbr. for 輕便鐵路|轻便铁路)
+轻灵 | TRADUÇÃO: quick and skillful/agile
+轻音乐 | TRADUÇÃO: light music
+轻风 | TRADUÇÃO: breeze/light wind
+轻飘飘 | TRADUÇÃO: light as a feather
+轻食 | TRADUÇÃO: light meal; snack
+轻饶 | TRADUÇÃO: to forgive easily/to let off lightly (often with negative: you won't get away with it)
+轻饶素放 | TRADUÇÃO: easily forgive, simply release (idiom); to let sb off scot free
+轻骑 | TRADUÇÃO: light cavalry/light motorcycle/moped
+轻松 | TRADUÇÃO: light/gentle/relaxed/effortless/uncomplicated/to relax/to take things less seriously
+𫐐 | TRADUÇÃO: clamps for crossbar of carriage
+辆 | TRADUÇÃO: classifier for vehicles
+辎 | TRADUÇÃO: covered wagon/military supply wagon
+辎重 | TRADUÇÃO: (military) supplies (munitions, rations, clothing etc)/equipment and supplies taken on an expedition/(fig.) burden
+辉 | TRADUÇÃO: (bound form) radiance; brilliance; to shine
+辉南 | TRADUÇÃO: see 輝南縣|辉南县
+辉南县 | TRADUÇÃO: Huinan, a county in Tonghua City 通化市, Jilin
+辉映 | TRADUÇÃO: to reflect/to shine
+辉格党 | TRADUÇÃO: Whig Party
+辉煌 | TRADUÇÃO: splendid/glorious
+辉瑞 | TRADUÇÃO: Pfizer, American pharmaceutical company
+辉石 | TRADUÇÃO: pyroxene (family of rock-forming minerals)/augite
+辉绿岩 | TRADUÇÃO: diabase (geology)/dolerite
+辉县 | TRADUÇÃO: see 輝縣市|辉县市
+辉县市 | TRADUÇÃO: Huixian, a county-level city in Xinxiang City 新鄉市|新乡市, Henan
+辉长岩 | TRADUÇÃO: gabbro (geology)
+辋 | TRADUÇÃO: tire/wheel band
+辍 | TRADUÇÃO: to stop (before completion)/to cease/to suspend
+辍学 | TRADUÇÃO: to drop out of school/to leave off studying/to interrupt one's studies
+辍工 | TRADUÇÃO: to stop work
+辍朝 | TRADUÇÃO: to suspend business at the imperial court on account of a misfortune
+辍业 | TRADUÇÃO: to give up work/to give up one's profession
+辍止 | TRADUÇÃO: to stop/to leave off
+辍演 | TRADUÇÃO: to stop performing a play/to interrupt a stage run
+辍笔 | TRADUÇÃO: to stop writing or painting/to leave off writing midway

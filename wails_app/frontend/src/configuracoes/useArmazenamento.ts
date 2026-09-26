@@ -5,6 +5,7 @@
 import { useState } from 'react';
 import { main } from '../../wailsjs/go/models';
 import { GetStorageInfo, LimparArmazenamento, ExcluirTudo } from '../../wailsjs/go/main/App';
+import { t } from '../i18n/i18n';
 
 interface OpcoesUseArmazenamento {
   setStatus: (mensagem: string) => void;
@@ -31,7 +32,7 @@ export function useArmazenamento({ setStatus, aoExcluirTudo }: OpcoesUseArmazena
       .then(() => {
         CarregarArmazenamento();
         aoExcluirTudo();
-        setStatus('Armazenamento limpo.');
+        setStatus(t('Armazenamento limpo.'));
       })
       .catch((err: any) => setStatus('⚠️ ' + String(err)))
       .finally(() => setArmazenamentoOcupado(false));

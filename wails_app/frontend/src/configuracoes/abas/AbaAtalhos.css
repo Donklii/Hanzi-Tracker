@@ -1,0 +1,107 @@
+/* ----- Estilos da Aba de Atalhos Globais nas Configurações ----- */
+.atalhos-container {
+  max-width: 780px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 4px 0 24px 0;
+}
+
+.atalhos-header-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 18px 22px;
+  background: var(--cor-fundo-cartao, rgba(255, 255, 255, 0.03));
+  border: 1px solid var(--cor-borda, rgba(255, 255, 255, 0.1));
+  border-radius: 12px;
+}
+
+.atalhos-header-info h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--cor-texto-primario, #f3f4f6);
+}
+
+.atalhos-header-info p {
+  margin: 4px 0 0 0;
+  font-size: 0.84rem;
+  color: var(--cor-texto-suave, #9ca3af);
+}
+
+.btn-guia-atalhos-header {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.atalhos-cards-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.atalho-row-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 16px 20px;
+  background: var(--cor-fundo-cartao, rgba(255, 255, 255, 0.03));
+  border: 1px solid var(--cor-borda, rgba(255, 255, 255, 0.08));
+  border-radius: 12px;
+  transition: all 0.2s ease;
+}
+
+.atalho-row-card:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.atalho-row-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+  min-width: 0;
+}
+
+.atalho-row-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--cor-texto-primario, #f3f4f6);
+}
+
+.atalho-row-desc {
+  font-size: 0.82rem;
+  color: var(--cor-texto-suave, #9ca3af);
+}
+
+.atalho-row-input {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  min-width: 240px;
+}
+
+.atalhos-footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 12px;
+  border-top: 1px solid var(--cor-borda, rgba(255, 255, 255, 0.08));
+}
+
+.btn-restaurar-todos {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 18px;
+  font-size: 0.88rem;
+}

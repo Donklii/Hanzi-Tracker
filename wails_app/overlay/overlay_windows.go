@@ -3,6 +3,7 @@
 package overlay
 
 import (
+	"fmt"
 	"syscall"
 	"unsafe"
 
@@ -17,18 +18,29 @@ const (
 	LWA_ALPHA     = 2
 )
 
+// Afinidade de exibição que mantém a janela visível no monitor mas FORA de qualquer captura de
+// tela (BitBlt/PrintScreen/DXGI): o print mostra o conteúdo ATRÁS dela. Windows 10 2004+.
+const WDA_EXCLUDEFROMCAPTURE = 0x00000011
+
 var (
 	user32 = syscall.NewLazyDLL("user32.dll")
 	gdi32  = syscall.NewLazyDLL("gdi32.dll")
 
 	procPostThreadMessageW         = user32.NewProc("PostThreadMessageW")
 	procSetLayeredWindowAttributes = user32.NewProc("SetLayeredWindowAttributes")
+	procSetWindowDisplayAffinity   = user32.NewProc("SetWindowDisplayAffinity")
 	procDrawTextW                  = user32.NewProc("DrawTextW")
 	procFillRect                   = user32.NewProc("FillRect")
 
 	procCreateSolidBrush = gdi32.NewProc("CreateSolidBrush")
 	procCreateFontW      = gdi32.NewProc("CreateFontW")
 )
+
+// capturaExcluiOverlays indica que as janelas do overlay nascem excluídas das capturas de tela:
+// highlights não contaminam o print (nem viram falsa "censura" para o vigia) e a captura dispensa
+// o esconde-e-restaura que fazia tudo piscar. Escrita UMA vez pela sonda em Iniciar, antes de
+// existir qualquer janela real e antes do close(ready) — que publica o valor para quem captura.
+var capturaExcluiOverlays bool
 
 func postThreadMessage(idThread uint32, msg uint32, wParam, lParam uintptr) bool {
 	ret, _, _ := procPostThreadMessageW.Call(uintptr(idThread), uintptr(msg), wParam, lParam)
@@ -157,7 +169,32 @@ func createWindow(className, title string, x, y, w, h int, isTopmost bool, alpha
 		flags |= LWA_ALPHA
 	}
 	setLayeredWindowAttributes(hwnd, win.RGB(255, 0, 255), alpha, flags)
+
+	if capturaExcluiOverlays && !excluirJanelaDaCaptura(hwnd) {
+		fmt.Printf("Aviso: overlay '%s' sem exclusão de captura (pode vazar nos prints do OCR/vigia)\n", title)
+	}
 	return hwnd
+}
+
+
+// excluirJanelaDaCaptura aplica WDA_EXCLUDEFROMCAPTURE: a janela segue na tela para o usuário,
+// mas some dos prints — o scan e o vigia enxergam o conteúdo atrás dela.
+func excluirJanelaDaCaptura(hwnd win.HWND) bool {
+	ret, _, _ := procSetWindowDisplayAffinity.Call(uintptr(hwnd), WDA_EXCLUDEFROMCAPTURE)
+	return ret != 0
+}
+
+
+// sondarExclusaoDaCaptura descobre, com uma janela de teste nunca exibida, se o Windows suporta
+// WDA_EXCLUDEFROMCAPTURE — em versões antigas (< 10 2004) a chamada falha e o overlay mantém o
+// fallback de esconder os destaques durante cada captura.
+func sondarExclusaoDaCaptura() bool {
+	sonda := createWindow(className, "HanziTrackerSondaCaptura", 0, 0, 1, 1, false, 255)
+	if sonda == 0 {
+		return false
+	}
+	defer win.DestroyWindow(sonda)
+	return excluirJanelaDaCaptura(sonda)
 }
 
 // Struct para dados de cada janela

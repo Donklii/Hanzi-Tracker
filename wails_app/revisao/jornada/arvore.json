@@ -1,0 +1,263 @@
+{
+  "mapa": { "largura": 2000, "altura": 2100 },
+  "ramos": [
+    {
+      "id": "fund1", "nome": "Fundamentos", "icone": "fundamentos",
+      "dificuldade": "iniciante", "pai": "", "tema": "",
+      "rotuloMapa": [1000, 314],
+      "niveis": [
+        { "titulo": "Saudações", "pos": [1000, 400],
+          "palavras": ["你好", "谢谢", "再见", "请", "对不起"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Pessoas", "pos": [958, 522],
+          "palavras": ["我", "你", "他", "她", "朋友"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Números e tempo", "pos": [1026, 644],
+          "palavras": ["一", "二", "三", "今天", "明天"],
+          "revisoes": ["palavras", "desenho", "mista"] },
+        { "titulo": "Verbos essenciais", "pos": [974, 766],
+          "palavras": ["是", "有", "去", "吃", "喝"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "pronuncia", "mista"] },
+        { "titulo": "Perguntas básicas", "pos": [1000, 888],
+          "palavras": ["吗", "什么", "谁", "哪里", "好"],
+          "revisoes": ["palavras", "fonetica", "frases", "pronuncia", "mista"] }
+      ]
+    },
+    {
+      "id": "cotidiano1", "nome": "Conversas Cotidianas", "icone": "cotidiano",
+      "dificuldade": "iniciante", "pai": "fund1", "tema": "日常生活",
+      "rotuloMapa": [660, 1132],
+      "niveis": [
+        { "titulo": "Rotina da manhã", "pos": [660, 1050],
+          "palavras": ["起床", "洗澡", "早饭", "上班"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Em casa", "pos": [445, 955],
+          "palavras": ["家", "房间", "电视", "睡觉"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Conversas simples", "pos": [335, 815],
+          "palavras": ["现在", "忙", "累", "开心"],
+          "revisoes": ["palavras", "desenho", "mista"] },
+        { "titulo": "Fazendo planos", "pos": [335, 670],
+          "palavras": ["周末", "一起", "电影", "见面"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "pronuncia", "mista"] }
+      ]
+    },
+    {
+      "id": "fund2", "nome": "Fundamentos II", "icone": "fundamentos",
+      "dificuldade": "intermediario", "pai": "fund1", "tema": "",
+      "rotuloMapa": [845, 1062],
+      "niveis": [
+        { "titulo": "Conectivos", "pos": [845, 1145],
+          "palavras": ["因为", "所以", "但是", "或者"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Tempo e aspecto", "pos": [800, 1275],
+          "palavras": ["已经", "过", "正在", "了"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Verbos modais", "pos": [845, 1405],
+          "palavras": ["可以", "应该", "想", "会"],
+          "revisoes": ["palavras", "desenho", "mista"] },
+        { "titulo": "Comparações", "pos": [800, 1535],
+          "palavras": ["比", "更", "最", "一样"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "pronuncia", "mista"] }
+      ]
+    },
+    {
+      "id": "viagem1", "nome": "Viagem", "icone": "viagem",
+      "dificuldade": "iniciante", "pai": "fund1", "tema": "旅行交通",
+      "rotuloMapa": [1155, 1062],
+      "niveis": [
+        { "titulo": "No aeroporto", "pos": [1155, 1145],
+          "palavras": ["飞机", "护照", "行李", "机场"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "No hotel", "pos": [1200, 1275],
+          "palavras": ["酒店", "预订", "钥匙", "房间"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Direções", "pos": [1155, 1405],
+          "palavras": ["车站", "地图", "左边", "右边"],
+          "revisoes": ["palavras", "desenho", "mista"] },
+        { "titulo": "Passeios", "pos": [1200, 1535],
+          "palavras": ["票", "公园", "博物馆", "照片"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "pronuncia", "mista"] }
+      ]
+    },
+    {
+      "id": "gastro1", "nome": "Gastronomia", "icone": "gastronomia",
+      "dificuldade": "iniciante", "pai": "fund1", "tema": "饮食",
+      "rotuloMapa": [1340, 1132],
+      "niveis": [
+        { "titulo": "No restaurante", "pos": [1340, 1050],
+          "palavras": ["菜单", "服务员", "点菜", "筷子"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Pratos e bebidas", "pos": [1555, 955],
+          "palavras": ["米饭", "面条", "茶", "咖啡"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Sabores", "pos": [1665, 815],
+          "palavras": ["好吃", "辣", "甜", "酸"],
+          "revisoes": ["palavras", "desenho", "mista"] },
+        { "titulo": "A conta", "pos": [1665, 670],
+          "palavras": ["买单", "现金", "便宜", "贵"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "pronuncia", "mista"] }
+      ]
+    },
+    {
+      "id": "familia", "nome": "Família", "icone": "familia",
+      "dificuldade": "iniciante", "pai": "cotidiano1", "tema": "家庭",
+      "rotuloMapa": [370, 600],
+      "niveis": [
+        { "titulo": "Membros da família", "pos": [255, 555],
+          "palavras": ["爸爸", "妈妈", "儿子", "女儿"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Parentes", "pos": [215, 430],
+          "palavras": ["哥哥", "姐姐", "弟弟", "妹妹"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Convivência", "pos": [245, 305],
+          "palavras": ["爷爷", "奶奶", "结婚", "孩子"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    },
+    {
+      "id": "saude", "nome": "Saúde", "icone": "saude",
+      "dificuldade": "iniciante", "pai": "gastro1", "tema": "健康身体",
+      "rotuloMapa": [1630, 600],
+      "niveis": [
+        { "titulo": "O corpo", "pos": [1745, 555],
+          "palavras": ["头", "手", "脚", "眼睛"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "No médico", "pos": [1785, 430],
+          "palavras": ["医生", "医院", "药", "生病"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Bem-estar", "pos": [1755, 305],
+          "palavras": ["疼", "感冒", "休息", "健康"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    },
+    {
+      "id": "fund3", "nome": "Fundamentos III", "icone": "fundamentos",
+      "dificuldade": "avancado", "pai": "fund2", "tema": "",
+      "rotuloMapa": [545, 1615],
+      "niveis": [
+        { "titulo": "Estruturas complexas", "pos": [660, 1655],
+          "palavras": ["虽然", "不但", "而且", "如果"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Conectivos avançados", "pos": [615, 1780],
+          "palavras": ["越来越", "差不多", "其实", "一边"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Expressões formais", "pos": [655, 1905],
+          "palavras": ["关于", "由于", "无论", "尽管"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    },
+    {
+      "id": "cultura", "nome": "Língua e Cultura", "icone": "cultura",
+      "dificuldade": "intermediario", "pai": "fund2", "tema": "语言文化",
+      "rotuloMapa": [935, 1705],
+      "niveis": [
+        { "titulo": "Festas", "pos": [820, 1735],
+          "palavras": ["春节", "节日", "祝福", "灯笼"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Tradições", "pos": [860, 1860],
+          "palavras": ["书法", "汉字", "功夫", "传统"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Arte e história", "pos": [820, 1985],
+          "palavras": ["历史", "长城", "文化", "有名"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    },
+    {
+      "id": "transporte", "nome": "Transporte", "icone": "transporte",
+      "dificuldade": "iniciante", "pai": "viagem1", "tema": "旅行交通",
+      "rotuloMapa": [945, 1615],
+      "niveis": [
+        { "titulo": "Meios de transporte", "pos": [1060, 1655],
+          "palavras": ["公交车", "地铁", "出租车", "自行车"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Na cidade", "pos": [1015, 1780],
+          "palavras": ["火车", "开车", "坐", "站"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Pegar o caminho", "pos": [1055, 1905],
+          "palavras": ["路", "红绿灯", "快", "慢"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    },
+    {
+      "id": "compras", "nome": "Compras", "icone": "compras",
+      "dificuldade": "iniciante", "pai": "viagem1", "tema": "购物",
+      "rotuloMapa": [1345, 1705],
+      "niveis": [
+        { "titulo": "Na loja", "pos": [1220, 1735],
+          "palavras": ["商店", "超市", "钱", "价钱"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Roupas e cores", "pos": [1260, 1860],
+          "palavras": ["衣服", "裤子", "鞋子", "颜色"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Pagar", "pos": [1220, 1985],
+          "palavras": ["买", "卖", "打折", "试"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    },
+    {
+      "id": "amigos", "nome": "Amigos", "icone": "familia",
+      "dificuldade": "iniciante", "pai": "familia", "tema": "社交问候",
+      "rotuloMapa": [55, 260],
+      "niveis": [
+        { "titulo": "Entre amigos", "pos": [150, 205],
+          "palavras": ["认识", "介绍", "聊天", "帮助"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Convites", "pos": [95, 95],
+          "palavras": ["请客", "生日", "礼物", "派对"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Sentimentos", "pos": [240, 55],
+          "palavras": ["喜欢", "想念", "关心", "信任"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    },
+    {
+      "id": "vizinhanca", "nome": "Vizinhança", "icone": "cotidiano",
+      "dificuldade": "intermediario", "pai": "familia", "tema": "地点方位",
+      "rotuloMapa": [455, 255],
+      "niveis": [
+        { "titulo": "Onde eu moro", "pos": [350, 200],
+          "palavras": ["邻居", "楼上", "楼下", "附近"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Pela rua", "pos": [420, 90],
+          "palavras": ["街道", "公寓", "花园", "门口"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Convivência", "pos": [540, 55],
+          "palavras": ["安静", "吵", "搬家", "打招呼"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    },
+    {
+      "id": "exercicio", "nome": "Exercício", "icone": "saude",
+      "dificuldade": "iniciante", "pai": "saude", "tema": "健康身体",
+      "rotuloMapa": [1945, 260],
+      "niveis": [
+        { "titulo": "Movimento", "pos": [1850, 205],
+          "palavras": ["跑步", "游泳", "锻炼", "散步"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Esportes", "pos": [1905, 95],
+          "palavras": ["篮球", "足球", "乒乓球", "瑜伽"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "Hábitos saudáveis", "pos": [1760, 55],
+          "palavras": ["习惯", "坚持", "放松", "出汗"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    },
+    {
+      "id": "emergencias", "nome": "Emergências", "icone": "saude",
+      "dificuldade": "intermediario", "pai": "saude", "tema": "健康身体",
+      "rotuloMapa": [1545, 255],
+      "niveis": [
+        { "titulo": "Pedir ajuda", "pos": [1650, 200],
+          "palavras": ["救命", "帮忙", "打电话", "报警"],
+          "revisoes": ["palavras", "fonetica", "desenho", "frases", "mista"] },
+        { "titulo": "Acidentes", "pos": [1580, 90],
+          "palavras": ["小心", "危险", "受伤", "着火"],
+          "revisoes": ["palavras", "fonetica", "frases", "mista"] },
+        { "titulo": "No pronto-socorro", "pos": [1460, 55],
+          "palavras": ["救护车", "急诊", "发烧", "头晕"],
+          "revisoes": ["palavras", "desenho", "mista"] }
+      ]
+    }
+  ]
+}

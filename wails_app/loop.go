@@ -12,11 +12,8 @@ import (
 
 func (a *App) StartBackgroundLoop() {
 	go func() {
-		// Atalhos globais configuráveis (todos opcionais).
-		registrarAtalhoGlobal(a.Config.AtalhoEscanear, func() { runtime.EventsEmit(a.ctx, "trigger_scan") })
-		registrarAtalhoGlobal(a.Config.AtalhoMarcarEstudo, func() { runtime.EventsEmit(a.ctx, "trigger_save") })
-		registrarAtalhoGlobal(a.Config.AtalhoPopupTodos, a.alternarTodosPopups)
-		registrarAtalhoGlobal(a.Config.AtalhoAlternarPopupHover, func() { runtime.EventsEmit(a.ctx, "toggle_popup_hover") })
+		// Registra/Atualiza atalhos globais configuráveis no SO.
+		a.AtualizarAtalhosGlobais()
 
 		// Goroutine separada para rastrear o mouse velozmente
 		go func() {
@@ -59,7 +56,8 @@ func (a *App) StartBackgroundLoop() {
 				cfg := a.Config
 
 				// Check Auto-Scan interval
-				if time.Since(lastScan).Seconds() >= float64(cfg.IntervaloCapturaSegundos) {
+				ehSegundoDeScan := cfg.AutoScanAtivo && time.Since(lastScan).Seconds() >= float64(cfg.IntervaloCapturaSegundos)
+				if ehSegundoDeScan {
 					// Check CPU limit
 					shouldScan := true
 					if cfg.LimitarPorUsoCpu {
@@ -78,6 +76,14 @@ func (a *App) StartBackgroundLoop() {
 						// It's better to tell the frontend to scan so UI updates correctly.
 						runtime.EventsEmit(a.ctx, "trigger_scan")
 					}
+				}
+
+				// Vigia de highlights fantasmas (ver vigia_cards.go): roda nos segundos SEM scan
+				// programado — o segundo do scan é dele, mesmo quando o limite de CPU o pulou. Em
+				// goroutine própria para o tick nunca segurar o ticker; reentrância e scan em
+				// andamento são resolvidos dentro de executarTickVigia.
+				if !ehSegundoDeScan && cfg.VigiaCardsAtivo {
+					go a.executarTickVigia()
 				}
 			}
 		}

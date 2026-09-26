@@ -59,7 +59,7 @@ func chamarGemini(apiKey, modelo, textoPrompt string, imagemPng []byte) (string,
 		return "", nil
 	}
 	if modelo == "" {
-		modelo = "gemini-2.5-flash"
+		modelo = "gemini-3.1-flash-lite"
 	}
 
 	url := "https://generativelanguage.googleapis.com/v1beta/models/" + modelo + ":generateContent"

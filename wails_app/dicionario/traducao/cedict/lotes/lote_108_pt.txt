@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+酸辛 | TRADUÇÃO: miséria
+酸辣土豆丝 | TRADUÇÃO: batata ralada azeda e picante
+酸辣汤 | TRADUÇÃO: sopa azeda e picante
+酸辣粉 | TRADUÇÃO: macarrão azedo e picante (prato de origem sichuanesa com macarrão à base de amido)
+酸辣酱 | TRADUÇÃO: molho azedo e picante / chutney azedo e picante
+酸雨 | TRADUÇÃO: chuva ácida
+酸碱值 | TRADUÇÃO: pH (química)
+酸黄瓜 | TRADUÇÃO: picles / pepino em conserva
+酹 | TRADUÇÃO: derramar libação / aspergir
+酺 | TRADUÇÃO: beber muito / beber em companhia
+醁 | TRADUÇÃO: nome de um vinho
+醂 | TRADUÇÃO: usado em 味醂
+腌汁 | TRADUÇÃO: marinada (molho)
+腌泡 | TRADUÇÃO: marinar
+腌渍 | TRADUÇÃO: conservar em salmoura / curado / salgado
+腌肉 | TRADUÇÃO: toucinho salgado / bacon / carne marinada / carne curada
+腌黄瓜 | TRADUÇÃO: picles / pepino em conserva
+醄 | TRADUÇÃO: usado em 酕醄
+醅 | TRADUÇÃO: vinho não filtrado
+醆 | TRADUÇÃO: copo de vinho
+醇 | TRADUÇÃO: álcool / vinho com alto teor alcoólico / rico / puro / bom vinho / esteróis ‖ variante antiga de 醇
+醇厚 | TRADUÇÃO: suave e encorpado / simples e bondoso
+醇美 | TRADUÇÃO: suave / rico / excelente
+醇酸 | TRADUÇÃO: alquídico / ácido alcoólico / hidroxiácido
+醇酸树脂 | TRADUÇÃO: resina alquídica
+醉 | TRADUÇÃO: embriagado / bêbado
+醉人 | TRADUÇÃO: intoxicante / fascinante
+醉倒 | TRADUÇÃO: desmaiar de bêbado
+醉心 | TRADUÇÃO: fascinado / encantado
+醉心于 | TRADUÇÃO: estar fascinado por
+醉意 | TRADUÇÃO: sinais de embriaguez / estado de embriaguez leve
+醉态 | TRADUÇÃO: estado de embriaguez
+醉枣 | TRADUÇÃO: tâmaras em licor
+醉汉 | TRADUÇÃO: homem embriagado / bêbado
+醉熏熏 | TRADUÇÃO: variante de 醉醺醺
+醉生梦死 | TRADUÇÃO: viver como bêbado ou entorpecido (expressão idiomática); levar uma existência atordoada / em estupor alcoólico
+醉翁 | TRADUÇÃO: apreciador de vinho / bebedor / bêbado
+醉翁之意不在酒 | TRADUÇÃO: quem aprecia vinho não está interessado na bebida (expressão idiomática); um bebedor que não se importa realmente com álcool / ter segundas intenções / ter outras coisas em mente / ter uma agenda oculta
+醉圣 | TRADUÇÃO: o Sábio da Embriaguez / refere-se ao poeta Li Bai da dinastia Tang (701-762)
+醉虾 | TRADUÇÃO: camarão bêbado (prato chinês à base de camarões marinados em vinho chinês)
+醉酒 | TRADUÇÃO: embriagar-se
+醉酒驾车 | TRADUÇÃO: dirigir embriagado (concentração muito alta de álcool no sangue)
+醉醺醺 | TRADUÇÃO: bêbado / embriagado
+醉鸡 | TRADUÇÃO: frango ao vinho de arroz / também traduzido como frango bêbado
+醉驾 | TRADUÇÃO: dirigir acima do limite legal de álcool
+醉鬼 | TRADUÇÃO: bêbado
+醊 | TRADUÇÃO: derramar libação no chão
+醋 | TRADUÇÃO: vinagre / ciúmes (em rivalidade amorosa)
+醋劲 | TRADUÇÃO: ciúmes (no amor)
+醋劲儿 | TRADUÇÃO: variante erhua de 醋勁|醋劲
+醋意 | TRADUÇÃO: ciúmes (em rivalidade amorosa)
+醋栗 | TRADUÇÃO: groselha
+醋海生波 | TRADUÇÃO: lit. ondas em um mar de vinagre / problemas causados por uma mulher ciumenta (expressão idiomática)
+醋磺内酯钾 | TRADUÇÃO: acessulfame de potássio; acessulfame K (um adoçante artificial)
+醋坛子 | TRADUÇÃO: jarra de vinagre / (fig.) pessoa de natureza ciumenta
+醋酸 | TRADUÇÃO: ácido acético (CH₃COOH) / acetato
+醋酸乙酯 | TRADUÇÃO: acetato de etila / acetidina
+醋酸纤维 | TRADUÇÃO: acetato de celulose (usado para filme e fibra)
+醌 | TRADUÇÃO: quinona (química)
+醍 | TRADUÇÃO: usado em 醍醐
+醍醐 | TRADUÇÃO: creme de queijo refinado / fig. o melhor dos melhores / nirvana / natureza de Buda / verdade budista / caldo / caráter pessoal impecável
+醍醐灌顶 | TRADUÇÃO: lit. ungir sua cabeça com o creme mais puro (expressão idiomática); fig. iluminar as pessoas com sabedoria perfeita / ensino budista impecável
+醐 | TRADUÇÃO: usado em 醍醐
+醑 | TRADUÇÃO: espírito / coar bebidas alcoólicas
+醒 | TRADUÇÃO: acordar / estar acordado / tornar-se consciente / ficar sóbrio / cair em si
+醒世恒言 | TRADUÇÃO: Histórias para Despertar o Mundo, contos populares de Feng Menglong publicados em 1627
+醒来 | TRADUÇÃO: despertar
+醒悟 | TRADUÇÃO: cair em si / perceber / ver a verdade / acordar para a realidade
+醒目 | TRADUÇÃO: chocante (título) / marcante (ilustração)
+醒豁 | TRADUÇÃO: claro / inequívoco
+醒转 | TRADUÇÃO: acordar / recuperar a consciência
+醒酒 | TRADUÇÃO: dissipar os efeitos do álcool / ficar sóbrio
+醒面 | TRADUÇÃO: deixar a massa descansar
+醓 | TRADUÇÃO: salmoura de carne em conserva
+醖 | TRADUÇÃO: variante de 醞|酝
+醚 | TRADUÇÃO: éter
+醛 | TRADUÇÃO: aldeído
+醛固酮 | TRADUÇÃO: aldosterona
+醛基 | TRADUÇÃO: grupo aldeído -COH
+醛糖 | TRADUÇÃO: aldose, monossacarídeo contendo grupo aldeído -COH
+醛类 | TRADUÇÃO: (química) aldeído
+丑事 | TRADUÇÃO: escândalo
+丑人多作怪 | TRADUÇÃO: (ditado) pessoas sem atrativos ou sem talento tendem a fazer espetáculos de si mesmas
+丑八怪 | TRADUÇÃO: pessoa feia
+丑剧 | TRADUÇÃO: drama absurdo / farsa / espetáculo vergonhoso
+丑化 | TRADUÇÃO: difamar / caluniar / macular / denegrir / vilipendiar
+丑国 | TRADUÇÃO: (gíria) Estados Unidos da América; EUA
+丑妻近地家中宝 | TRADUÇÃO: uma esposa feia é um tesouro em casa (expressão idiomática)
+丑媳妇早晚要见公婆 | TRADUÇÃO: (lit.) a nora feia deve, mais cedo ou mais tarde, encontrar seus sogros (provérbio) / (fig.) algo desagradável ou embaraçoso não pode ser evitado para sempre; mais cedo ou mais tarde é preciso enfrentá-lo
+丑小鸭 | TRADUÇÃO: (fig.) patinho feio
+丑怪 | TRADUÇÃO: grotesco
+丑恶 | TRADUÇÃO: feio / repulsivo
+丑态 | TRADUÇÃO: atuação vergonhosa / situação desgraçada
+丑相 | TRADUÇÃO: expressão feia / modos deselegantes
+丑闻 | TRADUÇÃO: escândalo
+丑行 | TRADUÇÃO: escândalo
+丑诋 | TRADUÇÃO: caluniar
+丑话 | TRADUÇÃO: linguagem feia / vulgaridade / obscenidade
+丑话说在前头 | TRADUÇÃO: vamos falar das coisas desagradáveis primeiro; vamos ser francos
+丑陋 | TRADUÇÃO: feio
+丑类 | TRADUÇÃO: vilão/pessoa má
+醝 | TRADUÇÃO: bebida alcoólica/aguardente
+酝 | TRADUÇÃO: fermentar
+酝酿 | TRADUÇÃO: fermentar (álcool)/fermentar (crise)/refletir (sobre um assunto)/realizar discussões exploratórias
+醟 | TRADUÇÃO: beber em excesso/dissoluto
+醡 | TRADUÇÃO: prensa para extrair vinho
+醢 | TRADUÇÃO: carne picada/carne em conserva
+醣 | TRADUÇÃO: carboidrato/variante antiga de 糖
+醣苷 | TRADUÇÃO: (Taiwan) glicosídeo
+醣类 | TRADUÇÃO: carboidratos
+醨 | TRADUÇÃO: borra de vinho
+醪 | TRADUÇÃO: vinho ou bebida alcoólica com sedimento
+醪糟 | TRADUÇÃO: arroz fermentado doce/vinho de arroz glutinoso
+医 | TRADUÇÃO: médico/medicina/médico(a)/curar/tratar
+医之好治不病以为功 | TRADUÇÃO: (expressão idiomática) médicos gostam de tratar quem não está doente para poderem levar o crédito pela "recuperação" do paciente
+医保 | TRADUÇÃO: seguro de saúde/abreviatura de 醫療保險|医疗保险
+医务 | TRADUÇÃO: assuntos médicos
+医务人员 | TRADUÇÃO: pessoal médico
+医务室 | TRADUÇÃO: enfermaria/consultório médico/CL:個|个
+医务所 | TRADUÇÃO: clínica/CL:家
+医卜 | TRADUÇÃO: medicina e adivinhação
+医嘱 | TRADUÇÃO: prescrição médica
+医大 | TRADUÇÃO: abreviatura de 醫科大學|医科大学, universidade de medicina
+医学 | TRADUÇÃO: medicina/ciência médica/estudo da medicina
+医学中心 | TRADUÇÃO: centro médico
+医学博士 | TRADUÇÃO: doutor em medicina
+医学家 | TRADUÇÃO: cientista médico
+医学专家 | TRADUÇÃO: especialista médico/médico especialista
+医学检验 | TRADUÇÃO: análise clínica laboratorial
+医学检验师 | TRADUÇÃO: tecnólogo médico
+医学系 | TRADUÇÃO: faculdade de medicina
+医学院 | TRADUÇÃO: faculdade de medicina/escola de medicina
+医官 | TRADUÇÃO: funcionário responsável por assuntos médicos/título respeitoso para um médico
+医家 | TRADUÇÃO: curador/ médico / profissional da medicina (especialmente MTC)
+医密 | TRADUÇÃO: sigilo médico (medicina)
+医师 | TRADUÇÃO: médico; clínico
+医德 | TRADUÇÃO: ética médica
+医患 | TRADUÇÃO: médico-paciente
+医托 | TRADUÇÃO: segurança (de clínica)/falso paciente
+医改 | TRADUÇÃO: reforma do sistema médico
+医书 | TRADUÇÃO: livro de medicina
+医案 | TRADUÇÃO: histórico de caso (MTC)/registro de caso
+医治 | TRADUÇÃO: tratar (uma doença)/tratamento médico
+医理 | TRADUÇÃO: conhecimento médico; princípios da ciência médica
+医生 | TRADUÇÃO: médico; profissional da medicina
+医疗 | TRADUÇÃO: tratamento médico
+医疗保健 | TRADUÇÃO: assistência médica/cuidados de saúde
+医疗保险 | TRADUÇÃO: seguro-saúde/seguro médico
+医疗器械 | TRADUÇÃO: equipamento médico
+医疗疏失 | TRADUÇÃO: negligência médica/erro médico
+医疗护理 | TRADUÇÃO: cuidados de saúde
+医疗费 | TRADUÇÃO: despesas médicas
+医科 | TRADUÇÃO: medicina (como ciência)/ciência médica
+医科大学 | TRADUÇÃO: universidade de medicina
+医科学校 | TRADUÇÃO: escola de medicina
+医美 | TRADUÇÃO: medicina estética
+医药 | TRADUÇÃO: cuidados médicos e medicamentos/medicamento/médico/farmacêutico
+医药分离 | TRADUÇÃO: separação entre consulta médica e dispensação de medicamentos
+医药商店 | TRADUÇÃO: farmácia/drogaria
+医药学 | TRADUÇÃO: ciência médica
+医术 | TRADUÇÃO: expertise médica/arte de curar
+医护 | TRADUÇÃO: médicos e enfermeiros/paramédico/pessoal médico
+医护人员 | TRADUÇÃO: pessoal médico/médicos e enfermeiros
+医道 | TRADUÇÃO: Hur Jun (série de TV) ‖ arte de curar/habilidade médica
+医院 | TRADUÇÃO: hospital/CL:所,家,座
+医闹 | TRADUÇÃO: (neologismo, atestado desde 2013) perturbação organizada de unidades de saúde ou abuso verbal e físico contra a equipe médica por um paciente insatisfeito ou representantes, como familiares ou capangas contratados, geralmente visando obter indenização
+酱 | TRADUÇÃO: pasta espessa de soja fermentada/marinado em pasta de soja/pasta/geleia/compota
+酱料 | TRADUÇÃO: molho
+酱油 | TRADUÇÃO: molho de soja
+酱油膏 | TRADUÇÃO: molho de soja espesso
+酱瓜 | TRADUÇÃO: pepino em conserva
+酱紫 | TRADUÇÃO: púrpura avermelhado escuro/abreviatura de gíria da internet para 這樣子|这样子
+醭 | TRADUÇÃO: mofo em líquidos
+醮 | TRADUÇÃO: realizar sacrifício
+醯 | TRADUÇÃO: acila
+醰 | TRADUÇÃO: gosto amargo no vinho/rico/sabor intenso
+酦 | TRADUÇÃO: usado em 醱酵|酦酵/pronúncia em Taiwan [po4] ‖ fermentar álcool/pronúncia em Taiwan [po4]
+酦酵 | TRADUÇÃO: variante de 發酵|发酵
+𬪩 | TRADUÇÃO: concentrado/vinho forte
+醳 | TRADUÇÃO: vinho fino/premiar com (comida e bebida)
+醴 | TRADUÇÃO: vinho doce
+醴泉县 | TRADUÇÃO: Condado de Liquan em Xianyang 咸陽|咸阳, Shaanxi/também escrito 禮泉縣|礼泉县
+醴陵 | TRADUÇÃO: veja 醴陵市
+醴陵市 | TRADUÇÃO: Liling, cidade a nível de condado em Zhuzhou City 株洲市, Hunan
+醵 | TRADUÇÃO: contribuir para um banquete/juntar (dinheiro)
+醹 | TRADUÇÃO: forte (de vinho)
+醺 | TRADUÇÃO: completamente embriagado
+醽 | TRADUÇÃO: nome de um vinho
+醾 | TRADUÇÃO: vinho não filtrado/vinho fermentado duas vezes
+酿 | TRADUÇÃO: fermentar/ fabricar (cerveja)/fazer mel (abelhas)/levar a/formar gradualmente/vinho/legumes recheados (método culinário)
+酿成 | TRADUÇÃO: fazer (vinho ou bebidas destiladas)/(fig.) levar a (um mau resultado)
+酿母菌 | TRADUÇÃO: levedura
+酿热物 | TRADUÇÃO: combustível biológico (como esterco de cavalo)
+酿制 | TRADUÇÃO: fabricar (cerveja, molho de soja, etc.); fazer (vinho, vinagre, etc.); destilar (bebidas destiladas)
+酿造 | TRADUÇÃO: fabricar/ fazer (vinho, vinagre, pasta de soja, etc.) por fermentação
+酿造学 | TRADUÇÃO: zimologia
+酿酒 | TRADUÇÃO: fazer uma bebida fermentada
+酿酒业 | TRADUÇÃO: indústria cervejeira/indústria vinícola
+酿酶 | TRADUÇÃO: zimase (enzima em leveduras envolvida na fermentação)
+衅 | TRADUÇÃO: briga/disputa/sacrifício de sangue (arcaico)
+衅端 | TRADUÇÃO: pretexto para uma disputa
+衅隙 | TRADUÇÃO: inimizade
+釂 | TRADUÇÃO: esvaziar uma taça
+酾 | TRADUÇÃO: (literário) filtrar (vinho)/servir (vinho ou chá)/dragar/também pronuncia-se [shai1]/pronúncia em Taiwan [si1]
+酽 | TRADUÇÃO: (de chá, vinho etc) forte/(de tinta, aroma etc) encorpado/(de uma cor) escuro/intenso
+釆 | TRADUÇÃO: variante antiga de 辨
+采地 | TRADUÇÃO: feudo
+采矿场 | TRADUÇÃO: área de mineração
+采声 | TRADUÇÃO: aplausos; aclamação
+采兰赠芍 | TRADUÇÃO: (lit.) colher orquídeas e presentear com peônias (expressão idiomática)/(fig.) (de amantes) trocar presentes
+采兰赠药 | TRADUÇÃO: ver 采蘭贈芍|采兰赠芍
+采邑 | TRADUÇÃO: feudo
+釉 | TRADUÇÃO: esmalte (de porcelana)
+释 | TRADUÇÃO: explicar/soltar/Buda (abrev. de 釋迦牟尼|释迦牟尼)/budismo
+释俗 | TRADUÇÃO: explicar em termos simples
+释典 | TRADUÇÃO: doutrina budista/sutras
+释出 | TRADUÇÃO: liberar/disponibilizar/soltar/desengajamento
+释卷 | TRADUÇÃO: parar de ler
+释名 | TRADUÇÃO: "Shiming", dicionário do final da dinastia Han, com 1502 entradas, usando trocadilhos com a pronúncia dos verbetes para explicar seu significado
+释回 | TRADUÇÃO: soltar da prisão
+释嫌 | TRADUÇÃO: esquecer rancores; reparar um relacionamento
+释子 | TRADUÇÃO: (literário) monge budista; monástico budista
+释家 | TRADUÇÃO: budismo/um budista
+释尊 | TRADUÇÃO: outro nome para Sakyamuni 釋迦牟尼佛|释迦牟尼佛, o Buda histórico
+释念 | TRADUÇÃO: (literário) ficar tranquilo/não se preocupar
+释怀 | TRADUÇÃO: superar (uma experiência traumática, desconfianças etc)
+释手 | TRADUÇÃO: soltar/afrouxar o aperto/baixar algo
+释放 | TRADUÇÃO: soltar/libertar/liberar (um prisioneiro)/descarga (elétrica etc)
+释放出狱 | TRADUÇÃO: libertar da prisão
+释教 | TRADUÇÃO: budismo
+释文 | TRADUÇÃO: interpretar palavras/explicar o significado de palavras em textos clássicos/decifrar uma escrita antiga
+释法 | TRADUÇÃO: interpretar a lei
+释然 | TRADUÇÃO: aliviado/à vontade/sentir-se aliviado
+释疑 | TRADUÇÃO: dissipar dúvidas/esclarecer dificuldades
+释经 | TRADUÇÃO: exegese/explicação de texto clássico
+释义 | TRADUÇÃO: o significado de algo/explicação do significado de palavras ou frases/definição/interpretação (de doutrina)/doutrina religiosa
+释读 | TRADUÇÃO: ler e interpretar textos antigos/decifrar
+释迦 | TRADUÇÃO: Shakya, uma etnia e clã do nordeste do sul da Ásia ao qual pertencia o Buda (Siddhartha Gautama)/o Buda (abrev. de 釋迦牟尼|释迦牟尼, Shakyamuni, que significa "o Sábio dos Shakyas") ‖ pinha (Annona squamosa)
+释迦佛 | TRADUÇÃO: Buda Sakyamuni (sânscrito: sábio dos Sakyas)/Siddhartha Gautama (563-485 a.C.), o Buda histórico e fundador do budismo
+释迦牟尼 | TRADUÇÃO: Shakyamuni (sânscrito para "o Sábio dos Shakyas", i.e. o Buda, Siddhartha Gautama)
+释迦牟尼佛 | TRADUÇÃO: Buda Sakyamuni (sânscrito: sábio dos Sakyas)/Siddhartha Gautama (563-485 a.C.), o Buda histórico e fundador do budismo
+释除 | TRADUÇÃO: (formal) dissipar (dúvidas); amenizar (preocupações)
+里人 | TRADUÇÃO: pessoa da mesma vila, cidade ou província/camponês (pej.)/(de uma escola de pensamento etc) seguidor
+里克特 | TRADUÇÃO: Richter (nome)/Charles Francis Richter (1900-1985), físico e sismólogo norte-americano, que dá nome à escala Richter
+里加 | TRADUÇÃO: Riga, capital da Letônia
+里士满 | TRADUÇÃO: Richmond (nome)
+里奇蒙 | TRADUÇÃO: Richmond (nome de lugar ou sobrenome)
+里奥斯 | TRADUÇÃO: Ríos (nome)
+里巷 | TRADUÇÃO: viela/beco
+里希特霍芬 | TRADUÇÃO: Ferdinand von Richthofen (1833-1905), geólogo e explorador alemão que publicou um estudo fundamental da geologia da China em 1887 e introduziu o termo Rota da Seda 絲綢之路|丝绸之路
+里弄 | TRADUÇÃO: vielas e becos/vizinhança/bairros de vielas em partes de Xangai, com casas-pátio chinesas modificadas, ocupadas por uma única família nos anos 1930, agora abarrotadas de várias famílias
+里弗赛德 | TRADUÇÃO: Riverside
+里拉 | TRADUÇÃO: (empréstimo) lira (moeda da Turquia)
+里斯本 | TRADUÇÃO: Lisboa, capital de Portugal
+里昂 | TRADUÇÃO: Lyon, cidade francesa no Ródano
+里朗威 | TRADUÇÃO: Lilongwe, capital do Malaui (Taiwan)
+里根 | TRADUÇÃO: Reagan (nome)/Ronald Reagan (1911-2004), presidente dos EUA (1981-1989)
+里氏 | TRADUÇÃO: (sismologia) Richter (escala)
+里氏震级 | TRADUÇÃO: (sismologia) escala Richter
+里港 | TRADUÇÃO: Likang, distrito no Condado de Pingtung 屏東縣|屏东县, Taiwan
+里港乡 | TRADUÇÃO: Likang, distrito no Condado de Pingtung 屏東縣|屏东县, Taiwan
+里尔 | TRADUÇÃO: Lille (cidade na França)
+里瓦几亚条约 | TRADUÇÃO: Tratado de Livadia (1879) entre Rússia e China, relativo a território no Turquestão chinês, renegociado em 1881 (Tratado de São Petersburgo)
+里瓦尔多 | TRADUÇÃO: Rivaldo
+里社 | TRADUÇÃO: santuário de aldeia ao deus da terra
+里程 | TRADUÇÃO: quilometragem (distância percorrida)/curso (de desenvolvimento)
+里程碑 | TRADUÇÃO: marco
+里程表 | TRADUÇÃO: hodômetro
+里程计 | TRADUÇÃO: velocímetro (de um veículo)
+里约 | TRADUÇÃO: Rio/abrev. de 里約熱內盧|里约热内卢 ‖ acordo entre os moradores de um 里, uma subdivisão administrativa sob uma cidade ou vila (Taiwan)
+里约热内卢 | TRADUÇÃO: Rio de Janeiro
+里维埃拉 | TRADUÇÃO: riviera (empréstimo)
+里维耶拉 | TRADUÇÃO: riviera (empréstimo) (Taiwan)
+里肌 | TRADUÇÃO: (Taiwan) filé mignon (geralmente de porco)
+里肌肉 | TRADUÇÃO: lombo (de porco)
+里谚 | TRADUÇÃO: ditado popular/provérbio folclórico
+里贾纳 | TRADUÇÃO: Regina, capital da província de Saskatchewan, Canadá
+里长伯 | TRADUÇÃO: chefe de quarteirão
+重 | TRADUÇÃO: repetir/repetição/novamente/re-/classificador: camada ‖ pesado/sério/dar importância a
+重中之重 | TRADUÇÃO: da mais alta importância/de mais alta prioridade
+重九 | TRADUÇÃO: o Festival do Duplo Nono (9º dia do 9º mês lunar)
+重五 | TRADUÇÃO: Festival do Barco-Dragão (5º dia do 5º mês lunar)
+重任 | TRADUÇÃO: grande responsabilidade
+重估 | TRADUÇÃO: reavaliar
+重来 | TRADUÇÃO: recomeçar/fazer algo de novo
+重修 | TRADUÇÃO: reconstruir/reparar/renovar/revisar/repetir uma disciplina reprovada
+重修旧好 | TRADUÇÃO: reatar amizade/renovar relações cordiais antigas
+重做 | TRADUÇÃO: refazer
+重伤 | TRADUÇÃO: ferimento grave/gravemente ferido
+重价 | TRADUÇÃO: preço alto
+重元素 | TRADUÇÃO: elemento pesado (como urânio)
+重光 | TRADUÇÃO: recuperar a visão/(fig.) recuperar (territórios perdidos)
+重兵 | TRADUÇÃO: força militar maciça
+重典 | TRADUÇÃO: texto clássico importante/leis severas
+重出江湖 | TRADUÇÃO: (de uma pessoa) voltar à ação após um período de inatividade; saltar de volta para o meio das coisas/(de algo que foi popular) ser ressuscitado; fazer um retorno
+重刊 | TRADUÇÃO: reimprimir
+重判 | TRADUÇÃO: punição severa (direito)
+重利 | TRADUÇÃO: juros altos/lucro enorme/dar grande valor ao dinheiro
+重利轻义 | TRADUÇÃO: valorizar o ganho material em detrimento da retidão
+重创 | TRADUÇÃO: infligir pesadas perdas; causar sérios danos
+重剑 | TRADUÇÃO: espada pesada (esgrima)
+重力 | TRADUÇÃO: gravidade
+重力加速度 | TRADUÇÃO: aceleração da gravidade
+重力场 | TRADUÇÃO: campo gravitacional
+重力异常 | TRADUÇÃO: anomalia gravitacional (geologia)
+重午 | TRADUÇÃO: Festival do Barco-Dragão (5º dia do 5º mês lunar)
+重卡 | TRADUÇÃO: caminhão pesado (abrev. de 重型卡車|重型卡车)
+重印 | TRADUÇÃO: reimprimir
+重又 | TRADUÇÃO: novamente
+重口味 | TRADUÇÃO: sabor forte (picante, salgado etc)/(comida) de sabor forte/(pessoa) que prefere sabores fortes/(gíria) intenso/pesado
+重合 | TRADUÇÃO: coincidir/sobrepor-se
+重名 | TRADUÇÃO: ter o mesmo nome ‖ renomado/grande nome
+重命名 | TRADUÇÃO: renomear (computação)
+重商主义 | TRADUÇÃO: mercantilismo
+重启 | TRADUÇÃO: reiniciar (máquina etc); reativar (projeto adiado etc)
+重器 | TRADUÇÃO: tesouro
+重回 | TRADUÇÃO: retornar
+重围 | TRADUÇÃO: redobrar um cerco
+重地 | TRADUÇÃO: local de importância política, econômica, militar ou cultural (geralmente fechado ao público); área restrita
+重型 | TRADUÇÃO: pesado/pesado/de grande calibre
+重塑 | TRADUÇÃO: reconstruir (obra de arte)/remodelar
+重压 | TRADUÇÃO: alta pressão/suportar grande peso
+重大 | TRADUÇÃO: grande/importante/major/significativo
+重奏 | TRADUÇÃO: conjunto musical de vários instrumentos (ex.: dueto 二重奏 ou trio 三重奏)
+重婚 | TRADUÇÃO: bigamia
+重婚罪 | TRADUÇÃO: crime de bigamia
+重子 | TRADUÇÃO: bárion (física)
+重孝 | TRADUÇÃO: luto (vestimenta de luto)
+重孙 | TRADUÇÃO: bisneto
+重孙女 | TRADUÇÃO: bisneta
+重孙子 | TRADUÇÃO: bisneto
+重定向 | TRADUÇÃO: redirecionar
+重审 | TRADUÇÃO: reinvestigar/reconsiderar uma sentença
+重屋 | TRADUÇÃO: lit. telhado múltiplo/edifício de vários andares
+重峦叠嶂 | TRADUÇÃO: montanhas escarpadas umas sobre as outras (expressão idiomática)
+重工 | TRADUÇÃO: indústria pesada
+重工业 | TRADUÇÃO: indústria pesada/manufatura
+重度 | TRADUÇÃO: grave/severo
+重建 | TRADUÇÃO: reconstruir; reerguer; restabelecer
+重形式轻内容 | TRADUÇÃO: dar ênfase à forma em detrimento do conteúdo
+重影 | TRADUÇÃO: imagens sobrepostas/exposição dupla em foto/visão dupla
+重心 | TRADUÇÃO: centro de gravidade/núcleo central/parte principal
+重庆 | TRADUÇÃO: Município de Chongqing (abreviatura 渝)
+重庆大学 | TRADUÇÃO: Universidade de Chongqing
+重庆市 | TRADUÇÃO: Município de Chongqing (abreviatura 渝)
+重惩 | TRADUÇÃO: punir severamente
+重托 | TRADUÇÃO: grande confiança
+重披战袍 | TRADUÇÃO: (fig.) reentrar na briga; retornar a uma área de atividade após um período de ausência
+重拾 | TRADUÇÃO: retomar (um tema etc)/recuperar (confiança)/reviver (costume, amizade etc)
+重挫 | TRADUÇÃO: revés devastador/queda abrupta (bolsa de valores etc)/derrota esmagadora/causar sério revés/despencar
+重振 | TRADUÇÃO: revitalizar; restaurar (prestígio, prosperidade etc)/revitalização; recuperação
+重排 | TRADUÇÃO: reorganizar/recompor (tipografia)
+重提 | TRADUÇÃO: levantar o mesmo assunto
+重提旧事 | TRADUÇÃO: levantar o mesmo assunto antigo novamente/voltar a falar do passado
+重插 | TRADUÇÃO: reconectar/desconectar e reconectar (plugue, porta, conexão etc)
+重播 | TRADUÇÃO: repetir/reexibir (programa)/(agricultura) ressemear
+重击 | TRADUÇÃO: pancada/soco forte
+重操旧业 | TRADUÇÃO: retomar o antigo ofício (expressão idiomática)
+重担 | TRADUÇÃO: fardo pesado; tarefa difícil; grande responsabilidade
+重整 | TRADUÇÃO: reestruturar/reorganizar/renovar
+重整奥思定会 | TRADUÇÃO: Ordem dos Agostinianos Recoletos
+重整旗鼓 | TRADUÇÃO: lit. reorganizar bandeiras e tambores (expressão idiomática); reagrupar-se após um revés/preparar novas iniciativas/tentar um retorno
+重文 | TRADUÇÃO: passagem repetitiva/múltiplas variantes de caracteres chineses
+重文轻武 | TRADUÇÃO: valorizar as letras e menosprezar as armas (expressão idiomática); dar ênfase aos assuntos civis e negligenciar os militares/preferir a caneta à espada
+重新 | TRADUÇÃO: novamente; mais uma vez; re-
+重新做人 | TRADUÇÃO: começar uma nova vida; recomeçar
+重新启动 | TRADUÇÃO: reiniciar (computador)
+重新装修 | TRADUÇÃO: reforma; renovação
+重新造林 | TRADUÇÃO: reflorestamento
+重新开始 | TRADUÇÃO: retomar; recomeçar; começar de novo
+重新开机 | TRADUÇÃO: reiniciar; religar (máquina)
+重于泰山 | TRADUÇÃO: mais pesado que o Monte Tai (expressão idiomática); fig. assunto extremamente sério
+重映 | TRADUÇÃO: reexibir (um filme)
+重晶石 | TRADUÇÃO: barita (geologia)
+重望 | TRADUÇÃO: renomado/prestigioso/grandes esperanças/expectativas
+重查 | TRADUÇÃO: reinvestigar; verificar novamente
+重核 | TRADUÇÃO: núcleo pesado
+重案 | TRADUÇÃO: caso grave/crime sério
+重构 | TRADUÇÃO: reconstruir/reconstrução/(computação) refatoração
+重楼 | TRADUÇÃO: edifício de vários andares
+重样 | TRADUÇÃO: igual/semelhante/mesmo tipo
+重机枪 | TRADUÇÃO: metralhadora pesada
+重机关枪 | TRADUÇÃO: também escrito 重機槍|重机枪/metralhadora pesada
+重正化 | TRADUÇÃO: renormalizar/renormalização
+重武器 | TRADUÇÃO: arma pesada
+重历旧游 | TRADUÇÃO: revisitar/retornar a um local visitado anteriormente
+重氢 | TRADUÇÃO: hidrogênio pesado (isótopo)/deutério
+重水 | TRADUÇÃO: água pesada (química)
+重水反应堆 | TRADUÇÃO: reator de água pesada (HWR)
+重沓 | TRADUÇÃO: redundante/empilhar
+重油 | TRADUÇÃO: óleo pesado/óleo combustível (petroquímica)
+重油蛋糕 | TRADUÇÃO: bolo inglês
+重洋 | TRADUÇÃO: mares e oceanos
+重活 | TRADUÇÃO: trabalho pesado
+重活儿 | TRADUÇÃO: variante erhua de 重活
+重混 | TRADUÇÃO: remix (música)
+重温 | TRADUÇÃO: reaprender algo/revisar/reativar (memórias, amizade etc)
+重温旧梦 | TRADUÇÃO: reviver sonhos antigos (expressão idiomática); reviver experiências passadas
+重温旧业 | TRADUÇÃO: retomar o antigo ofício (expressão idiomática)
+重演 | TRADUÇÃO: recorrer (eventos, especialmente adversos); repetir (uma apresentação)
+重灾 | TRADUÇÃO: desastre grave
+重灾区 | TRADUÇÃO: área particularmente atingida por um desastre/área afetada por desastre
+重版 | TRADUÇÃO: republicar
+重物 | TRADUÇÃO: objeto pesado
+重犯 | TRADUÇÃO: criminoso grave/criminoso reincidente
+重获 | TRADUÇÃO: recuperação/recuperar
+重玩 | TRADUÇÃO: repetir (um videogame)
+重现 | TRADUÇÃO: reaparecer
+重现江湖 | TRADUÇÃO: veja 重出江湖
+重瓣 | TRADUÇÃO: (botânica) de flor dupla
+重生 | TRADUÇÃO: renascer/renascimento
+重用 | TRADUÇÃO: colocar em uma posição importante
+重申 | TRADUÇÃO: reafirmar/reiterar
+重男轻女 | TRADUÇÃO: valorizar os homens e menosprezar as mulheres (expressão idiomática)
+重叠 | TRADUÇÃO: sobrepor/sobreposição/cair junto/duplicar/duplicação/sobreposto/redundância/reduplicação (na gramática chinesa, ex.: 散散步 para dar um passeio)
+重病 | TRADUÇÃO: doença grave
+重病特护 | TRADUÇÃO: cuidados intensivos
+重病特护区 | TRADUÇÃO: unidade de terapia intensiva (de hospital)
+重症 | TRADUÇÃO: grave (condição médica)/agudo
+重症监护 | TRADUÇÃO: cuidados intensivos
+重症监护室 | TRADUÇÃO: unidade de terapia intensiva (UTI)
+重症肌无力 | TRADUÇÃO: miastenia grave (medicina)
+重眼皮 | TRADUÇÃO: pálpebra dupla/dobra epicântica da pálpebra superior (característica de asiáticos)
+重眼皮儿 | TRADUÇÃO: pálpebra dupla/dobra epicântica da pálpebra superior (característica de asiáticos)
+重睹天日 | TRADUÇÃO: ver a luz novamente (expressão idiomática); libertado da opressão
+重炮 | TRADUÇÃO: artilharia pesada
+重碳酸钙 | TRADUÇÃO: bicarbonato de cálcio Ca(HCO3)2
+重碳酸盐 | TRADUÇÃO: bicarbonato
+重码 | TRADUÇÃO: código repetido/código coincidente (dois caracteres ou palavras com a mesma codificação)
+重磅 | TRADUÇÃO: (de uma bomba) potente/(de notícias) impactante; significativo/(de tecido) de alta resistência
+重磅炸弹 | TRADUÇÃO: (fig.) algo que causa comoção/bomba (revelação)/sucesso estrondoso (produto)
+重算 | TRADUÇÃO: recalcular/calcular novamente
+重组 | TRADUÇÃO: reorganizar/recombinar/reestruturar
+重组家庭 | TRADUÇÃO: família reconstituída
+重结晶 | TRADUÇÃO: recristalizar
+重编 | TRADUÇÃO: (de um dicionário etc.) edição revisada
+重茧 | TRADUÇÃO: calo grosso/(literário) roupas acolchoadas grossas de seda
+重罪 | TRADUÇÃO: crime grave/felonia
+重置 | TRADUÇÃO: reiniciar/restauração/substituição
+重罚 | TRADUÇÃO: punir severamente
+重义轻利 | TRADUÇÃO: valorizar a retidão em vez do ganho material (expressão idiomática)
+重者 | TRADUÇÃO: caso mais grave/em casos extremos
+重聚 | TRADUÇÃO: encontrar-se novamente
+重联 | TRADUÇÃO: (física) reconexão magnética/(ferrovias) tração dupla (usar duas locomotivas na frente de um trem)
+重听 | TRADUÇÃO: com dificuldade de audição
+重臂 | TRADUÇÃO: atuador (braço de alavanca)/alavanca/braço atuador
+重臣 | TRADUÇÃO: ministro importante/figura de destaque no governo
+重色轻友 | TRADUÇÃO: dar mais atenção ao parceiro amoroso que aos amigos (expressão idiomática)/valorizar o sexo sobre a amizade
+重茬 | TRADUÇÃO: plantio contínuo; plantar a mesma cultura continuamente no mesmo solo
+重荷 | TRADUÇÃO: carga pesada/fardo pesado
+重装 | TRADUÇÃO: (informática) reinstalar
+重制 | TRADUÇÃO: fazer uma cópia/reproduzir/refazer (um filme)
+重复 | TRADUÇÃO: repetir/duplicar/CL:個|个 ‖ variante de 重複|重复
+重复使力伤害 | TRADUÇÃO: lesão por esforço repetitivo (LER)
+重复性劳损 | TRADUÇÃO: lesão por esforço repetitivo (LER)
+重复法 | TRADUÇÃO: repetição/duplicação/reduplicação/anadiplose
+重要 | TRADUÇÃO: importante; significativo; principal
+重要性 | TRADUÇÃO: importância
+重复性 | TRADUÇÃO: repetitivo
+重见天日 | TRADUÇÃO: ver a luz novamente (expressão idiomática); libertado da opressão
+重视 | TRADUÇÃO: dar importância a algo; valorizar
+重视教育 | TRADUÇÃO: dar ênfase à educação
+重训 | TRADUÇÃO: (Taiwan) treinamento com pesos (abrev. de 重量訓練)
+重访 | TRADUÇÃO: revisitar
+重设 | TRADUÇÃO: redefinir
+重评 | TRADUÇÃO: reavaliar
+重试 | TRADUÇÃO: tentar novamente
+重话 | TRADUÇÃO: palavras duras
+重译 | TRADUÇÃO: traduzir novamente (refazer a mesma tradução)/traduzir repetidamente de um idioma para outro (multiplicando erros)
+重读 | TRADUÇÃO: acento tônico (em uma sílaba)
+重负 | TRADUÇÃO: carga pesada/fardo pesado (também fig. de imposto)
+重责 | TRADUÇÃO: responsabilidade pesada/crítica severa
+重赏 | TRADUÇÃO: recompensa ampla/recompensar generosamente
+重起炉灶 | TRADUÇÃO: recomeçar do zero (expressão idiomática)
+重趼 | TRADUÇÃO: calo grosso
+重蹈 | TRADUÇÃO: (fig.) seguir (um caminho que se mostrou mal aconselhado)
+重蹈覆辙 | TRADUÇÃO: lit. seguir os rastros de um carro virado (expressão idiomática)/fig. seguir um caminho que levou ao fracasso no passado/repetir um erro desastroso
+重身子 | TRADUÇÃO: grávida/mulher grávida
+重载 | TRADUÇÃO: (informática) sobrecarga ‖ carga pesada (em um caminhão)
+重辣 | TRADUÇÃO: muito picante
+重办 | TRADUÇÃO: punir severamente
+重农 | TRADUÇÃO: enfatizar a importância da agricultura (na filosofia antiga)
+重农抑商 | TRADUÇÃO: doutrina e política econômica na China tradicional de enfatizar a agricultura e suprimir o comércio
+重返 | TRADUÇÃO: retornar a
+重迭 | TRADUÇÃO: variante de 重疊|重叠
+重述 | TRADUÇÃO: repetir/reformular/recapitular
+重造 | TRADUÇÃO: reconstruir
+重逢 | TRADUÇÃO: encontrar-se novamente/reunir-se/reencontro
+重连 | TRADUÇÃO: reconectar
+重重 | TRADUÇÃO: camada sobre camada/um após o outro ‖ pesadamente/severamente
+重量 | TRADUÇÃO: peso/CL:個|个
+重量单位 | TRADUÇÃO: unidade de peso
+重量吨 | TRADUÇÃO: tonelada de peso morto
+重量级 | TRADUÇÃO: (esportes) categoria peso-pesado/(fig.) importante; principal; proeminente; influente
+重量训练 | TRADUÇÃO: treinamento com pesos (Taiwan)
+重量轻质 | TRADUÇÃO: valorizar a quantidade sobre a qualidade
+重金 | TRADUÇÃO: grande quantia de dinheiro
+重金属 | TRADUÇÃO: metal pesado
+重镇 | TRADUÇÃO: (militar) cidade estratégica/(fig.) centro importante (para comércio, cultura ou turismo etc.)
+重开 | TRADUÇÃO: reabrir
+重阳 | TRADUÇÃO: Festival do Duplo Nono / Festival Yang / nono dia do nono mês lunar
+重阳节 | TRADUÇÃO: Festival do Duplo Nono / Festival Yang / nono dia do nono mês lunar
+重离子 | TRADUÇÃO: íon pesado (física)
+重霄 | TRADUÇÃO: nono céu / mais alto céu
+重音 | TRADUÇÃO: acento (de uma palavra) / ênfase (numa sílaba)
+重音节 | TRADUÇÃO: sílaba tônica / acento
+重头 | TRADUÇÃO: de novo / desde o início / (em poesia e canções) repetição de uma melodia ou ritmo ‖ principal / mais importante / essencial / parte importante
+重头戏 | TRADUÇÃO: ópera (ou papel) que envolve muita cantoria e ação / (fig.) destaque / atração principal / atividade principal
+重黎 | TRADUÇÃO: Chongli, outro nome para Zhurong 祝融, deus do fogo
+重点 | TRADUÇÃO: recontar (ex.: resultados de eleição) / reavaliar ‖ ponto importante / ponto principal / foco / projeto-chave / focar-se em / dar ênfase a
+野人 | TRADUÇÃO: selvagem / pessoa não civilizada / (antigo) plebeu
+野兔 | TRADUÇÃO: lebre
+野叟曝言 | TRADUÇÃO: Yesou Puyan ou Palavras Humildes de um Velho Rural, monumental romance da Dinastia Qing por Xia Jingqu 夏敬渠
+野口 | TRADUÇÃO: Noguchi (sobrenome japonês)
+野史 | TRADUÇÃO: história não oficial / história como lendas populares
+野合 | TRADUÇÃO: cometer adultério
+野味 | TRADUÇÃO: caça / animais e aves selvagens caçados para alimentação ou esporte
+野地 | TRADUÇÃO: selva
+野外 | TRADUÇÃO: campo / áreas fora da cidade
+野外定向 | TRADUÇÃO: orientação (esporte de navegação)
+野外放养 | TRADUÇÃO: criação ao ar livre (pecuária ou avicultura)
+野孩子 | TRADUÇÃO: criança selvagem
+野小茴 | TRADUÇÃO: semente de endro
+野山椒 | TRADUÇÃO: o mesmo que 朝天椒
+野径 | TRADUÇÃO: caminho rural / trilha na selva
+野心 | TRADUÇÃO: ambição / esquemas ousados / ambição de poder
+野性 | TRADUÇÃO: natureza selvagem / indomabilidade
+野战 | TRADUÇÃO: operação de campo de batalha / paintball
+野战军 | TRADUÇÃO: exército de campo
+野放 | TRADUÇÃO: libertar (um animal) na natureza
+野村 | TRADUÇÃO: Nomura (sobrenome japonês)
+野果 | TRADUÇÃO: fruta silvestre
+野格利口酒 | TRADUÇÃO: Jägermeister (bebida alcoólica)
+野樱莓 | TRADUÇÃO: chokeberry (Aronia melanocarpa)
+野汉子 | TRADUÇÃO: amante de uma mulher
+野火 | TRADUÇÃO: incêndio florestal / (alastrar-se como) fogo em mata / queimada para limpeza de campos
+野火春风 | TRADUÇÃO: abreviatura de 野火燒不盡，春風吹又生|野火烧不尽，春风吹又生
+野火烧不尽，春风吹又生 | TRADUÇÃO: lit. nem um incêndio florestal pode destruir a grama – ela cresce novamente quando a brisa sopra (provérbio) / fig. não pode ser facilmente eliminado / abreviado como 野火春風|野火春风
+野炊 | TRADUÇÃO: cozinhar refeição em fogueira (geralmente para um grupo em passeio) / piquenique com fogo
+野炮 | TRADUÇÃO: artilharia de campo
+野营 | TRADUÇÃO: acampar / alojamento de campo
+野爹 | TRADUÇÃO: (vulgar) homem com quem a mãe de alguém tem um caso
+野牛 | TRADUÇÃO: bisão
+野狐禅 | TRADUÇÃO: heresia
+野狗 | TRADUÇÃO: cão selvagem / cão ferais / cão abandonado
+野兽 | TRADUÇÃO: fera / animal selvagem
+野甘蓝 | TRADUÇÃO: couve-brava (Brassica oleracea)
+野生 | TRADUÇÃO: selvagem / não domesticado
+野生动植物园 | TRADUÇÃO: parque de vida selvagem / safári
+野生动物 | TRADUÇÃO: animal selvagem
+野生植物 | TRADUÇÃO: plantas na selva
+野生生物 | TRADUÇÃO: vida selvagem / criaturas na selva / organismo selvagem
+野生生物基金会 | TRADUÇÃO: Fundo Mundial para a Natureza (WWF)
+野田佳彦 | TRADUÇÃO: Noda Yoshihiko (1957-), primeiro-ministro do Japão 2011-2012
+野禽 | TRADUÇÃO: ave doméstica
+野种 | TRADUÇÃO: (depreciativo) filho ilegítimo / bastardo
+野胡萝卜 | TRADUÇÃO: cenoura (Daucus carota)
+野花 | TRADUÇÃO: flor silvestre / mulher de costumes fáceis
+野草 | TRADUÇÃO: ervas daninhas / amante ou prostituta (antigo)
+野菜 | TRADUÇÃO: erva silvestre / hortaliça silvestre
+野蛮 | TRADUÇÃO: bárbaro / não civilizado
+野蛮人 | TRADUÇÃO: bárbaro
+野调无腔 | TRADUÇÃO: grosseiro na fala e nos modos
+野豕 | TRADUÇÃO: (literário) javali
+野猪 | TRADUÇÃO: javali (Sus scrofa) / CL:頭|头
+野猫 | TRADUÇÃO: gato-bravo / gato ferai; gato de rua abandonado
+野趣 | TRADUÇÃO: charme rústico
+野路子 | TRADUÇÃO: (coloq.) método não ortodoxo
+野游 | TRADUÇÃO: passeio ao campo / fazer uma caminhada / cortejar
+野钓 | TRADUÇÃO: pesca esportiva em águas naturais
+野鸡 | TRADUÇÃO: faisão / não registrado e operando ilegalmente (negócio) / (gíria) prostituta
+野鸡大学 | TRADUÇÃO: fábrica de diplomas
+野颠茄 | TRADUÇÃO: beladona (Atropa belladonna)
+野餐 | TRADUÇÃO: piquenique / fazer piquenique
+野餐垫 | TRADUÇÃO: toalha de piquenique
+野马 | TRADUÇÃO: cavalo ferai / cavalo solto / cavalo selvagem
+野驴 | TRADUÇÃO: onagro (Equus onager)
+野鸳鸯 | TRADUÇÃO: pato-mandarim selvagem / (depreciativo) amantes ilícitos / casal não ortodoxo
+野鸭 | TRADUÇÃO: pato selvagem / marreco (Anas platyrhyncha)
+野鼬瓣花 | TRADUÇÃO: cânhamo selvagem
+量 | TRADUÇÃO: medir ‖ capacidade / quantidade / quantia / estimar / abreviatura para 量詞|量词, classificador (na gramática chinesa) / medida
+量入为出 | TRADUÇÃO: avaliar a renda e gastar de acordo (expressão idiomática); viver dentro das posses / Só se pode gastar o que se ganha.
+量具 | TRADUÇÃO: dispositivo de medição
+量刑 | TRADUÇÃO: (direito) determinar a sentença
+量力 | TRADUÇÃO: estimar a própria força
+量力而为 | TRADUÇÃO: pesar as próprias habilidades e agir de acordo / agir segundo os próprios meios / cortar o casaco conforme o pano
+量力而行 | TRADUÇÃO: avaliar as próprias capacidades e agir de acordo (expressão idiomática); agir dentro da própria competência / Cada um faz o que pode.
+量化 | TRADUÇÃO: quantificar; quantificação; quantitativo / quantizar; quantização
+量化宽松 | TRADUÇÃO: flexibilização quantitativa (finanças)
+量化逻辑 | TRADUÇÃO: lógica quantificacional (i.e., lógica de primeira ordem)
+量器 | TRADUÇÃO: vaso medidor / aparelho de medição
+量子 | TRADUÇÃO: (física) quantum
+量子力学 | TRADUÇÃO: mecânica quântica
+量子化 | TRADUÇÃO: quantização (física)
+量子场论 | TRADUÇÃO: teoria quântica de campos
+量子沫 | TRADUÇÃO: espuma quântica (na teoria das cordas e ficção científica)
+量子纠缠 | TRADUÇÃO: emaranhamento quântico (física)
+量子色动力学 | TRADUÇÃO: cromodinâmica quântica (física de partículas)
+量子论 | TRADUÇÃO: teoria quântica (física)
+量子阱 | TRADUÇÃO: (física) poço quântico
+量子电动力学 | TRADUÇÃO: eletrodinâmica quântica / QED
+量尺寸 | TRADUÇÃO: tirar as medidas de alguém
+量度 | TRADUÇÃO: medir / medição
+量才录用 | TRADUÇÃO: avaliar as capacidades de alguém e empregá-lo de acordo (expressão idiomática) / empregar alguém competente para a tarefa
+量杯 | TRADUÇÃO: copo medidor / proveta graduada
+量油尺 | TRADUÇÃO: vareta de medição de óleo / régua de óleo
+量测 | TRADUÇÃO: medir / medição
+量瓶 | TRADUÇÃO: balão volumétrico / proveta graduada
+量产 | TRADUÇÃO: produzir em massa
+量程 | TRADUÇÃO: alcance (de balanças ou equipamentos de medição)
+量筒 | TRADUÇÃO: proveta graduada / cilindro volumétrico
+量级 | TRADUÇÃO: ordem de grandeza / categoria de peso (boxe etc.); (fig.) classe (nível de capacidade)
+量纲 | TRADUÇÃO: dimensão (unidade)
+量腹 | TRADUÇÃO: estimar a quantidade de comida necessária para uma refeição
+量表 | TRADUÇÃO: calibre / medidor / escala
+量规 | TRADUÇÃO: calibre (instrumento para medir espessura, diâmetro etc.) / rubrica (guia de critérios específicos para avaliação) (abrev. de 評價量規|评价量规)
+量角器 | TRADUÇÃO: transferidor / goniômetro
+量计 | TRADUÇÃO: medidor / calibre
+量词 | TRADUÇÃO: classificador (na gramática chinesa) / palavra de medida
+量变 | TRADUÇÃO: mudança quantitativa
+量贩 | TRADUÇÃO: vender em grande quantidade a um preço unitário mais baixo
+量贩店 | TRADUÇÃO: loja de atacado / hipermercado
+量贩式 | TRADUÇÃO: a preço de atacado
+量身 | TRADUÇÃO: tirar as medidas de alguém / medir alguém
+量身定做 | TRADUÇÃO: fazer sob medida / feito sob medida / adaptado / personalizado
+量身定制 | TRADUÇÃO: feito sob medida
+量体温 | TRADUÇÃO: medir a temperatura de alguém
+量体裁衣 | TRADUÇÃO: (lit.) cortar o tecido conforme o corpo (expressão idiomática) / (fig.) agir de acordo com as circunstâncias reais
+量体重 | TRADUÇÃO: pesar-se / medir o peso de alguém
+厘克 | TRADUÇÃO: centigrama
+厘升 | TRADUÇÃO: centilitro
+厘析 | TRADUÇÃO: analisar em detalhes
+厘清 | TRADUÇÃO: esclarecer (os fatos) / esclarecimento
+厘瓦 | TRADUÇÃO: centiwatt
+厘米 | TRADUÇÃO: centímetro
+金 | TRADUÇÃO: sobrenome Jin / sobrenome Kim (coreano) / dinastia Jin dos Jurchen (1115–1234) ‖ ouro / elemento químico Au / termo genérico para metais brilhantes e dúcteis / dinheiro / dourado / muito respeitado / uma das oito categorias de instrumentos musicais antigos 八音
+金三角 | TRADUÇÃO: Triângulo Dourado (Sudeste Asiático)
+金主 | TRADUÇÃO: patrocinador financeiro / financiador
+金代 | TRADUÇÃO: dinastia Jin (1115-1234), fundada pelo povo Jurchen 女真 do norte da China, precursora da dinastia Yuan mongol
+金伯利岩 | TRADUÇÃO: kimberlito (geologia)
+金元券 | TRADUÇÃO: moeda emitida pelo Governo Nacionalista em 1948
+金光闪烁 | TRADUÇÃO: brilho cintilante / brilho dourado intermitente
+金光党 | TRADUÇÃO: vigaristas / estelionatários
+金冠地莺 | TRADUÇÃO: (espécie de ave da China) tésia-de-barriga-ardósia (Tesia olivea)
+金冠戴菊 | TRADUÇÃO: estrelinha-de-poupa (Regulus regulus) / rei-dos-passarinhos-de-coroa-dourada
+金冠树八哥 | TRADUÇÃO: (espécie de ave da China) mainá-de-crista-dourada (Ampeliceps coronatus)
+金刚 | TRADUÇÃO: King Kong ‖ diamante / (usado para traduzir o sânscrito "vajra", um raio ou arma mítica) / divindade guardiã (na iconografia budista)
+金刚山 | TRADUÇÃO: Região Turística de Kumgangsan, no leste da Coreia do Norte
+金刚座 | TRADUÇÃO: Bodhimanda (lugar de iluminação associado a um Bodhisattva)
+金刚怒目 | TRADUÇÃO: (expressão idiomática) ter um rosto tão aterrorizante quanto o da divindade guardiã de um templo
+金刚手菩萨 | TRADUÇÃO: Bodhisattva Vajrapani
+金刚杵 | TRADUÇÃO: cetro vajra (objeto ritual do budismo)
+金刚狼 | TRADUÇÃO: Wolverine, super-herói de história em quadrinhos
+金刚石 | TRADUÇÃO: diamante / também chamado 鑽石|钻石
+金刚砂 | TRADUÇÃO: carborundo / esmeril
+金刚总持 | TRADUÇÃO: Vajradhara
+金刚萨埵 | TRADUÇÃO: Vajrasattva
+金刚鹦鹉 | TRADUÇÃO: arara
+金匠 | TRADUÇÃO: ourives
+金汇兑本位制 | TRADUÇÃO: padrão-ouro de câmbio (economia)
+金匮 | TRADUÇÃO: variante de 金櫃|金柜
+金匮石室 | TRADUÇÃO: variante de 金櫃石室|金柜石室
+金印 | TRADUÇÃO: selo dourado / caracteres tatuados no rosto de um condenado
+金口河 | TRADUÇÃO: ver 金口河區|金口河区
+金口河区 | TRADUÇÃO: distrito de Jinkouhe, na cidade de Leshan 樂山市|乐山市, Sichuan
+金句 | TRADUÇÃO: pérola de sabedoria / citação memorável
+金史 | TRADUÇÃO: História da dinastia Jin dos Jurchen, vigésima segunda das 24 histórias dinásticas 二十四史, composta sob Toktoghan 脫脫|脱脱 em 1345 durante a dinastia Yuan 元, 135 volumes
+金合欢 | TRADUÇÃO: acácia
+金喉拟啄木鸟 | TRADUÇÃO: (espécie de ave da China) barbudo-de-garganta-dourada (Psilopogon franklinii)
+金国汗 | TRADUÇÃO: a posterior dinastia Jin (a partir de 1616-) / o canato ou reino manchu que se tornou a dinastia Qing em 1644
+金圆券 | TRADUÇÃO: moeda emitida pelo Governo Nacionalista em 1948
+金城江 | TRADUÇÃO: ver 金城江區|金城江区
+金城江区 | TRADUÇÃO: distrito de Jinchengjiang, na cidade de Hechi 河池市, Guangxi
+金城汤池 | TRADUÇÃO: fortaleza inexpugnável
+金城镇 | TRADUÇÃO: Jincheng (nome de lugar comum) / cidade de Chincheng no condado de Kinmen 金門縣|金门县 (ilhas de Kinmen ou Quemoy), Taiwan
+金堂 | TRADUÇÃO: ver 金堂縣|金堂县
+金堂县 | TRADUÇÃO: condado de Jintang, na cidade de Chengdu 成都市, Sichuan
+金塔 | TRADUÇÃO: ver 金塔縣|金塔县
+金塔县 | TRADUÇÃO: condado de Jinta, na cidade de Jiuquan 酒泉市, Gansu
+金坛 | TRADUÇÃO: ver 金壇區|金坛区
+金坛区 | TRADUÇÃO: distrito de Jintan, na cidade de Changzhou 常州市, Jiangsu
+金夏沙 | TRADUÇÃO: Kinshasa, capital da República Democrática do Congo (Taiwan)
+金大中 | TRADUÇÃO: Kim Dae-jung (1926-2009), político sul-coreano, presidente 1998-2003, laureado com o Prêmio Nobel da Paz 2000
+金天翮 | TRADUÇÃO: Jin Tianhe (1874–1947), poeta e romancista do final da dinastia Qing, coautor de A Flower in a Sinful Sea 孽海花
+金威 | TRADUÇÃO: Kingway (marca chinesa de cerveja)
+金子 | TRADUÇÃO: Kaneko (sobrenome japonês) ‖ ouro
+金字 | TRADUÇÃO: letras douradas / caracteres dourados
+金字塔 | TRADUÇÃO: pirâmide (edifício ou estrutura)
+金字塔式 | TRADUÇÃO: cachorro olhando para baixo (postura de ioga)
+金宇中 | TRADUÇÃO: Kim Woo-jung (1936-), empresário sul-coreano e fundador do Grupo Daewoo
+金安 | TRADUÇÃO: ver 金安區|金安区
+金安区 | TRADUÇÃO: distrito de Jin'an, na cidade de Lu'an 六安市, Anhui
+金富轼 | TRADUÇÃO: Kim Busik (1075-1151), historiador da corte da dinastia coreana Georyo 高麗|高丽, compilador da História dos Três Reinos 三國史記|三国史记
+金宁 | TRADUÇÃO: municipio de Chinning, no condado de Kinmen 金門縣|金门县 (ilhas de Kinmen ou Quemoy), Taiwan
+金宁乡 | TRADUÇÃO: municipio de Chinning, no condado de Kinmen 金門縣|金门县 (ilhas de Kinmen ou Quemoy), Taiwan
+金寨 | TRADUÇÃO: ver 金寨縣|金寨县
+金寨县 | TRADUÇÃO: condado de Jinzhai, na cidade de Lu'an 六安市, Anhui
+金宝 | TRADUÇÃO: Campbell (nome) / Kampar, cidade no estado de Perak, Malásia
+金小蜂 | TRADUÇÃO: vespa parasitoide (gênero Nasonia)
+金屋藏娇 | TRADUÇÃO: (expressão idiomática) uma casa dourada para manter a amante / uma casa magnífica construída para uma mulher amada
+金属 | TRADUÇÃO: metal/classe de medida: 種|种
+金属疲劳 | TRADUÇÃO: fadiga do metal
+金属键 | TRADUÇÃO: ligação metálica
+金山 | TRADUÇÃO: Jinshan, distrito suburbano de Xangai / Jinshan ou Chinshan, município na Nova Taipei 新北市, Taiwan
+金山区 | TRADUÇÃO: distrito de Jinshan, subúrbio de Xangai
+金山寺 | TRADUÇÃO: Templo de Jinshan, onde Fahai vive (de "Madame White Snake")
+金山乡 | TRADUÇÃO: município de Jinshan ou Chinshan, na Nova Taipei 新北市, Taiwan
+金峰 | TRADUÇÃO: Jinfeng ou Chinfeng, município no condado de Taitung 臺東縣|台东县, sudeste de Taiwan
+金峰乡 | TRADUÇÃO: município de Jinfeng ou Chinfeng, no condado de Taitung 臺東縣|台东县, sudeste de Taiwan
+金川 | TRADUÇÃO: ver 金川區|金川区 / ver 金川縣|金川县
+金川区 | TRADUÇÃO: Jinchuan, um distrito da cidade de Jinchang 金昌市, Gansu
+金川县 | TRADUÇÃO: Jinchuan, um condado na Prefeitura Autônoma Tibetana e Qiang de Ngawa 阿壩藏族羌族自治州|阿坝藏族羌族自治州, Sichuan
+金州 | TRADUÇÃO: ver 金州區|金州区
+金州区 | TRADUÇÃO: Jinzhou, um distrito da cidade de Dalian 大連市|大连市, Liaoning
+金帐汗国 | TRADUÇÃO: Horda Dourada (antigo estado)
+金币 | TRADUÇÃO: moeda de ouro
+金平 | TRADUÇÃO: ver 金平區|金平区 / ver 金平苗族瑤族傣族自治縣|金平苗族瑶族傣族自治县
+金平区 | TRADUÇÃO: Jinping, um distrito da cidade de Shantou 汕頭市|汕头市, Guangdong
+金平糖 | TRADUÇÃO: konpeitō, um tipo de bala dura, colorida e irregular (empréstimo ortográfico do japonês 金平糖)
+金平县 | TRADUÇÃO: ver 金平苗族瑤族傣族自治縣|金平苗族瑶族傣族自治县
+金平苗族瑶族傣族自治县 | TRADUÇÃO: Condado Autônomo Miao, Yao e Dai de Jinping, na Prefeitura Autônoma Hani e Yi de Honghe 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+金库 | TRADUÇÃO: tesouro público / cofre
+金庸 | TRADUÇÃO: Jin Yong, pseudônimo de Louis Cha (1924-2018), romancista de wuxia 武俠|武侠, autor da Trilogia do Condor (1957-1961)
+金戈铁马 | TRADUÇÃO: exército muito poderoso (expressão idiomática) / (fig.) clangor de batalha
+金改 | TRADUÇÃO: reforma financeira (abrev. de 金融改革)
+金文 | TRADUÇÃO: inscrição em bronzes / inscrição em sinos e tripés
+金斑鸻 | TRADUÇÃO: (espécie de ave da China) batuíra-de-peito-fulvo (Pluvialis fulva)
+金斯敦 | TRADUÇÃO: Kingstown, capital de São Vicente e Granadinas / Kingston, capital da Jamaica
+金日成 | TRADUÇÃO: Kim Il Sung (1912-1994), Grande Líder da Coreia do Norte
+金昌 | TRADUÇÃO: ver 金昌市
+金昌市 | TRADUÇÃO: Jinchang, cidade de nível de prefeitura na província de Gansu 甘肅省|甘肃省
+金星 | TRADUÇÃO: Vênus (planeta) ‖ estrela(s) de ouro (que se vê após um golpe na cabeça etc.)
+金曜日 | TRADUÇÃO: sexta-feira (usado na astronomia chinesa antiga)
+金曲 | TRADUÇÃO: canção de sucesso / sucesso musical
+金曲奖 | TRADUÇÃO: Prêmio Golden Melody
+金朝 | TRADUÇÃO: Dinastia Jin (1115-1234), fundada pelo povo Jurchen 女真 do norte da China, precursora da Dinastia Yuan Mongol
+金本位 | TRADUÇÃO: padrão-ouro (sistema monetário)
+金东 | TRADUÇÃO: ver 金東區|金东区
+金东区 | TRADUÇÃO: Jindong, um distrito da cidade de Jinhua 金華市|金华市, Zhejiang
+金林 | TRADUÇÃO: ver 金林區|金林区
+金林区 | TRADUÇÃO: Jinlin, um distrito da cidade de Yichun 伊春市, Heilongjiang
+金枝玉叶 | TRADUÇÃO: ramo de ouro, folhas de jade (expressão idiomática) / (fig.) nobreza de sangue azul, especialmente parentes imperiais ou beleza incomparável
+金柑 | TRADUÇÃO: cunquate
+金桂冠 | TRADUÇÃO: Kim Kye-gwan (1943-), diplomata norte-coreano, primeiro vice-ministro das Relações Exteriores e negociador-chefe 2010-2019
+金桔 | TRADUÇÃO: cunquate
+金条 | TRADUÇÃO: barra de ouro
+金枣 | TRADUÇÃO: cunquate oval / cunquate nagami (Citrus margarita)
+金榜 | TRADUÇÃO: (lit.) placa com inscrição em ouro / (fig.) lista de aprovados no mais alto exame imperial / quadro de honra
+金榜题名 | TRADUÇÃO: obter as melhores notas nos exames imperiais (expressão idiomática) / ser bem-sucedido nos exames
+金枪鱼 | TRADUÇÃO: atum
+金橘 | TRADUÇÃO: cunquate / também escrito 金桔
+金柜 | TRADUÇÃO: cofre forte / caixa-forte / estante de metal para livros
+金柜石室 | TRADUÇÃO: lugares seguros para guardar artigos importantes (expressão idiomática)
+金正恩 | TRADUÇÃO: Kim Jong-un (c. 1983-), terceiro filho de Kim Jong-il 金正日, líder supremo da Coreia do Norte desde 2011
+金正日 | TRADUÇÃO: Kim Jong-il (1942-2011), Querido Líder da Coreia do Norte 1982-2011
+金正男 | TRADUÇÃO: Kim Jong-nam (1971-2017), filho mais velho de Kim Jong-il 金正日
+金正银 | TRADUÇÃO: grafia anterior de Kim Jong-un 金正恩
+金毛 | TRADUÇÃO: pelo loiro / cabelo dourado / (coloq.) golden retriever
+金毛寻回犬 | TRADUÇÃO: golden retriever
+金毛犬 | TRADUÇÃO: golden retriever (raça de cão)
+金毛狗 | TRADUÇÃO: golden retriever (raça de cão) / Cibotium barometz, samambaia arbórea tropical asiática com frondes peludas (usada na MTC)
+金氏 | TRADUÇÃO: Guinness (nome) (Taiwan)
+金水 | TRADUÇÃO: ver 金水區|金水区
+金水区 | TRADUÇÃO: Jinshui, um distrito da cidade de Zhengzhou 鄭州市|郑州市, Henan
+金永南 | TRADUÇÃO: Kim Yong-nam (1928-), político norte-coreano, ministro das Relações Exteriores 1983-1998, presidente da Assembleia Suprema do Povo 1998-2019 (chefe de estado nominal e descrito como vice-líder)
+金沙 | TRADUÇÃO: ver 金沙縣|金沙县 ‖ pó de ouro / molho de gema de ovo salgada
+金沙江 | TRADUÇÃO: Rio Jinsha, o curso superior do Rio Yangtzé 長江|长江 no sudoeste da China
+金沙县 | TRADUÇÃO: Jinsha, um condado na cidade de Bijie 畢節市|毕节市, Guizhou
+金沙萨 | TRADUÇÃO: Kinshasa, capital da República Democrática do Congo
+金沙镇 | TRADUÇÃO: cidade de Chinsha, no condado de Kinmen 金門縣|金门县 (ilhas Kinmen ou Quemoy), Taiwan
+金泉 | TRADUÇÃO: Gimcheon (cidade na Coreia do Sul)
+金泳三 | TRADUÇÃO: Kim Young-sam (1927-2015), político sul-coreano, presidente 1993-1998
+金湖 | TRADUÇÃO: Condado de Jinhu em Huai'an 淮安, Jiangsu / cidade de Chinhu no condado de Kinmen 金門縣|金门县 (ilhas Kinmen ou Quemoy), Taiwan
+金湖县 | TRADUÇÃO: Jinhu, um condado na cidade de Huai'an 淮安市, Jiangsu
+金湖镇 | TRADUÇÃO: cidade de Chinhu, no condado de Kinmen 金門縣|金门县 (ilhas Kinmen ou Quemoy), Taiwan
+金汤 | TRADUÇÃO: fortaleza inexpugnável (abrev. de 金城湯池|金城汤池)
+金汤力 | TRADUÇÃO: (estrangeirismo) gin tônica
+金溪 | TRADUÇÃO: ver 金溪縣|金溪县
+金溪县 | TRADUÇÃO: Jinxi, um condado na cidade de Fuzhou 撫州市|抚州市, Jiangxi
+金漆 | TRADUÇÃO: tinta cobre / folha de ouro falsa
+金渐层 | TRADUÇÃO: gato British Shorthair dourado
+金湾 | TRADUÇÃO: ver 金灣區|金湾区
+金湾区 | TRADUÇÃO: Jinwan, um distrito da cidade de Zhuhai 珠海市, Guangdong
+金乌 | TRADUÇÃO: Corvo Dourado / o sol / o corvo dourado de três patas que vive no sol
+金乌西坠，玉兔东升 | TRADUÇÃO: o pássaro dourado do sol se põe no oeste, a lebre de jade da lua nasce no leste (expressão idiomática) / (fig.) ao anoitecer
+金无足赤 | TRADUÇÃO: nem todo ouro é suficientemente vermelho (expressão idiomática) / ninguém é perfeito
+金熊奖 | TRADUÇÃO: Urso de Ouro, prêmio do Festival Internacional de Cinema de Berlim
+金灿灿 | TRADUÇÃO: brilhante e deslumbrante como ouro
+金牌 | TRADUÇÃO: medalha de ouro / classe de medida: 枚
+金牛 | TRADUÇÃO: Touro (signo do zodíaco) / distrito de Jinniu da cidade de Chengdu 成都市, Sichuan
+金牛区 | TRADUÇÃO: Jinniu, um distrito da cidade de Chengdu 成都市, Sichuan
+金牛座 | TRADUÇÃO: Touro (constelação e signo do zodíaco)
+金狮奖 | TRADUÇÃO: Leão de Ouro, prêmio do Festival de Cinema de Veneza
+金奖 | TRADUÇÃO: medalha de ouro / primeiro prêmio
+金玉 | TRADUÇÃO: ouro e jade / precioso
+金玉其外，败絮其中 | TRADUÇÃO: exterior dourado, interior em ruínas e miserável (expressão idiomática) / por fora bela viola, por dentro pão bolorento
+金玉其表，败絮其中 | TRADUÇÃO: exterior dourado, interior em ruínas e miserável (expressão idiomática) / por fora bela viola, por dentro pão bolorento
+金玉满堂 | TRADUÇÃO: ouro e jade enchem o salão (expressão idiomática) / (fig.) riqueza abundante / abundância de conhecimento
+金玉良言 | TRADUÇÃO: palavras de ouro como jade (expressão idiomática) / conselho inestimável
+金球奖 | TRADUÇÃO: Prêmio Globo de Ouro
+金瓜 | TRADUÇÃO: abóbora (Gymnopetalum chinense)/maça de armas com cabeça de latão em formato de abóbora
+金瓜石 | TRADUÇÃO: Jinguashi, vila no distrito de Ruifang, Nova Taipé, Taiwan, conhecida por suas minas históricas de ouro e cobre, usada como campo de prisioneiros de guerra pelos japoneses (1942-1945)
+金瓶梅 | TRADUÇÃO: Jinpingmei ou o Lótus Dourado (1617), romance vernacular da dinastia Ming, antigamente notório e proibido por seu conteúdo sexual
+金瓶梅词话 | TRADUÇÃO: Jinpingmei ou o Lótus Dourado (1617), romance vernacular da dinastia Ming, antigamente notório e proibido por seu conteúdo sexual
+金瓯 | TRADUÇÃO: Ca Mau, Vietnã
+金田村 | TRADUÇÃO: Vila de Jintian no condado de Guiping 桂平, prefeitura de Gveigangj ou Guigang 貴港|贵港, Guangxi, ponto de partida da rebelião Taiping Tianguo 太平天國|太平天国 em 1851
+金田起义 | TRADUÇÃO: Revolta de Jintian
+金盆洗手 | TRADUÇÃO: (lit.) lavar as mãos numa bacia de ouro (expressão idiomática)/(fig.) abandonar a vida de fora da lei
+金目鲈 | TRADUÇÃO: Barramundi/Lates calcarifer (uma espécie de peixe catádromo da família Latidae da ordem Perciformes)
+金盾工程 | TRADUÇÃO: Projeto Escudo Dourado, sistema de informação para censura e vigilância, que se acredita incluir a Grande Muralha de Fogo 防火長城|防火长城 como um componente
+金眶鸻 | TRADUÇÃO: (espécie de ave da China) borrelho-pequeno-de-coleira (Charadrius dubius)
+金眶鹟莺 | TRADUÇÃO: (espécie de ave da China) felosa-de-coroa-verde (Phylloscopus burkii)
+金眼鹛雀 | TRADUÇÃO: (espécie de ave da China) tagarela-de-olho-amarelo (Chrysomma sinense)
+金石 | TRADUÇÃO: metal e pedra/fig. objetos duros/inscrição em metal ou bronze
+金石学 | TRADUÇÃO: epigrafia
+金石丝竹 | TRADUÇÃO: (lit.) (instrumentos musicais feitos de) metal, pedra, corda e bambu (expressão idiomática)/(fig.) instrumentos musicais tradicionais chineses
+金石良言 | TRADUÇÃO: joias de sabedoria (expressão idiomática); conselho inestimável
+金碧荧煌 | TRADUÇÃO: esplêndido em verde e ouro (expressão idiomática); com aparência radiante
+金碧辉煌 | TRADUÇÃO: ouro e jade em glória esplendorosa (expressão idiomática)/fig. uma visão deslumbrante (ex.: palácio real)
+金砖 | TRADUÇÃO: (forma ligada) BRICS ‖ lingote de ouro
+金砖国家 | TRADUÇÃO: BRICS (bloco econômico)
+金矿 | TRADUÇÃO: mina de ouro/minério de ouro
+金秀 | TRADUÇÃO: ver 金秀瑤族自治縣|金秀瑶族自治县
+金秀瑶族自治县 | TRADUÇÃO: Condado Autônomo Yao de Jinxiu, na cidade de Laibin 來賓市|来宾市, Guangxi
+金秀县 | TRADUÇÃO: ver 金秀瑤族自治縣|金秀瑶族自治县
+金秋 | TRADUÇÃO: outono; outono
+金科玉律 | TRADUÇÃO: regra de ouro/princípio fundamental
+金窝银窝不如自己的狗窝 | TRADUÇÃO: não há lugar como o lar (expressão idiomática)
+金童玉女 | TRADUÇÃO: (lit.) meninos dourados e donzelas de jade (expressão idiomática)/acompanhantes dos imortais taoístas/fig. crianças adoráveis/um casal perfeito/(de um casal na mídia) um casal jovem e adorável
+金箍 | TRADUÇÃO: faixa dourada
+金箍棒 | TRADUÇÃO: bastão dourado, arma empunhada por Sun Wukong no romance Jornada ao Oeste 西遊記|西游记
+金箔 | TRADUÇÃO: folha de ouro
+金红 | TRADUÇÃO: vermelho-dourado (cor)
+金红石 | TRADUÇÃO: (mineralogia) rutilo
+金纸 | TRADUÇÃO: papel de joss
+金丝燕 | TRADUÇÃO: Aerodramus, gênero de aves que usam ecolocalização, um subconjunto da tribo Collocaliini (andorinhões), cujas duas espécies – Aerodramus fuciphagus e Aerodramus maximus – constroem ninhos colhidos para fazer sopa de ninho de andorinha
+金丝猴 | TRADUÇÃO: macaco-narigudo-dourado (Rhinopithecus roxellana)
+金丝雀 | TRADUÇÃO: canário
+金县 | TRADUÇÃO: Condado de King
+金钵 | TRADUÇÃO: tigela de esmolas (de ouro) (de um monge budista)
+金翅 | TRADUÇÃO: verdilhão-oriental (Carduelis sinica)
+金翅噪鹛 | TRADUÇÃO: (espécie de ave da China) tagarela-de-asa-dourada (Trochalopteron chrysopterum)
+金翅雀 | TRADUÇÃO: (espécie de ave da China) verdilhão-de-cabeça-cinzenta (Chloris sinica)
+金背三趾啄木鸟 | TRADUÇÃO: (espécie de ave da China) pica-pau-de-dorso-dourado (Dinopium javanense)
+金胸歌鸲 | TRADUÇÃO: (espécie de ave da China) rouxinol-de-peito-dourado (Calliope pectardens)
+金胸雀鹛 | TRADUÇÃO: (espécie de ave da China) fulveta-de-peito-dourado (Lioparus chrysotis)
+金腰燕 | TRADUÇÃO: (espécie de ave da China) andorinha-dáurica (Cecropis daurica)
+金台 | TRADUÇÃO: ver 金臺區|金台区
+金台区 | TRADUÇÃO: Jintai, um distrito da cidade de Baoji 寶雞市|宝鸡市, Shaanxi
+金色 | TRADUÇÃO: dourado/cor de ouro
+金色林鸲 | TRADUÇÃO: (espécie de ave da China) rouxinol-dourado (Tarsiger chrysaeus)
+金色鸦雀 | TRADUÇÃO: (espécie de ave da China) bico-de-tesoura-dourado (Suthora verreauxi)
+金茂大厦 | TRADUÇÃO: Torre Jin Mao, arranha-céu em Xangai
+金菇 | TRADUÇÃO: cogumelo enoki/abrev. de 金針菇|金针菇
+金华 | TRADUÇÃO: ver 金華市|金华市
+金华市 | TRADUÇÃO: Jinhua, cidade de nível de prefeitura na província de Zhejiang 浙江省
+金华火腿 | TRADUÇÃO: presunto de Jinhua
+金葱粉 | TRADUÇÃO: glitter (material cintilante)
+金葱胶 | TRADUÇÃO: cola glitter
+金兰 | TRADUÇÃO: amizade profunda/irmandade jurada
+金兰之交 | TRADUÇÃO: amizade íntima (expressão idiomática)
+金兰谱 | TRADUÇÃO: (antigo) registros genealógicos de irmãos jurados, cada um mantendo uma cópia
+金融 | TRADUÇÃO: bancário/finanças/financeiro
+金融区 | TRADUÇÃO: distrito financeiro
+金融危机 | TRADUÇÃO: crise financeira
+金融家 | TRADUÇÃO: financista; banqueiro
+金融市场 | TRADUÇÃO: mercado financeiro
+金融改革 | TRADUÇÃO: reforma financeira
+金融时报 | TRADUÇÃO: Financial Times
+金融时报指数 | TRADUÇÃO: índice da bolsa de valores Financial Times (FTSE 100 ou footsie)
+金融业 | TRADUÇÃO: setor financeiro/negócio bancário
+金融杠杆 | TRADUÇÃO: alavancagem financeira/alavancagem (i.e., comprar ações com fundos emprestados)
+金融机构 | TRADUÇÃO: instituição financeira/instituição bancária
+金融机关 | TRADUÇÃO: organização financeira
+金融界 | TRADUÇÃO: círculos bancários/mundo das finanças
+金融系统 | TRADUÇÃO: sistema financeiro
+金融衍生产品 | TRADUÇÃO: derivativo financeiro
+金融风暴 | TRADUÇÃO: crise bancária/tempestade nos círculos financeiros
+金融风波 | TRADUÇÃO: crise financeira/crise bancária
+金蝉 | TRADUÇÃO: Cigarra Dourada
+金蝉脱壳 | TRADUÇÃO: (lit.) a cigarra troca sua carapaça (expressão idiomática); (fig.) desaparecer deixando uma casca vazia/um plano de fuga astuto
+金衡 | TRADUÇÃO: peso troy, sistema de pesos para metais preciosos e gemas baseado na libra de 12 onças (ou 5.760 grãos)
+金角湾 | TRADUÇÃO: Baía de Zolotoy Rog ou Baía do Chifre Dourado em Vladivostoque (famosa pela poluição)
+金贵 | TRADUÇÃO: (coloq.) precioso; extremamente valioso
+金迷纸醉 | TRADUÇÃO: (lit.) deslumbrante com papel e ouro (expressão idiomática); (fig.) entregar-se a uma vida de luxo
+金边 | TRADUÇÃO: Phnom Penh, capital do Camboja
+金乡 | TRADUÇÃO: ver 金鄉縣|金乡县
+金乡县 | TRADUÇÃO: Jinxiang, um condado na cidade de Jining 濟寧市|济宁市, Shandong
+金酒 | TRADUÇÃO: gim
+金里奇 | TRADUÇÃO: (Newt) Gingrich
+金针 | TRADUÇÃO: agulha usada em bordado ou costura/agulha de acupuntura/lírio-dia-laranja (Hemerocallis fulva)
+金针花 | TRADUÇÃO: lírio-dia-laranja (Hemerocallis fulva)
+金针菇 | TRADUÇÃO: cogumelo enoki (Flammulina velutipes), usado nas culinárias do Japão, Coreia e China, cultivado para ser longo, fino e branco
+金针菜 | TRADUÇÃO: lírio-dia (Hemerocallis), usado na medicina e culinária chinesas
+金铃子 | TRADUÇÃO: cinamomo (Melia azedarach)
+金银 | TRADUÇÃO: ouro e prata
+金银块 | TRADUÇÃO: ouro em barras/prata em barras
+金银岛 | TRADUÇÃO: A Ilha do Tesouro de R.L. Stevenson 羅伯特·路易斯·斯蒂文森|罗伯特·路易斯·斯蒂文森
+金银箔 | TRADUÇÃO: folha de ouro e prata/lâmina de ouro e prata
+金银花 | TRADUÇÃO: madressilva
+金银铜铁锡 | TRADUÇÃO: os cinco metais: ouro, prata, cobre, ferro, estanho
+金铜合铸 | TRADUÇÃO: liga de cobre e ouro
+金钱 | TRADUÇÃO: dinheiro/moeda
+金钱挂帅 | TRADUÇÃO: preocupar-se apenas com dinheiro e riqueza
+金钱万能 | TRADUÇÃO: o dinheiro é onipotente (expressão idiomática)/com dinheiro, pode-se fazer tudo/o dinheiro fala mais alto
+金钱豹 | TRADUÇÃO: leopardo
+金镏子 | TRADUÇÃO: anel de ouro
+金钟 | TRADUÇÃO: Admiralty, Hong Kong
+金钥 | TRADUÇÃO: a chave (para resolver um problema etc)/(Taiwan) (criptografia) chave
+金銮殿 | TRADUÇÃO: sala do trono
+金门 | TRADUÇÃO: Ilhas de Kinmen (ou Quemoy) ao largo da costa de Fujian, administradas por Taiwan/condado de Jinmen em Quanzhou 泉州, Fujian, RPC
+金门岛 | TRADUÇÃO: Ilhas de Kinmen (ou Quemoy) ao largo da costa de Fujian, administradas por Taiwan
+金门县 | TRADUÇÃO: Condado de Kinmen, Taiwan (as ilhas de Kinmen ou Quemoy ao largo da costa de Fujian)/condado de Jinmen em Quanzhou 泉州, Fujian
+金阁寺 | TRADUÇÃO: Kinkakuji ou Pavilhão Dourado no noroeste de Quioto 京都, Japão/nome informal do templo budista Rokuonji 鹿苑寺
+金阙 | TRADUÇÃO: o palácio imperial
+金陵 | TRADUÇÃO: nome pré-Han para Nanquim/nome de lugar comum
+金陵大学 | TRADUÇÃO: Universidade de Nanquim
+金阳 | TRADUÇÃO: veja 金陽縣|金阳县
+金阳县 | TRADUÇÃO: Jinyang, um condado na Prefeitura Autônoma Yi de Liangshan 涼山彝族自治州|凉山彝族自治州, Sichuan
+金雀花 | TRADUÇÃO: giesta (família Fabaceae)
+金鸡 | TRADUÇÃO: faisão-dourado (Chrysolophus pictus)
+金鸡独立 | TRADUÇÃO: galo-dourado em uma perna só (postura de tai chi)/apoiar-se em uma perna só
+金鸡纳 | TRADUÇÃO: quinino (Cinchona ledgeriana)
+金鸡纳树 | TRADUÇÃO: Cinchona ledgeriana, árvore cuja casca contém quinino
+金鸡纳霜 | TRADUÇÃO: pó de quinino
+金霸王 | TRADUÇÃO: Duracell (marca americana de pilhas etc)
+金顶戴菊 | TRADUÇÃO: estrelinha-de-topete (Regulus satrapa)
+金顶戴菊鸟 | TRADUÇÃO: estrelinha-de-topete (Regulus satrapa)
+金领 | TRADUÇÃO: colarinho-dourado/executivo sênior de alto nível/trabalhador altamente qualificado
+金头扇尾莺 | TRADUÇÃO: (espécie de ave da China) cisticola-de-cabeça-dourada (Cisticola exilis)
+金头穗鹛 | TRADUÇÃO: (espécie de ave da China) tagarela-dourado (Cyanoderma chrysaeum)
+金头缝叶莺 | TRADUÇÃO: (espécie de ave da China) costureiro-da-montanha (Phyllergates cuculatus)
+金头黑雀 | TRADUÇÃO: (espécie de ave da China) pintassilgo-de-nuca-dourada (Pyrrhoplectes epauletta)
+金额 | TRADUÇÃO: soma em dinheiro; valor em dinheiro
+金额丝雀 | TRADUÇÃO: (espécie de ave da China) serino-de-testa-vermelha (Serinus pusillus)
+金额叶鹎 | TRADUÇÃO: (espécie de ave da China) verdinho-de-testa-dourada (Chloropsis aurifrons)
+金额雀鹛 | TRADUÇÃO: (espécie de ave da China) fulveta-de-testa-dourada (Schoeniparus variegaticeps)
+金饭碗 | TRADUÇÃO: emprego seguro e lucrativo
+金饰 | TRADUÇÃO: adornos de ouro
+金马奖 | TRADUÇÃO: Festival e Prêmios Golden Horse de Cinema
+金发 | TRADUÇÃO: loiro/loura/cabelos claros
+金发碧眼 | TRADUÇÃO: cabelos claros e olhos azuis/loiro/de aparência ocidental
+金鱼 | TRADUÇÃO: peixinho-dourado
+金鱼佬 | TRADUÇÃO: pedófilo (gíria, referindo-se ao caso de um sequestrador de crianças em Hong Kong que atraía meninas com a promessa de ver "peixinhos-dourados" em seu apartamento)
+金鱼草 | TRADUÇÃO: boca-de-leão (Antirrhinum majus)
+金鱼藻 | TRADUÇÃO: ceratofilo (Ceratophyllum demersum)
+金凤 | TRADUÇÃO: veja 金鳳區|金凤区
+金凤区 | TRADUÇÃO: Jinfeng, um distrito da cidade de Yinchuan 銀川市|银川市, Ningxia
+金雕 | TRADUÇÃO: (espécie de ave da China) águia-real (Aquila chrysaetos)
+金卤灯 | TRADUÇÃO: lâmpada de iodetos metálicos
+金黄 | TRADUÇÃO: amarelo-dourado; dourado
+金黄色 | TRADUÇÃO: cor de ouro
+金黄鹂 | TRADUÇÃO: (espécie de ave da China) papa-figos-eurasiático (Oriolus oriolus)
+金霉素 | TRADUÇÃO: (farmacologia) clortetraciclina
+金龟 | TRADUÇÃO: tartaruga/escaranavelho
+金龟婿 | TRADUÇÃO: genro rico/marido rico
+金龟子 | TRADUÇÃO: escaravelho
+金龟车 | TRADUÇÃO: (Taiwan) Fusca Volkswagen
+钆 | TRADUÇÃO: gadolínio (química)
+钇 | TRADUÇÃO: ítrio (química)
+钌 | TRADUÇÃO: rutênio (química) ‖ veja 釕銱兒|钌铞儿/pronúncia de Taiwan pr. [liao3]
+钌铞儿 | TRADUÇÃO: grampo (de fechadura)
+钊 | TRADUÇÃO: encorajar/cortar/coar
+钉 | TRADUÇÃO: prego/seguir de perto/ficar em cima de alguém (para fazer algo)/variante de 盯 ‖ juntar coisas fixando-as em um ou mais pontos/pregar/alfinetar/grampear/costurar
+钉子 | TRADUÇÃO: prego/empecilho/sabotador
+钉子户 | TRADUÇÃO: morador que se recusa a desocupar sua casa apesar da pressão de incorporadores
+钉是钉，铆是铆 | TRADUÇÃO: lit. prego é prego e rebite é rebite (expressão idiomática)/fig. meticuloso/consciencioso/inequívoco
+钉书机 | TRADUÇÃO: grampeador
+钉书针 | TRADUÇÃO: variante de 訂書針|订书针
+钉梢 | TRADUÇÃO: seguir alguém/encalço/vigiar (também escrito 盯梢)
+钉枪 | TRADUÇÃO: pistola de pregos; grampeador de pregos
+钉死 | TRADUÇÃO: pregar firmemente/executar por empalamento/crucificar
+钉牢 | TRADUÇÃO: cravar (um prego)/fixar com prego
+钉耙 | TRADUÇÃO: ancinho
+钉螺 | TRADUÇÃO: Oncomelania
+钉钉 | TRADUÇÃO: DingTalk, plataforma de comunicação empresarial desenvolvida pela Alibaba
+钉钯 | TRADUÇÃO: ancinho
+钉锤 | TRADUÇÃO: martelo de pregos/martelo de unha
+钉头 | TRADUÇÃO: cabeça de prego
+钋 | TRADUÇÃO: polônio (química)/pronúncia de Taiwan pr. [po4]
+釜 | TRADUÇÃO: chaleira/caldeirão
+釜山 | TRADUÇÃO: Cidade Metropolitana de Busan na Província de Gyeongsang do Sul 慶尚南道|庆尚南道, Coreia do Sul
+釜山市 | TRADUÇÃO: Cidade Metropolitana de Busan na Província de Gyeongsang do Sul 慶尚南道|庆尚南道, Coreia do Sul
+釜山广域市 | TRADUÇÃO: Cidade Metropolitana de Busan na Província de Gyeongsang do Sul 慶尚南道|庆尚南道, Coreia do Sul
+釜底抽薪 | TRADUÇÃO: tomar medidas drásticas para lidar com uma situação/tirar o tapete de alguém
+釜底游鱼 | TRADUÇÃO: um peixe no fundo do caldeirão (expressão idiomática)/em uma situação desesperadora
+针 | TRADUÇÃO: agulha/alfinete/injeção/ponto (de costura)/CL:根,支 ‖ variante de 針|针, agulha
+针具 | TRADUÇÃO: agulha de acupuntura/agulha hipodérmica
+针刺 | TRADUÇÃO: picar com uma agulha/tratar por acupuntura
+针刺麻醉 | TRADUÇÃO: anestesia por acupuntura
+针剂 | TRADUÇÃO: líquido carregado em uma seringa para injeção hipodérmica
+针剂瓶 | TRADUÇÃO: ampola
+针孔 | TRADUÇÃO: orifício de alfinete; furo de agulha
+针孔摄像头 | TRADUÇÃO: câmera escondida em miniatura; câmera-escuta
+针孔摄影机 | TRADUÇÃO: (Taiwan) câmera miniatura e ocultável com lente do tamanho de um orifício de alfinete/câmera pinhole
+针对 | TRADUÇÃO: alvejar; focar em; ter como alvo ou ser contra; em resposta a
+针对性 | TRADUÇÃO: foco/direção/propósito/relevância
+针尖儿对麦芒儿 | TRADUÇÃO: veja 針尖對麥芒|针尖对麦芒
+针尖对麦芒 | TRADUÇÃO: fortemente opostos um ao outro, com nenhum disposto a ceder um milímetro (expressão idiomática)
+针尾沙锥 | TRADUÇÃO: (espécie de ave da China) narceja-de-rabo-de-agulha (Gallinago stenura)

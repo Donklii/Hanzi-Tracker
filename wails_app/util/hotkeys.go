@@ -20,8 +20,8 @@ func ParseHotkey(hkStr string) *hotkey.Hotkey {
 			mods = append(mods, mod)
 			continue
 		}
-		if len(p) == 1 {
-			key = teclaDe(p[0])
+		if k, ok := teclaDe(p); ok {
+			key = k
 		}
 	}
 	if key == 0 {

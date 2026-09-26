@@ -1,0 +1,103 @@
+# FORMATO (não traduzir esta linha): CARACTERE | DEFINIÇÃO: <texto em inglês> | DICA: <contexto/etimologia em inglês>
+# Traduza apenas o texto após "DEFINIÇÃO:" e após "DICA:" para português. DICA é só uma dica de contexto, pode ficar vazia.
+# Responda com o mesmo formato, mesma ordem, uma linha por caractere, sem pular nenhuma.
+魚 | DEFINIÇÃO: fish | DICA: A fish swimming upwards
+魠 | DEFINIÇÃO: Japanese mackerel | DICA: fish
+魯 | DEFINIÇÃO: foolish, stupid, rash; vulgar | DICA: To talk 日 like a fish 魚
+魷 | DEFINIÇÃO: cuttlefish | DICA: fish
+鮃 | DEFINIÇÃO: sole | DICA: fish
+鮑 | DEFINIÇÃO: abalone; dried fish; surname | DICA: fish
+鮨 | DEFINIÇÃO: sushi; seasoned rice mixed with fish | DICA: fish
+鮪 | DEFINIÇÃO: little tuna; Euthynnus alletteratus | DICA: fish
+鮫 | DEFINIÇÃO: shark | DICA: fish
+鮭 | DEFINIÇÃO: salmon; Spheroides vermicularis | DICA: fish
+鮮 | DEFINIÇÃO: fresh; delicious; attractive | DICA: fish
+鯇 | DEFINIÇÃO: carp | DICA: fish
+鯉 | DEFINIÇÃO: carp | DICA: fish
+鯊 | DEFINIÇÃO: shark | DICA: fish
+鯔 | DEFINIÇÃO: mullet | DICA: fish
+鯕 | DEFINIÇÃO: ray-finned fish; Coryphaena hippurus | DICA: fish
+鯖 | DEFINIÇÃO: mackerel | DICA: fish
+鯗 | DEFINIÇÃO: dried fish | DICA: fish
+鯛 | DEFINIÇÃO: porgy; Pagrosomus major | DICA: fish
+鯡 | DEFINIÇÃO: herring | DICA: fish
+鯢 | DEFINIÇÃO: salamander; Cryptobranchus japonicus | DICA: fish
+鯤 | DEFINIÇÃO: spawn; roe; fry | DICA: fish
+鯧 | DEFINIÇÃO: silvery pomfret, Stromateoides argenteus | DICA: fish
+鯨 | DEFINIÇÃO: whale | DICA: fish
+鯪 | DEFINIÇÃO: carp | DICA: fish
+鯫 | DEFINIÇÃO: small fish; small; minnow | DICA: fish
+鯰 | DEFINIÇÃO: sheatfish | DICA: fish
+鯷 | DEFINIÇÃO: anchovy | DICA: fish
+鯽 | DEFINIÇÃO: crucian carp; Carassius auratus | DICA: fish
+鰂 | DEFINIÇÃO: cuttlefish | DICA: fish
+鰆 | DEFINIÇÃO: a kind of long, flat, silver-gray striped fish | DICA: fish
+鰈 | DEFINIÇÃO: flatfish; flounder; sole | DICA: fish
+鰓 | DEFINIÇÃO: fish gills | DICA: fish
+鰟 | DEFINIÇÃO: carp | DICA: fish
+鰣 | DEFINIÇÃO: Reeves' shad; hilsa herring | DICA: fish
+鰥 | DEFINIÇÃO: huge fish; widower; bachelor | DICA: fish
+鰭 | DEFINIÇÃO: fin | DICA: fish
+鰱 | DEFINIÇÃO: silver carp, hypophthalmiathys | DICA: fish
+鰲 | DEFINIÇÃO: huge sea turtle | DICA: fish
+鰹 | DEFINIÇÃO: skipjack, bonito | DICA: fish
+鰻 | DEFINIÇÃO: eel | DICA: fish
+鰾 | DEFINIÇÃO: swim bladder | DICA: fish
+鱀 | DEFINIÇÃO: Chinese river dolphin | DICA: fish
+鱄 | DEFINIÇÃO: anchovy | DICA: fish
+鱅 | DEFINIÇÃO: bighead | DICA: fish
+鱆 | DEFINIÇÃO: octopus, devilfish | DICA: fish
+鱈 | DEFINIÇÃO: codfish | DICA: fish
+鱉 | DEFINIÇÃO: turtle | DICA: fish
+鱒 | DEFINIÇÃO: barbel | DICA: fish
+鱔 | DEFINIÇÃO: eel | DICA: fish
+鱖 | DEFINIÇÃO: mandarin fish | DICA: fish
+鱗 | DEFINIÇÃO: fish scales | DICA: fish
+鱘 | DEFINIÇÃO: sturgeon | DICA: fish
+鱠 | DEFINIÇÃO: minced fish; hash | DICA: fish
+鱣 | DEFINIÇÃO: sturgeon | DICA: fish
+鱥 | DEFINIÇÃO: minnow | DICA: fish
+鱧 | DEFINIÇÃO: snakehead | DICA: fish
+鱷 | DEFINIÇÃO: alligator | DICA: fish
+鱸 | DEFINIÇÃO: perch; sea bass | DICA: fish
+鱺 | DEFINIÇÃO: eel | DICA: fish
+鱻 | DEFINIÇÃO: fresh, delicious; rare, few | DICA: A fresh catch of fish 魚
+鱼 | DEFINIÇÃO: fish | DICA: A fish swimming upwards
+鱿 | DEFINIÇÃO: cuttlefish | DICA: fish
+鲁 | DEFINIÇÃO: foolish, stupid, rash; vulgar | DICA: To talk 日 like a fish 鱼
+鲂 | DEFINIÇÃO: bream | DICA: fish
+鲃 | DEFINIÇÃO: shark; bonito | DICA: fish
+鲅 | DEFINIÇÃO: Chinese mackerel | DICA: fish
+鲆 | DEFINIÇÃO: sole | DICA: fish
+鲇 | DEFINIÇÃO: sheatfish; Parasilurus asotus | DICA: fish
+鲈 | DEFINIÇÃO: perch; sea bass | DICA: fish
+鲋 | DEFINIÇÃO: carp; Carassicus auratus | DICA: fish
+鲍 | DEFINIÇÃO: abalone; dried fish; surname | DICA: fish
+鲎 | DEFINIÇÃO: king crab | DICA: fish
+鲐 | DEFINIÇÃO: mackerel; Pneumatophorus japonicus | DICA: fish
+鲑 | DEFINIÇÃO: salmon; Spheroides vermicularis | DICA: fish
+鲒 | DEFINIÇÃO: clam; oyster | DICA: fish
+鲔 | DEFINIÇÃO: little tuna; Euthynnus alletteratus | DICA: fish
+鲕 | DEFINIÇÃO: roe | DICA: fish
+鲗 | DEFINIÇÃO: cuttlefish | DICA: fish
+鲙 | DEFINIÇÃO: minced fish; hash | DICA: fish
+鲚 | DEFINIÇÃO: anchovy | DICA: fish
+鲛 | DEFINIÇÃO: shark | DICA: fish
+鲜 | DEFINIÇÃO: fresh; delicious; attractive | DICA: fish
+鲞 | DEFINIÇÃO: dried fish | DICA: fish
+鲟 | DEFINIÇÃO: sturgeon | DICA: fish
+鲠 | DEFINIÇÃO: fish bones; honest, upright | DICA: fish
+鲡 | DEFINIÇÃO: eel | DICA: fish
+鲢 | DEFINIÇÃO: silver carp, hypophthalmiathys | DICA: fish
+鲣 | DEFINIÇÃO: skipjack, bonito | DICA: fish
+鲤 | DEFINIÇÃO: carp | DICA: fish
+鲥 | DEFINIÇÃO: Reeves' shad; hilsa herring | DICA: fish
+鲦 | DEFINIÇÃO: minnow | DICA: fish
+鲧 | DEFINIÇÃO: giant fish; Gun, mythical father of the emperor Yu | DICA: fish
+鲨 | DEFINIÇÃO: shark | DICA: fish
+鲩 | DEFINIÇÃO: carp | DICA: fish
+鲫 | DEFINIÇÃO: crucian carp; Carassius auratus | DICA: fish
+鲭 | DEFINIÇÃO: mackerel | DICA: fish
+鲮 | DEFINIÇÃO: carp | DICA: fish
+鲯 | DEFINIÇÃO: ray-finned fish; Coryphaena hippurus | DICA: fish
+鲰 | DEFINIÇÃO: small fish; small; minnow | DICA: fish

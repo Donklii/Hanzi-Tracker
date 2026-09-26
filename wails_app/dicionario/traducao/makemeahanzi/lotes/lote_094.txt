@@ -1,0 +1,103 @@
+# FORMATO (não traduzir esta linha): CARACTERE | DEFINIÇÃO: <texto em inglês> | DICA: <contexto/etimologia em inglês>
+# Traduza apenas o texto após "DEFINIÇÃO:" e após "DICA:" para português. DICA é só uma dica de contexto, pode ficar vazia.
+# Responda com o mesmo formato, mesma ordem, uma linha por caractere, sem pular nenhuma.
+鷙 | DEFINIÇÃO: hawk, vulture | DICA: bird
+鷦 | DEFINIÇÃO: wren | DICA: bird
+鷫 | DEFINIÇÃO: the turquoise kingfisher | DICA: bird
+鷯 | DEFINIÇÃO: wren | DICA: bird
+鷲 | DEFINIÇÃO: condor, vulture | DICA: bird
+鷸 | DEFINIÇÃO: snipe, kingfisher | DICA: bird
+鷹 | DEFINIÇÃO: eagle, falcon, hawk | DICA: bird
+鷺 | DEFINIÇÃO: heron, egret; Ardea species (various) | DICA: bird
+鷿 | DEFINIÇÃO: a duck-like bird | DICA: bird
+鸂 | DEFINIÇÃO: Mandarin duck, Aix galericulata | DICA: Water 氵 fowl 鷄; 鷄 also provides the pronunciation
+鸊 | DEFINIÇÃO: a kind of duck; Podiceps ruficolus | DICA: bird
+鸕 | DEFINIÇÃO: cormorant | DICA: bird
+鸘 | DEFINIÇÃO: eagle | DICA: bird
+鸚 | DEFINIÇÃO: parrot | DICA: bird
+鸝 | DEFINIÇÃO: Chinese oriole; Oriolus oriolus | DICA: bird
+鸞 | DEFINIÇÃO: fabulous bird | DICA: bird
+鸟 | DEFINIÇÃO: bird | DICA: Simplified form of 烏, a bird
+鸠 | DEFINIÇÃO: pigeon; to collect, to assemble | DICA: bird
+鸡 | DEFINIÇÃO: chicken | DICA: Another 又 kind of bird 鸟
+鸢 | DEFINIÇÃO: kite; Milvus species (various) | DICA: bird
+鸣 | DEFINIÇÃO: a bird call or animal cry; to make a sound | DICA: The sound 口 a bird 鸟 makes
+鸥 | DEFINIÇÃO: seagull, tern; Larus species (various) | DICA: bird
+鸦 | DEFINIÇÃO: crow; Corvus species (various) | DICA: bird
+鸧 | DEFINIÇÃO: oriole | DICA: bird
+鸨 | DEFINIÇÃO: bustard; procuress; Otis species (various) | DICA: bird
+鸩 | DEFINIÇÃO: a bird resembling the secretary falcon | DICA: bird
+鸪 | DEFINIÇÃO: species of Taiwan pigeon | DICA: bird
+鸫 | DEFINIÇÃO: thrush; Turdus species (various) | DICA: bird
+鸬 | DEFINIÇÃO: cormorant | DICA: bird
+鸭 | DEFINIÇÃO: duck; Anas species (various) | DICA: bird
+鸮 | DEFINIÇÃO: owl | DICA: bird
+鸯 | DEFINIÇÃO: female mandarin duck (Aix galericulata) | DICA: bird
+鸰 | DEFINIÇÃO: lark, wagtail; Motacilla species (various) | DICA: bird
+鸱 | DEFINIÇÃO: kite, horned owl; wine cups | DICA: bird
+鸲 | DEFINIÇÃO: mynah; Erithacus species (various) | DICA: bird
+鸳 | DEFINIÇÃO: male mandarin duck (Aix galericulata) | DICA: bird
+鸵 | DEFINIÇÃO: ostrich | DICA: bird
+鸶 | DEFINIÇÃO: the eastern egret | DICA: bird
+鸷 | DEFINIÇÃO: hawk, vulture | DICA: bird
+鸸 | DEFINIÇÃO: swallow | DICA: bird
+鸹 | DEFINIÇÃO: crow | DICA: bird
+鸺 | DEFINIÇÃO: horned owl, scops chinensis | DICA: bird
+鸻 | DEFINIÇÃO: plover, wading bird | DICA: A wading 行 bird 鸟; 鸟 also provides the pronunciation
+鸽 | DEFINIÇÃO: pigeon, dove; Columba species (various) | DICA: bird
+鸾 | DEFINIÇÃO: fabulous bird | DICA: bird
+鸿 | DEFINIÇÃO: a species of wild swan; vast | DICA: bird
+鹁 | DEFINIÇÃO: a species of pigeon | DICA: bird
+鹂 | DEFINIÇÃO: Chinese oriole; Oriolus oriolus | DICA: bird
+鹃 | DEFINIÇÃO: cuckoo | DICA: bird
+鹄 | DEFINIÇÃO: swan | DICA: bird
+鹅 | DEFINIÇÃO: goose | DICA: bird
+鹆 | DEFINIÇÃO: mynah; Acridotheres tristis | DICA: bird
+鹇 | DEFINIÇÃO: silver pheasant, Lophura nycthemera; Lophura species (various) | DICA: bird
+鹈 | DEFINIÇÃO: pelican | DICA: bird
+鹉 | DEFINIÇÃO: species of parrot | DICA: bird
+鹊 | DEFINIÇÃO: magpie; Pica species (various) | DICA: bird
+鹋 | DEFINIÇÃO: emu | DICA: bird
+鹌 | DEFINIÇÃO: quail; Coturnix coturnix | DICA: bird
+鹍 | DEFINIÇÃO: a bird resembling a crane | DICA: bird
+鹎 | DEFINIÇÃO: bulbul, songbird; Pycnonotidae | DICA: bird
+鹏 | DEFINIÇÃO: fabulous bird of enormous size | DICA: bird
+鹑 | DEFINIÇÃO: quail; Turnix species (various) | DICA: bird
+鹒 | DEFINIÇÃO: oriole | DICA: bird
+鹔 | DEFINIÇÃO: the turquoise kingfisher | DICA: bird
+鹕 | DEFINIÇÃO: pelican | DICA: bird
+鹗 | DEFINIÇÃO: osprey, fishhawk | DICA: bird
+鹘 | DEFINIÇÃO: a kind of pigeon; treron permagna | DICA: bird
+鹙 | DEFINIÇÃO: waterfowl; Garrulus glandarius | DICA: bird
+鹚 | DEFINIÇÃO: cormorant | DICA: bird
+鹛 | DEFINIÇÃO: cormorant | DICA: bird
+鹜 | DEFINIÇÃO: duck | DICA: bird
+鹞 | DEFINIÇÃO: sparrow hawk; Circus species (various) | DICA: bird
+鹠 | DEFINIÇÃO: owl | DICA: bird
+鹡 | DEFINIÇÃO: wagtail | DICA: bird
+鹣 | DEFINIÇÃO: phoenix; fabulous mythical bird | DICA: bird
+鹤 | DEFINIÇÃO: crane; Grus species (various) | DICA: bird
+鹦 | DEFINIÇÃO: parrot | DICA: bird
+鹧 | DEFINIÇÃO: partridge | DICA: bird
+鹨 | DEFINIÇÃO: Anthus species (various) | DICA: bird
+鹩 | DEFINIÇÃO: wren | DICA: bird
+鹪 | DEFINIÇÃO: wren | DICA: bird
+鹫 | DEFINIÇÃO: condor, vulture | DICA: bird
+鹬 | DEFINIÇÃO: snipe, kingfisher | DICA: bird
+鹭 | DEFINIÇÃO: heron, egret; Ardea species (various) | DICA: bird
+鹮 | DEFINIÇÃO: spoonbill, ibis; Threskiornidae | DICA: bird
+鹰 | DEFINIÇÃO: eagle, falcon, hawk | DICA: bird
+鹱 | DEFINIÇÃO: waterfowl | DICA: bird
+鹳 | DEFINIÇÃO: crane, stork; Ciconia species (various) | DICA: bird
+鹴 | DEFINIÇÃO: eagle | DICA: bird
+鹵 | DEFINIÇÃO: salt | DICA: A container used to brine pickles
+鹹 | DEFINIÇÃO: all, together, united; salted | DICA: salt
+鹼 | DEFINIÇÃO: alkaline, alkali, lye, salt | DICA: salt
+鹽 | DEFINIÇÃO: salt | DICA: salt
+鹾 | DEFINIÇÃO: salty; salt | DICA: salt
+鹿 | DEFINIÇÃO: deer; surname | DICA: A deer with an antlered head, two legs, and a tail
+麂 | DEFINIÇÃO: a species of deer | DICA: deer
+麃 | DEFINIÇÃO: to plow, to till | DICA: Tracks 灬 left by a deer 鹿
+麇 | DEFINIÇÃO: hornless deer; to collect; to band together | DICA: deer
+麈 | DEFINIÇÃO: a species of deer | DICA: deer
+麋 | DEFINIÇÃO: elk; surname | DICA: deer

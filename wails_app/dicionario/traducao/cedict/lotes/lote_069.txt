@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+无牵无挂 | TRADUÇÃO: (idiom) unburdened by obligations or attachments; carefree
+无状 | TRADUÇÃO: insolence/insolent/ill-mannered
+无猜 | TRADUÇÃO: unsuspecting/innocent and without apprehension
+无独有偶 | TRADUÇÃO: not alone but in pairs (idiom, usually derog.); not a unique occurrence/it's not the only case
+无理 | TRADUÇÃO: irrational/unreasonable
+无理取闹 | TRADUÇÃO: (idiom) to make trouble without reason; to be deliberately provocative
+无理数 | TRADUÇÃO: irrational number
+无瑕 | TRADUÇÃO: faultless; perfect
+无生命 | TRADUÇÃO: non-living; inanimate; lifeless
+无产者 | TRADUÇÃO: proletariat/non-propertied person
+无产阶级 | TRADUÇÃO: proletariat
+无用 | TRADUÇÃO: useless/worthless
+无用之树 | TRADUÇÃO: useless person (originally from Zhuangzi's "A Happy Excursion" 逍遙遊|逍遥游)
+无由 | TRADUÇÃO: to be unable (to do sth)/no reason to .../without rhyme or reason
+无异 | TRADUÇÃO: nothing other than/to differ in no way from/the same as/to amount to
+无疑 | TRADUÇÃO: undoubtedly; without doubt; for sure
+无疾而终 | TRADUÇÃO: (lit.) to die without illness (idiom)/(fig.) to result in failure (without any outside interference); to come to nothing; to fizzle out
+无病呻吟 | TRADUÇÃO: (idiom) to moan and groan despite not being sick; to feign illness; to complain without cause; (of writing) to indulge in confected sentimentality
+无病自灸 | TRADUÇÃO: lit. to prescribe moxibustion for oneself when not ill; to cause oneself trouble with superfluous action
+无症状 | TRADUÇÃO: asymptomatic
+无痕 | TRADUÇÃO: traceless
+无痕模式 | TRADUÇÃO: (computing) incognito mode
+无痛 | TRADUÇÃO: painless; pain-free
+无的放矢 | TRADUÇÃO: to shoot without aim (idiom); fig. to speak without thinking/firing blindly/to shoot in the air/a shot in the dark
+无益 | TRADUÇÃO: no good/not good for/not beneficial
+无尽 | TRADUÇÃO: endless/inexhaustible
+无知 | TRADUÇÃO: ignorant/ignorance
+无知觉 | TRADUÇÃO: senseless
+无码 | TRADUÇÃO: unpixelated or uncensored (of video)
+无碍 | TRADUÇÃO: without inconvenience/unimpeded/unhindered/unobstructed/unfettered/unhampered
+无神论 | TRADUÇÃO: atheism
+无神论者 | TRADUÇÃO: atheist
+无禄 | TRADUÇÃO: to be unsalaried/to be unfortunate/death
+无福消受 | TRADUÇÃO: unfortunately cannot enjoy (idiom)
+无礼 | TRADUÇÃO: rude/rudely
+无私 | TRADUÇÃO: selfless/unselfish/disinterested/altruistic
+无秩序 | TRADUÇÃO: disorder
+无稽 | TRADUÇÃO: nonsense
+无稽之谈 | TRADUÇÃO: (idiom) complete nonsense
+无穷 | TRADUÇÃO: endless/boundless/inexhaustible
+无穷大 | TRADUÇÃO: (math.) infinity; infinite
+无穷小 | TRADUÇÃO: (math.) infinitesimal; infinitely small
+无穷序列 | TRADUÇÃO: infinite sequence
+无穷无尽 | TRADUÇÃO: (idiom) endless; boundless; infinite
+无穷远点 | TRADUÇÃO: point at infinity (math.)/infinitely distant point
+无穷集 | TRADUÇÃO: infinite set (math.)
+无端 | TRADUÇÃO: for no reason at all
+无端端 | TRADUÇÃO: for no reason
+无符号 | TRADUÇÃO: unsigned (i.e. the absolute value, regardless of plus or minus sign)
+无筋面粉 | TRADUÇÃO: wheat starch
+无算 | TRADUÇÃO: (literary) innumerable; countless
+无籽 | TRADUÇÃO: seedless
+无精打彩 | TRADUÇÃO: dull and colorless (idiom); lacking vitality/not lively
+无精打采 | TRADUÇÃO: dispirited and downcast (idiom); listless/in low spirits/washed out
+无精症 | TRADUÇÃO: azoospermia (medicine)
+无糖 | TRADUÇÃO: sugar free
+无纸化 | TRADUÇÃO: paperless
+无纸化办公 | TRADUÇÃO: paperless office
+无结网 | TRADUÇÃO: (textiles) knotless netting
+无丝分裂 | TRADUÇÃO: amitosis
+无维度 | TRADUÇÃO: dimensionless (math.)
+无网格法 | TRADUÇÃO: meshless method (numerical simulation)/meshfree method
+无线 | TRADUÇÃO: wireless
+无线热点 | TRADUÇÃO: Wi-Fi hotspot
+无线网络 | TRADUÇÃO: wireless network; Wi-Fi
+无线网路 | TRADUÇÃO: (Tw) wireless network; Wi-Fi
+无线电 | TRADUÇÃO: radio; wireless (i.e. the technology used in radio telecommunication)/a radio
+无线电广播 | TRADUÇÃO: radio broadcast
+无线电接收机 | TRADUÇÃO: receiver (radio)
+无线电收发机 | TRADUÇÃO: transceiver/radio frequency receiver, broadcaster or relay
+无线电波 | TRADUÇÃO: radio wave
+无线电话 | TRADUÇÃO: radio telephony/wireless telephone
+无缘 | TRADUÇÃO: to have no opportunity/no way (of doing sth)/no chance/no connection/not placed (in a competition)/(in pop lyrics) no chance of love, no place to be together etc
+无缘无故 | TRADUÇÃO: (idiom) no cause or reason; completely uncalled for
+无缝 | TRADUÇÃO: seamless
+无缝接轨 | TRADUÇÃO: (Tw) to transition smoothly with no gap, interruption or adjustment period; to move directly from one position, stage or relationship to another; to dovetail seamlessly
+无缝连接 | TRADUÇÃO: seamless connection
+无缺 | TRADUÇÃO: whole
+无罪 | TRADUÇÃO: innocent/guileless/not guilty (of crime)
+无罪抗辩 | TRADUÇÃO: plea of not guilty
+无罪推定 | TRADUÇÃO: presumption of innocence (law)
+无义 | TRADUÇÃO: without meaning/nonsense/immoral/faithless
+无翅 | TRADUÇÃO: wingless
+无聊 | TRADUÇÃO: bored/boring/senseless
+无声 | TRADUÇÃO: soundless; silent
+无声无息 | TRADUÇÃO: wordless and uncommunicative (idiom); without speaking/taciturn/not providing any news
+无能 | TRADUÇÃO: incompetence/inability/incapable/powerless
+无能为力 | TRADUÇÃO: (idiom) powerless to do anything about it
+无脊椎 | TRADUÇÃO: invertebrate
+无脊椎动物 | TRADUÇÃO: invertebrate
+无脑 | TRADUÇÃO: brainless
+无脚蟹 | TRADUÇÃO: helpless lonely person
+无与伦比 | TRADUÇÃO: incomparable
+无船承运人 | TRADUÇÃO: non-vessel-owning common carrier (NVOCC) (transportation)
+无色 | TRADUÇÃO: colorless
+无花果 | TRADUÇÃO: fig (Ficus carica)
+无菌 | TRADUÇÃO: sterile; aseptic
+无菌性 | TRADUÇÃO: aseptic
+无叶风扇 | TRADUÇÃO: bladeless fan
+无着 | TRADUÇÃO: Asanga (Buddhist philosopher, c. 4th century AD) ‖ (of income etc) to be unassured; to lack a reliable source
+无薪假 | TRADUÇÃO: unpaid leave/leave without pay
+无药可救 | TRADUÇÃO: see 無可救藥|无可救药
+无处 | TRADUÇÃO: nowhere
+无处不在 | TRADUÇÃO: to be everywhere
+无处容身 | TRADUÇÃO: nowhere to hide
+无虞 | TRADUÇÃO: not to be worried about/all taken care of
+无虞匮乏 | TRADUÇÃO: see 不虞匱乏|不虞匮乏
+无表情 | TRADUÇÃO: expressionless/wooden (expression)/blank (face)
+无补 | TRADUÇÃO: of no avail/not helping in the least
+无衬线 | TRADUÇÃO: (typography) sans serif
+无视 | TRADUÇÃO: to ignore; to disregard
+无解 | TRADUÇÃO: to have no solution
+无言 | TRADUÇÃO: to remain silent/to have nothing to say
+无言以对 | TRADUÇÃO: to be left speechless/unable to respond
+无言可对 | TRADUÇÃO: unable to reply (idiom); left speechless/at a loss for words
+无计可施 | TRADUÇÃO: (lit.) to have no strategy to apply (idiom)/(fig.) to be out of ideas; at one's wit's end
+无记名 | TRADUÇÃO: (of a document) not bearing a name/unregistered (financial securities etc)/bearer (bond)/secret (ballot etc)/anonymous/unattributed (remarks)/(of a check) payable to the bearer
+无话不说 | TRADUÇÃO: (of close friends etc) to tell each other everything
+无话不谈 | TRADUÇÃO: not to hold anything back (idiom)/(of close friends etc) to tell each other everything
+无话可说 | TRADUÇÃO: to have nothing to say (idiom)
+无语 | TRADUÇÃO: to remain silent/to have nothing to say/(coll.) speechless/dumbfounded
+无误 | TRADUÇÃO: verified/unmistaken
+无论 | TRADUÇÃO: no matter what or how/regardless of whether...
+无论何事 | TRADUÇÃO: anything/whatever
+无论何人 | TRADUÇÃO: whoever
+无论何时 | TRADUÇÃO: whenever
+无论何处 | TRADUÇÃO: anywhere/wherever
+无论如何 | TRADUÇÃO: (idiom) whatever the case; in any event; no matter what; by all possible means
+无谓 | TRADUÇÃO: pointless/meaningless/unnecessarily
+无货 | TRADUÇÃO: out of stock/product unavailable
+无赖 | TRADUÇÃO: hoodlum/rascal/rogue/rascally/scoundrelly
+无趣 | TRADUÇÃO: dull; vapid; colorless
+无足轻重 | TRADUÇÃO: insignificant
+无迹可寻 | TRADUÇÃO: (idiom) to leave no trace; to have no detectable clues or signs
+无路可走 | TRADUÇÃO: nowhere to go/at the end of one's tether
+无路可退 | TRADUÇÃO: without a retreat route/caught in a dead end/having burned one's bridges
+无路可逃 | TRADUÇÃO: no way out/nowhere to go/trapped beyond hope of rescue/painted into a corner
+无踪 | TRADUÇÃO: (to vanish) without a trace
+无轨 | TRADUÇÃO: trackless
+无轨电车 | TRADUÇÃO: trolleybus
+无辜 | TRADUÇÃO: innocent/innocence/not guilty (law)
+无农药 | TRADUÇÃO: without agricultural chemicals/pesticide-free
+无连接 | TRADUÇÃO: connectionless
+无道 | TRADUÇÃO: tyrannical/brutal (regime)
+无远弗届 | TRADUÇÃO: to extend all over the globe (idiom)/far-reaching
+无遗 | TRADUÇÃO: completely; fully; without omission
+无边 | TRADUÇÃO: without boundary/not bordered
+无边无际 | TRADUÇÃO: (idiom) boundless; limitless
+无邪 | TRADUÇÃO: without guilt
+无醇啤酒 | TRADUÇÃO: low-alcohol beer/non-alcoholic beer (typically, 0.5% ABV or less)
+无量 | TRADUÇÃO: measureless/immeasurable
+无量寿 | TRADUÇÃO: boundless life (expression of good wishes)/Amitayus, the Buddha of measureless life, good fortune and wisdom
+无针注射器 | TRADUÇÃO: jet injector
+无钩绦虫 | TRADUÇÃO: beef tapeworm
+无钢圈 | TRADUÇÃO: wireless (bra)
+无锡 | TRADUÇÃO: see 無錫市|无锡市
+无锡市 | TRADUÇÃO: Wuxi, prefecture-level city in Jiangsu Province 江蘇省|江苏省
+无间 | TRADUÇÃO: very close/no gap between them/continuously/unbroken/hard to separate/indistinguishable
+无间地狱 | TRADUÇÃO: see 阿鼻地獄|阿鼻地狱
+无关 | TRADUÇÃO: unrelated/having nothing to do (with sth else)
+无关痛痒 | TRADUÇÃO: (idiom) to not affect sb; irrelevant; of no importance; insignificant
+无关紧要 | TRADUÇÃO: indifferent/insignificant
+无限 | TRADUÇÃO: unlimited/unbounded
+无限制 | TRADUÇÃO: limitless/unrestricted
+无限小 | TRADUÇÃO: infinitesimal/infinitely small
+无限小数 | TRADUÇÃO: infinitesimal/infinite decimal expansion
+无限期 | TRADUÇÃO: indefinitely; of unlimited duration
+无限风光在险峰 | TRADUÇÃO: The boundless vista is at the perilous peak (proverb)/fig. exhilaration follows a hard-won victory
+无际 | TRADUÇÃO: limitless/boundless
+无障碍 | TRADUÇÃO: barrier-free; (esp.) accessible (to people with a disability)
+无双 | TRADUÇÃO: incomparable/matchless/unique
+无需 | TRADUÇÃO: needless
+无霜期 | TRADUÇÃO: frost-free period
+无非 | TRADUÇÃO: only/nothing else
+无须 | TRADUÇÃO: need not/not obliged to/not necessarily
+无颌 | TRADUÇÃO: jawless (primitive fish)
+无头苍蝇 | TRADUÇÃO: headless fly (a metaphor for sb who is rushing around frantically)
+无题 | TRADUÇÃO: untitled
+无颜见江东父老 | TRADUÇÃO: (idiom) to be unable to return to one's hometown due to the shame of failure (originally referred to Xiang Yu 項羽|项羽, who chose not to retreat to Jiangdong after his humiliating defeat)
+无风三尺浪 | TRADUÇÃO: lit. large waves in windless conditions (idiom)/fig. trouble arising unexpectedly
+无风不起浪 | TRADUÇÃO: lit. without wind there cannot be waves (idiom); there must be a reason/no smoke without fire
+无麸质 | TRADUÇÃO: gluten-free
+无麸质饮食 | TRADUÇÃO: gluten-free diet
+无党派 | TRADUÇÃO: politically unaffiliated/independent (candidate)
+无齿翼龙 | TRADUÇÃO: Pteranodon (genus of pterosaur)
+焢 | TRADUÇÃO: (archaic) angry appearance ‖ (Tw) to roast/(Tw) to braise until tender
+焢肉 | TRADUÇÃO: (Tw) slow-braised pork belly
+焦 | TRADUÇÃO: surname Jiao ‖ burnt/scorched/charred/worried/anxious/coke/joule (abbr. for 焦耳)
+焦作 | TRADUÇÃO: see 焦作市
+焦作市 | TRADUÇÃO: Jiaozuo, prefecture-level city in Henan Province 河南省
+焦化 | TRADUÇÃO: to coke
+焦噪 | TRADUÇÃO: variant of 焦躁
+焦土 | TRADUÇÃO: scorched earth
+焦外 | TRADUÇÃO: bokeh (photography)
+焦急 | TRADUÇÃO: anxiety/anxious
+焦虑 | TRADUÇÃO: anxious/worried/apprehensive
+焦虑不安 | TRADUÇÃO: worried too much
+焦虑症 | TRADUÇÃO: neurosis/anxiety
+焦油 | TRADUÇÃO: tar
+焦灼 | TRADUÇÃO: (literary) deeply worried
+焦炙 | TRADUÇÃO: to scorch/to burn to charcoal/sick with worry
+焦炭 | TRADUÇÃO: coke (processed coal used in blast furnace)
+焦燥 | TRADUÇÃO: variant of 焦躁
+焦炉 | TRADUÇÃO: coking furnace
+焦糖 | TRADUÇÃO: caramel
+焦耳 | TRADUÇÃO: (loanword) joule
+焦距 | TRADUÇÃO: focal length/focal distance
+焦躁 | TRADUÇÃO: fretful/impatient
+焦头烂额 | TRADUÇÃO: lit. badly burned about the head (from trying to put out a fire) (idiom)/fig. hard-pressed; under pressure (from a heavy workload, creditors etc)
+焦香 | TRADUÇÃO: burnt aroma
+焦黄 | TRADUÇÃO: sallow/yellow and withered/sickly
+焦点 | TRADUÇÃO: (lit. and fig.) focal point; focus
+焮 | TRADUÇÃO: heat/flame/inflammation
+焯 | TRADUÇÃO: to blanch; to parboil
+焯水 | TRADUÇÃO: to blanch; to parboil
+焰 | TRADUÇÃO: flame ‖ variant of 焰
+焰火 | TRADUÇÃO: fireworks
+焱 | TRADUÇÃO: variant of 焰
+焴 | TRADUÇÃO: old variant of 煜
+然 | TRADUÇÃO: correct/right/so/thus/like this/-ly
+然并卵 | TRADUÇÃO: (Internet slang) ultimately useless
+然则 | TRADUÇÃO: that being the case/then/in that case
+然后 | TRADUÇÃO: then; after that; afterwards
+然而 | TRADUÇÃO: however; but; yet
+然顷 | TRADUÇÃO: in a short time/soon/before long
+然鹅 | TRADUÇÃO: (Internet slang for 然而) however
+焿 | TRADUÇÃO: variant of 羹, used in restaurants and night markets in Taiwan
+煁 | TRADUÇÃO: brazier
+煃 | TRADUÇÃO: fiery/blazing
+煅 | TRADUÇÃO: to calcine/variant of 鍛|锻
+煅烧 | TRADUÇÃO: to calcine (purify by heating)
+煅炉 | TRADUÇÃO: forge/fig. extremely hot environment
+煅石膏 | TRADUÇÃO: plaster of Paris/calcined gypsum
+煆 | TRADUÇÃO: a raging fire ‖ raging fire
+煇 | TRADUÇÃO: bright/glorious
+炼 | TRADUÇÃO: to refine/to smelt ‖ variant of 鏈|链, chain/variant of 煉|炼
+炼丹 | TRADUÇÃO: to concoct pills of immortality
+炼丹术 | TRADUÇÃO: maker of immortality pill/concocting magic pills
+炼之未定 | TRADUÇÃO: to spend a long time thinking about sth while unable to reach a decision
+炼乳 | TRADUÇÃO: to condense milk (by evaporation)/condensed milk
+炼化 | TRADUÇÃO: to refine/refining (e.g. oil, chemicals etc)
+炼句 | TRADUÇÃO: to polish a phrase
+炼奶 | TRADUÇÃO: condensed milk
+炼字 | TRADUÇÃO: to craft one's words
+炼油 | TRADUÇÃO: oil refinery
+炼油厂 | TRADUÇÃO: oil refinery
+炼焦 | TRADUÇÃO: coking/the process of producing coke from coal
+炼焦炉 | TRADUÇÃO: coking furnace
+炼狱 | TRADUÇÃO: purgatory
+炼珍 | TRADUÇÃO: a delicacy (food)
+炼制 | TRADUÇÃO: (chemistry) to refine
+炼金术 | TRADUÇÃO: alchemy
+炼金术士 | TRADUÇÃO: alchemist
+炼钢 | TRADUÇÃO: to make steel/steelmaking
+炼钢厂 | TRADUÇÃO: steel mill
+炼铁 | TRADUÇÃO: smelting iron
+炼铁厂 | TRADUÇÃO: iron foundry
+煊 | TRADUÇÃO: variant of 暄
+煊赫 | TRADUÇÃO: see 烜赫
+煋 | TRADUÇÃO: (literary) (of a fire) fierce; intense; blazing/(literary) to radiate light in all directions
+煌 | TRADUÇÃO: brilliant
+煌熠 | TRADUÇÃO: bright
+煍 | TRADUÇÃO: to color by smoke
+煎 | TRADUÇÃO: to pan fry/to sauté
+煎炒 | TRADUÇÃO: to lightly fry
+煎炸 | TRADUÇÃO: to fry
+煎炸油 | TRADUÇÃO: frying oil
+煎炸食品 | TRADUÇÃO: fried food
+煎熬 | TRADUÇÃO: to suffer/to torture/to torment/ordeal/suffering/torture/torment
+煎牛扒 | TRADUÇÃO: beef steak
+煎蛋 | TRADUÇÃO: fried egg
+煎蛋卷 | TRADUÇÃO: omelet
+煎猪扒 | TRADUÇÃO: pork steak
+煎锅 | TRADUÇÃO: frying pan
+煎饺 | TRADUÇÃO: fried dumpling
+煎饼 | TRADUÇÃO: jianbing, a savory Chinese crêpe/pancake/CL:張|张
+煏 | TRADUÇÃO: (dialect) to dry by a fire
+煐 | TRADUÇÃO: (used in names)/British thermal unit (BTU)
+煮 | TRADUÇÃO: variant of 煮 ‖ to cook/to boil
+炜 | TRADUÇÃO: glowing/bright/brilliant
+煓 | TRADUÇÃO: (literary) (of a fire) lively/blazing
+煕 | TRADUÇÃO: old variant of 熙
+烟 | TRADUÇÃO: cigarette or pipe tobacco/CL:根/smoke/mist/vapour/CL:縷|缕/tobacco plant/(of the eyes) to be irritated by smoke ‖ tobacco (variant of 煙|烟)
+烟台 | TRADUÇÃO: see 煙台市|烟台市
+烟台市 | TRADUÇÃO: Yantai, prefecture-level city in Shandong Province 山東省|山东省
+烟囱 | TRADUÇÃO: chimney; smokestack; stovepipe
+烟圈 | TRADUÇÃO: smoke ring
+烟土 | TRADUÇÃO: raw opium
+烟尘 | TRADUÇÃO: smoke and dust/air pollution
+烟屁 | TRADUÇÃO: cigarette butt
+烟屁股 | TRADUÇÃO: cigarette butt
+烟幕 | TRADUÇÃO: smokescreen/fig. a diversion
+烟幕弹 | TRADUÇÃO: smoke bomb; smoke grenade
+烟厂 | TRADUÇÃO: cigarette factory
+烟弹 | TRADUÇÃO: vape pod
+烟径 | TRADUÇÃO: misty lane
+烟卷 | TRADUÇÃO: cigarette/cigar
+烟卷儿 | TRADUÇÃO: cigarette/CL:棵
+烟斗 | TRADUÇÃO: (smoking) pipe ‖ variant of 煙斗|烟斗
+烟柳莺 | TRADUÇÃO: (bird species of China) smoky warbler (Phylloscopus fuligiventer)
+烟枪 | TRADUÇÃO: opium pipe
+烟民 | TRADUÇÃO: smoker; tobacco user
+烟气 | TRADUÇÃO: smoke
+烟波 | TRADUÇÃO: mist covered water
+烟海 | TRADUÇÃO: the vast ocean
+烟消云散 | TRADUÇÃO: (idiom) to vanish like smoke in thin air; to disappear
+烟火 | TRADUÇÃO: smoke and fire/cooked food/(literary) beacon fire/(literary) descendants; posterity ‖ fireworks
+烟火气 | TRADUÇÃO: cooking smells/(fig.) lively atmosphere
+烟灰 | TRADUÇÃO: cigarette ash
+烟灰缸 | TRADUÇÃO: ashtray
+烟熏妆 | TRADUÇÃO: smoky-effect makeup around the eyes
+烟熏眼 | TRADUÇÃO: smoky eyes look (cosmetics)
+烟熏 | TRADUÇÃO: smoke/to fumigate
+烟熏火燎 | TRADUÇÃO: smoke and baking fire (idiom); surrounded by flames and smoke
+烟瘾 | TRADUÇÃO: the urge to smoke/tobacco addiction
+烟硷 | TRADUÇÃO: variant of 菸鹼|烟碱 ‖ variant of 菸鹼|烟碱
+烟突 | TRADUÇÃO: chimney
+烟筒 | TRADUÇÃO: chimney/stovepipe/smokestack
+烟管 | TRADUÇÃO: smoking pipe
+烟管面 | TRADUÇÃO: elbow pasta
+烟丝 | TRADUÇÃO: loose tobacco; fine-cut tobacco/(literary) wisp of smoke; thin strand of smoke ‖ loose tobacco; fine-cut tobacco
+烟缸 | TRADUÇÃO: ashtray
+烟肉 | TRADUÇÃO: bacon/smoked ham
+烟腹毛脚燕 | TRADUÇÃO: (bird species of China) Asian house martin (Delichon dasypus)
+烟花 | TRADUÇÃO: fireworks/prostitute (esp. in Yuan theater)
+烟花债 | TRADUÇÃO: involved in a love affair
+烟花场 | TRADUÇÃO: brothel (esp. in Yuan theater)
+烟花女 | TRADUÇÃO: prostitute (esp. in Yuan theater)
+烟花寨 | TRADUÇÃO: brothel (esp. in Yuan theater)
+烟花巷 | TRADUÇÃO: red-light district
+烟花市 | TRADUÇÃO: (old) red-light district/brothel
+烟花厂 | TRADUÇÃO: firework factory
+烟花柳巷 | TRADUÇÃO: red-light district
+烟花爆竹 | TRADUÇÃO: fireworks (i.e. pyrotechnic devices, not the display they produce)
+烟花簿 | TRADUÇÃO: catalog of prostitutes (esp. in Yuan theater)
+烟花粉黛 | TRADUÇÃO: woman/prostitute/lovemaking/literary or theatrical form in Tang, Song and Yuan
+烟花行院 | TRADUÇÃO: brothel (esp. in Yuan theater)
+烟花阵 | TRADUÇÃO: brothel (esp. in Yuan theater)
+烟花风月 | TRADUÇÃO: refers to lovemaking (idiom)
+烟草 | TRADUÇÃO: tobacco
+烟叶 | TRADUÇÃO: leaf tobacco
+烟蒂 | TRADUÇÃO: variant of 菸蒂|烟蒂 ‖ cigarette butt
+烟袋 | TRADUÇÃO: tobacco pipe
+烟豆 | TRADUÇÃO: variable glycine (Glycine tabacina), a scrambling plant in the bean family
+烟酒 | TRADUÇÃO: tobacco and alcohol
+烟酒不沾 | TRADUÇÃO: abstaining from liquor and tobacco
+烟酸 | TRADUÇÃO: niacin (vitamin B3)/3-Pyridinecarboxylic acid C6H5NO2/nicotinic acid
+烟雨 | TRADUÇÃO: misty rain/drizzle
+烟霞 | TRADUÇÃO: haze
+烟雾 | TRADUÇÃO: smoke/mist/vapor/smog/fumes
+烟雾剂 | TRADUÇÃO: aerosol
+烟雾弹 | TRADUÇÃO: smoke bomb; smoke grenade
+烟雾症 | TRADUÇÃO: moyamoya disease (rare brain disease first diagnosed in Japan)
+烟霾 | TRADUÇÃO: smoke/pollution
+烟霭 | TRADUÇÃO: mist and clouds
+烟头 | TRADUÇÃO: cigarette butt/fag-end/CL:根
+烟头儿 | TRADUÇÃO: erhua variant of 煙頭|烟头
+烟鬼 | TRADUÇÃO: heavy smoker/chain smoker
+烟碱 | TRADUÇÃO: variant of 菸鹼|烟碱 ‖ nicotine
+烟碱酸 | TRADUÇÃO: variant of 菸鹼酸|烟碱酸 ‖ niacin (vitamin B3); nicotinic acid; Pyridine-3-carboxylic acid C6H5NO2
+烟黑叉尾海燕 | TRADUÇÃO: (bird species of China) Wilson's storm petrel (Oceanites oceanicus)
+烟点 | TRADUÇÃO: smoke point (of a cooking oil)
+煚 | TRADUÇÃO: fire
+煜 | TRADUÇÃO: brilliant/glorious
+煜煜 | TRADUÇÃO: dazzling/bright
+煜熠 | TRADUÇÃO: bright
+煝 | TRADUÇÃO: be radiant/flaming/drought
+煞 | TRADUÇÃO: to terminate/to cut short/to bring to a stop/to squeeze/to tighten/to damage/variant of 殺|杀 ‖ fiend/demon/very/(Tw) SARS (loanword)
+煞住 | TRADUÇÃO: to brake/to stop/to forbid
+煞到 | TRADUÇÃO: (Tw) to like/to fall in love with
+煞尾 | TRADUÇÃO: to finish off/to wind up
+煞性子 | TRADUÇÃO: to vent anger
+煞是 | TRADUÇÃO: extremely/very
+煞有介事 | TRADUÇÃO: to make a show of being very much in earnest (idiom)/to act as if one is taking things very seriously
+煞有其事 | TRADUÇÃO: see 煞有介事
+煞气 | TRADUÇÃO: to vent one's anger on (an innocent party)/to take it out on (sb) ‖ baleful look/inauspicious influence/(of a tire, balloon etc) to leak air
+煞气腾腾 | TRADUÇÃO: variant of 殺氣騰騰|杀气腾腾
+煞白 | TRADUÇÃO: deathly white
+煞神 | TRADUÇÃO: demon/fiend
+煞笔 | TRADUÇÃO: to stop one's pen/to break off writing/final remarks (at the end of a book or article)
+煞费苦心 | TRADUÇÃO: to take a lot of trouble (idiom); painstaking/at the cost of a lot of effort
+煞账 | TRADUÇÃO: to settle an account
+煞车 | TRADUÇÃO: to brake (when driving)
+煞风景 | TRADUÇÃO: to be an eyesore/(fig.) to spoil the fun/to be a wet blanket
+煟 | TRADUÇÃO: radiance of fire
+煠 | TRADUÇÃO: to fry in fat or oil/to scald
+茕 | TRADUÇÃO: alone/desolate
+茕茕孑立 | TRADUÇÃO: to stand all alone
+煤 | TRADUÇÃO: coal/CL:塊|块
+煤储量 | TRADUÇÃO: coal reserves
+煤屑 | TRADUÇÃO: coal dust/coal slack
+煤层 | TRADUÇÃO: a coal bed/a coal seam
+煤层气 | TRADUÇÃO: coalbed methane
+煤山雀 | TRADUÇÃO: (bird species of China) coal tit (Periparus ater)
+煤气 | TRADUÇÃO: coal gas/gas (fuel)
+煤油 | TRADUÇÃO: kerosene
+煤渣 | TRADUÇÃO: slack
+煤灰 | TRADUÇÃO: soot
+煤炭 | TRADUÇÃO: coal
+煤焦油 | TRADUÇÃO: coal tar
+煤炉 | TRADUÇÃO: coal stove
+煤球 | TRADUÇÃO: charcoal briquette
+煤田 | TRADUÇÃO: a coalfield
+煤矸石 | TRADUÇÃO: (mining) coal gangue
+煤砖 | TRADUÇÃO: briquette
+煤矿 | TRADUÇÃO: coal mine/coal seam
+煤箱 | TRADUÇÃO: coal box
+煤制气 | TRADUÇÃO: coal gasification
+煤制油 | TRADUÇÃO: coal liquefaction
+焕 | TRADUÇÃO: (bound form) shining; glowing; lustrous
+焕新 | TRADUÇÃO: to renew; to refresh
+焕然一新 | TRADUÇÃO: to look completely new (idiom); brand new/changed beyond recognition
+焕发 | TRADUÇÃO: to shine/to glow/to irradiate/to flash
+煦 | TRADUÇÃO: balmy/nicely warm/cozy/Taiwan pr. [xu3]
+煦仁孑义 | TRADUÇÃO: petty kindness
+煦暖 | TRADUÇÃO: to warm/warming
+煦煦 | TRADUÇÃO: kind/gracious/benevolent/warm and fine/balmy
+照亮 | TRADUÇÃO: to illuminate/to light up/lighting
+照付 | TRADUÇÃO: to pay as charged
+照例 | TRADUÇÃO: as a rule/as usual/usually
+照做 | TRADUÇÃO: to do as instructed/to comply
+照像 | TRADUÇÃO: variant of 照相
+照像机 | TRADUÇÃO: variant of 照相機|照相机/camera
+照单全收 | TRADUÇÃO: to accept without question/to take sth at face value
+照壁 | TRADUÇÃO: a screen wall across the gate of a house (for privacy)
+照妖镜 | TRADUÇÃO: magic mirror for revealing goblins/fig. way of seeing through a conspiracy
+照射 | TRADUÇÃO: to shine on/to light up/to irradiate
+照常 | TRADUÇÃO: as usual
+照度 | TRADUÇÃO: level of illumination/(physics) illuminance
+照得 | TRADUÇÃO: seeing that
+照应 | TRADUÇÃO: to correlate with/to correspond to ‖ to look after/to take care of/to attend to
+照抄 | TRADUÇÃO: to copy word for word
+照排 | TRADUÇÃO: phototypesetting/photocomposition
+照搬 | TRADUÇÃO: to copy/to imitate
+照料 | TRADUÇÃO: to tend/to take care of sb
+照明 | TRADUÇÃO: lighting/illumination/to light up/to illuminate
+照明弹 | TRADUÇÃO: flare; star shell
+照映 | TRADUÇÃO: to shine/to illuminate
+照会 | TRADUÇÃO: a diplomatic note/letter of understanding or concern exchanged between governments
+照本宣科 | TRADUÇÃO: a wooden word-by-word reading
+照样 | TRADUÇÃO: as before/(same) as usual/in the same manner/still/nevertheless
+照准 | TRADUÇÃO: request granted (formal usage in old document)/to aim (gun)
+照烧 | TRADUÇÃO: teriyaki (Japanese cooking technique)
+照片 | TRADUÇÃO: photograph/CL:張|张,幅
+照片子 | TRADUÇÃO: to take an X-ray
+照片底版 | TRADUÇÃO: a photographic plate
+照理 | TRADUÇÃO: according to reason/usually/in the normal course of events/to attend to
+照登 | TRADUÇÃO: to publish unaltered
+照发 | TRADUÇÃO: approved for distribution/to provide (wages etc) as usual (e.g. while an employee is on maternity leave)
+照直 | TRADUÇÃO: directly/straight/straight ahead/straightforward
+照相 | TRADUÇÃO: to take a photograph
+照相排版 | TRADUÇÃO: phototypesetting/photocomposition
+照相机 | TRADUÇÃO: camera/CL:台,部,架
+照相馆 | TRADUÇÃO: photo studio
+照看 | TRADUÇÃO: to look after/to attend to/to have in care
+照眼 | TRADUÇÃO: glare/dazzling
+照章 | TRADUÇÃO: according to the regulations
+照管 | TRADUÇÃO: to look after/to provide for
+照耀 | TRADUÇÃO: to shine/to illuminate
+照旧 | TRADUÇÃO: as before/as in the past
+照葫芦画瓢 | TRADUÇÃO: lit. to draw a dipper with a gourd as a model (idiom)/fig. to copy slavishly
+照说 | TRADUÇÃO: normally/ordinarily speaking
+照护 | TRADUÇÃO: care/treatment (e.g. nursing care)/to look after
+照猫画虎 | TRADUÇÃO: lit. drawing a tiger using a cat as a model (idiom); fig. to follow a model and get things more or less right but without capturing the spirit of the subject/uninspired imitation
+照买不误 | TRADUÇÃO: to keep on buying (a product) regardless (of price increases, adverse publicity etc)
+照办 | TRADUÇÃO: to follow the rules/to do as instructed/to play by the book/to comply with a request
+照进度 | TRADUÇÃO: on schedule
+照镜子 | TRADUÇÃO: to look in the mirror
+照面 | TRADUÇÃO: to meet face-to-face
+照顾 | TRADUÇÃO: to take care of/to show consideration/to attend to/to look after
+照骗 | TRADUÇÃO: (Internet slang) deceptive photo (pun on 照片) (esp. one misleadingly presenting sth in a favorable light)
+煨 | TRADUÇÃO: to simmer/to roast in ashes
+烦 | TRADUÇÃO: to feel vexed/to bother/to trouble/superfluous and confusing/edgy
+烦乱 | TRADUÇÃO: anxious/agitated
+烦人 | TRADUÇÃO: to annoy/annoying/irritating/troublesome
+烦冗 | TRADUÇÃO: diverse and complicated (of one's affairs)/prolix (of speech, writing etc)
+烦冤 | TRADUÇÃO: frustrated/agitated/distressed
+烦劳 | TRADUÇÃO: to put sb to trouble (of doing sth)/vexation/inconvenience
+烦心 | TRADUÇÃO: annoying; vexing
+烦心事 | TRADUÇÃO: troubles; worries; sth on one's mind
+烦闷 | TRADUÇÃO: moody; gloomy
+烦恼 | TRADUÇÃO: to be worried/to be distressed/worries
+烦忧 | TRADUÇÃO: to worry/to fret
+烦扰 | TRADUÇÃO: to bother/to disturb/to vex
+烦琐 | TRADUÇÃO: tedious/convoluted/fiddly/pedantic
+烦腻 | TRADUÇÃO: fed up
+烦请 | TRADUÇÃO: (courteous) would you please ...
+烦躁 | TRADUÇÃO: jittery/twitchy/fidgety
+烦杂 | TRADUÇÃO: many and disorderly/muddled
+炀 | TRADUÇÃO: molten/smelt
+炀金 | TRADUÇÃO: molten metal
+煮沸 | TRADUÇÃO: to boil
+煮法 | TRADUÇÃO: cooking method
+煮熟 | TRADUÇÃO: to boil thoroughly/to cook thoroughly
+煮熟的鸭子飞了 | TRADUÇÃO: the cooked duck flew away (proverb)/(fig.) to let a sure thing slip through one's fingers
+煮硬 | TRADUÇÃO: to hard-boil (eggs)
+煮蛋 | TRADUÇÃO: boiled egg
+煮蛋计时器 | TRADUÇÃO: egg timer
+煮豆燃萁 | TRADUÇÃO: burning beanstalks to cook the beans (idiom); to cause internecine strife
+煮锅 | TRADUÇÃO: cooking pot
+煮开 | TRADUÇÃO: to boil (food)
+煮饭 | TRADUÇÃO: to cook
+煰 | TRADUÇÃO: dry (old variant of 燥)
+煲 | TRADUÇÃO: to cook slowly over a low flame/pot/saucepan
+煲汤 | TRADUÇÃO: to simmer/soup made by simmering for a long time
+煲电话粥 | TRADUÇÃO: to talk endlessly on the phone
+煳 | TRADUÇÃO: burnt/to char
+煸 | TRADUÇÃO: to stir-fry before broiling or stewing
+煸炒 | TRADUÇÃO: to stir-fry in a small quantity of oil
+煺 | TRADUÇÃO: to pluck poultry or depilate pigs using hot water
+煻 | TRADUÇÃO: to warm/to toast
+煽 | TRADUÇÃO: to fan into a flame/to incite
+煽动 | TRADUÇÃO: to incite/to instigate
+煽动性 | TRADUÇÃO: provocative
+煽动颠覆国家政权 | TRADUÇÃO: incitement to subvert state power (criminal charge used to gag free speech)
+煽动颠覆国家罪 | TRADUÇÃO: crime of conspiring to overthrow the state
+煽情 | TRADUÇÃO: to stir up emotion/to arouse sympathy/moving
+煽阴风 | TRADUÇÃO: to raise an ill wind
+煽风点火 | TRADUÇÃO: (idiom) to fan the flames/to incite people/to stir up trouble
+熀 | TRADUÇÃO: bright/dazzling
+熁 | TRADUÇÃO: (meaning uncertain)
+熄 | TRADUÇÃO: to extinguish/to put out (fire)/to quench/to stop burning/to go out (of fire, lamp etc)/to come to an end/to wither away/to die out/Taiwan pr. [xi2]
+熄屏 | TRADUÇÃO: variant of 息屏
+熄灭 | TRADUÇÃO: to stop burning/to go out (of fire)/to die out/extinguished
+熄火 | TRADUÇÃO: (of fire, lamp etc) to go out/to put out (fire)/(fig.) to die down/(of a vehicle) to stall
+熄灯 | TRADUÇÃO: turn out the lights/lights out
+煴 | TRADUÇÃO: variant of 熨
+熇 | TRADUÇÃO: dry
+熙 | TRADUÇÃO: variant of 熙 ‖ (used in names)/(bound form) (literary) bright/prosperous/splendid/genial
+𤈶 | TRADUÇÃO: (yellow color)
+熊 | TRADUÇÃO: surname Xiong ‖ bear/(coll.) to scold; to rebuke/(coll.) weak; incapable
+熊倪 | TRADUÇÃO: Xiong Ni (1974-), Chinese diving athlete
+熊包 | TRADUÇÃO: worthless person/good-for-nothing
+熊孩子 | TRADUÇÃO: (dialect) little devil; brat
+熊市 | TRADUÇÃO: bear market
+熊成基 | TRADUÇÃO: Xiong Chengji (1887-1910), anti-Qing revolutionary and martyr
+熊抱 | TRADUÇÃO: bear hug; to give (sb) a bear-hug
+熊掌 | TRADUÇÃO: bear paw (as food)
+熊本 | TRADUÇÃO: Kumamoto (prefecture and city in Japan)
+熊熊 | TRADUÇÃO: raging/flaming
+熊狸 | TRADUÇÃO: binturong; bearcat
+熊猴 | TRADUÇÃO: Assamese macaque
+熊皮帽 | TRADUÇÃO: bearskin hat
+熊瞎子 | TRADUÇÃO: bear/bruin
+熊罴 | TRADUÇÃO: fierce fighters/valiant warriors
+熊耳山 | TRADUÇÃO: Mt Xiong'er national geological park in 棗莊|枣庄, south Shandong
+熊腰虎背 | TRADUÇÃO: waist of a bear and back of a tiger/tough and stocky build
+熊胆 | TRADUÇÃO: bear gall (used in TCM)
+熊胆草 | TRADUÇÃO: Conyza blinii
+熊蜂 | TRADUÇÃO: bumblebee
+熊亲戚 | TRADUÇÃO: (coll.) busybody relative
+熊猫 | TRADUÇÃO: panda/CL:隻|只
+熊猫眼 | TRADUÇÃO: to have dark circles under one's eyes/to have eyes like a panda
+熊猫血 | TRADUÇÃO: (coll.) Rh-negative blood type
+熊鹰 | TRADUÇÃO: see 鷹鵰|鹰雕
+熏 | TRADUÇÃO: to smoke/to fumigate/to assail the nostrils/to perfume ‖ variant of 熏 ‖ fragrance/warm/to educate/variant of 熏/to smoke/to fumigate
+熏天 | TRADUÇÃO: overpowering (of a stench)
+熏染 | TRADUÇÃO: to exert a gradual influence/to nurture/a corrupting influence
+熏烤 | TRADUÇÃO: to smoke/to cure over a wood fire
+熏衣草 | TRADUÇÃO: variant of 薰衣草
+熏制 | TRADUÇÃO: to smoke; to cure over a fire
+熏陶成性 | TRADUÇÃO: (idiom) nurture makes second nature/good habits come by long assimilation
+熏风 | TRADUÇÃO: warm south wind
+熏香 | TRADUÇÃO: incense
+荧 | TRADUÇÃO: a glimmer/glimmering/twinkling/fluorescence/phosphorescence/perplexed/dazzled and confused/planet Mars (arch.)
+荧光 | TRADUÇÃO: fluorescence; fluorescent light
+荧光屏 | TRADUÇÃO: fluorescent screen; screen (of a TV or monitor etc)
+荧光幕 | TRADUÇÃO: screen (of a TV, computer etc) (Tw)
+荧光棒 | TRADUÇÃO: glow stick
+荧光灯 | TRADUÇÃO: a fluorescent light; a fluorescent lamp
+荧光笔 | TRADUÇÃO: highlighter pen; fluorescent marker
+荧屏 | TRADUÇÃO: fluorescent screen/TV screen
+荧幕 | TRADUÇÃO: TV screen
+荧惑 | TRADUÇÃO: to bewilder/to dazzle and confuse/the planet Mars
+荧惑星 | TRADUÇÃO: Mars in traditional Chinese astronomy
+荧荧 | TRADUÇÃO: a glimmer/twinkling (of stars, phosphorescence, candlelight)/flickering light
+熔 | TRADUÇÃO: to smelt/to fuse
+熔化 | TRADUÇÃO: to melt (of ice, metals etc)
+熔化点 | TRADUÇÃO: melting point
+熔岩 | TRADUÇÃO: (geology) lava
+熔岩流 | TRADUÇÃO: lava flow
+熔岩湖 | TRADUÇÃO: lava lake
+熔岩穹丘 | TRADUÇÃO: magma dome
+熔断 | TRADUÇÃO: (of fuse wire) to melt; to blow/(fig.) to halt stock trading/(fig.) to suspend an airline from operating flights on a given route (as a penalty, e.g. for bringing in more than a specified number of passengers who test positive for COVID)
+熔断机制 | TRADUÇÃO: (finance) trading curb; circuit breaker
+熔断丝 | TRADUÇÃO: fuse wire
+熔核 | TRADUÇÃO: weld nugget
+熔毁 | TRADUÇÃO: meltdown/(of nuclear fuel) to melt down
+熔渣 | TRADUÇÃO: slag (smelting)
+熔浆 | TRADUÇÃO: lava, magma or other molten material (metal, glass etc)
+熔炼 | TRADUÇÃO: to smelt
+熔炉 | TRADUÇÃO: smelting furnace/forge
+熔矿炉 | TRADUÇÃO: furnace
+熔融 | TRADUÇÃO: to melt/to fuse
+熔解 | TRADUÇÃO: fusion
+熔点 | TRADUÇÃO: melting point
+炝 | TRADUÇÃO: to briefly boil (a vegetable etc), then dress with soy sauce, oil, vinegar etc/to briefly stir-fry (meat, chopped spring onions etc), then add to other ingredients and cook further
+熘 | TRADUÇÃO: quick-fry/sim. to stir-frying, but with cornstarch added/also written 溜
+熙来攘往 | TRADUÇÃO: a place buzzing with activity (idiom)
+熙壤 | TRADUÇÃO: variant of 熙攘
+熙提 | TRADUÇÃO: stilb, unit of luminance
+熙攘 | TRADUÇÃO: restless
+熙熙壤壤 | TRADUÇÃO: variant of 熙熙攘攘
+熙熙攘攘 | TRADUÇÃO: (idiom) bustling with activity
+熛 | TRADUÇÃO: blaze/flame flaring
+熜 | TRADUÇÃO: chimney (old) ‖ torch made from hemp straw (old)
+熟 | TRADUÇÃO: ripe; mature/thoroughly cooked; done/familiar; acquainted/experienced; skilled/(of sleep etc) deep; profound/also pr. [shou2]
+熟人 | TRADUÇÃO: acquaintance/friend
+熟人熟事 | TRADUÇÃO: (idiom) to be familiar with; to have regular dealings with
+熟化 | TRADUÇÃO: to cure/to mature
+熟啤酒 | TRADUÇÃO: pasteurized beer
+熟地 | TRADUÇÃO: cultivated land/in Chinese medicine, preparation from rhizome of Chinese foxglove (Rehmannia glutinosa)
+熟女 | TRADUÇÃO: stylish and confident middle-aged woman
+熟字 | TRADUÇÃO: familiar words/known Chinese character
+熟客 | TRADUÇÃO: frequent visitor
+熟思 | TRADUÇÃO: deliberation
+熟悉 | TRADUÇÃO: to be familiar with; to know well
+熟虑 | TRADUÇÃO: careful thought
+熟成 | TRADUÇÃO: (of wine, cheese, beef etc) to age; to mature
+熟手 | TRADUÇÃO: skilled person/an experienced hand
+熟料 | TRADUÇÃO: worked material/chamotte (refractory ceramic material)
+熟炒 | TRADUÇÃO: to stir-fry ingredients that have been cooked or partially cooked
+熟男 | TRADUÇÃO: middle-aged man (often with connotations of confidence, success and attractiveness)
+熟睡 | TRADUÇÃO: asleep/sleeping soundly
+熟知 | TRADUÇÃO: to be well acquainted with
+熟石灰 | TRADUÇÃO: slaked lime/hydrated lime
+熟石膏 | TRADUÇÃO: plaster of Paris/calcined gypsum
+熟稔 | TRADUÇÃO: (literary) to be very familiar with (sb or sth); well acquainted with; fully conversant with
+熟络 | TRADUÇÃO: familiar/close
+熟丝 | TRADUÇÃO: silk raw material (prepared by boiling in soap)
+熟练 | TRADUÇÃO: practiced/proficient/skilled/skillful
+熟练工 | TRADUÇÃO: skilled worker; journeyman
+熟练工人 | TRADUÇÃO: skilled worker; journeyman
+熟习 | TRADUÇÃO: to understand profoundly/well-versed/skillful/practiced/to have the knack
+熟能生巧 | TRADUÇÃO: with familiarity you learn the trick (idiom); practice makes perfect
+熟荒 | TRADUÇÃO: abandoned land
+熟菜 | TRADUÇÃO: cooked food (ready to eat)
+熟视无睹 | TRADUÇÃO: (idiom) to turn a blind eye to (sth one sees regularly)
+熟记 | TRADUÇÃO: to learn by heart; to memorize
+熟词僻义 | TRADUÇÃO: uncommon meaning of a common word
+熟语 | TRADUÇÃO: idiom
+熟谙 | TRADUÇÃO: to know sth fluently/well-versed
+熟识 | TRADUÇÃO: to be well acquainted with/to know well
+熟读 | TRADUÇÃO: to read and reread sth until one is familiar with it
+熟路 | TRADUÇÃO: familiar road/beaten track
+熟透 | TRADUÇÃO: completely ripe/ripened/well-cooked
+熟道 | TRADUÇÃO: familiar road/well-trodden path
+熟道儿 | TRADUÇÃO: familiar road/well-trodden path
+熟铁 | TRADUÇÃO: wrought iron
+熟门熟路 | TRADUÇÃO: familiar
+熟食 | TRADUÇÃO: cooked food/prepared food/deli food
+熟食店 | TRADUÇÃO: deli; delicatessen
+熟龄 | TRADUÇÃO: (neologism) middle age; mature age; prime years
+熠 | TRADUÇÃO: to glow/to flash
+熠煜 | TRADUÇÃO: to shine/to glitter
+熠熠 | TRADUÇÃO: glistening/bright
+熠烁 | TRADUÇÃO: to twinkle/to glimmer/to glisten
+熠耀 | TRADUÇÃO: to shine/to glitter
+熤 | TRADUÇÃO: (person)
+熥 | TRADUÇÃO: to heat up (cooked food) by baking or steaming/Taiwan pr. [tong1]
+熨 | TRADUÇÃO: reconciled/smooth ‖ an iron/to iron
+熨斗 | TRADUÇÃO: clothes iron
+熨法 | TRADUÇÃO: application of a hot compress (TCM)
+熨烫 | TRADUÇÃO: to iron (clothes)
+熬 | TRADUÇÃO: to simmer; to boil slowly ‖ to cook on a slow fire; to extract by heating; to decoct/to endure
+熬出头 | TRADUÇÃO: to break clear of all the troubles and hardships/to achieve success/to make it
+熬夜 | TRADUÇÃO: to stay up late or all night
+熬更守夜 | TRADUÇÃO: to stay up through the night (idiom)
+熬煎 | TRADUÇÃO: suffering/torture
+熬稃 | TRADUÇÃO: puffed grain/popped wheat/popcorn
+熬膏 | TRADUÇÃO: to simmer to a paste
+熬药 | TRADUÇÃO: to decoct medicinal herbs
+熬头儿 | TRADUÇÃO: (coll.) the reward of one's efforts/the light at the end of the tunnel
+熯 | TRADUÇÃO: to dry with fire
+𬉼 | TRADUÇÃO: severe drought/exceptionally hot weather ‖ copious smoke produced by smoldering firewood/half alight/to use the smoke of burning wormwood etc to repel insects
+热 | TRADUÇÃO: to warm up/to heat up/hot (of weather)/heat/fervent
+热中 | TRADUÇÃO: variant of 熱衷|热衷
+热中子 | TRADUÇÃO: thermal neutron
+热乎 | TRADUÇÃO: warm/hot/affectionate/ardent
+热乎乎 | TRADUÇÃO: warm; (of food) piping hot/(fig.) roused to warm feelings
+热干面 | TRADUÇÃO: noodles served hot, with toppings including sesame paste and soy sauce – popular in Wuhan as a breakfast dish or late-night snack
+热值 | TRADUÇÃO: calorific value
+热传导 | TRADUÇÃO: heat transfer/thermal conduction
+热伤风 | TRADUÇÃO: summer cold
+热函 | TRADUÇÃO: enthalpy/heat content (thermodynamics)
+热切 | TRADUÇÃO: fervent
+热力 | TRADUÇÃO: heat
+热力学 | TRADUÇÃO: thermodynamics
+热力学温度 | TRADUÇÃO: thermodynamic temperature (temperature above absolute zero)
+热力学温标 | TRADUÇÃO: thermodynamic temperature scale (in degrees Kelvin, measured above absolute zero)
+热动平衡 | TRADUÇÃO: thermodynamic equilibrium
+热吻 | TRADUÇÃO: to kiss passionately
+热呼 | TRADUÇÃO: variant of 熱乎|热乎
+热呼呼 | TRADUÇÃO: variant of 熱乎乎|热乎乎
+热土 | TRADUÇÃO: homeland/hot piece of real estate
+热压 | TRADUÇÃO: (manufacturing) hot pressing
+热天 | TRADUÇÃO: hot day
+热容 | TRADUÇÃO: thermal capacity
+热寂 | TRADUÇÃO: (physics) heat death of the universe
+热射病 | TRADUÇÃO: heatstroke
+热对流 | TRADUÇÃO: heat convection
+热导 | TRADUÇÃO: thermal conduction
+热导率 | TRADUÇÃO: thermal conductivity/heat conductivity
+热层 | TRADUÇÃO: (meteorology) thermosphere
+热岛效应 | TRADUÇÃO: urban heat island effect
+热帖 | TRADUÇÃO: hot thread (in an Internet forum)
+热带 | TRADUÇÃO: the tropics/tropical
+热带地区 | TRADUÇÃO: the tropics
+热带雨林 | TRADUÇÃO: tropical rain forest
+热带风暴 | TRADUÇÃO: tropical storm
+热带鱼 | TRADUÇÃO: tropical fish
+热度 | TRADUÇÃO: level of heat/(fig.) zeal/fervor/(coll.) a temperature (i.e. abnormally high body heat)
+热得快 | TRADUÇÃO: immersion heater/electric heater for liquid
+热心 | TRADUÇÃO: enthusiastic; ardent; zealous
+热心肠 | TRADUÇÃO: warmhearted; willing to help others
+热忱 | TRADUÇÃO: zeal/enthusiasm/ardor/enthusiastic/warmhearted
+热情 | TRADUÇÃO: cordial/enthusiastic/passion/passionate/passionately
+热情果 | TRADUÇÃO: sweet granadilla (Passiflora ligularis)
+热情款待 | TRADUÇÃO: to provide warm hospitality
+热情洋溢 | TRADUÇÃO: brimming with enthusiasm (idiom); full of warmth
+热爱 | TRADUÇÃO: to love ardently/to adore
+热恋 | TRADUÇÃO: to fall head over heels in love/to be passionately in love
+热成像 | TRADUÇÃO: thermal imaging
+热成层 | TRADUÇÃO: thermosphere (nonstandard synonym of 熱層|热层)
+热战 | TRADUÇÃO: hot war
+热捧 | TRADUÇÃO: a craze/a popular wave/a hit with the public
+热插拔 | TRADUÇÃO: hot swapping
+热搜 | TRADUÇÃO: (Internet) popular search query
+热播 | TRADUÇÃO: to broadcast (or be broadcast) to an enthusiastic audience; to broadcast (or be broadcast) and get high ratings
+热播剧 | TRADUÇÃO: popular show (on TV or other media)
+热敏 | TRADUÇÃO: heat-sensitive/thermal (printing)
+热敏纸 | TRADUÇÃO: thermal paper
+热敷 | TRADUÇÃO: to apply a hot compress
+热敷布 | TRADUÇÃO: hot compress
+热昏 | TRADUÇÃO: to be overcome by the heat
+热映 | TRADUÇÃO: (of a film or TV show) currently screening as a popular hit
+热望 | TRADUÇÃO: to aspire
+热核 | TRADUÇÃO: thermonuclear
+热核反应堆 | TRADUÇÃO: thermal reactor
+热核武器 | TRADUÇÃO: fusion weapon/thermonuclear weapon
+热核聚变反应 | TRADUÇÃO: thermonuclear fusion reaction
+热机 | TRADUÇÃO: heat engine
+热比亚 | TRADUÇÃO: (name) Rabiye or Rebiya/Rebiya Kadeer (1946–), Uyghur businesswoman and activist, imprisoned 1999–2005, then president of the World Uyghur Congress
+热比亚·卡德尔 | TRADUÇÃO: Rebiya Kadeer (1946–), Uyghur businesswoman and activist, imprisoned 1999–2005, then president of the World Uyghur Congress
+热比娅 | TRADUÇÃO: (name) Rabiye or Rebiya/Rebiya Kadeer (1946–), Uyghur businesswoman and activist, imprisoned 1999–2005, then president of the World Uyghur Congress
+热比娅·卡德尔 | TRADUÇÃO: Rebiya Kadeer or Rabiye Qadir (1947-), Uighur businesswoman and activist, imprisoned 1999-2005, then president of the World Uighur Congress
+热气 | TRADUÇÃO: steam/heat/CL:股
+热气球 | TRADUÇÃO: hot air balloon
+热气腾腾 | TRADUÇÃO: piping hot
+热水 | TRADUÇÃO: hot water
+热水器 | TRADUÇÃO: water heater
+热水澡 | TRADUÇÃO: hot bath or shower
+热水瓶 | TRADUÇÃO: thermos bottle/vacuum bottle/hot water dispenser (appliance)/CL:個|个
+热水袋 | TRADUÇÃO: hot-water bottle
+热河 | TRADUÇÃO: Rehe, Qing dynasty province abolished in 1955 and divided among Hebei, Liaoning and Inner Mongolia/refers to the Qing imperial resort at Chengde/see also 避暑山莊|避暑山庄 (history)
+热泵 | TRADUÇÃO: heat pump
+热浪 | TRADUÇÃO: heat wave
+热泪 | TRADUÇÃO: hot tears
+热泪盈眶 | TRADUÇÃO: eyes brimming with tears of excitement (idiom)/extremely moved
+热源 | TRADUÇÃO: heat source
+热潮 | TRADUÇÃO: wave of enthusiasm; craze; upsurge
+热火朝天 | TRADUÇÃO: in full swing (idiom)/(in a) frenzy/buzzing with activity
+热炒 | TRADUÇÃO: stir-fried dish (Tw)
+热炒热卖 | TRADUÇÃO: lit. to sell hot food freshly cooked; fig. to teach what one has just learned/enthusiasm of the new convert
+热烈 | TRADUÇÃO: enthusiastic/ardent/warm
+热焓 | TRADUÇÃO: enthalpy/heat content (thermodynamics)
+热熔胶 | TRADUÇÃO: hot-melt adhesive; hot glue
+热烫 | TRADUÇÃO: to burn
+热尔韦 | TRADUÇÃO: Gervais (name)/Paul Gervais (1816-1879), French geologist
+热狗 | TRADUÇÃO: hot dog (loanword)
+热病 | TRADUÇÃO: fever/pyrexia
+热痉挛 | TRADUÇÃO: heat cramps
+热管 | TRADUÇÃO: heat pipe
+热红酒 | TRADUÇÃO: mulled wine
+热络 | TRADUÇÃO: intimate/friendly/warm/active/lively (interaction, participation etc)
+热线 | TRADUÇÃO: hotline (communications link)
+热缩管 | TRADUÇÃO: heat shrink tubing (aka heatshrink) (shrinkable plastic tube used to insulate wires)
+热能 | TRADUÇÃO: heat energy
+热脉冲 | TRADUÇÃO: thermal pulse
+热肠 | TRADUÇÃO: warmhearted/enthusiastic
+热脸贴冷屁股 | TRADUÇÃO: to show warm feelings but meet with cold rebuke (idiom)/to be snubbed despite showing good intentions
+热茶 | TRADUÇÃO: hot tea
+热蓬蓬 | TRADUÇÃO: steaming (hot)
+热处理 | TRADUÇÃO: hot treatment (e.g. of metal)
+热血 | TRADUÇÃO: hot blood/warm-blooded (animal)/endothermic (physiology)
+热血沸腾 | TRADUÇÃO: (idiom) to be fired up; to have one's blood racing; to be burning (with excitement, passion, anger etc)
+热衰竭 | TRADUÇÃO: heat exhaustion
+热衷 | TRADUÇÃO: to feel strongly about/to be fond of/obsession/deep commitment
+热补 | TRADUÇÃO: hot patching (of insulating material in a furnace)/hot patching (runtime correction in computing)
+热裤 | TRADUÇÃO: hot pants
+热解 | TRADUÇÃO: thermal cleavage (i.e. sth splits when heated)
+热评 | TRADUÇÃO: popular comment; trending comment
+热词 | TRADUÇÃO: buzzword
+热诚 | TRADUÇÃO: devotion/fervor
+热议 | TRADUÇÃO: to discuss passionately/heated debate
+热卖 | TRADUÇÃO: to sell strongly; to be in great demand
+热卖品 | TRADUÇÃO: hot-selling property
+热身 | TRADUÇÃO: to warm up (sports)/(fig.) to prepare/to get in condition
+热身赛 | TRADUÇÃO: warm-up match; a friendly
+热轧 | TRADUÇÃO: (metallurgy) hot-rolled; hot-rolling
+热辐射 | TRADUÇÃO: thermal radiation
+热辣辣 | TRADUÇÃO: burning hot; scorching/(of food) spicy hot/(of news, topics etc) sensational; attention-grabbing/emotionally intense
+热那亚 | TRADUÇÃO: Genoa
+热释光 | TRADUÇÃO: thermoluminescence
+热量 | TRADUÇÃO: heat/quantity of heat/calorific value
+热量单位 | TRADUÇÃO: thermal unit/unit of heat
+热销 | TRADUÇÃO: to sell well/hot-selling
+热钱 | TRADUÇÃO: hot money, money flowing from one currency to another in the hope of quick profit
+热锅上的蚂蚁 | TRADUÇÃO: (like) a cat on a hot tin roof/anxious/agitated
+热键 | TRADUÇÃO: hotkey/keyboard shortcut
+热门 | TRADUÇÃO: popular; hot; in vogue
+热门货 | TRADUÇÃO: goods in great demand
+热电 | TRADUÇÃO: pyroelectric
+热电偶 | TRADUÇÃO: thermocouple
+热电厂 | TRADUÇÃO: thermoelectric power plant
+热风枪 | TRADUÇÃO: heat gun
+热食 | TRADUÇÃO: hot food
+热饮 | TRADUÇÃO: hot drink
+热香饼 | TRADUÇÃO: pancake
+热腾腾 | TRADUÇÃO: steaming hot/(fig.) bustling/hectic/(fig.) excited/stirred up/(fig.) created only a short time before/freshly minted/hot off the press/(coll.) also pr. [re4 teng1 teng1]
+热闹 | TRADUÇÃO: bustling with noise and excitement/lively
+热点 | TRADUÇÃO: hot spot/point of special interest
+颎 | TRADUÇÃO: blaze/bright
+熳 | TRADUÇÃO: used in 爛熳|烂熳
+熴 | TRADUÇÃO: variant of 焜
+熵 | TRADUÇÃO: entropy (character created in 1923)
+熸 | TRADUÇÃO: to extinguish (of fire)
+熹 | TRADUÇÃO: bright/warm
+熹平石经 | TRADUÇÃO: Xiping steles, calligraphic work on carved steles of the Eastern Han Dynasty (25-220 AD)
+炽 | TRADUÇÃO: to burn/to blaze/splendid/illustrious
+炽烈 | TRADUÇÃO: burning fiercely/flaming/blazing
+炽热 | TRADUÇÃO: red-hot/glowing/blazing/(fig.) passionate
+炽盛 | TRADUÇÃO: ablaze (fire)/intense (anger, desire etc)/prosperous/booming
+熿 | TRADUÇÃO: brilliant
+𬊤 | TRADUÇÃO: to make a fire
+燂 | TRADUÇÃO: to heat/to scorch
+燃 | TRADUÇÃO: to burn/to ignite/to light/fig. to spark off (hopes)/to start (debate)/to raise (hopes)
+燃放 | TRADUÇÃO: to light/to set off (firecrackers etc)
+燃料 | TRADUÇÃO: fuel
+燃料循环 | TRADUÇÃO: fuel cycle
+燃料油 | TRADUÇÃO: fuel oil
+燃料芯块 | TRADUÇÃO: fuel pellets
+燃料电池 | TRADUÇÃO: fuel cell
+燃气 | TRADUÇÃO: fuel gas (coal gas, natural gas, methane etc)
+燃气轮机 | TRADUÇÃO: gas turbine
+燃气电厂 | TRADUÇÃO: gas fired power station
+燃油 | TRADUÇÃO: fuel oil
+燃油舱 | TRADUÇÃO: fuel tank (of a ship)
+燃油车 | TRADUÇÃO: fuel-powered car; internal-combustion vehicle
+燃煤 | TRADUÇÃO: coal fuel
+燃煤锅炉 | TRADUÇÃO: coal burning boiler
+燃灯佛 | TRADUÇÃO: Dipamkara Buddha, the former Buddha before Shakyamuni Buddha and the bringer of lights
+燃烧 | TRADUÇÃO: to ignite/to combust/to burn/combustion/flaming
+燃烧剂 | TRADUÇÃO: incendiary agent
+燃烧匙 | TRADUÇÃO: deflagrating spoon/combustion spoon
+燃烧弹 | TRADUÇÃO: fire bomb/incendiary device
+燃烧瓶 | TRADUÇÃO: Molotov cocktail
+燃爆 | TRADUÇÃO: to cause to explode/to fire/to set off
+燃眉 | TRADUÇÃO: to burn one's eyebrows/fig. desperately serious situation
+燃眉之急 | TRADUÇÃO: lit. the fire burns one's eyebrows (idiom); fig. desperate situation/extreme emergency
+燃素说 | TRADUÇÃO: phlogiston theory
+燃耗 | TRADUÇÃO: fuel consumption
+燃起 | TRADUÇÃO: to ignite/to light/fig. to spark off (hopes, controversy, flames of revolution)
+燃香 | TRADUÇÃO: to burn incense
+燃点 | TRADUÇÃO: to ignite; to set fire to; to light/(chemistry) ignition point; combustion point
+燇 | TRADUÇÃO: old variant of 焌
+灯 | TRADUÇÃO: lamp/light/lantern/CL:盞|盏
+灯下黑 | TRADUÇÃO: (lit.) it's dark right under the lamp/(fig.) people tend to overlook things right under their noses
+灯光 | TRADUÇÃO: (stage) lighting/light
+灯塔 | TRADUÇÃO: lighthouse/CL:座
+灯塔守 | TRADUÇÃO: lighthouse keeper
+灯塔市 | TRADUÇÃO: Dengta, a county-level city in Liaoyang City 遼陽市|辽阳市, Liaoning
+灯塔水母 | TRADUÇÃO: immortal jellyfish (Turritopsis dohrnii)
+灯带 | TRADUÇÃO: LED strip light
+灯心 | TRADUÇÃO: lampwick
+灯心草 | TRADUÇÃO: rush (botany)/Juncaceae
+灯会 | TRADUÇÃO: carnival during the Lantern Festival, with lantern displays and traditional folk performances such as stilt walking and lion dance
+灯柱 | TRADUÇÃO: lamppost
+灯条 | TRADUÇÃO: LED strip light
+灯泡 | TRADUÇÃO: light bulb/see also 電燈泡|电灯泡/third-wheel or unwanted third party spoiling a couple's date (slang)/CL:個|个
+灯火 | TRADUÇÃO: lights
+灯火通明 | TRADUÇÃO: brightly lit
+灯珠 | TRADUÇÃO: LED lamp bead; small light bulb
+灯盏 | TRADUÇÃO: lantern/uncovered oil lamp
+灯管 | TRADUÇÃO: fluorescent light
+灯节 | TRADUÇÃO: the Lantern Festival (15th of first month of lunar calendar)
+灯笼 | TRADUÇÃO: lantern
+灯笼果 | TRADUÇÃO: cape gooseberry/Peruvian ground-cherry/Physalis peruviana
+灯笼花 | TRADUÇÃO: Chinese enkianthus
+灯笼裤 | TRADUÇÃO: bloomers/plus fours/knickerbockers
+灯笼鱼 | TRADUÇÃO: lantern fish
+灯红酒绿 | TRADUÇÃO: lanterns red, wine green (idiom); feasting and pleasure-seeking/debauched and corrupt environment
+灯丝 | TRADUÇÃO: filament (in a lightbulb)
+灯罩 | TRADUÇÃO: cover of lamp/lampshade/glass cover of oil lamp
+灯台 | TRADUÇÃO: lampstand
+灯芯 | TRADUÇÃO: variant of 燈心|灯心
+灯芯绒 | TRADUÇÃO: (textiles) corduroy
+灯芯草 | TRADUÇÃO: see 燈心草|灯心草
+灯草 | TRADUÇÃO: the spongy, white pulp inside the stem of rush plants, used as a wick for oil lamps
+灯草绒 | TRADUÇÃO: see 燈芯絨|灯芯绒
+灯蕊 | TRADUÇÃO: lamp wick
+灯号 | TRADUÇÃO: flashing light/indicator light
+灯蛾 | TRADUÇÃO: moth
+灯谜 | TRADUÇÃO: riddles written on lanterns (e.g. for the Lantern Festival at the end of Chinese New Year)
+灯头 | TRADUÇÃO: electric light socket/burner (component of a kerosene lamp)/light (as a countable item, e.g. number of lights fitted in a house)
+炖 | TRADUÇÃO: to stew
+燉煌 | TRADUÇÃO: variant of 敦煌
+炖煮 | TRADUÇÃO: to stew
+炖肉 | TRADUÇÃO: to stew meat/stewed meat
+炖锅 | TRADUÇÃO: stew pot/stew pan/saucepan
+炖饭 | TRADUÇÃO: risotto
+燊 | TRADUÇÃO: brisk/vigorous (of fire)
+燋 | TRADUÇÃO: to cauterize/to scorch
+燎 | TRADUÇÃO: to burn/to set afire ‖ to singe
+燎原 | TRADUÇÃO: to start a prairie fire
+燎泡 | TRADUÇÃO: blister (caused by burns)
+燏 | TRADUÇÃO: radiance of fire
+磷 | TRADUÇÃO: variant of 磷 ‖ (chemistry) phosphorus ‖ variant of 磷
+烧 | TRADUÇÃO: to burn; to set on fire/to heat (over a fire); to boil (water, tea etc)/to braise/to cook; to prepare food/to run a fever/fever/(coll.) to become full of oneself; to get carried away
+烧伤 | TRADUÇÃO: burn (injury)
+烧利市 | TRADUÇÃO: (old) to burn paper money as an offering
+烧到 | TRADUÇÃO: to have a fever reaching (a certain temperature)
+烧包 | TRADUÇÃO: to forget oneself in extravagance/to burn money
+烧味 | TRADUÇÃO: siu mei; Cantonese-style barbecue (roasted meats, such as pork, duck or chicken, seasoned and cooked to a crispy, flavorful finish)
+烧埋 | TRADUÇÃO: to bury/funeral rites
+烧夷弹 | TRADUÇÃO: incendiary bomb
+烧写器 | TRADUÇÃO: programmer (electronics)
+烧屏 | TRADUÇÃO: (electronics) screen burn-in
+烧心 | TRADUÇÃO: to worry
+烧杯 | TRADUÇÃO: beaker (glassware)
+烧死 | TRADUÇÃO: to burn to death
+烧毛 | TRADUÇÃO: (textiles) to singe
+烧水 | TRADUÇÃO: to heat water/to boil water
+烧水壶 | TRADUÇÃO: kettle
+烧火 | TRADUÇÃO: to light a fire for cooking
+烧火棍 | TRADUÇÃO: stick or rod used to tend a fire
+烧灼 | TRADUÇÃO: to burn; to scorch
+烧灼伤 | TRADUÇÃO: burn (injury)/scorching
+烧灼感 | TRADUÇÃO: burning pain
+烧灼疼 | TRADUÇÃO: burning pain
+烧炭 | TRADUÇÃO: to manufacture charcoal/to burn charcoal (often a reference to suicide by carbon monoxide poisoning)
+烧烤 | TRADUÇÃO: barbecue/to roast
+烧烤酱 | TRADUÇÃO: barbecue sauce
+烧焊 | TRADUÇÃO: to weld
+烧焦 | TRADUÇÃO: to burn/to scorch/burned/burning/scorched/charred
+烧煤 | TRADUÇÃO: to burn coal
+烧煮 | TRADUÇÃO: to cook
+烧毁 | TRADUÇÃO: to destroy (or be destroyed) by fire
+烧瓶 | TRADUÇÃO: laboratory flask
+烧硬 | TRADUÇÃO: to fire (pottery)
+烧红 | TRADUÇÃO: to heat until red-hot
+烧纸 | TRADUÇÃO: to burn paper offerings (as part of religious ceremony)
+烧结 | TRADUÇÃO: to sinter/to agglomerate ore by burning
+烧胎 | TRADUÇÃO: burnout/peel out
+烧脑 | TRADUÇÃO: (neologism, attested by 2016) (coll.) (of a situation, problem or piece of content) intensely demanding on the brain; brain-bending
+烧腊 | TRADUÇÃO: siu mei (燒味|烧味) made from cured meat 臘肉|腊肉
+烧茄子 | TRADUÇÃO: stewed eggplant
+烧茶 | TRADUÇÃO: to make tea
+烧荒 | TRADUÇÃO: to clear waste land or forest by burning/slash-and-burn (agriculture)
+烧菜 | TRADUÇÃO: to cook
+烧制 | TRADUÇÃO: to fire (in a kiln)
+烧卖 | TRADUÇÃO: shumai (shao mai) steamed dumpling/also written 燒麥|烧麦
+烧酒 | TRADUÇÃO: name of a famous Tang dynasty wine/same as 白酒
+烧录 | TRADUÇÃO: to burn (a CD or DVD)
+烧钱 | TRADUÇÃO: to burn joss paper/(fig.) to flush money down the toilet
+烧锅 | TRADUÇÃO: a still (for distilling alcohol)
+烧开 | TRADUÇÃO: to boil
+烧饼 | TRADUÇÃO: baked sesame seed-coated cake
+烧香 | TRADUÇÃO: to burn incense
+烧香拜佛 | TRADUÇÃO: to burn incense and worship Buddha
+烧高香 | TRADUÇÃO: to burn incense/to thank profusely
+烧鸟 | TRADUÇÃO: yakitori, a Japanese dish of skewered grilled chicken
+烧碱 | TRADUÇÃO: caustic soda NaOH
+烧麦 | TRADUÇÃO: variant of 燒賣|烧卖
+燔 | TRADUÇÃO: burn/to roast meat for sacrifice
+燕 | TRADUÇÃO: Yan, a vassal state of Zhou in present-day Hebei and Liaoning/north Hebei/the four Yan kingdoms of the Sixteen Kingdoms, namely: Former Yan 前燕 (337–370), Later Yan 後燕|后燕 (384–409), Southern Yan 南燕 (398–410), Northern Yan 北燕 (409–436)/surname Yan ‖ swallow (family Hirundinidae)/old variant of 宴 ‖ variant of 燕
+燕京 | TRADUÇÃO: Yanjing, an old name for Beijing/capital of Yan at different periods
+燕京啤酒 | TRADUÇÃO: Yanjing beer (Beijing beer brand)
+燕京大学 | TRADUÇÃO: Yanjing or Yenching University, Christian university in Beijing founded in 1919
+燕国 | TRADUÇÃO: Yan, a vassal state of Zhou in modern Hebei and Liaoning/north Hebei/the four Yan kingdoms of the Sixteen Kingdoms, namely: Former Yan 前燕 (337-370), Later Yan 後燕|后燕 (384-409), Southern Yan 南燕 (398-410), Northern Yan 北燕 (409-436)
+燕太子丹 | TRADUÇÃO: Prince Dan of Yan (-226 BC), commissioned the attempted assassination of King Ying Zheng of Qin 秦嬴政 (later the First Emperor 秦始皇) by Jing Ke 荊軻|荆轲 in 227 BC
+燕子 | TRADUÇÃO: swallow
+燕子衔泥垒大窝 | TRADUÇÃO: the swallow's nest is built one beakful of mud at a time (idiom)/many a little makes a mickle
+燕尾服 | TRADUÇÃO: swallow-tailed coat/tails
+燕尾蝶 | TRADUÇÃO: swallowtail butterfly (family Papilionidae)
+燕山 | TRADUÇÃO: Yan mountain range across north Hebei
+燕梳 | TRADUÇÃO: (dialect) insurance (loanword)
+燕科 | TRADUÇÃO: Hirundinidae (the family of swallows and martins)
+燕窝 | TRADUÇÃO: edible bird's nest
+燕菜精 | TRADUÇÃO: agar-agar powder
+燕赵 | TRADUÇÃO: Yan and Zhao, two of the Warring States in Hebei and Shanxi/beautiful women/women dancers and singers
+燕赵都市报 | TRADUÇÃO: Yanzhao Metropolis Daily
+燕隼 | TRADUÇÃO: (bird species of China) Eurasian hobby (Falco subbuteo)
+燕雀 | TRADUÇÃO: (bird species of China) brambling (Fringilla montifringilla)/(fig.) small fry
+燕雀安知鸿鹄之志 | TRADUÇÃO: lit. can the sparrow and swallow know the will of the great swan? (idiom)/fig. how can we small fry predict the ambitions of the great?
+燕雀焉知鸿鹄之志 | TRADUÇÃO: lit. can the sparrow and swallow know the will of the great swan? (idiom); fig. how can we small fry predict the ambitions of the great?
+燕雀相贺 | TRADUÇÃO: lit. sparrow and swallow's congratulation (idiom); fig. to congratulate sb on completion of a building project/congratulations on your new house!
+燕雀处堂 | TRADUÇÃO: lit. a caged bird in a pavilion (idiom); fig. to lose vigilance by comfortable living/unaware of the disasters ahead/a fool's paradise
+燕麦 | TRADUÇÃO: oats
+燕麦粥 | TRADUÇÃO: oatmeal/porridge

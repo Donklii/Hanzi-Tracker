@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significado1/significado2/.../ em inglês>
+# Traduza cada significado (a lista separada por "/") para português, mantendo os mesmos separadores "/", a mesma ORDEM e a mesma QUANTIDADE de significados por linha.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+内陆 | TRADUÇÃO: interior; região interiorana
+内陆国 | TRADUÇÃO: país sem litoral
+内陆河 | TRADUÇÃO: rio interiorano/rio que deságua em mar interior
+内需 | TRADUÇÃO: demanda doméstica
+内飞地 | TRADUÇÃO: exclave (território nosso dentro do deles)/(Taiwan) enclave (território estrangeiro encravado em nós)
+内饰 | TRADUÇÃO: decoração interior
+内馅 | TRADUÇÃO: (Taiwan) recheio; enchimento (em pastéis, bolinhos etc.)
+内斗 | TRADUÇÃO: conflito interno/disputa pelo poder/(entre membros de uma organização) lutar entre si
+内哄 | TRADUÇÃO: variante de 內訌|内讧
+内鬼 | TRADUÇÃO: infiltrado/espião/delator/traidor
+内黄 | TRADUÇÃO: ver 內黃縣|内黄县
+内黄县 | TRADUÇÃO: Condado de Neihuang, em Anyang, província de Henan
+全 | TRADUÇÃO: sobrenome Quan/todo/inteiro/inteiro/cada/completo
+全世界 | TRADUÇÃO: mundial/mundo inteiro
+全世界第一 | TRADUÇÃO: primeiro do mundo
+全乎 | TRADUÇÃO: (coloq.) completo/abrangente
+全份 | TRADUÇÃO: conjunto completo
+全休 | TRADUÇÃO: repouso total (após uma doença)
+全优 | TRADUÇÃO: excelência geral
+全副 | TRADUÇÃO: completamente
+全副武装 | TRADUÇÃO: totalmente armado/armado até os dentes/fig. totalmente equipado
+全副精力 | TRADUÇÃO: concentrar-se inteiramente em algo/plenamente engajado/com toda a força
+全力 | TRADUÇÃO: com toda a força/toda a força/total (esforço)/plenamente (apoiar)
+全力以赴 | TRADUÇÃO: fazer de tudo para/esforçar-se ao máximo
+全胜 | TRADUÇÃO: vitória total/superar em muito/nome de um tanque/grande prêmio (em jogos)
+全勤 | TRADUÇÃO: (de um indivíduo) ter frequência perfeita/(de um grupo) não ter ausências
+全南 | TRADUÇÃO: ver 全南縣|全南县
+全南县 | TRADUÇÃO: Quannan, condado na cidade de Ganzhou, Jiangxi
+全同 | TRADUÇÃO: idêntico
+全向 | TRADUÇÃO: em todas as direções
+全员 | TRADUÇÃO: todo o pessoal; a equipe inteira
+全国 | TRADUÇÃO: nação inteira/nacional/em todo o país/nacional
+全国人大 | TRADUÇÃO: Congresso Nacional do Povo (CNP)
+全国人大常委会 | TRADUÇÃO: Comitê Permanente do Congresso Nacional do Povo
+全国人大会议 | TRADUÇÃO: sessão do Congresso Nacional do Povo (CNP)
+全国人民代表大会 | TRADUÇÃO: Congresso Nacional do Povo (CNP)
+全国人民代表大会常务委员会 | TRADUÇÃO: Comitê Permanente do Congresso Nacional do Povo
+全国代表大会 | TRADUÇÃO: congresso nacional geral/congresso nacional do Partido Comunista, nos últimos tempos a cada cinco anos
+全国性 | TRADUÇÃO: nacional
+全国民主联盟 | TRADUÇÃO: Liga Nacional pela Democracia de Mianmar ou Birmânia
+全国运动会 | TRADUÇÃO: Jogos Nacionais, competição de atletismo chinesa, organizada a cada quatro anos desde 1959
+全国重点文物保护单位 | TRADUÇÃO: Unidade Nacional de Proteção de Relíquias Culturais Chave
+全地形车 | TRADUÇÃO: veículo todo-terreno (VTT)
+全城 | TRADUÇÃO: cidade inteira
+全域 | TRADUÇÃO: toda a área; todo o domínio/global; em todo o domínio
+全场 | TRADUÇÃO: todos os presentes/toda a plateia/geral/unanimemente/duração total (de uma competição ou partida)
+全场一致 | TRADUÇÃO: unânime
+全垒打 | TRADUÇÃO: home run (beisebol)
+全天 | TRADUÇÃO: dia inteiro
+全天候 | TRADUÇÃO: para qualquer tempo/24 horas
+全套 | TRADUÇÃO: conjunto completo; complemento total
+全家 | TRADUÇÃO: FamilyMart (rede de lojas de conveniência)/família inteira
+全家福 | TRADUÇÃO: foto da família inteira/cozido variado (culinária)
+全局 | TRADUÇÃO: situação geral
+全局作用域 | TRADUÇÃO: (computação) escopo global
+全局性 | TRADUÇÃO: global
+全局模块 | TRADUÇÃO: módulo global
+全尸 | TRADUÇÃO: cadáver intacto/corpo sem partes faltando
+全屏 | TRADUÇÃO: (computação) tela cheia
+全州 | TRADUÇÃO: ver 全州縣|全州县
+全州市 | TRADUÇÃO: cidade de Jeonju, capital da província de Jeolla do Norte, no oeste da Coreia do Sul
+全州县 | TRADUÇÃO: Quanzhou, condado na cidade de Guilin, Guangxi
+全市 | TRADUÇÃO: cidade inteira
+全年 | TRADUÇÃO: ano inteiro/durante todo o ano
+全度音 | TRADUÇÃO: tom inteiro (intervalo musical)
+全影 | TRADUÇÃO: sombra total/umbra
+全复 | TRADUÇÃO: completamente/totalmente recuperado/curado
+全心 | TRADUÇÃO: de coração e alma
+全心全意 | TRADUÇÃO: (expressão idiomática) de coração e alma; de todo o coração
+全息 | TRADUÇÃO: holográfico
+全情 | TRADUÇÃO: de todo o coração
+全情投入 | TRADUÇÃO: dedicar-se de corpo e alma
+全愈 | TRADUÇÃO: variante de 痊癒|痊愈
+全才 | TRADUÇÃO: versátil/polivalente
+全拼 | TRADUÇÃO: (computação) pinyin completo (método de entrada onde o usuário digita pinyin sem tons, ex.: "shiqing" para 事情)
+全损 | TRADUÇÃO: (seguros) perda total
+全攻全守 | TRADUÇÃO: futebol total (futebol)
+全数 | TRADUÇÃO: a soma inteira/o valor total
+全文 | TRADUÇÃO: texto inteiro/texto completo
+全文搜索 | TRADUÇÃO: busca em texto completo
+全文检索 | TRADUÇÃO: busca em texto completo
+全斗焕 | TRADUÇÃO: Chun Doo Hwan (1931-), político sul-coreano, presidente 1980-1988
+全新 | TRADUÇÃO: totalmente novo; completamente novo
+全新世 | TRADUÇÃO: (geologia) Época Holocena
+全新纪 | TRADUÇÃO: (geologia) Época Holocena
+全新统 | TRADUÇÃO: sistema holoceno (estratos geológicos depositados nos últimos 12.000 anos)
+全方位 | TRADUÇÃO: completo/omnidirecional/global/holístico/abrangente
+全日制 | TRADUÇÃO: integral (ensino, trabalho etc.)
+全日空 | TRADUÇÃO: All Nippon Airways (ANA)
+全时工作 | TRADUÇÃO: (Taiwan) trabalho em tempo integral
+全景 | TRADUÇÃO: vista panorâmica
+全书 | TRADUÇÃO: livro inteiro; livro completo
+全会 | TRADUÇÃO: sessão plenária (em uma conferência)/CL:屆|届
+全本 | TRADUÇÃO: edição completa/apresentação completa (de ópera chinesa)
+全栈 | TRADUÇÃO: pilha de tecnologia completa; full-stack
+全椒 | TRADUÇÃO: ver 全椒縣|全椒县
+全椒县 | TRADUÇÃO: Quanjiao, condado na cidade de Chuzhou, Anhui
+全桥 | TRADUÇÃO: ponte H (eletrônica)
+全权 | TRADUÇÃO: plenos poderes/autoridade total/poderes plenipotenciários
+全权代表 | TRADUÇÃO: plenipotenciário; representante com plenos poderes
+全权大使 | TRADUÇÃO: embaixador plenipotenciário
+全歼 | TRADUÇÃO: aniquilar/eliminar completamente/exterminar
+全民 | TRADUÇÃO: população inteira; todo o povo (de um país ou sociedade)
+全民健保 | TRADUÇÃO: Seguro Nacional de Saúde (Taiwan) (abrev. de 全民健康保險)
+全民健康保险 | TRADUÇÃO: Seguro Nacional de Saúde (Taiwan)
+全民公决 | TRADUÇÃO: referendo
+全民投票 | TRADUÇÃO: referendo/plebiscito
+全民皆兵 | TRADUÇÃO: armar toda a nação (expressão idiomática)
+全民英检 | TRADUÇÃO: Teste Geral de Proficiência em Inglês (GEPT), encomendado pelo Ministério da Educação de Taiwan em 1999
+全活 | TRADUÇÃO: salvar a vida/resgatar/o negócio inteiro com todos os seus processos
+全港 | TRADUÇÃO: todo o território de Hong Kong
+全无 | TRADUÇÃO: nenhum/completamente sem
+全无准备 | TRADUÇÃO: completamente despreparado
+全然 | TRADUÇÃO: completamente
+全熟 | TRADUÇÃO: bem cozido; (bife) bem passado; (ovo) cozido
+全熟蛋 | TRADUÇÃO: ovo cozido
+全烧祭 | TRADUÇÃO: holocausto (Judaísmo)
+全班 | TRADUÇÃO: a turma inteira
+全球 | TRADUÇÃO: o mundo inteiro/mundial; global
+全球位置测定系统 | TRADUÇÃO: GPS (Sistema de Posicionamento Global)
+全球化 | TRADUÇÃO: globalização
+全球南方 | TRADUÇÃO: (geopolítica) Sul Global
+全球定位系统 | TRADUÇÃO: GPS (Sistema de Posicionamento Global)
+全球性 | TRADUÇÃO: global/mundial
+全球暖化 | TRADUÇÃO: aquecimento global (uso em Taiwan e Hong Kong)/escrito 全球變暖 na China continental
+全球气候 | TRADUÇÃO: clima global
+全球气候升温 | TRADUÇÃO: aquecimento do clima global
+全球气候变暖 | TRADUÇÃO: aquecimento do clima global
+全球而言 | TRADUÇÃO: globalmente; mundialmente
+全球卫星导航系统 | TRADUÇÃO: Sistema de Navegação Global por Satélite (GLONASS), equivalente russo do GPS/abr. para 格洛納斯
+全球变暖 | TRADUÇÃO: aquecimento global (uso na China continental)/escrito 全球暖化 em Taiwan
+全球资讯网 | TRADUÇÃO: (Taiwan) World Wide Web
+全球通 | TRADUÇÃO: Sistema Global para Comunicações Móveis (GSM) (telecomunicações)
+全盛 | TRADUÇÃO: florescente/no auge/em plena floração
+全盘 | TRADUÇÃO: geral/abrangente
+全省 | TRADUÇÃO: a província inteira
+全知 | TRADUÇÃO: onisciente
+全知全能 | TRADUÇÃO: (expressão idiomática) onisciente e onipotente
+全神灌注 | TRADUÇÃO: variante de 全神貫注
+全神贯注 | TRADUÇÃO: (expressão idiomática) concentrar toda a atenção; com atenção total
+全票 | TRADUÇÃO: bilhete de preço integral/por voto unânime
+全科医生 | TRADUÇÃO: clínico geral
+全程 | TRADUÇÃO: a distância inteira; do começo ao fim
+全称 | TRADUÇÃO: nome completo
+全谷物 | TRADUÇÃO: grão integral
+全端工程师 | TRADUÇÃO: desenvolvedor full-stack (computação)
+全等 | TRADUÇÃO: (geometria) congruente
+全等图形 | TRADUÇÃO: figura congruente (geometria)
+全等形 | TRADUÇÃO: (mat.) figura congruente
+全节流 | TRADUÇÃO: aceleração máxima/velocidade máxima
+全纯 | TRADUÇÃO: holomorfo (mat.)
+全素 | TRADUÇÃO: vegano
+全素食 | TRADUÇÃO: vegano
+全网 | TRADUÇÃO: a Internet inteira
+全线 | TRADUÇÃO: toda a frente (em uma guerra)/toda a extensão (de uma estrada ou linha férrea)
+全编 | TRADUÇÃO: edição completa
+全罗北道 | TRADUÇÃO: Província de Jeolla do Norte, no oeste da Coreia do Sul, capital Jeonju 全州
+全罗南道 | TRADUÇÃO: Província de Jeolla do Sul, no sudoeste da Coreia do Sul, capital Gwangju 光州
+全罗道 | TRADUÇÃO: Província de Jeolla da Coreia Joseon, hoje dividida em Província de Jeolla do Norte e Província de Jeolla do Sul
+全美 | TRADUÇÃO: em todos os Estados Unidos/toda a América
+全美广播公司 | TRADUÇÃO: National Broadcasting Company (NBC)
+全聚德 | TRADUÇÃO: Quanjude (famosa restaurante chinês)
+全联 | TRADUÇÃO: PX Mart (rede de supermercados em Taiwan)
+全职 | TRADUÇÃO: período integral (emprego)
+全能 | TRADUÇÃO: onipotente/todo-poderoso/forte em todas as áreas
+全般 | TRADUÇÃO: inteiro
+全色 | TRADUÇÃO: cores completas/em todas as cores
+全蚀 | TRADUÇÃO: eclipse total
+全裸 | TRADUÇÃO: completamente nu; completamente despido
+全托 | TRADUÇÃO: cuidado em tempo integral (de crianças em creche com internato)
+全豹 | TRADUÇÃO: o quadro completo (i.e. a situação toda)/panorama
+全貌 | TRADUÇÃO: quadro completo/vista completa
+全责 | TRADUÇÃO: responsabilidade total
+全资附属公司 | TRADUÇÃO: subsidiária integral
+全跏坐 | TRADUÇÃO: postura de pernas cruzadas (ger. de Buda)
+全距 | TRADUÇÃO: amplitude (de um conjunto de dados) (estatística)
+全身 | TRADUÇÃO: o corpo inteiro/(tipografia) em
+全身心 | TRADUÇÃO: de todo o coração/(dedicar-se) de corpo e alma
+全身性红斑狼疮 | TRADUÇÃO: lúpus eritematoso sistêmico (LES)
+全身而退 | TRADUÇÃO: (expressão idiomática) escapar ileso; sair inteiro
+全身镜 | TRADUÇÃO: espelho de corpo inteiro
+全身麻醉 | TRADUÇÃO: anestesia geral
+全军 | TRADUÇÃO: exército inteiro
+全军覆没 | TRADUÇÃO: derrota total de um exército (expressão idiomática); fig. aniquilação completa
+全轮驱动 | TRADUÇÃO: tração nas quatro rodas
+全速 | TRADUÇÃO: velocidade máxima/a toda velocidade
+全运会 | TRADUÇÃO: abrev. de 全國運動會
+全部 | TRADUÇÃO: todo; inteiro
+全都 | TRADUÇÃO: todos/sem exceção
+全录 | TRADUÇÃO: Xerox (Taiwan)
+全长 | TRADUÇÃO: comprimento total/vão
+全陪 | TRADUÇÃO: guia de turismo (durante todo o passeio)
+全集 | TRADUÇÃO: coletânea/obras completas (de um escritor ou artista)
+全面 | TRADUÇÃO: abrangente/compreensivo/total/geral
+全面禁止 | TRADUÇÃO: proibição completa/banimento total
+全面禁止核试验条约 | TRADUÇÃO: Tratado de Proibição Completa de Testes Nucleares
+全音 | TRADUÇÃO: tom inteiro (intervalo musical)
+全额 | TRADUÇÃO: o valor total/integral (compensação, bolsa, produção etc.)
+全食 | TRADUÇÃO: eclipse total
+全马 | TRADUÇÃO: maratona completa (abrev. de 全程馬拉松)/toda a Malásia
+全体 | TRADUÇÃO: todo/todo, inteiro
+全体人员 | TRADUÇÃO: tripulação
+全体会议 | TRADUÇÃO: congresso geral/reunião de todo o comitê
+全须全尾儿 | TRADUÇÃO: (dialeto de Pequim) intacto/em uma só peça
+全麦 | TRADUÇÃO: trigo integral
+全麻 | TRADUÇÃO: anestesia geral (abreviação de 全身麻醉)
+全党全军 | TRADUÇÃO: o partido (comunista) e o exército juntos (expressão idiomática)
+两 | TRADUÇÃO: dois/ambos/alguns/uns poucos/liang, unidade de peso igual a 50 gramas (moderno) ou 1⁄16 de um cate 斤 (antigo)
+两下 | TRADUÇÃO: duas vezes/por um tempinho
+两下子 | TRADUÇÃO: algumas vezes/repetir o mesmo/o mesmo truque antigo/truques do ofício
+两不相欠 | TRADUÇÃO: estar quite/estar a prêmio/estar quite
+两不误 | TRADUÇÃO: não negligenciar nenhum dos dois
+两伊战争 | TRADUÇÃO: Guerra Irã-Iraque (1980-1988)
+两个中国 | TRADUÇÃO: (política de) duas Chinas
+两倍 | TRADUÇÃO: duas vezes mais/o dobro da quantia
+两侧 | TRADUÇÃO: dois lados; ambos os lados
+两侧对称 | TRADUÇÃO: simetria bilateral
+两仪 | TRADUÇÃO: céu e terra/yin e yang
+两全 | TRADUÇÃO: satisfazer ambos os lados/acomodar ambas (as demandas)
+两全其美 | TRADUÇÃO: satisfazer demandas rivais (expressão idiomática)/ter o melhor dos dois mundos/ter as duas coisas/querer comer e ter a bolsa
+两分法 | TRADUÇÃO: (maoísmo) um se divide em dois
+两千年 | TRADUÇÃO: o ano 2000/2000 anos
+两口儿 | TRADUÇÃO: marido e mulher/casal
+两口子 | TRADUÇÃO: marido e mulher
+两句 | TRADUÇÃO: (dizer) algumas palavras
+两回事 | TRADUÇÃO: duas coisas bem diferentes/dois assuntos não relacionados
+两国 | TRADUÇÃO: ambos os países; os dois países
+两国之间 | TRADUÇÃO: entre os dois países; bilateral
+两国相争，不斩来使 | TRADUÇÃO: quando dois reinos estão em guerra, não executam os enviados (expressão idiomática)
+两宋 | TRADUÇÃO: a dinastia Song (960-1279)/refere-se ao Song do Norte (960-1127) e ao Song do Sul (1128-1279)
+两小无猜 | TRADUÇÃO: companheiros de brincadeira inocentes
+两岸 | TRADUÇÃO: bilateral/ambas as margens/ambos os lados/ambas as costas/Taiwan e continente
+两岸三地 | TRADUÇÃO: China, Taiwan, Hong Kong e Macau (termo midiático usado esp. desde 1997)
+两厢情愿 | TRADUÇÃO: ambos os lados estão dispostos/por consentimento mútuo
+两广 | TRADUÇÃO: as duas províncias de Guangdong e Guangxi (tradicional)
+两广总督 | TRADUÇÃO: Governador de Guangdong e Guangxi
+两弹一星 | TRADUÇÃO: (conquistas da China de) produzir uma bomba atômica (1964) e uma bomba de hidrogênio (1967) e lançar um satélite ao espaço (1970)
+两德 | TRADUÇÃO: duas Alemanhas/refere-se à República Democrática Alemã (Alemanha Oriental) e à República Federal da Alemanha (Alemanha Ocidental)
+两性 | TRADUÇÃO: masculino e feminino/ambos os tipos (ácido e alcalino, positivo e negativo etc)/(química) anfótero
+两性动物 | TRADUÇÃO: criatura hermafrodita
+两性差距 | TRADUÇÃO: disparidade entre os sexos
+两性平等 | TRADUÇÃO: igualdade entre os sexos
+两性异形 | TRADUÇÃO: dimorfismo sexual
+两性花 | TRADUÇÃO: flor hermafrodita
+两性离子 | TRADUÇÃO: (química) zwitteríon
+两情两愿 | TRADUÇÃO: por consentimento mútuo (dialeto do norte da China)
+两情相悦 | TRADUÇÃO: (de um casal) ser harmonioso; ser o sol um do outro
+两手 | TRADUÇÃO: as duas mãos de alguém/dois eixos (de uma estratégia)/ambos os aspectos, eventualidades etc/habilidades/perícia
+两手不沾阳春水 | TRADUÇÃO: ver 十指不沾陽春水|十指不沾阳春水
+两手空空 | TRADUÇÃO: de mãos vazias (expressão idiomática); fig. não receber nada
+两手策略 | TRADUÇÃO: estratégia de duas pontas
+两把刷子 | TRADUÇÃO: habilidade/competência
+两败俱伤 | TRADUÇÃO: ambos os lados sofrem (expressão idiomática)/nenhum dos lados vence
+两方 | TRADUÇÃO: ambos os lados (num contrato)/os dois lados opostos (numa disputa)
+两旁 | TRADUÇÃO: ambos os lados; qualquer dos lados
+两星期 | TRADUÇÃO: quinzena
+两会 | TRADUÇÃO: Congresso Nacional do Povo e Conferência Consultiva Política do Povo Chinês
+两栖 | TRADUÇÃO: anfíbio/dual-talento/capaz de trabalhar em duas áreas diferentes
+两栖动物 | TRADUÇÃO: anfíbio/animais anfíbios
+两栖类 | TRADUÇÃO: classe Amphibia/anfíbios
+两极 | TRADUÇÃO: os dois polos/os polos norte e sul/ambas as extremidades de algo/polos elétricos ou magnéticos
+两极分化 | TRADUÇÃO: polarização
+两极化 | TRADUÇÃO: polarizar/polarização/polarizado; divergente
+两样 | TRADUÇÃO: não igual; diferente
+两样东西 | TRADUÇÃO: duas coisas distintas
+两步路 | TRADUÇÃO: a um passo/muito perto
+两江道 | TRADUÇÃO: província de Ryanggang, província no norte da Coreia do Norte, adjacente à província de Jilin
+两河 | TRADUÇÃO: as áreas ao norte e ao sul do Rio Amarelo (no Período das Primaveras e Outonos)/Mesopotâmia
+两河文明 | TRADUÇÃO: civilização mesopotâmica
+两河流域 | TRADUÇÃO: Mesopotâmia
+两清 | TRADUÇÃO: acertar contas (entre mutuante e mutuário ou entre comprador e vendedor)
+两湖 | TRADUÇÃO: províncias de Hubei 湖北 e Hunan 湖南
+两汉 | TRADUÇÃO: dinastia Han (206 a.C.-220 d.C.)/refere-se ao Han Ocidental e ao Han Oriental
+两生类 | TRADUÇÃO: (biologia) classe Amphibia
+两用 | TRADUÇÃO: de duplo uso
+两当 | TRADUÇÃO: ver 兩當縣|两当县
+两当县 | TRADUÇÃO: Liangdang, um condado na cidade de Longnan 隴南市|陇南市, Gansu
+两相 | TRADUÇÃO: ambos os lados/bifásico (física)
+两相情愿 | TRADUÇÃO: ambos os lados estão dispostos/por consentimento mútuo
+两眼一摸黑 | TRADUÇÃO: (de alguém numa situação desconhecida) desamparado e desorientado
+两码事 | TRADUÇÃO: duas coisas fundamentalmente diferentes entre si; duas coisas muito diferentes
+两码子事 | TRADUÇÃO: ver 兩碼事|两码事
+两立 | TRADUÇÃO: coexistir/coexistência
+两端 | TRADUÇÃO: ambas as extremidades (de um bastão etc)/dois extremos
+两节棍 | TRADUÇÃO: nunchaku
+两者 | TRADUÇÃO: ambos; os dois
+两耳不闻窗外事 | TRADUÇÃO: não prestar atenção a assuntos externos
+两肋插刀 | TRADUÇÃO: (lit.) levar facas em ambos os lados (expressão idiomática)/(fig.) ir a qualquer extremo por um amigo; sacrificar-se por lealdade
+两脚架 | TRADUÇÃO: bipé (que apoia uma metralhadora etc)
+两着儿 | TRADUÇÃO: o mesmo truque antigo/artifício ilegal
+两虎相争 | TRADUÇÃO: (lit.) dois tigres brigando (expressão idiomática)/(fig.) disputa feroz entre adversários igualmente equilibrados
+两虎相争，必有一伤 | TRADUÇÃO: (lit.) se dois tigres brigam, um se machucará (expressão idiomática)/(fig.) se você começar uma guerra, alguém vai se machucar
+两虎相斗 | TRADUÇÃO: ver 兩虎相爭|两虎相争
+两虎相斗，必有一伤 | TRADUÇÃO: ver 兩虎相爭，必有一傷|两虎相争，必有一伤
+两袖清风 | TRADUÇÃO: lit. ambas as mangas fluindo na brisa (expressão idiomática); ter mãos limpas/incorrupto/não manchado por práticas corruptas
+两亲 | TRADUÇÃO: ver 雙親|双亲
+两讫 | TRADUÇÃO: recebido e pago (termo comercial); a mercadoria entregue e a conta liquidada
+两造 | TRADUÇÃO: ambas as partes (num processo)/autor e réu
+两边 | TRADUÇÃO: qualquer dos lados; ambos os lados
+两重 | TRADUÇÃO: duplo; duplicado
+两重天 | TRADUÇÃO: dois mundos completamente diferentes, duas realidades contrastantes
+两院 | TRADUÇÃO: duas câmaras (de assembleia legislativa), p.ex., Câmara dos Representantes e Senado
+两院制 | TRADUÇÃO: bicameralismo/sistema legislativo bicameral
+两难 | TRADUÇÃO: dilema/impasse/enfrentar uma escolha difícil
+两面 | TRADUÇÃO: ambos os lados
+两面三刀 | TRADUÇÃO: (expressão idiomática) de dois lados, três facas; duplicidade/dupla-face e traição
+两面人 | TRADUÇÃO: pessoa de duas caras
+两面刃 | TRADUÇÃO: faca de dois gumes
+两面派 | TRADUÇÃO: pessoa de duas caras/duplicidade
+两面针 | TRADUÇÃO: Zanthoxylum nitidum (arbusto espinhoso de folhas brilhantes)
+两头 | TRADUÇÃO: ambas as extremidades/ambas as partes de um negócio
+两头儿 | TRADUÇÃO: variante erhua de 兩頭|两头
+两颊生津 | TRADUÇÃO: dar água na boca/abrir o apetite
+两𩠌饭 | TRADUÇÃO: (HK) refeição de arroz com dois pratos
+两鬓斑白 | TRADUÇÃO: (expressão idiomática) ter cabelos grisalhos nas têmporas
+两点水 | TRADUÇÃO: nome do radical "gelo" 冫 em caracteres chineses (Radical Kangxi 15)
+两党制 | TRADUÇÃO: sistema bipartidário
+兪 | TRADUÇÃO: variante de 俞
+八 | TRADUÇÃO: oito
+八一五 | TRADUÇÃO: 15 de agosto, aniversário da rendição do Japão em 1945
+八一建军节 | TRADUÇÃO: veja 建軍節|建军节
+八九不离十 | TRADUÇÃO: muito próximo/muito perto/mais ou menos certo
+八二三炮战 | TRADUÇÃO: bombardeio de Kinmen pelas forças da RPC que começou em 23 de agosto de 1958, também chamado de Segunda Crise do Estreito de Taiwan
+八二丹 | TRADUÇÃO: pó oito-para-dois (MTC)
+八仙 | TRADUÇÃO: os Oito Imortais (mitologia taoísta)
+八仙桌 | TRADUÇÃO: mesa quadrada antiga para oito pessoas
+八仙湖 | TRADUÇÃO: veja 草海
+八仙过海，各显其能 | TRADUÇÃO: veja 八仙過海，各顯神通|八仙过海，各显神通
+八仙过海，各显神通 | TRADUÇÃO: lit. os Oito Imortais cruzam o mar, cada um mostrando seu talento especial (expressão idiomática)/fig. (de cada indivíduo em um grupo) dar pleno uso às suas capacidades únicas
+八位元 | TRADUÇÃO: 8 bits (computação)
+八佰伴 | TRADUÇÃO: grupo de varejo Yaohan
+八倍体 | TRADUÇÃO: octoplóide
+八八六 | TRADUÇÃO: Bye bye! (em chat e mensagens de texto)
+八公山 | TRADUÇÃO: veja 八公山區|八公山区
+八公山区 | TRADUÇÃO: Bagongshan, distrito de Huainan 淮南市, Anhui
+八分之一 | TRADUÇÃO: um oitavo
+八分音符 | TRADUÇÃO: colcheia/semínima (oitavo de nota)
+八加一 | TRADUÇÃO: (gíria) álcool; bebida alcoólica (substituto eufemístico de 酒, de 8+1=9, 九 sendo homófono de 酒)
+八十 | TRADUÇÃO: oitenta/80
+八十天环游地球 | TRADUÇÃO: A Volta ao Mundo em Oitenta Dias de Júlio Verne 儒勒·凡爾納|儒勒·凡尔纳
+八卦 | TRADUÇÃO: os oito trigramas divinatórios do Livro das Mutações 易經|易经/fofoca/fofoqueiro
+八卦山 | TRADUÇÃO: Montanha Bagua, Taiwan
+八卦拳 | TRADUÇÃO: baguazhang (uma forma de boxe chinês)
+八卦掌 | TRADUÇÃO: baguazhang (uma forma de boxe chinês)
+八卦阵 | TRADUÇÃO: formação de batalha de oito trigramas/(fig.) táticas misteriosas
+八哥 | TRADUÇÃO: (espécie de ave da China) mainá-de-crista (Acridotheres cristatellus)
+八哥儿 | TRADUÇÃO: variante erhua de 八哥
+八哥狗 | TRADUÇÃO: cão pug (raça de cachorro)
+八国联军 | TRADUÇÃO: Aliança das Oito Nações, envolvida em intervenção militar no norte da China em 1900
+八国集团 | TRADUÇÃO: G8 (grupo das oito maiores nações industrializadas)
+八块腹肌 | TRADUÇÃO: tanquinho (músculos abdominais)
+八大元老 | TRADUÇÃO: “Oito Grandes Oficiais Eminentes” do PCC, a saber 鄧小平|邓小平, 陳雲|陈云, 李先念, 彭真, 楊尚昆|杨尚昆, 薄一波, 王震 e 宋任窮|宋任穷/abrev. de 八老
+八大工业国组织 | TRADUÇÃO: G8 (grupo das oito maiores nações industrializadas)
+八大菜系 | TRADUÇÃO: as oito principais culinárias da China, a saber 川魯粵蘇浙閩湘徽|川鲁粤苏浙闽湘徽
+八婆 | TRADUÇÃO: mulher intrometida/pessoa bisbilhoteira (cantonês)
+八字 | TRADUÇÃO: caractere 8 ou 八/caracteres de data de nascimento usados em adivinhação
+八字命理 | TRADUÇÃO: adivinhação baseada nos oito caracteres da data de nascimento
+八字形 | TRADUÇÃO: forma semelhante ao caractere 八 ou 8/forma de V/aberto/forma de oito
+八字方针 | TRADUÇÃO: política expressa como slogan de oito caracteres/(esp.) slogan de oito caracteres para a política econômica proposta por Li Fuchun 李富春 em 1961: 調整、鞏固、充實、提高|调整、巩固、充实、提高 “ajustar, consolidar, enriquecer e melhorar”
+八字步 | TRADUÇÃO: passo com pés virados para fora
+八字没一撇 | TRADUÇÃO: lit. não há nem o primeiro traço do caractere 八 (expressão idiomática)/fig. as coisas ainda nem começaram a tomar forma/sem sinal de sucesso ainda
+八字眉 | TRADUÇÃO: sobrancelhas inclinadas, formadas como o caractere para “oito”
+八字脚 | TRADUÇÃO: pé torto (valgo)
+八字还没一撇 | TRADUÇÃO: lit. nem o primeiro traço do caractere 八 foi escrito (expressão idiomática)/fig. as coisas ainda nem começaram; nada de tangível resultou dos planos de alguém
+八字还没一撇儿 | TRADUÇÃO: lit. não há nem o primeiro traço do caractere 八 (expressão idiomática)/fig. as coisas ainda nem começaram a tomar forma/sem sinal de sucesso ainda
+八字胡 | TRADUÇÃO: bigode em formato do caractere 八
+八字胡须 | TRADUÇÃO: bigode em formato do caractere 八
+八家将 | TRADUÇÃO: Ba Jia Jiang, os oito generais que guardam o reino divino no folclore taiwanês, representados por grupos de dançarinos em procissões de templo/(gíria) bandido de baixo nível ou jovem delinquente, frequentemente escrito como “8+9”, [ba1 jia1 jiu3]
+八宿 | TRADUÇÃO: veja 八宿縣|八宿县
+八宿县 | TRADUÇÃO: Pasho, condado em Chamdo 昌都市, Tibete
+八宝丹 | TRADUÇÃO: elixir de oito joias (MTC)
+八宝山 | TRADUÇÃO: Babaoshan, colina no distrito de Shijingshan, Pequim, local do Cemitério Revolucionário Babaoshan 八寶山革命公墓|八宝山革命公墓
+八宝山革命公墓 | TRADUÇÃO: Cemitério Revolucionário Babaoshan no distrito de Shijingshan, Pequim
+八宝眼药 | TRADUÇÃO: pomada oftálmica de oito joias (MTC)
+八宝粥 | TRADUÇÃO: mingau de arroz feito com feijões vermelhos, sementes de lótus, longan, tâmaras vermelhas, nozes etc.
+八宝饭 | TRADUÇÃO: Arroz das Oito Preciosidades, sobremesa de arroz chinesa geralmente feita com oito tipos de frutas cristalizadas, nozes, sementes etc., popular durante o Ano Novo Lunar
+八小时工作制 | TRADUÇÃO: sistema de jornada de trabalho de oito horas
+八岐大蛇 | TRADUÇÃO: Yamata no Orochi, serpente de oito cabeças e oito caudas da seção mitológica do Nihon Shoki (Crônicas do Japão)
+八带蛸 | TRADUÇÃO: (dialeto de Shandong) polvo
+八带鱼 | TRADUÇÃO: polvo
+八度 | TRADUÇÃO: oitava
+八廓 | TRADUÇÃO: Barkhor, circuito de peregrinação ao redor do templo Jokhang em Lhasa, Tibete
+八廓街 | TRADUÇÃO: Rua Barkhor, área central de negócios e circuito de peregrinação ao redor do templo Jokhang em Lhasa, Tibete
+八强 | TRADUÇÃO: (esportes) oito melhores/quartas de final
+八强赛 | TRADUÇÃO: quartas de final
+八成 | TRADUÇÃO: oitenta por cento/provavelmente/muito provavelmente
+八戒 | TRADUÇÃO: veja 豬八戒|猪八戒/os oito preceitos (budismo)
+八抬大轿 | TRADUÇÃO: palanquim com oito carregadores/(fig.) tratamento luxuoso
+八拜之交 | TRADUÇÃO: irmandade jurada/amizade íntima
+八斗之才 | TRADUÇÃO: veja 才高八斗
+八方 | TRADUÇÃO: os oito pontos cardeais e colaterais/todas as direções
+八旗 | TRADUÇÃO: Oito Estandartes, organização militar da dinastia Jin posterior manchu 後金|后金 de cerca de 1600, posteriormente da dinastia Qing
+八旗制度 | TRADUÇÃO: sistema dos Oito Estandartes, organização militar e social dos manchus entre cerca de 1500 e 1911
+八旗子弟 | TRADUÇÃO: filho de família manchu de estandarte (nobreza)/(fig.) pirralho privilegiado
+八旬 | TRADUÇÃO: 80 anos; anos oitenta/80 dias
+八会穴 | TRADUÇÃO: os oito pontos influentes (acupuntura)
+八月 | TRADUÇÃO: agosto/oitavo mês (do ano lunar)
+八月之光 | TRADUÇÃO: Luz em Agosto (romance de William Faulkner 威廉·福克納|威廉·福克纳)
+八月份 | TRADUÇÃO: agosto
+八杆子打不着 | TRADUÇÃO: variante de 八竿子打不著|八竿子打不着
+八极拳 | TRADUÇÃO: "Oito Extremidades" Punho - Arte Marcial
+八荣八耻 | TRADUÇÃO: Oito Honras e Oito Vergonhas, diretrizes morais oficiais da RPC
+八正道 | TRADUÇÃO: Nobre Caminho Óctuplo (Budismo)
+八步 | TRADUÇÃO: ver 八步區|八步区
+八步区 | TRADUÇÃO: Babu, um distrito da cidade de Hezhou 賀州市|贺州市, Guangxi
+八段锦 | TRADUÇÃO: brocado de oito seções, uma sequência tradicional de oito partes de exercícios de qigong
+八冲 | TRADUÇÃO: oito surtos (um grupo de oito pontos de acupuntura na acupuntura chinesa, nomeadamente PC-9, TB-1, HT-9 e LV-3, bilateralmente)
+八法 | TRADUÇÃO: oito métodos de tratamento (MTC)
+八法拳 | TRADUÇÃO: Ba Fa Quan "Oito Métodos" - Arte Marcial
+八爪鱼 | TRADUÇÃO: polvo
+八珍汤 | TRADUÇÃO: decocção de oito tesouros, fórmula tônica usada na medicina chinesa
+八疸 | TRADUÇÃO: oito (tipos de) icterícias (MTC)
+八疸身面黄 | TRADUÇÃO: oito tipos de icterícia com amarelamento do corpo e do rosto (MTC)
+八目鳗 | TRADUÇÃO: lampreia (peixe proto-semmandíbula da família Petromyzontidae)
+八相成道 | TRADUÇÃO: os oito estágios da vida do Buda (Budismo)
+八竿子打不着 | TRADUÇÃO: (coloq.) não relacionado; sem qualquer conexão
+八级工 | TRADUÇÃO: trabalhador de grau 8 (o mais alto na escala salarial de oito graus)/trabalhador de alto nível
+八级工资制 | TRADUÇÃO: sistema de escala salarial de oito graus
+八级风 | TRADUÇÃO: vento de força 8/vento fresco forte
+八纲 | TRADUÇÃO: (MTC) as oito síndromes principais (usadas para diferenciar condições patológicas): yin e yang, exterior e interior, frio e calor, hipofunção e hiperfunção
+八纲辨证 | TRADUÇÃO: identificação de padrão-síndrome com base nos oito princípios (MTC)
+八美 | TRADUÇÃO: Bamay no condado de Dawu 道孚縣|道孚县, prefeitura autônoma tibetana de Garze, Sichuan
+八老 | TRADUÇÃO: "os Oito Grandes Funcionários Eminentes" do PCC, abrev. de 八大元老
+八声杜鹃 | TRADUÇÃO: (espécie de ave da China) cuco-viúvo (Cacomantis merulinus)
+八股 | TRADUÇÃO: uma dissertação em oito partes/escrita estereotipada
+八股文 | TRADUÇÃO: dissertação em oito partes que era necessário dominar para passar nos exames imperiais das dinastias Ming e Qing
+八般头风 | TRADUÇÃO: (MTC) oito tipos de "vento na cabeça" (dor de cabeça)
+八苦 | TRADUÇÃO: os oito sofrimentos - nascimento, idade, doença, morte, separação do que amamos, encontro com o que odiamos, objetivos não alcançados e todos os males dos cinco agregados (Budismo)
+八万大藏经 | TRADUÇÃO: Tripitaka Coreana, escrituras budistas esculpidas em 81.340 tábuas de madeira e guardadas no Templo Haein 海印寺 na província de South Gyeongsang, Coreia do Sul
+八行书 | TRADUÇÃO: carta de recomendação formal em oito colunas
+八角 | TRADUÇÃO: anis/estrela-de-anis/erva-doce/octogonal/Fructus Anisi stellati
+八角床 | TRADUÇÃO: cama tradicional com dossel
+八角形 | TRADUÇÃO: octógono
+八角枫 | TRADUÇÃO: alangium
+八角笼 | TRADUÇÃO: octógono do MMA (gaiola octogonal usada para lutas de artes marciais mistas)
+八角茴香 | TRADUÇÃO: anis estrelado chinês/estrela-de-anis/Fructus Anisi Stellati
+八角街 | TRADUÇÃO: rua Barkhor, área central de negócios e circuito de peregrinação ao redor do templo Jokhang em Lhasa, Tibete, também conhecida como 八廓街
+八路军 | TRADUÇÃO: Oitavo Exército de Rota, o maior das duas principais forças comunistas chinesas lutando contra os japoneses na Segunda Guerra Sino-Japonesa (1937-1945)
+八辈子 | TRADUÇÃO: (fig.) muito tempo
+八进制 | TRADUÇÃO: octal
+八达岭 | TRADUÇÃO: Badaling, uma seção específica da Grande Muralha que é um destino turístico favorito
+八达通 | TRADUÇÃO: Octopus (sistema de cartão inteligente de Hong Kong para pagamentos eletrônicos)
+八达通卡 | TRADUÇÃO: cartão Octopus (cartão inteligente de Hong Kong para pagamentos eletrônicos)
+八边形 | TRADUÇÃO: octógono
+八里 | TRADUÇÃO: município de Bali ou Pali em Nova Taipé 新北市, Taiwan
+八里乡 | TRADUÇÃO: município de Bali ou Pali em Nova Taipé 新北市, Taiwan
+八重奏 | TRADUÇÃO: octeto (conjunto musical)
+八开 | TRADUÇÃO: oitavo
+八面玲珑 | TRADUÇÃO: ser suave e liso (em estabelecer relações sociais)
+八面体 | TRADUÇÃO: octaedro
+八音 | TRADUÇÃO: sistema de classificação antigo para instrumentos musicais, baseado no material do qual o instrumento é feito (metal 金, pedra 石, barro 土, couro 革, seda 絲|丝, madeira 木, cabaça 匏, bambu 竹)/os oito tipos de som produzidos por instrumentos nessas categorias/música
+八音盒 | TRADUÇÃO: caixa de música
+八风 | TRADUÇÃO: ver 八風穴|八风穴
+八风穴 | TRADUÇÃO: "oito pontos de vento", nome de um conjunto de pontos de acupuntura (EX-LE-10), quatro em cada pé
+八点档 | TRADUÇÃO: horário das 20:00 (na televisão)/(Taiwan) (coloq.) série dramática de televisão que vai ao ar no horário nobre das 20:00
+公 | TRADUÇÃO: público/coletivamente possuído/comum/internacional (por exemplo, alto-mar, sistema métrico, calendário)/tornar público/justo/justo/Duque, o mais alto dos cinco graus de nobreza 五等爵位/honrado (cavalheiros)/sogro/macho (animal)
+公丈 | TRADUÇÃO: decâmetro
+公主 | TRADUÇÃO: princesa
+公主岭 | TRADUÇÃO: ver 公主嶺市|公主岭市
+公主岭市 | TRADUÇÃO: Gongzhuling, uma cidade a nível de condado em Siping 四平市, Jilin
+公主抱 | TRADUÇÃO: carregar alguém como os noivos carregam as noivas através da soleira
+公主病 | TRADUÇÃO: (neologismo c. 1997) (coloq.) complexo de princesa
+公主车 | TRADUÇÃO: bicicleta feminina
+公之于世 | TRADUÇÃO: (expressão idiomática) anunciar ao mundo; tornar público; deixar todos saberem
+公之于众 | TRADUÇÃO: tornar conhecido das massas (expressão idiomática); divulgar amplamente/deixar o mundo saber
+公了 | TRADUÇÃO: resolver em tribunal (oposto: 私了)
+公事 | TRADUÇÃO: assuntos relacionados ao trabalho/documentos
+公事公办 | TRADUÇÃO: fazer as coisas de maneira estritamente profissional (expressão idiomática)
+公事包 | TRADUÇÃO: (Taiwan) pasta executiva
+公事房 | TRADUÇÃO: (antigo) repartição governamental
+公交 | TRADUÇÃO: transporte público/transporte de massa/abrev. de 公共交通
+公交卡 | TRADUÇÃO: cartão IC usado para pagar tarifas em sistemas de transporte público, como ônibus e metrô
+公交站 | TRADUÇÃO: estação de transporte público
+公交车 | TRADUÇÃO: veículo de transporte público/ônibus urbano/CL:輛|辆
+公仔 | TRADUÇÃO: boneca/bichinho de pelúcia
+公仔面 | TRADUÇÃO: marca de macarrão instantâneo de Hong Kong/também usado como termo para macarrão instantâneo em geral
+公休 | TRADUÇÃO: ter feriado público; ter feriado oficial/(Taiwan) (de um estabelecimento comercial) fechar regularmente em certos dias, conforme determinado por uma associação comercial
+公休日 | TRADUÇÃO: feriado público
+公布 | TRADUÇÃO: variante de 公布/anunciar; tornar público; publicar
+公布栏 | TRADUÇÃO: mural de avisos
+公使 | TRADUÇÃO: ministro/diplomata desempenhando papel de embaixador em tempos Qing, antes de relações diplomáticas regulares
+公使馆 | TRADUÇÃO: embaixada (termo antigo)/missão estrangeira
+公信力 | TRADUÇÃO: confiança pública/credibilidade
+公倍式 | TRADUÇÃO: expressão de múltiplo comum
+公倍数 | TRADUÇÃO: múltiplo comum
+公假 | TRADUÇÃO: licença oficial do trabalho (por exemplo, licença-maternidade, licença médica ou licença para tratar de assuntos oficiais)
+公债 | TRADUÇÃO: título do governo
+公债券 | TRADUÇÃO: título do governo; obrigação pública
+公伤 | TRADUÇÃO: (direito) lesão sofrida no curso de dever oficial ou público
+公仆 | TRADUÇÃO: servidor público/CL:個|个,位
+公允 | TRADUÇÃO: equitativo; justo
+公允价值 | TRADUÇÃO: valor justo (contabilidade)
+公元 | TRADUÇÃO: EC (Era Comum)/Era Cristã/d.C. (depois de Cristo)
+公元前 | TRADUÇÃO: AEC (antes da Era Comum)/a.C. (antes de Cristo)
+公克 | TRADUÇÃO: grama
+公两 | TRADUÇÃO: hectograma
+公公 | TRADUÇÃO: pai do marido; sogro/avô; vovô/(antigo) forma de tratamento para um eunuco
+公共 | TRADUÇÃO: público; comum; comunitário
+公共事业 | TRADUÇÃO: utilidade pública/empresa estatal/fundação ou empresa pública, muitas vezes de caridade
+公共交换电话网 | TRADUÇÃO: rede telefônica pública comutada (PSTN)
+公共交通 | TRADUÇÃO: transporte público/transporte coletivo
+公共休息室 | TRADUÇÃO: sala de estar compartilhada; sala comum
+公共假期 | TRADUÇÃO: feriado público
+公共团体 | TRADUÇÃO: organização pública
+公共场所 | TRADUÇÃO: lugar público
+公共安全罪 | TRADUÇÃO: crime contra a ordem pública
+公共汽车 | TRADUÇÃO: ônibus/CL:輛|辆,班
+公共汽车站 | TRADUÇÃO: ponto de ônibus/estação rodoviária
+公共知识分子 | TRADUÇÃO: intelectual público (às vezes usado pejorativamente)
+公共秩序 | TRADUÇÃO: ordem pública
+公共行政 | TRADUÇÃO: administração pública
+公共卫生 | TRADUÇÃO: saúde pública
+公共设施 | TRADUÇÃO: instalações públicas; infraestrutura
+公共财产 | TRADUÇÃO: propriedade pública
+公共道德 | TRADUÇÃO: moral pública; ética social
+公共开支 | TRADUÇÃO: gasto público
+公共关系 | TRADUÇÃO: relações públicas
+公共零点 | TRADUÇÃO: zeros comuns (de um sistema de equações)
+公出 | TRADUÇÃO: estar fora a negócios
+公函 | TRADUÇÃO: carta oficial
+公分 | TRADUÇÃO: centímetro (cm)/grama (g) (antigo)
+公分母 | TRADUÇÃO: (mat.) denominador comum
+公判 | TRADUÇÃO: opinião pública/anúncio público do veredito em um julgamento
+公制 | TRADUÇÃO: sistema métrico
+公制单位 | TRADUÇÃO: unidades métricas
+公务 | TRADUÇÃO: negócios oficiais
+公务人员 | TRADUÇÃO: funcionário do governo
+公务员 | TRADUÇÃO: servidor público; funcionário público
+公务舱 | TRADUÇÃO: classe executiva (classe de viagem em aviões, trens etc.)
+公募 | TRADUÇÃO: colocação pública (investimento)
+公勺 | TRADUÇÃO: colher de servir/centilitro (ou seja, 10 ml)
+公升 | TRADUÇÃO: litro
+公卿 | TRADUÇÃO: altos funcionários da corte de um imperador chinês
+公司 | TRADUÇÃO: empresa; firma; corporação/CL:家
+公司三明治 | TRADUÇÃO: sanduíche club
+公司债 | TRADUÇÃO: títulos corporativos (finanças)
+公司会议 | TRADUÇÃO: reunião de empresa
+公司治理 | TRADUÇÃO: governança corporativa
+公司法 | TRADUÇÃO: direito societário; direito empresarial; direito corporativo
+公司理财 | TRADUÇÃO: finanças empresariais/finanças corporativas
+公司行号 | TRADUÇÃO: (Taiwan) empresas; negócios
+公合 | TRADUÇÃO: decilitro
+公告 | TRADUÇÃO: postagem/anúncio
+公哈 | TRADUÇÃO: husky macho (cão)
+公吨 | TRADUÇÃO: tonelada/tonelada métrica
+公因子 | TRADUÇÃO: (mat.) fator comum
+公因式 | TRADUÇÃO: fator comum/divisor comum (de uma expressão matemática)
+公国 | TRADUÇÃO: ducado/ducado/principado
+公园 | TRADUÇÃO: parque (para recreação pública)/CL:座
+公地 | TRADUÇÃO: terra pública/terra de uso comum
+公地悲剧 | TRADUÇÃO: tragédia dos comuns (economia)
+公堂 | TRADUÇÃO: tribunal de justiça/salão (em castelo)/CL:家
+公报 | TRADUÇÃO: anúncio/boletim/comunicado
+公报私仇 | TRADUÇÃO: usar cargo público para vingar queixas particulares
+公墓 | TRADUÇÃO: cemitério público
+公婆 | TRADUÇÃO: pais do marido; sogros/(dialeto) um casal; marido e mulher
+公子 | TRADUÇÃO: filho de um oficial/filho da nobreza/seu filho (honorífico)
+公子哥儿 | TRADUÇÃO: filho mimado de uma família rica
+公孙 | TRADUÇÃO: sobrenome de dois caracteres Gongsun
+公孙起 | TRADUÇÃO: Gongsun Qi (258 a.C.), famoso general de Qin 秦國|秦国, vitorioso em 長平|长平 em 260 a.C./o mesmo que Bai Qi 白起
+公孙龙 | TRADUÇÃO: Gongsun Long (c. 325-250 a.C.), pensador líder da Escola de Lógicos do Período dos Reinos Combatentes (475-220 a.C.)
+公学 | TRADUÇÃO: escola particular de elite na Inglaterra ou País de Gales (ex.: Eton College)
+公安 | TRADUÇÃO: ver 公安縣|公安县/(Ministério da) Segurança Pública/segurança pública/segurança pública
+公安官员 | TRADUÇÃO: oficiais de segurança pública
+公安局 | TRADUÇÃO: serviço de segurança pública (repartição governamental com função similar a uma delegacia de polícia)
+公安机关 | TRADUÇÃO: serviço de segurança pública
+公安县 | TRADUÇÃO: Gong'an, um condado na Cidade de Jingzhou 荊州市|荆州市, Hubei
+公安部 | TRADUÇÃO: Ministério da Segurança Pública
+公室 | TRADUÇÃO: escritório (sala)/famílias governantes durante o período Primavera e Outono
+公害 | TRADUÇÃO: poluição ambiental/praga social; flagelo da sociedade
+公宴 | TRADUÇÃO: banquete organizado por uma organização para homenagear uma figura ilustre/organizar tal banquete
+公家 | TRADUÇÃO: o público/o estado/a sociedade/o erário público
+公家机关 | TRADUÇÃO: serviço público
+公寓 | TRADUÇÃO: prédio de apartamentos; conjunto habitacional (pode ser habitação pública ou condomínio etc.) (CL:套)
+公寓大楼 | TRADUÇÃO: prédio de apartamentos
+公寓楼 | TRADUÇÃO: prédio de apartamentos/CL:座
+公审 | TRADUÇÃO: julgamento público (em um tribunal de justiça)
+公寸 | TRADUÇÃO: decímetro
+公对公 | TRADUÇÃO: B2B; empresa-para-empresa/(de um conector) macho-para-macho
+公尺 | TRADUÇÃO: (Taiwan) metro (unidade de comprimento)
+公屋 | TRADUÇÃO: (HK) conjunto habitacional público
+公差 | TRADUÇÃO: tolerância (erro permitido)/diferença comum (de uma série aritmética)/recado oficial/oficial de justiça em um yamen
+公帑 | TRADUÇÃO: (literário) fundos públicos
+公平 | TRADUÇÃO: justo/imparcial
+公平交易 | TRADUÇÃO: negociação justa
+公平合理 | TRADUÇÃO: justo/equitativo
+公平审判权 | TRADUÇÃO: o direito a um julgamento justo
+公平竞争 | TRADUÇÃO: concorrência leal
+公平贸易 | TRADUÇÃO: comércio justo
+公干 | TRADUÇÃO: negócios públicos/assuntos oficiais
+公府 | TRADUÇÃO: cargo governamental na dinastia Han
+公厕 | TRADUÇÃO: banheiro público
+公式 | TRADUÇÃO: fórmula
+公式化 | TRADUÇÃO: formalizar/formalismo na arte (especialmente condenado na URSS e na RPC)
+公引 | TRADUÇÃO: hectômetro
+公德 | TRADUÇÃO: ética pública/moral social
+公德心 | TRADUÇÃO: civilidade; espírito público
+公心 | TRADUÇÃO: imparcialidade/espírito público
+公愤 | TRADUÇÃO: raiva pública/indignação popular
+公房 | TRADUÇÃO: habitação pública/alojamento, especialmente para solteiros
+公投 | TRADUÇÃO: referendo (abrev. de 公民投票)
+公推 | TRADUÇÃO: eleito por aclamação/recomendado por todos
+公撮 | TRADUÇÃO: mililitro
+公担 | TRADUÇÃO: quintal (100 kg)
+公敌 | TRADUÇÃO: inimigo público
+公文 | TRADUÇÃO: documento oficial
+公文包 | TRADUÇÃO: pasta executiva/maleta executiva
+公斗 | TRADUÇÃO: decalitro
+公斤 | TRADUÇÃO: quilograma (kg)
+公断 | TRADUÇÃO: arbitragem (direito)
+公映 | TRADUÇÃO: exibição pública (de um filme)
+公历 | TRADUÇÃO: calendário gregoriano/calendário solar
+公会 | TRADUÇÃO: associação profissional; grêmio
+公有 | TRADUÇÃO: de propriedade pública/comunal/mantido em comum
+公有制 | TRADUÇÃO: propriedade pública
+公有化 | TRADUÇÃO: nacionalizar/tomar como propriedade comunal
+公案 | TRADUÇÃO: escrivaninha de juiz/caso judicial complexo/questão controversa/koan (budismo zen)
+公检法 | TRADUÇÃO: autoridades de segurança pública, sigla de 公安局, 檢察院|检察院 e 法院
+公款 | TRADUÇÃO: dinheiro público
+公正 | TRADUÇÃO: justo; imparcial; equitativo
+公母俩 | TRADUÇÃO: marido e mulher
+公毫 | TRADUÇÃO: centigrama
+公民 | TRADUÇÃO: cidadão
+公民投票 | TRADUÇÃO: plebiscito/referendo
+公民权 | TRADUÇÃO: direitos civis/direitos de cidadania
+公民权利 | TRADUÇÃO: direitos civis
+公民权利和政治权利国际公约 | TRADUÇÃO: Pacto Internacional sobre Direitos Civis e Políticos (PIDCP)
+公民社会 | TRADUÇÃO: sociedade civil
+公民义务 | TRADUÇÃO: obrigação civil/dever de um cidadão
+公民表决 | TRADUÇÃO: referendo/decidido por voto popular
+公决 | TRADUÇÃO: decisão pública (por votação)/decisão por maioria/decisão conjunta/referendo
+公法 | TRADUÇÃO: direito público
+公派 | TRADUÇÃO: enviar alguém ao exterior às custas do governo
+公海 | TRADUÇÃO: alto-mar; águas internacionais
+公测 | TRADUÇÃO: (desenvolvimento de software) fazer teste beta
+公演 | TRADUÇÃO: apresentar-se em público; dar uma apresentação
+公然 | TRADUÇÃO: abertamente/publicamente/indisfarçado
+公然表示 | TRADUÇÃO: declarar abertamente
+公燕 | TRADUÇÃO: banquete oferecido a altos funcionários imperiais ou feudais
+公营 | TRADUÇÃO: público/público (de propriedade, financiamento, operação, etc.)/administrado pelo estado
+公营企业 | TRADUÇÃO: empresa pública, em oposição a empresa privada 私營企業|私营企业
+公营经济 | TRADUÇÃO: o setor público da economia
+公爵 | TRADUÇÃO: duque/ducado
+公爵夫人 | TRADUÇÃO: duquesa
+公爹 | TRADUÇÃO: pai do marido
+公版 | TRADUÇÃO: (editoração) de domínio público; com direitos autorais expirados/(design, manufatura etc) padrão compartilhado ou modelo comum; versão padrão, não personalizada
+公牛 | TRADUÇÃO: touro
+公物 | TRADUÇÃO: propriedade pública
+公犬 | TRADUÇÃO: cão macho
+公理 | TRADUÇÃO: verdade autoevidente/(mat.) axioma
+公理法 | TRADUÇÃO: método axiomático
+公产 | TRADUÇÃO: propriedade pública
+公用 | TRADUÇÃO: público/para uso público
+公用交换电话网 | TRADUÇÃO: (Taiwan) rede telefônica pública comutada (RTPC)
+公用电话 | TRADUÇÃO: telefone público/CL:部
+公畜 | TRADUÇÃO: reprodutor/animal macho mantido para procriação
+公亩 | TRADUÇÃO: are (1 are = 1⁄100 hectare, ou 100 m²)
+公益 | TRADUÇÃO: bem público; interesse público; bem-estar público
+公益事业 | TRADUÇÃO: serviço ao público/empreendimento de bem-estar público/caridade/instalação social
+公益活动 | TRADUÇÃO: evento de caridade/atividades de serviço público
+公益金 | TRADUÇÃO: fundos de bem-estar público/fundo comunitário
+公众 | TRADUÇÃO: público
+公众人物 | TRADUÇÃO: figura pública/pessoa famosa
+公众意见 | TRADUÇÃO: opinião pública
+公众号 | TRADUÇÃO: conta oficial (especialmente no WeChat)
+公众集会 | TRADUÇÃO: reunião pública
+公知 | TRADUÇÃO: intelectual público (às vezes usado pejorativamente) (abrev. de 公共知識分子|公共知识分子)
+公石 | TRADUÇÃO: hectolitro/quintal
+公示 | TRADUÇÃO: tornar público para conhecimento (para informação ou para solicitar comentários)/notificação pública
+公社 | TRADUÇÃO: comuna
+公祭 | TRADUÇÃO: cerimônia memorial pública
+公私 | TRADUÇÃO: interesses públicos e privados (iniciativa, etc.)
+公私兼顾 | TRADUÇÃO: considerar adequadamente tanto os interesses públicos quanto os privados
+公私合营 | TRADUÇÃO: operação conjunta público-privada
+公秉 | TRADUÇÃO: quilolitro
+公租房 | TRADUÇÃO: habitação pública
+公称 | TRADUÇÃO: nominal
+公积金 | TRADUÇÃO: reservas oficiais/fundo acumulado
+公立 | TRADUÇÃO: público (ex.: escola, hospital)
+公立学校 | TRADUÇÃO: escola pública
+公章 | TRADUÇÃO: selo oficial
+公筷 | TRADUÇÃO: hashis de servir
+公筷母匙 | TRADUÇÃO: (Taiwan) hashis de servir e colheres de servir usados em refeições comunitárias para promover a higiene
+公粮 | TRADUÇÃO: grãos coletados pelo governo como imposto
+公约 | TRADUÇÃO: convenção (ou seja, acordo internacional)
+公约数 | TRADUÇÃO: fator comum/divisor comum
+公网 | TRADUÇÃO: (computação) rede pública/rede de longa distância/Internet
+公署 | TRADUÇÃO: repartição governamental
+公羊 | TRADUÇÃO: carneiro (ovelha macho)
+公羊传 | TRADUÇÃO: Anais ou Comentário do Sr. Gongyang sobre 春秋, história antiga, provavelmente escrita por vários autores durante a dinastia Han, mesmo que 公羊春秋
+公羊春秋 | TRADUÇÃO: Anais ou Comentário do Sr. Gongyang sobre 春秋, história antiga, provavelmente escrita durante a dinastia Han, mesmo que 公羊傳|公羊传
+公义 | TRADUÇÃO: retidão
+公而忘私 | TRADUÇÃO: para o bem comum e esquecendo os interesses pessoais (expressão idiomática); comportar-se de forma altruísta/abnegado
+公职 | TRADUÇÃO: serviço público/cargo público/emprego governamental
+公职人员 | TRADUÇÃO: funcionário público
+公听会 | TRADUÇÃO: audiência pública
+公股 | TRADUÇÃO: participação governamental
+公举 | TRADUÇÃO: eleição pública
+公卫 | TRADUÇÃO: saúde pública (abrev. de 公共衛生|公共卫生)
+公设 | TRADUÇÃO: (mat.) postulado/instalações públicas (abrev. de 公共設施|公共设施)
+公设比 | TRADUÇÃO: proporção de áreas comuns (expressa como percentual da área total de um edifício)
+公诉 | TRADUÇÃO: ação penal pública/ação penal pública (promovida pelo Ministério Público)
+公诉人 | TRADUÇÃO: promotor de justiça/promotor público/procurador
+公认 | TRADUÇÃO: publicamente reconhecido (como)/aceito (como)
+公说公有理，婆说婆有理 | TRADUÇÃO: cada um defende seu ponto de vista (expressão idiomática)
+公论 | TRADUÇÃO: opinião pública
+公诸同好 | TRADUÇÃO: compartilhar prazer na companhia de outros (expressão idiomática); desfrutar com entusiastas
+公诸于世 | TRADUÇÃO: anunciar ao mundo (expressão idiomática)/tornar público/deixar todos saberem
+公证 | TRADUÇÃO: reconhecimento de firma/reconhecido em cartório/reconhecimento (de firma)
+公证人 | TRADUÇÃO: notário/atuário
+公证处 | TRADUÇÃO: cartório de notas
+公议 | TRADUÇÃO: discussão pública
+公猪 | TRADUÇÃO: varrão
+公猪异味 | TRADUÇÃO: odor de varrão, gosto ou cheiro de suor ou urina na carne de porcos não castrados
+公猫 | TRADUÇÃO: gato macho/gato
+公买公卖 | TRADUÇÃO: compra e venda a preços justos
+公费 | TRADUÇÃO: por conta do erário
+公费医疗 | TRADUÇÃO: tratamento médico por conta do erário
+公路 | TRADUÇÃO: rodovia/estrada/CL:條|条
+公路网 | TRADUÇÃO: malha rodoviária
+公路自行车 | TRADUÇÃO: bicicleta de corrida; bicicleta de estrada
+公路赛 | TRADUÇÃO: corrida de estrada
+公路车 | TRADUÇÃO: bicicleta de corrida (abrev. de 公路自行車|公路自行车)
+公车 | TRADUÇÃO: ônibus/abrev. de 公共汽車|公共汽车/carro pertencente a uma organização e usado por seus membros (carro do governo, carro da polícia, carro da empresa etc.)/abrev. de 公務用車|公务用车
+公转 | TRADUÇÃO: revolução orbital
+公办 | TRADUÇÃO: estatal
+公道 | TRADUÇÃO: justiça/imparcialidade/estrada pública/justo/equitativo
+公里 | TRADUÇÃO: quilômetro
+公厘 | TRADUÇÃO: milímetro
+公钱 | TRADUÇÃO: decagrama
+公钥 | TRADUÇÃO: chave pública (criptografia)
+公开 | TRADUÇÃO: aberto; público; manifesto/tornar público; divulgar
+公开信 | TRADUÇÃO: carta aberta
+公开化 | TRADUÇÃO: tornar público; trazer a público
+公开讨论会 | TRADUÇÃO: fórum aberto
+公开赛 | TRADUÇÃO: campeonato aberto (esportes); aberto (como em "US Open")
+公关 | TRADUÇÃO: relações públicas
+公鸡 | TRADUÇÃO: galo
+公顷 | TRADUÇÃO: hectare
+公馆 | TRADUÇÃO: Gongguan ou Kungkuan, distrito no condado de Miaoli 苗栗縣|苗栗县, noroeste de Taiwan/residência (de pessoa rica ou importante)/mansão
+公馆乡 | TRADUÇÃO: distrito de Gongguan ou Kungkuan no condado de Miaoli 苗栗縣|苗栗县, noroeste de Taiwan
+公马 | TRADUÇÃO: cavalo macho/garanhão/reprodutor
+公鹿 | TRADUÇÃO: veado macho/veado
+六 | TRADUÇÃO: seis/6/usado em nomes de lugares
+六一儿童节 | TRADUÇÃO: Dia das Crianças (1º de junho), feriado nacional da RPC para crianças menores de 14 anos
+六二五事变 | TRADUÇÃO: Guerra da Coreia (a partir da invasão norte-coreana em 25 de junho de 1950)
+六二五战争 | TRADUÇÃO: Guerra da Coreia (iniciada em 25 de junho de 1950)
+六价 | TRADUÇÃO: hexavalente
+六公主 | TRADUÇÃO: apelido para CCTV-6 (Canal de Cinema da China)
+六分之一 | TRADUÇÃO: um sexto
+六分仪 | TRADUÇÃO: sextante
+六分仪座 | TRADUÇÃO: Sextante (constelação)
+六十 | TRADUÇÃO: sessenta/60
+六十四位元 | TRADUÇÃO: 64 bits (computação)
+六十四卦 | TRADUÇÃO: os 64 hexagramas do Livro das Mutações 易經|易经
+六十年代 | TRADUÇÃO: os anos sessenta/a década de 1960
+六合 | TRADUÇÃO: ver 六合區|六合区/as seis direções (norte, sul, leste, oeste, cima, baixo)/todo o país/o universo/tudo sob o sol
+六合八法 | TRADUÇÃO: Liuhe Bafa — "Seis Harmonias, Oito Métodos" — Arte Marcial
+六合区 | TRADUÇÃO: Luhe, distrito da cidade de Nanquim 南京市, Jiangsu
+六合彩 | TRADUÇÃO: Mark Six (jogo de loteria de Hong Kong)
+六四 | TRADUÇÃO: refere-se ao incidente da Praça da Paz Celestial de 4 de junho de 1989
+六四事件 | TRADUÇÃO: Incidente da Praça da Paz Celestial de 4 de junho de 1989
+六块腹肌 | TRADUÇÃO: tanquinho (abdômen)
+六字真言 | TRADUÇÃO: mantra sânscrito de seis sílabas do bodhisattva Avalokiteshvara (ou seja, om mani padme hum)
+六安 | TRADUÇÃO: ver 六安市
+六安市 | TRADUÇÃO: Lu'an, cidade de nível de prefeitura na província de Anhui 安徽省
+六宫 | TRADUÇÃO: imperatriz e concubinas imperiais ou sua residência
+六家 | TRADUÇÃO: Seis escolas de filosofia pré-Han, conforme analisadas por 司馬談|司马谈 (儒家, 道家, 陰陽|阴阳, 法家, 名家 e 墨家)
+六库 | TRADUÇÃO: Liuku ou Lutku, capital da prefeitura autônoma de Nujiang Lisu 怒江傈僳族自治州 em Yunnan
+六扇门 | TRADUÇÃO: sede do governo / yamen / (em histórias de wuxia) força policial especial
+六方 | TRADUÇÃO: hexagonal
+六方最密堆积 | TRADUÇÃO: empacotamento compacto hexagonal (ECH) (mat.)
+六方会谈 | TRADUÇÃO: Conversações a Seis (2003-2007) sobre o programa nuclear da Coreia do Norte, envolvendo China, EUA, Coreia do Norte, Coreia do Sul, Japão e Rússia
+六日战争 | TRADUÇÃO: Guerra dos Seis Dias de junho de 1967 entre Israel e seus vizinhos árabes
+六旬 | TRADUÇÃO: 60 anos; os sessenta anos de idade/60 dias
+六书 | TRADUÇÃO: Seis Métodos de formação de caracteres chineses, segundo o dicionário Han Shuowen 說文|说文 — a saber, dois métodos primários: 象形 (pictograma), 指事 (ideograma), dois métodos compostos: 會意|会意 (ideograma combinado), 形聲|形声 (ideograma mais fonético), e dois métodos de transferência: 假借 (empréstimo), 轉注|转注 (transferência)
+六月 | TRADUÇÃO: junho/sexto mês (do ano lunar)
+六月份 | TRADUÇÃO: junho
+六朝 | TRADUÇÃO: Seis Dinastias (220-589)
+六朝四大家 | TRADUÇÃO: Quatro Grandes Pintores das Seis Dinastias, a saber: Cao Buxing 曹不興|曹不兴, Gu Kaizhi 顧愷之|顾恺之, Lu Tanwei 陸探微|陆探微 e Zhang Sengyou 張僧繇|张僧繇
+六朝时代 | TRADUÇÃO: período das Seis Dinastias (222-589) entre Han e Tang
+六枝 | TRADUÇÃO: ver 六枝特區|六枝特区
+六枝特区 | TRADUÇÃO: Distrito Especial de Liuzhi, distrito da cidade de Liupanshui 六盤水市|六盘水市, Guizhou
+六氟化硫 | TRADUÇÃO: hexafluoreto de enxofre
+六氟化铀 | TRADUÇÃO: hexafluoreto de urânio (UF6)
+六淫 | TRADUÇÃO: (MTC) seis excessos causadores de doença, a saber: vento excessivo 風|风, frio 寒, calor 暑, umidade 濕|湿, secura 燥, fogo 火
+六环路 | TRADUÇÃO: Sexto anel viário (Pequim), inaugurado em 2008
+六甲 | TRADUÇÃO: (nome de lugar)
+六畜 | TRADUÇÃO: seis animais domésticos, a saber: porco, boi, ovelha, cavalo, galinha e cão
+六盘山 | TRADUÇÃO: Montanhas Liupan, cordilheira no norte da China
+六盘水 | TRADUÇÃO: ver 六盤水市|六盘水市
+六盘水市 | TRADUÇÃO: Liupanshui, cidade de nível de prefeitura na província de Guizhou 貴州省|贵州省
+六碳糖 | TRADUÇÃO: hexose (CH2O)6, monossacarídeo com seis átomos de carbono, como a glicose 葡萄糖
+六神 | TRADUÇÃO: os seis espíritos que governam os órgãos vitais (coração 心, pulmões 肺, fígado 肝, rins 腎|肾, baço 脾 e vesícula biliar 膽|胆)
+六神无主 | TRADUÇÃO: fora de si (expressão idiomática)/distraído/atordoado
+六级士官 | TRADUÇÃO: sargento-mor
+六经 | TRADUÇÃO: Seis Clássicos, a saber: Livro das Canções 詩經|诗经, Livro da História 尚書|尚书, Livro dos Ritos 儀禮|仪礼, o perdido Livro da Música 樂經|乐经, Livro das Mutações 易經|易经, Anais da Primavera e Outono 春秋
+六腑 | TRADUÇÃO: (MTC) os seis órgãos ocos: vesícula biliar 膽|胆, estômago 胃, intestino grosso 大腸|大肠, intestino delgado 小腸|小肠, triplo aquecedor 三焦, bexiga 膀胱
+六脚 | TRADUÇÃO: Liujiao ou Liuchiao, distrito no condado de Chiayi 嘉義縣|嘉义县, oeste de Taiwan
+六脚乡 | TRADUÇÃO: distrito de Liujiao ou Liuchiao no condado de Chiayi 嘉義縣|嘉义县, oeste de Taiwan
+六芒星 | TRADUÇÃO: estrela de seis pontas; hexagrama
+六艺 | TRADUÇÃO: as Seis Artes confucionistas, a saber: rituais ou etiqueta 禮|礼 (禮儀|礼仪), música 樂|乐 (音樂|音乐), arco e flecha 射 (射箭), direção de carruagens 御 (駕車|驾车), caligrafia ou alfabetização 書|书 (識字|识字), matemática ou cálculo 數|数 (計算|计算)/outro nome para os Seis Clássicos 六經|六经
+六亲 | TRADUÇÃO: seis parentes próximos, a saber: pai 父, mãe 母, irmãos mais velhos 兄, irmãos mais novos 弟, esposa 妻, filhos homens 子/os parentes de alguém
+六亲不认 | TRADUÇÃO: não reconhecer a própria família (expressão idiomática); egocêntrico e sem considerar as necessidades dos parentes
+六亲无靠 | TRADUÇÃO: órfão de todos os parentes imediatos (expressão idiomática); sem ninguém em quem confiar/abandonado à própria sorte
+六角 | TRADUÇÃO: hexágono
+六角形 | TRADUÇÃO: hexágono
+六角括号 | TRADUÇÃO: colchetes tortoise shell 〔〕
+六角星 | TRADUÇÃO: estrela de seis pontas; hexagrama
+六角螺帽 | TRADUÇÃO: porca sextavada
+六边形 | TRADUÇÃO: hexágono
+六邪 | TRADUÇÃO: (MTC) seis influências doentias que causam enfermidade, a saber: vento excessivo 風|风, frio 寒, calor 暑, umidade 濕|湿, secura 燥, fogo 火
+六陈 | TRADUÇÃO: grãos alimentícios (arroz, trigo, cevada, feijão, soja, gergelim)
+六面体 | TRADUÇÃO: hexaedro
+六韬 | TRADUÇÃO: "Seis Ensinamentos Secretos de Estratégia", um dos Sete Clássicos Militares da China antiga 武經七書|武经七书, atribuído a Jiang Ziya 姜子牙
+六韬三略 | TRADUÇÃO: "Seis Ensinamentos Secretos de Estratégia" 六韜|六韬 e "Três Estratégias de Huang Shigong" 三略, dois dos Sete Clássicos Militares da China antiga 武經七書|武经七书, atribuídos a Jiang Ziya 姜子牙
+兮 | TRADUÇÃO: (partícula do chinês antigo similar a 啊)
+兮兮 | TRADUÇÃO: (partícula usada para exagerar certos adjetivos, em particular 神經兮兮|神经兮兮, 髒兮兮|脏兮兮, 可憐兮兮|可怜兮兮 e 慘兮兮|惨兮兮)
+共 | TRADUÇÃO: comum/geral/partilhar/junto/total/totalmente/abrev. de 共產黨|共产党, Partido Comunista
+共乘 | TRADUÇÃO: andar junto; viajar junto/fazer carona
+共事 | TRADUÇÃO: trabalhar junto
+共享 | TRADUÇÃO: compartilhar/desfrutar juntos
+共享函数库 | TRADUÇÃO: biblioteca compartilhada (computação)
+共享带宽 | TRADUÇÃO: largura de banda compartilhada
+共享库 | TRADUÇÃO: biblioteca compartilhada (computação)
+共享程序库 | TRADUÇÃO: biblioteca compartilhada (computação)
+共享计划 | TRADUÇÃO: projeto conjunto/parceria
+共享软体 | TRADUÇÃO: shareware
+共价键 | TRADUÇÃO: ligação covalente (química)
+共刺激 | TRADUÇÃO: (imunologia) coestimulação/coestimulatório
+共匪 | TRADUÇÃO: bandido comunista (i.e. soldado do EPL (durante a guerra civil) ou comunista chinês (Taiwan))
+共同 | TRADUÇÃO: comum/conjunto/conjuntamente/junto/colaborativo
+共同主持人 | TRADUÇÃO: (Taiwan) (em um projeto de pesquisa) copesquisador principal, ou co-PI
+共同利益 | TRADUÇÃO: interesse comum/benefício mútuo
+共同基金 | TRADUÇÃO: fundo mútuo
+共同社 | TRADUÇÃO: Kyōdō, agência de notícias japonesa
+共同纲领 | TRADUÇÃO: programa comum/programa formal do partido comunista após 1949, que serviu como plano nacional provisório
+共同体 | TRADUÇÃO: comunidade
+共同点 | TRADUÇÃO: ponto em comum
+共和 | TRADUÇÃO: república/republicanismo
+共和制 | TRADUÇÃO: república
+共和国 | TRADUÇÃO: república
+共和政体 | TRADUÇÃO: sistema de governo republicano
+共和派 | TRADUÇÃO: facção republicana
+共和县 | TRADUÇÃO: Gonghe, um condado na Prefeitura Autônoma Tibetana de Hainan 海南藏族自治州, Qinghai
+共和党 | TRADUÇÃO: Partido Republicano
+共和党人 | TRADUÇÃO: um membro do Partido Republicano
+共商 | TRADUÇÃO: discutir em conjunto/discutir juntos (negócios)
+共商大计 | TRADUÇÃO: discutir assuntos de vital importância
+共存 | TRADUÇÃO: coexistir
+共存性 | TRADUÇÃO: compatibilidade/possibilidade de coexistência mútua
+共工 | TRADUÇÃO: Deus da Água
+共建房 | TRADUÇÃO: casa de propriedade cooperativa
+共形 | TRADUÇÃO: conforme
+共性 | TRADUÇÃO: caráter geral
+共患难 | TRADUÇÃO: passar por dificuldades juntos
+共情 | TRADUÇÃO: empatizar
+共振 | TRADUÇÃO: ressonância (física)
+共时 | TRADUÇÃO: sincrônico; simultâneo
+共有 | TRADUÇÃO: no total há.../possuir em conjunto
+共栖 | TRADUÇÃO: (antigo) (biologia) ter uma relação comensal com (outro organismo)
+共业 | TRADUÇÃO: carma coletivo (budismo)/consequências que todos devem sofrer
+共模 | TRADUÇÃO: modo comum (eletrônica)
+共模抑制比 | TRADUÇÃO: (eletrônica) razão de rejeição de modo comum (CMRR)
+共济会 | TRADUÇÃO: Maçonaria
+共焦 | TRADUÇÃO: confocal (mat.)
+共犯 | TRADUÇÃO: cúmplice
+共生 | TRADUÇÃO: simbiose
+共产 | TRADUÇÃO: (adj.) comunista/comunismo/coletivizar a propriedade de bens
+共产主义 | TRADUÇÃO: comunismo
+共产主义青年团 | TRADUÇÃO: a Liga da Juventude Comunista
+共产国际 | TRADUÇÃO: Internacional Comunista ou Comintern (1919-1943), também conhecida como Terceira Internacional 第三國際|第三国际
+共产党 | TRADUÇÃO: Partido Comunista
+共产党员 | TRADUÇÃO: membro do Partido Comunista
+共产党宣言 | TRADUÇÃO: Manifesto do Partido Comunista/"Manifest der Kommunistischen Partei" por Marx e Engels (1848)
+共用 | TRADUÇÃO: compartilhar o uso de; ter uso conjunto de/coletivo (banheiro); compartilhado (antena)/usar, no total,...
+共管 | TRADUÇÃO: administrar em conjunto
+共线 | TRADUÇÃO: (geometria) colinear/concorrência (uma única estrada servindo como seção de múltiplas rotas)
+共处 | TRADUÇÃO: coexistir/dar-se bem (com outros)
+共行车道 | TRADUÇÃO: faixa de carona
+共襄善举 | TRADUÇÃO: cooperar em um projeto de caridade
+共襄盛举 | TRADUÇÃO: cooperar em um grande empreendimento ou projeto conjunto
+共计 | TRADUÇÃO: somar até/totalizar
+共话 | TRADUÇÃO: discutir juntos
+共谋 | TRADUÇÃO: planejar juntos/conspirar/plano conjunto/conspiração
+共谋罪 | TRADUÇÃO: conspiração
+共谋者 | TRADUÇÃO: conspirador
+共识 | TRADUÇÃO: entendimento comum/consenso
+共读 | TRADUÇÃO: leitura compartilhada (pais-filhos, sala de aula, grupo de leitura etc); engajar-se em leitura compartilhada
+共赢 | TRADUÇÃO: mutuamente lucrativo/ganha-ganha
+共赴 | TRADUÇÃO: participação conjunta/ir juntos
+共轭 | TRADUÇÃO: (mat., física, química) ser conjugado
+共轭不尽根 | TRADUÇÃO: (mat.) surdo conjugado
+共轭复数 | TRADUÇÃO: (mat.) conjugado complexo
+共通 | TRADUÇÃO: universal; aplicável a todos (ou ambos)/compartilhado; comum
+共通性 | TRADUÇÃO: comunalidade/universalidade
+共青团 | TRADUÇÃO: a Liga da Juventude Comunista, abrev. de 共產主義青年團|共产主义青年团
+共青城 | TRADUÇÃO: veja 共青城市
+共青城市 | TRADUÇÃO: Gongqingcheng, uma cidade administrativa em nível de condado na Cidade de Jiujiang 九江市, Jiangxi
+共面 | TRADUÇÃO: (geometria) coplanar
+共鸣 | TRADUÇÃO: ressonar/ressonância
+共党 | TRADUÇÃO: Partido Comunista (abrev. de 共產黨|共产党)
+兲 | TRADUÇÃO: variante de 天
+兲朝 | TRADUÇÃO: (pejorativo) o regime comunista chinês (variante de 天朝 Império Celestial, inventada para driblar a censura)
+兵 | TRADUÇÃO: soldados/força/exército/armas/armamentos/militar/guerreiro/CL:個|个
+兵不厌诈 | TRADUÇÃO: (expressão idiomática) na guerra, o engano é justificável
+兵不血刃 | TRADUÇÃO: lit. sem sangue nas espadas dos soldados (expressão idiomática); fig. uma vitória sem esforço
+兵乱 | TRADUÇÃO: confusão da guerra/turbulência da guerra
+兵来将挡，水来土掩 | TRADUÇÃO: combater soldados com braços, água com um dique de terra (expressão idiomática); situações diferentes exigem ações diferentes/adotar medidas apropriadas à situação real
+兵来将敌，水来土堰 | TRADUÇÃO: combater soldados com braços, água com um dique de terra (expressão idiomática); situações diferentes exigem ações diferentes/adotar medidas apropriadas à situação real
+兵刃 | TRADUÇÃO: armas (de lâmina)
+兵制 | TRADUÇÃO: sistema militar
+兵力 | TRADUÇÃO: força militar/forças armadas/tropas
+兵卒 | TRADUÇÃO: soldados/tropas
+兵员 | TRADUÇÃO: soldados/tropas
+兵器 | TRADUÇÃO: armamento/armas/armas
+兵器术 | TRADUÇÃO: artes marciais com armas
+兵团 | TRADUÇÃO: grande unidade militar/formação/corpo/exército
+兵士 | TRADUÇÃO: soldado comum
+兵家 | TRADUÇÃO: a Escola Militar, uma das Cem Escolas de Pensamento 諸子百家|诸子百家 do Período dos Reinos Combatentes (475-220 a.C.)/estrategista militar na China antiga/comandante militar/soldado
+兵家常事 | TRADUÇÃO: lugar-comum em operações militares (expressão idiomática)
+兵工厂 | TRADUÇÃO: fábrica de munições
+兵差 | TRADUÇÃO: mão de obra recrutada para apoiar os militares
+兵库 | TRADUÇÃO: Hyōgo (província no Japão)
+兵强马壮 | TRADUÇÃO: lit. soldados fortes e cavalos robustos (expressão idiomática)/fig. um exército bem treinado e poderoso
+兵役 | TRADUÇÃO: serviço militar
+兵戈 | TRADUÇÃO: armas/armamentos/luta/guerra
+兵戈扰攘 | TRADUÇÃO: armas e confusão (expressão idiomática); turbulência da guerra
+兵戎 | TRADUÇÃO: armas/armamentos
+兵戎相见 | TRADUÇÃO: encontrar-se no campo de batalha (expressão idiomática)
+兵推 | TRADUÇÃO: simulação de guerra; simulação de uma operação militar (abrev. de 兵棋推演)
+兵败如山倒 | TRADUÇÃO: tropas em derrota como um deslizamento de terra (expressão idiomática); um exército derrotado em colapso total
+兵书 | TRADUÇÃO: um livro sobre a arte da guerra
+兵棋推演 | TRADUÇÃO: simulação de guerra; simulação de uma operação militar
+兵权 | TRADUÇÃO: liderança militar/poder militar
+兵法 | TRADUÇÃO: arte da guerra/estratégia e táticas militares
+兵源 | TRADUÇÃO: recursos humanos (para serviço militar)/fontes de tropas
+兵营 | TRADUÇÃO: acampamento militar/quartel
+兵痞 | TRADUÇÃO: ralé do exército/rufião do exército/soldado da fortuna
+兵种 | TRADUÇÃO: (militar) ramo das forças armadas
+兵站 | TRADUÇÃO: estação de serviço do exército/depósito militar
+兵符 | TRADUÇÃO: ver 虎符
+兵精粮足 | TRADUÇÃO: soldados de elite, provisões abundantes (expressão idiomática); forças bem preparadas/preparações para a guerra em estado avançado
+兵临城下 | TRADUÇÃO: soldados às muralhas da cidade (expressão idiomática); fig. em um momento crítico
+兵船 | TRADUÇÃO: navio de guerra/embarcação naval/encouraçado
+兵舰 | TRADUÇÃO: navio de guerra
+兵荒马乱 | TRADUÇÃO: (expressão idiomática) devastado pela guerra; assolado pela guerra; em estado de caos total
+兵蚁 | TRADUÇÃO: formiga-soldado/dinergato
+兵变 | TRADUÇÃO: motim/(Taiwan) ser abandonado pela namorada enquanto serve no exército
+兵贵神速 | TRADUÇÃO: lit. velocidade é um trunfo crucial na guerra (expressão idiomática)/fig. rápido e resoluto (ao fazer algo)
+兵连祸结 | TRADUÇÃO: devastado por sucessivas guerras/assolado pela guerra/flagelado pela guerra
+兵部 | TRADUÇÃO: Ministério da Guerra (na China imperial)
+兵队 | TRADUÇÃO: tropas
+兵饷 | TRADUÇÃO: pagamento e provisões para soldados
+兵马 | TRADUÇÃO: tropas e cavalos/forças militares
+兵马俑 | TRADUÇÃO: figurinos de guerreiros e cavalos enterrados com os mortos/Exército de Terracota (sítio histórico)
+兵马未动，粮草先行 | TRADUÇÃO: antes de as tropas se moverem, forragem e provisões vão primeiro (expressão idiomática); a logística vem antes das manobras militares/um exército marcha com o estômago
+其 | TRADUÇÃO: seu/sua/seu/sua/esse/tal/isso (refere-se a algo anterior)
+其一 | TRADUÇÃO: um dos (dados, opções etc.)/o primeiro/primeiramente
+其三 | TRADUÇÃO: em terceiro lugar/o terceiro
+其中 | TRADUÇÃO: entre/em/incluído entre estes
+其二 | TRADUÇÃO: em segundo lugar/o outro (geralmente de dois)/o segundo
+其他 | TRADUÇÃO: outro/(algo ou alguém) mais/o resto
+其来有自 | TRADUÇÃO: há uma razão para isso/(de algo) não incidental
+其先 | TRADUÇÃO: anteriormente/antes disso/até então
+其内 | TRADUÇÃO: incluído/dentro disso
+其外 | TRADUÇÃO: além disso/além/além disso
+其它 | TRADUÇÃO: (adjetivo) outro
+其实 | TRADUÇÃO: na verdade; de fato; realmente
+其后 | TRADUÇÃO: próximo/mais tarde/depois disso
+其所 | TRADUÇÃO: seu lugar/o lugar designado de alguém/o lugar para isso
+其乐不穷 | TRADUÇÃO: alegria sem limites
+其乐无穷 | TRADUÇÃO: alegria sem limites
+其乐融融 | TRADUÇÃO: (de relações) alegre e harmonioso
+其次 | TRADUÇÃO: em segundo lugar/em segundo lugar
+其自身 | TRADUÇÃO: próprio (respectivo)/próprio
+其貌不扬 | TRADUÇÃO: (expressão idiomática) nada especial para se ver/de aparência insignificante
+其间 | TRADUÇÃO: entre/dentro desse intervalo/entretanto
+其余 | TRADUÇÃO: o resto/os outros/restante/resto/além deles
+具 | TRADUÇÃO: ferramenta/dispositivo/utensílio/equipamento/instrumento/talento/habilidade/possuir/ter/fornecer/prover/expor/classificador para dispositivos, caixões, corpos mortos
+具保 | TRADUÇÃO: encontrar fiador/encontrar garantia
+具备 | TRADUÇÃO: possuir/ter/equipado com/capaz de cumprir (condições ou requisitos)
+具名 | TRADUÇÃO: assinar/colocar o nome em
+具有 | TRADUÇÃO: ter; possuir
+具格 | TRADUÇÃO: caso instrumental (gramática)
+具尔 | TRADUÇÃO: (arcaico) irmão
+具结 | TRADUÇÃO: obrigar por fiança (como fiador)/assinar um compromisso
+具象 | TRADUÇÃO: imagem tangível/concreto/representacional (arte)
+具身智能 | TRADUÇÃO: IA incorporada
+具体 | TRADUÇÃO: concreto; específico; detalhado
+具体到 | TRADUÇÃO: incorporar em/aplicar a/tomar a forma de/específico para
+具体化 | TRADUÇÃO: concretizar
+具体问题 | TRADUÇÃO: questão concreta
+具体而微 | TRADUÇÃO: miniatura/reduzido/formando um microcosmo
+具体计划 | TRADUÇÃO: um plano concreto/um plano definido
+典 | TRADUÇÃO: cânon/lei/obra acadêmica padrão/citação literária ou alusão/cerimônia/estar encarregado de/hipotecar ou penhorar
+典型 | TRADUÇÃO: modelo/caso típico/arquétipo/típico/representativo
+典型化 | TRADUÇÃO: estereótipo/exemplar/tipificação
+典型用途 | TRADUÇÃO: uso típico/aplicação típica
+典型登革热 | TRADUÇÃO: dengue

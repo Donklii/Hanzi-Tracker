@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+做生活 | TRADUÇÃO: trabajar/hacer trabajo manual
+做眉做眼 | TRADUÇÃO: fruncir el ceño/hacer muecas
+做眼 | TRADUÇÃO: (en Go) hacer un "ojo"/servir de ojos y oídos (vender información o vigilar); ser un explorador
+做眼色 | TRADUÇÃO: hacer una seña con la mirada/mirar con significado a alguien
+做礼拜 | TRADUÇÃO: orar; rezar (esp. en un servicio religioso regular en iglesia o mezquita)
+做祷告 | TRADUÇÃO: orar/rezar
+做空 | TRADUÇÃO: vender en corto (finanzas)
+做绝 | TRADUÇÃO: ir a los extremos/no dejar margen de maniobra
+做声 | TRADUÇÃO: hablar/emitir sonido/proferir palabra
+做脸 | TRADUÇÃO: ganar honor/poner cara seria/hacerse un tratamiento facial
+做自己 | TRADUÇÃO: ser uno mismo
+做旧 | TRADUÇÃO: dar aspecto antiguo; envejecer artificialmente; avejentar
+做庄 | TRADUÇÃO: variante de 坐莊|坐庄
+做菜 | TRADUÇÃO: cocinar/preparar la comida/cocina
+做亲 | TRADUÇÃO: emparentarse por matrimonio/casarse
+做证 | TRADUÇÃO: variante de 作證|作证
+做买卖 | TRADUÇÃO: comprar y vender/hacer negocios/comerciar
+做贼心虚 | TRADUÇÃO: tener la conciencia culpable de un ladrón (modismo); sentir remordimiento de conciencia
+做账 | TRADUÇÃO: llevar la contabilidad; llevar las cuentas; falsificar la contabilidad
+做针线 | TRADUÇÃO: hacer trabajos de costura
+做错 | TRADUÇÃO: equivocar; cometer un error
+做鸡 | TRADUÇÃO: (jerga) (de una mujer) ejercer la prostitución
+做饭 | TRADUÇÃO: cocinar/preparar la comida
+做鬼 | TRADUÇÃO: gastar bromas/hacer trampas/convertirse en fantasma/morir
+做鬼脸 | TRADUÇÃO: hacer muecas/poner caras
+做鸭 | TRADUÇÃO: (jerga) (de un hombre) ejercer la prostitución masculina
+停 | TRADUÇÃO: parar/detenerse/aparcar (un coche)
+停下 | TRADUÇÃO: parar/detenerse
+停下来 | TRADUÇÃO: parar/detenerse
+停住 | TRADUÇÃO: detenerse/pararse/cesar
+停俸 | TRADUÇÃO: suspender el pago del salario
+停刊 | TRADUÇÃO: (de periódico, revista, etc.) suspender la publicación/dejar de publicarse
+停尸 | TRADUÇÃO: velar el cadáver (antes del entierro o incineración)
+停尸房 | TRADUÇÃO: depósito de cadáveres/morgue
+停尸间 | TRADUÇÃO: morgue/depósito de cadáveres
+停工 | TRADUÇÃO: parar el trabajo/suspender la producción/interrumpir las obras
+停息 | TRADUÇÃO: cesar/detenerse/parar
+停战 | TRADUÇÃO: alto el fuego; cesar el fuego/armisticio; tregua
+停战日 | TRADUÇÃO: Día del Armisticio
+停手 | TRADUÇÃO: parar de hacer algo/detener la mano
+停损单 | TRADUÇÃO: orden de límite de pérdidas/stop-loss (finanzas)
+停损点 | TRADUÇÃO: véase 止損點|止损点
+停摆 | TRADUÇÃO: (de péndulo) dejar de oscilar/(de producción, actividades, etc.) paralizarse/suspenderse/bloqueo patronal (deportes)
+停放 | TRADUÇÃO: aparcar (un coche)/amarrar (un barco)/dejar estacionado en un lugar
+停更 | TRADUÇÃO: pausar o dejar de actualizar (contenido)
+停服 | TRADUÇÃO: cerrar un servidor; (de un servicio) cesar la actividad/interrumpir un tratamiento médico
+停业 | TRADUÇÃO: suspender las actividades comerciales (temporal o permanentemente)/cerrar el negocio
+停机 | TRADUÇÃO: (de máquina) detenerse/apagar/estacionar un avión/concluir el rodaje/suspender la línea telefónica/(móvil de prepago) quedarse sin saldo
+停机坪 | TRADUÇÃO: plataforma de estacionamiento de aviones/pista de estacionamiento
+停机时间 | TRADUÇÃO: tiempo de inactividad/tiempo de parada (red informática, planta de energía, etc.)
+停歇 | TRADUÇÃO: hacer una pausa para descansar/detenerse
+停止 | TRADUÇÃO: parar; detener; cesar
+停步 | TRADUÇÃO: detener el paso/pararse
+停水 | TRADUÇÃO: cortar el suministro de agua; corte de agua
+停泊 | TRADUÇÃO: atrancar/fondear/amarrar (un barco)
+停滞 | TRADUÇÃO: estancamiento/paralización/estancado
+停滞不前 | TRADUÇÃO: estancado sin avanzar (modismo); paralizado/en punto muerto
+停火 | TRADUÇÃO: cesar el fuego/alto el fuego
+停火线 | TRADUÇÃO: línea del alto el fuego
+停产 | TRADUÇÃO: suspender la producción/parar la fabricación
+停用 | TRADUÇÃO: dejar de usar/deshabilitar/suspender/descontinuar
+停留 | TRADUÇÃO: permanecer temporalmente en un lugar/hacer escala
+停当 | TRADUÇÃO: arreglado/resuelto/listo/pronuncia en Taiwán [ting2 dang4]
+停盘 | TRADUÇÃO: suspender la cotización (mercado bursátil)
+停站 | TRADUÇÃO: parada de autobús/estación de parada
+停经 | TRADUÇÃO: cesar la menstruación (por embarazo, menopause u otra condición médica)
+停职 | TRADUÇÃO: suspender de empleo/suspender de funciones
+停航 | TRADUÇÃO: suspender la navegación o los vuelos
+停薪留职 | TRADUÇÃO: excedencia sin sueldo/permiso sin goce de sueldo
+停表 | TRADUÇÃO: cronómetro/(deportes) parar el cronómetro
+停课 | TRADUÇÃO: suspender las clases/cerrar la escuela
+停车 | TRADUÇÃO: detener el vehículo/aparcar/(de máquina) pararse/calarse
+停车位 | TRADUÇÃO: plaza de aparcamiento; sitio de estacionamiento
+停车场 | TRADUÇÃO: aparcamiento/estacionamiento
+停车库 | TRADUÇÃO: garaje/aparcamiento cubierto
+停车格 | TRADUÇÃO: plaza de aparcamiento marcada
+停车站 | TRADUÇÃO: parada de autobús
+停车计时器 | TRADUÇÃO: parquímetro
+停办 | TRADUÇÃO: clausurar/cancelar/cesar actividades
+停电 | TRADUÇÃO: sufrir un corte de electricidad/apagón
+停靠 | TRADUÇÃO: hacer escala en/atracar en/parar
+停靠港 | TRADUÇÃO: puerto de escala
+停靠站 | TRADUÇÃO: parada de autobús o tranvía/escala intermedia/estación de parada
+停顿 | TRADUÇÃO: hacer una pausa/interrumpir/pausa en el discurso
+停飞 | TRADUÇÃO: (de aeronave) estar en tierra/quedarse sin volar
+停食 | TRADUÇÃO: retención de alimentos en el estómago por indigestión (MTC)
+停驶 | TRADUÇÃO: (de trenes, autobuses, barcos, etc.) suspender el servicio
+偝 | TRADUÇÃO: desobedecer/estar de espaldas
+偟 | TRADUÇÃO: (literario) tiempo libre; ocio/variante de 惶
+偡 | TRADUÇÃO: (literario) ordenado/pulcro
+偢 | TRADUÇÃO: mirar fijamente
+健 | TRADUÇÃO: sano/fortalecer/vigorizar/ser bueno en/ser fuerte en
+健保 | TRADUÇÃO: Seguro Nacional de Salud (Taiwán)
+健儿 | TRADUÇÃO: atleta destacado/guerrero heroico
+健全 | TRADUÇÃO: sólido/sano/robusto
+健力 | TRADUÇÃO: levantamiento de potencia/powerlifting
+健友 | TRADUÇÃO: aficionado al gimnasio/compañero de entrenamiento
+健在 | TRADUÇÃO: (de anciano) vivo y con buena salud/(de algo) intacto; fuerte; aún vigente
+健壮 | TRADUÇÃO: robusto/sano/vigoroso
+健将 | TRADUÇÃO: (antiguo) general valiente y diestro/atleta de élite (título de atleta nacional en China) (abr. de 運動健將|运动健将)
+健康 | TRADUÇÃO: salud/saludable/sano
+健康保险 | TRADUÇÃO: seguro médico/seguro de salud
+健康受损 | TRADUÇÃO: daños a la salud
+健康检查 | TRADUÇÃO: véase 體格檢查|体格检查
+健康状况 | TRADUÇÃO: estado de salud
+健康食品 | TRADUÇÃO: alimento saludable
+健忘 | TRADUÇÃO: olvidadizo/que tiene mala memoria
+健忘症 | TRADUÇÃO: amnesia/olvido patológico
+健怡 | TRADUÇÃO: dietético; bajo en calorías (bebidas, etc.)
+健怡可乐 | TRADUÇÃO: Coca-Cola Light/Diet Coke
+健慰器 | TRADUÇÃO: juguete sexual
+健旺 | TRADUÇÃO: robusto/sano/vigoroso/enérgico
+健检 | TRADUÇÃO: (Taiwán) chequeo médico (abr. de 健康檢查|健康检查)
+健步如飞 | TRADUÇÃO: caminar tan rápido como volar (modismo)
+健硕 | TRADUÇÃO: fornido/musculoso y fuerte
+健美 | TRADUÇÃO: sano y bello/hacer ejercicios de fisicoculturismo/abr. de 健美運動|健美运动
+健美操 | TRADUÇÃO: aeróbic/gimnasia aeróbica
+健美运动 | TRADUÇÃO: fisicoculturismo/bodybuilding
+健行 | TRADUÇÃO: (Taiwán) hacer senderismo/excursionismo
+健诊 | TRADUÇÃO: inspección o chequeo (salud, vehículos, medio ambiente, etc.)
+健谈 | TRADUÇÃO: elocuente/buen conversador
+健走 | TRADUÇÃO: marcha rápida (ejercicio físico)
+健身 | TRADUÇÃO: hacer ejercicio/mantenerse en forma/gimnasia
+健身室 | TRADUÇÃO: sala de gimnasio
+健身房 | TRADUÇÃO: gimnasio/club de fitness
+健身馆 | TRADUÇÃO: gimnasio/centro deportivo
+偨 | TRADUÇÃO: desigual
+偩 | TRADUÇÃO: depender de/asemejarse a
+逼 | TRADUÇÃO: variante de 逼/obligar/presionar ‖ forzar (a alguien a hacer algo)/obligar/apremiar/extorsionar/aproximarse a/variante eufemística de 屄
+偫 | TRADUÇÃO: esperar a/almacenar
+偭 | TRADUÇÃO: transgredir/transgresión
+偯 | TRADUÇÃO: sollozar/gemir
+偰 | TRADUÇÃO: contrato (variante de 契)
+偱 | TRADUÇÃO: relatar/contar
+偲 | TRADUÇÃO: (literario) docto; erudito/(literario) talentoso/pronuncia en Taiwán [sai1] ‖ usado en 偲偲
+偲偲 | TRADUÇÃO: (literario) aprender mutuamente y animarse unos a otros
+侧 | TRADUÇÃO: lado/inclinarse hacia/lado lateral ‖ reclinarse de lado
+侧刀旁 | TRADUÇÃO: nombre del radical "cuchillo" lateral 刂 en caracteres chinos (radical Kangxi 18), presente en 到, 利, 別|别, etc.
+侧壁 | TRADUÇÃO: pared lateral
+侧室 | TRADUÇÃO: habitación lateral/concubina
+侧写 | TRADUÇÃO: perfil/perfilamiento (criminal, etc.)
+侧影 | TRADUÇÃO: perfil/silueta
+侧手翻 | TRADUÇÃO: (gimnasia) rueda lateral/voltereta lateral
+侧根 | TRADUÇÃO: raíz lateral (botánica)
+侧生动物 | TRADUÇÃO: parazoos (animales del subreino Parazoa, mayormente esponjas)
+侧目 | TRADUÇÃO: mirar de reojo (expresando temor o indignación)/sorprendido
+侧空翻 | TRADUÇÃO: mortal lateral/rueda sin manos
+侧翻 | TRADUÇÃO: (de un vehículo) volcar; (de una embarcación) zozobrar
+侧耳 | TRADUÇÃO: prestar oído/escuchar atentamente
+侧卧 | TRADUÇÃO: yacer de lado/acostarse de lado
+侧芽 | TRADUÇÃO: yema axilar (botánica)
+侧记 | TRADUÇÃO: (periodismo) crónica al margen/reportaje complementario
+侧身 | TRADUÇÃO: ladeado/de lado
+侧躺 | TRADUÇÃO: tumbarse de lado
+侧载 | TRADUÇÃO: instalar fuera de la tienda oficial/sideload (de app)
+侧边栏 | TRADUÇÃO: (informática) barra lateral
+侧重 | TRADUÇÃO: poner especial emphasis en/centrarse en
+侧重点 | TRADUÇÃO: punto principal/enfoque prioritario
+侧锋 | TRADUÇÃO: (caligrafía) técnica del pincel oblicuo
+侧录 | TRADUÇÃO: capturar datos ilícitamente/clonar tarjetas
+侧链 | TRADUÇÃO: cadena lateral (usada en clasificación de aminoácidos)
+侧门 | TRADUÇÃO: puerta lateral
+侧面 | TRADUÇÃO: lado lateral/perfil/aspecto
+侦 | TRADUÇÃO: explorar/espiar/detectar ‖ variante antigua de 偵|侦
+侦察 | TRADUÇÃO: investigar un delito/reconocer el terreno/reconocimiento/explorador
+侦察兵 | TRADUÇÃO: explorador/espía
+侦察员 | TRADUÇÃO: detective/investigador/explorador
+侦察性 | TRADUÇÃO: de reconocimiento/investigativo
+侦察机 | TRADUÇÃO: avión de reconocimiento/avión espía
+侦探 | TRADUÇÃO: detective/hacer trabajo de detective
+侦查 | TRADUÇÃO: detectar/investigar (un delito)
+侦毒器 | TRADUÇÃO: unidad de detección de tóxicos
+侦毒管 | TRADUÇÃO: tubo detector de gases tóxicos
+侦测 | TRADUÇÃO: detectar/sensar
+侦测器 | TRADUÇÃO: detector/sensor
+侦破 | TRADUÇÃO: resolver (un delito)/descubrir (un complot)
+侦缉 | TRADUÇÃO: rastrear y arrestar/investigar
+侦听 | TRADUÇÃO: escuchar a escondidas/intervenir conversaciones
+侦讯 | TRADUÇÃO: interrogar durante la investigación
+侦办 | TRADUÇÃO: investigar y procesar (un delito)
+偶 | TRADUÇÃO: accidental/imagen/pareja/compañero
+偶一 | TRADUÇÃO: accidentalmente/de vez en cuando
+偶一为之 | TRADUÇÃO: hacer algo de vez en cuando (modismo)/hacer algo como excepción más que como regla
+偶人 | TRADUÇÃO: ídolo/estatua de culto
+偶像 | TRADUÇÃO: ídolo
+偶像剧 | TRADUÇÃO: drama de ídolos/telenovela juvenil con actores famosos
+偶像包袱 | TRADUÇÃO: carga de mantener la imagen de ídolo pop
+偶函数 | TRADUÇÃO: función par (matemáticas)
+偶合 | TRADUÇÃO: coincidencia/casualidad
+偶数 | TRADUÇÃO: número par
+偶极 | TRADUÇÃO: dipolo (p. ej. dipolo magnético)
+偶然 | TRADUÇÃO: incidental/ocasional/de casualidad/al azar
+偶然事件 | TRADUÇÃO: accidente fortuito/evento fortuito
+偶然性 | TRADUÇÃO: casualidad/fortuitidad/serendipia
+偶尔 | TRADUÇÃO: de vez en cuando/a veces/ocasionalmente
+偶犯 | TRADUÇÃO: delincuente ocasional/delito ocasional
+偶而 | TRADUÇÃO: de vez en cuando/ocasionalmente
+偶联反应 | TRADUÇÃO: reacción de acoplamiento (química)
+偶见 | TRADUÇÃO: topar con/ver por casualidad/ocasional
+偶语弃市 | TRADUÇÃO: comentarios casuales pueden llevar a la ejecución pública (modismo)
+偶买嘎 | TRADUÇÃO: (extranjerismo) ¡oh, dios mío!
+偶蹄 | TRADUÇÃO: artiodáctilo (zoología)
+偶蹄目 | TRADUÇÃO: Artiodactyla (mamíferos de pezuña hendida como cerdos, vacas, jirafas)
+偶蹄类 | TRADUÇÃO: artiodáctilos
+偶遇 | TRADUÇÃO: encontrarse por casualidad/toparse
+偷 | TRADUÇÃO: robar/hurtar/sustraer/ladrón/a escondidas
+偷人 | TRADUÇÃO: (de mujer casada) engañar a su marido; tener un amante
+偷偷 | TRADUÇÃO: a escondidas/secretamente/furtivamente
+偷偷摸摸 | TRADUÇÃO: (modismo) furtivo; sigiloso/a hurtadillas
+偷加 | TRADUÇÃO: añadir a escondidas algo que no debería estar
+偷去 | TRADUÇÃO: robar/llevarse furtivamente
+偷取 | TRADUÇÃO: robar/sustraer
+偷吃 | TRADUÇÃO: comer a escondidas/robar comida/ser infiel
+偷天换日 | TRADUÇÃO: embaucar a la gente con maniobras fraudulentas (modismo)/fraude audaz
+偷子 | TRADUÇÃO: ladrón
+偷安 | TRADUÇÃO: eludir responsabilidades/búsqueda egoísta de tranquilidad
+偷工 | TRADUÇÃO: escatimar en el trabajo/esquivar tareas
+偷工减料 | TRADUÇÃO: escatimar en trabajo y materiales (modismo)/trabajo chapucero
+偷师 | TRADUÇÃO: aprender a escondidas las técnicas o habilidades de otro
+偷情 | TRADUÇÃO: mantener un romance clandestino/tener una aventura amorosa
+偷惰 | TRADUÇÃO: escaquearse del trabajo/ser vago
+偷懒 | TRADUÇÃO: holgazanear/ser perezoso
+偷拍 | TRADUÇÃO: fotografiar o grabar a alguien sin su consentimiento
+偷排 | TRADUÇÃO: verter residuos de forma ilegal
+偷换 | TRADUÇÃO: sustituir a escondidas/cambiar furtivamente
+偷摸 | TRADUÇÃO: furtivo; sigiloso
+偷梁换柱 | TRADUÇÃO: lit. robar una viga y reemplazarla por una columna; fig. sustituir el original por una falsificación (modismo)
+偷油婆 | TRADUÇÃO: (dialecto) cucaracha
+偷渡 | TRADUÇÃO: inmigración ilegal/polizón/cruzar clandestinamente la frontera
+偷渡者 | TRADUÇÃO: inmigrante ilegal/polizón
+偷漏 | TRADUÇÃO: evadir (impuestos)
+偷汉 | TRADUÇÃO: véase 偷漢子|偷汉子
+偷汉子 | TRADUÇÃO: (de mujer casada) engañar a su esposo; tener un amante
+偷猎 | TRADUÇÃO: cazar furtivamente
+偷猎者 | TRADUÇÃO: cazador furtivo
+偷生 | TRADUÇÃO: vegetar/vivir sin propósito
+偷盗 | TRADUÇÃO: robar/hurtar
+偷看 | TRADUÇÃO: mirar a escondidas/echar una ojeada furtiva
+偷眼 | TRADUÇÃO: mirar furtivamente
+偷税 | TRADUÇÃO: evasión fiscal/evadir impuestos
+偷空 | TRADUÇÃO: sacar un tiempo libre/aprovechar un momento libre
+偷窥 | TRADUÇÃO: espiar/mirar por la cerradura/ser voyeur
+偷窥狂 | TRADUÇÃO: voyeur/mirón
+偷窃 | TRADUÇÃO: robar/hurtar
+偷笑 | TRADUÇÃO: reírse para sus adentros/sonreír a escondidas
+偷听 | TRADUÇÃO: escuchar a escondidas/intervenir comunicaciones
+偷腥 | TRADUÇÃO: engañar a la pareja/tener una aventura
+偷袭 | TRADUÇÃO: lanzar un ataque sorpresa/hacer una incursión sigilosa
+偷跑 | TRADUÇÃO: escabullirse/(deportes) salir antes de tiempo; salida nula/(informática) filtrarse antes del lanzamiento oficial
+偷运 | TRADUÇÃO: contrabandear/transportar clandestinamente
+偷闲 | TRADUÇÃO: robar un momento de ocio/hacer un descanso en el trabajo ‖ robar un momento de ocio/hacer un descanso en el trabajo
+偷鸡不成蚀把米 | TRADUÇÃO: lit. ir a robar una gallina y perder el arroz usado para atraerla (modismo)/fig. ir por lana y salir trasquilado
+偷鸡不着蚀把米 | TRADUÇÃO: véase 偷雞不成蝕把米|偷鸡不成蚀把米
+偷鸡摸狗 | TRADUÇÃO: robar cosas de poco valor y andar con líos de faldas (modismo)/hurtar/andar en líos amatorios
+偷香窃玉 | TRADUÇÃO: lit. perfume robado y jade sustraído (modismo); devaneos amorosos/relaciones sexuales clandestinas
+偸 | TRADUÇÃO: variante de 偷
+咱 | TRADUÇÃO: variante de 咱 ‖ véase 咱 ‖ yo/nosotros (incluyendo al hablante y al oyente) ‖ variante de 咱
+伪 | TRADUÇÃO: falso/falsificado/ficticio/(prefijo) seudo-/pronuncia en Taiwán [wei4] ‖ variante de 偽|伪
+伪代码 | TRADUÇÃO: seudocódigo
+伪劣 | TRADUÇÃO: inferior y falso/falsificado y defectuoso
+伪君子 | TRADUÇÃO: hipócrita/falso virtuoso
+伪命题 | TRADUÇÃO: falsa proposición/concepto erróneo de base
+伪善 | TRADUÇÃO: hipócrita/falsa bondad
+伪善者 | TRADUÇÃO: hipócrita
+伪基百科 | TRADUÇÃO: Inciclopedia/Uncyclopedia (sitio satírico)
+伪娘 | TRADUÇÃO: (ACG) femboy/chico afeminado
+伪币 | TRADUÇÃO: moneda falsa
+伪托 | TRADUÇÃO: hacer pasar un objeto moderno por antiguo
+伪书 | TRADUÇÃO: libro apócrifo o falsificado
+伪朝 | TRADUÇÃO: dinastía ilegítima o usurpadora
+伪科学 | TRADUÇÃO: seudociencia
+伪纪录片 | TRADUÇÃO: falso documental/falso documental satírico
+伪经 | TRADUÇÃO: escrituras apócrifas/libros apócrifos
+伪装 | TRADUÇÃO: fingir ser/disfrazarse de/camuflaje (militar)/fingimiento
+伪证 | TRADUÇÃO: perjurio/falso testimonio
+伪迹 | TRADUÇÃO: (medicina, procesamiento de señales) artefacto/señal espuria
+伪军 | TRADUÇÃO: ejército títere
+伪造 | TRADUÇÃO: falsificar/forjar
+伪造品 | TRADUÇÃO: falsificación/objeto falsificado
+伪造者 | TRADUÇÃO: falsificador
+伪钞 | TRADUÇÃO: billete falso/dinero falsificado
+伪阴性 | TRADUÇÃO: falso negativo
+伪阳性 | TRADUÇÃO: falso positivo
+伪顶 | TRADUÇÃO: falso techo/falsa techumbre
+伪饰 | TRADUÇÃO: embellecer falsamente; aderezar
+傀 | TRADUÇÃO: grandioso/extraño ‖ usado en 傀儡
+傀儡 | TRADUÇÃO: títere/marioneta (literal y fig.)
+傀儡戏 | TRADUÇÃO: teatro de marionetas
+傀儡政权 | TRADUÇÃO: régimen títere/gobierno títere
+傅 | TRADUÇÃO: apellido Fu ‖ instructor/(literario) enseñar/aplicar (maquillaje)
+傅作义 | TRADUÇÃO: Fu Zuoyi (1895-1974), general y político chino
+傅会 | TRADUÇÃO: variante de 附會|附会
+傅柯 | TRADUÇÃO: Michel Foucault (1926-1984), filósofo francés (Taiwán)
+傅科摆 | TRADUÇÃO: péndulo de Foucault
+傅立叶 | TRADUÇÃO: Charles Fourier (sociólogo y socialista francés, 1772-1837)
+傅立叶变换 | TRADUÇÃO: (matemáticas) transformación de Fourier
+傅说 | TRADUÇÃO: Fu Shuo (siglo XIV a. C.), sabio legendario y primer ministro del rey Wu Ding de Shang
+傅里叶 | TRADUÇÃO: Jean-Baptiste-Joseph Fourier (matemático francés, 1768-1830)
+傈 | TRADUÇÃO: usado en 傈僳
+傈僳 | TRADUÇÃO: etnia Lisu
+傈僳族 | TRADUÇÃO: grupo étnico Lisu
+㐷 | TRADUÇÃO: (ajedrez chino) caballo (del bando rojo) ‖ variante de 罵|骂
+傍 | TRADUÇÃO: cerca/aproximarse/depender de/(jerga) tener una relación íntima con alguien/pronuncia en Taiwán [pang2], [bang1], [bang4]
+傍亮 | TRADUÇÃO: amanecer/al alba
+傍人篱壁 | TRADUÇÃO: depender de otros
+傍人门户 | TRADUÇÃO: estar subordinado a alguien
+傍午 | TRADUÇÃO: hacia el mediodía
+傍大款 | TRADUÇÃO: mantenida por un hombre rico/vivir a expensas de un rico
+傍家儿 | TRADUÇÃO: amante/compañero
+傍晚 | TRADUÇÃO: al atardecer/al caer la noche/al anochecer
+傍柳随花 | TRADUÇÃO: prostituta
+傍近 | TRADUÇÃO: estar cerca de
+傍边 | TRADUÇÃO: al lado/cerca de
+傍黑 | TRADUÇÃO: oscurecer/anochecer
+傎 | TRADUÇÃO: inversión/error
+杰 | TRADUÇÃO: héroe/persona sobresaliente/destacado/ilustre ‖ variante de 傑|杰
+杰伊汉港 | TRADUÇÃO: Ceyhan (puerto mediterráneo turco)
+杰佛兹 | TRADUÇÃO: James Jeffords (1934-2014), exsenador estadounidense por Vermont
+杰作 | TRADUÇÃO: obra maestra
+杰克 | TRADUÇÃO: Jack (nombre)
+杰克·伦敦 | TRADUÇÃO: Jack London (1876-1916), escritor estadounidense
+杰克森 | TRADUÇÃO: Jackson (nombre)
+杰克逊 | TRADUÇÃO: Jackson (nombre)/Jackson, capital de Misisipi
+杰出 | TRADUÇÃO: sobresaliente/destacado/excelente/remarcable
+杰利蝾螈 | TRADUÇÃO: gerrymandering/manipulación de circunscripciones electorales
+杰士派 | TRADUÇÃO: Gatsby (marca japonesa de cosméticos)
+杰夫 | TRADUÇÃO: Jeff o Geoff (nombre)
+杰夫·金尼 | TRADUÇÃO: Jeff Kinney (escritor estadounidense)
+杰奎琳 | TRADUÇÃO: Jacqueline (nombre)
+杰奎琳·肯尼迪 | TRADUÇÃO: Jacqueline Kennedy Onassis (1929-1994)
+杰弗逊 | TRADUÇÃO: Jefferson/capital de Misuri
+杰弗里·乔叟 | TRADUÇÃO: Geoffrey Chaucer (1343-1400), poeta inglés
+杰拉 | TRADUÇÃO: Gela (ciudad de Sicilia)
+杰拉德 | TRADUÇÃO: Gerrard (nombre)
+杰斐逊城 | TRADUÇÃO: Jefferson City, capital de Misuri
+杰瑞 | TRADUÇÃO: Jerry o Gerry (nombre)
+杰瑞·宋飞 | TRADUÇÃO: Jerry Seinfeld (humorista estadounidense)
+杰米 | TRADUÇÃO: Jamie o Jim (nombre)
+杰西 | TRADUÇÃO: Jesse (nombre)
+杰西·欧文斯 | TRADUÇÃO: Jesse Owens (1913-1980), atleta estadounidense
+杰西卡 | TRADUÇÃO: Jessica (nombre)
+杰西卡·艾尔芭 | TRADUÇÃO: Jessica Alba (actriz estadounidense)
+杰里科 | TRADUÇÃO: Jericó (ciudad en Cisjordania)
+杰里米 | TRADUÇÃO: Jeremy (nombre)
+傒 | TRADUÇÃO: (antiguo) nativo de Jiangxi/esperar/sirviente/sendero
+傓 | TRADUÇÃO: variante antigua de 煽
+傔 | TRADUÇÃO: sirviente
+傕 | TRADUÇÃO: apellido Jue ‖ usado en nombres antiguos
+伧 | TRADUÇÃO: tipo vil/rústico/grosero
+伞 | TRADUÇÃO: paraguas/sombrilla/CL:把 ‖ seda labrada/variante de 傘|伞
+伞下 | TRADUÇÃO: bajo el paraguas de/bajo la protección de
+伞兵 | TRADUÇÃO: paracaidista
+伞形 | TRADUÇÃO: en forma de paraguas/umbeliforme
+伞形科 | TRADUÇÃO: Umbelliferae o Apiaceae (familia de la zanahoria, cilantro, etc.)
+伞菌 | TRADUÇÃO: agárico/seta con sombrerillo
+伞降 | TRADUÇÃO: lanzarse en paracaídas/paracaidismo
+备下 | TRADUÇÃO: preparar/disponer (algo para ofrecer)
+备件 | TRADUÇÃO: piezas de repuesto
+备份 | TRADUÇÃO: copia de seguridad/back up
+备取 | TRADUÇÃO: estar en lista de espera (para admisión académica)
+备受 | TRADUÇÃO: recibir en gran medida (respeto, críticas, atención, etc.)
+备品 | TRADUÇÃO: piezas de reserva/repuestos de máquinas
+备尝艰苦 | TRADUÇÃO: véase 備嘗辛苦|备尝辛苦
+备尝辛苦 | TRADUÇÃO: (modismo) haber sufrido todo tipo de penalidades y fatigas
+备妥 | TRADUÇÃO: tener algo listo/preparar convenientemente
+备孕 | TRADUÇÃO: estar buscando el embarazo/prepararse para la gestación
+备忘录 | TRADUÇÃO: memorándum/cuaderno de notas
+备悉 | TRADUÇÃO: estar plenamente informado de/conocer los detalles
+备战 | TRADUÇÃO: prepararse para la guerra
+备抵 | TRADUÇÃO: provisión/reserva para depreciaciones (contabilidad)
+备援 | TRADUÇÃO: respaldo/respaldo de seguridad (Taiwán)
+备料 | TRADUÇÃO: preparar los materiales/preparar el pienso (para ganado)
+备查 | TRADUÇÃO: para futura referencia/para su posterior consulta
+备案 | TRADUÇÃO: registrar/archivar para constancia
+备用 | TRADUÇÃO: reserva/repuesto/de reserva/backup
+备用二级头呼吸器 | TRADUÇÃO: (submarinismo) regulador de reserva/octopus
+备用环 | TRADUÇÃO: anillo de respaldo
+备皮 | TRADUÇÃO: preparar la piel del paciente antes de la cirugía (afeitado, desinfección)
+备细 | TRADUÇÃO: pormenores/detalles
+备考 | TRADUÇÃO: prepararse para un examen/(de un apéndice o nota) para referencia
+备而不用 | TRADUÇÃO: tener preparado por si acaso/conservar para uso futuro hipotético
+备耕 | TRADUÇÃO: preparar las labores de labranza y siembra
+备胎 | TRADUÇÃO: rueda de repuesto/(jerga) plan B amoroso/chico o chica de reserva
+备至 | TRADUÇÃO: al máximo/de todas las formas posibles
+备荒 | TRADUÇÃO: prepararse contra los desastres naturales o hambrunas
+备注 | TRADUÇÃO: observaciones; notas (en una columna o impreso)
+备注栏 | TRADUÇÃO: columna de observaciones
+备课 | TRADUÇÃO: (de un profesor) preparar las clases
+备货 | TRADUÇÃO: preparar el inventario/hacer acopio de mercancías
+备办 | TRADUÇÃO: abastecer/preparar cosas para un evento
+备选 | TRADUÇÃO: alternativo (plan, propuesta, estrategia, etc.)
+备降 | TRADUÇÃO: (aviación) aterrizar en un aeropuerto alternativo
+效仿 | TRADUÇÃO: véase 仿傚|仿效
+傜 | TRADUÇÃO: tribu Yao
+傞 | TRADUÇÃO: danzar de forma desacompasada o inestable
+家 | TRADUÇÃO: usado en 傢伙|家伙 y 傢俱|家俱 ‖ casa/familia/(cortés) mi (hermana, tío, etc.)/clasificador para familias o empresas/escuela filosófica/sufijo para especialista en alguna actividad (-ista, -ero)/CL:個|个
+家伙 | TRADUÇÃO: variante de 家伙 ‖ utensilios domésticos; vajilla; ganado doméstico/(coloq.) tipo; sujeto; arma
+家俱 | TRADUÇÃO: variante de 家具 ‖ variante de 家具
+傢具 | TRADUÇÃO: variante de 家具
+傣 | TRADUÇÃO: grupo étnico Dai
+傣族 | TRADUÇÃO: grupo étnico Dai
+催 | TRADUÇÃO: apremiar/meter prisa/acelerar/apresurar
+催乳 | TRADUÇÃO: estimular la lactancia
+催乳激素 | TRADUÇÃO: prolactina
+催促 | TRADUÇÃO: apremiar/meter prisa
+催化 | TRADUÇÃO: catalizar (una reacción); catálisis
+催化作用 | TRADUÇÃO: acción catalítica/catálisis
+催化剂 | TRADUÇÃO: catalizador
+催吐 | TRADUÇÃO: inducir el vómito
+催吐剂 | TRADUÇÃO: emético/vomitivo
+催命 | TRADUÇÃO: apremiar hasta la extenuación/acosar sin piedad
+催奶 | TRADUÇÃO: promover la producción de leche materna
+催婚 | TRADUÇÃO: presionar a alguien para que se case
+催帐 | TRADUÇÃO: variante de 催賬|催账
+催情 | TRADUÇÃO: promover el celo en animales/afrodisíaco
+催收 | TRADUÇÃO: reclamar el pago de una deuda/cobro de morosos
+催更 | TRADUÇÃO: (jerga) pedir insistentemente nuevos contenidos (a un creador en redes)
+催泪 | TRADUÇÃO: emotivo/conmovedor (historia)/lacrimógeno (gas)
+催泪剂 | TRADUÇÃO: agente lacrimógeno
+催泪大片 | TRADUÇÃO: película dramática/película sentimental (que hace llorar)
+催泪弹 | TRADUÇÃO: granada lacrimógena
+催泪瓦斯 | TRADUÇÃO: gas lacrimógeno
+催熟 | TRADUÇÃO: acelerar la maduración de la fruta
+催生 | TRADUÇÃO: presionar para tener hijos/inducir el parto/(fig.) ser la fuerza impulsora de algo
+催生婆 | TRADUÇÃO: partera que induce el parto
+催生素 | TRADUÇÃO: oxitocina
+催生者 | TRADUÇÃO: impulsor/promotor de un proyecto
+催产 | TRADUÇÃO: inducir el parto
+催产素 | TRADUÇÃO: oxitocina
+催眠 | TRADUÇÃO: hipnotizar/adormecer
+催眠师 | TRADUÇÃO: hipnotizador/hipnoterapeuta
+催眠曲 | TRADUÇÃO: nana/canción de cuna
+催眠状态 | TRADUÇÃO: estado hipnótico/hipnosis
+催眠药 | TRADUÇÃO: fármaco hipnótico/somnífero
+催眠术 | TRADUÇÃO: hipnotismo/hipnosis
+催肥 | TRADUÇÃO: engordar (ganado antes del sacrificio)
+催肥剂 | TRADUÇÃO: preparado para el engorde de animales
+催膘 | TRADUÇÃO: cebar al ganado para engordarlo en poco tiempo
+催芽 | TRADUÇÃO: inducir la germinación de semillas
+催讨 | TRADUÇÃO: exigir el pago de una deuda
+催证 | TRADUÇÃO: solicitar la emisión de una carta de crédito
+催谷 | TRADUÇÃO: impulsar/estimular
+催账 | TRADUÇÃO: reclamar el pago de deudas
+催逼 | TRADUÇÃO: apremiar con insistencia
+佣人 | TRADUÇÃO: sirviente/criado
+佣兵 | TRADUÇÃO: mercenario/(deportes) jugador extranjero contratado
+佣婢 | TRADUÇÃO: sirvienta/criada
+佣妇 | TRADUÇÃO: sirvienta/empleada del hogar
+佣工 | TRADUÇÃO: obrero contratado/sirviente
+傮 | TRADUÇÃO: terminar/dar la vuelta
+偬 | TRADUÇÃO: ocupado/apresurado/desanimado
+傲 | TRADUÇÃO: orgulloso/arrogante/despreciar/inflexible
+傲人 | TRADUÇÃO: impresionante/orgullo/enviable
+傲娇 | TRADUÇÃO: (coloq.) tsundere (distante o brusco por fuera pero tierno por dentro)
+傲岸 | TRADUÇÃO: altivo/orgulloso
+傲慢 | TRADUÇÃO: arrogante/altanero
+傲慢不逊 | TRADUÇÃO: véase 傲慢無禮|傲慢无礼
+傲慢少礼 | TRADUÇÃO: véase 傲慢無禮|傲慢无礼
+傲慢无礼 | TRADUÇÃO: (modismo) arrogante e irrespetuoso/insolente
+傲慢与偏见 | TRADUÇÃO: Orgullo y prejuicio, novela de Jane Austen
+傲气 | TRADUÇÃO: aire de arrogancia/altivez
+傲然 | TRADUÇÃO: con orgullo/altivamente/orgulloso y firme
+傲睨 | TRADUÇÃO: mirar por encima del hombro
+傲立 | TRADUÇÃO: mantenerse erguido con orgullo
+傲视 | TRADUÇÃO: mirar con desdén/despreciar
+傲视群伦 | TRADUÇÃO: talento excepcional que supera a todos (modismo)
+傲雪凌霜 | TRADUÇÃO: véase 欺霜傲雪
+傲雪欺霜 | TRADUÇÃO: véase 欺霜傲雪
+傲霜凌雪 | TRADUÇÃO: véase 欺霜傲雪
+傲霜斗雪 | TRADUÇÃO: véase 欺霜傲雪
+傲骨 | TRADUÇÃO: carácter firme e indomable/orgullo e integridad moral
+传 | TRADUÇÃO: transmitir/difundir/contagiar/pasar/conducir (electricidad) ‖ biografía/relato histórico/comentarios
+传三过四 | TRADUÇÃO: difundir rumores/chismear
+传世 | TRADUÇÃO: transmitido de generación en generación/herencia familiar
+传人 | TRADUÇÃO: enseñar/transmitir/discípulo/descendiente
+传代 | TRADUÇÃO: pasar a la siguiente generación
+传令 | TRADUÇÃO: transmitir una orden
+传令兵 | TRADUÇÃO: (militar) mensajero/ordenanza
+传来 | TRADUÇÃO: (de sonido) llegar a oírse/(de noticias) llegar
+传入 | TRADUÇÃO: importar/transmitir hacia adentro/aferente
+传入神经 | TRADUÇÃO: nervio aferente/neurona sensitiva
+传出 | TRADUÇÃO: transmitir hacia afuera/divulgar/eferente
+传出神经 | TRADUÇÃO: nervio eferente/neurona motora
+传动 | TRADUÇÃO: transmisión (en un motor)
+传动器 | TRADUÇÃO: mecanismo de transmisión
+传动带 | TRADUÇÃO: correa de transmisión
+传动机构 | TRADUÇÃO: mecanismo de transmisión
+传动比 | TRADUÇÃO: relación de transmisión
+传动系统 | TRADUÇÃO: sistema de transmisión
+传动装置 | TRADUÇÃO: dispositivo de transmisión (automóvil)
+传动轴 | TRADUÇÃO: árbol de transmisión/eje de transmisión
+传参 | TRADUÇÃO: pasar un argumento (informática) (abr. de 傳遞參數|传递参数)
+传名 | TRADUÇÃO: difundir la reputación de uno
+传告 | TRADUÇÃO: transmitir un aviso; comunicar
+传呼 | TRADUÇÃO: avisar a alguien de una llamada/llamar al teléfono
+传呼机 | TRADUÇÃO: busca/buscapersonas/pager
+传呼电话 | TRADUÇÃO: teléfono de aviso comunitario
+传唱 | TRADUÇÃO: cantar de generación en generación/difundir una canción
+传唤 | TRADUÇÃO: citación (policial o judicial)/orden de comparecencia
+传单 | TRADUÇÃO: folleto; volante; panfleto
+传回 | TRADUÇÃO: transmitir de vuelta/enviar de regreso
+传报 | TRADUÇÃO: notificación/informe enviado
+传奇 | TRADUÇÃO: legendario/saga de fantasía/relatos románticos clásicos de las dinastías Tang y Song
+传奇人物 | TRADUÇÃO: personaje legendario/leyenda viva
+传媒 | TRADUÇÃO: medios de comunicación/prensa
+传宗接代 | TRADUÇÃO: perpetuar el linaje familiar (modismo)
+传家 | TRADUÇÃO: transmitir de padres a hijos
+传家宝 | TRADUÇÃO: reliquia familiar
+传寄 | TRADUÇÃO: enviar/comunicar/reenviar un mensaje
+传写 | TRADUÇÃO: copiar a mano/transmitir mediante copias
+传导 | TRADUÇÃO: conducir (calor, electricidad, etc.)
+传布 | TRADUÇÃO: difundir; propagar; divulgar
+传帮带 | TRADUÇÃO: transmitir conocimientos y experiencia a los más jóvenes
+传心术 | TRADUÇÃO: telepatía
+传情 | TRADUÇÃO: expresar sentimientos de amor/transmitir afecto
+传感 | TRADUÇÃO: detección/sensado (electrónica)
+传感器 | TRADUÇÃO: sensor; transductor
+传戒 | TRADUÇÃO: (budismo) administrar las reglas monásticas a los ordenandos
+传承 | TRADUÇÃO: herencia cultural; legado/transmitir de generación en generación
+传抄 | TRADUÇÃO: copiar de mano en mano/transmitirse por copias manuscritas
+传授 | TRADUÇÃO: impartir; enseñar; transmitir (conocimientos, habilidades)
+传扬 | TRADUÇÃO: divulgar boca a boca/difundirse
+传播 | TRADUÇÃO: difundir; propagar; divulgar
+传教 | TRADUÇÃO: evangelizar; hacer trabajo misionero
+传教团 | TRADUÇÃO: misión religiosa/grupo de misioneros
+传教士 | TRADUÇÃO: misionero
+传旨 | TRADUÇÃO: transmitir un decreto imperial
+传书鸽 | TRADUÇÃO: paloma mensajera
+传本 | TRADUÇÃO: edición en circulación (de un libro)
+传染 | TRADUÇÃO: contagiar/infeccioso
+传染性 | TRADUÇÃO: contagioso; infeccioso/transmisibilidad
+传染源 | TRADUÇÃO: foco de infección/fuente de contagio
+传染病 | TRADUÇÃO: enfermedad infecciosa; enfermedad contagiosa
+传染病学 | TRADUÇÃO: epidemiología
+传檄 | TRADUÇÃO: proclamar una llamada a las armas
+传法 | TRADUÇÃO: transmitir las doctrinas budistas de maestro a discípulo
+传流 | TRADUÇÃO: difundirse/transmitirse
+传热 | TRADUÇÃO: transmitir calor
+传热学 | TRADUÇÃO: transferencia de calor/termodinámica (física)
+传灯 | TRADUÇÃO: transmitir la luz del Buda
+传球 | TRADUÇÃO: (deportes) pasar el balón
+传产 | TRADUÇÃO: industria tradicional (abr. de 傳統產業|传统产业)
+传略 | TRADUÇÃO: esbozo biográfico/resumen biográfico
+传发 | TRADUÇÃO: ordenar el inicio de un viaje
+传真 | TRADUÇÃO: enviar un fax/fax/(literario) retratar fielmente en pintura
+传真机 | TRADUÇÃO: máquina de fax/telefacsímil
+传真电报 | TRADUÇÃO: fototelegrama
+传神 | TRADUÇÃO: vivo/expresivo/muy logrado
+传票 | TRADUÇÃO: citación/subpoena/comprobante contable
+传种 | TRADUÇÃO: reproducirse/multiplicarse
+传粉 | TRADUÇÃO: polinizar/polinización
+传给 | TRADUÇÃO: pasar a; transferir a; ceder a
+传统 | TRADUÇÃO: tradición; tradicional
+传统医药 | TRADUÇÃO: medicina tradicional china
+传经 | TRADUÇÃO: enseñar las escrituras confucianas/transmitir la experiencia
+传习 | TRADUÇÃO: enseñar y aprender/estudiar e impartir
+传闻 | TRADUÇÃO: rumor/soplo/chisme
+传闻证据 | TRADUÇÃO: testimonio de oídas/prueba de referencia (derecho)
+传声 | TRADUÇÃO: transmitir el sonido
+传声器 | TRADUÇÃO: micrófono
+传声筒 | TRADUÇÃO: megáfono/vocero/persona que repite mecánicamente lo que dice otro
+传艺 | TRADUÇÃO: impartir destrezas/transmitir el oficio
+传见 | TRADUÇÃO: citar para una entrevista
+传观 | TRADUÇÃO: pasar algo de mano en mano para contemplarlo
+传言 | TRADUÇÃO: rumor/habladurías
+传讯 | TRADUÇÃO: (derecho) citar a un testigo; tomar declaración/(Taiwán) enviar un mensaje (abr. de 傳送訊息|传送讯息)
+传记 | TRADUÇÃO: biografía/CL:篇,部
+传话 | TRADUÇÃO: transmitir un recado/transmitir un mensaje
+传话人 | TRADUÇÃO: mensajero/transmisor de recados
+传语 | TRADUÇÃO: comunicar información/transmitir un recado
+传诵 | TRADUÇÃO: recitar y alabar/en boca de todos
+传说 | TRADUÇÃO: leyenda; cuento popular/decirse que...
+传讲 | TRADUÇÃO: predicar
+传谣 | TRADUÇÃO: difundir rumores
+传译 | TRADUÇÃO: traducir/interpretar
+传质 | TRADUÇÃO: (química) transferencia de masa
+传赞 | TRADUÇÃO: epílogo a una biografía
+传载 | TRADUÇÃO: reimprimir; retransmitir por escrito
+传输 | TRADUÇÃO: transmitir/transmisión
+传输媒质 | TRADUÇÃO: medio de transmisión
+传输媒体 | TRADUÇÃO: medio de transmisión
+传输层 | TRADUÇÃO: capa de transporte (redes)
+传输控制 | TRADUÇÃO: control de transmisión
+传输控制协定 | TRADUÇÃO: protocolo de control de transmisión/TCP
+传输服务 | TRADUÇÃO: servicio de transporte
+传输模式 | TRADUÇÃO: modo de transferencia/método de transmisión
+传输率 | TRADUÇÃO: tasa de transmisión
+传输线 | TRADUÇÃO: línea de transmisión
+传输设备 | TRADUÇÃO: equipos de transmisión
+传输距离 | TRADUÇÃO: distancia de transmisión
+传输通道 | TRADUÇÃO: canal de transporte/canal de transmisión
+传输速率 | TRADUÇÃO: (informática) velocidad de transmisión
+传述 | TRADUÇÃO: retransmitir/relatar
+传送 | TRADUÇÃO: transportar; entregar; transmitir
+传送带 | TRADUÇÃO: cinta transportadora/correa de transmisión
+传送服务 | TRADUÇÃO: servicio de entrega/servicio de transporte
+传遍 | TRADUÇÃO: propagarse por todas partes/difundirse ampliamente
+传道 | TRADUÇÃO: predicar/impartir doctrina/sermón
+传道受业 | TRADUÇÃO: enseñar (modismo); impartir formación moral y práctica
+传道书 | TRADUÇÃO: Eclesiastés (libro bíblico)
+传道者 | TRADUÇÃO: misionero/predicador
+传道部 | TRADUÇÃO: departamento de misiones/misión
+传达 | TRADUÇÃO: transmitir/comunicar/trasladar
+传达员 | TRADUÇÃO: conserje/recepcionista
+传达室 | TRADUÇÃO: recepción/conserjería
+传递 | TRADUÇÃO: transmitir; pasar a otro/(matemáticas) transitivo
+传递者 | TRADUÇÃO: mensajero/transmisor
+传销 | TRADUÇÃO: venta piramidal/marketing multinivel
+传开 | TRADUÇÃO: (de noticias) divulgarse/correr la voz
+传阅 | TRADUÇÃO: circular para lectura/pasar de mano en mano para leer
+传颂 | TRADUÇÃO: elogiar públicamente/cantar alabanzas
+伛 | TRADUÇÃO: jorobado
+债 | TRADUÇÃO: deuda/CL:筆|笔
+债主 | TRADUÇÃO: acreedor
+债券 | TRADUÇÃO: bono/obligación
+债务 | TRADUÇÃO: deuda/pasivo/importe adeudado
+债务人 | TRADUÇÃO: deudor
+债务担保证券 | TRADUÇÃO: obligación de deuda colateralizada (CDO)
+债务证券 | TRADUÇÃO: título de deuda/valor de deuda
+债务证书 | TRADUÇÃO: instrumento de deuda
+债多不愁 | TRADUÇÃO: lit. quien está ahogado en deudas deja de preocuparse por ellas (modismo)
+债户 | TRADUÇÃO: deudor
+债权 | TRADUÇÃO: derechos de crédito (derecho)
+债权人 | TRADUÇÃO: acreedor
+债权国 | TRADUÇÃO: país acreedor
+债款 | TRADUÇÃO: deuda/suma adeudada
+债台高筑 | TRADUÇÃO: estar endeudado hasta el cuello (modismo)
+伤 | TRADUÇÃO: herir/lesión/herida
+伤不起 | TRADUÇÃO: (jerga) ¡es insoportable!/¡qué injusto!
+伤亡 | TRADUÇÃO: bajas/heridos y muertos
+伤人 | TRADUÇÃO: herir a alguien
+伤俘 | TRADUÇÃO: heridos y prisioneros
+伤停补时 | TRADUÇÃO: (deportes) tiempo añadido por lesiones/descuento
+伤别 | TRADUÇÃO: triste despedida
+伤势 | TRADUÇÃO: gravedad de las heridas
+伤及无辜 | TRADUÇÃO: dañar a inocentes (modismo)
+伤口 | TRADUÇÃO: herida/corte
+伤和气 | TRADUÇÃO: dañar la buena armonía/herir los sentimientos
+伤员 | TRADUÇÃO: herido/lesionado
+伤天害理 | TRADUÇÃO: cometer atrocidades que claman al cielo (modismo); actos indignantes
+伤害 | TRADUÇÃO: herir; perjudicar; dañar
+伤寒 | TRADUÇÃO: fiebre tifoidea
+伤寒沙门氏菌 | TRADUÇÃO: Salmonella typhimurium
+伤寒症 | TRADUÇÃO: fiebre tifoidea
+伤弓之鸟 | TRADUÇÃO: véase 驚弓之鳥|惊弓之鸟
+伤心 | TRADUÇÃO: entristecerse/estar desconsolado/sentirse profundamente dolido
+伤心惨目 | TRADUÇÃO: (modismo) desgarrador e insoportable de contemplar
+伤心欲绝 | TRADUÇÃO: (modismo) desolado por la pena/desconsolado
+伤心致死 | TRADUÇÃO: morir de pena/morir con el corazón roto
+伤心蒿目 | TRADUÇÃO: afligirse profundamente
+伤患 | TRADUÇÃO: paciente herido/lesionado
+伤悲 | TRADUÇÃO: triste/afligido (literario)
+伤悼 | TRADUÇÃO: llorar la muerte de un familiar/estar de luto
+伤感 | TRADUÇÃO: melancólico/sentimental/triste
+伤怀 | TRADUÇÃO: entristecido/afligido
+伤残 | TRADUÇÃO: discapacitado/mutilado/dañado
+伤残人员 | TRADUÇÃO: personal discapacitado o herido
+伤毫毛 | TRADUÇÃO: véase 動毫毛|动毫毛
+伤疤 | TRADUÇÃO: cicatriz/CL:道
+伤病员 | TRADUÇÃO: enfermos y heridos
+伤痕 | TRADUÇÃO: cicatriz/hematoma
+伤痕累累 | TRADUÇÃO: lleno de magulladuras y cicatrices por todo el cuerpo
+伤痛 | TRADUÇÃO: dolor (de herida)/pena
+伤筋动骨 | TRADUÇÃO: sufrir una lesión grave (modismo)
+伤筋断骨 | TRADUÇÃO: sufrir una lesión ósea o muscular grave (modismo)
+伤者 | TRADUÇÃO: herido/víctima (de un accidente)
+伤耗 | TRADUÇÃO: mermas/deterioro de mercancías
+伤脑筋 | TRADUÇÃO: ser un verdadero quebradero de cabeza/romperse la cabeza
+伤号 | TRADUÇÃO: bajas/soldados heridos
+伤身 | TRADUÇÃO: ser perjudicial para la salud
+伤透 | TRADUÇÃO: romper (el corazón de alguien); causar profunda pena
+伤道 | TRADUÇÃO: trayectoria de la herida (de una bala)
+伤风 | TRADUÇÃO: resfriarse/catarro
+伤风败俗 | TRADUÇÃO: atentar contra la moral y las buenas costumbres (modismo)
+傺 | TRADUÇÃO: detener/impedir
+傻 | TRADUÇÃO: tonto/bobalicón
+傻B | TRADUÇÃO: variante de 傻屄
+傻X | TRADUÇÃO: véase 傻叉
+傻不愣登 | TRADUÇÃO: atontado; alelado
+傻乎乎 | TRADUÇÃO: tontorrón/alelado
+傻人有傻福 | TRADUÇÃO: la suerte favorece a los tontos (modismo)
+傻冒 | TRADUÇÃO: idiota/tonto
+傻卵 | TRADUÇÃO: (vulgar) imbécil/tonto del culo
+傻叉 | TRADUÇÃO: imbécil/cabeza de chorlito
+傻大个 | TRADUÇÃO: marimacho/grandullón atontado
+傻大个儿 | TRADUÇÃO: hombreote atontado
+傻子 | TRADUÇÃO: idiota/tonto
+傻屄 | TRADUÇÃO: (vulgar) gilipollas/imbécil
+傻屌 | TRADUÇÃO: (vulgar) atontado/estúpido
+傻帽 | TRADUÇÃO: tonto/idiota
+傻帽儿 | TRADUÇÃO: variante erhua de 傻帽
+傻愣愣 | TRADUÇÃO: mirando estúpidamente; petrificado
+傻气 | TRADUÇÃO: tontería/aspecto atontado
+傻爆眼 | TRADUÇÃO: (jerga) atónito/boquiabierto
+傻瓜 | TRADUÇÃO: idiota/tonto
+傻瓜干面 | TRADUÇÃO: fideos secos estilo taiwanés aliñados al gusto del cliente
+傻瓜式 | TRADUÇÃO: a prueba de tontos/de uso ultrasencillo
+傻瓜相机 | TRADUÇÃO: cámara compacta/cámara de apuntar y disparar
+傻白甜 | TRADUÇÃO: (jerga de Internet) chica dulce, ingenua y sin malicia
+傻眼 | TRADUÇÃO: (coloq.) atónito; boquiabierto; perplejo
+傻笑 | TRADUÇÃO: sonreír estúpidamente/reír tontamente
+傻缺 | TRADUÇÃO: (jerga) idiota; tonto
+傻蛋 | TRADUÇÃO: muchacho estúpido/simplón
+傻里傻气 | TRADUÇÃO: tontorrón/simplón
+傻话 | TRADUÇÃO: bobadas/disparates
+傻逼 | TRADUÇÃO: variante de 傻屄
+傻头傻脑 | TRADUÇÃO: (modismo) atontado; despistado
+倾 | TRADUÇÃO: volcar/colapsar/inclinarse/derramar
+倾佩 | TRADUÇÃO: admirar profundamente
+倾倒 | TRADUÇÃO: volcar; caer/admirar fervientemente; rendirse ante ‖ verter; vaciar
+倾侧 | TRADUÇÃO: inclinarse a un lado/inclinado
+倾力 | TRADUÇÃO: poner todo el empeño/esforzarse al máximo
+倾动 | TRADUÇÃO: admirar/conmover
+倾危 | TRADUÇÃO: en peligro de colapso/en situación precaria
+倾卸 | TRADUÇÃO: bascular/descargar volcando
+倾吐 | TRADUÇÃO: desahogar (emociones)/vomitar
+倾吐胸臆 | TRADUÇÃO: abrir el corazón/expresar libremente los sentimientos
+倾吐衷肠 | TRADUÇÃO: desahogarse/abrir el corazón
+倾向 | TRADUÇÃO: tendencia/orientación/inclinación
+倾向性 | TRADUÇÃO: tendencia/orientación
+倾向于 | TRADUÇÃO: inclinarse a/preferir/ser propenso a
+倾囊 | TRADUÇÃO: vaciar el bolsillo/(fig.) dar todo lo que se tiene para ayudar
+倾国倾城 | TRADUÇÃO: lit. capaz de hacer caer una ciudad o un reino (modismo); fig. (de mujer) de una belleza deslumbrante
+倾城 | TRADUÇÃO: belleza arrolladora/ruina del Estado
+倾城倾国 | TRADUÇÃO: véase 傾國傾城|倾国倾城
+倾家 | TRADUÇÃO: arruinar a la familia/perder la fortuna
+倾家荡产 | TRADUÇÃO: arruinar la fortuna familiar (modismo)
+倾巢 | TRADUÇÃO: salir en masa (toda la guarida o nido)
+倾巢来犯 | TRADUÇÃO: atacarlo todo en masa (modismo)
+倾巢而出 | TRADUÇÃO: salir en masa (modismo); desplegar todas las fuerzas
+倾心 | TRADUÇÃO: admirar de todo corazón/enamorarse de
+倾心吐胆 | TRADUÇÃO: abrir el corazón con total sinceridad (modismo)
+倾慕 | TRADUÇÃO: adorar/admirar profundamente
+倾斜 | TRADUÇÃO: inclinarse/estar inclinado/pendiente
+倾斜度 | TRADUÇÃO: grado de inclinación/pendiente
+倾服 | TRADUÇÃO: admirar/rendirse ante
+倾泄 | TRADUÇÃO: caer en torrente/(fig.) desahogo de emociones
+倾注 | TRADUÇÃO: volcarse en/dedicar enteramente
+倾泻 | TRADUÇÃO: caer a torrentes/derramarse
+倾盆 | TRADUÇÃO: aguacero/lluvia a cántaros
+倾盆大雨 | TRADUÇÃO: (modismo) lluvia torrencial; llover a cántaros
+倾尽 | TRADUÇÃO: dar todo lo que se tiene/hacer todo lo posible
+倾箱倒箧 | TRADUÇÃO: (modismo) vaciar todas las arcas/sacar todo lo disponible
+倾羡 | TRADUÇÃO: admirar/envidiar sanamente
+倾翻 | TRADUÇÃO: volcar/volcarse
+倾耳 | TRADUÇÃO: aguzar el oído/escuchar atentamente
+倾耳细听 | TRADUÇÃO: aguzar el oído y escuchar con atención
+倾耳而听 | TRADUÇÃO: escuchar atentamente
+倾听 | TRADUÇÃO: escuchar con atención/prestar oídos
+倾听者 | TRADUÇÃO: oyente/persona que escucha
+倾盖 | TRADUÇÃO: encontrarse de paso/simpatizar al instante
+倾覆 | TRADUÇÃO: zozobrar/colapsar/derrocar
+倾角 | TRADUÇÃO: ángulo de inclinación/inclinación
+倾诉 | TRADUÇÃO: contar todo (lo que se lleva en el corazón)/desahogarse
+倾谈 | TRADUÇÃO: mantener una conversación íntima
+倾轧 | TRADUÇÃO: discordia interna/lucha de facciones
+倾销 | TRADUÇÃO: hacer dumping (mercancías)
+倾陷 | TRADUÇÃO: calumniar/urdir una trampa contra un inocente
+倾颓 | TRADUÇÃO: derrumbarse/colapsar
+傿 | TRADUÇÃO: nombre de un inmortal/nombre antiguo/apellido Yan ‖ precio engañoso
+偻 | TRADUÇÃO: usado en 佝僂|佝偻/usado en 僂儸|偻㑩 ‖ jorobado
+偻㑩 | TRADUÇÃO: variante de 嘍囉|喽啰
+僃 | TRADUÇÃO: variante antigua de 備|备
+僄 | TRADUÇÃO: ágil/ligero
+仅 | TRADUÇÃO: apenas/solo/solamente
+仅作参考 | TRADUÇÃO: solo como referencia
+仅供 | TRADUÇÃO: solo para
+仅供参考 | TRADUÇÃO: solo como referencia
+仅仅 | TRADUÇÃO: apenas/únicamente/solo
+仅次于 | TRADUÇÃO: solo por detrás de...; en segundo lugar después de...
+仅此而已 | TRADUÇÃO: (modismo) eso es todo; nada más que esto
+僇 | TRADUÇÃO: despreciar/insultar
+佥 | TRADUÇÃO: todos
+働 | TRADUÇÃO: (kokuji japonés) trabajar; trabajo
+僎 | TRADUÇÃO: reunir/recolectar
+像 | TRADUÇÃO: parecerse/ser como/como/apariencia/imagen/retrato/imagen en una función (matemáticas)
+像元 | TRADUÇÃO: (teledetección) píxel
+像差 | TRADUÇÃO: (óptica) aberración
+像模像样 | TRADUÇÃO: decente/presentable/con buena presencia/pronuncia en Taiwán [xiang4 mo2 xiang4 yang4]
+像样 | TRADUÇÃO: presentable/decente/adecuado
+像片 | TRADUÇÃO: variante de 相片
+像章 | TRADUÇÃO: insignia/chapa con efigie
+像素 | TRADUÇÃO: píxel
+像话 | TRADUÇÃO: razonable; adecuado (usualmente en negativo o pregunta retórica)
+像貌 | TRADUÇÃO: variante de 相貌
+像那么回事儿 | TRADUÇÃO: nada mal; bastante convincente
+侨 | TRADUÇÃO: emigrante/residir en el extranjero
+侨务 | TRADUÇÃO: asuntos relativos a los chinos en el ultramar
+侨务委员会 | TRADUÇÃO: Consejo de Asuntos de los Chinos en el Ultramar (Taiwán)
+侨居 | TRADUÇÃO: residir en el extranjero/vivir fuera del lugar natal
+侨民 | TRADUÇÃO: expatriados/residentes en el extranjero
+侨生 | TRADUÇÃO: estudiante de ascendencia china que regresa a China o Taiwán a estudiar (abr. de 華僑學生|华侨学生)
+侨眷 | TRADUÇÃO: familiares de chinos residentes en el extranjero
+侨胞 | TRADUÇÃO: compatriotas residentes en el extranjero
+侨乡 | TRADUÇÃO: tierra natal de emigrantes chinos
+僔 | TRADUÇÃO: congregarse/agolparse
+仆人 | TRADUÇÃO: sirviente/criado
+仆役 | TRADUÇÃO: sirviente/criado
+仆欧 | TRADUÇÃO: (antiguo) camarero/servidor
+僖 | TRADUÇÃO: apellido Xi ‖ cauto/alegre
+僚 | TRADUÇÃO: apellido Liao ‖ burócrata/colega
+僚机 | TRADUÇÃO: avión punto/avión escolta
+僜 | TRADUÇÃO: minoría étnica Deng del Tíbet
+僝 | TRADUÇÃO: injuriar/insultar
+僣 | TRADUÇÃO: extralimitarse/usurpar
+𫢸 | TRADUÇÃO: grande/severo
+侥 | TRADUÇÃO: por mera suerte ‖ usado en 僬僥|僬侥
+侥幸 | TRADUÇÃO: por suerte/por chiripa
+侥幸心理 | TRADUÇÃO: confiar en la suerte/hacerse ilusiones
+僦 | TRADUÇÃO: (literario) alquilar; arrendar
+僧 | TRADUÇÃO: monje budista (abr. de 僧伽)
+僧人 | TRADUÇÃO: monje
+僧伽 | TRADUÇÃO: (budismo) sangha/comunidad monástica/monje
+僧侣 | TRADUÇÃO: monje/clérigo budista
+僧俗 | TRADUÇÃO: monjes budistas y laicos
+僧加罗语 | TRADUÇÃO: idioma cingalés
+僧多粥少 | TRADUÇÃO: lit. muchos monjes y poca gachas (modismo)/fig. la demanda supera a la oferta
+僧尼 | TRADUÇÃO: monjes y monjas (budistas)
+僧帽水母 | TRADUÇÃO: (zoología) carabela portuguesa (Physalia physalis)
+僧帽猴 | TRADUÇÃO: mono capuchino
+僧帽瓣 | TRADUÇÃO: véase 二尖瓣
+僧徒 | TRADUÇÃO: monjes budistas
+僧院 | TRADUÇÃO: monasterio budista/abadía
+偾 | TRADUÇÃO: instigar/arruinar/destruir
+僩 | TRADUÇÃO: valiente/animoso
+僬 | TRADUÇÃO: usado en 僬僥|僬侥/usado en 僬僬
+僬侥 | TRADUÇÃO: enanos legendarios del oeste de China/bárbaros del suroeste
+僬僬 | TRADUÇÃO: (arcaico) de mente clara/(arcaico) bullicioso
+僭 | TRADUÇÃO: extralimitarse en la autoridad
+僭主 | TRADUÇÃO: tirano/usurpador
+僭主政治 | TRADUÇÃO: tiranía/gobierno usurpador
+僭称 | TRADUÇÃO: arrogarse un título sin autoridad
+僭越 | TRADUÇÃO: usurpar/extralimitarse en las funciones
+僮 | TRADUÇÃO: variante antigua de 壯|壮, grupo étnico Zhuang de Guangxi ‖ sirviente joven
+僮仆 | TRADUÇÃO: sirviente joven
+僮族 | TRADUÇÃO: término antiguo para 壯族|壮族 (etnia Zhuang de Guangxi)
+僯 | TRADUÇÃO: avergonzado
+僰 | TRADUÇÃO: nombre de un grupo étnico antiguo
+雇 | TRADUÇÃO: variante de 雇 ‖ emplear/contratar/alquilar
+雇主 | TRADUÇÃO: variante de 雇主 ‖ empleador/patrono
+雇佣 | TRADUÇÃO: emplear; contratar ‖ emplear; contratar
+雇凶 | TRADUÇÃO: contratar a un sicario
+雇用 | TRADUÇÃO: emplear; contratar
+僳 | TRADUÇÃO: usado en 傈僳
+僴 | TRADUÇÃO: variante antigua de 僩
+僵 | TRADUÇÃO: rígido/bloqueado/cadáver tieso ‖ variante de 僵
+僵住 | TRADUÇÃO: inmóvil/petrificado
+僵住症 | TRADUÇÃO: catalepsia
+僵化 | TRADUÇÃO: volverse rígido/esclerosarse
+僵固性 | TRADUÇÃO: rigidez
+僵局 | TRADUÇÃO: punto muerto/callejón sin salida/impasse
+僵尸网络 | TRADUÇÃO: red zombi/botnet
+僵尸车 | TRADUÇÃO: (coloq.) vehículo abandonado
+僵持 | TRADUÇÃO: estar en punto muerto/bloqueado
+僵直 | TRADUÇÃO: rígido/tieso/inflexible
+僵硬 | TRADUÇÃO: rígido; entumecido
+僵卧 | TRADUÇÃO: yacer inmóvil y rígido
+价位 | TRADUÇÃO: nivel de precios
+价值 | TRADUÇÃO: valor/valía/(ética, cultura) valores
+价值增殖 | TRADUÇÃO: valorización (en teoría marxista)
+价值工程 | TRADUÇÃO: ingeniería de valor
+价值标准 | TRADUÇÃO: normas de valor/estándares
+价值观 | TRADUÇÃO: sistema de valores; escala de valores
+价值连城 | TRADUÇÃO: de incalculable valor/inestimable
+价值量 | TRADUÇÃO: magnitud de valor (en economía)
+价层 | TRADUÇÃO: capa de valencia (química)
+价差 | TRADUÇÃO: diferencia de precio/diferencial
+价廉物美 | TRADUÇÃO: barato y de buena calidad (modismo)
+价格 | TRADUÇÃO: precio
+价格战 | TRADUÇÃO: guerra de precios
+价格标签 | TRADUÇÃO: etiqueta de precio
+价格表 | TRADUÇÃO: lista de precios/tabla de precios
+价款 | TRADUÇÃO: importe/coste
+价目 | TRADUÇÃO: precio marcado/tarifa
+价码 | TRADUÇÃO: etiqueta de precio/precio exigido
+价签 | TRADUÇÃO: etiqueta de precio
+价钱 | TRADUÇÃO: precio
+价键 | TRADUÇÃO: enlace de valencia (química)
+价电子 | TRADUÇÃO: electrón de valencia
+僻 | TRADUÇÃO: remoto/apartado/excéntrico
+僻地 | TRADUÇÃO: lugar apartado/paraje remoto
+僻处 | TRADUÇÃO: ubicarse en un lugar remoto/estar apartado
+僻远 | TRADUÇÃO: distante y apartado
+僻静 | TRADUÇÃO: solitario/tranquilo y apartado
+僾 | TRADUÇÃO: difuso/brumoso/parecer
+僿 | TRADUÇÃO: pequeño, diminuto/falto de sinceridad
+仪 | TRADUÇÃO: aparato/rito/apariencia/regalo/ceremonia
+仪仗 | TRADUÇÃO: armamento ceremonial
+仪仗队 | TRADUÇÃO: guardia de honor
+仪典 | TRADUÇÃO: ceremonia/ritual
+仪器 | TRADUÇÃO: instrumento; aparato/CL:臺|台
+仪器表 | TRADUÇÃO: indicador/medidor
+仪容 | TRADUÇÃO: aspecto físico/presencia
+仪式 | TRADUÇÃO: ceremonia/rito
+仪征 | TRADUÇÃO: véase 儀徵市|仪征市
+仪征市 | TRADUÇÃO: Yizheng, ciudad a nivel de condado en Yangzhou 揚州市|扬州市, Jiangsu
+仪态 | TRADUÇÃO: porte/presencia física
+仪礼 | TRADUÇÃO: Rites and Ceremonies, parte del Libro de los Ritos confuciano
+仪节 | TRADUÇÃO: protocolo ceremonial/etiqueta
+仪卫 | TRADUÇÃO: guardia de honor
+仪表 | TRADUÇÃO: aspecto/porte/medidor (instrumento de medición)
+仪表放大器 | TRADUÇÃO: amplificador de instrumentación
+仪表盘 | TRADUÇÃO: salpicadero/panel de instrumentos
+仪队 | TRADUÇÃO: escuadra de desfile/guardia de honor
+仪陇 | TRADUÇÃO: véase 儀隴縣|仪陇县
+仪陇县 | TRADUÇÃO: Yilong, condado en Nanchong 南充市, Sichuan
+侬 | TRADUÇÃO: tú (dialecto Wu)/yo (clásico)
+儃 | TRADUÇÃO: indeciso/irresoluto
+亿 | TRADUÇÃO: cien millones (100.000.000)
+亿万 | TRADUÇÃO: cientos de millones/incontables
+亿万富翁 | TRADUÇÃO: multimillonario/billonario
+亿万富豪 | TRADUÇÃO: multimillonario
+儅 | TRADUÇÃO: detener
+儆 | TRADUÇÃO: advertir/amonestar
+儆戒 | TRADUÇÃO: advertir/amonestar
+儇 | TRADUÇÃO: (literario) ingenioso/(literario) frívolo
+侩 | TRADUÇÃO: corredor de comercio/intermediario
+俭 | TRADUÇÃO: frugal; austero
+俭以养廉 | TRADUÇÃO: (modismo) la frugalidad cultiva la honestidad
+俭学 | TRADUÇÃO: ser austero para pagarse la educación
+俭朴 | TRADUÇÃO: frugal y sencillo/frugalidad
+俭用 | TRADUÇÃO: economizar; ser frugal
+俭省 | TRADUÇÃO: ahorrativo; parco
+俭约 | TRADUÇÃO: frugal; austero
+俭素 | TRADUÇÃO: austero y sencillo
+俭腹 | TRADUÇÃO: parco de conocimientos; ignorante
+俭薄 | TRADUÇÃO: escaso; austero
+儊 | TRADUÇÃO: áspero y rugoso
+儋 | TRADUÇÃO: llevar a hombros
+儋州 | TRADUÇÃO: véase 儋州市
+儋州市 | TRADUÇÃO: Danzhou, ciudad-prefectura en la provincia de Hainan 海南省
+儋县 | TRADUÇÃO: condado de Dan, Hainan
+儌 | TRADUÇÃO: por mera suerte
+儍 | TRADUÇÃO: variante de 傻
+傤 | TRADUÇÃO: carga/variante antigua de 載|载/transportar
+傧 | TRADUÇÃO: padrino de boda/atender
+傧相 | TRADUÇÃO: padrino o dama de honor en una boda
+儒 | TRADUÇÃO: erudito confuciano/Confuciano
+儒勒·凡尔纳 | TRADUÇÃO: Julio Verne (1828-1905), novelista francés de ciencia ficción
+儒士 | TRADUÇÃO: erudito confuciano
+儒学 | TRADUÇÃO: confucianismo/estudios confucianos
+儒家 | TRADUÇÃO: escuela confuciana, fundada por Confucio 孔子 y Mencio 孟子
+儒教 | TRADUÇÃO: confucianismo
+儒林外史 | TRADUÇÃO: Los eruditos, novela satírica de la dinastía Qing de Wu Jingzi 吳敬梓|吴敬梓
+儒生 | TRADUÇÃO: estudiante o erudito confuciano (antiguo)
+儒略日 | TRADUÇÃO: día juliano (astronomía)
+儒者 | TRADUÇÃO: erudito confuciano
+儒艮 | TRADUÇÃO: dugongo
+儒雅 | TRADUÇÃO: erudito/culto y refinado/cortés
+儓 | TRADUÇÃO: sirviente
+俦 | TRADUÇÃO: camaradas/amigos/compañeros
+侪 | TRADUÇÃO: clase/compañero
+拟 | TRADUÇÃO: dudoso/variante de 擬|拟/emular ‖ planear/elaborar (un borrador)/imitar/seudo-
+尽 | TRADUÇÃO: en el grado máximo/límite/dar prioridad a ‖ agotar/finalizar/al máximo/extenuado/todo/completamente
+尽先 | TRADUÇÃO: en primer lugar/prioridad absoluta
+尽可能 | TRADUÇÃO: en la medida de lo posible; según la propia capacidad ‖ véase 儘可能|尽可能
+尽快 | TRADUÇÃO: lo antes posible; tan pronto como sea posible ‖ véase 儘快|尽快
+尽数 | TRADUÇÃO: (Taiwán) en su totalidad; todo ello ‖ contar la totalidad ‖ en su totalidad; todo ello
+尽早 | TRADUÇÃO: lo antes posible/cuanto antes
+尽管 | TRADUÇÃO: a pesar de/aunque/sin dudar/no dude en
+尽自 | TRADUÇÃO: siempre/invariablemente
+尽量 | TRADUÇÃO: en la medida de lo posible/al máximo ‖ en la medida de lo posible/al máximo
+儜 | TRADUÇÃO: débil/fatigado/en apuros
+儞 | TRADUÇÃO: variante antigua de 你
+偿 | TRADUÇÃO: reembolsar/compensar/cumplir (deseos, etc.)
+偿付 | TRADUÇÃO: saldar/pagar
+偿债 | TRADUÇÃO: pagar una deuda/amortizar
+偿命 | TRADUÇÃO: pagar con la propia vida
+偿清 | TRADUÇÃO: saldar completamente una deuda
+偿还 | TRADUÇÃO: reembolsar; devolver
+儡 | TRADUÇÃO: usado en 傀儡
+儤 | TRADUÇÃO: de guardia nocturna
+儦 | TRADUÇÃO: caminar de un lado a otro
+儩 | TRADUÇÃO: el fin/concluir
+优 | TRADUÇÃO: excelente/superior
+优伶 | TRADUÇÃO: (antiguo) actor/artista escénico
+优先 | TRADUÇÃO: tener prioridad; tener preferencia
+优先承购权 | TRADUÇÃO: derecho de tanteo/derecho de compra preferente
+优先级 | TRADUÇÃO: (informática) nivel de prioridad/precedencia
+优先股 | TRADUÇÃO: acción preferente
+优先认股权 | TRADUÇÃO: derecho de suscripción preferente
+优兔 | TRADUÇÃO: YouTube (transcripción no oficial en chino)
+优劣 | TRADUÇÃO: lo bueno y lo malo/méritos y defectos
+优胜 | TRADUÇÃO: vencedor; ganador; excelente
+优胜劣败 | TRADUÇÃO: véase 優勝劣汰|优胜劣汰
+优胜劣汰 | TRADUÇÃO: supervivencia del más apto (modismo)
+优势 | TRADUÇÃO: superioridad/ventaja/dominio
+优化 | TRADUÇÃO: optimizar/(eufemismo empresarial) despedir personal
+优厚 | TRADUÇÃO: generoso, abundante (salario, retribución)
+优哉游哉 | TRADUÇÃO: véase 悠哉悠哉
+优孟 | TRADUÇÃO: You Meng, famoso bufón de la corte del rey Zhuang de Chu 楚莊王|楚庄王
+优尼科 | TRADUÇÃO: Unocal (compañía petrolera estadounidense)
+优待 | TRADUÇÃO: trato preferencial; dar trato preferencial
+优待券 | TRADUÇÃO: cupón de descuento/entrada de cortesía
+优待票 | TRADUÇÃO: billete con descuento (para estudiantes, etc.)
+优惠 | TRADUÇÃO: ventaja/privilegio/descuento/términos favorables
+优惠券 | TRADUÇÃO: cupón/vale de descuento
+优惠贷款 | TRADUÇÃO: (finanzas) préstamo concesional; préstamo blando
+优于 | TRADUÇÃO: superar a/ser superior a
+优柔 | TRADUÇÃO: indeciso/suave/débil

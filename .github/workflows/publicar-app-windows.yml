@@ -70,6 +70,7 @@ jobs:
             }
             "versao=$versao"               | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
             "tag=app-v$versao"             | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+            "canal=estavel"                | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
             "estavel=true"                 | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
             "titulo=Hanzi Tracker $versao" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
           } else {
@@ -80,9 +81,12 @@ jobs:
             $sha = $env:GITHUB_SHA.Substring(0, 7)
             "versao=$versao"                          | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
             "tag=app-dev"                             | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+            "canal=dev"                               | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
             "estavel=false"                           | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
             "titulo=Hanzi Tracker (dev, commit $sha)" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
           }
+          $dataBuild = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
+          "dataBuild=$dataBuild"                      | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
 
       - name: Gravar a versão calculada em wails.json
         shell: pwsh
@@ -98,6 +102,11 @@ jobs:
           New-Item -ItemType Directory -Force -Path 'wails_app/build/windows/installer' | Out-Null
           Copy-Item 'wails_app/nsis-instalador/project.nsi' 'wails_app/build/windows/installer/project.nsi' -Force
 
+      - name: Validar as notas de versão (go test)
+        working-directory: wails_app
+        # Nota de versão mal escrita barra a release: o teste carrega as notas embutidas em todos os idiomas.
+        run: go test ./notasversao/
+
       - name: Buildar o app + instalador (wails build -nsis)
         working-directory: wails_app
         shell: pwsh
@@ -106,7 +115,7 @@ jobs:
         # realmente produziu o .exe que o step de release vai anexar.
         run: |
           makensis /VERSION
-          wails build -nsis -platform windows/amd64
+          wails build -nsis -platform windows/amd64 -ldflags "-X wails_app/atualizacao.Versao=${{ steps.versao.outputs.versao }} -X wails_app/atualizacao.Canal=${{ steps.versao.outputs.canal }} -X wails_app/atualizacao.Commit=$env:GITHUB_SHA -X wails_app/atualizacao.DataBuild=${{ steps.versao.outputs.dataBuild }}"
           if (-not (Test-Path 'build/bin/HanziTracker-amd64-installer.exe')) {
             throw 'wails build terminou sem gerar build/bin/HanziTracker-amd64-installer.exe'
           }
@@ -120,3 +129,23 @@ jobs:
           target_commitish: ${{ github.sha }}
           files: wails_app/build/bin/HanziTracker-amd64-installer.exe
           fail_on_unmatched_files: true
+
+      - name: Gerar e publicar o manifesto de atualização (atualizacao-windows.json)
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $caminhoInstalador = 'wails_app/build/bin/HanziTracker-amd64-installer.exe'
+          $hash = (Get-FileHash -Path $caminhoInstalador -Algorithm SHA256).Hash.ToLowerInvariant()
+          $tamanho = (Get-Item $caminhoInstalador).Length
+          $manifesto = [ordered]@{
+            versao       = '${{ steps.versao.outputs.versao }}'
+            commit       = "$env:GITHUB_SHA"
+            dataBuild    = '${{ steps.versao.outputs.dataBuild }}'
+            arquivo      = 'HanziTracker-amd64-installer.exe'
+            sha256       = $hash
+            tamanhoBytes = $tamanho
+          }
+          $caminhoManifesto = 'wails_app/build/bin/atualizacao-windows.json'
+          ($manifesto | ConvertTo-Json -Compress) | Set-Content -Path $caminhoManifesto -Encoding utf8
+          gh release upload '${{ steps.versao.outputs.tag }}' $caminhoManifesto --repo $env:GITHUB_REPOSITORY --clobber

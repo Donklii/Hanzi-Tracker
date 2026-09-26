@@ -2,6 +2,7 @@
 import { useState } from "react";
 import { LookupWord } from "../../wailsjs/go/main/App";
 import { CanvasHanziLookup } from "./CanvasHanziLookup";
+import { t } from '../i18n/i18n';
 
 interface ModalAdicionarHanziProps {
   modalAdicionarHanzi: { open: boolean, status: string };
@@ -47,21 +48,21 @@ export function ModalAdicionarHanzi(props: ModalAdicionarHanziProps) {
         };
         SalvarPalavra(newCard, modalAdicionarHanzi.status);
       } else {
-        setStatus(`⚠️ Hanzi não encontrado no dicionário local: ${inputAdicionarHanzi}`);
+        setStatus(t('⚠️ Hanzi não encontrado no dicionário local: {hanzi}', { hanzi: inputAdicionarHanzi }));
       }
       fecharModal();
     });
   };
 
   return (
-    <div className="modal-overlay" onClick={fecharModal} style={{ zIndex: 1002 }}>
+    <div className="modal-overlay" onClick={fecharModal} style={{ zIndex: 3002 }}>
       <div
         className="modal-content"
         style={{ maxWidth: '400px', padding: '24px', flexDirection: 'column', height: 'auto' }}
         onClick={e => e.stopPropagation()}
       >
         <div className="modal-header">
-          <h2 style={{ fontSize: '18px' }}>Adicionar Hanzi Manualmente</h2>
+          <h2 style={{ fontSize: '18px' }}>{t('Adicionar Hanzi Manualmente')}</h2>
           <button className="modal-close" onClick={fecharModal}>×</button>
         </div>
 
@@ -75,7 +76,7 @@ export function ModalAdicionarHanzi(props: ModalAdicionarHanziProps) {
             }}
             onClick={() => setModo('teclado')}
           >
-            Teclado
+            {t('Teclado')}
           </button>
           <button
             style={{
@@ -85,14 +86,14 @@ export function ModalAdicionarHanzi(props: ModalAdicionarHanziProps) {
             }}
             onClick={() => setModo('desenho')}
           >
-            Desenho Livre
+            {t('Desenho Livre')}
           </button>
         </div>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginTop: '16px', marginBottom: '24px' }}>
           {modo === 'teclado' ? (
             <>
-              <label style={{ fontSize: '12px', color: 'var(--cor-texto-suave)' }}>Caractere Chinês (Hanzi):</label>
+              <label style={{ fontSize: '12px', color: 'var(--cor-texto-suave)' }}>{t('Caractere Chinês (Hanzi):')}</label>
               <input
                 type="text"
                 value={inputAdicionarHanzi}
@@ -143,9 +144,9 @@ export function ModalAdicionarHanzi(props: ModalAdicionarHanziProps) {
           ) : (
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
               <label style={{ fontSize: '12px', color: 'var(--cor-texto-suave)', marginBottom: '8px', alignSelf: 'flex-start' }}>
-                Desenhe o Hanzi abaixo:
+                {t('Desenhe o Hanzi abaixo:')}
                 <br />
-                <span style={{ opacity: 0.8 }}>⚠️ A ordem e a direção dos traços importa para o reconhecimento correto.</span>
+                <span style={{ opacity: 0.8 }}>{t('⚠️ A ordem e a direção dos traços importa para o reconhecimento correto.')}</span>
               </label>
               <CanvasHanziLookup 
                 onRecognize={(sugestoes) => setSugestoesPinyin(sugestoes)} 
@@ -155,7 +156,7 @@ export function ModalAdicionarHanzi(props: ModalAdicionarHanziProps) {
               <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginTop: '12px', justifyContent: 'center', minHeight: '40px' }}>
                 {sugestoesPinyin.length === 0 ? (
                    <span style={{ fontSize: '12px', color: 'var(--cor-texto-suave)', marginTop: '10px' }}>
-                     Nenhuma correspondência ainda.
+                     {t('Nenhuma correspondência ainda.')}
                    </span>
                 ) : (
                   sugestoesPinyin.map((hz, idx) => (
@@ -182,7 +183,7 @@ export function ModalAdicionarHanzi(props: ModalAdicionarHanziProps) {
             style={{ backgroundColor: 'var(--cor-fundo-secundario)', padding: '6px 16px' }}
             onClick={fecharModal}
           >
-            Cancelar
+            {t('Cancelar')}
           </button>
           <button
             id="btn-add-hanzi-confirm"
@@ -190,7 +191,7 @@ export function ModalAdicionarHanzi(props: ModalAdicionarHanziProps) {
             style={{ backgroundColor: '#2196f3', padding: '6px 16px' }}
             onClick={confirmarAdicao}
           >
-            Adicionar ({modalAdicionarHanzi.status.toUpperCase()})
+            {t('Adicionar ({status})', { status: modalAdicionarHanzi.status.toUpperCase() })}
           </button>
         </div>
       </div>

@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+汞灯 | TRADUÇÃO: lâmpada de vapor de mercúrio
+汞齐 | TRADUÇÃO: amálgama/liga de mercúrio
+江 | TRADUÇÃO: Jiang (sobrenome) / Rio Yangtzé (forma presa) / Jiangsu (forma presa, abreviação de 江蘇|江苏) ‖ rio / CL:條|条, 道
+江八点 | TRADUÇÃO: Oito pontos de Jiang Zemin (proposições de Jiang Zemin 江澤民|江泽民 sobre o desenvolvimento das relações entre os dois lados do Estreito de Taiwan, apresentadas num discurso de 1995)
+江北 | TRADUÇÃO: ver 江北區|江北区 / principal aeroporto de Chongqing
+江北区 | TRADUÇÃO: Jiangbei, distrito da cidade de Ningbo 寧波市|宁波市, Zhejiang
+江南 | TRADUÇÃO: região da China imediatamente ao sul do baixo Rio Yangtzé, incluindo Xangai e partes adjacentes de Jiangsu, Anhui, Jiangxi e Zhejiang / ver 江南省 / ver 江南區|江南区
+江南区 | TRADUÇÃO: Jiangnan, distrito da cidade de Nanning 南寧市|南宁市, Guangxi
+江南四大才子 | TRADUÇÃO: Quatro grandes talentos do sul da dinastia Ming, a saber: Tang Bohu 唐伯虎, Zhu Zhishan 祝枝山, Wen Zhengming 文徵明|文征明 e Xu Zhenqing 徐禎卿|徐祯卿
+江南大学 | TRADUÇÃO: Universidade Jiangnan (na província de Jiangsu)
+江南水乡 | TRADUÇÃO: rede de cursos d'água, especialmente em Jiangsu
+江南省 | TRADUÇÃO: nome da província da dinastia Qing que cobria o sul de Jiangsu, sul de Anhui e norte de Zhejiang, com capital em Nanquim
+江原道 | TRADUÇÃO: Província de Gangwon da Coreia durante a dinastia Joseon / província de Kangwon da Coreia do Norte / província de Gangwon no nordeste da Coreia do Sul, capital Chuncheon 春川
+江口 | TRADUÇÃO: ver 江口縣|江口县
+江口县 | TRADUÇÃO: Jiangkou, condado da cidade de Tongren 銅仁市|铜仁市, Guizhou
+江城 | TRADUÇÃO: ver 江城區|江城区 / ver 江城哈尼族彝族自治縣|江城哈尼族彝族自治县
+江城区 | TRADUÇÃO: Jiangcheng, distrito da cidade de Yangjiang 陽江市|阳江市, Guangdong
+江城哈尼族彝族自治县 | TRADUÇÃO: Condado Autônomo Hani e Yi de Jiangcheng, na cidade de Pu'er 普洱市, Yunnan
+江城县 | TRADUÇÃO: ver 江城哈尼族彝族自治縣|江城哈尼族彝族自治县
+江夏 | TRADUÇÃO: ver 江夏區|江夏区
+江夏区 | TRADUÇÃO: Jiangxia, distrito da cidade de Wuhan 武漢市|武汉市, Hubei
+江孜 | TRADUÇÃO: ver 江孜縣|江孜县
+江孜县 | TRADUÇÃO: Condado de Gyantse, na cidade de Shigatse 日喀則市|日喀则市, Tibete
+江安 | TRADUÇÃO: ver 江安縣|江安县
+江安县 | TRADUÇÃO: Jiang'an, condado da cidade de Yibin 宜賓市|宜宾市, Sichuan
+江宁 | TRADUÇÃO: ver 江寧區|江宁区
+江宁区 | TRADUÇÃO: Jiangning, distrito da cidade de Nanquim 南京市, Jiangsu
+江山 | TRADUÇÃO: ver 江山市 ‖ rios e montanhas / paisagem / país / poder estatal
+江山市 | TRADUÇÃO: Jiangshan, cidade a nível de condado na cidade de Quzhou 衢州市, Zhejiang
+江山易改禀性难移 | TRADUÇÃO: rios e montanhas são fáceis de mudar, o caráter do homem é muito mais difícil
+江山易改，本性难移 | TRADUÇÃO: é mais fácil mudar montanhas e rios do que alterar o próprio caráter (expressão idiomática) / não se pode mudar quem se é / Pode o leopardo mudar suas manchas?
+江岸 | TRADUÇÃO: ver 江岸區|江岸区
+江岸区 | TRADUÇÃO: Jiang'an, distrito da cidade de Wuhan 武漢市|武汉市, Hubei
+江川 | TRADUÇÃO: ver 江川區|江川区
+江川区 | TRADUÇÃO: Jiangchuan, distrito da cidade de Yuxi 玉溪市, Yunnan
+江州 | TRADUÇÃO: ver 江州區|江州区
+江州区 | TRADUÇÃO: Jiangzhou, distrito da cidade de Chongzuo 崇左市, Guangxi
+江平 | TRADUÇÃO: Jiang Ping (1920-), acadêmico advogado, escritor sobre etnia e sistemas legais
+江心 | TRADUÇÃO: meio de um rio
+江户 | TRADUÇÃO: Edo (nome antigo de Tóquio)
+江水 | TRADUÇÃO: água do rio
+江永 | TRADUÇÃO: ver 江永縣|江永县
+江永县 | TRADUÇÃO: Jiangyong, condado da cidade de Yongzhou 永州市, Hunan
+江河 | TRADUÇÃO: Rio Yangtzé e Rio Amarelo ‖ rio
+江河日下 | TRADUÇÃO: (expressão idiomática) ir de mal a pior / deteriorar-se dia após dia
+江河湖海 | TRADUÇÃO: rios, lagos e mares / corpos d'água
+江油 | TRADUÇÃO: ver 江油市
+江油市 | TRADUÇÃO: Jiangyou, cidade a nível de condado na cidade de Mianyang 綿陽市|绵阳市, Sichuan
+江洋大盗 | TRADUÇÃO: (expressão idiomática) pirata infame / (por extensão) bandido ou ladrão notório
+江津 | TRADUÇÃO: ver 江津區|江津区
+江津区 | TRADUÇÃO: Jiangjin, distrito de Chongqing 重慶|重庆
+江流 | TRADUÇÃO: rio / fluxo do rio / corrente
+江浙 | TRADUÇÃO: Jiangsu e Zhejiang (abreviação de 江蘇|江苏 + 浙江)
+江浦 | TRADUÇÃO: Condado de Jiangpu, nome antigo do distrito de Pukou 浦口區|浦口区 de Nanquim, Jiangsu
+江浦县 | TRADUÇÃO: Condado de Jiangpu, nome antigo do distrito de Pukou 浦口區|浦口区 de Nanquim, Jiangsu
+江海 | TRADUÇÃO: ver 江海區|江海区
+江海区 | TRADUÇÃO: Jianghai, distrito da cidade de Jiangmen 江門市|江门市, Guangdong
+江淮官话 | TRADUÇÃO: Mandarim Jianghuai
+江湖 | TRADUÇÃO: rios e lagos / todos os cantos do país / setor da sociedade que opera independentemente da sociedade mainstream / círculo das artes marciais / submundo / (hist.) mundo dos mercadores viajantes, médicos itinerantes, adivinhos etc.
+江湖一点诀 | TRADUÇÃO: técnica especial / truque do ofício / jeito
+江湖艺人 | TRADUÇÃO: artista itinerante
+江湖医生 | TRADUÇÃO: médico sem licença / charlatão / curandeiro
+江湖骗子 | TRADUÇÃO: vigarista / charlatão itinerante
+江源 | TRADUÇÃO: ver 江源區|江源区 ‖ nascente do rio
+江源区 | TRADUÇÃO: Jiangyuan, distrito da cidade de Baishan 白山市, Jilin
+江汉 | TRADUÇÃO: ver 江漢區|江汉区
+江汉区 | TRADUÇÃO: Jianghan, distrito da cidade de Wuhan 武漢市|武汉市, Hubei
+江泽民 | TRADUÇÃO: Jiang Zemin (1926–2022), político, presidente da RPC 1993–2003
+江珧柱 | TRADUÇÃO: (fruto do mar) músculo adutor de uma vieira ou concha caneta
+江畔 | TRADUÇÃO: margem do rio
+江米 | TRADUÇÃO: arroz glutinoso polido
+江米酒 | TRADUÇÃO: vinho de arroz glutinoso / arroz glutinoso fermentado
+江华 | TRADUÇÃO: ver 江華瑤族自治縣|江华瑶族自治县
+江华瑶族自治县 | TRADUÇÃO: Condado Autônomo Yao de Jianghua, na cidade de Yongzhou 永州市, Hunan
+江华县 | TRADUÇÃO: ver 江華瑤族自治縣|江华瑶族自治县
+江苏 | TRADUÇÃO: ver 江蘇省|江苏省
+江苏省 | TRADUÇÃO: Província de Jiangsu, capital Nanquim 南京市 (abreviatura 蘇|苏)
+江蓠 | TRADUÇÃO: alga vermelha / Gracilaria, várias espécies, algumas comestíveis / ogonori japonês
+江西 | TRADUÇÃO: ver 江西省
+江西省 | TRADUÇÃO: Província de Jiangxi, capital Nanchang 南昌市 (abreviatura 灨|赣)
+江豚 | TRADUÇÃO: golfinho de rio
+江猪 | TRADUÇÃO: golfinho chinês de rio, Lipotes vexillifer
+江轮 | TRADUÇÃO: vapor fluvial
+江达 | TRADUÇÃO: ver 江達縣|江达县
+江达县 | TRADUÇÃO: Condado de Jomda, na cidade de Chamdo 昌都市, Tibete
+江边 | TRADUÇÃO: margem do rio
+江郎才尽 | TRADUÇÃO: (expressão idiomática) Jiang Yan esgotou seu talento / ter esgotado a criatividade / ter bloqueio criativo
+江都 | TRADUÇÃO: ver 江都區|江都区
+江都区 | TRADUÇÃO: Jiangdu, distrito da cidade de Yangzhou 揚州市|扬州市, Jiangsu
+江门 | TRADUÇÃO: ver 江門市|江门市
+江门市 | TRADUÇÃO: Jiangmen, cidade a nível de prefeitura na Província de Guangdong 廣東省|广东省
+江阴 | TRADUÇÃO: ver 江陰市|江阴市
+江阴市 | TRADUÇÃO: Jiangyin, cidade a nível de condado na cidade de Wuxi 無錫市|无锡市, Jiangsu
+江陵 | TRADUÇÃO: ver 江陵縣|江陵县
+江陵县 | TRADUÇÃO: Condado de Jiangling, na cidade de Jingzhou 荊州市|荆州市, Hubei
+江阳 | TRADUÇÃO: ver 江陽區|江阳区
+江阳区 | TRADUÇÃO: Jiangyang, distrito da cidade de Luzhou 瀘州市|泸州市, Sichuan
+江青 | TRADUÇÃO: Jiang Qing (1914-1991), quarta esposa de Mao Tsé-Tung e líder da Gangue dos Quatro
+江面 | TRADUÇÃO: superfície do rio
+池 | TRADUÇÃO: Chi (sobrenome) ‖ lagoa / reservatório / fosso
+池上 | TRADUÇÃO: Chihshang, vila no distrito de Taitung, sudeste de Taiwan / Chihshang, município no distrito de Taitung, sudeste de Taiwan
+池上乡 | TRADUÇÃO: Chishang, município no distrito de Taitung, sudeste de Taiwan
+池中物 | TRADUÇÃO: pessoa sem talento particular
+池塘 | TRADUÇÃO: lagoa / tanque
+池子 | TRADUÇÃO: lagoa / tanque (de casa de banhos) / pista de dança (de salão) / (antigo) plateia (fileiras frontais de um teatro)
+池州 | TRADUÇÃO: veja 池州市
+池州市 | TRADUÇÃO: Chizhou, cidade de nível de prefeitura na província de Anhui
+池沼 | TRADUÇÃO: lagoa / tanque
+池汤 | TRADUÇÃO: tanque grande em uma casa de banhos
+池田 | TRADUÇÃO: Ikeda (sobrenome japonês)
+池鹭 | TRADUÇÃO: (espécie de ave da China) garça-dos-arrozais-chinesa (Ardeola bacchus)
+池盐 | TRADUÇÃO: sal de lago salgado
+污七八糟 | TRADUÇÃO: variante de 烏七八糟|乌七八糟
+污名 | TRADUÇÃO: má reputação / estigma
+污名化 | TRADUÇÃO: estigmatizar
+污吏 | TRADUÇÃO: funcionário corrupto
+污损 | TRADUÇÃO: contaminar
+污染 | TRADUÇÃO: (lit. e fig.) poluir; contaminar
+污染区 | TRADUÇÃO: área contaminada
+污染物 | TRADUÇÃO: poluente
+污水 | TRADUÇÃO: esgoto
+污水坑 | TRADUÇÃO: fossa
+污水管 | TRADUÇÃO: cano de esgoto
+污水处理厂 | TRADUÇÃO: estação de tratamento de água
+污泥 | TRADUÇÃO: lama / lodo
+污渍 | TRADUÇÃO: mancha
+污浊 | TRADUÇÃO: sujo / lamacento / fétido (esgoto)
+污痕 | TRADUÇÃO: mancha / nódoa
+污秽 | TRADUÇÃO: (literário) sujo; imundo / (literário) sujeira; imundície
+污糟 | TRADUÇÃO: imundo / anti-higiênico / sórdido / repugnante
+污蔑 | TRADUÇÃO: variante de 污衊|污蔑 ‖ caluniar / difamar / manchar
+污言秽语 | TRADUÇÃO: (expressão idiomática) linguagem obscena; obscenidades
+污迹 | TRADUÇÃO: mancha / nódoa
+污辱 | TRADUÇÃO: humilhar / insultar / manchar / macular
+污点 | TRADUÇÃO: mancha / mácula
+汧 | TRADUÇÃO: nome de um rio que flui de Gansu para a província de Shaanxi ‖ pântano / flutuar
+汨 | TRADUÇÃO: nome de um rio, afluente sul do rio Miluo 汨羅江|汨罗江
+汨水 | TRADUÇÃO: nome de um rio, afluente sul do rio Miluo 汨羅江|汨罗江
+汨罗 | TRADUÇÃO: veja 汨羅市|汨罗市 / veja 汨羅江|汨罗江
+汨罗市 | TRADUÇÃO: Miluo, cidade de nível de distrito em Yueyang, Hunan
+汨罗江 | TRADUÇÃO: Rio Miluo, na província de Hunan, afluente do rio Xiang, que deságua no lago Dongting
+汩 | TRADUÇÃO: confuso / extinto / (onom.) usado em 汩汩
+汩汩 | TRADUÇÃO: (onom.) som de água corrente gorgolejando
+汪 | TRADUÇÃO: sobrenome Wang ‖ extensão de água / lodo / (onom.) latido / classificador para líquidos: poça, poça d'água
+汪啸风 | TRADUÇÃO: Wang Xiaofeng (1944-), quarto governador de Hainan
+汪星人 | TRADUÇÃO: cachorro (gíria da internet)
+汪东城 | TRADUÇÃO: Jiro Wang (1981-), cantor e ator taiwanês
+汪汪 | TRADUÇÃO: brilhando com lágrimas / au au (som de latido de cachorro) / (literário) (de um corpo d'água) vasto e profundo
+汪洋 | TRADUÇÃO: vasta extensão de água / CL:片
+汪清 | TRADUÇÃO: veja 汪清縣|汪清县
+汪清县 | TRADUÇÃO: Wangqing, um distrito na Prefeitura Autônoma Coreana de Yanbian, Jilin
+汪精卫 | TRADUÇÃO: Wang Jingwei (1883–1944), político chinês que mais tarde colaborou com o Japão durante a Segunda Guerra Mundial
+汪道涵 | TRADUÇÃO: Wang Daohan (1915-2005), ex-presidente da Associação de Relações Através do Estreito de Taiwan
+汫 | TRADUÇÃO: variante antiga de 阱 / usado em 汫濙|汫𣸨
+汫𣸨 | TRADUÇÃO: serpenteante
+汭 | TRADUÇÃO: curva de rio
+汰 | TRADUÇÃO: descartar / eliminar
+汰旧换新 | TRADUÇÃO: (expressão idiomática) fora com o velho e dentro com o novo
+汲 | TRADUÇÃO: sobrenome Ji ‖ tirar (água)
+汲取 | TRADUÇÃO: tirar; derivar; absorver
+汲引 | TRADUÇÃO: tirar água / (fig.) promover alguém a um cargo mais alto
+汲水 | TRADUÇÃO: tirar água
+汳 | TRADUÇÃO: nome de um rio antigo em Henan
+汴 | TRADUÇÃO: nome de um rio em Henan / Henan
+汴京 | TRADUÇÃO: Bianjing, capital da Dinastia Song do Norte, hoje chamada Kaifeng, Henan
+汴州 | TRADUÇÃO: nome antigo de Kaifeng
+汴梁 | TRADUÇÃO: nome antigo de Kaifeng
+汶 | TRADUÇÃO: Rio Wen, no noroeste de Sichuan (mesmo que 汶川) / nome clássico de um rio em Shandong, usado para se referir a Qi
+汶上 | TRADUÇÃO: Distrito de Wenshang em Jining, Shandong / classicamente, curso superior do Rio Wen em Shandong, usado para se referir a Qi
+汶上县 | TRADUÇÃO: Wenshang, um distrito na cidade de Jining, Shandong
+汶川 | TRADUÇÃO: veja 汶川縣|汶川县
+汶川地震 | TRADUÇÃO: Grande Terremoto de Sichuan (2008)
+汶川大地震 | TRADUÇÃO: Grande Terremoto de Sichuan (2008)
+汶川县 | TRADUÇÃO: Wenchuan, um distrito na Prefeitura Autônoma Tibetana e Qiang de Ngawa, Sichuan
+汶莱 | TRADUÇÃO: (Taiwan) Brunei
+汷 | TRADUÇÃO: nome de um rio antigo em Hubei
+决 | TRADUÇÃO: decidir / determinar / executar (alguém) / (de uma barragem etc) romper ou arrebentar / definitivamente / certamente
+决一雌雄 | TRADUÇÃO: veja 一決雌雄|一决雌雄
+决不 | TRADUÇÃO: de modo algum / simplesmente (não) pode
+决胜 | TRADUÇÃO: determinar a vitória / obter a vitória
+决胜千里 | TRADUÇÃO: ser capaz de planejar a vitória a milhares de quilômetros de distância (expressão idiomática)
+决胜负 | TRADUÇÃO: determinar o sucesso ou fracasso
+决口 | TRADUÇÃO: (de um curso d'água) romper suas margens / (de uma barragem) arrebentar
+决定 | TRADUÇÃO: decidir; determinar; tomar uma decisão / decisão (CL:個|个,項|项)
+决定性 | TRADUÇÃO: decisivo / conclusivo
+决定论 | TRADUÇÃO: determinismo
+决心 | TRADUÇÃO: determinação / resolução / determinado / firme e resoluto / decidir-se / CL:個|个
+决意 | TRADUÇÃO: estar determinado
+决战 | TRADUÇÃO: batalha decisiva / travar uma batalha decisiva / lutar pela supremacia em...
+决断 | TRADUÇÃO: tomar uma decisão / resolução / capacidade de decisão / resoluto
+决明 | TRADUÇÃO: (botânica) cássia
+决明子 | TRADUÇÃO: (botânica) semente de cássia
+决策 | TRADUÇÃO: decisão estratégica / tomada de decisão / decisão política / determinar a política
+决策树 | TRADUÇÃO: árvore de decisão
+决策者 | TRADUÇÃO: formulador de políticas
+决算 | TRADUÇÃO: conta final / calcular a conta final / fig. traçar planos para lidar com algo
+决绝 | TRADUÇÃO: romper todas as relações com alguém / determinado / decisivo
+决而不行 | TRADUÇÃO: tomar decisões sem implementá-las
+决裂 | TRADUÇÃO: ruptura / romper / quebrar / romper relações com / uma ruptura
+决议 | TRADUÇÃO: resolução / aprovar uma resolução
+决议案 | TRADUÇÃO: resolução (de uma reunião)
+决赛 | TRADUÇÃO: final (de uma competição)
+决选名单 | TRADUÇÃO: lista de finalistas/lista curta
+决堤 | TRADUÇÃO: romper o dique/(de diques) desmoronar
+决斗 | TRADUÇÃO: duelar/duelo/luta decisiva
+汽 | TRADUÇÃO: vapor/vapor (água em estado gasoso)
+汽修 | TRADUÇÃO: reparo automotivo
+汽化 | TRADUÇÃO: ferver/vaporizar
+汽化器 | TRADUÇÃO: carburador/vaporizador
+汽提 | TRADUÇÃO: destilação por arraste (química)
+汽暖 | TRADUÇÃO: aquecimento a gás
+汽水 | TRADUÇÃO: refrigerante (bebida gaseificada)
+汽油 | TRADUÇÃO: gasolina
+汽油机 | TRADUÇÃO: motor a gasolina
+汽灯 | TRADUÇÃO: lampião a gás/lâmpada a gás
+汽碾 | TRADUÇÃO: rolo compressor a vapor
+汽笛 | TRADUÇÃO: apito a vapor/buzina de navio
+汽缸 | TRADUÇÃO: cilindro (de máquina a vapor ou motor a combustão interna)
+汽船 | TRADUÇÃO: barco a vapor/navio a vapor
+汽艇 | TRADUÇÃO: lancha motorizada
+汽车 | TRADUÇÃO: carro/automóvel/ônibus/CL:輛|辆
+汽车展览会 | TRADUÇÃO: exposição de carros/salão do automóvel
+汽车厂 | TRADUÇÃO: fábrica de carros
+汽车戏院 | TRADUÇÃO: cinema drive-in
+汽车技工 | TRADUÇÃO: mecânico de automóveis
+汽车旅馆 | TRADUÇÃO: motel
+汽车炸弹 | TRADUÇÃO: carro-bomba
+汽车站 | TRADUÇÃO: ponto de ônibus/estação rodoviária
+汽车号牌 | TRADUÇÃO: placa de veículo/placa de licenciamento
+汽轮机 | TRADUÇÃO: turbina a vapor
+汽轮发电机 | TRADUÇÃO: gerador elétrico a turbina a vapor
+汽运 | TRADUÇÃO: transporte rodoviário de ônibus
+汽配 | TRADUÇÃO: peças automotivas
+汽酒 | TRADUÇÃO: vinho espumante
+汽锅 | TRADUÇÃO: panela a vapor (para cozinhar)
+汽阀 | TRADUÇÃO: válvula a vapor
+汾 | TRADUÇÃO: nome de um rio
+汾河 | TRADUÇÃO: Rio Fen
+汾西 | TRADUÇÃO: ver 汾西縣|汾西县
+汾西县 | TRADUÇÃO: Condado de Fenxi, em Linfen 臨汾市|临汾市, Shanxi
+汾酒 | TRADUÇÃO: Fenjiu (aguardente chinesa de sorgo)
+汾阳 | TRADUÇÃO: ver 汾陽市|汾阳市
+汾阳市 | TRADUÇÃO: Fenyang, cidade a nível de condado em Lüliang 呂梁市|吕梁市, Shanxi
+沁 | TRADUÇÃO: infiltrar-se/permear
+沁人心肺 | TRADUÇÃO: ver 沁人心脾
+沁人心脾 | TRADUÇÃO: (literal) penetrar profundamente no coração (expressão idiomática)/(figurado) alegrar o coração; ser refrescante
+沁人心腑 | TRADUÇÃO: ver 沁人心脾
+沁人肺腑 | TRADUÇÃO: ver 沁人心脾
+沁入 | TRADUÇÃO: (geralmente de algo intangível) infiltrar-se/permear
+沁入心脾 | TRADUÇÃO: ver 沁人心脾
+沁水 | TRADUÇÃO: ver 沁水縣|沁水县
+沁水县 | TRADUÇÃO: Condado de Qinshui, em Jincheng 晉城市|晋城市, Shanxi
+沁源 | TRADUÇÃO: ver 沁源縣|沁源县
+沁源县 | TRADUÇÃO: Condado de Qinyuan, em Changzhi 長治市|长治市, Shanxi
+沁县 | TRADUÇÃO: Condado de Qin ou Qinshui, em Changzhi 長治市|长治市, Shanxi
+沁阳 | TRADUÇÃO: ver 沁陽市|沁阳市
+沁阳市 | TRADUÇÃO: Qinyang, cidade a nível de condado em Jiaozuo 焦作市, Henan
+沂 | TRADUÇÃO: Rio Yi, Shandong
+沂南 | TRADUÇÃO: ver 沂南縣|沂南县
+沂南县 | TRADUÇÃO: Condado de Yinan, em Linyi 臨沂市|临沂市, Shandong
+沂水 | TRADUÇÃO: ver 沂水縣|沂水县
+沂水县 | TRADUÇÃO: Condado de Yishui, em Linyi 臨沂市|临沂市, Shandong
+沂源 | TRADUÇÃO: ver 沂源縣|沂源县
+沂源县 | TRADUÇÃO: Condado de Yiyuan, em Zibo 淄博市, Shandong
+沃 | TRADUÇÃO: fértil/rico/irrigar/lavar (de rio)
+沃伦 | TRADUÇÃO: Warren (nome)
+沃伦·巴菲特 | TRADUÇÃO: Warren Buffett (1930-), o Sábio de Omaha, investidor e filantropo dos EUA, proprietário principal da holding Berkshire Hathaway
+沃克斯豪尔 | TRADUÇÃO: Vauxhall (marca inglesa de carros e cidade)
+沃土 | TRADUÇÃO: terra fértil
+沃壤 | TRADUÇÃO: solo fértil
+沃州 | TRADUÇÃO: Cantão de Vaud, na Suíça
+沃水 | TRADUÇÃO: Rio Wo, em Shanxi
+沃灌 | TRADUÇÃO: irrigar/lavar com água
+沃尔夫 | TRADUÇÃO: Wolf, Woolf (nome)
+沃尔夫斯堡 | TRADUÇÃO: Wolfsburg
+沃尔夫奖 | TRADUÇÃO: Prêmio Wolf (para ciência e artes)
+沃尔沃 | TRADUÇÃO: Volvo (empresa sueca de carros)
+沃尔特·惠特曼 | TRADUÇÃO: Walt Whitman (1819-1892), poeta, ensaísta e jornalista americano
+沃尔玛 | TRADUÇÃO: Walmart (varejista)
+沃尔芬森 | TRADUÇÃO: Wolfson, Wulfsohn etc (nome)
+沃特森 | TRADUÇÃO: Watson (nome)
+沃罗涅日 | TRADUÇÃO: Voronej, cidade no sudoeste da Rússia europeia
+沃衍 | TRADUÇÃO: rico e fértil (solo)
+沃达丰 | TRADUÇÃO: Vodafone (empresa de telefonia)
+沃野 | TRADUÇÃO: terra fértil
+沃顿 | TRADUÇÃO: Wharton (nome)
+沃饶 | TRADUÇÃO: ver 饒沃|饶沃
+沄 | TRADUÇÃO: torrente impetuosa
+沅 | TRADUÇÃO: Rio Yuan, em Guizhou e Hunan
+沅水 | TRADUÇÃO: Rio Yuan
+沅江 | TRADUÇÃO: Rio Yuan, um dos maiores rios de Hunan ‖ ver 沅江市
+沅江九肋 | TRADUÇÃO: talento raro/literal. lendária tartaruga de nove costelas do Rio Yuan
+沅江市 | TRADUÇÃO: Yuanjiang, cidade a nível de condado em Yiyang 益陽市|益阳市, Hunan
+沅陵 | TRADUÇÃO: ver 沅陵縣|沅陵县
+沅陵县 | TRADUÇÃO: Condado de Yuanling, em Huaihua 懷化市|怀化市, Hunan
+沆 | TRADUÇÃO: balsa/nevoeiro/fluir
+沆瀣 | TRADUÇÃO: (literário) névoa noturna
+沆瀣一气 | TRADUÇÃO: agir em conluio (expressão idiomática); em conluio/bandidos se protegem mutuamente
+沇 | TRADUÇÃO: sobrenome Yan ‖ variante antiga de 兗|兖
+沈 | TRADUÇÃO: sobrenome Shen ‖ abreviação de 瀋陽|沈阳 ‖ (literário) suco
+沉 | TRADUÇÃO: variante de 沉 ‖ submergir/imergir/afundar/manter baixo/baixar/deixar cair/profundo/intenso/pesado
+沈丘 | TRADUÇÃO: ver 沈丘縣|沈丘县
+沈丘县 | TRADUÇÃO: Shenqiu, um condado na cidade de Zhoukou 周口市, Henan
+沈北 | TRADUÇÃO: ver 沈北新區|沈北新区
+沈北新区 | TRADUÇÃO: Distrito Novo de Shenbei, um distrito da cidade de Shenyang 瀋陽市|沈阳市, Liaoning
+沈国放 | TRADUÇÃO: Shen Guofang (1952-), vice-ministro de relações exteriores da RPC (2003-2005)
+沈从文 | TRADUÇÃO: Shen Congwen (1902-1988), romancista
+沈复 | TRADUÇÃO: Shen Fu (1763-c. 1810), escritor da dinastia Qing, autor de Seis Relatos de uma Vida Flutuante 浮生六記|浮生六记
+沈括 | TRADUÇÃO: Shen Kuo (1031-1095), polímata, cientista e estadista chinês da dinastia Song, autor de Ensaios do Sonho do Riacho 夢溪筆談|梦溪笔谈
+沉溺 | TRADUÇÃO: variante de 沉溺 ‖ (fig.) entregar-se a; afundar-se em (vício, vício etc)/(literário) afundar na água
+沉淀 | TRADUÇÃO: variante de 沉澱|沉淀 ‖ (química) sedimentar; precipitar/(química) sedimento; precipitado/(fig.) (de emoções, pensamentos, experiência etc) assentar e ser absorvido com o tempo; tomar forma gradualmente (através de reflexão ou amadurecimento)
+沈莹 | TRADUÇÃO: Shen Ying de Wu, governador (268-280) da província costeira de Wu e compilador da Gazeta Geográfica Costeira 臨海水土誌|临海水土志
+沈约 | TRADUÇÃO: Shen Yue (441-513), escritor e historiador durante Liang das dinastias do Sul 南朝梁, compilador da História de Song das dinastias do Sul 宋書|宋书
+沈葆桢 | TRADUÇÃO: Shen Baozhen (1820-1879), Ministro da Marinha da dinastia Qing, fundou o Colégio Naval de Fuzhou 船政學堂|船政学堂 em 1866
+沉鱼落雁 | TRADUÇÃO: variante de 沉魚落雁|沉鱼落雁 ‖ lit. peixe afunda, ganso pousa (expressão idiomática, de Zhuangzi 莊子|庄子); fig. beleza feminina que cativa até pássaros e feras
+沉不住气 | TRADUÇÃO: perder a calma/ficar impaciente/incapaz de permanecer calmo
+沉井 | TRADUÇÃO: caixão aberto
+沉住气 | TRADUÇÃO: manter a calma; permanecer calmo
+沉凝 | TRADUÇÃO: estagnado/coagulado/fig. grave no modo (de agir)/baixo (de voz)
+沉吟 | TRADUÇÃO: murmurar consigo mesmo irresolutamente
+沉寂 | TRADUÇÃO: silêncio/imobilidade
+沉得住气 | TRADUÇÃO: manter a calma/manter a compostura
+沉思 | TRADUÇÃO: contemplar/ponderar/contemplação/meditação
+沉闷 | TRADUÇÃO: opressivo (de clima)/pesado/deprimido/não feliz/(de som) abafado/surdo
+沉沉 | TRADUÇÃO: profundamente/pesadamente
+沉没 | TRADUÇÃO: afundar
+沉没成本 | TRADUÇÃO: custo irrecuperável (economia)
+沉浮 | TRADUÇÃO: lit. afundar e flutuar/balançar sobre a água/fluxo e refluxo/fig. ascensão e queda/vicissitudes da sorte/altos e baixos
+沉浸 | TRADUÇÃO: encharcar/permeável/imergir
+沉浸式 | TRADUÇÃO: imersivo
+沉沦 | TRADUÇÃO: afundar em (vício, depravação etc)/cair no esquecimento/queda; passagem
+沉湎 | TRADUÇÃO: (literário) entregar-se a; mergulhar em; estar profundamente absorto em
+沉湎酒色 | TRADUÇÃO: entregar-se ao álcool e ao sexo (expressão idiomática); excesso de vinho e mulheres/um bêbado e devasso incorrigível
+沉潜 | TRADUÇÃO: espreitar debaixo d'água/imergir-se em (estudo etc)/manter um perfil baixo; discreto/silencioso; reservado; controlado
+沉潭 | TRADUÇÃO: afogar alguém no fundo de um lago (tipo de punição privada, especialmente para esposas infiéis)
+沉淀物 | TRADUÇÃO: precipitado; sedimento
+沉甸甸 | TRADUÇÃO: pesado
+沉痛 | TRADUÇÃO: pesar/remorso/profundamente triste/amargo (angústia)/profundo (condolências)
+沉痼 | TRADUÇÃO: doença crônica/fig. problema profundamente enraizado
+沉疴 | TRADUÇÃO: doença crônica; (fig.) problema profundamente enraizado; questão de longa data
+沉睡 | TRADUÇÃO: estar em sono profundo/(fig.) estar adormecido; estar oculto
+沉积 | TRADUÇÃO: sedimento/depósito/sedimentação (geologia)
+沉积作用 | TRADUÇÃO: sedimentação (geologia)
+沉积岩 | TRADUÇÃO: rocha sedimentar (geologia)
+沉积带 | TRADUÇÃO: faixa sedimentar (geologia)
+沉积物 | TRADUÇÃO: sedimento
+沉稳 | TRADUÇÃO: estável/calmo/imperturbável
+沉箱 | TRADUÇÃO: caixão/caixa de afundar
+沉缓 | TRADUÇÃO: sem pressa/deliberado
+沉船 | TRADUÇÃO: naufrágio/barco afundado/barco afundando
+沉船事故 | TRADUÇÃO: um naufrágio/um afundamento
+沉落 | TRADUÇÃO: afundar/cair
+沉着 | TRADUÇÃO: estável/calmo e controlado/não nervoso
+沉着应战 | TRADUÇÃO: permanecer calmo diante da adversidade (expressão idiomática)
+沉迷 | TRADUÇÃO: estar absorto/estar absorvido por/perder-se em/estar viciado em
+沉邃 | TRADUÇÃO: profundo e profundo
+沉醉 | TRADUÇÃO: intoxicar-se
+沉重 | TRADUÇÃO: pesado/duro/sério/crítico
+沉重打击 | TRADUÇÃO: bater forte
+沉降 | TRADUÇÃO: afundar/desmoronar/subsidência
+沉陷 | TRADUÇÃO: afundar; desmoronar; (de um edifício etc) sofrer subsidência/(fig.) perder-se (em contemplação, devaneios etc)
+沉雷 | TRADUÇÃO: trovão profundo e estrondoso
+沉静 | TRADUÇÃO: pacífico/silencioso/calmo/suave
+沉静寡言 | TRADUÇÃO: ver 沉默寡言
+沉香 | TRADUÇÃO: pau-de-águia chinês; árvore de agarwood; lenho de águia (Aquilaria agallocha)
+沉郁 | TRADUÇÃO: melancólico; sombrio
+沉默 | TRADUÇÃO: taciturno/comunicativo/silencioso
+沉默寡言 | TRADUÇÃO: habitualmente silencioso (expressão idiomática)/reticente/pouco comunicativo
+沉默是金 | TRADUÇÃO: silêncio é ouro (expressão idiomática)
+沌 | TRADUÇÃO: usado em 混沌
+沍 | TRADUÇÃO: congelado/congelado
+沏 | TRADUÇÃO: infusionar (chá)
+沐 | TRADUÇÃO: banhar-se/limpar-se/receber/ser dado
+沐川 | TRADUÇÃO: ver 沐川縣|沐川县
+沐川县 | TRADUÇÃO: Muchuan, um condado na cidade de Leshan 樂山市|乐山市, Sichuan
+沐恩 | TRADUÇÃO: receber favor
+沐浴 | TRADUÇÃO: banhar-se; tomar banho/(fig.) estar banhado em; estar imerso em
+沐浴乳 | TRADUÇÃO: sabonete líquido (sabão líquido)/gel de banho
+沐浴油 | TRADUÇÃO: óleo de banho
+沐浴球 | TRADUÇÃO: esponja de banho/bucha de banho/bola de banho (contendo aromas ou sais)
+沐浴用品 | TRADUÇÃO: produto de banho
+沐浴花 | TRADUÇÃO: esponja de banho/bucha de banho
+沐浴露 | TRADUÇÃO: gel de banho
+沐猴而冠 | TRADUÇÃO: lit. um macaco usando chapéu (expressão idiomática)/fig. pessoa inútil em traje imponente
+沐雨栉风 | TRADUÇÃO: trabalhar incessantemente independentemente do tempo (expressão idiomática)
+没 | TRADUÇÃO: (prefixo negativo para verbos) não ter; não ‖ afogado/terminar/morrer/inundar
+没sei了 | TRADUÇÃO: ver 沒誰了|没谁了
+没上没下 | TRADUÇÃO: sem respeito por superiores/faltando maneiras
+没了 | TRADUÇÃO: estar morto/não existir mais ou deixar de existir
+没事 | TRADUÇÃO: não é importante/não é nada/não se preocupe/não ter nada para fazer/estar livre/estar bem (fora de perigo ou problemas)
+没事儿 | TRADUÇÃO: ter tempo livre/livre do trabalho/não é importante/não é nada/não se preocupe
+没人住 | TRADUÇÃO: desocupado
+没人味 | TRADUÇÃO: faltar caráter humano
+没人味儿 | TRADUÇÃO: variante erhua de 沒人味|没人味
+没什么 | TRADUÇÃO: não importa; não é nada; não se preocupe/não pense nisso; é um prazer; de nada
+没来由 | TRADUÇÃO: sem qualquer razão/sem motivo
+没六儿 | TRADUÇÃO: variante de 沒溜兒|没溜儿
+没分寸 | TRADUÇÃO: inadequado/mal-educado
+没劲 | TRADUÇÃO: não ter força/sentir-se fraco/exausto/sentir-se sem ânimo/entediado/sem interesse
+没劲儿 | TRADUÇÃO: variante erhua de 沒勁|没劲
+没口 | TRADUÇÃO: sem reservas/profusamente
+没吃没穿 | TRADUÇÃO: não ter comida nem roupa (expressão idiomática)/ser muito pobre
+没命 | TRADUÇÃO: perder a vida/morrer/imprudentemente/desesperadamente
+没品 | TRADUÇÃO: sem classe/cafona/sem gosto
+没问题 | TRADUÇÃO: sem problema
+没多久 | TRADUÇÃO: não muito tempo depois/logo após
+没大没小 | TRADUÇÃO: mal-educado/atrevido/insolente
+没天理 | TRADUÇÃO: (antigo) sem princípios; incorreto/(moderno) antinatural; contra a razão; inacreditável
+没奈何 | TRADUÇÃO: não ter alternativa; estar desamparado
+没好气 | TRADUÇÃO: estar de mau humor
+没完没了 | TRADUÇÃO: sem fim/incessantemente/sem parar
+没底 | TRADUÇÃO: inseguro/incerto/sem fim
+没影 | TRADUÇÃO: desaparecer/não ser encontrado em lugar nenhum (história) infundada
+没得挑剔 | TRADUÇÃO: excelente em todos os aspectos/impecável
+没得说 | TRADUÇÃO: muito bom/excelente
+没心没肺 | TRADUÇÃO: simplório/impensado/sem coração/estúpido
+没心眼 | TRADUÇÃO: franco/ingênuo/sem tato
+没想到 | TRADUÇÃO: não esperava
+没意思 | TRADUÇÃO: chato/sem interesse
+没戏 | TRADUÇÃO: (coloq.) nem chance/de jeito nenhum/sem esperança
+没搞头 | TRADUÇÃO: (coloq.) não vale a pena se preocupar/sem sentido
+没收 | TRADUÇÃO: confiscar; apreender
+没救 | TRADUÇÃO: sem salvação; sem esperança; incurável
+没日没夜 | TRADUÇÃO: dia e noite/independentemente da hora do dia ou da noite
+没有 | TRADUÇÃO: não ter/não existir/não ser
+没有不透风的墙 | TRADUÇÃO: (expressão idiomática) nenhum segredo pode ser guardado para sempre
+没有事 | TRADUÇÃO: nem um pouco/nada está acontecendo/nada de alarmante está acontecendo
+没有什么 | TRADUÇÃO: não é nada/não há nada... sobre isso
+没有什么不可能 | TRADUÇÃO: nada é impossível/não há nada impossível sobre isso
+没有意思 | TRADUÇÃO: chato/sem interesse
+没有意义 | TRADUÇÃO: não ter nenhum sentido/sem sentido
+没有止尽 | TRADUÇÃO: sem fim
+没有法 | TRADUÇÃO: perdido/sem poder fazer nada sobre isso/não ter escolha
+没有规矩，不成方圆 | TRADUÇÃO: sem regras, nada pode ser feito (expressão idiomática); é preciso seguir algumas regras
+没有规矩，何以成方圆 | TRADUÇÃO: sem regras, como algo pode ser feito (expressão idiomática); é preciso seguir algumas regras
+没有关系 | TRADUÇÃO: veja 沒關係|没关系
+没水平 | TRADUÇÃO: vergonhoso/baixa qualidade/inferior ao padrão
+没水准 | TRADUÇÃO: sem classe/grosseiro/baixa qualidade/inferior ao padrão
+没没无闻 | TRADUÇÃO: variante de 默默無聞|默默无闻
+没治 | TRADUÇÃO: sem esperança/desamparado/incurável/fantástico/fora deste mundo
+没法 | TRADUÇÃO: perdido/sem poder fazer nada sobre isso/não ter escolha
+没法儿 | TRADUÇÃO: (coloq.) não poder fazer nada sobre isso/(coloq.) não há como...; é simplesmente inacreditável que.../(coloq.) não poderia estar melhor (ou seja, simplesmente maravilhoso)
+没准 | TRADUÇÃO: não ter certeza/talvez
+没准儿 | TRADUÇÃO: variante erhua de 沒準|没准
+没准头 | TRADUÇÃO: (coloq.) não confiável
+没溜儿 | TRADUÇÃO: (dialeto) tolo
+没用 | TRADUÇÃO: inútil
+没的说 | TRADUÇÃO: veja 沒說的|没说的
+没眼看 | TRADUÇÃO: (coloq.) não suportar olhar/horrível/terrível
+没礼貌 | TRADUÇÃO: mal-educado; rude; com maus modos
+没种 | TRADUÇÃO: não ter coragem (para fazer algo)/covarde
+没空儿 | TRADUÇÃO: não ter tempo
+没精打彩 | TRADUÇÃO: variante de 沒精打采|没精打采
+没精打采 | TRADUÇÃO: desanimado/desalentado/abatido/também escrito 沒精打彩|没精打彩
+没经验 | TRADUÇÃO: inexperiente
+没羞没臊 | TRADUÇÃO: sem-vergonha
+没脸 | TRADUÇÃO: envergonhado/constrangido/não ter coragem (de enfrentar as pessoas)/não ousar (por vergonha)
+没脸没皮 | TRADUÇÃO: sem-vergonha/descarado
+没苦硬吃 | TRADUÇÃO: (neologismo, atestado em 2024) teimar em sofrer dificuldades desnecessárias; complicar a própria vida à toa
+没落 | TRADUÇÃO: declinar/decair
+没药 | TRADUÇÃO: mirra (Commiphora myrrha)
+没亲没故 | TRADUÇÃO: sem parentes ou amigos
+没说的 | TRADUÇÃO: (coloq.) nada a criticar; muito bom/(coloq.) nada a discutir; assunto resolvido; sem problema
+没谁了 | TRADUÇÃO: (coloq.) ninguém supera isso; extraordinário; notável
+没谱 | TRADUÇÃO: não fazer ideia/não ter plano
+没谱儿 | TRADUÇÃO: variante erhua de 沒譜|没谱
+没起子 | TRADUÇÃO: (dialeto) (de uma pessoa) inútil/patético/sem fibra
+没趣 | TRADUÇÃO: embaraçoso/chato/insatisfatório
+没辙 | TRADUÇÃO: sem saída/sem conseguir encontrar uma solução
+没办法 | TRADUÇÃO: não há nada a ser feito/não se pode fazer nada sobre isso
+没错 | TRADUÇÃO: isso mesmo/claro!/fique tranquilo!/isso é bom/não tem como errar
+没长眼 | TRADUÇÃO: veja 沒長眼睛|没长眼睛
+没长眼睛 | TRADUÇÃO: (coloq.) você é cego ou o quê?/olhe por onde anda
+没门儿 | TRADUÇÃO: de jeito nenhum/impossível
+没关系 | TRADUÇÃO: não tem importância
+没电 | TRADUÇÃO: descarregada/sem carga/morta (de baterias)
+没头没脸 | TRADUÇÃO: lit. sem cabeça, sem rosto (expressão idiomática)/fig. freneticamente/ao acaso
+没头苍蝇 | TRADUÇÃO: veja 無頭蒼蠅|无头苍蝇
+没齿不忘 | TRADUÇÃO: veja 沒齒難忘|没齿难忘
+没齿难忘 | TRADUÇÃO: difícil de esquecer mesmo depois que os dentes caem (expressão idiomática); lembrar-se de um benfeitor por toda a vida/gratidão eterna
+沓 | TRADUÇÃO: sobrenome Ta ‖ classificador para folhas de papel etc: pilha, bloco/pr. em Taiwan [ta4] ‖ repetidamente/muitos
+沔 | TRADUÇÃO: inundação/nome de um rio
+沕 | TRADUÇÃO: abstruso/profundo
+冲 | TRADUÇÃO: (da água) colidir contra/misturar com água/infundir/enxaguar/descargar/revelar (um filme)/subir no ar/chocar-se/colidir com ‖ via/caminho direto/ir direto/avançar/chocar-se ‖ poderoso/vigoroso/pungente/em direção a/em vista de
+冲刷 | TRADUÇÃO: limpar/esfregar/restregar/lavar com água/erodir/lavar
+冲剂 | TRADUÇÃO: medicamento a ser tomado após ser misturado com água (ou outro líquido)
+冲印 | TRADUÇÃO: revelar e imprimir (filme fotográfico)
+冲塌 | TRADUÇÃO: causar o colapso (de uma barragem)
+冲压 | TRADUÇÃO: (Taiwan) veja 衝壓|冲压 ‖ estampar; prensar (chapa metálica)/pr. em Taiwan [chong1ya1]
+冲天 | TRADUÇÃO: (lit. e fig.) disparar para cima; disparar para o alto
+冲挹 | TRADUÇÃO: ceder a/ser submisso
+冲掉 | TRADUÇÃO: lavar/lixiviar
+冲击 | TRADUÇÃO: variante de 衝擊|冲击 ‖ atacar/golpear/(das ondas) bater contra/choque/impacto
+冲昏头脑 | TRADUÇÃO: lit. ficar com a mente confusa (expressão idiomática); fig. excitado e incapaz de agir racionalmente/subir à cabeça ‖ lit. ficar com a mente confusa (expressão idiomática); fig. excitado e incapaz de agir racionalmente/subir à cabeça
+冲服 | TRADUÇÃO: tomar medicamento em solução/infusão
+冲服剂 | TRADUÇÃO: dose de medicamento a ser tomada em solução/infusão
+冲决 | TRADUÇÃO: romper (por exemplo, uma barragem) ‖ romper (por exemplo, uma barragem)
+冲冲 | TRADUÇÃO: excitadamente
+冲泡 | TRADUÇÃO: adicionar água (ou outro líquido) a (outro ingrediente, como leite em pó ou folhas de chá)/infundir (chá)
+冲洗 | TRADUÇÃO: enxaguar; lavar/(fotografia) revelar (filme)
+冲凉 | TRADUÇÃO: (dialeto) tomar banho/duchar-se
+冲淋浴 | TRADUÇÃO: tomar banho de chuveiro
+冲淡 | TRADUÇÃO: diluir
+冲澡 | TRADUÇÃO: tomar banho/duchar-se
+冲牙器 | TRADUÇÃO: irrigador oral/fio dental aquático
+冲积 | TRADUÇÃO: aluvião/aluviar/aluvial
+冲积层 | TRADUÇÃO: depósito aluvial/aluvião
+冲积平原 | TRADUÇÃO: planície aluvial
+冲绳 | TRADUÇÃO: Okinawa (prefeitura e arquipélago do Japão)
+冲绳岛 | TRADUÇÃO: Ilha de Okinawa
+冲绳群岛 | TRADUÇÃO: Arquipélago de Okinawa
+冲蚀 | TRADUÇÃO: erodir/erosão
+冲调 | TRADUÇÃO: reconstituir (uma bebida em pó) adicionando água, leite etc.
+冲账 | TRADUÇÃO: (contabilidade) fazer acerto de contas/estornar um lançamento/baixar
+冲走 | TRADUÇÃO: arrastar com a correnteza
+冲销 | TRADUÇÃO: (contabilidade) lançar a débito/baixar
+冲龄 | TRADUÇÃO: infância (geralmente referindo-se a um imperador)
+沘 | TRADUÇÃO: nome de um rio
+沙 | TRADUÇÃO: sobrenome Sha ‖ grânulo/rouco/áspero/areia/pó/CL:粒/abrev. para czar ou Rússia czarista ‖ (dialeto) peneirar; coar
+沙䳭 | TRADUÇÃO: (espécie de ave da China) chasco-isabel (Oenanthe isabellina)
+沙丁胺醇 | TRADUÇÃO: salbutamol (agonista beta 2 usado no tratamento de asma)/também conhecido como albuterol, proventil e ventolin
+沙丁鱼 | TRADUÇÃO: sardinha (estrangeirismo)
+沙丘 | TRADUÇÃO: duna de areia/colina arenosa
+沙丘鹤 | TRADUÇÃO: (espécie de ave da China) grou-canadiano (Antigone canadensis)
+沙井 | TRADUÇÃO: (Hong Kong) bueiro/poço de inspeção
+沙依巴克 | TRADUÇÃO: ver 沙依巴克區|沙依巴克区
+沙依巴克区 | TRADUÇÃO: Saybag, um distrito da cidade de Ürümqi 烏魯木齊市|乌鲁木齐市, Xinjiang
+沙俄 | TRADUÇÃO: Rússia czarista/abrev. para 沙皇俄國|沙皇俄国
+沙僧 | TRADUÇÃO: Sha Wujing
+沙其马 | TRADUÇÃO: variante de 沙琪瑪|沙琪玛
+沙利度胺 | TRADUÇÃO: talidomida
+沙加缅度 | TRADUÇÃO: Sacramento
+沙包 | TRADUÇÃO: saco de areia/saco de pancada (tradicionalmente cheio de areia)/duna de areia/pé-de-bicho; saquinho
+沙参 | TRADUÇÃO: raiz de adenófora (Radix adenophorae)
+沙司 | TRADUÇÃO: molho (estrangeirismo)
+沙和尚 | TRADUÇÃO: Sha Wujing
+沙哑 | TRADUÇÃO: rouco; grave; áspero
+沙囊 | TRADUÇÃO: saco de areia/variante de 砂囊
+沙国 | TRADUÇÃO: Arábia Saudita (Taiwan), abrev. para 沙烏地阿拉伯王國|沙乌地阿拉伯王国
+沙土 | TRADUÇÃO: solo arenoso
+沙地 | TRADUÇÃO: praia arenosa ou margem de rio/duna de areia/terra arenosa
+沙地话 | TRADUÇÃO: ver 啟海話|启海话
+沙坑 | TRADUÇÃO: caixa de areia/poço de salto (atletismo)/bunker (golfe)
+沙坑杆 | TRADUÇÃO: cunha de areia (golfe)
+沙坡头 | TRADUÇÃO: ver 沙坡頭區|沙坡头区
+沙坡头区 | TRADUÇÃO: Shapotou, um distrito da cidade de Zhongwei 中衛市|中卫市, Ningxia
+沙坪坝 | TRADUÇÃO: ver 沙坪壩區|沙坪坝区
+沙坪坝区 | TRADUÇÃO: Shapingba, um distrito de Chongqing 重慶|重庆
+沙堡 | TRADUÇÃO: castelo de areia
+沙场 | TRADUÇÃO: poço de areia/campo de batalha/campo de guerra
+沙尘 | TRADUÇÃO: areia e poeira transportadas pelo ar
+沙尘暴 | TRADUÇÃO: tempestade de areia e poeira
+沙坝 | TRADUÇÃO: banco de areia/cordão arenoso
+沙士 | TRADUÇÃO: (estrangeirismo) sarsaparilla (refrigerante gaseificado)/(Hong Kong) (estrangeirismo) SARS (síndrome respiratória aguda grave)
+沙奎尔·奥尼尔 | TRADUÇÃO: Shaquille O'Neal (1972-), ex-astro da NBA
+沙姆沙伊赫 | TRADUÇÃO: Sharm el-Sheikh, cidade no Egito
+沙威玛 | TRADUÇÃO: shawarma, sanduíche de wrap do Oriente Médio (estrangeirismo)
+沙子 | TRADUÇÃO: areia/grão/CL:粒,把
+沙家浜 | TRADUÇÃO: "Córrego da Família Sha", uma ópera de Pequim classificada como teatro modelo 樣板戲|样板戏
+沙展 | TRADUÇÃO: sargento (estrangeirismo)
+沙岩 | TRADUÇÃO: arenito/grês
+沙巴 | TRADUÇÃO: Sabá, estado da Malásia no norte de Bornéu 婆羅洲|婆罗洲
+沙市 | TRADUÇÃO: ver 沙市區|沙市区
+沙市区 | TRADUÇÃO: Shashi, um distrito da cidade de Jingzhou 荊州市|荆州市, Hubei
+沙弥 | TRADUÇÃO: noviço budista
+沙律 | TRADUÇÃO: ver 沙拉
+沙悟净 | TRADUÇÃO: Sha Wujing, também conhecido como Frade Areia ou Sandy, um dos três discípulos do monge budista Tang Sanzang em "Jornada ao Oeste" 西遊記|西游记
+沙拉 | TRADUÇÃO: (estrangeirismo) salada
+沙拉甩干器 | TRADUÇÃO: centrífuga de salada
+沙拉酱 | TRADUÇÃO: molho de salada
+沙捞越 | TRADUÇÃO: Sarauá, estado da Malásia no noroeste de Bornéu 婆羅洲|婆罗洲
+沙文主义 | TRADUÇÃO: chauvinismo
+沙暴 | TRADUÇÃO: tempestade de areia
+沙朗 | TRADUÇÃO: (estrangeirismo) lombo/alcatra
+沙朗牛排 | TRADUÇÃO: bife de lombo/bife de alcatra
+沙林 | TRADUÇÃO: (estrangeirismo) sarim
+沙果 | TRADUÇÃO: macieira-pereira chinesa (Malus asiatica)
+沙梨 | TRADUÇÃO: pera asiática; pera-areia (Pyrus pyrifolia)
+沙棘 | TRADUÇÃO: (botânica) espinheiro-marítimo (Hippophae rhamnoides)
+沙槌 | TRADUÇÃO: variante de 沙錘|沙锤
+沙池 | TRADUÇÃO: tanque de areia (para brincadeiras infantis ou salto em distância etc.)/caixa de areia
+沙沙 | TRADUÇÃO: sussurro/farfalhar
+沙河 | TRADUÇÃO: ver 沙河市
+沙河口 | TRADUÇÃO: ver 沙河口區|沙河口区
+沙河口区 | TRADUÇÃO: Shahekou, um distrito da cidade de Dalian 大連市|大连市, Liaoning
+沙河市 | TRADUÇÃO: Shahe, uma cidade administrativa em Xingtai 邢臺市|邢台市, Hebei
+沙法维王朝 | TRADUÇÃO: Dinastia Safávida Persa 1501-1722
+沙洋 | TRADUÇÃO: ver 沙洋縣|沙洋县
+沙洋县 | TRADUÇÃO: Shayang, um condado na cidade de Jingmen 荊門市|荆门市, Hubei
+沙洲 | TRADUÇÃO: banco de areia/cordão arenoso
+沙漏 | TRADUÇÃO: ampulheta/filtro de areia
+沙漠 | TRADUÇÃO: deserto/CL:個|个
+沙漠之狐 | TRADUÇÃO: Raposa do Deserto
+沙漠化 | TRADUÇÃO: desertificação
+沙滩 | TRADUÇÃO: praia/margem arenosa/CL:片
+沙滩排球 | TRADUÇÃO: vôlei de praia
+沙滩鞋 | TRADUÇÃO: sapatos de praia/botas de neoprene
+沙湾 | TRADUÇÃO: ver 沙灣區|沙湾区/ver 沙灣市|沙湾市
+沙湾区 | TRADUÇÃO: Shawan, um distrito da cidade de Leshan 樂山市|乐山市, Sichuan
+沙湾市 | TRADUÇÃO: Shawan, uma cidade administrativa na Prefeitura de Tacheng 塔城地區|塔城地区, Xinjiang
+沙乌地阿拉伯 | TRADUÇÃO: Arábia Saudita (Taiwan)
+沙爹 | TRADUÇÃO: satay (molho)
+沙爹酱 | TRADUÇÃO: molho satay
+沙特 | TRADUÇÃO: Arábia Saudita/abrev. para Arábia Saudita
+沙特阿拉伯 | TRADUÇÃO: Arábia Saudita
+沙特阿拉伯人 | TRADUÇÃO: saudita/pessoa da Arábia Saudita
+沙特鲁 | TRADUÇÃO: Châteauroux/Chateauroux (cidade francesa)
+沙琪玛 | TRADUÇÃO: sachima, pastel doce (manchu) feito de tiras de massa frita cobertas com calda, prensadas e cortadas em blocos
+沙瓦 | TRADUÇÃO: azedo (tipo de coquetel) (estrangeirismo)
+沙瓦玛 | TRADUÇÃO: shawarma, sanduíche do Oriente Médio (estrangeirismo)
+沙田 | TRADUÇÃO: Sha Tin, cidade nos Novos Territórios, Hong Kong
+沙画 | TRADUÇÃO: quadro de areia
+沙畹 | TRADUÇÃO: Chavannes (nome)
+沙发 | TRADUÇÃO: (estrangeirismo) sofá (CL:條|条,張|张)/(gíria da Internet) primeiro comentário em um fórum
+沙发客 | TRADUÇÃO: couchsurfing/couchsurfer
+沙发床 | TRADUÇÃO: sofá-cama
+沙皇 | TRADUÇÃO: czar (estrangeirismo)
+沙皇俄国 | TRADUÇÃO: Rússia czarista
+沙皮狗 | TRADUÇÃO: cão shar-pei chinês (raça canina)
+沙盒 | TRADUÇÃO: (informática) sandbox
+沙盘 | TRADUÇÃO: mesa de areia (militar)/modelo 3D de terreno (ou local) (para marketing imobiliário, aula de geografia etc)/bandeja de areia (para escrever caracteres)
+沙盘推演 | TRADUÇÃO: planejar uma missão militar em uma mesa de areia (expressão idiomática)/ensaiar uma ação ou atividade planejada/fazer um ensaio geral
+沙眼 | TRADUÇÃO: tracoma
+沙石 | TRADUÇÃO: areia e pedras
+沙碛 | TRADUÇÃO: (literário) deserto/costa arenosa
+沙砾 | TRADUÇÃO: grãos de areia
+沙祖康 | TRADUÇÃO: Sha Zukang (1947-), diplomata chinês
+沙粒 | TRADUÇÃO: grão de areia
+沙糖 | TRADUÇÃO: variante de 砂糖
+沙县 | TRADUÇÃO: ver 沙縣區|沙县区
+沙县区 | TRADUÇÃO: Shaxian, um distrito da cidade de Sanming 三明市, Fujian
+沙色朱雀 | TRADUÇÃO: (espécie de ave da China) pintarroxo-pálido (Carpodacus stoliczkae)
+沙茶 | TRADUÇÃO: satay (molho de amendoim picante), também escrito sate
+沙蝗 | TRADUÇÃO: gafanhoto do deserto
+沙虫 | TRADUÇÃO: verme da areia
+沙蚕 | TRADUÇÃO: gênero Nereis, com espécies que incluem o verme da areia e o verme do molusco
+沙袋 | TRADUÇÃO: saco de areia/saco de pancadas (tradicionalmente cheio de areia)
+沙袋鼠 | TRADUÇÃO: wallabia-dos-pântanos (Wallabia bicolor)
+沙西米 | TRADUÇÃO: sashimi (estrangeirismo)
+沙质 | TRADUÇÃO: arenoso
+沙那 | TRADUÇÃO: Saná, capital do Iêmen (Taiwan)
+沙里亚 | TRADUÇÃO: sharia (lei islâmica) (estrangeirismo)
+沙锤 | TRADUÇÃO: maraca
+沙锅 | TRADUÇÃO: variante de 砂鍋|砂锅
+沙门 | TRADUÇÃO: monge (sânscrito: Sramana, originalmente se refere ao norte da Índia)/monge budista
+沙门氏菌 | TRADUÇÃO: Salmonella
+沙门菌 | TRADUÇÃO: salmonela
+沙雅 | TRADUÇÃO: ver 沙雅縣|沙雅县
+沙雅县 | TRADUÇÃO: Xayar, um condado na Prefeitura de Aksu 阿克蘇地區|阿克苏地区, Xinjiang
+沙雕 | TRADUÇÃO: escultura de areia/(gíria da Internet) bobo; ridículo; estupidamente hilário (trocadilho com 傻屌)
+沙头角 | TRADUÇÃO: Sha Tau Kok (cidade em Hong Kong)
+沙鱼 | TRADUÇÃO: variante de 鯊魚|鲨鱼
+沙丽 | TRADUÇÃO: (estrangeirismo) sari
+沙鼠 | TRADUÇÃO: gerbo
+沙龙 | TRADUÇÃO: salão (estrangeirismo)
+沚 | TRADUÇÃO: ilhota
+沛 | TRADUÇÃO: copioso/abundante
+沛公 | TRADUÇÃO: Duque de Pei (isto é, 劉邦|刘邦)
+沛县 | TRADUÇÃO: Condado de Pei ou Peixian, um condado na cidade de Xuzhou 徐州市, Jiangsu
+沫 | TRADUÇÃO: espuma/borbulhas
+沬 | TRADUÇÃO: amanhecer/nome de lugar
+沭 | TRADUÇÃO: rio em Shandong
+沭阳 | TRADUÇÃO: ver 沭陽縣|沭阳县
+沭阳县 | TRADUÇÃO: Shuyang, um condado na cidade de Suqian 宿遷市|宿迁市, Jiangsu
+沮 | TRADUÇÃO: destruir/parar
+沮丧 | TRADUÇÃO: desanimado/abatido/consternado
+沰 | TRADUÇÃO: deixar cair
+沱 | TRADUÇÃO: lacrimoso/ramificar (de rio)
+沱沱河 | TRADUÇÃO: nascente do rio Changjiang ou Yangtzé
+沱灢 | TRADUÇÃO: ver 峴港|岘港
+沱茶 | TRADUÇÃO: bolo de chá, comumente chá Pu'er 普洱茶, compactado em forma de tigela ou ninho/chá em tijolo em forma de cúpula/bolo de chá prensado
+河 | TRADUÇÃO: rio (CL:條|条,道)/(forma presa) Rio Amarelo/(forma presa) Via Láctea/(forma presa) (em menus de restaurantes) talharim de arroz 河粉
+河伯 | TRADUÇÃO: nome ou deus do rio associado ao Rio Amarelo
+河内 | TRADUÇÃO: Hanói, capital do Vietnã
+河北 | TRADUÇÃO: ver 河北省
+河北区 | TRADUÇÃO: distrito de Hebei do município de Tianjin 天津市
+河北工业大学 | TRADUÇÃO: Universidade de Tecnologia de Hebei
+河北日报 | TRADUÇÃO: Diário de Hebei, jornal fundado em 1949
+河北梆子 | TRADUÇÃO: ópera de Hebei
+河北省 | TRADUÇÃO: Província de Hebei, capital Shijiazhuang 石家莊市|石家庄市 (abrev. 冀)
+河北科技大学 | TRADUÇÃO: Universidade de Ciência e Tecnologia de Hebei
+河南 | TRADUÇÃO: ver 河南省/ver 河南蒙古族自治縣|河南蒙古族自治县
+河南省 | TRADUÇÃO: Província de Henan, capital Zhengzhou 鄭州市|郑州市 (abrev. 豫)
+河南县 | TRADUÇÃO: ver 河南蒙古族自治縣|河南蒙古族自治县
+河南蒙古族自治县 | TRADUÇÃO: Condado Autônomo Mongol de Henan, na Prefeitura Autônoma Tibetana de Huangnan 黃南藏族自治州|黄南藏族自治州, Qinghai
+河卵石 | TRADUÇÃO: seixo
+河叉 | TRADUÇÃO: foz do rio
+河口 | TRADUÇÃO: ver 河口區|河口区/ver 河口瑤族自治縣|河口瑶族自治县 ‖ estuário/foz de um rio
+河口区 | TRADUÇÃO: Hekou, um distrito da cidade de Dongying 東營市|东营市, Shandong
+河口瑶族自治县 | TRADUÇÃO: Condado Autônomo Yao de Hekou, na Prefeitura Autônoma de Honghe Hani e Yi 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+河口县 | TRADUÇÃO: ver 河口瑤族自治縣|河口瑶族自治县
+河外星系 | TRADUÇÃO: sistema estelar extragaláctico/galáxia (excluindo a nossa Galáxia)
+河外星云 | TRADUÇÃO: nebulosa extragaláctica
+河套 | TRADUÇÃO: a Grande Curva do Rio Amarelo na Mongólia Interior ‖ curva do rio
+河姆渡 | TRADUÇÃO: sítio arqueológico neolítico de Hemudu próximo a Ningbo em Zhejiang, datando de c. 5000 a.C.
+河姆渡遗址 | TRADUÇÃO: sítio arqueológico neolítico de Hemudu próximo a Ningbo 長江|长江 em Zhejiang, datando de c. 5000 a.C.
+河岸 | TRADUÇÃO: margem do rio/ribanceira do rio
+河川 | TRADUÇÃO: rios
+河工 | TRADUÇÃO: obras de conservação de rios (manutenção de diques, dragagem etc)/trabalhador de conservação de rios
+河床 | TRADUÇÃO: leito do rio
+河心 | TRADUÇÃO: meio do rio
+河心岛 | TRADUÇÃO: ilha fluvial
+河曲 | TRADUÇÃO: ver 河曲縣|河曲县 ‖ curva (de rio)/meandro
+河曲县 | TRADUÇÃO: Hequ, um condado na cidade de Xinzhou, Shanxi
+河村 | TRADUÇÃO: Kawamura (sobrenome)
+河东 | TRADUÇÃO: distrito de Hedong, da cidade de Linyi, Shandong
+河东区 | TRADUÇÃO: distrito de Hedong, do município de Tianjin/distrito de Hedong, da cidade de Linyi, Shandong
+河东狮 | TRADUÇÃO: megera/ver também 河東獅吼|河东狮吼
+河东狮吼 | TRADUÇÃO: (expressão idiomática) a leoa de Hedong ruge/fig. refere-se a uma esposa autoritária ou a um marido dominado
+河槽 | TRADUÇÃO: leito do rio/canal
+河殇 | TRADUÇÃO: Elegia do Rio, influente série documental da CCTV de 1988, que teria estimulado o movimento pela democracia da Primavera de Pequim na década de 1980
+河水 | TRADUÇÃO: água do rio
+河水不犯井水 | TRADUÇÃO: (expressão idiomática) a água do rio não interfere com a água do poço; Não interferir uns com os outros./Cuide da sua própria vida.
+河汊 | TRADUÇÃO: afluente; ramal de um rio
+河池 | TRADUÇÃO: ver 河池市
+河池市 | TRADUÇÃO: Hechi, cidade de nível de prefeitura na Região Autônoma Zhuang de Guangxi
+河沙 | TRADUÇÃO: areia de rio
+河洛人 | TRADUÇÃO: povo Hoklo, povo chinês do sul de Taiwan
+河津 | TRADUÇÃO: ver 河津市
+河津市 | TRADUÇÃO: Hejin, cidade de nível de condado na cidade de Yuncheng, Shanxi
+河流 | TRADUÇÃO: rio/CL:條|条
+河涌 | TRADUÇÃO: afluente; ramal de um rio
+河清海晏 | TRADUÇÃO: ver 海晏河清
+河渠 | TRADUÇÃO: rios e canais/curso d'água
+河港 | TRADUÇÃO: porto fluvial
+河源 | TRADUÇÃO: ver 河源市
+河源市 | TRADUÇÃO: Heyuan, cidade de nível de prefeitura na província de Guangdong
+河沟 | TRADUÇÃO: riacho/vala
+河漫滩 | TRADUÇÃO: planície de inundação
+河滨 | TRADUÇÃO: riacho/riachuelo
+河滩 | TRADUÇÃO: margem do rio; praia fluvial; restinga
+河乌 | TRADUÇÃO: (ave da China) melro-d'água-de-garganta-branca (Cinclus cinclus)
+河狸 | TRADUÇÃO: castor
+河畔 | TRADUÇÃO: margem do rio/planície fluvial
+河盲症 | TRADUÇÃO: cegueira dos rios/oncocercose
+河砂 | TRADUÇÃO: variante de 河沙
+河神 | TRADUÇÃO: deus do rio
+河童 | TRADUÇÃO: kappa, criatura aquática humanoide do tamanho de uma criança no folclore japonês
+河粉 | TRADUÇÃO: hor fun, um tipo de macarrão de arroz largo e achatado
+河蚌 | TRADUÇÃO: mexilhões/bivalves criados em rios e lagos
+河蟹 | TRADUÇÃO: caranguejo de rio/censura na internet (trocadilho com "harmonioso" 和諧|和谐, que é bloqueado pela grande muralha de fogo da China)
+河西 | TRADUÇÃO: terras a oeste do Rio Amarelo/províncias de Shaanxi, Qinghai e Gansu
+河西区 | TRADUÇÃO: distrito de Hexi, do município de Tianjin
+河西堡 | TRADUÇÃO: Hexipu, vila no condado de Yongchang, Jinchang, Gansu
+河西走廊 | TRADUÇÃO: Corredor de Hexi (ou Corredor de Gansu), uma série de oásis que atravessa Gansu, formando parte da Rota da Seda do Norte
+河谷 | TRADUÇÃO: vale do rio
+河豚 | TRADUÇÃO: baiacu; peixe-balão (Tetraodontidae)
+河豚毒素 | TRADUÇÃO: tetrodotoxina (TTX)
+河运 | TRADUÇÃO: transporte fluvial
+河道 | TRADUÇÃO: curso do rio/canal do rio
+河边 | TRADUÇÃO: margem do rio
+河间 | TRADUÇÃO: ver 河間市|河间市
+河间市 | TRADUÇÃO: Hejian, cidade de nível de condado na cidade de Cangzhou, Hebei
+河面 | TRADUÇÃO: superfície de um rio
+河马 | TRADUÇÃO: hipopótamo
+河鱼 | TRADUÇÃO: peixe de água doce
+河鲀 | TRADUÇÃO: variante de 河豚
+河鲜 | TRADUÇÃO: peixes, camarões, caranguejos e mariscos de água doce
+河鼓二 | TRADUÇÃO: Altair (estrela)
+沴 | TRADUÇÃO: miasma
+沷 | TRADUÇÃO: remover o mal/purificar/lavar
+沸 | TRADUÇÃO: ferver
+沸水 | TRADUÇÃO: água fervente
+沸沸扬扬 | TRADUÇÃO: borbulhante e gorgolejante/em alvoroço/barulhento
+沸石 | TRADUÇÃO: zeólita
+沸腾 | TRADUÇÃO: (de um líquido) ferver/(de sentimentos etc) transbordar/irromper/apaixonar-se
+沸点 | TRADUÇÃO: ponto de ebulição
+油 | TRADUÇÃO: óleo/gordura/graxa/petróleo/aplicar óleo de tungue, tinta ou verniz/oleoso/gorduroso/(fig.) falastrão/astuto
+油乎乎 | TRADUÇÃO: gorduroso/oleoso
+油井 | TRADUÇÃO: poço de petróleo
+油亮 | TRADUÇÃO: brilhante/lustroso
+油价 | TRADUÇÃO: preço do petróleo
+油光 | TRADUÇÃO: brilhante/reluzente/lustroso (devido à oleosidade)/liso/gorduroso/oleoso
+油光光 | TRADUÇÃO: brilhante/reluzente/lustroso (devido à oleosidade)/liso/gorduroso/oleoso
+油光可鉴 | TRADUÇÃO: (expressão idiomática) oleoso e brilhante a ponto de refletir/lustroso
+油光水滑 | TRADUÇÃO: macio/brilhante e liso
+油光漆 | TRADUÇÃO: verniz
+油加利 | TRADUÇÃO: variante de 尤加利
+油印 | TRADUÇÃO: mimeografar
+油嘴 | TRADUÇÃO: eloquente e astuto/língua de prata
+油嘴滑舌 | TRADUÇÃO: falastrão/língua untuosa e fala macia
+油垢 | TRADUÇÃO: sujeira gordurosa
+油墨 | TRADUÇÃO: tinta de impressão
+油子 | TRADUÇÃO: substância densa e pegajosa/(dialeto) raposa velha astuta
+油尖旺 | TRADUÇÃO: distrito de Yau Tsim Mong, de Kowloon, Hong Kong
+油尺 | TRADUÇÃO: vareta de óleo/haste medidora de óleo
+油布 | TRADUÇÃO: lona impermeável
+油底壳 | TRADUÇÃO: cárter de óleo
+油库 | TRADUÇÃO: depósito de combustível/parque de tanques de combustível
+油料 | TRADUÇÃO: oleaginosa/óleo/combustível
+油料作物 | TRADUÇÃO: cultura oleaginosa (colza, amendoim, soja, gergelim etc)/cultura produtora de óleo
+油旋 | TRADUÇÃO: Youxuan, um tipo de pastel
+油松 | TRADUÇÃO: pinheiro-vermelho-chinês
+油桃 | TRADUÇÃO: nectarina
+油桐 | TRADUÇÃO: árvore de óleo de tungue chinês (Vernicia fordii)
+油条 | TRADUÇÃO: youtiao (bastão de massa frita)/CL:根/pessoa astuta e sorrateira
+油棕 | TRADUÇÃO: dendezeiro
+油橄榄 | TRADUÇÃO: oliveira (Olea europaea)
+油气 | TRADUÇÃO: óleo e gás
+油气田 | TRADUÇÃO: campos de petróleo e gás
+油水 | TRADUÇÃO: gordura/sobras gordurosas/lucro/ganho ilícito
+油汗 | TRADUÇÃO: suor oleoso/(dialeto) pulgão
+油污 | TRADUÇÃO: sujeira gordurosa/lodo (de vazamento de óleo)
+油汪汪 | TRADUÇÃO: escorrendo óleo/gorduroso
+油油 | TRADUÇÃO: oleoso
+油泡 | TRADUÇÃO: saltear/bolhas que aparecem no óleo durante a fritura por imersão
+油泵 | TRADUÇÃO: bomba de óleo
+油渣 | TRADUÇÃO: torresmo/resíduo crocante após derreter gordura animal
+油滑 | TRADUÇÃO: oleoso/untuoso/lubrificado/caráter escorregadio
+油漆 | TRADUÇÃO: tinta a óleo/laca/pintar/CL:層|层
+油泼扯面 | TRADUÇÃO: puxado flatbread, macarrão em forma de cinto, popular em Shaanxi, também conhecido como 𰻞𰻞麵|𰻝𰻝面
+油泼面 | TRADUÇÃO: veja 油潑扯麵|油泼扯面
+油灰刀 | TRADUÇÃO: espátula para massa
+油炸 | TRADUÇÃO: fritar por imersão
+油炸圈饼 | TRADUÇÃO: rosquinha/donut
+油炸鬼 | TRADUÇÃO: (coloq.) youtiao (bastão de massa frito)
+油然而生 | TRADUÇÃO: surgir involuntariamente (expressão idiomática)/espontâneo/brotar sem aviso (de emoção)
+油烟 | TRADUÇÃO: fuligem/negro de fumo
+油烟机 | TRADUÇÃO: coifa/exaustor
+油灯 | TRADUÇÃO: lamparina a óleo
+油猾 | TRADUÇÃO: astuto/manhoso
+油田 | TRADUÇÃO: campo petrolífero
+油画 | TRADUÇÃO: pintura a óleo
+油症 | TRADUÇÃO: doença de Yusho ou doença de Yu-cheng, envenenamento em massa causado por óleo de farelo de arroz no norte de Kyushu, Japão (1968), e em Taiwan (1979)
+油砂 | TRADUÇÃO: areia betuminosa (mineração)
+油管 | TRADUÇÃO: (coloq.) YouTube ‖ tubulação de óleo/cano de óleo
+油箱 | TRADUÇÃO: tanque de combustível
+油纸 | TRADUÇÃO: papel oleado
+油罐车 | TRADUÇÃO: caminhão-tanque de óleo/caminhão-tanque de combustível
+油老虎 | TRADUÇÃO: beberrão (veículo que consome muito combustível)
+油耗 | TRADUÇÃO: consumo de combustível
+油脂 | TRADUÇÃO: graxa/óleo/gordura
+油腔滑调 | TRADUÇÃO: leviano e insincero (texto ou discurso)/língua solta/untuoso
+油膏 | TRADUÇÃO: substância semissólida à base de gordura/(medicina) pomada
+油腻 | TRADUÇÃO: comida gordurosa/comida oleosa/(de comida) gorduroso/oleoso/gorduroso/(neologismo, atestado desde 2017) (de um homem de meia-idade) repugnante/pretensioso/vulgar
+油船 | TRADUÇÃO: navio-tanque de óleo
+油花 | TRADUÇÃO: bolhas de gordura na superfície de um líquido/trapaceiro e devasso
+油菜 | TRADUÇÃO: colza (Brassica napus)/couve-chinesa (folhas verdes de certas espécies de Brassica)/(dialeto) bok choy
+油菜籽 | TRADUÇÃO: colza (Brassica campestris)/semente de colza
+油菜花 | TRADUÇÃO: flor de colza/flor de canola
+油荤 | TRADUÇÃO: carnes
+油豆腐 | TRADUÇÃO: tofu frito (cubos)
+油车 | TRADUÇÃO: (coloq.) veículo a gasolina
+油轮 | TRADUÇÃO: navio-tanque/CL:艘
+油酸 | TRADUÇÃO: ácido oleico
+油锅 | TRADUÇÃO: fritadeira
+油门 | TRADUÇÃO: acelerador (pedal)/pedal do acelerador/acelerador
+油鸡 | TRADUÇÃO: uma variedade de frango
+油鞋 | TRADUÇÃO: sapatos impermeáveis/sapatos oleados (para tempo chuvoso)
+油页岩 | TRADUÇÃO: xisto betuminoso
+油饭 | TRADUÇÃO: arroz glutinoso frito
+油饼 | TRADUÇÃO: bolinho de massa frito/bolo de semente de algodão (ração animal)
+油盐不进 | TRADUÇÃO: (expressão idiomática) impermeável à persuasão; irredutível; impossível de convencer
+油盐酱醋 | TRADUÇÃO: (lit.) óleo, sal, molho de soja e vinagre (expressão idiomática)/(fig.) necessidades diárias da vida
+油麦 | TRADUÇÃO: aveia nua (antigo)
+油麦菜 | TRADUÇÃO: alface-indiana
+油黑 | TRADUÇÃO: preto brilhante
+沺 | TRADUÇÃO: turbulento
+治 | TRADUÇÃO: governar/administrar/gerenciar/controlar/dominar (um rio)/tratar (uma doença)/eliminar (uma praga)/punir/pesquisar
+治下 | TRADUÇÃO: sob jurisdição de
+治保 | TRADUÇÃO: aplicação da lei e proteção do público (conforme previsto na RPC por comitês de segurança locais 治保會|治保会)
+治伤 | TRADUÇÃO: tratar uma lesão
+治丧 | TRADUÇÃO: organizar e realizar um funeral
+治国 | TRADUÇÃO: governar um país
+治国理政 | TRADUÇÃO: administrar assuntos de estado/governar o país
+治外法权 | TRADUÇÃO: imunidade diplomática/(história) extraterritorialidade, os direitos (sob tratados desiguais) de um estrangeiro viver na China fora da jurisdição chinesa
+治多 | TRADUÇÃO: veja 治多縣|治多县
+治多县 | TRADUÇÃO: Condado de Zhidoi, na Prefeitura Autônoma Tibetana de Yushu 玉樹藏族自治州|玉树藏族自治州, Qinghai
+治大国若烹小鲜 | TRADUÇÃO: governar uma grande nação é como cozinhar um pequeno petisco (expressão idiomática)/governo eficaz requer intervenção mínima
+治好 | TRADUÇÃO: curar
+治学 | TRADUÇÃO: erudição/estudo de alto nível/fazer pesquisa acadêmica/perseguir um alto nível de estudo
+治安 | TRADUÇÃO: ordem pública/segurança pública
+治愚 | TRADUÇÃO: eliminar formas de pensamento atrasadas (não científicas)
+治未病 | TRADUÇÃO: tratamento preventivo (medicina)
+治本 | TRADUÇÃO: atacar um problema pela raiz; efetuar uma solução permanente (em contraste com 治標|治标)
+治标 | TRADUÇÃO: tratar apenas os sintomas, mas não a causa raiz
+治标不治本 | TRADUÇÃO: tratar os sintomas, mas não a causa raiz
+治死 | TRADUÇÃO: executar/condenar à morte
+治气 | TRADUÇÃO: ficar com raiva
+治理 | TRADUÇÃO: governar/administrar/gerenciar/controlar/governança
+治病 | TRADUÇÃO: tratar uma doença
+治病救人 | TRADUÇÃO: tratar a doença para salvar o paciente/criticar uma pessoa para ajudá-la
+治疗 | TRADUÇÃO: tratar (uma doença)/tratamento médico/terapia
+治疗师 | TRADUÇÃO: terapeuta
+治疗法 | TRADUÇÃO: terapia
+治愈 | TRADUÇÃO: curar/restaurar a saúde/elevador/comovente
+治愈系 | TRADUÇÃO: edificante/revigorante/comovente
+治丝益棼 | TRADUÇÃO: lit. tentar endireitar fios de seda só para enredá-los ainda mais (expressão idiomática)/fig. tentar ajudar, mas acabar piorando as coisas
+治罪 | TRADUÇÃO: punir alguém (por um crime)
+治装 | TRADUÇÃO: preparar o necessário (principalmente roupas) para uma viagem ao exterior
+治装费 | TRADUÇÃO: despesas com 治裝|治装
+治军 | TRADUÇÃO: comando das forças armadas/gestão militar/governar forças armadas/direcionar tropas
+沼 | TRADUÇÃO: lagoa/poça
+沼气 | TRADUÇÃO: gás de pântano/metano CH4
+沼泽 | TRADUÇÃO: pântano/pântano/banhado/clareira
+沼泽地 | TRADUÇÃO: pântano/pântano/everglade
+沼泽地带 | TRADUÇÃO: pântano/pântano/everglade
+沼泽大尾莺 | TRADUÇÃO: (espécie de ave da China) cigarrinha-dos-pântanos (Megalurus palustris)
+沼泽山雀 | TRADUÇÃO: (espécie de ave da China) chapim-dos-pântanos (Poecile palustris)
+沼狸 | TRADUÇÃO: (zoologia) ratão-do-banhado/nutria
+沽 | TRADUÇÃO: abrev. de Tianjin 天津 (também 津沽) ‖ comprar/vender
+沽名钓誉 | TRADUÇÃO: pescar fama e elogios (expressão idiomática)/fazer pose de virtuoso para ganhar reputação
+沽源 | TRADUÇÃO: ver 沽源縣|沽源县
+沽源县 | TRADUÇÃO: Guyuan, condado na cidade de Zhangjiakou 張家口市|张家口市, Hebei
+沾 | TRADUÇÃO: umedecer/ser infectado por/receber benefício ou vantagem através de contato/tocar ‖ variante de 沾/umedecer
+沾光 | TRADUÇÃO: beneficiar-se da luz/fig. beneficiar-se da associação com alguém ou algo/glória refletida
+沾唇 | TRADUÇÃO: umedecer os lábios/sorver (vinho, chá etc.)/usado especialmente com negativas: nunca tocar uma gota da bebida
+沾染 | TRADUÇÃO: poluir (frequentemente fig.)/ser infectado por/obter uma pequena vantagem
+沾染世俗 | TRADUÇÃO: ser corrompido pelos costumes do mundo (expressão idiomática)
+沾沾自喜 | TRADUÇÃO: imensuravelmente satisfeito consigo mesmo
+沾满 | TRADUÇÃO: enlameado/coberto de (lama, poeira, suor, sangue etc.)/besuntado em
+沾湿 | TRADUÇÃO: umedecer/molhar/estar imbuído de/estar impregnado de
+沾濡 | TRADUÇÃO: umedecer
+沾花惹草 | TRADUÇÃO: acariciar as flores e pisar na grama (expressão idiomática)/mulherengo/frequentar bordéis/semear a aveia selvagem
+沾亲带故 | TRADUÇÃO: (expressão idiomática) ter algum tipo de conexão (pessoal ou familiar etc.)
+沾边 | TRADUÇÃO: ter uma conexão com/estar próximo (da realidade)/ser relevante/ter participação em
+沾酱 | TRADUÇÃO: molho (culinária)
+沾黏 | TRADUÇÃO: (Taiwan) grudar (em algo)/adesão (medicina)
+沿 | TRADUÇÃO: ao longo de/seguir (uma linha, tradição etc.)/dar continuidade a/ribetear (uma borda com trança, fita etc.)/borda/beira
+沿例 | TRADUÇÃO: seguindo o modelo/de acordo com o precedente
+沿儿 | TRADUÇÃO: borda (usado diretamente após um substantivo, ex.: beira da estrada 馬路沿兒|马路沿儿)
+沿岸 | TRADUÇÃO: área costeira/litorânea ou ribeirinha
+沿岸地区 | TRADUÇÃO: área costeira
+沿条儿 | TRADUÇÃO: costura de fita (em costura)/guarnição de fita
+沿江 | TRADUÇÃO: ao longo do rio/a região em torno do rio
+沿河 | TRADUÇÃO: ver 沿河土家族自治縣|沿河土家族自治县
+沿河土家族自治县 | TRADUÇÃO: Condado Autônomo Tujia de Yanhe, na cidade de Tongren 銅仁市|铜仁市, Guizhou
+沿河县 | TRADUÇÃO: ver 沿河土家族自治縣|沿河土家族自治县
+沿洄 | TRADUÇÃO: ir com a correnteza
+沿海 | TRADUÇÃO: costeiro
+沿海地区 | TRADUÇÃO: litoral/áreas costeiras
+沿海州 | TRADUÇÃO: região costeira/refere-se ao Krai de Primorsky, no extremo leste russo
+沿滩 | TRADUÇÃO: ver 沿灘區|沿滩区
+沿滩区 | TRADUÇÃO: Yantan, distrito da cidade de Zigong 自貢市|自贡市, Sichuan
+沿用 | TRADUÇÃO: continuar a usar (métodos antigos)/aplicar como antes/de acordo com o uso
+沿线 | TRADUÇÃO: ao longo da linha (ex.: ferrovia)/a região próxima à linha
+沿着 | TRADUÇÃO: ir ao longo de/seguir
+沿袭 | TRADUÇÃO: continuar como antes/seguir (um costume antigo etc.)
+沿路 | TRADUÇÃO: pelo caminho; a caminho/área ao lado de uma estrada
+沿途 | TRADUÇÃO: ao longo dos lados da estrada/à beira do caminho
+沿边 | TRADUÇÃO: perto da fronteira/ao longo da fronteira
+沿边儿 | TRADUÇÃO: ribetear (borda com trança, fita etc.)
+沿革 | TRADUÇÃO: evolução de algo ao longo do tempo/curso do desenvolvimento/história
+况 | TRADUÇÃO: além disso/situação
+况且 | TRADUÇÃO: além disso/além do mais/ademais/outrossim
+况味 | TRADUÇÃO: circunstâncias/atmosfera/humor
+况复 | TRADUÇÃO: além disso
+泂 | TRADUÇÃO: vasto
+泃 | TRADUÇÃO: (o nome de um rio a leste de Pequim)/pronúncia em Taiwan: [Ju4]
+泃河 | TRADUÇÃO: Rio Ju, a leste de Pequim
+泄 | TRADUÇÃO: variante de 洩|泄 ‖ (forma presa) vazar; descarregar; (fig.) divulgar
+泄出 | TRADUÇÃO: vazar/liberar (líquido ou gás)
+泄殖肛孔 | TRADUÇÃO: (zoologia) cloaca
+泄殖腔 | TRADUÇÃO: (zoologia) cloaca; cavidade cloacal
+泄漏天机 | TRADUÇÃO: divulgar a vontade do céu (expressão idiomática); vazar um segredo/deixar o gato escapar do saco
+泄泻 | TRADUÇÃO: (MTC) ter diarreia ‖ variante de 泄瀉|泄泻
+泄露 | TRADUÇÃO: vazar (informação); divulgar/também pronúncia: [xie4lou4]
+泄露天机 | TRADUÇÃO: divulgar a vontade do céu (expressão idiomática); vazar um segredo/deixar o gato escapar do saco
+泅 | TRADUÇÃO: nadar (forma presa)
+泅水 | TRADUÇÃO: nadar
+泅渡 | TRADUÇÃO: nadar para atravessar
+泅游 | TRADUÇÃO: nadar
+泆 | TRADUÇÃO: licencioso, libertino, dissipado
+泇 | TRADUÇÃO: o nome de um rio que flui através de Shandong e Jiangsu
+泇河 | TRADUÇÃO: Rio Jia, originário em Shandong e fluindo através de Jiangsu até o Grande Canal
+泈 | TRADUÇÃO: variante antiga de 汷
+泉 | TRADUÇÃO: fonte (pequeno curso d’água)/olho d’água/moeda (arcaico)
+泉山 | TRADUÇÃO: ver 泉山區|泉山区
+泉山区 | TRADUÇÃO: Quanshan, distrito da cidade de Xuzhou 徐州市, Jiangsu
+泉州 | TRADUÇÃO: ver 泉州市
+泉州市 | TRADUÇÃO: Quanzhou, cidade de nível de prefeitura na província de Fujian 福建省
+泉币 | TRADUÇÃO: moeda (arcaico)
+泉水 | TRADUÇÃO: água de fonte/CL:股
+泉港 | TRADUÇÃO: ver 泉港區|泉港区
+泉港区 | TRADUÇÃO: Quangang, distrito da cidade de Quanzhou 泉州市, Fujian
+泉涌 | TRADUÇÃO: jorrar
+泉源 | TRADUÇÃO: nascente/fonte/(fig.) origem
+泉眼 | TRADUÇÃO: olho d’água ou boca de fonte
+泉石膏肓 | TRADUÇÃO: lit. montanhas e rochas no coração (expressão idiomática); profundo amor pela paisagem montanhosa
+泉华 | TRADUÇÃO: sinterizar (metalurgia)
+泉路 | TRADUÇÃO: submundo
+泊 | TRADUÇÃO: atracar (um barco)/estacionar (um veículo)/(literário) calmo; tranquilo; pacífico ‖ lago/pronúncia em Taiwan: [bo2]
+泊位 | TRADUÇÃO: berço (para um navio)/vaga de estacionamento (para um veículo)
+泊松 | TRADUÇÃO: S.D. Poisson (1781-1840), matemático francês/também pronúncia: [Po1 song1]
+泊松分布 | TRADUÇÃO: distribuição de Poisson (em estatística)
+泊船 | TRADUÇÃO: atracar um barco ou navio
+泊车 | TRADUÇÃO: estacionar um veículo
+泊头 | TRADUÇÃO: ver 泊頭市|泊头市
+泊头市 | TRADUÇÃO: Botou, cidade de nível de condado na cidade de Cangzhou 滄州市|沧州市, Hebei
+泌 | TRADUÇÃO: usado em 泌陽|泌阳 (o nome de um lugar em Henan) ‖ (forma presa) secretar
+泌乳 | TRADUÇÃO: lactação
+泌尿 | TRADUÇÃO: urinar; micção; urinário
+泌尿器 | TRADUÇÃO: trato urinário/órgãos urinários
+泌尿外科 | TRADUÇÃO: urologia
+泌尿生殖道 | TRADUÇÃO: (anatomia) trato urinogenital
+泌尿系统 | TRADUÇÃO: sistema urinário
+泌阳 | TRADUÇÃO: ver 泌陽縣|泌阳县
+泌阳县 | TRADUÇÃO: Biyang, condado na cidade de Zhumadian 駐馬店市|驻马店市, Henan
+泐 | TRADUÇÃO: escrever
+泑 | TRADUÇÃO: o esmalte vítreo em porcelana, cerâmica etc.

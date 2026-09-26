@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significado1/significado2/.../ em inglês>
+# Traduza cada significado (a lista separada por "/") para português, mantendo os mesmos separadores "/", a mesma ORDEM e a mesma QUANTIDADE de significados por linha.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+忧郁症 | TRADUÇÃO: depressão
+憃 | TRADUÇÃO: tolo, estúpido, obtuso, sem graça
+憩 | TRADUÇÃO: variante de 憩/descansar
+惫 | TRADUÇÃO: exausto
+惫倦 | TRADUÇÃO: cansado e sonolento/tonto
+惫懒 | TRADUÇÃO: indolente, lânguido, preguiçoso
+惫赖 | TRADUÇÃO: travesso/atrevido
+憋 | TRADUÇÃO: sufocar/reprimir/refrear/conter/segurar (urina)/prender (a respiração)
+憋不住 | TRADUÇÃO: não conseguir reprimir algo/não conseguir se conter
+憋尿 | TRADUÇÃO: segurar a urina; evitar urinar
+憋屈 | TRADUÇÃO: aborrecido
+憋闷 | TRADUÇÃO: sentir-se oprimido/estar deprimido/sentir-se desanimado
+憋气 | TRADUÇÃO: prender a respiração/sentir-se sufocado (por falta de ar)/sufocado de ressentimento reprimido
+憋笑 | TRADUÇÃO: sufocar uma gargalhada
+憍 | TRADUÇÃO: arrogante
+憎 | TRADUÇÃO: detestar
+憎厌 | TRADUÇÃO: odiar
+憎恨 | TRADUÇÃO: detestar/ódio
+憎恶 | TRADUÇÃO: odiar o mal/odiar; detestar; abominar
+怜 | TRADUÇÃO: ter pena
+怜恤 | TRADUÇÃO: ter pena/mostrar compaixão
+怜悧 | TRADUÇÃO: ver 伶俐
+怜惜 | TRADUÇÃO: ter pena de/sentir ternura por
+怜爱 | TRADUÇÃO: ter afeição terna por/amar ternamente/mimar alguém
+怜悯 | TRADUÇÃO: ter pena de/piedade/misericórdia
+怜香惜玉 | TRADUÇÃO: ter sentimentos ternos e protetores pelo sexo frágil (expressão idiomática)
+凭什么 | TRADUÇÃO: (coloq.) por quê?/por qual motivo?
+凭仗 | TRADUÇÃO: confiar em/depender de
+凭依 | TRADUÇÃO: confiar em/basear-se em
+凭信 | TRADUÇÃO: confiar
+凭倚 | TRADUÇÃO: confiar em
+凭借 | TRADUÇÃO: confiar em/depender de/por meio de/graças a/algo em que se confia
+凭单 | TRADUÇÃO: comprovante; recibo; certificado (usado como prova para reivindicar, coletar ou acessar algo)/usar tal comprovante
+凭吊 | TRADUÇÃO: visitar um lugar pelas recordações/prestar homenagem (aos falecidos)
+凭恃 | TRADUÇÃO: depender de/confiar em
+凭据 | TRADUÇÃO: evidência
+凭本能做事 | TRADUÇÃO: seguir o próprio instinto
+凭条 | TRADUÇÃO: comprovante de papel confirmando uma transação
+凭栏 | TRADUÇÃO: apoiar-se em um parapeito
+凭准 | TRADUÇÃO: evidência (em que se pode confiar)/fundamentos (para acreditar em algo)
+凭照 | TRADUÇÃO: certificado/licença
+凭白无故 | TRADUÇÃO: variante de 平白無故|平白无故
+凭眺 | TRADUÇÃO: apoiar-se em algo e olhar ao longe
+凭祥 | TRADUÇÃO: ver 憑祥市|凭祥市
+凭祥市 | TRADUÇÃO: Pingxiang, cidade administrativa nível distrito em Chongzuo City 崇左市, Guangxi
+凭票入场 | TRADUÇÃO: entrada somente com ingresso
+凭空 | TRADUÇÃO: infundado (mentira)/sem fundamento
+凭空捏造 | TRADUÇÃO: fabricação baseada em nada (expressão idiomática); armação
+凭着 | TRADUÇÃO: confiando em/com base em
+凭藉 | TRADUÇÃO: confiar em/depender de/por meio de/graças a/algo em que se confia/também escrito 憑借|凭借
+凭证 | TRADUÇÃO: prova/certificado/recibo/vale
+凭轼结辙 | TRADUÇÃO: dirigir sem parar o mais rápido possível (expressão idiomática)
+凭陵 | TRADUÇÃO: maltratar/transgredir
+凭险 | TRADUÇÃO: (resistir ao inimigo) contando com terreno inacessível
+凭靠 | TRADUÇÃO: usar/confiar em/por meio de
+愦 | TRADUÇÃO: confuso/inquieto
+憔 | TRADUÇÃO: usado em 憔悴/variante antiga de 憔/variante de 憔
+憔悴 | TRADUÇÃO: pálido e abatido/magro e descorado/definhado/(de plantas) murcho
+慭 | TRADUÇÃO: (literário) desejar; preferir/(literário) sofrer dano ou perda
+憙 | TRADUÇÃO: variante de 喜
+惮 | TRADUÇÃO: temer/medo/desgostar
+憝 | TRADUÇÃO: desgosto/ódio
+愤 | TRADUÇÃO: indignado/raiva/ressentimento
+愤世嫉俗 | TRADUÇÃO: ser cínico/ser amargurado
+愤怒 | TRADUÇÃO: zangado/indignado/ira/cólera
+愤恨 | TRADUÇÃO: odiar/ódio/ressentir/amargurado
+愤慨 | TRADUÇÃO: ressentir/ressentimento
+愤愤 | TRADUÇÃO: extremamente zangado
+愤愤不平 | TRADUÇÃO: sentir-se indignado/sentir-se injustiçado
+愤懑 | TRADUÇÃO: deprimido/ressentido/descontente/indignado/perturbado
+愤激 | TRADUÇÃO: indignado/ultrajado
+愤然 | TRADUÇÃO: (literário) zangado/irritado
+愤青 | TRADUÇÃO: jovem irado — jovens chineses altamente nacionalistas (abrev. de 憤怒青年|愤怒青年) (neologismo c. anos 1970)
+憧 | TRADUÇÃO: usado em 憧憬/usado em 憧憧
+憧憧 | TRADUÇÃO: (de luz, sombras) balançando; movendo-se; dançando
+憧憬 | TRADUÇÃO: ansiar por; aguardar com expectativa
+憨 | TRADUÇÃO: tolo/simplório/bobo/ingênuo/robusto/duro/pesado (de corda)
+憨厚 | TRADUÇÃO: simples e honesto/direto
+憨子 | TRADUÇÃO: (dialeto) simplório/idiota/tolo
+憨实 | TRADUÇÃO: simples e honesto
+憨态 | TRADUÇÃO: aparência ingênua e inocente
+憨态可掬 | TRADUÇÃO: (de pandas, patinhos etc) adorável/fofo
+憨直 | TRADUÇÃO: honesto e direto
+憨豆先生 | TRADUÇÃO: Sr. Bean (TV)
+憩室炎 | TRADUÇÃO: diverticulite
+憩息处 | TRADUÇÃO: área de descanso
+憪 | TRADUÇÃO: composto, contente
+悯 | TRADUÇÃO: simpatizar; ter pena; sentir compaixão por/(literário) sentir tristeza; estar aflito
+悯惜 | TRADUÇÃO: sentir compaixão por
+憬 | TRADUÇÃO: despertar
+憬然 | TRADUÇÃO: estar ciente/estar sabendo
+憭 | TRADUÇÃO: claro/inteligível/severo/frio
+怃 | TRADUÇÃO: (literário) ter afeição terna por/(literário) desencorajado; desapontado/(literário) assustado
+憯 | TRADUÇÃO: já/cheio de mágoa
+宪 | TRADUÇÃO: estatuto/constituição
+宪兵 | TRADUÇÃO: polícia militar
+宪兵队 | TRADUÇÃO: corpo de polícia militar
+宪制 | TRADUÇÃO: sistema de governo constitucional/(atributivo) constitucional
+宪政 | TRADUÇÃO: governo constitucional
+宪政主义 | TRADUÇÃO: constitucionalismo
+宪法 | TRADUÇÃO: constituição (de um país)/CL:部
+宪法法院 | TRADUÇÃO: Tribunal Constitucional
+宪法监护委员会 | TRADUÇÃO: Conselho Guardião, corpo de 12 clérigos nomeados que governa o Irã
+宪章 | TRADUÇÃO: carta
+宪章派 | TRADUÇÃO: o movimento cartista (na Inglaterra dos anos 1840)
+忆 | TRADUÇÃO: recordar/lembrar/memória
+忆苦思甜 | TRADUÇÃO: ver o próprio passado como miserável e o presente como feliz (expressão idiomática)
+忆苦饭 | TRADUÇÃO: refeição desagradável feita em memória de dificuldades passadas/fig. refeição de mau gosto
+忆述 | TRADUÇÃO: falar (ou escrever) sobre as próprias recordações de eventos passados
+憷 | TRADUÇÃO: ter medo
+憷场 | TRADUÇÃO: ter medo do palco
+憷头 | TRADUÇÃO: ter medo de se destacar
+憸 | TRADUÇÃO: astucioso/adulador
+𢙐 | TRADUÇÃO: usado em 懊憹|懊𢙐
+憺 | TRADUÇÃO: paz
+憾 | TRADUÇÃO: arrependimento (sentimento de perda ou insatisfação)
+憾事 | TRADUÇÃO: motivo de arrependimento/algo que é uma (grande) pena
+憾恨 | TRADUÇÃO: ressentido/odioso
+懂 | TRADUÇÃO: entender/compreender
+懂事 | TRADUÇÃO: superar a ingenuidade da infância; estar ciente do que está acontecendo no mundo/(esp. de uma criança) sensato; atencioso; inteligente
+懂哥 | TRADUÇÃO: (gíria) Sr. Sabichão
+懂局 | TRADUÇÃO: ser experiente
+懂得 | TRADUÇÃO: entender; saber; compreender
+懂眼 | TRADUÇÃO: (coloq.) conhecer os truques/um especialista
+懂行 | TRADUÇÃO: conhecer os truques
+懂门儿 | TRADUÇÃO: aquele que entende do seu ofício/profissional/especialista/au fait
+懅 | TRADUÇÃO: tímido/envergonhado
+懆 | TRADUÇÃO: ansioso/triste
+恳 | TRADUÇÃO: sincero
+恳切 | TRADUÇÃO: sincero/sério
+恳求 | TRADUÇÃO: implorar/suplicar/rogar/súplica
+恳请 | TRADUÇÃO: pedir encarecidamente
+恳辞 | TRADUÇÃO: recusar com sinceros agradecimentos
+懈 | TRADUÇÃO: relaxado/negligente
+懈弛 | TRADUÇÃO: frouxo (disciplina)
+懈怠 | TRADUÇÃO: relaxado/preguiçoso/negligente
+懈惰 | TRADUÇÃO: relaxado/ocioso
+懈气 | TRADUÇÃO: afrouxar/pegar leve
+应 | TRADUÇÃO: sobrenome Ying/pronúncia de Taiwan para [Ying4]/concordar (em fazer algo)/deveria/precisar/tem que/(jurídico) deve/responder/retrucar (a uma afirmação)/cumprir com/lidar ou enfrentar
+应仁之乱 | TRADUÇÃO: Guerra de Ōnin (1467-1477) entre facções do xogunato Ashikaga
+应付 | TRADUÇÃO: lidar com; enfrentar
+应付自如 | TRADUÇÃO: lidar com assuntos com facilidade (expressão idiomática)/manter-se firme
+应付裕如 | TRADUÇÃO: lidar com qualquer ocasião suavemente (expressão idiomática); estar à altura de qualquer situação
+应付账款 | TRADUÇÃO: contas a pagar
+应付过去 | TRADUÇÃO: arranjar-se de qualquer jeito
+应允 | TRADUÇÃO: dar consentimento/consentir/pronúncia de Taiwan [ying4 yun3]
+应分 | TRADUÇÃO: (de um curso de ação) dentro da área de responsabilidade de alguém; esperado de alguém; obrigatório (para uma pessoa nessa função)
+应制 | TRADUÇÃO: escrever um poema por ordem do Imperador
+应力 | TRADUÇÃO: tensão (física)
+应力场 | TRADUÇÃO: campo de tensão
+应卯 | TRADUÇÃO: responder à chamada na 卯時|卯时, i.e., entre 5 e 7 da manhã/fig. fazer uma aparição convencional
+应召 | TRADUÇÃO: responder a um chamado
+应召女郎 | TRADUÇÃO: garota de programa
+应召站 | TRADUÇÃO: central de acompanhantes
+应名 | TRADUÇÃO: nominalmente/só de nome
+应名儿 | TRADUÇÃO: variante erhua de 應名|应名
+应和 | TRADUÇÃO: ecoar um ao outro/responder (em concordância)
+应城 | TRADUÇÃO: veja 應城市|应城市
+应城市 | TRADUÇÃO: Yingcheng, cidade a nível de condado em Xiaogan City 孝感市, Hubei
+应报 | TRADUÇÃO: veja 報應|报应
+应天承运 | TRADUÇÃO: lit. responder ao céu e adequar-se aos tempos (expressão idiomática); governar de acordo com a vontade do céu/o Direito Divino dos reis
+应天顺时 | TRADUÇÃO: lit. responder ao céu e adequar-se aos tempos (expressão idiomática); governar de acordo com a vontade do céu/o Direito Divino dos reis
+应对 | TRADUÇÃO: responder; replicar/lidar; tratar/resposta
+应对如流 | TRADUÇÃO: responder fluentemente/responder com inteligência
+应届 | TRADUÇÃO: deste ano/do ano corrente
+应届生 | TRADUÇÃO: estudante que se forma no ano letivo corrente; formando do ano corrente; recém-formado
+应届毕业生 | TRADUÇÃO: estudante que se forma no ano corrente/recém-formado
+应市 | TRADUÇÃO: responder ao mercado/comprar ou vender de acordo com as condições do mercado
+应得 | TRADUÇÃO: merecer
+应从 | TRADUÇÃO: consentir/obedecer
+应征 | TRADUÇÃO: candidatar-se (a um emprego)/responder a um anúncio de emprego
+应急 | TRADUÇÃO: responder a uma emergência/enfrentar uma contingência/(atributivo) de emergência
+应急待命 | TRADUÇÃO: prontidão de emergência/estar de prontidão
+应急照射 | TRADUÇÃO: exposição de emergência (energia nuclear)
+应战 | TRADUÇÃO: aceitar um desafio/enfrentar um ataque e reagir
+应手 | TRADUÇÃO: manusear/conveniente
+应承 | TRADUÇÃO: concordar (em fazer algo)/prometer
+应接 | TRADUÇÃO: atender/lidar com
+应接不暇 | TRADUÇÃO: mais do que se pode atender (expressão idiomática)/inundado (com perguntas etc)/sobrecarregado (pela beleza da paisagem)
+应援 | TRADUÇÃO: (originalmente) fornecer assistência/(mais recentemente) mostrar apoio (a um ídolo cantor etc)
+应收 | TRADUÇÃO: (de uma quantia em dinheiro etc) a receber
+应收账款 | TRADUÇÃO: contas a receber
+应敌 | TRADUÇÃO: enfrentar o inimigo/responder a um ataque
+应时 | TRADUÇÃO: oportuno/ocasional
+应景 | TRADUÇÃO: de acordo com os tempos/sazonal
+应景儿 | TRADUÇÃO: de acordo com os tempos/sazonal
+应有 | TRADUÇÃO: merecer (atenção, respeito etc)/dever ter (liberdades, direitos etc)
+应有尽有 | TRADUÇÃO: tudo o que deveria estar aqui está aqui (expressão idiomática); tudo o que se pode pensar está à mão/ter tudo o que precisa
+应机立断 | TRADUÇÃO: agir em uma oportunidade (expressão idiomática); aproveitar prontamente uma situação
+应激 | TRADUÇÃO: estresse (abbr. for 應激反應|应激反应)
+应激反应 | TRADUÇÃO: estresse (fisiológico etc)
+应激性 | TRADUÇÃO: irritável/sensível/excitável
+应激源 | TRADUÇÃO: estressor
+应用 | TRADUÇÃO: colocar em uso; aplicar/prático; aplicado (ciência, linguística etc)/aplicação; uso prático/(computação) app
+应用层 | TRADUÇÃO: camada de aplicação (computação)
+应用平台 | TRADUÇÃO: plataforma de aplicação (computação)
+应用数学 | TRADUÇÃO: matemática aplicada
+应用文 | TRADUÇÃO: escrita aplicada/escrita para fins práticos (cartas comerciais, publicidade etc)
+应用物理 | TRADUÇÃO: física aplicada
+应用科学 | TRADUÇÃO: ciência aplicada
+应用程序 | TRADUÇÃO: (computação) programa/aplicativo
+应用程序接口 | TRADUÇÃO: interface de programação de aplicativos (API)
+应用程序编程接口 | TRADUÇÃO: interface de programação de aplicativos (API)
+应用程式 | TRADUÇÃO: (Taiwan) (computação) programa/aplicativo
+应用程式介面 | TRADUÇÃO: interface de programação de aplicativos (API) (Taiwan)
+应用软件 | TRADUÇÃO: software aplicativo
+应用软体 | TRADUÇÃO: (Taiwan) software aplicativo
+应当 | TRADUÇÃO: dever; ter a obrigação de
+应答 | TRADUÇÃO: responder
+应县 | TRADUÇÃO: Condado de Ying ou Yingxian, um condado na cidade de Shuozhou 朔州市, Shanxi
+应县木塔 | TRADUÇÃO: a pagode de madeira do Templo Fogong no Condado de Ying, Shanxi, construído em 1056 (dinastia Song)
+应考 | TRADUÇÃO: fazer uma prova; prestar exame
+应聘 | TRADUÇÃO: aceitar uma oferta de emprego/candidatar-se a uma vaga anunciada
+应聘者 | TRADUÇÃO: pessoa que aceita um emprego/candidato a emprego/CL:位
+应声 | TRADUÇÃO: voz que responde/responder a uma voz/responder/imitar uma voz/repetir como papagaio
+应声虫 | TRADUÇÃO: puxa-saco/pessoa sem opinião própria
+应举 | TRADUÇÃO: prestar exames imperiais
+应计 | TRADUÇÃO: provisão (contabilidade)
+应计基础 | TRADUÇÃO: regime de competência (contabilidade)
+应许 | TRADUÇÃO: prometer/permitir
+应许之地 | TRADUÇÃO: Terra Prometida
+应诉 | TRADUÇÃO: (de um réu) responder a uma acusação/defender-se
+应诊 | TRADUÇÃO: atender pacientes (de médico)/realizar consulta
+应诏 | TRADUÇÃO: responder a um decreto imperial
+应试 | TRADUÇÃO: fazer uma prova/(de um sistema educacional) ser voltado para exames
+应试教育 | TRADUÇÃO: educação voltada para exames; ensinar para a prova
+应该 | TRADUÇÃO: deveria; ter que; precisar
+应该的 | TRADUÇÃO: (resposta educada) de nada; só cumprindo meu dever; sem problema
+应诺 | TRADUÇÃO: concordar (em fazer algo); prometer
+应变 | TRADUÇÃO: lidar com uma contingência; adaptar-se a mudanças
+应变力 | TRADUÇÃO: adaptabilidade; desenvoltura
+应变数 | TRADUÇÃO: (mat.) variável dependente
+应变管理 | TRADUÇÃO: gestão de mudanças (negócios)
+应运 | TRADUÇÃO: conformar-se com o destino/conforme a ocasião exige
+应运而生 | TRADUÇÃO: surgir para cumprir um destino histórico (expressão idiomática)/surgir em um momento oportuno/capaz de aproveitar uma oportunidade/levantar-se para a ocasião
+应选 | TRADUÇÃO: candidatar-se a uma eleição/ser selecionado; ser eleito
+应邀 | TRADUÇÃO: a convite de alguém/por convite
+应酬 | TRADUÇÃO: participar de atividades sociais; socializar/banquete; festa; compromisso social
+应采儿 | TRADUÇÃO: Cherrie Ying Choi-Yi (1983–), atriz
+应门 | TRADUÇÃO: atender à porta
+应验 | TRADUÇÃO: realizar-se/acontecer como previsto/cumprir-se
+应点 | TRADUÇÃO: agir conforme a palavra
+懊 | TRADUÇÃO: arrepender-se
+懊丧 | TRADUÇÃO: abatido/desanimado/deprimido
+懊悔 | TRADUÇÃO: sentir remorso/arrepender-se/ter pesar
+懊恼 | TRADUÇÃO: irritado/aborrecido/chateado
+懊𢙐 | TRADUÇÃO: ansioso/preocupado
+懋 | TRADUÇÃO: ser trabalhador/luxuriante/esplêndido
+怿 | TRADUÇÃO: satisfeito/alegrar-se
+懔 | TRADUÇÃO: medo
+蒙 | TRADUÇÃO: (literário) sincero; honesto; genuíno/garoa/nevoeiro/enganar/trapacear/ludibriar/palpite cego/cego/visão turva/sobrenome Meng/grupo étnico Mongol/abrev. para Mongólia 蒙古國|蒙古国/pronúncia taiwanesa [Meng2]/(nocauteado) inconsciente/atordoado/estonteado/cobrir/ignorante/sofrer (infortúnio)/receber (um favor)/enganar
+怼 | TRADUÇÃO: (gíria da internet) atacar verbalmente; criticar publicamente; chamar a atenção/desgostar/odiar
+懠 | TRADUÇÃO: irado
+懑 | TRADUÇÃO: melancolia
+懑然 | TRADUÇÃO: desanimadamente
+㤽 | TRADUÇÃO: usado em 懤懤|㤽㤽
+㤽㤽 | TRADUÇÃO: ansioso/deprimido
+懥 | TRADUÇÃO: enfurecido
+懦 | TRADUÇÃO: (forma presa) covarde; medroso
+懦夫 | TRADUÇÃO: covarde
+懦弱 | TRADUÇÃO: covarde; fraco
+恹 | TRADUÇÃO: usado em 懨懨|恹恹
+恹恹 | TRADUÇÃO: fraco; preocupado; doentio; abatido
+懫 | TRADUÇÃO: enfurecido/ressentido/odiar/desistir
+懮 | TRADUÇÃO: aflito/relaxado
+懮虑 | TRADUÇÃO: (sentir) ansiedade/preocupação
+懰 | TRADUÇÃO: adorável/bonito
+懱 | TRADUÇÃO: variante de 蔑
+惩 | TRADUÇÃO: punir/repreender/avisar
+惩一儆百 | TRADUÇÃO: lit. punir um para advertir cem (expressão idiomática)/fig. dar o exemplo em alguém
+惩一警百 | TRADUÇÃO: variante de 懲一儆百|惩一儆百
+惩前毖后 | TRADUÇÃO: lit. punir os anteriores para prevenir os posteriores (expressão idiomática); criticar erros anteriores firmemente para evitar que repitam
+惩恶劝善 | TRADUÇÃO: veja 懲惡揚善|惩恶扬善
+惩恶扬善 | TRADUÇÃO: defender a virtude e condenar o mal (expressão idiomática)
+惩戒 | TRADUÇÃO: disciplinar/repreender
+惩治 | TRADUÇÃO: punir
+惩罚 | TRADUÇÃO: pena/castigo/punir
+惩罚性 | TRADUÇÃO: punitivo
+惩处 | TRADUÇÃO: punir/aplicar justiça
+惩办 | TRADUÇÃO: punir (alguém)/tomar medidas disciplinares contra (alguém)
+懵 | TRADUÇÃO: (forma presa) confuso; ignorante
+懵圈 | TRADUÇÃO: variante de 蒙圈
+懵懂 | TRADUÇÃO: confuso; ignorante
+懵懵懂懂 | TRADUÇÃO: (expressão idiomática) confuso; ignorante; atrapalhado
+懵逼 | TRADUÇÃO: (dialeto) atordoado/estarrecido
+懒人 | TRADUÇÃO: pessoa preguiçosa
+懒人包 | TRADUÇÃO: (Taiwan) (neologismo c. 2007) informação apresentada em forma facilmente assimilável (resumo, sumário, infográfico etc.)
+懒人沙发 | TRADUÇÃO: pufe; poltrona saco
+懒得 | TRADUÇÃO: não estar a fim de (fazer algo); não ter vontade de
+懒得搭理 | TRADUÇÃO: não querer reconhecer alguém/sem vontade de responder
+懒怠 | TRADUÇÃO: preguiçoso
+懒惰 | TRADUÇÃO: ocioso/preguiçoso
+懒散 | TRADUÇÃO: indolente; negligente; relaxado
+懒洋洋 | TRADUÇÃO: preguiçosamente
+懒汉 | TRADUÇÃO: sujeito ocioso/preguiçoso
+懒癌 | TRADUÇÃO: (humorístico) preguiça extrema/(coloq.) câncer preguiçoso (especialmente câncer de tireoide)
+懒腰 | TRADUÇÃO: um estirão (do corpo)
+懒蛋 | TRADUÇÃO: vadio/indolente
+懒虫 | TRADUÇÃO: (coloq.) preguiçoso
+懒猫 | TRADUÇÃO: gato sonolento ou lento/(fig.) um preguiçoso
+懒音 | TRADUÇÃO: redução fonológica; pronúncia preguiçosa; fala acelerada
+懒驴上磨屎尿多 | TRADUÇÃO: (provérbio) Um preguiçoso encontrará muitas desculpas para atrasar o trabalho/lit. Quando um burro preguiçoso gira uma mó, leva muito tempo para urinar e defecar
+懒骨头 | TRADUÇÃO: preguiçoso, mandrião/puff, almofada tipo puf
+懒鬼 | TRADUÇÃO: preguiçoso/vadio
+怀 | TRADUÇÃO: (sobrenome) Huai/peito/coração/mente/pensar em/abrigar no coração/conceber (um filho)
+怀仁 | TRADUÇÃO: ver 懷仁市|怀仁市
+怀仁堂 | TRADUÇÃO: Salão Huairen ou Huairentang, um edifício dentro de Zhongnanhai 中南海, usado como principal local de reunião do Politburo do PCCh
+怀仁市 | TRADUÇÃO: Huairen, cidade-distrito em Shuozhou City 朔州市, Shanxi
+怀来 | TRADUÇÃO: ver 懷來縣|怀来县
+怀来县 | TRADUÇÃO: Huailai, distrito em Zhangjiakou City 張家口市|张家口市, Hebei
+怀俄明 | TRADUÇÃO: Wyoming, estado dos EUA
+怀化 | TRADUÇÃO: ver 懷化市|怀化市
+怀化市 | TRADUÇÃO: Huaihua, cidade de nível de prefeitura na província de Hunan 湖南省
+怀化县 | TRADUÇÃO: distrito de Huaihua, Hunan
+怀古 | TRADUÇÃO: recordar o passado/recordar eventos passados/reminiscir/nostálgico
+怀妊 | TRADUÇÃO: gestação/gravidez
+怀孕 | TRADUÇÃO: grávida/ter concebido/gestação/gravidez
+怀安 | TRADUÇÃO: ver 懷安縣|怀安县
+怀安县 | TRADUÇÃO: Huai'an, distrito em Zhangjiakou City 張家口市|张家口市, Hebei
+怀宁 | TRADUÇÃO: ver 懷寧縣|怀宁县
+怀宁县 | TRADUÇÃO: Huaining, distrito em Anqing City 安慶市|安庆市, Anhui
+怀念 | TRADUÇÃO: estimar a memória de/pensar em/reminiscir
+怀恨 | TRADUÇÃO: sentir ódio/guardar rancor
+怀恨在心 | TRADUÇÃO: guardar rancor
+怀才不遇 | TRADUÇÃO: ter talento mas não ter oportunidade (expressão idiomática)/ser um talento não reconhecido
+怀抱 | TRADUÇÃO: abraçar/estimar/no seio (da família)/abraçar (também fig. um ideal, aspiração etc)
+怀春 | TRADUÇÃO: (de meninas) ansiar por amor
+怀有 | TRADUÇÃO: ter em si (sentimentos, talento etc)
+怀柔 | TRADUÇÃO: ver 懷柔區|怀柔区/conciliar/apaziguar
+怀柔区 | TRADUÇÃO: Huairou, distrito de Pequim
+怀氏虎鸫 | TRADUÇÃO: (espécie de ave da China) tordo-dourado (Zoothera aurea)
+怀炉 | TRADUÇÃO: aquecedor de mãos (à base de combustível)
+怀特 | TRADUÇÃO: White (nome)
+怀特岛 | TRADUÇÃO: Ilha de Wight, ilha na costa sul da Inglaterra
+怀璧其罪 | TRADUÇÃO: lit. guardar um anel de jade se torna um crime (expressão idiomática); ter problemas por causa de um item querido/fig. O talento de uma pessoa despertará a inveja dos outros.
+怀疑 | TRADUÇÃO: duvidar (de algo); ser cético/ter suspeitas; suspeitar que
+怀疑派 | TRADUÇÃO: os céticos
+怀禄 | TRADUÇÃO: ansiar por um alto cargo oficial
+怀胎 | TRADUÇÃO: engravidar/carregar um filho no útero
+怀旧 | TRADUÇÃO: sentir nostalgia/nostalgia
+怀旧感 | TRADUÇÃO: sentimento de nostalgia
+怀里 | TRADUÇÃO: abraço/peito
+怀远 | TRADUÇÃO: ver 懷遠縣|怀远县
+怀远县 | TRADUÇÃO: Huaiyuan, distrito em Bengbu City 蚌埠市, Anhui
+怀乡 | TRADUÇÃO: com saudades de casa
+怀表 | TRADUÇÃO: relógio de bolso
+怀集 | TRADUÇÃO: ver 懷集縣|怀集县
+怀集县 | TRADUÇÃO: Huaiji, distrito em Zhaoqing City 肇慶市|肇庆市, Guangdong
+悬 | TRADUÇÃO: pendurar ou suspender/preocupar-se/anúncio público/não resolvido/sem fundamento/infundado
+悬停 | TRADUÇÃO: pairar (helicóptero, mouse de computador etc)
+悬垂 | TRADUÇÃO: pender/balançar/estar suspenso
+悬壶 | TRADUÇÃO: (literário) praticar medicina/trabalhar como farmacêutico
+悬壶济世 | TRADUÇÃO: praticar medicina ou farmácia para ajudar o povo ou o público
+悬岩 | TRADUÇÃO: penhasco
+悬崖 | TRADUÇÃO: precipício/penhasco saliente
+悬崖勒马 | TRADUÇÃO: lit. frear o cavalo à beira do precipício (expressão idiomática)/fig. agir no último momento
+悬崖峭壁 | TRADUÇÃO: (expressão idiomática) penhascos íngremes e faces rochosas abruptas
+悬崖绝壁 | TRADUÇÃO: ver 懸崖峭壁|悬崖峭壁
+悬带 | TRADUÇÃO: tipoia (para imobilizar um membro lesionado etc)
+悬念 | TRADUÇÃO: suspense num filme, peça etc/preocupação com o bem-estar de alguém
+悬挂 | TRADUÇÃO: suspender/pendurar/suspensão (veículo)
+悬挂式滑翔 | TRADUÇÃO: asa-delta
+悬挂式滑翔机 | TRADUÇÃO: asa-delta (aparelho)
+悬揣 | TRADUÇÃO: especular/conjeturar
+悬案 | TRADUÇÃO: questão não resolvida/caso não resolvido
+悬梁刺股 | TRADUÇÃO: estudar assiduamente e incansavelmente (expressão idiomática)/ver também 頭懸梁，錐刺股|头悬梁，锥刺股
+悬殊 | TRADUÇÃO: extremamente diferente; muito distante
+悬河 | TRADUÇÃO: rio "suspenso" (um rio represado cujo leito é mais alto que a planície de inundação circundante)/(literário) cachoeira/catarata/(fig.) torrente de palavras
+悬浮 | TRADUÇÃO: flutuar (no ar etc)/suspensão
+悬浮微粒 | TRADUÇÃO: partículas/material particulado
+悬浮物 | TRADUÇÃO: matéria suspensa
+悬浮窗 | TRADUÇÃO: (computação) janela flutuante
+悬疑 | TRADUÇÃO: suspense
+悬荡 | TRADUÇÃO: estar pendurado; balançar/(fig.) estar no limbo; estar num estado de incerteza
+悬空 | TRADUÇÃO: pairar no ar/suspenso no ar/(fig.) incerto
+悬空寺 | TRADUÇÃO: Templo Xuankong ou Templo Suspenso perto de Yanyuan em Shanxi
+悬索桥 | TRADUÇÃO: ponte suspensa
+悬羊头卖狗肉 | TRADUÇÃO: ver 掛羊頭賣狗肉|挂羊头卖狗肉
+悬而未决 | TRADUÇÃO: (expressão idiomática) pendente de decisão; em espera
+悬臂 | TRADUÇÃO: cantiléver
+悬赏 | TRADUÇÃO: oferecer uma recompensa/recompensa (por captura)
+悬赏令 | TRADUÇÃO: uma ordem para oferecer uma recompensa (pela captura de um criminoso)
+悬雍垂 | TRADUÇÃO: úvula (biologia)
+忏 | TRADUÇÃO: (forma presa) sentir remorso/(forma presa) escritura lida para expiar os pecados de alguém (do sânscrito "ksama")
+忏悔 | TRADUÇÃO: arrepender-se/(religião) confessar
+惧 | TRADUÇÃO: temer
+惧内 | TRADUÇÃO: dominado pela esposa
+惧怕 | TRADUÇÃO: ter medo
+惧高症 | TRADUÇÃO: acrofobia; medo de altura
+欢 | TRADUÇÃO: variante de 歡|欢/alegre/feliz/satisfeito/barulho/voceria/variante de 歡|欢/uma raça de cavalo/variante de 歡|欢
+慑人 | TRADUÇÃO: intimidante; assustador/(fig.) inspirador de admiração; de tirar o fôlego; impressionante
+慑服 | TRADUÇÃO: intimidar/amedrontar para submeter
+懿 | TRADUÇÃO: (literário) exemplar; virtuoso
+懿旨 | TRADUÇÃO: um decreto imperial
+懿亲 | TRADUÇÃO: (formal) parente próximo/parente mais próximo
+恋 | TRADUÇÃO: sentir apego por/ansiar por/amar
+恋人 | TRADUÇÃO: namorado/namorada
+恋家 | TRADUÇÃO: caseiro/sentir forte apego à vida doméstica/relutar em ficar longe de casa
+恋尸癖 | TRADUÇÃO: necrofilia
+恋念 | TRADUÇÃO: ter apego sentimental a (um lugar)/sentir falta de (a casa ancestral de alguém etc)/ter nostalgia de
+恋情 | TRADUÇÃO: amor romântico
+恋爱 | TRADUÇÃO: amor (romântico)/CL:個|个,場|场/apaixonado/ter um caso (amoroso)
+恋慕 | TRADUÇÃO: estar enamorado de/ter sentimentos ternos por/ter apego sentimental (a uma pessoa ou lugar)
+恋恋 | TRADUÇÃO: relutante (em partir, deixar ir, etc.)
+恋恋不舍 | TRADUÇÃO: relutante em se separar
+恋战 | TRADUÇÃO: continuar lutando com zelo
+恋栈 | TRADUÇÃO: relutante em abrir mão de um cargo
+恋歌 | TRADUÇÃO: canção de amor
+恋母情结 | TRADUÇÃO: complexo de Édipo
+恋父情结 | TRADUÇÃO: complexo de Electra
+恋物 | TRADUÇÃO: fetichismo (sexual)
+恋物狂 | TRADUÇÃO: fetichismo (sexual)
+恋物癖 | TRADUÇÃO: fetichismo (sexual)
+恋童犯 | TRADUÇÃO: pedófilo
+恋童癖 | TRADUÇÃO: pedofilia
+恋童者 | TRADUÇÃO: molestador de crianças; pedófilo
+恋综 | TRADUÇÃO: reality show de namoro (abrev. de 戀愛綜藝節目|恋爱综艺节目)
+恋脚癖 | TRADUÇÃO: fetichismo por pés
+恋旧 | TRADUÇÃO: ver 懷舊|怀旧
+恋旧情结 | TRADUÇÃO: fixação no passado/dificuldade em se adaptar a mudanças
+恋足癖 | TRADUÇÃO: fetichismo por pés
+戁 | TRADUÇÃO: estar em admiração respeitosa
+戄 | TRADUÇÃO: temer/estar em admiração/olhar repentino
+戆 | TRADUÇÃO: estúpido (dialeto Wu)/simples/honesto
+戆督 | TRADUÇÃO: estúpido, ignorante (dialeto Wu)
+戆头戆脑 | TRADUÇÃO: estúpido (dialeto Wu)
+戈 | TRADUÇÃO: sobrenome Ge/alabarda/abrev. de 戈瑞/(Taiwan) abrev. de 戈雷
+戈培尔 | TRADUÇÃO: Joseph Goebbels (1897-1945), líder nazista e político alemão
+戈壁 | TRADUÇÃO: deserto de Gobi
+戈壁沙漠 | TRADUÇÃO: deserto de Gobi
+戈壁滩 | TRADUÇÃO: deserto de Gobi
+戈壁荒滩 | TRADUÇÃO: areias estéreis do deserto de Gobi
+戈德斯通 | TRADUÇÃO: Goldstone (nome)
+戈斯拉尔 | TRADUÇÃO: Goslar, Alemanha
+戈比 | TRADUÇÃO: copeque (unidade monetária, centésimo do rublo) (estrangeirismo)
+戈氏岩鹀 | TRADUÇÃO: (espécie de ave da China) escrevedeira-de-sobrancelha-branca (Emberiza godlewskii)
+戈氏金丝燕 | TRADUÇÃO: (espécie de ave da China) andorinhão-de-Germain (Aerodramus germani)
+戈尔 | TRADUÇÃO: Gore (nome)/Al Gore (1948-), vice-presidente dos EUA 1993-2001 sob Bill Clinton, posteriormente ativista ambiental e laureado com o Nobel da Paz
+戈尔巴乔夫 | TRADUÇÃO: Gorbachev/Mikhail Sergeyevich Gorbachev (1931–2022), último presidente da União Soviética 1991–1995
+戈瑞 | TRADUÇÃO: gray (unidade de dose absorvida de radiação ionizante) (estrangeirismo)
+戈船 | TRADUÇÃO: navio armado (da antiguidade)
+戈兰高地 | TRADUÇÃO: colinas de Golã
+戈雷 | TRADUÇÃO: gray (unidade de dose absorvida de radiação ionizante) (estrangeirismo) (Taiwan)
+戉 | TRADUÇÃO: variante de 鉞|钺
+戊 | TRADUÇÃO: quinto dos Dez Troncos Celestes/quinto na ordem/letra "E" ou "V" romano em listas "A, B, C", ou "I, II, III" etc./penta
+戊五醇 | TRADUÇÃO: xilitol/também escrito 木糖醇
+戊午 | TRADUÇÃO: quinquagésimo quinto ano E7 do ciclo de 60 anos, ex.: 1978 ou 2038
+戊唑醇 | TRADUÇÃO: tebuconazol (agente antifúngico)
+戊型肝炎 | TRADUÇÃO: hepatite E
+戊子 | TRADUÇÃO: vigésimo quinto ano E1 do ciclo de 60 anos, ex.: 2008 ou 2068
+戊寅 | TRADUÇÃO: décimo quinto ano E3 do ciclo de 60 anos, ex.: 1998 ou 2058
+戊巴比妥钠 | TRADUÇÃO: pentasorbital sódico (sedativo)
+戊戌 | TRADUÇÃO: trigésimo quinto ano E11 do ciclo de 60 anos, ex.: 1958 ou 2018
+戊戌六君子 | TRADUÇÃO: os Seis Mártires Cavalheiros do fracassado movimento reformista de 1898, executados em seu rescaldo, a saber: Tan Sitong, Lin Xu, Yang Shenxiu, Liu Guangdi, Kang Guangren e Yang Rui
+戊戌政变 | TRADUÇÃO: golpe da imperatriz viúva Cixi que pôs fim à tentativa de reforma da dinastia Qing em 1898
+戊戌维新 | TRADUÇÃO: Reforma dos Cem Dias (1898), tentativa fracassada de reformar a dinastia Qing
+戊戌变法 | TRADUÇÃO: Reforma dos Cem Dias (1898), tentativa fracassada de reformar a dinastia Qing
+戊申 | TRADUÇÃO: quadragésimo quinto ano E9 do ciclo de 60 anos, ex.: 1968 ou 2028
+戊糖 | TRADUÇÃO: pentose (CH2O)5, monossacarídeo com cinco átomos de carbono, como a ribose
+戊辰 | TRADUÇÃO: quinto ano E5 do ciclo de 60 anos, ex.: 1988 ou 2048
+戊醇 | TRADUÇÃO: álcool amílico
+戌 | TRADUÇÃO: usado em 屈戌兒|屈戌儿/11.º Ramo Terrestre: 7-9 p.m., 9.º mês solar (8 de outubro a 6 de novembro), ano do Cão/ponto da bússola chinesa antiga: 300°
+戌时 | TRADUÇÃO: 19h-21h
+戌狗 | TRADUÇÃO: Ano 11, ano do Cão (ex.: 2006)
+戍 | TRADUÇÃO: guarnecer (guarnição militar)
+戍卒 | TRADUÇÃO: soldado de guarnição
+戍守 | TRADUÇÃO: guardar
+戍角 | TRADUÇÃO: toque de corneta de guarnição
+戍边 | TRADUÇÃO: guarnecer a fronteira/guardar a fronteira/exílio num posto de guarnição fronteiriço
+戎 | TRADUÇÃO: sobrenome Rong/termo genérico para armas (antigo)/exército (assuntos)/assuntos militares
+戎事 | TRADUÇÃO: assuntos militares
+戎事倥偬 | TRADUÇÃO: um tempo de urgência militar/crise de guerra
+戎机 | TRADUÇÃO: oportunidade para uma luta/guerra
+戎甲 | TRADUÇÃO: armas e armaduras
+戎羯 | TRADUÇÃO: antigos grupos étnicos no noroeste da China
+戎行 | TRADUÇÃO: tropas/assuntos militares
+戎衣 | TRADUÇÃO: uniforme militar
+戎装 | TRADUÇÃO: traje marcial
+戎车 | TRADUÇÃO: veículo militar
+戎马 | TRADUÇÃO: cavalo de guerra/forças armadas; tropas/(fig.) guerra; guerra
+戎马生涯 | TRADUÇÃO: vida militar (expressão idiomática)/a experiência da guerra
+成 | TRADUÇÃO: sobrenome Cheng / forma abreviada de Chengdu 成都 / conseguir / terminar / completar / realizar / tornar-se / transformar-se em / estar bem / OK! / um décimo
+成丁 | TRADUÇÃO: (de um homem) atingir a maioridade/um homem adulto
+成不了气候 | TRADUÇÃO: não vai longe; improvável de ser bem-sucedido
+成串 | TRADUÇÃO: estar alinhado (como uma cadeia de ilhas, um colar de pérolas etc.)/formar um aglomerado (como um cacho de uvas)/vir um após o outro (como uma série de suspiros)
+成也萧何，败也萧何 | TRADUÇÃO: lit. erguido por Xiao He, derrubado por Xiao He (expressão idiomática), aludindo a Han Xin ser nomeado Grande General/fig. situação em que o sucesso e o fracasso de alguém se devem ao mesmo fator
+成了 | TRADUÇÃO: estar feito/estar pronto/já chega!/já deu!
+成事 | TRADUÇÃO: realizar o objetivo/bem-suceder
+成事不足，败事有余 | TRADUÇÃO: incapaz de realizar qualquer coisa, mas propenso a estragar tudo (expressão idiomática)/incapaz de fazer algo certo/nunca faz, mas sempre estraga
+成交 | TRADUÇÃO: concluir um contrato/fechar um negócio
+成交价 | TRADUÇÃO: preço de venda; preço negociado; preço alcançado em leilão
+成人 | TRADUÇÃO: atingir a idade adulta/um adulto
+成人之美 | TRADUÇÃO: (expressão idiomática) beleza de ajudar os outros a ter sucesso; ato de ajudar alguém a realizar seu desejo
+成人向 | TRADUÇÃO: adequado para adultos
+成人用品 | TRADUÇÃO: produtos para adultos; artigos relacionados a sexo (camisinhas, lubrificantes, brinquedos sexuais etc.)
+成人礼 | TRADUÇÃO: cerimônia de maioridade
+成仁 | TRADUÇÃO: morrer por uma boa causa
+成仙 | TRADUÇÃO: (Taoísmo) tornar-se um imortal
+成份 | TRADUÇÃO: variante de 成分
+成份股 | TRADUÇÃO: ação incluída em índice composto
+成何体统 | TRADUÇÃO: Que escândalo!/O que mais virá por aí?
+成佛 | TRADUÇÃO: tornar-se Buda/atingir a iluminação
+成例 | TRADUÇÃO: um precedente estabelecido/uma convenção
+成倍 | TRADUÇÃO: duplo/múltiplo/exponencialmente
+成像 | TRADUÇÃO: formar uma imagem/formação de imagem
+成全 | TRADUÇÃO: ajudar alguém a realizar seu objetivo/ajudar alguém a ter sucesso/completar/tornar inteiro/arredondar
+成分 | TRADUÇÃO: composição; ingrediente; elemento; componente/posição social de alguém
+成则为王，败则为寇 | TRADUÇÃO: (expressão idiomática) chamado de rei se bem-sucedido, chamado de bandido se derrotado/(fig.) os perdedores estão sempre errados
+成功 | TRADUÇÃO: Chenggong ou Chengkung, vila no condado de Taitung, sudeste de Taiwan/ter sucesso/sucesso/bem-sucedido; frutífero
+成功大学 | TRADUÇÃO: Universidade Nacional Cheng Kung (NCKU), uma universidade pública de pesquisa em Tainan, Taiwan
+成功感 | TRADUÇÃO: senso de realização
+成功镇 | TRADUÇÃO: Chenggong ou Chengkung, vila no condado de Taitung, sudeste de Taiwan
+成化 | TRADUÇÃO: Chenghua, título de reinado do oitavo imperador Ming (reinou 1465-1487)
+成千 | TRADUÇÃO: milhares
+成千上万 | TRADUÇÃO: (literário) aos milhares e dezenas de milhares (expressão idiomática)/(fig.) inúmeros números; inumeráveis; incontáveis
+成千成万 | TRADUÇÃO: (literário) aos milhares e dezenas de milhares (expressão idiomática)/inumeráveis/milhares e milhares
+成千累万 | TRADUÇÃO: (literário) aos milhares e dezenas de milhares (expressão idiomática)/inumeráveis/milhares e milhares
+成反比 | TRADUÇÃO: variar inversamente/inversamente proporcional a
+成吉思汗 | TRADUÇÃO: Genghis Khan (1162-1227), fundador e governante do Império Mongol
+成名 | TRADUÇÃO: fazer seu nome; tornar-se famoso
+成名作 | TRADUÇÃO: obra seminal que impulsiona um escritor (ou artista, compositor etc) à fama
+成品 | TRADUÇÃO: mercadorias acabadas/um produto acabado
+成品油 | TRADUÇÃO: óleo refinado
+成员 | TRADUÇÃO: membro
+成员国 | TRADUÇÃO: país membro
+成问题 | TRADUÇÃO: ser um problema/problemático/questionável
+成器 | TRADUÇÃO: tornar-se alguém digno/tornar-se uma pessoa digna de respeito
+成因 | TRADUÇÃO: causa/fator/causa de formação
+成圈 | TRADUÇÃO: formar um círculo, anel ou laço
+成均馆 | TRADUÇÃO: Koryo Seonggyungwan, universidade que remonta à dinastia coreana Goryeo, em Gaesong, Coreia do Norte/Universidade Sungkyunkwan, Seul
+成型 | TRADUÇÃO: tomar forma/ficar formado
+成报 | TRADUÇÃO: Sing Pao Daily News
+成夜 | TRADUÇÃO: a noite toda
+成大 | TRADUÇÃO: Universidade Nacional Cheng Kung (abreviatura de 成功大學|成功大学)
+成天 | TRADUÇÃO: (coloq.) o dia todo/o tempo todo
+成套 | TRADUÇÃO: formando um conjunto completo/complementando-se mutuamente
+成婚 | TRADUÇÃO: casar-se
+成安 | TRADUÇÃO: ver 成安縣|成安县
+成安县 | TRADUÇÃO: Cheng'an, um condado na cidade de Handan, Hebei
+成家 | TRADUÇÃO: estabelecer-se e casar-se (de um homem)/tornar-se um especialista reconhecido
+成家立室 | TRADUÇÃO: casar-se (expressão idiomática)
+成家立业 | TRADUÇÃO: casar-se e iniciar uma carreira (expressão idiomática)/estabelecer-se/estabelecer-se na vida
+成实宗 | TRADUÇÃO: escola Satyasiddhi do budismo
+成对 | TRADUÇÃO: formar um par
+成就 | TRADUÇÃO: realização/sucesso/conquista/CL:個|个/alcançar (um resultado)/criar/provocar
+成就感 | TRADUÇÃO: senso de realização
+成层 | TRADUÇÃO: em camadas/estratificado
+成年 | TRADUÇÃO: tornar-se adulto/plenamente crescido; adulto/o ano todo
+成年人 | TRADUÇÃO: adulto
+成年累月 | TRADUÇÃO: ano após ano (expressão idiomática)
+成年者 | TRADUÇÃO: adulto
+成形 | TRADUÇÃO: tomar forma/modelagem/formação
+成心 | TRADUÇÃO: intencionalmente; deliberadamente; de propósito
+成性 | TRADUÇÃO: tornar-se uma segunda natureza/por natureza
+成才 | TRADUÇÃO: tornar-se alguém digno/tornar-se uma pessoa digna de respeito
+成批 | TRADUÇÃO: em lotes/a granel
+成效 | TRADUÇÃO: efeito/resultado
+成败 | TRADUÇÃO: sucesso ou fracasso
+成败利钝 | TRADUÇÃO: suceder ou falhar, afiado ou cego (expressão idiomática); vantagens e desvantagens/sucesso e fracasso/Ganha umas, perde outras.
+成败在此一举 | TRADUÇÃO: o sucesso ou fracasso depende desta única ação; ganhar ou perder, tudo acaba aqui; este é o momento decisivo
+成败得失 | TRADUÇÃO: (literário) sucesso e fracasso, os ganhos e perdas (expressão idiomática)/(fig.) pesar vários fatores
+成败论人 | TRADUÇÃO: julgar as pessoas com base em seu sucesso ou fracasso (expressão idiomática)
+成教 | TRADUÇÃO: educação de adultos (abrev. de 成人教育)
+成文 | TRADUÇÃO: escrito/estatutário
+成文法 | TRADUÇÃO: estatuto
+成方 | TRADUÇÃO: (MTC) prescrição fixa (ou seja, medicamento especificamente prescrito para uma condição definida)
+成方儿 | TRADUÇÃO: forma erhua de 成方
+成日 | TRADUÇÃO: o dia todo/o dia inteiro/o tempo todo
+成书 | TRADUÇÃO: terminar (de escrever um livro); aparecer em forma de livro/um livro já em circulação
+成本 | TRADUÇÃO: custos (de fabricação, produção etc)
+成材 | TRADUÇÃO: tornar-se alguém digno/tornar-se uma pessoa digna de respeito/(de uma árvore) crescer até o tamanho total/tornar-se útil para madeira
+成果 | TRADUÇÃO: resultado/conquista/ganho/lucro/CL:個|个
+成核 | TRADUÇÃO: nucleação
+成样 | TRADUÇÃO: decente/apresentável
+成样子 | TRADUÇÃO: decente/apresentável
+成武 | TRADUÇÃO: ver 成武縣|成武县
+成武县 | TRADUÇÃO: Chengwu, um condado na cidade de Heze, Shandong
+成活 | TRADUÇÃO: sobreviver
+成活率 | TRADUÇÃO: taxa de sobrevivência/taxa de sucesso
+成渝 | TRADUÇÃO: Chengdu 成都 e Chongqing 重慶|重庆
+成汉 | TRADUÇÃO: Cheng Han dos Dezesseis Reinos (304-347)
+成灾 | TRADUÇÃO: desastroso/tornar-se um desastre
+成为 | TRADUÇÃO: tornar-se; transformar-se em
+成熟 | TRADUÇÃO: maduro; amadurecer/amadurecer/pronúncia de Taiwan [cheng2shou2]
+成熟分裂 | TRADUÇÃO: meiose (na reprodução sexual)
+成片 | TRADUÇÃO: (de um grande número de coisas) formar uma extensão/cobrir uma área
+成王败寇 | TRADUÇÃO: ver 成則為王，敗則為寇|成则为王，败则为寇
+成田 | TRADUÇÃO: Narita (sobrenome japonês e nome de lugar)
+成田机场 | TRADUÇÃO: Aeroporto de Narita (Tóquio)
+成瘾 | TRADUÇÃO: ser viciado/vício
+成瘾性 | TRADUÇÃO: capacidade de causar vício
+成百上千 | TRADUÇÃO: centenas/um grande número/(literário) às centenas e milhares
+成真 | TRADUÇÃO: tornar-se realidade
+成立 | TRADUÇÃO: estabelecer/criar/defensável/ter fundamento
+成章 | TRADUÇÃO: formar uma composição coerente
+成竹在胸 | TRADUÇÃO: ver 胸有成竹
+成精 | TRADUÇÃO: (de um animal ou árvore etc) tornar-se um espírito ou duende/(fig.) ser incrivelmente habilidoso, inteligente ou mau etc
+成组 | TRADUÇÃO: compor (a partir de componentes)
+成县 | TRADUÇÃO: Condado de Cheng ou Chengxian, um condado na cidade de Longnan, Gansu
+成绩 | TRADUÇÃO: conquista/registros de desempenho/notas/CL:項|项,個|个
+成绩单 | TRADUÇÃO: boletim escolar ou histórico escolar
+成群 | TRADUÇÃO: em grupos/grande número de/agrupamento
+成群结队 | TRADUÇÃO: (expressão idiomática) formando um grupo; organizando uma trupe; em grande número; como uma grande multidão
+成者为王，败者为寇 | TRADUÇÃO: ver 成則為王，敗則為寇|成则为王，败则为寇
+成圣 | TRADUÇÃO: (Cristianismo) ser santificado; tornar-se santo
+成色 | TRADUÇÃO: pureza relativa de prata ou ouro/pureza em quilates/qualidade/teor
+成华 | TRADUÇÃO: ver 成華區|成华区
+成华区 | TRADUÇÃO: Chenghua, um distrito da cidade de Chengdu 成都市, Sichuan
+成药 | TRADUÇÃO: medicamento patenteado/medicamento já preparado
+成蛹 | TRADUÇÃO: pupar/tornar-se crisálida
+成虫 | TRADUÇÃO: imago (inseto adulto, sexualmente maduro, estágio final de desenvolvimento)
+成行 | TRADUÇÃO: embarcar em uma viagem
+成衣 | TRADUÇÃO: roupas prontas
+成见 | TRADUÇÃO: ideia preconcebida/viés/preconceito
+成规 | TRADUÇÃO: regras estabelecidas/caminho batido
+成亲 | TRADUÇÃO: casar
+成话 | TRADUÇÃO: fazer sentido
+成语 | TRADUÇÃO: expressão fixa chinesa, tipicamente de 4 caracteres, muitas vezes aludindo a uma história ou citação histórica; idioma; provérbio; ditado; adágio/CL:條|条,本,句
+成语典故 | TRADUÇÃO: anedota histórica ou literária que dá origem a um ditado
+成语接龙 | TRADUÇÃO: jogo onde a última palavra de um idioma 成語|成语 é a primeira do seguinte
+成说 | TRADUÇÃO: teoria ou formulação aceita
+成象 | TRADUÇÃO: formar uma imagem/evocar na mente
+成军 | TRADUÇÃO: lit. formar um exército/estabelecer (equipe, grupo, banda, organização etc)/fundar/cerimônia (de abertura)/comissionar (sistema de armas, navio de guerra)/graduar-se de um aprendizado
+成道 | TRADUÇÃO: atingir a iluminação (Budismo)
+成都 | TRADUÇÃO: ver 成都市
+成都市 | TRADUÇÃO: Chengdu, cidade subprovincial e capital da província de Sichuan 四川省
+成都体育大学 | TRADUÇÃO: Universidade de Esportes de Chengdu
+成长 | TRADUÇÃO: amadurecer/crescer/crescimento
+成长型思维 | TRADUÇÃO: mentalidade de crescimento
+成长率 | TRADUÇÃO: taxa de crescimento
+成双作对 | TRADUÇÃO: ver 成雙成對|成双成对
+成双成对 | TRADUÇÃO: formar pares/estar em casais
+成风 | TRADUÇÃO: tornar-se uma prática comum; tornar-se uma tendência
+成骨 | TRADUÇÃO: formação óssea/osteogênese
+成骨不全症 | TRADUÇÃO: osteogênese imperfeita (OI); doença dos ossos frágeis
+成体 | TRADUÇÃO: adulto/completamente formado/desenvolvido
+成龙 | TRADUÇÃO: Jackie Chan (1954-), astro do kung fu e do pop cantonês/ter sucesso na vida/tornar-se alguém
+我 | TRADUÇÃO: eu; me; meu
+我也是醉了 | TRADUÇÃO: (gíria da internet) Não consigo nem.../Você está brincando comigo!/Meu Deus!
+我人 | TRADUÇÃO: nós
+我们 | TRADUÇÃO: nós; nos; nos mesmos; nosso
+我勒个去 | TRADUÇÃO: (gíria) droga!/que merda!
+我去 | TRADUÇÃO: (gíria) que diabos!; meu Deus!; isso é loucura!
+我司 | TRADUÇÃO: nossa empresa (usado em correspondência comercial, contratos etc) (abrev. de 我方公司)
+我国 | TRADUÇÃO: meu país; nosso país
+我操 | TRADUÇÃO: (substituto para 我肏) porra/WTF
+我方 | TRADUÇÃO: nosso lado; nós
+我曹 | TRADUÇÃO: (arcaico) nós/nós/(gíria da internet) (substituto para 我肏) porra/WTF
+我的世界 | TRADUÇÃO: Minecraft (jogo de vídeo game)
+我等 | TRADUÇÃO: nós/nós (arcaico)
+我肏 | TRADUÇÃO: (vulgar) porra/WTF
+我行我素 | TRADUÇÃO: continuar do seu próprio jeito (expressão idiomática)
+我辈 | TRADUÇÃO: (literário) nós/nós
+我这个人 | TRADUÇÃO: eu pessoalmente; o tipo de pessoa que sou
+我这儿 | TRADUÇÃO: onde estou/meu lugar
+我醉欲眠 | TRADUÇÃO: lit. estou bêbado e gostaria de dormir (expressão idiomática)/(usado para indicar a natureza sincera e direta de alguém)
+我靠 | TRADUÇÃO: bobagem!/merda!/ver também 哇靠
+戒 | TRADUÇÃO: guardar-se contra/exortar/advertir ou alertar/desistir ou parar de fazer algo/disciplina monástica budista/anel (para o dedo)
+戒备 | TRADUÇÃO: tomar precauções/guardar-se contra (emergência)
+戒备森严 | TRADUÇÃO: fortemente vigiado
+戒刀 | TRADUÇÃO: faca de monge budista (não usada para matar)
+戒命 | TRADUÇÃO: proibição
+戒严 | TRADUÇÃO: impor lei marcial/impor medidas de emergência
+戒严令 | TRADUÇÃO: lei marcial
+戒严区 | TRADUÇÃO: área restrita/zona de aplicação da lei marcial
+戒坛 | TRADUÇÃO: plataforma de ordenação em um templo budista
+戒奢崇俭 | TRADUÇÃO: (expressão idiomática) abster-se de extravagância e valorizar a frugalidade
+戒子 | TRADUÇÃO: anel (de dedo)
+戒律 | TRADUÇÃO: disciplina monástica/mandamento
+戒心 | TRADUÇÃO: vigilância/cautela
+戒忌 | TRADUÇÃO: um tabu/evitar algo (como tabu)
+戒慎 | TRADUÇÃO: vigilante/cauteloso
+戒惧 | TRADUÇÃO: cauteloso
+戒指 | TRADUÇÃO: anel (de dedo)
+戒断 | TRADUÇÃO: parar (de usar drogas, álcool etc); abstinência
+戒条 | TRADUÇÃO: mandamento/preceito
+戒毒 | TRADUÇÃO: largar o vício de drogas/abster-se de drogas
+戒毒所 | TRADUÇÃO: centro de reabilitação de drogas
+戒治所 | TRADUÇÃO: centro de reabilitação de drogas
+戒烟 | TRADUÇÃO: parar de fumar
+戒牒 | TRADUÇÃO: certificado de ordenação budista ou taoísta emitido por autoridades monásticas
+戒绝 | TRADUÇÃO: abstinência/desistir (de um mau hábito)
+戒行 | TRADUÇÃO: (Budismo) aderir estritamente aos preceitos éticos/ascetismo
+戒规 | TRADUÇÃO: preceito religioso/tabu/regra
+戒酒 | TRADUÇÃO: parar de beber/abster-se de beber
+戒除 | TRADUÇÃO: parar/desistir (de um mau hábito)
+戒骄戒躁 | TRADUÇÃO: guardar-se contra o orgulho e a impaciência (expressão idiomática); permanecer modesto e manter a calma
+戋 | TRADUÇÃO: estreito/pequeno
+戋戋 | TRADUÇÃO: pequeno/tiny
+戕 | TRADUÇÃO: matar/ferir/pronúncia em Taiwan [qiang2]
+戕害 | TRADUÇÃO: ferir
+或 | TRADUÇÃO: talvez/quiçá/pode ser/possivelmente/ou
+或多或少 | TRADUÇÃO: mais ou menos
+或将 | TRADUÇÃO: talvez/talvez (no futuro)
+或是 | TRADUÇÃO: ou/um ou outro
+或然 | TRADUÇÃO: provável
+或然率 | TRADUÇÃO: probabilidade (mat.)
+或称 | TRADUÇÃO: também chamado/também conhecido como/a.k.a.
+或缺 | TRADUÇÃO: faltar/fazer sem
+或者 | TRADUÇÃO: ou/possivelmente; talvez; quem sabe
+或许 | TRADUÇÃO: talvez
+或门 | TRADUÇÃO: porta OU (eletrônica)
+或体 | TRADUÇÃO: caractere chinês variante/forma alternativa de um caractere chinês
+戚友 | TRADUÇÃO: parentes e amigos
+戚属 | TRADUÇÃO: parente/membro da família/dependente
+戚族 | TRADUÇÃO: membros da família; companheiros de clã
+戚继光 | TRADUÇÃO: Qi Jiguang (1528-1588), líder militar
+戚谊 | TRADUÇÃO: relação/amizade íntima
+戛 | TRADUÇÃO: usado em 戛納|戛纳/lança/tocar (um som)/raspar/criar/costume/variante de 戛
+戛戛 | TRADUÇÃO: difícil/desafiador/original
+戛戛独造 | TRADUÇÃO: criativo/original
+戛然 | TRADUÇÃO: (literário) parar abruptamente (de um som)/ser alto e claro
+戛然而止 | TRADUÇÃO: com um som grunhido para (expressão idiomática); chegar a um fim espontaneamente (especialmente de som)
+戛纳 | TRADUÇÃO: Cannes (França)
+戝 | TRADUÇÃO: variante antiga de 賊|贼
+戟 | TRADUÇÃO: alabarda/arma de haste longa com ponta afiada e lâmina crescente/lança e machado de batalha combinados
+戠 | TRADUÇÃO: reunir/variante antiga de 埴
+戡 | TRADUÇÃO: matar/suprimir
+戢 | TRADUÇÃO: sobrenome Ji/refrear-se/coletar/acumular/armazenar/cessar
+戣 | TRADUÇÃO: uma lança
+戤 | TRADUÇÃO: (dialeto) falsificar (um produto de marca)
+戥 | TRADUÇÃO: pequena balança romana para pesar dinheiro
+戗 | TRADUÇÃO: contrário/empurrando contra/colisão/bater/usado como equivalente de 搶|抢
+戗风 | TRADUÇÃO: contra o vento contrário
+戬 | TRADUÇÃO: levar ao máximo/cortar
+截 | TRADUÇÃO: cortar (um comprimento)/parar/interceptar/seção/pedaço/comprimento
+截停 | TRADUÇÃO: interceptar (um veículo etc.)
+截取 | TRADUÇÃO: cortar uma seção de algo
+截图 | TRADUÇÃO: (computação) captura de tela; tirar uma captura de tela
+截塔 | TRADUÇÃO: zeta (letra grega Ζζ)
+截夺 | TRADUÇÃO: interceptar
+截尾 | TRADUÇÃO: cortar; aparar (especialmente a cauda de um animal)
+截屏 | TRADUÇÃO: (computação) captura de tela; tirar uma captura de tela
+截拳道 | TRADUÇÃO: Jeet Kun Do ou o Caminho do Punho Interceptador, uma fusão de artes marciais orientais e ocidentais liderada por Bruce Lee 李小龍|李小龙
+截击 | TRADUÇÃO: interceptar (militar)
+截断 | TRADUÇÃO: cortar ao meio/separar/cortar/(fig.) interromper (conversa, fluxo etc)/interceptar/(mat.) truncar
+截止 | TRADUÇÃO: terminar; encerrar/(eletricidade) corte
+截止到 | TRADUÇÃO: (antes de uma expressão indicando um ponto no tempo) até (aquele ponto); a partir de (aquele tempo)
+截止日 | TRADUÇÃO: prazo final; data de corte
+截止期限 | TRADUÇÃO: prazo final
+截止至 | TRADUÇÃO: (antes de uma expressão indicando um ponto no tempo) até (aquele ponto); a partir de (aquele tempo)
+截然 | TRADUÇÃO: nitidamente; distintamente; radicalmente
+截然不同 | TRADUÇÃO: totalmente diferente/diferente como preto e branco
+截获 | TRADUÇÃO: interceptar/cortar e capturar
+截瘫 | TRADUÇÃO: paraplegia/paralisia
+截稿 | TRADUÇÃO: (de um jornal) parar de aceitar artigos recebidos
+截线 | TRADUÇÃO: linha de interseção
+截肢 | TRADUÇÃO: amputação (medicina)/amputar
+截至 | TRADUÇÃO: até (um tempo)/em (um tempo)
+截距 | TRADUÇÃO: intercepto (o ponto em que uma linha cruza o eixo x ou y)
+截长补短 | TRADUÇÃO: tirar do longo para complementar o curto (expressão idiomática)/compensar as deficiências um do outro/complementar-se
+截面 | TRADUÇÃO: seção/seção transversal
+戭 | TRADUÇÃO: lança
+戮力 | TRADUÇÃO: (literário) unir forças; fazer todos os esforços
+戮力同心 | TRADUÇÃO: (expressão idiomática) unir forças para trabalhar em direção a um objetivo comum
+戏 | TRADUÇÃO: variante de 戲|戏/truque/drama/peça/show/CL:齣|出,場|场,臺|台
+战 | TRADUÇÃO: lutar/luta/guerra/batalha
+战乱 | TRADUÇÃO: caos da guerra
+战事 | TRADUÇÃO: guerra/hostilidades/combate
+战俘 | TRADUÇÃO: prisioneiro de guerra
+战备 | TRADUÇÃO: prontidão para a guerra; preparação militar
+战兢 | TRADUÇÃO: tremer/estar em guarda
+战兢兢 | TRADUÇÃO: tremendo de medo
+战列舰 | TRADUÇÃO: navio de guerra
+战利品 | TRADUÇÃO: despojos de guerra
+战力 | TRADUÇÃO: força militar/poder militar/capacidade militar
+战功 | TRADUÇÃO: serviço militar excepcional
+战胜 | TRADUÇÃO: prevalecer sobre/derrotar/superar
+战区 | TRADUÇÃO: zona de guerra/zona de combate/(militar) teatro de operações
+战友 | TRADUÇÃO: camarada de armas/companheiro de batalha
+战国 | TRADUÇÃO: o período dos Reinos Combatentes (475-221 a.C.)
+战国七雄 | TRADUÇÃO: Sete Estados Poderosos dos Reinos Combatentes, a saber: 齊|齐, 楚, 燕, 韓|韩, 趙|赵, 魏 e 秦
+战国时代 | TRADUÇÃO: o período dos Reinos Combatentes (475-221 a.C.)/período dos Reinos Combatentes japonês (séculos 15-17)
+战国末 | TRADUÇÃO: final do período dos Reinos Combatentes, c. 250-221 a.C. antes da dinastia Qin do Primeiro Imperador
+战国末年 | TRADUÇÃO: final do período dos Reinos Combatentes, c. 250-221 a.C. antes da dinastia Qin do Primeiro Imperador
+战国策 | TRADUÇÃO: "Estratégias dos Reinos Combatentes", crônica do período dos Reinos Combatentes (475-220 a.C.), possivelmente escrita por Su Qin 蘇秦|苏秦
+战团 | TRADUÇÃO: grupo de combate/por extensão, uma briga/uma briga
+战地 | TRADUÇÃO: campo de batalha
+战报 | TRADUÇÃO: relatório de batalha; (esportes) resumo da partida
+战场 | TRADUÇÃO: campo de batalha/CL:個|个
+战壕 | TRADUÇÃO: trincheira/entrincheiramento
+战壕热 | TRADUÇÃO: febre das trincheiras
+战士 | TRADUÇÃO: lutador/soldado/guerreiro/CL:個|个
+战局 | TRADUÇÃO: situação da guerra
+战役 | TRADUÇÃO: campanha militar
+战后 | TRADUÇÃO: depois da guerra/pós-guerra
+战栗 | TRADUÇÃO: tremer/estremecer
+战战兢兢 | TRADUÇÃO: tremendo de medo/com medo e apreensão
+战战栗栗 | TRADUÇÃO: tremer de medo
+战抖 | TRADUÇÃO: estremecer/tremular
+战败 | TRADUÇÃO: perder uma guerra
+战斧 | TRADUÇÃO: machado de batalha
+战旗 | TRADUÇÃO: uma bandeira de guerra/uma bandeira do exército
+战时 | TRADUÇÃO: tempo de guerra
+战书 | TRADUÇÃO: declaração de guerra escrita
+战机 | TRADUÇÃO: oportunidade em uma batalha/aeronave de combate/segredo de guerra
+战歌 | TRADUÇÃO: canção de batalha
+战死 | TRADUÇÃO: morrer em combate
+战死沙场 | TRADUÇÃO: (expressão idiomática) morrer em batalha
+战况 | TRADUÇÃO: situação do campo de batalha/progresso da batalha
+战法 | TRADUÇÃO: estratégia militar
+战火 | TRADUÇÃO: chamas da guerra, estragos da guerra
+战火纷飞 | TRADUÇÃO: fogo de guerra por toda parte (expressão idiomática), envolto nas chamas da guerra
+战无不胜 | TRADUÇÃO: (expressão idiomática) onquistador, invencível
+战无不胜，攻无不克 | TRADUÇÃO: vencer em todas as batalhas e triunfar em todos os combates (expressão idiomática)/invencível/onipotente
+战无不胜，攻无不取 | TRADUÇÃO: vencer em todas as batalhas e triunfar em todos os combates (expressão idiomática)/invencível/onipotente
+战争 | TRADUÇÃO: guerra/CL:場|场,次
+战争罪 | TRADUÇÃO: crime de guerra
+战争与和平 | TRADUÇÃO: Guerra e Paz de Tolstoi 托爾斯泰|托尔斯泰
+战犯 | TRADUÇÃO: criminoso de guerra
+战略 | TRADUÇÃO: estratégia
+战略伙伴 | TRADUÇÃO: parceiro estratégico
+战略夥伴 | TRADUÇÃO: variante de 戰略伙伴|战略伙伴
+战略家 | TRADUÇÃO: estrategista
+战略性 | TRADUÇÃO: estratégico
+战略核力量 | TRADUÇÃO: força nuclear estratégica
+战略核武器 | TRADUÇÃO: arma nuclear estratégica
+战略要点 | TRADUÇÃO: ponto estratégico
+战略轰炸机 | TRADUÇÃO: bombardeiro estratégico
+战略防御倡议 | TRADUÇÃO: Iniciativa de Defesa Estratégica (IDE)
+战祸 | TRADUÇÃO: conflito desastroso/guerra sangrenta
+战端 | TRADUÇÃO: irrupção de guerra, início de hostilidades
+战线 | TRADUÇÃO: linha de batalha/frente de batalha/frente
+战绩 | TRADUÇÃO: realizações militares, (fig.) histórico de desempenho em um campo competitivo (especialmente histórico de vitórias e derrotas em esportes)
+战船 | TRADUÇÃO: navio de guerra
+战舰 | TRADUÇÃO: navio de guerra/encouraçado
+战术 | TRADUÇÃO: tática
+战术导弹 | TRADUÇÃO: míssil tático
+战术核武器 | TRADUÇÃO: armas nucleares táticas
+战袍 | TRADUÇÃO: (antigo) túnica de combate/uniforme de soldado/(esportes) uniforme de equipe/camisa de equipe
+战车 | TRADUÇÃO: biga de guerra/tanque
+战酣 | TRADUÇÃO: (literário) no auge da batalha
+战云 | TRADUÇÃO: nuvens de guerra, atmosfera de conflito iminente
+战马 | TRADUÇÃO: cavalo de guerra
+战斗 | TRADUÇÃO: lutar/envolver-se em combate/luta/batalha/CL:場|场,次
+战斗力 | TRADUÇÃO: força de combate
+战斗机 | TRADUÇÃO: caça (aeronave)
+战斗营 | TRADUÇÃO: campo de treinamento
+战斗群 | TRADUÇÃO: grupo de batalha/formação naval chefiada por um porta-aviões
+战斗者 | TRADUÇÃO: lutador
+战斗舰 | TRADUÇÃO: encouraçado
+战斗部 | TRADUÇÃO: ogiva
+戱 | TRADUÇÃO: variante de 戲|戏
+戏份 | TRADUÇÃO: cena (em um filme etc)/papel de alguém em um filme ou peça/(arcaico) pagamento de ator
+戏仿 | TRADUÇÃO: paródia/parodiar
+戏侮 | TRADUÇÃO: insultar
+戏偶 | TRADUÇÃO: fantoche de luva/CL:尊
+戏剧 | TRADUÇÃO: drama/peça de teatro
+戏剧化 | TRADUÇÃO: teatral
+戏剧化人格违常 | TRADUÇÃO: transtorno de personalidade histriônica (TPH)
+戏剧家 | TRADUÇÃO: dramaturgo/escritor de peças
+戏剧性 | TRADUÇÃO: dramático
+戏子 | TRADUÇÃO: (depreciativo) performer de ópera chinesa/(depreciativo) ator
+戏弄 | TRADUÇÃO: pregar peças em/zoar de/provocar
+戏曲 | TRADUÇÃO: ópera chinesa
+戏法 | TRADUÇÃO: truque de mágica
+戏眼 | TRADUÇÃO: a melhor parte (de uma peça etc)
+戏码 | TRADUÇÃO: peça teatral, (fig.) cenário (na vida real)
+戏票 | TRADUÇÃO: ingresso (de teatro etc)
+戏称 | TRADUÇÃO: chamar de brincadeira/apelação jocosa
+戏精 | TRADUÇÃO: (neologismo c. 2017) pessoa melodramática/drama queen
+戏耍 | TRADUÇÃO: divertir-se/brincar com/provocar
+戏台 | TRADUÇÃO: palco
+戏言 | TRADUÇÃO: assunto de brincadeira/voltar atrás na palavra
+戏词 | TRADUÇÃO: falas do ator (no teatro)
+戏说 | TRADUÇÃO: forma dramática que consiste em narração histórica/história como narrativa jocosa/esticar a história para uma história engraçada/história engraçada com interpretações forçadas da história/fazer uma comparação irracional em tom de brincadeira
+戏说剧 | TRADUÇÃO: drama de época de fantasia (na TV)
+戏谑 | TRADUÇÃO: brincar/fazer piadas/zombar
+戏院 | TRADUÇÃO: teatro
+戳 | TRADUÇÃO: espetar/picar/enfiar/(coloq.) torcer/embotar/foder (vulgar)/ficar em pé/colocar (algo) em pé/carimbo/selo
+戳不住 | TRADUÇÃO: não estar à altura, não resistir ao teste
+戳份儿 | TRADUÇÃO: ostentar
+戳个儿 | TRADUÇÃO: físico
+戳儿 | TRADUÇÃO: carimbo/selo
+戳刺感 | TRADUÇÃO: formigamento (no músculo)/parestesia
+戳咕 | TRADUÇÃO: instigar pelas costas de alguém/incitar secretamente
+戳壁脚 | TRADUÇÃO: criticar pelas costas de alguém/maledicência
+戳子 | TRADUÇÃO: carimbo/selo
+戳得住 | TRADUÇÃO: estar à altura/resistir ao teste
+戳心灌髓 | TRADUÇÃO: (expressão idiomática) atingir o âmago de alguém, magoar profundamente alguém
+戳搭 | TRADUÇÃO: bater/espetar
+戳痛点 | TRADUÇÃO: tocar num ponto sensível
+戳破 | TRADUÇÃO: perfurar/furar/(fig.) destruir (a fachada que esconde uma realidade desagradável)
+戳祸 | TRADUÇÃO: causar problemas
+戳穿 | TRADUÇÃO: perfurar/desmascarar ou expor (mentiras etc)
+戳穿试验 | TRADUÇÃO: teste de punção
+戳脊梁 | TRADUÇÃO: criticar pelas costas de alguém/maledicência
+戳脊梁骨 | TRADUÇÃO: criticar pelas costas de alguém/maledicência
+戳记 | TRADUÇÃO: carimbo/selo
+戴 | TRADUÇÃO: sobrenome Dai/colocar ou usar (óculos, chapéu, luvas etc)/respeitar/suportar/apoio
+戴上 | TRADUÇÃO: colocar (chapéu etc)
+戴克里先 | TRADUÇÃO: Diocleciano (c. 245-311), imperador romano
+戴胜 | TRADUÇÃO: (espécie de ave da China) poupa-eurasiana (Upupa epops)
+戴名世 | TRADUÇÃO: Dai Mingshi (1653-1713), escritor do início da dinastia Qing
+戴套 | TRADUÇÃO: usar camisinha
+戴奥辛 | TRADUÇÃO: dioxina, hidrocarboneto heterocíclico cancerígeno (especialmente uso em Taiwan)
+戴孝 | TRADUÇÃO: usar luto/estar de luto
+戴安娜 | TRADUÇÃO: Diana (nome)
+戴安娜王妃 | TRADUÇÃO: Diana, Princesa de Gales (1961-1997)
+戴帽子 | TRADUÇÃO: usar chapéu/(fig.) estigmatizar/ser rotulado como
+戴月披星 | TRADUÇÃO: ver 披星戴月
+戴尔 | TRADUÇÃO: Dell
+戴盆望天 | TRADUÇÃO: expressão idiomática (lit. observar o céu com uma bacia na cabeça)/é difícil progredir na carreira enquanto sobrecarregado por obrigações familiares/não se pode realizar uma tarefa importante enquanto atrapalhado por outros deveres
+戴秉国 | TRADUÇÃO: Dai Bingguo (1941-), político e diplomata profissional chinês
+戴绿帽子 | TRADUÇÃO: ser traído pelo parceiro (antigamente significava "ser corno", ou seja, aplicava-se apenas a homens)
+戴绿头巾 | TRADUÇÃO: ver 戴綠帽子|戴绿帽子
+戴维 | TRADUÇÃO: Davy / Davey / Davie / David
+戴维斯 | TRADUÇÃO: Davis ou Davies (sobrenome)
+戴维斯杯 | TRADUÇÃO: Copa Davis (competição internacional de tênis por equipes)
+戴维营 | TRADUÇÃO: Camp David
+戴菊 | TRADUÇÃO: (espécie de ave da China) estrelinha (Regulus regulus)
+戴菊鸟 | TRADUÇÃO: estrelinha / ave do gênero Regulus
+戴表 | TRADUÇÃO: usar relógio de pulso / homófono de 代表 usado para evitar a censura na internet na RPC
+戴高帽子 | TRADUÇÃO: (coloq.) ser objeto de bajulação / ser colocado em um pedestal
+戴高乐 | TRADUÇÃO: Charles De Gaulle (1890–1970), general e político francês, líder da França Livre durante a Segunda Guerra Mundial e presidente da República de 1959 a 1969
+户 | TRADUÇÃO: uma casa / porta / família
+户主 | TRADUÇÃO: chefe da família
+户内 | TRADUÇÃO: dentro de casa / no lar
+户口 | TRADUÇÃO: população (contada como número de domicílios para censo ou tributação) / residência registrada / registro de residência / (em Hong Kong e Macau) conta bancária
+户口制 | TRADUÇÃO: sistema da RPC de registro obrigatório de domicílios
+户口制度 | TRADUÇÃO: sistema da RPC de registro compulsório
+户口名簿 | TRADUÇÃO: (Taiwan) certificado de registro domiciliar (documento de identidade)
+户口本 | TRADUÇÃO: registro domiciliar / livreto de registro domiciliar / certificado de residência
+户口簿 | TRADUÇÃO: registro domiciliar
+户告人晓 | TRADUÇÃO: tornar conhecido de todos os lares (expressão idiomática); disseminar amplamente/gritar dos telhados
+户均 | TRADUÇÃO: média domiciliar
+户型 | TRADUÇÃO: configuração dos cômodos em uma residência (ex.: 3 quartos 2 banheiros)
+户外 | TRADUÇÃO: ao ar livre
+户枢不蠹 | TRADUÇÃO: (expressão idiomática) literalmente uma dobradiça de porta nunca fica carcomida / a atividade constante previne a deterioração
+户牖 | TRADUÇÃO: porta e janela / o lar
+户籍 | TRADUÇÃO: registro de censo / registro domiciliar
+户部 | TRADUÇÃO: Ministério das Receitas na China imperial
+户部尚书 | TRADUÇÃO: Ministro das Receitas (a partir da dinastia Han)
+户限 | TRADUÇÃO: soleira
+户限为穿 | TRADUÇÃO: ter um fluxo interminável de visitantes (expressão idiomática)
+户头 | TRADUÇÃO: conta bancária / CL:個|个
+戸 | TRADUÇÃO: variante de 戶|户
+戺 | TRADUÇÃO: eixo de porta
+戽 | TRADUÇÃO: balde d’água para irrigação
+戽斗 | TRADUÇÃO: balde de rega (ferramenta para irrigar campos) / queixo projetado para baixo
+戽水 | TRADUÇÃO: tirar água para irrigação (manualmente ou com roda d'água)
+戾 | TRADUÇÃO: curvar / violar / ir contra / cruel e tirânico
+戾气 | TRADUÇÃO: tendências malignas / correntes viciosas / comportamento antissocial
+戾龙 | TRADUÇÃO: serpente maligna mítica / dragão maligno na mitologia ocidental, cf. Apocalipse 14:12
+房 | TRADUÇÃO: sobrenome Fang / casa / cômodo / CL:間|间 / ramo de uma família extensa / classificador para membros da família (ou concubinas)
+房下 | TRADUÇÃO: (antigo) a própria esposa
+房中房 | TRADUÇÃO: cômodo construído dentro de um cômodo existente / área de estar autossuficiente dentro de uma casa ou apartamento
+房主 | TRADUÇÃO: proprietário / dono da casa
+房事 | TRADUÇÃO: relação sexual / fazer amor
+房仲 | TRADUÇÃO: corretor imobiliário (Taiwan)
+房价 | TRADUÇÃO: preço da casa / custo da moradia
+房劳 | TRADUÇÃO: deficiência da essência renal devido ao excesso sexual (MTC)
+房卡 | TRADUÇÃO: cartão de quarto (em hotel)
+房地产 | TRADUÇÃO: imóveis
+房地美 | TRADUÇÃO: Freddie Mac, empresa de hipotecas dos EUA / antigamente Federal Home Loan Mortgage Corp.
+房型 | TRADUÇÃO: ver 戶型|户型
+房契 | TRADUÇÃO: escritura (de uma casa) / CL:張|张,份
+房奴 | TRADUÇÃO: escravo da própria hipoteca
+房子 | TRADUÇÃO: casa / prédio (de um ou dois andares) / apartamento / cômodo / CL:棟|栋,幢,座,套,間|间
+房客 | TRADUÇÃO: inquilino
+房室 | TRADUÇÃO: cômodo
+房屋 | TRADUÇÃO: casa / prédio / CL:所,套
+房屋中介 | TRADUÇÃO: agente imobiliário / corretor de imóveis
+房山 | TRADUÇÃO: ver 房山區|房山区
+房山区 | TRADUÇÃO: Fangshan, um distrito de Pequim
+房市 | TRADUÇÃO: mercado imobiliário
+房东 | TRADUÇÃO: senhorio
+房檐 | TRADUÇÃO: beiral
+房牙 | TRADUÇÃO: corretor imobiliário (antigo)
+房牙子 | TRADUÇÃO: corretor imobiliário (antigo)
+房玄龄 | TRADUÇÃO: Fang Xuanling (579-648), historiador da dinastia Tang, compilador da História da dinastia Jin 晉書|晋书
+房产 | TRADUÇÃO: imóveis / o mercado imobiliário (ex.: casas)
+房产中介 | TRADUÇÃO: corretor imobiliário
+房产证 | TRADUÇÃO: escritura de título / certificado de propriedade
+房租 | TRADUÇÃO: aluguel de um cômodo ou casa
+房县 | TRADUÇÃO: Condado de Fang ou Fangxian, um condado na cidade de Shiyan 十堰市, Hubei
+房舍 | TRADUÇÃO: casa / prédio
+房舱 | TRADUÇÃO: cabine (de navio)
+房贷 | TRADUÇÃO: empréstimo imobiliário
+房费 | TRADUÇÃO: taxa do quarto
+房车 | TRADUÇÃO: veículo recreativo
+房钱 | TRADUÇÃO: cobranças por um cômodo / aluguel de casa
+房门 | TRADUÇÃO: porta de um cômodo
+房间 | TRADUÇÃO: cômodo / CL:間|间
+房顶 | TRADUÇÃO: topo da casa / telhado
+房颤 | TRADUÇÃO: fibrilação atrial (abreviação de 心房顫動|心房颤动)
+所 | TRADUÇÃO: na verdade / lugar / classificador para casas, pequenos prédios, instituições etc / aquilo que / partícula introduzindo uma oração relativa ou passiva / CL:個|个
+所以 | TRADUÇÃO: portanto / como resultado / então / a razão pela qual
+所以然 | TRADUÇÃO: a razão pela qual
+所作所为 | TRADUÇÃO: conduta e feitos de alguém
+所到之处 | TRADUÇÃO: onde quer que alguém vá
+所剩无几 | TRADUÇÃO: não há muito sobrando
+所向披靡 | TRADUÇÃO: (expressão idiomática) varrer tudo diante de si; ser invencível
+所向无敌 | TRADUÇÃO: ser invencível / imbatível
+所在 | TRADUÇÃO: lugar / localização / (após um substantivo) lugar onde está localizado
+所在地 | TRADUÇÃO: localização; sítio
+所多 | TRADUÇÃO: Soto
+所多玛 | TRADUÇÃO: Sodoma
+所多玛与蛾摩拉 | TRADUÇÃO: Sodoma e Gomorra
+所属 | TRADUÇÃO: afiliação de alguém (ou seja, a organização à qual se é afiliado) / subordinado (ou seja, aqueles subordinados a si mesmo) / pertencente a / afiliado / sob o comando de alguém

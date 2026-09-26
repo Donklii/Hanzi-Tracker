@@ -1,0 +1,103 @@
+# FORMATO (não traduzir esta linha): CARACTERE | DEFINIÇÃO: <texto em inglês> | DICA: <contexto/etimologia em inglês>
+# Traduza apenas o texto após "DEFINIÇÃO:" e após "DICA:" para português. DICA é só uma dica de contexto, pode ficar vazia.
+# Responda com o mesmo formato, mesma ordem, uma linha por caractere, sem pular nenhuma.
+疗 | DEFINIÇÃO: cured, healed; to recover | DICA: To clear 了 an illness 疒; 了 also provides the pronunciation
+疙 | DEFINIÇÃO: pimple, sore; wart, pustule | DICA: sickness
+疚 | DEFINIÇÃO: chronic disease; guilt, remorse; sorrow | DICA: sickness
+疝 | DEFINIÇÃO: hernia; to rupture | DICA: sickness
+疟 | DEFINIÇÃO: malaria; intermittent fever | DICA: sickness
+疠 | DEFINIÇÃO: sore, ulcer; plague, pestilence | DICA: Ten thousand 万 sick people 疒
+疡 | DEFINIÇÃO: sore, ulcer; infection | DICA: sickness
+疣 | DEFINIÇÃO: wart, tumor, papule, goiter | DICA: sickness
+疤 | DEFINIÇÃO: scar, cicatrix; birthmark | DICA: sickness
+疥 | DEFINIÇÃO: scabies; to itch | DICA: sickness
+疫 | DEFINIÇÃO: epidemic, plague, pestilence | DICA: sickness
+疬 | DEFINIÇÃO: scrofulous swellings or lumps | DICA: sickness
+疭 | DEFINIÇÃO: clonic convulsions | DICA: sickness
+疮 | DEFINIÇÃO: boil, tumor; wound, sore | DICA: sickness
+疯 | DEFINIÇÃO: crazy, insane, mentally ill | DICA: sickness
+疱 | DEFINIÇÃO: acne | DICA: sickness
+疲 | DEFINIÇÃO: weak, tired, exhausted | DICA: sickness
+疳 | DEFINIÇÃO: rickets, chickenpox; childhood disease | DICA: sickness
+疴 | DEFINIÇÃO: sickness, illness; pain | DICA: sickness
+疵 | DEFINIÇÃO: flaw, fault, defect; disease | DICA: sickness
+疸 | DEFINIÇÃO: jaundice; stomach disorder | DICA: sickness
+疹 | DEFINIÇÃO: rash, measles; fever | DICA: sickness
+疼 | DEFINIÇÃO: ache, pain; to love dearly | DICA: sickness
+疽 | DEFINIÇÃO: ulcer, carbuncle, abscess | DICA: sickness
+疾 | DEFINIÇÃO: sickness, illness, disease; to envy, to hate | DICA: sickness
+痂 | DEFINIÇÃO: scab | DICA: sickness
+痃 | DEFINIÇÃO: indigestion; buboes, lymphatic inflammation | DICA: sickness
+痄 | DEFINIÇÃO: scrofulous swellings or lumps | DICA: sickness
+病 | DEFINIÇÃO: sickness, illness, disease | DICA: sickness
+症 | DEFINIÇÃO: ailment, disease, illness | DICA: sickness
+痈 | DEFINIÇÃO: ulcer, sore, carbuncle, abcess | DICA: sickness
+痉 | DEFINIÇÃO: convulsions, fits | DICA: sickness
+痊 | DEFINIÇÃO: cured, healed; to recover | DICA: Made whole 全 after an illness 疒; 全 also provides the pronunciation
+痍 | DEFINIÇÃO: wound, sore, bruise | DICA: sickness
+痒 | DEFINIÇÃO: to itch; to tickle | DICA: sickness
+痔 | DEFINIÇÃO: piles, hemorrhoids | DICA: sickness
+痕 | DEFINIÇÃO: scar, mark; vestige, trace | DICA: sickness
+痖 | DEFINIÇÃO: dumb, mute | DICA: sickness
+痘 | DEFINIÇÃO: smallpox | DICA: sickness
+痙 | DEFINIÇÃO: convulsions, fits | DICA: sickness
+痛 | DEFINIÇÃO: ache, pain; bitterness, sorrow; deeply, thoroughly | DICA: sickness
+痞 | DEFINIÇÃO: dyspepsia; spleen infection | DICA: sickness
+痢 | DEFINIÇÃO: dysentery | DICA: sickness
+痣 | DEFINIÇÃO: spot, mole, birthmark | DICA: The mark 志 of an illness 疒; 志 also provides the pronunciation
+痤 | DEFINIÇÃO: a swelling of the lymph nodes | DICA: sickness
+痦 | DEFINIÇÃO: spot, mole, birthmark | DICA: sickness
+痧 | DEFINIÇÃO: cholera; colic | DICA: sickness
+痨 | DEFINIÇÃO: tuberculosis | DICA: sickness
+痪 | DEFINIÇÃO: numbness, paralysis | DICA: sickness
+痫 | DEFINIÇÃO: epilepsy, convulsions | DICA: sickness
+痰 | DEFINIÇÃO: mucus, phlegm, spit | DICA: sickness
+痱 | DEFINIÇÃO: heat rash; prickly heat; ulcers | DICA: sickness
+痲 | DEFINIÇÃO: pock-marked; measles; leprosy | DICA: sickness
+痴 | DEFINIÇÃO: foolish, stupid, dumb, silly | DICA: sickness
+痹 | DEFINIÇÃO: numbess, paralysis | DICA: sickness
+痺 | DEFINIÇÃO: numbness, paralysis | DICA: sickness
+痼 | DEFINIÇÃO: chronic disease; long-term passion | DICA: sickness
+痾 | DEFINIÇÃO: sickness, illness; pain | DICA: sickness
+痿 | DEFINIÇÃO: paralysis; impotence | DICA: sickness
+瘀 | DEFINIÇÃO: hematoma, contusion | DICA: sickness
+瘁 | DEFINIÇÃO: tired, worn-out; sick; overworked | DICA: sickness
+瘃 | DEFINIÇÃO: cold sores | DICA: sickness
+瘅 | DEFINIÇÃO: bitter hatred; drought | DICA: sickness
+瘊 | DEFINIÇÃO: pimple, wart | DICA: sickness
+瘋 | DEFINIÇÃO: crazy, insane, mentally ill | DICA: sickness
+瘌 | DEFINIÇÃO: scabies, itching, scald-head | DICA: sickness
+瘐 | DEFINIÇÃO: cold, hungry; to mistreat a prisoner | DICA: sickness
+瘓 | DEFINIÇÃO: numbness, paralysis | DICA: sickness
+瘕 | DEFINIÇÃO: asthma; bowel disease | DICA: sickness
+瘗 | DEFINIÇÃO: to bury, to inter | DICA: earth
+瘘 | DEFINIÇÃO: fistula; goiter, sore, ulcer | DICA: sickness
+瘙 | DEFINIÇÃO: scabies; to itch | DICA: sickness
+瘛 | DEFINIÇÃO: clonic convulsions | DICA: sickness
+瘜 | DEFINIÇÃO: polypus | DICA: sickness
+瘟 | DEFINIÇÃO: epidemic, plague, pestilence | DICA: sickness
+瘠 | DEFINIÇÃO: thin, emaciated; barren | DICA: sickness
+瘡 | DEFINIÇÃO: boil, tumor; wound, sore | DICA: sickness
+瘢 | DEFINIÇÃO: scar, mole | DICA: sickness
+瘤 | DEFINIÇÃO: tumor, lump, goiter | DICA: sickness
+瘥 | DEFINIÇÃO: to recover from disease; an epidemic | DICA: sickness
+瘦 | DEFINIÇÃO: thin, lean, emaciated; meager | DICA: sickness
+瘧 | DEFINIÇÃO: malaria; intermittent fever | DICA: sickness
+瘩 | DEFINIÇÃO: pimples | DICA: sickness
+瘪 | DEFINIÇÃO: shriveled, dried up; vexed | DICA: sickness
+瘫 | DEFINIÇÃO: paralysis, palsy, numbness | DICA: sickness
+瘭 | DEFINIÇÃO: whitlow | DICA: sickness
+瘰 | DEFINIÇÃO: scrofula, swellings | DICA: sickness
+瘲 | DEFINIÇÃO: clonic convulsions | DICA: sickness
+瘳 | DEFINIÇÃO: healed; reformed | DICA: sickness
+瘴 | DEFINIÇÃO: malaria; miasma, pestilential vapor | DICA: sickness
+瘵 | DEFINIÇÃO: a wasting disease | DICA: sickness
+瘸 | DEFINIÇÃO: lameness; paralysis of the hands or legs | DICA: sickness
+瘼 | DEFINIÇÃO: sickness; distress | DICA: sickness
+瘾 | DEFINIÇÃO: rash; addiction, craving, habit | DICA: sickness
+瘿 | DEFINIÇÃO: swelling, goiter | DICA: sickness
+癀 | DEFINIÇÃO: jaundice | DICA: sickness
+療 | DEFINIÇÃO: cured, healed; to recover | DICA: sickness
+癃 | DEFINIÇÃO: weakness, infirmity; urine retention | DICA: sickness
+癆 | DEFINIÇÃO: tuberculosis | DICA: sickness
+癇 | DEFINIÇÃO: epilepsy, convulsions | DICA: sickness

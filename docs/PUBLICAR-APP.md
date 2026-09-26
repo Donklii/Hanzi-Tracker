@@ -1,7 +1,7 @@
 # Como publicar o instalador do Hanzi Tracker
 
 Este guia responde: **quando** o instalador Windows é gerado, **onde** ele fica disponível, como a
-versão é decidida e como funciona a tela de escolha de motor de OCR/voz dentro dele.
+versão é decidida e como funcionam as telas de escolha de motor (OCR, voz/TTS e escuta/STT) dentro dele.
 
 ## Resposta curta
 
@@ -15,9 +15,10 @@ o instalador via NSIS, publicando em **GitHub Releases** (mesmo lugar dos motore
 | **Tag `app-vX.Y.Z`** (ex.: `app-v1.2.0`) | `X.Y.Z` (vem da própria tag) | Release **estável**, versionada, permanente. |
 | **`workflow_dispatch`** manual | Segue a mesma regra acima, conforme a branch/tag escolhida ao disparar | — |
 
-O instalador **não embute nenhum motor de OCR/voz** — ele mostra uma tela de escolha (RapidOCR /
-Tesseract / EasyOCR para OCR; Nenhum / Kokoro-82M / ChatTTS para voz) e só grava essa escolha para o
-app baixar sozinho no primeiro start, reaproveitando o download-sob-demanda que já existe.
+O instalador **não embute nenhum motor** — ele mostra três telas de escolha (RapidOCR / Tesseract /
+EasyOCR para OCR; Nenhum / Kokoro-82M / ChatTTS para voz; Nenhum / Paraformer-ZH / Zipformer-ZH
+Streaming para escuta) e só grava essa escolha para o app baixar sozinho no primeiro start,
+reaproveitando o download-sob-demanda que já existe.
 
 O mesmo esquema de gatilhos existe para **Linux**:
 [publicar-app-linux.yml](../.github/workflows/publicar-app-linux.yml) builda o app no Ubuntu e anexa
@@ -89,21 +90,24 @@ wails build -platform linux/amd64 -tags webkit2_41
 bash linux-instalador/montar_deb.sh 1.2.0 build/bin/HanziTracker build/bin/hanzitracker_1.2.0_amd64.deb
 ```
 
-## A tela de escolha de motores (dentro do instalador)
+## As telas de escolha de motores (dentro do instalador)
 
-Definida em [nsis-instalador/project.nsi](../wails_app/nsis-instalador/project.nsi), como uma página
-custom do NSIS (`nsDialogs`) inserida entre a escolha de pasta e a instalação dos arquivos:
+Definidas em [nsis-instalador/project.nsi](../wails_app/nsis-instalador/project.nsi), como três páginas
+custom do NSIS (`nsDialogs`) — uma por família de motor — inseridas entre a escolha de pasta e a
+instalação dos arquivos:
 
 - **OCR** (obrigatório, RapidOCR pré-selecionado): RapidOCR / Tesseract / EasyOCR.
 - **Voz/TTS** (opcional, "Nenhum" pré-selecionado): Nenhum / Kokoro-82M / ChatTTS.
+- **Escuta/STT** (opcional, "Nenhum" pré-selecionado): Nenhum / Paraformer-ZH / Zipformer-ZH Streaming.
 
 Ao concluir a instalação, a escolha é gravada em texto simples (não precisa de plugin de JSON no
 NSIS) em `%APPDATA%\HanziTracker\instalador_escolha.json`. **Nenhum motor é baixado nem embutido pelo
 instalador** — ele só grava a escolha.
 
 No primeiro start, `aplicarEscolhaDoInstalador` ([wails_app/instalador.go](../wails_app/instalador.go))
-lê esse marcador, valida os nomes contra o catálogo real (`motoresocr`/`motorestts`), grava em
-`Config.MotorOcrAtivo`/`Config.MotorTtsAtivo` e **apaga o marcador** (aplica uma única vez). Isso roda
+lê esse marcador, valida os nomes contra o catálogo real (`motoresocr`/`motorestts`/`motoresstt`), grava
+em `Config.MotorOcrAtivo`/`Config.MotorTtsAtivo`/`Config.MotorSttAtivo` e **apaga o marcador** (aplica
+uma única vez). Isso roda
 ANTES de `bootstrapMotorPadrao` ([wails_app/motores.go](../wails_app/motores.go)), que agora baixa o
 motor de `Config.MotorOcrAtivo` quando ele nomeia uma entrada válida do catálogo — caindo de volta no
 motor marcado `Padrao` (RapidOCR) só quando não há escolha (builds de dev, sem instalador).
@@ -137,3 +141,62 @@ padrão. Por isso o template customizado (com a tela de escolha de motores) vive
 para dentro de `build/windows/installer/` logo antes do `wails build -nsis` (tanto no workflow quanto
 no passo manual acima) — assim o Wails encontra o arquivo já presente e usa o nosso em vez de escrever
 o padrão por cima.
+
+## Atualização automática
+
+O Hanzi Tracker conta com um sistema integrado de verificação e aplicação de atualizações automáticas, atendendo aos canais **Estável** (releases versionadas `app-vX.Y.Z`) e **Dev** (prerelease rolante `app-dev`). Para detalhes sobre a redação e inclusão de notas de versão embutidas, consulte o [Guia de Notas de Versão](NOTAS-DE-VERSAO.md).
+
+### Manifestos por sistema operacional
+
+A cada release publicada pela CI (tanto no push da branch `main` quanto em tags `app-v*`), um arquivo de manifesto é gerado e anexado aos assets da release:
+- Windows: `atualizacao-windows.json`
+- Linux: `atualizacao-linux.json`
+
+Os manifestos ficam disponíveis na URL pública do GitHub Releases:
+`https://github.com/Donklii/Hanzi-Tracker/releases/download/<tag>/<manifesto>`
+
+Estrutura do manifesto:
+```json
+{
+  "versao": "1.2.0",
+  "commit": "40_caracteres_do_sha_completo",
+  "dataBuild": "2026-09-10T12:00:00Z",
+  "arquivo": "HanziTracker-amd64-installer.exe",
+  "sha256": "hash_sha256_em_hex_minusculo",
+  "tamanhoBytes": 12345678
+}
+```
+
+### Regras de decisão por canal (Contrato C4)
+
+A necessidade de atualização é avaliada a cada inicialização (ou sob demanda em Configurações → Info) através de regras estritas:
+
+| Canal configurado | Canal do build | Critério para atualizar |
+|---|---|---|
+| `dev` | qualquer | `alvo.commit != meu.Commit` **e** `alvo.dataBuild` posterior a `meu.DataBuild` |
+| `estavel` | `estavel` | `alvo.versao > meu.Versao` (comparação semântica X.Y.Z estritamente numérica) |
+| `estavel` | `dev` | `alvo.commit != meu.Commit` — retorna para a versão estável mais recente mesmo em downgrade |
+
+Casos em que o aplicativo **nunca** atualiza:
+- Build local (`go run` ou `wails dev`): a variável `Versao` não é preenchida por ldflags, desativando a verificação automática.
+- Flag `--pular-atualizacao` passada nos argumentos (`os.Args`) — vale só para a verificação automática da abertura; o "Verificar agora" de Configurações → Info continua funcionando nessa sessão.
+- Instalações que não atendem aos requisitos de ambiente atualizável.
+- Falhas de conexão, limites de taxa da API ou erros de parse (o app loga o aviso e segue o fluxo normal).
+
+### Fluxo de instalação por plataforma
+
+#### Windows
+- **Requisito de instalação:** o executável corrente deve conter o desinstalador `uninstall.exe` em seu diretório base (garantia de instalação prévia pelo instalador NSIS).
+- **Download e verificação:** o pacote do instalador é baixado em `%TEMP%/HanziTracker-atualizacao/`, validando o hash sha256 e reservando o dobro do espaço em disco.
+- **Execução desacoplada:** como o executável em uso não pode ser sobrescrito e o instalador NSIS requer elevação de privilégios de administrador, o app dispara um processo PowerShell oculto via `Start-Process -Verb RunAs -Wait` com argumentos `/S /D=<pasta_instalacao>` e encerra o aplicativo principal.
+- **Tratamento de cancelamento/erro:** se o usuário recusar a permissão de administrador no UAC ou a instalação falhar, o script auxiliar reabre automaticamente a versão anterior passando o argumento `--pular-atualizacao`, evitando loops de prompt na mesma sessão. Ao concluir com sucesso, o script reabre a nova versão atualizada.
+
+#### Linux
+- **Requisito de instalação:** o binário em execução deve estar localizado em `/usr/bin/hanzitracker` (instalado via pacote `.deb`) e o utilitário `pkexec` deve estar acessível no PATH do sistema.
+- **Instalação síncrona:** a instalação é executada via `pkexec dpkg -i <deb>`. Caso ocorra erro ou o usuário cancele a senha no prompt de autenticação, o aplicativo permanece aberto em sua versão corrente.
+- **Relançamento:** após a instalação bem-sucedida, o `.deb` temporário é removido e um processo em segundo plano desacoplado (`Setsid: true`) aguarda o encerramento do PID anterior para reexecutar `/usr/bin/hanzitracker`.
+
+### Observações operacionais
+
+- **Instalações legadas:** usuários com instalações anteriores a esta funcionalidade devem efetuar uma atualização manual baixando a versão correspondente para receber os novos binários e manifestos.
+- **Inicialização limpa com `--pular-atualizacao`:** para abrir o aplicativo sem efetuar checagens de rede ou disparar downloads de atualização automática, basta iniciar o executável com a flag `--pular-atualizacao`.

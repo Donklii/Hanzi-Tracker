@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+结仇 | TRADUÇÃO: enemistarse/iniciar una enemistad/hacerse enemigos
+结伙 | TRADUÇÃO: formar una banda/asociarse en pandilla/confabularse
+结伴 | TRADUÇÃO: ir acompañado/juntarse con alguien/hacerse compañía
+结伴而行 | TRADUÇÃO: viajar juntos/ir en compañía/mantenerse unidos en grupo
+结冰 | TRADUÇÃO: congelarse/helarse/formar hielo
+结出 | TRADUÇÃO: dar (frutos)/producir (fruto)
+结汇 | TRADUÇÃO: liquidación de divisas/liquidar cambio de moneda
+结合 | TRADUÇÃO: combinar/unir/integrar/vínculo/CL:次
+结合律 | TRADUÇÃO: ley asociativa (xy)z = x(yz) (mat.)/propiedad asociativa
+结喉 | TRADUÇÃO: véase 喉結|喉结
+结单 | TRADUÇÃO: estado de cuenta/extracto de cuenta
+结婚 | TRADUÇÃO: casarse/contraer matrimonio
+结婚生子 | TRADUÇÃO: casarse y tener hijos/formar una familia
+结婚纪念日 | TRADUÇÃO: aniversario de bodas/aniversario de matrimonio
+结婚证 | TRADUÇÃO: certificado de matrimonio/acta de matrimonio
+结子 | TRADUÇÃO: dar semillas (de una planta) ‖ nudo (en una cuerda o hilo)
+结存 | TRADUÇÃO: saldo restante/saldo disponible/efectivo en caja
+结实 | TRADUÇÃO: dar frutos ‖ robusto/fuerte/resistente/duradero/musculoso (físico)
+结对子 | TRADUÇÃO: emparejarse (dos partes)/formar una asociación cooperativa/hacer pareja de colaboración
+结尾 | TRADUÇÃO: final/conclusión/coda/terminar
+结局 | TRADUÇÃO: desenlace/final/conclusión/resultado final
+结巴 | TRADUÇÃO: tartamudear/tartamudo
+结帐 | TRADUÇÃO: variante de 結賬|结账
+结幕 | TRADUÇÃO: escena final (de una obra)/desenlace/caída del telón
+结庐 | TRADUÇÃO: construir una cabaña/construir su propia casa
+结彩 | TRADUÇÃO: engalanar/adornar con festones/decorar con guirnaldas
+结怨 | TRADUÇÃO: granjearse odio/ganarse enemigos/suscitar rencor
+结恭 | TRADUÇÃO: estar estreñido (eufemismo)
+结成 | TRADUÇÃO: formar/forjar (alianzas, etc.)/constituir
+结拜 | TRADUÇÃO: jurar hermandad/hacerse hermanos de sangre
+结晶 | TRADUÇÃO: cristalizar/cristalización/cristal/cristalino/(fig.) fruto (del trabajo, etc.)
+结晶学 | TRADUÇÃO: cristalografía
+结晶水 | TRADUÇÃO: agua de cristalización
+结晶状 | TRADUÇÃO: cristalino/en forma de cristal
+结晶体 | TRADUÇÃO: cristal/cuerpo cristalino
+结末 | TRADUÇÃO: final/al final/conclusión
+结束 | TRADUÇÃO: terminar/finalizar/concluir/cerrar/fin/término
+结束语 | TRADUÇÃO: palabras de clausura/observaciones finales/conclusión
+结果 | TRADUÇÃO: dar fruto/fructificar ‖ resultado/consecuencia/al final/como resultado/despachar/matar/acabar con
+结核 | TRADUÇÃO: tuberculosis/nódulo/tubérculo
+结核杆菌 | TRADUÇÃO: bacilo tuberculoso/bacilo de Koch
+结核病 | TRADUÇÃO: tuberculosis
+结核菌素 | TRADUÇÃO: tuberculina
+结案 | TRADUÇÃO: cerrar un caso/concluir un caso judicial
+结梁子 | TRADUÇÃO: (jerga) enemistarse/iniciar una disputa/tener bronca con alguien
+结棍 | TRADUÇÃO: (dialecto Wu) robusto/fuerte/formidable/impresionante
+结业 | TRADUÇÃO: graduarse (de un curso corto)/completar los estudios/(de una empresa) cesar operaciones
+结构 | TRADUÇÃO: estructura/composición/arquitectura/CL:座,個|个
+结构主义 | TRADUÇÃO: estructuralismo
+结构助词 | TRADUÇÃO: partícula estructural (como 的, 地, 得 y 所)
+结构式 | TRADUÇÃO: fórmula estructural (química)
+结构性 | TRADUÇÃO: estructural
+结构理论 | TRADUÇÃO: teoría estructural (física)
+结欢 | TRADUÇÃO: entablar amistad/mantener buenas relaciones
+结壳 | TRADUÇÃO: corteza/costra/incrustación
+结清 | TRADUÇÃO: liquidar (una cuenta)/saldar/pagar por completo
+结球甘蓝 | TRADUÇÃO: repollo/col
+结界 | TRADUÇÃO: (budismo) delimitar un espacio sagrado para la práctica monástica/lugar consagrado/(ficción y fantasía) barrera mágica/campo de fuerza invisible (préstamo ortográfico del japonés 結界 "kekkai")
+结疤 | TRADUÇÃO: cicatrizar/formar una cicatriz/formar una costra
+结痂 | TRADUÇÃO: costra/formar costra
+结盟 | TRADUÇÃO: formar una alianza/aliarse/coligarse/afiliado
+结石 | TRADUÇÃO: (med.) cálculo/piedra
+结社 | TRADUÇÃO: formar una asociación/asociarse
+结社自由 | TRADUÇÃO: (derecho constitucional) libertad de asociación
+结算 | TRADUÇÃO: liquidar cuentas/saldar cuentas/cerrar una cuenta
+结节 | TRADUÇÃO: nódulo/tubérculo
+结纳 | TRADUÇÃO: hacer amistad/entablar relaciones
+结扎 | TRADUÇÃO: ligar/atar/(med.) ligadura/(de un hombre) hacerse la vasectomía (ligadura de conductos deferentes)/(de una mujer) ligarse las trompas (ligadura de trompas de Falopio)
+结结巴巴 | TRADUÇÃO: tartamudeando/con tartamudeo/de forma entrecortada
+结网 | TRADUÇÃO: tejer una telaraña (araña)/tejer una red (de pesca, etc.)
+结缔组织 | TRADUÇÃO: tejido conjuntivo/tejido conectivo
+结缘 | TRADUÇÃO: entablar lazos/crear vínculos/hacerse devoto
+结缡 | TRADUÇÃO: casarse/ponerse el velo nupcial
+结缨 | TRADUÇÃO: morir con honor/morir como héroe por una causa justa
+结义 | TRADUÇÃO: jurar hermandad/hacer pacto de hermanos
+结脉 | TRADUÇÃO: pulso nudoso o lento (MTC)
+结肠 | TRADUÇÃO: colon (intestino grueso)
+结肠炎 | TRADUÇÃO: colitis (med.)
+结肠镜 | TRADUÇÃO: colonoscopio/colonoscopía (abrev. de 結腸鏡檢查|结肠镜检查)
+结肠镜检查 | TRADUÇÃO: colonoscopía
+结膜 | TRADUÇÃO: conjuntiva (membrana ocular)
+结膜炎 | TRADUÇÃO: conjuntivitis
+结舌 | TRADUÇÃO: quedarse sin palabras/atónito/mudo de asombro
+结草 | TRADUÇÃO: profunda gratitud hasta la muerte
+结草衔环 | TRADUÇÃO: pagar una deuda de gratitud incluso después de la muerte (modismo)/devolver un gran favor
+结褵 | TRADUÇÃO: casarse/ponerse el velo nupcial
+结亲 | TRADUÇÃO: emparentar por matrimonio/casarse
+结训 | TRADUÇÃO: concluir el entrenamiento (Taiwán)/completar el curso de formación
+结记 | TRADUÇÃO: recordar/tener presente/preocuparse por
+结语 | TRADUÇÃO: conclusión/palabras finales/observaciones de cierre
+结论 | TRADUÇÃO: conclusión/veredicto/CL:個|个/concluir/llegar a una conclusión
+结识 | TRADUÇÃO: conocer a alguien/hacer amistad con alguien
+结账 | TRADUÇÃO: pagar la cuenta/liquidar cuentas/saldar la cuenta
+结连 | TRADUÇÃO: encadenado/unido en cadena/conectado
+结队 | TRADUÇÃO: marchar en grupo/formar un convoy/ir en fila
+结队成群 | TRADUÇÃO: véase 成群結隊|成群结队
+结霜 | TRADUÇÃO: cubrirse de escarcha/helarse
+结余 | TRADUÇÃO: saldo remanente/superávit/balance favorable
+结发 | TRADUÇÃO: (en la antigüedad) recogerse el cabello al llegar a la mayoría de edad/primer matrimonio
+结点 | TRADUÇÃO: nodo/empalme/punto de unión
+结党 | TRADUÇÃO: formar una facción/crear una camarilla
+结党营私 | TRADUÇÃO: (modismo) formar camarillas para beneficio personal/confabularse para el provecho propio
+絓 | TRADUÇÃO: obstaculizar/ofender/formar/único ‖ tipo de seda gruesa/bolsa para envolver la seda antes de lavarla
+绝 | TRADUÇÃO: cortar/interrumpir/extinto/desaparecer/absolutamente/de ninguna manera ‖ variante de 絕|绝
+绝不 | TRADUÇÃO: de ninguna manera/en absoluto/jamás/de ningún modo
+绝世 | TRADUÇÃO: inigualable en el mundo/único en su época/sin parangón
+绝世佳人 | TRADUÇÃO: mujer de belleza incomparable (modismo)/belleza sin igual
+绝了 | TRADUÇÃO: (jerga) genial/impresionante/increíble/lo máximo
+绝交 | TRADUÇÃO: romper relaciones/romper la amistad con alguien
+绝代 | TRADUÇÃO: sin igual en su generación/incomparable/inigualable (talento, belleza)
+绝代佳人 | TRADUÇÃO: mujer de belleza incomparable en su generación (modismo)/dama de elegancia sin igual
+绝佳 | TRADUÇÃO: excelente/magnífico/extraordinario
+绝倒 | TRADUÇÃO: morirse de risa/partirse de risa/desternillarse
+绝伦 | TRADUÇÃO: sin igual/extraordinario/incomparable/sobresaliente
+绝口不提 | TRADUÇÃO: (modismo) no mencionar para nada/guardar silencio absoluto sobre un tema
+绝句 | TRADUÇÃO: jueju (forma poética china de cuatro versos)
+绝命 | TRADUÇÃO: quitarse la vida/morir/perder la vida
+绝命书 | TRADUÇÃO: nota de suicidio/carta de despedida
+绝品 | TRADUÇÃO: obra de arte inigualable/joya absoluta/pieza única
+绝唱 | TRADUÇÃO: obra maestra suprema/canto de cisne/composición insuperable
+绝地 | TRADUÇÃO: lugar sin salida/terreno desesperado/Jedi (en Star Wars)
+绝域 | TRADUÇÃO: tierra lejana e inaccesible (literario)/lugar remoto
+绝境 | TRADUÇÃO: situación desesperada/callejón sin salida/apuro extremo
+绝壁 | TRADUÇÃO: precipicio/acantilado/risco escarpado
+绝大多数 | TRADUÇÃO: la inmensa mayoría/la gran mayoría
+绝大部分 | TRADUÇÃO: la abrumadora mayoría/la mayor parte
+绝妙 | TRADUÇÃO: exquisito/maravilloso/ingenioso/brillante
+绝学 | TRADUÇÃO: (literario) saber perdido o casi olvidado/(literario) maestría consumada/(wuxia) técnica suprema/arte marcial supremo
+绝密 | TRADUÇÃO: ultrasecreto/alto secreto
+绝密文件 | TRADUÇÃO: documento ultrasecreto/documentos clasificados
+绝对 | TRADUÇÃO: absoluto/incondicional/rotundo
+绝对值 | TRADUÇÃO: valor absoluto
+绝对地址 | TRADUÇÃO: dirección absoluta (informática)
+绝对多数 | TRADUÇÃO: mayoría absoluta
+绝对大多数 | TRADUÇÃO: mayoría absoluta/inmensa mayoría
+绝对数字 | TRADUÇÃO: cifra absoluta/número absoluto
+绝对权 | TRADUÇÃO: (derecho) derechos absolutos/derechos erga omnes
+绝对温度 | TRADUÇÃO: temperatura absoluta
+绝对湿度 | TRADUÇÃO: humedad absoluta
+绝对观念 | TRADUÇÃO: idea absoluta (en la filosofía de Hegel)
+绝对连续 | TRADUÇÃO: absolutamente continuo (mat.)
+绝对零度 | TRADUÇÃO: cero absoluto
+绝后 | TRADUÇÃO: quedarse sin descendencia/sin precedentes ni sucesores/único
+绝情 | TRADUÇÃO: despiadado/desalmado/sin consideración por los sentimientos ajenos
+绝技 | TRADUÇÃO: habilidad consumada/hazaña suprema/proeza/destreza inigualable
+绝招 | TRADUÇÃO: as bajo la manga/golpe maestro/jugada definitiva/técnica secreta
+绝收 | TRADUÇÃO: (agricultura) pérdida total de la cosecha (por inundación, plaga, etc.)
+绝景 | TRADUÇÃO: paisaje deslumbrante/vista impresionante
+绝望 | TRADUÇÃO: desesperar/perder toda esperanza/desesperado/desesperación
+绝杀 | TRADUÇÃO: asestar el golpe mortal/anotar el punto de la victoria en el último momento (deportes, ajedrez)
+绝气 | TRADUÇÃO: expirar/exhalar el último suspiro
+绝活 | TRADUÇÃO: especialidad/habilidad única/destreza especial
+绝灭 | TRADUÇÃO: aniquilar/exterminar/extinción
+绝无仅有 | TRADUÇÃO: único en su especie (modismo)/único e irrepetible/sin igual
+绝然 | TRADUÇÃO: completamente/absolutamente
+绝热 | TRADUÇÃO: aislar térmicamente/(física) adiabático
+绝热漆 | TRADUÇÃO: pintura resistente al calor/pintura aislante térmica
+绝版 | TRADUÇÃO: agotado/fuera de imprenta/edición descatalogada
+绝产 | TRADUÇÃO: pérdida total de cosechas/bienes sin heredero/esterilización
+绝症 | TRADUÇÃO: enfermedad incurable/enfermedad terminal
+绝种 | TRADUÇÃO: extinto (especie)/extinción
+绝笔 | TRADUÇÃO: últimas palabras escritas antes de morir/última obra de un artista/canto de cisne
+绝粮 | TRADUÇÃO: quedarse sin provisiones/quedarse sin alimentos
+绝经 | TRADUÇÃO: menopausia
+绝缘 | TRADUÇÃO: aislar (electricidad)/no tener contacto con/estar desconectado de
+绝缘体 | TRADUÇÃO: aislante eléctrico/aislante térmico
+绝罚 | TRADUÇÃO: excomulgar/excomunión
+绝美 | TRADUÇÃO: exquisitamente hermoso/de una belleza sublime
+绝育 | TRADUÇÃO: esterilizar/castrar
+绝色 | TRADUÇÃO: (de una mujer) extraordinariamente hermosa/belleza deslumbrante
+绝处逢生 | TRADUÇÃO: (modismo) encontrar una salida en una situación desesperada/renacer de las cenizas
+绝诣 | TRADUÇÃO: conocimiento profundo/maestría alcanzada
+绝赞 | TRADUÇÃO: fantástico/excelente/magnífico/muy elogiado
+绝迹 | TRADUÇÃO: desaparecer por completo/extinguirse/erradicarse/romper relaciones
+绝逼 | TRADUÇÃO: (vulgar) absolutamente/definitivamente/sin duda alguna
+绝配 | TRADUÇÃO: pareja perfecta/combinación perfecta/combinar a la perfección
+绝门儿 | TRADUÇÃO: oficio extinto/habilidad única/asombroso/fantástico
+绝非 | TRADUÇÃO: de ninguna manera/en absoluto/definitivamente no
+绝顶 | TRADUÇÃO: cumbre/cima/(lit. y fig.) cumbre/extremadamente/sumamente
+绝顶聪明 | TRADUÇÃO: sumamente inteligente/brillante/genial
+绝食 | TRADUÇÃO: hacer huelga de hambre/dejar de comer
+绝食抗议 | TRADUÇÃO: huelga de hambre
+絖 | TRADUÇÃO: borra fina de seda o algodón
+絘 | TRADUÇÃO: antiguo tributo en rollos de tela
+絘布 | TRADUÇÃO: antiguo tributo en rollos de tela
+絚 | TRADUÇÃO: variante antigua de 緪
+绦 | TRADUÇÃO: véase 絛綸|绦纶 ‖ trenza/cordón/faja ‖ variante de 絛|绦
+绦子 | TRADUÇÃO: cinta o trenza de seda/encaje o bordado para ribetear
+绦带 | TRADUÇÃO: cinta de seda/trenza de seda
+绦纶 | TRADUÇÃO: variante de 滌綸|涤纶
+绦虫 | TRADUÇÃO: tenia/solitaria (parásito)
+绦虫纲 | TRADUÇÃO: Cestoda (clase de platelmintos parásitos)
+絜 | TRADUÇÃO: limpio ‖ línea de marcado/puro/regular
+绔 | TRADUÇÃO: variante de 褲|裤
+绞 | TRADUÇÃO: torcer (hebras en un hilo)/enredar/retorcer/ahorcar/girar/devanar/clasificador para madejas de hilo
+绞刀 | TRADUÇÃO: escariador
+绞刑 | TRADUÇÃO: ejecución por ahorcamiento/ahorcar
+绞刑架 | TRADUÇÃO: horca/patíbulo
+绞扭 | TRADUÇÃO: retorcer/escurrir
+绞架 | TRADUÇÃO: horca/patíbulo
+绞死 | TRADUÇÃO: ahorcar/estrangular
+绞杀 | TRADUÇÃO: matar estrangulando o ahorcando/asfixiar/(fig.) aplastar/extinguir
+绞痛 | TRADUÇÃO: dolor agudo/cólico/angina de pecho, véase 心絞痛|心绞痛
+绞尽脑汁 | TRADUÇÃO: devanarse los sesos/romperse la cabeza pensando
+绞盘 | TRADUÇÃO: cabrestante/torno
+绞索 | TRADUÇÃO: soga del ahorcado/nudo corredizo
+绞缢 | TRADUÇÃO: morir en la horca/ahorcarse
+绞肉 | TRADUÇÃO: carne picada/carne molida
+绞肉机 | TRADUÇÃO: picadora de carne/molino de carne
+绞股蓝 | TRADUÇÃO: jiaogulan (Gynostemma pentaphyllum)
+绞脑汁 | TRADUÇÃO: devanarse los sesos
+绞车 | TRADUÇÃO: cabrestante/torno/guinche
+络 | TRADUÇÃO: red pequeña ‖ objeto reticular/sujetar con una red/enrollar/torcer/canales colaterales del cuerpo humano (MTC)
+络绎 | TRADUÇÃO: continuo/ininterrumpido/incesante
+络绎不绝 | TRADUÇÃO: (modismo) en un flujo incesante/en una corriente continua/sin cesar
+络腮胡子 | TRADUÇÃO: barba completa/barba cerrada/patillas espesas
+绚 | TRADUÇÃO: adornado/veloz/espléndido/brillante/multicolor
+绚烂 | TRADUÇÃO: espléndido/deslumbrante/magnífico/vistoso
+绚丽 | TRADUÇÃO: precioso/espléndido/magnífico/deslumbrante
+绚丽多彩 | TRADUÇÃO: (modismo) lleno de color y esplendor/vistoso y variado/multicolor y magnífico
+絣 | TRADUÇÃO: ikat (tipo de tejido tradicional)/kasuri
+给 | TRADUÇÃO: a/para/en beneficio de/dar/permitir/hacer algo (por alguien)/(equivalente gramatical de 被)/(equivalente gramatical de 把)/(intensificador oracional) ‖ suministrar/proveer/(literario) suficiente/abundante
+给予 | TRADUÇÃO: (literario) dar/otorgar/conceder/brindar
+给事 | TRADUÇÃO: cargo oficial en la corte imperial china, véase 給事中|给事中
+给付 | TRADUÇÃO: pagar/pago/prestación
+给以 | TRADUÇÃO: dar/conceder/otorgar
+给你点颜色看看 | TRADUÇÃO: darte una lección/enseñarte quién manda/ponerte en tu sitio
+给力 | TRADUÇÃO: genial/impresionante/efectivo/poner empeño extra/dar la talla
+给定 | TRADUÇÃO: dado/fijado previamente/establecido
+给排水 | TRADUÇÃO: suministro de agua y drenaje/fontanería y saneamiento
+给水 | TRADUÇÃO: suministrar agua/alimentación de agua
+给皂器 | TRADUÇÃO: dispensador de jabón/jabonera automática
+给脸 | TRADUÇÃO: (coloq.) mostrar respeto/dar consideración (en público para evitar vergüenza)/(a menudo sarcástico) tratar con cortesía básica
+给脸不要脸 | TRADUÇÃO: (coloq.) abusar de la confianza/despreciar la amabilidad que se le muestra/ser un descarado
+给与 | TRADUÇÃO: variante de 給予|给予
+给药 | TRADUÇÃO: administrar medicación/administrar fármacos
+给面子 | TRADUÇÃO: mostrar respeto públicamente/guardar las apariencias/hacer un honor a alguien
+给养 | TRADUÇÃO: provisiones/víveres/suministros/(literario) sustentar/mantener
+绒 | TRADUÇÃO: terciopelo/felpa/lana/plumón
+绒布 | TRADUÇÃO: franela/tejido afelpado
+绒毛 | TRADUÇÃO: vello/plumón/vellosidades intestinales
+绒毛性腺激素 | TRADUÇÃO: gonadotropina coriónica humana (hCG)
+绒球 | TRADUÇÃO: pompón
+绒线 | TRADUÇÃO: hilo de lana/estambre
+绒螯蟹 | TRADUÇÃO: cangrejo chino de Shanghái (Eriocheir sinensis)
+绒额䴓 | TRADUÇÃO: (especie de ave de China) trepador frentinegro (Sitta frontalis)
+𬘡 | TRADUÇÃO: fuerza generativa/emanación mágica
+𬘡缊 | TRADUÇÃO: variante de 氤氳|氤氲
+絫 | TRADUÇÃO: variante de 累, acumular
+絮 | TRADUÇÃO: guata de algodón/(fig.) relleno superfluo/prolijo/pesado
+絮叨 | TRADUÇÃO: hablar prolijamente/charlar sin parar/ser pesado y parlanchín
+絮嘴 | TRADUÇÃO: cotorrear sin parar/parlotear
+絮棉 | TRADUÇÃO: guata de algodón
+絮烦 | TRADUÇÃO: aburrir con parloteos/palabrería tediosa
+絮片 | TRADUÇÃO: flóculo/hebra precipitada de un líquido
+絮状物 | TRADUÇÃO: materia floculante/sustancia en forma de copos
+絮球 | TRADUÇÃO: bola de pelusa (con semillas, como el vilano del diente de león)
+絮絮 | TRADUÇÃO: parlotear incesantemente/charlatanería
+絮絮叨叨 | TRADUÇÃO: parlanchín/prolijo/hablar sin parar sin ir al grano
+絮聒 | TRADUÇÃO: parloteo ruidoso/cháchara molesta
+絮语 | TRADUÇÃO: susurrar incesantemente/parloteo íntimo/conversación interminable
+絮说 | TRADUÇÃO: hablar prolijamente/repetir una y otra vez
+绖 | TRADUÇÃO: banda de cáñamo llevada en la cabeza o cintura por una persona de luto
+统 | TRADUÇÃO: reunir/unir/unificar/todo/conjunto
+统一 | TRADUÇÃO: unificar/integrar/unificado/integrado
+统一口径 | TRADUÇÃO: unificar el criterio/adoptar una versión uniforme al hablar
+统一思想 | TRADUÇÃO: unificar ideas/alinear pensamientos/pensar con un propósito común
+统一性 | TRADUÇÃO: unidad/uniformidad
+统一战线 | TRADUÇÃO: frente único
+统一战线工作部 | TRADUÇÃO: Departamento de Trabajo del Frente Único del Comité Central del PCCh
+统一招生 | TRADUÇÃO: admisión unificada nacional/examen nacional de ingreso
+统一新罗 | TRADUÇÃO: Silla unificada (658-935), antiguo reino coreano
+统一发票 | TRADUÇÃO: factura unificada (factura estandarizada emitida por el gobierno en Taiwán para compras y lotería fiscal)
+统一码 | TRADUÇÃO: Unicode
+统一社会信用代码 | TRADUÇÃO: código de crédito social unificado (número de identificación fiscal de una empresa u organización en China)
+统一编号 | TRADUÇÃO: (Taiwán) número de identificación fiscal de una empresa (NIF/CIF)
+统一规划 | TRADUÇÃO: planificación integrada/plan unificado
+统一资源定位符 | TRADUÇÃO: localizador uniforme de recursos (URL)/dirección web
+统一超商 | TRADUÇÃO: (Taiwán) President Chain Store Corp. (operador de 7-Eleven en Taiwán)
+统一体 | TRADUÇÃO: entidad única/unidad/un todo
+统共 | TRADUÇÃO: en total/en conjunto/en suma
+统制 | TRADUÇÃO: controlar/ejercer control unificado
+统合 | TRADUÇÃO: (Taiwán) integrar/integrado
+统属 | TRADUÇÃO: subordinación/cadena de mando/estar bajo la jurisdicción de
+统帅 | TRADUÇÃO: comandante supremo/comandar/dirigir
+统建 | TRADUÇÃO: construcción unificada bajo proyecto estatal o comisión
+统御 | TRADUÇÃO: (literario) gobernar/mandar/ejercer el poder supremo
+统感 | TRADUÇÃO: integración sensorial/sentimiento de unión
+统战 | TRADUÇÃO: frente único (abrev. de 統一戰線|统一战线)
+统战部 | TRADUÇÃO: Departamento de Trabajo del Frente Único del PCCh/abrev. de 統一戰線工作部|统一战线工作部
+统摄 | TRADUÇÃO: gobernar en conjunto/comandar/englobar
+统揽 | TRADUÇÃO: asumir el control total/estar al mando general
+统治 | TRADUÇÃO: gobernar (un país)/dominar/régimen/gobierno/mandato
+统治力 | TRADUÇÃO: dominio/hegemonía/capacidad de control
+统治权 | TRADUÇÃO: soberanía/derecho a gobernar/dominio
+统治者 | TRADUÇÃO: gobernante/dominador
+统汉字 | TRADUÇÃO: ideogramas unificados CJK (Unihan)/abrev. de 中日韓統一表意文字|中日韩统一表意文字
+统独 | TRADUÇÃO: reunificación e independencia (en el debate de Taiwán)
+统率 | TRADUÇÃO: comandar/dirigir/liderar tropas
+统称 | TRADUÇÃO: llamarse colectivamente/término general/denominación colectiva
+统称为 | TRADUÇÃO: conocido colectivamente como/denominado en conjunto como
+统管 | TRADUÇÃO: administración unificada/gestionar de forma centralizada
+统筹 | TRADUÇÃO: planificar en conjunto/plan global/coordinación general
+统筹兼顾 | TRADUÇÃO: planificar en conjunto teniendo en cuenta todos los factores
+统统 | TRADUÇÃO: todos/absolutamente todo/enteramente
+统编 | TRADUÇÃO: (Taiwán) número de identificación fiscal de una empresa (abrev. de 統一編號|统一编号)
+统考 | TRADUÇÃO: examen unificado (a nivel nacional o provincial)
+统舱 | TRADUÇÃO: clase económica de pasajeros en bodega de barco/puente de tercera clase
+统计 | TRADUÇÃO: estadística/contabilizar/sumar/hacer recuento
+统计员 | TRADUÇÃO: estadístico/técnico de estadísticas
+统计学 | TRADUÇÃO: estadística (disciplina científica)
+统计数据 | TRADUÇÃO: datos estadísticos
+统计结果 | TRADUÇÃO: resultados estadísticos
+统计表 | TRADUÇÃO: tabla estadística/gráfico estadístico
+统读 | TRADUÇÃO: pronunciación estandarizada (unificada) de un carácter con múltiples lecturas (oficializada por el Ministerio de Educación de China en 1985)
+统货 | TRADUÇÃO: mercancías estandarizadas (en economía planificada, sin distinción de calidad y a precio fijo)
+统购 | TRADUÇÃO: monopolio estatal de compras/compra unificada del Estado
+统购派购 | TRADUÇÃO: compra unificada estatal a precio fijado (especialmente de productos agrícolas)
+统购统销 | TRADUÇÃO: monopolio estatal de compras y distribución
+统辖 | TRADUÇÃO: gobernar/tener jurisdicción sobre/comandar totalmente
+统通 | TRADUÇÃO: todo/por completo
+统配 | TRADUÇÃO: distribución unificada/asignación centralizada
+统销 | TRADUÇÃO: monopolio estatal de comercialización
+统铺 | TRADUÇÃO: tarima colectiva para dormir/cama corrida común
+统领 | TRADUÇÃO: comandar/liderar/comandante/oficial
+统驭 | TRADUÇÃO: controlar/gobernar/dominar
+丝 | TRADUÇÃO: seda/hilo/filamento/tiras finas en juliana (cocina)/clasificador: un rastro (de humo, etc.), una pizca
+丝光椋鸟 | TRADUÇÃO: (especie de ave de China) estornino piquirrojo (Spodiopsar sericeus)
+丝印 | TRADUÇÃO: serigrafía (abrev. de 絲網印刷|丝网印刷)
+丝囊 | TRADUÇÃO: hilera (órgano de la araña)
+丝巾 | TRADUÇÃO: pañuelo de seda/bufanda de seda
+丝带 | TRADUÇÃO: cinta/lazo de cinta
+丝柏 | TRADUÇÃO: ciprés
+丝毫 | TRADUÇÃO: la más mínima cantidad/un ápice/la menor pizca
+丝毫不差 | TRADUÇÃO: sin la menor diferencia (modismo)/exacto al milímetro/perfectamente preciso
+丝氨酸 | TRADUÇÃO: serina (Ser, aminoácido)
+丝滑 | TRADUÇÃO: (de comida, piel, pelo, etc.) sedoso/suave/(fig.) fluido/impecable/sin interrupciones
+丝状 | TRADUÇÃO: filiforme/en forma de hilo
+丝状物 | TRADUÇÃO: filamento/hebra
+丝状病毒 | TRADUÇÃO: filovirus
+丝瓜 | TRADUÇÃO: lufa/estropajo vegetal/calabaza de esponja
+丝盘虫 | TRADUÇÃO: placozoo (Trichoplax adhaerens)
+丝竹 | TRADUÇÃO: instrumentos tradicionales chinos de cuerda y viento/música tradicional
+丝竹管弦 | TRADUÇÃO: (lit.) instrumentos de cuerda y viento (modismo)/(fig.) música orquestal tradicional china
+丝米 | TRADUÇÃO: decimilímetro/0,0001 metros
+丝绦 | TRADUÇÃO: cordón de seda/faja de seda
+丝绒 | TRADUÇÃO: terciopelo
+丝丝小雨 | TRADUÇÃO: llovizna fina/orvallo fino
+丝绸 | TRADUÇÃO: seda (tela)
+丝绸之路 | TRADUÇÃO: la Ruta de la Seda
+丝绸古路 | TRADUÇÃO: la antigua Ruta de la Seda/véase también 絲綢之路|丝绸之路
+丝绸织物 | TRADUÇÃO: tejido de seda/tela de seda
+丝网 | TRADUÇÃO: malla de seda/tamiz/pantalla de serigrafía
+丝绵 | TRADUÇÃO: borra de seda/plumón de seda
+丝线 | TRADUÇÃO: hilo de seda (para coser)/hilaza de seda (para tejer)
+丝缕 | TRADUÇÃO: hebras de seda/hilos finos
+丝织品 | TRADUÇÃO: productos de seda tejida/artículos de seda o rayón
+丝织物 | TRADUÇÃO: tejido de seda
+丝腺 | TRADUÇÃO: glándula sericígena (glándula productora de seda)
+丝袜 | TRADUÇÃO: medias de seda/pantimedias
+丝足 | TRADUÇÃO: pies y piernas con medias de seda (especialmente en contexto de masajes)
+丝路 | TRADUÇÃO: la Ruta de la Seda/abrev. de 絲綢之路|丝绸之路
+丝雨 | TRADUÇÃO: llovizna/lluvia fina
+绛 | TRADUÇÃO: capital del Estado Jin durante el Periodo de Primavera y Otoño (770-475 a. C.) ‖ rojo púrpura/carmesí
+绛紫 | TRADUÇÃO: púrpura oscuro rojizo
+绛县 | TRADUÇÃO: condado de Jiang, en la ciudad de Yuncheng 運城市|运城市, Shanxi
+绢 | TRADUÇÃO: seda fina y resistente/tejido de seda delgada
+𫄨 | TRADUÇÃO: fibras finas de cáñamo/lino fino
+絻 | TRADUÇÃO: variante antigua de 冕 ‖ (antiguo) ropa de luto
+絿 | TRADUÇÃO: urgente/apremiante
+𦈌 | TRADUÇÃO: tipo de tela de saco/arpillera
+绑 | TRADUÇÃO: atar/amarrar/ligar/secuestrar
+绑住 | TRADUÇÃO: amarrar/atar firmemente/inmovilizar
+绑匪 | TRADUÇÃO: secuestrador
+绑定 | TRADUÇÃO: vincular/asociar (una cuenta a un número móvil)/ligar
+绑带 | TRADUÇÃO: vendaje/venda/pernera/polaina
+绑架 | TRADUÇÃO: secuestrar/raptar/secuestro/rapto
+绑桩 | TRADUÇÃO: (Taiwán) sobornar a personas influyentes locales (en elecciones, licitaciones, etc.)
+绑标 | TRADUÇÃO: manipulación de licitaciones/amaño de ofertas
+绑票 | TRADUÇÃO: secuestrar (por rescate)
+绑扎 | TRADUÇÃO: atar/envolver/amarrar/(informática) vinculación/binding
+绑缚 | TRADUÇÃO: atar/amarrar/inmovilizar/ataduras (BDSM)
+绑腿 | TRADUÇÃO: polainas/vendas para las piernas/perneras
+绑走 | TRADUÇÃO: llevarse secuestrado/raptar
+绑赴市曹 | TRADUÇÃO: llevar atado a la plaza pública para ejecutarlo (modismo)
+綂 | TRADUÇÃO: variante antigua de 統|统
+绡 | TRADUÇÃO: seda cruda
+綅 | TRADUÇÃO: penacho de seda roja de un casco
+绠 | TRADUÇÃO: (literario) cuerda del pozo (para sacar agua)
+绨 | TRADUÇÃO: seda basta de color negro verdoso
+绣 | TRADUÇÃO: variante de 繡|绣 ‖ bordar/bordado
+绤 | TRADUÇÃO: tela basta de cáñamo
+綍 | TRADUÇÃO: cuerda gruesa/cuerdas del féretro
+綎 | TRADUÇÃO: cordón trenzado de seda
+绥 | TRADUÇÃO: pacificar/pron. en Taiwán [sui1]
+绥中 | TRADUÇÃO: véase 綏中縣|绥中县
+绥中县 | TRADUÇÃO: condado de Suizhong, en la ciudad de Huludao 葫蘆島市|葫芦岛市, Liaoning
+绥化 | TRADUÇÃO: véase 綏化市|绥化市
+绥化市 | TRADUÇÃO: ciudad de Suihua, ciudad-prefectura en la provincia de Heilongjiang 黑龍江省|黑龙江省
+绥宁 | TRADUÇÃO: véase 綏寧縣|绥宁县
+绥宁县 | TRADUÇÃO: condado de Suining, en la ciudad de Shaoyang 邵陽市|邵阳市, Hunan
+绥德 | TRADUÇÃO: véase 綏德縣|绥德县
+绥德县 | TRADUÇÃO: condado de Suide, en la ciudad de Yulin 榆林市, Shaanxi
+绥江 | TRADUÇÃO: véase 綏江縣|绥江县
+绥江县 | TRADUÇÃO: condado de Suijiang, en la ciudad de Zhaotong 昭通市, Yunnan
+绥滨 | TRADUÇÃO: véase 綏濱縣|绥滨县
+绥滨县 | TRADUÇÃO: condado de Suibin, en la ciudad de Hegang 鶴崗市|鹤岗市, Heilongjiang
+绥棱 | TRADUÇÃO: véase 綏稜縣|绥棱县
+绥棱县 | TRADUÇÃO: condado de Suiling, en la ciudad de Suihua 綏化市|绥化市, Heilongjiang
+绥芬河 | TRADUÇÃO: río Suifen, río en China y Rusia que desemboca en el mar del Japón ‖ véase 綏芬河市|绥芬河市
+绥芬河市 | TRADUÇÃO: ciudad de Suifenhe, ciudad a nivel de condado en la ciudad de Mudanjiang 牡丹江市, Heilongjiang
+绥远 | TRADUÇÃO: antiguo nombre del distrito de Hohhot 呼和浩特, Mongolia Interior
+绥远省 | TRADUÇÃO: antigua provincia de Suiyuan en Mongolia Interior y Shanxi
+绥阳 | TRADUÇÃO: véase 綏陽縣|绥阳县
+绥阳县 | TRADUÇÃO: condado de Suiyang, en la ciudad de Zunyi 遵義市|遵义市, Guizhou
+绥靖 | TRADUÇÃO: pacificar/apaciguar/apaciguamiento
+绥靖主义 | TRADUÇÃO: política de apaciguamiento/apaciguamiento
+经 | TRADUÇÃO: apellido Jing ‖ clásicos/libro sagrado/escritura/pasar por/experimentar/soportar/resistir/urdimbre (textil)/longitud/menstruación/canal energético (MTC)/abrev. de economía 經濟|经济
+经不住 | TRADUÇÃO: no poder aguantar/ser incapaz de soportar
+经不起 | TRADUÇÃO: no resistir/no poder soportar/no ser capaz de aguantar
+经不起推究 | TRADUÇÃO: no resistir un análisis/no sostenerse tras un examen detallado
+经世 | TRADUÇÃO: administración del Estado/gobernanza y política
+经久 | TRADUÇÃO: duradero/prolongado/resistente al paso del tiempo
+经久不息 | TRADUÇÃO: (modismo) prolongado (aplausos, ovación, etc.)/incesante
+经久不衰 | TRADUÇÃO: duradero/inagotable/que perdura sin decaer
+经信委 | TRADUÇÃO: Comisión de Economía e Informatización
+经停 | TRADUÇÃO: hacer escala (en ruta)/hacer escala técnica
+经侦 | TRADUÇÃO: investigación de delitos económicos
+经传 | TRADUÇÃO: textos canónicos (especialmente clásicos confucianos y sus comentarios)
+经典 | TRADUÇÃO: clásico/obra clásica/las escrituras/ejemplar/típico
+经典场论 | TRADUÇÃO: teoría clásica de campos (física)
+经典案例 | TRADUÇÃO: estudio de caso/caso clásico/ejemplo paradigmático
+经卷 | TRADUÇÃO: rollos de escrituras/volúmenes de clásicos sagrados/pergaminos antiguos
+经受 | TRADUÇÃO: someterse a/pasar por/soportar/resistir (dificultades)
+经合组织 | TRADUÇÃO: Organización para la Cooperación y el Desarrollo Económicos (OCDE)/abrev. de 經濟合作與發展組織|经济合作与发展组织
+经商 | TRADUÇÃO: dedicarse al comercio/hacer negocios/comerciar
+经圈 | TRADUÇÃO: meridiano (geografía)/línea de longitud
+经堂 | TRADUÇÃO: sala de sutras (budismo)/sala de rezos
+经学 | TRADUÇÃO: estudio de los clásicos confucianos
+经常 | TRADUÇÃO: frecuentemente/a menudo/con frecuencia/habitualmente/diario/cotidiano
+经常账户 | TRADUÇÃO: (economía) cuenta corriente
+经幡 | TRADUÇÃO: bandera de oración tibetana
+经幢 | TRADUÇÃO: pilar budista de piedra grabado con sutras
+经年 | TRADUÇÃO: durante años/año tras año
+经年累月 | TRADUÇÃO: durante años y meses/con el paso de los años
+经度 | TRADUÇÃO: longitud (geográfica)
+经得起 | TRADUÇÃO: ser capaz de soportar/resistir/aguantar
+经手 | TRADUÇÃO: (lit.) pasar por las manos de uno/(fig.) encargarse de/tramitar/manejar
+经手人 | TRADUÇÃO: persona a cargo/encargado/tramitador/agente
+经撞 | TRADUÇÃO: resistente a impactos/a prueba de golpes
+经文 | TRADUÇÃO: escrituras sagradas/sutras/textos canónicos/CL:本
+经书 | TRADUÇÃO: libros clásicos del confucianismo/escrituras sagradas/sutras
+经期 | TRADUÇÃO: periodo menstrual/menstruación
+经查 | TRADUÇÃO: tras la investigación/según las pesquisas
+经历 | TRADUÇÃO: experimentar/pasar por/vivencia/experiencia (CL:段,次)
+经气聚集 | TRADUÇÃO: puntos de convergencia del qi (en medicina china)
+经济 | TRADUÇÃO: economía/económico
+经济人 | TRADUÇÃO: Homo economicus
+经济作物 | TRADUÇÃO: cultivo comercial/cultivo industrial (economía)
+经济制裁 | TRADUÇÃO: sanciones económicas
+经济前途 | TRADUÇÃO: futuro económico/perspectiva económica
+经济力量 | TRADUÇÃO: fuerza económica/poder económico
+经济危机 | TRADUÇÃO: crisis económica
+经济合作与发展组织 | TRADUÇÃO: Organización para la Cooperación y el Desarrollo Económicos (OCDE)/abrev. a 經合組織|经合组织
+经济问题 | TRADUÇÃO: problema económico
+经济困境 | TRADUÇÃO: dificultades económicas/apuro económico
+经济基础 | TRADUÇÃO: base socioeconómica/fundamento económico
+经济增加值 | TRADUÇÃO: valor económico agregado (EVA)
+经济增长 | TRADUÇÃO: crecimiento económico
+经济增长率 | TRADUÇÃO: tasa de crecimiento económico
+经济学 | TRADUÇÃO: economía (como disciplina académica)
+经济学人 | TRADUÇÃO: The Economist (revista)
+经济学家 | TRADUÇÃO: economista
+经济学者 | TRADUÇÃO: estudioso de la economía/economista
+经济安全 | TRADUÇÃO: seguridad económica
+经济座 | TRADUÇÃO: asiento de clase económica/asiento turista
+经济情况 | TRADUÇÃO: situación económica/estatus socioeconómico
+经济改革 | TRADUÇÃO: reforma económica
+经济有效 | TRADUÇÃO: rentable/económicamente eficiente
+经济活动 | TRADUÇÃO: actividad económica
+经济特区 | TRADUÇÃO: zona económica especial
+经济状况 | TRADUÇÃO: situación económica/estado financiero
+经济界 | TRADUÇÃO: círculos económicos/sector económico
+经济发展 | TRADUÇÃO: desarrollo económico
+经济社会及文化权利国际公约 | TRADUÇÃO: Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC)
+经济舱 | TRADUÇÃO: clase turista/clase económica
+经济落后 | TRADUÇÃO: económicamente subdesarrollado/atrasado económicamente
+经济萧条 | TRADUÇÃO: depresión económica
+经济衰退 | TRADUÇÃO: recesión económica
+经济周期 | TRADUÇÃO: ciclo económico
+经济体 | TRADUÇÃO: economía/entidad económica (país o región)
+经济体制 | TRADUÇÃO: sistema económico/estructura económica
+经济体系 | TRADUÇÃO: sistema económico
+经营 | TRADUÇÃO: administrar/operar/gestionar/dirigir (un negocio)
+经营者 | TRADUÇÃO: operador/administrador/empresario/gerente
+经营费用 | TRADUÇÃO: gastos de explotación/costos operativos/gastos de gestión
+经理 | TRADUÇÃO: gerente/director/CL:個|个,位,名
+经由 | TRADUÇÃO: a través de/vía/por medio de
+经略 | TRADUÇÃO: (literario) planificar y administrar/gobernar y gestionar
+经痛 | TRADUÇÃO: dolor menstrual/dismenorrea
+经穴 | TRADUÇÃO: punto de acupuntura/puntos de los meridianos (MTC)
+经筵 | TRADUÇÃO: conferencias clásicas imperiales/lugar donde el emperador escuchaba lecciones sobre clásicos
+经管 | TRADUÇÃO: encargarse de/estar a cargo de/administrar
+经籍 | TRADUÇÃO: textos religiosos/libros canónicos
+经纪 | TRADUÇÃO: gestionar (un negocio)/agente/corredor/mánager
+经纪人 | TRADUÇÃO: corredor/intermediario/agente/mánager/representante
+经纱 | TRADUÇÃO: hilo de urdimbre/urdimbre
+经络 | TRADUÇÃO: canales energéticos/meridianos (MTC)/(dialectal) truco/táctica
+经丝彩色显花 | TRADUÇÃO: brocado de urdimbre/tejido de urdimbre policromada
+经线 | TRADUÇÃO: urdimbre/línea de longitud/meridiano (geografía)
+经纬 | TRADUÇÃO: urdimbre y trama/longitud y latitud/puntos principales
+经纬仪 | TRADUÇÃO: teodolito
+经纬密度 | TRADUÇÃO: cuenta de hilos/densidad de hilos (textil)
+经纬线 | TRADUÇÃO: líneas de latitud y longitud/coordenadas geográficas/urdimbre y trama
+经脉 | TRADUÇÃO: meridianos principales (MTC)
+经血 | TRADUÇÃO: sangre menstrual/menstruación (MTC)
+经行 | TRADUÇÃO: realizar meditación caminando (budismo)
+经费 | TRADUÇÃO: fondos/presupuesto/gastos/CL:筆|笔
+经贸 | TRADUÇÃO: economía y comercio (abrev. de 經濟貿易|经济贸易)
+经办 | TRADUÇÃO: encargarse de/tramitar/gestionar
+经过 | TRADUÇÃO: pasar por/atravesar/proceso/transcurso/CL:個|个
+经销 | TRADUÇÃO: vender/distribuir/vender a comisión
+经销商 | TRADUÇÃO: distribuidor/concesionario/comerciante/agencia/punto de venta
+经锦 | TRADUÇÃO: brocado de urdimbre (tejido con trama monocromática y urdimbre multicolor)
+经闭 | TRADUÇÃO: amenorrea
+经验 | TRADUÇÃO: experiencia/experimentar/pasar por
+经验主义 | TRADUÇÃO: empirismo
+经验丰富 | TRADUÇÃO: experimentado/con amplia experiencia/veterano
+𫄧 | TRADUÇÃO: borlas de sombrero
+綗 | TRADUÇÃO: variante de 絅|䌹
+綘 | TRADUÇÃO: variante de 縫|缝
+综 | TRADUÇÃO: lizo (telar)/pron. en Taiwán [zong4] ‖ sintetizar/combinar/resumir/pron. en Taiwán [zong4]
+综上所述 | TRADUÇÃO: en resumen/en síntesis/resumiendo lo expuesto
+综合 | TRADUÇÃO: integral/compuesto/sintetizado/mixto/resumir/integrar/sintetizar
+综合报导 | TRADUÇÃO: reportaje de síntesis/nota informativa consolidada/comunicado
+综合报道 | TRADUÇÃO: informe exhaustivo/reportaje consolidado
+综合布线 | TRADUÇÃO: cableado estructurado
+综合征 | TRADUÇÃO: síndrome
+综合性 | TRADUÇÃO: integralidad/carácter sintético/naturaleza integral
+综合叙述 | TRADUÇÃO: resumen/relato de síntesis/sintetizar
+综合格斗 | TRADUÇÃO: artes marciales mixtas (MMA)
+综合业务数字网 | TRADUÇÃO: red digital de servicios integrados (RDSI) (informática)
+综合法 | TRADUÇÃO: método sintético/razonamiento sintético
+综合症 | TRADUÇÃO: síndrome
+综合艺术 | TRADUÇÃO: artes combinadas/artes multimedia
+综合馆 | TRADUÇÃO: complejo polideportivo/pabellón polivalente
+综括 | TRADUÇÃO: resumir/englobar/sintetizar
+综效 | TRADUÇÃO: sinergia
+综析 | TRADUÇÃO: síntesis y análisis/análisis sintético
+综理 | TRADUÇÃO: supervisar en conjunto/administrar integralmente
+综艺 | TRADUÇÃO: variedades (formato de entretenimiento)/espectáculo de variedades
+综艺节目 | TRADUÇÃO: programa de variedades/show de televisión
+综观 | TRADUÇÃO: tener una visión general de algo/observar globalmente
+综计 | TRADUÇÃO: total general/calcular en conjunto/sumar todo
+综述 | TRADUÇÃO: revisión general/resumen global/hacer una síntesis
+𬘭 | TRADUÇÃO: (literario) detenerse/bondadoso/amable
+绿 | TRADUÇÃO: usado en nombres propios ‖ verde/(jerga) poner los cuernos a la pareja/ser infiel
+绿化 | TRADUÇÃO: plantar vegetación/reforestar/ajardinar/(jerga de internet) islamización
+绿化带 | TRADUÇÃO: franja verde ajardinada/cinturón verde
+绿区 | TRADUÇÃO: Zona Verde (en Bagdad)
+绿卡 | TRADUÇÃO: permiso de residencia permanente/tarjeta verde (green card)
+绿喉太阳鸟 | TRADUÇÃO: (especie de ave de China) suimanga coliverde (Aethopyga nipalensis)
+绿喉蜂虎 | TRADUÇÃO: (especie de ave de China) abejaruco esmeralda (Merops orientalis)
+绿嘴地鹃 | TRADUÇÃO: (especie de ave de China) malcoha piquiverde (Phaenicophaeus tristis)
+绿园 | TRADUÇÃO: véase 綠園區|绿园区
+绿园区 | TRADUÇÃO: distrito de Luyuan, en la ciudad de Changchun 長春市|长春市, Jilin
+绿地 | TRADUÇÃO: zona verde/área verde (parque, jardín)
+绿坝 | TRADUÇÃO: Green Dam (software de control de contenidos de internet usado en 2009-2010)/abrev. de 綠壩·花季護航|绿坝·花季护航
+绿坝·花季护航 | TRADUÇÃO: Escolta Juvenil Dique Verde (software de control de contenidos de internet usado en 2009-2010)/abrev. a 綠壩|绿坝
+绿女红男 | TRADUÇÃO: jóvenes engalanados con ropas vistosas (modismo)
+绿孔雀 | TRADUÇÃO: (especie de ave de China) pavo real cuelliverde (Pavo muticus)
+绿宽嘴鸫 | TRADUÇÃO: (especie de ave de China) cochoa verde (Cochoa viridis)
+绿宝石 | TRADUÇÃO: esmeralda/berilo
+绿尾虹雉 | TRADUÇÃO: (especie de ave de China) monal coliverde (Lophophorus lhuysii)
+绿岛 | TRADUÇÃO: municipio de Lüdao o Lutao, en el condado de Taitung 臺東縣|台东县, sureste de Taiwán
+绿岛乡 | TRADUÇÃO: municipio de Lüdao o Lutao, en el condado de Taitung 臺東縣|台东县, sureste de Taiwán
+绿帽 | TRADUÇÃO: véase 綠帽子|绿帽子
+绿帽子 | TRADUÇÃO: sombrero verde (figurativamente, símbolo de ser un cornudo)
+绿幕 | TRADUÇÃO: pantalla verde/croma verde
+绿惨红愁 | TRADUÇÃO: (de mujeres) semblante afligido (modismo)/rostro lleno de tristeza
+绿教 | TRADUÇÃO: (despectivo) (jerga) islam
+绿旗兵 | TRADUÇÃO: ejército del estandarte verde (infantería permanente de la dinastía Qing)/mismo que 綠營|绿营
+绿春 | TRADUÇÃO: véase 綠春縣|绿春县
+绿春县 | TRADUÇÃO: condado de Lüchun, en la prefectura autónoma hani e yi de Honghe 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+绿松石 | TRADUÇÃO: turquesa (gema)
+绿林 | TRADUÇÃO: lugar en Hubei, punto de partida de una rebelión al final de la dinastía Han Occidental/también pron. [Lu:4 lin2]
+绿林好汉 | TRADUÇÃO: (modismo) héroe justiciero/bandolero noble (que lucha contra la injusticia)
+绿林豪客 | TRADUÇÃO: véase 綠林好漢|绿林好汉
+绿植 | TRADUÇÃO: planta verde/vegetación ornamental
+绿树 | TRADUÇÃO: árboles verdes/vegetación
+绿树成荫 | TRADUÇÃO: (modismo) frondoso y lleno de sombra de árboles/con árboles copiosos que dan sombra
+绿水 | TRADUÇÃO: agua verde/aguas cristalinas y verdes
+绿油油 | TRADUÇÃO: verde brillante/frondoso y verdeante
+绿泥石 | TRADUÇÃO: clorita (geología)
+绿洲 | TRADUÇÃO: oasis
+绿灯 | TRADUÇÃO: luz verde (semáforo)/(fig.) luz verde/permiso para proceder
+绿营 | TRADUÇÃO: Ejército del Estandarte Verde (infantería permanente durante la dinastía Qing)
+绿营兵 | TRADUÇÃO: soldados del Ejército del Estandarte Verde
+绿玉髓 | TRADUÇÃO: crisoprasa (mineralogía)
+绿莹莹 | TRADUÇÃO: verde reluciente/verde brillante y frondoso
+绿玛瑙 | TRADUÇÃO: crisoprasa (mineral)/ágata verde
+绿皇鸠 | TRADUÇÃO: (especie de ave de China) dúcula verde (Ducula aenea)
+绿皮书 | TRADUÇÃO: libro verde (informe gubernamental de propuestas)
+绿皮车 | TRADUÇÃO: tren verde (antiguos trenes lentos y sin aire acondicionado con librea verde característicos del sistema ferroviario chino)
+绿盘 | TRADUÇÃO: cotización en verde (en mercados chinos, cierre a la baja respecto al día anterior)
+绿矾 | TRADUÇÃO: vitriolo verde/caparrosa verde (sulfato ferroso FeSO4:7H2O)
+绿箭 | TRADUÇÃO: Wrigley's Doublemint (marca de chicle)
+绿绿 | TRADUÇÃO: (despectivo) (jerga) persona musulmana
+绿翅短脚鹎 | TRADUÇÃO: (especie de ave de China) bulbul montano (Ixos mcclellandii)
+绿翅金鸠 | TRADUÇÃO: (especie de ave de China) palomita esmeralda colilarga (Chalcophaps indica)
+绿翅鸭 | TRADUÇÃO: (especie de ave de China) cerceta común (Anas crecca)
+绿肥 | TRADUÇÃO: abono verde
+绿背姬鹟 | TRADUÇÃO: (especie de ave de China) papamoscas de Elisa (Ficedula elisae)
+绿背山雀 | TRADUÇÃO: (especie de ave de China) carbonero dorsiverde (Parus monticolus)
+绿背林鹟 | TRADUÇÃO: (especie de ave de China) papamoscas pechicanelo (Rhinomyias olivacea)
+绿胸八色鸫 | TRADUÇÃO: (especie de ave de China) pita encapuchada (Pitta sordida)
+绿脚山鹧鸪 | TRADUÇÃO: (especie de ave de China) arroyera pativerde (Arborophila chloropus)
+绿色 | TRADUÇÃO: verde/color verde
+绿色和平 | TRADUÇÃO: Greenpeace (organización ecologista)
+绿色通道 | TRADUÇÃO: canal verde (aduanas)/(por extensión) vía rápida/trámite prioritario
+绿色食品 | TRADUÇÃO: alimento ecológico/producto alimentario verde y limpio
+绿花椰菜 | TRADUÇÃO: brócoli
+绿花菜 | TRADUÇÃO: brócoli
+绿苔 | TRADUÇÃO: verdín/algas verdes
+绿茵 | TRADUÇÃO: césped verde/prado verde
+绿茵场 | TRADUÇÃO: campo de fútbol/cancha de fútbol
+绿茶 | TRADUÇÃO: té verde/(jerga) chica que aparenta ser inocente y tierna pero es calculadora y manipuladora
+绿茶婊 | TRADUÇÃO: (jerga) (despectivo) zorra de té verde/mujer manipuladora que finge inocencia y candor
+绿草 | TRADUÇÃO: hierba verde/césped verde
+绿草如茵 | TRADUÇÃO: verde pradera como una alfombra (modismo)/césped suave y tupido
+绿菜花 | TRADUÇÃO: brócoli
+绿叶 | TRADUÇÃO: hoja verde/(fig.) actor secundario/papel de reparto
+绿叶菜 | TRADUÇÃO: verdura de hoja verde/hortaliza de hoja
+绿叶蔬菜 | TRADUÇÃO: verdura de hoja verde/hortalizas de hoja verde
+绿荫 | TRADUÇÃO: sombra de los árboles/follaje umbroso
+绿藻 | TRADUÇÃO: algas verdes/chlorella (suplemento dietético)
+绿萝 | TRADUÇÃO: potos (Epipremnum aureum)
+绿豆 | TRADUÇÃO: judía mungo/frijol mungo
+绿豆凸 | TRADUÇÃO: véase 綠豆椪|绿豆椪
+绿豆椪 | TRADUÇÃO: pastel de judía mungo (pastel tradicional taiwanés relleno de pasta de judía mungo dulce o salada)
+绿赤杨 | TRADUÇÃO: aliso verde (Alnus viridis)
+绿阴 | TRADUÇÃO: sombra de los árboles/lugar umbrío
+绿雀 | TRADUÇÃO: verderón oriental (Carduelis sinica)
+绿头巾 | TRADUÇÃO: turbante verde (figurativamente, símbolo de ser un cornudo)
+绿头鸭 | TRADUÇÃO: (especie de ave de China) ánade real/ánade azulón (Anas platyrhynchos)
+绿鹭 | TRADUÇÃO: (especie de ave de China) garcilla estriada (Butorides striata)
+绿党 | TRADUÇÃO: partidos verdes/los Verdes
+绸 | TRADUÇÃO: seda (ligera)/tejido de seda/CL:匹
+绸子 | TRADUÇÃO: tela de seda/tejido de seda/CL:匹
+绸缎 | TRADUÇÃO: raso y seda/satén y seda
+绸缪 | TRADUÇÃO: estar muy unido emocionalmente a alguien/estar apegado afectuosamente
+绻 | TRADUÇÃO: usado en 繾綣|缱绻
+綥 | TRADUÇÃO: gris oscuro/sandalias de paja
+綦 | TRADUÇÃO: gris oscuro/sumamente/en grado sumo/multicolor
+綦江 | TRADUÇÃO: véase 綦江區|綦江区
+綦江区 | TRADUÇÃO: distrito de Qijiang, en Chongqing 重慶|重庆
+𬘬 | TRADUÇÃO: color rojo oscuro (de productos de seda)
+线 | TRADUÇÃO: variante de 線|线 ‖ hilo/cuerda/cable/línea/CL:條|条,股,根/(tras un número) nivel (clasificación de ciudades chinas)
+绶 | TRADUÇÃO: cordón o cinta de un sello oficial
+绶带 | TRADUÇÃO: banda de honor/cinta condecorativa/banda ceremonial
+维 | TRADUÇÃO: abrev. de uigur 維吾爾|维吾尔/apellido Wei ‖ preservar/mantener/sostener unido/dimensión/vitamina (abrev. de 維生素|维生素)
+维也纳 | TRADUÇÃO: Viena (capital de Austria)
+维京人 | TRADUÇÃO: vikingo
+维他命 | TRADUÇÃO: (préstamo) vitamina
+维修 | TRADUÇÃO: mantenimiento (de equipos)/revisión y reparación/mantener y reparar
+维克多·雨果 | TRADUÇÃO: Víctor Hugo (1802-1885), escritor francés
+维克托 | TRADUÇÃO: Víctor (nombre)
+维吉尼亚 | TRADUÇÃO: Virginia (estado de EE. UU.) (Taiwán)
+维吉尔 | TRADUÇÃO: Virgilio (70-19 a. C.), poeta romano autor de la Eneida 埃涅阿斯紀|埃涅阿斯纪
+维吾尔 | TRADUÇÃO: etnia uigur
+维吾尔人 | TRADUÇÃO: uigur/persona de la etnia uigur
+维吾尔族 | TRADUÇÃO: etnia uigur
+维吾尔语 | TRADUÇÃO: idioma uigur/lengua uigur
+维和 | TRADUÇÃO: mantenimiento de la paz
+维基 | TRADUÇÃO: wiki (internet)
+维基媒体基金会 | TRADUÇÃO: Fundación Wikimedia
+维基数据 | TRADUÇÃO: Wikistats (herramienta de estadísticas para proyectos de Wikimedia)
+维基物种 | TRADUÇÃO: Wikispecies (directorio de especies de Wikimedia)
+维基百科 | TRADUÇÃO: Wikipedia (enciclopedia libre en línea)
+维基解密 | TRADUÇÃO: WikiLeaks
+维基词典 | TRADUÇÃO: Wikcionario
+维多利亚 | TRADUÇÃO: (nombre) Victoria/(topónimo) Victoria (capital de Seychelles, estado de Australia, etc.)
+维多利亚公园 | TRADUÇÃO: Parque Victoria (Hong Kong)
+维多利亚女王 | TRADUÇÃO: Reina Victoria (reino 1837-1901)
+维多利亚岛 | TRADUÇÃO: isla Victoria
+维多利亚州 | TRADUÇÃO: Victoria (estado del sureste de Australia)
+维多利亚港 | TRADUÇÃO: puerto de Victoria (Hong Kong)
+维多利亚湖 | TRADUÇÃO: lago Victoria (en África Oriental)
+维多利亚瀑布 | TRADUÇÃO: cataratas Victoria (en el río Zambeze, entre Zambia y Zimbabue)
+维奇 | TRADUÇÃO: Papa Vigilio (en funciones 537-555)/terminación fonética -vich o -wich en nombres rusos
+维妙维肖 | TRADUÇÃO: imitar a la perfección/ser asombrosamente fiel a la realidad
+维它命 | TRADUÇÃO: variante de 維他命|维他命
+维密 | TRADUÇÃO: Victoria's Secret
+维尼熊 | TRADUÇÃO: Winnie the Pooh/Winnie Pooh
+维尼纶 | TRADUÇÃO: véase 維綸|维纶
+维冈 | TRADUÇÃO: Wigan (ciudad de Inglaterra)
+维度 | TRADUÇÃO: dimensión (mat.)/dimensionalidad
+维德角 | TRADUÇÃO: Cabo Verde (Taiwán)
+维恩图解 | TRADUÇÃO: diagrama de Venn
+维拉 | TRADUÇÃO: Vala (Tierra Media en Tolkien)
+维拉港 | TRADUÇÃO: Port Vila (capital de Vanuatu)
+维持 | TRADUÇÃO: mantener/conservar/preservar/sostener
+维持原判 | TRADUÇÃO: ratificar la sentencia original (derecho)
+维持生活 | TRADUÇÃO: ganarse la vida/subsistir/mantenerse económicamente
+维持费 | TRADUÇÃO: gastos de mantenimiento/costos de conservación
+维扬 | TRADUÇÃO: nombre histórico de Yangzhou 揚州|扬州
+维数 | TRADUÇÃO: dimensión/número de dimensiones (mat.)
+维新 | TRADUÇÃO: reforma política/modernización/renovación
+维新派 | TRADUÇÃO: facción reformista
+维新变法 | TRADUÇÃO: Reforma de los Cien Días (1898, intento fallido de reforma en la dinastía Qing)
+维族 | TRADUÇÃO: etnia uigur (abrev. de 維吾爾族|维吾尔族)
+维根 | TRADUÇÃO: vegano (del inglés "vegan")
+维权 | TRADUÇÃO: defender los derechos legales/defensa de derechos
+维权人士 | TRADUÇÃO: activista de derechos civiles/defensor de derechos humanos
+维氏 | TRADUÇÃO: Victorinox (marca suiza de navajas)
+维港 | TRADUÇÃO: puerto de Victoria (Hong Kong)/abrev. de 維多利亞港|维多利亚港
+维尔容 | TRADUÇÃO: Johannes Lodewikus Viljoen (embajador sudafricano en Taiwán)
+维尔斯特拉斯 | TRADUÇÃO: Karl Weierstrass (1815-1897), matemático alemán
+维尔纽斯 | TRADUÇÃO: Vilna (capital de Lituania)
+维特 | TRADUÇÃO: Werther (ópera de Jules Massenet)/Werther (nombre propio masculino alemán)
+维特根斯坦 | TRADUÇÃO: Wittgenstein (nombre)/Ludwig Wittgenstein (1889-1951), filósofo austríaco-británico
+维珍 | TRADUÇÃO: Virgin (grupo empresarial)
+维生 | TRADUÇÃO: ganarse el sustento/abrev. de 維持生活|维持生活
+维生素 | TRADUÇÃO: vitamina
+维稳 | TRADUÇÃO: mantener la estabilidad social
+维管 | TRADUÇÃO: vascular
+维管束 | TRADUÇÃO: haz vascular (botánica)
+维管束植物 | TRADUÇÃO: plantas vasculares/traqueofitas (botánica)
+维管柱 | TRADUÇÃO: cilindro vascular/estela (botánica)
+维纳斯 | TRADUÇÃO: Venus (mitología romana, diosa del amor)
+维维安 | TRADUÇÃO: (nombre) Vivian/Viviana/Vivien/Vivienne
+维纶 | TRADUÇÃO: vinylon (fibra sintética a base de alcohol polivinílico)
+维系 | TRADUÇÃO: mantener unido/sostener/conservar
+维罗纳 | TRADUÇÃO: Verona (ciudad de Italia)
+维萨 | TRADUÇÃO: Visa (tarjeta de crédito y red de pagos)
+维西 | TRADUÇÃO: véase 維西傈僳族自治縣|维西傈僳族自治县
+维西傈僳族自治县 | TRADUÇÃO: condado autónomo lisu de Weixi, en la prefectura autónoma tibetana de Diqing 迪慶藏族自治州|迪庆藏族自治州, Yunnan
+维西县 | TRADUÇÃO: véase 維西傈僳族自治縣|维西傈僳族自治县
+维护 | TRADUÇÃO: defender/salvaguardar/proteger/mantener/preservar
+维护和平 | TRADUÇÃO: salvaguardar la paz/mantener la paz
+维达 | TRADUÇÃO: Vidar (deidad nórdica)
+綮 | TRADUÇÃO: estandarte bordado
+绹 | TRADUÇÃO: atar/cordel/retorcer cuerda
+绾 | TRADUÇÃO: recoger el cabello/ensartar/atar
+纲 | TRADUÇÃO: cuerda principal de una red de pesca/principio rector/eslabón clave/clase (taxonomía)/programa/esquema general
+纲纪 | TRADUÇÃO: ley y orden/disciplina institucional/reglas
+纲举目张 | TRADUÇÃO: al tirar de la cuerda principal se abren todas las mallas (modismo)/atendiendo lo principal todo encaja/(de un texto) bien estructurado y ordenado
+纲要 | TRADUÇÃO: compendio/esquema general/puntos esenciales/guía programática
+纲领 | TRADUÇÃO: programa de acción/directriz fundamental/principios rectores
+网 | TRADUÇÃO: red/telaraña/atrapar con red
+网上 | TRADUÇÃO: en línea/por internet
+网上广播 | TRADUÇÃO: transmisión por internet/webcast
+网下 | TRADUÇÃO: fuera de línea/offline (presencial, no a través de internet)
+网信办 | TRADUÇÃO: Administración del Ciberespacio de China (CAC)
+网传 | TRADUÇÃO: circular por internet/rumorearse en las redes sociales
+网剧 | TRADUÇÃO: serie web/serie de internet
+网卡 | TRADUÇÃO: tarjeta de red/adaptador de red (informática)
+网友 | TRADUÇÃO: amigo de internet/cibernauta/usuario de internet
+网吧 | TRADUÇÃO: cibercafé/café internet
+网咖 | TRADUÇÃO: cibercafé/café internet para videojuegos
+网售 | TRADUÇÃO: vender por internet/venta en línea
+网址 | TRADUÇÃO: dirección web/URL
+网孔 | TRADUÇÃO: orificio de la malla/malla
+网安 | TRADUÇÃO: ciberseguridad (abrev. de 網絡安全|网络安全)
+网室 | TRADUÇÃO: invernadero de malla (para protección de cultivos)
+网布 | TRADUÇÃO: tela de malla/tejido de red (textil)
+网师园 | TRADUÇÃO: Jardín del Maestro de Redes (en Suzhou, Jiangsu, Patrimonio de la Humanidad de la UNESCO)
+网店 | TRADUÇÃO: tienda en línea/tienda virtual
+网恋 | TRADUÇÃO: romance por internet/ciberamor/noviazgo virtual
+网文 | TRADUÇÃO: literatura digital/novelas web (abrev. de 網絡文學|网络文学)
+网易 | TRADUÇÃO: NetEase (empresa china de internet y videojuegos)
+网景 | TRADUÇÃO: Netscape
+网暴 | TRADUÇÃO: acosar en redes/ciberacoso (abrev. de 網絡暴力|网络暴力)
+网杓 | TRADUÇÃO: espumadera de malla (utensilio de cocina)
+网架 | TRADUÇÃO: estructura de rejilla/armazón de red
+网格 | TRADUÇÃO: cuadrícula/malla/rejilla
+网格员 | TRADUÇÃO: trabajador comunitario de cuadrícula (encargado de patrullar vecindarios y gestionar servicios locales en China)
+网模 | TRADUÇÃO: modelo para tiendas de ropa en línea
+网桥 | TRADUÇÃO: puente de red/bridge (redes)
+网段 | TRADUÇÃO: segmento de red
+网民 | TRADUÇÃO: internauta/usuario de internet/cibernauta
+网片 | TRADUÇÃO: paño de red/malla
+网版 | TRADUÇÃO: pantalla de serigrafía (impresión)
+网特 | TRADUÇÃO: ciberagente gubernamental anónimo (abrev. de 網絡特工|网络特工)
+网状泡沫 | TRADUÇÃO: espuma reticulada
+网状脉 | TRADUÇÃO: nervadura reticular (de una hoja, etc.)/vetas entrecruzadas (geología)
+网球 | TRADUÇÃO: tenis/pelota de tenis/CL:個|个
+网球场 | TRADUÇÃO: cancha de tenis/pista de tenis
+网球赛 | TRADUÇÃO: partido de tenis/torneo de tenis/CL:場|场
+网瘾 | TRADUÇÃO: adicción a internet
+网盘 | TRADUÇÃO: disco virtual/almacenamiento en la nube
+网目 | TRADUÇÃO: ojo de malla/abertura de la red
+网眼 | TRADUÇÃO: malla/orificio de la red
+网禁 | TRADUÇÃO: censura de internet/bloqueo de la red
+网站 | TRADUÇÃO: sitio web/página web
+网站导览 | TRADUÇÃO: (Taiwán) mapa del sitio web
+网管 | TRADUÇÃO: administración de redes/administrador de red/webmaster
+网管员 | TRADUÇÃO: administrador de red/gestor de redes
+网管接口 | TRADUÇÃO: interfaz de gestión de red
+网箱 | TRADUÇÃO: jaula flotante (para piscicultura)
+网约车 | TRADUÇÃO: vehículo de transporte con conductor (VTC)/taxi por aplicación móvil
+网红 | TRADUÇÃO: celebridad de internet/influencer/popular en redes sociales
+网络 | TRADUÇÃO: internet ‖ red (informática, telecomunicaciones, transporte, etc.)
+网络俚语 | TRADUÇÃO: jerga de internet/lenguaje cibernético
+网络协议 | TRADUÇÃO: protocolo de red
+网络地址转换 | TRADUÇÃO: traducción de direcciones de red (NAT) (informática)
+网络安全 | TRADUÇÃO: ciberseguridad/seguridad en la red
+网络客 | TRADUÇÃO: cliente por internet/comprador en línea
+网络层 | TRADUÇÃO: capa de red
+网络层协议 | TRADUÇÃO: protocolo de la capa de red
+网络广告 | TRADUÇÃO: publicidad en línea/anuncios en internet
+网络应用 | TRADUÇÃO: aplicación de red
+网络成瘾 | TRADUÇÃO: adicción a internet
+网络打手 | TRADUÇÃO: véase 網絡水軍|网络水军
+网络技术 | TRADUÇÃO: tecnología de redes/tecnología de internet
+网络操作系统 | TRADUÇÃO: sistema operativo de red (NOS)
+网络日记 | TRADUÇÃO: blog/diario en línea/mismo que 博客
+网络欺诈 | TRADUÇÃO: fraude en internet/phishing
+网络水军 | TRADUÇÃO: "marina de internet"/comentadores a sueldo en línea/creadores de opinión artificial
+网络浏览器 | TRADUÇÃO: navegador de red/navegador web
+网络特工 | TRADUÇÃO: agente encubierto en internet/comentador financiado por el Estado
+网络环境 | TRADUÇÃO: entorno de red
+网络用语 | TRADUÇÃO: véase 網絡語言|网络语言
+网络科技 | TRADUÇÃO: tecnología de redes
+网络空间 | TRADUÇÃO: ciberespacio
+网络管理 | TRADUÇÃO: administración de redes/gestión de redes
+网络管理员 | TRADUÇÃO: administrador de red
+网络管理系统 | TRADUÇÃO: sistema de gestión de red (NMS)
+网络红人 | TRADUÇÃO: celebridad de internet/famoso de la red
+网络色情 | TRADUÇÃO: pornografía en internet
+网络规划人员 | TRADUÇÃO: planificador de redes
+网络设备 | TRADUÇÃO: equipos de red/dispositivos de red
+网络设计 | TRADUÇÃO: diseño de redes
+网络语言 | TRADUÇÃO: lenguaje de internet/ciberlenguaje/jerga digital
+网络语音 | TRADUÇÃO: voz sobre IP (VoIP)/comunicación por voz en internet
+网络迁移 | TRADUÇÃO: migración de red
+网综 | TRADUÇÃO: programa de variedades transmitido exclusivamente por internet (abrev. de 網絡綜藝節目|网络综艺节目)
+网罟 | TRADUÇÃO: red de pesca o caza/(fig.) red de la justicia 法網|法网
+网罟座 | TRADUÇÃO: Reticulum (constelación del Retículo)
+网罗 | TRADUÇÃO: red para pescar o cazar aves/(fig.) cadenas/reclutar (nuevos talentos)/reunir bajo un mismo techo
+网膜 | TRADUÇÃO: epiplón/retina (anatomía)
+网蝽 | TRADUÇÃO: chinche de encaje (Tingidae)
+网虫 | TRADUÇÃO: adicto a internet/ciberadicto
+网袋 | TRADUÇÃO: bolsa de malla/bolsa de red
+网袜 | TRADUÇÃO: medias de rejilla/medias de red
+网志 | TRADUÇÃO: blog/bitácora en línea/mismo que 博客
+网语 | TRADUÇÃO: jerga de internet/lenguaje cibernético
+网课 | TRADUÇÃO: clases en línea/cursos por internet
+网警 | TRADUÇÃO: policía de internet (abrev. de 網絡警察|网络警察)
+网贷 | TRADUÇÃO: (finanzas) préstamos en línea/crédito por internet
+网赚 | TRADUÇÃO: ganar dinero por internet
+网购 | TRADUÇÃO: compras por internet/comprar en línea
+网路 | TRADUÇÃO: red (informática, telecomunicaciones)/internet/término en Taiwán para 網絡|网络
+网路作业系统 | TRADUÇÃO: sistema operativo de red
+网路平台 | TRADUÇÃO: plataforma de red/plataforma en línea
+网路应用 | TRADUÇÃO: (Taiwán) aplicación web/aplicación de red
+网路服务 | TRADUÇÃO: servicios de red/servicios de internet
+网路架构 | TRADUÇÃO: infraestructura de red/arquitectura de red
+网路特务 | TRADUÇÃO: agente gubernamental encubierto en internet
+网路环境 | TRADUÇÃO: entorno de red
+网路节点 | TRADUÇÃO: nodo de red
+网路节点介面 | TRADUÇÃO: interfaz de nodo de red
+网路链接层 | TRADUÇÃO: capa de enlace de red
+网军 | TRADUÇÃO: ejército de troles en internet/ejército de propaganda digital
+网通 | TRADUÇÃO: China Netcom (CNC, antiguo operador de telecomunicaciones en China)
+网速 | TRADUÇÃO: velocidad de internet/velocidad de red
+网游 | TRADUÇÃO: juego en línea/videojuego online (abrev. de 網絡遊戲|网络游戏)
+网银 | TRADUÇÃO: banca en línea/banca electrónica (abrev. de 網上銀行|网上银行)
+网开一面 | TRADUÇÃO: abrir un lado de la red (modismo)/dejar una salida al rival/ser indulgente
+网开三面 | TRADUÇÃO: dejar la red abierta por tres lados (modismo)/mostrar gran benevolencia/dar una oportunidad de escape
+网关 | TRADUÇÃO: pasarela de red/puerta de enlace/router (informática)
+网际 | TRADUÇÃO: interred/cibernético/internet
+网际协定 | TRADUÇÃO: protocolo de internet (IP)
+网际网络 | TRADUÇÃO: internet
+网际网路 | TRADUÇÃO: (Taiwán) internet
+网页 | TRADUÇÃO: página web
+网页地址 | TRADUÇÃO: dirección de página web/URL
+网页设计 | TRADUÇÃO: diseño web
+网飞 | TRADUÇÃO: Netflix
+网点 | TRADUÇÃO: sucursal/punto de servicio (de un banco, tienda, etc.)/(impresión) punto de trama/(informática) nodo de red
+绷 | TRADUÇÃO: variante de 繃|绷/variante de 繃|绷 ‖ tensar/estirar fuertemente/hilvanar/bastidor de bordado/estera de cama tejida ‖ poner cara seria/poner cara tensa
+缀 | TRADUÇÃO: variante de 輟|辍 ‖ coser/unir con puntadas/combinar/enlazar/conectar/componer palabras/redactar/adornar
+缀合 | TRADUÇÃO: componer/ensamblar/unir fragmentos
+缀字 | TRADUÇÃO: deletrear/formar palabras
+缀文 | TRADUÇÃO: redactar un ensayo/escribir un texto
+缀饰 | TRADUÇÃO: decorar/adornar/adorno
+䌽 | TRADUÇÃO: variante de 彩
+綷 | TRADUÇÃO: seda de cinco colores/véase 綷縩
+綷縩 | TRADUÇÃO: (onomat.) crujido o sonido de roce de la tela de seda
+纶 | TRADUÇÃO: clasificar/torcer hilos de seda/hilo de seda
+绺 | TRADUÇÃO: madeja/mechón (de pelo)/hebra
+绮 | TRADUÇÃO: hermoso/seda fina con patrones calados
+绮井 | TRADUÇÃO: artesonado decorado (arquitectura)
+绮梦 | TRADUÇÃO: sueño placentero y romántico/sueño hermoso
+绮室 | TRADUÇÃO: aposento magnífico/habitación suntuosa
+绮年 | TRADUÇÃO: años juveniles/juventud florida
+绮思 | TRADUÇÃO: bellos pensamientos/imaginación poética en los escritos
+绮想 | TRADUÇÃO: fantasías/imaginaciones hermosas
+绮想曲 | TRADUÇÃO: capricho (música)
+绮岁 | TRADUÇÃO: años de juventud/edad florida
+绮灿 | TRADUÇÃO: encantador/deslumbrante/esplendoroso
+绮窗 | TRADUÇÃO: ventana hermosamente decorada
+绮筵 | TRADUÇÃO: banquete suntuoso/festín espléndido
+绮绣 | TRADUÇÃO: tela de seda con hermosos bordados
+绮罗 | TRADUÇÃO: hermosas telas de seda/persona vestida con sedas elegantes
+绮色佳 | TRADUÇÃO: Ithaca (Nueva York, sede de la Universidad Cornell 康奈爾大學|康奈尔大学)
+绮衣 | TRADUÇÃO: vestidos hermosos/ropas suntuosas de seda
+绮语 | TRADUÇÃO: lenguaje florido/escritos sobre amor y sensualidad
+绮貌 | TRADUÇÃO: apariencia hermosa/rostro bello
+绮陌 | TRADUÇÃO: avenidas espléndidas/calles animadas y bellas
+绮云 | TRADUÇÃO: nubes de hermosos colores/nubes resplandecientes
+绮靡 | TRADUÇÃO: hermoso y recargado/ornado/ostentoso
+绮丽 | TRADUÇÃO: hermoso/espléndido/cautivador
+绽 | TRADUÇÃO: reventar/abrirse (flores)/descoserse una costura
+绽放 | TRADUÇÃO: florecer/abrirse en flor/desplegarse
+绽破 | TRADUÇÃO: reventar/rajarse/desgarrarse
+绽线 | TRADUÇÃO: descoserse el hilo/abrirse una costura
+绽裂 | TRADUÇÃO: agrietarse/rajarse/abrirse por completo
+绽开 | TRADUÇÃO: abrirse/brotar/florecer
+绽露 | TRADUÇÃO: asomar/revelarse/mostrarse (formal)
+绰 | TRADUÇÃO: agarrar/arrebatar/variante de 焯 ‖ amplio/espacioso/(literario) elegante/grácil/usado en 綽號|绰号 y 綽名|绰名
+绰名 | TRADUÇÃO: apodo/alias
+绰约 | TRADUÇÃO: (literario) grácil/elegante/encantador
+绰绰有余 | TRADUÇÃO: (modismo) más que suficiente/de sobra/con creces
+绰号 | TRADUÇÃO: apodo/alias/nombrete
+绫 | TRADUÇÃO: damasco/seda fina adamascada
+绫罗绸缎 | TRADUÇÃO: (modismo) sedas y satenes/telas lujosas de seda
+绵 | TRADUÇÃO: borra de seda/continuo/suave/débil/manso (dialectal) ‖ variante antigua de 綿|绵/algodón
+绵亘 | TRADUÇÃO: extenderse en cadena ininterrumpida (especialmente montañas)
+绵力 | TRADUÇÃO: las modestas fuerzas de uno (expresión de humildad)/débil esfuerzo
+绵子 | TRADUÇÃO: (dialectal) borra de seda
+绵密 | TRADUÇÃO: minucioso/meticuloso/denso y detallado
+绵延 | TRADUÇÃO: extenderse ininterrumpidamente/prolongarse de forma continua (especialmente cordilleras)
+绵惙 | TRADUÇÃO: gravemente enfermo/moribundo
+绵白糖 | TRADUÇÃO: azúcar en polvo/azúcar fino blanco
+绵竹 | TRADUÇÃO: véase 綿竹市|绵竹市
+绵竹市 | TRADUÇÃO: ciudad de Mianzhu, ciudad a nivel de condado en la ciudad de Deyang 德陽市|德阳市, Sichuan
+绵绸 | TRADUÇÃO: tejido áspero hecho con desperdicios de seda/tela de borra de seda
+绵绵 | TRADUÇÃO: continuo/incesante/sin interrupción
+绵绵不绝 | TRADUÇÃO: incesante/interminable/sin fin
+绵绵瓜瓞 | TRADUÇÃO: (lit.) calabacera repleta de frutos de todos los tamaños (modismo)/(fig.) prosperidad y descendencia continua por generaciones
+绵羊 | TRADUÇÃO: oveja
+绵联 | TRADUÇÃO: variante de 綿連|绵连
+绵薄 | TRADUÇÃO: mi humilde esfuerzo/mi modesta contribución (expresión humilde)
+绵里藏针 | TRADUÇÃO: (lit.) aguja oculta en la borra de seda (modismo)/(fig.) persona despiadada tras una apariencia dulce/mano dura en guante de seda
+绵连 | TRADUÇÃO: continuo/ininterrumpido/que se extiende sin cesar
+绵远 | TRADUÇÃO: remoto en el tiempo o espacio/lejano y prolongado
+绵邈 | TRADUÇÃO: remoto/lejano en el tiempo/distante
+绵长 | TRADUÇÃO: prolongado/largo y continuo (costa, sonido, etc.)/extenso
+绵阳 | TRADUÇÃO: véase 綿陽市|绵阳市
+绵阳市 | TRADUÇÃO: ciudad de Mianyang, ciudad-prefectura en la provincia de Sichuan 四川省
+緁 | TRADUÇÃO: empalmar/unir/trenzar
+绲 | TRADUÇÃO: cordón/faja bordada/ribetear/coser un ribete
+绲边 | TRADUÇÃO: ribete/borde ribeteado (de un vestido, etc.)
+緅 | TRADUÇÃO: seda púrpura
+緆 | TRADUÇÃO: tela de arpillera fina/lienzo fino de saco
+缁 | TRADUÇÃO: monjes budistas/seda negra/oscuro
+紧 | TRADUÇÃO: apretado/estricto/cercano/urgente/tenso/apretado de dinero/ajustar/tensar
+紧俏 | TRADUÇÃO: (mercancía) de gran demanda/muy codiciado/escaso en el mercado
+紧咬不放 | TRADUÇÃO: (modismo) aferrarse con terquedad/no soltar la presa/morder sin soltar
+紧密 | TRADUÇÃO: estrecho/inseparable/íntimo
+紧密相联 | TRADUÇÃO: estrechamente interconectado/íntimamente ligado
+紧密织物 | TRADUÇÃO: tejido apretado/tejido denso
+紧密配合 | TRADUÇÃO: coordinarse estrechamente/actuar en estrecha colaboración con
+紧实 | TRADUÇÃO: firme/compacto/denso/apretado
+紧巴 | TRADUÇÃO: ajustado de dinero/apretado/mismo que 緊巴巴|紧巴巴
+紧巴巴 | TRADUÇÃO: ceñido/ajustado económicamente/apretado de dinero
+紧张 | TRADUÇÃO: nervioso/inquieto/intenso/tenso/tirante/escaso/CL:陣|阵
+紧张状态 | TRADUÇÃO: estado de tensión/situación tensa/impasse
+紧张缓和 | TRADUÇÃO: distensión/relajación de las tensiones
+紧急 | TRADUÇÃO: urgente/de emergencia/apremiante
+紧急事件 | TRADUÇÃO: suceso de emergencia/incidente imprevisto
+紧急应变 | TRADUÇÃO: respuesta a emergencias/gestión de emergencias
+紧急状态 | TRADUÇÃO: estado de emergencia
+紧急疏散 | TRADUÇÃO: evacuación de emergencia
+紧急医疗 | TRADUÇÃO: atención médica de urgencia/asistencia médica de emergencia
+紧扣 | TRADUÇÃO: ceñirse estrictamente a (un tema, etc.)/abrochar firmemente
+紧抱 | TRADUÇÃO: abrazar fuertemente/estrechar en los brazos
+紧接 | TRADUÇÃO: seguir inmediatamente a/inmediatamente contiguo
+紧接着 | TRADUÇÃO: inmediatamente después/justo a continuación/poco después
+紧握 | TRADUÇÃO: apretar la mano/sujetar con firmeza/empuñar fuertemente
+紧挤 | TRADUÇÃO: apretujar/estrujar fuertemente
+紧凑 | TRADUÇÃO: compacto/conciso/apretado (horario)
+紧凑型车 | TRADUÇÃO: modelo de coche compacto/automóvil compacto
+紧凑渺子线圈 | TRADUÇÃO: Solenoide Compacto de Muones (CMS)
+紧盯 | TRADUÇÃO: clavar la mirada en/vigilar de cerca/mirar fijamente
+紧箍咒 | TRADUÇÃO: conjuro para apretar la diadema dorada (en Viaje al Oeste 西遊記|西游记)/fórmula o método para controlar a alguien
+紧绌 | TRADUÇÃO: escasez de suministros/apuro financiero
+紧紧 | TRADUÇÃO: firmemente/apretadamente/estrechamente
+紧缩 | TRADUÇÃO: (economía) reducir/recortar/restringir/austeridad/contracción/endurecimiento
+紧绷 | TRADUÇÃO: estirar tensamente/(de músculos, etc.) tenso/tirante
+紧绷绷 | TRADUÇÃO: muy tenso/apretado/(cara, labios) rígido/tirante
+紧缺 | TRADUÇÃO: escaso/con oferta insuficiente
+紧衣缩食 | TRADUÇÃO: véase 節衣縮食|节衣缩食
+紧裹 | TRADUÇÃO: envolver ajustadamente/ceñir firmemente/ropa muy ajustada
+紧要 | TRADUÇÃO: crítico/crucial/vital/esencial
+紧要关头 | TRADUÇÃO: momento crítico (modismo)/coyuntura crucial/momento decisivo
+紧贴 | TRADUÇÃO: pegarse a/adherirse estrechamente/apoyarse contra
+紧跟 | TRADUÇÃO: seguir de cerca/obedecer puntualmente/acatar
+紧身 | TRADUÇÃO: ajustado al cuerpo/ceñido/ajustadísimo

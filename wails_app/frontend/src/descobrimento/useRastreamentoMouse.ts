@@ -103,11 +103,30 @@ export function useRastreamentoMouse(opcoes: OpcoesUseRastreamentoMouse) {
     clearTimeout(timeoutPopupRef.current);
   }
 
+  // Chamado pelo vigia (App) a cada atualização de cards: se o card em foco virou fantasma — ou
+  // sumiu da lista — derruba foco, pop-up e destaque na hora. Sem isso, o rastreamento do mouse só
+  // reavaliaria no próximo movimento do cursor, e um cursor parado deixaria tudo preso na tela.
+  function revalidarFocoContra(cards: any[]) {
+    const foco = cartaoEmFocoRef.current;
+    // Só revalida foco com caixa de tela real (hover no Descobrimento). Card sem caixa (ex.: lista
+    // da aba "Seção") não é vigiado e não deve ser derrubado por um fantasma de outro card.
+    if (!foco || !foco.caixa || foco.caixa.length !== LADOS_CAIXA) return;
+
+    const correspondente = cards.find(c => ehMesmaCaixa(c?.caixa, foco.caixa));
+    if (correspondente && !correspondente.fantasma) return;
+
+    setCartaoEmFoco(null);
+    HideHoverPopup(); // oculta o pop-up de hover E o destaque verde (ver overlay.OcultarHover)
+    cancelarPopupAgendado();
+  }
+
   return {
     // O offset muda quando o usuário troca o monitor alvo nas configurações.
     definirOffsetMonitor: (offset: { x: number, y: number }) => { offsetMonitorRef.current = offset; },
     // Ligado/desligado pelos handlers de hover dos cartões da UI.
     definirMouseSobreCartaoUI: (sobre: boolean) => { mouseSobreCartaoUIRef.current = sobre; },
+    // Derruba foco/pop-up/destaque de um card que o vigia acabou de marcar como fantasma.
+    revalidarFocoContra,
   };
 }
 
@@ -122,6 +141,8 @@ function encontrarCartaoMaisProximo(cartoes: any[], x: number, y: number, distan
 
   for (const cartao of cartoes) {
     if (!cartao.caixa || cartao.caixa.length !== LADOS_CAIXA) continue;
+    // Card fantasma (o vigia do Go detectou que o texto saiu da tela) não disputa o foco do mouse.
+    if (cartao.fantasma) continue;
 
     const distancia = distanciaAteCaixa(x, y, cartao.caixa);
     if (distancia >= menorDistancia || distancia > distanciaMaxima) continue;
@@ -131,6 +152,12 @@ function encontrarCartaoMaisProximo(cartoes: any[], x: number, y: number, distan
   }
 
   return maisProximo;
+}
+
+
+function ehMesmaCaixa(caixa?: number[], outra?: number[]): boolean {
+  if (!caixa || !outra || caixa.length !== LADOS_CAIXA || outra.length !== LADOS_CAIXA) return false;
+  return caixa.every((valor, i) => valor === outra[i]);
 }
 
 

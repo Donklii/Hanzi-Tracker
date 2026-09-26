@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significado1/significado2/.../ em inglês>
+# Traduza cada significado (a lista separada por "/") para português, mantendo os mesmos separadores "/", a mesma ORDEM e a mesma QUANTIDADE de significados por linha.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+引产 | TRADUÇÃO: induzir o parto (parto)
+引用 | TRADUÇÃO: citar/recomendar, nomear/(computação) referência
+引用句 | TRADUÇÃO: citação
+引申 | TRADUÇÃO: estender (o significado de uma palavra, analogia etc)/derivação
+引申义 | TRADUÇÃO: significado estendido (de uma expressão)/sentido derivado
+引发 | TRADUÇÃO: levar a/desencadear/iniciar/causar/evocar (emoções)
+引种 | TRADUÇÃO: (agricultura, pecuária) introduzir uma nova variedade de planta ou animal/(agricultura) plantar uma variedade introduzida
+引经据典 | TRADUÇÃO: (expressão idiomática) citar os clássicos/citar capítulo e verso
+引线 | TRADUÇÃO: estopim (para explosivo)/fio condutor/intermediário/catalisador/(dialeto) agulha de costura
+引线框架 | TRADUÇÃO: (eletrônica) lead frame
+引线穿针 | TRADUÇÃO: enfiar a linha na agulha/(fig.) servir de intermediário
+引而不发 | TRADUÇÃO: (expressão idiomática de Mêncio) puxar o arco sem atirar; pronto e esperando para agir/fazer de conta que está fazendo/praticar/ensaio
+引脚 | TRADUÇÃO: pino/terminal (hardware de computador)
+引着 | TRADUÇÃO: inflamar/acender
+引荐 | TRADUÇÃO: recomendar alguém; dar uma referência
+引号 | TRADUÇÃO: aspas (sinal de pontuação)
+引号完 | TRADUÇÃO: fechar aspas/fim de citação
+引号完毕 | TRADUÇÃO: fechar aspas/fim de citação
+引蛇出洞 | TRADUÇÃO: (expressão idiomática) tirar a cobra do buraco/expor um malfeitor
+引见 | TRADUÇÃO: apresentar (alguém)/(esp.) apresentar ao imperador
+引言 | TRADUÇÃO: prefácio/introdução
+引诱 | TRADUÇÃO: coagir (alguém a fazer algo ruim)/atrair (para uma armadilha)/seduzir
+引语 | TRADUÇÃO: citação
+引证 | TRADUÇÃO: citar/fazer referência/citar em testemunho
+引起 | TRADUÇÃO: dar origem a; levar a; causar; despertar
+引路 | TRADUÇÃO: guiar/mostrar o caminho
+引述 | TRADUÇÃO: citar
+引退 | TRADUÇÃO: aposentar-se do cargo/renunciar
+引逗 | TRADUÇÃO: provocar/instigar/zoar
+引进 | TRADUÇÃO: recomendar/introduzir (de fora)
+引开 | TRADUÇÃO: atrair para longe/desviar
+引领 | TRADUÇÃO: esticar o pescoço/aguardar ansiosamente/liderar/mostrar o caminho
+引颈 | TRADUÇÃO: esticar o pescoço/(fig.) com o pescoço esticado na expectativa
+引颈就戮 | TRADUÇÃO: (expressão idiomática) estender o pescoço em preparação para a execução
+引体向上 | TRADUÇÃO: chin-up (exercício físico)
+引鬼上门 | TRADUÇÃO: (expressão idiomática) convidar o diabo para casa/(fig.) introduzir uma fonte potencial de problemas
+弗 | TRADUÇÃO: (literário) não/usado em transliteração
+弗吉尼亚 | TRADUÇÃO: variante de 弗吉尼亞州|弗吉尼亚州/Virgínia, estado dos EUA
+弗州 | TRADUÇÃO: Virgínia, estado dos EUA/abrev. de 弗吉尼亞州|弗吉尼亚州
+弗拉基米尔 | TRADUÇÃO: Vladimir
+弗拉明戈 | TRADUÇÃO: flamenco (Taiwan) (estrangeirismo)
+弗拉芒 | TRADUÇÃO: flamengo, habitante de Flanders (Bélgica)
+弗拉门戈 | TRADUÇÃO: flamenco (estrangeirismo)
+弗朗索瓦·霍兰德 | TRADUÇÃO: François Hollande (1954-), político socialista francês, presidente da França 2012-2017/também escrito 奧朗德|奥朗德
+弗格森 | TRADUÇÃO: (sobrenome) Ferguson
+弗氏鸥 | TRADUÇÃO: (ave da China) gaivota-de-franklin (Leucophaeus pipixcan)
+弗洛伊德 | TRADUÇÃO: Floyd (nome)/Freud (nome)/Dr. Sigmund Freud (1856-1939), fundador da psicanálise
+弗洛伦蒂诺·佩雷斯 | TRADUÇÃO: Florentino Pérez (1947-), empresário espanhol e presidente do Real Madrid
+弗洛勒斯岛 | TRADUÇÃO: Flores, Indonésia/também escrito 弗洛里斯島|弗洛里斯岛
+弗洛姆 | TRADUÇÃO: Fromm (psicanalista)
+弗洛里斯岛 | TRADUÇÃO: Flores, Indonésia/também escrito 弗洛勒斯島|弗洛勒斯岛
+弗罗茨瓦夫 | TRADUÇÃO: Breslávia, cidade polonesa
+弗莱威厄斯 | TRADUÇÃO: Flávio (historiador romano do século I d.C.)
+弗莱福兰 | TRADUÇÃO: Flevolândia, província dos Países Baixos
+弗兰克 | TRADUÇÃO: Frank (nome)
+弗兰兹 | TRADUÇÃO: Franz (nome)
+弗兰西斯 | TRADUÇÃO: Francisco (nome)
+弗兰西斯·培根 | TRADUÇÃO: Francis Bacon (1561-1626), filósofo renascentista inglês e cientista pioneiro
+弗迪南 | TRADUÇÃO: Fernando (nome)
+弗里得里希 | TRADUÇÃO: Friedrich (nome)
+弗里德里希 | TRADUÇÃO: Friedrich (nome)
+弗里德里希·席勒 | TRADUÇÃO: Friedrich Schiller ou Johann Christoph Friedrich von Schiller (1759-1805), poeta e dramaturgo alemão
+弗里敦 | TRADUÇÃO: Freetown, capital de Serra Leoa
+弗里斯兰 | TRADUÇÃO: Frísia, província dos Países Baixos
+弗里曼 | TRADUÇÃO: (sobrenome) Freeman
+弗雷 | TRADUÇÃO: Freyr (deus da mitologia nórdica)
+弗雷德里克 | TRADUÇÃO: Frederico (nome)
+弗雷德里克顿 | TRADUÇÃO: Fredericton, capital da Nova Brunswick, Canadá
+弘 | TRADUÇÃO: grande/liberal
+弘图 | TRADUÇÃO: variante de 宏圖|宏图
+弘扬 | TRADUÇÃO: aprimorar/promover/enriquecer
+弘旨 | TRADUÇÃO: variante de 宏旨
+弘治 | TRADUÇÃO: Imperador Hongzhi, nome de reinado do nono imperador Ming 朱祐樘 (1470-1505), reinou 1487-1505, nome de templo 明孝宗
+弘法 | TRADUÇÃO: propagar os ensinamentos budistas
+弘愿 | TRADUÇÃO: variante de 宏願|宏愿
+弛 | TRADUÇÃO: desamarrar um arco/afrouxar/relaxar/soltar
+弛张热 | TRADUÇÃO: febre remitente
+弛缓 | TRADUÇÃO: relaxar; afrouxar; aliviar/(física) relaxamento (em ressonância magnética nuclear)
+弝 | TRADUÇÃO: a parte de um arco segurada ao atirar
+弟 | TRADUÇÃO: irmão mais novo/júnior/eu (palavra modesta em carta)/variante de 悌
+弟兄 | TRADUÇÃO: irmãos/camarada
+弟兄们 | TRADUÇÃO: irmãos/camaradas/homens/irmãos (em sentido religioso)
+弟妹 | TRADUÇÃO: irmão(is) mais novo(s)/esposa do irmão mais novo
+弟妇 | TRADUÇÃO: esposa do irmão mais novo/cunhada
+弟媳 | TRADUÇÃO: esposa do irmão mais novo; cunhada
+弟子 | TRADUÇÃO: discípulo; seguidor
+弟弟 | TRADUÇÃO: irmão mais novo/CL:個|个,位
+弢 | TRADUÇÃO: estojo de arco/cobrir
+弣 | TRADUÇÃO: punho do arco
+弤 | TRADUÇÃO: arco entalhado
+弦 | TRADUÇÃO: corda de arco/corda de instrumento musical/mola de relógio/corda (segmento de curva)/hipotenusa/CL:根
+弦切角 | TRADUÇÃO: ângulo da corda (ângulo que a corda de uma curva faz com a tangente)
+弦外之意 | TRADUÇÃO: ver 弦外之音
+弦外之音 | TRADUÇÃO: harmônico (música)/(fig.) conotação/significado implícito
+弦外之响 | TRADUÇÃO: ver 弦外之音
+弦数 | TRADUÇÃO: número de cordas (de um instrumento)
+弦月 | TRADUÇÃO: meia-lua/o 7º, 8º, 22º e 23º dia do mês lunar
+弦月窗 | TRADUÇÃO: uma estreita fresta de janela/uma luneta
+弦乐 | TRADUÇÃO: música de cordas
+弦乐器 | TRADUÇÃO: instrumento de cordas
+弦乐队 | TRADUÇÃO: orquestra de cordas
+弦歌 | TRADUÇÃO: cantar ao som de instrumento de cordas/educação (referência ao ensino dos valores confucionistas ao povo por meio da música nos tempos antigos)
+弦理论 | TRADUÇÃO: teoria das cordas (física)
+弦而鼓之 | TRADUÇÃO: colocar cordas na cítara e depois tocá-la (linha de um texto da dinastia Ming de 劉伯溫|刘伯温)/(fig.) tocar música
+弦论 | TRADUÇÃO: teoria das cordas (em física teórica)
+弦鸣乐器 | TRADUÇÃO: instrumento musical de cordas
+弧 | TRADUÇÃO: arco
+弧光 | TRADUÇÃO: luz de arco
+弧光灯 | TRADUÇÃO: lâmpada de arco
+弧度 | TRADUÇÃO: radiano/arco/curva/curvatura
+弧形 | TRADUÇÃO: curva; arco
+弧线 | TRADUÇÃO: arco
+弧线长 | TRADUÇÃO: comprimento do arco/comprimento de um segmento de curva
+弧菌 | TRADUÇÃO: (biologia) vibrião
+弧长 | TRADUÇÃO: comprimento do arco (o comprimento de um segmento de curva)
+弧长参数 | TRADUÇÃO: parametrização pelo comprimento do arco (de uma curva espacial)
+弨 | TRADUÇÃO: arco não flexionado
+弩 | TRADUÇÃO: besta (arma)
+弩兵 | TRADUÇÃO: arqueiro/infantaria armada com besta
+弩弓 | TRADUÇÃO: besta
+弩炮 | TRADUÇÃO: catapulta/balista (catapulta de cerco que atira blocos de pedra)
+弫 | TRADUÇÃO: (de um arco) impactante/poderoso
+弭 | TRADUÇÃO: parar/ reprimir
+弮 | TRADUÇÃO: variante de 卷, rolo enrolado/besta (arma) (arcaico)
+弰 | TRADUÇÃO: pontas de um arco
+弱 | TRADUÇÃO: fraco; frágil/jovem/inferior; não tão bom quanto/(após decimal ou fração) ligeiramente menos que
+弱不禁风 | TRADUÇÃO: (lit.) fraco demais para resistir ao vento (expressão idiomática)/(fig.) extremamente delicado; frágil
+弱作用 | TRADUÇÃO: (física) interação fraca
+弱作用力 | TRADUÇÃO: a força fraca (em física de partículas)
+弱侧 | TRADUÇÃO: lado fraco/lado oposto (esportes)
+弱势 | TRADUÇÃO: vulnerável/fraco
+弱势群体 | TRADUÇÃO: grupos socialmente desfavorecidos (ex.: deficientes)/os marginalizados econômica e politicamente/os despossuídos
+弱化 | TRADUÇÃO: enfraquecer/tornar mais fraco
+弱小 | TRADUÇÃO: pequeno e fraco; franzino/os pequenos e fracos; crianças; mulheres e crianças
+弱旅 | TRADUÇÃO: (esportes) time fraco; azarão (time)
+弱智 | TRADUÇÃO: de mente fraca/deficiente mental/retardado
+弱爆 | TRADUÇÃO: (gíria) fraco/patético/inferior/é uma droga
+弱相互作用 | TRADUÇÃO: interação fraca (em física de partículas)/força fraca
+弱听 | TRADUÇÃO: com dificuldade auditiva/deficiente auditivo
+弱肉强食 | TRADUÇÃO: (lit.) os fracos são presas dos fortes (expressão idiomática)/(fig.) a lei da selva
+弱脉 | TRADUÇÃO: pulso fraco
+弱视 | TRADUÇÃO: ambliopia
+弱酸 | TRADUÇÃO: ácido fraco
+弱电统一 | TRADUÇÃO: interação eletrofraca em física de férmions
+弱音踏板 | TRADUÇÃO: pedal suave (no piano)/pedal una corda
+弱项 | TRADUÇÃO: ponto fraco de alguém
+弱碱 | TRADUÇÃO: base fraca (álcali)
+弱点 | TRADUÇÃO: ponto fraco/defeito
+弪 | TRADUÇÃO: radiano (mat.)/atualmente escrito 弧度
+弪度 | TRADUÇÃO: radiano (mat.)/atualmente escrito 弧度
+张 | TRADUÇÃO: sobrenome Zhang/abrir/espalhar/folha de papel/classificador para objetos planos, folha/classificador para votos
+张三 | TRADUÇÃO: Zhang San, nome para uma pessoa não especificada, primeiro de uma série de três: 張三|张三, 李四, 王五 fulano, sicrano e beltrano/(dialeto) lobo
+张三李四 | TRADUÇÃO: (lit.) Zhang Três e Li Quatro (expressão idiomática)/(fig.) qualquer fulano ou sicrano
+张三，李四，王五，赵六 | TRADUÇÃO: (quatro nomes proverbiais) fulano, sicrano e beltrano
+张丹 | TRADUÇÃO: Zhang Dan (1985-), patinadora artística chinesa
+张之洞 | TRADUÇÃO: Zhang Zhidong (1837-1909), político proeminente no final de Qing
+张伯伦 | TRADUÇÃO: Chamberlain (nome)/Wilt Chamberlain (1936-1999), jogador de basquete americano
+张作霖 | TRADUÇÃO: Zhang Zuolin (c. 1873-1928), senhor da guerra da Manchúria 1916-1928
+张僧繇 | TRADUÇÃO: Zhang Sengyou (ativo c. 490-540), um dos Quatro Grandes Pintores das Seis Dinastias 六朝四大家
+张仪 | TRADUÇÃO: Zhang Yi (-309 a.C.), estrategista político da Escola da Diplomacia 縱橫家|纵横家 durante o Período dos Reinos Combatentes (475-221 a.C.)
+张冠李戴 | TRADUÇÃO: lit. colocar o chapéu de Zhang na cabeça de Li/atribuir algo à pessoa errada (expressão idiomática)/confundir uma coisa com outra
+张力 | TRADUÇÃO: tensão
+张勋 | TRADUÇÃO: Zhang Xun (1854-1923), general leal a Qing que tentou restaurar o imperador abdicado Puyi 溥儀|溥仪 ao trono na Restauração Manchu de 1917 張勳復辟|张勋复辟
+张勋复辟 | TRADUÇÃO: Restauração Manchu de 1917, uma tentativa do General Zhang Xun 張勳|张勋 de reinstaurar a monarquia na China restaurando o imperador abdicado Puyi 溥儀|溥仪 ao trono
+张北 | TRADUÇÃO: veja 張北縣|张北县
+张北县 | TRADUÇÃO: Zhangbei, um condado na cidade de Zhangjiakou 張家口市|张家口市, Hebei
+张口 | TRADUÇÃO: abrir a boca (para comer, falar etc.)/abrir a boca (boquiaberto)/começar a falar (esp. para fazer um pedido)
+张口结舌 | TRADUÇÃO: boquiaberto e com a língua presa (expressão idiomática); sem palavras/boquiaberto e mudo
+张嘴 | TRADUÇÃO: abrir a boca (para falar, esp. para fazer um pedido)/abrir a boca (boquiaberto)
+张国荣 | TRADUÇÃO: Leslie Cheung (1956-2003), cantor e ator de Hong Kong
+张国焘 | TRADUÇÃO: Zhang Guotao (1897-1979), líder comunista chinês nas décadas de 1920 e 1930, desertou para o Guomindang em 1938
+张大千 | TRADUÇÃO: Chang Dai-chien ou Zhang Daqian (1899-1983), um dos maiores artistas chineses do século XX
+张天翼 | TRADUÇÃO: Zhang Tianyi (1906-1985), escritor infantil, autor do premiado conto de fadas O Segredo da Cabaça Mágica 寶葫蘆的秘密|宝葫芦的秘密
+张太雷 | TRADUÇÃO: Zhang Tailei (1898-1927), membro fundador do Partido Comunista Chinês
+张学友 | TRADUÇÃO: Jacky Cheung ou Hok Yau Jacky (1961-), astro do cantopop e do cinema
+张学良 | TRADUÇÃO: Zhang Xueliang (1901-2001), filho do senhor da guerra da facção Fengtian, depois general sênior dos Nacionalistas e posteriormente do Exército Popular de Libertação
+张家口 | TRADUÇÃO: veja 張家口市|张家口市
+张家口市 | TRADUÇÃO: Zhangjiakou, cidade de nível de prefeitura na Província de Hebei 河北省
+张家川 | TRADUÇÃO: veja 張家川回族自治縣|张家川回族自治县
+张家川回族自治县 | TRADUÇÃO: Condado Autônomo Hui de Zhangjiachuan, na Cidade de Tianshui 天水市, Gansu
+张家川县 | TRADUÇÃO: veja 張家川回族自治縣|张家川回族自治县
+张家港 | TRADUÇÃO: veja 張家港市|张家港市
+张家港市 | TRADUÇÃO: Zhangjiagang, uma cidade de nível de condado na Cidade de Suzhou 蘇州市|苏州市, Jiangsu
+张家界 | TRADUÇÃO: veja 張家界市|张家界市
+张家界市 | TRADUÇÃO: Zhangjiajie, cidade de nível de prefeitura na Província de Hunan 湖南省
+张家长，李家短 | TRADUÇÃO: lit. os Zhangs estão em melhor situação que os Lis (expressão idiomática); fofocar sobre os vizinhos
+张宁 | TRADUÇÃO: Zhang Ning (1975-), jogadora de badminton chinesa e medalhista de ouro olímpica
+张宝 | TRADUÇÃO: Zhang Bao (-184), líder dos rebeldes do Turbante Amarelo durante o final de Han 漢朝|汉朝
+张居正 | TRADUÇÃO: Zhang Juzheng (1525-1582), Grande Secretário durante a dinastia Ming, creditado por levar a dinastia ao seu apogeu
+张岱 | TRADUÇÃO: Zhang Dai (1597-c. 1684), estudioso do final de Ming
+张店 | TRADUÇÃO: veja 張店區|张店区
+张店区 | TRADUÇÃO: Zhangdian, um distrito da Cidade de Zibo 淄博市, Shandong
+张廷玉 | TRADUÇÃO: Zhang Tingyu (1672-1755), político Qing, ministro sênior de três imperadores sucessivos, supervisionou a compilação da História da Dinastia Ming 明史 e do Dicionário Kangxi 康熙字典
+张弛 | TRADUÇÃO: tensão e relaxamento
+张德江 | TRADUÇÃO: Zhang Dejiang (1946-), político da RPC
+张心 | TRADUÇÃO: estar preocupado/estar preocupado
+张志新 | TRADUÇÃO: Zhang Zhixin (1930-1975) revolucionária e mártir chinesa, que seguiu a verdadeira linha marxista-leninista como membro do partido, foi presa em 1969, depois executada em 1975 após se opor às conspirações contra-revolucionárias de usurpação do partido de Lin Biao e da Gangue dos Quatro, e só reabilitada postumamente em 1979
+张怡 | TRADUÇÃO: Zhang Yi (1608-1695), autor prolífico e poeta do interregno entre Ming e Qing
+张怡宁 | TRADUÇÃO: Zhang Yining (1981-), jogadora de tênis de mesa chinesa e medalhista de ouro olímpica
+张惠妹 | TRADUÇÃO: A-Mei, também conhecida como Gulilai Amit (1972-), cantora pop aborígene de Taiwan
+张惶 | TRADUÇÃO: variante de 張皇|张皇
+张爱玲 | TRADUÇÃO: Eileen Chang (1920-1995), romancista sino-americana famosa
+张戎 | TRADUÇÃO: Jung Chang (1952-), escritora britânico-chinesa, nome de batismo Zhang Erhong 張二鴻|张二鸿, autora de Cisnes Selvagens 野天鵝|野天鹅 e Mao: A História Desconhecida 毛澤東·鮮為人知的故事|毛泽东·鲜为人知的故事
+张成泽 | TRADUÇÃO: Jang Song-taek (1946-2013), cunhado de Kim Jong-il 金正日, tio e mentor de Kim Jong-un 金正恩, em 2013 acusado de ser contrarrevolucionário e executado
+张掖 | TRADUÇÃO: veja 張掖市|张掖市
+张掖市 | TRADUÇÃO: Zhangye, cidade de nível de prefeitura na província de Gansu 甘肅省|甘肃省
+张挂 | TRADUÇÃO: pendurar (quadro, faixa, mosquiteiro etc.)
+张揖 | TRADUÇÃO: Zhang Yi (c. século III), figura literária do Reino de Wei dos Três Reinos, outro nome 稚讓|稚让, mencionado como compilador da mais antiga enciclopédia chinesa existente 廣雅|广雅 e várias obras perdidas
+张扬 | TRADUÇÃO: Zhang Yang (1967-), diretor de cinema e roteirista da RPC/exibir de forma ostensiva/trazer a público/tornar público/espalhar/espalhafatoso/insolente
+张择端 | TRADUÇÃO: Zhang Zeduan (1085-1145), pintor da dinastia Song
+张敞 | TRADUÇÃO: Zhang Chang, oficial e erudito da dinastia Han Ocidental
+张旭 | TRADUÇÃO: Zhang Xu (provavelmente início do século VIII), poeta e calígrafo da dinastia Tang, mais famoso por sua escrita cursiva 草書|草书
+张易之 | TRADUÇÃO: Zhang Yizhi (-705), político da dinastia Tang e favorito da imperatriz Wu Zetian 武則天|武则天
+张春帆 | TRADUÇÃO: Zhang Chunfan (-1935), romancista do final da dinastia Qing, autor de A Tartaruga de Nove Caudas 九尾龜|九尾龟
+张春桥 | TRADUÇÃO: Zhang Chunqiao (1917-2005), um dos Quatro Gangues
+张曼玉 | TRADUÇÃO: Maggie Cheung (1964-), atriz de Hong Kong
+张望 | TRADUÇÃO: olhar ao redor/espiar (por uma fresta)/olhar de relance/lançar um olhar
+张柏芝 | TRADUÇÃO: Cecilia Cheung (1980-), atriz e cantora pop de Hong Kong
+张治中 | TRADUÇÃO: Zhang Zhizhong (1890-1969), general do Exército Revolucionário Nacional
+张溥 | TRADUÇÃO: erudito da dinastia Ming (1602–1641), escritor prolífico, defensor do movimento de renovação cultural Fushe 復社|复社, autor da Inscrição no Túmulo dos Cinco Homens 五人墓碑記|五人墓碑记
+张湾 | TRADUÇÃO: veja 張灣區|张湾区
+张湾区 | TRADUÇÃO: Zhangwan, distrito da cidade de Shiyan 十堰市, Hubei
+张灯结彩 | TRADUÇÃO: estar decorado com lanternas e faixas coloridas (expressão idiomática)
+张牙舞爪 | TRADUÇÃO: mostrar os dentes e brandir as garras (expressão idiomática); fazer gestos ameaçadores
+张狂 | TRADUÇÃO: insolente/arrogante/frenético
+张献忠 | TRADUÇÃO: Zhang Xianzhong (1606-1647), líder de uma revolta camponesa do final da dinastia Ming
+张王李赵 | TRADUÇÃO: (expressão idiomática) qualquer João, Pedro ou Tiago; qualquer um
+张皇 | TRADUÇÃO: alarmado/aflito
+张皇失措 | TRADUÇÃO: em pânico (expressão idiomática)/estar num estado de aflição/também escrito 張惶失措|张惶失措
+张目 | TRADUÇÃO: abrir bem os olhos
+张秋 | TRADUÇÃO: Cho Chang (Harry Potter)
+张籍 | TRADUÇÃO: Zhang Ji (767-830), poeta da dinastia Tang
+张纯如 | TRADUÇÃO: Iris Chang (1968–2004), autora sino-americana de "O Estupro de Nanquim"
+张罗 | TRADUÇÃO: cuidar de/angariar dinheiro/atender (convidados, clientes etc.)
+张闻天 | TRADUÇÃO: Zhang Wentian (1900-1976), líder e teórico do Partido Comunista Chinês
+张自忠 | TRADUÇÃO: Zhang Zizhong (1891-1940), general do Exército Revolucionário Nacional chinês durante a Segunda Guerra Sino-Japonesa
+张自烈 | TRADUÇÃO: Zhang Zilie (1597-1673), erudito da dinastia Ming, autor de Zhengzitong 正字通
+张若虚 | TRADUÇÃO: Zhang Ruoxu (c. 660-720), poeta da dinastia Tang, autor do poema yuefu Rio numa noite de primavera 春江花月夜
+张华 | TRADUÇÃO: Zhang Hua (232-300), escritor, poeta e político do Jin Ocidental/Zhang Hua (1958-1982), estudante exaltado como mártir após morrer salvando um velho camponês de uma fossa séptica/outros Zhang Hua numerosos demais para mencionar
+张荫桓 | TRADUÇÃO: Zhang Yinhuan (1837-1900), político do final da dinastia Qing e diplomata sênior chinês
+张艺谋 | TRADUÇÃO: Zhang Yimou (1950-), diretor de cinema da RPC
+张衡 | TRADUÇÃO: Zhang Heng (78-139), grande astrônomo e matemático da dinastia Han
+张角 | TRADUÇÃO: Zhang Jue (-184), líder dos rebeldes dos Turbantes Amarelos durante o final da dinastia Han
+张贴 | TRADUÇÃO: afixar (um aviso)/anunciar
+张量 | TRADUÇÃO: tensor (mat.)
+张开 | TRADUÇÃO: abrir/espalhar/estender
+张震 | TRADUÇÃO: Chang Chen (1976-), ator de cinema taiwanês
+张静初 | TRADUÇÃO: Zhang Jingchu (1980-), atriz da RPC
+张韶涵 | TRADUÇÃO: Angela Chang (1982-), cantora pop e atriz taiwanesa
+张飞 | TRADUÇÃO: Zhang Fei (168-221), general de Shu e irmão de sangue de Liu Bei no Romance dos Três Reinos, famoso como lutador temível e amante do vinho
+张飞打岳飞 | TRADUÇÃO: lit. Zhang Fei luta contra Yue Fei/fig. uma combinação impossível/uma reviravolta impossível dos acontecimentos (expressão idiomática)
+张骞 | TRADUÇÃO: Zhang Qian (-114 a.C.), explorador da dinastia Han do século II a.C.
+张高丽 | TRADUÇÃO: Zhang Gaoli (1946-), político da RPC
+弶 | TRADUÇÃO: armadilha/apanhar com armadilha
+强 | TRADUÇÃO: sobrenome Qiang/teimoso/obstinado/forte/poderoso/melhor/um pouco mais que/vigoroso/violento/melhor em sua categoria, ex. veja 百強|百强/forçar/compelir/esforçar-se/fazer um esforço/variante de 強|强/variante de 強|强/variante de 強|强
+强中更有强中手 | TRADUÇÃO: veja 強中自有強中手|强中自有强中手
+强中自有强中手 | TRADUÇÃO: (expressão idiomática) por mais forte que você seja, sempre há alguém mais forte
+强人 | TRADUÇÃO: (política) homem forte/(no ambiente de trabalho, esp. de uma mulher) pessoa altamente capaz/(antigo) salteador
+强人所难 | TRADUÇÃO: forçar alguém a fazer algo
+强令 | TRADUÇÃO: ordenar à força/peremptório
+强似 | TRADUÇÃO: ser melhor que
+强占 | TRADUÇÃO: ocupar à força
+强作用 | TRADUÇÃO: interação forte (que rege hádrons em física nuclear)
+强作用力 | TRADUÇÃO: a força forte (em física nuclear)
+强使 | TRADUÇÃO: forçar; obrigar
+强健 | TRADUÇÃO: robusto
+强兵 | TRADUÇÃO: soldados fortes/fortalecer o exército (lema político)
+强制 | TRADUÇÃO: forçar; compelir; coagir/forçado; obrigatório/pronúncia de Taiwan [qiang3zhi4]
+强力 | TRADUÇÃO: poderoso
+强力胶 | TRADUÇÃO: supercola
+强加 | TRADUÇÃO: impor/forçar
+强劲 | TRADUÇÃO: forte/poderoso/robusto
+强势 | TRADUÇÃO: forte/poderoso/(linguística) enfático/intensivo
+强化 | TRADUÇÃO: fortalecer/intensificar
+强吻 | TRADUÇÃO: beijar à força; beijar sem consentimento
+强嘴 | TRADUÇÃO: responder com insolência/responder com desafio
+强国 | TRADUÇÃO: (ironicamente) China continental (uso de Taiwan e Hong Kong)/país poderoso/grande potência
+强壮 | TRADUÇÃO: forte/robusto/vigoroso
+强大 | TRADUÇÃO: grande e forte; formidável; poderoso
+强如 | TRADUÇÃO: ser melhor que
+强奸 | TRADUÇÃO: estuprar
+强奸犯 | TRADUÇÃO: estuprador
+强奸罪 | TRADUÇÃO: estupro, crime de estupro
+强子 | TRADUÇÃO: hádron (física de partículas)
+强将手下无弱兵 | TRADUÇÃO: não há soldados fracos sob um bom general (expressão idiomática)
+强干 | TRADUÇÃO: competente/capaz
+强度 | TRADUÇÃO: resistência/intensidade/CL:個|个
+强弩之末 | TRADUÇÃO: (lit.) uma flecha no fim de seu voo (expressão idiomática)/(fig.) força esgotada
+强弱 | TRADUÇÃO: forte ou fraco/intensidade/quantidade de força ou pressão
+强征 | TRADUÇÃO: recrutar à força/requisitar/apropriar-se
+强心剂 | TRADUÇÃO: estimulante cardíaco
+强心针 | TRADUÇÃO: injeção fortalecedora do coração/fig. um estímulo
+强忍 | TRADUÇÃO: resistir (com grande dificuldade)
+强悍 | TRADUÇÃO: resistente/forte/formidável/temível
+强打 | TRADUÇÃO: promoção (para um produto)/propaganda
+强扭的瓜不甜 | TRADUÇÃO: lit. se você tem que usar a força para arrancar um melão da videira, ele não será doce (porque é só quando o melão está maduro que pode ser removido com um leve toque) (expressão idiomática)/fig. se algo não é para ser, não adianta tentar forçar que aconteça
+强拉 | TRADUÇÃO: arrastar (alguém) (para um lugar)/puxar com força
+强撑 | TRADUÇÃO: usar toda a força de vontade (para fazer algo)/aguentar firme
+强攻 | TRADUÇÃO: (militar) tomar de assalto
+强敌 | TRADUÇÃO: inimigo poderoso
+强暴 | TRADUÇÃO: violento/estuprar
+强有力 | TRADUÇÃO: forte/poderoso
+强梁 | TRADUÇÃO: valentão/brigão
+强横 | TRADUÇÃO: grosseiro e irracional/intimidador/tirânico
+强档 | TRADUÇÃO: horário nobre
+强权 | TRADUÇÃO: poder/força
+强求 | TRADUÇÃO: insistir em; exigir; impor
+强流 | TRADUÇÃO: corrente alta (ex.: elétrica)
+强烈 | TRADUÇÃO: forte; intenso
+强烈反对 | TRADUÇÃO: opor-se fortemente/veementemente contra
+强生 | TRADUÇÃO: (sobrenome) Johnson/Johnson & Johnson (empresa)
+强生公司 | TRADUÇÃO: Johnson & Johnson
+强盛 | TRADUÇÃO: rico e poderoso
+强盗 | TRADUÇÃO: roubar (com violência)/bandido/ladrão/CL:個|个
+强直性脊柱炎 | TRADUÇÃO: espondilite anquilosante/doença de Bechterew
+强相互作用 | TRADUÇÃO: interação forte (em física de partículas)/força forte
+强硬 | TRADUÇÃO: duro/inflexível/linha-dura
+强硬态度 | TRADUÇÃO: atitude inflexível
+强硬派 | TRADUÇÃO: facção linha-dura/falcões
+强硬立场 | TRADUÇÃO: posição firme
+强脚树莺 | TRADUÇÃO: (espécie de ave da China) felosa-das-matas-de-flancos-castanhos (Horornis fortipes)
+强行 | TRADUÇÃO: fazer algo à força/pronúncia em Taiwan: [qiang3 xing2]
+强词夺理 | TRADUÇÃO: torcer as palavras e forçar a lógica (expressão idiomática)/sofisma/discurso bombástico para encobrir argumentos falaciosos/enfiar argumentos falsos goela abaixo
+强调 | TRADUÇÃO: enfatizar (uma afirmação)/dar ênfase
+强调色 | TRADUÇÃO: cor de destaque
+强买强卖 | TRADUÇÃO: forçar alguém a comprar ou vender/comerciar usando coerção
+强身 | TRADUÇÃO: fortalecer o corpo; manter-se em forma; melhorar a saúde (através de exercícios, nutrição etc.)
+强身健体 | TRADUÇÃO: manter-se em forma e saudável
+强辩 | TRADUÇÃO: tentar defender seu ponto usando argumentos falsos
+强辩到底 | TRADUÇÃO: discutir sem parar/tentar ter a última palavra
+强迫 | TRADUÇÃO: compelir/forçar
+强迫劳动 | TRADUÇÃO: trabalho forçado (como punição em caso criminal)
+强迫性 | TRADUÇÃO: compulsivo/obsessivo
+强迫性储物症 | TRADUÇÃO: acumulação compulsiva
+强迫性性行为 | TRADUÇÃO: obsessão sexual
+强迫症 | TRADUÇÃO: transtorno obsessivo-compulsivo (TOC)
+强迫观念 | TRADUÇÃO: noção convincente/obsessão
+强逼 | TRADUÇÃO: compelir/forçar
+强队 | TRADUÇÃO: um time poderoso (esportes)
+强震 | TRADUÇÃO: terremoto potente/abrev. de 強烈地震|强烈地震
+强韧 | TRADUÇÃO: resiliente/forte e resistente
+强音踏板 | TRADUÇÃO: pedal de sustain (no piano)/pedal de sustentação
+强项 | TRADUÇÃO: ponto forte/forte/especialidade
+强颜欢笑 | TRADUÇÃO: fingir estar feliz/forçar um sorriso
+强风 | TRADUÇÃO: brisa forte (meteorologia)
+强碱 | TRADUÇÃO: base forte
+强龙不压地头蛇 | TRADUÇÃO: lit. dragão forte não pode reprimir uma cobra (expressão idiomática); fig. um valentão local que está acima da lei
+弸 | TRADUÇÃO: arco forte/corda de arco/encher; cheio
+弼 | TRADUÇÃO: auxiliar
+彀 | TRADUÇÃO: esticar um arco até o limite/o alcance de um arco e flecha/variante antiga de 夠|够, suficiente
+彀中 | TRADUÇÃO: dentro do alcance de um arco e flecha/(fig.) sob o controle de alguém
+𫸩 | TRADUÇÃO: entalhe na ponta do arco/esticar
+别嘴 | TRADUÇÃO: trava-língua (discurso estranho)/trabalengua
+别扭 | TRADUÇÃO: estranho/difícil/desconfortável/discordando/em conflito/gauche
+弹 | TRADUÇÃO: bala/projétil/tiro/projétil/bola/dedilhar (uma corda)/tocar (um instrumento de cordas)/saltar ou pular/atirar (ex.: com um estilingue)/(algodão) desfiar ou cardar/puxar/decepcionar/acusar/impechar/elástico (de materiais)
+弹丸 | TRADUÇÃO: pelota
+弹丸之地 | TRADUÇÃO: (expressão idiomática) pequeno pedaço de terra; área minúscula
+弹冠相庆 | TRADUÇÃO: lit. limpar o pó do chapéu de alguém (expressão idiomática); celebrar uma nomeação oficial/parabenizar e celebrar (promoção, formatura etc.)
+弹出 | TRADUÇÃO: ejetar/sair de/surgir
+弹力 | TRADUÇÃO: elasticidade/força elástica/mola/rebote/salto
+弹劾 | TRADUÇÃO: instaurar processo de impeachment (contra um funcionário)
+弹匣 | TRADUÇÃO: carregador (para munição)
+弹唱 | TRADUÇÃO: cantar e tocar (instrumento de cordas dedilhadas)
+弹回 | TRADUÇÃO: ricochetear
+弹坑 | TRADUÇÃO: cratera de bomba; cratera de projétil; cratera de mina
+弹涂鱼 | TRADUÇÃO: peixe-morcego (peixe anfíbio)
+弹压 | TRADUÇÃO: suprimir/reprimir (uma perturbação)/repressão
+弹夹 | TRADUÇÃO: clipe de munição; carregador de cartuchos; carregador
+弹奏 | TRADUÇÃO: tocar (instrumento musical, especialmente de cordas)
+弹子 | TRADUÇÃO: estilingue de estilingue/bolinhas de gude/bilhar/CL:粒,顆|颗/cabo de reboque
+弹子锁 | TRADUÇÃO: fechadura de cilindro com pinos/fechadura de mola
+弹孔 | TRADUÇÃO: buraco de bala
+弹射 | TRADUÇÃO: catapultar/lançar/ejetar (de um avião)/atirar
+弹射座椅 | TRADUÇÃO: assento ejetor
+弹射座舱 | TRADUÇÃO: cápsula de ejeção (cabine)
+弹幕 | TRADUÇÃO: (militar) barragem/"tela de balas", função que permite aos espectadores postar comentários na tela em vídeos, filmes etc. em tempo real/danmaku (subgênero de videogame)
+弹弓 | TRADUÇÃO: catapulta/estilingue
+弹性 | TRADUÇÃO: flexibilidade/elasticidade
+弹性形变 | TRADUÇÃO: deformação elástica
+弹性模量 | TRADUÇÃO: módulo de elasticidade/coeficiente de restituição
+弹指 | TRADUÇÃO: estalar os dedos/(fig.) num piscar de olhos; num instante
+弹指一挥间 | TRADUÇÃO: num piscar de olhos (expressão idiomática)
+弹指之间 | TRADUÇÃO: (expressão idiomática) num piscar de olhos; instantaneamente
+弹拨 | TRADUÇÃO: dedilhar (uma corda)
+弹拨乐 | TRADUÇÃO: música de cordas dedilhadas
+弹拨乐器 | TRADUÇÃO: instrumento de cordas dedilhadas/CL:件
+弹斥 | TRADUÇÃO: acusar e criticar
+弹壳 | TRADUÇÃO: estojo de munição
+弹片 | TRADUÇÃO: estilhaço; fragmento de projétil/palheta
+弹牙 | TRADUÇÃO: al dente
+弹珠 | TRADUÇÃO: uma bolinha de gude (usada em jogos)
+弹珠机 | TRADUÇÃO: máquina de pachinko
+弹珠台 | TRADUÇÃO: pinball
+弹球 | TRADUÇÃO: jogar bolinhas de gude
+弹球盘 | TRADUÇÃO: pachinko
+弹琴 | TRADUÇÃO: tocar ou dedilhar um alaúde ou outro instrumento de cordas
+弹痕 | TRADUÇÃO: buraco de bala/buraco de projétil
+弹痕累累 | TRADUÇÃO: crivado de balas
+弹尽援绝 | TRADUÇÃO: sem munição e sem esperança de reforços (expressão idiomática); em apuros desesperadores
+弹尽粮绝 | TRADUÇÃO: sem munição e sem comida (expressão idiomática); em apuros desesperadores
+弹窗 | TRADUÇÃO: janela pop-up (computação)
+弹簧 | TRADUÇÃO: mola
+弹簧刀 | TRADUÇÃO: canivete/navalha automática/faca de mola
+弹簧垫圈 | TRADUÇÃO: arruela de pressão
+弹簧秤 | TRADUÇÃO: balança de mola
+弹簧锁 | TRADUÇÃO: fechadura de mola
+弹簧门 | TRADUÇÃO: porta de vai-e-vem
+弹纠 | TRADUÇÃO: acusar/denunciar (funcionário público)
+弹舌 | TRADUÇÃO: estalar a língua/vibrar (a língua)
+弹花 | TRADUÇÃO: desfibrar algodão (soltando as fibras)
+弹药 | TRADUÇÃO: munição
+弹药库 | TRADUÇÃO: depósito de munições
+弹药补给站 | TRADUÇÃO: paiol de munições
+弹词 | TRADUÇÃO: balada narrativa em dialetos do sul, geralmente com acompanhamento de sanxian 三弦 ou pipa 琵琶
+弹跳 | TRADUÇÃO: quicar/saltar/pular
+弹跳板 | TRADUÇÃO: trampolim
+弹道 | TRADUÇÃO: trajetória (de um projétil); curva balística
+弹道导弹 | TRADUÇÃO: míssil balístico
+弹雨 | TRADUÇÃO: chuva de balas
+弹头 | TRADUÇÃO: ogiva
+彉 | TRADUÇÃO: variante de 彍|𭚦
+弥 | TRADUÇÃO: encher/preencher/completamente/mais/transbordante
+弥勒 | TRADUÇÃO: Maitreya, o futuro Bodisatva, que virá depois do Buda Shakyamuni
+弥勒佛 | TRADUÇÃO: Maitreya/o Bodisatva que será o próximo a vir depois do Buda Shakyamuni
+弥勒市 | TRADUÇÃO: Mile, cidade administrativa de nível distrital na Prefeitura Autônoma Hani e Yi de Honghe 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+弥勒菩萨 | TRADUÇÃO: Bodisatva Maitreya
+弥合 | TRADUÇÃO: fazer uma ferida fechar-se e cicatrizar
+弥天 | TRADUÇÃO: que enche todo o céu/que cobre tudo (de neblina, crime, desastre etc.)
+弥天大谎 | TRADUÇÃO: um monte de mentiras (expressão idiomática)
+弥封 | TRADUÇÃO: assinar sobre o lacre (como precaução contra fraude)
+弥撒 | TRADUÇÃO: (culto católico) Missa
+弥散 | TRADUÇÃO: dissipar-se por toda parte (luz, som, gás etc.)
+弥月 | TRADUÇÃO: lua cheia/primeira lua cheia após o nascimento (isto é, ao entrar no segundo mês)
+弥望 | TRADUÇÃO: uma vista completa
+弥渡 | TRADUÇÃO: veja 彌渡縣|弥渡县
+弥渡县 | TRADUÇÃO: Midu, distrito na Prefeitura Autônoma Bai de Dali 大理白族自治州, Yunnan
+弥满 | TRADUÇÃO: estar cheio
+弥漫 | TRADUÇÃO: permear/encher o ar/difuso/presente em toda parte/prestes a inundar (água)/permeado por (fumaça)/cheio de (poeira)/saturar (o ar com nevoeiro, fumaça etc.)/variante de 彌漫|弥漫
+弥留 | TRADUÇÃO: gravemente doente e prestes a morrer
+弥留之际 | TRADUÇÃO: no leito de morte/à beira da morte
+弥缝 | TRADUÇÃO: encobrir erros ou crimes/costurar/consertar
+弥蒙 | TRADUÇÃO: nevoeiro ou fumaça densa impenetrável
+弥补 | TRADUÇÃO: complementar/suprir uma deficiência
+弥赛亚 | TRADUÇÃO: Messias
+弥足珍贵 | TRADUÇÃO: extremamente precioso/valioso
+弥迦书 | TRADUÇÃO: Livro de Miqueias
+弥陀 | TRADUÇÃO: Amitabha, o Buda do Paraíso Ocidental/abrev. de 阿彌陀佛|阿弥陀佛/Mituo ou Mito, distrito rural no distrito de Kaohsiung 高雄縣|高雄县, sudoeste de Taiwan
+𭚦 | TRADUÇÃO: (literário) esticar o arco ao máximo/pr. em Taiwan [kuo4]
+弯 | TRADUÇÃO: curvar/curvado/curva; volta (numa estrada etc.)/CL:道
+弯嘴滨鹬 | TRADUÇÃO: (espécie de ave da China) maçarico-de-bico-curvo (Calidris ferruginea)
+弯子 | TRADUÇÃO: curva/volta/curvatura
+弯弯 | TRADUÇÃO: Wan Wan (1981-), blogueira e cartunista taiwanesa
+弯弯曲曲 | TRADUÇÃO: curvo/sinuoso/em ziguezague
+弯折 | TRADUÇÃO: dobrar
+弯曲 | TRADUÇÃO: curvar/contornar/curvo/torto/retorcer/entortar
+弯曲度 | TRADUÇÃO: curvatura/encurvamento
+弯曲空间 | TRADUÇÃO: espaço curvo
+弯月 | TRADUÇÃO: lua crescente/forma de crescente
+弯月形透镜 | TRADUÇÃO: lente menisco
+弯液面 | TRADUÇÃO: menisco (física)
+弯男 | TRADUÇÃO: cara gay
+弯管面 | TRADUÇÃO: macarrão cotovelo
+弯腰 | TRADUÇÃO: curvar-se (da cintura)
+弯腰驼背 | TRADUÇÃO: andar curvado/curvatura/má postura
+弯角 | TRADUÇÃO: esquina/curva/volta
+弯路 | TRADUÇÃO: estrada sinuosa/caminho indireto/desvio/(fig.) caminho errado (de fazer algo)
+弯道 | TRADUÇÃO: estrada sinuosa/curva de estrada
+弯道超车 | TRADUÇÃO: ultrapassar numa curva (direção)/(fig.) aproveitar oportunidades em situações apertadas para fazer progresso rápido (economia etc.)
+彐 | TRADUÇÃO: focinho de porco (radical 58 de Kangxi)
+彑 | TRADUÇÃO: variante de 彐
+录 | TRADUÇÃO: entalhar madeira/sobrenome Lu/diário/registro/bater/copiar
+彖 | TRADUÇÃO: predizer o futuro usando os trigramas do Livro das Mutações 易經|易经
+彖辞 | TRADUÇÃO: interpretar os trigramas divinatórios
+彗 | TRADUÇÃO: vassoura
+彗星 | TRADUÇÃO: cometa
+彗核 | TRADUÇÃO: núcleo de cometa
+彘 | TRADUÇÃO: porco
+汇整 | TRADUÇÃO: coletar e organizar (papéis etc)/arquivar (dados)/resumir (evidências etc)/resumo
+汇算 | TRADUÇÃO: coletar dados e fechar contas; acertar contas
+汇总表 | TRADUÇÃO: tabela de resumo
+彛 | TRADUÇÃO: variante de 彝
+彝 | TRADUÇÃO: grupo étnico Yi/(arcaico) vaso de vinho/(arcaico) vaso sacrificial/(literário) regra; convenção
+彝剧 | TRADUÇÃO: ópera Yi
+彝器 | TRADUÇÃO: vaso sacrificial
+彝族 | TRADUÇÃO: grupo étnico Yi
+彝族年 | TRADUÇÃO: Ano-Novo Yi
+彝良 | TRADUÇÃO: veja 彝良縣|彝良县
+彝良县 | TRADUÇÃO: Yiliang, distrito na cidade de Zhaotong 昭通市, Yunnan
+彟 | TRADUÇÃO: veja 武士彠|武士彟/variante antiga de 蒦
+彡 | TRADUÇÃO: radical "cerdas" em caracteres chineses (radical 59 de Kangxi), ocorrendo em 彪, 影, 形 etc.
+形 | TRADUÇÃO: aparecer/parecer/forma/formato
+形上 | TRADUÇÃO: metafísica
+形似 | TRADUÇÃO: semelhante em forma e aparência
+形像 | TRADUÇÃO: variante de 形象
+形制 | TRADUÇÃO: forma/formato/estrutura/design
+形胜 | TRADUÇÃO: (de uma localização) estratégico; vantajoso
+形势 | TRADUÇÃO: circunstâncias/situação/terreno/CL:個|个
+形势严峻 | TRADUÇÃO: em grandes dificuldades/a situação é grave
+形参 | TRADUÇÃO: (computação) parâmetro formal (abrev. de 形式參數|形式参数)
+形同 | TRADUÇÃO: equivalente a/ser como
+形同虚设 | TRADUÇÃO: existir apenas de nome/casca vazia/inútil (expressão idiomática)
+形同陌路 | TRADUÇÃO: estar estranhado
+形单影只 | TRADUÇÃO: (expressão idiomática) alma solitária; solitário
+形婚 | TRADUÇÃO: casamento de fachada, especialmente entre um homem gay e uma lésbica para atender às expectativas parentais de um casamento convencional (abrev. de 形式婚姻)
+形容 | TRADUÇÃO: descrever/(literário) semblante; aparência
+形容词 | TRADUÇÃO: adjetivo
+形容词短语 | TRADUÇÃO: locução adjetiva
+形容辞 | TRADUÇÃO: adjetivo
+形式 | TRADUÇÃO: aparência externa/forma/forma/formalismos/CL:個|个
+形式主义 | TRADUÇÃO: formalismo (em filosofia, arte ou teoria literária)/preocupação excessiva com a forma em detrimento do conteúdo
+形式化 | TRADUÇÃO: formalização/formalizado
+形式发票 | TRADUÇÃO: fatura pró-forma
+形形色色 | TRADUÇÃO: todo tipo de/toda sorte de/todo (diferente) tipo de
+形影不离 | TRADUÇÃO: inseparável (como forma e sombra)
+形影相吊 | TRADUÇÃO: com apenas corpo e sombra para se consolarem mutuamente (expressão idiomática)/extremamente triste e solitário
+形影相随 | TRADUÇÃO: (lit.) corpo e sombra seguem um ao outro (expressão idiomática)/(fig.) inseparável
+形意拳 | TRADUÇÃO: Xingyiquan (arte marcial chinesa)
+形态 | TRADUÇÃO: forma/forma/padrão/morfologia
+形态学 | TRADUÇÃO: morfologia (em biologia ou linguística)
+形态发生素 | TRADUÇÃO: morfógeno
+形成 | TRADUÇÃO: formar; tomar forma
+形成层 | TRADUÇÃO: câmbio vascular (camada de tecido responsável pelo crescimento dentro da madeira)
+形于色 | TRADUÇÃO: mostrar seus sentimentos/mostrar no rosto
+形旁 | TRADUÇÃO: componente semântico de um caractere fonossemântico (ex.: componente 刂 em 刻)
+形核 | TRADUÇÃO: nucleação
+形状 | TRADUÇÃO: forma; formato
+形神 | TRADUÇÃO: corpo e alma/físico e espiritual/forma material e espírito interno
+形符 | TRADUÇÃO: componente semântico de um caractere fonossemântico (ex.: componente 刂 em 刻)
+形而上学 | TRADUÇÃO: metafísica
+形声 | TRADUÇÃO: ideograma mais fonético (um dos Seis Métodos 六書|六书 de formação de caracteres chineses)/também conhecido como fonograma, composto fonético ou caractere pictofonético
+形声字 | TRADUÇÃO: caractere composto fonossemântico
+形色 | TRADUÇÃO: forma e cor/aparência/expressão facial
+形译 | TRADUÇÃO: derivação de um empréstimo chinês do japonês usando os mesmos caracteres (ou variantes) mas aplicando a pronúncia chinesa (ex.: 場合|场合, derivado do japonês 場合, pronunciado "ba'ai")
+形变 | TRADUÇÃO: deformação; encurvamento
+形象 | TRADUÇÃO: imagem/forma/figura/CL:個|个/visualização/vívido
+形象代言人 | TRADUÇÃO: (marca ou organização) embaixador/rosto (de uma marca ou empresa)
+形象大使 | TRADUÇÃO: pessoa que representa uma organização e melhora sua imagem; um embaixador
+形象艺术 | TRADUÇÃO: artes visuais
+形貌 | TRADUÇÃO: aparência
+形质 | TRADUÇÃO: forma/estrutura/design
+形迹 | TRADUÇÃO: maneira/porte/vestígio/marca/trilha/etiqueta
+形骸 | TRADUÇÃO: o corpo humano/esqueleto
+形体 | TRADUÇÃO: figura/físico/forma e estrutura
+彤 | TRADUÇÃO: sobrenome Tong/vermelho
+彦 | TRADUÇÃO: realizado/elegante
+彧 | TRADUÇÃO: realizado/elegante
+彩 | TRADUÇÃO: cor (viva)/variedade/aplauso/aplaudir/prêmio de loteria
+彩鹮 | TRADUÇÃO: (espécie de ave da China) íbis-preto (Plegadis falcinellus)
+彩信 | TRADUÇÃO: serviço de mensagens multimídia (MMS) (telecomunicações)
+彩券 | TRADUÇÃO: bilhete de loteria
+彩印 | TRADUÇÃO: impressão colorida/abrev. para 彩色印刷
+彩卷 | TRADUÇÃO: filme colorido/abrev. para 彩色膠卷|彩色胶卷/bilhete de loteria
+彩塑 | TRADUÇÃO: figura de argila pintada
+彩妆 | TRADUÇÃO: maquiagem/cosméticos
+彩带 | TRADUÇÃO: fita colorida/confete/CL:條|条
+彩弹 | TRADUÇÃO: paintball
+彩排 | TRADUÇÃO: ensaio geral/fazer um ensaio geral
+彩扩 | TRADUÇÃO: ampliar fotos coloridas/revelação de filme colorido
+彩旗 | TRADUÇÃO: bandeira colorida
+彩民 | TRADUÇÃO: apostador de loteria
+彩泥 | TRADUÇÃO: massinha de modelar
+彩画 | TRADUÇÃO: pintura colorida
+彩票 | TRADUÇÃO: bilhete de loteria
+彩礼 | TRADUÇÃO: presente de noivado/preço da noiva
+彩练 | TRADUÇÃO: fita colorida
+彩绘 | TRADUÇÃO: pintado/desenhos pintados coloridos
+彩声 | TRADUÇÃO: aplauso; ovação
+彩色 | TRADUÇÃO: cor/multicolorido
+彩色笔 | TRADUÇÃO: lápis de cor (ou giz de cera ou marcador etc)/(Taiwan) marcador colorido
+彩虹 | TRADUÇÃO: arco-íris/CL:道
+彩虹吸蜜鹦鹉 | TRADUÇÃO: (espécie de ave da China) lóris-arco-íris (Trichoglossus moluccanus)
+彩虹屁 | TRADUÇÃO: (neologismo c. 2017) (gíria) elogio exagerado
+彩虹族群 | TRADUÇÃO: comunidade LGBT+
+彩虹旗 | TRADUÇÃO: bandeira do arco-íris, também conhecida como bandeira do orgulho LGBT
+彩虹蜂虎 | TRADUÇÃO: (espécie de ave da China) abelharuco-do-arco-íris (Merops ornatus)
+彩虹行动 | TRADUÇÃO: as duas operações de autoafundamento em massa realizadas pela marinha alemã: o autoafundamento da frota alemã em Scapa Flow em 1919 e a Operação Regenbogen, o autoafundamento de U-boats em 1945
+彩虹鹦鹉 | TRADUÇÃO: (espécie de ave da China) lóris-de-coconut (Trichoglossus haematodus)
+彩蚌 | TRADUÇÃO: concha pintada/pintura em concha
+彩蛋 | TRADUÇÃO: casca de ovo pintada/ovo de Páscoa/(mídia) ovo de Páscoa (recurso oculto em software ou filme etc)/cena pós-créditos
+彩衣 | TRADUÇÃO: roupas coloridas/traje colorido
+彩超 | TRADUÇÃO: Doppler colorido (CDI) (medicina)
+彩车 | TRADUÇÃO: carro alegórico (em um desfile)
+彩铃 | TRADUÇÃO: (telefonia) tom de retorno de chamada
+彩云 | TRADUÇÃO: nuvens rosadas/CL:朵
+彩电 | TRADUÇÃO: TV colorida
+彩霞 | TRADUÇÃO: nuvens tingidas com tons do pôr do sol
+彩头 | TRADUÇÃO: bom presságio/boa sorte (em negócios etc)/lucros (obtidos em jogos de azar, loteria etc)
+彩鹬 | TRADUÇÃO: (espécie de ave da China) narceja-pintada-grande (Rostratula benghalensis)
+彩鹳 | TRADUÇÃO: (espécie de ave da China) cegonha-pintada (Mycteria leucocephala)
+彪 | TRADUÇÃO: (literário) listras de tigre; (por extensão) ornamentado e com cores vivas; (por sinédoque) tigre jovem; (fig.) forte; robusto/(antigo) classificador para tropas
+彪休 | TRADUÇÃO: irado/colérico
+彪个子 | TRADUÇÃO: físico alto e forte
+彪壮 | TRADUÇÃO: alto e robusto/possante
+彪子 | TRADUÇÃO: (dialeto) idiota; simplório
+彪形 | TRADUÇÃO: robusto/atarracado
+彪形大汉 | TRADUÇÃO: (expressão idiomática) sujeito atarracado; rapaz robusto
+彪悍 | TRADUÇÃO: duro na queda/formidável/arrasa-quarteirão/valente
+彪炳 | TRADUÇÃO: (literário) (de feitos, realizações etc) brilhar intensamente (nos anais da história etc)/(literário) excepcional; esplêndido; glorioso
+彪炳千古 | TRADUÇÃO: brilhar através dos tempos (expressão idiomática)
+彪焕 | TRADUÇÃO: brilhante e reluzente/excepcional e elegante
+彪蒙 | TRADUÇÃO: desenvolver a mente
+彪马 | TRADUÇÃO: Puma (marca)
+雕 | TRADUÇÃO: variante de 雕/gravar/esculpir/astuto/ave de rapina/ave de rapina
+彬 | TRADUÇÃO: urbano; refinado; culto
+彬州 | TRADUÇÃO: ver 彬州市
+彬州市 | TRADUÇÃO: Binzhou, cidade administrativa distrital em Xianyang City 咸陽市|咸阳市, Shaanxi
+彬彬 | TRADUÇÃO: refinado, gentil e elegante
+彬彬君子 | TRADUÇÃO: cavalheiro refinado
+彬彬有礼 | TRADUÇÃO: refinado e cortês/urbano
+彬蔚 | TRADUÇÃO: erudito e refinado
+彬马那 | TRADUÇÃO: Pyinmana, cidade no centro de Myanmar
+彭 | TRADUÇÃO: sobrenome Peng
+彭亨 | TRADUÇÃO: província de Pahang, Malásia
+彭佳屿 | TRADUÇÃO: Ilha Pengjia, administrada como parte de Chilung ou Keelung 基隆, Taiwan
+彭勃 | TRADUÇÃO: Peng Bo
+彭博 | TRADUÇÃO: Bloomberg (nome)/Michael Bloomberg (1942-), empresário bilionário, político e filantropo norte-americano
+彭博新闻社 | TRADUÇÃO: Bloomberg News
+彭博社 | TRADUÇÃO: Bloomberg News
+彭博通讯社 | TRADUÇÃO: Bloomberg L.P., empresa de serviços de software financeiro, notícias e dados
+彭定康 | TRADUÇÃO: Chris Patten (1944-), último governador britânico de Hong Kong, 1992-1997
+彭山 | TRADUÇÃO: ver 彭山區|彭山区
+彭山区 | TRADUÇÃO: Pengshan, distrito de Meishan City 眉山市, Sichuan
+彭州 | TRADUÇÃO: ver 彭州市
+彭州市 | TRADUÇÃO: Pengzhou, cidade administrativa distrital em Chengdu City 成都市, Sichuan
+彭德怀 | TRADUÇÃO: Peng Dehuai (1898-1974), general comunista de alto escalão, posteriormente político e membro do Politburo, desgraçado após atacar as políticas fracassadas de Mao em 1959, e falecido após extensa perseguição durante a Revolução Cultural
+彭斯 | TRADUÇÃO: Mike Pence (1959-), político republicano norte-americano, vice-presidente dos EUA a partir de 2017
+彭水县 | TRADUÇÃO: distrito autônomo Miao e Tujia de Pengshui, nos subúrbios de Qianjiang, municipalidade de Chongqing
+彭水苗族土家族自治县 | TRADUÇÃO: Distrito Autônomo Miao e Tujia de Pengshui, no sudeste de Chongqing 重慶|重庆
+彭湖 | TRADUÇÃO: condado insular de Penghu, Taiwan, na costa de Kaohsiung
+彭湖岛 | TRADUÇÃO: condado insular de Penghu, Taiwan, na costa de Kaohsiung
+彭泽 | TRADUÇÃO: ver 彭澤縣|彭泽县
+彭泽县 | TRADUÇÃO: Pengze, condado em Jiujiang City 九江市, Jiangxi
+彭真 | TRADUÇÃO: Peng Zhen (1902-1997), líder comunista chinês
+彭祖 | TRADUÇÃO: Peng Zu (figura lendária do taoísmo que viveu 800 anos)
+彭县 | TRADUÇÃO: condado de Peng, em Sichuan
+彭阳 | TRADUÇÃO: ver 彭陽縣|彭阳县
+彭阳县 | TRADUÇÃO: Pengyang, condado em Guyuan City 固原市, Ningxia
+彭养鸥 | TRADUÇÃO: Peng Yang'ou, romancista do final da dinastia Qing, autor de Vítimas do Ópio 黑籍冤魂
+彭丽媛 | TRADUÇÃO: Peng Liyuan (1962–), cantora de música folclórica chinesa, esposa de Xi Jinping 習近平|习近平
+彭麻麻 | TRADUÇÃO: Mamãe Peng, apelido para Peng Liyuan 彭麗媛|彭丽媛
+彰 | TRADUÇÃO: claro/evidente/manifesto
+彰化 | TRADUÇÃO: Zhanghua ou Changhua, cidade e condado no oeste de Taiwan
+彰化市 | TRADUÇÃO: Zhanghua ou Changhua, cidade no oeste de Taiwan, capital do condado de Changhua
+彰化县 | TRADUÇÃO: Condado de Zhanghua ou Changhua, no oeste de Taiwan
+彰善瘅恶 | TRADUÇÃO: distinguir o bem e o mal (expressão idiomática); defender a virtude e condenar o mal/elogiar o bem e expor o vício
+彰彰 | TRADUÇÃO: óbvio/manifesto/claramente visível
+彰明 | TRADUÇÃO: mostrar claramente/tornar público/evidente
+彰明较著 | TRADUÇÃO: óbvio/claro para todos verem
+彰武 | TRADUÇÃO: ver 彰武縣|彰武县
+彰武县 | TRADUÇÃO: Zhangwu, condado em Fuxin City 阜新市, Liaoning
+彰显 | TRADUÇÃO: exibir (algo abstrato)/chamar a atenção para/evidente
+影 | TRADUÇÃO: imagem/figura/filme/cinema/fotografia/reflexo/sombra/vestígio
+影像 | TRADUÇÃO: imagem
+影像会议 | TRADUÇÃO: videoconferência
+影像档 | TRADUÇÃO: arquivo de imagem
+影像处理 | TRADUÇÃO: processamento de imagem
+影儿 | TRADUÇÃO: sombra
+影剧 | TRADUÇÃO: cinema e teatro/tela e palco
+影剧院 | TRADUÇÃO: cinema/sala de cinema
+影印 | TRADUÇÃO: reprodução fotográfica/fotocópia/foto-offset
+影印本 | TRADUÇÃO: uma fotocópia
+影印机 | TRADUÇÃO: (Taiwan) fotocopiadora
+影后 | TRADUÇÃO: rainha do cinema; vencedora do prêmio de melhor atriz
+影壁 | TRADUÇÃO: (arquitetura tradicional chinesa) muro espiritual - um muro de tela colocado dentro ou fora do portão principal, protegendo o pátio da vista
+影坛 | TRADUÇÃO: mundo do cinema/o mundo do cinema/círculos cinematográficos
+影子 | TRADUÇÃO: sombra/reflexo/(fig.) indício/indicação/influência/CL:個|个
+影子内阁 | TRADUÇÃO: gabinete sombra
+影射 | TRADUÇÃO: referir-se indiretamente a/insinuar/insinuação
+影射小说 | TRADUÇÃO: romance de chave
+影展 | TRADUÇÃO: festival de cinema/exposição de fotografia
+影帝 | TRADUÇÃO: (astro masculino) superstar da tela prateada; vencedor do prêmio de melhor ator
+影厅 | TRADUÇÃO: sala (em um cinema)
+影星 | TRADUÇÃO: estrela de cinema
+影本 | TRADUÇÃO: cópia (de um documento)/livro com caligrafia modelo para cópia
+影业 | TRADUÇÃO: indústria cinematográfica
+影片 | TRADUÇÃO: uma cópia de um filme/filme; longa-metragem/(Taiwan) vídeo; videoclipe/CL:部
+影碟 | TRADUÇÃO: DVD/CL:片,張|张
+影碟机 | TRADUÇÃO: aparelho de DVD
+影视 | TRADUÇÃO: cinema e televisão
+影评 | TRADUÇÃO: crítica de filme
+影评人 | TRADUÇÃO: crítico de cinema
+影象 | TRADUÇÃO: variante de 影像
+影踪 | TRADUÇÃO: rastro/sinal
+影迷 | TRADUÇÃO: entusiasta de cinema/fã de cinema/CL:個|个
+影院 | TRADUÇÃO: cinema; sala de cinema
+影集 | TRADUÇÃO: álbum de fotos (CL:本)/(Taiwan) série de TV
+影音 | TRADUÇÃO: (Taiwan) áudio e vídeo; audiovisual
+影响 | TRADUÇÃO: influência/efeito/influenciar/afetar (geralmente de forma adversa)/perturbar/CL:股
+影响力 | TRADUÇÃO: influência; impacto
+影响因子 | TRADUÇÃO: fator de impacto (de um periódico acadêmico)
+影响层面 | TRADUÇÃO: impacto; efeito
+影响面 | TRADUÇÃO: alcance da influência/área afetada
+彨 | TRADUÇÃO: variante de 螭
+彳 | TRADUÇÃO: passo com o pé esquerdo (Radical Kangxi 60)/ver também 彳亍
+彳亍 | TRADUÇÃO: (literário) andar lentamente
+彴 | TRADUÇÃO: ponte
+彷 | TRADUÇÃO: usado em 彷徨 e 彷徉
+彷徉 | TRADUÇÃO: (literário) perambular; vaguear
+彷徨 | TRADUÇÃO: andar de um lado para o outro, sem saber para onde ir; hesitar; vacilar
+彸 | TRADUÇÃO: inquieto, agitado
+役 | TRADUÇÃO: trabalho forçado/corveia/tarefa obrigatória/serviço militar/empregar como servo/escravizar/servo (antigo)/guerra/campanha/batalha
+役使 | TRADUÇÃO: pôr para trabalhar (servo ou animal)/usar para trabalho
+役使动物 | TRADUÇÃO: animais de tração/animais de carga
+役男 | TRADUÇÃO: homens aptos ao serviço militar/recruta/abrev. de 役齡男子|役龄男子
+役畜 | TRADUÇÃO: animal de tração/animal de carga
+役龄 | TRADUÇÃO: idade de alistamento
+彼 | TRADUÇÃO: aquele/aqueles/(um) outro
+彼一时此一时 | TRADUÇÃO: aquilo era uma coisa, e isto é outra/os tempos mudaram
+彼岸 | TRADUÇÃO: a outra margem/(Budismo) paramita
+彼岸花 | TRADUÇÃO: lírio-aranha-vermelho (Lycoris radiata)/amarílis-de-cacho
+彼得 | TRADUÇÃO: Pedro (nome)
+彼得前书 | TRADUÇÃO: Primeira Epístola de Pedro (no Novo Testamento)
+彼得堡 | TRADUÇÃO: Petersburgo (nome de lugar)/São Petersburgo, Rússia
+彼得后书 | TRADUÇÃO: Segunda Epístola de Pedro (no Novo Testamento)
+彼得格勒 | TRADUÇÃO: Petrogrado (nome antigo de São Petersburgo)
+彼得潘 | TRADUÇÃO: Peter Pan, o personagem do romance
+彼得罗维奇 | TRADUÇÃO: Petrovich (nome)
+彼拉多 | TRADUÇÃO: Pilatos (Pôncio Pilatos na história bíblica da Paixão)
+彼拉提斯 | TRADUÇÃO: Pilates (sistema de exercícios físicos) (Taiwan)
+彼时 | TRADUÇÃO: naquela época
+彼此 | TRADUÇÃO: um ao outro; mutuamente
+彼此彼此 | TRADUÇÃO: (expressão idiomática) eu e você, ambos; nós dois na mesma
+彼尔姆 | TRADUÇÃO: Perm, cidade russa nos Urais
+彽 | TRADUÇÃO: ir e vir
+佛雷泽尔 | TRADUÇÃO: Frazer (nome)
+往 | TRADUÇÃO: ir (numa direção)/para/em direção a/(de um trem) com destino a/passado/anterior/variante antiga de 往
+往事 | TRADUÇÃO: eventos passados/acontecimentos anteriores
+往事如风 | TRADUÇÃO: o passado se desvaneceu como o vento; ido além do alcance
+往事已矣 | TRADUÇÃO: o passado está morto (expressão idiomática)
+往来 | TRADUÇÃO: relações/contatos/ir e vir
+往来帐户 | TRADUÇÃO: conta corrente (no banco)
+往例 | TRADUÇÃO: prática (usual) do passado/precedente
+往初 | TRADUÇÃO: (literário) tempos passados/em dias antigos
+往前 | TRADUÇÃO: (no) passado/à frente; adiante; no futuro
+往古 | TRADUÇÃO: em tempos passados/em dias antigos
+往外 | TRADUÇÃO: para fora/para o exterior/partindo
+往届 | TRADUÇÃO: sessões anteriores/anos anteriores
+往常 | TRADUÇÃO: usual/costumeiro
+往年 | TRADUÇÃO: nos anos anteriores; nos anos passados
+往往 | TRADUÇÃO: geralmente/em muitos casos/na maioria das vezes
+往后 | TRADUÇÃO: de agora em diante/no futuro/tempo vindouro
+往复 | TRADUÇÃO: ir e voltar/fazer uma viagem de ida e volta/para trás e para a frente (ex.: movimento de pistão ou bomba)/alternar (de peça de máquina)
+往复运动 | TRADUÇÃO: movimento de vaivém (ex.: de pistão ou bomba)/movimento alternativo
+往复锯 | TRADUÇÃO: serra tico-tico
+往心里去 | TRADUÇÃO: levar algo a sério/levar algo a peito
+往日 | TRADUÇÃO: dias passados; o passado
+往昔 | TRADUÇÃO: o passado
+往时 | TRADUÇÃO: eventos passados/tempos antigos
+往岁 | TRADUÇÃO: nos anos anteriores/em dias antigos
+往死里 | TRADUÇÃO: (coloq.) (bater etc) até a morte
+往泥里踩 | TRADUÇÃO: menosprezar/atacar alguém
+往生 | TRADUÇÃO: renascer/viver no paraíso (Budismo)/morrer/(após) a morte de alguém
+往程 | TRADUÇÃO: percurso de ida (de uma viagem de ônibus ou trem etc)
+往脸上抹黑 | TRADUÇÃO: trazer vergonha a/caluniar/desonrar
+往迹 | TRADUÇÃO: eventos passados/tempos antigos
+往返 | TRADUÇÃO: ir e voltar; fazer uma viagem de ida e volta; fazer um trajeto de ida e volta
+往还 | TRADUÇÃO: contatar; ter relações (com alguém)
+征 | TRADUÇÃO: viagem/jornada/expedição/ir em campanha longa/atacar/convidar/recrutar/arrecadar (impostos)/convocar (tropas)/fenômeno/sintoma/sinal característico (usado como prova)/evidência
+征人 | TRADUÇÃO: viajante (numa longa jornada)/participante de uma expedição/soldado de guarnição/novo recruta
+征伐 | TRADUÇÃO: fazer ou enviar uma expedição punitiva
+征剿 | TRADUÇÃO: fazer uma expedição punitiva contra bandidos
+征地 | TRADUÇÃO: desapropriar terras
+征尘 | TRADUÇÃO: a poeira de uma longa jornada
+征夫 | TRADUÇÃO: viajante/soldado em expedição/soldado participando de batalha
+征帆 | TRADUÇÃO: navio de expedição
+征彸 | TRADUÇÃO: assustado/muito amedrontado
+征得 | TRADUÇÃO: obter (permissão etc)
+征戍 | TRADUÇÃO: guarnição
+征战 | TRADUÇÃO: campanha; expedição
+征敛 | TRADUÇÃO: extorquir impostos
+征敛无度 | TRADUÇÃO: extorquir impostos excessivamente
+征旆 | TRADUÇÃO: flâmula usada em expedição/flâmula de guerra
+征服 | TRADUÇÃO: conquistar/subjugar/vencer
+征服者 | TRADUÇÃO: conquistador
+征用 | TRADUÇÃO: desapropriar/requisitar
+征程 | TRADUÇÃO: jornada/expedição/viagem
+征衣 | TRADUÇÃO: roupa de viajante/uniforme militar
+征衫 | TRADUÇÃO: roupa de viajante/por extensão, viajante
+征讨 | TRADUÇÃO: fazer uma expedição punitiva
+征途 | TRADUÇÃO: longa jornada/expedição/curso de uma expedição
+征马 | TRADUÇÃO: cavalo capaz de longa expedição/cavalo do exército
+征驾 | TRADUÇÃO: cavalos e carroças para uma expedição/veículos e cavalos usados em batalha
+徂 | TRADUÇÃO: ir/atingir
+待 | TRADUÇÃO: ficar; permanecer/esperar/tratar/lidar com/precisar/estar prestes a (fazer algo)/a ponto de/tendo a intenção de
+待乙妥 | TRADUÇÃO: DEET (repelente de insetos) (empréstimo)
+待人 | TRADUÇÃO: tratar as pessoas (educadamente, com aspereza etc)
+待人接物 | TRADUÇÃO: (expressão idiomática) interagir com as pessoas
+待价而沽 | TRADUÇÃO: vender apenas por um bom preço (expressão idiomática)/esperar por uma boa oferta
+待命 | TRADUÇÃO: estar de plantão/estar em espera
+待字 | TRADUÇÃO: (literário) (de uma jovem) estar à espera de noivado
+待定 | TRADUÇÃO: aguardar uma decisão/estar pendente
+待宵草 | TRADUÇÃO: prímula-da-noite
+待岗 | TRADUÇÃO: esperar por uma designação de trabalho; estar demitido; estar desempregado
+待复 | TRADUÇÃO: a ser informado/aguardando resposta
+待毙 | TRADUÇÃO: aguardar a morte/estar em situação vulnerável
+待会 | TRADUÇÃO: espere um minuto/pare um pouco
+待会儿 | TRADUÇÃO: num instante/mais tarde/também pron. [dai1 hui3 r5] ou [dai1 hui5 r5]
+待业 | TRADUÇÃO: esperar por emprego; estar desempregado
+待机 | TRADUÇÃO: esperar por uma oportunidade/(dispositivos eletrônicos) espera
+待产 | TRADUÇÃO: (de uma futura mãe) estar em trabalho de parto
+待用餐 | TRADUÇÃO: refeição suspensa (Taiwan)
+待续 | TRADUÇÃO: continua
+待考 | TRADUÇÃO: sob investigação/atualmente desconhecido
+待要 | TRADUÇÃO: estar prestes a
+待见 | TRADUÇÃO: (coloq.) gostar
+待解 | TRADUÇÃO: não resolvido/aguardando solução
+待诏 | TRADUÇÃO: especialista em um campo especializado como medicina, adivinhação ou xadrez, disponível para atender o imperador quando chamado (nas dinastias Tang e Song)
+待办 | TRADUÇÃO: pendente; a ser tratado; (atributivo) de tarefas
+待办事项列表 | TRADUÇÃO: lista de tarefas
+待遇 | TRADUÇÃO: tratamento/salário/remuneração/status/posição
+徇 | TRADUÇÃO: ceder a/ser influenciado por (considerações pessoais etc)/pronúncia de Taiwan [xun2]/seguir/expor publicamente/variante de 侚/variante de 殉/variante de 徇
+徇情 | TRADUÇÃO: agir por considerações pessoais/mostrar parcialidade
+徇情枉法 | TRADUÇÃO: veja 徇私枉法
+徇私枉法 | TRADUÇÃO: violar a lei para favorecer parentes ou associados (expressão idiomática)
+徇私舞弊 | TRADUÇÃO: (expressão idiomática) abusar do cargo para ganho pessoal
+很 | TRADUÇÃO: muito; bastante/(também, frequentemente usado antes de um adjetivo sem intensificar seu significado, i.e., como elemento sintático sem sentido)
+很是 | TRADUÇÃO: (formal) muito; bastante; profundamente (geralmente seguido por um adjetivo ou verbo dissilábico)
+徉 | TRADUÇÃO: andar de um lado para o outro
+徊 | TRADUÇÃO: usado em 徘徊
+律 | TRADUÇÃO: sobrenome Lü/lei
+律动 | TRADUÇÃO: ritmo/mover-se ritmicamente
+律吕 | TRADUÇÃO: afinação; temperamento (musical)
+律师 | TRADUÇÃO: advogado
+律师事务所 | TRADUÇÃO: escritório de advocacia
+律所 | TRADUÇÃO: escritório de advocacia (abrev. de 律師事務所|律师事务所)
+律政司 | TRADUÇÃO: Departamento de Justiça (Hong Kong)
+律条 | TRADUÇÃO: uma lei
+律法 | TRADUÇÃO: leis e decretos
+律诗 | TRADUÇÃO: poesia regular/forma poética estrita com oito versos de 5, 6 ou 7 sílabas e versos pares rimando
+后世 | TRADUÇÃO: gerações posteriores
+后事 | TRADUÇÃO: eventos futuros/e o que aconteceu depois... (em ficção)/providências funerárias
+后人 | TRADUÇÃO: geração posterior
+后付 | TRADUÇÃO: pagamento feito depois/pago posteriormente
+后代 | TRADUÇÃO: descendente; progênie/posteridade; eras posteriores; gerações posteriores
+后任 | TRADUÇÃO: sucessor/assumir um cargo subsequentemente como .../(atributivo) futuro; subsequente
+后来 | TRADUÇÃO: depois; mais tarde/recém-chegado
+后来居上 | TRADUÇÃO: (expressão idiomática) veja 後來者居上|后来者居上
+后来者居上 | TRADUÇÃO: os retardatários superam seus predecessores
+后信号灯 | TRADUÇÃO: seta traseira do carro
+后备 | TRADUÇÃO: reserva; cópia de segurança
+后备箱 | TRADUÇÃO: porta-malas/bagageiro (de carro)
+后备军 | TRADUÇÃO: retaguarda
+后传 | TRADUÇÃO: sequência
+后儿 | TRADUÇÃO: depois de amanhã
+后加 | TRADUÇÃO: posposição (gramática)
+后劲 | TRADUÇÃO: energia para continuar após a fase inicial de uma atividade/efeito retardado
+后勤 | TRADUÇÃO: logística
+后勤学 | TRADUÇÃO: logística militar
+后半 | TRADUÇÃO: segunda metade
+后半场 | TRADUÇÃO: segundo tempo (de competição esportiva)
+后半夜 | TRADUÇÃO: segunda metade da noite (da meia-noite ao nascer do sol)
+后半生 | TRADUÇÃO: segunda metade da vida de alguém
+后半叶 | TRADUÇÃO: segunda metade (de uma década, século etc)
+后台 | TRADUÇÃO: área dos bastidores/apoio nos bastidores/(computação) back-end/fundo
+后台进程 | TRADUÇÃO: processo em segundo plano (computação)
+后周 | TRADUÇÃO: Zhou Posterior das Cinco Dinastias (951-960), centrado em Shandong e Hebei, com capital em Kaifeng 開封|开封
+后味 | TRADUÇÃO: retrogosto
+后唐 | TRADUÇÃO: Tang Posterior das Cinco Dinastias (923-936)
+后嗣 | TRADUÇÃO: herdeiro/descendente/posteridade
+后坐 | TRADUÇÃO: recuo (de uma arma de fogo)
+后坐力 | TRADUÇÃO: recuo (de uma arma)/tranco/força de reação
+后尘 | TRADUÇÃO: lit. poeira arrastada/fig. passos de alguém/percurso na vida
+后壁 | TRADUÇÃO: Houbi, um distrito em Tainan 台南|台南, Taiwan
+后天 | TRADUÇÃO: depois de amanhã/vida após o nascimento (o período em que se desenvolve através de experiências, contrastado com 先天)/adquirido (não inato ou congênito)/a posteriori
+后天性 | TRADUÇÃO: adquirido (característica etc)
+后娘 | TRADUÇÃO: madrasta (coloq.)
+后妈 | TRADUÇÃO: (coloq.) madrasta
+后学 | TRADUÇÃO: jovem estudioso ou pupilo na China imperial
+后宫 | TRADUÇÃO: harém/câmaras das concubinas imperiais
+后年 | TRADUÇÃO: daqui a dois anos
+后庭 | TRADUÇÃO: quintal/harém imperial/(gíria) ânus
+后厨 | TRADUÇÃO: a área da cozinha de um restaurante
+后影 | TRADUÇÃO: vista traseira/figura vista por trás/vista das costas (de uma pessoa ou objeto)
+后心 | TRADUÇÃO: meio das costas
+后怕 | TRADUÇÃO: medo persistente/medo após o evento/estresse pós-traumático
+后悔 | TRADUÇÃO: arrepender-se; sentir remorso
+后悔不迭 | TRADUÇÃO: tarde demais para arrependimentos
+后悔莫及 | TRADUÇÃO: tarde demais para arrependimentos (expressão idiomática); É inútil se arrepender após o evento.
+后患无穷 | TRADUÇÃO: (expressão idiomática) não haverá fim de problemas no futuro
+后感 | TRADUÇÃO: reflexão posterior/reflexão após um evento/uma resenha (de um filme etc)
+后感觉 | TRADUÇÃO: sensação posterior/impressão posterior
+后手 | TRADUÇÃO: posição defensiva (no xadrez)/espaço de manobra; uma saída
+后排 | TRADUÇÃO: a fileira de trás (num teatro etc); os assentos traseiros (num veículo)
+后掩蔽 | TRADUÇÃO: mascaramento retroativo
+后援 | TRADUÇÃO: reforço/apoio/força de suporte
+后援会 | TRADUÇÃO: grupo de apoio (e.g., para um candidato eleitoral)/clube de fãs
+后摇 | TRADUÇÃO: post-rock (gênero musical)
+后摇滚 | TRADUÇÃO: post-rock (gênero musical)
+后撤 | TRADUÇÃO: retirar (um exército)/recuar
+后挡板 | TRADUÇÃO: tabela (de basquete)
+后效 | TRADUÇÃO: efeito posterior
+后文 | TRADUÇÃO: as páginas adiante/as páginas seguintes
+后方 | TRADUÇÃO: a retaguarda/muito atrás da linha de frente
+后日 | TRADUÇÃO: depois de amanhã/daqui em diante/agora em diante/daqui para frente/doravante
+后晋 | TRADUÇÃO: Jin Posterior das Cinco Dinastias (936-946)
+后会有期 | TRADUÇÃO: Tenho certeza de que nos encontraremos novamente algum dia. (expressão idiomática)/Espero vê-lo novamente.
+后会无期 | TRADUÇÃO: (expressão idiomática) pode nunca mais se encontrar; improvável de se encontrar novamente
+后期 | TRADUÇÃO: estágio tardio/período posterior
+后果 | TRADUÇÃO: consequências; resultados
+后果自负 | TRADUÇÃO: assumir a responsabilidade pelas consequências de comportamento arriscado; só ter a si mesmo para culpar se as coisas derem errado
+后梁 | TRADUÇÃO: Dinastia Liang Posterior das Cinco Dinastias (907-923)
+后梢 | TRADUÇÃO: popa (de um barco)
+后殖民 | TRADUÇÃO: pós-colonial
+后段 | TRADUÇÃO: parte final/parte traseira/extremidade final/segmento final/a seção seguinte/último parágrafo
+后母 | TRADUÇÃO: madrasta
+后母脸 | TRADUÇÃO: (Taiwan) (fig.) clima imprevisível e instável
+后海 | TRADUÇÃO: Houhai, um lago e a área ao seu redor no centro de Pequim
+后凉 | TRADUÇÃO: Liang Posterior dos Dezesseis Reinos (386-403)
+后汉 | TRADUÇÃO: Han Posterior ou Dinastia Han Oriental (25-220)/Han Posterior das Cinco Dinastias (947-950)
+后汉书 | TRADUÇÃO: História do Han Oriental (Han Posterior), terceira das 24 histórias dinásticas 二十四史, composta por Fan Ye 范曄|范晔 em 445 durante a Canção das Dinastias do Sul 南朝宋, 120 rolos
+后照镜 | TRADUÇÃO: retrovisor (Taiwan)
+后灯 | TRADUÇÃO: lanterna traseira
+后燕 | TRADUÇÃO: Yan Posterior dos Dezesseis Reinos (384-409)
+后父 | TRADUÇÃO: padrasto
+后爸 | TRADUÇÃO: (coloq.) padrasto
+后现代主义 | TRADUÇÃO: pós-modernismo
+后生 | TRADUÇÃO: jovem geração/jovem/rapaz
+后生动物 | TRADUÇÃO: metazoários/o reino animal
+后生可畏 | TRADUÇÃO: (expressão idiomática) o jovem será temível nos anos vindouros/as gerações mais jovens nos superarão com o tempo
+后甲板 | TRADUÇÃO: tombadilho
+后盾 | TRADUÇÃO: apoio; respaldo
+后知后觉 | TRADUÇÃO: perceber a posteriori; perceber tardiamente; chegar atrasado à festa
+后秦 | TRADUÇÃO: Qin Posterior dos Dezesseis Reinos (384-417)
+后空翻 | TRADUÇÃO: salto mortal para trás/cambalhota para trás
+后端 | TRADUÇÃO: backend (computação)
+后缀 | TRADUÇÃO: sufixo (linguística)
+后缘 | TRADUÇÃO: bordo de fuga (de asa de avião)
+后继乏人 | TRADUÇÃO: ver 後繼無人|后继无人
+后继有人 | TRADUÇÃO: (expressão idiomática) ter sucessores qualificados para dar continuidade à sua obra
+后继无人 | TRADUÇÃO: não ter sucessores qualificados para dar continuidade à sua obra
+后续 | TRADUÇÃO: acompanhamento/(dialeto) casar-se novamente
+后置 | TRADUÇÃO: colocar depois (ex.: em gramática)/pós-posição
+后置修饰语 | TRADUÇÃO: pós-modificador (gramática)
+后置词 | TRADUÇÃO: pós-posição/sufixo/palavra colocada depois
+后翅 | TRADUÇÃO: asa traseira (de inseto)
+后翻筋斗 | TRADUÇÃO: salto mortal para trás
+后者 | TRADUÇÃO: o último
+后肢 | TRADUÇÃO: patas traseiras
+后背 | TRADUÇÃO: as costas (anatomia humana)/a parte traseira de algo
+后脑 | TRADUÇÃO: rombencéfalo/parte de trás da cabeça
+后脑勺 | TRADUÇÃO: parte de trás da cabeça
+后腰 | TRADUÇÃO: lombar/(esportes) volante defensivo
+后脚 | TRADUÇÃO: (um momento...,) o próximo.../pé de trás (ao caminhar)
+后花园 | TRADUÇÃO: jardim dos fundos
+后盖 | TRADUÇÃO: tampa traseira/casca (de caranguejo etc.)
+后藤 | TRADUÇÃO: Gotō (sobrenome japonês)
+后卫 | TRADUÇÃO: retaguarda/backfield/defensor (futebol americano)
+后裔 | TRADUÇÃO: descendente
+后制 | TRADUÇÃO: pós-produção
+后西游记 | TRADUÇÃO: uma das três sequências da Dinastia Ming para Jornada ao Oeste 西遊記|西游记
+后见之明 | TRADUÇÃO: retrospectiva
+后视镜 | TRADUÇÃO: retrovisor
+后记 | TRADUÇÃO: epílogo/posfácio
+后设 | TRADUÇÃO: meta- (prefixo) (Taiwan)
+后设认知 | TRADUÇÃO: metacognição (Taiwan)
+后设资料 | TRADUÇÃO: metadados (Taiwan)
+后诊 | TRADUÇÃO: exame pós-operatório
+后话 | TRADUÇÃO: algo a ser retomado mais tarde na fala ou na escrita
+后调 | TRADUÇÃO: (perfumaria) nota de fundo
+后账 | TRADUÇÃO: conta não divulgada/resolver assuntos mais tarde/culpar alguém após o evento
+后起之秀 | TRADUÇÃO: (expressão idiomática) uma jovem promessa em ascensão; novo talento; uma brilhante geração mais jovem
+后赵 | TRADUÇÃO: Zhao Posterior dos Dezesseis Reinos (319-350)
+后跟 | TRADUÇÃO: calcanhar (parte do pé)/calcanhar (de meia)/contraforte (parte do sapato que envolve a parte traseira do calcanhar)/seguido por (usado ao descrever um formato, como "nome do arquivo seguido pela extensão do arquivo")
+后跟提带 | TRADUÇÃO: tira traseira (de um sapato)
+后路 | TRADUÇÃO: rota de fuga/rota de retirada/linhas de comunicação para a retaguarda/curso de ação alternativo/margem de manobra
+后车之鉴 | TRADUÇÃO: lit. aviso ao carro seguinte (expressão idiomática); não siga a pista de um carro virado/fig. tirar lição do fracasso do predecessor/aprender com o erro passado/vai um, vai o outro
+后车架 | TRADUÇÃO: suporte de bagagem (bicicleta)
+后车轴 | TRADUÇÃO: eixo traseiro (de carro)
+后辈 | TRADUÇÃO: geração mais jovem
+后轮 | TRADUÇÃO: roda traseira
+后退 | TRADUÇÃO: recuar; afastar-se; ceder; retirar-se
+后送 | TRADUÇÃO: evacuação (militar)
+后送医院 | TRADUÇÃO: hospital de evacuação (militar)
+后进 | TRADUÇÃO: menos avançado/subdesenvolvido/atrasado/a geração mais jovem/os menos experientes
+后进先出 | TRADUÇÃO: chegar tarde e sair cedo/último a entrar, primeiro a sair (LIFO)
+后遗症 | TRADUÇÃO: (medicina) sequelas/efeitos residuais/(fig.) repercussões/consequências
+后边 | TRADUÇÃO: a parte de trás; a parte posterior; o último pedaço/atrás; perto do fim; na parte de trás/mais tarde; depois
+后边儿 | TRADUÇÃO: variante erhua de 後邊|后边
+后部 | TRADUÇÃO: seção traseira
+后金 | TRADUÇÃO: Dinastia Jin Posterior (a partir de 1616-)/Canato ou reino manchu que assumiu como Dinastia Qing em 1644
+后钩 | TRADUÇÃO: (dialeto) assunto pendente/som residual
+后钩儿 | TRADUÇÃO: variante erhua de 後鉤|后钩
+后门 | TRADUÇÃO: porta dos fundos; portão traseiro/(fig.) influência secreta; negócios por baixo dos panos/ânus/(computação) backdoor
+后附 | TRADUÇÃO: anexo/apêndice/adicional
+后院 | TRADUÇÃO: pátio traseiro/jardim dos fundos/quintal (também fig.)
+后院起火 | TRADUÇÃO: um conflito surge perto de casa (expressão idiomática)
+后面 | TRADUÇÃO: a parte de trás; a parte posterior; o último pedaço/atrás; perto do fim; na parte de trás/mais tarde; depois
+后头 | TRADUÇÃO: atrás/a parte traseira/a parte de trás/mais tarde/depois/(no) futuro
+后颈 | TRADUÇÃO: nuca
+后顾之忧 | TRADUÇÃO: (expressão idiomática) medo de problemas na retaguarda; preocupações familiares (obstruindo a liberdade de ação)/preocupações sobre as consequências futuras/frequentemente em expressões negativas, significando "nenhuma preocupação com nada"
+后验概率 | TRADUÇÃO: probabilidade a posteriori (estatística)
+后魏 | TRADUÇÃO: Wei das Dinastias do Norte 386-534
+后鼻音 | TRADUÇÃO: nasal velar/consoante ng ou ŋ produzida no nariz com a parte de trás da língua contra o palato mole
+后龙 | TRADUÇÃO: Houlung, vila no condado de Miaoli 苗栗縣|苗栗县, noroeste de Taiwan
+后龙镇 | TRADUÇÃO: vila de Houlung, no condado de Miaoli 苗栗縣|苗栗县, noroeste de Taiwan
+徐 | TRADUÇÃO: sobrenome Xu/devagar/suavemente
+徐世昌 | TRADUÇÃO: Xu Shichang (1855-1939), político associado aos Senhores da Guerra do Norte, presidente da China em 1921
+徐俊 | TRADUÇÃO: Xu Jun (1962-), grande mestre de xadrez chinês
+徐光启 | TRADUÇÃO: Xu Guangqi (1562-1633), cientista agrícola, astrônomo e matemático na dinastia Ming
+徐克 | TRADUÇÃO: Tsui Hark (1951-), diretor e produtor de cinema chinês

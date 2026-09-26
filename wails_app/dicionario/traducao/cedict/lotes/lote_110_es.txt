@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+镒 | TRADUÇÃO: antigua unidad de peso equivalente a 20 o 24 liang 兩|两
+镋 | TRADUÇÃO: variante antigua de 钂|镋 ‖ arma antigua similar a una horca o tridente
+镍 | TRADUÇÃO: níquel (quím.)
+镍箔 | TRADUÇÃO: lámina de níquel/CL:張|张
+鎴 | TRADUÇÃO: estroncio (obsoleto, actualmente 鍶|锶)
+镓 | TRADUÇÃO: galio (quím.)
+鿔 | TRADUÇÃO: copernicio (quím.)
+鎸 | TRADUÇÃO: variante de 鐫|镌, grabar (en madera o piedra)/inscribir
+镎 | TRADUÇÃO: neptunio (quím.)
+鏁 | TRADUÇÃO: variante antigua de 鎖|锁
+镞 | TRADUÇÃO: punta de flecha/afilado/puntiagudo
+镟 | TRADUÇÃO: tornear/dar forma en un torno/pelar con cuchillo/atornillar
+旋工 | TRADUÇÃO: tornero/hilandero
+旋床 | TRADUÇÃO: torno
+旋木 | TRADUÇÃO: torneado de madera/torno para madera
+链 | TRADUÇÃO: cadena/cable (unidad náutica de longitud: aprox. 185 m)/cadena (unidad de longitud de agrimensura: aprox. 20 m)/encadenar
+链子 | TRADUÇÃO: cadena
+链式反应 | TRADUÇÃO: reacción en cadena
+链式裂变反应 | TRADUÇÃO: reacción de fisión en cadena
+链接 | TRADUÇÃO: enlazar/vincular/enlace/hipervínculo
+链条 | TRADUÇÃO: cadena/cadena de transmisión/CL:根,條|条
+链烃 | TRADUÇÃO: hidrocarburo acíclico/hidrocarburo de cadena abierta
+链球 | TRADUÇÃO: (atletismo) martillo/lanzamiento de martillo
+链球菌 | TRADUÇÃO: estreptococo (género bacteriano)
+链环 | TRADUÇÃO: eslabón de cadena
+链结 | TRADUÇÃO: eslabonar/enlazar/vincular sistemáticamente/vínculo/enlace
+链表 | TRADUÇÃO: (informát.) lista enlazada
+链路 | TRADUÇÃO: enlace/enlace de datos/canal de comunicación
+链路层 | TRADUÇÃO: capa de enlace de datos
+链轨 | TRADUÇÃO: oruga (sistema de tracción de orugas)
+链轮 | TRADUÇÃO: piñón/rueda dentada de cadena
+链锯 | TRADUÇÃO: motosierra
+鏊 | TRADUÇÃO: plancha metálica para cocinar/comal/tava
+鏊子 | TRADUÇÃO: plancha para asar/comal
+镆 | TRADUÇÃO: usado en 鏌鋣|镆铘/(quím.) moscovio
+镆铘 | TRADUÇÃO: Moye (espada legendaria de dos filos)
+镠 | TRADUÇÃO: oro puro/oro de alta calidad
+镝 | TRADUÇÃO: disprosio (quím.) ‖ flecha (antiguo)/punta de flecha
+鏖 | TRADUÇÃO: combate encarnizado/luchar ferozmente
+鏖战 | TRADUÇÃO: batalla encarnizada/lucha feroz/combatir con fiereza
+铿 | TRADUÇÃO: (onomat.) tintineo de metales/sonido metálico resonante/golpear
+铿然 | TRADUÇÃO: (literario) sonoro/resonante/con tintineo metálico
+铿锵 | TRADUÇÃO: sonoro/resonante/cadencioso/(fig.) palabras firmes y enérgicas
+锵 | TRADUÇÃO: tintineo de campanillas o metales
+鏚 | TRADUÇÃO: hacha de guerra/pronunciación en Taiwán [qi4]
+镗 | TRADUÇÃO: redoble de tambores/(onomat.) sonido de tambor
+镘 | TRADUÇÃO: cruz de una moneda (cara sin texto)/llana/palustre
+镛 | TRADUÇÃO: campana grande antigua
+铲土机 | TRADUÇÃO: excavadora/buldócer/cargadora de ruedas
+铲子 | TRADUÇÃO: pala/badil/espátula de cocina/paleta/CL:把
+铲屎官 | TRADUÇÃO: (neologismo) (coloq.) dueño de mascota (lit. "oficial recolector de heces")
+铲球 | TRADUÇÃO: (fútbol) barrida/hacer una entrada deslizante
+铲蹚 | TRADUÇÃO: carpir/escardar entre surcos
+铲车 | TRADUÇÃO: cargadora frontal/montacargas/CL:臺|台
+铲运机 | TRADUÇÃO: mototraílla/traílla transportadora
+铲运车 | TRADUÇÃO: vehículo cargador frontal
+铲雪车 | TRADUÇÃO: máquina quitanieves/vehículo quitanieves
+鏠 | TRADUÇÃO: variante antigua de 鋒|锋
+镜 | TRADUÇÃO: espejo/lente/cristal óptico
+镜像 | TRADUÇÃO: imagen reflejada/imagen especular
+镜像站点 | TRADUÇÃO: (informát.) sitio espejo/servidor espejo
+镜子 | TRADUÇÃO: espejo/CL:面,個|个
+镜架 | TRADUÇÃO: montura de gafas/armazón de anteojos/CL:副/soporte de espejo
+镜框 | TRADUÇÃO: marco para cuadro o fotografía/montura de gafas
+镜框舞台 | TRADUÇÃO: escenario de embocadura/escenario a la italiana con arco de proscenio
+镜湖 | TRADUÇÃO: véase 鏡湖區|镜湖区
+镜湖区 | TRADUÇÃO: Jinghu, distrito de la ciudad de Wuhu 蕪湖市|芜湖市, provincia de Anhui
+镜片 | TRADUÇÃO: lente/cristal de gafas
+镜花 | TRADUÇÃO: espejo decorativo
+镜花水月 | TRADUÇÃO: flores en el espejo y la luna reflejada en el agua (modismo)/(fig.) ilusión inalcanzable/visión irreal/espejismo/también escrito 水月鏡花|水月镜花
+镜花缘 | TRADUÇÃO: Flores en el espejo o Jinghua Yuan (novela fantástica de la dinastía Qing escrita a principios del siglo XIX por Li Ruzhen 李汝珍)
+镜头 | TRADUÇÃO: lente de cámara/objetivo/plano cinematográfico/toma/escena
+镜头语言 | TRADUÇÃO: lenguaje cinematográfico/narrativa visual de cámara
+镜鸾 | TRADUÇÃO: perder al cónyuge
+镖 | TRADUÇÃO: dardo arrojadizo/arma arrojadiza/mercancías escoltadas por guardias armados
+镖客 | TRADUÇÃO: escolta armado/guardia de caravana o mercaderes
+镖局 | TRADUÇÃO: (antiguo) agencia de escolta armada para el transporte de mercancías y valores
+镖枪 | TRADUÇÃO: variante de 標槍|标枪
+镂 | TRADUÇÃO: grabar/tallar/cincelar/acero duro
+镂刻 | TRADUÇÃO: tallar/grabar/cincelar
+镂空 | TRADUÇÃO: calado/trabajo calado/filigrana
+鏦 | TRADUÇÃO: lanza/clavar con lanza
+錾 | TRADUÇÃO: cincelar/grabar en metal o piedra
+錾子 | TRADUÇÃO: cincel/cortafrío
+镚 | TRADUÇÃO: moneda pequeña/moneda suelta
+铧 | TRADUÇÃO: reja de arado/azadón
+镤 | TRADUÇÃO: protoactinio (quím.)
+鏸 | TRADUÇÃO: lanza de tres filos/(usado en nombres propios)
+镪 | TRADUÇÃO: ácido sulfúrico ‖ dinero/sarta de monedas
+镪水 | TRADUÇÃO: (coloq.) ácido fuerte/ácido corrosivo
+𬭸 | TRADUÇÃO: fosfonio (quím.)
+锈斑 | TRADUÇÃO: mancha de óxido (en metal)/mancha de roya (en plantas)
+锈红腹旋木雀 | TRADUÇÃO: (especie de ave de China) agateador de Nepal (Certhia nipalensis)
+锈胸蓝姬鹟 | TRADUÇÃO: (especie de ave de China) papamoscas gorgirrufo (Ficedula erithacus)
+锈腹短翅鸫 | TRADUÇÃO: (especie de ave de China) alicorto ventrirrufo (Brachypteryx hyperythra)
+锈脸钩嘴鹛 | TRADUÇÃO: (especie de ave de China) cimitarra carirrufa (Erythrogenys erythrogenys)
+锈蚀 | TRADUÇÃO: corroerse/oxidarse
+锈迹 | TRADUÇÃO: rastro de óxido/mancha de herrumbre
+锈额斑翅鹛 | TRADUÇÃO: (especie de ave de China) timalí alibarrado frentirrufo (Actinodura egertoni)
+鏾 | TRADUÇÃO: disparador de ballesta/gatillo de ballesta/ballesta
+铙 | TRADUÇÃO: platillos grandes antiguos/címbalos
+𨱑 | TRADUÇÃO: campana
+𫔍 | TRADUÇÃO: vanadio (quím.)
+𨱔 | TRADUÇÃO: regatón de lanza/contera de lanza
+镣 | TRADUÇÃO: grilletes/cadenas para los pies/grillos
+镣铐 | TRADUÇÃO: grilletes y esposas/cadenas de presidiario
+镣锁 | TRADUÇÃO: traba con candado/cierre de grilletes
+铹 | TRADUÇÃO: laurencio (quím.)
+镦 | TRADUÇÃO: recalcar/recalcado (forja)
+镡 | TRADUÇÃO: apellido Tan ‖ guarda de espada/pomo de espada/daga/pronunciación en Taiwán [tan2]
+鐗 | TRADUÇÃO: variante de 鐧|锏
+钟乳 | TRADUÇÃO: estalactita
+钟乳石 | TRADUÇÃO: estalactita
+钟室 | TRADUÇÃO: cámara de campanas (en lo alto de un campanario)
+钟山 | TRADUÇÃO: véase 鐘山縣|钟山县/véase 鐘山區|钟山区
+钟山区 | TRADUÇÃO: Zhongshan, distrito de la ciudad de Liupanshui 六盤水市|六盘水市, provincia de Guizhou
+钟山县 | TRADUÇÃO: Zhongshan, condado de la ciudad de Hezhou 賀州市|贺州市, región autónoma de Guangxi
+钟摆 | TRADUÇÃO: péndulo
+钟乐 | TRADUÇÃO: música de campanas/carrillón
+钟楼 | TRADUÇÃO: véase 鐘樓區|钟楼区 ‖ campanario/torre del campanario/torre del reloj/Torre de la Campana (monumento histórico en Xi'an, Pekín, etc.)
+钟楼区 | TRADUÇÃO: Zhonglou, distrito de la ciudad de Changzhou 常州市, provincia de Jiangsu
+钟楼怪人 | TRADUÇÃO: Nuestra Señora de París o El jorobado de Notre Dame (novela de Victor Hugo 維克多·雨果|维克多·雨果)
+钟琴 | TRADUÇÃO: glockenspiel/carillón
+钟罩 | TRADUÇÃO: campana de cristal/campana de protección
+钟声 | TRADUÇÃO: sonido de campana/campanada
+钟表盘 | TRADUÇÃO: esfera del reloj/cuadrante del reloj
+钟表 | TRADUÇÃO: reloj/relojes
+钟面 | TRADUÇÃO: esfera del reloj/esfera horaria
+钟头 | TRADUÇÃO: (coloq.) hora
+钟鸣漏尽 | TRADUÇÃO: al final de los días (modismo)/en el ocaso de la vida/en la vejez avanzada
+钟鸣鼎食 | TRADUÇÃO: vida lujosa y opulenta (modismo)/vivir en la abundancia entre banquetes y música
+钟点 | TRADUÇÃO: hora/hora señalada/tiempo fijado
+钟点工 | TRADUÇÃO: trabajador por horas/empleado por horas
+钟点房 | TRADUÇÃO: habitación de hotel por horas
+钟鼎文 | TRADUÇÃO: escritura en bronce/inscripciones epigráficas en campanas y calderos de bronce
+镫 | TRADUÇÃO: estribo
+镫骨 | TRADUÇÃO: estribo (huesecillo del oído medio)
+镢 | TRADUÇÃO: (dialectal) (forma ligada) azadón/pico
+镢头 | TRADUÇÃO: (dialectal) azadón/zapapico
+镨 | TRADUÇÃO: praseodimio (quím.)
+鐡 | TRADUÇÃO: variante de 鐵|铁, hierro
+锎 | TRADUÇÃO: californio (quím.)
+锏 | TRADUÇÃO: maza metálica maciza antigua/vara de armas
+镄 | TRADUÇÃO: fermio (quím.)
+𬭼 | TRADUÇÃO: (literario) espejo cóncavo de bronce usado antiguamente para encender fuego concentrando la luz solar
+镌 | TRADUÇÃO: grabar (en madera o piedra)/inscribir/cincelar
+镌刻 | TRADUÇÃO: grabar/inscribir/esculpir
+镌心铭骨 | TRADUÇÃO: grabado en los huesos y en el corazón (modismo)/recuerdo imborrable/grabado a fuego
+镌镂 | TRADUÇÃO: tallar/grabar/cincelar
+镌骨铭心 | TRADUÇÃO: grabado en los huesos y en el corazón (modismo)/recuerdo imborrable/grabado a fuego
+镌黜 | TRADUÇÃO: destituir a un funcionario/degradar de cargo
+镰仓 | TRADUÇÃO: Kamakura (ciudad de Japón)
+镰仓幕府 | TRADUÇÃO: shogunato Kamakura (1192-1333)
+镰刀 | TRADUÇÃO: hoz
+镰刀斧头 | TRADUÇÃO: la hoz y el martillo (símbolo del trabajo rural y proletario)
+镰刀细胞贫血 | TRADUÇÃO: anemia de células falciformes/anemia falciforme
+镰状红血球贫血症 | TRADUÇÃO: anemia de células falciformes/drepanocitosis
+镰状细胞血症 | TRADUÇÃO: anemia falciforme/drepanocitosis
+镰翅鸡 | TRADUÇÃO: (especie de ave de China) urogallo de Siberia (Falcipennis falcipennis)
+鐱 | TRADUÇÃO: variante antigua de 劍|剑
+镯 | TRADUÇÃO: brazalete/pulsera
+镯子 | TRADUÇÃO: brazalete/pulsera/CL:隻|只
+镭 | TRADUÇÃO: radio (quím.)
+镭射 | TRADUÇÃO: láser (préstamo)/término usado en Taiwán para 激光
+镭射印表机 | TRADUÇÃO: impresora láser
+铁 | TRADUÇÃO: apellido Tie ‖ hierro/armas/armamento/duro/firme/férreo/inquebrantable/decidido/muy unido/inseparable (jerga)
+铁三 | TRADUÇÃO: triatlón (abrev. de 鐵人三項|铁人三项)
+铁了心 | TRADUÇÃO: determinado/resuelto/decidido firmemente
+铁人 | TRADUÇÃO: hombre de hierro/Ironman
+铁人三项 | TRADUÇÃO: triatlón
+铁公鸡 | TRADUÇÃO: tacaño/agarrado/avaro
+铁力 | TRADUÇÃO: véase 鐵力市|铁力市
+铁力市 | TRADUÇÃO: Tieli, ciudad a nivel de condado en la ciudad de Yichun 伊春市, provincia de Heilongjiang
+铁力木 | TRADUÇÃO: palo de hierro/madera de hierro (Mesua ferrea)
+铁匠 | TRADUÇÃO: herrero
+铁哥们 | TRADUÇÃO: (coloq.) amigos entrañables/amigos íntimos/compadres
+铁哥们儿 | TRADUÇÃO: variante con erhua de 鐵哥們|铁哥们
+铁嘴沙鸻 | TRADUÇÃO: (especie de ave de China) chorlitejo piquigrueso (Anarhynchus leschenaultii)
+铁器 | TRADUÇÃO: artículos de hierro/herramientas de hierro/quincalla
+铁塔 | TRADUÇÃO: torre de hierro/torre metálica
+铁子 | TRADUÇÃO: (jerga) amigo del alma/compa/hermano
+铁定 | TRADUÇÃO: inalterable/seguro/definitivo/indudable
+铁将军把门 | TRADUÇÃO: el General de Hierro custodia la puerta (modismo)/(fig.) la puerta está cerrada con candado/no hay nadie dentro
+铁山 | TRADUÇÃO: véase 鐵山區|铁山区
+铁山区 | TRADUÇÃO: Tieshan, distrito de la ciudad de Huangshi 黃石市|黄石市, provincia de Hubei
+铁山港 | TRADUÇÃO: véase 鐵山港區|铁山港区
+铁山港区 | TRADUÇÃO: Tieshangang, distrito de la ciudad de Beihai 北海市, región autónoma de Guangxi
+铁岭 | TRADUÇÃO: véase 鐵嶺市|铁岭市/véase 鐵嶺縣|铁岭县
+铁岭市 | TRADUÇÃO: Tieling, ciudad-prefectura en la provincia de Liaoning 遼寧省|辽宁省
+铁岭县 | TRADUÇÃO: Tieling, condado de la ciudad de Tieling 鐵嶺市|铁岭市, provincia de Liaoning
+铁帽子王 | TRADUÇÃO: príncipe del sombrero de hierro (en la dinastía Qing, título nobiliario hereditario concedido a perpetuidad sin degradación de rango)
+铁幕 | TRADUÇÃO: Telón de Acero/Cortina de Hierro (1945-1991)
+铁律 | TRADUÇÃO: ley de hierro/regla férrea e inquebrantable
+铁打 | TRADUÇÃO: hecho de hierro/fuerte como el hierro/férreo
+铁打的衙门，流水的官 | TRADUÇÃO: el tribunal es de hierro y los funcionarios corren como el agua (modismo)/(fig.) las instituciones permanecen pero los gobernantes van y vienen
+铁托 | TRADUÇÃO: Mariscal Josip Broz Tito (1892-1980), líder militar y político comunista yugoslavo, presidente de Yugoslavia de 1945 a 1980
+铁拐李 | TRADUÇÃO: véase 李鐵拐|李铁拐
+铁拳 | TRADUÇÃO: Tekken (videojuego) ‖ puño de hierro/puño férreo
+铁撬 | TRADUÇÃO: palanqueta/palanca de hierro/pata de cabra
+铁木真 | TRADUÇÃO: Temujín, nombre de nacimiento de Gengis Kan 成吉思汗
+铁杉 | TRADUÇÃO: tsuga china (Tsuga chinensis)
+铁杖 | TRADUÇÃO: bastón de hierro/vara de acero
+铁东 | TRADUÇÃO: véase 鐵東區|铁东区
+铁东区 | TRADUÇÃO: Tiedong, distrito de la ciudad de Siping 四平市, provincia de Jilin/Tiedong, distrito de la ciudad de Anshan 鞍山市, provincia de Liaoning
+铁杵成针 | TRADUÇÃO: véase 磨杵成針|磨杵成针
+铁板 | TRADUÇÃO: plancha de hierro/chapa de hierro/teppan (plancha caliente para cocinar de estilo japonés)
+铁板烧 | TRADUÇÃO: teppanyaki
+铁板牛柳 | TRADUÇÃO: lomo de ternera servido en plancha de hierro caliente
+铁板牛肉 | TRADUÇÃO: carne de res a la plancha de hierro
+铁板茄子 | TRADUÇÃO: berenjenas a la plancha de hierro caliente
+铁格子 | TRADUÇÃO: enrejado de hierro/reja metálica
+铁杆 | TRADUÇÃO: hierro (palo de golf) ‖ barra de hierro/acérrimo/incondicional/fiel hasta el final
+铁杆粉丝 | TRADUÇÃO: fan acérrimo/seguidor incondicional/fanático
+铁棒 | TRADUÇÃO: barra de hierro/porra de hierro
+铁树 | TRADUÇÃO: cica del Japón (Cycas revoluta)/palma sagú
+铁树开花 | TRADUÇÃO: florecer el árbol de hierro (modismo)/acontecimiento sumamente raro o improbable/algo casi imposible
+铁栏 | TRADUÇÃO: barandilla de hierro/rejas metálicas/barrote
+铁氟龙 | TRADUÇÃO: (Taiwán) teflón (préstamo)
+铁水 | TRADUÇÃO: hierro fundido/arrabio líquido
+铁爪鹀 | TRADUÇÃO: (especie de ave de China) escribano lapón (Calcarius lapponicus)
+铁尔梅兹 | TRADUÇÃO: Termez (ciudad en el sureste de Uzbekistán)
+铁球 | TRADUÇÃO: bolas de hierro chinas/bolas de salud baoding
+铁琴 | TRADUÇÃO: metalófono/glockenspiel
+铁环 | TRADUÇÃO: aro de hierro/anillo de hierro
+铁甲 | TRADUÇÃO: cota de malla/armadura de hierro/blindaje
+铁甲船 | TRADUÇÃO: buque blindado/acorazado
+铁甲舰 | TRADUÇÃO: fragata blindada/buque acorazado
+铁甲车 | TRADUÇÃO: vehículo blindado/coche blindado
+铁皮 | TRADUÇÃO: chapa de hierro/hojalata/chapa galvanizada
+铁石 | TRADUÇÃO: hierro y piedra
+铁石心肠 | TRADUÇÃO: tener un corazón de piedra (modismo)/insensible/desalmado/inflexible
+铁砂 | TRADUÇÃO: perdigones de hierro/arena de hierro
+铁砧 | TRADUÇÃO: yunque
+铁矿 | TRADUÇÃO: mineral de hierro/mina de hierro
+铁矿石 | TRADUÇÃO: mineral de hierro
+铁票 | TRADUÇÃO: (Taiwán) voto cautivo/voto asegurado/elector incondicional de un partido o candidato
+铁票仓 | TRADUÇÃO: véase 鐵票區|铁票区
+铁票区 | TRADUÇÃO: (Taiwán) feudo electoral/distrito electoral seguro/bastión político
+铁窗 | TRADUÇÃO: ventana enrejada con barrotes/ventana de celda de prisión
+铁窗生活 | TRADUÇÃO: vida entre rejas/vida carcelaria
+铁箍 | TRADUÇÃO: zuncho de hierro/aro de hierro/abrazadera metálica
+铁箱 | TRADUÇÃO: caja de hierro/cofre metálico/caja fuerte
+铁粉 | TRADUÇÃO: (jerga) seguidor incondicional/fan acérrimo (abrev. de 鐵桿粉絲|铁杆粉丝)
+铁丝 | TRADUÇÃO: alambre de hierro/CL:根/entusiasta del metro (abrev. de 地鐵粉絲|地铁粉丝)/ferroviófilo (abrev. de 鐵路粉絲|铁路粉丝)
+铁丝网 | TRADUÇÃO: alambrada/red de alambre/malla ciclónica/CL:道
+铁罐 | TRADUÇÃO: lata/bote metálico/recipiente de hojalata
+铁腕 | TRADUÇÃO: mano dura/mano de hierro
+铁菱 | TRADUÇÃO: (militar) abrojo de hierro (artefacto defensivo puntiagudo para frenar tropas o caballería)
+铁菱角 | TRADUÇÃO: véase 鐵菱|铁菱
+铁蒺藜 | TRADUÇÃO: (militar) abrojo de hierro/alambre de espino
+铁兰属 | TRADUÇÃO: género Tillandsia/plantas del aire (conocidas comúnmente como 空氣鳳梨|空气凤梨)
+铁蛋 | TRADUÇÃO: huevo de hierro (aperitivo típico taiwanés de huevos cocidos y estofados repetidamente en salsa de soja y secados al aire)
+铁蛋子 | TRADUÇÃO: véase 鐵球|铁球
+铁血 | TRADUÇÃO: de hierro y sangre/férreo y belicoso/(fig.) armas y guerra/conflicto sangriento/(de una persona) de temple de acero y resuelto al sacrificio
+铁血宰相 | TRADUÇÃO: Canciller de Hierro (sobrenombre de Otto von Bismarck, 1815-1898, canciller de Alemania)
+铁西 | TRADUÇÃO: véase 鐵西區|铁西区
+铁西区 | TRADUÇÃO: Tiexi, distrito de la ciudad de Siping 四平市, Jilin/Tiexi, distrito de la ciudad de Shenyang 瀋陽市|沈阳市, Liaoning/Tiexi, distrito de la ciudad de Anshan 鞍山市, Liaoning
+铁观音 | TRADUÇÃO: té Tieguanyin (variedad célebre de té oolong)
+铁证 | TRADUÇÃO: prueba irrefutable/evidencia concluyente
+铁证如山 | TRADUÇÃO: pruebas irrefutables como una montaña (modismo)/evidencia aplastante
+铁路 | TRADUÇÃO: ferrocarril/vía férrea/ferrocarriles/CL:條|条
+铁路线 | TRADUÇÃO: línea de ferrocarril/línea ferroviaria
+铁蹄 | TRADUÇÃO: casco de hierro/bota opresora/(fig.) tiranía/opresión militar
+铁轨 | TRADUÇÃO: riel/vía férrea/raíl/CL:根
+铁军 | TRADUÇÃO: ejército invencible/ejército de hierro
+铁通 | TRADUÇÃO: China Mobile Tietong (operador estatal de telecomunicaciones, abrev. de 中移鐵通|中移铁通) ‖ (cantonés) tubo de hierro (utilizado como arma contundente)
+铁道 | TRADUÇÃO: ferrocarril/vía férrea
+铁道部 | TRADUÇÃO: Ministerio de Ferrocarriles (disuelto en 2013, asumiendo sus funciones el Ministerio de Transporte 交通運輸部|交通运输部)
+铁达尼号 | TRADUÇÃO: Titanic/RMS Titanic (Taiwán)/equivalente en China continental: 泰坦尼克號|泰坦尼克号
+铁钩 | TRADUÇÃO: gancho de hierro
+铁钩儿 | TRADUÇÃO: variante con erhua de 鐵鈎|铁钩
+铁铝土 | TRADUÇÃO: ferralsol (edafología)/suelo ferralítico
+铁锋 | TRADUÇÃO: véase 鐵鋒區|铁锋区
+铁锋区 | TRADUÇÃO: Tiefeng, distrito de la ciudad de Qiqihar 齊齊哈爾市|齐齐哈尔市, provincia de Heilongjiang
+铁锨 | TRADUÇÃO: pala de hierro/pala/CL:把
+铁锅 | TRADUÇÃO: sartén de hierro/olla de hierro/wok de hierro
+铁锹 | TRADUÇÃO: pala de hierro/pala/azadón
+铁镁质 | TRADUÇÃO: máfico/roca máfica (rica en magnesio e hierro)
+铁链 | TRADUÇÃO: cadena de hierro
+铁锈 | TRADUÇÃO: óxido de hierro/herrumbre
+铁锈带 | TRADUÇÃO: Cinturón del Óxido/Rust Belt
+铁青 | TRADUÇÃO: lívido/amoratado (por ira, frío, miedo o enfermedad)/cetrino
+铁面 | TRADUÇÃO: máscara de hierro (como protección)/persona severa e imparcial/inflexible y desinteresado
+铁面无私 | TRADUÇÃO: estrictamente imparcial e incorruptible (modismo)/justo e inflexible sin favoritismos
+铁饭碗 | TRADUÇÃO: cuenco de arroz de hierro/(fig.) empleo seguro de por vida/trabajo garantizado
+铁饼 | TRADUÇÃO: (atletismo) disco/lanzamiento de disco
+铁马 | TRADUÇÃO: caballo acorazado/caballería pesada/campanillas de viento metálicas colgadas del alero/valla metálica de control/(Taiwán) bicicleta
+铁骑 | TRADUÇÃO: caballería pesada/jinetes acorazados
+铁骨铮铮 | TRADUÇÃO: de temple de acero y carácter inquebrantable (modismo)/firme e indoblegable
+铁齿 | TRADUÇÃO: (Taiwán) obstinado/terco/escéptico ante supersticiones/testarudo (del taiwanés)
+铁齿铜牙 | TRADUÇÃO: elocuente y hábil con la palabra (modismo)/orador persuasivo y mordaz
+镮 | TRADUÇÃO: antigua unidad de peso/anillo metálico
+铎 | TRADUÇÃO: apellido Duo ‖ campana grande antigua con badajo
+铛 | TRADUÇÃO: sartén/plancha para freír ‖ (onomat.) chasquido metálico/sonido de metal
+铛铛 | TRADUÇÃO: (onomat.) tintineo de metal/tañido de campana o gong
+铛铛车 | TRADUÇÃO: (coloq.) tranvía histórico de Pekín (especialmente los que operaron de 1924 a 1956)/también escrito 噹噹車|当当车
+鐻 | TRADUÇÃO: antiguo instrumento musical de percusión similar a una campana
+𫟼 | TRADUÇÃO: darmstatio (quím.)
+鐾 | TRADUÇÃO: afilar (un cuchillo) con piedra de afilar o asentador/pronunciación en Taiwán [bi4]
+镱 | TRADUÇÃO: iterbio (quím.)
+鑀 | TRADUÇÃO: einstenio (quím.) (Taiwán)/ionio (antiguo nombre del torio-230)
+铸 | TRADUÇÃO: fundir/moldear metales/acuñar
+铸件 | TRADUÇÃO: pieza fundida/fusión/pieza colada
+铸剑为犁 | TRADUÇÃO: convertir las espadas en arados (modismo)/pasar de la guerra a la paz
+铸就 | TRADUÇÃO: forjar/fundir/moldear/crear
+铸工 | TRADUÇÃO: fundidor/trabajo de fundición
+铸工车间 | TRADUÇÃO: taller de fundición/sección de fundición
+铸币 | TRADUÇÃO: moneda acuñada/acuñar monedas
+铸成 | TRADUÇÃO: fundir en metal/(fig.) forjar/moldear/crear/cometer
+铸成大错 | TRADUÇÃO: cometer un grave error (modismo)/dar un paso en falso irreparable
+铸造 | TRADUÇÃO: fundir/hacer piezas de fundición
+铸铜 | TRADUÇÃO: fundición de bronce/bronce fundido
+铸铁 | TRADUÇÃO: arrabio/hierro fundido/fundición de hierro
+鑅 | TRADUÇÃO: (onomat.) tañido de campana (arcaico)
+镬 | TRADUÇÃO: wok (dialectal)/caldero (antiguo)
+镬气 | TRADUÇÃO: "wok hei", aroma y sabor ahumado característico impartido a los alimentos al saltearlos a fuego muy vivo en un wok (del cantonés)
+镔 | TRADUÇÃO: acero fino/acero de damasco
+鑐 | TRADUÇÃO: cerrojo de cerradura china tradicional
+鉴价 | TRADUÇÃO: tasar/tasación/valorar/evaluación del precio
+鉴别 | TRADUÇÃO: diferenciar/distinguir/discernir/identificar
+鉴定 | TRADUÇÃO: peritar/autenticar/evaluar/tasar/determinar autenticidad o calidad/evaluación pericial
+鉴证 | TRADUÇÃO: comprobación/peritaje forense/autenticación/verificación
+鉴识 | TRADUÇÃO: identificar/discernir/análisis forense
+鉴赏 | TRADUÇÃO: apreciar/disfrutar con criterio de entendido/deleitarse con obras artísticas
+鉴黄 | TRADUÇÃO: censurar o inspeccionar contenidos pornográficos en medios de comunicación
+鉴黄师 | TRADUÇÃO: moderador de contenidos especializado en filtrar pornografía
+鉴往知来 | TRADUÇÃO: examinar el pasado para conocer el futuro (modismo)/aprender de la historia para anticipar el porvenir
+鉴戒 | TRADUÇÃO: lección del pasado/advertencia preventiva/escarmiento
+鉴于 | TRADUÇÃO: en vista de/habida cuenta de/considerando que/puesto que
+鉴权 | TRADUÇÃO: (informát.) autenticación/autorización
+鉴此 | TRADUÇÃO: en vista de esto/por lo tanto
+鉴真 | TRADUÇÃO: Jianzhen o Ganjin (688-763), célebre monje budista de la dinastía Tang que viajó a Japón y fundó la escuela Ritsu
+鉴真和尚 | TRADUÇÃO: monje Jianzhen o Ganjin (688-763), monje budista de la dinastía Tang influyente en Japón
+鉴赏家 | TRADUÇÃO: conocedor/entendido/crítico de arte/connoisseur
+镲 | TRADUÇÃO: platillos pequeños/crótalos
+锧 | TRADUÇÃO: tajo de verdugo/bloque de decapitación
+钻 | TRADUÇÃO: variante de 鑽|钻 ‖ taladrar/perforar/meterse en/introducirse/adentrarse/profundizar en los estudios/buscar influencias interesadamente ‖ broca/taladro/barrena/diamante
+镴 | TRADUÇÃO: soldadura de estaño/estaño
+镴箔 | TRADUÇÃO: lámina de estaño para confeccionar dinero ceremonial fúnebre
+铄 | TRADUÇÃO: brillante/fundir/derretir
+鑢 | TRADUÇÃO: apellido Lü ‖ lima/herramienta de pulir
+镳 | TRADUÇÃO: bocado de brida/freno de caballo/variante de 鏢|镖
+镥 | TRADUÇÃO: lutecio (quím.)
+𬬻 | TRADUÇÃO: rutherfordio (quím.)
+鑫 | TRADUÇÃO: (usado en nombres de personas y tiendas como símbolo de gran prosperidad económica)
+镧 | TRADUÇÃO: lantano (quím.)
+镧系元素 | TRADUÇÃO: lantánidos (serie de tierras raras), a saber: lantano La57 鑭|镧, cerio Ce58 鈰|铈, praseodimio Pr59 鐠|镨, neodimio Nd60 釹|钕, prometio Pm61 鉕|钷, samario Sm62 釤|钐, europio Eu63 銪|铕, gadolinio Gd64 釓|钆, terbio Tb65 鋱|铽, disprosio Dy66 鏑|镝, holmio Ho67 鈥|钬, erbio Er68 鉺|铒, tulio Tm69 銩|铥, iterbio Yb70 鐿|镱, lutecio Lu71 鑥|镥
+鑯 | TRADUÇÃO: lezna/punta de hierro afilada
+钥 | TRADUÇÃO: llave/también pronunciado [yao4]
+钥匙 | TRADUÇÃO: llave/CL:把
+钥匙卡 | TRADUÇÃO: tarjeta llave/tarjeta de acceso
+钥匙链 | TRADUÇÃO: llavero/cadena para llaves
+镵 | TRADUÇÃO: pala puntiaguda para cavar/instrumento cortante
+镶 | TRADUÇÃO: incrustar/engarzar/ribete/borde
+镶嵌 | TRADUÇÃO: incrustar/engarzar/taracear/mosaico/teselado
+镶牙 | TRADUÇÃO: ponerse una dentadura postiza/ponerse una corona dental/implantar un diente
+镶边 | TRADUÇÃO: ribetear/borde/orilla decorativa/ribete
+镶金 | TRADUÇÃO: dorado/engastado en oro/con incrustaciones de oro
+镶黄旗 | TRADUÇÃO: Bandera Amarilla Ribeteada o Hövööt Shar khoshuu en la liga Xilingol 錫林郭勒盟|锡林郭勒盟, Mongolia Interior
+鑳 | TRADUÇÃO: variante antigua de 鍵|键
+鑴 | TRADUÇÃO: grabar o tallar matrices para imprenta
+鑶 | TRADUÇÃO: (onomat.) sonido de campana
+镊 | TRADUÇÃO: (forma ligada) pinzas/sujetar con pinzas/extraer con pinzas
+镊子 | TRADUÇÃO: pinzas/fórceps
+镩 | TRADUÇÃO: pica de hielo/romper el hielo con un punzón
+镩子 | TRADUÇÃO: pica de hielo/punzón para perforar hielo
+锣 | TRADUÇÃO: gong/CL:面
+锣声 | TRADUÇÃO: sonido de gong
+锣鼓 | TRADUÇÃO: gongs y tambores/instrumentos chinos de percusión
+锣鼓点 | TRADUÇÃO: ritmo de percusión de la ópera tradicional china
+锣齐鼓不齐 | TRADUÇÃO: gongs listos pero tambores desincronizados (modismo)/(fig.) falta de coordinación en el equipo
+钻井 | TRADUÇÃO: perforar pozos (de petróleo, agua, etc.)/pozo de sondeo
+钻井平台 | TRADUÇÃO: plataforma petrolífera/plataforma de perforación
+钻劲 | TRADUÇÃO: empeño/dedicación minuciosa y tenaz al trabajo
+钻卡 | TRADUÇÃO: mandril portabrocas
+钻圈 | TRADUÇÃO: salto a través de aros (número acrobático)
+钻坚仰高 | TRADUÇÃO: cuanto más se mira hacia arriba más alto parece y cuanto más se profundiza más arduo resulta (modismo)/estudio diligente y perseverante
+钻压 | TRADUÇÃO: peso sobre la broca/presión de perforación
+钻孔 | TRADUÇÃO: taladrar/perforar un orificio/barreno/agujero taladrado
+钻床 | TRADUÇÃO: taladradora de columna/prensa taladradora
+钻心 | TRADUÇÃO: colarse/penetrar furtivamente/dolor punzante/insoportable (dolor, picazón)
+钻心虫 | TRADUÇÃO: barrenador (insecto o larva plaga de cultivos agrícolas)
+钻戒 | TRADUÇÃO: anillo de diamantes/CL:隻|只
+钻探 | TRADUÇÃO: sondeo/perforación exploratoria
+钻探机 | TRADUÇÃO: máquina perforadora/máquina de sondeo
+钻故纸堆 | TRADUÇÃO: sumergirse en papeles viejos y polvorientos (modismo)/enfrascarse en libros antiguos
+钻木取火 | TRADUÇÃO: encender fuego frotando madera/hacer fuego por fricción de maderas
+钻桌子 | TRADUÇÃO: meterse bajo la mesa (por perder una apuesta)/esconderse debajo de la mesa
+钻机 | TRADUÇÃO: máquina perforadora/taladradora
+钻洞 | TRADUÇÃO: cavar una madriguera/abrir un túnel/arrastrarse por un agujero
+钻营 | TRADUÇÃO: adular por conveniencia/hacer intrigas para ascender/trepar
+钻版 | TRADUÇÃO: tallar planchas xilográficas para impresión
+钻牛角 | TRADUÇÃO: emperrarse en sutilezas inútiles/buscarle tres pies al gato/obcecarse en problemas sin salida/igual que el modismo 鑽牛角尖|钻牛角尖
+钻牛角尖 | TRADUÇÃO: meterse en un callejón sin salida (modismo)/empeñarse en un dilema insoluble/buscarle cinco patas al gato/ahogarse en un vaso de agua
+钻眼 | TRADUÇÃO: taladrar un orificio/perforar
+钻石 | TRADUÇÃO: diamante/CL:顆|颗
+钻石王老五 | TRADUÇÃO: soltero de oro/soltero codiciado y adinerado
+钻研 | TRADUÇÃO: profundizar en los estudios/investigar minuciosamente
+钻空子 | TRADUÇÃO: aprovechar una laguna/sacar partido de una brecha legal/aprovecharse de una oportunidad
+钻粉 | TRADUÇÃO: detrito de perforación/polvillo de taladrado
+钻谋 | TRADUÇÃO: intrigar para conseguir ventajas/valerse de influencias/trepar por cualquier medio
+钻进 | TRADUÇÃO: introducirse en/adentrarse en/meterse de lleno (en estudios, trabajo)
+钻头 | TRADUÇÃO: broca/punta de barrena/barrena
+銮 | TRADUÇÃO: imperial/campanilla del carruaje imperial
+銮驾 | TRADUÇÃO: carruaje imperial/cortejo imperial
+凿 | TRADUÇÃO: (forma ligada) cincel/cincelar/perforar/cavar/(literario) indiscutible/auténtico/cierto/también pronunciado [zuo4]
+凿井 | TRADUÇÃO: excavar un pozo/abrir un pozo
+凿壁偷光 | TRADUÇÃO: horadar el muro para tomar prestada la luz (modismo)/(fig.) estudiar con tesón a pesar de la extrema pobreza
+凿子 | TRADUÇÃO: cincel/escoplo/formón
+凿岩 | TRADUÇÃO: perforación de roca
+凿岩机 | TRADUÇÃO: perforadora de roca/martillo neumático
+凿枘 | TRADUÇÃO: véase 枘鑿|枘凿
+凿死卯子 | TRADUÇÃO: variante de 鑿死鉚子|凿死铆子
+凿死铆子 | TRADUÇÃO: (dialectal) testarudo/terco/inflexible/intransigente
+凿沉 | TRADUÇÃO: barrenar y hundir (un barco)/echar a pique
+凿石场 | TRADUÇÃO: cantera de piedra
+凿空 | TRADUÇÃO: abrir una brecha/abrir un nuevo camino/(por extensión) ser pionero
+䦆 | TRADUÇÃO: variante de 鐝|镢
+钃 | TRADUÇÃO: metal
+锺 | TRADUÇÃO: variante simplificada no estándar de 鍾|钟
+长 | TRADUÇÃO: largo/(forma ligada) longitud/(forma ligada) punto fuerte; especialidad/(forma ligada) destacar en; ser bueno en/(literario) excedente; superfluo (pronunciación en Taiwán [zhang4]) ‖ jefe/cabeza/líder/mayor de edad/anciano/crecer/desarrollarse/aumentar/acrecentar
+长三 | TRADUÇÃO: (antiguo) cortesana de alta categoría
+长三角 | TRADUÇÃO: delta del río Yangtsé (abrev. de 長江三角洲|长江三角洲)
+长三角经济区 | TRADUÇÃO: Zona Económica del Delta del Río Yangtsé
+长久 | TRADUÇÃO: duradero/prolongado/largo tiempo/permanente
+长久以来 | TRADUÇÃO: desde hace mucho tiempo/desde hace tiempo
+长仓 | TRADUÇÃO: posición larga (finanzas)
+长假 | TRADUÇÃO: vacaciones largas/puente largo/receso prolongado
+长兄 | TRADUÇÃO: hermano mayor
+长凳 | TRADUÇÃO: banco/banca corrida/CL:張|张
+长出 | TRADUÇÃO: brotar/nacer/crecer (hojas, barba, etc.)
+长势 | TRADUÇÃO: estado de crecimiento/vigor de desarrollo (de plantas o cultivos)
+长印鱼 | TRADUÇÃO: rémora común (Echeneis naucrates)
+长吁短叹 | TRADUÇÃO: suspirar y quejarse sin cesar (modismo)/lamentarse continuamente entre gemidos y suspiros
+长命富贵 | TRADUÇÃO: ¡larga vida y riquezas! (saludo tradicional y felicitación de longevidad)
+长命百岁 | TRADUÇÃO: que viva cien años (modismo)/deseo de larga vida y longevidad
+长叹 | TRADUÇÃO: profundo suspiro/largo suspiro/suspirar profundamente
+长嘴剑鸻 | TRADUÇÃO: (especie de ave de China) chorlitejo piquilargo (Charadrius placidus)
+长嘴地鸫 | TRADUÇÃO: (especie de ave de China) zorzal piquilargo (Zoothera marginata)
+长嘴捕蛛鸟 | TRADUÇÃO: (especie de ave de China) arañero piquilargo (Arachnothera longirostra)
+长嘴斑海雀 | TRADUÇÃO: (especie de ave de China) mérgulo piquilargo (Brachyramphus perdix)
+长嘴百灵 | TRADUÇÃO: (especie de ave de China) calandria tibetana (Melanocorypha maxima)
+长嘴钩嘴鹛 | TRADUÇÃO: (especie de ave de China) cimitarra piquilarga (Erythrogenys hypoleucos)
+长嘴鹩鹛 | TRADUÇÃO: (especie de ave de China) ratina piquilarga (Napothera malacoptila)
+长嘴鹬 | TRADUÇÃO: (especie de ave de China) costurero piquilargo (Limnodromus scolopaceus)
+长坂坡七进七出 | TRADUÇÃO: famosa escena del Romance de los Tres Reinos en la que Zhao Yun 趙雲|赵云 carga siete veces atravesando las filas enemigas de Cao Cao en Changbanpo
+长垣 | TRADUÇÃO: véase 長垣市|长垣市
+长垣市 | TRADUÇÃO: Changyuan, ciudad a nivel de condado en la ciudad de Xinxiang 新鄉市|新乡市, provincia de Henan
+长城 | TRADUÇÃO: la Gran Muralla China
+长城饭店 | TRADUÇÃO: Hotel Gran Muralla (Beijing Sheraton 喜來登|喜来登)
+长寿 | TRADUÇÃO: véase 長壽區|长寿区 ‖ longevidad/longevo/de larga vida
+长寿区 | TRADUÇÃO: Changshou, distrito de Chongqing 重慶|重庆
+长多 | TRADUÇÃO: buenas perspectivas a largo plazo (finanzas)
+长夜 | TRADUÇÃO: larga noche/(fig.) prolongado periodo de sufrimiento u opresión
+长夜漫漫 | TRADUÇÃO: noche interminable (modismo)/(fig.) largos sufrimientos y penalidades
+长夜难明 | TRADUÇÃO: noche oscura interminable (modismo)/(fig.) años interminables de opresión y sufrimiento
+长大 | TRADUÇÃO: crecer/hacerse adulto
+长女 | TRADUÇÃO: hija mayor
+长姊 | TRADUÇÃO: hermana mayor
+长子 | TRADUÇÃO: véase 長子縣|长子县 ‖ hijo primogénito/hijo mayor
+长子县 | TRADUÇÃO: Zhangzi, condado de la ciudad de Changzhi 長治市|长治市, provincia de Shanxi
+长存 | TRADUÇÃO: perdurar/durar eternamente/permanecer para siempre
+长孙 | TRADUÇÃO: apellido de dos caracteres Zhangsun ‖ nieto mayor/hijo mayor del primogénito
+长孙无忌 | TRADUÇÃO: Zhangsun Wuji (c. 594-659), estadista e historiador de la dinastía Tang temprana
+长安 | TRADUÇÃO: Chang'an (antiguo nombre de Xi'an 西安), capital de varias dinastías chinas/véase 長安區|长安区
+长安区 | TRADUÇÃO: Chang'an, distrito de la ciudad de Xi'an 西安市, provincia de Shaanxi/Chang'an, distrito de la ciudad de Shijiazhuang 石家莊市|石家庄市, provincia de Hebei
+长安大学 | TRADUÇÃO: Universidad de Chang'an
+长官 | TRADUÇÃO: superior/oficial superior/jefe/oficial al mando/señor (tratamiento formal a un oficial superior)/CL:位
+长宁 | TRADUÇÃO: condado de Changning en Yibin 宜賓|宜宾, Sichuan/distrito de Changning en Shanghái
+长宁区 | TRADUÇÃO: Changning, distrito central de Shanghái
+长宁县 | TRADUÇÃO: Changning, condado de la ciudad de Yibin 宜賓市|宜宾市, provincia de Sichuan
+长宽 | TRADUÇÃO: largo y ancho/dimensiones/medidas
+长尾 | TRADUÇÃO: cola larga/(econom.) larga cola
+长尾地鸫 | TRADUÇÃO: (especie de ave de China) zorzal colilargo (Zoothera dixoni)
+长尾夜鹰 | TRADUÇÃO: (especie de ave de China) chotacabras macruro (Caprimulgus macrurus)
+长尾奇鹛 | TRADUÇÃO: (especie de ave de China) sibia colilarga (Heterophasia picaoides)
+长尾山椒鸟 | TRADUÇÃO: (especie de ave de China) minivet colilargo (Pericrocotus ethologus)
+长尾朱雀 | TRADUÇÃO: (especie de ave de China) camachuelo colilargo (Carpodacus sibiricus)
+长尾林鸮 | TRADUÇÃO: (especie de ave de China) cárabo uralense (Strix uralensis)
+长尾缝叶莺 | TRADUÇÃO: (especie de ave de China) sastrecillo común (Orthotomus sutorius)
+长尾贼鸥 | TRADUÇÃO: (especie de ave de China) págalo rabero (Stercorarius longicaudus)
+长尾阔嘴鸟 | TRADUÇÃO: (especie de ave de China) picoancho lorito (Psarisomus dalhousiae)
+长尾鸭 | TRADUÇÃO: (especie de ave de China) pato havelda (Clangula hyemalis)
+长尾鹩鹛 | TRADUÇÃO: (especie de ave de China) ratina colilarga (Spelaeornis reptatus)
+长尾鹦鹉 | TRADUÇÃO: (especie de ave de China) cotorra colilarga (Psittacula longicauda)
+长山山脉 | TRADUÇÃO: cordillera Anamita (cadena montañosa en la frontera entre Vietnam y Laos)
+长岛冰茶 | TRADUÇÃO: té helado de Long Island (cóctel)
+长崎 | TRADUÇÃO: Nagasaki (ciudad de Japón)
+长岭 | TRADUÇÃO: véase 長嶺縣|长岭县
+长岭县 | TRADUÇÃO: Changling, condado de la ciudad de Songyuan 松原市, provincia de Jilin
+长平 | TRADUÇÃO: Changping (antiguo topónimo en el condado de Gaoping 高平縣|高平县, Shanxi, escenario de la gran batalla entre Qin y Zhao)
+长平之战 | TRADUÇÃO: Batalla de Changping del 260 a. C. (en la que el ejército de Qin 秦軍|秦军 aniquiló a las tropas de Zhao)
+长年 | TRADUÇÃO: durante todo el año/todo el año
+长年累月 | TRADUÇÃO: año tras año (modismo)/durante muchos años/a lo largo de prolongados años
+长幼 | TRADUÇÃO: mayores y jóvenes/orden de antigüedad/jerarquía de edad
+长庚 | TRADUÇÃO: Chang Gung (nombre clásico chino del planeta Venus en el cielo occidental al atardecer)
+长度 | TRADUÇÃO: longitud/largo
+长度单位 | TRADUÇÃO: unidad de longitud
+长廊 | TRADUÇÃO: galería cubierta/corredor largo/Gran Corredor del Palacio de Verano de Pekín 北京頤和園|北京颐和园
+长弓 | TRADUÇÃO: arco largo
+长征 | TRADUÇÃO: Gran Marcha (retirada estratégica del Ejército Rojo 1934-1935) ‖ expedición/largo viaje
+长得 | TRADUÇÃO: verse/parecer/tener cierto aspecto físico (guapo, parecido, etc.)
+长情 | TRADUÇÃO: amor constante y duradero/afecto leal e incondicional
+长成 | TRADUÇÃO: crecer/desarrollarse hasta la madurez
+长技 | TRADUÇÃO: habilidad especial/destreza particular/fuerte
+长拳 | TRADUÇÃO: Changquan (puño largo, estilo de artes marciales del norte de China o Shaolin del Norte 北少林)
+长按 | TRADUÇÃO: mantener presionado (un botón o tecla)
+长掌义县龙 | TRADUÇÃO: Yixianosaurus longimanus (especie de dinosaurio terópodo hallado en Yixian 義縣|义县, Liaoning)
+长揖 | TRADUÇÃO: reverencia solemne tradicional china (con las manos juntas inclinándose de pie hasta la altura de las rodillas)
+长效 | TRADUÇÃO: de efecto prolongado/de acción prolongada
+长新冠 | TRADUÇÃO: COVID persistente/COVID prolongado
+长方形 | TRADUÇÃO: rectángulo
+长方体 | TRADUÇÃO: paralelepípedo rectángulo/ortoedro/cuboide
+长于 | TRADUÇÃO: ser hábil en/destacar en/sobresalir en
+长明灯 | TRADUÇÃO: lámpara votiva perpetua/lámpara encendida día y noche
+长春 | TRADUÇÃO: véase 長春市|长春市
+长春市 | TRADUÇÃO: Changchun, ciudad subprovincial y capital de la provincia de Jilin 吉林省
+长期 | TRADUÇÃO: a largo plazo/durante un período prolongado
+长期以来 | TRADUÇÃO: desde hace mucho tiempo/a lo largo de mucho tiempo
+长期共存 | TRADUÇÃO: coexistencia duradera/coexistencia a largo plazo
+长期性 | TRADUÇÃO: carácter a largo plazo/naturaleza duradera
+长期饭票 | TRADUÇÃO: (fig.) sustento económico asegurado de por vida/persona que provee manutención perpetua
+长板 | TRADUÇÃO: longboard (monopatín largo)
+长柄 | TRADUÇÃO: mango largo/tallo largo
+长柄勺子 | TRADUÇÃO: cucharón
+长柄镰刀 | TRADUÇÃO: guadaña
+长条 | TRADUÇÃO: tira larga/barra alargada
+长棍 | TRADUÇÃO: baguette (pan francés)/barra de pan/vara larga
+长椅 | TRADUÇÃO: banco/banca/banco corrido
+长荣 | TRADUÇÃO: Grupo Evergreen (conglomerado taiwanés de transporte marítimo y aviación)
+长荣海运 | TRADUÇÃO: Evergreen Marine Corp. (naviera taiwanesa)
+长荣航空 | TRADUÇÃO: EVA Air (aerolínea taiwanesa)
+长枪 | TRADUÇÃO: pica/lanza larga/fusil largo/CL:支
+长枪短炮 | TRADUÇÃO: cámaras fotográficas y teleobjetivos (humorístico)
+长乐 | TRADUÇÃO: véase 長樂區|长乐区/princesa Changle de la dinastía Wei Occidental 西魏
+长乐公主 | TRADUÇÃO: princesa Changle de la dinastía Wei Occidental 西魏
+长乐区 | TRADUÇÃO: Changle, distrito de la ciudad de Fuzhou 福州市, provincia de Fujian
+长乐未央 | TRADUÇÃO: felicidad eterna e infinita (modismo)
+长机 | TRADUÇÃO: (militar) avión guía/avión líder de formación
+长武 | TRADUÇÃO: véase 長武縣|长武县
+长武县 | TRADUÇÃO: Changwu, condado de la ciudad de Xianyang 咸陽市|咸阳市, provincia de Shaanxi
+长残 | TRADUÇÃO: (jerga) perder el atractivo al crecer/desmejorar de físico con la edad
+长毛 | TRADUÇÃO: (despectivo) rebeldes Taiping del siglo XIX (lit. "pelos largos") ‖ de pelo largo/de lana larga ‖ crecer pelo/enmohecerse
+长毛绒 | TRADUÇÃO: (textil) felpa/terciopelo de pelo largo
+长毛象 | TRADUÇÃO: mamut lanudo
+长汀 | TRADUÇÃO: véase 長汀縣|长汀县
+长汀县 | TRADUÇÃO: Changting, condado de la ciudad de Longyan 龍巖市|龙岩市, provincia de Fujian
+长江 | TRADUÇÃO: río Yangtsé o Chang Jiang
+长江三峡 | TRADUÇÃO: las Tres Gargantas del Yangtsé (a saber: garganta Qutang 瞿塘峽|瞿塘峡, garganta Wu 巫峽|巫峡 y garganta Xiling 西陵峽|西陵峡)
+长江三角洲 | TRADUÇÃO: delta del río Yangtsé
+长江三角洲经济区 | TRADUÇÃO: Zona Económica del Delta del Río Yangtsé
+长江后浪催前浪 | TRADUÇÃO: véase 長江後浪推前浪|长江后浪推前浪
+长江后浪推前浪 | TRADUÇÃO: las olas posteriores del río Yangtsé empujan a las anteriores (modismo)/(fig.) las nuevas generaciones superan a las pasadas/renovación constante de lo nuevo sobre lo viejo
+长江流域 | TRADUÇÃO: cuenca del río Yangtsé
+长江经济带 | TRADUÇÃO: Franja Económica del Río Yangtsé
+长沙 | TRADUÇÃO: véase 長沙市|长沙市/véase 長沙縣|长沙县
+长沙市 | TRADUÇÃO: Changsha, ciudad-prefectura y capital de la provincia de Hunan 湖南省
+长沙湾 | TRADUÇÃO: Cheung Sha Wan (zona de Hong Kong)
+长沙县 | TRADUÇÃO: Changsha, condado de la ciudad de Changsha 長沙市|长沙市, provincia de Hunan
+长河 | TRADUÇÃO: gran río/río caudaloso/(fig.) largo transcurso del tiempo/curso de la historia
+长治 | TRADUÇÃO: véase 長治市|长治市/véase 長治鄉|长治乡
+长治久安 | TRADUÇÃO: paz y estabilidad prolongadas (de un país o gobierno) (modismo)
+长治市 | TRADUÇÃO: Changzhi, ciudad-prefectura en la provincia de Shanxi 山西省
+长治乡 | TRADUÇÃO: municipio de Changzhi en el condado de Pingtung 屏東縣|屏东县, Taiwán
+长波 | TRADUÇÃO: onda larga (radiofonía)
+长泰 | TRADUÇÃO: véase 長泰區|长泰区
+长泰区 | TRADUÇÃO: Changtai, distrito de la ciudad de Zhangzhou 漳州市, provincia de Fujian
+长洲 | TRADUÇÃO: véase 長洲區|长洲区
+长洲区 | TRADUÇÃO: Changzhou, distrito de la ciudad de Wuzhou 梧州市, región autónoma de Guangxi
+长流水，不断线 | TRADUÇÃO: flujo continuo e incesante (modismo)/esfuerzo constante y perseverante
+长海 | TRADUÇÃO: véase 長海縣|长海县
+长海县 | TRADUÇÃO: Changhai, condado de la ciudad de Dalian 大連市|大连市, provincia de Liaoning
+长清 | TRADUÇÃO: véase 長清區|长清区
+长清区 | TRADUÇÃO: Changqing, distrito de la ciudad de Jinan 濟南市|济南市, provincia de Shandong
+长满 | TRADUÇÃO: cubrirse de vegetación/llenarse de/crecer por todas partes
+长漂 | TRADUÇÃO: descenso en balsa por el río Yangtsé (abrev. de 長江漂流|长江漂流)
+长滨 | TRADUÇÃO: Changbin, municipio del condado de Taitung 臺東縣|台东县, Taiwán
+长滨乡 | TRADUÇÃO: municipio de Changbin en el condado de Taitung 臺東縣|台东县, Taiwán
+长烟 | TRADUÇÃO: densa bruma interminable/humareda prolongada
+长照 | TRADUÇÃO: (Taiwán) cuidados a largo plazo (bienestar social, abrev. de 長期照顧|长期照顾)
+长片 | TRADUÇÃO: largometraje
+长牙 | TRADUÇÃO: colmillo/colmillo defensivo de elefante o morsa ‖ echar los dientes/dentición/salirle los dientes a un bebé
+长物 | TRADUÇÃO: (literario) cosas superfluas/posesiones no indispensables para la vida/pronunciación en Taiwán [zhang4 wu4]
+长班 | TRADUÇÃO: (antiguo) criado personal/lacayo
+长生 | TRADUÇÃO: longevidad/vida eterna
+长生不死 | TRADUÇÃO: inmortalidad/vida eterna sin morir jamás
+长生不老 | TRADUÇÃO: juventud y vida eternas (modismo)/vivir para siempre sin envejecer
+长生久视 | TRADUÇÃO: alcanzar la inmortalidad y la juventud perenne (modismo)
+长生果 | TRADUÇÃO: (dialectal) cacahuate/cacahuete/maní
+长生禄位 | TRADUÇÃO: tablilla conmemorativa en honor de una persona aún viva
+长男 | TRADUÇÃO: hijo primogénito/hijo mayor
+长痛不如短痛 | TRADUÇÃO: más vale un dolor corto que un tormento prolongado (modismo)/cortar por lo sano
+长白 | TRADUÇÃO: véase 長白朝鮮族自治縣|长白朝鲜族自治县
+长白山 | TRADUÇÃO: montañas Changbai (monte Paektu 白頭山|白头山, cordillera volcánica entre Jilin y Corea del Norte)
+长白山天池 | TRADUÇÃO: lago Tianchi de la montaña Changbai (lago de cráter en la frontera entre China y Corea del Norte)
+长白朝鲜族自治县 | TRADUÇÃO: Condado Autónomo Coreano de Changbai, en la ciudad de Baishan 白山市, provincia de Jilin
+长白县 | TRADUÇÃO: véase 長白朝鮮族自治縣|长白朝鲜族自治县
+长相 | TRADUÇÃO: apariencia física/facciones/aspecto/semblante
+长相厮守 | TRADUÇÃO: permanecer juntos para siempre (de una pareja) (modismo)/compartir toda la vida
+长相思 | TRADUÇÃO: sauvignon blanc (variedad de uva o vino)
+长眠 | TRADUÇÃO: (eufemismo) descansar en paz eternamente/reposar en la tumba/sueño eterno
+长眼 | TRADUÇÃO: tener ojos/(fig.) fijarse por dónde se va/tener precaución/estar atento
+长矛 | TRADUÇÃO: lanza/pica/chuzo/CL:把,柄
+长知识 | TRADUÇÃO: adquirir conocimientos/aprender cosas nuevas
+长短 | TRADUÇÃO: longitud/accidente; percance/lo correcto y lo incorrecto; pros y contras; méritos y defectos
+长石 | TRADUÇÃO: (mineral.) feldespato
+长空 | TRADUÇÃO: (literario) firmamento inmenso/cielo abierto/(finanzas) perspectiva bajista a largo plazo
+长笛 | TRADUÇÃO: flauta travesera/flauta dulce
+长筒袜 | TRADUÇÃO: medias altas/medias largas hasta el muslo/CL:雙|双
+长筒靴 | TRADUÇÃO: botas altas/botas de caña alta
+长篇 | TRADUÇÃO: extenso/largo (escrito, discurso o informe)
+长篇小说 | TRADUÇÃO: novela/novela extensa
+长篇累牍 | TRADUÇÃO: prolijo y farragoso (de un escrito) (modismo)/texto sumamente extenso y detallado
+长籼 | TRADUÇÃO: arroz de grano largo (arroz índica)
+长统袜 | TRADUÇÃO: medias largas
+长统靴 | TRADUÇÃO: variante de 長筒靴|长筒靴
+长线 | TRADUÇÃO: a largo plazo/línea de larga distancia
+长老 | TRADUÇÃO: anciano/presbítero/tratamiento respetuoso para monje budista veterano
+长老会 | TRADUÇÃO: presbiterianismo/Iglesia presbiteriana
+长者 | TRADUÇÃO: anciano/persona mayor respetable/veterano
+长耳鸮 | TRADUÇÃO: (especie de ave de China) búho chico (Asio otus)
+长肉 | TRADUÇÃO: engordar/subir de peso/ganar masa muscular
+长胖 | TRADUÇÃO: engordar/subir de peso
+长脚秧鸡 | TRADUÇÃO: (especie de ave de China) guión de codornices (Crex crex)
+长臂猿 | TRADUÇÃO: gibón/hilobátidos (familia de primates)
+长脸 | TRADUÇÃO: (coloq.) dar honor a alguien/hacer sentir orgulloso/quedar bien
+长至 | TRADUÇÃO: solsticio de verano
+长兴 | TRADUÇÃO: véase 長興縣|长兴县
+长兴县 | TRADUÇÃO: Changxing, condado de la ciudad de Huzhou 湖州市, provincia de Zhejiang
+长舌 | TRADUÇÃO: chismoso/lengualarga/hablador indiscreto
+长舌妇 | TRADUÇÃO: mujer chismosa/chismosa/criticona
+长草区 | TRADUÇÃO: hierba alta/rough (golf)
+长葛 | TRADUÇÃO: véase 長葛市|长葛市
+长葛市 | TRADUÇÃO: Changge, ciudad a nivel de condado en la ciudad de Xuchang 許昌市|许昌市, provincia de Henan
+长处 | TRADUÇÃO: punto fuerte/virtud/ventaja/cualidad
+长号 | TRADUÇÃO: trombón
+长虹 | TRADUÇÃO: Changhong (marca de electrodomésticos)/arcoíris dilatado
+长蛇座 | TRADUÇÃO: Hidra (constelación)
+长蛇阵 | TRADUÇÃO: formación militar en fila india/(fig.) fila larga/hilera interminable
+长虫 | TRADUÇÃO: (coloq.) culebra/serpiente ‖ llenarse de gusanos o polillas (de comida o libros)
+长衫 | TRADUÇÃO: changshan (túnica larga tradicional masculina china)/cheongsam
+长袍 | TRADUÇÃO: changpao/túnica larga tradicional/hábito/CL:件
+长袖 | TRADUÇÃO: manga larga/prenda de manga larga
+长袖善舞 | TRADUÇÃO: mangas largas facilitan el baile (modismo)/(fig.) tener recursos, dinero o contactos abre todas las puertas
+长裙 | TRADUÇÃO: falda larga/maxifalda
+长裤 | TRADUÇÃO: pantalón largo/pantalones
+长袜 | TRADUÇÃO: medias largas/calcetines altos
+长见识 | TRADUÇÃO: ampliar conocimientos y horizontes/ganar experiencia
+长角羊 | TRADUÇÃO: chirú/antílope tibetano de cuernos largos
+长记性 | TRADUÇÃO: (coloq.) escarmentar/aprender la lección/tener memoria para no repetir errores
+长诗 | TRADUÇÃO: poema largo/poema épico
+长话短说 | TRADUÇÃO: para resumir (modismo)/en pocas palabras/ir al grano/abreviando
+长谈 | TRADUÇÃO: larga conversación/charla prolongada
+长谷川 | TRADUÇÃO: Hasegawa (apellido japonés)
+长丰 | TRADUÇÃO: véase 長豐縣|长丰县
+长丰县 | TRADUÇÃO: Changfeng, condado de la ciudad de Hefei 合肥市, provincia de Anhui
+长赘疣 | TRADUÇÃO: vegetar/formarse excrecencias
+长足 | TRADUÇÃO: a pasos agigantados/notable/considerable (avance o progreso)
+长足进步 | TRADUÇÃO: progreso a pasos agigantados/avance vertiginoso
+长趾滨鹬 | TRADUÇÃO: (especie de ave de China) correlimos dedilargo (Calidris subminuta)
+长跑 | TRADUÇÃO: carrera de fondo/carrera de larga distancia
+长跑运动员 | TRADUÇÃO: corredor de fondo/fondista
+长距离 | TRADUÇÃO: larga distancia/de gran recorrido
+长跪 | TRADUÇÃO: arrodillarse erguido (sin sentarse sobre los talones)
+长辈 | TRADUÇÃO: ancianos de la familia/generación mayor/mayores
+长辈图 | TRADUÇÃO: (jerga de internet) meme de personas mayores/imagen de saludo típica de tíos y abuelos (Taiwán)
+长辔远驭 | TRADUÇÃO: controlar con rienda suelta desde lejos (modismo)/gobernar a distancia con flexibilidad
+长途 | TRADUÇÃO: larga distancia/llamada de larga distancia (abrev. de 長途電話|长途电话)/autobús de larga distancia (abrev. de 長途汽車|长途汽车)
+长途汽车 | TRADUÇÃO: autobús de larga distancia/ómnibus interurbano
+长途话费 | TRADUÇÃO: (telefonía) tarifa de llamada de larga distancia
+长途跋涉 | TRADUÇÃO: larga y fatigosa travesía/caminata extenuante
+长途车 | TRADUÇÃO: autobús interurbano/autobús de larga distancia
+长途电话 | TRADUÇÃO: llamada de larga distancia
+长逝 | TRADUÇÃO: fallecer/pasar a mejor vida/dejar de existir
+长进 | TRADUÇÃO: progresar/hacer progresos/adelanto/mejora
+长达 | TRADUÇÃO: alcanzar una longitud de/llegar a durar hasta/extenderse hasta
+长远 | TRADUÇÃO: a largo plazo/duradero/de largo alcance
+长野 | TRADUÇÃO: Nagano (apellido japonés)/Nagano (prefectura y ciudad de Japón)
+长钉 | TRADUÇÃO: clavo largo/escarpia/espiga
+长针 | TRADUÇÃO: minutero (de reloj)/punto alto (ganchillo)
+长开 | TRADUÇÃO: definirse las facciones con la edad/volverse más agraciado al crecer
+长阳 | TRADUÇÃO: véase 長陽土家族自治縣|长阳土家族自治县
+长阳土家族自治县 | TRADUÇÃO: Condado Autónomo Tujia de Changyang, en la ciudad de Yichang 宜昌市, provincia de Hubei
+长阳县 | TRADUÇÃO: véase 長陽土家族自治縣|长阳土家族自治县
+长队 | TRADUÇÃO: fila larga/cola interminable
+长青 | TRADUÇÃO: (literario) siempre verde/perenne/eterno (amistad, memoria, etc.)
+长靴 | TRADUÇÃO: bota alta/botas
+长顺 | TRADUÇÃO: véase 長順縣|长顺县
+长顺县 | TRADUÇÃO: Changshun, condado de la prefectura autónoma buyi y miao de Qiannan 黔南布依族苗族自治州, provincia de Guizhou
+长颈瓶 | TRADUÇÃO: matraz de cuello largo/redoma
+长颈鹿 | TRADUÇÃO: jirafa/CL:隻|只
+长颈龙 | TRADUÇÃO: Tanystropheus (reptil de cuello largo del Triásico)
+长风破浪 | TRADUÇÃO: cabalgar el viento y cortar las olas (modismo)/(fig.) avanzar con valentía y grandes aspiraciones
+长驱直入 | TRADUÇÃO: penetrar a fondo sin hallar resistencia (modismo)/(militar) avance fulgurante en territorio enemigo
+长高 | TRADUÇÃO: crecer de estatura/hacerse más alto
+长发 | TRADUÇÃO: cabello largo/pelo largo
+长点心眼 | TRADUÇÃO: andarse con cuidado/estar alerta/abrir bien los ojos/ser más precavido
+长鼻猴 | TRADUÇÃO: mono narigudo (Nasalis larvatus)
+长鼻目 | TRADUÇÃO: proboscídeos (orden taxonómico de elefantes y mamuts)
+长龙 | TRADUÇÃO: larga fila/hilera kilométrica (de coches, personas, etc.)
+镸 | TRADUÇÃO: radical "largo" o "crecer" en caracteres chinos (radical Kangxi 168)
+镻 | TRADUÇÃO: serpiente venenosa mencionada en textos antiguos
+门 | TRADUÇÃO: apellido Men ‖ puerta; entrada; portal; abertura (CL:扇)/válvula; interruptor; compuerta/forma de hacer algo; truco; método; vía de acceso/familia; linaje; clan/(forma ligada) secta; escuela; corriente doctrinal/(forma ligada) categoría; división; filo/clasificador para asignaturas, ramas del saber, cañones, parientes políticos, etc./(sufijo) -gate (escándalo)
+门人 | TRADUÇÃO: discípulo/seguidor/allegado
+门冬 | TRADUÇÃO: abrev. de 天門冬|天门冬, espárrago chino
+门到门 | TRADUÇÃO: puerta a puerta (servicio de transporte o entrega)
+门前 | TRADUÇÃO: delante de la puerta/frente a la puerta
+门卡 | TRADUÇÃO: tarjeta de acceso/tarjeta llave
+门口 | TRADUÇÃO: entrada/portal/vano de la puerta/CL:個|个
+门可罗雀 | TRADUÇÃO: pueden cazarse gorriones frente a la puerta (modismo)/(fig.) lugar completamente desierto sin visitantes
+门吸 | TRADUÇÃO: retenedor magnético de puerta/tope de puerta
+门地 | TRADUÇÃO: variante de 門第|门第
+门坎 | TRADUÇÃO: variante de 門檻|门槛
+门坎儿 | TRADUÇÃO: variante con erhua de 門坎|门坎
+门垫 | TRADUÇÃO: felpudo/tapete de entrada
+门墩 | TRADUÇÃO: quicio de piedra/soporte de quicio de puerta tradicional
+门外 | TRADUÇÃO: fuera de la puerta/en el exterior
+门外汉 | TRADUÇÃO: lego/profano/no iniciado
+门子 | TRADUÇÃO: puerta/portero (antiguo)/criado de familia noble/influencia/enchufe/clasificador para parentesco y alianzas matrimoniales
+门客 | TRADUÇÃO: cliente protegido/huésped mantenido por un noble/parásito cortesano
+门将 | TRADUÇÃO: portero/guardameta/arquero (fútbol, hockey, etc.)
+门对 | TRADUÇÃO: dísticos de la puerta/pareado pegado en el marco de la entrada
+门岗 | TRADUÇÃO: puesto de guardia de la puerta/garita de acceso
+门巴 | TRADUÇÃO: etnia monba
+门巴族 | TRADUÇÃO: grupo étnico monba
+门市 | TRADUÇÃO: venta minorista/tienda al por menor/establecimiento de venta directa
+门市部 | TRADUÇÃO: departamento de ventas al por menor/tienda minorista
+门店 | TRADUÇÃO: tienda minorista/sucursal/punto de venta
+门庭如市 | TRADUÇÃO: véase 門庭若市|门庭若市
+门庭若市 | TRADUÇÃO: concurrido como un mercado (modismo)/entrada llena de visitantes y bullicio
+门廊 | TRADUÇÃO: pórtico/zaguán/porche/veranda
+门厅 | TRADUÇÃO: vestíbulo/hall de entrada/recibidor
+门径 | TRADUÇÃO: vía de acceso/método de entrada/introducción a una disciplina
+门徒 | TRADUÇÃO: discípulo/apóstol/seguidor
+门户 | TRADUÇÃO: puerta/portal web/posición social de la familia/falla estratégica/secta o corriente/familia/(antiguo) burdel
+门户之见 | TRADUÇÃO: prejuicio sectario/sectarismo/visión parroquial
+门户网站 | TRADUÇÃO: portal web/portal de internet
+门户开放 | TRADUÇÃO: política de puertas abiertas/política económica Infitah del presidente egipcio Sadat
+门房 | TRADUÇÃO: portería/garita de conserje/portero/conserje
+门扇 | TRADUÇÃO: hoja de la puerta/panel batiente de la puerta
+门把 | TRADUÇÃO: pomo de la puerta/manija/manilla/también pronunciado [men2 ba4]
+门把手 | TRADUÇÃO: pomo de la puerta/manilla/tirador de la puerta
+门捷列夫 | TRADUÇÃO: Dmitri Ivánovich Mendeléyev (1834-1907), químico ruso creador de la tabla periódica
+门挡 | TRADUÇÃO: tope de puerta/retenedor de puerta
+门望 | TRADUÇÃO: prestigio familiar/reputación del linaje
+门柱 | TRADUÇÃO: jamba/poste de la puerta/pilar de acceso
+门栓 | TRADUÇÃO: variante de 門閂|门闩
+门框 | TRADUÇÃO: marco de la puerta
+门楣 | TRADUÇÃO: dintel de la puerta/(fig.) prestigio del linaje familiar
+门槛 | TRADUÇÃO: umbral de la puerta/quicio/(fig.) truco o artimaña/condición de acceso/requisito mínimo
+门洞 | TRADUÇÃO: arco de paso/vano de la puerta/pasadizo del portal
+门派 | TRADUÇÃO: escuela/secta (de artes marciales o doctrina)
+门源 | TRADUÇÃO: véase 門源回族自治縣|门源回族自治县
+门源回族自治县 | TRADUÇÃO: Condado Autónomo Hui de Menyuan, en la prefectura autónoma tibetana de Haibei 海北藏族自治州, provincia de Qinghai
+门源县 | TRADUÇÃO: véase 門源回族自治縣|门源回族自治县
+门牌 | TRADUÇÃO: placa con el número de la casa/número de portal
+门牙 | TRADUÇÃO: diente incisivo/diente de delante/pala
+门球 | TRADUÇÃO: croquet/balón de saque de meta
+门环 | TRADUÇÃO: llamador de aldaba en forma de anillo/aldaba de puerta
+门生 | TRADUÇÃO: discípulo/alumno predilecto de un maestro célebre
+门当户对 | TRADUÇÃO: igualdad de posición social entre familias contrayentes (modismo)/matrimonio entre iguales en estatus
+门碰 | TRADUÇÃO: tope de puerta
+门神 | TRADUÇÃO: dioses de la puerta (deidades protectoras de la entrada en el folclore chino)
+门票 | TRADUÇÃO: entrada/boleto/tique de acceso
+门禁 | TRADUÇÃO: control de acceso/restricción de entrada y salida/toque de queda del edificio
+门禁卡 | TRADUÇÃO: tarjeta de control de acceso/tarjeta magnética de entrada
+门童 | TRADUÇÃO: botones/portero de hotel
+门第 | TRADUÇÃO: estatus social familiar/alcurnia/linaje
+门罗 | TRADUÇÃO: Monroe (nombre)/James Monroe (1758-1831), quinto presidente de EE. UU.
+门罗主义 | TRADUÇÃO: Doctrina Monroe
+门联 | TRADUÇÃO: dísticos de la puerta/pareado vertical para la entrada
+门脸 | TRADUÇÃO: fachada de la tienda/frontis
+门兴格拉德巴赫 | TRADUÇÃO: Mönchengladbach (ciudad de Alemania)
+门萨 | TRADUÇÃO: Mensa (asociación de personas de alto cociente intelectual)
+门号 | TRADUÇÃO: número de puerta/(Taiwán) número de teléfono móvil
+门卫 | TRADUÇÃO: guardia de la entrada/portero de seguridad/centinela
+门诊 | TRADUÇÃO: consulta externa/servicio ambulatorio/atención ambulatoria
+门诊室 | TRADUÇÃO: consultorio médico/sala de consulta externa
+门诊部 | TRADUÇÃO: departamento de consultas externas/área ambulatoria
+门路 | TRADUÇÃO: contactos/enchufe/conducto para lograr algo/método
+门道 | TRADUÇÃO: entrada/vano de la puerta ‖ maña/truco/forma correcta de hacer algo
+门边框 | TRADUÇÃO: marco de puerta/jambas de la puerta
+门扣 | TRADUÇÃO: pestillo de puerta/cerrojo
+门铃 | TRADUÇÃO: timbre de la puerta
+门铰 | TRADUÇÃO: bisagra de puerta
+门锁 | TRADUÇÃO: cerradura de puerta
+门闩 | TRADUÇÃO: cerrojo/tranca de puerta/pestillo
+门阀 | TRADUÇÃO: linaje influyente/clan aristocrático poderoso
+门限 | TRADUÇÃO: umbral de la puerta
+门阶 | TRADUÇÃO: peldaño de la puerta/escalón de entrada
+门面 | TRADUÇÃO: fachada de la tienda/frontispicio/CL:間|间/prestigio/reputación exterior
+门头沟 | TRADUÇÃO: véase 門頭溝區|门头沟区
+门头沟区 | TRADUÇÃO: Mentougou, distrito de Pekín
+门额 | TRADUÇÃO: espacio superior sobre el dintel de la puerta
+门类 | TRADUÇÃO: categoría/clase/género/rama
+门风 | TRADUÇÃO: tradición familiar/normas morales familiares
+门首 | TRADUÇÃO: puerta/umbral/acceso principal
+门齿 | TRADUÇÃO: incisivo/diente incisivo
+闩 | TRADUÇÃO: cerrojo/tranca/atrancar/echar el cerrojo
+闪 | TRADUÇÃO: apellido Shan ‖ esquivar/hacerse a un lado/marcharse precipitadamente/sacudirse por una caída/torcerse/distenderse un músculo/rayo/centella/destello/pasar como un relámpago por la mente/dejar atrás/(jerga de internet) empalagosamente deslumbrante (demostración pública de afecto)
+闪亮 | TRADUÇÃO: brillante/centelleante/resplandecer/brillar/titilar
+闪亮儿 | TRADUÇÃO: variante con erhua de 閃亮|闪亮
+闪人 | TRADUÇÃO: (coloq.) escabullirse/largarse/despedirse a la francesa
+闪光 | TRADUÇÃO: destello/resplandor/destello de luz/brillo
+闪光弹 | TRADUÇÃO: granada cegadora/granada aturdidora/flashbang
+闪光灯 | TRADUÇÃO: flash (fotografía)
+闪光胶 | TRADUÇÃO: pegamento con purpurina/cola con purpurina
+闪光点 | TRADUÇÃO: punto brillante/aspecto destacado/punto crucial
+闪出 | TRADUÇÃO: destellar/aparecer repentinamente/surgir de pronto
+闪动 | TRADUÇÃO: parpadear/titilar/centellear
+闪卡 | TRADUÇÃO: tarjeta de memoria/tarjeta de estudio/flashcard
+闪含语系 | TRADUÇÃO: familia de lenguas afroasiáticas (o camito-semíticas)
+闪回 | TRADUÇÃO: analepsis/retrospección/flashback/tener un flashback
+闪失 | TRADUÇÃO: percance/accidente imprevisto/pérdida accidental
+闪婚 | TRADUÇÃO: casarse precipitadamente al poco tiempo de conocerse (abrev. de 閃電結婚|闪电结婚)
+闪存 | TRADUÇÃO: (informát.) memoria flash
+闪存盘 | TRADUÇÃO: memoria USB/pendrive
+闪射 | TRADUÇÃO: irradiar/destellar/emitir destellos
+闪念 | TRADUÇÃO: ocurrencia repentina/pensamiento fugaz/ráfaga de inspiración
+闪击 | TRADUÇÃO: ataque relámpago/ataque sorpresa fulminante
+闪击战 | TRADUÇÃO: guerra relámpago/Blitzkrieg
+闪族 | TRADUÇÃO: semitas/pueblos semíticos
+闪映 | TRADUÇÃO: proyectarse fugazmente/titilar/relampaguear ante los ojos
+闪灼 | TRADUÇÃO: relucir/centellear/brillar intensamente
+闪熠 | TRADUÇÃO: resplandecer/brillar con fulgor
+闪燃 | TRADUÇÃO: combustión súbita generalizada/flashover
+闪烁 | TRADUÇÃO: titilar/centellear/parpadear/andar con rodeos/ser esquivo
+闪烁其词 | TRADUÇÃO: hablar con evasivas (modismo)/andarse con rodeos/ambiguo
+闪烁体 | TRADUÇÃO: (fís.) centelleador
+闪现 | TRADUÇÃO: aparecer como un destello/surgir fugazmente/relampaguear
+闪痛 | TRADUÇÃO: dolor punzante intermitente/punzada aguda de dolor
+闪眼 | TRADUÇÃO: deslumbrante/encandilar/parpadear
+闪石 | TRADUÇÃO: anfíbol (mineral de silicato)
+闪米特 | TRADUÇÃO: semita/semítico
+闪耀 | TRADUÇÃO: resplandecer/brillar con intensidad/centellear
+闪语 | TRADUÇÃO: lengua semítica/lenguas semíticas
+闪让 | TRADUÇÃO: apartarse con presteza/ceder el paso esquivando
+闪身 | TRADUÇÃO: esquivar el cuerpo con rapidez/hacerse a un lado
+闪躲 | TRADUÇÃO: esquivar/eludir/evadir un golpe o ataque
+闪辉 | TRADUÇÃO: centelleo/centelleamiento
+闪转腾挪 | TRADUÇÃO: moverse ágilmente esquivando y zigzagueando (artes marciales) (modismo)
+闪退 | TRADUÇÃO: cerrarse inesperadamente (una aplicación móvil)/cierre forzoso/cuelgue de app
+闪过 | TRADUÇÃO: cruzar por la mente en un instante/esquivar rápidamente a un perseguidor
+闪避 | TRADUÇÃO: esquivar/evitar/eludir
+闪铄 | TRADUÇÃO: variante de 閃爍|闪烁
+闪闪 | TRADUÇÃO: reluciente/centelleante/brillante/titilante
+闪开 | TRADUÇÃO: apartarse/abrir paso/hacerse a un lado
+闪离 | TRADUÇÃO: divorciarse al poco tiempo de casarse/renunciar al empleo poco después de ingresar
+闪电 | TRADUÇÃO: relámpago/rayo/CL:道
+闪电战 | TRADUÇÃO: guerra relámpago/blitzkrieg
+闪电结婚 | TRADUÇÃO: matrimonio relámpago/casarse de inmediato tras conocerse
+闪露 | TRADUÇÃO: asomar fugazmente/revelar momentáneamente
+闪灵 | TRADUÇÃO: El resplandor (película de Stanley Kubrick basada en la novela de Stephen King)/ChthoniC (banda de heavy metal de Taiwán)
+闪点 | TRADUÇÃO: punto de inflamabilidad (quím.)
+闫 | TRADUÇÃO: apellido Yan
+閇 | TRADUÇÃO: variante antigua de 閉|闭
+闬 | TRADUÇÃO: puerta de aldea/portón de pueblo
+闭 | TRADUÇÃO: cerrar/tapar/obstruir/clausurar
+闭上 | TRADUÇÃO: cerrar/cerrar por completo
+闭上嘴巴 | TRADUÇÃO: ¡cierra la boca!/¡cállate!
+闭元音 | TRADUÇÃO: vocal cerrada
+闭包 | TRADUÇÃO: clausura (mat.)/cierre (informát.)
+闭区间 | TRADUÇÃO: intervalo cerrado (en cálculo y matemáticas)
+闭卷考试 | TRADUÇÃO: examen a libro cerrado
+闭口不言 | TRADUÇÃO: guardar silencio absoluto (modismo)/mantener la boca cerrada/no decir ni una palabra
+闭口不谈 | TRADUÇÃO: negarse a hablar sobre algo (modismo)/guardar estricto silencio/evitar mencionar
+闭合 | TRADUÇÃO: cerrarse uniéndose (como los bordes de una herida o puertas)/cerrarse en bucle (como un circuito eléctrico)/de bucle cerrado
+闭嘴 | TRADUÇÃO: ¡cállate!/¡cierra la boca!/mismo que 閉上嘴巴|闭上嘴巴
+闭域 | TRADUÇÃO: dominio cerrado/cuerpo algebraicamente cerrado (mat.)
+闭塞 | TRADUÇÃO: obstruido/inaccesible/aislado/de mente cerrada/bloqueado
+闭塞眼睛捉麻雀 | TRADUÇÃO: atrapar gorriones con los ojos vendados (modismo)/(fig.) actuar a ciegas sin conocer la realidad
+闭子集 | TRADUÇÃO: subconjunto cerrado (mat.)
+闭幕 | TRADUÇÃO: caer el telón/clausurarse (un evento o conferencia)/concluir
+闭幕式 | TRADUÇÃO: ceremonia de clausura
+闭幕词 | TRADUÇÃO: discurso de clausura
+闭会 | TRADUÇÃO: clausurar una sesión o asamblea/cerrar una reunión
+闭会祈祷 | TRADUÇÃO: bendición final/oración de clausura
+闭月羞花 | TRADUÇÃO: eclipsar a la luna y avergonzar a las flores (modismo)/(fig.) belleza femenina deslumbrante
+闭壳肌 | TRADUÇÃO: músculo aductor (de molusco bivalvo)
+闭源 | TRADUÇÃO: (informát.) de código cerrado/software privativo
+闭环 | TRADUÇÃO: bucle cerrado/circuito cerrado/lazo cerrado
+闭目塞听 | TRADUÇÃO: cerrar ojos y taparse oídos (modismo)/hacer oídos sordos/desconectarse de la realidad/esconder la cabeza bajo el ala
+闭目养神 | TRADUÇÃO: cerrar los ojos para descansar la mente/relajarse con los ojos cerrados
+闭经 | TRADUÇÃO: amenorrea
+闭着 | TRADUÇÃO: cerrado/cerrando
+闭起 | TRADUÇÃO: cerrar
+闭路电视 | TRADUÇÃO: circuito cerrado de televisión/CCTV
+闭锁 | TRADUÇÃO: trabar/bloquear/cerrar con pestillo o cerrojo
+闭锁期 | TRADUÇÃO: período de bloqueo/período de indisponibilidad (de acciones u opciones financieras)
+闭门 | TRADUÇÃO: cerrar la puerta
+闭门塞窦 | TRADUÇÃO: cerrar puertas y tapar hendiduras (modismo)/montar una defensa hermética
+闭门思过 | TRADUÇÃO: encerrarse a reflexionar sobre los propios errores (modismo)/hacer examen de conciencia
+闭门会议 | TRADUÇÃO: reunión a puerta cerrada
+闭门羹 | TRADUÇÃO: (fig.) portazo en las narices/rechazo tajante/negar la entrada
+闭门觅句 | TRADUÇÃO: encerrarse a buscar el verso perfecto (modismo)/(fig.) consagrarse arduamente a la creación literaria
+闭门造车 | TRADUÇÃO: encerrarse a construir un carro (modismo)/(fig.) trabajar aislado sin tener en cuenta la realidad externa/actuar sin consultar el contexto práctico
+闭关 | TRADUÇÃO: cerrar los pasos fronterizos/aislar el país del exterior/retiro espiritual en reclusión (práctica monástica, ej. budismo chan)
+闭关政策 | TRADUÇÃO: política de aislamiento/política de clausura fronteriza
+闭关自守 | TRADUÇÃO: aislarse del comercio y las relaciones internacionales (modismo)/mantenerse en autarquía hermética
+闭关锁国 | TRADUÇÃO: cerrar las fronteras y clausurar el país (modismo)/aislar una nación de todo contacto con el exterior
+闭集 | TRADUÇÃO: conjunto cerrado (mat.)
+闭音节 | TRADUÇÃO: sílaba cerrada
+闭馆 | TRADUÇÃO: cerrar (un museo, biblioteca o recinto de exhibición)/estar cerrado al público
+闭麦 | TRADUÇÃO: silenciar el micrófono/(fig.) callarse la boca/quedarse en silencio
+开 | TRADUÇÃO: abrir/poner en marcha/arrancar (barcos, vehículos, tropas)/encender; accionar; hacer funcionar; operar/hervir/extender; expedir (receta, cheque, factura, etc.)/(complemento direccional) alejándose; apartándose/quilate (oro)/abrev. de Kelvin, 開爾文|开尔文/abrev. de formato editorial de pliego, 開本|开本
+开三次方 | TRADUÇÃO: (mat.) extraer la raíz cúbica
+开交 | TRADUÇÃO: concluir/dar fin (usado casi siempre en construcciones negativas como 不可开交: imposible de terminar/sin parar)
+开仗 | TRADUÇÃO: entrar en combate/iniciar las hostilidades bélicas
+开伙 | TRADUÇÃO: comenzar a suministrar comidas/abrir el servicio de comedor o rancho
+开伯尔 | TRADUÇÃO: Jaiber (provincia de Jaiber Pastunjuá de Pakistán)
+开伯尔山口 | TRADUÇÃO: paso de Jaiber (entre Pakistán y Afganistán)
+开例 | TRADUÇÃO: sentar un precedente
+开倒车 | TRADUÇÃO: dar marcha atrás/(fig.) retroceder en el progreso/involucionar/dar pasos atrás
+开价 | TRADUÇÃO: cotizar un precio/oferta inicial del vendedor/pedir un precio
+开元 | TRADUÇÃO: Kaiyuan (era de reinado del emperador Xuanzong de la dinastía Tang 唐玄宗, 713-741, cúspide de prosperidad Tang)
+开先 | TRADUÇÃO: al principio/inicialmente
+开光 | TRADUÇÃO: ceremonia de consagración de una estatua religiosa abriendo sus ojos (budismo)/consagrar/bendecir/transparente/translúcido/corte de pelo/afeitarse cabeza o barba (humorístico)/método de decoración/primera luz (astronomía)
+开具 | TRADUÇÃO: redactar/extender/expedir (un documento, factura o certificado)
+开冻 | TRADUÇÃO: descongelarse/deshielo
+开刀 | TRADUÇÃO: operar quirúrgicamente/someterse a una operación quirúrgica/decapitar/escoger como primer blanco de ataque
+开刃 | TRADUÇÃO: afilar la hoja (de cuchillo, espada o tijeras)/sacar filo
+开列 | TRADUÇÃO: enumerar/hacer una lista de/hacer constar en lista
+开初 | TRADUÇÃO: al principio/al comienzo/al inicio
+开创 | TRADUÇÃO: iniciar/fundar/crear/abrir camino a
+开创性 | TRADUÇÃO: innovador/pionero/revolucionario
+开动 | TRADUÇÃO: poner en marcha/arrancar/ponerse en movimiento/marchar/hincarle el diente a la comida/empezar a comer con ganas
+开化 | TRADUÇÃO: civilizarse/volverse de mente abierta/deshelarse (el hielo)
+开化县 | TRADUÇÃO: Kaihua, condado de la ciudad de Quzhou 衢州市, provincia de Zhejiang
+开区间 | TRADUÇÃO: intervalo abierto (en cálculo y matemáticas)
+开印 | TRADUÇÃO: comenzar la tirada de imprenta/iniciar la impresión
+开卷 | TRADUÇÃO: abrir un libro/a libro abierto (examen)
+开卷有益 | TRADUÇÃO: abrir un libro siempre reporta provecho (modismo)/la lectura siempre aporta beneficios
+开原 | TRADUÇÃO: véase 開原市|开原市
+开原市 | TRADUÇÃO: Kaiyuan, ciudad a nivel de condado en la ciudad de Tieling 鐵嶺市|铁岭市, provincia de Liaoning
+开口 | TRADUÇÃO: abrir la boca/empezar a hablar
+开口子 | TRADUÇÃO: romperse un dique/(fig.) abrir una brecha/abrir la veda/dar facilidades (para abusos o irregularidades)
+开口成脏 | TRADUÇÃO: (jerga de internet) soltar palabrotas en cuanto se abre la boca/lenguaje soez (juego de palabras con 出口成章)
+开司米 | TRADUÇÃO: cachemira/cachemir (préstamo)
+开吃 | TRADUÇÃO: empezar a comer
+开合 | TRADUÇÃO: abrir y cerrar/apertura y cierre
+开味 | TRADUÇÃO: abrir el apetito/estimular el apetito
+开启 | TRADUÇÃO: iniciar; abrir; comenzar (una era, proceso, viaje, etc.)/(informát.) habilitar; activar (una función)/ponerse en funcionamiento automáticamente; autoactivarse/abrir (algo sellado o cerrado)
+开单 | TRADUÇÃO: facturar/emitir una factura/abrir una cuenta o recibo
+开国 | TRADUÇÃO: fundar un Estado/abrir un país al exterior
+开国元勋 | TRADUÇÃO: variante de 開國元勳|开国元勋, prócer de la patria/padre fundador (de un país o dinastía)/(fig.) fundador de una institución, empresa o escuela ‖ prócer fundador/padre fundador (de una nación o dinastía)/(fig.) fundador de empresa o escuela
+开国功臣 | TRADUÇÃO: ministro o general benemérito en la fundación de una dinastía o Estado
+开地 | TRADUÇÃO: desbrozar tierras para el cultivo/abrir terrenos
+开城 | TRADUÇÃO: Kaesong o Gaeseong (ciudad en el suroeste de Corea del Norte, sede de una zona económica especial)
+开城市 | TRADUÇÃO: Kaesong o Gaeseong (ciudad en el suroeste de Corea del Norte, sede de una zona económica especial)
+开埠 | TRADUÇÃO: abrir un puerto al comercio/abrir puertos de tratado
+开堂 | TRADUÇÃO: abrir la sesión del tribunal/instalar una capilla ardiente funeraria
+开场 | TRADUÇÃO: comenzar/iniciar/dar comienzo/inicio de un espectáculo o evento
+开场白 | TRADUÇÃO: prólogo teatral/palabras de apertura/introducción preliminar
+开塞露 | TRADUÇÃO: enema de glicerina/supositorio de glicerina para el estreñimiento
+开垦 | TRADUÇÃO: roturar tierras/desbrozar terrenos incultos/poner en cultivo
+开士米 | TRADUÇÃO: cachemira/cachemir (préstamo)
+开壶 | TRADUÇÃO: tetera de agua hirviendo/romper a hervir el agua
+开外 | TRADUÇÃO: por encima de (una cantidad)/más de/más allá de
+开外挂 | TRADUÇÃO: véase 開掛|开挂
+开夜车 | TRADUÇÃO: trabajar hasta altas horas de la noche/quemarse las pestañas/trasnochar trabajando
+开大油门 | TRADUÇÃO: acelerar a fondo/abrir gas/dar rienda suelta
+开天窗 | TRADUÇÃO: dejar un espacio en blanco en la prensa como señal de censura
+开天辟地 | TRADUÇÃO: separar el cielo y la tierra (alusión al mito de la creación de Pangu 盤古|盘古) (modismo)/(fig.) sin precedentes históricos/evento fundacional/el comienzo de una nueva era
+开始 | TRADUÇÃO: comenzar/iniciar/empezar/principio/inicio/inicial/CL:個|个
+开学 | TRADUÇÃO: empezar las clases/comenzar el curso escolar o semestre/(antiguo) fundar una escuela/inicio de curso
+开宗明义 | TRADUÇÃO: declarar el propósito desde el principio (modismo)/exponer el tema principal al comenzar
+开封 | TRADUÇÃO: véase 開封市|开封市 ‖ abrir (algo sellado o precintado)/abrir un sobre
+开封市 | TRADUÇÃO: Kaifeng, ciudad-prefectura en la provincia de Henan 河南省
+开封府 | TRADUÇÃO: prefectura de Kaifeng (capital de la dinastía Song del Norte)
+开导 | TRADUÇÃO: aconsejar/hacer entrar en razón/esclarecer/persuadir
+开小差 | TRADUÇÃO: distraerse/estar distraído o ausente/desertar del ejército/ausentarse sin permiso (AWOL)
+开小会 | TRADUÇÃO: cuchichear y charlar en voz baja durante una reunión o clase
+开小灶 | TRADUÇÃO: dar trato preferencial/dar atención especial o clases particulares de apoyo
+开局 | TRADUÇÃO: apertura (en ajedrez, etc.)/fase inicial de una partida, proyecto o actividad
+开屏 | TRADUÇÃO: desplegar la cola (el pavo real)
+开展 | TRADUÇÃO: desplegar/desarrollar/poner en marcha/inaugurarse (una exposición)
+开山 | TRADUÇÃO: abrir caminos o canteras en la montaña/fundar un monasterio budista o taoísta
+开山刀 | TRADUÇÃO: machete/cuchillo de monte
+开山祖师 | TRADUÇÃO: maestro fundador de un monasterio o escuela/fundador/iniciador
+开山鼻祖 | TRADUÇÃO: fundador originario/padre iniciador de una escuela o disciplina
+开州 | TRADUÇÃO: véase 開州區|开州区
+开州区 | TRADUÇÃO: Kaizhou, distrito de Chongqing 重慶|重庆
+开工 | TRADUÇÃO: comenzar las obras o faenas/iniciar la producción o construcción
+开市 | TRADUÇÃO: abrir el mercado para transacciones comerciales/comenzar la sesión bursátil/primera venta del día
+开市客 | TRADUÇÃO: Costco (cadena de hipermercados de venta al por mayor)
+开幕 | TRADUÇÃO: inaugurar/abrirse (un congreso, festival o asamblea)
+开幕典礼 | TRADUÇÃO: ceremonia de apertura/ceremonia inaugural
+开幕式 | TRADUÇÃO: ceremonia de inauguración/ceremonia de apertura
+开幕词 | TRADUÇÃO: discurso inaugural/palabras de apertura
+开平 | TRADUÇÃO: véase 開平市|开平市/véase 開平區|开平区
+开平区 | TRADUÇÃO: Kaiping, distrito de la ciudad de Tangshan 唐山市, provincia de Hebei
+开平市 | TRADUÇÃO: Kaiping, ciudad a nivel de condado en la ciudad de Jiangmen 江門市|江门市, provincia de Cantón
+开年 | TRADUÇÃO: comienzo de año/inicios de año
+开店 | TRADUÇÃO: abrir una tienda o negocio
+开庭 | TRADUÇÃO: abrir la sesión judicial/constituir el tribunal/iniciar la vista
+开弓 | TRADUÇÃO: tensar el arco/tirar de la cuerda del arco
+开弓不放箭 | TRADUÇÃO: tensar el arco sin disparar la flecha (modismo)/(fig.) amagar y no dar/fanfarronear sin actuar/pura bravuconada
+开弓没有回头箭 | TRADUÇÃO: una vez disparada la flecha no hay marcha atrás (modismo)/(fig.) lo comenzado no tiene vuelta atrás/hay que llevar a término lo empezado a pesar de las dificultades
+开吊 | TRADUÇÃO: celebrar un funeral/realizar un servicio conmemorativo
+开张 | TRADUÇÃO: inaugurar un negocio/abrir al público/primera venta de la jornada comercial

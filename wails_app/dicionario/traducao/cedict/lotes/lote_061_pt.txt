@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+球 | TRADUÇÃO: bola usada em jogos (variante de 球) ‖ bola/esfera/globo/CL:個|个/jogo de bola/partida/CL:場|场
+毯 | TRADUÇÃO: cobertor/tapete
+毯子 | TRADUÇÃO: cobertor/CL:條|条,張|张,床,面
+毳 | TRADUÇÃO: crocante/quebradiço/pelo fino de animal
+毴 | TRADUÇÃO: variante antiga de 屄
+毷 | TRADUÇÃO: inquieto
+毹 | TRADUÇÃO: tapete
+毽 | TRADUÇÃO: volante (peteca)
+毽子 | TRADUÇÃO: peteca (usada em jogos onde é mantida no ar sem usar as mãos, principalmente chutando)/jogo jogado com essa peteca
+毾 | TRADUÇÃO: sarja grossa de lã
+毵 | TRADUÇÃO: de pelo comprido/desgrenhado
+牦 | TRADUÇÃO: iaque (Bos grunniens)
+牦牛 | TRADUÇÃO: iaque (Bos grunniens)
+氄 | TRADUÇÃO: penugem ou pelo fino
+氅 | TRADUÇÃO: sobretudo
+氆 | TRADUÇÃO: usado em 氆氌|氆氇
+氆氇 | TRADUÇÃO: tecido de lã feito no Tibete
+毡 | TRADUÇÃO: feltro (tecido) ‖ variante de 氈|毡
+毡子 | TRADUÇÃO: feltro (tecido)/CL:塊|块
+毡房 | TRADUÇÃO: tenda (iurta)
+毡靴 | TRADUÇÃO: botas de feltro/valenki (calçado tradicional russo)
+氉 | TRADUÇÃO: inquieto, melancólico
+氇 | TRADUÇÃO: usado em 氆氌|氆氇
+氍 | TRADUÇÃO: tapete de lã
+氏 | TRADUÇÃO: (forma presa) nome de família; sobrenome (como em 王氏 "clã Wang")/(forma presa) nome de solteira; de solteira (como em 李王氏 "Sra. Li, de solteira Wang")/(forma presa) sufixo honorífico adicionado ao sobrenome ou nome completo de uma pessoa notável, especialmente figuras históricas ou acadêmicas ‖ usado em 月氏/usado em 閼氏|阏氏
+氏族 | TRADUÇÃO: clã
+氐 | TRADUÇÃO: nome de uma tribo antiga ‖ fundamento/em geral
+民 | TRADUÇÃO: sobrenome Min ‖ (forma presa) o povo/habitantes de um país
+民不聊生 | TRADUÇÃO: (expressão idiomática) o povo não tem como ganhar a vida (de Registros do Historiador 史記|史记)
+民主 | TRADUÇÃO: democracia/democrático
+民主主义 | TRADUÇÃO: democracia (como ideologia)
+民主主义者 | TRADUÇÃO: democrata
+民主化 | TRADUÇÃO: converter-se à democracia; transformação democrática
+民主建港协进联盟 | TRADUÇÃO: Aliança Democrática pelo Avanço e Progresso de Hong Kong (DAB), partido político pró-Pequim em Hong Kong
+民主政治 | TRADUÇÃO: democracia (como sistema de governo)
+民主派 | TRADUÇÃO: (política de Hong Kong) o campo pró-democracia (fundado em 1987), também conhecido como pan-democratas
+民主墙 | TRADUÇÃO: Muro da Democracia, Pequim (1978-1979), e murais inspirados por ele, em algumas universidades de Hong Kong
+民主进步党 | TRADUÇÃO: DPP (Partido Democrático Progressista, Taiwan)/abrev. para 民進黨|民进党
+民主集中制 | TRADUÇÃO: centralismo democrático
+民主革命 | TRADUÇÃO: revolução democrática/revolução burguesa (na teoria marxista-leninista, um prelúdio para a revolução proletária)
+民主党 | TRADUÇÃO: Partido Democrata/Partido Democrático
+民主党人 | TRADUÇÃO: Democrata (membro ou apoiador do Partido Democrata)
+民事 | TRADUÇÃO: caso civil/assuntos agrícolas/cível
+民事诉讼 | TRADUÇÃO: ação civil comum/apelação civil (em oposição a caso criminal)
+民事责任 | TRADUÇÃO: responsabilidade civil (direito)
+民以食为天 | TRADUÇÃO: O povo considera a comida como o mais importante. (expressão idiomática); As pessoas veem a comida como a necessidade primária./Comida primeiro, considerações éticas depois
+民企 | TRADUÇÃO: empresa privada (abrev. para 民營企業|民营企业)
+民俗 | TRADUÇÃO: costume popular
+民俗学 | TRADUÇÃO: folclore
+民兵 | TRADUÇÃO: milícia popular/milícia/miliciano
+民勤 | TRADUÇÃO: ver 民勤縣|民勤县
+民勤县 | TRADUÇÃO: Minqin, um condado na cidade de Wuwei 武威市, Gansu
+民和 | TRADUÇÃO: ver 民和回族土族自治縣|民和回族土族自治县
+民和回族土族自治县 | TRADUÇÃO: Condado Autônomo Hui e Tu de Minhe, na cidade de Haidong 海東市|海东市, Qinghai
+民和县 | TRADUÇÃO: ver 民和回族土族自治縣|民和回族土族自治县
+民品 | TRADUÇÃO: produto para uso civil
+民国 | TRADUÇÃO: República da China (1912-1949)/usado em Taiwan como nome da era do calendário (ex.: 民國六十年|民国六十年 é 1971, o 60º ano após 1911)
+民国通俗演义 | TRADUÇÃO: História Dramatizada da China Republicana até 1927 por Cai Dongfan 蔡東藩|蔡东藩, e capítulos posteriores por Xu Qinfu 許廑父|许廑父
+民团 | TRADUÇÃO: corpo civil/milícia
+民女 | TRADUÇÃO: mulher de família comum
+民宅 | TRADUÇÃO: residência particular; moradia civil
+民家 | TRADUÇÃO: minka/casa de plebeu/etnia Bai
+民宿 | TRADUÇÃO: (empréstimo ortográfico do japonês 民宿 "minshuku") propriedade alugada via Airbnb ou plataforma similar; pousada; bed-and-breakfast; hospedagem domiciliar; pensão
+民居 | TRADUÇÃO: casas/lar
+民工 | TRADUÇÃO: trabalhador migrante (que se mudou de uma área rural da China para uma cidade para trabalhar)/trabalhador temporário recrutado para um projeto público
+民庭 | TRADUÇÃO: tribunal cível
+民建联 | TRADUÇÃO: Aliança Democrática pelo Avanço e Progresso de Hong Kong (DAB), partido político pró-Pequim em Hong Kong (abrev. para 民主建港協進聯盟|民主建港协进联盟)
+民心 | TRADUÇÃO: sentimento popular
+民怨 | TRADUÇÃO: queixa popular/reclamações do povo
+民怨沸腾 | TRADUÇÃO: descontentamento fervilhante (expressão idiomática); queixas populares transbordam
+民怨鼎沸 | TRADUÇÃO: descontentamento fervilhante (expressão idiomática); queixas populares transbordam
+民情 | TRADUÇÃO: circunstâncias do povo/sentimento popular/o humor do povo/costumes populares
+民意 | TRADUÇÃO: opinião pública/vontade popular/vontade pública
+民意测验 | TRADUÇÃO: pesquisa de opinião
+民意调查 | TRADUÇÃO: pesquisa de opinião
+民愤 | TRADUÇÃO: indignação pública
+民房 | TRADUÇÃO: casa particular
+民政 | TRADUÇÃO: administração civil
+民政局 | TRADUÇÃO: Secretaria Municipal de Assuntos Civis/Bureau de Assuntos Civis
+民政厅 | TRADUÇÃO: departamento provincial de assuntos civis
+民政部 | TRADUÇÃO: Ministério de Assuntos Civis (MAC) da RPC
+民数记 | TRADUÇÃO: Livro dos Números/Quarto Livro de Moisés
+民族 | TRADUÇÃO: nacionalidade; grupo étnico
+民族主义 | TRADUÇÃO: nacionalismo/autodeterminação nacional/princípio do nacionalismo, o primeiro dos Três Princípios do Povo 三民主義|三民主义 do Dr. Sun Yat-sen 孫中山|孙中山 (na época, significando paridade entre a China e as grandes potências)/racismo
+民族主义情绪 | TRADUÇÃO: sentimentos nacionalistas/sentimento nacionalista
+民族团结 | TRADUÇÃO: unidade nacional
+民族大学 | TRADUÇÃO: Universidade para Nacionalidades (universidade de estudos étnicos)
+民族大迁徙 | TRADUÇÃO: grande migração de povos
+民族学 | TRADUÇÃO: etnologia/antropologia
+民族工业 | TRADUÇÃO: indústria nacional/indústria operada por cidadãos chineses ou chineses étnicos
+民族平等 | TRADUÇÃO: igualdade de grupos étnicos
+民族志 | TRADUÇÃO: etnografia
+民族社会主义 | TRADUÇÃO: nacional-socialismo/nazismo
+民族自决 | TRADUÇÃO: autodeterminação
+民族舞蹈 | TRADUÇÃO: dança folclórica
+民族英雄 | TRADUÇÃO: herói nacional
+民族杂居地区 | TRADUÇÃO: área de etnia mista
+民乐 | TRADUÇÃO: ver 民樂縣|民乐县 ‖ música folclórica, especialmente para instrumentos tradicionais
+民乐县 | TRADUÇÃO: Minle, um condado na cidade de Zhangye 張掖市|张掖市, Gansu
+民权 | TRADUÇÃO: ver 民權縣|民权县 ‖ liberdades civis
+民权主义 | TRADUÇÃO: democracia/direitos civis/princípio da democracia, o segundo dos Três Princípios do Povo de Sun Yat-sen 孫中山|孙中山 三民主義|三民主义 (na época, significava ampla participação popular nos assuntos de Estado)
+民权县 | TRADUÇÃO: Minquan, um condado na cidade de Shangqiu 商丘市, Henan
+民歌 | TRADUÇÃO: canção folclórica/CL:支,首
+民歌手 | TRADUÇÃO: cantor(a) folclórico(a)
+民法 | TRADUÇÃO: direito civil
+民法典 | TRADUÇÃO: código civil
+民营 | TRADUÇÃO: administrado privadamente (i.e., por uma empresa, não pelo Estado)
+民营企业 | TRADUÇÃO: empresa privada
+民营化 | TRADUÇÃO: privatização
+民爆 | TRADUÇÃO: explosivos civis
+民生 | TRADUÇÃO: subsistência do povo/bem-estar do povo
+民生主义 | TRADUÇÃO: princípio da subsistência do povo, o terceiro dos Três Princípios do Povo de Sun Yat-sen 孫中山|孙中山 三民主義|三民主义 (na época, significava redistribuição de riqueza, autossuficiência e comércio interno)
+民生凋敝 | TRADUÇÃO: a subsistência do povo está reduzida à miséria (expressão idiomática); um período de fome e empobrecimento
+民用 | TRADUÇÃO: (para) uso civil
+民盟 | TRADUÇÃO: Liga Democrática da China, um dos oito partidos políticos legalmente reconhecidos não pertencentes ao PCC na China (abrev. de 中國民主同盟|中国民主同盟)
+民众 | TRADUÇÃO: o povo; as massas; as pessoas comuns
+民科 | TRADUÇÃO: pseudocientista/charlatão/nefelibata (abrev. de 民間科學家|民间科学家)
+民穷财尽 | TRADUÇÃO: o povo está empobrecido, seus meios esgotados (expressão idiomática); levar a nação à falência
+民答那峨海 | TRADUÇÃO: Mar de Mindanau
+民粹主义 | TRADUÇÃO: populismo
+民粹派 | TRADUÇÃO: os narodniks, grupo populista russo do século XIX
+民脂民膏 | TRADUÇÃO: lit. a gordura e a riqueza do povo (expressão idiomática); a dura riqueza conquistada pela nação (especialmente como objeto de exploração sem escrúpulos)/o suor, sangue e lágrimas do povo
+民航 | TRADUÇÃO: aviação civil
+民航班机 | TRADUÇÃO: aeronave civil/voo comercial
+民调 | TRADUÇÃO: pesquisa de opinião
+民谚 | TRADUÇÃO: ditado popular/provérbio
+民谣 | TRADUÇÃO: balada/canção folclórica
+民警 | TRADUÇÃO: polícia civil/polícia da RPC/abrev. de 人民警察
+民变 | TRADUÇÃO: levante popular/revolta popular/comoção civil
+民变峰起 | TRADUÇÃO: descontentamento fervilhante (expressão idiomática); queixas populares generalizadas
+民丰 | TRADUÇÃO: ver 民豐縣|民丰县
+民丰县 | TRADUÇÃO: Niya, um condado na cidade de Hotan 和田市, Xinjiang
+民资 | TRADUÇÃO: capital privado
+民贼独夫 | TRADUÇÃO: tirano e opressor do povo (expressão idiomática); ditador traidor
+民办 | TRADUÇÃO: administrado pela população local/operado privadamente
+民进 | TRADUÇÃO: Associação Chinesa para a Promoção da Democracia (abrev. de 中國民主促進會|中国民主促进会)
+民进党 | TRADUÇÃO: DPP (Partido Progressista Democrático, Taiwan)/abrev. de 民主進步黨|民主进步党
+民运 | TRADUÇÃO: transporte civil/movimento voltado para as massas/movimento pela democracia (abrev.)
+民选 | TRADUÇÃO: eleito democraticamente
+民间 | TRADUÇÃO: entre o povo/popular/folclórico/não governamental/envolvendo pessoas em vez de governos
+民间传说 | TRADUÇÃO: tradição popular/lenda folclórica
+民间故事 | TRADUÇÃO: história popular/conto folclórico
+民间组织 | TRADUÇÃO: associação/organização/organização humanitária/ONG
+民间习俗 | TRADUÇÃO: costumes folclóricos
+民间舞 | TRADUÇÃO: dança folclórica
+民间舞蹈 | TRADUÇÃO: dança folclórica
+民间艺术 | TRADUÇÃO: arte folclórica
+民间音乐 | TRADUÇÃO: música folclórica
+民防 | TRADUÇÃO: defesa civil
+民雄 | TRADUÇÃO: Minxiong ou Minhsiung, município no condado de Chiayi 嘉義縣|嘉义县, oeste de Taiwan
+民雄乡 | TRADUÇÃO: Minxiong ou Minhsiung, município no condado de Chiayi 嘉義縣|嘉义县, oeste de Taiwan
+民风 | TRADUÇÃO: costumes populares/tradições populares/o caráter do povo de uma nação (ou região etc.)
+氓 | TRADUÇÃO: usado em 流氓 ‖ (literário) povo comum
+氕 | TRADUÇÃO: prótio 1H/hidrogênio leve, o isótopo mais comum do hidrogênio, sem nêutron, portanto peso atômico 1
+氖 | TRADUÇÃO: neônio (química)
+氘 | TRADUÇÃO: deutério 2H/hidrogênio pesado, isótopo do hidrogênio com 1 nêutron em seu núcleo, portanto peso atômico 2
+氘核 | TRADUÇÃO: dêuteron
+氙 | TRADUÇÃO: xenônio (química)
+氚 | TRADUÇÃO: (química) trítio
+氛 | TRADUÇÃO: miasma/vapor
+氛围 | TRADUÇÃO: ambiente; atmosfera
+氛围编程 | TRADUÇÃO: (computação) vibe coding
+氜 | TRADUÇÃO: nome antigo para 氦, hélio ‖ variante antiga de 陽|阳
+氝 | TRADUÇÃO: neônio Ne (química) (agora escrito 氖)
+氟 | TRADUÇÃO: flúor (química)
+氟利昂 | TRADUÇÃO: freon (química)
+氟化 | TRADUÇÃO: fluoretação/fluoração
+氟化氢 | TRADUÇÃO: ácido fluorídrico
+氟化物 | TRADUÇÃO: fluoreto
+氟石 | TRADUÇÃO: fluorita CaF2/espatoflúor/fluor
+氟硅酸 | TRADUÇÃO: ácido fluossilícico H2SiF6/fluossilicato
+氟骨病 | TRADUÇÃO: ver 氟骨症
+氟骨症 | TRADUÇÃO: osteofluorose/fluorose esquelética
+氠 | TRADUÇÃO: xenônio (química) (antigo)
+氡 | TRADUÇÃO: radônio (química)
+气 | TRADUÇÃO: gás; ar/cheiro/tempo (clima)/irritar; aborrecer; ficar com raiva/energia vital; qi
+气不公 | TRADUÇÃO: indignado
+气不平 | TRADUÇÃO: irritado com injustiça
+气不忿儿 | TRADUÇÃO: furioso/indignado
+气不过 | TRADUÇÃO: tão irritado que é insuportável/amargurado por queixas insuportáveis
+气人 | TRADUÇÃO: irritar/aborrecer
+气候 | TRADUÇÃO: (meteorologia) clima/(fig.) clima; condições predominantes (nos assuntos humanos)
+气候学 | TRADUÇÃO: climatologia
+气候学家 | TRADUÇÃO: um(a) climatologista
+气候暖化 | TRADUÇÃO: aquecimento climático
+气候状况 | TRADUÇÃO: condições climáticas/condições atmosféricas
+气候变化 | TRADUÇÃO: mudança climática
+气冷式反应堆 | TRADUÇÃO: reator resfriado a gás
+气凝胶 | TRADUÇÃO: aerogel
+气切 | TRADUÇÃO: (medicina) traqueotomia (abrev. de 氣管切開術|气管切开术)
+气力 | TRADUÇÃO: força/energia/vigor/talento
+气功 | TRADUÇÃO: qigong, um sistema tradicional chinês de cultivo da energia vital 氣|气 através de respiração coordenada, movimento e meditação
+气动 | TRADUÇÃO: pneumático
+气动噪声 | TRADUÇÃO: ruído aerodinâmico
+气动式 | TRADUÇÃO: pneumático
+气动控制 | TRADUÇÃO: controle pneumático
+气动泵 | TRADUÇÃO: bomba pneumática
+气动葫芦 | TRADUÇÃO: polia de guincho pneumático
+气动开关 | TRADUÇÃO: interruptor pneumático
+气动闸 | TRADUÇÃO: freio pneumático
+气势 | TRADUÇÃO: porte imponente/majestade/grandeza/energia (em gestos ou olhar)/vigor
+气势凌人 | TRADUÇÃO: arrogante e autoritário
+气势宏伟 | TRADUÇÃO: imponente/majestoso
+气势汹汹 | TRADUÇÃO: agressivo/belicoso/arrogante
+气包子 | TRADUÇÃO: pessoa de pavio curto
+气化 | TRADUÇÃO: vaporizar/evaporação/carburação/transformação da energia vital (氣|气 na MTC, transformação do sopro yin yang)/ensurdecimento de consoante sonora
+气口 | TRADUÇÃO: local no pulso sobre a artéria radial onde o pulso é medido na MTC
+气吁吁 | TRADUÇÃO: ofegante/ofegar
+气味 | TRADUÇÃO: odor; cheiro
+气呼呼 | TRADUÇÃO: bufando de raiva
+气咻咻 | TRADUÇÃO: ofegante/ofegar
+气哼哼 | TRADUÇÃO: enfurecido/furioso/irado
+气喘 | TRADUÇÃO: ofegar/asma
+气喘吁吁 | TRADUÇÃO: ofegante/ofegar
+气喘喘 | TRADUÇÃO: sem fôlego
+气喘如牛 | TRADUÇÃO: respirar pesadamente como um boi (expressão idiomática)/bufar e soprar
+气喘病 | TRADUÇÃO: asma
+气囊 | TRADUÇÃO: saco aéreo/balão de gás de aeróstato
+气圈 | TRADUÇÃO: atmosfera (planetária)/(medicina) anel de ar/almofada de ar
+气团 | TRADUÇÃO: massa de ar
+气场 | TRADUÇÃO: campo de energia (em qigong ou feng shui)/vibração (de uma pessoa ou lugar); aura; atmosfera
+气塞 | TRADUÇÃO: selo de ar/bloqueio de ar/fipple (no bocal de instrumento de sopro)
+气垫 | TRADUÇÃO: colchão de ar (como em hovercraft)
+气垫船 | TRADUÇÃO: aerobarco/hovercraft
+气压 | TRADUÇÃO: pressão atmosférica/pressão barométrica
+气压表 | TRADUÇÃO: barômetro
+气压计 | TRADUÇÃO: barômetro
+气坏 | TRADUÇÃO: furioso/muito bravo
+气壮山河 | TRADUÇÃO: magnífico/inspirador
+气孔 | TRADUÇÃO: bolha de ar/poro/estômato
+气宇 | TRADUÇÃO: porte; postura
+气宇轩昂 | TRADUÇÃO: ter uma aparência imponente ou impressionante/aparência impressionante/porte reto e impressionante
+气定神闲 | TRADUÇÃO: calmo e composto (expressão idiomática)
+气室 | TRADUÇÃO: câmara de ar (dentro de um ovo)
+气密 | TRADUÇÃO: hermético/estanque ao ar
+气度 | TRADUÇÃO: porte/maneira/presença
+气度恢宏 | TRADUÇÃO: mente aberta/magnânimo
+气急败坏 | TRADUÇÃO: nervoso e exasperado/completamente desconcertado
+气息 | TRADUÇÃO: respiração/cheiro/odor/aroma
+气息奄奄 | TRADUÇÃO: ter apenas um sopro de vida (expressão idiomática)
+气恼 | TRADUÇÃO: ficar irritado/ficar com raiva
+气态 | TRADUÇÃO: estado gasoso (física)/maneira/ar/porte
+气愤 | TRADUÇÃO: indignado/furioso
+气数 | TRADUÇÃO: destino/sorte
+气旋 | TRADUÇÃO: ciclone
+气昂昂 | TRADUÇÃO: cheio de vigor/espirituoso/valente
+气根 | TRADUÇÃO: raiz aérea (botânica)
+气概 | TRADUÇÃO: qualidade nobre/garra/espírito
+气枪 | TRADUÇÃO: espingarda de ar comprimido
+气楼 | TRADUÇÃO: pequena torre de ventilação no telhado de um edifício
+气死 | TRADUÇÃO: enfurecer/estar furioso/morrer de excesso de raiva
+气氛 | TRADUÇÃO: atmosfera; clima
+气冲冲 | TRADUÇÃO: furioso; enfurecido
+气冲牛斗 | TRADUÇÃO: (expressão idiomática) extremamente zangado; enfurecido
+气冲霄汉 | TRADUÇÃO: (expressão idiomática) destemido; corajoso; espirituoso
+气泡 | TRADUÇÃO: bolha/bolha (em metal)/(de bebidas) espumante/gaseificada
+气泡布 | TRADUÇÃO: plástico bolha
+气泡膜 | TRADUÇÃO: plástico bolha
+气泡酒 | TRADUÇÃO: vinho espumante
+气泵 | TRADUÇÃO: bomba de ar
+气派 | TRADUÇÃO: impressionante/elegante/magnífico/maneira imponente/ar digno
+气流 | TRADUÇÃO: corrente de ar/fluxo de ar/esteira/corrente de ar/respiração/turbulência (de aeronave)
+气温 | TRADUÇÃO: temperatura do ar
+气溶胶 | TRADUÇÃO: aerossol
+气滞 | TRADUÇÃO: estagnação de 氣|气 (MTC)
+气潭 | TRADUÇÃO: bolsão de ar
+气炸 | TRADUÇÃO: explodir de raiva/perder a cabeça
+气焊 | TRADUÇÃO: soldagem a gás
+气焰 | TRADUÇÃO: arrogância; soberba
+气焰嚣张 | TRADUÇÃO: veja 囂張氣焰|嚣张气焰
+气煤 | TRADUÇÃO: carvão gaseificável
+气球 | TRADUÇÃO: balão
+气瓶 | TRADUÇÃO: botijão de gás/garrafa de ar/cilindro de ar (mergulho)
+气生根 | TRADUÇÃO: raiz aérea (botânica)
+气田 | TRADUÇÃO: campo de gás
+气疯 | TRADUÇÃO: (coloq.) enlouquecer de raiva
+气盛 | TRADUÇÃO: sanguíneo/cheio de energia/impetuoso
+气笑 | TRADUÇÃO: ficar bravo com algo mas também achar graça
+气筒 | TRADUÇÃO: bomba de encher; bomba de bicicleta
+气管 | TRADUÇÃO: traqueia/traqueia/trato respiratório/duto de ar/cano de gás
+气管切开术 | TRADUÇÃO: (medicina) traqueostomia
+气管插管术 | TRADUÇÃO: intubação endotraqueal (medicina)
+气管炎 | TRADUÇÃO: traqueíte bacteriana (inflamação da traqueia, geralmente causada por Staphylococcus aureus)/galo (trocadilho com 妻子管得嚴|妻子管得严 usado em teatro cômico)
+气管痉挛 | TRADUÇÃO: convulsões respiratórias (como na asma)/traqueospasmo
+气节 | TRADUÇÃO: integridade moral/retidão inflexível
+气笼 | TRADUÇÃO: cano de ar/cano de ar de bambu usado para arejar celeiro
+气粗 | TRADUÇÃO: irritadiço/arrogante
+气绝 | TRADUÇÃO: dar o último suspiro/agonizante
+气缸 | TRADUÇÃO: cilindro (motor)
+气胸 | TRADUÇÃO: pneumotórax (medicina)
+气胶 | TRADUÇÃO: aerossol
+气色 | TRADUÇÃO: tez
+气虚 | TRADUÇÃO: deficiência de 氣|气 (MTC)
+气血 | TRADUÇÃO: qi e sangue (dois fluidos corporais básicos da medicina chinesa)
+气话 | TRADUÇÃO: palavras iradas/algo dito no momento de raiva
+气象 | TRADUÇÃO: condição meteorológica; clima/meteorologia/atmosfera; ambiente; cena
+气象台 | TRADUÇÃO: estação meteorológica/escritório de previsão do tempo
+气象学 | TRADUÇÃO: meteorologia
+气象学者 | TRADUÇÃO: meteorologista
+气象局 | TRADUÇÃO: instituto de meteorologia/escritório meteorológico
+气象厅 | TRADUÇÃO: departamento meteorológico/escritório meteorológico
+气象站 | TRADUÇÃO: estação meteorológica
+气象卫星 | TRADUÇÃO: satélite meteorológico
+气象观测站 | TRADUÇÃO: estação de observação meteorológica
+气贯长虹 | TRADUÇÃO: (expressão idiomática) espírito que atinge o arco-íris / cheio de nobre aspiração e ousadia
+气质 | TRADUÇÃO: traços de personalidade/temperamento/disposição/aura/clima/sensação/vibração/refinamento/sofisticação/classe
+气逆 | TRADUÇÃO: fluxo reverso de 氣|气 (MTC)
+气道 | TRADUÇÃO: conduto de fumaça/conduto de ar/passagem de ar/trato respiratório
+气量 | TRADUÇÃO: (lit. quantidade de espírito) caráter moral/grau de tolerância/benevolência ou não/tolerância/magnanimidade
+气锤 | TRADUÇÃO: martelo pneumático
+气钻 | TRADUÇÃO: furadeira pneumática
+气门 | TRADUÇÃO: válvulo (esp. válvula de pneu)/acelerador (termo obsoleto para 油門|油门)/estigma (zool.)/espiráculo
+气闸 | TRADUÇÃO: freio pneumático/antecâmara de descompressão
+气阱 | TRADUÇÃO: bolsa de ar
+气陷 | TRADUÇÃO: colapso de 氣|气 (MTC)
+气隙 | TRADUÇÃO: abertura de ventilação/espaço de ar
+气雾免疫 | TRADUÇÃO: imunização por aerossol
+气雾剂 | TRADUÇÃO: aerossol
+气雾室 | TRADUÇÃO: câmara de nuvens
+气韵 | TRADUÇÃO: (de literatura, arte) estilo distinto/sabor/espírito/caráter
+气头上 | TRADUÇÃO: (num) acesso de raiva; (num) mau humor
+气馁 | TRADUÇÃO: ficar desencorajado
+气体 | TRADUÇÃO: gás (substância gasosa)
+气体扩散 | TRADUÇÃO: difusão gasosa
+气魄 | TRADUÇÃO: espírito/ousadia/perspectiva positiva/atitude imponente
+气鸣乐器 | TRADUÇÃO: aerofone (música)
+气鼓鼓 | TRADUÇÃO: fervendo de raiva/fumegando
+氤 | TRADUÇÃO: usado em 氤氳|氤氲
+氤氲 | TRADUÇÃO: (literário) (de fumaça, névoa) denso; espesso
+氥 | TRADUÇÃO: xenônio (química) (antigo)
+氦 | TRADUÇÃO: hélio (química)
+氦气 | TRADUÇÃO: hélio (gás)
+氦气球 | TRADUÇÃO: balão de hélio
+氧 | TRADUÇÃO: oxigênio (química)
+氧乙炔 | TRADUÇÃO: oxiacetileno
+氧乙炔炬 | TRADUÇÃO: maçarico oxiacetilênico
+氧乙炔焊 | TRADUÇÃO: solda oxiacetilênica
+氧乙炔焊炬 | TRADUÇÃO: maçarico oxiacetilênico
+氧割 | TRADUÇÃO: cortar com maçarico oxiacetilênico
+氧化 | TRADUÇÃO: oxidar
+氧化剂 | TRADUÇÃO: oxidante/agente oxidante
+氧化汞 | TRADUÇÃO: óxido mercúrico (HgO)
+氧化物 | TRADUÇÃO: óxido
+氧化罐 | TRADUÇÃO: cartucho de Hopcalite
+氧化钙 | TRADUÇÃO: óxido de cálcio, CaO/(gíria) (usado como substituto de 肏, pois CaO se assemelha a cào)
+氧化铀 | TRADUÇÃO: óxido de urânio
+氧化铝 | TRADUÇÃO: óxido de alumínio
+氧化锌 | TRADUÇÃO: óxido de zinco
+氧化镁 | TRADUÇÃO: óxido de magnésio MgO
+氧原子 | TRADUÇÃO: átomo de oxigênio
+氧合器 | TRADUÇÃO: oxigenador
+氧基 | TRADUÇÃO: alcoxi (química)
+氧效应 | TRADUÇÃO: efeito do oxigênio
+氧气 | TRADUÇÃO: oxigênio
+氨 | TRADUÇÃO: amônia
+氨吖啶 | TRADUÇÃO: aminoacridina ou aminacrina (antisséptico e desinfetante)
+氨哮素 | TRADUÇÃO: clenbuterol
+氨基 | TRADUÇÃO: amino/grupo amino
+氨基比林 | TRADUÇÃO: aminopirina (estrangeirismo)
+氨基甲酸酯类化合物 | TRADUÇÃO: carbamato
+氨基苯酸 | TRADUÇÃO: ácido aminobenzoico
+氨基葡糖 | TRADUÇÃO: glicosamina (abrev. de 氨基葡萄糖)
+氨基葡萄糖 | TRADUÇÃO: glicosamina (C6H13NO5)
+氨基酸 | TRADUÇÃO: aminoácido
+氨气 | TRADUÇÃO: amônia (gás)
+氨水 | TRADUÇÃO: solução de amônia
+氨纶 | TRADUÇÃO: spandex/elastano
+氨苄青霉素 | TRADUÇÃO: (farmacologia) ampicilina
+氪 | TRADUÇÃO: criptônio (química)
+氪气石 | TRADUÇÃO: criptonita
+氪肝 | TRADUÇÃO: (gíria) dedicar longas horas, tipicamente até tarde da noite, jogando um videogame (em vez de pagar por power-ups)
+氪金 | TRADUÇÃO: fazer uma compra no aplicativo em um jogo
+氢 | TRADUÇÃO: hidrogênio (química)
+氢化 | TRADUÇÃO: hidrogenação
+氢化氰 | TRADUÇÃO: ácido cianídrico/cianeto de hidrogênio
+氢原子 | TRADUÇÃO: átomo de hidrogênio
+氢弹 | TRADUÇÃO: bomba H/bomba de hidrogênio
+氢氟烃 | TRADUÇÃO: hidrofluorocarbono
+氢氟酸 | TRADUÇÃO: ácido fluorídrico HF
+氢气 | TRADUÇÃO: hidrogênio (gás)
+氢气球 | TRADUÇÃO: balão de hidrogênio
+氢氧 | TRADUÇÃO: oxi-hidrogênio
+氢氧化 | TRADUÇÃO: (forma presa) hidróxido de...
+氢氧化物 | TRADUÇÃO: um hidróxido
+氢氧化钠 | TRADUÇÃO: soda cáustica/hidróxido de sódio NaOH
+氢氧化钙 | TRADUÇÃO: hidróxido de cálcio Ca(OH)2; cal hidratada
+氢氧化钾 | TRADUÇÃO: hidróxido de potássio
+氢氧化铝 | TRADUÇÃO: hidróxido de alumínio
+氢氧化镁 | TRADUÇÃO: hidróxido de magnésio Mg(OH)2
+氢氧根 | TRADUÇÃO: radical hidróxido (-OH)
+氢氧根离子 | TRADUÇÃO: íon hidróxido OH-
+氢氧离子 | TRADUÇÃO: íon hidróxido OH-
+氢氯酸 | TRADUÇÃO: ácido clorídrico HCl / também escrito 鹽酸|盐酸
+氢溴酸 | TRADUÇÃO: ácido bromídrico HBr
+氢能源 | TRADUÇÃO: energia do hidrogênio (energia derivada do uso de hidrogênio como combustível)
+氢酶 | TRADUÇÃO: hidrogenase (enzima)
+氢键 | TRADUÇÃO: ligação de hidrogênio
+氢卤酸 | TRADUÇÃO: ácido halogenídrico (ex.: ácido fluorídrico HF 氫氟酸|氢氟酸, ácido clorídrico HCl 鹽酸|盐酸 etc.)
+氩 | TRADUÇÃO: argônio (química)
+氩弧焊 | TRADUÇÃO: soldagem a arco de argônio; soldagem TIG
+氮 | TRADUÇÃO: nitrogênio (química)
+氮化镓 | TRADUÇÃO: nitreto de gálio (GaN)
+氮气 | TRADUÇÃO: nitrogênio
+氮氧化物 | TRADUÇÃO: óxido de nitrogênio
+氮泵 | TRADUÇÃO: pré-treino (suplemento)
+氮烯 | TRADUÇÃO: nitreno (química)
+氮芥气 | TRADUÇÃO: gás mostarda nitrogenado
+氯 | TRADUÇÃO: cloro (química)
+氯丁橡胶 | TRADUÇÃO: neoprene
+氯乙烯 | TRADUÇÃO: cloreto de vinila (cloroeteno C₂H₃Cl)
+氯仿 | TRADUÇÃO: clorofórmio (triclorometano CHCl₃)
+氯化氢 | TRADUÇÃO: cloreto de hidrogênio HCl
+氯化氰 | TRADUÇÃO: cloreto de cianogênio CNCl
+氯化物 | TRADUÇÃO: cloreto
+氯化苦 | TRADUÇÃO: cloropicrina
+氯化钠 | TRADUÇÃO: cloreto de sódio NaCl / sal de cozinha
+氯化钙 | TRADUÇÃO: cloreto de cálcio
+氯化钾 | TRADUÇÃO: cloreto de potássio
+氯化银 | TRADUÇÃO: cloreto de prata AgCl
+氯化铵 | TRADUÇÃO: cloreto de amônio
+氯化铝 | TRADUÇÃO: cloreto de alumínio
+氯化锌 | TRADUÇÃO: cloreto de zinco
+氯单质 | TRADUÇÃO: cloro molecular
+氯喹 | TRADUÇÃO: cloroquina (medicamento antimalárico)
+氯安酮 | TRADUÇÃO: vide 氯胺酮
+氯气 | TRADUÇÃO: cloro
+氯甲烷 | TRADUÇÃO: cloreto de metila CH₃Cl
+氯痤疮 | TRADUÇÃO: cloracne
+氯磷定 | TRADUÇÃO: cloreto de pralidoxima
+氯纶 | TRADUÇÃO: fibra de cloreto de polivinila / nome comercial chinês de fibra de PVC
+氯胺酮 | TRADUÇÃO: cetamina (C₁₃H₁₆ClNO)
+氯苯 | TRADUÇÃO: clorobenzeno C₆H₅Cl
+氯酸 | TRADUÇÃO: ácido clórico HClO₃ / clorato
+氯酸钠 | TRADUÇÃO: clorato de sódio NaClO₃
+氯酸钾 | TRADUÇÃO: clorato de potássio
+氯霉素 | TRADUÇÃO: (farmacologia) cloranfenicol
+氰 | TRADUÇÃO: cianogênio (CN)₂ / etanodinitrila / pronúncia de Taiwan: [qing1]
+氰化物 | TRADUÇÃO: cianeto
+氰化钠 | TRADUÇÃO: cianeto de sódio NaCN
+氰化钾 | TRADUÇÃO: cianeto de potássio KCN
+氰基 | TRADUÇÃO: ciano / radical cianeto -CN, com ligação tripla estável e propriedades químicas similares a halogênios
+氰基细菌 | TRADUÇÃO: cianobactéria
+氰氨化钙 | TRADUÇÃO: cianamida de cálcio
+氰溴甲苯 | TRADUÇÃO: cianobrometo de benzila
+氰苷 | TRADUÇÃO: glicosídeo cianogenético
+氰酸 | TRADUÇÃO: ácido ciânico HCN
+氰酸盐 | TRADUÇÃO: cianato
+氲 | TRADUÇÃO: usado em 氤氳|氤氲
+水 | TRADUÇÃO: sobrenome Shui / etnia Shui ‖ água / (após nome) rio / nadar (usado principalmente em 會水|会水 e 水性) / (coloq.) sem substância; fraco / (forma presa) custo extra; renda extra / classificador para lavagens de roupa
+水上 | TRADUÇÃO: Distrito de Shuishang, Condado de Chiayi, oeste de Taiwan ‖ sobre a água / aquático
+水上摩托 | TRADUÇÃO: jet ski
+水上摩托车 | TRADUÇÃO: jet ski
+水上乐园 | TRADUÇÃO: parque aquático
+水上芭蕾 | TRADUÇÃO: nado sincronizado
+水上运动 | TRADUÇÃO: esportes aquáticos / movimento aquático / deslocamento sobre a água
+水上乡 | TRADUÇÃO: Distrito de Shuishang, Condado de Chiayi, oeste de Taiwan
+水上电单车 | TRADUÇÃO: vide 水上摩托車|水上摩托车
+水上飞板 | TRADUÇÃO: flyboard
+水上飞机 | TRADUÇÃO: hidroavião
+水下 | TRADUÇÃO: subaquático / submarino
+水下核爆炸 | TRADUÇÃO: explosão nuclear subaquática / explosão nuclear submarina
+水中捞月 | TRADUÇÃO: (expressão idiomática) (lit.) pescar a lua na água; (fig.) empreendimento impossível
+水井 | TRADUÇÃO: poço (de água)
+水亮 | TRADUÇÃO: úmido e brilhante / acabamento molhado (de batom)
+水仙 | TRADUÇÃO: narciso
+水仙花 | TRADUÇÃO: narciso
+水位 | TRADUÇÃO: nível da água
+水俣 | TRADUÇÃO: Minamata (cidade no Japão)
+水俣病 | TRADUÇÃO: doença de Minamata (doença neurológica causada por envenenamento por mercúrio devido à poluição industrial no Japão, identificada pela primeira vez em 1956)
+水兵 | TRADUÇÃO: marinheiro recrutado (em marinha de guerra)
+水冰 | TRADUÇÃO: gelo de água (H₂O congelado)
+水冷 | TRADUÇÃO: resfriar a água / refrigeração a água
+水凼 | TRADUÇÃO: lagoa / poça
+水分 | TRADUÇÃO: teor de umidade / (fig.) exagero; enchimento
+水刑 | TRADUÇÃO: afogamento simulado (tortura)
+水刑逼供 | TRADUÇÃO: afogamento simulado, técnica de interrogatório usada pela CIA
+水利 | TRADUÇÃO: conservação de água / obras de irrigação
+水利家 | TRADUÇÃO: gestor de recursos hídricos / engenheiro hidráulico
+水利工程 | TRADUÇÃO: engenharia hidráulica
+水利部 | TRADUÇÃO: Ministério dos Recursos Hídricos (RPC)
+水到渠成 | TRADUÇÃO: (expressão idiomática) (lit.) onde a água flui, um canal se forma; (fig.) quando as condições são favoráveis, o sucesso vem naturalmente
+水力 | TRADUÇÃO: energia hidráulica
+水力压裂 | TRADUÇÃO: fraturamento hidráulico / fracking
+水力学 | TRADUÇÃO: hidráulica
+水力发电 | TRADUÇÃO: hidreletricidade
+水力发电站 | TRADUÇÃO: usina hidrelétrica
+水力鼓风 | TRADUÇÃO: fole hidráulico / ventilação movida a água (para forno de fundição de metais)
+水务 | TRADUÇÃO: abastecimento de água
+水务局 | TRADUÇÃO: autoridade (municipal) de águas
+水勺 | TRADUÇÃO: concha (para água)
+水化 | TRADUÇÃO: hidratar
+水印 | TRADUÇÃO: marca-d'água
+水原 | TRADUÇÃO: Cidade de Suwon, capital da província de Gyeonggi, Coreia do Sul
+水原市 | TRADUÇÃO: Cidade de Suwon, capital da província de Gyeonggi, Coreia do Sul
+水合 | TRADUÇÃO: reação de hidratação
+水合物 | TRADUÇÃO: hidrato / composto hidratado
+水单 | TRADUÇÃO: recibo; fatura discriminada; registro de transação
+水圈 | TRADUÇÃO: (geografia) hidrosfera
+水土 | TRADUÇÃO: solo e água / água superficial / (sentido ampliado) ambiente natural / clima
+水土不服 | TRADUÇÃO: não aclimatado
+水土保持 | TRADUÇÃO: conservação do solo e da água
+水坑 | TRADUÇÃO: poça/cavidade com água/poço de drenagem
+水垢 | TRADUÇÃO: incrustação de calcário
+水城 | TRADUÇÃO: veja 水城區|水城区
+水城区 | TRADUÇÃO: Shuicheng, distrito da cidade de Liupanshui 六盤水市|六盘水市, em Guizhou
+水域 | TRADUÇÃO: águas/corpo d'água
+水培 | TRADUÇÃO: cultivar plantas hidroponicamente
+水培法 | TRADUÇÃO: hidroponia
+水基 | TRADUÇÃO: à base de água
+水塔 | TRADUÇÃO: torre d'água
+水塘 | TRADUÇÃO: tanque/açude
+水墨 | TRADUÇÃO: nanquim (tinta usada em pintura)
+水墨画 | TRADUÇÃO: pintura a nanquim e aguada
+水压 | TRADUÇÃO: pressão da água
+水坝 | TRADUÇÃO: barragem/dique
+水壶 | TRADUÇÃO: chaleira/cantil/regador
+水天一色 | TRADUÇÃO: água e céu se fundem numa só cor (expressão idiomática)
+水客 | TRADUÇÃO: contrabandista, esp. de produtos eletrônicos de Macau ou Hong Kong para Guangdong/barqueiro/pescador/comerciante ambulante
+水害 | TRADUÇÃO: dano por inundação
+水富 | TRADUÇÃO: veja 水富市
+水富市 | TRADUÇÃO: Shuifu, cidade administrativa em Zhaotong City 昭通市, em Yunnan
+水师 | TRADUÇÃO: marinha (na dinastia Qing)
+水幕 | TRADUÇÃO: cortina d'água (tela formada por gotículas de água pulverizadas, usada para exibir imagens projetadas, controle de temperatura ou purificação do ar)
+水平 | TRADUÇÃO: horizontal; nivelado/padrão; nível (de habilidade, desenvolvimento etc.)
+水平仪 | TRADUÇÃO: nível (dispositivo para determinar a horizontal)/nível de bolha/nível topográfico
+水平尺 | TRADUÇÃO: nível de bolha
+水平尾翼 | TRADUÇÃO: (aviação) estabilizador horizontal; profundor
+水平轴 | TRADUÇÃO: eixo horizontal/eixo das abcissas (mat.)
+水平面 | TRADUÇÃO: plano horizontal/superfície nivelada/nível d'água
+水床 | TRADUÇÃO: cama d'água; colchão d'água
+水底 | TRADUÇÃO: fundo de um corpo d'água
+水底相机 | TRADUÇÃO: câmera subaquática
+水库 | TRADUÇÃO: reservatório (de água)/CL:座
+水弹枪 | TRADUÇÃO: pistola de gel; arma de gel
+水彩 | TRADUÇÃO: aquarela
+水彩画 | TRADUÇÃO: pintura em aquarela
+水彩笔 | TRADUÇÃO: canetas coloridas
+水性 | TRADUÇÃO: habilidade de nadar/características de um corpo d'água (profundidade, correntes etc.)/aquoso/à base de água (tinta etc.)
+水性杨花 | TRADUÇÃO: volúvel; inconstante (mulher)
+水怪 | TRADUÇÃO: monstro marinho; monstro aquático
+水患 | TRADUÇÃO: inundação; alagamento
+水户 | TRADUÇÃO: Mito (cidade no Japão)
+水手 | TRADUÇÃO: marinheiro/navegante/marítimo
+水文 | TRADUÇÃO: hidrologia
+水族 | TRADUÇÃO: grupo étnico Shui ‖ termo coletivo para animais aquáticos
+水族箱 | TRADUÇÃO: aquário/tanque de peixes
+水族馆 | TRADUÇÃO: aquário (aberto ao público)
+水星 | TRADUÇÃO: (astronomia) Mercúrio
+水晶 | TRADUÇÃO: cristal
+水晶宫 | TRADUÇÃO: The Crystal Palace (Palácio de Cristal)
+水晶球 | TRADUÇÃO: bola de cristal
+水晶饺 | TRADUÇÃO: bolinho de camarão cristal, um tipo de bolinho popular no sul da China e Taiwan, conhecido por sua casca translúcida e levemente mastigável feita com fécula de mandioca
+水暖工 | TRADUÇÃO: encanador/técnico de aquecimento
+水曜日 | TRADUÇÃO: quarta-feira (usado na astronomia chinesa antiga)
+水杉 | TRADUÇÃO: metasequoia
+水林 | TRADUÇÃO: Shuilin, município no condado de Yunlin 雲林縣|云林县, Taiwan
+水林乡 | TRADUÇÃO: município de Shuilin, no condado de Yunlin 雲林縣|云林县, Taiwan
+水果 | TRADUÇÃO: fruta
+水果刀 | TRADUÇÃO: faca de frutas/faca de legumes/CL:把
+水果捞 | TRADUÇÃO: salada de frutas com leite de coco – sobremesa gelada feita de frutas frescas variadas servidas em leite de coco adoçado, iogurte ou xarope de frutas
+水果酒 | TRADUÇÃO: (Taiwan) vinho de frutas
+水柱 | TRADUÇÃO: jato de água (como de uma fonte ou torneira); esguicho de água
+水栗 | TRADUÇÃO: veja 荸薺|荸荠
+水桶 | TRADUÇÃO: balde
+水梨 | TRADUÇÃO: pêra asiática; pêra areia (Pyrus pyrifolia)
+水栖 | TRADUÇÃO: aquático/que vive na água
+水杨酸 | TRADUÇÃO: ácido salicílico
+水枪 | TRADUÇÃO: pistola d'água (brinquedo)/esguicho/aspersor/canhão d'água
+水槽 | TRADUÇÃO: pia
+水横枝 | TRADUÇÃO: gardênia (Gardenia jasminoides), especialmente cultivada como bonsai
+水母 | TRADUÇÃO: água-viva/medusa
+水母体 | TRADUÇÃO: água-viva/medusa
+水气 | TRADUÇÃO: vapor d'água/ vapor
+水汀 | TRADUÇÃO: vapor (dialeto xangainês)
+水池 | TRADUÇÃO: lagoa/poço/pia/lavatório
+水污染 | TRADUÇÃO: poluição da água
+水汪汪 | TRADUÇÃO: aguado/saturado (solo)/límpido/brilhante e inteligente (olhos)
+水汽 | TRADUÇÃO: vapor d'água/ vapor/umidade
+水泡 | TRADUÇÃO: bolha/ampola
+水波 | TRADUÇÃO: onda/ (água) ondulação/ (água) ondulação
+水波炉 | TRADUÇÃO: forno a vapor superaquecido
+水泥 | TRADUÇÃO: cimento/CL:袋
+水泥地 | TRADUÇÃO: superfície de concreto; piso de concreto
+水泵 | TRADUÇÃO: bomba d'água
+水泄不通 | TRADUÇÃO: (lit.) nem uma gota consegue passar (expressão idiomática) / (fig.) (de multidões, trânsito etc.) impenetrável
+水流 | TRADUÇÃO: rio/córrego
+水淋淋 | TRADUÇÃO: encharcado; pingando
+水深 | TRADUÇÃO: profundidade (de via navegável)/sondagem
+水深火热 | TRADUÇÃO: águas profundas e fogo escaldante/abismo de sofrimento (expressão idiomática)
+水浅养不住大鱼 | TRADUÇÃO: lit. águas rasas não podem abrigar peixes grandes (expressão idiomática)/fig. pessoas ambiciosas e talentosas não podem atingir todo o seu potencial numa organização pequena
+水清无鱼 | TRADUÇÃO: lit. água muito limpa não abriga peixes (expressão idiomática)/fig. quem é muito severo não tem amigos
+水渠 | TRADUÇÃO: canal
+水源 | TRADUÇÃO: fonte de água/abastecimento de água/nascente de um rio
+水准 | TRADUÇÃO: nível (de realização etc.)/padrão/ nível (topografia)
+水准仪 | TRADUÇÃO: nível (dispositivo para determinar a horizontal)/nível de bolha/nível topográfico
+水沟 | TRADUÇÃO: sarjeta/esgoto
+水温 | TRADUÇÃO: temperatura da água
+水温表 | TRADUÇÃO: indicador de temperatura do motor/indicador de temperatura do líquido de arrefecimento
+水溶 | TRADUÇÃO: solúvel em água
+水溶性 | TRADUÇÃO: solúvel (em água)/solubilidade
+水滴 | TRADUÇÃO: gota d'água
+水滴石穿 | TRADUÇÃO: a água gotejando perfura a pedra (expressão idiomática); constante perseverança leva ao sucesso; pode-se alcançar seu objetivo se tentar com afinco e sem desistir; esforço persistente supera qualquer dificuldade
+水滴鱼 | TRADUÇÃO: peixe-bolha (Psychrolutes marcidus)
+水浒 | TRADUÇÃO: beira d'água / margem do mar, lago ou rio / beira-mar
+水浒传 | TRADUÇÃO: Margem das Águas ou Foras-da-Lei do Pântano, de Shi Nai'an 施耐庵, um dos Quatro Grandes Clássicos da literatura chinesa
+水浒全传 | TRADUÇÃO: Margem das Águas ou Foras-da-Lei do Pântano, de Shi Nai'an 施耐庵, um dos Quatro Grandes Clássicos da literatura chinesa / também escrito 水滸傳|水浒传
+水浒后传 | TRADUÇÃO: Continuação de Margem das Águas, de Chen Chen 陳忱|陈忱
+水漉漉 | TRADUÇÃO: ensopado; encharcado
+水渍 | TRADUÇÃO: mancha d'água / mancha de água / ponto molhado / área úmida / dano causado por água
+水涨船高 | TRADUÇÃO: a maré sobe, o barco flutua (expressão idiomática); fig. mudar com a tendência geral / desenvolver-se conforme a situação
+水潭 | TRADUÇÃO: poça d'água; lagoa
+水火不容 | TRADUÇÃO: completamente incompatível / fig. incompatível como fogo e água
+水火无情 | TRADUÇÃO: fogo e enchente não têm piedade (expressão idiomática)
+水灾 | TRADUÇÃO: enchente / dano causado por enchente
+水炮 | TRADUÇÃO: canhão d'água
+水炮车 | TRADUÇÃO: veículo com canhão d'água, nome comum para veículo especializado de controle de multidões 人群管理特別用途車|人群管理特别用途车
+水煎包 | TRADUÇÃO: pão frito na frigideira (coberto e cozido no vapor após fritura), geralmente com recheio de carne de porco ou vegetais
+水烟 | TRADUÇÃO: tabaco desfiado para narguilé
+水烟壶 | TRADUÇÃO: narguilé / cachimbo d'água (para tabaco etc.) / hookah
+水烟管 | TRADUÇÃO: narguilé / cachimbo d'água (para tabaco etc.) / hookah
+水烟袋 | TRADUÇÃO: narguilé de água / cachimbo d'água / hookah
+水煮蛋 | TRADUÇÃO: ovo cozido
+水煮鱼 | TRADUÇÃO: peixe pochê de Sichuan em óleo de pimenta picante
+水牛 | TRADUÇÃO: búfalo-d'água
+水牛儿 | TRADUÇÃO: (dialeto) caracol
+水牢 | TRADUÇÃO: cela de prisão contendo água, onde os prisioneiros ficam parcialmente submersos
+水猴子 | TRADUÇÃO: monstro mítico que ataca nadadores
+水獭 | TRADUÇÃO: lontra
+水玉 | TRADUÇÃO: cristal / palavra antiga para 水晶
+水玻璃 | TRADUÇÃO: (química) vidro solúvel
+水珠 | TRADUÇÃO: gotícula / gota de orvalho
+水球 | TRADUÇÃO: polo aquático
+水球场 | TRADUÇÃO: piscina de polo aquático
+水瓶座 | TRADUÇÃO: Aquário (constelação e signo do zodíaco)
+水生 | TRADUÇÃO: aquático (planta, animal)
+水产 | TRADUÇÃO: produto aquático
+水产品 | TRADUÇÃO: produtos aquáticos (incluindo peixes, caranguejos, algas marinhas etc.)
+水产展 | TRADUÇÃO: feira de frutos do mar
+水产业 | TRADUÇÃO: aquicultura
+水产养殖 | TRADUÇÃO: aquicultura
+水田 | TRADUÇÃO: campo de arroz alagado; arrozal
+水田芥 | TRADUÇÃO: agrião
+水痘 | TRADUÇÃO: catapora / varicela zóster (med.)
+水疗 | TRADUÇÃO: hidroterapia / aquaterapia
+水疱 | TRADUÇÃO: bolha (na pele)
+水盂 | TRADUÇÃO: pote ou copo d'água (para caligrafia chinesa)
+水盆 | TRADUÇÃO: bacia
+水相 | TRADUÇÃO: solução aquosa
+水碾 | TRADUÇÃO: moinho d'água
+水磨沟 | TRADUÇÃO: veja 水磨溝區|水磨沟区
+水磨沟区 | TRADUÇÃO: Shuimogou, um distrito da cidade de Ürümqi 烏魯木齊市|乌鲁木齐市, Xinjiang
+水磨石 | TRADUÇÃO: granilite
+水神 | TRADUÇÃO: deus do rio
+水禽 | TRADUÇÃO: ave aquática
+水稻 | TRADUÇÃO: arroz / arrozal / CL:株
+水洼 | TRADUÇÃO: poça
+水立方 | TRADUÇÃO: Cubo d'Água, apelido do Centro Aquático Nacional de Pequim 北京國家游泳中心|北京国家游泳中心, sede da natação dos Jogos Olímpicos de Pequim 2008
+水筲 | TRADUÇÃO: balde de poço / balde feito de tiras de bambu
+水管 | TRADUÇÃO: cano d'água
+水管工 | TRADUÇÃO: encanador
+水管工人 | TRADUÇÃO: encanador
+水管面 | TRADUÇÃO: macarrão tubular (ex.: penne, rigatoni, ziti) / macarrão
+水箱 | TRADUÇÃO: tanque d'água / radiador (automóvel) / cisterna / lavatório
+水帘洞 | TRADUÇÃO: caverna com uma cascata na entrada
+水系 | TRADUÇÃO: sistema de drenagem
+水纹 | TRADUÇÃO: ondulações
+水丝 | TRADUÇÃO: (prata) de baixa pureza / de baixa qualidade
+水绿 | TRADUÇÃO: verde-claro
+水缸 | TRADUÇÃO: jarra d'água
+水罐 | TRADUÇÃO: recipiente para segurar e despejar água (ou outro líquido): jarro, cântaro, pote de barro, galão, garrafa d'água etc.
+水翼船 | TRADUÇÃO: hidrofólio
+水老鸦 | TRADUÇÃO: nome comum para o cormorão
+水耕法 | TRADUÇÃO: hidroponia
+水肺 | TRADUÇÃO: scuba
+水能 | TRADUÇÃO: energia hidrelétrica
+水能源 | TRADUÇÃO: energia hidrelétrica
+水能载舟，亦能覆舟 | TRADUÇÃO: fig. a água pode manter o barco flutuando, mas também pode afundá-lo (provérbio) / fig. o povo pode apoiar um regime ou derrubá-lo / se algo é usado corretamente, pode-se beneficiar dele, caso contrário, pode causar danos / as coisas podem ter dois gumes
+水肿 | TRADUÇÃO: (medicina) sofrer de edema (hidropisia)
+水至清则无鱼，人至察则无徒 | TRADUÇÃO: (ditado) água muito clara não tem peixes, e quem é muito severo não tem amigos
+水花 | TRADUÇÃO: borrifo d'água; respingo / (dialeto) catapora
+水草 | TRADUÇÃO: plantas aquáticas / água e grama (ou seja, terra de forragem favorável para gado ou animais selvagens) / (Malásia) (coloq.) canudo
+水菖蒲 | TRADUÇÃO: Acorus calamus / cálamo aromático
+水华 | TRADUÇÃO: floração de algas; bloom de algas
+水落归槽 | TRADUÇÃO: água derramada retorna ao cocho (expressão idiomática) / fig. as pessoas lembram onde pertencem
+水落石出 | TRADUÇÃO: (fig.) à medida que a água recua, as rochas aparecem (expressão idiomática) / (fig.) a verdade vem à tona
+水着 | TRADUÇÃO: (HK) maiô (empréstimo do japonês "mizugi")
+水葫芦 | TRADUÇÃO: aguapé (Pontederia crassipes)
+水蒲苇莺 | TRADUÇÃO: (espécie de ave da China) felosa-dos-juncos (Acrocephalus schoenobaenus)
+水蒸气 | TRADUÇÃO: vapor
+水蕹菜 | TRADUÇÃO: espinafre d'água ou ong choy (Ipomoea aquatica), usado como vegetal no sul da China e sudeste asiático
+水萝卜 | TRADUÇÃO: rabanete vermelho pequeno
+水虎鱼 | TRADUÇÃO: piranha (peixe)
+水处理 | TRADUÇÃO: tratamento de água
+水蛇 | TRADUÇÃO: cobra d'água
+水蛇座 | TRADUÇÃO: Hydrus (constelação)
+水蛇腰 | TRADUÇÃO: cintura fina e flexível / corpo esguio / pose feminina
+水蛭 | TRADUÇÃO: sanguessuga
+水蛭素 | TRADUÇÃO: hirudina
+水蜜桃 | TRADUÇÃO: pêssego mel (variedade suculenta e doce)
+水螅 | TRADUÇÃO: Hydra (pólipo de água doce)
+水螅体 | TRADUÇÃO: pólipo séssil/anêmona-do-mar
+水行侠 | TRADUÇÃO: Aquaman, super-herói de quadrinhos da DC (Taiwan)
+水表 | TRADUÇÃO: hidrômetro/indicador do nível da água
+水袖 | TRADUÇÃO: mangas fluidas (parte de traje teatral)
+水解 | TRADUÇÃO: hidrólise (reação química com água)
+水豚 | TRADUÇÃO: capivara
+水貂 | TRADUÇÃO: vison (Mustela lutreola, M. vison)
+水货 | TRADUÇÃO: mercadoria contrabandeada/produto não autorizado
+水费 | TRADUÇÃO: conta de água
+水质 | TRADUÇÃO: qualidade da água
+水质污染 | TRADUÇÃO: poluição da água
+水路 | TRADUÇÃO: via navegável
+水军 | TRADUÇÃO: (arcaico) marinha/pessoa contratada para postar mensagens na internet (abrev. de 網絡水軍|网络水军)
+水轮 | TRADUÇÃO: roda d'água/roda de moinho
+水逆 | TRADUÇÃO: (astrologia) Mercúrio retrógrado (abrev. de 水星逆行)/(coloq.) passar por um período de má sorte/(MTC) retenção de água no abdômen causando vômito de líquidos assim que se bebe
+水运 | TRADUÇÃO: transporte aquaviário
+水道 | TRADUÇÃO: curso d'água (rio, canal, dreno etc)/rota aquática/raia (em piscina)
+水边 | TRADUÇÃO: beira da água/margem (de mar, lago ou rio)
+水乡 | TRADUÇÃO: mosaico de vias navegáveis, especialmente em Jiangsu/mesmo que 江南水鄉|江南水乡
+水里 | TRADUÇÃO: Município de Shuili no Condado de Nantou, centro de Taiwan
+水里乡 | TRADUÇÃO: Município de Shuili no Condado de Nantou, centro de Taiwan
+水量 | TRADUÇÃO: volume de água/vazão
+水钹 | TRADUÇÃO: prato de ataque (componente de bateria musical)
+水银 | TRADUÇÃO: mercúrio
+水银灯 | TRADUÇÃO: lâmpada de vapor de mercúrio
+水门 | TRADUÇÃO: válvula de água/comporta/(aviação) salva de água
+水门事件 | TRADUÇÃO: Escândalo Watergate
+水门汀 | TRADUÇÃO: cimento (xangaiense) (empréstimo linguístico)
+水闸 | TRADUÇÃO: comporta/portão de água/eclusa/barragem
+水陆 | TRADUÇÃO: água e terra/por via aquática e terrestre/transportes/anfíbio/iguarias da terra e do mar
+水陆交通 | TRADUÇÃO: transporte aquático e terrestre
+水陆两用 | TRADUÇÃO: anfíbio (veículo)
+水陆师 | TRADUÇÃO: exército e marinha (na época Qing)
+水障碍 | TRADUÇÃO: perigo de água (golfe)
+水雉 | TRADUÇÃO: (espécie de ave da China) jaçanã-faisão (Hydrophasianus chirurgus)
+水鸡 | TRADUÇÃO: galinha-d'água (gênero Gallinula)/galinhola/sapo
+水雷 | TRADUÇÃO: mina naval
+水电 | TRADUÇÃO: energia hidrelétrica/encanamento e eletricidade
+水电工 | TRADUÇÃO: trabalho de encanamento e eletricidade/profissional que faz ambos os serviços
+水电站 | TRADUÇÃO: usina hidrelétrica
+水雾 | TRADUÇÃO: neblina
+水灵 | TRADUÇÃO: (de fruta etc) fresco/(de uma pessoa etc) cheio de vida; saudável/(de olhos) úmido e brilhante; lustroso
+水灵灵 | TRADUÇÃO: veja 水靈|水灵
+水面 | TRADUÇÃO: superfície da água
+水饱 | TRADUÇÃO: sensação de saciedade por beber muita água ou consumir uma refeição rica em líquidos
+水饺 | TRADUÇÃO: bolinho cozido (feito com massa envolta em recheio, como ravióli)
+水饺儿 | TRADUÇÃO: variante erhua de 水餃|水饺
+水马 | TRADUÇÃO: barreira cheia de água
+水体 | TRADUÇÃO: corpo d'água
+水鸟 | TRADUÇÃO: ave aquática
+水鹁鸪 | TRADUÇÃO: rola-comum ou ave similar/rola-oriental (Streptopelia orientalis)
+水鹨 | TRADUÇÃO: (espécie de ave da China) petinha-d'água (Anthus spinoletta)
+水鹿 | TRADUÇÃO: sambar (Cervus unicolor)
+水龙 | TRADUÇÃO: mangueira/tubo de incêndio/(botânica) primavera-d'água (Jussiaea repens)
+水龙卷 | TRADUÇÃO: tromba d'água (meteorologia)
+水龙带 | TRADUÇÃO: mangueira industrial plana/mangueira de incêndio
+水龙头 | TRADUÇÃO: torneira
+氵 | TRADUÇÃO: radical "água" em caracteres chineses (Kangxi radical 85), ocorrendo em 沒|没, 法, 流 etc/veja também 三點水|三点水
+永 | TRADUÇÃO: para sempre/sempre/perpétuo
+永不 | TRADUÇÃO: nunca/jamais
+永不生锈的螺丝钉 | TRADUÇÃO: um "parafuso que nunca enferruja" – metáfora usada na propaganda do PCC para elogiar contribuintes leais e altruístas, famosamente aplicada ao operário modelo Lei Feng 雷鋒|雷锋
+永世 | TRADUÇÃO: eterno/para sempre
+永久 | TRADUÇÃO: eterno/perpétuo/duradouro/para sempre/permanente
+永久冻土 | TRADUÇÃO: permafrost
+永久和平 | TRADUÇÃO: paz duradoura/paz perpétua
+永久居民 | TRADUÇÃO: residente permanente
+永久居留权 | TRADUÇÃO: residência permanente
+永久居留证 | TRADUÇÃO: certificado de residência permanente
+永久性 | TRADUÇÃO: permanência
+永久磁铁 | TRADUÇÃO: ímã permanente
+永久虚电路 | TRADUÇÃO: Circuito Virtual Permanente/PVC
+永仁 | TRADUÇÃO: veja 永仁縣|永仁县
+永仁县 | TRADUÇÃO: Yongren, um condado na Prefeitura Autônoma Yi de Chuxiong, Yunnan
+永修 | TRADUÇÃO: veja 永修縣|永修县
+永修县 | TRADUÇÃO: Yongxiu, um condado na Cidade de Jiujiang, Jiangxi
+永冻土 | TRADUÇÃO: permafrost
+永别 | TRADUÇÃO: separar-se para sempre/partida eterna (isto é, morte)
+永动机 | TRADUÇÃO: máquina de movimento perpétuo
+永胜 | TRADUÇÃO: veja 永勝縣|永胜县
+永胜县 | TRADUÇÃO: Yongsheng, um condado na Cidade de Lijiang, Yunnan
+永吉 | TRADUÇÃO: veja 永吉縣|永吉县
+永吉县 | TRADUÇÃO: Yongji, um condado na Cidade de Jilin, Jilin
+永和 | TRADUÇÃO: veja 永和縣|永和县
+永和市 | TRADUÇÃO: Yonghe ou Yungho, cidade em Nova Taipé, Taiwan
+永和县 | TRADUÇÃO: Yonghe, um condado na Cidade de Linfen, Shanxi
+永善 | TRADUÇÃO: veja 永善縣|永善县
+永善县 | TRADUÇÃO: Yongshan, um condado na Cidade de Zhaotong, Yunnan
+永嘉 | TRADUÇÃO: Condado de Yongjia em Wenzhou, Zhejiang/nome de reinado 307-313 do Imperador Huai de Jin
+永嘉县 | TRADUÇÃO: Yongjia, um condado na Cidade de Wenzhou, Zhejiang
+永嘉郡 | TRADUÇÃO: Prefeitura de Yongjia em Zhejiang
+永垂不朽 | TRADUÇÃO: glória eterna/nunca será esquecido
+永城 | TRADUÇÃO: veja 永城市
+永城市 | TRADUÇÃO: Yongcheng, uma cidade administrativa na Cidade de Shangqiu, Henan
+永寿 | TRADUÇÃO: veja 永壽縣|永寿县
+永寿县 | TRADUÇÃO: Yongshou, um condado na Cidade de Xianyang, Shaanxi
+永存 | TRADUÇÃO: eterno/para sempre perdurar
+永安 | TRADUÇÃO: veja 永安市/Yong'an, nome de vários outros lugares
+永安市 | TRADUÇÃO: Yong'an, uma cidade administrativa na Cidade de Sanming, Fujian
+永定 | TRADUÇÃO: veja 永定區|永定区/veja 永定河
+永定区 | TRADUÇÃO: Yongding, um distrito da Cidade de Zhangjiajie, Hunan/Yongding, um distrito da Cidade de Longyan, Fujian
+永定河 | TRADUÇÃO: Rio Yongding, o maior rio que atravessa Pequim
+永定门 | TRADUÇÃO: Yongdingmen, portão frontal da seção externa da antiga muralha de Pequim, demolido na década de 1950 e reconstruído em 2005
+永宁 | TRADUÇÃO: veja 永寧縣|永宁县
+永宁县 | TRADUÇÃO: Yongning, um condado na cidade de Yinchuan, Ningxia
+永居 | TRADUÇÃO: residência permanente (abrev. de 永久居留權|永久居留权)
+永川 | TRADUÇÃO: veja 永川區|永川区
+永川区 | TRADUÇÃO: Yongchuan, um distrito de Chongqing
+永州 | TRADUÇÃO: veja 永州市
+永州市 | TRADUÇÃO: Yongzhou, cidade de nível de prefeitura na província de Hunan
+永平 | TRADUÇÃO: veja 永平縣|永平县
+永平县 | TRADUÇÃO: Yongping, um condado na Prefeitura Autônoma Bai de Dali, Yunnan
+永年 | TRADUÇÃO: veja 永年區|永年区
+永年区 | TRADUÇÃO: Yongnian, um distrito da cidade de Handan, Hebei
+永康 | TRADUÇÃO: veja 永康市/veja 永康區|永康区
+永康区 | TRADUÇÃO: Yongkang, um distrito da cidade de Tainan, Taiwan
+永康市 | TRADUÇÃO: Yongkang, uma cidade de nível de condado na cidade de Jinhua, Zhejiang
+永德 | TRADUÇÃO: veja 永德縣|永德县
+永德县 | TRADUÇÃO: Yongde, um condado na cidade de Lincang, Yunnan
+永志不忘 | TRADUÇÃO: inesquecível para sempre
+永恒 | TRADUÇÃO: eterno / perpétuo / fig. passar à eternidade (isto é, morrer)
+永新 | TRADUÇÃO: veja 永新縣|永新县
+永新县 | TRADUÇÃO: Yongxin, um condado na cidade de Ji'an, Jiangxi
+永昌 | TRADUÇÃO: veja 永昌縣|永昌县
+永昌县 | TRADUÇÃO: Yongchang, um condado na cidade de Jinchang, Gansu
+永春 | TRADUÇÃO: veja 永春縣|永春县
+永春县 | TRADUÇÃO: Yongchun, um condado na cidade de Quanzhou, Fujian
+永乐 | TRADUÇÃO: Imperador Yongle, nome de reinado do terceiro imperador Ming Zhu Di (1360-1424), reinou de 1403 a 1424, nome de templo 明成祖
+永乐大典 | TRADUÇÃO: Grande Enciclopédia Yongle (1408)
+永永远远 | TRADUÇÃO: para todo o sempre
+永泰 | TRADUÇÃO: veja 永泰縣|永泰县
+永泰县 | TRADUÇÃO: Yongtai, um condado na cidade de Fuzhou, Fujian
+永清 | TRADUÇÃO: veja 永清縣|永清县
+永清县 | TRADUÇÃO: Yongqing, um condado na cidade de Langfang, Hebei
+永济 | TRADUÇÃO: veja 永濟市|永济市
+永济市 | TRADUÇÃO: Yongji, uma cidade de nível de condado na cidade de Yuncheng, Shanxi
+永无宁日 | TRADUÇÃO: (em tais circunstâncias) não haverá paz / nunca se pode respirar aliviado
+永无止境 | TRADUÇÃO: (expressão idiomática) sem fim; interminável
+永珍 | TRADUÇÃO: Vientiane, capital do Laos (Taiwan)
+永生 | TRADUÇÃO: viver para sempre / vida eterna / toda a vida
+永登 | TRADUÇÃO: veja 永登縣|永登县
+永登县 | TRADUÇÃO: Yongdeng, um condado na cidade de Lanzhou, Gansu
+永眠 | TRADUÇÃO: falecer; morrer; descansar eternamente
+永矢 | TRADUÇÃO: para sempre
+永磁 | TRADUÇÃO: (física) magnetismo permanente; (atributivo) ímã permanente
+永磁体 | TRADUÇÃO: ímã permanente
+永福 | TRADUÇÃO: veja 永福縣|永福县
+永福县 | TRADUÇÃO: Yongfu, um condado na cidade de Guilin, Guangxi
+永续 | TRADUÇÃO: sustentável / perpétuo
+永续城市 | TRADUÇÃO: cidade sustentável (Taiwan)
+永兴 | TRADUÇÃO: veja 永興縣|永兴县
+永兴县 | TRADUÇÃO: Yongxing, um condado na cidade de Chenzhou, Hunan
+永诀 | TRADUÇÃO: separar-se para sempre / separação eterna (isto é, morte)
+永诀式 | TRADUÇÃO: funeral
+永丰 | TRADUÇÃO: veja 永豐縣|永丰县
+永丰县 | TRADUÇÃO: Yongfeng, um condado na cidade de Ji'an, Jiangxi
+永贞内禅 | TRADUÇÃO: Abdicação Yongzhen de 805
+永贞革新 | TRADUÇÃO: Reforma Yongzhen, movimento reformista fracassado da dinastia Tang em 805 liderado por Wang Shuwen
+永逝 | TRADUÇÃO: ido para sempre / morrer
+永远 | TRADUÇÃO: para sempre / eterno
+永靖 | TRADUÇÃO: veja 永靖縣|永靖县/veja 永靖鄉|永靖乡
+永靖县 | TRADUÇÃO: Yongjing, um condado na Prefeitura Autônoma Hui de Linxia, Gansu
+永靖乡 | TRADUÇÃO: Yongjing ou Yungching, município no condado de Changhua, Taiwan
+永顺 | TRADUÇÃO: veja 永順縣|永顺县
+永顺县 | TRADUÇÃO: Yongshun, um condado na Prefeitura Autônoma Tujia e Miao de Xiangxi, Hunan
+氹 | TRADUÇÃO: variante de 凼
+氹仔 | TRADUÇÃO: Taipa, uma ilha de Macau
+氺 | TRADUÇÃO: variante antiga de 水
+氼 | TRADUÇÃO: variante antiga de 溺
+氽 | TRADUÇÃO: flutuar / fritar em imersão
+氽汤 | TRADUÇÃO: preparar uma sopa
+氽烫 | TRADUÇÃO: escaldar (culinária)
+氾 | TRADUÇÃO: usado em nomes próprios e como sobrenome
+泛 | TRADUÇÃO: variante de 泛 ‖ variante de 泛 ‖ (forma presa) geral / não específico / extenso / pan- / inundar / (literário) flutuar / impregnar-se de (uma cor, emoção, odor etc.)
+泛滥 | TRADUÇÃO: transbordar; inundar; alagar / (fig.) proliferar descontroladamente ‖ variante de 氾濫|泛滥
+氿 | TRADUÇÃO: nascente de montanha
+汀 | TRADUÇÃO: banco de areia / baixio / barra de areia
+汀曲 | TRADUÇÃO: uma curva em um riacho
+汀洲 | TRADUÇÃO: banco de areia / ilhota em um riacho
+汀渚 | TRADUÇÃO: banco de areia / ilhota em um riacho
+汀线 | TRADUÇÃO: linhas formadas por ondas na praia
+汁 | TRADUÇÃO: suco
+汁水 | TRADUÇÃO: (dialetal) suco
+汁液 | TRADUÇÃO: suco
+求 | TRADUÇÃO: buscar / procurar / solicitar / exigir / implorar
+求之不得 | TRADUÇÃO: lit. buscar mas não conseguir obter (expressão idiomática); fig. exatamente o que alguém estava procurando
+求乞 | TRADUÇÃO: mendigar
+求人 | TRADUÇÃO: pedir ajuda / pedir um favor / recrutar pessoas talentosas
+求人不如求己 | TRADUÇÃO: se você quer algo bem feito, faça você mesmo (expressão idiomática)
+求仁得仁 | TRADUÇÃO: lit. buscar virtude e adquiri-la (expressão idiomática) / fig. ter seu desejo realizado
+求值 | TRADUÇÃO: (mat.) avaliar (uma expressão, função etc.)
+求偶 | TRADUÇÃO: procurar um cônjuge / (de um animal) procurar um parceiro; cortejar
+求偿 | TRADUÇÃO: buscar compensação / indenização
+求全责备 | TRADUÇÃO: exigir perfeição (expressão idiomática)
+求助 | TRADUÇÃO: solicitar ajuda / apelar (por ajuda)
+求助于人 | TRADUÇÃO: pedir ajuda a outros
+求取 | TRADUÇÃO: buscar / esforçar-se por
+求同 | TRADUÇÃO: buscar consenso / buscar conformidade
+求同存异 | TRADUÇÃO: (expressão idiomática) deixar de lado as diferenças e trabalhar juntos; buscar pontos em comum e cooperar
+求告 | TRADUÇÃO: implorar / suplicar
+求和 | TRADUÇÃO: pedir paz / buscar um empate (xadrez) / soma (mat.)
+求好心切 | TRADUÇÃO: buscar o mais alto padrão de (alguém ou a si mesmo) (expressão idiomática)/esforçar-se para obter os melhores resultados possíveis/ser perfeccionista
+求婚 | TRADUÇÃO: pedir em casamento
+求子 | TRADUÇÃO: (de um casal sem filhos) rezar para ter um filho/tentar ter um filho
+求存 | TRADUÇÃO: sobrevivência/a luta para sobreviver/buscar a existência continuada
+求学 | TRADUÇÃO: prosseguir os estudos; frequentar a escola/buscar conhecimento
+求导 | TRADUÇÃO: encontrar a derivada (mat.)
+求得 | TRADUÇÃO: pedir algo e recebê-lo/tentar obter/buscar e conseguir
+求情 | TRADUÇÃO: implorar clemência/pedir um favor
+求情告饶 | TRADUÇÃO: implorar perdão (expressão idiomática)
+求爱 | TRADUÇÃO: cortejar
+求才 | TRADUÇÃO: buscar pessoas talentosas; recrutar talentos
+求援 | TRADUÇÃO: pedir ajuda
+求救 | TRADUÇÃO: buscar ajuda (quando em perigo ou dificuldade)
+求教 | TRADUÇÃO: pedir conselho/buscar instrução
+求是 | TRADUÇÃO: buscar a verdade
+求根 | TRADUÇÃO: (mat.) extrair uma raiz
+求欢 | TRADUÇÃO: fazer uma proposta indecente a uma mulher
+求爷爷告奶奶 | TRADUÇÃO: lit. implorar ao avô e chamar pela avó (expressão idiomática)/fig. andar implorando ajuda
+求生 | TRADUÇÃO: buscar a sobrevivência/ter vontade de viver
+求生意志 | TRADUÇÃO: vontade de viver; vontade de sobreviver
+求田问舍 | TRADUÇÃO: lit. interessar-se exclusivamente pela aquisição de propriedades (expressão idiomática)/fig. não ter aspirações elevadas na vida
+求知 | TRADUÇÃO: ansioso para aprender/desejoso de conhecimento
+求知欲 | TRADUÇÃO: desejo de conhecimento
+求签 | TRADUÇÃO: (religião popular) adivinhar sorte através de varetas de sorte ou de lotes divinatórios
+求索 | TRADUÇÃO: procurar algo/buscar/estar em busca de/explorar
+求职 | TRADUÇÃO: procurar emprego
+求职信 | TRADUÇÃO: carta de apresentação/candidatura de emprego
+求职者 | TRADUÇÃO: candidato(a) a emprego
+求亲 | TRADUÇÃO: fazer uma proposta de casamento (a outra família em nome do filho ou filha)/buscar uma aliança matrimonial
+求亲靠友 | TRADUÇÃO: contar com a ajuda de parentes e amigos
+求解 | TRADUÇÃO: precisar de uma solução/buscar resolver (uma equação)
+求证 | TRADUÇÃO: buscar provas/buscar confirmação
+求贤若渴 | TRADUÇÃO: (expressão idiomática) buscar ansiosamente pessoas talentosas
+求购 | TRADUÇÃO: procurar comprar; estar à procura de (algo) para comprar
+求道于盲 | TRADUÇÃO: veja 問道於盲|问道于盲
+求医 | TRADUÇÃO: procurar tratamento médico; consultar um médico
+求锤得锤 | TRADUÇÃO: (neologismo c. 2017) (gíria) exigir provas do que se acredita ser uma acusação infundada apenas para ver a evidência irrefutável fornecida adequadamente
+求饶 | TRADUÇÃO: implorar perdão
+汅 | TRADUÇÃO: variante antiga de 沔
+汆 | TRADUÇÃO: escaldar/ferver por pouco tempo
+汈 | TRADUÇÃO: (usado em topônimos)
+汊 | TRADUÇÃO: riacho ramificado
+汋 | TRADUÇÃO: derramar
+汍 | TRADUÇÃO: derramar lágrimas
+汏 | TRADUÇÃO: lavar (dialeto)
+汐 | TRADUÇÃO: marés noturnas/baixa-mar à noite/pronúncia de Taiwan: [xi4]
+汐止 | TRADUÇÃO: Xizhi ou Hsichih, cidade em Nova Taipei, Taiwan
+汐止市 | TRADUÇÃO: Xizhi ou Hsichih, cidade em Nova Taipei, Taiwan
+汔 | TRADUÇÃO: próximo
+汕 | TRADUÇÃO: armadilha de bambu para peixes/usado em nomes de lugares ligados a Shantou 汕頭|汕头
+汕尾 | TRADUÇÃO: veja 汕尾市
+汕尾市 | TRADUÇÃO: Shanwei, cidade de nível de prefeitura na Província de Guangdong 廣東省|广东省
+汕头 | TRADUÇÃO: veja 汕頭市|汕头市
+汕头大学 | TRADUÇÃO: Universidade de Shantou
+汕头市 | TRADUÇÃO: Shantou, cidade de nível de prefeitura na Província de Guangdong 廣東省|广东省
+汗 | TRADUÇÃO: veja 可汗, 汗國|汗国 ‖ suor/transpiração/CL:滴,頭|头,身/ficar sem palavras (por impotência, vergonha, etc.) (gíria da internet, usada como interjeição)
+汗国 | TRADUÇÃO: canato (estado mongol)
+汗如雨下 | TRADUÇÃO: suando como chuva (expressão idiomática); transpirar profusamente/suando como um porco
+汗孔 | TRADUÇÃO: poro sudoríparo
+汗斑 | TRADUÇÃO: nome comum para 花斑癬|花斑癣, tinha versicolor
+汗毛 | TRADUÇÃO: pelo/pelo macio/pelo fino
+汗毛孔 | TRADUÇÃO: poro sudoríparo
+汗水 | TRADUÇÃO: suor/transpiração
+汗津津 | TRADUÇÃO: suado
+汗流浃背 | TRADUÇÃO: suar profusamente (expressão idiomática)/encharcado de suor
+汗液 | TRADUÇÃO: suor
+汗漫 | TRADUÇÃO: vasto/sem limites/poder (de um rio ou oceano)
+汗牛充栋 | TRADUÇÃO: lit. livros suficientes para fazer suar um boi de carga ou encher uma casa até as vigas (expressão idiomática); fig. muitos livros
+汗珠 | TRADUÇÃO: gotas de suor
+汗珠子 | TRADUÇÃO: gotas de suor
+汗粒 | TRADUÇÃO: gota de suor
+汗背心 | TRADUÇÃO: regata/camiseta sem mangas
+汗腺 | TRADUÇÃO: glândula sudorípara
+汗臭 | TRADUÇÃO: odor corporal
+汗血宝马 | TRADUÇÃO: cavalo de Ferghana
+汗血马 | TRADUÇÃO: (nos tempos antigos) cavalo de Ferghana; (posteriormente) cavalo de boa qualidade
+汗衫 | TRADUÇÃO: colete/camiseta/camisa
+汗褂儿 | TRADUÇÃO: camiseta
+汗褟儿 | TRADUÇÃO: camiseta (dialeto)
+汗颜 | TRADUÇÃO: corar de vergonha (literário)
+汗马 | TRADUÇÃO: (lit.) extenuar o cavalo/(fig.) feitos de guerra/cavalo de guerra (abrev. de 汗血馬|汗血马)
+汗马功劳 | TRADUÇÃO: feitos de guerra/(fig.) contribuição heroica
+汗腾格里峰 | TRADUÇÃO: Khan Tengri ou Monte Hantengri, na fronteira entre Xinjiang e Cazaquistão
+污 | TRADUÇÃO: variante de 污 ‖ variante de 污 ‖ sujo/imundo/repugnante/corrupto/manchar/difamar/sujeira/imundície
+污垢 | TRADUÇÃO: variante de 污垢 ‖ sujeira; imundície; fuligem
+汛 | TRADUÇÃO: água alta/enchente/borrifar água
+汛情 | TRADUÇÃO: níveis de água durante a estação das cheias
+汛期 | TRADUÇÃO: estação das cheias
+汜 | TRADUÇÃO: riacho que retorna após se ramificar
+汝 | TRADUÇÃO: tu (arcaico)
+汝南 | TRADUÇÃO: veja 汝南縣|汝南县
+汝南县 | TRADUÇÃO: Runan, um condado na cidade de Zhumadian 駐馬店市|驻马店市, Henan
+汝城 | TRADUÇÃO: veja 汝城縣|汝城县
+汝城县 | TRADUÇÃO: Rucheng, um condado na cidade de Chenzhou 郴州市, Hunan
+汝州 | TRADUÇÃO: veja 汝州市
+汝州市 | TRADUÇÃO: Ruzhou, uma cidade de nível de condado na cidade de Pingdingshan 平頂山市|平顶山市, Henan
+汝阳 | TRADUÇÃO: veja 汝陽縣|汝阳县
+汝阳县 | TRADUÇÃO: Ruyang, um condado na cidade de Luoyang 洛陽市|洛阳市, Henan
+汞 | TRADUÇÃO: mercúrio (química) ‖ variante de 汞
+汞溴红 | TRADUÇÃO: merbromina/mercurocromo

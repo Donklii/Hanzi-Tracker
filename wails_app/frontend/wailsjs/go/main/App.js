@@ -46,6 +46,10 @@ export function CancelarEscutaStt() {
   return window['go']['main']['App']['CancelarEscutaStt']();
 }
 
+export function ConverterTexto(arg1, arg2) {
+  return window['go']['main']['App']['ConverterTexto'](arg1, arg2);
+}
+
 export function CaptureAndOCR() {
   return window['go']['main']['App']['CaptureAndOCR']();
 }
@@ -84,6 +88,18 @@ export function ExcluirTudo() {
 
 export function FalarPinyin(arg1, arg2) {
   return window['go']['main']['App']['FalarPinyin'](arg1, arg2);
+}
+
+export function FalarPinyinRevisao(arg1, arg2) {
+  return window['go']['main']['App']['FalarPinyinRevisao'](arg1, arg2);
+}
+
+export function InvalidarSintesesTts() {
+  return window['go']['main']['App']['InvalidarSintesesTts']();
+}
+
+export function ObterClipesCacheTts(arg1, arg2) {
+  return window['go']['main']['App']['ObterClipesCacheTts'](arg1, arg2);
 }
 
 export function GetCaptureResolution() {
@@ -174,8 +190,52 @@ export function ObterDadosEscritaHanzi(arg1) {
   return window['go']['main']['App']['ObterDadosEscritaHanzi'](arg1);
 }
 
+export function ObterArvoreJornada() {
+  return window['go']['main']['App']['ObterArvoreJornada']();
+}
+
+export function ObterProgressoJornada() {
+  return window['go']['main']['App']['ObterProgressoJornada']();
+}
+
+export function ObterQuestoesJornada(arg1, arg2) {
+  return window['go']['main']['App']['ObterQuestoesJornada'](arg1, arg2);
+}
+
+export function ObterQuestoesJornadaComPrimeira(arg1, arg2, arg3) {
+  return window['go']['main']['App']['ObterQuestoesJornadaComPrimeira'](arg1, arg2, arg3);
+}
+
+export function ObterPrimeiraQuestaoJornada(arg1, arg2) {
+  return window['go']['main']['App']['ObterPrimeiraQuestaoJornada'](arg1, arg2);
+}
+
 export function ObterQuestoesRevisao(arg1, arg2) {
   return window['go']['main']['App']['ObterQuestoesRevisao'](arg1, arg2);
+}
+
+export function ObterQuestoesRevisaoComPrimeira(arg1, arg2, arg3) {
+  return window['go']['main']['App']['ObterQuestoesRevisaoComPrimeira'](arg1, arg2, arg3);
+}
+
+export function ObterPrimeiraQuestaoRevisao(arg1) {
+  return window['go']['main']['App']['ObterPrimeiraQuestaoRevisao'](arg1);
+}
+
+export function RegistrarRevisaoJornadaConcluida(arg1, arg2) {
+  return window['go']['main']['App']['RegistrarRevisaoJornadaConcluida'](arg1, arg2);
+}
+
+export function GerarFrasesComIA(arg1) {
+  return window['go']['main']['App']['GerarFrasesComIA'](arg1);
+}
+
+export function ObterFrasesIA() {
+  return window['go']['main']['App']['ObterFrasesIA']();
+}
+
+export function DescartarFraseIA(arg1) {
+  return window['go']['main']['App']['DescartarFraseIA'](arg1);
 }
 
 export function ObterTotalHanzisDicionario() {
@@ -254,10 +314,83 @@ export function ObterEstatisticasPalavra(arg1) {
   return window['go']['main']['App']['ObterEstatisticasPalavra'](arg1);
 }
 
+export function ObterInformacaoExpansao(arg1) {
+  return window['go']['main']['App']['ObterInformacaoExpansao'](arg1);
+}
+
 export function RegistrarRespostaRevisao(arg1, arg2, arg3, arg4, arg5) {
   return window['go']['main']['App']['RegistrarRespostaRevisao'](arg1, arg2, arg3, arg4, arg5);
 }
 
-export function ObterSugestoesAprendidoLote(arg1) {
-  return window['go']['main']['App']['ObterSugestoesAprendidoLote'](arg1);
+export function RegistrarRespostaFrase(arg1, arg2, arg3) {
+  return window['go']['main']['App']['RegistrarRespostaFrase'](arg1, arg2, arg3);
 }
+
+export function ObterSugestoesAprendidoLote(arg1, arg2) {
+  return window['go']['main']['App']['ObterSugestoesAprendidoLote'](arg1, arg2);
+}
+
+export function ObterSugestoesEstudoOcr() {
+  return window['go']['main']['App']['ObterSugestoesEstudoOcr']();
+}
+
+export function OcultarSugestoesEstudoOcr(arg1) {
+  return window['go']['main']['App']['OcultarSugestoesEstudoOcr'](arg1);
+}
+
+export function ObterFocoRevisao() {
+  return window['go']['main']['App']['ObterFocoRevisao']();
+}
+
+export function AdicionarHanziFoco(arg1) {
+  return window['go']['main']['App']['AdicionarHanziFoco'](arg1);
+}
+
+export function RemoverHanziFoco(arg1) {
+  return window['go']['main']['App']['RemoverHanziFoco'](arg1);
+}
+
+export function ObterProgressoRevisaoPalavras(arg1) {
+  return window['go']['main']['App']['ObterProgressoRevisaoPalavras'](arg1);
+}
+
+export function ReiniciarAplicativo() {
+  return window['go']['main']['App']['ReiniciarAplicativo']();
+}
+
+export function SegmentarTexto(arg1) {
+  return window['go']['main']['App']['SegmentarTexto'](arg1);
+}
+
+export function ObterRecomendacoesBaralho(arg1) {
+  return window['go']['main']['App']['ObterRecomendacoesBaralho'](arg1);
+}
+
+export function VirarCartaBaralho(arg1, arg2) {
+  return window['go']['main']['App']['VirarCartaBaralho'](arg1, arg2);
+}
+
+export function IniciarAtualizacao(arg1) {
+  return window['go']['main']['App']['IniciarAtualizacao'](arg1);
+}
+
+export function ObterEstadoAtualizacao() {
+  return window['go']['main']['App']['ObterEstadoAtualizacao']();
+}
+
+export function VerificarAtualizacao(arg1) {
+  return window['go']['main']['App']['VerificarAtualizacao'](arg1);
+}
+
+export function MarcarNotasVersaoVistas(arg1) {
+  return window['go']['main']['App']['MarcarNotasVersaoVistas'](arg1);
+}
+
+export function ObterNotasVersao() {
+  return window['go']['main']['App']['ObterNotasVersao']();
+}
+
+export function ObterNotasVersaoNaoVistas() {
+  return window['go']['main']['App']['ObterNotasVersaoNaoVistas']();
+}
+

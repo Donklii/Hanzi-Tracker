@@ -5,6 +5,7 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"sync"
 
 	"github.com/wangbin/jiebago"
 )
@@ -12,16 +13,23 @@ import (
 //go:embed dict.txt
 var dictBytes []byte
 
-var seg jiebago.Segmenter
+var (
+	seg     jiebago.Segmenter
+	onceSeg sync.Once
+)
 
 func InitJieba() error {
-	// Write the embedded dict to a temp file because LoadDictionary requires a path
-	tmpFile := filepath.Join(os.TempDir(), "jieba_dict.txt")
-	err := os.WriteFile(tmpFile, dictBytes, 0644)
-	if err != nil {
-		return err
-	}
-	return seg.LoadDictionary(tmpFile)
+	var initErr error
+	onceSeg.Do(func() {
+		// Write the embedded dict to a temp file because LoadDictionary requires a path
+		tmpFile := filepath.Join(os.TempDir(), "jieba_dict.txt")
+		if err := os.WriteFile(tmpFile, dictBytes, 0644); err != nil {
+			initErr = err
+			return
+		}
+		initErr = seg.LoadDictionary(tmpFile)
+	})
+	return initErr
 }
 
 // SegmentarTextoChines segmenta o texto em chinês e retorna palavras únicas.

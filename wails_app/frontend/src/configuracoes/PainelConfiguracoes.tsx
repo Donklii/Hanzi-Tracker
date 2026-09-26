@@ -15,6 +15,7 @@ import { AbaInfo } from './abas/AbaInfo';
 import { useCatalogos } from './useCatalogos';
 import { useArmazenamento } from './useArmazenamento';
 import { useNuvem } from '../nuvem/useNuvem';
+import { t } from '../i18n/i18n';
 
 // Abas comuns da sidebar, na ordem de exibição (a aba Info tem botão próprio, com estilo especial).
 const ABAS_SIDEBAR = [
@@ -75,12 +76,12 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                 <input
                   type="text"
                   className="search-bar"
-                  placeholder="Procurar..."
+                  placeholder={t('Procurar...')}
                   value={termoBusca}
                   onChange={(e) => setTermoBusca(e.target.value)}
                 />
               </div>
-              <h3>Configurações</h3>
+              <h3>{t('Configurações')}</h3>
 
               {ABAS_SIDEBAR.map(aba => (
                 <button
@@ -88,7 +89,7 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                   className={`settings-tab ${abaConfiguracao === aba.chave ? 'active' : ''}`}
                   onClick={() => setAbaConfiguracao(aba.chave)}
                 >
-                  {aba.rotulo}
+                  {t(aba.rotulo)}
                 </button>
               ))}
 
@@ -99,7 +100,7 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
               >
                 <div style={{ display: 'flex', alignItems: 'center', gap: '6px', width: '100%' }}>
                   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
-                  <span>Info</span>
+                  <span>{t('Info')}</span>
                   <span style={{ fontWeight: 300, fontSize: '11px', color: 'var(--cor-texto-suave)', fontStyle: 'italic', marginLeft: 'auto' }}>Beta</span>
                 </div>
               </button>
@@ -110,7 +111,7 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
             <div className="settings-main">
               <div className="settings-header">
                 <div className="settings-header-top">
-                  <h2>{abaConfiguracao}</h2>
+                  <h2>{t(abaConfiguracao)}</h2>
                   <button className="modal-close" onClick={() => setPainelConfigAberto(false)}>×</button>
                 </div>
               </div>
@@ -139,10 +140,7 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                     termoBusca={termoBusca}
                     configuracoesApp={configuracoesApp}
                     AtualizarConfiguracao={AtualizarConfiguracao}
-                    AplicarConfiguracao={AplicarConfiguracao}
                     setConfirmacao={setConfirmacao}
-                    infoHardware={infoHardware}
-                    ehCpuNome={catalogos.ehCpuNome}
                     motores={catalogos.motores}
                     progressoMotor={catalogos.progressoMotor}
                     baixandoMotor={catalogos.baixandoMotor}
@@ -178,6 +176,10 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                     configuracoesApp={configuracoesApp}
                     AtualizarConfiguracao={AtualizarConfiguracao}
                     resCaptura={resCaptura}
+                    AplicarConfiguracao={AplicarConfiguracao}
+                    infoHardware={infoHardware}
+                    ehCpuNome={catalogos.ehCpuNome}
+                    motores={catalogos.motores}
                   />
                 </div>
 
@@ -206,8 +208,6 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                     infoArmazenamento={armazenamento.infoArmazenamento}
                     armazenamentoOcupado={armazenamento.armazenamentoOcupado}
                     setConfirmacao={setConfirmacao}
-                    configuracoesApp={configuracoesApp}
-                    AtualizarConfiguracao={AtualizarConfiguracao}
                     LimparCategoriaArmazenamento={armazenamento.LimparCategoriaArmazenamento}
                     ExcluirTodoArmazenamento={armazenamento.ExcluirTodoArmazenamento}
                     infoNuvem={nuvem.infoNuvem}
@@ -220,12 +220,16 @@ export function PainelConfiguracoes(props: PainelConfiguracoesProps) {
                 </div>
 
                 <div style={estiloAba('Info')}>
-                  <AbaInfo termoBusca={termoBusca} />
+                  <AbaInfo
+                    termoBusca={termoBusca}
+                    configuracoesApp={configuracoesApp}
+                    AtualizarConfiguracao={AtualizarConfiguracao}
+                  />
                 </div>
 
                 {termoBusca && (
                   <div style={{ textAlign: 'center', color: 'var(--cor-texto-suave)', marginTop: '32px' }}>
-                    <small>Fim dos resultados da pesquisa.</small>
+                    <small>{t('Fim dos resultados da pesquisa.')}</small>
                   </div>
                 )}
 

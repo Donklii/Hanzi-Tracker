@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+图 | TRADUÇÃO: diagrama/figura/desenho/gráfico/mapa/CL:張|张/planejar/maquinar/tentar/buscar
+图例 | TRADUÇÃO: legenda (de mapa etc.)/diagrama/ilustração/símbolo gráfico
+图们 | TRADUÇÃO: ver 圖們市|图们市
+图们市 | TRADUÇÃO: Tumén, cidade a nível de condado na Prefeitura Autônoma Coreana de Yanbian 延邊朝鮮族自治州|延边朝鲜族自治州, Jilin
+图们江 | TRADUÇÃO: Rio Tumén, na província de Jilin 吉林省, formando a fronteira leste entre China e Coreia do Norte
+图像 | TRADUÇÃO: imagem/figura/gráfico
+图像分割 | TRADUÇÃO: segmentação de imagem (visão computacional)
+图像用户介面 | TRADUÇÃO: interface gráfica do usuário/IGU
+图像处理 | TRADUÇÃO: processamento de imagem
+图像识别 | TRADUÇÃO: classificação de imagem (visão computacional)
+图册 | TRADUÇÃO: livro de figuras ou gráficos/(mat.) atlas
+图坦卡蒙 | TRADUÇÃO: Tutancâmon, rei do Egito Antigo 1333-1323 a.C.
+图坦卡门 | TRADUÇÃO: Tutancâmon, rei do Egito Antigo 1333-1323 a.C.
+图存 | TRADUÇÃO: tentar sobreviver
+图层 | TRADUÇÃO: camada (imagem)
+图形 | TRADUÇÃO: figura/desenho/diagrama/gráfico/representação/gráfico
+图形卡 | TRADUÇÃO: placa gráfica
+图形用户界面 | TRADUÇÃO: interface gráfica do usuário (IGU)
+图形界面 | TRADUÇÃO: Interface Gráfica do Usuário (IGU) (computação)
+图形处理单元 | TRADUÇÃO: (computação) unidade de processamento gráfico (GPU)
+图形处理器 | TRADUÇÃO: (computação) unidade de processamento gráfico (GPU)
+图恩 | TRADUÇÃO: Thun, Suíça
+图景 | TRADUÇÃO: paisagem (numa imagem)/(fig.) panorama (i.e. situação geral)/visão da situação/imagem mental
+图书 | TRADUÇÃO: livros (em biblioteca ou livraria)/CL:本,冊|册,部
+图书管理员 | TRADUÇÃO: bibliotecário
+图书馆 | TRADUÇÃO: biblioteca/CL:家,個|个
+图书馆员 | TRADUÇÃO: bibliotecário
+图木舒克 | TRADUÇÃO: Tumxuk shehiri (cidade de Tumshuq) ou cidade a nível de subprefeitura Túmùshūkè no oeste de Xinjiang
+图木舒克市 | TRADUÇÃO: Tumxuk shehiri (cidade de Tumshuq) ou cidade a nível de subprefeitura Túmùshūkè no oeste de Xinjiang
+图林根 | TRADUÇÃO: Turíngia (estado na Alemanha)
+图案 | TRADUÇÃO: desenho/padrão
+图标 | TRADUÇÃO: símbolo gráfico/(computação) ícone
+图样 | TRADUÇÃO: diagrama/projeto
+图样图森破 | TRADUÇÃO: (gíria da internet) ter uma visão simplista de algo (transcrição de "too young, too simple" – palavras em inglês ditas por Jiang Zemin 江澤民|江泽民 ao repreender repórteres de Hong Kong em 2000)
+图波列夫 | TRADUÇÃO: Tupolev, fabricante russo de aviões
+图尔 | TRADUÇÃO: Tours (cidade na França)
+图尔库 | TRADUÇÃO: Turku (cidade na Finlândia)
+图片 | TRADUÇÃO: imagem/fotografia/CL:張|张
+图片报 | TRADUÇÃO: Bild-Zeitung
+图版 | TRADUÇÃO: chapa de impressão com imagem (ilustração, foto etc.)/impressão feita com essa chapa
+图瓦 | TRADUÇÃO: Tuva, república no sul da Sibéria central, Rússia
+图瓦卢 | TRADUÇÃO: Tuvalu
+图画 | TRADUÇÃO: desenho/gravura
+图皮 | TRADUÇÃO: Tupi (grupo de povos indígenas da América do Sul)
+图卢斯 | TRADUÇÃO: Toulouse (França)
+图卢兹 | TRADUÇÃO: Toulouse (cidade na França)
+图示 | TRADUÇÃO: representação gráfica/diagrama/(Taiwan) (computação) ícone
+图穷匕见 | TRADUÇÃO: (lit.) o punhal do assassino, escondido num rolo de mapa, é subitamente revelado ao desenrolar o mapa (referindo-se à tentativa de assassinato de Ying Zheng 嬴政 por Jing Ke 荊軻|荆轲 em 227 a.C.) (expressão idiomática)/(fig.) intenção maliciosa subitamente se torna aparente
+图穷匕首见 | TRADUÇÃO: ver 圖窮匕見|图穷匕见
+图章 | TRADUÇÃO: carimbo/selo/CL:方
+图纸 | TRADUÇÃO: projeto/desenho/plantas/papel milimetrado
+图表 | TRADUÇÃO: gráfico/diagrama
+图西族 | TRADUÇÃO: Tutsi, grupo étnico em Ruanda e Burundi
+图解 | TRADUÇÃO: ilustração/diagrama/representação gráfica/explicar com auxílio de diagrama
+图解说明 | TRADUÇÃO: diagrama explicativo
+图论 | TRADUÇÃO: teoria dos grafos (mat.)
+图谋 | TRADUÇÃO: conspirar
+图谱 | TRADUÇÃO: arquivo de gráficos (ex.: mapas, documentos ou figuras botânicas)/atlas/coleção de ilustrações ou partituras
+图象 | TRADUÇÃO: variante de 圖像|图像
+图财害命 | TRADUÇÃO: ver 謀財害命|谋财害命
+图轴 | TRADUÇÃO: pintura em rolo
+图辑 | TRADUÇÃO: apresentação de slides/galeria de fotos (em site)
+图钉 | TRADUÇÃO: tachinha
+图录 | TRADUÇÃO: catálogo
+图鉴 | TRADUÇÃO: manual ilustrado ‖ variante de 圖鑑|图鉴
+图门江 | TRADUÇÃO: variante de 圖們江|图们江
+图阿雷格 | TRADUÇÃO: Tuaregue (povo nômade do Saara)
+图集 | TRADUÇÃO: coleção de figuras/atlas/CL:本,部
+图雷特氏综合症 | TRADUÇÃO: síndrome de Tourette
+图灵 | TRADUÇÃO: Alan Turing (1912–1954), matemático e lógico inglês, amplamente reconhecido como fundador da ciência da computação
+图灵机 | TRADUÇÃO: (mat.) máquina de Turing
+图灵奖 | TRADUÇÃO: Prêmio Turing
+图腾 | TRADUÇÃO: totem (empréstimo)
+团 | TRADUÇÃO: redondo/novelo/bola/enrolar em bola/reunir/regimento/grupo/sociedade/classificador para uma massa mole: bola (de papel), novelo (de lã), nuvem (de fumaça) ‖ bolinho cozido
+团丁 | TRADUÇÃO: (antigo) membro de milícia local
+团伙 | TRADUÇÃO: gangue (criminosa)/membro de gangue/cúmplice/aliado
+团员 | TRADUÇÃO: membro (de grupo)
+团圆 | TRADUÇÃO: reunir-se (família)
+团团转 | TRADUÇÃO: girar e girar/correr em círculos/fig. freneticamente ocupado
+团契 | TRADUÇÃO: associação cristã/comunhão
+团年 | TRADUÇÃO: (de uma família) reunir-se na véspera do Ano Novo Lunar/reunião familiar no Ano Novo
+团建 | TRADUÇÃO: formação de equipe (abr. de 團隊建設|团队建设)/fortalecimento de camaradagem dentro da Liga da Juventude Comunista Chinesa 中國共產主義青年團|中国共产主义青年团
+团战 | TRADUÇÃO: (games) batalha em equipe
+团扇 | TRADUÇÃO: leque circular
+团拜 | TRADUÇÃO: reunir-se em grupo para trocar saudações (tipicamente no Ano Novo)
+团拜会 | TRADUÇÃO: recepção de Ano Novo
+团灭 | TRADUÇÃO: (videogame) (de um time ou grupo inteiro) ser aniquilado
+团结 | TRADUÇÃO: unir/unidade; solidariedade/unido
+团结一心 | TRADUÇÃO: unir-se como um só
+团结一致 | TRADUÇÃO: ver 團結一心|团结一心
+团结就是力量 | TRADUÇÃO: a união faz a força (slogan revolucionário e canção popular de 1943)
+团结工会 | TRADUÇÃO: Solidariedade (sindicato polonês)
+团练 | TRADUÇÃO: milícia local formada para suprimir rebeliões camponesas (antigo)
+团聚 | TRADUÇÃO: reunir-se/ter uma reunião
+团花 | TRADUÇÃO: desenho de bordado arredondado
+团购 | TRADUÇÃO: compra coletiva/compra em grupo/compra por um grupo de indivíduos que negociam um desconto para o grupo
+团长 | TRADUÇÃO: comando regimental/chefe de delegação/organizador de compra coletiva; coordenador de compra em grupo
+团队 | TRADUÇÃO: equipe
+团队精神 | TRADUÇÃO: mentalidade de grupo/coletivismo/solidariedade/espírito de equipe
+团风 | TRADUÇÃO: ver 團風縣|团风县
+团风县 | TRADUÇÃO: distrito de Tuanfeng, um condado na cidade de Huanggang, Hubei
+团体 | TRADUÇÃO: grupo/organização/equipe/CL:個|个
+团体冠军 | TRADUÇÃO: campeonato por equipes
+团体行 | TRADUÇÃO: viagem em grupo
+团鱼 | TRADUÇÃO: tartaruga de casco mole
+圙 | TRADUÇÃO: usado em 圐圙
+圛 | TRADUÇÃO: névoa subindo
+圜 | TRADUÇÃO: círculo/circundar ‖ círculo/redondo
+圞 | TRADUÇÃO: redondo
+土 | TRADUÇÃO: sobrenome Tu/grupo étnico Tu ‖ terra/poeira/argila/local/indígena/ópio bruto/rústico/uma das oito categorias de instrumentos musicais antigos 八音
+土丘 | TRADUÇÃO: monte/montículo/túmulo
+土人 | TRADUÇÃO: nativo/aborígene/figura de argila
+土伦 | TRADUÇÃO: Toulon (cidade na França)
+土共 | TRADUÇÃO: (coloq.) comunista (pejorativo, usado pelo KMT)/PCCh, o partido do povo (usado por apoiadores do PCCh)/campo pró-Pequim (HK)/(abrev.) Partido Comunista da Turquia/(abrev.) Partido Comunista do Turcomenistão
+土到不行 | TRADUÇÃO: antiquado/extremamente cafona
+土力工程 | TRADUÇÃO: engenharia geotécnica
+土包子 | TRADUÇÃO: caipira/brega/pessoa ingênua do campo (humilde, aplicado a si mesmo)/montículo de sepultura
+土匪 | TRADUÇÃO: bandido
+土司 | TRADUÇÃO: pão de forma (estrangeirismo de "toast")/cacique hereditário nomeado pelo governo nas dinastias Yuan, Ming e Qing
+土味情话 | TRADUÇÃO: frases de cantada cafonas
+土器 | TRADUÇÃO: cerâmica/faiança
+土地 | TRADUÇÃO: terra/solo/território/CL:片,塊|块 ‖ deus local/espírito do lugar
+土地公 | TRADUÇÃO: Tudi Gong, o deus tutelar local (na religião popular chinesa)
+土地利用规划 | TRADUÇÃO: plano de uso do solo (termo oficial do governo da R.P.C.)
+土地改革 | TRADUÇÃO: reforma agrária
+土地神 | TRADUÇÃO: deus tutelar local (na religião popular chinesa) (mesmo que 土地公|土地公)
+土地资源 | TRADUÇÃO: recursos da terra
+土坎 | TRADUÇÃO: dique de terra
+土坎儿 | TRADUÇÃO: variante de 土坎 com retroflexão
+土坯 | TRADUÇÃO: tijolo de barro/adobe/cerâmica não cozida
+土坷垃 | TRADUÇÃO: (dialeto) torrão de terra
+土埂 | TRADUÇÃO: dique entre campos
+土城 | TRADUÇÃO: veja 土城區|土城区
+土城区 | TRADUÇÃO: Tucheng, um distrito de Nova Taipé, Taiwan
+土堆 | TRADUÇÃO: monte
+土墼 | TRADUÇÃO: tijolo de barro seco ao sol; adobe
+土壤 | TRADUÇÃO: solo
+土壤学 | TRADUÇÃO: pedologia (estudo do solo)
+土坝 | TRADUÇÃO: barragem de terra/barragem de terra e rochas (em oposição a barragem impermeável de argila ou concreto)
+土家 | TRADUÇÃO: grupo étnico Tujia
+土家族 | TRADUÇÃO: grupo étnico Tujia
+土层 | TRADUÇÃO: camada de solo/nível do solo
+土岗 | TRADUÇÃO: monte/montículo
+土崩瓦解 | TRADUÇÃO: desmoronar/desintegrar-se
+土布 | TRADUÇÃO: pano caseiro
+土库 | TRADUÇÃO: Tuku, cidade no condado de Yunlin, Taiwan
+土库曼 | TRADUÇÃO: turcomano/(Taiwan, HK) Turcomenistão
+土库曼人 | TRADUÇÃO: turcomano (pessoa)
+土库曼斯坦 | TRADUÇÃO: Turcomenistão
+土库镇 | TRADUÇÃO: cidade de Tuku, no condado de Yunlin, Taiwan
+土建 | TRADUÇÃO: engenharia civil/mesmo que 土木工程
+土得掉渣 | TRADUÇÃO: (coloq.) rústico; mal-educado
+土拉弗氏菌 | TRADUÇÃO: Francisella tularensis
+土拍 | TRADUÇÃO: leilão de terras; vender terra em leilão (abrev. de 土地拍賣|土地拍卖)
+土拨鼠 | TRADUÇÃO: (zoologia) marmota (nos EUA, especialmente a marmota-da-américa ou a marmota-comum)
+土改 | TRADUÇÃO: reforma agrária (abrev. de 土地改革)
+土政策 | TRADUÇÃO: política local/regulamentações regionais
+土方 | TRADUÇÃO: metro cúbico de terra (unidade de medida)/solo escavado/movimento de terra (abrev. de 土方工程)/(MTC) remédio popular
+土方子 | TRADUÇÃO: (MTC) remédio popular
+土方工程 | TRADUÇÃO: movimento de terra
+土族 | TRADUÇÃO: grupo étnico Tu
+土星 | TRADUÇÃO: Saturno (planeta)
+土曜日 | TRADUÇÃO: sábado (usado na astronomia chinesa antiga)
+土木 | TRADUÇÃO: construção/construção civil/engenharia civil
+土木工程 | TRADUÇÃO: engenharia civil
+土木形骸 | TRADUÇÃO: estrutura de terra e madeira (expressão idiomática); corpo simples e sem adornos
+土木身 | TRADUÇÃO: corpo como madeira e terra/simples/sem verniz (verdade)
+土桑 | TRADUÇÃO: Tucson (cidade no Arizona)
+土楼 | TRADUÇÃO: residência comunal tradicional hakka em Fujian, tipicamente uma grande estrutura circular de vários andares construída em torno de um santuário central
+土气 | TRADUÇÃO: rústico/burro/sem sofisticação
+土法 | TRADUÇÃO: método tradicional
+土洋 | TRADUÇÃO: nacional e estrangeiro
+土洋并举 | TRADUÇÃO: combinando métodos nativos e estrangeiros
+土洋结合 | TRADUÇÃO: combinando métodos nativos e estrangeiros (expressão idiomática); sofisticado e multifacetado
+土温 | TRADUÇÃO: temperatura do solo
+土澳 | TRADUÇÃO: Austrália (termo de gíria refletindo uma percepção da Austrália como um lugar atrasado)
+土灶 | TRADUÇÃO: fogão de barro; fogão de barro (tipicamente a lenha)
+土炕 | TRADUÇÃO: cama de tijolos aquecida comum
+土牛 | TRADUÇÃO: boi de argila/monte de terra em um dique (pronto para reparos de emergência)
+土牛木马 | TRADUÇÃO: boi de argila, cavalo de madeira (expressão idiomática); forma sem substância/objeto sem valor
+土特产 | TRADUÇÃO: especialidade local
+土狗 | TRADUÇÃO: cão nativo/grilo-toupeira (palavra coloquial para a praga agrícola Gryllotalpa 螻蛄|蝼蛄)
+土狼 | TRADUÇÃO: lobo-da-terra (Proteles cristatus), um pequeno parente insetívoro da hiena
+土生土长 | TRADUÇÃO: (expressão idiomática) (de pessoas) nascido e criado na localidade; (de formas artísticas, partidos políticos, empresas, produtos etc.) desenvolvido localmente desde o início; totalmente indígena
+土产 | TRADUÇÃO: produzido localmente/produto local (com características nativas distintas)
+土皇帝 | TRADUÇÃO: tirano local
+土石方 | TRADUÇÃO: solo e rocha escavados/entulho de construção
+土石流 | TRADUÇÃO: (Taiwan) fluxo de detritos/deslizamento de lama
+土神 | TRADUÇÃO: deus da terra
+土谷祠 | TRADUÇÃO: templo dedicado ao deus tutelar local 土地神 e ao deus dos cereais
+土窑 | TRADUÇÃO: forno de barro/caverna de loesse
+土老帽 | TRADUÇÃO: caipira/jeca/redneck/burro do mato
+土耳其 | TRADUÇÃO: Turquia
+土耳其人 | TRADUÇÃO: um turco/pessoa turca
+土耳其旋转烤肉 | TRADUÇÃO: döner kebab turco
+土耳其玉 | TRADUÇÃO: turquesa (pedra preciosa) (estrangeirismo)
+土耳其石 | TRADUÇÃO: (mineralogia) (estrangeirismo) turquesa
+土耳其语 | TRADUÇÃO: turco (língua)
+土耳其软糖 | TRADUÇÃO: delícia turca/Lokum
+土腥 | TRADUÇÃO: (de um gosto ou cheiro) terroso
+土茴香 | TRADUÇÃO: semente de endro
+土著 | TRADUÇÃO: aborígine/nativo
+土著人 | TRADUÇÃO: aborígine/pessoa indígena
+土葬 | TRADUÇÃO: enterro (em terra)/sepultamento
+土卫 | TRADUÇÃO: lua de Saturno
+土卫二 | TRADUÇÃO: Encélado (lua de Saturno), também conhecida como Saturno II
+土卫六 | TRADUÇÃO: Titã (lua de Saturno), também conhecida como Saturno VI
+土里土气 | TRADUÇÃO: tosco/rústico/desajeitado
+土制 | TRADUÇÃO: caseiro/feito em casa/terroso
+土话 | TRADUÇÃO: dialeto local/gíria/linguagem vernácula/patoá
+土语 | TRADUÇÃO: dialeto/patoá
+土豆 | TRADUÇÃO: batata/(Taiwan) amendoim (CL:顆|颗)
+土豆泥 | TRADUÇÃO: purê de batata
+土豆丝 | TRADUÇÃO: batata palha/batata cortada em tiras
+土豆网 | TRADUÇÃO: Tudou, site chinês de compartilhamento de vídeos
+土豚 | TRADUÇÃO: aardvark
+土豪 | TRADUÇÃO: tirano local/valentão local/(gíria) novo-rico
+土豪劣绅 | TRADUÇÃO: tiranos e corruptos locais (expressão idiomática)/máfia local dominante
+土猪 | TRADUÇÃO: aardvark
+土财主 | TRADUÇÃO: proprietário rural rico/agiota do interior/novo-rico provinciano
+土货 | TRADUÇÃO: produto local
+土路 | TRADUÇÃO: estrada de terra
+土邦 | TRADUÇÃO: estado nativo (termo usado pela potência colonial britânica para se referir a estados independentes da Índia ou África)
+土门 | TRADUÇÃO: Tumen ou Bumin Khan (-553), fundador do canato Göktürk
+土阶茅屋 | TRADUÇÃO: degraus de terra e uma casinha de palha/condições de vida frugais (expressão idiomática)
+土阶茅茨 | TRADUÇÃO: degraus de terra e uma choupana de colmo/condições de vida frugais (expressão idiomática)
+土鸡 | TRADUÇÃO: frango caipira
+土音 | TRADUÇÃO: sotaque local
+土头土脑 | TRADUÇÃO: rústico/tosco/deselegante
+土香 | TRADUÇÃO: veja 香附
+土𱇏鱼 | TRADUÇÃO: (Taiwan) cavala-espanhola
+土鲮鱼 | TRADUÇÃO: veja 鯪|鲮
+土鳖 | TRADUÇÃO: besouro-de-terra/(coloq.) profissional ou empreendedor que nunca estudou no exterior, ao contrário de um 海歸|海归/(dialeto) caipira
+土默特右旗 | TRADUÇÃO: Bandeira Direita de Tumed, khoshuu Tümed baruun em mongol, em Baotou 包頭|包头, Mongólia Interior
+土默特左旗 | TRADUÇÃO: Bandeira Esquerda de Tumed, khoshuu Tümed züün em mongol, em Hohhot 呼和浩特, Mongólia Interior
+圢 | TRADUÇÃO: plano/nível/usado em nomes de lugares/variante de 町
+圣 | TRADUÇÃO: (literário) cavar com esforço persistente (ex.: para colher vegetais silvestres) ‖ variante de 聖|圣 ‖ (forma presa) inigualável (em sabedoria, virtude moral, habilidade etc)/(forma presa) indivíduo inigualável; modelo (sábio, santo, imperador, mestre de uma habilidade etc)/(forma presa) sagrado
+在 | TRADUÇÃO: existir; estar vivo/estar (localizado) em/(usado antes de um verbo para indicar uma ação em andamento)
+在一起 | TRADUÇÃO: juntos
+在下 | TRADUÇÃO: sob/mim mesmo (humilde)
+在下面 | TRADUÇÃO: embaixo
+在世 | TRADUÇÃO: estar vivo
+在乎 | TRADUÇÃO: depender de/residir em/dever-se a (certo atributo)/(frequentemente usado na negativa) importar-se com
+在任 | TRADUÇÃO: estar no cargo/incumbente
+在位 | TRADUÇÃO: estar no trono/reinar/ocupar uma posição de liderança específica
+在位时代 | TRADUÇÃO: reinado (de um rei, imperador etc)
+在来米 | TRADUÇÃO: (Taiwan) arroz de grão longo não glutinoso
+在先 | TRADUÇÃO: vir primeiro/primeiro/prior/anteriormente/primeiramente/antigamente
+在内 | TRADUÇÃO: (incluído) nisso/entre eles
+在前 | TRADUÇÃO: adiante/antigamente/no passado
+在千钧一发之际 | TRADUÇÃO: no momento crítico/na hora H
+在即 | TRADUÇÃO: próximo iminente/à vista
+在台 | TRADUÇÃO: em Taiwan (usado de forma atributiva)
+在地 | TRADUÇÃO: (Taiwan) local/nativo (do taiwanês 在地, pronúncia Tai-lo [tsāi-tē])
+在地下 | TRADUÇÃO: subterrâneo
+在场 | TRADUÇÃO: estar presente/estar no local
+在外 | TRADUÇÃO: externo/excluído
+在天之灵 | TRADUÇÃO: alma e espírito do falecido
+在家 | TRADUÇÃO: estar em casa/(no trabalho) estar presente (em oposição a estar fora a trabalho 出差)/(Budismo etc) permanecer leigo (em oposição a tornar-se monge ou monja 出家)
+在家千日好，出门一时难 | TRADUÇÃO: em casa, pode-se passar mil dias confortavelmente, mas passar um dia fora de casa pode ser desafiador (expressão idiomática)/não há lugar como o lar (fig.)
+在家靠父母，出外靠朋友 | TRADUÇÃO: depende-se dos pais em casa, e dos amigos quando longe de casa (expressão idiomática)
+在家靠父母，出门靠朋友 | TRADUÇÃO: depende-se dos pais em casa, e dos amigos quando longe de casa (expressão idiomática)
+在岗 | TRADUÇÃO: estar no posto de trabalho
+在座 | TRADUÇÃO: estar presente
+在建 | TRADUÇÃO: em construção
+在后 | TRADUÇÃO: atrás
+在意 | TRADUÇÃO: importar-se com/ligar para
+在我看 | TRADUÇÃO: na minha opinião/do meu ponto de vista
+在我看来 | TRADUÇÃO: na minha opinião
+在户外 | TRADUÇÃO: ao ar livre
+在所不计 | TRADUÇÃO: independentemente de/não ter nenhuma preocupação com
+在所不辞 | TRADUÇÃO: não se recusar a (expressão idiomática)/não hesitar em
+在所难免 | TRADUÇÃO: ser inevitável (expressão idiomática)
+在握 | TRADUÇÃO: (fig.) ter nas mãos/estar ao alcance
+在教 | TRADUÇÃO: ser crente (numa religião, especialmente no Islã)
+在于 | TRADUÇÃO: residir em/depender de/dever-se a (certo atributo)/(de um assunto) ser determinado por/caber a (alguém)
+在旁 | TRADUÇÃO: ao lado/próximo
+在望 | TRADUÇÃO: à vista/visível/(fig.) iminente/prestes a se materializar
+在朝 | TRADUÇÃO: sentado (atualmente servindo, ex.: membros do conselho)
+在校 | TRADUÇÃO: (atributivo) estar matriculado numa escola (ou universidade etc)
+在枪口 | TRADUÇÃO: sob a mira de uma arma
+在此 | TRADUÇÃO: aqui/nisto
+在此之前 | TRADUÇÃO: antes disso/anteriormente/previamente
+在此之后 | TRADUÇÃO: depois disso/depois/em seguida
+在此之际 | TRADUÇÃO: nesse meio tempo/ao mesmo tempo
+在此后 | TRADUÇÃO: depois disso/a partir de então
+在深处 | TRADUÇÃO: profundamente
+在理 | TRADUÇÃO: razoável/sensato
+在线 | TRADUÇÃO: online/conectado à Internet/(fig.) (coloq.) (de uma pessoa) mentalmente focado/engajado/(de habilidades, desempenho etc) afiado/no ponto/funcionando em alto nível
+在编 | TRADUÇÃO: (de pessoal ou cargos) com status permanente no sistema oficial de pessoal da China 編制|编制, com benefícios integrais e segurança no emprego
+在职 | TRADUÇÃO: estar empregado/estar no cargo/em serviço
+在职训练 | TRADUÇÃO: treinamento em serviço
+在华 | TRADUÇÃO: dentro da China/durante a visita à China
+在行 | TRADUÇÃO: ser hábil em algo/ser especialista num ofício ou profissão
+在诉讼期间 | TRADUÇÃO: pendente lite/durante o litígio
+在读 | TRADUÇÃO: estar estudando (numa escola ou instituto de pesquisa)
+在身 | TRADUÇÃO: possuir/estar ocupado ou sobrecarregado com (trabalho, contrato, processo judicial)
+在逃 | TRADUÇÃO: estar foragido (de um criminoso)
+在途 | TRADUÇÃO: em trânsito (de passageiros, mercadorias etc)
+在这之前 | TRADUÇÃO: antes disso/até aquele ponto
+在这期间 | TRADUÇÃO: durante este período/neste ínterim
+在那儿 | TRADUÇÃO: (expressão adverbial que indica que a atenção do sujeito do verbo está focada no que está fazendo, sem se distrair com mais nada)/apenas ...ando (e nada mais)
+在野 | TRADUÇÃO: estar fora do poder/estar na oposição (política)
+在野党 | TRADUÇÃO: partido de oposição
+圩 | TRADUÇÃO: dique ‖ (dialeto) feira (ao ar livre)/mercado (ao ar livre)
+圪 | TRADUÇÃO: (fonético)
+圪垯 | TRADUÇÃO: montículo; outeiro/inchaço ou calombo na pele; espinha/nó; caroço/preocupação; problema
+圫 | TRADUÇÃO: variante de 墺 ‖ (usado em topônimos)
+圬 | TRADUÇÃO: rebocar/caiar
+圭 | TRADUÇÃO: tablete de jade, quadrado na base e arredondado ou pontiagudo no topo, usado pela nobreza em cerimônias/relógio de sol/(antiga unidade de volume) quantidade minúscula; ínfima porção; resquício
+圭亚那 | TRADUÇÃO: Guiana
+圮 | TRADUÇÃO: destruído/danificar
+圯 | TRADUÇÃO: ponte, margem (de rio)
+地 | TRADUÇÃO: -mente/partícula estrutural: usada antes de um verbo ou adjetivo, ligando-o ao adjunto adverbial modificador precedente ‖ terra/chão/campo/lugar/terreno/CL:片
+地三鲜 | TRADUÇÃO: prato composto por batata, berinjela e pimentão verde salteados
+地上 | TRADUÇÃO: no chão/no assoalho
+地下 | TRADUÇÃO: subterrâneo/subterrâneo/oculto, secreto
+地下城 | TRADUÇÃO: masmorra (em videogames ou cenários de fantasia, etc.)
+地下室 | TRADUÇÃO: porão/adega (subterrânea)
+地下情 | TRADUÇÃO: caso amoroso secreto
+地下核爆炸 | TRADUÇÃO: explosão nuclear subterrânea
+地下核试验 | TRADUÇÃO: teste nuclear subterrâneo
+地下水 | TRADUÇÃO: água subterrânea
+地下茎 | TRADUÇÃO: (botânica) caule subterrâneo
+地下街 | TRADUÇÃO: galeria comercial subterrânea; shopping center subterrâneo
+地下通道 | TRADUÇÃO: passagem subterrânea; túnel
+地下道 | TRADUÇÃO: passagem subterrânea; túnel
+地下钱庄 | TRADUÇÃO: banco clandestino/banco ilegal/agiota
+地下铁路 | TRADUÇÃO: metrô
+地中海 | TRADUÇÃO: Mar Mediterrâneo ‖ (coloq.) calvície no topo da cabeça; coroa careca
+地中海贫血 | TRADUÇÃO: talassemia (medicina)
+地主 | TRADUÇÃO: proprietário rural/proprietário de terras/anfitrião
+地主家庭 | TRADUÇÃO: família proprietária de terras
+地主队 | TRADUÇÃO: time da casa (esportes)
+地主阶级 | TRADUÇÃO: classe dos proprietários rurais
+地久天长 | TRADUÇÃO: veja 天長地久|天长地久
+地位 | TRADUÇÃO: posição/status/lugar/CL:個|个
+地保 | TRADUÇÃO: (antigo) oficial policial local/agente de segurança local
+地价 | TRADUÇÃO: preço da terra
+地儿 | TRADUÇÃO: lugar/espaço
+地函 | TRADUÇÃO: (geologia) manto (da Terra) (Taiwan)
+地利 | TRADUÇÃO: localização favorável/no lugar certo/produtividade da terra
+地利人和 | TRADUÇÃO: condições geográficas e sociais favoráveis (expressão idiomática); boa localização e povo satisfeito
+地力 | TRADUÇÃO: fertilidade; produtividade (do solo ou da terra)
+地动 | TRADUÇÃO: terremoto (termo antigo)
+地动仪 | TRADUÇÃO: o primeiro sismógrafo do mundo, inventado por Zhang Heng 張衡|张衡 em 132/abrev. de 候風地動儀|候风地动仪
+地动山摇 | TRADUÇÃO: a terra tremeu e as montanhas balançaram (expressão idiomática); uma batalha tremenda
+地势 | TRADUÇÃO: terreno/topografia/relevo
+地勤 | TRADUÇÃO: (aviação) serviços de terra/pessoal de terra
+地勤人员 | TRADUÇÃO: (aeroporto) equipe de terra
+地区 | TRADUÇÃO: região; área (termo informal ou geográfico)/prefeitura (no sistema administrativo da China)
+地区差价 | TRADUÇÃO: diferenças locais de preço/variação regional de preço
+地区性 | TRADUÇÃO: regional/local
+地区法院 | TRADUÇÃO: tribunal regional
+地区经济 | TRADUÇÃO: economia local/economia regional
+地区冲突 | TRADUÇÃO: confronto local ou regional
+地台 | TRADUÇÃO: plataforma/piso/estrado
+地史 | TRADUÇÃO: história da Terra/história geológica
+地名 | TRADUÇÃO: topônimo/nome de lugar
+地和 | TRADUÇÃO: (mahjong) mão inicial; mão completada por um não-banqueiro em sua primeira compra/(mahjong) obter uma mão inicial
+地图 | TRADUÇÃO: mapa/CL:張|张,本
+地图册 | TRADUÇÃO: atlas
+地图集 | TRADUÇÃO: coleção de mapas/atlas
+地地道道 | TRADUÇÃO: autêntico/genuíno/100%/até o âmago/completo
+地址 | TRADUÇÃO: endereço/CL:個|个
+地址解析协议 | TRADUÇÃO: protocolo de resolução de endereços/ARP
+地域 | TRADUÇÃO: área/distrito/região
+地基 | TRADUÇÃO: fundações (de um edifício)/base
+地堡 | TRADUÇÃO: casamata/bunker (fortificação subterrânea)
+地块 | TRADUÇÃO: lote de terra/(geologia) maciço
+地塞米松 | TRADUÇÃO: dexametasona
+地堑 | TRADUÇÃO: fossa tectônica, vale de rift
+地坛 | TRADUÇÃO: Templo da Terra (em Pequim)
+地垄 | TRADUÇÃO: linhas de sulcos em campo arado
+地大物博 | TRADUÇÃO: vasto território com recursos abundantes (expressão idiomática)
+地契 | TRADUÇÃO: escritura de propriedade (de terra)/CL:張|张,份
+地委 | TRADUÇÃO: comitê do Partido em nível de prefeitura
+地宫 | TRADUÇÃO: palácio subterrâneo (como parte de tumba imperial)
+地对空导弹 | TRADUÇÃO: míssil terra-ar
+地层 | TRADUÇÃO: estrato (geologia)
+地层学 | TRADUÇÃO: estratigrafia (geologia)
+地岬 | TRADUÇÃO: cabo (geografia)/promontório
+地市 | TRADUÇÃO: jurisdição administrativa em nível de prefeitura (incluindo cidades-prefeitura, prefeituras autônomas, prefeituras e ligas)
+地市级 | TRADUÇÃO: nível de prefeitura (o nível administrativo abaixo do provincial, incluindo cidades-prefeitura, prefeituras autônomas, prefeituras e ligas)
+地带 | TRADUÇÃO: zona/CL:個|个
+地幔 | TRADUÇÃO: (geologia) manto (da Terra)
+地平线 | TRADUÇÃO: horizonte
+地底 | TRADUÇÃO: subterrâneo/subterrâneo
+地府 | TRADUÇÃO: inferno/o mundo dos mortos/Hades
+地广人稀 | TRADUÇÃO: vasto, mas escassamente povoado
+地形 | TRADUÇÃO: topografia/terreno/relevo
+地形图 | TRADUÇÃO: mapa topográfico
+地心 | TRADUÇÃO: núcleo da Terra/geocêntrico
+地心吸力 | TRADUÇÃO: gravitação
+地心引力 | TRADUÇÃO: gravidade terrestre
+地心纬度 | TRADUÇÃO: latitude geocêntrica (i.e., ângulo entre o plano equatorial e a linha reta do centro da Terra)
+地心说 | TRADUÇÃO: teoria geocêntrica
+地拉那 | TRADUÇÃO: Tirana, capital da Albânia
+地排车 | TRADUÇÃO: carrinho de mão manual/carroça manual
+地接 | TRADUÇÃO: guia local/acompanhante de turismo
+地推 | TRADUÇÃO: promoção em campo (abrev. de 地面推廣|地面推广)
+地摊 | TRADUÇÃO: barraca de rua/banquinha de rua
+地支 | TRADUÇÃO: os 12 ramos terrestres 子, 丑, 寅, 卯, 辰, 巳, 午, 未, 申, 酉, 戌, 亥, usados ciclicamente no calendário e como numerais ordinais I, II etc.
+地方 | TRADUÇÃO: regional / (longe da administração central) / local ‖ lugar; localização; área; espaço; território/aspecto; parte/CL:處|处
+地方主义 | TRADUÇÃO: regionalismo/favoritismo pela própria região
+地方官 | TRADUÇÃO: funcionário local/oficial local
+地方性 | TRADUÇÃO: local/caráter local
+地方性斑疹伤寒 | TRADUÇÃO: tifo murino
+地方戏 | TRADUÇÃO: ópera chinesa local, como a ópera de Shaoxing 越劇|越剧, a ópera de Sichuan 川劇|川剧, a ópera de Henan 豫劇|豫剧, etc.
+地方戏曲 | TRADUÇÃO: ópera chinesa local, como a ópera de Shaoxing 越劇|越剧, a ópera de Sichuan 川劇|川剧, a ópera de Henan 豫劇|豫剧, etc.
+地方法院 | TRADUÇÃO: tribunal de comarca/tribunal distrital
+地方自治 | TRADUÇÃO: autonomia local/autogoverno local
+地景 | TRADUÇÃO: paisagem/terreno
+地暖 | TRADUÇÃO: piso aquecido/aquecimento por piso radiante
+地书 | TRADUÇÃO: escrita no chão com um pincel grande molhado em água
+地板 | TRADUÇÃO: chão/piso
+地板价 | TRADUÇÃO: preço mínimo/preço de ocasião
+地板砖 | TRADUÇÃO: piso cerâmico/lajota
+地核 | TRADUÇÃO: núcleo da Terra (geologia)
+地栽 | TRADUÇÃO: cultivar a céu aberto (em oposição ao cultivo em vaso 盆栽)
+地标 | TRADUÇÃO: marco/ponto de referência
+地检署 | TRADUÇÃO: promotoria distrital
+地步 | TRADUÇÃO: estágio; grau (a que uma situação evoluiu)/uma situação (ger. ruim)/margem de manobra
+地段 | TRADUÇÃO: seção/distrito
+地壳 | TRADUÇÃO: crosta terrestre
+地壳运动 | TRADUÇÃO: (geotectônica) movimento crustal; diastrofismo
+地毯 | TRADUÇÃO: tapete/carpete
+地毯式轰炸 | TRADUÇÃO: bombardeio em tapete
+地毯拖鞋 | TRADUÇÃO: pantufa/chinelo de carpete
+地洞 | TRADUÇÃO: túnel; caverna; toca; abrigo subterrâneo
+地沟油 | TRADUÇÃO: óleo de cozinha reciclado ilegalmente
+地滑 | TRADUÇÃO: deslizamento de terra
+地滚球 | TRADUÇÃO: boliche de dez pinos/bola de boliche/(beisebol etc) bola rasteira
+地漏 | TRADUÇÃO: ralo/cano de drenagem subterrâneo/calha de piso/25º do 2º mês lunar
+地热 | TRADUÇÃO: calor geotérmico
+地热发电厂 | TRADUÇÃO: usina geotérmica de energia elétrica
+地热能 | TRADUÇÃO: energia geotérmica
+地热资源 | TRADUÇÃO: recursos geotérmicos
+地热电站 | TRADUÇÃO: usina geotérmica de energia elétrica
+地炉 | TRADUÇÃO: fornalha/poço de fogo
+地牛翻身 | TRADUÇÃO: (Taiwan) (coloq.) terremoto (Segundo um conto popular, os terremotos são causados pelos movimentos ocasionais de um boi que vive sob a terra.)
+地牢 | TRADUÇÃO: prisão/calabouço
+地狭人稠 | TRADUÇÃO: (expressão idiomática) pequeno e densamente povoado
+地狱 | TRADUÇÃO: inferno; submundo; (budismo) Naraka/(coloq.) (de humor, piadas, conteúdo etc) extremamente sombrio ou moralmente transgressor
+地狱笑话 | TRADUÇÃO: (coloq.) humor transgressivo que trata tragédia, sofrimento ou outros tópicos moralmente sensíveis como piadas (implicando que rir levaria ao inferno)
+地球 | TRADUÇÃO: a Terra
+地球仪 | TRADUÇÃO: globo terrestre
+地球化学 | TRADUÇÃO: geoquímica
+地球同步卫星 | TRADUÇÃO: (astronomia) satélite geossíncrono
+地球同步轨道 | TRADUÇÃO: (astronomia) órbita geossíncrona
+地球村 | TRADUÇÃO: aldeia global
+地球物理 | TRADUÇÃO: geofísica
+地球物理学 | TRADUÇÃO: geofísica
+地球磁场 | TRADUÇÃO: campo magnético da Terra
+地球科学 | TRADUÇÃO: ciências da Terra
+地球轨道 | TRADUÇÃO: órbita da Terra (órbita de um satélite ao redor da Terra)/órbita da Terra (órbita da Terra ao redor do Sol)
+地球静止卫星 | TRADUÇÃO: (astronomia) satélite geoestacionário
+地球静止轨道 | TRADUÇÃO: (astronomia) órbita geoestacionária
+地理 | TRADUÇÃO: geografia
+地理位置 | TRADUÇÃO: localização geográfica
+地理学 | TRADUÇÃO: geografia
+地理学家 | TRADUÇÃO: geógrafo
+地理定位 | TRADUÇÃO: geolocalização
+地理极 | TRADUÇÃO: polo geográfico/polo norte e sul
+地理纬度 | TRADUÇÃO: latitude geográfica (isto é, ângulo entre o plano equatorial e a normal ao elipsoide de referência)
+地瓜 | TRADUÇÃO: batata-doce (Ipomoea batatas)/jacatupé (Pachyrhizus erosus)/(MTC) figo digua (Ficus tikoua Bur.)
+地瓜干 | TRADUÇÃO: rodelas de batata-doce desidratada
+地瓜鸟 | TRADUÇÃO: (espécie de ave da China) socó-malaio (Gorsachius melanolophus)
+地瓜面 | TRADUÇÃO: macarrão de batata-doce ou inhame
+地产 | TRADUÇÃO: imóveis; propriedade fundiária; propriedade territorial
+地产大亨 | TRADUÇÃO: Banco Imobiliário (jogo)/conhecido como 大富翁 na China continental
+地产税 | TRADUÇÃO: imposto predial/imposto sobre a propriedade
+地亩 | TRADUÇÃO: área de terra agrícola
+地痞 | TRADUÇÃO: valentão/desordeiro local
+地皇 | TRADUÇÃO: Soberano Terreno, um dos três soberanos lendários 三皇
+地皮 | TRADUÇÃO: lote/terreno/chão
+地盘 | TRADUÇÃO: domínio/território sob controle de alguém/fundação de um edifício/base de operações/crosta terrestre
+地磁 | TRADUÇÃO: campo magnético da Terra; geomagnetismo
+地磁场 | TRADUÇÃO: campo magnético da Terra
+地磁暴 | TRADUÇÃO: tempestade geomagnética
+地砖 | TRADUÇÃO: piso cerâmico/lajota
+地祇 | TRADUÇÃO: espírito da terra
+地租 | TRADUÇÃO: renda da terra/imposto sobre a terra
+地税 | TRADUÇÃO: imposto local (abrev. de 地方稅|地方税)/imposto sobre a terra (abrev. de 土地稅|土地税)
+地积 | TRADUÇÃO: área de terra
+地积单 | TRADUÇÃO: unidade de área (ex.: 畝|亩, acre chinês)
+地穴 | TRADUÇÃO: fosso/toca/cripta
+地窄人稠 | TRADUÇÃO: veja 地狹人稠|地狭人稠
+地窖 | TRADUÇÃO: adega/porão
+地窨 | TRADUÇÃO: adega/porão
+地窨子 | TRADUÇÃO: adega/porão
+地籍 | TRADUÇÃO: cadastro
+地笼 | TRADUÇÃO: armadilha de peixe em forma de gaiola
+地精 | TRADUÇÃO: gnomo/goblin
+地级 | TRADUÇÃO: (administrativo) nível de prefeitura
+地级市 | TRADUÇÃO: cidade de nível de prefeitura
+地线 | TRADUÇÃO: terra (fio)/aterramento
+地缘 | TRADUÇÃO: situação geográfica/geo-(política etc)
+地缘战略 | TRADUÇÃO: geoestratégico
+地缘政治 | TRADUÇÃO: geopolítica/geopolítico
+地缘政治学 | TRADUÇÃO: geopolítica
+地老天荒 | TRADUÇÃO: veja 天荒地老
+地脉 | TRADUÇÃO: posição geográfica segundo os princípios do feng shui/linhas ley
+地脚 | TRADUÇÃO: rodapé (de página)/(dialeto) fundação (de um edifício)/base
+地藏 | TRADUÇÃO: Kṣitigarbha, o Bodisatva do Grande Voto (de salvar todas as almas antes de aceitar o Bodhi)/também traduzido como Bodisatva do Tesouro da Terra, Ventre da Terra ou Armazém da Terra
+地藏王菩萨 | TRADUÇÃO: Bodisatva Kṣitigarbha, o Bodisatva do Grande Voto (de salvar todas as almas antes de aceitar o Bodhi)/também traduzido como Bodisatva do Tesouro da Terra, Ventre da Terra ou Armazém da Terra
+地藏菩萨 | TRADUÇÃO: Bodisatva Kṣitigarbha, o Bodisatva do Grande Voto (de salvar todas as almas antes de aceitar o Bodhi)/também traduzido como Bodisatva do Tesouro da Terra, Ventre da Terra ou Armazém da Terra
+地处 | TRADUÇÃO: estar localizado em/estar situado em
+地衣 | TRADUÇÃO: líquen
+地表 | TRADUÇÃO: superfície (da Terra)
+地表水 | TRADUÇÃO: água superficial
+地西泮 | TRADUÇÃO: diazepam (estrangeirismo)/Valium
+地角天涯 | TRADUÇÃO: Os confins da terra
+地调 | TRADUÇÃO: levantamento geológico, abrev. de 地质调查
+地貌 | TRADUÇÃO: (geologia) relevo; geomorfologia
+地质 | TRADUÇÃO: geologia
+地质学 | TRADUÇÃO: geologia
+地质学家 | TRADUÇÃO: geólogo
+地质年代表 | TRADUÇÃO: escala de tempo geológico
+地质年表 | TRADUÇÃO: escala de tempo geológico
+地躺拳 | TRADUÇÃO: Di Tang Quan — “Boxe de Barriga pra Baixo” /“Boxe Tombado no Chão” — arte marcial
+地轴 | TRADUÇÃO: eixo da Terra
+地返 | TRADUÇÃO: monitor de piso; caixa de retorno; monitor cunha
+地速 | TRADUÇÃO: velocidade em relação ao solo (de uma aeronave etc.)
+地道 | TRADUÇÃO: túnel/calçada elevada ‖ autêntico/genuíno/próprio
+地邻 | TRADUÇÃO: vizinho de terra agrícola
+地钱 | TRADUÇÃO: hepática (Marchantia polymorpha)
+地铁 | TRADUÇÃO: ferrovia subterrânea; metrô/trem de metrô
+地铁站 | TRADUÇÃO: estação de metrô
+地陪 | TRADUÇÃO: guia local
+地雷 | TRADUÇÃO: mina terrestre (CL:颗)/(fig.) ponto sensível; ponto fraco
+地震 | TRADUÇÃO: terremoto
+地震仪 | TRADUÇÃO: sismógrafo
+地震区 | TRADUÇÃO: zona sísmica/cinturão sísmico
+地震学 | TRADUÇÃO: sismologia/ciência dos terremotos
+地震学家 | TRADUÇÃO: sismólogo/cientista de terremotos
+地震局 | TRADUÇÃO: departamento de terremotos
+地震带 | TRADUÇÃO: zona sísmica/cinturão sísmico
+地震波 | TRADUÇÃO: onda sísmica
+地震活动带 | TRADUÇÃO: zona sísmica/cinturão sísmico
+地震烈度 | TRADUÇÃO: intensidade do terremoto (medida de seu poder destrutivo)
+地震速报 | TRADUÇÃO: relatório em tempo real de dados de terremoto/alerta de terremoto
+地面 | TRADUÇÃO: piso/chão/superfície
+地面层 | TRADUÇÃO: térreo/primeiro andar
+地面控制 | TRADUÇÃO: controle de solo (de operação aérea ou espacial)
+地面核爆炸 | TRADUÇÃO: explosão nuclear de superfície
+地面气压 | TRADUÇÃO: pressão atmosférica ao nível do solo
+地面水 | TRADUÇÃO: água superficial
+地面灌溉 | TRADUÇÃO: irrigação superficial
+地面部队 | TRADUÇÃO: tropas terrestres
+地面零点 | TRADUÇÃO: Marco Zero (refere-se ao local do World Trade Center destruído no ataque de 11 de setembro de 2001) ‖ marco zero
+地头 | TRADUÇÃO: lugar/localidade/beira de um campo/margem inferior de uma página
+地头蛇 | TRADUÇÃO: valentão local/tirano/chefe da máfia regional
+地鳖 | TRADUÇÃO: besouro chinês do solo (Eupolyphaga sinensis), usado na MTC
+地𬷕 | TRADUÇÃO: veja 大鸨
+地黄 | TRADUÇÃO: dedaleira chinesa (Rehmannia glutinosa), seu rizoma usado na MTC
+地点 | TRADUÇÃO: lugar/local/localização/local/CL:个
+地龙 | TRADUÇÃO: (MTC) minhoca
+圱 | TRADUÇÃO: um campo de três li /variante antiga de 阡 ‖ variante antiga de 俗
+圳 | TRADUÇÃO: (dialeto) vala de drenagem entre campos (pr. Taiwan [zun4])/usado em nomes de lugares, notavelmente 深圳
+圻 | TRADUÇÃO: limite/fronteira
+圾 | TRADUÇÃO: usado em 垃圾/pr. Taiwan [se4]
+址 | TRADUÇÃO: (forma ligada) local; lugar ‖ variante de 址/variante de 沚
+坂 | TRADUÇÃO: variante de 阪 ‖ variante de 阪
+坂井 | TRADUÇÃO: Sakai (sobrenome japonês e nome de lugar)
+坂本 | TRADUÇÃO: Sakamoto (sobrenome japonês)
+坆 | TRADUÇÃO: variante de 坟/túmulo ‖ variante de 梅/ameixa
+均 | TRADUÇÃO: (forma ligada) igual; uniforme; homogêneo/(literário) sem exceção; todos
+均一 | TRADUÇÃO: uniforme/homogêneo
+均值 | TRADUÇÃO: valor médio
+均价 | TRADUÇÃO: preço médio
+均分 | TRADUÇÃO: dividir/repartir igualmente
+均势 | TRADUÇÃO: equilíbrio de forças/equilíbrio de poder
+均匀 | TRADUÇÃO: uniforme/bem distribuído/homogêneo/bem proporcionado (figura, corpo etc.)
+均匀性 | TRADUÇÃO: homogeneidade/uniformidade
+均可 | TRADUÇÃO: todos estão OK/ambos estão OK/todos podem/ambos podem/também podem
+均差 | TRADUÇÃO: (análise numérica) diferenças divididas/(estatística) diferença absoluta média
+均摊 | TRADUÇÃO: dividir igualmente/distribuir uniformemente
+均方 | TRADUÇÃO: média quadrática
+均沾 | TRADUÇÃO: compartilhar (lucros)
+均湿 | TRADUÇÃO: umedecer uniformemente (p. ex. no curtimento de couro)
+均热 | TRADUÇÃO: aquecer uniformemente (p. ex. na fundição de metal)
+均田制 | TRADUÇÃO: sistema de campo igual das dinastias Wei do Norte e Tang
+均等 | TRADUÇÃO: igual; imparcial; justo
+均等化 | TRADUÇÃO: equalizar/nivelamento/tornar uniforme
+均等论 | TRADUÇÃO: doutrina dos equivalentes (direito de patentes)
+均线 | TRADUÇÃO: (finanças) média móvel (abrev. de 移动平均线)
+均腐土 | TRADUÇÃO: isossolo (taxonomia do solo)
+均衡 | TRADUÇÃO: igual/equilibrado/harmonia/equilíbrio
+均衡器 | TRADUÇÃO: equalizador (eletrônica, áudio)
+均变论 | TRADUÇÃO: uniformitarismo
+均质 | TRADUÇÃO: homogêneo/uniforme/homogeneizado
+坈 | TRADUÇÃO: variante antiga de 坑
+坊 | TRADUÇÃO: sobrenome Fang ‖ beco (geralmente como parte de nome de rua)/arco memorial ‖ oficina/moinho/pr. Taiwan [fang1]
+坊子 | TRADUÇÃO: veja 坊子区
+坊子区 | TRADUÇÃO: Distrito de Fangzi, um distrito da cidade de Weifang, Shandong
+坊间 | TRADUÇÃO: (originalmente) (nas) livrarias/(no uso moderno) entre o público; em circulação pública; no mercado
+坊间传言 | TRADUÇÃO: boatos/rumores populares
+坋 | TRADUÇÃO: poeira/empoeirar/um monte de terra/juntar/cavar/também pr. [fen4]
+坋土 | TRADUÇÃO: (geologia) silte
+坋粒 | TRADUÇÃO: partícula de silte/grão de silte
+坌 | TRADUÇÃO: variante de 坋/variante antiga de 笨
+坍 | TRADUÇÃO: desmoronar/desabar
+坍塌 | TRADUÇÃO: desmoronar/desabar
+坍方 | TRADUÇÃO: desmoronar/desabamento/deslizamento de terra
+坎 | TRADUÇÃO: cova/soleira/um dos Oito Trigramas 八卦, simbolizando água/☵ ‖ variante antiga de 坎/cova/buraco
+坎儿 | TRADUÇÃO: momento crítico/ponto crucial/junção decisiva
+坎儿井 | TRADUÇÃO: karez, qanat ou "poço horizontal" (sistema de irrigação e gestão de água usado em Xinjiang, Ásia Central e Oriente Médio)
+坎坎 | TRADUÇÃO: (dialeto) agora mesmo/agora há pouco
+坎坷 | TRADUÇÃO: (de uma estrada) acidentado/esburacado; (da vida) difícil/atribulado; ter má sorte; ser cheio de frustrações e desilusões
+坎坷不平 | TRADUÇÃO: estrada esburacada e acidentada (expressão idiomática); fig. cheio de desapontamento e desilusões
+坎坷多舛 | TRADUÇÃO: cheio de problemas e infortúnios (geralmente referindo-se à vida de alguém)
+坎城 | TRADUÇÃO: (Taiwan) Cannes, França
+坎培拉 | TRADUÇÃO: Camberra, capital da Austrália (Taiwan)
+坎塔布连 | TRADUÇÃO: Cantábria, no norte da Espanha
+坎塔布连山脉 | TRADUÇÃO: cordilheira Cantábrica, no norte da Espanha, dividindo as Astúrias de Castela e Leão
+坎塔布连海 | TRADUÇÃO: Mar Cantábrico (Espanhol: Mare Cantábrico)
+坎塔布里亚 | TRADUÇÃO: Cantábria, região autônoma espanhola, capital Santander 桑坦德
+坎𡒄 | TRADUÇÃO: encontrar infortúnio/ter má sorte
+坎大哈 | TRADUÇÃO: Candaar (cidade no sul do Afeganistão)
+坎大哈省 | TRADUÇÃO: província de Candaar, do Afeganistão
+坎子 | TRADUÇÃO: terreno elevado/dique/aterro
+坎帕拉 | TRADUÇÃO: Kampala, capital de Uganda
+坎德拉 | TRADUÇÃO: candela (unidade de luminosidade)/vela-padrão
+坎昆 | TRADUÇÃO: Cancún
+坎炁 | TRADUÇÃO: (MTC) cordão umbilical (usado como medicamento)
+坎特伯雷 | TRADUÇÃO: Cantuária
+坎特伯雷故事集 | TRADUÇÃO: Os Contos da Cantuária, coletânea de histórias de Geoffrey Chaucer 喬叟|乔叟
+坎肩 | TRADUÇÃO: colete sem mangas (geralmente de algodão)/jaleco chinês
+坎肩儿 | TRADUÇÃO: variante com erhua de 坎肩
+坎贝尔 | TRADUÇÃO: Campbell (nome)
+坎贝尔侏儒仓鼠 | TRADUÇÃO: hamster-anão-de-Campbell (Phodopus campbelli)
+坐 | TRADUÇÃO: sobrenome Zuo ‖ sentar/tomar assento/pegar (ônibus, avião etc)/dar frutos/variante de 座
+坐下 | TRADUÇÃO: sentar/sentar-se
+坐不垂堂 | TRADUÇÃO: lit. não se sentar sob o beiral (onde telhas podem cair do telhado) (expressão idiomática); fig. manter-se longe do perigo
+坐井观天 | TRADUÇÃO: lit. ver o céu do fundo de um poço (expressão idiomática); ignorante e de mente estreita
+坐享 | TRADUÇÃO: desfrutar (do benefício de algo) sem mover um dedo/sentar e apreciar (circunstâncias favoráveis)
+坐享其成 | TRADUÇÃO: colher onde não se plantou (expressão idiomática)
+坐以待毙 | TRADUÇÃO: sentar e esperar a morte (expressão idiomática); resignado ao próprio destino
+坐便器 | TRADUÇÃO: vaso sanitário de pedestal
+坐像 | TRADUÇÃO: imagem sentada (de um Buda ou santo)
+坐冷板凳 | TRADUÇÃO: ocupar um cargo insignificante/receber recepção fria/ser mantido esperando por uma tarefa ou audiência/ficar de lado/ser marginalizado/ficar no banco de reservas/esperar inutilmente
+坐力 | TRADUÇÃO: ver 後坐力|后坐力
+坐化 | TRADUÇÃO: morrer em posição sentada (Budismo)
+坐台小姐 | TRADUÇÃO: garota de bar/acompanhante profissional
+坐吃享福 | TRADUÇÃO: existência vegetativa/consumir passivamente sem fazer nada útil
+坐吃山空 | TRADUÇÃO: lit. apenas sentar e comer, pode-se esgotar até uma montanha de riqueza (expressão idiomática)/fig. gastar dinheiro sem gerar renda
+坐商 | TRADUÇÃO: comerciante/lojista
+坐垫 | TRADUÇÃO: almofada/assento (de moto)/CL:塊|块
+坐墩 | TRADUÇÃO: banco chinês em forma de tambor
+坐大 | TRADUÇÃO: (pej.) tornar-se poderoso ou influente
+坐失 | TRADUÇÃO: deixar algo escapar/perder uma oportunidade
+坐失机宜 | TRADUÇÃO: sentar e desperdiçar uma boa oportunidade (expressão idiomática); perder a chance
+坐失良机 | TRADUÇÃO: sentar e desperdiçar uma boa oportunidade (expressão idiomática); perder a chance
+坐好 | TRADUÇÃO: sentar adequadamente/sentar ereto
+坐姿 | TRADUÇÃO: postura sentada
+坐定 | TRADUÇÃO: estar sentado
+坐实 | TRADUÇÃO: servir como evidência para (uma acusação etc); reforçar (uma percepção); confirmar; substanciar
+坐山观虎斗 | TRADUÇÃO: lit. sentar na montanha e observar os tigres lutarem (expressão idiomática)/fig. observar em segurança enquanto outros lutam e depois colher os frutos quando ambos os lados estão exaustos
+坐席 | TRADUÇÃO: assento (em um banquete)/participar de um banquete
+坐厕 | TRADUÇÃO: vaso sanitário sentado (em contraste com 蹲廁|蹲厕 vaso de agachamento)
+坐厕垫 | TRADUÇÃO: assento de vaso sanitário
+坐探 | TRADUÇÃO: informante interno/agente infiltrado/espia
+坐收渔利 | TRADUÇÃO: beneficiar-se da disputa alheia (expressão idiomática)
+坐月 | TRADUÇÃO: ver 坐月子
+坐月子 | TRADUÇÃO: convalescer por um mês após o parto, seguindo dieta especial e observando vários tabus para proteger o corpo da exposição ao "vento"
+坐果 | TRADUÇÃO: dar frutos/frutificar
+坐椅 | TRADUÇÃO: assento/cadeira
+坐标 | TRADUÇÃO: variante de 座標|坐标 ‖ (geometria) coordenada/(fig.) ponto de referência; referencial; guia
+坐浴桶 | TRADUÇÃO: bidê
+坐浴盆 | TRADUÇÃO: bidê
+坐牢 | TRADUÇÃO: estar preso/estar na prisão
+坐班 | TRADUÇÃO: trabalhar em horário comercial/estar de plantão
+坐班房 | TRADUÇÃO: estar na prisão
+坐禅 | TRADUÇÃO: sentar em meditação; meditar
+坐立不安 | TRADUÇÃO: lit. agitado sentado ou em pé (expressão idiomática)/inquieto/irrequieto
+坐立难安 | TRADUÇÃO: incapaz de sentar ou ficar em pé quieto (por nervosismo etc) (expressão idiomática)
+坐等 | TRADUÇÃO: sentar e esperar/(fig.) ser passivo; sentar e esperar por (sucesso, uma oportunidade etc)
+坐而论道 | TRADUÇÃO: sentar e discursar pomposamente; encontrar respostas através da teoria e não da prática (expressão idiomática)
+坐卧不宁 | TRADUÇÃO: estar inquieto/não ter sossego
+坐台 | TRADUÇÃO: trabalhar como anfitriã em um bar ou KTV
+坐庄 | TRADUÇÃO: (jogo) ser a banca ou o crupiê
+坐落 | TRADUÇÃO: estar situado/estar localizado (de um edifício)
+坐药 | TRADUÇÃO: supositório
+坐蜡 | TRADUÇÃO: ficar envergonhado/ser colocado em situação difícil
+坐视 | TRADUÇÃO: ficar de braços cruzados e observar; olhar passivamente
+坐视不理 | TRADUÇÃO: sentar e observar, mas permanecer indiferente (expressão idiomática)
+坐观成败 | TRADUÇÃO: sentar e esperar sucesso ou fracasso (expressão idiomática); esperar para ver o resultado de uma briga antes de tomar partido/ficar em cima do muro
+坐车 | TRADUÇÃO: pegar o carro, ônibus, trem etc
+坐镇 | TRADUÇÃO: (de um oficial comandante) manter vigilância/supervisionar
+坐关 | TRADUÇÃO: (Budismo) sentar em contemplação
+坐降落伞 | TRADUÇÃO: fazer salto de paraquedas
+坐电梯 | TRADUÇÃO: pegar o elevador
+坐驾 | TRADUÇÃO: variante de 座駕|座驾
+坐骑 | TRADUÇÃO: cavalo de sela/montaria
+坐骨 | TRADUÇÃO: ísquio
+坐骨神经 | TRADUÇÃO: nervo ciático
+坐骨神经痛 | TRADUÇÃO: ciática
+坐龙庭 | TRADUÇÃO: ser o imperador reinante/ascender ao trono imperial
+坑 | TRADUÇÃO: cova/buraco/depressão/poço (de mineração); galeria; túnel/(literário) enterrar vivo/(coloq.) enganar; dar o golpe; passar a perna ‖ variante de 坑
+坑井 | TRADUÇÃO: galerias e poços de mina
+坑人 | TRADUÇÃO: (coloq.) enganar/trapacear/passar a perna em alguém/ferrar com alguém
+坑口 | TRADUÇÃO: Hang Hau (área em Hong Kong)
+坑坎 | TRADUÇÃO: irregular (estrada)/depressão (no terreno)
+坑坑洼洼 | TRADUÇÃO: cheio de buracos e depressões/irregular
+坑害 | TRADUÇÃO: enganar/tramar
+坑木 | TRADUÇÃO: escora de mina
+坑杀 | TRADUÇÃO: enterrar vivo/enganar
+坑洞 | TRADUÇÃO: buraco/cova/protuberância
+坑爹 | TRADUÇÃO: envolver o pai numa situação difícil/(vulgar) (de algo que faz alguém se sentir enganado ou decepcionado etc) ser uma grande decepção
+坑洼 | TRADUÇÃO: buraco/cavidade/depressão/baixo
+坑蒙 | TRADUÇÃO: trapacear
+坑蒙拐骗 | TRADUÇÃO: (expressão idiomática) enganar, fraudar e trapacear
+坑道 | TRADUÇÃO: poço de mina/galeria/túnel
+坑骗 | TRADUÇÃO: enganar/trapacear
+坒 | TRADUÇÃO: (literário) fazer fronteira com
+坓 | TRADUÇÃO: variante de 阱
+坕 | TRADUÇÃO: variante arcaica de 經|经
+坡 | TRADUÇÃO: declive/CL:個|个/inclinado/inclinação
+坡国 | TRADUÇÃO: (coloq.) Cingapura
+坡垒 | TRADUÇÃO: hopea de Hainan (Hopea hainanensis) (botânica)
+坡度 | TRADUÇÃO: gradiente/declive
+坡县 | TRADUÇÃO: (gíria) Cingapura
+坡路 | TRADUÇÃO: estrada inclinada/estrada de colina
+坡道 | TRADUÇÃO: estrada em declive/caminho inclinado/rampa
+坡头 | TRADUÇÃO: veja 坡頭區|坡头区
+坡头区 | TRADUÇÃO: Potou, um distrito da cidade de Zhanjiang 湛江市, Guangdong
+坡鹿 | TRADUÇÃO: veado-eld (Panolia eldii)
+坤 | TRADUÇÃO: um dos Oito Trigramas 八卦, simbolizando a terra/princípio feminino/☷/ponto da bússola chinesa antiga: 225° (sudoeste) ‖ variante de 坤
+坤包 | TRADUÇÃO: bolsa feminina ou bolsa de ombro
+坤甸 | TRADUÇÃO: Pontianak, cidade capital de Kalimantan Ocidental, Indonésia
+坦 | TRADUÇÃO: plano/aberto de coração/nivelado/liso
+坦佩雷 | TRADUÇÃO: Tampere (sueco Tammerfors), segunda cidade da Finlândia
+坦克 | TRADUÇÃO: (empréstimo) tanque (veículo militar)/(depreciativo) (gíria) mulher acima do peso
+坦克车 | TRADUÇÃO: tanque (veículo blindado)
+坦博拉 | TRADUÇÃO: Tambora, vulcão na ilha indonésia de Sumbawa 松巴哇, cuja erupção de 1815 é a maior da história registrada
+坦噶尼喀 | TRADUÇÃO: Tanganica, estado soberano na África (1961–1964), depois parte da Tanzânia
+坦噶尼喀湖 | TRADUÇÃO: Lago Tanganica na África Oriental
+坦尚尼亚 | TRADUÇÃO: Tanzânia (Taiwan)
+坦承 | TRADUÇÃO: confessar/admitir/confessar/calmamente
+坦桑尼亚 | TRADUÇÃO: Tanzânia
+坦然 | TRADUÇÃO: calmo/imperturbável
+坦然无惧 | TRADUÇÃO: permanecer calmo e destemido
+坦率 | TRADUÇÃO: franco/sincero/direto
+坦白 | TRADUÇÃO: honesto/sincero/confessar
+坦荡 | TRADUÇÃO: magnânimo/largo e plano
+坦言 | TRADUÇÃO: dizer com franqueza/admitir francamente
+坦诚 | TRADUÇÃO: franco/sincero/maneira direta
+坦诚相见 | TRADUÇÃO: confiar plenamente um no outro/tratar alguém com sinceridade
+坦途 | TRADUÇÃO: rodovia/estrada plana
+坦陈 | TRADUÇÃO: revelar/confessar
+坨 | TRADUÇÃO: montículo/monte/grânulo/classificador para pequenos montes (ex.: fezes de animais)/(de macarrão, jiaozi 餃子|饺子 etc) grudar; formar um grumo
+坨儿 | TRADUÇÃO: classificador para grumos de coisas moles (coloquial)
+坨子 | TRADUÇÃO: grumo/monte
+坩 | TRADUÇÃO: cadinho
+坩埚 | TRADUÇÃO: cadinho
+坪 | TRADUÇÃO: uma planície/ping, unidade de área igual a aprox. 3,3058 metros quadrados (usada no Japão e Taiwan)
+坪山 | TRADUÇÃO: veja 坪山區|坪山区
+坪山区 | TRADUÇÃO: Pingshan, um distrito da cidade de Shenzhen 深圳市, Guangdong
+坪林 | TRADUÇÃO: Pinglin, município na Nova Taipé 新北市, Taiwan
+坪林乡 | TRADUÇÃO: Pinglin, município na Nova Taipé 新北市, Taiwan
+坫 | TRADUÇÃO: suporte para copos
+坭 | TRADUÇÃO: variante de 泥
+坯 | TRADUÇÃO: esboço (ex.: para uma moeda)/cerâmica não queimada/produto semiacabado/pronúncia de Taiwan: [pei1]
+坯件 | TRADUÇÃO: esboço (para uma moeda etc)/raça ou linhagem
+坯子 | TRADUÇÃO: base/produto semiacabado/(fig.) o material de (um ator talentoso etc)
+坯布 | TRADUÇÃO: pano não alvejado e não tingido/pano cinza
+坯料 | TRADUÇÃO: materiais semiacabados/CL:塊|块
+坯模 | TRADUÇÃO: molde
+坰 | TRADUÇÃO: arredores/ermo
+坱 | TRADUÇÃO: pó fino/abundante/vasto
+坲 | TRADUÇÃO: (de poeira) subir no ar
+坳陷 | TRADUÇÃO: (geologia) depressão/área baixa
+坴 | TRADUÇÃO: torrão de terra/terra
+坷 | TRADUÇÃO: usado em 坷垃 ‖ usado em 坎坷
+坷垃 | TRADUÇÃO: (dialetal) torrão (de terra)
+坻 | TRADUÇÃO: ilhota/rocha no rio ‖ nome de lugar
+坼 | TRADUÇÃO: rachar/partir/quebrar/rachadela
+坽 | TRADUÇÃO: (literário) penhasco íngreme/(usado em nomes de lugares)
+附 | TRADUÇÃO: variante de 附 ‖ adicionar; anexar/estar perto; estar ligado
+垂 | TRADUÇÃO: pendurar (para baixo)/curvar/pender/curvar para baixo/deixar como legado/aproximar/quase/quase/ser próximo
+垂下 | TRADUÇÃO: pendurar para baixo
+垂危 | TRADUÇÃO: próximo da morte/ameaçador (doença)
+垂垂 | TRADUÇÃO: gradualmente/cair
+垂幕 | TRADUÇÃO: dossel
+垂念 | TRADUÇÃO: (cortês) ter a bondade de pensar em (mim)
+垂感 | TRADUÇÃO: efeito de caimento (moda)
+垂悬分词 | TRADUÇÃO: particípio pendente (gramática)
+垂悬结构 | TRADUÇÃO: elemento pendente (gramática)
+垂挂 | TRADUÇÃO: pendurar/suspenso
+垂暮之年 | TRADUÇÃO: velhice
+垂柳 | TRADUÇÃO: salgueiro-chorão (Salix babylonica)
+垂杨柳 | TRADUÇÃO: salgueiro-chorão
+垂死 | TRADUÇÃO: moribundo
+垂死挣扎 | TRADUÇÃO: agonia de morte/luta final (expressão idiomática)
+垂泣 | TRADUÇÃO: derramar lágrimas
+垂涎 | TRADUÇÃO: babar; salivar/(fig.) cobiçar; desejar avidamente
+垂涎三尺 | TRADUÇÃO: babar (por) (expressão idiomática)/ansiar por/cobiçar/desejar
+垂涎欲滴 | TRADUÇÃO: babar de desejo (expressão idiomática); invejar/ter fome de
+垂泪 | TRADUÇÃO: derramar lágrimas
+垂直 | TRADUÇÃO: perpendicular/vertical
+垂直和短距起落飞机 | TRADUÇÃO: aeronave de decolagem e pouso vertical e curta
+垂直尾翼 | TRADUÇÃO: leme de direção/estabilizador vertical (aviação)
+垂直线 | TRADUÇÃO: linha vertical
+垂直起落飞机 | TRADUÇÃO: aeronave de decolagem e pouso vertical
+垂直轴 | TRADUÇÃO: eixo vertical/eixo vertical (matemática)
+垂范 | TRADUÇÃO: (literário) dar um exemplo brilhante (para subordinados ou gerações futuras)
+垂帘听政 | TRADUÇÃO: (expressão idiomática) governar por trás da cortina/governar no lugar do imperador
+垂线 | TRADUÇÃO: (matemática) reta perpendicular/linha vertical
+垂老 | TRADUÇÃO: de idade avançada; próximo da velhice
+垂钓 | TRADUÇÃO: pesca com vara; pesca esportiva
+垂青 | TRADUÇÃO: mostrar apreço por alguém; olhar para alguém com favor
+垂头丧气 | TRADUÇÃO: (expressão idiomática) de cabeça baixa e desanimado; abatido; cabisbaixo
+垂体 | TRADUÇÃO: glândula pituitária; hipófise
+垂髫 | TRADUÇÃO: (literário) criança pequena; primeira infância
+垃 | TRADUÇÃO: usado em 垃圾/pronúncia em Taiwan: [le4]
+垃圾 | TRADUÇÃO: lixo/refugo/lixo/(coloq.) de má qualidade/pronúncia em Taiwan: [le4 se4]
+垃圾分类 | TRADUÇÃO: separação de lixo; triagem de resíduos
+垃圾堆 | TRADUÇÃO: monte de lixo; pilha de lixo
+垃圾工 | TRADUÇÃO: lixeiro; coletor de lixo
+垃圾桶 | TRADUÇÃO: lixeira; cesto de lixo/lata de lixo/pronúncia em Taiwan: [le4 se4 tong3]
+垃圾筒 | TRADUÇÃO: lixeira; cesto de lixo
+垃圾箱 | TRADUÇÃO: lixeira; lata de lixo
+垃圾股 | TRADUÇÃO: títulos de alto risco; junk bonds
+垃圾车 | TRADUÇÃO: caminhão de lixo (ou outro veículo)
+垃圾邮件 | TRADUÇÃO: lixo eletrônico; spam
+垃圾电邮 | TRADUÇÃO: ver 垃圾郵件|垃圾邮件
+垃圾食品 | TRADUÇÃO: comida industrializada; junk food; porcaria
+垇 | TRADUÇÃO: usado em nomes de lugares/variante de 坳
+垈 | TRADUÇÃO: usado em nomes de lugares/-nuta em japonês/-dae em coreano
+型 | TRADUÇÃO: molde/tipo/estilo/modelo
+型别 | TRADUÇÃO: (Taiwan) (programação de computadores) tipo
+型式 | TRADUÇÃO: tipo/padrão/versão/estilo
+型态 | TRADUÇÃO: forma/formato/tipo/estilo/padrão
+型材 | TRADUÇÃO: perfil extrudado
+型板 | TRADUÇÃO: molde; gabarito; modelo
+型男 | TRADUÇÃO: garanhão; homem bonito e estiloso (gíria)
+型号 | TRADUÇÃO: modelo (versão específica de um artigo manufaturado)/tipo (especificação de produto em termos de cor, tamanho etc.)
+型录 | TRADUÇÃO: catálogo de produtos
+垌 | TRADUÇÃO: campo/roça/usado em nomes de lugares
+垍 | TRADUÇÃO: terra dura; solo compacto
+垎 | TRADUÇÃO: (literário) (do solo) seco e duro/usado em nomes de lugares
+垏 | TRADUÇÃO: (literário) leiva; camalhão entre campos/usado em nomes de lugares
+垓 | TRADUÇÃO: fronteira; limite
+垓下 | TRADUÇÃO: nome de lugar antigo, na província de Anhui
+垔 | TRADUÇÃO: conter; represar um riacho e mudar seu curso/monte; montículo
+垕 | TRADUÇÃO: grosso; espesso
+垖 | TRADUÇÃO: variante antiga de 堆
+垗 | TRADUÇÃO: sacrifício
+垙 | TRADUÇÃO: (literário) vereda entre campos/usado em nomes de lugares
+垚 | TRADUÇÃO: variante de 堯|尧, lendário imperador Yao, c. 2200 a.C./dique; aterro
+垛 | TRADUÇÃO: ameia/alvo ‖ pilha; monte ‖ variante de 垛
+垛口 | TRADUÇÃO: ameia; seteira
+垝 | TRADUÇÃO: (literário) dilapidado; em ruínas; danificado
+垝垣 | TRADUÇÃO: parede em ruínas; muro desmoronado
+垞 | TRADUÇÃO: monte; colina pequena/usado em nomes de lugares
+垟 | TRADUÇÃO: carneiro de barro enterrado com os mortos
+垠 | TRADUÇÃO: limite/fronteira/margem de rio
+垡 | TRADUÇÃO: arar a terra/terra arada/usado em nomes de lugares
+垢 | TRADUÇÃO: sujeira/desgraça
+垣 | TRADUÇÃO: parede; muro
+垣曲 | TRADUÇÃO: ver 垣曲縣|垣曲县
+垣曲县 | TRADUÇÃO: Yuanqu, um condado na cidade de Yuncheng 運城市|运城市, Shanxi
+垣衣 | TRADUÇÃO: musgo sob muros velhos
+垤 | TRADUÇÃO: formigueiro/monte; montículo
+垧 | TRADUÇÃO: unidade de área de terra (equivalente a 10 ou 15 mǔ 畝|亩 em partes do nordeste da China, mas apenas 3 ou 5 mǔ no noroeste da China)
+垮 | TRADUÇÃO: desabar; desmoronar (lit. ou fig.)
+垮塌 | TRADUÇÃO: desabar; desmoronar (de edifício, barragem ou ponte)
+垮脸 | TRADUÇÃO: endurecer o rosto; franzir a testa; ficar sério
+垮台 | TRADUÇÃO: (de uma dinastia, regime etc.) colapsar; cair do poder
+垵 | TRADUÇÃO: usado em nomes de lugares/variante de 埯
+垺 | TRADUÇÃO: extremamente grande; imenso
+坝 | TRADUÇÃO: (usado em nomes de lugares) planície; terreno plano/(dialeto) barra de areia; banco de areia ‖ represa; barragem/dique; aterro/CL:條|条
+垾 | TRADUÇÃO: dique pequeno; represa pequena
+垿 | TRADUÇÃO: suporte para copo de barro também conhecido como 反坫 (antigo)/variante antiga de 序
+埀 | TRADUÇÃO: variante antiga de 垂
+埂 | TRADUÇÃO: faixa de terra alta; dique baixo separando campos
+埂子 | TRADUÇÃO: faixa de terra alta; dique baixo separando campos
+埃 | TRADUÇÃO: abrev. para Egito 埃及 ou Etiópia 埃塞俄比亞|埃塞俄比亚 ‖ poeira/sujeira/ångström/fonético ai ou e
+埃克托 | TRADUÇÃO: Heitor (nome)
+埃克托·柏辽兹 | TRADUÇÃO: Heitor Berlioz (1803-1869), compositor romântico francês, autor da Sinfonia Fantástica
+埃利斯岛 | TRADUÇÃO: Ilha Ellis
+埃加迪群岛 | TRADUÇÃO: Ilhas Égadas, perto da Sicília, Itália
+埃博拉 | TRADUÇÃO: Ebola (vírus)
+埃博拉病毒 | TRADUÇÃO: vírus Ebola
+埃及 | TRADUÇÃO: Egito
+埃及古物学 | TRADUÇÃO: egiptologia
+埃及夜鹰 | TRADUÇÃO: (espécie de ave da China) bacurau-do-egito (Caprimulgus aegyptius)
+埃及学 | TRADUÇÃO: egiptologia
+埃及豆 | TRADUÇÃO: grão-de-bico
+埃因霍温 | TRADUÇÃO: Eindhoven (cidade nos Países Baixos)
+埃塔 | TRADUÇÃO: ETA (Euskadi Ta Askatasuna ou Pátria Basca e Liberdade), grupo separatista armado basco
+埃塞 | TRADUÇÃO: Etiópia
+埃塞俄比亚 | TRADUÇÃO: Etiópia
+埃塞俄比亚界 | TRADUÇÃO: (biogeografia) região afrotropical (anteriormente, Zona Etiópica)
+埃夫伯里 | TRADUÇÃO: Avebury (círculo de pedras perto de Stonehenge)
+埃奥罗斯 | TRADUÇÃO: Éolo, deus grego dos ventos
+埃居 | TRADUÇÃO: écu (moeda francesa, descontinuada no fim do século XVIII)
+埃布罗 | TRADUÇÃO: rio Ebro (no nordeste da Espanha)
+埃布罗河 | TRADUÇÃO: rio Ebro (no nordeste da Espanha)
+埃弗顿 | TRADUÇÃO: Everton (cidade no noroeste da Inglaterra)/time de futebol Everton
+埃德 | TRADUÇÃO: Ed (nome - Eduard)
+埃德·米利班德 | TRADUÇÃO: Ed Milliband, político trabalhista britânico, líder da oposição a partir de 2010
+埃德加 | TRADUÇÃO: Edgar (nome)
+埃德加·爱伦·坡 | TRADUÇÃO: Edgar Allen Poe (1809-1849), poeta e romancista americano
+埃德加·斯诺 | TRADUÇÃO: Edgar Snow (1905-1972), jornalista americano, reportou da China de 1928 a 1941, autor de "Estrela Vermelha sobre a China"
+埃德蒙 | TRADUÇÃO: Edmundo; Edmond (nome)
+埃德蒙·伯克 | TRADUÇÃO: Edmund Burke (1729-1797), filósofo e cientista político irlandês, membro do Parlamento Britânico
+埃德蒙顿 | TRADUÇÃO: Edmonton, capital de Alberta, Canadá
+埃拉托斯特尼 | TRADUÇÃO: Eratóstenes de Cirene (c. 276–c. 195 a.C.), polímata grego
+埃拉特 | TRADUÇÃO: Eilat, porto e resort israelense no Mar Vermelho
+埃叙 | TRADUÇÃO: Egito-Síria
+埃文 | TRADUÇÃO: Evan/Avon/Ivan
+埃文斯 | TRADUÇÃO: Evans/Ivins/Ivens
+埃文河畔斯特拉特福 | TRADUÇÃO: Stratford-upon-Avon
+埃斯库多 | TRADUÇÃO: escudo, antiga moeda de Portugal e outros países
+埃斯库罗斯 | TRADUÇÃO: Ésquilo (c. 524 a.C. -c. 455 a.C.), tragediógrafo grego, autor de "Os Persas", "Sete contra Tebas", etc.
+埃斯特哈齐 | TRADUÇÃO: Esterházy (nome)
+埃斯特朗 | TRADUÇÃO: Anders Jonas Angström ou Ångström (1814-1874), físico sueco
+埃曼塔 | TRADUÇÃO: Emmentaler (queijo)
+埃格尔松 | TRADUÇÃO: Egersund (cidade na Noruega)
+埃森 | TRADUÇÃO: Essen, cidade no Ruhr, Alemanha
+埃森哲 | TRADUÇÃO: Accenture (empresa)
+埃森纳赫 | TRADUÇÃO: Eisenach (cidade alemã)
+埃涅阿斯 | TRADUÇÃO: Eneias, herói da Eneida de Virgílio
+埃涅阿斯纪 | TRADUÇÃO: Eneida de Virgílio (épica sobre a fundação de Roma)
+埃尔南德斯 | TRADUÇÃO: Hernández (nome)
+埃尔多安 | TRADUÇÃO: Recep Tayyip Erdoğan (1954–), político turco, primeiro-ministro 2003–2014, presidente 2014–
+埃尔尼诺 | TRADUÇÃO: ver 厄爾尼諾|厄尔尼诺
+埃尔帕索 | TRADUÇÃO: El Paso, Texas
+埃尔朗根 | TRADUÇÃO: Erlangen (cidade na Baviera)
+埃尔朗根纲领 | TRADUÇÃO: Programa de Erlangen de Felix Klein (1872) sobre geometria e teoria de grupos
+埃尔福特 | TRADUÇÃO: Erfurt (cidade alemã)
+埃尔维斯·普雷斯利 | TRADUÇÃO: Elvis Presley (1935-1977), cantor e astro do cinema pop americano
+埃尔金 | TRADUÇÃO: James Bruce, 8º Conde de Elgin (1811-1863), Alto Comissário Britânico na China que ordenou o saque e a destruição do Antigo Palácio de Inverno Yuanmingyuan em 1860/Thomas Bruce, 7º Conde de Elgin (1766-1841), que roubou os Mármores do Partenon em 1801-1810
+埃尔金大理石 | TRADUÇÃO: os Mármores de Elgin, os mármores do Partenon roubados em 1801-1810 por Thomas Bruce, 7º Conde de Elgin
+埃特纳火山 | TRADUÇÃO: Monte Etna, vulcão na Itália
+埃琳娜 | TRADUÇÃO: Elena (nome)
+埃米 | TRADUÇÃO: angstron (Å)
+埃米尔 | TRADUÇÃO: (estrangeirismo) emir; amir
+埃菲尔铁塔 | TRADUÇÃO: Torre Eiffel
+埃蕾 | TRADUÇÃO: erva-centáurea com flores (MTC)/Herba Centaurii altaici cum flore
+埃迪卡拉 | TRADUÇÃO: Ediacarano (c. 635-542 milhões de anos atrás), fase tardia da era geológica pré-cambriana
+埃迪卡拉纪 | TRADUÇÃO: Período Ediacarano (c. 635-542 milhões de anos atrás), fase tardia da era geológica pré-cambriana
+埃里温 | TRADUÇÃO: Erevã, capital da Armênia
+埃隆·马斯克 | TRADUÇÃO: Elon Musk (1971-), fundador e CEO da SpaceX, cofundador e CEO da Tesla Motors
+埄 | TRADUÇÃO: variante de 埲 ‖ marco usado durante a Dinastia Song (960-1279 d.C.)
+埆 | TRADUÇÃO: (de terra) estéril/pedregoso
+埇 | TRADUÇÃO: caminho elevado
+埇桥 | TRADUÇÃO: ver 埇橋區|埇桥区
+埇桥区 | TRADUÇÃO: Yongqiao, um distrito da cidade de Suzhou, Anhui
+埈 | TRADUÇÃO: variante de 峻
+埋 | TRADUÇÃO: enterrar ‖ usado em 埋怨
+埋伏 | TRADUÇÃO: emboscar/estar à espreita/ficar escondido/emboscada
+埋名 | TRADUÇÃO: esconder a identidade/viver incógnito
+埋单 | TRADUÇÃO: pagar a conta (em um restaurante etc.) (estrangeirismo do cantonês)/(fig.) assumir a responsabilidade
+埋天怨地 | TRADUÇÃO: lit. culpar os céus e repreender a terra/fig. praguejar e reclamar
+埋孔 | TRADUÇÃO: (eletrônica) via enterrada
+埋怨 | TRADUÇÃO: reclamar/resmungar (sobre)/repreender/culpar
+埋汰 | TRADUÇÃO: (dialeto) sujo/zoar alguém
+埋没 | TRADUÇÃO: engolfar/enterrar/ignorar/sufocar/negligenciar/cair no esquecimento
+埋线 | TRADUÇÃO: cordão rebaixado (usado em encadernação)
+埋葬 | TRADUÇÃO: enterrar
+埋藏 | TRADUÇÃO: enterrar/esconder enterrando/escondido
+埋设 | TRADUÇÃO: instalar (canos de água, minas terrestres, etc.) subterraneamente
+埋头 | TRADUÇÃO: mergulhar em/absorto em algo/baixar a cabeça (p. ex., para evitar chuva)/rebaixado (de parafusos, rebites, etc.)
+埋头苦干 | TRADUÇÃO: enterrar-se no trabalho (expressão idiomática); estar absorto no trabalho/fazer um esforço total/até o pescoço no trabalho
+埋首 | TRADUÇÃO: mergulhar em (trabalho, estudos, etc.)
+埋点 | TRADUÇÃO: (web analytics) rastreamento de eventos/evento
+埌 | TRADUÇÃO: terreno baldio/selvagem
+城 | TRADUÇÃO: muralhas da cidade/cidade/CL:座,道,個|个
+城中 | TRADUÇÃO: ver 城中區|城中区
+城中区 | TRADUÇÃO: Chengzhong, um distrito da cidade de Liuzhou, Guangxi/Chengzhong, um distrito da cidade de Xining, Qinghai
+城中村 | TRADUÇÃO: vila dentro da cidade/favela/gueto
+城北 | TRADUÇÃO: ver 城北區|城北区
+城北区 | TRADUÇÃO: Chengbei, um distrito da cidade de Xining, Qinghai
+城区 | TRADUÇÃO: Distrito de Cheng ou Chengqu, um distrito da cidade de Shanwei, Guangdong/Distrito de Cheng ou Chengqu, um distrito da cidade de Yangquan, Shanxi/Distrito de Cheng ou Chengqu, um distrito da cidade de Jincheng, Shanxi ‖ distrito urbano/área urbana
+城口 | TRADUÇÃO: ver 城口縣|城口县
+城口县 | TRADUÇÃO: Chengkou, um condado em Chongqing
+城固 | TRADUÇÃO: ver 城固縣|城固县
+城固县 | TRADUÇÃO: Chenggu, um condado na cidade de Hanzhong, Shaanxi
+城址 | TRADUÇÃO: localidade da cidade
+城垣 | TRADUÇÃO: muralha da cidade
+城域网 | TRADUÇÃO: rede de área metropolitana
+城堡 | TRADUÇÃO: castelo/torre (peça de xadrez)
+城外 | TRADUÇÃO: fora da cidade
+城子河 | TRADUÇÃO: ver 城子河區|城子河区
+城子河区 | TRADUÇÃO: Chengzihe, um distrito da cidade de Jixi, Heilongjiang
+城巴佬 | TRADUÇÃO: (gíria) (jocoso) "caipira da cidade", pessoa da cidade sem conhecimento rural ou da natureza (trocadilho com 鄉巴佬|乡巴佬)
+城市 | TRADUÇÃO: cidade/CL:座
+城市依赖症 | TRADUÇÃO: "doença da dependência urbana" (sofredores não querem abrir mão do conforto da cidade e retornar ao campo)
+城市化 | TRADUÇÃO: urbanização
+城市管理行政执法局 | TRADUÇÃO: Escritório Municipal de Execução da Lei Administrativa Urbana (RPC)
+城市规划 | TRADUÇÃO: planejamento urbano
+城市运动会 | TRADUÇÃO: Jogos Intercidades Nacionais, competição atlética chinesa, organizada a cada quatro anos desde 1988
+城府 | TRADUÇÃO: sutil/astuto/sofisticado
+城厢 | TRADUÇÃO: ver 城廂區|城厢区
+城厢区 | TRADUÇÃO: Chengxiang, um distrito da cidade de Putian, Fujian
+城东 | TRADUÇÃO: ver 城東區|城东区
+城东区 | TRADUÇÃO: Chengdong, um distrito da cidade de Xining, Qinghai

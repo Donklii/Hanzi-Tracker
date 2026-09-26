@@ -6,14 +6,18 @@ import { ModalCartaoDetalhes } from './dicionario/ModalCartaoDetalhes';
 import { ModalAdicionarHanzi } from './dicionario/ModalAdicionarHanzi';
 import { ModalBuscaPorDesenho } from './dicionario/ModalBuscaPorDesenho';
 import { ModalAvisoCompatibilidade } from './comum/ModalAvisoCompatibilidade';
+import { ModalNotasVersao } from './notasVersao/ModalNotasVersao';
+import { useNotasVersao } from './notasVersao/useNotasVersao';
 import { ModalConfirmacao } from './comum/ModalConfirmacao';
 import { ModalConflitoNuvem } from './nuvem/ModalConflitoNuvem';
 import { useNuvem } from './nuvem/useNuvem';
 import { useArmazenamento } from './configuracoes/useArmazenamento';
 import { useCatalogos } from './configuracoes/useCatalogos';
 import { AbaDescobrimento } from './descobrimento/AbaDescobrimento';
+import { SugestaoEstudoPopup } from './descobrimento/SugestaoEstudoPopup';
 import { AbaEstudos } from './estudos/AbaEstudos';
 import { AbaRevisao } from './revisao/AbaRevisao';
+import { GrupoFocoCabecalho } from './revisao/GrupoFocoCabecalho';
 import { AbaBuscaGlobal } from './busca/AbaBuscaGlobal';
 import { CampoBuscaGlobal } from './busca/CampoBuscaGlobal';
 import { useBuscaGlobal } from './busca/useBuscaGlobal';
@@ -26,12 +30,16 @@ import { useRastreamentoMouse } from './descobrimento/useRastreamentoMouse';
 import { useRefEspelho } from './comum/useRefEspelho';
 import { useLeituraPinyin } from './comum/useLeituraPinyin';
 import { config, main, progresso } from '../wailsjs/go/models';
-import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, RemoveVocab, GetVocab, ShowHighlight, HideHoverPopup, LookupWord, DecomposeCharacter, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, GetCaptureResolution, GetSessionImage, GetLastScreenshot, GetMonitores, GetCotaTraducao, GetCotaGemini } from "../wailsjs/go/main/App";
+import { t } from './i18n/i18n';
+import { CaptureAndOCR, GetConfig, SaveConfig, AddVocab, RemoveVocab, GetVocab, ShowHighlight, HideHoverPopup, LookupWord, DecomposeCharacter, CaractereCompleto, MarcarVistoSilencioso, GetSystemHardware, GetCaptureResolution, GetSessionImage, GetLastScreenshot, GetLastCards, GetMonitores, GetCotaTraducao, GetCotaGemini, ObterFocoRevisao, ReiniciarAplicativo, ConverterTexto } from "../wailsjs/go/main/App";
+import { AtalhosProvider } from './atalhos/AtalhosContext';
+import { ModalGuiaAtalhos } from './atalhos/ModalGuiaAtalhos';
 import { EventsOn } from "../wailsjs/runtime/runtime";
 
-function App() {
+function AppConteudo() {
   const [abaAtiva, setAbaAtiva] = useState<Aba>(ABAS.Descobrimento);
   const [painelConfigAberto, setPainelConfigAberto] = useState(false);
+  const notasVersao = useNotasVersao();
 
   const [cartoes, setCartoes] = useState<any[]>([]); // Raw OCR result (Descobrimento)
   const [cartoesSecao, setCartoesSecao] = useState<any[]>([]); // Accumulated OCR (Palavras dessa Seção)
@@ -44,7 +52,7 @@ function App() {
   const [indiceHistoricoModal, setIndiceHistoricoModal] = useState(-1);
 
   const [cartoesVocabulario, setCartoesVocabulario] = useState<progresso.Vocab[]>([]);
-  const [status, setStatus] = useState('Aguardando...');
+  const [status, setStatus] = useState(t('Aguardando...'));
   const [configuracoesApp, setConfiguracoesApp] = useState<config.Config | null>(null);
   const [infoHardware, setInfoHardware] = useState<main.SystemHardware | null>(null);
   const [monitores, setMonitores] = useState<any[]>([]);
@@ -58,19 +66,42 @@ function App() {
   });
   const [infoCotaTraducao, setInfoCotaTraducao] = useState<main.InfoCotaTraducao | null>(null);
   const [infoCotaGemini, setInfoCotaGemini] = useState<main.InfoCotaGemini | null>(null);
-  const [confirmacao, setConfirmacao] = useState<{ titulo: string; mensagem: string; rotuloAcao: string; acao: () => void } | null>(null);
+  const [confirmacao, setConfirmacao] = useState<{
+    titulo: string;
+    mensagem: string;
+    rotuloAcao: string;
+    acao: () => void;
+    rotuloCancelar?: string;
+    cancelarAcao?: () => void;
+    rotuloAcao2?: string;
+    acao2?: () => void;
+    perigoso?: boolean;
+  } | null>(null);
   // Sincronização com o Google Drive (aba Armazenamento + modal de conflito da 1ª conexão).
   const nuvem = useNuvem({
     setStatus,
-    aoSubstituirBancoLocal: () => {
+    aoRestaurarDaNuvem: () => {
       CarregarVocabulario();
       armazenamento.CarregarArmazenamento();
+      // A restauração troca também o configuracoes.json: sem reler, a tela continuaria mostrando
+      // (e regravando) as preferências antigas.
+      GetConfig().then(cfg => setConfiguracoesApp(cfg));
     },
   });
 
   const { termoBuscaGlobal, setTermoBuscaGlobal, resultadosBuscaGlobal } = useBuscaGlobal();
+  const [ordenarPorRanking, setOrdenarPorRanking] = useState(false);
+  const [buscaGlobalAtiva, setBuscaGlobalAtiva] = useState(false);
+  const [scrollTargetHanzi, setScrollTargetHanzi] = useState<string | null>(null);
 
   const [cartaoEmFoco, setCartaoEmFoco] = useState<any | null>(null);
+  // Grupo global de foco da revisão: o estado mora aqui porque o painel é exibido no cabeçalho
+  // da página (GrupoFocoCabecalho), mas quem carrega/sincroniza os dados é a AbaRevisao.
+  const [focoRevisao, setFocoRevisao] = useState<main.ItemFocoRevisao[]>([]);
+  // Re-sincroniza o grupo de foco após adições manuais pelo pop-up (a consulta já rotaciona no backend).
+  const recarregarFoco = () => {
+    ObterFocoRevisao().then(itens => setFocoRevisao(itens || [])).catch(() => {});
+  };
   const [abaConfiguracao, setAbaConfiguracao] = useState('Geral');
   const [termoBusca, setTermoBusca] = useState('');
   const [totalHanzis, setTotalHanzis] = useState<number>(0);
@@ -78,6 +109,7 @@ function App() {
   const [modalAdicionarHanzi, setModalAdicionarHanzi] = useState<{ open: boolean, status: string }>({ open: false, status: '' });
   const [inputAdicionarHanzi, setInputAdicionarHanzi] = useState('');
   const [sugestoesPinyin, setSugestoesPinyin] = useState<string[]>([]);
+  const [faseRevisao, setFaseRevisao] = useState<string>('selecao');
 
   // Espelhos de state para os handlers registrados uma única vez (EventsOn, listeners de window).
   const cartoesRef = useRefEspelho(cartoes);
@@ -87,7 +119,7 @@ function App() {
 
   const TocarLeituraPinyin = useLeituraPinyin({ configuracoesAppRef, setStatus });
 
-  const { definirOffsetMonitor, definirMouseSobreCartaoUI } = useRastreamentoMouse({
+  const { definirOffsetMonitor, definirMouseSobreCartaoUI, revalidarFocoContra } = useRastreamentoMouse({
     cartoesRef, cartaoEmFocoRef, abaAtivaRef, configuracoesAppRef,
     setCartaoEmFoco, TocarLeituraPinyin,
   });
@@ -137,6 +169,19 @@ function App() {
 
     EventsOn("trigger_scan", () => {
       EscanearTelaEhProcessar();
+    });
+
+    // O vigia do Go detectou card fantasma (ou reencontrou um perdido): re-busca os cards para o
+    // hover, os destaques e os pop-ups pararem de apontar para posições onde o texto já não está.
+    EventsOn("vigia_cards_atualizados", (cards: any) => {
+      const lista = cards || [];
+      setCartoes(prev => {
+        const pseudoCartoes = prev.filter(c => c.isScreenshotCard);
+        return [...lista, ...pseudoCartoes];
+      });
+      // Derruba na hora o foco/pop-up/destaque preso a um card que virou fantasma — o
+      // rastreamento do mouse, sozinho, só reavaliaria no próximo movimento do cursor.
+      revalidarFocoContra(lista);
     });
 
     EventsOn("trigger_save", () => {
@@ -215,6 +260,31 @@ function App() {
 
     let mudancas: Partial<config.Config> = { [key]: value };
 
+    if (key === 'idiomaTraducao' && value !== configuracoesApp.idiomaTraducao) {
+      setConfirmacao({
+        titulo: t('Alterar Idioma'),
+        mensagem: t('É necessário reiniciar o aplicativo para que a alteração de idioma faça efeito. Deseja reiniciar agora?'),
+        rotuloCancelar: t('Cancelar'),
+        cancelarAcao: () => {},
+        rotuloAcao2: t('Reiniciar depois'),
+        acao2: () => {
+          AplicarConfiguracao(mudancas);
+        },
+        rotuloAcao: t('Reiniciar agora'),
+        acao: () => {
+          const novo = { ...configuracoesApp, ...mudancas } as config.Config;
+          setConfiguracoesApp(novo);
+          SaveConfig(novo).then(() => {
+            ReiniciarAplicativo().catch(err => {
+              console.error('Erro ao reiniciar o aplicativo:', err);
+            });
+          });
+        },
+        perigoso: false
+      });
+      return;
+    }
+
     // Atualizar offset do monitor quando o alvo mudar
     if (key === 'monitorAlvo' && monitores.length > 0) {
       const newMon = monitores.find((mon: any) => mon.id === value) || monitores[0];
@@ -249,17 +319,17 @@ function App() {
       CarregarVocabulario();
       // NOTA: O usuário expressou preferência por manter os cartoes na seção em vez de "inbox zero",
       // usando um tratamento visual (cor + sort) para diferenciá-los, então não faremos setCartoes(filter).
-      setStatus(`Palavra movida para ${newStatus}: ${hz}`);
+      setStatus(t('Palavra movida para {status}: {hanzi}', { status: t(newStatus), hanzi: hz }));
     });
   };
 
-  const [statusOcr, setStatusOcr] = useState('Aguardando captura...');
+  const [statusOcr, setStatusOcr] = useState(t('Aguardando captura...'));
 
   const EscanearTelaEhProcessar = () => {
-    setStatusOcr('Capturando e processando OCR...');
+    setStatusOcr(t('Capturando e processando OCR...'));
     CaptureAndOCR()
       .then((res: any) => {
-        setStatusOcr('Captura concluída!');
+        setStatusOcr(t('Captura concluída!'));
         const palavrasDetectadas: any[] = res || [];
 
         // Pseudo-cartão com a captura de tela usada nesse OCR: reaproveita o mesmo sistema de card
@@ -269,8 +339,8 @@ function App() {
         const pseudoCartaoScreenshot = {
           isScreenshotCard: true,
           hanzi: "📷",
-          pinyin: "Visualizar Captura",
-          significados: [`${palavrasDetectadas.length} palavra(s) detectada(s) nesta captura`],
+          pinyin: t("Visualizar Captura"),
+          significados: [t('{quantidade} palavra(s) detectada(s) nesta captura', { quantidade: palavrasDetectadas.length })],
           tipoHanzi: "SISTEMA",
         };
         const newCards = [...palavrasDetectadas, pseudoCartaoScreenshot];
@@ -300,7 +370,8 @@ function App() {
   const AoEntrarNoCartao = (c: any) => {
     definirMouseSobreCartaoUI(true);
     setCartaoEmFoco(c);
-    if (c.caixa && c.caixa.length === 4) {
+    // Card fantasma: o texto já saiu da posição original, destacá-la marcaria outra coisa.
+    if (c.caixa && c.caixa.length === 4 && !c.fantasma) {
       ShowHighlight(
         Math.round(c.caixa[0]),
         Math.round(c.caixa[1]),
@@ -323,9 +394,15 @@ function App() {
   };
 
   const AoClicarNoCartao = (c: any, isNavegacaoHistorico = false) => {
-    setCartaoSelecionado(c);
-    setDadosDecomposicao(null);
     const hz = c.hanzi || c.Hanzi;
+    const vocabEntry = cartoesVocabulario.find(v => v.Hanzi === hz);
+    const cardCompleto = {
+      ...c,
+      vezesVistaOcr: vocabEntry ? vocabEntry.vezesVistaOcr : (c.vezesVistaOcr || 0)
+    };
+
+    setCartaoSelecionado(cardCompleto);
+    setDadosDecomposicao(null);
 
     if (!isNavegacaoHistorico) {
       setHistoricoModal(prev => {
@@ -363,27 +440,70 @@ function App() {
     const charFinal = completo || char;
     const foiAbreviacao = completo !== '';
 
+    // Tenta obter o simplificado correspondente
+    const simplified = await ConverterTexto(charFinal, 'simplificado');
+
     LookupWord(charFinal).then(entradas => {
       if (entradas && entradas.length > 0) {
         const ent = entradas[0];
         const newCard = {
-          hanzi: ent.Simplificado,
-          Hanzi: ent.Simplificado,
+          hanzi: charFinal,
+          Hanzi: charFinal,
           pinyin: ent.Pinyin,
           significados: ent.Significados
         };
         AoClicarNoCartao(newCard);
 
-        // Abreviações visuais não entram para o banco de dados
         if (!foiAbreviacao) {
           MarcarVistoSilencioso(charFinal).then(() => CarregarVocabulario());
         }
+      } else if (simplified && simplified !== charFinal) {
+        // Se a busca com o caractere tradicional falhar diretamente, tenta buscar com a versão simplificada correspondente, mas mantendo o glifo tradicional no card
+        LookupWord(simplified).then(entradasSimp => {
+          if (entradasSimp && entradasSimp.length > 0) {
+            const ent = entradasSimp[0];
+            const newCard = {
+              hanzi: charFinal,
+              Hanzi: charFinal,
+              pinyin: ent.Pinyin,
+              significados: ent.Significados
+            };
+            AoClicarNoCartao(newCard);
+
+            if (!foiAbreviacao) {
+              MarcarVistoSilencioso(charFinal).then(() => CarregarVocabulario());
+            }
+          } else {
+            // Fallback genérico se a versão simplificada também falhar no CEDICT
+            const newCard = {
+              hanzi: charFinal,
+              Hanzi: charFinal,
+              pinyin: '',
+              significados: []
+            };
+            AoClicarNoCartao(newCard);
+          }
+        });
+      } else {
+        // Fallback genérico para caracteres sem entrada no dicionário
+        const newCard = {
+          hanzi: charFinal,
+          Hanzi: charFinal,
+          pinyin: '',
+          significados: []
+        };
+        AoClicarNoCartao(newCard);
       }
     });
   };
 
   // Obter listas
   const vistas = cartoesVocabulario; // Tudo que está no banco foi "visto"
+  const hanzisDescobertos = new Set(
+    cartoesVocabulario
+      .filter(c => (c.Hanzi || '').length === 1)
+      .map(c => c.Hanzi)
+  ).size;
   const estudando = cartoesVocabulario.filter(c => c.Status === STATUS_VOCABULARIO.Estudo);
   const aprendidas = cartoesVocabulario.filter(c => c.Status === STATUS_VOCABULARIO.Aprendido);
 
@@ -408,6 +528,7 @@ function App() {
 
   // Filtro de exibição por tipo de Hanzi (Simplificado / Tradicional), lido das configurações.
   const filtrarPorTipo = (cartoes: any[]) => FiltrarPorTipoHanzi(cartoes, configuracoesApp?.tipoHanziExibicao);
+  const emSessaoOuJornadaRevisao = abaAtiva === ABAS.Revisao && faseRevisao !== 'selecao';
 
   return (
     <div id="App">
@@ -420,66 +541,143 @@ function App() {
 
       {/* Main Content Area */}
       <div className="main-content">
-        <div className="header">
-          <div className="header-title">
-            {TITULOS_POR_ABA[abaAtiva]}
-          </div>
+        {!emSessaoOuJornadaRevisao && (
+          <div className="header">
+            <div className="header-title">
+              {t(TITULOS_POR_ABA[abaAtiva])}
+            </div>
 
-          <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
-            {abaAtiva !== ABAS.Revisao && (
-              <CampoBuscaGlobal
-                termoBuscaGlobal={termoBuscaGlobal}
-                aoMudarTermo={setTermoBuscaGlobal}
-                aoAbrirBuscaPorDesenho={() => setModalBuscaPorDesenhoOpen(true)}
-              />
-            )}
+            <div style={{ display: 'flex', gap: '12px', alignItems: 'center', minWidth: 0 }}>
+              {abaAtiva !== ABAS.Revisao && (
+                <CampoBuscaGlobal
+                  termoBuscaGlobal={termoBuscaGlobal}
+                  aoMudarTermo={setTermoBuscaGlobal}
+                  aoAbrirBuscaPorDesenho={() => setModalBuscaPorDesenhoOpen(true)}
+                  ordenarPorRanking={ordenarPorRanking}
+                  aoAlternarRanking={() => setOrdenarPorRanking(prev => {
+                    const proximo = !prev;
+                    if (proximo) {
+                      if (termoBuscaGlobal.startsWith("[HSK]")) {
+                        setTermoBuscaGlobal("");
+                      }
+                      if (buscaGlobalAtiva) {
+                        setTermoBuscaGlobal("[RANKING]");
+                      }
+                    } else {
+                      if (termoBuscaGlobal === "[RANKING]") {
+                        setTermoBuscaGlobal("");
+                      }
+                    }
+                    return proximo;
+                  })}
+                  buscaGlobalAtiva={buscaGlobalAtiva}
+                  aoAlternarGlobal={() => {
+                    setBuscaGlobalAtiva(prev => {
+                      const proximo = !prev;
+                      if (ordenarPorRanking) {
+                        if (proximo) {
+                          setTermoBuscaGlobal("[RANKING]");
+                        } else {
+                          setTermoBuscaGlobal("");
+                        }
+                      }
+                      return proximo;
+                    });
+                  }}
+                />
+              )}
 
-            {abaAtiva === ABAS.Descobrimento && (
-              <button className="scan-btn" onClick={EscanearTelaEhProcessar}>
-                Escanear Tela ({configuracoesApp?.atalhoEscanear || 'ctrl+shift+e'})
-              </button>
-            )}
+              {/* Na Revisão, o espaço da busca/adicionar é do painel do grupo de foco */}
+              {abaAtiva === ABAS.Revisao && (
+                <GrupoFocoCabecalho
+                  configuracoesApp={configuracoesApp}
+                  AtualizarConfiguracao={AtualizarConfiguracao}
+                  foco={focoRevisao}
+                  recarregarFoco={recarregarFoco}
+                  aoClicarNoFoco={item => AoClicarNoCartao({ Hanzi: item.hanzi, Pinyin: item.pinyin, significados: item.significados, abrirEmEstatisticas: true })}
+                />
+              )}
 
-            {abaAtiva === ABAS.TelaUnica && (
-              <button
-                className="scan-btn"
-                style={{ backgroundColor: '#f44336', display: 'flex', alignItems: 'center', gap: '6px' }}
-                onClick={() => {
-                  setCartoes([]);
-                  setCartoesSecao([]);
-                }}
-              >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
-                Limpar Seção
-              </button>
-            )}
-
-            {(abaAtiva === ABAS.Estudando || abaAtiva === ABAS.Aprendidas) && (
-              <button
-                className="scan-btn"
-                style={{ backgroundColor: '#2196f3', display: 'flex', alignItems: 'center', gap: '6px' }}
-                onClick={() => setModalAdicionarHanzi({ open: true, status: abaAtiva === ABAS.Estudando ? STATUS_VOCABULARIO.Estudo : STATUS_VOCABULARIO.Aprendido })}
-              >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
-                Adicionar Hanzi
-              </button>
-            )}
-
-            {abaAtiva === ABAS.Vistas && (
-              <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', fontSize: '12px', color: 'var(--cor-texto-suave)' }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                  <div style={{ width: '120px', height: '8px', backgroundColor: 'var(--cor-fundo-secundario)', borderRadius: '4px', overflow: 'hidden' }}>
-                    <div style={{ width: `${totalHanzis > 0 ? (vistas.length / totalHanzis) * 100 : 0}%`, height: '100%', backgroundColor: 'var(--cor-destaque)' }}></div>
-                  </div>
-                  <strong style={{ color: 'var(--cor-texto-primario)' }}>
-                    {totalHanzis > 0 ? ((vistas.length / totalHanzis) * 100).toFixed(2) : 0}%
-                  </strong>
+              {abaAtiva === ABAS.Descobrimento && (
+                <div className="compact-scan-control">
+                  <button
+                    className={`compact-scan-btn ${configuracoesApp?.autoScanAtivo ? 'active' : 'paused'}`}
+                    title={configuracoesApp?.autoScanAtivo ? t("Pausar Captura Automática") : t("Iniciar Captura Automática")}
+                    onClick={() => {
+                      if (configuracoesApp) {
+                        AtualizarConfiguracao('autoScanAtivo', !configuracoesApp.autoScanAtivo);
+                      }
+                    }}
+                  >
+                    {configuracoesApp?.autoScanAtivo ? (
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <rect x="6" y="4" width="4" height="16"></rect>
+                        <rect x="14" y="4" width="4" height="16"></rect>
+                      </svg>
+                    ) : (
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                      </svg>
+                    )}
+                  </button>
+                  <button
+                    className="compact-scan-btn action"
+                    title={`${t('Escanear Tela Agora')} (${configuracoesApp?.atalhoEscanear || 'ctrl+shift+e'})`}
+                    onClick={EscanearTelaEhProcessar}
+                  >
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                      <path d="M3 7V5a2 2 0 0 1 2-2h2m10 0h2a2 2 0 0 1 2 2v2m0 10v2a2 2 0 0 1-2 2h-2M7 21H5a2 2 0 0 1-2-2v-2"></path>
+                      <line x1="4" y1="12" x2="20" y2="12" stroke="currentColor" strokeWidth="2.5"></line>
+                    </svg>
+                  </button>
                 </div>
-                <span style={{ fontSize: '10px', marginTop: '2px' }}>{vistas.length} / {totalHanzis} hanzis descobertos</span>
-              </div>
-            )}
+              )}
+
+              {abaAtiva === ABAS.TelaUnica && (
+                <div className="compact-scan-control">
+                  <button
+                    className="compact-scan-btn danger"
+                    title={t("Limpar Seção")}
+                    onClick={() => {
+                      setCartoes([]);
+                      setCartoesSecao([]);
+                    }}
+                  >
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                      <polyline points="3 6 5 6 21 6"></polyline>
+                      <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                    </svg>
+                  </button>
+                </div>
+              )}
+
+              {(abaAtiva === ABAS.Estudando || abaAtiva === ABAS.Aprendidas) && (
+                <button
+                  className="scan-btn"
+                  style={{ backgroundColor: '#2196f3', display: 'flex', alignItems: 'center', gap: '6px' }}
+                  onClick={() => setModalAdicionarHanzi({ open: true, status: abaAtiva === ABAS.Estudando ? STATUS_VOCABULARIO.Estudo : STATUS_VOCABULARIO.Aprendido })}
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+                  {t('Adicionar Hanzi')}
+                </button>
+              )}
+
+              {abaAtiva === ABAS.Vistas && (
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', fontSize: '12px', color: 'var(--cor-texto-suave)' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                    <div style={{ width: '120px', height: '8px', backgroundColor: 'var(--cor-fundo-secundario)', borderRadius: '4px', overflow: 'hidden' }}>
+                      <div style={{ width: `${totalHanzis > 0 ? (hanzisDescobertos / totalHanzis) * 100 : 0}%`, height: '100%', backgroundColor: 'var(--cor-destaque)' }}></div>
+                    </div>
+                    <strong style={{ color: 'var(--cor-texto-primario)' }}>
+                      {totalHanzis > 0 ? ((hanzisDescobertos / totalHanzis) * 100).toFixed(2) : 0}%
+                    </strong>
+                  </div>
+                  <span style={{ fontSize: '10px', marginTop: '2px' }}>{t('{descobertos} / {total} hanzis descobertos', { descobertos: hanzisDescobertos, total: totalHanzis })}</span>
+                </div>
+              )}
+            </div>
           </div>
-        </div>
+        )}
 
         {status !== 'Aguardando...' && status !== '' && (
           <div style={{
@@ -520,6 +718,12 @@ function App() {
             AoEntrarNoCartao={AoEntrarNoCartao}
             AoSairDoCartao={AoSairDoCartao}
             AoClicarNoCartao={AoClicarNoCartao}
+            ordenarPorRanking={ordenarPorRanking}
+            scrollTargetHanzi={scrollTargetHanzi}
+            setScrollTargetHanzi={setScrollTargetHanzi}
+            SalvarPalavra={SalvarPalavra}
+            buscaGlobalAtiva={buscaGlobalAtiva}
+            abaAtiva={abaAtiva}
           />
         ) : (
           <>
@@ -527,25 +731,27 @@ function App() {
               abaAtiva={abaAtiva}
               cartoes={filtrarPorTipo(cartoes)}
               cartoesSecao={filtrarPorTipo(cartoesSecao)}
-              vistas={filtrarPorTipo(vistas)}
+              vistas={vistas}
               cartoesVocabulario={cartoesVocabulario}
               AoEntrarNoCartao={AoEntrarNoCartao}
               AoSairDoCartao={AoSairDoCartao}
               AoClicarNoCartao={AoClicarNoCartao}
               SalvarPalavra={SalvarPalavra}
               ocultarBadgeTipo={configuracoesApp?.tipoHanziExibicao !== 'ambos'}
+              ordenarPorRanking={ordenarPorRanking}
             />
 
             <AbaEstudos
               abaAtiva={abaAtiva}
-              estudando={filtrarPorTipo(estudando)}
-              aprendidas={filtrarPorTipo(aprendidas)}
+              estudando={estudando}
+              aprendidas={aprendidas}
               cartoesVocabulario={cartoesVocabulario}
               AoEntrarNoCartao={AoEntrarNoCartao}
               AoSairDoCartao={AoSairDoCartao}
               AoClicarNoCartao={AoClicarNoCartao}
               SalvarPalavra={SalvarPalavra}
-              ocultarBadgeTipo={configuracoesApp?.tipoHanziExibicao !== 'ambos'}
+              ocultarBadgeTipo={false}
+              ordenarPorRanking={ordenarPorRanking}
             />
           </>
         )}
@@ -555,6 +761,20 @@ function App() {
           configuracoesApp={configuracoesApp}
           setStatus={setStatus}
           AoClicarNoCartao={AoClicarNoCartao}
+          AtualizarConfiguracao={AtualizarConfiguracao}
+          foco={focoRevisao}
+          setFoco={setFocoRevisao}
+          aoMudarFase={setFaseRevisao}
+        />
+
+        {/* Pop-up estilo Balatro: sugere estudar as palavras que o OCR mais viu (abas Seção/Já Vistas) */}
+        <SugestaoEstudoPopup
+          abaAtiva={abaAtiva}
+          habilitado={configuracoesApp?.mostrarSugestaoPalavrasVistas ?? true}
+          SalvarPalavra={SalvarPalavra}
+          setStatus={setStatus}
+          AoClicarNoCartao={AoClicarNoCartao}
+          cartoesSecao={cartoesSecao}
         />
       </div>
 
@@ -601,12 +821,42 @@ function App() {
           }
           FecharModalCartao();
         }}
+        aoBuscarPorRanking={(hanzi) => {
+          setOrdenarPorRanking(true);
+          setScrollTargetHanzi(hanzi);
+          
+          const isAlreadyInSearch = resultadosBuscaGlobal.some(c => (c.hanzi || (c as any).Hanzi) === hanzi);
+          if (!termoBuscaGlobal || !isAlreadyInSearch) {
+            setTermoBuscaGlobal(`[RANKING]${hanzi}`);
+          }
+
+          if (abaAtiva === ABAS.Revisao) {
+            setAbaAtiva(ABAS.Descobrimento);
+          }
+          FecharModalCartao();
+        }}
+        aoBuscarPorHSK={(hanzi) => {
+          setScrollTargetHanzi(hanzi);
+          setTermoBuscaGlobal(`[HSK]${hanzi}`);
+          if (abaAtiva === ABAS.Revisao) {
+            setAbaAtiva(ABAS.Descobrimento);
+          }
+          FecharModalCartao();
+        }}
       />
 
       {/* Pop-up de aviso de compatibilidade */}
       <ModalAvisoCompatibilidade
         avisoCompatibilidade={catalogos.avisoCompatibilidade}
         setAvisoCompatibilidade={catalogos.setAvisoCompatibilidade}
+      />
+
+      {/* Pop-up de notas de versão pós-atualização */}
+      <ModalNotasVersao
+        aberto={notasVersao.aberto}
+        titulo={notasVersao.titulo}
+        notas={notasVersao.notas}
+        aoFechar={notasVersao.fechar}
       />
 
       {/* Modal de confirmação */}
@@ -644,7 +894,17 @@ function App() {
         configuracoesApp={configuracoesApp}
       />
 
+      <ModalGuiaAtalhos configuracoesApp={configuracoesApp} />
+
     </div>
+  );
+}
+
+function App() {
+  return (
+    <AtalhosProvider>
+      <AppConteudo />
+    </AtalhosProvider>
   );
 }
 

@@ -1,3 +1,4 @@
+import { t } from '../i18n/i18n';
 
 interface PopupRevisaoProps {
   info: {
@@ -21,16 +22,19 @@ export function PopupRevisao({ info }: PopupRevisaoProps) {
         top: info.y - 15, // Acima da palavra alvo
         transform: 'translateY(-100%)',
         width: '240px',
-        backgroundColor: 'var(--cor-fundo)',
-        border: '1px solid var(--cor-borda)',
-        borderRadius: '8px',
-        padding: '12px',
-        boxShadow: '0 -4px 12px rgba(0,0,0,0.3)',
+        backgroundColor: 'var(--cor-fundo-painel, #171717)',
+        backgroundImage: 'linear-gradient(180deg, rgba(38, 38, 38, 0.95) 0%, rgba(23, 23, 23, 0.98) 100%)',
+        border: '1.5px solid var(--cor-destaque, #6366f1)',
+        borderRadius: '12px',
+        padding: '14px',
+        boxShadow: '0 12px 32px rgba(0, 0, 0, 0.85), 0 0 0 1px rgba(99, 102, 241, 0.25)',
+        backdropFilter: 'blur(16px)',
+        WebkitBackdropFilter: 'blur(16px)',
         pointerEvents: 'none',
         zIndex: 9999,
         display: 'flex',
         flexDirection: 'column',
-        fontFamily: 'var(--fonte-interface)'
+        fontFamily: 'var(--fonte-interface, system-ui, sans-serif)'
       }}
     >
       <div style={{ textAlign: 'center', marginBottom: '8px' }}>
@@ -42,7 +46,7 @@ export function PopupRevisao({ info }: PopupRevisaoProps) {
         </div>
       </div>
       <div style={{ fontSize: '14px', color: 'var(--cor-texto-suave)', lineHeight: '1.4', borderTop: '1px solid var(--cor-borda)', paddingTop: '8px', textAlign: 'center' }}>
-        {info.significados || 'Sem definição.'}
+        {info.significados || t('Sem definição.')}
       </div>
     </div>
   );

@@ -60,6 +60,8 @@ export function useDestaquesTela(opcoes: OpcoesUseDestaquesTela) {
     for (const cartao of cartoesDaTela) {
       const hanzi = cartao.hanzi || cartao.Hanzi;
       if (!hanzi || !cartao.caixa || cartao.caixa.length !== LADOS_CAIXA) continue;
+      // Card fantasma (o vigia do Go detectou que o texto saiu da tela) não ganha destaque.
+      if (cartao.fantasma) continue;
 
       if (destacarEstudoTela && hanzisEmEstudo.has(hanzi)) {
         caixas.push(cartao.caixa);

@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+瓷碗 | TRADUÇÃO: tigela de porcelana
+瓷砖 | TRADUÇÃO: azulejo/ladrilho cerâmico
+瓷釉 | TRADUÇÃO: esmalte de porcelana
+瓸 | TRADUÇÃO: (antigo) forma contraída variante de 百瓦
+瓻 | TRADUÇÃO: jarro grande para vinho
+瓼 | TRADUÇÃO: (antigo) forma contraída de 釐瓦
+瓿 | TRADUÇÃO: tipo de vaso antigo/ver 安瓿
+甀 | TRADUÇÃO: vaso com boca pequena
+甁 | TRADUÇÃO: variante de 瓶
+甃 | TRADUÇÃO: alvenaria de poço
+甄 | TRADUÇÃO: sobrenome Zhen ‖ distinguir/avaliar
+甄别 | TRADUÇÃO: selecionar/discriminar/rever um caso/seleção (de candidatos etc.)
+甄别考试 | TRADUÇÃO: selecionar por exame/classificar por exame/seleção/prova de nivelamento
+甄审 | TRADUÇÃO: selecionar e avaliar (candidatos etc.)
+甄拔 | TRADUÇÃO: selecionar
+甄汰 | TRADUÇÃO: eliminar por exame
+甄用 | TRADUÇÃO: empregar por meio de exame
+甄综 | TRADUÇÃO: avaliar e selecionar de forma abrangente
+甄藻 | TRADUÇÃO: discernir talento
+甄训 | TRADUÇÃO: (Taiwan) identificar (indivíduos talentosos) e dar-lhes treinamento
+甄试 | TRADUÇÃO: teste de seleção/exame de admissão
+甄选 | TRADUÇÃO: selecionar; escolher
+甄录 | TRADUÇÃO: empregar por meio de exame
+甄陶 | TRADUÇÃO: moldar algo em argila/avaliar pessoas talentosas
+甇 | TRADUÇÃO: jarro de barro com pescoço longo
+甋 | TRADUÇÃO: jarro sem alças
+瓯 | TRADUÇÃO: nome antigo para a cidade de Wenzhou 溫州市|温州市, em Zhejiang 浙江 ‖ tigela ou vasilha para beber (de cerâmica)
+瓯海 | TRADUÇÃO: ver 甌海區|瓯海区
+瓯海区 | TRADUÇÃO: Ouhai, um distrito da cidade de Wenzhou 溫州市|温州市, Zhejiang
+甍 | TRADUÇÃO: caibros que sustentam telhas/cumeira de um telhado
+甏 | TRADUÇÃO: jarro baixo para guardar vinho, molhos etc.
+甑 | TRADUÇÃO: caldeirão/panela de arroz
+甒 | TRADUÇÃO: vaso/jarro
+甓 | TRADUÇÃO: telha esmaltada
+甔 | TRADUÇÃO: jarro grande
+瓮中之鳖 | TRADUÇÃO: (literal) como uma tartaruga num jarro/estar encurralado (expressão idiomática)
+瓮中捉鳖 | TRADUÇÃO: (literal) pegar uma tartaruga num jarro (expressão idiomática)/(figurado) ir atrás de presa fácil
+瓮城 | TRADUÇÃO: muro de proteção de um portão de cidade/barbacã de entrada de uma cidade
+瓮安 | TRADUÇÃO: ver 甕安縣|瓮安县
+瓮安县 | TRADUÇÃO: Weng'an, um condado na Prefeitura Autônoma de Buyei e Miao de Qiannan 黔南布依族苗族自治州, Guizhou
+瓮棺 | TRADUÇÃO: urna funerária
+瓮棺葬 | TRADUÇÃO: enterro em urna
+瓮声瓮气 | TRADUÇÃO: falar com voz abafada e grave (expressão idiomática)
+瓮菜 | TRADUÇÃO: variante de 蕹菜
+罂 | TRADUÇÃO: variante de 罌|罂 ‖ jarro de barro com boca pequena
+甗 | TRADUÇÃO: vasilha de barro
+甘 | TRADUÇÃO: sobrenome Gan/nome curto para Gansu 甘肅|甘肃 ‖ (forma presa) doce; agradável (em oposição a 苦: amargo, desagradável)/estar disposto (a fazer algo)
+甘丹寺 | TRADUÇÃO: Mosteiro de Ganden, tibetano: dGa' ldan rNam rgyal gling, condado de Dagzê 達孜縣|达孜县, Lhasa, Tibete
+甘之如饴 | TRADUÇÃO: (literal) tão doce quanto xarope (expressão idiomática, do Livro das Canções); suportar dificuldades de bom grado/glutão por castigo
+甘井子 | TRADUÇÃO: ver 甘井子區|甘井子区
+甘井子区 | TRADUÇÃO: Ganjingzi, um distrito da cidade de Dalian 大連市|大连市, Liaoning
+甘南 | TRADUÇÃO: ver 甘南藏族自治州/ver 甘南縣|甘南县
+甘南州 | TRADUÇÃO: ver 甘南藏族自治州
+甘南县 | TRADUÇÃO: Gannan, um condado na cidade de Qiqihar 齊齊哈爾市|齐齐哈尔市, Heilongjiang
+甘南藏族自治州 | TRADUÇÃO: Prefeitura Autônoma Tibetana de Gannan, na Província de Gansu 甘肅省|甘肃省
+甘味 | TRADUÇÃO: doçura; sabor doce
+甘味剂 | TRADUÇÃO: adoçante
+甘味料 | TRADUÇÃO: adoçante
+甘地 | TRADUÇÃO: (Mahatma) Gandhi
+甘孜 | TRADUÇÃO: ver 甘孜藏族自治州/ver 甘孜縣|甘孜县
+甘孜州 | TRADUÇÃO: ver 甘孜藏族自治州
+甘孜县 | TRADUÇÃO: Garzê, um condado na Prefeitura Autônoma Tibetana de Garzê 甘孜藏族自治州, Sichuan
+甘孜藏族自治州 | TRADUÇÃO: Prefeitura Autônoma Tibetana de Garzê, na Província de Sichuan 四川省
+甘州 | TRADUÇÃO: ver 甘州區|甘州区
+甘州区 | TRADUÇÃO: Ganzhou, um distrito da cidade de Zhangye 張掖市|张掖市, Gansu
+甘巴里 | TRADUÇÃO: Ibrahim Gambari (1944–), diplomata e acadêmico nigeriano
+甘德 | TRADUÇÃO: ver 甘德縣|甘德县
+甘德县 | TRADUÇÃO: Gadê, um condado na Prefeitura Autônoma Tibetana de Golog 果洛藏族自治州, Qinghai
+甘心 | TRADUÇÃO: estar disposto a/resignar-se a
+甘心情愿 | TRADUÇÃO: de boa vontade e com prazer (expressão idiomática)
+甘托克 | TRADUÇÃO: Gantok, capital de Siquim, Índia
+甘拜下风 | TRADUÇÃO: ceder lugar humildemente (expressão humilde)/reconhecer derrota/desempenhar um papel secundário
+甘于 | TRADUÇÃO: estar disposto a/estar pronto a/contentar-se com/aceitar (restrição, sacrifício, risco etc.)
+甘榜 | TRADUÇÃO: kampong (estrangeirismo)/também pron. gānbōng, imitando o malaio
+甘比亚 | TRADUÇÃO: Gâmbia (Taiwan)
+甘氨酸 | TRADUÇÃO: glicina (Gly), um aminoácido
+甘汞 | TRADUÇÃO: calomelano ou cloreto mercuroso (Hg2Cl2)
+甘油 | TRADUÇÃO: glicerina/glicerol
+甘油三脂 | TRADUÇÃO: triglicerídeo
+甘油三酯 | TRADUÇÃO: triglicerídeo
+甘油栓剂 | TRADUÇÃO: supositório de glicerina
+甘油醛 | TRADUÇÃO: gliceraldeído (CH2O)3
+甘泉 | TRADUÇÃO: ver 甘泉縣|甘泉县
+甘泉县 | TRADUÇÃO: Ganquan, um condado na cidade de Yan'an 延安市, Shaanxi
+甘洛 | TRADUÇÃO: ver 甘洛縣|甘洛县
+甘洛县 | TRADUÇÃO: Ganluo, um condado na Prefeitura Autônoma Yi de Liangshan 涼山彝族自治州|凉山彝族自治州, Sichuan
+甘甜 | TRADUÇÃO: doce
+甘糖醇 | TRADUÇÃO: manitol C6H14O6, um álcool de açúcar
+甘纳许 | TRADUÇÃO: (estrangeirismo) ganache
+甘纳豆 | TRADUÇÃO: amanattō, doce tradicional japonês feito de feijão azuki ou outros grãos
+甘肃 | TRADUÇÃO: ver 甘肅省|甘肃省
+甘肃柳莺 | TRADUÇÃO: (espécie de ave da China) felosa-de-Gansu (Phylloscopus kansuensis)
+甘肃省 | TRADUÇÃO: Província de Gansu, capital Lanzhou 蘭州市|兰州市 (nome curto 甘 ou 隴|陇)
+甘苦 | TRADUÇÃO: bons e maus momentos/alegrias e tribulações/na alegria e na tristeza
+甘草 | TRADUÇÃO: raiz de alcaçuz
+甘菊 | TRADUÇÃO: camomila
+甘蔗 | TRADUÇÃO: cana-de-açúcar/CL:節|节
+甘蔗渣 | TRADUÇÃO: bagaço
+甘薯 | TRADUÇÃO: batata-doce/Ipomoea batatas
+甘蓝 | TRADUÇÃO: repolho/brócolis chinês/gai larn
+甘蓝型油菜 | TRADUÇÃO: colza (Brassica napus)
+甘蓝菜 | TRADUÇÃO: repolho
+甘言蜜语 | TRADUÇÃO: vide 甜言蜜語|甜言蜜语
+甘谷 | TRADUÇÃO: vide 甘谷縣|甘谷县
+甘谷县 | TRADUÇÃO: Gangu, município na cidade de Tianshui 天水市, Gansu
+甘迺迪 | TRADUÇÃO: Kennedy (sobrenome) (Taiwan)
+甘露糖醇 | TRADUÇÃO: manitol C6H14O6, um álcool de açúcar
+甘露醇 | TRADUÇÃO: manitol C6H14O6, um álcool de açúcar
+甘愿 | TRADUÇÃO: de boa vontade
+甙 | TRADUÇÃO: termo antigo para 糖苷, glicosídeo
+甚 | TRADUÇÃO: variante de 什 ‖ excessivo; indevido/exceder; ser mais que/muito; extremamente/(dialeto) o quê; qualquer coisa (pronúncia em Taiwan [shen2])
+甚且 | TRADUÇÃO: até/mesmo/a ponto de
+甚嚣尘上 | TRADUÇÃO: alvoroço levanta poeira (expressão idiomática); um tremendo alvoroço/criar um grande escândalo
+甚巨 | TRADUÇÃO: variante de 甚鉅|甚巨 ‖ (geralmente de um efeito adverso) imenso; considerável; substancial
+甚平 | TRADUÇÃO: jinbei, roupa tradicional japonesa de duas peças usada no verão
+甚微 | TRADUÇÃO: muito pequeno/muito pouco/escasso/mínimo
+甚感诧异 | TRADUÇÃO: admirado/espantado/profundamente perturbado
+甚或 | TRADUÇÃO: a tal ponto que/até
+甚是 | TRADUÇÃO: (literário) muito; extremamente
+甚浓 | TRADUÇÃO: forte (cheiro)/denso (neblina)
+甚为 | TRADUÇÃO: muito/extremamente
+甚而 | TRADUÇÃO: até/a tal ponto que
+甚而至于 | TRADUÇÃO: até/a tal ponto que
+甚至 | TRADUÇÃO: até; a tal ponto que
+甚至于 | TRADUÇÃO: tanto (que)/até (ao ponto de)
+甚高频 | TRADUÇÃO: frequência muito alta (VHF)
+甛 | TRADUÇÃO: variante antiga de 甜
+甜 | TRADUÇÃO: doce/(fig.) agradável; encantador; adorável
+甜不辣 | TRADUÇÃO: tempura de peixe frito popular em Taiwan (empréstimo do japonês "tempura")
+甜味 | TRADUÇÃO: doçura
+甜味剂 | TRADUÇÃO: adoçante (aditivo alimentar)
+甜品 | TRADUÇÃO: sobremesa
+甜妹 | TRADUÇÃO: (coloq.) garota com uma aparência doce e meiga
+甜得发腻 | TRADUÇÃO: piegas/empolgado/açucarado
+甜心 | TRADUÇÃO: encantado em agradar/querido(a)
+甜橙 | TRADUÇÃO: laranja-doce (Citrus sinensis)
+甜津津 | TRADUÇÃO: doce e delicioso
+甜润 | TRADUÇÃO: doce e suave/fresco e úmido (ar)
+甜瓜 | TRADUÇÃO: melão
+甜甜圈 | TRADUÇÃO: rosquinha
+甜睡 | TRADUÇÃO: dormir profundamente
+甜稚 | TRADUÇÃO: doce e inocente
+甜筒 | TRADUÇÃO: casquinha de sorvete
+甜美 | TRADUÇÃO: doce/agradável/feliz
+甜腻 | TRADUÇÃO: doce e gorduroso/(fig.) excessivamente sentimental
+甜菊 | TRADUÇÃO: estévia, gênero sul-americano de girassóis/estévia (Stevia rebaudiana), arbusto cujas folhas produzem substituto do açúcar
+甜菊糖 | TRADUÇÃO: esteviosídeo
+甜菊糖苷 | TRADUÇÃO: esteviosídeo
+甜菊苷 | TRADUÇÃO: esteviosídeo
+甜菜 | TRADUÇÃO: beterraba (açucareira)/(EUA) beterraba; (RU) beterraba
+甜蜜 | TRADUÇÃO: doce/feliz
+甜蜜素 | TRADUÇÃO: ciclamato de sódio
+甜蜜蜜 | TRADUÇÃO: muito doce
+甜言 | TRADUÇÃO: palavras doces/discursos bonitos
+甜言美语 | TRADUÇÃO: vide 甜言蜜語|甜言蜜语
+甜言蜜语 | TRADUÇÃO: (expressão idiomática) palavras doces/lisonjas/engodo
+甜豆 | TRADUÇÃO: ervilha-torta
+甜酒 | TRADUÇÃO: licor doce
+甜酒酿 | TRADUÇÃO: arroz fermentado
+甜酸 | TRADUÇÃO: agridoce
+甜酸肉 | TRADUÇÃO: carne de porco agridoce
+甜头 | TRADUÇÃO: gosto doce (de poder, sucesso etc); benefício
+甜食 | TRADUÇÃO: sobremesa/doce
+甜高粱 | TRADUÇÃO: sorgo doce
+甜点 | TRADUÇÃO: sobremesa
+甝 | TRADUÇÃO: tigre branco
+生 | TRADUÇÃO: crescer; dar à luz; produzir; nascer/surgir; ocorrer/acender (fogo)/viver; estar vivo/vida/cru; não cozido; não processado/desconhecido; estranho/(forma presa) estudante; pessoa engajada em uma área/(forma presa) papel masculino na ópera tradicional/(forma presa) vida; tempo de vida/(forma presa) meio de subsistência/(forma presa) muito; intensamente (como em 生疼)/(forma presa) de maneira forçada (como em 生拉硬拽)
+生下 | TRADUÇÃO: dar à luz
+生不逢时 | TRADUÇÃO: nascido na hora errada (expressão idiomática); azarado (especialmente para reclamar do próprio destino)/nascido sob uma estrela de azar/à frente de seu tempo
+生事 | TRADUÇÃO: causar problemas
+生人 | TRADUÇÃO: estranho/pessoa viva/dar à luz/nascer (em certa época ou lugar)
+生来 | TRADUÇÃO: desde o nascimento/por natureza
+生僻 | TRADUÇÃO: incomum/raramente visto
+生光 | TRADUÇÃO: emitir luz
+生儿育女 | TRADUÇÃO: ter e criar filhos
+生冷 | TRADUÇÃO: (de comida) cru ou frio
+生冷字 | TRADUÇÃO: caractere obscuro ou arcaico
+生出 | TRADUÇÃO: dar à luz/crescer (barba etc)/gerar/produzir
+生分 | TRADUÇÃO: afastado
+生前 | TRADUÇÃO: (de um falecido) durante sua vida/enquanto vivo
+生前预嘱 | TRADUÇÃO: testamento vital
+生力军 | TRADUÇÃO: tropas frescas/(fig.) força vital/novo impulso
+生力面 | TRADUÇÃO: macarrão instantâneo (antigo)
+生动 | TRADUÇÃO: (de descrições, escrita etc) vívido; animado
+生化 | TRADUÇÃO: bioquímica
+生化学 | TRADUÇÃO: bioquímica
+生化武器 | TRADUÇÃO: arma biológica
+生化需氧量 | TRADUÇÃO: (ciência ambiental) demanda bioquímica de oxigênio; DBO
+生卒年 | TRADUÇÃO: datas de nascimento e morte (de figura histórica)
+生卒年月 | TRADUÇÃO: datas de nascimento e morte (de figura histórica)
+生厌 | TRADUÇÃO: causar nojo/encher/farto/cansativo/empalhador/entediante/irritante
+生吃 | TRADUÇÃO: comer cru
+生吞活剥 | TRADUÇÃO: engolir inteiro (expressão idiomática); fig. aplicar sem critério
+生命 | TRADUÇÃO: vida (como característica dos seres vivos)/ser vivo; criatura (CL:條|条)
+生命不息，战斗不止 | TRADUÇÃO: enquanto há vida, a luta continua (expressão idiomática); lutar até o fim
+生命力 | TRADUÇÃO: vitalidade
+生命危险 | TRADUÇÃO: risco de vida
+生命吠陀 | TRADUÇÃO: vide 阿育吠陀
+生命在于运动 | TRADUÇÃO: vida está no movimento (ditado popular com muitas interpretações possíveis)/O esforço físico é vital para nossos corpos funcionarem (Aristóteles)./A vida deriva do exercício físico.
+生命多样性 | TRADUÇÃO: biodiversidade
+生命带 | TRADUÇÃO: (neologismo) (usado em campanhas de segurança viária) "cinto de segurança que salva vidas", ou seja, cinto de segurança/(astrobiologia) zona habitável circunstelar
+生命征象 | TRADUÇÃO: ver 生命體徵|生命体征
+生命科学 | TRADUÇÃO: ciências da vida
+生命线 | TRADUÇÃO: linha de vida
+生命迹象 | TRADUÇÃO: ver 生命體徵|生命体征
+生命周期 | TRADUÇÃO: ciclo de vida
+生命体征 | TRADUÇÃO: sinais vitais
+生员 | TRADUÇÃO: estudante que se preparava para os exames imperiais (antigamente)
+生啤 | TRADUÇÃO: cerveja de pressão/cerveja não pasteurizada
+生啤酒 | TRADUÇÃO: cerveja de pressão/cerveja não pasteurizada
+生土 | TRADUÇÃO: (agronomia) solo imaturo/solo virgem
+生境 | TRADUÇÃO: habitat
+生奶油 | TRADUÇÃO: creme/chantilly
+生子 | TRADUÇÃO: dar à luz um filho ou filhos
+生字 | TRADUÇÃO: caractere novo (em livro didático)/caractere desconhecido ou ainda não estudado
+生存 | TRADUÇÃO: existir/sobreviver
+生存环境 | TRADUÇÃO: habitat; ambiente de vida
+生存农业 | TRADUÇÃO: agricultura de subsistência
+生孩子 | TRADUÇÃO: dar à luz um bebê
+生就 | TRADUÇÃO: nascer com/ser dotado de
+生平 | TRADUÇÃO: vida (a vida inteira de uma pessoa)/em toda a vida
+生平事迹 | TRADUÇÃO: realizações de toda uma vida
+生平简介 | TRADUÇÃO: esboço biográfico
+生怕 | TRADUÇÃO: temer/ter medo/extremamente nervoso/com medo de/para evitar/para não
+生性 | TRADUÇÃO: disposição natural
+生息 | TRADUÇÃO: habitar/viver (num habitat)
+生闷气 | TRADUÇÃO: ferver de raiva/amuar/estar puto (vulgar)
+生意 | TRADUÇÃO: força vital/vitalidade ‖ negócio/CL:筆|笔
+生意盎然 | TRADUÇÃO: ver 生機盎然|生机盎然
+生意经 | TRADUÇÃO: jeito de fazer negócios/tino comercial
+生意兴隆 | TRADUÇÃO: negócio ou comércio próspero e florescente
+生态 | TRADUÇÃO: ecologia (estudo das interações entre organismos e seu ambiente)/estado ecológico (condição ou saúde de um ambiente natural)/(fig.) ecossistema (rede complexa, ex.: em tecnologia, negócios ou mídia, como em 數字生態|数字生态 "ecossistema digital")
+生态位 | TRADUÇÃO: nicho ecológico/(fig.) nicho dentro de um ecossistema (especialmente em negócios ou tecnologia)
+生态友好型 | TRADUÇÃO: ecologicamente correto
+生态圈 | TRADUÇÃO: ecosfera
+生态城市 | TRADUÇÃO: cidade sustentável
+生态孤岛 | TRADUÇÃO: insularização (como ameaça à biodiversidade)
+生态学 | TRADUÇÃO: ecologia
+生态学家 | TRADUÇÃO: ecologista
+生态旅游 | TRADUÇÃO: ecoturismo
+生态环境 | TRADUÇÃO: ecossistema/ambiente natural
+生态环境游 | TRADUÇÃO: ecoturismo
+生态系 | TRADUÇÃO: (Taiwan) ecossistema
+生态系统 | TRADUÇÃO: ecossistema
+生态足迹 | TRADUÇÃO: pegada ecológica
+生成 | TRADUÇÃO: gerar; produzir; formar; ser formado; surgir/nascer com; ser abençoado com
+生成树 | TRADUÇÃO: árvore geradora (em teoria dos grafos)
+生手 | TRADUÇÃO: novato/principiante/alguém novo num trabalho
+生技 | TRADUÇÃO: biotecnologia/abrev. de 生物技術|生物技术/(Taiwan) abrev. de 生物科技
+生技医药 | TRADUÇÃO: biofármaco/medicamento produzido por biotecnologia
+生抽 | TRADUÇÃO: molho de soja claro
+生拉活扯 | TRADUÇÃO: ver 生拉硬拽
+生拉硬拽 | TRADUÇÃO: arrastar alguém contra sua vontade/fazer uma analogia forçada
+生擒 | TRADUÇÃO: capturar vivo
+生效 | TRADUÇÃO: (de uma lei, contrato, acordo, proibição etc) entrar em vigor; entrar em efeito; tornar-se operacional
+生教 | TRADUÇÃO: (Taiwan) grupo de conduta estudantil e orientação de vida (unidade dentro do escritório de assuntos estudantis 學務處|学务处) (abrev. de 生活教育組|生活教育组)
+生于忧患，死于安乐 | TRADUÇÃO: prosperar na adversidade e perecer na moleza (expressão idiomática)/a vida brota da tristeza e da calamidade, a morte vem do conforto e do prazer
+生日 | TRADUÇÃO: aniversário/CL:個|个
+生日卡 | TRADUÇÃO: cartão de aniversário
+生日快乐 | TRADUÇÃO: Feliz aniversário
+生日贺卡 | TRADUÇÃO: cartão de aniversário
+生有权 | TRADUÇÃO: direito de primogenitura
+生根 | TRADUÇÃO: enraizar-se
+生荣死哀 | TRADUÇÃO: ser respeitado em vida e lamentado na morte (expressão idiomática)
+生机 | TRADUÇÃO: oportunidade de viver; esperança de sucesso/vigor; vitalidade
+生机勃勃 | TRADUÇÃO: (expressão idiomática) vibrante; cheio de vitalidade
+生机盎然 | TRADUÇÃO: cheio de vida/exuberante
+生死 | TRADUÇÃO: vida ou morte
+生死存亡 | TRADUÇÃO: questão de vida ou morte
+生死搭档 | TRADUÇÃO: parceiro inseparável
+生死攸关 | TRADUÇÃO: questão de vida ou morte
+生死有命 | TRADUÇÃO: a vida e a morte são governadas pelo destino (expressão idiomática)
+生死肉骨 | TRADUÇÃO: lit. os mortos voltando à vida/um milagre (expressão idiomática)
+生死关头 | TRADUÇÃO: o momento crítico/crise de vida ou morte
+生殖 | TRADUÇÃO: reproduzir-se/prosperar
+生殖力 | TRADUÇÃO: fertilidade
+生殖器 | TRADUÇÃO: órgão reprodutor/genitália
+生殖器官 | TRADUÇÃO: órgão reprodutor
+生殖系统 | TRADUÇÃO: sistema reprodutor
+生殖细胞 | TRADUÇÃO: célula germinativa; célula reprodutora
+生殖腺 | TRADUÇÃO: gônada; glândula reprodutora
+生殖轮 | TRADUÇÃO: svadhisthana, o chakra do umbigo ou da libido, situado na genitália
+生殖隔离 | TRADUÇÃO: (biologia) isolamento reprodutivo
+生杀予夺 | TRADUÇÃO: (lit.) poupar ou matar, dar ou tirar (expressão idiomática)/(fig.) controle sobre o destino dos outros
+生杀大权 | TRADUÇÃO: poder de vida e morte/poder absoluto
+生母 | TRADUÇÃO: mãe biológica
+生气 | TRADUÇÃO: ficar com raiva; ficar furioso/vitalidade; vivacidade
+生气勃勃 | TRADUÇÃO: (expressão idiomática) vibrante; cheio de vitalidade
+生气盎然 | TRADUÇÃO: ver 生機盎然|生机盎然
+生气蓬勃 | TRADUÇÃO: vibrante; cheio de vitalidade
+生水 | TRADUÇÃO: água não fervida
+生津 | TRADUÇÃO: (MTC) promover a secreção de saliva
+生活 | TRADUÇÃO: viver/vida/sustento
+生活作风 | TRADUÇÃO: comportamento/conduta
+生活垃圾 | TRADUÇÃO: lixo doméstico
+生活必需品 | TRADUÇÃO: necessidades básicas da vida
+生活教育 | TRADUÇÃO: (Taiwan) educação para habilidades de vida; educação nos aspectos práticos, emocionais, sociais e morais da vida diária
+生活方式 | TRADUÇÃO: modo de vida/estilo de vida
+生活水平 | TRADUÇÃO: padrão de vida
+生活污水 | TRADUÇÃO: esgoto doméstico
+生活美学 | TRADUÇÃO: apreciação das coisas boas da vida
+生活设施 | TRADUÇÃO: instalações de moradia
+生活费 | TRADUÇÃO: custo de vida/despesas de manutenção/pensão alimentícia
+生活资料 | TRADUÇÃO: bens de consumo/meios de subsistência/documentos relativos à vida de alguém
+生活馆 | TRADUÇÃO: museu vivo
+生涯 | TRADUÇÃO: carreira/vida (modo como alguém vive)/período da vida de alguém
+生源 | TRADUÇÃO: oferta de alunos/fonte de alunos
+生灭 | TRADUÇÃO: vida e morte
+生漆 | TRADUÇÃO: laca crua
+生涩 | TRADUÇÃO: verde/azedo/não totalmente proficiente/um pouco instável
+生火 | TRADUÇÃO: acender fogo/fazer fogo
+生炒热卖 | TRADUÇÃO: (expressão idiomática) vender enquanto está quente; fig. com grande pressa para publicar ou vender (e sem tempo para melhorar o produto)
+生无可恋 | TRADUÇÃO: (gíria da internet) nada pelo que viver
+生煎 | TRADUÇÃO: shengjian, um pão frito na frigideira recheado com carne e caldo, especialidade de Xangai
+生煎包 | TRADUÇÃO: bolinho frito na frigideira
+生热 | TRADUÇÃO: gerar calor
+生父 | TRADUÇÃO: pai biológico
+生父母 | TRADUÇÃO: pais biológicos/pais naturais
+生物 | TRADUÇÃO: organismo/ser vivo/forma de vida/biológico/CL:個|个
+生物传感器 | TRADUÇÃO: biossensor
+生物分析法 | TRADUÇÃO: método bioanalítico
+生物剂量仪 | TRADUÇÃO: dosímetro biológico
+生物力学 | TRADUÇÃO: biomecânica
+生物化学 | TRADUÇÃO: bioquímica
+生物化学家 | TRADUÇÃO: bioquímico
+生物反应器 | TRADUÇÃO: biorreator
+生物圈 | TRADUÇÃO: biosfera
+生物多元化 | TRADUÇÃO: biodiversidade
+生物多样性 | TRADUÇÃO: biodiversidade
+生物大灭绝 | TRADUÇÃO: grande extinção de espécies
+生物媒介 | TRADUÇÃO: vetor biológico
+生物学 | TRADUÇÃO: biologia
+生物学家 | TRADUÇÃO: biólogo
+生物专一性 | TRADUÇÃO: bioespecificidade
+生物工程 | TRADUÇÃO: bioengenharia/engenharia genética
+生物工程学 | TRADUÇÃO: biotecnologia
+生物弹药 | TRADUÇÃO: munição biológica
+生物性 | TRADUÇÃO: biológico
+生物恐怖主义 | TRADUÇÃO: bioterrorismo
+生物战 | TRADUÇÃO: guerra de germes/guerra biológica
+生物战剂 | TRADUÇÃO: agente biológico/agente de guerra biológica
+生物技术 | TRADUÇÃO: biotecnologia/abreviado para 生技
+生物晶片 | TRADUÇÃO: biochip
+生物材料 | TRADUÇÃO: biomateriais
+生物柴油 | TRADUÇÃO: biodiesel
+生物武器 | TRADUÇÃO: arma biológica
+生物气体 | TRADUÇÃO: biogás
+生物活化性 | TRADUÇÃO: bioatividade
+生物测定 | TRADUÇÃO: bioensaio
+生物燃料 | TRADUÇÃO: biocombustível
+生物界 | TRADUÇÃO: (biologia) o mundo biológico/reino dos organismos vivos
+生物科技 | TRADUÇÃO: biotecnologia
+生物群 | TRADUÇÃO: biota
+生物能 | TRADUÇÃO: bioenergia
+生物制剂 | TRADUÇÃO: produto biológico
+生物制品 | TRADUÇÃO: produto biológico
+生物质 | TRADUÇÃO: biomassa
+生物质能 | TRADUÇÃO: biomassa
+生物医学工程 | TRADUÇÃO: engenharia biomédica
+生物量 | TRADUÇÃO: biomassa
+生物链 | TRADUÇÃO: cadeia alimentar
+生物钟 | TRADUÇÃO: relógio biológico
+生物降解 | TRADUÇÃO: biodegradação
+生物体 | TRADUÇÃO: organismo
+生物高分子 | TRADUÇÃO: biopolímeros
+生物碱 | TRADUÇÃO: alcaloide
+生猛 | TRADUÇÃO: cheio de vida/violento/valente/fresco (de frutos do mar)
+生理 | TRADUÇÃO: fisiologia
+生理假 | TRADUÇÃO: licença menstrual (Taiwan)
+生理学 | TRADUÇÃO: fisiologia
+生理学家 | TRADUÇÃO: fisiologista
+生理性 | TRADUÇÃO: fisiológico
+生理期 | TRADUÇÃO: período menstrual
+生理盐水 | TRADUÇÃO: soro fisiológico (medicina)
+生生不息 | TRADUÇÃO: crescer e se multiplicar sem fim
+生产 | TRADUÇÃO: produzir/fabricar/dar à luz um filho
+生产企业 | TRADUÇÃO: fabricante
+生产力 | TRADUÇÃO: capacidade de produção/força produtiva/produtividade
+生产劳动 | TRADUÇÃO: trabalho produtivo
+生产反应堆 | TRADUÇÃO: reator de produção
+生产单位 | TRADUÇÃO: unidade de produção
+生产成本 | TRADUÇÃO: custos de produção
+生产率 | TRADUÇÃO: produtividade/eficiência de produção
+生产线 | TRADUÇÃO: linha de montagem/linha de produção
+生产总值 | TRADUÇÃO: produto interno bruto (PIB)/valor total da produção
+生产者 | TRADUÇÃO: produtor (de bens, mercadorias ou produtos agrícolas etc)/fabricante/(biologia) autótrofo
+生产能力 | TRADUÇÃO: capacidade de fabricação/capacidade de produção
+生产设施 | TRADUÇÃO: instalação de produção
+生产资料 | TRADUÇÃO: meios de produção
+生产关系 | TRADUÇÃO: relações entre níveis de produção/relações socioeconômicas
+生产队 | TRADUÇÃO: equipe de produção
+生畏 | TRADUÇÃO: sentir-se intimidado
+生番 | TRADUÇÃO: bárbaro/selvagem aborígene
+生疏 | TRADUÇÃO: desconhecido/estranho/enferrujado/não acostumado
+生疑 | TRADUÇÃO: começar a ter dúvidas/ficar desconfiado
+生疼 | TRADUÇÃO: (coloq.) muito dolorido
+生病 | TRADUÇÃO: adoecer
+生发 | TRADUÇÃO: surgir e crescer/desenvolver-se
+生皮 | TRADUÇÃO: pele crua/couro cru
+生石灰 | TRADUÇÃO: óxido de cálcio CaO/cal virgem
+生石膏 | TRADUÇÃO: gipsita CaSO4·2(H2O)/gesso
+生硬 | TRADUÇÃO: rígido/difícil/falta de naturalidade ou fluidez/forçado/desajeitado
+生祠 | TRADUÇÃO: templo dedicado a alguém ainda vivo
+生管 | TRADUÇÃO: controle de produção/gestão de produção (abrev. de 生產管理|生产管理)
+生米 | TRADUÇÃO: arroz grosso/arroz cru
+生米做成熟饭 | TRADUÇÃO: (expressão idiomática) lit. o arroz cru agora está cozido; fig. está feito e não pode ser mudado/é tarde demais para mudar algo agora/também escrito como 生米煮成熟飯|生米煮成熟饭
+生米煮成熟饭 | TRADUÇÃO: o arroz está cozido/o que está feito, está feito/é tarde demais para mudar algo agora (expressão idiomática)
+生米熟饭 | TRADUÇÃO: abrev. de 生米煮成熟飯|生米煮成熟饭, lit. o arroz cru agora está cozido (expressão idiomática); fig. está feito e não pode ser mudado/é tarde demais para mudar algo agora
+生粉 | TRADUÇÃO: amido de milho/polvilho (culinária)
+生粉水 | TRADUÇÃO: solução de amido (culinária)
+生丝 | TRADUÇÃO: seda crua
+生老病死 | TRADUÇÃO: (lit.) nascer, envelhecer, adoecer e morrer (expressão idiomática)/(fig.) o destino da humanidade (isto é, a mortalidade)
+生聚教训 | TRADUÇÃO: aumentar a população, acumular riquezas e ensinar o povo a ser fiel à causa (em preparação para a guerra, após uma derrota)
+生肉 | TRADUÇÃO: carne crua
+生肖 | TRADUÇÃO: um dos doze animais simbólicos dos ramos terrestres 地支/animal do zodíaco chinês
+生肖属相 | TRADUÇÃO: ano de nascimento designado por símbolos animais (rato, boi, tigre etc.)
+生育 | TRADUÇÃO: dar à luz/parir/fertilidade
+生育率 | TRADUÇÃO: taxa de natalidade
+生育能力 | TRADUÇÃO: fertilidade/capacidade de ter filhos
+生花妙笔 | TRADUÇÃO: escrita bela ou talentosa
+生苔 | TRADUÇÃO: musgoso
+生菜 | TRADUÇÃO: alface/vegetais crus frescos/verduras
+生姜 | TRADUÇÃO: gengibre fresco
+生姜丝 | TRADUÇÃO: gengibre em tiras ralado
+生药 | TRADUÇÃO: erva medicinal não processada
+生虫 | TRADUÇÃO: (de comida, livros etc.) infestar-se de insetos
+生蚝 | TRADUÇÃO: ostra crua
+生计 | TRADUÇÃO: meio de vida/sustento
+生词 | TRADUÇÃO: palavra nova (em livro-texto)/palavra que não é familiar ou ainda não foi estudada/CL:組|组,個|个
+生词本 | TRADUÇÃO: caderno de vocabulário
+生词语 | TRADUÇÃO: palavras de vocabulário (em livros de aprendizado de idiomas)/palavras novas ou desconhecidas
+生猪 | TRADUÇÃO: porco vivo/porco em pé
+生财 | TRADUÇÃO: ganhar dinheiro
+生财有道 | TRADUÇÃO: (expressão idiomática) lit. há princípios por trás de ganhar dinheiro; fig. ter talento para bons negócios/saber acumular riqueza/bom em enriquecer à própria custa
+生路 | TRADUÇÃO: um meio de ganhar a vida/um modo de sobreviver/uma saída de uma situação difícil
+生辉 | TRADUÇÃO: deslumbrar/iluminar (um quarto etc.)
+生辰 | TRADUÇÃO: aniversário
+生辰八字 | TRADUÇÃO: dados astrológicos de nascimento de alguém, combinados a partir de ano, mês, dia, hora, tronco celeste e ramo terrestre
+生造 | TRADUÇÃO: cunhar (palavras ou expressões)
+生还 | TRADUÇÃO: voltar vivo/sobreviver
+生还者 | TRADUÇÃO: sobrevivente
+生酮饮食 | TRADUÇÃO: dieta cetogênica
+生锈 | TRADUÇÃO: (de metal) enferrujar/ficar enferrujado/(fig.) (de uma habilidade etc.) enferrujar/deteriorar-se
+生铁 | TRADUÇÃO: ferro-gusa
+生长 | TRADUÇÃO: crescer/criar-se/ser criado
+生长激素 | TRADUÇÃO: hormônio do crescimento
+生长率 | TRADUÇÃO: taxa de crescimento
+生长素 | TRADUÇÃO: auxina (hormônio de crescimento vegetal)
+生离死别 | TRADUÇÃO: separados em vida e na morte/separar-se para sempre
+生灵 | TRADUÇÃO: (literário) o povo/ser vivo/criatura
+生灵涂炭 | TRADUÇÃO: o povo está em uma situação terrível (expressão idiomática)
+生愿 | TRADUÇÃO: desejo de existir (no budismo, tanhā)/anseio por renascimento
+生养 | TRADUÇÃO: criar (filhos)/educar/parir
+生发剂 | TRADUÇÃO: restaurador capilar/tônico capilar
+生鱼片 | TRADUÇÃO: sashimi
+生鲜 | TRADUÇÃO: produtos frescos e alimentos preparados na hora
+生面团 | TRADUÇÃO: massa (de pão)
+生龙活虎 | TRADUÇÃO: (expressão idiomática) lit. dragão vivo e tigre animado; fig. vigoroso e cheio de vida
+甡 | TRADUÇÃO: multidão/multidão
+产 | TRADUÇÃO: dar à luz/reproduzir/produzir/produto/recursos/patrimônio/propriedade ‖ variante de 產|产
+产下 | TRADUÇÃO: dar à luz (parir)
+产仔 | TRADUÇÃO: dar à luz (animais)/pari uma ninhada
+产值 | TRADUÇÃO: valor da produção/valor do produto
+产假 | TRADUÇÃO: licença-maternidade
+产儿 | TRADUÇÃO: recém-nascido/fig. objeto totalmente novo
+产出 | TRADUÇÃO: produzir (formandos, leite materno, resíduos tóxicos, ideias criativas etc.)/produção
+产前 | TRADUÇÃO: pré-natal
+产前检查 | TRADUÇÃO: exame pré-natal
+产区 | TRADUÇÃO: local de produção/local de fabricação
+产卵 | TRADUÇÃO: botar ovos
+产品 | TRADUÇÃO: mercadorias/mercadoria/produto/CL:個|个
+产品结构 | TRADUÇÃO: (em estratégia de negócios) mix de produtos; portfólio de produtos; composição das linhas ou ofertas de produtos de uma empresa
+产品经理 | TRADUÇÃO: gerente de produto
+产地 | TRADUÇÃO: fonte (de um produto)/local de origem/local de fabricação
+产地证 | TRADUÇÃO: certificado de origem (comércio)
+产女 | TRADUÇÃO: dar à luz uma menina
+产婆 | TRADUÇÃO: parteira
+产妇 | TRADUÇÃO: mulher em recuperação após o parto/mulher em trabalho de parto
+产子 | TRADUÇÃO: dar à luz
+产后 | TRADUÇÃO: pós-parto
+产后抑郁 | TRADUÇÃO: depressão pós-parto
+产后抑郁症 | TRADUÇÃO: depressão pós-parto
+产房 | TRADUÇÃO: sala de parto (em hospital)/enfermaria de parto
+产期 | TRADUÇÃO: época do parto/período de trabalho de parto/resguardo
+产业 | TRADUÇÃO: indústria/patrimônio/propriedade/industrial
+产业化 | TRADUÇÃO: industrializar/industrialização
+产业工人 | TRADUÇÃO: trabalhador industrial
+产业链 | TRADUÇÃO: cadeia de valor da indústria
+产业集群 | TRADUÇÃO: aglomerado industrial
+产检 | TRADUÇÃO: exame pré-natal (abrev. de 產前檢查|产前检查)
+产权 | TRADUÇÃO: direito de propriedade
+产权转让 | TRADUÇÃO: transferência de direitos de propriedade; transferência de título (imobiliário)
+产油国 | TRADUÇÃO: países produtores de petróleo
+产物 | TRADUÇÃO: produto/resultado (de)
+产生 | TRADUÇÃO: surgir/vir a ser/criar/produzir/gerar
+产科 | TRADUÇÃO: departamento de maternidade/enfermaria de maternidade/obstetrícia
+产程 | TRADUÇÃO: processo do parto
+产粮 | TRADUÇÃO: cultivar colheitas/cultivo de alimentos
+产粮区 | TRADUÇÃO: área de cultivo de alimentos
+产粮大省 | TRADUÇÃO: grande província agrícola
+产经新闻 | TRADUÇÃO: Notícias Empresariais/Sankei Shimbun (diário de Tóquio)
+产线 | TRADUÇÃO: linha de produção
+产能 | TRADUÇÃO: capacidade produtiva
+产制 | TRADUÇÃO: produção/fabricação
+产褥期 | TRADUÇÃO: período pós-parto/puerpério (período de seis semanas após o parto)
+产褥热 | TRADUÇÃO: febre puerperal/febre pós-parto
+产道 | TRADUÇÃO: canal do parto (em obstetrícia)
+产量 | TRADUÇÃO: produção/rendimento
+产钳 | TRADUÇÃO: fórceps obstétrico
+产销 | TRADUÇÃO: produção e vendas/produção e comercialização
+产院 | TRADUÇÃO: maternidade
+产露 | TRADUÇÃO: (Taiwan) (medicina) lóquios
+甥 | TRADUÇÃO: (forma ligada) filho da irmã; sobrinho
+甥女 | TRADUÇÃO: filha da irmã; sobrinha
+苏醒 | TRADUÇÃO: voltar a si/recobrar a consciência/despertar
+用 | TRADUÇÃO: usar/utilizar/empregar/(preposição) com; usando/precisar; ter que (geralmente usado em negativas ou perguntas)/utilidade; serventia/(forma ligada) despesa; gasto/(cortês) comer; beber/(literário) portanto; por conseguinte
+用不了 | TRADUÇÃO: não usar todo/usar menos que
+用不着 | TRADUÇÃO: não precisar/não ter serventia para
+用人 | TRADUÇÃO: criado/empregar alguém para um trabalho/gerenciar pessoas/estar precisando de funcionários
+用人经费 | TRADUÇÃO: gastos com pessoal (contabilidade)
+用以 | TRADUÇÃO: para/afim de/com o propósito de
+用作 | TRADUÇÃO: usar para o propósito de/servir como
+用来 | TRADUÇÃO: ser usado para
+用光 | TRADUÇÃO: sem (suprimento)/gasto/exaurido (esgotado)/esgotado
+用兵如神 | TRADUÇÃO: liderar operações militares com habilidade extraordinária
+用具 | TRADUÇÃO: utensílio/ferramenta/equipamento/aparelho
+用典 | TRADUÇÃO: usar citações literárias; usar frases extraídas dos clássicos
+用力 | TRADUÇÃO: esforçar-se fisicamente
+用功 | TRADUÇÃO: diligente/industrioso (nos estudos)/estudar muito/envidar grande esforço
+用命 | TRADUÇÃO: seguir ordens/acatar/obedecer
+用品 | TRADUÇÃO: artigos de uso/produtos/mercadorias
+用场 | TRADUÇÃO: uso;aplicação
+用坏 | TRADUÇÃO: desgastar (ferramentas)
+用字 | TRADUÇÃO: usar letras/usar palavras/dicção
+用完 | TRADUÇÃO: usado/gasto/acabado
+用家 | TRADUÇÃO: (Hong Kong) usuário
+用工 | TRADUÇÃO: empregar trabalhadores
+用度 | TRADUÇÃO: despesa
+用得上 | TRADUÇÃO: necessário/vir a ser útil
+用得其所 | TRADUÇÃO: usado corretamente/usado para o propósito pretendido/fazer bom uso de/cumprir seu propósito
+用得着 | TRADUÇÃO: poder usar; utilizável; ter serventia para/(em perguntas) ser necessário
+用心 | TRADUÇÃO: motivo/intenção/ser diligente ou atento/cuidadoso
+用心良苦 | TRADUÇÃO: ponderar com afinco/dedicar muita reflexão a algo
+用意 | TRADUÇÃO: intenção/propósito
+用户 | TRADUÇÃO: usuário/consumidor/assinante/cliente
+用户创造内容 | TRADUÇÃO: conteúdo gerado pelo usuário (de um site)
+用户名 | TRADUÇÃO: nome de usuário; ID de usuário
+用户界面 | TRADUÇÃO: interface do usuário
+用户端设备 | TRADUÇÃO: equipamento na casa do cliente/CPE
+用户线 | TRADUÇÃO: linha do assinante
+用料 | TRADUÇÃO: ingredientes/material
+用于 | TRADUÇÃO: usar em; usar sobre; usar para
+用武之地 | TRADUÇÃO: amplo espaço para habilidades/posição favorável para o uso das próprias habilidades (expressão idiomática)
+用法 | TRADUÇÃO: uso/maneira de usar
+用尽 | TRADUÇÃO: esgotar; consumir completamente
+用尽心机 | TRADUÇÃO: sobrecarregar a engenhosidade
+用脑 | TRADUÇÃO: realizar trabalho mental
+用膳 | TRADUÇÃO: jantar/receber-se
+用处 | TRADUÇÃO: utilidade/CL:個|个
+用计 | TRADUÇÃO: empregar um estratagema
+用词 | TRADUÇÃO: uso (de um termo)/redação/fraseado
+用语 | TRADUÇÃO: escolha de palavras/redação/fraseologia/termo
+用途 | TRADUÇÃO: uso;aplicação
+用量 | TRADUÇÃO: quantidade usada; uso; consumo; dose
+用钱 | TRADUÇÃO: gastar dinheiro ‖ variante de 佣錢|佣钱
+用间 | TRADUÇÃO: uso de espiões
+用项 | TRADUÇÃO: itens de despesa/despesas
+用饭 | TRADUÇÃO: comer/fazer uma refeição
+用餐 | TRADUÇÃO: fazer uma refeição
+甩 | TRADUÇÃO: atirar/jogar/balançar/deixar para trás/livrar-se de/descartar (alguém)
+甩上 | TRADUÇÃO: bater (uma porta)/jogar para cima; salpicar para cima
+甩干 | TRADUÇÃO: remover o excesso de umidade centrifugando; colocar (roupas) no ciclo de centrifugação; centrifugar
+甩动 | TRADUÇÃO: sacudir/balançar o braço/agitar/balançar
+甩包袱 | TRADUÇÃO: lit. livrar-se de um fardo/fig. abandonar a responsabilidade por algo/lavar as mãos do assunto
+甩尾 | TRADUÇÃO: drift (em automobilismo)
+甩手 | TRADUÇÃO: balançar os braços/lavar as mãos de algo
+甩手掌柜 | TRADUÇÃO: lit. lojista que balança os braços/fig. alguém que pede que outros trabalhem mas não faz nada
+甩手顿脚 | TRADUÇÃO: balançar os braços e bater os pés (com raiva ou desespero)
+甩掉 | TRADUÇÃO: livrar-se de/abandonar/largar/livrar-se de/descartar
+甩棍 | TRADUÇÃO: bastão expansível
+甩脸子 | TRADUÇÃO: fazer careta de desagrado/ficar de cara feia
+甩袖子 | TRADUÇÃO: balançar a manga (com raiva)
+甩卖 | TRADUÇÃO: marcar para baixo (o preço das mercadorias)/vender a preço baixo
+甩车 | TRADUÇÃO: desengatar (vagões de um trem)
+甩远 | TRADUÇÃO: lançar para longe de si/deixar alguém muito para trás/distanciar
+甩锅 | TRADUÇÃO: (neologismo c. 2017) transferir a culpa; passar a batata quente
+甩开 | TRADUÇÃO: sacudir/livrar-se de
+甩开膀子 | TRADUÇÃO: deixar de lado as inibições/dar tudo de si
+甩头 | TRADUÇÃO: jogar a cabeça para trás
+甪 | TRADUÇÃO: sobrenome Lu/nome de lugar
+甪端 | TRADUÇÃO: Luduan, besta mítica chinesa capaz de detectar a verdade
+甫 | TRADUÇÃO: (clássico) mal/apenas/agora mesmo
+甫一 | TRADUÇÃO: assim que/imediatamente após
+甬 | TRADUÇÃO: Rio Yong 甬江 em Ningbo 寧波|宁波/nome abreviado para Ningbo ‖ variante de 桶, balde/(classificador) medida cúbica a seco (5 potes 五斗, aprox. meio litro) ‖ caminho fechado por muros em ambos os lados
+甬江 | TRADUÇÃO: Rio Yong em Ningbo 寧波|宁波
+甬路 | TRADUÇÃO: caminho pavimentado
+甬道 | TRADUÇÃO: caminho murado/caminho pavimentado/passagem coberta/corredor/túnel
+甭 | TRADUÇÃO: forma contraída de 不用 ‖ (dialeto) muito
+甭管 | TRADUÇÃO: (coloq.) independentemente de; não importa (onde, quem etc)
+甮 | TRADUÇÃO: variante antiga de 甭/não precisa ‖ (dialeto) não precisa; por favor não (forma contraída de 勿用)
+田 | TRADUÇÃO: sobrenome Tian ‖ campo/fazenda/CL:片
+田七 | TRADUÇÃO: pseudo-ginseng / radix notoginseng
+田中 | TRADUÇÃO: Município de Tianzhong no Condado de Changhua 彰化縣|彰化县, Taiwan / Tanaka (sobrenome japonês)
+田中角荣 | TRADUÇÃO: Tanaka Kakuei (1918-1993), político japonês, primeiro-ministro 1972-1974
+田中镇 | TRADUÇÃO: Cidade de Tianzhong ou Tienchung no Condado de Changhua 彰化縣|彰化县, Taiwan
+田亮 | TRADUÇÃO: Tian Liang (1979-), ex-saltador ornamental chinês, medalhista olímpico
+田园 | TRADUÇÃO: campos / zona rural / rural / bucólico
+田土 | TRADUÇÃO: terra arável
+田地 | TRADUÇÃO: campo / terra cultivada / lavoura / situação / ponto a que se chegou
+田坎 | TRADUÇÃO: dique entre campos
+田埂 | TRADUÇÃO: dique entre campos
+田家庵 | TRADUÇÃO: ver 田家庵區|田家庵区
+田家庵区 | TRADUÇÃO: Tianjia'an, um distrito da Cidade de Huainan 淮南市, Anhui
+田尾 | TRADUÇÃO: Tianwei ou Tienwei, município no Condado de Changhua 彰化縣|彰化县, Taiwan
+田尾乡 | TRADUÇÃO: Município de Tianwei ou Tienwei no Condado de Changhua 彰化縣|彰化县, Taiwan
+田役 | TRADUÇÃO: trabalho agrícola
+田径 | TRADUÇÃO: atletismo (esporte)
+田径赛 | TRADUÇÃO: competição de atletismo
+田径运动 | TRADUÇÃO: esportes de atletismo
+田忌赛马 | TRADUÇÃO: Tian Ji corre com seus cavalos (e aceita uma derrota para garantir duas vitórias) (expressão idiomática)
+田文 | TRADUÇÃO: nome de nascimento de Lorde Mengchang de Qi, Chanceler de Qi e Wei durante o Período dos Reinos Combatentes (475-221 a.C.)
+田村 | TRADUÇÃO: Tamura (sobrenome e topônimo japonês)
+田东 | TRADUÇÃO: ver 田東縣|田东县
+田东县 | TRADUÇÃO: Tiandong, um condado na Cidade de Baise 百色市, Guangxi
+田林 | TRADUÇÃO: ver 田林縣|田林县
+田林县 | TRADUÇÃO: Tianlin, um condado na Cidade de Baise 百色市, Guangxi
+田格本 | TRADUÇÃO: caderno de caligrafia para praticar escrita de caracteres chineses (cada página é uma grade de células vazias divididas em quadrantes, como o caractere 田)
+田汉 | TRADUÇÃO: Tian Han (1898-1968), autor da letra do hino nacional da RPC Marcha dos Voluntários 義勇軍進行曲|义勇军进行曲
+田湾 | TRADUÇÃO: Tianwan em Lianyungang 連雲港|连云港, local de grande usina nuclear
+田猎 | TRADUÇÃO: caçar
+田产 | TRADUÇÃO: propriedade rural / terras
+田亩 | TRADUÇÃO: campo / lavoura
+田纳西 | TRADUÇÃO: Tennessee
+田纳西州 | TRADUÇÃO: Estado do Tennessee
+田舍 | TRADUÇÃO: casa de fazenda
+田螺 | TRADUÇÃO: caracol de rio
+田赋 | TRADUÇÃO: imposto territorial
+田赛 | TRADUÇÃO: provas de campo (competição de atletismo)
+田野 | TRADUÇÃO: campo / terra aberta / CL:片
+田野调查 | TRADUÇÃO: pesquisa de campo / trabalho de campo
+田长霖 | TRADUÇÃO: Chang-lin Tien (1935-2002), professor sino-americano e reitor da Universidade da Califórnia, Berkeley 1990-1997
+田间 | TRADUÇÃO: campo / lavoura / área agrícola / aldeia
+田间地头 | TRADUÇÃO: (expressão idiomática) fazendas e campos / o nível básico do trabalho agrícola
+田间管理 | TRADUÇÃO: manejo da terra
+田陌 | TRADUÇÃO: caminho entre campos / campos
+田阳 | TRADUÇÃO: ver 田陽區|田阳区
+田阳区 | TRADUÇÃO: Tianyang, um distrito da Cidade de Baise 百色市, Guangxi
+田鸡 | TRADUÇÃO: rã / a rã comestível chinesa (Hoplobatrachus rugulosus)
+田鹀 | TRADUÇÃO: (espécie de ave da China) escrevedeira-rústica (Emberiza rustica)
+田鸫 | TRADUÇÃO: (espécie de ave da China) tordo-zornal (Turdus pilaris)
+田鹨 | TRADUÇÃO: (espécie de ave da China) petinha-de-richard (Anthus richardi)
+田鼠 | TRADUÇÃO: arganaz / rato-do-campo
+由 | TRADUÇÃO: seguir / de / por causa de; devido a / por; via / através / (antes de um substantivo e um verbo) cabe a ... fazer ...
+由不得 | TRADUÇÃO: não poder evitar / estar além do controle de
+由来 | TRADUÇÃO: origem
+由俭入奢易，由奢入俭难 | TRADUÇÃO: (expressão idiomática) é fácil passar da frugalidade à extravagância; o contrário não é tão fácil
+由径 | TRADUÇÃO: seguir um caminho estreito
+由怜生爱 | TRADUÇÃO: desenvolver amor por alguém por pena
+由于 | TRADUÇÃO: devido a / como resultado de / graças a / por causa de / já que / porque
+由旬 | TRADUÇÃO: yojana (medida védica, cerca de 8 milhas)
+由此 | TRADUÇÃO: por este meio / a partir disso
+由此可见 | TRADUÇÃO: a partir disso, pode-se ver que...
+由此看来 | TRADUÇÃO: portanto / julgando por isso
+由盛转衰 | TRADUÇÃO: da prosperidade ao declínio / no auge antes do declínio
+由着 | TRADUÇÃO: deixar (alguém) fazer o que quer / como (alguém) deseja / à vontade de (alguém)
+由表及里 | TRADUÇÃO: proceder do exterior para o interior / ver a essência apenas olhando a aparência superficial
+由衷 | TRADUÇÃO: sincero / cordial / não fingido
+由头 | TRADUÇÃO: pretexto / desculpa / justificativa / razão
+甲 | TRADUÇÃO: primeiro dos Dez Troncos Celestes 十天干 / (usado para uma pessoa ou coisa não especificada) / primeiro (numa lista, como parte de um contrato etc.) / letra "A" ou romano "I" na lista "A, B, C" ou "I, II, III" etc. / blindagem / concha ou carapaça / (dos dedos da mão ou pé) unha / armadura de lâminas de couro ou metal (antigo) / sistema de classificação usado nos exames imperiais (antigo) / unidade de administração civil no sistema baojia 保甲 (antigo) / ponto da bússola chinesa antiga: 75°
+甲之蜜糖，乙之砒霜 | TRADUÇÃO: o que é mel para um é veneno para outro (expressão idiomática)
+甲乙 | TRADUÇÃO: primeiros dois dos Dez Troncos Celestes 十天干
+甲二醇 | TRADUÇÃO: metilenoglicol
+甲亢 | TRADUÇÃO: hipertireoidismo / abrev. de 甲狀腺功能亢進|甲状腺功能亢进
+甲冑 | TRADUÇÃO: variante de 甲胄
+甲午 | TRADUÇÃO: trigésimo primeiro ano A7 do ciclo de 60 anos, e.g. 1954 ou 2014
+甲午战争 | TRADUÇÃO: Primeira Guerra Sino-Japonesa (1894-95)
+甲型 | TRADUÇÃO: tipo A / tipo I / alfa-
+甲型球蛋白 | TRADUÇÃO: alfa-globulina / alfa-fetoproteína (AFP)
+甲型肝炎 | TRADUÇÃO: hepatite A
+甲基 | TRADUÇÃO: grupo metila (química)
+甲基安非他命 | TRADUÇÃO: metanfetamina
+甲基苯丙胺 | TRADUÇÃO: metanfetamina
+甲子 | TRADUÇÃO: primeiro ano do ciclo de sessenta anos (onde cada ano é numerado com um dos 10 troncos celestes 天干 e um dos 12 ramos terrestres 地支) / o ciclo de sessenta anos
+甲寅 | TRADUÇÃO: 51º ano A3 do ciclo de 60 anos, e.g. 1974 ou 2034
+甲戌 | TRADUÇÃO: décimo primeiro ano A11 do ciclo de 60 anos, e.g. 1994 ou 2054
+甲方 | TRADUÇÃO: parte A (num contrato) (cf. 乙方, parte B)
+甲板 | TRADUÇÃO: convés (de um navio ou barco)
+甲壳 | TRADUÇÃO: carapaça / crosta / casca externa / também pron. [jia3 ke2]
+甲壳动物 | TRADUÇÃO: crustáceo
+甲壳素 | TRADUÇÃO: quitina
+甲壳虫 | TRADUÇÃO: Os Beatles (grupo pop do Reino Unido dos anos 1960) ‖ besouro
+甲壳虫类 | TRADUÇÃO: insetos da ordem Coleoptera (i.e., besouros)
+甲壳类 | TRADUÇÃO: crustáceo
+甲氧基 | TRADUÇÃO: metoxi (química)
+甲氧西林 | TRADUÇÃO: meticilina (uma penicilina semissintética) (estrangeirismo)
+甲氨基 | TRADUÇÃO: grupo metilamino
+甲氰菊酯 | TRADUÇÃO: fenpropatrina (inseticida)
+甲流 | TRADUÇÃO: gripe tipo A (abrev. de 甲型流感) / (no contexto da pandemia de 2009) gripe H1N1
+甲沟炎 | TRADUÇÃO: paroníquia (medicina)
+甲烷 | TRADUÇÃO: metano CH4
+甲状旁腺 | TRADUÇÃO: (anatomia) glândula paratireoide
+甲状腺 | TRADUÇÃO: (anatomia) glândula tireoide
+甲状腺功能亢进 | TRADUÇÃO: hipertireoidismo/abr. para 甲亢
+甲状腺素 | TRADUÇÃO: hormônio tireoidiano/tiroxina (usada no tratamento de hipotireoidismo)
+甲状腺肿 | TRADUÇÃO: bócio (aumento da glândula tireoide)
+甲状软骨 | TRADUÇÃO: (anatomia) cartilagem tireoide
+甲申 | TRADUÇÃO: 21º ano A9 do ciclo sexagenário, e.g. 2004 ou 2064
+甲申政变 | TRADUÇÃO: golpe palaciano malsucedido e sangrento em 1884 na Coreia, por ocidentalizantes contra conservadores, reprimido por tropas Qing
+甲硝唑 | TRADUÇÃO: metronidazol (agente antibacteriano)/Flagyl (nome comercial)
+甲硫氨酸 | TRADUÇÃO: metionina (Met), um aminoácido essencial
+甲磺磷定 | TRADUÇÃO: pralidoxima mesilato
+甲第 | TRADUÇÃO: residência de um nobre/primeiro colocado nos exames imperiais
+甲等 | TRADUÇÃO: nota A/de primeira classe
+甲级 | TRADUÇÃO: primeira categoria/classe superior/excelente
+甲级战犯 | TRADUÇÃO: criminoso de guerra classe A
+甲紫 | TRADUÇÃO: violeta genciana
+甲肝 | TRADUÇÃO: hepatite A
+甲胄 | TRADUÇÃO: armadura
+甲胺 | TRADUÇÃO: (química) metilamina
+甲胺磷 | TRADUÇÃO: metamidofós (química)
+甲苯 | TRADUÇÃO: tolueno C6H5CH3/metilbenzeno
+甲虫 | TRADUÇÃO: besouro
+甲虫车 | TRADUÇÃO: Fusca (Volkswagen)
+甲辰 | TRADUÇÃO: 41º ano A5 do ciclo sexagenário, e.g. 1964 ou 2024
+甲酚 | TRADUÇÃO: cresol (química)
+甲酸 | TRADUÇÃO: ácido fórmico (HCOOH)/ácido metanoico
+甲醇 | TRADUÇÃO: álcool metílico/metanol CH3OH/álcool de madeira/álcool metílico (espírito de madeira)
+甲醚 | TRADUÇÃO: éter metílico CH3OCH3
+甲醛 | TRADUÇÃO: formaldeído (HCHO)
+甲铠 | TRADUÇÃO: armadura
+甲骨 | TRADUÇÃO: cascos de tartaruga e ossos de animais usados para adivinhação na Dinastia Shang (c. século XVI a XI a.C.); ossos oraculares
+甲骨文 | TRADUÇÃO: escrita oracular/inscrições em ossos oraculares (uma forma primitiva da escrita chinesa)
+甲骨文字 | TRADUÇÃO: escrita oracular/caractere de ossos oraculares (uma forma primitiva da escrita chinesa)
+甲鱼 | TRADUÇÃO: tartaruga-de-carapaça-mole
+申 | TRADUÇÃO: nome antigo para Xangai (Shanghai) 上海/sobrenome Shen ‖ estender/expor/explicar/nono ramo terrestre: 15-17h, 7º mês solar (7 de agosto a 7 de setembro), ano do Macaco/ponto da bússola chinesa antiga: 240°
+申不害 | TRADUÇÃO: Shen Buhai (385-337 a.C.), pensador político legalista
+申令 | TRADUÇÃO: uma ordem/um comando
+申冤 | TRADUÇÃO: apelar por justiça/exigir reparação de um agravo
+申命记 | TRADUÇÃO: Livro do Deuteronômio/Quinto Livro de Moisés
+申城 | TRADUÇÃO: nome alternativo para Xangai (Shanghai)/nome alternativo para a cidade de Xinyang, Henan 信陽市|信阳市
+申报 | TRADUÇÃO: relatar (às autoridades)/declarar (à alfândega)
+申报单 | TRADUÇÃO: formulário de declaração
+申奏 | TRADUÇÃO: apresentar (um documento)/submeter (uma petição)
+申屠 | TRADUÇÃO: sobrenome composto de dois caracteres Shentu
+申扎 | TRADUÇÃO: ver 申扎縣|申扎县
+申扎县 | TRADUÇÃO: Xainza, um distrito em Nagqu City 那曲市, Tibete
+申斥 | TRADUÇÃO: repreender / censurar / denunciar
+申明 | TRADUÇÃO: declarar / afirmar / declarar formalmente
+申时 | TRADUÇÃO: 15-17h (no sistema de subdivisões de duas horas usado antigamente)
+申曲 | TRADUÇÃO: ópera de Xangai / mesma que 滬劇|沪剧
+申根 | TRADUÇÃO: Schengen, vila em Luxemburgo, local da assinatura em 1985 do acordo que criou a área Schengen 申根區|申根区
+申根区 | TRADUÇÃO: a área Schengen, zona livre de passaporte na Europa
+申状 | TRADUÇÃO: apresentar (um documento)/submeter (uma petição)
+申猴 | TRADUÇÃO: Ano 9, ano do Macaco (e.g. 2004)
+申理 | TRADUÇÃO: corrigir um erro/buscar justiça
+申申 | TRADUÇÃO: aconchegante e confortável/repetir interminavelmente
+申言 | TRADUÇÃO: professar/declarar
+申讨 | TRADUÇÃO: denunciar
+申诉 | TRADUÇÃO: apresentar queixa/recorrer (a uma autoridade, tribunal superior etc)/queixa/recurso
+申诉书 | TRADUÇÃO: recurso por escrito/apelação por escrito
+申说 | TRADUÇÃO: afirmar/declarar (algo)
+申请 | TRADUÇÃO: candidatar-se a algo/formulário de inscrição (CL:份)
+申请人 | TRADUÇÃO: candidato/requerente
+申请书 | TRADUÇÃO: solicitação/requerimento/petição (a autoridades superiores)
+申请表 | TRADUÇÃO: formulário de inscrição/requerimento
+申论 | TRADUÇÃO: fazer uma exposição detalhada/expor em detalhes
+申谢 | TRADUÇÃO: expressar gratidão/agradecer
+申购 | TRADUÇÃO: solicitar compra/fazer oferta de compra
+申办 | TRADUÇÃO: candidatar-se a/concorrer (para sediar)
+申辩 | TRADUÇÃO: defender-se/refutar uma acusação
+申述 | TRADUÇÃO: afirmar/declarar/alegar/especificar
+申通 | TRADUÇÃO: STO Express, serviço de courier com sede em Xangai, fundado em 1993
+申遗 | TRADUÇÃO: candidatar-se ao status de Patrimônio Mundial da UNESCO
+申雪 | TRADUÇÃO: corrigir um erro/reparar uma injustiça
+申领 | TRADUÇÃO: solicitar (licença, visto etc)
+申饬 | TRADUÇÃO: advertir/censurar/repreender/também escrito 申斥
+甴 | TRADUÇÃO: usado em 曱甴
+男 | TRADUÇÃO: (forma presa) masculino/barão, o mais baixo dos cinco títulos de nobreza 五等爵位
+男丁 | TRADUÇÃO: homem adulto
+男中音 | TRADUÇÃO: barítono
+男主外，女主内 | TRADUÇÃO: homens saem para trabalhar e mulheres ficam em casa (expressão idiomática)
+男人 | TRADUÇÃO: um homem/um macho/homens/CL:個|个
+男人不坏，女人不爱 | TRADUÇÃO: mulheres amam homens maus
+男人婆 | TRADUÇÃO: mulher-macha/maria-rapaz
+男人家 | TRADUÇÃO: um homem (em vez de uma mulher)
+男人膝下有黄金 | TRADUÇÃO: lit. o homem tem ouro sob os joelhos; fig. um homem que não se ajoelha facilmente diante de outros (devido ao orgulho ou integridade moral)
+男低音 | TRADUÇÃO: (música) voz de baixo
+男修道院长 | TRADUÇÃO: abade
+男傧相 | TRADUÇÃO: padrinho (de casamento)
+男儿 | TRADUÇÃO: um (verdadeiro) homem/menino/filho
+男儿有泪不轻弹 | TRADUÇÃO: homens de verdade não choram facilmente (expressão idiomática)
+男凝 | TRADUÇÃO: olhar masculino (abr. para 男性凝視|男性凝视)
+男友 | TRADUÇÃO: namorado
+男友力 | TRADUÇÃO: (coloq.) atratividade (como potencial namorado)/grau em que alguém é "material de namorado"
+男同 | TRADUÇÃO: cara gay (coloq.)
+男同胞 | TRADUÇÃO: homem/masculino/compatriota do sexo masculino
+男单 | TRADUÇÃO: simples masculino (em tênis, badminton etc)
+男团 | TRADUÇÃO: boy band (grupo musical masculino)
+男基尼 | TRADUÇÃO: manquíni (estrangeirismo)
+男士 | TRADUÇÃO: homem/cavalheiro
+男大 | TRADUÇÃO: estudante universitário masculino / calouro universitário (gíria)
+男女 | TRADUÇÃO: masculino-feminino / homem e mulher
+男女合校 | TRADUÇÃO: remete a 男女同校
+男女同校 | TRADUÇÃO: coeducação
+男女平等 | TRADUÇÃO: igualdade entre os sexos
+男女授受不亲 | TRADUÇÃO: homens e mulheres não devem tocar as mãos ao dar ou receber objetos (citação de Mêncio)
+男女老少 | TRADUÇÃO: homens, mulheres, jovens e idosos / todo tipo de pessoa / pessoas de todas as idades
+男女老幼 | TRADUÇÃO: homens, mulheres, jovens e idosos / todo mundo
+男女关系 | TRADUÇÃO: relação homem-mulher / relacionamento íntimo
+男妓 | TRADUÇÃO: prostituto / (antigo) cafetão
+男娃 | TRADUÇÃO: (dialeto) menino / cara
+男娘 | TRADUÇÃO: (gíria) femboy
+男婚女嫁 | TRADUÇÃO: celebrar um casamento
+男婴 | TRADUÇÃO: bebê do sexo masculino
+男子 | TRADUÇÃO: homem / um macho
+男子单打 | TRADUÇÃO: simples masculino (em tênis etc.)
+男子气 | TRADUÇÃO: viril / masculino
+男子气概 | TRADUÇÃO: masculinidade / virilidade
+男子汉 | TRADUÇÃO: macho / homem viril
+男子汉大丈夫 | TRADUÇÃO: (coloq.) machão
+男子篮球 | TRADUÇÃO: basquete masculino
+男孩 | TRADUÇÃO: menino
+男孩儿 | TRADUÇÃO: forma com retroflexão de 男孩
+男孩子 | TRADUÇÃO: menino
+男孩乐队 | TRADUÇÃO: boy band (tipo de grupo pop)
+男家 | TRADUÇÃO: família do noivo (no casamento)
+男尊女卑 | TRADUÇÃO: considerar os homens superiores às mulheres (expressão idiomática)
+男工 | TRADUÇÃO: trabalhador masculino
+男左女右 | TRADUÇÃO: a esquerda é para homens, a direita para mulheres (ditado tradicional)
+男巫 | TRADUÇÃO: feiticeiro / mago
+男厕 | TRADUÇÃO: banheiro masculino / toalete masculino
+男怕入错行，女怕嫁错郎 | TRADUÇÃO: o homem teme errar na profissão, a mulher teme casar com homem errado (provérbio)
+男性 | TRADUÇÃO: o sexo masculino / um macho
+男性主义 | TRADUÇÃO: masculismo
+男性凝视 | TRADUÇÃO: olhar masculino
+男性化 | TRADUÇÃO: masculinizar / masculinização
+男性厌恶 | TRADUÇÃO: misandria
+男性贬抑 | TRADUÇÃO: misandria
+男才女貌 | TRADUÇÃO: homem talentoso e mulher bonita / casal ideal
+男扮女装 | TRADUÇÃO: (de um homem) vestir-se de mulher (expressão idiomática)
+男排 | TRADUÇÃO: vôlei masculino / abreviação de 男子排球
+男方 | TRADUÇÃO: (de um casamento) lado do noivo / lado do marido
+男旦 | TRADUÇÃO: ator masculino interpretando papel feminino (ópera chinesa)
+男星 | TRADUÇÃO: estrela masculina / ator famoso
+男朋友 | TRADUÇÃO: namorado
+男校 | TRADUÇÃO: escola só para meninos
+男根 | TRADUÇÃO: pênis
+男欢女爱 | TRADUÇÃO: amor apaixonado (expressão idiomática)
+男爵 | TRADUÇÃO: barão
+男生 | TRADUÇÃO: aluno / estudante masculino / menino / cara (adulto jovem do sexo masculino)
+男的 | TRADUÇÃO: homem
+男神 | TRADUÇÃO: Sr. Perfeito / Adônis / Príncipe Encantado
+男票 | TRADUÇÃO: namorado (gíria da internet)
+男童 | TRADUÇÃO: menino / criança do sexo masculino
+男管家 | TRADUÇÃO: mordomo / administrador / governanta
+男篮 | TRADUÇÃO: basquete masculino / equipe de basquete masculino
+男色 | TRADUÇÃO: homossexualidade masculina
+男虫 | TRADUÇÃO: golpista / vigarista
+男卫 | TRADUÇÃO: banheiro masculino (abreviação de 男卫生间)
+男装 | TRADUÇÃO: roupas masculinas
+男护 | TRADUÇÃO: enfermeiro
+男宾 | TRADUÇÃO: convidado masculino / visitante masculino
+男足 | TRADUÇÃO: abreviação de 男子足球 / abreviação de 男子足球队
+男双 | TRADUÇÃO: duplas masculinas (em tênis, badminton etc.)
+男风 | TRADUÇÃO: homossexualidade masculina / sodomia
+男高 | TRADUÇÃO: (gíria) estudante do ensino médio do sexo masculino
+男高音 | TRADUÇÃO: tenor (voz cantada) / um tenor
+甸 | TRADUÇÃO: sobrenome Dian ‖ subúrbio / uma das cinco categorias de luto oficial na China dinástica / oficial responsável por campos (antigo)
+甹 | TRADUÇÃO: cavaleiro ardido
+町 | TRADUÇÃO: (usado em nomes de lugares) ‖ caminho elevado entre campos
+甽 | TRADUÇÃO: dreno entre campos, irrigação
+甾 | TRADUÇÃO: núcleo esteroide
+甾酮 | TRADUÇÃO: esterona (esteroide contendo grupo cetona) / hormônio esteroide
+甾醇 | TRADUÇÃO: esterol (química)
+甿 | TRADUÇÃO: variante de 氓
+畀 | TRADUÇÃO: conferir a / dar a
+畁 | TRADUÇÃO: variante de 畀
+亩 | TRADUÇÃO: variante antiga de 畝|亩 ‖ variante antiga de 畝|亩 ‖ classificador para campos/unidade de área igual a um quinze avos de hectare ‖ variante antiga de 畝|亩
+畄 | TRADUÇÃO: variante antiga de 留
+畇 | TRADUÇÃO: terra recuperada
+畈 | TRADUÇÃO: campo / fazenda
+耕 | TRADUÇÃO: variante de 耕 ‖ arar / lavrar
+畋 | TRADUÇÃO: cultivar (a terra) / caçar
+畋猎 | TRADUÇÃO: caçar
+界 | TRADUÇÃO: (forma ligada) fronteira / limite / (forma ligada) reino
+界乎 | TRADUÇÃO: variante de 介乎
+界内球 | TRADUÇÃO: bola dentro dos limites (esportes) / dentro / bola boa (beisebol)
+界别 | TRADUÇÃO: dividir em diferentes zonas / (Hong Kong) setor da sociedade / círculo eleitoral / (taxonomia) reino
+界址 | TRADUÇÃO: limite (de um terreno ou território)
+界定 | TRADUÇÃO: definição / delimitar
+界尺 | TRADUÇÃO: régua sem graduação / régua de traçado
+界桩 | TRADUÇÃO: marco de fronteira / poste de fronteira / pilar de fronteira
+界标 | TRADUÇÃO: ponto de referência
+界河 | TRADUÇÃO: rio de fronteira (entre países ou regiões)
+界画 | TRADUÇÃO: representação precisa de formas arquitetônicas com auxílio de régua (técnica da arte chinesa) / pintura feita com essa técnica
+界碑 | TRADUÇÃO: placa que marca a fronteira entre duas regiões, distritos etc.
+界线 | TRADUÇÃO: limites / fronteira / linha divisória
+界限 | TRADUÇÃO: limite / fronteira
+界面 | TRADUÇÃO: superfície de contato / (computação) interface
+界首 | TRADUÇÃO: remete a 界首市
+界首市 | TRADUÇÃO: Jieshou, cidade a nível de condado em Fuyang, Anhui
+畎 | TRADUÇÃO: drenos de campo
+畏 | TRADUÇÃO: temer
+畏友 | TRADUÇÃO: amigo reverenciado
+畏忌 | TRADUÇÃO: ser paralisado pelo medo/restrição/escrúpulo
+畏怯 | TRADUÇÃO: medroso/nervoso
+畏惧 | TRADUÇÃO: temer/pavor/presságio
+畏畏缩缩 | TRADUÇÃO: acovardado/encolhido
+畏缩 | TRADUÇÃO: encolher-se de medo/recuar/tremer/retroceder
+畏缩不前 | TRADUÇÃO: recuar de medo (expressão idiomática)/covarde demais para avançar
+畏罪 | TRADUÇÃO: temer o castigo/com medo de ser preso por um crime
+畏罪潜逃 | TRADUÇÃO: fugir para escapar do castigo/foragir da justiça
+畏罪自杀 | TRADUÇÃO: suicidar-se para escapar do castigo
+畏途 | TRADUÇÃO: estrada perigosa/(fig.) empreitada perigosa ou intimidante
+畏难 | TRADUÇÃO: ser desencorajado por desafios
+畏首畏尾 | TRADUÇÃO: ter medo da cabeça, apavorado com a cauda (expressão idiomática)/sempre temeroso e nervoso/com medo da menor coisa
+畑 | TRADUÇÃO: usado em nomes japoneses com valor fonético hatake, bata etc/campo seco (ou seja, não de arroz)
+畒 | TRADUÇÃO: variante antiga de 畝|亩
+畔 | TRADUÇÃO: (forma ligada) lado; borda; limite
+畔援 | TRADUÇÃO: dominador; tirânico
+留一手 | TRADUÇÃO: reter deliberadamente conhecimentos ou habilidades essenciais como seguro estratégico (tipicamente para manter vantagem, evitar ser substituído ou preservar autoridade em relações hierárquicas)
+留下 | TRADUÇÃO: deixar para trás/ficar/restar/guardar/não deixar (alguém) ir
+留任 | TRADUÇÃO: permanecer no cargo; manter o emprego
+留住 | TRADUÇÃO: pedir a alguém que fique/mandar alguém ficar para a noite/esperar (clássico)
+留作 | TRADUÇÃO: reservar para; guardar como
+留传 | TRADUÇÃO: legar (às gerações futuras)/um legado
+留别 | TRADUÇÃO: um presente de despedida/lembrança ao partir/poema para marcar a partida
+留名 | TRADUÇÃO: deixar o nome/deixar sua marca
+留园 | TRADUÇÃO: Jardim Lingering em Suzhou, Jiangsu, um dos Jardins Clássicos de Suzhou, Patrimônio Mundial da UNESCO
+留堂 | TRADUÇÃO: ficar depois da aula/detenção/estar de castigo
+留坝 | TRADUÇÃO: veja 留壩縣|留坝县
+留坝县 | TRADUÇÃO: Liuba, um condado em Hanzhong, Shaanxi
+留子 | TRADUÇÃO: (gíria) estudante internacional; estudante que estuda no exterior
+留存 | TRADUÇÃO: guardar/preservar/extante/restar (do passado)
+留存收益 | TRADUÇÃO: lucros acumulados
+留学 | TRADUÇÃO: estudar no exterior
+留学生 | TRADUÇÃO: estudante que estuda no exterior; estudante que retorna; estudante estrangeiro; estudante internacional
+留守 | TRADUÇÃO: ficar para cuidar das coisas
+留守儿童 | TRADUÇÃO: "crianças deixadas para trás", crianças rurais cujos pais precisam trabalhar como migrantes em áreas urbanas distantes, mas não podem manter a família consigo
+留客 | TRADUÇÃO: pedir a um convidado que fique/deter um convidado
+留宿 | TRADUÇÃO: hospedar um convidado/ficar para passar a noite
+留尼旺 | TRADUÇÃO: Reunião (ilha no Oceano Índico, departamento ultramarino francês) (Taiwan)
+留尼汪 | TRADUÇÃO: Reunião (ilha no Oceano Índico, departamento ultramarino francês)
+留尾巴 | TRADUÇÃO: deixar pontas soltas/deixar questões não resolvidas
+留底 | TRADUÇÃO: guardar uma cópia/cópia guardada para arquivamento/deixar de lado uma parte (de uma quantia em dinheiro)
+留影 | TRADUÇÃO: tirar uma foto como lembrança/uma foto de lembrança
+留待 | TRADUÇÃO: deixar algo para depois/adiar (trabalho, decisão etc)
+留后路 | TRADUÇÃO: deixar para si uma saída
+留得青山在，不怕没柴烧 | TRADUÇÃO: Enquanto os montes verdes durarem, haverá lenha para queimar (expressão idiomática). Onde há vida, há esperança.
+留心 | TRADUÇÃO: ter cuidado; prestar atenção
+留心眼儿 | TRADUÇÃO: ficar alerta/manter os olhos abertos
+留念 | TRADUÇÃO: guardar como lembrança/recordar com carinho
+留情 | TRADUÇÃO: ceder (para poupar os sentimentos de alguém)/mostrar misericórdia ou perdão/perdoar/indulgente
+留意 | TRADUÇÃO: estar atento/prestar atenção/tomar nota
+留恋 | TRADUÇÃO: relutante em ir embora/odiar ter que ir/recordar com carinho
+留成 | TRADUÇÃO: reter uma parte (dos lucros etc)
+留有 | TRADUÇÃO: continuar a existir/reter
+留有余地 | TRADUÇÃO: deixar alguma margem/permitir o imprevisível
+留校 | TRADUÇÃO: juntar-se ao corpo docente de sua alma mater após a formatura/ficar na escola durante as férias
+留样 | TRADUÇÃO: amostra de retenção/(de um fabricante, esp. de alimentos ou medicamentos) reter uma amostra de um lote de um produto (abrev. de 保留樣品|保留样品)
+留步 | TRADUÇÃO: (dito pelo convidado ao partir) não precisa se despedir
+留洋 | TRADUÇÃO: (antigo) estudar no exterior/(esportes) treinar no exterior
+留活口 | TRADUÇÃO: capturar vivo um criminoso (ou inimigo etc) para interrogatório/(de um perpetrador) deixar uma testemunha viver
+留海 | TRADUÇÃO: variante de 劉海|刘海
+留班 | TRADUÇÃO: repetir um ano na escola
+留用 | TRADUÇÃO: guardar para uso/reter algo/manter alguém em seu emprego
+留白 | TRADUÇÃO: deixar uma mensagem/deixar algum espaço vazio em uma obra de arte/deixar momentos ociosos (na vida, numa peça de teatro etc)
+留神 | TRADUÇÃO: tomar cuidado/ter cuidado
+留种 | TRADUÇÃO: guardar uma reserva de sementes/semente guardada para plantio
+留空 | TRADUÇÃO: deixar espaço em branco num documento/deixar algum tempo livre
+留级 | TRADUÇÃO: repetir um ano na escola
+留给 | TRADUÇÃO: reservar para
+留置 | TRADUÇÃO: deixar no lugar; reservar (para uso posterior); reter/deter (um suspeito ou infrator)/(medicina) de permanência
+留声机 | TRADUÇÃO: gramofone/fonógrafo
+留职 | TRADUÇÃO: manter um cargo oficial/segurar o emprego
+留职停薪 | TRADUÇÃO: (Taiwan) licença sem vencimento
+留兰香 | TRADUÇÃO: hortelã-verde
+留观 | TRADUÇÃO: (medicina) permanecer no hospital sob observação
+留言 | TRADUÇÃO: deixar uma mensagem; deixar seus comentários/mensagem
+留言本 | TRADUÇÃO: livro de visitas
+留言簿 | TRADUÇÃO: livro de visitas/CL:本
+留话 | TRADUÇÃO: deixar uma mensagem
+留连 | TRADUÇÃO: variante de 流連|流连
+留连论诗 | TRADUÇÃO: continuar a discutir um poema por um longo período
+留遗 | TRADUÇÃO: deixar para trás/legado de alguém
+留都 | TRADUÇÃO: a antiga capital (após uma mudança)
+留医 | TRADUÇÃO: ser hospitalizado
+留里克 | TRADUÇÃO: Rurik (c. 830-879), chefe varangiano do povo Rus'
+留针 | TRADUÇÃO: deixar uma agulha inserida no lugar por um período de tempo (acupuntura)
+留门 | TRADUÇÃO: deixar a porta destrancada para alguém
+留院 | TRADUÇÃO: permanecer no hospital
+留难 | TRADUÇÃO: dificultar algo/criar obstáculos
+留题 | TRADUÇÃO: pensamentos extemporâneos anotados após uma visita
+留饭 | TRADUÇÃO: reservar um pouco de comida para alguém/convidar alguém para ficar para uma refeição/convite para jantar
+留饮 | TRADUÇÃO: (MTC) edema; hidropisia
+留余地 | TRADUÇÃO: deixar margem para manobra; deixar margem para erro
+留驻 | TRADUÇÃO: manter estacionado (de tropas)/permanecer como guarnição
+留鸟 | TRADUÇÃO: ave não migratória
+畚 | TRADUÇÃO: cesto ou panela usada para terra, adubo etc
+畚斗 | TRADUÇÃO: pá de lixo

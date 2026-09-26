@@ -1,0 +1,134 @@
+/* ----- Estilos para o Gravador de Atalhos ----- */
+.gravador-atalho-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+  max-width: 260px;
+}
+
+.gravador-atalho-linha {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.gravador-atalho-box {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 38px;
+  padding: 5px 10px;
+  background: var(--bg-card, rgba(255, 255, 255, 0.05));
+  border: 1.5px solid var(--border-color, rgba(255, 255, 255, 0.15));
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.gravador-atalho-box:hover {
+  border-color: var(--color-primary, #6366f1);
+  background: var(--bg-card-hover, rgba(255, 255, 255, 0.08));
+}
+
+.gravador-atalho-box:focus-visible,
+.gravador-atalho-box.gravando {
+  border-color: var(--color-primary, #6366f1);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.25);
+  background: var(--bg-card-active, rgba(99, 102, 241, 0.1));
+}
+
+.gravador-conteudo-teclas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tecla-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 8px;
+  font-family: var(--font-mono, monospace);
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--text-main, #f3f4f6);
+  background: var(--bg-kbd, linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.05)));
+  border: 1px solid var(--border-kbd, rgba(255, 255, 255, 0.2));
+  border-bottom-width: 2px;
+  border-radius: 5px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.gravador-instrucao {
+  font-size: 0.78rem;
+  color: var(--color-primary, #818cf8);
+  font-style: italic;
+  white-space: nowrap;
+  animation: pulseGradiente 1.5s infinite alternate;
+}
+
+@keyframes pulseGradiente {
+  0% { opacity: 0.7; }
+  100% { opacity: 1.0; }
+}
+
+.gravador-vazio {
+  font-size: 0.82rem;
+  color: var(--text-muted, #9ca3af);
+}
+
+.gravador-acoes {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+.btn-limpar-atalho,
+.btn-restaurar-atalho {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-muted, #9ca3af);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-limpar-atalho:hover {
+  background: rgba(239, 68, 68, 0.2);
+  color: #f87171;
+  border-color: rgba(239, 68, 68, 0.4);
+}
+
+.btn-restaurar-atalho:hover {
+  background: rgba(99, 102, 241, 0.2);
+  color: #818cf8;
+  border-color: rgba(99, 102, 241, 0.4);
+}
+
+.com-conflito .gravador-atalho-box {
+  border-color: #ef4444;
+  background: rgba(239, 68, 68, 0.08);
+}
+
+.gravador-mensagem-erro {
+  font-size: 0.75rem;
+  color: #ef4444;
+  text-align: right;
+  width: 100%;
+}

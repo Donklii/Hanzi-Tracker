@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+隐士 | TRADUÇÃO: eremita
+隐姓埋名 | TRADUÇÃO: esconder a identidade/viver no anonimato
+隐婚 | TRADUÇÃO: ser casado, mas manter isso em segredo da família, colegas ou do público em geral
+隐密 | TRADUÇÃO: secreto/escondido
+隐写术 | TRADUÇÃO: esteganografia
+隐射 | TRADUÇÃO: insinuação/insinuar
+隐居 | TRADUÇÃO: viver em reclusão
+隐形 | TRADUÇÃO: invisível
+隐形眼镜 | TRADUÇÃO: lente de contato/CL:隻|只,副
+隐忍 | TRADUÇÃO: sofrer em silêncio/suportar sofrimento ou injustiça sem reclamar/engolir as mágoas
+隐忍不发 | TRADUÇÃO: conter as emoções/refrear os sentimentos
+隐忍不言 | TRADUÇÃO: conter as emoções/refrear os sentimentos
+隐性 | TRADUÇÃO: oculto/cripto-/recessivo (gene)
+隐性基因 | TRADUÇÃO: gene recessivo
+隐患 | TRADUÇÃO: perigo oculto/dano dissimulado/infortúnio não visível na superfície
+隐情 | TRADUÇÃO: algo que se deseja manter em segredo/segunda intenção/assunto que é melhor evitar
+隐情不报 | TRADUÇÃO: não relatar algo/manter algo em segredo
+隐恶扬善 | TRADUÇÃO: (expressão idiomática) destacar os pontos bons de alguém e omitir suas falhas
+隐意 | TRADUÇÃO: significado implícito
+隐忧 | TRADUÇÃO: preocupação secreta/apreensão particular
+隐映 | TRADUÇÃO: realçar-se mutuamente
+隐晦 | TRADUÇÃO: vago/ambíguo/velado/obscuro
+隐栖动物学 | TRADUÇÃO: criptozoologia
+隐没 | TRADUÇÃO: desaparecer gradualmente/sumir/esvanecer
+隐灭 | TRADUÇÃO: desvanecer-se/sumir/desaparecer
+隐然 | TRADUÇÃO: levemente/indistintamente
+隐燃 | TRADUÇÃO: queima sem chama/fogo sob a superfície/combustão oculta
+隐现 | TRADUÇÃO: vislumbre (de algo escondido)
+隐生宙 | TRADUÇÃO: Criptozoico/éon geológico anterior ao aparecimento de fósseis abundantes/vida oculta, em oposição a Fanerozoico
+隐疾 | TRADUÇÃO: doença inconfessável (ex.: doença venérea)
+隐病不报 | TRADUÇÃO: não contar aos outros sobre sua doença
+隐痛 | TRADUÇÃO: angústia oculta; sofrimento secreto/(medicina) dor surda
+隐睾 | TRADUÇÃO: criptorquidia/testículo não descido
+隐瞒 | TRADUÇÃO: ocultar/esconder (assunto tabu)/encobrir a verdade
+隐瞒不报 | TRADUÇÃO: encobrir (assunto que deveria ser reportado às autoridades)
+隐私 | TRADUÇÃO: segredos/assuntos privados/privacidade
+隐私权 | TRADUÇÃO: direito à privacidade
+隐秘 | TRADUÇÃO: secreto/escondido
+隐秘难言 | TRADUÇÃO: embaraçoso demais para mencionar
+隐约 | TRADUÇÃO: vago/indistinto/fraco
+隐约其辞 | TRADUÇÃO: linguagem evasiva/usar linguagem vaga ou ambígua
+隐翅虫 | TRADUÇÃO: besouro estafilínideo
+隐色 | TRADUÇÃO: coloração protetora (especialmente em insetos)/camuflagem
+隐花植物 | TRADUÇÃO: Criptógamas/planta criptógama (botânica)/plantas como algas, musgos e samambaias que se reproduzem por esporos em vez de flores
+隐蔽 | TRADUÇÃO: ocultar/esconder/encoberto/encobertamente
+隐藏 | TRADUÇÃO: esconder/ocultar/mascarar/abrigar/guardar (algo escondido)/esconder-se/permanecer na moita/aconchegar-se/oculto/implícito/particular/encoberto/embutido (iluminação)
+隐藏处 | TRADUÇÃO: abrigo/esconderijo
+隐血 | TRADUÇÃO: sangue oculto (na medicina, sangue fecal de hemorragia interna)
+隐衷 | TRADUÇÃO: segredo/algo que é melhor não contar a ninguém/informação confidencial
+隐袭 | TRADUÇÃO: insidioso
+隐语 | TRADUÇÃO: linguagem secreta/palavra-código
+隐讳 | TRADUÇÃO: conter-se para não dizer exatamente o que se pensa
+隐讳号 | TRADUÇÃO: símbolo de cruz (×), usado para substituir um caractere que não se deseja exibir
+隐迹 | TRADUÇÃO: rastros ocultos
+隐迹埋名 | TRADUÇÃO: viver incógnito
+隐身 | TRADUÇÃO: esconder-se/invisível (pessoa ou status online)
+隐身草 | TRADUÇÃO: erva lendária que confere invisibilidade/fig. esconder a si mesmo ou seus planos
+隐身草儿 | TRADUÇÃO: variante erhua de 隱身草|隐身草
+隐退 | TRADUÇÃO: retirar-se (da sociedade, especialmente da política)/desaparecer
+隐逸 | TRADUÇÃO: viver em reclusão/recluso/ermitão/recluso
+隐遁 | TRADUÇÃO: desaparecer de vista/viver em reclusão
+隐避 | TRADUÇÃO: esconder-se/ocultar e evitar (contato)/manter algo oculto
+隐隐 | TRADUÇÃO: fraco/indistinto
+隐隐作痛 | TRADUÇÃO: doer surdamente
+隐隐约约 | TRADUÇÃO: (expressão idiomática) vagamente/indistintamente/fracamente
+隐隐绰绰 | TRADUÇÃO: indistinto/fraco
+隐显 | TRADUÇÃO: aparecendo e desaparecendo/levemente visível/intermitente/implícito (mas não claramente presente)
+隐显目标 | TRADUÇÃO: alvo intermitente
+隐饰 | TRADUÇÃO: um encobrimento
+隐龟 | TRADUÇÃO: tartaruga do Rio Mary (Elusor macrurus)
+隳 | TRADUÇÃO: destruir/derrubar
+陇 | TRADUÇÃO: abreviatura de Gansu 甘肅|甘肃
+陇南 | TRADUÇÃO: ver 隴南市|陇南市
+陇南市 | TRADUÇÃO: Longnan, cidade de nível de prefeitura na província de Gansu 甘肅省|甘肃省
+陇川 | TRADUÇÃO: ver 隴川縣|陇川县
+陇川县 | TRADUÇÃO: Longchuan, um condado na Prefeitura Autônoma de Dehong Dai e Jingpo 德宏傣族景頗族自治州|德宏傣族景颇族自治州, Yunnan
+陇海 | TRADUÇÃO: ferrovia Jiangsu-Gansu/abrev. para 隴海鐵路|陇海铁路
+陇海铁路 | TRADUÇÃO: Ferrovia Jiangsu-Gansu
+陇县 | TRADUÇÃO: Condado de Long ou Longxian, um condado na cidade de Baoji 寶雞市|宝鸡市, Shaanxi
+陇西 | TRADUÇÃO: ver 隴西縣|陇西县
+陇西县 | TRADUÇÃO: Longxi, um condado na cidade de Dingxi 定西市, Gansu
+隶 | TRADUÇÃO: variante de 隸|隶 ‖ (forma presa) pessoa em servidão/subordinado de baixa patente/(forma presa) ser subordinado a/(forma presa) escrita clerical (estilo de caracteres intermediário entre a escrita sigilar antiga e a regular moderna)
+隶圉 | TRADUÇÃO: servos/subordinados
+隶属 | TRADUÇÃO: ser subordinado a/estar sob jurisdição de
+隶书 | TRADUÇÃO: escrita clerical/escrita oficial (estilo caligráfico chinês)
+隶体 | TRADUÇÃO: ver 隸書|隶书
+隹 | TRADUÇÃO: pássaro de cauda curta
+只字不提 | TRADUÇÃO: (expressão idiomática) não dizer uma palavra sequer sobre isso
+只眼独具 | TRADUÇÃO: ver 獨具隻眼|独具只眼
+只身 | TRADUÇÃO: sozinho/por conta própria
+只鸡斗酒 | TRADUÇÃO: lit. uma galinha e uma garrafa de vinho (expressão idiomática); fig. pronto para fazer uma oferenda ao falecido, ou para entreter convidados
+隼 | TRADUÇÃO: falcão/pr. taiwanesa [zhun3]
+雀 | TRADUÇÃO: sarda/lentigo ‖ (forma presa) pássaro pequeno/pardal/também pr. [qiao3]
+雀儿喜 | TRADUÇÃO: (Taiwan) (nome) Chelsea
+雀儿山 | TRADUÇÃO: Montanhas Chola em Sichuan
+雀噪 | TRADUÇÃO: fazer barulho no mundo/adquirir notoriedade
+雀子 | TRADUÇÃO: sarda/lentigo
+雀巢 | TRADUÇÃO: Nestlé
+雀形目 | TRADUÇÃO: ordem Passeriformes (pássaros empoleirados)
+雀斑 | TRADUÇÃO: sardas
+雀盲 | TRADUÇÃO: cegueira noturna
+雀盲眼 | TRADUÇÃO: cegueira noturna (dialetal)
+雀跃 | TRADUÇÃO: empolgado/alegre
+雀类 | TRADUÇÃO: tentilhão (família Fringillidae)
+雀鸟 | TRADUÇÃO: pássaro/ave
+雀鹰 | TRADUÇÃO: gavião-da-eurásia (Accipiter nisus)
+雁 | TRADUÇÃO: ganso-bravo ‖ variante de 雁
+雁塔 | TRADUÇÃO: veja 雁塔區|雁塔区
+雁塔区 | TRADUÇÃO: distrito de Yanta, na cidade de Xi'an 西安市, Shaanxi
+雁山 | TRADUÇÃO: veja 雁山區|雁山区
+雁山区 | TRADUÇÃO: distrito de Yanshan, na cidade de Guilin 桂林市, Guangxi
+雁峰 | TRADUÇÃO: veja 雁峰區|雁峰区
+雁峰区 | TRADUÇÃO: distrito de Yanfeng, na cidade de Hengyang 衡陽市|衡阳市, Hunan
+雁杳鱼沉 | TRADUÇÃO: sem notícias de alguém (expressão idiomática)
+雁江 | TRADUÇÃO: veja 雁江區|雁江区
+雁江区 | TRADUÇÃO: distrito de Yanjiang, na cidade de Ziyang 資陽市|资阳市, Sichuan
+雁荡 | TRADUÇÃO: montanhas Yandang, famosa área cênica no sudeste de Zhejiang
+雁荡山 | TRADUÇÃO: montanhas Yandang, famosa área cênica no sudeste de Zhejiang
+雁过拔毛 | TRADUÇÃO: lit. arrancar penas de um ganso voador/fig. aproveitar qualquer oportunidade/pragmático
+雂 | TRADUÇÃO: (ave)
+雄 | TRADUÇÃO: macho/estaminado/magnífico/imponente/poderoso/forte/pessoa ou estado com grande poder e influência
+雄伟 | TRADUÇÃO: grandioso/imponente/magnífico/majestoso
+雄健 | TRADUÇÃO: vigoroso/robusto/poderoso
+雄厚 | TRADUÇÃO: substancial/robusto/suficiente/abundante
+雄图 | TRADUÇÃO: plano grandioso/grande ambição
+雄壮 | TRADUÇÃO: majestoso/impressionante/cheio de poder e grandeza
+雄安 | TRADUÇÃO: Nova Área de Xiong'an, uma nova área de nível estadual na região de Baoding, Hebei, estabelecida em 2017
+雄安新区 | TRADUÇÃO: Nova Área de Xiong'an, uma nova área de nível estadual na região de Baoding, Hebei, estabelecida em 2017
+雄峙 | TRADUÇÃO: erguer-se imponentemente
+雄心 | TRADUÇÃO: grande ambição/nobre aspiração
+雄心勃勃 | TRADUÇÃO: agressivo e grandioso (expressão idiomática); ambicioso/assertivo
+雄性 | TRADUÇÃO: masculino/macho
+雄性激素 | TRADUÇÃO: hormônio masculino/testosterona
+雄才大略 | TRADUÇÃO: grande habilidade e estratégia
+雄浑 | TRADUÇÃO: vigoroso/firme/enérgico
+雄激素 | TRADUÇÃO: hormônio masculino/testosterona
+雄狮 | TRADUÇÃO: leão-macho
+雄兽 | TRADUÇÃO: animal macho
+雄县 | TRADUÇÃO: Condado de Xiong (Xiongxian), no município de Baoding 保定市, Hebei
+雄脱 | TRADUÇÃO: calvície padrão; alopecia androgenética
+雄蕊 | TRADUÇÃO: estame (parte masculina da flor)
+雄蜂 | TRADUÇÃO: zangão (abelha)
+雄猫 | TRADUÇÃO: gato macho, geralmente 公貓|公猫
+雄赳赳 | TRADUÇÃO: valentemente/galhardamente
+雄起 | TRADUÇÃO: (grito de incentivo)/erguer-se/levantar-se/ganhar ascendência/Vamos lá!
+雄踞 | TRADUÇÃO: estar empoleirado no alto/estar proeminentemente localizado/ser proeminente
+雄辩 | TRADUÇÃO: eloquente/oratória/retórica
+雄辩家 | TRADUÇÃO: orador
+雄配子 | TRADUÇÃO: gameta masculino; espermatozoide
+雄酯酮 | TRADUÇÃO: hormônio masculino/testosterona
+雄长 | TRADUÇÃO: caráter feroz e ambicioso/pessoa formidável
+雄鸡 | TRADUÇÃO: galo
+雄风 | TRADUÇÃO: vigor/virilidade/dinamismo/(literário) vento poderoso
+雄马 | TRADUÇÃO: cavalo macho/garanhão
+雄体 | TRADUÇÃO: macho de uma espécie
+雄鹰 | TRADUÇÃO: águia macho
+雄鹿 | TRADUÇÃO: Milwaukee Bucks (time da NBA) ‖ cervo/veado macho
+雄黄 | TRADUÇÃO: realgar/ouropimento vermelho
+雄黄酒 | TRADUÇÃO: vinho de realgar (tradicionalmente bebido durante o Festival do Barco-Dragão 端午節|端午节)
+雅 | TRADUÇÃO: elegante
+雅丹 | TRADUÇÃO: (geologia) (empréstimo) yardang
+雅事 | TRADUÇÃO: atividades refinadas dos intelectuais (sobre literatura, pinturas etc.)
+雅人 | TRADUÇÃO: pessoa poética/pessoa de temperamento refinado
+雅人深致 | TRADUÇÃO: prazer refinado das mentes poéticas
+雅什 | TRADUÇÃO: belo verso
+雅俗共赏 | TRADUÇÃO: apreciado por eruditos e leigos (expressão idiomática)
+雅克 | TRADUÇÃO: Jacques (nome)
+雅典 | TRADUÇÃO: Atenas, capital da Grécia
+雅典娜 | TRADUÇÃO: Atena
+雅典的泰门 | TRADUÇÃO: Timão de Atenas, tragédia de 1607 de William Shakespeare 莎士比亞|莎士比亚
+雅典卫城 | TRADUÇÃO: a Acrópole (Atenas)
+雅利安 | TRADUÇÃO: ariano
+雅加达 | TRADUÇÃO: Jacarta, capital da Indonésia
+雅司 | TRADUÇÃO: bouba (doença tropical infecciosa)
+雅司病 | TRADUÇÃO: bouba (doença tropical infecciosa)
+雅各 | TRADUÇÃO: Jacó (nome)/Tiago (nome)
+雅各伯 | TRADUÇÃO: Jacó (nome)/São Tiago
+雅各书 | TRADUÇÃO: Epístola de São Tiago (no Novo Testamento)
+雅各宾派 | TRADUÇÃO: Clube Jacobino, partido revolucionário francês que desempenhou um papel de liderança no reinado do terror (1791-1794)
+雅士 | TRADUÇÃO: erudito elegante
+雅威 | TRADUÇÃO: Javé
+雅安 | TRADUÇÃO: veja 雅安市
+雅安市 | TRADUÇÃO: Ya'an, cidade de nível de prefeitura na província de Sichuan 四川省
+雅座 | TRADUÇÃO: (restaurante etc.) sala privativa/ camarote/assento confortável
+雅思 | TRADUÇÃO: IELTS (International English Language Testing System)
+雅恩德 | TRADUÇÃO: Iaundê, capital dos Camarões
+雅意 | TRADUÇÃO: sua gentil oferta/seu valioso conselho/interesse e charme delicados
+雅爱 | TRADUÇÃO: (hon.) sua grande bondade
+雅怀 | TRADUÇÃO: sentimentos refinados/emoções distintas
+雅房 | TRADUÇÃO: (Taiwan) quarto para alugar sem banheiro privativo
+雅拉神山 | TRADUÇÃO: Monte Yarla Shampo, no Condado de Dawu 道孚縣|道孚县, Prefeitura Autônoma Tibetana de Garze, Sichuan
+雅拉雪山 | TRADUÇÃO: Monte Yarla Shampo, no Condado de Dawu 道孚縣|道孚县, Prefeitura Autônoma Tibetana de Garze, Sichuan
+雅拉香波神山 | TRADUÇÃO: Monte Yarla Shampo, no Condado de Dawu 道孚縣|道孚县, Prefeitura Autônoma Tibetana de Garze, Sichuan
+雅拉香波雪山 | TRADUÇÃO: Monte Yarla Shampo, no Condado de Dawu 道孚縣|道孚县, Prefeitura Autônoma Tibetana de Garze, Sichuan
+雅故 | TRADUÇÃO: velho amigo/interpretação correta
+雅教 | TRADUÇÃO: (hon.) seus ilustres pensamentos/Obrigado (por sua estimada contribuição à nossa discussão).
+雅望 | TRADUÇÃO: (literário) reputação impecável
+雅乐 | TRADUÇÃO: música cerimonial formal de cada dinastia chinesa sucessiva começando com a Zhou/a'ak coreano/gagaku japonês
+雅歌 | TRADUÇÃO: parte do Livro dos Cantos 詩經|诗经/uma canção/um poema musicado elegantemente/um canto refinado/o bíblico Cântico dos Cânticos
+雅正 | TRADUÇÃO: correto (literário)/íntegro/(hon.) Por favor, aponte minhas deficiências./Aguardo suas estimadas correções.
+雅气 | TRADUÇÃO: elegância
+雅江 | TRADUÇÃO: veja 雅江縣|雅江县
+雅江县 | TRADUÇÃO: Condado de Yajiang, no Condado Autônomo Tibetano de Garzê 甘孜藏族自治州, Sichuan
+雅法 | TRADUÇÃO: Jaffa (porto israelense)
+雅法港 | TRADUÇÃO: Jaffa (Israel)
+雅淡 | TRADUÇÃO: simples e elegante
+雅温得 | TRADUÇÃO: Yaoundé, capital dos Camarões
+雅洁 | TRADUÇÃO: elegante e puro
+雅尔塔 | TRADUÇÃO: Ialta
+雅片 | TRADUÇÃO: variante de 鴉片|鸦片
+雅玩 | TRADUÇÃO: passatempo elegante/objeto refinado de lazer
+雅痞 | TRADUÇÃO: yuppie (estrangeirismo) (Taiwan)
+雅皮 | TRADUÇÃO: (estrangeirismo) yuppie
+雅皮士 | TRADUÇÃO: yuppie (estrangeirismo)/jovem profissional urbano, gíria dos anos 1980
+雅相 | TRADUÇÃO: aparência elegante/dignidade
+雅砻江 | TRADUÇÃO: Rio Yalong, do Tibete a Sichuan
+雅礼协会 | TRADUÇÃO: Associação Yale-China, organização independente fundada em 1901
+雅称 | TRADUÇÃO: nome elegante/tratamento honorífico
+雅穆索戈 | TRADUÇÃO: Yamoussoukro, capital da Costa do Marfim (Taiwan)
+雅罗鱼 | TRADUÇÃO: ruivaca (peixe)
+雅美族 | TRADUÇÃO: Povo Tao ou Yami, um dos povos indígenas de Taiwan
+雅致 | TRADUÇÃO: elegante/refinado/de bom gosto
+雅兴 | TRADUÇÃO: atitude mental refinada e elegante
+雅芳 | TRADUÇÃO: Avon (empresa de cosméticos)
+雅虎 | TRADUÇÃO: Yahoo, portal de internet
+雅号 | TRADUÇÃO: designação refinada/(humor) apelido elegante de alguém/(hon.) seu ilustre nome
+雅观 | TRADUÇÃO: elegante e de bom gosto
+雅言 | TRADUÇÃO: conselho valioso
+雅诺什 | TRADUÇÃO: János (nome húngaro)
+雅趣 | TRADUÇÃO: elegante/refinado/delicado e encantador
+雅郑 | TRADUÇÃO: música cortesã e música vulgar (i.e. 雅樂|雅乐, música da corte, e 鄭聲|郑声, música do estado de Zheng, considerada lasciva)
+雅量 | TRADUÇÃO: magnanimidade/tolerância/alta capacidade para beber
+雅间 | TRADUÇÃO: sala particular (em restaurante, casa de banhos, etc.)
+雅阁 | TRADUÇÃO: Accord (modelo de carro japonês da Honda)
+雅集 | TRADUÇÃO: assembleia distinta (de eruditos)
+雅静 | TRADUÇÃO: elegante e calmo/gentil/silencioso
+雅饬 | TRADUÇÃO: ordem elegante/equilíbrio
+雅马哈 | TRADUÇÃO: Yamaha
+雅驯 | TRADUÇÃO: refinado (de escrita)
+雅鲁藏布大峡谷 | TRADUÇÃO: Grande Desfiladeiro do Rio Yarlung Tsangpo-Brahmaputra (através do sudeste do Himalaia, do Tibete a Assam e Bangladesh)
+雅鲁藏布江 | TRADUÇÃO: Rio Yarlung Tsangpo, Tibete
+雅丽 | TRADUÇÃO: beleza elegante/refinada
+集 | TRADUÇÃO: reunir/coletar/obras completas/classificador para seções de uma série de TV etc: episódio
+集中 | TRADUÇÃO: concentrar/centralizar/focar/centralizado/concentrado/juntar
+集中器 | TRADUÇÃO: concentrador
+集中托运 | TRADUÇÃO: carga consolidada (transporte)
+集中营 | TRADUÇÃO: campo de concentração
+集刊 | TRADUÇÃO: coletânea de artigos (publicada como um volume)
+集合 | TRADUÇÃO: reunir; juntar/(mat.) conjunto
+集合名词 | TRADUÇÃO: substantivo coletivo (linguística)
+集合论 | TRADUÇÃO: teoria dos conjuntos (mat.)
+集合体 | TRADUÇÃO: agregado/ensemble/feixe
+集团 | TRADUÇÃO: grupo/bloco/corporação/conglomerado
+集团军 | TRADUÇÃO: agrupamento de exércitos/exército coletivo
+集子 | TRADUÇÃO: antologia/textos selecionados
+集安 | TRADUÇÃO: veja 集安市
+集安市 | TRADUÇÃO: Ji'an, cidade distrital em Tonghua 通化市, Jilin
+集宁 | TRADUÇÃO: veja 集寧區|集宁区
+集宁区 | TRADUÇÃO: Jining, distrito de Ulanqab 烏蘭察布市|乌兰察布市, Mongólia Interior
+集居 | TRADUÇÃO: comunidade/viver junto
+集市 | TRADUÇÃO: mercado; feira; quermesse
+集市贸易 | TRADUÇÃO: comércio de mercado
+集思广益 | TRADUÇÃO: coletar opiniões é de amplo benefício (expressão idiomática); juntar sabedoria para benefício mútuo/lucrar com sugestões generalizadas
+集成 | TRADUÇÃO: integrado (como em circuito integrado)
+集成电路 | TRADUÇÃO: circuito integrado
+集成显卡 | TRADUÇÃO: GPU integrada (abrev. de 集顯|集显)
+集采 | TRADUÇÃO: compra centralizada (abrev. de 集中採購|集中采购)
+集拢 | TRADUÇÃO: reunir/juntar
+集散 | TRADUÇÃO: reunir (mercadorias, passageiros etc de vários locais) e despachar
+集散地 | TRADUÇÃO: centro de distribuição
+集料 | TRADUÇÃO: agregado/material reunido/conglomerado (rochas)
+集会 | TRADUÇÃO: reunir/assembleia/reunião/CL:個|个,次
+集材 | TRADUÇÃO: (silvicultura) extrair madeira; arrastar; empilhar
+集束 | TRADUÇÃO: agrupar
+集束炸弹 | TRADUÇÃO: bomba de fragmentação
+集权 | TRADUÇÃO: poder centralizado (história), e.g. sob um imperador ou partido
+集油箱 | TRADUÇÃO: cárter de óleo
+集注 | TRADUÇÃO: focar/concentrar-se em
+集火 | TRADUÇÃO: (militar, jogos) concentrar fogo em um único alvo
+集管 | TRADUÇÃO: cabeçote (de sistema de tubulação)
+集约 | TRADUÇÃO: intensivo
+集纳 | TRADUÇÃO: coletar/reunir
+集结 | TRADUÇÃO: reunir/concentrar/aglomerar/acumular/aformar
+集线器 | TRADUÇÃO: hub (rede)
+集美 | TRADUÇÃO: veja 集美區|集美区 ‖ (gíria) amiga próxima; maninha (quase homófono de 姐妹)
+集美区 | TRADUÇÃO: Jimei, distrito da cidade de Xiamen 廈門市|厦门市, Fujian
+集群 | TRADUÇÃO: clã/agrupar-se em clã/reunir-se em bando
+集聚 | TRADUÇÃO: reunir; juntar
+集腋成裘 | TRADUÇÃO: muitos pelos fazem um casaco de pele (expressão idiomática); muitas pequenas contribuições somam algo grande/muitos poucos fazem um muito
+集萃 | TRADUÇÃO: tesouro
+集装箱 | TRADUÇÃO: contêiner (para transporte)
+集装箱船 | TRADUÇÃO: navio porta-contêineres
+集训 | TRADUÇÃO: treinar juntos; praticar em grupo
+集贸 | TRADUÇÃO: mercado/comércio
+集资 | TRADUÇÃO: levantar dinheiro/acumular fundos
+集资额 | TRADUÇÃO: montante de dinheiro levantado (em subscrição de ações)
+集贤 | TRADUÇÃO: veja 集賢縣|集贤县
+集贤县 | TRADUÇÃO: Jixian, condado em Shuangyashan 雙鴨山市|双鸭山市, Heilongjiang
+集运 | TRADUÇÃO: transporte cooperativo/carga concentrada
+集部 | TRADUÇÃO: texto não canônico/obra literária chinesa não incluída nos clássicos oficiais/apócrifo
+集邮 | TRADUÇÃO: filatelia/colecionismo de selos
+集邮册 | TRADUÇÃO: álbum de selos/CL:本
+集邮簿 | TRADUÇÃO: álbum de selos/CL:本,冊|册,部
+集录 | TRADUÇÃO: compilar (vários textos) em forma de livro/compilação
+集锦 | TRADUÇÃO: coletânea de itens selecionados (poemas, fotos etc.)
+集镇 | TRADUÇÃO: cidade pequena/vila
+集集 | TRADUÇÃO: Jiji ou Chichi, vila no Condado de Nantou 南投縣|南投县, centro de Taiwan
+集集镇 | TRADUÇÃO: Jiji ou Chichi, vila no Condado de Nantou 南投縣|南投县, centro de Taiwan
+集电弓 | TRADUÇÃO: pantógrafo (transporte)
+集电杆 | TRADUÇÃO: vara de contato (de trólebus)
+集韵 | TRADUÇÃO: Jiyun, dicionário de rimas chinês com 53.525 entradas de caracteres individuais, publicado no século XI
+集显 | TRADUÇÃO: (informática) GPU integrada (abreviação de 集成顯卡|集成显卡)
+集餐 | TRADUÇÃO: refeição comunitária em que cada um se serve de pratos compartilhados na mesa (em oposição a 分餐)
+集体 | TRADUÇÃO: coletivo (decisão)/conjunto (esforço)/grupo/equipe/em massa/em grupo
+集体主义 | TRADUÇÃO: coletivismo
+集体化 | TRADUÇÃO: coletivização/coletivizar
+集体坟墓 | TRADUÇÃO: vala comum/fosso comum
+集体安全条约组织 | TRADUÇÃO: Organização do Tratado de Segurança Coletiva (CSTO)
+集体强奸 | TRADUÇÃO: estupro coletivo
+集体户 | TRADUÇÃO: domicílio coletivo/família conjunta
+集体经济 | TRADUÇÃO: economia coletiva
+集体行走 | TRADUÇÃO: grupo de pedestres (ex.: de turistas etc.)
+集体诉讼 | TRADUÇÃO: (direito) ação coletiva
+集体防护 | TRADUÇÃO: proteção coletiva
+集齐 | TRADUÇÃO: colecionar o conjunto completo de
+雇佣兵 | TRADUÇÃO: (militar) mercenário
+雇员 | TRADUÇÃO: empregado/funcionário
+雈 | TRADUÇÃO: tipo de coruja
+雉 | TRADUÇÃO: faisão-de-coleira
+雉鸡 | TRADUÇÃO: (ave da China) faisão-comum (Phasianus colchicus)
+雉鹑 | TRADUÇÃO: (ave da China) perdigão-monial-de-peito-castanho (Tetraophasis obscurus)
+雊 | TRADUÇÃO: canto do faisão
+隽 | TRADUÇÃO: sobrenome Juan ‖ significativo/profundo ‖ variante de 俊
+隽品 | TRADUÇÃO: obra-prima/trabalho excepcional
+隽妙 | TRADUÇÃO: extremamente elegante
+隽拔 | TRADUÇÃO: formoso (pessoas)/gracioso (caligrafia)
+隽敏 | TRADUÇÃO: refinado e perspicaz
+隽材 | TRADUÇÃO: talento
+隽楚 | TRADUÇÃO: notável/extraordinário/preeminente
+隽永 | TRADUÇÃO: significativo/profundo/importante
+隽茂 | TRADUÇÃO: talento excepcional
+隽语 | TRADUÇÃO: epigrama/discurso significativo ou profundo
+隽誉 | TRADUÇÃO: alta fama
+雌 | TRADUÇÃO: fêmea/pronúncia em Taiwan: [ci1]
+雌三醇 | TRADUÇÃO: estriol
+雌性 | TRADUÇÃO: feminino/fêmea
+雌性接口 | TRADUÇÃO: conector fêmea
+雌性激素 | TRADUÇÃO: estrogênio
+雌激素 | TRADUÇÃO: estrogênio
+雌狮 | TRADUÇÃO: leoa
+雌竞 | TRADUÇÃO: (gíria) competição negativa e tóxica entre mulheres (esp. na busca de favor e aprovação de homens)
+雌蕊 | TRADUÇÃO: pistilo
+雌雄 | TRADUÇÃO: macho e fêmea
+雌雄同体 | TRADUÇÃO: hermafrodita
+雌雄同体人 | TRADUÇÃO: hermafrodita
+雌雄同体性 | TRADUÇÃO: hermafroditismo
+雌雄异色 | TRADUÇÃO: coloração sexual
+雌体 | TRADUÇÃO: fêmea de uma espécie
+雌鹿 | TRADUÇÃO: corça
+雌黄 | TRADUÇÃO: ouro-pigmento/sulfeto de arsênio As2S3/fazer alterações na escrita/malignar/criticar sem fundamento
+雍 | TRADUÇÃO: sobrenome Yong ‖ harmonia ‖ variante antiga de 雍
+雍和 | TRADUÇÃO: harmonia
+雍和宫 | TRADUÇÃO: Templo Yonghe/Templo Lama (Pequim)
+雍容 | TRADUÇÃO: natural/gracioso/e sereno
+雍容大度 | TRADUÇÃO: generoso
+雍正 | TRADUÇÃO: Yongzheng, nome de reinado do imperador Qing (1722-1735)
+雍睦 | TRADUÇÃO: harmonioso/amigável
+雍穆 | TRADUÇÃO: variante de 雍睦
+雍重 | TRADUÇÃO: incômodo/complicado
+雍阏 | TRADUÇÃO: interceptar/impedir a chegada de algo
+雍雍 | TRADUÇÃO: harmonioso/pacífico
+雎 | TRADUÇÃO: águia-pescadora
+雒 | TRADUÇÃO: cavalo preto com crina branca/medroso
+雕像 | TRADUÇÃO: escultura/estátua (entalhada)/CL:尊
+雕刻 | TRADUÇÃO: entalhar/gravar/entalhe/gravura
+雕刻品 | TRADUÇÃO: escultura (obra)
+雕刻家 | TRADUÇÃO: escultor
+雕塑 | TRADUÇÃO: estátua/imagem de Buda/escultura/esculpir
+雕弊 | TRADUÇÃO: variante de 凋敝
+雕敝 | TRADUÇÃO: variante de 凋敝
+雕梁画栋 | TRADUÇÃO: ricamente ornamentado (edifício)
+雕楹碧槛 | TRADUÇÃO: pilar entalhado, soleira de jade (expressão idiomática); ambiente ricamente decorado
+雕栏玉砌 | TRADUÇÃO: (lit.) balaústres entalhados e degraus de jade (expressão idiomática)/(fig.) ricamente ornamentado (edifício)
+雕漆 | TRADUÇÃO: laca entalhada
+雕版 | TRADUÇÃO: bloco de impressão entalhado
+雕琢 | TRADUÇÃO: esculpir/entalhar (jade)/obra de arte ornamentada/prosa excessivamente elaborada
+雕花 | TRADUÇÃO: entalhe/padrão decorativo entalhado/arabesco
+雕落 | TRADUÇÃO: variante de 凋落
+雕虫小技 | TRADUÇÃO: talento insignificante/habilidade de baixo nível/pequena realização
+雕虫篆刻 | TRADUÇÃO: futilidades literárias/habilidade menor
+雕谢 | TRADUÇÃO: variante de 凋謝|凋谢
+雕镌 | TRADUÇÃO: gravar (madeira ou pedra)/entalhar
+雕阑 | TRADUÇÃO: balaústres entalhados
+雕零 | TRADUÇÃO: variante de 凋零
+雕饰 | TRADUÇÃO: entalhar/decorar/entalhado/decorado
+虽 | TRADUÇÃO: embora/apesar de
+虽则 | TRADUÇÃO: no entanto/embora
+虽败犹荣 | TRADUÇÃO: honroso mesmo na derrota (expressão idiomática)
+虽是 | TRADUÇÃO: embora/apesar de/mesmo se
+虽死犹荣 | TRADUÇÃO: lit. embora morto, ainda honrado; morreu com glória
+虽死犹生 | TRADUÇÃO: (expressão idiomática) embora morto, ainda vivo em espírito/ainda conosco em espírito
+虽然 | TRADUÇÃO: embora/mesmo que/apesar de (frequentemente usado correlativamente com 可是 ou 但是 etc.)
+虽说 | TRADUÇÃO: embora/apesar de que
+虽迟但到 | TRADUÇÃO: (gíria) demora para chegar, mas acaba aparecendo
+雗 | TRADUÇÃO: faisão branco
+雘 | TRADUÇÃO: terra vermelha usada para tintas
+双11 | TRADUÇÃO: ver 光棍節|光棍节
+双一流 | TRADUÇÃO: Plano Dupla Primeira Classe, projeto do governo chinês para desenvolver até 2050 um grupo de universidades e disciplinas chinesas de nível mundial, implementado a partir de 2017
+双下巴 | TRADUÇÃO: papada/queixo duplo
+双主修 | TRADUÇÃO: (educação) dupla graduação
+双乳 | TRADUÇÃO: seios
+双人 | TRADUÇÃO: de duas pessoas/duplo/par/em dupla/tandem
+双人包夹 | TRADUÇÃO: (esportes) marcação dupla
+双人床 | TRADUÇÃO: cama de casal
+双人房 | TRADUÇÃO: quarto de casal
+双人滑 | TRADUÇÃO: patinação artística em duplas (dupla artística)
+双人舞 | TRADUÇÃO: dança a dois/pas de deux
+双人间 | TRADUÇÃO: quarto de casal (hotel)
+双休 | TRADUÇÃO: fim de semana de dois dias (abrev. de 雙休日|双休日)
+双休日 | TRADUÇÃO: fim de semana de dois dias
+双倍 | TRADUÇÃO: duplicado/dobro
+双倍体 | TRADUÇÃO: diploide (cromossomos duplicados)
+双侧 | TRADUÇÃO: bilateral/de dois lados
+双元音 | TRADUÇÃO: ditongo
+双光气 | TRADUÇÃO: difosgênio
+双凸面 | TRADUÇÃO: convexo em ambos os lados (de lente)/biconvexo
+双刃 | TRADUÇÃO: lâmina de dois gumes
+双刃剑 | TRADUÇÃO: espada de dois gumes (lit. e fig.)
+双北 | TRADUÇÃO: abrev. para Taipei City 臺北市|台北市 e New Taipei City 新北市 (Taiwan)
+双十一 | TRADUÇÃO: ver 光棍節|光棍节
+双十节 | TRADUÇÃO: Duplo Dez, aniversário da Revolução de Wuchang 武昌起義|武昌起义 de 10 de outubro de 1911/(Taiwan) Dia Nacional
+双名法 | TRADUÇÃO: nomenclatura binomial (taxonomia)
+双后前兵开局 | TRADUÇÃO: Abertura Dupla Dama Fechada (xadrez)/mesmo que 封閉性開局|封闭性开局
+双向 | TRADUÇÃO: bidirecional/de duas vias/interativo
+双唇音 | TRADUÇÃO: consoante bilabial (b, p ou m)
+双唑泰栓 | TRADUÇÃO: supositório de metronidazol, clotrimazol e acetato de clorexidina
+双喜 | TRADUÇÃO: felicidade dupla/o caractere simétrico combinado 囍 (similar a 喜喜) como símbolo de boa sorte, especialmente casamento
+双喜临门 | TRADUÇÃO: duas felicidades simultâneas na família
+双城 | TRADUÇÃO: ver 雙城區|双城区
+双城区 | TRADUÇÃO: Shuangcheng, um distrito da cidade de Harbin 哈爾濱市|哈尔滨市, Heilongjiang
+双城子 | TRADUÇÃO: Shuangchengzi, antigo nome da cidade de Ussuriisk na região russa de Primorsky, no Pacífico
+双城记 | TRADUÇÃO: Um Conto de Duas Cidades, de Charles Dickens 查爾斯·狄更斯|查尔斯·狄更斯
+双塔 | TRADUÇÃO: ver 雙塔區|双塔区
+双塔区 | TRADUÇÃO: Shuangta, um distrito da cidade de Chaoyang 朝陽市|朝阳市, Liaoning
+双套 | TRADUÇÃO: conjunto duplo/diploide
+双子 | TRADUÇÃO: Gêmeos (signo)
+双子座 | TRADUÇÃO: Gêmeos (constelação e signo do zodíaco)
+双子星 | TRADUÇÃO: (astronomia) estrela binária/(fig.) duas entidades proeminentes consideradas um par (frequentemente complementares ou rivais)
+双子叶 | TRADUÇÃO: dicotiledônea (família de plantas com dois cotilédones, incluindo margaridas, árvores de folhas largas, plantas herbáceas)
+双孢蘑菇 | TRADUÇÃO: cogumelo cultivado; champignon (Agaricus bisporus)
+双学位 | TRADUÇÃO: dupla titulação (acadêmico)
+双宿双飞 | TRADUÇÃO: lit. descansar e voar juntos (expressão idiomática)/fig. viver grudados/ser inseparáveis
+双射 | TRADUÇÃO: (mat.) bijeção
+双层 | TRADUÇÃO: de dois andares/dois níveis
+双层公共汽车 | TRADUÇÃO: ônibus de dois andares
+双层巴士 | TRADUÇÃO: ônibus de dois andares
+双层床 | TRADUÇÃO: beliche
+双峰 | TRADUÇÃO: ver 雙峰縣|双峰县 ‖ seios
+双峰县 | TRADUÇÃO: Shuangfeng, um condado na cidade de Loudi 婁底市|娄底市, Hunan
+双峰镇 | TRADUÇÃO: Twin Peaks, série de TV americana de 1990-1991
+双床房 | TRADUÇÃO: quarto com duas camas de solteiro
+双引号 | TRADUÇÃO: aspas duplas
+双复磷 | TRADUÇÃO: cloreto de obidoxima/toxogonina
+双性恋 | TRADUÇÃO: bissexual/bissexualidade
+双截棍 | TRADUÇÃO: variante de 雙節棍|双节棍
+双手 | TRADUÇÃO: ambas as mãos
+双打 | TRADUÇÃO: duplas (em esportes)/CL:場|场
+双抽 | TRADUÇÃO: molho de soja escuro
+双拐 | TRADUÇÃO: muletas
+双拼 | TRADUÇÃO: combo de dois itens (geralmente comida, especialmente dois tipos de carne servidos com arroz ou macarrão)/(imobiliário) duplex; geminado/(informática) pinyin duplo (método de entrada em que cada sílaba é digitada com no máximo dois toques: um para a consoante inicial e um para a final)
+双拥 | TRADUÇÃO: apoio mútuo entre militares e civis – especificamente, apoio de civis e autoridades locais aos militares e tratamento preferencial às famílias de soldados, de um lado, e apoio dos militares ao governo e cuidado com o público em geral, do outro
+双击 | TRADUÇÃO: (informática) clicar duas vezes/duplo clique
+双摆 | TRADUÇÃO: pêndulo duplo (mat.)
+双数 | TRADUÇÃO: número par
+双斑绿柳莺 | TRADUÇÃO: (espécie de ave da China) felosa-de-duas-barras (Phylloscopus plumbeitarsus)
+双方 | TRADUÇÃO: bilateral/ambos os lados/ambas as partes envolvidas
+双方同意 | TRADUÇÃO: acordo bilateral
+双旦 | TRADUÇÃO: Natal e Ano Novo
+双星 | TRADUÇÃO: estrela dupla
+双曲 | TRADUÇÃO: hipérbole/hiperbólico (função)
+双曲几何 | TRADUÇÃO: geometria hiperbólica
+双曲抛物面 | TRADUÇÃO: (geometria) paraboloide hiperbólico
+双曲拱桥 | TRADUÇÃO: ponte em arco duplo
+双曲正弦 | TRADUÇÃO: seno hiperbólico ou sinh (mat.)
+双曲线 | TRADUÇÃO: hipérbole
+双曲线正弦 | TRADUÇÃO: seno hiperbólico ou sinh (mat.)
+双曲面 | TRADUÇÃO: (mat.) hiperboloide
+双曲余割 | TRADUÇÃO: cossecante hiperbólica, i.e., função cosech(x)
+双曲余弦 | TRADUÇÃO: cosseno hiperbólico ou cosh (mat.)
+双月刊 | TRADUÇÃO: publicação bimestral
+双柏 | TRADUÇÃO: ver 雙柏縣|双柏县
+双柏县 | TRADUÇÃO: Shuangbai, um condado na Prefeitura Autônoma Yi de Chuxiong 楚雄彝族自治州, Yunnan
+双核 | TRADUÇÃO: dual core (informática)
+双栖双宿 | TRADUÇÃO: ver 雙宿雙飛|双宿双飞
+双极 | TRADUÇÃO: bipolar
+双杠 | TRADUÇÃO: barras paralelas (ginástica)
+双标 | TRADUÇÃO: padrão duplo (abrev. de 雙重標準|双重标准)
+双桥 | TRADUÇÃO: ver 雙橋區|双桥区
+双桥区 | TRADUÇÃO: Shuangqiao, um distrito da cidade de Chengde 承德市, Hebei
+双壳类 | TRADUÇÃO: (zoologia) bivalve
+双氧水 | TRADUÇÃO: água oxigenada (solução de H₂O₂)
+双氢睾酮 | TRADUÇÃO: di-hidrotestosterona
+双氯灭痛 | TRADUÇÃO: diclofenaco (analgésico)/também chamado 扶他林
+双氯芬酸钠 | TRADUÇÃO: diclofenaco sódico, um anti-inflamatório não esteroidal usado para reduzir inchaço e como analgésico/também chamado voltaren 扶他林
+双氯醇胺 | TRADUÇÃO: clenbuterol
+双江 | TRADUÇÃO: ver 雙江拉祜族佤族布朗族傣族自治縣
+双江拉祜族佤族布朗族傣族自治县 | TRADUÇÃO: Condado Autônomo Shuangjiang Lahu, Va, Blang e Dai, na cidade de Lincang, em Yunnan
+双江县 | TRADUÇÃO: ver 雙江拉祜族佤族布朗族傣族自治縣
+双流 | TRADUÇÃO: Shuangliu, condado em Chengdu, Sichuan/principal aeroporto de Chengdu
+双流区 | TRADUÇÃO: Shuangliu, distrito da cidade de Chengdu, Sichuan
+双清 | TRADUÇÃO: ver 雙清區
+双清区 | TRADUÇÃO: Shuangqing, distrito da cidade de Shaoyang, Hunan
+双减 | TRADUÇÃO: (RPC) Política de Dupla Redução, anunciada em 2021, visando aliviar a pressão sobre alunos do ensino básico, reduzindo tarefas de casa e proibindo aulas particulares com fins lucrativos
+双湖 | TRADUÇÃO: ver 雙湖縣
+双湖县 | TRADUÇÃO: Shuanghu, condado na cidade de Nagqu, Tibete
+双溪 | TRADUÇÃO: Shuangxi, município na Nova Taipei, Taiwan
+双溪乡 | TRADUÇÃO: Shuangxi, município na Nova Taipei, Taiwan
+双滦 | TRADUÇÃO: ver 雙灤區
+双滦区 | TRADUÇÃO: Shuangluan, distrito da cidade de Chengde, Hebei
+双牌 | TRADUÇÃO: ver 雙牌縣
+双牌县 | TRADUÇÃO: Shuangpai, condado na cidade de Yongzhou, Hunan
+双独 | TRADUÇÃO: (política de) dupla e única/dispensa especial para ter segundo filho
+双独夫妇 | TRADUÇÃO: casal com dispensa especial para ter segundo filho
+双球菌 | TRADUÇÃO: diplococo
+双生 | TRADUÇÃO: gêmeo (atributivo)/gêmeos
+双生兄弟 | TRADUÇÃO: irmãos gêmeos
+双百方针 | TRADUÇÃO: refere-se ao Movimento das Cem Flores com seu lema "Que cem flores desabrochem, que cem escolas de pensamento disputem"
+双盲 | TRADUÇÃO: duplo-cego (experimento científico)
+双眸 | TRADUÇÃO: os dois olhos (de uma pessoa)
+双眼 | TRADUÇÃO: os dois olhos
+双眼皮 | TRADUÇÃO: pálpebra dupla
+双眼视觉 | TRADUÇÃO: visão binocular
+双瞳剪水 | TRADUÇÃO: (expressão idiomática) olhos claros e brilhantes
+双瞳翦水 | TRADUÇÃO: variante de 雙瞳剪水
+双碳 | TRADUÇÃO: "carbono duplo", i.e., pico de carbono e neutralidade de carbono/política de carbono duplo da China, anunciada em 2020, que visa atingir o pico de carbono até 2030 e a neutralidade de carbono até 2060
+双程 | TRADUÇÃO: de volta/viagem de ida e volta/bidirecional/dupla passagem
+双稳 | TRADUÇÃO: biestável
+双立人 | TRADUÇÃO: J. A. Henckels (marca)
+双筒望远镜 | TRADUÇÃO: binóculos
+双管 | TRADUÇÃO: de cano duplo
+双管齐下 | TRADUÇÃO: lit. pintar segurando dois pincéis (expressão idiomática); fig. trabalhar em duas tarefas ao mesmo tempo/atacar um problema por dois ângulos simultaneamente
+双节 | TRADUÇÃO: Festival do Meio do Outono combinado com o Dia Nacional (quando cai em 1º de outubro, como em 1982, 2001 e 2020)/binodal/de duas seções
+双节棍 | TRADUÇÃO: nunchaku
+双节棍道 | TRADUÇÃO: arte marcial do nunchaku
+双簧 | TRADUÇÃO: forma de número teatral duplo em que um artista fala ou canta enquanto o outro, na frente, finge fazê-lo/palheta dupla (como em oboé ou fagote)
+双簧管 | TRADUÇÃO: instrumento de sopro de palheta dupla (como oboé ou fagote)
+双糖 | TRADUÇÃO: dissacarídeo
+双绞线 | TRADUÇÃO: par trançado (cabeamento)
+双翅目 | TRADUÇÃO: Díptera (ordem de insetos que inclui moscas)
+双翼飞机 | TRADUÇÃO: biplano
+双职工 | TRADUÇÃO: casal de trabalhadores (marido e mulher ambos empregados)
+双肩包 | TRADUÇÃO: mochila
+双胞胎 | TRADUÇÃO: gêmeo(s)/CL:對|对
+双脚 | TRADUÇÃO: duas pernas/ambos os pés
+双脚架 | TRADUÇÃO: bipé (que apoia metralhadora etc.)
+双腿 | TRADUÇÃO: pernas/ambas as pernas/duas pernas
+双膝 | TRADUÇÃO: ambos os joelhos
+双臂 | TRADUÇÃO: braços/ambos os braços/dois braços
+双臂抱胸 | TRADUÇÃO: de braços cruzados
+双台子 | TRADUÇÃO: ver 雙臺子區
+双台子区 | TRADUÇÃO: Shuangtaizi, distrito da cidade de Panjin, Liaoning
+双蕊兰 | TRADUÇÃO: orquídea de dois estames (Diplandrorchis sinica), espécie ameaçada
+双号 | TRADUÇÃO: número par (em bilhete, casa etc.)
+双规 | TRADUÇÃO: shuanggui, sistema extrajudicial do PCC para deter e interrogar quadros que caem em desgraça
+双亲 | TRADUÇÃO: ambos os pais
+双角犀 | TRADUÇÃO: rinoceronte de dois chifres/Dicerorhinini
+双角犀鸟 | TRADUÇÃO: (espécie de ave da China) calau bicórnio-grande (Buceros bicornis)
+双语 | TRADUÇÃO: bilíngue
+双误 | TRADUÇÃO: dupla falta (no tênis)
+双赢 | TRADUÇÃO: lucrativo para ambos os lados/situação ganha-ganha
+双足 | TRADUÇÃO: ambos os pés/bípede
+双轨 | TRADUÇÃO: de trilho duplo; trilhos paralelos; sistema de via dupla
+双输 | TRADUÇÃO: situação perde-perde/(dos dois lados envolvidos) ambos saírem em desvantagem
+双辫八色鸫 | TRADUÇÃO: (espécie de ave da China) pita-orelhuda (Hydrornis phayrei)
+双连接站 | TRADUÇÃO: estação de conexão dupla
+双周期性 | TRADUÇÃO: (mat.) periodicidade dupla
+双进双出 | TRADUÇÃO: estar juntos constantemente (expressão idiomática)
+双辽 | TRADUÇÃO: ver 雙遼市
+双辽市 | TRADUÇÃO: Shuangliao, cidade a nível de condado em Siping, Jilin
+双边 | TRADUÇÃO: bilateral
+双边贸易 | TRADUÇÃO: comércio bilateral
+双酚A | TRADUÇÃO: bisfenol A (BPA)
+双重 | TRADUÇÃO: duplo
+双重国籍 | TRADUÇÃO: dupla cidadania
+双重标准 | TRADUÇÃO: padrão duplo
+双键 | TRADUÇÃO: ligação dupla (química)
+双链 | TRADUÇÃO: fita dupla
+双链核酸 | TRADUÇÃO: ácido nucleico de fita dupla
+双开 | TRADUÇÃO: expulsar alguém do Partido e do cargo público (expulsão do Partido e exoneração do cargo público)
+双开门 | TRADUÇÃO: porta dupla
+双关 | TRADUÇÃO: trocadilho/jogo de palavras
+双关语 | TRADUÇÃO: trocadilho/frase com duplo sentido
+双陆棋 | TRADUÇÃO: gamão
+双阳 | TRADUÇÃO: ver 雙陽區
+双阳区 | TRADUÇÃO: Shuangyang, distrito da cidade de Changchun, Jilin
+双双 | TRADUÇÃO: ambos; juntos (usado para indicar que duas pessoas ou coisas fazem a mesma coisa simultaneamente)
+双非 | TRADUÇÃO: casal em que ambos os cônjuges não são cidadãos de Hong Kong
+双面 | TRADUÇÃO: dupla-face/de duas caras/de dois gumes/reversível
+双面人 | TRADUÇÃO: pessoa de duas caras
+双面胶 | TRADUÇÃO: fita adesiva dupla-face
+双音节 | TRADUÇÃO: palavra bissílaba
+双飞 | TRADUÇÃO: voar em par / união próxima como marido e mulher / voo de ida e volta / (gíria) ménage à trois
+双马尾 | TRADUÇÃO: (penteado) duas maria-chiquinhas / rabos de cavalo duplos / maria-chiquinha
+双体船 | TRADUÇÃO: catamarã
+双髻鲨 | TRADUÇÃO: tubarão-martelo
+双鱼 | TRADUÇÃO: Peixes (signo do zodíaco)
+双鱼座 | TRADUÇÃO: Peixes (constelação e signo do zodíaco)
+双鸭山 | TRADUÇÃO: ver 雙鴨山市|双鸭山市
+双鸭山市 | TRADUÇÃO: Shuangyashan, cidade de nível de prefeitura na província de Heilongjiang 黑龍江省|黑龙江省
+双黄蛋 | TRADUÇÃO: ovo de gema dupla
+双龙大裂谷 | TRADUÇÃO: Desfiladeiro Shuanglong, no Parque Geológico Nacional do Monte Xiong'er 熊耳山, em Zaozhuang 棗莊|枣庄, Shandong
+雚 | TRADUÇÃO: (arcaico) cegonha / garça ‖ variante de 萑
+雚菌 | TRADUÇÃO: tipo de fungo venenoso que cresce em juncos, usado na medicina chinesa para ajudar a tratar pacientes com ascaris (vermes parasitas)
+雏 | TRADUÇÃO: (forma presa) filhote de ave; ave jovem
+雏儿 | TRADUÇÃO: ave recém-nascida / fig. pessoa inexperiente / fig. gatinha (termo depreciativo para mulher jovem) / bimbo
+雏型 | TRADUÇÃO: modelo
+雏妓 | TRADUÇÃO: prostituta menor de idade
+雏形 | TRADUÇÃO: forma embrionária / modelo em miniatura
+雏形土 | TRADUÇÃO: cambissolo (taxonomia de solos)
+雏形产品 | TRADUÇÃO: protótipo
+雏燕 | TRADUÇÃO: filhote de andorinha
+雏菊 | TRADUÇÃO: margarida
+雏菊花环 | TRADUÇÃO: colar de margaridas / trança em cadeia
+雏鸡 | TRADUÇÃO: pinto / frango recém-nascido
+雏凤 | TRADUÇÃO: lit. fênix em embrião / fig. jovem talento / gênio em formação
+雏鸽 | TRADUÇÃO: pombinho / pombo filhote
+杂七杂八 | TRADUÇÃO: uma mistura / um pouco de tudo / de todo tipo (habilidades diferentes)
+杂乱 | TRADUÇÃO: em bagunça / em confusão / caótico
+杂乱无章 | TRADUÇÃO: desordenado e sem organização (expressão idiomática); todo misturado e caótico
+杂事 | TRADUÇÃO: tarefas diversas; vários afazeres
+杂交 | TRADUÇÃO: hibridizar / cruzar / promiscuidade
+杂交植物 | TRADUÇÃO: planta híbrida
+杂交派对 | TRADUÇÃO: festa de sexo / orgia
+杂件 | TRADUÇÃO: mercadorias diversas
+杂件儿 | TRADUÇÃO: mercadorias diversas
+杂剧 | TRADUÇÃO: forma de teatro musical da dinastia Yuan
+杂剧四大家 | TRADUÇÃO: Quatro Grandes Dramaturgos Yuan, a saber: Guan Hanqing 關漢卿|关汉卿, Zheng Guangzu 鄭光祖|郑光祖, Ma Zhiyuan 馬致遠|马致远 e Bai Pu 白樸|白朴
+杂务 | TRADUÇÃO: tarefas avulsas; trabalhos diversos
+杂和面 | TRADUÇÃO: farinha de milho misturada com um pouco de farinha de soja
+杂和面儿 | TRADUÇÃO: variante erhua de 雜和麵|杂和面
+杂噪 | TRADUÇÃO: alarido / barulheira
+杂多 | TRADUÇÃO: ver 雜多縣|杂多县
+杂多县 | TRADUÇÃO: Zadoi, condado na Prefeitura Autônoma Tibetana de Yushu 玉樹藏族自治州|玉树藏族自治州, Qinghai
+杂婚 | TRADUÇÃO: casamento misto
+杂家 | TRADUÇÃO: Escola Diversa do Período dos Reinos Combatentes (475-221 a.C.), cujo principal defensor foi Lü Buwei 呂不韋|吕不韦
+杂居 | TRADUÇÃO: coabitação (de diferentes populações ou raças) / coexistir
+杂居地区 | TRADUÇÃO: área de habitação mista
+杂工 | TRADUÇÃO: trabalhador não especializado
+杂店 | TRADUÇÃO: loja de conveniência; loja de variedades
+杂役 | TRADUÇÃO: biscates / trabalhador de meio período
+杂念 | TRADUÇÃO: pensamentos perturbadores
+杂感 | TRADUÇÃO: reflexões aleatórias (um gênero literário)
+杂戏 | TRADUÇÃO: acrobacia / entretenimento em festivais folclóricos
+杂技 | TRADUÇÃO: acrobacia / CL:場|场
+杂技演员 | TRADUÇÃO: acrobata
+杂拌 | TRADUÇÃO: sortimento de frutas cristalizadas / (fig.) amontoado
+杂拌儿 | TRADUÇÃO: variante erhua de 雜拌|杂拌
+杂文 | TRADUÇÃO: ensaio
+杂沓 | TRADUÇÃO: artesão insignificante (pejorativo) / barulho (ex.: de passos) / massa confusa / aglomeração de corpos / tumulto
+杂活 | TRADUÇÃO: biscates
+杂流 | TRADUÇÃO: artesão insignificante (pejorativo)
+杂凑 | TRADUÇÃO: juntar várias peças / montar algo às pressas / hash (computação) / ver também 散列
+杂烩 | TRADUÇÃO: cozido / (fig.) coletânea disparatada
+杂牌 | TRADUÇÃO: marca inferior; marca pouco conhecida
+杂牌儿 | TRADUÇÃO: variante erhua de 雜牌|杂牌
+杂牌军 | TRADUÇÃO: tropas diversas; tropas irregulares; tropas de lealdades variadas / pessoal não certificado
+杂物 | TRADUÇÃO: quinquilharia / itens sem valor / vários cacarecos
+杂环 | TRADUÇÃO: heterocíclico (química)
+杂碎 | TRADUÇÃO: miúdos / miúdos cozidos picados / chop suey (prato sino-americano) / informação incoerente / (pejorativo) babaca / filho da puta
+杂税 | TRADUÇÃO: direitos diversos / vários impostos
+杂种 | TRADUÇÃO: híbrido / mestiço / bastardo / filho da puta
+杂糅 | TRADUÇÃO: misturar elementos heterogêneos (de diferentes fontes, sistemas, estilos ou gêneros) / (linguística) combinar padrões frasais incompatíveis, resultando em expressão estranha ou pouco clara
+杂粮 | TRADUÇÃO: cultivos de grãos além de arroz e trigo
+杂耍 | TRADUÇÃO: atração secundária / vaudeville / malabarismo
+杂色 | TRADUÇÃO: varicolores / matizado
+杂色噪鹛 | TRADUÇÃO: (espécie de ave da China) tagarela-variegado (Trochalopteron variegatum)
+杂色山雀 | TRADUÇÃO: (espécie de ave da China) chapim-variado (Sittiparus varius)
+杂草 | TRADUÇÃO: ervas daninhas
+杂处 | TRADUÇÃO: (de elementos díspares) misturar-se uns com os outros / (de grupos diversos de pessoas) viver na mesma área / coexistir
+杂讯 | TRADUÇÃO: (Taiwan) (eletrônica) ruído; interferência
+杂记 | TRADUÇÃO: várias anotações ou registros / miscelânea / garatujas esparsas
+杂志 | TRADUÇÃO: revista / CL:本,份,期
+杂志社 | TRADUÇÃO: editora de revista
+杂说 | TRADUÇÃO: ensaios esparsos / várias opiniões / diferentes maneiras de falar
+杂谈 | TRADUÇÃO: discussão de vários tópicos
+杂谷脑 | TRADUÇÃO: Rio Zagunao em Sichuan, afluente do Rio Min 岷江
+杂货 | TRADUÇÃO: mantimentos / mercadorias diversas
+杂货商 | TRADUÇÃO: merceeiro
+杂货店 | TRADUÇÃO: mercearia / empório
+杂货摊 | TRADUÇÃO: barraca que vende vários artigos
+杂费 | TRADUÇÃO: custos incidentais / extras / gastos diversos
+杂质 | TRADUÇÃO: impureza
+杂遝 | TRADUÇÃO: variante de 雜沓|杂沓
+杂配 | TRADUÇÃO: misturar / hibridizar
+杂录 | TRADUÇÃO: miscelânea literária / varia
+杂集 | TRADUÇÃO: miscelânea / pot-pourri
+杂音 | TRADUÇÃO: ruído
+杂项 | TRADUÇÃO: diversos
+杂食 | TRADUÇÃO: onívoro (zoologia) / lanches / dieta variada
+杂食动物 | TRADUÇÃO: onívoro
+杂盐 | TRADUÇÃO: carnallita (mineral hidratado de cloreto de potássio e magnésio)
+鸡 | TRADUÇÃO: galinha/galo/ave doméstica/CL:隻|只/(gíria) prostituta ‖ variante de 雞|鸡
+鸡丁 | TRADUÇÃO: frango em cubos
+鸡儿 | TRADUÇÃO: pintinho; filhote de galinha/(vulgar) pênis
+鸡内金 | TRADUÇÃO: membrana do ventrículo de galinha
+鸡公 | TRADUÇÃO: (dialeto) galo
+鸡冠 | TRADUÇÃO: ver 雞冠區|鸡冠区 ‖ crista (de galo)
+鸡冠区 | TRADUÇÃO: Jiguan, distrito da cidade de Jixi 雞西市|鸡西市, Heilongjiang
+鸡冠花 | TRADUÇÃO: crista-de-galo/Celosia cristata
+鸡冻 | TRADUÇÃO: geleia de frango/(gíria da internet) emocionante (trocadilho com 激動|激动)
+鸡同鸭讲 | TRADUÇÃO: lit. galinha conversando com pato/fig. falar sem se comunicar/pessoas que não se entendem
+鸡块 | TRADUÇÃO: nugget de frango/pedaço de frango
+鸡奸 | TRADUÇÃO: variante de 雞姦|鸡奸 ‖ sodomia; relação anal
+鸡娃 | TRADUÇÃO: (neologismo, c. 2020) submeter o filho a uma rotina intensiva de atividades para maximizar seu desempenho/criança submetida a tal regime/(dialeto) pintinho
+鸡婆 | TRADUÇÃO: (dialeto) galinha; prostituta/(Taiwan) (adjetivo) intrometido; fofoqueiro; (substantivo) pessoa intrometida (do taiwanês 家婆, Tai-lo pr. [ke-pô])
+鸡子儿 | TRADUÇÃO: (coloq.) ovo de galinha
+鸡尾酒 | TRADUÇÃO: (empréstimo semântico) coquetel
+鸡尾锯 | TRADUÇÃO: serra de furo/serra de ponta
+鸡巴 | TRADUÇÃO: pênis (vulgar)
+鸡年 | TRADUÇÃO: Ano do Galo (ex.: 2005)
+鸡心领 | TRADUÇÃO: (de roupa) decote em V
+鸡扒 | TRADUÇÃO: ver 雞排|鸡排
+鸡排 | TRADUÇÃO: peito de frango/file de frango empanado
+鸡掰 | TRADUÇÃO: (Taiwan) (vulgar) vagina (do taiwanês 膣屄, Tai-lo pr. [tsi-bai])/(gíria) enrolar; (usado como intensificador) maldito; fodido
+鸡东 | TRADUÇÃO: ver 雞東縣|鸡东县
+鸡东县 | TRADUÇÃO: Jidong, condado na cidade de Jixi 雞西市|鸡西市, Heilongjiang
+鸡架 | TRADUÇÃO: (dialeto) carcaça de frango usada para cozinhar
+鸡柳 | TRADUÇÃO: tiras de frango; filés de frango
+鸡柳条 | TRADUÇÃO: (Taiwan) tiras de frango
+鸡枞 | TRADUÇÃO: cogumelo macrolepiota, nativo da província de Yunnan
+鸡母 | TRADUÇÃO: (dialeto) galinha
+鸡母虫 | TRADUÇÃO: larva de besouro
+鸡毛 | TRADUÇÃO: pena de galinha/CL:根/trivial
+鸡毛店 | TRADUÇÃO: pousada simples com apenas penas de galinha para dormir
+鸡毛蒜皮 | TRADUÇÃO: lit. penas de galinha e cascas de alho (expressão idiomática)/fig. assunto trivial
+鸡汤 | TRADUÇÃO: caldo de galinha/canja de galinha/(fig.) autoajuda sentimental (uso depreciativo)
+鸡泽 | TRADUÇÃO: ver 雞澤縣|鸡泽县
+鸡泽县 | TRADUÇÃO: Jize, condado na cidade de Handan 邯鄲市|邯郸市, Hebei
+鸡爪 | TRADUÇÃO: pé de galinha
+鸡犬不宁 | TRADUÇÃO: lit. nem as galinhas e os cães ficam tranquilos (expressão idiomática)/fig. grande confusão/pandemônio
+鸡犬不留 | TRADUÇÃO: (lit.) nem galinhas nem cães são poupados (expressão idiomática)/(fig.) massacre em massa
+鸡犬升天 | TRADUÇÃO: (lit.) (quando uma pessoa atinge a iluminação), até suas galinhas e cães ascendem ao céu (expressão idiomática)/(fig.) (quando alguém alcança poder), seus parentes e amigos também se beneficiam
+鸡珍 | TRADUÇÃO: moela de galinha (culinária)
+鸡皮疙瘩 | TRADUÇÃO: arrepios na pele/pele de galinha
+鸡眼 | TRADUÇÃO: calo (no pé)
+鸡窝 | TRADUÇÃO: galinheiro/(gíria) bordel
+鸡米花 | TRADUÇÃO: nuggets de frango/pipoca de frango
+鸡精 | TRADUÇÃO: caldo de galinha em pó (China)/essência de galinha, concentrado vendido como tônico (Taiwan)
+鸡翅 | TRADUÇÃO: asa de galinha
+鸡翅木 | TRADUÇÃO: pau-preto; wengue (tipo de madeira)
+鸡肉 | TRADUÇÃO: carne de frango
+鸡肋 | TRADUÇÃO: costela de galinha; (fig.) algo de pouco valor mas difícil de descartar
+鸡胸 | TRADUÇÃO: peito de frango/(medicina) peito de pombo (pectus carinatum)
+鸡胸肉 | TRADUÇÃO: peito de frango
+鸡脚 | TRADUÇÃO: pé de galinha
+鸡腿 | TRADUÇÃO: coxa de frango; sobrecoxa/CL:根
+鸡腿菇 | TRADUÇÃO: cogumelo juba-de-leão (comestível)/Coprinus comatus
+鸡舍 | TRADUÇÃO: galinheiro
+鸡菇 | TRADUÇÃO: ver 雞腿菇|鸡腿菇
+鸡蛋 | TRADUÇÃO: ovo (de galinha)/CL:個|个,打
+鸡蛋果 | TRADUÇÃO: maracujá (Passiflora edulis)
+鸡蛋壳儿 | TRADUÇÃO: casca de ovo
+鸡蛋清 | TRADUÇÃO: clara de ovo
+鸡蛋炒饭 | TRADUÇÃO: arroz frito com ovo
+鸡蛋碰石头 | TRADUÇÃO: lit. um ovo colidindo com uma pedra (expressão idiomática)/fig. atacar alguém mais forte/sobrestimar as próprias capacidades
+鸡蛋里挑骨头 | TRADUÇÃO: procurar osso em ovo/procurar defeitos/criar caso (expressão idiomática)
+鸡血石 | TRADUÇÃO: sangue-de-dragão/calcedônia com manchas vermelhas/heliotrópio (mineralogia)
+鸡西 | TRADUÇÃO: ver 雞西市|鸡西市
+鸡西市 | TRADUÇÃO: Jixi, cidade de nível de prefeitura na província de Heilongjiang 黑龍江省|黑龙江省
+鸡贼 | TRADUÇÃO: (dialeto) avarento/mesquinho/astuto/manhoso
+鸡鸡 | TRADUÇÃO: pênis (linguagem infantil)
+鸡零狗碎 | TRADUÇÃO: em pedaços/fragmentado
+鸡霍乱 | TRADUÇÃO: cólera aviária
+鸡头米 | TRADUÇÃO: semente de Gorgão/Euryale ferox (botânica)/ver também 芡實|芡实
+鸡飞狗跳 | TRADUÇÃO: lit. galinhas voando e cães pulando (expressão idiomática)/fig. em caos/desordem
+鸡飞蛋打 | TRADUÇÃO: a galinha voou e os ovos quebraram/perda total (expressão idiomática)
+鸡鸣狗盗 | TRADUÇÃO: cantar como galo e roubar como cão (expressão idiomática)/truques variados/talentos úteis
+鸡鹜 | TRADUÇÃO: pessoas mesquinhas ou vis
+雟 | TRADUÇÃO: pardal/girar/nome de lugar
+离不开 | TRADUÇÃO: inseparável/inevitavelmente ligado a
+离世 | TRADUÇÃO: (arcaico) viver em reclusão/falecer
+离乳 | TRADUÇÃO: ser desmamado/desmame
+离乱 | TRADUÇÃO: perturbação social causada por guerra ou fome etc.
+离任 | TRADUÇÃO: deixar o cargo/afastar-se do posto
+离休 | TRADUÇÃO: aposentar-se/deixar o trabalho e descansar (eufemismo para aposentadoria compulsória de quadros antigos)
+离别 | TRADUÇÃO: despedir-se (numa longa viagem)/separar-se de alguém
+离去 | TRADUÇÃO: sair/partir
+离合 | TRADUÇÃO: embreagem (no câmbio)/separação e reencontro
+离合器 | TRADUÇÃO: embreagem (mecânica)
+离合板 | TRADUÇÃO: pedal da embreagem
+离合词 | TRADUÇÃO: palavra separável (na gramática chinesa)
+离型纸 | TRADUÇÃO: papel liberante; liner
+离场 | TRADUÇÃO: sair do local; (de atleta) sair de campo; (de investidor) sair do mercado; (de aeronave) partir
+离境 | TRADUÇÃO: sair de um país (ou lugar)
+离奇 | TRADUÇÃO: estranho; bizarro
+离婚 | TRADUÇÃO: divorciar-se
+离子 | TRADUÇÃO: íon
+离子交换 | TRADUÇÃO: troca iônica
+离子键 | TRADUÇÃO: ligação iônica (química)
+离宫 | TRADUÇÃO: palácio isolado/vila imperial
+离家出走 | TRADUÇÃO: sair de casa (para ir morar em outro lugar)
+离岸 | TRADUÇÃO: offshore/ao largo
+离岸价 | TRADUÇÃO: livre a bordo (FOB) (transporte)
+离峰 | TRADUÇÃO: (Taiwan) fora do horário de pico
+离岛 | TRADUÇÃO: ilhas periféricas
+离岛区 | TRADUÇÃO: Distrito das Ilhas, nos Novos Territórios, Hong Kong
+离心 | TRADUÇÃO: estar em desacordo com/centrífugo (força)
+离心分离机 | TRADUÇÃO: centrífuga
+离心力 | TRADUÇÃO: força centrífuga
+离心机 | TRADUÇÃO: centrífuga
+离情别绪 | TRADUÇÃO: sentimento triste na separação (expressão idiomática)
+离愁 | TRADUÇÃO: tristeza da despedida/dor da separação
+离散 | TRADUÇÃO: (de membros da família) separados uns dos outros; dispersos/(mat.) discreto
+离散性 | TRADUÇÃO: discrição
+离散数学 | TRADUÇÃO: matemática discreta
+离弃 | TRADUÇÃO: abandonar
+离歌 | TRADUÇÃO: canção de despedida (triste)
+离港 | TRADUÇÃO: deixar o porto/partida (no aeroporto)
+离港大厅 | TRADUÇÃO: saguão de partida
+离独 | TRADUÇÃO: estar divorciado
+离异 | TRADUÇÃO: divorciar-se
+离石 | TRADUÇÃO: veja 離石區|离石区
+离石区 | TRADUÇÃO: Lishi, distrito da cidade de Lüliang 呂梁市|吕梁市, Shanxi
+离索 | TRADUÇÃO: (literário) desolado e solitário
+离经叛道 | TRADUÇÃO: rebelar-se contra a ortodoxia/desviar-se das práticas estabelecidas
+离线 | TRADUÇÃO: (informática) offline
+离职 | TRADUÇÃO: sair do emprego temporariamente (p. ex. para estudar)/deixar o emprego; pedir demissão
+离苦得乐 | TRADUÇÃO: abandonar o sofrimento e obter a felicidade (budismo)
+离谱 | TRADUÇÃO: inapropriado; impróprio; fora de lugar
+离谱儿 | TRADUÇÃO: forma erhua de 離譜|离谱
+离贰 | TRADUÇÃO: desertar/ser desleal
+离乡背井 | TRADUÇÃO: deixar a terra natal (para encontrar trabalho, fugir de desastre etc.)
+离开 | TRADUÇÃO: partir; sair
+离开人世 | TRADUÇÃO: morrer/deixar este mundo
+离间 | TRADUÇÃO: semear discórdia entre (aliados, parceiros etc.)
+离队 | TRADUÇÃO: deixar o posto
+离离光光 | TRADUÇÃO: olhar baço e sem brilho
+离题 | TRADUÇÃO: divagar; desviar-se do assunto
+离骚 | TRADUÇÃO: Encontrando a Tristeza, poema de Qu Yuan 屈原 nos Cantos de Chu 楚辭|楚辞
+难 | TRADUÇÃO: difícil (de...)/problema/dificuldade/difícil/não bom ‖ desastre/aflição/repreender
+难上加难 | TRADUÇÃO: extremamente difícil/ainda mais difícil
+难上难 | TRADUÇÃO: extremamente difícil/ainda mais difícil
+难不倒 | TRADUÇÃO: não representar um problema para alguém/não conseguir deixar alguém sem resposta
+难不成 | TRADUÇÃO: Será possível que...?
+难以 | TRADUÇÃO: difícil de (prever, imaginar etc.)
+难以启齿 | TRADUÇÃO: ter vergonha demais para mencionar algo (expressão idiomática)/achar difícil falar sobre algo
+难以实现 | TRADUÇÃO: difícil de realizar/difícil de alcançar
+难以忍受 | TRADUÇÃO: difícil de suportar/insuportável
+难以应付 | TRADUÇÃO: difícil de lidar/difícil de manusear
+难以捉摸 | TRADUÇÃO: elusivo/difícil de definir/enigmático
+难以撼动 | TRADUÇÃO: insuscetível a mudanças/profundamente enraizado
+难以为继 | TRADUÇÃO: (expressão idiomática) difícil de continuar; insustentável
+难以理解 | TRADUÇÃO: difícil de entender/incompreensível
+难以置信 | TRADUÇÃO: (expressão idiomática) difícil de acreditar; inacreditável
+难以自已 | TRADUÇÃO: não consegue se controlar (expressão idiomática)/estar fora de si
+难伺候 | TRADUÇÃO: (coloq.) difícil de agradar; que exige muita atenção
+难住 | TRADUÇÃO: deixar perplexo; deixar sem resposta
+难保 | TRADUÇÃO: difícil dizer/não se pode garantir/difícil proteger/difícil preservar
+难倒 | TRADUÇÃO: deixar perplexo/confundir/deixar sem resposta
+难兄难弟 | TRADUÇÃO: lit. difícil diferenciar entre irmão mais velho e mais novo (expressão idiomática)/fig. um é tão ruim quanto o outro ‖ irmãos na adversidade (expressão idiomática)/companheiros de infortúnio/no mesmo barco
+难免 | TRADUÇÃO: difícil evitar/difícil escapar de/inevitavelmente
+难分难舍 | TRADUÇÃO: relutante em se separar (expressão idiomática); emocionalmente próximo e sem vontade de se separar
+难分难解 | TRADUÇÃO: ficar enredado numa situação insolúvel (expressão idiomática)
+难受 | TRADUÇÃO: sentir-se mal/sentir dor/ser difícil de suportar
+难吃 | TRADUÇÃO: intragável
+难喝 | TRADUÇÃO: desagradável de beber
+难堪 | TRADUÇÃO: difícil de aceitar/envergonhado
+难字 | TRADUÇÃO: caractere difícil de reconhecer ou escrever
+难度 | TRADUÇÃO: grau de dificuldade
+难弹 | TRADUÇÃO: difícil de tocar (de música para instrumento de cordas)
+难得 | TRADUÇÃO: raro/selvagem/difícil de encontrar
+难得一见 | TRADUÇÃO: raramente visto
+难忘 | TRADUÇÃO: inesquecível
+难怪 | TRADUÇÃO: (não é) de admirar que.../(não é) surpreendente que...
+难懂 | TRADUÇÃO: difícil de entender
+难舍难分 | TRADUÇÃO: relutante em se separar (expressão idiomática); emocionalmente próximo e sem vontade de se separar
+难舍难离 | TRADUÇÃO: relutante em se separar (expressão idiomática); emocionalmente próximo e sem vontade de se separar
+难捱 | TRADUÇÃO: difícil/árduo
+难搞 | TRADUÇÃO: difícil de lidar/difícil de se dar bem com
+难于接近 | TRADUÇÃO: (de pessoas) difícil de abordar/inacessível
+难于登天 | TRADUÇÃO: mais difícil que subir ao céu (expressão idiomática)
+难易 | TRADUÇÃO: dificuldade/grau de dificuldade ou facilidade
+难民 | TRADUÇÃO: refugiado
+难民营 | TRADUÇÃO: campo de refugiados
+难测 | TRADUÇÃO: difícil de sondar
+难为 | TRADUÇÃO: incomodar/pressionar alguém, geralmente a fazer algo/é um trabalho difícil/desculpe incomodá-lo (polidez, usado para agradecer alguém por um favor)
+难为情 | TRADUÇÃO: envergonhado
+难熬 | TRADUÇÃO: (de dor ou sofrimento) difícil de suportar
+难产 | TRADUÇÃO: parto difícil/(fig.) difícil de realizar
+难当 | TRADUÇÃO: difícil de suportar (calor, coceira etc.)
+难看 | TRADUÇÃO: feio/de aspecto desagradável
+难经 | TRADUÇÃO: Clássico das Dificuldades Médicas, c. século I d.C./abrev. de 黃帝八十一難經|黄帝八十一难经
+难缠 | TRADUÇÃO: (geralmente de pessoas) difícil/exigente/complicado/irrazoável/difícil de lidar
+难闻 | TRADUÇÃO: cheiro desagradável/fedor
+难听 | TRADUÇÃO: desagradável de ouvir/grosseiro/vulgar/ofensivo/vergonhoso
+难能可贵 | TRADUÇÃO: raro e precioso/valioso/notável
+难处 | TRADUÇÃO: problema; dificuldade; complicação
+难行 | TRADUÇÃO: difícil de passar
+难解 | TRADUÇÃO: difícil de resolver/difícil de dissipar/difícil de entender/difícil de desfazer
+难解难分 | TRADUÇÃO: difícil de desatar, difícil de separar (expressão idiomática); inextricavelmente envolvido/travado em batalha
+难言之隐 | TRADUÇÃO: um problema oculto difícil de mencionar (expressão idiomática)/algo embaraçoso demais para mencionar/doença embaraçosa
+难记 | TRADUÇÃO: difícil de lembrar
+难说 | TRADUÇÃO: difícil de dizer (i.e., difícil de julgar ou prever)/não conseguir dizer algo
+难走 | TRADUÇÃO: difícil de chegar/difícil de percorrer (i.e., a estrada é ruim)
+难辞其咎 | TRADUÇÃO: não pode escapar da censura (expressão idiomática)/tem que arcar com a culpa
+难逃法网 | TRADUÇÃO: É difícil escapar da rede da lei/o braço longo da lei
+难过 | TRADUÇÃO: sentir-se triste/sentir-se mal/(da vida) ser difícil
+难道 | TRADUÇÃO: não me diga que.../será que...?
+难关 | TRADUÇÃO: dificuldade/crise
+难题 | TRADUÇÃO: problema difícil
+难点 | TRADUÇÃO: dificuldade
+雨 | TRADUÇÃO: chuva/CL:陣|阵,場|场 ‖ (literário) chover/(de chuva, neve etc) cair/precipitar/molhar
+雨人 | TRADUÇÃO: Rain Man (filme)
+雨伞 | TRADUÇÃO: guarda-chuva/CL:把
+雨具 | TRADUÇÃO: equipamento de chuva
+雨凇 | TRADUÇÃO: chuva congelada; verglaç; geada prateada
+雨刮 | TRADUÇÃO: limpador de para-brisa
+雨刮器 | TRADUÇÃO: limpador de para-brisa
+雨刷 | TRADUÇÃO: limpador de para-brisa
+雨势 | TRADUÇÃO: intensidade da chuva
+雨城 | TRADUÇÃO: ver 雨城區|雨城区
+雨城区 | TRADUÇÃO: Yucheng, distrito da Cidade de Ya'an 雅安市, Sichuan
+雨夜 | TRADUÇÃO: noite chuvosa
+雨天 | TRADUÇÃO: dia chuvoso/tempo chuvoso
+雨夹雪 | TRADUÇÃO: chuva com neve/mistura de neve e chuva
+雨女无瓜 | TRADUÇÃO: (neologismo) (gíria) não é da sua conta (imitação de pronúncia acentuada de 與你無關|与你无关)
+雨季 | TRADUÇÃO: estação chuvosa
+雨层云 | TRADUÇÃO: nimbostratus/nuvem de chuva stratus
+雨山 | TRADUÇÃO: ver 雨山區|雨山区
+雨山区 | TRADUÇÃO: Yushan, distrito da Cidade de Ma'anshan 馬鞍山市|马鞍山市, Anhui
+雨布 | TRADUÇÃO: lona impermeável
+雨幕 | TRADUÇÃO: cortina de chuva/temporal
+雨后春笋 | TRADUÇÃO: lit. após a chuva, brotos de bambu (expressão idiomática); fig. rápido crescimento de novidades/muitas coisas novas surgem em rápida sucessão
+雨披 | TRADUÇÃO: poncho de chuva; capa de chuva
+雨搭 | TRADUÇÃO: toldo
+雨林 | TRADUÇÃO: floresta tropical
+雨果 | TRADUÇÃO: Hugo (nome)/Victor Hugo (1802-1885), escritor francês
+雨棚 | TRADUÇÃO: toldo
+雨水 | TRADUÇÃO: Yushui ou Água de Chuva, 2º dos 24 termos solares 二十四節氣|二十四节气 19 de fevereiro a 5 de março ‖ água da chuva; chuva
+雨湖 | TRADUÇÃO: ver 雨湖區|雨湖区
+雨湖区 | TRADUÇÃO: Yuhu, distrito da Cidade de Xiangtan 湘潭市, Hunan
+雨滴 | TRADUÇÃO: gota de chuva
+雨漏 | TRADUÇÃO: gárgula (arquitetura)
+雨泽下注 | TRADUÇÃO: chuva torrencial
+雨燕 | TRADUÇÃO: andorinhão/Apodidae (família dos andorinhões)
+雨丝 | TRADUÇÃO: garoa/chuva fina
+雨声 | TRADUÇÃO: som da chuva
+雨花 | TRADUÇÃO: ver 雨花區|雨花区
+雨花区 | TRADUÇÃO: Yuhua, distrito da Cidade de Changsha 長沙市|长沙市, Hunan
+雨花台 | TRADUÇÃO: ver 雨花臺區|雨花台区
+雨花台区 | TRADUÇÃO: Yuhuatai, distrito da Cidade de Nanjing 南京市, Jiangsu
+雨蛙 | TRADUÇÃO: perereca
+雨蚀 | TRADUÇÃO: erosão pela chuva
+雨衣 | TRADUÇÃO: capa de chuva/CL:件
+雨过天晴 | TRADUÇÃO: o céu clareia após a chuva/novas esperanças após um período desastroso (expressão idiomática)/atrás de uma nuvem sempre há um raio de sol (expressão idiomática)/ver também 雨過天青|雨过天青
+雨过天青 | TRADUÇÃO: o céu clareia após a chuva/novas esperanças após um período desastroso (expressão idiomática)/atrás de uma nuvem sempre há um raio de sol (expressão idiomática)/ver também 雨過天晴|雨过天晴
+雨量 | TRADUÇÃO: pluviosidade
+雨露 | TRADUÇÃO: chuva e orvalho/(fig.) favor/graça
+雨靴 | TRADUÇÃO: botas de chuva/botas de borracha/CL:雙|双
+雨鞋 | TRADUÇÃO: calçado impermeável (botas de borracha etc)
+雨点 | TRADUÇÃO: gota de chuva
+雩 | TRADUÇÃO: sacrifício de verão pela chuva
+雪 | TRADUÇÃO: sobrenome Xue ‖ neve/CL:場|场/(literário) limpar (uma humilhação etc)
+雪上加霜 | TRADUÇÃO: (expressão idiomática) piorar ainda mais a situação/piorar a situação
+雪中送炭 | TRADUÇÃO: lit. enviar carvão em tempo de neve (expressão idiomática)/fig. fornecer ajuda na hora da necessidade de alguém
+雪亮 | TRADUÇÃO: lit. brilhante como neve/reluzente/deslumbrante/afiado (dos olhos)
+雪人 | TRADUÇÃO: boneco de neve/Yeti
+雪仗 | TRADUÇÃO: batalha de neve/guerra de bolas de neve
+雪佛莱 | TRADUÇÃO: Chevrolet, marca de carros dos EUA
+雪佛兰 | TRADUÇÃO: Chevrolet
+雪佛龙 | TRADUÇÃO: Chevron (empresa de petróleo)
+雪佛龙公司 | TRADUÇÃO: Chevron Corporation
+雪佛龙石油公司 | TRADUÇÃO: Chevron Corporation
+雪克 | TRADUÇÃO: (milk)shake (empréstimo)
+雪利酒 | TRADUÇÃO: (empréstimo) xerez
+雪原 | TRADUÇÃO: campo de neve
+雪地 | TRADUÇÃO: chão coberto de neve
+雪地车 | TRADUÇÃO: moto de neve
+雪地靴 | TRADUÇÃO: botas ugg
+雪城 | TRADUÇÃO: Syracuse, Nova York
+雪夜 | TRADUÇÃO: noite de neve
+雪套 | TRADUÇÃO: polainas
+雪山 | TRADUÇÃO: montanha coberta de neve
+雪山太子 | TRADUÇÃO: Montanhas de Neve Meili na Prefeitura Autônoma Tibetana de Diqing 迪慶藏族自治州|迪庆藏族自治州, Yunnan/também escrito 梅里雪山
+雪山狮子 | TRADUÇÃO: Leão da Neve, animal mitológico, símbolo proibido do Tibete e do Budismo Tibetano
+雪山狮子旗 | TRADUÇÃO: Bandeira do Leão da Neve, bandeira proibida do movimento de independência tibetana, representando o mítico Leopardo da Neve
+雪峰 | TRADUÇÃO: pico nevado
+雪崩 | TRADUÇÃO: avalanche
+雪岳山 | TRADUÇÃO: Seoraksan, montanha perto de Sokcho, Coreia do Sul
+雪巴人 | TRADUÇÃO: (Taiwan) Sherpa
+雪耻 | TRADUÇÃO: vingar-se de um insulto passado/apagar uma desgraça ou humilhação
+雪景 | TRADUÇÃO: paisagem de neve
+雪暴 | TRADUÇÃO: nevasca; tempestade de neve
+雪松 | TRADUÇÃO: cedro/madeira de cedro
+雪板 | TRADUÇÃO: prancha de snowboard/praticar snowboard
+雪条 | TRADUÇÃO: picolé
+雪梨 | TRADUÇÃO: Sydney, capital de Nova Gales do Sul, Austrália (Taiwan) ‖ pera-da-neve (pyrus nivalis)
+雪橇 | TRADUÇÃO: trenó/trenó de neve/bobsled
+雪橇犬 | TRADUÇÃO: cão de trenó
+雪柜 | TRADUÇÃO: caixa de gelo/geladeira (uso em Hong Kong)

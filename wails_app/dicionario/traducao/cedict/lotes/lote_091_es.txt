@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+船政学堂 | TRADUÇÃO: Escuela Naval de Fuzhou/antigua academia naval y astillero de Fuzhou fundada en 1866 por la dinastía Qing
+船方 | TRADUÇÃO: parte naviera/armador/propietario del buque (comercio marítimo)
+船东 | TRADUÇÃO: armador/propietario de barco/naviero
+船梯 | TRADUÇÃO: escala de barco/escala de gato/escalera de barco
+船桨 | TRADUÇÃO: remo
+船模 | TRADUÇÃO: maqueta de barco/modelo de barco
+船壳 | TRADUÇÃO: casco de barco/casco de nave
+船民 | TRADUÇÃO: barqueros/población flotante/personas que viven a bordo de embarcaciones
+船营 | TRADUÇÃO: véase 船營區|船营区
+船营区 | TRADUÇÃO: distrito de Chuanying en la ciudad de Jilin 吉林市, provincia de Jilin
+船票 | TRADUÇÃO: billete de barco/pasaje de barco
+船篙 | TRADUÇÃO: pértiga de barco/palanza/vara de empujar barcas
+船篷 | TRADUÇÃO: toldo de barco/cubierta de estera de barca/vela de barco
+船籍 | TRADUÇÃO: matrícula naval/registro del barco/bandera de registro
+船籍港 | TRADUÇÃO: puerto de matrícula/puerto de registro del barco
+船缆 | TRADUÇÃO: cabo de amarre/maroma/jarcia
+船老大 | TRADUÇÃO: patrón de barco/capitán de barca/patrón de pesca
+船舵 | TRADUÇÃO: timón de barco
+船舶 | TRADUÇÃO: embarcaciones/barcos/buques/naves
+船舷 | TRADUÇÃO: borda de un barco/costado de un buque/(fig.) línea divisoria de gastos a bordo y flete en tierra
+船艄 | TRADUÇÃO: popa de un barco
+船舱 | TRADUÇÃO: bodega de barco/camarote/cabina de embarcación
+船舰 | TRADUÇÃO: buque de guerra/patrullero/embarcación naval
+船袜 | TRADUÇÃO: calcetines invisibles/calcetines tobilleros/pinkies
+船货 | TRADUÇÃO: cargamento de barco/carga de buque
+船身 | TRADUÇÃO: casco del barco/cuerpo de la nave
+船运 | TRADUÇÃO: transporte marítimo/flete marítimo/transporte por barco
+船运业 | TRADUÇÃO: industria del transporte marítimo/sector naviero
+船长 | TRADUÇÃO: capitán de barco/patrón de navío
+船闸 | TRADUÇÃO: esclusa de navegación/esclusa fluvial
+船队 | TRADUÇÃO: flota/flotilla
+船只 | TRADUÇÃO: barco/buque/embarcación/nave
+船头 | TRADUÇÃO: proa de un barco
+船首 | TRADUÇÃO: proa del buque/proa de una nave
+船体 | TRADUÇÃO: casco de un barco/estructura de la nave
+舺 | TRADUÇÃO: embarcación/barca/pron. en Taiwán [jia3]
+舾 | TRADUÇÃO: usado en 舾裝|舾装
+舾装 | TRADUÇÃO: equipamiento naval/armamento de un barco/equipar un buque
+艁 | TRADUÇÃO: variante antigua de 造
+艄 | TRADUÇÃO: popa de un barco/timón
+艄公 | TRADUÇÃO: timonel/barquero
+艅 | TRADUÇÃO: usado en 艅艎
+艅艎 | TRADUÇÃO: (literario) tipo de buque de guerra del período de Primaveras y Otoños/gran barco magnífico
+艇 | TRADUÇÃO: lancha/bote/embarcación menor/navío pequeño
+艇甲板 | TRADUÇÃO: cubierta de botes (cubierta superior donde se guardan los botes salvavidas)
+艉 | TRADUÇÃO: popa
+艋 | TRADUÇÃO: usado en 舴艋
+艋舺 | TRADUÇÃO: Mengjia (también escrito Monga o Bangka), antiguo nombre pre-japonés de Wanhua 萬華|万华, el distrito más antiguo de Taipéi
+艎 | TRADUÇÃO: barco rápido/véase 艅艎, gran barco de guerra
+艏 | TRADUÇÃO: proa de un buque
+艑 | TRADUÇÃO: esquife/barca pequeña
+艕 | TRADUÇÃO: dos barcos amarrados lado a lado
+艖 | TRADUÇÃO: balsa/barca pequeña
+艗 | TRADUÇÃO: proa de un barco chino
+艘 | TRADUÇÃO: clasificador para barcos y buques/pron. en Taiwán [sao1]
+舱 | TRADUÇÃO: cabina/camarote/bodega de avión o barco
+舱位 | TRADUÇÃO: plaza de cabina/asiento en cabina/espacio de carga o flete/litera de camarote
+舱外活动 | TRADUÇÃO: actividad extravehicular/paseo espacial/EVA
+舱房 | TRADUÇÃO: camarote/cabina (de avión o barco)
+艚 | TRADUÇÃO: junco marino
+艜 | TRADUÇÃO: embarcación larga y estrecha de dos mástiles
+艟 | TRADUÇÃO: usado en 艨艟/pron. en Taiwán [tong2]
+舣 | TRADUÇÃO: atracar un barco a la orilla/amarrar a la orilla
+舰 | TRADUÇÃO: buque de guerra/navío de guerra
+舰岛 | TRADUÇÃO: isla (superestructura en la cubierta de vuelo de un portaaviones)
+舰桥 | TRADUÇÃO: puente de mando (de un buque de guerra)
+舰船 | TRADUÇÃO: buque de guerra/embarcación naval/naves y buques
+舰艇 | TRADUÇÃO: buque de guerra/navío de la marina/embarcación militar
+舰载 | TRADUÇÃO: embarcado/basado en buque/embarcado en portaaviones
+舰载机 | TRADUÇÃO: avión embarcado/aeronave basada en portaaviones
+舰长 | TRADUÇÃO: comandante de buque de guerra/capitán de navío
+舰队 | TRADUÇÃO: flota/escuadra naval/CL:支
+舰只 | TRADUÇÃO: buque de guerra/navío militar
+舰首 | TRADUÇÃO: proa de un buque de guerra
+艨 | TRADUÇÃO: usado en 艨衝|艨冲 y 艨艟
+艨艟 | TRADUÇÃO: antiguo barco de guerra acorazado con cuero
+艨冲 | TRADUÇÃO: variante de 艨艟
+艩 | TRADUÇÃO: tolete/escálamo
+舻 | TRADUÇÃO: proa de barco/remos de popa
+艬 | TRADUÇÃO: barco grande/gran navío
+艭 | TRADUÇÃO: barco/embarcación
+艮 | TRADUÇÃO: directo/franco/duro/correoso/difícil de masticar ‖ uno de los Ocho Trigramas 八卦, que simboliza la montaña/☶/antiguo punto cardinal chino: 45° (noreste)
+良 | TRADUÇÃO: bueno/excelente/muy/mucho
+良久 | TRADUÇÃO: largo rato/bastante tiempo/largo tiempo
+良人 | TRADUÇÃO: esposo/marido (arcaico)/gente honrada
+良伴 | TRADUÇÃO: buen compañero/buena compañía
+良友 | TRADUÇÃO: buen amigo/buen compañero
+良吉 | TRADUÇÃO: día propicio/día de buena suerte
+良善 | TRADUÇÃO: bueno/bondadoso/honrado
+良图 | TRADUÇÃO: buen plan/estrategia acertada/tomarse el tiempo para decidir bien
+良多 | TRADUÇÃO: considerablemente/mucho/en gran medida
+良好 | TRADUÇÃO: bueno/favorable/satisfactorio/excelente
+良宵美景 | TRADUÇÃO: hermosa velada con bello paisaje (modismo)/noche espléndida
+良家 | TRADUÇÃO: familia respetable/familia honrada/familia decente
+良家女子 | TRADUÇÃO: mujer de familia honrada/mujer respetable
+良工心苦 | TRADUÇÃO: la destreza experiente requiere arduo esfuerzo (modismo)/habilidad lograda con dedicación/una obra maestra exige sacrificios
+良师益友 | TRADUÇÃO: buen maestro y amigo provechoso (modismo)/mentor
+良心 | TRADUÇÃO: conciencia/conciencia moral
+良心喂狗 | TRADUÇÃO: haber arrojado la conciencia a los perros (modismo)/carente de escrúpulos/desalmado
+良心未泯 | TRADUÇÃO: no ser totalmente despiadado/conservar todavía una pizca de conciencia
+良心犯 | TRADUÇÃO: preso de conciencia
+良心发现 | TRADUÇÃO: (modismo) remorderle a uno la conciencia/despertar la conciencia moral (llevando al arrepentimiento o a reparar un error)
+良性 | TRADUÇÃO: positivo/favorable/virtuoso/(med.) benigno (tumor etc.)
+良性循环 | TRADUÇÃO: círculo virtuoso/bucle de retroalimentación positiva
+良性肿瘤 | TRADUÇÃO: tumor benigno
+良庆 | TRADUÇÃO: véase 良慶區|良庆区
+良庆区 | TRADUÇÃO: distrito de Liangqing en la ciudad de Nanning 南寧市|南宁市, Guangxi
+良方 | TRADUÇÃO: buena receta médica/medicamento eficaz/(fig.) buen plan/estrategia efectiva
+良朋益友 | TRADUÇÃO: compañeros virtuosos y amigos valiosos
+良材 | TRADUÇÃO: buena madera/material de calidad/(fig.) persona talentosa y capaz/hombre íntegro
+良桐 | TRADUÇÃO: buen árbol de aceite de madera chino (Aleurites cordata)
+良机 | TRADUÇÃO: buena oportunidad/oportunidad de oro
+良民 | TRADUÇÃO: ciudadanos honrados/buena gente/gente de bien
+良渚 | TRADUÇÃO: Liangzhu (c. 3400-2250 a.C.), cultura neolítica del delta del río Yangtsé
+良渚文化 | TRADUÇÃO: cultura de Liangzhu (c. 3400-2250 a.C.), cultura neolítica del delta del río Yangtsé
+良港 | TRADUÇÃO: buen puerto/puerto natural excelente
+良率 | TRADUÇÃO: tasa de rendimiento/porcentaje de productos conformes (en manufactura)
+良田 | TRADUÇÃO: tierra fértil/buena tierra de cultivo
+良知 | TRADUÇÃO: sentido innato del bien y del mal/conciencia moral innata/amigo entrañable
+良知良能 | TRADUÇÃO: conocimiento y capacidad morales innatas (modismo)/sentido ético natural sin necesidad de aprendizaje
+良禽择木 | TRADUÇÃO: el ave sabia elige el árbol donde anidar (proverbio)/(fig.) la persona virtuosa y capaz elige a un líder digno
+良禽择木而栖 | TRADUÇÃO: el ave sabia elige el árbol adecuado para posarse (proverbio)/(fig.) el hombre de talento busca servir a un gobernante íntegro
+良种 | TRADUÇÃO: variedad mejorada/buena raza/semilla selecta/pedigrí
+良种繁育 | TRADUÇÃO: cría y reproducción selectiva (biología)
+良策 | TRADUÇÃO: buen plan/buena estrategia/excelente propuesta
+良缘 | TRADUÇÃO: buen matrimonio/unión matrimonial afortunada/destino feliz en el amor
+良苦用心 | TRADUÇÃO: reflexionar detenidamente/intención meticulosa y bien meditada/preocupación abnegada
+良莠不齐 | TRADUÇÃO: mezcla de lo bueno y lo malo/buenos y malos mezclados sin distinción
+良药 | TRADUÇÃO: buena medicina/remedio eficaz/(fig.) buena solución/remedio acertado
+良药苦口 | TRADUÇÃO: la buena medicina tiene sabor amargo (modismo)/(fig.) los consejos sinceros son difíciles de aceptar
+良辰吉日 | TRADUÇÃO: momento propicio y día afortunado (modismo)/(fig.) ocasión propicia
+良辰美景 | TRADUÇÃO: momento feliz y bello paisaje (modismo)/tiempo placentero y entorno encantador
+良乡 | TRADUÇÃO: poblado de Liangxiang en el municipio de Pekín
+良医 | TRADUÇÃO: buen médico/médico hábil
+良马 | TRADUÇÃO: buen caballo/corcel veloz
+艰 | TRADUÇÃO: difícil/duro/arduo/adversidad
+艰巨 | TRADUÇÃO: variante de 艱鉅|艰巨 ‖ (de una tarea, misión o responsabilidad) extremadamente difícil/arduo/exigente
+艰巨性 | TRADUÇÃO: dificultad extrema/naturaleza ardua/gran complejidad
+艰深 | TRADUÇÃO: abstruso/profundo y difícil/complicado
+艰深晦涩 | TRADUÇÃO: abstruso e incomprensible (modismo)/oscuro y complejo
+艰苦 | TRADUÇÃO: difícil/arduo/duro/penoso
+艰苦奋斗 | TRADUÇÃO: luchar con ahínco y superar las dificultades/trabajar arduamente
+艰苦朴素 | TRADUÇÃO: llevar una vida sencilla y laboriosa (modismo)/austero y trabajador
+艰辛 | TRADUÇÃO: penalidades/arduo/difícil/lleno de dificultades
+艰险 | TRADUÇÃO: difícil y peligroso/penalidades y peligros
+艰难 | TRADUÇÃO: difícil/arduo/duro/complicado
+艰难险阻 | TRADUÇÃO: innumerables peligros y dificultades (modismo)/arduos obstáculos
+色 | TRADUÇÃO: color/CL:種|种/aspecto/apariencia/expresión facial/sexo/lujuria ‖ (coloq.) color/usado en 色子
+色丁 | TRADUÇÃO: (préstamo) satén/raso (textil)
+色令智昏 | TRADUÇÃO: perder el juicio por la lujuria (modismo)/cegado por la pasión sexual
+色光 | TRADUÇÃO: luz de color/luz coloreada
+色厉内荏 | TRADUÇÃO: apariencia fiera pero cobarde por dentro (modismo)/aparentar fortaleza siendo débil/lobo con piel de cordero
+色友 | TRADUÇÃO: aficionado a la fotografía/amigo con derecho a roce
+色域 | TRADUÇÃO: gama cromática/gama de colores
+色夷 | TRADUÇÃO: sonreír cordialmente/rostro afable/irradiar simpatía
+色子 | TRADUÇÃO: dado (para juegos de azar)
+色字头上一把刀 | TRADUÇÃO: (lit.) hay un cuchillo sobre el carácter de lujuria/(fig.) las pasiones lascivas traen amargas consecuencias
+色尼 | TRADUÇÃO: véase 色尼區|色尼区
+色尼区 | TRADUÇÃO: distrito de Seni en la ciudad de Nagqu 那曲市, Tíbet
+色度 | TRADUÇÃO: saturación (teoría del color)/croma/cromaticidad
+色弱 | TRADUÇÃO: discromatopsia/debilidad para distinguir los colores/daltonismo parcial
+色彩 | TRADUÇÃO: color/matiz/coloración/(fig.) matiz/carácter/tono
+色彩缤纷 | TRADUÇÃO: véase 五彩繽紛|五彩缤纷
+色情 | TRADUÇÃO: pornografía/erotismo/porno/sexual
+色情作品 | TRADUÇÃO: material pornográfico/pornografía/obras eróticas
+色情小说 | TRADUÇÃO: novela erótica/novela pornográfica
+色情业 | TRADUÇÃO: industria del porno/industria pornográfica
+色情片 | TRADUÇÃO: película pornográfica/película porno
+色情狂 | TRADUÇÃO: obseso sexual/ninfomanía/adicto al sexo
+色欲 | TRADUÇÃO: deseo sexual/lujuria/concupiscencia
+色拉 | TRADUÇÃO: (préstamo) ensalada
+色拉寺 | TRADUÇÃO: monasterio de Sera, cerca de Lhasa, Tíbet
+色拉油 | TRADUÇÃO: aceite para ensalada
+色拉酱 | TRADUÇÃO: aderezo para ensaladas/aliño de ensalada
+色斑 | TRADUÇÃO: mancha en la piel/peca/lentigo/mácula
+色氨酸 | TRADUÇÃO: triptófano (Trp), aminoácido esencial
+色泽 | TRADUÇÃO: color y brillo/lustre
+色狼 | TRADUÇÃO: pervertido/depravado/sátiro/acosador sexual
+色盅 | TRADUÇÃO: cubilete de dados
+色目 | TRADUÇÃO: semu (categoría social de no mongoles y no chinos han durante la dinastía Yuan)
+色盲 | TRADUÇÃO: daltonismo/daltónico
+色相 | TRADUÇÃO: matiz/tono de color/atractivo sexual/apariencia física
+色相环 | TRADUÇÃO: círculo cromático
+色眯眯 | TRADUÇÃO: lascivo/mirada lujuriosa/mirar con deseo libidinoso
+色素 | TRADUÇÃO: pigmento/colorante
+色素体 | TRADUÇÃO: plasto/plástido (orgánulo de células vegetales)
+色胚 | TRADUÇÃO: (jerga) pervertido/sátiro/salido
+色胺酸 | TRADUÇÃO: (Taiwán) triptófano
+色胆 | TRADUÇÃO: osadía lujuriosa/atrevimiento motivado por la lascivia
+色胆包天 | TRADUÇÃO: descaradamente atrevido por lujuria (modismo)/insolente y desenfrenado en sus deseos sexuales
+色色迷迷 | TRADUÇÃO: loco por el sexo/lujurioso/caliente
+色荒 | TRADUÇÃO: entregarse al desenfreno sexual/hundirse en la lujuria
+色号 | TRADUÇÃO: tono (de lápiz labial, maquillaje, etc.)/número de color
+色觉 | TRADUÇÃO: visión cromática/percepción de los colores
+色诱 | TRADUÇÃO: seducir sexualmente/atraer mediante encantos eróticos/trampa de seducción
+色调 | TRADUÇÃO: tonalidad/tono/gama cromática
+色轮 | TRADUÇÃO: rueda de colores/círculo cromático
+色迷 | TRADUÇÃO: obsesionado con el sexo/lujurioso/caliente
+色迷迷 | TRADUÇÃO: véase 色瞇瞇|色眯眯
+色达 | TRADUÇÃO: véase 色達縣|色达县
+色达县 | TRADUÇÃO: condado de Sêrtar en la prefectura autónoma tibetana de Garzê 甘孜藏族自治州, Sichuan
+色酒 | TRADUÇÃO: vino o licor de frutas coloreado (elaborado con uvas u otras frutas, a diferencia de los licores de arroz claros)
+色键 | TRADUÇÃO: clave de color/croma/pantalla verde o azul (edición de vídeo)
+色钟 | TRADUÇÃO: variante de 色盅
+色长 | TRADUÇÃO: director de una sección de la academia de música imperial
+色香味俱全 | TRADUÇÃO: tener un aspecto, aroma y sabor excelentes (modismo)/(de la comida) perfecto en color, olor y gusto
+色鬼 | TRADUÇÃO: sátiro/pervertido/viejo verde/obseso sexual
+色魔 | TRADUÇÃO: depredador sexual/maníaco sexual/acosador sexual/demonio de la lujuria
+艴 | TRADUÇÃO: furioso/rostro enfurecido
+艳 | TRADUÇÃO: variante de 豔|艳 ‖ variante de 豔|艳 ‖ variante antigua de 豔|艳 ‖ brillante/vistoso/glamuroso/atractivo/(forma ligada) amoroso/romántico/(literario) admirar/envidiar
+艳冶 | TRADUÇÃO: seductor y hermoso/cautivador/encantador
+艳如桃李 | TRADUÇÃO: hermosa como el melocotón y la ciruela (modismo)/(fig.) belleza radiante
+艳情 | TRADUÇÃO: amor apasionado/romance erótico/erótico (novela, etc.)
+艳照 | TRADUÇÃO: foto desnudo/foto erótica
+艳福 | TRADUÇÃO: suerte con las mujeres/fortuna amorosa
+艳红色 | TRADUÇÃO: carmesí/rojo vivo/rojo encendido
+艳羡 | TRADUÇÃO: (literario) admirar y envidiar/desear vivamente
+艳舞 | TRADUÇÃO: baile erótico/danza sensual/striptease
+艳色 | TRADUÇÃO: belleza deslumbrante/atractivo voluptuoso/color brillante
+艳诗 | TRADUÇÃO: poesía erótica/versos amorosos
+艳遇 | TRADUÇÃO: aventura amorosa/encuentro con una mujer hermosa/romance imprevisto
+艳丽 | TRADUÇÃO: magnífico/deslumbrante/vistoso y hermoso
+草 | TRADUÇÃO: variante de 草 ‖ hierba/paja/manuscrito/borrador (de un documento)/descuidado/superficial/CL:棵,撮,株,根 ‖ variante de 肏
+艹 | TRADUÇÃO: radical de hierba 草字頭兒|草字头儿
+艻 | TRADUÇÃO: usado en 蘿艻|萝艻
+艽 | TRADUÇÃO: véase 秦艽
+艾 | TRADUÇÃO: apellido Ai ‖ ajenjo chino (Artemisia argyi)/moxa/usado en transliteraciones ‖ variante de 刈/variante de 乂
+艾丁湖 | TRADUÇÃO: lago Ayding (Aydingkol) en Sinkiang
+艾伯塔 | TRADUÇÃO: provincia de Alberta en Canadá, capital Edmonton 埃德蒙頓|埃德蒙顿/también escrito 阿爾伯塔|阿尔伯塔
+艾冬花 | TRADUÇÃO: flor de fárfara o uña de caballo (usada en MTC)/Flos Farfarae
+艾卷 | TRADUÇÃO: cigarro de moxa/rollo de moxa (MTC)
+艾哈迈德 | TRADUÇÃO: Ahmed (nombre)
+艾哈迈迪内贾德 | TRADUÇÃO: Ahmadineyad (nombre persa)/Mahmud Ahmadineyad (1956-), político iraní, presidente de Irán 2005-2013
+艾哈迈达巴德 | TRADUÇÃO: Ahmedabad, mayor ciudad del estado de Guyarat 古吉拉特 en el oeste de la India
+艾塔 | TRADUÇÃO: eta (letra griega Η, η)
+艾奇逊 | TRADUÇÃO: Atchison o Acheson (nombre)/ciudad de Atchison en Kansas, EE. UU.
+艾奥瓦 | TRADUÇÃO: Iowa, estado de EE. UU.
+艾实 | TRADUÇÃO: (MTC) fruto de ajenjo chino (Artemisia argyi)
+艾弥尔 | TRADUÇÃO: Emilio/Émile (nombre)
+艾德蒙顿 | TRADUÇÃO: Edmonton, capital de Alberta, Canadá/también escrito 埃德蒙頓|埃德蒙顿
+艾普西隆 | TRADUÇÃO: épsilon (letra griega Ε, ε)
+艾曼塔 | TRADUÇÃO: queso Emmental/Emmentaler
+艾未未 | TRADUÇÃO: Ai Weiwei (1957-), artista y activista chino
+艾格尼丝·史沫特莱 | TRADUÇÃO: Agnes Smedley (1892-1950), periodista y escritora estadounidense que informó sobre China
+艾条 | TRADUÇÃO: barra de moxa/rollo de moxa (MTC)
+艾条温和灸 | TRADUÇÃO: moxibustión suave con barra de moxa (MTC)
+艾条灸 | TRADUÇÃO: moxibustión con barra de moxa (MTC)
+艾条雀啄灸 | TRADUÇÃO: moxibustión en picotazo de gorrión (MTC)
+艾森豪威尔 | TRADUÇÃO: Dwight D. Eisenhower (1890-1969), general y político estadounidense, presidente de EE. UU. (1953-1961)
+艾比湖 | TRADUÇÃO: lago Ebinur (Aibi Lake) en Sinkiang
+艾滋 | TRADUÇÃO: (préstamo) sida
+艾滋病 | TRADUÇÃO: sida (síndrome de inmunodeficiencia adquirida)
+艾滋病毒 | TRADUÇÃO: virus del sida/VIH (virus de la inmunodeficiencia humana)
+艾滋病病毒 | TRADUÇÃO: VIH (virus de la inmunodeficiencia humana)
+艾灸 | TRADUÇÃO: moxibustión (MTC)
+艾炭 | TRADUÇÃO: hoja carbonizada de ajenjo chino (MTC)/Folium Artemisiae argyi carbonisatum
+艾炷 | TRADUÇÃO: cono de moxa
+艾炷灸 | TRADUÇÃO: moxibustión con cono de moxa (MTC)
+艾尔伯塔 | TRADUÇÃO: provincia de Alberta en Canadá, capital Edmonton 埃德蒙頓|埃德蒙顿/también escrito 阿爾伯塔|阿尔伯塔
+艾尔米塔什 | TRADUÇÃO: museo del Hermitage en San Petersburgo
+艾尔米塔奇 | TRADUÇÃO: museo del Hermitage en San Petersburgo
+艾片 | TRADUÇÃO: alcanfor de borneol obtenido de hojas de sambong (MTC)/Borneolum Luodian
+艾特 | TRADUÇÃO: (préstamo) arroba; @
+艾瑞巴蒂 | TRADUÇÃO: (jerga de internet) (préstamo) todo el mundo/oigan todos (del inglés "everybody")
+艾玛纽埃尔 | TRADUÇÃO: Emmanuel o Emmanuelle (nombre)
+艾略特 | TRADUÇÃO: Elliott/Eliot (nombre)
+艾登堡 | TRADUÇÃO: Attenborough (nombre)/David Attenborough (1926-), naturalista y divulgador británico
+艾窝窝 | TRADUÇÃO: aiwowo (pastelito tradicional pequinés de arroz glutinoso con relleno dulce)
+艾纳香 | TRADUÇÃO: sambong (Blumea balsamifera)
+艾绒 | TRADUÇÃO: lana de moxa/yesca de artemisa
+艾美奖 | TRADUÇÃO: Premios Emmy
+艾老 | TRADUÇÃO: (literario) persona mayor de cincuenta años/anciano respetable
+艾草 | TRADUÇÃO: ajenjo chino/artemisa (género Artemisia)
+艾菲尔铁塔 | TRADUÇÃO: (Taiwán) torre Eiffel
+艾叶 | TRADUÇÃO: hoja de artemisa china (MTC)/Folium Artemisiae argyi
+艾叶油 | TRADUÇÃO: aceite de hoja de ajenjo/aceite de artemisa (MTC)/Oleum folii Artemisiae argyi
+艾叶炭 | TRADUÇÃO: hoja de artemisa carbonizada (MTC)/Folium Artemisiae argyi carbonisatum
+艾蒿 | TRADUÇÃO: artemisa/ajenjo chino (Artemisia)
+艾萨克 | TRADUÇÃO: Isaac (nombre)
+艾萨克·牛顿 | TRADUÇÃO: Sir Isaac Newton (1642-1727), matemático y físico británico
+艾虎 | TRADUÇÃO: véase 艾鼬
+艾赛克斯 | TRADUÇÃO: Essex (condado inglés)
+艾迪 | TRADUÇÃO: Eddie (nombre)
+艾迪卡拉 | TRADUÇÃO: período ediacárico (c. 635-542 millones de años atrás), período geológico del Precámbrico/también escrito 埃迪卡拉
+艾迪生 | TRADUÇÃO: Addison (nombre)/Addison (ciudad de EE. UU.)
+艾酒 | TRADUÇÃO: vino aromatizado con artemisa
+艾青 | TRADUÇÃO: Ai Qing (1910-1996), poeta chino
+艾鼬 | TRADUÇÃO: turón estepario (Mustela eversmanii)
+艿 | TRADUÇÃO: véase 芋艿
+芀 | TRADUÇÃO: variante antigua de 苕
+芃 | TRADUÇÃO: crecimiento exuberante/frondoso
+芄 | TRADUÇÃO: Metaplexis stauntoni
+芊 | TRADUÇÃO: verde frondoso/vegetación exuberante
+芊萰 | TRADUÇÃO: verde y floreciente/exuberante
+芋 | TRADUÇÃO: taro (Colocasia esculenta)
+芋圆 | TRADUÇÃO: bolitas de taro (postre taiwanés)
+芋泥 | TRADUÇÃO: pasta de taro/puré de taro (postre de la cocina de Chaozhou)
+芋艿 | TRADUÇÃO: taro
+芋螺毒素 | TRADUÇÃO: conotoxina
+芋头 | TRADUÇÃO: taro
+芋头色 | TRADUÇÃO: color malva/color lila suave/tono taro
+芍 | TRADUÇÃO: usado en 芍陂 ‖ peonía china (Paeonia lactiflora)
+芍药 | TRADUÇÃO: peonía china (Paeonia lactiflora)/peonía herbácea común (usada en MTC)
+芍陂 | TRADUÇÃO: Quebei, antiguo embalse de irrigación construido durante el período de Primaveras y Otoños en la actual provincia de Anhui, aún en funcionamiento y conocido hoy como 安豐塘|安丰塘
+芎 | TRADUÇÃO: usado en 芎藭|芎䓖 y 川芎/pron. en Taiwán [qiong1]
+芎林 | TRADUÇÃO: municipio de Qionglin en el condado de Hsinchu 新竹縣|新竹县, noroeste de Taiwán
+芎林乡 | TRADUÇÃO: municipio de Qionglin en el condado de Hsinchu 新竹縣|新竹县, noroeste de Taiwán
+芎䓖 | TRADUÇÃO: véase 川芎
+芏 | TRADUÇÃO: usado en 茳芏/pron. en Taiwán [tu3]
+芑 | TRADUÇÃO: mijo común (Panicum miliaceum)
+芒 | TRADUÇÃO: arista (de cereales)/punta de una brizna/pico o filo (de una cuchilla)/hierba plateada (Miscanthus sinensis)/variante de 邙, monte Mang en Luoyang, Henan
+芒刺在背 | TRADUÇÃO: sentir espinas en la espalda (modismo)/inquieto y nervioso/estar en ascuas/sentirse amenazado
+芒市 | TRADUÇÃO: ciudad de Mangshi en la prefectura autónoma dai y jingpo de Dehong 德宏傣族景頗族自治州|德宏傣族景颇族自治州, Yunnan
+芒康 | TRADUÇÃO: véase 芒康縣|芒康县
+芒康县 | TRADUÇÃO: condado de Markam en la ciudad de Chamdo 昌都市, Tíbet
+芒果 | TRADUÇÃO: (préstamo) mango
+芒果汁 | TRADUÇÃO: zumo de mango/jugo de mango
+芒硝 | TRADUÇÃO: mirabilita (Na2SO4·10H2O)/sal de Glauber
+芒种 | TRADUÇÃO: Mangzhong o Espigas Maduras, 9.º de los 24 términos solares 二十四節氣|二十四节气 (6-20 de junio)
+芒草 | TRADUÇÃO: hierba doncella/pasto plateado chino (género Miscanthus)
+芔 | TRADUÇÃO: variante antigua de 卉
+芕 | TRADUÇÃO: tipo de hierba medicinal
+芘 | TRADUÇÃO: malva común (Malva sylvestris)
+芙 | TRADUÇÃO: usado en 芙蓉, loto o hibisco
+芙蓉 | TRADUÇÃO: hibisco de algodón (Hibiscus mutabilis)/loto/fu yung (tortilla tradicional china)
+芙蓉出水 | TRADUÇÃO: flor de loto emergiendo del agua (modismo)/(fig.) florecer con pureza y naturalidad (un poema, arte o belleza natural)
+芙蓉区 | TRADUÇÃO: distrito de Furong en la ciudad de Changsha 長沙市|长沙市, Hunan
+芙蓉花 | TRADUÇÃO: flor de hibisco de algodón (Hibiscus mutabilis)/flor de loto
+芚 | TRADUÇÃO: brote tierno/insensato/ignorante
+芝 | TRADUÇÃO: hierba Zoysia pungens/planta mágica/hongo sagrado
+芝加哥 | TRADUÇÃO: Chicago (EE. UU.)
+芝加哥大学 | TRADUÇÃO: Universidad de Chicago
+芝士 | TRADUÇÃO: (préstamo) queso
+芝士蛋糕 | TRADUÇÃO: tarta de queso/cheesecake
+芝宇 | TRADUÇÃO: su distinguido rostro (fórmula de cortesía)/véase 紫芝眉宇
+芝心 | TRADUÇÃO: borde relleno de queso (en pizzas)/orilla con queso
+芝焚蕙叹 | TRADUÇÃO: al quemarse una hierba noble la otra suspira (modismo)/(fig.) solidarizarse con el sufrimiento de un amigo con ideales afines
+芝罘 | TRADUÇÃO: véase 芝罘區|芝罘区
+芝罘区 | TRADUÇÃO: distrito de Zhifu en la ciudad de Yantai 煙台市|烟台市, Shandong
+芝兰 | TRADUÇÃO: lirio y orquídea/(fig.) sentimientos nobles/virtud refinada y auspiciosa
+芝兰之室 | TRADUÇÃO: estancia perfumada con orquídeas (modismo)/(fig.) en compañía de personas virtuosas y honorables
+芝兰玉树 | TRADUÇÃO: orquídeas y árboles de jade (modismo)/(fig.) hijos o descendientes con un porvenir brillante
+芝麻 | TRADUÇÃO: sésamo/ajonjolí
+芝麻包 | TRADUÇÃO: bollo relleno de sésamo/baozi de sésamo dulce
+芝麻官 | TRADUÇÃO: funcionario de rango menor/burócrata insignificante
+芝麻小事 | TRADUÇÃO: nimiedad/asunto sin importancia/pequeñez
+芝麻油 | TRADUÇÃO: aceite de sésamo/aceite de ajonjolí
+芝麻绿豆 | TRADUÇÃO: insignificante/minúsculo/asuntos triviales
+芝麻菜 | TRADUÇÃO: (bot.) rúcula/oruga (Eruca vesicaria sativa)
+芝麻酱 | TRADUÇÃO: pasta de sésamo/tahini chino
+芝麻饼 | TRADUÇÃO: galleta de sésamo/torta crujiente de ajonjolí
+芞 | TRADUÇÃO: tipo de hierba aromática (antiguo)
+芟 | TRADUÇÃO: segar/cortar hierba/eliminar/guadaña
+芡 | TRADUÇÃO: gorgona (Euryale ferox)/nuez de zorro/makhana
+芡实 | TRADUÇÃO: semilla de gorgona/Semen euryales (botánica)/véase también 雞頭米|鸡头米
+芡粉 | TRADUÇÃO: fécula/harina de semilla de gorgona/almidón espesante
+芣 | TRADUÇÃO: usado en 芣苡 y 芣苢/pron. en Taiwán [fou2]
+芣苡 | TRADUÇÃO: variante de 芣苢
+芣苢 | TRADUÇÃO: (arcaico) llantén/véase 車前|车前
+芤 | TRADUÇÃO: hueco/tallo de cebolleta/pulso hueco (en MTC)
+芥 | TRADUÇÃO: véase 芥藍|芥蓝 ‖ mostaza
+芥子气 | TRADUÇÃO: gas mostaza
+芥末 | TRADUÇÃO: mostaza/wasabi
+芥花油 | TRADUÇÃO: aceite de colza/aceite de canola
+芥茉 | TRADUÇÃO: variante de 芥末
+芥菜 | TRADUÇÃO: mostaza castaña/hojas de mostaza (Brassica juncea)/también pron. [gai4cai4]
+芥菜籽 | TRADUÇÃO: semilla de mostaza
+芥蒂 | TRADUÇÃO: resentimiento/rencor/aspereza/fricción entre personas
+芥蓝 | TRADUÇÃO: brócoli chino/kale chino (Brassica oleracea var. alboglabra)/también pron. [jie4 lan2]
+芥兰 | TRADUÇÃO: variante de 芥藍|芥蓝
+芧 | TRADUÇÃO: juncia marítima (Scirpus maritimus)/castaña pequeña
+芨 | TRADUÇÃO: orquídea jacinto (Bletilla striata)/abreviatura de saúco chino 菫草
+芩 | TRADUÇÃO: carrizal/Phragmites japonica/hierba medicinal
+芪 | TRADUÇÃO: véase 黃芪|黄芪
+芫 | TRADUÇÃO: usado en 芫荽 ‖ dafne lila (Daphne genkwa), usado en medicina herbaria china
+芫花 | TRADUÇÃO: dafne lila/flor de Daphne genkwa
+芫花素 | TRADUÇÃO: genkwanina
+芫荽 | TRADUÇÃO: cilantro (Coriandrum sativum)
+芫荽叶 | TRADUÇÃO: hoja de cilantro
+芬 | TRADUÇÃO: fragancia/perfume/aroma agradable
+芬园 | TRADUÇÃO: municipio de Fenyuan en el condado de Changhua 彰化縣|彰化县, Taiwán
+芬园乡 | TRADUÇÃO: municipio de Fenyuan en el condado de Changhua 彰化縣|彰化县, Taiwán
+芬多精 | TRADUÇÃO: fitoncida (bioquímica)
+芬太尼 | TRADUÇÃO: (préstamo) fentanilo
+芬尼 | TRADUÇÃO: penique alemán/pfennig (moneda) (préstamo)
+芬芳 | TRADUÇÃO: fragancia/perfume/perfumado/aromático
+芬兰 | TRADUÇÃO: Finlandia
+芬兰语 | TRADUÇÃO: finlandés (idioma)/finés/suomi
+芬达 | TRADUÇÃO: Fanta (marca de refrescos)/Fender (marca de guitarras)
+芬香 | TRADUÇÃO: fragancia/aromático/perfumado
+芭 | TRADUÇÃO: planta aromática mencionada en las Elegías de Chu 楚辭|楚辞/usado en 芭蕉/usado en transliteraciones
+芭拉 | TRADUÇÃO: guayaba (préstamo del taiwanés)
+芭拉芭拉 | TRADUÇÃO: para para (baile eurobeat originado en Japón con movimientos sincronizados de brazos) (préstamo del japonés)
+芭提雅 | TRADUÇÃO: Pattaya (Tailandia)
+芭乐 | TRADUÇÃO: guayaba (préstamo del taiwanés)
+芭乐歌 | TRADUÇÃO: (Taiwán) balada romántica comercial/canción pop pegadiza y convencional
+芭乐票 | TRADUÇÃO: (Taiwán) cheque sin fondos/cheque rebotado
+芭比 | TRADUÇÃO: Barbie
+芭芭拉 | TRADUÇÃO: Bárbara (nombre)
+芭菲 | TRADUÇÃO: parfait (postre) (préstamo)
+芭蕉 | TRADUÇÃO: banano japonés/platanero japonés (Musa basjoo)
+芭蕉扇 | TRADUÇÃO: abanico de hojas de palma
+芭蕾 | TRADUÇÃO: ballet (préstamo)
+芭蕾舞 | TRADUÇÃO: ballet/danza clásica (préstamo)
+芭达雅 | TRADUÇÃO: variante de 帕塔亞|帕塔亚/ciudad de Pattaya en la provincia de Chon Buri, Tailandia
+芮 | TRADUÇÃO: apellido Rui ‖ pequeño
+芮城 | TRADUÇÃO: véase 芮城縣|芮城县
+芮城县 | TRADUÇÃO: condado de Ruicheng en la ciudad de Yuncheng 運城市|运城市, Shanxi
+芮氏 | TRADUÇÃO: (Taiwán) (sismología) Richter (escala)
+芮氏规模 | TRADUÇÃO: (Taiwán) (sismología) escala de Richter
+芯 | TRADUÇÃO: (forma ligada) médula de junco (usada como mecha de lámpara) ‖ usado en 芯子/pron. en Taiwán [xin1]
+芯子 | TRADUÇÃO: mecha/fusible/núcleo/lengua bífida (de serpiente)
+芯片 | TRADUÇÃO: chip informático/microchip
+芯片组 | TRADUÇÃO: conjunto de chips/chipset
+芰 | TRADUÇÃO: (arcaico) castaña de agua (Trapa natans)
+花 | TRADUÇÃO: apellido Hua ‖ flor/brote/CL:朵,支,束,把,盆,簇/estampado de flores/adornado/gastar (dinero, tiempo)/(coloq.) lujurioso/mujeriego ‖ variante antigua de 花 ‖ variante de 花/flor/brote/también pron. [wei3]
+花不棱登 | TRADUÇÃO: chillón/llamativo y recargado de colores/abigarrado
+花俏 | TRADUÇÃO: llamativo/vistoso/recargado
+花光 | TRADUÇÃO: gastar todo el dinero/despilfarrar por completo
+花儿 | TRADUÇÃO: hua'er (estilo de canto folclórico popular en Gansu, Qinghai y Ningxia)/CL:首 ‖ variante con erhua de 花
+花冠 | TRADUÇÃO: corola
+花冠皱盔犀鸟 | TRADUÇÃO: (especie de ave de China) cálao ondulado (Rhyticeros undulatus)
+花前月下 | TRADUÇÃO: véase 月下花前
+花剑 | TRADUÇÃO: florete (esgrima)
+花匠 | TRADUÇÃO: jardinero/cultivador de flores
+花卉 | TRADUÇÃO: flores y plantas ornamentales
+花卷 | TRADUÇÃO: huajuan (panecillo chino al vapor en forma de espiral)
+花丛 | TRADUÇÃO: macizo de flores/arbusto en flor/inflorescencia
+花名 | TRADUÇÃO: nombre en el registro de hogares (antiguo)/nombre en una lista/nombre profesional de una cortesana o prostituta/seudónimo/apodo
+花呢 | TRADUÇÃO: tejido estampado para trajes/tweed estampado
+花哨 | TRADUÇÃO: llamativo/vistoso/chillón/extravagante
+花呗 | TRADUÇÃO: Huabei (servicio de microcrédito al consumo de Ant Financial 螞蟻金服|蚂蚁金服)
+花商 | TRADUÇÃO: florista/comerciante de flores
+花圃 | TRADUÇÃO: parterre/jardín de flores/arriate
+花圈 | TRADUÇÃO: corona de flores/guirnalda
+花园 | TRADUÇÃO: jardín (de flores)/parque ajardinado/CL:座
+花园鞋 | TRADUÇÃO: zuecos tipo Crocs/calzado de jardín
+花团锦簇 | TRADUÇÃO: ramilletes de flores y brocados brillantes (modismo)/espléndido y colorido/decoración fastuosa
+花地玛堂区 | TRADUÇÃO: Parroquia de Nuestra Señora de Fátima (Macao)/Freguesia de Nossa Senhora de Fátima
+花垣 | TRADUÇÃO: véase 花垣縣|花垣县
+花垣县 | TRADUÇÃO: condado de Huayuan en la prefectura autónoma tujia y miao de Xiangxi 湘西土家族苗族自治州, Hunan
+花坞 | TRADUÇÃO: arriate bajo/jardincillo hundido de flores
+花坛 | TRADUÇÃO: municipio de Huatan en el condado de Changhua 彰化縣|彰化县, Taiwán ‖ arriate/parterre/cantero de flores (a menudo con reborde de piedra en la calle)
+花坛乡 | TRADUÇÃO: municipio de Huatan en el condado de Changhua 彰化縣|彰化县, Taiwán
+花大姐 | TRADUÇÃO: mariquita (término popular para 瓢蟲|瓢虫)
+花天酒地 | TRADUÇÃO: entregarse a la bebida y a los placeres carnales (modismo)/llevar una vida de disipación y desenfreno
+花好月圆 | TRADUÇÃO: hermosas flores y luna llena (modismo)/(fig.) felicidad perfecta/dicha conyugal
+花子 | TRADUÇÃO: mendigo (término antiguo)
+花季 | TRADUÇÃO: flor de la juventud/primavera de la vida/temporada de floración
+花容月貌 | TRADUÇÃO: rostro como una flor y semblante de luna (modismo)/(fig.) (de una mujer) de gran belleza
+花尾榛鸡 | TRADUÇÃO: (especie de ave de China) grévol común (Tetrastes bonasia)
+花展 | TRADUÇÃO: exposición floral/feria de flores
+花山 | TRADUÇÃO: véase 花山區|花山区
+花山区 | TRADUÇÃO: distrito de Huashan en la ciudad de Ma'anshan 馬鞍山市|马鞍山市, Anhui
+花岗岩 | TRADUÇÃO: granito
+花岗石 | TRADUÇÃO: granito/piedra de granito
+花巧 | TRADUÇÃO: ingenioso y vistoso/adornado/artificioso
+花布 | TRADUÇÃO: tela estampada/indiana/calicó
+花床 | TRADUÇÃO: bancal de flores/arriate
+花序 | TRADUÇÃO: inflorescencia/racimo de flores
+花店 | TRADUÇÃO: floristería/tienda de flores
+花厅 | TRADUÇÃO: pabellón de recepción (en el jardín de una residencia tradicional)
+花式 | TRADUÇÃO: de fantasía/artístico/vistoso/(HK, Taiwán) (deportes) estilo libre; artístico (como en patinaje artístico 花式溜冰)/(Taiwán) fórmula floral (botánica)
+花式游泳 | TRADUÇÃO: (Taiwán) natación sincronizada/natación artística
+花式溜冰 | TRADUÇÃO: patinaje artístico
+花式滑冰 | TRADUÇÃO: (Taiwán) patinaje artístico sobre hielo
+花式足球 | TRADUÇÃO: fútbol freestyle/estilo libre de fútbol
+花彩 | TRADUÇÃO: festón/adornar con guirnaldas de colores
+花彩雀莺 | TRADUÇÃO: (especie de ave de China) reyezuelo de Cejas Blancas (Leptopoecile sophiae)
+花心 | TRADUÇÃO: infiel/veleidoso en el amor/corazón de la flor (pistilo y estambres)
+花心大萝卜 | TRADUÇÃO: (coloq.) donjuán/mujeriego/picaflor
+花心思 | TRADUÇÃO: devanarse los sesos/poner empeño en pensar algo/dedicar tiempo y reflexión
+花户 | TRADUÇÃO: habitantes registrados de una vivienda
+花房 | TRADUÇÃO: invernadero/invernadero para flores
+花托 | TRADUÇÃO: receptáculo floral (base de la flor)
+花把势 | TRADUÇÃO: floricultor experto/jardinero experimentado
+花把式 | TRADUÇÃO: floricultor experto/jardinero experimentado
+花押 | TRADUÇÃO: firma caligráfica abreviada/rúbrica/símbolo o monograma usado como firma
+花招 | TRADUÇÃO: truco/artimaña/treta/(artes marciales) movimiento de adorno
+花括号 | TRADUÇÃO: llaves { }
+花拳 | TRADUÇÃO: boxeo vistoso pero inútil en combate/véase 花拳繡腿|花拳绣腿
+花拳绣腿 | TRADUÇÃO: puños floridos y patadas bordadas (modismo)/habilidades vistosas pero inútiles/puro espectáculo sin eficacia práctica
+花掉 | TRADUÇÃO: gastar (tiempo o dinero)/despilfarrar
+花斑 | TRADUÇÃO: manchas multicolores/moteado
+花斑癣 | TRADUÇÃO: pitiriasis versicolor (tiña versicolor, afección cutánea moteada comúnmente llamada 汗斑)
+花旗 | TRADUÇÃO: bandera de barras y estrellas (bandera de EE. UU.)/por extensión, Estados Unidos/abrev. de Citibank 花旗銀行|花旗银行
+花旗参 | TRADUÇÃO: ginseng americano (Panax quinquefolius)
+花旗国 | TRADUÇÃO: Estados Unidos (tierra de las barras y estrellas)
+花旗银行 | TRADUÇÃO: Citibank/abrev. de 花旗
+花旦 | TRADUÇÃO: huadan (papel de mujer joven, vivaz y alegre en la ópera china)
+花时间 | TRADUÇÃO: dedicar tiempo/tomar tiempo/invertir tiempo
+花会 | TRADUÇÃO: feria de las flores/festival de las flores
+花有重开日，人无再少年 | TRADUÇÃO: las flores pueden volver a abrirse, pero el hombre no recupera su juventud (proverbio)
+花朝月夕 | TRADUÇÃO: hermosa festividad o día agradable/cf. Festival del Nacimiento de las Flores (15 del 2.º mes lunar) y Festival de Medio Otoño (15 del 8.º mes lunar)
+花朝节 | TRADUÇÃO: Festival de las Flores (fiesta tradicional de primavera el día 12 o 15 del segundo mes lunar)
+花期 | TRADUÇÃO: época de floración/período de floración
+花木 | TRADUÇÃO: flores y árboles/plantas ornamentales/flora
+花木兰 | TRADUÇÃO: Hua Mulan (legendaria guerrillera china de las Dinastías del Norte, heroína popular)
+花朵 | TRADUÇÃO: flor
+花束 | TRADUÇÃO: ramo de flores/ramillete/bouquet
+花果山 | TRADUÇÃO: montaña Huaguo en Jiangsu (famosa por la novela Viaje al Oeste 西遊記|西游记)/montaña Huaguo
+花枝 | TRADUÇÃO: rama en flor/sepia (en menús de cocina)/(literario) mujer hermosa
+花枝招展 | TRADUÇÃO: ramas florecidas meciéndose con la brisa (modismo)/(fig.) mujer vestida con elegancia y esplendor/ataviada con galas
+花架子 | TRADUÇÃO: soporte para macetas/(fig.) apariencia atractiva pero sin valor práctico/fachada vistosa
+花柱 | TRADUÇÃO: estilo (órgano femenino de la flor)
+花柳病 | TRADUÇÃO: enfermedad de transmisión sexual/enfermedad venérea
+花栗鼠 | TRADUÇÃO: ardilla listada/tamia (género Tamias)
+花梗 | TRADUÇÃO: pedúnculo floral/tallo de la flor
+花椒 | TRADUÇÃO: pimienta de Sichuan (Zanthoxylum bungeanum)
+花椰菜 | TRADUÇÃO: coliflor
+花枪 | TRADUÇÃO: lanza corta de exhibición/(fig.) treta/artimaña
+花样 | TRADUÇÃO: diseño/patrón/truco/ardid/estilo artístico (como en patinaje artístico 花樣滑冰|花样滑冰)
+花样刀 | TRADUÇÃO: patines para patinaje artístico
+花样年华 | TRADUÇÃO: la flor de la juventud/los mejores años de la juventud
+花样游泳 | TRADUÇÃO: natación sincronizada/natación artística
+花样滑冰 | TRADUÇÃO: patinaje artístico sobre hielo
+花池子 | TRADUÇÃO: arriate de flores/bancal de flores
+花活 | TRADUÇÃO: truco/treta/engaño
+花海 | TRADUÇÃO: mar de flores/extensión de flores
+花溪 | TRADUÇÃO: véase 花溪區|花溪区
+花溪区 | TRADUÇÃO: distrito de Huaxi en la ciudad de Guiyang 貴陽市|贵阳市, Guizhou
+花滑 | TRADUÇÃO: patinaje artístico (abrev. de 花樣滑冰|花样滑冰)
+花洒 | TRADUÇÃO: rociador de ducha/alcachofa de ducha/regadera
+花火 | TRADUÇÃO: fuegos artificiales/chispas
+花炮 | TRADUÇÃO: petardos y fuegos artificiales
+花无百日红 | TRADUÇÃO: ninguna flor florece cien días (modismo)/(fig.) los buenos tiempos no duran para siempre
+花灯 | TRADUÇÃO: linterna festiva de colores (usada en el Festival de los Faroles 元宵節|元宵节)
+花灯戏 | TRADUÇÃO: ópera Huadeng (forma de teatro tradicional popular en Sichuan y Yunnan)
+花烛 | TRADUÇÃO: velas nupciales (par de velas rojas ornamentadas encendidas en el tálamo nupcial)/(bot.) anturio
+花环 | TRADUÇÃO: corona de flores/guirnalda
+花瓣 | TRADUÇÃO: pétalo/CL:片
+花瓶 | TRADUÇÃO: jarrón para flores/florero/(fig.) mujer contratada solo por su belleza exterior/adorno
+花生 | TRADUÇÃO: cacahuete/maní/CL:粒
+花生仁 | TRADUÇÃO: cacahuete pelado/grano de maní
+花生秀 | TRADUÇÃO: (préstamo) desfile de moda (del inglés "fashion show")
+花生米 | TRADUÇÃO: granos de cacahuete pelados/cacahuetes desgranados
+花生酱 | TRADUÇÃO: mantequilla de cacahuete/crema de maní
+花用 | TRADUÇÃO: gastar (dinero)/gastos
+花田鸡 | TRADUÇÃO: (especie de ave de China) polluela de Swinhoe (Coturnicops exquisitus)
+花甲 | TRADUÇÃO: sesenta años (de edad)/véase 花蛤
+花甲之年 | TRADUÇÃO: (modismo) sesenta años de edad
+花痴 | TRADUÇÃO: enamoradizo compulsivo/locamente encaprichado con alguien/obsesionado por el atractivo ajeno
+花白 | TRADUÇÃO: entrecano (cabello)/canoso
+花盆 | TRADUÇÃO: maceta/tiesto
+花石 | TRADUÇÃO: mármol/piedra veteada ornamental
+花童 | TRADUÇÃO: paje/niña de las flores (en una boda)
+花簇 | TRADUÇÃO: ramillete de flores/ramo
+花粉 | TRADUÇÃO: polen
+花粉热 | TRADUÇÃO: fiebre del heno/polinosis
+花粉症 | TRADUÇÃO: fiebre del heno/rinitis alérgica estacional
+花粉过敏 | TRADUÇÃO: alergia al polen
+花红 | TRADUÇÃO: manzano silvestre chino (Malus asiatica)/regalo nupcial o de ocasión festiva/bonificación (paga extra, típicamente a fin de año)
+花红柳绿 | TRADUÇÃO: flores rojas y sauces verdes (modismo)/colores vivos de la primavera/paisaje primaveral esplendoroso
+花纹 | TRADUÇÃO: diseño decorativo/estampado/patrón
+花结 | TRADUÇÃO: lazo decorativo/escarapela de cinta o tela
+花絮 | TRADUÇÃO: anécdotas/curiosidades al margen/tomas falsas/detalles de interés
+花丝 | TRADUÇÃO: filamento del estambre (botánica)
+花缎 | TRADUÇÃO: brocado/raso adamascado
+花肥 | TRADUÇÃO: fertilizante para plantas con flor/abono para floración
+花腔 | TRADUÇÃO: coloratura (canto)/adornos floridos en la ópera
+花腹绿啄木鸟 | TRADUÇÃO: (especie de ave de China) pito verdinegro (Picus vittatus)
+花胶 | TRADUÇÃO: vejiga natatoria seca de pescado
+花臂 | TRADUÇÃO: brazo cubierto de tatuajes/manga de tatuajes
+花脸鸭 | TRADUÇÃO: (especie de ave de China) cerceta del Baikal (Sibirionetta formosa)
+花台 | TRADUÇÃO: cantero de flores elevado/arriate/soporte para macetas
+花色 | TRADUÇÃO: variedad y colores/diseño y colorido/palo (en la baraja de cartas)
+花色素 | TRADUÇÃO: antocianidina (bioquímica)
+花色素苷 | TRADUÇÃO: antocianina (bioquímica)
+花花世界 | TRADUÇÃO: el mundo bullicioso y deslumbrante/el mundo de los placeres sensuales
+花花公主 | TRADUÇÃO: playgirl/mujer fiestera y libertina
+花花公子 | TRADUÇÃO: playboy/dandi/hombre mujeriego y vividor
+花花搭搭 | TRADUÇÃO: abigarrado/de colorido o textura desigual
+花花绿绿 | TRADUÇÃO: de vivos colores/llamativo y multicolor/abigarrado
+花花肠子 | TRADUÇÃO: (jerga) mente retorcida/maquinación astuta/planes ocultos
+花芽 | TRADUÇÃO: yema floral/botón floral
+花苞 | TRADUÇÃO: capullo floral/botón floral
+花茶 | TRADUÇÃO: té aromatizado con flores/té perfumado/CL:杯,壺|壶
+花草 | TRADUÇÃO: flores y plantas
+花菜 | TRADUÇÃO: coliflor
+花萼 | TRADUÇÃO: cáliz (botánica)
+花落谁家 | TRADUÇÃO: ¿en manos de quién caerá el premio?/¿quién será el vencedor?
+花着 | TRADUÇÃO: variante de 花招
+花莲 | TRADUÇÃO: Hualien (ciudad y condado en la costa este de Taiwán)
+花莲市 | TRADUÇÃO: ciudad de Hualien, en la costa oriental de Taiwán
+花莲县 | TRADUÇÃO: condado de Hualien, en la costa oriental de Taiwán
+花蕊 | TRADUÇÃO: estambres y pistilos/órganos reproductores florales
+花蕾 | TRADUÇÃO: capullo floral/brote de flor
+花艺 | TRADUÇÃO: arte floral/diseño floral
+花艺师 | TRADUÇÃO: diseñador floral/florista artístico
+花药 | TRADUÇÃO: antera (saco polínico del estambre)
+花蚊子 | TRADUÇÃO: (coloq.) mosquito tigre asiático (Aedes albopictus)
+花蛤 | TRADUÇÃO: almeja/molusco bivalvo
+花蜜 | TRADUÇÃO: néctar de las flores
+花蟒 | TRADUÇÃO: pitón reticulada/pitón
+花街 | TRADUÇÃO: barrio rojo/zona de meretrices
+花街柳巷 | TRADUÇÃO: (modismo) barrio rojo/callejuelas de prostitución
+花被 | TRADUÇÃO: perianto (envoltura de cáliz y corola en botánica)
+花里胡哨 | TRADUÇÃO: chillón y recargado/llamativo y superficial/de adorno excesivo
+花言巧语 | TRADUÇÃO: palabras melosas y engañosas (modismo)/retórica hipócrita y aduladora/lisonjas embaucadoras
+花语 | TRADUÇÃO: lenguaje de las flores/significado simbólico de las flores
+花豹 | TRADUÇÃO: leopardo/CL:隻|只
+花貌蓬心 | TRADUÇÃO: apariencia florida pero corazón descuidado (modismo)/bello por fuera y tosco por dentro
+花猫 | TRADUÇÃO: gato atigrado/gato calicó
+花费 | TRADUÇÃO: gasto/coste/gastar (tiempo o dinero)/desembolso
+花车 | TRADUÇÃO: carroza decorada/coche festivo en desfile
+花轿 | TRADUÇÃO: palanquín nupcial/silla de manos nupcial
+花农 | TRADUÇÃO: floricultor/cultivador de flores
+花边 | TRADUÇÃO: encaje/ribete decorativo/orla
+花边人物 | TRADUÇÃO: personaje habitual de la prensa rosa/figura de noticias sensacionalistas
+花边儿 | TRADUÇÃO: variante con erhua de 花邊|花边
+花边新闻 | TRADUÇÃO: cotilleo de prensa rosa/prensa del corazón/noticias sensacionalistas
+花都 | TRADUÇÃO: véase 花都區|花都区/apodo de París (la Ciudad de las Flores)
+花都区 | TRADUÇÃO: distrito de Huadu en la ciudad de Cantón 廣州市|广州市, Guangdong
+花酒 | TRADUÇÃO: banquete con bebida y entretenimiento de mujeres/copas con cortesanas
+花销 | TRADUÇÃO: gastar dinero/gastos/desembolsos
+花钱 | TRADUÇÃO: gastar dinero
+花钱受气 | TRADUÇÃO: (modismo) pagar para recibir un mal trato/tener una mala experiencia como cliente a pesar de pagar
+花钱找罪受 | TRADUÇÃO: gastar dinero para sufrir/pagar por algo que resulta un tormento
+花雕 | TRADUÇÃO: huadiao (vino de arroz amarillo tradicional de Shaoxing)
+花鸡 | TRADUÇÃO: pinzón común (familia Fringillidae)
+花露水 | TRADUÇÃO: agua de colonia floral/agua de tocador perfumada/hidrolato
+花青素 | TRADUÇÃO: antocianidina (bioquímica)
+花面狸 | TRADUÇÃO: civeta de las palmeras enmascarada (Paguma larvata)
+花头 | TRADUÇÃO: truco/idea original/patrón ingenioso/truco o habilidad especial
+花头鹦鹉 | TRADUÇÃO: (especie de ave de China) cotorra carirrosa (Psittacula roseata)
+花饰 | TRADUÇÃO: motivo decorativo/adorno floral
+花饺 | TRADUÇÃO: empanadilla china/jiaozi con borde decorado
+花香 | TRADUÇÃO: fragancia floral/aroma de las flores
+花骨朵 | TRADUÇÃO: (coloq.) capullo floral/botón de flor
+花魁 | TRADUÇÃO: reina de las flores (refiriéndose especialmente a la flor del ciruelo)/(fig.) cortesana más destacada/gran belleza famosa
+花鲢 | TRADUÇÃO: véase 鱅魚|鳙鱼
+花鸟 | TRADUÇÃO: pintura tradicional de flores y aves
+花黄 | TRADUÇÃO: huahuang (polvo cosmético amarillo que las mujeres usaban en la frente en tiempos antiguos)
+花点子 | TRADUÇÃO: artimaña/estafa/treta engañosa
+花鼓 | TRADUÇÃO: tambor de flores (tipo de tambor tradicional chino)/danza folclórica de los tambores de flores/(bicicleta) buje de rueda
+花鼓戏 | TRADUÇÃO: ópera Huagu (teatro folclórico popular a lo largo del río Yangtsé)
+芳 | TRADUÇÃO: fragante/aromático/virtud
+芳容 | TRADUÇÃO: rostro hermoso (de una mujer joven)
+芳心 | TRADUÇÃO: el corazón o afecto de una mujer joven
+芳札 | TRADUÇÃO: su estimada carta/carta respetuosa
+芳烃 | TRADUÇÃO: hidrocarburo aromático
+芳疗 | TRADUÇÃO: aromaterapia (abrev. de 芳香療法|芳香疗法)
+芳苑 | TRADUÇÃO: municipio de Fangyuan en el condado de Changhua 彰化縣|彰化县, Taiwán
+芳苑乡 | TRADUÇÃO: municipio de Fangyuan en el condado de Changhua 彰化縣|彰化县, Taiwán
+芳华 | TRADUÇÃO: años de juventud/juventud radiante/primavera de la vida
+芳香 | TRADUÇÃO: fragante/aromático/aroma/fragancia
+芳香烃 | TRADUÇÃO: hidrocarburo aromático (que contiene anillo de benceno)
+芳香环 | TRADUÇÃO: anillo aromático/anillo de benceno (química)
+芳香疗法 | TRADUÇÃO: aromaterapia
+芳香醋 | TRADUÇÃO: vinagre balsámico
+芳龄 | TRADUÇÃO: edad primaveral (de una mujer joven)
+芴 | TRADUÇÃO: (antiguo) vagamente/súbitamente ‖ fluoreno C13H10/(antiguo) nombre de una planta silvestre comestible
+芷 | TRADUÇÃO: angélica (planta aromática medicinal usada en MTC)
+芷江 | TRADUÇÃO: véase 芷江侗族自治縣|芷江侗族自治县
+芷江侗族自治县 | TRADUÇÃO: condado autónomo dong de Zhijiang, en la ciudad de Huaihua 懷化市|怀化市, Hunan
+芷江县 | TRADUÇÃO: véase 芷江侗族自治縣|芷江侗族自治县
+芸 | TRADUÇÃO: ruda común (Ruta graveolens)/(usado en términos clásicos relacionados con libros debido a que la ruda protegía el papel de los insectos) ‖ usado en 蕓薹|芸薹
+芸帙 | TRADUÇÃO: (antiguo) libros/volúmenes encuadernados
+芸窗 | TRADUÇÃO: sala de estudio/despacho de lectura
+芸签 | TRADUÇÃO: marcapáginas/libros
+芸编 | TRADUÇÃO: (antiguo) libros/obras literarias
+芸芸 | TRADUÇÃO: numeroso/abundante y diverso
+芸芸众生 | TRADUÇÃO: todos los seres vivos (budismo)/las masas populares/el común de la gente
+芸草 | TRADUÇÃO: (bot.) ruda (Ruta graveolens)
+芸豆 | TRADUÇÃO: judía común/frijol
+芸阁 | TRADUÇÃO: biblioteca imperial
+芸香 | TRADUÇÃO: (bot.) ruda común (Ruta graveolens)
+芸香属 | TRADUÇÃO: (bot.) género Ruta
+芸香科 | TRADUÇÃO: (bot.) familia Rutaceae (rutáceas/familia de los cítricos y de la ruda)
+芹 | TRADUÇÃO: apio chino
+芹菜 | TRADUÇÃO: apio (Apium graveolens)
+刍 | TRADUÇÃO: segar hierba/paja/heno/pasto/forraje
+刍狗 | TRADUÇÃO: (literario) perro de paja (ofrenda ritual en la China antigua reverenciada durante el rito y desechada después)
+刍秣 | TRADUÇÃO: forraje/heno para ganado
+刍粮 | TRADUÇÃO: provisiones de forraje y grano para el ejército
+刍荛 | TRADUÇÃO: segar pasto y cortar leña/segador y leñador/gente humilde
+刍议 | TRADUÇÃO: (lit.) opinión de un segador de hierba (fórmula de modestia)/(fig.) mi humilde parecer/mi modesta propuesta
+刍豢 | TRADUÇÃO: ganado/animales domésticos de granja
+芼 | TRADUÇÃO: seleccionar/verduras/hierbas cocidas
+芽 | TRADUÇÃO: brote/yema/retoño/germen
+芽孢 | TRADUÇÃO: endospora
+芽眼 | TRADUÇÃO: (bot.) yema latente/ojo (de un tubérculo)
+芽苗 | TRADUÇÃO: brote/brote germinado/plántula
+芾 | TRADUÇÃO: véase 蔽芾 ‖ exuberancia de vegetación
+芿 | TRADUÇÃO: malas hierbas que rebrotan tras ser cortadas
+苄 | TRADUÇÃO: bencilo (química)
+苄星青霉素 | TRADUÇÃO: (farmacología) bencilpenicilina benzatínica (penicilina G benzatínica)
+苄胺 | TRADUÇÃO: (química) bencilamina (C6H5CH2NH2)
+苉 | TRADUÇÃO: piceno (C22H14)
+苊 | TRADUÇÃO: acenafteno (C12H10)
+苑 | TRADUÇÃO: apellido Yuan ‖ (literario) jardín imperial/coto cercado para plantas o animales/parque/(literario) centro de las artes o las letras
+苑里 | TRADUÇÃO: poblado de Yuanli en el condado de Miaoli 苗栗縣|苗栗县, noroeste de Taiwán
+苑里镇 | TRADUÇÃO: poblado de Yuanli en el condado de Miaoli 苗栗縣|苗栗县, noroeste de Taiwán
+苒 | TRADUÇÃO: vegetación exuberante/paso del tiempo
+苓 | TRADUÇÃO: hongo medicinal/tubérculo/Poria cocos
+苓雅 | TRADUÇÃO: distrito de Lingya en la ciudad de Kaohsiung 高雄市, sur de Taiwán
+苓雅区 | TRADUÇÃO: distrito de Lingya en la ciudad de Kaohsiung 高雄市, sur de Taiwán
+苔 | TRADUÇÃO: usado en 舌苔 ‖ musgo/líquen/hepática
+苔原 | TRADUÇÃO: tundra
+苔藓 | TRADUÇÃO: musgo/briófitas
+苕 | TRADUÇÃO: véase 紅苕|红苕 ‖ carrizo/enredadera de trompeta china (Campsis grandiflora) (antiguo)
+苗 | TRADUÇÃO: apellido Miao/etnia miao ‖ brote/retoño/plántula
+苗圃 | TRADUÇÃO: Miao Pu (1977-), actriz china ‖ vivero de plantas/semillero
+苗子 | TRADUÇÃO: joven promesa/sucesor prometedor/brote/plantón
+苗家 | TRADUÇÃO: véase 苗族
+苗床 | TRADUÇÃO: semillero/almácigo
+苗族 | TRADUÇÃO: etnia miao
+苗期 | TRADUÇÃO: (agricultura) fase de plántula/etapa de brote
+苗木 | TRADUÇÃO: plantón de vivero/árbol joven
+苗栗 | TRADUÇÃO: ciudad y condado de Miaoli en el noroeste de Taiwán
+苗栗市 | TRADUÇÃO: ciudad de Miaoli en el noroeste de Taiwán, capital del condado de Miaoli
+苗栗县 | TRADUÇÃO: condado de Miaoli en el noroeste de Taiwán
+苗条 | TRADUÇÃO: (de una mujer) esbelta/delgada/grácil
+苗裔 | TRADUÇÃO: descendientes/progenie/descendencia
+苗头 | TRADUÇÃO: primeros indicios/síntomas incipientes/evolución de una situación
+苘 | TRADUÇÃO: abutilón (Abutilon theophrasti)/yute de China
+苘麻 | TRADUÇÃO: abutilón (Abutilon theophrasti)/yute de China/cáñamo indio
+苙 | TRADUÇÃO: planta medicinal/pocilga/chiquero
+苛 | TRADUÇÃO: severo/exigente/riguroso
+苛刻 | TRADUÇÃO: severo/exigente/draconiano/riguroso
+苛性 | TRADUÇÃO: cáustico (química)
+苛性钠 | TRADUÇÃO: sosa cáustica/hidróxido de sodio NaOH
+苛性钾 | TRADUÇÃO: potasa cáustica/hidróxido de potasio KOH
+苛捐 | TRADUÇÃO: gravámenes exorbitantes/tributos abusivos
+苛捐杂税 | TRADUÇÃO: impuestos y tasas exorbitantes (modismo)/tributos abusivos
+苛求 | TRADUÇÃO: exigir en exceso/ser demasiado riguroso/exigencias desmedidas
+苛责 | TRADUÇÃO: censurar con dureza/reprender severamente/criticar sin piedad
+苜 | TRADUÇÃO: trébol
+苜蓿 | TRADUÇÃO: alfalfa
+苞 | TRADUÇÃO: capullo/cáliz floral/exuberante/profuso
+苞片 | TRADUÇÃO: bráctea (botánica)
+苞谷 | TRADUÇÃO: variante de 包穀|包谷
+苞米 | TRADUÇÃO: (dialectal) maíz
+苞粟 | TRADUÇÃO: variante de 包粟
+苞藏祸心 | TRADUÇÃO: variante de 包藏禍心|包藏祸心
+苟 | TRADUÇÃO: apellido Gou ‖ (literario) si de verdad/(forma ligada) descuidado; negligente/(forma ligada) provisionalmente
+苟且 | TRADUÇÃO: negligente/descuidado/ir tirando/resignarse/relaciones indebidas/relaciones sexuales ilícitas
+苟且偷安 | TRADUÇÃO: buscar la comodidad inmediata eludiendo responsabilidades (modismo)/conformarse sin intentar mejorar
+苟且偷生 | TRADUÇÃO: arrastrar una vida miserable y sin dignidad (modismo)/sobrevivir a cualquier precio
+苟取 | TRADUÇÃO: (literario) extorsionar/aceptar sobornos
+苟合 | TRADUÇÃO: relaciones sexuales ilícitas/unión ilegítima
+苟同 | TRADUÇÃO: asentir ciegamente/concordar sin criterio propio
+苟存 | TRADUÇÃO: ir sobreviviendo/mantenerse con vida precariamente
+苟安 | TRADUÇÃO: véase 苟且偷安
+苟富贵，勿相忘 | TRADUÇÃO: si llegas a ser rico, no olvides a tus amigos (proverbio)
+苟延残喘 | TRADUÇÃO: (modismo) prolongar los últimos estertores/sobrevivir a duras penas al borde de la muerte
+苟活 | TRADUÇÃO: vivir sin dignidad/malvivir/sobrevivir a duras penas
+苠 | TRADUÇÃO: multitud/corteza del bambú
+苡 | TRADUÇÃO: usado en 芣苡/véase 薏苡
+苡米 | TRADUÇÃO: lágrimas de Job/granos de la planta de lágrimas de Job 薏苡
+苢 | TRADUÇÃO: usado en 芣苢
+苣 | TRADUÇÃO: usado en 萵苣|莴苣 ‖ usado en 苣蕒菜|苣荬菜/pron. en Taiwán [ju4]
+苣荬菜 | TRADUÇÃO: cerraja silvestre (Sonchus arvensis)/escarola (Cichorium endivia)
+苤 | TRADUÇÃO: usado en 苤藍|苤蓝
+苤蓝 | TRADUÇÃO: colirrábano (Brassica oleracea var. gongylodes)
+若 | TRADUÇÃO: usado en 般若/usado en 蘭若|兰若 ‖ parecer/como/si/semejante a
+若且唯若 | TRADUÇÃO: si y solo si
+若即若离 | TRADUÇÃO: ni muy cerca ni muy lejos (modismo)/(fig.) mantener las distancias/relación tibia y ambigua
+若干 | TRADUÇÃO: cierta cantidad/algunos/cuántos/cuánto
+若是 | TRADUÇÃO: si/en caso de que
+若有所亡 | TRADUÇÃO: véase 若有所失
+若有所丧 | TRADUÇÃO: véase 若有所失
+若有所失 | TRADUÇÃO: como si se hubiera perdido algo (modismo)/sentirse desconcertado o desorientado/sensación de vacío
+若有所思 | TRADUÇÃO: (modismo) pensativo/con aire reflexivo
+若有若无 | TRADUÇÃO: apenas perceptible/casi imperceptible/faintly discernible
+若望 | TRADUÇÃO: Juan/San Juan/variante menos común de 約翰|约翰 empleada por la Iglesia católica
+若望福音 | TRADUÇÃO: Evangelio según San Juan (usado en traducciones de la Biblia católica)
+若果 | TRADUÇÃO: (literario) si/en el supuesto de que
+若无其事 | TRADUÇÃO: (modismo) como si nada hubiera pasado/tranquilo y despreocupado/imperturbable
+若然 | TRADUÇÃO: si/de ser así
+若尔盖 | TRADUÇÃO: véase 若爾蓋縣|若尔盖县
+若尔盖县 | TRADUÇÃO: condado de Zoigê en la prefectura autónoma tibetana y qiang de Ngawa 阿壩藏族羌族自治州|阿坝藏族羌族自治州, Sichuan
+若瑟 | TRADUÇÃO: José (nombre bíblico en la tradición católica)
+若羌 | TRADUÇÃO: véase 若羌縣|若羌县
+若羌县 | TRADUÇÃO: condado de Ruoqiang en la prefectura autónoma mongola de Bayingolin 巴音郭楞蒙古自治州, Sinkiang
+若翰 | TRADUÇÃO: Juan (variante litúrgica católica de 若望 o 約翰|约翰)
+若虫 | TRADUÇÃO: ninfa (entomología)
+若要人不知，除非己莫为 | TRADUÇÃO: si no quieres que nadie lo sepa, no lo hagas (proverbio)/(fig.) si haces algo malo, tarde o temprano se descubrirá
+若开山脉 | TRADUÇÃO: cordillera del Arakan (Arakan Yoma) en el oeste de Birmania (Myanmar)
+若隐若现 | TRADUÇÃO: (modismo) vislumbrarse a medias/aparecer y desaparecer/apenas visible
+若非 | TRADUÇÃO: si no fuera por/a no ser por
+苦 | TRADUÇÃO: amargo/sufrimiento/pena/sufrir/afligir/con esmero y afán
+苦不唧 | TRADUÇÃO: ligeramente amargo/amargoso
+苦不唧儿 | TRADUÇÃO: variante con erhua de 苦不唧
+苦不堪言 | TRADUÇÃO: sufrimiento indecible (modismo)/indescriptiblemente penoso/insoportable
+苦中作乐 | TRADUÇÃO: encontrar alegría en medio de las penas (modismo)/divertirse a pesar del sufrimiento
+苦主 | TRADUÇÃO: (antiguo) familia de la víctima en un homicidio/(Taiwán, HK) víctima (de un delito o percance)/(Taiwán) (coloq.) quien carga con el trabajo duro mientras otros se benefician
+苦事 | TRADUÇÃO: tarea difícil/labor penosa/trabajo arduo
+苦刑 | TRADUÇÃO: tortura/castigo corporal severo/penas corporales
+苦力 | TRADUÇÃO: trabajo extenuante/faena pesada/(préstamo) culi (peón o bracero no cualificado en época colonial)
+苦功 | TRADUÇÃO: arduo trabajo/esfuerzo concienzudo/empeño constante
+苦劳 | TRADUÇÃO: arduo trabajo/fatigas/mérito por trabajar duramente
+苦参 | TRADUÇÃO: sófora (Sophora flavescens, raíz amarga usada en MTC)
+苦口 | TRADUÇÃO: (lit.) sabor amargo (cf. la buena medicina es amarga 良藥苦口|良药苦口)/(fig.) con insistencia sincera (de una advertencia o consejo)
+苦口婆心 | TRADUÇÃO: aconsejar con paciencia maternal y sinceridad (modismo)/persuadir con desvelos y buenas intenciones
+苦味 | TRADUÇÃO: sabor amargo/amargor
+苦命 | TRADUÇÃO: destino amargo/vida desdichada/desafortunado
+苦哈哈 | TRADUÇÃO: pasar apuros económicos/luchar por subsistir/malvivir
+苦因 | TRADUÇÃO: causa del sufrimiento/origen de la aflicción
+苦境 | TRADUÇÃO: situación penosa/adversidad/circunstancias difíciles
+苦大仇深 | TRADUÇÃO: (modismo) amargura inmensa y odio profundo/profundo resentimiento acumulado por sufrimientos
+苦寒 | TRADUÇÃO: frío intenso/frío riguroso
+苦工 | TRADUÇÃO: trabajos forzados (código penal)/culi/obrero que realiza trabajos extenuantes
+苦差 | TRADUÇÃO: tarea ingrata/misión dura y mal pagada/trabajo penoso/corvea
+苦差事 | TRADUÇÃO: véase 苦差
+苦干 | TRADUÇÃO: trabajar con ahínco/esforzarse duramente
+苦役 | TRADUÇÃO: trabajos forzados/prestación personal obligatoria/servidumbre penal
+苦待 | TRADUÇÃO: tratar con dureza/maltratar
+苦心 | TRADUÇÃO: esfuerzo esmerado/desvelo/empeño minucioso/afán
+苦心孤诣 | TRADUÇÃO: consagrarse a algo con esmero solitario y originalidad (modismo)/esforzarse con dedicación meticulosa
+苦心经营 | TRADUÇÃO: construir o administrar con arduo esfuerzo y dedicación/gestionar con esmero
+苦思 | TRADUÇÃO: cavilar profundamente/pensamientos amargos/desahogar las penas
+苦思冥想 | TRADUÇÃO: (modismo) devanarse los sesos/meditar profundamente/romperse la cabeza pensando
+苦闷 | TRADUÇÃO: deprimido/apesadumbrado/abatido/desanimado
+苦情 | TRADUÇÃO: situación lamentable/desdicha/desgraciado/penoso
+苦恼 | TRADUÇÃO: angustiado/afligido/preocupado
+苦战 | TRADUÇÃO: dura batalla/lucha encarnizada/arduo combate
+苦于 | TRADUÇÃO: sufrir por/padecer a causa de (una desventaja)
+苦日子 | TRADUÇÃO: tiempos difíciles/días penosos/época de privaciones
+苦杏仁苷 | TRADUÇÃO: amigdalina
+苦果 | TRADUÇÃO: (lit.) fruto amargo/(fig.) consecuencia dolorosa/trago amargo
+苦根 | TRADUÇÃO: causa profunda de la pobreza o el sufrimiento
+苦楚 | TRADUÇÃO: sufrimiento/amargura/pena moral o física
+苦楝 | TRADUÇÃO: cinamomo/paraíso (Melia azedarach)
+苦水 | TRADUÇÃO: agua amarga/jugos gástricos ácidos/penas/(fig.) quejas amargas
+苦况 | TRADUÇÃO: situación lamentable/estado penoso/condiciones miserables
+苦活 | TRADUÇÃO: trabajo duro/labor agotadora
+苦活儿 | TRADUÇÃO: variante con erhua de 苦活
+苦海 | TRADUÇÃO: (lit.) mar de amargura/abismo del sufrimiento mundano (budismo)/profundidades de la desdicha
+苦海无边，回头是岸 | TRADUÇÃO: el mar de amargura no tiene límites, vuelve la cabeza para ver la orilla (modismo)/¡arrepiéntete y te salvarás!/solo la iluminación budista libra del sufrimiento mundano
+苦海茫茫 | TRADUÇÃO: inmenso mar de amargura (modismo)/vasto océano de sufrimientos
+苦涩 | TRADUÇÃO: amargo y áspero/doloroso/afligido/amargado
+苦熬 | TRADUÇÃO: soportar con sufrimiento/aguantar con paciencia años de penalidades
+苦瓜 | TRADUÇÃO: melón amargo/balsamina (Momordica charantia)
+苦瓜脸 | TRADUÇÃO: cara de pocos amigos/rostro avinagrado/cara mustia
+苦甘 | TRADUÇÃO: agridulce/dulce y amargo
+苦痛 | TRADUÇÃO: dolor/sufrimiento/padecimiento
+苦尽甘来 | TRADUÇÃO: tras la amargura llega la dulzura (modismo)/lo malo pasa y empieza lo bueno/después de la tormenta llega la calma
+苦窑 | TRADUÇÃO: (jerga) cárcel/prisión
+苦竹 | TRADUÇÃO: bambú amargo (Pleioblastus amarus)
+苦笑 | TRADUÇÃO: sonrisa forzada/sonrisa amarga/sonreír con amargura
+苦练 | TRADUÇÃO: entrenar arduamente/practicar con dedicación/esforzarse con sudor y empeño
+苦肉计 | TRADUÇÃO: estratagema de infligirse daño para engañar al enemigo/estratagema de autolesión/CL:條|条
+苦胆 | TRADUÇÃO: vesícula biliar
+苦艾 | TRADUÇÃO: ajenjo mayor/ajenjo (Artemisia absinthium)
+苦艾酒 | TRADUÇÃO: absenta (licor destilado con anís y ajenjo)
+苦苓 | TRADUÇÃO: cinamomo/árbol del paraíso (Melia azedarach)
+苦苣 | TRADUÇÃO: escarola/endivia (Cichorium endivia)
+苦苦 | TRADUÇÃO: insistentemente/con afán/arduamente/dolorosamente
+苦苦哀求 | TRADUÇÃO: suplicar amargamente/implorar con insistencia
+苦菊 | TRADUÇÃO: escarola/endivia
+苦菜花 | TRADUÇÃO: Flores de hierba amarga (novela de 1958 de Feng Deying 馮德英|冯德英, adaptada al cine en 1965)
+苦荬菜 | TRADUÇÃO: Ixeris denticulata
+苦蘵 | TRADUÇÃO: alquequenje cortado/vejigón (Physalis angulata)
+苦处 | TRADUÇÃO: sufrimiento/penalidades/angustia
+苦行 | TRADUÇÃO: práctica ascética/austeridad/mortificación
+苦行僧 | TRADUÇÃO: monje asceta/asceta
+苦行赎罪 | TRADUÇÃO: penitencia para expiar los pecados/mortificación expiatoria
+苦衷 | TRADUÇÃO: dificultades secretas/pesares íntimos/penas que no se pueden confesar
+苦谏 | TRADUÇÃO: amonestar con insistencia/aconsejar con vehemencia
+苦趣 | TRADUÇÃO: sinsabor/sensaciones amargas (lo opuesto a 樂趣|乐趣, deleite)
+苦迭塔 | TRADUÇÃO: (préstamo) golpe de Estado (del francés "coup d'état")
+苦迭打 | TRADUÇÃO: (préstamo) golpe de Estado (del francés "coup d'état")
+苦逼 | TRADUÇÃO: (coloq.) miserable/desgraciado/vida perra
+苦集灭道 | TRADUÇÃO: las Cuatro Nobles Verdades (budismo), a saber: toda vida es sufrimiento (苦), la causa del sufrimiento es el deseo (集), la liberación llega eliminando las pasiones (滅|灭), y el camino a la liberación es el Noble Camino Óctuple (道/八正道)/también llamado 四諦|四谛
+苦难 | TRADUÇÃO: sufrimiento/tribulaciones/calamidades
+苦难深重 | TRADUÇÃO: sufrimiento inmenso/profundas calamidades/pesar profundo
+苦头 | TRADUÇÃO: sinsabores/sufrimientos/amargas experiencias
+苎 | TRADUÇÃO: usado en 苧麻|苎麻
+苎麻 | TRADUÇÃO: (bot.) ramio (Boehmeria nivea)/fibra de ramio
+苩 | TRADUÇÃO: variante antigua de 葩
+苪 | TRADUÇÃO: brillante/espléndido/resplandeciente
+苫 | TRADUÇÃO: estera de paja/techado de paja/cubierta de rastrojo
+苯 | TRADUÇÃO: benceno (química)
+苯丙氨酸 | TRADUÇÃO: fenilalanina (Phe), un aminoácido esencial
+苯丙胺 | TRADUÇÃO: (química) anfetamina (C9H13N)
+苯丙酮尿症 | TRADUÇÃO: (med.) fenilcetonuria
+苯并噻吩 | TRADUÇÃO: benzotiofeno (C8H6S, compuesto heterocíclico aromático)
+苯乙烯 | TRADUÇÃO: estireno (química)
+苯二氮䓬 | TRADUÇÃO: (química orgánica, farmacología) benzodiacepina/benzodiazepina
+苯基 | TRADUÇÃO: grupo fenilo/fenilo (química)
+苯氧基 | TRADUÇÃO: grupo fenoxi/fenoxi (química)
+苯环 | TRADUÇÃO: anillo de benceno/anillo bencénico (química)
+苯环利定 | TRADUÇÃO: fenciclidina (PCP)
+苯甲酰氯 | TRADUÇÃO: cloruro de benzoílo (C6H5COCl)
+苯甲酸 | TRADUÇÃO: ácido benzoico (C6H5COOH)
+苯甲酸钠 | TRADUÇÃO: benzoato de sodio (E211, conservante alimentario)
+苯甲醛 | TRADUÇÃO: benzaldehído (C6H5CHO)
+苯胺 | TRADUÇÃO: (química) anilina (C6H5NH2); aminobenceno
+苯那辛 | TRADUÇÃO: benactizina
+苯酚 | TRADUÇÃO: fenol (C6H5OH)
+苯酮尿症 | TRADUÇÃO: fenilcetonuria (PKU)
+英 | TRADUÇÃO: Reino Unido/británico/Inglaterra/inglés/abrev. de 英國|英国 ‖ héroe/sobresaliente/excelente/(literario) flor/floración
+英中 | TRADUÇÃO: (Hong Kong) escuela secundaria que imparte la enseñanza en inglés
+英仙座 | TRADUÇÃO: Perseo (constelación)
+英仙臂 | TRADUÇÃO: brazo de Perseo (brazo espiral de nuestra galaxia)
+英代尔 | TRADUÇÃO: (Taiwán) Intel
+英俊 | TRADUÇÃO: apuesto/bien parecido/guapo
+英伦 | TRADUÇÃO: Inglaterra/Gran Bretaña
+英伦三岛 | TRADUÇÃO: islas británicas
+英伦腔 | TRADUÇÃO: acento británico
+英伦风格 | TRADUÇÃO: estilo británico (moda, diseño)
+英伟达 | TRADUÇÃO: NVIDIA (empresa tecnológica de tarjetas gráficas)
+英两 | TRADUÇÃO: onza imperial británica (antiguo)
+英勇 | TRADUÇÃO: heroico/valiente/aguerrido
+英勇牺牲 | TRADUÇÃO: sacrificar heroicamente la vida/morir como un héroe
+英吉利 | TRADUÇÃO: Inglaterra (préstamo histórico del inglés)
+英吉利海峡 | TRADUÇÃO: canal de la Mancha
+英吉沙 | TRADUÇÃO: véase 英吉沙縣|英吉沙县
+英吉沙县 | TRADUÇÃO: condado de Yengisar en la ciudad de Kashgar 喀什市, Sinkiang
+英名 | TRADUÇÃO: nombre ilustre/reputación legendaria/gloria
+英哩 | TRADUÇÃO: variante de 英里
+英吨 | TRADUÇÃO: tonelada larga/tonelada británica (equivalente a 2240 libras o 1,016 toneladas métricas)
+英国 | TRADUÇÃO: Reino Unido (RU); Gran Bretaña
+英国人 | TRADUÇÃO: británico; pueblo británico
+英国工程技术学会 | TRADUÇÃO: Institución de Ingeniería y Tecnología (IET)
+英国广播公司 | TRADUÇÃO: British Broadcasting Corporation/BBC
+英国广播电台 | TRADUÇÃO: British Broadcasting Corporation/radio BBC
+英国文化协会 | TRADUÇÃO: British Council/Consejo Británico
+英国皇家学会 | TRADUÇÃO: Real Sociedad de Londres/Royal Society
+英国石油 | TRADUÇÃO: British Petroleum/BP
+英国石油公司 | TRADUÇÃO: British Petroleum Company/BP
+英国管 | TRADUÇÃO: corno inglés
+英国电讯公司 | TRADUÇÃO: British Telecom/BT
+英姿 | TRADUÇÃO: porte heroico/figura gallarda/aspecto marcial
+英姿飒爽 | TRADUÇÃO: (de una persona) gallardo y resuelto/porte marcial e imponente
+英宗 | TRADUÇÃO: Yingzong (nombre de templo del sexto y octavo emperador Ming, de era Zhengtong 正統|正统)
+英寸 | TRADUÇÃO: pulgada (unidad de longitud equivalente a 2,54 cm)
+英寻 | TRADUÇÃO: braza inglesa (1,83 metros)
+英尺 | TRADUÇÃO: pie (unidad de longitud equivalente a 0,3048 m)
+英属哥伦比亚 | TRADUÇÃO: Columbia Británica (provincia de Canadá)
+英属维尔京群岛 | TRADUÇÃO: Islas Vírgenes Británicas
+英山 | TRADUÇÃO: véase 英山縣|英山县
+英山县 | TRADUÇÃO: condado de Yingshan en la ciudad de Huanggang 黃岡市|黄冈市, Hubei
+英年 | TRADUÇÃO: flor de la edad/juventud/años jóvenes
+英年早逝 | TRADUÇÃO: morir prematuramente (modismo)/fallecer en la flor de la vida
+英广 | TRADUÇÃO: BBC (abrev. de 英國廣播公司|英国广播公司)
+英式 | TRADUÇÃO: al estilo británico; al estilo inglés
+英式橄榄球 | TRADUÇÃO: rugby
+英德 | TRADUÇÃO: anglo-alemán/Inglaterra y Alemania ‖ véase 英德市
+英德市 | TRADUÇÃO: ciudad de Yingde en la ciudad de Qingyuan 清遠市|清远市, Guangdong
+英文 | TRADUÇÃO: lengua inglesa/inglés (idioma escrito)
+英明 | TRADUÇÃO: sabio/brillante/sagaz/esclarecido
+英明果断 | TRADUÇÃO: sabio y resolutivo/sagaz y decidido
+英格兰 | TRADUÇÃO: Inglaterra
+英格兰银行 | TRADUÇÃO: Banco de Inglaterra
+英武 | TRADUÇÃO: marcial/gallardo/porte guerrero
+英气 | TRADUÇÃO: espíritu heroico/porte gallardo
+英法 | TRADUÇÃO: Reino Unido y Francia/anglo-francés
+英汉 | TRADUÇÃO: inglés-chino
+英汉对译 | TRADUÇÃO: traducción paralela inglés-chino/texto bilingüe inglés-chino
+英烈 | TRADUÇÃO: héroe y mártir/héroe caído/valiente/hazañas heroicas
+英特尔 | TRADUÇÃO: Intel
+英特网 | TRADUÇÃO: véase 因特網|因特网
+英亩 | TRADUÇÃO: acre
+英短 | TRADUÇÃO: británico de pelo corto (abrev. de 英國短毛貓|英国短毛猫)
+英石 | TRADUÇÃO: stone (unidad británica de masa igual a 14 libras o aprox. 6,35 kg) ‖ piedra ornamental caliza (供石) de Yingde 英德, Guangdong
+英联合王国 | TRADUÇÃO: Reino Unido
+英联邦 | TRADUÇÃO: Mancomunidad de Naciones/Mancomunidad Británica de Naciones
+英华 | TRADUÇÃO: inglés-chino/lo mejor y más selecto
+英语 | TRADUÇÃO: inglés (idioma)
+英语教学 | TRADUÇÃO: enseñanza de la lengua inglesa (ELT)/docencia del inglés
+英语热 | TRADUÇÃO: furor por aprender inglés/fiebre del inglés
+英语系 | TRADUÇÃO: departamento de filología inglesa/anglófono
+英语角 | TRADUÇÃO: rincón del inglés/grupo de conversación en inglés
+英译 | TRADUÇÃO: traducción al inglés/versión inglesa
+英超 | TRADUÇÃO: Premier League/Liga Premier inglesa de fútbol
+英超赛 | TRADUÇÃO: liga Premier inglesa de fútbol
+英军 | TRADUÇÃO: ejército británico/fuerzas británicas
+英迪格酒店 | TRADUÇÃO: Hotel Indigo (marca hotelera)
+英里 | TRADUÇÃO: milla (unidad de longitud equivalente a 1,609 km)
+英镑 | TRADUÇÃO: libra esterlina
+英雄 | TRADUÇÃO: héroe/CL:個|个
+英雄好汉 | TRADUÇÃO: héroes y valientes/héroes insignes
+英雄式 | TRADUÇÃO: heroico
+英雄所见略同 | TRADUÇÃO: los grandes héroes suelen coincidir de opinión (modismo)/los grandes espíritos piensan igual
+英雄救美 | TRADUÇÃO: rescate heroico de una damisela en apuros
+英雄无用武之地 | TRADUÇÃO: un héroe sin campo donde desplegar su valor/no tener ocasión de demostrar el talento
+英雄联盟 | TRADUÇÃO: League of Legends (videojuego)
+英雄难过美人关 | TRADUÇÃO: hasta los más grandes héroes sucumben a los encantos de una bella mujer (modismo)
+英灵 | TRADUÇÃO: espíritu de un mártir; alma de los héroes caídos/(literario) persona de talento extraordinario
+英飞凌 | TRADUÇÃO: Infineon (empresa de semiconductores)
+苲 | TRADUÇÃO: véase 苲草
+苲草 | TRADUÇÃO: ceratófilo/cola de zorro acuática (Ceratophyllum)
+苴 | TRADUÇÃO: apellido Ju ‖ cáñamo hembra/tela de saco
+苴麻 | TRADUÇÃO: planta de cáñamo hembra (Cannabis sativa)
+苶 | TRADUÇÃO: cansado/agotado/fatigado
+苷 | TRADUÇÃO: orozuz/glucósido/glicósido
+苹 | TRADUÇÃO: artemisa/lenteja de agua ‖ usado en 蘋果|苹果
+苺 | TRADUÇÃO: variante antigua de 莓
+苻 | TRADUÇÃO: Angelica anomala (angélica medicinal)
+苻坚 | TRADUÇÃO: Fu Jian (338-385), emperador de los Qin Anteriores 前秦, reinó del 357 al 385
+苾 | TRADUÇÃO: (fonético)/fragante/aromático
+茀 | TRADUÇÃO: vegetación exuberante/frondoso
+茀星 | TRADUÇÃO: cometa (arcaico)
+茁 | TRADUÇÃO: brotar con fuerza/crecer vigorosamente/germinar
+茁壮 | TRADUÇÃO: sano y fuerte/vigoroso/robusto/crecer lozano y próspero
+茂 | TRADUÇÃO: frondoso/exuberante/(química) ciclopentadieno
+茂南 | TRADUÇÃO: véase 茂南區|茂南区
+茂南区 | TRADUÇÃO: distrito de Maonan en la ciudad de Maoming 茂名市, Guangdong

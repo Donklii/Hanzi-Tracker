@@ -24,6 +24,23 @@ dist/
 *.exe
 build_env/
 build_env_*/
+# Binários do Wails/Go compilados localmente (já foram commitados por engano uma vez).
+/hanzitracker
+/wails_app/wails_app
+
+# ----- Segredos locais -----
+.env
+*.env
+.env.*
+!.env.exemplo
+!.env.example
+wails_app/dicionario/traducao/cedict/traduzir/chave_deepseek.txt
+wails_app/dicionario/frases/chave_google.txt
 
 # ----- Dados gerados em runtime -----
 exportacao/*.csv
+
+# ----- Saída de apuração da fusão do dicionário -----
+# Cópia plana (não gzipada) do dicionario.jsonl.gz, só para visualização/apuração humana (grep, diff).
+# 100% derivável do .gz versionado — não faz sentido duplicar no git.
+wails_app/dicionario/fusao/saida/

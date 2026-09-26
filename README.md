@@ -88,7 +88,7 @@ sobre o dicionário inteiro).
 ![Seleção de modos de revisão: Geral, Significado, Fonética, Desenho, Contexto, Ordenação e Pronúncia](docs/images/revisao-modos.png)
 
 Sete modos de prática, sorteando entre as palavras marcadas como "em estudo" e o dicionário geral, com
-uma camada de gamificação estilo Duolingo (sequência de acertos, pontos, elogios e efeitos sonoros):
+uma camada de gamificação (sequência de acertos, pontos, elogios e efeitos sonoros):
 
 - **Geral** — mistura todas as modalidades abaixo em uma única sessão.
 - **Significado** — liga o hanzi ao seu significado (e vice-versa).
@@ -107,9 +107,20 @@ uma camada de gamificação estilo Duolingo (sequência de acertos, pontos, elog
 
 ### Sincronização e backup na nuvem
 
-Conecte sua conta do **Google Drive** (OAuth) para manter o progresso sincronizado entre computadores.
-Na primeira conexão, se já existir um backup na nuvem, você escolhe entre manter o banco local ou o da
-nuvem. Tudo é gerenciável pela aba **Armazenamento** das configurações, junto com o uso de disco por
+Conecte sua conta do **Google Drive** para manter o progresso **e as configurações** sincronizados
+entre computadores — um clique e a autorização no navegador, sem precisar criar credencial nenhuma.
+O backup fica **no seu próprio Drive**, numa pasta dedicada que o app cria:
+
+```
+Hanzi Tracker/
+├── progresso.db          vocabulário, progresso e caches
+└── configuracoes.json    suas preferências
+```
+
+Só o Hanzi Tracker enxerga esses arquivos; o
+[servidor do projeto](https://github.com/Donklii/Server-Hanzi-Tracker) faz apenas a ponte da
+credencial e nunca recebe os seus dados. Na primeira conexão, se já existir um backup na nuvem, você
+escolhe entre manter os dados locais ou os da nuvem. Tudo é gerenciável pela aba **Armazenamento** das configurações, junto com o uso de disco por
 categoria (motores, modelos, banco, cache de tradução/voz) e opções para limpar itens individuais ou
 excluir tudo.
 
@@ -141,9 +152,9 @@ detalhes.
 - **Go** 1.25+
 - **Node.js** (npm) para o Frontend Vite/React — instalado automaticamente pelo Wails a cada build/dev.
 - **Wails CLI** (`go install github.com/wailsapp/wails/v2/cmd/wails@latest`).
-- Arquivos de Dicionário em `wails_app/dicionario/`:
-  - `cedict_ts.u8` (CC-CEDICT)
-  - `makemeahanzi_dictionary.txt` (MakeMeAHanzi)
+- Arquivos de Dicionário em `wails_app/dicionario/idiomas/<idioma>/` (inglês é o fallback):
+  - `idiomas/en/cedict.u8` (CC-CEDICT)
+  - `idiomas/en/makemeahanzi.txt` (MakeMeAHanzi) e `idiomas/pt-BR/makemeahanzi.txt` (tradução pt-BR)
 
 > **Python só é necessário se você for mexer no código dos motores** (`python_backend/`) ou recongelar
 > os sidecars para publicar uma nova versão (ver [docs/BUILD.md](docs/BUILD.md) e

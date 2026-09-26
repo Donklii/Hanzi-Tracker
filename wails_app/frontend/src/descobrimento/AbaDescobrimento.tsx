@@ -7,6 +7,7 @@ import { ListaCartoes } from '../comum/ListaCartoes';
 import { DeduplicarCartoes } from '../comum/cartoes';
 import { STATUS_VOCABULARIO } from '../comum/status';
 import { ABAS, Aba } from '../casca/abas';
+import { t } from '../i18n/i18n';
 
 interface AbaDescobrimentoProps {
   abaAtiva: Aba;
@@ -19,13 +20,15 @@ interface AbaDescobrimentoProps {
   AoClicarNoCartao: (c: any) => void;
   SalvarPalavra: (cartao: any, status: string) => void;
   ocultarBadgeTipo?: boolean;
+  ordenarPorRanking: boolean;
 }
 
 
 export function AbaDescobrimento(props: AbaDescobrimentoProps) {
   const {
     abaAtiva, cartoes, cartoesSecao, vistas, cartoesVocabulario,
-    AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, SalvarPalavra, ocultarBadgeTipo
+    AoEntrarNoCartao, AoSairDoCartao, AoClicarNoCartao, SalvarPalavra, ocultarBadgeTipo,
+    ordenarPorRanking
   } = props;
 
   // Thunks (e não valores): só a lista da aba ativa é calculada — DeduplicarCartoes varre o
@@ -41,35 +44,33 @@ export function AbaDescobrimento(props: AbaDescobrimentoProps) {
     return null;
   }
 
+  let finalRawList = obterLista();
+  if (ordenarPorRanking) {
+    finalRawList = [...finalRawList].sort((a, b) => {
+      const posA = a.posicaoRanking || (a as any).PosicaoRanking || 0;
+      const posB = b.posicaoRanking || (b as any).PosicaoRanking || 0;
+      
+      if (posA > 0 && posB > 0) return posA - posB;
+      if (posA > 0) return -1;
+      if (posB > 0) return 1;
+      
+      const aHanzi = a.hanzi || (a as any).Hanzi || a.Hanzi || '';
+      const bHanzi = b.hanzi || (b as any).Hanzi || b.Hanzi || '';
+      return aHanzi.length - bHanzi.length;
+    });
+  }
+
   return (
     <ListaCartoes
-      key={abaAtiva} // remonta ao trocar de aba, como faziam os três blocos separados de antes
+      key={abaAtiva + (ordenarPorRanking ? '-sorted' : '')} // remonta ao trocar de aba ou ordenação
       cartoesVocabulario={cartoesVocabulario}
       AoEntrarNoCartao={AoEntrarNoCartao}
       AoSairDoCartao={AoSairDoCartao}
       AoClicarNoCartao={AoClicarNoCartao}
-      list={obterLista()}
+      list={finalRawList}
       defaultStatus={STATUS_VOCABULARIO.Visto}
-      actionBtns={(cartao: any) => <BotaoMoverParaEstudo cartao={cartao} SalvarPalavra={SalvarPalavra} />}
+      SalvarPalavra={SalvarPalavra}
       ocultarBadgeTipo={ocultarBadgeTipo}
     />
-  );
-}
-
-
-interface BotaoMoverParaEstudoProps {
-  cartao: any;
-  SalvarPalavra: (cartao: any, status: string) => void;
-}
-
-function BotaoMoverParaEstudo({ cartao, SalvarPalavra }: BotaoMoverParaEstudoProps) {
-  return (
-    <button
-      className="scan-btn"
-      style={{ padding: '4px 8px', fontSize: '11px' }}
-      onClick={() => SalvarPalavra(cartao, STATUS_VOCABULARIO.Estudo)}
-    >
-      + Mover p/ Estudo
-    </button>
   );
 }

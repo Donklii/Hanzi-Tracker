@@ -1,13 +1,22 @@
-// Package nuvem sincroniza o banco de progresso (progresso.db) com o Google Drive do usuário.
-// O app continua salvando tudo localmente; a nuvem é um ESPELHO: depois de conectado, o banco é
-// reenviado em segundo plano sempre que mudar (LoopSincronizacao) e numa última chance no shutdown.
+// Package nuvem sincroniza os dados do usuário com o Google Drive dele, numa pasta dedicada:
+//
+//	Hanzi Tracker/
+//	├── progresso.db          (vocabulário, progresso e caches)
+//	└── configuracoes.json    (preferências do app)
+//
+// O app continua salvando tudo localmente; a nuvem é um ESPELHO: depois de conectado, os dois
+// arquivos são reenviados em segundo plano sempre que qualquer um deles mudar (LoopSincronizacao)
+// e numa última chance no shutdown.
 //
 // Primeira conexão: se o Drive já tem um backup (de outra máquina ou instalação anterior), nada é
 // sincronizado até o usuário escolher — manter os dados locais (sobrescreve a nuvem) ou usar os da
-// nuvem (sobrescreve o banco local). A escolha fica pendente em disco (sobrevive a reaberturas).
+// nuvem (sobrescreve o que está em disco). A escolha fica pendente em disco (sobrevive a
+// reaberturas). O sinal de "já existe backup" é o progresso.db: as configurações o acompanham.
 //
-// Tudo em stdlib: OAuth 2.0 de app instalado com PKCE + redirect em loopback (oauth.go) e a API
-// REST v3 do Drive (drive.go), escopo drive.file — o app só enxerga arquivos criados por ele.
+// As credenciais do Google ficam no servidor do Hanzi Tracker, não aqui: o app só guarda um LACRE
+// (ponte.go) e o troca por um token de acesso curto a cada operação. Os bytes do banco continuam
+// indo direto para a API REST v3 do Drive (drive.go), escopo drive.file — o app só enxerga
+// arquivos criados por ele, e o servidor nunca vê o banco.
 package nuvem
 
 import (
@@ -33,20 +42,29 @@ const (
 
 // Dependencias é a cola com o resto do app, injetada para o pacote não conhecer Wails/progresso.
 type Dependencias struct {
-	AbrirNavegador   func(url string)           // abre a tela de consentimento no navegador do usuário
-	Credenciais      func() (id, secret string) // client id/secret OAuth colados pelo usuário na UI
+	AbrirNavegador func(url string) // abre a tela de consentimento no navegador do usuário
+
 	CaminhoBanco     func() string              // caminho do progresso.db local
 	ExportarSnapshot func(destino string) error // cópia consistente do banco (VACUUM INTO)
 	SubstituirBanco  func(origem string) error  // fecha o banco, põe `origem` no lugar e reabre
+
+	CaminhoConfiguracoes    func() string             // caminho do configuracoes.json local
+	SubstituirConfiguracoes func(origem string) error // põe `origem` no lugar e recarrega as preferências
 }
 
-// estadoSalvo é o conteúdo de google_drive.json: o token OAuth e o ponto da sincronização.
+// estadoSalvo é o conteúdo de google_drive.json: a credencial da conexão e o ponto da sincronização.
+// Lacre é o refresh token cifrado pelo servidor — ilegível para o app e para quem ler o arquivo.
+// Os três ids são do Drive e valem só enquanto o usuário não apagar a pasta de lá.
 type estadoSalvo struct {
-	RefreshToken        string    `json:"refreshToken"`
-	AccessToken         string    `json:"accessToken"`
-	ExpiraEm            time.Time `json:"expiraEm"`
-	Email               string    `json:"email"`
-	RemotoId            string    `json:"remotoId,omitempty"` // id do backup no Drive ("" = ainda não criado)
+	Lacre       string    `json:"lacre"`
+	AccessToken string    `json:"accessToken"`
+	ExpiraEm    time.Time `json:"expiraEm"`
+	Email       string    `json:"email"`
+
+	PastaId               string `json:"pastaId,omitempty"`               // pasta "Hanzi Tracker" no Drive
+	RemotoIdBanco         string `json:"remotoIdBanco,omitempty"`         // progresso.db ("" = ainda não enviado)
+	RemotoIdConfiguracoes string `json:"remotoIdConfiguracoes,omitempty"` // configuracoes.json ("" = ainda não enviado)
+
 	ConflitoPendente    bool      `json:"conflitoPendente,omitempty"`
 	RemotoBytes         int64     `json:"remotoBytes,omitempty"`
 	RemotoModificadoEm  time.Time `json:"remotoModificadoEm,omitempty"`
@@ -55,7 +73,7 @@ type estadoSalvo struct {
 
 // Info é o DTO do estado da nuvem para a UI (aba Armazenamento).
 type Info struct {
-	Estado              string `json:"estado"` // "nao_configurado" | "desconectado" | "conflito" | "conectado"
+	Estado              string `json:"estado"` // "desconectado" | "conflito" | "conectado"
 	Email               string `json:"email"`
 	UltimaSincronizacao string `json:"ultimaSincronizacao"` // RFC3339 ("" = nunca sincronizou)
 	RemotoBytes         int64  `json:"remotoBytes"`
@@ -79,7 +97,7 @@ type Gerenciador struct {
 
 // NovoGerenciador cria o gerenciador e recarrega a conexão salva em disco, se houver.
 func NovoGerenciador(dep Dependencias) *Gerenciador {
-	g := &Gerenciador{dep: dep, urls: endpointsGoogle}
+	g := &Gerenciador{dep: dep, urls: endpointsPadrao()}
 	g.token = carregarEstado()
 	return g
 }
@@ -92,10 +110,6 @@ func (g *Gerenciador) Info() Info {
 	defer g.mu.Unlock()
 
 	info := Info{Estado: "desconectado", Erro: g.ultimoErro}
-	if !g.Configurado() {
-		info.Estado = "nao_configurado"
-		return info
-	}
 	if g.token == nil {
 		return info
 	}
@@ -112,9 +126,7 @@ func (g *Gerenciador) Info() Info {
 	if !g.token.RemotoModificadoEm.IsZero() {
 		info.RemotoModificadoEm = g.token.RemotoModificadoEm.Format(time.RFC3339)
 	}
-	if st, err := os.Stat(g.dep.CaminhoBanco()); err == nil {
-		info.LocalBytes = st.Size()
-	}
+	info.LocalBytes = tamanhoDoArquivo(g.dep.CaminhoBanco()) + tamanhoDoArquivo(g.dep.CaminhoConfiguracoes())
 	return info
 }
 
@@ -124,9 +136,6 @@ func (g *Gerenciador) Info() Info {
 // verificação inicial: sem backup na nuvem, envia o banco local; com backup, deixa o CONFLITO
 // pendente para o usuário resolver (ResolverConflito). Bloqueia até terminar ou estourar o tempo.
 func (g *Gerenciador) Conectar() (Info, error) {
-	if !g.Configurado() {
-		return g.Info(), fmt.Errorf("preencha o Client ID e o Client Secret do Google na aba Armazenamento antes de conectar")
-	}
 	if err := g.reservar(); err != nil {
 		return g.Info(), err
 	}
@@ -137,32 +146,46 @@ func (g *Gerenciador) Conectar() (Info, error) {
 		return g.Info(), err
 	}
 
-	remoto, err := g.procurarArquivoRemoto(tok)
+	pastaId, err := g.garantirPastaRemota(tok)
 	if err != nil {
-		// Sem saber se há backup remoto não dá para sincronizar com segurança — a conexão é
-		// descartada (o token não foi salvo) e o usuário tenta de novo.
+		// Sem a pasta não dá para sincronizar — a conexão é descartada (o lacre não foi salvo) e o
+		// usuário tenta de novo.
+		return g.Info(), fmt.Errorf("conectou ao Google, mas falhou ao preparar a pasta no Drive: %w", err)
+	}
+	tok.PastaId = pastaId
+
+	remoto, err := g.listarPastaRemota(tok, pastaId)
+	if err != nil {
 		return g.Info(), fmt.Errorf("conectou ao Google, mas falhou ao consultar o Drive: %w", err)
 	}
 
-	if remoto == nil {
-		// Nuvem vazia: o banco local vira o backup — conectado e sincronizado num passo só.
-		if err := g.enviarBanco(tok); err != nil {
-			return g.Info(), fmt.Errorf("conectou, mas falhou ao enviar o banco: %w", err)
+	if remoto.Banco == nil {
+		// Nuvem vazia: os dados locais viram o backup — conectado e sincronizado num passo só.
+		// Um configuracoes.json solto na pasta (sem banco) é sobrescrito junto, não vira conflito.
+		if remoto.Configuracoes != nil {
+			tok.RemotoIdConfiguracoes = remoto.Configuracoes.Id
+		}
+		if err := g.enviarArquivos(tok); err != nil {
+			return g.Info(), fmt.Errorf("conectou, mas falhou ao enviar os dados: %w", err)
 		}
 	} else {
 		// Já existe backup: nada é tocado até o usuário escolher um dos lados.
 		tok.ConflitoPendente = true
-		tok.RemotoId = remoto.Id
-		tok.RemotoBytes = remoto.Bytes
-		tok.RemotoModificadoEm = remoto.ModificadoEm
+		tok.RemotoIdBanco = remoto.Banco.Id
+		tok.RemotoBytes = remoto.Banco.Bytes
+		tok.RemotoModificadoEm = remoto.Banco.ModificadoEm
+		if remoto.Configuracoes != nil {
+			tok.RemotoIdConfiguracoes = remoto.Configuracoes.Id
+			tok.RemotoBytes += remoto.Configuracoes.Bytes
+		}
 	}
 
 	g.definirToken(tok)
 	return g.Info(), nil
 }
 
-// ResolverConflito aplica a escolha do usuário da primeira conexão: EscolhaManterLocal envia o
-// banco local por cima do backup, EscolhaUsarNuvem baixa o backup por cima do banco local.
+// ResolverConflito aplica a escolha do usuário da primeira conexão: EscolhaManterLocal envia os
+// dados locais por cima do backup, EscolhaUsarNuvem baixa o backup por cima dos dados locais.
 func (g *Gerenciador) ResolverConflito(escolha string) (Info, error) {
 	if err := g.reservar(); err != nil {
 		return g.Info(), err
@@ -176,11 +199,11 @@ func (g *Gerenciador) ResolverConflito(escolha string) (Info, error) {
 
 	switch escolha {
 	case EscolhaManterLocal:
-		if err := g.enviarBanco(tok); err != nil {
+		if err := g.enviarArquivos(tok); err != nil {
 			return g.Info(), err
 		}
 	case EscolhaUsarNuvem:
-		if err := g.baixarBanco(tok); err != nil {
+		if err := g.baixarArquivos(tok); err != nil {
 			return g.Info(), err
 		}
 	default:
@@ -214,7 +237,8 @@ func (g *Gerenciador) Desconectar() (Info, error) {
 
 // ----- Sincronização -----
 
-// Sincronizar envia um snapshot do banco local para a nuvem agora (botão "Sincronizar agora").
+// Sincronizar envia agora um snapshot do banco e as configurações para a nuvem (botão
+// "Sincronizar agora").
 func (g *Gerenciador) Sincronizar() (Info, error) {
 	if err := g.reservar(); err != nil {
 		return g.Info(), err
@@ -229,16 +253,16 @@ func (g *Gerenciador) Sincronizar() (Info, error) {
 		return g.Info(), fmt.Errorf("resolva o conflito da primeira conexão antes de sincronizar")
 	}
 
-	if err := g.enviarBanco(tok); err != nil {
+	if err := g.enviarArquivos(tok); err != nil {
 		return g.Info(), err
 	}
 	g.definirToken(tok)
 	return g.Info(), nil
 }
 
-// SincronizarSeMudou reenvia o banco só se ele mudou desde a última sincronização (comparação por
-// mtime). É o passo do loop de fundo e do shutdown; falhas não são fatais — ficam em Info().Erro
-// e a próxima passada tenta de novo.
+// SincronizarSeMudou reenvia os dados só se o banco OU as configurações mudaram desde a última
+// sincronização (comparação por mtime). É o passo do loop de fundo e do shutdown; falhas não são
+// fatais — ficam em Info().Erro e a próxima passada tenta de novo.
 func (g *Gerenciador) SincronizarSeMudou() {
 	g.mu.Lock()
 	pronto := g.token != nil && !g.token.ConflitoPendente && !g.ocupado
@@ -251,14 +275,27 @@ func (g *Gerenciador) SincronizarSeMudou() {
 		return
 	}
 
-	st, err := os.Stat(g.dep.CaminhoBanco())
-	if err != nil || !st.ModTime().After(ultima) {
+	if !g.algoMudouDesde(ultima) {
 		return
 	}
 	g.Sincronizar()
 }
 
-// LoopSincronizacao espelha o banco em segundo plano: um primeiro tique logo após abrir (apanha
+// algoMudouDesde diz se algum dos arquivos sincronizados foi tocado depois de `momento`.
+func (g *Gerenciador) algoMudouDesde(momento time.Time) bool {
+	for _, caminho := range []string{g.dep.CaminhoBanco(), g.dep.CaminhoConfiguracoes()} {
+		st, err := os.Stat(caminho)
+		if err != nil {
+			continue
+		}
+		if st.ModTime().After(momento) {
+			return true
+		}
+	}
+	return false
+}
+
+// LoopSincronizacao espelha os dados em segundo plano: um primeiro tique logo após abrir (apanha
 // mudanças da sessão anterior que ficaram sem envio) e depois a cada `intervalo`, até o ctx cair.
 func (g *Gerenciador) LoopSincronizacao(ctx context.Context, intervalo time.Duration) {
 	temporizador := time.NewTimer(30 * time.Second)
@@ -277,48 +314,141 @@ func (g *Gerenciador) LoopSincronizacao(ctx context.Context, intervalo time.Dura
 
 // ----- Passos internos (rodam já reservados) -----
 
-// enviarBanco tira um snapshot consistente do banco e o sobe para a nuvem, atualizando os
-// metadados de sincronização em `tok` (que o chamador persiste com definirToken).
-func (g *Gerenciador) enviarBanco(tok *estadoSalvo) error {
+// enviarArquivos sobe o banco e as configurações para a pasta do backup, atualizando os metadados
+// de sincronização em `tok` (que o chamador persiste com definirToken).
+//
+// Os ids do Drive guardados em `tok` valem só enquanto o usuário não apagar nada de lá. Quando o
+// Drive responde "não encontrado", eles apontam para o que já não existe: o destino é redescoberto
+// e o envio refeito uma vez, para uma pasta apagada por engano não deixar a sincronização quebrada
+// para sempre.
+func (g *Gerenciador) enviarArquivos(tok *estadoSalvo) error {
 	snapshot := filepath.Join(armazenamento.PastaDados(), "progresso.db.envio.tmp")
 	if err := g.dep.ExportarSnapshot(snapshot); err != nil {
 		return g.registrarErro(fmt.Errorf("falha ao preparar o snapshot do banco: %w", err))
 	}
 	defer os.Remove(snapshot)
 
-	id, err := g.enviarArquivo(tok, snapshot, tok.RemotoId)
+	err := g.subirOhBackup(tok, snapshot)
+	if ehNaoEncontrado(err) {
+		if erroRedescoberta := g.redescobrirDestino(tok); erroRedescoberta != nil {
+			return g.registrarErro(erroRedescoberta)
+		}
+		err = g.subirOhBackup(tok, snapshot)
+	}
 	if err != nil {
-		return g.registrarErro(fmt.Errorf("falha ao enviar o banco para o Drive: %w", err))
+		return g.registrarErro(err)
 	}
 
-	tok.RemotoId = id
 	tok.UltimaSincronizacao = time.Now()
 	tok.RemotoModificadoEm = tok.UltimaSincronizacao
-	if st, err := os.Stat(snapshot); err == nil {
-		tok.RemotoBytes = st.Size() // o que subiu foi o snapshot (compactado), não o arquivo vivo
-	}
 	g.limparErro()
 	return nil
 }
 
-// baixarBanco baixa o backup remoto e o põe no lugar do banco local (via SubstituirBanco, que
-// fecha e reabre a conexão SQLite). Baixa para um temporário primeiro — se a rede cair no meio,
-// o banco local fica intacto.
-func (g *Gerenciador) baixarBanco(tok *estadoSalvo) error {
-	temporario := filepath.Join(armazenamento.PastaDados(), "progresso.db.nuvem.tmp")
-	if err := g.baixarArquivo(tok, tok.RemotoId, temporario); err != nil {
-		os.Remove(temporario)
-		return g.registrarErro(fmt.Errorf("falha ao baixar o backup da nuvem: %w", err))
+// subirOhBackup envia os dois arquivos para a pasta apontada por `tok` e atualiza os ids e o
+// tamanho remoto. O erro volta cru: quem decide se vale redescobrir o destino é enviarArquivos.
+func (g *Gerenciador) subirOhBackup(tok *estadoSalvo, snapshot string) error {
+	idBanco, err := g.enviarArquivo(tok, snapshot, tok.RemotoIdBanco, tok.PastaId, nomeArquivoBanco)
+	if err != nil {
+		return fmt.Errorf("falha ao enviar o banco para o Drive: %w", err)
+	}
+	tok.RemotoIdBanco = idBanco
+	tok.RemotoBytes = tamanhoDoArquivo(snapshot) // o que subiu foi o snapshot, não o arquivo vivo
+
+	// As configurações só sobem quando o arquivo local está íntegro: mandar um JSON truncado (lido
+	// no meio de uma gravação do app) contaminaria as preferências das outras máquinas.
+	caminhoConfiguracoes := g.dep.CaminhoConfiguracoes()
+	if err := conferirJsonIntegro(caminhoConfiguracoes); err != nil {
+		return fmt.Errorf("banco enviado, mas as configurações ficaram de fora: %w", err)
 	}
 
-	if err := g.dep.SubstituirBanco(temporario); err != nil {
-		os.Remove(temporario)
+	idConfiguracoes, err := g.enviarArquivo(tok, caminhoConfiguracoes, tok.RemotoIdConfiguracoes, tok.PastaId, nomeArquivoConfiguracoes)
+	if err != nil {
+		return fmt.Errorf("banco enviado, mas falhou ao enviar as configurações: %w", err)
+	}
+	tok.RemotoIdConfiguracoes = idConfiguracoes
+	tok.RemotoBytes += tamanhoDoArquivo(caminhoConfiguracoes)
+	return nil
+}
+
+// redescobrirDestino refaz os ids do Drive depois de um "não encontrado": esquece o que estava
+// salvo, resolve a pasta de novo e readota os arquivos que ainda restam lá dentro.
+//
+// É aqui que mora o cuidado de não duplicar. A pasta só nasce quando a busca por nome não acha
+// nenhuma (garantirPastaRemota), então apagar só um arquivo não gera uma segunda pasta; e cada
+// arquivo só é criado do zero quando não há homônimo na pasta para sobrescrever, então o que
+// sobreviveu é atualizado no lugar em vez de ganhar uma cópia ao lado.
+func (g *Gerenciador) redescobrirDestino(tok *estadoSalvo) error {
+	tok.PastaId = ""
+	tok.RemotoIdBanco = ""
+	tok.RemotoIdConfiguracoes = ""
+
+	pastaId, err := g.garantirPastaRemota(tok)
+	if err != nil {
+		return fmt.Errorf("o backup sumiu do Drive e falhou ao preparar a pasta de novo: %w", err)
+	}
+	tok.PastaId = pastaId
+
+	remoto, err := g.listarPastaRemota(tok, pastaId)
+	if err != nil {
+		return fmt.Errorf("o backup sumiu do Drive e falhou ao consultar a pasta: %w", err)
+	}
+	if remoto.Banco != nil {
+		tok.RemotoIdBanco = remoto.Banco.Id
+	}
+	if remoto.Configuracoes != nil {
+		tok.RemotoIdConfiguracoes = remoto.Configuracoes.Id
+	}
+	return nil
+}
+
+// baixarArquivos traz o backup da nuvem por cima dos dados locais: o banco (via SubstituirBanco,
+// que fecha e reabre a conexão SQLite) e as configurações. Cada arquivo é baixado para um
+// temporário primeiro — se a rede cair no meio, o que está em disco fica intacto.
+func (g *Gerenciador) baixarArquivos(tok *estadoSalvo) error {
+	temporarioBanco := filepath.Join(armazenamento.PastaDados(), "progresso.db.nuvem.tmp")
+	if err := g.baixarArquivo(tok, tok.RemotoIdBanco, temporarioBanco); err != nil {
+		os.Remove(temporarioBanco)
+		return g.registrarErro(fmt.Errorf("falha ao baixar o backup da nuvem: %w", err))
+	}
+	if err := g.dep.SubstituirBanco(temporarioBanco); err != nil {
+		os.Remove(temporarioBanco)
 		return g.registrarErro(fmt.Errorf("falha ao trocar o banco local pelo da nuvem: %w", err))
+	}
+
+	if err := g.baixarConfiguracoes(tok); err != nil {
+		return err
 	}
 
 	// Local e nuvem acabaram de ficar idênticos.
 	tok.UltimaSincronizacao = time.Now()
 	g.limparErro()
+	return nil
+}
+
+// baixarConfiguracoes traz o configuracoes.json da nuvem. Um backup criado antes desta versão (ou
+// por uma máquina que falhou ao enviar as preferências) não tem o arquivo: nesse caso as
+// configurações locais continuam valendo, e é o backup que se completa na próxima sincronização.
+func (g *Gerenciador) baixarConfiguracoes(tok *estadoSalvo) error {
+	if tok.RemotoIdConfiguracoes == "" {
+		return nil
+	}
+
+	temporario := filepath.Join(armazenamento.PastaDados(), "configuracoes.json.nuvem.tmp")
+	if err := g.baixarArquivo(tok, tok.RemotoIdConfiguracoes, temporario); err != nil {
+		os.Remove(temporario)
+		return g.registrarErro(fmt.Errorf("banco restaurado, mas falhou ao baixar as configurações: %w", err))
+	}
+	// Um JSON corrompido na nuvem deixaria o app sem preferências válidas ao reabrir.
+	if err := conferirJsonIntegro(temporario); err != nil {
+		os.Remove(temporario)
+		return g.registrarErro(fmt.Errorf("banco restaurado, mas as configurações da nuvem vieram ilegíveis: %w", err))
+	}
+
+	if err := g.dep.SubstituirConfiguracoes(temporario); err != nil {
+		os.Remove(temporario)
+		return g.registrarErro(fmt.Errorf("banco restaurado, mas falhou ao aplicar as configurações da nuvem: %w", err))
+	}
 	return nil
 }
 
@@ -374,6 +504,30 @@ func (g *Gerenciador) limparErro() {
 	g.mu.Unlock()
 }
 
+// ----- Utilitários -----
+
+// tamanhoDoArquivo devolve o tamanho em bytes (0 quando o arquivo não existe ou não pode ser lido).
+func tamanhoDoArquivo(caminho string) int64 {
+	st, err := os.Stat(caminho)
+	if err != nil {
+		return 0
+	}
+	return st.Size()
+}
+
+// conferirJsonIntegro recusa um arquivo que não seja um JSON completo — pega tanto arquivo lido no
+// meio de uma gravação quanto download interrompido.
+func conferirJsonIntegro(caminho string) error {
+	dados, err := os.ReadFile(caminho)
+	if err != nil {
+		return fmt.Errorf("não foi possível ler %s: %w", filepath.Base(caminho), err)
+	}
+	if !json.Valid(dados) {
+		return fmt.Errorf("%s não está em JSON válido", filepath.Base(caminho))
+	}
+	return nil
+}
+
 // ----- Persistência do estado -----
 
 func caminhoEstado() string {
@@ -388,14 +542,14 @@ func carregarEstado() *estadoSalvo {
 		return nil
 	}
 	var estado estadoSalvo
-	if err := json.Unmarshal(dados, &estado); err != nil || estado.RefreshToken == "" {
+	if err := json.Unmarshal(dados, &estado); err != nil || estado.Lacre == "" {
 		return nil
 	}
 	return &estado
 }
 
 // salvarEstado persiste o estado com escrita atômica (temp + rename) e permissão restrita ao
-// usuário — o arquivo carrega o refresh token da conta Google.
+// usuário — o arquivo carrega a credencial da conexão com a conta Google.
 func salvarEstado(estado *estadoSalvo) error {
 	dados, err := json.MarshalIndent(estado, "", "  ")
 	if err != nil {

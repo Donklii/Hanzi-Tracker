@@ -1092,9 +1092,10 @@ func OcultarResumo() {
 
 
 
-// OcultarDestaquesTemporariamente esconde os destaques (bordas), aguarda a atualização
-// do compositor, roda a acao (print da tela) e os restaura.
-func OcultarDestaquesTemporariamente(acao func()) {
+// ExecutarCapturaSemOverlays roda a acao (print da tela) sem os destaques na frente: esconde as
+// bordas, aguarda a atualização do compositor, roda a acao e os restaura. No X11 não há equivalente
+// ao WDA_EXCLUDEFROMCAPTURE do Windows, então o esconde-e-restaura é o único caminho.
+func ExecutarCapturaSemOverlays(acao func()) {
 	if !inicializacaoOk {
 		acao()
 		return
@@ -1141,9 +1142,10 @@ func OcultarDestaquesTemporariamente(acao func()) {
 
 
 
-// RetangulosVisiveis devolve, em coordenadas absolutas de tela, os retângulos de todas as
-// janelas do overlay atualmente visíveis. Usado para censurar antes do OCR.
-func RetangulosVisiveis() []Rect {
+// RetangulosParaCensura devolve, em coordenadas absolutas de tela, os retângulos de todas as
+// janelas do overlay atualmente visíveis — elas aparecem no print e precisam ser censuradas
+// antes do OCR.
+func RetangulosParaCensura() []Rect {
 	if !inicializacaoOk {
 		return nil
 	}

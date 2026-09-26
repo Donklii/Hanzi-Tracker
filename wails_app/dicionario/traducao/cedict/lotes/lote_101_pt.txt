@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+货币危机 | TRADUÇÃO: crise monetária
+货币市场 | TRADUÇÃO: mercado monetário
+货币贬值 | TRADUÇÃO: desvalorização monetária/desvalorizar uma moeda
+货摊 | TRADUÇÃO: barraca de vendedor
+货架 | TRADUÇÃO: prateleira para mercadorias/prateleira de loja
+货梯 | TRADUÇÃO: elevador de carga
+货棚 | TRADUÇÃO: barraca coberta/galpão
+货栈 | TRADUÇÃO: armazém
+货机 | TRADUÇÃO: avião de carga
+货柜 | TRADUÇÃO: balcão para exibição de mercadorias/(Taiwan) contêiner (para transporte de carga)
+货柜车 | TRADUÇÃO: (Taiwan) caminhão de contêiner
+货款 | TRADUÇÃO: pagamento por mercadorias
+货比三家 | TRADUÇÃO: comparar preços (expressão idiomática)
+货比三家不吃亏 | TRADUÇÃO: compare antes de comprar e não será enganado (expressão idiomática)
+货源 | TRADUÇÃO: fornecimento de mercadorias
+货物 | TRADUÇÃO: mercadoria/produto/bem/CL:宗
+货物运输 | TRADUÇÃO: transporte de carga ou frete
+货盘 | TRADUÇÃO: palete
+货真价实 | TRADUÇÃO: (lit.) mercadorias genuínas a preços justos (expressão idiomática)/(fig.) genuíno; verdadeiro; real
+货站 | TRADUÇÃO: terminal de carga
+货船 | TRADUÇÃO: navio de carga/cargueiro
+货舱 | TRADUÇÃO: porão de carga/compartimento de carga (de avião)
+货色 | TRADUÇÃO: mercadorias/(pej.) material/porcaria
+货车 | TRADUÇÃO: caminhão/van/vagão de carga
+货载 | TRADUÇÃO: carga
+货轮 | TRADUÇÃO: cargueiro/navio de carga/CL:艘
+货运 | TRADUÇÃO: transporte de carga/frete/mercadorias transportadas
+货运列车 | TRADUÇÃO: trem de carga/trem de mercadorias
+货运卡车 | TRADUÇÃO: caminhão de carga
+贩 | TRADUÇÃO: negociar/compra e vender/comerciar/vender a retalho/vender como ambulante
+贩售 | TRADUÇÃO: vender
+贩夫 | TRADUÇÃO: vendedor ambulante
+贩夫俗子 | TRADUÇÃO: vendedores ambulantes e pessoas comuns/classes baixas
+贩夫走卒 | TRADUÇÃO: lit. vendedores ambulantes e carregadores/pessoas comuns/classes baixas
+贩婴 | TRADUÇÃO: tráfico de bebês
+贩子 | TRADUÇÃO: traficante; revendedor; negociante; vendedor ambulante
+贩毒 | TRADUÇÃO: traficar narcóticos/comércio de drogas/comércio de ópio
+贩私 | TRADUÇÃO: traficar (bens contrabandeados)/comércio ilegal
+贩卖 | TRADUÇÃO: vender/comerciar/traficar
+贩卖人口 | TRADUÇÃO: tráfico de pessoas
+贩卖机 | TRADUÇÃO: (Taiwan) máquina de venda automática
+贩运 | TRADUÇÃO: transportar (para venda)/traficar (algo)
+贪 | TRADUÇÃO: ter um desejo voraz por/cobiçar/ganancioso/corrupto
+贪占 | TRADUÇÃO: apropriar-se indevidamente
+贪吃 | TRADUÇÃO: glutão; voraz
+贪吃鬼 | TRADUÇÃO: glutão/comilão
+贪嘴 | TRADUÇÃO: glutão
+贪图 | TRADUÇÃO: cobiçar/buscar (riquezas, fama)
+贪多嚼不烂 | TRADUÇÃO: morder mais do que se pode mastigar (expressão idiomática)
+贪天之功 | TRADUÇÃO: reivindicar crédito pelas realizações de outros (expressão idiomática)
+贪婪 | TRADUÇÃO: avarento/ganancioso/ávido/insaciável/cobiçoso
+贪婪无厌 | TRADUÇÃO: avarento e insaciável (expressão idiomática); ganancioso e nunca satisfeito
+贪官 | TRADUÇÃO: funcionário corrupto/burocrata ganancioso/mandarim corrupto
+贪官污吏 | TRADUÇÃO: funcionários corruptos e gananciosos (expressão idiomática); abuso e corrupção
+贪小失大 | TRADUÇÃO: avarento no pequeno e perdulário no grande (expressão idiomática)
+贪得无厌 | TRADUÇÃO: avarento e insaciável (expressão idiomática); ganancioso e nunca satisfeito
+贪得无餍 | TRADUÇÃO: variante de 貪得無厭|贪得无厌
+贪心 | TRADUÇÃO: ganancioso
+贪心不足 | TRADUÇÃO: avarento e insaciável (expressão idiomática); ganancioso e nunca satisfeito
+贪念 | TRADUÇÃO: ganância
+贪欲 | TRADUÇÃO: ganância/avareza/ávido/cobiçoso
+贪恋 | TRADUÇÃO: apegar-se a/relutar em abandonar (algo)/ter predileção por (um vício etc.)
+贪杯 | TRADUÇÃO: beber em excesso
+贪求 | TRADUÇÃO: perseguir com avidez/desejar ardentemente
+贪求无厌 | TRADUÇÃO: insaciavelmente ganancioso (expressão idiomática)
+贪污腐化 | TRADUÇÃO: (expressão idiomática) corrupção
+贪污 | TRADUÇÃO: ser corrupto/corrupção/desviar fundos
+贪污腐败 | TRADUÇÃO: corrupção
+贪渎 | TRADUÇÃO: (de um funcionário) corrupto e negligente com seus deveres
+贪猥无厌 | TRADUÇÃO: avarento e insaciável (expressão idiomática); ganancioso e nunca satisfeito
+贪玩 | TRADUÇÃO: só querer se divertir/desejar apenas se divertir, evitando a autodisciplina
+贪玩儿 | TRADUÇÃO: variante com retroflexão de 貪玩|贪玩
+贪生怕死 | TRADUÇÃO: ganancioso pela vida, com medo da morte (expressão idiomática); covarde e medroso/apegar-se abjetamente à vida/só interessado em salvar a própria pele
+贪腐 | TRADUÇÃO: corrupção
+贪色 | TRADUÇÃO: ganancioso por sexo/dado à luxúria por mulheres
+贪财 | TRADUÇÃO: ser ganancioso por dinheiro
+贪贿无艺 | TRADUÇÃO: a ganância por subornos não tem limites (expressão idiomática); corrupção desenfreada
+贪赃枉法 | TRADUÇÃO: corrupção e abuso da lei (expressão idiomática); aceitar subornos e torcer a lei
+贪鄙 | TRADUÇÃO: ser avarento e mesquinho
+贪食 | TRADUÇÃO: glutão; ganancioso
+贪馋 | TRADUÇÃO: glutão/ganancioso/insaciável/ávido
+贯 | TRADUÇÃO: trespassar/passar através/estar enfiado em série/sequência de 1000 moedas
+贯串 | TRADUÇÃO: trespassar/enfiar em série
+贯彻 | TRADUÇÃO: implementar/colocar em prática/executar
+贯彻始终 | TRADUÇÃO: levar até o fim; executar até o final
+贯时 | TRADUÇÃO: diacrônico
+贯气 | TRADUÇÃO: (feng shui) influência benéfica, esp. dos túmulos ancestrais/conferir uma influência benéfica
+贯注 | TRADUÇÃO: concentrar-se; dar total atenção a
+贯穿 | TRADUÇÃO: atravessar/fio condutor do início ao fim/ligar
+贯通 | TRADUÇÃO: interligar/enfiar junto
+贯连 | TRADUÇÃO: ligar/unir/conectar
+责 | TRADUÇÃO: dever/responsabilidade/repreender/censurar
+责令 | TRADUÇÃO: ordenar/intimar/encarregar/instruir alguém a terminar algo
+责任 | TRADUÇÃO: responsabilidade; dever; obrigação
+责任事故 | TRADUÇÃO: acidente por negligência
+责任人 | TRADUÇÃO: responsável/coordenador
+责任保险 | TRADUÇÃO: seguro de responsabilidade civil
+责任制 | TRADUÇÃO: sistema de responsabilidade de cargo
+责任心 | TRADUÇÃO: senso de responsabilidade
+责任感 | TRADUÇÃO: senso de responsabilidade
+责任编辑 | TRADUÇÃO: editor-chefe/editor responsável
+责备 | TRADUÇÃO: culpar/criticizar/reprovação/repreensão
+责备求全 | TRADUÇÃO: ver 求全責備|求全责备
+责问 | TRADUÇÃO: exigir explicações/cobrar uma explicação
+责怪 | TRADUÇÃO: culpar/repreender
+责成 | TRADUÇÃO: incumbir (alguém de uma tarefa)/atribuir (a alguém) a tarefa de
+责打 | TRADUÇÃO: castigar com açoites/punição com chibatadas
+责有攸归 | TRADUÇÃO: a responsabilidade deve recair onde pertence (expressão idiomática)
+责无旁贷 | TRADUÇÃO: ter o dever de/ter uma responsabilidade inalienável
+责编 | TRADUÇÃO: editor-chefe (abrev. de 責任編輯|责任编辑)
+责罚 | TRADUÇÃO: punir/castigar
+责骂 | TRADUÇÃO: repreender/esbravejar
+责难 | TRADUÇÃO: censurar/criticar severamente
+贮 | TRADUÇÃO: armazenar/guardar/estocar
+贮备 | TRADUÇÃO: armazenar/estocar
+贮存 | TRADUÇÃO: armazenar/depositar
+贮存器 | TRADUÇÃO: dispositivo de armazenamento (computação)
+贮存管 | TRADUÇÃO: recipiente de armazenamento para líquido ou gás/reservatório de gás
+贮木场 | TRADUÇÃO: pátio de madeira/área de estocagem de toras
+贮水处 | TRADUÇÃO: reservatório
+贮热 | TRADUÇÃO: conservar calor/reter calor
+贮物 | TRADUÇÃO: armazenamento/estoque
+贮藏 | TRADUÇÃO: armazenar/acumular/depósitos
+贳 | TRADUÇÃO: emprestar/comprar a crédito/alugar
+赀 | TRADUÇÃO: estimar/multar (arcaico)/variante de 資|资
+赀财 | TRADUÇÃO: variante de 資財|资财
+赀郎 | TRADUÇÃO: alguém que compra um cargo público
+贰 | TRADUÇÃO: dois (numeral antifraude bancário)/trair
+贰心 | TRADUÇÃO: variante de 二心
+贰臣 | TRADUÇÃO: oficial que muda de lealdade/oficial renegado
+贵 | TRADUÇÃO: abrev. de Guizhou 貴州|贵州 ‖ caro/(morfema) de alto valor; precioso/(morfema) nobre; de alta patente/(prefixo) (honorífico) seu/vossa
+贵人 | TRADUÇÃO: nobreza/pessoa de alta patente
+贵人多忘 | TRADUÇÃO: uma pessoa eminente tem memória curta (expressão idiomática)
+贵人多忘事 | TRADUÇÃO: ver 貴人多忘|贵人多忘
+贵公司 | TRADUÇÃO: vossa empresa/sua empresa
+贵南 | TRADUÇÃO: ver 貴南縣|贵南县
+贵南县 | TRADUÇÃO: Guinan, um condado na Prefeitura Autônoma Tibetana de Hainan 海南藏族自治州, Qinghai
+贵古贱今 | TRADUÇÃO: reverenciar o passado e desprezar o presente (expressão idiomática)
+贵司 | TRADUÇÃO: (cortês) vossa empresa
+贵圈真乱 | TRADUÇÃO: (gíria, jocoso, neologismo c. 2006, usado esp. em relação a figuras públicas) as coisas que você e seus amigos aprontam (mau comportamento, escândalos etc.) me fazem balançar a cabeça
+贵国 | TRADUÇÃO: vosso distinto país
+贵妃 | TRADUÇÃO: concubina sênior/consorte imperial
+贵妃床 | TRADUÇÃO: chaise longue
+贵妃醉酒 | TRADUÇÃO: A Bela Embriagada, ópera de Pequim da dinastia Qing
+贵姓 | TRADUÇÃO: qual é o seu sobrenome?/(Posso perguntar) seu sobrenome?
+贵妇 | TRADUÇÃO: mulher da alta sociedade/dama (antigo)
+贵妇人 | TRADUÇÃO: dama/senhora distinta
+贵妇犬 | TRADUÇÃO: poodle
+贵定 | TRADUÇÃO: ver 貴定縣|贵定县
+贵定县 | TRADUÇÃO: Guiding, um condado na Prefeitura Autônoma Bouyei e Miao de Qiannan 黔南布依族苗族自治州, Guizhou
+贵州 | TRADUÇÃO: ver 貴州省|贵州省
+贵州省 | TRADUÇÃO: Província de Guizhou, capital Guiyang 貴陽市|贵阳市 (abrev. 貴|贵 ou 黔)
+贵干 | TRADUÇÃO: (polido) seu negócio/o que o traz?
+贵庚 | TRADUÇÃO: sua idade (honorífico)
+贵府 | TRADUÇÃO: sua casa (honorífico)
+贵德 | TRADUÇÃO: ver 貴德縣|贵德县
+贵德县 | TRADUÇÃO: Guide, um condado na Prefeitura Autônoma Tibetana de Hainan 海南藏族自治州, Qinghai
+贵恙 | TRADUÇÃO: (cortês) sua doença
+贵方 | TRADUÇÃO: (em negócios etc.) vosso lado/vocês
+贵族 | TRADUÇÃO: lorde/nobreza/nobre/nobre/aristocrata/aristocracia
+贵族化 | TRADUÇÃO: gentrificação/aristocrático; de classe alta
+贵族社会 | TRADUÇÃO: sociedade aristocrática/aristocracia
+贵校 | TRADUÇÃO: (honorífico) sua escola
+贵格会 | TRADUÇÃO: Sociedade Religiosa dos Amigos/Quakers
+贵池 | TRADUÇÃO: ver 貴池區|贵池区
+贵池区 | TRADUÇÃO: Guichi, um distrito da cidade de Chizhou 池州市, Anhui
+贵港 | TRADUÇÃO: ver 貴港市|贵港市
+贵港市 | TRADUÇÃO: Guigang, cidade de nível de prefeitura na Região Autônoma Zhuang de Guangxi 廣西壯族自治區|广西壮族自治区
+贵溪 | TRADUÇÃO: ver 貴溪市|贵溪市
+贵溪市 | TRADUÇÃO: Guixi, uma cidade de nível de condado na cidade de Yingtan 鷹潭市|鹰潭市, Jiangxi
+贵珊瑚 | TRADUÇÃO: coral precioso/coral vermelho (Corallium rubrum e várias espécies relacionadas de coral marinho)
+贵胄 | TRADUÇÃO: descendentes de aristocratas feudais
+贵宾 | TRADUÇÃO: hóspede de honra/convidado ilustre/VIP
+贵宾室 | TRADUÇÃO: sala VIP
+贵宾犬 | TRADUÇÃO: poodle
+贵贱 | TRADUÇÃO: nobre e humilde/hierarquia social de alto a baixo, de governante a súdito, de pai a filho, de marido a esposa no confucionismo
+贵远贱近 | TRADUÇÃO: reverenciar o passado e desprezar o presente (expressão idiomática)
+贵重 | TRADUÇÃO: precioso/valioso
+贵金属 | TRADUÇÃO: metal precioso
+贵阳 | TRADUÇÃO: ver 貴陽市|贵阳市
+贵阳市 | TRADUÇÃO: Guiyang, cidade de nível de prefeitura e capital da Província de Guizhou 貴州省|贵州省
+贬 | TRADUÇÃO: diminuir/rebaixar/desvalorizar/depreciar/censurar
+贬低 | TRADUÇÃO: menosprezar/desdenhar/minimizar/desmerecer/desvalorizar/depreciar
+贬值 | TRADUÇÃO: desvalorizar-se/desvalorizar/depreciar
+贬多于褒 | TRADUÇÃO: receber mais críticas que elogios
+贬官 | TRADUÇÃO: rebaixar um oficial/oficial rebaixado
+贬居 | TRADUÇÃO: (período de) banimento ou exílio (antigo)
+贬抑 | TRADUÇÃO: menosprezar/desdenhar/desmerecer
+贬损 | TRADUÇÃO: zombar; menosprezar; desdenhar
+贬斥 | TRADUÇÃO: rebaixar/denunciar
+贬称 | TRADUÇÃO: termo pejorativo/refere-se depreciativamente (como)
+贬义 | TRADUÇÃO: sentido pejorativo/conotação negativa
+贬职 | TRADUÇÃO: rebaixar de cargo
+贬词 | TRADUÇÃO: termo pejorativo/expressão de censura
+贬谪 | TRADUÇÃO: banir da corte; relegar
+贬降 | TRADUÇÃO: rebaixar
+买 | TRADUÇÃO: comprar/adquirir
+买一送一 | TRADUÇÃO: compre um, leve outro grátis/dois pelo preço de um
+买下 | TRADUÇÃO: comprar (algo caro, ex.: uma casa); adquirir (uma empresa, um direito autoral etc.)
+买不起 | TRADUÇÃO: não poder pagar/não ter condições de comprar
+买主 | TRADUÇÃO: comprador/cliente
+买了佛冷 | TRADUÇÃO: (gíria da internet) pronúncia deturpada da letra “I love Poland” que se tornou bordão em 2018
+买价 | TRADUÇÃO: preço de compra
+买凶 | TRADUÇÃO: contratar um assassino de aluguel
+买入 | TRADUÇÃO: comprar (finanças)
+买单 | TRADUÇÃO: pagar a conta/pagar a despesa
+买回 | TRADUÇÃO: recomprar/resgatar/readquirir
+买好 | TRADUÇÃO: bajular/lisonjear
+买官 | TRADUÇÃO: comprar um cargo oficial/comprar um título por meio de suborno
+买官卖官 | TRADUÇÃO: compra e venda de cargos públicos
+买家 | TRADUÇÃO: comprador/compradora
+买帐 | TRADUÇÃO: reconhecer a autoridade de alguém (ger. em negativa)/aceitar (uma versão dos fatos)/comprar a ideia
+买房 | TRADUÇÃO: comprar uma casa
+买断 | TRADUÇÃO: comprar integralmente/aquisição total/indenização rescisória
+买方 | TRADUÇÃO: comprador (em contratos)
+买方市场 | TRADUÇÃO: mercado comprador
+买春 | TRADUÇÃO: visitar uma prostituta/(literário) comprar vinho ou bebidas
+买东西 | TRADUÇÃO: fazer compras
+买椟还珠 | TRADUÇÃO: comprar a caixa e devolver as pérolas/ter juízo pobre (expressão idiomática)
+买票 | TRADUÇÃO: comprar ingressos/(Taiwan) comprar votos (em eleição)
+买空 | TRADUÇÃO: comprar a margem (finanças)
+买空卖空 | TRADUÇÃO: especular/jogar na bolsa/(fig.) vender fumaça/enganar pessoas se passando por operador idôneo
+买笑追欢 | TRADUÇÃO: lit. comprar sorrisos para buscar felicidade/abandonar-se aos prazeres da carne (expressão idiomática)
+买菜 | TRADUÇÃO: comprar mantimentos/fazer compras
+买卖 | TRADUÇÃO: comprar e vender ‖ compra e venda; transação/loja; estabelecimento
+买账 | TRADUÇÃO: variante de 買帳|买帐
+买路财 | TRADUÇÃO: veja 買路錢|买路钱
+买路钱 | TRADUÇÃO: dinheiro extorquido por bandidos em troca de passagem segura; pedágio ilegal/(antigo) dinheiro de papel espalhado ao longo do trajeto de um cortejo fúnebre
+买办 | TRADUÇÃO: comprador (intermediário comercial)
+买通 | TRADUÇÃO: subornar
+买进 | TRADUÇÃO: comprar/adquirir (mercadorias)
+买醉 | TRADUÇÃO: embebedar-se; afogar as mágoas
+买关节 | TRADUÇÃO: oferecer suborno
+买面子 | TRADUÇÃO: deixar alguém salvar a face/ceder/condescender
+贷 | TRADUÇÃO: emprestar com juros/pegar emprestado/empréstimo/indulgência/arranjar desculpas/perdoar
+贷学金 | TRADUÇÃO: empréstimo estudantil
+贷方 | TRADUÇÃO: lado credor (de balanço)/credor/emprestador
+贷款 | TRADUÇÃO: empréstimo/CL:筆|笔/fornecer empréstimo (ex.: banco)/contrair empréstimo (ex.: de banco)
+贷款人 | TRADUÇÃO: o credor/o emprestador
+贷款率 | TRADUÇÃO: taxa de juros de empréstimo
+贷记 | TRADUÇÃO: creditar
+贶 | TRADUÇÃO: conceder/outorgar
+费 | TRADUÇÃO: sobrenome Fei ‖ custar/gastar/taxa/desperdiçador/despesas
+费事 | TRADUÇÃO: problemático/dar-se ao trabalho de fazer algo
+费利克斯 | TRADUÇÃO: Félix
+费力 | TRADUÇÃO: despender grande esforço
+费力不讨好 | TRADUÇÃO: tarefa árdua e ingrata (expressão idiomática); extenuante e sem recompensa
+费加罗报 | TRADUÇÃO: Le Figaro
+费劲 | TRADUÇÃO: exigir esforço/árduo
+费劲儿 | TRADUÇÃO: variante com erhua de 費勁|费劲
+费口舌 | TRADUÇÃO: discutir desnecessariamente; perder tempo explicando
+费周折 | TRADUÇÃO: gastar (muito) esforço/passar por (muita) dificuldade
+费唇舌 | TRADUÇÃO: discutir desnecessariamente; perder tempo explicando
+费城 | TRADUÇÃO: Filadélfia, Pensilvânia/abrev. de 費拉德爾菲亞|费拉德尔菲亚
+费奥多尔 | TRADUÇÃO: Teodoro ou Fiódor (nome)
+费孝通 | TRADUÇÃO: Fei Xiaotong (1910-2005), sociólogo chinês
+费工夫 | TRADUÇÃO: gastar muito tempo e esforço/(de tarefa) exigente/rigorosa
+费德勒 | TRADUÇÃO: Roger Federer (1981-), tenista suíço
+费心 | TRADUÇÃO: dar-se ao trabalho (com alguém ou algo)/posso incomodá-lo (para fazer algo)
+费拉 | TRADUÇÃO: (estrangeirismo) felá
+费拉德尔菲亚 | TRADUÇÃO: Filadélfia, Pensilvânia/abrev. para 費城|费城
+费时 | TRADUÇÃO: levar tempo/demorado
+费曼 | TRADUÇÃO: Feinman ou Feynman (nome)/Richard Feynman (1918-1988), físico americano, laureado com Prêmio Nobel de 1965 junto com TOMONAGA Shin'ichirō e Julian Schwinger
+费洛蒙 | TRADUÇÃO: feromônio
+费尔巴哈 | TRADUÇÃO: Ludwig Feuerbach (1804-1872), filósofo materialista
+费尔干纳 | TRADUÇÃO: Vale de Fergana (no Uzbequistão, Ásia Central)
+费尔干纳盆地 | TRADUÇÃO: Vale de Fergana no atual Uzbequistão
+费尔马 | TRADUÇÃO: Pierre de Fermat (1601–1665), matemático francês
+费率 | TRADUÇÃO: taxa/tarifa
+费用 | TRADUÇÃO: custo/despesa/gasto/CL:筆|笔,個|个
+费尽心思 | TRADUÇÃO: espremer o cérebro (expressão idiomática); dar-se grande trabalho para pensar algo até o fim
+费尽心机 | TRADUÇÃO: maquinar esquemas (expressão idiomática); quebrar a cabeça
+费卢杰 | TRADUÇÃO: Faluja, cidade iraquiana no Eufrates
+费神 | TRADUÇÃO: despender esforço/dar-se ao trabalho/Poderia incomodá-lo para...? (como parte de pedido cortês)/Por favor, você se importaria...?
+费米 | TRADUÇÃO: Fermi (nome)/Enrico Fermi (1901-1954), físico nuclear ítalo-americano
+费米子 | TRADUÇÃO: (física) férmion
+费县 | TRADUÇÃO: Condado de Fei ou Feixian, na cidade de Linyi, Shandong
+费舍尔 | TRADUÇÃO: (nome) Fisher ou Fischer
+费解 | TRADUÇÃO: estar perplexo/difícil de entender/incompreensível/inexplicável
+费话 | TRADUÇÃO: falar longamente/perder o fôlego/variante de 廢話|废话
+费边社 | TRADUÇÃO: Sociedade Fabiana
+费马 | TRADUÇÃO: Pierre de Fermat (1601–1665), matemático francês
+费马大定理 | TRADUÇÃO: (mat.) Último Teorema de Fermat
+贴 | TRADUÇÃO: colar/grudar/publicar (ex.: em blog)/manter-se perto de/ajustar-se perfeitamente/subsidiar/auxílio (ex.: dinheiro para comida ou moradia)/adesivo/classificador para emplastros: tira
+贴切 | TRADUÇÃO: exato/justo (tradução)
+贴合 | TRADUÇÃO: ajustar-se/encaixar-se
+贴合面 | TRADUÇÃO: superfície de contato
+贴吧 | TRADUÇÃO: Baidu Tieba, lit. “Barra de Postagens do Baidu”, fórum chinês online hospedado pela Baidu Inc.
+贴图 | TRADUÇÃO: adesivo (mensagens sociais) (Taiwan)
+贴士 | TRADUÇÃO: (estrangeirismo) dica/sugestão/conselho
+贴心 | TRADUÇÃO: íntimo/próximo/atencioso
+贴心贴肺 | TRADUÇÃO: atencioso e carinhoso/muito próximo/íntimo
+贴息 | TRADUÇÃO: descontar os juros de uma letra de câmbio
+贴文 | TRADUÇÃO: (mídia social) postar; uma postagem
+贴旦 | TRADUÇÃO: atriz coadjuvante feminina em ópera chinesa
+贴水 | TRADUÇÃO: ágio (taxa por troca de moeda)/prêmio
+贴片式 | TRADUÇÃO: (eletrônica) montagem superficial
+贴牌 | TRADUÇÃO: fornecer produtos para serem comercializados sob a marca do comprador/fabricar produtos OEM
+贴现 | TRADUÇÃO: desconto/abatimento
+贴现率 | TRADUÇÃO: taxa de desconto
+贴生 | TRADUÇÃO: ator coadjuvante masculino em uma ópera chinesa
+贴画 | TRADUÇÃO: pôster/pôster de pin-up
+贴秋膘 | TRADUÇÃO: ganhar peso no outono (para se preparar para o inverno)
+贴纸 | TRADUÇÃO: adesivo
+贴膜 | TRADUÇÃO: película protetora ou fumê (para telas de LCD, janelas de carro, etc.)/máscara facial (cosmético)
+贴花 | TRADUÇÃO: aplique/decalcomania
+贴身 | TRADUÇÃO: vestido junto à pele/justo (roupa)/pessoal (servente, etc.)
+贴身卫队 | TRADUÇÃO: guarda-costas pessoal
+贴近 | TRADUÇÃO: aproximar-se/aconchegar-se/íntimo
+贴边 | TRADUÇÃO: debrum/forro (de vestuário)/ser relevante
+贴金 | TRADUÇÃO: folhear (uma estátua) com ouro; dourar/(fig.) embelezar; glorificar
+贴锡箔 | TRADUÇÃO: decorar com papel alumínio
+贴题 | TRADUÇÃO: relevante/pertinente
+贻 | TRADUÇÃO: presentear/legar
+贻人口实 | TRADUÇÃO: tornar-se objeto de ridículo
+贻害 | TRADUÇÃO: ter más consequências
+贻害无穷 | TRADUÇÃO: ter consequências desastrosas
+贻燕 | TRADUÇÃO: deixar paz para as gerações futuras
+贻笑 | TRADUÇÃO: ser ridículo/fazer papel de bobo
+贻笑大方 | TRADUÇÃO: fazer papel de bobo/tornar-se motivo de zombaria
+贻笑方家 | TRADUÇÃO: um novato fazendo papel de bobo/tornar-se ridículo diante de especialistas
+贻范古今 | TRADUÇÃO: deixar um exemplo para todas as gerações
+贻误 | TRADUÇÃO: afetar adversamente/atrasar ou prejudicar/perder (uma oportunidade)/enganar
+贻贝 | TRADUÇÃO: mexilhão
+贸 | TRADUÇÃO: comércio/negócio
+贸易 | TRADUÇÃO: comércio/CL:個|个
+贸易中心 | TRADUÇÃO: centro comercial/shopping center
+贸易伙伴 | TRADUÇÃO: parceiro comercial
+贸易保护主义 | TRADUÇÃO: protecionismo comercial
+贸易公司 | TRADUÇÃO: empresa comercial
+贸易协定 | TRADUÇÃO: acordo comercial
+贸易壁垒 | TRADUÇÃO: barreira comercial
+贸易夥伴 | TRADUÇÃO: variante de 貿易伙伴|贸易伙伴
+贸易战 | TRADUÇÃO: guerra comercial
+贸易组织 | TRADUÇÃO: organização comercial
+贸易货栈 | TRADUÇÃO: armazém comercial
+贸易逆差 | TRADUÇÃO: déficit comercial/balança comercial desfavorável
+贸易顺差 | TRADUÇÃO: superávit comercial
+贸易额 | TRADUÇÃO: volume de comércio (entre países)
+贸然 | TRADUÇÃO: precipitadamente/apressadamente/sem consideração cuidadosa
+贺 | TRADUÇÃO: sobrenome He ‖ congratular
+贺信 | TRADUÇÃO: carta ou mensagem de felicitações
+贺函 | TRADUÇÃO: carta de felicitações/cartão de felicitações (p. ex., de Ano Novo)
+贺卡 | TRADUÇÃO: cartão de felicitações/cartão de parabéns
+贺喜 | TRADUÇÃO: congratular/parabenizar
+贺子珍 | TRADUÇÃO: He Zizhen (1910-1984), terceira esposa de Mao Tsé-Tung
+贺客 | TRADUÇÃO: convidado (para um casamento, etc.)
+贺州 | TRADUÇÃO: ver 賀州市|贺州市
+贺州市 | TRADUÇÃO: Hezhou, cidade de nível de prefeitura na Região Autônoma Zhuang de Guangxi 廣西壯族自治區|广西壮族自治区
+贺年 | TRADUÇÃO: ver 賀歲|贺岁
+贺年卡 | TRADUÇÃO: cartão de Ano Novo
+贺年片 | TRADUÇÃO: cartão de Ano Novo/CL:張|张
+贺拉斯 | TRADUÇÃO: Horácio, nome completo em latim Quintus Horatius Flaccus (65-8 a.C.), poeta romano
+贺普丁 | TRADUÇÃO: nome comercial chinês da Lamivudina 拉米夫定
+贺朝 | TRADUÇÃO: He Chao (ativo c. 711), poeta da dinastia Tang
+贺正 | TRADUÇÃO: trocar cumprimentos no dia de Ano Novo
+贺岁 | TRADUÇÃO: estender saudações de Ano Novo/fazer uma visita de Ano Novo
+贺尔蒙 | TRADUÇÃO: (empréstimo) hormônio
+贺知章 | TRADUÇÃO: He Zhizhang (659-744), poeta da dinastia Tang
+贺礼 | TRADUÇÃO: presente de felicitações
+贺县 | TRADUÇÃO: Condado de He em Guangxi
+贺兰 | TRADUÇÃO: ver 賀蘭縣|贺兰县
+贺兰山 | TRADUÇÃO: Montanhas Helan, situadas em parte da fronteira entre Ningxia e Mongólia Interior
+贺兰山岩鹨 | TRADUÇÃO: (espécie de ave da China) ferreirinha-de-Kozlov; ferreirinha-da-mongólia (Prunella koslowi)
+贺兰山红尾鸲 | TRADUÇÃO: (espécie de ave da China) rabirruivo-de-Prjevalski; rabirruivo-de-Ala-Shan (Phoenicurus alaschanicus)
+贺兰山脉 | TRADUÇÃO: Montanhas Helan, situadas em parte da fronteira entre Ningxia e Mongólia Interior
+贺兰县 | TRADUÇÃO: Helan, um condado na cidade de Yinchuan 銀川市|银川市, Ningxia
+贺词 | TRADUÇÃO: mensagem de felicitações
+贺军翔 | TRADUÇÃO: Mike He (1983-), ator taiwanês
+贺锦丽 | TRADUÇÃO: He Jinli, nome chinês adotado por Kamala Harris (1964-), vice-presidente dos EUA 2021-
+贺电 | TRADUÇÃO: telegrama de felicitações
+贺龙 | TRADUÇÃO: He Long (1896-1969), importante líder militar comunista, morto por perseguição durante a Revolução Cultural
+贲 | TRADUÇÃO: sobrenome Ben ‖ enérgico ‖ brilhante
+贲临 | TRADUÇÃO: (de um convidado distinto) honrar minha casa (empresa, etc.) com sua presença
+贲门 | TRADUÇÃO: cárdia (anatomia)
+赂 | TRADUÇÃO: suborno/suborno
+赁 | TRADUÇÃO: alugar
+贿 | TRADUÇÃO: (forma presa) suborno
+贿买 | TRADUÇÃO: subornar/suborno
+贿赂 | TRADUÇÃO: subornar/um suborno
+贿选 | TRADUÇÃO: comprar votos (em uma eleição)
+赅 | TRADUÇÃO: sobrenome Gai ‖ completo/cheio
+赅博 | TRADUÇÃO: variante de 該博|该博
+赅括 | TRADUÇÃO: ver 概括
+资 | TRADUÇÃO: recursos/capital/fornecer/abastecer/apoiar/dinheiro/despesa
+资中 | TRADUÇÃO: ver 資中縣|资中县
+资中县 | TRADUÇÃO: Zizhong, um condado na cidade de Neijiang 內江市|内江市, Sichuan
+资俸 | TRADUÇÃO: salário/pagamento/ordenado
+资优 | TRADUÇÃO: (Taiwan) (de um aluno) superdotado
+资优班 | TRADUÇÃO: (Taiwan) turma composta de alunos superdotados
+资优生 | TRADUÇÃO: aluno brilhante
+资助 | TRADUÇÃO: subsidiar/prover auxílio financeiro/subsídio
+资安 | TRADUÇÃO: (Taiwan) segurança da informação (abreviação de 資訊安全|资讯安全)
+资工 | TRADUÇÃO: abrev. de 資訊工程|资讯工程
+资政 | TRADUÇÃO: (literário) auxiliar no governo do país (usado em títulos de cargos consultivos honorários na China imperial)/(Cingapura) ministro sênior (cargo consultivo no gabinete, geralmente ocupado por ex-titulares de altos cargos)/(Taiwan) conselheiro sênior presidencial (título honorário conferido pelo presidente da República da China) (abrev. de 總統府資政|总统府资政)
+资敌 | TRADUÇÃO: auxiliar o inimigo (com armas, munição, suprimentos, dinheiro, etc.)
+资料 | TRADUÇÃO: material/recursos/dados/informação/perfil (Internet)/CL:份,個|个
+资料介面 | TRADUÇÃO: interface de dados
+资料仓储 | TRADUÇÃO: data warehouse (computação)
+资料传输 | TRADUÇÃO: transmissão de dados
+资料夹 | TRADUÇÃO: pasta (de arquivos)
+资料库 | TRADUÇÃO: (Taiwan) banco de dados
+资料片 | TRADUÇÃO: filme documentário / (em jogos eletrônicos) expansão; add-on
+资料量 | TRADUÇÃO: quantidade de dados
+资料链结层 | TRADUÇÃO: camada de enlace de dados
+资斧 | TRADUÇÃO: (literário) dinheiro para viagem; despesas de viagem
+资方 | TRADUÇÃO: os proprietários de uma empresa privada / administração / capital (em oposição ao trabalho)
+资望 | TRADUÇÃO: antiguidade e prestígio
+资本 | TRADUÇÃO: capital (economia)
+资本主义 | TRADUÇÃO: capitalismo
+资本储备 | TRADUÇÃO: reserva de capital
+资本外逃 | TRADUÇÃO: fuga de capital
+资本家 | TRADUÇÃO: capitalista
+资本市场 | TRADUÇÃO: mercado de capitais
+资本计提 | TRADUÇÃO: exigência de capital
+资本论 | TRADUÇÃO: O Capital (1867) de Karl Marx 卡爾·馬克思|卡尔·马克思
+资格 | TRADUÇÃO: qualificações / antiguidade
+资格赛 | TRADUÇÃO: fase de qualificação (em esportes)
+资历 | TRADUÇÃO: qualificações / experiência / antiguidade
+资治通鉴 | TRADUÇÃO: Espelho Abrangente para Auxílio no Governo, vasta história cronológica geral, escrita por 司馬光|司马光 Sima Guang (1019-1089) e colaboradores durante a Dinastia Song do Norte em 1084, cobrindo o período 403 a.C.-959 d.C., 294 volumes
+资深 | TRADUÇÃO: sênior; altamente experiente; veterano
+资浅 | TRADUÇÃO: inexperiente / júnior (funcionário etc.)
+资源 | TRADUÇÃO: ver 資源縣|资源县 ‖ recurso natural (como água ou minerais) / recurso (como mão de obra ou turismo)
+资源县 | TRADUÇÃO: Ziyuan, um condado na cidade de Guilin 桂林市, em Guangxi
+资溪 | TRADUÇÃO: ver 資溪縣|资溪县
+资溪县 | TRADUÇÃO: Zixi, um condado na cidade de Fuzhou 撫州市|抚州市, em Jiangxi
+资生堂 | TRADUÇÃO: Shiseidō (empresa japonesa de cosméticos)
+资产 | TRADUÇÃO: propriedade / bens / ativos
+资产价值 | TRADUÇÃO: valor dos ativos
+资产剥离 | TRADUÇÃO: desinvestimento de ativos
+资产担保证券 | TRADUÇÃO: título garantido por ativos / ABS
+资产组合 | TRADUÇÃO: carteira de ativos
+资产负债表 | TRADUÇÃO: balanço patrimonial
+资产阶级 | TRADUÇÃO: a classe capitalista / a burguesia
+资产阶级右派 | TRADUÇÃO: facção direitista burguesa (esp. durante o movimento antiesquerdista de 1957-58)
+资产阶级革命 | TRADUÇÃO: revolução burguesa (na teoria marxista-leninista, um prelúdio para a revolução proletária)
+资用 | TRADUÇÃO: (física) disponível
+资禀 | TRADUÇÃO: talento; aptidão
+资兴 | TRADUÇÃO: ver 資興市|资兴市
+资兴市 | TRADUÇÃO: Zixing, uma cidade a nível de condado na cidade de Chenzhou 郴州市, em Hunan
+资讯 | TRADUÇÃO: informação
+资讯工程 | TRADUÇÃO: engenharia da informação (Taiwan)
+资讯科技 | TRADUÇÃO: tecnologia da informação / ciência das comunicações
+资财 | TRADUÇÃO: ativos / capital e materiais
+资费 | TRADUÇÃO: tarifa (postal, de telecomunicações etc.)
+资质 | TRADUÇÃO: aptidão / dotes naturais
+资遣 | TRADUÇÃO: demitir com indenização / pagar a alguém para se demitir
+资遣费 | TRADUÇÃO: indenização trabalhista (Taiwan)
+资金 | TRADUÇÃO: fundos; capital
+资金杠杆 | TRADUÇÃO: (finanças) alavancagem / gearing
+资阳 | TRADUÇÃO: ver 資陽市|资阳市 / ver 資陽區|资阳区
+资阳区 | TRADUÇÃO: Ziyang, um distrito da cidade de Yiyang 益陽市|益阳市, em Hunan
+资阳市 | TRADUÇÃO: Ziyang, cidade a nível de prefeitura na província de Sichuan 四川省
+贾 | TRADUÇÃO: sobrenome Jia ‖ comerciante / comprar
+贾伯斯 | TRADUÇÃO: Jobs (nome) / veja também 史提夫·賈伯斯|史提夫·贾伯斯, Steve Jobs
+贾南德拉 | TRADUÇÃO: Gyanendra do Nepal
+贾客 | TRADUÇÃO: comerciante (antigo)
+贾宝玉 | TRADUÇÃO: Jia Baoyu, personagem masculino em O Sonho da Câmara Vermelha, apaixonado por sua prima Lin Daiyu 林黛玉, mas obrigado a se casar com Xue Baochai 薛寶釵|薛宝钗
+贾平凹 | TRADUÇÃO: Jia Pingwa (1952-), romancista chinês
+贾思勰 | TRADUÇÃO: Jia Sixie, escritor do século VI e autor da enciclopédia agrícola Habilidades Essenciais para Beneficiar o Povo 齊民要術|齐民要术
+贾庆林 | TRADUÇÃO: Jia Qinglin (1940-), membro do Comitê Permanente do Politburo 2002-2012
+贾斯汀·比伯 | TRADUÇÃO: Justin Bieber (1994-), cantor canadense
+贾汪 | TRADUÇÃO: ver 賈汪區|贾汪区
+贾汪区 | TRADUÇÃO: Jiawang, um distrito da cidade de Xuzhou 徐州市, em Jiangsu
+贾第虫 | TRADUÇÃO: (biologia) giárdia (esp. Giardia lamblia)
+贾第虫病 | TRADUÇÃO: (medicina) giárdia (doença) / giardíase
+贾谊 | TRADUÇÃO: Jia Yi (200-168 a.C.), poeta e estadista chinês da Dinastia Han Ocidental
+贼 | TRADUÇÃO: ladrão / (forma presa) traidor; subversivo / (forma presa) mau; perverso / astuto; dissimulado; desonesto / (literário) prejudicar; ferir / (coloq.) extremamente; loucamente; maldito (comum no Nordeste da China e Taiwan)
+贼亮 | TRADUÇÃO: brilhante / lustroso / ofuscante / reluzente
+贼喊捉贼 | TRADUÇÃO: lit. um ladrão gritando "Pega ladrão!" (expressão idiomática) / fig. acusar alguém de um roubo e tentar se safar / encobrir as próprias más ações culpando os outros
+贼心 | TRADUÇÃO: más intenções
+贼死 | TRADUÇÃO: completamente / totalmente (dialeto)
+贼眉贼眼 | TRADUÇÃO: ver 賊眉鼠眼|贼眉鼠眼
+贼眉鼠眼 | TRADUÇÃO: de olhar dissimulado / de aparência astuta (expressão idiomática)
+贼眼 | TRADUÇÃO: olhar dissimulado / olhar furtivo
+贼秃 | TRADUÇÃO: (pejorativo) monge budista
+贼窝 | TRADUÇÃO: covil de ladrões
+贼船 | TRADUÇÃO: navio pirata / fig. empreendimento de mérito duvidoso / gangue criminosa / facção reacionária
+贼头贼脑 | TRADUÇÃO: lit. comportar-se como um ladrão / furtivo / oculto
+賌 | TRADUÇÃO: variante antiga de 賅|赅
+賏 | TRADUÇÃO: pérolas ou conchas enfiadas em fio
+赈 | TRADUÇÃO: fornecer socorro / prestar auxílio
+赈恤 | TRADUÇÃO: auxílio de socorro
+赈捐 | TRADUÇÃO: doação em dinheiro para aliviar a miséria ou a fome
+赈济 | TRADUÇÃO: prestar socorro
+赈灾 | TRADUÇÃO: socorro em desastres
+赊 | TRADUÇÃO: comprar ou vender a crédito / distante / longo (tempo) / perdoar
+赊帐 | TRADUÇÃO: variante de 賒賬|赊账
+赊欠 | TRADUÇÃO: oferecer crédito / transação a crédito / comprar ou vender a prazo
+赊账 | TRADUÇÃO: comprar ou vender a crédito / conta pendente / ter uma conta pendente
+赊购 | TRADUÇÃO: comprar a crédito / adiar o pagamento
+赊销 | TRADUÇÃO: transação a crédito / vender a prazo
+宾 | TRADUÇÃO: visitante / hóspede / objeto (na gramática)
+宾主 | TRADUÇÃO: convidado e anfitrião
+宾主尽欢 | TRADUÇÃO: tanto os convidados quanto os anfitriões se divertem completamente (expressão idiomática)
+宾利 | TRADUÇÃO: Bentley
+宾士 | TRADUÇÃO: (Taiwan) Mercedes-Benz, montadora alemã de carros
+宾夕法尼亚 | TRADUÇÃO: Pensilvânia
+宾夕法尼亚大学 | TRADUÇÃO: Universidade da Pensilvânia
+宾夕法尼亚州 | TRADUÇÃO: Pensilvânia
+宾天 | TRADUÇÃO: (eufemismo) (de um imperador ou outra pessoa altamente respeitada) falecer
+宾客 | TRADUÇÃO: convidados/visitantes
+宾客盈门 | TRADUÇÃO: convidados encheram o salão (expressão idiomática); uma casa cheia de visitantes ilustres
+宾川 | TRADUÇÃO: vide 賓川縣|宾川县
+宾川县 | TRADUÇÃO: Binchuan, um condado na Prefeitura Autônoma Bai de Dali 大理白族自治州, Yunnan
+宾州 | TRADUÇÃO: Pensilvânia/abrev. para 賓夕法尼亞州|宾夕法尼亚州
+宾得 | TRADUÇÃO: Pentax, empresa japonesa de óptica
+宾朋 | TRADUÇÃO: convidados/amigos convidados
+宾朋满座 | TRADUÇÃO: convidados encheram todos os assentos (expressão idiomática); uma casa cheia de visitantes ilustres
+宾朋盈门 | TRADUÇÃO: convidados encheram o salão (expressão idiomática); uma casa cheia de visitantes ilustres
+宾果 | TRADUÇÃO: (estrangeirismo) bingo
+宾格 | TRADUÇÃO: caso acusativo (gramática)
+宾治 | TRADUÇÃO: (estrangeirismo) ponche (bebida de frutas mistas)
+宾县 | TRADUÇÃO: Condado de Bin ou Binxian, um condado na Cidade de Harbin 哈爾濱市|哈尔滨市, Heilongjiang
+宾至如归 | TRADUÇÃO: hóspedes sentem-se em casa (num hotel, pousada etc); um lar longe de casa
+宾词 | TRADUÇÃO: predicado
+宾语 | TRADUÇÃO: objeto (gramática)
+宾阳 | TRADUÇÃO: vide 賓陽縣|宾阳县
+宾阳县 | TRADUÇÃO: Binyang, um condado na Cidade de Nanning 南寧市|南宁市, Guangxi
+宾馆 | TRADUÇÃO: pousada/albergue/hotel/CL:個|个,家
+赇 | TRADUÇÃO: subornar
+赒 | TRADUÇÃO: dar aos necessitados/doar esmolas/caridade
+赒人 | TRADUÇÃO: ajudar os necessitados/doar esmolas/caridade
+赒恤 | TRADUÇÃO: dar aos necessitados
+赒急 | TRADUÇÃO: ajuda em desastres
+赒急扶困 | TRADUÇÃO: ajuda em desastres
+赒济 | TRADUÇÃO: variante de 周濟|周济
+赉 | TRADUÇÃO: conceder/outorgar
+赐 | TRADUÇÃO: (forma presa) conceder; outorgar; dar/(literário) dádiva; favor/pr. em Taiwan [si4]
+赐予 | TRADUÇÃO: conceder; outorgar
+赐姓 | TRADUÇÃO: (de um imperador) conceder um sobrenome
+赐教 | TRADUÇÃO: (honorífico) transmitir a sabedoria de alguém; esclarecer
+赐死 | TRADUÇÃO: (de um governante) ordenar a alguém que cometa suicídio (em vez de execução)
+赐爵 | TRADUÇÃO: conceder um título nobiliárquico
+赐福 | TRADUÇÃO: abençoar
+赐给 | TRADUÇÃO: conceder; dar
+赐与 | TRADUÇÃO: variante de 賜予|赐予
+赐鉴 | TRADUÇÃO: (formal) (usado em documento submetido) por favor, revise; para sua gentil consideração
+赐顾 | TRADUÇÃO: honrar (alguém) com a visita/clientelar (uma loja ou restaurante)
+賝 | TRADUÇÃO: (gema)
+赏 | TRADUÇÃO: conceder (uma recompensa)/dar (a um inferior)/transmitir/uma recompensa (dada por um superior)/apreciar (beleza)
+赏光 | TRADUÇÃO: dar a alguém a honra (de comparecer etc)/aparecer/mostrar-se
+赏味期 | TRADUÇÃO: período durante o qual um alimento tem seu melhor sabor
+赏心悦目 | TRADUÇÃO: aquece o coração e encanta os olhos (expressão idiomática); agradável/delicioso
+赏月 | TRADUÇÃO: admirar a lua cheia
+赏析 | TRADUÇÃO: compreensão e apreciação (de uma obra de arte)
+赏石 | TRADUÇÃO: vide 供石
+赏罚 | TRADUÇÃO: recompensa e punição
+赏脸 | TRADUÇÃO: (polido) faça-me a honra
+赏识 | TRADUÇÃO: apreciar/reconhecer o valor de algo/apreciação
+赏赐 | TRADUÇÃO: conceder uma recompensa/uma recompensa
+赏金 | TRADUÇÃO: recompensa monetária
+赏金猎人 | TRADUÇÃO: caçador de recompensas
+赏钱 | TRADUÇÃO: gorjeta/gratificação/recompensa monetária/bônus
+赏鉴 | TRADUÇÃO: apreciar (uma obra de arte)
+赏鸟 | TRADUÇÃO: observação de pássaros
+赔 | TRADUÇÃO: compensar por perda/indenizar/sofrer uma perda financeira
+赔上 | TRADUÇÃO: pagar por algo com a perda de (saúde etc)/ter algo ao custo de (reputação etc)
+赔不是 | TRADUÇÃO: desculpar-se
+赔了夫人又折兵 | TRADUÇÃO: lit. tendo dado uma noiva, perder o exército por cima disso (expressão idiomática); fig. sofrer uma perda dupla após tentar enganar o inimigo
+赔付 | TRADUÇÃO: pagar/indenizar/(seguro) pagamento
+赔偿 | TRADUÇÃO: compensar
+赔偿金 | TRADUÇÃO: compensação
+赔小心 | TRADUÇÃO: ser conciliatório ou desculpar-se/andar com cuidado ao lidar com alguém
+赔本 | TRADUÇÃO: perda/sofrer perdas
+赔款 | TRADUÇÃO: reparações/pagar reparações
+赔率 | TRADUÇÃO: odds de aposta
+赔礼 | TRADUÇÃO: oferecer um pedido de desculpas/fazer reparação
+赔笑 | TRADUÇÃO: sorrir de forma apologética ou obsequiosa
+赔罪 | TRADUÇÃO: desculpar-se
+赔钱 | TRADUÇÃO: perder dinheiro; sofrer uma perda financeira/pagar por danos
+赔钱货 | TRADUÇÃO: produto não lucrativo; item que só pode ser vendido com prejuízo/filha (assim chamada antigamente porque as filhas exigiam dote quando se casavam)
+赓 | TRADUÇÃO: (literário) continuar; dar prosseguimento
+赓即 | TRADUÇÃO: (formal) imediatamente; prontamente
+赓续 | TRADUÇÃO: (literário) continuar; dar prosseguimento
+贤 | TRADUÇÃO: pessoa digna ou virtuosa/honorífico usado para uma pessoa da mesma geração ou de geração mais jovem
+贤人 | TRADUÇÃO: grande pessoa do passado/venerável antepassado/os grandes e os bons
+贤内助 | TRADUÇÃO: (dito da esposa de outro) uma boa esposa
+贤劳 | TRADUÇÃO: diligente
+贤士 | TRADUÇÃO: pessoa virtuosa/um homem de mérito
+贤妻 | TRADUÇÃO: (antigo) esposa perfeita/você, minha amada esposa
+贤妻良母 | TRADUÇÃO: uma boa esposa e mãe amorosa
+贤弟 | TRADUÇÃO: digno irmãozinho
+贤惠 | TRADUÇÃO: variante de 賢慧|贤慧
+贤慧 | TRADUÇÃO: (de uma esposa) sábia e bondosa/perfeita em seus papéis tradicionais
+贤才 | TRADUÇÃO: um gênio/uma pessoa talentosa
+贤明 | TRADUÇÃO: sábio e capaz; sagaz
+贤淑 | TRADUÇÃO: (de uma mulher) virtuosa
+贤王 | TRADUÇÃO: reis sábios
+贤相 | TRADUÇÃO: primeiro-ministro sagaz (na China feudal)
+贤者时间 | TRADUÇÃO: (gíria) momento de clareza pós-orgasmo
+贤者模式 | TRADUÇÃO: (gíria) estado de clareza pós-orgasmo; estado pós-orgástico de distanciamento calmo
+贤能 | TRADUÇÃO: sábio
+贤良 | TRADUÇÃO: (de um homem) capaz e virtuoso
+贤达 | TRADUÇÃO: pessoa proeminente e digna
+卖 | TRADUÇÃO: vender/trair/não poupar esforços/exibir ou ostentar
+卖主 | TRADUÇÃO: vendedor
+卖乖 | TRADUÇÃO: ostentar a própria esperteza/(de alguém que recebeu tratamento benéfico) fingir ter sido prejudicado
+卖傻 | TRADUÇÃO: bancar o bobo/agir como um idiota
+卖价 | TRADUÇÃO: preço de venda
+卖光了 | TRADUÇÃO: estar esgotado/não ter em estoque
+卖出 | TRADUÇÃO: vender/atingir (um preço em leilão)
+卖力 | TRADUÇÃO: trabalhar duro/dar o melhor de si/empenhar-se ao máximo na tarefa
+卖力气 | TRADUÇÃO: ganhar a vida como trabalhador braçal/dar tudo de si em algo
+卖卜 | TRADUÇÃO: trabalhar como adivinho
+卖命 | TRADUÇÃO: trabalhar incansavelmente; dar o seu melhor; matar-se de trabalhar/lançar mão da própria vida; sacrificar-se (ger. por uma causa indigna)
+卖唱 | TRADUÇÃO: cantar para ganhar a vida
+卖国 | TRADUÇÃO: trair o próprio país
+卖国主义 | TRADUÇÃO: traição (à pátria)
+卖国贼 | TRADUÇÃO: traidor (da pátria)
+卖场 | TRADUÇÃO: loja (grande)
+卖完 | TRADUÇÃO: estar esgotado
+卖官 | TRADUÇÃO: conceder cargos públicos em troca de subornos
+卖官鬻爵 | TRADUÇÃO: (expressão idiomática) conceder cargos públicos ou títulos em troca de subornos
+卖家 | TRADUÇÃO: vendedor
+卖座 | TRADUÇÃO: (de um filme, espetáculo ou restaurante) atrair clientes/popular entre o público pagante; de alta bilheteria/número de lugares ocupados (por espectadores etc.)
+卖弄 | TRADUÇÃO: se exibir/fazer exibição de
+卖惨 | TRADUÇÃO: (coloq.) explorar a própria desgraça para ganhar simpatia; fazer-se de vítima
+卖掉 | TRADUÇÃO: vender (para se desfazer)
+卖方 | TRADUÇÃO: vendedor (em contratos)
+卖方市场 | TRADUÇÃO: mercado do vendedor
+卖春 | TRADUÇÃO: prostituir-se
+卖本事 | TRADUÇÃO: se exibir com uma habilidade/exibir a própria capacidade/mostrar um feito/reinar em truques
+卖淫 | TRADUÇÃO: prostituição/prostituir-se
+卖淫女 | TRADUÇÃO: prostituta
+卖炭翁 | TRADUÇÃO: O Velho Vendedor de Carvão, poema do poeta Tang Bai Juyi 白居易
+卖相 | TRADUÇÃO: aparência exterior/compostura
+卖破绽 | TRADUÇÃO: fingir uma abertura para enganar o oponente (em luta, combate etc.)
+卖空 | TRADUÇÃO: vender a descoberto (finanças)
+卖笑 | TRADUÇÃO: trabalhar como garota de programa; prostituir-se
+卖肉 | TRADUÇÃO: vender carne/(gíria) vender sexo
+卖苦力 | TRADUÇÃO: ganhar a vida duramente como trabalhador braçal não qualificado
+卖萌 | TRADUÇÃO: (gíria) fazer gracinha/fazer charme
+卖艺 | TRADUÇÃO: ganhar a vida se apresentando (tipicamente em ambientes informais ou públicos)
+卖身 | TRADUÇÃO: prostituir-se/vender-se como escravo
+卖身契 | TRADUÇÃO: contrato de venda de uma pessoa como servo
+卖钱 | TRADUÇÃO: ganhar dinheiro vendendo algo
+卖关子 | TRADUÇÃO: (na narração de histórias) deixar os ouvintes em suspense/(em geral) deixar as pessoas na expectativa
+卖关节 | TRADUÇÃO: solicitar suborno/aceitar suborno
+卖面子 | TRADUÇÃO: mostrar deferência a alguém atendendo a um pedido seu (ou de alguém ligado a ele)
+卖风流 | TRADUÇÃO: exercer um charme sedutor/atrair de forma coquete
+卖点 | TRADUÇÃO: ponto de venda/diferencial
+贱 | TRADUÇÃO: barato/baixo/desprezível/(forma presa) (humilde) meu
+贱人 | TRADUÇÃO: vagabunda/pessoa desprezível
+贱内 | TRADUÇÃO: minha esposa (humilde)
+贱格 | TRADUÇÃO: desprezível
+贱民 | TRADUÇÃO: estrato social abaixo das pessoas comuns/intocável/dalit (casta da Índia)
+贱称 | TRADUÇÃO: termo depreciativo
+贱货 | TRADUÇÃO: vagabunda/piranha
+贱卖 | TRADUÇÃO: vender barato/sacrifício/preço baixo/liquidação
+贱骨头 | TRADUÇÃO: miserável desgraçado/indivíduo desprezível
+賥 | TRADUÇÃO: dinheiro e propriedades
+赋 | TRADUÇÃO: ensaio poético/tributação/agraciar com/dotar de
+赋予 | TRADUÇÃO: atribuir/confiar (uma tarefa)/dar/agraciar com
+赋值 | TRADUÇÃO: (comput., matem.) atribuir (um valor)/atribuição
+赋形剂 | TRADUÇÃO: (farm.) veículo/excipiente
+赋格曲 | TRADUÇÃO: (empréstimo) fuga
+赋税 | TRADUÇÃO: tributação
+赋能 | TRADUÇÃO: (neologismo c. 2019) empoderar/capacitar/energizar
+赋与 | TRADUÇÃO: variante de 賦予|赋予
+赋诗 | TRADUÇÃO: compor poesia/versificar
+赋闲 | TRADUÇÃO: ficar ocioso em casa/ter se demitido/estar desempregado/ter sido demitido/estar de licença sabática
+赕 | TRADUÇÃO: (dialetos bárbaros antigos) pagar multa como expiação/rio/pronúncia Taiwan [tan4]
+赕佛 | TRADUÇÃO: (língua Dai) fazer oferendas a Buda
+賨 | TRADUÇÃO: tributo pago por tribos da dinastia Han
+质 | TRADUÇÃO: caráter/natureza/qualidade/simples/penhorar/penhor/refém/questionar/pronúncia Taiwan [zhi2]
+质传 | TRADUÇÃO: ver 傳質|传质
+质问 | TRADUÇÃO: questionar/fazer perguntas/indagar/levar a prestar contas/interrogar
+质因数 | TRADUÇÃO: fator primo (em aritmética)
+质地 | TRADUÇÃO: textura/textura (de fundo)/grana/qualidade/caráter/disposição
+质子 | TRADUÇÃO: próton (partícula nuclear com carga positiva)/príncipe enviado como refém a um estado vizinho na China antiga
+质子数 | TRADUÇÃO: número de prótons no núcleo/número atômico
+质子轰击 | TRADUÇÃO: bombardeamento de prótons
+质库 | TRADUÇÃO: casa de penhores (antiga)
+质心 | TRADUÇÃO: centro de gravidade/baricentro
+质感 | TRADUÇÃO: realismo (em arte)/senso de realidade/textura/qualidade tátil
+质押 | TRADUÇÃO: penhorar (algo, ger. bens móveis, como garantia de empréstimo)
+质数 | TRADUÇÃO: número primo
+质料 | TRADUÇÃO: material/matéria
+质明 | TRADUÇÃO: ao amanhecer
+质朴 | TRADUÇÃO: simples/sóbrio/sem adornos/natural/ingênuo/rústico/terreno
+质检 | TRADUÇÃO: quarentena/inspeção de qualidade
+质检局 | TRADUÇÃO: escritório de quarentena/escritório de inspeção de qualidade
+质疑 | TRADUÇÃO: colocar em questão; desafiar (a verdade ou validade de)
+质的飞跃 | TRADUÇÃO: salto qualitativo
+质直 | TRADUÇÃO: íntegro/direto
+质粒 | TRADUÇÃO: plasmídeo
+质素 | TRADUÇÃO: qualidade (alta)
+质询 | TRADUÇÃO: questionar/indagar/interrogatório
+质证 | TRADUÇÃO: exame das provas da parte contrária em um tribunal de justiça
+质谱 | TRADUÇÃO: espectrometria de massa
+质谱仪 | TRADUÇÃO: espectrômetro de massa
+质变 | TRADUÇÃO: mudança qualitativa/mudança fundamental
+质量 | TRADUÇÃO: (física) massa/qualidade (i.e. grau de excelência)/qualidade e quantidade
+质量保障 | TRADUÇÃO: garantia de qualidade (GQ)
+质量块 | TRADUÇÃO: uma massa/um corpo
+质量数 | TRADUÇÃO: peso atômico de um elemento/massa atômica
+质量检查 | TRADUÇÃO: inspeção de qualidade
+质量管理 | TRADUÇÃO: gestão da qualidade
+质铺 | TRADUÇÃO: casa de penhores
+质难 | TRADUÇÃO: censurar/blame
+质点 | TRADUÇÃO: ponto material/partícula
+赍 | TRADUÇÃO: presentear (um presente)/abrigar (um sentimento) ‖ variante de 齎|赍 ‖ (literário) abrigar (um sentimento)/(literário) presentear como presente
+账 | TRADUÇÃO: conta/fatura/dívida/CL: 本,筆|笔
+账册 | TRADUÇÃO: livro de contas/razão/fatura
+账单 | TRADUÇÃO: conta/fatura
+账户 | TRADUÇÃO: conta (bancária, de computador etc.)
+账房 | TRADUÇÃO: escritório de contabilidade (em tempos antigos)/contador/caixa
+账房先生 | TRADUÇÃO: guarda-livros (antigo)
+账期 | TRADUÇÃO: prazo de crédito
+账本 | TRADUÇÃO: livro de contas
+账款 | TRADUÇÃO: dinheiro em uma conta
+账目 | TRADUÇÃO: contas; registros financeiros/assento contábil
+账簿 | TRADUÇÃO: livro de contas; razão
+账号 | TRADUÇÃO: número de conta; conta; nome de usuário
+账载 | TRADUÇÃO: conforme registrado nos livros/conforme as contas
+账面 | TRADUÇÃO: item em contas/assento
+赌 | TRADUÇÃO: apostar; jogar
+赌上一局 | TRADUÇÃO: participar de um jogo de azar/jogar/fazer uma aposta
+赌博 | TRADUÇÃO: jogar (a dinheiro)
+赌咒 | TRADUÇÃO: jurar por Deus/jurar de pés juntos
+赌咒发誓 | TRADUÇÃO: jurar solemnemente
+赌坊 | TRADUÇÃO: (arcaico) casa de jogos
+赌城 | TRADUÇÃO: cidade-cassino/apelido para Las Vegas
+赌场 | TRADUÇÃO: cassino
+赌客 | TRADUÇÃO: jogador
+赌局 | TRADUÇÃO: jogo de azar/festa de jogo/boca de jogo
+赌徒 | TRADUÇÃO: jogador
+赌桌 | TRADUÇÃO: mesa de jogo; mesa de jogo
+赌棍 | TRADUÇÃO: jogador inveterado; jogador profissional
+赌气 | TRADUÇÃO: agir por despeito/ficar de mau humor/ficar irritado
+赌注 | TRADUÇÃO: aposta (em um jogo de azar)/o que está em jogo
+赌烂 | TRADUÇÃO: (Taiwan) (gíria) ficar irritado (com alguém ou algo); ficar puto (com alguém ou algo); estar de mau humor; na fossa (do taiwanês 揬𡳞, pron. Tai-lo [tu̍h-lān])
+赌狗 | TRADUÇÃO: (gíria) jogador degenerado; jogador compulsivo
+赌球 | TRADUÇÃO: apostas esportivas (em bola)
+赌窝 | TRADUÇÃO: antro de jogadores/cassino ilegal
+赌约 | TRADUÇÃO: aposta
+赌资 | TRADUÇÃO: dinheiro para jogar
+赌钱 | TRADUÇÃO: jogar (a dinheiro)
+赌斗 | TRADUÇÃO: lutar
+赌鬼 | TRADUÇÃO: viciado em jogo
+賮 | TRADUÇÃO: presentes de despedida
+赖 | TRADUÇÃO: sobrenome Lai/(Taiwan) (coloq.) aplicativo de mensagens LINE ‖ depender de/ficar preso em um lugar/ruim/voltar atrás (em uma promessa)/negar/negar (dívidas)/malandro/culpar ‖ variante de 賴|赖
+赖以 | TRADUÇÃO: depender de/confiar em
+赖婚 | TRADUÇÃO: voltar atrás em um contrato de casamento/romper um noivado
+赖安 | TRADUÇÃO: Ryan (nome)
+赖床 | TRADUÇÃO: ficar na cama (preguiçosamente)/demorar na cama
+赖斯 | TRADUÇÃO: Rice (nome)/Condoleezza Rice (1954-) Secretária de Estado dos EUA 2005-2009
+赖昌星 | TRADUÇÃO: Lai Changxing (1958-), notório chefão da máfia de Xiamen envolvido em corrupção e contrabando em larga escala, extraditado do Canadá para a China em 2008
+赖校族 | TRADUÇÃO: residentes do campus (gíria)/graduados que não conseguem se desligar da vida no campus
+赖比瑞亚 | TRADUÇÃO: Libéria (Taiwan)
+赖氨酸 | TRADUÇÃO: lisina (Lys), um aminoácido essencial
+赖清德 | TRADUÇÃO: William Lai Ching-te (1959-), político taiwanês do DPP, vice-presidente da República da China a partir de 2020
+赖特 | TRADUÇÃO: Wright (nome)
+赖皮 | TRADUÇÃO: sem-vergonha/(gíria) malandro
+赖索托 | TRADUÇÃO: Lesoto (Taiwan)
+赖声川 | TRADUÇÃO: Lai Shengchuan (1954-), dramaturgo e diretor taiwanês-americano
+赖脸 | TRADUÇÃO: ser sem-vergonha
+赖账 | TRADUÇÃO: negar uma dívida
+赗 | TRADUÇÃO: (literário) presente (em dinheiro etc.) a uma família enlutada/contribuir para despesas funerárias
+赚 | TRADUÇÃO: ganhar/obter lucro ‖ enganar/trapacear
+赚取 | TRADUÇÃO: obter lucro/ganhar um bom dinheiro
+赚吆喝 | TRADUÇÃO: (de uma empresa) ganhar reconhecimento através de esforços promocionais; gastar dinheiro para conquistar clientes
+赚哄 | TRADUÇÃO: enganar/iludir/fraudar
+赚回来 | TRADUÇÃO: recuperar (dinheiro investido, desperdiçado etc.)
+赚大钱 | TRADUÇÃO: ganhar uma fortuna
+赚得 | TRADUÇÃO: ganhar
+赚钱 | TRADUÇÃO: ganhar dinheiro/lucrativo
+赚头 | TRADUÇÃO: lucro (coloquial)
+赙 | TRADUÇÃO: contribuir para despesas funerárias
+赙仪 | TRADUÇÃO: contribuição em dinheiro em um funeral
+购 | TRADUÇÃO: comprar/adquirir
+购汇 | TRADUÇÃO: comprar câmbio estrangeiro
+购得 | TRADUÇÃO: comprar/adquirir
+购书券 | TRADUÇÃO: vale-livro
+购物 | TRADUÇÃO: compras
+购物中心 | TRADUÇÃO: centro de compras
+购物券 | TRADUÇÃO: cupom
+购物大厦 | TRADUÇÃO: shopping center
+购物广场 | TRADUÇÃO: shopping center
+购物手推车 | TRADUÇÃO: carrinho de compras
+购物节 | TRADUÇÃO: festival de compras; evento promocional de grande escala (ex.: Dia dos Solteiros 雙十一|双十一)
+购物袋 | TRADUÇÃO: sacola de compras
+购物车 | TRADUÇÃO: carrinho de compras
+购置 | TRADUÇÃO: adquirir/comprar
+购货 | TRADUÇÃO: compra de mercadorias
+购买 | TRADUÇÃO: comprar; adquirir
+购买力 | TRADUÇÃO: poder de compra
+赛 | TRADUÇÃO: competir/competição/partida/superar/melhor que/superior a/exceler
+赛事 | TRADUÇÃO: competição (ex.: esportiva)
+赛先生 | TRADUÇÃO: "Sr. Ciência", frase usada durante o Movimento do Quarto de Maio 五四運動|五四运动/abrev. de 賽因斯|赛因斯/ver também 德先生
+赛制 | TRADUÇÃO: formato de competição; sistema de torneio (ex.: todos contra todos, eliminação simples etc.)
+赛力斯 | TRADUÇÃO: Seres, marca chinesa de veículos elétricos
+赛博 | TRADUÇÃO: (estrangeirismo) ciber-
+赛博朋克 | TRADUÇÃO: (estrangeirismo) cyberpunk
+赛因斯 | TRADUÇÃO: (estrangeirismo) ciência (termo do início do século XX)
+赛场 | TRADUÇÃO: pista de corrida/campo (para competições atléticas)
+赛夏族 | TRADUÇÃO: Saisiyat ou Saisiat, um dos povos indígenas de Taiwan
+赛季 | TRADUÇÃO: temporada (esportiva)
+赛德克族 | TRADUÇÃO: Seediq, um dos povos indígenas de Taiwan
+赛德娜 | TRADUÇÃO: Sedna / pequeno corpo celeste nas regiões externas do sistema solar
+赛扬 | TRADUÇÃO: Celeron (chip da Intel)
+赛普勒斯 | TRADUÇÃO: Chipre (Taiwan)
+赛会 | TRADUÇÃO: procissão religiosa / exposição
+赛格威 | TRADUÇÃO: Segway PT
+赛段 | TRADUÇÃO: etapa de uma competição
+赛氏篱莺 | TRADUÇÃO: (espécie de pássaro da China) felosa-de-Sykes (Iduna rama)
+赛特 | TRADUÇÃO: Seth (nome)
+赛珍珠 | TRADUÇÃO: Pearl S. Buck (1892-1973), escritora americana conhecida por seus romances sobre culturas asiáticas, ganhadora do Prêmio Pulitzer e do Prêmio Nobel
+赛璐玢 | TRADUÇÃO: (estrangeirismo) celofane
+赛璐珞 | TRADUÇÃO: (estrangeirismo) celuloide
+赛百味 | TRADUÇÃO: Subway (restaurante de fast food)
+赛程 | TRADUÇÃO: cronograma de competição / percurso de corrida
+赛罕 | TRADUÇÃO: veja 賽罕區|赛罕区
+赛罕区 | TRADUÇÃO: Saihan, um distrito da cidade de Hohhot 呼和浩特市, Mongólia Interior
+赛义迪 | TRADUÇÃO: Said ou Sayed (nome árabe)
+赛船 | TRADUÇÃO: regata / barco de corrida / navio de corrida
+赛艇 | TRADUÇÃO: regata / barco de corrida / remo (esporte)
+赛跑 | TRADUÇÃO: corrida (correndo) / correr (corrida)
+赛车 | TRADUÇÃO: corrida de carros / corrida de bicicletas / carro de corrida
+赛车场 | TRADUÇÃO: autódromo / velódromo
+赛车场赛 | TRADUÇÃO: corrida de ciclismo em estádio
+赛车女郎 | TRADUÇÃO: garota do pit / garota do paddock / garota do grid
+赛车手 | TRADUÇÃO: piloto de corrida
+赛轮思 | TRADUÇÃO: Cerence, empresa americana que fornece assistentes automotivos baseados em IA
+赛道 | TRADUÇÃO: pista de corrida
+赛里木湖 | TRADUÇÃO: Lago Sayram em Xinjiang
+赛马 | TRADUÇÃO: corrida de cavalos / turfe
+赛马场 | TRADUÇÃO: hipódromo / pista de corrida
+赛马会 | TRADUÇÃO: Jockey Club, organização filantrópica de Hong Kong (e antigo clube de cavalheiros)
+赛点 | TRADUÇÃO: match point (tênis etc.)
+赛龙舟 | TRADUÇÃO: correr de barcos-dragão
+赛龙船 | TRADUÇÃO: corrida de barcos-dragão
+赜 | TRADUÇÃO: misterioso
+贽 | TRADUÇÃO: presentes para superiores
+赘 | TRADUÇÃO: (forma presa) supérfluo / (forma presa) (de um homem) mudar-se para a casa dos sogros após o casamento; (dos pais da noiva) fazer o genro se juntar à sua casa
+赘婿 | TRADUÇÃO: genro que mora na casa dos pais da esposa
+赘物 | TRADUÇÃO: algo supérfluo
+赘生 | TRADUÇÃO: excrescência / crescimento anormal supérfluo
+赘疣 | TRADUÇÃO: verruga / (fig.) coisa supérflua
+赘瘤 | TRADUÇÃO: verruga / (fig.) algo supérfluo e indesejável
+赘肉 | TRADUÇÃO: carne em excesso; gordura indesejada; flacidez; papo (de gordura)
+赘言 | TRADUÇÃO: palavras supérfluas / detalhes desnecessários
+赘词 | TRADUÇÃO: palavras supérfluas / detalhes desnecessários
+赘语 | TRADUÇÃO: palavras supérfluas / pleonasmo
+赘述 | TRADUÇÃO: dizer mais do que o necessário / dar detalhes desnecessários
+赘余 | TRADUÇÃO: supérfluo
+赟 | TRADUÇÃO: boa aparência
+赠 | TRADUÇÃO: dar de presente / repelir / conceder um título honorífico póstumo (antigo)
+赠予 | TRADUÇÃO: dar um presente / conceder (um favor) / outorgar
+赠品 | TRADUÇÃO: presente / item cortesia / brinde / brinde promocional
+赠款 | TRADUÇÃO: subvenção / doação
+赠礼 | TRADUÇÃO: presente; oferta
+赠与 | TRADUÇÃO: variante de 贈予|赠予
+赠与者 | TRADUÇÃO: doador / ofertante
+赠芍 | TRADUÇÃO: dar peônias / (fig.) troca de presentes entre amantes
+赠送 | TRADUÇÃO: presentear / oferecer como presente
+贉 | TRADUÇÃO: pagar adiantamento / capa de livro de seda
+赞丹 | TRADUÇÃO: Zaandam (cidade nos Países Baixos)
+赞助 | TRADUÇÃO: apoiar / auxiliar / patrocinar
+赞助商 | TRADUÇÃO: patrocinador
+赞成 | TRADUÇÃO: aprovar / endossar / (literário) auxiliar
+赞成票 | TRADUÇÃO: aprovação / voto favorável
+赞普 | TRADUÇÃO: (hist.) título do governante tibetano Tufan
+赞比亚 | TRADUÇÃO: Zâmbia
+赞皇 | TRADUÇÃO: veja 贊皇縣|赞皇县
+赞皇县 | TRADUÇÃO: Zanhuang, um condado na cidade de Shijiazhuang 石家莊市|石家庄市, Hebei
+赞西佩 | TRADUÇÃO: Xantipa, esposa de Sócrates
+赞词 | TRADUÇÃO: elogio / louvor
+赞辞 | TRADUÇÃO: elogio / louvor
+赞飨 | TRADUÇÃO: mensagem dedicada a uma divindade
+赝 | TRADUÇÃO: variante de 贗|赝 ‖ falso
+赡 | TRADUÇÃO: sustentar / prover
+赡养 | TRADUÇÃO: sustentar / prover apoio / manter
+赡养费 | TRADUÇÃO: pensão alimentícia / pensão para filhos / auxílio de manutenção
+赢 | TRADUÇÃO: vencer / ganhar / lucrar
+赢利 | TRADUÇÃO: ganho / lucro / obter lucro
+赢家 | TRADUÇÃO: vencedor
+赢家通吃 | TRADUÇÃO: o vencedor leva tudo
+赢得 | TRADUÇÃO: vencer / ganhar
+赢球 | TRADUÇÃO: (esportes com bola) ganhar uma partida
+赢面 | TRADUÇÃO: chance de vitória
+赢余 | TRADUÇÃO: variante de 盈餘|盈余
+赆 | TRADUÇÃO: presentes de despedida
+赃 | TRADUÇÃO: bens roubados; butim; espólio ‖ variante de 贓|赃
+赃官污吏 | TRADUÇÃO: (expressão idiomática) funcionários corruptos, mandarins corruptos; abuso e corrupção
+赃款 | TRADUÇÃO: butim / bens roubados
+赃物 | TRADUÇÃO: butim / propriedade roubada
+赑 | TRADUÇÃO: usado em 贔屭|赑屃
+赑屃 | TRADUÇÃO: (literário) (mitologia chinesa) criatura semelhante a uma tartaruga com cabeça de dragão, capaz de suportar grandes cargas, muitas vezes esculpida como base para estelas antigamente / (literário) extenuante; que exerce grande força
+贕 | TRADUÇÃO: pinto natimorto (dentro do ovo não chocado) / variante de 殰|㱩
+赎 | TRADUÇÃO: resgatar / pagar resgate
+赎价 | TRADUÇÃO: preço pago para resgatar um objeto / (religião) preço pago para redimir alguém / resgate
+赎回 | TRADUÇÃO: resgatar
+赎款 | TRADUÇÃO: resgate
+赎罪 | TRADUÇÃO: expiar o crime / comprar a liberdade da punição / redenção / expiação
+赎罪日 | TRADUÇÃO: Yom Kippur ou Dia da Expiação (feriado judaico)
+赎罪日战争 | TRADUÇÃO: Guerra do Yom Kippur de outubro de 1973 entre Israel e seus vizinhos árabes
+赎金 | TRADUÇÃO: resgate
+赝品 | TRADUÇÃO: falso / artigo falsificado
+赣州 | TRADUÇÃO: ver 贛州市|赣州市
+赣州市 | TRADUÇÃO: Ganzhou, cidade de nível de prefeitura na província de Jiangxi
+赣榆 | TRADUÇÃO: ver 贛榆區|赣榆区
+赣榆区 | TRADUÇÃO: Ganyu, distrito da cidade de Lianyungang, Jiangsu
+赣江 | TRADUÇÃO: Rio Gan, na província de Jiangxi
+赣县 | TRADUÇÃO: ver 贛縣區|赣县区
+赣县区 | TRADUÇÃO: Ganxian, distrito da cidade de Ganzhou, Jiangxi
+赣语 | TRADUÇÃO: dialeto Gan, falado na província de Jiangxi
+赤 | TRADUÇÃO: vermelho/escarlate/puro/nu
+赤佬 | TRADUÇÃO: (dialeto) canalha/patife
+赤兔 | TRADUÇÃO: Coelho Vermelho, famoso cavalo do senhor da guerra Lü Bu na era dos Três Reinos
+赤匪 | TRADUÇÃO: bandido vermelho (soldado do EPL durante a guerra civil ou comunista chinês, em Taiwan)
+赤口日 | TRADUÇÃO: terceiro dia do ano lunar (auspicioso para visitas, pois discussões ocorrem facilmente nesse dia)
+赤嘴潜鸭 | TRADUÇÃO: (espécie de ave da China) pato-de-crista-vermelha (Netta rufina)
+赤坎 | TRADUÇÃO: ver 赤坎區|赤坎区
+赤坎区 | TRADUÇÃO: Chikan, distrito da cidade de Zhanjiang, Guangdong
+赤城 | TRADUÇÃO: ver 赤城縣|赤城县
+赤城县 | TRADUÇÃO: Chicheng, condado na cidade de Zhangjiakou, Hebei
+赤壁 | TRADUÇÃO: Falésias Vermelhas, campo de batalha histórico no distrito de Huangzhou, Huanggang, Hubei, local da Batalha das Falésias Vermelhas em 208 d.C./ver 赤壁市
+赤壁之战 | TRADUÇÃO: Batalha das Falésias Vermelhas de 208 em Chibi, distrito de Huangzhou, Huanggang, uma derrota decisiva de Cao Cao pelo reino do sul de Wu/episódio famoso do Romance dos Três Reinos
+赤壁市 | TRADUÇÃO: Chibi, cidade a nível de condado em Xianning, Hubei
+赤子 | TRADUÇÃO: recém-nascido/o povo (de um país)
+赤子之心 | TRADUÇÃO: puro e inocente como o coração de um recém-nascido/sincero
+赤字 | TRADUÇÃO: (financeiro) déficit/letra vermelha
+赤字累累 | TRADUÇÃO: endividado/pesadamente carregado de dívidas
+赤小豆 | TRADUÇÃO: ver 紅豆|红豆
+赤尾噪鹛 | TRADUÇÃO: (espécie de ave da China) tagarela-de-cauda-vermelha (Trochalopteron milnei)
+赤峰 | TRADUÇÃO: ver 赤峰市
+赤峰市 | TRADUÇÃO: Chifeng, cidade de nível de prefeitura na Região Autônoma da Mongólia Interior
+赤崁楼 | TRADUÇÃO: Torre Chihkan (antigo Forte Provintia) em Tainan, Taiwan
+赤嵌楼 | TRADUÇÃO: Torre Chihkan (antigo Forte Provintia) em Tainan, Taiwan
+赤手 | TRADUÇÃO: com as mãos nuas
+赤手空拳 | TRADUÇÃO: (expressão idiomática) com as próprias mãos (desarmado – também figurativamente: sem ajuda)
+赤朱雀 | TRADUÇÃO: (espécie de ave da China) pintassilgo-de-Blanford (Agraphospiza rubescens)
+赤条条 | TRADUÇÃO: completamente nu
+赤杨 | TRADUÇÃO: amieiro (gênero Alnus)
+赤水 | TRADUÇÃO: ver 赤水市
+赤水市 | TRADUÇÃO: Chishui, cidade a nível de condado em Zunyi, Guizhou
+赤水河 | TRADUÇÃO: Rio Chishui, afluente do Wei em Shaanxi
+赤潮 | TRADUÇÃO: floração de algas
+赤狐 | TRADUÇÃO: raposa-vermelha (Vulpes vulpes)
+赤眉 | TRADUÇÃO: Sobrancelhas Vermelhas, grupo rebelde no colapso da dinastia Xin
+赤睛鱼 | TRADUÇÃO: pimpão
+赤红山椒鸟 | TRADUÇÃO: (espécie de ave da China) minivete-escarlate (Pericrocotus speciosus)
+赤翅沙雀 | TRADUÇÃO: (espécie de ave da China) pintassilgo-de-asa-carmim-eurasiático (Rhodopechys sanguineus)
+赤翡翠 | TRADUÇÃO: (espécie de ave da China) martim-pescador-rosado (Halcyon coromanda)
+赤老 | TRADUÇÃO: variante de 赤佬
+赤胸啄木鸟 | TRADUÇÃO: (espécie de ave da China) pica-pau-de-nuca-carmim (Dryobates cathpharius)
+赤胸拟啄木鸟 | TRADUÇÃO: (espécie de ave da China) barbichas-de-cobre (Psilopogon haemacephalus)
+赤胸朱顶雀 | TRADUÇÃO: (espécie de ave da China) pintarroxo-comum (Linaria cannabina)
+赤胸鸫 | TRADUÇÃO: (espécie de ave da China) tordo-de-cabeça-castanha (Turdus chrysolaus)
+赤脚 | TRADUÇÃO: descalço
+赤脚律师 | TRADUÇÃO: advogado descalço/advogado de base
+赤脚医生 | TRADUÇÃO: médico descalço/camponês com treinamento paramédico (RPC)
+赤腹鹰 | TRADUÇÃO: (espécie de ave da China) gavião-da-china (Accipiter soloensis)
+赤膀鸭 | TRADUÇÃO: (espécie de ave da China) pato-selvagem (Mareca strepera)
+赤膊 | TRADUÇÃO: sem camisa
+赤膊上阵 | TRADUÇÃO: lit. ir para a batalha de peito nu (expressão idiomática)/fig. dar tudo de si/sair abertamente
+赤胆忠心 | TRADUÇÃO: lit. devoção de barriga vermelha (expressão idiomática)/lealdade de corpo e alma/servir a alguém com todo o ser
+赤藓糖醇 | TRADUÇÃO: eritritol, um álcool de açúcar
+赤藓醇 | TRADUÇÃO: eritritol, um álcool de açúcar
+赤卫军 | TRADUÇÃO: Guardas Vermelhos
+赤卫队 | TRADUÇÃO: Guardas Vermelhos
+赤裸 | TRADUÇÃO: nu/despido
+赤裸裸 | TRADUÇÃO: nu/despido/(fig.) simples/aberto/sem adornos
+赤褐色 | TRADUÇÃO: cor de ferrugem/marrom-avermelhado
+赤诚 | TRADUÇÃO: totalmente sincero/completamente dedicado
+赤诚相待 | TRADUÇÃO: tratar com total sinceridade/agir abertamente com alguém
+赤诚相见 | TRADUÇÃO: compartilhar confidências candidamente
+赤豆 | TRADUÇÃO: ver 紅豆|红豆
+赤贫 | TRADUÇÃO: extremamente pobre
+赤贫如洗 | TRADUÇÃO: sem dois níqueis para esfregar (expressão idiomática)/empobrecido
+赤足 | TRADUÇÃO: descalço/descalçado
+赤身 | TRADUÇÃO: nu
+赤身露体 | TRADUÇÃO: completamente nu
+赤道 | TRADUÇÃO: equador (da Terra ou de um corpo celeste)/equador celeste
+赤道仪 | TRADUÇÃO: montagem equatorial (para telescópio)
+赤道几内亚 | TRADUÇÃO: Guiné Equatorial
+赤道逆流 | TRADUÇÃO: contracorrente equatorial
+赤道雨林 | TRADUÇÃO: floresta tropical equatorial
+赤金 | TRADUÇÃO: ouro puro
+赤铁矿 | TRADUÇÃO: hematita (minério de ferro vermelho)/óxido férrico Fe2O3
+赤陶 | TRADUÇÃO: terracota
+赤霞珠 | TRADUÇÃO: Cabernet Sauvignon (tipo de uva)
+赤颈鸭 | TRADUÇÃO: (espécie de ave da China) piadeira-europeia (Mareca penelope)
+赤颈鸫 | TRADUÇÃO: (espécie de ave da China) tordo-de-garganta-vermelha (Turdus ruficollis)
+赤颈鹤 | TRADUÇÃO: (espécie de ave da China) grou-sarus (Antigone antigone)
+赤颈䴙䴘 | TRADUÇÃO: (espécie de ave da China) mergulhão-de-pescoço-vermelho (Podiceps grisegena)
+赤麻鸭 | TRADUÇÃO: (espécie de ave da China) tadorna-ferrugínea (Tadorna ferruginea)
+赦 | TRADUÇÃO: perdoar (um condenado)
+赦令 | TRADUÇÃO: anistia/perdão
+赦免 | TRADUÇÃO: perdoar/absolver/isentar de punição
+赦罪 | TRADUÇÃO: perdoar (um infrator)
+赧 | TRADUÇÃO: corar de vergonha
+赧然 | TRADUÇÃO: corando/envergonhado
+赩 | TRADUÇÃO: vermelho/escarlate
+赫 | TRADUÇÃO: sobrenome He ‖ inspirador de temor/abrev. de 赫茲|赫兹, hertz (Hz)
+赫伯斯翼龙 | TRADUÇÃO: Herbstosaurus (gênero de pterossauro)
+赫伯特 | TRADUÇÃO: Herbert (nome)
+赫卡忒 | TRADUÇÃO: Hécate (deusa da mitologia grega)

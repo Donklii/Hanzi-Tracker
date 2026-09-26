@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+今晚 | TRADUÇÃO: tonight
+今晨 | TRADUÇÃO: this morning
+今朝 | TRADUÇÃO: (dialect) today/(literary) the present; this age
+今朝有酒今朝醉 | TRADUÇÃO: to live in the moment (idiom)/to live every day as if it were one's last/to enjoy while one can
+今村 | TRADUÇÃO: Imamura (Japanese surname)
+今次 | TRADUÇÃO: this; the present (meeting etc)/this time; this once
+今岁 | TRADUÇÃO: (literary) this year
+今生 | TRADUÇÃO: this lifetime
+今译 | TRADUÇÃO: modern language version/modern translation/contemporary translation
+今非昔比 | TRADUÇÃO: (idiom) things are very different now; times have changed
+今音 | TRADUÇÃO: modern (i.e. not ancient) pronunciation of a Chinese character
+今体诗 | TRADUÇÃO: same as 近體詩|近体诗
+介 | TRADUÇÃO: to introduce/to lie between/between/shell/armor
+介之推 | TRADUÇÃO: Jie Zhitui (7th century BC), legendary selfless subject of Duke Wen of Jin 晉文公|晋文公, in whose honor the Qingming festival 清明 (Pure brightness or tomb-sweeping festival) is said to have been initiated
+介乎 | TRADUÇÃO: to lie between
+介休 | TRADUÇÃO: see 介休市
+介休市 | TRADUÇÃO: Jiexiu, a county-level city in Jinzhong City 晉中市|晋中市, Shanxi
+介系词 | TRADUÇÃO: (Tw) preposition
+介值定理 | TRADUÇÃO: intermediate value theorem (math.)
+介入 | TRADUÇÃO: to intervene; to get involved
+介子 | TRADUÇÃO: meson/mesotron (physics)
+介子推 | TRADUÇÃO: see 介之推
+介导 | TRADUÇÃO: (biology) to mediate
+介意 | TRADUÇÃO: to care about/to take offense/to mind
+介怀 | TRADUÇÃO: to mind/to brood over/to be concerned about
+介于 | TRADUÇÃO: between/intermediate/to lie between
+介壳 | TRADUÇÃO: (zoology) shell
+介绍 | TRADUÇÃO: to introduce (sb to sb)/to give a presentation/to present (sb for a job etc)/introduction
+介绍信 | TRADUÇÃO: letter of introduction; recommendation letter; reference
+介胄 | TRADUÇÃO: armor
+介蒂 | TRADUÇÃO: variant of 芥蒂
+介词 | TRADUÇÃO: preposition
+介质 | TRADUÇÃO: medium/media
+介质访问控制 | TRADUÇÃO: Medium Access Control/MAC
+介质访问控制层 | TRADUÇÃO: (computing) media access control layer (MAC layer)
+介电常数 | TRADUÇÃO: dielectric constant
+介面 | TRADUÇÃO: (Tw) interface (computing)
+仌 | TRADUÇÃO: old variant of 冰
+仍 | TRADUÇÃO: still; yet/to remain/(literary) frequently; often
+仍然 | TRADUÇÃO: still; as before; yet
+仍旧 | TRADUÇÃO: still (remaining)/to remain (the same)/yet
+从 | TRADUÇÃO: variant of 從|从 ‖ surname Cong ‖ from; through; via/(bound form) to follow/(bound form) to obey/(bound form) to engage in (an activity)/(used before a negative) ever/(bound form) (Taiwan pr. [zong4]) retainer; attendant/(bound form) (Taiwan pr. [zong4]) assistant; auxiliary; subordinate/(bound form) (Taiwan pr. [zong4]) related by common paternal grandfather or earlier ancestor
+仔 | TRADUÇÃO: variant of 崽/(dialect) (bound form) young man ‖ used in 仔肩 ‖ (bound form) (of domestic animals or fowl) young/(bound form) fine; detailed
+仔密 | TRADUÇÃO: (textiles) closely woven; tightly knitted
+仔畜 | TRADUÇÃO: newborn animal
+仔细 | TRADUÇÃO: careful; attentive; cautious/to be careful; to look out/(dialect) thrifty; frugal
+仔肩 | TRADUÇÃO: to bear responsibility for sth
+仔姜 | TRADUÇÃO: stem ginger
+仔猪 | TRADUÇÃO: piglet
+仔鸡 | TRADUÇÃO: chick; baby chicken
+仕 | TRADUÇÃO: to serve as an official/an official/the two chess pieces in Chinese chess guarding the "general" or "king" 將|将
+仕女 | TRADUÇÃO: court lady/palace maid/traditional painting of beautiful women
+仕宦 | TRADUÇÃO: (literary) to serve as an official
+仕途 | TRADUÇÃO: official career (formal)
+他 | TRADUÇÃO: (third-person singular) (since the early 20th century, usu. male) he; him; his/(bound form) other; another; some other (as in 他日 and 他人)
+他人 | TRADUÇÃO: another person; sb else; other people
+他他米 | TRADUÇÃO: see 榻榻米
+他信 | TRADUÇÃO: Thaksin Shinawatra (1949-), Thai businessman and politician, prime minister 2001-2006
+他们 | TRADUÇÃO: they; them
+他加禄语 | TRADUÇÃO: Tagalog (language)
+他喵的 | TRADUÇÃO: drat/frick/(euphemistic variant of 他媽的|他妈的)
+他国 | TRADUÇÃO: another country
+他娘的 | TRADUÇÃO: same as 他媽的|他妈的
+他妈的 | TRADUÇÃO: (taboo curse) damn it!/fucking
+他山之石可以攻玉 | TRADUÇÃO: lit. the other mountain's stone can polish jade (idiom); to improve oneself by accepting criticism from outside/to borrow talent from abroad to develop the nation effectively
+他律 | TRADUÇÃO: external regulation (e.g. by means of a regulatory body, as opposed to self-regulation 自律)/(ethics) heteronomy
+他性 | TRADUÇÃO: otherness
+他日 | TRADUÇÃO: (literary) some day/(literary) days in the past
+他杀 | TRADUÇÃO: homicide (law)
+他用 | TRADUÇÃO: other use/other purpose
+他者 | TRADUÇÃO: others/(sociology, philosophy) the Other
+他者化 | TRADUÇÃO: othering/otherization
+他者性 | TRADUÇÃO: otherness
+他迁 | TRADUÇÃO: to relocate/to move elsewhere
+他乡 | TRADUÇÃO: foreign land/away from one's native place
+他乡遇故知 | TRADUÇÃO: meeting an old friend in a foreign place (idiom)
+仗 | TRADUÇÃO: weaponry/to hold (a weapon)/to wield/to rely on/to depend on/war/battle
+仗势 | TRADUÇÃO: to rely on power
+仗势欺人 | TRADUÇÃO: to take advantage of one's position to bully people (idiom)/to kick people around
+仗恃 | TRADUÇÃO: to rely on; to depend on
+仗火 | TRADUÇÃO: battle
+仗义 | TRADUÇÃO: to uphold justice/to be loyal (to one's friends)/to stick by
+仗义执言 | TRADUÇÃO: to speak out for justice (idiom); to take a stand on a matter of principle
+仗义疏财 | TRADUÇÃO: to help the needy for justice (idiom); to be loyal to one's friends and generous to the needy
+仗腰 | TRADUÇÃO: to back sb up/to support (from the rear)
+付 | TRADUÇÃO: surname Fu ‖ to pay/to hand over to/classifier for pairs or sets of things
+付之一叹 | TRADUÇÃO: to dismiss with a sigh (idiom); a hopeless case
+付之一炬 | TRADUÇÃO: to put to the torch (idiom)/to commit to the flames/to burn sth down deliberately
+付之一笑 | TRADUÇÃO: (idiom) to dismiss sth with a laugh; to laugh it off
+付之丙丁 | TRADUÇÃO: to burn down (idiom)
+付之度外 | TRADUÇÃO: to think nothing of doing sth (idiom)/to do sth without considering the risks/to leave out of consideration
+付之东流 | TRADUÇÃO: to commit to the waters (idiom); to lose sth irrevocably
+付之行动 | TRADUÇÃO: to put into action/to transform into acts
+付出 | TRADUÇÃO: to pay; to expend; to invest (energy or time)
+付印 | TRADUÇÃO: to go to press/to submit for printing
+付托 | TRADUÇÃO: to entrust to
+付方 | TRADUÇÃO: credit side (of a balance sheet), as opposed to 收方
+付梓 | TRADUÇÃO: (literary) to send (a manuscript) to the press
+付款 | TRADUÇÃO: to pay a sum of money/payment
+付款方式 | TRADUÇÃO: terms of payment/payment method
+付款条件 | TRADUÇÃO: terms of payment
+付清 | TRADUÇÃO: to pay in full/to pay all of a bill/to pay off
+付现 | TRADUÇÃO: to pay in cash
+付给 | TRADUÇÃO: to deliver/to pay
+付讫 | TRADUÇÃO: paid
+付诸 | TRADUÇÃO: to apply to/to put into (practice etc)/to put to (a test, a vote etc)
+付诸实施 | TRADUÇÃO: to put into practice/to carry out (idiom)
+付诸东流 | TRADUÇÃO: wasted effort
+付费 | TRADUÇÃO: to pay/to cover the costs
+付费墙 | TRADUÇÃO: (computing) paywall (loanword)
+付账 | TRADUÇÃO: to settle an account
+付钱 | TRADUÇÃO: to pay
+仙 | TRADUÇÃO: immortal ‖ variant of 仙
+仙丹 | TRADUÇÃO: elixir/magic potion
+仙人 | TRADUÇÃO: Daoist immortal/celestial being
+仙人掌 | TRADUÇÃO: cactus
+仙人掌果 | TRADUÇÃO: prickly pear
+仙人掌杆菌 | TRADUÇÃO: (microbiology) Bacillus cereus
+仙人球 | TRADUÇÃO: ball cactus
+仙人跳 | TRADUÇÃO: confidence trick in which a man is lured by an attractive woman
+仙八色鸫 | TRADUÇÃO: (bird species of China) fairy pitta (Pitta nympha)
+仙去 | TRADUÇÃO: to become an immortal; (fig.) to die
+仙台 | TRADUÇÃO: Sendai, city in northeast Japan ‖ Sendai (city in Japan)
+仙后座 | TRADUÇÃO: Cassiopeia (constellation)
+仙境 | TRADUÇÃO: fairyland/wonderland/paradise
+仙女 | TRADUÇÃO: fairy
+仙女座 | TRADUÇÃO: Andromeda (constellation)
+仙女座大星云 | TRADUÇÃO: great nebula in Andromeda or Andromeda galaxy M31
+仙女座星系 | TRADUÇÃO: Andromeda galaxy M31
+仙女星座 | TRADUÇÃO: Andromeda constellation (galaxy) M31
+仙女星系 | TRADUÇÃO: Andromeda galaxy M31
+仙女棒 | TRADUÇÃO: sparkler (handheld firework)/(slang) vibrator (sex toy)
+仙姑 | TRADUÇÃO: female immortal/sorceress
+仙姿玉色 | TRADUÇÃO: heavenly beauty, jewel colors (idiom); unusually beautiful lady
+仙子 | TRADUÇÃO: fairy
+仙客来 | TRADUÇÃO: cyclamen (loanword)
+仙宫 | TRADUÇÃO: underground palace of ghouls, e.g. Asgard of Scandinavian mythology
+仙居 | TRADUÇÃO: see 仙居縣|仙居县
+仙居县 | TRADUÇÃO: Xianju, a county in Taizhou City 台州市, Zhejiang
+仙山 | TRADUÇÃO: mountain of Immortals
+仙山琼阁 | TRADUÇÃO: jeweled palace in the fairy mountain
+仙岛 | TRADUÇÃO: island of the immortals
+仙方 | TRADUÇÃO: prescription of elixir/potion of immortality/potion prescribed by an immortal
+仙方儿 | TRADUÇÃO: erhua variant of 仙方
+仙桃 | TRADUÇÃO: Xiantao sub-prefecture level city in Hubei ‖ the peaches of immortality of Goddess Xi Wangmu 西王母
+仙桃市 | TRADUÇÃO: Xiantao sub-prefecture level city in Hubei
+仙乐 | TRADUÇÃO: heavenly music
+仙气 | TRADUÇÃO: ethereal quality/(Chinese folklore) a puff of breath from the mouth of a celestial being, which can magically transform an object into sth else
+仙王座 | TRADUÇÃO: Cepheus (constellation)
+仙界 | TRADUÇÃO: world of the immortals; a fairyland; a paradise
+仙童 | TRADUÇÃO: elf/leprechaun
+仙股 | TRADUÇÃO: penny stocks
+仙茅 | TRADUÇÃO: golden eye-grass (Curculigo orchioides)/Curculigo rhizome (used in TCM)
+仙草 | TRADUÇÃO: medicinal herb (genus Mesona)/grass jelly
+仙药 | TRADUÇÃO: legendary magic potion of immortals/panacea/fig. wonder solution to a problem
+仙贝 | TRADUÇÃO: (loanword) senbei (Japanese rice cracker)
+仙逝 | TRADUÇÃO: to die/to depart this mortal coil
+仙游 | TRADUÇÃO: see 仙遊縣|仙游县 ‖ (literary) (euphemism) to die; to pass away
+仙游县 | TRADUÇÃO: Xianyou, a county in Putian City 莆田市, Fujian
+仙乡 | TRADUÇÃO: fairyland/honorific: your homeland
+仙鹤 | TRADUÇÃO: red-crowned crane (Grus japonensis)
+仚 | TRADUÇÃO: old variant of 仙
+仝 | TRADUÇÃO: variant of 同 (used as a surname and in given names)
+仞 | TRADUÇÃO: unit of length used in ancient times, equal to 7 or 8 Chinese feet 尺
+仟 | TRADUÇÃO: thousand (banker's anti-fraud numeral)
+仡 | TRADUÇÃO: used in 仡佬族, Gelao or Klau ethnic group of Guizhou/Taiwan pr. [qi4] ‖ strong/brave
+仡佬 | TRADUÇÃO: Gelao ethnic group
+仡佬族 | TRADUÇÃO: Gelao ethnic group
+代 | TRADUÇÃO: to be a substitute for; to act on behalf of; to replace; to substitute/generation; dynasty; age; period; (historical) era; (geological) eon
+代之以 | TRADUÇÃO: (has been) replaced with/(its) place has been taken by
+代人受过 | TRADUÇÃO: to take the blame for sb else/to be made a scapegoat
+代代 | TRADUÇÃO: from generation to generation/generation after generation
+代代相传 | TRADUÇÃO: passed on from generation to generation (idiom); to hand down
+代价 | TRADUÇÃO: price/cost/consideration (in share dealing)
+代偿 | TRADUÇÃO: (medical) compensation/to repay a debt or obligation in place of sb else
+代入 | TRADUÇÃO: to substitute into
+代利斯 | TRADUÇÃO: Dallys, Algerian seaport and naval base
+代劳 | TRADUÇÃO: to do sth in place of sb else
+代可可脂 | TRADUÇÃO: (loanword) cocoa butter substitute
+代名词 | TRADUÇÃO: pronoun/synonym/byword
+代填 | TRADUÇÃO: to fill in a form for sb else
+代孕 | TRADUÇÃO: to serve as a surrogate mother/surrogacy
+代孕母亲 | TRADUÇÃO: surrogate mother
+代字 | TRADUÇÃO: abbreviated name of an entity (e.g. 皖政, a short name for 安徽省人民政府)/code name/(old) pronoun
+代字号 | TRADUÇÃO: swung dash/tilde (~)
+代宗 | TRADUÇÃO: Daizong, temple name of seventh Ming emperor Jingtai 景泰
+代客泊车 | TRADUÇÃO: valet parking
+代写 | TRADUÇÃO: to write on behalf of sb else
+代工 | TRADUÇÃO: OEM (original equipment manufacturer)
+代币 | TRADUÇÃO: token (used instead of money for slot machines, in game arcades etc)
+代扣 | TRADUÇÃO: to withhold tax (from employee's salary)
+代拿买特 | TRADUÇÃO: (loanword) dynamite
+代指 | TRADUÇÃO: to mean/to signify
+代换 | TRADUÇÃO: to substitute/to replace
+代收 | TRADUÇÃO: to receive sth on another's behalf
+代收货款 | TRADUÇÃO: collect on delivery (COD)
+代数 | TRADUÇÃO: algebra
+代数函数 | TRADUÇÃO: (math.) algebraic function
+代数函数论 | TRADUÇÃO: algebraic function theory (math.)
+代数和 | TRADUÇÃO: algebraic sum
+代数学 | TRADUÇÃO: algebra (as branch of math.)
+代数几何 | TRADUÇÃO: algebraic geometry
+代数几何学 | TRADUÇÃO: algebraic geometry
+代数式 | TRADUÇÃO: (math.) algebraic expression
+代数拓扑 | TRADUÇÃO: (math.) algebraic topology
+代数数域 | TRADUÇÃO: algebraic number field (math.)
+代数方程 | TRADUÇÃO: algebraic equation
+代数曲线 | TRADUÇÃO: (math.) algebraic curve
+代数曲面 | TRADUÇÃO: algebraic surface
+代数簇 | TRADUÇÃO: algebraic variety (math.)
+代数结构 | TRADUÇÃO: algebraic structure
+代数群 | TRADUÇÃO: algebraic group (math.)
+代数量 | TRADUÇÃO: algebraic quantity
+代书 | TRADUÇÃO: to write on sb's behalf/a scrivener (who writes legal documents or letters for others)
+代替 | TRADUÇÃO: to replace; to take the place of
+代替父母 | TRADUÇÃO: in place of sb's parents/in loco parentis (law)
+代替者 | TRADUÇÃO: a substitute; a replacement
+代步 | TRADUÇÃO: to get around using a conveyance (car, bicycle, sedan chair etc); to ride (or drive)/means of transportation
+代步车 | TRADUÇÃO: vehicle/(esp.) mobility vehicle (mobility scooter, electric wheelchair, Segway etc)
+代母 | TRADUÇÃO: godmother/surrogate mother
+代沟 | TRADUÇÃO: generation gap
+代为 | TRADUÇÃO: to do sth on behalf of sb else
+代尔夫特 | TRADUÇÃO: Delft, Zuid-Holland, the Netherlands
+代班 | TRADUÇÃO: (Tw) to take over sb's job; to substitute for
+代理 | TRADUÇÃO: to act on behalf of sb in a responsible position/to act as an agent or proxy/surrogate/(computing) proxy
+代理人 | TRADUÇÃO: agent
+代理商 | TRADUÇÃO: agent
+代理孕母 | TRADUÇÃO: (Tw) surrogacy/surrogate pregnancy/surrogate mother
+代码 | TRADUÇÃO: code
+代码段 | TRADUÇÃO: code segment
+代码页 | TRADUÇÃO: code page
+代祷 | TRADUÇÃO: to pray on behalf of sb
+代称 | TRADUÇÃO: alternative name/to refer to sth by another name; antonomasia
+代笔 | TRADUÇÃO: to write on behalf of sb/to ghostwrite
+代管 | TRADUÇÃO: to administer/to manage/to hold in trust or escrow
+代糖 | TRADUÇÃO: sugar substitute
+代县 | TRADUÇÃO: Dai County or Daixian, a county in Xinzhou City 忻州市, Shanxi
+代罪 | TRADUÇÃO: to act as a scapegoat; to take the blame for sb else
+代罪羔羊 | TRADUÇÃO: scapegoat
+代考 | TRADUÇÃO: to take a test or exam for sb
+代号 | TRADUÇÃO: code name
+代行 | TRADUÇÃO: to act as a substitute; to act on sb's behalf
+代表 | TRADUÇÃO: representative/delegate/CL:位,個|个,名/to represent/to stand for/on behalf of/in the name of
+代表人物 | TRADUÇÃO: representative individual (of a school of thought)
+代表作 | TRADUÇÃO: representative work (of an author or artist)
+代表团 | TRADUÇÃO: delegation/CL:個|个
+代表性 | TRADUÇÃO: representativeness/representative; typical
+代表处 | TRADUÇÃO: representative office
+代表队 | TRADUÇÃO: delegation
+代言 | TRADUÇÃO: to be a spokesperson/to be an ambassador (for a brand)/to endorse
+代言人 | TRADUÇÃO: spokesperson
+代词 | TRADUÇÃO: pronoun
+代志 | TRADUÇÃO: (Tw) (coll.) matter; thing (from Taiwanese, Tai-lo pr. [tāi-tsì], equivalent to Mandarin 事情)
+代课 | TRADUÇÃO: to teach as substitute for absent teacher
+代谢 | TRADUÇÃO: replacement/substitution/metabolism (biol.)
+代购 | TRADUÇÃO: to buy (on behalf of sb)
+代办 | TRADUÇÃO: to act for sb else/to act on sb's behalf/an agent/a diplomatic representative/a chargé d'affaires
+代金券 | TRADUÇÃO: voucher; coupon
+代销 | TRADUÇÃO: to sell as agent/to sell on commission (e.g. insurance policies)/proxy sale (of stocks)
+代销店 | TRADUÇÃO: outlet/commission shop/agency
+代际 | TRADUÇÃO: intergenerational/generational
+代顿 | TRADUÇÃO: Dayton (city in Ohio)
+代餐 | TRADUÇÃO: meal replacement
+代驾 | TRADUÇÃO: to drive a vehicle for its owner (often as a paid service for sb who has consumed alcohol) (abbr. for 代理駕駛|代理驾驶)/substitute driver (abbr. for 代駕司機|代驾司机)
+令 | TRADUÇÃO: used in 脊令/used in 令狐 (Taiwan pr. [ling4]) ‖ classifier for a ream of paper ‖ to order/to command/an order/warrant/writ/to cause/to make sth happen/virtuous/honorific title/season/government position (old)/type of short song or poem
+令人 | TRADUÇÃO: to cause one (to do sth)/to make one (angry, delighted etc)
+令人不快 | TRADUÇÃO: unpleasant/objectionable
+令人振奋 | TRADUÇÃO: inspiring/exciting/rousing
+令人满意 | TRADUÇÃO: satisfying/satisfactory
+令人发指 | TRADUÇÃO: (idiom) to make one feel a sense of revulsion; abhorrent; heinous; deeply disturbing
+令兄 | TRADUÇÃO: Your esteemed older brother (honorific)
+令吉 | TRADUÇÃO: ringgit (Malaysian currency unit)
+令名 | TRADUÇÃO: good name/reputation
+令和 | TRADUÇÃO: Reiwa, Japanese era name, corresponding to the reign (2019-) of emperor Naruhito 德仁
+令堂 | TRADUÇÃO: (honorific) your mother
+令嫒 | TRADUÇÃO: variant of 令愛|令爱
+令尊 | TRADUÇÃO: Your esteemed father (honorific)
+令尊令堂 | TRADUÇÃO: (honorific) your parents
+令弟 | TRADUÇÃO: honorable little brother
+令爱 | TRADUÇÃO: (courteous) your daughter
+令慈 | TRADUÇÃO: Your esteemed mother (honorific)
+令正 | TRADUÇÃO: (honorific) your wife
+令牌 | TRADUÇÃO: (archaic) wooden or metal token of authority/(fig.) decree/directive/(computing) token
+令牌环 | TRADUÇÃO: token ring
+令牌环网 | TRADUÇÃO: token ring network
+令状 | TRADUÇÃO: writ
+令狐 | TRADUÇÃO: old place name (in present-day Linyi County 臨猗縣|临猗县, Shanxi)/two-character surname Linghu
+令狐德棻 | TRADUÇÃO: Linghu Defen (583-666), Tang dynasty historian, compiler of History of Zhou of the Northern dynasties 周書|周书
+令箭 | TRADUÇÃO: arrow banner of command (archaic used as symbol of military authority)/fig. instructions from one's superiors
+令节 | TRADUÇÃO: festive season/happy time/noble principle
+令药 | TRADUÇÃO: seasonal medication
+令行禁止 | TRADUÇÃO: (lit.) orders are carried out and prohibitions are observed (idiom)/(fig.) to execute every order without fail
+令亲 | TRADUÇÃO: Your esteemed parent (honorific)
+令誉 | TRADUÇÃO: honorable reputation
+令郎 | TRADUÇÃO: your esteemed son (honorific)
+令阃 | TRADUÇÃO: your wife (honorific)
+以一驭万 | TRADUÇÃO: to control a key point is to be master of the situation (idiom)
+以上 | TRADUÇÃO: that level or higher; that amount or more/the above-mentioned/(used to indicate that one has completed one's remarks) That is all.
+以下 | TRADUÇÃO: that level or lower/that amount or less/the following
+以下犯上 | TRADUÇÃO: to disrespect one's superiors/to offend one's elders
+以不变应万变 | TRADUÇÃO: (idiom) to deal with varying circumstances by adhering to a basic principle
+以人名命名 | TRADUÇÃO: to name sth after a person/named after/eponymous
+以人废言 | TRADUÇÃO: to reject a word because of the speaker (idiom, from Analects); to judge on preference between advisers rather than the merits of the case
+以人为本 | TRADUÇÃO: people-oriented
+以来 | TRADUÇÃO: since (used after a specified time or event)
+以便 | TRADUÇÃO: so that/so as to/in order to
+以假乱真 | TRADUÇÃO: (idiom) to pass off the fake as genuine; to blur the line between fake and real so convincingly that the fake is mistaken for the real thing
+以偏概全 | TRADUÇÃO: (lit.) to take a part for the whole/to generalize
+以备不测 | TRADUÇÃO: to be prepared for accidents
+以债养债 | TRADUÇÃO: debt nurtures more debt (idiom)
+以亿计 | TRADUÇÃO: to number in the thousands
+以儆效尤 | TRADUÇÃO: (idiom) to warn against following bad examples; as a warning to others
+以免 | TRADUÇÃO: in order to avoid/so as not to
+以内 | TRADUÇÃO: within/less than
+以其人之道，还治其人之身 | TRADUÇÃO: to use an opponent's own methods to obtain retribution (idiom, from Song dynasty neo-Confucianist Zhu Xi 朱熹)/to get revenge by playing sb back at his own game; to give sb a taste of his own medicine
+以利亚 | TRADUÇÃO: Elijah (Old Testament prophet)
+以利亚撒 | TRADUÇÃO: Eleazar (son of Eluid)
+以利亚敬 | TRADUÇÃO: Eliakim (name, Hebrew: God will raise up)/Eliakim, servant of the Lord in Isaiah 22:20/Eliakim, son of Abiud and father of Azor in Matthew 1:13
+以利于 | TRADUÇÃO: for the sake of/in order to
+以前 | TRADUÇÃO: before/formerly/previous/ago
+以北 | TRADUÇÃO: to the north of (suffix)
+以南 | TRADUÇÃO: to the south of (suffix)
+以卵击石 | TRADUÇÃO: lit. to strike a stone with egg (idiom); to attempt the impossible/to invite disaster by overreaching oneself
+以及 | TRADUÇÃO: and; as well as
+以史为鉴 | TRADUÇÃO: to learn from history (idiom)
+以和为贵 | TRADUÇÃO: harmony is to be prized
+以埃 | TRADUÇÃO: Israel-Egypt
+以外 | TRADUÇÃO: apart from/other than/except for/external/outside of/on the other side of/beyond
+以太 | TRADUÇÃO: (loanword) ether (hypothetical medium that transmits light waves)
+以太坊 | TRADUÇÃO: Ethereum
+以太网 | TRADUÇÃO: Ethernet
+以太网络 | TRADUÇÃO: Ethernet
+以失败而告终 | TRADUÇÃO: to succeed through failure/to achieve one's final aim despite apparent setback
+以夷制夷 | TRADUÇÃO: to use foreigners to subdue foreigners (idiom); let the barbarians fight it out among themselves (traditional policy of successive dynasties)/Use Western science and technology to counter imperialist encroachment. (late Qing modernizing slogan)
+以子之矛，攻子之盾 | TRADUÇÃO: lit. use sb's spear to attack his shield (idiom, derived from Han Feizi 韓非子|韩非子); turning a weapon against its owner/fig. to attack an opponent using his own devices/hoist with his own petard
+以小人之心，度君子之腹 | TRADUÇÃO: to gauge the heart of a gentleman with one's own mean measure (idiom)
+以少胜多 | TRADUÇÃO: using the few to defeat the many (idiom); to win from a position of weakness
+以工代赈 | TRADUÇÃO: to provide work to relieve poverty
+以巴 | TRADUÇÃO: Israeli-Palestinian
+以弗所 | TRADUÇÃO: Ephesus, city of ancient Greece
+以弗所书 | TRADUÇÃO: Epistle of St Paul to the Ephesians
+以弱胜强 | TRADUÇÃO: using the weak to defeat the strong (idiom); to win from a position of weakness
+以强凌弱 | TRADUÇÃO: to use one's strength to bully the weak (idiom)
+以往 | TRADUÇÃO: in the past; formerly
+以律 | TRADUÇÃO: Eluid (son of Achim)
+以后 | TRADUÇÃO: after/later/afterwards/following/later on/in the future
+以微知著 | TRADUÇÃO: see 見微知著|见微知著
+以德报怨 | TRADUÇÃO: to return good for evil (idiom)/to requite evil with good
+以慎为键 | TRADUÇÃO: to take caution as the key (idiom); to proceed very carefully
+以撒 | TRADUÇÃO: Isaac (son of Abraham)
+以叙 | TRADUÇÃO: Israel-Syria
+以斯帖 | TRADUÇÃO: Esther (name)
+以斯帖记 | TRADUÇÃO: Book of Esther
+以斯拉记 | TRADUÇÃO: Book of Ezra
+以暴制暴 | TRADUÇÃO: to use violence to curb violence
+以暴易暴 | TRADUÇÃO: to replace one tyranny by another/to use violence against violence
+以期 | TRADUÇÃO: in order to/hoping to/attempting to/waiting for
+以本人名 | TRADUÇÃO: under one's own name/named after oneself
+以东 | TRADUÇÃO: to the east of (suffix)
+以柔克刚 | TRADUÇÃO: to use softness to conquer strength (idiom)
+以权压法 | TRADUÇÃO: to abuse power to crush the law
+以权谋私 | TRADUÇÃO: to use one's position for personal gain (idiom)
+以次 | TRADUÇÃO: in the proper order/the following
+以正视听 | TRADUÇÃO: (idiom) in order to set the record straight; to clarify matters for the public
+以此 | TRADUÇÃO: with this/thereby/thus/because of this
+以此为 | TRADUÇÃO: to regard as/to treat as
+以此类推 | TRADUÇÃO: and so on/in a similar fashion
+以死明志 | TRADUÇÃO: to demonstrate one's sincerity by dying
+以毒攻毒 | TRADUÇÃO: to cure ills with poison (TCM)/to fight evil with evil/set a thief to catch a thief/to fight fire with fire
+以求 | TRADUÇÃO: in order to
+以沫相濡 | TRADUÇÃO: see 相濡以沫
+以法莲 | TRADUÇÃO: Ephraim (city)
+以泪洗面 | TRADUÇÃO: to bathe one's face in tears (idiom)
+以汤沃沸 | TRADUÇÃO: to manage a situation badly (idiom)
+以为 | TRADUÇÃO: to think; to believe (often with the implication that the belief is mistaken – unless referring to one's own current belief)
+以牙还牙 | TRADUÇÃO: a tooth for a tooth (retaliation)
+以物易物 | TRADUÇÃO: to barter/barter
+以直报怨，以德报德 | TRADUÇÃO: to repay kindness with kindness, and repay enmity with justice (idiom, from Analects)
+以眦睚杀人 | TRADUÇÃO: to kill sb for a trifle
+以眼还眼 | TRADUÇÃO: an eye for an eye (idiom); fig. to use the enemy's methods against him/to give sb a taste of his own medicine
+以眼还眼，以牙还牙 | TRADUÇÃO: an eye for an eye, a tooth for a tooth (idiom)/fig. to use the enemy's methods against him/to give sb a taste of his own medicine
+以示警戒 | TRADUÇÃO: to serve as a warning (idiom)
+以礼相待 | TRADUÇÃO: to treat sb with due respect (idiom)
+以老大自居 | TRADUÇÃO: regarding oneself as number one in terms of leadership, seniority or status
+以老卖老 | TRADUÇÃO: variant of 倚老賣老|倚老卖老
+以至 | TRADUÇÃO: down to/up to/to such an extent as to .../also written 以至於|以至于
+以至于 | TRADUÇÃO: down to/up to/to the extent that...
+以致 | TRADUÇÃO: to such an extent as to/down to/up to
+以致于 | TRADUÇÃO: so that/to the point that
+以色列 | TRADUÇÃO: Israel
+以色列人 | TRADUÇÃO: an Israeli/an Israelite
+以华制华 | TRADUÇÃO: use Chinese collaborators to subdue the Chinese (imperialist policy)
+以药养医 | TRADUÇÃO: "drugs serving to nourish doctors", perceived problem in PRC medical practice
+以虚带实 | TRADUÇÃO: (idiom) to use the abstract to guide the concrete
+以西 | TRADUÇÃO: to the west of (suffix)
+以西结书 | TRADUÇÃO: Book of Ezekiel
+以言代法 | TRADUÇÃO: to substitute one's words for the law (idiom); high-handedly putting one's orders above the law
+以言代法，以权压法 | TRADUÇÃO: to substitute one's words for the law and abuse power to crush it (idiom); completely lawless behavior/Might makes right.
+以讹传讹 | TRADUÇÃO: to spread falsehoods/to increasingly distort the truth/to pile errors on top of errors (idiom)
+以貌取人 | TRADUÇÃO: to judge sb by appearances (idiom)
+以资 | TRADUÇÃO: by way of/to serve as
+以资证明 | TRADUÇÃO: in support or witness hereof (idiom)
+以赛亚书 | TRADUÇÃO: Book of Isaiah
+以身作则 | TRADUÇÃO: to set an example (idiom); to serve as a model
+以身报国 | TRADUÇÃO: to give one's body for the nation (idiom); to spend one's whole life in the service of the country
+以身抵债 | TRADUÇÃO: forced labor to repay a debt
+以身相许 | TRADUÇÃO: (of a woman) to give one's heart (to sb); (fig.) to devote oneself wholeheartedly to sb or sth
+以身许国 | TRADUÇÃO: to dedicate oneself to the cause of one's country (idiom)
+以身试法 | TRADUÇÃO: to challenge the law (idiom)/to knowingly violate the law
+以军 | TRADUÇÃO: Israeli soldiers
+以逸待劳 | TRADUÇÃO: to wait at one's ease for the exhausted enemy/to nurture one's strength and bide one's time (idiom)
+以邻为壑 | TRADUÇÃO: to use one's neighbor as a drain/to shift one's problems onto others (idiom)
+以防 | TRADUÇÃO: (so as) to avoid/to prevent/(just) in case
+以防万一 | TRADUÇÃO: to guard against the unexpected (idiom); just in case/prepared for any eventualities
+以降 | TRADUÇÃO: since (some point in the past)
+以飨读者 | TRADUÇÃO: for the benefit of the reader
+以马内利 | TRADUÇÃO: Emanuel; Immanuel (name)
+仨 | TRADUÇÃO: three (colloquial equivalent of 三個|三个)
+仫 | TRADUÇÃO: used in 仫佬族, Mulao ethnic group of Guangxi
+仫佬 | TRADUÇÃO: Mulao ethnic group
+仫佬族 | TRADUÇÃO: Mulao ethnic group
+仰 | TRADUÇÃO: surname Yang ‖ to face upward/to look up/to admire/to rely on
+仰人鼻息 | TRADUÇÃO: to rely on others for the air one breathes (idiom); to depend on sb's whim for one's living
+仰仗 | TRADUÇÃO: to rely on/to depend on
+仰光 | TRADUÇÃO: Yangon (Rangoon), city, capital of Myanmar from 1948 to 2006
+仰光大金塔 | TRADUÇÃO: Great Pagoda of Yangon (Rangoon)
+仰天 | TRADUÇÃO: to face upwards/to look up to the sky
+仰屋 | TRADUÇÃO: to lie looking at the ceiling (in despair)
+仰屋兴叹 | TRADUÇÃO: to stare at the ceiling in despair/to find no way out/nothing you can do about it/at the end of one's wits
+仰屋著书 | TRADUÇÃO: lit. to stare at the ceiling while writing a book (idiom); to put one's whole body and soul into a book
+仰慕 | TRADUÇÃO: to admire
+仰望 | TRADUÇÃO: to look up at/to look up to sb hopefully
+仰泳 | TRADUÇÃO: backstroke
+仰卧 | TRADUÇÃO: to lie supine
+仰卧式 | TRADUÇÃO: corpse pose (yoga)
+仰卧起坐 | TRADUÇÃO: sit-up (physical exercise)
+仰视 | TRADUÇÃO: to tilt one's head back to see (sth)/to look up at
+仰角 | TRADUÇÃO: (math.) angle of elevation
+仰赖 | TRADUÇÃO: to rely on
+仰躺 | TRADUÇÃO: to lie on one's back
+仰韶 | TRADUÇÃO: Yangshao, a village in Henan Province where the first site of the Yangshao culture 仰韶文化 was excavated, used metonymically to refer to the culture itself
+仰韶文化 | TRADUÇÃO: (archaeology) Yangshao culture, a Neolithic culture (c. 5000–3000 BC) in the central Yellow River basin, known for painted pottery, millet farming and village settlements
+仰头 | TRADUÇÃO: to raise one's head
+仲 | TRADUÇÃO: surname Zhong ‖ second month of a season/middle/intermediate/second amongst brothers
+仲介 | TRADUÇÃO: (Tw) middleman; agent; broker
+仲夏 | TRADUÇÃO: midsummer/second month of summer
+仲夏夜之梦 | TRADUÇÃO: Midsummer night's dream, comedy by William Shakespeare 莎士比亞|莎士比亚
+仲尼 | TRADUÇÃO: courtesy name for Confucius 孔夫子
+仲巴 | TRADUÇÃO: see 仲巴縣|仲巴县
+仲巴县 | TRADUÇÃO: Zhongba, a county in Shigatse City 日喀則市|日喀则市, Tibet
+仲父 | TRADUÇÃO: father's younger brother/(sometimes used to refer to Confucius)
+仲秋 | TRADUÇÃO: second month of autumn/8th month of the lunar calendar
+仲裁 | TRADUÇÃO: arbitration
+仳 | TRADUÇÃO: to part
+仵 | TRADUÇÃO: surname Wu ‖ equal/well-matched/to violate
+仵作 | TRADUÇÃO: coroner (old)
+仵工 | TRADUÇÃO: (HK) funeral worker; mortuary worker
+件 | TRADUÇÃO: item/component/classifier for events, things, clothes etc
+件件桩桩 | TRADUÇÃO: see 樁樁件件|桩桩件件
+件数 | TRADUÇÃO: number of items (in a consignment etc)
+价 | TRADUÇÃO: (literary) messenger; servant ‖ price/value/(chemistry) valence ‖ particle used between an adverb and a verb or adjective/(dialect) particle used after a negative adverb such as 不 or 別|别 without any other following element
+任 | TRADUÇÃO: surname Ren ‖ to assign/to appoint/to take up a post/office/responsibility/to let/to allow/to give free rein to/no matter (how, what etc)/classifier for terms served in office, or for spouses, girlfriends etc (as in 前任男友)
+任一 | TRADUÇÃO: any/either
+任一个 | TRADUÇÃO: any one of (a list of possibilities)
+任丘 | TRADUÇÃO: see 任丘市
+任丘市 | TRADUÇÃO: Renqiu, a county-level city in Cangzhou City 滄州市|沧州市, Hebei
+任事 | TRADUÇÃO: appointment to an important post
+任人 | TRADUÇÃO: to appoint (sb to a post)
+任人唯亲 | TRADUÇÃO: (idiom) to appoint people by favoritism; to practice cronyism (or nepotism)
+任人唯贤 | TRADUÇÃO: to appoint people according to their merits (idiom); appointment on the basis of ability and integrity
+任人宰割 | TRADUÇÃO: to get trampled on (idiom)/to be taken advantage of
+任令 | TRADUÇÃO: to allow (sth to happen)
+任何 | TRADUÇÃO: any; whatever; whichever
+任便 | TRADUÇÃO: as you see fit/to do as one likes
+任侠 | TRADUÇÃO: chivalrous/helping the weak for the sake of justice
+任免 | TRADUÇÃO: to appoint and dismiss
+任内 | TRADUÇÃO: period in office
+任其自然 | TRADUÇÃO: to let things take their course (idiom)/to leave it to nature/laissez-faire
+任务 | TRADUÇÃO: mission; assignment; task; duty; role/CL:項|项
+任务栏 | TRADUÇÃO: taskbar (computing)
+任务管理器 | TRADUÇÃO: (computing) task manager
+任劳任怨 | TRADUÇÃO: to work hard without complaint (idiom)
+任命 | TRADUÇÃO: to appoint/(job) appointment/CL:紙|纸
+任命状 | TRADUÇÃO: certificate of appointment (to government office)
+任咎 | TRADUÇÃO: to take the blame
+任城 | TRADUÇÃO: see 任城區|任城区
+任城区 | TRADUÇÃO: Rencheng, a district of Jining City 濟寧市|济宁市, Shandong
+任天堂 | TRADUÇÃO: Nintendo
+任安 | TRADUÇÃO: Ren An (-c. 90 BC), Han Dynasty general, also called Ren Shaoqing 任少卿
+任从 | TRADUÇÃO: at one's discretion
+任性 | TRADUÇÃO: willful/headstrong/unruly
+任情 | TRADUÇÃO: to let oneself go/to do as much as one pleases
+任意 | TRADUÇÃO: any/arbitrary/at will/at random
+任意球 | TRADUÇÃO: free kick (football); free throw (handball); free hit (field hockey)
+任凭 | TRADUÇÃO: no matter what/despite/to allow (sb to act arbitrarily)
+任凭风浪起，稳坐钓鱼台 | TRADUÇÃO: lit. to sit tight on the fishing terrace despite the storm (idiom)/fig. to stay calm in a tense situation
+任所 | TRADUÇÃO: one's office; place where one holds a post
+任教 | TRADUÇÃO: to hold a teaching position
+任期 | TRADUÇÃO: term of office/CL:屆|届/tenure (entire period in office)
+任气 | TRADUÇÃO: to act on impulse
+任泽 | TRADUÇÃO: see 任澤區|任泽区
+任泽区 | TRADUÇÃO: Renze, a district of Xingtai City 邢臺市|邢台市, Hebei
+任用 | TRADUÇÃO: to appoint/to assign
+任由 | TRADUÇÃO: to let (sb do sth)/to allow/regardless of
+任直 | TRADUÇÃO: Nintendo Direct (announcement presentation)
+任职 | TRADUÇÃO: to hold a post; to take office
+任职期间 | TRADUÇÃO: term of office/while holding a post
+任听 | TRADUÇÃO: to allow (sb to act arbitrarily)/to let sb have his head
+任诞 | TRADUÇÃO: dissipated/unruly
+任课 | TRADUÇÃO: to give classes/to work as a teacher
+任贤使能 | TRADUÇÃO: to appoint the virtuous and use the able (idiom); appointment on the basis of ability and integrity
+任达华 | TRADUÇÃO: Simon Yam Tat-Wah (1955-), Hong Kong actor and film producer
+任选 | TRADUÇÃO: to choose freely; to pick whichever one fancies
+任重而道远 | TRADUÇÃO: see 任重道遠|任重道远
+任重道远 | TRADUÇÃO: a heavy load and a long road/fig. to bear heavy responsibilities through a long struggle (cf Confucian Analects, 8.7)
+任随 | TRADUÇÃO: to allow (sb to have his head)/to let things happen
+份 | TRADUÇÃO: classifier for gifts, newspaper, magazine, papers, reports, contracts etc/variant of 分
+份儿 | TRADUÇÃO: degree/extent/allotted share
+份儿饭 | TRADUÇÃO: set meal
+份子 | TRADUÇÃO: one's share of expenses (e.g. when buying a gift collectively)/cash gift
+分子 | TRADUÇÃO: variant of 分子 ‖ (chemistry) molecule/(math.) numerator of a fraction ‖ member of a class or group; people of a certain type ‖ Taiwan variant of 份子
+份子钱 | TRADUÇÃO: gift money (on the occasion of a wedding etc)
+份量 | TRADUÇÃO: variant of 分量
+份额 | TRADUÇÃO: share/portion
+仿 | TRADUÇÃO: to imitate/to copy ‖ variant of 仿
+仿似 | TRADUÇÃO: as if; to seem
+仿佛 | TRADUÇÃO: to seem; as if; seemingly/alike; similar ‖ to seem; as if; seemingly/alike; similar
+仿效 | TRADUÇÃO: to copy; to imitate
+仿冒 | TRADUÇÃO: to counterfeit/fake
+仿冒品 | TRADUÇÃO: counterfeit object/imitation/fake/pirated goods
+仿古 | TRADUÇÃO: pseudo-classical/modeled on antique/in the old style
+仿品 | TRADUÇÃO: imitation product; counterfeit; knockoff/replica; reproduction
+仿如 | TRADUÇÃO: like/similar to/as if
+仿宋 | TRADUÇÃO: imitation Song dynasty typeface/Fangsong font
+仿射 | TRADUÇÃO: (math.) affine
+仿射子空间 | TRADUÇÃO: (math.) affine subspace
+仿射空间 | TRADUÇÃO: (math.) affine space
+仿照 | TRADUÇÃO: to imitate
+仿生 | TRADUÇÃO: to design an artificial system, taking inspiration from a living organism; bionic; biomimetic
+仿生学 | TRADUÇÃO: bionics/bionicist
+仿皮 | TRADUÇÃO: imitation leather
+仿真 | TRADUÇÃO: to emulate/to simulate/emulation/simulation
+仿真服务器 | TRADUÇÃO: emulation server
+仿纸 | TRADUÇÃO: copying paper (with printed model characters and blank squares for writing practice)
+仿羊皮纸 | TRADUÇÃO: imitation parchment
+仿行 | TRADUÇÃO: to fashion after/to imitate
+仿制 | TRADUÇÃO: to copy/to imitate/to make by imitating a model
+仿制品 | TRADUÇÃO: counterfeit object/fake
+仿制药 | TRADUÇÃO: generic drug; generic medicine
+仿讽 | TRADUÇÃO: parody
+仿赛 | TRADUÇÃO: race-replica motorcycle; street-legal motorcycle styled after racing bikes
+仿造 | TRADUÇÃO: to copy/to produce sth after a model/to counterfeit
+伀 | TRADUÇÃO: restless/agitated
+企 | TRADUÇÃO: (bound form) to stand on tiptoe and look; to anticipate; to look forward to/(bound form) company; firm; enterprise; corporation (abbr. for 企業|企业)/Taiwan pr. [qi4]
+企划 | TRADUÇÃO: to plan (a project)
+企及 | TRADUÇÃO: to hope to reach; to strive for
+企图 | TRADUÇÃO: to attempt/to try/attempt/CL:種|种
+企图心 | TRADUÇÃO: ambition/ambitious
+企慕 | TRADUÇÃO: to admire
+企投 | TRADUÇÃO: (Tw) to have fun (from Taiwanese 𨑨迌, Tai-lo pr. [tshit-thô])
+企望 | TRADUÇÃO: to hope for; to look forward to
+企业 | TRADUÇÃO: company; firm; enterprise; corporation/CL:家
+企业主 | TRADUÇÃO: owner of enterprise
+企业家 | TRADUÇÃO: entrepreneur
+企业社会责任 | TRADUÇÃO: corporate social responsibility (CSR)
+企业管理 | TRADUÇÃO: business management
+企业管理硕士 | TRADUÇÃO: Master of Business Administration (MBA)
+企业联合组织 | TRADUÇÃO: syndicate (group of businesses)
+企业集团 | TRADUÇÃO: business conglomerate
+企求 | TRADUÇÃO: to seek for; to hope to gain; desirous
+企画 | TRADUÇÃO: variant of 企劃|企划
+企盼 | TRADUÇÃO: to hope for; to look forward to
+企稳 | TRADUÇÃO: (of economy, prices etc) to stabilize
+企管硕士 | TRADUÇÃO: Master of Business Administration (MBA)
+企鹅 | TRADUÇÃO: penguin
+伄 | TRADUÇÃO: used in 伄儅
+伄儅 | TRADUÇÃO: seldom/irregularly
+伇 | TRADUÇÃO: old variant of 役
+伈 | TRADUÇÃO: nervous/fearful
+伉 | TRADUÇÃO: spouse/big and tall/strong/robust/upright and outspoken
+伉俪 | TRADUÇÃO: (literary) husband and wife; married couple
+伉俪情深 | TRADUÇÃO: married couple very much in love/deep conjugal love
+伊 | TRADUÇÃO: surname Yi ‖ (old) third person singular pronoun ("he" or "she")/second person singular pronoun ("you")/(May 4th period) third person singular feminine pronoun ("she")/(Classical Chinese) introductory particle with no specific meaning/(preceding a noun) that/(bound form) Iraq (abbr. for 伊拉克)/(bound form) Iran (abbr. for 伊朗)
+伊人 | TRADUÇÃO: (literary) that person (usually female)/she/one's intended
+伊伦 | TRADUÇÃO: Irun (city in Basque region of Spain)
+伊凡 | TRADUÇÃO: Ivan (Russian name)
+伊利亚特 | TRADUÇÃO: the "Iliad", Homer's epic poem about the Trojan War
+伊利埃斯库 | TRADUÇÃO: Iliescu
+伊利格瑞 | TRADUÇÃO: Luce Irigaray (1930-), French psychoanalyst and feminist
+伊利湖 | TRADUÇÃO: Lake Erie, one of the Great Lakes 五大湖
+伊利诺 | TRADUÇÃO: Illinois, US state
+伊利诺伊 | TRADUÇÃO: Illinois, US state
+伊势丹 | TRADUÇÃO: Isetan, Japanese department store
+伊吾 | TRADUÇÃO: see 伊吾縣|伊吾县
+伊吾县 | TRADUÇÃO: Yiwu, a county in Hami City 哈密市, Xinjiang
+伊塔 | TRADUÇÃO: eta (Greek letter Η, η)
+伊塞克湖 | TRADUÇÃO: Issyk-Kul (a large lake in eastern Kyrgyzstan)
+伊壁鸠鲁 | TRADUÇÃO: Epicurus (341-270 BC), ancient Greek philosopher
+伊士曼柯达公司 | TRADUÇÃO: Eastman Kodak Company (US film company)
+伊妹儿 | TRADUÇÃO: (loanword) email
+伊始 | TRADUÇÃO: outset/beginning
+伊娃 | TRADUÇÃO: Eva (name)
+伊娃·门德斯 | TRADUÇÃO: Eva Mendes, American actress
+伊媚儿 | TRADUÇÃO: variant of 伊妹兒|伊妹儿
+伊宁 | TRADUÇÃO: see 伊寧市|伊宁市/see 伊寧縣|伊宁县
+伊宁市 | TRADUÇÃO: Yining, a county-level city in Ili Kazakh Autonomous Prefecture 伊犁哈薩克自治州|伊犁哈萨克自治州, Xinjiang
+伊宁县 | TRADUÇÃO: Yining, a county in Ili Kazakh Autonomous Prefecture 伊犁哈薩克自治州|伊犁哈萨克自治州, Xinjiang
+伊尼亚斯 | TRADUÇÃO: Aeneas
+伊尼伊德 | TRADUÇÃO: Aeneid
+伊尼特 | TRADUÇÃO: Virgil's Aeneid (epic about the foundation of Rome)
+伊川 | TRADUÇÃO: see 伊川縣|伊川县
+伊川县 | TRADUÇÃO: Yichuan, a county in Luoyang City 洛陽市|洛阳市, Henan
+伊州 | TRADUÇÃO: Tang dynasty province in modern Xinjiang, around Hami 哈密/Illinois (US state)
+伊府面 | TRADUÇÃO: see 伊麵|伊面
+伊思迈尔 | TRADUÇÃO: Ismail (name)/Shah Ismail I (1487-1524), founder of Persian Safavid dynasty, reigned 1501-1524
+伊戈尔 | TRADUÇÃO: Igor
+伊戈尔斯 | TRADUÇÃO: Eagles (name)
+伊拉克 | TRADUÇÃO: Iraq
+伊斯坦堡 | TRADUÇÃO: (Tw) Istanbul
+伊斯坦布尔 | TRADUÇÃO: Istanbul, Turkey
+伊斯帕尼奥拉 | TRADUÇÃO: Hispaniola (Caribbean island including Haiti and the Dominican Republic)
+伊斯曼 | TRADUÇÃO: Eastman (name)/George Eastman (1854-1932), US inventor and founder of Kodak 柯達|柯达/Max F. Eastman (1883-1969), US socialist writer, subsequently severe critic of USSR
+伊斯法罕 | TRADUÇÃO: Isfahan province and city in central Iran
+伊斯特 | TRADUÇÃO: Istres (French town)
+伊斯兰 | TRADUÇÃO: Islam
+伊斯兰国 | TRADUÇÃO: Muslim countries/caliphate/Islamic State group (aka IS or ISIL or ISIS)
+伊斯兰堡 | TRADUÇÃO: Islamabad, capital of Pakistan
+伊斯兰教 | TRADUÇÃO: Islam
+伊斯兰圣战组织 | TRADUÇÃO: Islamic Jihad (Palestinian armed faction)
+伊斯兰马巴德 | TRADUÇÃO: Islamabad, capital of Pakistan (Tw)
+伊于胡底 | TRADUÇÃO: where will it stop?
+伊春 | TRADUÇÃO: see 伊春市
+伊春市 | TRADUÇÃO: Yichun, prefecture-level city in Heilongjiang Province 黑龍江省|黑龙江省
+伊普西隆 | TRADUÇÃO: epsilon (Greek letter Εε)
+伊曼 | TRADUÇÃO: see 伊瑪目|伊玛目
+伊曼纽尔 | TRADUÇÃO: Emanuel; Immanuel (name)
+伊朗 | TRADUÇÃO: Iran
+伊朗宪监会 | TRADUÇÃO: Guardian Council of the Constitution of Iran
+伊比利亚 | TRADUÇÃO: Iberia/the Iberian peninsula
+伊比利亚半岛 | TRADUÇÃO: Iberian Peninsula
+伊水 | TRADUÇÃO: Yi river in west Henan, tributary of North Luo river 洛河|洛河
+伊波拉 | TRADUÇÃO: Ebola (virus)
+伊洛瓦底 | TRADUÇÃO: Irrawaddy or Ayeyarwady, the main river of Myanmar
+伊尔库茨克 | TRADUÇÃO: Irkutsk
+伊犁 | TRADUÇÃO: see 伊犁哈薩克自治州|伊犁哈萨克自治州/see 伊犁河/see 伊犁盆地
+伊犁哈萨克自治州 | TRADUÇÃO: Ili Kazakh Autonomous Prefecture, in Xinjiang Uighur Autonomous Region 新疆維吾爾自治區|新疆维吾尔自治区
+伊犁州 | TRADUÇÃO: see 伊犁哈薩克自治州|伊犁哈萨克自治州
+伊犁河 | TRADUÇÃO: Ili River in central Asia
+伊犁盆地 | TRADUÇÃO: the Yili basin around Urumqi in Xinjiang
+伊瑞克提翁庙 | TRADUÇÃO: the Erechteum, Athens
+伊玛目 | TRADUÇÃO: imam (Islam) (loanword)
+伊甸园 | TRADUÇÃO: Garden of Eden
+伊留申 | TRADUÇÃO: Ilyushin, Russian plane maker
+伊科病毒 | TRADUÇÃO: echovirus (RNA virus in genus Enterovirus)
+伊索 | TRADUÇÃO: Aesop (c. 620–560 BC), ancient Greek storyteller and supposed author of Aesop's Fables
+伊索寓言 | TRADUÇÃO: Aesop's Fables, a collection of fables attributed to Aesop
+伊美 | TRADUÇÃO: see 伊美區|伊美区
+伊美区 | TRADUÇÃO: Yimei, a district of Yichun City 伊春市, Heilongjiang
+伊芙 | TRADUÇÃO: Eve (name)
+伊莉莎白 | TRADUÇÃO: Elizabeth/also written 伊麗莎白|伊丽莎白
+伊莉萨白 | TRADUÇÃO: Elizabeth (name)/also written 伊麗莎白|伊丽莎白
+伊莱克斯 | TRADUÇÃO: Electrolux (Swedish manufacturer of home appliances)
+伊万卡 | TRADUÇÃO: Ivanka (name)
+伊萨卡 | TRADUÇÃO: Ithaca, a Greek island/Ithaca, New York, location of Cornell University 康奈爾大學|康奈尔大学
+伊藤 | TRADUÇÃO: Itō or Itoh, Japanese surname/Ito-Yokado (supermarket) (abbr. for 伊藤洋華堂|伊藤洋华堂)
+伊藤博文 | TRADUÇÃO: Itō Hirobumi (1841–1909), Japan's first prime minister (served four terms), key figure in Japan's colonial expansion into Korea
+伊蚊 | TRADUÇÃO: Aedes, a genus of mosquito
+伊通 | TRADUÇÃO: see 伊通滿族自治縣|伊通满族自治县
+伊通河 | TRADUÇÃO: Yitong River in Siping 四平, Jilin
+伊通满族自治县 | TRADUÇÃO: Yitong Manchu Autonomous County, in Siping City 四平市, Jilin
+伊通火山群 | TRADUÇÃO: Yitong volcanic area in Yitong Manchurian autonomous county 伊通滿族自治縣|伊通满族自治县, Siping, Jilin
+伊通县 | TRADUÇÃO: see 伊通滿族自治縣|伊通满族自治县
+伊通自然保护区 | TRADUÇÃO: Yitong nature reserve in Yitong Manchurian autonomous county 伊通滿族自治縣|伊通满族自治县, Siping, Jilin
+伊里奇 | TRADUÇÃO: Ilyich or Illich (name)
+伊金霍洛 | TRADUÇÃO: Ejin Horo banner (Ejen Khoruu khoshuu) in Ordos prefecture 鄂爾多斯|鄂尔多斯, Inner Mongolia
+伊金霍洛旗 | TRADUÇÃO: Ejin Horo banner (Ejen Khoruu khoshuu) in Ordos prefecture 鄂爾多斯|鄂尔多斯, Inner Mongolia
+伊隆·马斯克 | TRADUÇÃO: Elon Musk (1971-), founder and CEO of SpaceX, co-founder and CEO of Tesla Motors
+伊顿公学 | TRADUÇÃO: Eton public school (English elite school)
+伊马姆 | TRADUÇÃO: see 伊瑪目|伊玛目
+伊丽莎白 | TRADUÇÃO: Elizabeth (person name)
+伊面 | TRADUÇÃO: yi mein (or yee mee or yee-fu noodles etc), a variety of Cantonese egg noodle
+伊党 | TRADUÇÃO: Pan-Malaysian Islamic Party
+伋 | TRADUÇÃO: unreal
+伍 | TRADUÇÃO: surname Wu ‖ squad of five soldiers/to associate with/five (banker's anti-fraud numeral)
+伍奢 | TRADUÇÃO: Wu She (–522 BC), father of Wu Zixu 伍子胥, official of the state of Chu, executed after being falsely accused by King Ping of Chu
+伍子胥 | TRADUÇÃO: Wu Zixu (–484 BC), Chu-born strategist for Wu. After the King of Chu executed his family, he fled to Wu and masterminded Wu's invasion of Chu (506 BC), destroying its capital in a campaign that doubled as personal vengeance.
+伍家岗 | TRADUÇÃO: see 伍家崗區|伍家岗区
+伍家岗区 | TRADUÇÃO: Wujiagang, a district of Yichang City 宜昌市, Hubei
+伍廷芳 | TRADUÇÃO: Wu Tingfang (1842-1922), diplomat and lawyer
+伍德豪斯 | TRADUÇÃO: Woodhouse or Wodehouse (name)
+伍斯特酱 | TRADUÇÃO: Worcestershire sauce
+伎 | TRADUÇÃO: artistry/talent/skill/(in ancient times) female entertainer
+伎俩 | TRADUÇÃO: trick; scheme; ploy/skill
+伏 | TRADUÇÃO: surname Fu ‖ to lean over/to fall (go down)/to hide (in ambush)/to conceal oneself/to lie low/hottest days of summer/to submit/to concede defeat/to overcome/to subdue/volt
+伏侍 | TRADUÇÃO: variant of 服侍
+伏兵 | TRADUÇÃO: hidden troops/ambush
+伏地 | TRADUÇÃO: to lie prostrate
+伏地挺身 | TRADUÇÃO: (Tw) push-up (exercise)
+伏地魔 | TRADUÇÃO: Lord Voldemort, villain in the Harry Potter series
+伏天 | TRADUÇÃO: see 三伏
+伏安 | TRADUÇÃO: volt-ampere (measure of apparent power in alternating current circuits)
+伏惟 | TRADUÇÃO: to lie prostrate; to prostrate oneself (in veneration)
+伏击 | TRADUÇÃO: ambush/to ambush
+伏明霞 | TRADUÇÃO: Fu Mingxia (1978–), Chinese diver and Olympic champion
+伏案 | TRADUÇÃO: to bend over one's desk (writing, studying, taking a nap etc)
+伏汛 | TRADUÇÃO: summer flood
+伏法 | TRADUÇÃO: to be executed
+伏流 | TRADUÇÃO: hidden stream/ground stream
+伏尔加格勒 | TRADUÇÃO: Volgograd, city in Russia on the Volga River 伏爾加河|伏尔加河
+伏尔加河 | TRADUÇÃO: Volga River
+伏尔泰 | TRADUÇÃO: Voltaire (1694–1778), French Enlightenment writer and philosopher
+伏牛山 | TRADUÇÃO: Funiu Mountains in southwestern Henan, eastern extension of the Qinling mountain range 秦嶺山脈|秦岭山脉
+伏特 | TRADUÇÃO: (loanword) volt
+伏特加 | TRADUÇÃO: (loanword) vodka
+伏特计 | TRADUÇÃO: voltmeter
+伏牺 | TRADUÇÃO: variant of 伏羲
+伏笔 | TRADUÇÃO: foreshadowing (literary device); foretaste of material to come (in an essay or story)
+伏线 | TRADUÇÃO: foreshadowing (literary device)
+伏罪 | TRADUÇÃO: variant of 服罪
+伏罗希洛夫 | TRADUÇÃO: Kliment Voroshilov (1881–1969), Soviet politician and military commander
+伏羲 | TRADUÇÃO: Fuxi, legendary Chinese emperor, trad. 2852–2738 BC, mythical creator of fishing, trapping and writing
+伏羲氏 | TRADUÇÃO: Fuxi, legendary ruler in Chinese mythology credited with inventing fishing, trapping, and writing
+伏卧 | TRADUÇÃO: lying down/to lie prostrate/prone
+伏虎 | TRADUÇÃO: to subdue a tiger/fig. to prevail over sinister forces
+伏诛 | TRADUÇÃO: to be executed
+伏输 | TRADUÇÃO: variant of 服輸|服输
+伏辩 | TRADUÇÃO: variant of 服辯|服辩
+伏都教 | TRADUÇÃO: Voodoo
+伏隔核 | TRADUÇÃO: nucleus accumbens (anatomy)
+伏龙凤雏 | TRADUÇÃO: hidden genius (idiom)
+伐 | TRADUÇÃO: to cut down/to fell/to dispatch an expedition against/to attack/to boast/Taiwan pr. [fa1]
+伐木 | TRADUÇÃO: to cut wood/tree-felling/lumbering
+伐木场 | TRADUÇÃO: a logging area
+伐木工人 | TRADUÇÃO: lumberjack/tree cutter
+伐柯 | TRADUÇÃO: (cf Book of Songs) How to fashion an ax handle? You need an ax/fig. to follow a principle/fig. to act as matchmaker
+休 | TRADUÇÃO: surname Xiu ‖ to rest/to stop doing sth for a period of time/to cease/(imperative) don't
+休伊特 | TRADUÇÃO: (surname) Hewitt
+休伦湖 | TRADUÇÃO: Lake Huron, one of the Great Lakes 五大湖
+休假 | TRADUÇÃO: to go on vacation; to have a holiday; to take leave
+休克 | TRADUÇÃO: (medicine) (loanword) shock; to go into shock
+休兵 | TRADUÇÃO: to cease fire/armistice/rested troops
+休士顿 | TRADUÇÃO: (Tw) Houston, Texas
+休妻 | TRADUÇÃO: to repudiate one's wife
+休学 | TRADUÇÃO: to suspend schooling/to defer study
+休宁 | TRADUÇÃO: see 休寧縣|休宁县
+休宁县 | TRADUÇÃO: Xiuning, a county in Huangshan City 黃山市|黄山市, Anhui
+休市 | TRADUÇÃO: to close the market (for a holiday or overnight etc)
+休庭 | TRADUÇÃO: to adjourn (law)
+休怪 | TRADUÇÃO: don't blame (sb)
+休息 | TRADUÇÃO: rest/to rest
+休息室 | TRADUÇÃO: lobby/lounge
+休想 | TRADUÇÃO: don't think (that)/don't imagine (that)
+休憩 | TRADUÇÃO: to rest/to relax/to take a break
+休戚相关 | TRADUÇÃO: to share the same interests (idiom)/to be closely related/to be in the same boat
+休战 | TRADUÇÃO: armistice
+休整 | TRADUÇÃO: to rest and reorganize (military)
+休斯敦 | TRADUÇÃO: Houston, Texas
+休斯顿 | TRADUÇÃO: Houston, Texas
+休旅车 | TRADUÇÃO: sport utility vehicle (SUV)
+休会 | TRADUÇÃO: to adjourn
+休止 | TRADUÇÃO: to stop
+休止符 | TRADUÇÃO: rest (music)
+休氏旋木雀 | TRADUÇÃO: (bird species of China) Hume's treecreeper (Certhia manipurensis)
+休氏树莺 | TRADUÇÃO: (bird species of China) Hume's bush warbler (Horornis brunnescens)
+休沐 | TRADUÇÃO: (literary) a regular day off granted to officials in ancient times, for "rest and bathing"
+休班 | TRADUÇÃO: to be off duty
+休眠 | TRADUÇÃO: (biology) dormant/(of a volcano) dormant/(computing) to hibernate
+休眠火山 | TRADUÇÃO: dormant volcano
+休耕 | TRADUÇÃO: to leave farmland to lie fallow
+休谟 | TRADUÇÃO: David Hume (1711–1776), Scottish Enlightenment philosopher
+休达 | TRADUÇÃO: Ceuta, autonomous city of Spain on the northern coast of Africa, bordering Morocco
+休闲 | TRADUÇÃO: leisure/relaxation/not working/idle/to enjoy leisure/to lie fallow
+休闲裤 | TRADUÇÃO: casual pants
+休闲鞋 | TRADUÇÃO: leisure shoes
+休养 | TRADUÇÃO: to recuperate/to recover/to convalesce
+休养生息 | TRADUÇÃO: to recover/to recuperate
+伕 | TRADUÇÃO: variant of 夫
+伙 | TRADUÇÃO: meals (abbr. for 伙食)/variant of 夥|伙 ‖ companion/partner/group/classifier for groups of people/to combine/together
+伙伴 | TRADUÇÃO: partner/companion/comrade
+伙同 | TRADUÇÃO: to collude/in collusion with
+伙夫 | TRADUÇÃO: mess cook (old)
+伙计 | TRADUÇÃO: partner/fellow/mate/waiter/servant/shop assistant
+伙颐 | TRADUÇÃO: variant of 夥頤|夥颐
+伙食 | TRADUÇÃO: food/meals
+伙食费 | TRADUÇÃO: food expenses/board expenses/meals (cost)
+伜 | TRADUÇÃO: variant of 倅
+伢 | TRADUÇÃO: (dialect) child
+伢子 | TRADUÇÃO: (dialect) child
+伢崽 | TRADUÇÃO: (dialect) child
+伩 | TRADUÇÃO: variant of 信 (originally meant as part of the second round of simplified Chinese characters)
+伭 | TRADUÇÃO: surname Xian ‖ (literary) cruel; ruthless/(literary) dark red; black ‖ variant of 玄/variant of 懸|悬
+伯 | TRADUÇÃO: variant of 霸 ‖ one hundred (old) ‖ father's elder brother/senior/paternal elder uncle/eldest of brothers/respectful form of address/Count, third of five orders of nobility 五等爵位
+伯仲之间 | TRADUÇÃO: almost on a par
+伯仲叔季 | TRADUÇÃO: (idiom) eldest, second, third and youngest of brothers; order of seniority among brothers
+伯伯 | TRADUÇÃO: father's elder brother/uncle
+伯杰 | TRADUÇÃO: (surname) Berger
+伯克利 | TRADUÇÃO: Berkeley
+伯利恒 | TRADUÇÃO: Bethlehem
+伯利兹 | TRADUÇÃO: Belize
+伯劳 | TRADUÇÃO: shrike
+伯劳鸟 | TRADUÇÃO: shrike (family Laniidae)
+伯南克 | TRADUÇÃO: Ben Bernanke (1953–), US economist and chair of the Federal Reserve 2006–2014
+伯叔 | TRADUÇÃO: father's brother (uncle)/husband's brother (brother-in-law)
+伯叔祖母 | TRADUÇÃO: father's father's brother's wife/great aunt
+伯叔祖父 | TRADUÇÃO: father's father's brother/great uncle
+伯多禄 | TRADUÇÃO: Peter (Catholic transliteration)
+伯恩 | TRADUÇÃO: (Tw) Bern, capital of Switzerland
+伯恩斯 | TRADUÇÃO: (surname) Burns/Nicholas Burns (1956–), US ambassador to China 2022–2025
+伯恩茅斯 | TRADUÇÃO: Bournemouth, town in southern England
+伯明翰 | TRADUÇÃO: Birmingham
+伯乐 | TRADUÇÃO: Bole (a man who lived during Spring and Autumn Period, reputed to be able to spot a good horse)/a person who is good at spotting talent
+伯母 | TRADUÇÃO: wife of father's elder brother/aunt/(polite form of address for a woman who is about the age of one's mother)/CL:個|个
+伯爵 | TRADUÇÃO: earl/count/earldom or countship (old)
+伯父 | TRADUÇÃO: father's elder brother/term of respect for older man/CL:個|个
+伯尔尼 | TRADUÇÃO: Bern, capital of Switzerland
+伯特兰 | TRADUÇÃO: (name) Bertrand
+伯特兰德 | TRADUÇÃO: (name) Bertrand
+伯纳斯－李 | TRADUÇÃO: Tim Berners-Lee (1955–), British computer scientist and inventor of the World Wide Web
+伯罗奔尼撒 | TRADUÇÃO: Peloponnese, peninsula in southern Greece
+伯莎 | TRADUÇÃO: (name) Bertha
+伯赛大 | TRADUÇÃO: Bethsaida, settlement mentioned in the New Testament near the Sea of Galilee
+伯邑考 | TRADUÇÃO: Bo Yikao, eldest son of King Wen of Zhou 周文王 and elder brother of King Wu of Zhou 周武王
+伯都 | TRADUÇÃO: (archaic) (dialect) tiger
+伯里克利 | TRADUÇÃO: Pericles (c. 495–429 BC), Athenian statesman and general during the Peloponnesian War
+伯颜 | TRADUÇÃO: Bayan of the Baarin (1236–1295), Mongol general under Kublai Khan who led the conquest of the Southern Song/Bayan of the Merkid (died 1340), Yuan dynasty general and politician
+估 | TRADUÇÃO: to estimate ‖ used in 估衣
+估值 | TRADUÇÃO: valuation/estimation
+估价 | TRADUÇÃO: to value/to appraise/to be valued at/estimate/valuation
+估堆儿 | TRADUÇÃO: to assess an entire lot
+估定 | TRADUÇÃO: to assess/to estimate the value
+估摸 | TRADUÇÃO: to reckon/to guess
+估测 | TRADUÇÃO: estimate
+估产 | TRADUÇÃO: to assess/to estimate (value of property, yield of harvest etc)
+估算 | TRADUÇÃO: assessment/evaluation
+估衣 | TRADUÇÃO: secondhand clothes/cheap ready-made clothes
+估计 | TRADUÇÃO: to estimate; to assess; to calculate/(coll.) to reckon; to think (that ...)
+估量 | TRADUÇÃO: to estimate; to assess
+伱 | TRADUÇÃO: old variant of 你
+伲 | TRADUÇÃO: variant of 你 ‖ (dialect) I/my/we/our
+伴 | TRADUÇÃO: partner; companion; comrade; associate/to accompany
+伴侣 | TRADUÇÃO: companion/mate/partner
+伴侣号 | TRADUÇÃO: HMS Consort, a Royal Navy destroyer involved in the 1949 Amethyst Incident on the Yangtze River
+伴同 | TRADUÇÃO: to accompany
+伴君如伴虎 | TRADUÇÃO: being close to the sovereign can be as perilous as lying with a tiger (idiom)
+伴唱 | TRADUÇÃO: vocal accompaniment/to accompany a singer/to support of sb/to echo sb/to chime in with sb
+伴奏 | TRADUÇÃO: to accompany (musically)
+伴娘 | TRADUÇÃO: bridesmaid/maid of honor/matron of honor
+伴手 | TRADUÇÃO: see 伴手禮|伴手礼
+伴手礼 | TRADUÇÃO: (Tw) gift given when visiting sb (esp. a local specialty brought back from one's travels, or a special product of one's own country taken overseas)
+伴星 | TRADUÇÃO: (astronomy) companion star
+伴有 | TRADUÇÃO: to be accompanied by
+伴热 | TRADUÇÃO: electric heat tracing; steam tracing (for maintaining the temperature of pipes etc)
+伴生气 | TRADUÇÃO: associated gas (petrochemical engineering)
+伴舞 | TRADUÇÃO: to be a dancing partner to sb/to perform as a backup dancer/taxi dancer (hired dancing partner)/escort
+伴郎 | TRADUÇÃO: best man; groomsman
+伴随 | TRADUÇÃO: to accompany/to follow/to occur together with/concomitant
+伴随矩阵 | TRADUÇÃO: (math.) adjugate matrix; classical adjoint matrix
+伶 | TRADUÇÃO: (old) actor; actress/(meaningless bound form)
+伶人 | TRADUÇÃO: (old) actor; actress
+伶仃 | TRADUÇÃO: alone and helpless
+伶俐 | TRADUÇÃO: clever; witty; intelligent/deft; adroit
+伶俜 | TRADUÇÃO: (literary) lonely; all alone; solitary
+伶牙俐齿 | TRADUÇÃO: clever and eloquent (idiom); fluent/having the gift of the gab
+伶盗龙 | TRADUÇÃO: velociraptor (dinosaur)
+伶鼬 | TRADUÇÃO: weasel/Mustela nivalis (zoology)
+伸 | TRADUÇÃO: to stretch/to extend
+伸冤 | TRADUÇÃO: to right wrongs/to redress an injustice
+伸出 | TRADUÇÃO: to extend
+伸卡球 | TRADUÇÃO: (baseball) (loanword) sinker
+伸展 | TRADUÇÃO: stretching/extension
+伸展台 | TRADUÇÃO: runway (for a fashion show etc)/catwalk
+伸延 | TRADUÇÃO: see 延伸
+伸张 | TRADUÇÃO: to uphold (e.g. justice or virtue)/to promote
+伸懒腰 | TRADUÇÃO: to stretch oneself (on waking or when tired etc)
+伸手 | TRADUÇÃO: to reach out with one's hand/to hold out a hand/(fig.) to beg/to get involved/to meddle
+伸手不见五指 | TRADUÇÃO: pitch-dark (idiom)
+伸手派 | TRADUÇÃO: freeloader; moocher; sponger
+伸手牌 | TRADUÇÃO: freeloader; moocher; sponger
+伸港 | TRADUÇÃO: Shengang or Shenkang Township in Changhua County 彰化縣|彰化县, Taiwan
+伸港乡 | TRADUÇÃO: Shengang or Shenkang Township in Changhua County 彰化縣|彰化县, Taiwan
+伸直 | TRADUÇÃO: to straighten/to stretch out
+伸缩 | TRADUÇÃO: to lengthen and shorten/flexible/adjustable/retractable/extensible/telescoping (collapsible)
+伸缩喇叭 | TRADUÇÃO: trombone
+伸缩性 | TRADUÇÃO: flexibility
+伸肌 | TRADUÇÃO: extensor (anatomy)
+伸长 | TRADUÇÃO: to stretch; to extend
+伸开 | TRADUÇÃO: to stretch out (one's arms or legs etc)
+伸雪 | TRADUÇÃO: variant of 申雪
+伹 | TRADUÇÃO: clumsy and dumb/slow-witted
+伺 | TRADUÇÃO: used in 伺候 ‖ to watch/to wait/to examine/to spy
+伺候 | TRADUÇÃO: to serve; to wait upon
+伺服 | TRADUÇÃO: servo (small electric motor)/computer server
+伺服器 | TRADUÇÃO: server (computer) (Tw)
+伺机 | TRADUÇÃO: to wait for an opportunity/to watch for one's chance
+伺隙 | TRADUÇÃO: to wait for the opportunity
+伻 | TRADUÇÃO: to cause
+似 | TRADUÇÃO: used in 似的 ‖ to seem/to appear/to resemble/similar/-like/pseudo-/(more) than ‖ old variant of 似
+似乎 | TRADUÇÃO: it seems; seemingly; as if
+似地 | TRADUÇÃO: (used to form an adverbial phrase X + 似地) like (X); as if (X)/Taiwan pr. [si4de5]
+似懂非懂 | TRADUÇÃO: to not really understand/to half-understand
+似是而非 | TRADUÇÃO: apparently right but actually wrong; specious (idiom)
+似曾相识 | TRADUÇÃO: déjà vu (the experience of seeing exactly the same situation a second time)/seemingly familiar/apparently already acquainted
+似核 | TRADUÇÃO: nucleoid (of prokaryotic cell)
+似水年华 | TRADUÇÃO: fleeting years (idiom)
+似的 | TRADUÇÃO: seems as if/rather like/Taiwan pr. [si4 de5]
+似笑非笑 | TRADUÇÃO: like a smile yet not a smile (idiom)
+似雪 | TRADUÇÃO: snowy
+似鲴 | TRADUÇÃO: Xenocyprioides, genus of cyprinid fish endemic to China
+伽 | TRADUÇÃO: used in the transliteration of Greek letters ‖ traditionally used as phonetic for "ga" ‖ used to transliterate Sanskrit "gha"
+伽倻 | TRADUÇÃO: Gaya, a Korean confederacy of territorial polities in the Nakdong River basin of southern Korea (42-532 AD)
+伽倻琴 | TRADUÇÃO: gayageum (Korean 12-stringed zither)
+伽利略 | TRADUÇÃO: Galileo Galilei (1564-1642), Italian scientist
+伽利略·伽利雷 | TRADUÇÃO: Galileo Galilei (1564-1642), Italian scientist
+伽利略号 | TRADUÇÃO: Galileo, American robotic spacecraft launched to Jupiter in 1989, orbiting the planet 1995-2003
+伽师 | TRADUÇÃO: see 伽師縣|伽师县
+伽师县 | TRADUÇÃO: Payzawat, a county in Kashgar City 喀什市, Xinjiang
+伽玛 | TRADUÇÃO: variant of 伽馬|伽马
+伽玛射线 | TRADUÇÃO: gamma ray (loanword)
+伽罗瓦 | TRADUÇÃO: Évariste Galois (1811–1832), French mathematician
+伽罗瓦理论 | TRADUÇÃO: (math.) Galois theory
+伽罗华 | TRADUÇÃO: Évariste Galois (1811–1832), French mathematician
+伽罗华理论 | TRADUÇÃO: Galois theory (math.)
+伽蓝 | TRADUÇÃO: Buddhist temple (loanword from Sanskrit "samgharama")
+伽马 | TRADUÇÃO: (loanword) gamma (Greek letter Γ, γ)
+伽马射线 | TRADUÇÃO: gamma rays
+伽马辐射 | TRADUÇÃO: gamma radiation
+伾 | TRADUÇÃO: multitudinous/powerful
+佃 | TRADUÇÃO: to rent farmland from a landlord ‖ to cultivate/to hunt
+佃户 | TRADUÇÃO: tenant farmer
+佃农 | TRADUÇÃO: tenant farmer/sharecropper
+但 | TRADUÇÃO: but; yet; however; still/merely; only; just
+但丁 | TRADUÇÃO: Dante Alighieri (1265-1321), Italian poet, author of the Divine Comedy 神曲
+但以理书 | TRADUÇÃO: Book of Daniel
+但凡 | TRADUÇÃO: every single/as long as
+但尼生 | TRADUÇÃO: Tennyson (name)/Alfred Tennyson, 1st Baron Tennyson (1809-1892), English poet
+但是 | TRADUÇÃO: but; however
+但书 | TRADUÇÃO: proviso/qualifying clause
+但说无妨 | TRADUÇÃO: there is no harm in saying what one thinks (idiom)
+但愿 | TRADUÇÃO: if only (sth were possible)/I wish (that)
+但愿如此 | TRADUÇÃO: if only it were so/I hope so (idiom)
+伫 | TRADUÇÃO: to stand for a long time/to wait/to look forward to/to accumulate ‖ to stand for a long time (variant of 佇|伫)
+伫列 | TRADUÇÃO: queue (computing)
+伫立 | TRADUÇÃO: to stand for a long time
+布 | TRADUÇÃO: variant of 布/to announce/to spread ‖ cloth/to declare/to announce/to spread/to make known
+布伍 | TRADUÇÃO: to deploy troops ‖ to deploy troops
+布告 | TRADUÇÃO: posting on a bulletin board/notice/bulletin/to announce
+布告栏 | TRADUÇÃO: bulletin board
+布局 | TRADUÇÃO: arrangement/composition/layout/opening (chess jargon)
+布局投手 | TRADUÇÃO: (baseball) setup man/setup pitcher
+布建 | TRADUÇÃO: to progressively extend (service delivery, network etc) to a wider area/rollout
+布景 | TRADUÇÃO: (stage) set
+布置 | TRADUÇÃO: to arrange; to set up; to lay out/to assign (tasks, homework etc)
+布道 | TRADUÇÃO: sermon/to sermonize/to preach/to evangelize ‖ to preach (the Christian gospel)
+布雷 | TRADUÇÃO: to lay mines
+布雷舰 | TRADUÇÃO: minelayer (ship)
+佉 | TRADUÇÃO: surname Qu
+佉卢文 | TRADUÇÃO: Kharosthi (ancient language of central Asia)
+佌 | TRADUÇÃO: petty/wretched
+位 | TRADUÇÃO: position/location/place/seat/classifier for people (honorific)/classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)/(physics) potential
+位元 | TRADUÇÃO: (Tw) (computing) bit
+位元币 | TRADUÇÃO: Bitcoin
+位元组 | TRADUÇÃO: (Tw) byte (computing)
+位列 | TRADUÇÃO: to rank
+位图 | TRADUÇÃO: raster graphics
+位子 | TRADUÇÃO: place/seat
+位居 | TRADUÇÃO: to be located at
+位形 | TRADUÇÃO: configuration
+位形空间 | TRADUÇÃO: configuration space (math.)
+位于 | TRADUÇÃO: to be located at/to be situated at/to lie
+位极人臣 | TRADUÇÃO: to have reached the highest official positions
+位次 | TRADUÇÃO: place (in numbered sequence)/degree on employment scale
+位移 | TRADUÇÃO: (geometry) displacement (a vector quantity)
+位置 | TRADUÇÃO: position/place/seat/CL:個|个
+位置效应 | TRADUÇÃO: position effect
+位面 | TRADUÇÃO: plane (of existence)
+低 | TRADUÇÃO: low/beneath/to lower (one's head)/to let droop/to hang down/to incline
+低三下四 | TRADUÇÃO: servile
+低下 | TRADUÇÃO: low status/lowly/to lower (one's head)
+低丘 | TRADUÇÃO: hilly (geography)
+低估 | TRADUÇÃO: to underestimate; to underrate
+低低切切 | TRADUÇÃO: in a low voice/whispered
+低俗 | TRADUÇÃO: vulgar/poor taste
+低俗之风 | TRADUÇÃO: vulgar style (used of items to be censored)
+低俗化 | TRADUÇÃO: vulgarization
+低保 | TRADUÇÃO: subsistence allowance/welfare (abbr. for 城市居民最低生活保障)
+低保真 | TRADUÇÃO: low fidelity/lo-fi
+低价 | TRADUÇÃO: low price
+低八度 | TRADUÇÃO: an octave lower (music)
+低分 | TRADUÇÃO: low marks/low score
+低利 | TRADUÇÃO: low interest
+低利贷款 | TRADUÇÃO: low interest loan
+低剂量照射 | TRADUÇÃO: low dose irradiation
+低劣 | TRADUÇÃO: inferior quality/substandard/low-grade
+低吟 | TRADUÇÃO: to chant softly/to murmur
+低地 | TRADUÇÃO: lowland
+低地绣眼鸟 | TRADUÇÃO: (bird species of China) lowland white-eye (Zosterops meyeni)
+低地轨道 | TRADUÇÃO: see 近地軌道|近地轨道
+低垂 | TRADUÇÃO: to droop/to hang low
+低压 | TRADUÇÃO: low pressure/low voltage
+低压带 | TRADUÇÃO: low-pressure zone/depression (meteorology)

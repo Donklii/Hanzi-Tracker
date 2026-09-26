@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+跳过 | TRADUÇÃO: pular/pular (um passo, capítulo etc)
+跳远 | TRADUÇÃO: salto em distância (atletismo)
+跳闸 | TRADUÇÃO: (de um disjuntor ou interruptor) desarmar/pular uma catraca
+跳集体舞 | TRADUÇÃO: dançar em grupo/fazer dança coletiva
+跳电 | TRADUÇÃO: (de um disjuntor ou interruptor) desarmar
+跳频 | TRADUÇÃO: espectro de espalhamento por salto de frequência
+跳马 | TRADUÇÃO: salto sobre o cavalo (ginástica)
+跳高 | TRADUÇÃO: salto em altura (atletismo)
+踩 | TRADUÇÃO: variante de 踩 ‖ pisar/calcar/pisar (num pedal)/pedalar (bicicleta)/(online) votar negativo
+跺脚 | TRADUÇÃO: bater o pé
+跽 | TRADUÇÃO: ajoelhar-se
+踅 | TRADUÇÃO: andar com uma perna ‖ andar por aí/voltar no meio do caminho
+踅子 | TRADUÇÃO: variante de 茓子
+踅摸 | TRADUÇÃO: procurar/buscar (coloq.)
+踆 | TRADUÇÃO: agachar-se
+踈 | TRADUÇÃO: variante de 疏
+踉 | TRADUÇÃO: usado em 跳踉 ‖ usado em 踉蹌|踉跄
+踉跄 | TRADUÇÃO: cambalear; andar vacilantemente
+踉𬧀 | TRADUÇÃO: variante de 踉蹌|踉跄
+踊 | TRADUÇÃO: saltar ‖ saltar
+踋 | TRADUÇÃO: variante antiga de 腳|脚
+踏 | TRADUÇÃO: veja 踏實|踏实 ‖ pisar/calcar/pisar (num pedal)/pedalar (bicicleta)/investigar no local
+踏上 | TRADUÇÃO: pisar em/entrar em
+踏勘 | TRADUÇÃO: ir inspecionar (um local)/fazer uma vistoria no local
+踏垫 | TRADUÇÃO: tapete de chão; tapete de banheiro; tapete de carro; capacho
+踏实 | TRADUÇÃO: bem-fundamentado/firme/constante/ter paz de espírito/livre de ansiedade/pronúncia em Taiwan: [ta4 shi2]
+踏春 | TRADUÇÃO: fazer uma caminhada na primavera
+踏月 | TRADUÇÃO: passear ao luar
+踏板 | TRADUÇÃO: pedal (num carro, num piano etc)/pedal de tear/escabelo/apoio para os pés/estribo
+踏板摩托车 | TRADUÇÃO: scooter
+踏板车 | TRADUÇÃO: scooter
+踏查 | TRADUÇÃO: investigar no local
+踏歌 | TRADUÇÃO: cantar e dançar/termo geral para dança de roda
+踏步 | TRADUÇÃO: passada/pisar (sem sair do lugar)/marcar passo/estar parado
+踏步不前 | TRADUÇÃO: estar parado/marcar passo
+踏看 | TRADUÇÃO: investigar no local
+踏破铁鞋 | TRADUÇÃO: (lit.) gastar os sapatos de ferro (expressão idiomática)/(fig.) procurar muito
+踏破铁鞋无觅处，得来全不费工夫 | TRADUÇÃO: viajar longe e à larga procurando algo, só para encontrá-lo facilmente
+踏破门槛 | TRADUÇÃO: gastar a soleira da porta (expressão idiomática)/agglomerar-se à porta de alguém
+踏空 | TRADUÇÃO: errar o passo/(de um investidor) deixar de investir antes que o preço suba
+踏袭 | TRADUÇÃO: seguir cegamente
+踏访 | TRADUÇÃO: visitar (um lugar)
+踏足 | TRADUÇÃO: pisar em (uma terra estrangeira etc); entrar/(fig.) entrar (numa nova esfera)
+踏踏实实 | TRADUÇÃO: firme/constante
+踏车 | TRADUÇÃO: roda de pisar/roda de moinho movida a pedal
+踏进 | TRADUÇÃO: pisar em/entrar em
+踏雪 | TRADUÇÃO: passear na neve
+踏雪寻梅 | TRADUÇÃO: caminhar na neve para ver as ameixeiras em flor
+踏雪板 | TRADUÇÃO: raquete de neve
+踏青 | TRADUÇÃO: lit. pisar o verde; passear na primavera (quando a grama fica verde)/temporada de caminhadas primaveris ao redor do festival Qingming 清明, 4-6 de abril
+踏青赏春 | TRADUÇÃO: desfrutar de uma bela caminhada primaveril (expressão idiomática)
+踏青赏花 | TRADUÇÃO: apreciar as flores num passeio primaveril (expressão idiomática)
+践 | TRADUÇÃO: cumprir (uma promessa)/pisar/andar
+践约 | TRADUÇÃO: cumprir uma promessa/honrar um acordo
+践行 | TRADUÇÃO: realizar; implementar; cumprir (a palavra)
+践踏 | TRADUÇÃO: pisar (com violência)
+踒 | TRADUÇÃO: escorregar e torcer um membro
+踔 | TRADUÇÃO: sair na frente/avançar/exceder/pronúncia em Taiwan: [zhuo2]
+踖 | TRADUÇÃO: pisar/andar reverentemente
+踘 | TRADUÇÃO: bola de couro/pronúncia em Taiwan: [ju2]
+踜 | TRADUÇÃO: tropeçar/escorregar/cair
+踝 | TRADUÇÃO: tornozelo
+踝骨 | TRADUÇÃO: osso do tornozelo/tornozelo
+踞 | TRADUÇÃO: basear-se em/agachar-se
+踟 | TRADUÇÃO: usado em 踟躕|踟蹰
+踟躇 | TRADUÇÃO: variante de 踟躕|踟蹰
+踟蹰 | TRADUÇÃO: hesitar; vacilar
+踟蹰不前 | TRADUÇÃO: hesitante em agir
+踠 | TRADUÇÃO: tornozelo/quartela (de cavalo)/dobrado/torto
+踡 | TRADUÇÃO: enrolar-se
+踢 | TRADUÇÃO: chutar/jogar (ex.: futebol)/(gíria) machona (num relacionamento lésbico)
+踢拳 | TRADUÇÃO: kickboxing
+踢爆 | TRADUÇÃO: revelar/expor
+踢皮球 | TRADUÇÃO: chutar uma bola/(fig.) jogar a responsabilidade de um para o outro/passar o problema adiante
+踢脚板 | TRADUÇÃO: rodapé
+踢脚线 | TRADUÇÃO: rodapé
+踢腿 | TRADUÇÃO: chutar; fazer um chute (em dança, artes marciais etc)
+踢踏舞 | TRADUÇÃO: sapateado
+踢蹋舞 | TRADUÇÃO: sapateado/dança sapateada
+踢馆 | TRADUÇÃO: desafiar uma escola de artes marciais estabelecida para uma luta (para provar habilidades ou ganhar reputação)/(fig.) provar-se competindo contra os já estabelecidos numa área específica
+踢马刺 | TRADUÇÃO: espora
+踣 | TRADUÇÃO: (literário) tropeçar; cair/(literário) cair morto
+踤 | TRADUÇÃO: dar cabeçada
+踥 | TRADUÇÃO: andar a passos curtos
+踥踥 | TRADUÇÃO: movendo-se para frente e para trás
+踥蹀 | TRADUÇÃO: andando/em movimento
+踦 | TRADUÇÃO: canela
+踧 | TRADUÇÃO: cuidadoso/nivelado/liso
+踩刹车 | TRADUÇÃO: pisar no freio/frear (ao dirigir)
+踩动 | TRADUÇÃO: operar por meio de um pedal
+踩失脚 | TRADUÇÃO: perder o equilíbrio
+踩水 | TRADUÇÃO: pisar água/remar ou andar em águas rasas
+踩空 | TRADUÇÃO: errar o passo
+踩线 | TRADUÇÃO: fazer reconhecimento para uma operadora de turismo/reconhecer um roteiro turístico potencial/(tênis) cometer uma falta de pé
+踩线团 | TRADUÇÃO: grupo em excursão para conhecer a situação local
+踩踏 | TRADUÇÃO: pisar (com violência)
+踩道 | TRADUÇÃO: fazer reconhecimento/reconhecer
+踩镲 | TRADUÇÃO: chimbal (prato de bateria)
+踩雷 | TRADUÇÃO: pisar numa mina/(fig.) inadvertidamente fazer algo que tem um resultado desagradável/(fig.) ser acidentalmente exposto a um spoiler
+踩高跷 | TRADUÇÃO: andar de pernas de pau
+踩点 | TRADUÇÃO: reconhecer o terreno/chegar na hora exata/dançar no ritmo
+踪 | TRADUÇÃO: variante de 蹤|踪 ‖ (forma presa) pegada; rastro; vestígio
+踮 | TRADUÇÃO: ficar na ponta dos pés
+踮脚尖 | TRADUÇÃO: ficar na ponta dos pés
+逾 | TRADUÇÃO: variante de 逾 ‖ exceder/ultrapassar/transcender/atravessar/saltar
+踱 | TRADUÇÃO: andar de um lado para o outro; passear
+踱方步 | TRADUÇÃO: andar de um lado para o outro; passear
+踱步 | TRADUÇÃO: andar de um lado para o outro; passear
+踊跃 | TRADUÇÃO: saltar; pular/entusiasmado/entusiasticamente
+踵 | TRADUÇÃO: chegar/seguir/calcanhar
+踶 | TRADUÇÃO: chutar/pisar
+踶跂 | TRADUÇÃO: maneirismo arrogante e convencido
+踹 | TRADUÇÃO: chutar/pisar/calcetar
+踹共 | TRADUÇÃO: (Taiwan) (neologismo) falar o que pensa diretamente (cara a cara com a pessoa com quem se tem um problema)
+踺 | TRADUÇÃO: usado em 踺子
+踺子 | TRADUÇÃO: (ginástica) rodada
+踼 | TRADUÇÃO: cair de bruços/cair com o rosto no chão
+踽 | TRADUÇÃO: corcunda/andar sozinho
+踽踽独行 | TRADUÇÃO: andar sozinho (expressão idiomática)
+蹀 | TRADUÇÃO: pisar/bater o pé
+蹀血 | TRADUÇÃO: variante de 喋血
+蹀足 | TRADUÇÃO: bater os pés (linguagem formal)
+蹀蹀 | TRADUÇÃO: andar com passos curtos e afetados (linguagem formal)
+蹀躞 | TRADUÇÃO: andar com passos curtos/andar de um lado para o outro
+蹁 | TRADUÇÃO: mancar
+蹂 | TRADUÇÃO: pisar
+蹂躏 | TRADUÇÃO: devastar/destruir/atropelar/violar
+蹄 | TRADUÇÃO: casco/patas de porco ‖ variante de 蹄
+蹄印 | TRADUÇÃO: pegada de casco
+蹄子 | TRADUÇÃO: casco/(antigo) mulher/rapariga
+蹄膀 | TRADUÇÃO: parte superior da perna do porco
+蹄髈 | TRADUÇÃO: variante de 蹄膀
+蹅 | TRADUÇÃO: (coloq.) andar com dificuldade (na lama, neve etc.)
+蹇 | TRADUÇÃO: sobrenome Jian ‖ manco/aleijado/infeliz/lento/difícil/pangaré (cavalo inferior)/jumento/cavalo manco
+蹇修 | TRADUÇÃO: (literário) casamenteiro
+蹇拙 | TRADUÇÃO: desajeitado (escrita)/desastrado/obscuro
+蹇滞 | TRADUÇÃO: desajeitado/ominoso/desfavorável
+蹇涩 | TRADUÇÃO: desajeitado/manco/dificuldade (especialmente ao mover-se)/não suave
+蹇运 | TRADUÇÃO: infortúnio; má sorte
+蹈 | TRADUÇÃO: pisar/calcetar/bater o pé/cumprir
+蹈常袭故 | TRADUÇÃO: seguir o mesmo caminho de sempre (expressão idiomática); estagnado/mesma rotina de sempre
+蹉 | TRADUÇÃO: errar/escorregar/perder/enganar-se
+蹉跎 | TRADUÇÃO: (literário) escorregar/(de aparência etc.) desvanecer/(de tempo) passar despercebido/desperdiçar (tempo, oportunidades); enrolar
+蹊 | TRADUÇÃO: usado em 蹊蹺|蹊跷 ‖ (literário) trilha
+蹊径 | TRADUÇÃO: trilha/(fig.) caminho
+蹊跷 | TRADUÇÃO: estranho; esquisito; suspeito
+蹋 | TRADUÇÃO: pisar
+跄 | TRADUÇÃO: andar rapidamente ‖ cambalear/balançar de um lado para o outro
+跄踉 | TRADUÇÃO: veja 踉蹌|踉跄
+蹎 | TRADUÇÃO: cair para a frente (variante de 顛|颠)
+蹐 | TRADUÇÃO: andar com passos curtos
+蹓 | TRADUÇÃO: passear/levar o cavalo para passear
+跸 | TRADUÇÃO: limpar as ruas quando o imperador viaja
+蹙 | TRADUÇÃO: franzir (as sobrancelhas)/enrugado (das sobrancelhas)/hesitar/aflito
+蹙眉 | TRADUÇÃO: franzir as sobrancelhas
+蹚 | TRADUÇÃO: vau/pisotear
+蹚浑水 | TRADUÇÃO: variante de 趟渾水|趟浑水
+蹜 | TRADUÇÃO: andar com cuidado
+蹝 | TRADUÇÃO: chinelos
+跖骨 | TRADUÇÃO: ossos metatarsais; metatarso
+蹡 | TRADUÇÃO: (modo de andar)
+𬧀 | TRADUÇÃO: usado em 踉蹡|踉𬧀
+蹢 | TRADUÇÃO: casco
+蹒 | TRADUÇÃO: usado em 蹣跚|蹒跚
+蹒跚 | TRADUÇÃO: andar desequilibradamente; cambalear; balançar; mancar; vacilar
+蹒跚不前 | TRADUÇÃO: vacilar/parar
+踪影 | TRADUÇÃO: vestígio/indício/presença
+踪迹 | TRADUÇÃO: rastros/trilha/pegada/vestígio/indício
+蹦 | TRADUÇÃO: pular; saltar; saltitar
+蹦儿 | TRADUÇÃO: variante com erhua de 蹦
+蹦出来 | TRADUÇÃO: surgir/aparecer/emergir abruptamente
+蹦床 | TRADUÇÃO: cama elástica
+蹦极 | TRADUÇÃO: (estrangeirismo) bungee jumping
+蹦跳 | TRADUÇÃO: pular; saltar
+蹦蹦儿车 | TRADUÇÃO: mototriciclo (onom. bang-bang car)
+蹦蹦跳跳 | TRADUÇÃO: saltitante e vivaz
+蹦跶 | TRADUÇÃO: (coloq.) pular; estar ativo; estar animado/(coloq.) (fig.) lutar (antes de sucumbir); estar vivo e ativo (especialmente no fim da vida)
+蹦迪 | TRADUÇÃO: dançar em discoteca/dançar ao som de música disco
+蹦达 | TRADUÇÃO: variante de 蹦躂|蹦跶
+蹦高 | TRADUÇÃO: pular
+蹦高儿 | TRADUÇÃO: variante com erhua de 蹦高
+蹧 | TRADUÇÃO: veja 蹧蹋
+蹧塌 | TRADUÇÃO: variante de 糟蹋
+蹧蹋 | TRADUÇÃO: variante de 糟蹋
+蹩 | TRADUÇÃO: mancar/torcer (tornozelo ou pulso)/mover-se com cuidado, como se evitasse um perigo/esgueirar-se
+蹩脚 | TRADUÇÃO: inferior/ruim/medíocre/manco
+蹪 | TRADUÇÃO: tropeçar/cair
+蹬 | TRADUÇÃO: pisar; calçar (sapatos, calças etc.)/(gíria) dar um fora (em alguém) ‖ usado em 蹭蹬
+蹬子 | TRADUÇÃO: pedal
+蹬脚 | TRADUÇÃO: bater o pé/chutar
+蹬腿 | TRADUÇÃO: chutar as pernas/leg press (exercício)/(coloq.) bater as botas
+蹬鼻子上脸 | TRADUÇÃO: lit. subir na cara de alguém/fig. aproveitar-se da fraqueza de alguém
+蹭 | TRADUÇÃO: esfregar-se contra/andar devagar/(coloq.) parasitar
+蹭吃 | TRADUÇÃO: parasitar por comida
+蹭吃蹭喝 | TRADUÇÃO: conseguir comida de graça
+蹭热度 | TRADUÇÃO: (coloq.) (geralmente pejorativo) aproveitar-se da popularidade (de alguém) para atrair atenção para si
+蹭网 | TRADUÇÃO: (coloq.) usar a internet de outra pessoa (com ou sem permissão)
+蹭课 | TRADUÇÃO: (coloq.) assistir a uma aula como ouvinte
+蹭蹬 | TRADUÇÃO: (literário) encontrar contratempos; ter má sorte
+蹭车 | TRADUÇÃO: (coloq.) pegar carona no carro de alguém para economizar/andar de trem ou ônibus sem comprar bilhete (sonegar tarifa)
+蹭饭 | TRADUÇÃO: pedir carona na comida/(coloq.) comer de favor
+蹮 | TRADUÇÃO: variante antiga de 躚|跹
+蹯 | TRADUÇÃO: patas de animal
+蹲 | TRADUÇÃO: (dialeto) torcer o pé ou a perna devido a impacto ou aterrissagem repentinos ‖ agachar-se/fincar-se/ficar (em algum lugar)
+蹲下 | TRADUÇÃO: agachar-se/abaixar-se
+蹲伏 | TRADUÇÃO: agachar-se curvando-se para a frente (esp. escondido ou à espera)
+蹲便器 | TRADUÇÃO: vaso sanitário turco
+蹲坑 | TRADUÇÃO: vaso sanitário turco/fazer cocô
+蹲大牢 | TRADUÇÃO: estar na cadeia
+蹲守 | TRADUÇÃO: ficar de vigia esperando algo
+蹲厕 | TRADUÇÃO: vaso sanitário turco
+蹲牢 | TRADUÇÃO: veja 蹲大牢
+蹲膘 | TRADUÇÃO: engordar gado no curral/engordar
+蹲苦窑 | TRADUÇÃO: (gíria) estar na cadeia
+蹲踞 | TRADUÇÃO: agachamento/posição agachada
+蹲马步 | TRADUÇÃO: fazer o cavalinho (posição de luta marcial)
+蹲点 | TRADUÇÃO: (de um quadro etc.) trabalhar por um período com uma unidade de base para obter experiência em primeira mão/(dialeto) defecar
+蹴 | TRADUÇÃO: cuidadosamente/chutar/pisar/pisar com força ‖ variante de 蹴
+蹴踘 | TRADUÇÃO: variante de 蹴鞠
+蹴鞠 | TRADUÇÃO: cuju, antigo futebol chinês
+蹶 | TRADUÇÃO: tropeçar/pisotear/chutar (de cavalo) ‖ veja 尥蹶子
+跷 | TRADUÇÃO: levantar o pé/ficar na ponta dos pés/perna de pau ‖ variante de 蹺|跷/levantar o pé/perna de pau
+跷家 | TRADUÇÃO: fugir de casa
+跷班 | TRADUÇÃO: veja 翹班|翘班
+跷课 | TRADUÇÃO: matar aula
+跷跷板 | TRADUÇÃO: gangorra
+蹼 | TRADUÇÃO: membrana interdigital (de patos, sapos etc.)
+蹽 | TRADUÇÃO: correr/escorregar fugindo/dar passos largos
+蹾 | TRADUÇÃO: (coloq.) colocar algo com força/atirar com força
+躁 | TRADUÇÃO: impaciente; de pavio curto
+躁动 | TRADUÇÃO: agitar-se inquietamente/estar agitado/agitação/agitação
+躁热 | TRADUÇÃO: desconfortavelmente quente; febril e inquieto
+躁狂 | TRADUÇÃO: maníaco
+躁狂抑郁症 | TRADUÇÃO: depressão maníaca
+躁狂症 | TRADUÇÃO: mania/episódio maníaco
+躁郁症 | TRADUÇÃO: transtorno bipolar
+跶 | TRADUÇÃO: tropeçar/escorregar/variante de 達|达
+躃 | TRADUÇÃO: variante de 躄
+躄 | TRADUÇÃO: com ambos os pés aleijados/manco
+躅 | TRADUÇÃO: usado em 躑躅|踯躅
+躇 | TRADUÇÃO: usado em 躊躇|踌躇
+趸 | TRADUÇÃO: atacado
+趸售 | TRADUÇÃO: vender por atacado
+趸批 | TRADUÇÃO: por atacado
+趸柱 | TRADUÇÃO: pilar principal de sustentação
+趸船 | TRADUÇÃO: barcaça/pontão/plataforma de desembarque
+趸卖 | TRADUÇÃO: vender por atacado
+踌 | TRADUÇÃO: usado em 躊躇|踌躇
+踌躇 | TRADUÇÃO: hesitar/(literário) andar de um lado para o outro/(literário) satisfeito consigo mesmo
+踌躇不前 | TRADUÇÃO: hesitar em avançar/hesitar/conter-se
+踌躇不决 | TRADUÇÃO: hesitar/indeciso
+踌躇满志 | TRADUÇÃO: imensamente orgulhoso do próprio sucesso (expressão idiomática); convencido/complacente
+踌蹰 | TRADUÇÃO: variante de 躊躇|踌躇
+跻 | TRADUÇÃO: (literário) ascender; escalar; subir
+跻身 | TRADUÇÃO: ascender às fileiras de; estar entre (os melhores)/entrar (numa indústria, comércio etc.)
+跃 | TRADUÇÃO: pular/saltar
+跃升 | TRADUÇÃO: saltar para (uma posição mais alta etc.)/pular/(de avião) subir
+跃居 | TRADUÇÃO: saltar para
+跃层 | TRADUÇÃO: duplex (apartamento)
+跃然 | TRADUÇÃO: mostrar-se/aparecer como uma imagem vívida/destacar-se nitidamente
+跃然纸上 | TRADUÇÃO: aparecer vividamente no papel (expressão idiomática); aparecer vividamente (em escrita, pintura etc.)/destacar-se nitidamente
+跃跃欲试 | TRADUÇÃO: estar ansioso para tentar algo (expressão idiomática)
+跃进 | TRADUÇÃO: saltar para frente/fazer progressos rápidos/um salto para frente
+跃迁 | TRADUÇÃO: transição/salto (ex.: salto quântico em espectroscopia)
+跃马 | TRADUÇÃO: galopar/esporar o cavalo/deixar o cavalo solto
+跃龙 | TRADUÇÃO: alossauro
+躐 | TRADUÇÃO: atravessar
+踯 | TRADUÇÃO: usado em 躑躅|踯躅
+踯躅 | TRADUÇÃO: (literário) andar de um lado para o outro
+跞 | TRADUÇÃO: mover/andar
+踬 | TRADUÇÃO: tropeçar
+躔 | TRADUÇÃO: (literário) pegadas de animais/o curso de um corpo celeste/(de um corpo celeste) seguir seu curso
+蹰 | TRADUÇÃO: usado em 踟躕|踟蹰
+躗 | TRADUÇÃO: exagerar/fabricar/falsidade
+𨀁 | TRADUÇÃO: andar
+躙 | TRADUÇÃO: variante de 躪|躏, pisar/oprimir/invadir
+跹 | TRADUÇÃO: maneira de dançar/andar por aí
+躛 | TRADUÇÃO: variante de 躗
+𨅬 | TRADUÇÃO: passar/atravessar/rastejar/enrolar
+躞 | TRADUÇÃO: andar
+躞蹀 | TRADUÇÃO: andar com passos pequenos e contidos
+躠 | TRADUÇÃO: mancar
+蹑 | TRADUÇÃO: andar na ponta dos pés/andar silenciosamente/pisar (em)/seguir
+蹑履 | TRADUÇÃO: usar sapatos
+蹑悄悄 | TRADUÇÃO: suavemente/silenciosamente
+蹑手蹑脚 | TRADUÇÃO: andar silenciosamente na ponta dos pés (expressão idiomática)
+蹑机 | TRADUÇÃO: tear de seda com pedal
+蹑登 | TRADUÇÃO: subir
+蹑脚 | TRADUÇÃO: andar com cautela para não fazer barulho
+蹑脚根 | TRADUÇÃO: variante de 躡腳跟|蹑脚跟
+蹑脚跟 | TRADUÇÃO: andar com cautela para não fazer barulho
+蹑着脚 | TRADUÇÃO: andar na ponta dos pés
+蹑足 | TRADUÇÃO: andar na ponta dos pés/pisar no pé de alguém/entrar (num comércio, profissão etc.)/associar-se a (certo grupo de pessoas)
+蹑跟 | TRADUÇÃO: muito grande ou pequeno para os pés (de sapatos)
+蹑迹 | TRADUÇÃO: seguir os rastros de alguém/vigiar
+蹑蹀 | TRADUÇÃO: andar com passos curtos e contidos
+蹑踪 | TRADUÇÃO: seguir alguém por trás (escrita formal)
+躣 | TRADUÇÃO: (maneira de andar)
+蹿 | TRADUÇÃO: pular para cima/(coloq.) jorrar; esguichar
+蹿升 | TRADUÇÃO: subir rapidamente/disparar
+蹿房越脊 | TRADUÇÃO: fig. pular sobre os telhados (de ladrões e cavaleiros andantes na ficção)
+蹿稀 | TRADUÇÃO: ter diarreia (coloq.)
+蹿红 | TRADUÇÃO: tornar-se subitamente popular
+蹿货 | TRADUÇÃO: produto de alta demanda/mercadoria quente
+蹿跳 | TRADUÇÃO: avançar aos saltos / saltar adiante
+蹿蹦 | TRADUÇÃO: pular / saltar
+蹿腾 | TRADUÇÃO: pular de forma desordenada (coloq.)
+躜 | TRADUÇÃO: saltar
+躧 | TRADUÇÃO: sapato / pisar
+躩 | TRADUÇÃO: curvar-se / saltar
+躏 | TRADUÇÃO: usado em 蹂躪|蹂躏
+身 | TRADUÇÃO: corpo / vida / si mesmo / pessoalmente / a conduta moral de alguém / a parte principal de uma estrutura ou corpo / grávida / classificador para conjuntos de roupas: terno, conjunto de duas peças / radical Kangxi 158
+身上 | TRADUÇÃO: no corpo / à mão / entre
+身不由主 | TRADUÇÃO: veja 身不由己
+身不由己 | TRADUÇÃO: (expressão idiomática) (das circunstâncias de alguém) além do seu controle; incapaz de fazer algo a respeito; (das ações de alguém) não sujeito ao controle consciente (isto é, feito apesar de si mesmo)
+身世 | TRADUÇÃO: a experiência de vida de alguém; o destino de alguém; a história passada de alguém
+身亡 | TRADUÇÃO: morrer
+身份 | TRADUÇÃO: identidade; aspecto da identidade de alguém (por exemplo, prefeito, pai, residente permanente); papel; capacidade (como em “na sua qualidade de...” 以 + ... + 的身份); status (social, jurídico etc.); posição; hierarquia
+身份卡 | TRADUÇÃO: cartão de identidade / carteira de identidade
+身份盗窃 | TRADUÇÃO: roubo de identidade
+身份证 | TRADUÇÃO: carteira de identidade / identidade
+身份证明 | TRADUÇÃO: carteira de identidade / comprovante de identidade
+身份证号码 | TRADUÇÃO: número do RG
+身份识别卡 | TRADUÇÃO: cartão de identificação / carteira de identidade
+身价 | TRADUÇÃO: status social / preço de um escravo / preço de uma pessoa (de um esportista etc.) / valor / cotação (de ações, bens valiosos etc.)
+身先士卒 | TRADUÇÃO: lutar à frente das próprias tropas / (fig.) tomar a dianteira
+身先朝露 | TRADUÇÃO: (expressão idiomática) fig. natureza efêmera e precária da existência humana
+身兼 | TRADUÇÃO: ocupar dois cargos simultaneamente
+身分 | TRADUÇÃO: variante de 身份
+身分证 | TRADUÇÃO: variante de 身份證|身份证
+身分证号码 | TRADUÇÃO: variante de 身份證號碼|身份证号码 / número do RG
+身在曹营心在汉 | TRADUÇÃO: (expressão idiomática) estar em algum lugar enquanto anseia por estar em outro lugar
+身在福中不知福 | TRADUÇÃO: (expressão idiomática) viver na abundância sem apreciá-la; não saber quando se está bem
+身型 | TRADUÇÃO: formato do corpo
+身外之物 | TRADUÇÃO: meras posses mundanas
+身姿 | TRADUÇÃO: o jeito como alguém se porta
+身子 | TRADUÇÃO: corpo / gravidez / saúde
+身子骨 | TRADUÇÃO: postura / postura ereta
+身孕 | TRADUÇÃO: gravidez / grávida
+身家 | TRADUÇÃO: si mesmo e sua família / origem familiar / pedigree / propriedade de alguém / ativos totais de alguém
+身家调查 | TRADUÇÃO: fazer uma verificação de antecedentes de alguém
+身强力壮 | TRADUÇÃO: forte e vigoroso / robusto / resistente
+身形 | TRADUÇÃO: silhueta (especialmente de uma mulher)
+身影 | TRADUÇÃO: silhueta / figura
+身后 | TRADUÇÃO: o tempo após a morte de alguém / um lugar atrás de alguém / (fig.) o contexto social de alguém
+身后事 | TRADUÇÃO: questões a serem tratadas após a morte de alguém (especialmente arranjos funerários)
+身心 | TRADUÇÃO: corpo e mente / mental e físico
+身心交病 | TRADUÇÃO: (expressão idiomática) exausto de corpo e alma
+身心交瘁 | TRADUÇÃO: (expressão idiomática) exausto de corpo e alma
+身心俱疲 | TRADUÇÃO: exausto física e emocionalmente
+身心爽快 | TRADUÇÃO: revigoramento
+身心科 | TRADUÇÃO: psiquiatria
+身心障碍 | TRADUÇÃO: deficiência
+身态 | TRADUÇÃO: pose / figura / atitude
+身怀六甲 | TRADUÇÃO: (expressão idiomática) estar grávida
+身手 | TRADUÇÃO: habilidade / talento / agilidade
+身手敏捷 | TRADUÇÃO: ágil; lesto; destro
+身才 | TRADUÇÃO: estatura / porte (altura e peso) / figura
+身披羽毛 | TRADUÇÃO: emplumado
+身故 | TRADUÇÃO: falecer
+身败名裂 | TRADUÇÃO: perder o status / ter a reputação destruída / uma derrota completa e queda em desgraça
+身教 | TRADUÇÃO: ensinar pelo exemplo
+身教胜于言教 | TRADUÇÃO: (expressão idiomática) ações falam mais alto que palavras
+身材 | TRADUÇÃO: estatura / porte (altura e peso) / figura
+身板 | TRADUÇÃO: corpo / físico / condição física
+身板儿 | TRADUÇÃO: variante erhua de 身板
+身正不怕影子斜 | TRADUÇÃO: (provérbio) (fig.) desde que alguém se comporte com honra, não precisa se preocupar com o que as pessoas pensam; mãos limpas não precisam de lavagem
+身历声 | TRADUÇÃO: (Taiwan) som estereofônico
+身段 | TRADUÇÃO: o físico de uma mulher / figura / postura no palco
+身法 | TRADUÇÃO: pose ou movimento do corpo em artes marciais
+身为 | TRADUÇÃO: na qualidade de / como
+身无分文 | TRADUÇÃO: (expressão idiomática) sem um centavo; completamente duro
+身无长技 | TRADUÇÃO: não possuir talentos especiais
+身无长物 | TRADUÇÃO: (expressão idiomática) não possuir nada além do essencial; viver uma vida frugal
+身穿 | TRADUÇÃO: usar (uma peça de roupa)
+身经百战 | TRADUÇÃO: lit. veterano de cem batalhas (expressão idiomática) / fig. experiente / tarimbado
+身临其境 | TRADUÇÃO: (expressão idiomática) experimentar por si mesmo; estar *de fato* lá (em oposição a ler sobre isso etc.)
+身着 | TRADUÇÃO: usar (roupa)
+身处 | TRADUÇÃO: em (algum lugar) / estar em (adversidade, situação difícil, perigo, turbulência etc.) / encontrar-se em / colocado em / cercado por
+身负重伤 | TRADUÇÃO: gravemente ferido
+身躯 | TRADUÇÃO: corpo
+身轻如燕 | TRADUÇÃO: tão leve quanto uma andorinha (de atleta ou bela moça)
+身边 | TRADUÇÃO: ao lado de alguém / à mão
+身量 | TRADUÇÃO: altura (de uma pessoa); estatura / (fig.) reputação; posição
+身长 | TRADUÇÃO: altura (de pessoa) / comprimento da roupa dos ombros até a barra (medida de alfaiate ou costureira)
+身陷 | TRADUÇÃO: estar preso / estar aprisionado
+身陷囹圄 | TRADUÇÃO: jogado na prisão / atrás das grades
+身陷牢狱 | TRADUÇÃO: ir para a prisão / ser aprisionado
+身陷牢笼 | TRADUÇÃO: cair numa armadilha
+身首异处 | TRADUÇÃO: (expressão idiomática) ser decapitado
+身体 | TRADUÇÃO: o corpo / a saúde de alguém
+身体力行 | TRADUÇÃO: (expressão idiomática) praticar o que se prega
+身体是革命的本钱 | TRADUÇÃO: fig. boa saúde é um pré-requisito para o trabalho (ditado de Mao Tsé-Tung)
+身体检查 | TRADUÇÃO: veja 體格檢查|体格检查
+身体质量指数 | TRADUÇÃO: índice de massa corporal (IMC)
+身高 | TRADUÇÃO: altura (de uma pessoa)
+身高马大 | TRADUÇÃO: alto / enorme
+躬 | TRADUÇÃO: (literário) corpo (de um humano, especialmente o tronco) / (forma presa) curvar-se / (literário) si mesmo; pessoalmente ‖ variante antiga de 躬
+躬履 | TRADUÇÃO: executar uma tarefa pessoalmente / assumir a responsabilidade
+躬行 | TRADUÇÃO: empreender ou administrar pessoalmente
+躬亲 | TRADUÇÃO: ocupar-se pessoalmente/pessoalmente
+躬诣 | TRADUÇÃO: visitar pessoalmente a casa de alguém
+躬身 | TRADUÇÃO: curvar-se/pessoalmente
+躰 | TRADUÇÃO: variante de 體|体
+躱 | TRADUÇÃO: variante de 躲
+躲 | TRADUÇÃO: esconder-se/esquivar-evitar
+躲债 | TRADUÇÃO: evitar um credor
+躲年 | TRADUÇÃO: evitar voltar para casa no Ano Novo Chinês
+躲得过初一，躲不过十五 | TRADUÇÃO: literalmente, você pode passar despercebido na lua nova, mas na lua cheia será descoberto (expressão idiomática) /figuradamente, não dá para adiar para sempre /mais cedo ou mais tarde terá que lidar com isso
+躲懒 | TRADUÇÃO: fugir do trabalho/escapar das obrigações
+躲清闲 | TRADUÇÃO: evitar perturbações externas para descansar
+躲穷 | TRADUÇÃO: refugiar-se com um parente rico
+躲藏 | TRADUÇÃO: esconder-se/ocultar-se/abrigar-se
+躲让 | TRADUÇÃO: desviar-se (para dar passagem a um veículo)/sair do caminho/dar passagem
+躲猫猫 | TRADUÇÃO: esconde-esconde (jogo)/cadê-achou (jogo)
+躲躲藏藏 | TRADUÇÃO: estar escondido
+躲躲闪闪 | TRADUÇÃO: esquivar-se/desviar-se
+躲过初一，躲不过十五 | TRADUÇÃO: veja 躲得過初一，躲不過十五|躲得过初一，躲不过十五
+躲避 | TRADUÇÃO: esconder-se/esquivar-evitar/abrigar-se/fugir (de dificuldades)
+躲避球 | TRADUÇÃO: queimada (jogo)
+躲闪 | TRADUÇÃO: esquivar-se/desviar-se
+躲开 | TRADUÇÃO: manter-se longe de (problemas, encrencas, situações embaraçosas etc)/evitar (alguém)
+躲难 | TRADUÇÃO: refugiar-se/buscar refúgio de um desastre
+躲雨 | TRADUÇÃO: abrigar-se da chuva
+躲风 | TRADUÇÃO: literalmente, evitar o vento/figuradamente, ficar na baixa para evitar uma situação difícil/manter-se longe de encrencas
+躹 | TRADUÇÃO: variante de 鞠
+躺 | TRADUÇÃO: reclinar-se/deitar-se
+躺下 | TRADUÇÃO: deitar-se
+躺倒 | TRADUÇÃO: deitar-se
+躺尸 | TRADUÇÃO: (depreciativo) ficar imóvel (dormindo, bêbado, à toa etc)
+躺平 | TRADUÇÃO: deitar-se esticado/(neologismo, atestado a partir de 2021) optar por não participar da corrida dos ratos
+躺椅 | TRADUÇÃO: espreguiçadeira/reclinatorio/sofá/cadeira de lona
+躺枪 | TRADUÇÃO: (neologismo, atestado a partir de 2014) (coloq.) ser criticado, culpado ou implicado em algo sem merecer; ser alvo injusto; levar uma bala perdida
+躺着也中枪 | TRADUÇÃO: (gíria da internet) (literalmente) levar um tiro mesmo deitado; (figuradamente) ser alvo injusto
+躺赢 | TRADUÇÃO: vencer sem precisar fazer esforço/vitória de bandeja
+躯 | TRADUÇÃO: corpo humano
+躯干 | TRADUÇÃO: tronco
+躯壳 | TRADUÇÃO: o corpo (em oposição à alma)
+躯体 | TRADUÇÃO: corpo (humano)
+軃 | TRADUÇÃO: variante de 嚲|亸
+軃神 | TRADUÇÃO: jovem frívolo (dialetal)
+軆 | TRADUÇÃO: variante antiga de 體|体
+车 | TRADUÇÃO: sobrenome Che ‖ carro/veículo/CL:輛|辆/máquina/tornear/radical Kangxi 159 ‖ carro de guerra (arcaico)/torre (no xadrez chinês)/torre (no xadrez)
+车主 | TRADUÇÃO: proprietário de veículo
+车份 | TRADUÇÃO: taxa de aluguel de veículo paga por motoristas de táxi e riquixá
+车份儿 | TRADUÇÃO: variante com erhua de 車份|车份
+车位 | TRADUÇÃO: vaga de estacionamento/ponto de descarga/lugar de garagem/ponto de táxi
+车到山前必有路 | TRADUÇÃO: literalmente, quando chegarmos à montanha, haverá um caminho (expressão idiomática)/figuradamente, tudo vai dar certo; vamos nos preocupar quando acontecer; vai dar tudo certo na hora
+车到山前必有路，船到桥头自然直 | TRADUÇÃO: (expressão idiomática) tudo vai dar certo; vamos nos preocupar quando acontecer; vai dar tudo certo na hora
+车到山前自有路 | TRADUÇÃO: veja 車到山前必有路|车到山前必有路
+车前 | TRADUÇÃO: tanchagem-chinesa (Plantago asiatica), erva perene usada na MTC
+车前草 | TRADUÇÃO: veja 車前|车前
+车厘子 | TRADUÇÃO: (empréstimo) cereja-doce
+车型 | TRADUÇÃO: modelo de veículo
+车城 | TRADUÇÃO: Checheng, município no condado de Pingtung, Taiwan
+车城乡 | TRADUÇÃO: município de Checheng, no condado de Pingtung, Taiwan
+车夫 | TRADUÇÃO: condutor de carroça/cocheiro
+车奴 | TRADUÇÃO: escravo do carro, alguém forçado a sacrificar a qualidade de vida para comprar ou manter um carro
+车子 | TRADUÇÃO: carro ou outro veículo (bicicleta, caminhão etc)
+车展 | TRADUÇÃO: salão do automóvel; mostra de automóveis
+车工 | TRADUÇÃO: trabalho em torno/torneiro mecânico
+车带 | TRADUÇÃO: pneu (de veículo)
+车床 | TRADUÇÃO: torno
+车库 | TRADUÇÃO: garagem
+车厢 | TRADUÇÃO: vagão/CL:節|节
+车厂 | TRADUÇÃO: depósito (de ônibus, trem etc)/fábrica de carros ou oficina
+车后箱 | TRADUÇÃO: porta-malas de carro, bagageira
+车房 | TRADUÇÃO: garagem/cocheira/(antigo) quarto de riquixá
+车手 | TRADUÇÃO: piloto (em corrida de carros); condutor (em corrida de moto ou bicicleta)/(Taiwan) operário de baixo escalão em um esquema de golpe
+车技 | TRADUÇÃO: habilidade de dirigir
+车把 | TRADUÇÃO: guidão (de bicicleta); vara (de riquixá)
+车把式 | TRADUÇÃO: condutor de carroça especialista/cocheiro
+车斗 | TRADUÇÃO: container aberto (montado em caminhão ou carroça) para transportar cargas/caçamba (de caminhão basculante)/concha (de carregadeira)/carrinho de mão
+车架 | TRADUÇÃO: carroça/carrinho/quadro/chassi
+车条 | TRADUÇÃO: raio (de roda)
+车模 | TRADUÇÃO: carro-modelo/modelo de salão do automóvel
+车机 | TRADUÇÃO: (automotivo) unidade central; sistema de infoentretenimento
+车检 | TRADUÇÃO: inspecionar um veículo
+车次 | TRADUÇÃO: serviço de trem ou ônibus ("serviço" como em "eles operam 12 serviços por dia entre as duas cidades")
+车水马龙 | TRADUÇÃO: fluxo interminável de cavalos e carruagens (expressão idiomática)/trânsito intenso
+车流 | TRADUÇÃO: trânsito/taxa de fluxo de tráfego
+车照 | TRADUÇÃO: licença de veículo
+车灯 | TRADUÇÃO: farol de veículo (farol, seta etc)
+车尔尼雪夫斯基 | TRADUÇÃO: Nikolai Chernyshevsky
+车牌 | TRADUÇÃO: placa de licenciamento de veículo
+车皮 | TRADUÇÃO: vagão/vagão de carga
+车票 | TRADUÇÃO: bilhete (para ônibus ou trem)
+车祸 | TRADUÇÃO: acidente de trânsito; batida de carro/CL:起
+车程 | TRADUÇÃO: tempo de viagem/tempo estimado para uma viagem de carro
+车窗 | TRADUÇÃO: janela de carro; janela de veículo (ônibus, trem etc)
+车站 | TRADUÇÃO: estação ferroviária/ponto de ônibus/CL:處|处,個|个
+车筐 | TRADUÇÃO: cesto de bicicleta
+车管所 | TRADUÇÃO: departamento de administração de veículos; órgão de registro de veículos
+车箱 | TRADUÇÃO: variante de 車廂|车厢
+车篮 | TRADUÇÃO: cesto de bicicleta
+车籍 | TRADUÇÃO: informações de registro de um veículo (Taiwan)
+车胎 | TRADUÇÃO: pneu
+车臣 | TRADUÇÃO: Chechênia, república no sudoeste da Rússia/checheno
+车号 | TRADUÇÃO: número de veículo (número da placa, número do táxi, número do ônibus, número do vagão)
+车行 | TRADUÇÃO: negócio relacionado a carros/concessionária de carros/empresa de táxi/oficina (comercial) ‖ dirigir; viajar de carro
+车行通道 | TRADUÇÃO: passagem para veículo
+车行道 | TRADUÇÃO: pista de rolamento/leito de estrada
+车裂 | TRADUÇÃO: esquartejamento com cinco carroças (forma histórica de pena capital)
+车贷 | TRADUÇÃO: empréstimo para carro (abrev. de 汽車貸款|汽车贷款)
+车费 | TRADUÇÃO: tarifa de passageiro
+车贴 | TRADUÇÃO: auxílio-transporte
+车身 | TRADUÇÃO: carroceria/estrutura do veículo/quadro (de bicicleta)
+车轴 | TRADUÇÃO: eixo/CL:根
+车轴草 | TRADUÇÃO: cerefólio/Cryptotaenia japonica
+车载 | TRADUÇÃO: transportado em veículo/de bordo
+车载斗量 | TRADUÇÃO: medido a carroçadas e galões/fig. em grande quantidade/inumerável
+车辆 | TRADUÇÃO: veículo (rodoviário)
+车轮 | TRADUÇÃO: roda
+车轮子 | TRADUÇÃO: roda
+车轮战 | TRADUÇÃO: tática de revezamento (várias pessoas ou grupos enfrentando um oponente em turnos)/ataque em rodízio
+车轮饼 | TRADUÇÃO: imagawayaki (doce recheado com pasta de feijão azuki, em formato de roda)
+车辕 | TRADUÇÃO: vara de tração de veículo de tração animal
+车辙 | TRADUÇÃO: sulco de roda/rastro de veículo
+车速 | TRADUÇÃO: velocidade do veículo
+车道 | TRADUÇÃO: faixa de trânsito/rampa de acesso
+车里雅宾斯克 | TRADUÇÃO: Cheliabinsk (cidade nos montes Urais, na Rússia)
+车铃 | TRADUÇÃO: campainha de bicicleta
+车钱 | TRADUÇÃO: tarifa/custo de transporte
+车门 | TRADUÇÃO: porta de carro/porta de ônibus, vagão etc
+车间 | TRADUÇÃO: oficina/CL:個|个
+车闸 | TRADUÇÃO: freio (de carro, bicicleta etc)
+车队 | TRADUÇÃO: comitiva de carros/comboio/frota/equipe de corrida
+车险 | TRADUÇÃO: seguro automotivo
+车震 | TRADUÇÃO: sexo no carro
+车顶 | TRADUÇÃO: teto do carro
+车顶架 | TRADUÇÃO: bagageiro de teto
+车头灯 | TRADUÇÃO: farol dianteiro (de veículo)
+车头相 | TRADUÇÃO: foto afixada na frente de um carro funerário
+车马 | TRADUÇÃO: carruagens e cavalos
+车驾 | TRADUÇÃO: carruagem imperial/o imperador (metonímia)
+车龙 | TRADUÇÃO: engarrafamento/trem
+轧 | TRADUÇÃO: Ya (sobrenome) ‖ esmagar/amassar/fazer amizades/verificar contas ‖ atropelar ‖ laminar (aço)
+轧场 | TRADUÇÃO: passar o rolo compresso/debulhar grãos com rolo
+轧染 | TRADUÇÃO: tingimento por impregnação
+轧染机 | TRADUÇÃO: rolo de pressão para tingimento
+轧棉 | TRADUÇÃO: descaroçar algodão
+轧机 | TRADUÇÃO: laminador de aço
+轧空 | TRADUÇÃO: apertar vendidos a descoberto (finanças)
+轧花机 | TRADUÇÃO: descaroçador de algodão
+轧制 | TRADUÇÃO: laminação de aço
+轧轧 | TRADUÇÃO: (onom.) rangido de maquinário
+轧辊 | TRADUÇÃO: cilindro laminador/rolo/CL:根
+轧道机 | TRADUÇÃO: rolo compressor
+轧道车 | TRADUÇÃO: vagoneta de inspeção de trilhos
+轧钢 | TRADUÇÃO: laminar aço (em chapas ou barras)
+轧钢厂 | TRADUÇÃO: laminadora de aço/fábrica de laminação
+轧钢条 | TRADUÇÃO: trilhos de aço
+轧钢机 | TRADUÇÃO: laminador de aço
+轧马路 | TRADUÇÃO: passear pelas ruas (especialmente de casal jovem)
+轨 | TRADUÇÃO: trilho/trilha/curso/caminho
+轨域 | TRADUÇÃO: (Taiwan) (mecânica quântica) orbital
+轨枕 | TRADUÇÃO: dormente/travessa (de ferrovia)
+轨范 | TRADUÇÃO: padrão/critério
+轨距 | TRADUÇÃO: bitola (de ferrovia)
+轨迹 | TRADUÇÃO: lugar geométrico/órbita/trajetória/trilha
+轨迹球 | TRADUÇÃO: trackball (computação)
+轨道 | TRADUÇÃO: trilho (para trens)/órbita (de satélite)/(fig.) caminho estabelecido na vida/trajetória desejada (de negócios etc)/faixa (de áudio)/orbital (mecânica quântica)
+轨道交通 | TRADUÇÃO: metrô/transporte rápido/ferrovia subterrânea
+轨道空间站 | TRADUÇÃO: estação espacial orbital
+轨道舱 | TRADUÇÃO: módulo orbital
+军 | TRADUÇÃO: exército/militar (em compostos)
+军事 | TRADUÇÃO: assuntos militares/militar (atributivo)
+军事力量 | TRADUÇÃO: força militar/forças armadas
+军事化 | TRADUÇÃO: militarização
+军事基地 | TRADUÇÃO: base militar
+军事威胁 | TRADUÇÃO: ameaça militar
+军事学 | TRADUÇÃO: ciência militar
+军事家 | TRADUÇÃO: especialista militar/general
+军事实力 | TRADUÇÃO: poder militar/força militar
+军事工业 | TRADUÇÃO: indústria de defesa
+军事情报 | TRADUÇÃO: inteligência militar
+军事援助 | TRADUÇÃO: ajuda militar
+军事政变 | TRADUÇÃO: golpe militar
+军事机构 | TRADUÇÃO: instituição militar
+军事法庭 | TRADUÇÃO: corte marcial/tribunal militar
+军事演习 | TRADUÇÃO: exercício militar/manobra de guerra
+军事科学 | TRADUÇÃO: ciência militar
+军事行动 | TRADUÇÃO: operação militar
+军事训练 | TRADUÇÃO: exercício militar/treinamento militar
+军事设施 | TRADUÇÃO: instalações militares
+军事部门 | TRADUÇÃO: ramo militar
+军事体育 | TRADUÇÃO: esportes militares/aptidão física militar (currículo etc)/abrev. de 軍體|军体
+军人 | TRADUÇÃO: militar/soldado/pessoal militar
+军令如山 | TRADUÇÃO: ordens militares são como montanhas (expressão idiomática)/ordem militar deve ser obedecida
+军令状 | TRADUÇÃO: compromisso militar formal
+军备 | TRADUÇÃO: armamentos/armas (militares)
+军备竞赛 | TRADUÇÃO: corrida armamentista
+军公教 | TRADUÇÃO: exército, serviço público e educação/todos os ramos do emprego estatal
+军刀 | TRADUÇÃO: faca militar/sabre
+军分区 | TRADUÇÃO: subdistritos militares
+军力 | TRADUÇÃO: poder militar
+军功 | TRADUÇÃO: serviço meritório (militar)
+军功章 | TRADUÇÃO: medalha militar
+军务 | TRADUÇÃO: assuntos militares
+军势 | TRADUÇÃO: força do exército/poderio militar
+军区 | TRADUÇÃO: área geográfica de comando/distrito militar (do Exército Popular de Libertação)
+军品 | TRADUÇÃO: produto para uso militar
+军售 | TRADUÇÃO: venda de armas
+军国主义 | TRADUÇÃO: militarismo
+军团 | TRADUÇÃO: corpo/exército/legião
+军团杆菌 | TRADUÇÃO: bactéria legionela
+军团菌 | TRADUÇÃO: legionela (bactéria causadora da doença dos legionários)
+军团菌病 | TRADUÇÃO: doença dos legionários
+军士 | TRADUÇÃO: militar/sargento
+军妓 | TRADUÇÃO: prostituta militar
+军委 | TRADUÇÃO: Comissão Militar do Comitê Central do Partido Comunista Chinês
+军委会 | TRADUÇÃO: Comissão Militar do Comitê Central do Partido Comunista Chinês/variante de 軍委|军委
+军嫂 | TRADUÇÃO: esposa de militar
+军官 | TRADUÇÃO: oficial (militar)
+军属 | TRADUÇÃO: familiar de militar/dependente de militar/funcionário civil ligado às forças armadas (histórico)
+军工 | TRADUÇÃO: indústria de defesa (abreviação de 軍事工業|军事工业)
+军工复合体 | TRADUÇÃO: complexo militar-industrial
+军师 | TRADUÇÃO: conselheiro militar (antigo)/conselheiro de confiança (coloq.)
+军心 | TRADUÇÃO: moral das tropas (militar)/moral da equipe (fig.)
+军情 | TRADUÇÃO: situação militar/inteligência militar
+军情五处 | TRADUÇÃO: MI5 (serviço britânico de contra-inteligência militar)
+军情六处 | TRADUÇÃO: MI6 (agência britânica de inteligência militar)
+军政 | TRADUÇÃO: exército e governo
+军政府 | TRADUÇÃO: governo militar
+军方 | TRADUÇÃO: militares
+军旅 | TRADUÇÃO: exército
+军曹鱼 | TRADUÇÃO: bijupirá (Rachycentron canadum)
+军校 | TRADUÇÃO: escola militar/academia militar
+军棋 | TRADUÇÃO: xadrez de batalha terrestre, jogo de tabuleiro chinês semelhante ao Stratego
+军乐 | TRADUÇÃO: música militar
+军乐团 | TRADUÇÃO: banda militar
+军乐队 | TRADUÇÃO: banda militar
+军机 | TRADUÇÃO: aeronave militar/plano secreto/Conselho Privado durante a dinastia Qing
+军机处 | TRADUÇÃO: Gabinete de Assuntos Militares e Políticos (dinastia Qing)
+军歌 | TRADUÇÃO: canção militar
+军民 | TRADUÇÃO: exército-civil/militares-massas/militar-civil
+军法 | TRADUÇÃO: lei marcial
+军港 | TRADUÇÃO: porto naval/base naval
+军演 | TRADUÇÃO: exercícios militares
+军火 | TRADUÇÃO: armas e munições/municiamento/armamento
+军火交易 | TRADUÇÃO: negócio de armas
+军火公司 | TRADUÇÃO: empresa de armamento
+军火库 | TRADUÇÃO: arsenal
+军营 | TRADUÇÃO: quartel/acampamento militar
+军犬 | TRADUÇÃO: cão militar
+军用 | TRADUÇÃO: (para) uso militar/aplicação militar
+军粮 | TRADUÇÃO: provisões do exército
+军绿 | TRADUÇÃO: verde-oliva
+军舰 | TRADUÇÃO: navio de guerra/embarcação militar naval/CL:艘
+军号 | TRADUÇÃO: clarim
+军装 | TRADUÇÃO: uniforme militar
+军训 | TRADUÇÃO: fazer treinamento militar
+军警 | TRADUÇÃO: os militares e a polícia/alerta militar (anunciando a aproximação do inimigo)
+军费 | TRADUÇÃO: gastos militares
+军费开支 | TRADUÇÃO: gastos militares
+军车 | TRADUÇÃO: veículo militar
+军迷 | TRADUÇÃO: entusiasta militar
+军医 | TRADUÇÃO: médico militar
+军医院 | TRADUÇÃO: hospital militar
+军衔 | TRADUÇÃO: patente militar
+军阀 | TRADUÇÃO: camarilha militar/junta militar/chefe militar
+军阀混战 | TRADUÇÃO: lutas incessantes entre chefes militares
+军阵 | TRADUÇÃO: formação de batalha
+军队 | TRADUÇÃO: forças armadas/tropas/CL:支
+军需 | TRADUÇÃO: suprimentos militares
+军需官 | TRADUÇÃO: intendente
+军饷 | TRADUÇÃO: soldo e provisões de um soldado
+军马 | TRADUÇÃO: cavalo de guerra/cavalaria/tropas
+军体 | TRADUÇÃO: esportes militares/aptidão física militar (currículo etc.)/abreviação de 軍事體育|军事体育
+军龄 | TRADUÇÃO: tempo de serviço militar
+𫐄 | TRADUÇÃO: barra transversal para atrelar cavalos
+轩 | TRADUÇÃO: sobrenome Xuan ‖ pavilhão com vista/alto/elevado/carroça alta com cortina frontal (antigo)
+轩冕 | TRADUÇÃO: (literário) carruagem com cortina e chapéu cerimonial (símbolos de um alto oficial); (fig.) dignitários/(literário) ocupar um cargo oficial
+轩尼诗 | TRADUÇÃO: Hennessy (conhaque)
+轩掖 | TRADUÇÃO: lugar proibido
+轩昂 | TRADUÇÃO: alto/elevado/digno
+轩槛 | TRADUÇÃO: balaustrada de uma varanda
+轩然大波 | TRADUÇÃO: ondas enormes/(fig.) tumulto/controvérsia/sensação
+轩轩自得 | TRADUÇÃO: estar satisfeito consigo mesmo
+轩辕 | TRADUÇÃO: Xuan Yuan, nome pessoal de Huangdi, o Imperador Amarelo 黃帝|黄帝 ‖ sobrenome composto Xuanyuan
+轩辕十四 | TRADUÇÃO: Régulo (constelação)
+轩辕氏 | TRADUÇÃO: nome alternativo para o Imperador Amarelo 黃帝|黄帝
+轫 | TRADUÇÃO: freio
+軖 | TRADUÇÃO: roda de fiar/carrinho de mão
+軘 | TRADUÇÃO: carruagem de guerra
+軚 | TRADUÇÃO: (cantonês) volante/(cantonês) pneu (carro, bicicleta)
+轭 | TRADUÇÃO: jugo
+軜 | TRADUÇÃO: rédeas internas de uma equipe de 4 cavalos
+𬨂 | TRADUÇÃO: extremidade do eixo
+软 | TRADUÇÃO: macio/flexível ‖ variante de 軟|软
+软件 | TRADUÇÃO: software
+软件企业 | TRADUÇÃO: empresa de software
+软件包 | TRADUÇÃO: pacote de software
+软件即服务 | TRADUÇÃO: software como serviço (SaaS)
+软件平台 | TRADUÇÃO: plataforma de software
+软件技术 | TRADUÇÃO: tecnologia de software
+软件系统 | TRADUÇÃO: sistema de software
+软件开发 | TRADUÇÃO: desenvolvimento de software
+软刀子 | TRADUÇÃO: (lit.) a faca macia/(fig.) táticas dissimuladas/meios de ataque indiretos
+软包 | TRADUÇÃO: pãozinho macio
+软化 | TRADUÇÃO: amolecer/abrandar
+软口盖 | TRADUÇÃO: palato mole/véu palatino
+软呢 | TRADUÇÃO: tecido de lã macio e flexível
+软和 | TRADUÇÃO: (coloq.) agradavelmente macio/confortável/(de palavras) suave/calmante
+软坐 | TRADUÇÃO: assento mole (= primeira classe em trens da China)
+软妹币 | TRADUÇÃO: (gíria da internet) Renminbi (trocadilho com 人民幣|人民币)
+软实力 | TRADUÇÃO: poder brando (nas relações internacionais)
+软尺 | TRADUÇÃO: fita métrica macia (tipo não retrátil, usada para medidas corporais etc.)
+软席 | TRADUÇÃO: assento mole (= primeira classe em trens da China)
+软座 | TRADUÇÃO: assento mole (em trens ou barcos)
+软弱 | TRADUÇÃO: fraco/débil/flácido
+软文 | TRADUÇÃO: publieditorial
+软木 | TRADUÇÃO: cortiça
+软木塞 | TRADUÇÃO: uma rolha de cortiça
+软木砖 | TRADUÇÃO: ladrilho de cortiça/piso de cortiça
+软柿子 | TRADUÇÃO: (coloq.) presa fácil/saco de pancada
+软梯 | TRADUÇÃO: escada de corda
+软毛 | TRADUÇÃO: pelo (de animal)/pelagem
+软水 | TRADUÇÃO: água mole (cf. 硬水, água dura)
+软泥 | TRADUÇÃO: lama mole/sedimento/lodo/vasa (geologia)
+软泥儿 | TRADUÇÃO: variante de 軟泥|软泥 com retroflexão
+软流圈 | TRADUÇÃO: (geologia) astenosfera
+软流层 | TRADUÇÃO: (geologia) astenosfera
+软焊 | TRADUÇÃO: soldar
+软烂 | TRADUÇÃO: (de comida etc.) mole; pastoso/(Taiwan) (de uma pessoa) sem iniciativa; acomodado; preguiçoso
+软片 | TRADUÇÃO: (fotográfico) filme
+软玉 | TRADUÇÃO: nefrita/Ca(Mg,Fe)3(SiO3)4
+软甲纲 | TRADUÇÃO: Malacostraca, uma grande classe de crustáceos
+软盘 | TRADUÇÃO: disquete
+软硬不吃 | TRADUÇÃO: não se deixar abalar por força ou persuasão
+软硬件 | TRADUÇÃO: software e hardware
+软硬兼施 | TRADUÇÃO: usar cenoura e vara/usar métodos suaves e a força/mão de ferro em luva de veludo
+软碟 | TRADUÇÃO: disquete
+软磁盘 | TRADUÇÃO: disquete
+软磁碟 | TRADUÇÃO: disquete
+软磨硬泡 | TRADUÇÃO: insistir e persuadir (expressão idiomática)/mimar e bajular
+软禁 | TRADUÇÃO: colocar em prisão domiciliar
+软管 | TRADUÇÃO: mangueira/tubo flexível
+软糖 | TRADUÇÃO: bala macia (goma de mascar, jujuba, feijão de gelatina etc.)
+软糯 | TRADUÇÃO: textura macia e mastigável/(de voz) terno; mimoso; pegajoso
+软组织 | TRADUÇÃO: tecido mole
+软绵绵 | TRADUÇÃO: macio/aveludado/flácido/fraco/sentimental
+软耳朵 | TRADUÇÃO: pessoa crédula/ crédulo
+软肋 | TRADUÇÃO: (anatomia) cartilagem costal/(fig.) ponto fraco; elo fraco; vulnerabilidade
+软脂酸 | TRADUÇÃO: ácido palmítico (química)
+软脚虾 | TRADUÇÃO: (coloq.) pessoa fraca/covarde
+软脚蟹 | TRADUÇÃO: mesmo que 軟腳蝦|软脚虾
+软膏 | TRADUÇÃO: pomada/pasta
+软卧 | TRADUÇÃO: beliche mole (tipo de passagem de trem com beliche mais macio)
+软着陆 | TRADUÇÃO: (aviação) pouso suave/(economia) aterrissagem suave
+软足类 | TRADUÇÃO: (coloq.) polvo, lula e sépia
+软钉子 | TRADUÇÃO: lit. prego mole/fig. réplica ou rejeição diplomática
+软饭男 | TRADUÇÃO: homem sustentado
+软饮 | TRADUÇÃO: refrigerante
+软饮料 | TRADUÇÃO: refrigerante
+软骨 | TRADUÇÃO: cartilagem
+软骨病 | TRADUÇÃO: condropatia (medicina)
+软骨头 | TRADUÇÃO: pessoa fraca e covarde/indivíduo sem espinha
+软骨鱼 | TRADUÇÃO: peixe cartilaginoso (como tubarões e raias)
+软骨鱼类 | TRADUÇÃO: peixes cartilaginosos/Chondrichthyes (classe taxonômica que inclui tubarões e raias)
+软体 | TRADUÇÃO: (de animal) de corpo mole/(Taiwan) software
+软体动物 | TRADUÇÃO: molusco
+软体业 | TRADUÇÃO: indústria de software
+软龈音 | TRADUÇÃO: (linguística) som velar
+软腭 | TRADUÇÃO: palato mole
+软腭音 | TRADUÇÃO: (linguística) consoante velar
+軠 | TRADUÇÃO: variante antiga de 軖
+軡 | TRADUÇÃO: variante antiga de 黔
+轷 | TRADUÇÃO: sobrenome Hu
+軥 | TRADUÇÃO: extremidades da canga
+軨 | TRADUÇÃO: grade nas laterais e na frente
+轸 | TRADUÇÃO: quadrado/fortemente (como de emoção)
+轸方 | TRADUÇÃO: quadrado/quatro lados
+軭 | TRADUÇÃO: estragar (cantonês)/danificar/entortar (roda de carro)
+軱 | TRADUÇÃO: osso grande
+轱 | TRADUÇÃO: usado em 軲轆|轱辘
+轱辘 | TRADUÇÃO: (coloq.) roda/girar; rolar
+軶 | TRADUÇÃO: variante antiga de 軛|轭
+軷 | TRADUÇÃO: sacrifício
+轴 | TRADUÇÃO: eixo/rolo (para linha)/cilindro (para pergaminhos)/classificador para rolos de caligrafia etc ‖ veja 壓軸戲|压轴戏/em Taiwan pr. [zhou2]
+轴向 | TRADUÇÃO: eixo/axial
+轴对称 | TRADUÇÃO: (geometria) simetria axial
+轴心 | TRADUÇÃO: eixo/(fig.) elemento central/elemento chave/eixo (aliança de nações)
+轴心国 | TRADUÇÃO: Potências do Eixo (Segunda Guerra Mundial)
+轴承 | TRADUÇÃO: (mecânica) rolamento
+轴承销 | TRADUÇÃO: pino de rolamento
+轴旋转 | TRADUÇÃO: girar em torno de um eixo/eixo de rotação (matemática)
+轴率 | TRADUÇÃO: razão axial
+轴突 | TRADUÇÃO: axônio
+轴突运输 | TRADUÇÃO: transporte axonal
+轴索 | TRADUÇÃO: axônio (longo eixo fino da célula nervosa)
+轴丝 | TRADUÇÃO: axonema (filamento longo da célula nervosa)
+轴线 | TRADUÇÃO: eixo central (linha)
+轴距 | TRADUÇÃO: distância entre eixos
+轵 | TRADUÇÃO: extremidade do eixo fora do cubo
+轺 | TRADUÇÃO: carruagem leve
+轲 | TRADUÇÃO: nome próprio de Mêncio ‖ usado em 轗軻|𫐘轲
+轶 | TRADUÇÃO: (forma presa) (de um livro, autor etc.) perdido (com o tempo) (variante de 佚)/(forma presa) superar o comum; notável (variante de 逸)
+轶事 | TRADUÇÃO: variante de 逸事
+轶事遗闻 | TRADUÇÃO: anedota (sobre figura histórica)/história perdida ou apócrifa
+轶群 | TRADUÇÃO: variante de 逸群
+轶闻 | TRADUÇÃO: anedota / história apócrifa
+轼 | TRADUÇÃO: (literário) corrimão na frente de uma carruagem ou biga / curvar-se apoiando nesse corrimão como um gesto de respeito
+軿 | TRADUÇÃO: carruagem com cortinas usada por mulheres / reunir / juntar
+輀 | TRADUÇÃO: carro fúnebre
+輂 | TRADUÇÃO: carruagem puxada por cavalos (antigo)
+輂辇 | TRADUÇÃO: carruagem do imperador
+较 | TRADUÇÃO: (forma presa) comparar / (literário) disputar / comparado a / (antes de um adjetivo) relativamente; comparativamente; bastante / também pron. [jiao3]
+较劲 | TRADUÇÃO: medir forças com / competir / mais competitivo / opor-se a alguém / desobrigante / fazer um esforço especial
+较劲儿 | TRADUÇÃO: variante erhua de 較勁|较劲
+较场 | TRADUÇÃO: campo de treino militar / o mesmo que 校場|校场
+较大 | TRADUÇÃO: comparativamente grande
+较好 | TRADUÇÃO: melhor
+较差 | TRADUÇÃO: amplitude (a diferença entre os valores mais baixos e mais altos) ‖ medíocre / bastante pobre / não especialmente bom
+较比 | TRADUÇÃO: comparativamente (coloquial) / razoavelmente / bastante / um tanto / relativamente
+较为 | TRADUÇÃO: comparativamente / relativamente / razoavelmente
+较然 | TRADUÇÃO: claramente / evidentemente / marcadamente
+较略 | TRADUÇÃO: aproximadamente / mais ou menos / cerca de
+较真 | TRADUÇÃO: sério; meticuloso; picuinhas / levar algo (ou alguém) a sério
+较真儿 | TRADUÇÃO: variante erhua de 較真|较真
+较短絜长 | TRADUÇÃO: comparar longo e curto / comparar os prós e contras
+较著 | TRADUÇÃO: óbvio / proeminente / que se destaca
+较量 | TRADUÇÃO: medir forças com alguém / competir com alguém / disputa / batalha / regatear / discutir
+较长絜短 | TRADUÇÃO: comparar longo e curto / comparar os prós e contras
+辂 | TRADUÇÃO: (arcaico) carruagem grande, especialmente um veículo para um monarca
+辁 | TRADUÇÃO: limitado (de talento ou habilidade) / (arcaico) roda maciça (sem raios)
+辀 | TRADUÇÃO: (literário) lança (de uma carroça) / carroça
+载 | TRADUÇÃO: registrar por escrito / transportar (i.e., publicar em um jornal etc.) / pron. em Taiwan [zai4] / ano ‖ transportar / carregar / conter / encher / e / também / bem como / simultaneamente
+载人 | TRADUÇÃO: transportar um passageiro / (de naves espaciais etc.) tripulado / também pron. [zai3 ren2]
+载伯德 | TRADUÇÃO: Zebedeu (nome)
+载入 | TRADUÇÃO: carregar em / registrar / escrever em / inserir (dados) / entrar para (os registros) / ficar registrado (na história)
+载入史册 | TRADUÇÃO: ser registrado na história / entrar para a história
+载具 | TRADUÇÃO: veículo (carro, barco, aeronave etc.) / (fig.) meio; plataforma; vetor / (Taiwan) (pron. em Taiwan [zai3 ju4]) dispositivo do consumidor (cartão inteligente ou código de barras de aplicativo móvel etc.) que pode ser escaneado no checkout para salvar o recibo 統一發票|统一发票 em uma conta na nuvem
+载客 | TRADUÇÃO: transportar passageiros
+载客车 | TRADUÇÃO: veículo de passageiros
+载客量 | TRADUÇÃO: capacidade de passageiros
+载弹量 | TRADUÇÃO: capacidade de carga
+载携 | TRADUÇÃO: transportar / suportar
+载明 | TRADUÇÃO: declarar explicitamente por escrito / especificar / estipular
+载歌且舞 | TRADUÇÃO: cantando e dançando (expressão idiomática); celebrações festivas
+载歌载舞 | TRADUÇÃO: cantando e dançando (expressão idiomática); celebrações festivas
+载波 | TRADUÇÃO: onda portadora
+载湉 | TRADUÇÃO: nome de nascimento do imperador Qing Guangxu 光緒|光绪
+载漪 | TRADUÇÃO: Zai Yi (1856-1922), príncipe imperial manchu e político, desgraçado após apoiar os boxeadores
+载玻片 | TRADUÇÃO: lâmina de microscópio
+载籍 | TRADUÇÃO: livros (na educação confucionista)
+载舟覆舟 | TRADUÇÃO: carregar um barco ou virar um barco (expressão idiomática); fig. O povo pode apoiar um regime ou derrubá-lo.
+载荷 | TRADUÇÃO: carga
+载货 | TRADUÇÃO: carga / frete
+载货汽车 | TRADUÇÃO: caminhão
+载车 | TRADUÇÃO: a bordo (equipamento) / transportar carros / caminhões de mísseis
+载途 | TRADUÇÃO: cobrir a estrada (neve, vento, perigos etc.) / distância (entre locais)
+载运 | TRADUÇÃO: transportar (em veículo) / fretar
+载道 | TRADUÇÃO: encher a estrada (também fig. clamor, gritos de reclamação) / comunicar uma moral / transmitir o Caminho / expressar (ideia, preferência, queixa)
+载酒问字 | TRADUÇÃO: um indivíduo estudioso e inquisitivo (expressão idiomática)
+载重 | TRADUÇÃO: carga / capacidade de carga
+载重能力 | TRADUÇÃO: capacidade de carga
+载重量 | TRADUÇÃO: peso morto / capacidade de peso de um veículo
+载频 | TRADUÇÃO: frequência da onda portadora
+载体 | TRADUÇÃO: transportador (química) / vetor (epidemiologia) / veículo ou meio
+轾 | TRADUÇÃO: parte traseira e inferior da biga / curto / baixo
+𪨶 | TRADUÇÃO: variante antiga de 畲
+辄 | TRADUÇÃO: então / imediatamente / sempre / (arcaico) bagageiro em uma biga ‖ variante de 輒|辄
+挽联 | TRADUÇÃO: par de versos paralelos inscritos em faixas, usado como decoração funerária
+挽诗 | TRADUÇÃO: elegia
+挽近 | TRADUÇÃO: variante antiga de 晚近
+辅 | TRADUÇÃO: auxiliar / complementar / acessório
+辅仁大学 | TRADUÇÃO: Universidade Católica Fu Jen de Pequim (a partir de 1925), precursora da Universidade Normal de Pequim 北京師範大學|北京师范大学 / Universidade Católica Fu Jen em Nova Taipé, Taiwan
+辅以 | TRADUÇÃO: suplementado por / acompanhado por / com
+辅佐 | TRADUÇÃO: auxiliar (geralmente um governante)
+辅修 | TRADUÇÃO: (educação) cursar como matéria secundária; matéria secundária
+辅具 | TRADUÇÃO: dispositivo de assistência (andador, aparelho auditivo etc.)
+辅助 | TRADUÇÃO: auxiliar; ajudar / suplementar; acessório
+辅助语 | TRADUÇÃO: língua auxiliar
+辅助医疗 | TRADUÇÃO: medicina complementar
+辅大 | TRADUÇÃO: abrev. de 輔仁大學|辅仁大学
+辅导 | TRADUÇÃO: orientar; mentorar; aconselhar; treinar; dar tutoria
+辅导人 | TRADUÇÃO: tutor
+辅导员 | TRADUÇÃO: instrutor (professor ou treinador)
+辅导班 | TRADUÇÃO: aula de reforço / aula de recuperação / curso preparatório
+辅导金 | TRADUÇÃO: bolsa (Taiwan)
+辅币 | TRADUÇÃO: moeda fracionária (moeda ou nota de valor menor que a unidade monetária do país) / ficha (usada em vez de dinheiro para máquinas de caça-níqueis etc.)
+辅弼 | TRADUÇÃO: auxiliar um governante na administração do país / primeiro-ministro
+辅料 | TRADUÇÃO: ingredientes auxiliares / materiais suplementares
+辅系 | TRADUÇÃO: (Taiwan) (educação universitária) matéria secundária
+辅课 | TRADUÇÃO: curso subsidiário
+辅警 | TRADUÇÃO: policial auxiliar
+辅酶 | TRADUÇÃO: coenzima (química)
+辅音 | TRADUÇÃO: consoante
+辅食 | TRADUÇÃO: alimento complementar (para um bebê)
+轻 | TRADUÇÃO: leve / fácil / gentil / suave / imprudente / sem importância / frívolo / pequeno em número / átono / neutro / menosprezar
+轻佻 | TRADUÇÃO: frívolo / provocante
+轻侮 | TRADUÇÃO: (literário) tratar com desrespeito
+轻便 | TRADUÇÃO: leve e portátil / leve e conveniente
+轻信 | TRADUÇÃO: confiar facilmente; crédulo; ingênuo
+轻伤 | TRADUÇÃO: levemente ferido / ferimentos leves
+轻元素 | TRADUÇÃO: elemento leve (como o hidrogênio)
+轻功 | TRADUÇÃO: (artes marciais chinesas) a arte do movimento ágil, como saltar, correr em paredes ou planar pelo ar (exagerado em histórias de wuxia)
+轻取 | TRADUÇÃO: vencer facilmente / obter uma vitória fácil
+轻口薄舌 | TRADUÇÃO: (expressão idiomática) apressado e rude; cáustico e língua afiada
+轻咬 | TRADUÇÃO: mordiscar
+轻嘴薄舌 | TRADUÇÃO: precipitado e grosseiro/áspero e de língua afiada
+轻型 | TRADUÇÃO: leve (maquinário, aeronave etc.)
+轻型轨道交通 | TRADUÇÃO: sistema de metrô leve/metrô de superfície/bonde/abreviatura de 輕軌|轻轨
+轻子 | TRADUÇÃO: lépton (física de partículas)
+轻工 | TRADUÇÃO: engenharia leve
+轻工业 | TRADUÇÃO: indústria leve
+轻巧 | TRADUÇÃO: habilidoso/destro/fácil/leve e fácil de usar/ágil/gracioso
+轻度 | TRADUÇÃO: leve (sintomas etc.)
+轻微 | TRADUÇÃO: ligeiro/leve/trivial/em pequena medida
+轻快 | TRADUÇÃO: leve e rápido/desembaraçado/animado/sem esforço/relaxado/ágil/alegre
+轻慢 | TRADUÇÃO: irreverente
+轻手轻脚 | TRADUÇÃO: (expressão idiomática) mover-se ou fazer algo com suavidade, silenciosamente ou gentilmente
+轻打 | TRADUÇÃO: dar um tapinha; bater de leve
+轻捷 | TRADUÇÃO: leve ao caminhar/nimbo/ágil
+轻描淡写 | TRADUÇÃO: (expressão idiomática) tratar algo como se não tivesse importância/minimizar/subestimar
+轻抚 | TRADUÇÃO: acariciar de leve
+轻击区 | TRADUÇÃO: green (golfe)
+轻击棒 | TRADUÇÃO: putter (golfe)
+轻击球 | TRADUÇÃO: bater na bola de leve (esporte)/putt (golfe)
+轻敌 | TRADUÇÃO: subestimar o inimigo
+轻于鸿毛 | TRADUÇÃO: (expressão idiomática) leve como uma pluma de ganso; insignificante/sem importância
+轻易 | TRADUÇÃO: fácil; simples/imprudentemente; de forma leviana
+轻染 | TRADUÇÃO: matiz
+轻柔 | TRADUÇÃO: suave; macio; flexível
+轻机枪 | TRADUÇÃO: metralhadora leve
+轻机关枪 | TRADUÇÃO: também escrito 輕機槍|轻机枪/metralhadora leve
+轻武器 | TRADUÇÃO: arma leve
+轻水 | TRADUÇÃO: água leve (em oposição à água pesada)/ver light water reactor 輕水反應堆|轻水反应堆
+轻水反应堆 | TRADUÇÃO: reator de água leve (LWR)
+轻浪浮薄 | TRADUÇÃO: (expressão idiomática) frívolo
+轻浮 | TRADUÇÃO: frívolo/descuidado/tonto
+轻狂 | TRADUÇÃO: frívolo
+轻率 | TRADUÇÃO: arrogante/despreocupado/imprudente
+轻生 | TRADUÇÃO: cometer suicídio; tirar a própria vida
+轻盈 | TRADUÇÃO: gracioso/esbelto/leve e gracioso/leve de coração/relaxado
+轻省 | TRADUÇÃO: relaxado/fácil
+轻看 | TRADUÇÃO: desprezar
+轻窕 | TRADUÇÃO: frívolo/caprichoso/brincalhão
+轻纱 | TRADUÇÃO: musselina leve/gaze
+轻罪 | TRADUÇÃO: crime pequeno/contravenção
+轻者 | TRADUÇÃO: caso menos grave/em casos menos severos
+轻而易举 | TRADUÇÃO: fácil/sem dificuldade
+轻声 | TRADUÇÃO: em voz baixa; suavemente/(linguística) tom neutro
+轻声细语 | TRADUÇÃO: falar baixinho/sussurrar (expressão idiomática)
+轻脆 | TRADUÇÃO: nítido e claro/crocante/melodioso/retilíneo/tintilante/prateado (som)/frágil/delicado/também escrito 清脆
+轻举妄动 | TRADUÇÃO: agir cegamente sem pensar (expressão idiomática)
+轻蔑 | TRADUÇÃO: desdenhoso; desdenhoso; desprezivo; pejorativo/desdém; desprezo
+轻薄 | TRADUÇÃO: leve (peso)/frívolo/um conquistador/desprezar/desrespeitoso
+轻裘肥马 | TRADUÇÃO: (lit.) peles leves e cavalos fortes/(fig.) viver no luxo
+轻视 | TRADUÇÃO: desprezo/desprezivo/desdenhar/desdenhoso
+轻言 | TRADUÇÃO: falar, sem considerar cuidadosamente
+轻言细语 | TRADUÇÃO: falar baixinho
+轻质石油 | TRADUÇÃO: petróleo leve (produto)/gasolina e diesel
+轻质石油产品 | TRADUÇÃO: produto de petróleo leve (gasolina e óleo diesel)
+轻车熟路 | TRADUÇÃO: (lit.) dirigir uma carruagem leve em uma estrada familiar (expressão idiomática)/(fig.) fazer algo rotineiramente e com facilidade/moleza
+轻车简从 | TRADUÇÃO: (de um oficial) viajar com pouca bagagem e apenas uma pequena escolta/viajar sem ostentação
+轻轨 | TRADUÇÃO: metrô leve; sistema de trânsito (subterrâneo, ao nível da rua ou elevado); bonde; metrô (abreviatura de 輕型軌道交通|轻型轨道交通)
+轻轻 | TRADUÇÃO: levemente; suavemente
+轻重 | TRADUÇÃO: gravidade (do caso)/grau de seriedade/se algo é leve ou grave
+轻重主次 | TRADUÇÃO: inverter a importância das coisas (ou seja, enfatizar o acidental e negligenciar o principal)/sem senso de proporção/colocar a carroça na frente dos bois
+轻重倒置 | TRADUÇÃO: inverter a importância das coisas (ou seja, enfatizar o sem importância e negligenciar o importante)/sem senso de proporção/colocar a carroça na frente dos bois
+轻重缓急 | TRADUÇÃO: (expressão idiomática) ligeiro ou importante, urgente ou não urgente; lidar com assuntos importantes primeiro/senso de prioridade
+轻量 | TRADUÇÃO: peso leve
+轻量级 | TRADUÇÃO: peso leve (boxe etc.)
+轻铁 | TRADUÇÃO: LRT (Light Rail Transit) de Hong Kong (abreviatura de 輕便鐵路|轻便铁路)
+轻灵 | TRADUÇÃO: rápido e habilidoso/ágil
+轻音乐 | TRADUÇÃO: música ligeira
+轻风 | TRADUÇÃO: brisa/vento leve
+轻飘飘 | TRADUÇÃO: leve como uma pluma
+轻食 | TRADUÇÃO: refeição leve; lanche
+轻饶 | TRADUÇÃO: perdoar facilmente/deixar passar batido (geralmente com negação: você não vai se safar)
+轻饶素放 | TRADUÇÃO: facilmente perdoar, simplesmente libertar (expressão idiomática); deixar alguém sair impune
+轻骑 | TRADUÇÃO: cavalaria ligeira/motocicleta leve/ciclomotor
+轻松 | TRADUÇÃO: leve/suave/relaxado/sem esforço/simples/relaxar/levar as coisas menos a sério
+𫐐 | TRADUÇÃO: grampos para a barra transversal da carruagem
+辆 | TRADUÇÃO: classificador para veículos
+辎 | TRADUÇÃO: carroça coberta/carroça de suprimentos militares
+辎重 | TRADUÇÃO: (militar) suprimentos (munições, rações, roupas etc.)/equipamentos e suprimentos levados em uma expedição/(fig.) fardo
+辉 | TRADUÇÃO: (forma presa) radiância; brilho; brilhar
+辉南 | TRADUÇÃO: ver 輝南縣|辉南县
+辉南县 | TRADUÇÃO: Huinan, um condado na cidade de Tonghua 通化市, Jilin
+辉映 | TRADUÇÃO: refletir/brilhar
+辉格党 | TRADUÇÃO: Partido Whig
+辉煌 | TRADUÇÃO: esplêndido/glorioso
+辉瑞 | TRADUÇÃO: Pfizer, empresa farmacêutica americana
+辉石 | TRADUÇÃO: piroxênio (família de minerais formadores de rocha)/augita
+辉绿岩 | TRADUÇÃO: diabásio (geologia)/dolerito
+辉县 | TRADUÇÃO: ver 輝縣市|辉县市
+辉县市 | TRADUÇÃO: Huixian, uma cidade a nível de condado na cidade de Xinxiang 新鄉市|新乡市, Henan
+辉长岩 | TRADUÇÃO: gabro (geologia)
+辋 | TRADUÇÃO: pneu/faixa de roda
+辍 | TRADUÇÃO: parar (antes da conclusão)/cessar/suspender
+辍学 | TRADUÇÃO: abandonar a escola/parar de estudar/interromper os estudos
+辍工 | TRADUÇÃO: parar o trabalho
+辍朝 | TRADUÇÃO: suspender os negócios na corte imperial devido a uma desgraça
+辍业 | TRADUÇÃO: desistir do trabalho/abandonar a profissão
+辍止 | TRADUÇÃO: parar/cessar
+辍演 | TRADUÇÃO: parar de apresentar uma peça/interromper uma temporada teatral
+辍笔 | TRADUÇÃO: parar de escrever ou pintar/interromper a escrita no meio

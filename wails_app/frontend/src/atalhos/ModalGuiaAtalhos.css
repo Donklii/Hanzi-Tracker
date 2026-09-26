@@ -1,0 +1,170 @@
+/* ----- Estilos para o Modal Guia de Atalhos ----- */
+.guia-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(8px);
+  animation: fadeInModal 0.2s ease-out;
+}
+
+@keyframes fadeInModal {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.guia-modal-container {
+  width: 90%;
+  max-width: 680px;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-modal, #1e1e2e);
+  border: 1px solid var(--border-modal, rgba(255, 255, 255, 0.15));
+  border-radius: 16px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+
+.guia-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px;
+  border-bottom: 1px solid var(--border-divider, rgba(255, 255, 255, 0.1));
+}
+
+.guia-modal-header h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-heading, #f3f4f6);
+}
+
+.guia-modal-fechar {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  color: var(--text-muted, #9ca3af);
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 6px;
+  transition: all 0.15s ease;
+}
+
+.guia-modal-fechar:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.guia-modal-corpo {
+  padding: 24px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.guia-secao h3 {
+  margin: 0 0 4px 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-primary, #818cf8);
+}
+
+.guia-subtitulo {
+  margin: 0 0 14px 0;
+  font-size: 0.82rem;
+  color: var(--text-muted, #9ca3af);
+}
+
+.guia-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.guia-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+  transition: background 0.15s ease;
+}
+
+.guia-card:hover {
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.guia-card-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.guia-card-nome {
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: var(--text-main, #f3f4f6);
+}
+
+.guia-card-desc {
+  font-size: 0.82rem;
+  color: var(--text-muted, #9ca3af);
+}
+
+.guia-card-combo {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.guia-kbd {
+  padding: 4px 7px;
+  font-family: var(--font-mono, monospace);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom-width: 2px;
+  border-radius: 5px;
+}
+
+.guia-sem-atalho {
+  font-size: 0.8rem;
+  color: var(--text-muted, #9ca3af);
+  font-style: italic;
+}
+
+.guia-modal-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  background: rgba(0, 0, 0, 0.2);
+  border-top: 1px solid var(--border-divider, rgba(255, 255, 255, 0.1));
+  font-size: 0.82rem;
+  color: var(--text-muted, #9ca3af);
+}
+
+.btn-guia-entendi {
+  padding: 8px 18px;
+  background: var(--color-primary, #6366f1);
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+}
+
+.btn-guia-entendi:hover {
+  opacity: 0.9;
+}

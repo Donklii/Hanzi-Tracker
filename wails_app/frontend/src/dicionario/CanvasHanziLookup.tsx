@@ -1,5 +1,6 @@
 import React, { useRef, useState, useEffect } from 'react';
 import * as HanziLookup from 'hanzilookup-js';
+import { t } from '../i18n/i18n';
 
 interface CanvasHanziLookupProps {
   onRecognize: (sugestoes: string[]) => void;
@@ -179,7 +180,7 @@ export function CanvasHanziLookup({ onRecognize, targetHanzi, configuracoesApp }
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%' }}>
       {!isLoaded && (
         <div style={{ position: 'absolute', color: 'var(--cor-texto-suave)', fontSize: '12px', marginTop: '100px' }}>
-          Carregando...
+          {t('Carregando...')}
         </div>
       )}
       <canvas
@@ -208,7 +209,7 @@ export function CanvasHanziLookup({ onRecognize, targetHanzi, configuracoesApp }
           onClick={clearCanvas}
           disabled={strokes.length === 0}
         >
-          Limpar
+          {t('Limpar')}
         </button>
         <button
           className="scan-btn"
@@ -216,7 +217,7 @@ export function CanvasHanziLookup({ onRecognize, targetHanzi, configuracoesApp }
           onClick={undoLastStroke}
           disabled={strokes.length === 0}
         >
-          Desfazer Traço
+          {t('Desfazer Traço')}
         </button>
       </div>
     </div>

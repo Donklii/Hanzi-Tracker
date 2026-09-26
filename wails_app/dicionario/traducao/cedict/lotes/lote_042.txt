@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+悼辞 | TRADUÇÃO: variant of 悼詞|悼词
+凄哀 | TRADUÇÃO: desolate/mournful
+凄恻 | TRADUÇÃO: heartbroken/sorrowful
+凄怆 | TRADUÇÃO: pitiful; painful; heartrending
+凄惨 | TRADUÇÃO: plaintive/mournful/miserable
+凄楚 | TRADUÇÃO: sad; wretched; miserable
+凄凉 | TRADUÇÃO: mournful; miserable ‖ desolate (place)
+凄然 | TRADUÇÃO: distressed
+凄苦 | TRADUÇÃO: bleak; miserable
+凄迷 | TRADUÇÃO: pained and bewildered ‖ dreary and fuzzy (sight)
+悾 | TRADUÇÃO: simple-minded/sincere
+惄 | TRADUÇÃO: distressed/famished
+情 | TRADUÇÃO: (bound form) feelings; emotion; sentiment; passion/(bound form) situation; condition
+情不可却 | TRADUÇÃO: unable to refuse because of affection
+情不自禁 | TRADUÇÃO: (idiom) cannot refrain from; cannot help; cannot but
+情事 | TRADUÇÃO: circumstances/facts (of a case)/case/feelings/love affair
+情人 | TRADUÇÃO: lover/sweetheart
+情人果 | TRADUÇÃO: (Tw) pickled mangoes (burong mangga)
+情人眼里出西施 | TRADUÇÃO: lit. in the eyes of a lover appears 西施 (idiom); fig. beauty is in the eye of the beholder
+情人眼里有西施 | TRADUÇÃO: In the eyes of the lover, a famous beauty (idiom). Beauty in the eye of the beholder
+情人节 | TRADUÇÃO: Valentine's Day
+情何以堪 | TRADUÇÃO: how can this be endured! (idiom)
+情侣 | TRADUÇÃO: sweethearts/lovers
+情侣装 | TRADUÇÃO: matching outfit for couples
+情侣酒店 | TRADUÇÃO: love hotel
+情侣头像 | TRADUÇÃO: "lovers' avatar" – avatar that matches the avatar of a significant other (e.g. two halves of one image, two images drawn in a similar style etc), used to indicate a romantic relationship
+情侣鹦鹉 | TRADUÇÃO: lovebirds
+情伤 | TRADUÇÃO: romantic heartbreak
+情儿 | TRADUÇÃO: (dialect) mistress; paramour
+情分 | TRADUÇÃO: mutual affection; friendship
+情勒 | TRADUÇÃO: emotional blackmail (abbr. for 情緒勒索|情绪勒索)
+情势 | TRADUÇÃO: situation; circumstance
+情史 | TRADUÇÃO: romantic history; romantic past
+情同手足 | TRADUÇÃO: as close as one's hands and feet (idiom); loving one another as brothers/deep friendship/closely attached to one another
+情同骨肉 | TRADUÇÃO: as close as flesh and bones (idiom); deep friendship
+情味 | TRADUÇÃO: feeling/flavor/sense
+情商 | TRADUÇÃO: emotional intelligence; emotional intelligence quotient (EQ) (abbr. for 情緒商數|情绪商数)/(Tw) to ask a special favor of (sb)
+情报 | TRADUÇÃO: information; intelligence
+情报处 | TRADUÇÃO: intelligence office; intelligence section
+情场 | TRADUÇÃO: affairs of the heart/mutual relationship
+情境 | TRADUÇÃO: situation; context; setting; environment
+情境模型 | TRADUÇÃO: situational model
+情夫 | TRADUÇÃO: married woman's lover
+情妇 | TRADUÇÃO: mistress/paramour (of married man)
+情定 | TRADUÇÃO: to exchange vows with (sb)/to exchange vows at (a time or place)
+情定终身 | TRADUÇÃO: (idiom) to pledge eternal love; to exchange marriage vows
+情形 | TRADUÇÃO: circumstances/situation/CL:個|个
+情志 | TRADUÇÃO: emotion/mood
+情急 | TRADUÇÃO: anxious
+情急之下 | TRADUÇÃO: in a moment of desperation
+情急了 | TRADUÇÃO: mythical talking bird/mynah bird
+情急智生 | TRADUÇÃO: inspiration in a moment of desperation (idiom)/also written 情急之下
+情意 | TRADUÇÃO: friendly regard; affection
+情爱 | TRADUÇÃO: affection/friendly feelings towards sb/love
+情感 | TRADUÇÃO: feeling/emotion/to move (emotionally)
+情感分析 | TRADUÇÃO: sentiment analysis
+情愫 | TRADUÇÃO: sentiment/feeling
+情态 | TRADUÇÃO: spirit/mood/(linguistics) modal
+情欲 | TRADUÇÃO: lust/desire/sensual
+情怀 | TRADUÇÃO: feelings/mood
+情投意合 | TRADUÇÃO: (idiom) to have an affinity with each other; to find each other congenial
+情操 | TRADUÇÃO: sentiments/feelings/disposition of mind/moral character
+情敌 | TRADUÇÃO: rival in love
+情景 | TRADUÇÃO: scene; spectacle/circumstances; situation
+情景喜剧 | TRADUÇÃO: sitcom
+情书 | TRADUÇÃO: love letter
+情有可原 | TRADUÇÃO: pardonable (of interruption, misunderstanding etc)
+情有独钟 | TRADUÇÃO: to have a special fondness (for sth)
+情歌 | TRADUÇÃO: love song
+情杀 | TRADUÇÃO: murder as a crime of passion
+情比金坚 | TRADUÇÃO: love is more solid than gold (idiom)
+情况 | TRADUÇÃO: circumstances; state of affairs; situation/CL:種|种
+情状 | TRADUÇÃO: situation/circumstances
+情理 | TRADUÇÃO: reason/sense
+情痴 | TRADUÇÃO: infatuated/lovesick person
+情真意切 | TRADUÇÃO: (idiom) sincere; heartfelt
+情知 | TRADUÇÃO: to know full well; to be fully aware
+情种 | TRADUÇÃO: affectionate/an affectionate person
+情窦 | TRADUÇÃO: (lit.) love aperture/(fig.) interest in love matters
+情窦初开 | TRADUÇÃO: first awakening of love (usually of a girl) (idiom)
+情节 | TRADUÇÃO: circumstances/plot; storyline
+情素 | TRADUÇÃO: variant of 情愫
+情结 | TRADUÇÃO: complex (psychology)
+情网 | TRADUÇÃO: snare of love
+情绪 | TRADUÇÃO: mood/state of mind/moodiness/CL:種|种
+情绪价值 | TRADUÇÃO: emotional value
+情绪化 | TRADUÇÃO: emotional/sentimental
+情绪商数 | TRADUÇÃO: emotional intelligence quotient (EQ)
+情绪智商 | TRADUÇÃO: emotional intelligence (EQ)
+情绪状态 | TRADUÇÃO: emotional state
+情缘 | TRADUÇÃO: predestined love/love affinity
+情义 | TRADUÇÃO: affection/comradeship
+情色 | TRADUÇÃO: erotic (of art etc)/facial expression (archaic)
+情搜 | TRADUÇÃO: intelligence gathering
+情诗 | TRADUÇÃO: love poem
+情话 | TRADUÇÃO: terms of endearment/words of love
+情谊 | TRADUÇÃO: friendship; camaraderie
+情调 | TRADUÇÃO: ambience; mood; flavor
+情变 | TRADUÇÃO: loss of love/breakup of a relationship
+情资 | TRADUÇÃO: intelligence/information
+情趣 | TRADUÇÃO: inclinations and interests/delight/fun/interest/appeal
+情趣商店 | TRADUÇÃO: adult shop
+情趣玩具 | TRADUÇÃO: sex toy
+情趣用品 | TRADUÇÃO: adult product/sex toy
+情趣酒店 | TRADUÇÃO: love hotel
+情逾骨肉 | TRADUÇÃO: feelings deeper than for one's own flesh and blood (idiom)/deep friendship
+情郎 | TRADUÇÃO: boyfriend/paramour (of a woman)
+情随事迁 | TRADUÇÃO: feelings change with circumstances (idiom)
+情非得已 | TRADUÇÃO: compelled by the circumstances (to do sth)/(have) no other choice (but do sth)/(used as a pun in romance) can't help but fall in love
+情面 | TRADUÇÃO: feelings and sensibilities/sentiment and face/sensitivity to other's feelings
+情头 | TRADUÇÃO: "lovers' avatar" – avatar that matches the avatar of a significant other (e.g. two halves of one image, two images drawn in a similar style etc), used to indicate a romantic relationship (abbr. for 情侶頭像|情侣头像)
+情愿 | TRADUÇÃO: willingness/would rather (agree to X than Y)
+惆 | TRADUÇÃO: forlorn/vexed/disappointed
+惆怅 | TRADUÇÃO: melancholy/depression
+惆怅若失 | TRADUÇÃO: to feel despondent (idiom)
+惇 | TRADUÇÃO: kindhearted/honest
+惈 | TRADUÇÃO: courageous/resolute and daring
+惋 | TRADUÇÃO: to sigh in regret or pity/Taiwan pr. [wan4]
+惋惜 | TRADUÇÃO: to regret/to feel that it is a great pity/to feel sorry for sb
+惌 | TRADUÇÃO: to bear a grudge against
+惎 | TRADUÇÃO: injure/vilify
+惏 | TRADUÇÃO: cold/frigid
+惑 | TRADUÇÃO: to confuse/to be puzzled
+惑星 | TRADUÇÃO: (obsolete) planet
+惒 | TRADUÇÃO: old variant of 和
+惓 | TRADUÇÃO: earnest
+惓惓 | TRADUÇÃO: variant of 拳拳
+惔 | TRADUÇÃO: to burn
+惕 | TRADUÇÃO: fearful/respectful
+惕然 | TRADUÇÃO: to be afraid, fearful of
+惘 | TRADUÇÃO: disappointed/perplexed
+惘然 | TRADUÇÃO: frustrated/perplexed/irresolute/dazed
+惘然若失 | TRADUÇÃO: lit. to be frustrated as though having lost sth (idiom)/fig. to be at a loss/perplexed/frustrated
+惙 | TRADUÇÃO: mournful/uncertain
+惚 | TRADUÇÃO: used in 恍惚
+惛 | TRADUÇÃO: confused/forgetful/silly
+惛耄 | TRADUÇÃO: senile/senility
+惜 | TRADUÇÃO: to cherish/to begrudge/to pity/Taiwan pr. [xi2]
+惜别 | TRADUÇÃO: reluctant to part
+惜命 | TRADUÇÃO: to be mindful of one's health and safety
+惜售 | TRADUÇÃO: to be reluctant to sell sth
+惜寸阴 | TRADUÇÃO: to cherish every moment/to make good use of one's time
+惜才 | TRADUÇÃO: to have an appreciation for talent in another person
+惜福 | TRADUÇÃO: to appreciate one's good fortune
+惜香怜玉 | TRADUÇÃO: see 憐香惜玉|怜香惜玉
+惝 | TRADUÇÃO: disappointed/listless/frightened/also pr. [tang3]
+惝恍 | TRADUÇÃO: (literary) despondent; upset/(literary) hazy; indistinct
+惟 | TRADUÇÃO: -ism/only
+惟一 | TRADUÇÃO: variant of 唯一
+惟利是图 | TRADUÇÃO: variant of 唯利是圖|唯利是图
+惟命是听 | TRADUÇÃO: see 唯命是從|唯命是从
+惟妙惟肖 | TRADUÇÃO: to imitate to perfection/to be remarkably true to life
+惟恐 | TRADUÇÃO: variant of 唯恐
+惟有 | TRADUÇÃO: variant of 唯有
+惟独 | TRADUÇÃO: variant of 唯獨|唯独
+惠 | TRADUÇÃO: surname Hui ‖ (bound form) act of kindness (from a superior)/(honorific prefix) kind (as in 惠顧|惠顾)
+惠来 | TRADUÇÃO: see 惠來縣|惠来县
+惠来县 | TRADUÇÃO: Huilai, a county in Jieyang City 揭陽市|揭阳市, Guangdong
+惠及 | TRADUÇÃO: (literary) to be of benefit to
+惠城 | TRADUÇÃO: see 惠城區|惠城区
+惠城区 | TRADUÇÃO: Huicheng, a district of Huizhou City 惠州市, Guangdong
+惠子 | TRADUÇÃO: Hui-zi also known as Hui Shi 惠施 (c. 370-310 BC), politician and philosopher of the School of Logicians 名家 during the Warring States Period (475-220 BC)
+惠安 | TRADUÇÃO: see 惠安縣|惠安县
+惠安县 | TRADUÇÃO: Hui'an, a county in Quanzhou City 泉州市, Fujian
+惠山 | TRADUÇÃO: see 惠山區|惠山区
+惠山区 | TRADUÇÃO: Huishan, a district of Wuxi City 無錫市|无锡市, Jiangsu
+惠州 | TRADUÇÃO: see 惠州市
+惠州市 | TRADUÇÃO: Huizhou, prefecture-level city in Guangdong Province 廣東省|广东省
+惠斯勒 | TRADUÇÃO: Whistler (name)
+惠斯特 | TRADUÇÃO: whist (loanword)
+惠施 | TRADUÇÃO: Hui Shi, also known as Hui-zi 惠子(c. 370-310 BC), politician and philosopher of the School of Logicians 名家 during the Warring States Period (475-220 BC)
+惠普 | TRADUÇÃO: Hewlett-Packard
+惠普公司 | TRADUÇÃO: Hewlett-Packard/HP
+惠更斯 | TRADUÇÃO: Huygens (name)/Christiaan Huygens (1629-1695), Dutch mathematician and astronomer
+惠书 | TRADUÇÃO: (formal) your letter
+惠东 | TRADUÇÃO: see 惠東縣|惠东县
+惠东县 | TRADUÇÃO: Huidong, a county in Huizhou City 惠州市, Guangdong
+惠民 | TRADUÇÃO: see 惠民縣|惠民县 ‖ to benefit the people
+惠民县 | TRADUÇÃO: Huimin, a county in Binzhou City 濱州市|滨州市, Shandong
+惠水 | TRADUÇÃO: see 惠水縣|惠水县
+惠水县 | TRADUÇÃO: Huishui, a county in Qiannan Buyei and Miao Autonomous Prefecture 黔南布依族苗族自治州, Guizhou
+惠济 | TRADUÇÃO: see 惠濟區|惠济区
+惠济区 | TRADUÇÃO: Huiji, a district of Zhengzhou City 鄭州市|郑州市, Henan
+惠特妮·休斯顿 | TRADUÇÃO: Whitney Houston (1963-2012), American singer and actress
+惠特曼 | TRADUÇÃO: Walt Whitman (1819–1892), American poet and journalist
+惠而不费 | TRADUÇÃO: a kind act that costs nothing
+惠能 | TRADUÇÃO: variant of 慧能
+惠临 | TRADUÇÃO: (honorific) to visit/to call in
+惠誉 | TRADUÇÃO: Fitch, credit rating agency
+惠农 | TRADUÇÃO: see 惠農區|惠农区
+惠农区 | TRADUÇÃO: Huinong, a district of Shizuishan City 石嘴山市, Ningxia
+惠远寺 | TRADUÇÃO: Huiyuan Monastery in Dawu County 道孚縣|道孚县, Garze Tibetan autonomous prefecture, Sichuan
+惠阳 | TRADUÇÃO: see 惠陽區|惠阳区
+惠阳区 | TRADUÇÃO: Huiyang, a district of Huizhou City 惠州市, Guangdong
+惠灵顿 | TRADUÇÃO: Wellington, capital of New Zealand
+惠顾 | TRADUÇÃO: your patronage
+恶 | TRADUÇÃO: used in 惡心|恶心 ‖ evil/fierce/vicious/ugly/coarse/to harm ‖ to hate/to loathe/ashamed/to fear/to slander
+恶事 | TRADUÇÃO: malicious deed; misdeed/disaster; catastrophe
+恶事传千里 | TRADUÇÃO: evil deeds spread a thousand miles (idiom); scandal spreads like wildfire
+恶人 | TRADUÇÃO: evil person; vile creature; villain/(archaic) ugly person
+恶人先告状 | TRADUÇÃO: the guilty party files the suit/the thief cries thief
+恶仗 | TRADUÇÃO: hard fighting/fierce battle
+恶作剧 | TRADUÇÃO: practical joke/prank/to play a practical joke
+恶俗 | TRADUÇÃO: bad habit/evil custom/vulgarity
+恶凶凶 | TRADUÇÃO: fierce
+恶创 | TRADUÇÃO: malign sore (TCM)
+恶劣 | TRADUÇÃO: vile/nasty/of very poor quality
+恶势力 | TRADUÇÃO: evil forces/criminal elements
+恶化 | TRADUÇÃO: to worsen
+恶叉白赖 | TRADUÇÃO: evil behavior (idiom); brazen villainy
+恶口 | TRADUÇÃO: bad language/foul mouth
+恶名 | TRADUÇÃO: bad name/evil reputation
+恶名儿 | TRADUÇÃO: erhua variant of 惡名|恶名
+恶名昭彰 | TRADUÇÃO: infamous/notorious
+恶名昭著 | TRADUÇÃO: notorious; infamous
+恶唑啉 | TRADUÇÃO: oxacillin
+恶唑啉酮 | TRADUÇÃO: oxacillin
+恶报 | TRADUÇÃO: karmic retribution (resulting from evil deeds, in contrast to karmic reward 好報|好报)
+恶梦 | TRADUÇÃO: nightmare
+恶妇 | TRADUÇÃO: vicious wife
+恶少 | TRADUÇÃO: young thug/malicious young ruffian
+恶徒 | TRADUÇÃO: hoodlum/bad guy
+恶德 | TRADUÇÃO: wickedness/evil behavior
+恶性 | TRADUÇÃO: malignant/wicked/vicious (circle)/producing evil/rapid (decline)/runaway (inflation)
+恶性循环 | TRADUÇÃO: vicious circle
+恶性瘤 | TRADUÇÃO: malignant tumor
+恶性疟原虫 | TRADUÇÃO: plasmodium falciparum (malaria parasite)
+恶性肿瘤 | TRADUÇÃO: malignant tumor
+恶性转移 | TRADUÇÃO: (medicine) metastasis
+恶性通货膨胀 | TRADUÇÃO: hyperinflation
+恶恨 | TRADUÇÃO: to hate; to abhor
+恶恶实实 | TRADUÇÃO: very fierce
+恶意 | TRADUÇÃO: malice/evil intention
+恶意中伤 | TRADUÇÃO: to slander maliciously
+恶意代码 | TRADUÇÃO: malicious code (e.g. virus)/malware
+恶意软件 | TRADUÇÃO: malware (computing)
+恶感 | TRADUÇÃO: malice/ill will
+恶战 | TRADUÇÃO: hard fighting/fierce battle
+恶损 | TRADUÇÃO: to ridicule
+恶搞 | TRADUÇÃO: spoof (web-based genre in PRC, acquiring cult status from 2005, involving humorous, satirical or fantastical videos, photo collections, texts, poems etc)
+恶搞文化 | TRADUÇÃO: spoofing culture (Web-based genre in PRC acquiring cult status from 2005, involving humorous, satirical or fantastical videos, photo collections, texts, poems etc)
+恶整 | TRADUÇÃO: to prank
+恶有恶报 | TRADUÇÃO: evil has its retribution (idiom); to suffer the consequences of one's bad deeds/sow the wind and reap the whirlwind (Hosea 8:7)
+恶果 | TRADUÇÃO: evil consequence/retribution (in Buddhism)
+恶棍 | TRADUÇÃO: scoundrel; rogue; bully; villain
+恶岁 | TRADUÇÃO: lean year/year of bad harvest
+恶毒 | TRADUÇÃO: malicious
+恶气 | TRADUÇÃO: evil smell/resentment/unpleasant manner
+恶水 | TRADUÇÃO: dirty water/water that is unfit to drink/slops
+恶浪 | TRADUÇÃO: violent wave/fierce billow/fig. depraved force
+恶汉 | TRADUÇÃO: overbearing fiend
+恶浊 | TRADUÇÃO: filthy/foul
+恶煞 | TRADUÇÃO: demon/fiend
+恶狠 | TRADUÇÃO: fierce and vicious
+恶狠狠 | TRADUÇÃO: very fierce
+恶疾 | TRADUÇÃO: unpleasant ailment/foul disease
+恶病质 | TRADUÇÃO: Cachexia (physical wasting associated with long-term illness)
+恶癖 | TRADUÇÃO: bad habit
+恶相 | TRADUÇÃO: sinister look
+恶神 | TRADUÇÃO: malignant deity/fiend
+恶骂 | TRADUÇÃO: to curse fiercely
+恶习 | TRADUÇÃO: bad habit/vice
+恶声 | TRADUÇÃO: malicious abuse/lewd song/evil reputation
+恶臭 | TRADUÇÃO: stink; stench/stinky; smelly/(fig.) disgusting; repugnant
+恶舌 | TRADUÇÃO: vicious talk/malicious tongue
+恶行 | TRADUÇÃO: evil or wicked conduct
+恶补 | TRADUÇÃO: to overdose on supplementary medicine/to cram too hard
+恶言 | TRADUÇÃO: evil tongue/malicious talk
+恶言伤人 | TRADUÇÃO: to insult/to direct bad language at sb/to slag off
+恶誓 | TRADUÇÃO: evil oath
+恶语 | TRADUÇÃO: evil words/malicious talk
+恶语中伤 | TRADUÇÃO: (idiom) to slander viciously
+恶语伤人 | TRADUÇÃO: to insult/to direct bad language at sb/to slag off
+恶贯满盈 | TRADUÇÃO: lit. strung through and filled with evil (idiom); filled with extreme evil/replete with vice/guilty of monstrous crimes
+恶迹 | TRADUÇÃO: evil conduct
+恶辣 | TRADUÇÃO: ruthless
+恶运 | TRADUÇÃO: variant of 厄運|厄运
+恶露 | TRADUÇÃO: (medicine) lochia
+恶霸 | TRADUÇÃO: evil tyrant
+恶斗 | TRADUÇÃO: hard fighting/fierce battle
+恶鬼 | TRADUÇÃO: evil spirit/devil
+恶魔 | TRADUÇÃO: demon/fiend
+恶魔城 | TRADUÇÃO: Castlevania (video game series)
+惦 | TRADUÇÃO: to think of/to remember/to miss
+惦念 | TRADUÇÃO: to constantly have (sb or sth) on one's mind
+惦记 | TRADUÇÃO: to think of/to keep thinking about/to be concerned about
+惰 | TRADUÇÃO: lazy
+惰性 | TRADUÇÃO: inert (chemistry)/apathy/inertia/laziness
+惰性气体 | TRADUÇÃO: (chemistry) inert gas (esp. a noble gas)
+恼 | TRADUÇÃO: to get angry
+恼人 | TRADUÇÃO: annoying/irksome/to irritate
+恼怒 | TRADUÇÃO: resentful/angry/to enrage sb
+恼恨 | TRADUÇÃO: to hate and resent/angry and full of grievances
+恼火 | TRADUÇÃO: annoyed; riled; vexed
+恼羞成怒 | TRADUÇÃO: (idiom) to become enraged over a perceived humiliation
+恽 | TRADUÇÃO: surname Yun
+想 | TRADUÇÃO: to think (about)/to think of; to devise/to think (that); to believe (that)/to desire; to want (to)/to miss (feel wistful about the absence of)
+想不到 | TRADUÇÃO: unexpected/hard to imagine/it had not occurred to me/who could have thought that
+想不通 | TRADUÇÃO: unable to understand/unable to get over
+想不开 | TRADUÇÃO: cannot figure out/to be unable to take a lighter view/to take things too hard/to be depressed/to fret over trifles
+想也没想 | TRADUÇÃO: without a second thought
+想来 | TRADUÇÃO: it may be assumed that
+想倒美 | TRADUÇÃO: see 想得美
+想像 | TRADUÇÃO: to imagine; to envision/imagination
+想像力 | TRADUÇÃO: conception/imagination
+想入非非 | TRADUÇÃO: to indulge in fantasy (idiom); to let one's imagination run wild
+想出 | TRADUÇÃO: to figure out/to work out (a solution etc)/to think up/to come up with (an idea etc)
+想到 | TRADUÇÃO: to think of/to call to mind/to anticipate
+想家 | TRADUÇÃO: homesick
+想得美 | TRADUÇÃO: to have an unrealistically optimistic expectation; (as an interjection) what a dreamer!
+想得开 | TRADUÇÃO: to not take to heart/to be free of worried thoughts/to adopt a lighthearted perspective/lighthearted
+想必 | TRADUÇÃO: presumably/probably/in all likelihood/surely
+想念 | TRADUÇÃO: to miss/to remember with longing/to long to see again
+想想看 | TRADUÇÃO: to think about it
+想方设法 | TRADUÇÃO: to think up every possible method (idiom); to devise ways and means/to try this, that and the other
+想望 | TRADUÇÃO: to desire/to wish/(literary) to admire
+想法 | TRADUÇÃO: way of thinking; opinion; notion/to think of a way (to do sth)
+想当然 | TRADUÇÃO: to take sth as given; to make assumptions
+想当然尔 | TRADUÇÃO: to take sth as given/to assume/as one would expect/naturally
+想当然耳 | TRADUÇÃO: variant of 想當然爾|想当然尔
+想睡 | TRADUÇÃO: drowsy/sleepy
+想要 | TRADUÇÃO: to want to/to feel like/to fancy/to care for sb/desirous of
+想见 | TRADUÇÃO: to infer/to gather
+想象 | TRADUÇÃO: to imagine; to envision/imagination
+想象力 | TRADUÇÃO: imagination
+想起 | TRADUÇÃO: to recall/to think of/to call to mind
+想起来 | TRADUÇÃO: to remember/to recall
+想通 | TRADUÇÃO: to figure out/to realize/to become convinced/to come round (to an idea)/to get over it
+想开 | TRADUÇÃO: to get over (a shock, bereavement etc)/to avoid dwelling on unpleasant things/to accept the situation and move on
+想头 | TRADUÇÃO: (coll.) idea/hope
+惴 | TRADUÇÃO: anxious/worried
+惴惴不安 | TRADUÇÃO: to be on tenterhooks (idiom)/to be anxious and frightened
+惶 | TRADUÇÃO: (bound form) fear; dread; anxiety; trepidation
+惶恐 | TRADUÇÃO: terrified
+惶恐不安 | TRADUÇÃO: anxious/panicky
+惶惑 | TRADUÇÃO: anxious and perplexed/uneasy and confused/suspicious and fearful
+惶惶 | TRADUÇÃO: alarmed/anxious
+惶遽 | TRADUÇÃO: frightened/anxious
+蠢 | TRADUÇÃO: variant of 蠢/stupid ‖ stupid/sluggish/clumsy/to wiggle (of worms)/to move in a disorderly fashion
+惸 | TRADUÇÃO: variant of 煢|茕
+惹 | TRADUÇÃO: to provoke/to irritate/to vex/to stir up/to anger/to attract (troubles)/to cause (problems)
+惹不起 | TRADUÇÃO: can't afford to offend/dare not provoke/difficult to deal with/insufferable
+惹乱子 | TRADUÇÃO: to stir up trouble/to get into trouble
+惹事 | TRADUÇÃO: to cause trouble
+惹事生非 | TRADUÇÃO: variant of 惹是生非
+惹人 | TRADUÇÃO: to provoke (esp. annoyance, disgust etc)/to offend/to attract (attention)
+惹人厌 | TRADUÇÃO: annoying/disgusting
+惹人心烦 | TRADUÇÃO: to annoy people/to be a pain in the neck
+惹人注意 | TRADUÇÃO: to attract attention
+惹人注目 | TRADUÇÃO: to attract attention/noticeable
+惹喽子 | TRADUÇÃO: variant of 惹婁子|惹娄子
+惹娄子 | TRADUÇÃO: to stir up trouble/to bring trouble upon oneself
+惹怒 | TRADUÇÃO: to provoke anger
+惹恼 | TRADUÇÃO: to offend
+惹是生非 | TRADUÇÃO: to stir up trouble
+惹是非 | TRADUÇÃO: to stir up trouble
+惹楼子 | TRADUÇÃO: variant of 惹婁子|惹娄子
+惹毛 | TRADUÇÃO: (coll.) to irritate/to annoy/to piss sb off
+惹火 | TRADUÇÃO: to stir up the fire/fig. to provoke and offend people/to ruffle feathers
+惹火烧身 | TRADUÇÃO: stir up the fire and you get burnt (idiom); to get one's fingers burnt/fig. to suffer on account of one's own meddling
+惹眼 | TRADUÇÃO: eye-catching; conspicuous
+惹祸 | TRADUÇÃO: to stir up trouble/to invite disaster
+惹草拈花 | TRADUÇÃO: see 拈花惹草
+惹草沾花 | TRADUÇÃO: see 沾花惹草
+惹起 | TRADUÇÃO: provoke, incite/stir up/arouse (attention)
+惹麻烦 | TRADUÇÃO: to create difficulties; to be troublesome; to invite trouble
+惺 | TRADUÇÃO: (literary) to come to one's senses; to awaken/(literary) astute; sharp-witted
+惺忪 | TRADUÇÃO: drowsy-eyed/(literary) wavering; indecisive/(literary) awake; conscious; clearheaded
+惺惺 | TRADUÇÃO: (literary) awake/(literary) intelligent; clever
+惺惺作态 | TRADUÇÃO: (idiom) to put on an act
+惺惺惜惺惺 | TRADUÇÃO: see 惺惺相惜
+惺惺相惜 | TRADUÇÃO: (lit.) people of talent appreciate one another (idiom)/(fig.) to feel an affinity with (sb); to feel a bond with
+惺松 | TRADUÇÃO: variant of 惺忪
+恻 | TRADUÇÃO: sorrowful
+恻隐 | TRADUÇÃO: compassion/empathetic
+恻隐之心 | TRADUÇÃO: compassion
+愀 | TRADUÇÃO: change countenance/worry
+愁 | TRADUÇÃO: to worry about
+愁闷 | TRADUÇÃO: depressed/gloomy
+愁眉不展 | TRADUÇÃO: with a worried frown
+愁眉苦脸 | TRADUÇÃO: to look anxious (idiom)/to look miserable
+愁绪 | TRADUÇÃO: melancholy
+愁肠 | TRADUÇÃO: anxiety/worries
+愁肠百结 | TRADUÇÃO: hundred knots of worry in one's intestines (idiom); weighed down with anxiety
+愁苦 | TRADUÇÃO: anxiety/distress
+愃 | TRADUÇÃO: well-being
+愆 | TRADUÇÃO: fault/transgression ‖ old variant of 愆
+愆尤 | TRADUÇÃO: crime/offense/fault
+愆期 | TRADUÇÃO: (formal) to delay/to miss a deadline/to fail to do sth at the appointed time
+愈 | TRADUÇÃO: the more...(the more...)/to recover/to heal/better ‖ variant of 愈/to heal
+愈来愈 | TRADUÇÃO: more and more
+愈加 | TRADUÇÃO: all the more/even more/further
+愈描愈黑 | TRADUÇÃO: see 越描越黑
+愈演愈烈 | TRADUÇÃO: ever more critical/problems get more and more intense
+愈发 | TRADUÇÃO: all the more/increasingly
+愈益 | TRADUÇÃO: increasingly/more and more
+愉 | TRADUÇÃO: pleased
+愉快 | TRADUÇÃO: cheerful; happy; pleasant; delighted
+愉悦 | TRADUÇÃO: joyful/cheerful/delighted/joy/delight
+愊 | TRADUÇÃO: melancholy/sincere
+愍 | TRADUÇÃO: variant of 憫|悯
+愎 | TRADUÇÃO: perverse/obstinate/willful
+意 | TRADUÇÃO: (bound form) idea; thought; meaning; sense/(bound form) intention; feeling; inclination; state of mind/(bound form) Italy (abbr. for 意大利)
+意下如何 | TRADUÇÃO: how about it?/what do you think?
+意中 | TRADUÇÃO: according with one's wish or expectation
+意中事 | TRADUÇÃO: sth that is expected or wished for
+意中人 | TRADUÇÃO: sweetheart/one's true love/the person of one's thoughts
+意即 | TRADUÇÃO: which means/(this) means (that)
+意向 | TRADUÇÃO: intention/purpose/intent/inclination/disposition
+意向书 | TRADUÇÃO: letter of intent (LOI) (commerce)
+意味 | TRADUÇÃO: meaning/implication/flavor/overtone/to mean/to imply/(Tw) to get a sense of
+意味深长 | TRADUÇÃO: profound/significant/meaningful
+意味着 | TRADUÇÃO: to signify/to mean/to imply
+意图 | TRADUÇÃO: intent/intention/to intend
+意境 | TRADUÇÃO: artistic mood or conception/creative concept
+意外 | TRADUÇÃO: unexpected/accident/mishap/CL:個|个
+意外事故 | TRADUÇÃO: accident
+意大利 | TRADUÇÃO: Italy
+意大利人 | TRADUÇÃO: Italian person
+意大利直面 | TRADUÇÃO: spaghetti
+意大利语 | TRADUÇÃO: Italian (language)
+意大利青瓜 | TRADUÇÃO: zucchini
+意大利青酱 | TRADUÇÃO: pesto (sauce made with basil, garlic, olive oil, pine nuts and cheese)
+意大利面 | TRADUÇÃO: spaghetti; pasta
+意存笔先，画尽意在 | TRADUÇÃO: the idea is present before the first stroke of the brush, when the last stroke is placed the idea shines through
+意式 | TRADUÇÃO: Italian-style
+意式奶冻 | TRADUÇÃO: panna cotta
+意志 | TRADUÇÃO: will; willpower; determination
+意志力 | TRADUÇÃO: willpower
+意念 | TRADUÇÃO: idea/thought
+意念移物 | TRADUÇÃO: telekinesis
+意思 | TRADUÇÃO: idea/opinion/meaning/wish/desire/interest/fun/token of appreciation, affection etc/CL:個|个/to give as a small token/to do sth as a gesture of goodwill etc
+意思意思 | TRADUÇÃO: to do a little something as a token of one's appreciation/to express one's gratitude or esteem by treating sb to a meal or presenting a gift
+意想不到 | TRADUÇÃO: unexpected/previously unimagined
+意态 | TRADUÇÃO: bearing/attitude
+意指 | TRADUÇÃO: to mean/to imply
+意料 | TRADUÇÃO: to anticipate; to expect/expectations
+意料之中 | TRADUÇÃO: to come as no surprise/as expected
+意料之外 | TRADUÇÃO: (idiom) contrary to expectation; unexpected
+意旨 | TRADUÇÃO: intent/intention/will
+意会 | TRADUÇÃO: to sense/to grasp intuitively
+意乐 | TRADUÇÃO: joy/happiness
+意欲 | TRADUÇÃO: to intend to/intention; desire
+意气用事 | TRADUÇÃO: (idiom) to let emotions affect one's decisions
+意气相投 | TRADUÇÃO: congenial
+意气风发 | TRADUÇÃO: (idiom) high-spirited; full of mettle
+意涵 | TRADUÇÃO: (Tw) meaning; significance; import/CL:層|层
+意淫 | TRADUÇÃO: to fantasize; (esp.) to have a sexual fantasy about (sb)
+意犹未尽 | TRADUÇÃO: to wish to continue sth/to have not fully expressed oneself
+意甲 | TRADUÇÃO: Serie A, the top division of the Italian football league system
+意符 | TRADUÇÃO: semantic component of a phono-semantic character (e.g. component 刂 in 刻)
+意第绪语 | TRADUÇÃO: Yiddish language
+意义 | TRADUÇÃO: sense/meaning/significance/importance/CL:個|个
+意义变化 | TRADUÇÃO: change of meaning
+意兴 | TRADUÇÃO: interest/enthusiasm
+意兴索然 | TRADUÇÃO: to have no interest in sth
+意蕴 | TRADUÇÃO: inner meaning/implication/connotation
+意见 | TRADUÇÃO: idea/opinion/suggestion/objection/complaint/CL:點|点,條|条
+意见不合 | TRADUÇÃO: to disagree/dissent
+意见箱 | TRADUÇÃO: suggestion box
+意见领袖 | TRADUÇÃO: opinion leader
+意谓 | TRADUÇÃO: to mean/meaning
+意识 | TRADUÇÃO: consciousness; awareness/(usu. followed by 到) to be aware of; to realize
+意识到 | TRADUÇÃO: to be aware of; to realize
+意识型态 | TRADUÇÃO: variant of 意識形態|意识形态
+意识形态 | TRADUÇÃO: ideology
+意识流 | TRADUÇÃO: stream of consciousness (in literature)
+意译 | TRADUÇÃO: meaning (of foreign expression)/translation of the meaning (as opposed to literal translation 直譯|直译)/paraphrase/free translation
+意象 | TRADUÇÃO: image/imagery
+意趣 | TRADUÇÃO: interest/point of particular charm and interest
+意愿 | TRADUÇÃO: aspiration/wish (for)/desire
+意面 | TRADUÇÃO: pasta (abbr. for 意大利麵|意大利面)/(Tw) yi mein, a variety of Cantonese egg noodle
+愐 | TRADUÇÃO: shy
+愑 | TRADUÇÃO: variant of 悀
+愒 | TRADUÇÃO: to desire
+愓 | TRADUÇÃO: profligate
+愔 | TRADUÇÃO: peaceful/solemn
+愕 | TRADUÇÃO: startled
+愕然 | TRADUÇÃO: stunned/amazed
+愗 | TRADUÇÃO: used in 怐愗
+愚 | TRADUÇÃO: to be stupid/to cheat or deceive/me or I (modest)
+愚不可及 | TRADUÇÃO: impossibly stupid
+愚人 | TRADUÇÃO: stupid person/ignoramus
+愚人节 | TRADUÇÃO: April Fools' Day
+愚公移山 | TRADUÇÃO: the old man moves mountains (idiom); fig. where there's a will, there's a way
+愚妄 | TRADUÇÃO: stupid and arrogant
+愚孝 | TRADUÇÃO: unquestioning filial piety
+愚弄 | TRADUÇÃO: to make a fool out of/to fool/to dupe
+愚弱 | TRADUÇÃO: ignorant and feeble
+愚意 | TRADUÇÃO: my humble opinion
+愚懦 | TRADUÇÃO: ignorant and timid
+愚拙 | TRADUÇÃO: clumsy and stupid
+愚昧 | TRADUÇÃO: ignorant; uneducated/ignorance
+愚昧无知 | TRADUÇÃO: stupid and ignorant (idiom)
+愚民 | TRADUÇÃO: ignorant masses/to keep the people in ignorance
+愚氓 | TRADUÇÃO: fool/stupid person
+愚蒙 | TRADUÇÃO: ignorant; stupid
+愚笨 | TRADUÇÃO: stupid/clumsy
+愚蠢 | TRADUÇÃO: silly/stupid
+愚见 | TRADUÇÃO: my humble opinion
+愚钝 | TRADUÇÃO: stupid/slow-witted
+愚陋 | TRADUÇÃO: ignorant and backward
+愚顽 | TRADUÇÃO: ignorant and stubborn
+愚騃 | TRADUÇÃO: stupid/foolish
+愚鲁 | TRADUÇÃO: dull-witted; foolish
+爱 | TRADUÇÃO: to love; to be fond of; to like/affection/to be inclined (to do sth); to tend to (happen)
+爱丁堡 | TRADUÇÃO: Edinburgh, capital of Scotland
+爱上 | TRADUÇÃO: to fall in love with/to be in love with
+爱不忍释 | TRADUÇÃO: to love sth too much to part with it (idiom)
+爱不释手 | TRADUÇÃO: (idiom) to like sth so much that one is reluctant to put it down; to find sth utterly irresistible
+爱之如命 | TRADUÇÃO: to love sb (or sth) as one loves life itself
+爱人 | TRADUÇÃO: spouse (PRC)/lover (non-PRC)/CL:個|个
+爱人如己 | TRADUÇÃO: love others as self
+爱侣 | TRADUÇÃO: lovers
+爱优腾 | TRADUÇÃO: abbr. for iQiyi 愛奇藝|爱奇艺 + Youku 優酷|优酷 + Tencent 騰訊|腾讯
+爱克斯光 | TRADUÇÃO: X-ray (loanword)/Röntgen or Roentgen ray
+爱克斯射线 | TRADUÇÃO: X-ray radiation
+爱别离苦 | TRADUÇÃO: (Buddhism) the pain of parting with what (or whom) one loves, one of the eight distresses 八苦
+爱哭鬼 | TRADUÇÃO: crybaby
+爱问 | TRADUÇÃO: iAsk.com, the search engine of Sina 新浪
+爱因斯坦 | TRADUÇÃO: Albert Einstein (1879-1955), German-born theoretical physicist
+爱国 | TRADUÇÃO: to love one's country/patriotic
+爱国主义 | TRADUÇÃO: patriotism
+爱国如家 | TRADUÇÃO: to love one's country as one's own family (praise for a virtuous ruler)
+爱国者 | TRADUÇÃO: MIM-104 Patriot surface-to-air missile ‖ patriot
+爱国卫生运动委员会 | TRADUÇÃO: Patriotic Health Committee
+爱奇艺 | TRADUÇÃO: iQiyi, online video platform based in Beijing, launched in 2010
+爱奥尼亚海 | TRADUÇÃO: Ionian Sea between Italy and Greece
+爱奥华 | TRADUÇÃO: Iowa, US state
+爱奴 | TRADUÇÃO: see 阿伊努
+爱好 | TRADUÇÃO: to like; to be fond of; to take pleasure in; to be keen on/interest; hobby
+爱好者 | TRADUÇÃO: lover (of art, sports etc); amateur; enthusiast; fan
+爱子 | TRADUÇÃO: beloved son
+爱将 | TRADUÇÃO: trusted lieutenant
+爱屋及乌 | TRADUÇÃO: lit. love the house and its crow (idiom); involvement with sb and everyone connected/Love me, love my dog.
+爱屋及鸟 | TRADUÇÃO: see 愛屋及烏|爱屋及乌
+爱岗敬业 | TRADUÇÃO: devoted to one's work
+爱巢 | TRADUÇÃO: love nest
+爱彼迎 | TRADUÇÃO: Airbnb
+爱得死去活来 | TRADUÇÃO: to be madly in love
+爱德 | TRADUÇÃO: Aide (brand)
+爱德斯沃尔 | TRADUÇÃO: Eidsvoll (city in Norway)
+爱德玲 | TRADUÇÃO: Adeline (name)
+爱德华 | TRADUÇÃO: Edward/Édouard (name)
+爱德华·达拉第 | TRADUÇÃO: Édouard Daladier (1884-1970), French politician
+爱德华岛 | TRADUÇÃO: Prince Edward Island, province of Canada
+爱德华王子岛 | TRADUÇÃO: Prince Edward Island (province of Canada)
+爱德华兹 | TRADUÇÃO: (name) Edwards
+爱德蒙 | TRADUÇÃO: (name) Edmund; Edmond
+爱心 | TRADUÇÃO: compassion/kindness/care for others/love/CL:片/charity (bazaar, golf day etc)/heart (the symbol ♥)
+爱心伞 | TRADUÇÃO: courtesy umbrella (one made available for borrowing)
+爱恨交加 | TRADUÇÃO: to feel a mixture of love and hate
+爱恨交织 | TRADUÇÃO: mixture of love and hate
+爱情 | TRADUÇÃO: romance; love (romantic)/CL:份
+爱情喜剧 | TRADUÇÃO: romantic comedy
+爱情片 | TRADUÇÃO: romance film
+爱惜 | TRADUÇÃO: to cherish/to treasure/to use sparingly
+爱惜羽毛 | TRADUÇÃO: (idiom) to cherish one's reputation
+爱意 | TRADUÇÃO: love
+爱爱 | TRADUÇÃO: (coll.) to make love
+爱慕 | TRADUÇÃO: to adore/to admire
+爱慕虚荣 | TRADUÇÃO: vain
+爱憎 | TRADUÇÃO: love and hate
+爱憎分明 | TRADUÇÃO: to make a clear difference between what one likes and what one hates/to have well-defined likes and dislikes
+爱怜 | TRADUÇÃO: to show tenderness/to coo over/affection
+爱恋 | TRADUÇÃO: in love with/to feel deeply attached to
+爱戴 | TRADUÇÃO: to love and respect/love and respect
+爱才 | TRADUÇÃO: to value talent; to cherish talented people
+爱才若渴 | TRADUÇÃO: (idiom) to be eager to surround oneself with talented people
+爱抚 | TRADUÇÃO: to caress/to fondle/to look after (tenderly)/affectionate care
+爱斯基摩 | TRADUÇÃO: Eskimo
+爱新觉罗 | TRADUÇÃO: Aisin Gioro, family name of the Manchu emperors of the Qing dynasty
+爱昵 | TRADUÇÃO: intimate/loving
+爱晚亭 | TRADUÇÃO: Aiwan Pavilion, on Mt Yuelu 岳麓山 in Hubei, famous beauty spot
+爱普生 | TRADUÇÃO: Epson, Japanese electronics company
+爱乐 | TRADUÇÃO: philharmonic (used in names of orchestras)/to love music (used in compounds like 愛樂者|爱乐者 "music enthusiast")
+爱乐乐团 | TRADUÇÃO: philharmonic orchestra
+爱死病 | TRADUÇÃO: nonstandard, stigmatizing transliteration of "AIDS", now replaced by 艾滋病
+爱民 | TRADUÇÃO: see 愛民區|爱民区
+爱民区 | TRADUÇÃO: Aimin, a district of Mudanjiang City 牡丹江市, Heilongjiang
+爱民如子 | TRADUÇÃO: (idiom) to love the common people as one's own children (praise for a virtuous ruler)
+爱沙尼亚 | TRADUÇÃO: Estonia
+爱河 | TRADUÇÃO: the river of love/a stumbling block on the path to enlightenment (Buddhism)
+爱港 | TRADUÇÃO: to love Hong Kong (usually implying that one also supports the PRC government)
+爱滋 | TRADUÇÃO: AIDS (loanword)/see also 愛滋病|爱滋病
+爱滋病 | TRADUÇÃO: variant of 艾滋病
+爱滋病毒 | TRADUÇÃO: HIV/the AIDS virus
+爱漂亮 | TRADUÇÃO: to like looking attractive (usually of girls)/aestheticism
+爱尔兰 | TRADUÇÃO: Ireland
+爱尔兰人 | TRADUÇÃO: Irish person
+爱尔兰共和国 | TRADUÇÃO: Republic of Ireland
+爱尔兰共和军 | TRADUÇÃO: Irish Republican Army (IRA)
+爱尔兰海 | TRADUÇÃO: Irish Sea between Ireland and north England
+爱尔兰语 | TRADUÇÃO: Irish language
+爱犬 | TRADUÇÃO: beloved pet dog
+爱玉 | TRADUÇÃO: see 愛玉子|爱玉子
+爱玉冰 | TRADUÇÃO: jelly snack made by kneading jelly fig seeds 愛玉子|爱玉子 in water and combining with flavorings (popular in Taiwan and Singapore)
+爱玉冻 | TRADUÇÃO: see 愛玉冰|爱玉冰
+爱玉子 | TRADUÇÃO: jelly fig seed (Ficus pumila var. awkeotsang)
+爱现 | TRADUÇÃO: (coll.) to enjoy showing off
+爱理不理 | TRADUÇÃO: (idiom) standoffish; indifferent
+爱琴海 | TRADUÇÃO: Aegean Sea
+爱玛 | TRADUÇÃO: Emma (name)
+爱玛·沃特森 | TRADUÇÃO: Emma Watson (1990-), British actress
+爱留根纳 | TRADUÇÃO: Eriugena, John Scottus (c. 810-880) Irish poet, theologian, and philosopher of Neoplatonism
+爱疯 | TRADUÇÃO: iPhone (slang)
+爱知 | TRADUÇÃO: Aichi (prefecture in Japan)
+爱神 | TRADUÇÃO: god of love
+爱称 | TRADUÇÃO: term of endearment/pet name/diminutive
+爱窝窝 | TRADUÇÃO: variant of 艾窩窩|艾窝窝
+爱立信 | TRADUÇÃO: Ericsson (Swedish telecommunications company)
+爱经 | TRADUÇÃO: Kama Sutra
+爱维养 | TRADUÇÃO: Evian, mineral water company (Tw)
+爱罗先珂 | TRADUÇÃO: Vasili Eroshenko (1890-1952), Russian writer and poet who wrote in Esperanto and Japanese
+爱美 | TRADUÇÃO: to pay attention to one's appearance; to like to be well-groomed/(literary) on very friendly terms
+爱美之心，人皆有之 | TRADUÇÃO: everyone loves beauty (idiom)
+爱耳日 | TRADUÇÃO: Ear Care Day (March 3)
+爱荷华 | TRADUÇÃO: Iowa, US state (Tw)
+爱莉丝 | TRADUÇÃO: (name) Alice
+爱莫利维尔 | TRADUÇÃO: Emeryville, city on San Fransico Bay, California
+爱莫能助 | TRADUÇÃO: unable to help however much one would like to (idiom); Although we sympathize, there is no way to help you./My hands are tied.
+爱卫会 | TRADUÇÃO: Patriotic Health Committee (abbr. for 愛國衛生運動委員會|爱国卫生运动委员会)
+爱词霸 | TRADUÇÃO: iCIBA, online dictionary by Kingsoft
+爱谁谁 | TRADUÇÃO: (coll.) whatever/who cares
+爱护 | TRADUÇÃO: to cherish/to treasure/to take care of/to love and protect
+爱豆 | TRADUÇÃO: (loanword) (coll.) idol
+爱财 | TRADUÇÃO: avaricious
+爱财如命 | TRADUÇÃO: lit. to love money as much as one's own life (idiom)/fig. avaricious/tightfisted
+爱辉 | TRADUÇÃO: see 愛輝區|爱辉区
+爱辉区 | TRADUÇÃO: Aihui, a district of Heihe City 黑河市, Heilongjiang
+爱迪生 | TRADUÇÃO: Edison (name)/Thomas Alva Edison (1847-1931), American inventor and businessman
+爱达荷 | TRADUÇÃO: Idaho, US state
+爱面子 | TRADUÇÃO: to like to look good in the eyes of others; sensitive about how one is regarded by others; proud
+爱马仕 | TRADUÇÃO: Hermès (brand)
+爱丽斯泉 | TRADUÇÃO: Alice Springs, town in central Australia (Tw)
+爱丽丝 | TRADUÇÃO: (name) Alice
+爱丽丝泉 | TRADUÇÃO: Alice Springs, town in central Australia
+爱丽丝漫游奇境记 | TRADUÇÃO: Alice in Wonderland
+爱丽舍宫 | TRADUÇÃO: Elysée Palace, the residence of the president of the French Republic
+爱默生 | TRADUÇÃO: Ralph Waldo Emerson (1803-1882), American poet, essayist, and philosopher
+惬意 | TRADUÇÃO: satisfied; pleased; contented
+感 | TRADUÇÃO: to feel/to move/to touch/to affect/feeling/emotion/(suffix) sense of ~
+感人 | TRADUÇÃO: touching; moving
+感人肺腑 | TRADUÇÃO: (idiom) deeply touching
+感人至深 | TRADUÇÃO: (idiom) deeply touching
+感佩 | TRADUÇÃO: to admire with gratitude
+感伤 | TRADUÇÃO: sad/downhearted/sentimental/pathos/melancholy
+感光 | TRADUÇÃO: light-sensitive
+感光鼓 | TRADUÇÃO: toner cartridge
+感冒 | TRADUÇÃO: to catch cold/(common) cold/CL:場|场,次/(coll.) to be interested in (often used in the negative)/(Tw) to detest/can't stand
+感冒药 | TRADUÇÃO: medicine for colds
+感到 | TRADUÇÃO: to feel; to sense; to perceive
+感动 | TRADUÇÃO: to move (sb)/to touch (sb emotionally)/moving
+感化 | TRADUÇÃO: corrective influence/to reform (a criminal)/redemption (of a sinner)/to influence (a malefactor to a better life)/to guide sb back to the right path by repeated word and example
+感化院 | TRADUÇÃO: reformatory/reform school
+感受 | TRADUÇÃO: to sense/perception/to feel (through the senses)/to experience/a feeling/an impression/an experience
+感受器 | TRADUÇÃO: sensory receptor
+感召 | TRADUÇÃO: to move and appeal/to rally to a cause/to impel/to inspire
+感召力 | TRADUÇÃO: appeal/attraction/charisma
+感同身受 | TRADUÇÃO: to feel as if it had happened to oneself/to sympathize/(polite expression of gratitude for a favor received by a friend etc) I take it as a personal favor
+感喟 | TRADUÇÃO: sighing with emotion
+感叹 | TRADUÇÃO: to sigh (with feeling)/to lament
+感叹句 | TRADUÇÃO: exclamation/exclamatory phrase
+感叹号 | TRADUÇÃO: exclamation point; exclamation mark (!)
+感叹词 | TRADUÇÃO: interjection (part of speech)/exclamation
+感叹语 | TRADUÇÃO: exclamation/expletive
+感天动地 | TRADUÇÃO: (idiom) deeply affecting
+感奋 | TRADUÇÃO: moved and inspired/fired with enthusiasm
+感官 | TRADUÇÃO: sense/sense organ
+感念 | TRADUÇÃO: to recall fondly/to remember with emotion
+感性 | TRADUÇÃO: perception/perceptual/sensibility/sensitive/emotional/sentimental
+感性工学 | TRADUÇÃO: kansei engineering (product design that aims to engender specific subjective responses in the consumer) (orthographic borrowing from Japanese 感性工学 "kansei kougaku")
+感性认识 | TRADUÇÃO: perceptual awareness
+感恩 | TRADUÇÃO: to be grateful
+感恩图报 | TRADUÇÃO: grateful and seeking to repay the kindness (idiom)
+感恩戴德 | TRADUÇÃO: deeply grateful
+感恩节 | TRADUÇÃO: Thanksgiving Day
+感悟 | TRADUÇÃO: to come to realize/to appreciate (feelings)
+感情 | TRADUÇÃO: emotion; sentiment/affection; feelings between two persons
+感情史 | TRADUÇÃO: romantic history; romantic past
+感情用事 | TRADUÇÃO: to act impetuously (idiom); on an impulse
+感想 | TRADUÇÃO: impressions/reflections/thoughts/CL:通,個|个
+感愧 | TRADUÇÃO: to feel gratitude mixed with shame
+感慨 | TRADUÇÃO: to sigh with sorrow, regret etc/rueful/deeply moved
+感愤 | TRADUÇÃO: moved to anger/indignant
+感应 | TRADUÇÃO: response/reaction/interaction/irritability (biol.)/induction (elec.)/inductance
+感应器 | TRADUÇÃO: inductor (elec.)
+感应线圈 | TRADUÇÃO: induction coil/solenoid
+感怀 | TRADUÇÃO: to recall with emotion/to feel sentiments
+感戴 | TRADUÇÃO: sincerely grateful
+感染 | TRADUÇÃO: to infect; infection/(fig.) to influence
+感染人数 | TRADUÇÃO: number of infected persons
+感染力 | TRADUÇÃO: infectiousness (of a disease)/appeal; power; impact (of an image, marketing message, performance etc)
+感染性腹泻 | TRADUÇÃO: infective diarrhea
+感染率 | TRADUÇÃO: rate of infection (usu. of a disease)
+感染者 | TRADUÇÃO: infected person
+感测器 | TRADUÇÃO: (Tw) sensor
+感激 | TRADUÇÃO: to be grateful/to appreciate/thankful
+感激不尽 | TRADUÇÃO: can't thank sb enough (idiom)
+感激涕零 | TRADUÇÃO: to shed tears of gratitude (idiom); moved to tears
+感生 | TRADUÇÃO: (mythology) to conceive or give birth by non-sexual or divine means/(physics) induced (magnetic field, current etc)
+感发 | TRADUÇÃO: to move and inspire
+感知 | TRADUÇÃO: perception (the process of perceiving sth with the senses)/to sense; to feel; to detect; to be aware of
+感知力 | TRADUÇÃO: perceptivity
+感兴趣 | TRADUÇÃO: to be interested
+感觉 | TRADUÇÃO: feeling; impression; sensation/to feel; to perceive
+感觉到 | TRADUÇÃO: to feel/to sense/to detect/to perceive/to become aware
+感觉器 | TRADUÇÃO: sense organ
+感觉器官 | TRADUÇÃO: sense organs/the five senses
+感触 | TRADUÇÃO: one's thoughts and feelings/emotional stirring/moved/touched
+感谢 | TRADUÇÃO: to thank; to be grateful
+感质 | TRADUÇÃO: qualia (philosophy)
+感遇 | TRADUÇÃO: gratitude for good treatment/to sigh/to lament
+感遇诗 | TRADUÇÃO: a lament (poem)
+愣 | TRADUÇÃO: to look distracted/to stare blankly/distracted/blank/(coll.) unexpectedly/rash/rashly
+愣劲儿 | TRADUÇÃO: dash/pep/vigor
+愣干 | TRADUÇÃO: to do things recklessly/to persist in doing sth in one's own way
+愣神儿 | TRADUÇÃO: to stare blankly/to be in a daze
+愣说 | TRADUÇÃO: (coll.) to insist; to allege; to assert
+愣头愣脑 | TRADUÇÃO: rash/impetuous/reckless
+愣头青 | TRADUÇÃO: reckless young person
+愧不敢当 | TRADUÇÃO: lit. I'm ashamed and dare not (accept the honor); fig. I do not deserve your praise./You flatter me too much.
+愧对 | TRADUÇÃO: to be ashamed to face (sb)/to feel bad about having failed (sb)
+愧怍 | TRADUÇÃO: ashamed
+愧恨 | TRADUÇÃO: ashamed and sorry/suffering shame and remorse
+愧悔无地 | TRADUÇÃO: ashamed and unable to show one's face (idiom)
+愧汗 | TRADUÇÃO: sweating from shame/extremely ashamed
+愧疚 | TRADUÇÃO: to feel guilty; to feel ashamed of oneself; to be remorseful
+愧色 | TRADUÇÃO: ashamed look
+愧赧 | TRADUÇÃO: to blush in shame/red-faced
+悫 | TRADUÇÃO: honest ‖ honest
+愫 | TRADUÇÃO: guileless/sincere
+诉 | TRADUÇÃO: variant of 訴|诉 ‖ to complain/to sue/to tell
+愭 | TRADUÇÃO: (literary) deferential/to revere
+愮 | TRADUÇÃO: distressed, agitated
+愯 | TRADUÇÃO: old variant of 悚
+怆 | TRADUÇÃO: mournful/sad/grieved/sorry
+恺 | TRADUÇÃO: joyful/kind
+恺弟 | TRADUÇÃO: variant of 愷悌|恺悌
+恺彻 | TRADUÇÃO: variant of 愷撒|恺撒, Caesar (emperor) used by Yan Fu 嚴復|严复
+恺悌 | TRADUÇÃO: happy and easygoing/friendly
+恺撒 | TRADUÇÃO: Caesar (name)/Gaius Julius Caesar 100-42 BC/by extension, emperor, Kaiser, Tsar
+愼 | TRADUÇÃO: variant of 慎
+忾 | TRADUÇÃO: anger
+愿 | TRADUÇÃO: honest and prudent/variant of 願|愿 ‖ (bound form) wish; hope; desire/to be willing/to wish (that sth may happen); may .../vow; pledge
+慁 | TRADUÇÃO: confused/dishonor
+栗 | TRADUÇÃO: (literary) cold; chilly/(bound form) to tremble with fear ‖ surname Li ‖ chestnut
+栗然 | TRADUÇÃO: (literary) shivering/shuddering
+慅 | TRADUÇÃO: agitated
+慆 | TRADUÇÃO: rejoice
+慇 | TRADUÇÃO: solicitous
+慈 | TRADUÇÃO: compassionate/gentle/merciful/kind/humane
+慈利 | TRADUÇÃO: see 慈利縣|慈利县
+慈利县 | TRADUÇÃO: Cili, a county in Zhangjiajie City 張家界市|张家界市, Hunan
+慈和 | TRADUÇÃO: kindly/amiable
+慈善 | TRADUÇÃO: benevolent/charitable
+慈善家 | TRADUÇÃO: philanthropist/humanitarian/charity donor
+慈善抽奖 | TRADUÇÃO: a raffle (for charity)
+慈善机构 | TRADUÇÃO: charity
+慈善组织 | TRADUÇÃO: charity organization
+慈姑 | TRADUÇÃO: arrowhead (Sagittaria subulata, a water plant)
+慈安太后 | TRADUÇÃO: Empress Dowager Ci'an (1837-1881) of Qing
+慈恩宗 | TRADUÇÃO: see 法相宗
+慈悲 | TRADUÇÃO: mercy
+慈悲为本 | TRADUÇÃO: mercy as the guiding principle (idiom); the Buddhist teaching that nothing is valid except compassion
+慈爱 | TRADUÇÃO: love/devotion (to children)/affection, esp. towards children
+慈母 | TRADUÇÃO: warm, caring mother
+慈江道 | TRADUÇÃO: Chagang province, in the north of North Korea
+慈溪 | TRADUÇÃO: see 慈溪市
+慈溪市 | TRADUÇÃO: Cixi, a county-level city in Ningbo City 寧波市|宁波市, Zhejiang
+慈济 | TRADUÇÃO: Tzu Chi Foundation, an international humanitarian NGO established in 1966 in Taiwan
+慈照寺 | TRADUÇÃO: Jishōji in northeast Kyōto 京都, Japan, the official name of Ginkakuji or Silver pavilion 銀閣寺|银阁寺
+慈眉善目 | TRADUÇÃO: (idiom) kind-looking; benevolent-looking
+慈眉善眼 | TRADUÇÃO: see 慈眉善目
+慈石 | TRADUÇÃO: variant of 磁石
+慈祥 | TRADUÇÃO: kindly/benevolent (often of older person)
+慈福行动 | TRADUÇÃO: Operation Blessing (charitable relief organization)
+慈禧 | TRADUÇÃO: Empress Dowager Cixi or Ts'u Hsi (reigned 1861-1908)
+慈禧太后 | TRADUÇÃO: Empress Dowager Cixi or Ts'u Hsi (1835-1908), regent 1861-1908
+慈蔼 | TRADUÇÃO: (of demeanor or expression) kindly; benevolent
+慈颜 | TRADUÇÃO: one's mother's loving face
+慉 | TRADUÇÃO: to foster/to bear
+慊 | TRADUÇÃO: dissatisfied ‖ contented
+态 | TRADUÇÃO: (bound form)/appearance/shape/form/state/attitude/(grammar) voice
+态势 | TRADUÇÃO: posture/situation
+态子 | TRADUÇÃO: state of matter (solid, liquid or gas)
+态射 | TRADUÇÃO: (math.) morphism
+态度 | TRADUÇÃO: manner/bearing/attitude/approach/CL:個|个
+态样 | TRADUÇÃO: form/pattern
+态叠加 | TRADUÇÃO: superposition of states (quantum mechanics)
+慌 | TRADUÇÃO: to get panicky; to lose one's head/(coll.) (after 得) unbearably; terribly
+慌乱 | TRADUÇÃO: frenetic/hurried
+慌张 | TRADUÇÃO: flustered/agitated
+慌得 | TRADUÇÃO: hurriedly/in a frenzy
+慌忙 | TRADUÇÃO: in a great rush/in a flurry
+慌成一团 | TRADUÇÃO: (of a group of people) to run about helplessly
+慌神 | TRADUÇÃO: to get agitated/to panic
+慌里慌张 | TRADUÇÃO: flustered; in a panic
+愠 | TRADUÇÃO: indignant/feel hurt
+愠怒 | TRADUÇÃO: inwardly angry/indignant/sulking/sullen
+慎 | TRADUÇÃO: careful/cautious ‖ old variant of 慎
+慎入 | TRADUÇÃO: keep away!/proceed with caution!
+慎密 | TRADUÇÃO: cautious/with meticulous care
+慎独 | TRADUÇÃO: to preserve a proper behavior in private life
+慎终追远 | TRADUÇÃO: to pay careful attention to one's parents' funerary rites
+慎言 | TRADUÇÃO: to speak cautiously/to guard one's tongue
+慎重 | TRADUÇÃO: cautious/careful/prudent
+慎重其事 | TRADUÇÃO: to treat a matter with due consideration (idiom)
+慕 | TRADUÇÃO: to admire
+慕名 | TRADUÇÃO: to admire sb's reputation/to seek out famous person or location
+慕名而来 | TRADUÇÃO: to come to a place on account of its reputation (idiom); attracted to visit a famous location
+慕士塔格峰 | TRADUÇÃO: Muztagh Ata, second highest peak of the Pamir Mountains
+慕容 | TRADUÇÃO: a branch of the Xianbei 鮮卑|鲜卑 nomadic people/two-character surname Murong
+慕尼黑 | TRADUÇÃO: München or Munich, capital of Bavaria, Germany
+慕斯 | TRADUÇÃO: (loanword) (cuisine) mousse
+慕洋犬 | TRADUÇÃO: (slang) (derog.) person who uncritically admires the West, esp. Western liberal ideals, and criticizes China by those standards
+慕田峪 | TRADUÇÃO: Mutianyu, well-preserved section of the Great Wall 70km from Beijing
+慕丝 | TRADUÇÃO: (Tw) (loanword) mousse (cosmetic or hairstyling product)
+慕课 | TRADUÇÃO: MOOC (massive open online course) (loanword)
+慕道友 | TRADUÇÃO: religious investigator
+惨 | TRADUÇÃO: miserable/wretched/cruel/inhuman/disastrous/tragic/dim/gloomy
+惨不忍睹 | TRADUÇÃO: lit. so horrible that one cannot bear to look (idiom)/fig. miserable; horrendous; atrocious
+惨不忍闻 | TRADUÇÃO: (idiom) dreadful to hear
+惨事 | TRADUÇÃO: disaster
+惨剧 | TRADUÇÃO: tragedy/calamity/atrocity
+惨叫 | TRADUÇÃO: to scream/blood-curdling screech/miserable shriek
+惨境 | TRADUÇÃO: wretched situation
+惨怛 | TRADUÇÃO: grieved/distressed
+惨戮 | TRADUÇÃO: (literary) to massacre; to slaughter; to brutally kill
+惨败 | TRADUÇÃO: to suffer a crushing defeat
+惨景 | TRADUÇÃO: wretched sight
+惨案 | TRADUÇÃO: massacre/tragedy/CL:起
+惨死 | TRADUÇÃO: to die tragically/to meet with a violent death
+惨杀 | TRADUÇÃO: to slaughter/to kill mercilessly
+惨毒 | TRADUÇÃO: cruel/vicious
+惨况 | TRADUÇÃO: tragic situation; dreadful state
+惨淡 | TRADUÇÃO: dark/gloomy/dismal/by painstaking effort
+惨淡经营 | TRADUÇÃO: to manage by painstaking effort (idiom)
+惨澹 | TRADUÇÃO: variant of 慘淡|惨淡
+惨烈 | TRADUÇÃO: bitter/desperate
+惨无人道 | TRADUÇÃO: inhuman (idiom)/brutal and unfeeling
+惨然 | TRADUÇÃO: grieved/distressed
+惨状 | TRADUÇÃO: devastation/miserable condition
+惨痛 | TRADUÇÃO: bitter/painful/deeply distressed
+惨白 | TRADUÇÃO: deathly pale
+惨祸 | TRADUÇÃO: terrible tragedy/grave mishap
+惨笑 | TRADUÇÃO: bitter smile
+惨红 | TRADUÇÃO: dark red
+惨绝人寰 | TRADUÇÃO: extremely tragic (idiom); with unprecedented brutality
+惨变 | TRADUÇÃO: calamitous turn of events/(of one's complexion) to change markedly due to shock, illness etc; to turn deathly pale
+惨遭 | TRADUÇÃO: to suffer (defeat, death etc)
+惨遭不幸 | TRADUÇÃO: to meet with disaster/to die tragically
+惨酷 | TRADUÇÃO: (literary) cruel; savage; merciless
+惨重 | TRADUÇÃO: disastrous
+惭 | TRADUÇÃO: variant of 慚|惭 ‖ ashamed
+惭愧 | TRADUÇÃO: ashamed
+慜 | TRADUÇÃO: clever/old variant of 愍
+慝 | TRADUÇÃO: evil thought
+恸 | TRADUÇÃO: grief
+慢 | TRADUÇÃO: slow
+慢动作 | TRADUÇÃO: (cinema) slow motion
+慢化剂 | TRADUÇÃO: moderator
+慢半拍 | TRADUÇÃO: (music) a half-beat behind/(fig.) rather slow (in performing a task, comprehending etc)
+慢吞吞 | TRADUÇÃO: very slow/exasperatingly slow
+慢城市 | TRADUÇÃO: slow-paced town
+慢工出巧匠 | TRADUÇÃO: patient work makes a skilled craftsman
+慢工出细货 | TRADUÇÃO: patient work makes a fine product
+慢待 | TRADUÇÃO: to slight (treat badly)
+慢性 | TRADUÇÃO: slow and patient/chronic (disease)/slow to take effect (e.g. a slow poison)
+慢性子 | TRADUÇÃO: slow-tempered/phlegmatic/a slowcoach
+慢性疲劳症候群 | TRADUÇÃO: chronic fatigue syndrome (CFS)
+慢性疼痛 | TRADUÇÃO: chronic pain
+慢性疾病 | TRADUÇÃO: chronic illness/disease that takes effect slowly
+慢性病 | TRADUÇÃO: chronic disease
+慢性阻塞性肺病 | TRADUÇÃO: chronic obstructive pulmonary disease (COPD)
+慢悠悠 | TRADUÇÃO: unhurried
+慢慢 | TRADUÇÃO: slowly; gradually
+慢慢来 | TRADUÇÃO: take your time/take it easy
+慢慢吃 | TRADUÇÃO: Enjoy your meal!/Bon appetit!
+慢慢吞吞 | TRADUÇÃO: very slow
+慢板 | TRADUÇÃO: slow tempo/adagio
+慢条斯理 | TRADUÇÃO: unhurried/calm/composed/leisurely
+慢步 | TRADUÇÃO: at a slow pace
+慢火 | TRADUÇÃO: low heat (cooking)
+慢热 | TRADUÇÃO: slow to heat up/(fig.) (of a person) reserved; introverted; slow to develop relationships; (of a product etc) to take time to become popular; (sports) slow to reach peak performance
+慢热型 | TRADUÇÃO: slow to get started
+慢班 | TRADUÇÃO: remedial stream (in school)
+慢生活 | TRADUÇÃO: slow living
+慢用 | TRADUÇÃO: same as 慢慢吃
+慢碳 | TRADUÇÃO: slow carbs; low-GI carbohydrates
+慢行 | TRADUÇÃO: to walk slowly
+慢行道 | TRADUÇÃO: slow lane
+慢说 | TRADUÇÃO: not to mention ... (i.e. in addition to sth)
+慢走 | TRADUÇÃO: Stay a bit!/Wait a minute!/(to a departing guest) Take care!
+慢跑 | TRADUÇÃO: jogging/to jog/to canter/a slow trot
+慢车 | TRADUÇÃO: local bus or train/slow train with many stops
+慢速 | TRADUÇÃO: slow; low-speed
+慢速摄影 | TRADUÇÃO: slow shutter speed photography
+慢镜头 | TRADUÇÃO: (cinema) slow motion
+慢长 | TRADUÇÃO: extremely long/unending
+慢腾腾 | TRADUÇÃO: leisurely/unhurried/sluggish
+惯 | TRADUÇÃO: accustomed to/used to/indulge/to spoil (a child)
+惯例 | TRADUÇÃO: convention/usual practice
+惯偷 | TRADUÇÃO: habitual thief
+惯坏 | TRADUÇÃO: to spoil (a child)
+惯家 | TRADUÇÃO: (usually derog.) an old hand at sth
+惯常 | TRADUÇÃO: usual/customary
+惯性 | TRADUÇÃO: (physics) inertia/(fig.) force of habit/tendency to do things in the accustomed way/habitual
+惯性系 | TRADUÇÃO: inertial system/inertial frame (mechanics)
+惯有 | TRADUÇÃO: customary; usual
+惯犯 | TRADUÇÃO: recidivist/habitual criminal
+惯用 | TRADUÇÃO: to use habitually/habitual/customary
+惯用手 | TRADUÇÃO: dominant hand
+惯用语 | TRADUÇÃO: commonly used phrase/idiom/colloquial usage
+惯窃 | TRADUÇÃO: habitual thief
+惯贼 | TRADUÇÃO: habitual thief
+惯量 | TRADUÇÃO: inertia (mechanics)
+惯养 | TRADUÇÃO: to spoil/to indulge sb (usu. a child)
+慥 | TRADUÇÃO: sincere
+慧 | TRADUÇÃO: intelligent
+慧星 | TRADUÇÃO: variant of 彗星
+慧眼 | TRADUÇÃO: an all-seeing mind/mental perception/insight/acumen
+慧能 | TRADUÇÃO: Huineng (638-713), the Sixth Patriarch of Chan Buddhism
+慧黠 | TRADUÇÃO: intelligent/bright/sharp
+慨叹 | TRADUÇÃO: to sigh with regret/lament
+怄 | TRADUÇÃO: to annoy/to irritate/to be annoyed/to sulk
+怄气 | TRADUÇÃO: to sulk/to squabble
+怂 | TRADUÇÃO: variant of 㞞|𪨊 ‖ used in 慫恿|怂恿/(literary) terrified
+怂恿 | TRADUÇÃO: to instigate; to incite; to urge; to encourage
+慬 | TRADUÇÃO: (literary) brave/worried/distressed
+虑 | TRADUÇÃO: to think over/to consider/anxiety
+虑病症 | TRADUÇÃO: hypochondria
+慰 | TRADUÇÃO: to comfort/to console/to reassure
+慰劳 | TRADUÇÃO: to show appreciation (by kind words, small gifts etc)/to comfort
+慰唁 | TRADUÇÃO: to console
+慰问 | TRADUÇÃO: to express sympathy, greetings, consolation etc
+慰问金 | TRADUÇÃO: condolence payment; compensation given in cases of bereavement, serious injury or hardship
+慰安妇 | TRADUÇÃO: comfort woman (woman or girl forced into sex slavery by the Japanese military 1937-1945) (orthographic borrowing from Japanese 慰安婦 "ianfu")
+慰藉 | TRADUÇÃO: to console; to comfort
+慱 | TRADUÇÃO: sad
+悭 | TRADUÇÃO: stingy
+悭俭 | TRADUÇÃO: miserly; stingy
+悭吝 | TRADUÇÃO: (literary) miserly; stingy
+慑 | TRADUÇÃO: variant of 懾|慑/Taiwan pr. [zhe2] ‖ (bound form) to fear; to be cowed/(bound form) to frighten; to intimidate/Taiwan pr. [zhe2]
+慵 | TRADUÇÃO: lethargic
+慵懒 | TRADUÇÃO: languid/indolent
+庆 | TRADUÇÃO: to celebrate
+庆元 | TRADUÇÃO: see 慶元縣|庆元县
+庆元县 | TRADUÇÃO: Qingyuan, a county in Lishui City 麗水市|丽水市, Zhejiang
+庆典 | TRADUÇÃO: celebration
+庆功 | TRADUÇÃO: to celebrate a heroic deed
+庆城 | TRADUÇÃO: see 慶城縣|庆城县
+庆城县 | TRADUÇÃO: Qingcheng, a county in Qingyang City 慶陽市|庆阳市, Gansu
+庆大霉素 | TRADUÇÃO: (pharmacology) gentamicin
+庆安 | TRADUÇÃO: see 慶安縣|庆安县
+庆安县 | TRADUÇÃO: Qing'an, a county in Suihua City 綏化市|绥化市, Heilongjiang
+庆尚北道 | TRADUÇÃO: North Gyeongsang Province, in east South Korea, capital Daegu 大邱
+庆尚南道 | TRADUÇÃO: South Gyeongsang Province, in southeast South Korea, capital Changwon 昌原
+庆尚道 | TRADUÇÃO: Gyeongsang Province of Joseon Korea, now divided into North Gyeongsang Province 慶尚北道|庆尚北道 and South Gyeongsang Province 慶尚南道|庆尚南道
+庆州 | TRADUÇÃO: Qingzhou, ancient northern province/Gyeongju City, South Korea
+庆幸 | TRADUÇÃO: to rejoice; to be glad
+庆历新政 | TRADUÇÃO: failed reform of Northern Song government in 1043
+庆生 | TRADUÇÃO: to celebrate a birthday
+庆祝 | TRADUÇÃO: to celebrate
+庆祝会 | TRADUÇÃO: celebration
+庆贺 | TRADUÇÃO: to congratulate/to celebrate
+庆阳 | TRADUÇÃO: see 慶陽市|庆阳市
+庆阳市 | TRADUÇÃO: Qingyang, prefecture-level city in Gansu Province 甘肅省|甘肃省
+庆云 | TRADUÇÃO: see 慶雲縣|庆云县
+庆云县 | TRADUÇÃO: Qingyun, a county in Dezhou City 德州市, Shandong
+慷 | TRADUÇÃO: used in 慷慨
+慷慨 | TRADUÇÃO: vehement; fervent/generous; magnanimous
+慷慨捐生 | TRADUÇÃO: sacrificing one's life generously (idiom); to sacrifice oneself fervently to the cause
+慷慨激昂 | TRADUÇÃO: impassioned/vehement
+慷慨解囊 | TRADUÇÃO: to contribute generously (idiom); help sb generously with money/to give generously to charity
+慷慨赴义 | TRADUÇÃO: heroically sacrificing one's life (idiom); to sacrifice oneself fervently to the cause
+慷慨输将 | TRADUÇÃO: to donate generously (idiom)
+戚 | TRADUÇÃO: variant of 戚/grief/sorrow ‖ variant of 慼|戚 ‖ surname Qi ‖ (bound form) relatives; kin/(bound form) grief; sorrow/(old) battle-axe
+戚戚 | TRADUÇÃO: sorrowful/distressed ‖ intimate/closely related/sorrowful/distressed
+欲 | TRADUÇÃO: desire/appetite/passion/lust/greed ‖ to wish for/to desire/variant of 慾|欲
+欲壑难填 | TRADUÇÃO: (idiom) insatiably greedy
+欲望 | TRADUÇÃO: desire; longing; appetite; craving
+欲火 | TRADUÇÃO: lust
+欲火焚身 | TRADUÇÃO: burning with desire
+慿 | TRADUÇÃO: old variant of 憑|凭
+憀 | TRADUÇÃO: to rely on
+忧 | TRADUÇÃO: to worry/to concern oneself with/worried/anxiety/sorrow/(literary) to observe mourning
+忧伤 | TRADUÇÃO: distressed/laden with grief
+忧容 | TRADUÇÃO: (literary) worried facial expression
+忧心 | TRADUÇÃO: concerned/worried/disturbed/anxious
+忧心忡忡 | TRADUÇÃO: deeply worried and sick at heart (idiom)
+忧思 | TRADUÇÃO: to be anxious and worried/agitated/pensive
+忧悒 | TRADUÇÃO: anxious/distressed/burdened with care
+忧患 | TRADUÇÃO: suffering/misery/hardship
+忧闷 | TRADUÇÃO: depressed/full of worries/feeling down
+忧愁 | TRADUÇÃO: to be worried
+忧虑 | TRADUÇÃO: to worry/anxiety (about)
+忧惧 | TRADUÇÃO: apprehension/apprehensive
+忧灼 | TRADUÇÃO: worrying
+忧郁 | TRADUÇÃO: sullen; depressed; melancholy; dejected

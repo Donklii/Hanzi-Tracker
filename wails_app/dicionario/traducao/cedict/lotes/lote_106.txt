@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+遇难船 | TRADUÇÃO: shipwreck
+遇雨顺延 | TRADUÇÃO: to postpone (an activity) in the event of wet weather
+游人 | TRADUÇÃO: a tourist
+游人如织 | TRADUÇÃO: crowded with visitors; packed with tourists
+游伴 | TRADUÇÃO: playmate/travel companion
+游侠 | TRADUÇÃO: knight-errant
+游侠骑士 | TRADUÇÃO: a knight-errant
+游刃有余 | TRADUÇÃO: handling a butcher's cleaver with ease (idiom); to do sth skillfully and easily
+游吟诗人 | TRADUÇÃO: troubadour; bard
+游园 | TRADUÇÃO: to visit a park or garden
+游园会 | TRADUÇÃO: garden party; fete (held in a garden or park); carnival; fair
+游子 | TRADUÇÃO: person living or traveling far from home
+游学 | TRADUÇÃO: to study away from home or abroad (old)
+游客 | TRADUÇÃO: traveler; tourist/(online gaming) guest player
+游导 | TRADUÇÃO: tour guide
+游山玩水 | TRADUÇÃO: to go on a scenic tour
+游惰 | TRADUÇÃO: to laze about without doing anything productive
+游戏 | TRADUÇÃO: game (CL:場|场)/to play
+游戏主机 | TRADUÇÃO: video game console
+游戏场 | TRADUÇÃO: playground
+游戏手把 | TRADUÇÃO: gamepad (Tw)
+游戏机 | TRADUÇÃO: video game machine/video game console
+游戏王 | TRADUÇÃO: Yu-Gi-Oh!
+游戏设备 | TRADUÇÃO: gaming device/controller (for computer or console)
+游戏说 | TRADUÇÃO: theory of free play (in Kant's philosophy)
+游手 | TRADUÇÃO: to be idle
+游手好闲 | TRADUÇÃO: to idle about
+游抏 | TRADUÇÃO: old variant of 遊玩|游玩
+游星 | TRADUÇÃO: (old) planet
+游春 | TRADUÇÃO: to go for a trip in spring
+游乐 | TRADUÇÃO: to amuse oneself/recreation
+游乐园 | TRADUÇÃO: amusement park
+游乐场 | TRADUÇÃO: playground
+游标卡尺 | TRADUÇÃO: dial calipers
+游历 | TRADUÇÃO: to tour/to travel
+游民 | TRADUÇÃO: vagrant/vagabond
+游民改造 | TRADUÇÃO: rehabilitation of displaced persons
+游牧 | TRADUÇÃO: nomadic/to move about in search of pasture/to rove around as a nomad
+游猎 | TRADUÇÃO: to go on a hunting expedition
+游玩 | TRADUÇÃO: to amuse oneself/to have fun/to go sightseeing/to take a stroll
+游船 | TRADUÇÃO: pleasure boat/cruise ship
+游艇 | TRADUÇÃO: barge/yacht/CL:隻|只
+游荡 | TRADUÇÃO: to wander/to roam about/to loaf about/to be idle
+游艺 | TRADUÇÃO: entertainment
+游艺团 | TRADUÇÃO: group of actors or acrobats at a fair/theatrical troupe
+游艺场 | TRADUÇÃO: place of entertainment
+游艺会 | TRADUÇÃO: folk festival/fair/carnival
+游行 | TRADUÇÃO: to march; to parade; to demonstrate/procession; march; demonstration/to travel around; to roam
+游街 | TRADUÇÃO: to parade sb through the streets/to march or parade in the streets
+游街示众 | TRADUÇÃO: to parade (a prisoner) through the streets
+游览 | TRADUÇÃO: to go sightseeing/to tour/to visit/CL:次
+游览区 | TRADUÇÃO: tourist regions/sightseeing area
+游记 | TRADUÇÃO: travel notes
+游说 | TRADUÇÃO: to lobby/to campaign/to promote (an idea, a product)/(old) to visit various rulers and promote one's political ideas (in the Warring States period)
+游说集团 | TRADUÇÃO: lobby group
+游轮 | TRADUÇÃO: cruise ship
+游逛 | TRADUÇÃO: to go sightseeing/to spend one's leisure time wandering around
+游离 | TRADUÇÃO: to disassociate/to drift away/to leave (a collective)/free (component)
+运 | TRADUÇÃO: to move/to transport/to use/to apply/fortune/luck/fate
+运交 | TRADUÇÃO: to consign/to send (goods to customers)/shipping/delivery
+运作 | TRADUÇÃO: to operate/operations/workings/activities (usu. of an organization)/thread (computing)
+运使 | TRADUÇÃO: commissioner (old)
+运价 | TRADUÇÃO: fare/transport cost
+运出 | TRADUÇÃO: shipment/to dispatch/to ship out/to send
+运出运费 | TRADUÇÃO: outward freight (accountancy)
+运力 | TRADUÇÃO: transport capacity
+运动 | TRADUÇÃO: to move/to exercise/sports/exercise/motion/movement/campaign/CL:場|场
+运动健将 | TRADUÇÃO: champion-level athlete (title awarded by the General Administration of Sport of China based on performance in international and national competitions)
+运动员 | TRADUÇÃO: athlete/CL:名,個|个
+运动场 | TRADUÇÃO: sports field/playground/exercise yard
+运动学 | TRADUÇÃO: kinematics
+运动定律 | TRADUÇÃO: laws of motion (mechanics)
+运动家 | TRADUÇÃO: athlete/sportsman/activist
+运动战 | TRADUÇÃO: mobile warfare
+运动方程 | TRADUÇÃO: equations of motion
+运动会 | TRADUÇÃO: sports competition/CL:個|个
+运动服 | TRADUÇÃO: sportswear
+运动病 | TRADUÇÃO: car sickness/motion sickness
+运动相机 | TRADUÇÃO: action camera
+运动衫 | TRADUÇÃO: sports shirt/sweatshirt/CL:件
+运动鞋 | TRADUÇÃO: sports shoes; sneakers
+运势 | TRADUÇÃO: horoscope/one's fortune
+运匠 | TRADUÇÃO: variant of 運將|运将
+运十 | TRADUÇÃO: Shanghai Y-10/Yun-10 commercial jet aircraft
+运命 | TRADUÇÃO: fate/one's fortune
+运单 | TRADUÇÃO: way bill/transport charge
+运城 | TRADUÇÃO: see 運城市|运城市
+运城市 | TRADUÇÃO: Yuncheng, prefecture-level city in Shanxi Province 山西省
+运存 | TRADUÇÃO: RAM (abbr. for 運行內存|运行内存)
+运将 | TRADUÇÃO: driver (of a taxi etc) (loanword from Japanese) (Tw)
+运思 | TRADUÇÃO: to think/to exercise one's mind
+运庆 | TRADUÇÃO: Unkei (c. 1150-1224), Japanese sculptor of Buddhist images
+运数 | TRADUÇÃO: one's fortune/destiny
+运气 | TRADUÇÃO: luck (good or bad)
+运河 | TRADUÇÃO: see 運河區|运河区 ‖ canal
+运河区 | TRADUÇÃO: Yunhe, a district of Cangzhou City 滄州市|沧州市, Hebei
+运营 | TRADUÇÃO: to be in operation/to do business/(of train, bus etc) to be in service/operation; service
+运营商 | TRADUÇÃO: operator (of a power station, transport network etc)/carrier (telecommunications etc)
+运营总监 | TRADUÇÃO: chief operating officer (COO)
+运球 | TRADUÇÃO: to dribble (basketball, soccer etc)
+运用 | TRADUÇÃO: to use/to put to use
+运用自如 | TRADUÇÃO: to have a fluent command of (idiom)
+运神 | TRADUÇÃO: to concentrate/to think what you're doing
+运科 | TRADUÇÃO: (Tw) sports science (abbr. for 運動科學|运动科学)
+运移 | TRADUÇÃO: migration (geology)
+运程 | TRADUÇÃO: one's fortune (in astrology)
+运笔 | TRADUÇÃO: to wield the pen/to write
+运算 | TRADUÇÃO: to perform calculations/(mathematical) operation
+运算式 | TRADUÇÃO: (math.) expression (arithmetic, Boolean etc)
+运算数 | TRADUÇÃO: operand (math.)
+运算环境 | TRADUÇÃO: operating environment
+运筹 | TRADUÇÃO: to plan/operations/logistics
+运筹学 | TRADUÇÃO: operations research (OR)
+运筹帷幄 | TRADUÇÃO: lit. to devise battle plan in a tent (idiom)/fig. planning strategies
+运筹帷幄之中，决胜千里之外 | TRADUÇÃO: a general planning in the seclusion of his tent is able to determine the outcome of the distant battle (idiom)
+运维 | TRADUÇÃO: operations and maintenance (esp. of IT systems, networks, or industrial facilities – in IT contexts, refers to system administration, deployment, and monitoring) (abbr. for 運行|运行 + 維護|维护)
+运脚 | TRADUÇÃO: freight charge
+运行 | TRADUÇÃO: (of celestial bodies etc) to move along one's course/(fig.) to function; to be in operation/(of a train service etc) to operate; to run/(of a computer) to run
+运行方式 | TRADUÇÃO: operating method/running mode
+运行时 | TRADUÇÃO: (computing) runtime
+运行时错误 | TRADUÇÃO: run-time error (in computing)
+运货员 | TRADUÇÃO: porter
+运货马车 | TRADUÇÃO: cargo wagon
+运费 | TRADUÇÃO: freight fee
+运载 | TRADUÇÃO: to transport; to carry (goods, materials or people)
+运载火箭 | TRADUÇÃO: carrier rocket
+运载量 | TRADUÇÃO: carrying capacity; maximum load/load actually carried
+运输 | TRADUÇÃO: to transport/to carry/transportation
+运输业 | TRADUÇÃO: transportation industry
+运输网 | TRADUÇÃO: transport network
+运输船 | TRADUÇÃO: transport ship
+运输舰 | TRADUÇÃO: transport ship
+运输量 | TRADUÇÃO: volume of freight
+运转 | TRADUÇÃO: to work/to operate/to revolve/to turn around
+运送 | TRADUÇÃO: to transport/to carry
+运道 | TRADUÇÃO: fortune/luck/fate
+运量 | TRADUÇÃO: volume of freight
+运钞车 | TRADUÇÃO: armored car (for transporting valuables)
+运销 | TRADUÇÃO: distribution/transport and sale (of goods)
+运镜 | TRADUÇÃO: (cinematography) camera movement (tracking, panning, zooming etc); to execute a camera movement
+遍及 | TRADUÇÃO: to extend (everywhere)
+遍地 | TRADUÇÃO: everywhere/all over
+遍地开花 | TRADUÇÃO: (idiom) to blossom everywhere; to spring up all over the place; to flourish on a large scale
+遍布 | TRADUÇÃO: to cover the whole (area)/to be found throughout
+遍历 | TRADUÇÃO: to traverse/to travel throughout/(math.) ergodic
+遍身 | TRADUÇÃO: over the whole body
+遍体 | TRADUÇÃO: all over the body
+遍体鳞伤 | TRADUÇÃO: (idiom) covered all over with cuts and bruises; beaten black and blue
+过 | TRADUÇÃO: surname Guo ‖ to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to get along/excessively/too- ‖ (experienced action marker)
+过一会儿 | TRADUÇÃO: later/after a while
+过不下 | TRADUÇÃO: to be unable to continue living (in a certain manner)/to be unable to make a living
+过不去 | TRADUÇÃO: to make life difficult for/to embarrass/unable to make it through
+过世 | TRADUÇÃO: to die/to pass away
+过干瘾 | TRADUÇÃO: to satisfy a craving with substitutes
+过了这个村就没这个店 | TRADUÇÃO: past this village, you won't find this shop (idiom)/this is your last chance
+过了这村没这店 | TRADUÇÃO: past this village, you won't find this shop (idiom)/this is your last chance
+过五关斩六将 | TRADUÇÃO: lit. to cross five passes and slay six generals (idiom)/fig. to surmount all difficulties (on the way to success)
+过人 | TRADUÇÃO: to surpass others; outstanding/(basketball, soccer etc) to get past an opponent
+过份 | TRADUÇÃO: variant of 過分|过分
+过低 | TRADUÇÃO: too low
+过来 | TRADUÇÃO: to come over/to manage/to handle/to be able to take care of ‖ see 過來|过来
+过来人 | TRADUÇÃO: an experienced person/sb who has "been around (the block)"/sb who has personally experienced it
+过冬 | TRADUÇÃO: to get through the winter
+过分 | TRADUÇÃO: excessive; undue/unduly; overly
+过刊 | TRADUÇÃO: back issue (abbr. for 過期刊物|过期刊物)
+过剩 | TRADUÇÃO: to be excessive; to be more than is required
+过劳 | TRADUÇÃO: overwork
+过劳死 | TRADUÇÃO: karoshi (loanword from Japanese), death from overwork
+过劳肥 | TRADUÇÃO: overweight from overwork (the supposition that white collar workers become fat as a consequence of factors associated with being under pressure at work, including irregular diet, lack of exercise and inadequate rest)
+过半 | TRADUÇÃO: over fifty percent/more than half
+过去 | TRADUÇÃO: (in the) past; former; previous/to go over; to pass by ‖ (verb suffix)
+过去分词 | TRADUÇÃO: past participle (in European grammar)
+过去式 | TRADUÇÃO: past tense
+过去时 | TRADUÇÃO: past tense (grammar)
+过问 | TRADUÇÃO: to show an interest in/to get involved with
+过堂 | TRADUÇÃO: to appear in court for trial (old)/(of Buddhist monks) to have a meal together in the temple hall
+过场 | TRADUÇÃO: interlude/to cross the stage/to do sth as a mere formality/to go through the motions
+过塑 | TRADUÇÃO: (stationery) to laminate
+过境 | TRADUÇÃO: to pass through a country's territory/transit
+过境签证 | TRADUÇÃO: transit visa
+过多 | TRADUÇÃO: too many; excessive
+过夜 | TRADUÇÃO: to spend the night/overnight
+过失 | TRADUÇÃO: error/fault/(law) negligence/delinquency
+过失杀人 | TRADUÇÃO: see 過失致死罪|过失致死罪
+过失致死罪 | TRADUÇÃO: (law) negligent homicide
+过孔 | TRADUÇÃO: (electronics) via (a type of hole in a circuit board)
+过客 | TRADUÇÃO: passing traveler/transient guest/sojourner
+过家家 | TRADUÇÃO: to play house
+过审 | TRADUÇÃO: to pass a review
+过少 | TRADUÇÃO: too few/insufficient
+过山车 | TRADUÇÃO: roller coaster
+过帐 | TRADUÇÃO: posting (accounting)
+过年 | TRADUÇÃO: to celebrate the Chinese New Year
+过度 | TRADUÇÃO: excessive/over-/excess/going too far/extravagant/intemperate/overdue
+过度紧张 | TRADUÇÃO: hypertension/excessive stress
+过度医疗 | TRADUÇÃO: overtreatment; excessive or unnecessary medical treatment
+过度关怀 | TRADUÇÃO: obsession/excessive concern
+过庭录 | TRADUÇÃO: lit. Notes on Passing the Hall, historical jottings by 12th century Southern Song poet Fan Gongcheng 范公偁, containing moral instructions derived from great men of Song dynasty
+过往 | TRADUÇÃO: to come and go/to have friendly relations with/in the past/previous
+过后 | TRADUÇÃO: after the event
+过得 | TRADUÇÃO: How are you getting by?/How's life?/contraction of 過得去|过得去, can get by/tolerably well/not too bad
+过得去 | TRADUÇÃO: lit. can pass through (an opening)/fig. can get by (in life)/tolerably well/not too bad/How are you getting by?/How's life?
+过从 | TRADUÇÃO: to have relations with/to associate with
+过意不去 | TRADUÇÃO: to feel very apologetic
+过惯 | TRADUÇÃO: to be accustomed to (a certain lifestyle etc)
+过户 | TRADUÇÃO: to transfer ownership or title (of real estate or a vehicle etc); to register a change of ownership
+过房 | TRADUÇÃO: to adopt/to give for adoption (usually to a childless relative)
+过招 | TRADUÇÃO: to fight/to exchange blows
+过敏 | TRADUÇÃO: (medicine) allergic; hypersensitive/(fig.) oversensitive; prone to overreact
+过敏原 | TRADUÇÃO: allergen; anaphylactogen
+过敏反应 | TRADUÇÃO: allergic reaction
+过敏性 | TRADUÇÃO: hypersensitive/allergic reaction/anaphylaxis
+过敏性休克 | TRADUÇÃO: anaphylactic shock
+过敏性反应 | TRADUÇÃO: allergic reaction/hypersensitive reaction/anaphylaxis
+过于 | TRADUÇÃO: excessively; too
+过日子 | TRADUÇÃO: to live one's life/to pass one's days/to get along
+过早 | TRADUÇÃO: premature; untimely/(dialect) to have breakfast; breakfast
+过时 | TRADUÇÃO: old-fashioned/out of date/to be later than the time stipulated or agreed upon
+过时不候 | TRADUÇÃO: being late is not acceptable (idiom)
+过期 | TRADUÇÃO: to be overdue/to exceed the time limit/to expire (as in expiration date)
+过桥米线 | TRADUÇÃO: rice noodle soup from Yunnan province
+过桥贷款 | TRADUÇÃO: bridge loan
+过气 | TRADUÇÃO: past one's prime/has-been
+过氧 | TRADUÇÃO: peroxy-/peroxide (chemistry)
+过氧化 | TRADUÇÃO: peroxide
+过氧化氢 | TRADUÇÃO: hydrogen peroxide H2O2
+过氧化氢酶 | TRADUÇÃO: catalase (enzyme)/hydrogen peroxidase
+过氧化物 | TRADUÇÃO: peroxide
+过氧化苯甲酰 | TRADUÇÃO: benzoil peroxide
+过氧物酶体 | TRADUÇÃO: peroxisome (type of organelle)
+过氧苯甲酰 | TRADUÇÃO: benzoil peroxide
+过水面 | TRADUÇÃO: cooked noodles cooled with cold water
+过江之鲫 | TRADUÇÃO: (idiom) vast multitude of people
+过河拆桥 | TRADUÇÃO: (lit.) to destroy the bridge after crossing the river (idiom)/(fig.) to abandon one's benefactor upon achieving one's goal
+过活 | TRADUÇÃO: to live one's life/to make a living
+过渡 | TRADUÇÃO: to cross over (by ferry)/transition/interim/caretaker (administration)
+过渡性 | TRADUÇÃO: transitional/bridging
+过渡性贷款 | TRADUÇÃO: bridging loan
+过渡时期 | TRADUÇÃO: transition period
+过渡贷款 | TRADUÇÃO: bridging loan
+过渡金属 | TRADUÇÃO: transition metal (chemistry)
+过激 | TRADUÇÃO: drastic/extreme/aggressive
+过滤 | TRADUÇÃO: to filter
+过滤嘴 | TRADUÇÃO: cigarette filter; filter tip
+过滤器 | TRADUÇÃO: filtering apparatus/(machine) filter
+过火 | TRADUÇÃO: to go too far; to go overboard (in words or actions)/over the top; excessive/burned
+过热 | TRADUÇÃO: too hot/(fig.) (economics) overheated/(physics) to superheat
+过犯 | TRADUÇÃO: previous sins
+过犹不及 | TRADUÇÃO: too far is as bad as not enough (idiom, from the Analects)
+过奖 | TRADUÇÃO: to overpraise/to flatter
+过生 | TRADUÇÃO: to celebrate a birthday
+过生日 | TRADUÇÃO: to celebrate a birthday
+过当 | TRADUÇÃO: excessive
+过瘾 | TRADUÇÃO: to satisfy a craving/to get a kick out of sth/gratifying/immensely enjoyable/satisfying/fulfilling
+过目 | TRADUÇÃO: to look over
+过目不忘 | TRADUÇÃO: to have a highly retentive memory/to have sth imprinted in one's memory
+过眼烟云 | TRADUÇÃO: ephemeral (idiom)
+过眼云烟 | TRADUÇÃO: ephemeral (idiom)
+过硬 | TRADUÇÃO: to have perfect mastery of sth/to be up to the mark
+过磅 | TRADUÇÃO: to weigh (on a scale)
+过秤 | TRADUÇÃO: to weigh sth
+过程 | TRADUÇÃO: course of events; process
+过站大厅 | TRADUÇÃO: transit lounge
+过节 | TRADUÇÃO: to celebrate a festival/after the celebrations (i.e. once the festival is over)
+过节儿 | TRADUÇÃO: (coll.) grudge; strife/(coll.) good manners
+过筛 | TRADUÇÃO: to put through a sieve; to sift (flour etc); to strain (a liquid); (fig.) to screen; to filter; to select
+过细 | TRADUÇÃO: extremely careful/meticulous/overattentive
+过紧日子 | TRADUÇÃO: to tighten one's belt; to live frugally
+过继 | TRADUÇÃO: to adopt/to give for adoption (usually to a childless relative)
+过而能改，善莫大焉 | TRADUÇÃO: If one can change after making a mistake, there is nothing better (idiom)
+过肩摔 | TRADUÇÃO: (judo) shoulder throw
+过胶 | TRADUÇÃO: (stationery) to laminate
+过街天桥 | TRADUÇÃO: skywalk; pedestrian bridge
+过街老鼠 | TRADUÇÃO: sb or sth detested by all/target of scorn/anathema/cf. 老鼠過街，人人喊打|老鼠过街，人人喊打
+过誉 | TRADUÇÃO: to praise too much/I really don't deserve so much praise
+过猫 | TRADUÇÃO: (Tw) edible fern fronds (fiddleheads), specifically Diplazium esculentum
+过路人 | TRADUÇÃO: a passer-by
+过路费 | TRADUÇÃO: toll (fee for using a road)
+过身 | TRADUÇÃO: to die; to pass away
+过载 | TRADUÇÃO: overload
+过道 | TRADUÇÃO: passageway/corridor/aisle
+过重 | TRADUÇÃO: overweight (luggage)
+过量 | TRADUÇÃO: excessive
+过错 | TRADUÇÃO: mistake/fault/responsibility (for a fault)
+过门 | TRADUÇÃO: to pass through a doorway/(of a woman) to marry/orchestral music interlude in an opera
+过关 | TRADUÇÃO: to cross a barrier/to get through (an ordeal)/to pass (a test)/to reach (a standard)
+过关斩将 | TRADUÇÃO: to surmount all difficulties (on the way to success) (idiom) (abbr. for 過五關斬六將|过五关斩六将)
+过头 | TRADUÇÃO: to overdo it/to overstep the limit/excessively/above one's head/overhead
+过头话 | TRADUÇÃO: exaggeration
+过马路 | TRADUÇÃO: to cross the street
+过高 | TRADUÇÃO: too high
+遏 | TRADUÇÃO: to restrain/to check/to hold back
+遏制 | TRADUÇÃO: to check/to contain/to hold back/to keep within limits/to constrain/to restrain
+遏抑 | TRADUÇÃO: to suppress/to restrain
+遏止 | TRADUÇÃO: to hold back/to check (i.e. to stop sb's advance)/to resist/esp. with negative, irresistible, unstoppable etc
+遏阻 | TRADUÇÃO: to stop/to contain/to deter
+遐 | TRADUÇÃO: distant/long-lasting/to abandon
+遐布 | TRADUÇÃO: to spread far and wide
+遐年 | TRADUÇÃO: a great age
+遐心 | TRADUÇÃO: the wish to abandon or keep aloof/the desire to live in retirement
+遐志 | TRADUÇÃO: lofty ambition/lofty aspiration
+遐思 | TRADUÇÃO: to fancy from afar/reverie/wild and fanciful thoughts
+遐想 | TRADUÇÃO: reverie/daydream/to be lost in wild and fanciful thoughts
+遐方 | TRADUÇÃO: distant places/distant lands
+遐弃 | TRADUÇÃO: to cast away/to reject/to shun/to desert one's post
+遐眺 | TRADUÇÃO: to stretch one's sight as far as possible
+遐祉 | TRADUÇÃO: lasting blessings/lasting happiness
+遐福 | TRADUÇÃO: great and lasting happiness/lasting blessings
+遐终 | TRADUÇÃO: forever
+遐胄 | TRADUÇÃO: distant descendants
+遐举 | TRADUÇÃO: to go a long way away
+遐荒 | TRADUÇÃO: out-of-the-way places
+遐迹 | TRADUÇÃO: stories of ancient people
+遐轨 | TRADUÇÃO: long-established rules of conduct
+遐迩 | TRADUÇÃO: near and far; far and wide
+遐迩一体 | TRADUÇÃO: both near and distant treated alike (idiom)
+遐迩皆知 | TRADUÇÃO: well-known far and near (idiom)
+遐迩闻名 | TRADUÇÃO: see 聞名遐邇|闻名遐迩
+遐龄 | TRADUÇÃO: advanced age/longevity/long life
+遑 | TRADUÇÃO: leisure
+遑论 | TRADUÇÃO: let alone/not to mention
+遑遑 | TRADUÇÃO: hurried/anxious
+遒 | TRADUÇÃO: strong/vigorous/robust/to draw near/to come to an end
+道 | TRADUÇÃO: road; path (CL:條|条,股)/(bound form) way; reason; principle/(bound form) a skill; an art; a specialization/(Daoism) the Way; the Dao/to say (introducing a direct quotation, as in a novel)/(bound form) to express; to extend (polite words)/classifier for long thin things (rivers, cracks, shadows etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process/(old) circuit (administrative division)
+道不同不相为谋 | TRADUÇÃO: lit. persons who walk different paths cannot make plans together/to go separate ways (idiom)
+道不拾遗 | TRADUÇÃO: lit. no one picks up lost articles in the street (idiom)/fig. honesty prevails throughout society
+道之所存，师之所存 | TRADUÇÃO: If sb has grasped the truth before you, take him as your teacher (Tang dynasty essayist Han Yu 韓愈|韩愈)./We should learn from one who knows the way.
+道人 | TRADUÇÃO: Taoist devotee (honorific)
+道光 | TRADUÇÃO: reign name of Qing emperor (1821-1850)
+道光帝 | TRADUÇÃO: Daoguang Emperor
+道具 | TRADUÇÃO: (theater) prop/paraphernalia/(gaming) item; artifact
+道具服 | TRADUÇÃO: costume
+道出 | TRADUÇÃO: to speak/to tell/to voice
+道别 | TRADUÇÃO: to say goodbye; to bid farewell/to pay a farewell call
+道卡斯族 | TRADUÇÃO: Taokas, one of the indigenous peoples of Taiwan
+道喜 | TRADUÇÃO: to congratulate
+道地 | TRADUÇÃO: authentic/original
+道场 | TRADUÇÃO: Taoist or Buddhist rite/abbr. for 菩提道場|菩提道场
+道士 | TRADUÇÃO: Daoist priest
+道外 | TRADUÇÃO: see 道外區|道外区
+道外区 | TRADUÇÃO: Daowai, a district of Harbin City 哈爾濱市|哈尔滨市, Heilongjiang
+道奇 | TRADUÇÃO: Dodge, US automobile brand, division of Chrysler LLC
+道姑 | TRADUÇÃO: Daoist nun
+道孚 | TRADUÇÃO: see 道孚縣|道孚县
+道孚县 | TRADUÇÃO: Dawu, a county in Garzê Tibetan Autonomous Prefecture 甘孜藏族自治州, Sichuan
+道学 | TRADUÇÃO: Confucian study of ethics/study of Daoism/school for Daoism in Tang and Song times/Daoist magic/another name for 理學|理学, rational learning of Song dynasty neo-Confucianism
+道家 | TRADUÇÃO: Daoist School of the Warring States Period (475-221 BC), based on the teachings of Laozi or Lao-tze 老子 (c. 500 BC-) and Zhuangzi 莊子|庄子 (369-286 BC)
+道山学海 | TRADUÇÃO: mountain of Dao, sea of learning (idiom); learning is as high as the mountains, as wide as the seas/ars longa, vita brevis
+道岔 | TRADUÇÃO: railroad switch
+道德 | TRADUÇÃO: virtue/morality/ethics/CL:種|种
+道德困境 | TRADUÇÃO: ethical dilemma
+道德家 | TRADUÇÃO: Daoist
+道德败坏 | TRADUÇÃO: vice/immorality/moral turpitude
+道德沦丧 | TRADUÇÃO: moral bankruptcy/moral degeneracy
+道德绑架 | TRADUÇÃO: to coerce by invoking moral obligations (duty, sacrifice, reciprocation etc); to lay a guilt trip on sb
+道德经 | TRADUÇÃO: the Book of Dao by Laozi or Lao-Tze, the sacred text of Daoism
+道德观 | TRADUÇÃO: one's perspective on morality
+道德认识 | TRADUÇÃO: moral cognition/ethical awareness
+道德高地 | TRADUÇÃO: moral high ground
+道拉吉里峰 | TRADUÇÃO: Dhaulagiri, mountain massif in the Himalayas
+道指 | TRADUÇÃO: Dow Jones Industrial Average (abbr. for 道瓊斯指數|道琼斯指数)
+道教 | TRADUÇÃO: Taoism; Daoism
+道教徒 | TRADUÇÃO: a Daoist/a follower of Daoism
+道格拉斯 | TRADUÇÃO: Douglas (name)
+道格拉斯·麦克阿瑟 | TRADUÇÃO: General Douglas MacArthur (1880-1964), US commander in Pacific during WW2, sacked in 1951 by President Truman for exceeding orders during the Korean war
+道歉 | TRADUÇÃO: to apologize
+道尔顿 | TRADUÇÃO: Dalton (name)/John Dalton (1766-1844), British scientist who contributed to atomic theory
+道牙 | TRADUÇÃO: curb
+道理 | TRADUÇÃO: reason/argument/sense/principle/basis/justification/CL:個|个
+道琼 | TRADUÇÃO: Dow Jones (stock market index)
+道琼斯 | TRADUÇÃO: Dow Jones (stock market index)
+道琼斯指数 | TRADUÇÃO: Dow Jones Industrial Average
+道白 | TRADUÇÃO: spoken lines in opera
+道真 | TRADUÇÃO: see 道真仡佬族苗族自治縣|道真仡佬族苗族自治县
+道真仡佬族苗族自治县 | TRADUÇÃO: Daozhen Gelao and Miao Autonomous County, in Zunyi City 遵義市|遵义市, Guizhou
+道真县 | TRADUÇÃO: see 道真仡佬族苗族自治縣|道真仡佬族苗族自治县
+道破 | TRADUÇÃO: to expose/to reveal
+道碴 | TRADUÇÃO: (railway) ballast
+道系 | TRADUÇÃO: (neologism, attested by 2017) Dao-type, a type of person who has traits associated with a Daoist approach to life, such as being active, optimistic, earthy and forthright (cf. 佛系)
+道统 | TRADUÇÃO: Confucian orthodoxy
+道县 | TRADUÇÃO: Dao County or Daoxian, a county in Yongzhou City 永州市, Hunan
+道义 | TRADUÇÃO: morality/righteousness and justice
+道听途说 | TRADUÇÃO: gossip; hearsay; rumor
+道台 | TRADUÇÃO: (Ming and Qing dynasties) daotai (title for an official responsible for supervising a circuit 道|道), aka taotai and circuit intendant
+道藏 | TRADUÇÃO: Daoist scripture
+道行 | TRADUÇÃO: skills acquired through religious practice/(fig.) ability/skill/Taiwan pr. [dao4 hang5]
+道袍 | TRADUÇÃO: Taoist robe/traditional men's gown
+道里 | TRADUÇÃO: see 道裡區|道里区
+道里区 | TRADUÇÃO: Daoli, a district of Harbin City 哈爾濱市|哈尔滨市, Heilongjiang
+道观 | TRADUÇÃO: Daoist temple
+道谢 | TRADUÇÃO: to express thanks
+道貌岸然 | TRADUÇÃO: sanctimonious/dignified
+道贺 | TRADUÇÃO: to congratulate
+道路 | TRADUÇÃO: road/path/way/CL:條|条
+道路工程 | TRADUÇÃO: road construction
+道长 | TRADUÇÃO: Taoist priest/Daoist priest
+道院 | TRADUÇÃO: Daoyuan (Sanctuary of the Dao)
+道馆 | TRADUÇÃO: martial arts studio; dojo
+道高一尺，魔高一丈 | TRADUÇÃO: (saying) as one climbs higher on the path of righteousness, one faces ever greater challenges from evil; no sooner does one overcome one obstacle than another arises
+道高益安，势高益危 | TRADUÇÃO: More moral strength increases one's safety, more power and influence increases one's danger (idiom, from Records of the Historian 史記|史记). cf Unlimited power is apt to corrupt the minds of those who possess it (William Pitt the Elder, 1770).
+达 | TRADUÇÃO: surname Da ‖ to attain/to reach/to amount to/to communicate/eminent
+达·芬奇 | TRADUÇÃO: Leonardo da Vinci (1452-1519), Italian Renaissance painter
+达不到 | TRADUÇÃO: cannot achieve/cannot reach
+达人 | TRADUÇÃO: (coll.) expert; connoisseur; guru; enthusiast; geek (influenced by Japanese 達人 "tatsujin" c. 2000)/(literary) sensible person; person who understands life/(literary) optimist
+达仁 | TRADUÇÃO: Daren or Tajen township in Taitung County 臺東縣|台东县, southeast Taiwan
+达仁乡 | TRADUÇÃO: Daren or Tajen township in Taitung County 臺東縣|台东县, southeast Taiwan
+达令 | TRADUÇÃO: (loanword) darling
+达克瓦兹 | TRADUÇÃO: (loanword) dacquoise (a French dessert)
+达克龙 | TRADUÇÃO: Dacron (brand)
+达到 | TRADUÇÃO: to reach; to achieve; to attain
+达卡 | TRADUÇÃO: Dhaka, capital of Bangladesh/(Tw) Dakar, capital of Senegal
+达味 | TRADUÇÃO: David (name)
+达味王 | TRADUÇÃO: King David
+达喀尔 | TRADUÇÃO: Dakar, capital of Senegal
+达噜噶齐 | TRADUÇÃO: Mongolian daruqachi, local commander in Mongol and Yuan times
+达因 | TRADUÇÃO: (loanword) dyne
+达坂城 | TRADUÇÃO: see 達坂城區|达坂城区
+达坂城区 | TRADUÇÃO: Dabancheng, a district of Ürümqi City 烏魯木齊市|乌鲁木齐市, Xinjiang
+达姆弹 | TRADUÇÃO: (loanword) dumdum bullet; expanding bullet
+达孜 | TRADUÇÃO: see 達孜區|达孜区
+达孜区 | TRADUÇÃO: Dagzê, a district of Lhasa City 拉薩市|拉萨市, Tibet
+达官 | TRADUÇÃO: high-ranking official
+达官贵人 | TRADUÇÃO: (idiom) high officials and noble lords; the powerful and influential
+达官显贵 | TRADUÇÃO: see 達官貴人|达官贵人
+达尼亚 | TRADUÇÃO: Dania, Tania etc
+达川 | TRADUÇÃO: see 達川區|达川区
+达川区 | TRADUÇÃO: Dachuan, a district of Dazhou City 達州市|达州市, Sichuan
+达州 | TRADUÇÃO: see 達州市|达州市
+达州市 | TRADUÇÃO: Dazhou, prefecture-level city in Sichuan Province 四川省
+达德利 | TRADUÇÃO: Dudley (name)
+达悟族 | TRADUÇÃO: Tao or Yami, one of the indigenous peoples of Taiwan
+达意 | TRADUÇÃO: to express or convey one's ideas
+达成 | TRADUÇÃO: to reach (an agreement)/to accomplish
+达成协议 | TRADUÇÃO: to reach agreement
+达拉斯 | TRADUÇÃO: Dallas
+达拉特 | TRADUÇÃO: Dalad banner in Ordos 鄂爾多斯|鄂尔多斯, Inner Mongolia
+达拉特旗 | TRADUÇÃO: Dalad banner in Ordos 鄂爾多斯|鄂尔多斯, Inner Mongolia
+达摩 | TRADUÇÃO: Dharma, the teaching of Buddha/Bodhidharma
+达文西 | TRADUÇÃO: Leonardo da Vinci (1452-1519), Italian Renaissance painter (Tw)
+达斡尔 | TRADUÇÃO: Daur ethnic group
+达斡尔族 | TRADUÇÃO: Daur ethnic group
+达斡尔语 | TRADUÇÃO: Daur language (of Daur ethnic group of Inner Mongolia and Heilongjiang)
+达日 | TRADUÇÃO: see 達日縣|达日县
+达日县 | TRADUÇÃO: Darlag, a county in Golog Tibetan Autonomous Prefecture 果洛藏族自治州, Qinghai
+达朗贝尔 | TRADUÇÃO: D'Alembert (1717-1783), French mathematician
+达标 | TRADUÇÃO: to reach a set standard
+达沃斯 | TRADUÇÃO: Davos (Swiss ski resort)/Davos world economic forum (WEF)
+达沃斯论坛 | TRADUÇÃO: Davos world economic forum (WEF)
+达乌里寒鸦 | TRADUÇÃO: (bird species of China) Daurian jackdaw (Coloeus dauuricus)
+达尔富尔 | TRADUÇÃO: Darfur, region of western Sudan
+达尔文 | TRADUÇÃO: Charles Darwin (1809–1882), British biologist, author of "On the Origin of Species" 物種起源|物种起源/Darwin, capital of the Northern Territory (Australia)
+达尔文主义 | TRADUÇÃO: Darwinism
+达尔文学说 | TRADUÇÃO: Darwinism
+达尔文港 | TRADUÇÃO: Port Darwin (the port of Darwin, the capital city of the Northern Territory, Australia)
+达尔罕茂明安联合旗 | TRADUÇÃO: Darhan Muming'an united banner in Baotou 包頭|包头, Inner Mongolia
+达尔马提亚 | TRADUÇÃO: Dalmatia, Croatian region on the eastern coast of Adriatic Sea
+达特茅斯 | TRADUÇÃO: Dartmouth (place name)
+达特茅斯学院 | TRADUÇÃO: Dartmouth College
+达科塔·芬妮 | TRADUÇÃO: Dakota Fanning, American actress
+达累斯萨拉姆 | TRADUÇÃO: Dar es Salaam (former capital of Tanzania)
+达罗毗荼 | TRADUÇÃO: Dravidian (general term for South Indian people and languages)
+达美航空 | TRADUÇÃO: Delta Air Lines, Inc., airline headquartered in Atlanta, Georgia
+达致 | TRADUÇÃO: to attain; to achieve
+达芬西 | TRADUÇÃO: see 達·芬奇|达·芬奇
+达茂旗 | TRADUÇÃO: Darhan Muming'an united banner in Baotou 包頭|包头, Inner Mongolia/abbr. for 達爾罕茂明安聯合旗|达尔罕茂明安联合旗
+达菲 | TRADUÇÃO: (loanword) Tamiflu
+达兰萨拉 | TRADUÇÃO: Dharamsala in Himachal Pradesh, north India, home of Tibetan government in exile
+达观 | TRADUÇÃO: to take things philosophically
+达赖 | TRADUÇÃO: the Dalai Lama/abbr. of 達賴喇嘛|达赖喇嘛
+达赖喇嘛 | TRADUÇÃO: Dalai Lama
+达达尼尔海峡 | TRADUÇÃO: Dardanelles Strait/Turkish: Çanakkale Boğazı
+达阵 | TRADUÇÃO: touchdown/try (sports)
+达鲁花赤 | TRADUÇÃO: Mongolian daruqachi, local commander in Mongol and Yuan times
+违 | TRADUÇÃO: to disobey/to violate/to separate/to go against
+违令 | TRADUÇÃO: to disobey/to go against orders
+违例 | TRADUÇÃO: to break the rules
+违信背约 | TRADUÇÃO: in violation of contract and good faith
+违傲 | TRADUÇÃO: to disobey
+违别 | TRADUÇÃO: to leave/to depart/to go against
+违利赴名 | TRADUÇÃO: to renounce profit and seek fame (idiom); to abandon greed for reputation/to choose fame over fortune
+违反 | TRADUÇÃO: to violate (a law)
+违反宪法 | TRADUÇÃO: to violate the constitution
+违命 | TRADUÇÃO: disobedient/to violate the Mandate of Heaven (天命)
+违和 | TRADUÇÃO: unwell/indisposed/out of sorts/euphemism or honorific for ill
+违天害理 | TRADUÇÃO: lit. violating heaven and reason (idiom); immoral character
+违天逆理 | TRADUÇÃO: lit. violating heaven and reason (idiom); immoral character
+违失 | TRADUÇÃO: fault/mistake/shortcoming/error/misconduct
+违建 | TRADUÇÃO: abbr. for 違章建築|违章建筑, illegal construction
+违心 | TRADUÇÃO: false/untrue to one's convictions/against one's will/disloyal
+违心之言 | TRADUÇÃO: false assertion/speech against one's own convictions
+违忤 | TRADUÇÃO: to disobey
+违恩负义 | TRADUÇÃO: to disobey one's benefactor/to violate debts of gratitude/to repay good with evil
+违悖 | TRADUÇÃO: to transgress/to violate (the rules)/same as 違背|违背
+违宪 | TRADUÇÃO: unconstitutional
+违戾 | TRADUÇÃO: to violate/to go against
+违抗 | TRADUÇÃO: to disobey
+违拗 | TRADUÇÃO: to disobey; to defy; to deliberately go against (a rule, a convention, sb's wishes etc)
+违时绝俗 | TRADUÇÃO: to defy the times and reject custom (idiom); in breach of current conventions
+违标 | TRADUÇÃO: to go against the stipulated criteria
+违法 | TRADUÇÃO: illegal/to break the law
+违法乱纪 | TRADUÇÃO: (lit.) to break the law and violate the rules (idiom)/(fig.) misconduct
+违犯 | TRADUÇÃO: to violate/to infringe
+违碍 | TRADUÇÃO: taboo/prohibition
+违禁 | TRADUÇÃO: to violate a prohibition or ban/prohibited/illicit
+违禁品 | TRADUÇÃO: prohibited goods; contraband
+违禁药品 | TRADUÇÃO: illegal medicines
+违章 | TRADUÇÃO: to break the rules/to violate regulations
+违章者 | TRADUÇÃO: violator; offender
+违纪 | TRADUÇÃO: lack of discipline/to break a rule/to violate discipline/to breach a principle
+违约 | TRADUÇÃO: to break a promise/to violate an agreement/to default (on a loan or contract)
+违约金 | TRADUÇÃO: penalty (fee)
+违者 | TRADUÇÃO: violator
+违背 | TRADUÇÃO: to go against/to be contrary to/to violate
+违规 | TRADUÇÃO: to violate the rules
+违言 | TRADUÇÃO: unreasonable words/wounding complaints
+违误 | TRADUÇÃO: to disobey and cause delays/to obstruct and procrastinate
+违逆 | TRADUÇÃO: to disobey/to defy an edict/to violate/to go against/to run counter to
+遘 | TRADUÇÃO: meet unexpectedly
+遥 | TRADUÇÃO: (bound form) distant; remote; far away
+遥不可及 | TRADUÇÃO: unattainable/far-fetched/out of reach/exceedingly remote or distant
+遥想 | TRADUÇÃO: to think about (the distant past or future)
+遥感 | TRADUÇÃO: remote sensing
+遥控 | TRADUÇÃO: to direct operations from a remote location; to remotely control
+遥控器 | TRADUÇÃO: a remote control
+遥控操作 | TRADUÇÃO: remote operation
+遥控车 | TRADUÇÃO: radio-controlled car (hobbyist's model car)
+遥望 | TRADUÇÃO: to look into the distance
+遥测 | TRADUÇÃO: telemetry
+遥祝 | TRADUÇÃO: to send good wishes from afar
+遥观 | TRADUÇÃO: to look into the distance
+遥遥 | TRADUÇÃO: distant/remote
+遥遥无期 | TRADUÇÃO: far in the indefinite future (idiom); so far away it seems forever
+遥遥领先 | TRADUÇÃO: (idiom) a long way in front; to lead by a wide margin
+遥远 | TRADUÇÃO: distant; remote
+遛 | TRADUÇÃO: used in 逗遛 ‖ to stroll/to walk (an animal)
+遛娃 | TRADUÇÃO: (coll.) to take one's child out for a walk
+遛弯 | TRADUÇÃO: (dialect) to take a walk/to go for a stroll
+遛弯儿 | TRADUÇÃO: erhua variant of 遛彎|遛弯
+遛狗 | TRADUÇÃO: to walk a dog
+逊 | TRADUÇÃO: to abdicate/modest/yielding/unpretentious/inferior to/(slang) to suck
+逊位 | TRADUÇÃO: to abdicate/to resign a position
+逊克 | TRADUÇÃO: see 遜克縣|逊克县
+逊克县 | TRADUÇÃO: Xunke, a county in Heihe City 黑河市, Heilongjiang
+逊尼 | TRADUÇÃO: Sunni (subdivision of Islam)
+逊尼派 | TRADUÇÃO: Sunni sect (of Islam)
+逊色 | TRADUÇÃO: inferior (often in the combination 毫無遜色|毫无逊色, not in the least inferior)
+逊顺 | TRADUÇÃO: modest and obedient/unassuming
+遝 | TRADUÇÃO: abundant/mixed
+递 | TRADUÇÃO: to hand over; to pass on; to deliver/(bound form) progressively; in the proper order
+递交 | TRADUÇÃO: to present/to give/to hand over/to hand in/to lay before
+递加 | TRADUÇÃO: progressively increasing
+递升 | TRADUÇÃO: to ascend progressively
+递增 | TRADUÇÃO: to increase by degrees/in increasing order/incremental/progressive
+递嬗 | TRADUÇÃO: (literary) to go through successive changes; to evolve
+递推 | TRADUÇÃO: recursion/recursive (calculation)/recurrence
+递推公式 | TRADUÇÃO: recurrence formula
+递推关系 | TRADUÇÃO: (math.) recurrence relation
+递条子 | TRADUÇÃO: to pass a message
+递归 | TRADUÇÃO: recursion/recursive (calculation)/recurrence
+递减 | TRADUÇÃO: progressively decreasing/gradually falling/in descending order
+递眼色 | TRADUÇÃO: to give sb a meaningful look
+递给 | TRADUÇÃO: to hand it (i.e. the aforementioned item) to (sb)
+递补 | TRADUÇÃO: to substitute/to complement in the proper order/to fill vacancies progressively
+递解 | TRADUÇÃO: to escort a criminal under guard (in former times)
+递质 | TRADUÇÃO: neurotransmitter
+递回 | TRADUÇÃO: see 遞歸|递归
+递送 | TRADUÇÃO: to send (a message)/to deliver
+递进 | TRADUÇÃO: gradual progress/to go forward one stage at a time
+递降 | TRADUÇÃO: to go down by degrees/progressively decreasing
+遟 | TRADUÇÃO: variant of 遲|迟
+远 | TRADUÇÃO: far/distant/remote/(intensifier in a comparison) by far/much (lower etc) ‖ to distance oneself from (classical)
+远人 | TRADUÇÃO: an estranged person/sb who is alienated/people far from home
+远来的和尚会念经 | TRADUÇÃO: the monk coming from afar is good at reading scriptures (idiom)/foreign talent is valued higher than local talent
+远光灯 | TRADUÇÃO: high beam (headlights)
+远劳 | TRADUÇÃO: (courteous expression) you have made a long and exhausting journey/you will be making a long trip (when asking a favor that involves going to a faraway place)
+远古 | TRADUÇÃO: antiquity/ancient times
+远因 | TRADUÇÃO: indirect cause/remote cause
+远地点 | TRADUÇÃO: apogee
+远大 | TRADUÇÃO: far-reaching/broad/ambitious/promising
+远大理想 | TRADUÇÃO: lofty ideal
+远天 | TRADUÇÃO: heaven/the distant sky
+远嫁 | TRADUÇÃO: to marry a man who lives in a distant place
+远安 | TRADUÇÃO: see 遠安縣|远安县
+远安县 | TRADUÇÃO: Yuan'an, a county in Yichang City 宜昌市, Hubei
+远客 | TRADUÇÃO: guest from afar
+远征 | TRADUÇÃO: an expedition, esp. military/march to remote regions
+远征军 | TRADUÇÃO: expeditionary force/army on a distant expedition
+远志 | TRADUÇÃO: far-reaching ambition/lofty ideal/milkwort (Polygala myrtifolia), with roots used in Chinese medicine
+远虑 | TRADUÇÃO: long-term considerations/to take the long view
+远房 | TRADUÇÃO: (of a relative) distant
+远拱点 | TRADUÇÃO: (astronomy) apoapsis
+远扬 | TRADUÇÃO: (fame) spreads far and wide
+远方 | TRADUÇÃO: far away/a distant location
+远方来鸿 | TRADUÇÃO: letter from afar (literary)
+远日点 | TRADUÇÃO: aphelion, the furthest point of a planet in elliptic orbit to the sun/opposite: perihelion 近日點|近日点/higher apsis
+远景 | TRADUÇÃO: scenery in the distance/long-term prospects/(photography) long shot
+远望 | TRADUÇÃO: to gaze afar/to look into the distance
+远期 | TRADUÇÃO: long-term/at a fixed date in the future (e.g. for repayment)/abbr. for 遠期合約|远期合约
+远期合约 | TRADUÇÃO: forward contract (finance)
+远未解决 | TRADUÇÃO: far from solved
+远东 | TRADUÇÃO: Far East (loanword)
+远东山雀 | TRADUÇÃO: (bird species of China) Japanese tit (Parus minor)
+远东树莺 | TRADUÇÃO: (bird species of China) Manchurian bush warbler (Horornis canturians)
+远东苇莺 | TRADUÇÃO: (bird species of China) Manchurian reed warbler (Acrocephalus tangorum)
+远东豹 | TRADUÇÃO: Amur leopard (Panthera pardus orientalis)
+远水不救近火 | TRADUÇÃO: see 遠水救不了近火|远水救不了近火
+远水不解近渴 | TRADUÇÃO: lit. distant water does not cure present thirst; fig. urgent need/a slow remedy does not address immediate needs
+远水救不了近火 | TRADUÇÃO: water in a distant place is of little use in putting out a fire right here/(fig.) a slow remedy does not address the current emergency
+远洋 | TRADUÇÃO: distant seas/the open ocean (far from the coast)
+远涉 | TRADUÇÃO: to cross (the wide ocean)
+远渡重洋 | TRADUÇÃO: to travel across the oceans
+远略 | TRADUÇÃO: long-term strategy
+远眺 | TRADUÇÃO: to gaze into the distance
+远祖 | TRADUÇÃO: a remote ancestor
+远程 | TRADUÇÃO: remote/long distance/long range
+远程导弹 | TRADUÇÃO: long distance missile
+远程登录 | TRADUÇÃO: to log in remotely
+远程监控 | TRADUÇÃO: RMON/remote monitoring
+远端 | TRADUÇÃO: the far end (of an object)/remote (i.e. operating from a distance or over a computer network)/(anatomy) distal
+远端工作 | TRADUÇÃO: to telecommute; to work remotely
+远端胞浆 | TRADUÇÃO: distal cytoplasm
+远端转移 | TRADUÇÃO: metastasis
+远缘 | TRADUÇÃO: distantly related/remote affinity
+远胄 | TRADUÇÃO: distant descendants
+远航 | TRADUÇÃO: to travel a great distance by sea or air/voyage/long-haul flight
+远藤 | TRADUÇÃO: Endō (Japanese surname)
+远处 | TRADUÇÃO: distant place
+远行 | TRADUÇÃO: to travel far away from home
+远见 | TRADUÇÃO: foresight/discernment/vision
+远见卓识 | TRADUÇÃO: visionary and sagacious (idiom)
+远视 | TRADUÇÃO: farsighted/hyperopia or hypermetropia (farsightedness)
+远亲 | TRADUÇÃO: distant relative
+远亲不如近邻 | TRADUÇÃO: A relative afar is less use than a close neighbor (idiom). Take whatever help is on hand, even from strangers.
+远谋 | TRADUÇÃO: a long-term plan/an ambitious strategy
+远识 | TRADUÇÃO: foresight
+远走高飞 | TRADUÇÃO: (idiom) to go far away; to flee to a distant place
+远赴 | TRADUÇÃO: to travel to (a distant place)
+远超 | TRADUÇÃO: to exceed by far; to greatly surpass
+远超过 | TRADUÇÃO: to exceed by far/to outclass
+远足 | TRADUÇÃO: excursion/hike/march
+远距离 | TRADUÇÃO: long-distance
+远距离监视 | TRADUÇÃO: off-site monitoring
+远近 | TRADUÇÃO: far and near/distance
+远近皆知 | TRADUÇÃO: known far and wide (idiom)
+远近闻名 | TRADUÇÃO: to be known far and wide/to be well-known
+远途 | TRADUÇÃO: long-distance/long-haul
+远逝 | TRADUÇÃO: to fade into the distance/(fig.) to peter out/to fade away
+远游 | TRADUÇÃO: to travel far/distant wanderings
+远道而来 | TRADUÇÃO: to come from far away
+远远 | TRADUÇÃO: distant/by far
+远远超过 | TRADUÇÃO: surpassing by far
+远避 | TRADUÇÃO: to keep at a distance/to forsake
+远郊 | TRADUÇÃO: outer suburbs/remote outskirts of a city
+远销 | TRADUÇÃO: to sell to faraway lands
+远门 | TRADUÇÃO: used in 出遠門|出远门/(of a relative) distant
+远门近枝 | TRADUÇÃO: near and distant relatives
+远隔千里 | TRADUÇÃO: thousands of miles away/far away
+远离 | TRADUÇÃO: to be far from/to keep away from
+远非如此 | TRADUÇÃO: far from it being so (idiom)
+遢 | TRADUÇÃO: used in 邋遢/Taiwan pr. [ta4]
+遣 | TRADUÇÃO: (bound form) to dispatch; to send/(bound form) to drive away; to dispel
+遣使 | TRADUÇÃO: to dispatch an envoy
+遣闷 | TRADUÇÃO: to dispel anguish
+遣散 | TRADUÇÃO: to disband/to dismiss/demobilization
+遣散费 | TRADUÇÃO: severance pay
+遣词 | TRADUÇÃO: to choose one's words/wording
+遣返 | TRADUÇÃO: to repatriate (e.g. prisoners of war)/to send back
+遣送 | TRADUÇÃO: to send away/to deport/to repatriate
+遣送出境 | TRADUÇÃO: to deport
+遨 | TRADUÇÃO: to make an excursion; to ramble; to travel
+遨翔 | TRADUÇÃO: variant of 翱翔
+遨游 | TRADUÇÃO: to travel; to go on a tour; to roam
+适中 | TRADUÇÃO: moderate/reasonable/conveniently situated
+适人 | TRADUÇÃO: (said of a woman) to marry (old)
+适值 | TRADUÇÃO: just at that time/as it happens/by good luck, just then
+适切 | TRADUÇÃO: apt/appropriate
+适可而止 | TRADUÇÃO: (idiom) to refrain from going too far; to know when to stop
+适合 | TRADUÇÃO: to fit; to suit
+适婚 | TRADUÇÃO: of marriageable age
+适婚期 | TRADUÇÃO: age range suitable for getting married
+适存度 | TRADUÇÃO: fitness (evolution)/ability to survive and reproduce
+适宜 | TRADUÇÃO: suitable/appropriate
+适度 | TRADUÇÃO: moderately/appropriate
+适得其反 | TRADUÇÃO: to produce the opposite of the desired result
+适得其所 | TRADUÇÃO: exactly what one would wish/to find one's niche
+适意 | TRADUÇÃO: agreeable
+适应 | TRADUÇÃO: to adapt/to fit/to suit
+适应性 | TRADUÇÃO: adaptability/flexibility
+适才 | TRADUÇÃO: just now; a moment ago (often used in the early vernacular)
+适时 | TRADUÇÃO: timely/apt to the occasion/in due course
+适格 | TRADUÇÃO: to be qualified (to bring a complaint, lawsuit etc) (law)
+适温 | TRADUÇÃO: thermophile (e.g. bacteria)/heat-loving
+适用 | TRADUÇÃO: to be applicable
+适当 | TRADUÇÃO: suitable; appropriate
+适老化 | TRADUÇÃO: to make (products, living spaces etc) suitable for the elderly; (attributive) senior-friendly; elder-accessible
+适者生存 | TRADUÇÃO: survival of the fittest
+适航 | TRADUÇÃO: to be airworthy/to be seaworthy
+适逢 | TRADUÇÃO: to just happen to coincide with
+适逢其会 | TRADUÇÃO: (idiom) to happen to be in the right place at the right time
+适配 | TRADUÇÃO: adaptation
+适配器 | TRADUÇÃO: adapter (device)
+适配层 | TRADUÇÃO: (computing) adaptation layer
+适量 | TRADUÇÃO: appropriate amount
+适销 | TRADUÇÃO: marketable/saleable/appropriate to the market
+适间 | TRADUÇÃO: just now; just a moment ago
+适龄 | TRADUÇÃO: of age/of the appropriate age
+遫 | TRADUÇÃO: alert/nimble/quick
+遭 | TRADUÇÃO: to meet by chance (usually with misfortune)/classifier for events: time, turn, incident
+遭到 | TRADUÇÃO: to suffer/to meet with (sth unfortunate)
+遭受 | TRADUÇÃO: to suffer; to sustain (loss, misfortune)
+遭拒 | TRADUÇÃO: to meet with a refusal (e.g. visa)/to have an application rejected
+遭殃 | TRADUÇÃO: to suffer a calamity
+遭瘟 | TRADUÇÃO: to suffer from a plague/to endure a misfortune/a plague on him!
+遭罪 | TRADUÇÃO: to endure hardship/to suffer
+遭逢 | TRADUÇÃO: to encounter (sth unpleasant)
+遭遇 | TRADUÇÃO: to meet with; to encounter (esp. misfortune or hardship)/an experience (esp. adverse)
+遭遇战 | TRADUÇÃO: (military) encounter/skirmish
+遭重 | TRADUÇÃO: (slang) to suffer serious consequences or harm
+遭际 | TRADUÇÃO: (literary) fortunes and misfortunes; experiences in life
+遭难 | TRADUÇÃO: to run into misfortune
+遮 | TRADUÇÃO: to cover up (a shortcoming)/to screen off/to hide/to conceal
+遮住 | TRADUÇÃO: to cover (up)/to block/to obstruct/to shade
+遮天蔽日 | TRADUÇÃO: lit. hiding the sky and covering the earth (idiom); fig. earth-shattering/omnipresent/of universal importance
+遮掩 | TRADUÇÃO: to cover/to mask/to cover up or conceal (the truth etc)
+遮挡 | TRADUÇÃO: to shelter/to shelter from
+遮断 | TRADUÇÃO: to cut off/to interrupt/to prevent access
+遮瑕膏 | TRADUÇÃO: concealer (cosmetics)
+遮目鱼 | TRADUÇÃO: milkfish (Chanos chanos)
+遮羞 | TRADUÇÃO: to cover up one's embarrassment/to hush up a scandal
+遮羞布 | TRADUÇÃO: loincloth/(fig.) fig leaf/CL:塊|块
+遮盖 | TRADUÇÃO: to hide/to cover (one's tracks)
+遮荫 | TRADUÇÃO: to provide shade/Taiwan pr. [zhe1yin4]
+遮蔽 | TRADUÇÃO: to cover/to hide from view/to obstruct or block/defilade (military)
+遮护板 | TRADUÇÃO: shield/protective board
+遮遮掩掩 | TRADUÇÃO: to be secretive; to try to cover up (idiom)
+遮阴 | TRADUÇÃO: to provide shade
+遮阳 | TRADUÇÃO: to shield from the sun
+遮阳板 | TRADUÇÃO: sun visor/sunshade/sunshading board
+遮风避雨 | TRADUÇÃO: to give shelter from the wind and rain/to keep out the elements
+遰 | TRADUÇÃO: to go away/to migrate
+迟 | TRADUÇÃO: surname Chi ‖ late/delayed/slow
+迟了 | TRADUÇÃO: late
+迟交 | TRADUÇÃO: to delay handing over (payment, homework etc)
+迟到 | TRADUÇÃO: to arrive late
+迟延 | TRADUÇÃO: to delay
+迟慢 | TRADUÇÃO: slow/late
+迟早 | TRADUÇÃO: sooner or later
+迟暮 | TRADUÇÃO: past one's prime
+迟浩田 | TRADUÇÃO: Chi Haotian (1929-), Chinese Minister of National Defense 1993-2003
+迟滞 | TRADUÇÃO: delay/procrastination
+迟滞现象 | TRADUÇÃO: hysteresis
+迟疑 | TRADUÇÃO: to hesitate
+迟发性损伤 | TRADUÇÃO: delayed lesion
+迟缓 | TRADUÇÃO: slow/sluggish
+迟误 | TRADUÇÃO: to delay/to procrastinate
+迟迟 | TRADUÇÃO: late (with a task etc)/slow
+迟钝 | TRADUÇÃO: slow in one's reactions/sluggish (in movement or thought)
+迟顿 | TRADUÇÃO: inactive/obtuse
+遴 | TRADUÇÃO: surname Lin ‖ (literary) to select
+遴选 | TRADUÇÃO: to pick/to choose/to select
+遵 | TRADUÇÃO: to observe/to obey/to follow/to comply with
+遵令 | TRADUÇÃO: to obey orders
+遵化 | TRADUÇÃO: see 遵化市
+遵化市 | TRADUÇÃO: Zunhua, a county-level city in Tangshan City 唐山市, Hebei
+遵命 | TRADUÇÃO: to follow your orders/to do as you bid
+遵奉 | TRADUÇÃO: to conform/to obey faithfully
+遵守 | TRADUÇÃO: to comply with; to abide by; to respect (an agreement)
+遵从 | TRADUÇÃO: to comply with/to follow (directives)/to defer (to the judgment of superiors)
+遵循 | TRADUÇÃO: to follow; to abide by; to comply with
+遵旨 | TRADUÇÃO: to obey the Emperor's decree/at your Imperial majesty's command
+遵时养晦 | TRADUÇÃO: to bide one's time, waiting for an opportunity to stage a comeback in public life (idiom)
+遵照 | TRADUÇÃO: in accordance with/to follow (the rules)
+遵义 | TRADUÇÃO: see 遵義市|遵义市
+遵义市 | TRADUÇÃO: Zunyi, prefecture-level city in Guizhou Province 貴州省|贵州省
+遵义会议 | TRADUÇÃO: Zunyi conference of January 1935 before the Long March
+遵行 | TRADUÇÃO: to follow/to obey/compliance
+遵办 | TRADUÇÃO: to handle in accordance with (the rules)
+遵医嘱 | TRADUÇÃO: to follow the doctor's advice/as instructed by the physician
+迁 | TRADUÇÃO: to move/to shift/to change (a position or location etc)/to promote
+迁入 | TRADUÇÃO: to move in (to new lodging)
+迁安 | TRADUÇÃO: see 遷安市|迁安市
+迁安市 | TRADUÇÃO: Qian'an, a county-level city in Tangshan City 唐山市, Hebei
+迁就 | TRADUÇÃO: to yield to; to adapt to; to accommodate oneself to (sth)
+迁居 | TRADUÇÃO: to move (from one residence to another)
+迁居移民 | TRADUÇÃO: immigration
+迁延 | TRADUÇÃO: long delay
+迁徙 | TRADUÇÃO: to migrate/to move
+迁怒 | TRADUÇÃO: to take one's anger out on sb (who does not deserve it)
+迁怒于人 | TRADUÇÃO: to vent one's anger on an innocent party (idiom)
+迁移 | TRADUÇÃO: to migrate/to move
+迁西 | TRADUÇÃO: see 遷西縣|迁西县
+迁西县 | TRADUÇÃO: Qianxi, a county in Tangshan City 唐山市, Hebei
+迁都 | TRADUÇÃO: to move the capital (city)
+迁离 | TRADUÇÃO: to move away/to change residence
+迁飞 | TRADUÇÃO: to migrate (of birds)
+选 | TRADUÇÃO: to choose/to pick/to select/to elect
+选中 | TRADUÇÃO: to select; to choose; to decide on
+选修 | TRADUÇÃO: (at a school) to take as an elective/an elective/elective (subject)
+选修课 | TRADUÇÃO: optional course (in school)
+选入 | TRADUÇÃO: selected (for admission)/elected
+选出 | TRADUÇÃO: to pick out/to select/to elect
+选区 | TRADUÇÃO: electoral district/constituency
+选取 | TRADUÇÃO: to choose
+选召 | TRADUÇÃO: chosen and called
+选品 | TRADUÇÃO: product selection
+选单 | TRADUÇÃO: (computing) menu
+选单列 | TRADUÇÃO: (Tw) (computing) menu bar
+选址 | TRADUÇÃO: to select a suitable site/site/location
+选士 | TRADUÇÃO: (old) to select talented scholars for government service (through exams etc)/(Zhou dynasty) distinguished individuals selected and recommended from various regions to the central government
+选定 | TRADUÇÃO: to select/to choose/to settle on
+选情 | TRADUÇÃO: the state of play in an election; the current state of a candidate's campaign
+选战 | TRADUÇÃO: election campaign
+选手 | TRADUÇÃO: athlete/contestant
+选拔 | TRADUÇÃO: to select the best
+选择 | TRADUÇÃO: to select; to pick/choice; option; alternative
+选择性 | TRADUÇÃO: selective/selectiveness/selectivity
+选择题 | TRADUÇÃO: multiple-choice question
+选本 | TRADUÇÃO: anthology/selected works
+选民 | TRADUÇÃO: voter/constituency/electorate
+选民登记 | TRADUÇÃO: voter registration
+选派 | TRADUÇÃO: to select/to detail/to set apart/to appoint
+选用 | TRADUÇÃO: to choose for some purpose/to select and use
+选票 | TRADUÇÃO: a vote; ballot/CL:張|张
+选秀 | TRADUÇÃO: to select talented individuals/(sports) draft
+选秀节目 | TRADUÇÃO: talent show/talent competition
+选编 | TRADUÇÃO: selected works (poems, documents etc); anthology
+选美 | TRADUÇÃO: beauty contest
+选美比赛 | TRADUÇÃO: beauty contest
+选美皇后 | TRADUÇÃO: beauty queen
+选听 | TRADUÇÃO: selective listening (linguistics)
+选育 | TRADUÇÃO: seed selection/breeding
+选举 | TRADUÇÃO: to elect/election/CL:次,個|个
+选举人 | TRADUÇÃO: voter/elector
+选举人团 | TRADUÇÃO: Electoral College (of the United States)
+选举团 | TRADUÇÃO: Electoral College (of the United States)
+选举委员会 | TRADUÇÃO: Election Committee (Hong Kong)
+选举权 | TRADUÇÃO: suffrage
+选举法庭 | TRADUÇÃO: election court
+选装 | TRADUÇÃO: optional (equipment)
+选角 | TRADUÇÃO: to cast actors for a film, play etc
+选课 | TRADUÇÃO: to select courses
+选购 | TRADUÇÃO: to select and purchase/to buy
+选送 | TRADUÇÃO: to select and send over
+选边站 | TRADUÇÃO: to choose a side (in a conflict, debate or rivalry); to take sides
+选录 | TRADUÇÃO: an excerpt/a digest
+选集 | TRADUÇÃO: anthology
+选项 | TRADUÇÃO: option; alternative; choice/to choose a project
+选题 | TRADUÇÃO: to choose a topic (for writing, research, publishing etc); chosen topic
+选点 | TRADUÇÃO: to choose an appropriate location
+遹 | TRADUÇÃO: surname Yu ‖ follow/in accordance with
+遗 | TRADUÇÃO: (bound form) to leave behind
+遗作 | TRADUÇÃO: posthumous work
+遗传 | TRADUÇÃO: heredity/to inherit (a trait)/to pass on (to one's offspring)
+遗传信息 | TRADUÇÃO: genetic information
+遗传学 | TRADUÇÃO: genetics
+遗传工程 | TRADUÇÃO: genetic engineering
+遗传性 | TRADUÇÃO: hereditary/inherited/genetic
+遗传性疾病 | TRADUÇÃO: genetic disorder
+遗传物质 | TRADUÇÃO: genetic material
+遗传率 | TRADUÇÃO: heritability
+遗像 | TRADUÇÃO: portrait of the deceased
+遗嘱 | TRADUÇÃO: testament/will
+遗址 | TRADUÇÃO: ruins/historic relics
+遗墨 | TRADUÇÃO: posthumous (painting, calligraphy, prose etc)
+遗失 | TRADUÇÃO: to lose; to leave behind (inadvertently)
+遗妻 | TRADUÇÃO: widow
+遗孀 | TRADUÇÃO: (formal) widow
+遗存 | TRADUÇÃO: historical remains/things that have survived since ancient times/(of such things) to survive
+遗孤 | TRADUÇÃO: orphan
+遗害无穷 | TRADUÇÃO: to have disastrous consequences/also written 貽害無窮|贻害无穷
+遗容 | TRADUÇÃO: the looks of the deceased (esp. in the context of paying one's respects)/picture of the deceased
+遗尿 | TRADUÇÃO: bed-wetting
+遗属 | TRADUÇÃO: surviving family of the deceased
+遗志 | TRADUÇÃO: the mission in life of a deceased person, left to others to carry on
+遗忘 | TRADUÇÃO: to forget; to cease to think about (sb or sth) anymore
+遗忘症 | TRADUÇÃO: amnesia
+遗恨 | TRADUÇÃO: eternal regret
+遗憾 | TRADUÇÃO: regret/to regret/to be sorry that
+遗教 | TRADUÇÃO: work or plans left as a legacy/the views of the departed/posthumous orders or teachings
+遗族 | TRADUÇÃO: the bereaved/family of the deceased
+遗书 | TRADUÇÃO: posthumous writing/testament/suicide note/ancient literature
+遗案 | TRADUÇÃO: unsolved case (law)
+遗弃 | TRADUÇÃO: to leave/to abandon
+遗民 | TRADUÇÃO: (lit.) leftover men/(fig.) loyalist adherents of a former dynasty/surviving members of an ethnic group
+遗漏 | TRADUÇÃO: to overlook/to miss/to omit
+遗照 | TRADUÇÃO: picture of the deceased
+遗物 | TRADUÇÃO: personal effects (of the deceased); artifacts; relics; (biological) remains
+遗珠 | TRADUÇÃO: unrecognized talent
+遗产 | TRADUÇÃO: heritage/legacy/inheritance/bequest/CL:筆|笔
+遗产税 | TRADUÇÃO: inheritance tax/estate tax
+遗男 | TRADUÇÃO: orphan/posthumous son
+遗留 | TRADUÇÃO: to leave behind/to hand down
+遗稿 | TRADUÇÃO: surviving manuscript/bequeathed draft (of book)
+遗精 | TRADUÇÃO: nocturnal emission/wet dream
+遗缺 | TRADUÇÃO: vacancy
+遗老 | TRADUÇÃO: elderly loyalist of a former dynasty; former official who remains loyal after a dynastic change
+遗腹子 | TRADUÇÃO: posthumous child
+遗臭万年 | TRADUÇÃO: to have one's name go down in history as a byword for infamy (idiom)
+遗落 | TRADUÇÃO: to leave behind (inadvertently)/to forget/to omit/to leave out
+遗著 | TRADUÇÃO: posthumous work (of a writer)
+遗蜕 | TRADUÇÃO: to shed skin/to leave one's mortal envelope/remains (of a priest)
+遗言 | TRADUÇÃO: words of the deceased/last words of the dying/wisdom of past sages
+遗训 | TRADUÇÃO: moral instruction handed down by sages of the past or departed elders
+遗诏 | TRADUÇÃO: posthumous edict (of former emperor)
+遗赠 | TRADUÇÃO: to bequeath
+遗迹 | TRADUÇÃO: trace/vestige/historical remains/remnant
+遗愿 | TRADUÇÃO: final wishes of the departed
+遗风 | TRADUÇÃO: tradition or style from the past/old ways/surviving tradition/relic
+遗骨 | TRADUÇÃO: (dead) human remains
+遗骸 | TRADUÇÃO: (dead) human remains
+遗体 | TRADUÇÃO: remains (of a dead person)
+遗体告别式 | TRADUÇÃO: funeral
+遗鸥 | TRADUÇÃO: (bird species of China) relict gull (Ichthyaetus relictus)
+遻 | TRADUÇÃO: recalcitrant/to encounter
+辽 | TRADUÇÃO: short name for Liaoning 遼寧|辽宁 province/Liao or Khitan dynasty (916-1125) ‖ (bound form) distant; faraway
+辽中 | TRADUÇÃO: see 遼中區|辽中区
+辽中区 | TRADUÇÃO: Liaozhong, a district of Shenyang City 瀋陽市|沈阳市, Liaoning
+辽史 | TRADUÇÃO: History of the Liao Dynasty, twenty first of the 24 dynastic histories 二十四史, composed under Toktoghan 脫脫|脱脱 in 1345 during the Yuan Dynasty 元, 116 scrolls
+辽宁 | TRADUÇÃO: see 遼寧省|辽宁省
+辽宁古盗鸟 | TRADUÇÃO: Archaeoraptor liaoningensis (bird-like dinosaur found in Liaoning province)
+辽宁大学 | TRADUÇÃO: Liaoning University
+辽宁省 | TRADUÇÃO: Liaoning Province, capital Shenyang 瀋陽市|沈阳市 (short name 遼|辽)
+辽宁号 | TRADUÇÃO: Liaoning, the first aircraft carrier commissioned into the PLA Navy (commissioned in 2012)
+辽东 | TRADUÇÃO: Liaodong peninsula between Bohai 渤海 and Yellow sea/east and south of Liaoning province/east of Liao river 遼河|辽河
+辽东半岛 | TRADUÇÃO: Liaodong Peninsula
+辽河 | TRADUÇÃO: Liao River of northeast China, passing through Inner Mongolia, Hebei, Jilin and Liaoning
+辽海 | TRADUÇÃO: east and south of Liaoning province
+辽源 | TRADUÇÃO: see 遼源市|辽源市
+辽源市 | TRADUÇÃO: Liaoyuan, prefecture-level city in Jilin Province 吉林省
+辽沈战役 | TRADUÇÃO: Liaoshen Campaign (Sep-Nov 1948), the first of the three major campaigns by the People's Liberation Army near the end of the Chinese Civil War
+辽西 | TRADUÇÃO: west of Liaoning
+辽远 | TRADUÇÃO: distant; faraway; remote
+辽金 | TRADUÇÃO: Liao and Jin dynasties, namely: Liao or Khitan dynasty (907-1125) and Jurchen Jin dynasty (1115-1234)
+辽阔 | TRADUÇÃO: vast; extensive
+辽阳 | TRADUÇÃO: see 遼陽市|辽阳市/see 遼陽縣|辽阳县
+辽阳市 | TRADUÇÃO: Liaoyang, prefecture-level city in Liaoning Province 遼寧省|辽宁省
+辽阳县 | TRADUÇÃO: Liaoyang, a county in Liaoyang City 遼陽市|辽阳市, Liaoning
+遽 | TRADUÇÃO: hurry/fast/suddenly
+遽然 | TRADUÇÃO: (literary) all of a sudden
+避 | TRADUÇÃO: to avoid/to shun/to flee/to escape/to keep away from/to leave/to hide from
+避不见面 | TRADUÇÃO: to refuse to meet sb/to avoid sb
+避世 | TRADUÇÃO: to shun the world
+避世绝俗 | TRADUÇÃO: (idiom) to withdraw from society and live in seclusion
+避免 | TRADUÇÃO: to avert/to prevent/to avoid/to refrain from
+避其锐气，击其惰归 | TRADUÇÃO: avoid the enemy when he is fresh and strike him when he is tired and withdraws (idiom)
+避坑落井 | TRADUÇÃO: to dodge a pit only to fall into a well (idiom)/out of the frying pan into the fire
+避嫌 | TRADUÇÃO: to avoid arousing suspicion
+避孕 | TRADUÇÃO: contraception
+避孕丸 | TRADUÇÃO: contraceptive pill
+避孕套 | TRADUÇÃO: condom/CL:隻|只
+避孕环 | TRADUÇÃO: coil/contraceptive coil/intrauterine device
+避孕药 | TRADUÇÃO: oral contraceptive
+避寒 | TRADUÇÃO: to escape the cold by going on a winter holiday
+避实就虚 | TRADUÇÃO: (idiom) stay clear of the enemy's main force and strike at his weak points
+避实击虚 | TRADUÇÃO: see 避實就虛|避实就虚
+避弹坑 | TRADUÇÃO: foxhole
+避役 | TRADUÇÃO: chameleon
+避忌 | TRADUÇÃO: to avoid as taboo
+避恶 | TRADUÇÃO: to avoid evil
+避暑 | TRADUÇÃO: to be away for the summer holidays/to spend a holiday at a summer resort/to prevent sunstroke
+避暑山庄 | TRADUÇÃO: mountain resort/Qing imperial summer residence at Chengde, a world heritage site
+避税 | TRADUÇÃO: to avoid taxation/tax avoidance
+避税天堂 | TRADUÇÃO: tax haven
+避税港 | TRADUÇÃO: tax haven
+避署 | TRADUÇÃO: to go on summer vacation
+避而不 | TRADUÇÃO: to avoid (doing sth)
+避蚊胺 | TRADUÇÃO: DEET, an insect repellent
+避讳 | TRADUÇÃO: to avoid a taboo (usu. on the given names of emperors or one's elders) ‖ to avoid a taboo word or topic/to refrain from; to avoid
+避让 | TRADUÇÃO: to avoid/to yield (in traffic)/to get out of the way
+避邪 | TRADUÇÃO: to avoid evil spirits
+避重就轻 | TRADUÇÃO: to avoid the important and dwell on the trivial/to keep silent about major charges while admitting minor ones
+避开 | TRADUÇÃO: to avoid/to evade/to keep away from
+避障 | TRADUÇÃO: (of a robot, autonomous vehicle etc) to avoid obstacles
+避险 | TRADUÇÃO: to flee from danger/to avoid danger/to minimize risk/(finance) hedge
+避难 | TRADUÇÃO: to take refuge; to seek asylum
+避难所 | TRADUÇÃO: a refuge; a haven; a sanctuary
+避雨 | TRADUÇÃO: to take shelter from the rain
+避雷 | TRADUÇÃO: (bound form) to avoid being struck by lightning/(slang) to steer clear of sth bad (e.g. shoddy goods, a scam, or a bad experience)
+避雷器 | TRADUÇÃO: lightning arrester
+避雷针 | TRADUÇÃO: lightning rod
+避震鞋 | TRADUÇÃO: cushioning shoes (Tw)
+避风 | TRADUÇÃO: to take shelter from the wind/to lie low/to stay out of trouble
+避风塘 | TRADUÇÃO: typhoon shelter (a cove where boats shelter from strong winds and rough seas, esp. in Hong Kong)/(attributive) typhoon shelter-style, a cooking method associated with those who lived on boats in the coves, where crab, prawn or other meat is fried and flavored with spices and black beans
+避风港 | TRADUÇÃO: haven; refuge; harbor/CL:座,個|个
+避风处 | TRADUÇÃO: lee/windstop
+避风头 | TRADUÇÃO: to lie low (until the fuss dies down)
+邀 | TRADUÇÃO: to invite/to request/to intercept/to solicit/to seek
+邀功 | TRADUÇÃO: to take the credit for sb's achievement
+邀宴 | TRADUÇÃO: to invite sb to a banquet
+邀击 | TRADUÇÃO: to intercept/to waylay/to ambush
+邀约 | TRADUÇÃO: to invite; an invitation
+邀请 | TRADUÇÃO: to invite/invitation/CL:個|个
+邀请函 | TRADUÇÃO: invitation letter/CL:封
+邀请赛 | TRADUÇÃO: invitation tournament (e.g. between schools or firms)
+邀买人心 | TRADUÇÃO: to buy popular support/to court favor
+邀集 | TRADUÇÃO: to invite a group of people (to assemble for a gathering)
+迈 | TRADUÇÃO: to take a step/to stride
+迈克尔 | TRADUÇÃO: (name) Michael
+迈克尔·杰克逊 | TRADUÇÃO: Michael Jackson (1958-2009), American musician and entertainer
+迈克尔·克莱顿 | TRADUÇÃO: Michael Crichton (1942-), US techno-thriller writer, author of Jurassic Park

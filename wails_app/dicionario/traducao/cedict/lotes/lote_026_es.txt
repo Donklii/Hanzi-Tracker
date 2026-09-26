@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+城根 | TRADUÇÃO: secciones de una ciudad cercanas a la muralla
+城楼 | TRADUÇÃO: torre sobre la puerta de la muralla/torreón de la puerta de la ciudad
+城步 | TRADUÇÃO: véase 城步苗族自治縣|城步苗族自治县
+城步县 | TRADUÇÃO: véase 城步苗族自治縣|城步苗族自治县
+城步苗族自治县 | TRADUÇÃO: condado autónomo miao de Chengbu, en la ciudad de Shaoyang 邵陽市|邵阳市, Hunan
+城池 | TRADUÇÃO: ciudad/ciudad amurallada
+城墙 | TRADUÇÃO: muralla de la ciudad/muralla urbana
+城管 | TRADUÇÃO: agente de orden público urbano/gestión urbana (abrev. de 城市管理行政執法局|城市管理行政执法局)
+城里人 | TRADUÇÃO: habitante de la ciudad/gente de la ciudad/citadino
+城西 | TRADUÇÃO: véase 城西區|城西区
+城西区 | TRADUÇÃO: Chengxi, distrito de la ciudad de Xining 西寧市|西宁市, Qinghai
+城运会 | TRADUÇÃO: abrev. de 城市運動會|城市运动会
+城邑 | TRADUÇÃO: (literario) ciudades/poblaciones
+城邦 | TRADUÇÃO: polis/ciudad-estado
+城郊 | TRADUÇÃO: suburbios/afueras de la ciudad/periferia urbana
+城郭 | TRADUÇÃO: muralla de la ciudad/murallas defensivas
+城乡 | TRADUÇÃO: urbano y rural/ciudad y campo
+城镇 | TRADUÇÃO: pueblo/ciudades y pueblos/población urbana
+城镇化 | TRADUÇÃO: urbanización
+城镇化水平 | TRADUÇÃO: nivel de urbanización
+城铁 | TRADUÇÃO: tren urbano/ferrocarril metropolitano/metro ligero
+城门 | TRADUÇÃO: puerta de la ciudad/puerta de la muralla
+城门失火，殃及池鱼 | TRADUÇÃO: el fuego en la puerta de la ciudad perjudica a los peces del foso (modismo); los inocentes pagan justos por pecadores/(fig.) sufrir las consecuencias del daño ajeno
+城阙 | TRADUÇÃO: torre de vigilancia a los lados de la puerta de la ciudad/(literario) ciudad/palacio imperial
+城关 | TRADUÇÃO: véase 城關區|城关区 ‖ área fuera de la puerta de la ciudad
+城关区 | TRADUÇÃO: Chengguan, distrito de la ciudad de Lanzhou 蘭州市|兰州市, Gansu/Chengguan, distrito de la ciudad de Lhasa 拉薩市|拉萨市, Tíbet
+城防 | TRADUÇÃO: defensa de la ciudad/defensas urbanas
+城阳 | TRADUÇÃO: véase 城陽區|城阳区
+城阳区 | TRADUÇÃO: Chengyang, distrito de la ciudad de Qingdao 青島市|青岛市, Shandong
+城隍 | TRADUÇÃO: Dios de la Ciudad/deidad protectora de la ciudad en la mitología china
+埏 | TRADUÇÃO: mezclar agua con arcilla ‖ límite/frontera
+埒 | TRADUÇÃO: (literario) igual/cercado/dique/terraplén/pron. en Taiwán [le4]
+埔 | TRADUÇÃO: usado en nombres de lugares ‖ usado en nombres de lugares
+埔心 | TRADUÇÃO: municipio de Puxin en el condado de Changhua 彰化縣|彰化县, Taiwán
+埔心乡 | TRADUÇÃO: municipio de Puxin en el condado de Changhua 彰化縣|彰化县, Taiwán
+埔里 | TRADUÇÃO: Puli, localidad en el condado de Nantou 南投縣|南投县, centro de Taiwán
+埔里镇 | TRADUÇÃO: Puli, localidad en el condado de Nantou 南投縣|南投县, centro de Taiwán
+埔盐 | TRADUÇÃO: municipio de Puyan en el condado de Changhua 彰化縣|彰化县, Taiwán
+埔盐乡 | TRADUÇÃO: municipio de Puyan en el condado de Changhua 彰化縣|彰化县, Taiwán
+埕 | TRADUÇÃO: tinaja de barro/jarra de barro
+埗 | TRADUÇÃO: muelle/embarcadero/puerto/centro comercial/nombre de lugar
+埛 | TRADUÇÃO: variante antigua de 坰
+野 | TRADUÇÃO: variante antigua de 野 ‖ campo/llanura/espacio abierto/límite/frontera/rudo/salvaje
+埝 | TRADUÇÃO: terraplén de tierra para retener agua/dique alrededor de un arrozal
+域 | TRADUÇÃO: territorio/campo/región/área/dominio (taxonomía)
+域名 | TRADUÇÃO: (informát.) nombre de dominio
+域名抢注 | TRADUÇÃO: ciberocupación/ocupación de dominios
+域名服务器 | TRADUÇÃO: servidor de nombres de dominio/servidor DNS
+域名编码 | TRADUÇÃO: Punycode (abrev. de 國際化域名編碼|国际化域名编码)
+域名注册 | TRADUÇÃO: registro de dominio
+域外 | TRADUÇÃO: en el extranjero/fuera del país/extraterritorial
+埠 | TRADUÇÃO: (forma ligada) muelle; embarcadero; ciudad portuaria/(Taiwán) (informát.) (forma ligada) puerto
+埠头 | TRADUÇÃO: muelle/embarcadero
+垭 | TRADUÇÃO: (dialectal) franja de tierra entre colinas/usado en topónimos/también pron. [ya4]
+垭口 | TRADUÇÃO: (dialectal) paso de montaña estrecho/desfiladero
+埤 | TRADUÇÃO: muro bajo
+埤头 | TRADUÇÃO: municipio de Pitou en el condado de Changhua 彰化縣|彰化县, Taiwán
+埤头乡 | TRADUÇÃO: municipio de Pitou en el condado de Changhua 彰化縣|彰化县, Taiwán
+埦 | TRADUÇÃO: variante de 碗
+埧 | TRADUÇÃO: estanque con dique
+埫 | TRADUÇÃO: variante de 垧/pron. en Taiwán [chong3] ‖ terreno llano/(usado en topónimos)
+埭 | TRADUÇÃO: presa/dique
+埯 | TRADUÇÃO: hoyo en la tierra para sembrar semillas/hacer un hoyo para semillas
+埰 | TRADUÇÃO: variante antigua de 采
+埲 | TRADUÇÃO: usado en 塕埲/(cantonés) clasificador para muros
+埴 | TRADUÇÃO: arcilla/tierra arcillosa
+埵 | TRADUÇÃO: tierra compacta/montículo de tierra
+埶 | TRADUÇÃO: habilidad/arte
+执 | TRADUÇÃO: ejecutar (un plan)/sostener/agarrar
+执事 | TRADUÇÃO: desempeñar el propio trabajo/asistente/cargo/deberes/(fórmula de cortesía hacia el destinatario) usted/su excelencia/(iglesia) diácono ‖ parafernalia de una guardia de honor
+执勤 | TRADUÇÃO: estar de guardia/estar de servicio (guardia de seguridad, etc.)
+执委 | TRADUÇÃO: miembro del comité ejecutivo (abrev. de 執行委員|执行委员)
+执委会 | TRADUÇÃO: comité ejecutivo (abrev. de 執行委員會|执行委员会)
+执导 | TRADUÇÃO: dirigir (una película, obra de teatro, etc.)
+执念 | TRADUÇÃO: obsesión (CL:股)/(seguido de 於|于) estar obsesionado (con)
+执意 | TRADUÇÃO: estar empeñado en/insistir en/obstinarse en
+执拗 | TRADUÇÃO: testarudo; obstinado; terco/pron. en Taiwán [zhi2ao4]
+执拾 | TRADUÇÃO: ordenar/recoger (dialectal)
+执掌 | TRADUÇÃO: empuñar/ejercer (el poder, etc.)
+执政 | TRADUÇÃO: gobernar/estar en el poder/en el ejercicio del poder
+执政官 | TRADUÇÃO: cónsul (de la República romana)/magistrado (administrador jefe)
+执政者 | TRADUÇÃO: gobernante
+执政能力 | TRADUÇÃO: capacidad de gobierno/competencia gubernamental
+执政党 | TRADUÇÃO: partido gobernante/partido en el poder
+执教 | TRADUÇÃO: enseñar/ejercer la docencia/entrenar/dirigir como entrenador
+执业 | TRADUÇÃO: ejercer una profesión (p. ej. médico, abogado)/profesional en ejercicio
+执法 | TRADUÇÃO: aplicar la ley/hacer cumplir la ley/cumplimiento de la ley
+执法如山 | TRADUÇÃO: mantener la ley firme como una montaña (modismo); aplicar la ley con estricto rigor
+执照 | TRADUÇÃO: licencia; permiso
+执牛耳 | TRADUÇÃO: ser el líder reconocido/llevar la batuta (de la antigua costumbre de sostener las orejas del toro sacrificado en una alianza)
+执笔 | TRADUÇÃO: escribir/redactar/llevar la pluma
+执绋 | TRADUÇÃO: asistir a un funeral/llevar los cordones del féretro
+执着 | TRADUÇÃO: dedicado; devoto; persistente/aferrarse a; insistir en/(budismo) apego
+执著 | TRADUÇÃO: variante de 執著|执着
+执行 | TRADUÇÃO: implementar/llevar a cabo/ejecutar
+执行人 | TRADUÇÃO: ejecutor/albacea/verdugo
+执行绪 | TRADUÇÃO: (Taiwán) (informát.) hilo de ejecución
+执行长 | TRADUÇÃO: (Taiwán) director ejecutivo/CEO
+执迷 | TRADUÇÃO: obsesionarse/persistir obstinadamente
+执迷不悟 | TRADUÇÃO: persistir obstinadamente en el error (modismo)/negarse a entrar en razón
+执金吾 | TRADUÇÃO: (dinastía Han) oficial al mando encargado del orden público en la capital
+执飞 | TRADUÇÃO: (de una aerolínea) operar un vuelo
+埸 | TRADUÇÃO: frontera/límite
+培 | TRADUÇÃO: aporcar/cultivar (lit. o fig.)/formar (personas)/capacitar
+培亚 | TRADUÇÃO: Praia, capital de Cabo Verde (Taiwán)
+培修 | TRADUÇÃO: reparar terraplenes/reparar obras de tierra
+培勒兹 | TRADUÇÃO: Pérez (nombre)
+培土 | TRADUÇÃO: aporcar/cubrir con tierra las raíces
+培林 | TRADUÇÃO: (mecánica) rodamiento/cojinete (préstamo) (Taiwán)
+培果 | TRADUÇÃO: variante de 貝果|贝果
+培根 | TRADUÇÃO: (préstamo) panceta/beicon
+培植 | TRADUÇÃO: cultivar/formar/cultivo/formación
+培育 | TRADUÇÃO: criar/cultivar/fomentar/educar
+培训 | TRADUÇÃO: capacitar/entrenar/formar/capacitación/entrenamiento
+培训班 | TRADUÇÃO: clase de capacitación/curso de formación
+培养 | TRADUÇÃO: cultivar/criar/fomentar/formar/educar/cultivo (biología)
+培养基 | TRADUÇÃO: medio de cultivo
+培养液 | TRADUÇÃO: líquido de cultivo (en laboratorio biológico)
+培养皿 | TRADUÇÃO: placa de Petri
+基 | TRADUÇÃO: (forma ligada) base; fundamento/(forma ligada) radical (química)/(forma ligada) gay (préstamo del inglés al cantonés Jyutping: gei1, y de ahí al mandarín)
+基佬 | TRADUÇÃO: (jerga) hombre gay
+基加利 | TRADUÇÃO: Kigali, capital de Ruanda
+基友 | TRADUÇÃO: (jerga) amigo muy cercano del mismo sexo/pareja gay
+基因 | TRADUÇÃO: gen (préstamo)
+基因修改 | TRADUÇÃO: modificación genética
+基因图谱 | TRADUÇÃO: mapa genético/cartografía del genoma
+基因型 | TRADUÇÃO: genotipo
+基因学 | TRADUÇÃO: genética
+基因工程 | TRADUÇÃO: ingeniería genética
+基因座 | TRADUÇÃO: (genética) locus
+基因库 | TRADUÇÃO: banco de genes/banco genético
+基因技术 | TRADUÇÃO: tecnología genética
+基因改造 | TRADUÇÃO: modificación genética; transgénico
+基因治疗 | TRADUÇÃO: terapia génica
+基因码 | TRADUÇÃO: código genético
+基因突变 | TRADUÇÃO: mutación genética
+基因组 | TRADUÇÃO: genoma
+基因体 | TRADUÇÃO: genoma (Taiwán)
+基团 | TRADUÇÃO: radical (química)/grupo funcional
+基地 | TRADUÇÃO: Al Qaeda ‖ base (de operaciones, militar, de investigación, etc.)
+基地恐怖组织 | TRADUÇÃO: Al Qaeda/igual que 基地組織|基地组织
+基地组织 | TRADUÇÃO: Al Qaeda
+基址 | TRADUÇÃO: cimientos/base/ruinas (de un edificio histórico)
+基坑 | TRADUÇÃO: zanja de cimentación/foso de cimientos
+基多 | TRADUÇÃO: Quito, capital de Ecuador
+基奈 | TRADUÇÃO: Kenai (península, lago, montañas), Alaska (Taiwán)
+基孔肯雅热 | TRADUÇÃO: fiebre chikungunya
+基尼系数 | TRADUÇÃO: coeficiente de Gini (medida de desigualdad económica)
+基层 | TRADUÇÃO: nivel de base/organización de base/estrato básico
+基岩 | TRADUÇÃO: lecho de roca/roca madre
+基布兹 | TRADUÇÃO: kibutz
+基希讷乌 | TRADUÇÃO: Chisináu, capital de Moldavia
+基带 | TRADUÇÃO: (telecomunicaciones, electrónica) banda base
+基床 | TRADUÇÃO: lecho de cimentación/estrato de apoyo/sustrato
+基底 | TRADUÇÃO: zócalo; base; sustrato
+基底动脉 | TRADUÇÃO: arteria basilar (arteria central del encéfalo)
+基底细胞癌 | TRADUÇÃO: carcinoma basocelular
+基座 | TRADUÇÃO: pedestal/plinto/base de apoyo
+基建 | TRADUÇÃO: construcción de infraestructura/infraestructura (abrev. de 基本建設|基本建设)
+基情 | TRADUÇÃO: (jerga) afecto entre hombres/amor gay
+基拉韦厄 | TRADUÇÃO: Kilauea, Hawái, el volcán más activo del mundo
+基操 | TRADUÇÃO: (jerga) lo habitual; comportamiento típico; nada del otro mundo; justo lo esperado (a menudo usado con ironía) (abrev. de 基本操作)
+基操勿6 | TRADUÇÃO: (jerga de internet) no es nada, no hace falta halagar
+基改 | TRADUÇÃO: (Taiwán) modificado genéticamente; transgénico (abrev. de 基因改造)
+基数 | TRADUÇÃO: número cardinal/(mat.) base/raíz
+基数词 | TRADUÇÃO: numeral cardinal
+基于 | TRADUÇÃO: basado en/a partir de/en virtud de/a causa de
+基普 | TRADUÇÃO: kip (moneda de Laos)
+基本 | TRADUÇÃO: básico/fundamental/principal/elemental
+基本上 | TRADUÇÃO: básicamente/en general/en lo fundamental
+基本利率 | TRADUÇÃO: tipo de interés básico/tasa base (p. ej. fijada por un banco central)
+基本功 | TRADUÇÃO: destrezas básicas/habilidades fundamentales
+基本原则 | TRADUÇÃO: principio fundamental/doctrina rectora
+基本原理 | TRADUÇÃO: principio fundamental
+基本单位 | TRADUÇÃO: unidad básica/elemento fundamental
+基本多文种平面 | TRADUÇÃO: plano multilingüe básico (BMP)
+基本定理 | TRADUÇÃO: teorema fundamental
+基本概念 | TRADUÇÃO: concepto básico
+基本法 | TRADUÇÃO: ley fundamental (documento constitucional)
+基本盘 | TRADUÇÃO: base de votantes (de un partido)/base de seguidores (de un artista)/base de clientes/capital básico de una empresa/cimiento del que depende la existencia de algo/base sólida (en sentido figurado)
+基本粒子 | TRADUÇÃO: partícula elemental (física de partículas)
+基本词汇 | TRADUÇÃO: vocabulario básico
+基本需要 | TRADUÇÃO: necesidad básica/necesidad fundamental
+基本面 | TRADUÇÃO: aspectos básicos; fundamentos/(finanzas) fundamentales
+基本点 | TRADUÇÃO: punto clave; meollo/(finanzas) punto básico
+基材 | TRADUÇÃO: material base/sustrato
+基板 | TRADUÇÃO: placa base/sustrato
+基桑加尼 | TRADUÇÃO: Kisangani (ciudad de la República Democrática del Congo)
+基业 | TRADUÇÃO: patrimonio fundacional/base/patrimonio familiar
+基极 | TRADUÇÃO: base (electrodo en un transistor)
+基桩 | TRADUÇÃO: pilotes de cimentación
+基模 | TRADUÇÃO: (psicología) esquema
+基民 | TRADUÇÃO: inversor de fondos/(coloq.) persona gay
+基民党 | TRADUÇÃO: partido demócrata cristiano
+基波 | TRADUÇÃO: onda fundamental
+基测 | TRADUÇÃO: Examen de Competencias Básicas para Estudiantes de Secundaria Inferior (Taiwán), abrev. de 國民中學學生基本學力測驗|国民中学学生基本学力测验
+基准 | TRADUÇÃO: (topografía) dato de referencia/estándar; criterio; punto de referencia
+基尔 | TRADUÇÃO: Kiel (ciudad de Alemania)
+基尔特 | TRADUÇÃO: gremio (préstamo)
+基牙 | TRADUÇÃO: diente pilar (odontología)
+基甸 | TRADUÇÃO: Gedeón (nombre bíblico)/también escrito 吉迪恩
+基盘 | TRADUÇÃO: base/fundamento/(Taiwán) (geología) lecho rocoso
+基督 | TRADUÇÃO: Cristo (abrev. de 基利斯督 o 基利士督)
+基督城 | TRADUÇÃO: Christchurch (ciudad de Nueva Zelanda)
+基督徒 | TRADUÇÃO: cristiano
+基督教 | TRADUÇÃO: cristianismo
+基督教徒 | TRADUÇÃO: un cristiano
+基督教民主联盟 | TRADUÇÃO: Unión Demócrata Cristiana (partido político alemán)
+基督教派 | TRADUÇÃO: denominación cristiana
+基督教科学派 | TRADUÇÃO: Ciencia Cristiana
+基督新教 | TRADUÇÃO: protestantismo
+基督圣体节 | TRADUÇÃO: Corpus Christi (festividad católica)
+基石 | TRADUÇÃO: piedra angular; piedra fundamental/(fig.) base; fundamento
+基础 | TRADUÇÃO: base; fundamento; cimientos/básico; fundamental
+基础问题 | TRADUÇÃO: cuestión básica/problema fundamental
+基础教育 | TRADUÇÃO: educación básica/educación primaria
+基础病 | TRADUÇÃO: enfermedad subyacente/afección preexistente
+基础结构 | TRADUÇÃO: infraestructura
+基础设施 | TRADUÇÃO: infraestructura
+基础设施即服务 | TRADUÇÃO: (informát.) infraestructura como servicio (IaaS)
+基础课 | TRADUÇÃO: curso básico/asignatura fundamental
+基础速率 | TRADUÇÃO: velocidad básica/tasa básica (como en RDSI)
+基站 | TRADUÇÃO: estación base
+基网 | TRADUÇÃO: red geodésica fundamental
+基线 | TRADUÇÃO: línea base (topografía, presupuestos, tipografía, etc.)/(mat.) base (de un triángulo)
+基罗米突 | TRADUÇÃO: kilómetro (antiguo) (préstamo)
+基肥 | TRADUÇÃO: abono de fondo/fertilizante de base
+基脚 | TRADUÇÃO: zapata/pedestal
+基台 | TRADUÇÃO: (implante dental) pilar
+基西纽 | TRADUÇÃO: Chisináu (también Kishinev), capital de Moldavia (Taiwán)
+基调 | TRADUÇÃO: tonalidad principal (en una composición musical)/tono dominante/discurso inaugural
+基谐波 | TRADUÇÃO: frecuencia fundamental/armónico fundamental
+基诺 | TRADUÇÃO: etnia Jino
+基诺族 | TRADUÇÃO: etnia Jino
+基质 | TRADUÇÃO: sustrato base (de compuesto químico)/estroma (tejido conectivo en biología)
+基质膜 | TRADUÇÃO: membrana plasmática basal
+基辅 | TRADUÇÃO: Kiev, capital de Ucrania
+基辅罗斯 | TRADUÇÃO: Rus de Kiev (antiguo estado eslavo oriental)
+基辛格 | TRADUÇÃO: Henry Kissinger (1923–2023), académico y político estadounidense, secretario de Estado 1973–1977
+基里巴斯 | TRADUÇÃO: Kiribati
+基里巴斯共和国 | TRADUÇÃO: República de Kiribati
+基金 | TRADUÇÃO: fondo
+基金会 | TRADUÇÃO: fundación (institución dotacional)
+基隆 | TRADUÇÃO: Keelung o Chilung, ciudad y puerto principal del norte de Taiwán
+基隆市 | TRADUÇÃO: Keelung o Chilung, ciudad del norte de Taiwán
+基面 | TRADUÇÃO: plano de tierra (en perspectiva)
+基音 | TRADUÇÃO: tono fundamental
+基频 | TRADUÇÃO: frecuencia fundamental
+基体 | TRADUÇÃO: matriz/sustrato/cuerpo base
+基点 | TRADUÇÃO: base; centro/punto de partida/(finanzas) punto básico (abrev. de 基本點|基本点)
+埼 | TRADUÇÃO: cabo/promontorio
+埼玉 | TRADUÇÃO: Saitama (prefectura y ciudad de Japón)
+埽 | TRADUÇÃO: dique de ramas y tierra/variante antigua de 掃|扫
+堀 | TRADUÇÃO: cueva/agujero
+堂 | TRADUÇÃO: salón principal/sala grande para un propósito específico/CL:間|间/relación entre primos paternos/del mismo clan/clasificador para clases o conferencias/clasificador para juegos de muebles
+堂倌 | TRADUÇÃO: (antiguo) mozo/camarero/asistente
+堂兄 | TRADUÇÃO: primo paterno mayor (hijo del hermano del padre)
+堂兄弟 | TRADUÇÃO: primos paternos varones (hijos de los hermanos del padre)
+堂区 | TRADUÇÃO: parroquia/parroquia civil
+堂吉诃德 | TRADUÇÃO: Don Quijote
+堂哥 | TRADUÇÃO: primo paterno mayor
+堂堂 | TRADUÇÃO: imponente/majestuoso/digno/aspecto señorial
+堂堂正正 | TRADUÇÃO: recto y franco/íntegro/digno/intachable
+堂妹 | TRADUÇÃO: prima paterna menor
+堂妹夫 | TRADUÇÃO: esposo de una prima paterna menor
+堂姊 | TRADUÇÃO: prima paterna mayor
+堂姊妹 | TRADUÇÃO: primas paternas (hijas de los hermanos del padre)
+堂姐 | TRADUÇÃO: prima paterna mayor
+堂姐夫 | TRADUÇÃO: esposo de una prima paterna mayor
+堂侄 | TRADUÇÃO: sobrino por línea patrilineal
+堂嫂 | TRADUÇÃO: esposa del primo paterno mayor
+堂屋 | TRADUÇÃO: sala central de una casa tradicional china
+堂庑 | TRADUÇÃO: habitación lateral de una sala principal/galería lateral
+堂弟 | TRADUÇÃO: primo paterno menor
+堂弟妹 | TRADUÇÃO: esposa del primo paterno menor/primos menores por vía paterna
+堂弟媳 | TRADUÇÃO: esposa del primo paterno menor
+堂房 | TRADUÇÃO: parientes lejanos del mismo linaje paterno
+堂皇 | TRADUÇÃO: imponente/grandioso/magnífico
+堂而皇之 | TRADUÇÃO: abiertamente/a la vista de todos/con gran ostentación
+堂花 | TRADUÇÃO: variante de 唐花
+堂食 | TRADUÇÃO: comer en el restaurante (en contraposición a 外帶|外带)/servicio en sala
+堃 | TRADUÇÃO: apellido Kun ‖ variante de 坤 (usado principalmente en nombres propios)
+堄 | TRADUÇÃO: parapeto
+坚 | TRADUÇÃO: fuerte/sólido/firme/resuelto/inquebrantable
+坚不可摧 | TRADUÇÃO: (modismo) indestructible; invulnerable; inexpugnable
+坚信 | TRADUÇÃO: creer firmemente/estar convencido sin ninguna duda
+坚信礼 | TRADUÇÃO: confirmación (sacramento cristiano)
+坚冰 | TRADUÇÃO: hielo duro/(fig.) relación gélida
+坚固 | TRADUÇÃO: firme/sólido/fuerte/estable
+坚固性 | TRADUÇÃO: firmeza/solidez
+坚执 | TRADUÇÃO: persistir/mantenerse firme/perseverar/terco
+坚壁 | TRADUÇÃO: fortificar muros; ocultar provisiones (del enemigo)
+坚壁清野 | TRADUÇÃO: fortificar las defensas y arrasar los campos (modismo); política de tierra quemada
+坚如磐石 | TRADUÇÃO: sólido como una roca (modismo); inamovible y firme
+坚守 | TRADUÇÃO: defender firmemente/aferrarse a/mantenerse en
+坚定 | TRADUÇÃO: firme/constante/decidido/resuelto
+坚定不移 | TRADUÇÃO: inquebrantable/firme/sin vacilar
+坚定性 | TRADUÇÃO: firmeza/determinación/constancia
+坚实 | TRADUÇÃO: firme y sólido/robusto
+坚尼系数 | TRADUÇÃO: (Hong Kong) véase 基尼係數|基尼系数
+坚强 | TRADUÇÃO: fuerte/firme/inquebrantable
+坚强不屈 | TRADUÇÃO: firme e indoblegable (modismo); tenaz
+坚忍 | TRADUÇÃO: perseverante/tenaz/paciente en la adversidad
+坚忍不拔 | TRADUÇÃO: tenacidad inquebrantable/fortaleza de espíritu
+坚戈 | TRADUÇÃO: tenge (moneda de Kazajistán) (préstamo)
+坚持 | TRADUÇÃO: perseverar/persistir en/insistir en
+坚持下去 | TRADUÇÃO: seguir adelante/mantenerse firme/perseverar
+坚持不懈 | TRADUÇÃO: (modismo) perseverar sin descanso; seguir adelante hasta el final
+坚持不渝 | TRADUÇÃO: mantenerse inmutable (modismo); perseverar firmemente
+坚振 | TRADUÇÃO: confirmación (sacramento cristiano)
+坚振礼 | TRADUÇÃO: confirmación (sacramento cristiano)
+坚挺 | TRADUÇÃO: firme y erguido/fuerte (de una moneda)
+坚明 | TRADUÇÃO: consolidar y esclarecer
+坚果 | TRADUÇÃO: fruto seco/nuez
+坚毅 | TRADUÇÃO: firme y perseverante/resoluto/determinación tenaz
+坚决 | TRADUÇÃO: firme; resuelto; tajante
+坚牢 | TRADUÇÃO: fuerte/firme/robusto
+坚硬 | TRADUÇÃO: duro/sólido/rígido
+坚称 | TRADUÇÃO: afirmar categóricamente/insistir/sostener
+坚致 | TRADUÇÃO: duradero y finamente elaborado/sólido
+坚若磐石 | TRADUÇÃO: sólido como una roca
+坚苦卓绝 | TRADUÇÃO: perseverar con admirable tenacidad ante las dificultades (modismo)
+坚贞 | TRADUÇÃO: leal hasta el final/firme e incorruptible/fidelidad inquebrantable
+坚贞不屈 | TRADUÇÃO: fiel e indoblegable (modismo); inquebrantable
+坚贞不渝 | TRADUÇÃO: integridad inquebrantable (modismo); inalterable
+坚韧 | TRADUÇÃO: tenaz y resistente/correoso
+坚韧不拔 | TRADUÇÃO: firme e indomable (modismo); tenaz e inquebrantable
+堆 | TRADUÇÃO: apilar/amontonar/montón/pila/gran cantidad
+堆堆帽 | TRADUÇÃO: gorro holgado/gorro caído
+堆垒 | TRADUÇÃO: apilar/acumulativo
+堆垒数论 | TRADUÇÃO: teoría aditiva de números (mat.)
+堆放 | TRADUÇÃO: apilar; amontonar; almacenar en pilas
+堆案盈几 | TRADUÇÃO: (lit.) papeles amontonados llenando las mesas (modismo); (fig.) gran acumulación de trabajo pendiente
+堆栈 | TRADUÇÃO: pila (informát.)/almacén/depósito
+堆满 | TRADUÇÃO: llenarse de cosas amontonadas/estar repleto de
+堆叠 | TRADUÇÃO: apilar/superponer capas/(Taiwán) (informát.) pila
+堆砌 | TRADUÇÃO: (lit.) apilar ladrillos/amontonar/(fig.) recargar un texto con frases rebuscadas/retórica recargada
+堆积 | TRADUÇÃO: amontonar/acumular/acumulación
+堆积如山 | TRADUÇÃO: amontonarse como una montaña (modismo)/una montaña de cosas/una gran cantidad
+堆积木 | TRADUÇÃO: jugar con bloques de construcción
+堆肥 | TRADUÇÃO: compost/compostar/hacer abono orgánico
+堆芯 | TRADUÇÃO: núcleo del reactor
+堆金积玉 | TRADUÇÃO: (lit.) amontonar oro y jade/ser sumamente rico
+堆高机 | TRADUÇÃO: carretilla elevadora/montacargas
+堆高车 | TRADUÇÃO: transpaleta de gran elevación; apilador
+堆龙德庆 | TRADUÇÃO: véase 堆龍德慶區|堆龙德庆区
+堆龙德庆区 | TRADUÇÃO: Doilungdêqên, distrito de la ciudad de Lhasa 拉薩市|拉萨市, Tíbet
+堇 | TRADUÇÃO: arcilla/variante antigua de 僅|仅/violeta (planta)
+堇色 | TRADUÇÃO: violeta (color)
+堇菜 | TRADUÇÃO: violeta (botánica)
+堈 | TRADUÇÃO: tinaja de barro/cántaro/cisterna
+堉 | TRADUÇÃO: tierra fértil
+垩 | TRADUÇÃO: encalar/revocar/blanquear con cal
+堋 | TRADUÇÃO: diana de tiro con arco
+堌 | TRADUÇÃO: nombre de lugar
+堍 | TRADUÇÃO: estribo del puente/acceso al puente
+堎 | TRADUÇÃO: montículo/tumba
+堐 | TRADUÇÃO: (usado en nombres de lugares)/pron. en Taiwán [ai2]
+垴 | TRADUÇÃO: colina pequeña/usado en nombres geográficos
+塍 | TRADUÇÃO: variante de 塍 ‖ sendero elevado entre campos de cultivo
+堙 | TRADUÇÃO: enterrar/montículo/represar/cerrar ‖ variante de 堙/bloquear
+埚 | TRADUÇÃO: crisol
+堞 | TRADUÇÃO: almena
+堠 | TRADUÇÃO: montículos para almenaras
+堡 | TRADUÇÃO: (forma ligada) fortaleza; fuerte/(usado frecuentemente para transliterar -berg, -burg en topónimos)/(forma ligada) hamburguesa (abrev. de 漢堡|汉堡) ‖ aldea (usado en topónimos) ‖ variante de 鋪|铺/usado en topónimos
+堡垒 | TRADUÇÃO: fuerte/fortaleza
+堡垒机 | TRADUÇÃO: (informát.) host bastión; servidor de salto
+堡子 | TRADUÇÃO: aldea o pueblo rodeado por muros de tierra; aldea amurallada/pron. en Taiwán [bao3 zi5]
+堡寨 | TRADUÇÃO: fuerte/fortaleza/CL:座
+堡礁 | TRADUÇÃO: arrecife de barrera
+堤 | TRADUÇÃO: dique/pron. en Taiwán [ti2] ‖ variante de 堤
+堤坝 | TRADUÇÃO: presa/dique
+堤岸 | TRADUÇÃO: terraplén/malecón/dique costero
+堤防 | TRADUÇÃO: dique/terraplén/rompeolas
+阶 | TRADUÇÃO: variante de 階|阶 ‖ rango o peldaño/escaleras
+堧 | TRADUÇÃO: terreno colindante/espacio contiguo al muro
+堨 | TRADUÇÃO: presa/detener/contener
+堪 | TRADUÇÃO: (forma ligada) poder; ser capaz de/(forma ligada) aguantar; soportar/(en 堪輿|堪舆) cielo (en contraste con la tierra 輿|舆)
+堪培拉 | TRADUÇÃO: Canberra, capital de Australia
+堪察加 | TRADUÇÃO: Kamchatka (península del extremo oriental de Rusia)
+堪察加半岛 | TRADUÇÃO: península de Kamchatka, extremo oriente de Rusia
+堪察加柳莺 | TRADUÇÃO: mosquitero de Kamchatka (Phylloscopus examinandus)
+堪忧 | TRADUÇÃO: preocupante/sombrío/inquietante
+堪比 | TRADUÇÃO: comparable a/a la altura de
+堪称 | TRADUÇÃO: poder calificarse como/poder decirse que es
+堪萨斯 | TRADUÇÃO: Kansas, estado de Estados Unidos
+堪虞 | TRADUÇÃO: preocupante/precario/en riesgo
+堪舆 | TRADUÇÃO: geomancia/feng shui
+堭 | TRADUÇÃO: foso seco fuera de la muralla/zanja seca
+堮 | TRADUÇÃO: límite/borde/linde
+尧 | TRADUÇÃO: apellido Yao/Yao o Tang Yao (hacia 2200 a. C.), uno de los Cinco Emperadores legendarios 五帝, segundo hijo de Di Ku 帝嚳|帝喾
+尧都 | TRADUÇÃO: véase 堯都區|尧都区
+尧都区 | TRADUÇÃO: Yaodu, distrito de la ciudad de Linfen 臨汾市|临汾市, Shanxi
+堰 | TRADUÇÃO: vertedero/azud/presa pequeña
+堰塞湖 | TRADUÇÃO: lago de represamiento; lago formado por deslizamiento de tierra
+堰蜓座 | TRADUÇÃO: Camaleón (constelación)
+报 | TRADUÇÃO: informar; avisar; anunciar/responder; contestar/inscribirse en; matricularse en (abrev. de 報名|报名)/recompensar; retribuir/vengarse; tomar represalias/periódico/publicación periódica; revista/boletín/telegrama
+报上 | TRADUÇÃO: en el periódico
+报亭 | TRADUÇÃO: quiosco de prensa/puesto de periódicos
+报人 | TRADUÇÃO: periodista (esp. de prensa escrita)
+报仇 | TRADUÇÃO: vengarse/tomar venganza
+报仇雪耻 | TRADUÇÃO: vengarse y lavar la afrenta (modismo)
+报仇雪恨 | TRADUÇÃO: vengarse y saldar un agravio (modismo)
+报以 | TRADUÇÃO: responder con/devolver a cambio
+报信 | TRADUÇÃO: dar aviso/llevar una noticia/informar
+报备 | TRADUÇÃO: notificar a una autoridad (para su conocimiento o aprobación)
+报价 | TRADUÇÃO: cotizar un precio/precio cotizado/cotización
+报价单 | TRADUÇÃO: presupuesto/lista de precios/hoja de cotización
+报偿 | TRADUÇÃO: retribuir; recompensar
+报分 | TRADUÇÃO: cantar los puntos/anunciar el marcador
+报刊 | TRADUÇÃO: periódicos y revistas/prensa escrita
+报刊亭 | TRADUÇÃO: quiosco de prensa
+报刊摊 | TRADUÇÃO: puesto de periódicos/puesto de prensa
+报到 | TRADUÇÃO: presentarse al servicio/registrarse a la llegada/hacer el registro de entrada
+报功 | TRADUÇÃO: informar sobre una acción heroica/mencionar en despachos
+报务员 | TRADUÇÃO: telegrafista/operador de radio
+报名 | TRADUÇÃO: inscribirse/apuntarse/solicitar plaza/matricularse/alistarse
+报名表 | TRADUÇÃO: formulario de inscripción/solicitud de registro/CL:張|张
+报名费 | TRADUÇÃO: cuota de inscripción/tasa de matrícula
+报告 | TRADUÇÃO: informar/notificar/dar a conocer/informe/discurso/conferencia/CL:篇,份,個|个,通
+报告员 | TRADUÇÃO: portavoz/relator/locutor
+报告文学 | TRADUÇÃO: reportaje literario/periodismo narrativo
+报告书 | TRADUÇÃO: informe escrito
+报告会 | TRADUÇÃO: conferencia pública/sesión informativa
+报喜 | TRADUÇÃO: anunciar buenas noticias/dar cuenta de un éxito
+报喜不报忧 | TRADUÇÃO: informar solo de las buenas noticias y ocultar las malas/ocultar los problemas
+报丧 | TRADUÇÃO: anunciar un fallecimiento/comunicar una defunción
+报单 | TRADUÇÃO: declaración aduanera o fiscal/formulario de declaración
+报国 | TRADUÇÃO: servir a la patria/dedicarse a la nación
+报失 | TRADUÇÃO: denunciar una pérdida/reportar el extravío
+报子 | TRADUÇÃO: mensajero de buenas noticias (esp. aprobado en los exámenes imperiales)
+报官 | TRADUÇÃO: (antiguo) denunciar ante las autoridades
+报审 | TRADUÇÃO: presentar para evaluación/someter a aprobación
+报导 | TRADUÇÃO: informar (en los medios)/reportaje/noticia
+报帖 | TRADUÇÃO: anuncio de buenas noticias en papel rojo/carta de felicitación
+报帐 | TRADUÇÃO: variante de 報賬|报账
+报幕 | TRADUÇÃO: anunciar los números del programa teatral/presentar el acto
+报废 | TRADUÇÃO: dar de baja; mandar al desguace; desechar por inservible
+报复 | TRADUÇÃO: tomar represalias; vengarse/venganza; represalia
+报复心 | TRADUÇÃO: afán de venganza/rencor
+报复性 | TRADUÇÃO: de represalia/vengativo
+报德 | TRADUÇÃO: corresponder a una muestra de bondad/pagar una deuda de gratitud
+报怨 | TRADUÇÃO: tomar represalias/vengarse/(antiguo) variante de 抱怨
+报恩 | TRADUÇÃO: corresponder a una gentileza/pagar una deuda de gratitud
+报忧 | TRADUÇÃO: comunicar malas noticias/informar sobre un revés o desgracia
+报应 | TRADUÇÃO: (budismo) retribución cósmica; karma; castigo divino
+报应不爽 | TRADUÇÃO: la retribución divina no falla (modismo)/tarde o temprano quien la hace la paga
+报户口 | TRADUÇÃO: registrar el empadronamiento/inscribir un nacimiento en el registro civil
+报批 | TRADUÇÃO: presentar para aprobación a las autoridades superiores
+报捷 | TRADUÇÃO: comunicar un éxito/anunciar una victoria
+报摘 | TRADUÇÃO: resumen de prensa/digest de noticias
+报摊 | TRADUÇÃO: puesto de periódicos/quiosco de prensa
+报收 | TRADUÇÃO: (en la bolsa de valores) cerrar a (un precio determinado)
+报效 | TRADUÇÃO: prestar servicios en agradecimiento/consagrarse a
+报数 | TRADUÇÃO: ¡numerarse! (orden militar)/¡contar en voz alta!
+报料 | TRADUÇÃO: aportar información a un medio de comunicación; dar un chivatazo/información filtrada a la prensa; chivatazo
+报料人 | TRADUÇÃO: informante; fuente informativa
+报春花 | TRADUÇÃO: prímula (Primula malacoides)/primavera
+报时 | TRADUÇÃO: dar la hora exacta/señal horaria
+报晓 | TRADUÇÃO: anunciar el amanecer/cantar al alba
+报本反始 | TRADUÇÃO: recordar los orígenes y ser agradecido (modismo)
+报案 | TRADUÇÃO: denunciar un caso ante la policía
+报条 | TRADUÇÃO: notificación de aprobado en los exámenes imperiales (antiguo)/esquela mortuoria
+报业 | TRADUÇÃO: sector periodístico/industria de la prensa
+报检 | TRADUÇÃO: declarar mercancías para inspección o cuarentena/inscribirse para una inspección
+报毒 | TRADUÇÃO: (de un software antivirus) detectar un virus/dar aviso de virus
+报班 | TRADUÇÃO: apuntarse a un curso/matricularse en una clase
+报界 | TRADUÇÃO: el gremio periodístico/la prensa/círculos periodísticos
+报盘 | TRADUÇÃO: oferta/hacer una oferta comercial
+报社 | TRADUÇÃO: empresa periodística/redacción de un periódico/CL:家
+报禁 | TRADUÇÃO: censura de prensa/restricciones a la publicación de periódicos
+报税 | TRADUÇÃO: presentar la declaración de la renta/declarar bienes sujetos a impuestos (en aduanas)
+报税单 | TRADUÇÃO: formulario de declaración de impuestos o aduanas
+报税表 | TRADUÇÃO: declaración tributaria/formulario de impuestos
+报窝 | TRADUÇÃO: empollar/incubar
+报章 | TRADUÇÃO: prensa/periódicos
+报童 | TRADUÇÃO: repartidor de periódicos/canillita
+报端 | TRADUÇÃO: en las páginas de la prensa/en los periódicos
+报答 | TRADUÇÃO: retribuir/recompensar/corresponder a un favor
+报系 | TRADUÇÃO: cadena de periódicos/grupo editorial de prensa
+报纸 | TRADUÇÃO: periódico/diario/papel periódico/CL:份,期,張|张
+报纸报导 | TRADUÇÃO: crónica periodística/noticia de prensa
+报考 | TRADUÇÃO: inscribirse para un examen/presentarse a oposiciones
+报表 | TRADUÇÃO: formularios de informes estadísticos/estados financieros/hojas de balance
+报话机 | TRADUÇÃO: radiotransmisor portátil/walkie-talkie
+报请 | TRADUÇÃO: solicitar aprobación mediante informe formal
+报警 | TRADUÇÃO: dar la alarma/llamar a la policía/avisar a la policía
+报警器 | TRADUÇÃO: dispositivo de alarma/alarma (de incendios, antirrobo, etc.)
+报账 | TRADUÇÃO: rendición de cuentas/justificar gastos/presentar gastos
+报载 | TRADUÇÃO: según lo publicado en la prensa/según relata el periódico
+报道 | TRADUÇÃO: informar (noticias)/reportaje/noticia/CL:篇,份
+报道摄影师 | TRADUÇÃO: reportero gráfico/fotoperiodista
+报酬 | TRADUÇÃO: remuneración/recompensa/retribución/honorarios
+报销 | TRADUÇÃO: solicitar el reembolso de gastos/pasar gastos/dar de baja/liquidar
+报录 | TRADUÇÃO: notificación de admisión en exámenes imperiales
+报录人 | TRADUÇÃO: mensajero de buenas noticias (esp. anunciando aprobados en exámenes imperiales)
+报错 | TRADUÇÃO: (informát.) reportar un error/mensaje de error
+报关 | TRADUÇÃO: declarar en aduanas/despachar en aduana
+报关员 | TRADUÇÃO: agente de aduanas/despachante de aduanas
+报头 | TRADUÇÃO: cabecera (de un periódico)/rótulo del periódico
+报馆 | TRADUÇÃO: oficina de un periódico/redacción de un periódico
+堲 | TRADUÇÃO: odiar
+堳 | TRADUÇÃO: muro bajo
+场 | TRADUÇÃO: era/era de trillar/clasificador para sucesos, acontecimientos o episodios: racha, episodio ‖ lugar amplio para un propósito específico/escenario/escena (de una obra)/clasificador para actividades deportivas o recreativas/clasificador para exámenes ‖ variante de 場|场 ‖ variante de 場|场
+场儿 | TRADUÇÃO: véase 場子|场子
+场区 | TRADUÇÃO: (deportes) sector del campo o pista/(fabricación de chips) área de campo
+场区应急 | TRADUÇÃO: emergencia en el emplazamiento (clasificación de emergencias en instalaciones nucleares)
+场合 | TRADUÇÃO: ocasión/situación/contexto/entorno/lugar
+场地 | TRADUÇÃO: espacio/terreno/lugar/campo de deportes/cancha
+场地自行车 | TRADUÇÃO: bicicleta de pista/ciclismo en pista
+场外应急 | TRADUÇÃO: emergencia exterior (clasificación de emergencias en instalaciones nucleares)
+场子 | TRADUÇÃO: (coloq.) lugar de reunión/recinto público/lugar de ocio
+场所 | TRADUÇÃO: lugar/sitio/recinto/espacio
+场景 | TRADUÇÃO: escena; escenario; ambiente; plano
+场次 | TRADUÇÃO: número de funciones o proyecciones/sesión; pase; función
+场记 | TRADUÇÃO: (cine) continuista/secretario de rodaje
+场记板 | TRADUÇÃO: (cine) claqueta
+场论 | TRADUÇÃO: teoría de campos (física)
+场院 | TRADUÇÃO: era de trilla/patio de faenas agrícolas
+场面 | TRADUÇÃO: escena/espectáculo/ocasión/situación/cuadro
+场馆 | TRADUÇÃO: recinto deportivo/pabellón/estadio
+堵 | TRADUÇÃO: obstruir (una carretera, tubería, etc.)/tapar (un agujero)/(fig.) (de una persona) agobiado o con un nudo en la garganta/muro (literario)/(clasificador para muros)
+堵住 | TRADUÇÃO: bloquear/tapar/obstruir
+堵塞 | TRADUÇÃO: atascar/obstruir/atasco/bloqueo
+堵塞费 | TRADUÇÃO: tasa de congestión del tráfico/peaje de congestión
+堵床上 | TRADUÇÃO: (coloq.) pillar en la cama (a una pareja adúltera)
+堵截 | TRADUÇÃO: interceptar; cortar el paso; atajar
+堵击 | TRADUÇÃO: interceptar y atacar (militar)
+堵死 | TRADUÇÃO: bloquear completamente (un camino)/taponar (un hueco)/cegar
+堵车 | TRADUÇÃO: atasco de tráfico/embotellamiento/haber congestión vehicular
+堼 | TRADUÇÃO: (usado en topónimos)/también pron. [feng1]
+堽 | TRADUÇÃO: montículo/loma
+堿 | TRADUÇÃO: variante de 鹼|碱
+塂 | TRADUÇÃO: (dialectal) colina
+塃 | TRADUÇÃO: (dialectal) mineral recién extraído
+塄 | TRADUÇÃO: ribazo/borde elevado de un campo
+塅 | TRADUÇÃO: gran extensión de terreno llano (usado en topónimos)
+塈 | TRADUÇÃO: (literario) enlucir/(literario) recoger/(literario) descansar
+块 | TRADUÇÃO: trozo; pedazo; terrón/clasificador para trozos de tela, pasteles, jabón, etc./(coloq.) clasificador para dinero (yuan)
+块儿八毛 | TRADUÇÃO: alrededor de un yuan o menos/unos ochenta céntimos o un yuan
+块垒 | TRADUÇÃO: melancolía/nudo en el corazón/opresión en el pecho
+块根 | TRADUÇÃO: raíz tuberosa/tubérculo radical
+块煤 | TRADUÇÃO: carbón en trozos/carbón en terrones
+块状 | TRADUÇÃO: en forma de bloque/en terrones/masivo
+块茎 | TRADUÇÃO: (botánica) tubérculo (caulinar)
+块菌 | TRADUÇÃO: trufa (hongo subterráneo comestible)
+块规 | TRADUÇÃO: bloque patrón (bloque para mediciones de precisión)
+块头 | TRADUÇÃO: corpulencia/envergadura/tamaño corporal
+块体 | TRADUÇÃO: bloque/cuerpo en bloque
+茔 | TRADUÇÃO: (literario) sepultura/tumba/cementerio
+塌 | TRADUÇÃO: derrumbarse/hundirse/desplomarse
+塌下 | TRADUÇÃO: derrumbarse/desplomarse/venirse abajo
+塌实 | TRADUÇÃO: variante de 踏實|踏实
+塌房 | TRADUÇÃO: (neologismo hacia 2020) (de una celebridad) sufrir el derrumbe de su imagen pública por un escándalo/caer del pedestal
+塌方 | TRADUÇÃO: desprendimiento de tierras; derrumbe; deslizamiento de tierra
+塌架 | TRADUÇÃO: venirse abajo/desmoronarse/fracasar
+塌棵菜 | TRADUÇÃO: col tatsoi (Brassica narinosa)/repollo plano chino
+塌台 | TRADUÇÃO: derrumbarse/desmoronarse/arruinarse
+塌陷 | TRADUÇÃO: hundirse/subsidiar/desplomarse
+垲 | TRADUÇÃO: terreno seco y elevado
+塑 | TRADUÇÃO: modelar (en arcilla)/(forma ligada) plástico (material sintético)
+塑像 | TRADUÇÃO: esculpir o moldear una estatua (con material moldeable como arcilla, yeso o cera, que luego puede fundirse en metal)/estatua modelada
+塑化剂 | TRADUÇÃO: plastificante
+塑封 | TRADUÇÃO: plastificar (una foto, etc.)/sellar en plástico/envoltorio plástico
+塑形 | TRADUÇÃO: moldear; dar forma; esculpir/(fitness) tonificar o modelar el cuerpo
+塑性 | TRADUÇÃO: plasticidad
+塑料 | TRADUÇÃO: plástico; materiales plásticos
+塑料姐妹花 | TRADUÇÃO: (neologismo, 2017) (jerga) falsas amigas; amienemigas; amistad fingida entre mujeres
+塑料普通话 | TRADUÇÃO: (coloq.) mandarín macarrónico/mandarín defectuoso con fuerte acento local
+塑料王 | TRADUÇÃO: "rey de los plásticos" (término usado para referirse al teflón)
+塑料袋 | TRADUÇÃO: bolsa de plástico
+塑膜 | TRADUÇÃO: lámina de plástico/película plástica (abrev. de 塑料薄膜)
+塑胶 | TRADUÇÃO: resina sintética; cemento plástico/(Taiwán) plástico
+塑胶炸药 | TRADUÇÃO: explosivo plástico
+塑胶爆炸物 | TRADUÇÃO: explosivo plástico
+塑胶袋 | TRADUÇÃO: (Taiwán) bolsa de plástico
+塑胶跑道 | TRADUÇÃO: pista de atletismo sintética/pista de tartán
+塑胶车 | TRADUÇÃO: scooter (Taiwán)/ciclomotor
+塑身 | TRADUÇÃO: remodelación corporal/tonificación del cuerpo (mediante ejercicio y dieta)
+塑造 | TRADUÇÃO: modelar; moldear/(fig.) forjar (un personaje, un mercado, una imagen)/(fig.) (literatura) plasmar
+塑钢 | TRADUÇÃO: poliacetal/resina acetálica/PVC rígido (uPVC)
+埘 | TRADUÇÃO: nido o percha para gallinas/gallinero
+塓 | TRADUÇÃO: enlucir/encalar (pared)
+塔 | TRADUÇÃO: pagoda (abrev. de 塔婆, préstamo del sánscrito stūpa); torre; pilón (CL:座)/(préstamo) (repostería) tarta; tartaleta ‖ variante antigua de 塔
+塔什干 | TRADUÇÃO: Taskent, capital de Uzbekistán
+塔什库尔干 | TRADUÇÃO: véase 塔什庫爾干塔吉克自治縣|塔什库尔干塔吉克自治县
+塔什库尔干塔吉克自治县 | TRADUÇÃO: condado autónomo tayiko de Tashkurgán, en la ciudad de Kashgar 喀什市, Xinjiang
+塔什库尔干县 | TRADUÇÃO: véase 塔什庫爾干塔吉克自治縣|塔什库尔干塔吉克自治县
+塔克拉玛干 | TRADUÇÃO: véase 塔克拉瑪干沙漠|塔克拉玛干沙漠
+塔克拉玛干沙漠 | TRADUÇÃO: desierto de Taklamakán, Xinjiang
+塔公 | TRADUÇÃO: pradera de Lhagang en el condado de Kangding 康定縣|康定县, prefectura autónoma tibetana de Garzê, Sichuan
+塔公寺 | TRADUÇÃO: templo de Lhagang en el condado de Kangding 康定縣|康定县, prefectura autónoma tibetana de Garzê, Sichuan
+塔列朗 | TRADUÇÃO: Talleyrand (nombre)/Charles Maurice de Talleyrand-Périgord (1754-1838), diplomático francés
+塔利班 | TRADUÇÃO: talibán, organización islamista surgida en Afganistán
+塔刹 | TRADUÇÃO: remate budista en la cúspide de una pagoda
+塔加路族语 | TRADUÇÃO: tagalo (idioma)
+塔勒 | TRADUÇÃO: tálero (antigua moneda de varios países germánicos) (préstamo)
+塔口 | TRADUÇÃO: (préstamo) taco
+塔可 | TRADUÇÃO: (préstamo) taco
+塔可饼 | TRADUÇÃO: (préstamo) taco
+塔台 | TRADUÇÃO: torre de control
+塔吉克 | TRADUÇÃO: etnia tayika/(Taiwán, Hong Kong) Tayikistán
+塔吉克人 | TRADUÇÃO: tayiko (persona)
+塔吉克斯坦 | TRADUÇÃO: Tayikistán
+塔吉克族 | TRADUÇÃO: etnia tayika
+塔吊 | TRADUÇÃO: grúa torre
+塔国 | TRADUÇÃO: Tayikistán
+塔城 | TRADUÇÃO: véase 塔城地區|塔城地区/véase 塔城市
+塔城地区 | TRADUÇÃO: prefectura de Tarbagatay (Tacheng), en la región autónoma uigur de Xinjiang 新疆維吾爾自治區|新疆维吾尔自治区
+塔城市 | TRADUÇÃO: Tacheng, ciudad a nivel de condado en la prefectura de Tacheng 塔城地區|塔城地区, Xinjiang
+塔塔儿 | TRADUÇÃO: tártaro (persona)
+塔塔儿人 | TRADUÇÃO: tártaro (persona)
+塔塔尔 | TRADUÇÃO: etnia tártara
+塔塔尔族 | TRADUÇÃO: etnia tártara
+塔塔粉 | TRADUÇÃO: crémor tártaro/bitartrato de potasio
+塔塔酱 | TRADUÇÃO: salsa tártara
+塔夫绸 | TRADUÇÃO: tafetán
+塔尖 | TRADUÇÃO: aguja/cúspide de una torre o pagoda
+塔尾树鹊 | TRADUÇÃO: urraca de raquetas (Temnurus temnurus)
+塔崩 | TRADUÇÃO: tabún (gas nervioso) (préstamo)
+塔州 | TRADUÇÃO: Tasmania (abrev. de 塔斯曼尼亞州|塔斯曼尼亚州)
+塔希提 | TRADUÇÃO: Tahití (isla de la Polinesia Francesa)
+塔帕斯 | TRADUÇÃO: tapas (aperitivo español) (préstamo)
+塔扇 | TRADUÇÃO: ventilador de torre
+塔扎 | TRADUÇÃO: Taza (ciudad del norte de Marruecos)
+塔拉哈西 | TRADUÇÃO: Tallahassee, capital de Florida
+塔拉斯河 | TRADUÇÃO: río Talas (en Kirguistán y Kazajistán)
+塔拉瓦 | TRADUÇÃO: Tarawa, capital de Kiribati
+塔斯曼尼亚 | TRADUÇÃO: Tasmania
+塔斯曼尼亚岛 | TRADUÇÃO: isla de Tasmania
+塔斯社 | TRADUÇÃO: TASS/Agencia de Noticias de Rusia TASS
+塔斯马尼亚 | TRADUÇÃO: Tasmania (Taiwán)
+塔木德经 | TRADUÇÃO: Talmud
+塔林 | TRADUÇÃO: Tallin, capital de Estonia
+塔楼 | TRADUÇÃO: torre (de un edificio)
+塔河 | TRADUÇÃO: véase 塔河縣|塔河县
+塔河县 | TRADUÇÃO: Tahe, condado en la prefectura de Daxing'anling 大興安嶺地區|大兴安岭地区, Heilongjiang
+塔尔寺 | TRADUÇÃO: monasterio de Kumbum en Qinghai
+塔玛尔 | TRADUÇÃO: Tamar (nombre)
+塔瓦斯科 | TRADUÇÃO: Tabasco (estado del sur de México)
+塔罗 | TRADUÇÃO: (préstamo) tarot
+塔罗卡 | TRADUÇÃO: carta del tarot
+塔罗牌 | TRADUÇÃO: carta del tarot/baraja de tarot
+塔迪奇 | TRADUÇÃO: Tadić (nombre)/Boris Tadić (1958-), político serbio, presidente 2004-2012
+塔那那利佛 | TRADUÇÃO: Antananarivo, capital de Madagascar
+塔里木 | TRADUÇÃO: cuenca del Tarim en el sur de Xinjiang
+塔里木河 | TRADUÇÃO: río Tarim de Xinjiang
+塔里木盆地 | TRADUÇÃO: cuenca del Tarim en el sur de Xinjiang
+塔防 | TRADUÇÃO: (videojuegos) defensa de torres
+塔香 | TRADUÇÃO: (gastronomía) con sabor a albahaca (abrev. de 九層塔香|九层塔香)/cono de incienso
+塕 | TRADUÇÃO: polvo flotante (dialectal)/polvareda
+塕埲 | TRADUÇÃO: tormenta de polvo
+涂 | TRADUÇÃO: aplicar (pintura, etc.)/untar/embadurnar/tachar/garabatear/(literario) barro/camino ‖ apellido Tu ‖ variante de 途
+涂乙 | TRADUÇÃO: corregir (un texto); revisar (un manuscrito)
+涂去 | TRADUÇÃO: tachar/borrar cubriendo con pintura o corrector/tapar pintando encima
+涂家 | TRADUÇÃO: pintor/artista
+涂写 | TRADUÇÃO: embadurnar/hacer pintadas/garabatear grafitis
+涂层 | TRADUÇÃO: capa protectora/revestimiento/recubrimiento
+涂径 | TRADUÇÃO: sendero/camino
+涂抹 | TRADUÇÃO: pintar/untar/aplicar (maquillaje, etc.)/embadurnar/borrar/tachar
+涂抹酱 | TRADUÇÃO: pasta para untar/crema para untar (en pan, etc.)
+涂改 | TRADUÇÃO: alterar (un texto)/modificar tapando/corregir con corrector líquido
+涂改液 | TRADUÇÃO: corrector líquido/líquido corrector
+涂敷 | TRADUÇÃO: untar/embadurnar/aplicar (pomada)/recubrir
+涂料 | TRADUÇÃO: pintura/revestimiento
+涂污 | TRADUÇÃO: manchar; deslucir; ensuciar
+涂油 | TRADUÇÃO: engrasar/aceitar/untar de grasa/pringar (cocina)
+涂油于 | TRADUÇÃO: ungir
+涂浆台 | TRADUÇÃO: mesa de encolar (para empapelar paredes)
+涂炭 | TRADUÇÃO: sufrimiento extremo/en absoluta miseria
+涂片 | TRADUÇÃO: frotis (muestra médica); portaobjetos para microscopio
+涂白剂 | TRADUÇÃO: pintura blanca protectora para troncos de árboles
+涂脂抹粉 | TRADUÇÃO: (modismo) maquillarse/(modismo) maquillar la realidad/embellecer superficialmente
+涂盖 | TRADUÇÃO: cubrir con pintura/tapar/enlucir
+涂装 | TRADUÇÃO: decoración pintada/diseño de pintura/decoración exterior (de vehículos, aviones, etc.)
+涂饰 | TRADUÇÃO: decorar aplicando una capa; recubrir con pintura o barniz
+涂鸦 | TRADUÇÃO: grafiti/garabato/mala caligrafía/escribir toscamente/garabatear
+涂鸭 | TRADUÇÃO: variante de 塗鴉|涂鸦/grafiti/garabato/mala caligrafía/escribir toscamente/garabatear
+塘 | TRADUÇÃO: dique/terraplén/estanque o charca/piscina de agua caliente
+塘堰 | TRADUÇÃO: estanque de riego o presa
+塘沽 | TRADUÇÃO: Tanggu, antiguo distrito de Tianjin, hoy parte de la nueva área de Binhai 濱海新區|滨海新区
+塘沽区 | TRADUÇÃO: Tanggu, antiguo distrito de Tianjin, hoy parte de la nueva área de Binhai 濱海新區|滨海新区
+塘虱 | TRADUÇÃO: pez gato/bagre (familia Clariidae)
+塘角鱼 | TRADUÇÃO: pez gato de Hong Kong (Clarias fuscus)
+塘鹅 | TRADUÇÃO: pelícano/alcatraz (Morus bassanus)/pájaro bobo
+塙 | TRADUÇÃO: ciertamente/verdaderamente
+冢中枯骨 | TRADUÇÃO: huesos secos en la tumba (modismo); persona insignificante condenada al olvido
+塝 | TRADUÇÃO: el borde/límite de un campo
+塞 | TRADUÇÃO: tapar; obstruir; meter a presión/(forma ligada) tapón; corcho ‖ (forma ligada) fortaleza estratégica/paso fronterizo ‖ (forma ligada) atascar; obstruir
+塞内加尔 | TRADUÇÃO: Senegal
+塞勒姆 | TRADUÇÃO: Salem, capital de Oregón/Salem, ciudad en Massachusetts/Salem, ciudad en la India
+塞北 | TRADUÇÃO: (antiguo) territorios al norte de la Gran Muralla
+塞哥维亚 | TRADUÇÃO: Segovia (ciudad de España)
+塞外 | TRADUÇÃO: (antiguo) territorios más allá de la Gran Muralla
+塞子 | TRADUÇÃO: tapón/corcho
+塞尺 | TRADUÇÃO: calibre de espesores/galga de espesores
+塞巴斯蒂安 | TRADUÇÃO: (nombre) Sebastián
+塞席尔 | TRADUÇÃO: (Taiwán) las Seychelles
+塞拉利昂 | TRADUÇÃO: Sierra Leona
+塞拉耶佛 | TRADUÇÃO: (Taiwán) Sarajevo, capital de Bosnia y Herzegovina
+塞擦音 | TRADUÇÃO: consonante africada (fonética)
+塞斯纳 | TRADUÇÃO: Cessna (fabricante aeronáutico estadounidense)
+塞族 | TRADUÇÃO: etnia serbia (abrev. de 塞爾維亞族|塞尔维亚族)
+塞浦路斯 | TRADUÇÃO: Chipre
+塞渊 | TRADUÇÃO: honesto y perspicaz
+塞满 | TRADUÇÃO: abarrotar/llenar a rebosar/atiborrar/estar de bote en bote
+塞尔特 | TRADUÇÃO: celta
+塞尔特语 | TRADUÇÃO: lengua celta
+塞尔维亚 | TRADUÇÃO: Serbia/pron. en Taiwán [Se4er3wei2ya4]
+塞尔维亚克罗地亚语 | TRADUÇÃO: serbocroata (idioma)
+塞尔维亚和黑山 | TRADUÇÃO: Serbia y Montenegro (antiguo estado entre 2003 y 2006)
+塞尔维亚语 | TRADUÇÃO: serbio (idioma)
+塞尔达 | TRADUÇÃO: Zelda (en el videojuego Legend of Zelda)
+塞牙 | TRADUÇÃO: quedarse comida entre los dientes
+塞特犬 | TRADUÇÃO: setter (raza de perro)
+塞瓦斯托波尔 | TRADUÇÃO: Sebastopol, ciudad portuaria en la península de Crimea
+塞纳河 | TRADUÇÃO: río Sena
+塞给 | TRADUÇÃO: deslizar discretamente a alguien/encasquetar a alguien/meter a escondidas
+塞维利亚 | TRADUÇÃO: Sevilla, ciudad de Andalucía, España
+塞缪尔 | TRADUÇÃO: (nombre) Samuel
+塞缪尔·约翰逊 | TRADUÇÃO: Samuel Johnson (1709–1784) o Dr. Johnson, escritor y lexicógrafo inglés
+塞翁失马 | TRADUÇÃO: (lit.) el anciano de la frontera perdió su caballo (modismo)/(fig.) no hay mal que por bien no venga/bendición disfrazada
+塞翁失马安知非福 | TRADUÇÃO: el anciano perdió su caballo, ¿quién sabe si no es una bendición? (modismo); no hay mal que por bien no venga/también escrito 塞翁失馬焉知非福|塞翁失马焉知非福
+塞翁失马焉知非福 | TRADUÇÃO: el anciano de la frontera perdió su caballo, ¿quién sabe si no es por bien? (modismo); no hay mal que por bien no venga
+塞耳 | TRADUÇÃO: taparse los oídos (para no oír)
+塞舌尔 | TRADUÇÃO: Seychelles
+塞舌尔群岛 | TRADUÇÃO: islas Seychelles
+塞万提斯 | TRADUÇÃO: Miguel de Cervantes Saavedra (1547–1616), novelista, poeta y dramaturgo español, autor de Don Quijote 堂吉訶德|堂吉诃德
+塞语 | TRADUÇÃO: idioma serbio/lengua saka
+塞责 | TRADUÇÃO: cumplir con las obligaciones por mero trámite; salir del paso
+塞车 | TRADUÇÃO: atasco de tráfico/embotellamiento
+塞韦里诺 | TRADUÇÃO: (nombre) Severino
+塞音 | TRADUÇÃO: (lingüística) oclusiva; consonante oclusiva
+葬 | TRADUÇÃO: variante antigua de 葬 ‖ enterrar (a los muertos)/sepultar
+塠 | TRADUÇÃO: variante antigua de 堆
+塡 | TRADUÇÃO: variante de 填
+坞 | TRADUÇÃO: (forma ligada) terreno bajo rodeado por barreras/(literario) pequeño castillo; fuerte ‖ variante de 塢|坞
+坞堡 | TRADUÇÃO: pequeña fortaleza; recinto fortificado
+坞壁 | TRADUÇÃO: pequeña fortaleza; recinto fortificado
+坞站 | TRADUÇÃO: estación de acoplamiento/docking station
+埙 | TRADUÇÃO: xun/ocarina china de barro
+塥 | TRADUÇÃO: terrón seco de arcilla
+填 | TRADUÇÃO: rellenar o embutir/(de un formulario, etc.) rellenar/completar
+填充 | TRADUÇÃO: llenar; rellenar/completar un espacio en blanco
+填充剂 | TRADUÇÃO: agente de carga/relleno
+填充物 | TRADUÇÃO: material de relleno; relleno
+填充题 | TRADUÇÃO: pregunta de completar espacios en blanco
+填地 | TRADUÇÃO: vertedero/terreno ganado al mar o rellenado
+填报 | TRADUÇÃO: rellenar y presentar (un formulario)
+填堵 | TRADUÇÃO: embutir/rellenar y taponar
+填塞 | TRADUÇÃO: rellenar/embutir/atiborrar/taponar
+填塞物 | TRADUÇÃO: material de relleno/taponamiento
+填字游戏 | TRADUÇÃO: crucigrama
+填密 | TRADUÇÃO: empaquetado/rellenado denso
+填写 | TRADUÇÃO: rellenar un formulario/escribir datos en una casilla
+填房 | TRADUÇÃO: segunda esposa (de un viudo)
+填料 | TRADUÇÃO: material de relleno/empacquetadura
+填海 | TRADUÇÃO: ganar tierras al mar/relleno marítimo
+填满 | TRADUÇÃO: llenar por completo/atiborrar
+填空 | TRADUÇÃO: cubrir una vacante/rellenar un espacio en blanco (en un examen, formulario, etc.)
+填表 | TRADUÇÃO: rellenar un formulario; completar un impreso
+填补 | TRADUÇÃO: llenar un vacío/cubrir una deficiencia/rellenar un espacio
+填词 | TRADUÇÃO: componer letra para una melodía (en poesía ci)
+填饱 | TRADUÇÃO: saciar el apetito/hartarse de comer/llenar el estómago
+填鸭 | TRADUÇÃO: cebar patos/(cocina) pato cebado/pato relleno
+填鸭式 | TRADUÇÃO: educación memorística/enseñanza memorística por atiborramiento
+塬 | TRADUÇÃO: meseta de loes, esp. la meseta de loes del noroeste de China 黃土高原|黄土高原
+塬地 | TRADUÇÃO: suelo cultivable fértil de la meseta de loes
+塭 | TRADUÇÃO: usado en 魚塭|鱼塭/usado en topónimos
+塱 | TRADUÇÃO: dique elevado/muro de barro
+尘 | TRADUÇÃO: polvo/suciedad/tierra
+尘世 | TRADUÇÃO: (religión) este mundo mortal; el mundo terrenal; la vida terrena
+尘俗 | TRADUÇÃO: el mundo mundano/asuntos mundanos
+尘嚣 | TRADUÇÃO: bullicio/ajetreo y ruido del mundo
+尘土 | TRADUÇÃO: polvo/tierra
+尘埃 | TRADUÇÃO: polvo/partículas de polvo
+尘埃落定 | TRADUÇÃO: "Amapolas rojas", novela de 阿來|阿来 ‖ (lit.) el polvo se ha asentado (modismo)/(fig.) calmarse las aguas/quedar resuelto definitivamente
+尘封 | TRADUÇÃO: cubierto de polvo/empolvado/guardado y en desuso durante mucho tiempo
+尘暴 | TRADUÇÃO: tolvanera/tormenta de polvo
+尘肺 | TRADUÇÃO: neumoconiosis
+尘螨 | TRADUÇÃO: ácaro del polvo
+尘云 | TRADUÇÃO: nube de polvo
+尘雾 | TRADUÇÃO: nube de polvo y niebla/humareda
+堑 | TRADUÇÃO: (forma ligada) foso; trinchera; abismo
+堑壕 | TRADUÇÃO: trinchera; atrincheramiento
+堑壕战 | TRADUÇÃO: guerra de trincheras
+砖 | TRADUÇÃO: variante de 甎|砖 ‖ variante de 磚|砖 ‖ ladrillo/baldosa (suelo o pared, no teja)/CL:塊|块
+塽 | TRADUÇÃO: (literario) terreno elevado y soleado
+塾 | TRADUÇÃO: escuela privada tradicional
+𪣻 | TRADUÇÃO: pequeño montículo
+墀 | TRADUÇÃO: patio/escalinata del patio imperial
+墁 | TRADUÇÃO: enlucir/pavimentar con losas o ladrillos
+境 | TRADUÇÃO: frontera/lugar/condición/límite/circunstancias/territorio
+境内 | TRADUÇÃO: dentro de las fronteras/interior (del país, provincia, ciudad, etc.)/nacional
+境内外 | TRADUÇÃO: dentro y fuera de las fronteras/nacional y extranjero/en el país y en el extranjero
+境地 | TRADUÇÃO: situación/circunstancias/estado
+境域 | TRADUÇÃO: territorio; dominio; ámbito/estado; condición; circunstancias
+境外 | TRADUÇÃO: fuera de las fronteras (de un país)/en el extranjero
+境况 | TRADUÇÃO: circunstancias/situación económica o personal
+境由心生 | TRADUÇÃO: la realidad la determina la mente/nuestro estado mental conforma nuestro entorno
+境界 | TRADUÇÃO: frontera/reino/nivel/estado espiritual
+境遇 | TRADUÇÃO: circunstancia/suerte/situación
+墅 | TRADUÇÃO: villa/casa de campo
+墈 | TRADUÇÃO: acantilado/risco
+墉 | TRADUÇÃO: muralla defensiva/muralla de la ciudad
+墉垣 | TRADUÇÃO: muralla de la ciudad
+垫 | TRADUÇÃO: almohadilla/cojín/esterilla/rellenar/pagar por adelantado por alguien/anticipar dinero
+垫上 | TRADUÇÃO: pagar por adelantado por alguien/anticipar el pago
+垫付 | TRADUÇÃO: anticipar el pago de un gasto de otra persona (con la expectativa de ser reembolsado)
+垫圈 | TRADUÇÃO: poner paja o lecho en el establo, pocilga, etc. ‖ arandela (de tornillo)/asiento del inodoro
+垫子 | TRADUÇÃO: cojín; estera; almohadilla; colchoneta
+垫平 | TRADUÇÃO: nivelar (superficies) rellenando
+垫底 | TRADUÇÃO: poner algo debajo en el fondo/comer algo para engañar el estómago/sentar las bases/quedar en último lugar en la clasificación
+垫底儿 | TRADUÇÃO: variante erhua de 墊底|垫底
+垫底费 | TRADUÇÃO: franquicia (parte del reclamo de seguro pagada por el asegurado)
+垫支 | TRADUÇÃO: anticipar fondos/adelantar dinero
+垫料 | TRADUÇÃO: material de acolchado/lecho (para animales)/material de relleno
+垫档 | TRADUÇÃO: rellenar un espacio en blanco/cubrir un hueco (en una columna periodística, programa de televisión, etc.)
+垫款 | TRADUÇÃO: anticipo (de fondos)/adelanto de dinero
+垫江 | TRADUÇÃO: véase 墊江縣|垫江县
+垫江县 | TRADUÇÃO: Dianjiang, condado en Chongqing 重慶|重庆
+垫片 | TRADUÇÃO: espaciador/calzo/arandela/junta
+垫肩 | TRADUÇÃO: hombrera
+垫背 | TRADUÇÃO: servir de chivo expiatorio/pagar el pato por otro/compartir el funesto destino de alguien
+垫脚 | TRADUÇÃO: lecho (cama de paja para animales)
+垫脚石 | TRADUÇÃO: piedra de paso/trampolín/(fig.) peldaño para ascender en la carrera
+垫被 | TRADUÇÃO: colchón/colchoneta
+垫补 | TRADUÇÃO: (coloq.) cubrir un déficit usando fondos destinados a otro fin o pidiendo prestado/(coloq.) picar algo de comer
+垫褥 | TRADUÇÃO: colchón acolchado de algodón
+垫高 | TRADUÇÃO: calzar/elevar/levantar con calces
+墐 | TRADUÇÃO: enterrar/revocar con barro
+墒 | TRADUÇÃO: tierra arada/humedad del suelo/surco
+墒土 | TRADUÇÃO: tierra húmeda recién arada
+墒情 | TRADUÇÃO: estado de humedad del suelo (para saber si es apto para la siembra)
+墓 | TRADUÇÃO: tumba/sepulcro/mausoleo
+墓主 | TRADUÇÃO: ocupante de la tumba/persona enterrada
+墓园 | TRADUÇÃO: cementerio; camposanto
+墓地 | TRADUÇÃO: cementerio/camposanto/terreno sepulcral
+墓坑 | TRADUÇÃO: fosa sepulcral
+墓场 | TRADUÇÃO: cementerio/camposanto
+墓塔 | TRADUÇÃO: pagoda funeraria
+墓石 | TRADUÇÃO: lápida; piedra sepulcral
+墓碑 | TRADUÇÃO: lápida/piedra sepulcral/estela funeraria
+墓穴 | TRADUÇÃO: tumba/fosa/sepultura
+墓窖 | TRADUÇÃO: catacumba/cripta
+墓葬 | TRADUÇÃO: (arqueología) tumba/sepultura/enterramiento
+墓葬区 | TRADUÇÃO: zona de enterramiento/área funeraria
+墓葬群 | TRADUÇÃO: complejo funerario/conjunto de tumbas (arqueología)
+墓志 | TRADUÇÃO: lápida con inscripción colocada en una tumba; epitafio inscrito
+墓志铭 | TRADUÇÃO: epitafio
+墓道 | TRADUÇÃO: corredor de acceso a una tumba antigua/sendero a la sepultura
+墘 | TRADUÇÃO: (dialecto minnan) al lado de/cerca de/(usado en topónimos)
+坠 | TRADUÇÃO: caer/desprenderse/colgar hacia abajo/pesar hacia abajo
+坠亡 | TRADUÇÃO: morir por caída/fallecer al precipitarse al vacío
+坠入 | TRADUÇÃO: caer en/precipitarse en
+坠入情网 | TRADUÇÃO: enamorarse/caer en las redes del amor
+坠入爱河 | TRADUÇÃO: enamorarse/caer en el río del amor
+坠子 | TRADUÇÃO: colgante/pesa/igual que 墜胡|坠胡/balada tradicional zhuizi acompañada por el zhuihu
+坠楼 | TRADUÇÃO: caerse o arrojarse desde un edificio
+坠机 | TRADUÇÃO: accidente de avión/accidente aéreo
+坠毁 | TRADUÇÃO: estrellarse (un avión, etc.)/caer e incendiarse
+坠海 | TRADUÇÃO: caer al mar/estrellarse contra el océano
+坠琴 | TRADUÇÃO: igual que 墜胡|坠胡
+坠胎 | TRADUÇÃO: abortar/aborto inducido
+坠胡 | TRADUÇÃO: zhuihu (instrumento musical de dos cuerdas frotadas)/también llamado 墜琴|坠琴
+坠落 | TRADUÇÃO: caer; precipitarse; desprenderse
+坠饰 | TRADUÇÃO: colgante (joyería)/dije
+坠马 | TRADUÇÃO: caerse del caballo
+墝 | TRADUÇÃO: tierra pedregosa y estéril
+增 | TRADUÇÃO: (forma ligada) aumentar; acrecentar; añadir
+增三和弦 | TRADUÇÃO: tríada aumentada (acorde musical)
+增值 | TRADUÇÃO: revalorizarse/aumentar de valor/valor añadido (contabilidad)
+增值税 | TRADUÇÃO: impuesto sobre el valor añadido (IVA)
+增光 | TRADUÇÃO: dar lustre/añadir gloria/honrar
+增兵 | TRADUÇÃO: enviar refuerzos/aumentar el número de tropas/refuerzos
+增刊 | TRADUÇÃO: suplemento/número extraordinario (de una publicación)
+增删 | TRADUÇÃO: añadir y suprimir/modificar textos
+增加 | TRADUÇÃO: aumentar; incrementar; elevar
+增加值 | TRADUÇÃO: valor añadido (contabilidad)
+增厚 | TRADUÇÃO: engrosar/espesar
+增城 | TRADUÇÃO: véase 增城區|增城区
+增城区 | TRADUÇÃO: Zengcheng, distrito de la ciudad de Cantón 廣州市|广州市, Guangdong
+增塑剂 | TRADUÇÃO: plastificante
+增压 | TRADUÇÃO: presurizar/sobrealimentar/aumentar la presión
+增多 | TRADUÇÃO: aumentar/crecer en cantidad
+增大 | TRADUÇÃO: agrandar/ampliar/aumentar de tamaño
+增岗 | TRADUÇÃO: crear puestos de trabajo; aumentar los empleos
+增幅 | TRADUÇÃO: tasa de crecimiento/amplitud de aumento
+增年 | TRADUÇÃO: prolongar la vida
+增广 | TRADUÇÃO: ampliar/ensanchar
+增强 | TRADUÇÃO: aumentar/fortalecer/reforzar
+增强现实 | TRADUÇÃO: (informát.) realidad aumentada; RA
+增持 | TRADUÇÃO: (de un inversor) incrementar su participación/aumentar la posición en acciones
+增援 | TRADUÇÃO: enviar refuerzos/reforzar
+增收 | TRADUÇÃO: aumentar los ingresos/incrementar la recaudación en (cierta cantidad)/aplicar un recargo/(de una escuela) admitir más alumnos
+增殖 | TRADUÇÃO: proliferación/crecimiento/reproducción
+增殖反应堆 | TRADUÇÃO: reactor reproductor
+增添 | TRADUÇÃO: añadir/agregar/aumentar
+增减 | TRADUÇÃO: aumentar o disminuir/subir o bajar/añadir o restar
+增温层 | TRADUÇÃO: (meteorología) termosfera
+增生 | TRADUÇÃO: (medicina) hiperplasia/estudiante de oposiciones en la dinastía Ming que no obtuvo asignación mensual de arroz (abrev. de 增廣生員|增广生员)
+增产 | TRADUÇÃO: aumentar la producción
+增田 | TRADUÇÃO: Masuda (apellido japonés)
+增白剂 | TRADUÇÃO: blanqueador óptico/agente blanqueador
+增益 | TRADUÇÃO: aumentar/(electrónica) ganancia/(videojuegos) mejora; beneficio temporal (buff)
+增稠 | TRADUÇÃO: espesar/aumentar la viscosidad
+增稠剂 | TRADUÇÃO: espesante
+增色 | TRADUÇÃO: realzar el atractivo/embellecer/dar colorido
+增补 | TRADUÇÃO: aumentar/completar/añadir suplementos
+增订 | TRADUÇÃO: revisar y ampliar (un libro)/ampliar un pedido de compra
+增订本 | TRADUÇÃO: edición revisada y ampliada
+增设 | TRADUÇÃO: instalar servicios o instalaciones adicionales/abrir nuevas dependencias
+增资 | TRADUÇÃO: ampliación de capital
+增速 | TRADUÇÃO: acelerar; aumentar la velocidad/(economía) tasa de crecimiento
+增进 | TRADUÇÃO: promover/fomentar/mejorar/hacer avanzar
+增重粉 | TRADUÇÃO: suplemento hipercalórico para ganar peso (gainer)
+增量 | TRADUÇÃO: incremento
+增量参数 | TRADUÇÃO: parámetro incremental
+增长 | TRADUÇÃO: crecer; aumentar; desarrollarse
+增长天 | TRADUÇÃO: Virūḍhaka (uno de los Cuatro Reyes Celestiales en el budismo)
+增长率 | TRADUÇÃO: tasa de crecimiento (esp. en economía)
+增防 | TRADUÇÃO: reforzar las defensas
+增高 | TRADUÇÃO: aumentar de estatura/elevarse/subir/acrecentar
+墟 | TRADUÇÃO: ruinas/(literario) aldea/variante de 圩/feria rural
+墟里 | TRADUÇÃO: aldea/pueblo
+𫮃 | TRADUÇÃO: explanada para sacrificios rituales
+墦 | TRADUÇÃO: tumba/sepulcro
+墨 | TRADUÇÃO: apellido Mo/abrev. de 墨西哥, México ‖ barra de tinta/tinta china/CL:塊|块/antiguo castigo corporal consistente en tatuar caracteres en la frente del reo
+墨丘利 | TRADUÇÃO: Mercurio (dios romano)
+墨刑 | TRADUÇÃO: castigo consistente en tatuar caracteres con tinta en la frente del reo
+墨匣 | TRADUÇÃO: cartucho de tinta
+墨子 | TRADUÇÃO: Mozi (hacia 470–391 a. C.), fundador de la escuela mohista 墨家 del período de los Reinos Combatientes (475–220 a. C.)
+墨守成规 | TRADUÇÃO: apegarse rígidamente a lo establecido (modismo)/ser esclavo de la costumbre
+墨客 | TRADUÇÃO: literato/hombre de letras
+墨家 | TRADUÇÃO: escuela mohista del período de los Reinos Combatientes (475-220 a. C.), fundada por el filósofo 墨子
+墨巴本 | TRADUÇÃO: (Taiwán) Mbabane, capital administrativa de Esuatini
+墨斗 | TRADUÇÃO: tiralíneas de carpintero (cuerda entintada tensada sobre madera)
+墨条 | TRADUÇÃO: barra de tinta china
+墨水 | TRADUÇÃO: tinta/CL:瓶
+墨水儿 | TRADUÇÃO: variante erhua de 墨水
+墨水屏 | TRADUÇÃO: pantalla de tinta electrónica; pantalla de papel electrónico
+墨水瓶架 | TRADUÇÃO: soporte para tintero/tintero
+墨汁 | TRADUÇÃO: tinta china líquida preparada
+墨江 | TRADUÇÃO: véase 墨江哈尼族自治縣|墨江哈尼族自治县
+墨江哈尼族自治县 | TRADUÇÃO: condado autónomo hani de Mojiang, en la ciudad de Pu'er 普洱市, Yunnan
+墨江县 | TRADUÇÃO: véase 墨江哈尼族自治縣|墨江哈尼族自治县
+墨渍 | TRADUÇÃO: mancha de tinta/borrón de tinta
+墨湾 | TRADUÇÃO: golfo de México
+墨尔本 | TRADUÇÃO: Melbourne, Australia
+墨尔钵 | TRADUÇÃO: véase 墨爾本|墨尔本
+墨玉 | TRADUÇÃO: véase 墨玉縣|墨玉县
+墨玉县 | TRADUÇÃO: Karakax (Moyu), condado en la ciudad de Hotan 和田市, Xinjiang
+墨盒 | TRADUÇÃO: cartucho de tinta
+墨砚 | TRADUÇÃO: tintero de piedra/piedra de tinta
+墨竹工卡 | TRADUÇÃO: véase 墨竹工卡縣|墨竹工卡县
+墨竹工卡县 | TRADUÇÃO: Maizhokunggar, condado en la ciudad de Lhasa 拉薩市|拉萨市, Tíbet
+墨笔 | TRADUÇÃO: pincel de escribir con tinta
+墨粉 | TRADUÇÃO: tóner (para impresora láser)
+墨纸 | TRADUÇÃO: papel secante
+墨索里尼 | TRADUÇÃO: Benito Mussolini (1883-1945), dictador fascista italiano, "Il Duce", gobernante entre 1922 y 1943
+墨累 | TRADUÇÃO: Murray (nombre)
+墨累达令流域 | TRADUÇÃO: cuenca del Murray-Darling en el sureste de Australia
+墨绿 | TRADUÇÃO: verde oscuro/verde bosque
+墨绿色 | TRADUÇÃO: color verde oscuro o verde intenso
+墨线 | TRADUÇÃO: línea marcada con tinta/cuerda entintada de carpintero
+墨翟 | TRADUÇÃO: nombre original de Mozi 墨子
+墨者 | TRADUÇÃO: mohista/seguidor de la escuela mohista
+墨脱 | TRADUÇÃO: véase 墨脫縣|墨脱县
+墨脱县 | TRADUÇÃO: Mêdog, condado en la ciudad de Nyingchi 林芝市, Tíbet
+墨西哥 | TRADUÇÃO: México
+墨西哥人 | TRADUÇÃO: mexicano
+墨西哥城 | TRADUÇÃO: Ciudad de México, capital de México
+墨西哥卷饼 | TRADUÇÃO: burrito/taco mexicano
+墨西哥湾 | TRADUÇÃO: golfo de México
+墨西哥辣椒 | TRADUÇÃO: chile jalapeño/jalapeño
+墨西拿 | TRADUÇÃO: Mesina, ciudad de Sicilia
+墨西拿海峡 | TRADUÇÃO: estrecho de Mesina entre Calabria y Sicilia
+墨角兰 | TRADUÇÃO: mejorana (Origanum majorana)
+墨迹 | TRADUÇÃO: trazos de tinta/obra caligráfica o pictórica original de una personalidad
+墨镜 | TRADUÇÃO: gafas de sol/CL:副
+墨鱼 | TRADUÇÃO: sepia/calamar
+墩 | TRADUÇÃO: bloque/pilar de puerta/pila de puente/clasificador para matas de plantas/clasificador para rondas en juegos de cartas: baza/(arcaico) torre vigía ‖ variante antigua de 墩
+墩子 | TRADUÇÃO: bloque rechoncho (de piedra, madera, etc.)/otoman; puf/tajadera
+墩布 | TRADUÇÃO: fregona/trapeador/CL:把
+墫 | TRADUÇÃO: variante antigua de 蹲 ‖ variante antigua de 樽
+墬 | TRADUÇÃO: variante de 地
+堕 | TRADUÇÃO: caer; descender/(fig.) degenerar; corromperse
+堕楼 | TRADUÇÃO: precipitarse desde un edificio/arrojarse al vacío
+堕胎 | TRADUÇÃO: abortar/aborto inducido
+堕落 | TRADUÇÃO: degradarse/degenerar/corromperse/depravado/caída moral
+堕云雾中 | TRADUÇÃO: (lit.) caer en medio de nubes y niebla (modismo)/(fig.) estar completamente desorientado; no entender nada
+墰 | TRADUÇÃO: variante de 罈|坛
+坟 | TRADUÇÃO: tumba/sepulcro/CL:座/terraplén/túmulo/libro antiguo
+坟丘 | TRADUÇÃO: túmulo funerario/tumba
+坟包 | TRADUÇÃO: montículo sepulcral/túmulo
+坟地 | TRADUÇÃO: cementerio/camposanto/terreno sepulcral
+坟场 | TRADUÇÃO: cementerio/camposanto
+坟茔 | TRADUÇÃO: tumba/sepulcro/cementerio/camposanto/(fig.) tierra natal ancestral
+坟墓 | TRADUÇÃO: tumba/sepulcro/sepultura
+坟山 | TRADUÇÃO: colina con cementerio/camposanto/tumba/montículo funerario

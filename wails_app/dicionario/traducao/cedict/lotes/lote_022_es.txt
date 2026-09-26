@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+品德 | TRADUÇÃO: carácter moral/moralidad/virtud moral
+品性 | TRADUÇÃO: carácter moral/índole/naturaleza
+品控 | TRADUÇÃO: control de calidad/CC/abrev. de 品質控制|品质控制
+品族 | TRADUÇÃO: cepa (de una especie)/variedad
+品月 | TRADUÇÃO: azul claro/azul pálido
+品服 | TRADUÇÃO: traje oficial/vestimenta ceremonial (que indica el rango de un funcionario)
+品格 | TRADUÇÃO: (de una persona) carácter moral/integridad/(de una obra de arte o literatura) estilo/carácter/calidad/(mús.) traste (de instrumento de cuerda)
+品牌 | TRADUÇÃO: marca/nombre de marca
+品目 | TRADUÇÃO: ítem/artículo/rubro
+品相 | TRADUÇÃO: condición/aspecto físico/estado de conservación (de una pieza de colección, plato preparado, estampilla, etc.)
+品秩 | TRADUÇÃO: (antiguo) rango y salario oficial
+品种 | TRADUÇÃO: raza/variedad/tipo/CL:個|个
+品第 | TRADUÇÃO: grado/categoría/calidad/rango
+品等 | TRADUÇÃO: grado de calidad/clasificación (de un producto)
+品管 | TRADUÇÃO: control de calidad
+品节 | TRADUÇÃO: integridad moral/carácter
+品红 | TRADUÇÃO: magenta/fucsia
+品级 | TRADUÇÃO: grado de calidad/rango oficial/maestría artesanal
+品绿 | TRADUÇÃO: verde claro
+品系 | TRADUÇÃO: cepa (de una especie)/línea genética
+品脱 | TRADUÇÃO: pinta (aprox. 0,47 litros)
+品色 | TRADUÇÃO: variedad/tipo/gama/calidad
+品茗 | TRADUÇÃO: degustar té/tomar té/saborear té
+品茶 | TRADUÇÃO: degustar té/catar té/saborear té
+品蓝 | TRADUÇÃO: azul brillante/azul violáceo
+品行 | TRADUÇÃO: conducta moral/comportamiento
+品评 | TRADUÇÃO: juzgar/evaluar/apreciar/comentar
+品议 | TRADUÇÃO: juzgar/comentar y valorar
+品读 | TRADUÇÃO: leer con atención/saborear la lectura/leer detenidamente
+品貌 | TRADUÇÃO: porte y aspecto/conducta y apariencia
+品质 | TRADUÇÃO: calidad (de un producto, servicio, vida, etc.)/carácter moral/calidad intrínseca
+品趣志 | TRADUÇÃO: Pinterest (red social para compartir imágenes)
+品达 | TRADUÇÃO: Píndaro (poeta griego)
+品酒 | TRADUÇÃO: catar vino/degustar vino
+品鉴 | TRADUÇÃO: catar y evaluar/examinar/apreciar/degustar
+品头论足 | TRADUÇÃO: (modismo) (lit.) evaluar de pies a cabeza/(fig.) criticar minuciosamente/buscar defectos en pequeñeces/ser quisquilloso
+品题 | TRADUÇÃO: evaluar/tasar/hacer una valoración crítica (de alguien)
+品类 | TRADUÇÃO: categoría/clase/tipo
+品丽珠 | TRADUÇÃO: Cabernet Franc (variedad de uva)
+哂 | TRADUÇÃO: (literario) sonreír/burlarse/sonreír con desdén
+哂笑 | TRADUÇÃO: (literario) mofarse/reírse con desdén/burlarse
+哂纳 | TRADUÇÃO: (literario) aceptar amablemente (fórmula de cortesía al entregar un obsequio)
+哃 | TRADUÇÃO: (literario) decir tonterías/jactarse/(usado en topónimos)
+哄 | TRADUÇÃO: (onomat.) estallido de risas/clamor/gritar al unísono ‖ engatusar/engañar/entretener (a un niño) ‖ variante de 鬨|哄 ‖ tumulto/alboroto/conmoción/disturbio
+哄动 | TRADUÇÃO: variante de 轟動|轰动
+哄动一时 | TRADUÇÃO: variante de 轟動一時|轰动一时
+哄劝 | TRADUÇÃO: persuadir cariñosamente/engatusar/convencer con mimos
+哄堂大笑 | TRADUÇÃO: (modismo) estallar toda la sala en carcajadas/carcajada general
+哄抬 | TRADUÇÃO: inflar artificialmente (los precios)/especular para subir precios
+哄抢 | TRADUÇÃO: saquear en masa/arrebatar en tropel
+哄然 | TRADUÇÃO: estruendoso/estrepitoso/ruidoso
+哄瞒 | TRADUÇÃO: engañar y ocultar/embaucar
+哄笑 | TRADUÇÃO: soltar una carcajada/reír a carcajadas en tropel/mofarse
+哄诱 | TRADUÇÃO: engatusar/inducir con mimos o engaños
+哄骗 | TRADUÇÃO: engañar/estafar/embaucar
+哆 | TRADUÇÃO: usado en 哆嗦
+哆啦A梦 | TRADUÇÃO: Doraemon (personaje de manga y anime japonés)
+哆嗦 | TRADUÇÃO: temblar/estremecerse/tiritar
+哆啰美远 | TRADUÇÃO: Torobiawan (uno de los pueblos indígenas de Taiwán)
+哆啰美远族 | TRADUÇÃO: pueblo Torobiawan (uno de los pueblos indígenas de Taiwán)
+哇 | TRADUÇÃO: ¡guau!/(onomat.) llanto de un niño/sonido del vómito ‖ reemplaza a 啊 tras las vocales "u" o "ao"
+哇哇 | TRADUÇÃO: (onomat.) sonido de llanto/llanto de un bebé
+哇噻 | TRADUÇÃO: variante de 哇塞
+哇塞 | TRADUÇÃO: (jerga) ¡guau!/¡caramba!/también pronunciado [wa1sei1]
+哇沙比 | TRADUÇÃO: wasabi (Taiwán)
+哇沙米 | TRADUÇÃO: wasabi (Taiwán)
+哇靠 | TRADUÇÃO: (Taiwán) ¡carajo!/¡madre mía!/¡ostras!
+哈 | TRADUÇÃO: abrev. de 哈薩克斯坦|哈萨克斯坦, Kazajistán/abrev. de 哈爾濱|哈尔滨, Harbin ‖ (interj.) ¡ja!/(onomat.) risa/(jerga) estar fascinado por/adorar/(en compuestos) husky (abrev. de 哈士奇) ‖ pekinés (perro)/pug/(dialectal) regañar
+哈伯 | TRADUÇÃO: Edwin Hubble (1889-1953), astrónomo estadounidense/Fritz Haber (1868-1934), químico alemán
+哈伯太空望远镜 | TRADUÇÃO: telescopio espacial Hubble
+哈伯玛斯 | TRADUÇÃO: Jürgen Habermas (1929-), filósofo y sociólogo alemán
+哈佛 | TRADUÇÃO: Harvard
+哈佛大学 | TRADUÇÃO: Universidad de Harvard
+哈伦裤 | TRADUÇÃO: pantalones de harén/pantalones bombachos
+哈克贝利·芬历险记 | TRADUÇÃO: Las aventuras de Huckleberry Finn, novela de Mark Twain 馬克·吐溫|马克·吐温
+哈利 | TRADUÇÃO: Harry
+哈利·波特 | TRADUÇÃO: Harry Potter (personaje de las novelas de J. K. Rowling 羅琳|罗琳)
+哈利伯顿 | TRADUÇÃO: Halliburton (empresa de servicios petroleros)
+哈利法克斯 | TRADUÇÃO: Halifax (nombre)/Halifax (capital de Nueva Escocia, Canadá)/Halifax (ciudad de Yorkshire del Oeste, Inglaterra)
+哈利路亚 | TRADUÇÃO: aleluya
+哈努卡 | TRADUÇÃO: Janucá (fiesta judía de las luces)/también llamada 光明節|光明节 y 哈努卡節|哈努卡节
+哈努卡节 | TRADUÇÃO: Janucá (fiesta de las luces judía)
+哈勃 | TRADUÇÃO: Hubble (nombre)/Edwin Hubble (1889-1953), astrónomo estadounidense
+哈博罗内 | TRADUÇÃO: Gaborone (capital de Botsuana)
+哈吉 | TRADUÇÃO: hach (peregrino a La Meca en el islam)/hadji
+哈吉斯 | TRADUÇÃO: haggis (plato tradicional escocés)
+哈哈 | TRADUÇÃO: (onomat.) ja, ja (sonido de risa)/jajaja
+哈哈大笑 | TRADUÇÃO: reír a carcajadas/soltar una sonora carcajada
+哈哈笑 | TRADUÇÃO: reír alegremente/reír a carcajadas
+哈哈镜 | TRADUÇÃO: espejo deformante
+哈啾 | TRADUÇÃO: (onomat.) ¡achís! (sonido de un estornudo) (Taiwán)
+哈喇 | TRADUÇÃO: rancio/(dialectal) matar/degollar
+哈喇子 | TRADUÇÃO: (dialectal) baba/saliva
+哈喽 | TRADUÇÃO: hola (del inglés "hello")
+哈啰 | TRADUÇÃO: hola (del inglés "hello")
+哈啰出行 | TRADUÇÃO: Hellobike (plataforma de servicios de transporte compartido)
+哈基米 | TRADUÇÃO: (jerga) gatito/gato
+哈士奇 | TRADUÇÃO: husky siberiano (perro)
+哈士蟆 | TRADUÇÃO: rana parda china (Rana chensinensis)/pronunciación en Taiwán [ha1 shi4 ma2]
+哈奴曼 | TRADUÇÃO: Hánuman (dios mono en la epopeya india Ramayana)
+哈姆雷特 | TRADUÇÃO: Hamlet (nombre)/Hamlet (tragedia de William Shakespeare 莎士比亞|莎士比亚)
+哈季奇 | TRADUÇÃO: Goran Hadžić (1958-2016), líder serbocroata
+哈密 | TRADUÇÃO: véase 哈密市
+哈密市 | TRADUÇÃO: Hami (ciudad-prefectura en la Región Autónoma Uigur de Sinkiang 新疆維吾爾自治區|新疆维吾尔自治区)
+哈密瓜 | TRADUÇÃO: melón de Hami/melón cantalupo
+哈尼 | TRADUÇÃO: etnia Hani ‖ cariño (del inglés "honey")/cariñito
+哈尼族 | TRADUÇÃO: etnia Hani/grupo étnico Hani
+哈巴河 | TRADUÇÃO: véase 哈巴河縣|哈巴河县
+哈巴河县 | TRADUÇÃO: condado de Habahe (en la prefectura de Altay 阿勒泰地區|阿勒泰地区, Sinkiang)
+哈巴狗 | TRADUÇÃO: perro pekinés/(fig.) adulador/lacayo/perro faldero
+哈巴罗夫斯克 | TRADUÇÃO: Jabárovsk (ciudad del extremo oriental de Rusia)
+哈巴谷书 | TRADUÇÃO: Libro de Habacuc (Biblia)
+哈巴雪山 | TRADUÇÃO: montaña nevada de Haba (en Lijiang 麗江|丽江, Yunnan)
+哈布斯堡 | TRADUÇÃO: Habsburgo (dinastía europea)
+哈希 | TRADUÇÃO: hash (informática)/véase también 散列
+哈得斯 | TRADUÇÃO: Hades (mitología griega)
+哈德斯 | TRADUÇÃO: Hades
+哈德逊河 | TRADUÇÃO: río Hudson (Nueva York, EE. UU.)
+哈恩 | TRADUÇÃO: Jaén (España)
+哈扣 | TRADUÇÃO: hardcore (del inglés)
+哈拉 | TRADUÇÃO: charlar/platicar sin rumbo (Taiwán)
+哈拉子 | TRADUÇÃO: (dialectal) saliva/baba/también escrito 哈喇子
+哈拉尔五世 | TRADUÇÃO: Harald V de Noruega
+哈拉雷 | TRADUÇÃO: Harare (capital de Zimbabue)
+哈拿 | TRADUÇÃO: Ana (figura bíblica)
+哈摩辣 | TRADUÇÃO: Gomorra
+哈日 | TRADUÇÃO: aficionado a la cultura japonesa/japófilo
+哈日族 | TRADUÇÃO: entusiastas de la cultura japonesa/japófilos
+哈普西科德 | TRADUÇÃO: clavecín/clavicémbalo
+哈根达斯 | TRADUÇÃO: Häagen-Dazs
+哈桑 | TRADUÇÃO: Hasán o Hassan (nombre de persona o lugar)
+哈梅内伊 | TRADUÇÃO: Jamenei (Ali Jamenei, líder supremo de Irán)
+哈棒 | TRADUÇÃO: (jerga) (Taiwán) hacer una felación/hacer sexo oral
+哈欠 | TRADUÇÃO: bostezo
+哈比人 | TRADUÇÃO: hobbit/véase también 霍比特人
+哈尔斯塔 | TRADUÇÃO: Harstad (ciudad de Noruega)
+哈尔滨 | TRADUÇÃO: véase 哈爾濱市|哈尔滨市
+哈尔滨工业大学 | TRADUÇÃO: Instituto de Tecnología de Harbin
+哈尔滨市 | TRADUÇÃO: Harbin (ciudad subprovincial y capital de la provincia de Heilongjiang 黑龍江省|黑龙江省)
+哈尔登 | TRADUÇÃO: Halden (ciudad de Noruega)
+哈特福德 | TRADUÇÃO: Hartford (Connecticut, EE. UU.)
+哈珀 | TRADUÇÃO: Harper (nombre)
+哈瓦那 | TRADUÇÃO: La Habana (capital de Cuba)
+哈米吉多顿 | TRADUÇÃO: Armagedón (en Apocalipsis 16:16)
+哈米尔卡 | TRADUÇÃO: Amílcar Barca (general cartaginés)
+哈罗 | TRADUÇÃO: hola (del inglés "hello")
+哈罗德 | TRADUÇÃO: Harold/Harald/Harrod (nombre)
+哈腰 | TRADUÇÃO: inclinarse/hacer una reverencia/doblarse por la cintura
+哈莉·贝瑞 | TRADUÇÃO: Halle Berry (actriz estadounidense)
+哈莱姆 | TRADUÇÃO: Harlem (barrio de Manhattan, Nueva York)
+哈蒙德 | TRADUÇÃO: apellido Hammond
+哈萨克 | TRADUÇÃO: etnia kazaja/(Taiwán, Hong Kong) Kazajistán
+哈萨克人 | TRADUÇÃO: kazajo/pueblo kazajo
+哈萨克文 | TRADUÇÃO: escritura kazaja/idioma kazajo escrito
+哈萨克斯坦 | TRADUÇÃO: Kazajistán
+哈萨克族 | TRADUÇÃO: etnia kazaja/grupo étnico kazajo
+哈萨克语 | TRADUÇÃO: idioma kazajo/lengua kazaja
+哈苏 | TRADUÇÃO: Hasselblad (fabricante de cámaras fotográficas)
+哈蜜瓜 | TRADUÇÃO: variante de 哈密瓜
+哈西纳 | TRADUÇÃO: Sheikh Hasina (política bangladesí)
+哈该书 | TRADUÇÃO: Libro de Hageo (Biblia)
+哈丰角 | TRADUÇÃO: cabo Ras Hafun (Somalia, punto más oriental de África)
+哈贝尔 | TRADUÇÃO: Habel/Haber/Hubbell (nombre)/Harbel (ciudad de Liberia)
+哈贝马斯 | TRADUÇÃO: Jürgen Habermas (filósofo y sociólogo alemán)
+哈迪 | TRADUÇÃO: Hardy o Hardie (nombre)
+哈迪斯 | TRADUÇÃO: Hades (mitología griega)
+哈迷 | TRADUÇÃO: (jerga) fanático de Harry Potter/potterhead
+哈达 | TRADUÇÃO: khata (bufanda ceremonial tibetana o mongola)
+哈里 | TRADUÇÃO: Harry o Hari (nombre)
+哈里斯堡 | TRADUÇÃO: Harrisburg (Pensilvania, EE. UU.)
+哈里森·施密特 | TRADUÇÃO: Harrison Schmitt (astronauta del Apolo 17)
+哈里发 | TRADUÇÃO: califa/también escrito 哈利發|哈利发
+哈里发国 | TRADUÇÃO: califato
+哈里发塔 | TRADUÇÃO: Burj Khalifa (rascacielos en Dubái)
+哈里发帝国 | TRADUÇÃO: Califato (imperio islámico surgido tras la muerte del profeta Mahoma 穆罕默德)
+哈雷彗星 | TRADUÇÃO: cometa Halley
+哈灵根 | TRADUÇÃO: Harlingen (Países Bajos)
+哈马斯 | TRADUÇÃO: Hamás (organización política y militar palestina)
+哈马尔 | TRADUÇÃO: Hamar (ciudad de Noruega)
+哈马黑拉岛 | TRADUÇÃO: isla Halmahera (Indonesia)
+哉 | TRADUÇÃO: (partícula exclamativa o interrogativa en chino clásico)
+哋 | TRADUÇÃO: (cantonés) sufijo plural para pronombres (equivalente a 們|们)
+哌 | TRADUÇÃO: usado en transliteraciones químicas
+哌啶 | TRADUÇÃO: (quím.) piperidina
+哌嗪 | TRADUÇÃO: (med.) piperazina
+哌替啶 | TRADUÇÃO: (med.) petidina/meperidina/Demerol
+哎 | TRADUÇÃO: ¡oye!/¡eh!/(interjección para llamar la atención, expresar sorpresa o reproche)
+哎呀 | TRADUÇÃO: ¡ay!/¡caramba!/¡cielos! (interjección de sorpresa, asombro o disgusto)
+哎呦 | TRADUÇÃO: ¡ay!/¡uy!/¡ay de mí! (interjección de dolor, sorpresa o molestia)
+哎唷 | TRADUÇÃO: ¡ay!/¡uy! (interjección de dolor o sorpresa)/también escrito 哎喲|哎哟
+哎哟 | TRADUÇÃO: ¡ay!/¡uy!/¡ayayay! (interjección de dolor o asombro)
+哏 | TRADUÇÃO: gracioso/cómico/chiste/remate humorístico ‖ variante antigua de 狠/variante antigua de 很/(exclamación de ira)
+哐 | TRADUÇÃO: (onomat.) ¡cataplum!/¡clic-clac!/¡pum! (sonido de portazo o golpe metálico)
+哐哐啷啷 | TRADUÇÃO: (onomat.) estrépito/tintineo estrepitoso/estruendo de choques
+哐啷 | TRADUÇÃO: (onomat.) ¡estrépito!/¡cataplum!/¡clanc!
+哚 | TRADUÇÃO: usado en 吲哚 (indol)
+哞 | TRADUÇÃO: (onomat.) mu (mugido de la vaca)
+员 | TRADUÇÃO: miembro/personal/empleado/clasificador para generales militares
+员外 | TRADUÇÃO: terrateniente/señor acaudalado (uso antiguo)
+员山 | TRADUÇÃO: municipio de Yuanshan (en el condado de Yilan 宜蘭縣|宜兰县, Taiwán)
+员山乡 | TRADUÇÃO: municipio rural de Yuanshan (en el condado de Yilan 宜蘭縣|宜兰县, Taiwán)
+员工 | TRADUÇÃO: personal/empleados/trabajadores
+员林 | TRADUÇÃO: ciudad de Yuanlin (en el condado de Changhua 彰化縣|彰化县, Taiwán)
+员林镇 | TRADUÇÃO: poblado de Yuanlin (en el condado de Changhua 彰化縣|彰化县, Taiwán)
+员警 | TRADUÇÃO: (Taiwán) agente de policía/policía
+员额 | TRADUÇÃO: cupo de personal/plantilla autorizada de empleados
+哢 | TRADUÇÃO: cantar o trinar (los pájaros)/sonido musical
+哤 | TRADUÇÃO: jerga/galimatías/lenguaje confuso
+哥 | TRADUÇÃO: hermano mayor
+哥俩 | TRADUÇÃO: (coloq.) dos hermanos/dos amigos inseparables
+哥们 | TRADUÇÃO: (coloq.) colega/amigo/hermano/compa
+哥们儿 | TRADUÇÃO: forma erhua de 哥們|哥们/(coloq.) compadre/amigote/hermano
+哥伦布 | TRADUÇÃO: Cristóbal Colón (1451-1506)/Columbus (capital de Ohio, EE. UU.)
+哥伦比亚 | TRADUÇÃO: Colombia (país de Sudamérica)/Columbia (topónimo común en EE. UU.)
+哥伦比亚大学 | TRADUÇÃO: Universidad de Columbia
+哥伦比亚广播公司 | TRADUÇÃO: Columbia Broadcasting System (CBS)
+哥伦比亚特区 | TRADUÇÃO: Distrito de Columbia (EE. UU.)
+哥儿 | TRADUÇÃO: hermanos/muchachos/chicos
+哥利亚 | TRADUÇÃO: Goliat (figura bíblica)
+哥吉拉 | TRADUÇÃO: Godzilla (Taiwán)
+哥哥 | TRADUÇÃO: hermano mayor/CL:個|个,位
+哥大 | TRADUÇÃO: Universidad de Columbia (abrev.)
+哥尼斯堡 | TRADUÇÃO: Königsberg (antigua capital de Prusia Oriental)
+哥布林 | TRADUÇÃO: goblin/duende
+哥德 | TRADUÇÃO: (Taiwán) gótico/(Taiwán) Goethe (1749-1832, poeta y dramaturgo alemán)
+哥德堡 | TRADUÇÃO: Gotemburgo (ciudad de Suecia)
+哥德巴赫猜想 | TRADUÇÃO: conjetura de Goldbach (teoría de números)
+哥德式 | TRADUÇÃO: (Taiwán) estilo gótico
+哥打巴鲁 | TRADUÇÃO: Kota Bharu (ciudad de Malasia)
+哥斯大黎加 | TRADUÇÃO: (Taiwán) Costa Rica
+哥斯拉 | TRADUÇÃO: Godzilla
+哥斯达黎加 | TRADUÇÃO: Costa Rica
+哥本哈根 | TRADUÇÃO: Copenhague (capital de Dinamarca)
+哥林多 | TRADUÇÃO: Corinto (ciudad de Grecia en el protestantismo)
+哥林多前书 | TRADUÇÃO: Primera Epístola a los Corintios
+哥林多后书 | TRADUÇÃO: Segunda Epístola a los Corintios
+哥特 | TRADUÇÃO: gótico (estética o subcultura gótica)
+哥特人 | TRADUÇÃO: godo (pueblo germánico)
+哥特式 | TRADUÇÃO: gótico (estilo arquitectónico, artístico o literario)
+哥白尼 | TRADUÇÃO: Nicolás Copérnico (1473-1543, astrónomo polaco)
+哥罗芳 | TRADUÇÃO: cloroformo/triclorometano CHCl3
+哥老会 | TRADUÇÃO: Sociedad Gelaohui (sociedad secreta de finales de la dinastía Qing)
+哥萨克 | TRADUÇÃO: cosaco (pueblo)
+哦 | TRADUÇÃO: recitar/entonar ‖ ¡oh! (interjección de duda o sorpresa) ‖ ¡ah!/¡oh! (interjección de comprensión o asentimiento) ‖ (partícula final de tono informal, amistoso o íntimo que señala un hecho)
+哦豁 | TRADUÇÃO: (dialectal) ¡ups!/¡vaya!/¡mala suerte!
+哦买嘎 | TRADUÇÃO: ¡oh, Dios mío! (del inglés "oh my God!")
+哧 | TRADUÇÃO: (onomat.) risita/resoplido/rasgado de papel o tela
+哧溜 | TRADUÇÃO: (onomat.) resbalón/deslizamiento/sonido de deslizarse
+哧溜溜 | TRADUÇÃO: véase 哧溜
+哨 | TRADUÇÃO: silbato/puesto de guardia/centinela
+哨兵 | TRADUÇÃO: centinela/guardia
+哨卡 | TRADUÇÃO: puesto de control/puesto de guardia fronterizo
+哨子 | TRADUÇÃO: silbato/pito
+哨子声 | TRADUÇÃO: silbido/sonido de silbato
+哨所 | TRADUÇÃO: puesto de vigilancia/garita/puesto de guardia
+哨笛 | TRADUÇÃO: silbato/flauta irlandesa (tin whistle)
+哩 | TRADUÇÃO: milla ‖ (partícula modal final semejante a 呢 o 啦)
+哩哩啦啦 | TRADUÇÃO: intermitente/esporádico/disperso/a intervalos
+哩哩啰啰 | TRADUÇÃO: confuso al hablar/prolijo e incoherente/farfullante
+哩哩罗罗 | TRADUÇÃO: (onomat.) murmullo incesante/cháchara interminable/farfulleo incomprensible
+哩溜歪斜 | TRADUÇÃO: torcido/deforme/inclinado/chueco
+哪 | TRADUÇÃO: cómo/cuál ‖ (partícula enfática final de frase, usada en lugar de 啊 tras una palabra que termina en "n") ‖ usado en 哪吒/pronunciación en Taiwán [nuo2] ‖ ¿cuál? (interrogativo, seguido de clasificador o numeral-clasificador)/¿cuáles?
+哪一个 | TRADUÇÃO: cuál/cuál de ellos
+哪些 | TRADUÇÃO: cuáles/cuáles de ellos
+哪个 | TRADUÇÃO: cuál/cuál de ellos/quién
+哪像 | TRADUÇÃO: a diferencia de/en contraste con/lejos de parecerse a
+哪儿 | TRADUÇÃO: dónde/a dónde/en cualquier lugar/en alguna parte/(en preguntas retóricas) cómo es posible que...
+哪儿的话 | TRADUÇÃO: (coloq.) ¡para nada!/¡de ningún modo!/¡no es para tanto! (fórmula de modestia ante un cumplido)
+哪儿跟哪儿 | TRADUÇÃO: ¿qué tiene que ver una cosa con la otra?/¿qué relación tiene?
+哪吒 | TRADUÇÃO: Nezha (deidad de la mitología china)
+哪壶不开提哪壶 | TRADUÇÃO: (modismo) (lit.) mencionar la tetera que no hierve/(fig.) poner el dedo en la llaga/tocar el punto flaco de alguien
+哪怕 | TRADUÇÃO: aunque/aun si/incluso si/por más que
+哪知 | TRADUÇÃO: ¿quién iba a imaginarlo?/inesperadamente/quién diría
+哪知道 | TRADUÇÃO: ¿quién iba a pensar que...?/inesperadamente
+哪里 | TRADUÇÃO: ¿dónde?/en cualquier lugar/en ninguna parte (respuesta negativa)/de ninguna manera (expresión de modestia ante un cumplido)/también escrito 哪裡|哪里 ‖ ¿dónde?/en cualquier lugar/en ninguna parte (respuesta negativa)/de ninguna manera (expresión de modestia ante un cumplido)
+哪里哪里 | TRADUÇÃO: ¡no es para tanto!/¡es usted muy amable!/¡me honra! (expresión de cortesía ante un cumplido)
+哪门子 | TRADUÇÃO: (coloq.) (enfático en preguntas retóricas) ¿qué clase de...?/¿qué demonios...?
+哫 | TRADUÇÃO: engatusar/adular
+哭 | TRADUÇÃO: llorar
+哭哭啼啼 | TRADUÇÃO: lloriquear sin parar/llanto incesante
+哭喊 | TRADUÇÃO: gritar llorando/clamar con llanto/dar alaridos
+哭丧 | TRADUÇÃO: plañir en un funeral/llorar ritualmente a un difunto
+哭丧棒 | TRADUÇÃO: bastón de luto envuelto en papel blanco (en ritos funerarios)
+哭丧脸 | TRADUÇÃO: cara de funeral/cara compungida/rostro lúgubre
+哭丧着脸 | TRADUÇÃO: poner cara de funeral/poner cara larga/estar compungido
+哭天抹泪 | TRADUÇÃO: lloriquear y lamentarse amargamente/llorar a moco tendido
+哭得死去活来 | TRADUÇÃO: llorar desconsoladamente/llorar hasta el desmayo
+哭泣 | TRADUÇÃO: llorar/sollozar
+哭墙 | TRADUÇÃO: Muro de las Lamentaciones (Muro Occidental en Jerusalén)
+哭秋风 | TRADUÇÃO: melancolía otoñal/quejarse de penalidades
+哭穷 | TRADUÇÃO: quejarse de pobreza/hacerse el pobre/lamentarse de estar sin dinero
+哭笑不得 | TRADUÇÃO: (modismo) (lit.) no saber si reír o llorar/entre la risa y el llanto/situación a la vez cómica e incómoda
+哭声 | TRADUÇÃO: llanto/sonido de llanto/gemido
+哭腔 | TRADUÇÃO: voz entrecortada por el llanto/tono lloroso/canto fúnebre en la ópera
+哭脸 | TRADUÇÃO: carita triste/poner cara de llanto/lloriquear
+哭诉 | TRADUÇÃO: quejarse entre lágrimas/lamentarse/relatar sus penas llorando
+哭灵 | TRADUÇÃO: velar y llorar ante el féretro o altar de un difunto
+哭闹 | TRADUÇÃO: llorar y hacer berrinche/patalear llorando
+哭鼻子 | TRADUÇÃO: lloriquear (en tono coloquial o humorístico)
+哮 | TRADUÇÃO: jadear/rugir/ladrar/pronunciación en Taiwán [xiao1]
+哮喘 | TRADUÇÃO: asma
+哮喘病 | TRADUÇÃO: asma/enfermedad asmática
+哮鸣 | TRADUÇÃO: sibilancia/estridor
+哰 | TRADUÇÃO: usado en 㘓哰|𪢌哰
+哱 | TRADUÇÃO: usado en 呼哱哱
+哲 | TRADUÇÃO: sabio/filosófico/sagaz
+哲人 | TRADUÇÃO: sabio/pensador/filósofo
+哲人其萎 | TRADUÇÃO: (modismo) ha fallecido un gran sabio/pérdida de un maestro ilustre
+哲人石 | TRADUÇÃO: piedra filosofal
+哲学 | TRADUÇÃO: filosofía
+哲学博士 | TRADUÇÃO: doctor en Filosofía/PhD
+哲学史 | TRADUÇÃO: historia de la filosofía
+哲学家 | TRADUÇÃO: filósofo
+哲思 | TRADUÇÃO: reflexión filosófica/pensamiento filosófico
+哲理 | TRADUÇÃO: principio filosófico/filosofía profunda/teoría filosófica
+哲蚌寺 | TRADUÇÃO: monasterio de Drepung (Lhasa, Tíbet)
+哳 | TRADUÇÃO: usado en 嘲哳 y 啁哳/pronunciación en Taiwán [zha2]
+哺 | TRADUÇÃO: alimentar/amamantar/dar de comer ‖ comer/cena
+哺乳 | TRADUÇÃO: amamantar/lactancia/dar el pecho
+哺乳动物 | TRADUÇÃO: mamífero
+哺乳期 | TRADUÇÃO: período de lactancia
+哺乳纲 | TRADUÇÃO: clase Mammalia/mamíferos
+哺乳类 | TRADUÇÃO: mamíferos
+哺乳类动物 | TRADUÇÃO: animales mamíferos/mamíferos
+哺母乳 | TRADUÇÃO: amamantar con leche materna/dar el pecho
+哺育 | TRADUÇÃO: alimentar/(fig.) criar/nutrir/educar
+哺养 | TRADUÇÃO: criar/alimentar y cuidar/sustentar
+哼 | TRADUÇÃO: gemir/resoplar/tararear/cantar en voz baja/¡aj! ‖ (interjección de disgusto, desdén o sospecha) ¡jum!/¡hum!
+哼儿哈儿 | TRADUÇÃO: titubear/balbucear con evasivas
+哼哧 | TRADUÇÃO: jadear/resoplar con fuerza
+哼哼唧唧 | TRADUÇÃO: gimotear/quejarse continuamente/refunfuñar
+哼唧 | TRADUÇÃO: quejarse en voz baja/susurrar/gimotear
+哼唱 | TRADUÇÃO: tararear/cantar entre dientes
+哼声 | TRADUÇÃO: zumbido/tarareo/resoplido
+哽 | TRADUÇÃO: atragantarse con la comida/nudo en la garganta (por emoción)
+哽咽 | TRADUÇÃO: ahogarse en llanto/atragantarse de emoción/sollozar
+哽喉 | TRADUÇÃO: variante de 鯁喉|鲠喉
+哽噎 | TRADUÇÃO: atragantarse/quedarse sin voz por la emoción/ahogarse en sollozos
+哽死 | TRADUÇÃO: asfixiarse/morir atragantado
+哿 | TRADUÇÃO: excelente/feliz/bienestar
+唁 | TRADUÇÃO: dar el pésame/expresar condolencias
+唁信 | TRADUÇÃO: carta de condolencias/carta de pésame
+唁函 | TRADUÇÃO: carta de condolencias/nota de pésame
+唁劳 | TRADUÇÃO: dar el pésame y confortar/pronunciación en Taiwán [yan4 lao4]
+唁电 | TRADUÇÃO: telegrama de condolencias/telegrama de pésame
+唂 | TRADUÇÃO: (onomat.) canto de pájaro
+唃 | TRADUÇÃO: variante antigua de 唂
+呗 | TRADUÇÃO: (en compuestos) salmodiar/entonar versos budistas (del sánscrito "pāṭhaka") ‖ (partícula modal que indica obviedad, resignación o falta de entusiasmo)
+唅 | TRADUÇÃO: (literario) llevar a la boca/poner en la boca
+唆 | TRADUÇÃO: incitar/instigar
+唇 | TRADUÇÃO: labio ‖ variante de 唇
+唇亡齿寒 | TRADUÇÃO: (modismo) (lit.) sin los labios, los dientes sienten el frío/(fig.) interdependencia mutua e inseparable/apoyarse mutuamente
+唇典 | TRADUÇÃO: argot/jerga secreta/clave
+唇印 | TRADUÇÃO: huella de carmín/marca de beso/chupetón
+唇形科 | TRADUÇÃO: Lamiáceas/Labiadas (familia taxonómica de la menta y la lavanda)
+唇彩 | TRADUÇÃO: brillo de labios/brillo labial
+唇枪舌剑 | TRADUÇÃO: (modismo) cruzar espadas verbales/acalorado debate verbal/guerra dialéctica
+唇枪舌战 | TRADUÇÃO: véase 唇槍舌劍|唇枪舌剑
+唇线笔 | TRADUÇÃO: lápiz delineador de labios/perfilador de labios
+唇膏 | TRADUÇÃO: lápiz labial/bálsamo labial/carmín
+唇舌 | TRADUÇÃO: palabrería/discusión/labios y lengua/palabras persuasivas
+唇蜜 | TRADUÇÃO: brillo de labios
+唇裂 | TRADUÇÃO: labio leporino/queilosquisis
+唇角 | TRADUÇÃO: comisura de los labios/comisura de la boca
+唇读 | TRADUÇÃO: lectura de labios/leer los labios
+唇釉 | TRADUÇÃO: (cosméticos) labial líquido/tinte labial brillante
+唇音 | TRADUÇÃO: consonante labial
+唇颚裂 | TRADUÇÃO: labio leporino y paladar hendido
+唇齿 | TRADUÇÃO: (fig.) estrechamente unidos/íntimamente relacionados/labios y dientes
+唇齿相依 | TRADUÇÃO: (modismo) (lit.) tan cercanos como labios y dientes/estrechamente vinculados/mutuamente dependientes
+唇齿音 | TRADUÇÃO: (fonética) sonido labiodental/consonante labiodental
+唈 | TRADUÇÃO: palpitación/respiración entrecortada/suspiro
+唉 | TRADUÇÃO: ¡sí! (interjección de asentimiento o respuesta)/suspirar ‖ ¡ay!/¡ay de mí! (interjección de tristeza o lamento)
+唉唉 | TRADUÇÃO: (onomat.) sonido de suspiros/sonido de llanto
+唉姐 | TRADUÇÃO: (dialectal) abuelita/abuela
+唉声叹气 | TRADUÇÃO: (modismo) suspirar y lamentarse/dar profundos suspiros de desesperanza
+唊 | TRADUÇÃO: (antiguo) hablar sin ton ni son/parlotear/hablador
+唎 | TRADUÇÃO: (partícula final)/sonido/ruido ‖ variante de 哩
+唏 | TRADUÇÃO: (onomat.) sonido de sollozo/suspiro
+唏哩哗啦 | TRADUÇÃO: variante de 稀里嘩啦|稀里哗啦
+唏嘘 | TRADUÇÃO: (onomat.) suspirar con pesar/lamentarse/sollozar
+唏里哗啦 | TRADUÇÃO: variante de 稀里嘩啦|稀里哗啦
+唐 | TRADUÇÃO: dinastía Tang (618–907)/apellido Tang ‖ exagerar/en vano/vano/variante antigua de 螗
+唐三藏 | TRADUÇÃO: Tang Sanzang (Tripitaka, personaje principal de "Viaje al Oeste" 西遊記|西游记, basado en el monje Xuanzang 玄奘)
+唐中宗 | TRADUÇÃO: emperador Zhongzong de Tang (cuarto emperador de la dinastía Tang)
+唐人 | TRADUÇÃO: persona china/chino (usado en comunidades chinas de ultramar)
+唐人街 | TRADUÇÃO: barrio chino/CL:條|条,座
+唐代 | TRADUÇÃO: dinastía Tang (618–907)
+唐代宗 | TRADUÇÃO: emperador Daizong de Tang (noveno emperador de la dinastía Tang)
+唐伯虎 | TRADUÇÃO: Tang Bohu o Tang Yin 唐寅 (1470-1523, pintor y poeta de la dinastía Ming)
+唐僖宗 | TRADUÇÃO: emperador Xizong de Tang (decimonoveno emperador de la dinastía Tang)
+唐僧 | TRADUÇÃO: monje Tang (Xuanzang, monje budista y traductor de la dinastía Tang)
+唐初四大家 | TRADUÇÃO: Cuatro Grandes Calígrafos de principios de Tang
+唐卡 | TRADUÇÃO: thangka (pintura tradicional budista tibetana)
+唐古拉 | TRADUÇÃO: cordillera Tanggula (en la meseta tibetana 青藏高原)
+唐古拉山 | TRADUÇÃO: montes Tanggula (en la meseta Qinghai-Tíbet)
+唐古拉山脉 | TRADUÇÃO: cordillera de Tanggula
+唐吉诃德 | TRADUÇÃO: Don Quijote/también escrito 堂吉訶德|堂吉诃德
+唐哀帝 | TRADUÇÃO: emperador Aidi de Tang (último emperador de la dinastía Tang)
+唐尧 | TRADUÇÃO: Tang Yao o emperador Yao (uno de los Cinco Emperadores legendarios 五帝)
+唐太宗 | TRADUÇÃO: emperador Taizong de Tang (Li Shimin, segundo emperador de la dinastía Tang)
+唐太宗李卫公问对 | TRADUÇÃO: Preguntas y respuestas entre el emperador Taizong de Tang y el duque Li de Wei (tratado militar de los Siete Clásicos Militares 武經七書|武经七书)
+唐宋 | TRADUÇÃO: dinastías Tang y Song
+唐宋八大家 | TRADUÇÃO: Los Ocho Maestros de la prosa de Tang y Song
+唐宣宗 | TRADUÇÃO: emperador Xuanzong de Tang (810-859, decimoséptimo emperador de la dinastía Tang)
+唐家山 | TRADUÇÃO: montaña Tangjia (zona del condado de Beichuan, Sichuan)
+唐家璇 | TRADUÇÃO: Tang Jiaxuan (1938-, diplomático y político chino)
+唐寅 | TRADUÇÃO: Tang Yin o Tang Bohu 唐伯虎 (1470-1523, pintor y poeta de la dinastía Ming)
+唐宁街 | TRADUÇÃO: Downing Street (Londres)
+唐山 | TRADUÇÃO: véase 唐山市/China (término histórico usado por la diáspora china)
+唐山大地震 | TRADUÇÃO: gran terremoto de Tangshan (1976)
+唐山市 | TRADUÇÃO: Tangshan (ciudad-prefectura en la provincia de Hebei 河北省)
+唐德宗 | TRADUÇÃO: emperador Dezong de Tang (décimo emperador de la dinastía Tang)
+唐恩都乐 | TRADUÇÃO: Dunkin' Donuts
+唐宪宗 | TRADUÇÃO: emperador Xianzong de Tang (duodécimo emperador de la dinastía Tang)
+唐懿宗 | TRADUÇÃO: emperador Yizong de Tang (decimoctavo emperador de la dinastía Tang)
+唐手道 | TRADUÇÃO: Tang Soo Do (arte marcial coreano)
+唐招提寺 | TRADUÇÃO: templo Toshodai-ji (en Nara, Japón, fundado por el monje Jianzhen 鑒真和尚|鉴真和尚)
+唐扬 | TRADUÇÃO: karaage/pollo frito al estilo japonés
+唐敬宗 | TRADUÇÃO: emperador Jingzong de Tang (decimocuarto emperador de la dinastía Tang)
+唐文宗 | TRADUÇÃO: emperador Wenzong de Tang (decimoquinto emperador de la dinastía Tang)
+唐明皇 | TRADUÇÃO: emperador Ming de Tang (emperador Xuanzong de Tang 唐玄宗)
+唐昭宗 | TRADUÇÃO: emperador Zhaozong de Tang (vigésimo emperador de la dinastía Tang)
+唐书 | TRADUÇÃO: Libro de Tang (antigua historia dinástica de Tang 舊唐書|旧唐书)
+唐朝 | TRADUÇÃO: dinastía Tang (618-907)
+唐末 | TRADUÇÃO: finales de la dinastía Tang (siglo IX)
+唐棣 | TRADUÇÃO: guillomo (arbusto del género Amelanchier)/Tang Di (pintor y poeta de la dinastía Yuan)
+唐楼 | TRADUÇÃO: tong lau (edificio tradicional de apartamentos y comercios en el sur de China)
+唐武宗 | TRADUÇÃO: emperador Wuzong de Tang (decimosexto emperador de la dinastía Tang)
+唐殇帝 | TRADUÇÃO: emperador Shang de Tang (quinto emperador de la dinastía Tang)
+唐氏儿 | TRADUÇÃO: niño con síndrome de Down
+唐氏症 | TRADUÇÃO: (Taiwán) síndrome de Down
+唐氏综合症 | TRADUÇÃO: síndrome de Down
+唐河 | TRADUÇÃO: río Tanghe/véase 唐河縣|唐河县
+唐河县 | TRADUÇÃO: condado de Tanghe (en Nanyang 南陽市|南阳市, Henan)
+唐狗 | TRADUÇÃO: perro mestizo indígena chino
+唐玄宗 | TRADUÇÃO: emperador Xuanzong de Tang (Li Longji, séptimo emperador de la dinastía Tang)
+唐璜 | TRADUÇÃO: Don Juan/galán/seductor
+唐睿宗 | TRADUÇÃO: emperador Ruizong de Tang (sexto emperador de la dinastía Tang)
+唐穆宗 | TRADUÇÃO: emperador Muzong de Tang (decimotercer emperador de la dinastía Tang)
+唐突 | TRADUÇÃO: brusco/descortés/imprudente/ofensivo/tratar con irreverencia
+唐纳 | TRADUÇÃO: Tanner o Donald (nombre)
+唐纳·川普 | TRADUÇÃO: (Taiwán) Donald Trump (1946-, político y magnate estadounidense)
+唐纳德 | TRADUÇÃO: Donald (nombre)
+唐绍仪 | TRADUÇÃO: Tang Shaoyi (1862-1939, diplomático y político chino)
+唐县 | TRADUÇÃO: condado de Tang (en la ciudad de Baoding 保定市, Hebei)
+唐老鸭 | TRADUÇÃO: Pato Donald
+唐肃宗 | TRADUÇÃO: emperador Suzong de Tang (octavo emperador de la dinastía Tang)
+唐花 | TRADUÇÃO: flor de invernadero
+唐装 | TRADUÇÃO: traje Tang (chaqueta tradicional china con cuello mao)
+唐诗 | TRADUÇÃO: poesía de la dinastía Tang/poema Tang
+唐诗三百首 | TRADUÇÃO: Trescientos poemas Tang (antología compilada hacia 1763 por Sun Zhu 孫誅|孙诛)
+唐顺宗 | TRADUÇÃO: emperador Shunzong de Tang (undécimo emperador de la dinastía Tang)
+唐高宗 | TRADUÇÃO: emperador Gaozong de Tang (tercer emperador de la dinastía Tang)
+唐高祖 | TRADUÇÃO: emperador Gaozu de Tang (Li Yuan, fundador y primer emperador de la dinastía Tang)
+唑 | TRADUÇÃO: (quím.) azol
+唔 | TRADUÇÃO: ¡ah!/¡oh! (expresión de sorpresa o asentimiento)/(cantonés) no
+唣 | TRADUÇÃO: variante de 唣 ‖ usado en 囉唣|啰唣
+启 | TRADUÇÃO: variante de 啟|启 ‖ variante de 啟|启 ‖ Qi (hijo de Yu el Grande 禹, gobernante de la dinastía Xia 夏朝) ‖ abrir/iniciar/comenzar/iluminar/esclarecer/informar/exponer
+吣 | TRADUÇÃO: vomitar (perros o gatos)/decir disparates/despotricar
+唞 | TRADUÇÃO: descansar/tomar un descanso (cantonés)
+唧 | TRADUÇÃO: (onomat.) bombear agua/chorro de agua
+唧咕 | TRADUÇÃO: (onomat.) susurrar/cuchichear
+唧唧 | TRADUÇÃO: (onomat.) chirrido de insectos/suspiros
+唧唧喳喳 | TRADUÇÃO: (onomat.) parloteo incesante/cuchicheos y risitas
+唧唧嘎嘎 | TRADUÇÃO: (onomat.) graznido/crujido/risotada
+唧啾 | TRADUÇÃO: (onomat.) gorjeo de aves/balbuceo
+唧筒 | TRADUÇÃO: bomba de agua/émbolo
+唧筒座 | TRADUÇÃO: Antlia (constelación de la Máquina Neumática)
+唪 | TRADUÇÃO: recitar/salmodiar en voz alta
+唫 | TRADUÇÃO: tartamudear/cerrar la boca/pronunciación en Taiwán [yin2] ‖ variante de 崟
+唬 | TRADUÇÃO: rugido de tigre/asustar/intimidar/(coloq.) engañar/farolear
+唬人 | TRADUÇÃO: asustar a la gente/engañar/intimidar con faroles
+唬弄 | TRADUÇÃO: engañar/embaucar/engatusar
+唬烂 | TRADUÇÃO: (jerga) (Taiwán) decir patrañas/hablar tonterías/engañar
+售 | TRADUÇÃO: vender/comercializar/(literario) llevar a cabo (un plan o intriga)
+售价 | TRADUÇÃO: precio de venta
+售完 | TRADUÇÃO: agotado/venderse por completo
+售完即止 | TRADUÇÃO: hasta agotar existencias/sujeto a disponibilidad
+售后服务 | TRADUÇÃO: servicio posventa
+售票 | TRADUÇÃO: venta de billetes/vender entradas
+售票口 | TRADUÇÃO: taquilla/ventanilla de boletos
+售票员 | TRADUÇÃO: taquillero/vendedor de billetes
+售票处 | TRADUÇÃO: taquilla/despacho de billetes/boletería
+售罄 | TRADUÇÃO: agotarse totalmente/liquidarse por completo
+售货 | TRADUÇÃO: vender mercancías/vender artículos
+售货员 | TRADUÇÃO: dependiente/vendedor/empleado de ventas
+售货台 | TRADUÇÃO: mostrador de ventas/puesto de venta
+售卖 | TRADUÇÃO: vender/comercializar
+唯 | TRADUÇÃO: solo/únicamente/-ismo (en filosofía) ‖ sí/así es
+唯一 | TRADUÇÃO: único/solo
+唯一性 | TRADUÇÃO: unicidad/singularidad
+唯二 | TRADUÇÃO: (jerga) los dos únicos/uno de los dos únicos
+唯利是图 | TRADUÇÃO: (modismo) buscar únicamente el lucro/guiarse solo por el dinero/anteponer el beneficio económico a todo
+唯命是从 | TRADUÇÃO: obedecer ciegamente/seguir órdenes al pie de la letra
+唯唯诺诺 | TRADUÇÃO: (modismo) ser servil/ser un hombre que a todo dice sí/asentir a todo dócilmente
+唯心主义 | TRADUÇÃO: idealismo (doctrina filosófica)
+唯心论 | TRADUÇÃO: idealismo/idealismo filosófico
+唯恐 | TRADUÇÃO: por temor a que/no sea que/para no/también escrito 惟恐
+唯恐天下不乱 | TRADUÇÃO: (modismo) desear que todo el mundo esté en caos/querer armar lío/sembrar la discordia
+唯意志论 | TRADUÇÃO: voluntarismo (filosofía de Schopenhauer 叔本華|叔本华)
+唯有 | TRADUÇÃO: solo/solamente/únicamente
+唯物 | TRADUÇÃO: materialista
+唯物主义 | TRADUÇÃO: materialismo (filosofía)
+唯物论 | TRADUÇÃO: (filosofía) materialismo
+唯独 | TRADUÇÃO: solo/únicamente/excepto únicamente
+唯理论 | TRADUÇÃO: (filosofía) racionalismo
+唯粉 | TRADUÇÃO: fan individual (seguidor que solo apoya a un integrante específico de un grupo)
+唯美 | TRADUÇÃO: esteticismo/estético/búsqueda de la belleza pura
+唯识宗 | TRADUÇÃO: escuela Yogachara (escuela budista de "solo conciencia")/escuela Vijnanavada
+唯读 | TRADUÇÃO: de solo lectura (informática)
+唯象 | TRADUÇÃO: fenomenológico
+唯象理论 | TRADUÇÃO: teoría fenomenológica/fenomenología
+唯饭 | TRADUÇÃO: fan individual (admirador exclusivo de un solo miembro de un grupo)
+唰 | TRADUÇÃO: (onomat.) sonido de roce/silbido del viento/chasquido rápido
+唱 | TRADUÇÃO: cantar/entonar/proclamar
+唱K | TRADUÇÃO: (jerga) cantar en el karaoke/ir al karaoke
+唱作人 | TRADUÇÃO: cantautor/compositor y cantante
+唱功 | TRADUÇÃO: técnica vocal/habilidad de canto
+唱反调 | TRADUÇÃO: llevar la contraria/cantar una melodía opuesta
+唱名 | TRADUÇÃO: solfeo/nombre de las notas musicales
+唱和 | TRADUÇÃO: cantar a coro en respuesta/responder con un poema en la misma rima/antífona
+唱商 | TRADUÇÃO: inteligencia interpretativa musical/capacidad de interpretación en el canto
+唱喏 | TRADUÇÃO: (antiguo) inclinarse saludando con fórmulas de cortesía/abrir paso con voces de respeto
+唱对台戏 | TRADUÇÃO: (modismo) montar una función rival/hacer la competencia directa/enfrentarse abiertamente a alguien
+唱念 | TRADUÇÃO: cantar los pedidos en voz alta (en un restaurante)
+唱戏 | TRADUÇÃO: cantar ópera tradicional/actuar en la ópera
+唱曲 | TRADUÇÃO: cantar tonadas/cantar una canción o aria
+唱本 | TRADUÇÃO: libreto de ópera/cancionero tradicional
+唱机 | TRADUÇÃO: tocadiscos/gramófono
+唱歌 | TRADUÇÃO: cantar/cantar canciones
+唱段 | TRADUÇÃO: aria/pasaje cantado (en la ópera)
+唱法 | TRADUÇÃO: estilo de canto/técnica de canto
+唱片 | TRADUÇÃO: disco de vinilo/álbum musical/disco/CL:張|张
+唱白脸 | TRADUÇÃO: (modismo) hacer el papel de malo/hacer de policía malo
+唱盘 | TRADUÇÃO: plato giradiscos/disco de vinilo
+唱碟 | TRADUÇÃO: disco de música/disco de vinilo/CD
+唱票 | TRADUÇÃO: cantar los votos/escrutar papeletas en voz alta
+唱空城计 | TRADUÇÃO: (modismo) (lit.) recurrir a la estratagema de la ciudad vacía/(fig.) disimular la debilidad con un farol/(humorístico) estar vacío (un lugar)/rugir las tripas de hambre
+唱红脸 | TRADUÇÃO: (modismo) hacer el papel del héroe/hacer de policía bueno
+唱腔 | TRADUÇÃO: melodía vocal de ópera/aria
+唱臂 | TRADUÇÃO: brazo del tocadiscos/brazo fonocaptor
+唱衰 | TRADUÇÃO: augurar el fracaso de algo/hacer malos pronósticos/desacreditar
+唱词 | TRADUÇÃO: libreto/letras de una canción u ópera
+唱诗班 | TRADUÇÃO: coro eclesiástico/coro de iglesia/coro
+唱针 | TRADUÇÃO: aguja del tocadiscos/púa fonográfica
+唱双簧 | TRADUÇÃO: (lit.) hacer un dúo teatral/(fig.) actuar en complicidad/hacer comedia a dúo
+唱头 | TRADUÇÃO: cápsula fonocaptora/cabezal del tocadiscos
+唱高调 | TRADUÇÃO: (modismo) cantar en tono alto/decir palabras altisonantes pero vacías/hacer discursos pomposos
+唱高调儿 | TRADUÇÃO: forma erhua de 唱高調|唱高调
+唱黑脸 | TRADUÇÃO: hacer el papel severo/hacer de padre estricto o policía malo
+唲 | TRADUÇÃO: risa forzada
+唳 | TRADUÇÃO: graznido de grulla o ganso salvaje
+唵 | TRADUÇÃO: (interjección) ¡oh!/(dialectal) meterse comida en la boca/om (sílaba sagrada budista)
+唵嘛呢叭咪吽 | TRADUÇÃO: Om mani padme hum (mantra budista)
+唶 | TRADUÇÃO: suspiro/gemido/carcajada sonora
+唷 | TRADUÇÃO: ¡oh!/¡ay! (interjección de sorpresa) ‖ (partícula final de exhortación o admiración)
+念 | TRADUÇÃO: variante de 念, leer en voz alta ‖ leer/estudiar/asistir a (la escuela)/leer en voz alta/regañar a alguien (CL:頓|顿)/echar de menos/pensamiento/recuerdo/veinte (numeral bancario para 廿)
+念念有词 | TRADUÇÃO: variante de 念念有詞|念念有词 ‖ murmurar entre dientes/rezongar para sí/recitar en voz baja
+唹 | TRADUÇÃO: sonreír a alguien
+𫪁 | TRADUÇÃO: (dialectal) partícula modal semejante a 呢, 啦 o 來著|来着
+唼 | TRADUÇÃO: hablar mal de otros/(onomat.) chasquido de patos al comer
+唾 | TRADUÇÃO: saliva/escupir
+唾手可得 | TRADUÇÃO: fácil de conseguir/al alcance de la mano/pan comido
+唾弃 | TRADUÇÃO: despreciar/repudiar/rechazar con desdén
+唾沫 | TRADUÇÃO: saliva/escupitajo/baba
+唾沫星子 | TRADUÇÃO: gotitas de saliva (al hablar)/salpicaduras de saliva
+唾液 | TRADUÇÃO: saliva
+唾液腺 | TRADUÇÃO: glándula salival
+唾骂 | TRADUÇÃO: escupir e insultar/increpar/vilipendiar
+唾面自干 | TRADUÇÃO: (modismo) (lit.) recibir un escupitajo en la cara y dejar que se seque sin limpiarlo/(fig.) poner la otra mejilla/soportar la humillación pacientemente
+唾余 | TRADUÇÃO: sobras/migajas de otros/comentarios superfluos/desperdicios
+唿 | TRADUÇÃO: silbar con los dedos en la boca/(onomat.) silbido del viento
+唿哨 | TRADUÇÃO: silbido con los dedos/hoy en día escrito 呼哨
+唿喇 | TRADUÇÃO: (onomat.) ¡fiu!/sonido del viento o aleteo
+唿喇喇 | TRADUÇÃO: (onomat.) rugido del viento/estruendo del viento
+啁 | TRADUÇÃO: usado en 啁哳/pronunciación en Taiwán [zhou1] ‖ trino de pájaros/gorjeo
+啁哳 | TRADUÇÃO: (literario) (onomat.) algarabía de pájaros/gorjeos entremezclados/música chillona
+啁啾 | TRADUÇÃO: (onomat.) piar/trinar/gorjeo de aves
+啃 | TRADUÇÃO: roer/morder/mordisquear
+啃书 | TRADUÇÃO: (lit.) roer libros/(fig.) empollar/estudiar a fondo
+啃老 | TRADUÇÃO: (coloq.) vivir a expensas de los padres/depender económicamente de los padres
+啃老族 | TRADUÇÃO: (coloq.) parásitos de sus padres/ninis dependientes de los padres/generación dependiente
+啄 | TRADUÇÃO: picotear/picar (las aves)
+啄木鸟 | TRADUÇÃO: pájaro carpintero/pito
+啄羊鹦鹉 | TRADUÇÃO: kea (Nestor notabilis, loro de Nueva Zelanda)
+啄花鸟 | TRADUÇÃO: picaflores/dicéido (ave de la familia Dicaeidae)
+啄食 | TRADUÇÃO: picotear comida/comer a picotazos
+啅 | TRADUÇÃO: piar/gorjear
+商 | TRADUÇÃO: dinastía Shang (c. 1600–1046 a. C.)/apellido Shang ‖ comercio/comerciante/consultar/deliberar/segunda nota de la escala pentatónica tradicional/cociente (como en 智商, cociente intelectual)
+商丘 | TRADUÇÃO: véase 商丘市
+商丘市 | TRADUÇÃO: Shangqiu (ciudad-prefectura en la provincia de Henan 河南省)
+商事 | TRADUÇÃO: asuntos comerciales
+商人 | TRADUÇÃO: comerciante/hombre de negocios/mercader
+商人银行 | TRADUÇÃO: banco de negocios/banco mercantil
+商代 | TRADUÇÃO: dinastía Shang (aprox. siglos XVI-XI a. C.)
+商兑 | TRADUÇÃO: debatir y deliberar
+商务 | TRADUÇÃO: negocios/comercio/asuntos comerciales
+商务中心区 | TRADUÇÃO: distrito central de negocios/DCN/zona financiera
+商务印书馆 | TRADUÇÃO: The Commercial Press (editorial fundada en 1897 en Shanghái/Pekín)
+商务汉语考试 | TRADUÇÃO: Examen de Chino de Negocios (BCT)
+商务舱 | TRADUÇÃO: clase ejecutiva/clase negocios
+商务部 | TRADUÇÃO: Ministerio de Comercio/Departamento de Comercio
+商南 | TRADUÇÃO: véase 商南縣|商南县
+商南县 | TRADUÇÃO: condado de Shangnan (en la ciudad de Shangluo 商洛市, Shaanxi)
+商君书 | TRADUÇÃO: El libro del señor Shang (texto legalista del siglo IV a. C.)
+商品 | TRADUÇÃO: mercancía/artículo/producto comercial/CL:件
+商品价值 | TRADUÇÃO: valor de las mercancías/valor comercial
+商品化 | TRADUÇÃO: mercantilización/comercialización
+商品粮 | TRADUÇÃO: grano comercial (cereal para la venta)
+商品经济 | TRADUÇÃO: economía de mercado de bienes/economía mercantil
+商圈 | TRADUÇÃO: zona comercial/área de negocios/eje comercial
+商城 | TRADUÇÃO: véase 商城縣|商城县 ‖ centro comercial/galería comercial
+商城县 | TRADUÇÃO: condado de Shangcheng (en Xinyang 信陽市|信阳市, Henan)
+商域 | TRADUÇÃO: (mat.) cuerpo de fracciones
+商埠 | TRADUÇÃO: puerto comercial/puerto franco
+商报 | TRADUÇÃO: diario comercial/periódico económico
+商场 | TRADUÇÃO: centro comercial/grandes almacenes/CL:家/mundo de los negocios
+商女 | TRADUÇÃO: cantante profesional cortesana (arcaico)
+商学 | TRADUÇÃO: ciencias empresariales/comercio
+商学院 | TRADUÇÃO: escuela de negocios/facultad de comercio y administración
+商定 | TRADUÇÃO: acordar tras deliberación/convenir de mutuo acuerdo
+商家 | TRADUÇÃO: comerciante/negocio/empresa/vendedor
+商展 | TRADUÇÃO: feria de muestras/exposición comercial
+商州 | TRADUÇÃO: véase 商州區|商州区
+商州区 | TRADUÇÃO: distrito de Shangzhou (en Shangluo 商洛市, Shaanxi)
+商店 | TRADUÇÃO: tienda/comercio/CL:家
+商战 | TRADUÇÃO: guerra comercial/competencia mercantil
+商户 | TRADUÇÃO: comerciante/comercio/establecimiento comercial
+商数 | TRADUÇÃO: (mat.) cociente
+商旅 | TRADUÇÃO: viajeros de negocios/comerciantes itinerantes/(Taiwán) hotel de negocios
+商会 | TRADUÇÃO: cámara de comercio
+商朝 | TRADUÇÃO: dinastía Shang (c. 1600-1046 a. C.)
+商栈 | TRADUÇÃO: factoría comercial/posada para comerciantes
+商业 | TRADUÇÃO: comercio/negocios/actividad mercantil
+商业中心 | TRADUÇÃO: centro comercial/centro financiero/centro de negocios
+商业化 | TRADUÇÃO: comercializar/mercantilizar/comercialización
+商业区 | TRADUÇÃO: zona comercial/distrito comercial
+商业应用 | TRADUÇÃO: aplicaciones empresariales/software comercial
+商业模式 | TRADUÇÃO: modelo de negocio
+商业机构 | TRADUÇÃO: entidad comercial/organización empresarial
+商业版本 | TRADUÇÃO: versión comercial (de software)
+商业发票 | TRADUÇÃO: factura comercial
+商业管理 | TRADUÇÃO: administración de empresas/gestión comercial
+商业行为 | TRADUÇÃO: actividad comercial/acto de comercio
+商业计划 | TRADUÇÃO: plan de negocios
+商业银行 | TRADUÇÃO: banco comercial
+商榷 | TRADUÇÃO: discutir/deliberar/debatir
+商标 | TRADUÇÃO: marca registrada/marca comercial/logotipo
+商机 | TRADUÇÃO: oportunidad de negocio/oportunidad comercial
+商检 | TRADUÇÃO: inspección de mercancías/control aduanero de productos
+商民 | TRADUÇÃO: comerciantes y civiles/población comerciante
+商水 | TRADUÇÃO: véase 商水縣|商水县
+商水县 | TRADUÇÃO: condado de Shangshui (en Zhoukou 周口市, Henan)
+商河 | TRADUÇÃO: véase 商河縣|商河县
+商河县 | TRADUÇÃO: condado de Shanghe (en Jinan 濟南市|济南市, Shandong)
+商洛 | TRADUÇÃO: véase 商洛市
+商洛市 | TRADUÇÃO: Shangluo (ciudad-prefectura en la provincia de Shaanxi 陝西省|陕西省)
+商洽 | TRADUÇÃO: tratar/negociar/acordar mediante consultas
+商港 | TRADUÇÃO: puerto comercial/puerto mercantil
+商汤 | TRADUÇÃO: Tang de Shang (fundador legendario de la dinastía Shang)
+商汤科技 | TRADUÇÃO: SenseTime (empresa de inteligencia artificial y visión computacional)
+商演 | TRADUÇÃO: actuación comercial/espectáculo comercial
+商用 | TRADUÇÃO: de uso comercial/para empresas
+商界 | TRADUÇÃO: mundo empresarial/comunidad de negocios/sector comercial
+商祺 | TRADUÇÃO: ¡éxitos en sus negocios! (saludo de despedida formal en correspondencia comercial)
+商科 | TRADUÇÃO: Shangke Corporation (empresa de TI en China) ‖ estudios empresariales/comercio
+商科院校 | TRADUÇÃO: escuelas y facultades de comercio/escuelas de negocios
+商科集团 | TRADUÇÃO: Grupo Shangke (empresa china de tecnología)
+商税 | TRADUÇÃO: impuesto comercial/tasa al comercio
+商纣王 | TRADUÇÃO: rey Zhou de Shang (último rey tirano de la dinastía Shang)
+商约 | TRADUÇÃO: tratado comercial (abrev. de 通商條約|通商条约)/acordar de mutuo acuerdo (abrev. de 商量約定|商量约定)
+商船 | TRADUÇÃO: buque mercante/barco comercial
+商号 | TRADUÇÃO: nombre comercial/firma comercial/tienda
+商行 | TRADUÇÃO: casa comercial/empresa comercial
+商计 | TRADUÇÃO: deliberar/consultar y planear
+商讨 | TRADUÇÃO: discutir/deliberar/debatir
+商调 | TRADUÇÃO: negociar el traslado de personal
+商谈 | TRADUÇÃO: conversar sobre negocios/conferenciar/deliberar
+商议 | TRADUÇÃO: negociar/deliberar/tratar un asunto/propuesta
+商誉 | TRADUÇÃO: (comercio) prestigio comercial/reputación/(contabilidad) fondo de comercio
+商贩 | TRADUÇÃO: vendedor ambulante/comerciante menor/buhonero
+商贸 | TRADUÇÃO: comercio y negocios/actividad mercantil
+商贾 | TRADUÇÃO: comerciantes/mercaderes
+商超 | TRADUÇÃO: hipermercado/tienda por departamentos y supermercado
+商路 | TRADUÇÃO: ruta comercial
+商办 | TRADUÇÃO: gestionado privadamente/empresa comercial/deliberar y tramitar
+商都 | TRADUÇÃO: Shangdu/véase 商都縣|商都县
+商都县 | TRADUÇÃO: condado de Shangdu (en la ciudad de Ulanqab 烏蘭察布市|乌兰察布市, Inner Mongolia)
+商酌 | TRADUÇÃO: deliberar/consultar detenidamente
+商量 | TRADUÇÃO: consultar/discutir/conversar para acordar
+商铺 | TRADUÇÃO: local comercial/tienda
+商队 | TRADUÇÃO: caravana comercial
+商鞅 | TRADUÇÃO: Shang Yang (c. 390-338 a. C., estadista y filósofo legalista del estado de Qin 秦國|秦国)
+商鞅变法 | TRADUÇÃO: reformas de Shang Yang (reformas legales y militares en el estado de Qin 秦國|秦国)
+啉 | TRADUÇÃO: (quím.) sufijo usado en transliteraciones químicas como porfirina 卟啉 o quinolina 喹啉
+啊 | TRADUÇÃO: ¡ah!/¡oh! (interjección de sorpresa) ‖ ¿eh?/¿cómo? (interjección que expresa duda o pide respuesta) ‖ ¿eh?/¡vaya! (interjección de asombro o perplejidad) ‖ ajá/ah, bien/¡ah, eres tú! (interjección de conformidad o reconocimiento) ‖ (partícula modal final que denota afirmación, aprobación o entusiasmo)
+啊呀 | TRADUÇÃO: ¡ay!/¡dios mío!/¡caramba! (interjección de sorpresa o contrariedad)
+啊哟 | TRADUÇÃO: ¡ay!/¡uy!/¡cielos! (interjección de dolor o sorpresa)
+啍 | TRADUÇÃO: avanzar lentamente/gemido sordo
+啎 | TRADUÇÃO: obstinado/desobediente/recalcitrante/en desacuerdo
+问 | TRADUÇÃO: preguntar/inquirir/interrogar
+问世 | TRADUÇÃO: salir a la luz/publicarse/lanzarse al mercado
+问事 | TRADUÇÃO: pedir información/preguntar por asuntos
+问住 | TRADUÇÃO: dejar a alguien sin respuesta/desconcertar con una pregunta
+问倒 | TRADUÇÃO: dejar callado con una pregunta/acorralar con preguntas
+问候 | TRADUÇÃO: saludar/enviar saludos/(fig.) (coloq.) acordarse de la familia de alguien (insultar)
+问卷 | TRADUÇÃO: cuestionario/encuesta/CL:份
+问名 | TRADUÇÃO: pedir el nombre y fecha de nacimiento de la novia (uno de los Seis Ritos matrimoniales tradicionales 六禮|六礼)
+问好 | TRADUÇÃO: saludar/dar recuerdos/mandar saludos
+问安 | TRADUÇÃO: presentar sus respetos/desear salud/saludar respetuosamente
+问客杀鸡 | TRADUÇÃO: (modismo) (lit.) preguntar al invitado si quiere que maten un pollo/(fig.) falsa cortesía/hospitalidad hipócrita
+问寒问暖 | TRADUÇÃO: (modismo) interesarse solícitamente por el bienestar de alguien/preguntar con cariño por la salud
+问市 | TRADUÇÃO: salir al mercado/lanzarse a la venta
+问心有愧 | TRADUÇÃO: tener remordimientos/no tener la conciencia tranquila
+问心无愧 | TRADUÇÃO: (modismo) (lit.) mirar en el corazón y no sentir vergüenza/(fig.) tener la conciencia tranquila/con la frente en alto
+问津 | TRADUÇÃO: interesarse por/pedir informes/indagar (usado principalmente en sentido negativo)
+问答 | TRADUÇÃO: preguntas y respuestas/sesión de preguntas y respuestas
+问罪 | TRADUÇÃO: pedir cuentas/denunciar crímenes/exigir responsabilidades/castigar
+问罪之师 | TRADUÇÃO: expedición punitiva/fuerza punitiva/persona que acude a pedir cuentas con severidad
+问荆 | TRADUÇÃO: cola de caballo menor (Equisetum arvense)
+问号 | TRADUÇÃO: signo de interrogación/incógnita/interrogante
+问讯 | TRADUÇÃO: interrogar/saludo con las manos juntas (en el budismo)/pedir noticias
+问诊 | TRADUÇÃO: anamnesis/interrogatorio médico (uno de los cuatro métodos de diagnóstico en la MTC 四診|四诊)
+问话 | TRADUÇÃO: interrogar/hacer preguntas/interrogatorio
+问责 | TRADUÇÃO: exigir responsabilidades/rendición de cuentas/pedir cuentas/censurar
+问责性 | TRADUÇÃO: rendición de cuentas/responsabilidad
+问路 | TRADUÇÃO: preguntar por el camino/pedir indicaciones
+问道 | TRADUÇÃO: preguntar el camino/inquirir sobre el Dao
+问道于盲 | TRADUÇÃO: (modismo) (lit.) pedir indicaciones a un ciego/(fig.) pedir consejo a alguien incompetente
+问题 | TRADUÇÃO: pregunta/problema/asunto/cuestión/CL:個|个
+问鼎 | TRADUÇÃO: aspirar al trono/competir por el campeonato/aspirar al máximo galardón
+问鼎中原 | TRADUÇÃO: (modismo) aspirar a la hegemonía de todo el país/competir por el poder supremo
+问鼎轻重 | TRADUÇÃO: (modismo) (lit.) inquirir por el peso de los calderos sagrados/(fig.) desafiar la autoridad suprema/tentativa de arrebatar el poder
+啐 | TRADUÇÃO: escupir/¡bah!/sorber (antiguo)
+喋 | TRADUÇÃO: variante antigua de 喋 ‖ usado en 喋喋/usado en 喋血
+啕 | TRADUÇÃO: (en compuestos) gemir/sollozar ruidosamente
+啖 | TRADUÇÃO: comer/saborear/atraer con cebo ‖ variante de 啖 ‖ variante de 啖
+啜 | TRADUÇÃO: (literario) sorber/beber a pequeños sorbos/sollozar
+啜泣 | TRADUÇÃO: sollozar/llorar en silencio
+啜饮 | TRADUÇÃO: sorber/beber a pequeños sorbos/degustar
+哑 | TRADUÇÃO: (onomat.) graznido/balbuceo de bebé/variante de 呀 ‖ mudo/ronco/afónico/fallido (un proyectil o bomba)
+哑光 | TRADUÇÃO: mate/sin brillo
+哑剧 | TRADUÇÃO: pantomima/espectáculo de mimo
+哑口 | TRADUÇÃO: mudo/sin habla/boquiabierto
+哑口无言 | TRADUÇÃO: (modismo) quedarse sin palabras/mudo de asombro/boquiabierto sin saber qué responder
+哑子 | TRADUÇÃO: (dialectal) mudo/persona muda
+哑巴 | TRADUÇÃO: mudo/silencioso
+哑巴吃黄莲 | TRADUÇÃO: variante de 啞巴吃黃連|哑巴吃黄连
+哑巴吃黄连 | TRADUÇÃO: (modismo) tener que sufrir en silencio/mudo que come coptis amarga/también escrito 啞巴吃黃蓮|哑巴吃黄莲
+哑巴吃黄连，有苦说不出 | TRADUÇÃO: (modismo) como mudo que come coptis amarga, incapaz de expresar sus sufrimientos/sufrir en silencio sin poder quejarse/a veces escrito 啞子吃黃連，有苦說不出|哑子吃黄连，有苦说不出
+哑巴亏 | TRADUÇÃO: trago amargo sin poder quejarse/perjuicio sufrido en silencio/aguantarse el agravio
+哑然失笑 | TRADUÇÃO: escapársele la risa/reír involuntariamente/pronunciación en Taiwán [e4 ran2 shi1 xiao4]
+哑终端 | TRADUÇÃO: terminal tonto (informática)
+哑语 | TRADUÇÃO: lengua de señas/lenguaje de signos
+哑谜 | TRADUÇÃO: acertijo/enigma/adivinanza
+哑铃 | TRADUÇÃO: mancuerna/pesa
+哑点 | TRADUÇÃO: punto ciego/zona muerta
+哑鼓 | TRADUÇÃO: pad de práctica de batería/tambor sordo de entrenamiento (mús.)
+启事 | TRADUÇÃO: aviso/anuncio/comunicado público
+启动 | TRADUÇÃO: arrancar (una máquina)/iniciar/poner en marcha/lanzar/activar
+启动区 | TRADUÇÃO: sector de arranque (informática)
+启动子 | TRADUÇÃO: promotor (genética)
+启奏 | TRADUÇÃO: presentar un memorial al emperador/informar al soberano
+启封 | TRADUÇÃO: desprecintar/abrir algo sellado
+启德机场 | TRADUÇÃO: Aeropuerto Kai Tak (antiguo aeropuerto internacional de Hong Kong, 1925-1998)
+启应祈祷 | TRADUÇÃO: introito (sección de la misa católica)/oración responsorial
+启明 | TRADUÇÃO: Lucero del Alba/Venus matutino (nombre clásico en chino)
+启明星 | TRADUÇÃO: (astronomía) Lucero del Alba/estrella matutina (planeta Venus)
+启东 | TRADUÇÃO: véase 啟東市|启东市
+启东市 | TRADUÇÃO: Qidong (ciudad-condado en Nantong 南通市, Jiangsu)
+启海话 | TRADUÇÃO: dialecto Qihai (variedad del dialecto Wu hablada en Jiangsu y Shanghái)
+启用 | TRADUÇÃO: habilitar/empezar a usar/poner en servicio/activar
+启发 | TRADUÇÃO: inspirar/estimular/iluminar/revelación/inspiración
+启发式 | TRADUÇÃO: heurístico/método heurístico
+启发法 | TRADUÇÃO: método heurístico/heurística
+启蒙 | TRADUÇÃO: variante de 啟蒙|启蒙/instruir a los niños ‖ instruir a la infancia/iniciar/despertar de la ignorancia/cartilla elemental/Ilustración/conocimiento moderno occidental
+启示 | TRADUÇÃO: revelación/inspiración/enseñanza moral/lección
+启示者 | TRADUÇÃO: revelador
+启示录 | TRADUÇÃO: Apocalipsis/Libro de la Revelación de San Juan
+启程 | TRADUÇÃO: emprender el viaje/ponerse en camino/partir
+启航 | TRADUÇÃO: zarpar (un barco)/despegar (un avión)/iniciar la travesía
+启蒙主义 | TRADUÇÃO: Iluminismo/movimiento de la Ilustración
+启蛰 | TRADUÇÃO: Despertar de los Insectos/variante antigua de 驚蟄|惊蛰 (3.er período solar tradicional, del 6 al 20 de marzo)
+启迪 | TRADUÇÃO: edificar/iluminar/inspirar/enseñanza esclarecedora
+启运 | TRADUÇÃO: despachar mercancías/iniciar el transporte/embarcar
+启齿 | TRADUÇÃO: abrir la boca para hablar/decidirse a hablar/mencionar
+啡 | TRADUÇÃO: usado en préstamos fonéticos (como en café 咖啡)
+啡厅 | TRADUÇÃO: véase 咖啡廳|咖啡厅
+唡 | TRADUÇÃO: onza (sistema imperial británico) (antiguo)
+衔 | TRADUÇÃO: variante de 銜|衔 ‖ variante de 銜|衔 ‖ bocado (de una brida)/llevar en la boca/guardar (sentimientos)/enlazar/rango/título oficial
+啤 | TRADUÇÃO: cerveza
+啤酒 | TRADUÇÃO: cerveza/CL:杯,瓶,罐,桶,缸
+啤酒厂 | TRADUÇÃO: cervecería/fábrica de cerveza
+啤酒节 | TRADUÇÃO: Fiesta de la Cerveza/Festival de la Cerveza
+啤酒肚 | TRADUÇÃO: barriga cervecera/panza cervecera
+啤酒花 | TRADUÇÃO: lúpulo
+啥 | TRADUÇÃO: qué (equivalente dialectal de 什麼|什么)/también pronunciado [sha4]
+啥子 | TRADUÇÃO: (dialectal) qué/qué cosa
+啦 | TRADUÇÃO: (onomat.) sonido de cánticos, vítores, etc./(uso fonético)/(dialectal) charlar ‖ (partícula final de frase, contracción de 了啊, que expresa exclamación)/(partícula enumerativa)
+啦呱 | TRADUÇÃO: variante de 拉呱
+啦啦队 | TRADUÇÃO: equipo de animadoras/porristas/hinchada
+啦啦队长 | TRADUÇÃO: líder de animadoras/capitán de porristas
+啪 | TRADUÇÃO: (onomat.) ¡plas!/¡pam!/¡chasquido!
+啪啪啪 | TRADUÇÃO: (jerga) hacer el amor/tener relaciones sexuales/(onomat.) aplausos o golpes rítmicos
+啪哒 | TRADUÇÃO: (onomat.) ¡plaf!/¡chof!/sonido de algo cayendo al suelo o agua
+啪嚓 | TRADUÇÃO: (onomat.) ¡crac!/¡chasquido! (al romperse algo contra el suelo o sonido del obturador de cámara)
+啫 | TRADUÇÃO: usado en 啫哩
+啫哩 | TRADUÇÃO: variante de 啫喱
+啫喱 | TRADUÇÃO: gel/gelatina/gomina
+啱 | TRADUÇÃO: correcto/adecuado/convenir/justo ahora (cantonés)
+啲 | TRADUÇÃO: un poco/algunos/un poco más (cantonés)
+啵 | TRADUÇÃO: (onomat.) sonido de burbujas/chasquido de beso ‖ partícula gramatical equivalente a 吧
+啵啵 | TRADUÇÃO: (onomat.) burbujeo/sonido de besos
+啶 | TRADUÇÃO: (quím.) idina (sufijo en nombres de compuestos químicos)
+啷 | TRADUÇÃO: usado en 啷當|啷当/usado en palabras onomatopéyicas como 哐啷
+啷当 | TRADUÇÃO: (dialectal) más o menos (referido a edad)/(dialectal) etcétera
+啺 | TRADUÇÃO: variante antigua de 唐
+啻 | TRADUÇÃO: solo/solamente (en chino clásico, usualmente tras negación: 不啻 no solo)
+啼 | TRADUÇÃO: (en compuestos) llorar/sollozar a gritos/(en compuestos) cantar (aves)/rugir/aullar ‖ variante de 啼
+啼哭 | TRADUÇÃO: llorar/lloriquear/lamentarse a gritos
+啼啭 | TRADUÇÃO: trinar melodiosamente/gorjear dulcemente
+啼笑皆非 | TRADUÇÃO: (modismo) (lit.) no saber si reír o llorar/situación entre risas y lamentos/irrisorio y desconcertante
+啼声 | TRADUÇÃO: llanto/sonido de trinos/alarido
+啼饥号寒 | TRADUÇÃO: (modismo) clamar de hambre y frío/sufrir miseria extrema
+啽 | TRADUÇÃO: hablar/conversar (cantonés)
+啾 | TRADUÇÃO: (onomat.) gorjeo/piada/lloriqueo/(Taiwán) sonido de beso
+喀 | TRADUÇÃO: (onomat.) sonido de toser, escupir o vomitar
+喀什 | TRADUÇÃO: véase 喀什地區|喀什地区/véase 喀什市
+喀什噶尔 | TRADUÇÃO: Kashgar o Kashgar (ciudad en Sinkiang)
+喀什地区 | TRADUÇÃO: prefectura de Kashgar (en la Región Autónoma Uigur de Sinkiang 新疆維吾爾自治區|新疆维吾尔自治区)
+喀什市 | TRADUÇÃO: ciudad de Kashgar (ciudad-condado en Sinkiang)
+喀啦喀啦 | TRADUÇÃO: (onomat.) traqueteo/chasquido/clic-clac
+喀喇昆仑公路 | TRADUÇÃO: Carretera del Karakórum (que une Pakistán y Sinkiang)
+喀喇昆仑山 | TRADUÇÃO: cordillera del Karakórum (en el oeste de Sinkiang)
+喀喇昆仑山脉 | TRADUÇÃO: cordillera del Karakórum
+喀喇沁 | TRADUÇÃO: Harqin (bandera de Harqin en Chifeng 赤峰, Mongolia Interior, o condado autónomo mongol en Liaoning)
+喀喇沁左翼蒙古族自治县 | TRADUÇÃO: Condado Autónomo Mongol de Harqin Ala Izquierda (en Chaoyang 朝陽|朝阳, Liaoning)
+喀喇沁旗 | TRADUÇÃO: Bandera de Harqin (en Chifeng 赤峰, Mongolia Interior)
+喀哒 | TRADUÇÃO: (onomat.) ¡clic!/chasquido
+喀嚓 | TRADUÇÃO: (onomat.) ¡crac!/¡clic! (sonido de romperse o de disparo de cámara)
+喀土穆 | TRADUÇÃO: Jartum (capital de Sudán)
+喀奴特 | TRADUÇÃO: Knuth o Canuto (nombre)
+喀山 | TRADUÇÃO: Kazán (ciudad de Rusia)
+喀布尔 | TRADUÇÃO: Kabul (capital de Afganistán)
+喀拉喀托 | TRADUÇÃO: Krakatoa (isla volcánica en el estrecho de Sonda)
+喀拉喀托火山 | TRADUÇÃO: volcán Krakatoa (Indonesia)
+喀拉昆仑山 | TRADUÇÃO: cordillera del Karakórum
+喀拉拉邦 | TRADUÇÃO: estado de Kerala (India)
+喀拉汗国 | TRADUÇÃO: Janato Carajánida (Asia Central, siglos VIII-X)
+喀拉汗王朝 | TRADUÇÃO: dinastía de los Carajánidas (Asia Central)
+喀斯特 | TRADUÇÃO: (geología) karst/cárstico/relieve kárstico
+喀尔喀 | TRADUÇÃO: jalja (subgrupo mongol mayoritario)
+喀尔巴阡山脉 | TRADUÇÃO: montes Cárpatos (cadena montañosa de Europa Central y Oriental)
+喀秋莎 | TRADUÇÃO: Katiusha (nombre)/Katiusha (canción bélica rusa y lanzacohetes soviético)
+喀纳斯湖 | TRADUÇÃO: lago Kanas (en Sinkiang)
+喀麦隆 | TRADUÇÃO: Camerún/pronunciación en Taiwán [Ka4mai4long2]
+喁 | TRADUÇÃO: (literario) asomar la boca fuera del agua (un pez) ‖ (literario) (onomat.) cántico en coro/hacer eco al cantar
+喁喁 | TRADUÇÃO: (literario) mirar hacia arriba con devoción o anhelo ‖ (onomat.) hablar en voz baja/cuchicheo/murmullo
+喂 | TRADUÇÃO: ¡hola!/¿diga? (al contestar el teléfono) ‖ ¡oye!/alimentar (un animal, bebé, etc.) ‖ variante de 餵|喂 ‖ alimentar/dar de comer
+喃 | TRADUÇÃO: mascullar/murmurar repetidamente
+喃喃 | TRADUÇÃO: (onomat.) murmurar/mascullar/balbucear
+喃喃自语 | TRADUÇÃO: hablar entre dientes/murmurar para sí mismo
+喃字 | TRADUÇÃO: Chữ nôm (caracteres vietnamitas históricos basados en caracteres chinos)
+善 | TRADUÇÃO: bueno/bondadoso/benévolo/ser diestro en/perfeccionar/hacer bien
+善事 | TRADUÇÃO: buenas acciones/obras de caridad/buenas obras
+善人 | TRADUÇÃO: persona virtuosa/filántropo/bienhechor
+善哉 | TRADUÇÃO: excelente/¡muy bien!/¡qué bueno! (en el budismo)
+善因 | TRADUÇÃO: causa virtuosa/buena causa/(budismo) buen karma
+善始善终 | TRADUÇÃO: (modismo) empezar bien y terminar bien/llevar algo a buen término de principio a fin/ser consecuente
+善存 | TRADUÇÃO: Centrum (marca de suplementos vitamínicos)
+善待 | TRADUÇÃO: tratar con amabilidad/tratar bien/acoger bondadosamente
+善后 | TRADUÇÃO: ocuparse de las consecuencias/reparar secuelas/gestión posterior a un siniestro
+善后借款 | TRADUÇÃO: Préstamo de Reorganización de 1913 (a Yuan Shikai)
+善心 | TRADUÇÃO: buen corazón/bondad/intenciones benévolas
+善忘 | TRADUÇÃO: olvidadizo/tener mala memoria/ser propenso a olvidar
+善思 | TRADUÇÃO: pensamiento reflexivo/pensamiento recto (budismo)
+善恶 | TRADUÇÃO: el bien y el mal
+善意 | TRADUÇÃO: buena voluntad/buena intención/benevolencia
+善意的谎言 | TRADUÇÃO: mentira piadosa
+善感 | TRADUÇÃO: sensible/emotivo/sentimental
+善于 | TRADUÇÃO: ser bueno en/ser hábil en/destacar por
+善有善报 | TRADUÇÃO: (modismo) el bien engendra el bien/el bien recibe su recompensa
+善有善报，恶有恶报 | TRADUÇÃO: el bien tiene su recompensa y el mal su castigo/a cada cual según sus obras
+善本 | TRADUÇÃO: edición antigua de calidad/libro raro y valioso/edición selecta
+善款 | TRADUÇÃO: donaciones/fondos de caridad/aportaciones benéficas
+善用 | TRADUÇÃO: aprovechar bien/hacer buen uso de/usar hábilmente
+善男信女 | TRADUÇÃO: devotos laicos budistas/hombres y mujeres piadosos
+善策 | TRADUÇÃO: buena estrategia/política acertada/plan excelente
+善终 | TRADUÇÃO: morir en paz de muerte natural/llegar a un buen final
+善缘 | TRADUÇÃO: afinidad kármica favorable/lazos virtuosos
+善罢干休 | TRADUÇÃO: variante de 善罷甘休|善罢甘休
+善罢甘休 | TRADUÇÃO: (modismo) dejar las cosas así/quedarse de brazos cruzados (usualmente en negativo: 不肯善罢甘休)
+善能 | TRADUÇÃO: ser diestro en/ser capaz de
+善自保重 | TRADUÇÃO: ¡cuídate mucho!/¡cuida bien de tu salud!
+善自为谋 | TRADUÇÃO: (modismo) saber mirar por sus propios intereses/planificar bien para uno mismo
+善自珍摄 | TRADUÇÃO: (modismo) ¡cuídate mucho!/¡preserva bien tu salud!
+善举 | TRADUÇÃO: obra de beneficencia/acto caritativo/buena acción
+善良 | TRADUÇÃO: bondadoso/honrado/de buen corazón
+善行 | TRADUÇÃO: buenas obras/actos virtuosos/conducta ejemplar
+善解人意 | TRADUÇÃO: (modismo) ser comprensivo y considerado/saber entender a los demás
+善言 | TRADUÇÃO: palabras amables/buenos consejos/hablar elocuentemente
+善言辞 | TRADUÇÃO: elocuente/con don de palabra
+善变 | TRADUÇÃO: voluble/cambiante/inconstante/caprichoso
+善财 | TRADUÇÃO: apreciar las riquezas/proteger los bienes
+善财难舍 | TRADUÇÃO: (modismo) aferrarse al dinero y costar desprenderse de él/ser tacaño con la caridad/avaro
+善辩 | TRADUÇÃO: elocuente/diestro en el debate/buen polemista
+善风 | TRADUÇÃO: viento favorable/viento suave y benéfico
+喆 | TRADUÇÃO: sabio/variante de 哲 (usado en nombres de pila y apellidos)
+喇 | TRADUÇÃO: (onomat.) sonido de viento o lluvia ‖ (uso fonético)
+喇叭 | TRADUÇÃO: bocina/altavoz/trompeta/corneta/suona 鎖吶|锁呐
+喇叭形 | TRADUÇÃO: en forma de trompeta/acampanado/en forma de embudo
+喇叭水仙 | TRADUÇÃO: narciso trompón (Narcissus pseudonarcissus)
+喇叭花 | TRADUÇÃO: gloria de la mañana/ipomea (planta con flores en forma de trompeta)
+喇叭裙 | TRADUÇÃO: falda acampanada/falda evasé
+喇叭裤 | TRADUÇÃO: pantalones acampanados/pantalones de campana
+喇合 | TRADUÇÃO: Rahab (figura bíblica en el protestantismo)
+喇嘛 | TRADUÇÃO: lama (maestro espiritual en el budismo tibetano)
+喇嘛庙 | TRADUÇÃO: templo budista tibetano/lamasería
+喇嘛教 | TRADUÇÃO: lamaísmo/budismo tibetano
+喇沙 | TRADUÇÃO: La Salle (usado en nombres de colegios)/San Juan Bautista de La Salle ‖ laksa (sopa de fideos del sudeste asiático)
+喇舌 | TRADUÇÃO: (Taiwán) beso con lengua/beso francés
+喇赛 | TRADUÇÃO: (Taiwán) (jerga) charlar de tonterías/chismear/parlotear
+喈 | TRADUÇÃO: armonioso (sonido musical)/canto de pájaros al unísono
+喉 | TRADUÇÃO: garganta/laringe
+喉咽 | TRADUÇÃO: laringofaringe/(fig.) paso estratégico/posición clave
+喉咙 | TRADUÇÃO: garganta
+喉塞音 | TRADUÇÃO: oclusiva glotal/golpe de glotis
+喉急 | TRADUÇÃO: variante de 猴急
+喉擦音 | TRADUÇÃO: fricativa glotal/fricativa gutural
+喉炎 | TRADUÇÃO: laringitis
+喉片 | TRADUÇÃO: pastilla para la garganta
+喉痧 | TRADUÇÃO: escarlatina
+喉管 | TRADUÇÃO: tráquea/conducto laríngeo
+喉结 | TRADUÇÃO: nuez de Adán/manzana de Adán/prominencia laríngea
+喉舌 | TRADUÇÃO: portavoz/órgano de difusión/(fig.) boca y lengua
+喉轮 | TRADUÇÃO: chakra de la garganta/vishuddha chakra 查克拉
+喉部 | TRADUÇÃO: laringe/zona de la garganta
+喉镜 | TRADUÇÃO: laringoscopio
+喉音 | TRADUÇÃO: sonido gutural/(lingüística) consonante glotal
+喉韵 | TRADUÇÃO: regusto agradable en la garganta (al degustar té)
+喉头 | TRADUÇÃO: laringe/garganta
+喉鸣 | TRADUÇÃO: estridor laríngeo/sonido ronco de garganta
+喊 | TRADUÇÃO: gritar/chillar/llamar a alguien a gritos
+喊住 | TRADUÇÃO: detener a alguien con un grito/llamar para que se detenga
+喊冤 | TRADUÇÃO: clamar contra una injusticia/declararse inocente a gritos
+喊叫 | TRADUÇÃO: gritar/dar alaridos/chillar
+喊声 | TRADUÇÃO: griterío/clamor/alarido
+喊话 | TRADUÇÃO: hablar por megáfono/hacer un llamamiento a viva voz/(fig.) mandar un mensaje público contundente
+喊话器 | TRADUÇÃO: megáfono/altavoz portátil
+喊道 | TRADUÇÃO: gritar/exclamar a gritos
+喋喋 | TRADUÇÃO: parlotear sin parar/charlatán
+喋喋不休 | TRADUÇÃO: (modismo) hablar sin parar/parlotear incesantemente/ser una cotorra
+喋血 | TRADUÇÃO: (literario) derramamiento de sangre/baño de sangre/carnicería
+喌 | TRADUÇÃO: sílaba/(llamada para aves de corral)
+㖞 | TRADUÇÃO: boca torcida/desviado/chueco/pronunciación en Taiwán [kuai1]
+喏 | TRADUÇÃO: ¡sí!/de acuerdo/¡mira!/¡aquí!/variante de 諾|诺 ‖ usado en 唱喏
+喑 | TRADUÇÃO: mudo/silencioso
+喑哑 | TRADUÇÃO: afónico/enronquecido/mudo
+喓 | TRADUÇÃO: chirrido de saltamontes/zumbido de mosquito
+喔 | TRADUÇÃO: ¡ah!/¡oh! (interjección de comprensión o sorpresa) ‖ (Taiwán) (partícula final de frase en tono amable para avisos o sugerencias) ‖ (onomat.) quiquiriquí (canto del gallo)/pronunciación en Taiwán [wo4]
+喘 | TRADUÇÃO: jadear/resollar/asma
+喘不过 | TRADUÇÃO: faltar el aliento/no poder respirar bien
+喘不过气来 | TRADUÇÃO: quedarse sin aliento/no poder respirar/ahogarse
+喘吁吁 | TRADUÇÃO: jadeante/resoplando/sin aliento
+喘嘘嘘 | TRADUÇÃO: variante de 喘吁吁
+喘息 | TRADUÇÃO: jadear/tomar un respiro/recuperar el aliento
+喘振 | TRADUÇÃO: bombeo (de compresores o turbomaquinaria)/sobretensión oscilatoria
+喘气 | TRADUÇÃO: respirar con dificultad/jadear/tomar un respiro/recobrar el aliento
+喘粗气 | TRADUÇÃO: jadear fuertemente/resollar pesadamente
+喙 | TRADUÇÃO: pico/hocico/boca/jadear
+唤 | TRADUÇÃO: llamar/convocar/despertar
+唤作 | TRADUÇÃO: llamarse/ser conocido como
+唤做 | TRADUÇÃO: llamarse/ser denominado
+唤起 | TRADUÇÃO: evocar/despertar/suscitar/movilizar
+唤醒 | TRADUÇÃO: despertar/concienciar/reanimar
+唤雨呼风 | TRADUÇÃO: (modismo) invocar al viento y llamar a la lluvia/ejercer poderes mágicos/(fig.) tener gran influencia y poder/también escrito 呼風喚雨|呼风唤雨
+唤头 | TRADUÇÃO: sonaja de barbero/instrumento de percusión de vendedores ambulantes tradicionales
+喜 | TRADUÇÃO: gustar/agradar/alegrarse/feliz/alegría/placer/boda
+喜不自胜 | TRADUÇÃO: (modismo) loco de contento/incapaz de contener la alegría/desbordante de felicidad
+喜不自禁 | TRADUÇÃO: (modismo) no caber en sí de alegría/no poder reprimir el gozo
+喜事 | TRADUÇÃO: acontecimiento feliz/boda/suceso alegre
+喜人 | TRADUÇÃO: gratificante/alentador/placentero
+喜来登 | TRADUÇÃO: Sheraton (cadena hotelera)
+喜出望外 | TRADUÇÃO: (modismo) feliz más allá de toda expectativa/encantado con un resultado inesperado
+喜则气缓 | TRADUÇÃO: el exceso de alegría ralentiza el qi (principio de la MTC)
+喜剧 | TRADUÇÃO: comedia/CL:部,齣|出
+喜力 | TRADUÇÃO: Heineken (cervecera neerlandesa)/véase también 海尼根
+喜吟吟 | TRADUÇÃO: alegre/risueño/con una sonrisa de felicidad
+喜喜欢欢 | TRADUÇÃO: alegremente/muy feliz/contento
+喜丧 | TRADUÇÃO: fallecimiento sereno en la vejez (fallecimiento a edad muy avanzada)
+喜报 | TRADUÇÃO: buena noticia/comunicado de buenas nuevas/anuncio de un triunfo/CL:張|张
+喜寿 | TRADUÇÃO: 77.º cumpleaños (término honorífico)
+喜大普奔 | TRADUÇÃO: (jerga de internet) noticia tan emocionante que todos celebran y difunden (acrónimo de 喜聞樂見|喜闻乐见, 大快人心, 普天同慶|普天同庆 y 奔走相告)
+喜好 | TRADUÇÃO: gustos/preferencias/afición/gustar/preferir
+喜娘 | TRADUÇÃO: madrina de bodas tradicional/dama de honor (antiguo)
+喜子 | TRADUÇÃO: araña tejedora de patas largas/variante de 蟢子
+喜孜孜 | TRADUÇÃO: complacido/contento/alegre
+喜宴 | TRADUÇÃO: banquete nupcial/banquete de bodas
+喜山白眉朱雀 | TRADUÇÃO: (ave de China) camachuelo cejiblanco del Himalaya (Carpodacus thura)

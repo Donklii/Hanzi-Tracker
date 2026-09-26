@@ -13,21 +13,26 @@ import (
 	"net/http"
 	"strings"
 	"sync"
+	"sync/atomic"
 	"time"
 	"unicode/utf8"
 
 	"wails_app/overlay"
+	"wails_app/revisao"
 	"wails_app/traducao"
+	"wails_app/atualizacao"
 
 	"github.com/wailsapp/wails/v2/pkg/runtime"
 	"wails_app/config"
+	"wails_app/tela"
 	"wails_app/dicionario"
-	"wails_app/motoresocr"
-	"wails_app/motoresstt"
-	"wails_app/motorestts"
+	"wails_app/ocr"
+	"wails_app/stt"
+	"wails_app/tts"
 	"wails_app/nuvem"
 	"wails_app/progresso"
 	"wails_app/segmentacao"
+	"wails_app/util"
 )
 
 // LinhaTraduzida armazena a tradução de uma linha OCR inteira (antes da segmentação em palavras).
@@ -54,23 +59,30 @@ type OcrResult struct {
 
 // FlashcardCard representa um cartão processado para o frontend
 type FlashcardCard struct {
-	Hanzi        string    `json:"hanzi"`
-	Pinyin       string    `json:"pinyin"`
-	Significados []string  `json:"significados"`
-	Confianca    float64   `json:"confianca"`
-	Caixa        []float64 `json:"caixa"`
-	ImageId      int       `json:"imageId,omitempty"`
-	TipoHanzi    string    `json:"tipoHanzi"`
+	Hanzi          string    `json:"hanzi"`
+	Pinyin         string    `json:"pinyin"`
+	Significados   []string  `json:"significados"`
+	Confianca      float64   `json:"confianca"`
+	Caixa          []float64 `json:"caixa"`
+	ImageId        int       `json:"imageId,omitempty"`
+	TipoHanzi      string    `json:"tipoHanzi"`
+	PosicaoRanking int       `json:"posicaoRanking"`
+	NivelHSK       int       `json:"nivelHSK,omitempty"`
+	// Fantasma marca card cujo texto sumiu da posição original entre um scan e outro (detectado
+	// pelo vigia — ver vigia_cards.go): segue listado no Descobrimento, mas fica fora do highlight,
+	// da detecção de palavra próxima ao mouse e dos pop-ups.
+	Fantasma bool `json:"fantasma"`
 }
 
 // App struct
 type App struct {
-	ctx           context.Context
-	Config        config.Config
-	Cedict        *dicionario.Cedict
-	BancoHanzi    *dicionario.BancoMakeMeAHanzi
-	BancoFrases   *dicionario.BancoFrases   // frases Tatoeba p/ revisão por contexto (carga preguiçosa)
-	BancoTracados *dicionario.BancoTracados // traçados Hanzi Writer p/ revisão de desenho (carga preguiçosa)
+	ctx         context.Context
+	Config      config.Config
+	Dicionario  *dicionario.GerenciadorDicionario // fonte única de consulta: significado, leitura, decomposição, compostos (CC-CEDICT + MakeMeAHanzi + Traçados)
+	Frases      *dicionario.GerenciadorFrases      // acervo de frases p/ revisão por contexto (carga preguiçosa, escalável por arquivos em dicionario/idiomas/<idioma>/frases/)
+	Compreensao *dicionario.GerenciadorCompreensao // acervo de perguntas de compreensão de leitura com contexto
+	revisao     *revisao.GerenciadorRevisao
+	atalhos    *util.GerenciadorAtalhos
 
 	// mu protege o estado do último scan (lastCards/lastLinhas/lastImagemPng/lastImageHash) e
 	// popupsTodosVisivel — os bindings do Wails rodam em goroutines próprias e o atalho de "pop-up de
@@ -82,23 +94,40 @@ type App struct {
 	lastImagemPng      []byte // última captura JÁ CENSURADA, guardada para o modo resumo do Gemini poder enviar a imagem
 	popupsTodosVisivel bool
 
-	historicoRevisao map[string]bool
+	// fingerprintsCropsUltimoScan guarda, por palavra, as fingerprints dos crops do último scan:
+	// palavra cujo recorte não mudou de um scan para o outro está parada na tela e não ganha
+	// visualização de OCR (ver visualizacoes_ocr.go). Substituído por inteiro a cada scan.
+	fingerprintsCropsUltimoScan map[string]map[uint64]bool
+
+	// vigia confere, entre um scan e outro, se os cards do último OCR continuam na tela (highlights
+	// fantasmas — ver vigia_cards.go). Reconstruído por inteiro a cada scan; o ponteiro é protegido
+	// por mu. vigiaMutex serializa os ticks (TryLock: tick atrasado é pulado, nunca enfileirado) e
+	// ocrEmAndamento faz o vigia ceder a vez enquanto um scan completo está no meio do caminho.
+	vigia          *estadoVigia
+	vigiaMutex     sync.Mutex
+	ocrEmAndamento atomic.Bool
 
 	// motorOcr é dono do ciclo de vida do processo de OCR (subir/derrubar/trocar). A posse migrou do
 	// orquestrador (main.go) para o app para permitir trocar de motor em runtime (Fase 5, Passo 1).
-	motorOcr *motoresocr.GerenciadorMotorOcr
+	motorOcr *ocr.GerenciadorMotorOcr
 
 	// motorTts é dono do ciclo de vida do processo de TTS (Kokoro-82M/ChatTTS). Criado
 	// PREGUIÇOSAMENTE na primeira leitura em voz alta (garantirMotorTts) — nil até lá. ttsMutex
 	// serializa as leituras e protege essa criação (ver tts.go).
-	motorTts *motorestts.GerenciadorMotorTts
+	motorTts *tts.GerenciadorMotorTts
 	ttsMutex sync.Mutex
+
+	// geracaoTts é o contador de "contexto" das sínteses superáveis da revisão (FalarPinyinRevisao):
+	// InvalidarSintesesTts o incrementa quando a revisão muda de questão ou sai, e cada síntese
+	// enfileirada que, ao chegar na vez, vê uma geração mais nova é descartada sem sintetizar — assim
+	// o motor não mói um backlog de questões que o usuário já passou (ver bindings_audio.go).
+	geracaoTts atomic.Int64
 
 	// motorStt é dono do ciclo de vida do processo de STT (Paraformer-ZH…). Criado PREGUIÇOSAMENTE
 	// quando a revisão de pronúncia precisa escutar o microfone (garantirMotorStt) — nil até lá.
 	// sttMutex serializa as escutas e protege essa criação (ver stt.go). sttParcialParar encerra o
 	// laço de polling dos parciais da escuta em andamento (nil quando não há laço; sob sttMutex).
-	motorStt        *motoresstt.GerenciadorMotorStt
+	motorStt        *stt.GerenciadorMotorStt
 	sttMutex        sync.Mutex
 	sttParcialParar chan struct{}
 
@@ -109,12 +138,23 @@ type App struct {
 	preCacheTtsAtivo    bool
 	preCacheTtsCancelar chan struct{}
 
-	// mapaStatusRevisao armazena o status de cada caractere (estudo/aprendido) durante uma sessão
-	// de revisão, usado pela seleção ponderada de frases em preencherFrase.
-	mapaStatusRevisao map[string]string
-
 	// nuvem sincroniza o banco de progresso com o Google Drive do usuário (ver nuvem_bindings.go).
 	nuvem *nuvem.Gerenciador
+	tela  *tela.GerenciadorTela
+
+	// historicoRecomendacoes guarda o histórico recente de hanzis recomendados para evitar repetições imediatas
+	historicoRecomendacoes      []string
+	historicoRecomendacoesMutex sync.Mutex
+
+	// Controle de ciclo de vida e estado da atualização automática
+	onceIniciarServicos       sync.Once
+	sinalVerificacaoInicial   chan struct{}
+	fecharSinalVerificacaoOnce sync.Once
+	atualizacaoEmAndamento    atomic.Bool
+	estadoAtualizacaoMutex    sync.RWMutex
+	faseAtualizacao           string // "normal" | "atualizando" | "falhou"
+	versaoAlvoAtualizacao     string
+	erroAtualizacao           string
 }
 
 // NewApp creates a new App application struct
@@ -125,10 +165,18 @@ func NewApp() *App {
 		cfg = config.DefaultConfig()
 	}
 
-	cedict := dicionario.NovoCedict()
-	err = cedict.Carregar()
+	// Regra C5: se o canal de atualização estiver vazio, assume o canal do próprio build.
+	if cfg.CanalAtualizacao == "" {
+		if atualizacao.CanalDoBuild() == atualizacao.CANAL_DEV {
+			cfg.CanalAtualizacao = atualizacao.CANAL_DEV
+		} else {
+			cfg.CanalAtualizacao = atualizacao.CANAL_ESTAVEL
+		}
+	}
+
+	gerenciadorDicionario, err := dicionario.NovoGerenciadorDicionario(cfg.IdiomaTraducao)
 	if err != nil {
-		fmt.Printf("Aviso: Falha ao carregar dicionário CC-CEDICT: %v\n", err)
+		fmt.Printf("Aviso: %v\n", err)
 	}
 
 	err = segmentacao.InitJieba()
@@ -136,72 +184,158 @@ func NewApp() *App {
 		fmt.Printf("Aviso: Falha ao carregar dicionário Jieba: %v\n", err)
 	}
 
-	bancoHanzi := dicionario.NovoBancoMakeMeAHanzi()
-	err = bancoHanzi.Carregar()
-	if err != nil {
-		fmt.Printf("Aviso: Falha ao carregar dicionário MakeMeAHanzi: %v\n", err)
-	}
-
 	err = progresso.InitDB()
 	if err != nil {
 		fmt.Printf("Aviso: Falha ao inicializar banco de dados SQLite: %v\n", err)
 	}
 
-	return &App{
-		Config:        cfg,
-		Cedict:        cedict,
-		BancoHanzi:    bancoHanzi,
-		BancoFrases:   dicionario.NovoBancoFrases(),
-		BancoTracados: dicionario.NovoBancoTracados(),
+	// Conserta grafias que o antigo bug de conversão 么→幺 possa ter gravado no vocabulário (ver
+	// migracao_vocabulario.go). Roda uma vez, com o dicionário e o banco já prontos.
+	if corrigidas, invalidas := corrigirVocabularioCorrompido(gerenciadorDicionario); corrigidas > 0 || len(invalidas) > 0 {
+		fmt.Printf("Migração de vocabulário (么/幺): %d corrigida(s); %d inválida(s) preservada(s): %v\n",
+			corrigidas, len(invalidas), invalidas)
 	}
+
+	frases := dicionario.NovoGerenciadorFrases(cfg.IdiomaTraducao)
+	// Frases geradas com IA pelo usuário entram no acervo junto das embarcadas, virando candidatas
+	// da revisão geral. Registrada como fonte extra ANTES da primeira consulta (carga preguiçosa).
+	frases.RegistrarFonteExtra(carregarFrasesUsuario)
+
+	compreensao := dicionario.NovoGerenciadorCompreensao()
+	compreensao.RegistrarFonteExtra(carregarPerguntasCompreensaoUsuario)
+
+	app := &App{
+		Config:                  cfg,
+		Dicionario:              gerenciadorDicionario,
+		Frases:                  frases,
+		Compreensao:             compreensao,
+		sinalVerificacaoInicial: make(chan struct{}),
+		faseAtualizacao:         "normal",
+	}
+	app.revisao = revisao.NovoGerenciadorRevisao(app.Dicionario, app.Frases, func() config.Config { return app.Config })
+	app.revisao.DefinirGerenciadorCompreensao(app.Compreensao)
+	return app
+}
+
+// carregarFrasesUsuario converte as frases salvas no SQLite (frases geradas com IA pelo usuário)
+// para o formato do acervo. É a fonte extra registrada no GerenciadorFrases; roda uma vez, na carga preguiçosa.
+func carregarFrasesUsuario() ([]dicionario.Frase, error) {
+	salvas, err := progresso.GetFrasesUsuario()
+	if err != nil {
+		return nil, err
+	}
+	frases := make([]dicionario.Frase, 0, len(salvas))
+	for _, f := range salvas {
+		frases = append(frases, dicionario.Frase{
+			Chines:      f.Chines,
+			Ingles:      f.Ingles,
+			Atribuicao:  f.Atribuicao,
+			Tema:        f.Tema,
+			Dificuldade: f.Dificuldade,
+		})
+	}
+	return frases, nil
+}
+
+// carregarPerguntasCompreensaoUsuario converte as perguntas salvas no SQLite para o formato em memória.
+func carregarPerguntasCompreensaoUsuario() ([]dicionario.PerguntaCompreensao, error) {
+	salvas, err := progresso.GetPerguntasCompreensao()
+	if err != nil {
+		return nil, err
+	}
+	perguntas := make([]dicionario.PerguntaCompreensao, 0, len(salvas))
+	for _, p := range salvas {
+		perguntas = append(perguntas, dicionario.PerguntaCompreensao{
+			Contexto:              p.Contexto,
+			Pergunta:              p.Pergunta,
+			Opcoes:                p.Opcoes,
+			IndiceRespostaCorreta: p.IndiceRespostaCorreta,
+			PerguntaTraduzida:     p.PerguntaTraduzida,
+			ContextoTraduzido:     p.ContextoTraduzido,
+			Tema:                  p.Tema,
+			Dificuldade:           p.Dificuldade,
+			Atribuicao:            p.Atribuicao,
+			Script:                p.Script,
+		})
+	}
+	return perguntas, nil
 }
 
 // startup is called when the app starts. The context is saved
 // so we can call the runtime methods
 func (a *App) startup(ctx context.Context) {
 	a.ctx = ctx
-	a.StartBackgroundLoop()
-	fmt.Println("Backend Go Inicializado.")
 
-	// Sincronização do banco com o Google Drive (se o usuário conectou; ver nuvem_bindings.go).
-	a.iniciarNuvem(ctx)
+	// Verificação inicial síncrona sob orçamento total de 8 segundos.
+	ctxVerificacao, cancel := context.WithTimeout(ctx, 8*time.Second)
+	defer cancel()
 
-	// Aplica a escolha de motores feita na tela custom do instalador (ver instalador.go), ANTES de
-	// resolver/bootstrapar o motor — é o que faz bootstrapMotorPadrao baixar o motor ESCOLHIDO em vez
-	// do padrão do catálogo. No-op silencioso em builds de dev (sem instalador, sem marcador).
-	a.aplicarEscolhaDoInstalador()
-
-	// O app é dono do processo de OCR (subir/derrubar/trocar). Todo motor é um EXECUTÁVEL — baixado no
-	// AppData ou empacotado num bundle ao lado do app; NÃO há mais fallback para `python server.py`
-	// (tudo é modular/baixável). motoresocr.ResolverMotorInicial escolhe o motor preferido/padrão
-	// instalado ou o bundle; se NADA existe (first-run), o bootstrap baixa+instala+ativa o RapidOCR
-	// padrão sozinho.
-	a.motorOcr = motoresocr.NovoGerenciadorMotorOcr()
-	if desc, ok := motoresocr.ResolverMotorInicial(a.Config.MotorOcrAtivo); ok {
-		if err := a.motorOcr.Iniciar(desc); err != nil {
-			fmt.Printf("Aviso: falha ao subir o backend de OCR: %v\n", err)
+	precisaAtualizar, alvo, motivo := a.verificarAtualizacaoInicial(ctxVerificacao)
+	if !precisaAtualizar {
+		if motivo != "" {
+			fmt.Printf("Atualização automática: %s\n", motivo)
 		}
-
-		// Espera o motor responder o healthcheck antes de anunciá-lo pronto. Roda em segundo plano
-		// para não travar a UI; o frontend ouve "ocr_pronto"/"ocr_indisponivel".
-		go func() {
-			if err := motoresocr.AguardarBackend(30 * time.Second); err != nil {
-				fmt.Printf("Aviso: motor de OCR indisponível: %v\n", err)
-				runtime.EventsEmit(a.ctx, "ocr_indisponivel", err.Error())
-				return
-			}
-			fmt.Println("Motor de OCR pronto (healthcheck ok).")
-			runtime.EventsEmit(a.ctx, "ocr_pronto")
-		}()
-
-		// Inicializa o overlay embutido.
-		overlay.Iniciar()
-	} else {
-		// First-run: nenhum motor instalado nem em bundle. Baixa o motor padrão (+ overlay) e ativa — tudo
-		// em segundo plano; a UI acompanha por "motor_bootstrap_inicio"/"motor_download_progresso"/"ocr_pronto".
-		fmt.Println("Nenhum motor de OCR encontrado — iniciando o bootstrap do motor padrão…")
-		go a.bootstrapMotorPadrao()
+		a.definirFaseAtualizacao("normal", "", "")
+		a.liberarSinalVerificacaoInicial()
+		a.iniciarServicos()
+		return
 	}
+
+	fmt.Printf("Atualização automática: nova versão %s encontrada (%s). Baixando atualização…\n", alvo.Manifesto.Versao, alvo.Tag)
+	a.definirFaseAtualizacao("atualizando", alvo.Manifesto.Versao, "")
+	a.liberarSinalVerificacaoInicial()
+	go a.executarAtualizacao(alvo)
+}
+
+
+// iniciarServicos inicializa a tela, os loops de fundo, nuvem, OCR e overlays.
+// Protegida por sync.Once para garantir execução única (seja no boot normal ou após falha de atualização).
+func (a *App) iniciarServicos() {
+	a.onceIniciarServicos.Do(func() {
+		a.tela = tela.NovoGerenciadorTela(a.ctx, func() config.Config { return a.Config })
+		a.StartBackgroundLoop()
+		fmt.Println("Backend Go Inicializado.")
+
+		// Sincronização do banco com o Google Drive (se o usuário conectou; ver nuvem_bindings.go).
+		a.iniciarNuvem(a.ctx)
+
+		// Aplica a escolha de motores feita na tela custom do instalador (ver instalador.go), ANTES de
+		// resolver/bootstrapar o motor — é o que faz bootstrapMotorPadrao baixar o motor ESCOLHIDO em vez
+		// do padrão do catálogo. No-op silencioso em builds de dev (sem instalador, sem marcador).
+		a.aplicarEscolhaDoInstalador()
+
+		// O app é dono do processo de OCR (subir/derrubar/trocar). Todo motor é um EXECUTÁVEL — baixado no
+		// AppData ou empacotado num bundle ao lado do app; NÃO há mais fallback para `python server.py`
+		// (tudo é modular/baixável). motoresocr.ResolverMotorInicial escolhe o motor preferido/padrão
+		// instalado ou o bundle; se NADA existe (first-run), o bootstrap baixa+instala+ativa o RapidOCR
+		// padrão sozinho.
+		a.motorOcr = ocr.NovoGerenciadorMotorOcr()
+		if desc, ok := ocr.ResolverMotorInicial(a.Config.MotorOcrAtivo); ok {
+			if err := a.motorOcr.Iniciar(desc); err != nil {
+				fmt.Printf("Aviso: falha ao subir o backend de OCR: %v\n", err)
+			}
+
+			// Espera o motor responder o healthcheck antes de anunciá-lo pronto. Roda em segundo plano
+			// para não travar a UI; o frontend ouve "ocr_pronto"/"ocr_indisponivel".
+			go func() {
+				if err := ocr.AguardarBackend(30 * time.Second); err != nil {
+					fmt.Printf("Aviso: motor de OCR indisponível: %v\n", err)
+					runtime.EventsEmit(a.ctx, "ocr_indisponivel", err.Error())
+					return
+				}
+				fmt.Println("Motor de OCR pronto (healthcheck ok).")
+				runtime.EventsEmit(a.ctx, "ocr_pronto")
+			}()
+
+			// Inicializa o overlay embutido.
+			overlay.Iniciar()
+		} else {
+			// First-run: nenhum motor instalado nem em bundle. Baixa o motor padrão (+ overlay) e ativa — tudo
+			// em segundo plano; a UI acompanha por "motor_bootstrap_inicio"/"motor_download_progresso"/"ocr_pronto".
+			fmt.Println("Nenhum motor de OCR encontrado — iniciando o bootstrap do motor padrão…")
+			go a.bootstrapMotorPadrao()
+		}
+	})
 }
 
 // shutdown is called at termination
@@ -219,6 +353,9 @@ func (a *App) shutdown(ctx context.Context) {
 		a.motorStt.Encerrar()
 	}
 	overlay.Encerrar()
+	if a.atalhos != nil {
+		a.atalhos.DesativarTodos()
+	}
 	progresso.LimparImagensSessao()
 	// Depois da limpeza das imagens de sessão, para o snapshot final subir já enxuto.
 	a.encerrarNuvem()
@@ -229,10 +366,34 @@ func (a *App) GetConfig() (config.Config, error) {
 	return a.Config, nil
 }
 
-// SaveConfig saves the configuration and updates the App state
+// SaveConfig saves the configuration and updates the App state and global hotkeys dynamically
 func (a *App) SaveConfig(newConfig config.Config) error {
 	a.Config = newConfig
+	a.AtualizarAtalhosGlobais()
 	return config.SaveConfig(newConfig)
+}
+
+// AtualizarAtalhosGlobais ajusta reativamente os atalhos globais do SO.
+func (a *App) AtualizarAtalhosGlobais() map[string]string {
+	if a.atalhos == nil {
+		a.atalhos = util.NovoGerenciadorAtalhos()
+	}
+
+	atalhos := map[string]string{
+		"atalhoEscanear":           a.Config.AtalhoEscanear,
+		"atalhoPopupTodos":         a.Config.AtalhoPopupTodos,
+		"atalhoMarcarEstudo":       a.Config.AtalhoMarcarEstudo,
+		"atalhoAlternarPopupHover": a.Config.AtalhoAlternarPopupHover,
+	}
+
+	handlers := map[string]func(){
+		"atalhoEscanear":           func() { runtime.EventsEmit(a.ctx, "trigger_scan") },
+		"atalhoPopupTodos":         a.alternarTodosPopups,
+		"atalhoMarcarEstudo":       func() { runtime.EventsEmit(a.ctx, "trigger_save") },
+		"atalhoAlternarPopupHover": func() { runtime.EventsEmit(a.ctx, "toggle_popup_hover") },
+	}
+
+	return a.atalhos.AtualizarAtalhos(atalhos, handlers)
 }
 
 // GetLastScreenshot retorna a última imagem escaneada codificada em base64 com prefixo data URI.
@@ -346,20 +507,22 @@ func (a *App) mostrarTodosPopups() {
 		}
 	}
 
-	// Modo PALAVRA (padrão): um pop-up por palavra com pinyin/significado.
+	// Modo PALAVRA (padrão): um pop-up por palavra com pinyin/significado. Card fantasma (o texto
+	// já saiu da tela — ver vigia_cards.go) não gera pop-up.
 	var itens []overlay.ItemPopup
 	for _, c := range cardsCopia {
-		if len(c.Caixa) != 4 {
+		if len(c.Caixa) != 4 || c.Fantasma {
 			continue
 		}
 		itens = append(itens, overlay.ItemPopup{
-			Pinyin: c.Pinyin,
-			Hanzi:  c.Hanzi,
-			Sig:    strings.Join(c.Significados, ", "),
-			X0:     int(c.Caixa[0]) + offX,
-			Y0:     int(c.Caixa[1]) + offY,
-			X1:     int(c.Caixa[2]) + offX,
-			Y1:     int(c.Caixa[3]) + offY,
+			Pinyin:     "",
+			Hanzi:      "",
+			Sig:        strings.Join(c.Significados, ", "),
+			SoTraducao: true,
+			X0:         int(c.Caixa[0]) + offX,
+			Y0:         int(c.Caixa[1]) + offY,
+			X1:         int(c.Caixa[2]) + offX,
+			Y1:         int(c.Caixa[3]) + offY,
 		})
 	}
 
@@ -382,6 +545,14 @@ func (a *App) traduzirLinhasPendentes(linhas []LinhaTraduzida) {
 		l := &linhas[i]
 		if !contemHanzi(l.Texto) || l.Traducao != "" {
 			continue
+		}
+
+		if a.ehHanziOuPalavraNoDicionario(l.Texto) {
+			_, significados, _ := a.Dicionario.Leitura(strings.TrimSpace(l.Texto))
+			if len(significados) > 0 {
+				l.Traducao = significados[0]
+				continue
+			}
 		}
 
 		if a.Config.TraducaoUsarCache {
@@ -420,7 +591,7 @@ func (a *App) traduzirLinhasPendentes(linhas []LinhaTraduzida) {
 			continue
 		}
 		linhas[idx].Traducao = traducoes[j]
-		if a.Config.TraducaoUsarCache {
+		if a.Config.TraducaoUsarCache && !a.ehHanziOuPalavraNoDicionario(linhas[idx].Texto) {
 			_ = progresso.SalvarTraducaoCache(linhas[idx].Texto, traducoes[j])
 		}
 	}
@@ -475,7 +646,13 @@ var clienteHttpOcr = &http.Client{}
 
 
 func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
-	img, bounds, err := a.capturarMonitorCensurado()
+	// Sinaliza o scan completo para o vigia de fantasmas ceder a vez (ver vigia_cards.go).
+	a.ocrEmAndamento.Store(true)
+	defer a.ocrEmAndamento.Store(false)
+
+	// As regiões censuradas são ignoradas aqui: o OCR não lê o preto da censura, e o vigia — o único
+	// interessado nelas — recebe as da SUA captura a cada tick.
+	img, bounds, _, err := a.tela.CapturarMonitorCensurado()
 	if err != nil {
 		return nil, err
 	}
@@ -494,6 +671,7 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 		return cards, nil
 	}
 	a.lastImageHash = hash
+	fingerprintsScanAnterior := a.fingerprintsCropsUltimoScan
 	// A tela mudou: o overlay de "pop-up de tudo" ficou obsoleto, então o ocultamos.
 	popupsEstavamVisiveis := a.popupsTodosVisivel
 	a.popupsTodosVisivel = false
@@ -512,7 +690,7 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	}
 	imagemPng := append([]byte(nil), buf.Bytes()...)
 
-	results, err := a.enviarParaOcr(&buf, bounds)
+	results, err := a.enviarParaOcr(&buf, a.ladoMaximoOcr(bounds))
 	if err != nil {
 		return nil, err
 	}
@@ -525,6 +703,16 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 	// scan, não um fsync por palavra — ver progresso.SalvarImagensSessaoLote).
 	var cropsPendentes []string
 	var indicesCardsComCrop []int
+
+	// Visualizações de OCR deste scan: só conta palavra cujo recorte mudou frente ao scan
+	// anterior — palavra parada na tela não infla o contador (ver visualizacoes_ocr.go).
+	rastreadorVisualizacoes := novoRastreadorVisualizacoesOcr(fingerprintsScanAnterior)
+
+	// Estado do vigia de fantasmas deste scan (ver vigia_cards.go): posição, fingerprint e formas
+	// de cada card, para os ticks entre scans detectarem cards que sumiram da tela. Os templates
+	// (pixels do recorte) só são guardados com o rastreio de perdidos ligado — é só ele que os usa.
+	vigiaEmConstrucao := &estadoVigia{limites: bounds}
+	guardarTemplates := a.Config.RastrearPalavrasPerdidas
 
 	for _, res := range results {
 		// Pular palavras com confiança abaixo da configurada
@@ -543,12 +731,12 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 
 		var refinedPalavras []string
 		for _, p := range palavras {
-			if a.temEntradaNoDicionario(p) {
+			if a.Dicionario.TemEntrada(p) {
 				refinedPalavras = append(refinedPalavras, p)
 				continue
 			}
 			// FMM split para preservar compostos
-			refinedPalavras = append(refinedPalavras, a.quebrarEmPalavrasDoDicionario(p)...)
+			refinedPalavras = append(refinedPalavras, a.Dicionario.SegmentarPorDicionario(p)...)
 		}
 
 		// O OCR devolve a caixa da LINHA inteira; como cada palavra dela vira um card,
@@ -562,7 +750,7 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 		offsetRunes := 0
 
 		for _, p := range refinedPalavras {
-			pinyin, significados, entradaCedict := a.buscarLeituraHanzi(p)
+			_, significados, entradaCedict := a.Dicionario.Leitura(p)
 			if entradaCedict != nil {
 				p = a.converterCardParaTipoGerado(p, entradaCedict)
 			}
@@ -579,22 +767,20 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 
 			base64Img := a.croparCardEmBase64(img, caixaCard)
 
-			cards = append(cards, FlashcardCard{
-				Hanzi:        p,
-				Pinyin:       pinyin,
-				Significados: significados,
-				Confianca:    res.Confianca,
-				Caixa:        caixaCard,
-				TipoHanzi:    a.Cedict.AvaliarTipoHanzi(p),
-			})
+			card := a.montarCardDinamico(p, res.Confianca, caixaCard)
+			cards = append(cards, card)
+
 			if base64Img != "" {
 				cropsPendentes = append(cropsPendentes, base64Img)
 				indicesCardsComCrop = append(indicesCardsComCrop, len(cards)-1)
 			}
 
 			// Salvar no histórico de "Já Vistas"
-			progresso.RegistrarVisto(p, pinyin, strings.Join(significados, ", "))
+			progresso.RegistrarVisto(p)
 			a.registrarHanzisIndividuais(p)
+
+			rastreadorVisualizacoes.registrarOcorrencia(p, base64Img)
+			vigiaEmConstrucao.registrarCard(img, len(cards)-1, formasDoHanzi(p, entradaCedict), caixaCard, guardarTemplates)
 		}
 	}
 
@@ -605,10 +791,16 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 		}
 	}
 
+	// Soma +1 visualização de OCR às palavras com recorte inédito (best-effort, como os demais
+	// registros de progresso do scan: uma falha aqui não pode derrubar a entrega dos cards).
+	_ = progresso.RegistrarVisualizacoesOcr(rastreadorVisualizacoes.palavrasComVisualizacaoNova())
+
 	a.mu.Lock()
 	a.lastCards = cards
 	a.lastLinhas = linhas
 	a.lastImagemPng = imagemPng
+	a.fingerprintsCropsUltimoScan = rastreadorVisualizacoes.fingerprintsDoScan()
+	a.vigia = vigiaEmConstrucao
 	a.mu.Unlock()
 
 	if a.ctx != nil {
@@ -619,11 +811,37 @@ func (a *App) CaptureAndOCR() ([]FlashcardCard, error) {
 }
 
 
+// montarCardDinamico cria um FlashcardCard a partir de um caractere ou palavra em chinês (hanzi),
+// consultando o dicionário e ranking em runtime (dinamicamente) para garantir a tradução e dados corretos.
+func (a *App) montarCardDinamico(hanzi string, confianca float64, caixa []float64) FlashcardCard {
+	pinyin, significados, _ := a.Dicionario.Leitura(hanzi)
 
-// enviarParaOcr manda o PNG da captura ao sidecar de OCR com os headers de configuração e devolve
-// as detecções decodificadas.
-func (a *App) enviarParaOcr(corpoPng *bytes.Buffer, bounds image.Rectangle) ([]OcrResult, error) {
-	req, err := http.NewRequest("POST", motoresocr.EnderecoBase()+"/api/ocr", corpoPng)
+	posicao := 0
+	if a.Dicionario != nil && a.Dicionario.Banco != nil {
+		freq := a.Dicionario.Banco.ObterFrequencia(hanzi)
+		if freq != nil {
+			posicao = freq.Posicao
+		}
+	}
+
+	return FlashcardCard{
+		Hanzi:          hanzi,
+		Pinyin:         pinyin,
+		Significados:   significados,
+		Confianca:      confianca,
+		Caixa:          caixa,
+		TipoHanzi:      a.Dicionario.TipoHanzi(hanzi),
+		PosicaoRanking: posicao,
+	}
+}
+
+
+
+// enviarParaOcr manda um PNG ao sidecar de OCR com os headers de configuração e devolve as
+// detecções decodificadas. ladoMaximo limita o lado maior da imagem no sidecar (0 = sem redução) —
+// o scan completo passa a escala configurada, o vigia manda recortes minúsculos sem downscale.
+func (a *App) enviarParaOcr(corpoPng *bytes.Buffer, ladoMaximo int) ([]OcrResult, error) {
+	req, err := http.NewRequest("POST", ocr.EnderecoBase()+"/api/ocr", corpoPng)
 	if err != nil {
 		return nil, fmt.Errorf("failed to create request: %w", err)
 	}
@@ -634,7 +852,7 @@ func (a *App) enviarParaOcr(corpoPng *bytes.Buffer, bounds image.Rectangle) ([]O
 	req.Header.Set("X-Ocr-Device", a.Config.DispositivoOcr)
 	req.Header.Set("X-Ocr-Hardware", a.Config.HardwareSelecionado)
 	req.Header.Set("X-Ocr-Threads", fmt.Sprintf("%d", a.Config.ThreadsCpuOcr))
-	req.Header.Set("X-Ocr-Max-Side", fmt.Sprintf("%d", a.ladoMaximoOcr(bounds)))
+	req.Header.Set("X-Ocr-Max-Side", fmt.Sprintf("%d", ladoMaximo))
 
 	resp, err := clienteHttpOcr.Do(req)
 	if err != nil {
@@ -714,22 +932,43 @@ func subCaixaDaPalavra(caixaLinha []float64, palavra string, totalRunes, offsetR
 	return []float64{x0 + largura*fracInicio, y0, x0 + largura*fracFim, caixaLinha[3]}
 }
 
-// croparCardEmBase64 recorta a região do card na captura (com um respiro de 10px) e devolve o PNG
+// croparCardEmBase64 recorta a região do card na captura (com o respiro padrão) e devolve o PNG
 // em base64 — "" quando a caixa é inválida ou a codificação falha (o card só fica sem imagem).
 func (a *App) croparCardEmBase64(img *image.RGBA, caixaCard []float64) string {
-	if len(caixaCard) != 4 {
+	rect, ok := retanguloDoCrop(img.Bounds(), caixaCard)
+	if !ok {
 		return ""
 	}
-
-	const respiroPx = 10
-	rect := image.Rect(int(caixaCard[0])-respiroPx, int(caixaCard[1])-respiroPx, int(caixaCard[2])+respiroPx, int(caixaCard[3])+respiroPx)
-	rect = rect.Intersect(img.Bounds()) // certifica que não ultrapassa os limites da imagem
 
 	var bufImg bytes.Buffer
 	if err := codificadorPng.Encode(&bufImg, img.SubImage(rect)); err != nil {
 		return ""
 	}
 	return base64.StdEncoding.EncodeToString(bufImg.Bytes())
+}
+
+// Respiro ao redor da caixa do card nos recortes (crop salvo no banco e recorte vigiado).
+const RESPIRO_CROP_PX = 10
+
+// retanguloDoCrop devolve o retângulo do recorte de um card (caixa + respiro, contido na imagem).
+// É a fonte única da geometria do recorte: o crop do card e o vigia de fantasmas precisam olhar
+// exatamente para os mesmos pixels (ver vigia_cards.go). ok=false para caixa inválida/recorte vazio.
+func retanguloDoCrop(limites image.Rectangle, caixaCard []float64) (image.Rectangle, bool) {
+	if len(caixaCard) != 4 {
+		return image.Rectangle{}, false
+	}
+
+	rect := image.Rect(
+		int(caixaCard[0])-RESPIRO_CROP_PX,
+		int(caixaCard[1])-RESPIRO_CROP_PX,
+		int(caixaCard[2])+RESPIRO_CROP_PX,
+		int(caixaCard[3])+RESPIRO_CROP_PX,
+	)
+	rect = rect.Intersect(limites) // certifica que não ultrapassa os limites da imagem
+	if rect.Empty() {
+		return image.Rectangle{}, false
+	}
+	return rect, true
 }
 
 // ----- Getters do último scan -----
@@ -747,4 +986,15 @@ func (a *App) GetSessionImage(id int) string {
 		return ""
 	}
 	return base64
+}
+
+func (a *App) ehHanziOuPalavraNoDicionario(texto string) bool {
+	texto = strings.TrimSpace(texto)
+	if texto == "" || !contemHanzi(texto) {
+		return false
+	}
+	if a.Dicionario == nil {
+		return false
+	}
+	return a.Dicionario.TemEntrada(texto)
 }

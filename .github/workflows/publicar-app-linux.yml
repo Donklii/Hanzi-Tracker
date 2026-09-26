@@ -71,6 +71,7 @@ jobs:
             {
               echo "versao=$versao"
               echo "tag=app-v$versao"
+              echo "canal=estavel"
               echo "estavel=true"
               echo "titulo=Hanzi Tracker $versao"
               echo "nomeDeb=hanzitracker_${versao}_amd64.deb"
@@ -85,16 +86,24 @@ jobs:
             {
               echo "versao=$versao"
               echo "tag=app-dev"
+              echo "canal=dev"
               echo "estavel=false"
               echo "titulo=Hanzi Tracker (dev, commit $sha)"
               echo "nomeDeb=hanzitracker_dev_amd64.deb"
             } >> "$GITHUB_OUTPUT"
           fi
+          dataBuild="$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          echo "dataBuild=$dataBuild" >> "$GITHUB_OUTPUT"
 
       - name: Gravar a versão calculada em wails.json
         run: |
           jq --arg v '${{ steps.versao.outputs.versao }}' '.info.productVersion = $v' wails_app/wails.json > /tmp/wails.json
           mv /tmp/wails.json wails_app/wails.json
+
+      - name: Validar as notas de versão (go test)
+        working-directory: wails_app
+        # Nota de versão mal escrita barra a release: o teste carrega as notas embutidas em todos os idiomas.
+        run: go test ./notasversao/
 
       - name: Buildar o app (wails build linux)
         working-directory: wails_app
@@ -102,7 +111,7 @@ jobs:
         # xvfb-run: a geração de bindings executa código que importa a lib de hotkey (X11), que aborta
         # sem um display mesmo sem abrir janela nenhuma — mesmo motivo do testes.yml.
         run: |
-          xvfb-run -a wails build -platform linux/amd64 -tags webkit2_41
+          xvfb-run -a wails build -platform linux/amd64 -tags webkit2_41 -ldflags "-X wails_app/atualizacao.Versao=${{ steps.versao.outputs.versao }} -X wails_app/atualizacao.Canal=${{ steps.versao.outputs.canal }} -X wails_app/atualizacao.Commit=$GITHUB_SHA -X wails_app/atualizacao.DataBuild=${{ steps.versao.outputs.dataBuild }}"
           if [[ ! -f build/bin/HanziTracker ]]; then
             echo 'wails build terminou sem gerar build/bin/HanziTracker' >&2
             exit 1
@@ -133,3 +142,22 @@ jobs:
               --target "$GITHUB_SHA" "${extra[@]}" --notes '' || true
           fi
           gh release upload "$tag" "$arquivo" --repo "$GITHUB_REPOSITORY" --clobber
+
+      - name: Gerar e publicar o manifesto de atualização (atualizacao-linux.json)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          arquivoDeb='wails_app/build/bin/${{ steps.versao.outputs.nomeDeb }}'
+          tag='${{ steps.versao.outputs.tag }}'
+          sha256=$(sha256sum "$arquivoDeb" | cut -d' ' -f1 | tr '[:upper:]' '[:lower:]')
+          tamanho=$(stat -c%s "$arquivoDeb")
+          jq -n \
+            --arg versao '${{ steps.versao.outputs.versao }}' \
+            --arg commit "$GITHUB_SHA" \
+            --arg dataBuild '${{ steps.versao.outputs.dataBuild }}' \
+            --arg arquivo '${{ steps.versao.outputs.nomeDeb }}' \
+            --arg sha256 "$sha256" \
+            --argjson tamanhoBytes "$tamanho" \
+            '{versao: $versao, commit: $commit, dataBuild: $dataBuild, arquivo: $arquivo, sha256: $sha256, tamanhoBytes: $tamanhoBytes}' \
+            > wails_app/build/bin/atualizacao-linux.json
+          gh release upload "$tag" wails_app/build/bin/atualizacao-linux.json --repo "$GITHUB_REPOSITORY" --clobber

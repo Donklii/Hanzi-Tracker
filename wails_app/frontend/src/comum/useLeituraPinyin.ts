@@ -7,6 +7,7 @@
 import { MutableRefObject, useRef } from 'react';
 import { config } from '../../wailsjs/go/models';
 import { FalarPinyin } from '../../wailsjs/go/main/App';
+import { t } from '../i18n/i18n';
 
 // Áudio que demora mais que isso já perdeu a janela de utilidade: o usuário seguiu o mouse adiante.
 const VALIDADE_AUDIO_MS = 5000;
@@ -38,7 +39,7 @@ export function useLeituraPinyin({ configuracoesAppRef, setStatus }: OpcoesUseLe
       })
       .catch((err: any) => {
         if (idLeituraRef.current === idLocal) {
-          setStatus('⚠️ Leitura em voz alta: ' + String(err));
+          setStatus(t('⚠️ Leitura em voz alta: {erro}', { erro: String(err) }));
         }
       });
   };

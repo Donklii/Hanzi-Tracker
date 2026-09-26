@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+脱滑 | TRADUÇÃO: escurrir el bulto/eludir el trabajo/holgazanear en el trabajo
+脱漏 | TRADUÇÃO: omisión/dejar fuera/faltante
+脱涩 | TRADUÇÃO: eliminar la astringencia/quitar el sabor áspero
+脱洒 | TRADUÇÃO: elegante/desenvuelto y libre/natural y distinguido
+脱然 | TRADUÇÃO: despreocupado/sin ataduras/tranquilo y sereno
+脱班 | TRADUÇÃO: fuera de horario/retrasado (en el horario)/perder el turno
+脱产 | TRADUÇÃO: ser relevado de la producción (para otras tareas)/separarse de las labores productivas/tomar licencia (para estudiar u otro cargo)/traspasar bienes (para eludir responsabilidades)
+脱略 | TRADUÇÃO: desinhibido/libre de ataduras/despreocupado por las formalidades/indulgencia
+脱肛 | TRADUÇÃO: variante de 脫肛|脱肛 ‖ prolapso rectal
+脱皮 | TRADUÇÃO: (de pintura, etc.) pelarse/descascarillarse/(de insectos o serpientes) mudar de piel/(de la piel humana) pelarse (por trabajo, ampollas o insolación)/(fig.) pasar por una dura prueba
+脱皮掉肉 | TRADUÇÃO: (lit.) perder piel y carne/romperse el lomo trabajando/matarse trabajando
+脱盲 | TRADUÇÃO: alfabetizarse/salir del analfabetismo
+脱稿 | TRADUÇÃO: (de un manuscrito) estar terminado/hablar sin apuntes (al dar un discurso)
+脱颖而出 | TRADUÇÃO: mostrar su talento (modismo)/destacar entre la multitud/sobresalir
+脱空 | TRADUÇÃO: fallar/quedar en nada/malograrse (de planes o esperanzas)/mentir
+脱窗 | TRADUÇÃO: (Taiwán) bizco/estrábico (del taiwanés 挩窗, pron. Tai-lo [thuah-thang])
+脱节 | TRADUÇÃO: desvincularse/desconectarse/perder el contacto
+脱粒 | TRADUÇÃO: desgranar/trillar
+脱粒机 | TRADUÇÃO: trilladora/desgranadora
+脱粟 | TRADUÇÃO: grano desgranado (tras la trilla y el aventamiento)
+脱线 | TRADUÇÃO: descarrilamiento/descarrilar/salir de las vías
+脱罪 | TRADUÇÃO: ser absuelto/librarse de la culpa/exculparse
+脱羽 | TRADUÇÃO: mudar las plumas/pelechar (aves)
+脱胎 | TRADUÇÃO: nacer/(fig.) desarrollarse a partir de otra cosa (ideas, relatos, sistemas)/(fig.) desprenderse del cuerpo carnal (para renacer)/sin armazón interior (como la laca sin soporte)
+脱胎成仙 | TRADUÇÃO: renacer como inmortal/alcanzar la inmortalidad
+脱胎换骨 | TRADUÇÃO: desprenderse del cuerpo mortal y cambiar los huesos (modismo)/transformarse por completo/renovarse íntegramente
+脱胎漆器 | TRADUÇÃO: laca sin soporte/laca vaciada (artesanía tradicional de Fuzhou)
+脱脂 | TRADUÇÃO: desengrasar/descremar (leche)/desnatado
+脱脂棉 | TRADUÇÃO: algodón absorbente/algodón hidrófilo
+脱脱 | TRADUÇÃO: Toktogha (1314-1355), estadista mongol de la dinastía Yuan, compilador de las historias de Song 宋史, Liao 遼史|辽史 y Jin 金史/también escrito Tuoketuo 托克托
+脱肠 | TRADUÇÃO: hernia (inguinal o rectal)
+脱胶 | TRADUÇÃO: descolarse/despegarse (piezas unidas con pegamento)
+脱臼 | TRADUÇÃO: dislocación/luxación
+脱色 | TRADUÇÃO: decolorarse/perder el color/palidecer/desvanecerse
+脱色剂 | TRADUÇÃO: agente decolorante/decolorante
+脱落 | TRADUÇÃO: desprenderse/caerse/(del cabello o dientes) caerse/omitirse (un carácter al escribir)
+脱衣服 | TRADUÇÃO: desvestirse/quitarse la ropa
+脱衣舞 | TRADUÇÃO: estriptis/baile erótico
+脱裤子放屁 | TRADUÇÃO: (lit.) bajarse los pantalones para tirarse un pedo/(fig.) hacer algo totalmente innecesario/complicarse inútilmente
+脱误 | TRADUÇÃO: omisión/palabra omitida/errata por omisión
+脱贫 | TRADUÇÃO: salir de la pobreza/superar la pobreza
+脱贫致富 | TRADUÇÃO: salir de la pobreza y enriquecerse (modismo)/alivio de la pobreza
+脱货 | TRADUÇÃO: agotado/sin existencias/fuera de stock
+脱跨 | TRADUÇÃO: (neologismo) destransicionar/dejar de identificarse como transgénero
+脱身 | TRADUÇÃO: librarse/zafarse/escaparse (de compromisos u obligaciones)/desentenderse
+脱轨 | TRADUÇÃO: descarrilar/salir de los rieles/descarrilamiento
+脱逃 | TRADUÇÃO: fugarse/escapar/huir
+脱钩 | TRADUÇÃO: desvincularse/desconectarse/romper lazos/desacoplarse
+脱销 | TRADUÇÃO: agotarse las existencias/estar agotado en el mercado/escasear
+脱开 | TRADUÇÃO: desacoplar/desprender/retirarse
+脱除 | TRADUÇÃO: eliminar/suprimir/desprenderse de
+脱险 | TRADUÇÃO: salir de peligro/ponerse a salvo
+脱离 | TRADUÇÃO: separarse de/desvincularse de/diástasis (med.)/abscisión (bot.)
+脱离苦海 | TRADUÇÃO: escapar del mar de sufrimiento/liberarse de una situación penosa
+脱靶 | TRADUÇÃO: errar el blanco/fallar el tiro/(edición genética) fuera de objetivo (como en "mutación fuera de diana")
+脱鞋 | TRADUÇÃO: quitarse los zapatos/descalzarse
+脱缰 | TRADUÇÃO: (de un caballo, etc.) desbocarse/soltarse de las riendas/(fig.) quedar sin control
+脱缰之马 | TRADUÇÃO: (lit.) caballo desbocado (modismo)/fuera de control
+脱缰野马 | TRADUÇÃO: caballo salvaje indomable/(fig.) fuerza descontrolada
+脱骨换胎 | TRADUÇÃO: desprenderse del cuerpo mortal y cambiar los huesos (modismo)/renacer espiritualmente/transformarse radicalmente
+脱发 | TRADUÇÃO: caída del cabello/perder el pelo/alopecia
+脱党 | TRADUÇÃO: abandonar un partido político/renunciar a la militancia
+脬 | TRADUÇÃO: vejiga (especialmente urinaria)
+脯 | TRADUÇÃO: carne seca/carne deshidratada/fruta confitada/fruta deshidratada ‖ pecho/pechuga
+脯子 | TRADUÇÃO: pechuga (de pollo, ave, etc.)
+脯氨酸 | TRADUÇÃO: prolina (Pro, aminoácido)
+脰 | TRADUÇÃO: (literario) cuello/pescuezo
+脲 | TRADUÇÃO: carbamida/urea ((NH2)2CO)/también escrito 尿素
+脲醛 | TRADUÇÃO: urea-formaldehído
+脷 | TRADUÇÃO: (cantonés) lengua (de res o ganado)
+胀 | TRADUÇÃO: hincharse/dilatarse/expandirse/hinchado/abombado
+胀大 | TRADUÇÃO: hincharse/dilatarse/agrandado
+胀奶 | TRADUÇÃO: variante de 漲奶|涨奶
+胀起 | TRADUÇÃO: abultarse/hincharse/sobresalir
+脾 | TRADUÇÃO: bazo
+脾性 | TRADUÇÃO: índole/carácter/temperamento
+脾气 | TRADUÇÃO: temperamento/carácter/mal genio/mal humor/CL:股
+脾胃 | TRADUÇÃO: bazo y estómago (órganos digestivos en la MTC)/preferencias/gusto (ej. en literatura)
+脾脏 | TRADUÇÃO: bazo
+脾虚 | TRADUÇÃO: deficiencia de bazo (medicina china)
+脿 | TRADUÇÃO: variante antigua de 膘
+腄 | TRADUÇÃO: callo en la mano o pie/fémur de caballo o ave/nalgas
+腆 | TRADUÇÃO: enriquecer (bebidas alcohólicas)/virtuoso/abundante
+腈 | TRADUÇÃO: nitrilo/acrílico
+腈纶 | TRADUÇÃO: fibra acrílica
+腊 | TRADUÇÃO: carne seca/carne curada/también pron. [xi2] ‖ variante antigua de 臘|腊 ‖ sacrificio de fin de año en el duodécimo mes lunar/duodécimo mes lunar/curado en invierno (especialmente en el duodécimo mes lunar)
+腋 | TRADUÇÃO: axila/sobaco
+腋下 | TRADUÇÃO: debajo del brazo/axila
+腋毛 | TRADUÇÃO: vello axilar
+腋生 | TRADUÇÃO: axilar (bot.)/que brota en la axila de la rama o tallo
+腋窝 | TRADUÇÃO: axila/sobaco
+腋臭 | TRADUÇÃO: olor axilar/bromhidrosis/olor corporal/también llamado 狐臭
+腋芽 | TRADUÇÃO: yema axilar (bot.)
+腌 | TRADUÇÃO: usado en 腌臢|腌臢/pron. en Taiwán [ang1] ‖ variante de 醃|腌 ‖ salar/encurtir/curar (carne)/marinar/adobar
+腌臜 | TRADUÇÃO: sucio/asqueroso/incómodo/desagradable/nauseabundo/pronunciación en Taiwán [ang1 zang1]
+腌制 | TRADUÇÃO: marinar/encurtir/curar/salar
+腌货 | TRADUÇÃO: encurtidos/alimentos salados ‖ encurtidos/alimentos curados
+腍 | TRADUÇÃO: saciado/bien cocido/sabroso
+肾 | TRADUÇÃO: riñón
+肾上腺 | TRADUÇÃO: glándulas suprarrenales
+肾上腺皮质 | TRADUÇÃO: corteza suprarrenal
+肾上腺素 | TRADUÇÃO: adrenalina/epinefrina
+肾上腺髓质 | TRADUÇÃO: médula suprarrenal
+肾小球 | TRADUÇÃO: glomérulo renal (med.)
+肾炎 | TRADUÇÃO: nefritis/inflamación del riñón
+肾盂 | TRADUÇÃO: pelvis renal (med.)
+肾盂炎 | TRADUÇÃO: pielitis (med.)
+肾结石 | TRADUÇÃO: cálculo renal/piedra en el riñón
+肾脏 | TRADUÇÃO: riñón
+腐 | TRADUÇÃO: descomponerse/podrido/corrupto
+腐乳 | TRADUÇÃO: tofu fermentado/queso de soja fermentado
+腐刑 | TRADUÇÃO: castración punitiva (antigua forma de castigo en la dinastía Han)
+腐化 | TRADUÇÃO: pudrirse/descomponerse/corromperse/degradarse
+腐国 | TRADUÇÃO: Reino Unido (término de jerga china sobre el Reino Unido por su cultura abierta hacia la homosexualidad)
+腐坏 | TRADUÇÃO: pudrirse/echarse a perder/(fig.) corromperse
+腐女 | TRADUÇÃO: fujoshi (chica aficionada al manga y ficción de amor entre hombres) (del japonés 腐女子 "fujoshi")
+腐尸 | TRADUÇÃO: cadáver descompuesto/cuerpo en putrefacción
+腐败 | TRADUÇÃO: corrupción/corrupto/pudrirse/descomponerse
+腐败罪 | TRADUÇÃO: delito de corrupción
+腐朽 | TRADUÇÃO: podrido/descompuesto/decadente/degenerado
+腐殖土 | TRADUÇÃO: tierra de humus/mantillo
+腐殖酸 | TRADUÇÃO: ácido húmico
+腐熟 | TRADUÇÃO: (de abono o compost) completamente descompuesto/maduro
+腐烂 | TRADUÇÃO: pudrirse/putrefacto/(fig.) corrupto
+腐生兰 | TRADUÇÃO: Cymbidium macrorrhizum Lindl. (orquídea saprofita)
+腐竹 | TRADUÇÃO: fuzhu/rollos de nata de soja seca (usados en la cocina tras hidratarse)
+腐肉 | TRADUÇÃO: carne podrida/carroña
+腐臭 | TRADUÇÃO: olor a podrido/hedor pútrido/fétido
+腐旧 | TRADUÇÃO: anticuado/decadente/obsoleto
+腐蚀 | TRADUÇÃO: corrosión/corroer/carcomer/corrupción
+腐蚀剂 | TRADUÇÃO: agente corrosivo/corrosivo
+腐蚀性 | TRADUÇÃO: (lit. y fig.) corrosivo/corrosividad
+腑 | TRADUÇÃO: órganos internos/vísceras
+腒 | TRADUÇÃO: ave seca/carne de ave deshidratada
+腓 | TRADUÇÃO: pantorrilla/deteriorarse/proteger
+腓利门书 | TRADUÇÃO: Epístola a Filemón (Nuevo Testamento)
+腓力 | TRADUÇÃO: Felipe (apóstol de Jesús, transliteración protestante)
+腓尼基 | TRADUÇÃO: Fenicia (antigua civilización del Mediterráneo)
+腓特烈斯塔 | TRADUÇÃO: Fredrikstad (ciudad de Noruega)
+腓立比 | TRADUÇÃO: Filipos (antigua ciudad macedonia)
+腓立比书 | TRADUÇÃO: Epístola a los Filipenses (Nuevo Testamento)
+腓肠 | TRADUÇÃO: pantorrilla
+腓肠肌 | TRADUÇÃO: músculo gastrocnemio/gemelos
+腓骨 | TRADUÇÃO: peroné
+腔 | TRADUÇÃO: cavidad/(de la voz) tono/acento/tonada/modo de hablar/(antiguo) clasificador para canales de ganado
+腔壁 | TRADUÇÃO: pared de la cavidad
+腔子 | TRADUÇÃO: cavidad torácica/cuerpo/entonación/acento
+腔棘鱼 | TRADUÇÃO: celacanto
+腔肠动物 | TRADUÇÃO: celentéreos (como las medusas)
+腔调 | TRADUÇÃO: melodía/tono/acento/manera de expresarse/elegancia
+腔隙 | TRADUÇÃO: laguna/espacio/brecha
+腕 | TRADUÇÃO: muñeca/(de calamares, estrellas de mar, etc.) brazo/tentáculo
+腕儿 | TRADUÇÃO: véase 大腕
+腕子 | TRADUÇÃO: muñeca
+腕管综合症 | TRADUÇÃO: síndrome del túnel carpiano
+腕级 | TRADUÇÃO: de primera categoría/celebridad/estrella de primer nivel
+腕足 | TRADUÇÃO: tentáculo (zool.)/braquiopodio
+腕足动物 | TRADUÇÃO: braquiópodos
+腕表 | TRADUÇÃO: reloj de pulsera
+腕隧道症候群 | TRADUÇÃO: síndrome del túnel carpiano
+腕龙 | TRADUÇÃO: braquiosaurio
+胨 | TRADUÇÃO: véase 蛋白腖|蛋白胨
+腙 | TRADUÇÃO: hidrazona (quím.)
+腚 | TRADUÇÃO: nalgas/trasero/culo
+腜 | TRADUÇÃO: movimientos fetales/primer movimiento del feto
+腠 | TRADUÇÃO: tejido intersticial entre la piel y la carne
+脶 | TRADUÇÃO: huella dactilar/espiral dactilar
+腥 | TRADUÇÃO: olor a pescado/hedor a pescado/olor a sangre
+腥臭 | TRADUÇÃO: olor fétido a pescado/pútrido
+腥风血雨 | TRADUÇÃO: (lit.) viento fétido y lluvia de sangre (modismo)/(fig.) baño de sangre/reinado del terror/carnicería
+脑 | TRADUÇÃO: cerebro/mente/cabeza/esencia
+脑下垂体 | TRADUÇÃO: glándula pituitaria/hipófisis
+脑中风 | TRADUÇÃO: accidente cerebrovascular/ictus cerebral
+脑充血 | TRADUÇÃO: congestión cerebral/hemorragia cerebral
+脑儿 | TRADUÇÃO: sesos (como alimento)
+脑内啡 | TRADUÇÃO: endorfina
+脑出血 | TRADUÇÃO: hemorragia cerebral
+脑力 | TRADUÇÃO: capacidad mental/fuerza intelectual
+脑力劳动 | TRADUÇÃO: trabajo intelectual/labor mental
+脑力激荡 | TRADUÇÃO: lluvia de ideas/hacer tormenta de ideas
+脑勺 | TRADUÇÃO: nuca/parte posterior de la cabeza
+脑卒中 | TRADUÇÃO: ictus/accidente cerebrovascular
+脑回 | TRADUÇÃO: giro cerebral/circunvolución cerebral (neuroanat.)
+脑回路 | TRADUÇÃO: circuito mental/forma de pensar/lógica mental
+脑图 | TRADUÇÃO: mapa mental
+脑垂体 | TRADUÇÃO: glándula pituitaria/hipófisis
+脑子 | TRADUÇÃO: cerebro/sesos/mente/CL:個|个
+脑子有泡 | TRADUÇÃO: no tener cabeza/estar chalado/tonto/descerebrado
+脑子进水 | TRADUÇÃO: perder el juicio/estar loco/tener agua en el cerebro
+脑室 | TRADUÇÃO: ventrículos cerebrales
+脑岛 | TRADUÇÃO: ínsula (lóbulo de la ínsula)
+脑干 | TRADUÇÃO: tronco encefálico/tallo cerebral
+脑后 | TRADUÇÃO: nuca/parte posterior de la cabeza/(fig.) en el olvido/al fondo de la mente
+脑性麻痹 | TRADUÇÃO: parálisis cerebral
+脑成像技术 | TRADUÇÃO: técnica de neuroimagen
+脑抽 | TRADUÇÃO: (jerga) tener un lapsus mental/cometer una estupidez
+脑损伤 | TRADUÇÃO: daño cerebral/lesión cerebral
+脑杓 | TRADUÇÃO: nuca/occipucio
+脑梗 | TRADUÇÃO: infarto cerebral (abrev. de 腦梗死|脑梗死 o 腦梗塞|脑梗塞)
+脑梗塞 | TRADUÇÃO: infarto cerebral/embolia cerebral
+脑梗死 | TRADUÇÃO: infarto cerebral
+脑桥 | TRADUÇÃO: puente de Varolio/protuberancia anular (anat.)
+脑机接口 | TRADUÇÃO: interfaz cerebro-computadora (BCI)
+脑死亡 | TRADUÇÃO: muerte cerebral
+脑残 | TRADUÇÃO: descerebrado/retrasado/estúpido/idiota
+脑残粉 | TRADUÇÃO: (jerga) fanático ciego/fanboy/fangirl
+脑壳 | TRADUÇÃO: (coloq.) cráneo/cabeza/(fig.) capacidad mental/cerebro
+脑水肿 | TRADUÇÃO: edema cerebral
+脑汁 | TRADUÇÃO: masa encefálica/sesos
+脑波 | TRADUÇÃO: onda cerebral/electroencefalograma
+脑洞大开 | TRADUÇÃO: desbordar imaginación/mente llena de ideas fascinantes/ocurrente
+脑海 | TRADUÇÃO: mente/imaginación/pensamiento
+脑液 | TRADUÇÃO: líquido cefalorraquídeo/fluido cerebral
+脑沟 | TRADUÇÃO: surco cerebral (neuroanat.)
+脑溢血 | TRADUÇÃO: derrame cerebral/hemorragia cerebral
+脑满肠肥 | TRADUÇÃO: (modismo) gordo y cebado/obeso por una vida de lujos y privilegios
+脑浆 | TRADUÇÃO: masa encefálica/sesos
+脑炎 | TRADUÇÃO: encefalitis
+脑瓜 | TRADUÇÃO: cabeza/cráneo/mente/ideas/inteligencia
+脑瓜儿 | TRADUÇÃO: variante erhua de 腦瓜|脑瓜
+脑瓜子 | TRADUÇÃO: véase 腦瓜|脑瓜
+脑瓢儿 | TRADUÇÃO: coronilla/parte superior de la cabeza
+脑病 | TRADUÇÃO: encefalopatía/enfermedad cerebral
+脑瘤 | TRADUÇÃO: tumor cerebral
+脑瘫 | TRADUÇÃO: parálisis cerebral
+脑神经 | TRADUÇÃO: nervios craneales
+脑筋 | TRADUÇÃO: cerebro/mente/cabeza/modo de pensar
+脑细胞 | TRADUÇÃO: célula cerebral/neurona
+脑脊液 | TRADUÇÃO: líquido cefalorraquídeo (LCR)
+脑肿瘤 | TRADUÇÃO: tumor cerebral
+脑膜 | TRADUÇÃO: meninges
+脑膜炎 | TRADUÇÃO: meningitis
+脑花 | TRADUÇÃO: sesos (plato culinario)
+脑叶 | TRADUÇÃO: lóbulo cerebral
+脑血管屏障 | TRADUÇÃO: barrera hematoencefálica
+脑血管疾病 | TRADUÇÃO: enfermedad cerebrovascular
+脑袋 | TRADUÇÃO: cabeza/cráneo/cerebro/capacidad mental/CL:顆|颗,個|个
+脑袋开花 | TRADUÇÃO: estallarle la cabeza/volarse los sesos
+脑补 | TRADUÇÃO: (jerga de internet) imaginarse cosas/fantasear/completar en la mente
+脑贫血 | TRADUÇÃO: anemia cerebral/isquemia cerebral
+脑起搏器 | TRADUÇÃO: marcapasos cerebral/estimulador cerebral profundo
+脑门 | TRADUÇÃO: frente (de la cara)
+脑门子 | TRADUÇÃO: frente (dialectal)
+脑际 | TRADUÇÃO: mente/memoria/recuerdo
+脑电图 | TRADUÇÃO: electroencefalograma (EEG)
+脑电波 | TRADUÇÃO: véase 腦波|脑波
+脑震荡 | TRADUÇÃO: (med.) conmoción cerebral
+脑雾 | TRADUÇÃO: niebla mental/neblina mental
+脑髓 | TRADUÇÃO: médula cerebral/tejido cerebral/materia gris
+腧 | TRADUÇÃO: punto de acupuntura
+腧穴 | TRADUÇÃO: punto de acupuntura/acupunto
+腩 | TRADUÇÃO: falda de ternera/corte de carne del vientre vacuno/véase 牛腩 (esp. en la cocina cantonesa)
+腩炙 | TRADUÇÃO: falda de ternera estofada
+肿 | TRADUÇÃO: hincharse/hinchazón/hinchado
+肿块 | TRADUÇÃO: bulto/tumor/hinchazón/nódulo
+肿大 | TRADUÇÃO: hinchazón/aumento de volumen/hipertrofia
+肿瘤 | TRADUÇÃO: tumor/neoplasia
+肿瘤切除术 | TRADUÇÃO: tumorectomía
+肿瘤学 | TRADUÇÃO: oncología
+肿瘤科 | TRADUÇÃO: departamento de oncología/oncología
+肿胀 | TRADUÇÃO: hinchazón/edema/inflamación
+肿么 | TRADUÇÃO: (jerga de internet) qué pasa/cómo (variante de 怎麼|怎么)
+腬 | TRADUÇÃO: grasiento/grasoso (cantonés)
+腮 | TRADUÇÃO: mejilla/carrillo ‖ variante de 腮
+腮帮 | TRADUÇÃO: mejilla/carrillo/empeine (del calzado)
+腮帮子 | TRADUÇÃO: mejilla/carrillo
+腮托 | TRADUÇÃO: mentonera (ej. de violín)
+腮红 | TRADUÇÃO: colorete/rubor (cosmética)
+腮腺 | TRADUÇÃO: glándula parótida
+腮腺炎 | TRADUÇÃO: parotiditis/paperas
+腮颊 | TRADUÇÃO: mejilla/quijada
+腮胡 | TRADUÇÃO: patillas/barba en las mejillas
+腯 | TRADUÇÃO: gordo (referido a cerdos)
+腰 | TRADUÇÃO: cintura/espalda baja/riñones de animales (como alimento)/cintura de pantalones o faldas/bolsillo/sección media de un objeto vertical (montaña, botella, etc.)
+腰包 | TRADUÇÃO: riñonera/bolsa de cintura/(fig.) bolsillo/bolsa de dinero
+腰围 | TRADUÇÃO: contorno de cintura/perímetro de cintura
+腰子 | TRADUÇÃO: riñón (de animal)
+腰封 | TRADUÇÃO: faja ancha/fajín/(en edición) faja de papel de un libro
+腰带 | TRADUÇÃO: cinturón/cinto/CL:條|条,根
+腰斩 | TRADUÇÃO: cortar por la cintura (antigua pena de muerte)/cortar a la mitad/reducir drásticamente/cancelar abruptamente
+腰板 | TRADUÇÃO: espalda y cintura/porte físico/constitución corporal
+腰果 | TRADUÇÃO: anacardo/nuez de la India/castaña de cajú
+腰果鸡丁 | TRADUÇÃO: pollo con anacardos
+腰杆 | TRADUÇÃO: espalda (columna vertebral)/(fig.) respaldo/apoyo
+腰杆子 | TRADUÇÃO: cintura/espalda baja/(fig.) respaldo/apoyo
+腰椎 | TRADUÇÃO: vértebra lumbar
+腰椎间盘 | TRADUÇÃO: disco intervertebral lumbar
+腰椎间盘突出 | TRADUÇÃO: hernia discal lumbar
+腰突 | TRADUÇÃO: hernia de disco lumbar
+腰窝 | TRADUÇÃO: hoyuelos de Venus (en la espalda baja)
+腰缠万贯 | TRADUÇÃO: (lit.) llevar diez mil sartas de monedas en el cinturón (modismo)/inmensamente rico/podrido de dinero
+腰肉 | TRADUÇÃO: lomo (corte de carne)
+腰肢 | TRADUÇÃO: cintura/talle
+腰胯 | TRADUÇÃO: caderas y cintura
+腰臀比 | TRADUÇÃO: índice cintura-cadera
+腰身 | TRADUÇÃO: cintura/talle/contorno de cintura
+腰部 | TRADUÇÃO: cintura/zona lumbar
+腰金衣紫 | TRADUÇÃO: llevar sello dorado a la cintura y túnica púrpura (modismo)/ocupar un alto cargo oficial
+腰间 | TRADUÇÃO: en la cintura
+腰间肉 | TRADUÇÃO: michelines/llantitas/grasa en la cintura
+腰际 | TRADUÇÃO: cintura/caderas
+腰骨 | TRADUÇÃO: vértebras lumbares/huesos de la cintura
+腰鼓 | TRADUÇÃO: tamboril de cintura/danza del tambor de cintura (danza folclórica del pueblo Han)
+腱 | TRADUÇÃO: tendón
+腱外膜 | TRADUÇÃO: epitenon (anat.)
+腱子 | TRADUÇÃO: tendón/músculo con tendones (carne de morcillo/jarrete)
+腱弓 | TRADUÇÃO: arco tendinoso (anat.)
+腱炎 | TRADUÇÃO: tendinitis
+腱鞘 | TRADUÇÃO: vaina tendinosa (anat.)
+腱鞘炎 | TRADUÇÃO: tenosinovitis (med.)
+脚 | TRADUÇÃO: pie/pata/base/soporte/CL:雙|双,隻|只/clasificador para patadas ‖ papel/rol (variante de 角)
+脚下 | TRADUÇÃO: bajo los pies/a los pies
+脚不沾地 | TRADUÇÃO: no tocar el suelo con los pies (modismo)/correr como el viento/estar sumamente atareado
+脚不点地 | TRADUÇÃO: véase 腳不沾地|脚不沾地
+脚丫 | TRADUÇÃO: (coloq.) pie/patas
+脚丫子 | TRADUÇÃO: (coloq.) pie
+脚位 | TRADUÇÃO: posición de los pies (en danza)
+脚凳 | TRADUÇÃO: reposapiés/banqueta para los pies
+脚刹 | TRADUÇÃO: freno de pie
+脚印 | TRADUÇÃO: huella del pie/pisada
+脚夫 | TRADUÇÃO: porteador/mozo de carga
+脚孤拐 | TRADUÇÃO: juanete/hallux valgus
+脚尖 | TRADUÇÃO: punta del pie/puntera
+脚底 | TRADUÇÃO: planta del pie
+脚后跟 | TRADUÇÃO: talón
+脚心 | TRADUÇÃO: puente del pie/centro de la planta del pie
+脚户 | TRADUÇÃO: arriero/porteador
+脚手架 | TRADUÇÃO: andamio/andamiaje
+脚指 | TRADUÇÃO: variante de 腳趾|脚趾
+脚指甲 | TRADUÇÃO: uña del pie
+脚掌 | TRADUÇÃO: planta del pie/pata
+脚本 | TRADUÇÃO: guion/libreto/(inform.) script
+脚板 | TRADUÇÃO: planta del pie
+脚架 | TRADUÇÃO: trípode/soporte
+脚根 | TRADUÇÃO: variante de 腳跟|脚跟
+脚杆 | TRADUÇÃO: (dialectal) pierna/canilla
+脚正不怕鞋歪 | TRADUÇÃO: (lit.) quien tiene el pie derecho no teme que el zapato esté torcido (modismo)/el hombre íntegro no teme las calumnias
+脚步 | TRADUÇÃO: paso/pisada
+脚气 | TRADUÇÃO: pie de atleta/tiña podal/beriberi
+脚气病 | TRADUÇÃO: beriberi
+脚注 | TRADUÇÃO: nota a pie de página
+脚爪 | TRADUÇÃO: pata/garra
+脚癣 | TRADUÇÃO: tiña podal/pie de atleta
+脚程 | TRADUÇÃO: velocidad al caminar/distancia recorrida a pie
+脚背 | TRADUÇÃO: empeine del pie
+脚脖子 | TRADUÇÃO: (coloq.) tobillo
+脚腕 | TRADUÇÃO: tobillo
+脚腕子 | TRADUÇÃO: véase 腳腕|脚腕
+脚色 | TRADUÇÃO: variante de 角色
+脚误 | TRADUÇÃO: falta de pie (en tenis, etc.)
+脚趾 | TRADUÇÃO: dedo del pie
+脚趾头 | TRADUÇÃO: dedo del pie
+脚跟 | TRADUÇÃO: talón/(fig.) posición/firmeza
+脚跟脚 | TRADUÇÃO: uno pisándole los talones al otro/muy de cerca
+脚踏 | TRADUÇÃO: pedal/pisar
+脚踏两条船 | TRADUÇÃO: (lit.) tener un pie en dos barcas distintas (modismo)/(fig.) jugar a dos bandas/atender a dos cosas a la vez/tener dos parejas al mismo tiempo
+脚踏两只船 | TRADUÇÃO: estar en dos bandos a la vez/jugar a dos bandas/tener una aventura amorosa
+脚踏实地 | TRADUÇÃO: tener los pies firmes en la tierra (modismo)/ser pragmático y realista/trabajar con constancia y solidez
+脚踏板 | TRADUÇÃO: pedal/estribo/(en moto) plataforma para los pies
+脚踏车 | TRADUÇÃO: (Taiwán) bicicleta/CL:輛|辆
+脚踏钹 | TRADUÇÃO: charles/hi-hat (platillos de batería)
+脚踝 | TRADUÇÃO: tobillo
+脚踩两只船 | TRADUÇÃO: véase 腳踏兩隻船|脚踏两只船
+脚蹬 | TRADUÇÃO: pedal/estribo
+脚蹼 | TRADUÇÃO: aletas (de buceo o natación)/membrana interdigital
+脚轮 | TRADUÇÃO: rueda giratoria/ruedecilla (de muebles, carritos, etc.)
+脚违例 | TRADUÇÃO: falta de pie (tenis)
+脚钱 | TRADUÇÃO: propina al porteador/costo de acarreo
+脚链 | TRADUÇÃO: tobillera/cadena de tobillo
+脚镣 | TRADUÇÃO: grilletes/cadenas para los pies
+脚门 | TRADUÇÃO: variante de 角門|角门
+脚面 | TRADUÇÃO: empeine del pie
+脚鸭子 | TRADUÇÃO: variante de 腳丫子|脚丫子
+腴 | TRADUÇÃO: carne grasa del vientre/fértil/rico/abundante
+腶 | TRADUÇÃO: carne seca/carne deshidratada
+肠 | TRADUÇÃO: intestinos/tripas ‖ variante antigua de 腸|肠
+肠仔 | TRADUÇÃO: salchicha
+肠壁 | TRADUÇÃO: pared intestinal
+肠套叠 | TRADUÇÃO: invaginación intestinal/intususcepción (med.)
+肠子 | TRADUÇÃO: intestinos/tripas
+肠支 | TRADUÇÃO: ciego (anat.)
+肠易激综合征 | TRADUÇÃO: síndrome del intestino irritable (SII)
+肠毒素 | TRADUÇÃO: enterotoxina
+肠炎 | TRADUÇÃO: enteritis
+肠病毒 | TRADUÇÃO: enterovirus
+肠管 | TRADUÇÃO: tracto intestinal/intestino
+肠粉 | TRADUÇÃO: rollo de fideos de arroz al vapor (dim sum cantonés)
+肠胃 | TRADUÇÃO: estómago e intestinos/sistema digestivo
+肠胃炎 | TRADUÇÃO: gastroenteritis
+肠胃道 | TRADUÇÃO: tracto gastrointestinal
+肠蠕动 | TRADUÇÃO: peristaltismo intestinal
+肠衣 | TRADUÇÃO: tripa para embutidos/envoltura de salchicha
+肠道 | TRADUÇÃO: tracto intestinal/intestinos
+肠镜 | TRADUÇÃO: colonoscopio/colonoscopia (abrev. de 腸鏡檢查|肠镜检查)
+腹 | TRADUÇÃO: abdomen/vientre/panza
+腹吸盘 | TRADUÇÃO: ventosa ventral/acetábulo
+腹哀 | TRADUÇÃO: Fu'ai (punto de acupuntura BP-16)
+腹地 | TRADUÇÃO: zona de influencia/interior/hinterland
+腹壁 | TRADUÇÃO: pared abdominal
+腹带 | TRADUÇÃO: faja abdominal/faja
+腹水 | TRADUÇÃO: ascitis (med.)/líquido ascítico/hidroperitoneo
+腹泻 | TRADUÇÃO: diarrea/tener diarrea
+腹痛 | TRADUÇÃO: dolor de barriga/dolor abdominal/dolor de estómago
+腹直肌 | TRADUÇÃO: músculo recto del abdomen/recto abdominal
+腹稿 | TRADUÇÃO: esquema mental/borrador mental (de un escrito o discurso)
+腹笥便便 | TRADUÇÃO: erudito y versado (modismo)/tener la mente repleta de conocimientos
+腹肌 | TRADUÇÃO: músculo abdominal/abdominales
+腹股沟 | TRADUÇÃO: ingle (anat.)
+腹背受敌 | TRADUÇÃO: (modismo) ser atacado por el frente y por la espalda/estar atrapado entre dos fuegos
+腹背相亲 | TRADUÇÃO: tener una relación íntima y de plena confianza con alguien (modismo)
+腹腔 | TRADUÇÃO: cavidad abdominal
+腹膜 | TRADUÇÃO: peritoneo (anat.)
+腹语 | TRADUÇÃO: ventriloquia
+腹语师 | TRADUÇÃO: ventrílocuo
+腹语术 | TRADUÇÃO: ventriloquia/arte de ventrílocuo
+腹诽 | TRADUÇÃO: crítica interna no expresada/desacuerdo silencioso/maldecir para sus adentros
+腹足 | TRADUÇÃO: gasterópodo
+腹足纲 | TRADUÇÃO: clase de los gasterópodos (Gasteropoda)
+腹部 | TRADUÇÃO: abdomen/vientre
+腹部绞痛 | TRADUÇÃO: cólico abdominal/dolor espasmódico de abdomen
+腹鳍 | TRADUÇÃO: aleta ventral/aleta pélvica
+腹黑 | TRADUÇÃO: (jerga) con apariencia bondadosa pero mente maquiavélica/solapado/doble cara
+腺 | TRADUÇÃO: glándula
+腺嘌呤 | TRADUÇÃO: adenina (base nitrogenada, A)
+腺嘌呤核苷三磷酸 | TRADUÇÃO: trifosfato de adenosina (ATP)
+腺垂体 | TRADUÇÃO: adenohipófisis/lóbulo anterior de la hipófisis
+腺样 | TRADUÇÃO: adenoide/vegetaciones nasofaríngeas
+腺毛 | TRADUÇÃO: pelo glandular/tricoma glandular (bot.)
+腺病 | TRADUÇÃO: adenosis (enfermedad glandular)
+腺病毒 | TRADUÇÃO: adenovirus
+腺癌 | TRADUÇÃO: adenocarcinoma
+腺苷 | TRADUÇÃO: adenosina
+腺体 | TRADUÇÃO: glándula/tejido glandular
+腺鼠疫 | TRADUÇÃO: peste bubónica
+腿 | TRADUÇÃO: pierna/pata/CL:條|条 ‖ hueso de la cadera/variante antigua de 腿
+腿了 | TRADUÇÃO: (Taiwán) (jerga de internet) demasiado tarde, alguien ya lo publicó (posiblemente de "lag" confundido con "leg")
+腿后腱 | TRADUÇÃO: tendón de la corva/músculos isquiotibiales
+腿玩年 | TRADUÇÃO: (jerga) piernas espectaculares/piernas deslumbrantes
+腿肚子 | TRADUÇÃO: pantorrilla (parte carnosa posterior de la pierna)
+腿腕 | TRADUÇÃO: tobillo
+腿脚 | TRADUÇÃO: piernas y pies/capacidad para caminar/movilidad
+腿号 | TRADUÇÃO: anilla de la pata (para aves)
+腿号箍 | TRADUÇÃO: véase 腿號|腿号
+腿部 | TRADUÇÃO: pierna/miembro inferior
+膀 | TRADUÇÃO: brazo/hombro/ala ‖ usado en 吊膀子 ‖ hinchado/inflamado ‖ usado en 膀胱 ‖ variante de 膀
+膀大腰圆 | TRADUÇÃO: robusto y corpulento/fornido/de ancha complexión
+膀子 | TRADUÇÃO: brazo/hombro/ala
+膀爷 | TRADUÇÃO: hombre que anda con el torso desnudo en público
+膀胱 | TRADUÇÃO: vejiga urinaria
+膀胱气化 | TRADUÇÃO: (MTC) transformación de los fluidos en la vejiga por la acción del qi
+膀胱炎 | TRADUÇÃO: cistitis
+膀臂 | TRADUÇÃO: brazo/brazo derecho/(fig.) ayudante indispensable
+肷 | TRADUÇÃO: ijar/flanco (de un animal)
+膂 | TRADUÇÃO: columna vertebral/fuerza física
+膂力 | TRADUÇÃO: fuerza física/fuerza muscular/vigor corporal
+腽 | TRADUÇÃO: usado en 膃肭|腽肭
+腽肭 | TRADUÇÃO: oso marino ártico/(literario) obeso/gordo
+腽肭兽 | TRADUÇÃO: oso marino ártico/lobo marino de dos pelos (Callorhinus ursinus)
+腽肭脐 | TRADUÇÃO: pene y testículos de oso marino (usado en la MTC)
+膆 | TRADUÇÃO: (literario) grasa/variante de 嗉
+膇 | TRADUÇÃO: hinchazón en los pies/edema en el pie
+膈 | TRADUÇÃO: diafragma (anatomía) ‖ usado en 膈應|膈应
+膈应 | TRADUÇÃO: (coloq.) repugnante/desagradable/dar asco/incomodar
+膈肌 | TRADUÇÃO: músculo diafragma (anat.)
+膈肢 | TRADUÇÃO: variante de 胳肢
+膈膜 | TRADUÇÃO: diafragma (anat.)
+膊 | TRADUÇÃO: hombro/brazo
+膋 | TRADUÇÃO: grasa intestinal/grasa del redaño
+膌 | TRADUÇÃO: variante antigua de 瘠
+膏 | TRADUÇÃO: ungüento/pomada/pasta/crema/CL:帖 ‖ humedecer/engrasar/aplicar (crema, pomada)/mojar el pincel en tinta
+膏方 | TRADUÇÃO: preparado medicinal en pasta o jalea (MTC)
+膏立 | TRADUÇÃO: ungir/consagrar
+膏粱 | TRADUÇÃO: manjares exquisitos/comida suculenta (carnes grasas y granos finos)
+膏粱子弟 | TRADUÇÃO: (modismo) hijos consentidos de familias adineradas/señoritos mimados
+膏药 | TRADUÇÃO: parche medicinal/emplasto
+膏药旗 | TRADUÇÃO: bandera japonesa (despect.)
+膏血 | TRADUÇÃO: (lit.) grasa y sangre/fruto del arduo trabajo/sangre y sudor
+膔 | TRADUÇÃO: variante de 膘 ‖ (arcaico) borborigmo/rugido estomacal
+腘 | TRADUÇÃO: corva/fosa poplítea (med.)
+腘动脉 | TRADUÇÃO: arteria poplítea (anat.)
+腘旁腱肌 | TRADUÇÃO: músculo isquiotibial/véase también 膕繩肌|腘绳肌
+腘窝 | TRADUÇÃO: corva/fosa poplítea
+腘窝囊肿 | TRADUÇÃO: quiste de Baker/quiste poplíteo (med.)
+腘绳肌 | TRADUÇÃO: músculos isquiotibiales
+腘肌 | TRADUÇÃO: músculo poplíteo (anat.)
+腘静脉 | TRADUÇÃO: vena poplítea (anat.)
+膗 | TRADUÇÃO: (dialectal) extremadamente obeso/muy gordo
+膘 | TRADUÇÃO: grasa (generalmente de ganado)/gordura ‖ variante de 膘
+膘肥 | TRADUÇÃO: bien cebado/gordo (ganado)
+膘肥体壮 | TRADUÇÃO: (de animales de granja) gordo y fuerte/bien alimentado y robusto
+膙 | TRADUÇÃO: callo/callosidad
+膙子 | TRADUÇÃO: (dialectal) callo/dureza en la piel
+肤 | TRADUÇÃO: piel/superficie
+肤浅 | TRADUÇÃO: superficial/superficialidad
+肤色 | TRADUÇÃO: color de piel/tono de la piel/tez
+膛 | TRADUÇÃO: espacio hueco/cavidad (del tórax, cañón del arma, etc.)
+膛径 | TRADUÇÃO: calibre (de un arma de fuego)
+膛线 | TRADUÇÃO: estrías del ánima/rayado del cañón (de un arma de fuego)
+膜 | TRADUÇÃO: membrana/película/filme
+膜孔 | TRADUÇÃO: agujero de membrana (en flautas chinas como el dizi, cubierto con dimo)
+膜拜 | TRADUÇÃO: postrarse en adoración/venerar/arrodillarse en señal de culto
+膜炎 | TRADUÇÃO: inflamación de la membrana/membranitis
+膜翅目 | TRADUÇÃO: himenópteros (orden de insectos que incluye hormigas y abejas)
+膝上型 | TRADUÇÃO: portátil/tipo laptop
+膝上型电脑 | TRADUÇÃO: computadora portátil/ordenador portátil/laptop
+膝上舞 | TRADUÇÃO: baile erótico en el regazo/lap dance
+膝下 | TRADUÇÃO: al lado de las rodillas (referido a los hijos)/(fórmula de salutación en cartas a padres o abuelos)
+膝盖 | TRADUÇÃO: rodilla/(jerga de internet) arrodillarse (en señal de admiración)
+膝盖骨 | TRADUÇÃO: rótula/hueso de la rodilla
+膝袒 | TRADUÇÃO: andar de rodillas con el torso descubierto (gesto ritual de máxima disculpa)
+䏝 | TRADUÇÃO: (dialectal) molleja
+膟 | TRADUÇÃO: carne de sacrificio
+胶 | TRADUÇÃO: pegar/pegamento/goma/caucho
+胶乳 | TRADUÇÃO: látex
+胶印 | TRADUÇÃO: impresión offset
+胶卷 | TRADUÇÃO: rollo de película/carrete ‖ variante de 膠卷|胶卷
+胶原 | TRADUÇÃO: colágeno (proteína)
+胶原蛋白 | TRADUÇÃO: proteína de colágeno/colágeno
+胶原质 | TRADUÇÃO: colágeno (proteína)
+胶合 | TRADUÇÃO: encolar/unir con adhesivo
+胶合板 | TRADUÇÃO: madera contrachapada/triplay
+胶囊 | TRADUÇÃO: cápsula (farmacéutica)
+胶囊旅馆 | TRADUÇÃO: hotel cápsula
+胶囊酒店 | TRADUÇÃO: hotel cápsula
+胶圈 | TRADUÇÃO: anillo de goma/junta de goma
+胶子 | TRADUÇÃO: gluón (física de partículas)
+胶州 | TRADUÇÃO: véase 膠州市|胶州市
+胶州市 | TRADUÇÃO: Jiaozhou (ciudad a nivel de condado en Qingdao 青島市|青岛市, Shandong)
+胶州湾 | TRADUÇÃO: bahía de Jiaozhou (provincia de Shandong)
+胶布 | TRADUÇÃO: esparadrapo/cinta adhesiva médica/tela impermeabilizada
+胶带 | TRADUÇÃO: cinta adhesiva/cinta magnética
+胶接 | TRADUÇÃO: empalmar con pegamento/unión adhesiva
+胶木 | TRADUÇÃO: baquelita
+胶束 | TRADUÇÃO: micela (quím.)
+胶棒 | TRADUÇÃO: barra de pegamento
+胶水 | TRADUÇÃO: pegamento líquido/cola
+胶泥 | TRADUÇÃO: arcilla viscosa/barro plástico
+胶片 | TRADUÇÃO: película fotográfica/filme
+胶版印刷 | TRADUÇÃO: impresión offset
+胶状 | TRADUÇÃO: coloidal/gelatinoso/viscoso
+胶粒 | TRADUÇÃO: partícula coloidal/gránulo de goma
+胶结 | TRADUÇÃO: aglutinar/cementar/unión adhesiva
+胶着 | TRADUÇÃO: punto muerto/estancamiento/quedar pegado/adherirse
+胶质 | TRADUÇÃO: coloide/materia gelatinosa
+胶轮 | TRADUÇÃO: neumático de goma/rueda de goma
+胶鞋 | TRADUÇÃO: zapatos de goma/botas de goma/galochas
+胶体 | TRADUÇÃO: coloide
+胶黏 | TRADUÇÃO: pegajoso/adhesivo
+胶黏剂 | TRADUÇÃO: adhesivo/pegamento
+膣 | TRADUÇÃO: vagina
+膦 | TRADUÇÃO: fosfina/fosfano
+膨 | TRADUÇÃO: hinchado/inflado
+膨化 | TRADUÇÃO: expandir (granos, legumbres)/hacer estallar (maíz en palomitas)
+膨压 | TRADUÇÃO: presión de turgencia (bot.)
+膨大 | TRADUÇÃO: hincharse/abultarse/inflarse
+膨润土 | TRADUÇÃO: bentonita (mineralogía)
+膨胀 | TRADUÇÃO: expandirse/hincharse/dilatarse/inflarse
+膨松剂 | TRADUÇÃO: agente leudante/levadura química/impulsor
+腻 | TRADUÇÃO: grasiento/empalagoso/harto de/íntimo/cansado de
+腻人 | TRADUÇÃO: empalagoso/grasiento/aburrido/cansino
+腻友 | TRADUÇÃO: amigo íntimo/amigo entrañable
+腻味 | TRADUÇÃO: harto de/asqueado de/(de una persona) ser cargante/molestar
+腻子 | TRADUÇÃO: masilla (de pintor o vidriero)/visitante frecuente/adulador
+腻歪 | TRADUÇÃO: (de una pareja) ser melosos/acaramelados/estar harto de/cansado de (sinónimo de 膩味|腻味)
+腻烦 | TRADUÇÃO: aburrido/estar harto/estar cansado de algo/pron. en Taiwán [ni4 fan2]
+膪 | TRADUÇÃO: usado en 囊膪
+膫 | TRADUÇÃO: nombre de un estado durante la dinastía Han ‖ genitales masculinos/variante antigua de 膋
+膬 | TRADUÇÃO: variante antigua de 脆
+膰 | TRADUÇÃO: carne cocida ofrecida en sacrificio
+膲 | TRADUÇÃO: véase 三膲
+膳 | TRADUÇÃO: comidas/alimentos/manjares ‖ variante de 膳
+膳食 | TRADUÇÃO: comidas/dieta/alimentación
+膳食纤维 | TRADUÇÃO: fibra dietética
+膳魔师 | TRADUÇÃO: Thermos (marca)
+膴 | TRADUÇÃO: gran trozo de carne/carne seca
+膵 | TRADUÇÃO: páncreas
+膷 | TRADUÇÃO: picadillo de carne de res/sopa de carne
+膺 | TRADUÇÃO: pecho/recibir/asumir
+膺选 | TRADUÇÃO: ser elegido/resultar electo
+膻中 | TRADUÇÃO: véase 膻中穴
+膻中穴 | TRADUÇÃO: (MTC) punto de acupuntura Danzhong (Ren-17/CV-17), situado en el centro del pecho
+胆 | TRADUÇÃO: vesícula biliar/valor/agallas/valentía/recipiente interior (como el de un termo o el balón de fútbol)
+胆儿 | TRADUÇÃO: véase 膽子|胆子
+胆力 | TRADUÇÃO: valentía/coraje/audacia
+胆囊 | TRADUÇÃO: vesícula biliar
+胆固醇 | TRADUÇÃO: colesterol
+胆大 | TRADUÇÃO: audaz/valiente/atrevido
+胆大包天 | TRADUÇÃO: temerario/increíblemente audaz/tener un valor descomunal
+胆大妄为 | TRADUÇÃO: actuar con imprudente osadía/ser temerario/obrar sin freno
+胆子 | TRADUÇÃO: coraje/valor/agallas
+胆寒 | TRADUÇÃO: aterrorizarse/temblar de miedo
+胆小 | TRADUÇÃO: cobarde/tímido/miedoso
+胆小如鼠 | TRADUÇÃO: (modismo) tímido como un ratón/cobarde/gallina
+胆小鬼 | TRADUÇÃO: cobarde/miedica
+胆怯 | TRADUÇÃO: timidez/cobardía/tímido/temeroso
+胆战 | TRADUÇÃO: temblar de miedo/estar aterrorizado
+胆战心惊 | TRADUÇÃO: temblar de miedo (modismo)/muerto de miedo/aterrorizado
+胆敢 | TRADUÇÃO: atreverse a/tener la osadía de
+胆气 | TRADUÇÃO: coraje/valor/entereza
+胆汁 | TRADUÇÃO: bilis/hiel
+胆略 | TRADUÇÃO: coraje y astucia/valentía y perspicacia
+胆石 | TRADUÇÃO: cálculo biliar
+胆石症 | TRADUÇÃO: colelitiasis/litiasis biliar
+胆石绞痛 | TRADUÇÃO: cólico biliar
+胆破 | TRADUÇÃO: asustarse de muerte/morirse de miedo
+胆管 | TRADUÇÃO: conducto biliar/vía biliar
+胆红素 | TRADUÇÃO: bilirrubina
+胆结石 | TRADUÇÃO: cálculo biliar/piedra en la vesícula
+胆绿素 | TRADUÇÃO: biliverdina
+胆肥 | TRADUÇÃO: (coloq.) atrevido/descarado/tener muchas agallas
+胆色素 | TRADUÇÃO: pigmento biliar/bilirrubina
+胆识 | TRADUÇÃO: coraje y visión/audacia y perspicacia
+胆道 | TRADUÇÃO: vías biliares/conducto biliar
+胆量 | TRADUÇÃO: coraje/valor/agallas
+胆颤心惊 | TRADUÇÃO: preso del pánico/temblando de miedo
+胆惊心颤 | TRADUÇÃO: véase 心驚膽戰|心惊胆战
+胆魄 | TRADUÇÃO: audacia/valentía/temple
+胆碱 | TRADUÇÃO: colina (amina relacionada con el complejo de vitamina B)
+胆碱酯酶 | TRADUÇÃO: colinesterasa (bioquím.)
+脍 | TRADUÇÃO: carne o pescado finamente picado
+脍炙人口 | TRADUÇÃO: en boca de todos (modismo)/ampliamente elogiado/popularmente aclamado
+脓 | TRADUÇÃO: pus
+脓包 | TRADUÇÃO: pústula/(fig.) inútil/bueno para nada/persona pusilánime
+脓毒症 | TRADUÇÃO: septicemia/sepsis
+脓水 | TRADUÇÃO: secreción purulenta/pus
+脓泡 | TRADUÇÃO: pústula/grano con pus/igual que 膿包|脓包
+脓液 | TRADUÇÃO: pus/líquido purulento
+脓痂疹 | TRADUÇÃO: impétigo (med.)
+脓疱 | TRADUÇÃO: pústula/grano de pus
+脓肿 | TRADUÇÃO: absceso
+臀 | TRADUÇÃO: nalgas/glúteos/trasero/ancas ‖ variante antigua de 臀
+臀位 | TRADUÇÃO: presentación podálica/presentación de nalgas (obstetricia)
+臀位分娩 | TRADUÇÃO: parto de nalgas/parto en presentación podálica (med.)
+臀位取胎术 | TRADUÇÃO: extracción de nalgas/extracción en podálica (med.)
+臀围 | TRADUÇÃO: contorno de cadera/perímetro de caderas
+臀大肌 | TRADUÇÃO: músculo glúteo mayor (anat.)
+臀尖 | TRADUÇÃO: rabadilla de cerdo/cuadril de cerdo
+臀推 | TRADUÇÃO: empuje de cadera (ejercicio)/masaje con los glúteos
+臀沟 | TRADUÇÃO: surco glúteo
+臀瓣 | TRADUÇÃO: lóbulo anal
+臀产式分娩 | TRADUÇÃO: parto podálico/parto de nalgas (med.)
+臀疣 | TRADUÇÃO: callosidades isquiáticas (zool.)
+臀肌 | TRADUÇÃO: músculo glúteo/glúteo
+臀部 | TRADUÇÃO: nalgas/glúteos/trasero
+臀鳍 | TRADUÇÃO: aleta anal
+臁 | TRADUÇÃO: cara lateral de la parte inferior de la pierna
+臂 | TRADUÇÃO: brazo
+臂力 | TRADUÇÃO: fuerza del brazo/fuerza de brazos
+臂力棒 | TRADUÇÃO: barra extensora de brazos/resorte de flexión (aparato de gimnasia)
+臂展 | TRADUÇÃO: envergadura de brazos
+臂弯 | TRADUÇÃO: flexura del codo/hueco del brazo
+臂章 | TRADUÇÃO: brazalete/insignia de brazo/escudo de manga
+臂纱 | TRADUÇÃO: brazalete de luto/cinta de brazo
+臂膀 | TRADUÇÃO: brazo/hombro
+臂膊 | TRADUÇÃO: brazo
+臃 | TRADUÇÃO: véase 臃腫|臃肿
+臃肿 | TRADUÇÃO: obeso/hinchado/abultado/(fig.) (de una organización) hipertrofiado o con exceso de personal
+臄 | TRADUÇÃO: paladar/salchicha
+臆 | TRADUÇÃO: pecho/sentimientos íntimos/subjetivo
+臆想 | TRADUÇÃO: idea subjetiva/imaginación infundada/fantasía
+臆想狂 | TRADUÇÃO: mitomanía/mitómano
+臆想症 | TRADUÇÃO: mitomanía
+臆断 | TRADUÇÃO: suponer arbitrariamente/juicio subjetivo/conjetura infundada
+臆测 | TRADUÇÃO: especular/conjeturar/hacer conjeturas
+臆羚 | TRADUÇÃO: rebeco/gamuza (Rupicapra rupicapra)
+臆见 | TRADUÇÃO: opinión subjetiva/punto de vista infundado
+臆造 | TRADUÇÃO: inventar de la nada/fantasear/fabricar
+臇 | TRADUÇÃO: guiso espeso de carne o pescado/rico en grasa
+脸 | TRADUÇÃO: cara/rostro/mejilla/CL:張|张,個|个
+脸上贴金 | TRADUÇÃO: (lit.) pegar pan de oro en la cara de una estatua (modismo)/(fig.) adularse/echarse flores a uno mismo o a otro
+脸厚 | TRADUÇÃO: desvergonzado/descarado/tener la cara dura
+脸型 | TRADUÇÃO: forma de la cara/fisonomía
+脸基尼 | TRADUÇÃO: facekini (máscara de protección solar para la cara)
+脸大 | TRADUÇÃO: atrevido/sin vergüenza/descarado
+脸孔 | TRADUÇÃO: rostro/cara
+脸巴子 | TRADUÇÃO: mejilla/carrillo
+脸形 | TRADUÇÃO: variante de 臉型|脸型, forma de la cara/fisonomía
+脸书 | TRADUÇÃO: Facebook
+脸皮 | TRADUÇÃO: piel de la cara/vergüenza/pudor
+脸皮厚 | TRADUÇÃO: descarado/sinvergüenza/cara dura
+脸皮嫩 | TRADUÇÃO: tímido/vergonzoso/pudoroso
+脸皮薄 | TRADUÇÃO: tímido/muy susceptible/vergonzoso
+脸盆 | TRADUÇÃO: palangana/lavamanos/CL:個|个
+脸盘儿 | TRADUÇÃO: contorno facial/forma de la cara/rostro
+脸盲 | TRADUÇÃO: ceguera facial/prosopagnósico
+脸盲症 | TRADUÇÃO: prosopagnosia/ceguera para reconocer rostros
+脸相 | TRADUÇÃO: semblante/rasgos faciales/fisonomía
+脸红 | TRADUÇÃO: sonrojarse/ruborizarse (por vergüenza o indignación)
+脸红筋暴 | TRADUÇÃO: rojo y tenso de ira (modismo)
+脸红筋涨 | TRADUÇÃO: encendido y enfurecido (modismo)
+脸红脖子粗 | TRADUÇÃO: con la cara roja y el cuello hinchado de furia/extremadamente enojado
+脸罩 | TRADUÇÃO: visera/máscara facial/careta
+脸膛 | TRADUÇÃO: complexión facial/forma del rostro/cara
+脸色 | TRADUÇÃO: color de la cara/aspecto del rostro/semblante
+脸薄 | TRADUÇÃO: tímido/susceptible/vergonzoso
+脸蛋 | TRADUÇÃO: mejilla/carita/rostro
+脸蛋儿 | TRADUÇÃO: mejilla/carita (generalmente de un niño)
+脸蛋子 | TRADUÇÃO: mejilla/carrillo
+脸谱 | TRADUÇÃO: Facebook ‖ maquillaje facial de la ópera tradicional china/máscara teatral
+脸部 | TRADUÇÃO: cara/rostro
+脸部表情 | TRADUÇÃO: expresión facial/gesto facial
+脸都绿了 | TRADUÇÃO: ponérsele la cara verde (modismo)/verse pálido o descompuesto/asustarse muchísimo
+脸面 | TRADUÇÃO: cara/rostro/reputación/honor
+脸颊 | TRADUÇÃO: mejilla/carrillo
+脸庞 | TRADUÇÃO: rostro/cara/semblante
+臊 | TRADUÇÃO: oler a orina/tener olor a orín (o sudor) ‖ vergüenza/timidez/abochornar/avergonzar
+臊子 | TRADUÇÃO: (dialectal) carne picada o en dados (como acompañamiento de fideos)
+臊气 | TRADUÇÃO: olor a orina/hedor fétido/orín
+臊眉耷眼 | TRADUÇÃO: (dialectal) avergonzado/cabizbajo/con mirada abatida
+臊腥 | TRADUÇÃO: hedor fétido/olor rancio o a pescado
+臌 | TRADUÇÃO: hidrópico/hinchado/abultado
+臌胀 | TRADUÇÃO: variante de 鼓脹|鼓胀
+脐 | TRADUÇÃO: ombligo/cordón umbilical/placa ventral de un cangrejo
+脐屎 | TRADUÇÃO: meconio (primeras heces del recién nacido)/secreción umbilical
+脐带 | TRADUÇÃO: cordón umbilical
+脐梗 | TRADUÇÃO: cordón umbilical
+脐橙 | TRADUÇÃO: naranja navel/naranja de ombligo
+脐装 | TRADUÇÃO: top corto/ombliguera/crop top
+脐轮 | TRADUÇÃO: Manipura (chakra del plexo solar en el abdomen superior)
+膑 | TRADUÇÃO: variante de 髕|髌
+膑刑 | TRADUÇÃO: amputación de las rótulas (antiguo castigo corporal)
+膑骨 | TRADUÇÃO: variante de 髕骨|髌骨
+臐 | TRADUÇÃO: sopa de cordero
+臑 | TRADUÇÃO: bíceps (en la medicina china)/(arcaico) extremidades anteriores del ganado
+臖 | TRADUÇÃO: hincharse/hinchazón
+腊克 | TRADUÇÃO: laca (préstamo lingüístico)
+腊八节 | TRADUÇÃO: festival de Laba (el 8.º día del duodécimo mes lunar)
+腊八粥 | TRADUÇÃO: gachas de Laba/arroz con frutos secos del festival Laba
+腊月 | TRADUÇÃO: duodécimo mes del calendario lunar
+腊梅 | TRADUÇÃO: calicanto del Japón/Chimonanthus praecox
+腊肉 | TRADUÇÃO: carne curada al aire en invierno (especialmente en el duodécimo mes lunar)
+腊肠 | TRADUÇÃO: salchicha china curada/salchichón chino
+胪 | TRADUÇÃO: vientre/piel/declarar/transmitir información/exponer
+臛 | TRADUÇÃO: (literario) caldo de carne
+裸 | TRADUÇÃO: variante de 裸 ‖ desnudo/descubierto ‖ variante de 裸
+臞 | TRADUÇÃO: variante de 癯
+脏 | TRADUÇÃO: vísceras/órganos internos (anatomía) ‖ sucio/manchado/ensuciar
+脏器 | TRADUÇÃO: órganos internos/vísceras
+脏腑 | TRADUÇÃO: órganos internos/vísceras (en la MTC)
+脏躁 | TRADUÇÃO: histeria (síndrome de agitación de órganos en la MTC)
+脔 | TRADUÇÃO: pedazo pequeño de carne/carne en rodajas finas
+臜 | TRADUÇÃO: usado en 腌臢|腌臢/pron. en Taiwán [zang1]
+臣 | TRADUÇÃO: apellido Chen ‖ ministro/funcionario de la corte imperial/súbdito/yo, su servidor (tratamiento humilde ante el soberano)/radical Kangxi 131
+臣一主二 | TRADUÇÃO: el vasallo tiene derecho a elegir al soberano a quien sirve (antiguo proverbio)
+臣下 | TRADUÇÃO: cortesano/ministro feudal/súbdito
+臣仆 | TRADUÇÃO: siervo/servidor/criado
+臣僚 | TRADUÇÃO: cortesanos/funcionarios imperiales
+臣妾 | TRADUÇÃO: (literario) yo, su servidora (autodenominación humilde de una mujer ante el monarca)/(arcaico) esclavos y siervas/súbditos
+臣子 | TRADUÇÃO: súbdito/ministro de la corte feudal
+臣属 | TRADUÇÃO: súbdito/vasallo
+臣服 | TRADUÇÃO: someterse a/rendir pleitesía/reconocer lealtad a
+臣民 | TRADUÇÃO: súbdito (de un reino o monarca)
+臣虏 | TRADUÇÃO: esclavo/cautivo sometido
+卧 | TRADUÇÃO: acostarse/tumbarse/echarse
+卧不安 | TRADUÇÃO: insomnio inquieto/sueño intranquilo
+卧位 | TRADUÇÃO: litera/posición acostada
+卧佛 | TRADUÇÃO: Buda reclinado
+卧倒 | TRADUÇÃO: tenderse en el suelo/echarse cuerpo a tierra
+卧内 | TRADUÇÃO: dormitorio/habitación interior
+卧具 | TRADUÇÃO: ropa de cama/artículos de cama
+卧室 | TRADUÇÃO: dormitorio/habitación/CL:間|间
+卧床 | TRADUÇÃO: guardar cama/estar encamado/cama
+卧底 | TRADUÇÃO: infiltrado/agente encubierto/topo
+卧式 | TRADUÇÃO: horizontal/de diseño horizontal/realizado en posición acostada
+卧房 | TRADUÇÃO: dormitorio/coche cama
+卧推 | TRADUÇÃO: press de banca (ejercicio)
+卧果儿 | TRADUÇÃO: huevo escalfado/huevo poché
+卧榻 | TRADUÇÃO: diván/lecho/cama estrecha
+卧槽 | TRADUÇÃO: (jerga de internet) (sustituto eufemístico de 我肏) ¡mierda!/¡hostia!/¡no jodas!
+卧病 | TRADUÇÃO: postrado en cama por enfermedad/enfermo en cama
+卧舱 | TRADUÇÃO: camarote con literas/cabina con literas (en barco o tren)
+卧草 | TRADUÇÃO: (sustituto eufemístico de 我肏) ¡mierda!/¡ostras!/(en fútbol) perder tiempo fingiendo una falta
+卧薪尝胆 | TRADUÇÃO: (lit.) dormir sobre leña y probar hiel (modismo)/(fig.) soportar penalidades para preparar la venganza/perseverar con autodeterminación ‖ variante de 臥薪嘗膽|卧薪尝胆
+卧虎 | TRADUÇÃO: tigre agazapado/(fig.) figura relevante en la sombra/talento no revelado
+卧虎藏龙 | TRADUÇÃO: El tigre y el dragón (película dirigida por Ang Lee 李安) ‖ (lit.) tigre agazapado, dragón oculto (modismo)/(fig.) talentos ocultos/personas extraordinarias no descubiertas
+卧蚕 | TRADUÇÃO: párpados inferiores prominentes (rasgo estético valorado en la fisonomía china)
+卧车 | TRADUÇÃO: coche cama (ferrocarril)
+卧轨 | TRADUÇÃO: tirarse a las vías del tren/acostarse sobre las vías férreas
+卧铺 | TRADUÇÃO: litera de tren/coche cama
+卧龙 | TRADUÇÃO: sobrenombre de Zhuge Liang 諸葛亮|诸葛亮/reserva natural del panda gigante de Wolong 臥龍大熊貓保護區|卧龙大熊猫保护区 en el condado de Wenchuan, Sichuan/distrito de Wolong en la ciudad de Nanyang 南陽|南阳, Henan ‖ dragón durmiente/(fig.) persona de talento sobresaliente que vive en el anonimato
+卧龙区 | TRADUÇÃO: distrito de Wolong en la ciudad de Nanyang 南陽市|南阳市, Henan
+卧龙大熊猫保护区 | TRADUÇÃO: Reserva Natural del Panda Gigante de Wolong en el condado de Wenchuan, Sichuan
+卧龙岗 | TRADUÇÃO: Wollongong (Australia)
+卧龙自然保护区 | TRADUÇÃO: Reserva Natural Nacional de Wolong en el condado de Wenchuan, Sichuan
+臧 | TRADUÇÃO: apellido Zang ‖ bueno/correcto ‖ variante antigua de 藏/variante antigua de 臟|脏
+臧克家 | TRADUÇÃO: Zang Kejia (1905-2004), poeta chino
+临 | TRADUÇÃO: estar frente a/dar a/acercarse a/estar a punto de/justo antes de
+临了 | TRADUÇÃO: al final/en el último momento
+临刑 | TRADUÇÃO: frente a la ejecución/a punto de ser ejecutado
+临别 | TRADUÇÃO: justo antes de la despedida/al momento de partir
+临别赠言 | TRADUÇÃO: palabras de despedida/consejos al momento de la partida
+临到 | TRADUÇÃO: sobrevenir/llegar a ocurrir/acontecer
+临危 | TRADUÇÃO: moribundo/en peligro de muerte/en el lecho de muerte
+临危受命 | TRADUÇÃO: asumir el mando en tiempos de crisis (modismo)/tomar responsabilidades ante una emergencia
+临危授命 | TRADUÇÃO: dar la vida en momentos de crisis/sacrificarse por una causa
+临问 | TRADUÇÃO: consultar personalmente a los subordinados (un alto funcionario)
+临城 | TRADUÇÃO: véase 臨城縣|临城县
+临城县 | TRADUÇÃO: condado de Lincheng en la ciudad de Xingtai 邢臺市|邢台市, Hebei
+临场 | TRADUÇÃO: estar presente en el lugar (en un examen, actuación, competición)/en directo/improvisado
+临场感 | TRADUÇÃO: sensación de presencia/sentirse verdaderamente allí
+临夏 | TRADUÇÃO: véase 臨夏回族自治州|临夏回族自治州/véase 臨夏市|临夏市/véase 臨夏縣|临夏县
+临夏回族自治州 | TRADUÇÃO: prefectura autónoma hui de Linxia, en la provincia de Gansu 甘肅省|甘肃省
+临夏州 | TRADUÇÃO: véase 臨夏回族自治州|临夏回族自治州
+临夏市 | TRADUÇÃO: ciudad de Linxia (ciudad a nivel de condado en la prefectura autónoma hui de Linxia 臨夏回族自治州|临夏回族自治州, Gansu)
+临夏县 | TRADUÇÃO: condado de Linxia en la prefectura autónoma hui de Linxia 臨夏回族自治州|临夏回族自治州, Gansu
+临安 | TRADUÇÃO: véase 臨安區|临安区
+临安区 | TRADUÇÃO: distrito de Lin'an en la ciudad de Hangzhou 杭州市, Zhejiang
+临写 | TRADUÇÃO: copiar (un modelo caligráfico o pictórico)
+临屯郡 | TRADUÇÃO: comandancia de Lintun (108 a.C.-c. 300 d.C., una de las cuatro comandancias Han en el norte de Corea)
+临川 | TRADUÇÃO: véase 臨川區|临川区
+临川区 | TRADUÇÃO: distrito de Linchuan en la ciudad de Fuzhou 撫州市|抚州市, Jiangxi
+临川羡鱼 | TRADUÇÃO: véase 臨淵羨魚，不如退而結網|临渊羡鱼，不如退而结网
+临帖 | TRADUÇÃO: practicar caligrafía copiando un modelo
+临平 | TRADUÇÃO: véase 臨平區|临平区
+临平区 | TRADUÇÃO: distrito de Linping en la ciudad de Hangzhou 杭州市, Zhejiang
+临幸 | TRADUÇÃO: visitar en persona (el emperador)/visitar a una concubina (el emperador)
+临床 | TRADUÇÃO: clínico (med.)
+临床死亡 | TRADUÇÃO: muerte clínica
+临床特征 | TRADUÇÃO: característica clínica/rasgo diagnóstico
+临床医学 | TRADUÇÃO: medicina clínica
+临战 | TRADUÇÃO: en vísperas de la batalla/justo antes del combate
+临摹 | TRADUÇÃO: copiar (un modelo de caligrafía o pintura)
+临时 | TRADUÇÃO: provisional/temporal/en el último momento/ad hoc
+临时保姆 | TRADUÇÃO: niñera temporal/cuidadora ocasional
+临时分居 | TRADUÇÃO: separación provisional/separación temporal
+临时工 | TRADUÇÃO: trabajador temporal/empleo eventual/trabajo eventual
+临时抱佛脚 | TRADUÇÃO: (modismo) véase 抱佛腳|抱佛脚
+临时政府 | TRADUÇÃO: gobierno provisional
+临时演员 | TRADUÇÃO: extra (en el cine)/figurante
+临时贷款 | TRADUÇÃO: crédito puente/préstamo provisional
+临月儿 | TRADUÇÃO: mes previsto del parto
+临朐 | TRADUÇÃO: véase 臨朐縣|临朐县
+临朐县 | TRADUÇÃO: condado de Linqu en la ciudad de Weifang 濰坊市|潍坊市, Shandong
+临朝 | TRADUÇÃO: presidir la corte/gobernar desde el trono imperial (aplicado esp. a emperatrices viudas o regentes)
+临桂 | TRADUÇÃO: véase 臨桂區|临桂区
+临桂区 | TRADUÇÃO: distrito de Lingui en la ciudad de Guilin 桂林市, Guangxi
+临武 | TRADUÇÃO: véase 臨武縣|临武县
+临武县 | TRADUÇÃO: condado de Linwu en la ciudad de Chenzhou 郴州市, Hunan
+临死 | TRADUÇÃO: ante las puertas de la muerte/a punto de morir/en agonía
+临死不怯 | TRADUÇÃO: serenidad ante la muerte/afrontar la muerte con entereza
+临水 | TRADUÇÃO: frente al agua/a orillas del agua
+临江 | TRADUÇÃO: véase 臨江市|临江市
+临江市 | TRADUÇÃO: ciudad de Linjiang (ciudad a nivel de condado en Baishan 白山市, Jilin)
+临汾 | TRADUÇÃO: véase 臨汾市|临汾市
+临汾市 | TRADUÇÃO: ciudad de Linfen (ciudad-prefectura en la provincia de Shanxi 山西省)
+临沂 | TRADUÇÃO: véase 臨沂市|临沂市
+临沂市 | TRADUÇÃO: ciudad de Linyi (ciudad-prefectura en la provincia de Shandong 山東省|山东省)
+临沭 | TRADUÇÃO: véase 臨沭縣|临沭县
+临沭县 | TRADUÇÃO: condado de Linshu en la ciudad de Linyi 臨沂市|临沂市, Shandong
+临河 | TRADUÇÃO: véase 臨河區|临河区
+临河区 | TRADUÇÃO: distrito de Linhe en la ciudad de Bayannur 巴彥淖爾市|巴彦淖尔市, Mongolia Interior
+临河羡鱼 | TRADUÇÃO: véase 臨淵羨魚，不如退而結網|临渊羡鱼，不如退而结网
+临泉 | TRADUÇÃO: véase 臨泉縣|临泉县
+临泉县 | TRADUÇÃO: condado de Linquan en la ciudad de Fuyang 阜陽市|阜阳市, Anhui
+临洮 | TRADUÇÃO: véase 臨洮縣|临洮县
+临洮县 | TRADUÇÃO: condado de Lintao en la ciudad de Dingxi 定西市, Gansu
+临海 | TRADUÇÃO: véase 臨海市|临海市 ‖ dar al mar/frente al mar/con vistas al mar
+临海市 | TRADUÇÃO: ciudad de Linhai (ciudad a nivel de condado en Taizhou 台州市, Zhejiang)
+临海水土志 | TRADUÇÃO: Registro geográfico del litoral (c. 275) de Shen Ying 沈瑩|沈莹
+临淄 | TRADUÇÃO: véase 臨淄區|临淄区
+临淄区 | TRADUÇÃO: distrito de Linzi en la ciudad de Zibo 淄博市, Shandong
+临渊羡鱼 | TRADUÇÃO: véase 臨淵羨魚，不如退而結網|临渊羡鱼，不如退而结网
+临渊羡鱼，不如退而结网 | TRADUÇÃO: más vale ir a tejer una red que quedarse a orillas del estanque deseando los peces (modismo)/hay que tomar medidas prácticas para alcanzar un objetivo
+临清 | TRADUÇÃO: véase 臨清市|临清市
+临清市 | TRADUÇÃO: ciudad de Linqing (ciudad a nivel de condado en Liaocheng 聊城市, Shandong)
+临渭 | TRADUÇÃO: véase 臨渭區|临渭区
+临渭区 | TRADUÇÃO: distrito de Linwei en la ciudad de Weinan 渭南市, Shaanxi
+临渴掘井 | TRADUÇÃO: (lit.) no cavar un pozo hasta tener sed/(fig.) no prepararse con tiempo y buscar ayuda en el último momento (modismo)
+临渴穿井 | TRADUÇÃO: (lit.) cavar un pozo ante la sed (modismo)/(fig.) no tomar previsiones y actuar cuando ya es tarde
+临湘 | TRADUÇÃO: véase 臨湘市|临湘市
+临湘市 | TRADUÇÃO: ciudad de Linxiang (ciudad a nivel de condado en Yueyang 岳陽市|岳阳市, Hunan)
+临沧 | TRADUÇÃO: véase 臨滄市|临沧市
+临沧市 | TRADUÇÃO: ciudad de Lincang (ciudad-prefectura en la provincia de Yunnan 雲南省|云南省)
+临演 | TRADUÇÃO: figurante/extra de cine (abrev. de 臨時演員|临时演员)
+临漳 | TRADUÇÃO: véase 臨漳縣|临漳县
+临漳县 | TRADUÇÃO: condado de Linzhang en la ciudad de Handan 邯鄲市|邯郸市, Hebei
+临颍 | TRADUÇÃO: véase 臨潁縣|临颍县
+临颍县 | TRADUÇÃO: condado de Linying en la ciudad de Luohe 漯河市, Henan
+临潭 | TRADUÇÃO: véase 臨潭縣|临潭县
+临潭县 | TRADUÇÃO: condado de Lintan en la prefectura autónoma tibetana de Gannan 甘南藏族自治州, Gansu
+临潼 | TRADUÇÃO: véase 臨潼區|临潼区
+临潼区 | TRADUÇÃO: distrito de Lintong en la ciudad de Xi'an 西安市, Shaanxi
+临泽 | TRADUÇÃO: véase 臨澤縣|临泽县
+临泽县 | TRADUÇÃO: condado de Linze en la ciudad de Zhangye 張掖市|张掖市, Gansu
+临澧 | TRADUÇÃO: véase 臨澧縣|临澧县
+临澧县 | TRADUÇÃO: condado de Linli en la ciudad de Changde 常德市, Hunan
+临猗 | TRADUÇÃO: véase 臨猗縣|临猗县
+临猗县 | TRADUÇÃO: condado de Linyi en la ciudad de Yuncheng 運城市|运城市, Shanxi
+临产 | TRADUÇÃO: a punto de dar a luz/entrar en trabajo de parto
+临界 | TRADUÇÃO: crítico/límite
+临界状态 | TRADUÇÃO: estado crítico/criticidad
+临界质量 | TRADUÇÃO: masa crítica
+临界点 | TRADUÇÃO: punto crítico/punto límite
+临盆 | TRADUÇÃO: en el parto/dar a luz/en trabajo de parto
+临眺 | TRADUÇÃO: otear/mirar a lo lejos desde un lugar elevado
+临终 | TRADUÇÃO: agonizante/en el lecho de muerte/en los últimos momentos de vida
+临终关怀 | TRADUÇÃO: cuidados paliativos/atención terminal/hospicio
+临县 | TRADUÇÃO: condado de Lin en la ciudad de Lüliang 呂梁市|吕梁市, Shanxi
+临翔 | TRADUÇÃO: véase 臨翔區|临翔区
+临翔区 | TRADUÇÃO: distrito de Linxiang en la ciudad de Lincang 臨滄市|临沧市, Yunnan
+临蓐 | TRADUÇÃO: en el parto/dar a luz
+临行 | TRADUÇÃO: antes de partir/a punto de marcharse/en el momento de salir
+临街 | TRADUÇÃO: frente a la calle/que da a la calle
+临街房 | TRADUÇÃO: local comercial a pie de calle/casa que da a la calle
+临西 | TRADUÇÃO: véase 臨西縣|临西县
+临西县 | TRADUÇÃO: condado de Linxi en la ciudad de Xingtai 邢臺市|邢台市, Hebei
+临视 | TRADUÇÃO: inspeccionar personalmente/observar en persona
+临走 | TRADUÇÃO: antes de marcharse/al salir/en el momento de partir
+临近 | TRADUÇÃO: acercarse/aproximarse/estar próximo (en el tiempo o en el espacio)
+临邑 | TRADUÇÃO: véase 臨邑縣|临邑县
+临邑县 | TRADUÇÃO: condado de Linyi en la ciudad de Dezhou 德州市, Shandong
+临门 | TRADUÇÃO: llegar a la puerta de casa/llegar a la meta/(en fútbol) frente a la portería
+临门一脚 | TRADUÇÃO: disparo a puerta/remate decisivo/empujón final en un momento crucial
+临阵 | TRADUÇÃO: antes de la batalla/frente al campo de batalla
+临阵磨枪 | TRADUÇÃO: (lit.) afilar la lanza solo antes de entrar en combate (modismo)/(fig.) prepararse a última hora
+临阵脱逃 | TRADUÇÃO: véase 臨陣退縮|临阵退缩
+临阵退缩 | TRADUÇÃO: acobardarse al acercarse el combate (modismo)/echarse atrás a última hora
+临难 | TRADUÇÃO: en peligro/ante el peligro o desastre
+临头 | TRADUÇÃO: sobrevenir/caer encima/ser inminente
+临高 | TRADUÇÃO: condado de Lingao (Hainan)
+临高县 | TRADUÇÃO: condado de Lingao (Hainan)
+临魁 | TRADUÇÃO: Linkui (c. 2000 a.C., segundo de los legendarios Emperadores Yan 炎帝 descendientes de Shennong 神農|神农)
+自 | TRADUÇÃO: (en compuestos) uno mismo/sí mismo/desde/a partir de/naturalmente/por supuesto
+自上而下 | TRADUÇÃO: de arriba abajo (modismo)/descendente/de arriba hacia abajo
+自下而上 | TRADUÇÃO: de abajo arriba (modismo)/ascendente/desde las bases hacia arriba
+自不待言 | TRADUÇÃO: ni que decir tiene/huelga decir/es evidente
+自不必说 | TRADUÇÃO: (modismo) sobra decirlo/huelga decir/por descontado
+自不量力 | TRADUÇÃO: sobrestimar las propias capacidades (modismo)/presumir más de lo que uno puede
+自主 | TRADUÇÃO: actuar con autonomía/ser autónomo/decidir por uno mismo
+自主权 | TRADUÇÃO: autonomía/derecho a la autodeterminación/facultad de actuar independientemente
+自主神经系统 | TRADUÇÃO: sistema nervioso autónomo
+自主系统 | TRADUÇÃO: sistema autónomo
+自乘 | TRADUÇÃO: (mat.) multiplicar por sí mismo/elevar a una potencia/(esp.) elevar al cuadrado
+自干五 | TRADUÇÃO: (neologismo) internauta que apoya voluntariamente al gobierno chino sin recibir pago (abrev. de 自帶乾糧的五毛|自带干粮的五毛)
+自乱阵脚 | TRADUÇÃO: (modismo) perder los estribos/entrar en pánico/perder la compostura
+自以为是 | TRADUÇÃO: creerse infalible (modismo)/ser obstinado/creerse dueño de la verdad
+自作主张 | TRADUÇÃO: (modismo) actuar por cuenta propia/tomar decisiones sin consultar
+自作多情 | TRADUÇÃO: hacerse falsas ilusiones amorosas/creerse falsamente correspondido/dar afecto no correspondido
+自作孽 | TRADUÇÃO: buscarse su propia ruina/acarrearse desgracias a uno mismo
+自作聪明 | TRADUÇÃO: (modismo) dárselas de listo/creerse muy inteligente
+自作自受 | TRADUÇÃO: (modismo) recoger lo que se siembra/pagar las consecuencias de los propios actos/beber de su propia medicina
+自来 | TRADUÇÃO: desde el principio/desde siempre/venir por propia voluntad/espontáneo
+自来卷 | TRADUÇÃO: pelo rizado natural/ondulado natural
+自来水 | TRADUÇÃO: agua corriente/agua del grifo/agua potable
+自来水笔 | TRADUÇÃO: pluma estilográfica
+自来水管 | TRADUÇÃO: tubería de agua corriente/conducto de agua potable
+自来熟 | TRADUÇÃO: (coloq.) persona sociable por naturaleza/amigable con desconocidos desde el primer momento/que entra en confianza rápidamente
+自便 | TRADUÇÃO: hacer lo que a uno le plazca/servirse con libertad/no incomodarse
+自保 | TRADUÇÃO: autodefensa/protegerse a uno mismo/autopreservación
+自信 | TRADUÇÃO: tener confianza en uno mismo/autoconfianza/seguridad en sí mismo
+自信心 | TRADUÇÃO: confianza en uno mismo/autoestima/seguridad
+自修 | TRADUÇÃO: estudiar por cuenta propia/autodidaxia/estudio individual
+自个儿 | TRADUÇÃO: (dialectal) uno mismo/por cuenta propia
+自备 | TRADUÇÃO: traer el propio.../provisto por uno mismo/propio
+自傲 | TRADUÇÃO: arrogante/orgullo de sí mismo/engreído
+自传 | TRADUÇÃO: autobiografía
+自刎 | TRADUÇÃO: degollarse/suicidarse cortándose el cuello
+自制 | TRADUÇÃO: autocontrolarse/tener autocontrol/autocontrol/dominio de sí mismo ‖ de fabricación propia/hecho por uno mismo/casero/artesanal
+自制力 | TRADUÇÃO: autocontrol/fuerza de voluntad/autodominio
+自创 | TRADUÇÃO: crear por uno mismo/creación propia/inventar
+自力更生 | TRADUÇÃO: valerse por sus propios medios (modismo)/autosuficiencia/regeneración por propio esfuerzo
+自助 | TRADUÇÃO: autoservicio
+自助洗衣店 | TRADUÇÃO: lavandería de autoservicio/lavandería automática
+自助游 | TRADUÇÃO: viaje independiente/turismo por cuenta propia
+自助餐 | TRADUÇÃO: bufé/comida de autoservicio/buffet
+自勉 | TRADUÇÃO: animarse a uno mismo/autoestimularse
+自动 | TRADUÇÃO: automático/voluntariamente/por iniciativa propia
+自动付款机 | TRADUÇÃO: cajero automático/máquina de pago automático
+自动免疫 | TRADUÇÃO: inmunidad activa
+自动化 | TRADUÇÃO: automatizar/automatización
+自动化技术 | TRADUÇÃO: tecnología de automatización
+自动取款机 | TRADUÇÃO: cajero automático (ATM)
+自动售货机 | TRADUÇÃO: máquina expendedora/máquina de venta automática
+自动扶梯 | TRADUÇÃO: escalera mecánica
+自动挂挡 | TRADUÇÃO: cambio automático de marcha
+自动控制 | TRADUÇÃO: control automático
+自动提款机 | TRADUÇÃO: cajero automático
+自动换刀装置 | TRADUÇÃO: cambiador automático de herramientas (ATC)
+自动挡 | TRADUÇÃO: transmisión automática/caja automática
+自动楼梯 | TRADUÇÃO: escalera mecánica
+自动柜员机 | TRADUÇÃO: cajero automático (ATM)
+自动步道 | TRADUÇÃO: pasillo rodante/cinta móvil peatonal
+自动自发 | TRADUÇÃO: por iniciativa propia/de forma espontánea
+自动装箱 | TRADUÇÃO: autoboxing (inform.)
+自动贩卖机 | TRADUÇÃO: máquina expendedora
+自动车 | TRADUÇÃO: automóvil/vehículo a motor
+自动铅笔 | TRADUÇÃO: portaminas
+自动离合 | TRADUÇÃO: embrague automático
+自动体外除颤器 | TRADUÇÃO: desfibrilador externo automático (DEA)
+自动点唱机 | TRADUÇÃO: gramola/sinfonola/jukebox
+自卑 | TRADUÇÃO: tener complejo de inferioridad/sentirse inferior/menospreciarse
+自卑心理 | TRADUÇÃO: complejo de inferioridad/sentimiento de inferioridad
+自卑情绪 | TRADUÇÃO: sentimiento de inferioridad/complejo de inferioridad
+自卸车 | TRADUÇÃO: camión volquete/camión basculante
+自反 | TRADUÇÃO: reflexionar sobre uno mismo/introspección/(mat.) reflexivo
+自取 | TRADUÇÃO: servirse uno mismo (comida)/buscarse (problemas)/acarrearse (desgracias)
+自取其咎 | TRADUÇÃO: véase 咎由自取
+自取其辱 | TRADUÇÃO: ponerse en ridículo (modismo)/humillarse a sí mismo/buscarse la propia vergüenza
+自取灭亡 | TRADUÇÃO: buscar su propia ruina (modismo)/cavar su propia tumba
+自古 | TRADUÇÃO: desde la antigüedad/desde tiempos inmemoriales

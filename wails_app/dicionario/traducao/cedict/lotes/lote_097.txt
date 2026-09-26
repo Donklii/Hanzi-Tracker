@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+制陶工人 | TRADUÇÃO: potter
+制鞋匠 | TRADUÇÃO: shoemaker/cobbler
+制鞋工人 | TRADUÇÃO: shoemaker/cobbler
+裾 | TRADUÇÃO: garment
+褀 | TRADUÇÃO: variant of 綥
+褂 | TRADUÇÃO: (bound form) Chinese-style unlined garment; gown
+褂子 | TRADUÇÃO: unlined upper garment
+复共轭 | TRADUÇÃO: (math.) complex conjugate
+复利 | TRADUÇÃO: compound interest
+复印 | TRADUÇÃO: to photocopy/to duplicate a document
+复印件 | TRADUÇÃO: photocopy; duplicate
+复印机 | TRADUÇÃO: photocopier
+复印纸 | TRADUÇÃO: photocopier paper
+复句 | TRADUÇÃO: compound phrase
+复合元音 | TRADUÇÃO: diphthong (such as putonghua ɑi, ei etc)
+复合弓 | TRADUÇÃO: composite bow (archery)
+复合材料 | TRADUÇÃO: composite material
+复合母音 | TRADUÇÃO: diphthong/compound vowel
+复合肥 | TRADUÇÃO: compound fertilizer
+复合词 | TRADUÇÃO: compound word
+复写 | TRADUÇÃO: to duplicate; to carbon copy
+复写纸 | TRADUÇÃO: carbon paper
+复平面 | TRADUÇÃO: complex plane
+复式 | TRADUÇÃO: double/multiple/compound/combined/double-entry (accounting)
+复数 | TRADUÇÃO: (linguistics) plural/(math.) complex number
+复数域 | TRADUÇÃO: field of complex numbers (math.), usually denoted by C
+复数平面 | TRADUÇÃO: (math.) complex plane; Argand plane
+复数形式 | TRADUÇÃO: plural form (of a countable noun)
+复方 | TRADUÇÃO: compound prescription (involving several medicines)
+复本 | TRADUÇÃO: copy
+复殖吸虫 | TRADUÇÃO: digenetic trematode worm (i.e. from Order Digenea 複殖目|复殖目)
+复殖目 | TRADUÇÃO: Order Digenea (including trematode worms that parasite humans)
+复比 | TRADUÇÃO: compound ratio (i.e. the product of two or more ratios)
+复用 | TRADUÇÃO: to reuse
+复叠 | TRADUÇÃO: reduplication of words or syllables (as a stylistic device in Chinese)
+复眼 | TRADUÇÃO: compound eye
+复线 | TRADUÇÃO: multiple track (e.g. rail)/multilane (e.g. highway)/(math.) complex line
+复听 | TRADUÇÃO: double hearing/diplacusis
+复叶 | TRADUÇÃO: compound leaf (botany)
+复制 | TRADUÇÃO: to duplicate/to make a copy of/to copy/to reproduce/to clone
+复制品 | TRADUÇÃO: replica/reproduction
+复视 | TRADUÇÃO: double vision/diplopia
+复词 | TRADUÇÃO: compound word/polysyllabic word
+复试 | TRADUÇÃO: to sit for the second round of a two-stage exam
+复变 | TRADUÇÃO: (math.) complex variable
+复变函数 | TRADUÇÃO: function of a complex variable (math.)
+复变函数论 | TRADUÇÃO: (math.) theory of functions of a complex variable
+复购 | TRADUÇÃO: to buy again
+复赛 | TRADUÇÃO: (sports) semifinal or quarterfinal/to compete in a semifinal (or a quarterfinal)
+复迭 | TRADUÇÃO: variant of 複疊|复叠 ‖ variant of 覆疊|覆叠
+复述 | TRADUÇÃO: to repeat (one's own words or sb else's)/(in the classroom) to paraphrase what one has learned ‖ variant of 複述|复述
+复选框 | TRADUÇÃO: check box
+复杂 | TRADUÇÃO: complicated; complex
+复杂化 | TRADUÇÃO: to complicate; to become complicated
+复杂性 | TRADUÇÃO: complexity
+复杂系统 | TRADUÇÃO: complex system
+复音形 | TRADUÇÃO: diphthong/liaison
+复音词 | TRADUÇÃO: disyllabic word/polysyllabic word
+复韵母 | TRADUÇÃO: compound final
+褉 | TRADUÇÃO: short garments
+褊 | TRADUÇÃO: narrow/urgent
+褊狭 | TRADUÇÃO: narrow/small-minded
+裈 | TRADUÇÃO: pants (old)
+褎 | TRADUÇÃO: sleeve/ample flowing robes
+褏 | TRADUÇÃO: old variant of 袖
+褐 | TRADUÇÃO: brown/gray or dark color/coarse hemp cloth/Taiwan pr. [he2]
+褐冠山雀 | TRADUÇÃO: (bird species of China) grey-crested tit (Lophophanes dichrous)
+褐冠鹃隼 | TRADUÇÃO: (bird species of China) Jerdon's baza (Aviceda jerdoni)
+褐喉旋木雀 | TRADUÇÃO: (bird species of China) Sikkim treecreeper (Certhia discolor)
+褐喉沙燕 | TRADUÇÃO: (bird species of China) grey-throated martin (Riparia chinensis)
+褐喉食蜜鸟 | TRADUÇÃO: (bird species of China) brown-throated sunbird (Anthreptes malacensis)
+褐山鹪莺 | TRADUÇÃO: (bird species of China) brown prinia (Prinia polychroa)
+褐岩鹨 | TRADUÇÃO: (bird species of China) brown accentor (Prunella fulvescens)
+褐林鸮 | TRADUÇÃO: (bird species of China) brown wood owl (Strix leptogrammica)
+褐柳莺 | TRADUÇÃO: (bird species of China) dusky warbler (Phylloscopus fuscatus)
+褐河乌 | TRADUÇÃO: (bird species of China) brown dipper (Cinclus pallasii)
+褐渔鸮 | TRADUÇÃO: (bird species of China) brown fish owl (Ketupa zeylonensis)
+褐灰雀 | TRADUÇÃO: (bird species of China) brown bullfinch (Pyrrhula nipalensis)
+褐煤 | TRADUÇÃO: lignite/brown coal
+褐翅叉尾海燕 | TRADUÇÃO: (bird species of China) Tristram's storm petrel (Hydrobates tristrami)
+褐翅燕鸥 | TRADUÇÃO: (bird species of China) bridled tern (Onychoprion anaethetus)
+褐翅雪雀 | TRADUÇÃO: (bird species of China) black-winged snowfinch (Montifringilla adamsi)
+褐翅鸦雀 | TRADUÇÃO: (bird species of China) brown-winged parrotbill (Suthora brunnea)
+褐翅鸦鹃 | TRADUÇÃO: (bird species of China) greater coucal (Centropus sinensis)
+褐耳鹰 | TRADUÇÃO: (bird species of China) shikra (Accipiter badius)
+褐背地山雀 | TRADUÇÃO: (bird species of China) ground tit (Pseudopodoces humilis)
+褐背鹟鵙 | TRADUÇÃO: (bird species of China) bar-winged flycatcher-shrike (Hemipus picatus)
+褐胸噪鹛 | TRADUÇÃO: (bird species of China) grey laughingthrush (Garrulax maesi)
+褐胸山鹧鸪 | TRADUÇÃO: (bird species of China) bar-backed partridge (Arborophila brunneopectus)
+褐胸鹟 | TRADUÇÃO: (bird species of China) brown-breasted flycatcher (Muscicapa muttui)
+褐胁雀鹛 | TRADUÇÃO: (bird species of China) rusty-capped fulvetta (Schoeniparus dubius)
+褐脸雀鹛 | TRADUÇÃO: (bird species of China) brown-cheeked fulvetta (Alcippe poioicephala)
+褐色 | TRADUÇÃO: brown
+褐顶雀鹛 | TRADUÇÃO: (bird species of China) dusky fulvetta (Schoeniparus brunneus)
+褐头山雀 | TRADUÇÃO: (bird species of China) willow tit (Poecile montanus)
+褐头岭雀 | TRADUÇÃO: (bird species of China) Sillem's mountain finch (Leucosticte sillemi)
+褐头雀鹛 | TRADUÇÃO: (bird species of China) Manipur fulvetta (Fulvetta manipurensis)
+褐头凤鹛 | TRADUÇÃO: (bird species of China) Taiwan yuhina (Yuhina brunneiceps)
+褐头鹀 | TRADUÇÃO: (bird species of China) red-headed bunting (Emberiza bruniceps)
+褐头鸫 | TRADUÇÃO: (bird species of China) grey-sided thrush (Turdus feae)
+褐头鹪莺 | TRADUÇÃO: (bird species of China) plain prinia (Prinia inornata)
+褐马鸡 | TRADUÇÃO: (bird species of China) brown eared pheasant (Crossoptilon mantchuricum)
+褐鲣鸟 | TRADUÇÃO: (bird species of China) brown booby (Sula leucogaster)
+褐鸦雀 | TRADUÇÃO: (bird species of China) brown parrotbill (Paradoxornis unicolor)
+褒 | TRADUÇÃO: to praise/to commend/to honor/(of clothes) large or loose ‖ variant of 褒
+褒呔 | TRADUÇÃO: bow tie (loanword) (Cantonese)
+褒姒 | TRADUÇÃO: Baosi, concubine of King You of Zhou 周幽王 and one of the famous Chinese beauties
+褒忠 | TRADUÇÃO: Baozhong or Paochung township in Yunlin county 雲林縣|云林县, Taiwan
+褒忠乡 | TRADUÇÃO: Baozhong or Paochung township in Yunlin county 雲林縣|云林县, Taiwan
+褒扬 | TRADUÇÃO: to praise
+褒禅山 | TRADUÇÃO: Mt Baochan in Anhui/formerly known as Mt Hua 華山|华山
+褒义 | TRADUÇÃO: commendatory sense/positive connotation
+褒贬 | TRADUÇÃO: to appraise/to pass judgment on/to speak ill of/praise and censure/appraisal
+褓姆 | TRADUÇÃO: variant of 保姆
+褓母 | TRADUÇÃO: variant of 保姆
+褔 | TRADUÇÃO: full up/classifier for items of clothing (old)
+褕 | TRADUÇÃO: loose garment
+袆 | TRADUÇÃO: a queen's ceremonial gowns
+褙 | TRADUÇÃO: paper or cloth pasted together
+褚 | TRADUÇÃO: surname Chu ‖ padding (in garment)/to store up/pocket/Taiwan pr. [chu3]
+褚人获 | TRADUÇÃO: Chu Renhuo (1635-1682), author of historical novel Dramatized History of Sui and Tang 隋唐演義|隋唐演义
+褚遂良 | TRADUÇÃO: Chu Suiliang (596-659), one of Four Great Calligraphers of early Tang 唐初四大家
+褟 | TRADUÇÃO: inner shirt/to sew onto clothing/see also 禢
+褟绦子 | TRADUÇÃO: lace hemming
+褡 | TRADUÇÃO: pouch/sleeveless jacket
+褡裢 | TRADUÇÃO: cloth pouch open in the middle, forming two bags/jacket worn for Chinese wrestling
+褢 | TRADUÇÃO: to carry in the bosom or the sleeve/to wrap, to conceal
+褥 | TRADUÇÃO: mattress
+褥子 | TRADUÇÃO: cotton-padded mattress/CL:床
+褥疮 | TRADUÇÃO: bedsore
+褦 | TRADUÇÃO: ignorant/sun hat
+褧 | TRADUÇÃO: monotone garment with no lining
+褪 | TRADUÇÃO: to take off (clothes); to shed (feathers)/(of color) to fade/(fig.) (of emotions, awareness etc) to fade/Taiwan pr. [tun4] ‖ to slip out of sth/to hide sth in one's sleeve
+褪下 | TRADUÇÃO: to take off (trousers)/to drop one's pants
+褪光 | TRADUÇÃO: matte (of a color etc)
+褪去 | TRADUÇÃO: to take off (one's clothes)/(fig.) to shed (one's former image etc)/(of a fad or the after-effects of a disaster etc) to subside/also pr. [tun4 qu4]
+褪套儿 | TRADUÇÃO: (coll.) to break loose/to shake off responsibility
+褪色 | TRADUÇÃO: (of colors) to fade/also pr. [tui4shai3]
+褪黑激素 | TRADUÇÃO: (biochemistry) melatonin
+褪黑素 | TRADUÇÃO: (biochemistry) melatonin
+褫 | TRADUÇÃO: to strip/to deprive of/to discharge/to dismiss/to undress
+褫夺 | TRADUÇÃO: to deprive/to strip of
+褯 | TRADUÇÃO: used in 褯子
+褯子 | TRADUÇÃO: (dialect) diaper
+褰 | TRADUÇÃO: to lift (clothes, sheets)/lower garments
+褱 | TRADUÇÃO: to carry in the bosom or the sleeve/to wrap, to conceal
+裤兜 | TRADUÇÃO: pants pocket
+裤口 | TRADUÇÃO: trouser leg opening
+裤带 | TRADUÇÃO: belt (in trousers)/CL:根
+裤筒 | TRADUÇÃO: trouser leg
+裤管 | TRADUÇÃO: trouser leg
+裤腰 | TRADUÇÃO: waist of trousers/waistband
+裤腰带 | TRADUÇÃO: waistband
+裤脚 | TRADUÇÃO: the bottom of a trouser leg
+裤腿 | TRADUÇÃO: trouser leg
+裤衩 | TRADUÇÃO: underpants
+裤裙 | TRADUÇÃO: culottes; pantskirt
+裤装 | TRADUÇÃO: pants (trousers, shorts etc)/(Tw) pantsuit
+裤裆 | TRADUÇÃO: crotch of trousers
+裤袜 | TRADUÇÃO: pantyhose/tights
+裤头 | TRADUÇÃO: (dialect) underpants/(swimming) trunks
+裢 | TRADUÇÃO: pouch hung from belt
+褵 | TRADUÇÃO: bride's veil or kerchief
+褶 | TRADUÇÃO: (arch.) court dress ‖ pleat/crease/Taiwan pr. [zhe2]
+褶子 | TRADUÇÃO: pleat/fold/crease/wrinkle
+褶子了 | TRADUÇÃO: to make a mess of sth/to bungle/to mismanage
+褶曲 | TRADUÇÃO: creasing/folding
+褶皱 | TRADUÇÃO: fold; crease; wrinkle/(geology) fold
+褶皱山系 | TRADUÇÃO: fold mountain system (geology)
+褶皱山脉 | TRADUÇÃO: fold mountain range (geology)
+褛 | TRADUÇÃO: used in 襤褸|褴褛
+亵 | TRADUÇÃO: obscene/disrespectful
+亵慢 | TRADUÇÃO: irreverent/slighting
+亵昵 | TRADUÇÃO: disrespectful; overly familiar
+亵服 | TRADUÇÃO: informal wear/home clothes (old)/women's underwear/lingerie
+亵渎 | TRADUÇÃO: (literary) to blaspheme; to desecrate; to profane
+亵渎神明 | TRADUÇÃO: to blaspheme/to commit sacrilege
+褽 | TRADUÇÃO: collar
+褾 | TRADUÇÃO: cuff/border or edge (of clothing)/old variant of 裱
+襁褓 | TRADUÇÃO: swaddling clothes/fig. early stage of development/infancy
+襄 | TRADUÇÃO: surname Xiang ‖ (literary) to assist
+襄助 | TRADUÇÃO: (literary) to aid; to assist
+襄垣 | TRADUÇÃO: see 襄垣縣|襄垣县
+襄垣县 | TRADUÇÃO: Xiangyuan, a county in Changzhi City 長治市|长治市, Shanxi
+襄城 | TRADUÇÃO: see 襄城區|襄城区/see 襄城縣|襄城县
+襄城区 | TRADUÇÃO: Xiangcheng, a district of Xiangyang City 襄陽市|襄阳市, Hubei
+襄城县 | TRADUÇÃO: Xiangcheng, a county in Xuchang City 許昌市|许昌市, Henan
+襄州 | TRADUÇÃO: see 襄州區|襄州区
+襄州区 | TRADUÇÃO: Xiangzhou, a district of Xiangyang City 襄陽市|襄阳市, Hubei
+襄汾 | TRADUÇÃO: see 襄汾縣|襄汾县
+襄汾县 | TRADUÇÃO: Xiangfen, a county in Linfen City 臨汾市|临汾市, Shanxi
+襄理 | TRADUÇÃO: assistant manager (in a large enterprise) (Tw)/(literary) to assist
+襄都 | TRADUÇÃO: see 襄都區|襄都区
+襄都区 | TRADUÇÃO: Xiangdu, a district of Xingtai City 邢臺市|邢台市, Hebei
+襄阳 | TRADUÇÃO: see 襄陽市|襄阳市
+襄阳市 | TRADUÇÃO: Xiangyang, prefecture-level city in Hubei Province 湖北省
+襆 | TRADUÇÃO: used in 襆頭|襆头/variant of 袱/Taiwan pr. [pu2]
+襆头 | TRADUÇÃO: variant of 幞頭|幞头
+裥 | TRADUÇÃO: variant of 襉|裥 ‖ (dialect) fold or pleat (in clothing)
+襋 | TRADUÇÃO: coat collar
+襌 | TRADUÇÃO: garment without a lining
+杂 | TRADUÇÃO: variant of 雜|杂 ‖ mixed/miscellaneous/various/to mix
+袯 | TRADUÇÃO: used in 襏襫|袯襫
+袯襫 | TRADUÇÃO: woven rush raincoat
+袄 | TRADUÇÃO: coat/jacket/short and lined coat or robe
+袄子 | TRADUÇÃO: coat/jacket/short and lined coat or robe
+襚 | TRADUÇÃO: grave-clothes
+襛 | TRADUÇÃO: bright light/warm dress
+襜 | TRADUÇÃO: the front of clothes
+裣 | TRADUÇÃO: see 襝衽|裣衽
+裣衽 | TRADUÇÃO: variant of 斂衽|敛衽
+襞 | TRADUÇÃO: creases/folds or pleats in a garment
+襟 | TRADUÇÃO: lapel/overlap of Chinese gown/fig. bosom (the seat of emotions)/to cherish (ambition, desires, honorable intentions etc) in one's bosom
+襟兄 | TRADUÇÃO: husband of wife's older sister
+襟副翼 | TRADUÇÃO: flaperon (aeronautics)
+襟度 | TRADUÇÃO: (literary) breadth of mind
+襟弟 | TRADUÇÃO: husband of wife's younger sister
+襟怀 | TRADUÇÃO: bosom (the seat of emotions)/one's mind
+襟怀坦白 | TRADUÇÃO: open and candid (idiom); not hiding anything/ingenuous/openhearted/unselfish/magnanimous/broad-minded
+襟怀夷旷 | TRADUÇÃO: broad-minded
+襟抱 | TRADUÇÃO: ambition/an aspiration
+襟素 | TRADUÇÃO: one's true heart
+襟翼 | TRADUÇÃO: (aircraft) wing flap
+裆 | TRADUÇÃO: crotch/seat of a pair of trousers
+裆部 | TRADUÇÃO: crotch
+襡 | TRADUÇÃO: short skirt or tunic
+襢 | TRADUÇÃO: unadorned but elegant dress
+褴 | TRADUÇÃO: used in 襤褸|褴褛
+褴褛 | TRADUÇÃO: (of clothes) ragged; shabby
+襥 | TRADUÇÃO: old variant of 襆
+襦 | TRADUÇÃO: jacket/short coat
+袜 | TRADUÇÃO: socks/stockings ‖ variant of 韤|袜 ‖ variant of 襪|袜
+袜套 | TRADUÇÃO: leg warmers
+袜子 | TRADUÇÃO: socks/stockings/CL:隻|只,對|对,雙|双
+袜带 | TRADUÇÃO: garter
+袜裤 | TRADUÇÃO: leggings/tights/CL:條|条,雙|双
+襫 | TRADUÇÃO: used in 襏襫|袯襫
+䙓 | TRADUÇÃO: variant of 襬|摆
+襭 | TRADUÇÃO: carry with the front of a robe
+襮 | TRADUÇÃO: embroidered collar/expose
+衬 | TRADUÇÃO: (of garments) against the skin/to line/lining/to contrast with/to assist financially
+衬垫 | TRADUÇÃO: pad
+衬托 | TRADUÇÃO: to serve to highlight; to serve as a backdrop or contrasting element
+衬线 | TRADUÇÃO: serif (typography)
+衬衣 | TRADUÇÃO: shirt/CL:件
+衬衫 | TRADUÇÃO: shirt/blouse/CL:件
+衬裙 | TRADUÇÃO: petticoat
+衬里 | TRADUÇÃO: lining
+衬裤 | TRADUÇÃO: underpants
+衬页 | TRADUÇÃO: endpaper
+袭 | TRADUÇÃO: (bound form) to raid; to attack/(bound form) to continue the pattern; to perpetuate/(literary) classifier for suits of clothing or sets of bedding
+袭击 | TRADUÇÃO: attack (esp. surprise attack)/raid/to attack
+袭击者 | TRADUÇÃO: attacker
+袭胸 | TRADUÇÃO: to grope the breasts of a woman or girl
+袭警 | TRADUÇÃO: to assault a police officer
+襕 | TRADUÇÃO: full length gown (old)
+襶 | TRADUÇÃO: untidy (in dress)
+襻 | TRADUÇÃO: button loop/sth similar to a button loop (shoe strap, basket handle etc)/to tie together; to stitch together
+襼 | TRADUÇÃO: sleeve of dress
+襽 | TRADUÇÃO: old variant of 襴|襕/brocade
+襾 | TRADUÇÃO: cover/radical no 146
+西 | TRADUÇÃO: the West/abbr. for Spain 西班牙/Spanish ‖ west
+西乃 | TRADUÇÃO: Sinai
+西乃山 | TRADUÇÃO: Mount Sinai
+西亚 | TRADUÇÃO: Southwest Asia
+西伯利亚 | TRADUÇÃO: Siberia
+西伯利亚银鸥 | TRADUÇÃO: (bird species of China) Vega gull (Larus vegae)
+西来庵 | TRADUÇÃO: Xilai Temple (Tainan, Taiwan)
+西侧 | TRADUÇÃO: west side; west face
+西元 | TRADUÇÃO: (Tw) Christian era/Gregorian calendar/AD (Anno Domini)
+西元前 | TRADUÇÃO: BCE (before the Common Era)/BC (before Christ)
+西充 | TRADUÇÃO: see 西充縣|西充县
+西充县 | TRADUÇÃO: Xichong, a county in Nanchong City 南充市, Sichuan
+西冷 | TRADUÇÃO: (loanword) sirloin
+西北 | TRADUÇÃO: Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang) ‖ northwest
+西北大学 | TRADUÇÃO: Northwest University
+西北工业大学 | TRADUÇÃO: Northwestern Polytechnical University
+西北方 | TRADUÇÃO: northwest/northwestern
+西北航空公司 | TRADUÇÃO: Northwest Airlines
+西北农林科技大学 | TRADUÇÃO: Northwest A&F University
+西北部 | TRADUÇÃO: northwest part
+西北雨 | TRADUÇÃO: thundershower (Tw)
+西区 | TRADUÇÃO: Xi District or Xiqu, a district of Panzhihua City 攀枝花市, Sichuan
+西半球 | TRADUÇÃO: the Western Hemisphere
+西南 | TRADUÇÃO: southwest
+西南中沙群岛 | TRADUÇÃO: Xinanzhongsha islands, Hainan
+西南亚 | TRADUÇÃO: southwest Asia
+西南交通大学 | TRADUÇÃO: Southwest Jiaotong University
+西南冠纹柳莺 | TRADUÇÃO: (bird species of China) Blyth's leaf warbler (Phylloscopus reguloides)
+西南大学 | TRADUÇÃO: Southwest University (Chongqing)
+西南官话 | TRADUÇÃO: Southwestern Mandarin, dialect group of Mandarin spoken primarily in southwestern China
+西南栗耳凤鹛 | TRADUÇÃO: (bird species of China) striated yuhina (Yuhina castaniceps)
+西南部 | TRADUÇÃO: southwest part
+西印度 | TRADUÇÃO: West Indies (i.e. the Caribbean)
+西吉 | TRADUÇÃO: see 西吉縣|西吉县
+西吉县 | TRADUÇÃO: Xiji, a county in Guyuan City 固原市, Ningxia
+西周 | TRADUÇÃO: Western Zhou (1027-771 BC)
+西和 | TRADUÇÃO: see 西和縣|西和县
+西和县 | TRADUÇÃO: Xihe, a county in Longnan City 隴南市|陇南市, Gansu
+西哈努克 | TRADUÇÃO: (King) Sihanouk (of Cambodia)
+西单 | TRADUÇÃO: Xidan neighborhood of central Beijing
+西固 | TRADUÇÃO: see 西固區|西固区
+西固区 | TRADUÇÃO: Xigu, a district of Lanzhou City 蘭州市|兰州市, Gansu
+西地那非 | TRADUÇÃO: sildenafil (virility drug) (loanword)
+西坡拉 | TRADUÇÃO: Zipporah, wife of Moses
+西城 | TRADUÇÃO: see 西城區|西城区
+西城区 | TRADUÇÃO: Xicheng, a district of central Beijing
+西域 | TRADUÇÃO: Western Regions (Han Dynasty term for regions beyond Yumen Pass 玉門關|玉门关)
+西域记 | TRADUÇÃO: Report of the regions west of Great Tang/travel record of Xuan Zang 玄奘 on his travels to Central Asia and India
+西塔 | TRADUÇÃO: theta (Greek letter Θθ)
+西塞山 | TRADUÇÃO: see 西塞山區|西塞山区
+西塞山区 | TRADUÇÃO: Xisaishan, a district of Huangshi City 黃石市|黄石市, Hubei
+西塞罗 | TRADUÇÃO: Marcus Tullius Cicero (106–43 BC), Roman statesman, orator and philosopher
+西夏 | TRADUÇÃO: Western Xia dynasty 1038-1227 of Tangut people 黨項|党项 occupying modern Ningxia and parts of Gansu and Shaanxi, overthrown by Mongols ‖ see 西夏區|西夏区
+西夏区 | TRADUÇÃO: Xixia, a district of Yinchuan City 銀川市|银川市, Ningxia
+西外 | TRADUÇÃO: abbr. for 西安外國語大學|西安外国语大学
+西大 | TRADUÇÃO: (Internet slang) the United States (contrasted with China 東大|东大)/(informal) abbreviation for certain university names, esp. 西南大學|西南大学 and 西北大學|西北大学
+西天 | TRADUÇÃO: the Western Paradise (Buddhism)
+西太平洋 | TRADUÇÃO: the western Pacific Ocean
+西奇 | TRADUÇÃO: sygyt (overtone singing)
+西奈 | TRADUÇÃO: Sinai Peninsula
+西奈半岛 | TRADUÇÃO: Sinai Peninsula
+西奈山 | TRADUÇÃO: Mount Sinai
+西子 | TRADUÇÃO: another name for Xishi 西施
+西子捧心 | TRADUÇÃO: (lit.) Xishi clasps at her heart (idiom)/(fig.) a woman who is beautiful even when suffering the pangs of illness
+西孟加拉邦 | TRADUÇÃO: West Bengal
+西学 | TRADUÇÃO: Western learning (intellectual movement in the late Qing)/also called 洋務運動|洋务运动
+西安 | TRADUÇÃO: see 西安市/see 西安區|西安区
+西安事变 | TRADUÇÃO: Xi'an Incident of 12th December 1936 (kidnap of Chiang Kai-shek 蔣介石|蒋介石)
+西安交通大学 | TRADUÇÃO: Xi'an Jiaotong University (XJTU)
+西安区 | TRADUÇÃO: Xi'an, a district of Mudanjiang City 牡丹江市, Heilongjiang/Xi'an, a district of Liaoyuan City 遼源市|辽源市, Jilin
+西安外国语大学 | TRADUÇÃO: Xi'an International Studies University (XISU)
+西安市 | TRADUÇÃO: Xi'an, sub-provincial city and capital of Shaanxi Province 陝西省|陕西省
+西安电子科技大学 | TRADUÇÃO: Xidian University
+西宁 | TRADUÇÃO: see 西寧市|西宁市
+西宁市 | TRADUÇÃO: Xining, prefecture-level city and capital of Qinghai Province 青海省
+西属撒哈拉 | TRADUÇÃO: Spanish Sahara (former Spanish colony in Africa)
+西屯区 | TRADUÇÃO: Xitun District of Taichung, Taiwan
+西山 | TRADUÇÃO: see 西山區|西山区
+西山区 | TRADUÇÃO: Xishan, a district of Kunming City 昆明市, Yunnan
+西峰 | TRADUÇÃO: see 西峰區|西峰区
+西峰区 | TRADUÇÃO: Xifeng, a district of Qingyang City 慶陽市|庆阳市, Gansu
+西峡 | TRADUÇÃO: see 西峽縣|西峡县
+西峡县 | TRADUÇÃO: Xixia, a county in Nanyang City 南陽市|南阳市, Henan
+西岗 | TRADUÇÃO: see 西崗區|西岗区
+西岗区 | TRADUÇÃO: Xigang, a district of Dalian City 大連市|大连市, Liaoning
+西屿 | TRADUÇÃO: Xiyu or Hsiyu township in Penghu county 澎湖縣|澎湖县 (Pescadores Islands), Taiwan
+西屿乡 | TRADUÇÃO: Xiyu or Hsiyu township in Penghu county 澎湖縣|澎湖县 (Pescadores Islands), Taiwan
+西岳 | TRADUÇÃO: Mt Hua 華山|华山 in Shaanxi, one of the Five Sacred Mountains 五嶽|五岳
+西工 | TRADUÇÃO: see 西工區|西工区
+西工区 | TRADUÇÃO: Xigong, a district of Luoyang City 洛陽市|洛阳市, Henan
+西市 | TRADUÇÃO: see 西市區|西市区
+西市区 | TRADUÇÃO: Xishi, a district of Yingkou City 營口市|营口市, Liaoning
+西平 | TRADUÇÃO: see 西平縣|西平县
+西平县 | TRADUÇÃO: Xiping, a county in Zhumadian City 駐馬店市|驻马店市, Henan
+西康 | TRADUÇÃO: historic province of Tibet in Kham region and west Sichuan, a province of Republic of China 1928-49 with capital Ya'an 雅安
+西康省 | TRADUÇÃO: western Kham/historic province of Tibet in Kham region and west Sichuan, a province of Republic of China 1928-49 with capital Ya'an 雅安
+西厢记 | TRADUÇÃO: Romance of the West Chamber by Wang Shifu 王實甫|王实甫
+西式 | TRADUÇÃO: Western style
+西弗 | TRADUÇÃO: sievert (Sv), unit of radiation damage used in radiotherapy
+西弗吉尼亚 | TRADUÇÃO: West Virginia, US state
+西征 | TRADUÇÃO: punitive expedition to the west
+西德 | TRADUÇÃO: West Germany/German Federal Republic 德意志聯邦共和國|德意志联邦共和国
+西德尼 | TRADUÇÃO: Sidney or Sydney (name)
+西戎 | TRADUÇÃO: the Xirong, an ancient ethnic group of Western China from the Zhou Dynasty onwards/Xionites (Central Asian nomads)
+西打 | TRADUÇÃO: cider (loanword)
+西拉 | TRADUÇÃO: Syrah (grape type)
+西拉雅族 | TRADUÇÃO: Siraya, one of the indigenous peoples of Taiwan
+西撒哈拉 | TRADUÇÃO: Western Sahara
+西敏 | TRADUÇÃO: Westminster, a London borough
+西文 | TRADUÇÃO: Spanish/Western language/foreign languages (in Qing times)
+西斯塔尼 | TRADUÇÃO: Sistani (name of a prominent Iraqi Ayatollah)
+西斯廷 | TRADUÇÃO: Sistine (Chapel)/also written 西斯汀
+西斯汀 | TRADUÇÃO: Sistine (Chapel)/also written 西斯廷
+西方 | TRADUÇÃO: the West/the Occident/Western countries
+西方人 | TRADUÇÃO: Westerner/Occidental
+西方松鸡 | TRADUÇÃO: (bird species of China) western capercaillie (Tetrao urogallus)
+西方极乐世界 | TRADUÇÃO: Western Pure Land of Ultimate Bliss or Sukhavati (Sanskrit)
+西方滨鹬 | TRADUÇÃO: (bird species of China) western sandpiper (Calidris mauri)
+西方狍 | TRADUÇÃO: roe deer/capreolus capreolus
+西方秧鸡 | TRADUÇÃO: (bird species of China) water rail (Rallus aquaticus)
+西方马脑炎病毒 | TRADUÇÃO: western equine encephalitis (WEE) virus
+西施 | TRADUÇÃO: Xishi (c. 450 BC), famous Chinese beauty, foremost of the four legendary beauties 四大美女, given by King Gou Jian 勾踐|勾践 of Yue as concubine to King of Wu as part of a successful plan to destroy Wu
+西施犬 | TRADUÇÃO: shih tzu (dog breed)
+西昌 | TRADUÇÃO: Xichang Satellite Launch Center/see 西昌市
+西昌市 | TRADUÇÃO: Xichang, a county-level city in Liangshan Yi Autonomous Prefecture 涼山彝族自治州|凉山彝族自治州, Sichuan
+西晋 | TRADUÇÃO: Western Jin dynasty (265-316)
+西历 | TRADUÇÃO: Gregorian calendar/Western calendar
+西替利嗪 | TRADUÇÃO: (loanword) cetirizine
+西服 | TRADUÇÃO: suit/Western-style clothes (historical usage)
+西村 | TRADUÇÃO: Nishimura (Japanese surname)
+西松 | TRADUÇÃO: see 西松建設|西松建设
+西松建设 | TRADUÇÃO: Nishimatsu Construction Co.
+西林 | TRADUÇÃO: see 西林縣|西林县
+西林县 | TRADUÇÃO: Xilin, a county in Baise City 百色市, Guangxi
+西柚 | TRADUÇÃO: grapefruit
+西格玛 | TRADUÇÃO: sigma (Greek letter Σ, σ)
+西格蒙德 | TRADUÇÃO: Sigmund (name)
+西格马 | TRADUÇÃO: sigma (Greek letter Σ, σ)
+西梅 | TRADUÇÃO: European plum (Prunus domestica), esp. prune plum/prune; dried prune
+西棕胸佛法僧 | TRADUÇÃO: (bird species) Indian roller (Coracias benghalensis)
+西欧 | TRADUÇÃO: Western Europe
+西欧联盟 | TRADUÇÃO: Western European Union (WEU)
+西江 | TRADUÇÃO: Xijiang River
+西沉 | TRADUÇÃO: (of the sun) to set
+西沙 | TRADUÇÃO: see 西沙區|西沙区/see 西沙群島|西沙群岛
+西沙区 | TRADUÇÃO: Xisha, a district of Sansha City 三沙市, Hainan
+西沙群岛 | TRADUÇÃO: Paracel Islands, in the South China Sea
+西洋 | TRADUÇÃO: the West (Europe and North America)/countries of the Indian Ocean (traditional)
+西洋人 | TRADUÇÃO: Westerner
+西洋参 | TRADUÇÃO: American ginseng (Panax quinquefolius)
+西洋景 | TRADUÇÃO: see 西洋鏡|西洋镜
+西洋杉 | TRADUÇÃO: cedar
+西洋棋 | TRADUÇÃO: chess
+西洋菜 | TRADUÇÃO: watercress (Nasturtium officinale)
+西洋镜 | TRADUÇÃO: (old) peep show/(fig.) hanky-panky/trickery
+西洛赛宾 | TRADUÇÃO: psilocybin
+西海 | TRADUÇÃO: Yellow Sea (Korean term)
+西凉 | TRADUÇÃO: Western Liang of the Sixteen Kingdoms (400-421)
+西湖 | TRADUÇÃO: Xihu or West lake (place name)/West Lake in Hangzhou 杭州, Zhejiang/Xihu or Hsihu township in Miaoli county 苗栗縣|苗栗县, northwest Taiwan
+西湖区 | TRADUÇÃO: West lake district (place name)/Xihu district of Hangzhou city 杭州市, Zhejiang/Xihu district of Nanchang city 南昌市, Jiangxi
+西湖乡 | TRADUÇÃO: Xihu or Hsihu township in Miaoli county 苗栗縣|苗栗县, northwest Taiwan
+西汉 | TRADUÇÃO: Western Han Dynasty (206 BC-8 AD), also called 前漢|前汉, Former Han Dynasty
+西澳大利亚 | TRADUÇÃO: Western Australia, Australian state
+西澳大利亚州 | TRADUÇÃO: Western Australia, Australian state
+西乌珠穆沁旗 | TRADUÇÃO: West Ujimqin banner or Baruun Üzemchin khoshuu in Xilingol League 錫林郭勒盟|锡林郭勒盟, Inner Mongolia
+西爪哇 | TRADUÇÃO: West Java, province of Indonesia
+西墙 | TRADUÇÃO: Western Wall, or Wailing Wall (Jerusalem)
+西王母 | TRADUÇÃO: Xi Wangmu, Queen Mother of the West, keeper of the peaches of immortality/popularly known as 王母娘娘
+西班牙 | TRADUÇÃO: Spain
+西班牙人 | TRADUÇÃO: Spaniard/Spanish person
+西班牙文 | TRADUÇÃO: Spanish (language)
+西班牙港 | TRADUÇÃO: Port-of-Spain, capital of Trinidad and Tobago
+西班牙语 | TRADUÇÃO: Spanish language
+西瓜 | TRADUÇÃO: watermelon/CL:顆|颗
+西瓜虫 | TRADUÇÃO: pill bug; roly-poly
+西甲 | TRADUÇÃO: La Liga, the top division of the Spanish football league system
+西番莲 | TRADUÇÃO: passion flower
+西番雅书 | TRADUÇÃO: Book of Zephaniah
+西畴 | TRADUÇÃO: see 西疇縣|西畴县
+西畴县 | TRADUÇÃO: Xichou, a county in Wenshan Zhuang and Miao Autonomous Prefecture 文山壯族苗族自治州|文山壮族苗族自治州, Yunnan
+西皮 | TRADUÇÃO: one of the two chief types of music in Chinese opera/see also 二黃|二黄
+西盟 | TRADUÇÃO: see 西盟佤族自治縣|西盟佤族自治县
+西盟佤族自治县 | TRADUÇÃO: Ximeng Va Autonomous County, in Pu'er City 普洱市, Yunnan
+西盟县 | TRADUÇÃO: see 西盟佤族自治縣|西盟佤族自治县
+西直门 | TRADUÇÃO: Xizhimen neighborhood of Beijing/the main northwest gate of Beijing
+西秀 | TRADUÇÃO: see 西秀區|西秀区
+西秀区 | TRADUÇÃO: Xixiu, a district of Anshun City 安順市|安顺市, Guizhou
+西科尔斯基 | TRADUÇÃO: Sikorski (name)/Radosław Sikorski (1950-), Polish conservative politician, foreign minister of Poland from 2007
+西秦 | TRADUÇÃO: Western Qin of the Sixteen Kingdoms (385-431)
+西端 | TRADUÇÃO: western extremity
+西米 | TRADUÇÃO: sago
+西米德兰兹 | TRADUÇÃO: West Midlands, UK county, capital Birmingham 伯明翰
+西米德兰兹郡 | TRADUÇÃO: West Midlands, UK county, capital Birmingham 伯明翰
+西米露 | TRADUÇÃO: tapioca pudding/sago pudding
+西红柿 | TRADUÇÃO: tomato
+西红脚隼 | TRADUÇÃO: (bird species of China) red-footed falcon (Falco vespertinus)
+西红角鸮 | TRADUÇÃO: (bird species of China) Eurasian scops owl (Otus scops)
+西经 | TRADUÇÃO: west longitude
+西绪福斯 | TRADUÇÃO: Sisyphus
+西耶那 | TRADUÇÃO: Fiat Siena
+西花厅 | TRADUÇÃO: Xihuating pavilion on west side on Zhongnanhai, home to 周恩來|周恩来
+西芹 | TRADUÇÃO: celery/parsley
+西华 | TRADUÇÃO: see 西華縣|西华县
+西华县 | TRADUÇÃO: Xihua, a county in Zhoukou City 周口市, Henan
+西万尼 | TRADUÇÃO: Silvaner (grape type)
+西葫芦 | TRADUÇÃO: zucchini; courgette; baby marrow
+西蒙·舒斯特 | TRADUÇÃO: Simon and Schuster, US publisher
+西萨摩亚 | TRADUÇÃO: Western Samoa
+西蓝花 | TRADUÇÃO: variant of 西蘭花|西兰花
+西藏 | TRADUÇÃO: see 西藏自治區|西藏自治区
+西藏人 | TRADUÇÃO: Tibetan (person)
+西藏毛腿沙鸡 | TRADUÇÃO: (bird species of China) Tibetan sandgrouse (Syrrhaptes tibetanus)
+西藏獒犬 | TRADUÇÃO: Tibetan mastiff
+西藏百万农奴解放纪念日 | TRADUÇÃO: Serf Liberation Day (PRC)
+西藏自治区 | TRADUÇÃO: Tibet Autonomous Region, capital Lhasa 拉薩市|拉萨市 (short name 藏)
+西艺 | TRADUÇÃO: Western skills/in Qing times, refers to Western technology, esp. military and naval know-how
+西药 | TRADUÇÃO: Western medicine
+西兰花 | TRADUÇÃO: broccoli
+西螺 | TRADUÇÃO: Xiluo or Hsilo town in Yunlin county 雲林縣|云林县, Taiwan
+西螺镇 | TRADUÇÃO: Xiluo or Hsilo town in Yunlin county 雲林縣|云林县, Taiwan
+西装 | TRADUÇÃO: suit/Western-style clothes/CL:套
+西装革履 | TRADUÇÃO: dressed in Western-style clothes/impeccably attired
+西西 | TRADUÇÃO: cubic centimeter (cc) (loanword)
+西西弗斯 | TRADUÇÃO: Sisyphus
+西西里 | TRADUÇÃO: Sicily/Sicilia (Italian Island)
+西西里岛 | TRADUÇÃO: Sicily
+西语 | TRADUÇÃO: western language/Spanish (language)
+西丰 | TRADUÇÃO: see 西豐縣|西丰县
+西丰县 | TRADUÇÃO: Xifeng, a county in Tieling City 鐵嶺市|铁岭市, Liaoning
+西贡 | TRADUÇÃO: Saigon, capital of former South Vietnam/Sai Kung town in New Territories, Hong Kong
+西游补 | TRADUÇÃO: one of three Ming dynasty sequels to Journey to the West 西遊記|西游记
+西游记 | TRADUÇÃO: "Journey to the West", a Ming dynasty novel by Wu Cheng'en 吳承恩|吴承恩, one of the Four Great Classical Novels of Chinese literature, also known as "Pilgrimage to the West" or "Monkey"
+西辽 | TRADUÇÃO: Western Liao, Khitan kingdom of central Asia 1132-1218
+西边 | TRADUÇÃO: west/west side/western part/to the west of
+西边儿 | TRADUÇÃO: erhua variant of 西邊|西边
+西部 | TRADUÇÃO: western part
+西部片 | TRADUÇÃO: Western (film)
+西乡 | TRADUÇÃO: see 西鄉縣|西乡县
+西乡塘 | TRADUÇÃO: see 西鄉塘區|西乡塘区
+西乡塘区 | TRADUÇÃO: Xixiangtang, a district of Nanning City 南寧市|南宁市, Guangxi
+西乡县 | TRADUÇÃO: Xixiang, a county in Hanzhong City 漢中市|汉中市, Shaanxi
+西医 | TRADUÇÃO: Western medicine/a doctor trained in Western medicine
+西里尔 | TRADUÇÃO: Cyril (name)/Saint Cyril, 9th century Christian missionary/Cyrillic
+西里尔字母 | TRADUÇÃO: Cyrillic alphabet/Cyrillic letters
+西里西亚 | TRADUÇÃO: Silesia
+西门 | TRADUÇÃO: two-character surname Ximen
+西门子 | TRADUÇÃO: Siemens (company name)
+西门子公司 | TRADUÇÃO: Siemens AG
+西门庆 | TRADUÇÃO: Ximen Qing, a fictional character in the novels "Jin Ping Mei" 金瓶梅 and "Water Margin" 水滸傳|水浒传
+西门町 | TRADUÇÃO: Ximending (neighborhood in Wanhua district, Taipei)
+西门豹 | TRADUÇÃO: Ximen Bao (active around 422 BC), statesman and hydraulic engineer of Wei 魏國|魏国
+西陵 | TRADUÇÃO: see 西陵區|西陵区
+西陵区 | TRADUÇÃO: Xiling, a district of Yichang City 宜昌市, Hubei
+西陵峡 | TRADUÇÃO: Xiling Gorge on the Changjiang or Yangtze, the lower of the Three Gorges 三峽|三峡
+西雅图 | TRADUÇÃO: Seattle, city in Washington State
+西双版纳 | TRADUÇÃO: see 西雙版納傣族自治州|西双版纳傣族自治州
+西双版纳傣族自治州 | TRADUÇÃO: Xishuangbanna Dai Autonomous Prefecture, in Yunnan Province 雲南省|云南省
+西双版纳州 | TRADUÇÃO: see 西雙版納傣族自治州|西双版纳傣族自治州
+西双版纳粗榧 | TRADUÇÃO: Cephalotaxus mannii (botany)
+西青 | TRADUÇÃO: Xiqing suburban district of Tianjin municipality 天津市
+西青区 | TRADUÇÃO: Xiqing suburban district of Tianjin municipality 天津市
+西非 | TRADUÇÃO: West Africa
+西面 | TRADUÇÃO: west side/west
+西顿 | TRADUÇÃO: Sidon (Lebanon)
+西餐 | TRADUÇÃO: Western-style food/CL:份,頓|顿
+西魏 | TRADUÇÃO: Western Wei of the Northern dynasties (535-557), formed from the break-up of Wei of the Northern Dynasties 北魏
+西鲱 | TRADUÇÃO: allis shad (Alosa alosa)
+西鹌鹑 | TRADUÇÃO: (bird species of China) common quail (Coturnix coturnix)
+西黄鹡鸰 | TRADUÇÃO: (bird species of China) western yellow wagtail (Motacilla flava)
+西点 | TRADUÇÃO: West Point, US military academy in New York ‖ Western-style pastry
+要 | TRADUÇÃO: (bound form) to demand; to coerce ‖ to want; to need; to ask for/will; shall; about to/need to; should/if (same as 要是)/(bound form) important
+要不 | TRADUÇÃO: otherwise/or else/how about...?/either... (or...)
+要不得 | TRADUÇÃO: intolerable; unacceptable
+要不是 | TRADUÇÃO: if it were not for/but for
+要不然 | TRADUÇÃO: otherwise/or else/or
+要之 | TRADUÇÃO: in brief/in a word
+要事 | TRADUÇÃO: important matter
+要人 | TRADUÇÃO: important person
+要件 | TRADUÇÃO: key document/important condition/criterion/requirement/requisite/cornerstone
+要债 | TRADUÇÃO: to demand payment of a debt; to collect a debt
+要价 | TRADUÇÃO: to ask a price; to charge/(fig.) to attach conditions (in negotiations)
+要功 | TRADUÇÃO: variant of 邀功
+要务 | TRADUÇÃO: key task/important affair
+要命 | TRADUÇÃO: to cause sb's death/extremely; terribly/(used in complaining about sth) to be a nuisance
+要员 | TRADUÇÃO: key participant/VIP
+要嘛 | TRADUÇÃO: either .../or ...
+要图 | TRADUÇÃO: main plan/important program
+要地 | TRADUÇÃO: strategic location
+要塞 | TRADUÇÃO: stronghold/fort/fortification
+要好 | TRADUÇÃO: to be on good terms/to be close friends/striving for self-improvement
+要子 | TRADUÇÃO: straw rope
+要害 | TRADUÇÃO: vital part/(fig.) key point/crucial
+要强 | TRADUÇÃO: eager to excel/eager to get ahead in life/strong-minded
+要径 | TRADUÇÃO: important path
+要得 | TRADUÇÃO: good/fine
+要挟 | TRADUÇÃO: to threaten/to blackmail
+要击 | TRADUÇÃO: to intercept/to ambush
+要政 | TRADUÇÃO: important governmental or administrative matter
+要旨 | TRADUÇÃO: the gist (of a text or argument)/the main points
+要是 | TRADUÇÃO: (coll.) if
+要有 | TRADUÇÃO: to need/to require/must have
+要末 | TRADUÇÃO: variant of 要麼|要么
+要枢 | TRADUÇÃO: important hub; key position
+要样儿 | TRADUÇÃO: appearance/manner
+要死 | TRADUÇÃO: extremely/awfully
+要死不活 | TRADUÇÃO: half dead/more dead than alive
+要死要活 | TRADUÇÃO: terribly/awfully/desperately
+要求 | TRADUÇÃO: to request/to require/requirement/to stake a claim/to ask/to demand/CL:點|点
+要津 | TRADUÇÃO: strategic location; important hub/key post; prominent position
+要犯 | TRADUÇÃO: major criminal
+要略 | TRADUÇÃO: roughly/outline/summary
+要目 | TRADUÇÃO: important substance (of a document)/key section
+要看 | TRADUÇÃO: (it) depends on ...
+要端 | TRADUÇÃO: the main points
+要约 | TRADUÇÃO: to restrict/to agree to a contract/offer; bid
+要素 | TRADUÇÃO: essential factor/key constituent
+要紧 | TRADUÇÃO: important/urgent
+要义 | TRADUÇÃO: the essentials
+要闻 | TRADUÇÃO: important news story/headline
+要职 | TRADUÇÃO: key job/important position
+要脸 | TRADUÇÃO: (coll.) to have a sense of shame
+要着 | TRADUÇÃO: important thing/crucial thing
+要著 | TRADUÇÃO: important book
+要冲 | TRADUÇÃO: road hub/major crossroad
+要西了 | TRADUÇÃO: (coll.) unbearable (Shanghainese)
+要角 | TRADUÇÃO: significant role/major figure
+要言不烦 | TRADUÇÃO: to explain in simple terms/succinct/concise
+要诀 | TRADUÇÃO: the key trick/the secret of success
+要说 | TRADUÇÃO: as for/when it comes to
+要谎 | TRADUÇÃO: to ask an enormous price (as first negotiating step)
+要买人心 | TRADUÇÃO: variant of 邀買人心|邀买人心
+要账 | TRADUÇÃO: to demand repayment/to collect debt
+要路 | TRADUÇÃO: important road/main thoroughfare/fig. key position
+要道 | TRADUÇÃO: major road/thoroughfare/main road
+要钱 | TRADUÇÃO: to charge/to demand payment
+要隘 | TRADUÇÃO: strategic pass
+要面子 | TRADUÇÃO: see 愛面子|爱面子
+要领 | TRADUÇÃO: main aspects/essentials/gist
+要风得风，要雨得雨 | TRADUÇÃO: to get whatever one wants/to have everything going one's way
+要饭 | TRADUÇÃO: to beg (for food or money)
+要么 | TRADUÇÃO: or/either one or the other
+要点 | TRADUÇÃO: main point/essential
+覂 | TRADUÇÃO: to throw a rider
+覃 | TRADUÇÃO: surname Qin ‖ surname Tan ‖ deep
+覃塘 | TRADUÇÃO: see 覃塘區|覃塘区
+覃塘区 | TRADUÇÃO: Qintang, a district of Guigang City 貴港市|贵港市, Guangxi
+覃第 | TRADUÇÃO: extensive residence/your house
+覅 | TRADUÇÃO: (dialect) must not; please don't (contracted form of 勿要)
+覆 | TRADUÇÃO: to cover/to overflow/to overturn/to capsize
+覆亡 | TRADUÇÃO: fall (of an empire)
+覆巢之下无完卵 | TRADUÇÃO: lit. when the nest is upset no egg is left intact (idiom)/fig. when one falls in disgrace the whole family is doomed
+覆巢无完卵 | TRADUÇÃO: lit. when the nest overturns no egg remains intact/no member escapes unscathed from a family disaster (idiom)
+覆核 | TRADUÇÃO: to review/to reexamine/review
+覆水难收 | TRADUÇÃO: spilt water is difficult to retrieve (idiom)/it's no use crying over spilt milk/what's done is done and can't be reversed/the damage is done/once divorced, there's no reuniting
+覆没 | TRADUÇÃO: annihilated/capsized
+覆灭 | TRADUÇÃO: destruction
+覆叠 | TRADUÇÃO: to overlap/to overlay/cascaded (thermodynamic cycle)
+覆盆子 | TRADUÇÃO: raspberry
+覆膜 | TRADUÇÃO: membrane covering sth/coating
+覆盖 | TRADUÇÃO: to cover
+覆盖物 | TRADUÇÃO: mulch
+覆盖率 | TRADUÇÃO: coverage
+覆盖面 | TRADUÇÃO: coverage
+覆辙 | TRADUÇÃO: the tracks of a cart that overturned/(fig.) a path that led to failure in the past
+霸 | TRADUÇÃO: variant of 霸 ‖ hegemon/tyrant/lord/feudal chief/to rule by force/to usurp/(in modern advertising) master
+覉 | TRADUÇÃO: variant of 羈|羁
+见 | TRADUÇÃO: to see/to meet/to appear (to be sth)/to interview/opinion/view ‖ to appear/also written 現|现
+见不得 | TRADUÇÃO: not fit to be seen by/should not be exposed to/can't bear to see
+见不得人 | TRADUÇÃO: shameful
+见世面 | TRADUÇÃO: to see the world/to broaden one's horizons
+见亮 | TRADUÇÃO: please forgive me
+见人说人话，见鬼说鬼话 | TRADUÇÃO: (fig.) adaptable; able to deal with various kinds of people and situations/(derog.) insincere; two-faced
+见仁见智 | TRADUÇÃO: opinions differ (idiom)
+见光死 | TRADUÇÃO: (lit.) to wither in the light of day/(fig.) the bubble bursts as the reality becomes apparent (esp. of a much-anticipated first meeting with sb)/(of stocks) just as the favorable news is officially published, the stock price falls
+见利忘义 | TRADUÇÃO: (idiom) to abandon moral principles in the pursuit of profit
+见利思义 | TRADUÇÃO: to see profit and remember morality (idiom); to act ethically/not tempted by riches
+见到 | TRADUÇÃO: to see
+见告 | TRADUÇÃO: (literary) to inform (me)
+见地 | TRADUÇÃO: opinion/view/insight
+见报 | TRADUÇÃO: to appear in the news/in the papers
+见外 | TRADUÇÃO: to treat sb with the formal courtesy accorded to a host or a guest
+见多识广 | TRADUÇÃO: (idiom) experienced and knowledgeable
+见天 | TRADUÇÃO: (coll.) every day
+见好就收 | TRADUÇÃO: (idiom) to quit while one is ahead; to know when to stop
+见客 | TRADUÇÃO: to receive visitors; to receive guests
+见得 | TRADUÇÃO: to seem/to appear/(in a negative or interrogative sentence) to be sure
+见微知著 | TRADUÇÃO: (idiom) to examine tiny clues to know general trends; to deduce the whole story from small traces
+见怪 | TRADUÇÃO: to mind/to take offense
+见怪不怪 | TRADUÇÃO: (idiom) to have seen sth so often that it doesn't seem strange at all; to be well accustomed (to sth)
+见爱 | TRADUÇÃO: (literary) to be so good as to show favor (to me); to regard (me) highly
+见招拆招 | TRADUÇÃO: to counter every move/to be full of tricks
+见效 | TRADUÇÃO: to produce the intended effect; to achieve the desired result
+见教 | TRADUÇÃO: I have been enlightened by your teaching (humble)
+见方 | TRADUÇÃO: (measurement) (after a length) square (as in "10 feet square")
+见景生情 | TRADUÇÃO: to be touched by a scene/to adapt to the situation
+见机行事 | TRADUÇÃO: see the opportunity and act (idiom); to act according to circumstances/to play it by ear/to use one's discretion
+见状 | TRADUÇÃO: upon seeing this, .../in response, ...
+见猎心喜 | TRADUÇÃO: lit. seeing others go hunting, one is excited by memories of the thrill of the hunt (idiom)/fig. seeing others do what one loves to do, one is inspired to try it again
+见异思迁 | TRADUÇÃO: to change at once on seeing sth different (idiom); loving fads and novelty/never satisfied with what one has
+见真章 | TRADUÇÃO: to see how sb or sth performs when it comes to the crunch; to find out what sb is really made of; to witness true ability or worth revealed under pressure
+见票即付 | TRADUÇÃO: payable at sight/payable to bearer
+见笑 | TRADUÇÃO: to mock/to be ridiculed/to incur ridicule through one's poor performance (humble)
+见红 | TRADUÇÃO: (coll.) to bleed (esp. vaginal bleeding)/to suffer a financial loss
+见缝就钻 | TRADUÇÃO: lit. to squeeze into every crack (idiom)/fig. to make the most of every opportunity
+见缝插针 | TRADUÇÃO: lit. to see a gap and stick in a needle (idiom); fig. to make use of every second and every inch
+见义勇为 | TRADUÇÃO: (idiom, from the Analects) (usu. of a passer-by who comes across a critical situation) to step in and help; to take brave or selfless action
+见习 | TRADUÇÃO: to learn on the job/to be on probation
+见习员 | TRADUÇÃO: trainee
+见习生 | TRADUÇÃO: trainee; probationer
+见习医师 | TRADUÇÃO: medical intern
+见习医生 | TRADUÇÃO: medical intern
+见闻 | TRADUÇÃO: what one has seen and heard/knowledge/one's experience
+见背 | TRADUÇÃO: (formal) (euphemism) (of an elder) to pass away
+见色忘友 | TRADUÇÃO: to neglect one's friends when smitten with a new love
+见色忘义 | TRADUÇÃO: to forget loyalty when in love/hoes before bros
+见血封喉树 | TRADUÇÃO: Antiaris toxicaria (botany)
+见解 | TRADUÇÃO: opinion/view/understanding
+见访 | TRADUÇÃO: your visit (honorific)/you honor me with your visit
+见说 | TRADUÇÃO: to hear what was said
+见谅 | TRADUÇÃO: please forgive me
+见诸 | TRADUÇÃO: (literary) to appear in (newspapers, the media, a book etc)
+见诸行动 | TRADUÇÃO: to translate sth into action/to put sth into action
+见证 | TRADUÇÃO: to be witness to/witness/evidence
+见证人 | TRADUÇÃO: eyewitness (to an incident)/witness (to a legal transaction)
+见识 | TRADUÇÃO: to gain first-hand knowledge of sth/to experience for oneself/knowledge/experience/insight
+见财起意 | TRADUÇÃO: seeing riches provokes evil designs
+见贤思齐 | TRADUÇÃO: see a worthy, think to imitate (idiom, from Analects); emulate the virtuous/Follow the example of a virtuous and wise teacher.
+见钱眼开 | TRADUÇÃO: to open one's eyes wide at the sight of profit (idiom); thinking of nothing but personal gain/money-grubbing
+见长 | TRADUÇÃO: to excel at (typically used after the area of expertise) (Example: 以研究見長|以研究见长 to be known for one's research)
+见阎王 | TRADUÇÃO: (coll.) to meet one's maker; to kick the bucket; to die
+见面 | TRADUÇÃO: to meet; to see each other/CL:次
+见面会 | TRADUÇÃO: meet and greet; fan meeting
+见面礼 | TRADUÇÃO: gift given to sb when meeting them for the first time
+见风使帆 | TRADUÇÃO: lit. see the wind and set your sails (idiom); fig. to act pragmatically/to be flexible and take advantage of the situation
+见风使舵 | TRADUÇÃO: lit. see the wind and set the helm (idiom); fig. to act pragmatically/to be flexible and take advantage of the situation
+见风是雨 | TRADUÇÃO: lit. see the wind and assume it will rain (idiom); fig. gullible/to believe whatever people suggest
+见风转舵 | TRADUÇÃO: lit. see the wind and set the helm (idiom); fig. to act pragmatically/to be flexible and take advantage of the situation
+见马克思 | TRADUÇÃO: to die/lit. to visit Marx/to pass away
+见驾 | TRADUÇÃO: to have an audience (with the emperor)
+见鬼 | TRADUÇÃO: absurd/strange/(interj.) curse it!/to hell with it!
+覌 | TRADUÇÃO: variant of 觀|观
+觃 | TRADUÇÃO: (used in place names)
+觃口 | TRADUÇÃO: Yankou, village in Zhejiang Province
+规例 | TRADUÇÃO: regulations
+规制 | TRADUÇÃO: to regulate/rules and regulations/regulatory/style and structure (esp. of building)
+规则 | TRADUÇÃO: rule; regulation/regular; orderly; fixed
+规则化 | TRADUÇÃO: regularity
+规则性 | TRADUÇÃO: regularity
+规划 | TRADUÇÃO: to draw up a plan; to map out a program/a plan; a program
+规划人员 | TRADUÇÃO: planner
+规划局 | TRADUÇÃO: planning department
+规勉 | TRADUÇÃO: to advise and encourage
+规劝 | TRADUÇÃO: to advise
+规培 | TRADUÇÃO: (of a medical graduate) to undertake standardized training (as a resident doctor in a hospital) (abbr. for 規範化培訓|规范化培训)
+规定 | TRADUÇÃO: to stipulate; to specify; to prescribe; to fix (a price); to set (a quota)/regulations; rules; provisions; stipulations
+规律 | TRADUÇÃO: rule (e.g. of science)/law of behavior/regular pattern/rhythm/discipline
+规律性 | TRADUÇÃO: regular
+规复 | TRADUÇÃO: to restore (deposed monarch, rule, system of laws, ecological system etc)/restoration
+规戒 | TRADUÇÃO: variant of 規誡|规诫
+规整 | TRADUÇÃO: according to a pattern/regular/orderly/structured/neat and tidy
+规格 | TRADUÇÃO: standard/norm/specification
+规条 | TRADUÇÃO: regulations
+规模 | TRADUÇÃO: scale; scope; extent
+规模经济 | TRADUÇÃO: economies of scale
+规正 | TRADUÇÃO: to admonish
+规率 | TRADUÇÃO: law/pattern
+规矩 | TRADUÇÃO: lit. compass and set square/fig. established standard/rule/customs/practices/fig. upright and honest/well-behaved
+规矩准绳 | TRADUÇÃO: compasses, set square, spirit level and plumbline (idiom); fig. established standard/norms/criteria
+规矩绳墨 | TRADUÇÃO: compasses, set square and straight line marker (idiom); fig. established standard/norms/criteria
+规程 | TRADUÇÃO: rules; regulations
+规章 | TRADUÇÃO: rule; regulation
+规章制度 | TRADUÇÃO: rules and regulations
+规管 | TRADUÇÃO: to regulate
+规范 | TRADUÇÃO: norm/standard/specification/regulation/rule/within the rules/to fix rules/to regulate/to specify
+规范化 | TRADUÇÃO: to standardize/standardization
+规范性 | TRADUÇÃO: normal/standard
+规范理论 | TRADUÇÃO: Standard Model (of particle physics)
+规约 | TRADUÇÃO: terms (of an agreement)
+规行矩步 | TRADUÇÃO: to follow the compass and go with the set square (idiom); to follow the rules inflexibly/to act according to convention
+规训 | TRADUÇÃO: to discipline; to regulate through discipline/discipline/(sociology) institutionalized system of discipline
+规诫 | TRADUÇÃO: to warn (against some course)/to admonish
+规诲 | TRADUÇÃO: to admonish/to instruct
+规谏 | TRADUÇÃO: to remonstrate/to warn earnestly (esp. classical written Chinese)/to exhort
+规避 | TRADUÇÃO: to evade/to dodge
+覐 | TRADUÇÃO: old variant of 覺|觉 ‖ old variant of 覺|觉
+觅 | TRADUÇÃO: (literary) to seek/to find ‖ old variant of 覓|觅
+觅取 | TRADUÇÃO: to seek/to seek out
+觅句 | TRADUÇÃO: to search for the right word (of poet)
+觅食 | TRADUÇÃO: to forage/to hunt for food/to scavenge/fig. to make a living
+觅食行为 | TRADUÇÃO: foraging
+视乎 | TRADUÇÃO: to be determined by/to depend on
+视亮度 | TRADUÇÃO: apparent brightness (astronomy)
+视作 | TRADUÇÃO: to regard as/to treat as
+视像 | TRADUÇÃO: video (HK)
+视力 | TRADUÇÃO: eyesight; visual acuity
+视力测定法 | TRADUÇÃO: optometry/eyesight testing
+视力表 | TRADUÇÃO: eye chart (used by optician)
+视区 | TRADUÇÃO: field of view
+视同 | TRADUÇÃO: to regard the same as/to regard as being the same as
+视同儿戏 | TRADUÇÃO: to regard sth as a plaything (idiom); to consider unimportant/to view as trifling
+视同己出 | TRADUÇÃO: to regard sb as one's own child
+视同手足 | TRADUÇÃO: to regard sb as a brother (idiom)
+视图 | TRADUÇÃO: view
+视如土芥 | TRADUÇÃO: to regard as useless/to view as no better than weeds
+视如寇仇 | TRADUÇÃO: to regard as an enemy
+视如敝屣 | TRADUÇÃO: (lit.) to view as worn-out shoes (idiom)/(fig.) to consider to be worthless
+视如粪土 | TRADUÇÃO: to look upon as dirt/considered worthless
+视奸 | TRADUÇÃO: (neologism) to obsessively monitor sb's social media posts (orthographic borrowing from Japanese 視姦 "shikan", ogling; leering)
+视察 | TRADUÇÃO: to inspect/an investigation
+视屏 | TRADUÇÃO: screen (of a TV, computer etc)
+视差 | TRADUÇÃO: parallax
+视微知著 | TRADUÇÃO: see 見微知著|见微知著
+视损伤 | TRADUÇÃO: visual impairment
+视效 | TRADUÇÃO: visual effect (abbr. for 視覺效果|视觉效果)
+视死如归 | TRADUÇÃO: to view death as a return home/to not be afraid of dying/to face death with equanimity (idiom)
+视为 | TRADUÇÃO: to view as/to see as/to consider to be/to deem
+视为畏途 | TRADUÇÃO: to view as dangerous (idiom); afraid to do sth
+视为知己 | TRADUÇÃO: to consider sb as close friend (idiom); to take into one's confidence
+视界 | TRADUÇÃO: field of vision
+视盘 | TRADUÇÃO: optic disc (anatomy)/video compact disc (VCD)
+视盲 | TRADUÇÃO: blindness
+视神经 | TRADUÇÃO: optic nerve
+视神经乳头 | TRADUÇÃO: optic disk (terminal of the optic nerve on the retina)
+视神经盘 | TRADUÇÃO: optic disk (terminal of the optic nerve on the retina)
+视窗 | TRADUÇÃO: Windows (the Microsoft operating system) ‖ a window (on a computer screen)
+视网膜 | TRADUÇÃO: retina
+视线 | TRADUÇÃO: line of sight
+视而不见 | TRADUÇÃO: (idiom) to turn a blind eye to; to ignore
+视听 | TRADUÇÃO: what people see and hear; public perception/audiovisual
+视听材料 | TRADUÇÃO: evidence of material seen and heard/oral testimony
+视若无睹 | TRADUÇÃO: to turn a blind eye to
+视若路人 | TRADUÇÃO: to view as strangers
+视艺 | TRADUÇÃO: visual arts
+视觉 | TRADUÇÃO: sight/vision/visual
+视觉方言 | TRADUÇÃO: (linguistics) eye dialect
+视角 | TRADUÇÃO: angle from which one observes an object/(fig.) perspective; viewpoint; frame of reference/(cinematography) camera angle/(visual perception) visual angle (the angle a viewed object subtends at the eye)/(photography) angle of view
+视讯 | TRADUÇÃO: video (Tw)
+视距 | TRADUÇÃO: visible range
+视野 | TRADUÇÃO: field of view/(fig.) outlook; perspective
+视错觉 | TRADUÇÃO: optical illusion
+视障 | TRADUÇÃO: visual impairment
+视频 | TRADUÇÃO: video
+视频会议 | TRADUÇÃO: videoconferencing/videoconference
+视频点播 | TRADUÇÃO: video on demand (VOD)
+覗 | TRADUÇÃO: peek
+觇 | TRADUÇÃO: to observe/to spy on/Taiwan pr. [zhan1]
+觇标 | TRADUÇÃO: surveyor's beacon
+覜 | TRADUÇÃO: have an audience
+觋 | TRADUÇÃO: wizard
+覤 | TRADUÇÃO: variant of 虩
+觍 | TRADUÇÃO: shameful/shameless
+觎 | TRADUÇÃO: to desire passionately
+亲 | TRADUÇÃO: parent/one's own (flesh and blood)/relative/related/marriage/bride/close/intimate/in person/first-hand/in favor of/pro-/to kiss/(Internet slang) dear ‖ parents-in-law of one's offspring
+亲事 | TRADUÇÃO: marriage/CL:門|门
+亲人 | TRADUÇÃO: one's close relatives
+亲代 | TRADUÇÃO: parent's generation/previous generation
+亲信 | TRADUÇÃO: (often pejorative) trusted aide; confidant/to put one's trust in (sb)
+亲们 | TRADUÇÃO: darlings/fans/followers/short form of 親愛的們|亲爱的们
+亲兄弟，明算帐 | TRADUÇÃO: even with your own brother, keep clear accounts (idiom)
+亲切 | TRADUÇÃO: amiable/cordial/close and dear/familiar
+亲力亲为 | TRADUÇÃO: to do sth oneself
+亲北京 | TRADUÇÃO: pro-Beijing (stance, party etc)
+亲友 | TRADUÇÃO: friends and relatives
+亲口 | TRADUÇÃO: one's own mouth/fig. in one's own words/to say sth personally
+亲吻 | TRADUÇÃO: to kiss/kiss
+亲和 | TRADUÇÃO: to connect intimately (with)/amiable/affable
+亲和力 | TRADUÇÃO: (personal) warmth/approachability/accessibility/(in a product) user friendliness/(chemistry) affinity
+亲和性 | TRADUÇÃO: compatibility/affinity (biology)
+亲善 | TRADUÇÃO: goodwill
+亲善大使 | TRADUÇÃO: goodwill ambassador
+亲嘴 | TRADUÇÃO: to kiss (on the mouth)
+亲如一家 | TRADUÇÃO: family-like close relationship (idiom)
+亲如手足 | TRADUÇÃO: as close as brothers (idiom); deep friendship
+亲妈 | TRADUÇÃO: biological mother; real mom
+亲子 | TRADUÇÃO: parent and child/parent-child (relationship)/two successive generations
+亲子丼 | TRADUÇÃO: oyakodon, a donburi topped with chicken and egg (orthographic borrowing from Japanese)
+亲子游 | TRADUÇÃO: family vacation with an emphasis on activities for parents and children
+亲子鉴定 | TRADUÇÃO: paternity or maternity test
+亲家 | TRADUÇÃO: parents of one's daughter-in-law or son-in-law/relatives by marriage
+亲家公 | TRADUÇÃO: father of one's child's spouse
+亲家母 | TRADUÇÃO: mother of one's child's spouse
+亲密 | TRADUÇÃO: intimate/close
+亲密无间 | TRADUÇÃO: (idiom) to have a very close relationship with each other
+亲属 | TRADUÇÃO: kin/kindred/relatives
+亲征 | TRADUÇÃO: to take to the field oneself (of emperor)/to take part in person in an expedition
+亲情 | TRADUÇÃO: affection/family love/love, esp. within a married couple or between parents and children
+亲爱 | TRADUÇÃO: dear/beloved/darling
+亲爱精诚 | TRADUÇÃO: camaraderie
+亲戚 | TRADUÇÃO: a relative (i.e. family relation)/CL:門|门,個|个,位
+亲手 | TRADUÇÃO: with one's own hands; personally
+亲族 | TRADUÇÃO: relatives/members of the same family, clan, tribe etc
+亲昵 | TRADUÇÃO: intimate
+亲朋 | TRADUÇÃO: relatives and friends
+亲朋好友 | TRADUÇÃO: friends and family/kith and kin
+亲本 | TRADUÇÃO: (genetics) parent
+亲历 | TRADUÇÃO: to personally experience
+亲民 | TRADUÇÃO: in touch with the people/sensitive to people's needs
+亲民党 | TRADUÇÃO: People First Party, Taiwan
+亲水性 | TRADUÇÃO: hydrophilic
+亲水长廊 | TRADUÇÃO: waterside promenade
+亲测 | TRADUÇÃO: to try (sth) oneself
+亲炙 | TRADUÇÃO: to be enlightened by direct contact with sb
+亲热 | TRADUÇÃO: affectionate; intimate; warmhearted/to show affection for/(coll.) to get intimate with sb
+亲爸 | TRADUÇÃO: one's own father/biological father
+亲爹 | TRADUÇÃO: biological father; real dad
+亲王 | TRADUÇÃO: prince
+亲生 | TRADUÇÃO: one's own (child) (i.e. one's child by birth)/biological (parents)/birth (parents)
+亲生子女 | TRADUÇÃO: natural child
+亲生骨肉 | TRADUÇÃO: one's own flesh and blood
+亲疏 | TRADUÇÃO: close and distant (relatives)
+亲疏贵贱 | TRADUÇÃO: close and distant, rich and poor (idiom); everyone/all possible relations
+亲眷 | TRADUÇÃO: relatives
+亲眼 | TRADUÇÃO: with one's own eyes/personally
+亲眼目睹 | TRADUÇÃO: to see for oneself/to see with one's own eyes
+亲睦 | TRADUÇÃO: friendly/amicable/to keep up harmonious relations (with sb)
+亲睦邻邦 | TRADUÇÃO: friendly neighboring countries/to keep up good relations with neighboring countries
+亲笔 | TRADUÇÃO: in one's own handwriting
+亲缘 | TRADUÇÃO: blood relationship; genetic relationship; consanguinity
+亲缘关系 | TRADUÇÃO: phylogenetic relationship
+亲美 | TRADUÇÃO: pro-U.S.
+亲耳 | TRADUÇÃO: with one's own ears
+亲肤 | TRADUÇÃO: skin-friendly
+亲临 | TRADUÇÃO: to visit in person; to personally attend
+亲临其境 | TRADUÇÃO: to travel to a place personally (idiom)
+亲自 | TRADUÇÃO: personally/in person/oneself
+亲自动手 | TRADUÇÃO: to do the job oneself
+亲旧 | TRADUÇÃO: relatives and old friends
+亲卫队 | TRADUÇÃO: SS or Schutzstaffel, paramilitary organization in Nazi Germany
+亲亲 | TRADUÇÃO: dear one/to kiss/friendly
+亲赴 | TRADUÇÃO: to travel to (a place where duty calls)
+亲身 | TRADUÇÃO: personal/oneself
+亲近 | TRADUÇÃO: (of people or relationships) close; intimate/to draw close to; to engage with; to become familiar with (nature, places, ideas, art etc)
+觊 | TRADUÇÃO: to covet/to long for
+觊觎 | TRADUÇÃO: (literary) to covet; to cast greedy eyes on
+觏 | TRADUÇÃO: complete/meet unexpectedly/see
+覰 | TRADUÇÃO: variant of 覷|觑
+觐 | TRADUÇÃO: (history) to have an audience with the Emperor
+觐见 | TRADUÇÃO: to have an audience (with the Emperor)
+觑 | TRADUÇÃO: to spy/watch for
+觑合 | TRADUÇÃO: to squint
+觑忽 | TRADUÇÃO: variant of 覷糊|觑糊
+觑机会 | TRADUÇÃO: to watch for an opportunity
+觑步 | TRADUÇÃO: to spy on
+觑窥 | TRADUÇÃO: to peep at
+觑糊 | TRADUÇÃO: to squint
+觑着眼 | TRADUÇÃO: to narrow one's eyes and gaze at something with great attention
+觑视 | TRADUÇÃO: to look/to gaze
+觑觑眼 | TRADUÇÃO: myopia/nearsightedness/shortsightedness
+觉 | TRADUÇÃO: a nap/a sleep/CL:場|场 ‖ to feel/to find that/thinking/awake/aware
+觉察 | TRADUÇÃO: to sense/to perceive/to come to realize/to be aware
+觉得 | TRADUÇÃO: to think that ...; to feel that .../to feel (uncomfortable etc)
+觉悟 | TRADUÇÃO: to come to understand/to realize/consciousness/awareness/Buddhist enlightenment (Sanskrit: cittotpāda)
+觉醒 | TRADUÇÃO: to awaken/to come to realize/awakened to the truth/the truth dawns upon one/scales fall from the eyes/to become aware
+览 | TRADUÇÃO: to look at/to view/to read
+览胜 | TRADUÇÃO: to visit scenic spots
+览古 | TRADUÇÃO: to visit historic sites
+觌 | TRADUÇÃO: face to face
+观 | TRADUÇÃO: surname Guan ‖ to look at/to watch/to observe/to behold/to advise/concept/point of view/outlook ‖ Taoist monastery/palace gate watchtower/platform
+观世音 | TRADUÇÃO: Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)
+观世音菩萨 | TRADUÇÃO: Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)
+观光 | TRADUÇÃO: to tour/sightseeing/tourism
+观光区 | TRADUÇÃO: tourist region/sightseeing area
+观光客 | TRADUÇÃO: tourist
+观塘 | TRADUÇÃO: Kwun Tong district of Kowloon, Hong Kong
+观客 | TRADUÇÃO: audience
+观察 | TRADUÇÃO: to observe; to watch; to survey
+观察人士 | TRADUÇÃO: observer
+观察力 | TRADUÇÃO: power of observation/perception
+观察员 | TRADUÇÃO: observer
+观察哨 | TRADUÇÃO: sentry post
+观察家 | TRADUÇÃO: observer (esp. one who analyzes social or political affairs)
+观察者 | TRADUÇÃO: observer
+观山湖 | TRADUÇÃO: see 觀山湖區|观山湖区
+观山湖区 | TRADUÇÃO: Guanshanhu, a district of Guiyang City 貴陽市|贵阳市, Guizhou
+观影 | TRADUÇÃO: to watch a movie
+观后感 | TRADUÇÃO: impression or feeling after visiting or watching (movies, museums etc)
+观后镜 | TRADUÇÃO: mirror showing a view to one's rear (including rearview mirror, side-view mirror, baby view mirror etc)
+观念 | TRADUÇÃO: notion/thought/concept/sense/views/ideology/general impressions
+观想 | TRADUÇÃO: to visualize (Buddhist practice)
+观感 | TRADUÇÃO: one's impressions/observations
+观战 | TRADUÇÃO: to watch from the sidelines
+观摩 | TRADUÇÃO: to observe and emulate/to study (esp. following sb's example)
+观星台 | TRADUÇÃO: astronomical observatory (old)
+观景台 | TRADUÇÃO: lookout/viewing platform/observation deck
+观望 | TRADUÇÃO: to wait and see; to watch from the sidelines/to look around; to survey
+观止 | TRADUÇÃO: incomparably good
+观测 | TRADUÇÃO: to observe/to survey/observation (scientific etc)
+观测台 | TRADUÇÃO: observatory
+观测员 | TRADUÇÃO: observer/spotter
+观测者 | TRADUÇÃO: observer
+观测卫星 | TRADUÇÃO: observation satellite
+观澜湖 | TRADUÇÃO: Mission Hills Group (Chinese hospitality, sports and leisure company)
+观火 | TRADUÇÃO: penetrating (vision)
+观看 | TRADUÇÃO: to watch; to view
+观众 | TRADUÇÃO: spectators; audience; visitors (to an exhibition etc)
+观瞻 | TRADUÇÃO: appearance/view/abiding impression
+观礼 | TRADUÇÃO: to attend a ritual
+观落阴 | TRADUÇÃO: a ritual whereby the living soul is brought to the nether world for a spiritual journey
+观览 | TRADUÇÃO: to view/to look at/to look sth over
+观护所 | TRADUÇÃO: probation office
+观象台 | TRADUÇÃO: observatory/observation platform
+观赏 | TRADUÇÃO: to look at sth with pleasure; to watch (sth marvelous)/ornamental
+观赛 | TRADUÇÃO: to watch a match; to attend a sporting event as a spectator
+观衅伺隙 | TRADUÇÃO: lit. to look for holes, and observe gaps (idiom)/fig. to search out one's opponent's weak points/to look for the Achilles' heel
+观音 | TRADUÇÃO: Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)
+观音菩萨 | TRADUÇÃO: Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)
+观风 | TRADUÇÃO: on lookout duty/to serve as lookout
+观鸟 | TRADUÇÃO: birdwatching
+观点 | TRADUÇÃO: point of view/viewpoint/standpoint/CL:個|个
+角 | TRADUÇÃO: surname Jue ‖ angle/corner/horn/horn-shaped/unit of money equal to 0.1 yuan, or 10 cents (a dime)/CL:個|个 ‖ role (theater)/to compete/ancient three legged wine vessel/third note of pentatonic scale
+角分符号 | TRADUÇÃO: prime symbol (′) (math., linguistics etc)
+角力 | TRADUÇÃO: to wrestle/(fig.) to lock horns; to tussle; to wrangle/Taiwan pr. [jiao3li4]
+角动量 | TRADUÇÃO: angular momentum
+角化病 | TRADUÇÃO: (medicine) keratosis
+角口 | TRADUÇÃO: (literary) to quarrel/also pr. [jiao3kou3]
+角嘴海雀 | TRADUÇÃO: (bird species of China) rhinoceros auklet (Cerorhinca monocerata)
+角回 | TRADUÇÃO: angular gyrus (convolution of the brain)
+角妓 | TRADUÇÃO: courtesan
+角子 | TRADUÇÃO: one Jiao coin (Mao, one-tenth of yuan)
+角宿一 | TRADUÇÃO: (astronomy) Spica
+角尺 | TRADUÇÃO: set square (tool to measure right angles)
+角平分线 | TRADUÇÃO: angle bisector
+角度 | TRADUÇÃO: angle/(fig.) point of view
+角弓 | TRADUÇÃO: bow decorated with animal horns
+角弓反张 | TRADUÇÃO: opitoshtonous (med.), muscular spasm of the body associated with tetanus and meningitis
+角抵 | TRADUÇÃO: wrestling/to wrestle
+角曲尺 | TRADUÇÃO: miter square (tool to measure angles)
+角朊 | TRADUÇÃO: keratin
+角柱体 | TRADUÇÃO: prism (math.)
+角椅 | TRADUÇÃO: chair designed to fit in corner of a room
+角楼 | TRADUÇÃO: corner (between walls)
+角标 | TRADUÇÃO: subscript or superscript/corner label (on a product, image, document etc)/app icon badge (symbol on the upper-right corner an app icon, such as a red circle to indicate unread messages)
+角球 | TRADUÇÃO: corner kick (in soccer)/free strike in hockey
+角百灵 | TRADUÇÃO: (bird species of China) horned lark (Eremophila alpestris)
+角砧 | TRADUÇÃO: beck iron (corner of anvil)
+角磨机 | TRADUÇÃO: angle grinder
+角票 | TRADUÇÃO: banknote in Jiao units (Mao, one-tenth of yuan)
+角秒符号 | TRADUÇÃO: double prime symbol (″) (math., linguistics etc)
+角膜 | TRADUÇÃO: cornea

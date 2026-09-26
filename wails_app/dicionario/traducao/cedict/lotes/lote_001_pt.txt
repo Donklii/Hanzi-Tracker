@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significado1/significado2/.../ em inglês>
+# Traduza cada significado (a lista separada por "/") para português, mantendo os mesmos separadores "/", a mesma ORDEM e a mesma QUANTIDADE de significados por linha.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+110 | TRADUÇÃO: , o número de emergência para a polícia na China continental e em Taiwan
+119 | TRADUÇÃO: , o número de emergência para o corpo de bombeiros na China continental
+11区 | TRADUÇÃO: Zona 11 (ACG) Japão (do anime "Code Geass", no qual o Japão foi renomeado para Área 11)
+120 | TRADUÇÃO: , o número de emergência para assistência médica e primeiros socorros na China continental
+2019冠状病毒病 | TRADUÇÃO: COVID-19, a doença do coronavírus identificada em 2019
+21三体综合症 | TRADUÇÃO: trissomia 21; síndrome de Down
+3C | TRADUÇÃO: computadores, comunicações e eletrônicos de consumo/Certificado Obrigatório Chinês (CCC)
+3D打印 | TRADUÇÃO: impressão 3D; imprimir em 3D
+3D打印机 | TRADUÇÃO: impressora 3D
+3P | TRADUÇÃO: (gíria) ménage à trois
+3Q | TRADUÇÃO: (gíria da Internet) obrigado (estrangeirismo)
+421 | TRADUÇÃO: quatro avós, dois pais e um filho único
+4S店 | TRADUÇÃO: concessionária de serviços completos autorizada (que oferece vendas, peças, serviço pós-venda e suporte ao cliente)
+502胶 | TRADUÇÃO: adesivo de cianoacrilato
+88 | TRADUÇÃO: (gíria da Internet) tchau-tchau (alternativa para 拜拜)
+95后 | TRADUÇÃO: pessoas nascidas entre 1995-01-01 e 1999-12-31/Geração Z (abrev. para 95後|95后 + 00後|00后)
+996 | TRADUÇÃO: das 9h às 21h, seis dias por semana (jornada de trabalho)
+A | TRADUÇÃO: (gíria) (Taiwan) roubar
+AA制 | TRADUÇÃO: dividir a conta; pagar cada um o seu
+AB制 | TRADUÇÃO: dividir a conta (em que o homem paga a maior parte)/(teatro) sistema em que dois atores se revezam no papel principal, com um substituindo o outro se um estiver indisponível
+ACG | TRADUÇÃO: acrônimo para "anime, quadrinhos e jogos"
+A咖 | TRADUÇÃO: (coloq.) de primeira linha; de alto nível
+A圈儿 | TRADUÇÃO: arroba, @
+A片 | TRADUÇÃO: filme adulto; pornografia
+A菜 | TRADUÇÃO: (Taiwan) alface taiwanesa (Lactuca sativa var. sativa) (do taiwanês 萵仔菜, pron. Tai-lo [ue-á-tshài] ou [e-á-tshài])
+A货 | TRADUÇÃO: falsificação de boa qualidade
+B | TRADUÇÃO: variante eufemística de 屄
+BM | TRADUÇÃO: Brandy Melville, marca de moda conhecida por roupas voltadas a mulheres jovens muito magras/(uso genérico) modas para mulheres jovens pequenas
+BP机 | TRADUÇÃO: (estrangeirismo) bip; pager
+B型超声 | TRADUÇÃO: ultrassom tipo B
+B格 | TRADUÇÃO: variante de 逼格
+B站 | TRADUÇÃO: (coloq.) Bilibili, site chinês de compartilhamento de vídeos com comentários de usuários em rolagem 彈幕|弹幕 sobrepostos aos vídeos
+B超 | TRADUÇÃO: ultrassonografia modo B/ultrassom pré-natal/abreviatura de B型超聲|B型超声
+CJB | TRADUÇÃO: (gíria da Internet) não corresponde ao hype
+CP | TRADUÇÃO: um relacionamento romântico imaginado entre dois personagens de ficção (ou da vida real) que alguém deseja ou fantasia (abreviatura de "coupling")
+CP值 | TRADUÇÃO: (Taiwan) custo-benefício; bom retorno pelo dinheiro
+C位 | TRADUÇÃO: (neologismo, c. 2015) (coloq.) posição de maior destaque (ex.: em uma foto em grupo de artistas) (estrangeirismo de "carry" ou "center" ou "core")
+C盘 | TRADUÇÃO: unidade C ou unidade de inicialização padrão (computação)
+C罗 | TRADUÇÃO: apelido do jogador de futebol português Cristiano Ronaldo
+DNA鉴定 | TRADUÇÃO: teste de DNA; exame de DNA
+E仔 | TRADUÇÃO: MDMA (C11H15NO2)
+G友 | TRADUÇÃO: ver 基友
+G弦裤 | TRADUÇÃO: fio dental (calcinha)
+G点 | TRADUÇÃO: ponto G
+H桥 | TRADUÇÃO: ponte H (eletrônica)
+IP | TRADUÇÃO: propriedade intelectual (na China, especialmente desde 2015, frequentemente usado como termo da indústria do entretenimento para uma obra criativa usada como base de um novo produto, como um mangá adaptado para série de TV, ou a imagem de um personagem de desenho animado em mercadorias)
+IP剧 | TRADUÇÃO: adaptação para tela (série de TV ou filme baseado em um romance online ou videogame etc.)
+JK制服 | TRADUÇÃO: uniforme de estudante do ensino médio (Japão)
+K人 | TRADUÇÃO: (gíria) bater em alguém
+K仔 | TRADUÇÃO: (gíria) cetamina
+K他命 | TRADUÇÃO: (gíria) cetamina (C13H16ClNO)
+K房 | TRADUÇÃO: (gíria) KTV; sala de KTV
+K书 | TRADUÇÃO: (Taiwan) estudar intensamente (do taiwanês 齧書, pron. Tai-lo [khè-su], literalmente roer um livro, semelhante ao mandarim 啃書|啃书)
+K歌 | TRADUÇÃO: karaokê (gíria)
+K粉 | TRADUÇÃO: (gíria) cetamina
+K线 | TRADUÇÃO: candle (em um gráfico de velas)
+K线图 | TRADUÇÃO: gráfico de velas
+K金 | TRADUÇÃO: ver 開金|开金
+L照 | TRADUÇÃO: foto nua (de 裸照)
+MC | TRADUÇÃO: (Taiwan) (coloq.) menstruação (de "menstrual cycle")
+MV | TRADUÇÃO: desejabilidade como parceiro (abreviatura de "mate value")/videoclipe musical
+M巾 | TRADUÇÃO: (coloq.) absorvente higiênico
+NG | TRADUÇÃO: (estrangeirismo do japonês "NG", uma sigla para "no good") (cinema e TV) cena com erro; errar uma cena
+NG片段 | TRADUÇÃO: (cinema e TV) cena com erro
+NG镜头 | TRADUÇÃO: (cinema e TV) cena com erro
+N久 | TRADUÇÃO: um tempão (etimologia: em matemática, n representa um número arbitrariamente grande)
+N挡 | TRADUÇÃO: ponto morto (marcha)
+OK绷 | TRADUÇÃO: (Taiwan) band-aid; esparadrapo
+OK镜 | TRADUÇÃO: lente de OK, lente de contato de ortoqueratologia que ajuda a remodelar a córnea para eliminar a miopia
+OS | TRADUÇÃO: (em uma novela ou filme) voz over que torna os pensamentos não ditos de um personagem audíveis para o público
+O型腿 | TRADUÇÃO: pernas arqueadas; geno varo
+P | TRADUÇÃO: (gíria) feminina (estereótipo de lésbica)/fotoshoper
+PA | TRADUÇÃO: atendente de área pública (encarregado de limpar as áreas públicas de um hotel)/assistente de marketing/assistente de vendas
+PA部 | TRADUÇÃO: unidade de funcionários de hotel encarregada de manter limpas as áreas públicas do hotel
+PK | TRADUÇÃO: (gíria) enfrentar/desafiar/ir frente a frente/confronto/comparação
+PO | TRADUÇÃO: (Taiwan) (coloq.) postar (online)/também pron. [pou1]
+PO文 | TRADUÇÃO: (coloq.) postar uma mensagem
+PU | TRADUÇÃO: o grau de suspeita de que uma mulher possa, depois de se casar, trair o marido (abreviatura de "paternity uncertainty")
+PUA | TRADUÇÃO: (neologismo, atestado por 2019) exercer controle sobre (alguém) por meio de manipulação psicológica (ex.: negging)/uma pessoa que faz isso (estrangeirismo de "pickup artist")
+P图 | TRADUÇÃO: (gíria da Internet) fotoshoper uma imagem; imagem fotoshopada
+P挡 | TRADUÇÃO: estacionamento (marcha)/modo programa (em uma câmera digital)
+P民 | TRADUÇÃO: (gíria) cidadão comum/povão/ralé
+Q | TRADUÇÃO: fofo (estrangeirismo)/(de comida) com uma mastigabilidade agradável (como mochi, pérolas de tapioca, bolas de taro etc. – alimentos com textura elástica ou gelatinosa)/(estrangeirismo) dar uma deixa para alguém
+QR扣 | TRADUÇÃO: (Taiwan) (estrangeirismo) código QR
+Q劲 | TRADUÇÃO: textura elástica (de comida)
+Q弹 | TRADUÇÃO: (da textura de um alimento) elástico/firme/al dente
+T | TRADUÇÃO: (gíria) butch (estereótipo de lésbica)
+TA | TRADUÇÃO: ele ou ela
+TF卡 | TRADUÇÃO: cartão microSD
+Tony | TRADUÇÃO: (gíria) cabeleireiro
+Tony老师 | TRADUÇÃO: (gíria) cabeleireiro
+T台 | TRADUÇÃO: passarela (para desfile de moda etc.); passarela
+T型台 | TRADUÇÃO: passarela (para desfile de moda etc.); passarela
+T字帐 | TRADUÇÃO: conta T (contabilidade)
+T字裤 | TRADUÇÃO: tanga (roupa íntima)
+T恤 | TRADUÇÃO: (estrangeirismo) camiseta
+T裇 | TRADUÇÃO: variante de T恤
+UP主 | TRADUÇÃO: (gíria da Internet) uploader (pessoa que envia um vídeo ou outro conteúdo para a Internet)/pronunciado [a4 pu5 zhu3]/(estrangeirismo do japonês うｐ主, "upunushi")
+USB手指 | TRADUÇÃO: pen drive USB
+U凸内裤 | TRADUÇÃO: cueca samba-canção com bolso contorno
+U型枕 | TRADUÇÃO: travesseiro de viagem
+U型池 | TRADUÇÃO: rampa vertical, half-pipe
+U形转弯 | TRADUÇÃO: retorno em U, meia-volta
+U盘 | TRADUÇÃO: pen drive, flash drive USB
+U盾 | TRADUÇÃO: chave de segurança USB para banco online chinês
+VCR | TRADUÇÃO: videoclipe (empréstimo de "videocassette recorder")
+V沟 | TRADUÇÃO: decote baixo que revela o colo/decote/ravina
+XO酱 | TRADUÇÃO: molho XO, molho de frutos do mar picante inventado em Hong Kong na década de 1980
+X光 | TRADUÇÃO: raio X
+Z世代 | TRADUÇÃO: Geração Z, Zoomers
+cos | TRADUÇÃO: play / fazer cosplay / fantasiar-se de
+coser | TRADUÇÃO: cosplayer
+e人 | TRADUÇÃO: (gíria) pessoa extrovertida
+ins | TRADUÇÃO: Instagram
+i人 | TRADUÇÃO: (gíria) pessoa introvertida
+ky | TRADUÇÃO: (gíria) sem noção social; incapaz de perceber o clima (do japonês KY, acrônimo de 空気が読めない "kuuki ga yomenai")
+mua | TRADUÇÃO: (onom.) mwah (som de um beijo)
+w | TRADUÇÃO: (gíria da internet) dez mil (abrev. de 萬|万)
+word | TRADUÇÃO: meu (variante de gíria da internet de 我的)
+word姐 | TRADUÇÃO: minha irmã mais velha (variante de gíria da internet de 我的姐)
+□ | TRADUÇÃO: (Taiwan) (coloq.) legal/demais/(etimologicamente, forma contraída de 不一樣|不一样)/(frequentemente escrito como ㄅㄧㄤˋ)/(onom.) pum! (som de uma bala disparada por uma arma)/também pron. [biu4]/tenso; teimoso; forçar-se a fazer algo (do taiwanês, pron. Tai-lo [king], frequentemente escrito como ㄍㄧㄥ, sem forma consagrada de hanzi)
+○ | TRADUÇÃO: caractere usado em Taiwan como substituto de nome real (como "X" em inglês)/variante de 〇
+⺮ | TRADUÇÃO: radical "bambu" em caracteres chineses (Kangxi radical 118)
+々 | TRADUÇÃO: marca de iteração indicando repetição do caractere anterior na escrita horizontal (raro em chinês moderno)
+〇 | TRADUÇÃO: zero
+〡 | TRADUÇÃO: numeral 1 no sistema numeral de Suzhou 蘇州碼子|苏州码子
+〢 | TRADUÇÃO: numeral 2 no sistema numeral de Suzhou
+〣 | TRADUÇÃO: numeral 3 no sistema numeral de Suzhou
+〤 | TRADUÇÃO: numeral 4 no sistema numeral de Suzhou
+〥 | TRADUÇÃO: numeral 5 no sistema numeral de Suzhou
+〦 | TRADUÇÃO: numeral 6 no sistema numeral de Suzhou
+〧 | TRADUÇÃO: numeral 7 no sistema numeral de Suzhou
+〨 | TRADUÇÃO: numeral 8 no sistema numeral de Suzhou
+〩 | TRADUÇÃO: numeral 9 no sistema numeral de Suzhou
+〸 | TRADUÇÃO: numeral 10 no sistema numeral de Suzhou
+〻 | TRADUÇÃO: marca de iteração indicando repetição do caractere anterior na escrita vertical (raro em chinês moderno)
+ㄅㄧㄤˋ | TRADUÇÃO: (Taiwan) (coloq.) legal/demais/pron. [biang4]/(etimologicamente, forma contraída de 不一樣|不一样)
+ㄏㄤ | TRADUÇÃO: (Taiwan) (gíria) popular; na moda (do taiwanês 烘, pron. Tai-lo [hang])
+㐄 | TRADUÇÃO: componente em caracteres chineses, imagem espelhada de 夂
+㐅 | TRADUÇÃO: variante antiga de 五
+㐌 | TRADUÇÃO: variante de 它
+㐖 | TRADUÇÃO: usado em 㐖毒
+㐖毒 | TRADUÇÃO: nome arcaico para a Índia
+㐜 | TRADUÇÃO: variante de 仇
+㐡 | TRADUÇÃO: variante antiga de 懦
+㐤 | TRADUÇÃO: variante antiga de 求
+㐫 | TRADUÇÃO: variante antiga de 凶
+㐰 | TRADUÇÃO: variante antiga de 信
+㐺 | TRADUÇÃO: variante antiga de 眾|众
+㑊 | TRADUÇÃO: usado em 解㑊
+㑇 | TRADUÇÃO: (antigo) bonito; inteligente
+俊 | TRADUÇÃO: variante antiga de 俊 [jun4]/esperto/eminente/bonito/talentoso/pronúncia dialetal de 俊 [jun4]/legal/organizado/variante de 俊 [jun4]
+㒳 | TRADUÇÃO: variante antiga de 兩|两
+㒸 | TRADUÇÃO: variante antiga de 遂
+罔 | TRADUÇÃO: variante antiga de 罔 / enganar / não há / variante antiga de 網|网
+寇 | TRADUÇÃO: variante antiga de 寇 [kou4]/variante antiga de 寇 [kou4]/invadir/saquear/bandido/inimigo/adversário
+㔾 | TRADUÇÃO: radical "selo" em caracteres chineses (Kangxi radical 26)
+却 | TRADUÇÃO: variante antiga de 卻|却/mas/contudo/entretanto/enquanto/voltar atrás/recusar/retirar-se/apesar de/embora
+厨 | TRADUÇÃO: variante antiga de 廚|厨 / cozinha
+参 | TRADUÇÃO: variante de 參|参 / participar / tomar parte / juntar-se / assistir / aconselhar / desigual / variado / irregular / desnivelado / não uniforme / abrev. de 參議院|参议院 Senado, Câmara Alta / usado em 參差|参差 / ginseng / uma das 28 constelações / variante antiga de 參|参 / variante de 參|参 / variante de 參|参
+㕥 | TRADUÇÃO: variante antiga de 呻
+以 | TRADUÇÃO: variante antiga de 以 / variante antiga de 以 / abrev. de Israel 以色列 / usar / por meio de / de acordo com / a fim de / por causa de / em (uma certa data ou lugar)
+㕯 | TRADUÇÃO: variante antiga de 訥|讷
+㕻 | TRADUÇÃO: variante de 咅 / também pron. [tou4]
+㗂 | TRADUÇÃO: variante de 省 / de lábios apertados / examinar / observar / vasculhar (esp. cantonês)
+𪢌 | TRADUÇÃO: usado em 㘓哰|𪢌哰
+𪢌哰 | TRADUÇÃO: incoerente; ininteligível
+㘎 | TRADUÇÃO: (literário) (de um tigre) rosnar; rugir
+坳 | TRADUÇÃO: variante de 坳 / depressão, cavidade, oco / pron. em Taiwan [ao1]
+㘵 | TRADUÇÃO: (usado em topônimos)
+㙍 | TRADUÇÃO: (usado em topônimos)
+㙦 | TRADUÇÃO: (usado em topônimos)
+㚻 | TRADUÇÃO: usado em 㚻姦|㚻奸
+㚻奸 | TRADUÇÃO: variante de 雞姦|鸡奸
+㛂 | TRADUÇÃO: graciosa; frágil e delicada
+㛃 | TRADUÇÃO: variante de 潔|洁 (usado principalmente em nomes próprios)
+㝄 | TRADUÇÃO: variante antiga de 純|纯
+㝇 | TRADUÇÃO: variante antiga de 鶉|鹑
+宿 | TRADUÇÃO: variante antiga de 宿 / sobrenome Su / pousada para a noite / velho, antigo / anterior / noite / classificador para noites / constelação
+冥 | TRADUÇÃO: variante antiga de 冥 / escuro / profundo / estúpido / o submundo
+最 | TRADUÇÃO: variante de 最 / variante antiga de 最 / (antes de adjetivo ou verbo) no mais alto grau; o mais; o maior / (após 之) melhor ou mais extremo exemplo
+㝵 | TRADUÇÃO: variante de 礙|碍 / obter (variante antiga de 得)
+㞎 | TRADUÇÃO: (dialeto) cocô / (dialeto) fazer cocô
+㞎㞎 | TRADUÇÃO: (linguagem infantil) cocô
+㞗 | TRADUÇÃO: (dialeto) pênis; pau
+㞙 | TRADUÇÃO: variante antiga de 尿
+𪨊 | TRADUÇÃO: (coloq.) sêmen / (coloq.) fraco e incompetente
+岸 | TRADUÇÃO: variante de 岸 / margem, margem, praia, costa
+㟃 | TRADUÇÃO: (usado em topônimos)
+岛 | TRADUÇÃO: variante de 島|岛 / ilha / CL:個|个,座
+㠇 | TRADUÇÃO: (nome de uma cordilheira)
+帆 | TRADUÇÃO: variante de 帆 / vela / pron. em Taiwan [fan2], exceto 帆布 lona / galopar / pron. em Taiwan [fan2] / variante de 帆
+帽 | TRADUÇÃO: variante antiga de 帽/chapéu/boné
+廉 | TRADUÇÃO: variante antiga de 廉 / variante antiga de 廉 / sobrenome Lian / incorruptível / honesto / barato / investigar (antigo) / parede lateral de uma casa chinesa tradicional (antigo)
+迥 | TRADUÇÃO: variante de 迥 / distante / variante antiga de 迥
+㢲 | TRADUÇÃO: variante de 巽
+㢴 | TRADUÇÃO: variante antiga de 西
+㣟 | TRADUÇÃO: ir / andar
+㤅 | TRADUÇÃO: variante antiga de 愛|爱
+恩 | TRADUÇÃO: variante de 恩 / favor, graça, bondade / (coloq.) usado como 嗯 em chat online, expressando concordância
+㥁 | TRADUÇÃO: variante de 德
+㥏 | TRADUÇÃO: (literário) envergonhado
+惬 | TRADUÇÃO: variante de 愜|惬/(literário) satisfeito; contente
+㤘 | TRADUÇÃO: (dialeto) teimoso
+㦂 | TRADUÇÃO: variante antiga de 常
+㧯 | TRADUÇÃO: cesto de vime de fundo redondo/(dialeto) levantar/carregar no ombro
+拿 | TRADUÇÃO: variante antiga de 拿/variante de 拿/segurar/agarrar/capturar/prender/pegar/(usado como 把: marca o substantivo seguinte como objeto direto)
+㨃 | TRADUÇÃO: variante de 懟|怼
+捷 | TRADUÇÃO: variante de 捷/rápido/ágil/tcheco/República Tcheca/abrev. de 捷克/vitória/triunfo/rápido/ágil/rápido
+晃 | TRADUÇÃO: variante de 晃/ofuscar/passar rapidamente/balançar/agitar/deambular
+据 | TRADUÇÃO: variante de 據|据/usado em 拮据/variante de 據|据/de acordo com/agir em conformidade com/depender de/agarrar/ocupar
+㩐 | TRADUÇÃO: variante de 扽
+携 | TRADUÇÃO: variante antiga de 攜|携/variante antiga de 攜|携/variante antiga de 攜|携/carregar/levar/trazer junto/segurar (mãos)/também pron. [xi1]
+㨫 | TRADUÇÃO: variante de 擥
+㧐 | TRADUÇÃO: (literário) ficar em pé/(dialeto) empurrar/empurrão
+㪃 | TRADUÇÃO: bater; golpear
+㪋 | TRADUÇÃO: variante de 捍
+散 | TRADUÇÃO: variante de 散/espalhado/solto/soltar-se/desmoronar/pacato/medicamento em pó/espalhar/dissolver (uma reunião etc)/dispersar/disseminar/desfazer/(coloq.) demitir
+敦 | TRADUÇÃO: variante de 敦/bondoso/nome de lugar
+㫰 | TRADUÇÃO: (dialeto) secar (algo) ao sol; secar (algo) ao ar
+㫺 | TRADUÇÃO: variante antiga de 昔
+暖 | TRADUÇÃO: variante antiga de 暖/quente/aquecer/variante de 暖/variante de 暖, quente
+㬎 | TRADUÇÃO: variante antiga de 顯|显
+㮎 | TRADUÇÃO: variante de 杯
+㮚 | TRADUÇÃO: variante antiga de 栗
+㮸 | TRADUÇÃO: variante de 送
+橹 | TRADUÇÃO: variante de 櫓|橹/variante antiga de 櫓|橹/remo de popa (remo único manejado de lado a lado na popa de um barco)/variante de 櫓|橹/variante de 櫓|橹
+㯳 | TRADUÇÃO: variante de 檠
+饮 | TRADUÇÃO: variante antiga de 飲|饮/beber/dar (a animais) água para beber
+㱾 | TRADUÇÃO: um tipo de ornamento de metal ou jade usado na antiguidade para afastar espíritos malignos
+㲈 | TRADUÇÃO: variante de 韶/variante de 鞀|鼗
+㲋 | TRADUÇÃO: nome antigo de um animal semelhante a coelho, mas maior
+㲱 | TRADUÇÃO: variante antiga de 鬣
+㲾 | TRADUÇÃO: variante antiga de 雨
+㳂 | TRADUÇÃO: variante de 沿
+涎 | TRADUÇÃO: variante de 涎/saliva
+㳇 | TRADUÇÃO: (usado em nomes de lugares)
+法 | TRADUÇÃO: variante de 法/França/francês/abrev. de 法國|法国/pron. Taiwan [Fa4]/lei/método/maneira/emular/(Budismo) dharma/(abrev. de 法家) os Legalistas/(física) farad (abrev. de 法拉)/variante antiga de 法/lei
+㳘 | TRADUÇÃO: (literário) (de riacho de montanha) fluir para baixo/(onom.) som de água corrente
+㳮 | TRADUÇÃO: variante antiga de 尿
+深 | TRADUÇÃO: variante antiga de 深/(lit. e fig.) profundo
+涧 | TRADUÇÃO: variante de 澗|涧/riacho de montanha
+㵐 | TRADUÇÃO: Rio Jue em Hubei
+㵐水 | TRADUÇÃO: Rio Jue (na Província de Hubei)
+㵪 | TRADUÇÃO: variante de 涎
+㵮 | TRADUÇÃO: água clara
+㶸 | TRADUÇÃO: (significado preciso desconhecido, relacionado a ferro)/variante de 協|协
+㷖 | TRADUÇÃO: variante antiga de 照
+㷭 | TRADUÇÃO: variante antiga de 烽
+烨 | TRADUÇÃO: variante de 燁|烨/labareda de fogo/glorioso/variante de 燁|烨
+㸌 | TRADUÇÃO: cintilar; brilhar
+㹠 | TRADUÇÃO: variante antiga de 豚
+㹢 | TRADUÇÃO: usado em 㺢㹢狓
+㹴 | TRADUÇÃO: terrier/também pr. [geng3]
+㹴犬 | TRADUÇÃO: terrier
+㺢 | TRADUÇÃO: usado em 㺢㹢狓
+㺢㹢狓 | TRADUÇÃO: (empréstimo) ocapi (Okapia johnstoni)
+㺵 | TRADUÇÃO: jade preto (variante de 玖)
+㻬 | TRADUÇÃO: um tipo de jade
+㻽 | TRADUÇÃO: variante de 璿|璇/também pr. [sui4]
+碗 | TRADUÇÃO: variante de 碗/variante de 碗/variante de 碗/tigela/copo/CL:隻|只,個|个
+留 | TRADUÇÃO: variante antiga de 留/deixar (uma mensagem etc)/reter/ficar/permanecer/manter/preservar/variante antiga de 留
+㽮 | TRADUÇÃO: variante antiga de 星
+瘪 | TRADUÇÃO: variante de 癟|瘪/murcho/encolhido/fundo/vazio
+㿝 | TRADUÇÃO: variante antiga de 香
+㿠 | TRADUÇÃO: (literário) (do rosto) pálido devido a deficiência de qi e sangue
+䂖 | TRADUÇÃO: variante de 石
+䂲 | TRADUÇÃO: variante de 砝
+䂶 | TRADUÇÃO: variante de 蜐
+䃉 | TRADUÇÃO: variante antiga de 珉
+䃎 | TRADUÇÃO: (usado em nomes de lugares)
+䅵 | TRADUÇÃO: casca de cereal/farelo
+䇲 | TRADUÇÃO: variante de 筴|策
+筲 | TRADUÇÃO: escova de lavar panelas feita de tiras de bambu/cesto (recipiente) para pauzinhos/variante de 筲/cesto/balde
+糊 | TRADUÇÃO: variante de 糊/untar; espalhar; cobrir (uma superfície com algo pegajoso ou pastoso)/pron. Taiwan [hu2]/colar; grudar/borrado; indistinto; confuso/(esp. de comida) queimado/pasta; mingau; papa grossa/pasta/creme/mingau de arroz/(em 糊口) alimentar-se
+䍃 | TRADUÇÃO: (arcaico) vaso; jarro
+䍹 | TRADUÇÃO: variante de 膻
+䎃 | TRADUÇÃO: (ornitologia) penugem
+䒗 | TRADUÇÃO: variante antiga de 芞
+䓬 | TRADUÇÃO: (química) íon tropílio
+䔢 | TRADUÇÃO: variante antiga de 華|华
+䕭 | TRADUÇÃO: variante de 蕁|荨/um tipo de verdura
+䖟 | TRADUÇÃO: variante antiga de 虻
+䖸 | TRADUÇÃO: variante de 蛾
+䗈 | TRADUÇÃO: variante antiga de 虻
+䗥 | TRADUÇÃO: usado em 螉䗥
+䗪 | TRADUÇÃO: besouro-terrestre-chinês (Eupolyphaga sinensis)
+蜂 | TRADUÇÃO: variante de 蜂/abelha/vespa/variante antiga de 蜂
+䗶 | TRADUÇÃO: variante antiga de 蠟|蜡
+恤 | TRADUÇÃO: variante de 恤/ansiedade/simpatia/simpatizar/aliviar/compensar/ansiedade/simpatia/simpatizar/aliviar/compensar/variante de 恤
+脉 | TRADUÇÃO: variante antiga de 脈|脉/artérias e veias/veia (em folha, asa de inseto etc)/ver 脈脈|脉脉/variante de 脈|脉
+卒 | TRADUÇÃO: variante de 卒/variante de 猝/soldado/servo/terminar/morrer/finalmente/por fim/peão no xadrez chinês
+词 | TRADUÇÃO: variante antiga de 詞|词/palavra/declaração; discurso; letras/uma forma de poesia lírica, florescente na dinastia Song 宋朝 (CL:首)
+䛟 | TRADUÇÃO: variante de 唊
+䝓 | TRADUÇÃO: variante antiga de 鬣
+獾 | TRADUÇÃO: variante de 獾/texugo/variante de 獾
+䞓 | TRADUÇÃO: variante antiga de 赬|赪
+䟆 | TRADUÇÃO: variante antiga de 蹕|跸
+䠀 | TRADUÇÃO: agachar; sentar
+趟 | TRADUÇÃO: variante antiga de 趟/vadear/pisotear/revirar o solo/classificador para vezes, viagens de ida e volta ou fileiras/uma vez/uma viagem
+䠞 | TRADUÇÃO: variante de 蹙
+射 | TRADUÇÃO: variante antiga de 射/atirar/lançar/aludir a/radio- (química)
+䠷 | TRADUÇÃO: usado em 高䠷
+䢺 | TRADUÇÃO: (usado em nomes de lugares)
+䤈 | TRADUÇÃO: variante antiga de 醯
+鿏 | TRADUÇÃO: meitnério (química)
+镰 | TRADUÇÃO: variante antiga de 鐮|lian2]/variante de 鐮|lian2]/(forma ligada) foice
+䦉 | TRADUÇÃO: variante de 肆
+䦕 | TRADUÇÃO: variante de 閛
+䩦 | TRADUÇÃO: variante de 鞗
+䫏 | TRADUÇÃO: variante de 魌
+飒 | TRADUÇÃO: variante de 颯|sa4]/som do vento/valente/melancólico
+䬠 | TRADUÇÃO: variante antiga de 霏
+䬪 | TRADUÇÃO: variante de 餺|bo2]
+驮 | TRADUÇÃO: variante de 馱|tuo2]/carga levada por animal de carga/carregar nas costas
+䯝 | TRADUÇÃO: variante de 髓
+魂 | TRADUÇÃO: variante antiga de 魂/alma; espírito; alma imortal (que pode se separar do corpo)
+鲃 | TRADUÇÃO: usado em 䰾魚|ba1 yu2]
+鲃鱼 | TRADUÇÃO: barbo (peixe)
+鳚 | TRADUÇÃO: blenídeo
+䲔 | TRADUÇÃO: variante antiga de 鯨|jing1]
+鳤 | TRADUÇÃO: Ochetobius elongatus, espécie de peixe ciprinídeo encontrado no leste da Ásia
+䳗 | TRADUÇÃO: variante de 鵝|e2]
+鹅 | TRADUÇÃO: variante de 鵝|e2]/ganso/CL:隻|zhi1]/variante de 鵝|e2]
+䳭 | TRADUÇÃO: chasco (ave do gênero Oenanthe)
+𬸩 | TRADUÇÃO: usado em 鶆䴈|ao3]
+鹮 | TRADUÇÃO: colhereiro/íbis/família Threskiornithidae
+鹮嘴鹬 | TRADUÇÃO: (espécie de ave da China) ibidorbica (Ibidorhyncha struthersii)
+麸 | TRADUÇÃO: variante de 麩|fu1]/farelo
+䵹 | TRADUÇÃO: variante antiga de 蜘
+衄 | TRADUÇÃO: variante antiga de 衄/variante de 衄/sangrar pelo nariz (ou pelos ouvidos, gengivas etc)/fig. ser derrotado
+䶑 | TRADUÇÃO: variante de 嚏
+一 | TRADUÇÃO: um/único/um (artigo)/assim que/inteiro; todo; todos; por toda parte/radical “um” em caracteres chineses (radical Kangxi 1)/tb. pr. [yao1] para maior clareza ao soletrar números dígito por dígito
+一一 | TRADUÇÃO: um por um; um após o outro
+一一对应 | TRADUÇÃO: correspondência um a um
+一一映射 | TRADUÇÃO: (mat.) aplicação bijetiva
+一丁不识 | TRADUÇÃO: (expressão idiomática) analfabeto
+一丁点 | TRADUÇÃO: um pouquinho
+一下 | TRADUÇÃO: (após um verbo) um pouco (indicando duração breve, ou suavizando o tom, ou sugerindo experimentar algo)/de repente
+一下儿 | TRADUÇÃO: forma com erhua de 一下
+一下子 | TRADUÇÃO: em pouco tempo/de uma vez/todo de repente
+一不做，二不休 | TRADUÇÃO: lit. ou não faça, ou não descanse (expressão idiomática)/fig. se você fizer, vá até o fim/“in for a penny, in for a pound”
+一不小心 | TRADUÇÃO: estar um pouco descuidado; ter um momento de desatenção; acidentalmente
+一世 | TRADUÇÃO: geração/período de 30 anos/toda a vida de alguém/vida inteira/era/época/tempos/o mundo inteiro/o Primeiro (de reis europeus numerados)
+一丘之貉 | TRADUÇÃO: chacais da mesma tribo (expressão idiomática); fig. Eles são todos igualmente ruins.
+一丢丢 | TRADUÇÃO: (coloq.) um pouquinho
+一并 | TRADUÇÃO: variante de 一併|yi1 bing4]/agrupar; tratar junto com todos os outros
+一中一台 | TRADUÇÃO: “uma China, um Taiwan” – a noção de que China e Taiwan são entidades políticas separadas
+一中原则 | TRADUÇÃO: princípio de uma só China, a doutrina oficial de que Taiwan é uma província da China
+一之为甚 | TRADUÇÃO: uma vez já é demais (expressão idiomática)
+一之谓甚 | TRADUÇÃO: veja 一之為甚|yi1 zhi1 wei2 shen4]
+一干二净 | TRADUÇÃO: completamente (expressão idiomática)/totalmente/todos/muito limpo
+一了百了 | TRADUÇÃO: (expressão idiomática) uma vez resolvido o problema principal, todos os problemas estão resolvidos; a morte acaba com todos os problemas de alguém
+一事无成 | TRADUÇÃO: (expressão idiomática) não ter realizado nada; ser um fracasso total; não chegar a lugar nenhum
+一二 | TRADUÇÃO: um ou dois; alguns/um pouco; só um bocadinho
+一二九运动 | TRADUÇÃO: Movimento 9 de Dezembro (1935), movimento de protesto estudantil pedindo resistência à agressão japonesa
+一二八事变 | TRADUÇÃO: Incidente 28 de Janeiro (1932), conflito militar entre China e Japão em Xangai
+一五一十 | TRADUÇÃO: lit. contar de cinco em cinco e de dez em dez (expressão idiomática); narrar sistematicamente e com todos os detalhes
+一些 | TRADUÇÃO: alguns; uns poucos; um pouco; (após um adjetivo) ligeiramente mais
+一人得道，鸡犬升天 | TRADUÇÃO: (lit.) quando uma pessoa atinge a iluminação e imortalidade, até suas galinhas e cães sobem ao céu com ela (expressão idiomática)/(fig.) quando alguém atinge uma posição de poder e influência, seus parentes e amigos também se beneficiam
+一介不取 | TRADUÇÃO: nem aceitar um centavo (como suborno)
+一代 | TRADUÇÃO: uma era; uma época; uma geração
+一代不如一代 | TRADUÇÃO: estar piorando a cada geração
+一以贯之 | TRADUÇÃO: (expressão idiomática) (de um princípio, propósito etc) consistentemente mantido; aderido do início ao fim
+一作 | TRADUÇÃO: primeiro autor (de um artigo acadêmico) (abrev. de 第一作者)
+一来 | TRADUÇÃO: primeiro, ...
+一来二去 | TRADUÇÃO: gradualmente/pouco a pouco/com o tempo
+一个 | TRADUÇÃO: um; uma/o (tarde, férias de verão etc) inteiro
+一个中国政策 | TRADUÇÃO: política de uma só China
+一个人 | TRADUÇÃO: sozinho (sem ajuda)/sozinho (sem companhia)
+一个个 | TRADUÇÃO: vários/cada um/um por um; um após o outro
+一个劲 | TRADUÇÃO: continuamente/persistentemente/incessantemente
+一个劲儿 | TRADUÇÃO: variante com erhua de 一個勁|yi1 ge4 jin4]
+一个半 | TRADUÇÃO: um e meio
+一个天南，一个地北 | TRADUÇÃO: viver a milhas de distância
+一个将军一个令 | TRADUÇÃO: lit. um general, uma ordem (expressão idiomática)/fig. cada chefe tem suas próprias regras/cada um tem seu próprio jeito de fazer as coisas
+一个巴掌拍不响 | TRADUÇÃO: lit. uma palma sozinha não pode bater palmas (provérbio)/fig. são necessários dois para começar uma briga/“são precisos dois para dançar o tango”/é difícil conseguir algo sem apoio
+一个接一个 | TRADUÇÃO: um por um; um após o outro
+一个样 | TRADUÇÃO: o mesmo; do mesmo tipo
+一个萝卜一个坑 | TRADUÇÃO: lit. cada nabo em seu buraco (expressão idiomática)/fig. cada pessoa tem sua própria posição/cada um no seu lugar/“cada panela tem sua tampa”/“cada macaco no seu galho”
+一个头两个大 | TRADUÇÃO: (coloq.) sentir como se a cabeça fosse explodir (Taiwan)
+一倡三叹 | TRADUÇÃO: variante de 一唱三嘆|yi1 chang4 san1 tan4]
+一侧化 | TRADUÇÃO: lateralização
+一传十，十传百 | TRADUÇÃO: (expressão idiomática) (de notícias etc) espalhar-se como fogo; ser disseminado por toda parte
+一价 | TRADUÇÃO: monovalente (química)
+一元 | TRADUÇÃO: (mat.) de variável única; univariado
+一元化 | TRADUÇÃO: integração/integrado; unificado
+一元复始 | TRADUÇÃO: um novo ano começa (expressão idiomática)
+一元论 | TRADUÇÃO: monismo, crença de que o universo é feito de uma única substância
+一元醇 | TRADUÇÃO: álcool metílico CH3OH
+一共 | TRADUÇÃO: no total; ao todo
+一再 | TRADUÇÃO: repetidamente
+一准 | TRADUÇÃO: variante de 一準|yi1 zhun3]/certamente
+一刀两断 | TRADUÇÃO: (expressão idiomática) romper completamente com; não ter mais nada a ver com
+一刀切 | TRADUÇÃO: lit. cortar tudo de uma só vez (expressão idiomática); impor uniformidade/uma solução serve para uma diversidade de problemas/“tamanho único”
+一分一毫 | TRADUÇÃO: (expressão idiomática) o menor pedacinho
+一分为二 | TRADUÇÃO: um se divide em dois/ser dupla face/há dois lados em tudo/ver tanto os pontos fortes quanto os pontos fracos de alguém (expressão idiomática)
+一分熟 | TRADUÇÃO: mal passado (de bife)
+一分耕耘，一分收获 | TRADUÇÃO: (ditado) você colhe o que planta
+一分钱一分货 | TRADUÇÃO: você recebe o que paga
+一分钱两分货 | TRADUÇÃO: alta qualidade a preço de pechincha
+一切 | TRADUÇÃO: tudo/todos/todo
+一切向钱看 | TRADUÇÃO: colocar o dinheiro acima de tudo
+一切如旧 | TRADUÇÃO: tudo como antes
+一切就绪 | TRADUÇÃO: tudo no seu devido lugar e pronto
+一切险 | TRADUÇÃO: todos os riscos (seguro)
+一刻千金 | TRADUÇÃO: tempo é ouro; cada minuto é precioso
+一则 | TRADUÇÃO: por um lado
+一则以喜，一则以忧 | TRADUÇÃO: feliz por um lado, mas preocupado por outro
+一刹那 | TRADUÇÃO: um momento/um instante/num piscar de olhos
+一力降十会 | TRADUÇÃO: força bruta supera táticas inteligentes
+一动不动 | TRADUÇÃO: imóvel
+一劳永逸 | TRADUÇÃO: fazer algo de uma vez por todas
+一匙 | TRADUÇÃO: colherada
+一千零一夜 | TRADUÇÃO: As Mil e Uma Noites
+一半 | TRADUÇÃO: metade
+一半天 | TRADUÇÃO: em um ou dois dias; logo
+一卡通 | TRADUÇÃO: nome de vários cartões inteligentes sem contato, principalmente o Yikatong (transporte público em Pequim) e o iPASS (transporte público em Taiwan)
+一去不回 | TRADUÇÃO: ido para sempre
+一去不复返 | TRADUÇÃO: ido para sempre
+一去无影踪 | TRADUÇÃO: desaparecido sem deixar vestígios
+一反常态 | TRADUÇÃO: mudança completa do estado normal (expressão idiomática)/bastante incomum/fora do normal
+一反往常 | TRADUÇÃO: contrário ao que geralmente acontece
+一口 | TRADUÇÃO: prontamente/terminantemente (negar, admitir etc)/um bocado/uma mordida
+一口价 | TRADUÇÃO: preço fixo; pegar ou largar
+一口吃不成胖子 | TRADUÇÃO: (provérbio) você não pode engordar com apenas uma bocada/figurado qualquer conquista significativa exige tempo, esforço e persistência
+一口吃个胖子 | TRADUÇÃO: (provérbio) querer engordar com apenas uma bocada/figurado tentar atingir o objetivo no menor tempo possível/ser impaciente pelo sucesso
+一口咬定 | TRADUÇÃO: afirmar arbitrariamente/alegar/insistir na própria declaração/apegar-se à própria opinião
+一口气 | TRADUÇÃO: uma respiração/de uma só vez/sem parar
+一口气儿 | TRADUÇÃO: variante com erhua de 一口氣|一口气
+一古脑儿 | TRADUÇÃO: variante de 一股腦兒|一股脑儿
+一句 | TRADUÇÃO: um verso/uma frase
+一句话 | TRADUÇÃO: em uma palavra; em resumo
+一同 | TRADUÇÃO: juntos
+一吐为快 | TRADUÇÃO: tirar algo do peito
+一向 | TRADUÇÃO: um período de tempo recente/(indicando um período até o presente) todo esse tempo; o tempo todo
+一周 | TRADUÇÃO: uma semana/todo o caminho ao redor/um ciclo completo
+一味 | TRADUÇÃO: persistentemente; obstinadamente; cegamente
+一呼百应 | TRADUÇÃO: (expressão idiomática) (de um chamado) provocar uma resposta entusiástica; receber ampla aprovação
+一呼百诺 | TRADUÇÃO: uma ordem traz cem respostas (expressão idiomática); ter centenas de atendentes à sua disposição
+一命呜呼 | TRADUÇÃO: morrer (expressão idiomática)/dar o último suspiro/entregar a alma
+一命归天 | TRADUÇÃO: ver 一命嗚呼|一命呜呼
+一命归西 | TRADUÇÃO: ver 一命嗚呼|一命呜呼
+一命归阴 | TRADUÇÃO: ver 一命嗚呼|一命呜呼
+一品 | TRADUÇÃO: excelente/primeira classe/(dos oficiais imperiais) o mais alto escalão
+一品红 | TRADUÇÃO: flor-de-papoula (Euphorbia pulcherrima)
+一品锅 | TRADUÇÃO: prato com várias carnes e vegetais dispostos em caldo em panela de barro/pote caliente
+一哄而散 | TRADUÇÃO: dispersar-se em confusão (expressão idiomática)/ver 一哄而散
+一哄而起 | TRADUÇÃO: (de um grupo de pessoas) precipitar-se para a ação
+一员 | TRADUÇÃO: um membro (de uma organização)
+一哥 | TRADUÇÃO: (coloq.) masculino de primeira linha; masculino líder; personalidade masculina de topo
+一哭二闹三上吊 | TRADUÇÃO: (lit.) chorar, depois gritar, depois ameaçar suicídio (ditado)/(fig.) fazer um escândalo terrível; fazer birra
+一唱一和 | TRADUÇÃO: ecoar um ao outro (expressão idiomática)
+一唱三叹 | TRADUÇÃO: (expressão idiomática) (de literatura ou música) conciso mas profundamente evocativo; convidando à repetida apreciação
+一问三不知 | TRADUÇÃO: lit. responder “não sei” qualquer que seja a pergunta (expressão idiomática)/fig. absolutamente nenhuma ideia do que está acontecendo/ignorância completa
+一回事 | TRADUÇÃO: a mesma coisa/uma coisa (distinta de outra)
+一回生二回熟 | TRADUÇÃO: estranho no início, mas logo bem acostumado (expressão idiomática)
+一回生两回熟 | TRADUÇÃO: ver 一回生二回熟
+一国两制 | TRADUÇÃO: um país, dois sistemas (proposta da RPC para Hong Kong, Macau e Taiwan)
+一团乱糟 | TRADUÇÃO: uma bagunça caótica
+一团和气 | TRADUÇÃO: (expressão idiomática) manter-se do lado certo de todos (muitas vezes em detrimento de princípios)
+一团漆黑 | TRADUÇÃO: breu completo/figurado completamente no escuro; totalmente ignorante/figurado sombrio; além da salvação
+一团火 | TRADUÇÃO: bola de fogo; esfera de fogo
+一团糟 | TRADUÇÃO: caos/estropício/bagunça completa/confusão
+一地鸡毛 | TRADUÇÃO: bagunça completa; em desordem total
+一堆 | TRADUÇÃO: monte; pilha; um monte de; um bocado de
+一场空 | TRADUÇÃO: tudo em vão; inútil
+一块 | TRADUÇÃO: um pedaço; um naco/(fig.) (coloq.) (tipicamente precedido por um especificador como 這|这) aspecto; área; dimensão/(coloq.) um yuan; um dólar/juntos; no mesmo lugar; em companhia
+一块儿 | TRADUÇÃO: variante com erhua de 一塊|一块
+一塌糊涂 | TRADUÇÃO: confuso e desmoronando completamente (expressão idiomática); em péssimo estado/bagunça total/confusão total
+一尘不染 | TRADUÇÃO: (expressão idiomática) não manchado nem por um grão de poeira; impecavelmente limpo; (de pessoa) honesto; íntegro
+一壁 | TRADUÇÃO: ao mesmo tempo; simultaneamente; enquanto
+一壁厢 | TRADUÇÃO: ver 一壁
+一夔已足 | TRADUÇÃO: uma pessoa talentosa é suficiente para o trabalho (expressão idiomática)
+一夕 | TRADUÇÃO: de uma noite para o dia; instantaneamente; muito rapidamente
+一夕数惊 | TRADUÇÃO: (lit.) um susto atrás do outro em uma única noite (expressão idiomática)/(fig.) viver com medo
+一多对应 | TRADUÇÃO: correspondência um-para-muitos
+一夜之间 | TRADUÇÃO: (lit. e fig.) da noite para o dia
+一夜情 | TRADUÇÃO: caso de uma noite
+一夜无眠 | TRADUÇÃO: ter uma noite sem dormir
+一夜爆红 | TRADUÇÃO: tornar-se famoso da noite para o dia
+一夜露水 | TRADUÇÃO: caso de uma noite/efêmero
+一大早 | TRADUÇÃO: de madrugada/ao primeiro raiar do dia/primeira coisa da manhã
+一大早儿 | TRADUÇÃO: variante com erhua de 一大早
+一大通 | TRADUÇÃO: (coloq.) uma quantidade enorme de ...; uma torrente interminável de ... (usado em relação a quantidades excessivas ou tediosas de fala, explicações, reclamações etc)
+一天一个样 | TRADUÇÃO: mudar dia após dia
+一天到晚 | TRADUÇÃO: o dia todo; o dia inteiro
+一夫一妻 | TRADUÇÃO: monogamia
+一夫多妻 | TRADUÇÃO: poliginia
+一夫当关，万夫莫开 | TRADUÇÃO: (expressão idiomática) um homem guardando o passo pode impedir a passagem de dez mil
+一失足成千古恨 | TRADUÇÃO: um único deslize pode causar tristeza eterna (expressão idiomática)
+一套 | TRADUÇÃO: terno/um conjunto/uma coleção/do mesmo tipo/o mesmo velho padrão/padrão de comportamento definido
+一如 | TRADUÇÃO: ser exatamente como
+一如往常 | TRADUÇÃO: como de costume
+一如所料 | TRADUÇÃO: como esperado
+一如既往 | TRADUÇÃO: (expressão idiomática) exatamente como no passado; como antes; continuando como sempre
+一妻制 | TRADUÇÃO: monoginia
+一姐 | TRADUÇÃO: (coloq.) feminina de primeira linha; feminina líder; personalidade feminina de topo
+一孔之见 | TRADUÇÃO: (expressão idiomática) visão parcial; perspectiva limitada
+一字 | TRADUÇÃO: em fila; em linha
+一字一泪 | TRADUÇÃO: cada palavra é uma lágrima (expressão idiomática)
+一字不差 | TRADUÇÃO: palavra por palavra; ao pé da letra; sem um único erro ou omissão
+一字不提 | TRADUÇÃO: não mencionar uma única palavra (sobre algo) (expressão idiomática)
+一字不漏 | TRADUÇÃO: sem perder uma palavra
+一字不落 | TRADUÇÃO: veja 一字不漏
+一字不识 | TRADUÇÃO: totalmente analfabeto
+一字之师 | TRADUÇÃO: aquele que pode corrigir um caractere lido ou escrito errado e assim ser seu mestre
+一字儿 | TRADUÇÃO: forma erhua de 一字
+一字千金 | TRADUÇÃO: uma palavra vale mil em ouro (expressão idiomática)/(em elogio a uma obra escrita ou caligrafia) cada caractere é perfeito/cada palavra é altamente valorizada
+一字巾 | TRADUÇÃO: faixa de cabeça; tira de pano usada em volta da cabeça
+一字纵队 | TRADUÇÃO: fila indiana
+一字褒贬 | TRADUÇÃO: (lit.) distribuir elogio ou censura com uma única palavra (expressão idiomática)/(fig.) redação concisa e poderosa
+一字马 | TRADUÇÃO: espacate (na ginástica, dança ou artes marciais)
+一学就会 | TRADUÇÃO: aprender (uma habilidade) em muito pouco tempo; adaptar-se a algo como um peixe na água
+一定 | TRADUÇÃO: certamente; com certeza; definitivamente/fixo; estabelecido/um certo...; um dado...
+一家 | TRADUÇÃO: toda a família/a mesma família/a família... (quando precedido por um sobrenome)/grupo
+一家之主 | TRADUÇÃO: dono da casa; chefe da família
+一家人 | TRADUÇÃO: toda a família/(lit. e fig.) membros da mesma família
+一家人不说两家话 | TRADUÇÃO: lit. membros da família falam francamente entre si, não educadamente, como se fossem de duas famílias diferentes (expressão idiomática)/fig. as pessoas não precisam ser reverentes quando pedem ajuda a um membro da família/pessoas da mesma família devem se unir (e bons amigos também)
+一家子 | TRADUÇÃO: toda a família
+一宿 | TRADUÇÃO: uma noite inteira; a noite toda
+一审 | TRADUÇÃO: primeira instância (direito)
+一寸光阴一寸金 | TRADUÇÃO: (provérbio) o tempo é precioso
+一寸光阴一寸金，寸金难买寸光阴 | TRADUÇÃO: (lit.) um intervalo de tempo vale uma onça de ouro, o dinheiro não pode te comprar tempo (provérbio)/(fig.) o tempo é precioso
+一对 | TRADUÇÃO: par; casal
+一对一 | TRADUÇÃO: um a um; um contra um
+一对一斗牛 | TRADUÇÃO: jogo de basquete um contra um
+一对儿 | TRADUÇÃO: um par; um casal
+一小撮 | TRADUÇÃO: punhado (de)
+一小部分 | TRADUÇÃO: uma pequena parte; uma pequena seção
+一小阵儿 | TRADUÇÃO: período de tempo muito breve
+一展身手 | TRADUÇÃO: mostrar seus talentos; exibir sua habilidade
+一层 | TRADUÇÃO: uma camada; um nível
+一山不容二虎 | TRADUÇÃO: lit. a montanha não pode ter dois tigres (expressão idiomática)/fig. esta cidade não é grande o suficiente para nós dois/(de dois rivais) ser ferozmente competitivo
+一己 | TRADUÇÃO: si mesmo
+一帆风顺 | TRADUÇÃO: vento propício durante toda a viagem (expressão idiomática)/navegação tranquila/ir suavemente/tenha uma boa viagem!
+一席之地 | TRADUÇÃO: lugar (reconhecido)/um papel a desempenhar/nicho
+一席话 | TRADUÇÃO: o conteúdo de uma conversa/palavras/observações
+一带 | TRADUÇÃO: região; área
+一带一路 | TRADUÇÃO: Iniciativa do Cinturão e Rota (ICR), estratégia chinesa de infraestrutura e investimento lançada em 2013
+一带而过 | TRADUÇÃO: contornar/ignorar/fazer superficialmente
+一年之计在于春 | TRADUÇÃO: o ano inteiro deve ser planejado na primavera (expressão idiomática)/o planejamento precoce é a chave para o sucesso
+一年到头 | TRADUÇÃO: o ano todo
+一年半 | TRADUÇÃO: um ano e meio
+一年半载 | TRADUÇÃO: cerca de um ano
+一年四季 | TRADUÇÃO: o ano todo
+一年多 | TRADUÇÃO: mais de um ano
+一年期 | TRADUÇÃO: período de um ano (em um contrato ou orçamento)
+一年生 | TRADUÇÃO: (botânica) (de uma planta) anual
+一年被蛇咬，十年怕井绳 | TRADUÇÃO: veja 一朝被蛇咬，十年怕井繩|一朝被蛇咬，十年怕井绳
+一度 | TRADUÇÃO: por um tempo/em um certo momento/uma vez/já
+一厢情愿 | TRADUÇÃO: pensamento ilusório próprio
+一式二份 | TRADUÇÃO: em duplicata
+一弹指顷 | TRADUÇÃO: um estalar de dedos (expressão idiomática); num piscar de olhos/num instante
+一往情深 | TRADUÇÃO: profundamente apegado/devotado
+一往无前 | TRADUÇÃO: avançar corajosamente (expressão idiomática)/seguir em frente
+一往直前 | TRADUÇÃO: veja 一往無前|一往无前
+一律 | TRADUÇÃO: igual; idêntico/uniformemente; todos; sem exceção
+一径 | TRADUÇÃO: diretamente/imediatamente/em linha reta
+一心 | TRADUÇÃO: de todo o coração/de corpo e alma
+一心一德 | TRADUÇÃO: de um coração e uma mente (expressão idiomática)
+一心一意 | TRADUÇÃO: concentrando seus pensamentos e esforços/dedicado/decidido/intensamente
+一心二用 | TRADUÇÃO: fazer duas coisas ao mesmo tempo (expressão idiomática)/realizar múltiplas tarefas/dividir a atenção
+一心多用 | TRADUÇÃO: realizar múltiplas tarefas
+一念之差 | TRADUÇÃO: deslize momentâneo/passo em falso/ação mal pensada
+一意 | TRADUÇÃO: foco/com total devoção/teimosamente
+一意孤行 | TRADUÇÃO: agarrando-se obstinadamente ao seu curso (expressão idiomática)/teimoso/do seu próprio jeito/dogmático
+一应 | TRADUÇÃO: todo/tudo
+一应俱全 | TRADUÇÃO: com tudo o que é necessário disponível
+一成不变 | TRADUÇÃO: (expressão idiomática) imutável; impermeável à mudança; inalterável
+一战 | TRADUÇÃO: Primeira Guerra Mundial (1914–1918)
+一房一厅 | TRADUÇÃO: um quarto e uma sala de estar
+一手 | TRADUÇÃO: uma habilidade/domínio de um ofício/por si mesmo/sem ajuda externa
+一手交钱，一手交货 | TRADUÇÃO: lit. uma mão entrega o dinheiro, a outra a mercadoria (expressão idiomática)/fig. pagar pelo que se quer em dinheiro/transação simples e direta
+一手包办 | TRADUÇÃO: cuidar de um assunto inteiramente sozinho/comandar o espetáculo todo
+一手遮天 | TRADUÇÃO: lit. esconder o céu com uma mão/esconder a verdade das massas
+一打 | TRADUÇÃO: dúzia
+一技之长 | TRADUÇÃO: proficiência em uma área específica (expressão idiomática)/habilidade em uma área especializada (expressão idiomática)
+一把好手 | TRADUÇÃO: especialista/mão de vaca
+一把屎一把尿 | TRADUÇÃO: ter passado por todos os tipos de dificuldades (para criar os filhos) (expressão idiomática)
+一把年纪 | TRADUÇÃO: estar com uma idade avançada/idade avançada
+一把手 | TRADUÇÃO: mão de obra; membro de uma equipe de trabalho; participante/o chefe (forma abreviada de 第一把手)
+一把抓 | TRADUÇÃO: tentar todas as tarefas ao mesmo tempo/gerenciar cada detalhe independentemente de sua importância
+一把死拿 | TRADUÇÃO: teimoso/inflexível
+一把眼泪一把鼻涕 | TRADUÇÃO: com o rosto coberto de lágrimas (expressão idiomática)
+一把钥匙开一把锁 | TRADUÇÃO: Uma chave abre uma fechadura./Há uma solução diferente para cada problema. (expressão idiomática)
+一抓一大把 | TRADUÇÃO: ser muito comum; fácil de encontrar
+一抿子 | TRADUÇÃO: um pouquinho
+一拍两散 | TRADUÇÃO: (de parceiros de casamento ou negócios) separar-se; desfazer-se
+一拍即合 | TRADUÇÃO: lit. estar juntos desde a primeira batida (expressão idiomática)/dar-se bem desde o início/ter uma conexão imediata/concordar facilmente
+一扫而光 | TRADUÇÃO: veja 一掃而空|一扫而空
+一扫而空 | TRADUÇÃO: (expressão idiomática) fazer uma limpeza completa em; eliminar
+一排 | TRADUÇÃO: fileira
+一探究竟 | TRADUÇÃO: verificar/investigar
+一推六二五 | TRADUÇÃO: 1 dividido por 16 é 0,0625 (regra do ábaco)/(fig.) negar responsabilidade; transferir a culpa
+一掬同情之泪 | TRADUÇÃO: derramar lágrimas de simpatia (expressão idiomática)
+一挥而就 | TRADUÇÃO: terminar (uma carta, uma pintura) de uma só vez
+一拨儿 | TRADUÇÃO: grupo de pessoas
+一拥而上 | TRADUÇÃO: aglomerar-se/enxamear (para ver)
+一拥而入 | TRADUÇÃO: entrar em massa (de pessoas etc) (expressão idiomática)
+一击入洞 | TRADUÇÃO: tacada-e-buraco (golfe)
+一掷千金 | TRADUÇÃO: jogar dinheiro fora de forma imprudente/extravagante
+一揽子 | TRADUÇÃO: abrangente/que não faz distinção
+一改再改 | TRADUÇÃO: mudar (algo) repetidamente
+一改故辙 | TRADUÇÃO: mudança radical de direção/uma reviravolta/mudar práticas antigas
+一败涂地 | TRADUÇÃO: lit. derrotado, o chão coberto de corpos (expressão idiomática)/fig. sofrer uma derrota esmagadora
+一文不值 | TRADUÇÃO: sem valor (expressão idiomática)/absolutamente inútil
+一文不名 | TRADUÇÃO: estar sem um tostão
+一斑 | TRADUÇÃO: lit. uma mancha (no leopardo)/fig. uma pequena parte de um grande esquema
+一方 | TRADUÇÃO: parte (num contrato ou caso judicial)/um lado/área/região
+一方面 | TRADUÇÃO: por um lado
+一旁 | TRADUÇÃO: de lado/ao lado de
+一族 | TRADUÇÃO: grupo social/subcultura/família/clã/veja também 族
+一日三秋 | TRADUÇÃO: um único dia de separação parece três estações (expressão idiomática)
+一日三餐 | TRADUÇÃO: fazer três refeições por dia
+一日不如一日 | TRADUÇÃO: estar piorando a cada dia
+一日不见，如隔三秋 | TRADUÇÃO: um dia sem ver parece três anos (expressão idiomática)
+一日之计在于晨 | TRADUÇÃO: faça seu plano do dia cedo pela manhã (expressão idiomática)/o início da manhã é a hora de ouro do dia
+一日之雅 | TRADUÇÃO: lit. amigos por um dia (expressão idiomática)/fig. conhecido casual
+一日千里 | TRADUÇÃO: lit. um dia, mil milhas (expressão idiomática), progresso rápido
+一日为师，终身为父 | TRADUÇÃO: (expressão idiomática) professor por um dia, pai para sempre; os alunos devem ter profundo respeito e gratidão vitalícia por seus professores
+一旦 | TRADUÇÃO: no caso de (algo acontecer)/se/uma vez (algo acontecer, então...)/quando/em pouco tempo/em um dia
+一早 | TRADUÇÃO: de manhã cedo/ao amanhecer
+一星半点 | TRADUÇÃO: apenas o mínimo sinal de/um indício de
+一是一，二是二 | TRADUÇÃO: lit. um é um, dois é dois (expressão idiomática)/fig. as coisas são (ou deveriam ser) perfeitamente claras/inequívoco
+一时 | TRADUÇÃO: um período de tempo/um momento/por um curto período/temporário/momentâneo/ao mesmo tempo
+一时半刻 | TRADUÇÃO: (expressão idiomática) um curto período; um pouco de tempo
+一时半晌 | TRADUÇÃO: um curto período/um pouco de tempo
+一时半会 | TRADUÇÃO: um curto período/um pouco de tempo
+一时半会儿 | TRADUÇÃO: um curto período; um pouco de tempo
+一时半霎 | TRADUÇÃO: um curto período/um pouco de tempo
+一时瑜亮 | TRADUÇÃO: duas pessoas notáveis vivendo no mesmo período (como 周瑜 e 諸葛亮|诸葛亮)
+一时间 | TRADUÇÃO: por um momento/momentaneamente
+一晃 | TRADUÇÃO: (da passagem do tempo) num instante/(de uma visão) num relance
+一暴十寒 | TRADUÇÃO: variante de 一曝十寒
+一曝十寒 | TRADUÇÃO: (expressão idiomática, de Mêncio) trabalhar um dia e descansar dez/esforço esporádico/falta de persistência/pouca capacidade de concentração
+一更 | TRADUÇÃO: primeiro dos cinco períodos de vigília noturna 19:00-21:00 (antigo)
+一会 | TRADUÇÃO: um momento/um pouco de tempo/daqui a pouco/também pron. [yi1 hui3]
+一会儿 | TRADUÇÃO: um momento/um pouco de tempo/daqui a pouco/ora...ora.../também pron. [yi1 hui3 r5]
+一月 | TRADUÇÃO: janeiro/primeiro mês (do ano lunar)
+一月份 | TRADUÇÃO: janeiro
+一望无垠 | TRADUÇÃO: estender-se até onde a vista alcança (expressão idiomática)
+一望无际 | TRADUÇÃO: até onde a vista alcança (expressão idiomática)
+一望而知 | TRADUÇÃO: (expressão idiomática) ser evidente à primeira vista
+一朝一夕 | TRADUÇÃO: lit. uma manhã e uma tarde (expressão idiomática)/fig. em um curto período de tempo/da noite para o dia
+一朝天子一朝臣 | TRADUÇÃO: novo imperador, novos oficiais (expressão idiomática)/um novo chefe traz novos assessores
+一朝被蛇咬，十年怕井绳 | TRADUÇÃO: (lit.) uma vez mordido por uma cobra, tem-se medo a vida toda só de ver uma corda (dito)/(fig.) cachorro que ladra não morde
+一木难支 | TRADUÇÃO: lit. um único poste não pode escorar uma casa caindo (expressão idiomática)/fig. é-se impotente sozinho
+一本正经 | TRADUÇÃO: (expressão idiomática) com toda a seriedade; de cara impassível
+一本万利 | TRADUÇÃO: pequeno capital, enorme lucro (expressão idiomática), investir pouco e obter muito
+一杯羹 | TRADUÇÃO: lit. uma xícara de sopa/fig. obter parte dos lucros/parte da ação
+一东一西 | TRADUÇÃO: muito separados
+一板一眼 | TRADUÇÃO: seguir um padrão prescrito à risca/atenção meticulosa aos detalhes
+一板三眼 | TRADUÇÃO: lit. um tempo forte e três tempos fracos num compasso musical (quatro tempos no compasso) (expressão idiomática), fig. atenção escrupulosa aos detalhes
+一枝独秀 | TRADUÇÃO: lit. apenas um galho da árvore está prosperando (expressão idiomática)/fig. estar numa categoria própria/excepcional
+一柱擎天 | TRADUÇÃO: lit. sustentar o céu como um único pilar (expressão idiomática)/fig. assumir uma responsabilidade crucial sobre os ombros
+一根筋 | TRADUÇÃO: teimoso/inflexível/de pensamento fixo
+一根绳上的蚂蚱 | TRADUÇÃO: veja 一條繩上的螞蚱|一条绳上的蚂蚱
+一杆进洞 | TRADUÇÃO: (golfe) tacada-e-buraco
+一条心 | TRADUÇÃO: estar de comum acordo/pensar ou agir da mesma forma
+一条绳上的蚂蚱 | TRADUÇÃO: lit. gafanhotos amarrados com um pedaço de barbante (expressão idiomática)/fig. pessoas que estão juntas na alegria e na tristeza/pessoas que vão nadar ou afundar juntas
+一条路走到黑 | TRADUÇÃO: lit. seguir uma estrada até escurecer (expressão idiomática)/fig. teimar em seus caminhos/apegar-se ao seu curso
+一条道走到黑 | TRADUÇÃO: teimar em seus caminhos/apegar-se ao seu curso
+一条龙 | TRADUÇÃO: lit. um dragão/cadeia integrada/processo coordenado
+一条龙服务 | TRADUÇÃO: serviço completo
+一棍子打死 | TRADUÇÃO: desferir um único golpe fatal/(fig.) repudiar totalmente alguém por um erro menor
+一概 | TRADUÇÃO: tudo/sem nenhuma exceção/categoricamente
+一概而论 | TRADUÇÃO: tratar coisas diferentes da mesma forma (expressão idiomática)
+一槌定音 | TRADUÇÃO: variante de 一錘定音|一锤定音
+一枪命中 | TRADUÇÃO: acertar no primeiro tiro
+一模一样 | TRADUÇÃO: (expressão idiomática) exatamente igual; idêntico/também pron. [yi1mo2-yi1yang4]
+一样 | TRADUÇÃO: mesmo/igual/igual a/o mesmo que/assim como
+一次 | TRADUÇÃO: primeiro/primeira vez/uma vez/(mat.) linear (de grau um)
+一次函数 | TRADUÇÃO: função linear (mat.)
+一次又一次 | TRADUÇÃO: repetidamente/vez após vez
+一次性 | TRADUÇÃO: oferta única/única vez/descartável/descartável (produtos)
+一次方程 | TRADUÇÃO: equação linear
+一次方程式 | TRADUÇÃO: (mat.) equação linear
+一次生，两次熟 | TRADUÇÃO: não familiar no início, mas você se acostuma/estranhos no primeiro encontro, mas logo amigos/um gosto adquirido
+一次总付 | TRADUÇÃO: pagamento único (finanças)
+一步一个脚印 | TRADUÇÃO: progresso constante/confiável
+一步一趋 | TRADUÇÃO: veja 亦步亦趨|亦步亦趋
+一步到位 | TRADUÇÃO: realizar em um único passo; atingir o resultado desejado de uma só vez
+一步登天 | TRADUÇÃO: alcançar o céu num único salto (expressão idiomática); (especialmente com negativo: não espere) sucesso instantâneo
+一步裙 | TRADUÇÃO: saia lápis
+一毛一样 | TRADUÇÃO: (coloq.) exatamente igual; idêntico
+一毛不拔 | TRADUÇÃO: (lit.) não disposto a abrir mão de um único fio de cabelo (expressão idiomática)/(fig.) extremamente pão-duro
+一气 | TRADUÇÃO: de uma só vez/sem parar/por um período de tempo/ formar uma gangue
+一气之下 | TRADUÇÃO: num acesso de mau humor/numa fúria
+一气呵成 | TRADUÇÃO: fazer algo de uma só vez/fluir suavemente
+一氧化二氮 | TRADUÇÃO: óxido nitroso N2O/gás hilariante
+一氧化氮 | TRADUÇÃO: óxido nítrico
+一氧化碳 | TRADUÇÃO: monóxido de carbono CO
+一水儿 | TRADUÇÃO: (coloq.) do mesmo tipo/idêntico
+一决雌雄 | TRADUÇÃO: resolver de uma vez por todas; lutar pela supremacia; competir por um campeonato
+一波三折 | TRADUÇÃO: floreado caligráfico com muitas voltas/fig. muitos altos e baixos
+一波未平，一波又起 | TRADUÇÃO: um novo problema surge antes que o antigo seja resolvido/muitas reviravoltas em uma história/uma coisa depois da outra
+一派胡言 | TRADUÇÃO: um monte de bobagens
+一派谎言 | TRADUÇÃO: um monte de mentiras
+一流 | TRADUÇÃO: de primeira qualidade/de primeira linha
+一清二楚 | TRADUÇÃO: compreender claramente algo; ter pleno entendimento (expressão idiomática)
+一清二白 | TRADUÇÃO: perfeitamente limpo/sem culpa/irrepreensível (expressão idiomática)
+一清如水 | TRADUÇÃO: figurado, de funcionários etc, honesto e incorruptível/literalmente, tão claro quanto água (expressão idiomática)
+一清早 | TRADUÇÃO: de manhã bem cedo
+一溜烟 | TRADUÇÃO: (desaparecer, etc) num instante/como uma fumaça
+一潭死水 | TRADUÇÃO: condição estagnada ou apática/um poço de água parada
+一炮打响 | TRADUÇÃO: alcançar sucesso na primeira tentativa (expressão idiomática)
+一炮而红 | TRADUÇÃO: tornar-se um sucesso instantâneo/alcançar sucesso instantâneo (expressão idiomática)
+一无所动 | TRADUÇÃO: não impressionado/Totalmente indiferente
+一无所有 | TRADUÇÃO: completamente desprovido/não ter nada
+一无所获 | TRADUÇÃO: acabar de mãos vazias/obter nada
+一无所知 | TRADUÇÃO: sem saber absolutamente nada (expressão idiomática); completamente ignorante
+一无所闻 | TRADUÇÃO: inédito
+一无所长 | TRADUÇÃO: sem qualificações/não ter nenhuma habilidade especial
+一无是处 | TRADUÇÃO: tudo sobre isso está errado (expressão idiomática); nem um ponto positivo
+一物降一物 | TRADUÇÃO: há uma pedra para cada tesoura, uma tesoura para cada papel e um papel para cada pedra /cada item tem uma fraqueza (expressão idiomática) /literalmente, um objeto supera outro objeto
+一犯再犯 | TRADUÇÃO: continuar fazendo (a coisa errada)
+一琴一鹤 | TRADUÇÃO: (funcionários públicos) honesto e incorruptível /(expressão idiomática) carregando muito pouca bagagem
+一瓶子不响，半瓶子晃荡 | TRADUÇÃO: figurado, gente vazia faz mais barulho /literalmente, uma garrafa cheia não faz som; uma garrafa meio cheia chacoalha (expressão idiomática)
+一生 | TRADUÇÃO: toda a vida; durante toda a vida
+一生一世 | TRADUÇÃO: toda a minha vida (expressão idiomática); uma vida inteira
+一甲 | TRADUÇÃO: primeiro escalão ou os três melhores candidatos que passaram no exame imperial
+一甲子 | TRADUÇÃO: sessenta anos
+一男半女 | TRADUÇÃO: (expressão idiomática) um filho ou filha; uma criança
+一亩三分地 | TRADUÇÃO: (figurado) o próprio domínio /um pedaço de terra de 1,3 畝|亩
+一病不起 | TRADUÇÃO: cair gravemente doente, nunca se recuperar (expressão idiomática)
+一瘸一拐 | TRADUÇÃO: mancar/coxear
+一发 | TRADUÇÃO: (mahjong japonês) completar a mão em uma única rodada após declarar riichi
+一发不可收拾 | TRADUÇÃO: uma vez que começa, não há como parar
+一发而不可收 | TRADUÇÃO: ser impossível parar uma vez começado
+一百一 | TRADUÇÃO: irrepreensível/impecável
+一盘散沙 | TRADUÇÃO: figurado, incapaz de cooperar (expressão idiomática) /literalmente, como uma folha de areia solta
+一盘棋 | TRADUÇÃO: situação geral/disposição do tabuleiro de xadrez
+一目了然 | TRADUÇÃO: óbvio à primeira vista (expressão idiomática)/claro como a luz do dia (expressão idiomática)
+一目十行 | TRADUÇÃO: ler muito rapidamente/dez linhas de uma só vez (expressão idiomática)
+一直 | TRADUÇÃO: continuamente; sempre; todo o caminho /reto (em linha reta)
+一直以来 | TRADUÇÃO: até agora/por muito tempo agora/sempre no passado
+一相情愿 | TRADUÇÃO: desejo próprio unilateral
+一眨眼 | TRADUÇÃO: num piscar de olhos
+一眼 | TRADUÇÃO: um vislumbre/um olhar rápido/uma olhadela
+一眼望去 | TRADUÇÃO: até onde a vista alcança
+一眼看穿 | TRADUÇÃO: ver através de algo à primeira vista (expressão idiomática)
+一众 | TRADUÇÃO: um grupo de pessoas; todo um grupo (especialmente em uso formal ou jornalístico)
+一睹 | TRADUÇÃO: observar (o esplendor de algo)/dar uma olhadela/olhar
+一瞥 | TRADUÇÃO: vislumbre/olhadela
+一瞬 | TRADUÇÃO: o piscar de um olho/tempo muito curto/um instante
+一瞬间 | TRADUÇÃO: fração de segundo
+一矢中的 | TRADUÇÃO: acertar o alvo com um único tiro/dizer algo na mosca (expressão idiomática)
+一知半解 | TRADUÇÃO: ter um conhecimento superficial de um assunto (expressão idiomática); saber um pouco de algo
+一石二鸟 | TRADUÇÃO: matar dois coelhos com uma cajadada só (expressão idiomática)
+一碗水端平 | TRADUÇÃO: figurado, ser imparcial /literalmente, segurar uma tigela de água nivelada (expressão idiomática)
+一神教 | TRADUÇÃO: monoteísmo/religião monoteísta
+一神论 | TRADUÇÃO: unitarismo (negando a Trindade)/monoteísmo
+一秉虔诚 | TRADUÇÃO: devotamente (expressão idiomática); com sinceridade e fervor
+一秘 | TRADUÇÃO: primeiro-secretário
+一种 | TRADUÇÃO: um tipo de; uma espécie de
+一空 | TRADUÇÃO: (vendido, etc) completamente /sem deixar nenhum
+一窝蜂 | TRADUÇÃO: como um enxame de abelhas; em manada (usado para descrever pessoas que se aglomeram para fazer algo)
+一穷二白 | TRADUÇÃO: atrasado tanto econômica quanto culturalmente/empobrecido
+一窥端倪 | TRADUÇÃO: obter uma pista; adivinhar à primeira vista; inferir facilmente
+一窍不通 | TRADUÇÃO: é grego para mim (expressão idiomática)/Não entendo nada (expressão idiomática)/literalmente, (nem) entra por um único orifício (da cabeça)
+一站式 | TRADUÇÃO: (serviço, loja, etc) completo
+一笑了之 | TRADUÇÃO: rir para não levar a sério
+一笑置之 | TRADUÇÃO: minimizar/descartar com uma risada
+一笔不苟 | TRADUÇÃO: figurado, escrever caracteres (caligrafia) em que cada traço é colocado perfeitamente /literalmente, nem um traço é negligente (expressão idiomática)
+一笔勾销 | TRADUÇÃO: cancelar de uma só vez
+一笔带过 | TRADUÇÃO: (expressão idiomática) mencionar apenas muito brevemente; passar por cima (de um tópico)
+一笔抹杀 | TRADUÇÃO: negar sem audiência/rejeitar de antemão/apagar de uma só vez
+一笔抹煞 | TRADUÇÃO: variante de 一筆抹殺|一笔抹杀
+一等 | TRADUÇÃO: primeira classe/grau A
+一等一 | TRADUÇÃO: (coloq.) de primeira; excelente; excepcional
+一等奖 | TRADUÇÃO: primeiro prêmio
+一箭之仇 | TRADUÇÃO: derrota anterior/ressentimento antigo/um erro sofrido (expressão idiomática)
+一箭双雕 | TRADUÇÃO: matar dois coelhos com uma cajadada só (expressão idiomática)/literalmente, uma flecha, duas águias douradas (expressão idiomática)
+一筹莫展 | TRADUÇÃO: estar sem saída/não conseguir encontrar uma solução
+一箩筐 | TRADUÇÃO: extremamente/em grandes quantidades/montes de
+一粒老鼠屎坏了一锅粥 | TRADUÇÃO: figurado, uma maçã podre estraga o cesto inteiro (expressão idiomática)/literalmente, um grânulo de fezes de rato estragou toda a panela de mingau (expressão idiomática)
+一系列 | TRADUÇÃO: uma série de/uma cadeia de
+一纸空文 | TRADUÇÃO: um pedaço de papel sem valor (expressão idiomática)
+一级 | TRADUÇÃO: categoria A/primeira classe
+一级士官 | TRADUÇÃO: cabo (exército)
+一级方程式 | TRADUÇÃO: Fórmula 1 (automobilismo)
+一级棒 | TRADUÇÃO: excelente/de primeira (empréstimo do japonês 一番, ichiban)
+一级头 | TRADUÇÃO: primeiro estágio (mergulho)
+一统 | TRADUÇÃO: unificado/unificar
+一丝一毫 | TRADUÇÃO: um fio, um cabelo (expressão idiomática); uma partícula ínfima/um iota
+一丝不挂 | TRADUÇÃO: em trajes de Adão/sem nenhuma costura de roupa/absolutamente nu (expressão idiomática)
+一丝不苟 | TRADUÇÃO: meticuloso/sem um fio solto (expressão idiomática)/estritamente de acordo com as regras
+一经 | TRADUÇÃO: uma vez que (uma ação foi completada)/assim que
+一维 | TRADUÇÃO: unidimensional (mat.)
+一网打尽 | TRADUÇÃO: lit. pegar tudo com uma só rede (expressão idiomática)/fig. levar tudo de uma vez/capturar todos de uma só vez
+一线 | TRADUÇÃO: linha de frente
+一线之间 | TRADUÇÃO: uma distinção sutil/uma linha tênue/a distância de um fio de cabelo
+一线之隔 | TRADUÇÃO: uma linha tênue/uma distinção sutil
+一线希望 | TRADUÇÃO: um vislumbre de esperança
+一线生机 | TRADUÇÃO: (expressão idiomática) uma chance de sobrevivência; uma chance de lutar; um raio de esperança
+一总 | TRADUÇÃO: no total/tudo junto
+一而再，再而三 | TRADUÇÃO: repetidamente
+一声 | TRADUÇÃO: primeiro tom no mandarim (tom alto e nivelado)
+一声不吭 | TRADUÇÃO: não dizer uma palavra
+一声不响 | TRADUÇÃO: manter-se totalmente em silêncio/silenciosamente
+一肚子 | TRADUÇÃO: barrigada (de algo)/cheio (de algo)
+一肚皮 | TRADUÇÃO: barrigada (de algo)/cheio (de algo)
+一股子 | TRADUÇÃO: um sopro de/um traço de/um fio de
+一股清流 | TRADUÇÃO: (fig.) uma lufada de ar fresco
+一股脑 | TRADUÇÃO: tudo isso/de uma só vez
+一股脑儿 | TRADUÇÃO: variante erhua de 一股腦|一股脑
+一胎制 | TRADUÇÃO: política do filho único
+一胎化 | TRADUÇÃO: prática de permitir apenas um filho por família
+一脉相承 | TRADUÇÃO: que pode ser rastreado até a mesma origem (expressão idiomática); de origem comum (de tendências, ideias etc.)
+一腔 | TRADUÇÃO: cheio de (zelo, raiva etc.)
+一脸茫然 | TRADUÇÃO: perplexo/confuso
+一致 | TRADUÇÃO: consistente; unânime; de acordo/juntos; em uníssono
+一致字 | TRADUÇÃO: (ortografia) palavras consistentes (ex.: "dean", "bean" e "lean", onde "-ean" é pronunciado da mesma forma em cada caso)/caracteres consistentes (ex.: 搖|摇, 遙|遥 e 謠|谣, que compartilham um componente fonético que indica de forma confiável que a pronúncia do caractere é yáo)
+一致性 | TRADUÇÃO: consistência; coerência; uniformidade
+一致性效应 | TRADUÇÃO: efeito de consistência
+一举 | TRADUÇÃO: um movimento/uma ação/de um só movimento/de uma só vez/numa só tacada
+一举一动 | TRADUÇÃO: (expressão idiomática) todo movimento; cada movimento
+一举两得 | TRADUÇÃO: (lit.) uma ação, dois ganhos (expressão idiomática)/(fig.) dois coelhos com uma cajadada só
+一举成功 | TRADUÇÃO: sucesso de primeira/ter sucesso na primeira tentativa
+一举手一投足 | TRADUÇÃO: cada pequeno movimento/cada movimento único
+一般 | TRADUÇÃO: mesmo/comum/mais ou menos/comum/geral/geralmente/em geral
+一般人 | TRADUÇÃO: pessoa comum
+一般来说 | TRADUÇÃO: falando de modo geral
+一般来讲 | TRADUÇÃO: falando de modo geral
+一般原则 | TRADUÇÃO: princípio geral
+一般性 | TRADUÇÃO: geral/generalidade
+一般而言 | TRADUÇÃO: falando de modo geral
+一般般 | TRADUÇÃO: não particularmente bom/mais ou menos
+一般见识 | TRADUÇÃO: (expressão idiomática) rebaixar-se ao nível (de alguém)
+一般规定 | TRADUÇÃO: disposição comum (direito)
+一般说来 | TRADUÇÃO: falando de modo geral/em geral
+一般贸易 | TRADUÇÃO: comércio geral (ou seja, importação e exportação sem processamento)
+一落千丈 | TRADUÇÃO: lit. cair mil zhang de uma só vez (expressão idiomática)/fig. (de negócios, popularidade etc.) sofrer um declínio súbito e devastador/sofrer uma queda abrupta
+一叶知秋 | TRADUÇÃO: lit. a queda de uma folha anuncia a chegada do outono (expressão idiomática)/fig. um pequeno sinal pode indicar uma grande tendência/um sinal no vento
+一叶障目 | TRADUÇÃO: lit. olhos obscurecidos por uma única folha (expressão idiomática)/fig. não ver o quadro geral/não enxergar a floresta por causa das árvores
+一着不慎，满盘皆输 | TRADUÇÃO: Um movimento descuidado e o jogo inteiro está perdido. (expressão idiomática)
+一号 | TRADUÇÃO: primeiro dia do mês/banheiro/(gíria) ativo (num relacionamento homossexual)
+一号木杆 | TRADUÇÃO: taco de madeira 1 (golfe)
+一号电池 | TRADUÇÃO: pilha tamanho D
+一血 | TRADUÇÃO: (gaming) primeiro sangue
+一行 | TRADUÇÃO: grupo/delegação
+一衣带水 | TRADUÇÃO: (separados apenas por) uma estreita faixa de água
+一袭 | TRADUÇÃO: um conjunto de (roupas)
+一见倾心 | TRADUÇÃO: amor à primeira vista
+一见如故 | TRADUÇÃO: familiaridade à primeira vista
+一见钟情 | TRADUÇÃO: apaixonar-se à primeira vista (expressão idiomática)
+一见高低 | TRADUÇÃO: lit. lutar com alguém para ver quem é o melhor (expressão idiomática)/fig. cruzar espadas com/entrar em confronto
+一视同仁 | TRADUÇÃO: tratar a todos igualmente favoravelmente (expressão idiomática); não discriminar entre as pessoas
+一亲芳泽 | TRADUÇÃO: aproximar-se de/ter relações íntimas com
+一觉醒来 | TRADUÇÃO: acordar de um sono
+一览 | TRADUÇÃO: de relance/(em títulos de livros) visão geral
+一览无遗 | TRADUÇÃO: ser claramente visível
+一览无余 | TRADUÇÃO: cobrir tudo de uma só olhada (expressão idiomática)/uma vista panorâmica
+一览众山小 | TRADUÇÃO: (último verso do poema 望岳 do poeta Tang Du Fu 杜甫) com um olho verei todas as montanhas menores lá embaixo (do cume do Monte Tai 泰山)/(fig.) vista inspiradora de um lugar muito alto
+一览表 | TRADUÇÃO: tabela; cronograma; lista
+一角鲸 | TRADUÇÃO: narval (Monodon monoceros)
+一触即溃 | TRADUÇÃO: desmoronar ao primeiro encontro/ceder imediatamente
+一触即发 | TRADUÇÃO: pode acontecer a qualquer momento/à beira
+一言 | TRADUÇÃO: uma frase/comentário breve
+一言一动 | TRADUÇÃO: (suas) cada palavra e ação (expressão idiomática)
+一言一行 | TRADUÇÃO: cada palavra e ação (expressão idiomática)
+一言不合 | TRADUÇÃO: (expressão idiomática) ter um desentendimento; bater boca
+一言不发 | TRADUÇÃO: não dizer uma palavra (expressão idiomática)
+一言九鼎 | TRADUÇÃO: uma palavra vale nove tripés sagrados (expressão idiomática); palavras de enorme peso
+一言以蔽之 | TRADUÇÃO: uma palavra diz tudo (expressão idiomática, dos Analectos); para resumir a história/em suma
+一言千金 | TRADUÇÃO: uma palavra vale mil em ouro (expressão idiomática); conselho valioso/palavras de enorme peso
+一言堂 | TRADUÇÃO: (placa pendurada em uma loja) preços fixos – sem barganha (antigo)/ter as coisas decididas pela vontade de um único indivíduo/regra autocrática/(contrastado com 群言堂)
+一言抄百总 | TRADUÇÃO: para resumir a história
+一言既出，驷马难追 | TRADUÇÃO: lit. uma vez dito, uma equipe de cavalos não pode desdizer (expressão idiomática); uma promessa deve ser mantida
+一言为定 | TRADUÇÃO: (expressão idiomática) está combinado/está decidido então
+一言为重 | TRADUÇÃO: cada palavra tem peso/uma promessa deve ser mantida (expressão idiomática)
+一言难尽 | TRADUÇÃO: difícil de explicar em poucas palavras (expressão idiomática); complicado e não fácil de expressar sucintamente
+一语不发 | TRADUÇÃO: não dizer uma palavra (expressão idiomática)
+一语中的 | TRADUÇÃO: (expressão idiomática) acertar na mosca com um comentário; dizer algo certeiro
+一语成谶 | TRADUÇÃO: (expressão idiomática) ver suas palavras se tornarem (tragicamente) proféticas
+一语破的 | TRADUÇÃO: ver 一語中的|一语中的
+一语道破 | TRADUÇÃO: uma palavra diz tudo (expressão idiomática)/acertar na mosca/ser conciso e certeiro
+一语双关 | TRADUÇÃO: fazer um trocadilho/ter um duplo sentido/duplo sentido
+一说 | TRADUÇÃO: uma expressão de opinião/de acordo com alguns
+一诺千金 | TRADUÇÃO: (lit.) uma promessa que vale mil peças de ouro (expressão idiomática)/(fig.) uma promessa em que se pode confiar
+一贫如洗 | TRADUÇÃO: (expressão idiomática) sem um centavo; destituído
+一贯 | TRADUÇÃO: consistente/constante/do começo ao fim/sempre/persistente
+一走了之 | TRADUÇÃO: evitar um problema saindo dele/desistir
+一起 | TRADUÇÃO: (no) mesmo lugar/juntos; em companhia (com)/ao todo; no total/um caso de; uma ocorrência de (assassinato, acidente, disputa etc.)
+一路 | TRADUÇÃO: toda a viagem/todo o caminho/indo pelo mesmo caminho/indo na mesma direção/do mesmo tipo
+一路上 | TRADUÇÃO: ao longo do caminho/o caminho todo/(fig.) o tempo todo
+一路来 | TRADUÇÃO: todo o caminho; desde o início
+一路平安 | TRADUÇÃO: ter uma viagem agradável/Boa viagem!
+一路货 | TRADUÇÃO: ver 一路貨色|一路货色
+一路货色 | TRADUÇÃO: (expressão idiomática) (pejorativo) tão detestável um quanto o outro; pássaros da mesma pena; cortados do mesmo pano
+一路顺风 | TRADUÇÃO: ter uma viagem agradável (expressão idiomática)
+一路风尘 | TRADUÇÃO: ter uma viagem exaustiva
+一蹴即至 | TRADUÇÃO: lit. chegar lá em um passo (expressão idiomática)/fig. facilmente feito
+一蹴可几 | TRADUÇÃO: ter sucesso na primeira tentativa (expressão idiomática)/fácil como torta/pode-se fazer isso imediatamente
+一蹴而就 | TRADUÇÃO: chegar lá em um passo (expressão idiomática); facilmente feito/sucesso de uma só vez/obter resultados da noite para o dia
+一蹴而得 | TRADUÇÃO: ver 一蹴而就
+一蹴而成 | TRADUÇÃO: ver 一蹴而就
+一蹶不振 | TRADUÇÃO: um tropeço, incapaz de se levantar (expressão idiomática); um revés levando ao colapso total/arrumado de uma só vez/incapaz de se recuperar após um pequeno contratempo
+一跃而起 | TRADUÇÃO: pular subitamente/saltar/levantar-se de um salto
+一身 | TRADUÇÃO: corpo inteiro/da cabeça aos pés/uma pessoa só/um terno de roupas
+一身两役 | TRADUÇÃO: uma pessoa assumindo duas tarefas simultaneamente
+一身是胆 | TRADUÇÃO: desprovido de medo (expressão idiomática)/intrépido
+一身汗 | TRADUÇÃO: suando por todo o corpo
+一较高下 | TRADUÇÃO: competir com/medir-se contra/ir frente a frente (para ver quem é melhor)
+一辈子 | TRADUÇÃO: (por) uma vida inteira
+一轮 | TRADUÇÃO: primeira rodada ou etapa (de uma partida, eleição, negociações, política planejada etc.)
+一转眼 | TRADUÇÃO: num piscar de olhos
+一辞莫赞 | TRADUÇÃO: deixado sem palavras por algo perfeito (expressão idiomática)
+一退六二五 | TRADUÇÃO: veja 一推六二五
+一通百通 | TRADUÇÃO: entender este ponto fundamental e todo o resto se seguirá (expressão idiomática)
+一逞兽欲 | TRADUÇÃO: dar vazão à sua luxúria bestial
+一连 | TRADUÇÃO: em sequência/em fileira/consecutivamente
+一连串 | TRADUÇÃO: uma sucessão de/uma série de
+一遍 | TRADUÇÃO: uma vez (do começo ao fim)/uma vez inteira
+一遍又一遍 | TRADUÇÃO: repetidamente
+一过性 | TRADUÇÃO: (medicina) transitório; temporário
+一道 | TRADUÇÃO: juntos
+一递一个 | TRADUÇÃO: um após outro
+一递一声 | TRADUÇÃO: (de cantores etc.) um respondendo ao outro
+一边 | TRADUÇÃO: um lado/qualquer lado/por um lado/por outro lado/enquanto faz
+一边倒 | TRADUÇÃO: ter a vantagem esmagadoramente de um lado/apoiar incondicionalmente
+一部二十四史，不知从何说起 | TRADUÇÃO: É uma história longa e intrincada, mal sei por onde começar.
+一部分 | TRADUÇÃO: porção/parte de/subconjunto
+一醉方休 | TRADUÇÃO: ficar completamente bêbado (expressão idiomática)/ficar embriagado
+一针见血 | TRADUÇÃO: lit. tirar sangue na primeira picada (expressão idiomática)/fig. acertar na mosca
+一锤子买卖 | TRADUÇÃO: um negócio único e de visão curta/uma tentativa única e total
+一锤定音 | TRADUÇÃO: lit. fixar o tom com uma única martelada/fig. tomar a decisão final
+一钱不值 | TRADUÇÃO: (expressão idiomática) não valer um centavo; totalmente inútil
+一钱如命 | TRADUÇÃO: (expressão idiomática) pão-duro; mesquinho
+一错再错 | TRADUÇÃO: repetir erros/continuar errando/cometer erros contínuos
+一锅端 | TRADUÇÃO: veja 連鍋端|连锅端
+一锅粥 | TRADUÇÃO: (lit.) uma panela de mingau/(fig.) uma bagunça completa
+一长一短 | TRADUÇÃO: (expressão idiomática) falando sem parar; prolixo
+一门式 | TRADUÇÃO: (serviço, loja etc.) balcão único
+一门心思 | TRADUÇÃO: dedicar-se de coração a algo (expressão idiomática)
+一闪念 | TRADUÇÃO: ideia repentina/lance de insight
+一闪而过 | TRADUÇÃO: passar num flash/passar voando
+一阵 | TRADUÇÃO: uma explosão/um acesso/uma rajada/um período (de tempo)
+一阵子 | TRADUÇÃO: um tempo/um período/um curto espaço de tempo/uma explosão
+一雨成秋 | TRADUÇÃO: uma chuva repentina no final do verão traz a chegada abrupta do outono (expressão idiomática)
+一雪前耻 | TRADUÇÃO: apagar uma humilhação (expressão idiomática)
+一霎 | TRADUÇÃO: num instante
+一霎时 | TRADUÇÃO: num instante
+一霎眼 | TRADUÇÃO: de repente/num instante
+一霎间 | TRADUÇÃO: num instante
+一灵真性 | TRADUÇÃO: alma/espírito
+一面 | TRADUÇÃO: um lado/um aspecto/simultaneamente... (e...)/todo o rosto
+一面之交 | TRADUÇÃO: ter se encontrado uma vez/conhecimento casual
+一面之词 | TRADUÇÃO: um lado da história/declaração unilateral
+一面倒 | TRADUÇÃO: estar inteiramente de um lado/unilateral/desequilibrado/parcial/esmagadoramente de um lado
+一头 | TRADUÇÃO: uma cabeça/uma cabeça cheia de algo/uma extremidade (de um bastão)/um lado/de cabeça/diretamente/rapidamente/simultaneamente
+一头栽进 | TRADUÇÃO: mergulhar em/cair de cabeça em
+一头热 | TRADUÇÃO: entusiasmo unilateral (abrev. de 剃頭挑子一頭熱|剃头挑子一头热)
+一头雾水 | TRADUÇÃO: estar confuso/estar perplexo
+一颗老鼠屎坏了一锅汤 | TRADUÇÃO: lit. um grão de fezes de rato estragou toda a panela de sopa (expressão idiomática)/fig. uma maçã podre estraga todo o cesto
+一颗老鼠屎坏了一锅粥 | TRADUÇÃO: veja 一粒老鼠屎壞了一鍋粥|一粒老鼠屎坏了一锅粥
+一类 | TRADUÇÃO: mesmo tipo/categoria 1 (isto é, classe A)
+一类保护动物 | TRADUÇÃO: animal protegido de classe A
+一颦一笑 | TRADUÇÃO: cada franzido e cada sorriso
+一饮而尽 | TRADUÇÃO: virar o copo de um gole só (expressão idiomática)
+一饱眼福 | TRADUÇÃO: saciar os olhos (expressão idiomática)
+一马勺坏一锅 | TRADUÇÃO: uma concha (de algo ruim) estraga a (toda) panela (expressão idiomática)/uma maçã podre estraga o barril
+一马平川 | TRADUÇÃO: planície por onde se pode galopar direto (expressão idiomática); vasta extensão de campo plano
+一马当先 | TRADUÇÃO: (expressão idiomática) tomar a dianteira
+一骑绝尘 | TRADUÇÃO: (expressão idiomática) liderar o grupo por uma larga margem; deixar os competidores para trás na poeira
+一惊一乍 | TRADUÇÃO: assustado/agitado
+一骨碌 | TRADUÇÃO: com um movimento de rolar ou torcer/num único movimento; numa só respiração
+一体 | TRADUÇÃO: um todo integrado/todos os envolvidos/todo mundo
+一体两面 | TRADUÇÃO: (fig.) os dois lados da mesma moeda
+一体化 | TRADUÇÃO: integrar; unificar
+一鳞半爪 | TRADUÇÃO: lit. uma escama e meia garra (expressão idiomática)/fig. apenas pedaços e fragmentos
+一鸣惊人 | TRADUÇÃO: surpreender o mundo com um único feito brilhante (expressão idiomática); celebridade da noite para o dia
+一黑早 | TRADUÇÃO: ao amanhecer
+一点 | TRADUÇÃO: um pouco; um pouquinho/(usado em expressões negativas) (nem) um pouco/(após um adjetivo, usado para formar o comparativo) um pouco mais, mais.../um ponto (numa discussão etc.)/(caligrafia) traço de ponto (、)/uma hora (abrev. de 一點鍾|一点钟)
+一点一滴 | TRADUÇÃO: gota a gota/cada pequena parte
+一点一点 | TRADUÇÃO: pouco a pouco/pedaço por pedaço/gradualmente
+一点不 | TRADUÇÃO: de modo algum
+一点儿 | TRADUÇÃO: variante erhua de 一點|一点
+一点就通 | TRADUÇÃO: uma dica é tudo que é necessário/entender-se mutuamente sem necessidade de explicação
+一点水一个泡 | TRADUÇÃO: honesto e digno de confiança (expressão idiomática)
+一点点 | TRADUÇÃO: um pouquinho
+一党 | TRADUÇÃO: (estado) unipartidário
+一党专制 | TRADUÇÃO: ditadura de um partido
+一鼓作气 | TRADUÇÃO: num acesso de energia
+一鼻孔出气 | TRADUÇÃO: lit. respirar pela mesma narina (expressão idiomática); fig. duas pessoas dizem exatamente a mesma coisa (geralmente pejorativo)/cantar a mesma canção
+一齐 | TRADUÇÃO: ao mesmo tempo/simultaneamente
+丁 | TRADUÇÃO: sobrenome Ding/homem adulto/o 4.º dos 10 Troncos Celestiais 天干/quarto (usado como "4" ou "D")/cubinho de carne ou vegetal/(literário) encontrar/(arcaico) ponto da bússola chinesa antiga: 195°/(química) butila/usado em 丁丁
+丁丁 | TRADUÇÃO: Tintim, personagem fictício de quadrinhos criado por Hergé/(neologismo) (gíria) pênis (丁丁 lembra "JJ", abreviação de 雞雞|鸡鸡)/som de cortar lenha, peças de xadrez batendo no tabuleiro etc.
+丁丁炒面 | TRADUÇÃO: macarrão frito picado
+丁丑 | TRADUÇÃO: décimo quarto ano D2 do ciclo de 60 anos, ex. 1997 ou 2057
+丁二烯 | TRADUÇÃO: butadieno C4H6/bietileno
+丁二醇 | TRADUÇÃO: butilenoglicol
+丁亥 | TRADUÇÃO: vigésimo quarto ano D12 do ciclo de 60 anos, ex. 2007 ou 2067
+丁克 | TRADUÇÃO: Renda Dupla, Sem Filhos (DINK) (estrangeirismo)
+丁内酯 | TRADUÇÃO: butirolactona
+丁冬 | TRADUÇÃO: (onom.) ding dong/tilintar de sinos/som metálico
+丁加奴 | TRADUÇÃO: transliteração anterior de Terengganu, Malásia, substituída por 登嘉樓|登嘉楼 em 2005
+丁卯 | TRADUÇÃO: quarto ano D4 do ciclo de 60 anos, ex. 1987 ou 2047
+丁卯战争 | TRADUÇÃO: primeira invasão manchu da Coreia (1627)

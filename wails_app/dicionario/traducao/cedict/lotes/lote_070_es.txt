@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+𬊈 | TRADUÇÃO: calentar (comida)
+燗 | TRADUÇÃO: variante antigua de 爛|烂
+烫 | TRADUÇÃO: quemar (con líquido o calor); escaldar/hervir brevemente; escaldar (en cocina)/calentar en agua caliente/hacerse la permanente; rizar el cabello/planchar (ropa)/hirviente; que quema; muy caliente
+烫伤 | TRADUÇÃO: quemadura (por líquido caliente o vapor); escaldadura/escaldarse; quemarse
+烫平 | TRADUÇÃO: planchar (ropa); alisar con plancha
+烫手山芋 | TRADUÇÃO: patata caliente (modismo); problema difícil; asunto espinoso
+烫斗 | TRADUÇÃO: plancha (de ropa)
+烫衣 | TRADUÇÃO: planchar (ropa)
+烫衣板 | TRADUÇÃO: tabla de planchar
+烫金 | TRADUÇÃO: (imprenta) estampado en oro; dorar
+烫头发 | TRADUÇÃO: hacerse la permanente; ondularse el cabello/permanente
+烫发 | TRADUÇÃO: permanente (peinado)/ondularse el cabello
+燚 | TRADUÇÃO: llamas ardientes; fuego ardiente/(usado en nombres de personas)
+焖 | TRADUÇÃO: estofar; cocer a fuego lento en olla tapada; guisar
+焖烧锅 | TRADUÇÃO: olla térmica; olla de cocción al vacío
+营 | TRADUÇÃO: campamento; cuartel/batallón/construir; edificar/operar; gestionar/buscar; procurar
+营利 | TRADUÇÃO: con fines de lucro/buscar ganancias; lucrar
+营口 | TRADUÇÃO: véase 營口市|营口市
+营口市 | TRADUÇÃO: Yingkou, ciudad-prefectura en la provincia de Liaoning 遼寧省|辽宁省
+营地 | TRADUÇÃO: campamento
+营垒 | TRADUÇÃO: campamento militar; cuartel fortificado
+营妓 | TRADUÇÃO: prostituta militar (antiguo)
+营寨 | TRADUÇÃO: campamento militar; cuartel
+营山 | TRADUÇÃO: véase 營山縣|营山县
+营山县 | TRADUÇÃO: Yingshan, condado en la ciudad de Nanchong 南充市, Sichuan
+营巢 | TRADUÇÃO: anidar; construir un nido
+营工 | TRADUÇÃO: vender la propia fuerza de trabajo
+营帐 | TRADUÇÃO: tienda de campaña; campamento
+营建 | TRADUÇÃO: construir; edificar
+营房 | TRADUÇÃO: cuartel; alojamiento militar
+营收 | TRADUÇÃO: ingresos; ventas; facturación
+营救 | TRADUÇÃO: rescatar; salvar
+营业 | TRADUÇÃO: hacer negocios; comerciar; estar abierto al público
+营业员 | TRADUÇÃO: dependiente; empleado de tienda/CL:個|个
+营业收入 | TRADUÇÃO: ingresos de explotación; ingresos comerciales; volumen de ventas
+营业时间 | TRADUÇÃO: horario comercial; horario de atención al público
+营业税 | TRADUÇÃO: impuesto sobre las ventas; impuesto sobre la facturación
+营业额 | TRADUÇÃO: volumen de ventas; facturación
+营求 | TRADUÇÃO: buscar; perseguir (un objetivo o beneficio)
+营火 | TRADUÇÃO: fogata; fuego de campamento
+营生 | TRADUÇÃO: ganarse la vida ‖ (coloq.) trabajo; oficio
+营盘 | TRADUÇÃO: Yingpan (nombre común de lugar, "campamento militar")/lugar cerca de la aldea de Jintian 金田村 en Guangxi donde los rebeldes de Taiping Tianguo juraron en 1851/lugar en el condado de Xinfeng 新豐縣|新丰县, campamento tradicional de bandidos/pueblo de Yingpan/Yingpan en la prefectura de Shangluo, Shaanxi/pueblo de Yingpan en Yunnan ‖ campamento militar/campamento nómada
+营私 | TRADUÇÃO: cometer actos corruptos en provecho propio; lucrarse indebidamente; malversar
+营私舞弊 | TRADUÇÃO: véase 徇私舞弊
+营谋 | TRADUÇÃO: planear y gestionar; buscar activamente; maquinar (para lograr un fin)
+营办 | TRADUÇÃO: gestionar; administrar; encargarse de (un negocio)
+营造 | TRADUÇÃO: construir; edificar (viviendas); crear (un ambiente)
+营造商 | TRADUÇÃO: constructor; contratista de obras
+营运 | TRADUÇÃO: funcionamiento; operación; explotación (de aeropuerto, transporte, empresa, etc.)
+营运资金 | TRADUÇÃO: (contabilidad) capital de trabajo; capital operativo
+营运长 | TRADUÇÃO: director de operaciones (COO) (Taiwán)
+营销 | TRADUÇÃO: mercadotecnia; marketing
+营销号 | TRADUÇÃO: (jerga de internet) cuenta de cebo de clics; cuenta de granja de contenidos
+营长 | TRADUÇÃO: comandante de batallón
+营养 | TRADUÇÃO: nutrición; sustento/CL:種|种
+营养不良 | TRADUÇÃO: desnutrición; malnutrición
+营养品 | TRADUÇÃO: producto nutritivo; suplemento nutricional
+营养学 | TRADUÇÃO: nutrición; ciencia de la nutrición
+营养师 | TRADUÇÃO: nutricionista; dietista
+营养液 | TRADUÇÃO: líquido nutritivo; solución de nutrientes
+营养物质 | TRADUÇÃO: nutriente; sustancia nutritiva
+营养素 | TRADUÇÃO: nutriente
+燠 | TRADUÇÃO: cálido; caluroso
+燡 | TRADUÇÃO: brillante; radiante
+燥 | TRADUÇÃO: seco; árido/impaciente; irritado/(forma ligada) (pronunciación en Taiwán [sao4]) carne picada
+燥子 | TRADUÇÃO: carne picada/pronunciación en Taiwán [sao4 zi5]
+燥热 | TRADUÇÃO: calor seco y sofocante; bochorno/(del cuerpo) sofocado y con fiebre/(fig.) inquieto; irritable/(MTC) calor seco
+灿 | TRADUÇÃO: brillante; espléndido; resplandeciente; lustroso
+灿烂 | TRADUÇÃO: resplandeciente; brillante; espléndido
+灿烂多彩 | TRADUÇÃO: esplendor multicolor (de fuegos artificiales, luces brillantes, etc.)
+灿笑 | TRADUÇÃO: sonreír radiantemente; sonrisa radiante
+灿若繁星 | TRADUÇÃO: brillante como una multitud de estrellas (modismo); talento extremadamente sobresaliente
+燧 | TRADUÇÃO: (forma ligada) pedernal; instrumento para encender fuego por fricción o rayos solares/(forma ligada) almenara; fuego de señales (en regiones fronterizas)
+燧人 | TRADUÇÃO: Suiren, legendario inventor del fuego
+燧人氏 | TRADUÇÃO: Suirenshi, legendario inventor del fuego
+燧发枪 | TRADUÇÃO: fusil de chispa; arma de pedernal
+燧石 | TRADUÇÃO: pedernal; sílex
+燨 | TRADUÇÃO: fuego
+烛 | TRADUÇÃO: vela; cirio/(literario) iluminar
+烛光 | TRADUÇÃO: luz de vela; a la luz de las velas (vigilia, etc.)/candela, unidad de intensidad luminosa (cd)
+烛光晚餐 | TRADUÇÃO: cena a la luz de las velas
+烛架 | TRADUÇÃO: candelabro; soporte para velas
+烛泪 | TRADUÇÃO: gotas de cera derretida en una vela
+烛火 | TRADUÇÃO: llama de una vela
+烛台 | TRADUÇÃO: candelabro; portavelas
+燮 | TRADUÇÃO: apellido Xie ‖ mezclar; armonizar; coordinar; armonía ‖ variante antigua de 燮
+燮友 | TRADUÇÃO: apacible; afable; bondadoso
+燮和 | TRADUÇÃO: armonizar; vivir en armonía
+燮理 | TRADUÇÃO: armonizar; adaptar; coordinar
+燰 | TRADUÇÃO: variante antigua de 煨
+烩 | TRADUÇÃO: estofar; cocinar a fuego lento con carne y verduras; guisar
+烩饭 | TRADUÇÃO: arroz guisado en salsa con carne y verduras; risotto al estilo chino
+烩面 | TRADUÇÃO: fideos estofados en salsa o caldo
+㶶 | TRADUÇÃO: (dialectal) quemar; chamuscar
+燹 | TRADUÇÃO: conflagración; estragos del fuego bélico
+熏肉 | TRADUÇÃO: carne ahumada; panceta ahumada; beicon
+熏蒸 | TRADUÇÃO: (del clima bochornoso) ser sofocante/(MTC) tratar una enfermedad con vapores o humos de hierbas medicinales/fumigar
+熏蒸剂 | TRADUÇÃO: fumigante
+烬 | TRADUÇÃO: (forma ligada) cenizas; rescoldos; restos de algo quemado
+燽 | TRADUÇÃO: prominencia; destacado; notable
+焘 | TRADUÇÃO: cubrir; envolver ‖ usado en nombres de personas
+燿 | TRADUÇÃO: brillante; glorioso; resplandeciente
+爆 | TRADUÇÃO: explotar; estallar/saltear a fuego vivo; escaldar rápidamente
+爆乳 | TRADUÇÃO: pechos grandes (jerga)
+爆仗 | TRADUÇÃO: (coloq.) petardo
+爆光 | TRADUÇÃO: exposición fotográfica/exposición pública
+爆冷 | TRADUÇÃO: sorpresa (esp. en deportes); resultado inesperado; dar la sorpresa
+爆冷门 | TRADUÇÃO: dar la sorpresa (esp. en deportes); resultado inesperado; lograr un golpe de efecto
+爆冷门儿 | TRADUÇÃO: variante erhua de 爆冷門|爆冷门
+爆出 | TRADUÇÃO: estallar; surgir inesperadamente; salir a la luz (una noticia)
+爆吧 | TRADUÇÃO: inundación de spam (en foros de internet); ataque de spam
+爆弹 | TRADUÇÃO: bomba
+爆击 | TRADUÇÃO: variante de 暴擊|暴击
+爆改 | TRADUÇÃO: modificar drásticamente; transformación radical
+爆料 | TRADUÇÃO: revelar información comprometedora; destapar una primicia; dar una exclusiva
+爆棚 | TRADUÇÃO: lleno hasta los topes; lleno a reventar; éxito arrollador
+爆款 | TRADUÇÃO: (comercio) producto estrella; artículo de gran éxito; superventas
+爆满 | TRADUÇÃO: lleno al máximo; abarrotado; completo (teatro, estadio, etc.)
+爆火 | TRADUÇÃO: volverse sumamente popular; hacerse viral
+爆炒 | TRADUÇÃO: saltear rápidamente a fuego alto/hacer una campaña masiva de publicidad/especular intensamente en bolsa comprando y vendiendo a gran escala
+爆炸 | TRADUÇÃO: explosión/explotar; estallar; detonar
+爆炸力 | TRADUÇÃO: fuerza explosiva; potencia de una explosión
+爆炸性 | TRADUÇÃO: explosivo/(fig.) impactante; sensacional
+爆炸物 | TRADUÇÃO: material explosivo; explosivo
+爆炸头 | TRADUÇÃO: peinado afro
+爆照 | TRADUÇÃO: (jerga de internet) publicar una foto de uno mismo en línea
+爆燃 | TRADUÇÃO: deflagrar; deflagración
+爆玉米花 | TRADUÇÃO: hacer palomitas de maíz/palomitas de maíz
+爆痘 | TRADUÇÃO: sufrir un brote de acné; salir granos
+爆发 | TRADUÇÃO: estallar; desencadenarse; brotar; entrar en erupción
+爆发力 | TRADUÇÃO: potencia explosiva (en atletismo, música, danza, etc.); intensidad dinámica
+爆发性 | TRADUÇÃO: poder explosivo/explosivo; fulminante
+爆破 | TRADUÇÃO: dinamitar; volar con explosivos/demolición con explosivos; voladura
+爆破手 | TRADUÇÃO: artificiero; dinamitero
+爆竹 | TRADUÇÃO: petardo
+爆笑 | TRADUÇÃO: estallar en carcajadas/hilarante; muy gracioso/carcajada
+爆管 | TRADUÇÃO: detonador; cápsula detonante
+爆米花 | TRADUÇÃO: arroz inflado/palomitas de maíz
+爆粗 | TRADUÇÃO: soltar palabrotas; decir groserías; decir malas palabras
+爆红 | TRADUÇÃO: volverse viral repentinamente; saltar a la fama; alcanzar enorme popularidad de golpe
+爆声 | TRADUÇÃO: estallido; detonación; estampido sónico; golpeteo del motor
+爆肚 | TRADUÇÃO: callos fritos a fuego vivo; tripa escaldada (plato tradicional de Pekín)
+爆肚儿 | TRADUÇÃO: variante erhua de 爆肚
+爆胎 | TRADUÇÃO: reventarse un neumático; sufrir un pinchazo
+爆舱 | TRADUÇÃO: quedarse sin espacio de carga (en barco o avión); sobreventa de espacio de carga
+爆花 | TRADUÇÃO: véase 爆米花
+爆菊花 | TRADUÇÃO: (jerga) sodomizar; penetrar analmente
+爆表 | TRADUÇÃO: romper los esquemas; fuera de escala; superar el límite de medición
+爆裂 | TRADUÇÃO: romperse con fuerza; reventar; estallar; explotar
+爆裂物 | TRADUÇÃO: materiales explosivos; explosivos
+爆金币 | TRADUÇÃO: (videojuegos) soltar monedas de oro al ser derrotado (un monstruo, etc.)/(fig.) (jerga) desembolsar dinero; gastar dinero
+爆雷 | TRADUÇÃO: (de una plataforma financiera P2P) quebrar; colapsar/(Taiwán) (jerga) hacer espóiler; revelar detalles de la trama
+爆震 | TRADUÇÃO: picado de bielas; detonación anormal (en motor de combustión interna)
+爆音 | TRADUÇÃO: estampido sónico; ruido de explosión
+爆头 | TRADUÇÃO: (neologismo) (jerga) (en videojuegos) disparo en la cabeza; dar un tiro en la cabeza
+爆鸣 | TRADUÇÃO: sonido de una explosión; detonación
+爇 | TRADUÇÃO: calentar; quemar ‖ arder; calentar
+爊 | TRADUÇÃO: variante de 熬
+爌 | TRADUÇÃO: variante antigua de 晃/brillante ‖ véase 爌肉 ‖ luz de llama ‖ variante antigua de 曠|旷/brillante y espacioso
+爌肉 | TRADUÇÃO: panceta de cerdo estofada a fuego lento (Taiwán)
+烁 | TRADUÇÃO: brillante; luminoso; centelleante
+烁烁 | TRADUÇÃO: centelleante; parpadeante; brillante
+炉 | TRADUÇÃO: estufa; horno; fogón ‖ variante de 爐|炉
+炉子 | TRADUÇÃO: estufa; horno; fogón
+炉床 | TRADUÇÃO: solera de horno; hogar (de chimenea o fundición)
+炉架 | TRADUÇÃO: rejilla de estufa; soporte para cazuelas; rejilla de horno
+炉渣 | TRADUÇÃO: escoria de horno; cenizas de estufa
+炉火 | TRADUÇÃO: fuego del horno; fuego de la estufa
+炉火纯青 | TRADUÇÃO: (lit.) el fuego del horno se ha vuelto verde puro (alusión a la alquimia taoísta) (modismo)/(fig.) (de un arte, técnica, etc.) llevado a la perfección; consumado
+炉灶 | TRADUÇÃO: estufa; fogón; cocina
+炉膛 | TRADUÇÃO: cámara de combustión; hogar del horno
+炉台 | TRADUÇÃO: encimera de cocina; placa de cocina
+炉边 | TRADUÇÃO: junto al fuego; junto a la chimenea
+炉霍 | TRADUÇÃO: véase 爐霍縣|炉霍县
+炉霍县 | TRADUÇÃO: Luhuo, condado en la prefectura autónoma tibetana de Garzê 甘孜藏族自治州, Sichuan
+炉顶 | TRADUÇÃO: parte superior del horno; bóveda de horno
+爓 | TRADUÇÃO: llama; llamarada
+爔 | TRADUÇÃO: (arcaico) fuego/variante antigua de 曦
+爚 | TRADUÇÃO: brillante; resplandeciente; llameante
+烂 | TRADUÇÃO: blando; muy cocido/pudrirse; descomponerse/podrido/desgastado; roto/caótico; desordenado/completamente; a fondo/pésimo; de mala calidad
+烂人 | TRADUÇÃO: (coloq.) escoria; mala persona; desgraciado
+烂俗 | TRADUÇÃO: trillado; cliché; de mal gusto
+烂大街 | TRADUÇÃO: (coloq.) (de una moda, canción, etc.) estar por todas partes; haberse vuelto común y corriente; perder la novedad
+烂好人 | TRADUÇÃO: persona complaciente que intenta quedar bien con todo el mundo; bonachón en exceso
+烂尾 | TRADUÇÃO: (de un proyecto de construcción, etc.) inacabado; paralizado a medias
+烂尾楼 | TRADUÇÃO: edificio a medio construir abandonado; construcción inacabada
+烂崽 | TRADUÇÃO: (dialectal) gamberro; golfo; maleante
+烂摊子 | TRADUÇÃO: desastre; caos; situación caótica
+烂桃花 | TRADUÇÃO: mala suerte en el amor; romance problemático o tóxico
+烂梗 | TRADUÇÃO: chiste malo; broma trillada o desgastada
+烂橘子 | TRADUÇÃO: (jerga) plataforma Origin de EA
+烂污货 | TRADUÇÃO: mujerzuela; ramera
+烂泥 | TRADUÇÃO: lodo; fango
+烂泥扶不上墙 | TRADUÇÃO: el lodo podrido no se sostiene en la pared (modismo); inútil; incapaz de progresar
+烂泥糊不上墙 | TRADUÇÃO: véase 爛泥扶不上牆|烂泥扶不上墙
+烂漫 | TRADUÇÃO: inocente; espontáneo; sincero/(literario) brillantemente coloreado; vibrante
+烂熟 | TRADUÇÃO: (de fruta) muy madura; pasada/(de comida) muy tierna; muy cocida/conocer a fondo; dominar a la perfección
+烂熳 | TRADUÇÃO: variante de 爛漫|烂漫
+烂片 | TRADUÇÃO: película mala; bodrio cinematográfico
+烂糊 | TRADUÇÃO: (de comida) blando y pastoso por cocción prolongada/(de un plato) espesado a consistencia glutinosa
+烂缦 | TRADUÇÃO: variante de 爛漫|烂漫
+烂舌头 | TRADUÇÃO: chismear; cotillear; chismoso; bocazas
+烂账 | TRADUÇÃO: cuentas desordenadas/deuda incobrable; deuda morosa
+烂透 | TRADUÇÃO: podrido hasta la médula; completamente corrompido
+烂醉 | TRADUÇÃO: completamente borracho; ebrio perdido
+烂醉如泥 | TRADUÇÃO: (modismo) estar completamente borracho; estar borracho como una cuba
+爝 | TRADUÇÃO: antorcha; tea
+爟 | TRADUÇÃO: encender un fuego
+爤 | TRADUÇÃO: variante antigua de 爛|烂
+爥 | TRADUÇÃO: variante antigua de 燭|烛
+爨 | TRADUÇÃO: apellido Cuan ‖ fogón; cocinar
+爪 | TRADUÇÃO: pata de pájaro o animal/garra/zarpa ‖ (coloq.) pata de animal o ave/(coloq.) soporte o pie de utensilio de cocina
+爪儿 | TRADUÇÃO: patita (de animal pequeño)/pata o soporte de un utensilio/persona tonta
+爪印 | TRADUÇÃO: huella de garra o pata
+爪哇 | TRADUÇÃO: Java (isla de Indonesia)
+爪哇八哥 | TRADUÇÃO: (especie de ave de China) miná de Java (Acridotheres javanicus)
+爪哇国 | TRADUÇÃO: antiguo estado ubicado en la actual Java 爪哇/(fig.) lugar remoto, inaccesible o desconocido
+爪哇岛 | TRADUÇÃO: isla de Java (Indonesia)
+爪哇池鹭 | TRADUÇÃO: (especie de ave de China) garcilla de Java (Ardeola speciosa)
+爪哇禾雀 | TRADUÇÃO: (especie de ave de China) capuchino arrocero de Java (Lonchura oryzivora)
+爪子 | TRADUÇÃO: garra; zarpa; pata de animal
+爪字头 | TRADUÇÃO: componente de caracteres chinos 爫, utilizado en 受, 妥, 乳, etc.
+爪尖儿 | TRADUÇÃO: manitas de cerdo; pezuñas de cerdo
+爪机 | TRADUÇÃO: (jerga de internet) teléfono móvil; celular
+爪牙 | TRADUÇÃO: esbirro; lacayo; cómplice; secuaz/garras y dientes
+爪蟾 | TRADUÇÃO: Xenopus (género de ranas)
+爫 | TRADUÇÃO: radical "garra" en caracteres chinos (radical Kangxi 87)
+爬 | TRADUÇÃO: arrastrarse; gatear/trepar; escalar/incorporarse; levantarse
+爬上 | TRADUÇÃO: trepar a; subir escalando
+爬升 | TRADUÇÃO: ascender; subir (avión, cifras de ventas, etc.); ganar altitud/ascender de puesto
+爬坡 | TRADUÇÃO: subir una cuesta; ascender una pendiente
+爬山 | TRADUÇÃO: hacer senderismo de montaña; escalar montañas; excursionismo
+爬山涉水 | TRADUÇÃO: escalar montañas y vadear ríos (modismo); hacer un viaje largo y arduo
+爬山虎 | TRADUÇÃO: hiedra de Boston o parra virgen japonesa (Parthenocissus tricuspidata)
+爬格子 | TRADUÇÃO: (oral) escribir (esp. para ganarse la vida); rellenar cuadrículas escribiendo
+爬梳 | TRADUÇÃO: examinar detalladamente; peinar (documentos históricos, etc.); desentrañar
+爬泳 | TRADUÇÃO: (natación) estilo crol
+爬灰 | TRADUÇÃO: incesto entre suegro y nuera/también escrito 扒灰
+爬墙 | TRADUÇÃO: saltar el muro; escalar una pared/(fig.) ser infiel
+爬犁 | TRADUÇÃO: trineo
+爬竿 | TRADUÇÃO: escalada de cuerda o barra (gimnasia o circo)/poste de trepar
+爬虾 | TRADUÇÃO: galera; camarón mantis
+爬虫 | TRADUÇÃO: reptil/(informática) rastreador web; bot rastreador
+爬虫动物 | TRADUÇÃO: reptil
+爬虫类 | TRADUÇÃO: reptiles/también escrito 爬行類|爬行类
+爬行 | TRADUÇÃO: arrastrarse; gatear; reptar
+爬行动物 | TRADUÇÃO: reptil
+爬行类 | TRADUÇÃO: reptiles/también escrito 爬行動物|爬行动物
+争 | TRADUÇÃO: luchar por; competir por/discutir; debatir/faltar; ser deficiente (dialectal)/cómo o qué (literario)
+争上游 | TRADUÇÃO: esforzarse por estar entre los mejores/zheng shangyou (juego de cartas)
+争先 | TRADUÇÃO: competir por ser el primero; disputarse el primer puesto
+争先恐后 | TRADUÇÃO: (modismo) apresurarse por ser el primero; abalanzarse por miedo a quedarse atrás
+争光 | TRADUÇÃO: ganar honor; aportar gloria; luchar por ganar un premio
+争分夺秒 | TRADUÇÃO: (lit.) luchar por cada minuto y arrebatar cada segundo (modismo); carrera contra el reloj; aprovechar cada segundo
+争取 | TRADUÇÃO: esforzarse por; luchar por; intentar conseguir; ganarse a
+争取时效 | TRADUÇÃO: esforzarse por aprovechar la oportunidad en el momento oportuno
+争取时间 | TRADUÇÃO: ganar tiempo; actuar con urgencia
+争名夺利 | TRADUÇÃO: luchar por la fama y el beneficio personal (modismo); codicia de notoriedad y riqueza
+争吵 | TRADUÇÃO: discutir; pelearse/disputa; riña
+争嘴 | TRADUÇÃO: discutir; reñir/pelearse por la comida
+争执 | TRADUÇÃO: disputar; discutir obstinadamente; desacuerdo
+争执不下 | TRADUÇÃO: discutir sin llegar a un acuerdo; disputa interminable
+争夺 | TRADUÇÃO: luchar por; disputarse; competir por
+争夺战 | TRADUÇÃO: lucha por la posesión; batalla por la conquista
+争妍斗艳 | TRADUÇÃO: competir en belleza y esplendor (esp. de flores, paisajes, etc.)
+争宠 | TRADUÇÃO: competir por los favores de alguien
+争强好胜 | TRADUÇÃO: competitivo; afán de superación; ansioso por destacar y vencer a otros
+争得 | TRADUÇÃO: obtener con esfuerzo; conseguir tras competir
+争战 | TRADUÇÃO: combate; lucha; contienda
+争持 | TRADUÇÃO: negarse a ceder; mantenerse firme en una disputa
+争抢 | TRADUÇÃO: luchar por arrebatar; abalanzarse para disputarse algo
+争斤论两 | TRADUÇÃO: regatear por cada gramo (modismo); discutir por nimiedades; ser quisquilloso
+争权夺利 | TRADUÇÃO: pugna por el poder y el dinero (modismo); lucha de poder
+争气 | TRADUÇÃO: esforzarse por no defraudar; tener amor propio; determinación por superarse
+争球线 | TRADUÇÃO: línea de golpeo; línea de scrimmage (fútbol americano)
+争相 | TRADUÇÃO: apresurarse a porfía a; competir entre sí para
+争端 | TRADUÇÃO: disputa; controversia; conflicto
+争臣 | TRADUÇÃO: ministro franco que no teme criticar al soberano
+争衡 | TRADUÇÃO: disputarse la supremacía; luchar por la superioridad
+争讼 | TRADUÇÃO: litigio; pleito judicial; disputa legal
+争论 | TRADUÇÃO: discutir; debatir/disputa; debate; controversia/CL:次,場|场
+争论点 | TRADUÇÃO: punto de controversia; punto de discordia
+争议 | TRADUÇÃO: controversia; disputa/debatir; disputar
+争议性 | TRADUÇÃO: polémico; controvertido; carácter polémico
+争购 | TRADUÇÃO: apresurarse a comprar; lanzarse a comprar compitiendo
+争辩 | TRADUÇÃO: disputar; polemizar; alegar
+争锋 | TRADUÇÃO: competir por la supremacía; contender
+争锋吃醋 | TRADUÇÃO: variante de 爭風吃醋|争风吃醋
+争长论短 | TRADUÇÃO: (lit.) discutir quién tiene la razón (modismo)/(fig.) reñir por pequeñeces; andar con dimes y diretes
+争雄 | TRADUÇÃO: competir por la hegemonía; disputarse el liderazgo
+争霸 | TRADUÇÃO: luchar por la hegemonía; pugna por el dominio
+争面子 | TRADUÇÃO: quedar bien; dar prestigio (a la familia o escuela)/cuidar las apariencias; salvar la cara
+争风吃醋 | TRADUÇÃO: tener celos amorosos; rivalizar por el afecto de alguien en el amor
+争斗 | TRADUÇÃO: luchar; pelear; pugna; conflicto
+争鸣 | TRADUÇÃO: debatir libremente (de distintas escuelas de pensamiento); contender
+爯 | TRADUÇÃO: variante antigua de 稱|称 ‖ variante antigua de 稱|称
+爰 | TRADUÇÃO: apellido Yuan ‖ por lo tanto/en consecuencia/de ahí que/así/¿dónde?/transformarse (en)/antigua unidad de peso y moneda
+爵 | TRADUÇÃO: jiao (antiguo recipiente de bronce para vino de tres patas)/título de nobleza
+爵位 | TRADUÇÃO: título nobiliario feudal (duque 公, marqués 侯, conde 伯, vizconde 子, barón 男)
+爵士 | TRADUÇÃO: caballero; sir/(extranjerismo) jazz
+爵士乐 | TRADUÇÃO: música jazz (extranjerismo)
+爵士舞 | TRADUÇÃO: danza jazz (extranjerismo)
+爵士音乐 | TRADUÇÃO: música jazz (extranjerismo)
+爵士鼓 | TRADUÇÃO: batería (instrumento musical) (Taiwán)
+爵禄 | TRADUÇÃO: rango y salario de nobleza
+父 | TRADUÇÃO: (forma ligada) padre/(forma ligada) pariente varón de la generación paterna (como en 伯父)/(informática) (forma ligada) padre; primario
+父上 | TRADUÇÃO: (jerga) distinguido padre; honorable padre (término honorífico lúdico prestado del japonés)
+父兄 | TRADUÇÃO: padre y hermano mayor; cabeza de familia; patriarca
+父丧 | TRADUÇÃO: duelo por la muerte del padre; fallecimiento del padre
+父执 | TRADUÇÃO: (literario) amigos del padre (de su misma generación)
+父执辈 | TRADUÇÃO: persona de la generación del propio padre
+父女 | TRADUÇÃO: padre e hija
+父子 | TRADUÇÃO: padre e hijo
+父爱 | TRADUÇÃO: amor paternal
+父慈子孝 | TRADUÇÃO: padre bondadoso e hijo filial (modismo); afecto y armonía familiar ejemplar
+父本 | TRADUÇÃO: (genética) parental masculino; progenitor masculino
+父权制 | TRADUÇÃO: patriarcado
+父母 | TRADUÇÃO: padre y madre; padres
+父母之命，媒妁之言 | TRADUÇÃO: (modismo) mandato de los padres y mediación del casamentero (en matrimonio concertado tradicional)
+父母亲 | TRADUÇÃO: padres; papá y mamá
+父母双亡 | TRADUÇÃO: haber perdido a ambos padres; huérfano de padre y madre
+父皇 | TRADUÇÃO: (histórico) padre emperador (tratamiento dado al emperador por sus hijos)
+父目录 | TRADUÇÃO: (informática) directorio padre; carpeta superior
+父系 | TRADUÇÃO: línea paterna; patrilineal
+父级 | TRADUÇÃO: (informática) padre (en una jerarquía)
+父老 | TRADUÇÃO: ancianos; patriarcas de la comunidad
+父亲 | TRADUÇÃO: padre/también pronunciado [fu4 qin5]/CL:個|个
+父亲节 | TRADUÇÃO: Día del Padre
+父辈 | TRADUÇÃO: personas de la generación de los padres
+爸 | TRADUÇÃO: papá; padre
+爸妈 | TRADUÇÃO: papá y mamá; padres
+爸比 | TRADUÇÃO: (extranjerismo) papi; papito
+爸爸 | TRADUÇÃO: (coloq.) padre; papá/CL:位
+爹 | TRADUÇÃO: papá; padre
+爹地 | TRADUÇÃO: papi; papito (extranjerismo)
+爹娘 | TRADUÇÃO: (dialectal) padres; papá y mamá
+爹爹 | TRADUÇÃO: papá/abuelo
+爷 | TRADUÇÃO: abuelo; anciano señor
+爷俩 | TRADUÇÃO: (coloq.) padre e hijo; padre e hija; abuelo y nieto
+爷们 | TRADUÇÃO: hombres (término colectivo para varones de la familia o comunidad)
+爷们儿 | TRADUÇÃO: variante erhua de 爺們|爷们
+爷爷 | TRADUÇÃO: (coloq.) abuelo paterno; abuelito
+爻 | TRADUÇÃO: líneas continuas y partidas de los ocho trigramas 八卦, p. ej. ☶
+爽 | TRADUÇÃO: claro; fresco; agradable/franco; directo/sentirse genial; placentero; refrescante/desviarse
+爽亮 | TRADUÇÃO: claro y brillante; luminoso
+爽健 | TRADUÇÃO: sentirse saludable y con vitalidad; sano y vigoroso
+爽利 | TRADUÇÃO: eficiente; ágil; desenvuelto y limpio
+爽口 | TRADUÇÃO: fresco y sabroso; refrescante al paladar
+爽心悦目 | TRADUÇÃO: agradable a la vista y reconfortante al corazón
+爽心美食 | TRADUÇÃO: comida reconfortante; comfort food
+爽快 | TRADUÇÃO: refrescado; aliviado/franco; directo; resuelto
+爽意 | TRADUÇÃO: placentero; satisfactorio
+爽捷 | TRADUÇÃO: con prontitud; rápido y desenvuelto
+爽畅 | TRADUÇÃO: agradable y desahogado; deleitoso
+爽朗 | TRADUÇÃO: despejado y claro (del clima)/franco; abierto; jovial (de carácter)
+爽歪了 | TRADUÇÃO: (jerga) ¡qué pasada!; increíble; genial; demasiado bueno
+爽歪歪 | TRADUÇÃO: sentirse de maravilla; estar en la gloria; plenitud placentera
+爽气 | TRADUÇÃO: aire fresco y puro/franco; directo
+爽然 | TRADUÇÃO: alegre y desinhibido/perplejo; desconcertado
+爽然若失 | TRADUÇÃO: sentirse perplejo y desorientado; sentirse vacío
+爽爽快快 | TRADUÇÃO: sin rodeos; con total franqueza y rapidez
+爽当 | TRADUÇÃO: con presteza; franco y espontáneo
+爽目 | TRADUÇÃO: agradable de contemplar; atractivo a la vista
+爽直 | TRADUÇÃO: franco; directo; sincero
+爽约 | TRADUÇÃO: faltar a una cita; romper una promesa de reunión
+爽脆 | TRADUÇÃO: crujiente y sabroso/nítido y claro/franco y enérgico
+爽肤水 | TRADUÇÃO: tónico facial (cosmética)
+爽身粉 | TRADUÇÃO: polvos de talco; talco para bebés
+尔来 | TRADUÇÃO: (literario) recientemente; últimamente; desde entonces
+尔后 | TRADUÇÃO: de aquí en adelante; a partir de entonces; posteriormente
+尔德 | TRADUÇÃO: Eid (festividad del islam)
+尔格 | TRADUÇÃO: ergio (física) (extranjerismo)
+尔等 | TRADUÇÃO: (literario) vosotros; ustedes
+尔虞我诈 | TRADUÇÃO: (lit.) tú me engañas y yo te estafo (modismo)/(fig.) engañarse mutuamente; intrigas y deslealtades recíprocas
+尔雅 | TRADUÇÃO: "Erya", primer diccionario chino conservado (siglo III a. C.), con glosas sobre textos clásicos
+丬 | TRADUÇÃO: radical "trozo de madera" en caracteres chinos (radical Kangxi 90), imagen especular de 片
+爿 | TRADUÇÃO: clasificador para parcelas de terreno, cañas de bambú, tiendas, fábricas, etc./tira de bambú partida o leña troceada (dialectal)
+牁 | TRADUÇÃO: (usado en topónimos)/pronunciación en Taiwán [ge1]
+牂 | TRADUÇÃO: oveja hembra/topónimo
+牄 | TRADUÇÃO: caminar rápidamente
+墙倒众人推 | TRADUÇÃO: (lit.) cuando el muro va a caerse, todos le dan un empujón (modismo)/(fig.) hacer leña del árbol caído
+墙垣 | TRADUÇÃO: muro; valla; tapia
+墙报 | TRADUÇÃO: periódico mural
+墙壁 | TRADUÇÃO: pared; muro
+墙旮旯 | TRADUÇÃO: rincón entre muros; recoveco de pared
+墙板锯 | TRADUÇÃO: sierra para placas de yeso laminado; serrucho de pladur
+墙根 | TRADUÇÃO: base de una pared; pie de un muro
+墙纸 | TRADUÇÃO: papel pintado; papel de pared
+墙角 | TRADUÇÃO: esquina de la pared; rincón
+墙面 | TRADUÇÃO: superficie de la pared
+墙头草 | TRADUÇÃO: veleta (persona oportunista que se inclina según sopla el viento); acomodaticio
+片 | TRADUÇÃO: disco; lámina ‖ trozo fino; rebanada; loncha; película; cortar en láminas; parcial; unilateral; clasificador para rebanadas, pastillas, extensiones de tierra o agua; clasificador para CD, películas, etc.; usado con 一: clasificador para escenas, sentimientos, ambientes, etc.; radical Kangxi 91
+片中 | TRADUÇÃO: en la película
+片假名 | TRADUÇÃO: katakana (silabario japonés)
+片儿 | TRADUÇÃO: lámina; película fina
+片儿警 | TRADUÇÃO: policía de barrio; agente de policía de proximidad
+片刻 | TRADUÇÃO: breve momento; instante
+片剂 | TRADUÇÃO: (farmacología) tableta; comprimido; pastilla
+片名 | TRADUÇÃO: título de la película
+片商 | TRADUÇÃO: productora cinematográfica; distribuidora de películas
+片场 | TRADUÇÃO: plató de rodaje; set de filmación; localización de rodaje
+片子 | TRADUÇÃO: película; filme; disco fonográfico; radiografía ‖ lámina fina; trozo pequeño
+片尾 | TRADUÇÃO: créditos finales de una película o serie; segmento final
+片岩 | TRADUÇÃO: (geología) esquisto
+片断 | TRADUÇÃO: fragmento; sección; extracto
+片时 | TRADUÇÃO: corto tiempo; breve momento
+片段 | TRADUÇÃO: fragmento; fragmento de discurso; extracto; episodio
+片约 | TRADUÇÃO: contrato cinematográfico; oferta de papel en una película
+片花 | TRADUÇÃO: tráiler (de película); avance promocional
+片语 | TRADUÇÃO: locución; frase corta
+片警 | TRADUÇÃO: policía de barrio; policía comunitario
+片酬 | TRADUÇÃO: honorarios por actuar en una película o serie; salario actoral
+片长 | TRADUÇÃO: duración de una película; metraje
+片面 | TRADUÇÃO: unilateral; parcial; sesgado
+片头 | TRADUÇÃO: cola de película (sección en blanco al inicio o final de un rollo) ‖ (cine, TV) cabecera; secuencia de títulos iniciales; créditos de apertura
+片麻岩 | TRADUÇÃO: gneis
+版 | TRADUÇÃO: plancha de imprenta; edición; versión; página; registro
+版主 | TRADUÇÃO: moderador de foro; administrador de foro web
+版刻 | TRADUÇÃO: grabado en madera; xilografía
+版图 | TRADUÇÃO: dominio; territorio nacional; mapa territorial
+版块 | TRADUÇÃO: bloque de impresión; sección (de periódico); subforo o sección (de un foro web)
+版式 | TRADUÇÃO: formato de edición; maquetación
+版本 | TRADUÇÃO: versión; edición; lanzamiento
+版权 | TRADUÇÃO: derechos de autor; copyright
+版权所有 | TRADUÇÃO: todos los derechos reservados (aviso de copyright)
+版次 | TRADUÇÃO: número de edición (de un libro, etc.)
+版画 | TRADUÇÃO: grabado; estampa; obra gráfica
+版税 | TRADUÇÃO: regalías; derechos de autor (sobre ventas de libros)
+版筑 | TRADUÇÃO: construir un muro de tapial; tapiería
+版面 | TRADUÇÃO: página de publicación (periódico, sitio web); espacio de impresión; diseño de página
+版面费 | TRADUÇÃO: tarifa de publicación; tasa por página publicada
+牌 | TRADUÇÃO: letrero; placa; rótulo (CL:塊|块)/marca registrada/ficha de mahjong; ficha de dominó; naipe; carta (CL:張|张)/(forma ligada) patrón métrico o melodía fija en poesía o música clásica (usado en 詞牌|词牌 y 曲牌)
+牌九 | TRADUÇÃO: pai gow (juego de azar jugado con fichas de dominó chino)
+牌位 | TRADUÇÃO: tablilla conmemorativa ancestral
+牌价 | TRADUÇÃO: precio de lista; cotización oficial
+牌匾 | TRADUÇÃO: placa conmemorativa; letrero honorífico enmarcado
+牌坊 | TRADUÇÃO: paifang; arco conmemorativo tradicional chino
+牌型 | TRADUÇÃO: mano (en mahjong o juegos de cartas); combinación de cartas
+牌子 | TRADUÇÃO: letrero; placa/marca registrada
+牌局 | TRADUÇÃO: partida de cartas o mahjong; timba
+牌戏 | TRADUÇÃO: juego de cartas; juego de naipes
+牌桌 | TRADUÇÃO: mesa de juego; mesa de cartas o mahjong
+牌楼 | TRADUÇÃO: pailou; arco monumental decorado
+牌照 | TRADUÇÃO: licencia comercial/licencia de vehículo; matrícula de coche
+牌组 | TRADUÇÃO: baraja; mazo de cartas; conjunto de cartas
+牌号 | TRADUÇÃO: marca registrada; denominación comercial
+窗 | TRADUÇÃO: variante antigua de 窗 ‖ variante de 窗 ‖ variante de 窗 ‖ ventana/CL:扇 ‖ variante de 窗
+牏 | TRADUÇÃO: tabla corta; tablón
+闸 | TRADUÇÃO: variante antigua de 閘|闸/esclusa/compuerta (en vía navegable) ‖ compuerta hidráulica; esclusa/represar agua/(coloq.) freno/(coloq.) interruptor eléctrico
+牒 | TRADUÇÃO: documento oficial; despacho; cédula
+牒谱 | TRADUÇÃO: genealogía; árbol genealógico; lo mismo que 譜牒|谱牒
+牖 | TRADUÇÃO: ilustrar; esclarecer/ventana de celosía
+牍 | TRADUÇÃO: documentos antiguos; tablillas de madera para escribir
+牙 | TRADUÇÃO: diente/marfil/CL:顆|颗
+牙人 | TRADUÇÃO: (antiguo) intermediario; corredor de comercio
+牙侩 | TRADUÇÃO: corredor; intermediario comercial
+牙克石 | TRADUÇÃO: véase 牙克石市
+牙克石市 | TRADUÇÃO: Yakeshi, ciudad a nivel de condado en la ciudad de Hulunbuir 呼倫貝爾市|呼伦贝尔市, Mongolia Interior
+牙冠 | TRADUÇÃO: corona dental
+牙刷 | TRADUÇÃO: cepillo de dientes/CL:把
+牙印 | TRADUÇÃO: marca de dientes; marca de mordisco
+牙口 | TRADUÇÃO: estado de la dentadura; capacidad de masticar
+牙周炎 | TRADUÇÃO: periodontitis (enfermedad periodontal)
+牙周病 | TRADUÇÃO: enfermedad periodontal; periodontitis
+牙垢 | TRADUÇÃO: placa dental; sarro
+牙城 | TRADUÇÃO: ciudadela; cuartel general
+牙套 | TRADUÇÃO: aparato de ortodoncia; brackets/corona dental
+牙子 | TRADUÇÃO: borde dentado/(antiguo) intermediario; corredor
+牙巴 | TRADUÇÃO: (dialectal) diente
+牙帐 | TRADUÇÃO: tienda de campaña del comandante en jefe; sede móvil de soberano nómada
+牙床 | TRADUÇÃO: encía/cama de marfil
+牙慧 | TRADUÇÃO: ideas ajenas repetidas; comentarios ajenos tomados prestados; repetir como un loro
+牙托 | TRADUÇÃO: protector bucal/férula oclusal/cubeta de impresión dental/aparato de ortodoncia/base de dentadura postiza; prótesis dental
+牙斑 | TRADUÇÃO: placa dental; placa bacteriana
+牙旗 | TRADUÇÃO: estandarte del emperador o general rematado en marfil (en la antigüedad)
+牙本质 | TRADUÇÃO: dentina
+牙根 | TRADUÇÃO: raíz del diente
+牙桥 | TRADUÇÃO: puente dental
+牙牙学语 | TRADUÇÃO: véase 咿呀學語|咿呀学语
+牙病 | TRADUÇÃO: odontopatía; enfermedad dental
+牙痛 | TRADUÇÃO: dolor de muelas; dolor de dientes
+牙白 | TRADUÇÃO: blanco marfil; blanco crema
+牙盘 | TRADUÇÃO: (ciclismo) plato y bielas; platos
+牙石 | TRADUÇÃO: cálculo dental; sarro dental
+牙碜 | TRADUÇÃO: arenoso al masticar/(fig.) chirriante; que hiere los oídos
+牙祭 | TRADUÇÃO: banquete; comida suculenta
+牙科 | TRADUÇÃO: odontología; estomatología
+牙科医生 | TRADUÇÃO: dentista; odontólogo
+牙箍 | TRADUÇÃO: aparato ortodóntico; frenillos; brackets
+牙签 | TRADUÇÃO: palillo de dientes; mondadientes
+牙粉 | TRADUÇÃO: polvo dental; dentífrico en polvo
+牙结石 | TRADUÇÃO: cálculo dental; sarro dental
+牙线 | TRADUÇÃO: hilo dental; seda dental/CL:條|条
+牙线棒 | TRADUÇÃO: aplicador de hilo dental; palillo con seda dental
+牙缝 | TRADUÇÃO: espacio interdental; diastema
+牙缝儿 | TRADUÇÃO: espacio interdental
+牙膏 | TRADUÇÃO: pasta de dientes; dentífrico/CL:管
+牙菌斑 | TRADUÇÃO: placa bacteriana dental
+牙行 | TRADUÇÃO: intermediario (en tiempos antiguos); agencia de corretaje
+牙买加 | TRADUÇÃO: Jamaica
+牙买加胡椒 | TRADUÇÃO: pimienta de Jamaica; pimienta inglesa (Pimenta dioica)
+牙医 | TRADUÇÃO: dentista; odontólogo
+牙釉质 | TRADUÇÃO: esmalte dental
+牙关 | TRADUÇÃO: mandíbula; articulación mandibular
+牙关紧闭症 | TRADUÇÃO: trismo; mandíbula trabada
+牙雕 | TRADUÇÃO: grabado en marfil; talla de marfil
+牙音 | TRADUÇÃO: consonantes velares del chino medio
+牙髓 | TRADUÇÃO: pulpa dental
+牙齿 | TRADUÇÃO: diente; dental/CL:顆|颗
+牙齿矫正器 | TRADUÇÃO: aparato de ortodoncia; corrector dental
+牙龈 | TRADUÇÃO: encía
+牙龈炎 | TRADUÇÃO: gingivitis
+牚 | TRADUÇÃO: variante de 撐|撑
+牛 | TRADUÇÃO: apellido Niu ‖ buey; vaca; toro/CL:條|条,頭|头/newton (abrev. de 牛頓|牛顿)/(jerga) genial; asombroso; formidable
+牛B | TRADUÇÃO: véase 牛屄
+牛不喝水强按头 | TRADUÇÃO: (lit.) forzar la cabeza del buey hacia el agua si no quiere beber (modismo)/(fig.) imponer la propia voluntad a alguien; forzar a alguien a hacer lo que no quiere
+牛不喝水难按角 | TRADUÇÃO: (modismo) es inútil obligar a quien no quiere hacer algo; no se puede forzar al buey a beber empujándolo por los cuernos
+牛乳 | TRADUÇÃO: leche de vaca
+牛人 | TRADUÇÃO: (coloq.) crack; figura; experto destacado; persona sobresaliente
+牛仔 | TRADUÇÃO: vaquero; cowboy
+牛仔布 | TRADUÇÃO: tela vaquera; denim
+牛仔裤 | TRADUÇÃO: pantalones vaqueros; jeans/CL:條|条
+牛刀小试 | TRADUÇÃO: véase 小試牛刀|小试牛刀
+牛叉 | TRADUÇÃO: véase 牛屄 (sinónimo eufemístico de 牛屄)
+牛奶 | TRADUÇÃO: leche de vaca/CL:瓶,杯
+牛奶巧克力 | TRADUÇÃO: chocolate con leche
+牛奶糖 | TRADUÇÃO: caramelo de leche; tofe masticable
+牛子 | TRADUÇÃO: (dialectal) pene
+牛屄 | TRADUÇÃO: (jerga) (vulgar) la polla; increíble; genial/(jerga) (vulgar) prepotente; arrogante
+牛山濯濯 | TRADUÇÃO: colinas peladas y desnudas (modismo); cabeza completamente calva
+牛市 | TRADUÇÃO: mercado alcista; mercado al alza
+牛年 | TRADUÇÃO: año del buey (en el zodiaco chino, p. ej. 2009)
+牛年马月 | TRADUÇÃO: véase 猴年馬月|猴年马月
+牛心 | TRADUÇÃO: terquedad; obstinación
+牛性 | TRADUÇÃO: terquedad; cabezonería; obstinación
+牛性子 | TRADUÇÃO: véase 牛性
+牛扒 | TRADUÇÃO: (dialectal) bistec de ternera; filete de carne
+牛批 | TRADUÇÃO: véase 牛屄 (sinónimo eufemístico de 牛屄)
+牛排 | TRADUÇÃO: bistec de ternera; filete; bife
+牛排餐厅 | TRADUÇÃO: restaurante de carnes; asador; churrasquería
+牛排馆 | TRADUÇÃO: asador; restaurante de carnes
+牛掰 | TRADUÇÃO: véase 牛屄 (sinónimo eufemístico de 牛屄)
+牛柳 | TRADUÇÃO: solomillo de ternera; lomo de res
+牛棚 | TRADUÇÃO: establo; vaqueriza/centro clandestino de detención improvisado por los Guardias Rojos durante la Revolución Cultural/(béisbol) bullpen
+牛樟 | TRADUÇÃO: Cinnamomum kanehirae; alcanforero de hoja pequeña (endémico de Taiwán)
+牛桥 | TRADUÇÃO: Oxbridge (término conjunto para las universidades de Oxford y Cambridge)
+牛栏 | TRADUÇÃO: corral de ganado; establo
+牛毛 | TRADUÇÃO: pelo de buey (metáfora de algo sumamente numeroso o muy fino y delicado)
+牛气 | TRADUÇÃO: (coloq.) altanero; arrogante/(economía) alcista
+牛油 | TRADUÇÃO: mantequilla/sebo de vaca; grasa de res
+牛油戟 | TRADUÇÃO: bizcocho cuatro cuartos; pound cake
+牛油果 | TRADUÇÃO: aguacate (Persea americana)/nuez de karité (Vitellaria paradoxa)
+牛津 | TRADUÇÃO: Oxford (ciudad en Inglaterra)
+牛津大学 | TRADUÇÃO: Universidad de Oxford
+牛津郡 | TRADUÇÃO: Oxfordshire (condado de Inglaterra)
+牛海绵状脑病 | TRADUÇÃO: encefalopatía espongiforme bovina (EEB); enfermedad de las vacas locas
+牛溲马勃 | TRADUÇÃO: orina de vaca y hongo de caballo (modismo); cosas insignificantes y baratas; futilidades
+牛犊 | TRADUÇÃO: ternero; becerro
+牛痘 | TRADUÇÃO: viruela vacuna; vacuna contra la viruela
+牛痘病 | TRADUÇÃO: viruela vacuna
+牛百叶 | TRADUÇÃO: libro; librillo (tercer estómago de los rumiantes); tripa de res
+牛皮 | TRADUÇÃO: cuero vacuno; piel de vaca/resistente y flexible/fanfarronería; jactancia
+牛皮癣 | TRADUÇÃO: psoriasis
+牛皮纸 | TRADUÇÃO: papel kraft; papel de estraza
+牛皮色 | TRADUÇÃO: color ante; color cuero
+牛皮菜 | TRADUÇÃO: acelga (Beta vulgaris)
+牛磺酸 | TRADUÇÃO: taurina
+牛筋草 | TRADUÇÃO: pata de gallina; pasto pata de ganso (Eleusine indica)
+牛米 | TRADUÇÃO: newton metro (N·m)
+牛羊 | TRADUÇÃO: vacas y ovejas; ganado
+牛肉 | TRADUÇÃO: carne de res; carne de ternera; carne de vaca
+牛肉丸 | TRADUÇÃO: albóndigas de ternera
+牛肉干 | TRADUÇÃO: carne seca de ternera; cecina
+牛肉面 | TRADUÇÃO: sopa de fideos con ternera
+牛肚 | TRADUÇÃO: callos de ternera; panza de res
+牛肝菌 | TRADUÇÃO: boleto comestible; hongo porcino (Boletus edulis)
+牛背鹭 | TRADUÇÃO: (especie de ave de China) garcilla bueyera oriental (Bubulcus coromandus)
+牛脊肉 | TRADUÇÃO: solomillo de ternera; lomo alto
+牛脖子 | TRADUÇÃO: (coloq.) testarudo; cabezota
+牛脷酥 | TRADUÇÃO: pastel lengua de buey (dulce frito cantonés de masa ovalada)
+牛脾气 | TRADUÇÃO: terquedad; obstinación incorregible; carácter terco
+牛腩 | TRADUÇÃO: falda de ternera; carne de aguja o pecho (esp. cantonés)
+牛膝 | TRADUÇÃO: Achyranthes bidentata (raíz utilizada en medicina tradicional china)
+牛膝草 | TRADUÇÃO: hisopo (Hyssopus officinalis)
+牛至 | TRADUÇÃO: orégano (Origanum vulgare)/mejorana
+牛舌 | TRADUÇÃO: lengua de buey; lengua de vaca
+牛蒡 | TRADUÇÃO: bardana (Arctium lappa)
+牛虻 | TRADUÇÃO: tábano (Tabanus bovinus)
+牛蛙 | TRADUÇÃO: rana toro
+牛衣对泣 | TRADUÇÃO: pareja que llora junta en la extrema miseria (modismo)
+牛角 | TRADUÇÃO: cuerno de buey; asta de toro
+牛角包 | TRADUÇÃO: cruasán; medialuna
+牛角挂书 | TRADUÇÃO: (lit.) colgar libros en los cuernos del buey (modismo)/(fig.) ser diligente y aplicado en los estudios
+牛角椒 | TRADUÇÃO: pimienta de Cayena; chile cuerno de cabra; guindilla
+牛角面包 | TRADUÇÃO: cruasán; croissant
+牛轧糖 | TRADUÇÃO: turrón blando; turrón de frutos secos; nougat (extranjerismo)
+牛轭 | TRADUÇÃO: yugo de buey
+牛轭礁 | TRADUÇÃO: arrecife de Niu'e (arrecife Whitsun o Julian Felipe en el mar de la China Meridional)
+牛逼 | TRADUÇÃO: variante de 牛屄
+牛郎 | TRADUÇÃO: pastor de bueyes (personaje del cuento folclórico El pastor y la tejedora 牛郎織女|牛郎织女)/Altair (estrella) ‖ chico pastor de bueyes/(jerga) prostituto; acompañante masculino
+牛郎织女 | TRADUÇÃO: El pastor y la tejedora (personajes de leyenda china)/amantes separados/estrellas Altair y Vega
+牛只 | TRADUÇÃO: reses; cabezas de ganado vacuno
+牛鞅 | TRADUÇÃO: yugo de madera para buey de tiro
+牛鞭 | TRADUÇÃO: pene de toro (servido como alimento)
+牛顿 | TRADUÇÃO: Newton (nombre)/Sir Isaac Newton (1642-1727), matemático y físico británico ‖ newton (unidad de fuerza del SI)
+牛顿力学 | TRADUÇÃO: mecánica newtoniana; mecánica clásica
+牛顿米 | TRADUÇÃO: newton metro (unidad de momento de fuerza, símbolo: N⋅m)
+牛头 | TRADUÇÃO: Cabeza de Buey (guardián del inframundo en la mitología china) ‖ cabeza de buey/recipiente de vino antiguo con forma de cabeza de buey
+牛头㹴 | TRADUÇÃO: bull terrier
+牛头不对马嘴 | TRADUÇÃO: véase 驢唇不對馬嘴|驴唇不对马嘴
+牛头伯劳 | TRADUÇÃO: (especie de ave de China) alcaudón bucéfalo (Lanius bucephalus)
+牛头犬 | TRADUÇÃO: bulldog
+牛饮 | TRADUÇÃO: beber a grandes tragos; tragar con avidez; abrevar
+牛马 | TRADUÇÃO: bueyes y caballos; bestias de carga/(fig.) bestia de carga; esclavo del trabajo duro
+牛骥同槽 | TRADUÇÃO: el buey y el corcel noble comen del mismo pesebre (modismo); los mediocres y los ilustres son tratados igual/también escrito 牛驥同皂|牛骥同皂
+牛骥同皂 | TRADUÇÃO: el buey y el corcel noble comen del mismo pesebre (modismo); los mediocres y los ilustres son tratados por igual
+牛鬼蛇神 | TRADUÇÃO: monstruos y demonios/(fig.) personajes nefastos; indeseables/(política) elementos reaccionarios o perversos
+牛魔王 | TRADUÇÃO: Rey Demonio Toro (personaje de "Viaje al Oeste")
+牛黄 | TRADUÇÃO: bezoar de vaca; cálculo biliar bovino
+牛鼻子 | TRADUÇÃO: punto clave; meollo del asunto/(antiguo) sacerdote taoísta (jocoso)
+牝 | TRADUÇÃO: (de animal o planta) hembra/ojo de la cerradura/valle
+牝牡 | TRADUÇÃO: hembra y macho; femenino y masculino
+牝牡骊黄 | TRADUÇÃO: un caballo negro o una yegua alazana (modismo); no juzgar por las apariencias exteriores
+牝鸡司晨 | TRADUÇÃO: gallina que canta al amanecer (modismo); mujer que usurpa la autoridad; intromisión femenina en asuntos de gobierno
+牝鸡牡鸣 | TRADUÇÃO: gallina que canta como gallo (modismo); mujer que usurpa el poder
+牟 | TRADUÇÃO: apellido Mou ‖ véase 牟平 ‖ cebada/mugir/buscar u obtener/variante antigua de 侔/variante antigua de 眸
+牟利 | TRADUÇÃO: lucrarse indebidamente; obtener ganancias por medios turbios; explotar
+牟取 | TRADUÇÃO: conseguir con malas artes; obtener con engaño; véase también 謀取|谋取
+牟取暴利 | TRADUÇÃO: obtener ganancias desorbitadas; lucrarse abusivamente
+牟定 | TRADUÇÃO: véase 牟定縣|牟定县
+牟定县 | TRADUÇÃO: Mouding, condado en la prefectura autónoma yi de Chuxiong 楚雄彝族自治州, Yunnan
+牟平 | TRADUÇÃO: véase 牟平區|牟平区
+牟平区 | TRADUÇÃO: Muping, distrito de la ciudad de Yantai 煙台市|烟台市, Shandong
+牡 | TRADUÇÃO: (de animal o planta) macho/cerrojo; llave/colina
+牡丹 | TRADUÇÃO: distrito de Mudan en la ciudad de Heze 菏澤市|菏泽市, Shandong/municipio de Mudan en el condado de Pingtung 屏東縣|屏东县, Taiwán ‖ peonía arbustiva (Paeonia suffruticosa)
+牡丹亭 | TRADUÇÃO: El pabellón de las peonías (1598), obra teatral de Tang Xianzu 湯顯祖|汤显祖
+牡丹区 | TRADUÇÃO: Mudan, distrito de la ciudad de Heze 菏澤市|菏泽市, Shandong
+牡丹卡 | TRADUÇÃO: Tarjeta Peonía (tarjeta de crédito emitida por el Banco Industrial y Comercial de China)
+牡丹江 | TRADUÇÃO: véase 牡丹江市
+牡丹江市 | TRADUÇÃO: Mudanjiang, ciudad-prefectura en la provincia de Heilongjiang 黑龍江省|黑龙江省
+牡丹皮 | TRADUÇÃO: corteza de raíz de peonía arbustiva (usada en MTC)
+牡丹乡 | TRADUÇÃO: municipio de Mudan en el condado de Pingtung 屏東縣|屏东县, Taiwán
+牡丹虽好，全仗绿叶扶 | TRADUÇÃO: por bella que sea la peonía, necesita el apoyo de las hojas verdes (modismo); por capaz que uno sea, necesita la ayuda de los demás
+牡丹虽好，全仗绿叶扶持 | TRADUÇÃO: por bella que sea la peonía, necesita el apoyo de las hojas verdes (modismo); por brillante que sea alguien, requiere el respaldo ajeno
+牡丹虽好，全凭绿叶扶持 | TRADUÇÃO: por bella que sea la peonía, necesita el apoyo de las hojas verdes (modismo); el éxito individual depende de la colaboración de los demás
+牡丹虽好，终须绿叶扶持 | TRADUÇÃO: por bella que sea la peonía, tarde o temprano requiere el sustento de las hojas verdes (modismo); el talento necesita el auxilio ajeno
+牡牛 | TRADUÇÃO: toro; buey
+牡羊座 | TRADUÇÃO: Aries (constelación y signo zodiacal)/usado erróneamente por 白羊座
+牡蛎 | TRADUÇÃO: ostra
+牡鹿 | TRADUÇÃO: ciervo macho; venado
+牢 | TRADUÇÃO: (literario) redil; corral (para ganado)/cárcel; prisión/firme; seguro; sólido
+牢不可破 | TRADUÇÃO: (modismo) (usualmente de algo abstracto: alianza, convicción, etc.) inquebrantable; indestructible; sólido como una roca
+牢什子 | TRADUÇÃO: variante de 勞什子|劳什子
+牢友 | TRADUÇÃO: compañero de celda; compañero de prisión
+牢固 | TRADUÇÃO: firme; sólido; seguro; resistente
+牢子 | TRADUÇÃO: carcelero (antiguo)
+牢实 | TRADUÇÃO: sólido; robusto; firme; seguro
+牢房 | TRADUÇÃO: celda de prisión; calabozo
+牢牢 | TRADUÇÃO: firmemente; sólidamente; bien sujeto
+牢狱 | TRADUÇÃO: prisión; cárcel
+牢狱之灾 | TRADUÇÃO: condena de cárcel; pena de prisión
+牢笼 | TRADUÇÃO: jaula; trampa/lazos; ataduras; grilletes (de ideas erróneas)/atrapar; aprisionar
+牢记 | TRADUÇÃO: tener muy presente; grabar en la memoria; recordar firmemente
+牢靠 | TRADUÇÃO: firme y sólido; fiable; seguro; de confianza
+牢头 | TRADUÇÃO: carcelero jefe; alcaide (antiguo)
+牢骚 | TRADUÇÃO: descontento; queja; quejarse; refunfuñar
+牣 | TRADUÇÃO: llenar por completo; rellenar
+牤 | TRADUÇÃO: toro/véase 牤牛
+牤牛 | TRADUÇÃO: toro
+牧 | TRADUÇÃO: apellido Mu ‖ pastorear; criar ganado/gobernar (antiguo)/funcionario de gobierno (antiguo)
+牧人 | TRADUÇÃO: pastor; ovejero
+牧区 | TRADUÇÃO: zona de pastos; región ganadera
+牧圉 | TRADUÇÃO: criador de caballos/pastizal para ganado y caballos
+牧地 | TRADUÇÃO: pastizal; tierra de pasto
+牧场 | TRADUÇÃO: rancho; pastizal; finca ganadera
+牧夫座 | TRADUÇÃO: Boyero (constelación de Boötes)
+牧师 | TRADUÇÃO: pastor protestante; clérigo; ministro religioso; sacerdote
+牧业 | TRADUÇÃO: ganadería; industria pecuaria
+牧歌 | TRADUÇÃO: canto pastoril; pastoral; bucólica
+牧民 | TRADUÇÃO: pastor; ganadero; pueblo nómada pastoril
+牧牛犬 | TRADUÇÃO: perro pastor de ganado; perro boyero
+牧犬 | TRADUÇÃO: perro pastor; perro ovejero
+牧畜 | TRADUÇÃO: cría de ganado; ganadería
+牧神 | TRADUÇÃO: deidad pastoril; dios de los pastores (esp. Pan en la mitología griega)
+牧神节 | TRADUÇÃO: Lupercales (festividad romana en honor a Pan el 15 de febrero)
+牧童 | TRADUÇÃO: pastorcillo; niño pastor
+牧羊 | TRADUÇÃO: pastorear ovejas; apacentar ovejas
+牧羊人 | TRADUÇÃO: pastor de ovejas; ovejero
+牧羊犬 | TRADUÇÃO: perro pastor; perro ovejero
+牧羊者 | TRADUÇÃO: pastor; ovejero
+牧群 | TRADUÇÃO: rebaño de ovejas; manada de ganado
+牧草 | TRADUÇÃO: pasto; hierba de pastoreo; forraje
+牧野 | TRADUÇÃO: véase 牧野區|牧野区
+牧野区 | TRADUÇÃO: Muye, distrito de la ciudad de Xinxiang 新鄉市|新乡市, Henan
+牧养 | TRADUÇÃO: criar (animales de granja); apacentar
+牧马人 | TRADUÇÃO: jinete pastor; arriero de caballos
+物 | TRADUÇÃO: (forma ligada) cosa; objeto/(literario) el mundo exterior frente a uno mismo; los demás
+物主 | TRADUÇÃO: propietario; dueño
+物主代词 | TRADUÇÃO: pronombre posesivo
+物主限定词 | TRADUÇÃO: determinante posesivo
+物事 | TRADUÇÃO: (literario) asunto; negocio/(dialectal) cosa; objeto; artículo
+物以稀为贵 | TRADUÇÃO: cuanto más escasa es una cosa, más valiosa resulta (modismo)
+物以类聚 | TRADUÇÃO: las cosas similares se atraen (modismo); cada oveja con su pareja; Dios los cría y ellos se juntan
+物以类聚，人以群分 | TRADUÇÃO: las cosas afines se agrupan y las personas semejantes se reúnen (modismo); cada oveja con su pareja
+物件 | TRADUÇÃO: objeto; cosa; artículo
+物候 | TRADUÇÃO: fenología; fenómenos naturales de carácter estacional
+物候学 | TRADUÇÃO: fenología
+物价 | TRADUÇÃO: precios de las mercancías; coste de la vida/CL:個|个
+物价指数 | TRADUÇÃO: índice de precios
+物力 | TRADUÇÃO: recursos materiales (en contraposición a mano de obra)
+物化 | TRADUÇÃO: cosificar; cosificación/(literario) fallecer; morir
+物各有主 | TRADUÇÃO: cada cosa tiene su legítimo dueño (modismo)
+物品 | TRADUÇÃO: artículos; objetos; mercancías
+物态 | TRADUÇÃO: (física) estado de agregación de la materia; estado físico
+物欲世界 | TRADUÇÃO: mundo de los deseos materiales (budismo)
+物料 | TRADUÇÃO: material; suministros
+物是人非 | TRADUÇÃO: (modismo) el lugar sigue igual, pero las personas han cambiado
+物业 | TRADUÇÃO: propiedad inmobiliaria; finca raíz/abrev. de 物業管理|物业管理, administración de fincas
+物业税 | TRADUÇÃO: impuesto sobre bienes inmuebles; impuesto predial
+物业管理 | TRADUÇÃO: administración de fincas; gestión inmobiliaria
+物业费 | TRADUÇÃO: cuota de comunidad; gastos de administración comunitaria
+物极必反 | TRADUÇÃO: cuando las cosas llegan a un extremo, van en sentido opuesto (modismo); los extremos se tocan
+物欲 | TRADUÇÃO: deseo material; afán de posesiones materiales
+物归原主 | TRADUÇÃO: (modismo) devolver algo a su legítimo dueño
+物流 | TRADUÇÃO: logística; distribución comercial
+物流管理 | TRADUÇÃO: gestión logística; logística
+物物交换 | TRADUÇÃO: trueque; intercambio de bienes
+物理 | TRADUÇÃO: física/físico; perteneciente al mundo material
+物理化学 | TRADUÇÃO: fisicoquímica; química física
+物理学 | TRADUÇÃO: física
+物理学家 | TRADUÇÃO: físico
+物理层 | TRADUÇÃO: capa física (en redes)
+物理性质 | TRADUÇÃO: propiedad física
+物理治疗 | TRADUÇÃO: fisioterapia; terapia física
+物理疗法 | TRADUÇÃO: fisioterapia; terapia física
+物理结构 | TRADUÇÃO: estructura física; composición física
+物理量 | TRADUÇÃO: magnitud física; cantidad física
+物产 | TRADUÇÃO: productos; recursos naturales; frutos de la tierra
+物尽其用 | TRADUÇÃO: aprovechar al máximo cada cosa; dar a todo el mejor uso posible
+物种 | TRADUÇÃO: especie
+物种起源 | TRADUÇÃO: "El origen de las especies" de Charles Darwin
+物竞天择 | TRADUÇÃO: selección natural; supervivencia del más apto
+物管 | TRADUÇÃO: administración de fincas (abrev. de 物業管理|物业管理)
+物美价廉 | TRADUÇÃO: bueno y barato; excelente relación calidad-precio; ganga
+物联网 | TRADUÇÃO: internet de las cosas (IoT)
+物色 | TRADUÇÃO: buscar; rastrear; seleccionar con esmero
+物语 | TRADUÇÃO: monogatari; relato épico tradicional (forma literaria japonesa)
+物证 | TRADUÇÃO: prueba material; evidencia física
+物资 | TRADUÇÃO: provisiones; suministros; materiales
+物质 | TRADUÇÃO: materia; sustancia/material; materialista/CL:個|个
+物质享受 | TRADUÇÃO: comodidades materiales; disfrute material
+物质文明 | TRADUÇÃO: civilización material; cultura material
+物质文明和精神文明 | TRADUÇÃO: civilización material y civilización espiritual (consigna teórica de Deng Xiaoping desde 1978); progreso material y cultural
+物质的量 | TRADUÇÃO: (química) cantidad de sustancia
+物超所值 | TRADUÇÃO: (de un producto, servicio, etc.) valer más de lo que cuesta; excelente relación calidad-precio
+物镜 | TRADUÇÃO: objetivo (óptica)
+物体 | TRADUÇÃO: objeto; cuerpo; sustancia
+牮 | TRADUÇÃO: apuntalar; sostener con puntal
+牯 | TRADUÇÃO: buey joven; novillo/vaca
+牲 | TRADUÇÃO: animal doméstico/animal sacrificado; víctima de sacrificio
+牲口 | TRADUÇÃO: animales de tiro o de carga (mulas, bueyes, etc.); bestias de carga
+牲畜 | TRADUÇÃO: ganado; animales de granja
+牲礼 | TRADUÇÃO: (religión) ofrenda animal; animal ofrecido en sacrificio ritual
+牲体 | TRADUÇÃO: cuerpo de animal (o persona) ofrecido en sacrificio ritual
+牳 | TRADUÇÃO: (bovino)
+牴 | TRADUÇÃO: acornear; embestir/resistir; rechazar
+牴牾 | TRADUÇÃO: variante de 抵牾
+牴触 | TRADUÇÃO: variante de 抵觸|抵触
+牷 | TRADUÇÃO: buey de un solo color (usado en sacrificios)
+牸 | TRADUÇÃO: hembra de animales domésticos
+牸牛 | TRADUÇÃO: vaca
+牸马 | TRADUÇÃO: yegua
+特 | TRADUÇÃO: especial; único; distinguido/especialmente; particularmente/inusual; muy/abrev. de 特克斯, tex
+特任 | TRADUÇÃO: nombramiento especial; designación extraordinaria
+特使 | TRADUÇÃO: enviado especial; embajador extraordinario
+特来 | TRADUÇÃO: venir expresamente para un propósito determinado
+特例 | TRADUÇÃO: caso especial; caso excepcional; excepción aislada
+特伦顿 | TRADUÇÃO: Trenton, capital de Nueva Jersey
+特侦组 | TRADUÇÃO: equipo especial de investigación de la fiscalía (Taiwán)
+特价 | TRADUÇÃO: precio especial; precio de oferta; precio rebajado
+特克斯 | TRADUÇÃO: véase 特克斯縣|特克斯县 ‖ (textil) (extranjerismo) tex, unidad de densidad lineal de masa de una fibra
+特克斯和凯科斯群岛 | TRADUÇÃO: Islas Turcas y Caicos
+特克斯河 | TRADUÇÃO: río Tekes (en el sureste de Kazajistán y noroeste de China, afluente del río Ili 伊犁河)
+特克斯县 | TRADUÇÃO: Tekes, condado en la prefectura autónoma kazaja de Ili 伊犁哈薩克自治州|伊犁哈萨克自治州, Xinjiang
+特免 | TRADUÇÃO: exención especial; dispensa especial
+特内里费 | TRADUÇÃO: Tenerife
+特准 | TRADUÇÃO: conceder una autorización especial; otorgar aprobación especial
+特出 | TRADUÇÃO: sobresaliente; distinguido; extraordinario
+特刊 | TRADUÇÃO: número especial (de una revista o periódico); edición especial
+特别 | TRADUÇÃO: inusual; especial/muy; especialmente; particularmente/expresamente; con un propósito específico/(a menudo seguido de 是) en particular
+特别任务连 | TRADUÇÃO: Unidad de Deberes Especiales (SDU, unidad especial de la policía de Hong Kong)
+特别客串 | TRADUÇÃO: actuación especial invitada (en espectáculo o créditos de película); artista invitado
+特别待遇 | TRADUÇÃO: trato especial; tratamiento preferencial
+特别感谢 | TRADUÇÃO: agradecimiento especial; mención especial de agradecimiento
+特别提款权 | TRADUÇÃO: derechos especiales de giro (DEG), activo de reserva internacional del FMI
+特别行政区 | TRADUÇÃO: región administrativa especial (RAE), como Hong Kong 香港 y Macao 澳門|澳门/hace referencia a diversas áreas especiales históricas en China, Corea del Norte o Indonesia
+特别护理 | TRADUÇÃO: cuidados intensivos; atención de enfermería especializada
+特利 | TRADUÇÃO: Terry (nombre)
+特务 | TRADUÇÃO: misión especial (militar)/agente secreto; espía; agente encubierto
+特勤 | TRADUÇÃO: servicio especial (p. ej. escolta o seguridad reforzada)/agente de operaciones especiales
+特化 | TRADUÇÃO: especialización
+特区 | TRADUÇÃO: zona económica especial; región administrativa especial/abrev. de 特別行政區|特别行政区
+特古西加尔巴 | TRADUÇÃO: Tegucigalpa, capital de Honduras
+特地 | TRADUÇÃO: especialmente; a propósito; expresamente
+特大 | TRADUÇÃO: excepcionalmente grande; extragrande
+特大号 | TRADUÇÃO: talla extragrande (XL); tamaño gigante
+特奥会 | TRADUÇÃO: Juegos Paralímpicos Especiales; Olimpiadas Especiales
+特定 | TRADUÇÃO: específico; determinado; particular; designado
+特富龙 | TRADUÇÃO: (China continental) (extranjerismo) Teflón
+特写 | TRADUÇÃO: reportaje especial; crónica/(cine, fotografía) primer plano
+特工 | TRADUÇÃO: servicio secreto; agente secreto; espía
+特征 | TRADUÇÃO: rasgo característico; característica distintiva; atributo
+特征值 | TRADUÇÃO: (mat.) valor propio; autovalor
+特征向量 | TRADUÇÃO: (mat.) vector propio; autovector
+特征联合 | TRADUÇÃO: integración de características; vinculación de rasgos
+特快 | TRADUÇÃO: tren expreso; correo urgente
+特快专递 | TRADUÇÃO: correo urgente; servicio de mensajería exprés
+特快车 | TRADUÇÃO: tren expreso especial
+特急 | TRADUÇÃO: de máxima urgencia; máxima prioridad
+特性 | TRADUÇÃO: propiedad; característica; peculiaridad
+特惠 | TRADUÇÃO: abrev. de 特別優惠|特别优惠/graciable; de favor
+特惠金 | TRADUÇÃO: pago graciable; indemnización por concesión especial
+特意 | TRADUÇÃO: a propósito; con toda intención; especialmente
+特批 | TRADUÇÃO: conceder una aprobación especial; autorizar por vía de excepción
+特技 | TRADUÇÃO: efecto especial; acrobacia; proeza acrobática
+特技演员 | TRADUÇÃO: especialista de cine; doble de acción
+特技跳伞 | TRADUÇÃO: paracaidismo acrobático
+特拉法加广场 | TRADUÇÃO: Trafalgar Square (Londres)
+特拉法尔加 | TRADUÇÃO: Trafalgar
+特拉法尔加广场 | TRADUÇÃO: Trafalgar Square (Londres)
+特拉维夫 | TRADUÇÃO: Tel Aviv; Tel Aviv-Yafo
+特拉华 | TRADUÇÃO: Delaware (estado de EE. UU.)
+特拉华河 | TRADUÇÃO: río Delaware (entre Pensilvania y Delaware, EE. UU.)
+特指 | TRADUÇÃO: referirse específicamente a; designar en particular
+特指问句 | TRADUÇÃO: pregunta de pronombre interrogativo (lingüística)
+特提斯海 | TRADUÇÃO: mar de Tetis (océano prehistórico)
+特效 | TRADUÇÃO: efecto potente; eficacia demostrada/(cine, fotografía, aplicaciones) efectos especiales; filtros
+特效药 | TRADUÇÃO: medicamento de gran eficacia; fármaco específico y eficaz
+特敏福 | TRADUÇÃO: (Hong Kong) (extranjerismo) Tamiflu
+特斯拉 | TRADUÇÃO: Nikola Tesla (1856-1943), inventor e ingeniero serbio/Tesla, empresa estadounidense de vehículos eléctricos y energía limpia ‖ tesla (unidad del SI)
+特易购 | TRADUÇÃO: Tesco (cadena británica de supermercados)
+特有 | TRADUÇÃO: característico de; propio de; distintivo
+特朗普 | TRADUÇÃO: Donald Trump (1946-), empresario y político estadounidense, presidente de EE. UU. (2017-2021 y 2025-)
+特权 | TRADUÇÃO: prerrogativa; privilegio/privilegiado
+特此 | TRADUÇÃO: por la presente; por este medio
+特殊 | TRADUÇÃO: especial; particular; extraordinario; inusual
+特殊儿童 | TRADUÇÃO: niño con necesidades especiales/niño superdotado
+特殊函数 | TRADUÇÃO: funciones especiales (mat.)
+特殊教育 | TRADUÇÃO: educación especial; educación para necesidades educativas especiales
+特殊护理 | TRADUÇÃO: cuidados especiales; enfermería intensiva
+特殊关系 | TRADUÇÃO: relación especial
+特洛伊 | TRADUÇÃO: antigua ciudad de Troya
+特洛伊木马 | TRADUÇÃO: caballo de Troya
+特派 | TRADUÇÃO: envío especial; corresponsal especial; destacamento especial; persona comisionada
+特派员 | TRADUÇÃO: corresponsal especial; comisionado especial; enviado especial
+特为 | TRADUÇÃO: para un propósito específico; expresamente
+特瓦族 | TRADUÇÃO: pueblo twa o batwa (grupo étnico de Ruanda, Burundi, Uganda y la República Democrática del Congo)
+特产 | TRADUÇÃO: especialidad local; producto típico regional
+特异 | TRADUÇÃO: excepcionalmente sobresaliente; singular; peculiar; único
+特异功能 | TRADUÇÃO: poderes sobrenaturales; percepción extrasensorial
+特异性 | TRADUÇÃO: especificidad; carácter específico; idiosincrasia
+特异选择 | TRADUÇÃO: selección especial; reserva especial
+特发性 | TRADUÇÃO: idiopático
+特种 | TRADUÇÃO: tipo especial; clase particular; especializado
+特种兵 | TRADUÇÃO: soldado de fuerzas especiales; comando
+特种空勤团 | TRADUÇÃO: Servicio Aéreo Especial (SAS británico)
+特种警察 | TRADUÇÃO: policía especial; cuerpo de operaciones especiales; policía antidisturbios
+特种部队 | TRADUÇÃO: fuerzas especiales (militar); tropas de élite
+特立尼达 | TRADUÇÃO: Trinidad
+特立尼达和多巴哥 | TRADUÇÃO: Trinidad y Tobago
+特立独行 | TRADUÇÃO: actuar de forma independiente y anticonvencional (modismo); tener criterio propio e independiente
+特等 | TRADUÇÃO: categoría especial; clase superior; máxima calidad
+特约 | TRADUÇÃO: especialmente contratado; comisionado para una labor específica
+特约记者 | TRADUÇÃO: corresponsal especial; colaborador de prensa
+特级 | TRADUÇÃO: calidad extra; categoría especial; grado superior
+特罗多斯 | TRADUÇÃO: Troodos (Chipre)
+特色 | TRADUÇÃO: rasgo distintivo; particularidad; característica propia
+特艺彩色 | TRADUÇÃO: Technicolor
+特卫强 | TRADUÇÃO: Tyvek (marca registrada)
+特制 | TRADUÇÃO: de fabricación especial; hecho a medida; confeccionado por encargo
+特解 | TRADUÇÃO: solución particular (a una ecuación matemática)
+特设 | TRADUÇÃO: constituido especialmente; ad hoc; establecido ex profeso
+特许 | TRADUÇÃO: concesión; licencia especial; franquicia/conceder licencia especial
+特许权 | TRADUÇÃO: derecho de franquicia; concesión; patente
+特许状 | TRADUÇÃO: carta real de privilegios; cédula de concesión; estatuto
+特许经营 | TRADUÇÃO: régimen de franquicia; concesión mercantil
+特调 | TRADUÇÃO: mezcla especial; combinación de la casa
+特警 | TRADUÇÃO: policía de operaciones especiales; antidisturbios/abrev. de 特種警察|特种警察
+特护 | TRADUÇÃO: cuidados intensivos de enfermería; atención especializada/abrev. de 特殊護理|特殊护理
+特护区 | TRADUÇÃO: unidad de cuidados intensivos (de un hospital)
+特卖 | TRADUÇÃO: venta especial; liquidación; rebajas
+特卖会 | TRADUÇÃO: feria de liquidación; venta promocional
+特质 | TRADUÇÃO: rasgo distintivo; cualidad característica; peculiaridad
+特赦 | TRADUÇÃO: indulto especial; amnistía especial
+特赦令 | TRADUÇÃO: decreto de indulto especial
+特起 | TRADUÇÃO: surgir de repente; aparecer de improvisto
+特辑 | TRADUÇÃO: edición especial; recopilación especial; álbum especial
+特邀 | TRADUÇÃO: invitado especial
+特里普拉 | TRADUÇÃO: Tripura (estado de la India)
+特里尔 | TRADUÇÃO: Tréveris (ciudad en Alemania)
+特里萨 | TRADUÇÃO: Teresa (nombre)
+特长 | TRADUÇÃO: aptitud especial; talento particular; punto fuerte
+特雷沃 | TRADUÇÃO: Trevor (nombre)
+特雷莎 | TRADUÇÃO: Teresa (nombre)
+特需 | TRADUÇÃO: necesidad especial; requerimiento particular
+特首 | TRADUÇÃO: jefe ejecutivo de una Región Administrativa Especial (Hong Kong o Macao)/abrev. de 特別行政區首席執行官|特别行政区首席执行官
+特鲁埃尔 | TRADUÇÃO: Teruel (España)
+特鲁多 | TRADUÇÃO: Pierre Trudeau (1919-2000), primer ministro de Canadá (1968-1979 y 1980-1984)/Justin Trudeau (1971-), primer ministro de Canadá desde 2015
+特么 | TRADUÇÃO: equivalente eufemístico de 他媽的|他妈的
+特点 | TRADUÇÃO: característica; rasgo; peculiaridad
+牻 | TRADUÇÃO: (literario) ganado blanco y negro
+牻牛儿苗科 | TRADUÇÃO: Geraniaceae (la familia de los geranios)
+牼 | TRADUÇÃO: canilla del buey; hueso de la pata del buey
+牵 | TRADUÇÃO: llevar de la cuerda; tirar de (un animal atado)/(forma ligada) involucrar; arrastrar
+牵一发而动全身 | TRADUÇÃO: (lit.) tirar de un solo pelo mueve todo el cuerpo (modismo)/(fig.) un pequeño cambio en una parte repercute en todo el sistema
+牵制 | TRADUÇÃO: inmovilizar; contener; restringir; frenar (a tropas enemigas)
+牵动 | TRADUÇÃO: repercutir en; causar un movimiento en; afectar a
+牵就 | TRADUÇÃO: transigir; ceder; contemporizar
+牵引 | TRADUÇÃO: arrastrar; tirar de (un carro); remolcar; tracción
+牵引力 | TRADUÇÃO: fuerza motriz; tracción
+牵引车 | TRADUÇÃO: camión tractor; cabeza tractora; tractor
+牵强 | TRADUÇÃO: traído por los pelos; forzado; inverosímil (razonamiento)
+牵强附会 | TRADUÇÃO: forzar una interpretación inverosímil (modismo); buscar explicaciones traídas por los pelos
+牵心 | TRADUÇÃO: preocuparse; estar inquieto por
+牵心挂肠 | TRADUÇÃO: estar profundamente preocupado (por alguien o algo); zozobra intensa
+牵手 | TRADUÇÃO: tomarse de la mano; ir cogidos de la mano
+牵扯 | TRADUÇÃO: implicar; involucrar/estar estrechamente relacionado
+牵扯不清 | TRADUÇÃO: confuso; embrollado; tener una relación turbia o poco clara con
+牵扶 | TRADUÇÃO: guiar sosteniendo de la mano; llevar del brazo
+牵挂 | TRADUÇÃO: estar preocupado por; sentir inquietud por; añorar
+牵掣 | TRADUÇÃO: entorpecer; trabar; obstaculizar
+牵涉 | TRADUÇÃO: implicar; estar involucrado; atañer
+牵涉到 | TRADUÇÃO: involucrar a; atañer a; arrastrar a
+牵牛 | TRADUÇÃO: Altair (estrella)/el pastor de bueyes (personaje del cuento popular El pastor y la tejedora 牛郎織女|牛郎织女) ‖ gloria de la mañana; campanilla morada (Pharbitis nil)
+牵牛属 | TRADUÇÃO: Pharbitis (género botánico que incluye la gloria de la mañana 牽牛|牵牛, Pharbitis nil)
+牵牛星 | TRADUÇÃO: estrella Altair/pastor de bueyes (personaje de la leyenda tradicional)
+牵牛花 | TRADUÇÃO: campanilla morada; gloria de la mañana de borde blanco
+牵累 | TRADUÇÃO: acarrear problemas a otros; perjudicar; implicar negativamente/atado por obligaciones
+牵绊 | TRADUÇÃO: ataduras; trabas; lazos afectivos o responsabilidades que atan
+牵线 | TRADUÇÃO: mover los hilos; mediar; actuar como intermediario o celestina
+牵线人 | TRADUÇÃO: intermediario; celestino; casamentero; quien mueve los hilos
+牵绳 | TRADUÇÃO: cuerda de tracción; cabo de remolque
+牵缠 | TRADUÇÃO: enredar; liar; enmarañar a alguien
+牵羊担酒 | TRADUÇÃO: llevar un cordero y cargar vino en la pértiga (modismo); acudir con suntuosos regalos para felicitar
+牵联 | TRADUÇÃO: variante de 牽連|牵连
+牵肠挂肚 | TRADUÇÃO: sumamente preocupado (modismo); sentir gran zozobra y ansiedad por un ser querido
+牵着鼻子走 | TRADUÇÃO: llevar a alguien de la nariz; mangonear
+牵记 | TRADUÇÃO: no parar de pensar en; añorar; tener preocupación constante por
+牵连 | TRADUÇÃO: involucrar; implicar/estar implicado; vincular
+牵头 | TRADUÇÃO: llevar la voz cantante; tomar la iniciativa; coordinar (una operación conjunta)/mediar; intermediario
+牾 | TRADUÇÃO: oponerse; resistir/acornear; embestir
+牿 | TRADUÇÃO: corral o cobertizo para ganado
+犀 | TRADUÇÃO: rinoceronte/afilado; incisivo
+犀利 | TRADUÇÃO: afilado; incisivo; penetrante; mordaz
+犀牛 | TRADUÇÃO: rinoceronte
+犀鸟 | TRADUÇÃO: cálao (ave)
+犁 | TRADUÇÃO: arado
+犁地 | TRADUÇÃO: arar la tierra; labrar
+犁沟 | TRADUÇÃO: surco (del arado)
+犁铧 | TRADUÇÃO: reja de arado
+犁靬 | TRADUÇÃO: nombre de la dinastía Han para países del lejano Occidente (puede referirse a estados de la Ruta de la Seda, Alejandría o el Imperio romano)
+犁头 | TRADUÇÃO: reja de arado; cuchilla del arado/(dialectal) arado
+犁骨 | TRADUÇÃO: vómer (hueso de la nariz que separa las fosas nasales)
+犂 | TRADUÇÃO: véase 犂靬/variante de 犁
+犂靬 | TRADUÇÃO: variante de 犁靬
+犄 | TRADUÇÃO: cuernos de buey/flanco de un ejército
+犄角 | TRADUÇÃO: cuerno; asta
+犄角旮旯 | TRADUÇÃO: rincón oculto; recoveco; escondrijo
+犆 | TRADUÇÃO: animal macho
+犇 | TRADUÇÃO: apellido Ben
+犉 | TRADUÇÃO: buey de gran tamaño
+犋 | TRADUÇÃO: yunta; tiro de animales (capaz de tirar de un arado o rastra)
+犍 | TRADUÇÃO: novillo; buey castrado/castrar ganado ‖ usado en 犍為|犍为 (nombre de un lugar en Sichuan)
+犍为 | TRADUÇÃO: véase 犍為縣|犍为县
+犍为县 | TRADUÇÃO: Qianwei, condado en la ciudad de Leshan 樂山市|乐山市, Sichuan
+犍牛 | TRADUÇÃO: buey castrado
+犍陀罗 | TRADUÇÃO: reino de Gandhara en el noroeste de la India (c. 600 a. C. - 11 d. C., junto al río Kabul en el valle de Peshawar)
+犎 | TRADUÇÃO: cebú; ganado índico; buey con joroba
+犎牛 | TRADUÇÃO: bisonte
+犏 | TRADUÇÃO: usado en 犏牛
+犏牛 | TRADUÇÃO: dzo; cruce de toro con hembra de yak
+犒 | TRADUÇÃO: agasajar o recompensar con comida y bebida; agasajar a la tropa
+犒劳 | TRADUÇÃO: agasajar con banquete y bebida; recompensar (a trabajadores o tropas)/agasajo; banquete/pronunciación en Taiwán [kao4 lao4]
+犒赏 | TRADUÇÃO: recompensar; premiar/recompensa; gratificación
+荦 | TRADUÇÃO: buey moteado/claro; evidente; distinguido
+犗 | TRADUÇÃO: buey castrado
+犛 | TRADUÇÃO: buey negro; yak
+犟 | TRADUÇÃO: variante de 強|强
+犟劲 | TRADUÇÃO: terquedad; obstinación; tenacidad
+犟劲儿 | TRADUÇÃO: variante erhua de 犟勁|犟劲
+犊 | TRADUÇÃO: ternero; becerro/víctima de sacrificio
+犊子 | TRADUÇÃO: ternero; becerro
+牺 | TRADUÇÃO: animal de sacrificio; sacrificio
+牺牲 | TRADUÇÃO: dar la vida; sacrificar (algo valioso)/res inmolada en sacrificio
+牺牲品 | TRADUÇÃO: víctima sacrificada; chivo expiatorio; artículo vendido a pérdida
+牺牲打 | TRADUÇÃO: toque de sacrificio (en deportes, p. ej. béisbol)
+牺牲者 | TRADUÇÃO: quien se sacrifica a sí mismo; víctima sacrificada; mártir
+犨 | TRADUÇÃO: jadeo de vaca; gruñido de buey
+犩 | TRADUÇÃO: antiguo yak del sureste de China, también conocido como 犪牛
+犪 | TRADUÇÃO: usado en 犪牛

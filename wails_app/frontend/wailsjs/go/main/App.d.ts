@@ -5,6 +5,7 @@ import {nuvem} from '../models';
 import {dicionario} from '../models';
 import {config} from '../models';
 import {progresso} from '../models';
+import {notasversao} from '../models';
 
 export function AbrirPastaDados():Promise<void>;
 
@@ -28,6 +29,8 @@ export function BuscarPorPinyin(arg1:string):Promise<Array<string>>;
 
 export function CancelarEscutaStt():Promise<void>;
 
+export function ConverterTexto(arg1:string,arg2:string):Promise<string>;
+
 export function CaptureAndOCR():Promise<Array<main.FlashcardCard>>;
 
 export function CaractereCompleto(arg1:string):Promise<string>;
@@ -47,6 +50,12 @@ export function DespertarMotorTts():Promise<void>;
 export function ExcluirTudo():Promise<void>;
 
 export function FalarPinyin(arg1:string,arg2:string):Promise<string>;
+
+export function FalarPinyinRevisao(arg1:string,arg2:string):Promise<string>;
+
+export function InvalidarSintesesTts():Promise<void>;
+
+export function ObterClipesCacheTts(arg1:Array<string>,arg2:string):Promise<Array<string>>;
 
 export function GetCaptureResolution():Promise<main.Resolucao>;
 
@@ -92,7 +101,29 @@ export function MarcarVistoSilencioso(arg1:string):Promise<void>;
 
 export function ObterDadosEscritaHanzi(arg1:string):Promise<string>;
 
+export function ObterArvoreJornada():Promise<any>;
+
+export function ObterProgressoJornada():Promise<any>;
+
+export function ObterQuestoesJornada(arg1:string,arg2:number):Promise<Array<main.QuestaoRevisao>>;
+
+export function ObterQuestoesJornadaComPrimeira(arg1:string,arg2:number,arg3:main.QuestaoRevisao):Promise<Array<main.QuestaoRevisao>>;
+
+export function ObterPrimeiraQuestaoJornada(arg1:string,arg2:number):Promise<main.QuestaoRevisao>;
+
 export function ObterQuestoesRevisao(arg1:string,arg2:number):Promise<Array<main.QuestaoRevisao>>;
+
+export function ObterQuestoesRevisaoComPrimeira(arg1:string,arg2:number,arg3:main.QuestaoRevisao):Promise<Array<main.QuestaoRevisao>>;
+
+export function ObterPrimeiraQuestaoRevisao(arg1:string):Promise<main.QuestaoRevisao>;
+
+export function GerarFrasesComIA(arg1:number):Promise<number>;
+
+export function ObterFrasesIA():Promise<Array<progresso.FraseUsuario>>;
+
+export function DescartarFraseIA(arg1:string):Promise<boolean>;
+
+export function RegistrarRevisaoJornadaConcluida(arg1:string,arg2:number):Promise<void>;
 
 export function ObterTotalHanzisDicionario():Promise<number>;
 
@@ -132,6 +163,42 @@ export function TrocarMotor(arg1:string):Promise<void>;
 
 export function ObterEstatisticasPalavra(arg1:string):Promise<{[key: string]: number}>;
 
+export function ObterInformacaoExpansao(arg1:string):Promise<main.InformacaoExpansao>;
+
 export function RegistrarRespostaRevisao(arg1:string,arg2:string,arg3:string,arg4:string,arg5:boolean):Promise<void>;
 
-export function ObterSugestoesAprendidoLote(arg1:Array<string>):Promise<Array<progresso.Vocab>>;
+export function RegistrarRespostaFrase(arg1:Array<main.PalavraRevisao>,arg2:Array<string>,arg3:boolean):Promise<void>;
+
+export function ObterSugestoesAprendidoLote(arg1:Array<string>,arg2:Array<string>):Promise<Array<progresso.Vocab>>;
+
+export function ObterSugestoesEstudoOcr():Promise<Array<progresso.Vocab>>;
+
+export function OcultarSugestoesEstudoOcr(arg1:Array<string>):Promise<void>;
+
+export function ObterFocoRevisao():Promise<Array<main.ItemFocoRevisao>>;
+
+export function AdicionarHanziFoco(arg1:string):Promise<void>;
+
+export function RemoverHanziFoco(arg1:string):Promise<void>;
+
+export function ObterProgressoRevisaoPalavras(arg1:Array<string>):Promise<main.ProgressoRevisaoPalavras>;
+
+export function ReiniciarAplicativo():Promise<void>;
+
+export function SegmentarTexto(arg1:string):Promise<Array<string>>;
+
+export function ObterRecomendacoesBaralho(arg1:boolean):Promise<Array<main.RecomendacaoBaralho>>;
+
+export function VirarCartaBaralho(arg1:string,arg2:boolean):Promise<void>;
+
+export function IniciarAtualizacao(arg1:string):Promise<void>;
+
+export function ObterEstadoAtualizacao():Promise<main.EstadoAtualizacao>;
+
+export function VerificarAtualizacao(arg1:string):Promise<main.ResultadoVerificacaoAtualizacao>;
+
+export function MarcarNotasVersaoVistas(arg1:Array<string>):Promise<void>;
+
+export function ObterNotasVersao():Promise<Array<notasversao.Nota>>;
+
+export function ObterNotasVersaoNaoVistas():Promise<Array<notasversao.Nota>>;

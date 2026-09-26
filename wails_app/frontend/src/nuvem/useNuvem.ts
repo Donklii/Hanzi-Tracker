@@ -9,16 +9,17 @@ import {
   GetInfoNuvem, ConectarNuvem, ResolverConflitoNuvem, SincronizarNuvem, DesconectarNuvem,
 } from '../../wailsjs/go/main/App';
 import { EscolhaConflitoNuvem, ESTADO_NUVEM_CONFLITO } from './tipos';
+import { t } from '../i18n/i18n';
 
 interface OpcoesUseNuvem {
   setStatus: (mensagem: string) => void;
-  // Chamado quando o banco local é substituído pelo da nuvem: quem consome precisa recarregar
-  // tudo que foi lido do banco antigo (vocabulário, uso de disco).
-  aoSubstituirBancoLocal: () => void;
+  // Chamado quando os dados locais são substituídos pelos da nuvem: quem consome precisa recarregar
+  // tudo que veio dos arquivos antigos (vocabulário, uso de disco e as configurações).
+  aoRestaurarDaNuvem: () => void;
 }
 
 
-export function useNuvem({ setStatus, aoSubstituirBancoLocal }: OpcoesUseNuvem) {
+export function useNuvem({ setStatus, aoRestaurarDaNuvem }: OpcoesUseNuvem) {
   const [infoNuvem, setInfoNuvem] = useState<nuvem.Info | null>(null);
   const [nuvemOcupada, setNuvemOcupada] = useState(false);
   const [conflitoNuvemAberto, setConflitoNuvemAberto] = useState(false);
@@ -38,13 +39,13 @@ export function useNuvem({ setStatus, aoSubstituirBancoLocal }: OpcoesUseNuvem) 
   };
 
   const ConectarNuvemDrive = () => {
-    setStatus('Autorize o Hanzi Tracker no navegador que acabou de abrir…');
+    setStatus(t('Autorize o Hanzi Tracker no navegador que acabou de abrir…'));
     executarOperacaoNuvem(ConectarNuvem, info => {
       if (info.estado === ESTADO_NUVEM_CONFLITO) {
         setConflitoNuvemAberto(true); // já existe backup na nuvem: o usuário escolhe um lado
         return;
       }
-      setStatus('Google Drive conectado — banco enviado para a nuvem.');
+      setStatus(t('Google Drive conectado — progresso e configurações enviados para a nuvem.'));
     });
   };
 
@@ -52,19 +53,19 @@ export function useNuvem({ setStatus, aoSubstituirBancoLocal }: OpcoesUseNuvem) 
     executarOperacaoNuvem(() => ResolverConflitoNuvem(escolha), () => {
       setConflitoNuvemAberto(false);
       if (escolha === 'usarNuvem') {
-        aoSubstituirBancoLocal();
+        aoRestaurarDaNuvem();
       }
-      setStatus('Sincronização com o Google Drive concluída.');
+      setStatus(t('Sincronização com o Google Drive concluída.'));
     });
   };
 
   const SincronizarNuvemDrive = () => {
-    executarOperacaoNuvem(SincronizarNuvem, () => setStatus('Banco sincronizado com o Google Drive.'));
+    executarOperacaoNuvem(SincronizarNuvem, () => setStatus(t('Progresso e configurações sincronizados com o Google Drive.')));
   };
 
   const DesconectarNuvemDrive = () => {
     executarOperacaoNuvem(DesconectarNuvem, () => {
-      setStatus('Google Drive desconectado (o backup continua no seu Drive).');
+      setStatus(t('Google Drive desconectado (o backup continua no seu Drive).'));
     });
   };
 

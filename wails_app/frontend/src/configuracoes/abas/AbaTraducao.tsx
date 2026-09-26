@@ -1,6 +1,7 @@
 // ----- Seção: Configurações — aba Tradução (Google Cloud Translation + Gemini) -----
 import { config, main } from '../../../wailsjs/go/models';
 import { SecaoDependente } from '../comum';
+import { t } from '../../i18n/i18n';
 
 interface AbaTraducaoProps {
   termoBusca: string;
@@ -14,21 +15,21 @@ interface AbaTraducaoProps {
 export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguracao, AplicarConfiguracao, infoCotaTraducao, infoCotaGemini }: AbaTraducaoProps) {
   return (
     <>
-      {termoBusca && <h3 className="settings-section-title" style={{ marginTop: '32px' }}>Tradução (IA)</h3>}
+      {termoBusca && <h3 className="settings-section-title" style={{ marginTop: '32px' }}>{t('Tradução (IA)')}</h3>}
 
       {(!termoBusca || "tradução api key google cloud".includes(termoBusca.toLowerCase())) && (
         <div className="form-group">
-          <label>Google Cloud Translation API Key</label>
+          <label>{t('Google Cloud Translation API Key')}</label>
           <input
             type="password"
             className="form-input"
             value={configuracoesApp.traducaoApiKey}
             onChange={e => AtualizarConfiguracao('traducaoApiKey', e.target.value)}
-            placeholder="Cole sua API Key aqui..."
+            placeholder={t('Cole sua API Key aqui...')}
           />
           <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
-            Requer uma API key própria do Google Cloud Platform (GCP). Cota gratuita: 500.000 caracteres/mês.
-            <strong>Aviso:</strong> o Google exige cartão cadastrado no GCP mesmo para usar apenas a cota gratuita.
+            {t('Requer uma API key própria do Google Cloud Platform (GCP). Cota gratuita: 500.000 caracteres/mês.')}{' '}
+            <strong>{t('Aviso:')}</strong> {t('o Google exige cartão cadastrado no GCP mesmo para usar apenas a cota gratuita.')}
           </small>
         </div>
       )}
@@ -37,7 +38,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
         <>
           <div className="form-group" style={{ marginTop: '16px' }}>
             <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-              <span>Habilitar tradução por linha (Atalho de Pop-up de Tudo)</span>
+              <span>{t('Habilitar tradução por linha (Atalho de Pop-up de Tudo)')}</span>
               <input
                 type="checkbox"
                 checked={configuracoesApp.traducaoAtiva}
@@ -53,7 +54,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
             {(!termoBusca || "pausar traduções limite cota mensal".includes(termoBusca.toLowerCase())) && (
               <div className="form-group">
                 <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-                  <span>Pausar traduções ao atingir limite da cota gratuita mensal</span>
+                  <span>{t('Pausar traduções ao atingir limite da cota gratuita mensal')}</span>
                   <input
                     type="checkbox"
                     checked={configuracoesApp.traducaoPausarPorCota}
@@ -66,7 +67,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
             <SecaoDependente ativa={configuracoesApp.traducaoPausarPorCota}>
               {(!termoBusca || "limite cota mensal percentual".includes(termoBusca.toLowerCase())) && (
                 <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px', margin: 0 }}>
-                  <label style={{ margin: 0, flex: 1 }}>Limite de Cota Mensal</label>
+                  <label style={{ margin: 0, flex: 1 }}>{t('Limite de Cota Mensal')}</label>
                   <input
                     type="range"
                     min="10" max="100" step="5"
@@ -82,7 +83,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
             {(!termoBusca || "guardar cache traduções feitas".includes(termoBusca.toLowerCase())) && (
               <div className="form-group" style={{ marginTop: '16px' }}>
                 <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-                  <span>Guardar traduções já feitas para não gastar cota na mesma linha</span>
+                  <span>{t('Guardar traduções já feitas para não gastar cota na mesma linha')}</span>
                   <input
                     type="checkbox"
                     checked={configuracoesApp.traducaoUsarCache}
@@ -95,7 +96,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
             {infoCotaTraducao && (!termoBusca || "uso da cota".includes(termoBusca.toLowerCase())) && (
               <div className="form-group" style={{ marginTop: '16px', padding: '12px', backgroundColor: 'var(--cor-fundo-cartao)', borderRadius: '8px', border: '1px solid var(--cor-borda)', marginBottom: 0 }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
-                  <span>Uso da Cota (Mês {infoCotaTraducao.anoMes})</span>
+                  <span>{t('Uso da Cota (Mês {mes})', { mes: infoCotaTraducao.anoMes })}</span>
                   <strong>{infoCotaTraducao.percentual.toFixed(1)}%</strong>
                 </div>
                 <div style={{ width: '100%', height: '8px', backgroundColor: 'var(--cor-borda)', borderRadius: '4px', overflow: 'hidden' }}>
@@ -106,7 +107,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
                   }} />
                 </div>
                 <div style={{ fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '8px', textAlign: 'right' }}>
-                  {infoCotaTraducao.caracteresUsados.toLocaleString('pt-BR')} / {infoCotaTraducao.cotaTotal.toLocaleString('pt-BR')} caracteres
+                  {t('{usados} / {total} caracteres', { usados: infoCotaTraducao.caracteresUsados.toLocaleString(), total: infoCotaTraducao.cotaTotal.toLocaleString() })}
                 </div>
               </div>
             )}
@@ -114,20 +115,20 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
         </>
       )}
 
-      <h3 className="settings-section-title" style={{ marginTop: '32px' }}>Google Gemini (IA)</h3>
+      <h3 className="settings-section-title" style={{ marginTop: '32px' }}>{t('Google Gemini (IA)')}</h3>
 
       {(!termoBusca || "gemini api key google".includes(termoBusca.toLowerCase())) && (
         <div className="form-group">
-          <label>Gemini API Key</label>
+          <label>{t('Gemini API Key')}</label>
           <input
             type="password"
             className="form-input"
             value={configuracoesApp.geminiApiKey || ''}
             onChange={e => AtualizarConfiguracao('geminiApiKey', e.target.value)}
-            placeholder="Cole sua API Key do Gemini aqui..."
+            placeholder={t('Cole sua API Key do Gemini aqui...')}
           />
           <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
-            Requer uma API key própria do Google AI Studio (gratuita).
+            {t('Requer uma API key própria do Google AI Studio (gratuita).')}
           </small>
         </div>
       )}
@@ -136,7 +137,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
         <>
           <div className="form-group" style={{ marginTop: '16px' }}>
             <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-              <span>Habilitar Gemini (resumo ou tradução da tela)</span>
+              <span>{t('Habilitar Gemini (resumo ou tradução da tela)')}</span>
               <input
                 type="checkbox"
                 checked={configuracoesApp.geminiAtivo || false}
@@ -158,7 +159,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
           <SecaoDependente ativa={configuracoesApp.geminiAtivo || false}>
             {(!termoBusca || "modelo gemini flash pro".includes(termoBusca.toLowerCase())) && (
               <div className="form-group">
-                <label>Modelo do Gemini</label>
+                <label>{t('Modelo do Gemini')}</label>
                 <select
                   className="form-input"
                   value={configuracoesApp.geminiModelo || 'gemini-1.5-flash'}
@@ -168,19 +169,19 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
                     AplicarConfiguracao({ geminiModelo: novoModelo, geminiLimiteRequisicoesDia: novoLimite });
                   }}
                 >
-                  <option value="gemini-1.5-flash">Gemini 1.5 Flash (Rápido, Cota Alta)</option>
-                  <option value="gemini-1.5-pro">Gemini 1.5 Pro (Avançado, Cota Baixa)</option>
-                  <option value="gemini-2.0-flash">Gemini 2.0 Flash (Mais atual)</option>
+                  <option value="gemini-1.5-flash">{t('Gemini 1.5 Flash (Rápido, Cota Alta)')}</option>
+                  <option value="gemini-1.5-pro">{t('Gemini 1.5 Pro (Avançado, Cota Baixa)')}</option>
+                  <option value="gemini-2.0-flash">{t('Gemini 2.0 Flash (Mais atual)')}</option>
                   <option value="gemini-2.0-pro">Gemini 2.0 Pro</option>
                 </select>
                 <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
-                  Modelos Flash possuem cota gratuita muito maior (1500 req/dia) em relação aos Pro (50 req/dia).
+                  {t('Modelos Flash possuem cota gratuita muito maior (1500 req/dia) em relação aos Pro (50 req/dia).')}
                 </small>
               </div>
             )}
             <div className="form-group">
               <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-                <span>Pop-up com resumo da tela (Atalho de Pop-up de Tudo)</span>
+                <span>{t('Pop-up com resumo da tela (Atalho de Pop-up de Tudo)')}</span>
                 <input
                   type="checkbox"
                   checked={configuracoesApp.geminiPopupResumo || false}
@@ -201,22 +202,22 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
 
             <SecaoDependente ativa={configuracoesApp.geminiPopupResumo || false}>
               <div className="form-group">
-                <label>Canto do pop-up de resumo</label>
+                <label>{t('Canto do pop-up de resumo')}</label>
                 <select
                   className="form-input"
                   value={configuracoesApp.geminiCantoResumo || 'superior-direito'}
                   onChange={e => AtualizarConfiguracao('geminiCantoResumo', e.target.value)}
                 >
-                  <option value="superior-esquerdo">Superior esquerdo</option>
-                  <option value="superior-direito">Superior direito</option>
-                  <option value="inferior-esquerdo">Inferior esquerdo</option>
-                  <option value="inferior-direito">Inferior direito</option>
+                  <option value="superior-esquerdo">{t('Superior esquerdo')}</option>
+                  <option value="superior-direito">{t('Superior direito')}</option>
+                  <option value="inferior-esquerdo">{t('Inferior esquerdo')}</option>
+                  <option value="inferior-direito">{t('Inferior direito')}</option>
                 </select>
               </div>
 
               <div className="form-group">
                 <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-                  <span>Enviar a imagem da tela junto (melhora o resumo)</span>
+                  <span>{t('Enviar a imagem da tela junto (melhora o resumo)')}</span>
                   <input
                     type="checkbox"
                     checked={configuracoesApp.geminiEnviarImagem || false}
@@ -224,14 +225,14 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
                   />
                 </label>
                 <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px' }}>
-                  Mais custoso: a captura inteira é enviada ao Gemini a cada resumo, consumindo muito mais tokens da sua cota — e tudo que estiver visível na tela é enviado ao Google.
+                  {t('Mais custoso: a captura inteira é enviada ao Gemini a cada resumo, consumindo muito mais tokens da sua cota — e tudo que estiver visível na tela é enviado ao Google.')}
                 </small>
               </div>
             </SecaoDependente>
 
             <div className="form-group">
               <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-                <span>Pop-ups de tradução em cada linha detectada (Atalho de Pop-up de Tudo)</span>
+                <span>{t('Pop-ups de tradução em cada linha detectada (Atalho de Pop-up de Tudo)')}</span>
                 <input
                   type="checkbox"
                   checked={configuracoesApp.geminiPopupLinha || false}
@@ -252,7 +253,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
 
             <div className="form-group">
               <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-                <span>Pausar ao atingir o limite diário de requisições</span>
+                <span>{t('Pausar ao atingir o limite diário de requisições')}</span>
                 <input
                   type="checkbox"
                   checked={configuracoesApp.geminiPausarPorCota || false}
@@ -263,7 +264,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
 
             <SecaoDependente ativa={configuracoesApp.geminiPausarPorCota || false}>
               <div className="form-group" style={{ display: 'flex', alignItems: 'center', gap: '16px', margin: 0 }}>
-                <label style={{ margin: 0, flex: 1 }}>Limite de requisições por dia</label>
+                <label style={{ margin: 0, flex: 1 }}>{t('Limite de requisições por dia')}</label>
                 <input
                   type="number"
                   className="form-input"
@@ -281,7 +282,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
               return (
                 <div className="form-group" style={{ marginTop: '16px', padding: '12px', backgroundColor: 'var(--cor-fundo-cartao)', borderRadius: '8px', border: '1px solid var(--cor-borda)', marginBottom: 0 }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
-                    <span>Uso da Cota Gemini (Dia {infoCotaGemini.data})</span>
+                    <span>{t('Uso da Cota Gemini (Dia {dia})', { dia: infoCotaGemini.data })}</span>
                     <strong>{(fracaoUsada * 100).toFixed(1)}%</strong>
                   </div>
                   <div style={{ width: '100%', height: '8px', backgroundColor: 'var(--cor-borda)', borderRadius: '4px', overflow: 'hidden' }}>
@@ -292,7 +293,7 @@ export function AbaTraducao({ termoBusca, configuracoesApp, AtualizarConfiguraca
                     }} />
                   </div>
                   <div style={{ fontSize: '11px', color: 'var(--cor-texto-suave)', marginTop: '8px', textAlign: 'right' }}>
-                    {infoCotaGemini.requisicoesUsadas.toLocaleString('pt-BR')} / {limiteDia.toLocaleString('pt-BR')} requisições hoje
+                    {t('{usadas} / {total} requisições hoje', { usadas: infoCotaGemini.requisicoesUsadas.toLocaleString(), total: limiteDia.toLocaleString() })}
                   </div>
                 </div>
               );

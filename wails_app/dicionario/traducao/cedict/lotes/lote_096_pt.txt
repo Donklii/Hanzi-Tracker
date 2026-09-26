@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+血亏 | TRADUÇÃO: anemia
+血衣 | TRADUÇÃO: vestimenta ensanguentada
+血袋 | TRADUÇÃO: bolsa de sangue
+血制品 | TRADUÇÃO: hemoderivados
+血亲 | TRADUÇÃO: parente consanguíneo/laço de sangue
+血亲复仇 | TRADUÇÃO: vingança de sangue
+血证 | TRADUÇÃO: prova de assassinato/vestígio de sangue
+血豆腐 | TRADUÇÃO: tofu de sangue (sangue animal coagulado)
+血象 | TRADUÇÃO: (medicina) hemograma/hemograma
+血账 | TRADUÇÃO: dívida de sangue (após matar alguém)
+血迹 | TRADUÇÃO: mancha de sangue
+血迹斑斑 | TRADUÇÃO: manchado de sangue
+血路 | TRADUÇÃO: fuga desesperada (de um campo de batalha)/abrir caminho sangrento para fora de um campo de batalha
+血透 | TRADUÇÃO: hemodiálise (abrev. de 血液透析)
+血钻 | TRADUÇÃO: diamante de sangue/diamante de conflito
+血雀 | TRADUÇÃO: (espécie de ave da China) pintarroxo-escarlate (Carpodacus sipahi)
+血雉 | TRADUÇÃO: (espécie de ave da China) faisão-sangue (Ithaginis cruentus)
+血雨 | TRADUÇÃO: chuva de sangue/chuva forte colorida por tempestade de areia de loesse
+血饼 | TRADUÇÃO: coágulo de sangue/sangue coagulado
+血郁 | TRADUÇÃO: (MTC) ter circulação sanguínea lenta
+衁 | TRADUÇÃO: sangue
+众寡 | TRADUÇÃO: a maioria ou a minoria
+衈 | TRADUÇÃO: sangue de ave sacrificial aspergido nas portas e vasos
+衉 | TRADUÇÃO: vomitar
+衋 | TRADUÇÃO: triste (antigo)
+行 | TRADUÇÃO: fileira/linha/ramo de negócio/comércio/profissão/empresa comercial/ocupar (primeiro, segundo etc) entre irmãos (por idade)/linha (em tabelas de dados)/(Taiwan) coluna/classificador para fileiras ou linhas ‖ usado em 道行 ‖ andar/ir/viajar/(literário) viagem/jornada/visita/(literário) temporário/provisório/(literário) atual/em circulação/(literário) fazer/realizar/capaz/competente/tudo bem!/OK!/comportamento/conduta (pronúncia de Taiwan [xing4])/(literário) prestes a/em breve
+行不从径 | TRADUÇÃO: (expressão idiomática) lit. não seguir o caminho reto; fig. buscar um atalho para progredir no trabalho ou nos estudos
+行不改姓，坐不改名 | TRADUÇÃO: ver 行不更名，坐不改姓
+行不更名，坐不改姓 | TRADUÇÃO: eu sou quem sou e não me envergonho disso; orgulhar-se do próprio nome e assumir as próprias ações
+行不由径 | TRADUÇÃO: (expressão idiomática) lit. nunca pegar um atalho; fig. reto e honesto
+行不通 | TRADUÇÃO: não funcionar/não levar a lugar nenhum
+行不顾言 | TRADUÇÃO: (expressão idiomática) dizer uma coisa e fazer outra
+行之有效 | TRADUÇÃO: (expressão idiomática) ser eficaz
+行乞 | TRADUÇÃO: mendigar/pedir esmola
+行事 | TRADUÇÃO: executar/tratar/comportamento/ação/conduta
+行事历 | TRADUÇÃO: calendário/agenda
+行人 | TRADUÇÃO: pedestre/viajante a pé/transeunte/oficial responsável por agendar audiências com o imperador
+行人径 | TRADUÇÃO: passagem para pedestres
+行令 | TRADUÇÃO: emitir ordens/mandar alguém beber em um jogo de bebida
+行使 | TRADUÇÃO: exercer (um direito etc.)
+行使职权 | TRADUÇÃO: exercer poder
+行侠仗义 | TRADUÇÃO: ser cavalheiresco
+行凶 | TRADUÇÃO: crime violento/cometer um ato violento (assalto ou assassinato)
+行凶者 | TRADUÇÃO: perpetrador
+行刑 | TRADUÇÃO: executar uma sentença (de morte)/execução
+行刑队 | TRADUÇÃO: pelotão de fuzilamento
+行列 | TRADUÇÃO: formação/ordenança/(fig.) fileiras (como em "ingressar nas fileiras de...")
+行列式 | TRADUÇÃO: determinante (mat.)
+行刺 | TRADUÇÃO: assassinar
+行动 | TRADUÇÃO: operação/ação/CL:個|个/movimentar-se/móvel
+行动不便 | TRADUÇÃO: incapaz de se mover livremente/difícil de se locomover
+行动主义 | TRADUÇÃO: ativismo
+行动值 | TRADUÇÃO: (jogos) pontos de ação (pontos necessários para completar uma ação)/(Taiwan) nível de ação (concentração de uma substância nociva na qual se considera necessária uma ação corretiva)
+行动剧 | TRADUÇÃO: (Taiwan) teatro de rua (especialmente como forma de expressão política)
+行动方案 | TRADUÇÃO: programa de ação
+行动纲领 | TRADUÇÃO: plano de ação/programa de ação
+行动自由 | TRADUÇÃO: liberdade de ação
+行动艺术 | TRADUÇÃO: arte performática
+行动艺术家 | TRADUÇÃO: artista performático
+行动装置 | TRADUÇÃO: (Taiwan) dispositivo móvel
+行动计划 | TRADUÇÃO: plano de ação
+行动电源 | TRADUÇÃO: (Taiwan) banco de potência
+行动电话 | TRADUÇÃO: (Taiwan) telefone celular
+行员 | TRADUÇÃO: (Taiwan) funcionário; escriturário; empregado (de um banco 銀行|银行 ou empresa comercial 商行)
+行唐 | TRADUÇÃO: ver 行唐縣|行唐县
+行唐县 | TRADUÇÃO: Xingtang, um condado na cidade de Shijiazhuang 石家莊市|石家庄市, Hebei
+行商 | TRADUÇÃO: vendedor viajante/comerciante ambulante/mascate/vendedor ambulante
+行善 | TRADUÇÃO: fazer boas obras/ser misericordioso
+行囊 | TRADUÇÃO: mala de viagem/ bagagem
+行好 | TRADUÇÃO: ser caridoso; praticar boa ação
+行客 | TRADUÇÃO: visitante/viajante
+行宫 | TRADUÇÃO: residência imperial temporária
+行家 | TRADUÇÃO: conhecedor; especialista; veterano
+行家里手 | TRADUÇÃO: conhecedor/especialista
+行将 | TRADUÇÃO: pronto para começar algo/prestes a agir
+行将就木 | TRADUÇÃO: (expressão idiomática) aproximar-se do caixão; com um pé na cova
+行将结束 | TRADUÇÃO: aproximando-se do fim/prestes a concluir
+行尸走肉 | TRADUÇÃO: (expressão idiomática) cadáver ambulante (expressão idiomática)/zumbi/pessoa que vive apenas no plano material
+行市 | TRADUÇÃO: cotação do preço de mercado
+行径 | TRADUÇÃO: (geralmente pejorativo) conduta; comportamento; ato/caminho; trilha
+行得通 | TRADUÇÃO: praticável/realizável/vai funcionar
+行情 | TRADUÇÃO: preço de mercado/cotação do preço de mercado/situação atual do mercado
+行房 | TRADUÇÃO: eufemismo para relação sexual/ir para a cama com alguém
+行拘 | TRADUÇÃO: prender sem julgamento ou acusação (ou seja, detenção administrativa) (abrev. de 行政拘留)/(antigo) prender
+行政 | TRADUÇÃO: administração/(atributivo) administrativo; executivo
+行政公署 | TRADUÇÃO: gabinete administrativo
+行政区 | TRADUÇÃO: distrito administrativo
+行政区划 | TRADUÇÃO: subdivisão administrativa
+行政区划图 | TRADUÇÃO: mapa político
+行政区域 | TRADUÇÃO: área administrativa
+行政区画 | TRADUÇÃO: subdivisão administrativa (ex.: de províncias em condados)
+行政命令 | TRADUÇÃO: ordem executiva
+行政员 | TRADUÇÃO: administrador
+行政单位 | TRADUÇÃO: unidade administrativa (ex.: província 省, prefeitura 地區|地区 ou condado 縣|县)
+行政拘留 | TRADUÇÃO: deter alguém por violação de lei administrativa, tipicamente por 10 dias ou menos; detenção administrativa
+行政救济 | TRADUÇÃO: recurso administrativo
+行政会议 | TRADUÇÃO: Conselho Executivo de Hong Kong
+行政机关 | TRADUÇÃO: autoridade administrativa/ramo do governo
+行政权 | TRADUÇÃO: autoridade administrativa/poder executivo
+行政法 | TRADUÇÃO: direito administrativo
+行政管理 | TRADUÇÃO: administração/gestão administrativa
+行政总厨 | TRADUÇÃO: chef executivo
+行政部门 | TRADUÇÃO: departamento administrativo/administração/poder executivo
+行政长官 | TRADUÇÃO: chefe do executivo/magistrado
+行政院 | TRADUÇÃO: Yuan Executivo, o poder executivo sob a constituição da República da China, depois de Taiwan
+行文 | TRADUÇÃO: estilo formal de escrita/enviar uma comunicação oficial por escrito
+行旅 | TRADUÇÃO: viajante/andarilho/vagabundo
+行星 | TRADUÇÃO: planeta/CL:顆|颗
+行星际 | TRADUÇÃO: interplanetário
+行书 | TRADUÇÃO: escrita cursiva; semicursiva (estilo caligráfico chinês)
+行会 | TRADUÇÃO: Conselho Executivo de Hong Kong (abrev. de 行政會議|行政会议) ‖ grêmio/corporação
+行有余力 | TRADUÇÃO: depois disso, qualquer energia restante (expressão idiomática dos Analectos)/tempo para atividades extracurriculares
+行期 | TRADUÇÃO: data de partida
+行李 | TRADUÇÃO: bagagem/CL:件
+行李传送带 | TRADUÇÃO: esteira de bagagem/carrossel de bagagem
+行李员 | TRADUÇÃO: carregador/porteiro
+行李房 | TRADUÇÃO: sala de bagagem
+行李搬运工 | TRADUÇÃO: carregador de bagagem
+行李架 | TRADUÇÃO: bagageiro
+行李票 | TRADUÇÃO: etiqueta de bagagem
+行李箱 | TRADUÇÃO: mala/porta-malas/baú/compartimento de bagagem/ (avião) compartimento superior
+行李袋 | TRADUÇÃO: bolsa de viagem
+行板 | TRADUÇÃO: andante/em passo de caminhada
+行栈 | TRADUÇÃO: armazém
+行业 | TRADUÇÃO: ofício/profissão/indústria/ramo
+行权 | TRADUÇÃO: (literário) agir de forma conveniente/(finanças) exercer uma opção
+行止 | TRADUÇÃO: movimentos/atitude/comportamento/paradeiro
+行波管 | TRADUÇÃO: tubo de onda progressiva (eletrônica)
+行淫 | TRADUÇÃO: cometer adultério
+行为 | TRADUÇÃO: ação; conduta; comportamento; atividade
+行为主义 | TRADUÇÃO: behaviorismo
+行为数据 | TRADUÇÃO: dados comportamentais (marketing)
+行为准则 | TRADUÇÃO: código de conduta/norma de conduta
+行为艺术 | TRADUÇÃO: arte performática
+行为艺术家 | TRADUÇÃO: artista performático
+行状 | TRADUÇÃO: (literário) breve obituário/experiência passada/registro passado
+行当 | TRADUÇÃO: profissão/papel (atuação)
+行百里者半九十 | TRADUÇÃO: lit. noventa li é apenas metade de uma jornada de cem li (expressão idiomática)/fig. quanto mais perto de completar uma tarefa, mais difícil fica/uma tarefa não está terminada até que esteja terminada
+行省 | TRADUÇÃO: província (antigo)
+行礼 | TRADUÇÃO: saudação/cumprimento
+行礼如仪 | TRADUÇÃO: realizar as reverências rituais/seguir as cerimônias costumeiras
+行程 | TRADUÇÃO: viagem; roteiro; itinerário/distância percorrida/curso (da história)/curso (de um pistão)/(Taiwan) (computação) processo
+行程单 | TRADUÇÃO: recibo de itinerário (bilhete eletrônico)
+行窃 | TRADUÇÃO: roubar/cometer um furto
+行箧 | TRADUÇÃO: mala de viagem
+行经 | TRADUÇÃO: passar por/menstruação
+行署 | TRADUÇÃO: gabinete administrativo
+行者 | TRADUÇÃO: pedestre/caminhante/monge itinerante
+行脚 | TRADUÇÃO: (de um monge) viajar/itinerante
+行船 | TRADUÇÃO: velejar/navegar
+行色匆匆 | TRADUÇÃO: apressado/com pressa
+行草 | TRADUÇÃO: escrita semicursiva
+行万里路胜读万卷书 | TRADUÇÃO: viajar mil milhas vale mais que ler mil livros
+行号 | TRADUÇÃO: (computação) número da linha (arquivo de texto); número da linha (tabela de dados ou planilha)/(Taiwan) empresa não constituída em sociedade (geralmente um negócio menor, como empresa individual ou sociedade)
+行行出状元 | TRADUÇÃO: lit. em cada ofício, surge um mestre (expressão idiomática); fig. Você pode produzir realizações notáveis em qualquer tarefa, desde que lhe dedique amor e diligência suficientes
+行装 | TRADUÇÃO: roupas e outros itens arrumados para viajar/bagagem
+行话 | TRADUÇÃO: jargão/linguagem técnica
+行语 | TRADUÇÃO: gíria/jargão/calão/linguajar/patoá/argot
+行货 | TRADUÇÃO: mercadorias vendidas através de canais oficiais de distribuição/(antigo) mercadorias mal feitas
+行贿 | TRADUÇÃO: subornar/oferecer suborno
+行走 | TRADUÇÃO: andar/caminhar
+行距 | TRADUÇÃO: espaçamento entre linhas
+行迹 | TRADUÇÃO: rastros/vestígios/movimentos
+行路 | TRADUÇÃO: viajar/transporte
+行踪 | TRADUÇÃO: paradeiro/perder o rastro
+行车 | TRADUÇÃO: dirigir um veículo/movimento de veículos
+行车记录仪 | TRADUÇÃO: câmera de painel (dashcam)
+行军 | TRADUÇÃO: (de tropas) marchar
+行军床 | TRADUÇÃO: cama de campanha/bivaque
+行军礼 | TRADUÇÃO: saudação militar
+行辈 | TRADUÇÃO: posição na hierarquia familiar/antiguidade
+行进 | TRADUÇÃO: avançar/movimento para frente
+行进挡 | TRADUÇÃO: marcha à frente
+行道 | TRADUÇÃO: caminho; estrada
+行道树 | TRADUÇÃO: árvore de rua; árvore de avenida
+行酒令 | TRADUÇÃO: jogar um jogo de bebida
+行医 | TRADUÇÃO: exercer a medicina (especialmente em consultório particular)
+行销 | TRADUÇÃO: vender; comercializar; marketing
+行销诉求 | TRADUÇÃO: apelo de marketing/mensagem de marketing
+行销长 | TRADUÇÃO: (Taiwan) diretor de marketing (CMO)
+行长 | TRADUÇÃO: presidente do banco
+行间 | TRADUÇÃO: entre as linhas
+行云流水 | TRADUÇÃO: lit. nuvens em movimento e água fluindo (expressão idiomática)/fig. estilo muito natural e fluido de caligrafia, escrita, etc/natural e sem esforço
+行头 | TRADUÇÃO: líder de equipe (arcaico)/lojista (arcaico) ‖ roupa de uma pessoa/roupa/traje de ator
+行驶 | TRADUÇÃO: percorrer uma rota (de veículos etc)
+行驶证 | TRADUÇÃO: certificado de registro de veículo
+行骗 | TRADUÇÃO: enganar/enganar com golpes
+行体 | TRADUÇÃO: ver 行書|行书
+衍 | TRADUÇÃO: espalhar/desenvolver/transbordar/amplificar/superfluo
+衍伸 | TRADUÇÃO: dar origem (a)/produzir/espalhar (para)
+衍化 | TRADUÇÃO: evoluir (de ideias, designs, construções etc)/desenvolver e mudar
+衍射 | TRADUÇÃO: (física) difratar
+衍射格子 | TRADUÇÃO: rede de difração (física)
+衍射角 | TRADUÇÃO: ângulo de difração (física)
+衍生 | TRADUÇÃO: dar origem a/derivar/derivado/derivação
+衍生剧 | TRADUÇÃO: série derivada (TV)
+衍生工具 | TRADUÇÃO: derivativo (finanças)
+衍生物 | TRADUÇÃO: derivado (produto complexo derivado de material fonte mais simples)
+衍生产品 | TRADUÇÃO: produto derivado/derivativo (em finanças)
+衍圣公 | TRADUÇÃO: título hereditário concedido aos descendentes de Confúcio
+衍圣公府 | TRADUÇÃO: residência oficial dos descendentes de Confúcio em Qufu, Shandong
+衍声复词 | TRADUÇÃO: palavra composta (como 玫瑰 ou 咖啡) cujo significado não está relacionado aos caracteres individuais (estes caracteres geralmente não são usados de forma independente no chinês moderno)
+衍变 | TRADUÇÃO: desenvolver/evoluir
+衎 | TRADUÇÃO: satisfeito
+衒 | TRADUÇÃO: variante de 炫/(literário) vangloriar-se/exibir-se
+术 | TRADUÇÃO: método/técnica ‖ vários gêneros de flores da família Asteraceae (margaridas e crisântemos), incluindo Atractylis lancea
+术前 | TRADUÇÃO: pré-operatório/antes da cirurgia
+术后 | TRADUÇÃO: pós-operatório/após a cirurgia
+术语 | TRADUÇÃO: termo/terminologia
+衖 | TRADUÇÃO: variante de 巷
+街 | TRADUÇÃO: rua/CL:條|条
+街上 | TRADUÇÃO: na rua/no centro da cidade
+街区 | TRADUÇÃO: quadra/bairro
+街坊 | TRADUÇÃO: vizinhança/vizinho
+街坊四邻 | TRADUÇÃO: vizinhos/toda a vizinhança
+街坊邻里 | TRADUÇÃO: vizinhos/toda a vizinhança
+街巷 | TRADUÇÃO: ruas e becos/rua/beco
+街市 | TRADUÇÃO: centro da cidade/distrito comercial/(principalmente cantonês) mercado úmido (mercado de carne fresca, peixe e vegetais)
+街旁 | TRADUÇÃO: Jiepang (serviço de rede social de localização chinês para dispositivos móveis, em operação 2010-2016)
+街景 | TRADUÇÃO: paisagem urbana
+街机 | TRADUÇÃO: máquina de fliperama
+街段 | TRADUÇÃO: quadra
+街溜子 | TRADUÇÃO: vadio da cidade
+街灯 | TRADUÇÃO: poste de luz
+街知巷闻 | TRADUÇÃO: ser conhecido por todos
+街舞 | TRADUÇÃO: dança de rua (ex.: breakdance)
+街访 | TRADUÇÃO: entrevista de rua (abrev. de 街頭採訪|街头采访)
+街谈巷议 | TRADUÇÃO: (expressão idiomática) fofoca da cidade/conversas de esquina
+街道 | TRADUÇÃO: rua/CL:條|条/subdistrito/bairro residencial
+街道办 | TRADUÇÃO: (RPC) escritório de subdistrito (unidade administrativa urbana de base) (abrev. de 街道辦事處|街道办事处)
+街道办事处 | TRADUÇÃO: (RPC) escritório de subdistrito (unidade administrativa urbana de base)
+街门 | TRADUÇÃO: portão ou porta que dá para a rua
+街头 | TRADUÇÃO: rua
+街头巷尾 | TRADUÇÃO: (expressão idiomática) por toda a cidade
+街头艺人 | TRADUÇÃO: artista de rua
+街头霸王 | TRADUÇÃO: Street Fighter (série de jogos de videogame)
+衙 | TRADUÇÃO: sobrenome Ya ‖ escritório/yamen 衙門|衙门
+衙内 | TRADUÇÃO: filho de funcionário público/guarda-costas do palácio
+衙役 | TRADUÇÃO: oficial de justiça do yamen feudal
+衙署 | TRADUÇÃO: gabinete governamental na China feudal/yamen
+衙门 | TRADUÇÃO: yamen, gabinete governamental na China dinástica
+卫 | TRADUÇÃO: sobrenome Wei/estado vassalo durante a Dinastia Zhou (1066–221 a.C.), localizado nas atuais províncias de Henan e Hebei ‖ guardar/proteger/defender/abrev. de 衛生|卫生, higiene/saúde/abrev. de 衛生間|卫生间, banheiro
+卫兵 | TRADUÇÃO: guarda/guarda-costas
+卫冕 | TRADUÇÃO: defender a coroa (em campeonato esportivo)
+卫国 | TRADUÇÃO: estado de Wei (c. 1040-209 a.C.), vassalo de Zhou ‖ defender o próprio país
+卫城 | TRADUÇÃO: cidadela/cidade defensiva/acrópole
+卫报 | TRADUÇÃO: The Guardian (jornal do Reino Unido)
+卫士 | TRADUÇÃO: guardião/defensor
+卫奕信 | TRADUÇÃO: David Clive Wilson, Barão Wilson de Tillyorn (1935-), diplomata britânico e especialista em China, Governador de Hong Kong 1986-1992
+卫尉 | TRADUÇÃO: comandante da guarda imperial
+卫星 | TRADUÇÃO: (aeroespacial) satélite/(astronomia) satélite; lua/CL:顆|颗
+卫星图 | TRADUÇÃO: foto de satélite
+卫星图像 | TRADUÇÃO: foto de satélite
+卫星城 | TRADUÇÃO: cidade-satélite/cidade-dormitório/subúrbio distante
+卫星定位系统 | TRADUÇÃO: GPS (Sistema de Posicionamento Global)
+卫星导航 | TRADUÇÃO: navegação por satélite/sat-nav
+卫星导航系统 | TRADUÇÃO: sistema de navegação por satélite/sat-nav
+卫星电视 | TRADUÇÃO: TV via satélite
+卫东 | TRADUÇÃO: ver 衛東區|卫东区
+卫东区 | TRADUÇÃO: Weidong, um distrito da cidade de Pingdingshan 平頂山市|平顶山市, Henan
+卫校 | TRADUÇÃO: escola de medicina/escola de enfermagem
+卫氏朝鲜 | TRADUÇÃO: Wiman Joseon (195-108 a.C.), reino histórico na Manchúria, Liaoning e Coreia do Norte
+卫浴 | TRADUÇÃO: sanitário (relacionado a vaso sanitário e banheiro)/banheiro
+卫满朝鲜 | TRADUÇÃO: Wiman Joseon (195-108 a.C.), reino histórico na Manchúria, Liaoning e Coreia do Norte
+卫滨 | TRADUÇÃO: ver 衛濱區|卫滨区
+卫滨区 | TRADUÇÃO: Weibin, um distrito da cidade de Xinxiang 新鄉市|新乡市, Henan
+卫理公会 | TRADUÇÃO: Metodistas
+卫生 | TRADUÇÃO: higiênico; sanitário/higiene; saneamento
+卫生下水道 | TRADUÇÃO: (Taiwan) sistema de esgoto sanitário
+卫生丸 | TRADUÇÃO: naftalina/(termo jocoso) bala
+卫生套 | TRADUÇÃO: preservativo/CL:隻|只
+卫生官员 | TRADUÇÃO: funcionário da saúde
+卫生局 | TRADUÇÃO: gabinete de saúde/secretaria de higiene
+卫生巾 | TRADUÇÃO: absorvente higiênico
+卫生厅 | TRADUÇÃO: secretaria (provincial) de saúde
+卫生棉 | TRADUÇÃO: algodão hidrófilo esterilizado (usado para curativos ou limpeza de feridas)/(Taiwan) absorvente higiênico
+卫生棉条 | TRADUÇÃO: absorvente interno
+卫生球 | TRADUÇÃO: naftalina
+卫生用纸 | TRADUÇÃO: papel higiênico
+卫生筷 | TRADUÇÃO: hashis descartáveis
+卫生纸 | TRADUÇÃO: papel higiênico; lenços de papel
+卫生署 | TRADUÇÃO: secretaria de saúde (ou gabinete, departamento, agência)
+卫生衣 | TRADUÇÃO: (dialetal) camiseta térmica; parte de cima de roupa íntima longa
+卫生裤 | TRADUÇÃO: (dialetal) parte de baixo de roupa íntima térmica; calça de roupa íntima longa
+卫生设备 | TRADUÇÃO: equipamento sanitário
+卫生部 | TRADUÇÃO: Ministério da Saúde
+卫生间 | TRADUÇÃO: banheiro/sanitário/WC/CL:間|间
+卫生陶瓷 | TRADUÇÃO: penico/vaso sanitário
+卫生胡 | TRADUÇÃO: bigode escovinha; bigode de Hitler
+卫留成 | TRADUÇÃO: Wei Liucheng (1946-), quinto governador de Hainan
+卫舰 | TRADUÇÃO: fragata (navio de guerra)
+卫衣 | TRADUÇÃO: moletom
+卫裤 | TRADUÇÃO: calça de moletom; jogger
+卫视 | TRADUÇÃO: TV via satélite (abrev. de 衛星電視|卫星电视)
+卫护 | TRADUÇÃO: guardar/proteger
+卫辉 | TRADUÇÃO: ver 衛輝市|卫辉市
+卫辉市 | TRADUÇÃO: Weihui, uma cidade a nível de condado na cidade de Xinxiang 新鄉市|新乡市, Henan
+卫道 | TRADUÇÃO: defender valores tradicionais
+卫道士 | TRADUÇÃO: tradicionalista/moralista/defensor (de uma causa)
+卫队 | TRADUÇÃO: guarda (grupo de soldados)
+卫霍 | TRADUÇÃO: abrev. dos generais Wei Qing 衛青|卫青 e Huo Qubing 霍去病 do Han Ocidental 西漢|西汉, famosos por seu sucesso em suprimir os invasores bárbaros Xiongnu
+冲入 | TRADUÇÃO: invadir/irromper
+冲出 | TRADUÇÃO: sair correndo/irromper para fora
+冲刺 | TRADUÇÃO: (esportes) sprinter/disparada/arrancada/fazer um grande esforço para atingir uma meta à medida que o prazo se aproxima
+冲力 | TRADUÇÃO: momento (a força exercida por um corpo em movimento)/(fig.) ímpeto (capacidade de desenvolvimento progressivo)
+冲劲 | TRADUÇÃO: dinamismo/garra/energia
+冲动 | TRADUÇÃO: ter um impulso/ser impetuoso/impulso/ímpeto
+冲口而出 | TRADUÇÃO: falar sem pensar (expressão idiomática)
+冲向 | TRADUÇÃO: avançar sobre/carregar contra
+冲垮 | TRADUÇÃO: romper/irromper/derrubar
+冲塔 | TRADUÇÃO: (jogos, especialmente MOBA) entrar imprudentemente no alcance de ataque de uma torre inimiga – uma estrutura de defesa estacionária que atira automaticamente em intrusos – geralmente resultando em morte/(neologismo) (gíria) provocar as autoridades (p. ex. online) com grande risco pessoal
+冲床 | TRADUÇÃO: prensa de estampar (metalurgia)
+冲打 | TRADUÇÃO: (de ondas, chuva etc) bater contra/ajoelhar
+冲撞 | TRADUÇÃO: colidir/movimento brusco/impactar/ofender/provocar
+冲击力 | TRADUÇÃO: força de impacto ou impulso
+冲击波 | TRADUÇÃO: onda de choque/onda de pressão
+冲击钻 | TRADUÇÃO: furadeira de impacto/martelo perfurador
+冲断层 | TRADUÇÃO: falha de empurrão (geologia)/falha de compressão
+冲杀 | TRADUÇÃO: carregar/atacar
+冲浪 | TRADUÇÃO: surfar/surf
+冲浪板 | TRADUÇÃO: prancha de surf/paddleboard
+冲破 | TRADUÇÃO: avanço/superar um obstáculo rapidamente
+冲程 | TRADUÇÃO: curso (de um pistão)
+冲突 | TRADUÇÃO: conflito/entrar em conflito/choque de forças opostas/colisão (de interesses)/contenda
+冲进 | TRADUÇÃO: entrar correndo; invadir
+冲量 | TRADUÇÃO: (física) impulso
+冲锋 | TRADUÇÃO: carregar/atacar/assalto
+冲锋枪 | TRADUÇÃO: submetralhadora
+冲锋陷阵 | TRADUÇÃO: carregar e romper as linhas inimigas
+衞 | TRADUÇÃO: variante de 衛|卫/guardar/defender
+衟 | TRADUÇÃO: variante antiga de 道
+衡 | TRADUÇÃO: pesar/ponderação/medida
+衡南 | TRADUÇÃO: veja 衡南縣|衡南县
+衡南县 | TRADUÇÃO: Hengnan, um condado na cidade de Hengyang 衡陽市|衡阳市, Hunan
+衡山 | TRADUÇÃO: Monte Heng em Hunan, montanha austral das Cinco Montanhas Sagradas 五嶽|五岳/Condado de Hengshan em Hengyang 衡陽|衡阳, Hunan ‖ veja 衡山縣|衡山县
+衡山县 | TRADUÇÃO: Hengshan, um condado na cidade de Hengyang 衡陽市|衡阳市, Hunan
+衡平 | TRADUÇÃO: governar/administrar
+衡情酌理 | TRADUÇÃO: ponderar e deliberar a razão (expressão idiomática); pesar e considerar/deliberar
+衡东 | TRADUÇÃO: veja 衡東縣|衡东县
+衡东县 | TRADUÇÃO: Hengdong, um condado na cidade de Hengyang 衡陽市|衡阳市, Hunan
+衡水 | TRADUÇÃO: veja 衡水市
+衡水市 | TRADUÇÃO: Hengshui, cidade nível de prefeitura na província de Hebei 河北省
+衡酌 | TRADUÇÃO: pesar e considerar/deliberar/forma abreviada da expressão idiomática 衡情酌理
+衡量 | TRADUÇÃO: pesar/examinar/considerar
+衡量制 | TRADUÇÃO: sistema de pesos e medidas
+衡阳 | TRADUÇÃO: veja 衡陽市|衡阳市/veja 衡陽縣|衡阳县
+衡阳市 | TRADUÇÃO: Hengyang, cidade nível de prefeitura na província de Hunan 湖南省
+衡阳县 | TRADUÇÃO: Hengyang, um condado na cidade de Hengyang 衡陽市|衡阳市, Hunan
+衢 | TRADUÇÃO: via pública/artéria
+衢州 | TRADUÇÃO: veja 衢州市
+衢州市 | TRADUÇÃO: Quzhou, cidade nível de prefeitura na província de Zhejiang 浙江省
+衢江 | TRADUÇÃO: veja 衢江區|衢江区
+衢江区 | TRADUÇÃO: Qujiang, um distrito da cidade de Quzhou 衢州市, Zhejiang
+衣 | TRADUÇÃO: roupa/CL:件/radical Kangxi 145 ‖ vestir/usar/colocar (roupa)
+衣不蔽体 | TRADUÇÃO: lit. roupas não cobrem o corpo (expressão idiomática)/fig. pobreza extrema
+衣兜 | TRADUÇÃO: bolso
+衣冠 | TRADUÇÃO: chapéu e roupa/vestimenta
+衣冠冢 | TRADUÇÃO: cenotáfio
+衣冠楚楚 | TRADUÇÃO: impecavelmente vestido/bem-arrumado/elegante
+衣冠禽兽 | TRADUÇÃO: lit. animal vestido (expressão idiomática)/fig. pessoa imoral e desprezível
+衣原菌 | TRADUÇÃO: Clamídia
+衣原体 | TRADUÇÃO: Clamídia (gênero de bactérias parasitas intracelulares)
+衣品 | TRADUÇÃO: gosto para roupas; senso de moda; estilo de se vestir
+衣单食薄 | TRADUÇÃO: casaco fino, comida escassa (expressão idiomática); vida de pobreza miserável/destituído
+衣夹 | TRADUÇÃO: prendedor de roupa/grampo de roupa
+衣子 | TRADUÇÃO: cobertura/envoltório
+衣履 | TRADUÇÃO: roupas e sapatos
+衣带 | TRADUÇÃO: cinto; faixa/(literário) vestimenta
+衣帽间 | TRADUÇÃO: guarda-roupa/vestiário
+衣扣 | TRADUÇÃO: botão
+衣料 | TRADUÇÃO: tecido para roupa
+衣服 | TRADUÇÃO: roupa/CL:件,套
+衣服缝边 | TRADUÇÃO: bainha
+衣架 | TRADUÇÃO: cabide/porte-cabides
+衣柜 | TRADUÇÃO: guarda-roupa/armário/CL:個|个
+衣橱 | TRADUÇÃO: guarda-roupa
+衣物 | TRADUÇÃO: vestuário/roupas e outros objetos pessoais
+衣物柜 | TRADUÇÃO: armário/armário com fechadura
+衣甲 | TRADUÇÃO: armadura
+衣索比亚 | TRADUÇÃO: Etiópia (Taiwan)
+衣索比亚界 | TRADUÇÃO: (Taiwan) Zona Etiópica, também conhecida como reino Afrotropical
+衣钵 | TRADUÇÃO: a túnica e a tigela de esmolas de um mestre budista passadas ao discípulo favorito (Budismo)/legado/herança
+衣胞 | TRADUÇÃO: veja 胞衣
+衣着 | TRADUÇÃO: roupas
+衣衫 | TRADUÇÃO: vestuário/roupa sem forro
+衣衾 | TRADUÇÃO: mortalha/roupas para enterro
+衣袋 | TRADUÇÃO: bolso (em uma peça de roupa)
+衣袖 | TRADUÇÃO: manga de uma roupa
+衣裙 | TRADUÇÃO: vestuário feminino
+衣装 | TRADUÇÃO: peça de roupa
+衣裳 | TRADUÇÃO: (coloq.) roupa
+衣裳钩儿 | TRADUÇÃO: gancho de roupa
+衣襟 | TRADUÇÃO: parte(s) frontal(is) de uma jaqueta chinesa/lapela
+衣角 | TRADUÇÃO: canto da bainha inferior de uma jaqueta etc
+衣钩 | TRADUÇÃO: gancho de roupa
+衣钩儿 | TRADUÇÃO: variante erhua de 衣鉤|衣钩
+衣锦荣归 | TRADUÇÃO: voltar à cidade natal em vestes de seda (expressão idiomática); retornar em glória
+衣锦还乡 | TRADUÇÃO: lit. voltar à cidade natal em vestes de seda (expressão idiomática)/fig. retornar para casa após obter sucesso/pr. em Taiwan [yi4 jin3 huan2 xiang1]
+衣领 | TRADUÇÃO: colarinho/gola
+衣食 | TRADUÇÃO: roupa e comida
+衣食住行 | TRADUÇÃO: (expressão idiomática) vestuário, alimentação, moradia e transporte / (figurado) necessidades básicas do povo
+衣食无忧 | TRADUÇÃO: não precisar se preocupar com roupas e comida (expressão idiomática) / ter as necessidades básicas asseguradas
+衣食无虞 | TRADUÇÃO: não precisar se preocupar com roupas e comida (expressão idiomática) / ter as necessidades básicas asseguradas
+衣食父母 | TRADUÇÃO: as pessoas de quem alguém depende para viver / o sustento de alguém
+衣饰 | TRADUÇÃO: roupas e adornos
+衣鱼 | TRADUÇÃO: traça-de-livro (Lepisma saccharina)
+衤 | TRADUÇÃO: forma à esquerda do radical Kangxi 145, 衣
+表 | TRADUÇÃO: superfície externa / relação familiar por via feminina / mostrar (a opinião de alguém) / modelo / tabela (com informações) / formulário / medidor (de algo) ‖ relógio (de pulso) / medidor; indicador
+表位 | TRADUÇÃO: (imunologia) determinante antigênico; epítopo
+表兄 | TRADUÇÃO: primo mais velho (por via feminina)
+表兄弟 | TRADUÇÃO: primo (por via feminina)
+表册 | TRADUÇÃO: formulário estatístico / livro de tabelas ou formulários
+表功 | TRADUÇÃO: exibir as próprias realizações (muitas vezes pejorativo)
+表叔 | TRADUÇÃO: filho da irmã do avô / filho do irmão ou irmã da avó / primo mais novo do pai (por via feminina) / (gíria de Hong Kong) chinês do continente
+表哥 | TRADUÇÃO: primo mais velho (por via feminina)
+表单 | TRADUÇÃO: formulário (documento)
+表土 | TRADUÇÃO: camada superficial do solo
+表报 | TRADUÇÃO: tabelas e relatórios estatísticos
+表妹 | TRADUÇÃO: prima mais nova (por via feminina)
+表妹夫 | TRADUÇÃO: marido da prima mais nova (por via feminina)
+表姊妹 | TRADUÇÃO: filhas da irmã do pai / prima (por via materna)
+表姐 | TRADUÇÃO: prima mais velha (por via feminina)
+表姐夫 | TRADUÇÃO: marido da prima mais velha (por via feminina)
+表姐妹 | TRADUÇÃO: prima (por via feminina)
+表姑 | TRADUÇÃO: prima do pai (por via feminina)
+表侄 | TRADUÇÃO: filho de um primo (por via feminina)
+表侄女 | TRADUÇÃO: filha de um primo (por via feminina)
+表嫂 | TRADUÇÃO: esposa do primo mais velho (por via feminina)
+表字 | TRADUÇÃO: nome literário (nome alternativo enfatizando um princípio moral) / nome de cortesia
+表尺 | TRADUÇÃO: alça de mira (de uma arma)
+表层 | TRADUÇÃO: camada superficial
+表带 | TRADUÇÃO: pulseira de relógio / bracelete de relógio ‖ pulseira de relógio / bracelete de relógio
+表弟 | TRADUÇÃO: primo mais novo (por via feminina)
+表弟妹 | TRADUÇÃO: esposa do primo mais novo (por via feminina) / primos mais novos (por via feminina)
+表弟媳 | TRADUÇÃO: esposa do primo mais novo (por via feminina)
+表彰 | TRADUÇÃO: homenagear / elogiar / citar (em boletins)
+表征 | TRADUÇÃO: símbolo; indicador; representação
+表情 | TRADUÇÃO: expressão (facial) / expressar os sentimentos de alguém
+表情包 | TRADUÇÃO: meme de imagem / macro de imagem / pacote de figurinhas / coleção de emoticons
+表意 | TRADUÇÃO: expressar significado / ideográfico
+表意文字 | TRADUÇÃO: ideograma / sistema de escrita ideográfico
+表态 | TRADUÇÃO: declarar a posição de alguém / dizer onde alguém se posiciona
+表扬 | TRADUÇÃO: elogiar / louvar
+表明 | TRADUÇÃO: deixar claro / dar a conhecer / afirmar claramente / indicar / conhecido
+表格 | TRADUÇÃO: formulário; tabela / CL:張|张,份
+表决 | TRADUÇÃO: decidir por votação / votar
+表决权 | TRADUÇÃO: direito ao voto / voto
+表温 | TRADUÇÃO: temperatura da superfície
+表演 | TRADUÇÃO: peça teatral / show / apresentação / exibição / executar / atuar / demonstrar / CL:場|场
+表演赛 | TRADUÇÃO: partida de exibição
+表率 | TRADUÇÃO: exemplo / modelo
+表现 | TRADUÇÃO: mostrar / exibir / apresentar / manifestar / expressão / manifestação / demonstração / desempenho (no trabalho etc) / comportamento
+表现力 | TRADUÇÃO: poder expressivo
+表现型 | TRADUÇÃO: fenótipo
+表白 | TRADUÇÃO: explicar-se / expressar-se / revelar os pensamentos ou sentimentos de alguém / declaração / confissão
+表皮 | TRADUÇÃO: epiderme / cutícula
+表盘 | TRADUÇÃO: mostrador / face do relógio ‖ variante de 表盤|表盘 / face do relógio
+表示 | TRADUÇÃO: (alguém) expressar; afirmar; mostrar / (algo) indicar; significar; mostrar / expressão; manifestação
+表示层 | TRADUÇÃO: camada de apresentação
+表示式 | TRADUÇÃO: expressão (matemática)
+表章 | TRADUÇÃO: memorial ao Imperador
+表里 | TRADUÇÃO: o exterior e o interior / a aparência externa e os pensamentos internos de alguém / exterior e interior
+表里不一 | TRADUÇÃO: a aparência externa e a realidade interior diferem (expressão idiomática) / não ser o que parece / dizer uma coisa mas significar outra
+表里如一 | TRADUÇÃO: a aparência externa e os pensamentos internos coincidem (expressão idiomática) / dizer o que se pensa / agir conforme se pensa
+表亲 | TRADUÇÃO: primo (por via feminina)
+表观 | TRADUÇÃO: aparente
+表观遗传学 | TRADUÇÃO: epigenética
+表记 | TRADUÇÃO: algo dado como lembrança / souvenir
+表语 | TRADUÇÃO: predicativo
+表证 | TRADUÇÃO: síndrome superficial / doença que não atacou os órgãos vitais do corpo humano
+表象 | TRADUÇÃO: aparência externa / superficial / (filosofia, psicologia) representação / ideia / (matemática) representação
+表述 | TRADUÇÃO: expressar; articular; formular
+表达 | TRADUÇÃO: expressar; transmitir
+表达式 | TRADUÇÃO: expressão (matemática)
+表露 | TRADUÇÃO: mostrar / revelar (os sentimentos de alguém etc)
+表露无遗 | TRADUÇÃO: mostrar completamente / ser revelado em sua totalidade
+表面 | TRADUÇÃO: superfície / face / parte externa / aparência
+表面上 | TRADUÇÃO: externamente; superficialmente; na aparência
+表面化 | TRADUÇÃO: vir à superfície / tornar-se aparente
+表面外膜 | TRADUÇÃO: revestimento de superfície
+表面张力 | TRADUÇÃO: tensão superficial
+表面文章 | TRADUÇÃO: demonstração superficial / fazer algo só por fazer
+表面活化剂 | TRADUÇÃO: surfactante
+表面活性剂 | TRADUÇÃO: surfactante
+表音 | TRADUÇÃO: fonético / fonológico / transliteração
+衩 | TRADUÇÃO: costura aberta de uma vestimenta / shorts / calcinha ‖ fenda lateral de um robe
+衫 | TRADUÇÃO: vestimenta / jaqueta com aberturas no lugar das mangas
+衭 | TRADUÇÃO: lapela de uma vestimenta
+衰 | TRADUÇÃO: variante de 縗|缞 ‖ (forma presa) decair; declinar; definhar
+衰之以属 | TRADUÇÃO: tratar uma debilidade de acordo com sua natureza
+衰亡 | TRADUÇÃO: declinar / morrer / declínio e queda
+衰人 | TRADUÇÃO: perdedor / idiota
+衰弱 | TRADUÇÃO: fraco / débil
+衰微 | TRADUÇÃO: declinar; definhar / enfraquecido; debilitado; em declínio
+衰败 | TRADUÇÃO: declinar / definhar / decair / deteriorar-se
+衰朽 | TRADUÇÃO: decadente / decrépito / envelhecido e em ruínas
+衰减 | TRADUÇÃO: enfraquecer / atenuar
+衰竭 | TRADUÇÃO: falência de órgão / exaustão / prostração (medicina)
+衰老 | TRADUÇÃO: envelhecer / deteriorar-se com a idade / velho e fraco
+衰落 | TRADUÇÃO: cair / baixar / declinar / deteriorar-se / ir ladeira abaixo
+衰变 | TRADUÇÃO: decaimento radioativo
+衰变曲线 | TRADUÇÃO: curvas de decaimento
+衰变热 | TRADUÇÃO: calor de decaimento
+衰变链 | TRADUÇÃO: cadeia de decaimento
+衰退 | TRADUÇÃO: declinar/cair/baixar/perder força/declínio/recessão (em economia)
+衰退期 | TRADUÇÃO: recessão (em economia)
+衰运 | TRADUÇÃO: declínio na sorte
+衰迈 | TRADUÇÃO: idoso; decrépito
+衰颓 | TRADUÇÃO: desanimado/abatido/desencorajado
+衲 | TRADUÇÃO: batina (de monge budista)/forrar
+衵 | TRADUÇÃO: roupas íntimas femininas
+衷 | TRADUÇÃO: sentimentos íntimos
+衷心 | TRADUÇÃO: sincero/de coração/cordial
+衹 | TRADUÇÃO: manto de monge ou monja budista
+邪 | TRADUÇÃO: variante antiga de 邪 ‖ demoníaco/iníquo/nefasto/maligno/influências insalubres que causam doenças (medicina chinesa)/(coloq.) estranho/anormal
+衽 | TRADUÇÃO: (literário) parte sobreposta de vestimenta chinesa/lapela/esteira de dormir ‖ variante de 衽
+衾 | TRADUÇÃO: cobertor/edredom
+衿 | TRADUÇÃO: gola/cinto/variante de 襟
+袁 | TRADUÇÃO: sobrenome Yuan ‖ manto longo (antigo)
+袁世凯 | TRADUÇÃO: Yuan Shikai (1859-1916), general sênior do final da dinastia Qing, posteriormente senhor da guerra e autoproclamado imperador da China
+袁于令 | TRADUÇÃO: Yuan Yuling (-1674), escritor da dinastia Qing, autor de 西樓記|西楼记
+袁宏道 | TRADUÇÃO: Yuan Hongdao (1568-1610), poeta e escritor de viagens da dinastia Ming
+袁州 | TRADUÇÃO: veja 袁州區|袁州区
+袁州区 | TRADUÇÃO: Yuanzhou, distrito da cidade de Yichun 宜春市, Jiangxi
+袁枚 | TRADUÇÃO: Yuan Mei (1716–1797), poeta, ensaísta e gastrônomo da dinastia Qing, um dos Três Grandes Mestres do período Qianlong-Jiaqing 乾嘉三大家
+袁桷 | TRADUÇÃO: Yuan Jue (1267-1327), escritor e calígrafo da dinastia Yuan
+袁绍 | TRADUÇÃO: Yuan Shao (153-202), general do final da dinastia Han, posteriormente senhor da guerra
+袁咏仪 | TRADUÇÃO: Anita Yuen (1971-), atriz de Hong Kong
+袁隆平 | TRADUÇÃO: Yuan Longping (1930–2021), agrônomo chinês conhecido como o "pai do arroz híbrido"
+袁静 | TRADUÇÃO: Yuan Jing (1911-1999), escritora, dramaturga e crítica de cinema
+袁头 | TRADUÇÃO: moeda de prata do início da República da China (1912-1949) com a efígie de Yuan Shikai 袁世凱|袁世凯
+袂 | TRADUÇÃO: manga de uma veste
+袈 | TRADUÇÃO: usado em 袈裟
+袈裟 | TRADUÇÃO: kasaya (manto de monge ou monja budista) (empréstimo do sânscrito)
+袋 | TRADUÇÃO: bolsa/saco/bolso
+袋子 | TRADUÇÃO: bolsa/saco
+袋熊 | TRADUÇÃO: wombat (marsupial australiano)
+袋狼 | TRADUÇÃO: tilacino (Thylacinus cynocephalus)
+袋鼠 | TRADUÇÃO: canguru
+袋鼠国 | TRADUÇÃO: (gíria) Austrália
+袍 | TRADUÇÃO: manto (forrado)
+袍子 | TRADUÇÃO: manto ao estilo chinês
+袍泽 | TRADUÇÃO: companheiro de armas; colega soldado
+袎 | TRADUÇÃO: variante de 靿
+袒 | TRADUÇÃO: descobrir/desnudar ‖ variante antiga de 袒
+袒免 | TRADUÇÃO: descobrir o braço esquerdo e tirar o barrete como expressão de pesar
+袒庇 | TRADUÇÃO: proteger/abrigar/en cobrir
+袒缚 | TRADUÇÃO: render-se depois de se desnudar até a cintura e amarrar as mãos atrás das costas
+袒胸 | TRADUÇÃO: descobrir o peito
+袒膊 | TRADUÇÃO: despir-se até a cintura/ficar com o torso nu
+袒衣 | TRADUÇÃO: vestir-se às pressas com parte do corpo à mostra
+袒裼 | TRADUÇÃO: descobrir a parte superior do corpo
+袒护 | TRADUÇÃO: proteger (um infrator) de punição, crítica etc./defender alguém
+袒露 | TRADUÇÃO: expor/descobrir
+袖 | TRADUÇÃO: manga/guardar dentro da manga
+袖口 | TRADUÇÃO: punho (de manga)
+袖套 | TRADUÇÃO: proteção de manga/manga externa
+袖子 | TRADUÇÃO: manga
+袖手旁观 | TRADUÇÃO: observar de braços cruzados (expressão idiomática); olhar sem levantar um dedo
+袖扣 | TRADUÇÃO: abotoadura (de punho)
+袖标 | TRADUÇÃO: braçadeira/distintivo de manga
+袖珍 | TRADUÇÃO: de bolso/portátil (livro etc.)
+袖珍人 | TRADUÇÃO: pessoa de baixa estatura/anão
+袖珍本 | TRADUÇÃO: livro de bolso/livro em brochura
+袖珍辞典 | TRADUÇÃO: dicionário de bolso
+袖珍音响 | TRADUÇÃO: som portátil/walkman
+袖章 | TRADUÇÃO: braçadeira (p. ex. como parte de uniforme ou para indicar cargo)
+袖筒 | TRADUÇÃO: manga
+袖筒儿 | TRADUÇÃO: variante com erhua de 袖筒
+袖箍 | TRADUÇÃO: braçadeira (para manga)
+袖管 | TRADUÇÃO: manga
+袖箭 | TRADUÇÃO: flecha com mola escondida na manga
+袗 | TRADUÇÃO: vestimenta sem forro
+袚 | TRADUÇÃO: joelheiras/borzeguins
+衮 | TRADUÇÃO: manto imperial
+袟 | TRADUÇÃO: sobrenome Zhi ‖ capa de livro
+袢 | TRADUÇÃO: usado em 袷袢/variante de 襻
+袤 | TRADUÇÃO: longitude/distância de norte a sul
+袪 | TRADUÇÃO: abertura da manga
+被 | TRADUÇÃO: edredom/cobrir/(literário) sofrer (um infortúnio)/usado para indicar voz passiva (colocado antes do agente da ação como "por" em português, ou, se o agente não é mencionado, antes do verbo)/(desde c. 2009) (sarcástico ou jocoso) usado para indicar que a palavra seguinte deve ser considerada entre aspas (como em 被旅遊|被旅游 "fazer uma viagem")
+被上诉人 | TRADUÇÃO: apelado (parte que venceu no tribunal de primeira instância, cuja vitória está sendo apelada pela parte perdedora)
+被乘数 | TRADUÇÃO: multiplicando
+被保人 | TRADUÇÃO: segurado/titular de apólice de seguro
+被保险人 | TRADUÇÃO: parte segurada; a pessoa ou entidade coberta por uma apólice de seguro
+被优化掉 | TRADUÇÃO: ser demitido
+被剥削者 | TRADUÇÃO: pessoa que sofre exploração/os trabalhadores na teoria marxista
+被加数 | TRADUÇÃO: parcela (na adição)
+被动 | TRADUÇÃO: passivo
+被动免疫 | TRADUÇÃO: imunidade passiva
+被动吸烟 | TRADUÇÃO: tabagismo passivo
+被动收入 | TRADUÇÃO: (finanças) renda passiva
+被告 | TRADUÇÃO: (direito) réu; acusado
+被告人 | TRADUÇÃO: réu (em caso legal)
+被和谐 | TRADUÇÃO: ser "harmonizado", i.e., censurado
+被单 | TRADUÇÃO: lençol (de cama)/envelope para edredom/CL:床
+被困 | TRADUÇÃO: estar preso; estar encalhado
+被执行人 | TRADUÇÃO: (direito) pessoa obrigada a cumprir obrigações estabelecidas em sentença judicial escrita (p. ex., pagar indenização a alguém)
+被套 | TRADUÇÃO: capa de edredom/(finanças) ficar preso com um ativo que desvalorizou após a compra
+被子 | TRADUÇÃO: cobertor; edredom/CL:條|条,床
+被子植物 | TRADUÇÃO: angiosperma (plantas com flores cuja semente está contida em um fruto)
+被子植物门 | TRADUÇÃO: angiospermae (filo de plantas com flores cujas sementes estão contidas em um fruto)
+被害人 | TRADUÇÃO: vítima
+被害者 | TRADUÇÃO: vítima (de ferimento ou assassinato)
+被指 | TRADUÇÃO: ser acusado de; ser supostamente
+被捕 | TRADUÇÃO: ser preso / estar sob prisão
+被控 | TRADUÇÃO: ser acusado; ser incriminado (de um delito)
+被旅游 | TRADUÇÃO: (coloq.) (de um dissidente) ser levado a um passeio, aparentemente de férias, mas na verdade uma viagem organizada pelas autoridades onde cada movimento é vigiado
+被服 | TRADUÇÃO: roupas de cama e vestuário
+被毛 | TRADUÇÃO: pelagem (de um animal)
+被减数 | TRADUÇÃO: (mat.) minuendo
+被爆者 | TRADUÇÃO: sobrevivente dos bombardeios atômicos de Hiroshima e Nagasaki (empréstimo ortográfico do japonês 被爆者 "hibakusha")
+被墙 | TRADUÇÃO: (gíria) (de um site) ser bloqueado
+被物化 | TRADUÇÃO: coisificado
+被窝 | TRADUÇÃO: (roupa de cama tradicional) edredom enrolado ao redor do corpo como um tubo / (roupa de cama contemporânea) roupa de cama; cobertor
+被窝儿 | TRADUÇÃO: variante erhua de 被窩|被窝
+被胎 | TRADUÇÃO: miolo de edredom; recheio de edredom (ou seja, um edredom sem sua capa 被套) / enchimento de colcha; acolchoamento de colcha
+被卧 | TRADUÇÃO: colcha / coberta
+被自杀 | TRADUÇÃO: uma morte alegada como suicídio pelas autoridades
+被褥 | TRADUÇÃO: roupas de cama / cobertores
+被访者 | TRADUÇÃO: entrevistado (em uma pesquisa, questionário, estudo etc.)
+被译 | TRADUÇÃO: traduzido
+被迫 | TRADUÇÃO: ser compelido; ser forçado
+被选举权 | TRADUÇÃO: direito de ser eleito / direito de candidatar-se a eleições
+被除数 | TRADUÇÃO: dividendo (mat.)
+被面 | TRADUÇÃO: capa de edredom / face de colcha
+袮 | TRADUÇÃO: Tu / Vós (de divindade) / variante de 你 ‖ usado em raros nomes de lugares japoneses como 袮宜町 Minorimachi e 袮宜田 Minorita
+袱 | TRADUÇÃO: (forma presa) um pano usado para embrulhar ou cobrir
+袲 | TRADUÇÃO: nome de lugar
+裤 | TRADUÇÃO: variante de 褲|裤 ‖ cueca / calça / calças
+裤子 | TRADUÇÃO: variante de 褲子|裤子/calças/bermudas ‖ calças/bermudas/CL:條|条
+袷 | TRADUÇÃO: variante de 夾|夹 ‖ usado em 袷袢
+袷袢 | TRADUÇÃO: (empréstimo) chapan, um casaco tradicional sem gola usado em países da Ásia Central
+袷袄 | TRADUÇÃO: variante de 夾襖|夹袄
+袺 | TRADUÇÃO: levantar um vestido
+袼 | TRADUÇÃO: entreperna / pano de ajuste sob a axila
+袼褙 | TRADUÇÃO: trapos usados como sapatos
+袽 | TRADUÇÃO: trapos velhos
+袿 | TRADUÇÃO: variante antiga de 褂
+裀 | TRADUÇÃO: esteira / roupa íntima
+裁 | TRADUÇÃO: cortar (como um vestido) / cortar / aparar / reduzir / diminuir / cortar (p. ex., pessoal) / decisão / julgamento
+裁并 | TRADUÇÃO: cortar e fundir
+裁人 | TRADUÇÃO: cortar pessoal; demitir funcionários
+裁兵 | TRADUÇÃO: reduzir o número de tropas / desarmamento
+裁切 | TRADUÇÃO: cortar / aparar
+裁判 | TRADUÇÃO: (direito) julgar; adjudicar; veredito; sentença / (esportes) arbitrar / (esportes) árbitro; juiz
+裁判员 | TRADUÇÃO: árbitro
+裁判官 | TRADUÇÃO: juiz
+裁判所 | TRADUÇÃO: lugar de julgamento / tribunal de justiça
+裁剪 | TRADUÇÃO: cortar
+裁员 | TRADUÇÃO: cortar pessoal / demitir funcionários
+裁夺 | TRADUÇÃO: considerar e decidir
+裁定 | TRADUÇÃO: decisão / deliberação
+裁度 | TRADUÇÃO: (formal) fazer um julgamento; decidir
+裁撤 | TRADUÇÃO: dissolver (um departamento etc.); eliminar (posições)
+裁断 | TRADUÇÃO: considerar e decidir
+裁汰 | TRADUÇÃO: cortar / reduzir
+裁决 | TRADUÇÃO: decisão / adjudicação
+裁减 | TRADUÇÃO: reduzir / diminuir / cortar
+裁答 | TRADUÇÃO: responder (a uma carta)
+裁纸机 | TRADUÇÃO: cortador / guilhotina de papel
+裁缝 | TRADUÇÃO: fazer uma peça de roupa / costurar ‖ alfaiate / costureiro
+裁缝师 | TRADUÇÃO: alfaiate
+裁缝店 | TRADUÇÃO: loja de alfaiate / ateliê de costura
+裁处 | TRADUÇÃO: lidar com / tratar
+裁制 | TRADUÇÃO: cortar e costurar / fazer roupas
+裁军 | TRADUÇÃO: desarmamento
+裁革 | TRADUÇÃO: demitir / despedir
+裂 | TRADUÇÃO: rachar / fender / quebrar / rasgar
+裂化 | TRADUÇÃO: craquear (destilar fracionalmente petróleo)
+裂口 | TRADUÇÃO: brecha / fenda / rachadura / cratera (vulcânica)
+裂殖 | TRADUÇÃO: esquizo-
+裂殖菌 | TRADUÇÃO: Esquizomicetos (classe taxonômica de fungos)
+裂殖菌纲 | TRADUÇÃO: Esquizomicetos (classe taxonômica de fungos)
+裂片 | TRADUÇÃO: lasca / fragmento / rasgo (fenda em uma superfície) / lóbulo
+裂璺 | TRADUÇÃO: rachar; fender / linha de fratura
+裂痕 | TRADUÇÃO: rachadura / fenda / separação
+裂纹 | TRADUÇÃO: trinca / fissura
+裂缝 | TRADUÇÃO: rachadura / fenda / CL:道
+裂罅 | TRADUÇÃO: fenda / fresta / fissura
+裂脑人 | TRADUÇÃO: comissurotomia
+裂解 | TRADUÇÃO: pirólise / cisão (química)
+裂变 | TRADUÇÃO: (física) sofrer fissão nuclear / (fig.) desintegrar-se, formando unidades menores; fragmentar-se
+裂变材料 | TRADUÇÃO: material físsil
+裂变武器 | TRADUÇÃO: arma de fissão
+裂变炸弹 | TRADUÇÃO: bomba de fissão
+裂变产物 | TRADUÇÃO: produtos de fissão
+裂变碎片 | TRADUÇÃO: fragmento de fissão
+裂谷 | TRADUÇÃO: (geologia) vale de rift
+裂谷热 | TRADUÇÃO: febre do Vale do Rift (RVF)
+裂开 | TRADUÇÃO: abrir-se / rachar-se
+裂隙 | TRADUÇÃO: fenda; fissura; trinca; fresta; fratura
+裂体吸虫 | TRADUÇÃO: esquistossomo, platelminto parasita causador da febre do caramujo (bilharzíase ou esquistossomose)
+裇 | TRADUÇÃO: usado em T裇
+裉 | TRADUÇÃO: costura lateral em uma vestimenta superior
+袅娜 | TRADUÇÃO: esbelta e graciosa
+袅袅 | TRADUÇÃO: subindo em espirais
+袅袅婷婷 | TRADUÇÃO: (expressão idiomática) (de uma mulher) elegante e flexível
+裋 | TRADUÇÃO: usado em 裋褐
+裋褐 | TRADUÇÃO: (literário) vestimenta grosseira; pano de saco (usado pelos pobres em tempos antigos)
+裍 | TRADUÇÃO: uma borda ou faixa na orla de um vestido
+裎 | TRADUÇÃO: despir-se/nu ‖ tipo antigo de vestimenta
+里 | TRADUÇÃO: variante de 裡|里 ‖ forro/interior/dentro/interno/também escrito 裏|里 ‖ sobrenome Li ‖ li, antiga medida de comprimento, aprox. 500 m/vizinhança/antiga unidade administrativa de 25 famílias/(Taiwan) distrito, unidade administrativa entre o município 鎮|镇 e a vizinhança 鄰|邻
+里番 | TRADUÇÃO: anime erótico; animação pornográfica (estrangeirismo modelado a partir do japonês 裏番組 ura bangumi, "programa exibido em oposição a outro", reinterpretado no uso ACG chinês como "anime adulto")
+里面 | TRADUÇÃO: variante de 裡面|里面 ‖ dentro/interior/também pronuncia-se [li3 mian5]
+裒 | TRADUÇÃO: coletar
+裒多益寡 | TRADUÇÃO: tirar dos ricos e dar aos pobres (expressão idiomática)
+裒敛无厌 | TRADUÇÃO: acumular riqueza sem satisfação/saquear continuamente (expressão idiomática)
+裔 | TRADUÇÃO: (forma presa) descendentes/(forma presa) de ascendência ... (como em 華裔|华裔 "de ascendência chinesa")/(literário) terras distantes/(literário) margem; periferia
+裔胄 | TRADUÇÃO: descendentes/prole
+裕 | TRADUÇÃO: abundante
+裕仁 | TRADUÇÃO: Hirohito, nome pessoal do imperador Shōwa do Japão (1901-1989), reinou 1925-1989
+裕固 | TRADUÇÃO: grupo étnico Yugur
+裕固族 | TRADUÇÃO: grupo étnico Yugur
+裕安 | TRADUÇÃO: vide 裕安區|裕安区
+裕安区 | TRADUÇÃO: Yu'an, um distrito da cidade de Lu'an 六安市, Anhui
+裕度 | TRADUÇÃO: margem/tolerância
+裕民 | TRADUÇÃO: vide 裕民縣|裕民县
+裕民县 | TRADUÇÃO: Yumin, um condado na Prefeitura de Tacheng 塔城地區|塔城地区, Xinjiang
+裕华 | TRADUÇÃO: vide 裕華區|裕华区
+裕华区 | TRADUÇÃO: Yuhua, um distrito da cidade de Shijiazhuang 石家莊市|石家庄市, Hebei
+裘 | TRADUÇÃO: sobrenome Qiu ‖ pele/casaco de pele
+裘力斯·恺撒 | TRADUÇÃO: Júlio César, tragédia de 1599 de William Shakespeare 莎士比亞|莎士比亚
+裙子 | TRADUÇÃO: saia/CL:條|条
+裙带 | TRADUÇÃO: cinturão de saia/(fig.) relacionado à esposa ou outra parente feminina
+裙带官 | TRADUÇÃO: funcionário que obteve seu cargo por influência de uma parente feminina
+裙带菜 | TRADUÇÃO: wakame (Undaria pinnatifida), alga marinha comestível
+裙带亲 | TRADUÇÃO: parentes da esposa (ligeiramente pejorativo)
+裙带资本主义 | TRADUÇÃO: capitalismo de compadrio
+裙带关系 | TRADUÇÃO: (expressão idiomática) favorecimento a alguém por influência da esposa ou outra parente feminina/(expressão idiomática) (por extensão) favorecimento a parentes, amigos ou associados
+裙带风 | TRADUÇÃO: prática de favorecer alguém por influência da esposa ou outra parente feminina/(por extensão) cultura de favorecimento a parentes, amigos e associados
+裙撑 | TRADUÇÃO: armação usada sob uma saia; anágua
+裙摆 | TRADUÇÃO: variante de 裙襬|裙摆 ‖ bainha (de uma saia)
+裙楼 | TRADUÇÃO: edifício pódio (estrutura baixa anexa ou ao redor de uma torre alta)
+裙裤 | TRADUÇÃO: calça-saia; saia-calça
+裙边 | TRADUÇÃO: franja gelatinosa comestível da carapaça de um cágado de casco mole
+裛 | TRADUÇÃO: embrulhar e amarrar/úmido/gotejando/molhado/saco de livros
+补 | TRADUÇÃO: consertar/remendar/reparar/compensar/preencher (vaga)/suplementar
+补丁 | TRADUÇÃO: remendo (para consertar roupas, pneus etc)/(software) patch
+补交 | TRADUÇÃO: entregar após o prazo; pagar após a data de vencimento
+补休 | TRADUÇÃO: tirar folga compensatória (para compensar trabalho durante fim de semana ou feriados)/licença compensatória
+补偏救弊 | TRADUÇÃO: remediar defeitos e corrigir erros (expressão idiomática); retificar erros passados
+补偿 | TRADUÇÃO: compensar/indenizar
+补偿费 | TRADUÇÃO: indenização/compensação
+补充 | TRADUÇÃO: reabastecer/suplementar/complementar/adicional/suplementar/CL:個|个
+补充剂 | TRADUÇÃO: suplemento dietético
+补充品 | TRADUÇÃO: item complementar
+补充医疗 | TRADUÇÃO: medicina complementar
+补充量 | TRADUÇÃO: complemento/quantidade complementar
+补光灯 | TRADUÇÃO: luz de preenchimento
+补刀 | TRADUÇÃO: (jogos) finalizar um combatente ferido/(fig.) atacar alguém que já está sob fogo/somar críticas/(sigilografia) retocar um selo após uma primeira impressão
+补剂 | TRADUÇÃO: tônico; suplemento
+补助 | TRADUÇÃO: subsidiar/subsídio/auxílio
+补卡 | TRADUÇÃO: substituir um chip SIM perdido ou danificado, mantendo o número de telefone original/troca de SIM
+补品 | TRADUÇÃO: tônico
+补回 | TRADUÇÃO: compensar/repor
+补报 | TRADUÇÃO: fazer um relatório após o evento/fazer um relatório suplementar/retribuir uma gentileza
+补天浴日 | TRADUÇÃO: (lit.) Nüwa remenda os Céus e Xihe banha o Sol (expressão idiomática)/(fig.) (de uma realização, feito, empreendimento etc) grandioso; magnífico; inigualável
+补强 | TRADUÇÃO: (engenharia) reforçar (uma estrutura)/fortalecer/(fig.) corrigir deficiências
+补救 | TRADUÇÃO: remediar
+补数 | TRADUÇÃO: número complementar
+补时 | TRADUÇÃO: (esportes) estender a duração de um jogo (devido a paradas)/(abr. de 傷停補時|伤停补时) acréscimos
+补档 | TRADUÇÃO: reenviar conteúdo digital (porque expirou, foi removido etc)
+补法 | TRADUÇÃO: tratamento que envolve o uso de tônicos para restaurar a saúde do paciente/método de reforço (na acupuntura)
+补液 | TRADUÇÃO: administrar fluidos (especialmente por via intravenosa)/bebida tônica; bebida nutritiva
+补满 | TRADUÇÃO: completar o que falta/preencher (vaga)/reabastecer
+补泻 | TRADUÇÃO: métodos de reforço e redução (na acupuntura)
+补炉 | TRADUÇÃO: revestimento (de forno)
+补牙 | TRADUÇÃO: (odontologia) obturar um dente; obturar
+补登 | TRADUÇÃO: registro de lançamento (ex.: em uma caderneta bancária)
+补登机 | TRADUÇÃO: máquina de registro em caderneta
+补发 | TRADUÇÃO: fornecer novamente (algo perdido)/reeditar/pagar retroativamente
+补白 | TRADUÇÃO: preencher uma lacuna (ex.: lacuna de conhecimento ou espaço em branco num layout impresso)/fazer observações adicionais/preenchimento (em jornal ou revista)
+补益 | TRADUÇÃO: benefício/ajuda
+补眠 | TRADUÇÃO: recuperar o sono atrasado
+补码 | TRADUÇÃO: código complementar/código binário com 0 e 1 trocados
+补票 | TRADUÇÃO: comprar ou fazer upgrade de passagem após embarcar em trem, barco etc/comprar ingresso para um espetáculo após se sentar no teatro
+补票处 | TRADUÇÃO: guichê de passagem adicional/balcão de espera
+补税 | TRADUÇÃO: pagar imposto sonegado/pagar imposto atrasado
+补种 | TRADUÇÃO: ressemedar/ressemear/replantar
+补给 | TRADUÇÃO: suprimento/reabastecimento/reabastecer
+补给品 | TRADUÇÃO: suprimentos
+补给站 | TRADUÇÃO: depósito/estação de suprimentos/ponto de abastecimento/postos de apoio
+补给船 | TRADUÇÃO: navio de suprimentos
+补给舰 | TRADUÇÃO: navio de suprimentos
+补给车 | TRADUÇÃO: (militar) veículo de suprimentos/(esportes) veículo de apoio durante eventos de ciclismo, maratonas etc
+补缀 | TRADUÇÃO: remendar (roupas)/consertar
+补缺 | TRADUÇÃO: preencher uma vaga/suprir uma falta/suprir uma deficiência
+补缺拾遗 | TRADUÇÃO: vide 拾遺補缺|拾遗补缺
+补习 | TRADUÇÃO: fazer aulas extras em cursinho ou com professor particular
+补习班 | TRADUÇÃO: cursinho/escola de reforço/aulas noturnas
+补考 | TRADUÇÃO: fazer prova de recuperação/prestar exame de segunda chamada/prova de recuperação/segunda chamada
+补胎 | TRADUÇÃO: consertar pneu
+补胎片 | TRADUÇÃO: remendo de pneu (para reparo de furo)
+补色 | TRADUÇÃO: cor complementar
+补花 | TRADUÇÃO: aplique
+补苗 | TRADUÇÃO: preencher lacunas com mudas
+补药 | TRADUÇÃO: tônico
+补血 | TRADUÇÃO: enriquecer o sangue
+补裰 | TRADUÇÃO: remendar roupas
+补觉 | TRADUÇÃO: recuperar o sono perdido
+补角 | TRADUÇÃO: ângulo suplementar
+补语 | TRADUÇÃO: complemento (gramática)
+补课 | TRADUÇÃO: repor aula perdida/reagendar uma aula
+补货 | TRADUÇÃO: reabastecer (um item)/repor estoque
+补贴 | TRADUÇÃO: subsidiar/subsídio/auxílio/suplementar (salário etc)/benefício
+补足 | TRADUÇÃO: completar/suprir uma deficiência/preencher (vaga, lacuna etc)
+补足音程 | TRADUÇÃO: intervalo complementar / intervalo musical que soma uma oitava
+补足额 | TRADUÇÃO: complemento/quantia complementar
+补办 | TRADUÇÃO: fazer algo após o prazo/resolver algo que deveria ter sido feito antes/solicitar novamente (documento perdido, cartão etc)
+补过 | TRADUÇÃO: compensar um erro anterior/fazer reparações
+补选 | TRADUÇÃO: eleição suplementar
+补遗 | TRADUÇÃO: adendo
+补钉 | TRADUÇÃO: variante de 補丁|补丁
+补阙 | TRADUÇÃO: variante antiga de 補缺|补缺
+补集 | TRADUÇÃO: complementar de um conjunto
+补电 | TRADUÇÃO: carregar (bateria)
+补靪 | TRADUÇÃO: variante de 補丁|补丁
+补养 | TRADUÇÃO: tomar tônico ou alimento nutritivo para fortalecer a saúde
+补体 | TRADUÇÃO: complemento (em soro sanguíneo)
+装 | TRADUÇÃO: adorno/adornar/vestuário/roupa/figurino (de ator em peça)/representar um papel/fingir/instalar/consertar/embrulhar (algo num saco)/carregar/empacotar
+装B | TRADUÇÃO: variante de 裝屄|装屄
+装作 | TRADUÇÃO: fingir/simular/representar um papel
+装佯 | TRADUÇÃO: afetação
+装修 | TRADUÇÃO: decorar/reforma (de interiores)/reformar/renovar
+装备 | TRADUÇÃO: equipamento/equipar/aparelhar
+装傻 | TRADUÇÃO: fazer-se de bobo/fingir ingenuidade
+装傻充愣 | TRADUÇÃO: (expressão idiomática) fingir ignorância ou burrice; bancar o desinformado
+装入 | TRADUÇÃO: carregar
+装出 | TRADUÇÃO: assumir (um ar de)
+装卸 | TRADUÇÃO: carregar ou descarregar/transferir/montar e desmontar
+装卸工 | TRADUÇÃO: estivador/carregador portuário
+装可爱 | TRADUÇÃO: bancar o fofo/fazer charme/fingir ser adorável
+装填 | TRADUÇÃO: carregar; encher (recipiente)
+装好人 | TRADUÇÃO: fingir ser bonzinho
+装嫩 | TRADUÇÃO: fingir juventude/afetar aparência jovem
+装屄 | TRADUÇÃO: bancar o presunçoso metido
+装帧 | TRADUÇÃO: encadernação e diagramação (de livro etc)
+装弹 | TRADUÇÃO: carregar (arma de fogo)
+装成 | TRADUÇÃO: fingir
+装扮 | TRADUÇÃO: decorar; adornar; fantasiar-se/disfarçar-se
+装料 | TRADUÇÃO: carregar/abastecer/alimentar (especialmente uma máquina)
+装有 | TRADUÇÃO: equipado com
+装束 | TRADUÇÃO: traje/vestuário
+装模作样 | TRADUÇÃO: (expressão idiomática) bancar o fingido; mostrar afetação; fazer teatro
+装机 | TRADUÇÃO: instalar/instalação
+装死 | TRADUÇÃO: fingir-se de morto
+装殓 | TRADUÇÃO: preparar o corpo do falecido e colocá-lo no caixão
+装洋蒜 | TRADUÇÃO: fingir ignorância
+装满 | TRADUÇÃO: encher completamente
+装潢 | TRADUÇÃO: emoldurar (quadro)/adornar/decoração/embalagem
+装璜 | TRADUÇÃO: variante de 裝潢|装潢
+装甲 | TRADUÇÃO: blindagem de veículo
+装甲车 | TRADUÇÃO: carro blindado/CL:輛|辆
+装甲车辆 | TRADUÇÃO: veículos blindados
+装病 | TRADUÇÃO: fingir doença/simular enfermidade
+装疯卖傻 | TRADUÇÃO: (expressão idiomática) bancar o bobo/fingir loucura
+装睡 | TRADUÇÃO: fingir que está dormindo
+装神弄鬼 | TRADUÇÃO: (lit.) fingir contato com seres sobrenaturais (expressão idiomática); (fig.) criar uma falsa sensação de mistério; usar truques para enganar ou assustar os outros; fazer mistério
+装穷叫苦 | TRADUÇÃO: (expressão idiomática) fingir-se de pobre e reclamar amargamente da pobreza
+装置 | TRADUÇÃO: instalar/instalação/equipamento/sistema/unidade/dispositivo
+装置物 | TRADUÇÃO: peça fixa/instalação
+装聋作哑 | TRADUÇÃO: fazer-se de surdo e mudo
+装腔作势 | TRADUÇÃO: postura/presunção/afetado
+装船 | TRADUÇÃO: carregar carga em um navio
+装萌 | TRADUÇÃO: (gíria) bancar o fofo
+装蒜 | TRADUÇÃO: bancar o bobo/fingir que não sabe
+装袋 | TRADUÇÃO: ensacar/encher (um saco)/ensacamento
+装裹 | TRADUÇÃO: vestir um cadáver/mortalha
+装订 | TRADUÇÃO: encadernação/encadernar (livros etc)
+装设 | TRADUÇÃO: instalar/colocar (ex.: lâmpada)
+装货 | TRADUÇÃO: carregar algo num navio etc
+装载 | TRADUÇÃO: carregar/estivar
+装逼 | TRADUÇÃO: variante de 裝屄|装屄
+装运 | TRADUÇÃO: embarcar/expedir/expedição
+装配 | TRADUÇÃO: montar/encaixar
+装配员 | TRADUÇÃO: montador
+装配工厂 | TRADUÇÃO: fábrica de montagem
+装配线 | TRADUÇÃO: linha de montagem/linha de produção
+装门面 | TRADUÇÃO: veja 裝點門面|装点门面
+装饰 | TRADUÇÃO: decorar/decoração/decorativo/ornamental
+装饰品 | TRADUÇÃO: ornamento
+装饰物 | TRADUÇÃO: ornamento/ornamentação
+装饰道具 | TRADUÇÃO: (teatro) adereço de cenário/acessório de cena
+装点 | TRADUÇÃO: decorar/enfeitar/adornar
+装点门面 | TRADUÇÃO: lit. decorar a fachada da loja (expressão idiomática) / fig. embelezar (currículo etc) / manter as aparências / criar uma fachada
+裟 | TRADUÇÃO: usado em 袈裟
+里出外进 | TRADUÇÃO: desalinhado/desordenado/tudo saindo para fora
+里勾外连 | TRADUÇÃO: agir de dentro em coordenação com atacantes de fora/atacado por dentro e por fora
+里外 | TRADUÇÃO: dentro e fora/mais ou menos
+里外里 | TRADUÇÃO: no final das contas/de qualquer forma
+里子 | TRADUÇÃO: forro/(fig.) substância (em oposição à aparência externa)
+里带 | TRADUÇÃO: câmara de ar (de pneu)
+里急后重 | TRADUÇÃO: (medicina) tenesmo
+里应外合 | TRADUÇÃO: coordenar ataques de dentro e de fora (expressão idiomática) / (fig.) agir em conjunto
+里手 | TRADUÇÃO: especialista/lado esquerdo (de máquina)/lado esquerdo (lado do motorista) de veículo
+里海 | TRADUÇÃO: Mar Cáspio
+里海地鸦 | TRADUÇÃO: (espécie de ave da China) gaio-do-Turquestão; gaio-de-Pander (Podoces panderi)
+里脊 | TRADUÇÃO: lombo (de porco, boi etc)
+里里外外 | TRADUÇÃO: por dentro e por fora
+里边 | TRADUÇÃO: dentro
+里边儿 | TRADUÇÃO: variante retroflexa de 裡邊|里边
+里院 | TRADUÇÃO: pátio interno (em uma casa com pátio)
+里头 | TRADUÇÃO: interior; parte de dentro
+裨 | TRADUÇÃO: sobrenome Pi ‖ beneficiar/auxiliar/vantajoso/proveitoso ‖ subordinado/secundário/pequeno
+裨益 | TRADUÇÃO: benefício/vantagem/lucro/ser benéfico para
+裨补 | TRADUÇÃO: remediar/compensar/benefício
+裩 | TRADUÇÃO: variante de 褌|裈
+裯 | TRADUÇÃO: cortina de cama/cobertor
+裰 | TRADUÇÃO: remendar roupas
+裱 | TRADUÇÃO: emoldurar (papel)/montar (pintura)
+裱糊 | TRADUÇÃO: colar materiais (como papel, tecido ou seda) em paredes ou obras de arte para decoração ou preservação
+裱背 | TRADUÇÃO: emoldurar uma pintura/também escrito 裱褙
+裱花袋 | TRADUÇÃO: saco de confeiteiro
+裱褙 | TRADUÇÃO: emoldurar uma pintura
+裲 | TRADUÇÃO: colete
+裳 | TRADUÇÃO: vestimenta inferior/saias/combinações/roupas ‖ usado em 衣裳
+裴 | TRADUÇÃO: sobrenome Pei ‖ (de uma vestimenta) longo e fluido ‖ variante de 裴
+裴回 | TRADUÇÃO: veja 徘徊
+裸像 | TRADUÇÃO: nu (pintura, escultura etc.)
+裸分 | TRADUÇÃO: (coloq.) nota bruta (antes de ajustes como pontos extras por etnia minoritária etc., esp. em vestibulares)
+裸地 | TRADUÇÃO: solo nu
+裸地化 | TRADUÇÃO: desnudação
+裸奔 | TRADUÇÃO: correr pelado; fazer um "streak"
+裸女 | TRADUÇÃO: mulher nua
+裸婚 | TRADUÇÃO: lit. casamento nu/cerimônia de casamento civil simples sem base material: sem carro, casa, festa, alianças ou lua de mel
+裸子植物 | TRADUÇÃO: gimnosperma (planta com sementes contidas em um cone)
+裸子植物门 | TRADUÇÃO: gimnosperma (planta com sementes contidas em um cone)
+裸官 | TRADUÇÃO: oficial do Partido Comunista cuja esposa e filhos deixaram a China para residir no exterior
+裸岩 | TRADUÇÃO: rocha nua
+裸戏 | TRADUÇÃO: cena de nudez (em um filme)
+裸替 | TRADUÇÃO: dublê de corpo (em cenas de nudez)
+裸模 | TRADUÇÃO: modelo nu/abrev. de 裸體模特|裸体模特
+裸机 | TRADUÇÃO: dispositivo apenas com hardware/computador sem sistema operacional ou outro software instalado/celular ou pager sem assinatura de rede
+裸泳 | TRADUÇÃO: nadar nu; nadar pelado
+裸照 | TRADUÇÃO: fotografia de nu
+裸男 | TRADUÇÃO: homem nu
+裸眼 | TRADUÇÃO: olho nu
+裸睡 | TRADUÇÃO: dormir nu
+裸绞 | TRADUÇÃO: (artes marciais) estrangulamento pelas costas (mata-leão)
+裸聊 | TRADUÇÃO: conversar nu (online)
+裸脚 | TRADUÇÃO: pé descalço/estar descalço
+裸袒 | TRADUÇÃO: nu/pelado
+裸裎 | TRADUÇÃO: ficar nu/despir-se/expor (o próprio corpo)
+裸贷 | TRADUÇÃO: (de uma mulher) fazer um empréstimo com um credor que retém fotos ou vídeos de nudez da tomadora como garantia
+裸足 | TRADUÇÃO: pé descalço/estar descalço
+裸辞 | TRADUÇÃO: pedir demissão (sem ter outro emprego)
+裸退 | TRADUÇÃO: (neologismo c. 2007) (de um oficial) aposentar-se completamente de todos os cargos de liderança
+裸露 | TRADUÇÃO: nu; descoberto; exposto
+裸露狂 | TRADUÇÃO: exibicionismo
+裸骑 | TRADUÇÃO: andar (a cavalo, bicicleta etc.) nu
+裸体 | TRADUÇÃO: nu; pelado
+裸体主义 | TRADUÇÃO: nudismo
+裸体主义者 | TRADUÇÃO: nudista
+裸鲤 | TRADUÇÃO: carpa nua (Gymnocypris przewalskii)
+裸麦 | TRADUÇÃO: centeio (Secale cereale)
+裹 | TRADUÇÃO: enrolar/embrulhar/pacote; pacote/recrutar à força; coagir; levar consigo (algo)
+裹包 | TRADUÇÃO: embrulhar/pacote
+裹尸布 | TRADUÇÃO: mortalha/tecido para envolver um cadáver
+裹挟 | TRADUÇÃO: arrastar/coagir
+裹胁 | TRADUÇÃO: compelir/coagir
+裹脚 | TRADUÇÃO: enfaixamento dos pés/tira longa de pano usada para enfaixar os pés
+裹足不前 | TRADUÇÃO: parar sem avançar (expressão idiomática); hesitar e conter-se
+裼 | TRADUÇÃO: cobertor de bebê ‖ expor a parte superior do corpo
+制件 | TRADUÇÃO: peça de trabalho
+制作 | TRADUÇÃO: fazer; fabricar
+制作人 | TRADUÇÃO: (indústria do entretenimento) produtor
+制作商 | TRADUÇÃO: fabricante/produtor
+制作者 | TRADUÇÃO: produtor/fabricante/criador
+制假 | TRADUÇÃO: falsificar/fabricar produtos falsificados
+制备 | TRADUÇÃO: preparar/preparação (química)
+制冰机 | TRADUÇÃO: máquina de gelo
+制冷 | TRADUÇÃO: produzir ar frio (para resfriar um ambiente etc.)
+制剂 | TRADUÇÃO: preparado (químico ou farmacêutico)
+制取 | TRADUÇÃO: (química) produzir
+制品 | TRADUÇÃO: produtos/mercadorias
+制售 | TRADUÇÃO: fabricar e vender
+制图 | TRADUÇÃO: (cartografia) fazer um mapa/(arquitetura etc.) projetar; desenhar (plantas)/(design gráfico) criar gráficos
+制成 | TRADUÇÃO: fabricar/produzir (um produto)
+制成品 | TRADUÇÃO: produtos manufaturados; produto acabado
+制模 | TRADUÇÃO: fabricação de moldes
+制氧机 | TRADUÇÃO: concentrador de oxigênio
+制油 | TRADUÇÃO: extrair óleo vegetal; extração de óleo
+制热 | TRADUÇÃO: produzir calor (para aquecer um ambiente etc.)
+制片 | TRADUÇÃO: produzir um filme; fazer um filme/produtor assistente/(Taiwan) produtor de cinema
+制片人 | TRADUÇÃO: produtor de cinema
+制片厂 | TRADUÇÃO: estúdio de cinema
+制版 | TRADUÇÃO: fazer uma chapa (impressão)
+制程 | TRADUÇÃO: processo de fabricação/processamento
+制药 | TRADUÇÃO: fabricar medicamentos
+制药企业 | TRADUÇÃO: empresa farmacêutica
+制药厂 | TRADUÇÃO: empresa farmacêutica/fábrica de medicamentos
+制衣 | TRADUÇÃO: fabricação de roupas
+制表 | TRADUÇÃO: tabular/tabulação/agendamento/fabricação de relógios
+制造 | TRADUÇÃO: fabricar; produzir
+制造商 | TRADUÇÃO: empresa de manufatura
+制造厂 | TRADUÇÃO: fábrica de manufatura
+制造业 | TRADUÇÃO: indústria de manufatura
+制造业者 | TRADUÇÃO: fabricante
+制造者 | TRADUÇÃO: fabricante
+制陶 | TRADUÇÃO: fabricar cerâmica

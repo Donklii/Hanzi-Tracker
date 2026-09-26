@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+老年 | TRADUÇÃO: velhice/terceira idade/outono da vida
+老年人 | TRADUÇÃO: idosos/pessoas idosas
+老年性痴呆症 | TRADUÇÃO: demência senil
+老年斑 | TRADUÇÃO: mancha hepática/mancha senil
+老年期 | TRADUÇÃO: velhice/terceira idade
+老年痴呆 | TRADUÇÃO: demência senil/doença de Alzheimer
+老年痴呆症 | TRADUÇÃO: demência senil/doença de Alzheimer
+老几 | TRADUÇÃO: (em que posição na ordem de irmãos mais velhos?)/ (usado em perguntas retóricas para expressar desdém)
+老底 | TRADUÇÃO: (coloq.) passado (especialmente detalhes embaraçosos ou privados de alguém)
+老广 | TRADUÇÃO: (coloq.) pessoa da província de Guangdong (especialmente cantonesa)
+老式 | TRADUÇÃO: antiquado/obsoleto/fora de moda
+老弟 | TRADUÇÃO: (tratamento afetuoso para um homem um pouco mais novo) meu rapaz/velho amigo
+老态 | TRADUÇÃO: velho e frágil/decrepito/infirmidades da velhice
+老态龙钟 | TRADUÇÃO: (expressão idiomática) decrépito/senil
+老成 | TRADUÇÃO: maduro/experiente/sofisticado
+老成持重 | TRADUÇÃO: maduro e ponderado/experiente e sábio
+老戏骨 | TRADUÇÃO: (dialeto) ator veterano/velho profissional
+老手 | TRADUÇÃO: pessoa experiente/veterano em algo
+老抽 | TRADUÇÃO: molho de soja escuro
+老拙 | TRADUÇÃO: velho gagá (geralmente em autorreferência)/coroa
+老掉牙 | TRADUÇÃO: muito velho/obsoleto/ultrapassado
+老抠 | TRADUÇÃO: pão-duro/mão-de-vaca/avarento
+老挝 | TRADUÇÃO: Laos
+老于世故 | TRADUÇÃO: (expressão idiomática) mundano/experiente/sofisticado
+老旦 | TRADUÇÃO: papel de mulher idosa na ópera chinesa
+老早 | TRADUÇÃO: há muito tempo
+老是 | TRADUÇÃO: sempre
+老朋友 | TRADUÇÃO: velho amigo/(gíria) período/menstruação
+老本 | TRADUÇÃO: capital/patrimônio/economias/pé-de-meia / (fig.) reputação/louros (para descansar)/edição antiga de um livro/tronco (de árvore)
+老朽 | TRADUÇÃO: decrépito e ultrapassado/velho e inútil/(humilde) eu/mim (usado por idosos)
+老东西 | TRADUÇÃO: (pejorativo) velho tolo/velho sem-vergonha
+老板 | TRADUÇÃO: variante de 老闆|老板 ‖ Robam (marca) ‖ chefe/proprietário de negócio/CL:個|个
+老框框 | TRADUÇÃO: convenções rígidas/molde reacionário
+老梗 | TRADUÇÃO: (Taiwan) sem originalidade/batido/ (de piada) velha
+老样子 | TRADUÇÃO: situação antiga/coisas como estavam
+老歌 | TRADUÇÃO: música antiga/oldie
+老死 | TRADUÇÃO: morrer de velhice
+老残游记 | TRADUÇÃO: As Viagens de Lao Tsan, romance do final da dinastia Qing, de Liu E 劉鶚|刘鹗
+老母 | TRADUÇÃO: (coloq.) mãe/mamãe/(literário) mãe idosa
+老毛子 | TRADUÇÃO: ocidental (especialmente russo) (pejorativo)
+老毛病 | TRADUÇÃO: doença crônica/velho hábito/problema crônico
+老气横秋 | TRADUÇÃO: velho e decrépito/orgulhoso da idade e experiência (expressão idiomática)
+老江湖 | TRADUÇÃO: pessoa muito viajada e bem familiarizada com os modos do mundo
+老河口 | TRADUÇÃO: veja 老河口市
+老河口市 | TRADUÇÃO: Laohekou, cidade a nível de condado na cidade de Xiangyang 襄陽市|襄阳市, Hubei
+老油子 | TRADUÇÃO: (coloq.) raposa velha/sujeito astuto
+老油条 | TRADUÇÃO: raposa velha/sujeito astuto
+老派 | TRADUÇÃO: antiquado/da velha guarda
+老汉 | TRADUÇÃO: velho/eu (um velho se referindo a si mesmo)
+老烟枪 | TRADUÇÃO: fumante inveterado/fumante em série/fumante de longa data
+老烟鬼 | TRADUÇÃO: fumante inveterado/fumante em série
+老父 | TRADUÇÃO: pai/velho/senhor venerável
+老爸 | TRADUÇÃO: pai/papai
+老爹 | TRADUÇÃO: (dialeto) pai/velho/senhor
+老爷 | TRADUÇÃO: (respeitoso) senhor/amo/(coloq.) avô materno
+老爷子 | TRADUÇÃO: meu (seu etc.) velho pai/tratamento polido para um homem idoso
+老爷岭 | TRADUÇÃO: nome chinês para a cordilheira Sichote-Alin no krai de Primorsky, Rússia, ao redor de Vladivostok
+老爷爷 | TRADUÇÃO: (coloq.) bisavô paterno
+老爷车 | TRADUÇÃO: carro clássico
+老牌 | TRADUÇÃO: marca antiga e conhecida/estilo antigo/velha guarda/veterano experiente
+老牛吃嫩草 | TRADUÇÃO: (expressão idiomática) relacionamento com grande diferença de idade (homem mais velho)/lit. vaca velha come capim novo
+老牛拉破车 | TRADUÇÃO: veja 老牛破車|老牛破车
+老牛破车 | TRADUÇÃO: lit. boi velho puxando carroça quebrada (expressão idiomática)/fig. lento e ineficiente
+老牛舐犊 | TRADUÇÃO: lit. boi velho lambendo seu bezerro (expressão idiomática)/fig. (dos pais) mimar os filhos
+老狐狸 | TRADUÇÃO: (fig.) raposa velha/pessoa astuta e perspicaz
+老玉米 | TRADUÇÃO: (dialeto) milho
+老王卖瓜，自卖自夸 | TRADUÇÃO: (expressão idiomática) cada um elogia o seu
+老生 | TRADUÇÃO: papel de homem de meia-idade ou idoso venerável, geralmente com barba postiça (na ópera chinesa)
+老生常谈 | TRADUÇÃO: (expressão idiomática) lugar-comum/observação banal/trulismo
+老当益壮 | TRADUÇÃO: (expressão idiomática) velho mas vigoroso/saudável e robusto apesar da idade
+老登 | TRADUÇÃO: (pejorativo) homem mais velho (especialmente visto como desatualizado)
+老百姓 | TRADUÇÃO: pessoas comuns/cidadão comum/CL:個|个
+老皇历 | TRADUÇÃO: (lit.) almanaque de anos passados/(fig.) história antiga/prática obsoleta/princípio antiquado
+老眼昏花 | TRADUÇÃO: visão turva de uma pessoa idosa (expressão idiomática)
+老神在在 | TRADUÇÃO: (Taiwan) calmo/imperturbável (do taiwanês)
+老等 | TRADUÇÃO: esperar pacientemente/garça
+老粗 | TRADUÇÃO: pessoa inculta/caipira/bruto
+老糊涂 | TRADUÇÃO: velho caduco
+老练 | TRADUÇÃO: experiente/veterano
+老总 | TRADUÇÃO: chefe/senhor (pessoa com papel de liderança em uma organização)/(após um sobrenome) comandante de alta patente no ELP/(dinastia Qing) oficial de alto escalão/(antigo) tratamento cortês usado pela população em geral ao se dirigir a um soldado ou policial
+老茧 | TRADUÇÃO: calo (na pele) / calosidade (nos pés) / também 老趼
+老美 | TRADUÇÃO: (coloq.) um americano/pessoa dos Estados Unidos
+老羞成怒 | TRADUÇÃO: veja 惱羞成怒|恼羞成怒
+老翁 | TRADUÇÃO: velho/ancião
+老老 | TRADUÇÃO: variante de 姥姥
+老耄 | TRADUÇÃO: visão turva da velhice/doddering/senil
+老者 | TRADUÇÃO: velho/homem idoso
+老聃 | TRADUÇÃO: outro nome para Laozi 老子
+老脸 | TRADUÇÃO: amor-próprio de uma pessoa idosa/face/cara-de-pau (i.e. imune a críticas)/descarado
+老腊肉 | TRADUÇÃO: (coloq.) homem de meia-idade experiente e geralmente bem posicionado
+老旧 | TRADUÇÃO: ultrapassado/antiquado
+老舍 | TRADUÇÃO: Lao She (1899–1966), romancista e dramaturgo chinês
+老花 | TRADUÇÃO: presbiopia
+老花眼 | TRADUÇÃO: presbiopia
+老花镜 | TRADUÇÃO: óculos para presbiopia
+老庄 | TRADUÇÃO: Laozi e Zhuangzi (ou Lao-tze e Chuang-tze), os fundadores do taoísmo
+老着脸 | TRADUÇÃO: descaradamente
+老虎 | TRADUÇÃO: tigre/CL:隻|只
+老虎伍兹 | TRADUÇÃO: Eldrick "Tiger" Woods (1975-), golfista americano
+老虎凳 | TRADUÇÃO: banco do tigre (método de tortura em que a vítima senta com as pernas estendidas horizontalmente em um banco, presas com tiras, enquanto tijolos são inseridos sob os pés, forçando a articulação do joelho a dobrar ao contrário)
+老虎机 | TRADUÇÃO: caça-níqueis
+老虎灶 | TRADUÇÃO: fogão grande de estilo antigo
+老虎菜 | TRADUÇÃO: salada do tigre (prato típico do nordeste da China, geralmente composto por pimenta, pepino, coentro e alho-poró)
+老虎钳 | TRADUÇÃO: torno (ferramenta)/alicate de pressão
+老处女 | TRADUÇÃO: solteirona/mulher velha solteira
+老蚌生珠 | TRADUÇÃO: (expressão idiomática) lit. uma ostra velha produzindo uma pérola / fig. dar à luz um filho em idade avançada
+老街 | TRADUÇÃO: Lao Cai, Vietnã / Laokai ou Laukkai, Mianmar (Birmânia)
+老表 | TRADUÇÃO: (coloq.) primo por parte feminina / (coloq.) forma amigável de tratamento entre homens da mesma idade / (coloq.) apelido para uma pessoa de Jiangxi
+老衲 | TRADUÇÃO: (literário) monge budista idoso / (humilde) eu (usado por monges budistas idosos)
+老视 | TRADUÇÃO: presbiopia
+老视眼 | TRADUÇÃO: presbiopia
+老话 | TRADUÇÃO: ditado antigo
+老调重弹 | TRADUÇÃO: (expressão idiomática) tocar a mesma melodia antiga / sem originalidade
+老谋深算 | TRADUÇÃO: (expressão idiomática) esquemas rigorosos e visão profunda / astuto e circunspecto
+老谱 | TRADUÇÃO: métodos antigos/hábito antigo
+老资格 | TRADUÇÃO: veterano
+老账 | TRADUÇÃO: lit. conta antiga / dívida antiga / fig. contas a ajustar / brigas antigas / rancor antigo
+老赖 | TRADUÇÃO: (coloq.) caloteiro
+老趼 | TRADUÇÃO: calo/calosidade (nos pés)
+老路 | TRADUÇÃO: caminho antigo / estrada familiar / trilha batida / comportamento convencional
+老辈 | TRADUÇÃO: geração mais velha/antepassados
+老辣 | TRADUÇÃO: astuto e implacável/eficiente e sem escrúpulos
+老远 | TRADUÇÃO: muito longe
+老迈 | TRADUÇÃO: idoso/senil
+老边 | TRADUÇÃO: ver 老邊區|老边区
+老边区 | TRADUÇÃO: Laobian, um distrito da cidade de Yingkou 營口市|营口市, Liaoning
+老乡 | TRADUÇÃO: conterrâneo/companheiro de aldeia/pessoa da mesma terra natal
+老酒 | TRADUÇÃO: vinho, especialmente vinho Shaoxing
+老钱 | TRADUÇÃO: (gíria) dinheiro antigo (riqueza herdada) / (atributivo) caracterizado por luxo discreto e gosto refinado
+老铁 | TRADUÇÃO: (gíria) amigo muito próximo/irmão
+老板娘 | TRADUÇÃO: proprietária / patroa / esposa do patrão
+老顽固 | TRADUÇÃO: (pejorativo) pessoa antiquada e teimosa / retrógrado
+老头 | TRADUÇÃO: velho / ancião / pai / marido
+老头儿 | TRADUÇÃO: ver 老頭子|老头子
+老头子 | TRADUÇÃO: (coloq.) velho / (referindo-se ao marido idoso) meu velho
+老头乐 | TRADUÇÃO: coçador de costas (feito de bambu etc.) / (também pode se referir a outros produtos benéficos para idosos, como sapatos acolchoados, triciclo de mobilidade etc.)
+老饕 | TRADUÇÃO: glutão
+老马嘶风 | TRADUÇÃO: (expressão idiomática) cavalo velho farejando o vento / fig. pessoa idosa com grandes aspirações
+老马恋栈 | TRADUÇÃO: lit. o cavalo velho ama a estrebaria / fig. pessoa idosa mas relutante em deixar o cargo (expressão idiomática)
+老马识途 | TRADUÇÃO: (expressão idiomática) um cavalo velho conhece o caminho / um trabalhador experiente sabe o que fazer / um profissional sabe o serviço
+老骥 | TRADUÇÃO: cavalo de raça velho / fig. pessoa idosa com grandes aspirações
+老骥伏枥 | TRADUÇÃO: (expressão idiomática) lit. um corcel idoso na estrebaria ainda aspira galopar 1000 milhas / fig. pessoa idosa com grandes aspirações
+老骥伏枥，志在千里 | TRADUÇÃO: (expressão idiomática) lit. um corcel idoso na estrebaria ainda aspira galopar 1000 milhas / fig. pessoas idosas ainda podem ter grandes aspirações
+老骥嘶风 | TRADUÇÃO: (expressão idiomática) corcel velho farejando o vento / fig. pessoa idosa com grandes aspirações
+老骨头 | TRADUÇÃO: corpo cansado e velho (termo coloquial, usado de forma jocosa ou irreverente)
+老鸟 | TRADUÇÃO: (coloq.) experiente/veterano
+老鸨 | TRADUÇÃO: cafetina
+老鸹 | TRADUÇÃO: (dialeto) corvo/graíha
+老雕 | TRADUÇÃO: abutre
+老鹰 | TRADUÇÃO: (coloq.) águia / gavião / qualquer ave de rapina semelhante
+老鹰星云 | TRADUÇÃO: Nebulosa da Águia, também conhecida como Nebulosa da Rainha das Estrelas, M16
+老黑 | TRADUÇÃO: (coloq.) pessoa negra
+老鼠 | TRADUÇÃO: rato / camundongo (CL:隻|个)
+老鼠仓 | TRADUÇÃO: (finanças) "negociação de rato", uma forma de front-running em que um gestor de fundos constrói secretamente uma posição em um ativo a preços baixos usando fundos pessoais, depois usa fundos públicos para elevar o preço
+老鼠拉龟，无从下手 | TRADUÇÃO: (expressão idiomática) como ratos tentando puxar uma tartaruga, sem lugar para agarrar / sem saber por onde começar
+老鼠拖木锨，大头在后头 | TRADUÇÃO: (expressão idiomática) quando os ratos arrastam uma pá, a maior coisa vem depois / a ponta do icebergue / o princípio da barata
+老鼠洞 | TRADUÇÃO: buraco de rato
+老鼠过街，人人喊打 | TRADUÇÃO: (expressão idiomática) lit. quando um rato atravessa a rua, todos o perseguem / fig. todos detestam um canalha
+老鼻子 | TRADUÇÃO: muitos (em grande quantidade)
+老龄 | TRADUÇÃO: velhice / envelhecimento / idoso / geriátrico / os idosos
+老龄化 | TRADUÇÃO: envelhecimento (populacional)
+考上 | TRADUÇÃO: passar no vestibular
+考中 | TRADUÇÃO: passar em um exame
+考克斯 | TRADUÇÃO: (sobrenome) Cox
+考克斯报告 | TRADUÇÃO: Relatório Cox / Relatório do Comitê Seleto sobre Preocupações de Segurança Nacional e Comercial-Militar dos EUA com a RPC (1999); Presidente do Comitê Republicano Chris Cox
+考入 | TRADUÇÃO: passar no vestibular / entrar na faculdade após exame competitivo
+考公 | TRADUÇÃO: prestar concurso público
+考分 | TRADUÇÃO: nota / pontuação de exame
+考勤 | TRADUÇÃO: verificar a presença (na escola ou trabalho) / monitorar a eficiência (dos trabalhadores)
+考勤簿 | TRADUÇÃO: livro de registro de presença
+考勤表 | TRADUÇÃO: folha de presença / quadro de presença
+考区 | TRADUÇÃO: área de exame / distrito onde o exame ocorre
+考卷 | TRADUÇÃO: prova / exame
+考取 | TRADUÇÃO: passar no vestibular / ser admitido em
+考古 | TRADUÇÃO: arqueologia / dedicar-se a estudos arqueológicos
+考古学 | TRADUÇÃO: arqueologia
+考古学家 | TRADUÇÃO: arqueólogo
+考古家 | TRADUÇÃO: arqueólogo
+考古题 | TRADUÇÃO: questões de exames de anos anteriores (Taiwan)
+考场 | TRADUÇÃO: sala de exame
+考完 | TRADUÇÃO: terminar um exame
+考官 | TRADUÇÃO: examinador (para testes, entrevistas etc.) / (antigo) oficial de exames imperiais
+考察 | TRADUÇÃO: inspecionar / observar e estudar / investigação in loco
+考察团 | TRADUÇÃO: equipe de inspeção
+考察船 | TRADUÇÃO: navio de pesquisa
+考察队 | TRADUÇÃO: equipe de investigação / expedição científica
+考工记 | TRADUÇÃO: O Registro do Artífice, um tratado de tecnologia compilado no final do período Primaveras e Outonos
+考虑 | TRADUÇÃO: pensar sobre / considerar / consideração
+考拉 | TRADUÇÃO: (estrangeirismo) coala
+考据 | TRADUÇÃO: crítica textual
+考文垂 | TRADUÇÃO: Coventry, cidade em West Midlands, Inglaterra
+考期 | TRADUÇÃO: período de exames / data do exame
+考本 | TRADUÇÃO: fazer exame para obter um certificado (ex.: teste de direção, licença etc.)
+考查 | TRADUÇÃO: investigar / estudar
+考核 | TRADUÇÃO: examinar / verificar / avaliar / revisar / avaliação / revisão
+考波什堡 | TRADUÇÃO: Kaposvár, no sudoeste da Hungria, capital do condado de Somogy 紹莫吉州|绍莫吉州
+考生 | TRADUÇÃO: candidato a exame / aluno inscrito para um exame
+考研 | TRADUÇÃO: prestar exame de admissão para programa de pós-graduação
+考砸 | TRADUÇÃO: ser reprovado / fracassar em uma prova
+考究 | TRADUÇÃO: investigar / pesquisar e verificar / primoroso
+考纪 | TRADUÇÃO: disciplina de exame/(Taiwan) avaliação de desempenho e disciplina (abrev. de 考核 + 紀律|纪律), usada em referência a funções de revisão interna e supervisão dentro de partidos políticos
+考级 | TRADUÇÃO: fazer um teste para estabelecer seu nível de proficiência/teste de nivelamento/(música) exame de grau
+考纲 | TRADUÇÃO: esboço do exame (esboço do conteúdo de um exame, publicado antes do exame como guia para os examinandos) (abrev. de 考試大綱|考试大纲)
+考编 | TRADUÇÃO: (coloq.) prestar concursos públicos para cargos no funcionalismo público ou em instituições públicas (cf. 編制|编制)
+考绩 | TRADUÇÃO: verificar as realizações de alguém
+考订 | TRADUÇÃO: verificar e corrigir
+考评 | TRADUÇÃO: avaliação/investigar e avaliar
+考试 | TRADUÇÃO: fazer um exame/exame/CL:次
+考试卷 | TRADUÇÃO: prova; teste (CL:張|张)
+考试卷子 | TRADUÇÃO: veja 考試卷|考试卷
+考试院 | TRADUÇÃO: Yuan de Exames, o órgão de qualificação e nomeação sob a constituição da República da China, depois de Taiwan/junta examinadora
+考证 | TRADUÇÃO: fazer pesquisa textual/fazer crítica textual/verificar por meio de pesquisa (especialmente detalhes históricos)/fazer um exame para obter um certificado (abrev. de 考取證件|考取证件)
+考进 | TRADUÇÃO: obter ingresso passando em um exame; ser admitido em (uma faculdade etc.)
+考过 | TRADUÇÃO: passar (em um exame)
+考选部 | TRADUÇÃO: Ministério de Exames, Taiwan
+考量 | TRADUÇÃO: considerar/levar algo a sério/consideração
+考霸 | TRADUÇÃO: "mestre dos exames", alguém que presta muitos exames e é aprovado em todos
+考题 | TRADUÇÃO: questão de exame
+考验 | TRADUÇÃO: testar/colocar à prova/prova/provação
+考点 | TRADUÇÃO: local de exame/centro de provas/ponto-chave (a ser testado em um exame)
+耄 | TRADUÇÃO: extremamente idoso (com 80 ou 90 anos)/octogenário/nonagenário
+耄倪 | TRADUÇÃO: velho e novo
+耄思 | TRADUÇÃO: estar chateado ou perturbado
+耄期 | TRADUÇÃO: (literário) os 80 ou 90 anos de idade
+耄耋 | TRADUÇÃO: extremamente idoso/canoso e venerável
+耄耋之年 | TRADUÇÃO: velhice (com 80, 90 anos ou mais)
+耄龄 | TRADUÇÃO: velhice/oitenta, noventa anos ou mais (de idade)
+者 | TRADUÇÃO: (após um verbo ou adjetivo) aquele que (é) .../(após um substantivo) pessoa envolvida em .../-dor/-ista/(usado após um número ou 後|后 ou 前 para se referir a algo mencionado anteriormente)/(usado após um termo, para marcar uma pausa antes de definir o termo)/(antigo) (usado no final de uma ordem)/(antigo) este
+者流 | TRADUÇÃO: (após um atributo pessoal) pessoas que têm esse atributo; pessoas desse tipo
+耆 | TRADUÇÃO: homem de sessenta ou setenta anos
+耆宿 | TRADUÇÃO: idoso venerável
+耇 | TRADUÇÃO: rosto enrugado do idoso
+耈 | TRADUÇÃO: variante antiga de 耇
+耉 | TRADUÇÃO: variante antiga de 耇
+耊 | TRADUÇÃO: variante antiga de 耋
+耋 | TRADUÇÃO: idoso/com oitenta anos
+而 | TRADUÇÃO: e/bem como/e assim/mas (não)/ainda (não)/(indica relação causal)/(indica mudança de estado)/(indica contraste)
+而且 | TRADUÇÃO: (não só ...) mas também/além disso; além do mais
+而今 | TRADUÇÃO: agora/no presente (tempo)
+而已 | TRADUÇÃO: isso é tudo/nada mais
+而后 | TRADUÇÃO: depois disso/então
+而是 | TRADUÇÃO: (usado em contraste com 不是[bu2 shi4]) e sim; mas sim
+而立之年 | TRADUÇÃO: (expressão idiomática) os 30 anos de idade
+而言 | TRADUÇÃO: (tipicamente precedido por 就…[jiu4 xx5] ou 對…|对…[dui4 xx5] etc) no que diz respeito a ...; falando em termos de ...
+耍 | TRADUÇÃO: sobrenome Shua ‖ brincar com/manejar/agir (descolado etc)/mostrar (uma habilidade, seu temperamento etc)
+耍嘴皮 | TRADUÇÃO: exibir-se com conversa inteligente/convencido/um sabichão
+耍嘴皮子 | TRADUÇÃO: falar com fluência/falar muito/ser só conversa
+耍子 | TRADUÇÃO: brincar/se divertir
+耍宝 | TRADUÇÃO: exibir-se/fazer um show para divertir os outros
+耍小聪明 | TRADUÇÃO: querer ser esperto/recorrer a pequenos truques
+耍废 | TRADUÇÃO: (Taiwan) (gíria) passar o tempo ociosamente/relaxar/sair com amigos
+耍弄 | TRADUÇÃO: brincar com/engajar-se em/recorrer a/brincar com (os sentimentos de alguém)
+耍得团团转 | TRADUÇÃO: enganar/ ludibriar
+耍手腕 | TRADUÇÃO: usar de artimanhas/manobrar
+耍滑 | TRADUÇÃO: recorrer a truques/agir de forma sorrateira/tentar se esquivar (do trabalho, responsabilidade)
+耍滑头 | TRADUÇÃO: veja 耍滑
+耍泼 | TRADUÇÃO: (dialeto) fazer uma cena irracional
+耍无赖 | TRADUÇÃO: agir descaradamente/comportar-se de uma forma que deixa os outros tscando e balançando a cabeça em desaprovação
+耍猴 | TRADUÇÃO: fazer um macaco fazer truques/apresentar um show de macacos/ridicularizar alguém/provocar
+耍狮子 | TRADUÇÃO: executar uma dança do leão
+耍私情 | TRADUÇÃO: o jogo das paixões/deixar-se levar pela paixão (por exemplo, para cometer um crime)
+耍笔杆 | TRADUÇÃO: escrever prosa fácil; brincar com as palavras
+耍坛子 | TRADUÇÃO: executar um número de malabarismo e equilíbrio com jarras
+耍脾气 | TRADUÇÃO: ficar emburrado/ter um chilique
+耍花招 | TRADUÇÃO: pregar peças em alguém
+耍花枪 | TRADUÇÃO: pregar peças/enganar
+耍花样 | TRADUÇÃO: pregar peças em alguém
+耍贫嘴 | TRADUÇÃO: (coloq.) falar sem parar/entregar-se a fofocas e piadas tolas/tagarelar sem parar/falar com fluência
+耍赖 | TRADUÇÃO: agir descaradamente/recusar-se a admitir que perdeu o jogo, ou fez uma promessa etc/fingir-se de bobo/agir como se nada tivesse acontecido
+耍钱 | TRADUÇÃO: (coloq.) jogar a dinheiro
+耍闹 | TRADUÇÃO: brincar animadamente/comportar-se de forma barulhenta e brincalhona/perder tempo
+耎 | TRADUÇÃO: variante antiga de 軟|软
+耏 | TRADUÇÃO: sobrenome Er ‖ barba
+耐 | TRADUÇÃO: (forma presa) suportar; aguentar; resistir a
+耐久 | TRADUÇÃO: durável/duradouro
+耐人寻味 | TRADUÇÃO: (expressão idiomática) instigante; que dá o que pensar
+耐候 | TRADUÇÃO: resistente às intempéries; resistente ao desgaste climático
+耐克 | TRADUÇÃO: Nike, Inc.
+耐力 | TRADUÇÃO: resistência
+耐力赛 | TRADUÇÃO: corrida de resistência
+耐劳 | TRADUÇÃO: resistente/capaz de suportar dificuldades
+耐受 | TRADUÇÃO: tolerar/tolerância
+耐受力 | TRADUÇÃO: tolerância/capacidade de sobreviver/resistência
+耐受性 | TRADUÇÃO: tolerância (ao calor, ácido etc)/resistência
+耐寒 | TRADUÇÃO: à prova de frio/resistente ao frio
+耐心 | TRADUÇÃO: ser paciente/paciência
+耐心烦 | TRADUÇÃO: (coloq.) paciência
+耐性 | TRADUÇÃO: paciência
+耐操 | TRADUÇÃO: (Taiwan) (de uma pessoa) ter resistência/(de um produto) durável/(China continental) (vulgar) (geralmente de uma mulher) forma alternativa de 耐肏 (entusiasta como parceira sexual)
+耐水 | TRADUÇÃO: à prova d'água
+耐水性 | TRADUÇÃO: à prova d'água
+耐洗 | TRADUÇÃO: resistente a lavagem
+耐洗涤性 | TRADUÇÃO: solidez à lavagem ou à cor/capacidade de ser lavado
+耐火 | TRADUÇÃO: refratário (material)/à prova de fogo
+耐火土 | TRADUÇÃO: argila refratária
+耐火砖 | TRADUÇÃO: tijolo refratário/tijolo à prova de fogo
+耐烦 | TRADUÇÃO: aguentar (algo desagradável)
+耐热 | TRADUÇÃO: resistente ao calor/à prova de fogo
+耐用 | TRADUÇÃO: durável
+耐用品 | TRADUÇÃO: bens duráveis
+耐看 | TRADUÇÃO: que pode ser apreciado por muito tempo / que merece uma segunda olhada
+耐磨 | TRADUÇÃO: resistente ao desgaste
+耐穿 | TRADUÇÃO: durável / resistente ao desgaste
+耐腐蚀 | TRADUÇÃO: resistente à corrosão / à prova de corrosão
+耐药性 | TRADUÇÃO: resistência a drogas / tolerância a drogas (medicina)
+耐蚀 | TRADUÇÃO: resistir à corrosão
+耐酸 | TRADUÇÃO: resistente a ácidos / à prova de ácidos
+耐高温 | TRADUÇÃO: resistente a altas temperaturas
+耐碱 | TRADUÇÃO: resistente a álcalis / à prova de álcalis
+耒 | TRADUÇÃO: arado
+耒耜 | TRADUÇÃO: arado
+耒阳 | TRADUÇÃO: ver 耒陽市|耒阳市
+耒阳市 | TRADUÇÃO: Leiyang, uma cidade administrativa nível distrito em Hengyang 衡陽市|衡阳市, Hunan
+耔 | TRADUÇÃO: amontoar terra em volta das plantas com enxada
+耕作 | TRADUÇÃO: lavrar / cultivar a terra / trabalhar no campo
+耕地 | TRADUÇÃO: terra arável / arar a terra
+耕奴 | TRADUÇÃO: escravo agrícola / servo
+耕犁 | TRADUÇÃO: arado
+耕田 | TRADUÇÃO: cultivar o solo / arar os campos
+耕畜 | TRADUÇÃO: animal de tração
+耕当问奴 | TRADUÇÃO: se é para arar, pergunte ao trabalhador (expressão idiomática); ao administrar um assunto, consulte o especialista apropriado
+耕当问奴，织当访婢 | TRADUÇÃO: se é para arar, pergunte ao trabalhador; se é para tecer, pergunte à serva (expressão idiomática); ao administrar um assunto, consulte o especialista apropriado
+耕种 | TRADUÇÃO: lavrar / cultivar
+耕者有其田 | TRADUÇÃO: "terra para quem a trabalha", movimento de reforma agrária pós-Libertação instigado pelo PCC
+耕耘 | TRADUÇÃO: arar e capinar / trabalho no campo / fig. trabalhar ou estudar diligentemente
+耕读 | TRADUÇÃO: ser ao mesmo tempo agricultor e estudioso / trabalhar a terra e também realizar estudos acadêmicos
+耖 | TRADUÇÃO: implemento tipo grade para pulverizar torrões de terra / nivelar o solo com tal implemento
+耗 | TRADUÇÃO: desperdiçar / gastar / consumir / esbanjar / notícia / (coloq.) atrasar / enrolar
+耗力 | TRADUÇÃO: exigir muito esforço
+耗失 | TRADUÇÃO: (de algo que deveria ser retido: nutrientes, umidade, calor etc.) ser perdido
+耗子 | TRADUÇÃO: (dialeto) rato; camundongo
+耗子尾汁 | TRADUÇÃO: você que se vire (trocadilho com 好自為之|好自为之)
+耗损 | TRADUÇÃO: desperdiçar
+耗散 | TRADUÇÃO: dissipar / esbanjar
+耗时 | TRADUÇÃO: demorado / levar um período de (x quantidade de tempo)
+耗时耗力 | TRADUÇÃO: que exige muito tempo e esforço
+耗材 | TRADUÇÃO: consumíveis / consumir matérias-primas
+耗油量 | TRADUÇÃO: consumo de combustível
+耗尽 | TRADUÇÃO: exaurir / usar completamente / esgotar / drenar
+耗能 | TRADUÇÃO: consumir energia
+耗费 | TRADUÇÃO: desperdiçar / gastar / consumir / esbanjar
+耗资 | TRADUÇÃO: gastar / despesa / custar
+耗电 | TRADUÇÃO: consumir eletricidade / consumo de energia elétrica
+耘 | TRADUÇÃO: capinar
+耙 | TRADUÇÃO: uma enxada / gradar ‖ um ancinho
+耙地 | TRADUÇÃO: gradar / quebrar o solo com uma enxada
+耙子 | TRADUÇÃO: um ancinho
+耙耳朵 | TRADUÇÃO: (dialeto) dominado pela esposa / subjugado pela mulher
+耜 | TRADUÇÃO: arado / relha de arado
+耝 | TRADUÇÃO: arar / (nome de lugar antigo)
+耞 | TRADUÇÃO: mangual (para debulhar grãos) / variante antiga de 枷
+耠 | TRADUÇÃO: uma enxada / enxadar / soltar o solo com uma enxada / pronúncia em Taiwan [he2]
+耡 | TRADUÇÃO: enxada
+耤 | TRADUÇÃO: arado
+耦 | TRADUÇÃO: um par / um companheiro / um casal / acoplar / relha de arado
+耦合 | TRADUÇÃO: acoplamento (física) / cópula (estatística) / ser acoplado (com algo)
+耦园 | TRADUÇÃO: Jardim do Casal Retirado em Suzhou, Jiangsu, um dos Jardins Clássicos de Suzhou, Patrimônio Mundial da UNESCO
+耦居 | TRADUÇÃO: viver juntos (como marido e mulher)
+耦联晶体管 | TRADUÇÃO: transistor acoplado (eletrônica)
+耦语 | TRADUÇÃO: ter um tête-à-tête / sussurrar um para o outro
+耨 | TRADUÇÃO: enxada / enxadar / capinar
+耩 | TRADUÇÃO: arar / semear
+耪 | TRADUÇÃO: enxadar
+耧 | TRADUÇÃO: semeadora para grãos
+耢 | TRADUÇÃO: um tipo de ferramenta agrícola (em forma de armação retangular) usada para nivelar o solo / nivelar o solo arrastando esta ferramenta
+耰 | TRADUÇÃO: grade
+耱 | TRADUÇÃO: ver 耮|耢
+耲 | TRADUÇÃO: (agricultura) cultivar com uma grade
+耲耙 | TRADUÇÃO: um tipo de grade usada no nordeste da China para cultivar ou semear / pronúncia em Taiwan [huai2 pa2]
+耳 | TRADUÇÃO: orelha / alça (arqueologia) / e é só isso (chinês clássico)
+耳下腺 | TRADUÇÃO: glândula subauricular / glândula parótida (glândula salivar na bochecha)
+耳光 | TRADUÇÃO: tapa no rosto / CL:記|记
+耳刮子 | TRADUÇÃO: (coloq.) tapa na lateral da cabeça
+耳力 | TRADUÇÃO: capacidade auditiva
+耳垂 | TRADUÇÃO: lóbulo da orelha
+耳垢 | TRADUÇÃO: cerume / cera de ouvido
+耳塞 | TRADUÇÃO: protetor auricular / fone de ouvido
+耳坠子 | TRADUÇÃO: brincos pendentes / brincos / CL:對|对,隻|只
+耳套 | TRADUÇÃO: abafador de ouvido / CL:副
+耳子 | TRADUÇÃO: alça (em uma panela)
+耳屎 | TRADUÇÃO: cera de ouvido / cerume
+耳廓 | TRADUÇÃO: orelha externa; pavilhão auricular; pina
+耳廓狐 | TRADUÇÃO: feneco / Vulpes zerda
+耳括子 | TRADUÇÃO: variante de 耳刮子
+耳挖 | TRADUÇÃO: cureta para ouvido / colher de cera
+耳挖勺 | TRADUÇÃO: (dialeto) cureta para ouvido / colher de cera
+耳挖子 | TRADUÇÃO: cureta para ouvido / colher de cera
+耳提面命 | TRADUÇÃO: dar conselhos sinceros (expressão idiomática) / exortar com seriedade
+耳掴子 | TRADUÇÃO: tapa
+耳旁风 | TRADUÇÃO: lit. vento passando pela orelha / fig. algo a que não se dá muita atenção / entra por um ouvido e sai pelo outro
+耳朵 | TRADUÇÃO: orelha / CL:隻|只,個|个,對|对 / alça (em uma xícara)
+耳朵眼儿 | TRADUÇÃO: buraco da orelha / furo para brinco; furo de brinco
+耳朵软 | TRADUÇÃO: crédulo
+耳根 | TRADUÇÃO: base da orelha / orelha / (Budismo) sentido da audição
+耳根子 | TRADUÇÃO: orelha
+耳根子软 | TRADUÇÃO: crédulo
+耳根清净 | TRADUÇÃO: lit. orelhas puras e pacíficas (expressão idiomática) / ficar longe da sujeira e agitação do mundo
+耳根软 | TRADUÇÃO: crédulo
+耳机 | TRADUÇÃO: fones de ouvido / fone de ouvido / fone de telefone
+耳壳 | TRADUÇÃO: orelha externa / pavilhão auricular / pina
+耳洞 | TRADUÇÃO: furo para brinco/furo na orelha
+耳源性 | TRADUÇÃO: otogênico
+耳源性眩晕 | TRADUÇÃO: vertigem aural
+耳温枪 | TRADUÇÃO: termômetro de ouvido
+耳濡目染 | TRADUÇÃO: ser influenciado pelo ambiente/absorver conhecimento por exposição constante
+耳熟 | TRADUÇÃO: soar familiar
+耳熟能详 | TRADUÇÃO: o que se ouve com frequência pode ser repetido em detalhes (expressão idiomática)
+耳片 | TRADUÇÃO: aba (de um navegador web)
+耳环 | TRADUÇÃO: brinco/CL:隻|只,對|对
+耳畔 | TRADUÇÃO: ouvidos
+耳痛 | TRADUÇÃO: dor de ouvido/otalgia
+耳目 | TRADUÇÃO: olhos e ouvidos/atenção ou ciência de alguém/informação/conhecimento/espiões
+耳目一新 | TRADUÇÃO: uma mudança agradável/um sopro de ar fresco/refrescante
+耳石 | TRADUÇÃO: otólito
+耳石症 | TRADUÇÃO: vertigem posicional paroxística benigna/VPPB
+耳罩 | TRADUÇÃO: protetor auricular/abafador de ruídos
+耳闻 | TRADUÇÃO: ouvir falar/ouvir dizer
+耳闻不如目见 | TRADUÇÃO: ver algo por si mesmo é melhor do que ouvir sobre isso de outros
+耳闻目睹 | TRADUÇÃO: testemunhar pessoalmente
+耳聪目明 | TRADUÇÃO: ouvidos aguçados e olhos vivos (expressão idiomática)/atento e alerta/perceptivo
+耳听为虚，眼见为实 | TRADUÇÃO: (expressão idiomática) o que se ouve pode não ser confiável, mas o que se vê é verdadeiro; ver para crer
+耳聋 | TRADUÇÃO: surdo
+耳背 | TRADUÇÃO: ter deficiência auditiva
+耳膜 | TRADUÇÃO: tímpano/membrana timpânica
+耳蜗 | TRADUÇÃO: (anatomia) cóclea
+耳蜡 | TRADUÇÃO: cera de ouvido/cerume
+耳语 | TRADUÇÃO: sussurrar no ouvido de alguém/um sussurro
+耳软 | TRADUÇÃO: crédulo
+耳返 | TRADUÇÃO: monitor intra-auricular (abrev. de 耳機返聽系統|耳机返听系统) (contrasta com 地返)
+耳道 | TRADUÇÃO: (anatomia) canal auditivo
+耳边风 | TRADUÇÃO: lit. vento que passa pelo ouvido/fig. algo a que não se dá atenção/entra por um ouvido e sai pelo outro
+耳郭 | TRADUÇÃO: orelha externa/pavilhão auricular/pina
+耳钉 | TRADUÇÃO: brinco de pino
+耳针 | TRADUÇÃO: auriculoterapia (acupuntura na orelha)
+耳顺之年 | TRADUÇÃO: (expressão idiomática) 60 anos de idade
+耳饰 | TRADUÇÃO: adorno de orelha (brinco, pingente, pino, etc.)
+耳发 | TRADUÇÃO: (homens) costeletas/(mulheres) mechas de cabelo que caem sobre as têmporas
+耳鬓厮磨 | TRADUÇÃO: lit. brincar juntos orelha com orelha e têmpora com têmpora (expressão idiomática)/fig. (de um menino e uma menina) brincar juntos com frequência durante a infância
+耳鸣 | TRADUÇÃO: zumbido no ouvido/tinnitus
+耳麦 | TRADUÇÃO: fones de ouvido/headphones
+耳鼓 | TRADUÇÃO: tímpano/membrana timpânica
+耳鼻咽喉 | TRADUÇÃO: ouvido, nariz e garganta/otorrinolaringologia
+耵 | TRADUÇÃO: usado em 耵聹|耵聍/pronúncia em Taiwan [ding3]
+耵聍 | TRADUÇÃO: cera de ouvido; cerume
+耶 | TRADUÇÃO: (fonético ye) ‖ partícula interrogativa (clássico) ‖ partícula final indicando entusiasmo etc.
+耶利哥 | TRADUÇÃO: Jericó (cidade bíblica)
+耶利米 | TRADUÇÃO: Jeremy ou Jeremias (nome)
+耶利米哀歌 | TRADUÇÃO: Lamentações de Jeremias
+耶利米书 | TRADUÇÃO: Livro de Jeremias
+耶和华 | TRADUÇÃO: Jeová (nome bíblico para Deus, hebraico: YHWH)/compare com Yahweh 雅威 e Deus 上帝
+耶和华见证人 | TRADUÇÃO: Testemunhas de Jeová
+耶哥尼雅 | TRADUÇÃO: Jeconias ou Joaquim (filho de Josias)
+耶弗他 | TRADUÇÃO: Jefté (hebraico: Yiftach) filho de Gileade, Juízes 11 e seguintes
+耶律 | TRADUÇÃO: sobrenome de dois caracteres Yelü
+耶律大石 | TRADUÇÃO: Yollig Taxin ou Yelü Dashi (1087-1143), líder kitai educado na China, fundador do Liao Ocidental 西遼|西辽 na Ásia Central
+耶律楚材 | TRADUÇÃO: Yelü Chucai (1190-1244), estadista kitai e conselheiro de Gêngis Cã e Oguedai Cã, conhecido por convencer os mongóis a tributar a população conquistada das planícies do norte da China em vez de massacrá-la
+耶户 | TRADUÇÃO: Jeú (842-815 a.C.), rei israelita, personagem proeminente em 2 Reis 9:10
+耶洗别 | TRADUÇÃO: Jezabel, esposa de Acabe e mãe de Acazias, personagem importante em 1 Reis 16:31, 19:1, 21 e 2 Reis 9, morta por Jeú 耶戶|耶户
+耶烈万 | TRADUÇÃO: Yerevan, capital da Armênia/também escrito 埃里溫|埃里温
+耶稣 | TRADUÇÃO: Jesus
+耶稣光 | TRADUÇÃO: raios crepusculares/raios de sol
+耶稣升天节 | TRADUÇÃO: Dia da Ascensão (festa cristã quarenta dias após a Páscoa)
+耶稣受难节 | TRADUÇÃO: Sexta-Feira Santa
+耶稣基督 | TRADUÇÃO: Jesus Cristo
+耶稣基督后期圣徒教会 | TRADUÇÃO: A Igreja de Jesus Cristo dos Santos dos Últimos Dias
+耶稣基督末世圣徒教会 | TRADUÇÃO: A Igreja de Jesus Cristo dos Santos dos Últimos Dias
+耶稣教 | TRADUÇÃO: Protestantismo
+耶稣会 | TRADUÇÃO: Os Jesuítas (Companhia de Jesus)
+耶稣会士 | TRADUÇÃO: um jesuíta/membro da Companhia de Jesus
+耶稣降临节 | TRADUÇÃO: Advento (período cristão de 4 semanas antes do Natal)
+耶莱娜·扬科维奇 | TRADUÇÃO: Jelena Jankovic (1985-), tenista sérvia
+耶西 | TRADUÇÃO: Jessé (filho de Obed)
+耶诞节 | TRADUÇÃO: (Taiwan) Natal
+耶路撒冷 | TRADUÇÃO: Jerusalém
+耶酥 | TRADUÇÃO: variante de 耶穌|耶稣
+耶酥会 | TRADUÇÃO: a Companhia de Jesus/os Jesuítas
+耶酥会士 | TRADUÇÃO: um jesuíta
+耶鲁 | TRADUÇÃO: Yale
+耶鲁大学 | TRADUÇÃO: Universidade Yale
+耷 | TRADUÇÃO: (literário) orelhas grandes/(forma presa) pender
+耷拉 | TRADUÇÃO: pender; cair; balançar
+耷着 | TRADUÇÃO: pender; cair; balançar
+耼 | TRADUÇÃO: variante de 聃
+耽 | TRADUÇÃO: entregar-se a/atrasar ‖ variante de 耽
+耽心 | TRADUÇÃO: variante de 擔心|担心
+耽忧 | TRADUÇÃO: variante de 擔憂|担忧
+耽搁 | TRADUÇÃO: demorar-se/atrasar/fazer uma parada
+耽溺 | TRADUÇÃO: entregar-se a/afundar-se em
+耽美 | TRADUÇÃO: (gíria) boys' love, também conhecido como BL (gênero de literatura homoerótica online)
+耽误 | TRADUÇÃO: atrasar/retardar/perder tempo/interferir com
+耿 | TRADUÇÃO: sobrenome Geng ‖ (literário) brilhante; resplandecente/honesto; íntegro
+耿介 | TRADUÇÃO: íntegro e excepcional
+耿直 | TRADUÇÃO: honesto; franco; sincero
+耿耿 | TRADUÇÃO: brilhante/dedicado/ter algo na mente/preocupado
+耿耿于怀 | TRADUÇÃO: levar problemas a sério (expressão idiomática); remoer
+耿饼 | TRADUÇÃO: caqui seco (da vila Geng, Heze 荷澤|荷泽, Shandong)
+耿马 | TRADUÇÃO: veja 耿馬傣族佤族自治縣|耿马傣族佤族自治县
+耿马傣族佤族自治县 | TRADUÇÃO: Condado Autônomo Dai e Va de Gengma, na cidade de Lincang 臨滄市|临沧市, Yunnan
+耿马县 | TRADUÇÃO: veja 耿馬傣族佤族自治縣|耿马傣族佤族自治县
+聃 | TRADUÇÃO: orelhas sem borda
+聆 | TRADUÇÃO: (literário) ouvir/escutar
+聆听 | TRADUÇÃO: ouvir (respeitosamente)
+聆讯 | TRADUÇÃO: audiência (jurídica)
+聊 | TRADUÇÃO: (coloq.) bater papo/(literário) temporariamente; por um tempo/(literário) um tanto; ligeiramente/(literário) depender de
+聊且 | TRADUÇÃO: por enquanto; provisoriamente
+聊以 | TRADUÇÃO: usar (ou fazer) algo com o propósito de (aliviar a fome, aliviar o tédio, etc.) em certa medida
+聊以塞责 | TRADUÇÃO: para cumprir minimamente as próprias responsabilidades / para se safar
+聊以自慰 | TRADUÇÃO: encontrar algum consolo (expressão idiomática) / aliviar-se em
+聊以解闷 | TRADUÇÃO: usar algo com o propósito de aliviar o tédio em certa medida
+聊备 | TRADUÇÃO: prover de forma improvisada; usar temporariamente como
+聊备一格 | TRADUÇÃO: usar como paliativo; fazer um gesto superficial; simbólico; nominal
+聊胜于无 | TRADUÇÃO: melhor que nada (expressão idiomática)
+聊城 | TRADUÇÃO: ver 聊城市
+聊城市 | TRADUÇÃO: Liaocheng, cidade de nível de prefeitura na província de Shandong 山東省|山东省
+聊天 | TRADUÇÃO: bater papo; fofocar
+聊天儿 | TRADUÇÃO: variante erhua de 聊天
+聊天室 | TRADUÇÃO: sala de bate-papo
+聊叙 | TRADUÇÃO: falar de forma tentativa
+聊生 | TRADUÇÃO: ganhar a vida (especialmente com negativa)
+聊表寸心 | TRADUÇÃO: ver 聊表心意
+聊表心意 | TRADUÇÃO: (expressão idiomática) oferecer como um pequeno sinal dos próprios sentimentos
+聊赖 | TRADUÇÃO: sofrer tédio
+聊骚 | TRADUÇÃO: paquerar online
+聊斋志异 | TRADUÇÃO: Histórias Estranhas de um Estúdio Chinês, livro de contos da dinastia Qing de 蒲松齡|蒲松龄
+聎 | TRADUÇÃO: zumbido (no ouvido)
+聒 | TRADUÇÃO: estridente / clamor / ruidosamente desagradável
+聒噪 | TRADUÇÃO: clamor / barulhento
+聒耳 | TRADUÇÃO: estridente / ensurdecedor
+圣上 | TRADUÇÃO: forma de tratamento de cortesão ou ministro para o imperador reinante
+圣事 | TRADUÇÃO: Sacramento Sagrado / rito cristão (especialmente católico) / também chamado 聖禮|圣礼 pelos protestantes
+圣人 | TRADUÇÃO: sábio / o Sábio (ou seja, Confúcio) / (antigo) (forma respeitosa de se dirigir a um monarca) vossa majestade sábia / (religião) santo
+圣代 | TRADUÇÃO: (estrangeirismo) sundae
+圣伯多禄大殿 | TRADUÇÃO: Basílica de São Pedro, Cidade do Vaticano
+圣但尼 | TRADUÇÃO: São Dinis ou São Denis
+圣何塞 | TRADUÇÃO: San José
+圣佛明节 | TRADUÇÃO: Festa de São Firmino, festival realizado anualmente em Pamplona, Espanha
+圣保罗 | TRADUÇÃO: São Paulo / São Paulo, cidade no Brasil
+圣像 | TRADUÇÃO: (antigo) imagem de Confúcio / imagem sagrada (de Buda, Jesus Cristo, etc.)
+圣僧 | TRADUÇÃO: monge sênior
+圣克鲁斯 | TRADUÇÃO: Santa Cruz
+圣克鲁斯岛 | TRADUÇÃO: Ilha de Santa Cruz, na costa da Califórnia
+圣典 | TRADUÇÃO: escritura sagrada / cânone
+圣凯瑟琳 | TRADUÇÃO: Santa Catarina
+圣劳伦斯河 | TRADUÇÃO: Rio São Lourenço, Canadá
+圣化 | TRADUÇÃO: santificar / santificação / consagrar
+圣君 | TRADUÇÃO: sábio
+圣哈辛托 | TRADUÇÃO: São Jacinto
+圣哉经 | TRADUÇÃO: Sanctus (seção da missa católica)
+圣哲 | TRADUÇÃO: sábio
+圣善 | TRADUÇÃO: bondade suprema / (termo respeitoso para a mãe de alguém)
+圣乔治 | TRADUÇÃO: São Jorge
+圣地 | TRADUÇÃO: terra santa (de uma religião) / lugar sagrado / santuário / cidade santa (como Jerusalém, Meca, etc.) / centro de interesse histórico
+圣地亚哥 | TRADUÇÃO: Santiago, capital do Chile / San Diego, Califórnia
+圣地牙哥 | TRADUÇÃO: (Taiwan) San Diego, Califórnia / Santiago, capital do Chile
+圣城 | TRADUÇÃO: Cidade Santa
+圣基茨和尼维斯 | TRADUÇÃO: São Cristóvão e Névis
+圣塔伦 | TRADUÇÃO: Santarém (Portugal) / Santarém (Brasil)
+圣多明各 | TRADUÇÃO: Santo Domingo, capital da República Dominicana
+圣多明哥 | TRADUÇÃO: (Taiwan) Santo Domingo, capital da República Dominicana
+圣多美 | TRADUÇÃO: São Tomé, capital de São Tomé e Príncipe
+圣多美和普林西比 | TRADUÇÃO: São Tomé e Príncipe
+圣大非 | TRADUÇÃO: Santa Fé
+圣奥古斯丁 | TRADUÇÃO: Santo Agostinho / Aurélio Agostinho (354-430), teólogo e filósofo cristão / Sankt Augustin, subúrbio de Beuel, Bonn, Alemanha
+圣女果 | TRADUÇÃO: tomate-cereja
+圣女贞德 | TRADUÇÃO: Joana d'Arc (1412-1431), heroína e libertadora francesa, executada como bruxa pelos borgonheses e ingleses
+圣婴 | TRADUÇÃO: El Niño (meteorologia) / Sagrado Menino Jesus (cristianismo)
+圣子 | TRADUÇÃO: Filho Sagrado / Jesus Cristo / Deus Filho (na Trindade cristã)
+圣安地列斯断层 | TRADUÇÃO: Falha de Santo André, Califórnia / também escrita 聖安德列斯斷層|圣安德列斯断层
+圣安多尼堂区 | TRADUÇÃO: Freguesia de Santo António (Macau)/Freguesia de Santo António
+圣安德列斯断层 | TRADUÇÃO: Falha de Santo André, Califórnia
+圣安德鲁 | TRADUÇÃO: Santo André
+圣安东尼奥 | TRADUÇÃO: San Antonio, Texas
+圣帕特里克 | TRADUÇÃO: São Patrício
+圣庙 | TRADUÇÃO: santuário de um sábio (especialmente Confúcio)
+圣彼得 | TRADUÇÃO: São Pedro
+圣彼得堡 | TRADUÇÃO: São Petersburgo (cidade na Rússia)
+圣徒 | TRADUÇÃO: santo
+圣德克旭贝里 | TRADUÇÃO: (Antoine de) Saint-Exupéry
+圣德太子 | TRADUÇÃO: Príncipe Shōtoku Taiji (574-621), importante estadista e reformador japonês do período Asuka 飛鳥時代|飞鸟时代, defensor do budismo de estado, retratado como santo budista
+圣心 | TRADUÇÃO: Sagrado Coração (cristão)
+圣心节 | TRADUÇÃO: Festa do Sagrado Coração
+圣战 | TRADUÇÃO: Guerra Santa / jihad
+圣手 | TRADUÇÃO: médico divino / médico sábio / profissional altamente habilidoso
+圣文森及格瑞那丁 | TRADUÇÃO: São Vicente e Granadinas (Taiwan)
+圣文森和格林纳丁 | TRADUÇÃO: São Vicente e Granadinas, ilha caribenha nas Pequenas Antilhas
+圣文森特和格林纳丁斯 | TRADUÇÃO: São Vicente e Granadinas
+圣旨 | TRADUÇÃO: édito imperial
+圣明 | TRADUÇÃO: sábio esclarecido / mestre brilhante (palavras lisonjeiras aplicadas a um governante)
+圣朝 | TRADUÇÃO: a dinastia imperial atual / a própria corte
+圣杯 | TRADUÇÃO: Santo Graal
+圣歌 | TRADUÇÃO: hino
+圣殿 | TRADUÇÃO: templo
+圣母 | TRADUÇÃO: Virgem Maria ‖ deusa
+圣母升天节 | TRADUÇÃO: Assunção da Virgem Maria (festa cristã em 15 de agosto)
+圣母婊 | TRADUÇÃO: (gíria da internet) bitch santimonial
+圣母峰 | TRADUÇÃO: (Taiwan) Monte Everest
+圣母教堂 | TRADUÇÃO: Igreja de Nossa Senhora / Frauenkirche
+圣母玛利亚 | TRADUÇÃO: Maria (mãe de Jesus)
+圣水 | TRADUÇÃO: água benta
+圣油 | TRADUÇÃO: crisma / óleo santo da unção
+圣洗 | TRADUÇÃO: batismo (cerimônia cristã)
+圣涡 | TRADUÇÃO: covinhas de Vênus/covinhas nas costas
+圣洁 | TRADUÇÃO: puro e santo
+圣潘克勒斯站 | TRADUÇÃO: Estação Saint Pancras (estação ferroviária de Londres)
+圣火 | TRADUÇÃO: fogo sagrado/(especialmente) a chama olímpica
+圣灰瞻礼日 | TRADUÇÃO: Quarta-feira de Cinzas
+圣灰节 | TRADUÇÃO: Quarta-feira de Cinzas (primeiro dia da Quaresma)
+圣烛节 | TRADUÇÃO: Candelária (festa cristã em 2 de fevereiro)
+圣父 | TRADUÇÃO: Santo Padre/Deus Pai (na Trindade cristã)
+圣王 | TRADUÇÃO: governante sábio
+圣皮埃尔和密克隆 | TRADUÇÃO: São Pedro e Miquelon
+圣盘 | TRADUÇÃO: Santo Graal
+圣卢西亚 | TRADUÇÃO: Santa Lúcia
+圣卢西亚岛 | TRADUÇÃO: ilha de Santa Lúcia
+圣祖 | TRADUÇÃO: Shengzu, nome de templo do segundo imperador Qing, conhecido como Imperador Kangxi (1654-1722) ‖ ancestral divino/santo padroeiro
+圣神 | TRADUÇÃO: termo feudal de louvor ao governante, rei ou imperador/termo geral para santo em tempos passados/termo para Deus durante o Reino Celestial Taiping (太平天國|太平天国)/Espírito Santo (na Trindade cristã)
+圣神降临 | TRADUÇÃO: Domingo do Espírito Santo (festa cristã que celebra o Espírito Santo)
+圣神降临周 | TRADUÇÃO: Semana da Pentecostes
+圣礼 | TRADUÇÃO: santo sacramento/rito cristão (especialmente protestante)/também chamado de 聖事|圣事 pelos católicos
+圣筊 | TRADUÇÃO: resultado favorável na adivinhação com blocos de lua (um lado plano e um arredondado para cima); resposta afirmativa de uma divindade
+圣约 | TRADUÇÃO: aliança
+圣约瑟夫 | TRADUÇÃO: São José
+圣约翰 | TRADUÇÃO: São João
+圣约翰斯 | TRADUÇÃO: St. John's, capital da província de Labrador e Terra Nova, Canadá
+圣纳帕 | TRADUÇÃO: Agia Napa, Chipre/Ayia Napa, Chipre
+圣索非亚 | TRADUÇÃO: Hagia Sophia (Grego: Santa sabedoria)
+圣索非亚大教堂 | TRADUÇÃO: Hagia Sophia (a principal catedral de Constantinopla, posteriormente a principal mesquita de Istambul)
+圣经 | TRADUÇÃO: os clássicos confucionistas/(Cristianismo, Judaísmo) as santas escrituras/CL:本,部
+圣经外传 | TRADUÇÃO: Apócrifos/ biografia externa aos clássicos
+圣经贤传 | TRADUÇÃO: lit. escritura santa e biografia de sábio (expressão idiomática); refere-se aos textos canônicos confucionistas
+圣者 | TRADUÇÃO: santo
+圣职 | TRADUÇÃO: sacerdócio
+圣胎 | TRADUÇÃO: corpo imortal (de um daoísta renascido)
+圣胡安 | TRADUÇÃO: San Juan, capital de Porto Rico
+圣膏油 | TRADUÇÃO: crisma/óleo santo da unção
+圣荷西 | TRADUÇÃO: (Taiwan) San José
+圣菲 | TRADUÇÃO: Santa Fé
+圣萨尔瓦多 | TRADUÇÃO: San Salvador, capital de El Salvador
+圣药 | TRADUÇÃO: panaceia
+圣训 | TRADUÇÃO: instruções do sábio/édito imperial
+圣诗 | TRADUÇÃO: hino
+圣诞 | TRADUÇÃO: Natal/aniversário do imperador reinante/aniversário de Confúcio
+圣诞前夕 | TRADUÇÃO: véspera de Natal
+圣诞卡 | TRADUÇÃO: cartão de Natal
+圣诞岛 | TRADUÇÃO: Ilha Christmas, Austrália
+圣诞帽 | TRADUÇÃO: gorro de Natal
+圣诞快乐 | TRADUÇÃO: Feliz Natal
+圣诞树 | TRADUÇÃO: árvore de Natal
+圣诞节 | TRADUÇÃO: época de Natal/temporada de Natal/Natal
+圣诞红 | TRADUÇÃO: poinsétia (Euphorbia pulcherrima)
+圣诞老人 | TRADUÇÃO: Papai Noel
+圣诞花 | TRADUÇÃO: poinsétia (Euphorbia pulcherrima)
+圣诞颂 | TRADUÇÃO: Um Conto de Natal de Charles Dickens
+圣谕 | TRADUÇÃO: édito imperial/ver também 上諭|上谕
+圣贤 | TRADUÇÃO: sábio/homem sábio e santo/governante virtuoso/lama budista/vinho
+圣贤孔子鸟 | TRADUÇÃO: Confuciusornis sanctus (fóssil de ave jurássica)
+圣贤书 | TRADUÇÃO: livro sagrado
+圣赫勒拿 | TRADUÇÃO: Santa Helena
+圣赫勒拿岛 | TRADUÇÃO: ilha de Santa Helena
+圣迹 | TRADUÇÃO: relíquia sagrada/milagre
+圣路易斯 | TRADUÇÃO: St. Louis, grande cidade no leste do Missouri
+圣躬 | TRADUÇÃO: corpo do imperador/corpo santo/o imperador reinante atual
+圣雄 | TRADUÇÃO: herói sábio/refere-se a Mahatma Gandhi
+圣露西亚 | TRADUÇÃO: Santa Lúcia (Taiwan)
+圣灵 | TRADUÇÃO: Espírito Santo
+圣灵降临 | TRADUÇÃO: Pentecostes
+圣餐 | TRADUÇÃO: Santa Comunhão; Eucaristia
+圣餐台 | TRADUÇÃO: altar (cristão)
+圣马利诺 | TRADUÇÃO: San Marino (Taiwan)
+圣马力诺 | TRADUÇÃO: San Marino
+圣马洛 | TRADUÇÃO: St. Malo, cidade na Normandia
+圣体 | TRADUÇÃO: corpo do imperador/corpo de Jesus/hóstia (na missa cristã)
+圣体节 | TRADUÇÃO: Corpus Christi (festa católica na segunda quinta-feira após o Domingo do Espírito Santo)
+圣体血 | TRADUÇÃO: corpo e sangue de Cristo/Santa Comunhão
+聘 | TRADUÇÃO: empregar; nomear/(forma presa) noivar/(coloq.) (de uma mulher) casar-se; ser dada em casamento/(literário) visitar outro estado como enviado em missão diplomática/pronúncia de Taiwan: [ping4]
+聘任 | TRADUÇÃO: nomear (para um cargo)/nomeado
+聘问 | TRADUÇÃO: intercâmbio internacional de visitas/visitar como enviado/visitar como representante familiar com o propósito de arranjar casamento (cultura tradicional)
+聘娶婚 | TRADUÇÃO: noivado formal (no qual a família do menino envia presentes à família da menina)
+聘书 | TRADUÇÃO: carta de nomeação/contrato
+聘用 | TRADUÇÃO: empregar/contratar
+聘礼 | TRADUÇÃO: presente de noivado
+聘请 | TRADUÇÃO: contratar (um advogado etc)
+聘金 | TRADUÇÃO: dinheiro de noivado (dado à família da noiva)
+聚 | TRADUÇÃO: reunir; juntar (transitivo ou intransitivo)/(química) poli-
+聚丙烯 | TRADUÇÃO: polipropileno
+聚乙烯 | TRADUÇÃO: polietileno
+聚伙 | TRADUÇÃO: reunir uma multidão/uma turba
+聚光 | TRADUÇÃO: focar a luz (ex.: no teatro)/destacar com um foco de luz
+聚光太阳能 | TRADUÇÃO: energia solar concentrada (CSP)
+聚光灯 | TRADUÇÃO: holofote
+聚友 | TRADUÇÃO: MySpace (site de rede social)
+聚合 | TRADUÇÃO: juntar-se (para formar algo)/reunir-se/(química) polimerizar
+聚合作用 | TRADUÇÃO: polimerização
+聚合物 | TRADUÇÃO: polímero
+聚合酶 | TRADUÇÃO: polimerase (enzima)
+聚合体 | TRADUÇÃO: agregado/polímero
+聚四氟乙烯 | TRADUÇÃO: politetrafluoretileno (PTFE), comercializado como Teflon
+聚在一起 | TRADUÇÃO: reunir-se
+聚宝盆 | TRADUÇÃO: tigela do tesouro (mitologia)/fig. fonte de riqueza/cornucópia/mina de ouro
+聚少离多 | TRADUÇÃO: (de um marido e esposa etc) passar mais tempo separados do que juntos; ver-se muito pouco
+聚居 | TRADUÇÃO: habitar uma região (especialmente grupo étnico)/congregar-se
+聚居地 | TRADUÇÃO: terra habitada/habitat
+聚拢 | TRADUÇÃO: reunir/aglomerar
+聚散 | TRADUÇÃO: encontro e separação/agregação e dissipação
+聚敛 | TRADUÇÃO: acumular/reunir/arrecadar riqueza por meio de impostos pesados ou outros meios inescrupulosos/(ciência) convergente
+聚晤 | TRADUÇÃO: encontrar-se (como grupo social)
+聚会 | TRADUÇÃO: festa/encontro/reunir-se/juntar-se
+聚歼 | TRADUÇÃO: aniquilar/cercar e exterminar
+聚氨酯 | TRADUÇÃO: poliuretano
+聚氯乙烯 | TRADUÇÃO: policloreto de vinila (PVC)
+聚沙成塔 | TRADUÇÃO: (lit.) muitos grãos de areia se acumulam para formar uma torre (expressão idiomática)/(fig.) muitas pequenas coisas se somam para formar algo grande
+聚焦 | TRADUÇÃO: focalizar (luz, feixe de elétrons etc)/concentrar a atenção
+聚甲醛 | TRADUÇÃO: poliformaldeído (CH2O)n
+聚众 | TRADUÇÃO: reunir uma multidão/convocar
+聚众淫乱罪 | TRADUÇÃO: crime de libertinagem em grupo (ofensa punível com até cinco anos de prisão na RPC)
+聚碳酸酯 | TRADUÇÃO: policarbonato
+聚积 | TRADUÇÃO: acumular/coletar/amontoar
+聚精会神 | TRADUÇÃO: concentrar toda a atenção (expressão idiomática)
+聚义 | TRADUÇÃO: reunir-se como voluntários para uma revolta
+聚苯乙烯 | TRADUÇÃO: poliestireno
+聚落 | TRADUÇÃO: povoado/local de habitação/cidade/vila
+聚萤映雪 | TRADUÇÃO: lit. coletar vaga-lumes e estudar à sua luz (expressão idiomática); fig. estudante ambicioso de origem humilde/queimar o óleo da meia-noite
+聚讼纷纭 | TRADUÇÃO: (de um grupo de pessoas) oferecer todos os tipos de opiniões diferentes (expressão idiomática)/discutir interminavelmente
+聚谈 | TRADUÇÃO: ter uma discussão em grupo/bater um papo com alguém
+聚议 | TRADUÇÃO: reunir-se para negociação
+聚变 | TRADUÇÃO: (física) sofrer fusão
+聚变反应 | TRADUÇÃO: fusão nuclear
+聚变武器 | TRADUÇÃO: arma de fusão
+聚赌 | TRADUÇÃO: jogo de azar coletivo
+聚酯 | TRADUÇÃO: poliéster
+聚酯树脂 | TRADUÇÃO: resina de poliéster
+聚酯纤维 | TRADUÇÃO: fibra de poliéster
+聚酰亚胺 | TRADUÇÃO: poliamida
+聚酰胺 | TRADUÇÃO: (química) poliamida
+聚集 | TRADUÇÃO: reunir; congregar
+聚头 | TRADUÇÃO: encontrar-se/juntar-se
+聚饮 | TRADUÇÃO: encontrar-se para beber socialmente
+聚餐 | TRADUÇÃO: refeição comunitária/jantar formal de clube ou grupo
+聚首 | TRADUÇÃO: reunir/encontrar-se
+聚点 | TRADUÇÃO: ponto de encontro/ponto de acumulação (mat.)
+聚齐 | TRADUÇÃO: encontrar-se/reunir-se (de um grupo de pessoas)
+聝 | TRADUÇÃO: cortar a orelha esquerda do morto
+闻 | TRADUÇÃO: sobrenome Wen ‖ ouvir/notícia/bem conhecido/famoso/reputação/fama/cheirar/aspirar o cheiro de
+闻一多 | TRADUÇÃO: Wen Yiduo (1899-1946), poeta e combatente patriótico, executado pelo Kuomintang em Kunming
+闻一知十 | TRADUÇÃO: lit. ouvir um e saber dez (expressão idiomática); fig. explicar uma coisa e (ele) entende tudo/para o sábio, uma palavra basta
+闻上去 | TRADUÇÃO: cheirar a/ter cheiro de
+闻人 | TRADUÇÃO: pessoa famosa
+闻出 | TRADUÇÃO: identificar pelo cheiro/detectar um odor/farejar
+闻到 | TRADUÇÃO: sentir o cheiro de/cheirar algo/perceber pelo olfato
+闻名 | TRADUÇÃO: bem conhecido/famoso/reconhecido/eminente
+闻名不如见面 | TRADUÇÃO: conhecer alguém pela fama não se compara a encontrá-lo pessoalmente (expressão idiomática)
+闻名于世 | TRADUÇÃO: mundialmente famoso
+闻名遐迩 | TRADUÇÃO: (expressão idiomática) ser famoso em toda parte
+闻喜 | TRADUÇÃO: ver 聞喜縣|闻喜县
+闻喜县 | TRADUÇÃO: Wenxi, um condado na cidade de Yuncheng 運城市|运城市, Shanxi
+闻悉 | TRADUÇÃO: ouvir (sobre algo)
+闻所未闻 | TRADUÇÃO: inédito/um evento extremamente raro e sem precedentes
+闻见 | TRADUÇÃO: cheirar/ouvir/conhecimento/informação
+闻言 | TRADUÇÃO: ter ouvido o que foi dito
+闻讯 | TRADUÇÃO: receber notícias (de)
+闻诊 | TRADUÇÃO: (MTC) ausculta e olfação, um dos quatro métodos de diagnóstico 四診|四诊
+闻过则喜 | TRADUÇÃO: aceitar críticas com alegria (expr. humilde)/ficar feliz quando seus erros são apontados
+闻达 | TRADUÇÃO: ilustre e influente/bem conhecido
+闻鸡起舞 | TRADUÇÃO: começar a praticar ao primeiro canto do galo (expressão idiomática)/ser diligente nos estudos
+闻风先遁 | TRADUÇÃO: fugir ao ouvir a notícia (expressão idiomática)
+闻风丧胆 | TRADUÇÃO: ouvir o vento e perder a coragem (expressão idiomática); aterrorizado com a notícia
+闻风而动 | TRADUÇÃO: responder instantaneamente/agir imediatamente ao ouvir a notícia
+聡 | TRADUÇÃO: variante antiga de 聰|聪
+聦 | TRADUÇÃO: variante de 聰|聪
+聨 | TRADUÇÃO: variante de 聯|联
+聮 | TRADUÇÃO: variante antiga de 聯|联
+联 | TRADUÇÃO: (forma presa) aliar-se a; unir-se; combinar; juntar/(forma presa) (poesia) dístico antitético
+联系 | TRADUÇÃO: variante de 聯繫|联系 ‖ conexão/contato/relação/entrar em contato com/integrar/vincular/tocar
+联俄 | TRADUÇÃO: aliança com a Rússia (ex.: dos primeiros comunistas chineses)
+联保 | TRADUÇÃO: garantia conjunta (finanças, direito)
+联动 | TRADUÇÃO: (das partes de uma máquina) mover-se juntos/atuar em coordenação; ser acoplado/ligação
+联合 | TRADUÇÃO: combinar/juntar/unir/aliança
+联合公报 | TRADUÇÃO: anúncio conjunto
+联合包裹服务公司 | TRADUÇÃO: United Parcel Service (UPS)
+联合古大陆 | TRADUÇÃO: Pangeia
+联合品牌 | TRADUÇÃO: co-marca
+联合国 | TRADUÇÃO: Nações Unidas
+联合国儿童基金会 | TRADUÇÃO: Fundo das Nações Unidas para a Infância/UNICEF
+联合国大会 | TRADUÇÃO: Assembleia Geral das Nações Unidas
+联合国安全理事会 | TRADUÇÃO: Conselho de Segurança das Nações Unidas
+联合国宪章 | TRADUÇÃO: Carta das Nações Unidas
+联合国教科文组织 | TRADUÇÃO: UNESCO, Organização das Nações Unidas para a Educação, a Ciência e a Cultura
+联合国气候变化框架公约 | TRADUÇÃO: Convenção-Quadro das Nações Unidas sobre Mudança do Clima
+联合国海洋法公约 | TRADUÇÃO: Convenção das Nações Unidas sobre o Direito do Mar
+联合国环境规划署 | TRADUÇÃO: Programa das Nações Unidas para o Meio Ambiente (PNUMA)
+联合国秘书处 | TRADUÇÃO: Secretariado das Nações Unidas
+联合国粮农组织 | TRADUÇÃO: Organização das Nações Unidas para a Alimentação e a Agricultura (FAO)
+联合国开发计划署 | TRADUÇÃO: Programa das Nações Unidas para o Desenvolvimento (PNUD)
+联合国难民事务高级专员办事处 | TRADUÇÃO: Alto Comissariado das Nações Unidas para os Refugiados (ACNUR)
+联合报 | TRADUÇÃO: United Daily News, jornal de Taiwan
+联合式合成词 | TRADUÇÃO: palavra composta coordenativa
+联合技术公司 | TRADUÇÃO: United Technologies Corporation
+联合收割机 | TRADUÇÃO: colheitadeira (i.e., colheitadeira combinada)
+联合政府 | TRADUÇÃO: governo de coalizão
+联合会 | TRADUÇÃO: federação
+联合王国 | TRADUÇÃO: Reino Unido
+联合组织 | TRADUÇÃO: sindicato
+联合声明 | TRADUÇÃO: declaração conjunta
+联合自强 | TRADUÇÃO: unir-se para o autoaperfeiçoamento / movimento conjunto para o fortalecimento próprio
+联合舰队 | TRADUÇÃO: frota combinada
+联合军演 | TRADUÇÃO: exercício militar conjunto
+联名 | TRADUÇÃO: conjuntamente (assinado, declarado, patrocinado)
+联大 | TRADUÇÃO: abrev. para 聯合國大會 (Assembleia Geral das Nações Unidas) / abrev. para 國立西南聯合大學 (Universidade Nacional Associada do Sudoeste)
+联姻 | TRADUÇÃO: aparentar-se por casamento / conectar por casamento (famílias, unidades de trabalho)
+联宗 | TRADUÇÃO: ramos combinados de um clã
+联席会议 | TRADUÇÃO: conferência conjunta
+联席董事 | TRADUÇÃO: diretor associado
+联想 | TRADUÇÃO: Lenovo ‖ associar (cognitivamente) / fazer uma conexão associativa / associação mental / funções de predição de palavras e autocompletar de programas de edição de métodos de entrada
+联想学习 | TRADUÇÃO: aprendizado associativo
+联想起 | TRADUÇÃO: associar / pensar em
+联想集团 | TRADUÇÃO: Grupo Lenovo (empresa de informática chinesa)
+联手 | TRADUÇÃO: lit. unir as mãos / agir juntos
+联接 | TRADUÇÃO: variante de 連接|连接
+联播 | TRADUÇÃO: transmitir em rede / conexão (de rádio ou TV) / transmissão simultânea
+联星 | TRADUÇÃO: estrela binária
+联机 | TRADUÇÃO: online / em rede / conectar-se online / conectar um dispositivo eletrônico a outro
+联机分析处理 | TRADUÇÃO: (computação) OLAP (processamento analítico online)
+联机游戏 | TRADUÇÃO: jogo de computador em rede
+联欢 | TRADUÇÃO: fazer uma confraternização / celebração / festa
+联欢会 | TRADUÇÃO: encontro social; festa
+联氨 | TRADUÇÃO: hidrazina
+联营 | TRADUÇÃO: joint venture / sob gestão conjunta
+联产 | TRADUÇÃO: coprodução / produção cooperativa
+联产到劳 | TRADUÇÃO: pagar alguém de acordo com sua produtividade
+联产到户 | TRADUÇÃO: sistema de responsabilidade familiar, introduzido no início dos anos 1980, sob o qual cada família rural podia decidir livremente o que produzir e como vender, desde que cumprisse sua cota de produtos para o Estado
+联盟 | TRADUÇÃO: aliança / união / coalizão
+联盟号 | TRADUÇÃO: Soyuz (união), série de espaçonaves russas
+联立方程式 | TRADUÇÃO: (matemática) equações simultâneas; sistema de equações
+联结 | TRADUÇÃO: combinar; juntar; ligar
+联结主义 | TRADUÇÃO: conexionismo
+联结车 | TRADUÇÃO: (Taiwan) caminhão 18 rodas / carreta / semirreboque
+联络 | TRADUÇÃO: entrar em contato com / contatar / manter contato (com) / ligação / (matemática) conexão
+联络人 | TRADUÇÃO: (Taiwan) pessoa de contato
+联络官 | TRADUÇÃO: oficial de ligação
+联络簿 | TRADUÇÃO: caderno de contatos
+联网 | TRADUÇÃO: conectar-se (ou estar conectado) a uma rede; conectar em rede
+联缀 | TRADUÇÃO: variante de 連綴|连缀
+联绵 | TRADUÇÃO: variante de 連綿|连绵
+联绵词 | TRADUÇÃO: palavra dissílaba com aliteração ou rima, como 玲瓏|玲珑
+联系人 | TRADUÇÃO: pessoa de contato
+联系方式 | TRADUÇÃO: dados de contato
+联署 | TRADUÇÃO: assinaturas conjuntas (em uma carta ou declaração)
+联翩 | TRADUÇÃO: (literário) vir em rápida sucessão / onda após onda
+联考 | TRADUÇÃO: exame de admissão (vestibular)
+联聘 | TRADUÇÃO: (de múltiplas instituições, departamentos ou organizações) recrutar conjuntamente; nomear conjuntamente (alguém)
+联航 | TRADUÇÃO: China United Airlines, abrev. para 中國聯合航空|中国联合航空
+联号 | TRADUÇÃO: variante de 連號|连号
+联袂 | TRADUÇÃO: conjuntamente / como um grupo / juntos
+联诵 | TRADUÇÃO: ligação (em fonética) (estrangeirismo)
+联谊 | TRADUÇÃO: amizade / camaradagem
+联谊会 | TRADUÇÃO: associação / clube / sociedade / festa / confraternização
+联调联试 | TRADUÇÃO: depuração e comissionamento / teste (de um sistema inteiro)
+联贯 | TRADUÇÃO: variante de 連貫|连贯
+联赛 | TRADUÇÃO: (esportes) liga / torneio de liga
+联军 | TRADUÇÃO: exércitos aliados
+联轴器 | TRADUÇÃO: (mecânica) acoplador; acoplamento
+联轴节 | TRADUÇÃO: (mecânica) acoplamento
+联通 | TRADUÇÃO: China United Telecommunications Corporation / também conhecida como China Unicom / abrev. para 中國聯通|中国联通 ‖ conexão / ligação / vincular
+联通红筹公司 | TRADUÇÃO: Unicom Red Chip, subsidiária de Hong Kong da China Unicom 中國聯通|中国联通
+联运 | TRADUÇÃO: transporte integrado / tráfego integrado organizado conjuntamente por diferentes empresas
+联运票 | TRADUÇÃO: bilhete de transferência
+联邦 | TRADUÇÃO: federal / federação / commonwealth / união federal / estado federal / união
+联邦制 | TRADUÇÃO: federal / sistema federal
+联邦州 | TRADUÇÃO: estado federal / Bundesland alemão
+联邦德国 | TRADUÇÃO: Federação Alemã / Bundesrepublik Deutschland / Alemanha
+联邦快递 | TRADUÇÃO: FedEx
+联邦政府 | TRADUÇÃO: governo federal
+联邦紧急措施署 | TRADUÇÃO: Agência Federal de Gerenciamento de Emergências (FEMA)
+联邦调查局 | TRADUÇÃO: Departamento Federal de Investigação (FBI)
+联邦通信委员会 | TRADUÇÃO: Comissão Federal de Comunicações (FCC)
+联队 | TRADUÇÃO: asa (de uma força aérea) / time esportivo representando uma combinação de entidades (ex.: Coreia Unida)
+联集 | TRADUÇÃO: união (símbolo ∪) (teoria dos conjuntos) (Taiwan)
+联体别墅 | TRADUÇÃO: casa geminada
+聪 | TRADUÇÃO: (literário) aguçado (audição) / (forma presa) inteligente; esperto; perspicaz
+聪慧 | TRADUÇÃO: brilhante; inteligente
+聪敏 | TRADUÇÃO: esperto; perspicaz; rápido
+聪明 | TRADUÇÃO: inteligente; esperto; brilhante / aguçado (visão e audição)
+聪明一世，懵懂一时 | TRADUÇÃO: veja 聰明一世，糊塗一時|聪明一世，糊涂一时
+聪明一世，糊涂一时 | TRADUÇÃO: (expressão idiomática) até o mais sábio pode ter um lapso momentâneo de julgamento; todo homem tem um tolo na manga
+聪明伶俐 | TRADUÇÃO: (expressão idiomática) brilhante; esperto; perspicaz
+聪明反被聪明误 | TRADUÇÃO: (expressão idiomática) uma pessoa esperta pode se tornar vítima de sua própria engenhosidade; a esperteza pode exceder seus limites; muito esperto para seu próprio bem
+聪明才智 | TRADUÇÃO: inteligência e habilidade
+聪明绝顶 | TRADUÇÃO: altamente inteligente; brilhante
+聪明过头 | TRADUÇÃO: esperto demais; engenhosidade excessiva
+聪颖 | TRADUÇÃO: esperto; inteligente
+聱 | TRADUÇÃO: difícil de pronunciar
+声 | TRADUÇÃO: som / voz / tom / ruído / reputação / classificador para sons
+声像 | TRADUÇÃO: audiovisual / (ultrassonografia etc) imagem acústica
+声价 | TRADUÇÃO: reputação
+声优 | TRADUÇÃO: dublador (empréstimo ortográfico do japonês 声優 "seiyū")
+声势 | TRADUÇÃO: fama e poder / prestígio / influência / ímpeto / impulso
+声卡 | TRADUÇÃO: placa de som
+声名 | TRADUÇÃO: reputação / declaração
+声名大噪 | TRADUÇÃO: ganhar fama
+声名大震 | TRADUÇÃO: causar sensação
+声名狼藉 | TRADUÇÃO: ter má reputação
+声名鹊起 | TRADUÇÃO: (expressão idiomática) ascender à fama/subir ao estrelato
+声呐 | TRADUÇÃO: sonar (estrangeirismo)
+声嘶力竭 | TRADUÇÃO: gritar até ficar rouco (expressão idiomática)
+声囊 | TRADUÇÃO: saco vocal (para amplificação vocal em sapos machos)
+声场 | TRADUÇÃO: (física) campo acústico/campo sonoro/palco sonoro
+声威 | TRADUÇÃO: prestígio/reputação/influência
+声学 | TRADUÇÃO: acústica
+声带 | TRADUÇÃO: cordas vocais/ pregas vocais / (cinema) trilha sonora
+声张 | TRADUÇÃO: tornar público/divulgar
+声息 | TRADUÇÃO: som (frequentemente com negativa, nem um som)/sussurro
+声情并茂 | TRADUÇÃO: (de um cantor etc) excelente em voz e expressão (expressão idiomática)
+声押 | TRADUÇÃO: solicitar a um tribunal um mandado de prisão
+声援 | TRADUÇÃO: apoiar (uma causa)
+声效 | TRADUÇÃO: efeito sonoro
+声旁 | TRADUÇÃO: componente fonético de um caractere chinês
+声旁字 | TRADUÇÃO: caractere que serve como valor sonoro de outro caractere/fonético
+声明 | TRADUÇÃO: declarar/declaração/CL:項|项,份
+声明书 | TRADUÇÃO: declaração
+声望 | TRADUÇÃO: reputação/prestígio/estima pública
+声东击西 | TRADUÇÃO: ameaçar a leste e atacar a oeste (expressão idiomática) / criar uma diversão / fingir atacar de um lado e atacar de outro
+声乐 | TRADUÇÃO: música vocal
+声母 | TRADUÇÃO: consoante inicial de uma sílaba chinesa / o componente fonético de um caractere composto fonossemântico (ex.: o componente 青 em 清)
+声气 | TRADUÇÃO: voz/tom/informação
+声波 | TRADUÇÃO: onda sonora
+声波定位 | TRADUÇÃO: sistema de localização sônica (especialmente sonar subaquático)/posicionamento acústico
+声浪 | TRADUÇÃO: clamor
+声泪俱下 | TRADUÇÃO: derramar lágrimas enquanto relata algo/falar em voz chorosa
+声称 | TRADUÇÃO: afirmar/declarar/proclamar/assertar
+声符 | TRADUÇÃO: componente fonético de um caractere chinês (ex.: o componente 青 em 清)
+声纹 | TRADUÇÃO: impressão vocal
+声纳 | TRADUÇÃO: sonar (estrangeirismo)
+声索国 | TRADUÇÃO: país reivindicante (numa disputa territorial)
+声线 | TRADUÇÃO: voz (como algo que pode ser descrito como rouco 沙啞|沙哑 ou grave 低沉 etc) / (física) raio sonoro
+声闻 | TRADUÇÃO: (budismo) discípulo
+声色场所 | TRADUÇÃO: zona de meretrício
+声色犬马 | TRADUÇÃO: (lit.) música, mulheres, cães e cavalos (diversões aristocráticas tradicionais, com cães e cavalos referindo-se a atividades como caça e equitação) (expressão idiomática) / (fig.) vinho, mulheres e música; prazeres dissolutos; uma vida de indulgência sensual
+声言 | TRADUÇÃO: declarar/afirmar/pronunciamento/declaração
+声讨 | TRADUÇÃO: denunciar/condenar
+声训 | TRADUÇÃO: explicar um caractere ou palavra usando um homófono
+声说 | TRADUÇÃO: narrar
+声调 | TRADUÇÃO: tom/nota/um tom (numa sílaba chinesa)/CL:個|个
+声调语言 | TRADUÇÃO: língua tonal (ex.: chinês ou vietnamita)
+声调轮廓 | TRADUÇÃO: contorno tonal
+声请 | TRADUÇÃO: fazer um pedido formal/pedido formal/fazer uma reivindicação (direito)
+声誉 | TRADUÇÃO: reputação/fama
+声道 | TRADUÇÃO: trilha sonora/canal de áudio
+声部 | TRADUÇÃO: parte (em música instrumental ou coral multipartes), como a parte de soprano ou a parte de baixo
+声门 | TRADUÇÃO: glote
+声音 | TRADUÇÃO: voz/som/CL:個|个
+声韵学 | TRADUÇÃO: fonética
+声响 | TRADUÇÃO: som/barulho
+声频 | TRADUÇÃO: frequência de áudio
+声类 | TRADUÇÃO: Shenglei, o mais antigo dicionário de rimas chinês com 11.520 entradas de um caractere, lançado no século III (não foi preservado até hoje)
+声鹀 | TRADUÇÃO: (espécie de ave da China) escrevedeira-dos-caniços (Emberiza schoeniclus)
+耸 | TRADUÇÃO: excitar/erguer/encolher (os ombros)/alto/elevado/imponente
+耸人听闻 | TRADUÇÃO: sensacionalizar (expressão idiomática)/exagero deliberado para assustar as pessoas
+耸动 | TRADUÇÃO: sacudir (uma parte do corpo)/encolher (os ombros)/criar sensação/incitar
+耸立 | TRADUÇÃO: erguer-se imponente/elevar-se altivo
+耸肩 | TRADUÇÃO: encolher os ombros
+聩 | TRADUÇÃO: nascer surdo/surdo/obtuso
+聂 | TRADUÇÃO: sobrenome Nie ‖ sussurrar
+聂姆曹娃 | TRADUÇÃO: Božena Němcová (1820-1862), escritora tcheca
+聂拉木 | TRADUÇÃO: veja 聶拉木縣|聂拉木县
+聂拉木县 | TRADUÇÃO: Nyalam, um condado na cidade de Shigatse 日喀則市|日喀则市, Tibete
+聂荣 | TRADUÇÃO: veja 聶榮縣|聂荣县
+聂荣县 | TRADUÇÃO: Nyainrong, um condado na cidade de Nagqu 那曲市, Tibete
+聂耳 | TRADUÇÃO: Nie Er (1912-1935), músico e compositor do hino nacional da RPC Marcha dos Voluntários 義勇軍進行曲|义勇军进行曲
+聂卫平 | TRADUÇÃO: Nie Weiping (1952-), jogador profissional de Go
+职 | TRADUÇÃO: cargo/dever
+职位 | TRADUÇÃO: posição/cargo/emprego
+职分 | TRADUÇÃO: dever
+职务 | TRADUÇÃO: cargo/posição/emprego/deveres
+职员 | TRADUÇÃO: funcionário de escritório/membro da equipe/CL:個|个,位
+职场 | TRADUÇÃO: local de trabalho/força de trabalho (de uma nação ou indústria etc)/mercado de trabalho
+职守 | TRADUÇÃO: dever/responsabilidade/posto
+职工 | TRADUÇÃO: empregado/membro da equipe/trabalhador
+职志 | TRADUÇÃO: aspiração
+职掌 | TRADUÇÃO: estar encarregado de/atribuição
+职校 | TRADUÇÃO: escola profissionalizante (abrev. de 職業學校|职业学校)
+职业 | TRADUÇÃO: ocupação/profissão/vocação/profissional
+职业中学 | TRADUÇÃO: escola profissionalizante de ensino médio
+职业倦怠症 | TRADUÇÃO: síndrome de tédio profissional
+职业化 | TRADUÇÃO: profissionalização
+职业教育 | TRADUÇÃO: formação profissional
+职业病 | TRADUÇÃO: doença ocupacional
+职业素质 | TRADUÇÃO: profissionalismo
+职业运动员 | TRADUÇÃO: profissional (atleta)/pro
+职业高中 | TRADUÇÃO: escola profissionalizante de ensino médio (abrev. para 職高|职高)
+职业高尔夫球协会 | TRADUÇÃO: Associação Profissional de Golfistas (PGA)
+职权 | TRADUÇÃO: autoridade/poder sobre outros
+职涯 | TRADUÇÃO: carreira
+职称 | TRADUÇÃO: posição profissional / título / cargo
+职级 | TRADUÇÃO: (cargo) posição/nível/grau/patente
+职缺 | TRADUÇÃO: vaga (de emprego)
+职能 | TRADUÇÃO: função/papel
+职能治疗 | TRADUÇÃO: terapia ocupacional
+职能治疗师 | TRADUÇÃO: terapeuta ocupacional
+职责 | TRADUÇÃO: dever/responsabilidade/obrigação
+职军 | TRADUÇÃO: (Taiwan) soldado profissional

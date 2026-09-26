@@ -30,7 +30,7 @@ func prepararBancoDeTeste(t *testing.T) string {
 func TestExportarSnapshotCopiaOsDados(t *testing.T) {
 	dir := prepararBancoDeTeste(t)
 
-	if err := AddOuUpdateVocab("你好", "nǐ hǎo", "olá", "estudo"); err != nil {
+	if err := AddOuUpdateVocab("你好", "estudo"); err != nil {
 		t.Fatalf("AddOuUpdateVocab: %v", err)
 	}
 
@@ -71,7 +71,7 @@ func TestExportarSnapshotSobrescreveDestinoExistente(t *testing.T) {
 func TestFecharDbPermiteSubstituirEhReabrirOhArquivo(t *testing.T) {
 	dir := prepararBancoDeTeste(t)
 
-	if err := AddOuUpdateVocab("猫", "māo", "gato", "aprendido"); err != nil {
+	if err := AddOuUpdateVocab("猫", "aprendido"); err != nil {
 		t.Fatal(err)
 	}
 
@@ -106,11 +106,11 @@ func TestEstatisticasESequencias(t *testing.T) {
 	prepararBancoDeTeste(t)
 
 	// Caso de sucesso: incrementando os acertos nas categorias
-	err := AtualizarAcertosSequencia("猫", "māo", "gato", "significado", true)
+	err := AtualizarAcertosSequencia("猫", "significado", true)
 	if err != nil {
 		t.Fatalf("Erro ao atualizar acertos: %v", err)
 	}
-	err = AtualizarAcertosSequencia("猫", "māo", "gato", "significado", true)
+	err = AtualizarAcertosSequencia("猫", "significado", true)
 	if err != nil {
 		t.Fatalf("Erro ao atualizar acertos: %v", err)
 	}
@@ -124,7 +124,7 @@ func TestEstatisticasESequencias(t *testing.T) {
 	}
 
 	// Caso de falha/reset: errar reseta o streak para 0
-	err = AtualizarAcertosSequencia("猫", "māo", "gato", "significado", false)
+	err = AtualizarAcertosSequencia("猫", "significado", false)
 	if err != nil {
 		t.Fatalf("Erro ao atualizar acertos: %v", err)
 	}
@@ -142,7 +142,7 @@ func TestEstatisticasESequencias(t *testing.T) {
 	categorias := []string{"significado", "fonetica", "desenho", "contexto", "pronuncia"}
 	for _, cat := range categorias {
 		for i := 0; i < 3; i++ {
-			err = AtualizarAcertosSequencia("狗", "gǒu", "cachorro", cat, true)
+			err = AtualizarAcertosSequencia("狗", cat, true)
 			if err != nil {
 				t.Fatalf("Erro ao incrementar categoria %s: %v", cat, err)
 			}
@@ -151,13 +151,13 @@ func TestEstatisticasESequencias(t *testing.T) {
 
 	// Outra palavra que não atinge todos os requisitos (só significado)
 	for i := 0; i < 3; i++ {
-		err = AtualizarAcertosSequencia("鸟", "niǎo", "pássaro", "significado", true)
+		err = AtualizarAcertosSequencia("鸟", "significado", true)
 		if err != nil {
 			t.Fatalf("Erro ao incrementar categoria significado para 鸟: %v", err)
 		}
 	}
 
-	sugestoes, err := ObterSugestoesAprendidoLote([]string{"狗", "鸟"})
+	sugestoes, err := ObterSugestoesAprendidoLote([]string{"狗", "鸟"}, nil)
 	if err != nil {
 		t.Fatalf("Erro ao obter sugestões: %v", err)
 	}
@@ -165,5 +165,85 @@ func TestEstatisticasESequencias(t *testing.T) {
 	// Deve sugerir apenas "狗"
 	if len(sugestoes) != 1 || sugestoes[0].Hanzi != "狗" {
 		t.Errorf("Esperava sugerir apenas a palavra '狗', veio: %+v", sugestoes)
+	}
+}
+
+// ----- Visualizações de OCR e sugestão de estudo -----
+
+// registrarScansDeTeste simula `quantidade` scans de OCR vendo a mesma palavra.
+func registrarScansDeTeste(t *testing.T, palavra string, quantidade int) {
+	t.Helper()
+	for i := 0; i < quantidade; i++ {
+		if err := RegistrarVisualizacoesOcr([]string{palavra}); err != nil {
+			t.Fatalf("RegistrarVisualizacoesOcr(%q): %v", palavra, err)
+		}
+	}
+}
+
+func TestVisualizacoesOcrEhSugestoesEstudo(t *testing.T) {
+	prepararBancoDeTeste(t)
+
+	// Três palavras 'vistas' + uma já em estudo.
+	for _, palavra := range []string{"猫", "狗", "鸟"} {
+		if err := RegistrarVisto(palavra); err != nil {
+			t.Fatalf("RegistrarVisto(%q): %v", palavra, err)
+		}
+	}
+	if err := AddOuUpdateVocab("你好", "estudo"); err != nil {
+		t.Fatal(err)
+	}
+
+	// Caso de sucesso: o contador acumula por scan e sai em GetAllVocab.
+	registrarScansDeTeste(t, "猫", VezesVistaMinimaSugestaoEstudo+2)
+	registrarScansDeTeste(t, "狗", VezesVistaMinimaSugestaoEstudo)
+	registrarScansDeTeste(t, "鸟", VezesVistaMinimaSugestaoEstudo-1) // abaixo do mínimo
+	registrarScansDeTeste(t, "你好", VezesVistaMinimaSugestaoEstudo+5) // muito vista, mas já em estudo
+
+	vocabulario, err := GetAllVocab()
+	if err != nil {
+		t.Fatal(err)
+	}
+	contagens := make(map[string]int, len(vocabulario))
+	for _, v := range vocabulario {
+		contagens[v.Hanzi] = v.VezesVistaOcr
+	}
+	if contagens["猫"] != VezesVistaMinimaSugestaoEstudo+2 {
+		t.Errorf("esperava %d visualizações para 猫, veio %d", VezesVistaMinimaSugestaoEstudo+2, contagens["猫"])
+	}
+
+	// Sugestões: só as 'vistas' que atingiram o mínimo, da mais vista para a menos.
+	sugestoes, err := ObterSugestoesEstudoOcr()
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(sugestoes) != 2 || sugestoes[0].Hanzi != "猫" || sugestoes[1].Hanzi != "狗" {
+		t.Fatalf("esperava sugestões [猫 狗] (mais vista primeiro, sem a em estudo nem a abaixo do mínimo), veio %+v", sugestoes)
+	}
+
+	// Caso de silenciamento: palavra ocultada some das sugestões, mesmo seguindo muito vista.
+	if err := OcultarSugestoesEstudoOcr([]string{"猫"}); err != nil {
+		t.Fatal(err)
+	}
+	registrarScansDeTeste(t, "猫", 1)
+	sugestoes, err = ObterSugestoesEstudoOcr()
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(sugestoes) != 1 || sugestoes[0].Hanzi != "狗" {
+		t.Errorf("esperava só [狗] após ocultar 猫, veio %+v", sugestoes)
+	}
+
+	// Caso de borda: incrementar palavra sem linha no banco não cria linha nem devolve erro.
+	if err := RegistrarVisualizacoesOcr([]string{"龙"}); err != nil {
+		t.Fatalf("RegistrarVisualizacoesOcr de palavra inexistente: %v", err)
+	}
+	vocabulario, err = GetAllVocab()
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, v := range vocabulario {
+		if v.Hanzi == "龙" {
+			t.Errorf("o incremento não deveria criar linha nova para 龙: %+v", v)
+		}
 	}
 }

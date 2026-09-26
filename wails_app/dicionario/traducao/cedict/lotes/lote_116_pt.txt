@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+预兆 | TRADUÇÃO: presságio/sinal (de algo que ainda vai ocorrer)/indicação prévia/prenunciar
+预先 | TRADUÇÃO: antecipadamente; com antecedência
+预判 | TRADUÇÃO: prever; antecipar
+预卜 | TRADUÇÃO: predizer; prognosticar
+预印 | TRADUÇÃO: pré-imprimir
+预印本 | TRADUÇÃO: pré-impressão
+预告 | TRADUÇÃO: prever/prenunciar/aviso prévio
+预告片 | TRADUÇÃO: trailer (de filme)
+预售 | TRADUÇÃO: pré-vender
+预报 | TRADUÇÃO: previsão
+预定 | TRADUÇÃO: programar com antecedência
+预定义 | TRADUÇÃO: predefinido
+预审 | TRADUÇÃO: audiência preliminar/interrogação (de suspeito)/exame preliminar (de projeto etc.)
+预后 | TRADUÇÃO: prognóstico
+预想 | TRADUÇÃO: antever; esperar
+预感 | TRADUÇÃO: ter um pressentimento/pressentimento
+预应力 | TRADUÇÃO: protendido
+预扣 | TRADUÇÃO: reter (na fonte)
+预提 | TRADUÇÃO: reter (imposto)/retenção na fonte
+预提费用 | TRADUÇÃO: (contabilidade) despesa acumulada
+预支 | TRADUÇÃO: pagar adiantado/receber adiantado
+预收费 | TRADUÇÃO: pré-pagamento
+预料 | TRADUÇÃO: prever/antecipar/expectativa
+预会 | TRADUÇÃO: variante de 與會|与会
+预期 | TRADUÇÃO: esperar; antecipar
+预期推理 | TRADUÇÃO: inferência preditiva
+预期用途 | TRADUÇÃO: uso pretendido
+预案 | TRADUÇÃO: plano de contingência
+预浸料 | TRADUÇÃO: pré-impregnado (tipo de material compósito)
+预测 | TRADUÇÃO: prever; prognosticar
+预演 | TRADUÇÃO: ensaio simulado/ensaiar algo/ensaiar
+预热 | TRADUÇÃO: pré-aquecer/(fig.) aquecer; preparar-se para
+预产期 | TRADUÇÃO: data prevista para o parto/data provável do parto (DPP)
+预留 | TRADUÇÃO: reservar; separar
+预知 | TRADUÇÃO: antever; pressagiar
+预示 | TRADUÇÃO: indicar/prenunciar/pressagiar/ augurar
+预祝 | TRADUÇÃO: desejar (sucesso, boa viagem etc.) a alguém
+预科 | TRADUÇÃO: curso preparatório (na faculdade)
+预算 | TRADUÇÃO: orçamento
+预约 | TRADUÇÃO: reserva/agendamento/reservar/marcar uma consulta
+预习 | TRADUÇÃO: preparar a lição
+预处理 | TRADUÇÃO: pré-processar
+预装 | TRADUÇÃO: pré-fabricado/pré-instalado/empacotado (software)
+预制 | TRADUÇÃO: pré-fabricado/pré-cortado/pré-fabricar
+预制菜 | TRADUÇÃO: refeição pronta
+预见 | TRADUÇÃO: prever/prognosticar/antever/vislumbrar/previsão/intuição/visão
+预览 | TRADUÇÃO: pré-visualização/pré-visualizar
+预言 | TRADUÇÃO: predizer/profecia
+预言家 | TRADUÇÃO: profeta
+预订 | TRADUÇÃO: fazer um pedido/reservar antecipadamente
+预计 | TRADUÇÃO: prever/prognosticar/estimar
+预托证券 | TRADUÇÃO: recibo de depósito (DR, em negociação de ações)
+预设 | TRADUÇÃO: pressupor/predeterminar/pré-ajustar/pressuposição/predisposição/padrão (valor etc.)
+预试 | TRADUÇÃO: pré-teste
+预谋 | TRADUÇÃO: premeditado/planejar algo com antecedência (especialmente um crime)
+预谋杀人 | TRADUÇÃO: homicídio premeditado
+预警 | TRADUÇÃO: alerta/alerta precoce
+预警机 | TRADUÇÃO: sistema de alerta aéreo antecipado, ex.: AWACS dos EUA
+预警系统 | TRADUÇÃO: sistema de alerta antecipado
+预购 | TRADUÇÃO: compra antecipada
+预赛 | TRADUÇÃO: competição preliminar/realizar eliminatórias preliminares
+预选 | TRADUÇÃO: pré-seleção/lista restrita/eleição primária
+预配 | TRADUÇÃO: pré-alocado/pré-cabeado
+预防 | TRADUÇÃO: prevenir/tomar precauções contra/proteger/guardar contra/precautório/profilático
+预防免疫 | TRADUÇÃO: inoculação profilática
+预防性 | TRADUÇÃO: profilático/preventivo/protetor
+预防接种 | TRADUÇÃO: inoculação profilática
+预防措施 | TRADUÇÃO: passo protetor/medida protetora
+预防法 | TRADUÇÃO: profilaxia/prevenção médica
+预防针 | TRADUÇÃO: injeção de imunização/(fig.) aviso prévio/alerta/medida preventiva
+顽 | TRADUÇÃO: travesso/obstinado/brincar/estúpido/teimoso/levado
+顽劣 | TRADUÇÃO: teimoso e turbulento/levado e travesso
+顽匪 | TRADUÇÃO: bandido/foragido
+顽固 | TRADUÇÃO: teimoso; obstinado
+顽强 | TRADUÇÃO: tenaz/difícil de derrotar
+顽梗 | TRADUÇÃO: obstinado; teimoso; cabeça-dura
+顽民 | TRADUÇÃO: povo rebelde/súditos insubordinados/cidadãos desleais
+顽疾 | TRADUÇÃO: doença teimosa; doença crônica/(fig.) problema arraigado; questão sistêmica
+顽症 | TRADUÇÃO: ver 頑疾|顽疾
+顽皮 | TRADUÇÃO: travesso
+顽童 | TRADUÇÃO: moleque
+顽钝 | TRADUÇÃO: rombudo (instrumento)/estúpido/insensível
+颁 | TRADUÇÃO: promulgar/enviar/emitir/conceder ou outorgar
+颁布 | TRADUÇÃO: emitir/proclamar/decretar (leis, decretos etc.)
+颁授 | TRADUÇÃO: conferir (ex.: um diploma); conceder
+颁奖 | TRADUÇÃO: conferir um prêmio
+颁发 | TRADUÇÃO: emitir/promulgar/conceder
+颁白 | TRADUÇÃO: variante de 斑白
+颁示 | TRADUÇÃO: tornar público/exibir
+颁给 | TRADUÇÃO: conceder a; agraciar (alguém)
+颁行 | TRADUÇÃO: emitir para execução
+颁赐 | TRADUÇÃO: conceder (uma medalha etc.)
+颁赏 | TRADUÇÃO: conceder um prêmio ou recompensa/um prêmio
+顿 | TRADUÇÃO: parar/pausar/arrumar/dispor/fazer uma reverência de cabeça no chão/bater (o pé)/imediatamente/classificador para refeições, surras, broncas etc.: vez, rodada, surra, refeição
+顿悟 | TRADUÇÃO: um lampejo de realização/a verdade num lampejo/um momento de iluminação (geralmente budista)
+顿挫 | TRADUÇÃO: uma transição (pausa e mudança) no som falado, música ou traços de pincel/cadência/pontuado por uma transição/com cadência sincopada (traço de pincel na pintura)
+顿挫抑扬 | TRADUÇÃO: cadência/modulação
+顿时 | TRADUÇÃO: imediatamente; de repente
+顿河 | TRADUÇÃO: Rio Dom
+顿涅斯克 | TRADUÇÃO: região de Donetsk, no oeste da Ucrânia
+顿涅茨克 | TRADUÇÃO: Donetsk, cidade na Ucrânia
+顿然 | TRADUÇÃO: de repente/repentinamente/abruptamente
+顿号 | TRADUÇÃO: vírgula de enumeração (、) (usada para separar palavras ou frases numa lista)
+顿觉 | TRADUÇÃO: sentir de repente/perceber abruptamente
+顿足 | TRADUÇÃO: bater (os pés)/pisar com força
+顿首 | TRADUÇÃO: kowtow (prostrar-se tocando a testa no chão)
+𬱖 | TRADUÇÃO: fino/bom/belo
+頖 | TRADUÇÃO: dispersar
+颇 | TRADUÇÃO: sobrenome Po/leitura em Taiwan: [Po3] ‖ bastante/razoavelmente/consideravelmente/oblíquo/inclinado/oblíquo/Taiwan: [po3]
+颇具 | TRADUÇÃO: bastante/razoavelmente/ter muito
+颇多 | TRADUÇÃO: (bastante) muito/muitos
+颇为 | TRADUÇÃO: bastante/razoavelmente
+领 | TRADUÇÃO: pescoço/gola/liderar/receber/classificador para roupas, esteiras, telas etc.
+领主 | TRADUÇÃO: senhor feudal;suserano;soberano
+领事 | TRADUÇÃO: cônsul
+领事馆 | TRADUÇÃO: consulado
+领便当 | TRADUÇÃO: veja 領盒飯|领盒饭
+领先 | TRADUÇÃO: liderar/estar na frente
+领先地位 | TRADUÇÃO: posição de liderança
+领到 | TRADUÇÃO: receber
+领取 | TRADUÇÃO: receber; retirar; obter
+领受 | TRADUÇÃO: aceitar/receber
+领口 | TRADUÇÃO: gola/colarinho/decote/o local onde as duas pontas de uma gola se encontram
+领命 | TRADUÇÃO: aceitar uma ordem
+领唱 | TRADUÇÃO: liderar um coro/regente/cantor principal
+领土 | TRADUÇÃO: território
+领土完整 | TRADUÇÃO: integridade territorial
+领地 | TRADUÇÃO: território; domínio; propriedade/(antigo) feudo
+领域 | TRADUÇÃO: domínio; esfera; campo; território; área
+领子 | TRADUÇÃO: gola de camisa
+领导 | TRADUÇÃO: liderar/líder/liderança/líder/CL:位,個|个
+领导人 | TRADUÇÃO: líder
+领导力 | TRADUÇÃO: liderança (capacidade de liderar)
+领导小组 | TRADUÇÃO: pequeno grupo dirigente (LSG), órgão do PCC que exerce supervisão geral sobre assuntos de uma área específica (LSG para assuntos externos 外事工作, LSG para aprofundar integralmente as reformas 全面深化改革, etc.)/também chamado de grupo dirigente central
+领导层 | TRADUÇÃO: classe dominante/líderes (da sociedade)/oligarquia
+领导权 | TRADUÇÃO: autoridade de liderança
+领导班子 | TRADUÇÃO: grupo de liderança; a liderança
+领导统御 | TRADUÇÃO: (Taiwan) liderança
+领导者 | TRADUÇÃO: líder
+领导能力 | TRADUÇÃO: capacidade de liderança
+领导集体 | TRADUÇÃO: grupo de liderança/coletivo de líderes
+领属 | TRADUÇÃO: ter uma relação hierárquica (de posse ou supervisão)
+领岩鹨 | TRADUÇÃO: (espécie de ave da China) ferreirinha-alpina (Prunella collaris)
+领工 | TRADUÇÃO: trabalhar como capataz/capataz/supervisor
+领巾 | TRADUÇÃO: lenço de pescoço/lenço de bandeirante
+领带 | TRADUÇÃO: gravata/CL:條|条
+领悟 | TRADUÇÃO: compreender/entender
+领悟力 | TRADUÇÃO: compreensão/percepção/sentimento
+领情 | TRADUÇÃO: sentir gratidão a alguém/apreciar a gentileza
+领扣 | TRADUÇÃO: botão de colarinho
+领收 | TRADUÇÃO: aceitar (um favor)/receber
+领教 | TRADUÇÃO: muito obrigado/agradecido/pedir conselho/(de forma irônica ou humorística) experimentar/saborear
+领料 | TRADUÇÃO: recebimento de materiais
+领料单 | TRADUÇÃO: formulário de requisição de materiais
+领会 | TRADUÇÃO: entender/compreender/assimilar
+领有 | TRADUÇÃO: possuir/ter
+领死 | TRADUÇÃO: render-se à execução; (fig.) apresentar-se para assumir a culpa; enfrentar punição
+领洗 | TRADUÇÃO: ser batizado
+领海 | TRADUÇÃO: águas territoriais
+领燕鸻 | TRADUÇÃO: (espécie de ave da China) perdiz-do-mar (Glareola pratincola)
+领奖 | TRADUÇÃO: receber um prêmio
+领奖台 | TRADUÇÃO: pódio (de vencedor)
+领班 | TRADUÇÃO: supervisor/capataz/chefe de garçons
+领略 | TRADUÇÃO: provar/experimentar/realizar/apreciar
+领盒饭 | TRADUÇÃO: (coloq.) (de um ator com papel secundário) receber uma marmita quando o trabalho termina (expressão usada, por ex., por espectadores quando um personagem morre)
+领空 | TRADUÇÃO: espaço aéreo territorial
+领章 | TRADUÇÃO: distintivo de colarinho
+领结 | TRADUÇÃO: gravata borboleta/laço de gravata/lavalière
+领罪 | TRADUÇÃO: confessar a culpa/aceitar a punição
+领航 | TRADUÇÃO: navegação/navegador/navegar
+领航员 | TRADUÇÃO: navegador
+领英 | TRADUÇÃO: LinkedIn (rede profissional de networking)
+领袖 | TRADUÇÃO: líder
+领角鸮 | TRADUÇÃO: (espécie de ave da China) corujinha-de-colar (Otus lettia)
+领诺 | TRADUÇÃO: consentimento
+领证 | TRADUÇÃO: obter um certificado ou licença etc./(espec.) obter certidão de casamento; casar
+领走 | TRADUÇÃO: liderar (alguém ou um animal) para longe/recolher (ex.: uma criança deixada sob os cuidados de alguém)/levar embora
+领跑 | TRADUÇÃO: assumir a liderança numa corrida/marcar o ritmo
+领路 | TRADUÇÃO: guiar o caminho
+领军 | TRADUÇÃO: liderar tropas/(fig.) liderar/líder
+领衔 | TRADUÇÃO: papel principal (função)/encabeçar lista de signatários/atores principais (num espetáculo)/estrelar
+领衔主演 | TRADUÇÃO: atores principais (num espetáculo)/estrelar
+领队 | TRADUÇÃO: liderar um grupo/líder de um grupo/capitão (de equipe esportiva)
+领雀嘴鹎 | TRADUÇÃO: (espécie de ave da China) bico-grosso-de-colar (Spizixos semitorques)
+领头 | TRADUÇÃO: tomar a iniciativa/ser o primeiro a começar
+领头羊 | TRADUÇÃO: líder/guia
+领养 | TRADUÇÃO: adotar (uma criança, animal de estimação etc.)
+领馆 | TRADUÇÃO: consulado/funcionário consular
+领鸺鹠 | TRADUÇÃO: (espécie de ave da China) corujinha-de-colar (Taenioptynx brodiei)
+领鵙鹛 | TRADUÇÃO: (espécie de ave da China) tagarela-de-colar (Gampsorhynchus torquatus)
+頚 | TRADUÇÃO: variante antiga de 頸|颈
+颌 | TRADUÇÃO: (forma presa) mandíbula
+頞 | TRADUÇÃO: junção do nariz e da testa
+额 | TRADUÇÃO: variante de 額|额 ‖ testa/placa horizontal ou tábua inscrita/número ou quantia especificada
+𬱟 | TRADUÇÃO: porte tranquilo da cabeça
+颉 | TRADUÇÃO: sobrenome Xie ‖ usado em 倉頡|仓颉 ‖ (de um pássaro) voar para cima/(do pescoço) rígido
+颐 | TRADUÇÃO: (literário) queixo; mandíbula/(literário) fomentar; nutrir; proteger
+颐和园 | TRADUÇÃO: Palácio de Verão em Pequim
+颐性养寿 | TRADUÇÃO: cuidar do espírito e manter a forma (expressão idiomática)
+颐指 | TRADUÇÃO: ordenar com o queixo/indicar o que se quer por gestos faciais
+颐指气使 | TRADUÇÃO: dar ordens apontando o queixo (expressão idiomática)/dar ordens com gestos faciais/arrogante e mandão
+颐指风使 | TRADUÇÃO: dar ordens apontando o queixo (expressão idiomática)/dar ordens com gestos faciais/arrogante e mandão
+颐养 | TRADUÇÃO: nutrir/fortalecer/vigorar
+颐养天年 | TRADUÇÃO: nutrir os anos de alguém (literário) /fig. desfrutar os anos de velhice
+颏 | TRADUÇÃO: queixo ‖ (usado em nomes de aves) garganta
+𫖯 | TRADUÇÃO: variante de 俯
+頬 | TRADUÇÃO: variante de 頰|颊
+头 | TRADUÇÃO: cabeça/penteado/topo/extremidade/começo ou fim/toco/resto/chefe/patrão/lado/aspecto/primeiro/líder/classificador para porcos ou gado/CL:個|个 ‖ sufixo para substantivos
+头一 | TRADUÇÃO: o primeiro
+头一回 | TRADUÇÃO: a primeira vez/pela primeira vez
+头七 | TRADUÇÃO: o 7º dia após a morte de uma pessoa/o primeiro período de 7 dias após a morte de uma pessoa
+头上 | TRADUÇÃO: acima/no alto
+头份 | TRADUÇÃO: Toufen, cidade no condado de Miaoli, noroeste de Taiwan
+头份镇 | TRADUÇÃO: cidade de Toufen, no condado de Miaoli, noroeste de Taiwan
+头伏 | TRADUÇÃO: veja 初伏
+头位 | TRADUÇÃO: (corrida de carros) pole position/(obstetrícia) apresentação cefálica (parto de cabeça)
+头信息 | TRADUÇÃO: cabeçalho (informática)
+头倒立 | TRADUÇÃO: parada de cabeça
+头像 | TRADUÇÃO: retrato/busto/(informática) foto de perfil; avatar
+头儿 | TRADUÇÃO: líder
+头儿脑儿 | TRADUÇÃO: figura de proa; figurão
+头兜 | TRADUÇÃO: capacete/cota de malha pendurada da cabeça para proteger o pescoço
+头冠 | TRADUÇÃO: coroa/topo da cabeça
+头功 | TRADUÇÃO: mérito de primeira classe
+头午 | TRADUÇÃO: (dialeto) manhã
+头半天 | TRADUÇÃO: manhã/primeira metade do dia
+头半天儿 | TRADUÇÃO: variante erhua de 頭半天|头半天
+头名 | TRADUÇÃO: primeiro lugar/líder (de uma corrida)
+头向前 | TRADUÇÃO: de cabeça
+头回 | TRADUÇÃO: pela primeira vez/na ocasião anterior/última vez (que algo ocorreu)
+头城 | TRADUÇÃO: Toucheng, cidade no condado de Yilan, Taiwan
+头城镇 | TRADUÇÃO: cidade de Toucheng, no condado de Yilan, Taiwan
+头大 | TRADUÇÃO: ter cabeça grande/(fig.) ficar com dor de cabeça/a cabeça de alguém está girando
+头天 | TRADUÇÃO: ontem; dia anterior/primeiro dia
+头套 | TRADUÇÃO: toucado de ator/peruca/cobertura para a cabeça
+头子 | TRADUÇÃO: chefão/líder de gangue
+头孢 | TRADUÇÃO: (farm.) cefalosporina
+头孢噻吩 | TRADUÇÃO: (farm.) cefalotina (também conhecida como cefalotina)
+头孢拉定 | TRADUÇÃO: (farm.) cefradina (também conhecida como cefradina)
+头孢菌素 | TRADUÇÃO: (farm.) cefalosporina
+头家 | TRADUÇÃO: organizador de uma mesa de jogo que recebe uma comissão dos ganhos/banca (jogo)/jogador anterior (num jogo)/(dialeto) patrão/proprietário
+头寸 | TRADUÇÃO: (finanças) posição de caixa; posição
+头对头 | TRADUÇÃO: (de ensaio clínico) frente a frente
+头屋 | TRADUÇÃO: Touwu, distrito no condado de Miaoli, noroeste de Taiwan
+头屋乡 | TRADUÇÃO: distrito de Touwu, no condado de Miaoli, noroeste de Taiwan
+头屯河 | TRADUÇÃO: veja 頭屯河區|头屯河区
+头屯河区 | TRADUÇÃO: Toutunhe, um distrito da cidade de Ürümqi, Xinjiang
+头巾 | TRADUÇÃO: touca de pano usada por homens na antiguidade/lenço de cabeça (tipicamente usado por mulheres)/cachecol de cabeça/turbante
+头座 | TRADUÇÃO: cabeçote/cabeça giratória de um parafuso, broca, torno etc
+头彩 | TRADUÇÃO: primeiro prêmio na loteria
+头悬梁，锥刺股 | TRADUÇÃO: (expressão idiomática) lit. com a cabeça presa a uma viga e furando a coxa com um furador/fig. estudar de forma aplicada e incansável
+头戴式耳机 | TRADUÇÃO: fones de ouvido
+头挡 | TRADUÇÃO: primeira marcha
+头文字 | TRADUÇÃO: inicial/primeira letra de palavra (em escrita latina)
+头昏 | TRADUÇÃO: tonto/vertiginoso/a cabeça de alguém gira
+头昏目晕 | TRADUÇÃO: veja 頭昏目眩|头昏目眩
+头昏目眩 | TRADUÇÃO: (expressão idiomática) atordoado/tonto
+头昏眼晕 | TRADUÇÃO: cabeça girando e visão turva/tonto/em desmaio
+头昏眼暗 | TRADUÇÃO: cabeça girando e olhos escuros (expressão idiomática); tonto/desmaiando/vertigem
+头昏眼花 | TRADUÇÃO: desmaiar com visão turva (expressão idiomática); tonto e com a visão escurecida
+头昏脑闷 | TRADUÇÃO: desmaiando e tonto/a cabeça de alguém gira
+头昏脑涨 | TRADUÇÃO: variante de 頭昏腦脹|头昏脑胀
+头昏脑眩 | TRADUÇÃO: vertiginoso/faz a cabeça de alguém girar
+头昏脑胀 | TRADUÇÃO: (expressão idiomática) sentir tontura; sentir vertigem; a cabeça de alguém gira
+头晚 | TRADUÇÃO: noite anterior
+头晕 | TRADUÇÃO: tonto
+头晕目眩 | TRADUÇÃO: (expressão idiomática) ter um lapso de tontura; deslumbrado
+头晕眼花 | TRADUÇÃO: desmaiar com visão turva (expressão idiomática); tonto e com a visão escurecida
+头晕脑涨 | TRADUÇÃO: variante de 頭暈腦脹|头晕脑胀
+头晕脑胀 | TRADUÇÃO: tonto e com a cabeça leve
+头朝下 | TRADUÇÃO: (caindo ou suspenso) de cabeça para baixo; de cabeça; de cabeça
+头期款 | TRADUÇÃO: entrada (pagamento inicial)
+头枕 | TRADUÇÃO: apoio de cabeça
+头条 | TRADUÇÃO: Toutiao, aplicativo de recomendação de conteúdo personalizado (abrev. de 今日頭條|今日头条) ‖ notícia principal (no noticiário)
+头条新闻 | TRADUÇÃO: principal notícia
+头梳 | TRADUÇÃO: pente
+头款 | TRADUÇÃO: entrada (pagamento inicial)
+头汤 | TRADUÇÃO: primeiro caldo, um caldo feito com ingredientes que podem ser reutilizados para fazer um segundo caldo 二湯|二汤
+头灯 | TRADUÇÃO: farol (de veículo)/lanterna de cabeça; lanterna frontal
+头版 | TRADUÇÃO: primeira página (de jornal)
+头牌 | TRADUÇÃO: tabuleta anunciando o nome do ator principal numa produção teatreal/por extensão, o papel principal
+头奖 | TRADUÇÃO: primeiro prêmio
+头球 | TRADUÇÃO: (futebol) cabeçada
+头疼 | TRADUÇÃO: dor de cabeça
+头痛 | TRADUÇÃO: ter dor de cabeça
+头痛欲裂 | TRADUÇÃO: ter uma dor de cabeça terrível (expressão idiomática)
+头痛医头 | TRADUÇÃO: tratar os sintomas/reativo (em vez de proativo)
+头痛医头，脚痛医脚 | TRADUÇÃO: tratar os sintomas em vez de chegar à raiz do problema (provérbio)/reativo (em vez de proativo)
+头癣 | TRADUÇÃO: favo do couro cabeludo (doença de pele)
+头皮 | TRADUÇÃO: couro cabeludo
+头皮屑 | TRADUÇÃO: caspa
+头盔 | TRADUÇÃO: capacete
+头目 | TRADUÇÃO: cabeça/chefe de gangue/cacique
+头破血流 | TRADUÇÃO: lit. cabeça quebrada e sangue fluindo/fig. severamente ferido
+头等 | TRADUÇÃO: primeira classe/principal/primordial
+头等舱 | TRADUÇÃO: cabine de primeira classe
+头箍 | TRADUÇÃO: faixa de cabeça
+头箍儿 | TRADUÇÃO: forma erhua de 頭箍|头箍
+头纱 | TRADUÇÃO: véu de noiva/lenço ou véu de gaze para a cabeça
+头索类 | TRADUÇÃO: anfioxo (Branchiostoma)
+头绪 | TRADUÇÃO: linhas gerais/pontos principais
+头绳 | TRADUÇÃO: elástico/cordão para amarrar o cabelo
+头罩 | TRADUÇÃO: rede de cabelo/capuz/cogula
+头羊 | TRADUÇÃO: carneiro-guia/líder do rebanho/(fig.) líder
+头胸部 | TRADUÇÃO: cefalotórax
+头胀 | TRADUÇÃO: distensão na cabeça (MTC)
+头脑 | TRADUÇÃO: cérebro/mente/crânio/(fig.) cerne (de um assunto)/líder/chefe
+头脑清楚 | TRADUÇÃO: lúcido/raciocínio claro/sensato
+头脑发胀 | TRADUÇÃO: inchaço da cabeça (condição física)/(fig.) enfatuado/convencido
+头脑简单四肢发达 | TRADUÇÃO: só músculo, sem cérebro
+头脑风暴 | TRADUÇÃO: tempestade de ideias/brainstorming
+头脸 | TRADUÇÃO: cabeça e rosto
+头脸儿 | TRADUÇÃO: variante com erhua de 頭臉|头脸
+头盖 | TRADUÇÃO: crânio/caveira
+头盖骨 | TRADUÇÃO: crânio/caveira
+头号 | TRADUÇÃO: de primeira linha/melhor/número um
+头号字 | TRADUÇÃO: tipo de letra maior/letras maiores
+头虱 | TRADUÇÃO: piolho da cabeça
+头角 | TRADUÇÃO: talento do jovem/brilhantismo da juventude
+头角峥嵘 | TRADUÇÃO: promessa de um jovem brilhante (expressão idiomática); que demonstra talento extraordinário
+头足纲 | TRADUÇÃO: cefalópodes, classe de moluscos que inclui náutilos e lulas
+头路 | TRADUÇÃO: pista/fio condutor (de uma história)/companheiro/primeira classe
+头道 | TRADUÇÃO: primeira vez/primeiro (rodada, curso, demão de tinta etc.)
+头部 | TRADUÇÃO: cabeça
+头里 | TRADUÇÃO: na frente/à frente dos demais
+头重 | TRADUÇÃO: desequilíbrio/instabilidade/peso na cabeça (condição médica)
+头重脚轻 | TRADUÇÃO: pesado na cabeça e leve nos pés/(fig.) desequilíbrio na organização ou estrutura política
+头衔 | TRADUÇÃO: título/patente/denominação
+头铁 | TRADUÇÃO: (gíria) teimoso; cabeça-dura
+头陀 | TRADUÇÃO: monge itinerante (empréstimo do sânscrito)
+头面 | TRADUÇÃO: adereço de cabeça (antigamente)/(literário) cabeça/rosto/aparência
+头面人物 | TRADUÇÃO: figura de proa/personagem importante
+头顶 | TRADUÇÃO: alto da cabeça/topo da cabeça
+头领 | TRADUÇÃO: chefe/líder
+头头 | TRADUÇÃO: chefe/líder
+头头是道 | TRADUÇÃO: claro e lógico
+头颈 | TRADUÇÃO: (dialetal) pescoço
+头显 | TRADUÇÃO: HMD; display montado na cabeça (abreviatura de 頭戴式顯示器|头戴式显示器)
+头颅 | TRADUÇÃO: cabeça/crânio
+头风 | TRADUÇÃO: dor de cabeça (medicina chinesa)
+头饰 | TRADUÇÃO: adereço de cabeça
+头香 | TRADUÇÃO: primeiro bastão de incenso colocado no queimador (acredita-se que traz boa sorte, especialmente durante festividades)/(gíria) (Taiwan) primeiro comentário em um post de blog etc.
+头骨 | TRADUÇÃO: crânio
+头发 | TRADUÇÃO: cabelo (da cabeça)
+头发胡子一把抓 | TRADUÇÃO: (lit.) cabelo e barba tudo de uma vez/(fig.) lidar com coisas diferentes com o mesmo método/um método para resolver todos os problemas/tamanho único
+頯 | TRADUÇÃO: osso da bochecha/protuberante
+颊 | TRADUÇÃO: bochechas
+颊窝 | TRADUÇÃO: covinha/fosseta sensorial térmica facial de uma cobra
+颋 | TRADUÇÃO: testa estreita
+頳 | TRADUÇÃO: variante antiga de 赬|赪
+颕 | TRADUÇÃO: variante antiga de 穎|颖
+颔 | TRADUÇÃO: queixo/assentir (com a cabeça)
+颔下 | TRADUÇÃO: sob o queixo
+颔下腺 | TRADUÇÃO: glândulas submaxilares (biologia)
+颔联 | TRADUÇÃO: terceiro e quarto versos (num poema de oito linhas) que formam um dístico
+颔首 | TRADUÇÃO: assentir com a cabeça
+颔首之交 | TRADUÇÃO: conhecido de vista
+颈 | TRADUÇÃO: usado em 脖頸|脖颈 ‖ pescoço
+颈动脉 | TRADUÇÃO: artéria carótida (medicina)
+颈圈 | TRADUÇÃO: coleira (animal)
+颈子 | TRADUÇÃO: pescoço
+颈椎 | TRADUÇÃO: vértebra cervical/as sete vértebras cervicais no pescoço de humanos e da maioria dos mamíferos
+颈椎病 | TRADUÇÃO: espondilose cervical
+颈背 | TRADUÇÃO: nuca
+颈部 | TRADUÇÃO: pescoço
+颈链 | TRADUÇÃO: colar (joia)
+颈项 | TRADUÇÃO: pescoço
+颓势 | TRADUÇÃO: declínio (na sorte)
+颓唐 | TRADUÇÃO: desanimado/deprimido
+颓丧 | TRADUÇÃO: abatido/desalentado/desanimado
+颓圮 | TRADUÇÃO: desmoronar/em ruínas
+颓垣断壁 | TRADUÇÃO: (lit.) muros reduzidos a escombros (expressão idiomática)/(fig.) cena de devastação/ruínas
+颓塌 | TRADUÇÃO: desmoronar/colapsar
+颓坏 | TRADUÇÃO: dilapidado/decrepito
+颓废 | TRADUÇÃO: decadente/desanimado/deprimido/abatido
+颓废派 | TRADUÇÃO: decadentes (do movimento decadente do final do século XIX na Europa)
+颓放 | TRADUÇÃO: decadente/dissoluto/degenerado
+颓败 | TRADUÇÃO: decair/declinar/tornar-se corrupto
+颓景 | TRADUÇÃO: cena de dilapidação
+颓朽 | TRADUÇÃO: decrépito/podre/em ruínas
+颓然 | TRADUÇÃO: decrépito/arrumado/decepcionado
+颓老 | TRADUÇÃO: velho e decrépito/senil
+颓萎 | TRADUÇÃO: letárgico/desanimado
+颓运 | TRADUÇÃO: destino em ruínas/sorte em declínio
+颓靡 | TRADUÇÃO: (literário) devastado
+颓风 | TRADUÇÃO: costume degenerado/caminhos decadentes
+频 | TRADUÇÃO: frequência/frequentemente/repetitivo
+频仍 | TRADUÇÃO: frequente
+频宽 | TRADUÇÃO: (Taiwan) largura de banda
+频带 | TRADUÇÃO: faixa de frequência/largura de banda
+频度 | TRADUÇÃO: frequência
+频数 | TRADUÇÃO: frequência ‖ (literário) frequente; repetido
+频数分布 | TRADUÇÃO: distribuição de frequência
+频次 | TRADUÇÃO: frequência
+频段 | TRADUÇÃO: banda (de rádio)/faixa de frequência
+频率 | TRADUÇÃO: frequência
+频率合成 | TRADUÇÃO: síntese de frequência
+频率调制 | TRADUÇÃO: modulação por frequência
+频发 | TRADUÇÃO: (geralmente de coisas ruins) ocorrer frequentemente; acontecer com frequência
+频繁 | TRADUÇÃO: frequentemente/com frequência
+频谱 | TRADUÇÃO: espectro de frequência/espectro/espectrograma
+频道 | TRADUÇÃO: frequência/canal de televisão
+频频 | TRADUÇÃO: repetidamente/vez após vez/continuamente/constantemente
+颗 | TRADUÇÃO: classificador para pequenas esferas, pérolas, grãos de milho, dentes, corações, satélites etc.
+颗粒 | TRADUÇÃO: grânulo/partícula granulada (açúcar, produto químico)
+颗粒归仓 | TRADUÇÃO: recolher todo o grão colhido para o celeiro; colher cada grão
+颗粒无收 | TRADUÇÃO: não colher um único grão (como em um ano de má colheita)
+颗粒物 | TRADUÇÃO: material particulado (MP)
+题 | TRADUÇÃO: sobrenome Ti ‖ tópico/problema para discussão/pergunta de exame/assunto/inscrever/mencionar/CL:個|个,道
+题名 | TRADUÇÃO: autógrafo/assinar o nome
+题外话 | TRADUÇÃO: comentário fora do tópico; digressão
+题字 | TRADUÇÃO: escrever uma inscrição (poema, observação, autógrafo etc.)/uma inscrição
+题写 | TRADUÇÃO: criar uma obra de caligrafia para exibição em local de destaque (tipicamente, uma placa)
+题序 | TRADUÇÃO: compor um prefácio (ou observações introdutórias, etc.)/ordem das questões (ou seções) (numa prova)/número da questão (ou seção)
+题库 | TRADUÇÃO: banco de questões (para examinadores criar uma prova, ou estudantes se preparar para um exame)
+题意 | TRADUÇÃO: significado de um título/implicação/tema
+题旨 | TRADUÇÃO: tema de obra literária
+题材 | TRADUÇÃO: assunto (de obra artística ou literária)
+题献 | TRADUÇÃO: dedicar (um livro, filme etc. a alguém)
+题目 | TRADUÇÃO: assunto; título; tópico/pergunta de exercício ou exame (CL:道)
+题签 | TRADUÇÃO: escrever o título de um livro em uma etiqueta
+题花 | TRADUÇÃO: design de título
+题解 | TRADUÇÃO: notas/chave (para exercícios)
+题记 | TRADUÇÃO: epígrafe/inscrição/grafite
+题词 | TRADUÇÃO: inscrição/dedicatória
+题诗 | TRADUÇÃO: inscrever um poema (muitas vezes composto na hora) numa pintura, leque ou tigela de cerâmica etc. como obra de caligrafia/um poema inscrito
+题跋 | TRADUÇÃO: comentário curto/prefácio e posfácio
+额吉 | TRADUÇÃO: mãe (mongol)
+额外 | TRADUÇÃO: extra/adicionado/adicional
+额外性 | TRADUÇÃO: adicionalidade (economia)
+额外补贴 | TRADUÇÃO: dar um subsídio extra, ou bônus etc./bônus/regalia
+额定 | TRADUÇÃO: especificado (capacidade, produção etc.)/nominal (capacidade, produção etc.)
+额定值 | TRADUÇÃO: valor nominal; classificação (para potência, resistência a chamas etc.)
+额度 | TRADUÇÃO: cota/limite de crédito
+额敏 | TRADUÇÃO: veja 額敏縣|额敏县
+额敏县 | TRADUÇÃO: Condado de Emin, na Prefeitura de Tacheng 塔城地區|塔城地区, Xinjiang
+额比河 | TRADUÇÃO: Rio Ebinur em Xinjiang
+额济纳 | TRADUÇÃO: Bandeira de Ejin na Liga Alxa 阿拉善盟, Mongólia Interior (anteriormente em Gansu 1969-1979)
+额济纳旗 | TRADUÇÃO: Bandeira de Ejin na Liga Alxa 阿拉善盟, Mongólia Interior (anteriormente em Gansu 1969-1979)
+额济纳河 | TRADUÇÃO: Rio Ejin na Liga Alxa 阿拉善盟, Mongólia Interior
+额尔古纳 | TRADUÇÃO: veja 額爾古納市|额尔古纳市
+额尔古纳市 | TRADUÇÃO: Ergun, cidade a nível de condado na Cidade de Hulunbuir 呼倫貝爾市|呼伦贝尔市, Mongólia Interior
+额尔古纳河 | TRADUÇÃO: Rio Argun, da Mongólia e província de Heilongjiang, afluente do Rio Heilongjiang 黑龍江|黑龙江
+额尔金 | TRADUÇÃO: James Bruce, 8º Conde de Elgin (1811-1863), Alto Comissário Britânico na China que ordenou o saque e destruição do Antigo Palácio de Verão Yuanmingyuan 圓明園|圆明园 em 1860/Thomas Bruce, 7º Conde de Elgin (1766-1841), que roubou os Mármores do Partenon em 1801-1810
+额尔齐斯河 | TRADUÇÃO: Rio Irtysh, que flui do sudoeste de Altai em Xinjiang através do Cazaquistão e Sibéria até o Oceano Ártico
+额窦 | TRADUÇÃO: seio frontal
+额菲尔士 | TRADUÇÃO: Everest (nome)/Coronel Sir George Everest (1790-1866), Agrimensor-Geral Britânico da Índia 1830-1843/(Monte) Everest
+额菲尔士峰 | TRADUÇÃO: Monte Everest
+额叶 | TRADUÇÃO: lobo frontal
+额角 | TRADUÇÃO: testa/têmporas
+额头 | TRADUÇÃO: testa
+额骨 | TRADUÇÃO: osso frontal (testa)
+颚 | TRADUÇÃO: mandíbula/palato
+颚裂 | TRADUÇÃO: fissura palatina (defeito de nascença)
+颚部 | TRADUÇÃO: mandíbula
+颚龈音 | TRADUÇÃO: som pré-palatal ou palatal (linguística)/consoante palato-alveolar (linguística)
+颜 | TRADUÇÃO: sobrenome Yan ‖ cor/rosto/semblante
+颜值 | TRADUÇÃO: índice de atratividade (classificação de quão bonito alguém é)
+颜值高 | TRADUÇÃO: bonito/de boa aparência
+颜厚 | TRADUÇÃO: impudente
+颜厚有忸怩 | TRADUÇÃO: até a pessoa mais impudente às vezes sentirá vergonha (expressão idiomática)
+颜回 | TRADUÇÃO: Yan Hui (521-481 a.C.), discípulo de Confúcio, também conhecido como Yan Yuan 顏淵|颜渊
+颜射 | TRADUÇÃO: ejacular no rosto de alguém
+颜控 | TRADUÇÃO: alguém que atribui grande importância à boa aparência (especialmente nos outros)
+颜文字 | TRADUÇÃO: emoticon no estilo japonês, ex.: (⇀‸↼‶)
+颜料 | TRADUÇÃO: tinta/corante/pigmento
+颜渊 | TRADUÇÃO: Yan Yuan (521-481 a.C.), discípulo de Confúcio 孔夫子, também conhecido como 顏回|颜回
+颜真卿 | TRADUÇÃO: Yan Zhenqing (709-785), importante calígrafo da Dinastia Tang
+颜色 | TRADUÇÃO: cor/semblante/aparência/expressão facial/pigmento/tingimento
+颜艺 | TRADUÇÃO: (ACG) arte de fazer expressões faciais exageradas e humorísticas (empréstimo do japonês 顔芸 "kaogei")
+颜面 | TRADUÇÃO: rosto/prestígio
+颜面扫地 | TRADUÇÃO: fig. ter o rosto no chão/estar completamente desacreditado (expressão idiomática)
+颜体 | TRADUÇÃO: Estilo Yan (na caligrafia chinesa)
+顑 | TRADUÇÃO: amarelo
+颙 | TRADUÇÃO: grandioso/majestoso/justo/severo
+颛 | TRADUÇÃO: sobrenome Zhuan ‖ bom/simples
+颛顼 | TRADUÇÃO: Zhuanxu, um dos Cinco Imperadores Lendários 五帝, neto do Imperador Amarelo 黃帝|黄帝, trad. reinou 2513-2435 a.C.
+𫖮 | TRADUÇÃO: agradável/maneira respeitosa
+愿心 | TRADUÇÃO: um desejo/um pedido (a uma divindade)
+愿意 | TRADUÇÃO: desejar/querer/pronto/disposto (a fazer algo)
+愿景 | TRADUÇÃO: visão (do futuro)
+愿望 | TRADUÇÃO: desejo/vontade
+愿闻其详 | TRADUÇÃO: eu gostaria de ouvir os detalhes
+愿赌服输 | TRADUÇÃO: fig. se você concorda em apostar, deve aceitar perder
+颡 | TRADUÇÃO: (literário) testa
+顚 | TRADUÇÃO: variante de 顛|颠
+颠 | TRADUÇÃO: topo (da cabeça)/ápice/cair para frente/invertido/sacudir
+颠三倒四 | TRADUÇÃO: confuso/desordenado/incoerente
+颠来倒去 | TRADUÇÃO: repisar/repetidamente/meramente variar alguns termos
+颠倒 | TRADUÇÃO: virar de cabeça para baixo/reverter/ao contrário/confuso/perturbado/louco
+颠倒是非 | TRADUÇÃO: (expressão idiomática) distorcer o certo e o errado; enganar deliberadamente
+颠倒黑白 | TRADUÇÃO: fig. inverter deliberadamente a verdade/distorcer os fatos/inverter o certo e o errado
+颠儿 | TRADUÇÃO: (dialeto de Pequim) dar o fora; sumir
+颠儿丫子 | TRADUÇÃO: veja 顛兒|颠儿
+颠儿面 | TRADUÇÃO: perder a face
+颠峰 | TRADUÇÃO: variante de 巔峰|巅峰
+颠扑不破 | TRADUÇÃO: sólido; inquebrável/(fig.) irrefutável; incontestável; indiscutível
+颠沛 | TRADUÇÃO: cair; tropeçar/(fig.) sofrer dificuldades; estar em apuros desesperados
+颠沛流离 | TRADUÇÃO: sem-teto e miserável (expressão idiomática); vagar em situação desesperadora/andar à deriva
+颠狂 | TRADUÇÃO: demente
+颠球 | TRADUÇÃO: fazer embaixadinhas (com bola de futebol, usando os pés, coxas, cabeça etc.)/(no tênis de mesa, badminton etc.) manter a bola no ar quicando-a repetidamente na raquete
+颠簸 | TRADUÇÃO: ser sacolejado (carro em estrada esburacada, barco em mar agitado, avião em turbulência)/(fig.) passar por uma experiência difícil
+颠茄 | TRADUÇÃO: beladona (Atropa belladonna)
+颠覆 | TRADUÇÃO: derrubar/virar/fig. derrubar (um regime, por conspiração ou subversão)/minar/subverter
+颠覆分子 | TRADUÇÃO: subversivo(a); sabotador(a)
+颠覆国家罪 | TRADUÇÃO: crime de incitação à derrubada do Estado/abrev. de 煽動顛覆國家政權
+颠覆政府罪 | TRADUÇÃO: crime de incitação à derrubada do governo/abrev. de 煽動顛覆國家政權
+颠覆罪 | TRADUÇÃO: crime de incitação à derrubada do Estado/abrev. de 煽動顛覆國家政權
+颠踣 | TRADUÇÃO: cair/tombar para frente
+颠连 | TRADUÇÃO: ilógico
+颠颠 | TRADUÇÃO: contente e diligente
+颠鸾倒凤 | TRADUÇÃO: ter relações sexuais
+顜 | TRADUÇÃO: honesto/reto
+类 | TRADUÇÃO: tipo; classe; categoria/(classificador) tipo; espécie/(forma presa) assemelhar-se a; ser similar a
+类人猿 | TRADUÇÃO: hominídeo
+类似 | TRADUÇÃO: semelhante; análogo
+类似点 | TRADUÇÃO: semelhança
+类别 | TRADUÇÃO: classificação/categoria
+类同 | TRADUÇÃO: assemelhar-se a; ser similar a
+类器官 | TRADUÇÃO: organoide (medicina regenerativa)
+类固醇 | TRADUÇÃO: esteroide
+类地行星 | TRADUÇÃO: planeta telúrico
+类型 | TRADUÇÃO: tipo; categoria/(programação de computador) tipo
+类属词典 | TRADUÇÃO: tesauro
+类推 | TRADUÇÃO: raciocinar por analogia
+类星体 | TRADUÇÃO: quasar
+类书 | TRADUÇÃO: livro de referência composto de citações de muitas fontes, organizado por categoria (cerca de 600 foram compilados entre os séculos III e XVIII na China)
+类木行星 | TRADUÇÃO: planeta joviano
+类毒素 | TRADUÇÃO: toxoide
+类比 | TRADUÇÃO: analogia/(Taiwan) (eletrônica) analógico
+类乌齐 | TRADUÇÃO: ver 類烏齊縣
+类乌齐县 | TRADUÇÃO: Riwoche, um condado na cidade de Chamdo 昌都市, Tibete
+类球面 | TRADUÇÃO: esferoide prolato (mat.)
+类目 | TRADUÇÃO: categoria
+类篇 | TRADUÇÃO: Leipian, dicionário de caracteres chineses com 31.319 entradas, compilado por Sima Guang 司馬光 et al. no século XI
+类精神分裂型人格违常 | TRADUÇÃO: transtorno de personalidade esquizoide (TPE)
+类语辞典 | TRADUÇÃO: tesauro
+类金属 | TRADUÇÃO: metaloide (química)
+类风湿因子 | TRADUÇÃO: fator reumatoide
+类黄酮 | TRADUÇÃO: flavonoide (bioquímica)
+类鼻疽 | TRADUÇÃO: melioidose
+颟 | TRADUÇÃO: lento; preguiçoso
+顣 | TRADUÇÃO: franzir a testa
+颢 | TRADUÇÃO: (literário) branco e brilhante
+顾 | TRADUÇÃO: sobrenome Gu ‖ cuidar de; levar em consideração; atender a
+顾不上 | TRADUÇÃO: não conseguir cuidar de ou administrar
+顾不及 | TRADUÇÃO: (de alguém que está preocupado fazendo algo) não dar atenção a (uma consideração menos urgente)
+顾不得 | TRADUÇÃO: não conseguir mudar algo/não conseguir lidar com
+顾主 | TRADUÇÃO: (antigo) freguês
+顾全 | TRADUÇÃO: dar consideração cuidadosa a/demonstrar consideração por
+顾全大局 | TRADUÇÃO: levar em consideração o quadro geral (expressão idiomática)/trabalhar em benefício de todos
+顾及 | TRADUÇÃO: levar em consideração/atender a
+顾名思义 | TRADUÇÃO: como o nome sugere
+顾问 | TRADUÇÃO: conselheiro(a)/consultor(a)
+顾客 | TRADUÇÃO: freguês; cliente/CL:位
+顾客至上 | TRADUÇÃO: o cliente reina supremo (expressão idiomática)
+顾家 | TRADUÇÃO: cuidar da própria família
+顾左右而言他 | TRADUÇÃO: (expressão idiomática) divagar do tópico da discussão
+顾影自怜 | TRADUÇÃO: lit. olhar para a própria sombra e sentir pena de si mesmo (expressão idiomática)/fig. sozinho e abatido
+顾忌 | TRADUÇÃO: ter receio/apreensão/preocupação/ressalva/escrúpulo
+顾念 | TRADUÇÃO: importar-se com/preocupar-se com
+顾惜 | TRADUÇÃO: cuidar com amor/valorizar
+顾恺之 | TRADUÇÃO: Gu Kaizhi ou Ku K'aichih (346-407), famoso pintor da dinastia Jin Oriental, um dos Quatro Grandes Pintores das Seis Dinastias 六朝四大家
+顾虑 | TRADUÇÃO: receio; apreensão/preocupar-se com; importar-se com
+顾此失彼 | TRADUÇÃO: lit. atender a uma coisa e perder de vista outra (expressão idiomática)/fig. ser incapaz de administrar duas ou mais coisas ao mesmo tempo/não conseguir prestar atenção a uma coisa sem negligenciar a outra
+顾炎武 | TRADUÇÃO: Gu Yanwu (1613-1682), filósofo confucionista, linguista e historiador do final de Ming e início de Qing, desempenhou papel fundador na fonologia do chinês antigo, autor de Rizhilu ou Registro de estudo diário 日知錄
+顾盼 | TRADUÇÃO: (literário) olhar ao redor/(literário) importar-se com
+顾盼自雄 | TRADUÇÃO: pavonear-se sentindo-se satisfeito (expressão idiomática)
+顾眄 | TRADUÇÃO: virar a cabeça e olhar ao redor
+顾野王 | TRADUÇÃO: Gu Yewang (519-581), historiador e intérprete de textos clássicos, editor de Yupian 玉篇
+颤 | TRADUÇÃO: tremer/estremecer/balançar/vibrar/pronúncia em Taiwan: [zhan4]
+颤动 | TRADUÇÃO: vibrar/estremecer
+颤巍 | TRADUÇÃO: ver 顫巍巍
+颤巍巍 | TRADUÇÃO: trêmulo/balançante/ tremeluzente/vacilante/ cambaleante
+颤栗 | TRADUÇÃO: variante de 戰慄
+颤抖 | TRADUÇÃO: estremecer/tiritar/tremer/vibrar
+颤抖不已 | TRADUÇÃO: tremer como uma folha (expressão idiomática)
+颤声 | TRADUÇÃO: trinado (de voz)/ver também 顫聲 ‖ voz trêmula/ver também 顫聲
+颤音 | TRADUÇÃO: vibrato (de instrumento de cordas)/trinado (em fonética)
+颥 | TRADUÇÃO: ver 顳顬, têmpora (na lateral da cabeça humana)
+显 | TRADUÇÃO: tornar visível/revelar/prominente/conspícuo/(prefixo) fânero-
+显像 | TRADUÇÃO: formar uma imagem/revelar uma foto/visualizar
+显像管 | TRADUÇÃO: tubo de raios catódicos usado em TV ou monitor de computador/tubo de imagem/cinescópio
+显出 | TRADUÇÃO: expressar/exibir
+显卡 | TRADUÇÃO: (computação) placa gráfica; placa de vídeo
+显存 | TRADUÇÃO: memória gráfica; memória de vídeo de acesso aleatório (VRAM)
+显学 | TRADUÇÃO: escola famosa/escola de pensamento notável
+显宦 | TRADUÇÃO: alto funcionário
+显山露水 | TRADUÇÃO: revelar o próprio talento (expressão idiomática)
+显弄 | TRADUÇÃO: ostentar/exibir-se
+显形 | TRADUÇÃO: mostrar a verdadeira natureza (pej.)/trair a si mesmo
+显影 | TRADUÇÃO: (processamento fotográfico) revelar
+显影剂 | TRADUÇÃO: revelador (processamento fotográfico)/meio de contraste (imagem médica)
+显得 | TRADUÇÃO: parecer/ter a aparência de/parecer
+显微 | TRADUÇÃO: micro-/microscópico/tornar o minúsculo visível
+显微学 | TRADUÇÃO: microscopia
+显微解剖学 | TRADUÇÃO: (medicina) histologia; anatomia microscópica
+显微镜 | TRADUÇÃO: microscópio/CL:臺|台
+显微镜座 | TRADUÇÃO: Microscopium (constelação)
+显性 | TRADUÇÃO: visível/conspícuo/fânero-/dominante (gene)
+显性基因 | TRADUÇÃO: gene dominante
+显怀 | TRADUÇÃO: parecer grávida/estar com barriga de grávida
+显扬 | TRADUÇÃO: elogiar/louvar/glorificar
+显摆 | TRADUÇÃO: (coloq.) se exibir/ostentar
+显效 | TRADUÇÃO: mostrar efeito/produzir efeito/efeito notável
+显明 | TRADUÇÃO: óbvio; evidente; conspícuo; proeminente; distinto; aparente
+显晦 | TRADUÇÃO: luz e sombra
+显晶 | TRADUÇÃO: fanerocristalino/com estrutura cristalina visível a olho nu
+显焓 | TRADUÇÃO: entalpia sensível (termodinâmica)/energia necessária para ir de um estado a outro
+显然 | TRADUÇÃO: claramente; evidentemente; obviamente
+显现 | TRADUÇÃO: aparecimento/aparecer
+显生代 | TRADUÇÃO: Fanerozoico, éon geológico que dura desde o Cambriano (寒武紀|寒武纪), cerca de 540 milhões de anos atrás
+显生宙 | TRADUÇÃO: Fanerozoico, éon geológico que dura desde o Cambriano (寒武紀|寒武纪), cerca de 540 milhões de anos atrás
+显白 | TRADUÇÃO: variante de 顯擺|显摆
+显目 | TRADUÇÃO: chamativo; conspícuo
+显眼 | TRADUÇÃO: conspícuo/chamativo/que chama a atenção
+显示 | TRADUÇÃO: mostrar/ilustrar/exibir/demonstrar
+显示卡 | TRADUÇÃO: placa de vídeo
+显示器 | TRADUÇÃO: dispositivo de exibição; monitor
+显示屏 | TRADUÇÃO: tela de exibição
+显示板 | TRADUÇÃO: painel informativo
+显祖 | TRADUÇÃO: antepassados (arcaico)
+显耀 | TRADUÇÃO: ostentar/se exibir
+显老 | TRADUÇÃO: parecer velho/aparentar mais idade
+显考 | TRADUÇÃO: termo honorífico para o pai falecido/(arcaico) tataravô
+显而易见 | TRADUÇÃO: claro e fácil de ver (expressão idiomática); obviamente/evidentemente/nem precisa dizer
+显职 | TRADUÇÃO: cargo de destaque
+显花植物 | TRADUÇÃO: Fanerógamas (botânica)/plantas com flores
+显著 | TRADUÇÃO: notável/digno de nota/notável/estatisticamente significativo
+显要 | TRADUÇÃO: proeminente; eminente/pessoa importante; notável; dignitário
+显见 | TRADUÇÃO: óbvio/claramente visível
+显豁 | TRADUÇÃO: evidente/claro e brilhante
+显贵 | TRADUÇÃO: dignitário/pessoa distinta/nobreza/nobre/pessoa importante
+显赫 | TRADUÇÃO: ilustre/celebre
+显赫人物 | TRADUÇÃO: uma pessoa famosa/uma celebridade
+显达 | TRADUÇÃO: ilustre/influente/prestigioso
+显镜 | TRADUÇÃO: microscópio/mesmo que 顯微鏡|显微镜
+显露 | TRADUÇÃO: tornar-se visível; revelar
+显露出 | TRADUÇÃO: revelar (uma qualidade ou sentimento); manifestar; demonstrar
+显灵 | TRADUÇÃO: (de um ser sobrenatural ou divino) aparecer/manifestar-se
+颦 | TRADUÇÃO: franzir a testa/ franzir as sobrancelhas
+颦眉 | TRADUÇÃO: franzir as sobrancelhas/carranquear
+颅 | TRADUÇÃO: testa/crânio
+颅底 | TRADUÇÃO: base do crânio
+颅测量 | TRADUÇÃO: craniometria
+颅骨 | TRADUÇÃO: crânio (de um cadáver)
+颞 | TRADUÇÃO: ossos da têmpora (na cabeça humana)/ver 顳顬|颞颥, têmpora
+颞叶 | TRADUÇÃO: lobo temporal
+颞颥 | TRADUÇÃO: têmpora (os lados da cabeça humana)
+颞骨 | TRADUÇÃO: osso temporal/os temporale
+颧 | TRADUÇÃO: (forma presa) osso zigomático
+颧弓 | TRADUÇÃO: (anatomia) arco zigomático
+颧骨 | TRADUÇÃO: osso zigomático; osso jugal
+风 | TRADUÇÃO: vento/notícias/estilo/costume/maneira/CL:陣|阵,絲|丝
+风中之烛 | TRADUÇÃO: lit. vela ao vento (expressão idiomática)/fig. (da vida de alguém) frágil/por um fio
+风中烛，瓦上霜 | TRADUÇÃO: lit. como vela ao vento ou geada no telhado (expressão idiomática)/fig. (da vida de alguém) frágil/por um fio
+风干 | TRADUÇÃO: secar ao ar/curar (madeira etc)/seco ao ar/secagem ao ar
+风俗 | TRADUÇÃO: costume social/CL:個|个
+风信子 | TRADUÇÃO: jacinto (flor)
+风传 | TRADUÇÃO: rumores de que
+风光 | TRADUÇÃO: cena/vista/visão/paisagem/ser bem visto/estar bem de vida/chique (dialeto)/impressionante (dialeto)
+风光旖旎 | TRADUÇÃO: (expressão idiomática) paisagem idílica; paisagem pitoresca
+风冷 | TRADUÇÃO: resfriar a ar/refrigeração a ar
+风切变 | TRADUÇÃO: cisalhamento do vento (meteorologia)
+风力 | TRADUÇÃO: força do vento/energia eólica
+风力水车 | TRADUÇÃO: roda d'água movida a vento
+风力发电厂 | TRADUÇÃO: usina eólica/parque eólico
+风势 | TRADUÇÃO: (literário) força e direção do vento
+风化 | TRADUÇÃO: decência/moral pública/intemperizar (rochas)/erosão eólica
+风化作用 | TRADUÇÃO: intemperismo (de rochas)/erosão (pelo vento etc)
+风化区 | TRADUÇÃO: ver 紅燈區|红灯区
+风口 | TRADUÇÃO: saída de ar/lugar com corrente de ar/vento gap (geologia)/ventaneira (bocal de forno)/(fig.) tendência quente/modismo
+风口浪尖 | TRADUÇÃO: onde o vento e as ondas são mais fortes/no centro da luta
+风向 | TRADUÇÃO: direção do vento/para onde o vento sopra/fig. tendências (especialmente as imprevisíveis)/como as coisas estão se desenvolvendo/curso dos acontecimentos
+风向标 | TRADUÇÃO: cata-vento/pá de hélice/biruta/anel de vento
+风吹日晒 | TRADUÇÃO: (expressão idiomática) ser exposto aos elementos
+风吹草动 | TRADUÇÃO: (lit.) grama se mexendo ao vento (expressão idiomática)/(fig.) o menor sinal de problema
+风吹雨打 | TRADUÇÃO: lit. varrido pelo vento e castigado pela chuva/sofrer adversidades (expressão idiomática)
+风味 | TRADUÇÃO: sabor distinto/estilo distinto
+风和日暄 | TRADUÇÃO: brisa suave e sol quentinho (expressão idiomática)
+风和日暖 | TRADUÇÃO: brisa suave e sol quentinho (expressão idiomática)
+风和日丽 | TRADUÇÃO: vento moderado, sol bonito (expressão idiomática); tempo bom e ensolarado, especialmente na primavera
+风喻 | TRADUÇÃO: ver 諷喻|讽喻
+风噪 | TRADUÇÃO: ruído do vento
+风圈 | TRADUÇÃO: anel ao redor da lua/halo lunar/halo solar
+风土 | TRADUÇÃO: condições naturais e costumes sociais de um lugar/condições locais
+风土人情 | TRADUÇÃO: condições e costumes locais (expressão idiomática)
+风城 | TRADUÇÃO: Cidade dos Ventos, apelido para Chicago, Wellington, Nova Zelândia (惠靈頓|惠灵顿) e Hsinchu, Taiwan (新竹)
+风场 | TRADUÇÃO: parque eólico
+风尘 | TRADUÇÃO: poeira levada pelo vento/durezas da viagem/vicissitudes da vida/prostituição
+风尘仆仆 | TRADUÇÃO: lit. coberto de poeira (expressão idiomática)/fig. cansado da viagem
+风姿 | TRADUÇÃO: boa aparência/bom porte/porte gracioso/charme
+风姿绰约 | TRADUÇÃO: (expressão idiomática) graciosa; encantadora
+风媒 | TRADUÇÃO: (botânica) anemófila; polinizada pelo vento
+风寒 | TRADUÇÃO: sensação térmica/tempo frio/resfriado comum (medicina)
+风尚 | TRADUÇÃO: costume atual/maneira atual de fazer as coisas
+风帆 | TRADUÇÃO: vela/barco à vela
+风平浪静 | TRADUÇÃO: lit. brisa está parada, ondas estão calmas (expressão idiomática); ambiente tranquilo/tudo está calmo/calmaria (no mar)
+风度 | TRADUÇÃO: elegância (para homens)/porte elegante/graça/pose
+风恬浪静 | TRADUÇÃO: lit. brisa está calma, ondas estão calmas (expressão idiomática); ambiente tranquilo/Tudo está calmo./calmaria (no mar)
+风情 | TRADUÇÃO: porte/traços/graça/sentimentos amorosos/expressões de flerte/costumes e condições locais/força e direção do vento
+风情万种 | TRADUÇÃO: (expressão idiomática) cativante; encantador
+风成 | TRADUÇÃO: produzido pelo vento/eólico
+风扇 | TRADUÇÃO: ventilador elétrico
+风投 | TRADUÇÃO: investimento de capital de risco (abrev. de 風險投資|风险投资)
+风控 | TRADUÇÃO: controle de risco (abrev. de 風險控制|风险控制)
+风挡 | TRADUÇÃO: para-brisa
+风景 | TRADUÇÃO: paisagem; panorama
+风景线 | TRADUÇÃO: faixa de beleza cênica (costa, rio, estrada etc)/(fig.) um traço marcante
+风暴 | TRADUÇÃO: tempestade/comoção violenta/fig. crise (ex.: revolução, levante, crise financeira etc)
+风暴潮 | TRADUÇÃO: maré de tempestade
+风月 | TRADUÇÃO: romance/bela paisagem/pequeno ou mesquinho (de conversa etc)
+风格 | TRADUÇÃO: estilo
+风标 | TRADUÇÃO: cata-vento/anemômetro/vento de feição/fig. pessoa que muda de lealdade facilmente/oportunista
+风机 | TRADUÇÃO: ventilador/exaustor
+风档玻璃 | TRADUÇÃO: para-brisa (de carro)
+风气 | TRADUÇÃO: clima geral/atmosfera/prática comum
+风水 | TRADUÇÃO: feng shui/geomancia
+风水先生 | TRADUÇÃO: mestre de feng shui/geomante/figura típica em contos populares, como conselheiro sábio ou charlatão
+风水轮流 | TRADUÇÃO: veja 風水輪流轉|风水轮流转
+风水轮流转 | TRADUÇÃO: as fortunas sobem e descem; os tempos mudam
+风沙 | TRADUÇÃO: areia levada pelo vento/tempestade de areia
+风油精 | TRADUÇÃO: bálsamo essencial contendo mentol, óleo de eucalipto etc, usado como repelente de mosquitos
+风波 | TRADUÇÃO: perturbação/crise/disputas/inquietação/CL:場|场
+风波不断 | TRADUÇÃO: constantemente em turbulência/crise após crise
+风洞 | TRADUÇÃO: túnel de vento
+风流 | TRADUÇÃO: distinto e realizado/excepcional/talentoso em letras e descompromissado no estilo de vida/romântico/dissoluto/libertino
+风流佳话 | TRADUÇÃO: romance/caso amoroso
+风流倜傥 | TRADUÇÃO: (expressão idiomática) elegante; garboso
+风流债 | TRADUÇÃO: lit. dívida de amor/fig. obrigação moral consequente de um caso amoroso/consequências cármicas de um caso amoroso
+风流蕴藉 | TRADUÇÃO: temperado e refinado
+风流云散 | TRADUÇÃO: lit. disperso pelo vento e espalhado como nuvens (expressão idiomática); fig. espalhado por toda parte (de amigos e parentes)
+风流韵事 | TRADUÇÃO: (expressão idiomática) poético e apaixonado; romance/caso amoroso
+风浪 | TRADUÇÃO: vento e ondas; águas agitadas/(fig.) dificuldades
+风浪板 | TRADUÇÃO: (Taiwan) windsurfe/prancha à vela
+风凉话 | TRADUÇÃO: comentários sarcásticos/sarcasmo/observações cínicas
+风泼 | TRADUÇÃO: louco
+风潮 | TRADUÇÃO: tempestade/onda (de sentimento popular etc)/mania ou moda
+风湿 | TRADUÇÃO: reumatismo
+风湿性关节炎 | TRADUÇÃO: artrite reumatoide
+风湿热 | TRADUÇÃO: febre reumática
+风湿关节炎 | TRADUÇÃO: artrite reumatoide
+风火轮 | TRADUÇÃO: (artes marciais) roda de vento e fogo, arma usada em combate corpo a corpo/(daoísmo) par de rodas mágicas sobre as quais se pode ficar em pé para andar em grande velocidade, usado por Nezha 哪吒/(fig.) círculo vicioso sem fim
+风灾 | TRADUÇÃO: tempestade danosa/tufão destrutivo
+风烛残年 | TRADUÇÃO: dias finais/estar com um pé na cova
+风物 | TRADUÇÃO: paisagem/vistas
+风球 | TRADUÇÃO: (HK) sinal de aviso de tufão
+风琴 | TRADUÇÃO: órgão de tubos (instrumento musical)
+风生水起 | TRADUÇÃO: lit. uma brisa surge e cria ondas na água (expressão idiomática)/fig. próspero/florescente
+风疹 | TRADUÇÃO: rubéola/urticária
+风痱 | TRADUÇÃO: (MTC) hemiplegia devido a um derrame apoplético
+风瘫 | TRADUÇÃO: estar paralisado
+风穴 | TRADUÇÃO: caverna de vento
+风窗 | TRADUÇÃO: abertura de ventilação/veneziana/janela
+风笛 | TRADUÇÃO: gaita de foles
+风筝 | TRADUÇÃO: pipa (lit. "cítara de vento", tradicionalmente explicada como nomeada por pipas equipadas com apitos de bambu que produziam sons musicais quando voavam)
+风筝冲浪 | TRADUÇÃO: kitesurfe
+风箱 | TRADUÇÃO: fole
+风范 | TRADUÇÃO: ar/maneira/modelo/paradigma/porte
+风纪 | TRADUÇÃO: padrão de comportamento/normas morais/disciplina
+风习 | TRADUÇÃO: costume; prática
+风闻 | TRADUÇÃO: saber de algo por ouvir dizer; ouvir falar de algo
+风声 | TRADUÇÃO: som do vento/boato/conversa/notícia/reputação
+风声紧 | TRADUÇÃO: (fig.) a situação está tensa
+风声鹤唳 | TRADUÇÃO: lit. vento gemendo e grou chamando (expressão idiomática)/fig. entrar em pânico ao menor movimento/estar nervoso
+风能 | TRADUÇÃO: energia eólica
+风致 | TRADUÇÃO: charme natural/graça
+风花雪月 | TRADUÇÃO: vento, flor, neve e lua, tema poético trivial (expressão idiomática); linguagem afetada sem substância/caso amoroso/romance está no ar/vida dissipada
+风华 | TRADUÇÃO: magnífico
+风华正茂 | TRADUÇÃO: no auge da vida
+风华绝代 | TRADUÇÃO: (expressão idiomática) estilo magnífico inigualável em sua geração; talento incomparável
+风蚀 | TRADUÇÃO: erosão eólica
+风行 | TRADUÇÃO: tornar-se moda/pegar/estar na moda
+风行一时 | TRADUÇÃO: (expressão idiomática) ser popular por um tempo; estar na moda por um período
+风衣 | TRADUÇÃO: corta-vento/jaqueta corta-vento/blusão corta-vento/CL:件
+风评 | TRADUÇÃO: reputação
+风调 | TRADUÇÃO: caráter (de uma pessoa, verso, objeto etc)/estilo
+风调雨顺 | TRADUÇÃO: (expressão idiomática) ter bom tempo para as colheitas
+风谕 | TRADUÇÃO: veja 諷喻|讽喻
+风貌 | TRADUÇÃO: estilo/maneira/ethos
+风起潮涌 | TRADUÇÃO: lit. vento se levanta, maré borbulha/tempos turbulentos/desenvolvimento violento (expressão idiomática)
+风起云涌 | TRADUÇÃO: agitar-se como uma tempestade que se forma (expressão idiomática)/crescer a passos largos
+风趣 | TRADUÇÃO: charme/humor/espírito/humorístico/espirituoso
+风趣横生 | TRADUÇÃO: (expressão idiomática) temperado com humor/muito espirituoso
+风车 | TRADUÇÃO: cata-vento/moinho de vento
+风速 | TRADUÇÃO: velocidade do vento
+风速计 | TRADUÇÃO: anemômetro
+风邪 | TRADUÇÃO: influência patogênica (MTC)
+风采 | TRADUÇÃO: esbelto/maneira elegante/porte gracioso
+风铃 | TRADUÇÃO: sinos de vento
+风镜 | TRADUÇÃO: óculos de proteção (especialmente contra vento e tempestades de areia)
+风钻 | TRADUÇÃO: broca pneumática/martelete
+风阻 | TRADUÇÃO: resistência do ar; arrasto aerodinâmico
+风阻尼器 | TRADUÇÃO: amortecedor de vento (engenharia)
+风险 | TRADUÇÃO: risco; perigo
+风险投资 | TRADUÇÃO: investimento de capital de risco
+风险管理 | TRADUÇÃO: gerenciamento de risco
+风雅 | TRADUÇÃO: culto/sofisticado
+风雨 | TRADUÇÃO: vento e chuva/os elementos/(fig.) provações e dificuldades
+风雨交加 | TRADUÇÃO: (expressão idiomática) tempestuoso e chuvoso; ventoso e molhado
+风雨同舟 | TRADUÇÃO: lit. no mesmo barco sob vento e chuva (expressão idiomática); fig. manter-se unido em tempos difíceis
+风雨如晦 | TRADUÇÃO: lit. vento e chuva escurecem o céu (expressão idiomática); fig. a situação parece sombria
+风雨晦冥 | TRADUÇÃO: condições de adversidade extrema (expressão idiomática)
+风雨欲来 | TRADUÇÃO: lit. a tempestade se aproxima / problemas estão por vir (expressão idiomática)
+风雨凄凄 | TRADUÇÃO: vento e chuva miseráveis
+风雨漂摇 | TRADUÇÃO: agitado pelo vento e pela chuva (expressão idiomática) / (de uma situação) instável
+风雨无阻 | TRADUÇÃO: independentemente das condições climáticas / chuva ou sol, nada impede
+风雨飘摇 | TRADUÇÃO: agitado pelo vento e pela chuva (expressão idiomática) / (de uma situação) instável
+风雪 | TRADUÇÃO: tempestade de neve
+风雪交加 | TRADUÇÃO: (expressão idiomática) tempestuoso com vento e neve; condições de nevasca
+风云 | TRADUÇÃO: clima / situação instável
+风云人物 | TRADUÇÃO: a pessoa do momento (expressão idiomática) / figura influente
+风云变幻 | TRADUÇÃO: situação mutável (expressão idiomática)
+风电 | TRADUÇÃO: energia eólica
+风电厂 | TRADUÇÃO: parque eólico / usina eólica
+风霜 | TRADUÇÃO: vento e geada / fig. dificuldades
+风霜雨雪 | TRADUÇÃO: (lit.) vento, geada, chuva e neve (expressão idiomática) / (fig.) todos os tipos de provações e dificuldades
+风靡 | TRADUÇÃO: da moda / popular
+风靡一时 | TRADUÇÃO: na moda por um tempo (expressão idiomática); toda a raiva
+风韵 | TRADUÇÃO: charme / graça / porte elegante (geralmente feminino)
+风韵犹存 | TRADUÇÃO: (de uma mulher envelhecendo) ainda atraente
+风头 | TRADUÇÃO: direção do vento / o caminho que o vento sopra / fig. tendência / direção dos acontecimentos (especialmente como afetam a pessoa) / opinião pública (relativa às ações de alguém) / publicidade (geralmente pejorativo) / centro das atenções
+风风火火 | TRADUÇÃO: agitado / energético
+风风雨雨 | TRADUÇÃO: provações e tribulações / altos e baixos
+风餐露宿 | TRADUÇÃO: lit. comer ao ar livre e dormir ao relento (expressão idiomática) / fig. viver na dureza
+风马旗 | TRADUÇÃO: bandeira de oração tibetana
+风马牛不相及 | TRADUÇÃO: ser completamente irrelevante um para o outro (expressão idiomática) / sem relação
+风驰电掣 | TRADUÇÃO: rápido como um relâmpago
+风骚 | TRADUÇÃO: excelência literária / comportamento sedutor
+风骨 | TRADUÇÃO: força de caráter / estilo vigoroso (de caligrafia)
+风魔 | TRADUÇÃO: variante de 瘋魔|疯魔
+飐 | TRADUÇÃO: balançar ao vento
+飐飐 | TRADUÇÃO: parece como se estivesse flutuando
+飑 | TRADUÇÃO: redemoinho
+飒然 | TRADUÇÃO: sussurrante (do vento)
+飒爽 | TRADUÇÃO: heróico / valoroso
+飒飒 | TRADUÇÃO: sussurro / som sibilante ou apressado (do vento nas árvores, do mar etc.)
+刮风 | TRADUÇÃO: ventar
+飓 | TRADUÇÃO: usado em 颶風|飓风
+飓风 | TRADUÇÃO: furacão
+飔 | TRADUÇÃO: brisa fresca do outono
+飏 | TRADUÇÃO: voar alto / voar / flutuar / variante de 揚|扬, espalhar / propagar
+飖 | TRADUÇÃO: flutuando no ar
+飕 | TRADUÇÃO: soprar (como o vento) / som do vento / sussurro
+飕飕 | TRADUÇÃO: som do vento soprando ou da chuva caindo
+颽 | TRADUÇÃO: ameno / suave como o vento
+𩙫 | TRADUÇÃO: sopro do vento
+飗 | TRADUÇÃO: sussurro do vento
+飂 | TRADUÇÃO: vento em lugares altos
+飘 | TRADUÇÃO: variante de 飄|飘 ‖ flutuar (no ar); tremular; pairar / satisfeito; frívolo / fraco; instável; cambaleante
+飘动 | TRADUÇÃO: flutuar / derivar
+飘卷 | TRADUÇÃO: tremular / ondular
+飘尘 | TRADUÇÃO: poeira flutuante / partículas atmosféricas
+飘带 | TRADUÇÃO: flâmula / galhardete
+飘忽 | TRADUÇÃO: que se move rapidamente / fugaz / balançar
+飘忽不定 | TRADUÇÃO: derivar sem um lugar de descanso (expressão idiomática) / errante / andarilho / vagante / errático
+飘拂 | TRADUÇÃO: flutuar levemente
+飘扬 | TRADUÇÃO: agitar / tremular / voar
+飘摇 | TRADUÇÃO: flutuando ao vento / balançando / cambaleante / instável
+飘散 | TRADUÇÃO: esparramar-se (pelo ar); derivar
+飘泊 | TRADUÇÃO: variante de 漂泊
+飘洋 | TRADUÇÃO: variante de 漂洋
+飘流 | TRADUÇÃO: variante de 漂流
+飘浮 | TRADUÇÃO: flutuar / pairar / também escrito 漂浮
+飘海 | TRADUÇÃO: ir para o exterior
+飘渺 | TRADUÇÃO: vagamente perceptível; indistinto; nebuloso
+飘洒 | TRADUÇÃO: suave / gracioso / fluente e elegante (caligrafia)
+飘然 | TRADUÇÃO: flutuar no ar / rapidamente / agilmente / fácil e relaxado
+飘荡 | TRADUÇÃO: derivar / agitar / flutuar nas ondas / tremular ao vento
+飘移 | TRADUÇÃO: derivar
+飘窗 | TRADUÇÃO: janela saliente
+飘缈 | TRADUÇÃO: variante de 飄渺|飘渺
+飘举 | TRADUÇÃO: dançar / flutuar ao vento
+飘舞 | TRADUÇÃO: voar para cima / dançar no ar (de flocos de neve, pétalas de flores etc.)
+飘落 | TRADUÇÃO: flutuar para baixo / cair suavemente (flocos de neve, folhas etc.)
+飘蓬 | TRADUÇÃO: flutuar ao vento / por ext., levar uma vida errante
+飘逸 | TRADUÇÃO: gracioso / elegante / derivar / flutuar
+飘雪 | TRADUÇÃO: nevar
+飘零 | TRADUÇÃO: cair e murchar (como folhas de outono) / (fig.) errante e sem lar
+飘风 | TRADUÇÃO: redemoinho / vento tempestuoso
+飘飖 | TRADUÇÃO: variante de 飄搖|飘摇
+飘飘 | TRADUÇÃO: flutuar / tremular (na brisa) / (dialeto) gay / (Taiwan) fantasma
+飘飘然 | TRADUÇÃO: eufórico / sensação leve e aérea (após algumas bebidas) / presunçoso e convencido / satisfeito
+飘香 | TRADUÇÃO: (de uma fragrância) esparramar-se / (fig.) (de comidas) tornar-se popular em outros lugares também
+飙 | TRADUÇÃO: (literário) vento muito forte; vendaval / (forma presa) selvagem; violento; desenfreado; furioso
+飙升 | TRADUÇÃO: subir rapidamente / disparar
+飙口水 | TRADUÇÃO: fofoca / conversa fiada
+飙汗 | TRADUÇÃO: suar profusamente
+飙涨 | TRADUÇÃO: (de preços) disparar; subir vertiginosamente
+飙车 | TRADUÇÃO: dirigir imprudentemente em alta velocidade; corrida de rua (motos ou carros)
+飙风 | TRADUÇÃO: vento feroz
+飚 | TRADUÇÃO: variante de 飆|飙
+飌 | TRADUÇÃO: variante antiga de 風|风
+飞 | TRADUÇÃO: voar
+飞也似的 | TRADUÇÃO: lit. como se estivesse voando / muito rápido
+飞来横祸 | TRADUÇÃO: desastre repentino e inesperado (expressão idiomática)
+飞来飞去 | TRADUÇÃO: voar para todos os lados / voar de um lado para o outro / esvoaçar / enxamear / espiralar
+飞出 | TRADUÇÃO: voar para fora
+飞出个未来 | TRADUÇÃO: Futurama (série animada de TV dos EUA, 1999-)
+飞刀 | TRADUÇÃO: faca de arremesso / cortador voador (ferramenta mecânica) / (coloq.) cirurgiões que operam em outros hospitais em horários de folga
+飞利浦 | TRADUÇÃO: Philips (empresa)
+飞升 | TRADUÇÃO: voar para cima / (fig.) subir; aumentar / (daoísmo) ascender ao céu; alcançar a imortalidade
+飞吻 | TRADUÇÃO: mandar um beijo
+飞地 | TRADUÇÃO: enclave; exclave (território pertencente a uma jurisdição mas completamente rodeado por outra)
+飞天 | TRADUÇÃO: Apsara voadora (arte budista)
+飞奔 | TRADUÇÃO: correr depressa; disparar; precipitar-se
+飞安 | TRADUÇÃO: (Taiwan) segurança da aviação
+飞将军 | TRADUÇÃO: apelido do general Li Guang da dinastia Han 李廣|李广
+飞弹 | TRADUÇÃO: (Taiwan) míssil / bala perdida
+飞征 | TRADUÇÃO: (arcaico) aves e animais
+飞快 | TRADUÇÃO: muito rápido; na velocidade da luz / (coloq.) afiadíssimo
+飞手 | TRADUÇÃO: piloto de drone; operador de drone
+飞抓 | TRADUÇÃO: variante de 飛撾|飞挝
+飞拉达 | TRADUÇÃO: (estrangeirismo) via ferrata
+飞掠 | TRADUÇÃO: passar voando; passar rasante / (de nave espacial) fazer um sobrevoo (de um corpo celeste)
+飞扬 | TRADUÇÃO: elevar-se; voar para cima
+飞扬跋扈 | TRADUÇÃO: autoritário e prepotente; mandão
+飞挝 | TRADUÇÃO: arma antiga com ponta semelhante a um gancho de abordagem, lançada contra combatentes inimigos para capturá-los
+飞散 | TRADUÇÃO: (de fumaça) dispersar-se; dissipar-se / (de pássaros) voar para todas as direções
+飞机 | TRADUÇÃO: avião / CL:架
+飞机场 | TRADUÇÃO: aeroporto / (gíria) peito chato / CL:處|处
+飞机失事 | TRADUÇÃO: acidente aéreo
+飞机师 | TRADUÇÃO: piloto; aviador
+飞机杯 | TRADUÇÃO: masturbador masculino (brinquedo sexual); vagina artificial
+飞机票 | TRADUÇÃO: passagem aérea / CL:張|张
+飞机舱门 | TRADUÇÃO: porta da cabine de avião
+飞机云 | TRADUÇÃO: rastro de condensação
+飞机餐 | TRADUÇÃO: refeição de bordo
+飞檐走壁 | TRADUÇÃO: pular telhados e escalar muros (geralmente associado a artes marciais)
+飞检 | TRADUÇÃO: inspeção sem aviso prévio (abrev. de 飛行檢查|飞行检查)
+飞毛腿 | TRADUÇÃO: pés velozes / corredor rápido
+飞沫 | TRADUÇÃO: gotícula suspensa no ar
+飞沫传染 | TRADUÇÃO: infecção por gotículas (transmissão de doenças por espirro, tosse etc.)
+飞沫四溅 | TRADUÇÃO: espirrar em todas as direções
+飞涨 | TRADUÇÃO: inflação galopante; preços disparando
+飞溅 | TRADUÇÃO: respingar; salpicar
+飞瀑 | TRADUÇÃO: cachoeira
+飞盘 | TRADUÇÃO: frisbee
+飞短流长 | TRADUÇÃO: variante de 蜚短流長|蜚短流长
+飞碟 | TRADUÇÃO: disco voador / frisbee
+飞禽 | TRADUÇÃO: aves
+飞禽走兽 | TRADUÇÃO: (expressão idiomática) aves e animais
+飞秒 | TRADUÇÃO: femtossegundo, fs, 10^-15 s
+飞符 | TRADUÇÃO: talismã na forma de uma pintura de símbolos com supostos poderes mágicos (também chamado 符籙|符箓) / invocar o poder mágico de tal talismã / talismã-tigre 虎符 enviado com grande urgência
+飞红 | TRADUÇÃO: corar; ficar vermelho
+飞索 | TRADUÇÃO: tirolesa
+飞线 | TRADUÇÃO: (eletrônica) fio de jumper / extensão pendurada para fora de um edifício (geralmente usada para recarregar um veículo elétrico)
+飞线充电 | TRADUÇÃO: recarregar (um veículo elétrico) usando uma extensão pendurada para fora de um edifício
+飞翔 | TRADUÇÃO: planar no ar; voar alto
+飞腿 | TRADUÇÃO: chute
+飞膜 | TRADUÇÃO: patagio
+飞舞 | TRADUÇÃO: esvoaçar; dançar ao vento
+飞舟 | TRADUÇÃO: barco rápido
+飞船 | TRADUÇÃO: nave espacial; astronave / dirigível
+飞艇 | TRADUÇÃO: dirigível
+飞叶子 | TRADUÇÃO: (gíria) fumar maconha
+飞虎队 | TRADUÇÃO: Tigres Voadores, aviadores americanos na China durante a Segunda Guerra Mundial / apelido em Hong Kong para unidade especial de operações policiais
+飞蚊症 | TRADUÇÃO: moscas volantes (manchas móveis no humor vítreo do olho)
+飞蛾 | TRADUÇÃO: mariposa
+飞蛾投火 | TRADUÇÃO: lit. como uma mariposa voando para o fogo (expressão idiomática); fig. escolher um caminho de destruição certa
+飞蛾扑火 | TRADUÇÃO: a mariposa voa para a chama / atração fatal
+飞蝗 | TRADUÇÃO: gafanhotos voadores
+飞虫 | TRADUÇÃO: inseto voador
+飞行 | TRADUÇÃO: (de aviões etc.) voar / voo / aviação
+飞行员 | TRADUÇÃO: piloto; aviador
+飞行器 | TRADUÇÃO: aeronave (avião, drone, míssil, balão, nave espacial, satélite etc.)
+飞行棋 | TRADUÇÃO: jogo de aviões (jogo de tabuleiro chinês)
+飞行模式 | TRADUÇÃO: modo avião (em um dispositivo eletrônico)
+飞行检查 | TRADUÇÃO: inspeção sem aviso prévio / (esportes) teste antidoping fora de época / abrev. 飛檢|飞检
+飞行甲板 | TRADUÇÃO: convés de voo
+飞行记录 | TRADUÇÃO: registro de voo
+飞行记录仪 | TRADUÇÃO: gravador de voo; caixa-preta
+飞行记录器 | TRADUÇÃO: gravador de voo; caixa-preta
+飞行云 | TRADUÇÃO: rastro de condensação
+飞觥走斝 | TRADUÇÃO: beber até se fartar (expressão idiomática)
+飞贼 | TRADUÇÃO: ladrão de casas / ladrão que escala muros para entrar / aviador inimigo intruso / saqueador aéreo
+飞越 | TRADUÇÃO: voar através de; voar sobre; passar voando / (literário) (do espírito) elevar-se
+飞跑 | TRADUÇÃO: correr como o vento; precipitar-se; galopar
+飞跃 | TRADUÇÃO: saltar; dar um salto
+飞跃道 | TRADUÇÃO: parkour (Hong Kong)
+飞身 | TRADUÇÃO: mover-se rapidamente; saltar / lançar-se; golpe com o corpo
+飞车 | TRADUÇÃO: veículo rápido / dirigir ou andar em um veículo em alta velocidade
+飞轮 | TRADUÇÃO: volante / roda livre; cassete (de uma bicicleta) / bicicleta rápida
+飞轮海 | TRADUÇÃO: Fahrenheit, boyband taiwanesa (2005–2012)
+飞转 | TRADUÇÃO: girar rapidamente; rodopiar / (do tempo) voar
+飞逝 | TRADUÇÃO: (do tempo) passar rapidamente; ser fugaz
+飞速 | TRADUÇÃO: rápido; velozmente
+飞过 | TRADUÇÃO: voar sobre; passar voando
+飞针走线 | TRADUÇÃO: agulha voadora e costura corrida (expressão idiomática); habilidoso trabalho de agulha
+飞镖 | TRADUÇÃO: dardos (jogo) / dardo (arma em forma de ponta de lança)
+飞饼 | TRADUÇÃO: pão achatado escamoso estilo indiano (roti canai ou similar)
+飞马 | TRADUÇÃO: a galope
+飞马座 | TRADUÇÃO: Pégaso (constelação)
+飞驰 | TRADUÇÃO: acelerar; correr
+飞腾 | TRADUÇÃO: voar rapidamente para cima; elevar-se
+飞鱼 | TRADUÇÃO: míssil Exocet ‖ peixe voador
+飞鱼座 | TRADUÇÃO: Volans (constelação)
+飞鱼族 | TRADUÇÃO: "família peixe voador", família que sacrifica tudo para enviar os filhos ao exterior para estudar
+飞鸟 | TRADUÇÃO: pássaro
+飞鸟时代 | TRADUÇÃO: Período Asuka na história japonesa (538-710 d.C.)

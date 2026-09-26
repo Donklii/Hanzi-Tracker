@@ -1,0 +1,508 @@
+/* ----- Seção: Estudos — Baralho de Recomendações ----- */
+
+.overlay-baralho {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(6, 10, 20, 0.65);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  z-index: 2500;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+  animation: fadeInOverlay 0.25s ease-out;
+}
+
+@keyframes fadeInOverlay {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Modal Transparente */
+.modal-baralho-container {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 10px;
+  max-width: 860px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.modal-baralho-fechar {
+  position: absolute;
+  top: -12px;
+  right: 0px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: var(--cor-texto-suave, #94a3b8);
+  font-size: 18px;
+  cursor: pointer;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  z-index: 50;
+}
+
+.modal-baralho-fechar:hover {
+  color: var(--cor-texto-primario, #f8fafc);
+  background-color: rgba(255, 255, 255, 0.2);
+  transform: scale(1.08);
+}
+
+.modal-baralho-cabecalho {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.modal-baralho-titulo {
+  font-size: 26px;
+  font-weight: 700;
+  color: #ffffff;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 0 0 6px 0;
+}
+
+.modal-baralho-subtitulo {
+  font-size: 13.5px;
+  color: #cbd5e1;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+  margin: 0;
+}
+
+/* Área das Cartas */
+.area-cartas-baralho {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  min-height: 340px;
+  width: 100%;
+  margin: 8px 0 26px 0;
+}
+
+/* Container de Flip 3D de cada Carta */
+.carta-flip-container {
+  perspective: 1200px;
+  width: 224px;
+  height: 320px;
+  cursor: pointer;
+  user-select: none;
+  position: relative;
+  transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+/* Hover na fase parada */
+.fase-parado .carta-flip-container:hover {
+  transform: translateY(-8px);
+}
+
+.fase-parado .carta-flip-container:hover .carta-verso {
+  box-shadow: 0 16px 36px rgba(99, 102, 241, 0.45);
+  border-color: rgba(199, 210, 254, 0.7);
+}
+
+.fase-parado .carta-flip-container:hover .carta-frente {
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.5);
+  border-color: var(--cor-destaque, #6366f1);
+}
+
+/* Núcleo 3D da Carta */
+.carta-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.55s cubic-bezier(0.2, 0.8, 0.2, 1);
+  border-radius: var(--raio-cartao, 16px);
+}
+
+.carta-inner.revelada {
+  transform: rotateY(180deg);
+}
+
+/* Faces da Carta */
+.carta-verso,
+.carta-frente {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: var(--raio-cartao, 16px);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* =========================================================================
+   Verso da Carta (Místico / Baralho Temático)
+   ========================================================================= */
+.carta-verso {
+  transform: rotateY(0deg);
+  background: linear-gradient(145deg, #090d16 0%, #171c35 45%, #282759 85%, #3b367d 100%);
+  border: 1.5px solid rgba(129, 140, 248, 0.45);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.55);
+  color: #e0e7ff;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  transition: border-color 0.25s, box-shadow 0.25s;
+}
+
+.carta-verso-moldura {
+  width: 100%;
+  height: 100%;
+  border: 1px solid rgba(165, 180, 252, 0.3);
+  border-radius: 12px;
+  padding: 8px;
+  box-sizing: border-box;
+  position: relative;
+  background: radial-gradient(circle at center, rgba(99, 102, 241, 0.15) 0%, transparent 75%);
+}
+
+.carta-verso-padrao {
+  width: 100%;
+  height: 100%;
+  border: 1px dashed rgba(199, 210, 254, 0.22);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  box-sizing: border-box;
+}
+
+.carta-verso-icone {
+  color: #818cf8;
+  filter: drop-shadow(0 0 10px rgba(129, 140, 248, 0.4));
+  transition: transform 0.3s ease;
+}
+
+.carta-flip-container:hover .carta-verso-icone {
+  transform: scale(1.08);
+}
+
+.carta-verso-texto {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #c7d2fe;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+/* =========================================================================
+   Frente da Carta (Consistência com os cards do Hanzi-Tracker)
+   ========================================================================= */
+.carta-frente {
+  transform: rotateY(180deg);
+  background: var(--cor-fundo-cartao, #1a202c);
+  border: 1.5px solid var(--cor-borda, #2d3748);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: border-color 0.25s, box-shadow 0.25s;
+}
+
+.carta-frente-topo {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+}
+
+.motivo-badge {
+  background-color: var(--cor-fundo-secundario, rgba(255, 255, 255, 0.05));
+  border: 1px solid var(--cor-borda, rgba(255, 255, 255, 0.1));
+  border-radius: 8px;
+  padding: 5px 8px;
+  font-size: 10.5px;
+  color: var(--cor-destaque, #64b5f6);
+  line-height: 1.3;
+  width: 100%;
+  box-sizing: border-box;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  text-align: center;
+}
+
+.motivo-texto {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.badges-meta-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 18px;
+}
+
+.badge-meta {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 6px;
+  letter-spacing: 0.3px;
+}
+
+.badge-hsk {
+  background: rgba(99, 102, 241, 0.18);
+  color: #a5b4fc;
+  border: 1px solid rgba(99, 102, 241, 0.35);
+}
+
+.badge-ranking {
+  background: rgba(234, 179, 8, 0.15);
+  color: #facc15;
+  border: 1px solid rgba(234, 179, 8, 0.3);
+}
+
+.carta-frente-conteudo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  flex-grow: 1;
+  padding: 4px 0;
+}
+
+.carta-pinyin {
+  font-size: 15px;
+  color: var(--cor-pinyin, #64b5f6);
+  font-weight: 600;
+  text-align: center;
+}
+
+.carta-hanzi {
+  font-family: var(--fonte-hanzi, sans-serif);
+  font-size: 46px;
+  font-weight: bold;
+  color: var(--cor-texto-primario, #f8fafc);
+  margin: 3px 0;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.carta-significado {
+  font-size: 11.5px;
+  color: var(--cor-texto-suave, #94a3b8);
+  text-align: center;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  width: 100%;
+  padding: 0 4px;
+  box-sizing: border-box;
+}
+
+.carta-frente-rodape {
+  width: 100%;
+}
+
+.btn-adicionar-estudo {
+  width: 100%;
+  padding: 8px 10px;
+  font-size: 11.5px;
+  font-weight: 600;
+  border-radius: 9px;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  box-sizing: border-box;
+  transition: all 0.2s ease;
+}
+
+.btn-status-novo {
+  background-color: var(--cor-destaque, #6366f1);
+  color: #ffffff;
+}
+
+.btn-status-novo:hover {
+  filter: brightness(1.12);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4);
+}
+
+.btn-status-estudo {
+  background-color: rgba(33, 150, 243, 0.15);
+  color: #64b5f6;
+  border: 1px solid rgba(33, 150, 243, 0.35);
+  cursor: default;
+}
+
+.btn-status-aprendida {
+  background-color: rgba(76, 175, 80, 0.15);
+  color: #81c784;
+  border: 1px solid rgba(76, 175, 80, 0.35);
+  cursor: default;
+}
+
+/* =========================================================================
+   Fluxo Contínuo de Animações (Recolher -> Embaralhar -> Distribuir)
+   Distância slot 0 -> centro: +248px
+   Distância slot 2 -> centro: -248px
+   ========================================================================= */
+
+/* Fase 1: Recolhendo para o centro */
+@keyframes recolherParaCentroSlot0 {
+  0% { transform: translate(0, 0) scale(1); }
+  100% { transform: translate(248px, 0) scale(0.96) rotate(4deg); z-index: 1; }
+}
+
+@keyframes recolherParaCentroSlot1 {
+  0% { transform: translate(0, 0) scale(1); }
+  100% { transform: translate(0, 0) scale(0.96) rotate(-2deg); z-index: 2; }
+}
+
+@keyframes recolherParaCentroSlot2 {
+  0% { transform: translate(0, 0) scale(1); }
+  100% { transform: translate(-248px, 0) scale(0.96) rotate(-4deg); z-index: 3; }
+}
+
+.fase-recolhendo .pos-slot-0 {
+  animation: recolherParaCentroSlot0 0.35s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+.fase-recolhendo .pos-slot-1 {
+  animation: recolherParaCentroSlot1 0.35s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+.fase-recolhendo .pos-slot-2 {
+  animation: recolherParaCentroSlot2 0.35s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* Fase 2: Embaralhando no centro (Corte e riffle em 3D sem sumiço de cartas) */
+@keyframes embaralharCorteSlot0 {
+  0% { transform: translate(248px, 0) scale(0.96) rotate(0deg); z-index: 1; }
+  35% { transform: translate(170px, -12px) scale(0.97) rotate(-13deg); z-index: 1; }
+  55% { transform: translate(160px, -4px) scale(0.98) rotate(-8deg); z-index: 30; }
+  75% { transform: translate(225px, 0px) scale(0.97) rotate(-2deg); z-index: 30; }
+  100% { transform: translate(248px, 0) scale(0.96) rotate(0deg); z-index: 30; }
+}
+
+@keyframes embaralharCorteSlot1 {
+  0% { transform: translate(0, 0) scale(0.96) rotate(0deg); z-index: 5; }
+  35% { transform: translate(80px, 12px) scale(0.97) rotate(13deg); z-index: 5; }
+  55% { transform: translate(90px, 4px) scale(0.98) rotate(8deg); z-index: 2; }
+  75% { transform: translate(25px, 0px) scale(0.97) rotate(2deg); z-index: 2; }
+  100% { transform: translate(0, 0) scale(0.96) rotate(0deg); z-index: 2; }
+}
+
+@keyframes embaralharCorteSlot2 {
+  0% { transform: translate(-248px, 0) scale(0.96) rotate(0deg); z-index: 10; }
+  35% { transform: translate(-290px, 20px) scale(0.97) rotate(-8deg); z-index: 10; }
+  65% { transform: translate(-190px, -15px) scale(0.98) rotate(8deg); z-index: 25; }
+  100% { transform: translate(-248px, 0) scale(0.96) rotate(0deg); z-index: 25; }
+}
+
+.fase-embaralhando .pos-slot-0 {
+  animation: embaralharCorteSlot0 0.85s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+.fase-embaralhando .pos-slot-1 {
+  animation: embaralharCorteSlot1 0.85s cubic-bezier(0.4, 0, 0.2, 1) 0.1s infinite;
+}
+.fase-embaralhando .pos-slot-2 {
+  animation: embaralharCorteSlot2 0.85s cubic-bezier(0.4, 0, 0.2, 1) 0.2s infinite;
+}
+
+/* Fase 3: Distribuindo do centro para a mesa com amortecimento elástico */
+@keyframes distribuirParaMesaSlot0 {
+  0% { transform: translate(248px, -45px) scale(0.8) rotate(12deg); opacity: 0.3; }
+  70% { transform: translate(-8px, 4px) scale(1.03) rotate(-2deg); opacity: 1; }
+  100% { transform: translate(0, 0) scale(1) rotate(0deg); opacity: 1; }
+}
+
+@keyframes distribuirParaMesaSlot1 {
+  0% { transform: translate(0, -55px) scale(0.8) rotate(-8deg); opacity: 0.3; }
+  70% { transform: translate(0, 4px) scale(1.03) rotate(1deg); opacity: 1; }
+  100% { transform: translate(0, 0) scale(1) rotate(0deg); opacity: 1; }
+}
+
+@keyframes distribuirParaMesaSlot2 {
+  0% { transform: translate(-248px, -45px) scale(0.8) rotate(-12deg); opacity: 0.3; }
+  70% { transform: translate(8px, 4px) scale(1.03) rotate(2deg); opacity: 1; }
+  100% { transform: translate(0, 0) scale(1) rotate(0deg); opacity: 1; }
+}
+
+.fase-distribuindo .pos-slot-0 {
+  animation: distribuirParaMesaSlot0 0.5s cubic-bezier(0.16, 1, 0.3, 1) 0s backwards;
+}
+.fase-distribuindo .pos-slot-1 {
+  animation: distribuirParaMesaSlot1 0.5s cubic-bezier(0.16, 1, 0.3, 1) 0.08s backwards;
+}
+.fase-distribuindo .pos-slot-2 {
+  animation: distribuirParaMesaSlot2 0.5s cubic-bezier(0.16, 1, 0.3, 1) 0.16s backwards;
+}
+
+/* =========================================================================
+   Rodapé e Botão de Ação
+   ========================================================================= */
+.modal-baralho-rodape {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  width: 100%;
+}
+
+.btn-novas-cartas {
+  background: rgba(99, 102, 241, 0.18);
+  border: 1px solid var(--cor-destaque, #6366f1);
+  color: #c7d2fe;
+  padding: 11px 24px;
+  font-size: 13.5px;
+  font-weight: 600;
+  border-radius: 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
+  transition: all 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.btn-novas-cartas:hover:not(:disabled) {
+  background-color: var(--cor-destaque, #6366f1);
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(99, 102, 241, 0.45);
+}
+
+.btn-novas-cartas:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none;
+}
+

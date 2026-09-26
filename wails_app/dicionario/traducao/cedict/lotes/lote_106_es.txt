@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+遇难船 | TRADUÇÃO: naufragio/barco naufragado
+遇雨顺延 | TRADUÇÃO: posponer en caso de lluvia/aplazarse por mal tiempo
+游人 | TRADUÇÃO: turista/visitante/excursionista
+游人如织 | TRADUÇÃO: repleto de turistas/abarrotado de visitantes (modismo)
+游伴 | TRADUÇÃO: compañero de juegos/compañero de viaje
+游侠 | TRADUÇÃO: caballero andante/paladín errante
+游侠骑士 | TRADUÇÃO: caballero andante
+游刃有余 | TRADUÇÃO: manejar con soltura y destreza/hacer algo con gran facilidad (modismo)
+游吟诗人 | TRADUÇÃO: trovador/bardo
+游园 | TRADUÇÃO: visitar un parque o jardín/pasear por un jardín
+游园会 | TRADUÇÃO: fiesta en el jardín/kermés/feria al aire libre
+游子 | TRADUÇÃO: persona que vive o viaja lejos de su tierra natal/viajero errante
+游学 | TRADUÇÃO: realizar una estancia de estudios (en otra ciudad o país)/estudiar en el extranjero
+游客 | TRADUÇÃO: turista/viajero/jugador invitado (videojuegos)
+游导 | TRADUÇÃO: guía turístico
+游山玩水 | TRADUÇÃO: recorrer parajes naturales/hacer turismo de naturaleza/disfrutar del paisaje (modismo)
+游惰 | TRADUÇÃO: holgazanear/estar ocioso/vagar sin hacer nada
+游戏 | TRADUÇÃO: juego/jugar/CL:場|场
+游戏主机 | TRADUÇÃO: videoconsola/consola de videojuegos
+游戏场 | TRADUÇÃO: parque de juegos/área recreativa/patio de recreo
+游戏手把 | TRADUÇÃO: mando de videojuegos/controlador (Taiwán)
+游戏机 | TRADUÇÃO: consola de videojuegos/máquina de videojuegos
+游戏王 | TRADUÇÃO: Yu-Gi-Oh!
+游戏设备 | TRADUÇÃO: periférico de juegos/dispositivo de juego/controlador
+游戏说 | TRADUÇÃO: teoría del juego (filosofía kantiana)
+游手 | TRADUÇÃO: estar ocioso/holgazanear
+游手好闲 | TRADUÇÃO: holgazanear/vivir en la ociosidad/estar mano sobre mano (modismo)
+游抏 | TRADUÇÃO: variante antigua de 遊玩|游玩
+游星 | TRADUÇÃO: planeta (antiguo)
+游春 | TRADUÇÃO: salir de excursión en primavera/pasear en primavera
+游乐 | TRADUÇÃO: divertirse/recreación/esparcimiento
+游乐园 | TRADUÇÃO: parque de atracciones/parque temático
+游乐场 | TRADUÇÃO: parque de juegos/parque de atracciones/área de recreo
+游标卡尺 | TRADUÇÃO: pie de rey/calibre vernier
+游历 | TRADUÇÃO: recorrer/viajar por diversos lugares/hacer una gira
+游民 | TRADUÇÃO: vagabundo/persona sin oficio ni domicilio/nómada urbano
+游民改造 | TRADUÇÃO: rehabilitación de vagabundos o personas sin hogar
+游牧 | TRADUÇÃO: nomadismo/pastoreo nómada/nomadear
+游猎 | TRADUÇÃO: cacería/partida de caza/llevar una vida de cazador errante
+游玩 | TRADUÇÃO: divertirse/pasear/hacer turismo/jugar
+游船 | TRADUÇÃO: barco de paseo/embarcación turística/barco de recreo
+游艇 | TRADUÇÃO: yate/lancha de recreo/CL:隻|只
+游荡 | TRADUÇÃO: vagar/deambular/callejear/holgazanear
+游艺 | TRADUÇÃO: entretenimiento/juegos recreativos/espectáculos y pasatiempos
+游艺团 | TRADUÇÃO: compañía de variedades/troupe de artistas itinerantes
+游艺场 | TRADUÇÃO: centro recreativo/salón de juegos
+游艺会 | TRADUÇÃO: festival de variedades/kermés/velada recreativa
+游行 | TRADUÇÃO: desfilar/manifestarse/desfile/manifestación/marcha/viajar/recorrer
+游街 | TRADUÇÃO: desfilar por las calles/pasear públicamente por las calles (a un reo para humillarlo)
+游街示众 | TRADUÇÃO: pasear públicamente por las calles para escarmiento/exponer públicamente por las calles (a un condenado)
+游览 | TRADUÇÃO: hacer turismo/visitar/recorrer lugares turísticos/CL:次
+游览区 | TRADUÇÃO: zona turística/área de interés turístico
+游记 | TRADUÇÃO: crónica de viajes/relato de viaje/diario de viaje
+游说 | TRADUÇÃO: cabildear/hacer lobby/persuadir/promover una idea/visitar gobernantes para promover doctrinas políticas (histórico)
+游说集团 | TRADUÇÃO: grupo de presión/grupo de cabildeo/lobby
+游轮 | TRADUÇÃO: crucero (barco)/buque de crucero
+游逛 | TRADUÇÃO: pasear sin rumbo/deambular ociosamente/callejear
+游离 | TRADUÇÃO: disociarse/desvincularse/apartarse (de un grupo)/libre (química)
+运 | TRADUÇÃO: mover/transportar/manejar/utilizar/fortuna/suerte/destino
+运交 | TRADUÇÃO: consignar/remitir (mercancías)/entrega/envío
+运作 | TRADUÇÃO: operar/funcionar/funcionamiento/operaciones/hilo de ejecución (informática)
+运使 | TRADUÇÃO: comisionado de transporte (antiguo)
+运价 | TRADUÇÃO: tarifa de transporte/flete
+运出 | TRADUÇÃO: despachar/expedir/transportar hacia fuera/exportar
+运出运费 | TRADUÇÃO: flete de salida (contabilidad)
+运力 | TRADUÇÃO: capacidad de transporte
+运动 | TRADUÇÃO: moverse/hacer ejercicio/deporte/movimiento/campaña (política o social)/CL:場|场
+运动健将 | TRADUÇÃO: deportista de élite/maestro del deporte (título honorífico otorgado en China)
+运动员 | TRADUÇÃO: deportista/atleta/CL:名,個|个
+运动场 | TRADUÇÃO: campo de deportes/estadio/pista de atletismo
+运动学 | TRADUÇÃO: cinemática
+运动定律 | TRADUÇÃO: leyes del movimiento (mecánica)
+运动家 | TRADUÇÃO: deportista/atleta/activista
+运动战 | TRADUÇÃO: guerra de movimientos
+运动方程 | TRADUÇÃO: ecuaciones de movimiento
+运动会 | TRADUÇÃO: juegos deportivos/competición deportiva/olimpiada escolar/CL:個|个
+运动服 | TRADUÇÃO: ropa deportiva/chándal
+运动病 | TRADUÇÃO: cinetosis/mareo por movimiento
+运动相机 | TRADUÇÃO: cámara de acción
+运动衫 | TRADUÇÃO: sudadera/camiseta deportiva/jersey deportivo/CL:件
+运动鞋 | TRADUÇÃO: zapatillas de deporte/calzado deportivo
+运势 | TRADUÇÃO: suerte/horóscopo/fortuna personal
+运匠 | TRADUÇÃO: variante de 運將|运将
+运十 | TRADUÇÃO: Shanghai Y-10/Yun-10 (avión comercial)
+运命 | TRADUÇÃO: destino/suerte/fortuna
+运单 | TRADUÇÃO: carta de porte/albarán de transporte/guía de remisión
+运城 | TRADUÇÃO: véase 運城市|运城市
+运城市 | TRADUÇÃO: Yuncheng (ciudad-prefectura en la provincia de Shanxi)
+运存 | TRADUÇÃO: memoria RAM (abrev. de 運行內存|运行内存)
+运将 | TRADUÇÃO: taxista/chófer (préstamo del japonés) (Taiwán)
+运思 | TRADUÇÃO: pensar/idear/discurrir/ejercitar la mente
+运庆 | TRADUÇÃO: Unkei (c. 1150-1224, escultor budista japonés)
+运数 | TRADUÇÃO: destino/suerte fijada por el destino
+运气 | TRADUÇÃO: suerte/fortuna
+运河 | TRADUÇÃO: véase 運河區|运河区 ‖ canal (vía fluvial artificial)
+运河区 | TRADUÇÃO: distrito de Yunhe en la ciudad de Cangzhou 滄州市|沧州市, Hebei
+运营 | TRADUÇÃO: operar/estar en servicio/hacer funcionar/explotación comercial/operación
+运营商 | TRADUÇÃO: operador (de telecomunicaciones, transportes, etc.)/empresa operadora
+运营总监 | TRADUÇÃO: director de operaciones/COO
+运球 | TRADUÇÃO: botar/regatear/driblar (baloncesto, fútbol, etc.)
+运用 | TRADUÇÃO: emplear/utilizar/aplicar
+运用自如 | TRADUÇÃO: dominar con soltura/emplear con total destreza (modismo)
+运神 | TRADUÇÃO: concentrarse/poner atención en lo que se hace
+运科 | TRADUÇÃO: ciencias del deporte (abrev. de 運動科學|运动科学) (Taiwán)
+运移 | TRADUÇÃO: migración (geología)
+运程 | TRADUÇÃO: trayectoria de la fortuna/suerte futura (astrología)
+运笔 | TRADUÇÃO: manejar el pincel/técnica de caligrafía/escribir con soltura
+运算 | TRADUÇÃO: realizar operaciones de cálculo/operación matemática/cómputo
+运算式 | TRADUÇÃO: expresión aritmética/expresión de cálculo (mat.)
+运算数 | TRADUÇÃO: operando (mat.)
+运算环境 | TRADUÇÃO: entorno de ejecución/entorno operativo
+运筹 | TRADUÇÃO: planificar/trazar estrategias/logística
+运筹学 | TRADUÇÃO: investigación de operaciones (IO)/investigación operativa
+运筹帷幄 | TRADUÇÃO: trazar planes estratégicos desde la tienda de campaña (modismo)/diseñar estrategias tras bambalinas
+运筹帷幄之中，决胜千里之外 | TRADUÇÃO: planificar dentro de la tienda de campaña y decidir la victoria a mil leguas de distancia (modismo)
+运维 | TRADUÇÃO: operaciones y mantenimiento/administración y soporte de sistemas TI (abrev. de 運行|运行 + 維護|维护)
+运脚 | TRADUÇÃO: gastos de transporte/flete
+运行 | TRADUÇÃO: orbitar (cuerpos celestes)/funcionar/estar en marcha/operar (servicio de trenes, etc.)/ejecutar (informática)
+运行方式 | TRADUÇÃO: modo de funcionamiento/régimen operativo
+运行时 | TRADUÇÃO: tiempo de ejecución/runtime (informática)
+运行时错误 | TRADUÇÃO: error en tiempo de ejecución (informática)
+运货员 | TRADUÇÃO: mozo de carga/porteador/repartidor
+运货马车 | TRADUÇÃO: carreta de carga/carromato
+运费 | TRADUÇÃO: gastos de envío/flete/coste de transporte
+运载 | TRADUÇÃO: transportar/cargar/llevar (mercancías o pasajeros)
+运载火箭 | TRADUÇÃO: cohete lanzador/vehículo lanzador/cohete portador
+运载量 | TRADUÇÃO: capacidad de carga/volumen transportado
+运输 | TRADUÇÃO: transportar/transporte/acarreo
+运输业 | TRADUÇÃO: industria del transporte/sector del transporte
+运输网 | TRADUÇÃO: red de transporte
+运输船 | TRADUÇÃO: buque de transporte/barco de carga
+运输舰 | TRADUÇÃO: buque de transporte militar/nave de transporte
+运输量 | TRADUÇÃO: volumen de transporte/tráfico de mercancías
+运转 | TRADUÇÃO: funcionar/girar/operar/rotar
+运送 | TRADUÇÃO: transportar/trasladar/enviar/acarrear
+运道 | TRADUÇÃO: fortuna/suerte/destino
+运量 | TRADUÇÃO: volumen de transporte/capacidad de carga transportada
+运钞车 | TRADUÇÃO: furgón blindado/vehículo blindado para transporte de valores
+运销 | TRADUÇÃO: distribución y venta/transporte y comercialización (de productos)
+运镜 | TRADUÇÃO: movimiento de cámara/mover la cámara (cinematografía)
+遍及 | TRADUÇÃO: extenderse por todo/llegar a todas partes
+遍地 | TRADUÇÃO: por todas partes/por doquier/en todo el suelo
+遍地开花 | TRADUÇÃO: florecer por doquier/proliferar en todas partes/desarrollarse a gran escala (modismo)
+遍布 | TRADUÇÃO: extenderse por todas partes/estar repartido por todo/hallarse en todas partes
+遍历 | TRADUÇÃO: recorrer por completo/atravesar/ergódico (mat.)
+遍身 | TRADUÇÃO: por todo el cuerpo
+遍体 | TRADUÇÃO: en todo el cuerpo
+遍体鳞伤 | TRADUÇÃO: cubierto de heridas de pies a cabeza/lleno de cardenales y moretones (modismo)
+过 | TRADUÇÃO: apellido Guo ‖ cruzar/pasar (tiempo)/atravesar/celebrar (una fiesta)/vivir/excesivamente/demasiado ‖ (marcador de acción experimentada)
+过一会儿 | TRADUÇÃO: dentro de un momento/más tarde/al cabo de un rato
+过不下 | TRADUÇÃO: no poder seguir viviendo juntos/ser incapaz de ganarse la vida/no poder aguantar más la situación
+过不去 | TRADUÇÃO: dificultar la vida a/hacer pasar un mal rato a/no poder cruzar/no pasar
+过世 | TRADUÇÃO: fallecer/morir/pasar a mejor vida
+过干瘾 | TRADUÇÃO: matar el gusanillo con sucedáneos/disfrutar de forma ilusoria de algo inalcanzable
+过了这个村就没这个店 | TRADUÇÃO: pasada esta aldea no habrá otra posada (modismo)/es una oportunidad única que no se debe dejar pasar
+过了这村没这店 | TRADUÇÃO: pasada esta aldea no habrá otra posada (modismo)/esta es la última oportunidad
+过五关斩六将 | TRADUÇÃO: cruzar cinco pasos y decapitar a seis generales (modismo)/superar innumerables dificultades hasta alcanzar el éxito
+过人 | TRADUÇÃO: superar a los demás/extraordinario/regatear a un rival (fútbol, baloncesto)
+过份 | TRADUÇÃO: variante de 過分|过分
+过低 | TRADUÇÃO: demasiado bajo
+过来 | TRADUÇÃO: venir hacia aquí/cruzar hacia acá/darse abasto/poder manejar la situación ‖ véase 過來|过来
+过来人 | TRADUÇÃO: persona experimentada/alguien que ya ha vivido esa experiencia
+过冬 | TRADUÇÃO: pasar el invierno/invernar
+过分 | TRADUÇÃO: excesivo/desmedido/excesivamente
+过刊 | TRADUÇÃO: número atrasado/publicación atrasada (abrev. de 過期刊物|过期刊物)
+过剩 | TRADUÇÃO: excesivo/excedente/de sobra/superávit
+过劳 | TRADUÇÃO: exceso de trabajo/agotamiento laboral/sobreesfuerzo
+过劳死 | TRADUÇÃO: karoshi (muerte por exceso de trabajo)/muerte por sobreesfuerzo laboral
+过劳肥 | TRADUÇÃO: aumento de peso por estrés laboral/engorde por sobreesfuerzo y sedentarismo en el trabajo
+过半 | TRADUÇÃO: más de la mitad/más del cincuenta por ciento
+过去 | TRADUÇÃO: pasado/anterior/antiguamente/ir hacia allá/pasar de largo ‖ (sufijo verbal de alejamiento)
+过去分词 | TRADUÇÃO: participio pasado (gramática)
+过去式 | TRADUÇÃO: pretérito/tiempo pasado (gramática)
+过去时 | TRADUÇÃO: tiempo pasado/pretérito (gramática)
+过问 | TRADUÇÃO: interesarse por/intervenir en/inmiscuirse en
+过堂 | TRADUÇÃO: comparecer ante el tribunal (antiguo)/comer en el comedor del templo (monjes budistas)
+过场 | TRADUÇÃO: escena de transición/mero formalismo/hacer las cosas por cumplir el trámite
+过塑 | TRADUÇÃO: plastificar/laminar (papelería)
+过境 | TRADUÇÃO: pasar por el territorio/tránsito/atravesar una frontera
+过境签证 | TRADUÇÃO: visado de tránsito/visa de tránsito
+过多 | TRADUÇÃO: excesivo/demasiado/en exceso
+过夜 | TRADUÇÃO: pasar la noche/pernoctar
+过失 | TRADUÇÃO: falta/error/negligencia (derecho)/imprudencia
+过失杀人 | TRADUÇÃO: véase 過失致死罪|过失致死罪
+过失致死罪 | TRADUÇÃO: homicidio involuntario/homicidio por imprudencia (derecho)
+过孔 | TRADUÇÃO: vía (electrónica, agujero pasante en placa de circuito impreso)
+过客 | TRADUÇÃO: viajero de paso/transeúnte/huésped pasajero
+过家家 | TRADUÇÃO: jugar a las casitas/juego de roles infantil
+过审 | TRADUÇÃO: pasar la censura/aprobar la revisión o inspección
+过少 | TRADUÇÃO: demasiado poco/insuficiente/escaso
+过山车 | TRADUÇÃO: montaña rusa
+过帐 | TRADUÇÃO: asentar en el libro mayor/pasar a cuenta (contabilidad)
+过年 | TRADUÇÃO: celebrar el Año Nuevo Chino/pasar el año nuevo
+过度 | TRADUÇÃO: excesivo/desmedido/exceso/sobrepasarse/inmoderado
+过度紧张 | TRADUÇÃO: hipertonía/estrés excesivo/tensión excesiva
+过度医疗 | TRADUÇÃO: sobretratamiento médico/atención médica innecesaria o excesiva
+过度关怀 | TRADUÇÃO: sobreprotección/preocupación obsesiva o excesiva
+过庭录 | TRADUÇÃO: Registro al cruzar el vestíbulo (colección histórica de Fan Gongcheng de la dinastía Song del Sur)
+过往 | TRADUÇÃO: ir y venir/mantener trato/el pasado/anterior
+过后 | TRADUÇÃO: después/más tarde/con posterioridad al hecho
+过得 | TRADUÇÃO: ¿cómo va la vida?/irse pasando/contracción de 過得去|过得去
+过得去 | TRADUÇÃO: poder pasar/ir tirando/pasable/aceptable/¿cómo te va la vida?
+过从 | TRADUÇÃO: frecuentar/tener trato con/relacionarse con
+过意不去 | TRADUÇÃO: sentirse avergonzado por las molestias/sentir remordimiento o pena
+过惯 | TRADUÇÃO: estar acostumbrado a (un estilo de vida)
+过户 | TRADUÇÃO: transferir la titularidad/cambiar de nombre un inmueble o vehículo/traspaso
+过房 | TRADUÇÃO: dar o recibir en adopción (generalmente entre parientes)
+过招 | TRADUÇÃO: cruzar golpes/intercambiar golpes/medir fuerzas en combate
+过敏 | TRADUÇÃO: alérgico (med.)/hipersensible/(fig.) susceptible/propenso a reaccionar exageradamente
+过敏原 | TRADUÇÃO: alérgeno/alergeno
+过敏反应 | TRADUÇÃO: reacción alérgica
+过敏性 | TRADUÇÃO: alérgico/anafiláctico/hipersensibilidad
+过敏性休克 | TRADUÇÃO: choque anafiláctico/choque por anafilaxia
+过敏性反应 | TRADUÇÃO: reacción alérgica/reacción de hipersensibilidad
+过于 | TRADUÇÃO: demasiado/en exceso/excesivamente
+过日子 | TRADUÇÃO: vivir/pasar los días/llevar el día a día
+过早 | TRADUÇÃO: prematuro/demasiado temprano/desayunar/desayuno (dialectal)
+过时 | TRADUÇÃO: anticuado/pasado de moda/fuera de plazo
+过时不候 | TRADUÇÃO: no se admiten retrasos/pasada la hora fijada no se atenderá a nadie (modismo)
+过期 | TRADUÇÃO: caducar/vencer (plazo)/estar fuera de plazo/vencido
+过桥米线 | TRADUÇÃO: fideos de arroz cruzando el puente (plato típico de Yunnan)
+过桥贷款 | TRADUÇÃO: crédito puente/préstamo puente
+过气 | TRADUÇÃO: haber pasado de moda/haber perdido la fama/estrella apagada
+过氧 | TRADUÇÃO: peroxi-/peróxido (quím.)
+过氧化 | TRADUÇÃO: peroxidación/peróxido
+过氧化氢 | TRADUÇÃO: peróxido de hidrógeno/agua oxigenada
+过氧化氢酶 | TRADUÇÃO: catalasa/peroxidasa de hidrógeno
+过氧化物 | TRADUÇÃO: peróxido
+过氧化苯甲酰 | TRADUÇÃO: peróxido de benzoílo
+过氧物酶体 | TRADUÇÃO: peroxisoma (orgánulo celular)
+过氧苯甲酰 | TRADUÇÃO: peróxido de benzoílo
+过水面 | TRADUÇÃO: fideos enfriados con agua fría tras la cocción
+过江之鲫 | TRADUÇÃO: multitud incontable de personas como carpas cruzando el río (modismo)
+过河拆桥 | TRADUÇÃO: quemar las naves tras cruzar el río/deshacerse del benefactor una vez logrado el objetivo (modismo)
+过活 | TRADUÇÃO: ganarse la vida/vivir/pasar la vida
+过渡 | TRADUÇÃO: cruzar en barco/transición/provisional/gobierno en funciones
+过渡性 | TRADUÇÃO: transitorio/de transición
+过渡性贷款 | TRADUÇÃO: préstamo puente/crédito transitorio
+过渡时期 | TRADUÇÃO: período de transición/etapa de transición
+过渡贷款 | TRADUÇÃO: préstamo puente
+过渡金属 | TRADUÇÃO: metal de transición (quím.)
+过激 | TRADUÇÃO: radical/extremo/drástico/agresivo
+过滤 | TRADUÇÃO: filtrar
+过滤嘴 | TRADUÇÃO: filtro de cigarrillo/boquilla con filtro
+过滤器 | TRADUÇÃO: filtro/aparato de filtración
+过火 | TRADUÇÃO: pasarse de la raya/excederse en palabras o actos/quemado
+过热 | TRADUÇÃO: recalentamiento/sobrecalentado/recalentar (economía, física)
+过犯 | TRADUÇÃO: faltas cometidas/pecados anteriores
+过犹不及 | TRADUÇÃO: pasarse es tan malo como no llegar (modismo, de las Analectas)/en el medio está la virtud
+过奖 | TRADUÇÃO: alabar en exceso/halagar/exagerar los elogios
+过生 | TRADUÇÃO: celebrar el cumpleaños
+过生日 | TRADUÇÃO: celebrar el cumpleaños
+过当 | TRADUÇÃO: improcedente/excesivo/desmedido
+过瘾 | TRADUÇÃO: saciar las ganas/quedar plenamente satisfecho/disfrutar a lo grande/satisfactorio
+过目 | TRADUÇÃO: echar una ojeada/revisar visualmente/examinar
+过目不忘 | TRADUÇÃO: memoria fotográfica/no olvidar nada de lo que se lee una sola vez (modismo)
+过眼烟云 | TRADUÇÃO: humo y nubes que pasan ante los ojos/efímero/pasajero (modismo)
+过眼云烟 | TRADUÇÃO: nubes y humo pasajeros ante la vista/algo fugaz y sin importancia (modismo)
+过硬 | TRADUÇÃO: impecable/a toda prueba/de primera calidad/dominar a la perfección
+过磅 | TRADUÇÃO: pesar en báscula
+过秤 | TRADUÇÃO: pesar en la balanza
+过程 | TRADUÇÃO: proceso/curso de los acontecimientos/desarrollo
+过站大厅 | TRADUÇÃO: sala de tránsito (aeropuerto)
+过节 | TRADUÇÃO: celebrar una festividad/tras terminar las fiestas
+过节儿 | TRADUÇÃO: rencilla/resentimiento (coloq.)/buenas maneras (coloq.)
+过筛 | TRADUÇÃO: tamizar/cribar/colar/(fig.) filtrar o seleccionar rigurosamente
+过细 | TRADUÇÃO: sumamente minucioso/meticuloso/detallista en exceso
+过紧日子 | TRADUÇÃO: apretarse el cinturón/vivir con austeridad
+过继 | TRADUÇÃO: adoptar/dar en adopción (generalmente a un pariente sin hijos)
+过而能改，善莫大焉 | TRADUÇÃO: no hay mayor virtud que enmendar los propios errores (modismo)
+过肩摔 | TRADUÇÃO: proyección por encima del hombro/seoi nage (judo)
+过胶 | TRADUÇÃO: plastificar/laminar (papelería)
+过街天桥 | TRADUÇÃO: pasarela peatonal/puente peatonal elevado
+过街老鼠 | TRADUÇÃO: persona aborrecida por todos/objeto del desprecio general/cf. 老鼠過街，人人喊打|老鼠过街，人人喊打
+过誉 | TRADUÇÃO: sobrestimar/elogiar en demasía/es demasiado honor
+过猫 | TRADUÇÃO: brotes tiernos de helecho comestible (Diplazium esculentum) (Taiwán)
+过路人 | TRADUÇÃO: transeúnte/viandante/peatón de paso
+过路费 | TRADUÇÃO: peaje/tarifa de peaje
+过身 | TRADUÇÃO: fallecer/morir
+过载 | TRADUÇÃO: sobrecarga/sobrecargar
+过道 | TRADUÇÃO: pasillo/corredor/pasaje
+过重 | TRADUÇÃO: sobrepeso/exceso de peso (equipaje)
+过量 | TRADUÇÃO: excesivo/dosis excesiva/sobredosis
+过错 | TRADUÇÃO: falta/error/culpa/responsabilidad en una infracción
+过门 | TRADUÇÃO: cruzar el umbral/(de una mujer) casarse e instalarse en la casa del marido/interludio orquestal en la ópera china
+过关 | TRADUÇÃO: pasar una aduana o control/superar una prueba/alcanzar el estándar requerido
+过关斩将 | TRADUÇÃO: superar obstáculos sucesivos/vencer a todos los rivales hasta lograr el éxito (modismo)
+过头 | TRADUÇÃO: pasarse de la raya/exceder el límite/por encima de la cabeza
+过头话 | TRADUÇÃO: palabras exageradas/fanfarronada
+过马路 | TRADUÇÃO: cruzar la calle
+过高 | TRADUÇÃO: excesivamente alto/demasiado elevado
+遏 | TRADUÇÃO: contener/frenar/reprimir
+遏制 | TRADUÇÃO: contener/frenar/refrenar/reprimir/mantener a raya
+遏抑 | TRADUÇÃO: reprimir/sofocar/contener
+遏止 | TRADUÇÃO: detener/frenar en seco/parar los pies
+遏阻 | TRADUÇÃO: impedir/contener/disuadir
+遐 | TRADUÇÃO: lejano/distante/duradero/abandonar
+遐布 | TRADUÇÃO: extenderse a lo lejos/difundirse ampliamente
+遐年 | TRADUÇÃO: edad muy avanzada/longevidad
+遐心 | TRADUÇÃO: deseo de retirarse de la vida pública/deseo de vivir en soledad o aislamiento
+遐志 | TRADUÇÃO: noble ambición/alta aspiración
+遐思 | TRADUÇÃO: ensoñación/pensamientos lejanos y profundos/fantasías
+遐想 | TRADUÇÃO: soñar despierto/dejarse llevar por la imaginación/ensoñación
+遐方 | TRADUÇÃO: tierras lejanas/regiones remotas
+遐弃 | TRADUÇÃO: abandonar/rechazar/desechar
+遐眺 | TRADUÇÃO: contemplar a lo lejos/avistar en la distancia
+遐祉 | TRADUÇÃO: bendiciones duraderas/felicidad duradera
+遐福 | TRADUÇÃO: gran ventura y longevidad/bendiciones perdurables
+遐终 | TRADUÇÃO: por siempre jamás/hasta el fin de los tiempos
+遐胄 | TRADUÇÃO: descendientes lejanos/linaje remoto
+遐举 | TRADUÇÃO: marchar muy lejos/alejarse del mundo terrenal
+遐荒 | TRADUÇÃO: tierras remotas y desérticas/lugares apartados
+遐迹 | TRADUÇÃO: hazañas de los antiguos/vestigios del pasado remoto
+遐轨 | TRADUÇÃO: normas de conducta tradicionales de antaño
+遐迩 | TRADUÇÃO: cerca y lejos/por todas partes
+遐迩一体 | TRADUÇÃO: tratar por igual a cercanos y lejanos (modismo)
+遐迩皆知 | TRADUÇÃO: conocido por doquier/famoso cerca y lejos (modismo)
+遐迩闻名 | TRADUÇÃO: véase 聞名遐邇|闻名遐迩
+遐龄 | TRADUÇÃO: edad muy avanzada/longevidad
+遑 | TRADUÇÃO: ocio/tiempo libre/sosiego
+遑论 | TRADUÇÃO: por no hablar de/mucho menos/ni qué decir de
+遑遑 | TRADUÇÃO: inquieto/ansioso/apresurado
+遒 | TRADUÇÃO: vigoroso/firme/fuerte/acercarse/llegar a su término
+道 | TRADUÇÃO: camino/senda (CL:條|条,股)/principio/razón/doctrina/habilidad/arte/el Dao (taoísmo)/decir (en novelas)/expresar (cortesías)/clasificador para cosas largas y finas, barreras, preguntas de examen, platos de un menú, pasos de un procedimiento/circuito (antigua división administrativa)
+道不同不相为谋 | TRADUÇÃO: quienes siguen caminos distintos no pueden planear juntos (modismo)/caminos divergentes impiden proyectos comunes
+道不拾遗 | TRADUÇÃO: nadie recoge lo que cae en la calle por honradez generalizada (modismo)
+道之所存，师之所存 | TRADUÇÃO: donde reside la verdad allí reside el maestro/quien conoce la doctrina debe ser considerado maestro
+道人 | TRADUÇÃO: taoísta devoto/maestro taoísta (término de respeto)
+道光 | TRADUÇÃO: Daoguang (era del emperador de la dinastía Qing, 1821-1850)
+道光帝 | TRADUÇÃO: emperador Daoguang
+道具 | TRADUÇÃO: atrezo/utilería (teatro)/objeto o artefacto (videojuegos)
+道具服 | TRADUÇÃO: disfraz/traje de teatro o utilería
+道出 | TRADUÇÃO: expresar/manifestar/revelar verbalmente
+道别 | TRADUÇÃO: despedirse/dar el adiós
+道卡斯族 | TRADUÇÃO: etnia taokas (pueblo indígena de Taiwán)
+道喜 | TRADUÇÃO: felicitar/dar la enhorabuena
+道地 | TRADUÇÃO: auténtico/genuino/típico
+道场 | TRADUÇÃO: ceremonia o rito budista o taoísta/abrev. de 菩提道場|菩提道场
+道士 | TRADUÇÃO: sacerdote taoísta
+道外 | TRADUÇÃO: véase 道外區|道外区
+道外区 | TRADUÇÃO: distrito de Daowai en la ciudad de Harbin 哈爾濱市|哈尔滨市, Heilongjiang
+道奇 | TRADUÇÃO: Dodge (marca de automóviles estadounidense)
+道姑 | TRADUÇÃO: sacerdotisa taoísta/monja taoísta
+道孚 | TRADUÇÃO: véase 道孚縣|道孚县
+道孚县 | TRADUÇÃO: condado de Dawu (o Daofu) en la prefectura autónoma tibetana de Garzê 甘孜藏族自治州, Sichuan
+道学 | TRADUÇÃO: neoconfucianismo/estudios taoístas/moralina confuciana/otro nombre de 理學|理学
+道家 | TRADUÇÃO: escuela taoísta (filosofía de Laozi y Zhuangzi)
+道山学海 | TRADUÇÃO: montaña del Dao y mar del saber (modismo)/inmensidad del conocimiento
+道岔 | TRADUÇÃO: aguja de cambio de vía (ferrocarril)/desvío ferroviario
+道德 | TRADUÇÃO: moral/ética/virtud/CL:種|种
+道德困境 | TRADUÇÃO: dilema ético/dilema moral
+道德家 | TRADUÇÃO: moralista
+道德败坏 | TRADUÇÃO: depravación moral/corrupción moral
+道德沦丧 | TRADUÇÃO: bancarrota moral/degeneración moral/decadencia moral
+道德绑架 | TRADUÇÃO: chantaje moral/coacción moral
+道德经 | TRADUÇÃO: Dào Dé Jīng (libro sagrado del taoísmo escrito por Laozi)
+道德观 | TRADUÇÃO: valores morales/concepto de la moral
+道德认识 | TRADUÇÃO: cognición moral/conciencia ética
+道德高地 | TRADUÇÃO: superioridad moral
+道拉吉里峰 | TRADUÇÃO: Dhaulagiri (macizo montañoso en el Himalaya)
+道指 | TRADUÇÃO: índice Dow Jones (abrev. de 道瓊斯指數|道琼斯指数)
+道教 | TRADUÇÃO: taoísmo
+道教徒 | TRADUÇÃO: taoísta/seguidor del taoísmo
+道格拉斯 | TRADUÇÃO: Douglas (nombre propio)
+道格拉斯·麦克阿瑟 | TRADUÇÃO: general Douglas MacArthur (1880-1964)
+道歉 | TRADUÇÃO: disculparse/pedir perdón
+道尔顿 | TRADUÇÃO: Dalton (nombre propio)/John Dalton (1766-1844, científico británico)
+道牙 | TRADUÇÃO: bordillo/cordón de la acera
+道理 | TRADUÇÃO: razón/sentido/lógica/principio/fundamento/CL:個|个
+道琼 | TRADUÇÃO: Dow Jones (índice bursátil)
+道琼斯 | TRADUÇÃO: Dow Jones (índice bursátil)
+道琼斯指数 | TRADUÇÃO: promedio industrial Dow Jones/índice Dow Jones
+道白 | TRADUÇÃO: diálogo o monólogo hablado en la ópera tradicional china
+道真 | TRADUÇÃO: véase 道真仡佬族苗族自治縣|道真仡佬族苗族自治县
+道真仡佬族苗族自治县 | TRADUÇÃO: condado autónomo gelao y miao de Daozhen en la ciudad de Zunyi 遵義市|遵义市, Guizhou
+道真县 | TRADUÇÃO: véase 道真仡佬族苗族自治縣|道真仡佬族苗族自治县
+道破 | TRADUÇÃO: desvelar/poner al descubierto/decir claramente la verdad
+道碴 | TRADUÇÃO: balasto (ferrocarril)
+道系 | TRADUÇÃO: estilo taoísta (actitud activa, optimista y natural ante la vida, contrapuesta a 佛系)
+道统 | TRADUÇÃO: ortodoxia confuciana/línea de transmisión moral y doctrinal confuciana
+道县 | TRADUÇÃO: condado de Daoxian (o Dao) en la ciudad de Yongzhou 永州市, Hunan
+道义 | TRADUÇÃO: moral y justicia/principios éticos
+道听途说 | TRADUÇÃO: rumores/habladurías/chismes de oídas (modismo)
+道台 | TRADUÇÃO: intendente de circuito/daotai (cargo oficial en las dinastías Ming y Qing)
+道藏 | TRADUÇÃO: Canon Taoísta (colección de textos sagrados taoístas)
+道行 | TRADUÇÃO: logros espirituales de la práctica religiosa/destreza/(fig.) habilidad o experiencia acumulada/pron. en Taiwán [dao4 hang5]
+道袍 | TRADUÇÃO: túnica taoísta/bata tradicional masculina
+道里 | TRADUÇÃO: véase 道裡區|道里区
+道里区 | TRADUÇÃO: distrito de Daoli en la ciudad de Harbin 哈爾濱市|哈尔滨市, Heilongjiang
+道观 | TRADUÇÃO: templo taoísta
+道谢 | TRADUÇÃO: dar las gracias/agradecer
+道貌岸然 | TRADUÇÃO: aspecto honorable y virtuoso pero hipócrita/aparentar gran dignidad (modismo)
+道贺 | TRADUÇÃO: felicitar/dar la enhorabuena
+道路 | TRADUÇÃO: carretera/camino/vía/CL:條|条
+道路工程 | TRADUÇÃO: ingeniería vial/construcción de carreteras
+道长 | TRADUÇÃO: sacerdote taoísta/maestro taoísta
+道院 | TRADUÇÃO: Daoyuan (santuario del Dao/sociedad religiosa tradicional china)
+道馆 | TRADUÇÃO: dojo/gimnasio de artes marciales
+道高一尺，魔高一丈 | TRADUÇÃO: por un palmo que avanza la virtud, la tentación avanza una vara (dicho)/a mayor virtud, mayores dificultades
+道高益安，势高益危 | TRADUÇÃO: a mayor rectitud moral mayor seguridad, a mayor poder e influencia mayor peligro (modismo)
+达 | TRADUÇÃO: apellido Da ‖ alcanzar/llegar a/ascender a/comunicar/insigne/ilustre
+达·芬奇 | TRADUÇÃO: Leonardo da Vinci (1452-1519, pintor e inventor del Renacimiento italiano)
+达不到 | TRADUÇÃO: no alcanzar/no lograr/ser incapaz de llegar a
+达人 | TRADUÇÃO: experto/entendido/maestro (coloq.)/persona sensata y comprensiva (literario)/optimista (literario)
+达仁 | TRADUÇÃO: Daren o Tajen (municipio en el condado de Taitung 臺東縣|台东县, sureste de Taiwán)
+达仁乡 | TRADUÇÃO: municipio de Daren en el condado de Taitung 臺東縣|台东县, sureste de Taiwán
+达令 | TRADUÇÃO: cariño/cielo (préstamo del inglés "darling")
+达克瓦兹 | TRADUÇÃO: dacquoise (postre francés)
+达克龙 | TRADUÇÃO: dacrón (marca de fibra sintética)
+达到 | TRADUÇÃO: alcanzar/llegar a/lograr/conseguir
+达卡 | TRADUÇÃO: Daca (capital de Bangladés)/Dakar (capital de Senegal) (Taiwán)
+达味 | TRADUÇÃO: David (nombre propio)
+达味王 | TRADUÇÃO: rey David
+达喀尔 | TRADUÇÃO: Dakar (capital de Senegal)
+达噜噶齐 | TRADUÇÃO: darughachi (gobernador local mongol durante la dinastía Yuan)
+达因 | TRADUÇÃO: dina (unidad de fuerza física)
+达坂城 | TRADUÇÃO: véase 達坂城區|达坂城区
+达坂城区 | TRADUÇÃO: distrito de Dabancheng en la ciudad de Ürümqi 烏魯木齊市|乌鲁木齐市, Xinjiang
+达姆弹 | TRADUÇÃO: bala dum-dum/proyectil expansivo
+达孜 | TRADUÇÃO: véase 達孜區|达孜区
+达孜区 | TRADUÇÃO: distrito de Dagzê en la ciudad de Lhasa 拉薩市|拉萨市, Tíbet
+达官 | TRADUÇÃO: alto dignatario/alto funcionario
+达官贵人 | TRADUÇÃO: altos dignatarios y nobles/personas influyentes y poderosas (modismo)
+达官显贵 | TRADUÇÃO: véase 達官貴人|达官贵人
+达尼亚 | TRADUÇÃO: Dania/Tania (nombre propio)
+达川 | TRADUÇÃO: véase 達川區|达川区
+达川区 | TRADUÇÃO: distrito de Dachuan en la ciudad de Dazhou 達州市|达州市, Sichuan
+达州 | TRADUÇÃO: véase 達州市|达州市
+达州市 | TRADUÇÃO: Dazhou (ciudad-prefectura en la provincia de Sichuan)
+达德利 | TRADUÇÃO: Dudley (nombre propio)
+达悟族 | TRADUÇÃO: pueblo tao (o yami, pueblo indígena de Taiwán)
+达意 | TRADUÇÃO: expresar con claridad el pensamiento/transmitir el significado pretendido
+达成 | TRADUÇÃO: alcanzar (un acuerdo)/lograr/conseguir
+达成协议 | TRADUÇÃO: llegar a un acuerdo/alcanzar un consenso
+达拉斯 | TRADUÇÃO: Dallas (Texas)
+达拉特 | TRADUÇÃO: bandera de Dalad en Ordos 鄂爾多斯|鄂尔多斯, Mongolia Interior
+达拉特旗 | TRADUÇÃO: bandera de Dalad en Ordos 鄂爾多斯|鄂尔多斯, Mongolia Interior
+达摩 | TRADUÇÃO: Dharma (enseñanza budista)/Bodhidharma (fundador del budismo chan)
+达文西 | TRADUÇÃO: Leonardo da Vinci (1452-1519, pintor e inventor renacentista) (Taiwán)
+达斡尔 | TRADUÇÃO: etnia daur
+达斡尔族 | TRADUÇÃO: etnia daur
+达斡尔语 | TRADUÇÃO: lengua daur (idioma mongólico del pueblo daur)
+达日 | TRADUÇÃO: véase 達日縣|达日县
+达日县 | TRADUÇÃO: condado de Darlag en la prefectura autónoma tibetana de Golog 果洛藏族自治州, Qinghai
+达朗贝尔 | TRADUÇÃO: D'Alembert (1717-1783, matemático y filósofo francés)
+达标 | TRADUÇÃO: cumplir con las normas/alcanzar el estándar fijado
+达沃斯 | TRADUÇÃO: Davos (Suiza)/Foro Económico Mundial de Davos
+达沃斯论坛 | TRADUÇÃO: Foro Económico Mundial de Davos
+达乌里寒鸦 | TRADUÇÃO: grajilla oriental (Coloeus dauuricus)
+达尔富尔 | TRADUÇÃO: Darfur (región de Sudán occidental)
+达尔文 | TRADUÇÃO: Charles Darwin (1809-1882, naturalista británico)/Darwin (capital del Territorio del Norte, Australia)
+达尔文主义 | TRADUÇÃO: darwinismo
+达尔文学说 | TRADUÇÃO: teoría de Darwin/darwinismo
+达尔文港 | TRADUÇÃO: puerto Darwin (puerto de la ciudad de Darwin, Australia)
+达尔罕茂明安联合旗 | TRADUÇÃO: bandera unida de Darhan Muming'an en Baotou 包頭|包头, Mongolia Interior
+达尔马提亚 | TRADUÇÃO: Dalmacia (región de Croacia)
+达特茅斯 | TRADUÇÃO: Dartmouth (topónimo)
+达特茅斯学院 | TRADUÇÃO: Dartmouth College
+达科塔·芬妮 | TRADUÇÃO: Dakota Fanning (actriz estadounidense)
+达累斯萨拉姆 | TRADUÇÃO: Dar es Salaam (antigua capital de Tanzania)
+达罗毗荼 | TRADUÇÃO: drávida/dravídico (pueblos y lenguas del sur de la India)
+达美航空 | TRADUÇÃO: Delta Air Lines
+达致 | TRADUÇÃO: lograr/alcanzar/conseguir
+达芬西 | TRADUÇÃO: véase 達·芬奇|达·芬奇
+达茂旗 | TRADUÇÃO: bandera de Darhan Muming'an en Baotou 包頭|包头, Mongolia Interior/abrev. de 達爾罕茂明安聯合旗|达尔罕茂明安联合旗
+达菲 | TRADUÇÃO: Tamiflu (antiviral)
+达兰萨拉 | TRADUÇÃO: Dharamsala (India)
+达观 | TRADUÇÃO: tomarse las cosas con serenidad filosófica/tener una visión amplia y desapegada de la vida
+达赖 | TRADUÇÃO: Dalái Lama/abrev. de 達賴喇嘛|达赖喇嘛
+达赖喇嘛 | TRADUÇÃO: Dalái Lama
+达达尼尔海峡 | TRADUÇÃO: estrecho de los Dardanelos
+达阵 | TRADUÇÃO: touchdown (fútbol americano)/ensayo (rugby)
+达鲁花赤 | TRADUÇÃO: darughachi (oficial o gobernador local mongol durante la dinastía Yuan)
+违 | TRADUÇÃO: desobedecer/infringir/violar/separarse/ir en contra de
+违令 | TRADUÇÃO: desobedecer órdenes/desacatar una orden
+违例 | TRADUÇÃO: quebrantar el reglamento/infracción de las reglas
+违信背约 | TRADUÇÃO: violar el contrato y faltar a la buena fe (modismo)
+违傲 | TRADUÇÃO: desobedecer con soberbia/desacatar
+违别 | TRADUÇÃO: separarse/despedirse/ir en contra de
+违利赴名 | TRADUÇÃO: renunciar al beneficio material en pos de la fama (modismo)
+违反 | TRADUÇÃO: violar/infringir/transgredir/incumplir
+违反宪法 | TRADUÇÃO: violar la constitución/anticonstitucional
+违命 | TRADUÇÃO: desobedecer órdenes/violar el Mandato del Cielo (天命)
+违和 | TRADUÇÃO: indispuesto/enfermo (eufemismo o trato honorífico)
+违天害理 | TRADUÇÃO: ir contra el cielo y la razón/atentar contra la moral universal (modismo)
+违天逆理 | TRADUÇÃO: contrariar las leyes del cielo y de la razón humana (modismo)
+违失 | TRADUÇÃO: falta/error/descuido/conducta impropia
+违建 | TRADUÇÃO: construcción ilegal/edificación no autorizada (abrev. de 違章建築|违章建筑)
+违心 | TRADUÇÃO: en contra de la propia conciencia/contrario a la propia voluntad/fingido
+违心之言 | TRADUÇÃO: palabras contrarias a las propias convicciones/decir algo en contra de la propia voluntad
+违忤 | TRADUÇÃO: desobedecer/llevar la contraria
+违恩负义 | TRADUÇÃO: ser desagradecido con el benefactor/pagar el bien con el mal (modismo)
+违悖 | TRADUÇÃO: transgredir/infringir/igual que 違背|违背
+违宪 | TRADUÇÃO: inconstitucional/violar la constitución
+违戾 | TRADUÇÃO: violar/ir contra/transgredir
+违抗 | TRADUÇÃO: desobedecer/desafiar/rebelarse contra (una orden)
+违拗 | TRADUÇÃO: desobedecer deliberadamente/desafiar/oponerse a los deseos de alguien
+违时绝俗 | TRADUÇÃO: apartarse de la época y romper con las costumbres mundanas (modismo)
+违标 | TRADUÇÃO: infringir las normas técnicas/no cumplir los criterios reglamentarios
+违法 | TRADUÇÃO: cometer una ilegalidad/quebrantar la ley/ilegal/ilícito
+违法乱纪 | TRADUÇÃO: quebrantar la ley y violar la disciplina (modismo)
+违犯 | TRADUÇÃO: infringir/violar (la ley o normas)
+违碍 | TRADUÇÃO: tabú/prohibición/impedimento normativo
+违禁 | TRADUÇÃO: violar una prohibición/ilícito/prohibido
+违禁品 | TRADUÇÃO: artículos prohibidos/contrabando
+违禁药品 | TRADUÇÃO: medicamentos prohibidos/fármacos ilegales
+违章 | TRADUÇÃO: infringir las normas de tráfico o reglamentos
+违章者 | TRADUÇÃO: infractor/persona que incumple el reglamento
+违纪 | TRADUÇÃO: indisciplina/cometer una infracción disciplinaria/violar la disciplina
+违约 | TRADUÇÃO: rescindir o incumplir un contrato/romper una promesa/incumplimiento contractual
+违约金 | TRADUÇÃO: indemnización por incumplimiento/multa contractual/penalización
+违者 | TRADUÇÃO: infractor/aquel que quebranta la norma
+违背 | TRADUÇÃO: violar/contravenir/ir en contra de
+违规 | TRADUÇÃO: infringir el reglamento/cometer una infracción
+违言 | TRADUÇÃO: palabras hirientes/reproches injustos/disputas verbales
+违误 | TRADUÇÃO: desobedecer causando demoras/obstruir y retrasar
+违逆 | TRADUÇÃO: desobedecer/desafiar un mandato/ir en contra de
+遘 | TRADUÇÃO: encontrarse inesperadamente/toparse con
+遥 | TRADUÇÃO: lejano/remoto/distante
+遥不可及 | TRADUÇÃO: inalcanzable/extremadamente lejano/fuera del alcance (modismo)
+遥想 | TRADUÇÃO: evocar o pensar en tiempos remotos (pasados o futuros)
+遥感 | TRADUÇÃO: teledetección/sensoramiento remoto
+遥控 | TRADUÇÃO: controlar a distancia/teledirigir/control remoto
+遥控器 | TRADUÇÃO: mando a distancia/control remoto
+遥控操作 | TRADUÇÃO: operación a distancia/telecontrol
+遥控车 | TRADUÇÃO: coche teledirigido/coche radiocontrolado
+遥望 | TRADUÇÃO: mirar a lo lejos/avistar en la distancia
+遥测 | TRADUÇÃO: telemetría
+遥祝 | TRADUÇÃO: enviar parabienes desde la distancia/felicitar desde lejos
+遥观 | TRADUÇÃO: observar desde la lejanía/mirar a lo lejos
+遥遥 | TRADUÇÃO: distante/lejano/a gran distancia
+遥遥无期 | TRADUÇÃO: sin fecha a la vista/lejos en un futuro indefinido (modismo)
+遥遥领先 | TRADUÇÃO: ir muy por delante/liderar con amplia ventaja (modismo)
+遥远 | TRADUÇÃO: lejano/distante/remoto
+遛 | TRADUÇÃO: usado en 逗遛 ‖ pasear/sacar a pasear (un animal)
+遛娃 | TRADUÇÃO: pasear al niño/salir a pasear con el bebé (coloq.)
+遛弯 | TRADUÇÃO: dar una vuelta/pasear/salir a dar un paseo (dialectal)
+遛弯儿 | TRADUÇÃO: variante erhua de 遛彎|遛弯
+遛狗 | TRADUÇÃO: pasear al perro/sacar al perro a pasear
+逊 | TRADUÇÃO: abdicar/modesto/humilde/ceder el paso/inferior a/(jerga) apestar/ser un fiasco
+逊位 | TRADUÇÃO: abdicar del trono/renunciar al puesto
+逊克 | TRADUÇÃO: véase 遜克縣|逊克县
+逊克县 | TRADUÇÃO: condado de Xunke en la ciudad de Heihe 黑河市, Heilongjiang
+逊尼 | TRADUÇÃO: sunita/sunismo
+逊尼派 | TRADUÇÃO: rama sunita del islam/sunismo
+逊色 | TRADUÇÃO: inferior/desmerecer (a menudo en la combinación 毫無遜色|毫无逊色, no desmerecer en absoluto)
+逊顺 | TRADUÇÃO: modesto y dócil/humilde y obediente
+遝 | TRADUÇÃO: abundante/mezclado/confuso
+递 | TRADUÇÃO: entregar/pasar/transmitir/sucesivamente/progresivamente
+递交 | TRADUÇÃO: presentar/entregar formalmente/hacer entrega de
+递加 | TRADUÇÃO: aumento progresivo/incrementar por etapas
+递升 | TRADUÇÃO: ascender progresivamente
+递增 | TRADUÇÃO: aumentar progresivamente/incremento gradual/creciente
+递嬗 | TRADUÇÃO: sucederse paulatinamente/evolucionar mediante cambios continuos (literario)
+递推 | TRADUÇÃO: recurrencia/cálculo recursivo/deducción recursiva
+递推公式 | TRADUÇÃO: fórmula de recurrencia
+递推关系 | TRADUÇÃO: relación de recurrencia (mat.)
+递条子 | TRADUÇÃO: pasar una nota/hacer llegar un mensaje secreto o informal
+递归 | TRADUÇÃO: recursividad/recursión/recursivo
+递减 | TRADUÇÃO: disminuir progresivamente/decrecimiento gradual/decreciente
+递眼色 | TRADUÇÃO: hacer una seña con los ojos/guiñar con significado cómplice
+递给 | TRADUÇÃO: entregar a/pasar en mano a
+递补 | TRADUÇÃO: sustituir en orden/cubrir una vacante sucesivamente
+递解 | TRADUÇÃO: escoltar a un reo bajo custodia a su destino (antiguo)
+递质 | TRADUÇÃO: neurotransmisor
+递回 | TRADUÇÃO: véase 遞歸|递归
+递送 | TRADUÇÃO: enviar/entregar/repartir (mensajes, paquetes)
+递进 | TRADUÇÃO: progreso gradual/avanzar paso a paso/gradación acumulativa
+递降 | TRADUÇÃO: descender gradualmente/disminuir progresivamente
+遟 | TRADUÇÃO: variante de 遲|迟
+远 | TRADUÇÃO: lejano/distante/remoto/con mucho/mucho más ‖ distanciarse de/alejarse de (clásico)
+远人 | TRADUÇÃO: persona forastera/alguien que vive lejos de su hogar/persona distanciada
+远来的和尚会念经 | TRADUÇÃO: el monje venido de lejos sabe rezar mejor (modismo)/nadie es profeta en su tierra/se valora más el talento foráneo que el local
+远光灯 | TRADUÇÃO: luces largas/luces de carretera (vehículos)
+远劳 | TRADUÇÃO: agradecer el largo viaje realizado/molestar con un viaje largo (fórmula de cortesía)
+远古 | TRADUÇÃO: antigüedad remota/tiempos prehistóricos o primigenios
+远因 | TRADUÇÃO: causa remota/causa indirecta
+远地点 | TRADUÇÃO: apogeo (astronomía)
+远大 | TRADUÇÃO: de gran alcance/ambicioso/prometedor
+远大理想 | TRADUÇÃO: ideales elevados/grandes aspiraciones
+远天 | TRADUÇÃO: cielo lejano/el horizonte del firmamento
+远嫁 | TRADUÇÃO: casarse e ir a vivir lejos de la familia paterna
+远安 | TRADUÇÃO: véase 遠安縣|远安县
+远安县 | TRADUÇÃO: condado de Yuan'an en la ciudad de Yichang 宜昌市, Hubei
+远客 | TRADUÇÃO: huésped venido de lejos/visitante de tierras lejanas
+远征 | TRADUÇÃO: expedición militar/partida a tierras lejanas/larga travesía
+远征军 | TRADUÇÃO: ejército expedicionario/fuerza expedicionaria
+远志 | TRADUÇÃO: gran aspiración/polígala (planta medicinal de la MTC)
+远虑 | TRADUÇÃO: previsión de futuro/pensamiento a largo plazo
+远房 | TRADUÇÃO: pariente lejano/rama distante de la familia
+远拱点 | TRADUÇÃO: apoastro/apoápside (astronomía)
+远扬 | TRADUÇÃO: difundirse a lo lejos (fama, renombre)
+远方 | TRADUÇÃO: tierras lejanas/la distancia/lugar remoto
+远方来鸿 | TRADUÇÃO: carta de tierras lejanas (literario)
+远日点 | TRADUÇÃO: afelio (astronomía)/opuesto: perihelio 近日點|近日点
+远景 | TRADUÇÃO: vista a lo lejos/perspectivas a largo plazo/plano general o panorámico (fotografía)
+远望 | TRADUÇÃO: contemplar a lo lejos/avistar en la distancia
+远期 | TRADUÇÃO: a largo plazo/a plazo futuro/abrev. de 遠期合約|远期合约
+远期合约 | TRADUÇÃO: contrato a plazo/contrato a término/forward (finanzas)
+远未解决 | TRADUÇÃO: lejos de resolverse/aún no resuelto
+远东 | TRADUÇÃO: Extremo Oriente
+远东山雀 | TRADUÇÃO: carbonero oriental (Parus minor)
+远东树莺 | TRADUÇÃO: cetia cantarina (Horornis canturians)
+远东苇莺 | TRADUÇÃO: carricero de Manchuria (Acrocephalus tangorum)
+远东豹 | TRADUÇÃO: leopardo de Amur (Panthera pardus orientalis)
+远水不救近火 | TRADUÇÃO: véase 遠水救不了近火|远水救不了近火
+远水不解近渴 | TRADUÇÃO: el agua lejana no calma la sed inmediata (modismo)/un remedio lento no atiende la urgencia actual
+远水救不了近火 | TRADUÇÃO: el agua de lejos no apaga el fuego cercano (modismo)/la ayuda lejana no remedia la emergencia inmediata
+远洋 | TRADUÇÃO: alta mar/océano lejano
+远涉 | TRADUÇÃO: cruzar vastos mares o largas distancias
+远渡重洋 | TRADUÇÃO: atravesar los mares/cruzar océanos hacia tierras lejanas
+远略 | TRADUÇÃO: estrategia a largo plazo/visión estratégica profunda
+远眺 | TRADUÇÃO: otear/contemplar la lejanía desde lo alto
+远祖 | TRADUÇÃO: ancestro remoto/antepasado lejano
+远程 | TRADUÇÃO: de larga distancia/remoto/de largo alcance
+远程导弹 | TRADUÇÃO: misil de largo alcance
+远程登录 | TRADUÇÃO: inicio de sesión remoto/acceso remoto
+远程监控 | TRADUÇÃO: monitorización remota/telemetría y control
+远端 | TRADUÇÃO: extremo distante/remoto (informática)/distal (anatomía)
+远端工作 | TRADUÇÃO: teletrabajo/trabajar a distancia/trabajo remoto
+远端胞浆 | TRADUÇÃO: citoplasma distal
+远端转移 | TRADUÇÃO: metástasis a distancia
+远缘 | TRADUÇÃO: parentesco lejano/afinidad remota
+远胄 | TRADUÇÃO: descendientes lejanos/linaje lejano
+远航 | TRADUÇÃO: navegación de larga distancia/travesía oceánica/vuelo de largo radio
+远藤 | TRADUÇÃO: Endō (apellido japonés)
+远处 | TRADUÇÃO: lugar lejano/a lo lejos/en la lejanía
+远行 | TRADUÇÃO: viajar lejos/emprender un largo viaje
+远见 | TRADUÇÃO: visión de futuro/perspicacia/previsión
+远见卓识 | TRADUÇÃO: visión perspicaz y sobresaliente (modismo)/gran altura de miras
+远视 | TRADUÇÃO: hipermetropía/hipermétrope
+远亲 | TRADUÇÃO: pariente lejano
+远亲不如近邻 | TRADUÇÃO: más vale vecino cercano que pariente lejano (modismo)
+远谋 | TRADUÇÃO: plan de gran alcance/estrategia a largo plazo
+远识 | TRADUÇÃO: previsión/visión de futuro
+远走高飞 | TRADUÇÃO: poner pies en polvorosa/huir muy lejos (modismo)
+远赴 | TRADUÇÃO: dirigirse a un lugar lejano/viajar a tierras lejanas
+远超 | TRADUÇÃO: superar con creces/sobrepasar por mucho
+远超过 | TRADUÇÃO: superar ampliamente/superar con creces
+远足 | TRADUÇÃO: excursión/caminata/senderismo
+远距离 | TRADUÇÃO: a gran distancia/de larga distancia/de largo alcance
+远距离监视 | TRADUÇÃO: vigilancia remota/monitorización a distancia
+远近 | TRADUÇÃO: cerca y lejos/distancia
+远近皆知 | TRADUÇÃO: conocido por todos cerca y lejos (modismo)
+远近闻名 | TRADUÇÃO: famoso en todas partes/célebre cerca y lejos
+远途 | TRADUÇÃO: largo recorrido/trayecto largo
+远逝 | TRADUÇÃO: desvanecerse en la distancia/extinguirse gradualmente
+远游 | TRADUÇÃO: viajar a lugares lejanos/largo periplo
+远道而来 | TRADUÇÃO: venir de muy lejos/llegar tras un largo viaje
+远远 | TRADUÇÃO: lejano/con creces/por mucho
+远远超过 | TRADUÇÃO: superar con creces/superar con amplia diferencia
+远避 | TRADUÇÃO: mantenerse lejos de/evitar/apartarse
+远郊 | TRADUÇÃO: periferia lejana/suburbios lejanos de una ciudad
+远销 | TRADUÇÃO: venderse en mercados lejanos/comercializarse en el exterior
+远门 | TRADUÇÃO: usado en 出遠門|出远门/pariente lejano
+远门近枝 | TRADUÇÃO: parientes lejanos y cercanos
+远隔千里 | TRADUÇÃO: separado por miles de leguas/a miles de kilómetros de distancia
+远离 | TRADUÇÃO: alejarse de/mantenerse apartado de
+远非如此 | TRADUÇÃO: nada más lejos de la realidad (modismo)/dista mucho de ser así
+遢 | TRADUÇÃO: usado en 邋遢/pron. en Taiwán [ta4]
+遣 | TRADUÇÃO: despachar/enviar/disipar/ahuyentar
+遣使 | TRADUÇÃO: enviar un emisario/despachar un enviado diplomático
+遣闷 | TRADUÇÃO: disipar las penas/aliviar el tedio o la melancolía
+遣散 | TRADUÇÃO: despedir personal/licenciar/desmovilizar tropas/disolver
+遣散费 | TRADUÇÃO: indemnización por despido/finiquito
+遣词 | TRADUÇÃO: elegir las palabras/elección de términos/estilo léxico
+遣返 | TRADUÇÃO: repatriar/devolver al país de origen
+遣送 | TRADUÇÃO: deportar/repatriar/enviar de vuelta
+遣送出境 | TRADUÇÃO: expulsar del país/deportar
+遨 | TRADUÇÃO: viajar/pasear/hacer una excursión
+遨翔 | TRADUÇÃO: variante de 翱翔
+遨游 | TRADUÇÃO: viajar/recorrer/surcar/deambular libremente
+适中 | TRADUÇÃO: moderado/adecuado/bien situado geográficamente
+适人 | TRADUÇÃO: casarse (referido a una mujer) (antiguo)
+适值 | TRADUÇÃO: coincidir en ese momento/suceder justamente en esa ocasión
+适切 | TRADUÇÃO: pertinente/adecuado/apropiado
+适可而止 | TRADUÇÃO: parar a tiempo/saber cuándo detenerse/no sobrepasar los límites (modismo)
+适合 | TRADUÇÃO: convenir/adaptarse a/adecuado para/apropiado
+适婚 | TRADUÇÃO: en edad núbil/en edad casadera
+适婚期 | TRADUÇÃO: edad núbil/edad casadera
+适存度 | TRADUÇÃO: aptitud biológica/eficacia biológica (evolución)
+适宜 | TRADUÇÃO: adecuado/conveniente/apropiado
+适度 | TRADUÇÃO: moderado/con mesura/adecuado
+适得其反 | TRADUÇÃO: conseguir el efecto contrario al deseado/contraproducente
+适得其所 | TRADUÇÃO: encontrar el lugar idóneo/hallar exactamente lo que correspondía
+适意 | TRADUÇÃO: agradable/conforme a los deseos/confortable
+适应 | TRADUÇÃO: adaptarse/ajustarse a/adecuarse
+适应性 | TRADUÇÃO: adaptabilidad/capacidad de adaptación
+适才 | TRADUÇÃO: hace un momento/recién/justo ahora (en lengua vernácula clásica)
+适时 | TRADUÇÃO: a tiempo/oportuno/en el momento adecuado
+适格 | TRADUÇÃO: tener legitimación/estar cualificado legalmente (derecho)
+适温 | TRADUÇÃO: temperatura adecuada/organismo termófilo
+适用 | TRADUÇÃO: aplicable/adecuado para el uso
+适当 | TRADUÇÃO: adecuado/apropiado/conveniente
+适老化 | TRADUÇÃO: adaptación para la tercera edad/acondicionamiento para ancianos
+适者生存 | TRADUÇÃO: supervivencia del más apto
+适航 | TRADUÇÃO: aeronavegabilidad/navegabilidad marítima
+适逢 | TRADUÇÃO: coincidir por casualidad con/dar la casualidad de que
+适逢其会 | TRADUÇÃO: llegar en el momento oportuno/estar en el lugar adecuado en el momento justo (modismo)
+适配 | TRADUÇÃO: adaptar/adaptación/hacer compatible
+适配器 | TRADUÇÃO: adaptador (dispositivo)
+适配层 | TRADUÇÃO: capa de adaptación (informática)
+适量 | TRADUÇÃO: cantidad moderada/dosis adecuada
+适销 | TRADUÇÃO: vendible/comercializable/adecuado a la demanda del mercado
+适间 | TRADUÇÃO: hace un momento/justo recién
+适龄 | TRADUÇÃO: en edad reglamentaria/en edad adecuada
+遫 | TRADUÇÃO: ágil/rápido/despabilado
+遭 | TRADUÇÃO: toparse con (habitualmente una desgracia)/sufrir/clasificador para ocasiones, veces o incidentes
+遭到 | TRADUÇÃO: sufrir/padecer/ser víctima de (algo desfavorable)
+遭受 | TRADUÇÃO: sufrir/padecer/soportar (pérdidas, desgracias)
+遭拒 | TRADUÇÃO: ser rechazado/recibir una denegación (de visado, etc.)
+遭殃 | TRADUÇÃO: sufrir una calamidad/ser víctima de una catástrofe
+遭瘟 | TRADUÇÃO: padecer una peste/sufrir una desgracia/¡maldito sea!
+遭罪 | TRADUÇÃO: pasar penalidades/sufrir penurias/padecer tormentos
+遭逢 | TRADUÇÃO: toparse con/encontrarse con (algo adverso)
+遭遇 | TRADUÇÃO: toparse con/enfrentar (desgracias o dificultades)/vivencia amarga/peripecia
+遭遇战 | TRADUÇÃO: combate de encuentro/escaramuza (militar)
+遭重 | TRADUÇÃO: sufrir graves consecuencias/recibir un duro golpe (jerga)
+遭际 | TRADUÇÃO: avatares de la vida/vicisitudes de la existencia (literario)
+遭难 | TRADUÇÃO: ser víctima de un siniestro/sufrir una calamidad/fallecer en un accidente
+遮 | TRADUÇÃO: cubrir/tapar/ocultar/disimular/proteger
+遮住 | TRADUÇÃO: cubrir por completo/tapar/bloquear la vista/hacer sombra
+遮天蔽日 | TRADUÇÃO: oscurecer el cielo y tapar el sol (modismo)/cubrirlo todo por completo
+遮掩 | TRADUÇÃO: encubrir/ocultar/disimular (la verdad, faltas)
+遮挡 | TRADUÇÃO: resguardar/proteger de/tapar/parapeto
+遮断 | TRADUÇÃO: cortar/interrumpir el paso/bloquear el acceso
+遮瑕膏 | TRADUÇÃO: corrector (cosméticos)
+遮目鱼 | TRADUÇÃO: sabalote/pez de leche (Chanos chanos)
+遮羞 | TRADUÇÃO: tapar la vergüenza/disimular una situación bochornosa/ocultar un escándalo
+遮羞布 | TRADUÇÃO: taparrabos/(fig.) hoja de parra/artimaña para disimular una vergüenza/CL:塊|块
+遮盖 | TRADUÇÃO: tapar/cubrir/ocultar (las huellas)
+遮荫 | TRADUÇÃO: dar sombra/proporcionar sombra/pron. en Taiwán [zhe1yin4]
+遮蔽 | TRADUÇÃO: cubrir/ocultar a la vista/obstruir/desenfilada (militar)
+遮护板 | TRADUÇÃO: placa protectora/escudo protector
+遮遮掩掩 | TRADUÇÃO: andarse con secretismos/intentar ocultar las cosas a toda costa (modismo)
+遮阴 | TRADUÇÃO: proporcionar sombra/hacer sombra
+遮阳 | TRADUÇÃO: protegerse del sol/resguardar del sol
+遮阳板 | TRADUÇÃO: parasol/visera parasol
+遮风避雨 | TRADUÇÃO: resguardarse del viento y la lluvia/protegerse de la intemperie
+遰 | TRADUÇÃO: alejarse/emigrar/mudarse
+迟 | TRADUÇÃO: apellido Chi ‖ tardío/retrasado/lento
+迟了 | TRADUÇÃO: llegar tarde/ser demasiado tarde
+迟交 | TRADUÇÃO: entregar fuera de plazo/demorarse en la entrega (pago, tareas)
+迟到 | TRADUÇÃO: llegar tarde/retrasarse
+迟延 | TRADUÇÃO: demorar/retrasar/posponer
+迟慢 | TRADUÇÃO: lento/pausado/retrasado
+迟早 | TRADUÇÃO: tarde o temprano/más tarde o más temprano
+迟暮 | TRADUÇÃO: en el ocaso de la vida/en la vejez
+迟浩田 | TRADUÇÃO: Chi Haotian (1929-, ministro de Defensa Nacional de China entre 1993 y 2003)
+迟滞 | TRADUÇÃO: ralentizar/demora/retraso/dilación
+迟滞现象 | TRADUÇÃO: histéresis (física)
+迟疑 | TRADUÇÃO: vacilar/dudar/titubear
+迟发性损伤 | TRADUÇÃO: lesión retardada/daño de aparición tardía
+迟缓 | TRADUÇÃO: lento/aletargado/moroso
+迟误 | TRADUÇÃO: demorarse/retrasarse por negligencia
+迟迟 | TRADUÇÃO: con lentitud/tardíamente/demorarse en actuar
+迟钝 | TRADUÇÃO: lento de reflejos/torpe de mente o movimiento/insensible
+迟顿 | TRADUÇÃO: inactivo/obtuso/lento
+遴 | TRADUÇÃO: apellido Lin ‖ seleccionar/escoger (literario)
+遴选 | TRADUÇÃO: seleccionar cuidadosamente/elegir a los mejores/cribar
+遵 | TRADUÇÃO: acatar/obedecer/cumplir/seguir
+遵令 | TRADUÇÃO: obedecer órdenes/acatar instrucciones
+遵化 | TRADUÇÃO: véase 遵化市
+遵化市 | TRADUÇÃO: Zunhua (ciudad-condado en la ciudad de Tangshan 唐山市, Hebei)
+遵命 | TRADUÇÃO: a la orden/obedecer las órdenes/hacer lo dispuesto
+遵奉 | TRADUÇÃO: acatar fielmente/obedecer con devoción
+遵守 | TRADUÇÃO: respetar/cumplir/acatar (un acuerdo o ley)
+遵从 | TRADUÇÃO: someterse a/obedecer/acatar (directrices)
+遵循 | TRADUÇÃO: seguir/atenerse a/observar/cumplir
+遵旨 | TRADUÇÃO: a la orden de Su Majestad/cumplir el edicto imperial
+遵时养晦 | TRADUÇÃO: aguardar el momento oportuno en la sombra (modismo)
+遵照 | TRADUÇÃO: con arreglo a/de conformidad con/según las instrucciones
+遵义 | TRADUÇÃO: véase 遵義市|遵义市
+遵义市 | TRADUÇÃO: Zunyi (ciudad-prefectura en la provincia de Guizhou 貴州省|贵州省)
+遵义会议 | TRADUÇÃO: Conferencia de Zunyi (enero de 1935, durante la Gran Marcha)
+遵行 | TRADUÇÃO: poner en práctica/acatar y ejecutar/seguir fielmente
+遵办 | TRADUÇÃO: proceder según las instrucciones/actuar con arreglo a lo ordenado
+遵医嘱 | TRADUÇÃO: seguir las indicaciones del médico/según prescripción médica
+迁 | TRADUÇÃO: trasladar/mudar de lugar/cambiar de residencia/ascender
+迁入 | TRADUÇÃO: mudarse a/establecerse en/ingresar como residente
+迁安 | TRADUÇÃO: véase 遷安市|迁安市
+迁安市 | TRADUÇÃO: Qian'an (ciudad-condado en la ciudad de Tangshan 唐山市, Hebei)
+迁就 | TRADUÇÃO: contemporizar/hacer concesiones/plegarse a la voluntad ajena
+迁居 | TRADUÇÃO: mudar de residencia/trasladarse de domicilio
+迁居移民 | TRADUÇÃO: inmigración/reasentamiento poblacional
+迁延 | TRADUÇÃO: demorarse/postergar/prolongarse en el tiempo
+迁徙 | TRADUÇÃO: migrar/trasladarse/emigrar
+迁怒 | TRADUÇÃO: desquitarse con alguien inocente/pagar la ira con otros
+迁怒于人 | TRADUÇÃO: pagar la rabia con un inocente (modismo)/descargar la cólera en quien no tiene la culpa
+迁移 | TRADUÇÃO: migrar/trasladarse/mudarse
+迁西 | TRADUÇÃO: véase 遷西縣|迁西县
+迁西县 | TRADUÇÃO: condado de Qianxi en la ciudad de Tangshan 唐山市, Hebei
+迁都 | TRADUÇÃO: trasladar la capital
+迁离 | TRADUÇÃO: mudarse fuera/abandonar la residencia/emigrar
+迁飞 | TRADUÇÃO: migrar en vuelo (aves o insectos)
+选 | TRADUÇÃO: elegir/escoger/seleccionar/votar
+选中 | TRADUÇÃO: seleccionar/elegir/decidirse por
+选修 | TRADUÇÃO: cursar como asignatura optativa/materia electiva/optativa
+选修课 | TRADUÇÃO: asignatura optativa/curso electivo
+选入 | TRADUÇÃO: ser seleccionado para/ser admitido/ser elegido
+选出 | TRADUÇÃO: escoger/seleccionar/elegir mediante sufragio
+选区 | TRADUÇÃO: circunscripción electoral/distrito electoral
+选取 | TRADUÇÃO: escoger/seleccionar/tomar
+选召 | TRADUÇÃO: elegido y llamado/vocación divina
+选品 | TRADUÇÃO: selección de productos/curaduría de catálogo comercial
+选单 | TRADUÇÃO: menú (informática)
+选单列 | TRADUÇÃO: barra de menús (informática) (Taiwán)
+选址 | TRADUÇÃO: seleccionar un emplazamiento/elección de la ubicación/emplazamiento
+选士 | TRADUÇÃO: seleccionar letrados para cargos públicos (antiguo)/sabios elegidos (dinastía Zhou)
+选定 | TRADUÇÃO: determinar/fijar por elección/escoger definitivamente
+选情 | TRADUÇÃO: panorama electoral/situación de la campaña electoral
+选战 | TRADUÇÃO: contienda electoral/campaña electoral
+选手 | TRADUÇÃO: competidor/atleta/participante
+选拔 | TRADUÇÃO: seleccionar a los mejores/hacer un proceso de selección
+选择 | TRADUÇÃO: elegir/seleccionar/elección/opción/alternativa
+选择性 | TRADUÇÃO: selectividad/selectivo/carácter electivo
+选择题 | TRADUÇÃO: pregunta de opción múltiple/pregunta tipo test
+选本 | TRADUÇÃO: antología/selección de textos
+选民 | TRADUÇÃO: votante/electorado/elector
+选民登记 | TRADUÇÃO: censo electoral/registro de votantes
+选派 | TRADUÇÃO: designar/seleccionar y enviar a una misión
+选用 | TRADUÇÃO: seleccionar para su uso/elegir y emplear
+选票 | TRADUÇÃO: papeleta de voto/voto/sufragio/CL:張|张
+选秀 | TRADUÇÃO: certamen de talentos/draft deportivo/selección de doncellas imperiales
+选秀节目 | TRADUÇÃO: concurso de talentos/programa de cazatalentos
+选编 | TRADUÇÃO: recopilar y seleccionar/antología/selección de obras
+选美 | TRADUÇÃO: certamen de belleza/concurso de belleza
+选美比赛 | TRADUÇÃO: concurso de belleza
+选美皇后 | TRADUÇÃO: reina de la belleza/miss
+选听 | TRADUÇÃO: audición selectiva/escucha selectiva (lingüística)
+选育 | TRADUÇÃO: fitomejoramiento/selección y mejora genética
+选举 | TRADUÇÃO: elegir/elección/sufragio/CL:次,個|个
+选举人 | TRADUÇÃO: elector/votante
+选举人团 | TRADUÇÃO: Colegio Electoral (de Estados Unidos)
+选举团 | TRADUÇÃO: Colegio Electoral (de Estados Unidos)
+选举委员会 | TRADUÇÃO: Comisión Electoral (Hong Kong)
+选举权 | TRADUÇÃO: derecho de voto/sufragio
+选举法庭 | TRADUÇÃO: tribunal electoral
+选装 | TRADUÇÃO: equipamiento opcional/extra opcional
+选角 | TRADUÇÃO: audición de actores/selección de reparto/casting
+选课 | TRADUÇÃO: matricular asignaturas/elegir asignaturas
+选购 | TRADUÇÃO: seleccionar y comprar/adquirir
+选送 | TRADUÇÃO: seleccionar y enviar/presentar candidatos seleccionados
+选边站 | TRADUÇÃO: tomar partido/posicionarse en un bando
+选录 | TRADUÇÃO: antología/selección extractada
+选集 | TRADUÇÃO: obras escogidas/antología
+选项 | TRADUÇÃO: opción/alternativa/seleccionar un proyecto
+选题 | TRADUÇÃO: elegir un tema (de investigación o ensayo)/tema seleccionado
+选点 | TRADUÇÃO: seleccionar el emplazamiento idóneo/punto de muestreo
+遹 | TRADUÇÃO: apellido Yu ‖ seguir/conforme a
+遗 | TRADUÇÃO: dejar tras de sí/legar/perder involuntariamente/olvidar
+遗作 | TRADUÇÃO: obra póstuma
+遗传 | TRADUÇÃO: herencia genética/heredar (un rasgo)/transmitir a la descendencia
+遗传信息 | TRADUÇÃO: información genética
+遗传学 | TRADUÇÃO: genética
+遗传工程 | TRADUÇÃO: ingeniería genética
+遗传性 | TRADUÇÃO: hereditario/genético
+遗传性疾病 | TRADUÇÃO: enfermedad hereditaria/trastorno genético
+遗传物质 | TRADUÇÃO: material genético
+遗传率 | TRADUÇÃO: heredabilidad
+遗像 | TRADUÇÃO: retrato del difunto
+遗嘱 | TRADUÇÃO: testamento/última voluntad
+遗址 | TRADUÇÃO: ruinas arqueológicas/yacimiento histórico
+遗墨 | TRADUÇÃO: escritos o pinturas póstumos del difunto
+遗失 | TRADUÇÃO: perder/extraviar/olvidar por descuido
+遗妻 | TRADUÇÃO: viuda
+遗孀 | TRADUÇÃO: viuda (formal)
+遗存 | TRADUÇÃO: vestigios históricos/restos arqueológicos/pervivir desde la antigüedad
+遗孤 | TRADUÇÃO: huérfano (de guerra o calamidad)
+遗害无穷 | TRADUÇÃO: causar un daño interminable/acarrear desastrosas consecuencias duraderas/también escrito 貽害無窮|贻害无穷
+遗容 | TRADUÇÃO: rostro del difunto/aspecto del difunto de cuerpo presente
+遗尿 | TRADUÇÃO: enuresis/mojar la cama
+遗属 | TRADUÇÃO: deudos/familiares supervivientes del difunto
+遗志 | TRADUÇÃO: voluntad del difunto encomendada a sus sucesores/deseo póstumo
+遗忘 | TRADUÇÃO: olvidar/echar al olvido/dejar de recordar
+遗忘症 | TRADUÇÃO: amnesia
+遗恨 | TRADUÇÃO: pesar eterno/remordimiento perenne
+遗憾 | TRADUÇÃO: lamentar/pesar/pesaroso/pena
+遗教 | TRADUÇÃO: enseñanzas legadas por los antepasados o santos/doctrina póstuma
+遗族 | TRADUÇÃO: familiares supervivientes/deudos del fallecido
+遗书 | TRADUÇÃO: testamento/carta de despedida/nota de suicidio/escritos antiguos
+遗案 | TRADUÇÃO: caso sin resolver (derecho)
+遗弃 | TRADUÇÃO: abandonar/desamparar/desechar
+遗民 | TRADUÇÃO: leales a una dinastía derrocada/supervivientes de un pueblo o dinastía extinta
+遗漏 | TRADUÇÃO: omitir involuntariamente/pasar por alto/olvidar un detalle
+遗照 | TRADUÇÃO: fotografía póstuma del difunto
+遗物 | TRADUÇÃO: pertenencias personales del difunto/reliquias/restos fósiles o biológicos
+遗珠 | TRADUÇÃO: perla olvidada/(fig.) talento no reconocido/obra meritoria descartada
+遗产 | TRADUÇÃO: patrimonio/herencia/legado/CL:筆|笔
+遗产税 | TRADUÇÃO: impuesto de sucesiones/impuesto sobre la herencia
+遗男 | TRADUÇÃO: hijo póstumo/huérfano
+遗留 | TRADUÇÃO: legar/dejar tras de sí/remanente
+遗稿 | TRADUÇÃO: manuscrito póstumo/borrador inédito del difunto
+遗精 | TRADUÇÃO: polución nocturna/emisión seminal involuntaria
+遗缺 | TRADUÇÃO: puesto vacante por fallecimiento o renuncia/vacante
+遗老 | TRADUÇÃO: anciano leal a la dinastía anterior/exfuncionario fiel al antiguo régimen
+遗腹子 | TRADUÇÃO: hijo póstumo
+遗臭万年 | TRADUÇÃO: dejar un nombre marcado por la infamia eterna (modismo)
+遗落 | TRADUÇÃO: extraviar/dejar olvidado por descuido/omitir
+遗著 | TRADUÇÃO: obra póstuma de un autor
+遗蜕 | TRADUÇÃO: mudar la piel/desprenderse del cuerpo mortal/restos momificados de un maestro budista o taoísta
+遗言 | TRADUÇÃO: últimas palabras del moribundo/voluntad testamentaria
+遗训 | TRADUÇÃO: preceptos o enseñanzas morales legadas por los antepasados
+遗诏 | TRADUÇÃO: edicto póstumo del emperador fallecido
+遗赠 | TRADUÇÃO: donar por testamento/legar
+遗迹 | TRADUÇÃO: vestigios arqueológicos/ruinas históricas/rastros del pasado
+遗愿 | TRADUÇÃO: última voluntad del difunto/deseo póstumo
+遗风 | TRADUÇÃO: vestigios de una antigua tradición/costumbres heredadas del pasado
+遗骨 | TRADUÇÃO: restos óseos del difunto/osamenta humana
+遗骸 | TRADUÇÃO: restos mortales/restos humanos
+遗体 | TRADUÇÃO: restos mortales/cadáver (formal)
+遗体告别式 | TRADUÇÃO: ceremonia de despedida de los restos mortales/funeral
+遗鸥 | TRADUÇÃO: gaviota relicta (Ichthyaetus relictus)
+遻 | TRADUÇÃO: recalcitrante/toparse con
+辽 | TRADUÇÃO: abrev. de la provincia de Liaoning 遼寧|辽宁/dinastía Liao o kitán (916-1125) ‖ lejano/remoto
+辽中 | TRADUÇÃO: véase 遼中區|辽中区
+辽中区 | TRADUÇÃO: distrito de Liaozhong en la ciudad de Shenyang 瀋陽市|沈阳市, Liaoning
+辽史 | TRADUÇÃO: Historia de Liao (una de las veinticuatro historias dinásticas de China 二十四史, compilada bajo Toktoghan 脫脫|脱脱 en 1345 durante la dinastía Yuan)
+辽宁 | TRADUÇÃO: véase 遼寧省|辽宁省
+辽宁古盗鸟 | TRADUÇÃO: Archaeoraptor liaoningensis (fósil de dinosaurio aviano hallado en Liaoning)
+辽宁大学 | TRADUÇÃO: Universidad de Liaoning
+辽宁省 | TRADUÇÃO: provincia de Liaoning, capital Shenyang 瀋陽市|沈阳市 (abrev. 遼|辽)
+辽宁号 | TRADUÇÃO: Liaoning (primer portaaviones en servicio de la Armada china, comisionado en 2012)
+辽东 | TRADUÇÃO: península de Liaodong/este del río Liao 遼河|辽河
+辽东半岛 | TRADUÇÃO: península de Liaodong
+辽河 | TRADUÇÃO: río Liao (río del noreste de China que fluye por Mongolia Interior, Hebei, Jilin y Liaoning)
+辽海 | TRADUÇÃO: mar de Liao/región oriental y meridional de la provincia de Liaoning
+辽源 | TRADUÇÃO: véase 遼源市|辽源市
+辽源市 | TRADUÇÃO: Liaoyuan (ciudad-prefectura en la provincia de Jilin 吉林省)
+辽沈战役 | TRADUÇÃO: Campaña de Liaoshen (septiembre-noviembre de 1948, primera de las tres grandes campañas en la Guerra Civil China)
+辽西 | TRADUÇÃO: Liaoxi (región al oeste del río Liao en Liaoning)
+辽远 | TRADUÇÃO: lejano/distante/remoto
+辽金 | TRADUÇÃO: dinastías Liao y Jin (dinastía kitán Liao, 907-1125, y dinastía yurchen Jin, 1115-1234)
+辽阔 | TRADUÇÃO: vasto/inmenso/extenso
+辽阳 | TRADUÇÃO: véase 遼陽市|辽阳市/véase 遼陽縣|辽阳县
+辽阳市 | TRADUÇÃO: Liaoyang (ciudad-prefectura en la provincia de Liaoning 遼寧省|辽宁省)
+辽阳县 | TRADUÇÃO: condado de Liaoyang en la ciudad de Liaoyang 遼陽市|辽阳市, Liaoning
+遽 | TRADUÇÃO: de repente/precipitadamente/con prisa
+遽然 | TRADUÇÃO: repentinamente/de improviso (literario)
+避 | TRADUÇÃO: evitar/esquivar/huir de/refugiarse de/eludir/apartarse
+避不见面 | TRADUÇÃO: negarse a recibir a alguien/rehuir el encuentro
+避世 | TRADUÇÃO: huir del mundo/vivir retirado de la sociedad
+避世绝俗 | TRADUÇÃO: apartarse del mundo y vivir en reclusión solitaria (modismo)
+避免 | TRADUÇÃO: evitar/prevenir/eludir/impedir
+避其锐气，击其惰归 | TRADUÇÃO: esquivar el ímpetu inicial del enemigo y atacarlo cuando esté agotado en su retirada (modismo)
+避坑落井 | TRADUÇÃO: salir del hoyo para caer en el pozo/salir de Guatemala y entrar en Guatepeor (modismo)
+避嫌 | TRADUÇÃO: evitar levantar sospechas/abstenerse para evitar suspicacias
+避孕 | TRADUÇÃO: anticoncepción/control de la natalidad
+避孕丸 | TRADUÇÃO: píldora anticonceptiva
+避孕套 | TRADUÇÃO: preservativo/condón/CL:隻|只
+避孕环 | TRADUÇÃO: dispositivo intrauterino/DIU
+避孕药 | TRADUÇÃO: anticonceptivo oral/píldora anticonceptiva
+避寒 | TRADUÇÃO: pasar el invierno en un lugar cálido/resguardarse del frío
+避实就虚 | TRADUÇÃO: esquivar el grueso de las fuerzas enemigas y atacar sus puntos débiles (modismo)
+避实击虚 | TRADUÇÃO: véase 避實就虛|避实就虚
+避弹坑 | TRADUÇÃO: pozo de tirador/trinchera individual
+避役 | TRADUÇÃO: camaleón
+避忌 | TRADUÇÃO: evitar por tabú/abstenerse por superstición
+避恶 | TRADUÇÃO: evitar el mal/apartarse de las malas acciones
+避暑 | TRADUÇÃO: veranear/pasar las vacaciones en un lugar fresco/evitar el calor veraniego
+避暑山庄 | TRADUÇÃO: Villa de Veraneo de Chengde (residencia de verano de la dinastía Qing en Chengde, patrimonio de la humanidad)
+避税 | TRADUÇÃO: elusión fiscal/evitar impuestos legalmente
+避税天堂 | TRADUÇÃO: paraíso fiscal
+避税港 | TRADUÇÃO: paraíso fiscal
+避署 | TRADUÇÃO: salir de vacaciones de verano
+避而不 | TRADUÇÃO: evitar hacer algo
+避蚊胺 | TRADUÇÃO: DEET (repelente de insectos)
+避讳 | TRADUÇÃO: evitar nombrar por tabú (antiguamente los nombres de emperadores o ancestros) ‖ evitar temas o palabras tabú/abstenerse de nombrar
+避让 | TRADUÇÃO: ceder el paso/apartarse para dejar pasar/esquivar
+避邪 | TRADUÇÃO: ahuyentar los malos espíritus/protegerse contra el mal
+避重就轻 | TRADUÇÃO: esquivar lo importante y centrarse en lo trivial/evitar responsabilidades mayores confesando faltas menores
+避开 | TRADUÇÃO: esquivar/evitar/eludir/apartarse de
+避障 | TRADUÇÃO: evasión de obstáculos/esquivar obstáculos (robótica, vehículos autónomos)
+避险 | TRADUÇÃO: eludir el peligro/mitigar riesgos/cobertura financiera/activo refugio
+避难 | TRADUÇÃO: refugiarse/buscar asilo/huir del peligro
+避难所 | TRADUÇÃO: refugio/santuario/asilo
+避雨 | TRADUÇÃO: guarecerse de la lluvia/refugiarse de la lluvia
+避雷 | TRADUÇÃO: pararrayos/protección contra rayos/(jerga) evitar malas compras, estafas o malas experiencias
+避雷器 | TRADUÇÃO: descargador de sobretensión/supresor de picos
+避雷针 | TRADUÇÃO: pararrayos
+避震鞋 | TRADUÇÃO: zapatillas con amortiguación (Taiwán)
+避风 | TRADUÇÃO: resguardarse del viento/pasar desapercibido/mantenerse al margen del peligro
+避风塘 | TRADUÇÃO: refugio para tifones (ensenada de protección portuaria, esp. en Hong Kong)/estilo refugio de tifones (técnica culinaria cantonesa frita con especias y judías negras)
+避风港 | TRADUÇÃO: puerto de refugio/fondeadero seguro/(fig.) remanso de paz/refugio/CL:座,個|个
+避风处 | TRADUÇÃO: sotavento/lugar al abrigo del viento
+避风头 | TRADUÇÃO: capear el temporal/mantener un perfil bajo hasta que pase el peligro
+邀 | TRADUÇÃO: invitar/solicitar/interceptar/atraer/buscar (fama o favor)
+邀功 | TRADUÇÃO: atribuirse el mérito/reclamar honores ante un superior
+邀宴 | TRADUÇÃO: invitar a un banquete/agasajar con un banquete
+邀击 | TRADUÇÃO: interceptar y atacar/emboscar
+邀约 | TRADUÇÃO: invitar/invitación/cita concertada
+邀请 | TRADUÇÃO: invitar/invitación/CL:個|个
+邀请函 | TRADUÇÃO: carta de invitación/CL:封
+邀请赛 | TRADUÇÃO: torneo por invitación/partido de exhibición
+邀买人心 | TRADUÇÃO: granjearse el favor popular con dádivas (modismo)/ganarse simpatías
+邀集 | TRADUÇÃO: convocar/reunir a un grupo de personas
+迈 | TRADUÇÃO: dar un paso/avanzar a grandes zancadas/dar zancadas
+迈克尔 | TRADUÇÃO: Michael (nombre propio)
+迈克尔·杰克逊 | TRADUÇÃO: Michael Jackson (1958-2009, músico y artista estadounidense)
+迈克尔·克莱顿 | TRADUÇÃO: Michael Crichton (1942-2008, escritor estadounidense de novelas de suspense y ciencia ficción, autor de Parque Jurásico)

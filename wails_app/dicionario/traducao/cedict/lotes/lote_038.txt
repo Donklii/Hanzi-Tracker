@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+干细胞 | TRADUÇÃO: stem cell
+干线 | TRADUÇÃO: main line/trunk line
+干练 | TRADUÇÃO: capable and experienced
+干群 | TRADUÇÃO: cadres and masses/party officials and ordinary people
+干话 | TRADUÇÃO: (Tw) (slang) remark that sounds like it makes sense but is actually nonsense
+干警 | TRADUÇÃO: police/police cadres
+干道 | TRADUÇÃO: arterial road/main road/main watercourse
+干部 | TRADUÇÃO: cadre/official/officer/manager
+干么 | TRADUÇÃO: variant of 幹嘛|干嘛
+幻 | TRADUÇÃO: fantasy
+幻化 | TRADUÇÃO: to be transformed/to metamorphose/transformation/metamorphosis
+幻境 | TRADUÇÃO: land of fantasy/fairyland
+幻梦 | TRADUÇÃO: fantasy/illusion/dream
+幻影 | TRADUÇÃO: phantom/mirage
+幻想 | TRADUÇÃO: to fantasize; to imagine/an illusion; a fantasy
+幻数 | TRADUÇÃO: (physics) magic number
+幻景 | TRADUÇÃO: illusion/mirage
+幻椅式 | TRADUÇÃO: chair (yoga pose)
+幻灭 | TRADUÇÃO: (of dreams, hopes etc) to vanish; to evaporate/(of a person) to become disillusioned; disillusionment
+幻灯 | TRADUÇÃO: lantern slides
+幻灯机 | TRADUÇÃO: slide projector/overhead projector
+幻灯片 | TRADUÇÃO: (computing) presentation slide/(photography) slide
+幻听 | TRADUÇÃO: auditory hallucination
+幻肢 | TRADUÇÃO: (medicine) phantom limb
+幻术 | TRADUÇÃO: illusion magic
+幻觉 | TRADUÇÃO: illusion/hallucination/figment of one's imagination
+幻觉剂 | TRADUÇÃO: hallucinogen
+幻象 | TRADUÇÃO: illusion
+幼 | TRADUÇÃO: young
+幼仔 | TRADUÇÃO: (zoology) the young; immature offspring
+幼儿 | TRADUÇÃO: young child/infant/preschooler
+幼儿园 | TRADUÇÃO: kindergarten/nursery school
+幼吾幼，以及人之幼 | TRADUÇÃO: to care for other's children as one's own
+幼女 | TRADUÇÃO: young girl
+幼妹 | TRADUÇÃO: younger sister
+幼子 | TRADUÇÃO: youngest son; very young son
+幼小 | TRADUÇÃO: young/immature
+幼崽 | TRADUÇÃO: (zoology) the young; immature offspring
+幼师 | TRADUÇÃO: preschool teacher (abbr. for 幼兒教師|幼儿教师)
+幼年 | TRADUÇÃO: childhood/infancy
+幼弟 | TRADUÇÃO: younger brother
+幼态 | TRADUÇÃO: baby-faced; having a childlike face
+幼教 | TRADUÇÃO: preschool education (abbr. for 幼兒教育|幼儿教育)
+幼时 | TRADUÇÃO: childhood
+幼兽 | TRADUÇÃO: cub
+幼发拉底河 | TRADUÇÃO: Euphrates River
+幼稚 | TRADUÇÃO: young/childish/puerile
+幼稚园 | TRADUÇÃO: kindergarten (Tw)
+幼童 | TRADUÇÃO: young child
+幼童军 | TRADUÇÃO: Cub Scout
+幼苗 | TRADUÇÃO: young sprout/bud/sapling/seedling
+幼虫 | TRADUÇÃO: (entomology) larva
+幼雏 | TRADUÇÃO: young bird/nestling
+幼马 | TRADUÇÃO: young horse/colt/filly
+幼体 | TRADUÇÃO: the young (unborn or newborn) of an animal/larva
+幼齿 | TRADUÇÃO: (Tw) naive and innocent (girl or boy); underage prostitute (from Taiwanese, Tai-lo pr. [iù-khí])
+幽 | TRADUÇÃO: remote/hidden away/secluded/serene/peaceful/to imprison/in superstition indicates the underworld/ancient district spanning Liaonang and Hebei provinces
+幽僻 | TRADUÇÃO: secluded/quiet and remote/obscure and faraway
+幽冥 | TRADUÇÃO: dark/hell/netherworld/hades
+幽囹 | TRADUÇÃO: to keep in confinement/to confine
+幽寂 | TRADUÇÃO: (of a place) isolated and quiet
+幽州 | TRADUÇÃO: Youzhou, ancient province in north Hebei and Liaoning/Fanyang 範陽|范阳 ancient city near modern Beijing
+幽幽 | TRADUÇÃO: faint/indistinct
+幽径 | TRADUÇÃO: secluded path
+幽微 | TRADUÇÃO: faint/subtle (of sound, scent etc)/profound/mysterious/dim
+幽怨 | TRADUÇÃO: hidden bitterness; secret grudge
+幽明 | TRADUÇÃO: the hidden and the visible; that which can be seen and that which cannot; darkness and light; night and day; wisdom and ignorance; evil and good; the living and the dead; men and ghosts
+幽暗 | TRADUÇÃO: gloom
+幽会 | TRADUÇÃO: (usually of lovers) to rendezvous in secret
+幽浮 | TRADUÇÃO: UFO (loanword)/unidentified flying object/space ship
+幽浮迷 | TRADUÇÃO: (Tw) UFO enthusiast
+幽深 | TRADUÇÃO: serene and hidden in depth or distance
+幽禁 | TRADUÇÃO: to place under house arrest; to imprison
+幽绿 | TRADUÇÃO: moss green/dark sea green
+幽美 | TRADUÇÃO: (of a location) beautiful and tranquil
+幽谷 | TRADUÇÃO: deep valley
+幽邃 | TRADUÇÃO: profound and unfathomable
+幽门 | TRADUÇÃO: pylorus (anatomy)
+幽门螺旋杆菌 | TRADUÇÃO: Helicobacter pylori (stomach bacterium)
+幽门螺旋菌 | TRADUÇÃO: Helicobacter pylori (stomach bacterium)
+幽门螺杆菌 | TRADUÇÃO: Helicobacter pylori (stomach bacterium)
+幽闭恐惧 | TRADUÇÃO: claustrophobia
+幽闭恐惧症 | TRADUÇÃO: claustrophobia
+幽雅 | TRADUÇÃO: serene and elegant (of a place)/ethereal (of music)
+幽灵 | TRADUÇÃO: specter/apparition/ghost
+幽静 | TRADUÇÃO: quiet/secluded/isolated/peaceful
+幽香 | TRADUÇÃO: delicate fragrance
+幽魂 | TRADUÇÃO: ghost/spirit (of the dead)
+幽默 | TRADUÇÃO: (loanword) humor/humorous
+幽默感 | TRADUÇÃO: sense of humor
+几丁 | TRADUÇÃO: chitin
+几丁质 | TRADUÇÃO: chitin
+几乎 | TRADUÇÃO: almost; nearly; practically
+几乎不 | TRADUÇÃO: hardly/seems not
+几何 | TRADUÇÃO: geometry/(literary) how much
+几何光学 | TRADUÇÃO: geometric optics
+几何原本 | TRADUÇÃO: Euclid's "Elements"
+几何图形 | TRADUÇÃO: geometric figure
+几何学 | TRADUÇÃO: geometry
+几何平均数 | TRADUÇÃO: geometric mean
+几何拓扑 | TRADUÇÃO: (math.) geometric topology
+几何拓扑学 | TRADUÇÃO: (math.) geometric topology
+几何级数 | TRADUÇÃO: geometric series
+几何级数增长 | TRADUÇÃO: exponential increase
+几何量 | TRADUÇÃO: geometric quantity
+几个 | TRADUÇÃO: a few/several/how many
+几倍 | TRADUÇÃO: several times (bigger)/double, treble, quadruple etc
+几内亚 | TRADUÇÃO: Guinea/Taiwan pr. [Ji1nei4ya4]
+几内亚比索 | TRADUÇÃO: Guinea-Bissau (Tw)
+几内亚比绍 | TRADUÇÃO: Guinea-Bissau
+几内亚湾 | TRADUÇÃO: Gulf of Guinea
+几分 | TRADUÇÃO: somewhat/a bit
+几千 | TRADUÇÃO: several thousand
+几可乱真 | TRADUÇÃO: to seem almost genuine/easily mistaken for the real thing
+几多 | TRADUÇÃO: (dialect) how much/how many/how (smart etc)/such ...
+几天 | TRADUÇÃO: several days
+几天来 | TRADUÇÃO: for the past few days
+几希 | TRADUÇÃO: not much/very little (e.g. difference)
+几年 | TRADUÇÃO: a few years; several years/how many years?
+几年来 | TRADUÇÃO: for the past several years
+几度 | TRADUÇÃO: how many times/several times/how many degrees (in terms of temperature or angle)/several degrees/to what degree; to what extent
+几微 | TRADUÇÃO: tiny/infinitesimal
+几时 | TRADUÇÃO: at what time?; when?
+几样 | TRADUÇÃO: several kinds
+几次 | TRADUÇÃO: several times
+几次三番 | TRADUÇÃO: lit. twice then three times (idiom); fig. repeatedly/over and over again
+几欲 | TRADUÇÃO: almost/nearly going to
+几岁 | TRADUÇÃO: how old are you? (familiar, or to a child)
+几率 | TRADUÇÃO: probability/odds
+几米 | TRADUÇÃO: Jimmy Liao (1958-), pen name of 廖福彬, Taiwanese illustrator and picture book writer
+几经 | TRADUÇÃO: to go through numerous (setbacks, revisions etc)
+几维鸟 | TRADUÇÃO: kiwi (bird) (loanword)
+几至 | TRADUÇÃO: almost
+几号 | TRADUÇÃO: (slang) heroin
+几许 | TRADUÇÃO: (literary) how many/quite a few
+几谏 | TRADUÇÃO: to admonish tactfully
+几近 | TRADUÇÃO: to be on the brink of; to be on the verge of
+几进宫 | TRADUÇÃO: (slang) to have served several sentences; recidivist; old lag
+几点 | TRADUÇÃO: what time?/when?
+广 | TRADUÇÃO: "house on a cliff" radical in Chinese characters (Kangxi radical 53), occurring in 店, 序, 底 etc ‖ surname Guang ‖ wide/numerous/to spread
+庀 | TRADUÇÃO: to prepare
+庄 | TRADUÇÃO: variant of 莊|庄 ‖ surname Zhuang ‖ farmstead/village/manor/place of business/banker (in a gambling game)/grave or solemn/holdings of a landlord (in imperial China)
+庅 | TRADUÇÃO: variant of 麼|么 ‖ variant of 麼|麽
+庇 | TRADUÇÃO: to protect/cover/shelter/hide or harbor
+庇佑 | TRADUÇÃO: to bless/to protect/protection (esp. divine)
+庇古 | TRADUÇÃO: Arthur Cecil Pigou (1877-1959), British economist
+庇祐 | TRADUÇÃO: to bless/to protect/protection (esp. divine)/also written 庇佑
+庇荫 | TRADUÇÃO: to give shade (of a tree etc)/to shield
+庇西特拉图 | TRADUÇÃO: Pisistratus (-528 BC), tyrant (ruler) of Athens at different times between 561 BC and 528 BC
+庇护 | TRADUÇÃO: to shelter; to protect; to provide refuge/(law) asylum
+庇护所 | TRADUÇÃO: shelter; refuge; sanctuary
+庈 | TRADUÇÃO: (person)
+庉 | TRADUÇÃO: a village/to dwell together
+床 | TRADUÇÃO: bed; couch (furniture that one can lie down on) (CL:張|张)/bed; bottom (of rivers, oceans, gardens etc)/frame; chassis/classifier for blankets, quilts etc ‖ variant of 床
+床上戏 | TRADUÇÃO: sex scene (in a movie etc)
+床位 | TRADUÇÃO: bed (in hospital, hotel, train etc)/berth/bunk
+床侧 | TRADUÇÃO: bedside
+床友 | TRADUÇÃO: (slang) friend with benefits/casual sex partner
+床单 | TRADUÇÃO: bed sheet/CL:條|条,件,張|张,床
+床垫 | TRADUÇÃO: mattress/CL:張|张
+床帐 | TRADUÇÃO: bed curtain/mosquito net
+床戏 | TRADUÇÃO: sex scene (in a movie etc)
+床技 | TRADUÇÃO: skills in bed/sexual prowess
+床沿 | TRADUÇÃO: the edge of a bed
+床笠 | TRADUÇÃO: fitted bed sheet
+床笫 | TRADUÇÃO: bed and bamboo sleeping mat/(fig.) bed as a place for intimacy
+床笫之事 | TRADUÇÃO: bedroom matters/sexual intercourse
+床笫之私 | TRADUÇÃO: intimate matters
+床罩 | TRADUÇÃO: bedspread
+床虱 | TRADUÇÃO: bedbug
+床边 | TRADUÇÃO: bedside
+床铃 | TRADUÇÃO: baby mobile/crib mobile
+床铺 | TRADUÇÃO: bed
+床头 | TRADUÇÃO: bedhead/bedside/headboard
+床头柜 | TRADUÇÃO: bedside cabinet
+庋 | TRADUÇÃO: (literary) shelf/(literary) to store; to keep; to preserve
+序 | TRADUÇÃO: (bound form) order; sequence/(bound form) introductory; initial/preface
+序列 | TRADUÇÃO: sequence
+序列号 | TRADUÇÃO: serial number/product key (software)
+序幕 | TRADUÇÃO: prologue
+序数 | TRADUÇÃO: ordinal number
+序文 | TRADUÇÃO: preface/foreword/preamble/recital (law)/also written 敘文|叙文
+序曲 | TRADUÇÃO: overture
+序次 | TRADUÇÃO: sequence; order/(literary) to arrange (books) in serial order
+序章 | TRADUÇÃO: prologue/preface/preamble
+序号 | TRADUÇÃO: ordinal number/serial number/sequence number
+序言 | TRADUÇÃO: preface; introductory remarks; preamble; prelude
+序跋 | TRADUÇÃO: preface and postscript
+庒 | TRADUÇÃO: old variant of 莊|庄
+底 | TRADUÇÃO: (equivalent to 的 as possessive particle) ‖ bottom; base/background; foundation/copy (of a manuscript or receipt etc) kept as a record/(suffix) end of a year or month/(math.) radix; base (abbr. for 底數|底数)
+底下 | TRADUÇÃO: the location below sth/afterwards
+底夸克 | TRADUÇÃO: bottom quark (particle physics)
+底子 | TRADUÇÃO: base/foundation/bottom
+底定 | TRADUÇÃO: (literary) to quell an insurgency/(Tw) to settle (a matter)
+底层 | TRADUÇÃO: ground floor; first floor/lowest level; lowest rung (of society etc)
+底座 | TRADUÇÃO: base/pedestal/foundation
+底数 | TRADUÇÃO: (math.) radix; base
+底料 | TRADUÇÃO: base ingredient/base (cooking)/primer (paint)
+底朝天 | TRADUÇÃO: upside down/upturned
+底格里斯 | TRADUÇÃO: Tigris River, Iraq
+底格里斯河 | TRADUÇÃO: Tigris River, Iraq
+底栖有孔虫 | TRADUÇÃO: benthic foraminifera
+底栖生物 | TRADUÇÃO: benthos
+底楼 | TRADUÇÃO: ground floor; first floor
+底止 | TRADUÇÃO: (literary) end/limit
+底比斯 | TRADUÇÃO: Thebes, place name in ancient Egypt/Thebes, ancient Greek city state
+底气 | TRADUÇÃO: lung capacity; lung power/boldness; confidence; self-assurance; vigor
+底汁 | TRADUÇÃO: stock (cooking)/base (of sauce or gravy)
+底漆 | TRADUÇÃO: primer
+底片 | TRADUÇÃO: negative/photographic plate
+底版 | TRADUÇÃO: (photography) negative/photographic plate/(printing) plate/block
+底牌 | TRADUÇÃO: cards in one's hand/(fig.) undisclosed strength or information/hidden trump
+底特律 | TRADUÇÃO: Detroit, Michigan
+底界 | TRADUÇÃO: lower boundary
+底盘 | TRADUÇÃO: chassis
+底端 | TRADUÇÃO: bottom/bottom side/end part
+底细 | TRADUÇÃO: inside information/the ins and outs of the matter/how things stand/what's up
+底线 | TRADUÇÃO: bottom line; the limit of what one is prepared to accept/(sports) baseline/(sewing) under thread/spy; informer; plant
+底肥 | TRADUÇÃO: base fertilizer
+底薪 | TRADUÇÃO: basic salary/base pay/salary floor
+底蕴 | TRADUÇÃO: inside information/concrete details
+底裤 | TRADUÇÃO: (coll.) underpants
+底边 | TRADUÇÃO: base (of a triangle)/base line/hem line (of skirt)
+底部 | TRADUÇÃO: bottom
+底阀 | TRADUÇÃO: bottom valve/foot valve
+底限 | TRADUÇÃO: lowest limit/bottom line
+底面 | TRADUÇÃO: bottom/bottom side/bottom surface
+庖 | TRADUÇÃO: kitchen
+庖厨 | TRADUÇÃO: kitchen/cook/chef
+庖牺氏 | TRADUÇÃO: another name for 伏羲, consort of 女媧|女娲
+店 | TRADUÇÃO: inn; old-style hotel (CL:家)/(bound form) shop; store
+店主 | TRADUÇÃO: shop owner
+店伙 | TRADUÇÃO: shop assistant/shop clerk
+店员 | TRADUÇÃO: shop assistant; store clerk
+店堂 | TRADUÇÃO: customer area of a store/showroom/dining area of a restaurant
+店家 | TRADUÇÃO: (old) shopkeeper; innkeeper/(dialect) shop; store
+店小二 | TRADUÇÃO: (old) (in a tavern or inn etc) waiter/attendant
+店铺 | TRADUÇÃO: store/shop
+店钱 | TRADUÇÃO: room charge in a hotel/accommodation expenses
+店长 | TRADUÇÃO: store manager
+店面 | TRADUÇÃO: shop front
+庚 | TRADUÇÃO: age/seventh of the ten Heavenly Stems 十天干/seventh in order/letter "G" or Roman "VII" in list "A, B, C", or "I, II, III" etc/ancient Chinese compass point: 255°/hepta
+庚午 | TRADUÇÃO: seventh year G7 of the 60 year cycle, e.g. 1990 or 2050
+庚子 | TRADUÇÃO: 37th year G1 of the 60-year cycle, e.g. 1960 or 2020
+庚子国变 | TRADUÇÃO: the crisis year of 1900 involving the Boxer uprising and the eight nation military invasion
+庚寅 | TRADUÇÃO: twenty-seventh year G3 of the 60 year cycle, e.g. 2010 or 2070
+庚戌 | TRADUÇÃO: forty-seventh year G11 of the 60 year cycle, e.g. 1970 or 2030
+庚申 | TRADUÇÃO: fifty-seventh year G9 of the 60 year cycle, e.g. 1980 or 2040
+庚糖 | TRADUÇÃO: heptose (CH2O)7, monosaccharide with seven carbon atoms
+庚辰 | TRADUÇÃO: seventeenth year G5 of the 60 year cycle, e.g. 2000 or 2060
+府 | TRADUÇÃO: seat of government/government repository (archive)/official residence/mansion/presidential palace/(honorific) Your home/prefecture (from Tang to Qing times)
+府上 | TRADUÇÃO: (courteous) home; residence (not one's own)
+府城 | TRADUÇÃO: capital of 府 prefecture (from Tang to Qing times)/prefectural seat
+府尹 | TRADUÇÃO: magistrate/prefect
+府幕 | TRADUÇÃO: government advisor
+府库 | TRADUÇÃO: government treasury
+府治 | TRADUÇÃO: seat of prefectural government (from Tang to Qing times)
+府第 | TRADUÇÃO: mansion house/official residence
+府绸 | TRADUÇÃO: poplin (cotton cloth used for shirts)
+府试 | TRADUÇÃO: prefectural exam, the 2nd of the three entry-level exams in the imperial examination system of Ming and Qing dynasties
+府谷 | TRADUÇÃO: see 府谷縣|府谷县
+府谷县 | TRADUÇÃO: Fugu, a county in Yulin City 榆林市, Shaanxi
+府邸 | TRADUÇÃO: mansion house/official residence
+庠 | TRADUÇÃO: (archaic) a school
+庤 | TRADUÇÃO: to prepare
+庥 | TRADUÇÃO: protection/shade
+度 | TRADUÇÃO: to pass/to spend (time)/measure/limit/extent/degree of intensity/degree (angles, temperature etc)/kilowatt-hour/classifier for events and occurrences ‖ to estimate/Taiwan pr. [duo4]
+度估 | TRADUÇÃO: (Tw) to doze off (from Taiwanese 盹龜, Tai-lo pr. [tuh-ku])
+度假 | TRADUÇÃO: to go on holidays/to spend one's vacation
+度假区 | TRADUÇÃO: resort area; tourist zone (in China, typically state-designated for integrated tourism development)
+度假村 | TRADUÇÃO: resort (vacation property)
+度外 | TRADUÇÃO: outside the sphere of one's consideration
+度姑 | TRADUÇÃO: (Tw) to doze off (from Taiwanese 盹龜, Tai-lo pr. [tuh-ku])
+度娘 | TRADUÇÃO: alternative name for Baidu 百度
+度数 | TRADUÇÃO: number of degrees/reading (on a meter)/strength (alcohol, lenses etc)
+度日 | TRADUÇÃO: to pass one's days/to scratch out a difficult, meager existence
+度日如年 | TRADUÇÃO: a day drags past like a year (idiom); time hangs heavy/time crawls when one is wretched
+度烂 | TRADUÇÃO: see 賭爛|赌烂
+度牒 | TRADUÇÃO: Buddhist or Taoist ordination certificate issued by government
+度过 | TRADUÇÃO: to pass/to spend (time)/to survive/to get through
+度量 | TRADUÇÃO: measure/tolerance/breadth/magnanimity/(math.) metric
+度量衡 | TRADUÇÃO: measurement
+座 | TRADUÇÃO: seat/base; stand/(bound form) constellation/(archaic) suffix used in a respectful form of address (e.g. 師座|师座)/classifier for large immovable objects such as buildings, mountains, bridges etc
+座上客 | TRADUÇÃO: guest of honor
+座上宾 | TRADUÇÃO: distinguished guest; honored guest
+座位 | TRADUÇÃO: seat/CL:個|个
+座儿 | TRADUÇÃO: rickshaw seat (Beijing dialect)/patron (of teahouse, cinema)/passenger (in taxi, rickshaw etc)
+座右铭 | TRADUÇÃO: motto/maxim
+座堂 | TRADUÇÃO: cathedral
+座垫 | TRADUÇÃO: saddle (of a bicycle); seat (of a car or bike)/chair cushion
+座子 | TRADUÇÃO: pedestal/plinth/saddle
+座席 | TRADUÇÃO: seat (at banquet)/by ext. guest of honor
+座椅 | TRADUÇÃO: seat
+座椅套子 | TRADUÇÃO: seat cover
+坐标法 | TRADUÇÃO: (math.) coordinate method
+坐标空间 | TRADUÇÃO: coordinate space
+坐标系 | TRADUÇÃO: (geometry) coordinate system
+座标轴 | TRADUÇÃO: coordinate axis
+座机 | TRADUÇÃO: fixed-line phone; landline/private plane
+座次 | TRADUÇÃO: seating arrangement/position in a seating arrangement
+座无虚席 | TRADUÇÃO: lit. a banquet with no empty seats/full house/capacity crowd/standing room only
+座生水母 | TRADUÇÃO: sessile medusa/sea anemone
+座舱 | TRADUÇÃO: cockpit/cabin
+座落 | TRADUÇÃO: variant of 坐落
+座号 | TRADUÇÃO: seat number
+座谈 | TRADUÇÃO: to have an informal discussion/CL:次
+座谈会 | TRADUÇÃO: conference/symposium/rap session
+座车 | TRADUÇÃO: (railway) carriage
+座钟 | TRADUÇÃO: desk clock
+座头市 | TRADUÇÃO: Zatoichi
+座头鲸 | TRADUÇÃO: humpback whale (Megaptera novaeangliae)
+座驾 | TRADUÇÃO: one's own car (or motorbike)/vehicle for one's private use
+库 | TRADUÇÃO: warehouse/storehouse/(file) library
+库仑 | TRADUÇÃO: Charles-Augustin de Coulomb (1736-1806), French physicist ‖ coulomb (unit of electric charge)
+库仑计 | TRADUÇÃO: voltameter
+库伦 | TRADUÇÃO: Kulun, the former name for modern Ulan Bator, capital of Mongolia (Mongolian: temple) ‖ enclosed pasture (Mongolian loanword)
+库伦旗 | TRADUÇÃO: Hure banner or Xüree khoshuu in Tongliao 通遼|通辽, Inner Mongolia
+库克 | TRADUÇÃO: Cook (name)/Captain James Cook (1728-1779), British navigator and explorer
+库克山 | TRADUÇÃO: Mt Cook on New Zealand South Island, national park and highest peak
+库克群岛 | TRADUÇÃO: Cook Islands
+库克船长 | TRADUÇÃO: Captain James Cook (1728-1779), British navigator and explorer
+库姆 | TRADUÇÃO: Qom (holy city in Iran)
+库姆塔格沙漠 | TRADUÇÃO: Kumutage (or Kumtag) Desert, northwestern China
+库存 | TRADUÇÃO: property or cash held in reserve; stock; inventory
+库存现金 | TRADUÇÃO: cash in hand
+库工党 | TRADUÇÃO: abbr. for Kurdistan Workers' Party 庫爾德工人黨|库尔德工人党
+库布里克 | TRADUÇÃO: Kubrick
+库德 | TRADUÇÃO: (Tw) Kurd ethnic group
+库德斯坦 | TRADUÇÃO: (Tw) Kurdistan
+库房 | TRADUÇÃO: storeroom/warehouse
+库拉索 | TRADUÇÃO: Curaçao
+库木吐拉千佛洞 | TRADUÇÃO: Kumutula thousand-Buddha grotto in Kuqa, Xinjiang
+库尔 | TRADUÇÃO: Chur (city in Switzerland)
+库尔勒 | TRADUÇÃO: see 庫爾勒市|库尔勒市
+库尔勒市 | TRADUÇÃO: Korla, a county-level city in Bayingolin Mongol Autonomous Prefecture 巴音郭楞蒙古自治州, Xinjiang
+库尔尼科娃 | TRADUÇÃO: Anna Sergeevna Kournikova (1981-), Russian tennis star and glamor model
+库尔德 | TRADUÇÃO: Kurd/Kurdish
+库尔德人 | TRADUÇÃO: Kurdish person or people
+库尔德工人党 | TRADUÇÃO: Kurdistan Worker's Party (PPK)
+库尔德斯坦 | TRADUÇÃO: Kurdistan
+库尔斯克 | TRADUÇÃO: Kursk (city)
+库尔特·瓦尔德海姆 | TRADUÇÃO: Kurt Waldheim (1918-2007), Austrian diplomat and politician, secretary-general of UN 1972-1981, president of Austria 1986-1992
+库珀带 | TRADUÇÃO: the Kuiper belt (in the outer reaches of the Solar system)
+库纳 | TRADUÇÃO: kuna (Croatian currency)
+库肯霍夫公园 | TRADUÇÃO: Keukenhof, flower garden in Netherlands
+库藏 | TRADUÇÃO: to store/to have sth in storage
+库车 | TRADUÇÃO: see 庫車市|库车市
+库车市 | TRADUÇÃO: Kuqa, a county-level city in Aksu Prefecture 阿克蘇地區|阿克苏地区, Xinjiang
+库里提巴 | TRADUÇÃO: Curitiba (city in Brazil)
+库页岛 | TRADUÇÃO: Sakhalin
+库页岛柳莺 | TRADUÇÃO: (bird species of China) Sakhalin leaf warbler (Phylloscopus borealoides)
+库鲁病 | TRADUÇÃO: kuru (medicine)
+庬 | TRADUÇÃO: huge
+庭 | TRADUÇÃO: main hall/front courtyard/law court
+庭园 | TRADUÇÃO: flower garden
+庭堂 | TRADUÇÃO: courtyard in front of a palace
+庭外 | TRADUÇÃO: out-of-court (settlement)
+庭审 | TRADUÇÃO: court hearing
+庭训 | TRADUÇÃO: tuition within family/education from father
+庭长 | TRADUÇÃO: presiding judge
+庭院 | TRADUÇÃO: courtyard
+庭除 | TRADUÇÃO: front court/courtyard
+庱 | TRADUÇÃO: surname Cheng/ancient area of modern-day Danyang City, Jiangsu Province
+庳 | TRADUÇÃO: low-built house
+庴 | TRADUÇÃO: place name
+庵 | TRADUÇÃO: hut/small temple/nunnery ‖ variant of 庵
+庵堂 | TRADUÇÃO: Buddhist nunnery
+庵摩勒 | TRADUÇÃO: see 餘甘子|余甘子
+庵摩落迦果 | TRADUÇÃO: see 餘甘子|余甘子
+庶 | TRADUÇÃO: (bound form) ordinary; numerous/(bound form) pertaining to a concubine (contrasted with 嫡) ‖ old variant of 庶
+庶出 | TRADUÇÃO: born of a concubine (rather than of the wife)
+庶吉士 | TRADUÇÃO: title of the temporary position in the Hanlin Academy 翰林院 conferred on meritorious candidates until the next examination
+庶妻 | TRADUÇÃO: concubine
+庶子 | TRADUÇÃO: son born of a concubine
+庶室 | TRADUÇÃO: concubine
+庶几 | TRADUÇÃO: (literary) similar; almost/(literary) if only; it is to be hoped that/(literary) maybe; perhaps
+庶民 | TRADUÇÃO: the multitude of common people (in highbrow literature)/plebeian
+康 | TRADUÇÃO: surname Kang ‖ healthy/peaceful/abundant
+康乃狄克 | TRADUÇÃO: Connecticut, US state (Tw)
+康乃馨 | TRADUÇÃO: carnation (Dianthus caryophyllus) (loanword)
+康乾宗迦峰 | TRADUÇÃO: Kachenjunga (Himalayan peak)
+康乾盛世 | TRADUÇÃO: booming and golden age of Qing dynasty (from Kang Xi to Qian Long emperors)
+康佳 | TRADUÇÃO: Kongka (brand)
+康保 | TRADUÇÃO: see 康保縣|康保县
+康保县 | TRADUÇÃO: Kangbao, a county in Zhangjiakou City 張家口市|张家口市, Hebei
+康健 | TRADUÇÃO: healthy/fit
+康区 | TRADUÇÃO: former Tibetan province of Kham, now split between Tibet and Sichuan
+康多莉扎·赖斯 | TRADUÇÃO: Condoleezza Rice (1954-), US Secretary of State 2005-2009
+康奈尔 | TRADUÇÃO: Cornell (University)
+康奈尔大学 | TRADUÇÃO: Cornell University
+康定 | TRADUÇÃO: see 康定市
+康定市 | TRADUÇÃO: Kangding, a county-level city in Garzê Tibetan Autonomous Prefecture 甘孜藏族自治州, Sichuan
+康巴 | TRADUÇÃO: Khampa, subdivision of Tibetan ethnic group/former Tibetan province of Kham, now split between Tibet and Sichuan
+康巴地区 | TRADUÇÃO: former Tibetan province of Kham, now split between Tibet and Sichuan
+康巴藏区 | TRADUÇÃO: former Kham province of Tibet, now split between Tibet and Sichuan
+康平 | TRADUÇÃO: see 康平縣|康平县 ‖ peace and prosperity
+康平县 | TRADUÇÃO: Kangping, a county in Shenyang City 瀋陽市|沈阳市, Liaoning
+康康舞 | TRADUÇÃO: cancan (loanword)
+康广仁 | TRADUÇÃO: Kang Guangren (1867-1898), younger brother of Kang Youwei 康有為|康有为 and one of the Six Gentlemen Martyrs 戊戌六君子 of the unsuccessful reform movement of 1898
+康强 | TRADUÇÃO: strong and healthy/fit
+康复 | TRADUÇÃO: to recuperate/to recover (health)/to convalesce
+康德 | TRADUÇÃO: Immanuel Kant (1724-1804), German philosopher
+康思维恩格 | TRADUÇÃO: Kongsvinger (city in Hedemark, Norway)
+康托尔 | TRADUÇÃO: (name) Cantor/Georg Cantor (1845–1918), German mathematician, founder of set theory
+康拜因 | TRADUÇÃO: (loanword) combine (i.e. combine harvester)
+康斯坦察 | TRADUÇÃO: Constanta (city in Romania)
+康斯坦茨 | TRADUÇÃO: Konstanz (Germany)
+康普茶 | TRADUÇÃO: (loanword) kombucha (fermented tea)
+康有为 | TRADUÇÃO: Kang Youwei (1858-1927), Confucian intellectual, educator and would-be reformer, main leader of the failed reform movement of 1898
+康乐 | TRADUÇÃO: see 康樂縣|康乐县 ‖ peace and happiness (old)/healthy and happy/recreation
+康乐县 | TRADUÇÃO: Kangle, a county in Linxia Hui Autonomous Prefecture 臨夏回族自治州|临夏回族自治州, Gansu
+康桥 | TRADUÇÃO: Cambridge (city), from a poem by Xu Zhimo 徐志摩
+康泰 | TRADUÇÃO: safe and healthy
+康涅狄格 | TRADUÇÃO: Connecticut, US state
+康熙 | TRADUÇÃO: Kangxi, reign title (1662–1722) of the Kangxi Emperor 聖祖|圣祖/the Kangxi Emperor (Qing dynasty)
+康熙字典 | TRADUÇÃO: the Kangxi Dictionary, named after the Kangxi Emperor, who in 1710 ordered its compilation, containing 47,035 single-character entries
+康生 | TRADUÇÃO: Kang Sheng (1896-1975), Chinese communist leader, a politburo member during the Cultural Revolution and posthumously blamed for some of its excesses
+康白度 | TRADUÇÃO: comprador (loanword)
+康科德 | TRADUÇÃO: Concord (place name)/Concord, capital of US state New Hampshire
+康县 | TRADUÇÃO: Kang County or Kangxian, a county in Longnan City 隴南市|陇南市, Gansu
+康庄大道 | TRADUÇÃO: broad and open road (idiom); fig. brilliant future prospects
+康衢 | TRADUÇÃO: through street/thoroughfare
+康马 | TRADUÇÃO: see 康馬縣|康马县
+康马县 | TRADUÇÃO: Kangmar, a county in Shigatse City 日喀則市|日喀则市, Tibet
+庸 | TRADUÇÃO: ordinary/to use
+庸人 | TRADUÇÃO: mediocre person
+庸人自扰 | TRADUÇÃO: lit. silly people get their panties in a bunch (idiom)/fig. to get upset over nothing/to make problems for oneself
+庸俗 | TRADUÇÃO: vulgar/tacky/tawdry
+庸俗化 | TRADUÇÃO: debasement; vulgarization
+庸庸碌碌 | TRADUÇÃO: ordinary/mediocre
+庸才 | TRADUÇÃO: mediocrity
+庸碌 | TRADUÇÃO: mediocre
+庸碌无能 | TRADUÇÃO: mediocre and incompetent
+庸医 | TRADUÇÃO: quack/charlatan
+庹 | TRADUÇÃO: length of 2 outstretched arms
+庾 | TRADUÇÃO: surname Yu/name of a mountain
+庾信 | TRADUÇÃO: Yu Xin (513-581), poet from Liang of the Southern dynasties 南朝梁朝 and author of Lament for the South 哀江南賦|哀江南赋
+庿 | TRADUÇÃO: variant of 廟|庙
+廀 | TRADUÇÃO: old variant of 廋
+厕具 | TRADUÇÃO: toilet fittings
+厕所 | TRADUÇÃO: toilet; lavatory/CL:間|间,處|处
+厕纸 | TRADUÇÃO: toilet paper
+厕足 | TRADUÇÃO: (literary) to participate in; to set foot in
+厕身 | TRADUÇÃO: (humble expression) to participate (in sth); to play a humble role in
+厢 | TRADUÇÃO: box (in theater)/side room/side
+厢型车 | TRADUÇÃO: van (Tw)
+厢式车 | TRADUÇÃO: van
+厢房 | TRADUÇÃO: wing (of a traditional house)/side room
+厩 | TRADUÇÃO: stable/barn ‖ variant of 廄|厩
+廆 | TRADUÇÃO: ancient name of a mountain west of Luoyang, Henan, now known as 谷口山 ‖ used in personal names
+厦 | TRADUÇÃO: abbr. for Xiamen or Amoy 廈門|厦门, Fujian ‖ (bound form) tall building; mansion/(bound form) rear annex; lean-to/Taiwan pr. [xia4]
+厦门 | TRADUÇÃO: see 廈門市|厦门市
+厦门大学 | TRADUÇÃO: Xiamen University
+厦门市 | TRADUÇÃO: Xiamen, sub-provincial city in Fujian Province 福建省
+廉俸 | TRADUÇÃO: extra allowances paid to government officials in the Qing dynasty
+廉价 | TRADUÇÃO: cheaply-priced; low-cost
+廉耻 | TRADUÇÃO: honor and shame/sense of honor
+廉政 | TRADUÇÃO: to govern with integrity/clean and honest government
+廉政公署 | TRADUÇÃO: Independent Commission Against Corruption, Hong Kong (ICAC)
+廉正 | TRADUÇÃO: upright and honest/integrity
+廉江 | TRADUÇÃO: see 廉江市
+廉江市 | TRADUÇÃO: Lianjiang, a county-level city in Zhanjiang City 湛江市, Guangdong
+廉洁 | TRADUÇÃO: incorruptible; unbribable; honest
+廉直 | TRADUÇÃO: upright and honest/incorruptible/squeaky clean
+廉租房 | TRADUÇÃO: low-rent housing
+廉署 | TRADUÇÃO: ICAC Independent Commission Against Corruption, Hong Kong
+廉航 | TRADUÇÃO: low-cost carrier; low-cost airline; budget airline (abbr. for 廉價航空|廉价航空)
+廉颇 | TRADUÇÃO: Lian Po (327-243 BC), famous general of Zhao 趙國|赵国, repeatedly victorious over Qin 秦國|秦国 and Qi 齊國|齐国
+廊 | TRADUÇÃO: corridor/veranda/porch
+廊坊 | TRADUÇÃO: see 廊坊市
+廊坊市 | TRADUÇÃO: Langfang, prefecture-level city in Hebei Province 河北省
+廊庙 | TRADUÇÃO: imperial court
+廊庑 | TRADUÇÃO: portico/stoa/colonnade
+廊桥 | TRADUÇÃO: covered bridge/(aviation) passenger boarding bridge; jet bridge
+廊酒 | TRADUÇÃO: Benedictine (liquor)
+廋 | TRADUÇÃO: to search/be concealed
+廌 | TRADUÇÃO: unicorn
+庼 | TRADUÇÃO: room/small hall
+廏 | TRADUÇÃO: variant of 廄|厩
+廑 | TRADUÇÃO: careful/hut/variant of 僅|仅 ‖ variant of 勤
+廒 | TRADUÇÃO: granary
+廓 | TRADUÇÃO: (bound form) extensive; vast/(bound form) outline; general shape/(bound form) to expand; to extend
+廓清 | TRADUÇÃO: to clear up/to wipe out/to eradicate
+荫 | TRADUÇÃO: variant of 蔭|荫, shade ‖ (bound form) shade (of a tree) ‖ shade
+廖 | TRADUÇÃO: surname Liao
+廖沫沙 | TRADUÇÃO: Liao Mosha (1907-1990), journalist and communist propagandist, severely criticized and imprisoned for 10 years during the Cultural Revolution
+廙 | TRADUÇÃO: yurt/(literary) respectful/prudent
+厨具 | TRADUÇÃO: kitchen implements
+厨司 | TRADUÇÃO: (dialect) cook; chef
+厨娘 | TRADUÇÃO: female cook
+厨子 | TRADUÇÃO: cook
+厨工 | TRADUÇÃO: kitchen helper; assistant cook
+厨师 | TRADUÇÃO: cook/chef
+厨师长 | TRADUÇÃO: executive chef/head chef
+厨房 | TRADUÇÃO: kitchen/CL:間|间
+厨艺 | TRADUÇÃO: cooking skills/culinary talent
+厨卫 | TRADUÇÃO: kitchens and bathrooms
+厨余 | TRADUÇÃO: kitchen waste/food waste (recycling)
+廛 | TRADUÇÃO: market place
+厮守 | TRADUÇÃO: to stay together; to rely on one another
+厮打 | TRADUÇÃO: to come to blows; to tussle
+厮搏 | TRADUÇÃO: to come to blows; to fight; to tussle
+厮杀 | TRADUÇÃO: to fight at close quarters; to fight tooth and nail
+厮混 | TRADUÇÃO: (derog.) to hang out (with sb)/to mix (things) together
+厮熟 | TRADUÇÃO: familiar with one another
+厮缠 | TRADUÇÃO: to pester
+厮锣 | TRADUÇÃO: small gong
+𫷷 | TRADUÇÃO: (literary) to arrange in ordered fashion/also pr. [qin1]
+庙 | TRADUÇÃO: temple/ancestral shrine/CL:座/temple fair/great imperial hall/imperial
+庙主 | TRADUÇÃO: head priest of a temple
+庙口 | TRADUÇÃO: Miaokou, market district in Keelung, Taiwan
+庙堂 | TRADUÇÃO: imperial ancestral temple/imperial court/temple
+庙塔 | TRADUÇÃO: temples and pagodas
+庙宇 | TRADUÇÃO: temple
+庙会 | TRADUÇÃO: temple fair
+庙祝 | TRADUÇÃO: acolyte in charge of incense in a temple
+庙号 | TRADUÇÃO: temple name of a deceased Chinese emperor
+厂主 | TRADUÇÃO: factory owner
+厂务 | TRADUÇÃO: factory operations; factory administration
+厂区 | TRADUÇÃO: factory premises; factory grounds
+厂史 | TRADUÇÃO: factory history
+厂商 | TRADUÇÃO: manufacturer/producer
+厂址 | TRADUÇÃO: factory site/location
+厂妹 | TRADUÇÃO: (derog.) young woman who works in a factory
+厂子 | TRADUÇÃO: (coll.) factory/mill/yard/depot
+厂家 | TRADUÇÃO: factory; manufacturer/(coll.) a factory owner; the factory management
+厂工 | TRADUÇÃO: factory worker
+厂弟 | TRADUÇÃO: (derog.) young man who works in a factory
+厂房 | TRADUÇÃO: a building used as a factory; factory (building)/CL:座,棟|栋
+厂牌 | TRADUÇÃO: brand (of a product)
+厂狗 | TRADUÇÃO: (slang) (often used self-deprecatingly) factory worker
+厂矿 | TRADUÇÃO: factories and mines
+厂礼拜 | TRADUÇÃO: (old) factory-designated weekly day off in lieu of Sunday/day off (work)
+厂丝 | TRADUÇÃO: filature silk
+厂规 | TRADUÇÃO: factory regulations
+厂长 | TRADUÇÃO: factory director
+庑 | TRADUÇÃO: variant of 蕪|芜 ‖ small rooms facing or to the side of the main hall or veranda
+废 | TRADUÇÃO: to abolish/to abandon/to abrogate/to discard/to depose/to oust/crippled/abandoned/waste ‖ variant of 廢|废/disabled
+废人 | TRADUÇÃO: handicapped person/useless person
+废品 | TRADUÇÃO: production rejects/seconds/scrap/discarded material
+废品收购站 | TRADUÇÃO: salvage station; recycling center
+废土 | TRADUÇÃO: waste soil (excavation waste, contaminated soil etc)/(post-apocalyptic) wasteland
+废墟 | TRADUÇÃO: ruins
+废寝忘食 | TRADUÇÃO: (idiom) to skip one's sleep and meals; to be completely wrapped up in one's work
+废寝忘餐 | TRADUÇÃO: see 廢寢忘食|废寝忘食
+废寝食 | TRADUÇÃO: to neglect sleep and food
+废弛 | TRADUÇÃO: to fall into disuse (of laws, customs etc)/to neglect
+废掉 | TRADUÇÃO: to depose (a king)
+废料 | TRADUÇÃO: waste products/refuse/garbage/good-for-nothing (derog.)
+废时 | TRADUÇÃO: to waste time
+废材 | TRADUÇÃO: useless person; good-for-nothing
+废柴 | TRADUÇÃO: (Cantonese) (coll.) good-for-nothing/loser
+废案 | TRADUÇÃO: scrapped plan, proposal, or design
+废弃 | TRADUÇÃO: to discard/to abandon (old ways)/to invalidate
+废止 | TRADUÇÃO: to repeal (a law)/to put an end to/abolition/annulled
+废气 | TRADUÇÃO: exhaust gas/industrial waste gas
+废水 | TRADUÇÃO: waste water/drain water/effluent
+废液 | TRADUÇÃO: waste liquids
+废渣 | TRADUÇÃO: industrial waste product/slag
+废然 | TRADUÇÃO: depressed/dejected
+废热 | TRADUÇÃO: waste heat
+废物 | TRADUÇÃO: rubbish; waste material/useless person
+废物箱 | TRADUÇÃO: ash-bin/litter-bin
+废物点心 | TRADUÇÃO: (coll.) a good-for-nothing; a loser
+废纸 | TRADUÇÃO: waste paper
+废统 | TRADUÇÃO: "abandonment of reunification", abolition of the cross-straits reunification committee
+废置 | TRADUÇÃO: to discard/to shelve as useless
+废旧 | TRADUÇÃO: worn out/old-fashioned and dilapidated
+废藩置县 | TRADUÇÃO: to abolish the feudal Han and introduce modern prefectures (refers to reorganization during Meiji Japan)
+废话 | TRADUÇÃO: nonsense; rubbish; superfluous words/You don't say!; No kidding! (gently sarcastic)
+废话连篇 | TRADUÇÃO: a bunch of nonsense/verbose and rambling
+废铜烂铁 | TRADUÇÃO: scrap metal/a pile of junk
+废钢 | TRADUÇÃO: scrap metal/steel scrap
+废铁 | TRADUÇÃO: scrap iron
+废除 | TRADUÇÃO: to abolish/to abrogate/to repeal
+废黜 | TRADUÇÃO: to depose (a king)
+广九 | TRADUÇÃO: Guangdong and Kowloon (e.g. railway)
+广九铁路 | TRADUÇÃO: Guangdong and Kowloon railway
+广交会 | TRADUÇÃO: China Export Commodities Fair also known as the Canton Fair
+广信 | TRADUÇÃO: see 廣信區|广信区
+广信区 | TRADUÇÃO: Guangxin, a district of Shangrao City 上饒市|上饶市, Jiangxi
+广传 | TRADUÇÃO: to propagate
+广元 | TRADUÇÃO: see 廣元市|广元市
+广元市 | TRADUÇÃO: Guangyuan, prefecture-level city in Sichuan Province 四川省
+广南 | TRADUÇÃO: see 廣南縣|广南县
+广南县 | TRADUÇÃO: Guangnan, a county in Wenshan Zhuang and Miao Autonomous Prefecture 文山壯族苗族自治州|文山壮族苗族自治州, Yunnan
+广博 | TRADUÇÃO: extensive
+广受好评 | TRADUÇÃO: widely praised; well received
+广告 | TRADUÇÃO: to advertise/a commercial/advertisement/CL:項|项
+广告主 | TRADUÇÃO: advertiser
+广告位 | TRADUÇÃO: ad space; ad slot
+广告商 | TRADUÇÃO: advertising company
+广告宣传 | TRADUÇÃO: advertising; publicity; promotion
+广告宣传画 | TRADUÇÃO: placard; poster
+广告宣传车 | TRADUÇÃO: mobile billboard
+广告拦截器 | TRADUÇÃO: ad-blocker
+广告条幅 | TRADUÇÃO: banner advertisement
+广告栏 | TRADUÇÃO: advertising column (in a newspaper)/bulletin board
+广告片 | TRADUÇÃO: advertising film/TV commercial
+广告牌 | TRADUÇÃO: billboard
+广告衫 | TRADUÇÃO: promotional T-shirt/CL:件
+广域市 | TRADUÇÃO: metropolitan city, South Korean analog of PRC municipality 直轄市|直辖市
+广域网 | TRADUÇÃO: wide area network/WAN
+广域网路 | TRADUÇÃO: wide area network/WAN
+广场 | TRADUÇÃO: public square; plaza
+广场恐怖症 | TRADUÇÃO: agoraphobia
+广场恐惧 | TRADUÇÃO: agoraphobia
+广场恐惧症 | TRADUÇÃO: agoraphobia
+广场舞 | TRADUÇÃO: square dancing, an exercise routine performed to music in public squares, parks and plazas, popular esp. among middle-aged and retired women in China
+广外 | TRADUÇÃO: abbr. for 廣東外語外貿大學|广东外语外贸大学
+广大 | TRADUÇÃO: (of an area) vast or extensive/large-scale/widespread/(of people) numerous
+广子 | TRADUÇÃO: (slang) advertisement; ad
+广安 | TRADUÇÃO: see 廣安市|广安市/see 廣安區|广安区
+广安区 | TRADUÇÃO: Guang'an, a district of Guang'an City 廣安市|广安市, Sichuan
+广安市 | TRADUÇÃO: Guang'an, prefecture-level city in Sichuan Province 四川省
+广安门 | TRADUÇÃO: Guanganmen in Xuanwu 宣武區|宣武区 district of southwest Beijing
+广宗 | TRADUÇÃO: see 廣宗縣|广宗县
+广宗县 | TRADUÇÃO: Guangzong, a county in Xingtai City 邢臺市|邢台市, Hebei
+广宁 | TRADUÇÃO: see 廣寧縣|广宁县
+广宁县 | TRADUÇÃO: Guangning, a county in Zhaoqing City 肇慶市|肇庆市, Guangdong
+广岛 | TRADUÇÃO: Hiroshima (prefecture and city in Japan)
+广州 | TRADUÇÃO: see 廣州市|广州市
+广州中医药大学 | TRADUÇÃO: Guangzhou University of Chinese Medicine
+广州市 | TRADUÇÃO: Guangzhou, sub-provincial city and capital of Guangdong Province 廣東省|广东省
+广州日报 | TRADUÇÃO: Guangzhou Daily
+广州美术学院 | TRADUÇÃO: Guangzhou Academy of Fine Arts
+广平 | TRADUÇÃO: see 廣平縣|广平县
+广平县 | TRADUÇÃO: Guangping, a county in Handan City 邯鄲市|邯郸市, Hebei
+广度 | TRADUÇÃO: breadth
+广式 | TRADUÇÃO: Cantonese-style
+广德 | TRADUÇÃO: see 廣德市|广德市
+广德市 | TRADUÇÃO: Guangde, a county-level city in Xuancheng City 宣城市, Anhui
+广播 | TRADUÇÃO: broadcast/CL:個|个/broadcasting/to broadcast/(formal) to propagate/to publicize
+广播剧 | TRADUÇÃO: radio drama
+广播员 | TRADUÇÃO: (radio) broadcaster
+广播地址 | TRADUÇÃO: broadcast address
+广播室 | TRADUÇÃO: broadcasting room
+广播节目 | TRADUÇÃO: radio program; broadcast program
+广播网 | TRADUÇÃO: network
+广播网路 | TRADUÇÃO: broadcast network
+广播电台 | TRADUÇÃO: radio station ‖ radio station/broadcasting station/CL:個|个,家
+广昌 | TRADUÇÃO: see 廣昌縣|广昌县
+广昌县 | TRADUÇÃO: Guangchang, a county in Fuzhou City 撫州市|抚州市, Jiangxi
+广普 | TRADUÇÃO: Guangdong pidgin (a mix of Standard Mandarin and Cantonese)
+广东 | TRADUÇÃO: see 廣東省|广东省
+广东人 | TRADUÇÃO: Cantonese (people)
+广东外语外贸大学 | TRADUÇÃO: Guangdong University of Foreign Studies
+广东海洋大学 | TRADUÇÃO: Guangdong Ocean University
+广东省 | TRADUÇÃO: Guangdong Province, capital Guangzhou 廣州市|广州市 (short name 粵|粤)
+广东科学技术职业学院 | TRADUÇÃO: Guangdong Institute of Science and Technology
+广东话 | TRADUÇÃO: Cantonese language
+广柑 | TRADUÇÃO: a variety of orange grown in Guangdong, Sichuan, Taiwan etc
+广水 | TRADUÇÃO: see 廣水市|广水市
+广水市 | TRADUÇÃO: Guangshui, a county-level city in Suizhou City 隨州市|随州市, Hubei
+广河 | TRADUÇÃO: see 廣河縣|广河县
+广河县 | TRADUÇÃO: Guanghe, a county in Linxia Hui Autonomous Prefecture 臨夏回族自治州|临夏回族自治州, Gansu
+广泛 | TRADUÇÃO: wide; broad; extensive; widespread
+广泛影响 | TRADUÇÃO: wide ranging influence
+广泛性焦虑症 | TRADUÇÃO: generalized anxiety disorder (GAD)
+广漠 | TRADUÇÃO: vast and empty
+广汉 | TRADUÇÃO: see 廣漢市|广汉市
+广汉市 | TRADUÇÃO: Guanghan, a county-level city in Deyang City 德陽市|德阳市, Sichuan
+广为 | TRADUÇÃO: widely
+广目天 | TRADUÇÃO: Virupaksa (on of the Four Heavenly Kings)
+广砚 | TRADUÇÃO: Guangnan and Yanshan (in Yunnan)
+广结良缘 | TRADUÇÃO: to earn people's praise through one's good deeds (idiom)
+广义 | TRADUÇÃO: broad sense/general sense
+广义相对论 | TRADUÇÃO: general relativity/Einstein's theory of gravity
+广而告之 | TRADUÇÃO: to publicize widely
+广藿香 | TRADUÇÃO: (botany) patchouli (Pogostemon cablin)
+广袤 | TRADUÇÃO: vast
+广西 | TRADUÇÃO: see 廣西壯族自治區|广西壮族自治区
+广西壮族自治区 | TRADUÇÃO: Guangxi Zhuang Autonomous Region, capital Nanning 南寧市|南宁市 (short name 桂)
+广西省 | TRADUÇÃO: Guangxi Province, which in 1958 became Guangxi Zhuang Autonomous Region 廣西壯族自治區|广西壮族自治区, capital Nanning 南寧|南宁
+广角 | TRADUÇÃO: wide-angle/panoramic/fig. wide perspective/panorama
+广角镜 | TRADUÇÃO: wide-angle lens
+广角镜头 | TRADUÇÃO: wide angle camera shot
+广谱 | TRADUÇÃO: broad spectrum
+广丰 | TRADUÇÃO: see 廣豐區|广丰区
+广丰区 | TRADUÇÃO: Guangfeng, a district of Shangrao City 上饒市|上饶市, Jiangxi
+广游 | TRADUÇÃO: to travel widely (esp. as Daoist priest or Buddhist monk)
+广开言路 | TRADUÇÃO: to encourage the free airing of views (idiom)
+广阔 | TRADUÇÃO: wide/vast
+广陵 | TRADUÇÃO: see 廣陵區|广陵区
+广陵区 | TRADUÇÃO: Guangling, a district of Yangzhou City 揚州市|扬州市, Jiangsu
+广阳 | TRADUÇÃO: see 廣陽區|广阳区
+广阳区 | TRADUÇÃO: Guangyang, a district of Langfang City 廊坊市, Hebei
+广雅 | TRADUÇÃO: earliest extant Chinese encyclopedia from Wei of the Three Kingdoms, 3rd century, modeled on Erya 爾雅|尔雅, 18150 entries
+广电 | TRADUÇÃO: radio and television/broadcasting
+广电总局 | TRADUÇÃO: National Radio and Television Administration (NRTA) (abbr. for 國家廣播電視總局|国家广播电视总局)/formerly SAPPRFT, the State Administration of Press, Publication, Radio, Film and Television (2013-2018) and SARFT, the State Administration of Radio, Film, and Television (prior to 2013)
+广灵 | TRADUÇÃO: see 廣靈縣|广灵县
+广灵县 | TRADUÇÃO: Guangling, a county in Datong City 大同市, Shanxi
+广韵 | TRADUÇÃO: Guangyun, Chinese rime dictionary 韻書|韵书 from 11th century, containing 26,194 single-character entries
+广饶 | TRADUÇÃO: see 廣饒縣|广饶县
+广饶县 | TRADUÇÃO: Guangrao, a county in Dongying City 東營市|东营市, Shandong
+廥 | TRADUÇÃO: barn/granary
+廥仓 | TRADUÇÃO: granary
+廧 | TRADUÇÃO: wall
+廨 | TRADUÇÃO: (bound form) government office
+廪 | TRADUÇÃO: government granary
+庐 | TRADUÇÃO: surname Lu/Luzhou or Lu Prefecture 廬州|庐州, a prefecture between the 6th and 13th centuries in present-day Anhui/Mount Lu 廬山|庐山 in Jiangxi Province ‖ hut
+庐山 | TRADUÇÃO: see 廬山市|庐山市/Lushan district of Jiujiang city 九江市, Jiangxi/Mt Lushan in Jiujiang, famous as summer holiday spot
+庐山区 | TRADUÇÃO: Lushan district of Jiujiang city 九江市, Jiangxi
+庐山市 | TRADUÇÃO: Lushan, a county-level city in Jiujiang City 九江市, Jiangxi
+庐江 | TRADUÇÃO: see 廬江縣|庐江县
+庐江县 | TRADUÇÃO: Lujiang, a county in Hefei City 合肥市, Anhui
+庐阳 | TRADUÇÃO: see 廬陽區|庐阳区
+庐阳区 | TRADUÇÃO: Luyang, a district of Hefei City 合肥市, Anhui
+廱 | TRADUÇÃO: harmonious
+厅 | TRADUÇÃO: (reception) hall/living room/office/provincial government department
+厅堂 | TRADUÇÃO: hall
+厅长 | TRADUÇÃO: head of provincial PRC government department
+廴 | TRADUÇÃO: "long stride" radical in Chinese characters (Kangxi radical 54), occurring in 建, 延, 廷 etc
+延 | TRADUÇÃO: surname Yan ‖ to prolong/to extend/to delay
+延伸 | TRADUÇÃO: to extend; to stretch; to expand; to spread
+延吉 | TRADUÇÃO: see 延吉市
+延吉市 | TRADUÇÃO: Yanji, a county-level city in Yanbian Korean Autonomous Prefecture 延邊朝鮮族自治州|延边朝鲜族自治州, Jilin
+延坪岛 | TRADUÇÃO: Yeonpyeong island on Yellow Sea coast of Korea
+延寿 | TRADUÇÃO: see 延壽縣|延寿县 ‖ to prolong life; to extend lifespan
+延寿县 | TRADUÇÃO: Yanshou, a county in Harbin City 哈爾濱市|哈尔滨市, Heilongjiang
+延安 | TRADUÇÃO: see 延安市
+延安市 | TRADUÇÃO: Yan'an, prefecture-level city in Shaanxi Province 陝西省|陕西省
+延宕 | TRADUÇÃO: to postpone/to keep putting sth off
+延展 | TRADUÇÃO: to extend; to stretch out
+延展性 | TRADUÇÃO: ductability
+延川 | TRADUÇÃO: see 延川縣|延川县
+延川县 | TRADUÇÃO: Yanchuan, a county in Yan'an City 延安市, Shaanxi
+延平 | TRADUÇÃO: see 延平區|延平区/see 延平鄉|延平乡
+延平区 | TRADUÇÃO: Yanping, a district of Nanping City 南平市, Fujian
+延平乡 | TRADUÇÃO: Yanping township in Taitung County 臺東縣|台东县, southeast Taiwan
+延年 | TRADUÇÃO: to prolong life
+延年益寿 | TRADUÇÃO: (idiom) to prolong life; to extend lifespan
+延后 | TRADUÇÃO: to postpone/to defer/to delay
+延性 | TRADUÇÃO: ductility
+延庆 | TRADUÇÃO: see 延慶區|延庆区
+延庆区 | TRADUÇÃO: Yanqing, a district of Beijing
+延接 | TRADUÇÃO: to receive sb
+延搁 | TRADUÇÃO: to delay/to procrastinate
+延揽 | TRADUÇÃO: to recruit talent/to round up/to enlist the services of sb
+延时摄影 | TRADUÇÃO: time-lapse photography
+延会 | TRADUÇÃO: to postpone a meeting
+延期 | TRADUÇÃO: to delay/to extend/to postpone/to defer
+延期付款 | TRADUÇÃO: to defer payment/to pay back over long term
+延津 | TRADUÇÃO: see 延津縣|延津县
+延津县 | TRADUÇÃO: Yanjin, a county in Xinxiang City 新鄉市|新乡市, Henan
+延烧 | TRADUÇÃO: (of fire) to continue burning; to spread/(fig.) (of a disease, controversy, issue or trend) to spread; to intensify; to gain traction
+延毕 | TRADUÇÃO: to postpone one's graduation (e.g. by undertaking additional studies) (abbr. for 延後畢業|延后毕业)
+延发 | TRADUÇÃO: delayed action
+延禧攻略 | TRADUÇÃO: Story of Yanxi Palace (2018 TV series)
+延绵 | TRADUÇÃO: to extend continuously
+延缓 | TRADUÇÃO: to defer/to postpone/to put off/to retard/to slow sth down
+延续 | TRADUÇÃO: to continue/to go on/to last
+延聘 | TRADUÇÃO: (formal) to recruit; to appoint; to invite to take up a position/to extend sb's employment; to retain beyond retirement age
+延脑 | TRADUÇÃO: (anatomy) medulla oblongata
+延见 | TRADUÇÃO: to introduce/to receive sb
+延误 | TRADUÇÃO: to postpone (with unfortunate consequences); to take too long (to do sth); to miss (a deadline or window of opportunity)
+延误费 | TRADUÇÃO: demurrage (shipping)
+延请 | TRADUÇÃO: to employ/to send for sb promising employment
+延迟 | TRADUÇÃO: to delay/to postpone/to keep putting sth off/to procrastinate/(computing) to lag
+延边 | TRADUÇÃO: see 延邊朝鮮族自治州|延边朝鲜族自治州
+延边大学 | TRADUÇÃO: Yanbian University (Jilin province)
+延边州 | TRADUÇÃO: see 延邊朝鮮族自治州|延边朝鲜族自治州
+延边朝鲜族自治州 | TRADUÇÃO: Yanbian Korean Autonomous Prefecture, in Jilin Province 吉林省
+延长 | TRADUÇÃO: see 延長縣|延长县 ‖ to prolong/to extend/to delay
+延长线 | TRADUÇÃO: extension cord/extended line/powerstrip
+延长县 | TRADUÇÃO: Yanchang, a county in Yan'an City 延安市, Shaanxi
+延音线 | TRADUÇÃO: tie (music)
+延颈企踵 | TRADUÇÃO: to stand on tiptoe and crane one's neck (idiom); fig. to yearn for sth
+延髓 | TRADUÇÃO: (anatomy) medulla oblongata
+廷 | TRADUÇÃO: palace courtyard
+廷尉 | TRADUÇÃO: chief judicial officer in imperial China
+廷巴克图 | TRADUÇÃO: Timbuktoo (town and historical cultural center in Mali, a World Heritage site)
+廷布 | TRADUÇÃO: Thimphu, capital of Bhutan
+廷试 | TRADUÇÃO: court examination, the top grade imperial exam
+廸 | TRADUÇÃO: variant of 迪
+迫 | TRADUÇÃO: variant of 迫/to persecute/to oppress/embarrassed ‖ used in 迫擊炮|迫击炮 ‖ to force/to compel/to approach or go towards/urgent/pressing
+建 | TRADUÇÃO: to establish/to found/to set up/to build/to construct
+建三江 | TRADUÇÃO: Jiansanjiang, large-scale agricultural development in Sanjiang river plain in Heilongjiang
+建交 | TRADUÇÃO: to establish diplomatic relations
+建制 | TRADUÇÃO: organizational structure
+建功立业 | TRADUÇÃO: to achieve or accomplish goals
+建商 | TRADUÇÃO: construction company/housebuilder
+建国 | TRADUÇÃO: to found a country/nation-building/the foundation of PRC by Mao Zedong in 1949
+建基 | TRADUÇÃO: to lay foundations
+建始 | TRADUÇÃO: see 建始縣|建始县
+建始县 | TRADUÇÃO: Jianshi, a county in Enshi Tujia and Miao Autonomous Prefecture 恩施土家族苗族自治州, Hubei
+建安 | TRADUÇÃO: reign name (196-219) at the end of the Han dynasty
+建安区 | TRADUÇÃO: Jian'an, a district of Xuchang City 許昌市|许昌市, Henan
+建宁 | TRADUÇÃO: see 建寧縣|建宁县
+建宁县 | TRADUÇÃO: Jianning, a county in Sanming City 三明市, Fujian
+建屋互助会 | TRADUÇÃO: building society (finance)
+建平 | TRADUÇÃO: see 建平縣|建平县
+建平县 | TRADUÇÃO: Jianping, a county in Chaoyang City 朝陽市|朝阳市, Liaoning
+建康 | TRADUÇÃO: old name for Nanjing 南京, esp. during Southern dynasties
+建德 | TRADUÇÃO: see 建德市
+建德市 | TRADUÇÃO: Jiande, a county-level city in Hangzhou City 杭州市, Zhejiang
+建成 | TRADUÇÃO: to establish/to build
+建成区 | TRADUÇÃO: built-up area/urban area
+建政 | TRADUÇÃO: to establish a government/esp. refers to communist takeover of 1949
+建教合作 | TRADUÇÃO: cooperative education (Tw)
+建文 | TRADUÇÃO: Jianwen Emperor, reign name of second Ming Emperor Zhu Yunwen 朱允炆 (1377-1402), reigned 1398-1402
+建文帝 | TRADUÇÃO: reign name of second Ming emperor, reigned 1398-1402, deposed in 1402
+建昌 | TRADUÇÃO: see 建昌縣|建昌县
+建昌县 | TRADUÇÃO: Jianchang, a county in Huludao City 葫蘆島市|葫芦岛市, Liaoning
+建材 | TRADUÇÃO: building materials
+建业 | TRADUÇÃO: an old name for Nanjing, called Jiankang 建康 or Jianye during the Eastern Jin (317-420)
+建构 | TRADUÇÃO: to construct (often sth abstract, such as good relations)/to set up/to develop/construction (abstract)/architecture
+建模 | TRADUÇÃO: to construct a model (an abstract model, as in applied mathematics or machine learning etc)
+建树 | TRADUÇÃO: to make a contribution/to establish/to found/contribution
+建档 | TRADUÇÃO: to establish records; to create a file; to archive systematically
+建水 | TRADUÇÃO: see 建水縣|建水县
+建水县 | TRADUÇÃO: Jianshui, a county in Honghe Hani and Yi Autonomous Prefecture 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+建湖 | TRADUÇÃO: see 建湖縣|建湖县
+建湖县 | TRADUÇÃO: Jianhu, a county in Yancheng City 鹽城市|盐城市, Jiangsu
+建物 | TRADUÇÃO: (Tw) building; structure
+建瓯 | TRADUÇÃO: see 建甌市|建瓯市
+建瓯市 | TRADUÇÃO: Jian'ou, a county-level city in Nanping City 南平市, Fujian
+建白 | TRADUÇÃO: to propose/to suggest/to state a view
+建立 | TRADUÇÃO: to establish/to set up/to found
+建立时间 | TRADUÇÃO: (electronics) setup time/(electronics) settling time
+建立者 | TRADUÇÃO: founder
+建筑 | TRADUÇÃO: to construct/building/CL:個|个
+建筑学 | TRADUÇÃO: architectural/architecture
+建筑工人 | TRADUÇÃO: construction worker/builder
+建筑师 | TRADUÇÃO: architect
+建筑业 | TRADUÇÃO: building industry
+建筑物 | TRADUÇÃO: building/structure/edifice
+建筑群 | TRADUÇÃO: building complex; cluster of buildings
+建置 | TRADUÇÃO: to set up; to establish/facilities/(government) agency; authority
+建华 | TRADUÇÃO: see 建華區|建华区
+建华区 | TRADUÇÃO: Jianhua, a district of Qiqihar City 齊齊哈爾市|齐齐哈尔市, Heilongjiang
+建行 | TRADUÇÃO: China Construction Bank (abbr.)
+建言 | TRADUÇÃO: to make a suggestion/to state (one's views, ideas etc)/suggestion/advice/idea
+建设 | TRADUÇÃO: to build; to construct; to establish; to develop; to institute
+建设性 | TRADUÇÃO: constructive/constructiveness
+建议 | TRADUÇÃO: to propose; to suggest; to recommend/proposal; suggestion; recommendation (CL:點|点)
+建议售价 | TRADUÇÃO: recommended retail price (RRP)
+建军节 | TRADUÇÃO: Army Day (August 1)
+建造 | TRADUÇÃO: to construct; to build
+建造师 | TRADUÇÃO: certified construction engineer
+建都 | TRADUÇÃO: to establish a capital
+建邺 | TRADUÇÃO: see 建鄴區|建邺区
+建邺区 | TRADUÇÃO: Jianye, a district of Nanjing City 南京市, Jiangsu
+建阳 | TRADUÇÃO: see 建陽區|建阳区
+建阳区 | TRADUÇÃO: Jianyang, a district of Nanping City 南平市, Fujian
+建党 | TRADUÇÃO: to establish a political party
+建党节 | TRADUÇÃO: CCP Founding Day (July 1st)
+廻 | TRADUÇÃO: variant of 迴|回
+廾 | TRADUÇÃO: hands joined
+廿 | TRADUÇÃO: twenty
+廿八躔 | TRADUÇÃO: the twenty-eight constellations/also written 二十八宿
+廿四史 | TRADUÇÃO: twenty four dynastic histories (or 25 or 26 in modern editions)/same as 二十四史
+弁 | TRADUÇÃO: (old) cap (garment)/military officer of low rank (in former times)/preceding
+弄 | TRADUÇÃO: lane/alley ‖ to do/to manage/to handle/to play with/to fool with/to mess with/to fix/to toy with ‖ old variant of 弄 ‖ variant of 弄
+弄不懂 | TRADUÇÃO: unable to make sense of (sth)
+弄不清 | TRADUÇÃO: unable to figure out
+弄丢 | TRADUÇÃO: to lose
+弄乱 | TRADUÇÃO: to mess up/to put into disorder/to meddle with/to confuse
+弄假成真 | TRADUÇÃO: pretense that turns into reality (idiom); to play at make-believe, but accidentally make it true
+弄伤 | TRADUÇÃO: to bruise/to hurt (something)
+弄僵 | TRADUÇÃO: to bring to deadlock/to result in a stalemate
+弄到 | TRADUÇÃO: to get hold of/to obtain/to secure/to come by
+弄到手 | TRADUÇÃO: to get in hand/to get (one's) hands on/to get hold of (in the sense of to acquire)
+弄嘴弄舌 | TRADUÇÃO: to cause a dispute through boastful gossip (idiom)
+弄堂 | TRADUÇÃO: (dialect) alley/lane
+弄坏 | TRADUÇÃO: to ruin/to spoil/to break
+弄岗穗鹛 | TRADUÇÃO: (bird species of China) Nonggang babbler (Stachyris nonggangensis)
+弄巧反拙 | TRADUÇÃO: see 弄巧成拙
+弄巧成拙 | TRADUÇÃO: to overreach oneself/to try to be clever and end up with egg on one's face
+弄平 | TRADUÇÃO: to flatten
+弄懂 | TRADUÇÃO: to make sense of/to grasp the meaning of/to figure out
+弄明白 | TRADUÇÃO: to figure out how to do something
+弄歪 | TRADUÇÃO: to distort
+弄死 | TRADUÇÃO: to kill/to put to death
+弄混 | TRADUÇÃO: to confuse (fail to differentiate)
+弄清 | TRADUÇÃO: to clarify/to fully understand
+弄璋 | TRADUÇÃO: (literary) to have a baby boy; to celebrate the birth of a son
+弄瓦 | TRADUÇÃO: (literary) to have a baby girl; to celebrate the birth of a daughter
+弄皱 | TRADUÇÃO: to crumple
+弄直 | TRADUÇÃO: to straighten
+弄短 | TRADUÇÃO: to shorten/shortening
+弄碎 | TRADUÇÃO: to crumble
+弄糟 | TRADUÇÃO: to spoil/to mess up
+弄臣 | TRADUÇÃO: emperor's favorite courtier
+弄虚作假 | TRADUÇÃO: to practice fraud (idiom); by trickery
+弄走 | TRADUÇÃO: (coll.) to take (sth) away/to get rid of
+弄通 | TRADUÇÃO: to get a good grasp of
+弄醒 | TRADUÇÃO: to wake sb up
+弄错 | TRADUÇÃO: to err/to get sth wrong/to miscalculate/to misunderstand
+弄脏 | TRADUÇÃO: to make dirty/to defile/to smear
+弆 | TRADUÇÃO: (literary) to collect/to keep in store
+弇 | TRADUÇÃO: to cover/trap
+弈 | TRADUÇÃO: ancient name for go (Chinese board game)
+弊 | TRADUÇÃO: detriment/fraud/harm/defeat
+弊案 | TRADUÇÃO: scandal
+弊病 | TRADUÇÃO: malady/evil/malpractice/drawback/disadvantage
+弊端 | TRADUÇÃO: systemic problem (sometimes refers specifically to corrupt practices)
+弋 | TRADUÇÃO: to shoot
+弋江 | TRADUÇÃO: see 弋江區|弋江区
+弋江区 | TRADUÇÃO: Yijiang, a district of Wuhu City 蕪湖市|芜湖市, Anhui
+弋阳 | TRADUÇÃO: see 弋陽縣|弋阳县
+弋阳县 | TRADUÇÃO: Yiyang, a county in Shangrao City 上饒市|上饶市, Jiangxi
+弌 | TRADUÇÃO: archaic variant of 一
+弍 | TRADUÇÃO: archaic variant of 貳|贰, banker's anti-fraud numeral two
+弎 | TRADUÇÃO: archaic variant of 參|叁, banker's anti-fraud numeral three
+式 | TRADUÇÃO: type/form/pattern/style
+式子 | TRADUÇÃO: posture/(math.) expression; formula
+式微 | TRADUÇÃO: (literary) to decline/to wane/title of a section in the Book of Songs 詩經|诗经
+式样 | TRADUÇÃO: style
+弑 | TRADUÇÃO: to murder a superior/to murder one's parent
+弑君 | TRADUÇÃO: regicide/to commit regicide
+弑母 | TRADUÇÃO: matricide/to commit matricide
+弑父 | TRADUÇÃO: patricide/to kill one's own father
+弓 | TRADUÇÃO: surname Gong ‖ a bow (weapon)/CL:張|张/to bend/to arch (one's back etc)
+弓弦 | TRADUÇÃO: bowstring
+弓弦儿 | TRADUÇÃO: bowstring
+弓弩 | TRADUÇÃO: bow and crossbow
+弓弩手 | TRADUÇÃO: crossbow shooter
+弓形 | TRADUÇÃO: circular segment
+弓形虫 | TRADUÇÃO: Toxoplasma gondii
+弓浆虫 | TRADUÇÃO: Toxoplasma gondii
+弓状 | TRADUÇÃO: bowed/curved like a bow
+弓箭 | TRADUÇÃO: bow and arrow
+弓箭手 | TRADUÇÃO: archer
+弓箭步 | TRADUÇÃO: forward lunge (stance used in martial arts, fitness training etc)
+弓背 | TRADUÇÃO: to hunch over/to stoop/to arch one's back (upward)
+弓腰 | TRADUÇÃO: to bow/to bend at the waist
+弓臂 | TRADUÇÃO: (archery) bow limb
+弓虫 | TRADUÇÃO: Toxoplasma gondii
+弓足 | TRADUÇÃO: bound feet
+弓身 | TRADUÇÃO: to bend the body at the waist/to bow
+弓长岭 | TRADUÇÃO: see 弓長嶺區|弓长岭区
+弓长岭区 | TRADUÇÃO: Gongchangling, a district of Liaoyang City 遼陽市|辽阳市, Liaoning
+吊伐 | TRADUÇÃO: to console the people by punishing the tyrants (abbr. for 弔民伐罪|吊民伐罪)
+吊古 | TRADUÇÃO: to revisit the past/to commemorate
+吊丧 | TRADUÇÃO: to visit the bereaved to offer one's condolences
+吊孝 | TRADUÇÃO: a condolence visit
+吊客 | TRADUÇÃO: a visitor offering condolences
+吊慰 | TRADUÇÃO: to offer condolences/to console the bereaved
+吊文 | TRADUÇÃO: paper prayers for the dead burnt at funerals
+吊死问疾 | TRADUÇÃO: to grieve for the sick and the dying/to show great concern for people's suffering
+吊民伐罪 | TRADUÇÃO: to console the people by punishing the tyrants (idiom)
+吊祭 | TRADUÇÃO: a worship ceremony for the dead/to offer sacrifice (to ancestors)/a libation
+吊诡 | TRADUÇÃO: bizarre/paradoxical/a paradox (from Daoist classic Zhuangzi 莊子|庄子)
+吊诡矜奇 | TRADUÇÃO: strange and paradoxical
+引 | TRADUÇÃO: to draw (e.g. a bow)/to pull/to stretch sth/to extend/to lengthen/to involve or implicate in/to attract/to lead/to guide/to leave/to provide evidence or justification for/old unit of distance equal to 10 丈, one-thirtieth of a km or 33.33 meters
+引人入胜 | TRADUÇÃO: to enchant/fascinating
+引人注意 | TRADUÇÃO: to attract attention/eye-catching/conspicuous
+引人注目 | TRADUÇÃO: to attract attention/eye-catching/conspicuous
+引以为傲 | TRADUÇÃO: to be intensely proud of sth (idiom)
+引以为憾 | TRADUÇÃO: to consider sth regrettable (idiom)
+引以为戒 | TRADUÇÃO: to take sth as a warning (idiom)/to draw a lesson from a case where things turned out badly
+引以为荣 | TRADUÇÃO: to regard it as an honor (idiom)
+引以为鉴 | TRADUÇÃO: to take a lesson from (an adverse experience)
+引信 | TRADUÇÃO: fuze; detonator
+引入 | TRADUÇÃO: to draw into/to pull into/to introduce
+引入迷途 | TRADUÇÃO: to mislead/to lead astray
+引出 | TRADUÇÃO: to extract/to draw out
+引别 | TRADUÇÃO: to leave/to say goodbye
+引力 | TRADUÇÃO: gravitation (force)/attraction
+引力场 | TRADUÇÃO: gravitational field
+引力波 | TRADUÇÃO: gravitational wave
+引向 | TRADUÇÃO: to lead to/to draw to/to steer towards
+引吭高歌 | TRADUÇÃO: to sing at the top of one's voice (idiom)
+引咎 | TRADUÇÃO: to take the blame/to accept responsibility (for a mistake)
+引咎辞职 | TRADUÇÃO: to admit responsibility and resign
+引嫌 | TRADUÇÃO: to avoid arousing suspicions
+引子 | TRADUÇÃO: introduction/primer/opening words
+引导 | TRADUÇÃO: to guide/to lead (around)/to conduct/to boot/introduction/primer
+引导员 | TRADUÇÃO: usher/guide
+引导师 | TRADUÇÃO: (workshop) facilitator
+引导扇区 | TRADUÇÃO: boot sector
+引得 | TRADUÇÃO: index (loanword)
+引征 | TRADUÇÃO: quotation/citing/to cite/to reference
+引战 | TRADUÇÃO: (Internet slang) to bait others into an argument; to ragebait
+引擎 | TRADUÇÃO: engine (loanword)/CL:臺|台
+引擎盖 | TRADUÇÃO: (car) hood/bonnet
+引叙 | TRADUÇÃO: to introduce a text by citing documents or source material at the beginning
+引文 | TRADUÇÃO: quotation/citation
+引柴 | TRADUÇÃO: kindling (to light a fire)
+引桥 | TRADUÇÃO: bridge approach
+引水 | TRADUÇÃO: to pilot a ship/to channel water/to draw water (for irrigation)
+引水入墙 | TRADUÇÃO: lit. to lead the water through the wall/to ask for trouble (idiom)
+引水工程 | TRADUÇÃO: water-induction engineering/irrigation engineering
+引决 | TRADUÇÃO: to commit suicide
+引河 | TRADUÇÃO: irrigation channel
+引流 | TRADUÇÃO: to draw off (liquid)/(medicine) to perform a drainage procedure/to attract traffic online
+引渡 | TRADUÇÃO: to extradite
+引火 | TRADUÇÃO: to kindle/to light a fire
+引火柴 | TRADUÇÃO: kindling
+引火烧身 | TRADUÇÃO: to invite trouble
+引火线 | TRADUÇÃO: fuse (for explosives)/(fig.) proximate cause/the last straw
+引燃 | TRADUÇÃO: to ignite/to start (a fire)/(fig.) to spark (debate, conflict etc)
+引爆 | TRADUÇÃO: to ignite; to detonate
+引爆装置 | TRADUÇÃO: detonator
+引爆点 | TRADUÇÃO: tipping point
+引狗入寨 | TRADUÇÃO: lit. to lead the dog into the village (idiom)/fig. to introduce a potential source of trouble
+引狼入室 | TRADUÇÃO: (lit.) to show the wolf into the house (idiom)/(fig.) to introduce a potential source of trouble
+引玉之砖 | TRADUÇÃO: lit. a brick thrown to prompt others to produce a jade (idiom)/fig. a modest suggestion intended to prompt others to come forward with better ideas
+引理 | TRADUÇÃO: (math.) lemma

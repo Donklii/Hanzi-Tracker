@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+制陶工人 | TRADUÇÃO: oleiro
+制鞋匠 | TRADUÇÃO: sapateiro
+制鞋工人 | TRADUÇÃO: sapateiro
+裾 | TRADUÇÃO: barra de uma vestimenta
+褀 | TRADUÇÃO: variante de 綥
+褂 | TRADUÇÃO: (forma presa) vestimenta de mangas largas ao estilo chinês, sem forro
+褂子 | TRADUÇÃO: vestimenta superior sem forro
+复共轭 | TRADUÇÃO: (mat.) conjugado complexo
+复利 | TRADUÇÃO: juros compostos
+复印 | TRADUÇÃO: fotocopiar/duplicar um documento
+复印件 | TRADUÇÃO: fotocópia/cópia
+复印机 | TRADUÇÃO: fotocopiadora
+复印纸 | TRADUÇÃO: papel para fotocopiadora
+复句 | TRADUÇÃO: sentença composta/frase complexa
+复合元音 | TRADUÇÃO: ditongo (como os do mandarim ɑi, ei, etc.)
+复合弓 | TRADUÇÃO: arco composto (arco e flecha)
+复合材料 | TRADUÇÃO: material compósito
+复合母音 | TRADUÇÃO: ditongo/vogal composta
+复合肥 | TRADUÇÃO: fertilizante composto
+复合词 | TRADUÇÃO: palavra composta
+复写 | TRADUÇÃO: duplicar (documento)/fazer cópia carbono
+复写纸 | TRADUÇÃO: papel carbono
+复平面 | TRADUÇÃO: plano complexo
+复式 | TRADUÇÃO: duplo/múltiplo/composto/ combinado/partida dobrada (contabilidade)
+复数 | TRADUÇÃO: (linguística) plural/(mat.) número complexo
+复数域 | TRADUÇÃO: corpo dos números complexos (mat.), geralmente denotado por C
+复数平面 | TRADUÇÃO: (mat.) plano complexo/plano de Argand
+复数形式 | TRADUÇÃO: forma plural (de um substantivo contável)
+复方 | TRADUÇÃO: prescrição composta (envolvendo vários medicamentos)
+复本 | TRADUÇÃO: cópia
+复殖吸虫 | TRADUÇÃO: verme trematódeo digenético (da Ordem Digenea 複殖目|复殖目)
+复殖目 | TRADUÇÃO: Ordem Digenea (inclui vermes trematódeos que parasitam humanos)
+复比 | TRADUÇÃO: razão composta (produto de duas ou mais razões)
+复用 | TRADUÇÃO: reutilizar
+复叠 | TRADUÇÃO: reduplicação de palavras ou sílabas (como recurso estilístico em chinês)
+复眼 | TRADUÇÃO: olho composto
+复线 | TRADUÇÃO: via múltipla (ex.: ferrovia)/multifaixa (ex.: rodovia)/(mat.) reta complexa
+复听 | TRADUÇÃO: audição dupla/diplacusia
+复叶 | TRADUÇÃO: folha composta (botânica)
+复制 | TRADUÇÃO: duplicar/fazer uma cópia de/copiar/reproduzir/clonar
+复制品 | TRADUÇÃO: réplica/reprodução
+复视 | TRADUÇÃO: visão dupla/diplopia
+复词 | TRADUÇÃO: palavra composta/palavra polissilábica
+复试 | TRADUÇÃO: fazer a segunda fase de um exame em duas etapas
+复变 | TRADUÇÃO: (mat.) variável complexa
+复变函数 | TRADUÇÃO: função de uma variável complexa (mat.)
+复变函数论 | TRADUÇÃO: (mat.) teoria das funções de uma variável complexa
+复购 | TRADUÇÃO: recomprar
+复赛 | TRADUÇÃO: (esportes) semifinal ou quartas de final/disputar uma semifinal (ou quartas de final)
+复迭 | TRADUÇÃO: variante de 複疊|复叠 ‖ variante de 覆疊|覆叠
+复述 | TRADUÇÃO: repetir (as próprias palavras ou as de outrem)/(em sala de aula) parafrasear o que aprendeu ‖ variante de 複述|复述
+复选框 | TRADUÇÃO: caixa de seleção
+复杂 | TRADUÇÃO: complicado/complexo
+复杂化 | TRADUÇÃO: complicar/tornar-se complicado
+复杂性 | TRADUÇÃO: complexidade
+复杂系统 | TRADUÇÃO: sistema complexo
+复音形 | TRADUÇÃO: ditongo/liaison
+复音词 | TRADUÇÃO: palavra dissilábica/palavra polissilábica
+复韵母 | TRADUÇÃO: final composto
+褉 | TRADUÇÃO: vestes curtas
+褊 | TRADUÇÃO: estreito/urgente
+褊狭 | TRADUÇÃO: estreito/limitado/mesquinho
+裈 | TRADUÇÃO: calças (antigo)
+褎 | TRADUÇÃO: manga/manto amplo e fluido
+褏 | TRADUÇÃO: variante antiga de 袖
+褐 | TRADUÇÃO: marrom/cinzento ou cor escura/tecido grosso de cânhamo/pronúncia em Taiwan: [he2]
+褐冠山雀 | TRADUÇÃO: (espécie de ave da China) chapim-de-crista-cinzenta (Lophophanes dichrous)
+褐冠鹃隼 | TRADUÇÃO: (espécie de ave da China) falcão-de-jerdon (Aviceda jerdoni)
+褐喉旋木雀 | TRADUÇÃO: (espécie de ave da China) trepador-siquimês (Certhia discolor)
+褐喉沙燕 | TRADUÇÃO: (espécie de ave da China) andorinha-das-barreiras-de-garganta-cinzenta (Riparia chinensis)
+褐喉食蜜鸟 | TRADUÇÃO: (espécie de ave da China) beija-flor-de-garganta-marrom (Anthreptes malacensis)
+褐山鹪莺 | TRADUÇÃO: (espécie de ave da China) prínia-marrom (Prinia polychroa)
+褐岩鹨 | TRADUÇÃO: (espécie de ave da China) accentor-marrom (Prunella fulvescens)
+褐林鸮 | TRADUÇÃO: (espécie de ave da China) coruja-das-matizes-marrom (Strix leptogrammica)
+褐柳莺 | TRADUÇÃO: (espécie de ave da China) felosa-escura (Phylloscopus fuscatus)
+褐河乌 | TRADUÇÃO: (espécie de ave da China) melro-d'água-marrom (Cinclus pallasii)
+褐渔鸮 | TRADUÇÃO: (espécie de ave da China) coruja-pescadora-marrom (Ketupa zeylonensis)
+褐灰雀 | TRADUÇÃO: (espécie de ave da China) pintarroxo-marrom (Pyrrhula nipalensis)
+褐煤 | TRADUÇÃO: linhito/carvão marrom
+褐翅叉尾海燕 | TRADUÇÃO: (espécie de ave da China) painho-de-tristram (Hydrobates tristrami)
+褐翅燕鸥 | TRADUÇÃO: (espécie de ave da China) trinta-réis-de-bridão (Onychoprion anaethetus)
+褐翅雪雀 | TRADUÇÃO: (espécie de ave da China) pardal-da-neve-de-asa-preta (Montifringilla adamsi)
+褐翅鸦雀 | TRADUÇÃO: (espécie de ave da China) bico-de-papagaio-de-asa-marrom (Suthora brunnea)
+褐翅鸦鹃 | TRADUÇÃO: (espécie de ave da China) cucal-grande (Centropus sinensis)
+褐耳鹰 | TRADUÇÃO: (espécie de ave da China) gavião-xicrá (Accipiter badius)
+褐背地山雀 | TRADUÇÃO: (espécie de ave da China) pica-pau-da-terra (Pseudopodoces humilis)
+褐背鹟鵙 | TRADUÇÃO: (espécie de ave da China) papa-moscas-de-asa-listada (Hemipus picatus)
+褐胸噪鹛 | TRADUÇÃO: (espécie de ave da China) zaragateiro-cinzento (Garrulax maesi)
+褐胸山鹧鸪 | TRADUÇÃO: (espécie de ave da China) perdiz-de-dorso-barrado (Arborophila brunneopectus)
+褐胸鹟 | TRADUÇÃO: (espécie de ave da China) papa-moscas-de-peito-marrom (Muscicapa muttui)
+褐胁雀鹛 | TRADUÇÃO: (espécie de ave da China) fulveta-de-coroa-ferrugínea (Schoeniparus dubius)
+褐脸雀鹛 | TRADUÇÃO: (espécie de ave da China) fulveta-de-bochecha-marrom (Alcippe poioicephala)
+褐色 | TRADUÇÃO: marrom/castanho
+褐顶雀鹛 | TRADUÇÃO: (espécie de ave da China) fulveta-escura (Schoeniparus brunneus)
+褐头山雀 | TRADUÇÃO: (espécie de ave da China) chapim-montês (Poecile montanus)
+褐头岭雀 | TRADUÇÃO: (espécie de ave da China) tentilhão-da-montanha-de-sillem (Leucosticte sillemi)
+褐头雀鹛 | TRADUÇÃO: (espécie de ave da China) fulveta-de-manipur (Fulvetta manipurensis)
+褐头凤鹛 | TRADUÇÃO: (espécie de ave da China) yuhina-de-taiwan (Yuhina brunneiceps)
+褐头鹀 | TRADUÇÃO: (espécie de ave da China) escrevedeira-de-cabeça-vermelha (Emberiza bruniceps)
+褐头鸫 | TRADUÇÃO: (espécie de ave da China) tordo-de-flanco-cinzento (Turdus feae)
+褐头鹪莺 | TRADUÇÃO: (ave da China) prínia-fulva (Prinia inornata)
+褐马鸡 | TRADUÇÃO: (ave da China) faisão-orelhudo-castanho (Crossoptilon mantchuricum)
+褐鲣鸟 | TRADUÇÃO: (ave da China) atobá-pardo (Sula leucogaster)
+褐鸦雀 | TRADUÇÃO: (ave da China) bico-de-papagaio-castanho (Paradoxornis unicolor)
+褒 | TRADUÇÃO: elogiar/louvar/honrar/(de roupas) largo ou folgado ‖ variante de 褒
+褒呔 | TRADUÇÃO: gravata borboleta (estrangeirismo) (cantonês)
+褒姒 | TRADUÇÃO: Baosi, concubina do rei You da dinastia Zhou e uma das famosas beldades chinesas
+褒忠 | TRADUÇÃO: Baozhong ou Paochung, distrito rural no condado de Yunlin, Taiwan
+褒忠乡 | TRADUÇÃO: Baozhong ou Paochung, distrito rural no condado de Yunlin, Taiwan
+褒扬 | TRADUÇÃO: louvar
+褒禅山 | TRADUÇÃO: Monte Baochan em Anhui/antigamente conhecido como Monte Hua 華山|华山
+褒义 | TRADUÇÃO: sentido elogioso/conotação positiva
+褒贬 | TRADUÇÃO: avaliar/julgar/falar mal de/louvor e censura/avaliação
+褓姆 | TRADUÇÃO: variante de 保姆
+褓母 | TRADUÇÃO: variante de 保姆
+褔 | TRADUÇÃO: cheio/classificador para itens de vestuário (antigo)
+褕 | TRADUÇÃO: vestimenta larga
+袆 | TRADUÇÃO: vestes cerimoniais de uma rainha
+褙 | TRADUÇÃO: papel ou pano colado
+褚 | TRADUÇÃO: sobrenome Chu ‖ forro (em vestimenta)/armazenar/bolso/pronúncia em Taiwan [chu3]
+褚人获 | TRADUÇÃO: Chu Renhuo (1635-1682), autor do romance histórico "História Dramatizada de Sui e Tang" 隋唐演義|隋唐演义
+褚遂良 | TRADUÇÃO: Chu Suiliang (596-659), um dos Quatro Grandes Calígrafos do início da dinastia Tang 唐初四大家
+褟 | TRADUÇÃO: camisa interior/costurar em vestuário/ver também 禢
+褟绦子 | TRADUÇÃO: bainha de renda
+褡 | TRADUÇÃO: bolsa/colete sem mangas
+褡裢 | TRADUÇÃO: bolsa de pano aberta no meio, formando duas bolsas/jaqueta usada na luta livre chinesa
+褢 | TRADUÇÃO: carregar no peito ou na manga/embrulhar, esconder
+褥 | TRADUÇÃO: colchão
+褥子 | TRADUÇÃO: colchão acolchoado de algodão/CL:床
+褥疮 | TRADUÇÃO: escara de decúbito
+褦 | TRADUÇÃO: ignorante/chapéu de sol
+褧 | TRADUÇÃO: vestimenta monocromática sem forro
+褪 | TRADUÇÃO: tirar (roupas); mudar (penas)/(de cor) desbotar/(fig.) (de emoções, consciência etc) desaparecer/pronúncia em Taiwan [tun4] ‖ escapar de algo/esconder algo na manga
+褪下 | TRADUÇÃO: tirar (calças)/abaixar as calças
+褪光 | TRADUÇÃO: fosco (de uma cor etc.)
+褪去 | TRADUÇÃO: tirar (roupas)/(fig.) livrar-se de (imagem anterior etc)/(de uma moda ou dos efeitos posteriores de um desastre etc) diminuir/também pron. [tun4 qu4]
+褪套儿 | TRADUÇÃO: (coloq.) livrar-se/eximir-se de responsabilidade
+褪色 | TRADUÇÃO: (de cores) desbotar/também pron. [tui4shai3]
+褪黑激素 | TRADUÇÃO: (bioquímica) melatonina
+褪黑素 | TRADUÇÃO: (bioquímica) melatonina
+褫 | TRADUÇÃO: despojar/destituir/demitir/despir
+褫夺 | TRADUÇÃO: despojar/privar de
+褯 | TRADUÇÃO: usado em 褯子
+褯子 | TRADUÇÃO: (dialeto) fralda
+褰 | TRADUÇÃO: levantar (roupas, lençóis)/vestes inferiores
+褱 | TRADUÇÃO: carregar no peito ou na manga/embrulhar, esconder
+裤兜 | TRADUÇÃO: bolso de calça
+裤口 | TRADUÇÃO: abertura da perna da calça
+裤带 | TRADUÇÃO: cinto (em calças)/CL:根
+裤筒 | TRADUÇÃO: perna da calça
+裤管 | TRADUÇÃO: perna da calça
+裤腰 | TRADUÇÃO: cintura de calças/cós
+裤腰带 | TRADUÇÃO: cós
+裤脚 | TRADUÇÃO: barra da calça
+裤腿 | TRADUÇÃO: perna da calça
+裤衩 | TRADUÇÃO: cueca
+裤裙 | TRADUÇÃO: saia-calça
+裤装 | TRADUÇÃO: calças (calças compridas, shorts etc)/(Taiwan) calça social
+裤裆 | TRADUÇÃO: entrepernas das calças
+裤袜 | TRADUÇÃO: meia-calça
+裤头 | TRADUÇÃO: (dialeto) cueca/sunga
+裢 | TRADUÇÃO: bolsa presa ao cinto
+褵 | TRADUÇÃO: véu ou lenço de noiva
+褶 | TRADUÇÃO: (arc.) vestimenta da corte ‖ prega/vinco/pronúncia em Taiwan [zhe2]
+褶子 | TRADUÇÃO: prega/dobra/vinco/ruga
+褶子了 | TRADUÇÃO: fazer bagunça de algo/estragar/administrar mal
+褶曲 | TRADUÇÃO: enrugamento/dobramento
+褶皱 | TRADUÇÃO: dobra; prega; ruga/(geologia) dobra
+褶皱山系 | TRADUÇÃO: (geologia) sistema montanhoso dobrado
+褶皱山脉 | TRADUÇÃO: (geologia) cordilheira dobrada
+褛 | TRADUÇÃO: usado em 襤褸|褴褛
+亵 | TRADUÇÃO: obsceno/desrespeitoso
+亵慢 | TRADUÇÃO: irreverente/desdenhoso
+亵昵 | TRADUÇÃO: desrespeitoso; excessivamente familiar
+亵服 | TRADUÇÃO: vestimenta informal/roupas caseiras (antigo)/roupa íntima feminina/lingerie
+亵渎 | TRADUÇÃO: (literário) blasfemar; profanar; dessacralizar
+亵渎神明 | TRADUÇÃO: blasfemar/cometer sacrilégio
+褽 | TRADUÇÃO: gola
+褾 | TRADUÇÃO: punho/barra ou borda (de vestuário)/variante antiga de 裱
+襁褓 | TRADUÇÃO: cueiros/fig. estágio inicial de desenvolvimento/infância
+襄 | TRADUÇÃO: sobrenome Xiang ‖ (literário) auxiliar
+襄助 | TRADUÇÃO: (literário) auxiliar; ajudar
+襄垣 | TRADUÇÃO: ver 襄垣縣|襄垣县
+襄垣县 | TRADUÇÃO: Xiangyuan, um condado na cidade de Changzhi 長治市|长治市, Shanxi
+襄城 | TRADUÇÃO: ver 襄城區|襄城区/ver 襄城縣|襄城县
+襄城区 | TRADUÇÃO: Xiangcheng, um distrito da cidade de Xiangyang 襄陽市|襄阳市, Hubei
+襄城县 | TRADUÇÃO: Xiangcheng, um condado na cidade de Xuchang 許昌市|许昌市, Henan
+襄州 | TRADUÇÃO: ver 襄州區|襄州区
+襄州区 | TRADUÇÃO: Xiangzhou, um distrito da cidade de Xiangyang 襄陽市|襄阳市, Hubei
+襄汾 | TRADUÇÃO: ver 襄汾縣|襄汾县
+襄汾县 | TRADUÇÃO: Xiangfen, um condado na cidade de Linfen 臨汾市|临汾市, Shanxi
+襄理 | TRADUÇÃO: gerente assistente (em uma grande empresa) (Taiwan)/(literário) auxiliar
+襄都 | TRADUÇÃO: ver 襄都區|襄都区
+襄都区 | TRADUÇÃO: Xiangdu, um distrito da cidade de Xingtai 邢臺市|邢台市, Hebei
+襄阳 | TRADUÇÃO: ver 襄陽市|襄阳市
+襄阳市 | TRADUÇÃO: Xiangyang, cidade de nível de prefeitura na província de Hubei 湖北省
+襆 | TRADUÇÃO: usado em 襆頭|襆头/variante de 袱/pronúncia em Taiwan [pu2]
+襆头 | TRADUÇÃO: variante de 幞頭|幞头
+裥 | TRADUÇÃO: variante de 襉|裥 ‖ (dialeto) dobra ou prega (em vestuário)
+襋 | TRADUÇÃO: gola de casaco
+襌 | TRADUÇÃO: vestimenta sem forro
+杂 | TRADUÇÃO: variante de 雜|杂 ‖ misturado/diversificado/vários/misturar
+袯 | TRADUÇÃO: usado em 襏襫|袯襫
+袯襫 | TRADUÇÃO: capa de chuva de palha tecida
+袄 | TRADUÇÃO: casaco/jaqueta/casaco curto forrado
+袄子 | TRADUÇÃO: casaco/jaqueta/casaco curto forrado
+襚 | TRADUÇÃO: mortalha
+襛 | TRADUÇÃO: luz brilhante/vestido quente
+襜 | TRADUÇÃO: frente das roupas
+裣 | TRADUÇÃO: veja 襝衽|裣衽
+裣衽 | TRADUÇÃO: variante de 斂衽|敛衽
+襞 | TRADUÇÃO: dobras/vinco ou prega em uma vestimenta
+襟 | TRADUÇÃO: aba sobreposta (de vestimenta chinesa)/fig. peito (sede das emoções)/abrigar (ambição, desejos, intenções honrosas etc.) no peito
+襟兄 | TRADUÇÃO: marido da irmã mais velha da esposa
+襟副翼 | TRADUÇÃO: flaperon (aeronáutica)
+襟度 | TRADUÇÃO: (literário) amplitude de espírito
+襟弟 | TRADUÇÃO: marido da irmã mais nova da esposa
+襟怀 | TRADUÇÃO: peito (sede das emoções)/mente
+襟怀坦白 | TRADUÇÃO: aberto e sincero (expressão idiomática); não esconder nada/ingênuo/coração aberto/altruísta/magnânimo/mente aberta
+襟怀夷旷 | TRADUÇÃO: mente aberta
+襟抱 | TRADUÇÃO: ambição/aspiração
+襟素 | TRADUÇÃO: verdadeiro coração de alguém
+襟翼 | TRADUÇÃO: (aeronave) flap
+裆 | TRADUÇÃO: entrepernas/parte traseira de uma calça
+裆部 | TRADUÇÃO: entrepernas
+襡 | TRADUÇÃO: saia curta ou túnica
+襢 | TRADUÇÃO: vestido elegante sem adornos
+褴 | TRADUÇÃO: usado em 襤褸|褴褛
+褴褛 | TRADUÇÃO: (de roupas) esfarrapado; surrado
+襥 | TRADUÇÃO: variante antiga de 襆
+襦 | TRADUÇÃO: jaqueta/casaco curto
+袜 | TRADUÇÃO: meias/meias-calças ‖ variante de 韤|袜 ‖ variante de 襪|袜
+袜套 | TRADUÇÃO: aquecedores de perna
+袜子 | TRADUÇÃO: meias/meias-calças/CL:隻|只,對|对,雙|双
+袜带 | TRADUÇÃO: liga
+袜裤 | TRADUÇÃO: leggings/meia-calça/CL:條|条,雙|双
+襫 | TRADUÇÃO: usado em 襏襫|袯襫
+䙓 | TRADUÇÃO: variante de 襬|摆
+襭 | TRADUÇÃO: carregar com a frente de um manto
+襮 | TRADUÇÃO: colarinho bordado/expor
+衬 | TRADUÇÃO: (de vestimentas) contra a pele/forrar/forro/contrastar com/ajudar financeiramente
+衬垫 | TRADUÇÃO: almofada/protetor
+衬托 | TRADUÇÃO: servir para destacar; servir como pano de fundo ou elemento contrastante
+衬线 | TRADUÇÃO: serifa (tipografia)
+衬衣 | TRADUÇÃO: camisa/CL:件
+衬衫 | TRADUÇÃO: camisa/blusa/CL:件
+衬裙 | TRADUÇÃO: anágua
+衬里 | TRADUÇÃO: forro
+衬裤 | TRADUÇÃO: ceroulas/calça íntima
+衬页 | TRADUÇÃO: guarda (página)
+袭 | TRADUÇÃO: (forma presa) atacar (especialmente ataque surpresa)/(forma presa) continuar o padrão; perpetuar/(literário) classificador para conjuntos de roupas ou jogos de cama
+袭击 | TRADUÇÃO: ataque (especialmente ataque surpresa)/investida/atacar
+袭击者 | TRADUÇÃO: atacante
+袭胸 | TRADUÇÃO: apalpar os seios de uma mulher ou garota
+袭警 | TRADUÇÃO: agredir um policial
+襕 | TRADUÇÃO: túnica longa (antiga)
+襶 | TRADUÇÃO: desarrumado (na vestimenta)
+襻 | TRADUÇÃO: presilha de botão/algo similar a uma presilha de botão (tira de sapato, alça de cesto etc.)/amarrar juntos; costurar juntos
+襼 | TRADUÇÃO: manga de vestido
+襽 | TRADUÇÃO: variante antiga de 襴|襕/brocado
+襾 | TRADUÇÃO: cobertura/radical nº 146
+西 | TRADUÇÃO: o Ocidente/abrev. para Espanha 西班牙/espanhol ‖ oeste
+西乃 | TRADUÇÃO: Sinai
+西乃山 | TRADUÇÃO: Monte Sinai
+西亚 | TRADUÇÃO: Sudoeste da Ásia
+西伯利亚 | TRADUÇÃO: Sibéria
+西伯利亚银鸥 | TRADUÇÃO: (espécie de ave da China) gaivota-prateada-asiática (Larus vegae)
+西来庵 | TRADUÇÃO: Templo Xilai (Tainan, Taiwan)
+西侧 | TRADUÇÃO: lado oeste; face oeste
+西元 | TRADUÇÃO: (Taiwan) era cristã/calendário gregoriano/DC (Depois de Cristo)
+西元前 | TRADUÇÃO: AEC (Antes da Era Comum)/AC (Antes de Cristo)
+西充 | TRADUÇÃO: veja 西充縣|西充县
+西充县 | TRADUÇÃO: Xichong, um condado na cidade de Nanchong 南充市, Sichuan
+西冷 | TRADUÇÃO: (estrangeirismo) sirloin
+西北 | TRADUÇÃO: Noroeste da China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang) ‖ noroeste
+西北大学 | TRADUÇÃO: Universidade do Noroeste
+西北工业大学 | TRADUÇÃO: Universidade Politécnica do Noroeste
+西北方 | TRADUÇÃO: noroeste/do noroeste
+西北航空公司 | TRADUÇÃO: Northwest Airlines
+西北农林科技大学 | TRADUÇÃO: Universidade Agrícola e Florestal do Noroeste
+西北部 | TRADUÇÃO: parte noroeste
+西北雨 | TRADUÇÃO: (Taiwan) pancada de trovoada
+西区 | TRADUÇÃO: Distrito de Xi ou Xiqu, um distrito da cidade de Panzhihua 攀枝花市, Sichuan
+西半球 | TRADUÇÃO: Hemisfério Ocidental
+西南 | TRADUÇÃO: sudoeste
+西南中沙群岛 | TRADUÇÃO: Ilhas Xinanzhongsha, Hainan
+西南亚 | TRADUÇÃO: sudoeste da Ásia
+西南交通大学 | TRADUÇÃO: Universidade Jiaotong do Sudoeste
+西南冠纹柳莺 | TRADUÇÃO: (espécie de ave da China) felosa-de-blyth (Phylloscopus reguloides)
+西南大学 | TRADUÇÃO: Universidade do Sudoeste (Chongqing)
+西南官话 | TRADUÇÃO: Mandarim do Sudoeste, grupo dialetal do mandarim falado principalmente no sudoeste da China
+西南栗耳凤鹛 | TRADUÇÃO: (espécie de ave da China) yuhina-listrada (Yuhina castaniceps)
+西南部 | TRADUÇÃO: parte sudoeste
+西印度 | TRADUÇÃO: Índias Ocidentais (i.e. o Caribe)
+西吉 | TRADUÇÃO: veja 西吉縣|西吉县
+西吉县 | TRADUÇÃO: Xiji, um condado na cidade de Guyuan 固原市, Ningxia
+西周 | TRADUÇÃO: Zhou Ocidental (1027-771 a.C.)
+西和 | TRADUÇÃO: veja 西和縣|西和县
+西和县 | TRADUÇÃO: Xihe, um condado na cidade de Longnan 隴南市|陇南市, Gansu
+西哈努克 | TRADUÇÃO: (Rei) Sihanouk (do Camboja)
+西单 | TRADUÇÃO: Bairro Xidan, centro de Pequim
+西固 | TRADUÇÃO: ver 西固區
+西固区 | TRADUÇÃO: Xigu, distrito da cidade de Lanzhou, Gansu
+西地那非 | TRADUÇÃO: sildenafil (droga para disfunção erétil) (estrangeirismo)
+西坡拉 | TRADUÇÃO: Ziporá, esposa de Moisés
+西城 | TRADUÇÃO: ver 西城區
+西城区 | TRADUÇÃO: Xicheng, distrito do centro de Pequim
+西域 | TRADUÇÃO: Regiões Ocidentais (termo da Dinastia Han para regiões além do Passo Yumen)
+西域记 | TRADUÇÃO: Relato das Regiões a Oeste do Grande Tang / relato de viagem de Xuan Zang à Ásia Central e Índia
+西塔 | TRADUÇÃO: teta (letra grega Θθ)
+西塞山 | TRADUÇÃO: ver 西塞山區
+西塞山区 | TRADUÇÃO: Xisaishan, distrito da cidade de Huangshi, Hubei
+西塞罗 | TRADUÇÃO: Marco Túlio Cícero (106–43 a.C.), estadista, orador e filósofo romano
+西夏 | TRADUÇÃO: Dinastia Xia Ocidental (1038-1227) do povo Tangut, que ocupava a atual Ningxia e partes de Gansu e Shaanxi, derrubada pelos mongóis ‖ ver 西夏區
+西夏区 | TRADUÇÃO: Xixia, distrito da cidade de Yinchuan, Ningxia
+西外 | TRADUÇÃO: abrev. de 西安外國語大學
+西大 | TRADUÇÃO: (gíria da internet) Estados Unidos (em contraste com a China 東大) / (informal) abreviatura de certos nomes de universidades, especialmente 西南大學 e 西北大學
+西天 | TRADUÇÃO: Paraíso Ocidental (budismo)
+西太平洋 | TRADUÇÃO: Oceano Pacífico Ocidental
+西奇 | TRADUÇÃO: sygyt (canto harmônico)
+西奈 | TRADUÇÃO: Península do Sinai
+西奈半岛 | TRADUÇÃO: Península do Sinai
+西奈山 | TRADUÇÃO: Monte Sinai
+西子 | TRADUÇÃO: outro nome para Xishi 西施
+西子捧心 | TRADUÇÃO: (lit.) Xishi aperta o peito (expressão idiomática) / (fig.) mulher bela mesmo sofrendo de doença
+西孟加拉邦 | TRADUÇÃO: Bengala Ocidental
+西学 | TRADUÇÃO: Saber Ocidental (movimento intelectual do final da dinastia Qing) / também chamado 洋務運動
+西安 | TRADUÇÃO: ver 西安市 / ver 西安區
+西安事变 | TRADUÇÃO: Incidente de Xi'an de 12 de dezembro de 1936 (sequestro de Chiang Kai-shek)
+西安交通大学 | TRADUÇÃO: Universidade Xi'an Jiaotong (XJTU)
+西安区 | TRADUÇÃO: Xi'an, distrito da cidade de Mudanjiang, Heilongjiang / Xi'an, distrito da cidade de Liaoyuan, Jilin
+西安外国语大学 | TRADUÇÃO: Universidade de Estudos Internacionais de Xi'an (XISU)
+西安市 | TRADUÇÃO: Xi'an, cidade sub-provincial e capital da província de Shaanxi
+西安电子科技大学 | TRADUÇÃO: Universidade Xidian
+西宁 | TRADUÇÃO: ver 西寧市
+西宁市 | TRADUÇÃO: Xining, cidade de nível de prefeitura e capital da província de Qinghai
+西属撒哈拉 | TRADUÇÃO: Saara Espanhol (antiga colônia espanhola na África)
+西屯区 | TRADUÇÃO: Distrito de Xitun de Taichung, Taiwan
+西山 | TRADUÇÃO: ver 西山區
+西山区 | TRADUÇÃO: Xishan, distrito da cidade de Kunming, Yunnan
+西峰 | TRADUÇÃO: ver 西峰區
+西峰区 | TRADUÇÃO: Xifeng, distrito da cidade de Qingyang, Gansu
+西峡 | TRADUÇÃO: ver 西峽縣
+西峡县 | TRADUÇÃO: Xixia, condado na cidade de Nanyang, Henan
+西岗 | TRADUÇÃO: ver 西崗區
+西岗区 | TRADUÇÃO: Xigang, distrito da cidade de Dalian, Liaoning
+西屿 | TRADUÇÃO: Xiyu ou Hsiyu, município do condado de Penghu (Ilhas Pescadores), Taiwan
+西屿乡 | TRADUÇÃO: Xiyu ou Hsiyu, município do condado de Penghu (Ilhas Pescadores), Taiwan
+西岳 | TRADUÇÃO: Monte Hua em Shaanxi, uma das Cinco Montanhas Sagradas
+西工 | TRADUÇÃO: ver 西工區
+西工区 | TRADUÇÃO: Xigong, distrito da cidade de Luoyang, Henan
+西市 | TRADUÇÃO: ver 西市區
+西市区 | TRADUÇÃO: Xishi, distrito da cidade de Yingkou, Liaoning
+西平 | TRADUÇÃO: ver 西平縣
+西平县 | TRADUÇÃO: Xiping, condado na cidade de Zhumadian, Henan
+西康 | TRADUÇÃO: antiga província do Tibete na região de Kham e oeste de Sichuan, província da República da China (1928-49) com capital Ya'an
+西康省 | TRADUÇÃO: Kham ocidental / antiga província do Tibete na região de Kham e oeste de Sichuan, província da República da China (1928-49) com capital Ya'an
+西厢记 | TRADUÇÃO: O Romance do Pavilhão Ocidental, de Wang Shifu
+西式 | TRADUÇÃO: Estilo ocidental
+西弗 | TRADUÇÃO: sievert (Sv), unidade de dano por radiação usada em radioterapia
+西弗吉尼亚 | TRADUÇÃO: Virgínia Ocidental, estado dos EUA
+西征 | TRADUÇÃO: expedição punitiva ao oeste
+西德 | TRADUÇÃO: Alemanha Ocidental / República Federal da Alemanha
+西德尼 | TRADUÇÃO: Sidney ou Sydney (nome)
+西戎 | TRADUÇÃO: Xirong, grupo étnico antigo da China Ocidental a partir da Dinastia Zhou / Xionitas (nômades da Ásia Central)
+西打 | TRADUÇÃO: sidra (estrangeirismo)
+西拉 | TRADUÇÃO: Syrah (tipo de uva)
+西拉雅族 | TRADUÇÃO: Siraya, um dos povos indígenas de Taiwan
+西撒哈拉 | TRADUÇÃO: Saara Ocidental
+西敏 | TRADUÇÃO: Westminster, um distrito de Londres
+西文 | TRADUÇÃO: Espanhol / língua ocidental / línguas estrangeiras (na dinastia Qing)
+西斯塔尼 | TRADUÇÃO: Sistani (nome de um proeminente aiatolá iraquiano)
+西斯廷 | TRADUÇÃO: Capela Sistina / também escrito 西斯汀
+西斯汀 | TRADUÇÃO: Capela Sistina / também escrito 西斯廷
+西方 | TRADUÇÃO: Ocidente / países ocidentais
+西方人 | TRADUÇÃO: Ocidental
+西方松鸡 | TRADUÇÃO: (espécie de ave da China) tetraz-real (Tetrao urogallus)
+西方极乐世界 | TRADUÇÃO: Terra Pura Ocidental da Felicidade Suprema ou Sukhavati (sânscrito)
+西方滨鹬 | TRADUÇÃO: (espécie de ave da China) maçariquinho (Calidris mauri)
+西方狍 | TRADUÇÃO: corço (Capreolus capreolus)
+西方秧鸡 | TRADUÇÃO: (espécie de ave da China) frango-d'água (Rallus aquaticus)
+西方马脑炎病毒 | TRADUÇÃO: vírus da encefalite equina ocidental (WEE)
+西施 | TRADUÇÃO: Xishi (c. 450 a.C.), famosa beleza chinesa, a principal das quatro belezas lendárias, dada pelo Rei Gou Jian de Yue como concubina ao Rei de Wu como parte de um plano para destruir Wu
+西施犬 | TRADUÇÃO: shih tzu (raça de cão)
+西昌 | TRADUÇÃO: Centro de Lançamento de Satélites de Xichang / ver 西昌市
+西昌市 | TRADUÇÃO: Xichang, cidade a nível de condado na Prefeitura Autônoma Yi de Liangshan, Sichuan
+西晋 | TRADUÇÃO: Dinastia Jin Ocidental (265-316)
+西历 | TRADUÇÃO: calendário gregoriano / calendário ocidental
+西替利嗪 | TRADUÇÃO: (estrangeirismo) cetirizina
+西服 | TRADUÇÃO: terno / roupas de estilo ocidental (uso histórico)
+西村 | TRADUÇÃO: Nishimura (sobrenome japonês)
+西松 | TRADUÇÃO: ver 西松建設
+西松建设 | TRADUÇÃO: Nishimatsu Construction Co.
+西林 | TRADUÇÃO: ver 西林縣
+西林县 | TRADUÇÃO: Xilin, condado na cidade de Baise, Guangxi
+西柚 | TRADUÇÃO: toranja / grapefruit
+西格玛 | TRADUÇÃO: sigma (letra grega Σ, σ)
+西格蒙德 | TRADUÇÃO: Sigmund (nome)
+西格马 | TRADUÇÃO: sigma (letra grega Σ, σ)
+西梅 | TRADUÇÃO: ameixa europeia (Prunus domestica), especialmente ameixa seca / ameixa seca
+西棕胸佛法僧 | TRADUÇÃO: (espécie de ave) rolieiro-indiano (Coracias benghalensis)
+西欧 | TRADUÇÃO: Europa Ocidental
+西欧联盟 | TRADUÇÃO: União Europeia Ocidental (UEO)
+西江 | TRADUÇÃO: Rio Xijiang
+西沉 | TRADUÇÃO: pôr-se
+西沙 | TRADUÇÃO: ver 西沙區|西沙区 / ver 西沙群島|西沙群岛
+西沙区 | TRADUÇÃO: Xisha, distrito de Sansha City 三沙市, Hainan
+西沙群岛 | TRADUÇÃO: Ilhas Paracel, no Mar da China Meridional
+西洋 | TRADUÇÃO: o Ocidente (Europa e América do Norte) / países do Oceano Índico (tradicional)
+西洋人 | TRADUÇÃO: ocidental
+西洋参 | TRADUÇÃO: ginseng-americano (Panax quinquefolius)
+西洋景 | TRADUÇÃO: ver 西洋鏡|西洋镜
+西洋杉 | TRADUÇÃO: cedro
+西洋棋 | TRADUÇÃO: xadrez
+西洋菜 | TRADUÇÃO: agrião (Nasturtium officinale)
+西洋镜 | TRADUÇÃO: (antigo) caleidoscópio / (fig.) truque / trapaça
+西洛赛宾 | TRADUÇÃO: psilocibina
+西海 | TRADUÇÃO: Mar Amarelo (termo coreano)
+西凉 | TRADUÇÃO: Liang Ocidental dos Dezesseis Reinos (400-421)
+西湖 | TRADUÇÃO: Lago Oeste (Xihu ou West Lake) / Lago Oeste em Hangzhou 杭州, Zhejiang / Xihu ou Hsihu, distrito rural em Miaoli, noroeste de Taiwan
+西湖区 | TRADUÇÃO: distrito do Lago Oeste (nome de lugar) / distrito de Xihu da cidade de Hangzhou, Zhejiang / distrito de Xihu da cidade de Nanchang, Jiangxi
+西湖乡 | TRADUÇÃO: Xihu ou Hsihu, distrito rural em Miaoli, noroeste de Taiwan
+西汉 | TRADUÇÃO: Dinastia Han Ocidental (206 a.C.-8 d.C.), também chamada Han Anterior
+西澳大利亚 | TRADUÇÃO: Austrália Ocidental, estado australiano
+西澳大利亚州 | TRADUÇÃO: Austrália Ocidental, estado australiano
+西乌珠穆沁旗 | TRADUÇÃO: Bandeira de West Ujimqin ou Baruun Üzemchin khoshuu na Liga Xilingol 錫林郭勒盟|锡林郭勒盟, Mongólia Interior
+西爪哇 | TRADUÇÃO: Java Ocidental, província da Indonésia
+西墙 | TRADUÇÃO: Muro das Lamentações (Jerusalém)
+西王母 | TRADUÇÃO: Xi Wangmu, Rainha Mãe do Ocidente, guardiã dos pêssegos da imortalidade / popularmente conhecida como 王母娘娘
+西班牙 | TRADUÇÃO: Espanha
+西班牙人 | TRADUÇÃO: espanhol / espanhola
+西班牙文 | TRADUÇÃO: espanhol (idioma)
+西班牙港 | TRADUÇÃO: Porto da Espanha, capital de Trinidad e Tobago
+西班牙语 | TRADUÇÃO: língua espanhola
+西瓜 | TRADUÇÃO: melancia / CL:顆|颗
+西瓜虫 | TRADUÇÃO: tatuzinho-de-jardim; bicho-de-conta
+西甲 | TRADUÇÃO: La Liga, primeira divisão do campeonato espanhol de futebol
+西番莲 | TRADUÇÃO: flor-da-paixão; maracujá-de-pombo
+西番雅书 | TRADUÇÃO: Livro de Sofonias
+西畴 | TRADUÇÃO: ver 西疇縣|西畴县
+西畴县 | TRADUÇÃO: Xichou, condado na Prefeitura Autônoma Zhuang e Miao de Wenshan 文山壯族苗族自治州|文山壮族苗族自治州, Yunnan
+西皮 | TRADUÇÃO: xipi, um dos dois principais tipos de música na ópera chinesa / ver também 二黃|二黄
+西盟 | TRADUÇÃO: ver 西盟佤族自治縣|西盟佤族自治县
+西盟佤族自治县 | TRADUÇÃO: Condado Autônomo Va de Ximeng, na cidade de Pu'er 普洱市, Yunnan
+西盟县 | TRADUÇÃO: ver 西盟佤族自治縣|西盟佤族自治县
+西直门 | TRADUÇÃO: bairro de Xizhimen em Pequim / principal portão noroeste de Pequim
+西秀 | TRADUÇÃO: ver 西秀區|西秀区
+西秀区 | TRADUÇÃO: Xixiu, distrito da cidade de Anshun 安順市|安顺市, Guizhou
+西科尔斯基 | TRADUÇÃO: Sikorski (sobrenome) / Radosław Sikorski (1950-), político conservador polonês, ministro das Relações Exteriores da Polônia de 2007
+西秦 | TRADUÇÃO: Qin Ocidental dos Dezesseis Reinos (385-431)
+西端 | TRADUÇÃO: extremidade oeste
+西米 | TRADUÇÃO: sagu
+西米德兰兹 | TRADUÇÃO: Midlands Ocidentais, condado do Reino Unido, capital Birmingham 伯明翰
+西米德兰兹郡 | TRADUÇÃO: Midlands Ocidentais, condado do Reino Unido, capital Birmingham 伯明翰
+西米露 | TRADUÇÃO: pudim de tapioca / pudim de sagu
+西红柿 | TRADUÇÃO: tomate
+西红脚隼 | TRADUÇÃO: (espécie de ave da China) falcão-de-pés-vermelhos (Falco vespertinus)
+西红角鸮 | TRADUÇÃO: (espécie de ave da China) coruja-das-torres-orelhuda (Otus scops)
+西经 | TRADUÇÃO: longitude oeste
+西绪福斯 | TRADUÇÃO: Sísifo
+西耶那 | TRADUÇÃO: Fiat Siena
+西花厅 | TRADUÇÃO: Pavilhão Xihuating, no lado oeste de Zhongnanhai, residência de 周恩來|周恩来
+西芹 | TRADUÇÃO: aipo / salsinha
+西华 | TRADUÇÃO: ver 西華縣|西华县
+西华县 | TRADUÇÃO: Xihua, condado na cidade de Zhoukou 周口市, Henan
+西万尼 | TRADUÇÃO: Silvaner (tipo de uva)
+西葫芦 | TRADUÇÃO: abobrinha; courgette
+西蒙·舒斯特 | TRADUÇÃO: Simon & Schuster, editora dos EUA
+西萨摩亚 | TRADUÇÃO: Samoa Ocidental
+西蓝花 | TRADUÇÃO: variante de 西蘭花|西兰花
+西藏 | TRADUÇÃO: ver 西藏自治區|西藏自治区
+西藏人 | TRADUÇÃO: tibetano / tibetana
+西藏毛腿沙鸡 | TRADUÇÃO: (espécie de ave da China) cortiçol-tibetano (Syrrhaptes tibetanus)
+西藏獒犬 | TRADUÇÃO: mastim-tibetano
+西藏百万农奴解放纪念日 | TRADUÇÃO: Dia da Libertação dos Servos no Tibete (RPC)
+西藏自治区 | TRADUÇÃO: Região Autônoma do Tibete, capital Lhasa 拉薩市|拉萨市 (abreviação 藏)
+西艺 | TRADUÇÃO: habilidades ocidentais / na dinastia Qing, refere-se à tecnologia ocidental, especialmente know-how militar e naval
+西药 | TRADUÇÃO: medicamento ocidental
+西兰花 | TRADUÇÃO: brócolis
+西螺 | TRADUÇÃO: Xiluo ou Hsilo, cidade no condado de Yunlin 雲林縣|云林县, Taiwan
+西螺镇 | TRADUÇÃO: Xiluo ou Hsilo, cidade no condado de Yunlin 雲林縣|云林县, Taiwan
+西装 | TRADUÇÃO: terno / roupas de estilo ocidental / CL:套
+西装革履 | TRADUÇÃO: vestido com roupas de estilo ocidental / irrepreensivelmente trajado
+西西 | TRADUÇÃO: centímetro cúbico (cc) (estrangeirismo)
+西西弗斯 | TRADUÇÃO: Sísifo
+西西里 | TRADUÇÃO: Sicília / Sicília (ilha italiana)
+西西里岛 | TRADUÇÃO: Sicília
+西语 | TRADUÇÃO: língua ocidental / espanhol (idioma)
+西丰 | TRADUÇÃO: ver 西豐縣|西丰县
+西丰县 | TRADUÇÃO: Xifeng, condado na cidade de Tieling 鐵嶺市|铁岭市, Liaoning
+西贡 | TRADUÇÃO: Saigon, capital do antigo Vietnã do Sul / cidade de Sai Kung nos Novos Territórios, Hong Kong
+西游补 | TRADUÇÃO: "Viagem ao Oeste, Suplemento", uma das três sequências da dinastia Ming de "Jornada ao Oeste" 西遊記|西游记
+西游记 | TRADUÇÃO: "Jornada ao Oeste", romance da dinastia Ming de Wu Cheng'en 吳承恩|吴承恩, um dos Quatro Grandes Clássicos da literatura chinesa
+西辽 | TRADUÇÃO: Liao Ocidental, reino khitan da Ásia Central (1132-1218)
+西边 | TRADUÇÃO: oeste / lado oeste / parte oeste / a oeste de
+西边儿 | TRADUÇÃO: variante com erhua de 西邊|西边
+西部 | TRADUÇÃO: parte oeste
+西部片 | TRADUÇÃO: faroeste (filme)
+西乡 | TRADUÇÃO: ver 西鄉縣|西乡县
+西乡塘 | TRADUÇÃO: ver 西鄉塘區|西乡塘区
+西乡塘区 | TRADUÇÃO: distrito de Xixiangtang, um distrito da cidade de Nanning, Guangxi
+西乡县 | TRADUÇÃO: Xixiang, um condado na cidade de Hanzhong, Shaanxi
+西医 | TRADUÇÃO: medicina ocidental / médico formado em medicina ocidental
+西里尔 | TRADUÇÃO: Cirilo (nome) / São Cirilo, missionário cristão do século IX / cirílico
+西里尔字母 | TRADUÇÃO: alfabeto cirílico / letras cirílicas
+西里西亚 | TRADUÇÃO: Silésia
+西门 | TRADUÇÃO: Ximen (sobrenome de dois caracteres)
+西门子 | TRADUÇÃO: Siemens (nome de empresa)
+西门子公司 | TRADUÇÃO: Siemens AG
+西门庆 | TRADUÇÃO: Ximen Qing, personagem fictício dos romances "Jin Ping Mei" e "Water Margin"
+西门町 | TRADUÇÃO: Ximending (bairro no distrito de Wanhua, Taipei)
+西门豹 | TRADUÇÃO: Ximen Bao (ativo por volta de 422 a.C.), estadista e engenheiro hidráulico do estado de Wei
+西陵 | TRADUÇÃO: ver 西陵區
+西陵区 | TRADUÇÃO: Xiling, um distrito da cidade de Yichang, Hubei
+西陵峡 | TRADUÇÃO: Desfiladeiro Xiling, no rio Changjiang ou Yangtzé, o desfiladeiro inferior dos Três Desfiladeiros
+西雅图 | TRADUÇÃO: Seattle, cidade no estado de Washington
+西双版纳 | TRADUÇÃO: ver 西雙版納傣族自治州
+西双版纳傣族自治州 | TRADUÇÃO: Prefeitura Autônoma Dai de Xishuangbanna, na província de Yunnan
+西双版纳州 | TRADUÇÃO: ver 西雙版納傣族自治州
+西双版纳粗榧 | TRADUÇÃO: Cephalotaxus mannii (botânica)
+西青 | TRADUÇÃO: Xiqing, distrito suburbano da municipalidade de Tianjin
+西青区 | TRADUÇÃO: distrito de Xiqing, subúrbio da municipalidade de Tianjin
+西非 | TRADUÇÃO: África Ocidental
+西面 | TRADUÇÃO: lado oeste / oeste
+西顿 | TRADUÇÃO: Sidon (Líbano)
+西餐 | TRADUÇÃO: comida ocidental / CL:份,頓
+西魏 | TRADUÇÃO: Wei Ocidental (535-557), das dinastias do Norte
+西鲱 | TRADUÇÃO: sável (Alosa alosa)
+西鹌鹑 | TRADUÇÃO: (espécie de ave da China) codorniz-comum (Coturnix coturnix)
+西黄鹡鸰 | TRADUÇÃO: (espécie de ave da China) alvéola-amarela-ocidental (Motacilla flava)
+西点 | TRADUÇÃO: Academia Militar de West Point, em Nova York ‖ pastelaria de estilo ocidental
+要 | TRADUÇÃO: (forma presa) exigir; coagir ‖ querer; precisar; pedir / vai; vai acontecer / precisar; dever / se (mesmo que 要是) / (forma presa) importante
+要不 | TRADUÇÃO: senão / ou então / que tal? / ou... (ou...)
+要不得 | TRADUÇÃO: intolerável; inaceitável
+要不是 | TRADUÇÃO: se não fosse por / a não ser
+要不然 | TRADUÇÃO: senão / ou então / ou
+要之 | TRADUÇÃO: em resumo / em uma palavra
+要事 | TRADUÇÃO: assunto importante
+要人 | TRADUÇÃO: pessoa importante
+要件 | TRADUÇÃO: documento-chave / condição importante / critério / requisito / elemento essencial / alicerce
+要债 | TRADUÇÃO: cobrar uma dívida; exigir pagamento
+要价 | TRADUÇÃO: pedir um preço; cobrar / (fig.) impor condições (em negociações)
+要功 | TRADUÇÃO: variante de 邀功
+要务 | TRADUÇÃO: tarefa-chave / assunto importante
+要命 | TRADUÇÃO: causar a morte de alguém / extremamente; terrivelmente / (usado em reclamações) ser um incômodo
+要员 | TRADUÇÃO: participante-chave / VIP
+要嘛 | TRADUÇÃO: ou... / ou...
+要图 | TRADUÇÃO: plano principal / programa importante
+要地 | TRADUÇÃO: local estratégico
+要塞 | TRADUÇÃO: fortaleza / forte / fortificação
+要好 | TRADUÇÃO: estar em bons termos / ser amigos próximos / esforçar-se para o autoaperfeiçoamento
+要子 | TRADUÇÃO: corda de palha
+要害 | TRADUÇÃO: parte vital / (fig.) ponto-chave / crucial
+要强 | TRADUÇÃO: ávido por se destacar / ávido por progredir na vida / de mente forte
+要径 | TRADUÇÃO: caminho importante
+要得 | TRADUÇÃO: bom / fino
+要挟 | TRADUÇÃO: ameaçar / chantagear
+要击 | TRADUÇÃO: interceptar / emboscar
+要政 | TRADUÇÃO: assunto governamental ou administrativo importante
+要旨 | TRADUÇÃO: a essência (de um texto ou argumento) / os pontos principais
+要是 | TRADUÇÃO: (coloq.) se
+要有 | TRADUÇÃO: precisar / exigir / ter que ter
+要末 | TRADUÇÃO: variante de 要麼
+要枢 | TRADUÇÃO: centro importante; posição-chave
+要样儿 | TRADUÇÃO: aparência / maneira
+要死 | TRADUÇÃO: extremamente / terrivelmente
+要死不活 | TRADUÇÃO: meio morto / mais morto que vivo
+要死要活 | TRADUÇÃO: terrivelmente / horrivelmente / desesperadamente
+要求 | TRADUÇÃO: solicitar / exigir / requisito / reivindicar / pedir / demandar / CL:點
+要津 | TRADUÇÃO: local estratégico; centro importante / cargo-chave; posição proeminente
+要犯 | TRADUÇÃO: criminoso de alta periculosidade
+要略 | TRADUÇÃO: aproximadamente / esboço / resumo
+要目 | TRADUÇÃO: substância importante (de um documento) / seção-chave
+要看 | TRADUÇÃO: (isso) depende de...
+要端 | TRADUÇÃO: os pontos principais
+要约 | TRADUÇÃO: restringir / concordar com um contrato / oferta; lance
+要素 | TRADUÇÃO: fator essencial / constituinte-chave
+要紧 | TRADUÇÃO: importante / urgente
+要义 | TRADUÇÃO: o essencial
+要闻 | TRADUÇÃO: notícia importante / manchete
+要职 | TRADUÇÃO: cargo-chave / posição importante
+要脸 | TRADUÇÃO: (coloq.) ter senso de vergonha
+要着 | TRADUÇÃO: coisa importante / coisa crucial
+要著 | TRADUÇÃO: livro importante
+要冲 | TRADUÇÃO: entroncamento rodoviário / grande encruzilhada
+要西了 | TRADUÇÃO: (coloq.) insuportável (xangainês)
+要角 | TRADUÇÃO: papel significativo / figura importante
+要言不烦 | TRADUÇÃO: explicar em termos simples / sucinto / conciso
+要诀 | TRADUÇÃO: o truque principal / o segredo do sucesso
+要说 | TRADUÇÃO: quanto a / quando se trata de
+要谎 | TRADUÇÃO: pedir um preço enorme (como primeiro passo de negociação)
+要买人心 | TRADUÇÃO: variante de 邀買人心
+要账 | TRADUÇÃO: exigir reembolso / cobrar dívida
+要路 | TRADUÇÃO: estrada importante / via principal / fig.) posição-chave
+要道 | TRADUÇÃO: estrada principal / via principal
+要钱 | TRADUÇÃO: cobrar / exigir pagamento
+要隘 | TRADUÇÃO: passo estratégico
+要面子 | TRADUÇÃO: ver 愛面子
+要领 | TRADUÇÃO: aspectos principais / essenciais / essência
+要风得风，要雨得雨 | TRADUÇÃO: conseguir tudo o que se quer / ter tudo a seu favor
+要饭 | TRADUÇÃO: mendigar (comida ou dinheiro)/esmolar
+要么 | TRADUÇÃO: ou/ou um ou o outro
+要点 | TRADUÇÃO: ponto principal/essencial
+覂 | TRADUÇÃO: derrubar o cavaleiro
+覃 | TRADUÇÃO: sobrenome Qin ‖ sobrenome Tan ‖ profundo
+覃塘 | TRADUÇÃO: veja 覃塘區|覃塘区
+覃塘区 | TRADUÇÃO: Qintang, distrito da cidade de Guigang 貴港市|贵港市, Guangxi
+覃第 | TRADUÇÃO: residência ampla/sua casa
+覅 | TRADUÇÃO: (dialeto) não deve; por favor não (forma contraída de 勿要)
+覆 | TRADUÇÃO: cobrir/transbordar/virar/emborcar/sobrepujar
+覆亡 | TRADUÇÃO: queda (de um império)
+覆巢之下无完卵 | TRADUÇÃO: (expressão idiomática) lit. quando o ninho é virado, nenhum ovo fica intacto/fig. quando alguém cai em desgraça, toda a família está condenada
+覆巢无完卵 | TRADUÇÃO: (expressão idiomática) lit. quando o ninho vira, nenhum ovo permanece intacto /nenhum membro escapa ileso de um desastre familiar
+覆核 | TRADUÇÃO: revisar/reanalisar/revisão
+覆水难收 | TRADUÇÃO: (expressão idiomática) água derramada é difícil de recuperar /não adianta chorar pelo leite derramado /o que está feito está feito e não pode ser desfeito/o dano está feito/uma vez divorciado, não há reconciliação
+覆没 | TRADUÇÃO: aniquilado/virado (navio)
+覆灭 | TRADUÇÃO: destruição
+覆叠 | TRADUÇÃO: sobrepor-se/sobreposição/cascata (ciclo termodinâmico)
+覆盆子 | TRADUÇÃO: framboesa
+覆膜 | TRADUÇÃO: revestimento de membrana/cobertura
+覆盖 | TRADUÇÃO: cobrir/revestir/abranger
+覆盖物 | TRADUÇÃO: cobertura morta (jardinagem)
+覆盖率 | TRADUÇÃO: taxa de cobertura
+覆盖面 | TRADUÇÃO: alcance/cobertura/área coberta
+覆辙 | TRADUÇÃO: os rastros de uma carroça que virou /(fig.) um caminho que levou ao fracasso no passado
+霸 | TRADUÇÃO: variante de 霸 ‖ hegemônico/tirano/senhor feudal/chefe feudal/governar pela força/usurpar/(em publicidade moderna) mestre
+覉 | TRADUÇÃO: variante de 羈|羁
+见 | TRADUÇÃO: ver/encontrar/parecer (ser algo)/entrevistar/opinião/ponto de vista ‖ aparecer/também escrito 現|现
+见不得 | TRADUÇÃO: não ser apropriado para ser visto por/não deve ser exposto a/não suporta ver
+见不得人 | TRADUÇÃO: vergonhoso/indigno
+见世面 | TRADUÇÃO: ver o mundo/ampliar horizontes
+见亮 | TRADUÇÃO: por favor, perdoe-me
+见人说人话，见鬼说鬼话 | TRADUÇÃO: (fig.) adaptável; capaz de lidar com vários tipos de pessoas e situações/(pejorativo) insincero; hipócrita; duas caras
+见仁见智 | TRADUÇÃO: (expressão idiomática) opiniões divergem
+见光死 | TRADUÇÃO: (lit.) murchar à luz do dia/(fig.) a bolha estoura quando a realidade se torna aparente (especialmente de um primeiro encontro muito esperado)/(de ações) assim que a notícia favorável é publicada oficialmente, o preço da ação cai
+见利忘义 | TRADUÇÃO: (expressão idiomática) abandonar princípios morais na busca do lucro
+见利思义 | TRADUÇÃO: ver lucro e lembrar da moralidade (expressão idiomática); agir eticamente/não ser tentado por riquezas
+见到 | TRADUÇÃO: ver/encontrar
+见告 | TRADUÇÃO: (literário) informar (a mim)
+见地 | TRADUÇÃO: opinião/ponto de vista/percepção/insight
+见报 | TRADUÇÃO: aparecer nas notícias/nos jornais
+见外 | TRADUÇÃO: tratar alguém com a cortesia formal devida a um anfitrião ou convidado
+见多识广 | TRADUÇÃO: (expressão idiomática) experiente e conhecedor
+见天 | TRADUÇÃO: (coloq.) todos os dias/diariamente
+见好就收 | TRADUÇÃO: (expressão idiomática) sair enquanto se está na liderança; saber quando parar
+见客 | TRADUÇÃO: receber visitantes; receber convidados
+见得 | TRADUÇÃO: parecer/aparentar/(em frase negativa ou interrogativa) ter certeza
+见微知著 | TRADUÇÃO: (expressão idiomática) examinar pistas minúsculas para conhecer tendências gerais; deduzir a história completa a partir de pequenos traços
+见怪 | TRADUÇÃO: importar-se/ofender-se
+见怪不怪 | TRADUÇÃO: (expressão idiomática) ter visto algo tantas vezes que não parece mais estranho; estar bem acostumado (a algo)
+见爱 | TRADUÇÃO: (literário) ter a bondade de mostrar favor (a mim); considerar (me) altamente
+见招拆招 | TRADUÇÃO: contra-atacar cada movimento/ser cheio de truques
+见效 | TRADUÇÃO: produzir o efeito pretendido; alcançar o resultado desejado
+见教 | TRADUÇÃO: fui esclarecido pelo seu ensinamento (humilde)
+见方 | TRADUÇÃO: (medida) (após um comprimento) quadrado (como em "10 pés quadrados")
+见景生情 | TRADUÇÃO: ser tocado por uma cena/adaptar-se à situação
+见机行事 | TRADUÇÃO: (expressão idiomática) ver a oportunidade e agir; agir de acordo com as circunstâncias/tocar de ouvido/usar o próprio critério
+见状 | TRADUÇÃO: ao ver isso, ... /em resposta, ...
+见猎心喜 | TRADUÇÃO: (expressão idiomática) lit. ver outros caçando, fica-se excitado com memórias da emoção da caça/fig. ver outros fazerem o que se ama, inspira-se a tentar novamente
+见异思迁 | TRADUÇÃO: (expressão idiomática) mudar imediatamente ao ver algo diferente; amar modismos e novidades/nunca satisfeito com o que tem
+见真章 | TRADUÇÃO: ver como alguém ou algo se sai quando chega o momento crítico; descobrir do que alguém é realmente feito; testemunhar a verdadeira habilidade ou valor revelado sob pressão
+见票即付 | TRADUÇÃO: pagável à vista/pagável ao portador
+见笑 | TRADUÇÃO: zombar/ser ridicularizado/incorrer em ridículo pelo próprio mau desempenho (humilde)
+见红 | TRADUÇÃO: (coloq.) sangrar (especialmente sangramento vaginal)/sofrer perda financeira
+见缝就钻 | TRADUÇÃO: (expressão idiomática) lit. espremer-se em cada fenda/fig. aproveitar ao máximo cada oportunidade
+见缝插针 | TRADUÇÃO: (expressão idiomática) lit. ver uma brecha e enfiar uma agulha/fig. aproveitar cada segundo e cada centímetro
+见义勇为 | TRADUÇÃO: (expressão idiomática, dos Analectos) (geralmente de um transeunte que se depara com uma situação crítica) intervir e ajudar; agir com bravura ou altruísmo
+见习 | TRADUÇÃO: aprender no trabalho/estar em estágio probatório
+见习员 | TRADUÇÃO: estagiário/trainee
+见习生 | TRADUÇÃO: estagiário/probacionista
+见习医师 | TRADUÇÃO: interno de medicina
+见习医生 | TRADUÇÃO: interno de medicina
+见闻 | TRADUÇÃO: o que se viu e ouviu/conhecimento/experiência de vida
+见背 | TRADUÇÃO: (formal) (eufemismo) (de um mais velho) falecer
+见色忘友 | TRADUÇÃO: negligenciar os amigos quando apaixonado por um novo amor
+见色忘义 | TRADUÇÃO: esquecer a lealdade quando apaixonado/amigos em segundo plano diante de um novo amor
+见血封喉树 | TRADUÇÃO: Antiaris toxicaria (botânica)
+见解 | TRADUÇÃO: opinião/ponto de vista/entendimento
+见访 | TRADUÇÃO: sua visita (honorífico)/você me honra com sua visita
+见说 | TRADUÇÃO: ouvir o que foi dito
+见谅 | TRADUÇÃO: por favor, perdoe-me
+见诸 | TRADUÇÃO: (literário) aparecer em (jornais, mídia, livro etc.)
+见诸行动 | TRADUÇÃO: traduzir algo em ação/colocar algo em prática
+见证 | TRADUÇÃO: testemunhar/testemunha/evidência
+见证人 | TRADUÇÃO: testemunha ocular (de um incidente)/testemunha (de uma transação legal)
+见识 | TRADUÇÃO: adquirir conhecimento em primeira mão de algo/experimentar algo por si mesmo/conhecimento/experiência/percepção/insight
+见财起意 | TRADUÇÃO: ver riquezas provoca planos malignos
+见贤思齐 | TRADUÇÃO: (expressão idiomática, dos Analectos) ver um sábio, pensar em imitar; seguir o exemplo de um professor virtuoso e sábio.
+见钱眼开 | TRADUÇÃO: (expressão idiomática) abrir bem os olhos à vista de lucro; pensar apenas no ganho pessoal/ávido por dinheiro
+见长 | TRADUÇÃO: destacar-se em (geralmente usado após a área de especialização) (Exemplo: 以研究見長|以研究见长 ser conhecido pela própria pesquisa)
+见阎王 | TRADUÇÃO: (coloq.) encontrar o Criador; bater as botas; morrer
+见面 | TRADUÇÃO: encontrar-se; ver-se um ao outro/CL:次
+见面会 | TRADUÇÃO: encontro para conhecer e cumprimentar; encontro de fãs
+见面礼 | TRADUÇÃO: presente dado a alguém ao conhecê-lo pela primeira vez
+见风使帆 | TRADUÇÃO: (expressão idiomática) lit. ver o vento e içar as velas/fig. agir de forma pragmática; ser flexível e aproveitar a situação
+见风使舵 | TRADUÇÃO: (expressão idiomática) lit. ver o vento e virar o leme/fig. agir de forma pragmática; ser flexível e aproveitar a situação
+见风是雨 | TRADUÇÃO: (expressão idiomática) lit. ver o vento e presumir que vai chover/fig. ingênuo/acreditar em qualquer sugestão alheia
+见风转舵 | TRADUÇÃO: (expressão idiomática) lit. ver o vento e virar o leme/fig. agir de forma pragmática; ser flexível e aproveitar a situação
+见马克思 | TRADUÇÃO: morrer/lit. visitar Marx/falecer
+见驾 | TRADUÇÃO: ter uma audiência (com o imperador)
+见鬼 | TRADUÇÃO: absurdo/estranho/(interj.) droga!/pro diabo!
+覌 | TRADUÇÃO: variante de 觀|观
+觃 | TRADUÇÃO: (usado em nomes de lugares)
+觃口 | TRADUÇÃO: Yankou, vila na Província de Zhejiang
+规例 | TRADUÇÃO: regulamentos
+规制 | TRADUÇÃO: regular/regras e regulamentos/regulatório/estilo e estrutura (especialmente de edifícios)
+规则 | TRADUÇÃO: regra; regulamento/regular; ordenado; fixo
+规则化 | TRADUÇÃO: regularidade
+规则性 | TRADUÇÃO: regularidade
+规划 | TRADUÇÃO: elaborar um plano; traçar um programa/plano; programa
+规划人员 | TRADUÇÃO: planejador
+规划局 | TRADUÇÃO: departamento de planejamento
+规勉 | TRADUÇÃO: aconselhar e incentivar
+规劝 | TRADUÇÃO: aconselhar
+规培 | TRADUÇÃO: (de um graduado em medicina) realizar treinamento padronizado (como médico residente em hospital) (abrev. de 規範化培訓|规范化培训)
+规定 | TRADUÇÃO: estipular; especificar; prescrever; fixar (um preço); estabelecer (uma cota)/regulamentos; regras; disposições; estipulações
+规律 | TRADUÇÃO: regra (ex.: da ciência)/lei de comportamento/padrão regular/ritmo/disciplina
+规律性 | TRADUÇÃO: regular
+规复 | TRADUÇÃO: restaurar (monarca deposto, regime, sistema de leis, ecossistema etc.)/restauração
+规戒 | TRADUÇÃO: variante de 規誡|规诫
+规整 | TRADUÇÃO: de acordo com um padrão/regular/ordenado/estruturado/arrumado e limpo
+规格 | TRADUÇÃO: padrão/norma/especificação
+规条 | TRADUÇÃO: regulamentos
+规模 | TRADUÇÃO: escala; escopo; extensão
+规模经济 | TRADUÇÃO: economias de escala
+规正 | TRADUÇÃO: admoestar
+规率 | TRADUÇÃO: lei/padrão
+规矩 | TRADUÇÃO: lit. compasso e esquadro/fig. padrão estabelecido/regra/costumes/práticas/fig. honesto e íntegro/bem-comportado
+规矩准绳 | TRADUÇÃO: compasso, esquadro, nível de bolha e prumo (expressão idiomática); fig. padrão estabelecido/normas/critérios
+规矩绳墨 | TRADUÇÃO: compasso, esquadro e marcador de linha reta (expressão idiomática); fig. padrão estabelecido/normas/critérios
+规程 | TRADUÇÃO: regras; regulamentos
+规章 | TRADUÇÃO: regra; regulamento
+规章制度 | TRADUÇÃO: regras e regulamentos
+规管 | TRADUÇÃO: regular
+规范 | TRADUÇÃO: norma/padrão/especificação/regulamento/regra/dentro das regras/estabelecer regras/regular/especificar
+规范化 | TRADUÇÃO: padronizar/padronização
+规范性 | TRADUÇÃO: normal/padrão
+规范理论 | TRADUÇÃO: Modelo Padrão (da física de partículas)
+规约 | TRADUÇÃO: termos (de um acordo)
+规行矩步 | TRADUÇÃO: seguir o compasso e andar com o esquadro (expressão idiomática); seguir as regras inflexivelmente/agir conforme a convenção
+规训 | TRADUÇÃO: disciplinar; regular através da disciplina/disciplina/(sociologia) sistema institucionalizado de disciplina
+规诫 | TRADUÇÃO: advertir (contra algum curso)/admoestar
+规诲 | TRADUÇÃO: admoestar/instruir
+规谏 | TRADUÇÃO: repreender/advertir seriamente (especialmente em chinês clássico escrito)/exortar
+规避 | TRADUÇÃO: evitar/esquivar-se
+覐 | TRADUÇÃO: variante antiga de 覺|觉 ‖ variante antiga de 覺|觉
+觅 | TRADUÇÃO: (literário) buscar/encontrar ‖ variante antiga de 覓|觅
+觅取 | TRADUÇÃO: buscar/procurar
+觅句 | TRADUÇÃO: buscar a palavra certa (de poeta)
+觅食 | TRADUÇÃO: forragear/caçar comida/vasculhar/fig. ganhar a vida
+觅食行为 | TRADUÇÃO: forrageamento
+视乎 | TRADUÇÃO: ser determinado por/depender de
+视亮度 | TRADUÇÃO: brilho aparente (astronomia)
+视作 | TRADUÇÃO: considerar como/tratar como
+视像 | TRADUÇÃO: vídeo (HK)
+视力 | TRADUÇÃO: visão; acuidade visual
+视力测定法 | TRADUÇÃO: optometria/teste de visão
+视力表 | TRADUÇÃO: tabela de optotipos (usada por oftalmologista)
+视区 | TRADUÇÃO: campo de visão
+视同 | TRADUÇÃO: considerar o mesmo que/considerar como sendo o mesmo que
+视同儿戏 | TRADUÇÃO: considerar algo como brincadeira (expressão idiomática); considerar sem importância/ver como insignificante
+视同己出 | TRADUÇÃO: considerar alguém como próprio filho
+视同手足 | TRADUÇÃO: considerar alguém como irmão (expressão idiomática)
+视图 | TRADUÇÃO: vista
+视如土芥 | TRADUÇÃO: considerar como inútil/ver como não melhor que ervas daninhas
+视如寇仇 | TRADUÇÃO: considerar como inimigo
+视如敝屣 | TRADUÇÃO: (lit.) ver como sapatos gastos (expressão idiomática)/(fig.) considerar sem valor
+视如粪土 | TRADUÇÃO: considerar como lixo/considerado sem valor
+视奸 | TRADUÇÃO: (neologismo) monitorar obsessivamente as postagens de mídia social de alguém (empréstimo ortográfico do japonês 視姦 "shikan", olhar lascivo; olhar malicioso)
+视察 | TRADUÇÃO: inspecionar/uma investigação
+视屏 | TRADUÇÃO: tela (de TV, computador etc.)
+视差 | TRADUÇÃO: paralaxe
+视微知著 | TRADUÇÃO: veja 見微知著|见微知著
+视损伤 | TRADUÇÃO: deficiência visual
+视效 | TRADUÇÃO: efeito visual (abrev. de 視覺效果|视觉效果)
+视死如归 | TRADUÇÃO: ver a morte como um retorno ao lar/não ter medo de morrer/encarar a morte com equanimidade (expressão idiomática)
+视为 | TRADUÇÃO: ver como/considerar como/considerar ser/julgar
+视为畏途 | TRADUÇÃO: considerar como perigoso (expressão idiomática); com medo de fazer algo
+视为知己 | TRADUÇÃO: considerar alguém como amigo próximo (expressão idiomática); confidenciar
+视界 | TRADUÇÃO: campo de visão
+视盘 | TRADUÇÃO: disco óptico (anatomia)/video compact disc (VCD)
+视盲 | TRADUÇÃO: cegueira
+视神经 | TRADUÇÃO: nervo óptico
+视神经乳头 | TRADUÇÃO: disco óptico (terminal do nervo óptico na retina)
+视神经盘 | TRADUÇÃO: disco óptico (terminal do nervo óptico na retina)
+视窗 | TRADUÇÃO: Windows (sistema operacional da Microsoft) ‖ uma janela (em uma tela de computador)
+视网膜 | TRADUÇÃO: retina
+视线 | TRADUÇÃO: linha de visão
+视而不见 | TRADUÇÃO: (expressão idiomática) fechar os olhos para; ignorar
+视听 | TRADUÇÃO: o que as pessoas veem e ouvem; percepção pública/audiovisual
+视听材料 | TRADUÇÃO: evidência de material visto e ouvido/testemunho oral
+视若无睹 | TRADUÇÃO: fechar os olhos para
+视若路人 | TRADUÇÃO: tratar como estranhos
+视艺 | TRADUÇÃO: artes visuais
+视觉 | TRADUÇÃO: visão/visão/visual
+视觉方言 | TRADUÇÃO: (linguística) dialeto visual
+视角 | TRADUÇÃO: ângulo do qual se observa um objeto/(fig.) perspectiva; ponto de vista; referencial/(cinematografia) ângulo de câmera/(percepção visual) ângulo visual (o ângulo que um objeto visto subtende ao olho)/(fotografia) ângulo de visão
+视讯 | TRADUÇÃO: vídeo (Taiwan)
+视距 | TRADUÇÃO: alcance visível
+视野 | TRADUÇÃO: campo de visão/(fig.) perspectiva; panorama
+视错觉 | TRADUÇÃO: ilusão de ótica
+视障 | TRADUÇÃO: deficiência visual
+视频 | TRADUÇÃO: vídeo
+视频会议 | TRADUÇÃO: videoconferência
+视频点播 | TRADUÇÃO: vídeo sob demanda (VOD)
+覗 | TRADUÇÃO: espiar
+觇 | TRADUÇÃO: observar/espiar/pronúncia em Taiwan: [zhan1]
+觇标 | TRADUÇÃO: marco topográfico
+覜 | TRADUÇÃO: ter uma audiência
+觋 | TRADUÇÃO: feiticeiro
+覤 | TRADUÇÃO: variante de 虩
+觍 | TRADUÇÃO: vergonhoso/desavergonhado
+觎 | TRADUÇÃO: desejar ardentemente
+亲 | TRADUÇÃO: pai ou mãe/próprio (carne e sangue)/parente/relacionado/casamento/noiva/próximo/íntimo/pessoalmente/em primeira mão/a favor de/pró-/beijar/(gíria da internet) querido ‖ sogros do filho ou da filha
+亲事 | TRADUÇÃO: casamento/CL:門|门
+亲人 | TRADUÇÃO: parentes próximos
+亲代 | TRADUÇÃO: geração dos pais/geração anterior
+亲信 | TRADUÇÃO: (muitas vezes pejorativo) assessor de confiança; confidente/confiar em (alguém)
+亲们 | TRADUÇÃO: queridos/fãs/seguidores/forma abreviada de 親愛的們|亲爱的们
+亲兄弟，明算帐 | TRADUÇÃO: até com irmão próprio, contas claras (expressão idiomática)
+亲切 | TRADUÇÃO: afável/cordial/próximo e querido/familiar
+亲力亲为 | TRADUÇÃO: fazer algo pessoalmente
+亲北京 | TRADUÇÃO: pró-Pequim (posição, partido etc.)
+亲友 | TRADUÇÃO: amigos e parentes
+亲口 | TRADUÇÃO: a própria boca/fig. com as próprias palavras/dizer algo pessoalmente
+亲吻 | TRADUÇÃO: beijar/beijo
+亲和 | TRADUÇÃO: conectar-se intimamente (com)/amável/afável
+亲和力 | TRADUÇÃO: calor humano/acessibilidade/(em um produto) facilidade de uso/(química) afinidade
+亲和性 | TRADUÇÃO: compatibilidade/afinidade (biologia)
+亲善 | TRADUÇÃO: boa vontade
+亲善大使 | TRADUÇÃO: embaixador da boa vontade
+亲嘴 | TRADUÇÃO: beijar (na boca)
+亲如一家 | TRADUÇÃO: relação familiar próxima como uma família (expressão idiomática)
+亲如手足 | TRADUÇÃO: tão próximos como irmãos (expressão idiomática); amizade profunda
+亲妈 | TRADUÇÃO: mãe biológica; mãe verdadeira
+亲子 | TRADUÇÃO: pai/mãe e filho(a)/relação pai-filho/duas gerações sucessivas
+亲子丼 | TRADUÇÃO: oyakodon, um donburi coberto com frango e ovo (empréstimo ortográfico do japonês)
+亲子游 | TRADUÇÃO: férias em família com ênfase em atividades para pais e filhos
+亲子鉴定 | TRADUÇÃO: teste de paternidade ou maternidade
+亲家 | TRADUÇÃO: pais da nora ou do genro/parentes por afinidade
+亲家公 | TRADUÇÃO: pai do cônjuge do filho
+亲家母 | TRADUÇÃO: mãe do cônjuge do filho
+亲密 | TRADUÇÃO: íntimo/próximo
+亲密无间 | TRADUÇÃO: (expressão idiomática) ter uma relação muito próxima entre si
+亲属 | TRADUÇÃO: parentesco/parentes/parentela
+亲征 | TRADUÇÃO: comandar pessoalmente uma expedição militar (do imperador)/participar pessoalmente de uma expedição
+亲情 | TRADUÇÃO: afeto/amor familiar/amor, especialmente entre cônjuges ou entre pais e filhos
+亲爱 | TRADUÇÃO: querido/amado/estimado
+亲爱精诚 | TRADUÇÃO: camaradagem
+亲戚 | TRADUÇÃO: parente (relação familiar)/CL:門|门,個|个,位
+亲手 | TRADUÇÃO: com as próprias mãos; pessoalmente
+亲族 | TRADUÇÃO: parentes/membros da mesma família, clã, tribo etc.
+亲昵 | TRADUÇÃO: íntimo
+亲朋 | TRADUÇÃO: parentes e amigos
+亲朋好友 | TRADUÇÃO: amigos e família/parentes e amigos
+亲本 | TRADUÇÃO: (genética) progenitor
+亲历 | TRADUÇÃO: vivenciar pessoalmente
+亲民 | TRADUÇÃO: em contato com o povo/sensível às necessidades do povo
+亲民党 | TRADUÇÃO: Partido da Primeira Pessoa, Taiwan
+亲水性 | TRADUÇÃO: hidrofílico
+亲水长廊 | TRADUÇÃO: calçadão à beira d'água
+亲测 | TRADUÇÃO: testar (algo) pessoalmente
+亲炙 | TRADUÇÃO: ser esclarecido pelo contato direto com alguém
+亲热 | TRADUÇÃO: afetuoso; íntimo; caloroso/demonstrar afeto/(coloq.) aproximar-se intimamente de alguém
+亲爸 | TRADUÇÃO: próprio pai/pai biológico
+亲爹 | TRADUÇÃO: pai biológico; pai verdadeiro
+亲王 | TRADUÇÃO: príncipe
+亲生 | TRADUÇÃO: próprio (filho) (i.e. filho biológico)/biológicos (pais)/de nascimento (pais)
+亲生子女 | TRADUÇÃO: filho natural
+亲生骨肉 | TRADUÇÃO: própria carne e sangue
+亲疏 | TRADUÇÃO: próximos e distantes (parentes)
+亲疏贵贱 | TRADUÇÃO: próximos e distantes, ricos e pobres (expressão idiomática); todos/todo tipo de relações
+亲眷 | TRADUÇÃO: parentes
+亲眼 | TRADUÇÃO: com os próprios olhos/pessoalmente
+亲眼目睹 | TRADUÇÃO: ver por si mesmo/ver com os próprios olhos
+亲睦 | TRADUÇÃO: amigável/amistoso/manter relações harmoniosas (com alguém)
+亲睦邻邦 | TRADUÇÃO: países vizinhos amigáveis/manter boas relações com países vizinhos
+亲笔 | TRADUÇÃO: de próprio punho
+亲缘 | TRADUÇÃO: relação de sangue; relação genética; consanguinidade
+亲缘关系 | TRADUÇÃO: relação filogenética
+亲美 | TRADUÇÃO: pró-EUA
+亲耳 | TRADUÇÃO: com os próprios ouvidos
+亲肤 | TRADUÇÃO: amigo da pele
+亲临 | TRADUÇÃO: visitar pessoalmente; comparecer pessoalmente
+亲临其境 | TRADUÇÃO: viajar para um lugar pessoalmente (expressão idiomática)
+亲自 | TRADUÇÃO: pessoalmente/em pessoa/por si mesmo
+亲自动手 | TRADUÇÃO: fazer o trabalho sozinho
+亲旧 | TRADUÇÃO: parentes e velhos amigos
+亲卫队 | TRADUÇÃO: SS ou Schutzstaffel, organização paramilitar na Alemanha Nazista
+亲亲 | TRADUÇÃO: querido/beijar/amigável
+亲赴 | TRADUÇÃO: viajar para (um lugar onde o dever chama)
+亲身 | TRADUÇÃO: pessoal/por si mesmo
+亲近 | TRADUÇÃO: (de pessoas ou relacionamentos) próximo; íntimo/aproximar-se de; engajar-se com; familiarizar-se com (natureza, lugares, ideias, arte etc.)
+觊 | TRADUÇÃO: cobiçar/desejar
+觊觎 | TRADUÇÃO: (literário) cobiçar; olhar com olhos gananciosos
+觏 | TRADUÇÃO: completo/encontrar inesperadamente/ver
+覰 | TRADUÇÃO: variante de 覷|觑
+觐 | TRADUÇÃO: (história) ter uma audiência com o Imperador
+觐见 | TRADUÇÃO: ter uma audiência (com o Imperador)
+觑 | TRADUÇÃO: espiar/vigiar
+觑合 | TRADUÇÃO: apertar os olhos/cerrar os olhos
+觑忽 | TRADUÇÃO: variante de 覷糊|觑糊
+觑机会 | TRADUÇÃO: ficar à espera de uma oportunidade
+觑步 | TRADUÇÃO: espionar/vigiar às escondidas
+觑窥 | TRADUÇÃO: espiar/olhar às escondidas
+觑糊 | TRADUÇÃO: apertar os olhos/cerrar os olhos
+觑着眼 | TRADUÇÃO: apertar os olhos e fitar algo com grande atenção
+觑视 | TRADUÇÃO: olhar/contemplar
+觑觑眼 | TRADUÇÃO: miopia/visão curta
+觉 | TRADUÇÃO: soneca/sono/CL:場|场 ‖ sentir/perceber/pensar/acordado/consciente
+觉察 | TRADUÇÃO: perceber/sentir/dar-se conta de/estar ciente de
+觉得 | TRADUÇÃO: achar que...; sentir que.../sentir-se (desconfortável etc)
+觉悟 | TRADUÇÃO: dar-se conta/perceber/consciência/conscientização/iluminação budista (Sânscrito: cittotpāda)
+觉醒 | TRADUÇÃO: despertar/cair em si/a verdade vem à tona/a ficha cair/tornar-se consciente
+览 | TRADUÇÃO: olhar/contemplar/ler
+览胜 | TRADUÇÃO: visitar pontos turísticos/paisagens cênicas
+览古 | TRADUÇÃO: visitar sítios históricos
+觌 | TRADUÇÃO: cara a cara/face a face
+观 | TRADUÇÃO: sobrenome Guan ‖ olhar/observar/contemplar/aconselhar/conceito/ponto de vista/visão ‖ monastério taoísta/torre de vigia no portão do palácio/plataforma
+观世音 | TRADUÇÃO: Guanyin, a Bodisatva da Compaixão ou Deusa da Misericórdia (Sânscrito Avalokiteśvara)
+观世音菩萨 | TRADUÇÃO: Guanyin, a Bodisatva da Compaixão ou Deusa da Misericórdia (Sânscrito Avalokiteśvara)
+观光 | TRADUÇÃO: fazer turismo/passeio turístico/turismo
+观光区 | TRADUÇÃO: região turística/área turística
+观光客 | TRADUÇÃO: turista
+观塘 | TRADUÇÃO: distrito de Kwun Tong, Kowloon, Hong Kong
+观客 | TRADUÇÃO: plateia/público
+观察 | TRADUÇÃO: observar; vigiar; inspecionar
+观察人士 | TRADUÇÃO: observador
+观察力 | TRADUÇÃO: capacidade de observação/percepção
+观察员 | TRADUÇÃO: observador
+观察哨 | TRADUÇÃO: posto de sentinela
+观察家 | TRADUÇÃO: observador (esp. aquele que analisa assuntos sociais ou políticos)
+观察者 | TRADUÇÃO: observador
+观山湖 | TRADUÇÃO: ver 觀山湖區|观山湖区
+观山湖区 | TRADUÇÃO: Guanshanhu, um distrito da cidade de Guiyang 貴陽市|贵阳市, Guizhou
+观影 | TRADUÇÃO: assistir a um filme
+观后感 | TRADUÇÃO: impressão ou sentimento após visitar ou assistir (filmes, museus etc)
+观后镜 | TRADUÇÃO: espelho que mostra a visão traseira (incluindo retrovisor, espelho lateral, espelho para bebê etc)
+观念 | TRADUÇÃO: noção/pensamento/conceito/sentido/visão/ideologia/impressões gerais
+观想 | TRADUÇÃO: visualizar (prática budista)
+观感 | TRADUÇÃO: impressões/observações de alguém
+观战 | TRADUÇÃO: assistir de fora/assistir da arquibancada
+观摩 | TRADUÇÃO: observar e imitar/estudar (esp. seguindo o exemplo de alguém)
+观星台 | TRADUÇÃO: observatório astronômico (antigo)
+观景台 | TRADUÇÃO: mirante/plataforma de observação/deque de observação
+观望 | TRADUÇÃO: esperar para ver; assistir de fora/olhar em volta; inspecionar
+观止 | TRADUÇÃO: incomparavelmente bom/insuperável
+观测 | TRADUÇÃO: observar/inspecionar/observação (científica etc)
+观测台 | TRADUÇÃO: observatório
+观测员 | TRADUÇÃO: observador/vigia
+观测者 | TRADUÇÃO: observador
+观测卫星 | TRADUÇÃO: satélite de observação
+观澜湖 | TRADUÇÃO: Mission Hills Group (empresa chinesa de hospitalidade, esportes e lazer)
+观火 | TRADUÇÃO: penetrante (visão)/perspicaz
+观看 | TRADUÇÃO: assistir; ver
+观众 | TRADUÇÃO: espectadores; plateia; visitantes (de uma exposição etc)
+观瞻 | TRADUÇÃO: aparência/visão/impressão duradoura
+观礼 | TRADUÇÃO: assistir a um ritual
+观落阴 | TRADUÇÃO: ritual pelo qual a alma viva é levada ao submundo para uma jornada espiritual
+观览 | TRADUÇÃO: ver/olhar/examinar algo
+观护所 | TRADUÇÃO: gabinete de liberdade condicional
+观象台 | TRADUÇÃO: observatório/plataforma de observação
+观赏 | TRADUÇÃO: contemplar com prazer; assistir (algo maravilhoso)/ornamental/decorativo
+观赛 | TRADUÇÃO: assistir a uma partida; comparecer a um evento esportivo como espectador
+观衅伺隙 | TRADUÇÃO: (expressão idiomática) fig. procurar pontos fracos do oponente/procurar o calcanhar de Aquiles
+观音 | TRADUÇÃO: Guanyin, a Bodisatva da Compaixão ou Deusa da Misericórdia (Sânscrito Avalokiteśvara)
+观音菩萨 | TRADUÇÃO: Guanyin, a Bodisatva da Compaixão ou Deusa da Misericórdia (Sânscrito Avalokiteśvara)
+观风 | TRADUÇÃO: ficar de vigia/fazer vigilância
+观鸟 | TRADUÇÃO: observação de pássaros
+观点 | TRADUÇÃO: ponto de vista/perspectiva/posição/CL:個|个
+角 | TRADUÇÃO: sobrenome Jue ‖ ângulo/canto/chifre/chifriforme/unidade monetária igual a 0,1 yuan, ou 10 centavos (uma moeda de dez centavos)/CL:個|个 ‖ papel (teatro)/competir/vaso de vinho antigo de três pés/terceira nota da escala pentatônica
+角分符号 | TRADUÇÃO: símbolo de primo (′) (mat., linguística etc)
+角力 | TRADUÇÃO: lutar (luta livre)/(fig.) disputar/brigar/Taiwan pr. [jiao3li4]
+角动量 | TRADUÇÃO: momento angular
+角化病 | TRADUÇÃO: (medicina) ceratose
+角口 | TRADUÇÃO: (literário) brigar/também pr. [jiao3kou3]
+角嘴海雀 | TRADUÇÃO: (espécie de ave da China) torda-anelada (Cerorhinca monocerata)
+角回 | TRADUÇÃO: giro angular (convolução do cérebro)
+角妓 | TRADUÇÃO: cortesã
+角子 | TRADUÇÃO: moeda de um Jiao (Mao, um décimo de yuan)
+角宿一 | TRADUÇÃO: (astronomia) Espiga
+角尺 | TRADUÇÃO: esquadro (ferramenta para medir ângulos retos)
+角平分线 | TRADUÇÃO: bissetriz de ângulo
+角度 | TRADUÇÃO: ângulo/(fig.) ponto de vista
+角弓 | TRADUÇÃO: arco decorado com chifres de animais
+角弓反张 | TRADUÇÃO: opistótono (med.), espasmo muscular do corpo associado a tétano e meningite
+角抵 | TRADUÇÃO: luta livre/lutar
+角曲尺 | TRADUÇÃO: esquadro de meia-esquadria (ferramenta para medir ângulos)
+角朊 | TRADUÇÃO: queratina
+角柱体 | TRADUÇÃO: prisma (mat.)
+角椅 | TRADUÇÃO: cadeira projetada para caber no canto de um cômodo
+角楼 | TRADUÇÃO: canto (entre paredes)
+角标 | TRADUÇÃO: subscrito ou sobrescrito/etiqueta de canto (em produto, imagem, documento etc)/ícone de selo de aplicativo (símbolo no canto superior direito de um ícone de aplicativo, como um círculo vermelho para indicar mensagens não lidas)
+角球 | TRADUÇÃO: escanteio (no futebol)/tiro livre no hóquei
+角百灵 | TRADUÇÃO: (espécie de ave da China) calhandra-de-chifres (Eremophila alpestris)
+角砧 | TRADUÇÃO: bigorna de canto (canto de uma bigorna)
+角磨机 | TRADUÇÃO: esmerilhadeira angular/rebarbadeira
+角票 | TRADUÇÃO: nota em unidades de Jiao (Mao, um décimo de yuan)
+角秒符号 | TRADUÇÃO: símbolo de primo duplo (″) (mat., linguística etc)
+角膜 | TRADUÇÃO: córnea

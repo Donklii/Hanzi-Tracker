@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+保留区 | TRADUÇÃO: reserva (para minorías étnicas)
+保皇党 | TRADUÇÃO: monárquicos/partidarios del rey/realistas
+保监会 | TRADUÇÃO: Comisión Reguladora de la Banca y Seguros de China (CIRC), abr. de 中國保險監督管理委員會|中国保险监督管理委员会
+保真度 | TRADUÇÃO: fidelidad (de sonido o imagen)
+保研 | TRADUÇÃO: recomendar a alguien para estudios de posgrado/admitir en posgrado sin examen de admisión
+保祐 | TRADUÇÃO: bendecir y proteger/bendición/también escrito 保佑
+保税 | TRADUÇÃO: bajo régimen aduanero/libre de impuestos (mercancías, fábrica, etc.)
+保税区 | TRADUÇÃO: zona franca/zona libre de impuestos/zona franca aduanera
+保种 | TRADUÇÃO: (agricultura) conservar una variedad vegetal o raza animal/(conservación) conservar una especie silvestre o población
+保管 | TRADUÇÃO: tener bajo custodia; estar a cargo de/garantizar/ciertamente; sin duda/custodio; conservador
+保管员 | TRADUÇÃO: custodio/almacenero/encargado del almacén
+保管箱 | TRADUÇÃO: caja de seguridad; caja fuerte
+保级 | TRADUÇÃO: (deportes) evitar el descenso (de categoría o división)
+保罗 | TRADUÇÃO: Pablo (nombre)
+保育 | TRADUÇÃO: cuidar (niños); cuidado infantil/proteger (fauna silvestre, patrimonio cultural, etc.); conservación
+保育箱 | TRADUÇÃO: incubadora (para recién nacidos)
+保育院 | TRADUÇÃO: orfanato/guardería
+保胎 | TRADUÇÃO: tomar medidas para prevenir un aborto espontáneo/proteger el feto
+保苗 | TRADUÇÃO: proteger los brotes/asegurar la supervivencia de las plantas jóvenes
+保藏 | TRADUÇÃO: guardar/conservar/preservar
+保卫 | TRADUÇÃO: defender/salvaguardar
+保卫祖国 | TRADUÇÃO: defender la patria
+保角 | TRADUÇÃO: (matemáticas) que conserva los ángulos/conforme
+保角对应 | TRADUÇÃO: (matemáticas) correspondencia que conserva los ángulos/transformación conforme
+保语 | TRADUÇÃO: idioma búlgaro
+保证 | TRADUÇÃO: garantizar/garantía/asegurar/prometer/CL:個|个
+保证人 | TRADUÇÃO: garante/fiador
+保证金 | TRADUÇÃO: depósito de garantía/fianza/depósito en efectivo/margen (en comercio de derivados)
+保护 | TRADUÇÃO: proteger/defender/salvaguardar/protección/CL:種|种
+保护主义 | TRADUÇÃO: proteccionismo
+保护人 | TRADUÇÃO: protector/tutor/patrón
+保护伞 | TRADUÇÃO: paraguas protector/fig. protector (esp. corrupto que ofrece cobertura)
+保护剂 | TRADUÇÃO: agente protector/protector
+保护区 | TRADUÇÃO: reserva natural/distrito de conservación/CL:個|个,片
+保护国 | TRADUÇÃO: protectorado
+保护性 | TRADUÇÃO: protector/de protección
+保护模式 | TRADUÇÃO: modo protegido (informática)
+保护神 | TRADUÇÃO: santo patrón/ángel de la guarda/deidad protectora
+保护者 | TRADUÇÃO: protector
+保护色 | TRADUÇÃO: coloración protectora/camuflaje
+保费 | TRADUÇÃO: prima de seguro
+保质期 | TRADUÇÃO: vida útil/fecha de caducidad
+保送 | TRADUÇÃO: recomendar para la admisión (a una escuela o universidad)
+保释 | TRADUÇÃO: liberar bajo fianza/dar fianza
+保重 | TRADUÇÃO: cuidarse/tomar cuidado de sí mismo
+保镖 | TRADUÇÃO: guardaespaldas
+保镳 | TRADUÇÃO: variante de 保鏢|保镖
+保长 | TRADUÇÃO: (matemáticas) que conserva las distancias/isométrico ‖ jefe de un bao 保 en el sistema baojia 保甲
+保长对应 | TRADUÇÃO: (matemáticas) correspondencia isométrica/isometría
+保障 | TRADUÇÃO: garantizar/asegurar/salvaguardar/garantía
+保障监督 | TRADUÇÃO: salvaguardias
+保险 | TRADUÇÃO: seguro/asegurar/seguro/sin peligro/ciertamente/sin duda/CL:份
+保险人 | TRADUÇÃO: asegurador/aseguradora
+保险单 | TRADUÇÃO: póliza de seguro
+保险套 | TRADUÇÃO: preservativo/condón/CL:隻|只
+保险杠 | TRADUÇÃO: parachoques (de automóvil)
+保险柜 | TRADUÇÃO: caja fuerte/caja de seguridad
+保险灯 | TRADUÇÃO: lámpara de queroseno de seguridad
+保险盒 | TRADUÇÃO: caja de fusibles
+保险箱 | TRADUÇÃO: caja de seguridad; caja fuerte
+保险丝 | TRADUÇÃO: hilo fusible/fusible (eléctrico)
+保险费 | TRADUÇÃO: prima de seguro/cuota de seguro
+保靖 | TRADUÇÃO: véase 保靖縣|保靖县
+保靖县 | TRADUÇÃO: Baojing, condado en la prefectura autónoma tujia y miao de Xiangxi 湘西土家族苗族自治州, Hunan
+保养 | TRADUÇÃO: cuidar bien de la salud/mantener en buen estado/dar mantenimiento/mantenimiento
+保养品 | TRADUÇÃO: (Taiwán) producto de belleza; producto para el cuidado de la piel
+保驾 | TRADUÇÃO: (antiguamente) escoltar al emperador (u otro personaje importante)/(actualmente) escoltar a alguien (usualmente festivo)
+保驾护航 | TRADUÇÃO: (modismo) salvaguardar/proteger/escoltar
+保鲜 | TRADUÇÃO: mantener fresco/preservar la frescura
+保鲜期 | TRADUÇÃO: período de frescura/vida útil de frescura
+保鲜纸 | TRADUÇÃO: film transparente/papel film/envoltorio plástico
+保鲜膜 | TRADUÇÃO: film transparente/película plástica protectora
+保丽龙 | TRADUÇÃO: poliestireno expandido/unicel/telgopor
+保龄球 | TRADUÇÃO: bolos (de diez bolos)/bola de bolos
+俞 | TRADUÇÃO: apellido Yu ‖ variante de 腧 ‖ sí (usado por emperadores)/de acuerdo/asentir
+俞天白 | TRADUÇÃO: Yu Tianbai (1937-), novelista
+俞文豹 | TRADUÇÃO: Yu Wenbao (c. 1240), prolífico poeta de la dinastía Song
+俞正声 | TRADUÇÃO: Yu Zhengsheng (1945-), político chino
+俞穴 | TRADUÇÃO: punto de acupuntura
+俟 | TRADUÇÃO: usado en 万俟 ‖ (literario) esperar ‖ variante de 俟
+俟候 | TRADUÇÃO: (literario) esperar/aguardar
+俟机 | TRADUÇÃO: variante de 伺機|伺机
+侠 | TRADUÇÃO: caballero andante/héroe valiente y justiciero/heroico
+侠士 | TRADUÇÃO: caballero andante/persona caballerosa
+侠客 | TRADUÇÃO: caballero andante/persona caballerosa y valiente
+侠气 | TRADUÇÃO: espíritu caballeroso/caballerosidad
+侠盗猎车手 | TRADUÇÃO: Grand Theft Auto (saga de videojuegos)
+侠盗飞车 | TRADUÇÃO: Grand Theft Auto (saga de videojuegos)
+侠义 | TRADUÇÃO: caballeroso/caballerosidad
+信 | TRADUÇÃO: carta/correo/CL:封/confiar/creer/profesar fe en/veraz/confianza/a voluntad/al azar
+信不过 | TRADUÇÃO: no confiar/desconfiar/sospechar de
+信令 | TRADUÇÃO: señalización (ingeniería)
+信以为真 | TRADUÇÃO: tomar algo por cierto/creer que algo es verdad
+信仰 | TRADUÇÃO: creer en (una religión)/fe/convicción profunda
+信仰者 | TRADUÇÃO: creyente
+信件 | TRADUÇÃO: carta/correspondencia (enviada por correo)
+信任 | TRADUÇÃO: confiar/tener confianza en
+信佛 | TRADUÇÃO: creer en el budismo
+信使 | TRADUÇÃO: mensajero/correo
+信使核糖核酸 | TRADUÇÃO: ARN mensajero, ARNm
+信函 | TRADUÇÃO: carta/correspondencia (incluye correo electrónico)
+信口 | TRADUÇÃO: hablar sin pensar/escupir palabras sin reflexionar
+信口胡说 | TRADUÇÃO: hablar sin pensar; decir tonterías sin reflexionar
+信口开合 | TRADUÇÃO: variante de 信口開河|信口开河
+信口开河 | TRADUÇÃO: hablar sin pensar (modismo)/hablar por hablar/decir disparates
+信口雌黄 | TRADUÇÃO: hablar sin fundamento/opinar a la ligera/hablar sin reparar en la verdad
+信噪比 | TRADUÇÃO: relación señal/ruido (SNR)
+信报 | TRADUÇÃO: abr. de 信報財經新聞|信报财经新闻, Hong Kong Economic Journal
+信报财经新闻 | TRADUÇÃO: Hong Kong Economic Journal (diario económico de Hong Kong)
+信天游 | TRADUÇÃO: estilo de música folclórica de Shaanxi
+信天翁 | TRADUÇÃO: albatros (familia Diomedeidae)
+信奉 | TRADUÇÃO: creer en (una doctrina)/profesar (una fe)
+信子 | TRADUÇÃO: variante de 芯子
+信守 | TRADUÇÃO: cumplir/respetar (promesas, acuerdos, etc.)
+信宜 | TRADUÇÃO: véase 信宜市
+信宜市 | TRADUÇÃO: Xinyi, ciudad a nivel de condado en Maoming 茂名市, Guangdong
+信宿 | TRADUÇÃO: (antiguo) alojarse durante dos noches
+信实 | TRADUÇÃO: confiable/fidedigno/creer que algo es cierto
+信封 | TRADUÇÃO: sobre (para cartas)
+信州 | TRADUÇÃO: véase 信州區|信州区
+信州区 | TRADUÇÃO: Xinzhou, distrito de la ciudad de Shangrao 上饒市|上饶市, Jiangxi
+信差 | TRADUÇÃO: mensajero/cartero
+信徒 | TRADUÇÃO: creyente/fiel/discípulo
+信得过 | TRADUÇÃO: de confianza/confiable
+信从 | TRADUÇÃO: confiar y obedecer
+信德省 | TRADUÇÃO: provincia de Sindh en Pakistán
+信心 | TRADUÇÃO: confianza/fe (en alguien o algo)/CL:個|个
+信心百倍 | TRADUÇÃO: lleno de confianza/rebosante de confianza (modismo)
+信念 | TRADUÇÃO: fe/creencia/convicción
+信息 | TRADUÇÃO: información; noticias; mensaje
+信息化 | TRADUÇÃO: informatización (proceso análogo a la industrialización en la era de la información)
+信息图 | TRADUÇÃO: infografía
+信息图形 | TRADUÇÃO: infografía
+信息学 | TRADUÇÃO: ciencia de la información/informática
+信息差 | TRADUÇÃO: asimetría de información; brecha de información
+信息技术 | TRADUÇÃO: tecnología de la información; TI
+信息时代 | TRADUÇÃO: era de la información
+信息管理 | TRADUÇÃO: gestión de la información
+信息系统 | TRADUÇÃO: sistema de información
+信息素 | TRADUÇÃO: feromona
+信息茧房 | TRADUÇÃO: (Internet) cámara de eco/burbuja de filtro
+信息与通讯技术 | TRADUÇÃO: tecnologías de la información y la comunicación, TIC
+信息论 | TRADUÇÃO: teoría de la información
+信息灵通 | TRADUÇÃO: véase 消息靈通|消息灵通
+信意 | TRADUÇÃO: a voluntad/a su antojo/según le parezca
+信手 | TRADUÇÃO: casualmente/al pasar/de pasada
+信教 | TRADUÇÃO: fe religiosa/profesar una fe/ser creyente
+信服 | TRADUÇÃO: confiar en/creer en/tener confianza en/respetar
+信札 | TRADUÇÃO: carta/correspondencia
+信条 | TRADUÇÃO: credo/artículo de fe
+信标 | TRADUÇÃO: señal/faro/baliza
+信步 | TRADUÇÃO: pasear; dar un paseo sin rumbo fijo
+信然 | TRADUÇÃO: de verdad/en efecto
+信物 | TRADUÇÃO: recuerdo; prenda (de afecto o compromiso)
+信用 | TRADUÇÃO: solvencia/(comercio) crédito/(literario) confiar y nombrar
+信用卡 | TRADUÇÃO: tarjeta de crédito
+信用危机 | TRADUÇÃO: crisis crediticia
+信用社 | TRADUÇÃO: cooperativa de crédito
+信用等级 | TRADUÇÃO: nivel de crédito/calificación crediticia
+信用观察 | TRADUÇÃO: vigilancia crediticia
+信用评等 | TRADUÇÃO: calificación crediticia
+信用评级 | TRADUÇÃO: calificación crediticia
+信用证 | TRADUÇÃO: carta de crédito
+信用证券 | TRADUÇÃO: instrumento de crédito/carta de crédito/véase también 信用證|信用证/CL:張|张
+信用额 | TRADUÇÃO: límite de crédito
+信用风险 | TRADUÇÃO: riesgo crediticio
+信众 | TRADUÇÃO: creyentes/fieles
+信神者 | TRADUÇÃO: creyente en Dios
+信笔 | TRADUÇÃO: escribir libremente/expresarse al desgaire
+信筒 | TRADUÇÃO: buzón de correo
+信笺 | TRADUÇÃO: papel de carta
+信管 | TRADUÇÃO: espoleta (para carga explosiva)/detonador
+信箱 | TRADUÇÃO: buzón de correo/apartado postal
+信纸 | TRADUÇÃO: papel para escribir/papel de carta
+信经 | TRADUÇÃO: Credo (sección de la misa católica)
+信义 | TRADUÇÃO: distrito de Xinyi o Hsinyi en Taipéi 臺北市|台北市, Taiwán/distrito de Xinyi o Hsinyi en la ciudad de Keelung 基隆市, Taiwán/municipio de Xinyi o Hsinyi en el condado de Nantou 南投縣|南投县, Taiwán central ‖ buena fe/honor/confianza y justicia
+信义区 | TRADUÇÃO: distrito de Xinyi o Hsinyi en Taipéi 臺北市|台北市, Taiwán/distrito de Hsinyi en Keelung 基隆市, Taiwán
+信义乡 | TRADUÇÃO: municipio de Xinyi o Hsinyi en el condado de Nantou 南投縣|南投县, Taiwán central
+信号 | TRADUÇÃO: señal
+信号灯 | TRADUÇÃO: luz de señal/intermitente del coche
+信号台 | TRADUÇÃO: estación de señales
+信号处理 | TRADUÇÃO: procesamiento de señales
+信托 | TRADUÇÃO: confiar/fideicomiso (finanzas)
+信访 | TRADUÇÃO: presentar una queja o sugerencia a las autoridades por carta o visita personal
+信访局 | TRADUÇÃO: oficina gubernamental de atenciones y peticiones del ciudadano
+信誓旦旦 | TRADUÇÃO: hacer un voto solemne/prometer jurando solemnemente (modismo)
+信誉 | TRADUÇÃO: prestigio/reputación/credibilidad
+信丰 | TRADUÇÃO: véase 信豐縣|信丰县
+信丰县 | TRADUÇÃO: Xinfeng, condado en la ciudad de Ganzhou 贛州市|赣州市, Jiangxi
+信贷 | TRADUÇÃO: crédito/préstamo
+信贷危机 | TRADUÇÃO: crisis crediticia
+信贷衍生产品 | TRADUÇÃO: derivado de crédito (finanzas)
+信贷违约掉期 | TRADUÇÃO: permuta de incumplimiento crediticio/CDS (finanzas)
+信赖 | TRADUÇÃO: confiar en/tener fe en/confiar plenamente en
+信赖区间 | TRADUÇÃO: (estadística) intervalo de confianza
+信道 | TRADUÇÃO: (telecomunicaciones) canal/(en textos confucianos) creer en los principios de la sabiduría y seguirlos
+信都 | TRADUÇÃO: véase 信都區|信都区
+信都区 | TRADUÇÃO: Xindu, distrito de la ciudad de Xingtai 邢臺市|邢台市, Hebei
+信阳 | TRADUÇÃO: véase 信陽市|信阳市
+信阳市 | TRADUÇÃO: Xinyang, ciudad-prefectura en la provincia de Henan 河南省
+信靠 | TRADUÇÃO: confiar
+信风 | TRADUÇÃO: viento alisio
+信鸽 | TRADUÇÃO: paloma mensajera
+俤 | TRADUÇÃO: variante de 弟
+修 | TRADUÇÃO: apellido Xiu ‖ decorar/embellecer/reparar/construir/redactar/cultivar/estudiar/cursar (una asignatura) ‖ variante de 修
+修例 | TRADUÇÃO: enmendar una ordenanza (abr. de 修改條例|修改条例)
+修剪 | TRADUÇÃO: podar/recortar
+修图 | TRADUÇÃO: retocar imágenes/retoque fotográfico
+修士 | TRADUÇÃO: fraile/religioso de una orden
+修女 | TRADUÇÃO: monja o religiosa (de la Iglesia Católica u Ortodoxa)
+修好 | TRADUÇÃO: reparar (algo roto); restaurar/establecer relaciones amistosas con/(literario) hacer buenas obras
+修建 | TRADUÇÃO: construir/edificar
+修复 | TRADUÇÃO: restaurar; renovar/(informática) reparar (un archivo dañado, etc.)
+修心养性 | TRADUÇÃO: cultivar la mente y el carácter (modismo); perfeccionarse mediante la meditación
+修宪 | TRADUÇÃO: enmendar la constitución
+修成正果 | TRADUÇÃO: alcanzar la iluminación búdica mediante el esfuerzo y la sabiduría/obtener un resultado fructífero tras perseverar/dar sus frutos
+修手 | TRADUÇÃO: manicura
+修指甲 | TRADUÇÃO: hacer la manicura/cortar las uñas
+修撰 | TRADUÇÃO: compilar/redactar
+修改 | TRADUÇÃO: modificar/enmendar/alterar
+修改稿 | TRADUÇÃO: borrador revisado/nueva versión (de un documento)
+修整 | TRADUÇÃO: arreglar; renovar; cuidar (un jardín); arreglarse (el cabello); retocar
+修文 | TRADUÇÃO: véase 修文縣|修文县
+修文县 | TRADUÇÃO: Xiuwen, condado en la ciudad de Guiyang 貴陽市|贵阳市, Guizhou
+修昔底德 | TRADUÇÃO: Tucídides (c. 455-c. 400 a. C.), historiador griego, autor de la Historia de la Guerra del Peloponeso
+修昔底德陷阱 | TRADUÇÃO: trampa de Tucídides (teoría de que el conflicto es probable cuando una potencia emergente amenaza con desplazar a una establecida)
+修会 | TRADUÇÃO: orden religiosa
+修业 | TRADUÇÃO: estudiar en la escuela/realizar cursos académicos
+修正 | TRADUÇÃO: revisar; enmendar; rectificar
+修正主义 | TRADUÇÃO: revisionismo
+修正案 | TRADUÇÃO: enmienda/proyecto revisado
+修正液 | TRADUÇÃO: corrector líquido/tipp-ex
+修武 | TRADUÇÃO: véase 修武縣|修武县
+修武县 | TRADUÇÃO: Xiuwu, condado en la ciudad de Jiaozuo 焦作市, Henan
+修水 | TRADUÇÃO: véase 修水縣|修水县
+修水利 | TRADUÇÃO: construir o reparar infraestructuras hidráulicas (canales, embalses, etc.)
+修水县 | TRADUÇÃO: Xiushui, condado en la ciudad de Jiujiang 九江市, Jiangxi
+修法 | TRADUÇÃO: enmendar una ley
+修炼 | TRADUÇÃO: (del taoísmo) practicar la austeridad ascética/cultivarse espiritualmente
+修炼成仙 | TRADUÇÃO: lit. practicar austeridades para convertirse en inmortal taoísta/la práctica hace al maestro
+修理 | TRADUÇÃO: reparar/arreglar/podar/recortar/(coloq.) darle una lección a alguien/dar un escarmiento
+修理厂 | TRADUÇÃO: taller de reparación
+修真 | TRADUÇÃO: practicar el taoísmo; cultivar el verdadero ser mediante ejercicios espirituales
+修睦 | TRADUÇÃO: cultivar la amistad con los vecinos
+修禊 | TRADUÇÃO: realizar la ceremonia semestral de purificación ritual
+修筑 | TRADUÇÃO: construir/edificar
+修编 | TRADUÇÃO: revisar y compilar
+修练 | TRADUÇÃO: practicar (una actividad)/ejercitarse
+修缮 | TRADUÇÃO: renovar/reparar (un edificio)
+修罗 | TRADUÇÃO: (mitología india) Asuras - seres poderosos y malévolos que luchan contra los dioses
+修罗场 | TRADUÇÃO: (mitología india) campo de batalla entre los Asuras 修羅|修罗 y los dioses; (fig.) escena de crueldad y matanza; (jerga) confrontación con alta tensión emocional (esp. un triángulo amoroso)
+修习 | TRADUÇÃO: estudiar/practicar
+修脚 | TRADUÇÃO: pedicura
+修脚师 | TRADUÇÃO: pedicuro/pedicurista
+修葺 | TRADUÇÃO: reparar/renovar (un edificio)
+修行 | TRADUÇÃO: dedicarse al desarrollo espiritual (esp. budismo o taoísmo)/dedicarse a perfeccionar el arte o la profesión
+修行人 | TRADUÇÃO: persona entregada a la práctica religiosa (budismo)
+修补 | TRADUÇÃO: remendar/reparar
+修补匠 | TRADUÇÃO: hojalatero/reparador ambulante
+修规 | TRADUÇÃO: plan de construcción
+修订 | TRADUÇÃO: revisar/enmendar
+修订本 | TRADUÇÃO: edición revisada (de un libro)
+修订历史 | TRADUÇÃO: historial de revisiones (de un documento, página web, etc.)
+修订版 | TRADUÇÃO: edición revisada/versión revisada
+修课 | TRADUÇÃO: cursar una asignatura/tomar una materia
+修读 | TRADUÇÃO: estudiar (un programa académico); cursar (un grado)
+修路 | TRADUÇÃO: reparar una carretera/construir una vía
+修身 | TRADUÇÃO: cultivar la propia moral/(moda) ceñido/ajustado al cuerpo
+修车 | TRADUÇÃO: reparar una bicicleta (o coche, etc.)
+修辞 | TRADUÇÃO: retórica
+修辞学 | TRADUÇÃO: retórica
+修辞格 | TRADUÇÃO: figura retórica/figura de estilo
+修造 | TRADUÇÃO: construir/reparar
+修造厂 | TRADUÇÃO: taller de construcción y reparación (de maquinaria, vehículos, etc.)
+修道 | TRADUÇÃO: practicar el taoísmo/seguir la vida religiosa
+修道士 | TRADUÇÃO: fraile; monje
+修道会 | TRADUÇÃO: orden religiosa (de monjes)
+修道院 | TRADUÇÃO: monasterio/convento
+修长 | TRADUÇÃO: esbelto/alto y delgado
+修阻 | TRADUÇÃO: (literario) largo y arduo (camino)
+修院 | TRADUÇÃO: seminario (colegio sacerdotal)
+修面 | TRADUÇÃO: afeitarse/arreglarse la cara
+修鞋匠 | TRADUÇÃO: zapatero remendón
+修音 | TRADUÇÃO: afinación (ajuste del timbre y sonido de órgano u otro instrumento)
+修饰 | TRADUÇÃO: decorar/adornar/pulir (un escrito)/modificar (gramática)
+修饰话 | TRADUÇÃO: modificador (gramática)
+修饰语 | TRADUÇÃO: (gramática) modificador/determinante/adjunto
+修养 | TRADUÇÃO: cultivo personal/desarrollo moral/educación/saber estar
+修齐 | TRADUÇÃO: nivelar; emparejar; recortar
+俯仰 | TRADUÇÃO: bajar y levantar la cabeza/(fig.) pequeño movimiento/cabeceo (ángulo de inclinación)
+俯仰之间 | TRADUÇÃO: en un abrir y cerrar de ojos/en un instante
+俯仰无愧 | TRADUÇÃO: tener la conciencia tranquila
+俯伏 | TRADUÇÃO: postrarse/echarse rostro a tierra
+俯就 | TRADUÇÃO: dignarse/condescender/ceder a (súplicas)/(cortés) dignarse a aceptar (un cargo)
+俯拾即是 | TRADUÇÃO: véase 俯拾皆是
+俯拾皆是 | TRADUÇÃO: lit. tan abundantes que bastaría agacharse para recogerlos (modismo)/fig. extremada y ampliamente común; fácil de encontrar
+俯看 | TRADUÇÃO: mirar hacia abajo
+俯瞰 | TRADUÇÃO: contemplar desde lo alto/mirar hacia abajo (desde un lugar elevado)
+俯瞰图 | TRADUÇÃO: vista de pájaro/vista panorámica aérea
+俯瞰摄影 | TRADUÇÃO: toma desde grúa/plano cenital (fotografía)
+俯卧 | TRADUÇÃO: yacer boca abajo/estar tumbado boca abajo
+俯卧撑 | TRADUÇÃO: flexiones de brazos/lagartijas (ejercicio)
+俯冲 | TRADUÇÃO: lanzarse en picado/descender velozmente
+俯视 | TRADUÇÃO: mirar desde arriba/dominar con la mirada
+俯角 | TRADUÇÃO: (matemáticas) ángulo de depresión
+俯身 | TRADUÇÃO: inclinarse/agacharse
+俯首 | TRADUÇÃO: inclinar la cabeza
+俯首帖耳 | TRADUÇÃO: agachar la cabeza y plegar las orejas (modismo); dócil y obediente/a las órdenes de alguien
+俯首称臣 | TRADUÇÃO: inclinarse ante alguien (modismo)/capitular/someterse
+俱 | TRADUÇÃO: (literario) todos; ambos; enteramente; sin excepción/(literario) estar juntos/(literario) ser iguales
+俱佳 | TRADUÇÃO: excelente/maravilloso
+俱全 | TRADUÇÃO: poseer todos los elementos mencionados (características, cualidades, artículos, etc.)
+俱乐部 | TRADUÇÃO: club (la organización o sus instalaciones)
+俱舍宗 | TRADUÇÃO: escuela Kusha-shū (escuela del budismo japonés)
+效 | TRADUÇÃO: variante de 傚|效 ‖ imitar (variante de 效) ‖ variante de 效 ‖ efecto/eficacia/imitar
+俳 | TRADUÇÃO: (literario) representación cómica; burla
+俳佪 | TRADUÇÃO: variante de 徘徊
+俳优 | TRADUÇÃO: (histórico) comediante; bufón de la corte
+俳句 | TRADUÇÃO: haiku (forma poética japonesa)
+俳谐 | TRADUÇÃO: (literario) humorístico; jocoso
+俴 | TRADUÇÃO: corto/superficial/placa delgada
+俵 | TRADUÇÃO: (literario) distribuir/pronuncia en Taiwán [biao3]
+俶 | TRADUÇÃO: comenzar/iniciar
+俷 | TRADUÇÃO: (literario) violar (un código moral)
+俸 | TRADUÇÃO: sueldo; salario; asignación
+俸恤 | TRADUÇÃO: paga y pensión
+俸禄 | TRADUÇÃO: salario de un oficial o funcionario (en tiempos feudales)
+俸给 | TRADUÇÃO: paga/salario
+俸银 | TRADUÇÃO: salario oficial (en plata)
+俸钱 | TRADUÇÃO: salario/paga
+俺 | TRADUÇÃO: yo (dialectos del norte de China)
+备 | TRADUÇÃO: variante de 備|备 ‖ preparar; equipar/(literario) completamente; plenamente
+俾 | TRADUÇÃO: hacer/permitir/fonético bi/pronuncia en Taiwán [bi4]
+俾使 | TRADUÇÃO: a fin de que/para que/con el fin de hacer algo
+俾倪 | TRADUÇÃO: parapeto/mirar de reojo
+俾利 | TRADUÇÃO: facilitar/hacer más fácil
+俾夜作昼 | TRADUÇÃO: lit. convertir la noche en día (modismo); fig. quemarse las pestañas/trabajar hasta altas horas de la noche
+俾斯麦 | TRADUÇÃO: Bismarck (nombre)/Otto von Bismarck (1815-1898), político prusiano, canciller de Alemania
+俾昼作夜 | TRADUÇÃO: convertir el día en noche (modismo); fig. prolongar la juerga o el placer sin importar la hora
+俾格米 | TRADUÇÃO: pigmeo
+俾路支 | TRADUÇÃO: baluchi (grupo étnico de Irán, Pakistán y Afganistán)
+俾路支省 | TRADUÇÃO: provincia de Baluchistán (Pakistán)
+伥 | TRADUÇÃO: fantasma de alguien devorado por un tigre que ayuda al tigre a devorar a otros
+伥鬼 | TRADUÇÃO: fantasma del devorado por el tigre que sirve de cómplice al tigre
+倂 | TRADUÇÃO: variante de 併|并
+倃 | TRADUÇÃO: difamar/calumniar
+倅 | TRADUÇÃO: auxiliar/secundario/de repuesto/vice-
+俩 | TRADUÇÃO: dos (equivalente coloquial de 兩個|两个)/ambos/unos pocos ‖ usado en 伎倆|伎俩
+俩钱 | TRADUÇÃO: unos pocos centavos/una pequeña cantidad de dinero
+俩钱儿 | TRADUÇÃO: variante erhua de 倆錢|俩钱
+仓 | TRADUÇÃO: granero/almacén/depósito/cabina/bodega (de barco)
+仓位 | TRADUÇÃO: (logística) ubicación de almacenamiento/(finanzas) posición
+仓促 | TRADUÇÃO: apresurado/precipitado/de repente
+仓储 | TRADUÇÃO: almacenar en almacén/almacenamiento
+仓卒 | TRADUÇÃO: variante de 倉促|仓促
+仓山 | TRADUÇÃO: véase 倉山區|仓山区
+仓山区 | TRADUÇÃO: Cangshan, distrito de la ciudad de Fuzhou 福州市, Fujian
+仓庚 | TRADUÇÃO: oropéndola de nuca negra (Oriolus chinensis)
+仓库 | TRADUÇÃO: almacén/depósito
+仓廪 | TRADUÇÃO: (literario) granero/almacén de grano
+仓惶 | TRADUÇÃO: variante de 倉皇|仓皇
+仓敷 | TRADUÇÃO: Kurashiki (ciudad en Japón)
+仓猝 | TRADUÇÃO: variante de 倉促|仓促
+仓皇 | TRADUÇÃO: preso de pánico/consternado/desconcertado
+仓皇出逃 | TRADUÇÃO: huir precipitadamente aterrorizado (modismo)
+仓皇失措 | TRADUÇÃO: turbado/desconcertado/perder la calma por el pánico
+仓颉 | TRADUÇÃO: Cang Jie, legendario escriba del Emperador Amarillo e inventor de la escritura china/(informática) método de entrada Cangjie
+仓黄 | TRADUÇÃO: variante de 倉皇|仓皇
+仓鼠 | TRADUÇÃO: hámster
+个 | TRADUÇÃO: usado en 自個兒|自个儿 ‖ (clasificador general usado antes de sustantivos sin clasificador específico)/individual ‖ variante de 個|个
+个中 | TRADUÇÃO: en ello/dentro de esto
+个中人 | TRADUÇÃO: conocedor de la materia/persona entendida
+个人 | TRADUÇÃO: individuo; persona; (atributivo) personal; propio
+个人主义 | TRADUÇÃO: individualismo
+个人伤害 | TRADUÇÃO: lesiones personales/daño personal
+个人储蓄 | TRADUÇÃO: ahorro personal
+个人崇拜 | TRADUÇÃO: culto a la personalidad
+个人数字助理 | TRADUÇÃO: asistente digital personal (PDA)
+个人赛 | TRADUÇÃO: competición individual/carrera individual
+个人隐私 | TRADUÇÃO: privacidad personal; asuntos privados
+个人电脑 | TRADUÇÃO: ordenador personal/computadora personal; PC
+个位 | TRADUÇÃO: posición de las unidades en el sistema decimal
+个例 | TRADUÇÃO: caso específico/instancia rara
+个个 | TRADUÇÃO: cada uno individualmente; todos y cada uno
+个儿 | TRADUÇÃO: tamaño/estatura/altura
+个别 | TRADUÇÃO: individualmente; uno a uno/casos aislados; excepcional; raro
+个子 | TRADUÇÃO: estatura; altura; tamaño (de persona u objeto)/(agricultura) haz de tallos de cereales atados
+个展 | TRADUÇÃO: exposición individual
+个性 | TRADUÇÃO: individualidad/personalidad
+个性化 | TRADUÇÃO: personalizar/personalización
+个把 | TRADUÇÃO: (coloq.) aproximadamente uno; alrededor de uno
+个数 | TRADUÇÃO: número de elementos o individuos
+个案 | TRADUÇÃO: caso individual; caso particular
+个税 | TRADUÇÃO: impuesto sobre la renta personal (abr. de 個人所得稅|个人所得税)
+个股 | TRADUÇÃO: acción individual (en una empresa cotizada)
+个旧 | TRADUÇÃO: véase 個舊市|个旧市
+个旧市 | TRADUÇÃO: Gejiu, ciudad a nivel de condado en la prefectura autónoma honghe hani y yi 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+个护 | TRADUÇÃO: cuidado personal (abr. de 個人護理|个人护理)
+个资 | TRADUÇÃO: (Taiwán) datos personales/información personal (abr. de 個人資料|个人资料)
+个顶个 | TRADUÇÃO: (dialecto) todos y cada uno; uno a uno insuperables
+个头 | TRADUÇÃO: tamaño/altura ‖ (coloq.) ¡qué va!; ¡sí, claro! (usado para burlarse de una afirmación)
+个头儿 | TRADUÇÃO: tamaño/altura/estatura
+个体 | TRADUÇÃO: individuo/trabajador autónomo; pequeño comerciante (abr. de 個體戶|个体户)
+个体户 | TRADUÇÃO: trabajador por cuenta propia/negocio privado individual
+个体经济学 | TRADUÇÃO: (Taiwán) microeconomía
+倌 | TRADUÇÃO: pastor o cuidador de ganado/(antiguo) empleado en ciertos oficios
+倍 | TRADUÇÃO: -plemente (doble, triple, etc.)/veces (multiplicador)/duplicar/multiplicar
+倍儿 | TRADUÇÃO: (coloq.) muy; sumamente
+倍儿棒 | TRADUÇÃO: (dialecto) excelente/formidable/súper bueno
+倍增 | TRADUÇÃO: duplicarse/redoblarse/multiplicarse considerablemente
+倍增器 | TRADUÇÃO: multiplicador
+倍感 | TRADUÇÃO: sentir aún más/sentir intensamente (soledad, alegría, etc.)
+倍数 | TRADUÇÃO: múltiplo/multiplicador/factor
+倍率 | TRADUÇÃO: (óptica) aumento/poder de magnificación
+倍足纲 | TRADUÇÃO: Diplopoda (zoología)
+倍足类 | TRADUÇÃO: diplópodos (clase de artrópodos como milpiés)
+倍速 | TRADUÇÃO: velocidad acelerada (reproducción)
+倍频器 | TRADUÇÃO: multiplicador de frecuencia
+倏 | TRADUÇÃO: repentino/súbito/pronuncia en Taiwán [shu4] ‖ variante de 倏 ‖ variante de 倏
+倏地 | TRADUÇÃO: velozmente/de repente
+倏忽 | TRADUÇÃO: (literario) repentinamente/en un instante
+倏然 | TRADUÇÃO: (literario) repentinamente/de improviso
+们 | TRADUÇÃO: marcador de plural para pronombres y sustantivos referidos a personas
+倒 | TRADUÇÃO: caer; colapsar; acostarse/fracasar; quebrar/derrocar/cambiar (transporte)/revender con beneficio ‖ invertir; poner boca abajo o del revés/verter; vaciar; tirar/invertido; al revés/retroceder/al contrario de lo esperado; sin embargo; pero
+倒下 | TRADUÇÃO: colapsar/caer/desplomarse
+倒伏 | TRADUÇÃO: (de cultivos de cereales) encamarse/tumbarse
+倒休 | TRADUÇÃO: cambiar días de descanso, tomar un día laborable libre
+倒位 | TRADUÇÃO: inversión (genética u óptica)
+倒仓 | TRADUÇÃO: trasvasar grano del almacén/cambio de voz (de un cantante de ópera en la pubertad)
+倒像 | TRADUÇÃO: (óptica) imagen invertida
+倒刺 | TRADUÇÃO: lengüeta/barba (de un anzuelo, etc.)/padrastro (en la uña)
+倒反 | TRADUÇÃO: al contrario/en cambio/contrariamente a lo esperado
+倒反天纲 | TRADUÇÃO: violar el orden natural; desafiar las normas sociales
+倒反天罡 | TRADUÇÃO: variante de 倒反天綱|倒反天纲
+倒吊蜡烛 | TRADUÇÃO: Wrightia tinctoria (planta con flores de la familia Apocynaceae)
+倒吸一口凉气 | TRADUÇÃO: dejar escapar un jadeo (de asombro o sobresalto)/sentir un escalofrío
+倒嗓 | TRADUÇÃO: (de cantante) perder la voz/(en cantantes de ópera masculinos) cambio de voz en la pubertad
+倒噍 | TRADUÇÃO: rumiar (de vacas u otros rumiantes)
+倒嚼 | TRADUÇÃO: rumiar (las vacas)
+倒地 | TRADUÇÃO: caer al suelo
+倒坍 | TRADUÇÃO: derrumbarse/colapsar (un edificio)
+倒塌 | TRADUÇÃO: derrumbarse/colapsar (edificios, estructuras)
+倒写 | TRADUÇÃO: escritura en espejo/escritura boca abajo
+倒帐 | TRADUÇÃO: variante de 倒賬|倒账
+倒带 | TRADUÇÃO: rebobinar (reproductor de medios)
+倒序 | TRADUÇÃO: orden inverso/orden invertido
+倒座儿 | TRADUÇÃO: habitación orientada al norte frente a la principal en un siheyuan 四合院
+倒弄 | TRADUÇÃO: mover cosas de sitio/revender con beneficio (despectivo)
+倒彩 | TRADUÇÃO: reacción adversa del público: abucheos, silbidos o aplausos sarcásticos
+倒彩声 | TRADUÇÃO: abucheos/silbidos/mofas
+倒影 | TRADUÇÃO: imagen invertida/reflejo en el agua
+倒悬 | TRADUÇÃO: lit. colgar boca abajo/fig. en situación desesperada o angustiosa
+倒悬之危 | TRADUÇÃO: lit. el peligro de estar colgado boca abajo (modismo); fig. situación sumamente crítica/grave peligro
+倒悬之急 | TRADUÇÃO: lit. la urgencia de estar colgado boca abajo (modismo); fig. situación sumamente crítica
+倒悬之苦 | TRADUÇÃO: lit. el sufrimiento de estar colgado boca abajo (modismo); fig. gran sufrimiento/situación angustiosa
+倒戈 | TRADUÇÃO: cambiar de bando en la guerra/traicionar
+倒戈卸甲 | TRADUÇÃO: deponer las armas y rendirse
+倒扁 | TRADUÇÃO: movimiento político en Taiwán para exigir la dimisión del presidente Chen Shui-bian 陳水扁|陈水扁 en 2006 por acusaciones de corrupción
+倒手 | TRADUÇÃO: pasar de una mano a otra/cambiar de manos (una mercancía)
+倒打一耙 | TRADUÇÃO: lit. golpear con el rastrillo (modismo), referencia a Zhu Bajie 豬八戒|猪八戒 en Viaje al Oeste 西遊記|西游记; fig. contraatacar acentuando falsas acusaciones (contra la víctima)
+倒把 | TRADUÇÃO: especular (en mercados financieros)/hacer estafas financieras
+倒抽一口气 | TRADUÇÃO: dar un ahogo/boquear (de sorpresa, espanto, etc.)
+倒持太阿 | TRADUÇÃO: variante de 倒持泰阿
+倒持泰阿 | TRADUÇÃO: lit. entregar la empuñadura de la espada a otro (modismo); fig. ceder el poder a otro; ponerse a merced de otro
+倒挂 | TRADUÇÃO: lit. colgar boca abajo/fig. estar invertido (como cuando el coste supera al precio de venta)/deber más de lo que se puede pagar
+倒插门 | TRADUÇÃO: (del marido) casarse e irse a vivir con la familia de la esposa (invirtiendo la costumbre tradicional china)
+倒换 | TRADUÇÃO: turnarse/rotar (responsabilidades)
+倒放 | TRADUÇÃO: colocar boca abajo/reproducir (un vídeo) al revés
+倒败 | TRADUÇÃO: derrumbarse (un edificio)/arruinarse
+倒叙 | TRADUÇÃO: comenzar la narración por el final (o mitad) y luego relatar desde el principio/analepsis/flashback (en novela, película, etc.)
+倒数 | TRADUÇÃO: contar hacia atrás (de 10 a 0)/cuenta atrás/desde el final (líneas de una página o filas de asientos) ‖ número inverso/recíproco (matemáticas)
+倒毙 | TRADUÇÃO: caer muerto
+倒映 | TRADUÇÃO: reflejarse (produciendo una imagen invertida)
+倒春寒 | TRADUÇÃO: ola de frío en primavera
+倒是 | TRADUÇÃO: al contrario de lo que se podría esperar/en realidad/por el contrario/por qué no...
+倒时差 | TRADUÇÃO: adaptarse al desfase horario/superar el jet lag
+倒替 | TRADUÇÃO: turnarse/reemplazar
+倒木 | TRADUÇÃO: árbol caído
+倒果为因 | TRADUÇÃO: invertir causa y efecto/empezar la casa por el tejado
+倒栽葱 | TRADUÇÃO: caer de cabeza/(fig.) sufrir un fracaso ignominioso
+倒楣 | TRADUÇÃO: variante de 倒霉
+倒槽 | TRADUÇÃO: peste o mortandad (del ganado)
+倒流 | TRADUÇÃO: fluir hacia atrás/flujo inverso
+倒海翻江 | TRADUÇÃO: véase 翻江倒海
+倒灌 | TRADUÇÃO: fluir en sentido contrario (agua por marea, viento, etc.)/reflujo/retorno de aguas residuales
+倒灶 | TRADUÇÃO: caer (del poder)/en decadencia/desdichado
+倒烟 | TRADUÇÃO: rebufar el humo de la chimenea (por obstrucción)
+倒爷 | TRADUÇÃO: (coloq.) especulador/revendedor/trastrapante
+倒片 | TRADUÇÃO: (cine) rebobinar (un rollo de película)/(fotografía) rebobinar (un carrete)
+倒班 | TRADUÇÃO: cambiar de turno/trabajar a turnos
+倒相 | TRADUÇÃO: inversión de fase
+倒睫 | TRADUÇÃO: triquiasis (pestañas encarnadas)
+倒空 | TRADUÇÃO: vaciar (una bolsa)/dar la vuelta
+倒立 | TRADUÇÃO: hacer el pino/poner boca abajo/hacer la vertical/invertido
+倒立像 | TRADUÇÃO: imagen invertida
+倒粪 | TRADUÇÃO: remover el estiércol/fig. ofender a otros repitiendo sin cesar comentarios desagradables
+倒置 | TRADUÇÃO: invertir/poner del revés
+倒胃口 | TRADUÇÃO: quitar el apetito/fig. estar harto de algo/dar náuseas
+倒背如流 | TRADUÇÃO: saberse de memoria (tan bien que se puede recitar del revés)
+倒背手 | TRADUÇÃO: con las manos a la espalda
+倒背手儿 | TRADUÇÃO: variante erhua de 倒背手
+倒卧 | TRADUÇÃO: tumbarse/caer muerto
+倒台 | TRADUÇÃO: caer del poder; colapsar/caída
+倒苦水 | TRADUÇÃO: desahogarse/verter las amarguras
+倒茬 | TRADUÇÃO: rotación de cultivos
+倒着 | TRADUÇÃO: hacia atrás; al revés; boca abajo
+倒蛋 | TRADUÇÃO: travesura/causar problemas
+倒血霉 | TRADUÇÃO: tener muy mala suerte (forma más intensa de 倒霉)
+倒行逆施 | TRADUÇÃO: ir contra la corriente (modismo); actuar con perversidad/intentar hacer retroceder la historia/forma perversa de actuar
+倒装 | TRADUÇÃO: (lingüística) invertir (el orden de las palabras)/hipérbaton
+倒装句 | TRADUÇÃO: (lingüística) oración invertida/oración con hipérbaton
+倒角 | TRADUÇÃO: chaflán; bisel
+倒计时 | TRADUÇÃO: contar hacia atrás/cuenta atrás
+倒买倒卖 | TRADUÇÃO: comprar y vender con fines especulativos/especular
+倒贴 | TRADUÇÃO: perder dinero en vez de cobrar (es decir, en lugar de recibir pago, uno acaba pagando)
+倒赔 | TRADUÇÃO: sufrir pérdidas en un negocio
+倒卖 | TRADUÇÃO: revender con beneficio/especular
+倒账 | TRADUÇÃO: deuda incobrable/impago/evadir una deuda
+倒车 | TRADUÇÃO: cambiar de autobús, tren, etc. ‖ dar marcha atrás (un vehículo)/conducir hacia atrás
+倒车挡 | TRADUÇÃO: marcha atrás (mecanismo)
+倒转 | TRADUÇÃO: dar media vuelta; invertir la dirección, política o secuencia ‖ (del tiempo o de un vídeo) correr al revés/pronuncia en Taiwán [dao4zhuan3]
+倒退 | TRADUÇÃO: retroceder/ir hacia atrás
+倒逼 | TRADUÇÃO: (neologismo c. 2006) (de las circunstancias) forzar o impulsar (un cambio, reforma o innovación)
+倒运 | TRADUÇÃO: tener mala suerte
+倒过儿 | TRADUÇÃO: al revés (de atrás adelante, de dentro afuera, etc.)
+倒采 | TRADUÇÃO: variante de 倒彩
+倒钩 | TRADUÇÃO: lengüeta/anzuelo con barba/(fútbol) chilena; remate de chilena
+倒锁 | TRADUÇÃO: cerrado por fuera (quedarse encerrado por dentro)
+倒闭 | TRADUÇÃO: quebrar/cerrar un negocio
+倒开 | TRADUÇÃO: dar marcha atrás a un vehículo/conducir marcha atrás
+倒阳 | TRADUÇÃO: (medicina) sufrir impotencia
+倒霉 | TRADUÇÃO: tener mala suerte/estar desdichado
+倒霉蛋 | TRADUÇÃO: (coloq.) un pobretón/desdichado/mala pata
+倒霉蛋儿 | TRADUÇÃO: variante erhua de 倒霉蛋
+倒头 | TRADUÇÃO: acostarse/morir
+倒腾 | TRADUÇÃO: mover de sitio/cambiar/comprar y vender/vender al por menor
+倓 | TRADUÇÃO: tranquilo/pacífico
+倔 | TRADUÇÃO: usado en 倔強|倔强 ‖ brusco; arisco
+倔强 | TRADUÇÃO: obstinado; terco; inflexible
+倔头 | TRADUÇÃO: persona arisca e irascible
+幸 | TRADUÇÃO: favorecido/íntimo/(del emperador) visitar/variante de 幸 ‖ apellido Xing ‖ afortunado/dichoso
+幸免 | TRADUÇÃO: salvarse de/escapar a (un destino desagradable)
+幸存 | TRADUÇÃO: sobrevivir (a un desastre)
+幸存者 | TRADUÇÃO: superviviente
+倘 | TRADUÇÃO: usado en 倘佯 ‖ si; en caso de que
+倘佯 | TRADUÇÃO: variante de 徜徉
+倘如 | TRADUÇÃO: si/en caso de que
+倘或 | TRADUÇÃO: si; suponiendo que
+倘然 | TRADUÇÃO: si; suponiendo que/tranquilamente
+倘能如此 | TRADUÇÃO: si esto fuera posible/si se pudiera hacer así
+倘若 | TRADUÇÃO: si; en el caso de que
+候 | TRADUÇÃO: esperar/preguntar por la salud/observar/estación/clima/(antiguo) período de cinco días
+候乘 | TRADUÇÃO: esperar un tren o autobús
+候任 | TRADUÇÃO: electo/designado (elegido o nombrado pero aún no posesionado)
+候命 | TRADUÇÃO: esperar órdenes; estar de guardia
+候场 | TRADUÇÃO: (de actor, deportista, etc.) prepararse para salir a escena/esperar entre bastidores
+候审 | TRADUÇÃO: a la espera de juicio
+候机厅 | TRADUÇÃO: sala de espera del aeropuerto
+候机楼 | TRADUÇÃO: terminal de aeropuerto
+候缺 | TRADUÇÃO: a la espera de una vacante
+候虫 | TRADUÇÃO: insecto de temporada (p. ej. cigarra)
+候补 | TRADUÇÃO: esperar para ocupar una vacante/reserva (candidato)/suplente
+候补名单 | TRADUÇÃO: lista de espera
+候诊 | TRADUÇÃO: esperar a ser atendido por el médico
+候诊室 | TRADUÇÃO: sala de espera (en clínica u hospital)
+候车 | TRADUÇÃO: esperar un tren o autobús
+候车亭 | TRADUÇÃO: marquesina de autobús/parada de autobús
+候车室 | TRADUÇÃO: sala de espera (para trenes, autobuses, etc.)
+候选 | TRADUÇÃO: candidato (atributivo)
+候选人 | TRADUÇÃO: candidato/CL:名
+候风地动仪 | TRADUÇÃO: el primer sismógrafo del mundo, inventado por Zhang Heng 張衡|张衡 en el 132 d. C.
+候驾 | TRADUÇÃO: aguardar su presencia (fórmula de cortesía)
+候鸟 | TRADUÇÃO: ave migratoria
+倚 | TRADUÇÃO: apoyarse en/confiar en
+倚仗 | TRADUÇÃO: apoyarse en/valerse de/contar con
+倚天屠龙记 | TRADUÇÃO: El sable de la gloria y la espada celestial, novela wuxia (武俠|武侠, artes marciales) de Jin Yong 金庸 y sus adaptaciones
+倚托 | TRADUÇÃO: apoyarse en ‖ variante de 倚托
+倚老卖老 | TRADUÇÃO: (modismo) presumir de antigüedad; valerse de la edad o experiencia para dominar o menospreciar a otros
+倚赖 | TRADUÇÃO: depender de/apoyarse en
+倚重 | TRADUÇÃO: confiar enormemente en/dar gran peso o apoyo a
+倚靠 | TRADUÇÃO: apoyarse en/reclinarse sobre/respaldo de una silla
+倜 | TRADUÇÃO: usado en 倜儻|倜傥
+倜傥 | TRADUÇÃO: (literario) (de un hombre) apuesto, elegante y de espíritu libre
+倝 | TRADUÇÃO: amanecer (arcaico)
+倞 | TRADUÇÃO: fuerte/poderoso ‖ distante/buscar/variante antigua de 亮/brillante
+借 | TRADUÇÃO: pedir prestado/(usado en combinación con 給|给 o 出 etc.) prestar/valerse de; aprovechar/(a veces seguido de 著|着) mediante; con ‖ variante de 借
+借一步 | TRADUÇÃO: ¿podría hablar un momento a solas con usted?
+借代 | TRADUÇÃO: metonimia
+借以 | TRADUÇÃO: para/con el fin de/con el propósito de
+借位 | TRADUÇÃO: en aritmética de restas, pedir prestado 10 del siguiente dígito
+借住 | TRADUÇÃO: alojarse temporalmente/hospedarse en casa ajena
+借债 | TRADUÇÃO: pedir dinero prestado/contraer una deuda
+借债人 | TRADUÇÃO: deudor/prestatario
+借光 | TRADUÇÃO: perdón (para abrirse paso)/aprovechar la fama o prestigio de otro
+借入方 | TRADUÇÃO: prestatario/debe (lado del saldo en contabilidad)
+借出 | TRADUÇÃO: prestar
+借刀杀人 | TRADUÇÃO: pedir prestada la cuchilla para matar a alguien (modismo); hacer que otro haga el trabajo sucio
+借助 | TRADUÇÃO: valerse de/con la ayuda de/recurrir a
+借势 | TRADUÇÃO: valerse de la autoridad de otro/aprovechar una oportunidad
+借取 | TRADUÇÃO: tomar prestado
+借口 | TRADUÇÃO: usar como excusa/pretexto; excusa
+借古喻今 | TRADUÇÃO: utilizar el pasado como metáfora o lección para el presente
+借古讽今 | TRADUÇÃO: usar el pasado para criticar el presente (modismo)
+借命 | TRADUÇÃO: sobrevivir penosamente/llevar una vida sin sentido
+借问 | TRADUÇÃO: (honorífico) ¿puedo preguntar?
+借单 | TRADUÇÃO: recibo de préstamo/pagaré/reconocimiento de deuda
+借单儿 | TRADUÇÃO: variante erhua de 借單|借单
+借喻 | TRADUÇÃO: usar algo como metáfora
+借契 | TRADUÇÃO: contrato de préstamo
+借字 | TRADUÇÃO: véase 通假字
+借字儿 | TRADUÇÃO: pagaré/recibo de préstamo
+借宿 | TRADUÇÃO: pedir alojamiento/hospedarse temporalmente en casa ajena
+借尸还魂 | TRADUÇÃO: lit. reencarnarse en el cuerpo de otro (modismo); fig. idea desacreditada que reaparece bajo otra apariencia
+借指 | TRADUÇÃO: referirse a/aludir a mediante metáfora
+借据 | TRADUÇÃO: pagaré/recibo de préstamo
+借支 | TRADUÇÃO: solicitar un anticipo de sueldo
+借故 | TRADUÇÃO: buscar una excusa/pretextar
+借方 | TRADUÇÃO: deudor/debe (lado del saldo en contabilidad)
+借方差额 | TRADUÇÃO: saldo deudor (contabilidad)
+借书单 | TRADUÇÃO: ficha de préstamo de libros
+借书证 | TRADUÇÃO: carné de biblioteca
+借东风 | TRADUÇÃO: lit. aprovechar el viento del este (modismo); fig. valerse de la ayuda de alguien
+借条 | TRADUÇÃO: recibo de préstamo/pagaré
+借机 | TRADUÇÃO: aprovechar la oportunidad
+借款 | TRADUÇÃO: prestar dinero/pedir prestado dinero/préstamo
+借款人 | TRADUÇÃO: prestatario
+借壳 | TRADUÇÃO: (finanzas) adquirir una empresa cascarón para cotizar en bolsa
+借火 | TRADUÇÃO: pedir fuego (para un cigarrillo)
+借用 | TRADUÇÃO: tomar prestado algo para otro uso/apropiarse de una idea
+借端 | TRADUÇÃO: usar como pretexto
+借箸 | TRADUÇÃO: lit. pedir prestados los palillos/hacer plans en lugar de otro
+借给 | TRADUÇÃO: prestar a alguien
+借腹生子 | TRADUÇÃO: maternidad subrogada/vientre de alquiler
+借花献佛 | TRADUÇÃO: lit. ofrecer al Buda flores prestadas (modismo); fig. agasajar a alguien usando bienes ajenos
+借记 | TRADUÇÃO: debitar/cargar en cuenta
+借记卡 | TRADUÇÃO: tarjeta de débito
+借词 | TRADUÇÃO: préstamo lingüístico/pretexto
+借调 | TRADUÇÃO: trasladar temporalmente (personal)
+借译 | TRADUÇÃO: calco lingüístico/calcar
+借译词 | TRADUÇÃO: calco semántico o léxico
+借读 | TRADUÇÃO: estudiar temporalmente en un colegio como alumno oyente o huésped
+借贷 | TRADUÇÃO: pedir prestado o prestar dinero/debe y haber en contabilidad
+借账 | TRADUÇÃO: pedir prestado dinero/tomar un préstamo
+借过 | TRADUÇÃO: disculpe (permítame pasar)
+借酒浇愁 | TRADUÇÃO: ahogar las penas en alcohol (modismo)
+借重 | TRADUÇÃO: apoyarse en alguien para obtener su ayuda o respaldo
+借钱 | TRADUÇÃO: pedir dinero prestado; prestar dinero
+借镜 | TRADUÇÃO: (Taiwán) tomar como referencia/aprender de la experiencia ajena/lección que aprender
+借鉴 | TRADUÇÃO: tomar como referencia/aprender de la experiencia ajena/lección que extraer de algo
+借阅 | TRADUÇÃO: tomar prestado para leer
+借题发挥 | TRADUÇÃO: aprovechar el tema actual para introducir las propias ideas/usar algo como pretexto para hacer un drama
+倡 | TRADUÇÃO: iniciar/instigar/promover/liderar
+倡始 | TRADUÇÃO: iniciar/promover primeramente
+倡导 | TRADUÇÃO: promover/propugnar/proponer/ser defensor de (una idea)
+倡导者 | TRADUÇÃO: defensor/promotor/pionero
+倡狂 | TRADUÇÃO: variante de 猖狂
+倡言 | TRADUÇÃO: proponer/lanzar una propuesta/iniciar un debate
+倡言者 | TRADUÇÃO: proponente/propositor
+倡议 | TRADUÇÃO: proponer/iniciar/propuesta/iniciativa
+倡议书 | TRADUÇÃO: propuesta escrita; documento de iniciativa
+倢 | TRADUÇÃO: apuesto/hermoso
+値 | TRADUÇÃO: variante de 值
+倥 | TRADUÇÃO: ignorante/con la mente en blanco ‖ apremiante/urgente
+倥侗 | TRADUÇÃO: ignorante/inculto
+倥偬 | TRADUÇÃO: urgente/apremiante/en indigencia
+倦 | TRADUÇÃO: cansado; fatigado ‖ variante antigua de 倦
+倦容 | TRADUÇÃO: rostro fatigado/aspecto cansado
+倦怠 | TRADUÇÃO: agotado/fatigado/desanimado
+倨 | TRADUÇÃO: (literario) altivo; arrogante
+倨傲 | TRADUÇÃO: arrogante/altivo
+倩 | TRADUÇÃO: bonito/atractivo/pedir la ayuda de alguien/yerno (antiguo)
+倩影 | TRADUÇÃO: hermosa figura de una mujer
+倩碧 | TRADUÇÃO: Clinique (marca de cosméticos)
+倩装 | TRADUÇÃO: atuendo hermoso/vestimenta elegante
+倪 | TRADUÇÃO: apellido Ni ‖ (literario) niño pequeño/(literario) límite; extremo/(literario) diferenciar/(literario) origen; causa
+倪匡 | TRADUÇÃO: Ni Kuang (1935-2022), novelista y guionista chino
+倪嗣冲 | TRADUÇÃO: Ni Sichong (1868-1924), general vinculado a Yuan Shikai 袁世凱|袁世凯
+倪柝声 | TRADUÇÃO: Ni Tuosheng o Watchman Nee (1903-1972), influyente líder cristiano chino
+倪桂珍 | TRADUÇÃO: Ni Guizhen o Ni Kwei-Tseng (1869-1931), madre de las hermanas Soong (Song Ailing 宋藹齡|宋蔼龄, Song Qingling 宋慶齡|宋庆龄 y Song Meiling 宋美齡|宋美龄)
+伦 | TRADUÇÃO: relaciones humanas/orden/coherencia
+伦巴 | TRADUÇÃO: rumba (baile)
+伦常 | TRADUÇÃO: relaciones humanas morales fundamentales
+伦敦 | TRADUÇÃO: Londres, capital del Reino Unido
+伦敦国际金融期货交易所 | TRADUÇÃO: Mercado Internacional de Futuros y Opciones Financieras de Londres (LIFFE)
+伦敦大学亚非学院 | TRADUÇÃO: Escuela de Estudios Orientales y Africanos de la Universidad de Londres (SOAS)
+伦敦大学学院 | TRADUÇÃO: University College de Londres (UCL)
+伦敦证券交易所 | TRADUÇÃO: Bolsa de Valores de Londres (LSE)
+伦理 | TRADUÇÃO: ética/moral
+伦理学 | TRADUÇÃO: ética (disciplina filosófica)
+伦理观 | TRADUÇÃO: perspectiva ética/visión moral
+伦琴 | TRADUÇÃO: Wilhelm Conrad Röntgen (1845-1923), físico alemán, descubridor de los rayos X
+伦琴射线 | TRADUÇÃO: rayos X/rayos Röntgen
+倬 | TRADUÇÃO: notable/grande/claro/distinto/pronuncia en Taiwán [zhuo2]
+倭 | TRADUÇÃO: enano/japonés (despectivo antiguo)
+倭人 | TRADUÇÃO: enano/(antiguo, despectivo) japonés
+倭寇 | TRADUÇÃO: piratas japoneses (siglos XVI y XVII)
+倭瓜 | TRADUÇÃO: (dialecto) calabaza
+倭军 | TRADUÇÃO: ejército japonés (despectivo antiguo)
+倭马亚王朝 | TRADUÇÃO: Califato Omeya (661-750, en Al-Ándalus hasta 1031)
+倭黑猩猩 | TRADUÇÃO: bonobo/chimpancé pigmeo
+倮 | TRADUÇÃO: variante de 裸
+倵 | TRADUÇÃO: (usado en nombres propios)
+倶 | TRADUÇÃO: variante de 俱/variante de 具
+倷 | TRADUÇÃO: tú (dialectal)
+睬 | TRADUÇÃO: variante de 睬 ‖ prestar atención/hacer caso/preocuparse por
+倻 | TRADUÇÃO: (transcripción fonética "ya" en nombres coreanos)
+值 | TRADUÇÃO: valor/valer/coincidir con/estar de guardia
+值勤 | TRADUÇÃO: variante de 執勤|执勤
+值域 | TRADUÇÃO: rango o imagen de una función (matemáticas)
+值夜 | TRADUÇÃO: de guardia nocturna
+值守 | TRADUÇÃO: (de vigilantes) estar de servicio vigilando/estar de guardia
+值宿 | TRADUÇÃO: de guardia nocturna
+值得 | TRADUÇÃO: valer la pena/merecer; ser digno de (hacer algo)
+值得一提 | TRADUÇÃO: valer la pena mencionar/digno de mención
+值日 | TRADUÇÃO: estar de servicio el día indicado
+值日生 | TRADUÇÃO: estudiante de turno/estudiante de guardia
+值星 | TRADUÇÃO: (de oficiales militares) estar de servicio durante la semana
+值机 | TRADUÇÃO: hacer el facturado/hacer el check-in (de un vuelo)
+值此 | TRADUÇÃO: con motivo de este/en este momento en que...
+值班 | TRADUÇÃO: estar de guardia/trabajar en un turno
+值当 | TRADUÇÃO: (coloq.) valer la pena; ser conveniente
+值遇 | TRADUÇÃO: encontrarse con/toparse con
+值钱 | TRADUÇÃO: valioso/costoso/caro
+倽 | TRADUÇÃO: variante antigua de 啥
+偁 | TRADUÇÃO: variante de 稱|称
+偃 | TRADUÇÃO: apellido Yan ‖ yacer boca arriba/cesar/caer
+偃师 | TRADUÇÃO: véase 偃師區|偃师区
+偃师区 | TRADUÇÃO: Yanshi, distrito de la ciudad de Luoyang 洛陽市|洛阳市, Henan
+偃息 | TRADUÇÃO: (literario) descansar/(literario) cesar
+偃旗息鼓 | TRADUÇÃO: lit. arriar las banderas y acallar los tambores (modismo); fig. cesar la lucha/rendirse/abandonar una acción
+假 | TRADUÇÃO: usado en 假掰 ‖ falso/ficticio/artificial/pedir prestado/si/suponiendo ‖ vacaciones ‖ variante de 假/pedir prestado
+假一赔十 | TRADUÇÃO: lit. si uno es falso, compensaré con diez/fig. (de bienes) 100% auténtico
+假人 | TRADUÇÃO: maniquí/muñeco de pruebas (para ensayos de choque, etc.)
+假人像 | TRADUÇÃO: efigie/muñeco
+假仁假义 | TRADUÇÃO: hipocresía/falsa bondad y rectitud
+假仙 | TRADUÇÃO: (Taiwán) fingir; poner una falsa fachada (del taiwanés 假仙, ké-sian)
+假令 | TRADUÇÃO: si/suponiendo que/magistrado de condado interino
+假作 | TRADUÇÃO: fingir/simular
+假使 | TRADUÇÃO: si/en caso de que/suponiendo que
+假借 | TRADUÇÃO: valerse de/usar como pretexto/bajo falsas apariencias/enmascarado como/tolerante/carácter prestado (uno de los seis métodos de formación de caracteres chinos 六書|六书)
+假借字 | TRADUÇÃO: carácter prestado fonéticamente (uno de los seis métodos de formación de caracteres chinos 六書|六书)
+假借义 | TRADUÇÃO: significado adquirido por un carácter prestado fonéticamente 假借字 (p. ej. 而 significaba originalmente "barba" pero adquirió el significado de "y")
+假充 | TRADUÇÃO: hacerse pasar por/fingir ser algo/impostura
+假公济私 | TRADUÇÃO: abusar del cargo público para intereses privados (modismo); lograr fines personales abusando de la posición oficial
+假冒 | TRADUÇÃO: suplantar la identidad/hacerse pasar por/falsificar/hacer pasar algo falso por auténtico
+假冒伪劣 | TRADUÇÃO: falsificación de baja calidad/productos falsificados y defectuosos
+假冒品 | TRADUÇÃO: objeto falsificado/imitación/falsificación
+假分数 | TRADUÇÃO: fracción impropia (con numerador ≥ denominador)/véase también: fracción propia 真分數|真分数 y número mixto 帶分數|带分数
+假别 | TRADUÇÃO: categoría de licencia o permiso (licencia por maternidad, baja médica, etc.)
+假动作 | TRADUÇÃO: finta/amago/movimiento falso (deportes)
+假名 | TRADUÇÃO: seudónimo/nombre falso/alias/los silabarios japoneses kana/hiragana 平假名 y katakana 片假名
+假吏 | TRADUÇÃO: funcionario interino/oficial temporal (en tiempos antiguos)
+假唱 | TRADUÇÃO: hacer playback/sincronía de labios al cantar
+假善人 | TRADUÇÃO: falsa compasión/falsa caridad
+假嗓 | TRADUÇÃO: falsete (en ópera)
+假嗓子 | TRADUÇÃO: falsete (en ópera)
+假报告 | TRADUÇÃO: informe falso/declaración falsificada
+假大空 | TRADUÇÃO: discurso vacío y engañoso/palabras falsas y rimbombantes
+假如 | TRADUÇÃO: si/en caso de que
+假子 | TRADUÇÃO: hijo adoptivo/hijo de un matrimonio anterior
+假定 | TRADUÇÃO: asumir/suponer/supuesto/hipótesis
+假寐 | TRADUÇÃO: descabezar un sueño/dar una cabezadita/sestear
+假小子 | TRADUÇÃO: marimacho/chica chicazo
+假山 | TRADUÇÃO: rocalla/jardín de rocas
+假币 | TRADUÇÃO: moneda falsa/dinero falsificado
+假座 | TRADUÇÃO: usar como sede (p. ej. un restaurante para una fiesta)
+假性 | TRADUÇÃO: seudo-/falso
+假性近视 | TRADUÇÃO: seudomiopía
+假想 | TRADUÇÃO: imaginario/virtual/imaginar/hipótesis
+假想敌 | TRADUÇÃO: enemigo hipotético (en juegos de guerra o estudios estratégicos)
+假惺惺 | TRADUÇÃO: (de una muestra de simpatía) insincero; falso/hipócrita
+假意 | TRADUÇÃO: insinceridad; hipocresía/insinceramente
+假慈悲 | TRADUÇÃO: falsa piedad/caridad fingida/lágrimas de cocodrilo
+假戏真唱 | TRADUÇÃO: la ficción se convierte en realidad/el juego que acaba en serio
+假手 | TRADUÇÃO: recurrir a otra persona para realizar una tarea/mano protésica
+假手他人 | TRADUÇÃO: hacer que otra persona realice la tarea propia
+假手于人 | TRADUÇÃO: (modismo) encargar a otro la tarea propia/hacer las cosas por mano ajena
+假托 | TRADUÇÃO: fingir/usar un pretexto/inventar algo/hacerse pasar por otro ‖ variante de 假托
+假扮 | TRADUÇÃO: disfrazarse de/hacerse pasar por/interpretar el papel de
+假招子 | TRADUÇÃO: darse aires/adoptar una actitud falsa
+假拱 | TRADUÇÃO: arco ciego/falso arco
+假掰 | TRADUÇÃO: (Taiwán) afectado; pretencioso; actuar con teatralidad (del taiwanés, ké-pai)
+假摔 | TRADUÇÃO: (fútbol) simulación/piscinazo/caída fingida
+假日 | TRADUÇÃO: día festivo; día de descanso
+假期 | TRADUÇÃO: vacaciones/período de descanso
+假案 | TRADUÇÃO: caso legal fabricado/montaje judicial
+假条 | TRADUÇÃO: solicitud de permiso de ausencia (del trabajo o escuela)/justificante/CL:張|张
+假正经 | TRADUÇÃO: mojigato/santurrón/hipócrita
+假死 | TRADUÇÃO: muerte aparente/hacerse el muerto/animación suspendida
+假洋鬼子 | TRADUÇÃO: (despectivo) chino acomplejado que imita ciegamente a los extranjeros
+假牙 | TRADUÇÃO: dentadura postiza/diente artificial
+假球 | TRADUÇÃO: amaño de partido/partido amañado
+假眼 | TRADUÇÃO: ojo artificial/ojo de cristal
+假秤 | TRADUÇÃO: báscula trucada
+假种皮 | TRADUÇÃO: arilo (botánica)
+假称 | TRADUÇÃO: afirmar falsamente/afirmar con engaño
+假而 | TRADUÇÃO: si
+假声 | TRADUÇÃO: falsete (cf. 真聲|真声, voz natural)
+假肢 | TRADUÇÃO: prótesis/prótesis de extremidad
+假肯定句 | TRADUÇÃO: falsa afirmativa
+假腿 | TRADUÇÃO: pierna artificial/prótesis de pierna
+假芫茜 | TRADUÇÃO: Eryngium foetidum (cilantro ancho/culantro de monte)
+假若 | TRADUÇÃO: si/en caso de que
+假药 | TRADUÇÃO: medicamentos falsificados
+假装 | TRADUÇÃO: fingir/simular
+假设 | TRADUÇÃO: suponer/presumir/asumir/si/hipótesis/conjetura
+假设性 | TRADUÇÃO: hipotético
+假设语气 | TRADUÇÃO: modo subjuntivo (gramática)
+假话 | TRADUÇÃO: mentira/declaración falsa
+假说 | TRADUÇÃO: hipótesis
+假证 | TRADUÇÃO: falso testimonio/declaración falsa
+假证件 | TRADUÇÃO: documentos falsos/falsificación documental
+假象 | TRADUÇÃO: falsa apariencia/espejismo/fachada engañosa
+假象牙 | TRADUÇÃO: celuloide
+假货 | TRADUÇÃO: mercancía falsificada/falsificación/imitación
+假账 | TRADUÇÃO: contabilidad fraudulenta/libros contables trucados
+假途灭虢 | TRADUÇÃO: lit. pedir paso para destruir Guo (modismo); fig. aliarse con alguien para perjudicar a un tercero y luego atacar al propio aliado
+假造 | TRADUÇÃO: falsificar/fabricar (una historia)
+假道 | TRADUÇÃO: vía/pasando por
+假道伐虢 | TRADUÇÃO: pedir paso libre para conquistar el Estado de Guo/usar los recursos de un aliado para atacar a un enemigo común (modismo)
+假释 | TRADUÇÃO: libertad condicional
+假钞 | TRADUÇÃO: dinero falso/billetes falsificados
+假阴性 | TRADUÇÃO: falso negativo
+假阳性 | TRADUÇÃO: falso positivo
+假面 | TRADUÇÃO: máscara
+假面具 | TRADUÇÃO: máscara/fig. falsa fachada
+假面舞会 | TRADUÇÃO: baile de máscaras/mascarada
+假音 | TRADUÇÃO: falsete (igual que 假聲|假声)
+假体 | TRADUÇÃO: (medicina) prótesis/implante
+假高音 | TRADUÇÃO: falsete (igual que 假聲|假声)
+假发 | TRADUÇÃO: peluca
+偈 | TRADUÇÃO: himno budista/gatha/verso budista ‖ vigoroso/marcial
+伟 | TRADUÇÃO: grande/magnífico/grandioso
+伟人 | TRADUÇÃO: gran personaje/gran hombre
+伟力 | TRADUÇÃO: fuerza poderosa/gran poder
+伟哥 | TRADUÇÃO: Viagra (fármaco para la impotencia masculina)
+伟器 | TRADUÇÃO: gran talento/persona de gran capacidad
+伟士牌 | TRADUÇÃO: Vespa (escúter)
+伟大 | TRADUÇÃO: grandioso; enorme; ilustre; digno de la mayor admiración
+伟岸 | TRADUÇÃO: imponente/erguido y alto/estatura gigantesca
+伟晶岩 | TRADUÇÃO: pegmatita
+伟业 | TRADUÇÃO: gran hazaña/gran empresa
+伟绩 | TRADUÇÃO: grandes logros/hazañas memorables
+伟举 | TRADUÇÃO: gran hazaña/acto magnífico
+伟观 | TRADUÇÃO: vista magnífica/maravilla
+伟丽 | TRADUÇÃO: magnífico/imponente y hermoso
+偌 | TRADUÇÃO: tan/tan grande/hasta tal punto
+偌大 | TRADUÇÃO: tan grande/tan enorme
+偎 | TRADUÇÃO: acurrucarse/estrecharse contra
+偎傍 | TRADUÇÃO: acurrucarse junto a
+偏 | TRADUÇÃO: inclinarse/inclinado/sesgado/desviarse del promedio/tercamente/al contrario de lo esperado
+偏三轮 | TRADUÇÃO: triciclo o motocicleta antigua con sidecar lateral
+偏三轮摩托车 | TRADUÇÃO: motocicleta con sidecar
+偏低 | TRADUÇÃO: estar en el lado bajo/ser escaso o bajo (p. ej. un salario)
+偏倚 | TRADUÇÃO: ser parcial/favorecer a una parte/sesgo
+偏偏 | TRADUÇÃO: desafortunadamente/precisamente/tercamente; en contra de toda lógica
+偏僻 | TRADUÇÃO: remoto/apartado/desierto/alejado de la ciudad
+偏光 | TRADUÇÃO: luz polarizada
+偏光镜 | TRADUÇÃO: filtro polarizador/lentes polarizadas
+偏利共栖 | TRADUÇÃO: (biología) tener una relación de comensalismo con (otro organismo)
+偏利共生 | TRADUÇÃO: (biología) comensalismo
+偏劳 | TRADUÇÃO: molestar a alguien solicitando su ayuda/gracias por haberte molestado en ayudarme
+偏向 | TRADUÇÃO: ser parcial hacia algo/preferir/inclinarse por/tendencias erróneas
+偏执 | TRADUÇÃO: extremo e inflexible; obstinado en una idea/(psicología) paranoide
+偏执型 | TRADUÇÃO: paranoide (psicología)
+偏执狂 | TRADUÇÃO: paranoia/monomanía
+偏压 | TRADUÇÃO: polarización (electrónica)/tensión de polarización
+偏好 | TRADUÇÃO: tener preferencia especial por algo/preferencia
+偏安 | TRADUÇÃO: contentarse con conservar una pequeña parte del territorio/relegado
+偏宕 | TRADUÇÃO: sumamente (terco, desobediente, etc.)
+偏宠 | TRADUÇÃO: favorecer/mostrar favoritismo hacia alguien
+偏将 | TRADUÇÃO: general vicecomandante/subcomandante
+偏巧 | TRADUÇÃO: por casualidad/dio la casualidad de que/para colmo
+偏差 | TRADUÇÃO: desviación/sesgo/desvío
+偏差距离 | TRADUÇÃO: distancia de desviación/desplazamiento
+偏师 | TRADUÇÃO: tropas auxiliares secundarias (arcaico)
+偏厦 | TRADUÇÃO: anexo lateral/cobertizo adosado
+偏废 | TRADUÇÃO: descuidar una cosa por enfatizar otra/énfasis desequilibrado
+偏待 | TRADUÇÃO: tratar con favoritismo en contra de alguien/tratar injustamente
+偏微分 | TRADUÇÃO: (matemáticas) diferencial parcial/derivada parcial
+偏微分方程 | TRADUÇÃO: ecuación en derivadas parciales (EDP)
+偏心 | TRADUÇÃO: parcial/sesgado/excéntrico (geometría)
+偏心率 | TRADUÇÃO: (matemáticas) excentricidad
+偏心眼 | TRADUÇÃO: parcialidad/favoritismo/ser parcial
+偏心矩 | TRADUÇÃO: eje de excentricidad/momento de excentricidad
+偏爱 | TRADUÇÃO: mostrar preferencia por/favorecer/preferir/favorito
+偏态 | TRADUÇÃO: asimetría (estadística)
+偏房 | TRADUÇÃO: habitación lateral/concubina
+偏才 | TRADUÇÃO: talento en un área específica
+偏振 | TRADUÇÃO: polarización (de ondas)
+偏振光 | TRADUÇÃO: luz polarizada
+偏振波 | TRADUÇÃO: onda polarizada
+偏振镜 | TRADUÇÃO: filtro polarizador
+偏斜 | TRADUÇÃO: torcido/inclinado/desviado de la línea recta/deshonesto
+偏方 | TRADUÇÃO: remedio casero/remedio popular
+偏旁 | TRADUÇÃO: componente de un carácter chino (radical o parte fonética)
+偏析 | TRADUÇÃO: segregación (metalurgia)
+偏极 | TRADUÇÃO: (física) polarización
+偏极化 | TRADUÇÃO: polarización/polarizado
+偏极镜 | TRADUÇÃO: lente polarizadora/polarizador
+偏正式合成词 | TRADUÇÃO: palabra compuesta modificadora (donde el primer elemento modifica al segundo)
+偏殿 | TRADUÇÃO: salón lateral del palacio/cámara lateral
+偏激 | TRADUÇÃO: extremo (usualmente de pensamientos, palabras, circunstancias)
+偏狭 | TRADUÇÃO: prejuiciado/de mente estrecha/intolerante
+偏疼 | TRADUÇÃO: favorecer a un menor/mostrar favoritismo hacia algunos jóvenes
+偏瘫 | TRADUÇÃO: hemiplejía/parálisis de un lado del cuerpo
+偏私 | TRADUÇÃO: practicar el favoritismo/ser parcial
+偏科 | TRADUÇÃO: enfatizar excesivamente unas asignaturas en detrimento de otras
+偏移 | TRADUÇÃO: desplazamiento/desviación/offset
+偏置 | TRADUÇÃO: desplazamiento/polarización (electrónica)/tensión de polarización
+偏置电流 | TRADUÇÃO: corriente de polarización (electrónica)
+偏置电阻 | TRADUÇÃO: impedancia de polarización (electrónica)
+偏听偏信 | TRADUÇÃO: escucha selectiva/escuchar solo lo que uno quiere oír/creer a una sola parte
+偏航 | TRADUÇÃO: (de buque o avión) desviarse del rumbo/(aviación) guiñar
+偏航轴 | TRADUÇÃO: (aviación) eje de guiñada
+偏蚀 | TRADUÇÃO: eclipse parcial
+偏袒 | TRADUÇÃO: tomar partido por/favorecer a una parte/mostrar parcialidad
+偏西 | TRADUÇÃO: inclinarse hacia el oeste (el sol por la tarde)
+偏要 | TRADUÇÃO: empeñarse en hacer algo/insistir en hacer algo a toda costa
+偏见 | TRADUÇÃO: prejuicio/sesgo
+偏角 | TRADUÇÃO: ángulo de deriva (navegación)/desviación/ángulo de divergencia
+偏注 | TRADUÇÃO: enfatizar de forma prejuiciada
+偏误 | TRADUÇÃO: sesgo (estadística)
+偏护 | TRADUÇÃO: proteger a un compinche/dar apoyo incondicional injustificado
+偏转 | TRADUÇÃO: deflexión (física)/desviación
+偏转角 | TRADUÇÃO: ángulo de deflexión/ángulo de deriva
+偏辞 | TRADUÇÃO: palabras parciales/prejuicio/lisonja
+偏远 | TRADUÇÃO: remoto/lejos de la civilización
+偏邪不正 | TRADUÇÃO: sesgado y corrupto/prejuiciado e injusto (modismo)
+偏重 | TRADUÇÃO: enfatizar indebidamente/dar prioridad parcial a
+偏锋 | TRADUÇÃO: (caligrafía) técnica en la que el pincel se sostiene inclinado /(fig.) método no ortodoxo o heterodoxo
+偏门 | TRADUÇÃO: puerta lateral/método poco ortodoxo o deshonesto
+偏关 | TRADUÇÃO: véase 偏關縣|偏关县
+偏关县 | TRADUÇÃO: Pianguan, condado en la ciudad de Xinzhou 忻州市, Shanxi
+偏离 | TRADUÇÃO: desviarse/apartarse/aparentar
+偏颇 | TRADUÇÃO: parcial/sesgado
+偏头痛 | TRADUÇÃO: migraña/jaqueca
+偏题 | TRADUÇÃO: salirse del tema/pregunta rebuscada o trampa en un examen (CL:道)
+偏食 | TRADUÇÃO: ser melindroso con la comida/alimentación desequilibrada/eclipse parcial
+偏高 | TRADUÇÃO: estar tirando a alto/estar inusualmente alto
+偏黄 | TRADUÇÃO: amarillento
+偓 | TRADUÇÃO: cohibido/constreñido
+偕 | TRADUÇÃO: en compañía de/junto con
+偕同 | TRADUÇÃO: junto con/acompañado por
+偕老 | TRADUÇÃO: envejecer juntos
+做 | TRADUÇÃO: hacer; producir/escribir; componer/hacer; celebrar (una fiesta, etc.)/(de persona) ser (un intermediario, etc.); convertirse en (esposos, amigos, etc.)/(de objeto) servir de; usarse para/adoptar (una actitud)
+做一天和尚撞一天钟 | TRADUÇÃO: lit. mientras se sea monje un día, repicar la campana ese día (modismo)/fig. hacer el trabajo de forma mecánica/cumplir un papel pasivamente
+做不到 | TRADUÇÃO: inalcanzable/imposible de hacer
+做主 | TRADUÇÃO: variante de 作主
+做事 | TRADUÇÃO: trabajar/manejar asuntos/tener un empleo
+做人 | TRADUÇÃO: comportarse/actuar con integridad
+做人家 | TRADUÇÃO: ahorrativo/económico
+做人情 | TRADUÇÃO: hacer un favor a alguien
+做伴 | TRADUÇÃO: hacer compañía a alguien/acompañar
+做伴儿 | TRADUÇÃO: variante erhua de 做伴
+做作 | TRADUÇÃO: afectado/artificioso/afectado
+做出 | TRADUÇÃO: emitir/producir/realizar
+做到 | TRADUÇÃO: lograr/alcanzar/cumplir
+做功 | TRADUÇÃO: (física) realizar trabajo/(en ópera china) actuación gestual no vocal
+做功夫 | TRADUÇÃO: practicar (habilidades laborales)
+做寿 | TRADUÇÃO: celebrar el cumpleaños (de una persona anciana)
+做梦 | TRADUÇÃO: soñar; tener un sueño; (fig.) hacerse ilusiones
+做大 | TRADUÇÃO: arrogante; darse aires/(negocios, etc.) expandirse; agrandar; hacer las cosas a gran escala
+做好做歹 | TRADUÇÃO: intentar convencer usando todos los argumentos posibles (modismo); hacer de policía bueno y policía malo
+做媒 | TRADUÇÃO: actuar como alcahuete o mediador matrimonial
+做学问 | TRADUÇÃO: dedicarse al estudio académico/realizar investigación académica
+做完 | TRADUÇÃO: terminar/completar una tarea
+做官 | TRADUÇÃO: asumir un cargo oficial/convertirse en funcionario
+做客 | TRADUÇÃO: ser huésped o visitante
+做小 | TRADUÇÃO: ser la concubina de alguien
+做小抄 | TRADUÇÃO: preparar una chuleta (acordeón para trampear)/hacer trampas copiando
+做局 | TRADUÇÃO: tender una trampa; preparar un montaje contra alguien
+做工 | TRADUÇÃO: trabajar con las manos/trabajo manual/hechura
+做工作 | TRADUÇÃO: realizar el trabajo/trabajarse a alguien/intentar convencer a alguien
+做工夫 | TRADUÇÃO: practicar (habilidades laborales)
+做市商 | TRADUÇÃO: creador de mercado (finanzas)
+做帐 | TRADUÇÃO: variante de 做賬|做账
+做厅长 | TRADUÇÃO: (jocoso) dormir en el sofá/dormir en la sala de estar
+做张做势 | TRADUÇÃO: hacer teatro (modismo); fingir/mostrar afectación teatral
+做张做智 | TRADUÇÃO: hacer teatro (modismo); fingir/mostrar afectación teatral
+做张做致 | TRADUÇÃO: véase 做張做智|做张做智
+做爱 | TRADUÇÃO: hacer el amor
+做戏 | TRADUÇÃO: actuar en una obra/montar un teatro
+做手 | TRADUÇÃO: ponerse manos a la obra/manos hábiles/trabajador/escritor
+做手脚 | TRADUÇÃO: manipular deshonestamente; trucar algo
+做掉 | TRADUÇÃO: matar/deshacerse de/(deportes) derrotar/eliminar
+做操 | TRADUÇÃO: hacer ejercicios/hacer gimnasia
+做文章 | TRADUÇÃO: armar un escándalo por algo/hacer una cuestión de algo
+做东 | TRADUÇÃO: hacer de anfitrión
+做法 | TRADUÇÃO: forma de abordar algo/método de elaboración/receta/práctica/CL:個|个
+做活 | TRADUÇÃO: trabajar para ganarse la vida (esp. costureras)/vida de un grupo de piedras en Go 圍棋|围棋
+做活儿 | TRADUÇÃO: variante erhua de 做活
+做派 | TRADUÇÃO: forma de actuar/comportamiento/amaneramiento/gesticulación en la ópera
+做准备工作 | TRADUÇÃO: hacer los preparativos/trabajo preparatorio
+做满月 | TRADUÇÃO: celebrar el primer mes de vida del bebé (a menudo con un banquete)
+做为 | TRADUÇÃO: actuar como/usado erróneamente por 作為|作为
+做牛做马 | TRADUÇÃO: lit. trabajar como un buey o un caballo; fig. trabajar enormemente duro
+做球 | TRADUÇÃO: dar un buen pase a un compañero (con opción de gol)/dejarse ganar
+做生意 | TRADUÇÃO: hacer negocios
+做生日 | TRADUÇÃO: celebrar un cumpleaños

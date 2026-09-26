@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+青筋 | TRADUÇÃO: venas/venas azules/venas marcadas
+青团 | TRADUÇÃO: qingtuan (pastelito verde de arroz glutinoso de Jiangnan, preparado tradicionalmente con artemisa o ajenjo y relleno de pasta dulce de judías, típico de la fiesta de Qingming 清明節|清明节)
+青红帮 | TRADUÇÃO: Banda Verde y Roja (sociedad secreta tradicional china)
+青红皂白 | TRADUÇÃO: lo correcto y lo incorrecto (modismo)/los pros y los contras/el bien y el mal
+青紫 | TRADUÇÃO: cárdeno/violáceo/púrpura
+青丝 | TRADUÇÃO: cabello negro y fino/tiras de ciruela seca (usadas en repostería)
+青绿 | TRADUÇÃO: verde lozano/verde oscuro/turquesa
+青绿山水 | TRADUÇÃO: paisaje en verde y azul (género de pintura de paisaje tradicional chino originado en la dinastía Tang)
+青县 | TRADUÇÃO: condado de Qing o Qingxian, en la ciudad de Cangzhou 滄州市|沧州市, Hebei
+青羊 | TRADUÇÃO: véase 青羊區|青羊区
+青羊区 | TRADUÇÃO: distrito de Qingyang, en la ciudad de Chengdu 成都市, Sichuan
+青翠 | TRADUÇÃO: verde y fresco/exuberante/verdoso
+青肿 | TRADUÇÃO: moretón/cardenal/hematoma
+青脚滨鹬 | TRADUÇÃO: (especie de ave) correlimos de Temminck (Calidris temminckii)
+青脚鹬 | TRADUÇÃO: (especie de ave) archibebe claro (Tringa nebularia)
+青色 | TRADUÇÃO: cian/azul verdoso/verde azulado
+青芥辣 | TRADUÇÃO: rábano picante/wasabi/mostaza verde
+青花 | TRADUÇÃO: azul y blanco (porcelana)
+青花椰菜 | TRADUÇÃO: brócoli
+青花瓷 | TRADUÇÃO: porcelana azul y blanca
+青花菜 | TRADUÇÃO: brócoli
+青苔 | TRADUÇÃO: musgo/líquen
+青荇 | TRADUÇÃO: nenúfar flotante (Nymphoides peltata)
+青草 | TRADUÇÃO: hierba/pasto/césped
+青草茶 | TRADUÇÃO: (Taiwán) té de hierbas tradicional taiwanés (elaborado con hierbas medicinales refrescantes para aliviar el calor interno o el dolor de garganta, con ingredientes como 仙草, 魚腥草|鱼腥草, menta y diente de león)
+青菜 | TRADUÇÃO: verduras de hoja verde/col china
+青葙 | TRADUÇÃO: cresta de gallo plateada (Celosia argentea)
+青葙子 | TRADUÇÃO: semilla de cresta de gallo plateada (Celosia argentea, usada en MTC)
+青蒜 | TRADUÇÃO: brotes verdes de ajo/hojas de ajo tierno
+青蒿素 | TRADUÇÃO: artemisinina/qinghaosu (antipalúdico)
+青葱 | TRADUÇÃO: cebollino/cebolleta verde/verde lozano/exuberante
+青藏 | TRADUÇÃO: Qinghai y Tíbet
+青藏公路 | TRADUÇÃO: Carretera Qinghai-Tíbet
+青藏线 | TRADUÇÃO: ruta Qinghai-Tíbet
+青藏铁路 | TRADUÇÃO: ferrocarril Qinghai-Tíbet
+青藏铁路线 | TRADUÇÃO: línea ferroviaria Qinghai-Tíbet
+青藏高原 | TRADUÇÃO: meseta tibetana/meseta de Qinghai-Tíbet
+青蛙 | TRADUÇÃO: rana (CL:隻|只)/(ant.) (jerga) chico feo
+青虾 | TRADUÇÃO: camarón de río oriental (Macrobrachium nipponense, especie de langostino de agua dulce)
+青衣 | TRADUÇÃO: ropa negra/sirviente (ant.)/papel femenino virtuoso y digno en la ópera china, también llamado 正旦
+青豆 | TRADUÇÃO: soja verde/guisantes verdes/arvejas
+青贮 | TRADUÇÃO: ensilaje/forraje verde
+青酱 | TRADUÇÃO: salsa verde/pesto (término amplio para salsas a base de hierbas verdes)
+青釉 | TRADUÇÃO: celadón (esmalte cerámico tradicional chino)
+青金石 | TRADUÇÃO: lapislázuli
+青铜 | TRADUÇÃO: bronce (aleación de cobre 銅|铜 y estaño 錫|锡)
+青铜器 | TRADUÇÃO: vasija de bronce/artefacto de bronce antiguo (desde aprox. 2000 a. C.)
+青铜器时代 | TRADUÇÃO: Edad del Bronce/también escrito 青銅時代|青铜时代
+青铜峡 | TRADUÇÃO: véase 青銅峽市|青铜峡市
+青铜峡市 | TRADUÇÃO: ciudad de Qingtongxia, ciudad a nivel de condado en la ciudad de Wuzhong 吳忠市|吴忠市, Ningxia
+青阳 | TRADUÇÃO: véase 青陽縣|青阳县
+青阳县 | TRADUÇÃO: condado de Qingyang, en la ciudad de Chizhou 池州市, Anhui
+青云 | TRADUÇÃO: cielo despejado/(fig.) alto cargo oficial/nobleza
+青云直上 | TRADUÇÃO: subir directamente a las nubes (modismo)/ascender meteoricamente a altos cargos/carrera meteórica
+青云谱 | TRADUÇÃO: véase 青雲譜區|青云谱区
+青云谱区 | TRADUÇÃO: distrito de Qingyunpu, en la ciudad de Nanchang 南昌市, Jiangxi
+青靛 | TRADUÇÃO: índigo/añil
+青面獠牙 | TRADUÇÃO: de aspecto feroz y aterrador (modismo)/rostro pálido y colmillos prominentes
+青头潜鸭 | TRADUÇÃO: (especie de ave) porrón de Baer (Aythya baeri)
+青头鹦鹉 | TRADUÇÃO: (especie de ave) cotorra del Himalaya (Psittacula himalayana)
+青马大桥 | TRADUÇÃO: puente Tsing Ma (enlace al aeropuerto de Hong Kong)
+青鱼 | TRADUÇÃO: carpa negra (Mylopharyngodon piceus)/arenque/caballa
+青鲛 | TRADUÇÃO: marrajo/tiburón mako
+青黄 | TRADUÇÃO: amarillo verdoso/pálido y descolorido (tez)
+青黄不接 | TRADUÇÃO: el grano nuevo aún no brota y el viejo se ha terminado (modismo)/escasez temporal de recursos o mano de obra/período de escasez/no llegar a fin de mes
+青黛 | TRADUÇÃO: añil/índigo natural (usado en MTC)
+青霉素 | TRADUÇÃO: (farmacología) penicilina
+青鼬 | TRADUÇÃO: marta de garganta amarilla (Martes flavigula)
+青龙 | TRADUÇÃO: Dragón Azur (uno de los Cuatro Símbolos de las constelaciones chinas, representa el este y la primavera)/véase 青龍滿族自治縣|青龙满族自治县 ‖ (jerga) hombre sin vello púbico/(mahjong) escalera pura (123, 456, 789 del mismo palo)
+青龙满族自治县 | TRADUÇÃO: condado autónomo manchú de Qinglong, en la ciudad de Qinhuangdao 秦皇島市|秦皇岛市, Hebei
+青龙县 | TRADUÇÃO: véase 青龍滿族自治縣|青龙满族自治县
+靖 | TRADUÇÃO: apellido Jing ‖ pacífico/apaciguar/pacificar/suprimir
+靖乱 | TRADUÇÃO: sofocar una rebelión/pacificar una revuelta
+靖国神社 | TRADUÇÃO: Santuario Yasukuni (santuario sintoísta en Tokio para los caídos de guerra japoneses, polémico por honrar a varios criminales de guerra de clase A)
+靖宇 | TRADUÇÃO: véase 靖宇縣|靖宇县
+靖宇县 | TRADUÇÃO: condado de Jingyu, en la ciudad de Baishan 白山市, Jilin
+靖安 | TRADUÇÃO: véase 靖安縣|靖安县
+靖安县 | TRADUÇÃO: condado de Jing'an, en la ciudad de Yichun 宜春市, Jiangxi
+靖州 | TRADUÇÃO: véase 靖州苗族侗族自治縣|靖州苗族侗族自治县
+靖州县 | TRADUÇÃO: véase 靖州苗族侗族自治縣|靖州苗族侗族自治县
+靖州苗族侗族自治县 | TRADUÇÃO: condado autónomo miao y dong de Jingzhou, en la ciudad de Huaihua 懷化市|怀化市, Hunan
+靖江 | TRADUÇÃO: véase 靖江市
+靖江市 | TRADUÇÃO: ciudad de Jingjiang, ciudad a nivel de condado en la ciudad de Taizhou 泰州市, Jiangsu
+靖西 | TRADUÇÃO: véase 靖西市
+靖西市 | TRADUÇÃO: ciudad de Jingxi, ciudad a nivel de condado en la ciudad de Baise 百色市, Guangxi
+靖远 | TRADUÇÃO: véase 靖遠縣|靖远县
+靖远县 | TRADUÇÃO: condado de Jingyuan, en la ciudad de Baiyin 白銀市|白银市, Gansu
+靖边 | TRADUÇÃO: véase 靖邊縣|靖边县
+靖边县 | TRADUÇÃO: condado de Jingbian, en la ciudad de Yulin 榆林市, Shaanxi
+靖难之役 | TRADUÇÃO: Rebelión de Jingnan (guerra civil de 1399-1402 entre los sucesores del primer emperador Ming)
+靓 | TRADUÇÃO: maquillarse/arreglarse/(de la vestimenta) hermoso/elegante ‖ atractivo/guapo/bello
+靓仔 | TRADUÇÃO: muchacho guapo/joven atractivo
+靓女 | TRADUÇÃO: (dialectal) chica guapa/joven hermosa
+靓妆 | TRADUÇÃO: (literario) hermoso arreglo personal femenino/atuendo espléndido
+靓妹 | TRADUÇÃO: chica bonita/jovencita guapa
+靓号 | TRADUÇÃO: número de la suerte/número codiciado o vistoso (para teléfono, matrícula de coche, etc.)
+靓丽 | TRADUÇÃO: hermoso/bello/bonito/pronunciación en Taiwán [jing4li4]
+靛 | TRADUÇÃO: pigmento añil/índigo
+靛冠噪鹛 | TRADUÇÃO: (especie de ave) charlatán coroniazul (Pterorhinus courtoisi)
+靛油 | TRADUÇÃO: aceite de anilina/anilina líquida
+靛白 | TRADUÇÃO: blanco de índigo/leucoíndigo
+靛色 | TRADUÇÃO: color añil/índigo
+靛花 | TRADUÇÃO: añil/índigo en polvo
+靛蓝 | TRADUÇÃO: azul añil/índigo (colorante)
+靛蓝色 | TRADUÇÃO: color azul índigo/azul añil
+靛青 | TRADUÇÃO: añil/índigo
+静 | TRADUÇÃO: quieto/calmado/silencioso/tranquilo/inmóvil
+静一静 | TRADUÇÃO: calmarse un poco/dejar reposar algo/tranquilizarse
+静修 | TRADUÇÃO: contemplación/meditación/retiro espiritual
+静候 | TRADUÇÃO: esperar tranquilamente/aguardar pacientemente (noticias, una respuesta, etc.)
+静力学 | TRADUÇÃO: estática (física)
+静力平衡 | TRADUÇÃO: equilibrio estático
+静区 | TRADUÇÃO: zona de silencio/punto ciego/espacio muerto
+静坐 | TRADUÇÃO: sentarse en silencio/meditar/hacer una sentada de protesta
+静坐不动 | TRADUÇÃO: quedarse quieto sin hacer nada/permanecer inmóvil
+静坐不能 | TRADUÇÃO: acatisia (incapacidad para permanecer sentado o quieto, síntoma o efecto secundario de neurolépticos)
+静坐抗议 | TRADUÇÃO: sentada de protesta
+静坐抗议示威 | TRADUÇÃO: manifestación con sentada de protesta
+静坐罢工 | TRADUÇÃO: huelga de brazos caídos/sentada obrera
+静好 | TRADUÇÃO: apacible y armonioso/sereno
+静安区 | TRADUÇÃO: distrito de Jing'an (en el centro de Shanghái)
+静寂 | TRADUÇÃO: silencioso/tranquilo/solitario y callado
+静宁 | TRADUÇÃO: véase 靜寧縣|静宁县
+静宁县 | TRADUÇÃO: condado de Jingning, en la ciudad de Pingliang 平涼市|平凉市, Gansu
+静山 | TRADUÇÃO: Cheng San (distrito de Ang Mo Kio, Singapur)/distrito electoral de Cheng Shan (Singapur)
+静冈 | TRADUÇÃO: Shizuoka (prefectura de Japón)
+静待 | TRADUÇÃO: esperar en silencio/aguardar con calma/esperar el momento propicio
+静心 | TRADUÇÃO: calmar la mente/meditación/concentración serena
+静恬 | TRADUÇÃO: tranquilo/sereno/apacible
+静悄悄 | TRADUÇÃO: muy silencioso/en absoluto silencio
+静态 | TRADUÇÃO: estático/sereno/inactivo/pasivo/(física) estado estacionario/(electrónica) régimen de reposo
+静态存储器 | TRADUÇÃO: memoria estática/SRAM
+静乐 | TRADUÇÃO: véase 靜樂縣|静乐县
+静乐县 | TRADUÇÃO: condado de Jingle, en la ciudad de Xinzhou 忻州市, Shanxi
+静止 | TRADUÇÃO: quieto/inmóvil/estático/estacionario
+静止卫星 | TRADUÇÃO: (astronomía) satélite geoestacionario
+静止轨道 | TRADUÇÃO: (astronomía) órbita geoestacionaria
+静止锋 | TRADUÇÃO: frente estacionario (meteorología)
+静海 | TRADUÇÃO: distrito de Jinghai, en Tianjin 天津/Mar de la Tranquilidad (accidente lunar)
+静物 | TRADUÇÃO: (pintura) naturaleza muerta/bodegón
+静脉 | TRADUÇÃO: vena (anatomía)
+静脉吸毒 | TRADUÇÃO: consumo de drogas por vía intravenosa
+静脉曲张 | TRADUÇÃO: varices/venas varicosas
+静脉注入 | TRADUÇÃO: administración intravenosa (medicina)
+静脉注射 | TRADUÇÃO: inyección intravenosa
+静脉点滴 | TRADUÇÃO: goteo intravenoso/suero intravenoso
+静谧 | TRADUÇÃO: (literario) apacible/tranquilo/sereno/silencioso
+静电 | TRADUÇÃO: electricidad estática
+静音 | TRADUÇÃO: silencio/silencioso/poner en silencio/silenciar
+静养 | TRADUÇÃO: convalecer/reposar/descansar tranquilamente para recuperarse
+静默 | TRADUÇÃO: silencioso/inmóvil/guardar silencio/homenaje en silencio/(neologismo) confinarse en casa durante una pandemia
+静点 | TRADUÇÃO: suero por goteo hospitalario/perfusión intravenosa
+靔 | TRADUÇÃO: variante antigua de 天
+非 | TRADUÇÃO: abrev. de 非洲, África ‖ no ser/no/incorrecto/erróneo/no-/in-/des-/reprochar/culpar/(coloq.) empeñarse en/insistir en
+非一日之功 | TRADUÇÃO: no es obra de un solo día (modismo)/requiere mucho tiempo y esfuerzo para lograrse
+非主流 | TRADUÇÃO: alternativo/no convencional/fuera de lo común
+非人 | TRADUÇÃO: inhumano/(literario) persona indigna (para casarse, para nombrar a un cargo, etc.)
+非人化 | TRADUÇÃO: deshumanización
+非份 | TRADUÇÃO: indebido/presuntuoso/impropio/que se extralimita/también escrito 非分
+非但 | TRADUÇÃO: no solo/no solamente
+非你莫属 | TRADUÇÃO: te corresponde exclusivamente a ti (modismo)/eres el indicado/solo tú puedes hacerlo/solo tú lo mereces
+非公式 | TRADUÇÃO: no oficial/informal
+非典 | TRADUÇÃO: neumonía atípica/síndrome respiratorio agudo severo/SRAS/SARS
+非典型肺炎 | TRADUÇÃO: neumonía atípica/síndrome respiratorio agudo severo/SRAS/SARS
+非凡 | TRADUÇÃO: extraordinario/fuera de lo común/excepcional
+非分 | TRADUÇÃO: indebido/presuntuoso/impropio/que se extralimita/también escrito 非份
+非分之念 | TRADUÇÃO: deseo indebido/pensamiento deshonesto o ambicioso
+非利士人 | TRADUÇÃO: los filisteos (que se establecieron en la costa sur de Palestina en el siglo XII a. C.)
+非利士地 | TRADUÇÃO: Filistea (tierra de los filisteos)
+非动物性 | TRADUÇÃO: inanimación/cualidad de inanimado
+非同凡响 | TRADUÇÃO: fuera de lo común/extraordinario/sobresaliente
+非同寻常 | TRADUÇÃO: (modismo) extraordinario/inusual/fuera de lo corriente
+非同小可 | TRADUÇÃO: de suma importancia/asunto de gran trascendencia/nada despreciable
+非同步 | TRADUÇÃO: asíncrono/asincrónico
+非同步传输模式 | TRADUÇÃO: modo de transferencia asíncrona (ATM)
+非同质化代币 | TRADUÇÃO: tóken no fungible (NFT)
+非命 | TRADUÇÃO: muerte no natural/muerte violenta
+非国大 | TRADUÇÃO: Congreso Nacional Africano (CNA)/abrev. de 非洲人國民大會|非洲人国民大会
+非国家行为体 | TRADUÇÃO: actor no estatal
+非均质 | TRADUÇÃO: inhomogéneo/no homogéneo/heterogéneo
+非婚生 | TRADUÇÃO: nacido fuera del matrimonio/hijo extramatrimonial/ilegítimo
+非婚生子女 | TRADUÇÃO: hijo extramatrimonial/hijo nacido fuera del matrimonio
+非宗教 | TRADUÇÃO: secular/laico/no religioso
+非官方 | TRADUÇÃO: no oficial/extraoficial
+非富则贵 | TRADUÇÃO: véase 非富即貴|非富即贵
+非富即贵 | TRADUÇÃO: gente rica y distinguida/personas acaudaladas o de alto rango
+非写实 | TRADUÇÃO: no figurativo/no representacional (arte)
+非对称 | TRADUÇÃO: asimétrico
+非导体 | TRADUÇÃO: no conductor/aislante (de electricidad, calor, etc.)
+非小说 | TRADUÇÃO: no ficción
+非层岩 | TRADUÇÃO: roca no estratificada
+非层状 | TRADUÇÃO: no estratificado
+非峰值 | TRADUÇÃO: fuera de hora punta/fuera de pico
+非常 | TRADUÇÃO: muy/sumamente/extraordinario/inusual
+非常多 | TRADUÇÃO: muchísimo/en gran cantidad/muy numerosos
+非常感谢 | TRADUÇÃO: muchas gracias/sumamente agradecido
+非常手段 | TRADUÇÃO: medida extraordinaria/medida de emergencia
+非平衡 | TRADUÇÃO: desequilibrio/no equilibrio/desbalance
+非平衡态 | TRADUÇÃO: estado de no equilibrio/estado de desequilibrio
+非得 | TRADUÇÃO: tener que/deber necesariamente/insistir en
+非微扰 | TRADUÇÃO: no perturbativo (física)
+非必要 | TRADUÇÃO: innecesario/no esencial/prescindible
+非必需 | TRADUÇÃO: no esencial/prescindible/no indispensable
+非拉丁字符 | TRADUÇÃO: caracteres no latinos
+非政府 | TRADUÇÃO: no gubernamental
+非政府组织 | TRADUÇÃO: organización no gubernamental (ONG)
+非数字 | TRADUÇÃO: no numérico
+非斯 | TRADUÇÃO: Fez (tercera ciudad más grande de Marruecos)
+非暴力 | TRADUÇÃO: noviolento/no violento/no violencia
+非核 | TRADUÇÃO: no nuclear/desnuclearizado
+非核化 | TRADUÇÃO: desnuclearización
+非核国家 | TRADUÇÃO: país no nuclear/Estado no nuclear
+非核地带 | TRADUÇÃO: zona libre de armas nucleares/zona desnuclearizada
+非核武器国家 | TRADUÇÃO: Estados sin armas nucleares (TNPN)
+非条件反射 | TRADUÇÃO: reflejo incondicionado (fisiología)
+非杠杆化 | TRADUÇÃO: desapalancamiento (finanzas)
+非标准 | TRADUÇÃO: no estándar/no convencional
+非模态 | TRADUÇÃO: no modal (informática)
+非机动车 | TRADUÇÃO: vehículo no motorizado
+非欧几何 | TRADUÇÃO: geometría no euclidiana
+非正常 | TRADUÇÃO: anormal/irregular/anómalo
+非正式 | TRADUÇÃO: informal/no oficial/extraoficial
+非正数 | TRADUÇÃO: número no positivo (negativo o cero)
+非此即彼 | TRADUÇÃO: o esto o aquello/lo uno o lo otro/dilema excluyente
+非死不可 | TRADUÇÃO: Facebook (jerga de internet, juego de palabras fonético que suena como "debe morir")
+非法 | TRADUÇÃO: ilegal/ilícito
+非洲 | TRADUÇÃO: África/abrev. de 阿非利加洲
+非洲之角 | TRADUÇÃO: Cuerno de África
+非洲人 | TRADUÇÃO: africano/africana
+非洲人国民大会 | TRADUÇÃO: Congreso Nacional Africano (CNA)
+非洲单源说 | TRADUÇÃO: hipótesis del origen africano (teoría del origen del ser humano moderno en África)
+非洲大蜗牛 | TRADUÇÃO: caracol gigante africano (Lissachatina fulica)
+非洲大裂谷 | TRADUÇÃO: Gran Valle del Rift
+非洲界 | TRADUÇÃO: región afrotropical/zona afrotropical (biogeografía)
+非洲统一组织 | TRADUÇÃO: Organización para la Unidad Africana (OUA)
+非洲联盟 | TRADUÇÃO: Unión Africana (UA)
+非洲猪瘟 | TRADUÇÃO: peste porcina africana
+非洲锥虫病 | TRADUÇÃO: enfermedad del sueño/tripanosomiasis africana
+非洲开发银行 | TRADUÇÃO: Banco Africano de Desarrollo (BAfD)
+非营利 | TRADUÇÃO: sin fines de lucro/sin ánimo de lucro/no lucrativo
+非营利组织 | TRADUÇÃO: organización sin fines de lucro/organización no lucrativa
+非物质文化遗产 | TRADUÇÃO: patrimonio cultural inmaterial
+非特 | TRADUÇÃO: no solo/no únicamente
+非独 | TRADUÇÃO: no solo/no simplemente
+非独立 | TRADUÇÃO: dependiente/no independiente
+非异人任 | TRADUÇÃO: asumir la propia responsabilidad sin delegarla en otros (modismo)
+非盟 | TRADUÇÃO: Unión Africana (UA) (abrev. de 非洲聯盟|非洲联盟)
+非直接 | TRADUÇÃO: indirecto/no directo
+非相对论性 | TRADUÇÃO: no relativista (física)
+非礼 | TRADUÇÃO: descortesía/falta de respeto/acosar sexualmente/propasarse
+非空 | TRADUÇÃO: (mat.) no vacío/(informática) no vacío
+非线性 | TRADUÇÃO: no lineal (mat.)
+非线性光学 | TRADUÇÃO: óptica no lineal (física)
+非羁押性 | TRADUÇÃO: no privativo de libertad (pena o medida)
+非自然 | TRADUÇÃO: antinatural/sobrenatural/oculto
+非致命 | TRADUÇÃO: (med.) no mortal/no letal
+非处 | TRADUÇÃO: mujer que no es virgen
+非处方药 | TRADUÇÃO: medicamento sin receta/fármaco de venta libre/medicamento OTC
+非裔 | TRADUÇÃO: de ascendencia africana/afrodescendiente
+非要 | TRADUÇÃO: insistir en/empeñarse en/querer a toda costa
+非规整 | TRADUÇÃO: irregular/desordenado/no estructurado
+非亲非故 | TRADUÇÃO: no ser ni pariente ni amigo (modismo)/sin ningún tipo de relación o parentesco
+非诚勿扰 | TRADUÇÃO: abstenerse no interesados (en anuncios)/solo para personas serias
+非议 | TRADUÇÃO: criticar/censurar/reprochar
+非负数 | TRADUÇÃO: número no negativo (positivo o cero)
+非军事区 | TRADUÇÃO: zona desmilitarizada
+非递推 | TRADUÇÃO: no recursivo
+非遗 | TRADUÇÃO: patrimonio cultural inmaterial (abrev. de 非物質文化遺產|非物质文化遗产)
+非遗传多型性 | TRADUÇÃO: polifenismo (biología)
+非都会郡 | TRADUÇÃO: condado no metropolitano (Inglaterra)
+非金属 | TRADUÇÃO: no metal (química)
+非阿贝尔 | TRADUÇÃO: (mat.) no abeliano
+非难 | TRADUÇÃO: censura/reproche/recriminación
+非零 | TRADUÇÃO: distinto de cero/no nulo
+非音 | TRADUÇÃO: (ling.) átono/sílaba átona
+非预谋 | TRADUÇÃO: no premeditado/impremeditado
+非驴非马 | TRADUÇÃO: ni chicha ni limonada (modismo)/híbrido raro/engendro indefinible
+非高峰 | TRADUÇÃO: fuera de horas punta/valle
+非黑即白 | TRADUÇÃO: blanco o negro (sin término medio)
+非党 | TRADUÇÃO: no partidista/independiente/sin partido
+非党人士 | TRADUÇÃO: independiente/persona ajena al partido
+靠 | TRADUÇÃO: apoyarse en/arrimarse a/acercarse a/depender de/confiar en/joder (vulgar)/armazón con armadura en el teatro tradicional (ant.)
+靠不住 | TRADUÇÃO: poco fiable/no confiable/inestable
+靠北 | TRADUÇÃO: (Taiwán) (jerga) quejarse sin parar/¡cállate la boca!/¡maldición!/¡joder! (del taiwanés khàu-pē, "llorar la muerte del padre")
+靠垫 | TRADUÇÃO: cojín de respaldo/respaldo
+靠夭 | TRADUÇÃO: variante de 靠腰
+靠山 | TRADUÇÃO: protector/respaldo/patrocinador/cerca de la montaña
+靠山吃山，靠水吃水 | TRADUÇÃO: el que vive en la montaña vive de la montaña, el que vive junto al agua vive del agua (modismo)/aprovechar los recursos locales/vivir de lo que el entorno ofrece
+靠岸 | TRADUÇÃO: atracar/arrimarse a la orilla/llegar a la costa/desembarco
+靠得住 | TRADUÇÃO: fiable/de confianza/confiable
+靠拢 | TRADUÇÃO: acercarse a/aproximarse/alinearse con
+靠杯 | TRADUÇÃO: véase 靠北
+靠窗 | TRADUÇÃO: de ventanilla/junto a la ventana (asiento en tren, avión, etc.)
+靠窗座位 | TRADUÇÃO: asiento de ventanilla
+靠背椅 | TRADUÇÃO: silla de respaldo alto
+靠腰 | TRADUÇÃO: (lit.) llorar de hambre (del taiwanés khàu-iau)/(Taiwán) (jerga) quejarse/¡cállate ya!/¡maldita sea!
+靠谱 | TRADUÇÃO: fiable/confiable/razonable/verosímil
+靠走廊 | TRADUÇÃO: de pasillo/junto al pasillo (asiento)
+靠走道 | TRADUÇÃO: de pasillo/junto al pasillo (asiento en avión, etc.)
+靠近 | TRADUÇÃO: acercarse a/estar cerca de/próximo a
+靠边 | TRADUÇÃO: arrimarse a un lado/hacerse a un lado/orillarse
+靡 | TRADUÇÃO: derrochar (dinero)/malgastar ‖ extravagante/seguir la moda/no/sin
+靡不有初，鲜克有终 | TRADUÇÃO: casi todo tiene un comienzo, pero pocas cosas llegan a buen término (modismo)/no empezar lo que no se puede concluir
+靡有孑遗 | TRADUÇÃO: no quedar ni un solo superviviente/aniquilación total
+靡烂 | TRADUÇÃO: putrefacto/en descomposición/corrompido
+靡费 | TRADUÇÃO: derrochar/malgastar/despilfarrar
+靡靡之音 | TRADUÇÃO: (modismo) música decadente/melodía lánguida y corruptora
+面 | TRADUÇÃO: cara/rostro/lado/superficie/aspecto/faz/clasificador para objetos planos como tambores, espejos, banderas, etc. ‖ variante de 麵|面 ‖ harina/fideos/(de la comida) blando/pastoso/(jerga) (de una persona) pusilánime/débil
+面不改色 | TRADUÇÃO: no pestañear (modismo)/mantener la compostura sin inmutarse/sin cambiar de semblante
+面世 | TRADUÇÃO: publicarse/salir al mercado/ver la luz (obras artísticas, literarias, etc.)
+面交 | TRADUÇÃO: entregar en persona/entregar cara a cara
+面值 | TRADUÇÃO: valor nominal/facial
+面儿 | TRADUÇÃO: cubierta/parte exterior/fachada/prestigio
+面具 | TRADUÇÃO: máscara/careta
+面前 | TRADUÇÃO: delante de/frente a/en presencia de
+面友 | TRADUÇÃO: mostrarse amigable/poner cara de amigo
+面向 | TRADUÇÃO: orientado a/dirigido a/encarar/enfocado a/(Taiwán) faceta/aspecto
+面单 | TRADUÇÃO: (logística) etiqueta de envío/albarán de transporte
+面向对象语言 | TRADUÇÃO: lenguaje orientado a objetos
+面向连接 | TRADUÇÃO: orientado a la conexión
+面型 | TRADUÇÃO: tipo de rostro/forma de la cara
+面基 | TRADUÇÃO: (jerga) encontrarse en persona (amigos de internet)/desvirtualizarse
+面壁 | TRADUÇÃO: sentarse de cara a la pared/meditar mirando a la pared (budismo)/(fig.) dedicarse con devoción al estudio o al trabajo
+面壁思过 | TRADUÇÃO: ponerse de cara a la pared a reflexionar sobre los propios errores/examinar la propia conciencia
+面如土色 | TRADUÇÃO: pálido como un muerto (modismo)/con el rostro ceniciento/demudado
+面如灰土 | TRADUÇÃO: con el semblante ceniciento (modismo)/pálido por el miedo o la enfermedad
+面子 | TRADUÇÃO: superficie exterior/exterior de algo/prestigio social/reputación/cara/honor ‖ polvo (medicinal)
+面孔 | TRADUÇÃO: rostro/cara/semblante
+面容 | TRADUÇÃO: fisonomía/rasgos faciales/rostro
+面对 | TRADUÇÃO: encarar/afrontar/hacer frente a/enfrentar
+面对面 | TRADUÇÃO: cara a cara/frente a frente
+面巾 | TRADUÇÃO: toalla facial/paño para la cara/sudario funerario para el rostro
+面市 | TRADUÇÃO: salir al mercado/lanzarse al mercado (un nuevo producto)
+面带 | TRADUÇÃO: lucir en el rostro/tener en la cara/mostrar
+面带愁容 | TRADUÇÃO: con aire triste/con expresión preocupada o melancólica
+面带病容 | TRADUÇÃO: con aspecto enfermizo/tener mala cara
+面形 | TRADUÇÃO: forma de la cara/morfología facial
+面影 | TRADUÇÃO: semblante recordado/imagen mental del rostro de alguien
+面心立方最密堆积 | TRADUÇÃO: empaquetamiento cúbico centrado en las caras (FCC) (mat.)
+面恶心善 | TRADUÇÃO: tener aspecto severo pero corazón bondadoso (modismo)/cara de pocos amigos pero buen corazón
+面态 | TRADUÇÃO: expresión facial/semblante
+面授 | TRADUÇÃO: impartir clases presenciales/instruir en persona
+面授机宜 | TRADUÇÃO: (modismo) dar instrucciones en persona sobre el curso de acción a seguir/aconsejar personalmente sobre cómo proceder
+面叙 | TRADUÇÃO: hablar cara a cara/conversar en persona
+面料 | TRADUÇÃO: tejido para confección/tela/material para ropa/CL:塊|块
+面斥 | TRADUÇÃO: reprender en la cara/reprochar a alguien cara a cara
+面晤 | TRADUÇÃO: reunirse en persona/entrevistarse personalmente
+面有菜色 | TRADUÇÃO: tener cara de hambriento/aspecto desnutrido
+面有难色 | TRADUÇÃO: mostrar expresión de renuencia o incomodidad
+面朝黄土背朝天 | TRADUÇÃO: cara a la tierra y espalda al cielo (modismo alusivo al duro trabajo campesino)
+面板 | TRADUÇÃO: panel/placa frontal/salpicadero ‖ tabla para amasar/tabla para hacer fideos
+面无人色 | TRADUÇÃO: con el rostro descolorido por el pánico/pálido como un fantasma
+面熟 | TRADUÇÃO: tener cara conocida/resultar familiar
+面瓜 | TRADUÇÃO: (dialectal) calabaza dulce/(fig.) bobalicón/torpe
+面瘫 | TRADUÇÃO: parálisis facial
+面皮 | TRADUÇÃO: mejilla/rostro/cara/funda de cuero (para bolsos, etc.) ‖ masa para envolver empanadillas/masa de empanada
+面疱 | TRADUÇÃO: acné/grano/espinilla
+面目 | TRADUÇÃO: fisonomía/aspecto/apariencia
+面目一新 | TRADUÇÃO: cambiar por completo de aspecto (modismo)/renovarse totalmente/adquirir un aire nuevo
+面目全非 | TRADUÇÃO: irreconocible (modismo)/cambiar hasta quedar irreconocible
+面目可憎 | TRADUÇÃO: de semblante repugnante/aspecto desagradable
+面相 | TRADUÇÃO: fisonomía/rasgos del rostro/lectura del rostro
+面砖 | TRADUÇÃO: ladrillo visto/azulejo de fachada/baldosa de revestimiento exterior
+面称 | TRADUÇÃO: tratamiento directo (dirigirse a alguien directamente)/(ant.) alabar a alguien en su presencia
+面积 | TRADUÇÃO: área/superficie/extensión
+面簿 | TRADUÇÃO: (principalmente Singapur) Facebook
+面红耳赤 | TRADUÇÃO: ponerse rojo como un tomate (por vergüenza o enfado)/ruborizarse
+面纱 | TRADUÇÃO: velo
+面纸 | TRADUÇÃO: pañuelo de papel/pañuelo facial/kléenex
+面罄 | TRADUÇÃO: explicar exhaustivamente en persona
+面罩 | TRADUÇÃO: careta/máscara/visor/pantalla de protección facial
+面圣 | TRADUÇÃO: (ant.) tener audiencia con el emperador
+面肥 | TRADUÇÃO: abonado de cobertura (agricultura) ‖ levadura madre/masa madre
+面膜 | TRADUÇÃO: mascarilla facial
+面临 | TRADUÇÃO: afrontar/enfrentarse a/estar ante
+面临困难 | TRADUÇÃO: enfrentarse a dificultades/verse ante problemas
+面色 | TRADUÇÃO: color de la cara/tez/semblante
+面色如土 | TRADUÇÃO: con la cara pálida de miedo (modismo)/cadavérico
+面见 | TRADUÇÃO: entrevistarse personalmente con/ver cara a cara
+面试 | TRADUÇÃO: entrevista (de trabajo o admisión)/hacer una entrevista
+面试官 | TRADUÇÃO: entrevistador
+面谈 | TRADUÇÃO: entrevista personal/conversación cara a cara
+面谀 | TRADUÇÃO: adular a alguien a la cara
+面谕 | TRADUÇÃO: instruir personalmente/dar órdenes de palabra
+面谢 | TRADUÇÃO: agradecer en persona/dar las gracias cara a cara
+面议 | TRADUÇÃO: negociar en persona/tratar el precio directamente
+面誉 | TRADUÇÃO: alabar a alguien en su presencia
+面貌 | TRADUÇÃO: semblante/rasgos/aspecto general
+面部 | TRADUÇÃO: cara/rostro (anatomía)
+面部表情 | TRADUÇÃO: expresión facial
+面镜 | TRADUÇÃO: máscara de buceo
+面霜 | TRADUÇÃO: crema facial (cosmética)
+面露 | TRADUÇÃO: mostrar en el rostro/expresar en la cara (cansancio, alegría, etc.)
+面露不悦 | TRADUÇÃO: mostrar disgusto en el rostro (modismo)/poner cara de desagrado
+面露倦意 | TRADUÇÃO: mostrar signos de cansancio en la cara/parecer fatigado
+面面 | TRADUÇÃO: diversos aspectos/múltiples puntos de vista
+面面俱到 | TRADUÇÃO: atender a todo con esmero (modismo)/abarcar todos los aspectos/no descuidar ningún detalle
+面面相觑 | TRADUÇÃO: mirarse unos a otros con perplejidad (modismo)/quedarse atónitos mirándose
+面面观 | TRADUÇÃO: panorama general/visión global/estudio exhaustivo (usado en títulos)
+面颊 | TRADUÇÃO: mejilla/carrillo
+面额 | TRADUÇÃO: valor facial/denominación nominal (de moneda, billete o bono)
+面颜 | TRADUÇÃO: rostro/faz/cara
+面首 | TRADUÇÃO: mancebo/gigoló/compañero masculino atractivo
+面黄肌瘦 | TRADUÇÃO: con el rostro amarillento y el cuerpo escuálido (modismo)/desnutrido y enfermizo
+面庞 | TRADUÇÃO: rostro/cara/semblante
+靣 | TRADUÇÃO: variante de 面
+䩄 | TRADUÇÃO: usado en 靦覥|䩄觍
+腼 | TRADUÇÃO: usado en 靦腆|腼腆
+腼腆 | TRADUÇÃO: tímido/vergonzoso/cohibido
+䩄觍 | TRADUÇÃO: variante de 靦腆|腼腆
+靥 | TRADUÇÃO: hoyuelo (en la mejilla)
+革 | TRADUÇÃO: cuero/piel animal curtida/reformar/quitar/destituir (de un cargo)
+革出 | TRADUÇÃO: expulsar/echar
+革出山门 | TRADUÇÃO: expulsar de la orden monástica budista/excomulgar
+革出教门 | TRADUÇÃO: excomulgar (de una iglesia o comunidad religiosa)
+革吉 | TRADUÇÃO: véase 革吉縣|革吉县
+革吉县 | TRADUÇÃO: condado de Gê'gyai, en la prefectura de Ngari 阿里地區|阿里地区, Tíbet
+革命 | TRADUÇÃO: revolución/revolucionario/retirar el mandato del cielo y dar paso a una nueva dinastía (sentido original)/rebelarse contra/revolucionar/CL:次
+革命先烈 | TRADUÇÃO: mártir de la revolución
+革命家 | TRADUÇÃO: revolucionario/revolucionaria
+革命性 | TRADUÇÃO: revolucionario/carácter revolucionario
+革命烈士 | TRADUÇÃO: mártir de la revolución
+革囊 | TRADUÇÃO: bolsa de cuero/(fig.) cuerpo humano
+革履 | TRADUÇÃO: zapatos de cuero/(fig.) atuendo occidental
+革故鼎新 | TRADUÇÃO: desterrar lo viejo e implantar lo nuevo (modismo)/innovar/renovar
+革新 | TRADUÇÃO: innovar/renovar/innovación/reforma
+革职 | TRADUÇÃO: destituir/deponer/cesar de un cargo/despedir
+革兰氏 | TRADUÇÃO: Gram/Dr. Hans Christian Joachim Gram (1853-1938), médico danés e inventor de la tinción de Gram 革蘭氏染色法|革兰氏染色法
+革兰氏染色法 | TRADUÇÃO: tinción de Gram (usada para clasificar bacterias)
+革兰氏阴性 | TRADUÇÃO: Gram negativo (bacteria)
+革兰阳 | TRADUÇÃO: Gram positivo (bacteria)
+革兰阳性 | TRADUÇÃO: Gram positivo (bacteria)
+革制品 | TRADUÇÃO: artículos de cuero/marroquinería
+革退 | TRADUÇÃO: destituir de un puesto/expulsar
+革除 | TRADUÇÃO: abolir/eliminar/erradicar/expulsar
+革面洗心 | TRADUÇÃO: véase 洗心革面
+靪 | TRADUÇÃO: poner remiendos al calzado/remendar
+靬 | TRADUÇÃO: véase 犂靬 (nombre dado en la dinastía Han a países del lejano occidente)
+韧 | TRADUÇÃO: variante de 韌|韧 ‖ variante antigua de 韌|韧 ‖ tenaz/flexible pero resistente/dúctil/maleable
+靮 | TRADUÇÃO: riendas/brida del caballo
+靰 | TRADUÇÃO: usado en 靰鞡
+靰鞡 | TRADUÇÃO: variante de 烏拉|乌拉
+靲 | TRADUÇÃO: zapatos de cuero/cinturón de cuero/tiras finas de bambú
+靳 | TRADUÇÃO: apellido Jin ‖ martingala/tacaño/avaro
+靴 | TRADUÇÃO: botas ‖ variante de 靴
+靴子 | TRADUÇÃO: botas
+靴子落地 | TRADUÇÃO: caer la otra bota al suelo (modismo)/(fig.) materializarse por fin un acontecimiento largamente esperado e impactante
+靴掖子 | TRADUÇÃO: plantilla o almohadillado interior de una bota
+靴篱莺 | TRADUÇÃO: (especie de ave) zarcero escita (Iduna caligata)
+靴裤 | TRADUÇÃO: pantalones de corte para bota (bootcut)
+靴隼雕 | TRADUÇÃO: (especie de ave) aguililla calzada (Hieraaetus pennatus)
+靶 | TRADUÇÃO: diana/blanco/objetivo
+靶向药 | TRADUÇÃO: (medicina) fármaco dirigido/terapia dirigida
+靶场 | TRADUÇÃO: campo de tiro/polígono de tiro
+靶子 | TRADUÇÃO: blanco/diana
+靶心 | TRADUÇÃO: centro de la diana/ojo de buey
+靶机 | TRADUÇÃO: dron blanco/avión teledirigido blanco
+靶纸 | TRADUÇÃO: hoja de diana/lámina de tiro
+靶船 | TRADUÇÃO: buque blanco/barco diana
+靷 | TRADUÇÃO: tirantes de tiro (del carruaje)
+靸 | TRADUÇÃO: zapato infantil (ant.)/llevar los zapatos arrastrando como babuchas
+靺 | TRADUÇÃO: nombre de una tribu antigua/calcetines/medias
+靼 | TRADUÇÃO: elemento fonético/cuero adobado o curtido
+靿 | TRADUÇÃO: caña de una bota o calcetín
+靿子 | TRADUÇÃO: caña de una bota/caña del calcetín
+鞀 | TRADUÇÃO: variante de 鼗
+鞁 | TRADUÇÃO: arnés de caballo (artículos de guarnición como silla y brida)/variante de 鞴
+鞃 | TRADUÇÃO: apoyabrazos de carruaje
+鞄 | TRADUÇÃO: curtir pieles/bolso de cuero
+鞅 | TRADUÇÃO: martingala (correa del arnés del caballo)/usado en 鞅鞅 ‖ yugo de madera para buey de tiro
+鞅掌 | TRADUÇÃO: (literario) ocupado/atareado (con el trabajo, etc.)
+鞅牛 | TRADUÇÃO: buey uncido al arado
+鞅鞅 | TRADUÇÃO: descontento/resentido/disgustado
+鞇 | TRADUÇÃO: variante de 茵
+鞉 | TRADUÇÃO: variante antigua de 鼗
+鞋 | TRADUÇÃO: zapato/calzado/CL:雙|双,隻|只 ‖ variante de 鞋
+鞋匠 | TRADUÇÃO: zapatero/remendón
+鞋垫 | TRADUÇÃO: plantilla para el calzado/plantilla interior
+鞋套 | TRADUÇÃO: cubrecalzado/cubrezapatos
+鞋子 | TRADUÇÃO: zapato/calzado
+鞋履 | TRADUÇÃO: calzado
+鞋带 | TRADUÇÃO: cordón de zapato/CL:根,雙|双
+鞋帮 | TRADUÇÃO: pala del zapato/empeine del calzado
+鞋底 | TRADUÇÃO: suela del zapato
+鞋拔 | TRADUÇÃO: calzador
+鞋拔子 | TRADUÇÃO: calzador
+鞋楦 | TRADUÇÃO: horma de zapato
+鞋油 | TRADUÇÃO: betún para calzado/crema para zapatos
+鞋袜 | TRADUÇÃO: calzado y calcetines
+鞋跟 | TRADUÇÃO: tacón del zapato
+鞌 | TRADUÇÃO: An (antiguo lugar en la actual Jinan, Shandong, escenario de una batalla entre Qi 齊國|齐国 y Jin 晉國|晋国 en 589 a. C.)
+鞍 | TRADUÇÃO: variante de 鞍 ‖ silla de montar/albarda
+鞍前马后 | TRADUÇÃO: servir con devoción y diligencia (modismo)/estar siempre a disposición de alguien
+鞍子 | TRADUÇÃO: silla de montar
+鞍山 | TRADUÇÃO: véase 鞍山市
+鞍山市 | TRADUÇÃO: Anshan (ciudad con nivel de prefectura en la provincia de Liaoning 遼寧省|辽宁省)
+鞍韂 | TRADUÇÃO: silla de montar con gualdrapa
+鞍鞯 | TRADUÇÃO: (literario) silla de montar con mantilla o gualdrapa
+鞍马 | TRADUÇÃO: caballo con arzones (gimnasia)
+鞍马劳顿 | TRADUÇÃO: agotado por un largo viaje a caballo (modismo)/fatigado del camino
+鞍点 | TRADUÇÃO: punto de silla (mat.)
+巩 | TRADUÇÃO: apellido Gong ‖ consolidar/afianzar/hacer firme y seguro
+巩俐 | TRADUÇÃO: Gong Li (1965–), actriz china
+巩固 | TRADUÇÃO: consolidar/fortalecer/afianzar/sólido/firme
+巩留 | TRADUÇÃO: véase 鞏留縣|巩留县
+巩留县 | TRADUÇÃO: condado de Gongliu, en la prefectura autónoma kazaja de Ilí 伊犁哈薩克自治州|伊犁哈萨克自治州, Xinjiang
+巩县 | TRADUÇÃO: condado de Gong en Henan
+巩义 | TRADUÇÃO: véase 鞏義市|巩义市
+巩义市 | TRADUÇÃO: ciudad de Gongyi, ciudad a nivel de condado en la ciudad de Zhengzhou 鄭州市|郑州市, Henan
+巩膜 | TRADUÇÃO: (anatomía) esclerótica
+鞗 | TRADUÇÃO: riendas de cuero
+鞘 | TRADUÇÃO: vaina/funda (de espada o cuchillo)
+鞘翅 | TRADUÇÃO: élitro (ala anterior endurecida de los coleópteros)
+鞘翅目 | TRADUÇÃO: coleópteros (orden de insectos que incluye los escarabajos)
+鞘脂 | TRADUÇÃO: esfingolípido
+鞙 | TRADUÇÃO: hermoso/fino/elegante
+鞚 | TRADUÇÃO: (literario) brida (de caballo)/riendas
+鞝 | TRADUÇÃO: variante de 緔|绱 ‖ parche de cuero/remiendo de cuero
+鞝鞋 | TRADUÇÃO: variante de 上鞋
+鞞 | TRADUÇÃO: vaina de espada
+鞠 | TRADUÇÃO: apellido Ju ‖ inclinarse/hacer una reverencia/pelota de cuero usada en la antigüedad/(literario) criar/educar/pronunciación en Taiwán [ju2]
+鞠躬 | TRADUÇÃO: hacer una reverencia/inclinarse/(literario) encorvarse
+鞠躬尽力 | TRADUÇÃO: entregarse en cuerpo y alma a una tarea (modismo)/esforzarse hasta el límite/lo mismo que 鞠躬盡瘁|鞠躬尽瘁
+鞠躬尽瘁 | TRADUÇÃO: entregarse en cuerpo y alma con total dedicación (modismo)/darlo todo hasta el agotamiento
+鞠躬尽瘁，死而后已 | TRADUÇÃO: consagrarse en cuerpo y alma hasta el último aliento (modismo)/dar la vida al servicio de una causa
+鞡 | TRADUÇÃO: usado en 靰鞡/pronunciación en Taiwán [la1]
+鞣 | TRADUÇÃO: ante/gamuza/tanino/curtir (cuero)
+鞣制 | TRADUÇÃO: curtir (cuero)/curtido
+鞣质 | TRADUÇÃO: tanino
+鞣酸 | TRADUÇÃO: ácido tánico/tanino
+鞥 | TRADUÇÃO: (literario) riendas (de caballo)
+秋千 | TRADUÇÃO: columpio
+鞧 | TRADUÇÃO: grupera/correa de cuero/(dialectal) encogerse/retroceder
+鞨 | TRADUÇÃO: bota de caña alta/nombre de una tribu antigua/turbante
+鞫 | TRADUÇÃO: interrogar/someter a juicio/pronunciación en Taiwán [ju2]
+鞬 | TRADUÇÃO: carcaj de caballo/aljaba
+鞭 | TRADUÇÃO: látigo/fusta/azotar/fustigar/batuta de director de orquesta/arma metálica articulada antigua/pene de animal servido como comida
+鞭刑 | TRADUÇÃO: azotes (pena corporal)/castigo con varas
+鞭子 | TRADUÇÃO: látigo/fusta/azote/CL:根
+鞭尸 | TRADUÇÃO: azotar el cadáver de alguien/(fig.) desenterrar y airear los errores del pasado de alguien
+鞭打 | TRADUÇÃO: azotar/golpear con látigo/fustigar/dar latigazos
+鞭挞 | TRADUÇÃO: azotar/(fig.) flagelar/castigar con dureza/fustigar
+鞭毛 | TRADUÇÃO: flagelo (biología)
+鞭毛纲 | TRADUÇÃO: flagelados (Mastigophora)
+鞭炮 | TRADUÇÃO: petardos/traca de petardos/CL:枚
+鞭痕 | TRADUÇÃO: verdugón/latigazo/marca de látigo
+鞭笞 | TRADUÇÃO: azotar/fustigar/castigar/apremiar
+鞭策 | TRADUÇÃO: espolear/estimular/animar a progresar/impulsar
+鞭节 | TRADUÇÃO: flagelo
+鞭虫 | TRADUÇÃO: tricocéfalo/Trichuris trichiura (parasitología)
+鞭长莫及 | TRADUÇÃO: el látigo no alcanza (modismo)/fuera del alcance de la propia influencia/demasiado lejos para poder intervenir
+鞭辟入里 | TRADUÇÃO: incisivo/profundo y acertado/penetrante (análisis o argumento)
+鞮 | TRADUÇÃO: apellido Di ‖ zapatos de cuero/calzado de cuero
+鞲 | TRADUÇÃO: variante de 韝
+鞲鞴 | TRADUÇÃO: pistón (préstamo del alemán "Kolben")
+鞴 | TRADUÇÃO: ensillar un caballo/aparejar
+鞶 | TRADUÇÃO: cinturón ancho de cuero/faja
+鞹 | TRADUÇÃO: cuero/piel sin pelo
+鞒 | TRADUÇÃO: borrén delantero y trasero de una silla de montar
+𩉜 | TRADUÇÃO: (literario) bocado (de la brida del caballo)
+韀 | TRADUÇÃO: variante de 韉|鞯
+缰绳 | TRADUÇÃO: riendas
+韂 | TRADUÇÃO: sudadero/mantilla de la silla de montar
+鞑 | TRADUÇÃO: tártaro/tribu del norte de China
+鞑虏 | TRADUÇÃO: tártaro (despectivo)/antiguo término insultante para los manchúes hacia 1900
+鞑靼 | TRADUÇÃO: tártaro (antiguas tribus del norte de China)/tártaro (etnia túrquica de Asia Central)
+鞑靼人 | TRADUÇÃO: tártaro/tártara
+鞑靼海峡 | TRADUÇÃO: estrecho de Tartaria (entre Sajalín y el continente ruso)
+韅 | TRADUÇÃO: cincha de cuero de caballo
+鞯 | TRADUÇÃO: mantilla de silla de montar/gualdrapa
+韦 | TRADUÇÃO: apellido Wei ‖ cuero curtido/cuero suave
+韦伯 | TRADUÇÃO: (apellido) Weber/Webber/Webb ‖ weber (unidad de flujo magnético, Wb)
+韦利 | TRADUÇÃO: Waley o Whaley (nombre)/Arthur Waley (1889-1966), sinólogo británico pionero
+韦德 | TRADUÇÃO: Wade (nombre)/Sir Thomas Francis Wade (1818-1895), sinólogo británico 威妥瑪|威妥玛
+韦慕庭 | TRADUÇÃO: Clarence Martin Wilbur (1908-1997), sinólogo estadounidense y profesor de la Universidad de Columbia
+韦应物 | TRADUÇÃO: Wei Yingwu (c. 737 – c. 792), poeta de la dinastía Tang
+韦斯卡 | TRADUÇÃO: Huesca (España)
+韦格纳 | TRADUÇÃO: Alfred Wegener (1880-1930), meteorólogo y geofísico alemán, creador de la teoría de la deriva continental/también escrito 魏格納|魏格纳
+韦氏拼法 | TRADUÇÃO: sistema Wade-Giles (romanización del chino)
+韦氏鹟莺 | TRADUÇÃO: (especie de ave) mosquitero de Whistler (Phylloscopus whistleri)
+韦尔弗雷兹 | TRADUÇÃO: (George) Wehrfritz (jefe de la corresponsalía de Newsweek en Pekín)
+韦尔瓦 | TRADUÇÃO: Huelva (España)
+韦瓦第 | TRADUÇÃO: Vivaldi (nombre)/Antonio Vivaldi (1675-1741), compositor italiano
+韦科 | TRADUÇÃO: Waco (Texas, EE. UU.)
+韦编三绝 | TRADUÇÃO: romper tres veces las tiras de cuero de un rollo de bambú (modismo)/(fig.) estudiar con ahínco y asiduidad
+韦达 | TRADUÇÃO: François Viète (1540-1603), matemático francés, padre de la notación algebraica moderna
+韦驮菩萨 | TRADUÇÃO: Skanda (bodisatva protector del dharma budista)
+韧劲 | TRADUÇÃO: tenacidad/firmeza/aguante/perseverancia
+韧带 | TRADUÇÃO: ligamento
+韧性 | TRADUÇÃO: tenacidad/resiliencia/elasticidad y resistencia
+韧皮 | TRADUÇÃO: (botánica) líber/floema
+韧皮部 | TRADUÇÃO: floema (botánica)
+韧体 | TRADUÇÃO: firmware
+韨 | TRADUÇÃO: rodillera/delantal ceremonial
+韎 | TRADUÇÃO: hierba de la que se extrae tinte rojo
+韩 | TRADUÇÃO: estado de Han (uno de los Siete Reinos Combatientes 戰國七雄|战国七雄)/Corea (desde la caída de la dinastía Joseon en 1897)/Corea, esp. Corea del Sur 大韓民國|大韩民国/apellido Han
+韩世昌 | TRADUÇÃO: Han Shichang (1897-1977), actor de ópera Kunqu 崑曲|昆曲
+韩亚航空 | TRADUÇÃO: Asiana Airlines (aerolínea surcoreana)
+韩亚龙 | TRADUÇÃO: H Mart (cadena de supermercados coreanos en EE. UU. y Canadá)
+韩信 | TRADUÇÃO: Han Xin (-196 a. C.), célebre general del primer emperador Han Liu Bang 劉邦|刘邦
+韩元 | TRADUÇÃO: won (moneda de Corea del Sur)
+韩半岛 | TRADUÇÃO: península coreana (uso común en Corea del Sur)
+韩国 | TRADUÇÃO: Corea del Sur (República de Corea)/(historia) Han, uno de los Siete Reinos Combatientes 戰國七雄|战国七雄
+韩国人 | TRADUÇÃO: coreano/coreana (de Corea del Sur)
+韩国泡菜 | TRADUÇÃO: kimchi (verdura fermentada al estilo coreano)
+韩国瑜 | TRADUÇÃO: Han Kuo-yu (1957-), político taiwanés del KMT, alcalde de Kaohsiung desde 2018
+韩国联合通讯社 | TRADUÇÃO: Yonhap (agencia de noticias surcoreana)
+韩国街 | TRADUÇÃO: barrio coreano/Koreatown
+韩国语 | TRADUÇÃO: idioma coreano/lengua coreana
+韩国银行 | TRADUÇÃO: Banco de Corea
+韩圆 | TRADUÇÃO: variante de 韓元|韩元
+韩城 | TRADUÇÃO: véase 韓城市|韩城市
+韩城市 | TRADUÇÃO: ciudad de Hancheng, ciudad a nivel de condado en Weinan 渭南市, Shaanxi
+韩媒 | TRADUÇÃO: medios de comunicación surcoreanos/prensa surcoreana
+韩寒 | TRADUÇÃO: Han Han (1982-), bloguero, escritor, cantante y piloto de rally chino
+韩山师范学院 | TRADUÇÃO: Universidad Normal de Hanshan (en Shantou, Guangdong)
+韩式 | TRADUÇÃO: al estilo coreano/de estilo coreano
+韩式泡菜 | TRADUÇÃO: kimchi
+韩彦直 | TRADUÇÃO: Han Yanzhi (1131-?), botánico de la dinastía Song, autor de un tratado sobre los cítricos 橘錄|橘录
+韩复榘 | TRADUÇÃO: Han Fuju (1890–1938), general del KMT y gobernador de Shandong, ejecutado por Chiang Kai-shek 蔣介石|蒋介石 tras abandonar Jinan a los japoneses
+韩德尔 | TRADUÇÃO: (Taiwán) Händel (nombre)/Georg Friedrich Händel (1685-1759), compositor barroco alemán-británico
+韩愈 | TRADUÇÃO: Han Yu (768-824), ensayista y poeta de la dinastía Tang, impulsor del Movimiento de la Prosa Clásica 古文運動|古文运动
+韩爱晶 | TRADUÇÃO: Han Aijing (1945-), líder de la Guardia Roja durante la Revolución Cultural
+韩战 | TRADUÇÃO: Guerra de Corea (1950-1953)
+韩文 | TRADUÇÃO: hangul (alfabeto fonético coreano)/lengua escrita coreana
+韩文字母 | TRADUÇÃO: letras del alfabeto coreano/letras de hangul
+韩方 | TRADUÇÃO: la parte surcoreana/el lado coreano
+韩日 | TRADUÇÃO: Corea y Japón
+韩昇洙 | TRADUÇÃO: Han Seung-soo (1936-), diplomático y político surcoreano, primer ministro (2008-2009)
+韩服 | TRADUÇÃO: hanbok (traje tradicional coreano)
+韩朝 | TRADUÇÃO: Corea del Norte y Corea del Sur/relaciones intercoreanas
+韩棒子 | TRADUÇÃO: coreano (despectivo)
+韩正 | TRADUÇÃO: Han Zheng (1954-), político y viceprimer ministro de la República Popular China
+韩江 | TRADUÇÃO: río Han (en Guangdong)
+韩流 | TRADUÇÃO: ola coreana/hallyu (auge global de la cultura popular surcoreana desde los años 1990)
+韩澳 | TRADUÇÃO: Corea del Sur y Australia
+韩素音 | TRADUÇÃO: Han Suyin (1917-2012), médica y escritora euroasiática
+韩美 | TRADUÇÃO: surcoreano-estadounidense/Corea del Sur y Estados Unidos
+韩联社 | TRADUÇÃO: Yonhap (agencia de noticias surcoreana)
+韩语 | TRADUÇÃO: idioma coreano (especialmente referido a Corea del Sur)
+韩邦庆 | TRADUÇÃO: Han Bangqing (1856-1894), escritor de la dinastía Qing, autor de Flores de Shanghái 海上花列傳|海上花列传
+韩非 | TRADUÇÃO: Han Fei, también conocido como Han Feizi 韓非子|韩非子 (c. 280-233 a. C.), filósofo legalista del período de los Reinos Combatientes
+韩非子 | TRADUÇÃO: Han Feizi, filósofo legalista (c. 280-233 a. C.)/Han Feizi (obra fundamental del legalismo chino escrita por Han Fei)
+韔 | TRADUÇÃO: funda de arco/portaarco
+韖 | TRADUÇÃO: curtir/ablandar pieles
+韘 | TRADUÇÃO: anillo de arquero (de tiro con arco)
+韪 | TRADUÇÃO: correcto/adecuado/acertado
+韛 | TRADUÇÃO: fuelle (para avivar el fuego)
+韬 | TRADUÇÃO: funda de arco o vaina/ocultar/estrategia militar
+韬光养晦 | TRADUÇÃO: ocultar las propias capacidades y esperar el momento oportuno (modismo)/mantener un perfil bajo
+韬略 | TRADUÇÃO: estrategia militar/tácticas militares (originalmente alusivo a los clásicos militares Seis Estrategias Secretas 六韜|六韬 y Tres Estrategias 三略)
+韝 | TRADUÇÃO: brazal de arquero/guardabrazo
+韫 | TRADUÇÃO: contener/albergar/guardar
+韡 | TRADUÇÃO: resplandeciente/espléndido/vistoso
+韣 | TRADUÇÃO: funda de arco
+韭 | TRADUÇÃO: puerro chino/cebollino chino ‖ variante de 韭
+韭菜 | TRADUÇÃO: cebollino chino (Allium tuberosum)/(coloq.) pequeños inversores o consumidores ingenuos (que son explotados repetidamente en el mercado de valores, comparados con el cebollino que vuelve a crecer tras ser cortado)
+韭菜盒子 | TRADUÇÃO: jiucai hezi (empanada frita rellena de cebollino chino y huevo revuelto)
+韭菜花 | TRADUÇÃO: flor de cebollino chino/cebollino chino en flor
+韭黄 | TRADUÇÃO: brotes amarillos de cebollino chino (cultivados al resguardo de la luz)
+韱 | TRADUÇÃO: puerro silvestre o cebolleta silvestre
+音 | TRADUÇÃO: sonido/ruido/tono/nota musical/noticia/sílaba/lectura fonética de un carácter
+音位 | TRADUÇÃO: fonema
+音信 | TRADUÇÃO: noticias/mensaje/correspondencia
+音值 | TRADUÇÃO: valor fonético
+音像 | TRADUÇÃO: audiovisual/audio y vídeo
+音叉 | TRADUÇÃO: diapasón
+音名 | TRADUÇÃO: nombre de las notas musicales (do, re, mi o C, D, E)
+音圈 | TRADUÇÃO: (electrónica) bobina móvil/bobina de voz
+音域 | TRADUÇÃO: tesitura/registro vocal/rango tonal
+音容 | TRADUÇÃO: voz y semblante/aspecto de alguien
+音带 | TRADUÇÃO: cinta de audio/casete de audio
+音律 | TRADUÇÃO: afinación/temperamento/música/armonía
+音意合译 | TRADUÇÃO: traducción semántico-fonética (préstamo léxico que combina transliteración fonética y significado)
+音效 | TRADUÇÃO: efectos de sonido/efecto sonoro
+音栓 | TRADUÇÃO: (música) registro del órgano
+音乐 | TRADUÇÃO: música/CL:張|张,曲,段
+音乐之声 | TRADUÇÃO: Sonrisas y lágrimas/La novicia rebelde/The Sound of Music (musical y película)
+音乐光碟 | TRADUÇÃO: CD de música/disco compacto de audio
+音乐剧 | TRADUÇÃO: musical (teatro, cine)/comedia musical
+音乐学 | TRADUÇÃO: musicología
+音乐学院 | TRADUÇÃO: conservatorio de música/academia de música
+音乐家 | TRADUÇÃO: músico/música
+音乐厅 | TRADUÇÃO: sala de conciertos/auditorio
+音乐会 | TRADUÇÃO: concierto/recital/CL:場|场
+音乐盒 | TRADUÇÃO: caja de música/caja musical
+音乐节 | TRADUÇÃO: festival de música
+音乐电视 | TRADUÇÃO: vídeos musicales de televisión/MTV
+音标 | TRADUÇÃO: símbolo fonético/signo fonético
+音步 | TRADUÇÃO: pie métrico (poesía)/métrica/escansión
+音波 | TRADUÇÃO: onda sonora/onda acústica
+音爆 | TRADUÇÃO: estampido sónico/explosión sónica
+音痴 | TRADUÇÃO: desentonado/persona sin oído musical/sordo musical
+音程 | TRADUÇÃO: intervalo (música)
+音符 | TRADUÇÃO: nota musical/componente fonético de un carácter chino/símbolo fonético
+音管 | TRADUÇÃO: tubo de órgano
+音箱 | TRADUÇÃO: altavoz/bafle/caja acústica/caja de resonancia
+音节 | TRADUÇÃO: sílaba
+音节体 | TRADUÇÃO: silabario/escritura silábica
+音系学 | TRADUÇÃO: fonología
+音级 | TRADUÇÃO: grado musical/nota en una escala musical
+音素 | TRADUÇÃO: fonema/sonido elemental
+音义 | TRADUÇÃO: sonido y significado
+音耗 | TRADUÇÃO: noticias/recado/mensaje
+音色 | TRADUÇÃO: timbre/color del sonido
+音视 | TRADUÇÃO: sonido y vídeo/audio y vídeo
+音视频 | TRADUÇÃO: audio y vídeo/audiovisual
+音讯 | TRADUÇÃO: noticias/mensajes/correspondencia/comunicación
+音调 | TRADUÇÃO: entonación/tono de voz/altura de un sonido
+音译 | TRADUÇÃO: transliteración/transcribir fonéticamente/transcripción fonética
+音读 | TRADUÇÃO: lectura fonética de un carácter/(lingüística japonesa) on'yomi (lectura sino-japonesa derivada del chino de la época)
+音变 | TRADUÇÃO: cambio fonético
+音质 | TRADUÇÃO: calidad de sonido/timbre
+音轨 | TRADUÇÃO: pista de audio/pista de sonido
+音速 | TRADUÇÃO: velocidad del sonido
+音量 | TRADUÇÃO: volumen/intensidad acústica
+音长 | TRADUÇÃO: duración del sonido/duración de la nota musical
+音阶 | TRADUÇÃO: escala musical
+音集协 | TRADUÇÃO: Asociación de Derechos de Autor Audiovisuales de China (CAVCA)
+音韵 | TRADUÇÃO: fonología/rima y ritmo/armonía de sonidos
+音韵学 | TRADUÇÃO: fonología histórica china
+音响 | TRADUÇÃO: acústica/sonido/equipo de sonido/cadena estéreo/equipo de alta fidelidad
+音响效果 | TRADUÇÃO: efectos de sonido/acústica
+音响组合 | TRADUÇÃO: equipo estéreo/cadena de música
+音响设备 | TRADUÇÃO: equipo de audio/equipo de sonido
+音频 | TRADUÇÃO: audio/frecuencia de audio/sonido
+音频文件 | TRADUÇÃO: archivo de audio (informática)
+音频设备 | TRADUÇÃO: equipo de audio
+音高 | TRADUÇÃO: tono (música)/altura del sonido
+韶 | TRADUÇÃO: apellido Shao ‖ (literario) espléndido/glorioso/armonioso
+韶山 | TRADUÇÃO: véase 韶山市
+韶山市 | TRADUÇÃO: ciudad de Shaoshan, ciudad a nivel de condado en la ciudad de Xiangtan 湘潭市, Hunan
+韶华 | TRADUÇÃO: (literario) años de juventud/flor de la vida/años dorados
+韶关 | TRADUÇÃO: véase 韶關市|韶关市
+韶关市 | TRADUÇÃO: ciudad de Shaoguan (ciudad con nivel de prefectura en la provincia de Guangdong 廣東省|广东省)
+韹 | TRADUÇÃO: sonido de campanas y tambores
+韺 | TRADUÇÃO: música del legendario emperador Ku
+韵 | TRADUÇÃO: rima/final silábica (fonología china)/encanto/atractivo/(literario) sonido agradable
+韵事 | TRADUÇÃO: asunto poético y elegante/anécdota refinada/motivo de un poema
+韵人韵事 | TRADUÇÃO: una persona distinguida disfruta de pasatiempos elegantes (modismo)
+韵味 | TRADUÇÃO: encanto sutil/atractivo implícito/gracia
+韵尾 | TRADUÇÃO: coda silábica (fonología)
+韵律 | TRADUÇÃO: cadencia/ritmo/esquema métrico/prosodia (lingüística)
+韵文 | TRADUÇÃO: verso/poesía (en contraposición a prosa 散文)
+韵书 | TRADUÇÃO: diccionario de rimas (antiguo tipo de diccionario chino clasificado por tono y rima)
+韵母 | TRADUÇÃO: final de una sílaba china (componente silábico excluyendo la consonante inicial)
+韵白 | TRADUÇÃO: declamación rimada en la ópera de Pekín
+韵目 | TRADUÇÃO: categoría de rima en un diccionario de rimas
+韵致 | TRADUÇÃO: gracia/encanto natural ‖ gracia/atractivo natural
+韵脚 | TRADUÇÃO: palabra que rima al final del verso/rima
+韵腹 | TRADUÇÃO: núcleo vocálico/vocal principal de un diptongo
+韵诗 | TRADUÇÃO: poema rimado/verso rimado
+韵语 | TRADUÇÃO: lenguaje rimado/poesía en verso
+韵调 | TRADUÇÃO: entonación/ritmo y tono
+韵头 | TRADUÇÃO: semivocal prenuclear/vocal inicial de un diptongo
+响 | TRADUÇÃO: eco/sonar/emitir sonido/ruidoso/fuerte/sonar un timbre/clasificador para ruidos
+响亮 | TRADUÇÃO: sonoro/claro y fuerte/resonante
+响动 | TRADUÇÃO: ruido sospechoso/ruido tenue procedente de algo
+响叮当 | TRADUÇÃO: tintinear/reicar/sonar metálico
+响器 | TRADUÇÃO: instrumento de percusión/instrumento sonoro
+响当当 | TRADUÇÃO: de gran renombre/famoso/sonoro/de primera categoría
+响尾蛇 | TRADUÇÃO: serpiente de cascabel/crótalo
+响屁 | TRADUÇÃO: pedo ruidoso
+响度 | TRADUÇÃO: sonoridad/volumen sonoro/intensidad acústica
+响彻 | TRADUÇÃO: resonar en/retumbar por todo
+响应 | TRADUÇÃO: responder a/responder a una llamada/secundar/CL:個|个
+响应时间 | TRADUÇÃO: tiempo de respuesta
+响应号召 | TRADUÇÃO: responder al llamamiento/atender la convocatoria
+响板 | TRADUÇÃO: castañuelas
+响水 | TRADUÇÃO: véase 響水縣|响水县
+响水县 | TRADUÇÃO: condado de Xiangshui, en la ciudad de Yancheng 鹽城市|盐城市, Jiangsu
+响箭 | TRADUÇÃO: flecha silbadora (usada en la antigüedad como señal)
+响声 | TRADUÇÃO: sonido/ruido
+响起 | TRADUÇÃO: comenzar a sonar/resonar/repicarse/dispararse (alarma)
+响遍 | TRADUÇÃO: resonar por todas partes/retumbar por doquier
+响铃 | TRADUÇÃO: sonar el timbre/sonar la alarma/timbre
+响雷 | TRADUÇÃO: tronar/estruendo de trueno/CL:個|个
+响音 | TRADUÇÃO: consonante sonora/sonorante (fonética)
+响头 | TRADUÇÃO: dar cabezazos en el suelo en reverencia/chocar la cabeza
+頀 | TRADUÇÃO: música ritual antigua
+页 | TRADUÇÃO: cabeza/testa ‖ página/hoja
+页岩 | TRADUÇÃO: esquisto/lutita/pizarra
+页岩气 | TRADUÇÃO: gas de esquisto/gas de lutita
+页岩油 | TRADUÇÃO: petróleo de esquisto/petróleo de lutita
+页底 | TRADUÇÃO: pie de página/parte inferior de la página
+页心 | TRADUÇÃO: caja tipográfica/caja de texto (de una página)
+页框 | TRADUÇÃO: marco de página/frame (informática)
+页码 | TRADUÇÃO: número de página/paginación
+页签 | TRADUÇÃO: pestaña (interfaz gráfica de usuario)
+页蒿 | TRADUÇÃO: alcaravea/carvi
+页边 | TRADUÇÃO: margen de página
+页面 | TRADUÇÃO: página/página web
+页首 | TRADUÇÃO: encabezado de página/parte superior de la página
+顶 | TRADUÇÃO: cima/cúspide/coronilla/techo/el más/llevar sobre la cabeza/empujar hacia arriba/oponerse/sustituir/reemplazar/soportar (un bombardeo, granizo, etc.)/(jerga) subir un hilo de foro/clasificador para sombreros, gorros, velos, etc.
+顶上 | TRADUÇÃO: en lo alto de/en la cima/en la cumbre
+顶事 | TRADUÇÃO: útil/eficaz/servir para algo
+顶住 | TRADUÇÃO: aguantar/resistir/hacer frente a/soportar
+顶冒 | TRADUÇÃO: abrev. de 頂名冒姓|顶名冒姓
+顶刊 | TRADUÇÃO: revista académica de primer nivel/publicación científica de élite (abrev. de 頂級期刊|顶级期刊)
+顶刮刮 | TRADUÇÃO: variante de 頂呱呱|顶呱呱
+顶包 | TRADUÇÃO: pagar el pato por otro/asumir la culpa en lugar de alguien/servir como mano de obra forzada
+顶名冒姓 | TRADUÇÃO: usurpar la identidad de alguien/hacerse pasar por otra persona
+顶呱呱 | TRADUÇÃO: excelente/de primera/magnífico/sobresaliente
+顶嘴 | TRADUÇÃO: replicar/responder con insolencia/contestar de malas maneras
+顶多 | TRADUÇÃO: a lo sumo/a lo más/como mucho
+顶天 | TRADUÇÃO: alcanzar el límite superior/tocar el cielo
+顶天立地 | TRADUÇÃO: espíritu indomable (modismo)/de carácter imponente e íntegro/capaz de sostener el cielo y la tierra
+顶夸克 | TRADUÇÃO: quark cima/quark top (física de partículas)
+顶客 | TRADUÇÃO: véase 丁克
+顶尖 | TRADUÇÃO: cumbre/cima/de élite/el mejor del mundo/puntero/de primer nivel
+顶尖儿 | TRADUÇÃO: variante con erhua de 頂尖|顶尖
+顶尖级 | TRADUÇÃO: de máxima categoría/de primera fila/del más alto nivel
+顶层 | TRADUÇÃO: último piso/planta superior/ático/cúpula (de una organización)
+顶峰 | TRADUÇÃO: cima/cumbre/apogeo/cúspide/obra cumbre
+顶岗 | TRADUÇÃO: cubrir un turno de trabajo/sustituir a un compañero
+顶戴 | TRADUÇÃO: botón de sombrero (distintivo oficial de rango en la dinastía Qing)
+顶手 | TRADUÇÃO: traspasar o asumir un negocio o alquiler (originario del cantonés)
+顶手费 | TRADUÇÃO: prima de traspaso/derecho de llave (pagado al inquilino anterior al asumir un negocio o local)
+顶拜 | TRADUÇÃO: postrarse en reverencia/arrodillarse e inclinar la cabeza (en sumisión o devoción)
+顶撞 | TRADUÇÃO: contradecir/replicar con descaro (a mayores o superiores)
+顶挡 | TRADUÇÃO: resistir/parar los golpes/asumir la responsabilidad
+顶替 | TRADUÇÃO: reemplazar/sustituir/suplantar
+顶会 | TRADUÇÃO: congreso académico de primer nivel/conferencia de élite (abrev. de 頂級會議|顶级会议)
+顶板 | TRADUÇÃO: techo (de una cueva o mina)/placa superior/ábaco
+顶格 | TRADUÇÃO: (tipografía) sin sangría/alinear el texto al margen superior o izquierdo
+顶杆 | TRADUÇÃO: varilla de empuje/barra superior
+顶梁柱 | TRADUÇÃO: pilar fundamental/columna vertebral/soporte principal
+顶棒 | TRADUÇÃO: sufridera/barra de remachar
+顶棚 | TRADUÇÃO: falso techo/cielo raso/toldo bajo el techo
+顶楼 | TRADUÇÃO: último piso/ático/buhardilla/desván/azotea
+顶流 | TRADUÇÃO: celebridad o influencer de máxima popularidad/figura de primerísima línea (jerga, abrev. de 頂級流量|顶级流量)
+顶港 | TRADUÇÃO: (Taiwán) norte de Taiwán (del taiwanés Hokkien tíng-káng)
+顶港有名声，下港上出名 | TRADUÇÃO: (Taiwán) célebre en todo el país (dicho popular del taiwanés Hokkien)
+顶灯 | TRADUÇÃO: luz de techo/plafón de techo/luz interior de coche/luz de taxi
+顶牛儿 | TRADUÇÃO: embestirse con la cabeza/enfrentarse cabeza a cabeza/estar enfrentados
+顶班 | TRADUÇÃO: hacer una sustitución/cubrir el turno de otro
+顶用 | TRADUÇÃO: ser útil/servir para algo/ser de provecho
+顶盘 | TRADUÇÃO: adquirir un negocio en apuros para reflotarlo/hacerse cargo de un comercio
+顶目 | TRADUÇÃO: ítem/partida/proyecto
+顶礼膜拜 | TRADUÇÃO: postrarse en adoración (modismo)/(fig.) venerar ciegamente/rendir pleitesía
+顶端 | TRADUÇÃO: cúspide/ápice/extremo superior/punta
+顶端优势 | TRADUÇÃO: (botánica) dominancia apical
+顶级 | TRADUÇÃO: de primer nivel/de primera clase/del más alto rango/top
+顶缸 | TRADUÇÃO: cargar con las culpas/hacer de chivo expiatorio/pagar el pato
+顶罪 | TRADUÇÃO: asumir la culpa por otro/cargar con la responsabilidad penal ajena
+顶芽 | TRADUÇÃO: yema terminal/yema apical (botánica)
+顶叶 | TRADUÇÃO: lóbulo parietal (anatomía)
+顶盖 | TRADUÇÃO: techo/cubierta/tapa
+顶补 | TRADUÇÃO: cubrir una vacante/sustituir
+顶角 | TRADUÇÃO: ángulo apical/ángulo del vértice
+顶谢 | TRADUÇÃO: agradecer con una reverencia
+顶让 | TRADUÇÃO: (Taiwán) traspasar un negocio por un precio acordado
+顶轮 | TRADUÇÃO: sahasrara/chakra corona (ubicado en la coronilla de la cabeza)
+顶部 | TRADUÇÃO: parte superior/cima/techo/ápice
+顶配 | TRADUÇÃO: configuración tope de gama/especificación más alta (de un producto)
+顶针 | TRADUÇÃO: dedal
+顶门壮户 | TRADUÇÃO: sacar adelante el negocio familiar (modismo)/ser el sostén del hogar
+顶阀 | TRADUÇÃO: válvula superior/válvula de cabeza
+顶面 | TRADUÇÃO: cara superior/superficie superior/techo
+顶头 | TRADUÇÃO: venir de frente/parte superior/superior inmediato
+顶头上司 | TRADUÇÃO: jefe inmediato/superior directo
+顶风 | TRADUÇÃO: contra el viento/de cara al viento/(fig.) contra la ley o la normativa
+顶骨 | TRADUÇÃO: hueso parietal (anatomía)
+顶点 | TRADUÇÃO: vértice (mat.)/cima/cumbre/apogeo
+顷 | TRADUÇÃO: variante de 傾|倾 ‖ qing (unidad de superficie equivalente a 100 畝|亩 o 6,67 hectáreas)/un breve momento/hace poco tiempo/hacia (para fechas aproximadas)
+顷久 | TRADUÇÃO: un instante o una eternidad
+顷之 | TRADUÇÃO: al cabo de un momento/poco después
+顷刻 | TRADUÇÃO: en un instante/en un abrir y cerrar de ojos/al instante
+顷刻间 | TRADUÇÃO: en un abrir y cerrar de ojos/en un instante
+顷者 | TRADUÇÃO: hace un momento/recientemente
+頄 | TRADUÇÃO: pómulo/hueso cigomático
+项 | TRADUÇÃO: apellido Xiang ‖ nuca/ítem/artículo/término (en una fórmula matemática)/suma (de dinero)/clasificador para principios, cláusulas, tareas, proyectos de investigación, etc.
+项上人头 | TRADUÇÃO: cabeza sobre los hombros (como en "salvar el cuello", es decir, la vida)
+项圈 | TRADUÇÃO: collar rígido/gargantilla
+项城 | TRADUÇÃO: véase 項城市|项城市
+项城市 | TRADUÇÃO: ciudad de Xiangcheng, ciudad a nivel de condado en Zhoukou 周口市, Henan
+项目 | TRADUÇÃO: proyecto/ítem/prueba deportiva
+项目管理 | TRADUÇÃO: gestión de proyectos/administración de proyectos
+项羽 | TRADUÇÃO: Xiang Yu el Conquistador (232-202 a. C.), señor de la guerra derrotado por Liu Bang
+项英 | TRADUÇÃO: Xiang Ying (1898-1941), general comunista chino del Nuevo Cuarto Ejército
+项庄舞剑 | TRADUÇÃO: Xiang Zhuang ejecuta la danza de las espadas (modismo, alude a la intriga para asesinar a Liu Bang en el banquete de Hongmen 鴻門宴|鸿门宴 en 206 a. C.)/(fig.) estratagema que oculta una intención maliciosa
+项庄舞剑，志在沛公 | TRADUÇÃO: véase 項莊舞劍，意在沛公|项庄舞剑，意在沛公
+项庄舞剑，意在沛公 | TRADUÇÃO: Xiang Zhuang danza con la espada, pero su verdadero objetivo es el Duque de Pei (modismo)/(fig.) fingir una cosa cuando se tiene otra intención maliciosa oculta
+项链 | TRADUÇÃO: collar/gargantilla/cadena/CL:條|条
+项颈 | TRADUÇÃO: nuca/pescuezo
+顺 | TRADUÇÃO: obedecer/seguir/ordenar/acomodar/favorable/a favor de la corriente
+顺位 | TRADUÇÃO: orden de prelación/posición/rango
+顺便 | TRADUÇÃO: de paso/aprovechando la ocasión/sin esfuerzo adicional
+顺其自然 | TRADUÇÃO: dejar que las cosas sigan su curso natural (modismo)/dejar fluir
+顺利 | TRADUÇÃO: sin contratiempos/exitosamente/sobre ruedas/favorablemente
+顺势 | TRADUÇÃO: aprovechar el impulso/aprovechar la oportunidad/de paso
+顺势疗法 | TRADUÇÃO: homeopatía (medicina alternativa)
+顺化 | TRADUÇÃO: Hue (ciudad histórica del centro de Vietnam, capital de la provincia de Thua Thien)
+顺口 | TRADUÇÃO: de lectura fluida (texto)/soltar sin pensar/agradable al paladar
+顺口溜 | TRADUÇÃO: rima popular pegadiza/copla popular fácil de recordar
+顺和 | TRADUÇÃO: apacible/afable/dócil
+顺嘴 | TRADUÇÃO: decir sin pensarlo/leerse con fluidez/saber bien
+顺嘴儿 | TRADUÇÃO: soltar sin pensar/leerse con soltura/apetitoso
+顺坦 | TRADUÇÃO: sobre ruedas/sin tropiezos/con fluidez
+顺城 | TRADUÇÃO: véase 順城區|顺城区
+顺城区 | TRADUÇÃO: distrito de Shuncheng, en la ciudad de Fushun 撫順市|抚顺市, Liaoning
+顺境 | TRADUÇÃO: circunstancias favorables/prosperidad/buena racha
+顺子 | TRADUÇÃO: escalera (póker, mahjong)
+顺导 | TRADUÇÃO: encauzar adecuadamente/guiar hacia un resultado favorable
+顺山倒 | TRADUÇÃO: ¡árbol va! (grito de advertencia de los leñadores)
+顺差 | TRADUÇÃO: superávit (comercial o presupuestario)
+顺带 | TRADUÇÃO: de paso/de camino/aprovechando para
+顺带一提 | TRADUÇÃO: por cierto/dicho sea de paso
+顺平 | TRADUÇÃO: véase 順平縣|顺平县
+顺平县 | TRADUÇÃO: condado de Shunping, en la ciudad de Baoding 保定市, Hebei
+顺序 | TRADUÇÃO: orden/secuencia/sucesión
+顺序数 | TRADUÇÃO: número ordinal
+顺延 | TRADUÇÃO: posponerse correlativamente/aplazarse según corresponda
+顺式 | TRADUÇÃO: cis- (isómero en química)/véase también 反式
+顺从 | TRADUÇÃO: obediente/dócil/someterse/acatar
+顺德 | TRADUÇÃO: véase 順德區|顺德区
+顺德区 | TRADUÇÃO: distrito de Shunde, en la ciudad de Foshan 佛山市, Guangdong
+顺心 | TRADUÇÃO: a gusto/satisfactorio/conforme al deseo de uno
+顺性别 | TRADUÇÃO: cisgénero
+顺意 | TRADUÇÃO: grato/agradable/conforme a los deseos
+顺庆 | TRADUÇÃO: véase 順慶區|顺庆区
+顺庆区 | TRADUÇÃO: distrito de Shunqing, en la ciudad de Nanchong 南充市, Sichuan
+顺应 | TRADUÇÃO: adaptarse a/ajustarse a/plegarse a/acoplarse a
+顺应不良 | TRADUÇÃO: inadaptación/incapacidad de adaptación
+顺应天时 | TRADUÇÃO: armonizarse con la naturaleza y las estaciones (MTC)
+顺我者昌逆我者亡 | TRADUÇÃO: quien me obedece prosperará y quien se me oponga perecerá (dicho)
+顺手 | TRADUÇÃO: de paso/al alcance de la mano/aprovechando la ocasión/fácil/sin dificultad
+顺手儿 | TRADUÇÃO: práctico/cómodo/fácil de usar/sin complicaciones
+顺手牵羊 | TRADUÇÃO: llevarse una oveja de paso (modismo)/(fig.) aprovechar un descuido para apropiarse de algo ajeno
+顺拐 | TRADUÇÃO: caminar moviendo simultáneamente el brazo y la pierna del mismo lado
+顺叙 | TRADUÇÃO: narración cronológica/orden cronológico
+顺斜 | TRADUÇÃO: cataclinal (geología)
+顺昌 | TRADUÇÃO: véase 順昌縣|顺昌县
+顺昌县 | TRADUÇÃO: condado de Shunchang, en la ciudad de Nanping 南平市, Fujian
+顺时针 | TRADUÇÃO: en el sentido de las agujas del reloj/en sentido horario
+顺畅 | TRADUÇÃO: fluido/expedito/sin obstáculos
+顺服 | TRADUÇÃO: someterse a/obedecer
+顺次 | TRADUÇÃO: en orden/por turno/sucesivamente
+顺民 | TRADUÇÃO: súbdito sumiso/adulador servil
+顺气 | TRADUÇÃO: agradable/reconfortante/apaciguar los ánimos
+顺水 | TRADUÇÃO: a favor de la corriente
+顺水人情 | TRADUÇÃO: hacer un favor que no cuesta nada/favor por conveniencia
+顺水推舟 | TRADUÇÃO: empujar la barca con la corriente (modismo)/(fig.) aprovechar las circunstancias en beneficio propio
+顺水推船 | TRADUÇÃO: empujar el barco con la corriente (modismo)/(fig.) aprovechar la ocasión para beneficio propio
+顺河 | TRADUÇÃO: véase 順河回族區|顺河回族区
+顺河区 | TRADUÇÃO: distrito hui de Shunhe, en Kaifeng 開封市|开封市, Henan
+顺河回族区 | TRADUÇÃO: distrito hui de Shunhe, en la ciudad de Kaifeng 開封市|开封市, Henan
+顺治 | TRADUÇÃO: Shunzhi (era del segundo emperador de la dinastía Qing, 1644-1662)
+顺治帝 | TRADUÇÃO: emperador Shunzhi (1638-1662), segundo emperador de la dinastía Qing (reinó 1644-1662)
+顺溜 | TRADUÇÃO: ordenado/armonioso/fluido/liso
+顺滑 | TRADUÇÃO: suave y liso/sedoso
+顺潮 | TRADUÇÃO: marea favorable
+顺理成章 | TRADUÇÃO: lógico/de cajón/estructurado de forma natural y coherente (texto)
+顺产 | TRADUÇÃO: parto natural/parto sin complicaciones/parto vaginal normal
+顺当 | TRADUÇÃO: sin contratiempos/fácilmente
+顺眼 | TRADUÇÃO: agradable a la vista/atractivo de ver
+顺磁 | TRADUÇÃO: paramagnético
+顺稿 | TRADUÇÃO: pulir la redacción/revisar un texto para mejorar su fluidez
+顺义 | TRADUÇÃO: véase 順義區|顺义区
+顺义区 | TRADUÇÃO: distrito de Shunyi, en Pekín
+顺耳 | TRADUÇÃO: agradable al oído
+顺着 | TRADUÇÃO: a lo largo de/siguiendo/conforme a
+顺藤摸瓜 | TRADUÇÃO: seguir la enredadera hasta encontrar el melón (modismo)/seguir las pistas hasta esclarecer el asunto
+顺行 | TRADUÇÃO: movimiento directo en sentido horario (astronomía)/seguir el curso normal
+顺访 | TRADUÇÃO: visitar de paso/visita incidental
+顺路 | TRADUÇÃO: de camino/de paso
+顺遂 | TRADUÇÃO: marchar todo sobre ruedas/ir todo según los deseos
+顺道 | TRADUÇÃO: de camino/de paso
+顺适 | TRADUÇÃO: confortable/agradable/conforme
+顺风 | TRADUÇÃO: viento a favor/¡buen viaje!/viento en popa
+顺风耳 | TRADUÇÃO: orejas que todo lo oyen (personaje mitológico con oído prodigioso)/(fig.) persona muy bien informada
+顺风车 | TRADUÇÃO: viaje compartido/hacer dedo/autoestop/(fig.) aprovecharse del éxito o esfuerzo de otro
+顺风转舵 | TRADUÇÃO: cambiar de rumbo según sople el viento (modismo)/actuar por conveniencia oportunista
+顸 | TRADUÇÃO: torpe/lento/pesado
+须 | TRADUÇÃO: deber/tener que/esperar ‖ barba/bigote/antena (de insecto)/borla/fleco
+须丸 | TRADUÇÃO: hematita (Fe2O3)
+须弥 | TRADUÇÃO: monte Meru o Sumeru (montaña sagrada en la tradición budista y jainista)/monte Xumi (en Guyuan 固原, Ningxia, con grutas budistas)
+须弥山 | TRADUÇÃO: monte Meru o Sumeru (montaña sagrada en la tradición budista y jainista)/monte Xumi (en Guyuan 固原, Ningxia, con grutas budistas)
+须知 | TRADUÇÃO: instrucciones/guía básica/información imprescindible/téngase en cuenta
+须臾 | TRADUÇÃO: en un instante/en un santiamén/en un abrir y cerrar de ojos
+须要 | TRADUÇÃO: deber necesariamente/tener que/ser indispensable
+顼 | TRADUÇÃO: apellido Xu/pronunciación en Taiwán [Xu4] ‖ usado en 顓頊|颛顼/usado en 頊頊|顼顼/pronunciación en Taiwán [xu4]
+顼顼 | TRADUÇÃO: frustrado/decepcionado
+颂 | TRADUÇÃO: oda/panegírico/alabar por escrito/desear (en cartas)
+颂扬 | TRADUÇÃO: elogiar/ensalzar/alabar
+颂歌 | TRADUÇÃO: villancico/cántico de alabanza/himno
+颂声载道 | TRADUÇÃO: los elogios colman las calles (modismo)/alabanza unánime/aprobación universal
+颂词 | TRADUÇÃO: panegírico/discurso de encomio/oda
+颂赞 | TRADUÇÃO: alabar/ensalzar/cantar alabanzas
+颂辞 | TRADUÇÃO: variante de 頌詞|颂词
+𫠆 | TRADUÇÃO: levantar la cabeza
+颀 | TRADUÇÃO: alto/esbelto
+颃 | TRADUÇÃO: volar hacia abajo
+预 | TRADUÇÃO: de antemano/previamente/anticipadamente/preparar
+预付 | TRADUÇÃO: pagar por adelantado/prepago
+预付卡 | TRADUÇÃO: tarjeta prepago
+预估 | TRADUÇÃO: estimar/prever/pronóstico/proyección/estimación
+预备 | TRADUÇÃO: preparar/disponer/preparación/preparatorio
+预备役 | TRADUÇÃO: servicio de reserva militar/reserva militar/reservista
+预备知识 | TRADUÇÃO: conocimientos previos/requisito previo/base de conocimientos

@@ -1,6 +1,7 @@
 // ----- Seção: Configurações — aba Estudo (revisão, destaques e tipo de hanzi) -----
 import { config } from '../../../wailsjs/go/models';
 import { SecaoDependente } from '../comum';
+import { t } from '../../i18n/i18n';
 
 interface AbaEstudoProps {
   termoBusca: string;
@@ -11,30 +12,14 @@ interface AbaEstudoProps {
 export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao }: AbaEstudoProps) {
   return (
     <>
-      {termoBusca && <h3 className="settings-section-title" style={{ marginTop: '32px' }}>Estudo</h3>}
+      {termoBusca && <h3 className="settings-section-title" style={{ marginTop: '32px' }}>{t('Estudo')}</h3>}
 
-      {(!termoBusca || "revisão priorizar caracteres em estudo hanzi sorteio".includes(termoBusca.toLowerCase())) && (
-        <div className="form-group">
-          <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-            <span>Priorizar caracteres em estudo nas revisões</span>
-            <input
-              type="checkbox"
-              checked={configuracoesApp.priorizarEstudoRevisao}
-              onChange={e => AtualizarConfiguracao('priorizarEstudoRevisao', e.target.checked)}
-            />
-          </label>
-          <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
-            As sessões de revisão sorteiam primeiro os hanzis marcados como "Estudando". Quando
-            houver poucos em estudo, o restante vem aleatoriamente do dicionário para evitar
-            repetições.
-          </small>
-        </div>
-      )}
+
 
       {(!termoBusca || "revisão sons efeitos sonoros acerto erro jingle".includes(termoBusca.toLowerCase())) && (
         <div className="form-group">
           <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-            <span>Sons de acerto e erro nas revisões</span>
+            <span>{t('Sons de acerto e erro nas revisões')}</span>
             <input
               type="checkbox"
               checked={configuracoesApp.sonsRevisao}
@@ -42,8 +27,23 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
             />
           </label>
           <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
-            Jingles curtos de feedback ao responder (acerto, erro, sequência e fim de sessão),
-            gerados pelo próprio app — não dependem do motor de voz.
+            {t('Jingles curtos de feedback ao responder (acerto, erro, sequência e fim de sessão), gerados pelo próprio app — não dependem do motor de voz.')}
+          </small>
+        </div>
+      )}
+
+      {(!termoBusca || "sugestao sugerir palavras vistas ocr pop-up popup baralho cartas balatro estudo".includes(termoBusca.toLowerCase())) && (
+        <div className="form-group">
+          <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
+            <span>{t('Sugerir para estudo as palavras muito vistas pelo OCR')}</span>
+            <input
+              type="checkbox"
+              checked={configuracoesApp.mostrarSugestaoPalavrasVistas ?? true}
+              onChange={e => AtualizarConfiguracao('mostrarSugestaoPalavrasVistas', e.target.checked)}
+            />
+          </label>
+          <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
+            {t('Ao abrir as abas "Palavras Dessa Seção" e "Já Vistas", um pop-up em forma de baralho oferece as palavras que mais apareceram nos seus scans para você mover para "Em estudo".')}
           </small>
         </div>
       )}
@@ -51,7 +51,7 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
       {(!termoBusca || "estudando highlight azul destacar tela".includes(termoBusca.toLowerCase())) && (
         <div className="form-group">
           <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-            <span>Destacar com um quadrado azul nativo os Hanzis recém-escaneados que já estão "Em Estudo"</span>
+            <span>{t('Destacar com um quadrado azul nativo os Hanzis recém-escaneados que já estão "Em Estudo"')}</span>
             <input
               type="checkbox"
               checked={configuracoesApp.destacarEstudoTela}
@@ -59,7 +59,7 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
             />
           </label>
           <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
-            Eles serão destacados na tela logo após o escaneamento caso você permaneça na aba de Descobrimento ou de Palavras dessa Seção.
+            {t('Eles serão destacados na tela logo após o escaneamento caso você permaneça na aba de Descobrimento ou de Palavras dessa Seção.')}
           </small>
         </div>
       )}
@@ -67,7 +67,7 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
       {(!termoBusca || "estudando highlight amarelo destacar tela parcial".includes(termoBusca.toLowerCase())) && (
         <div className="form-group">
           <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-            <span>Destacar com um quadrado amarelo Hanzis que estão "Em Estudo" quando aparecerem dentro de outras palavras</span>
+            <span>{t('Destacar com um quadrado amarelo Hanzis que estão "Em Estudo" quando aparecerem dentro de outras palavras')}</span>
             <input
               type="checkbox"
               checked={configuracoesApp.destacarEstudoParcialTela}
@@ -75,14 +75,14 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
             />
           </label>
           <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
-            Ex: se você está estudando o caractere "好", ele receberá um highlight amarelo dentro do card "你好".
+            {t('Ex: se você está estudando o caractere "好", ele receberá um highlight amarelo dentro do card "你好".')}
           </small>
         </div>
       )}
       {(!termoBusca || "hanzi tradicional simplificado ambos tipo exibir cards".includes(termoBusca.toLowerCase())) && (
         <div className="form-group">
           <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-            <span>Tipo de Hanzi exibido nas listas e revisão</span>
+            <span>{t('Grafia de Hanzi preferida')}</span>
             <ToggleOpcoes
               opcoes={[
                 { valor: 'ambos', rotulo: 'Ambos' },
@@ -94,7 +94,7 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
             />
           </label>
           <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
-            Filtra as abas de Descobrimento, Estudos e Revisão para mostrar apenas o tipo desejado (A busca global ignora este filtro).
+            {t('Define a grafia dos cards do OCR, do Descobrimento ao vivo e do conteúdo gerado na revisão. Suas listas de Estudos mostram cada palavra na grafia em que foi salva — as versões simplificada e tradicional convivem como itens separados. A busca global ignora este filtro.')}
           </small>
         </div>
       )}
@@ -103,7 +103,7 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
         {(!termoBusca || "hanzi tradicional simplificado ambos tipo gerar cards".includes(termoBusca.toLowerCase())) && (
           <div className="form-group">
             <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-              <span>Tipo de Hanzi gerado pelo OCR</span>
+              <span>{t('Tipo de Hanzi gerado pelo OCR')}</span>
               <ToggleOpcoes
                 opcoes={[
                   { valor: 'ambos', rotulo: 'Ambos' },
@@ -115,7 +115,7 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
               />
             </label>
             <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
-              Quando o OCR detectar texto, os cards gerados serão convertidos para o tipo escolhido caso a palavra possua a respectiva versão.
+              {t('Quando o OCR detectar texto, os cards gerados serão convertidos para o tipo escolhido caso a palavra possua a respectiva versão.')}
             </small>
           </div>
         )}
@@ -125,7 +125,7 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
         {(!termoBusca || "restringir busca pesquisa desenho hanzi".includes(termoBusca.toLowerCase())) && (
           <div className="form-group">
             <label style={{ display: 'flex', alignItems: 'center', gap: '8px', justifyContent: 'space-between' }}>
-              <span>Aplicar restrição de tipo na pesquisa por desenho</span>
+              <span>{t('Aplicar restrição de tipo na pesquisa por desenho')}</span>
               <input
                 type="checkbox"
                 checked={configuracoesApp.restringirHanziDesenho ?? true}
@@ -133,7 +133,7 @@ export function AbaEstudo({ termoBusca, configuracoesApp, AtualizarConfiguracao 
               />
             </label>
             <small style={{ color: 'var(--cor-texto-suave)', display: 'block', marginTop: '6px', paddingLeft: '24px' }}>
-              Ao desenhar um Hanzi para pesquisar, exibir apenas resultados do tipo selecionado acima.
+              {t('Ao desenhar um Hanzi para pesquisar, exibir apenas resultados do tipo selecionado acima.')}
             </small>
           </div>
         )}
@@ -163,7 +163,7 @@ function ToggleOpcoes({ opcoes, valor, onChange }: { opcoes: { valor: string, ro
             fontSize: '13px'
           }}
         >
-          {opcao.rotulo}
+          {t(opcao.rotulo)}
         </button>
       ))}
     </div>

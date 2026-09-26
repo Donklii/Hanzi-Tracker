@@ -5,6 +5,7 @@ import (
 	"bytes"
 	"compress/gzip"
 	_ "embed"
+	"encoding/json"
 	"fmt"
 	"strings"
 	"sync"
@@ -18,8 +19,12 @@ import (
 //
 // O arquivo embarcado é um TSV gzipado ("caractere\tjson") de ~40 MB descomprimido, por isso o
 // carregamento é PREGUIÇOSO (sync.Once): a memória só é paga quando a revisão de desenho é usada.
+//
+// Fica em fontes/ (junto das outras origens externas cruas), mesmo sendo embarcado direto sem
+// passar por fusão: é a única fonte que já chega no formato exato que o app consome, byte a byte —
+// não há produto derivado equivalente em idiomas/ para gerar (ver LICENCAS-DADOS.md).
 
-//go:embed hanzi_tracados.tsv.gz
+//go:embed fontes/hanzi_tracados.tsv.gz
 var dadosTracados []byte
 
 type BancoTracados struct {
@@ -66,6 +71,24 @@ func (b *BancoTracados) Dados(caractere string) (string, bool) {
 	}
 	json, existe := b.porCaractere[caractere]
 	return json, existe
+}
+
+// TotalTracos devolve quantos traços o caractere tem. Serve para validar índices de traço vindos de
+// OUTRO arquivo (as correspondências da decomposição — ver Banco.ComponentesDesenhaveis) antes de
+// mandá-los ao frontend: um índice fora da faixa quebraria o canvas.
+func (b *BancoTracados) TotalTracos(caractere string) (int, bool) {
+	dados, existe := b.Dados(caractere)
+	if !existe {
+		return 0, false
+	}
+
+	var forma struct {
+		Tracos []json.RawMessage `json:"strokes"`
+	}
+	if err := json.Unmarshal([]byte(dados), &forma); err != nil {
+		return 0, false
+	}
+	return len(forma.Tracos), true
 }
 
 // Tem informa se há dados de traçado para o caractere (usado ao filtrar candidatos da revisão).

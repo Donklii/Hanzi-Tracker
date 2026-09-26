@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+汉堡王 | TRADUÇÃO: Burger King (restaurante de comida rápida)
+汉寿 | TRADUÇÃO: véase 漢壽縣|汉寿县
+汉寿县 | TRADUÇÃO: Hanshou, condado de la ciudad de Changde 常德市, Hunan
+汉奸 | TRADUÇÃO: traidor (a China)/colaborador
+汉姓 | TRADUÇÃO: apellido Han/(esp.) apellido Han adoptado por una persona de otra etnia
+汉娜 | TRADUÇÃO: Hannah/Hanna (nombre)
+汉子 | TRADUÇÃO: hombre/tipo/sujeto/(dialectal) marido
+汉字 | TRADUÇÃO: carácter chino/sinograma
+汉字查字法 | TRADUÇÃO: método de búsqueda de caracteres chinos
+汉学 | TRADUÇÃO: sinología/estudios chinos (en escuelas extranjeras)/Estudios Han (movimiento de la dinastía Qing para la evaluación filológica de los Clásicos)
+汉学家 | TRADUÇÃO: sinólogo/estudioso de la lengua y cultura chinas
+汉学系 | TRADUÇÃO: departamento de sinología/instituto de sinología
+汉宣帝 | TRADUÇÃO: Emperador Xuan de Han (91-48 a. C.), de la dinastía Han Anterior, reinó del 74 al 48 a. C.
+汉密尔顿 | TRADUÇÃO: Hamilton (nombre)/Hamilton (capital de Bermudas)
+汉尼拔 | TRADUÇÃO: Aníbal (nombre)/Aníbal Barca (247-183 a. C.), general cartaginés
+汉川 | TRADUÇÃO: véase 漢川市|汉川市
+汉川市 | TRADUÇÃO: Hanchuan, ciudad-condado de la ciudad de Xiaogan 孝感市, Hubei
+汉拼 | TRADUÇÃO: Hanyu Pinyin (abrev. de 漢語拼音|汉语拼音)
+汉拿山 | TRADUÇÃO: monte Hallasan/monte Halla, la montaña más alta de Corea del Sur
+汉文 | TRADUÇÃO: lengua china escrita/literatura china (esp. la enseñada en el extranjero)
+汉文帝 | TRADUÇÃO: Emperador Wen de Han (202-157 a. C.), cuarto emperador Han, nombre personal Liu Heng 劉恆|刘恒, reinó del 180 al 157 a. C.
+汉文帝刘恒 | TRADUÇÃO: Liu Heng (202-157 a. C.), el cuarto emperador Han, Emperador Wen de Han, reinó del 180 al 157 a. C.
+汉斯 | TRADUÇÃO: Hans (nombre)/Reims (ciudad de Francia)
+汉族 | TRADUÇÃO: etnia Han, grupo étnico mayoritario de China
+汉明帝 | TRADUÇÃO: Emperador Ming de Han (28-75), emperador de la dinastía Han Oriental, reinó del 58 al 75
+汉书 | TRADUÇÃO: Libro de Han/Historia de la Dinastía Han Anterior, segunda de las 24 historias dinásticas 二十四史, compuesta por Ban Gu 班固 en el año 82 durante la dinastía Han Oriental, 100 rollos
+汉服 | TRADUÇÃO: vestimenta tradicional Han/hanfu (incluye varios estilos de ropa usada por la etnia Han antes de la dinastía Qing, revivida en el siglo XXI como movimiento cultural)/estilos de ropa de la dinastía Han
+汉朝 | TRADUÇÃO: dinastía Han (206 a. C.-220 d. C.)
+汉末魏初 | TRADUÇÃO: finales de Han y principios de Wei (aprox. primera mitad del siglo III d. C.)
+汉森 | TRADUÇÃO: Hansen o Hanson (nombre)
+汉武帝 | TRADUÇÃO: Emperador Wu de Han (141-87 a. C.)
+汉民族 | TRADUÇÃO: etnia Han/pueblo Han
+汉水 | TRADUÇÃO: río Han (Hanshui)
+汉江 | TRADUÇÃO: río Han
+汉沽 | TRADUÇÃO: Hangu, antiguo distrito de Tianjin, ahora parte del nuevo distrito de Binhai 濱海新區|滨海新区
+汉沽区 | TRADUÇÃO: Hangu, antiguo distrito de Tianjin, ahora parte del nuevo distrito de Binhai 濱海新區|滨海新区
+汉源 | TRADUÇÃO: véase 漢源縣|汉源县
+汉源县 | TRADUÇÃO: Hanyuan, condado de la ciudad de Ya'an 雅安市, Sichuan
+汉滨 | TRADUÇÃO: véase 漢濱區|汉滨区
+汉滨区 | TRADUÇÃO: Hanbin, distrito de la ciudad de Ankang 安康市, Shaanxi
+汉献帝 | TRADUÇÃO: Emperador Xian de Han (181-234), último emperador Han, entronizado por Dong Zhuo 董卓, reinó de 189 a 220, obligado a abdicar en 220 por Cao Pi 曹丕
+汉白玉 | TRADUÇÃO: mármol blanco/tipo de mármol blanco usado en construcción y escultura
+汉简 | TRADUÇÃO: tablillas de bambú de la dinastía Han (usadas para el registro de textos)
+汉腔 | TRADUÇÃO: acento de Wuhan
+汉台 | TRADUÇÃO: véase 漢臺區|汉台区
+汉台区 | TRADUÇÃO: Hantai, distrito de la ciudad de Hanzhong 漢中市|汉中市, Shaanxi
+汉英 | TRADUÇÃO: chino-inglés
+汉英互译 | TRADUÇÃO: traducción bidireccional chino-inglés
+汉萨同盟 | TRADUÇÃO: Liga Hanseática
+汉藏语系 | TRADUÇÃO: familia de lenguas sino-tibetanas/lenguas sino-tibetanas
+汉语 | TRADUÇÃO: idioma chino/lengua china/chino mandarín
+汉语大字典 | TRADUÇÃO: Hanyu Da Zidian, uno de los diccionarios de caracteres chinos más completos con 54 678 (y más tarde 60 370) entradas, publicado por primera vez entre 1986 y 1990
+汉语大词典 | TRADUÇÃO: Hanyu Da Cidian, el diccionario chino más extenso, con más de 375 000 entradas léxicas, publicado por primera vez entre 1986 y 1994
+汉语拼音 | TRADUÇÃO: Hanyu Pinyin, sistema oficial de romanización del chino mandarín utilizado en la República Popular China desde la década de 1950
+汉语水平考试 | TRADUÇÃO: HSK/examen de nivel de competencia de lengua china
+汉诺威 | TRADUÇÃO: Hanóver
+汉贼不两立 | TRADUÇÃO: (modismo) (lit.) Shu Han 蜀漢|蜀汉 y Cao Wei 曹魏 no pueden coexistir/(fig.) dos enemigos irreconciliables no pueden vivir bajo el mismo cielo/los hombres justos y los traidores no coexisten
+汉办 | TRADUÇÃO: Hanban (abrev. de 國家漢辦|国家汉办, Oficina del Consejo Internacional de la Lengua China)
+汉阴 | TRADUÇÃO: véase 漢陰縣|汉阴县
+汉阴县 | TRADUÇÃO: Hanyin, condado de la ciudad de Ankang 安康市, Shaanxi
+汉阳 | TRADUÇÃO: véase 漢陽區|汉阳区
+汉阳区 | TRADUÇÃO: Hanyang, distrito de la ciudad de Wuhan 武漢市|武汉市, Hubei
+汉灵帝 | TRADUÇÃO: Emperador Ling de Han (156-189), reinó de 168 a 189
+汉高祖 | TRADUÇÃO: nombre póstumo del primer emperador Han, Liu Bang 劉邦|刘邦 (256 o 247-195 a. C.), reinó de 202 a 195 a. C.
+涟 | TRADUÇÃO: onda en el agua/ondulación/lloroso
+涟水 | TRADUÇÃO: véase 漣水縣|涟水县
+涟水县 | TRADUÇÃO: Lianshui, condado de la ciudad de Huai'an 淮安市, Jiangsu
+涟源 | TRADUÇÃO: véase 漣源市|涟源市
+涟源市 | TRADUÇÃO: Lianyuan, ciudad-condado de la ciudad de Loudi 婁底市|娄底市, Hunan
+涟漪 | TRADUÇÃO: ondas concéntricas/ondas en el agua/rizos de agua
+涟漪微漾 | TRADUÇÃO: ondas suaves en el agua/ondulaciones leves
+漤 | TRADUÇÃO: remojar frutas en agua tibia o de cal para quitar la astringencia/marinar en sal/encurtir
+漥 | TRADUÇÃO: variante de 窪|洼
+漦 | TRADUÇÃO: fluir con la corriente/moco/saliva
+漨 | TRADUÇÃO: nombre de un río antiguo
+漩 | TRADUÇÃO: remolino/vórtice/también pronunciado [xuan4]
+漩涡 | TRADUÇÃO: remolino/vórtice/(fig.) vorágine
+漪 | TRADUÇÃO: onda en el agua/rizos en el agua
+漫 | TRADUÇÃO: libre/desenfrenado/inundar/desbordar
+漫不经心 | TRADUÇÃO: descuidado/despreocupado/distraído/indiferente
+漫不经意 | TRADUÇÃO: descuidado/despreocupado
+漫天 | TRADUÇÃO: (lit.) llenar todo el cielo/por todas partes/hasta donde alcanza la vista
+漫天要价 | TRADUÇÃO: pedir precios exorbitantes/pedir precios por las nubes
+漫天遍地 | TRADUÇÃO: (modismo) (lit.) llenar todo el cielo y cubrir la tierra/(fig.) por todas partes/hasta donde alcanza la vista
+漫天遍野 | TRADUÇÃO: (lit.) llenar todo el cielo y cubrir el campo/por doquier/hasta donde alcanza la vista
+漫天飞舞 | TRADUÇÃO: (de nieve, hojas, etc.) revolotear llenando el cielo
+漫展 | TRADUÇÃO: convención de cómics/exposición de anime
+漫山遍野 | TRADUÇÃO: (modismo) (lit.) cubriendo montañas y llanuras/(fig.) por todas partes/omnipresente/hasta donde alcanza la vista
+漫应 | TRADUÇÃO: responder con indiferencia/responder de manera casual
+漫改 | TRADUÇÃO: adaptación de manga
+漫步 | TRADUÇÃO: pasear/deambular/caminar sin prisa
+漫步者 | TRADUÇÃO: paseante/caminante
+漫溢 | TRADUÇÃO: desbordarse/rebalsar
+漫漫 | TRADUÇÃO: largo/interminable/inmenso
+漫漫长夜 | TRADUÇÃO: noche interminable/(fig.) largo sufrimiento
+漫漶 | TRADUÇÃO: (de escritos, pinturas) borroso o desgastado (por el agua o el paso del tiempo)/indistinto
+漫无目的 | TRADUÇÃO: sin rumbo/sin objetivo/al azar
+漫无边际 | TRADUÇÃO: sin límites/inmenso/divagar/irse por las ramas/apartarse del tema
+漫画 | TRADUÇÃO: caricatura/dibujo animado/manga/cómic
+漫画家 | TRADUÇÃO: dibujante de cómics/mangaka/caricaturista
+漫骂 | TRADUÇÃO: variante de 謾罵|谩骂
+漫说 | TRADUÇÃO: por no hablar de.../sin mencionar...
+漫游 | TRADUÇÃO: viajar libremente/vagar/recorrer/(telefonía móvil) itinerancia/roaming
+漫长 | TRADUÇÃO: muy largo/prolongado/interminable
+渍 | TRADUÇÃO: remojar/empapar/mancharse/mancha/agua de inundación
+漭 | TRADUÇÃO: inmenso/vasto (relativo al agua)
+漯 | TRADUÇÃO: usado en 漯河 (nombre de un lugar en Henan) ‖ nombre de un río
+漯河 | TRADUÇÃO: véase 漯河市
+漯河市 | TRADUÇÃO: Luohe, ciudad-prefectura de la provincia de Henan 河南省
+漰 | TRADUÇÃO: estruendo de olas que rompen
+漱 | TRADUÇÃO: enjuagarse la boca/hacer gárgaras ‖ variante de 漱
+漱口 | TRADUÇÃO: enjuagarse la boca/hacer gárgaras
+漱口水 | TRADUÇÃO: enjuague bucal/colutorio
+漱洗 | TRADUÇÃO: enjuagarse la boca y lavarse la cara/asearse
+漱流 | TRADUÇÃO: enjuagarse la boca con agua de río/(fig.) vivir una vida retirada de ermitaño
+涨 | TRADUÇÃO: subir (de precios, ríos) ‖ hincharse/distenderse
+涨停 | TRADUÇÃO: (de acciones) alcanzar el límite superior diario de cotización
+涨停板 | TRADUÇÃO: límite máximo diario de subida (en bolsa)
+涨价 | TRADUÇÃO: aumentar de precio/subir el precio/encarecerse
+涨到 | TRADUÇÃO: subir a/aumentar hasta
+涨势 | TRADUÇÃO: tendencia alcista/impulso al alza
+涨奶 | TRADUÇÃO: tener los pechos congestionados (por exceso de leche materna)
+涨姿势 | TRADUÇÃO: (jerga de internet) adquirir conocimientos/aprender algo nuevo (variante de 長知識|长知识)
+涨幅 | TRADUÇÃO: margen de aumento/tasa de incremento/porcentaje de subida
+涨水 | TRADUÇÃO: aumento del nivel del agua/crecida de las aguas
+涨满 | TRADUÇÃO: lleno hasta rebosar (de líquido, emociones, etc.)
+涨潮 | TRADUÇÃO: marea alta/pleamar/creciente
+涨粉 | TRADUÇÃO: ganar seguidores/aumentar el número de seguidores
+涨红 | TRADUÇÃO: enrojecerse (el rostro)/ruborizarse
+涨落 | TRADUÇÃO: (de aguas, precios, etc.) subir y bajar/fluctuar
+涨跌 | TRADUÇÃO: alza o baja de precios/fluctuación de precios
+涨跌幅限制 | TRADUÇÃO: límite diario de fluctuación de precios (en la bolsa)
+涨钱 | TRADUÇÃO: inflación/aumento salarial
+涨风 | TRADUÇÃO: tendencia alcista (de precios)
+漳 | TRADUÇÃO: río Zhang en Fujian
+漳州 | TRADUÇÃO: véase 漳州市
+漳州市 | TRADUÇÃO: Zhangzhou, ciudad-prefectura de la provincia de Fujian 福建省
+漳平 | TRADUÇÃO: véase 漳平市
+漳平市 | TRADUÇÃO: Zhangping, ciudad-condado de la ciudad de Longyan 龍巖市|龙岩市, Fujian
+漳浦 | TRADUÇÃO: véase 漳浦縣|漳浦县
+漳浦县 | TRADUÇÃO: Zhangpu, condado de la ciudad de Zhangzhou 漳州市, Fujian
+漳县 | TRADUÇÃO: Zhangxian o condado de Zhang, en la ciudad de Dingxi 定西市, Gansu
+溆 | TRADUÇÃO: nombre de un río
+溆浦 | TRADUÇÃO: véase 漵浦縣|溆浦县
+溆浦县 | TRADUÇÃO: Xupu, condado de la ciudad de Huaihua 懷化市|怀化市, Hunan
+漶 | TRADUÇÃO: (de textos, imágenes) borroso o ilegible por deterioro/indistinto
+漷 | TRADUÇÃO: choque o encuentro de dos corrientes
+渐 | TRADUÇÃO: empapar/imbuir ‖ gradual/gradualmente/poco a poco
+渐入佳境 | TRADUÇÃO: (modismo) mejorar gradualmente/ir de bien en mejor
+渐冻人症 | TRADUÇÃO: esclerosis lateral amiotrófica (ELA)/enfermedad de la neurona motora
+渐冻症 | TRADUÇÃO: esclerosis lateral amiotrófica/ELA
+渐弱 | TRADUÇÃO: desvanecerse gradualmente/debilitarse poco a poco/(mús.) diminuendo/decrescendo
+渐快 | TRADUÇÃO: acelerar gradualmente/cada vez más rápido/(mús.) accelerando
+渐慢 | TRADUÇÃO: desacelerar gradualmente/cada vez más lento/(mús.) ritardando/rallentando
+渐新世 | TRADUÇÃO: Oligoceno (época geológica)
+渐新统 | TRADUÇÃO: serie Oligoceno (geología)
+渐次 | TRADUÇÃO: gradualmente/sucesivamente/uno por uno
+渐渐 | TRADUÇÃO: gradualmente/poco a poco
+渐稀 | TRADUÇÃO: volverse gradualmente ralo o tenue/diluirse poco a poco
+渐行渐远 | TRADUÇÃO: alejarse poco a poco/distanciarse paulatinamente
+渐变 | TRADUÇÃO: cambio gradual/(diseño gráfico) degradado
+渐变色 | TRADUÇÃO: color degradado/gradiente de color
+渐趋 | TRADUÇÃO: tender gradualmente a/volverse poco a poco
+渐近 | TRADUÇÃO: aproximarse gradualmente
+渐近线 | TRADUÇÃO: (mat.) asíntota
+渐进 | TRADUÇÃO: progresar paso a paso/progreso gradual/avanzar paulatinamente
+漹 | TRADUÇÃO: (arcaico) nombre de un río
+漼 | TRADUÇÃO: apariencia de profundidad (del agua)
+漾 | TRADUÇÃO: desbordarse/ondular/usado en nombres de lugares/véase 漾濞
+漾濞 | TRADUÇÃO: véase 漾濞彝族自治縣|漾濞彝族自治县
+漾濞彝族自治县 | TRADUÇÃO: condado autónomo yi de Yangbi, en la prefectura autónoma bai de Dali 大理白族自治州, Yunnan
+漾濞县 | TRADUÇÃO: véase 漾濞彝族自治縣|漾濞彝族自治县
+浆 | TRADUÇÃO: líquido espeso/almidonar ‖ variante de 糨
+浆果 | TRADUÇÃO: baya
+浆洗 | TRADUÇÃO: lavar y almidonar
+浆硬 | TRADUÇÃO: endurecer con almidón/almidonar
+浆糊 | TRADUÇÃO: engrudo/pasta/pronunciación en Taiwán [jiang4 hu2]
+浆纸 | TRADUÇÃO: pulpa de papel
+浆膜 | TRADUÇÃO: membrana serosa/serosa (anatomía)
+潀 | TRADUÇÃO: confluir (las aguas)/sonido de corrientes que se unen
+颍 | TRADUÇÃO: apellido Ying/río en Henan y Anhui
+颍上 | TRADUÇÃO: véase 潁上縣|颍上县
+颍上县 | TRADUÇÃO: Yingshang, condado de la ciudad de Fuyang 阜陽市|阜阳市, Anhui
+颍州 | TRADUÇÃO: véase 潁州區|颍州区
+颍州区 | TRADUÇÃO: Yingzhou, distrito de la ciudad de Fuyang 阜陽市|阜阳市, Anhui
+颍东 | TRADUÇÃO: véase 潁東區|颍东区
+颍东区 | TRADUÇÃO: Yingdong, distrito de la ciudad de Fuyang 阜陽市|阜阳市, Anhui
+颍泉 | TRADUÇÃO: véase 潁泉區|颍泉区
+颍泉区 | TRADUÇÃO: Yingquan, distrito de la ciudad de Fuyang 阜陽市|阜阳市, Anhui
+潃 | TRADUÇÃO: variante antigua de 滫
+潎 | TRADUÇÃO: ondular/verter/derramar
+潏 | TRADUÇÃO: brotar (el agua)/burbujear
+泼 | TRADUÇÃO: salpicar/derramar/violento/descarado/brusco
+泼冷水 | TRADUÇÃO: echar agua fría/(fig.) desanimar/desalentar el entusiasmo de alguien
+泼出去的水 | TRADUÇÃO: agua derramada/(fig.) algo irreparable o irreversible/lo hecho hecho está
+泼妇 | TRADUÇÃO: mujer chillona y desvergonzada/arpía/furia
+泼妇骂街 | TRADUÇÃO: gritar insultos en la calle como una verdulera
+泼掉 | TRADUÇÃO: derramar/tirar (líquidos)
+泼水 | TRADUÇÃO: salpicar agua/arrojar agua
+泼水节 | TRADUÇÃO: Festival del Agua/Songkran (Año Nuevo tailandés)
+泼水难收 | TRADUÇÃO: (modismo) agua derramada no se puede recoger/cambio irreversible/lo hecho hecho está
+泼溅 | TRADUÇÃO: salpicar
+泼烟花 | TRADUÇÃO: prostituta de baja categoría
+泼物 | TRADUÇÃO: criatura malvada (insulto antiguo)
+泼贱 | TRADUÇÃO: vil/despreciable/bajo
+泼贱人 | TRADUÇÃO: persona vil/ramera (antiguo)
+泼辣 | TRADUÇÃO: enérgica/audaz y decidida/desenvuelta/mordaz
+泼脏水 | TRADUÇÃO: (fig.) tirar lodo/difamar/calumniar
+洁 | TRADUÇÃO: limpio/puro
+洁具 | TRADUÇÃO: artículos sanitarios/accesorios de baño (lavabo, inodoro, etc.)
+洁操 | TRADUÇÃO: conducta intachable/integridad moral intachable
+洁本 | TRADUÇÃO: edición expurgada/edición censurada
+洁净 | TRADUÇÃO: limpio/limpiar/purificar
+洁净无瑕 | TRADUÇÃO: limpio e impecable/inmaculado
+洁牙 | TRADUÇÃO: (odontología) limpieza dental/tartrectomía/profilaxis dental
+洁癖 | TRADUÇÃO: misofobia/obsesión por la limpieza/pulcritud extrema
+洁白 | TRADUÇÃO: blanco puro/blanco inmaculado
+洁西卡 | TRADUÇÃO: Jessica (nombre)
+洁西卡·艾芭 | TRADUÇÃO: Jessica Alba (actriz estadounidense)
+洁身自好 | TRADUÇÃO: (modismo) mantenerse honesto e íntegro/evitar la corrupción/cuidar de la propia pureza moral
+洁面乳 | TRADUÇÃO: leche limpiadora facial/limpiador facial
+洁面露 | TRADUÇÃO: loción limpiadora facial
+洁食 | TRADUÇÃO: kósher/alimentos kósher
+𣲘 | TRADUÇÃO: río en Henan
+潗 | TRADUÇÃO: amistoso/armonioso
+潘 | TRADUÇÃO: apellido Pan/Pan (dios griego) ‖ (arcaico) agua de lavar el arroz/(Taiwán) desperdicios de cocina; sobras de comida (del taiwanés, pronunciación tai-lo [phun])
+潘基文 | TRADUÇÃO: Ban Ki-moon (1944-), diplomático coreano, secretario general de la ONU de 2007 a 2016
+潘塔纳尔 | TRADUÇÃO: Pantanal (humedal en Brasil)
+潘多拉 | TRADUÇÃO: Pandora
+潘多拉魔盒 | TRADUÇÃO: caja de Pandora
+潘太克斯 | TRADUÇÃO: Pentax (marca de cámaras)
+潘婷 | TRADUÇÃO: Pantene (marca de productos capilares)
+潘安 | TRADUÇÃO: véase 潘岳
+潘岳 | TRADUÇÃO: Pan Yue (247-300), más tarde conocido como 潘安, destacado poeta de la dinastía Jin Occidental, famoso por su belleza, cuyo nombre se convirtió en sinónimo de hombre sumamente atractivo
+潘斯 | TRADUÇÃO: Pence (apellido)
+潘朵拉 | TRADUÇÃO: Pandora
+潘趣酒 | TRADUÇÃO: ponche (bebida)
+潘通 | TRADUÇÃO: sistema de color Pantone/Pantone
+潘金莲 | TRADUÇÃO: Pan Jinlian (personaje de la novela clásica Jin Ping Mei 金瓶梅)
+潘集 | TRADUÇÃO: véase 潘集區|潘集区
+潘集区 | TRADUÇÃO: Panji, distrito de la ciudad de Huainan 淮南市, Anhui
+㴋 | TRADUÇÃO: sonido del viento y la lluvia
+潜 | TRADUÇÃO: oculto/secreto/latente/esconderse/sumergirse/bucear
+潜伏 | TRADUÇÃO: estar al acecho/ocultarse/permanecer latente
+潜伏期 | TRADUÇÃO: periodo de incubación (de una enfermedad)/periodo de latencia
+潜入 | TRADUÇÃO: infiltrarse/colarse furtivamente/sumergirse en
+潜力 | TRADUÇÃO: potencial/capacidad latente
+潜力股 | TRADUÇÃO: acción con potencial de revalorización/(fig.) persona con gran potencial o futuro prometedor
+潜力股男人 | TRADUÇÃO: hombre con gran futuro o potencial
+潜在 | TRADUÇÃO: potencial/latente/oculto
+潜在威胁 | TRADUÇÃO: amenaza potencial
+潜在媒介 | TRADUÇÃO: vector potencial
+潜山 | TRADUÇÃO: véase 潛山市|潜山市
+潜山市 | TRADUÇÃO: Qianshan, ciudad-condado de la ciudad de Anqing 安慶市|安庆市, Anhui
+潜影 | TRADUÇÃO: ocultarse/imagen latente (en fotografía)
+潜心 | TRADUÇÃO: dedicarse de lleno/concentrarse con devoción
+潜意识 | TRADUÇÃO: subconsciente/subconsciencia/mente inconsciente
+潜望镜 | TRADUÇÃO: periscopio
+潜水 | TRADUÇÃO: bucear/sumergirse en el agua/(en foros y redes) observar sin participar
+潜水刀 | TRADUÇÃO: cuchillo de buceo
+潜水员 | TRADUÇÃO: buzo/submarinista/hombre rana
+潜水器 | TRADUÇÃO: sumergible/vehículo submarino
+潜水夫病 | TRADUÇÃO: síndrome de descompresión/enfermedad de los buzos
+潜水夫症 | TRADUÇÃO: síndrome de descompresión
+潜水服 | TRADUÇÃO: traje de buceo/traje de neopreno
+潜水者 | TRADUÇÃO: buceador/buzo
+潜水艇 | TRADUÇÃO: submarino
+潜水衣 | TRADUÇÃO: traje de buceo
+潜江 | TRADUÇÃO: Qianjiang, ciudad-subprefectura en Hubei
+潜江市 | TRADUÇÃO: Qianjiang, ciudad-subprefectura en Hubei
+潜没 | TRADUÇÃO: sumergirse/subducirse (en placas tectónicas)
+潜泳 | TRADUÇÃO: natación subacuática/buceo a pulmón
+潜热 | TRADUÇÃO: calor latente (física)
+潜神默记 | TRADUÇÃO: (modismo) concentrarse y memorizar en silencio/dedicarse silenciosamente a una tarea
+潜移 | TRADUÇÃO: transformación imperceptible/cambio gradual e inadvertido
+潜移默化 | TRADUÇÃO: influencia imperceptible/influir de manera gradual e inconsciente
+潜育土 | TRADUÇÃO: gleysol (edafología)
+潜能 | TRADUÇÃO: potencial/capacidad latente
+潜台词 | TRADUÇÃO: subtexto/lo que se da a entender entre líneas
+潜艇 | TRADUÇÃO: submarino
+潜艇堡 | TRADUÇÃO: sándwich submarino/bocadillo submarino
+潜舰 | TRADUÇÃO: buque submarino/submarino militar
+潜藏 | TRADUÇÃO: estar oculto/esconderse/permanecer oculto bajo la superficie
+潜行 | TRADUÇÃO: avanzar furtivamente/desplazarse bajo el agua/moverse con sigilo
+潜规则 | TRADUÇÃO: reglas no escritas/normas implícitas (especialmente las no éticas o corruptas)
+潜质 | TRADUÇÃO: cualidad potencial/potencial innato
+潜踪 | TRADUÇÃO: permanecer escondido/ocultar el rastro
+潜近 | TRADUÇÃO: acercarse con sigilo/aproximarse furtivamente
+潜逃 | TRADUÇÃO: fugarse/darse a la fuga/escapar sigilosamente
+潜进 | TRADUÇÃO: infiltrarse furtivamente/entrar a hurtadillas
+潜鸟 | TRADUÇÃO: colimbo (ave del género Gavia)
+潝 | TRADUÇÃO: coincidir/armonizar/concordar
+潞 | TRADUÇÃO: nombre de un río/apellido Lu
+潞城 | TRADUÇÃO: véase 潞城區|潞城区
+潞城区 | TRADUÇÃO: Lucheng, distrito de la ciudad de Changzhi 長治市|长治市, Shanxi
+潞州 | TRADUÇÃO: véase 潞州區|潞州区
+潞州区 | TRADUÇÃO: Luzhou, distrito de la ciudad de Changzhi 長治市|长治市, Shanxi
+潟 | TRADUÇÃO: tierra salina/marisma salada
+潟湖 | TRADUÇÃO: laguna litoral/albufera/laguna
+潠 | TRADUÇÃO: escupir agua por la boca/arrojar líquido con la boca
+潢 | TRADUÇÃO: teñir papel/lago/estanque/montar rollos de caligrafía o pintura
+潢川 | TRADUÇÃO: véase 潢川縣|潢川县
+潢川县 | TRADUÇÃO: Huangchuan, condado de la ciudad de Xinyang 信陽市|信阳市, Henan
+润 | TRADUÇÃO: húmedo; brillante; lustroso/humedecer; lubricar/embellecer; retocar/ganancia; remuneración/(neologismo c. 2021) (jerga) emigrar para huir de condiciones adversas (del inglés "run")
+润唇膏 | TRADUÇÃO: bálsamo labial/protector labial
+润学 | TRADUÇÃO: (neologismo) (jerga) estudio o tácticas para emigrar al extranjero y huir de condiciones adversas en China
+润州 | TRADUÇÃO: véase 潤州區|润州区
+润州区 | TRADUÇÃO: Runzhou, distrito de la ciudad de Zhenjiang 鎮江市|镇江市, Jiangsu
+润格 | TRADUÇÃO: (antiguo) tarifa o lista de honorarios de un pintor o calígrafo
+润滑 | TRADUÇÃO: lubricar/suave/lubricado
+润滑剂 | TRADUÇÃO: lubricante
+润滑油 | TRADUÇÃO: aceite lubricante
+润滑液 | TRADUÇÃO: lubricante líquido/gel lubricante
+润泽 | TRADUÇÃO: hidratado/lustroso/humedecer
+润湿 | TRADUÇÃO: humedecer/mojar
+润笔 | TRADUÇÃO: honorarios por obras literarias o artísticas
+润肺 | TRADUÇÃO: hidratar los pulmones/aliviar la sequedad pulmonar (MTC)
+润肠 | TRADUÇÃO: lubricar los intestinos/aliviar el estreñimiento (MTC)
+润肠通便 | TRADUÇÃO: lubricar los intestinos y facilitar la evacuación (MTC)
+润肤乳 | TRADUÇÃO: loción corporal hidratante/crema humectante
+润肤膏 | TRADUÇÃO: crema hidratante
+润肤霜 | TRADUÇÃO: crema humectante/crema hidratante
+润肤露 | TRADUÇÃO: loción corporal hidratante
+润色 | TRADUÇÃO: pulir (un texto)/retocar/dar los últimos toques
+润资 | TRADUÇÃO: honorarios por trabajos literarios o artísticos
+润饰 | TRADUÇÃO: embellecer/adornar/retocar
+润饼 | TRADUÇÃO: rollito de primavera blando (estilo taiwanés o fujianés)
+润发乳 | TRADUÇÃO: acondicionador para el cabello
+润发液 | TRADUÇÃO: loción capilar/acondicionador líquido para el cabello
+润发露 | TRADUÇÃO: crema acondicionadora para el cabello
+潦 | TRADUÇÃO: inundado/lluvia torrencial ‖ usado en 潦草/usado en 潦倒
+潦倒 | TRADUÇÃO: arruinado/desafortunado/decaído/abatido por la mala suerte
+潦草 | TRADUÇÃO: descuidado/hecho a la ligera/(de la letra) garabateada/ilegible
+潭 | TRADUÇÃO: apellido Tan ‖ poza profunda/estanque hondo/hondonada/(dialectal) foso
+潭奥 | TRADUÇÃO: profundo/insondable
+潭子 | TRADUÇÃO: poza profunda natural
+潭底 | TRADUÇÃO: fondo de una poza profunda
+潭府 | TRADUÇÃO: abismo/mansión imponente con patio espacioso/residencia de usted/poza profunda
+潭影 | TRADUÇÃO: reflejo en un estanque profundo
+潭柘寺 | TRADUÇÃO: Templo de Tanzhe
+潭水 | TRADUÇÃO: agua profunda de un estanque o poza
+潭第 | TRADUÇÃO: variante de 覃第
+潭腿 | TRADUÇÃO: Tantui (estilo tradicional de boxeo y patadas de las artes marciales del norte de China)
+潮 | TRADUÇÃO: marea/húmedo; empapado/de moda; a la última/(coloq.) de mala calidad; deficiente
+潮人 | TRADUÇÃO: persona a la moda/marcador de tendencias
+潮位 | TRADUÇÃO: nivel de marea/altura de la marea
+潮南 | TRADUÇÃO: véase 潮南區|潮南区
+潮南区 | TRADUÇÃO: Chaonan, distrito de la ciudad de Shantou 汕頭市|汕头市, Guangdong
+潮吹 | TRADUÇÃO: eyaculación femenina
+潮安 | TRADUÇÃO: véase 潮安區|潮安区
+潮安区 | TRADUÇÃO: Chao'an, distrito de la ciudad de Chaozhou 潮州市, Guangdong
+潮州 | TRADUÇÃO: véase 潮州市/véase 潮州鎮|潮州镇/chaozhou (variante del dialecto minnan 閩南語|闽南语 hablado en el este de Guangdong)
+潮州市 | TRADUÇÃO: Chaozhou, ciudad-prefectura de la provincia de Guangdong 廣東省|广东省
+潮州镇 | TRADUÇÃO: Chaozhou, municipio del condado de Pingtung 屏東縣|屏东县, Taiwán
+潮气 | TRADUÇÃO: humedad/aire húmedo
+潮水 | TRADUÇÃO: marea/aguas de la marea
+潮汐 | TRADUÇÃO: mareas/flujo y reflujo
+潮汐能 | TRADUÇÃO: energía mareomotriz
+潮汐电站 | TRADUÇÃO: central mareomotriz
+潮汕 | TRADUÇÃO: Chaoshan (región del este de Guangdong que abarca Chaozhou 潮州市 y Shantou 汕頭市|汕头市, con lengua y cultura propias)
+潮汕话 | TRADUÇÃO: dialecto de Chaoshan/teochew (lengua del grupo min del sur hablada en Chaoshan 潮汕)
+潮汛 | TRADUÇÃO: temporada de mareas vivas/periodo de pleamar
+潮流 | TRADUÇÃO: corriente/marea/tendencia/moda
+潮涌 | TRADUÇÃO: subir en oleadas como la marea/brotar copiosamente
+潮湿 | TRADUÇÃO: húmedo/mojado
+潮热 | TRADUÇÃO: sofoco/bochorno/(MTC) fiebre vespertina
+潮玩 | TRADUÇÃO: juguete de diseñador/art toy (abrev. de 潮流玩具)
+潮男 | TRADUÇÃO: hombre a la moda/metrosexual
+潮红 | TRADUÇÃO: enrojecimiento/rubor/rubefacción
+潮虫 | TRADUÇÃO: cochinilla de la humedad (isópodo del suborden Oniscidea)
+潮解 | TRADUÇÃO: delicuescencia/delicuescer (quím.)
+潮解性 | TRADUÇÃO: delicuescente/propiedad delicuescente
+潮语 | TRADUÇÃO: palabra de moda/expresión de moda (abrev. de 潮流用語|潮流用语)
+潮间带 | TRADUÇÃO: zona intermareal/zona intercotidal
+潮阳 | TRADUÇÃO: véase 潮陽區|潮阳区
+潮阳区 | TRADUÇÃO: Chaoyang, distrito de la ciudad de Shantou 汕頭市|汕头市, Guangdong
+浔 | TRADUÇÃO: nombre de un río/orilla escarpada
+浔阳 | TRADUÇÃO: véase 潯陽區|浔阳区
+浔阳区 | TRADUÇÃO: Xunyang, distrito de la ciudad de Jiujiang 九江市, Jiangxi
+溃 | TRADUÇÃO: usado en 潰膿|溃脓/pronunciación en Taiwán [kui4] ‖ (forma ligada) romper (un dique o presa)/(forma ligada) romper (un cerco militar)/(forma ligada) desbandarse; desmoronarse; ser derrotado/(forma ligada) ulcerarse; supurar
+溃不成军 | TRADUÇÃO: (modismo) (de tropas) quedar completamente desbaratadas y dispersas/derrota estrepitosa
+溃兵 | TRADUÇÃO: soldados dispersos tras la derrota/tropas desbandadas
+溃坝 | TRADUÇÃO: rotura de presa/desmoronamiento de un dique
+溃败 | TRADUÇÃO: ser derrotado por completo/ser desbaratado
+溃散 | TRADUÇÃO: (de tropas) dispersarse en desbandada
+溃敌 | TRADUÇÃO: derrotar y poner en fuga al enemigo
+溃决 | TRADUÇÃO: (de un dique o presa) romperse/desbordarse por rotura
+溃烂 | TRADUÇÃO: ulcerarse/supurar/pudrirse
+溃疡 | TRADUÇÃO: úlcera/ulcerarse
+溃脓 | TRADUÇÃO: supurar pus/ulcerarse
+溃军 | TRADUÇÃO: tropas desbandadas/ejército en desbandada
+溃逃 | TRADUÇÃO: huir en desorden/escapar en desbandada
+潲 | TRADUÇÃO: lluvia impulsada por el viento/rociar
+潲水 | TRADUÇÃO: (dialectal) aguas residuales con sobras de comida/lavazas para cerdos
+潵 | TRADUÇÃO: nombre de un río en la provincia de Hebei ‖ variante antigua de 撒 ‖ esparcir agua
+滗 | TRADUÇÃO: decantar/escurrir (el líquido)/colar
+潸 | TRADUÇÃO: con lágrimas/lloroso
+潸然泪下 | TRADUÇÃO: (modismo) derramar lágrimas en silencio/deshacerse en llanto
+潺 | TRADUÇÃO: fluir (el agua)/gotear
+潺潺 | TRADUÇÃO: murmurar (el agua)/sonido de agua que corre
+潼 | TRADUÇÃO: alto/nombre de un paso montañoso
+潼南 | TRADUÇÃO: véase 潼南區|潼南区
+潼南区 | TRADUÇÃO: Tongnan, distrito de Chongqing 重慶|重庆
+潼关 | TRADUÇÃO: véase 潼關縣|潼关县
+潼关县 | TRADUÇÃO: Tongguan, condado de la ciudad de Weinan 渭南市, Shaanxi
+潽 | TRADUÇÃO: desbordarse al hervir/derramarse por ebullición
+潾 | TRADUÇÃO: límpido/claro (referente al agua)
+涠 | TRADUÇÃO: agua estancada
+涩 | TRADUÇÃO: astringente/áspero (al tacto)/difícil de entender/oscuro ‖ variante antigua de 澀|涩
+涩味 | TRADUÇÃO: sabor astringente/aspereza
+涩脉 | TRADUÇÃO: pulso áspero/pulso lento y difícil (MTC)
+澄 | TRADUÇÃO: variante de 澄 ‖ apellido Cheng ‖ claro/límpido/clarificar/purificar ‖ (de líquidos) asentarse/decantar y aclararse
+澃 | TRADUÇÃO: claro/límpido
+澄城 | TRADUÇÃO: véase 澄城縣|澄城县
+澄城县 | TRADUÇÃO: Chengcheng, condado de la ciudad de Weinan 渭南市, Shaanxi
+澄彻 | TRADUÇÃO: variante de 澄澈
+澄江 | TRADUÇÃO: véase 澄江市
+澄江市 | TRADUÇÃO: Chengjiang, ciudad-condado de la ciudad de Yuxi 玉溪市, Yunnan
+澄海 | TRADUÇÃO: Mar de la Serenidad (Mare Serenitatis, en la Luna) ‖ véase 澄海區|澄海区
+澄海区 | TRADUÇÃO: Chenghai, distrito de la ciudad de Shantou 汕頭市|汕头市, Guangdong
+澄渊 | TRADUÇÃO: aguas límpidas y profundas
+澄清 | TRADUÇÃO: transparente (de líquidos)/límpido/aclarar/esclarecer (hechos) ‖ decantar (un líquido)/sedimentar impurezas/precipitado (química)/poner en orden/apaciguar disturbios
+澄澈 | TRADUÇÃO: transparente y límpido/cristalino
+澄粉 | TRADUÇÃO: almidón de trigo
+澄迈 | TRADUÇÃO: condado de Chengmai, Hainan
+澄迈县 | TRADUÇÃO: condado de Chengmai, Hainan
+澄面 | TRADUÇÃO: harina de trigo sin gluten/almidón de trigo
+浇 | TRADUÇÃO: regar/verter líquido/moldear (metal fundido)/fundir
+浇冷水 | TRADUÇÃO: echar agua fría/(fig.) desanimar/desalentar
+浇水 | TRADUÇÃO: regar (plantas, etc.)
+浇注 | TRADUÇÃO: verter (hormigón, metal fundido, etc.) en un molde/colar
+浇灌 | TRADUÇÃO: regar/irrigar
+浇筑 | TRADUÇÃO: verter y moldear (cemento, hormigón)
+浇花 | TRADUÇÃO: regar las flores/regar el jardín
+浇铸 | TRADUÇÃO: fundir/moldear (metal fundido)
+浇头 | TRADUÇÃO: salsa o guarnición que se añade encima de los fideos o arroz
+涝 | TRADUÇÃO: inundado/anegado (de tierras agrícolas)
+澈 | TRADUÇÃO: transparente (agua)/exhaustivo/completo
+澈底 | TRADUÇÃO: variante de 徹底|彻底
+澈查 | TRADUÇÃO: variante de 徹查|彻查
+澉 | TRADUÇÃO: nombre de lugar/lavar
+澌 | TRADUÇÃO: agotarse por completo/secarse
+澍 | TRADUÇÃO: humedad/lluvia oportuna
+澎 | TRADUÇÃO: usado en 澎湃/pronunciación en Taiwán [peng1]
+澎湃 | TRADUÇÃO: (del mar, etc.) impetuoso; embravecido/(fig.) fervoroso; lleno de pasión
+澎湖 | TRADUÇÃO: condado de Penghu (islas Pescadores), Taiwán
+澎湖列岛 | TRADUÇÃO: islas Pescadores/archipiélago de Penghu, Taiwán
+澎湖岛 | TRADUÇÃO: isla de Penghu, en el condado de Penghu, Taiwán
+澎湖县 | TRADUÇÃO: condado de Penghu (islas Pescadores), Taiwán
+澎湖群岛 | TRADUÇÃO: archipiélago de Penghu o islas Pescadores, conjunto de 90 islas al oeste de Taiwán
+澐 | TRADUÇÃO: olas del río
+澒 | TRADUÇÃO: vasto/infinito
+澔 | TRADUÇÃO: grandioso/vasto (relativo al agua)
+涧壑 | TRADUÇÃO: barranco/quebrada/valle profundo
+涧峡 | TRADUÇÃO: desfiladero/garganta
+涧水 | TRADUÇÃO: arroyo de montaña
+涧流 | TRADUÇÃO: arroyo de montaña/corriente de agua en un barranco
+涧溪 | TRADUÇÃO: arroyo de montaña/riachuelo del valle
+涧西 | TRADUÇÃO: véase 澗西區|涧西区
+涧西区 | TRADUÇÃO: Jianxi, distrito de la ciudad de Luoyang 洛陽市|洛阳市, Henan
+澙 | TRADUÇÃO: variante de 潟
+澟 | TRADUÇÃO: variante antigua de 凜|凛
+渑 | TRADUÇÃO: usado en 澠池|渑池 (nombre de un lugar en Henan) ‖ nombre de un río en Shandong
+渑池 | TRADUÇÃO: véase 澠池縣|渑池县
+渑池县 | TRADUÇÃO: Mianchi, condado de la ciudad de Sanmenxia 三門峽市|三门峡市, Henan
+澡 | TRADUÇÃO: baño/bañarse
+澡堂 | TRADUÇÃO: baños públicos/casa de baños
+澡塘 | TRADUÇÃO: baño público/piscina común en casa de baños
+澡巾 | TRADUÇÃO: manopla de baño/esponja de fregar
+澡盆 | TRADUÇÃO: bañera/tina
+澡罐 | TRADUÇÃO: jarra o recipiente para abluciones (en monasterios)
+澡身浴德 | TRADUÇÃO: (modismo) purificar el cuerpo y cultivar la virtud/mejorarse a uno mismo mediante la reflexión
+泽 | TRADUÇÃO: estanque/pantano/brillo (de metales)/favor o bondad/húmedo/lustroso
+泽塔 | TRADUÇÃO: zeta (letra griega Ζ, ζ)
+泽州 | TRADUÇÃO: véase 澤州縣|泽州县
+泽州县 | TRADUÇÃO: Zezhou, condado de la ciudad de Jincheng 晉城市|晋城市, Shanxi
+泽布吕赫 | TRADUÇÃO: Zeebrugge (ciudad portuaria de Bélgica)
+泽库 | TRADUÇÃO: véase 澤庫縣|泽库县
+泽库县 | TRADUÇÃO: Zêkog, condado de la prefectura autónoma tibetana de Huangnan 黃南藏族自治州|黄南藏族自治州, Qinghai
+泽普 | TRADUÇÃO: véase 澤普縣|泽普县
+泽普县 | TRADUÇÃO: Poskam, condado de la prefectura de Kashgar 喀什市, Xinjiang
+泽泻 | TRADUÇÃO: llantén de agua (Alisma plantago-aquatica)/rizoma de llantén de agua (usado en MTC)
+泽兰 | TRADUÇÃO: Eupatorium (planta medicinal, p. ej. Eupatorium japonicum)
+泽西 | TRADUÇÃO: Jersey (islas del Canal)
+泽西岛 | TRADUÇÃO: isla de Jersey (islas del Canal)
+泽鹬 | TRADUÇÃO: archibebe fino (Tringa stagnatilis)
+澥 | TRADUÇÃO: (de gachas o papillas) volverse aguado/(dialectal) diluir añadiendo agua
+滪 | TRADUÇÃO: (topónimo en Sichuan)
+澧 | TRADUÇÃO: río Lishui en el norte de Hunan, que desemboca en el lago Dongting 洞庭湖/apellido Li
+澧水 | TRADUÇÃO: río Lishui en el norte de Hunan, que desemboca en el lago Dongting 洞庭湖
+澧县 | TRADUÇÃO: Lixian o condado de Li, en la ciudad de Changde 常德市, Hunan
+澨 | TRADUÇÃO: orilla/ribera/nombre de un río
+𬇕 | TRADUÇÃO: variante de 漫/desbordamiento de agua/esparcirse
+澬 | TRADUÇÃO: llover de forma continua
+浍 | TRADUÇÃO: acequia/arroyo
+澰 | TRADUÇÃO: (literario) humedecer; empapar; remojar en agua
+淀山湖 | TRADUÇÃO: lago Dianshan en Shanghái
+淀积 | TRADUÇÃO: (geología) iluvación/acumularse por iluviación
+淀积物 | TRADUÇÃO: material iluvial (geología)
+淀粉 | TRADUÇÃO: almidón/fécula (C6H10O5)n
+淀粉肠 | TRADUÇÃO: salchicha de almidón (salchicha económica con alta proporción de harina y poca carne)
+淀粉酶 | TRADUÇÃO: amilasa
+澳 | TRADUÇÃO: Macao (abrev. de 澳門|澳门)/Australia (abrev. de 澳大利亞|澳大利亚) ‖ ensenada profunda; cala; puerto
+澳元 | TRADUÇÃO: dólar australiano
+澳南沙锥 | TRADUÇÃO: agachadiza japonesa (Gallinago hardwickii)
+澳大利亚 | TRADUÇÃO: Australia
+澳大利亚国立大学 | TRADUÇÃO: Universidad Nacional de Australia (ANU), Canberra
+澳大利亚洲 | TRADUÇÃO: (geografía) continente australiano (Australia, Tasmania y Nueva Guinea)
+澳大利亚联邦 | TRADUÇÃO: Mancomunidad de Australia
+澳大利亚首都特区 | TRADUÇÃO: Territorio de la Capital Australiana
+澳宝 | TRADUÇÃO: ópalo (abrev. de 澳洲寶石|澳洲宝石)
+澳币 | TRADUÇÃO: dólar australiano
+澳式 | TRADUÇÃO: al estilo australiano/al estilo macaense
+澳式橄榄球 | TRADUÇÃO: fútbol de reglas australianas/fútbol australiano
+澳新界 | TRADUÇÃO: región australasia (biogeografía)
+澳新军团 | TRADUÇÃO: Cuerpo del Ejército Australiano y Neozelandés (ANZAC)
+澳新军团日 | TRADUÇÃO: Día de Anzac
+澳洲 | TRADUÇÃO: Australia
+澳洲坚果 | TRADUÇÃO: nuez de macadamia/macadamia
+澳洲小鹦鹉 | TRADUÇÃO: lori (ave)
+澳洲广播电台 | TRADUÇÃO: Corporación Australiana de Radiodifusión (ABC)
+澳洲野犬 | TRADUÇÃO: dingo (Canis dingo)
+澳洲鳗鲡 | TRADUÇÃO: anguila australiana (Anguilla australis)
+澳纽 | TRADUÇÃO: Australia y Nueva Zelanda
+澳网 | TRADUÇÃO: Abierto de Australia (torneo de tenis)
+澳门 | TRADUÇÃO: Macao, región administrativa especial (RAE) de la República Popular China (nombre corto 澳)
+澳门国际机场 | TRADUÇÃO: Aeropuerto Internacional de Macao
+澳门市 | TRADUÇÃO: Municipio de Macao
+澳门立法会 | TRADUÇÃO: Consejo Legislativo de Macao
+澳际 | TRADUÇÃO: Aoji (agencia educativa)
+澴 | TRADUÇÃO: retornar (las olas)/remolino de agua
+澶 | TRADUÇÃO: agua tranquila/estanque sereno
+澹 | TRADUÇÃO: apellido Tan ‖ tranquilo/apacible/sereno
+澹泊 | TRADUÇÃO: variante de 淡泊
+澹然 | TRADUÇÃO: variante de 淡然
+澼 | TRADUÇÃO: blanquear/lavar
+澽 | TRADUÇÃO: (nombre de un río en la provincia de Shaanxi)
+激 | TRADUÇÃO: estimular/incitar/excitar/agudo/violento/feroz
+激光 | TRADUÇÃO: láser
+激光二极管 | TRADUÇÃO: diodo láser
+激光唱片 | TRADUÇÃO: disco compacto; CD/CL:片,張|张
+激光器 | TRADUÇÃO: generador láser/láser
+激光打印机 | TRADUÇÃO: impresora láser
+激光笔 | TRADUÇÃO: puntero láser
+激光雷达 | TRADUÇÃO: lidar/radar láser
+激凸 | TRADUÇÃO: pezones erectos visibles a través de la ropa o abultamiento en la entrepierna
+激动 | TRADUÇÃO: emocionado/conmover/emocionarse/exaltado
+激励 | TRADUÇÃO: alentar/motivar/incentivo/estímulo
+激励机制 | TRADUÇÃO: mecanismo de incentivos/incentivos
+激化 | TRADUÇÃO: intensificarse/agudizarse/radicalizarse
+激增 | TRADUÇÃO: aumentar rápidamente/dispararse/crecer vertiginosamente
+激奋 | TRADUÇÃO: entusiasmado/emocionado y enardecido
+激子 | TRADUÇÃO: excitón (física)
+激将 | TRADUÇÃO: provocar a alguien para incitarlo a actuar
+激将法 | TRADUÇÃO: método de incitación por desafío o provocación
+激忿 | TRADUÇÃO: variante de 激憤|激愤
+激怒 | TRADUÇÃO: enfurecer/irritar/hacer enfadar
+激情 | TRADUÇÃO: pasión/fervor/entusiasmo
+激愤 | TRADUÇÃO: indignado/enojado/indignación
+激战 | TRADUÇÃO: combate feroz/luchar encarnizadamente
+激打 | TRADUÇÃO: impresora láser (abrev. de 激光打印機|激光打印机)
+激昂 | TRADUÇÃO: apasionado/enardecido/vehemente
+激波 | TRADUÇÃO: onda de choque
+激活 | TRADUÇÃO: activar
+激流 | TRADUÇÃO: corriente rápida/torrente/rápidos
+激流回旋 | TRADUÇÃO: eslalon en aguas bravas/piragüismo en eslalon
+激浪 | TRADUÇÃO: Mountain Dew (marca de bebida)
+激浊扬清 | TRADUÇÃO: (modismo) (lit.) drenar las aguas turbias y traer agua limpia/(fig.) erradicar lo malo y fomentar lo bueno/desterrar el mal y enaltecer la virtud
+激烈 | TRADUÇÃO: intenso/feroz/encarnizado/vehemente/drástico
+激发 | TRADUÇÃO: despertar/estimular/excitar (física)
+激荡 | TRADUÇÃO: agitarse/embestir/olear con fuerza ‖ agitarse/embestir/olear con fuerza/también escrito 激盪|激荡
+激素 | TRADUÇÃO: hormona
+激赏 | TRADUÇÃO: admirar profundamente/elogiar calurosamente
+激赞 | TRADUÇÃO: colmar de elogios/alabar efusivamente
+激起 | TRADUÇÃO: suscitar/provocar/despertar/evocar
+激越 | TRADUÇÃO: apasionado e intenso/sonoro y vehemente
+激进 | TRADUÇÃO: radical/extremista
+激进主义 | TRADUÇÃO: radicalismo
+激进分子 | TRADUÇÃO: variante de 激進分子|激进分子 ‖ radical; extremista
+激进化 | TRADUÇÃO: radicalización/radicalizar
+激进武装 | TRADUÇÃO: milicia armada extremista/extremistas armados
+激酶 | TRADUÇÃO: cinasa/quinasa (bioquímica)
+激灵 | TRADUÇÃO: estremecerse/dar un respingo
+浊 | TRADUÇÃO: turbio/impuro/embarrado
+浊世 | TRADUÇÃO: mundo caótico/tiempos turbulentos/mundo mortal (budismo)
+浊塞音 | TRADUÇÃO: oclusiva sonora (lingüística)
+浊度 | TRADUÇÃO: turbidez
+浊流 | TRADUÇÃO: corriente turbia/aguas cenagosas/(fig.) persona despreciable/(fig.) corrientes sociales corruptas
+浊积岩 | TRADUÇÃO: turbidita (geología)
+浊臭熏天 | TRADUÇÃO: apestar de forma insoportable/oler a rayos
+浊辅音 | TRADUÇÃO: consonante sonora (lingüística)
+浊酒 | TRADUÇÃO: vino de arroz turbio/vino casero sin filtrar
+浊音 | TRADUÇÃO: sonido sonoro (fonética)
+濂 | TRADUÇÃO: nombre de un río en Hunan
+濂溪 | TRADUÇÃO: véase 濂溪區|濂溪区
+濂溪区 | TRADUÇÃO: Lianxi, distrito de la ciudad de Jiujiang 九江市, Jiangxi
+浓 | TRADUÇÃO: concentrado/denso/fuerte (olor, sabor)
+浓厚 | TRADUÇÃO: denso/espeso (niebla)/gran interés/intenso/saturado (color)
+浓墨重彩 | TRADUÇÃO: (modismo) con colores densos y marcados/describir algo con gran viveza y detalle
+浓妆 | TRADUÇÃO: maquillaje cargado/maquillaje recargado
+浓妆艳抹 | TRADUÇÃO: (modismo) maquillarse de forma ostentosa/vestir y maquillarse de manera muy llamativa
+浓密 | TRADUÇÃO: espeso/tupido/denso
+浓度 | TRADUÇÃO: concentración (de una solución)/densidad/consistencia/espesor
+浓淡 | TRADUÇÃO: tonalidad (de un color, claro u oscuro)/grado de concentración
+浓汤 | TRADUÇÃO: sopa espesa/crema/puré
+浓烈 | TRADUÇÃO: fuerte/intenso (sabor, aroma, emoción)
+浓烟 | TRADUÇÃO: humo denso/humareda espesa
+浓眉大眼 | TRADUÇÃO: cejas pobladas y ojos grandes
+浓稠 | TRADUÇÃO: denso y espeso/cremoso
+浓缩 | TRADUÇÃO: concentrar; condensar/(energía nuclear) enriquecer/café expreso (abrev. de 意式濃縮咖啡|意式浓缩咖啡)
+浓缩咖啡 | TRADUÇÃO: café expreso
+浓缩铀 | TRADUÇÃO: uranio enriquecido
+浓艳 | TRADUÇÃO: llamativo y vistoso/muy vistoso y recargado (de colores)
+浓郁 | TRADUÇÃO: intenso/fuerte (fragancia)/denso/con cuerpo (vino, sabor)
+浓重 | TRADUÇÃO: denso/cargado/fuerte/intenso (color, aroma, afecto)
+浓集 | TRADUÇÃO: concentrar; enriquecer
+浓集铀 | TRADUÇÃO: uranio enriquecido
+浓雾 | TRADUÇÃO: niebla densa/niebla espesa
+浓香 | TRADUÇÃO: fragancia intensa/aroma penetrante
+𣸣 | TRADUÇÃO: orilla del agua/borde del agua
+濇 | TRADUÇÃO: áspero/rugoso (de superficies)
+濈 | TRADUÇÃO: numeroso/muchos
+濉 | TRADUÇÃO: nombre de un río
+濉溪 | TRADUÇÃO: véase 濉溪縣|濉溪县
+濉溪县 | TRADUÇÃO: Suixi, condado de la ciudad de Huaibei 淮北市, Anhui
+濊 | TRADUÇÃO: vasto/inmenso (del agua)
+濊貊 | TRADUÇÃO: Yemaek (antiguo grupo étnico de Manchuria y Corea)
+濋 | TRADUÇÃO: nombre de un antiguo río (en el actual condado de Dingtao 定陶縣|定陶县, Shandong)
+濍 | TRADUÇÃO: (onomat.) sonido del agua
+濔 | TRADUÇÃO: numeroso/abundante
+湿吻 | TRADUÇÃO: beso con lengua/beso francés
+湿哒哒 | TRADUÇÃO: variante de 濕答答|湿答答
+湿婆 | TRADUÇÃO: Shiva (deidad hindú)
+湿巾 | TRADUÇÃO: toallita húmeda
+湿度 | TRADUÇÃO: nivel de humedad/humedad relativa
+湿气 | TRADUÇÃO: humedad/pie de atleta/eccema/tiña
+湿渌渌 | TRADUÇÃO: variante de 濕漉漉|湿漉漉
+湿温 | TRADUÇÃO: calor húmedo/fiebre estival (MTC)
+湿滑 | TRADUÇÃO: mojado y resbaladizo/resbaladizo por la humedad
+湿漉漉 | TRADUÇÃO: húmedo/empapado/chorreando de agua
+湿润 | TRADUÇÃO: húmedo/hidratado
+湿润剂 | TRADUÇÃO: humectante/agente humectante
+湿热 | TRADUÇÃO: caluroso y húmedo/bochornoso/(MTC) calor y humedad
+湿疣 | TRADUÇÃO: condiloma (verruga genital de origen vírico)/condiloma acuminado
+湿疹 | TRADUÇÃO: eccema
+湿答答 | TRADUÇÃO: completamente empapado/chorreando
+湿衣 | TRADUÇÃO: traje de neopreno
+湿透 | TRADUÇÃO: empapado/mojado de arriba abajo
+湿黏 | TRADUÇÃO: pegajoso y húmedo
+泞 | TRADUÇÃO: fangoso/cenagoso
+𣸨 | TRADUÇÃO: usado en 汫濙|汫𣸨
+溁 | TRADUÇÃO: (arcaico) arremolinarse (el agua)/(usado en topónimos)
+蒙松雨 | TRADUÇÃO: (dialectal) llovizna/orvallo
+浕 | TRADUÇÃO: río en la provincia de Hubei
+濞 | TRADUÇÃO: usado en topónimos/véase 漾濞
+济 | TRADUÇÃO: usado en nombres de lugares relacionados con el río Ji 濟水|济水/apellido Ji ‖ usado en 濟濟|济济 ‖ cruzar un río/socorrer o ayudar/ser de ayuda
+济事 | TRADUÇÃO: (usualmente en negativo) ser útil o de ayuda/servir para algo
+济公 | TRADUÇÃO: Jigong o Daoji (1130-1207), monje budista de la dinastía Song del Sur
+济助 | TRADUÇÃO: socorrer y ayudar/asistir
+济南 | TRADUÇÃO: véase 濟南市|济南市
+济南市 | TRADUÇÃO: Jinan, ciudad subprovincial y capital de la provincia de Shandong 山東省|山东省
+济危 | TRADUÇÃO: socorrer a quienes están en peligro
+济危扶困 | TRADUÇÃO: (modismo) ayudar a los necesitados y socorrer a los desvalidos
+济困扶危 | TRADUÇÃO: (modismo) socorrer a quienes están en apuros
+济宁 | TRADUÇÃO: véase 濟寧市|济宁市
+济宁市 | TRADUÇÃO: Jining, ciudad-prefectura de la provincia de Shandong 山東省|山东省
+济州 | TRADUÇÃO: provincia autónoma especial de la isla de Jeju (Cheju), Corea del Sur
+济州岛 | TRADUÇÃO: isla de Jeju, Corea del Sur
+济州特别自治道 | TRADUÇÃO: provincia autónoma especial de Jeju, Corea del Sur
+济急 | TRADUÇÃO: brindar ayuda de emergencia/socorrer en una necesidad urgente
+济水 | TRADUÇÃO: río Ji, antiguo río del noreste de China que desapareció tras la crecida del río Amarillo en 1852
+济源 | TRADUÇÃO: Jiyuan, ciudad administrada directamente en Henan
+济源市 | TRADUÇÃO: Jiyuan, ciudad administrada directamente en Henan
+济济 | TRADUÇÃO: multitudinaria/gran multitud de personas
+济济一堂 | TRADUÇÃO: (modismo) congregarse en una sala/reunirse bajo el mismo techo
+济贫 | TRADUÇÃO: socorrer a los pobres/ayuda a los necesitados
+济阳 | TRADUÇÃO: véase 濟陽區|济阳区
+济阳区 | TRADUÇÃO: Jiyang, distrito de la ciudad de Jinan 濟南市|济南市, Shandong
+濠 | TRADUÇÃO: foso/zanja
+濠江 | TRADUÇÃO: véase 濠江區|濠江区
+濠江区 | TRADUÇÃO: Haojiang, distrito de la ciudad de Shantou 汕頭市|汕头市, Guangdong
+濡 | TRADUÇÃO: tardo; moroso/humedecer; mojar
+濡忍 | TRADUÇÃO: complaciente/sumiso
+濡染 | TRADUÇÃO: influenciarse gradualmente/mojar en tinta
+濡毫 | TRADUÇÃO: mojar el pincel en tinta/escribir
+濡沫涸辙 | TRADUÇÃO: (modismo) ayudarse mutuamente en momentos difíciles
+濡湿 | TRADUÇÃO: humedecer/empapar
+涛 | TRADUÇÃO: gran ola/oleaje/pronunciación en Taiwán [tao2]
+濩 | TRADUÇÃO: cocinar/estruendo del agua
+滥 | TRADUÇÃO: desbordante/excesivo/indiscriminado
+滥交 | TRADUÇÃO: juntarse con malas compañías/hacer amistades indiscriminadamente
+滥伐 | TRADUÇÃO: tala indiscriminada/deforestación ilegal
+滥刑 | TRADUÇÃO: castigo indiscriminado/abuso de penas
+滥套子 | TRADUÇÃO: clichés/palabras vacías/lugar común
+滥好人 | TRADUÇÃO: persona complaciente en exceso/santurrón
+滥情 | TRADUÇÃO: inconstante en el amor/sentimentalismo excesivo
+滥权 | TRADUÇÃO: abusar del poder; abusar de la autoridad
+滥杀 | TRADUÇÃO: matar indiscriminadamente/masacrar
+滥杀无辜 | TRADUÇÃO: (modismo) asesinar inocentes deliberadamente/masacrar a inocentes
+滥漫 | TRADUÇÃO: arbitrario/indiscriminado
+滥用 | TRADUÇÃO: abusar de/hacer mal uso de
+滥用权力 | TRADUÇÃO: abuso de poder
+滥用职权 | TRADUÇÃO: abuso de autoridad/abuso de poder
+滥砍滥伐 | TRADUÇÃO: tala indiscriminada y destructiva de bosques
+滥竽 | TRADUÇÃO: incluirse sin poseer las cualificaciones requeridas/véase 濫竽充數|滥竽充数
+滥竽充数 | TRADUÇÃO: (modismo) (lit.) tocar el órgano yu 竽 para hacer número/(fig.) rellenar con gente incompetente o productos defectuosos/hacerse pasar por capacitado
+滥骂 | TRADUÇÃO: insultar indiscriminadamente/lenguaje soez
+滥觞 | TRADUÇÃO: (lit.) copa que flota en la corriente/origen o génesis (de un fenómeno)
+滥调 | TRADUÇÃO: frase trillada/cliché/tópico
+濮 | TRADUÇÃO: nombre de un río/apellido Pu
+濮阳 | TRADUÇÃO: véase 濮陽市|濮阳市/véase 濮陽縣|濮阳县
+濮阳市 | TRADUÇÃO: Puyang, ciudad-prefectura de la provincia de Henan 河南省
+濮阳县 | TRADUÇÃO: Puyang, condado de la ciudad de Puyang 濮陽市|濮阳市, Henan
+濯 | TRADUÇÃO: variante de 櫂|棹 ‖ lavar/purificar del mal
+濯濯 | TRADUÇÃO: desolado y sin vegetación (de montañas)/brillante y reluciente/gordo y rollizo
+濯盥 | TRADUÇÃO: lavarse las manos y la cara/asearse
+濯足 | TRADUÇÃO: lavarse los pies
+潍 | TRADUÇÃO: nombre de un río
+潍坊 | TRADUÇÃO: véase 濰坊市|潍坊市
+潍坊市 | TRADUÇÃO: Weifang, ciudad-prefectura de la provincia de Shandong 山東省|山东省
+潍城 | TRADUÇÃO: véase 濰城區|潍城区
+潍城区 | TRADUÇÃO: Weicheng, distrito de la ciudad de Weifang 濰坊市|潍坊市, Shandong
+滨 | TRADUÇÃO: (forma ligada) orilla; ribera; margen/(forma ligada) bordear (un lago, río, etc.)
+滨城 | TRADUÇÃO: véase 濱城區|滨城区
+滨城区 | TRADUÇÃO: Bincheng, distrito de la ciudad de Binzhou 濱州市|滨州市, Shandong
+滨州 | TRADUÇÃO: véase 濱州市|滨州市
+滨州市 | TRADUÇÃO: Binzhou, ciudad-prefectura de la provincia de Shandong 山東省|山东省
+滨松 | TRADUÇÃO: Hamamatsu (ciudad de Japón)
+滨江 | TRADUÇÃO: véase 濱江區|滨江区 ‖ a orillas del río; ribereño
+滨江区 | TRADUÇÃO: Binjiang, distrito de la ciudad de Hangzhou 杭州市, Zhejiang
+滨海 | TRADUÇÃO: Binhai (topónimo)/nuevo distrito de Binhai, distrito subprovincial de Tianjin/condado de Binhai en Yancheng 鹽城|盐城, Jiangsu/Binhai, ciudad ficticia en sátiras políticas/Primorie (territorio en el Lejano Oriente ruso) ‖ costero/litoral/ribereño del mar
+滨海新区 | TRADUÇÃO: nuevo distrito de Binhai, distrito subprovincial de Tianjin
+滨海县 | TRADUÇÃO: Binhai, condado de la ciudad de Yancheng 鹽城市|盐城市, Jiangsu
+滨海边疆区 | TRADUÇÃO: krai de Primorie (territorio ruso cuyo centro administrativo es Vladivostok 符拉迪沃斯托克)
+滨湖 | TRADUÇÃO: véase 濱湖區|滨湖区
+滨湖区 | TRADUÇÃO: Binhu, distrito de la ciudad de Wuxi 無錫市|无锡市, Jiangsu
+滨田 | TRADUÇÃO: Hamada (apellido)
+滨田靖一 | TRADUÇÃO: HAMADA Yasukazu (1955-), ministro de defensa japonés a partir de 2008
+濲 | TRADUÇÃO: nombre de un río en Hunan
+阔 | TRADUÇÃO: variante de 闊|阔 ‖ ancho/amplio/rico/adinerado
+溅 | TRADUÇÃO: salpicar
+溅射 | TRADUÇÃO: pulverización catódica (física)
+溅洒 | TRADUÇÃO: derramar/salpicar
+溅落 | TRADUÇÃO: (de una nave espacial) amerizar/(de un líquido) salpicar sobre una superficie
+溅开 | TRADUÇÃO: salpicar en todas direcciones
+泺 | TRADUÇÃO: nombre de un río
+滤 | TRADUÇÃO: filtrar/colar
+滤光镜 | TRADUÇÃO: filtro óptico (fotografía)
+滤出 | TRADUÇÃO: filtrar/separar por filtración
+滤嘴 | TRADUÇÃO: filtro de cigarrillo
+滤器 | TRADUÇÃO: filtro/colador
+滤尘器 | TRADUÇÃO: filtro de polvo
+滤压壶 | TRADUÇÃO: cafetera de prensa francesa
+滤毒通风装置 | TRADUÇÃO: equipo de ventilación y filtrado de toxinas
+滤泡 | TRADUÇÃO: folículo
+滤波 | TRADUÇÃO: filtrar señales eléctricas
+滤波器 | TRADUÇÃO: filtro de señal (electrónica)
+滤液 | TRADUÇÃO: filtrado/líquido filtrado
+滤清 | TRADUÇÃO: filtrar y purificar
+滤清器 | TRADUÇÃO: filtro (purificador)
+滤盆 | TRADUÇÃO: escurridor/colador de cocina
+滤砂 | TRADUÇÃO: arena filtrante
+滤纸 | TRADUÇÃO: papel de filtro
+滤网 | TRADUÇÃO: malla filtrante/filtro/tamiz
+滤色镜 | TRADUÇÃO: filtro de color
+滤芯 | TRADUÇÃO: cartucho de filtro/núcleo filtrante
+滤过 | TRADUÇÃO: filtrar/pasar por un filtro
+滤锅 | TRADUÇÃO: escurridor/colador
+滤镜 | TRADUÇÃO: filtro (fotografía)
+滤除 | TRADUÇÃO: eliminar por filtración/filtrar
+滤饼 | TRADUÇÃO: torta de filtración/residuo sólido producido por un filtro
+濿 | TRADUÇÃO: variante de 砅
+瀁 | TRADUÇÃO: ondas en el agua/ondulaciones
+澛 | TRADUÇÃO: (usado en nombres de lugares)/variante antigua de 滷|卤
+滢 | TRADUÇÃO: límpido/cristalino (del agua)
+渎 | TRADUÇÃO: irrespetuoso/(literario) zanja; canal
+渎职 | TRADUÇÃO: prevaricar; incurrir en negligencia o incumplimiento de los deberes del cargo
+泻 | TRADUÇÃO: fluir impetuosamente/desbordarse/torrente/diarrea/laxante
+泻剂 | TRADUÇÃO: laxante/purgante
+泻肚 | TRADUÇÃO: tener diarrea
+泻肚子 | TRADUÇÃO: véase 瀉肚|泻肚
+泻药 | TRADUÇÃO: laxante/purgante
+泻盐 | TRADUÇÃO: sales de Epsom/sulfato de magnesio
+沈河 | TRADUÇÃO: véase 瀋河區|沈河区
+沈河区 | TRADUÇÃO: Shenhe, distrito de la ciudad de Shenyang 瀋陽市|沈阳市, Liaoning
+沈阳 | TRADUÇÃO: véase 瀋陽市|沈阳市
+沈阳市 | TRADUÇÃO: Shenyang, ciudad subprovincial y capital de la provincia de Liaoning 遼寧省|辽宁省
+沈阳故宫 | TRADUÇÃO: Palacio de Mukden/Palacio Imperial de Shenyang (palacio imperial principal en los primeros años de la dinastía Qing 1625-1644, posterior palacio secundario, hoy museo)
+瀌 | TRADUÇÃO: copioso (de lluvia o nieve)
+瀍 | TRADUÇÃO: río Chanshui en Henan
+瀍水 | TRADUÇÃO: río Chanshui en Henan
+瀍河 | TRADUÇÃO: río Chan en la provincia de Henan 河南 ‖ véase 瀍河回族區|瀍河回族区
+瀍河回族区 | TRADUÇÃO: distrito hui de Chanhe, distrito de la ciudad de Luoyang 洛陽市|洛阳市, Henan
+浏 | TRADUÇÃO: claro/profundo (del agua)/rápido
+浏海 | TRADUÇÃO: variante de 劉海|刘海
+浏览 | TRADUÇÃO: hojear/echar un vistazo/navegar (por internet)
+浏览器 | TRADUÇÃO: navegador (software)/explorador web
+浏览软件 | TRADUÇÃO: navegador web
+浏览量 | TRADUÇÃO: visitas a la página/volumen de tráfico de un sitio web/visitas
+浏阳 | TRADUÇÃO: véase 瀏陽市|浏阳市
+浏阳市 | TRADUÇÃO: Liuyang, ciudad-condado de la ciudad de Changsha 長沙市|长沙市, Hunan
+瀑 | TRADUÇÃO: chubasco/chaparrón ‖ cascada/catarata
+瀑布 | TRADUÇÃO: cascada/catarata
+瀒 | TRADUÇÃO: variante de 濇
+瀔 | TRADUÇÃO: nombre de un río en la provincia de Henan
+濒 | TRADUÇÃO: aproximarse/bordear/cercano
+濒危 | TRADUÇÃO: en peligro de extinción (especies)/en grave peligro/críticamente enfermo
+濒危物种 | TRADUÇÃO: especie en peligro de extinción
+濒危野生动植物种国际贸易公约 | TRADUÇÃO: Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres/CITES
+濒于 | TRADUÇÃO: al borde de/cercano a
+濒死 | TRADUÇÃO: moribundo/al borde de la muerte/al borde de la extinción
+濒河 | TRADUÇÃO: ribereño/que bordea un río
+濒海 | TRADUÇÃO: costero/litoral/adyacente al mar
+濒灭 | TRADUÇÃO: al borde de la extinción
+濒临 | TRADUÇÃO: al borde de/(fig.) a punto de/cercano a
+濒近 | TRADUÇÃO: al borde de/muy próximo a
+泸 | TRADUÇÃO: antiguo nombre de un río en Jiangxi/topónimo
+泸定 | TRADUÇÃO: véase 瀘定縣|泸定县
+泸定桥 | TRADUÇÃO: puente de Luding (sobre el río Dadu 大渡河 en Sichuan, construido en 1706)
+泸定县 | TRADUÇÃO: Luding, condado de la prefectura autónoma tibetana de Garzê 甘孜藏族自治州, Sichuan
+泸州 | TRADUÇÃO: véase 瀘州市|泸州市
+泸州市 | TRADUÇÃO: Luzhou, ciudad-prefectura de la provincia de Sichuan 四川省
+泸水 | TRADUÇÃO: véase 瀘水市|泸水市
+泸水市 | TRADUÇÃO: Lushui, ciudad-condado de la prefectura autónoma lisu de Nujiang 怒江傈僳族自治州, Yunnan
+泸沽湖 | TRADUÇÃO: lago Lugu (lago alpino en la frontera de Yunnan y Sichuan)
+泸溪 | TRADUÇÃO: véase 瀘溪縣|泸溪县
+泸溪县 | TRADUÇÃO: Luxi, condado de la prefectura autónoma tujia y miao de Xiangxi 湘西土家族苗族自治州, Hunan
+泸县 | TRADUÇÃO: Luxian o condado de Lu, en la ciudad de Luzhou 瀘州市|泸州市, Sichuan
+泸西 | TRADUÇÃO: véase 瀘西縣|泸西县
+泸西县 | TRADUÇÃO: Luxi, condado de la prefectura autónoma hani e yi de Honghe 紅河哈尼族彝族自治州|红河哈尼族彝族自治州, Yunnan
+瀚 | TRADUÇÃO: océano/inmensidad
+瀛 | TRADUÇÃO: océano/mar
+瀛洲 | TRADUÇÃO: Yingzhou (isla mítica del mar oriental, morada de inmortales)
+瀛台 | TRADUÇÃO: Yingtai (isla artificial en Zhongnanhai 中南海, Pekín)
+沥 | TRADUÇÃO: gotear/escurrir/filtrar/hilo de agua
+沥干 | TRADUÇÃO: escurrir por completo/secar escurriendo
+沥水架 | TRADUÇÃO: escurreplatos
+沥青 | TRADUÇÃO: asfalto/betún/brea
+沥青铀矿 | TRADUÇÃO: pechblenda (mineral de uranio)
+瀞 | TRADUÇÃO: (arcaico) limpio/puro
+潇 | TRADUÇÃO: (del agua) profunda y clara
+潇湘 | TRADUÇÃO: Xiaoxiang (otro nombre del río Xiangjiang 湘江 en la provincia de Hunan)
+潇潇 | TRADUÇÃO: (del viento y la lluvia) impetuoso y aullante/(de lluvia fina) repiqueteante
+潇潇细雨 | TRADUÇÃO: llovizna suave/lluvia fina y suave
+潇洒 | TRADUÇÃO: desenvuelto y elegante/despreocupado y natural/gallardo
+潆 | TRADUÇÃO: remolino/pequeño arroyo
+瀡 | TRADUÇÃO: resbaladizo/deslizante
+瀣 | TRADUÇÃO: niebla/vapor nocturno
+潴 | TRADUÇÃO: charca/estanque/acumularse el agua
+潴留 | TRADUÇÃO: retención (medicina)
+泷 | TRADUÇÃO: río Shuang en Hunan y Guangdong (actual río Wu 武水) ‖ rápidos/cascada/torrencial (lluvia)
+泷水 | TRADUÇÃO: río Shuang en Hunan y Guangdong (actual río Wu 武水)
+泷泽 | TRADUÇÃO: Takizawa o Takesawa (apellido japonés)
+泷船 | TRADUÇÃO: barca o balsa adaptada para navegar por rápidos
+濑 | TRADUÇÃO: nombre de un río/rápidos de un río
+弥漫星云 | TRADUÇÃO: nebulosa difusa
+瀱 | TRADUÇÃO: (literario) agua de manantial que brota a borbotones
+潋 | TRADUÇÃO: rebosante de agua/ondas en la superficie
+瀳 | TRADUÇÃO: llegar o sobrevenir (el agua)
+瀵 | TRADUÇÃO: nombre de un río/manantial que brota con fuerza
+瀹 | TRADUÇÃO: limpiar/hervir
+瀺 | TRADUÇÃO: sonido del agua corriente
+瀼 | TRADUÇÃO: rocío abundante
+澜 | TRADUÇÃO: grandes olas/oleaje impetuoso
+澜沧 | TRADUÇÃO: véase 瀾滄拉祜族自治縣|澜沧拉祜族自治县
+澜沧拉祜族自治县 | TRADUÇÃO: condado autónomo lahu de Lancang, en la ciudad de Pu'er 普洱市, Yunnan
+澜沧江 | TRADUÇÃO: río Lancang (tramo superior del río Mekong 湄公河 en el suroeste de China)
+澜沧县 | TRADUÇÃO: véase 瀾滄拉祜族自治縣|澜沧拉祜族自治县
+沣 | TRADUÇÃO: lluvioso/topónimo en Shaanxi/río Feng en Shaanxi 陝西|陕西, afluente del río Wei 渭水
+沣水 | TRADUÇÃO: río Feng en Shaanxi 陝西|陕西, afluente del río Wei 渭水
+滠 | TRADUÇÃO: nombre de un río
+灈 | TRADUÇÃO: antiguo nombre de un río en Henan
+灉 | TRADUÇÃO: nombre de un río/compuerta
+灌 | TRADUÇÃO: regar/irrigar/verter/instalar (software)/grabar (música)
+灌区 | TRADUÇÃO: zona de regadío/distrito de riego
+灌南 | TRADUÇÃO: véase 灌南縣|灌南县
+灌南县 | TRADUÇÃO: Guannan, condado de la ciudad de Lianyungang 連雲港市|连云港市, Jiangsu
+灌丛 | TRADUÇÃO: matorral/maleza/arbusteda
+灌木 | TRADUÇÃO: arbusto/mata
+灌木丛 | TRADUÇÃO: matorral/arbusto/maleza
+灌木林 | TRADUÇÃO: matorral/bosque bajo
+灌水 | TRADUÇÃO: regar/inyectar agua/adulterar carne con agua/falsear cuentas/(en foros de internet) publicar mensajes triviales de relleno
+灌注 | TRADUÇÃO: verter o inyectar (líquidos)/(fig.) volcar (energía, esfuerzo)/(medicina) perfundir
+灌渠 | TRADUÇÃO: canal de riego
+灌溉 | TRADUÇÃO: regar/irrigar
+灌溉渠 | TRADUÇÃO: canal de riego
+灌浆 | TRADUÇÃO: inyección de lechada/lechada de cemento/(de cereales) llenado del grano/(medicina) formación de vesículas
+灌濯 | TRADUÇÃO: lavar/enjuagar
+灌站 | TRADUÇÃO: estación de bombeo de riego
+灌篮 | TRADUÇÃO: mate (baloncesto)/machacar la canasta
+灌米汤 | TRADUÇÃO: adular/hacer la pelota a alguien
+灌肠 | TRADUÇÃO: enema/poner una lavativa ‖ salchicha rellena con fécula y carne
+灌制 | TRADUÇÃO: grabar (discos, álbumes, etc.)/moldear por colada
+灌输 | TRADUÇÃO: inculcar/inculcar ideas/transmitir/canalizar agua
+灌迷魂汤 | TRADUÇÃO: embaucar con halagos/adular para encandilar a alguien
+灌酒 | TRADUÇÃO: forzar a beber alcohol/atiborrar de bebida a alguien
+灌醉 | TRADUÇÃO: emborrachar a alguien/embriagar
+灌铅 | TRADUÇÃO: rellenar con plomo/(de un dado) trucado/verter plomo fundido en la boca (como castigo)
+灌录 | TRADUÇÃO: grabar (audio)
+灌阳 | TRADUÇÃO: véase 灌陽縣|灌阳县
+灌阳县 | TRADUÇÃO: Guanyang, condado de la ciudad de Guilin 桂林市, Guangxi
+灌云 | TRADUÇÃO: véase 灌雲縣|灌云县
+灌云县 | TRADUÇÃO: Guanyun, condado de la ciudad de Lianyungang 連雲港市|连云港市, Jiangsu
+洒 | TRADUÇÃO: rociar/esparcir/derramar/salpicar
+洒家 | TRADUÇÃO: (arcaico) yo; a mí (usado por hombres en las dinastías Song y Yuan)
+洒布 | TRADUÇÃO: esparcir/extender
+洒水 | TRADUÇÃO: rociar agua/regar
+洒水机 | TRADUÇÃO: aspersor/rociador
+洒水车 | TRADUÇÃO: camión cisterna regador/camión regador
+洒满 | TRADUÇÃO: esparcirse por completo sobre algo/cubrirse de
+洒狗血 | TRADUÇÃO: sobreactuar/melodramático/exagerado
+洒脱 | TRADUÇÃO: libre y desenvuelto; natural; sin ataduras
+洒落 | TRADUÇÃO: caer de forma dispersa (como luz, pétalos, hojas)/(literario) despreocupado y elegante; natural y sin afectación
+灒 | TRADUÇÃO: salpicar/esparcir gotas de agua
+漓江 | TRADUÇÃO: río Li, Guangxi
+灖 | TRADUÇÃO: fluir del agua
+滩 | TRADUÇÃO: playa/banco de arena/rápidos/CL:片/clasificador para charcos o charcos de líquido
+滩涂 | TRADUÇÃO: planicie de marea/marisma intermareal
+滩头 | TRADUÇÃO: playa; orilla arenosa
+滩头堡 | TRADUÇÃO: cabeza de playa (militar)
+灏 | TRADUÇÃO: vasto e inmenso (del agua)
+灞 | TRADUÇÃO: nombre de un río
+灞桥 | TRADUÇÃO: véase 灞橋區|灞桥区
+灞桥区 | TRADUÇÃO: Baqiao, distrito de la ciudad de Xi'an 西安市, Shaanxi
+灠 | TRADUÇÃO: variante de 漤 ‖ variante de 濫|滥
+灢 | TRADUÇÃO: fangoso/agua espesa y cenagosa
+湾 | TRADUÇÃO: bahía/golfo/echar el ancla/fondear
+湾仔 | TRADUÇÃO: Wan Chai (distrito de Hong Kong)
+湾沚 | TRADUÇÃO: véase 灣沚區|湾沚区
+湾沚区 | TRADUÇÃO: Wanzhi, distrito de la ciudad de Wuhu 蕪湖市|芜湖市, Anhui
+湾环 | TRADUÇÃO: río serpenteante/curva del río
+滦 | TRADUÇÃO: río y condado en la provincia de Hebei
+滦南 | TRADUÇÃO: véase 灤南縣|滦南县
+滦南县 | TRADUÇÃO: Luannan, condado de la ciudad de Tangshan 唐山市, Hebei
+滦州 | TRADUÇÃO: véase 灤州市|滦州市
+滦州市 | TRADUÇÃO: Luanzhou, ciudad-condado de la ciudad de Tangshan 唐山市, Hebei
+滦平 | TRADUÇÃO: véase 灤平縣|滦平县
+滦平县 | TRADUÇÃO: Luanping, condado de la ciudad de Chengde 承德市, Hebei
+滦河 | TRADUÇÃO: río Luan
+灥 | TRADUÇÃO: grupo de manantiales
+赣 | TRADUÇÃO: variante de 贛|赣 ‖ variante de 贛|赣 ‖ abrev. de la provincia de Jiangxi 江西省/río Gan en la provincia de Jiangxi 江西省
+滟 | TRADUÇÃO: ondular de las olas/ondulaciones del agua
+灪 | TRADUÇÃO: (literario) olas gigantescas/oleaje imponente
+火 | TRADUÇÃO: apellido Huo ‖ fuego/urgente/munición/ardiente o flamígero/fuego interno o calor corporal excesivo (medicina tradicional china)/de gran éxito o popularidad (popular)/antigua unidad militar/radical Kangxi 86
+火上加油 | TRADUÇÃO: (modismo) echar leña al fuego/(fig.) avivar el conflicto/empeorar una situación
+火上浇油 | TRADUÇÃO: (modismo) echar leña al fuego/(fig.) agravar una situación/enfurecer aún más los ánimos
+火中取栗 | TRADUÇÃO: (modismo) (lit.) sacar las castañas del fuego/(fig.) arriesgarse en beneficio ajeno/servir de instrumento a otros
+火伴 | TRADUÇÃO: variante de 伙伴
+火并 | TRADUÇÃO: enfrentarse a tiros entre bandas rivales; tiroteo interno; violencia fratricida entre facciones armadas
+火候 | TRADUÇÃO: control del fuego o cocción/(fig.) grado de pericia o maestría/(fig.) momento oportuno o crucial
+火光 | TRADUÇÃO: resplandor del fuego/llamarada
+火儿 | TRADUÇÃO: fuego/ira/enfado
+火冒三丈 | TRADUÇÃO: ponerse furioso/montar en cólera/enfurecerse
+火冠雀 | TRADUÇÃO: pájaro moscón coronado (Cephalopyrus flammiceps)
+火刑 | TRADUÇÃO: ejecución en la hoguera/muerte en la pira
+火力 | TRADUÇÃO: potencia de fuego/fuego militar
+火力发电 | TRADUÇÃO: generación termoeléctrica/energía térmica
+火力发电厂 | TRADUÇÃO: central termoeléctrica
+火势 | TRADUÇÃO: intensidad y propagación del fuego
+火化 | TRADUÇÃO: incinerar/cremar
+火化场 | TRADUÇÃO: crematorio
+火印 | TRADUÇÃO: marca a fuego/hierro de marcar
+火器 | TRADUÇÃO: arma de fuego/CL:架
+火地群岛 | TRADUÇÃO: archipiélago de Tierra del Fuego, Patagonia
+火坑 | TRADUÇÃO: foso de fuego/(fig.) infierno en vida
+火堆 | TRADUÇÃO: hoguera/fogata/abrir fuego
+火场 | TRADUÇÃO: lugar del incendio/escenario del fuego
+火塘 | TRADUÇÃO: fogón de suelo/hogar interior
+火大 | TRADUÇÃO: enfadarse mucho; estar muy furioso
+火奴鲁鲁 | TRADUÇÃO: Honolulu (capital de Hawái)/también llamada 檀香山
+火尾太阳鸟 | TRADUÇÃO: suimanga colifuego (Aethopyga ignicauda)
+火尾希鹛 | TRADUÇÃO: minla colirroja (Minla ignotincta)
+火尾绿鹛 | TRADUÇÃO: tiznao colifuego (Myzornis pyrrhoura)
+火山 | TRADUÇÃO: volcán
+火山口 | TRADUÇÃO: cráter volcánico
+火山学 | TRADUÇÃO: vulcanología
+火山岩 | TRADUÇÃO: roca volcánica
+火山岛 | TRADUÇÃO: isla volcánica
+火山带 | TRADUÇÃO: cinturón volcánico
+火山毛 | TRADUÇÃO: cabellos de Pelé (geología)
+火山活动 | TRADUÇÃO: actividad volcánica/vulcanismo
+火山灰 | TRADUÇÃO: ceniza volcánica
+火山灰土 | TRADUÇÃO: andosol (edafología)
+火山爆发 | TRADUÇÃO: erupción volcánica
+火山爆发指数 | TRADUÇÃO: índice de explosividad volcánica (IEV)
+火山碎屑流 | TRADUÇÃO: flujo piroclástico/corriente piroclástica
+火山砾 | TRADUÇÃO: lapilli (geología)
+火山豆 | TRADUÇÃO: nuez de macadamia
+火影忍者 | TRADUÇÃO: Naruto (serie de manga y anime)
+火德星君 | TRADUÇÃO: dios del fuego/espíritu del planeta Marte en la mitología china
+火急 | TRADUÇÃO: de extrema urgencia/urgente
+火成 | TRADUÇÃO: (geología) ígneo; volcánico
+火成岩 | TRADUÇÃO: roca ígnea (geología)/roca volcánica
+火成碎屑 | TRADUÇÃO: piroclástico
+火把 | TRADUÇÃO: antorcha/CL:把
+火把节 | TRADUÇÃO: Festival de las Antorchas
+火拼 | TRADUÇÃO: véase 火併|火并
+火控 | TRADUÇÃO: control de tiro (artillería)
+火折子 | TRADUÇÃO: encendedor tradicional portátil (tubo de bambú con yesca incandescente)
+火斑鸠 | TRADUÇÃO: tórtola rojiza (Streptopelia tranquebarica)

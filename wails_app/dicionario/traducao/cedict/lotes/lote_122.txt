@@ -1,0 +1,276 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+龆 | TRADUÇÃO: shed the milk teeth/young
+龄 | TRADUÇÃO: age/length of experience, membership etc
+龈 | TRADUÇÃO: variant of 啃 ‖ gums (of the teeth)
+龈擦音 | TRADUÇÃO: alveolar fricative (linguistics)
+龈炎 | TRADUÇÃO: gingivitis
+龈病 | TRADUÇÃO: gingival disease
+龈脓肿 | TRADUÇÃO: gumboil
+龈音 | TRADUÇÃO: alveolar sound (linguistics)
+龈颚音 | TRADUÇÃO: prepalatal sound (linguistics)
+龈腭音 | TRADUÇÃO: alveo-palatal sound (linguistics)
+啮咬 | TRADUÇÃO: to gnaw
+龊 | TRADUÇÃO: used in 齷齪|龌龊
+龉 | TRADUÇÃO: used in 齟齬|龃龉
+𬺈 | TRADUÇÃO: (literary) to bite
+𫠜 | TRADUÇÃO: teeth grown in old age
+齰 | TRADUÇÃO: to bite
+𱌶 | TRADUÇÃO: used in 齱齵|𱌶𱌹
+𱌶𱌹 | TRADUÇÃO: (archaic) uneven teeth; buckteeth
+龋 | TRADUÇÃO: decayed teeth/dental caries
+龋洞 | TRADUÇÃO: hole due to dental caries
+龋齿 | TRADUÇÃO: tooth decay; dental caries/decayed tooth; rotten tooth
+龋齿性 | TRADUÇÃO: caries-inducing
+𱌹 | TRADUÇÃO: used in 齱齵|𱌶𱌹
+腭 | TRADUÇÃO: palate/roof of the mouth
+腭裂 | TRADUÇÃO: cleft palate
+龌 | TRADUÇÃO: dirty/small-minded
+龌浊 | TRADUÇÃO: filthy/nasty/sordid/impure (motives)
+龌龊 | TRADUÇÃO: dirty; filthy/vile; despicable/(literary) narrow-minded; petty
+齾 | TRADUÇÃO: dented/chipped/gap-toothed/toothless
+龙 | TRADUÇÃO: surname Long ‖ Chinese dragon; loong/(fig.) emperor/dragon/(bound form) dinosaur
+龙井 | TRADUÇÃO: see 龍井市|龙井市/see 龍井區|龙井区/Longjing tea (abbr. for 龍井茶|龙井茶)
+龙井区 | TRADUÇÃO: Longjing, a district of Taichung 臺中市|台中市, Taiwan
+龙井市 | TRADUÇÃO: Longjing, a county-level city in Yanbian Korean Autonomous Prefecture 延邊朝鮮族自治州|延边朝鲜族自治州, Jilin
+龙井茶 | TRADUÇÃO: Longjing tea, aka Dragon Well tea, a high-quality pan-roasted green tea from the area of Longjing Village in Hangzhou, Zhejiang
+龙亭 | TRADUÇÃO: see 龍亭區|龙亭区
+龙亭区 | TRADUÇÃO: Longting, a district of Kaifeng City 開封市|开封市, Henan
+龙人 | TRADUÇÃO: Dragon Man, the nickname of the individual whose fossilized cranium was discovered in Heilongjiang in 1933, thought to be a Denisovan 丹尼索瓦人 or a new species of extinct human, Homo longi
+龙利 | TRADUÇÃO: sole/right-eyed flounder/flatfish/see also 鰈|鲽
+龙利叶 | TRADUÇÃO: Sauropus spatulifolius Beille (shrub of the Euphorbiaceae family)
+龙胜 | TRADUÇÃO: see 龍勝各族自治縣|龙胜各族自治县
+龙胜各族自治县 | TRADUÇÃO: Longsheng Various Nationalities Autonomous County, in Guilin City 桂林市, Guangxi
+龙胜县 | TRADUÇÃO: see 龍勝各族自治縣|龙胜各族自治县
+龙南 | TRADUÇÃO: see 龍南市|龙南市
+龙南市 | TRADUÇÃO: Longnan, a county-level city in Ganzhou City 贛州市|赣州市, Jiangxi
+龙口 | TRADUÇÃO: see 龍口市|龙口市
+龙口夺食 | TRADUÇÃO: to harvest hurriedly before rain comes
+龙口市 | TRADUÇÃO: Longkou, a county-level city in Yantai City 煙台市|烟台市, Shandong
+龙君 | TRADUÇÃO: the Dragon King of the Eastern Sea (mythology)
+龙圩 | TRADUÇÃO: see 龍圩區|龙圩区
+龙圩区 | TRADUÇÃO: Longxu, a district of Wuzhou City 梧州市, Guangxi
+龙城 | TRADUÇÃO: see 龍城區|龙城区
+龙城区 | TRADUÇÃO: Longcheng, a district of Chaoyang City 朝陽市|朝阳市, Liaoning
+龙套 | TRADUÇÃO: costume of minor characters in opera, featuring dragon designs/walk-on
+龙妹 | TRADUÇÃO: ugly girl (slang) (Tw)
+龙子湖 | TRADUÇÃO: see 龍子湖區|龙子湖区
+龙子湖区 | TRADUÇÃO: Longzihu, a district of Bengbu City 蚌埠市, Anhui
+龙安 | TRADUÇÃO: see 龍安區|龙安区
+龙安区 | TRADUÇÃO: Long'an, a district of Anyang City 安陽市|安阳市, Henan
+龙安寺 | TRADUÇÃO: Ryōanji, temple in northwest Kyōto 京都, Japan with famous rock garden
+龙宫 | TRADUÇÃO: palace of the Dragon King at the bottom of the Eastern Sea
+龙宫贝 | TRADUÇÃO: Rumphius's slit shell (Entemnotrochus rumphii), found in Japan and Taiwan
+龙山 | TRADUÇÃO: see 龍山縣|龙山县/see 龍山區|龙山区
+龙山区 | TRADUÇÃO: Longshan, a district of Liaoyuan City 遼源市|辽源市, Jilin
+龙山文化 | TRADUÇÃO: Longshan culture/black pottery culture
+龙山县 | TRADUÇÃO: Longshan, a county in Xiangxi Tujia and Miao Autonomous Prefecture 湘西土家族苗族自治州, Hunan
+龙崎 | TRADUÇÃO: Longci, a district in Tainan 台南|台南, Taiwan
+龙岗 | TRADUÇÃO: see 龍崗區|龙岗区
+龙岗区 | TRADUÇÃO: Longgang, a district of Shenzhen City 深圳市, Guangdong
+龙岩 | TRADUÇÃO: see 龍巖市|龙岩市
+龙岩市 | TRADUÇÃO: Longyan, prefecture-level city in Fujian Province 福建省
+龙川 | TRADUÇÃO: see 龍川縣|龙川县
+龙川县 | TRADUÇÃO: Longchuan, a county in Heyuan City 河源市, Guangdong
+龙州 | TRADUÇÃO: see 龍州縣|龙州县
+龙州县 | TRADUÇÃO: Longzhou, a county in Chongzuo City 崇左市, Guangxi
+龙巾 | TRADUÇÃO: imperial towel
+龙年 | TRADUÇÃO: Year of the Dragon (e.g. 2000, 2012, etc)
+龙床 | TRADUÇÃO: the Emperor's bed
+龙庭 | TRADUÇÃO: imperial court
+龙形拳 | TRADUÇÃO: Long Xing Quan - "Dragon Fist" - Martial Art
+龙抬头 | TRADUÇÃO: the second day of the second lunar month, traditionally observed as the Longtaitou Festival
+龙卷 | TRADUÇÃO: tornado/waterspout/twister
+龙卷风 | TRADUÇÃO: tornado/hurricane/twister/cyclone
+龙文 | TRADUÇÃO: see 龍文區|龙文区
+龙文区 | TRADUÇÃO: Longwen, a district of Zhangzhou City 漳州市, Fujian
+龙椅 | TRADUÇÃO: the Dragon Throne/the imperial throne
+龙标 | TRADUÇÃO: (PRC) film screening permit
+龙树 | TRADUÇÃO: Nāgārjuna (c. 150-250 AD), Buddhist philosopher
+龙树菩萨 | TRADUÇÃO: Nagarjuna (Nagarjuna Bodhisattva)
+龙江 | TRADUÇÃO: see 龍江縣|龙江县
+龙江县 | TRADUÇÃO: Longjiang, a county in Qiqihar City 齊齊哈爾市|齐齐哈尔市, Heilongjiang
+龙沙 | TRADUÇÃO: see 龍沙區|龙沙区
+龙沙区 | TRADUÇÃO: Longsha, a district of Qiqihar City 齊齊哈爾市|齐齐哈尔市, Heilongjiang
+龙泉 | TRADUÇÃO: see 龍泉市|龙泉市/see 龍泉驛|龙泉驿
+龙泉剑 | TRADUÇÃO: Longquan Sword, legendary ancient Chinese sword of extraordinary craftsmanship
+龙泉市 | TRADUÇÃO: Longquan, a county-level city in Lishui City 麗水市|丽水市, Zhejiang
+龙泉驿 | TRADUÇÃO: see 龍泉驛區|龙泉驿区
+龙泉驿区 | TRADUÇÃO: Longquanyi, a district of Chengdu City 成都市, Sichuan
+龙洞 | TRADUÇÃO: cave/natural cavern (in limestone)
+龙海 | TRADUÇÃO: see 龍海區|龙海区
+龙海区 | TRADUÇÃO: Longhai, a district of Zhangzhou City 漳州市, Fujian
+龙涎香 | TRADUÇÃO: ambergris
+龙港 | TRADUÇÃO: see 龍港區|龙港区/see 龍港市|龙港市
+龙港区 | TRADUÇÃO: Longgang, a district of Huludao City 葫蘆島市|葫芦岛市, Liaoning
+龙港市 | TRADUÇÃO: Longgang, a county-level city in Wenzhou City 溫州市|温州市, Zhejiang
+龙湖 | TRADUÇÃO: see 龍湖區|龙湖区
+龙湖区 | TRADUÇÃO: Longhu, a district of Shantou City 汕頭市|汕头市, Guangdong
+龙潭 | TRADUÇÃO: Longtan district of Jilin city 吉林市, Jilin province/see also 龍潭|龙潭/Longtan or Lungtan township in Taoyuan county 桃園縣|桃园县, north Taiwan
+龙潭区 | TRADUÇÃO: Longtan, a district of Jilin City 吉林市, Jilin
+龙潭沟 | TRADUÇÃO: Longtan Ravine, scenic area in Xixia county 西峽縣|西峡县, Nanyang 南陽|南阳, Henan
+龙潭虎穴 | TRADUÇÃO: (lit.) dragon's pool and tiger's den (idiom)/(fig.) dangerous place; hostile territory
+龙湾 | TRADUÇÃO: see 龍灣區|龙湾区
+龙湾区 | TRADUÇÃO: Longwan, a district of Wenzhou City 溫州市|温州市, Zhejiang
+龙灯 | TRADUÇÃO: dragon lantern
+龙争虎斗 | TRADUÇÃO: lit. the dragon wars, the tiger battles (idiom); fierce battle between giants
+龙王 | TRADUÇÃO: Dragon King (mythology)
+龙生九子 | TRADUÇÃO: lit. the dragon has nine sons (idiom); fig. all kinds of characters/good and bad intermingled/It takes all sorts to make a world.
+龙生龙，凤生凤 | TRADUÇÃO: lit. dragon births dragon, phoenix births phoenix (idiom)/fig. the apple doesn't fall far from the tree
+龙的传人 | TRADUÇÃO: Descendants of the Dragon (i.e. Han Chinese)
+龙眼 | TRADUÇÃO: longan fruit/dragon eye fruit/Dimocarpus longan (botany)/CL:粒
+龙种 | TRADUÇÃO: emperor's offspring
+龙纹 | TRADUÇÃO: dragon (as a decorative design)
+龙羊 | TRADUÇÃO: Long yang village in Hainan Tibetan autonomous prefecture, Qinghai
+龙羊峡 | TRADUÇÃO: Longyangxia canyon on the upper reaches of the Yellow River, Gonghe county 共和縣|共和县 in Hainan Tibetan autonomous prefecture, Qinghai
+龙肝凤胆 | TRADUÇÃO: rare food/ambrosia (delicacy)
+龙脉 | TRADUÇÃO: dragon's vein, terrain that looks like a dragon
+龙胆 | TRADUÇÃO: rough gentian/Japanese gentian (Gentiana scabra)
+龙胆紫 | TRADUÇÃO: gentian violet C25H30ClN3/crystal violet
+龙舌兰 | TRADUÇÃO: agave (genus of plants); (esp.) Agave americana/agave-based spirit; (esp.) tequila (distilled from blue agave, Agave tequilana)
+龙舌兰酒 | TRADUÇÃO: tequila
+龙舟 | TRADUÇÃO: dragon boat/imperial boat
+龙船 | TRADUÇÃO: dragon boat (used at 端午, the Dragon Boat Festival)
+龙芯 | TRADUÇÃO: Loongson (a family of general-purpose CPUs developed within China)
+龙华 | TRADUÇÃO: see 龍華區|龙华区/Longhua, the name of numerous streets, railway stations, temples etc, notably Longhua Temple 龍華寺|龙华寺 in Shanghai
+龙华区 | TRADUÇÃO: Longhua, a district of Shenzhen City 深圳市, Guangdong/Longhua, a district of Haikou City 海口市, Hainan
+龙葵 | TRADUÇÃO: black nightshade (Solanum nigrum)
+龙蒿 | TRADUÇÃO: tarragon
+龙虎 | TRADUÇÃO: outstanding people/water and fire (in Daoist writing)
+龙虎斗 | TRADUÇÃO: fight between powerful contenders
+龙蛇混杂 | TRADUÇÃO: lit. dragons and snakes mingle (idiom)/fig. a mix of good people and scumbags
+龙虾 | TRADUÇÃO: lobster
+龙血树 | TRADUÇÃO: dragon tree/Dracaena (botany)
+龙袍 | TRADUÇÃO: dragon robe/emperor's court dress
+龙豆 | TRADUÇÃO: dragon bean/long bean
+龙猫 | TRADUÇÃO: chinchilla/Totoro (anime character)
+龙趸 | TRADUÇÃO: giant grouper (various Epinephelus species)
+龙车 | TRADUÇÃO: imperial chariot
+龙游 | TRADUÇÃO: see 龍遊縣|龙游县
+龙游县 | TRADUÇÃO: Longyou, a county in Quzhou City 衢州市, Zhejiang
+龙里 | TRADUÇÃO: see 龍里縣|龙里县
+龙里县 | TRADUÇÃO: Longli, a county in Qiannan Buyei and Miao Autonomous Prefecture 黔南布依族苗族自治州, Guizhou
+龙钟 | TRADUÇÃO: decrepit/senile
+龙门 | TRADUÇÃO: see 龍門縣|龙门县/see 龍門石窟|龙门石窟/see 龍門山|龙门山/Dragon Gate, mythical gate at the crest of a waterfall over which a carp may leap to become a dragon; (fig.) gateway to success or greatness
+龙门刨 | TRADUÇÃO: double column surface grinding machine
+龙门山 | TRADUÇÃO: Mt Longmen, the northwest boundary of the Sichuan basin, an active geological fault line/Mt Longmen in Shandong/Mt Longmen in Henan
+龙门山断层 | TRADUÇÃO: Longmenshan fault line, a tectonically active thrust fault line at the northwest boundary of the Sichuan basin
+龙门断层 | TRADUÇÃO: Longmenshan fault line, a tectonically active thrust fault line at the northwest boundary of the Sichuan basin
+龙门架 | TRADUÇÃO: gantry
+龙门石窟 | TRADUÇÃO: Longmen Grottoes at Luoyang 洛陽|洛阳, Henan
+龙门县 | TRADUÇÃO: Longmen, a county in Huizhou City 惠州市, Guangdong
+龙陵 | TRADUÇÃO: see 龍陵縣|龙陵县
+龙陵县 | TRADUÇÃO: Longling, a county in Baoshan City 保山市, Yunnan
+龙阳 | TRADUÇÃO: place in Shanghai/(coll.) male homosexual
+龙阳君 | TRADUÇÃO: homosexual (positive term)
+龙韬 | TRADUÇÃO: military strategy and tactics/the imperial guard
+龙头 | TRADUÇÃO: faucet; tap/bicycle handlebar/chief; boss (esp. of a gang)/(referring to a company) leader; front-runner/figurehead on the prow of a dragon boat 龍船|龙船
+龙头企业 | TRADUÇÃO: key enterprises; leading enterprises
+龙头老大 | TRADUÇÃO: big boss/leader of a group/dominant (position)
+龙头股 | TRADUÇÃO: (finance) leading stock; market leader
+龙头蛇尾 | TRADUÇÃO: lit. dragon's head, snake's tail (idiom); fig. a strong start but weak finish
+龙头铡 | TRADUÇÃO: lever-style guillotine decorated with a dragon's head at the hinged end, used to behead criminals related to the emperor
+龙飞 | TRADUÇÃO: to promote (to official position in former times)
+龙飞凤舞 | TRADUÇÃO: flamboyant or bold cursive calligraphy (idiom)
+龙马潭 | TRADUÇÃO: see 龍馬潭區|龙马潭区
+龙马潭区 | TRADUÇÃO: Longmatan, a district of Luzhou City 瀘州市|泸州市, Sichuan
+龙马精神 | TRADUÇÃO: old but still full of vitality (idiom)
+龙驹 | TRADUÇÃO: fine horse/brilliant young man
+龙驹凤雏 | TRADUÇÃO: brilliant young man/talented young scholar
+龙腾虎跃 | TRADUÇÃO: lit. dragon soaring and tiger leaping (idiom)/fig. prosperous and bustling; vigorous and active
+龙骧虎步 | TRADUÇÃO: (idiom) powerful and imposing demeanor
+龙骨 | TRADUÇÃO: "dragon bones" (fossilized animal bones or teeth, used in TCM)/breastbone (of a bird)/keel (of a ship)
+龙骨瓣 | TRADUÇÃO: (botany) carina; keel (of a papilionaceous flower)
+龙骨车 | TRADUÇÃO: water wheel
+龙体 | TRADUÇÃO: emperor's body; emperor's physical condition
+龙须糖 | TRADUÇÃO: dragon's beard candy, a Chinese confection made from floured taffy pulled into flossy strands
+龙须菜 | TRADUÇÃO: asparagus/(Tw) young shoots of the chayote vine 佛手瓜
+龙须面 | TRADUÇÃO: dragon beard noodles; dragon whisker noodles
+龙凤 | TRADUÇÃO: see 龍鳳區|龙凤区 ‖ dragon and phoenix
+龙凤区 | TRADUÇÃO: Longfeng, a district of Daqing City 大慶市|大庆市, Heilongjiang
+龙凤呈祥 | TRADUÇÃO: the dragon and phoenix are symbols of good fortune (idiom)/auspicious/decorated with auspicious symbols such as the dragon and the phoenix
+龙凤胎 | TRADUÇÃO: twins of mixed sex
+龙龛手镜 | TRADUÇÃO: see 龍龕手鑑|龙龛手鉴
+龙龛手鉴 | TRADUÇÃO: Longkan Shoujian, Chinese character dictionary from 997 AD containing 26,430 entries, with radicals placed into 240 rhyme groups and arranged according to the four tones, and the rest of the characters similarly arranged under each radical
+厐 | TRADUÇÃO: variant of 龐|庞, huge/enormous
+庞 | TRADUÇÃO: surname Pang ‖ (bound form) huge/(bound form) numerous and disordered/(bound form) face
+庞克 | TRADUÇÃO: (Tw) (loanword) punk (music or subculture)
+庞加莱 | TRADUÇÃO: Henri Poincaré (1854-1912), French mathematician, physicist and philosopher
+庞培 | TRADUÇÃO: Pompeium, Roman town in Bay of Naples destroyed by eruption of Vesuvius in 79/Pompey (Roman general)
+庞大 | TRADUÇÃO: huge; enormous; tremendous
+庞德 | TRADUÇÃO: Pang De (-219), general of Cao Wei at the start of the Three Kingdoms period, victor over Guan Yu 關羽|关羽/Pound (name)/Ezra Pound (1885-1972), American poet and translator
+庞德街 | TRADUÇÃO: Bond Street (London, England)
+庞氏 | TRADUÇÃO: Ponzi (name)/Pond's (brand of skin care products), also written 旁氏
+庞氏骗局 | TRADUÇÃO: Ponzi scheme
+庞涓 | TRADUÇÃO: Pang Juan (-342 BC), military leader and political strategist of the School of Diplomacy 縱橫家|纵横家 during the Warring States Period (425-221 BC)
+庞然大物 | TRADUÇÃO: (idiom) huge object; colossus
+庞兹 | TRADUÇÃO: Ponzi (name)
+庞贝 | TRADUÇÃO: Pompeii, ancient Roman town near Naples, Italy
+庞杂 | TRADUÇÃO: complex; complicated; many and varied
+䶮 | TRADUÇÃO: (rare) character coined for use in the name of Liu Yan 劉龑|刘䶮 (889–942), founding emperor of Southern Han
+龒 | TRADUÇÃO: old variant of 龍|龙
+龚 | TRADUÇÃO: surname Gong
+龚古尔 | TRADUÇÃO: Goncourt (name)
+龚自珍 | TRADUÇÃO: Gong Zizhen (1792-1841), Chinese man of letters, calligrapher and poet
+龛 | TRADUÇÃO: (bound form) niche; shrine
+龛影 | TRADUÇÃO: (radiography) the shadow of a peptic ulcer in a barium-swallow X-ray
+龖 | TRADUÇÃO: a vista of a dragon in flight
+龗 | TRADUÇÃO: dragon
+龘 | TRADUÇÃO: old variant of 龖
+龟 | TRADUÇÃO: tortoise; turtle/(coll.) cuckold ‖ variant of 皸|皲 ‖ used in 龜茲|龟兹
+龟儿子 | TRADUÇÃO: (coll.) bastard/son of a bitch
+龟公 | TRADUÇÃO: pimp
+龟友 | TRADUÇÃO: turtle enthusiast
+龟孙子 | TRADUÇÃO: (coll.) son of a bitch/bastard
+龟尾市 | TRADUÇÃO: Gumi, city in North Gyeongsang Province, South Korea
+龟板 | TRADUÇÃO: tortoise plastron/turtle shell
+龟壳 | TRADUÇÃO: tortoise shell
+龟壳花 | TRADUÇÃO: Formosan pit viper (Protobothrops mucrosquamatus)
+龟毛 | TRADUÇÃO: (Tw) (coll.) indecisive; fussy; nitpicking (from Taiwanese, Tai-lo pr. [ku-moo])
+龟甲 | TRADUÇÃO: tortoise shell
+龟甲宝螺 | TRADUÇÃO: Mauritius cowry/Mauritia mauritiana
+龟甲万 | TRADUÇÃO: Kikkoman, Japanese soy sauce and seasoning brand
+龟男 | TRADUÇÃO: (slang) man who grovels to a woman; man who accepts a subordinate or exploitative role in hopes of her approval
+龟笑鳖无尾 | TRADUÇÃO: lit. a tortoise laughing at a soft-shelled turtle for having no tail (idiom)/fig. the pot calling the kettle black
+龟缩 | TRADUÇÃO: to withdraw/to hole up
+龟背竹 | TRADUÇÃO: split-leaf philodendron/Monstera deliciosa
+龟船 | TRADUÇÃO: "turtle ship", armored warship used by Koreans in fighting the Japanese during the Imjin war of 1592-1598 壬辰倭亂|壬辰倭乱
+龟苓膏 | TRADUÇÃO: turtle jelly, medicine made with powdered turtle shell and herbs/a similar product made without turtle shell and consumed as a dessert
+龟兹 | TRADUÇÃO: Kucha, ancient Silk Road kingdom and Buddhist center on the northern rim of the Taklamakan Desert (Han-Tang period), in present-day Aksu, Xinjiang
+龟裂 | TRADUÇÃO: to crack/cracked/fissured/creviced/(of skin) chapped
+龟趺 | TRADUÇÃO: turtle-shaped plinth of a stele
+龟速 | TRADUÇÃO: as slow as a tortoise
+龟头 | TRADUÇÃO: head of a turtle/glans penis
+龝 | TRADUÇÃO: old variant of 秋
+龠 | TRADUÇÃO: ancient unit of volume (half a 合, equivalent to 50ml)/ancient flute
+龡 | TRADUÇÃO: to blow (a flute)/archaic version of 吹
+龢 | TRADUÇÃO: used in given names and as a surname
+龤 | TRADUÇÃO: to harmonize/to accord with/to agree
+龥 | TRADUÇÃO: variant of 籲|吁
+鿍 | TRADUÇÃO: hill/long and narrow highland/(used in place names)
+鿫 | TRADUÇÃO: oganesson (chemistry)
+鿬 | TRADUÇÃO: (chemistry) tennessine
+𠈌 | TRADUÇÃO: old variant of 虞/used in 人從眾𠈌|人从众𠈌
+𠙶 | TRADUÇÃO: (name of a mountain)
+𠩺 | TRADUÇÃO: to split open/crack
+𠯪 | TRADUÇÃO: (dialect) to eat
+𠳐 | TRADUÇÃO: (onom.) bang (door slamming shut etc)/rat-a-tat (knocking on a door etc)
+𡳞 | TRADUÇÃO: (Minnan dialect) male genitals/penis
+𥻗 | TRADUÇÃO: (bound form) coarsely ground maize
+𥻗子 | TRADUÇÃO: (dialect) coarsely ground maize/corn grit
+𥻗粥 | TRADUÇÃO: gruel made from ground maize/corn grit congee
+𦙶 | TRADUÇÃO: variant of 股/(used in place names)
+𧿹 | TRADUÇÃO: (bound form) big toe
+𧿹外翻 | TRADUÇÃO: variant of 拇外翻
+𧿹趾 | TRADUÇÃO: variant of 拇趾
+𬭊 | TRADUÇÃO: dubnium (chemistry)
+𬭛 | TRADUÇÃO: bohrium (chemistry)
+𬭶 | TRADUÇÃO: hassium (chemistry)
+𬭳 | TRADUÇÃO: seaborgium (chemistry)
+𱅒 | TRADUÇÃO: variant of 騁|骋
+𬶂 | TRADUÇÃO: used in 𩵚魠魚|𬶂𱇏鱼
+𬶂𱇏鱼 | TRADUÇÃO: variant of 土魠魚|土𱇏鱼
+𰻝 | TRADUÇÃO: used in 𰻞𰻞麵|𰻝𰻝面
+𰻝𰻝面 | TRADUÇÃO: broad, belt-shaped noodles, popular in Shaanxi

@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significado1/significado2/.../ em inglês>
+# Traduza cada significado (a lista separada por "/") para português, mantendo os mesmos separadores "/", a mesma ORDEM e a mesma QUANTIDADE de significados por linha.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+插头 | TRADUÇÃO: plugue
+揓 | TRADUÇÃO: segurar/agarrar
+揕 | TRADUÇÃO: bater/atacar
+揖 | TRADUÇÃO: cumprimentar com as mãos juntas (gesto tradicional de saudação)
+揗 | TRADUÇÃO: golpe, bater com a mão/golpear
+揘 | TRADUÇÃO: usado em 揘毕
+揘毕 | TRADUÇÃO: golpear com uma lança
+扬 | TRADUÇÃO: abrev. de Yangzhou 揚州|扬州 em Jiangsu/sobrenome Yang/erguer/içar/ação de atirar ou joeirar/esparramar (ao vento)/agitado/propagar/variante de 揚|扬
+扬中 | TRADUÇÃO: veja 揚中市|扬中市
+扬中市 | TRADUÇÃO: Yangzhong, cidade a nível de condado em Zhenjiang City 鎮江市|镇江市, Jiangsu
+扬召 | TRADUÇÃO: sinalizar (um táxi) na rua/parar (um táxi) acenando
+扬名 | TRADUÇÃO: tornar-se famoso/tornar-se infame
+扬名四海 | TRADUÇÃO: conhecido em todo o país (expressão idiomática); mundialmente famoso
+扬基 | TRADUÇÃO: (empréstimo) Yankee (especialmente o time de beisebol New York Yankees)
+扬子江 | TRADUÇÃO: Changjiang 長江|长江 ou Rio Yangtzé/nome antigo do Changjiang, especialmente o trecho inferior ao redor de Yangzhou 揚州|扬州
+扬子鳄 | TRADUÇÃO: jacaré chinês (Alligator sinensis)
+扬州 | TRADUÇÃO: veja 揚州市|扬州市
+扬州市 | TRADUÇÃO: Yangzhou, cidade de nível de prefeitura na Província de Jiangsu 江蘇省|江苏省
+扬州炒饭 | TRADUÇÃO: arroz frito de Yangzhou, apresentando ovo mexido, legumes picados e múltiplas proteínas – geralmente camarão e carne de porco barbecue
+扬帆 | TRADUÇÃO: zarpar
+扬帆远航 | TRADUÇÃO: zarpar em uma viagem para um lugar distante/(fig.) empreender uma grande missão
+扬幡招魂 | TRADUÇÃO: (lit.) levantar uma bandeira para convocar a alma de uma pessoa moribunda (expressão idiomática)/(fig.) tentar reviver o que está obsoleto ou morto
+扬抑格 | TRADUÇÃO: trocaico
+扬清激浊 | TRADUÇÃO: lit. drenar a sujeira e trazer água fresca (expressão idiomática); fig. dissipar o mal e introduzir o bem/eliminar o vício e exaltar a virtude
+扬琴 | TRADUÇÃO: yangqin/dulcimer (instrumento musical de cordas percutidas)
+扬眉 | TRADUÇÃO: levantar as sobrancelhas
+扬科维奇 | TRADUÇÃO: Jankovic/Yankovic/Yankovich/Jelena Jankovic (1985-), tenista sérvia
+扬谷 | TRADUÇÃO: joeirar
+扬声器 | TRADUÇÃO: alto-falante
+扬菜 | TRADUÇÃO: culinária de Jiangsu
+扬言 | TRADUÇÃO: divulgar (uma história, plano, ameaça etc.)/fazer saber (especialmente ameaça ou história maliciosa)/ameaçar
+扬起 | TRADUÇÃO: levantar a cabeça/animar-se
+扬长 | TRADUÇÃO: com arrogância/ostensivamente/fazer o melhor uso dos próprios pontos fortes
+扬长而去 | TRADUÇÃO: ir embora com arrogância/ir embora (ou dirigir etc.) sem pensar duas vezes nos deixados para trás
+扬长避短 | TRADUÇÃO: fomentar pontos fortes e evitar pontos fracos (expressão idiomática)/jogar com os próprios pontos fortes
+扬雄 | TRADUÇÃO: Yang Xiong (53 a.C.-18 d.C.), estudioso, poeta e lexicógrafo, autor do primeiro dicionário de dialetos chineses 方言
+扬鞭 | TRADUÇÃO: chicotear/levantar um chicote/por extensão, agir com arrogância
+换 | TRADUÇÃO: trocar/trocar (roupas etc.)/substituir/mudar/converter (moeda)
+换乘 | TRADUÇÃO: trocar de trem (avião, ônibus etc.)/transferência entre modos de transporte
+换人 | TRADUÇÃO: substituir alguém (pessoal, jogador de time esportivo etc.)/substituição
+换代 | TRADUÇÃO: fazer a transição para uma nova dinastia ou regime/substituir um produto mais antigo por um novo de nova geração atualizado
+换位 | TRADUÇÃO: trocar de lugar/(lógica) conversão/(manutenção de carro) rodízio (de pneus)
+换位思考 | TRADUÇÃO: colocar-se no lugar do outro
+换个儿 | TRADUÇÃO: trocar de lugar/trocar de posição
+换刀 | TRADUÇÃO: troca de ferramenta (mecânica)
+换取 | TRADUÇÃO: obter (algo) em troca/trocar (algo) por (algo mais)
+换句话说 | TRADUÇÃO: em outras palavras
+换台 | TRADUÇÃO: mudar o canal da TV
+换向 | TRADUÇÃO: comutação (eletricidade)
+换单 | TRADUÇÃO: letra de câmbio (comércio internacional)
+换喻 | TRADUÇÃO: metonímia
+换妻 | TRADUÇÃO: troca de casais
+换季 | TRADUÇÃO: a estação muda
+换届 | TRADUÇÃO: trocar o pessoal ao expirar um mandato
+换岗 | TRADUÇÃO: render uma sentinela/trocar a guarda
+换工 | TRADUÇÃO: trocar turnos de trabalho
+换帖 | TRADUÇÃO: trocar cartões com dados pessoais (ao fazer um juramento de fraternidade)
+换帅 | TRADUÇÃO: substituir a pessoa responsável; (esportes) substituir o treinador principal
+换成 | TRADUÇÃO: trocar (algo) por (algo mais)/substituir por/transformar em
+换房旅游 | TRADUÇÃO: férias de troca de casa
+换挡 | TRADUÇÃO: trocar a marcha
+换挡杆 | TRADUÇÃO: alavanca de câmbio
+换新 | TRADUÇÃO: substituir por algo novo/atualizar
+换毛 | TRADUÇÃO: mudar de penas (de aves)/trocar penas
+换气 | TRADUÇÃO: respirar (na natação)/ventilar
+换洗 | TRADUÇÃO: trocar e lavar (roupas etc.)
+换汤不换药 | TRADUÇÃO: caldo diferente mas o mesmo remédio velho (expressão idiomática); mudança apenas no nome/mudança na forma mas não na substância
+换热器 | TRADUÇÃO: trocador de calor
+换牙 | TRADUÇÃO: trocar dentes (zoologia)/crescer dentes permanentes no lugar dos dentes de leite
+换班 | TRADUÇÃO: trocar de turno/próximo turno de trabalho/relevar (um trabalhador do turno anterior)/assumir o trabalho
+换算 | TRADUÇÃO: converter/conversão/(em contabilidade, referindo-se à conversão de moeda) tradução
+换置 | TRADUÇÃO: trocar/trocar/transpor/substituir
+换羽 | TRADUÇÃO: mudar de penas/trocar penas
+换而言之 | TRADUÇÃO: em outras palavras
+换茬 | TRADUÇÃO: rotação de culturas
+换行 | TRADUÇÃO: quebrar linha (texto)/alimentação de linha (computação)
+换装 | TRADUÇÃO: trocar de roupa; mudar de roupa
+换言之 | TRADUÇÃO: em outras palavras
+换证 | TRADUÇÃO: renovar um certificado (carteira de identidade etc.)/deixar um documento de identidade na recepção para entrar
+换钱 | TRADUÇÃO: trocar dinheiro/vender
+换防 | TRADUÇÃO: render uma guarnição/trocar o complemento da guarda
+揜 | TRADUÇÃO: cobrir/surpreender
+揝 | TRADUÇÃO: segurar na mão, agarrar/torcer
+揞 | TRADUÇÃO: aplicar (pó medicinal a um ferimento)/cobrir/esconder
+揠 | TRADUÇÃO: erradicar/arrancar
+揠苗助长 | TRADUÇÃO: veja 拔苗助長|拔苗助长
+握 | TRADUÇÃO: segurar; agarrar/apertar (o punho)/(forma presa) ter sob seu controle/classificador: um punhado
+握住 | TRADUÇÃO: agarrar/segurar
+握别 | TRADUÇÃO: apertar as mãos
+握力 | TRADUÇÃO: força da pegada
+握手 | TRADUÇÃO: apertar as mãos
+握拳 | TRADUÇÃO: fazer um punho
+握持 | TRADUÇÃO: segurar na mão; agarrar
+握有 | TRADUÇÃO: ter; possuir (geralmente algo abstrato: poder, direitos de distribuição, uma moeda de troca etc.)
+握爪 | TRADUÇÃO: (humorístico) apertar as mãos
+揣 | TRADUÇÃO: colocar dentro (bolsos, roupas)/pronúncia de Taiwan [chuai3]/estimar/adivinhar/descobrir/supor/usado em 囊揣/usado em 掙揣|挣揣
+揣在怀里 | TRADUÇÃO: enfiar no peito (da roupa)
+揣度 | TRADUÇÃO: estimar/supor/avaliar
+揣想 | TRADUÇÃO: conjecturar
+揣摩 | TRADUÇÃO: analisar/tentar entender/tentar compreender
+揣测 | TRADUÇÃO: conjecturar/conjeturar
+揣着明白装糊涂 | TRADUÇÃO: fingir que não sabe/fazer-se de desentendido
+揥 | TRADUÇÃO: livrar-se de/prendedor de cabelo de marfim
+揦 | TRADUÇÃO: variante antiga de 攋
+揦子 | TRADUÇÃO: (dialeto) garrafa de vidro
+揩 | TRADUÇÃO: limpar
+揩拭 | TRADUÇÃO: limpar; esfregar
+揩擦 | TRADUÇÃO: limpar
+揩油 | TRADUÇÃO: aproveitar-se secretamente dos outros ou de recursos públicos para pequenos ganhos pessoais/apalpar uma mulher ou garota
+揪 | TRADUÇÃO: agarrar/apertar/segurar firmemente e puxar
+揪住 | TRADUÇÃO: agarrar
+揪出 | TRADUÇÃO: descobrir/desmascarar (o culpado)
+揪心 | TRADUÇÃO: lit. apertar o coração/preocupado/ansioso
+揪心扒肝 | TRADUÇÃO: (expressão idiomática) extremamente ansioso/aflito
+揪心揪肺 | TRADUÇÃO: de partir o coração
+揪揪 | TRADUÇÃO: amassado; enrugado/deprimido; preocupado; chateado
+揪痧 | TRADUÇÃO: remédio popular que envolve beliscar repetidamente o pescoço, garganta, costas etc. para aumentar o fluxo sanguíneo na área e aliviar a inflamação
+揪辫子 | TRADUÇÃO: agarrar alguém pela trança (i.e., cabelo)/agarrar-se a pontos fracos/explorar as deficiências do oponente
+揪送 | TRADUÇÃO: agarrar e enviar (ao tribunal, para enfrentar punição)
+揪斗 | TRADUÇÃO: agarrar e submeter a críticas públicas (forma de perseguição durante a Revolução Cultural)
+揫 | TRADUÇÃO: reunir/coletar
+揭 | TRADUÇÃO: sobrenome Jie/tirar a tampa/expor/desmascarar
+揭不开锅 | TRADUÇÃO: não ter condições de comprar comida
+揭密 | TRADUÇÃO: variante de 揭秘
+揭幕 | TRADUÇÃO: abertura/revelação
+揭幕式 | TRADUÇÃO: cerimônia de abertura/revelação
+揭幕战 | TRADUÇÃO: (esportes) jogo de abertura; partida de estreia
+揭底 | TRADUÇÃO: revelar a história interna/expor os segredos de alguém
+揭批 | TRADUÇÃO: expor e criticar
+揭晓 | TRADUÇÃO: anunciar publicamente/publicar/tornar conhecido/revelar
+揭东 | TRADUÇÃO: ver 揭東區|揭东区
+揭东区 | TRADUÇÃO: Jiedong, um distrito da cidade de Jieyang 揭陽市|揭阳市, Guangdong
+揭橥 | TRADUÇÃO: divulgar/anunciar
+揭牌 | TRADUÇÃO: descerrar a placa para (uma escola, loja, estádio etc.); inaugurar; abrir oficialmente
+揭发 | TRADUÇÃO: expor/trazer à luz/revelar/revelação
+揭短 | TRADUÇÃO: expor as falhas ou defeitos de alguém
+揭破 | TRADUÇÃO: descobrir
+揭示 | TRADUÇÃO: revelar; elucidar; expor; articular/anunciar publicamente; promulgar
+揭秘 | TRADUÇÃO: revelar um segredo
+揭穿 | TRADUÇÃO: expor/descobrir
+揭举 | TRADUÇÃO: levantar/(fig.) colocar em exibição/expôr/expor
+揭西 | TRADUÇÃO: ver 揭西縣|揭西县
+揭西县 | TRADUÇÃO: Jiexi, um condado na cidade de Jieyang 揭陽市|揭阳市, Guangdong
+揭谛 | TRADUÇÃO: revelador (deus protetor)
+揭载 | TRADUÇÃO: publicar
+揭开 | TRADUÇÃO: descobrir/abrir
+揭阳 | TRADUÇÃO: ver 揭陽市|揭阳市
+揭阳市 | TRADUÇÃO: Jieyang, cidade de nível de prefeitura na província de Guangdong 廣東省|广东省
+揭露 | TRADUÇÃO: expor/desmascarar/descobrir/revelar/divulgação
+揭黑 | TRADUÇÃO: descobrir (erros, corrupção etc.)/denúncia
+挥 | TRADUÇÃO: acenar/brandir/comandar/conduzir/espalhar/dispersar
+挥之不去 | TRADUÇÃO: impossível de se livrar
+挥别 | TRADUÇÃO: acenar adeus/(fig.) dizer adeus a/despedir-se de
+挥动 | TRADUÇÃO: agitar algo/brandir
+挥师 | TRADUÇÃO: no comando do exército
+挥戈 | TRADUÇÃO: brandir uma lança
+挥手 | TRADUÇÃO: acenar (a mão)
+挥斥 | TRADUÇÃO: repreender/ralhar/enérgico
+挥斥方遒 | TRADUÇÃO: cheio de vigor
+挥杆 | TRADUÇÃO: tacada (golfe)
+挥毫 | TRADUÇÃO: escrever ou desenhar com pincel/colocar a caneta no papel/escrever
+挥毫洒墨 | TRADUÇÃO: empunhar um pincel de escrever (expressão idiomática)
+挥汗 | TRADUÇÃO: suar profusamente
+挥汗如雨 | TRADUÇÃO: escorrendo suor/suor escorria (dele)
+挥汗成雨 | TRADUÇÃO: escorrendo suor/suor escorria (dele)
+挥泪 | TRADUÇÃO: derramar lágrimas/estar todo em lágrimas
+挥洒 | TRADUÇÃO: borrifar/derramar (lágrimas, sangue etc.)/fig. livre, desinibido/escrever de forma livre
+挥洒自如 | TRADUÇÃO: (expressão idiomática) fazer (algo) com grande desenvoltura
+挥发 | TRADUÇÃO: volatilizar/vaporizar/evaporar (especialmente em temperaturas comuns)/(em palavras compostas) volátil
+挥发性 | TRADUÇÃO: volatilidade/volátil
+挥发性存储器 | TRADUÇÃO: memória volátil
+挥发油 | TRADUÇÃO: óleo volátil (em geral)/gasolina
+挥翰 | TRADUÇÃO: (literário) empunhar um pincel de escrever
+挥舞 | TRADUÇÃO: brandir/agitar algo
+挥金如土 | TRADUÇÃO: lit. esbanjar dinheiro como terra (expressão idiomática)/fig. gastar dinheiro como água/extravagante
+挥霍 | TRADUÇÃO: esbanjar dinheiro/extravagante/pródigo/livre e desembaraçado/ágil
+挥霍无度 | TRADUÇÃO: (expressão idiomática) esbanjar imprudentemente; gastar extravagantemente
+挥麈 | TRADUÇÃO: brandir
+揰 | TRADUÇÃO: cutucar/socar/empurrar para dentro
+揲 | TRADUÇÃO: separar os talos divinatórios
+揳 | TRADUÇÃO: martelar (um prego)/cravar (uma cunha)
+援 | TRADUÇÃO: ajudar/socorrer/auxiliar
+援交 | TRADUÇÃO: abrev. de 援助交際|援助交际
+援交妹 | TRADUÇÃO: prostituta (gíria)/ver também 援助交際|援助交际
+援交小姐 | TRADUÇÃO: garota que pratica enjo-kōsai/ver também 援助交際|援助交际
+援兵 | TRADUÇÃO: (militar) reforços
+援助 | TRADUÇÃO: ajudar/apoiar/socorrer/ajuda/assistência
+援助之手 | TRADUÇÃO: uma mão amiga
+援助交际 | TRADUÇÃO: Enjo-kōsai ou "encontro compensado", uma prática originada no Japão onde homens mais velhos dão dinheiro ou presentes de luxo a mulheres por sua companhia e favores sexuais
+援助机构 | TRADUÇÃO: agência de socorro; serviço de emergência; organização de resgate
+援引 | TRADUÇÃO: citar; referir-se a/recomendar (um amigo, um associado etc.)
+援手 | TRADUÇÃO: assistência; uma mão amiga/dar uma mão
+援救 | TRADUÇÃO: vir em auxílio de/salvar/resgatar do perigo/socorrer
+援用 | TRADUÇÃO: citar/referir-se a
+援藏 | TRADUÇÃO: pró-Tibete/apoiar o Tibete/apoiar a independência tibetana
+援军 | TRADUÇÃO: (militar) reforços
+揵 | TRADUÇÃO: carregar
+揶 | TRADUÇÃO: gesticular/fazer palhaçadas
+揶揄 | TRADUÇÃO: zombar/ridicularizar
+揸 | TRADUÇÃO: esticar os dedos
+背 | TRADUÇÃO: variante de 背/carregar nas costas/(fig.) carregar; arcar (com um fardo, culpa etc)/costas; dorso (do corpo ou de um objeto)/dar as costas/esconder algo de alguém/decorar/recitar de memória/(gíria) azarado/duro de ouvido
+背债 | TRADUÇÃO: estar endividado/estar atolado em dívidas
+揻 | TRADUÇÃO: (dialeto) curvar (um objeto longo e fino)
+构 | TRADUÇÃO: variante de 構|构/(Taiwan) (coloq.) variante de 夠|够/alcançar esticando/construir/formar/constituir/compor/composição literária/amoreira-de-papel (Broussonetia papyrifera)
+揿 | TRADUÇÃO: variante de 撳|揿/pressionar (com a mão ou o dedo)
+搉 | TRADUÇÃO: consultar/bater/golpear
+搊 | TRADUÇÃO: dedilhar (instrumento de cordas)
+搋 | TRADUÇÃO: amassar/esfregar/desentupir um ralo com um desentupidor/esconder algo no peito/carregar algo sob o casaco
+搋子 | TRADUÇÃO: desentupidor (para ralos)
+搋面 | TRADUÇÃO: amassar massa (de pão)
+搌 | TRADUÇÃO: absorver (líquido)/dar batidinhas
+损 | TRADUÇÃO: (forma presa) diminuir; reduzir/(forma presa) prejudicar; danificar/(coloq.) zombar; ridicularizar/(coloq.) mesquinho; mau; sarcástico
+损人 | TRADUÇÃO: prejudicar os outros/zombar das pessoas/insultar/humilhante
+损人不利己 | TRADUÇÃO: prejudicar os outros sem beneficiar a si mesmo (expressão idiomática)
+损人利己 | TRADUÇÃO: prejudicar os outros para benefício próprio (expressão idiomática)
+损伤 | TRADUÇÃO: prejudicar/danificar/lesionar/comprometimento/perda/incapacidade
+损公肥私 | TRADUÇÃO: prejudicar o interesse público para obter lucro pessoal (expressão idiomática); lucro pessoal às custas do público/comportamento venal e egoísta
+损友 | TRADUÇÃO: mau amigo
+损坏 | TRADUÇÃO: danificar/lesionar
+损失 | TRADUÇÃO: perda/dano/CL:個|个/perder/sofrer dano
+损害 | TRADUÇÃO: dano/prejudicar/comprometer
+损毁 | TRADUÇÃO: danificar; destruir; arruinar
+损益 | TRADUÇÃO: lucros e perdas/aumento e diminuição
+损益表 | TRADUÇÃO: demonstração de resultados (EUA)/conta de lucros e perdas (Reino Unido)
+损耗 | TRADUÇÃO: perda; esgotamento; desperdício; desgaste/sofrer perda; desperdiçar; consumir (energia etc)/(em engenharia) perda (de energia, intensidade de sinal etc)
+损耗品 | TRADUÇÃO: consumíveis
+损赠 | TRADUÇÃO: doar/doação
+搎 | TRADUÇÃO: esfregar com a mão/alisar
+搏 | TRADUÇÃO: lutar/combater/agarrar/(do coração) bater
+搏动 | TRADUÇÃO: bater ritmicamente/pulsar/palpitare
+搏命 | TRADUÇÃO: lutar com todas as forças
+搏感情 | TRADUÇÃO: (Taiwan) construir uma relação de confiança; cultivar um relacionamento afetuoso (do taiwanês 跋感情, pr. em Tai-lo [pua̍h-kám-tsîng])
+搏战 | TRADUÇÃO: lutar/combater/travar guerra
+搏击 | TRADUÇÃO: lutar, especialmente com as mãos/ luta livre (como esporte)/lutar/ (fig.) lutar (contra o destino, um problema etc)/capturar a presa
+搏杀 | TRADUÇÃO: lutar e matar; travar combate feroz (também usado figuradamente para jogadores de xadrez adversários)
+搏髀 | TRADUÇÃO: marcar o ritmo batendo nas próprias coxas
+搏斗 | TRADUÇÃO: lutar (corpo a corpo); combater; debater-se
+搏鱼 | TRADUÇÃO: peixe-de-briga (gênero Betta)
+搐 | TRADUÇÃO: contrair-se; ter um espasmo
+搒 | TRADUÇÃO: (literário) remar (um barco)/(literário) açoitar; flagelar
+搓 | TRADUÇÃO: esfregar ou rolar entre as mãos ou dedos/torcer
+搓揉 | TRADUÇÃO: amassar; esfregar
+搓板 | TRADUÇÃO: tábua de lavar roupa/(gíria) peito chato (mulher)
+搓洗 | TRADUÇÃO: esfregar para limpar (roupas)/esfregar
+搓衣板 | TRADUÇÃO: tábua de lavar roupa
+搓麻将 | TRADUÇÃO: jogar mahjong
+搔 | TRADUÇÃO: coçar/variante antiga de 騷|骚
+搔扰 | TRADUÇÃO: perturbar/assediar
+搔痒 | TRADUÇÃO: coçar (uma coceira)/fazer cócegas
+搔头弄姿 | TRADUÇÃO: ver 搔首弄姿
+搔首弄姿 | TRADUÇÃO: (expressão idiomática) fazer pose coquete
+搕 | TRADUÇÃO: golpear/pegar na mão
+摇 | TRADUÇÃO: sobrenome Yao/balançar/balouçar/remar/acionar com manivela
+摇人 | TRADUÇÃO: chamar pessoas; reunir pessoas
+摇光 | TRADUÇÃO: Alkaid; Eta Ursae Majoris na Ursa Maior
+摇动 | TRADUÇÃO: balançar/oscilar
+摇匀 | TRADUÇÃO: misturar sacudindo
+摇尾乞怜 | TRADUÇÃO: lit. comportar-se como um cachorro abanando o rabo, buscando o afeto do dono (expressão idiomática)/fig. bajular alguém/arrastar-se/rastejar
+摇战 | TRADUÇÃO: (literário) tremer de medo
+摇手 | TRADUÇÃO: acenar com a mão (para se despedir ou em gesto negativo)/manivela
+摇摇摆摆 | TRADUÇÃO: gingando/ cambaleando/balançando (como um pato)
+摇摇欲坠 | TRADUÇÃO: cambaleante/prestes a desmoronar
+摇摇车 | TRADUÇÃO: carrinho de criança com movimento de balanço
+摇撼 | TRADUÇÃO: sacudir/balançar
+摇摆 | TRADUÇÃO: balançar/oscilar/vacilar
+摇摆不定 | TRADUÇÃO: indeciso/vacilante
+摇摆州 | TRADUÇÃO: estado-pêndulo (política dos EUA)
+摇摆乐 | TRADUÇÃO: swing (gênero de jazz)
+摇摆舞 | TRADUÇÃO: swing (dança)
+摇旗呐喊 | TRADUÇÃO: agitar bandeiras e gritar gritos de guerra (expressão idiomática); incitar alguém/dar apoio a
+摇晃 | TRADUÇÃO: balançar; sacudir; oscilar
+摇曳 | TRADUÇÃO: balançar suavemente (como ao vento); (de uma chama) tremular
+摇曳多姿 | TRADUÇÃO: balançando suavemente/movendo-se com elegância
+摇杆 | TRADUÇÃO: joystick
+摇椅 | TRADUÇÃO: cadeira de balanço
+摇橹 | TRADUÇÃO: remar com um remo (geralmente montado na popa do barco)
+摇橹船 | TRADUÇÃO: barco impulsionado por um yuloh (um único remo de escota)
+摇滚 | TRADUÇÃO: rock 'n' roll (música)/balançar/cair
+摇滚乐 | TRADUÇÃO: rock (música)/rock 'n' roll
+摇奖 | TRADUÇÃO: sortear o bilhete vencedor (numa loteria)
+摇笔杆 | TRADUÇÃO: escrever para viver
+摇篮 | TRADUÇÃO: berço (para bebê)/(fig.) berço; berço (de uma civilização, movimento etc)
+摇篮曲 | TRADUÇÃO: canção de ninar
+摇粒绒 | TRADUÇÃO: (têxteis) fleece polar
+摇臂 | TRADUÇÃO: balancim
+摇船 | TRADUÇÃO: remar/impulsionar um barco a remo
+摇号 | TRADUÇÃO: sorteio (por número)
+摇身 | TRADUÇÃO: lit. sacudir o corpo/refere-se a uma transformação abrupta/mesmo que 搖身一變|摇身一变
+摇身一变 | TRADUÇÃO: mudar de forma num único sacudir/fig. ganhar uma nova vida
+摇醒 | TRADUÇÃO: sacudir (alguém) para acordar
+摇钱树 | TRADUÇÃO: árvore lendária que derrama moedas quando sacudida/(fig.) fonte de dinheiro fácil
+摇电话 | TRADUÇÃO: (antigo) fazer um telefonema
+摇头 | TRADUÇÃO: balançar a cabeça (negativamente)
+摇头丸 | TRADUÇÃO: Ecstasy/MDMA
+摇头摆尾 | TRADUÇÃO: balançar a cabeça e abanar o rabo (expressão idiomática)/estar muito satisfeito consigo mesmo/ter um ar leve e despreocupado
+捣 | TRADUÇÃO: socar/bater/descascar (grãos)/atacar/perturbar/mexer
+捣乱 | TRADUÇÃO: perturbar/procurar encrenca/arrumar confusão/incomodar alguém de propósito
+捣实 | TRADUÇÃO: compactar (terra)/socar terra para compactar
+捣弄 | TRADUÇÃO: mover para frente e para trás/negociar
+捣毁 | TRADUÇÃO: destruir/esmagar/sabotagem
+捣烂 | TRADUÇÃO: amassar/esmagar até ficar uma polpa
+捣碎 | TRADUÇÃO: triturar/amassar
+捣蛋 | TRADUÇÃO: causar problemas/criar confusão
+捣蛋鬼 | TRADUÇÃO: encrenqueiro
+捣衣 | TRADUÇÃO: lavar roupa batendo
+捣卖 | TRADUÇÃO: revender com lucro
+捣腾 | TRADUÇÃO: comprar e vender/venda ambulante/virar algo repetidamente
+捣鬼 | TRADUÇÃO: fazer travessuras; causar problemas
+捣鼓 | TRADUÇÃO: mexer em algo/negociar com algo
+搘 | TRADUÇÃO: escorar
+搛 | TRADUÇÃO: pegar com pauzinhos
+搜 | TRADUÇÃO: buscar/variante de 蒐|搜/(forma presa) coletar; reunir
+搜刮 | TRADUÇÃO: surrupiar (dinheiro); saquear; explorar as pessoas até o osso
+搜寻 | TRADUÇÃO: procurar; buscar
+搜寻引擎 | TRADUÇÃO: (Taiwan, Hong Kong) motor de busca
+搜括 | TRADUÇÃO: ver 搜刮
+搜捕 | TRADUÇÃO: caçar e prender (foragidos)/localizar e prender/captura
+搜救 | TRADUÇÃO: busca e salvamento
+搜救犬 | TRADUÇÃO: cão de busca e salvamento
+搜查 | TRADUÇÃO: revistar
+搜查令 | TRADUÇÃO: mandado de busca
+搜检 | TRADUÇÃO: vasculhar/verificar
+搜求 | TRADUÇÃO: buscar/procurar
+搜狐 | TRADUÇÃO: Sohu, empresa chinesa de portal web e mídia online
+搜狐网 | TRADUÇÃO: Sohu, empresa chinesa de portal web e mídia online
+搜狗 | TRADUÇÃO: Sogou, empresa chinesa de tecnologia conhecida por seu motor de busca e editor de método de entrada
+搜获 | TRADUÇÃO: encontrar/apanhar (após busca)/descobrir (provas)
+搜神记 | TRADUÇÃO: Em Busca do Sobrenatural, compilação de lendas sobre espíritos, fantasmas e outros fenômenos sobrenaturais, escrita e compilada por 干寶|干宝 na dinastia Jin
+搜索 | TRADUÇÃO: pesquisar (um lugar, uma base de dados, online etc); procurar (algo)
+搜索引擎 | TRADUÇÃO: motor de busca
+搜索枯肠 | TRADUÇÃO: quebrar a cabeça (para encontrar palavras adequadas etc) (expressão idiomática)
+搜索树 | TRADUÇÃO: (informática) árvore de busca
+搜索票 | TRADUÇÃO: mandado de busca (Taiwan)
+搜索队 | TRADUÇÃO: equipe de busca
+搜罗 | TRADUÇÃO: reunir/coletar/juntar
+搜肠刮肚 | TRADUÇÃO: revirar as tripas e a barriga (expressão idiomática); quebrar a cabeça para encontrar uma solução
+搜身 | TRADUÇÃO: fazer revista corporal/revistar
+搞 | TRADUÇÃO: fazer/realizar/dedicar-se a/montar/obter/cuidar de
+搞不好 | TRADUÇÃO: (coloq.) talvez/quiçá
+搞不懂 | TRADUÇÃO: incapaz de entender (algo)
+搞乱 | TRADUÇÃO: bagunçar/gerir mal/fazer errado/confundir/embrulhar
+搞基 | TRADUÇÃO: (gíria) praticar atos homossexuais masculinos
+搞好 | TRADUÇÃO: fazer bem/fazer um bom trabalho
+搞定 | TRADUÇÃO: resolver/acertar/ajeitar
+搞怪 | TRADUÇÃO: fazer algo esquisito/esquisito/comportamento esquisito
+搞毛 | TRADUÇÃO: (dialetal) o que você está fazendo?/que diabos?
+搞活 | TRADUÇÃO: animar/revigorar/revitalizar
+搞混 | TRADUÇÃO: confundir/embrulhar/misturar
+搞乌龙 | TRADUÇÃO: estragar algo
+搞砸 | TRADUÇÃO: estragar (algo)/fazer besteira/arruinar
+搞笑 | TRADUÇÃO: fazer as pessoas rirem/engraçado/hilário
+搞笑片 | TRADUÇÃO: filme de comédia/comédia/CL:部
+搞花样 | TRADUÇÃO: fazer artimanhas/trapacear/enganar
+搞花样儿 | TRADUÇÃO: variante erhua de 搞花樣|搞花样
+搞通 | TRADUÇÃO: dar sentido a algo
+搞钱 | TRADUÇÃO: ganhar dinheiro
+搞错 | TRADUÇÃO: erro/cometer um erro/errar/equivocado
+搞头 | TRADUÇÃO: (coloq.) probabilidade de valer a pena/cf. 有搞頭|有搞头 e 沒搞頭|没搞头
+搞鬼 | TRADUÇÃO: fazer travessuras/ fazer artimanhas
+搠 | TRADUÇÃO: lambuzar/empurrar
+搡 | TRADUÇÃO: empurrar com força/empurrão
+搢 | TRADUÇÃO: sacudir/enfiar/golpear
+搣 | TRADUÇÃO: (literário) puxar para fora; remover/(literário) massagear
+搦 | TRADUÇÃO: (literário) segurar (na mão)/desafiar/provocar
+搦战 | TRADUÇÃO: desafiar para a batalha
+搧 | TRADUÇÃO: variante de 扇
+搨 | TRADUÇÃO: fazer um esfregaço
+搪 | TRADUÇÃO: impedir/segurar/defender/evitar/espalhar/revestir/passar/untar
+搪塞 | TRADUÇÃO: enrolar/enganar/rodear/esquivar-se
+搪瓷 | TRADUÇÃO: esmalte
+搪突 | TRADUÇÃO: variante de 唐突
+搬 | TRADUÇÃO: mudar-se/mover (algo relativamente pesado ou volumoso)/deslocar/copiar indiscriminadamente
+搬兵 | TRADUÇÃO: pedir reforços/trazer tropas
+搬出去 | TRADUÇÃO: mudar-se (desocupar)/retirar algo
+搬动 | TRADUÇÃO: mover (algo)/mudar de casa
+搬口 | TRADUÇÃO: passar fofocas (expressão idiomática); semear discórdia/falar demais/contar histórias
+搬唆 | TRADUÇÃO: causar problemas
+搬唇递舌 | TRADUÇÃO: passar fofocas (expressão idiomática); semear discórdia/falar demais/contar histórias
+搬场 | TRADUÇÃO: mudar de casa/mudar-se/mudança
+搬家 | TRADUÇÃO: mudar de casa; mudar-se/retirar (algo)
+搬弄 | TRADUÇÃO: mexer em/brincar e mover algo/exibir (o que se sabe)/ostentar (as próprias capacidades)/causar problemas
+搬弄是非 | TRADUÇÃO: instigar uma briga (expressão idiomática); semear discórdia entre pessoas/contar fofocas/fazer intrigas
+搬指 | TRADUÇÃO: variante de 扳指
+搬楦头 | TRADUÇÃO: lit. mover os sapatos na forma de sapato (expressão idiomática)/fig. expor segredos vergonhosos (antigo)
+搬用 | TRADUÇÃO: aplicar mecanicamente/copiar e usar
+搬石头砸自己的脚 | TRADUÇÃO: mover uma pedra e tropeçar no dedão do pé/atirar no próprio pé (expressão idiomática)
+搬砖 | TRADUÇÃO: fazer trabalho braçal pesado (como emprego)/(fig.) jogar mahjong
+搬砖砸脚 | TRADUÇÃO: machucar-se por ação própria/sair pela culatra/atirar no próprio pé (expressão idiomática)
+搬移 | TRADUÇÃO: mudar de casa/mudar-se/mudanças
+搬请 | TRADUÇÃO: solicitar/convocar
+搬走 | TRADUÇÃO: carregar
+搬起石头砸自己的脚 | TRADUÇÃO: esmagar o próprio pé ao tentar manobrar uma pedra (até a beira de um penhasco, para deixá-la cair sobre o inimigo) (expressão idiomática)/vítima do próprio ardil
+搬运 | TRADUÇÃO: transportar; carregar/(coloq.) republicar (conteúdo, esp. de outra plataforma)
+搬运工 | TRADUÇÃO: carregador
+搬迁 | TRADUÇÃO: mudar/realocar/mudança
+搬迁户 | TRADUÇÃO: pessoa ou domicílio que precisa ser realocado (para dar lugar a um projeto de construção etc)
+搬铺 | TRADUÇÃO: arrumar (para o moribundo)
+搭 | TRADUÇÃO: armar/construir (andaime)/pendurar (roupas numa vara)/conectar/unir/arranjar em pares/igualar/adicionar/incluir (recursos)/pegar (barco, trem)/variante de 褡
+搭乘 | TRADUÇÃO: viajar como passageiro/ viajar de (carro, avião etc)
+搭伙 | TRADUÇÃO: juntar-se a alguém/ tornar-se parceiro/ fazer refeições regularmente em refeitório
+搭伴 | TRADUÇÃO: viajar com outra pessoa/acompanhar outra pessoa
+搭便 | TRADUÇÃO: na conveniência de alguém/de passagem
+搭便车 | TRADUÇÃO: pegar carona
+搭咕 | TRADUÇÃO: conectar/discutir
+搭售 | TRADUÇÃO: vender um item apenas como parte de um pacote (forçando assim os consumidores a comprar bens que não desejam); vender em base vinculada
+搭嘴 | TRADUÇÃO: responder
+搭坐 | TRADUÇÃO: viajar de/andar em
+搭子 | TRADUÇÃO: (coloq.) companheiro
+搭客 | TRADUÇÃO: pegar passageiros/passageiro
+搭帮 | TRADUÇÃO: viajar juntos/graças a
+搭建 | TRADUÇÃO: construir (esp. com materiais simples)/montar rapidamente (um abrigo temporário)/improvisar
+搭扣 | TRADUÇÃO: um fecho ou prendedor para roupas que não usa botão e casa de botão (ex.: o fecho em relógios de pulso de metal)
+搭把手 | TRADUÇÃO: ajudar
+搭把手儿 | TRADUÇÃO: variante com sufixo er de 搭把手
+搭拉 | TRADUÇÃO: variante de 耷拉
+搭接 | TRADUÇÃO: juntar/conectar
+搭接片 | TRADUÇÃO: fecho/conector/emenda sobreposta
+搭挡 | TRADUÇÃO: variante de 搭檔|搭档
+搭救 | TRADUÇÃO: resgatar
+搭架子 | TRADUÇÃO: montar andaimes/construir uma estrutura/lançar um empreendimento
+搭桌 | TRADUÇÃO: apresentação beneficente (teatro em tempos antigos)
+搭档 | TRADUÇÃO: cooperar/parceiro
+搭理 | TRADUÇÃO: variante de 答理
+搭界 | TRADUÇÃO: uma interface/relacionar-se com/afiliar-se
+搭当 | TRADUÇÃO: variante de 搭檔|搭档
+搭白 | TRADUÇÃO: responder
+搭缝 | TRADUÇÃO: costura sobreposta
+搭肩 | TRADUÇÃO: ajudar a levantar alguém sobre os ombros/ficar sobre o ombro de alguém
+搭背 | TRADUÇÃO: almofada de arreio (em animal de carga)
+搭腔 | TRADUÇÃO: responder/responder/conversar
+搭腰 | TRADUÇÃO: almofada de arreio (em animal de carga)
+搭膊 | TRADUÇÃO: bolsa de ombro
+搭茬 | TRADUÇÃO: responder ao que alguém acabou de dizer
+搭茬儿 | TRADUÇÃO: forma com sufixo er de 搭茬
+搭盖 | TRADUÇÃO: construir (esp. com materiais simples)/montar rapidamente (um abrigo temporário)/improvisar
+搭街坊 | TRADUÇÃO: tornar-se vizinhos
+搭补 | TRADUÇÃO: subsidiar/compensar (déficit)
+搭裢 | TRADUÇÃO: variante de 褡褳|褡裢
+搭讪 | TRADUÇÃO: dar em cima de alguém/iniciar uma conversa/começar a falar para acabar com um silêncio constrangedor ou situação embaraçosa
+搭话 | TRADUÇÃO: falar/entrar em conversa com/enviar recado
+搭调 | TRADUÇÃO: combinar/em harmonia/razoável
+搭赸 | TRADUÇÃO: variante de 搭訕|搭讪
+搭车 | TRADUÇÃO: andar (em um veículo)/pegar uma carona/caroneiro
+搭载 | TRADUÇÃO: (de um veículo) transportar (um passageiro ou carga útil)/(de um dispositivo ou sistema) ser equipado com (um componente de hardware ou software)
+搭连 | TRADUÇÃO: fazer uma ponte/(linguística) coligação/variante de 褡褳|褡裢
+搭配 | TRADUÇÃO: combinar/coincidir/arranjar em pares/adicionar algo a um grupo
+搭钩 | TRADUÇÃO: um gancho/estabelecer contato com alguém
+搭铁 | TRADUÇÃO: abreviatura de 搭鐵接線|搭铁接线/aterramento do chassi (i.e., usar o chassi como terra, para servir como caminho de retorno para corrente em um circuito elétrico)
+搰 | TRADUÇÃO: cavar/misturar
+搲 | TRADUÇÃO: agarrar/pegar/capturar/rastejar/escalar/colher com concha/puxar/arrastar
+搳 | TRADUÇÃO: usado em 搳拳
+搳拳 | TRADUÇÃO: variante de 划拳
+搴 | TRADUÇÃO: agarrar/puxar/levantar a bainha das roupas
+搴旗 | TRADUÇÃO: puxar e capturar a bandeira do inimigo
+揾 | TRADUÇÃO: procurar (cantonês)/equivalente em mandarim: 找/(literário) enxugar (lágrimas)/pressionar com os dedos/ensopar
+揾钱 | TRADUÇÃO: (dialetal) ganhar dinheiro
+揾食 | TRADUÇÃO: ganhar a vida (cantonês)/equivalente em mandarim: 謀生|谋生
+抢 | TRADUÇÃO: (literário) bater contra (esp. bater a cabeça no chão em luto ou raiva)/direção oposta; contrário/disputar/apressar-se/atropelar-se/agarrar/roubar/arrebatar
+抢占 | TRADUÇÃO: tomar (a posição estratégica elevada)
+抢修 | TRADUÇÃO: consertar às pressas/reparos de emergência
+抢先 | TRADUÇÃO: apressar-se (para fazer algo urgente)/tentar ser o primeiro/prevenir
+抢功 | TRADUÇÃO: tomar crédito pelas conquistas de outra pessoa
+抢劫 | TRADUÇÃO: roubar/saque
+抢劫案 | TRADUÇÃO: roubo/assalto
+抢劫罪 | TRADUÇÃO: crime de roubo
+抢夺 | TRADUÇÃO: saquear/pilhar/tomar à força
+抢婚 | TRADUÇÃO: casamento por captura/sequestro de noiva
+抢手 | TRADUÇÃO: (de bens) popular/muita procura
+抢手货 | TRADUÇÃO: um sucesso de vendas/um bem muito procurado
+抢掠 | TRADUÇÃO: saquear/saque
+抢救 | TRADUÇÃO: resgatar
+抢断 | TRADUÇÃO: (basquete) roubar (a bola)/(futebol) desarmar um oponente (com uma entrada ou interceptando um passe)
+抢滩 | TRADUÇÃO: fazer um ataque anfíbio/tomar uma cabeça de praia/estabelecer uma posição em (um novo mercado)
+抢生意 | TRADUÇÃO: prejudicar concorrentes com preços mais baixos/apressar-se/competir por negócios
+抢白 | TRADUÇÃO: repreender; censurar
+抢眼 | TRADUÇÃO: chamativo; que chama a atenção
+抢票 | TRADUÇÃO: disputar por ingressos
+抢答 | TRADUÇÃO: competir para ser o primeiro a responder uma pergunta (como em um programa de perguntas e respostas)
+抢答器 | TRADUÇÃO: sistema de campainha de bloqueio (usado por participantes de programas de perguntas e respostas)
+抢亲 | TRADUÇÃO: casamento por captura/sequestro de noiva
+抢注 | TRADUÇÃO: registrar (um nome de domínio, marca registrada etc.) de má-fé
+抢购 | TRADUÇÃO: comprar freneticamente/disputar por (pechinchas, suprimentos minguantes etc.)
+抢走 | TRADUÇÃO: arrebatar (esp. relacionado a um roubo)
+抢跑 | TRADUÇÃO: queimar a largada/fazer uma partida falsa
+抢通 | TRADUÇÃO: enviar às pressas (ex.: suprimentos de emergência)
+抢镜头 | TRADUÇÃO: conseguir as melhores fotos/roubar a cena
+抢险 | TRADUÇÃO: medidas de emergência/reagir a uma emergência
+抢险救灾 | TRADUÇÃO: fornecer ajuda durante tempos de emergência e desastre (expressão idiomática)
+抢风 | TRADUÇÃO: contra o vento de proa
+抢风航行 | TRADUÇÃO: bordejar contra o vento (vela)
+抢风头 | TRADUÇÃO: roubar a cena/roubar os holofotes
+搷 | TRADUÇÃO: bater/peneirar
+搽 | TRADUÇÃO: aplicar (pomada, pó)/passar/pintar
+榨 | TRADUÇÃO: variante de 榨/prensar/extrair (suco)/prensar/extrair (suco)/dispositivo para extrair suco, óleos etc.
+搿 | TRADUÇÃO: abraçar
+摀 | TRADUÇÃO: variante de 捂/cobrir
+摁 | TRADUÇÃO: pressionar (com o dedo ou a mão)
+摁扣儿 | TRADUÇÃO: botão de pressão; fecho de pressão
+摁钉儿 | TRADUÇÃO: tachinha
+摎 | TRADUÇÃO: estrangular/investigar
+摏 | TRADUÇÃO: variante de 舂
+掴 | TRADUÇÃO: esbofetear/também pron. [guo2]
+摒 | TRADUÇÃO: descartar/livrar-se de
+摒挡 | TRADUÇÃO: (literário) pôr em ordem; arranjar/culinária
+摒弃 | TRADUÇÃO: abandonar/descartar/repudiar/renunciar
+摒除 | TRADUÇÃO: livrar-se de/descartar
+摓 | TRADUÇÃO: largo/costurar
+摔 | TRADUÇÃO: jogar abaixo/cair/derrubar e quebrar
+摔交 | TRADUÇÃO: variante de 摔跤
+摔倒 | TRADUÇÃO: cair/escorregar e cair/jogar alguém ao chão
+摔伤 | TRADUÇÃO: machucar-se numa queda
+摔坏 | TRADUÇÃO: derrubar e quebrar
+摔打 | TRADUÇÃO: bater/segurar algo na mão e batê-lo/fortalecer-se
+摔断 | TRADUÇÃO: quebrar (ex.: ossos) numa queda
+摔死 | TRADUÇÃO: cair para a morte/matar jogando ao chão
+摔破 | TRADUÇÃO: cair e quebrar-se em pedaços
+摔角 | TRADUÇÃO: lutar (luta esportiva)/luta livre
+摔跌 | TRADUÇÃO: cair
+摔跟头 | TRADUÇÃO: cair/fig. sofrer um revés
+摔跤 | TRADUÇÃO: tropeçar e cair/lutar (luta esportiva)/luta livre (esporte)
+摔门 | TRADUÇÃO: bater a porta
+摘 | TRADUÇÃO: pegar; colher (flores, frutas etc); arrancar; remover; tirar (óculos, chapéu etc)/selecionar; escolher/pedir dinheiro emprestado numa emergência
+摘下 | TRADUÇÃO: tirar; remover (o chapéu, uma porta das dobradiças etc)/colher (uma fruta de uma árvore etc)/(esportes) pegar (um rebote etc)
+摘借 | TRADUÇÃO: pedir dinheiro emprestado
+摘取 | TRADUÇÃO: arrancar/pegar
+摘帽 | TRADUÇÃO: lit. tirar o chapéu/fig. ser inocentado de uma acusação injusta/reebilitar-se
+摘帽子 | TRADUÇÃO: lit. tirar o chapéu/fig. ser inocentado de uma acusação injusta/reebilitar-se
+摘引 | TRADUÇÃO: citar
+摘抄 | TRADUÇÃO: extrair/excerto
+摘桃子 | TRADUÇÃO: colher os frutos do trabalho alheio
+摘牌 | TRADUÇÃO: tirar da lista (um título negociado)/(esportes) aceitar um jogador transferido de outro clube
+摘由 | TRADUÇÃO: pontos principais (de um documento)/resumo
+摘要 | TRADUÇÃO: resumo/abstract
+摘记 | TRADUÇÃO: tomar notas/excerto
+摘译 | TRADUÇÃO: citado (de)/tradução de passagens selecionadas
+摘金 | TRADUÇÃO: ganhar uma medalha de ouro
+摘录 | TRADUÇÃO: extrair/excerto/excerto (substantivo)
+摘除 | TRADUÇÃO: extirpar/remover um órgão
+摙 | TRADUÇÃO: transportar/remover para pegar
+摛 | TRADUÇÃO: espalhar (fama)/manejar (a pena)
+掼 | TRADUÇÃO: atirar/cair/usar (roupa)
+掼奶油 | TRADUÇÃO: creme chantilly
+掼蛋 | TRADUÇÃO: guandan (um jogo de cartas popular originário da província de Jiangsu, China)
+摞 | TRADUÇÃO: empilhar/amontoar/uma pilha/uma pilha
+摞管 | TRADUÇÃO: masturbar-se
+搂 | TRADUÇÃO: puxar para si/reunir/recolher (a batina, mangas etc)/agarrar (dinheiro)/extorquir/abraçar/abraçar/segurar nos braços
+搂住 | TRADUÇÃO: segurar nos braços/abraçar
+搂抱 | TRADUÇÃO: abraçar/abraçar
+搂钱 | TRADUÇÃO: (coloq.) agarrar dinheiro/embolsar dinheiro
+摠 | TRADUÇÃO: geral/em todos os casos/segurar
+摦 | TRADUÇÃO: largo/amplo
+摧 | TRADUÇÃO: quebrar/destruir/devastar/arrasar/reprimir
+摧残 | TRADUÇÃO: devastar/arruinar
+摧毁 | TRADUÇÃO: destruir; arrasar
+摩 | TRADUÇÃO: usado em 摩挲/esfregar
+摩亨佐·达罗 | TRADUÇÃO: Moenjo-daro, capital da civilização do Vale do Indo c. 2000 a.C., província de Sind, Paquistão, Patrimônio Mundial da UNESCO
+摩加迪休 | TRADUÇÃO: Mogadíscio, capital da Somália (Taiwan)
+摩加迪沙 | TRADUÇÃO: Mogadíscio, porto do Oceano Índico e capital da Somália
+摩卡 | TRADUÇÃO: mocha (estrangeirismo)
+摩卡咖啡 | TRADUÇÃO: café mocha
+摩城 | TRADUÇÃO: Mo i Rana (cidade em Nordland, Noruega)
+摩天 | TRADUÇÃO: que arranha-céus/elevando-se ao céu
+摩天大厦 | TRADUÇÃO: arranha-céu/CL:座
+摩天大楼 | TRADUÇÃO: arranha-céu/CL:座
+摩天楼 | TRADUÇÃO: arranha-céu/CL:座
+摩天轮 | TRADUÇÃO: roda-gigante/roda de observação
+摩娑 | TRADUÇÃO: variante de 摩挲
+摩尼 | TRADUÇÃO: Mani (profeta persa do século III d.C., fundador do maniqueísmo)
+摩尼教 | TRADUÇÃO: maniqueísmo
+摩德纳 | TRADUÇÃO: Módena, Itália
+摩托 | TRADUÇÃO: (estrangeirismo) motor/(estrangeirismo) motocicleta; moto (abreviatura de 摩托車|摩托车)
+摩托罗拉 | TRADUÇÃO: Motorola
+摩托艇 | TRADUÇÃO: lancha
+摩托车 | TRADUÇÃO: (estrangeirismo) motocicleta; moto/CL:輛|辆,部
+摩托车的士 | TRADUÇÃO: mototáxi
+摩拳擦掌 | TRADUÇÃO: fig. esfregar os punhos e limpar as palmas (expressão idiomática)/arregaçar as mangas para a batalha/ansioso para agir ou começar uma tarefa
+摩挲 | TRADUÇÃO: (coloq.) remover (rugas, sujeira) com a palma da mão/pron. Taiwan [mo2suo1]/afagar; acariciar
+摩揭陀 | TRADUÇÃO: Magadha, antigo reino indiano considerado o berço do budismo
+摩擦 | TRADUÇÃO: fricção/atrito/roçar/fig. desarmonia/conflito/também escrito 磨擦
+摩擦力 | TRADUÇÃO: força de atrito
+摩擦音 | TRADUÇÃO: fricativa (fonética)
+摩斯密码 | TRADUÇÃO: código Morse
+摩斯拉 | TRADUÇÃO: Mothra (モスラ Mosura em japonês), monstro de cinema japonês
+摩斯电码 | TRADUÇÃO: código Morse
+摩旅 | TRADUÇÃO: viajar de motocicleta
+摩根 | TRADUÇÃO: Morgan (nome)
+摩根·弗里曼 | TRADUÇÃO: Morgan Freeman, ator americano
+摩根士丹利 | TRADUÇÃO: Morgan Stanley (empresa de serviços financeiros)
+摩梭 | TRADUÇÃO: grupo étnico Mosuo de Yunnan e Sichuan
+摩梭族 | TRADUÇÃO: grupo étnico Mosuo de Yunnan e Sichuan
+摩洛哥 | TRADUÇÃO: Marrocos
+摩尔 | TRADUÇÃO: Moore ou Moor (nome)/ver também 摩爾人|摩尔人/mol (química)
+摩尔人 | TRADUÇÃO: um mouro
+摩尔多瓦 | TRADUÇÃO: Moldávia
+摩尔多瓦人 | TRADUÇÃO: moldávio (pessoa)
+摩尔定律 | TRADUÇÃO: (informática) Lei de Moore
+摩尔斯电码 | TRADUÇÃO: código Morse
+摩尔根 | TRADUÇÃO: Morgan (nome)
+摩尔门 | TRADUÇÃO: Mórmon (religião)
+摩尔门经 | TRADUÇÃO: Livro de Mórmon
+摩登 | TRADUÇÃO: moderno/na moda
+摩登原始人 | TRADUÇÃO: Os Flintstones (série de TV)
+摩的 | TRADUÇÃO: mototáxi/abreviação de 摩托車的士|摩托车的士
+摩睺罗伽 | TRADUÇÃO: Mahoraga, divindade indiana com cabeça de cobra/divindade protetora da lei budista
+摩纳哥 | TRADUÇÃO: Mônaco
+摩丝 | TRADUÇÃO: mousse (produto para modelar cabelo)
+摩羯 | TRADUÇÃO: Capricórnio (signo do zodíaco)/povo do norte nos tempos clássicos, um ramo dos hunos ou Xiongnu 匈奴
+摩羯座 | TRADUÇÃO: Capricórnio (constelação)
+摩肩接踵 | TRADUÇÃO: lit. esfregar ombros e seguir os passos de outros/multidão apinhada
+摩萨德 | TRADUÇÃO: Mossad
+摩苏尔 | TRADUÇÃO: Mossul (cidade no Iraque)
+摩蟹座 | TRADUÇÃO: Capricórnio (constelação e signo do zodíaco)/usado erroneamente para 魔羯座
+摩西 | TRADUÇÃO: Moisés
+摩西五经 | TRADUÇÃO: o Pentateuco/os cinco livros de Moisés no Antigo Testamento
+摩西律法 | TRADUÇÃO: lei de Moisés
+摩西的律法 | TRADUÇÃO: Lei Mosaica
+摩诃 | TRADUÇÃO: transliteração do sânscrito mahā, grande
+摩诃婆罗多 | TRADUÇÃO: Mahābhārata, segundo grande épico indiano depois de 羅摩衍那|罗摩衍那, possivelmente originalmente c. século IV a.C.
+摩铁 | TRADUÇÃO: (Taiwan) (estrangeirismo) motel
+摩门 | TRADUÇÃO: Mórmon (religião)
+摩门经 | TRADUÇÃO: Livro de Mórmon
+摩顶放踵 | TRADUÇÃO: esfregar a cabeça e os calcanhares (expressão idiomática); escravizar-se para beneficiar os outros/desgastar-se pelo bem geral
+摩鹿加群岛 | TRADUÇÃO: Ilhas Molucas, Indonésia
+摭 | TRADUÇÃO: pegar/selecionar
+摮 | TRADUÇÃO: (arcaico) bater; golpear; ferir
+挚 | TRADUÇÃO: sobrenome Zhi/sincero
+挚切 | TRADUÇÃO: sincero/fervoroso
+挚友 | TRADUÇÃO: amigo íntimo/amigo próximo
+挚友良朋 | TRADUÇÃO: amigo íntimo e companheiro (expressão idiomática)
+挚情 | TRADUÇÃO: sentimentos verdadeiros
+挚爱 | TRADUÇÃO: amor verdadeiro
+挚诚 | TRADUÇÃO: sincero
+摰 | TRADUÇÃO: agarrar com a mão/segurar/avançar/desmoronar
+摲 | TRADUÇÃO: cortar/ceifar
+抠 | TRADUÇÃO: cavar; cutucar; coçar (com um dedo ou algo pontiagudo)/entalhar; esculpir/estudar minuciosamente/avarento; mesquinho/levantar (especialmente a bainha de um manto)
+抠图 | TRADUÇÃO: (processamento de imagem) extrair um objeto de primeiro plano do seu fundo; matting de imagem
+抠字眼 | TRADUÇÃO: ser exigente com fraseado, dicção ou escolha de palavras
+抠字眼儿 | TRADUÇÃO: variante erhua de 摳字眼|抠字眼
+抠搜 | TRADUÇÃO: (coloq.) avarento; mesquinho
+抠抠搜搜 | TRADUÇÃO: ver 摳搜|抠搜
+抠脚 | TRADUÇÃO: coçar o pé/(fig.) ser mesquinho/(gíria) (de uma celebridade) não fazer nada (ou seja, não lançar nenhum material novo etc.)
+抠门 | TRADUÇÃO: (coloq.) avarento
+抠门儿 | TRADUÇÃO: forma erhua de 摳門|抠门
+摴 | TRADUÇÃO: dados/jogo de azar/soltar
+抟 | TRADUÇÃO: enrolar em uma bola com as mãos (variante de 團|团)/(literário) circular; girar
+抟沙 | TRADUÇÃO: falta de coesão e unidade de propósito
+抟风 | TRADUÇÃO: subir muito rápido
+抟饭 | TRADUÇÃO: enrolar bolinhos de arroz/bolinho de arroz
+摷 | TRADUÇÃO: bater/golpear
+摸 | TRADUÇÃO: sentir com a mão/tocar/afagar/apalpar/roubar/tirar, abstrair/variante de 摹
+摸不着 | TRADUÇÃO: não conseguir tocar; não alcançar/(fig.) incapaz de compreender
+摸不着边 | TRADUÇÃO: não conseguir entender nada
+摸不着头脑 | TRADUÇÃO: ser incapaz de entender o sentido de algo/estar perplexo
+摸八圈 | TRADUÇÃO: jogar mahjong
+摸吧 | TRADUÇÃO: bar de toque (bar com hostess que permite contato físico)
+摸底 | TRADUÇÃO: ter uma visão clara (de uma situação)/buscar informações/levantamento de fatos
+摸彩 | TRADUÇÃO: sorteio/rifa/loteria
+摸得着 | TRADUÇÃO: poder tocar/tangível
+摸排 | TRADUÇÃO: busca minuciosa
+摸清 | TRADUÇÃO: descobrir; entender; averiguar
+摸爬滚打 | TRADUÇÃO: passar por experiências desafiadoras/tornar-se experiente (na profissão etc.)
+摸牌 | TRADUÇÃO: comprar uma peça (no mahjong)/jogar mahjong
+摸石头过河 | TRADUÇÃO: lit. atravessar o rio apalpando pedras/improvisar por tentativa e erro/agir com cautela
+摸索 | TRADUÇÃO: apalpar/tatear/palpar/fazer as coisas devagar
+摸脉 | TRADUÇÃO: sentir o pulso de alguém
+摸着石头过河 | TRADUÇÃO: vadear o rio, apalpando apoios enquanto se avança (expressão idiomática)/avançar cautelosamente, passo a passo/ir tateando
+摸象 | TRADUÇÃO: tocar um elefante (de cegos proverbiais)
+摸金校尉 | TRADUÇÃO: (expressão idiomática) título militar que teria existido na dinastia Han, supostamente concedido a oficiais encarregados de recuperar ouro de túmulos para financiar campanhas militares; (na ficção popular) saqueador de tumbas
+摸鱼 | TRADUÇÃO: pescar peixes/(fig.) relaxar no trabalho; ser negligente; levar na boa
+摸黑 | TRADUÇÃO: tatear no escuro
+摹 | TRADUÇÃO: (forma presa) imitar/copiar
+摹仿 | TRADUÇÃO: variante de 模仿
+摹写 | TRADUÇÃO: decalcar/copiar (um modelo de caligrafia)/fac-símile/(fig.) descrever/retratar
+摹拟 | TRADUÇÃO: variante de 模擬|模拟
+摹画 | TRADUÇÃO: descrever
+摹声词 | TRADUÇÃO: (linguística) palavra onomatopaica
+摺 | TRADUÇÃO: documento dobrado em sanfona/dobrar
+折奏 | TRADUÇÃO: memorial ao imperador (dobrado em sanfona)
+折子 | TRADUÇÃO: caderno dobrável/livro de contas
+折尺 | TRADUÇÃO: régua dobrável
+折椅 | TRADUÇÃO: cadeira dobrável
+折纸 | TRADUÇÃO: dobrar papel (para fazer origami); origami
+摺线 | TRADUÇÃO: variante de 折線|折线, linha quebrada (figura contínua feita de segmentos de reta)/linha poligonal/perna de cachorro
+折裙 | TRADUÇÃO: saia plissada
+掺 | TRADUÇÃO: misturar; mesclar; diluir; adulterar/agarrar
+掺假 | TRADUÇÃO: misturar material falso/adulterar
+掺和 | TRADUÇÃO: misturar; juntar/interferir em; envolver-se em
+掺水 | TRADUÇÃO: diluir/aguar/aguado
+掺沙子 | TRADUÇÃO: misturar um pouco de areia (por exemplo, ao fazer concreto)/(fig.) colocar estranhos em um grupo monolítico (para infiltrar ou desestabilizá-lo etc.)
+摽 | TRADUÇÃO: (literário) afastar; descartar/amarrar firmemente/unir (braços)/andar junto com; ficar grudado (em alguém)/competir/(literário) bater; golpear
+撂 | TRADUÇÃO: pôr no chão/deixar para trás/jogar ou derrubar/abandonar ou descartar
+撂倒 | TRADUÇÃO: derrubar/ceifar
+撂地 | TRADUÇÃO: (de artistas populares) apresentar-se em uma feira no templo ou na rua etc.
+撂地摊 | TRADUÇÃO: ver 撂地
+撂挑子 | TRADUÇÃO: (coloq.) abandonar o emprego por desgosto
+撅 | TRADUÇÃO: projetar/esticar/fazer bico (também escrito 噘)/constranger (pessoas)
+撅嘴 | TRADUÇÃO: fazer bico
+撆 | TRADUÇÃO: variante de 撇
+撇 | TRADUÇÃO: jogar fora/lançar de lado/jogar/lançar/traço descendente inclinado para a esquerda (caligrafia)
+撇下 | TRADUÇÃO: abandonar
+撇去 | TRADUÇÃO: remover a espuma, desnatar
+撇嘴 | TRADUÇÃO: torcer a boca (em sinal de desprezo ou desaprovação)/contrair a boca
+撇大条 | TRADUÇÃO: (gíria) cagar
+撇掉 | TRADUÇÃO: remover a espuma ou nata da superfície de um líquido
+撇条 | TRADUÇÃO: (gíria) ir ao banheiro
+撇步 | TRADUÇÃO: (Taiwan) truque (do ofício); jogada inteligente
+撇清 | TRADUÇÃO: dizer que um assunto não tem relação com a pessoa em questão, enfatizar que se é inocente ou está livre de suspeitas
+撇号 | TRADUÇÃO: apóstrofo
+撇开 | TRADUÇÃO: ignorar; deixar de lado
+撇开不谈 | TRADUÇÃO: ignorar uma questão (expressão idiomática)
+捞 | TRADUÇÃO: pescar/dragar
+捞一把 | TRADUÇÃO: obter lucros ilícitos/obter alguma vantagem escusa
+捞什子 | TRADUÇÃO: estorvo/fardo/coisa danada (coloquial)/transtorno
+捞取 | TRADUÇÃO: dragar; retirar da água/pescar; obter (por meios impróprios)
+捞外快 | TRADUÇÃO: ganhar dinheiro extra
+捞女 | TRADUÇÃO: (gíria) interesseira; mulher que persegue homens por dinheiro
+捞本 | TRADUÇÃO: recuperar o dinheiro (especialmente em jogos de azar)/recuperar as perdas
+捞油水 | TRADUÇÃO: (coloq.) obter lucro (geralmente por meios escusos)
+捞稻草 | TRADUÇÃO: (fig.) agarrar-se a um fio de esperança (em desespero)/aproveitar-se da situação (injustamente)
+捞钱 | TRADUÇÃO: lit. dragar dinheiro/ganhar dinheiro por meios condenáveis/pescar dinheiro fácil
+撊 | TRADUÇÃO: valente/irritado
+撋 | TRADUÇÃO: esfregar entre as mãos
+挦 | TRADUÇÃO: arrancar (especialmente cabelo ou penas)/colher/arrancar/fig. extrair (linhas de um texto)
+撑 | TRADUÇÃO: apoiar/escorar/impulsionar ou mover com uma vara/manter/abrir ou desfraldar/encher até estourar/esteio/suporte/apoio
+撑伞 | TRADUÇÃO: segurar um guarda-chuva (aberto)
+撑场面 | TRADUÇÃO: manter as aparências; ostentar uma fachada
+撑拒 | TRADUÇÃO: resistir/lutar/sustentar
+撑持 | TRADUÇÃO: (fig.) sustentar/amparar
+撑杆 | TRADUÇÃO: vara/esteio
+撑杆跳 | TRADUÇÃO: salto com vara
+撑杆跳高 | TRADUÇÃO: salto com vara
+撑死 | TRADUÇÃO: cheio até estourar/(coloq.) no máximo
+撑死胆大的，饿死胆小的 | TRADUÇÃO: fartura para os ousados, fome para os tímidos (expressão idiomática)
+撑破 | TRADUÇÃO: estourar
+撑竿跳 | TRADUÇÃO: salto com vara/também escrito 撐桿跳|撑杆跳
+撑竿跳高 | TRADUÇÃO: salto com vara/também escrito 撐桿跳高|撑杆跳高
+撑腰 | TRADUÇÃO: apoiar/amparar
+撑船 | TRADUÇÃO: impulsionar uma embarcação com vara/andar de vara (em barco)
+撑门面 | TRADUÇÃO: manter as aparências/ostentar uma fachada
+撑开 | TRADUÇÃO: esticar bem/abrir (um guarda-chuva)/segurar (uma bolsa etc.) aberta/manter aberto (forçando)
+撒 | TRADUÇÃO: soltar/lançar/soltar/descarregar/expressar/(coloq.) mijar/esparramar/borrifar/derramar
+撒丁岛 | TRADUÇÃO: Sardenha
+撒丫子 | TRADUÇÃO: (dialeto) sair correndo; dar no pé; sumir
+撒但 | TRADUÇÃO: variante de 撒旦, Satanás ou Shaitã
+撒克逊 | TRADUÇÃO: Saxão (povo)
+撒克逊人 | TRADUÇÃO: Saxão (povo)
+撒切尔 | TRADUÇÃO: Thatcher (nome)/Baronesa Thatcher ou Margaret Thatcher (1925-2013), política conservadora britânica, primeira-ministra 1979-1990
+撒切尔夫人 | TRADUÇÃO: Sra. Thatcher/Baronesa Thatcher ou Margaret Thatcher (1925-2013), política conservadora britânica, primeira-ministra 1979-1990
+撒哈拉 | TRADUÇÃO: Saara
+撒哈拉人 | TRADUÇÃO: Saarauí (pessoa)
+撒哈拉以南 | TRADUÇÃO: subsaariano
+撒哈拉以南非洲 | TRADUÇÃO: África subsaariana
+撒哈拉威 | TRADUÇÃO: Saarauí
+撒哈拉沙漠 | TRADUÇÃO: Deserto do Saara
+撒呓挣 | TRADUÇÃO: (coloq.) falar dormindo; sonambular
+撒娇 | TRADUÇÃO: fazer manha/comportar-se como criança mimada/agir de forma coquete
+撒娇卖乖 | TRADUÇÃO: comportar-se de maneira bajuladora
+撒尿 | TRADUÇÃO: fazer xixi/mijar/urinar/ fazer pipi
+撒手 | TRADUÇÃO: soltar algo/desistir
+撒手不管 | TRADUÇÃO: ficar de lado e não fazer nada (expressão idiomática)/não participar
+撒手人寰 | TRADUÇÃO: deixar o corpo mortal (expressão idiomática)/morrer
+撒手锏 | TRADUÇÃO: (fig.) trunfo
+撒手闭眼 | TRADUÇÃO: não ter mais nada a ver com um assunto (expressão idiomática)
+撒拉 | TRADUÇÃO: grupo étnico Salar
+撒拉族 | TRADUÇÃO: grupo étnico Salar
+撒拉语 | TRADUÇÃO: Salar, língua do grupo étnico Salar da província de Qinghai
+撒拉铁 | TRADUÇÃO: Sealtiel (filho de Jeconias)
+撒播 | TRADUÇÃO: semear (sementes a lanço)/semeadura a lanço
+撒旦 | TRADUÇÃO: Satanás ou Shaitã
+撒村 | TRADUÇÃO: (dialeto) xingar; falar obscenidades
+撒欢 | TRADUÇÃO: brincar alegremente; saltitar
+撒欢儿 | TRADUÇÃO: forma erhua de 撒歡|撒欢
+撒母耳记上 | TRADUÇÃO: Primeiro Livro de Samuel
+撒母耳记下 | TRADUÇÃO: Segundo Livro de Samuel
+撒气 | TRADUÇÃO: vazar (ar)/murchar (pneu)/desabafar a raiva
+撒泼 | TRADUÇÃO: fazer uma cena irracional
+撒然 | TRADUÇÃO: súbito
+撒尔孟 | TRADUÇÃO: (Catolicismo) Salmom (filho de Naassom)
+撒狗粮 | TRADUÇÃO: (gíria) estar em clima de romance em público
+撒督 | TRADUÇÃO: Zadoque (filho de Azor e pai de Aquim em Mateus 1:13)
+撒科打诨 | TRADUÇÃO: intercalar diálogos cômicos (como fazem nas óperas)
+撒种 | TRADUÇÃO: semear sementes
+撒网 | TRADUÇÃO: lançar uma rede
+撒罗满 | TRADUÇÃO: (Catolicismo) Salomão, rei do antigo Israel
+撒脚 | TRADUÇÃO: sair correndo/ dar no pé
+撒腿 | TRADUÇÃO: dar no pé/ir embora rapidamente
+撒西米 | TRADUÇÃO: sashimi (estrangeirismo)
+撒谎 | TRADUÇÃO: contar mentiras
+撒赖 | TRADUÇÃO: fazer uma cena/criar caso
+撒迦利亚 | TRADUÇÃO: Zacarias (nome)/Zacarias (profeta do Antigo Testamento)
+撒迦利亚书 | TRADUÇÃO: Livro de Zacarias
+撒都该人 | TRADUÇÃO: Saduceus
+撒酒疯 | TRADUÇÃO: embriagar-se e agir de forma descontrolada/completamente bêbado
+撒野 | TRADUÇÃO: exibir um comportamento chocantemente ruim/comportar-se atrozmente
+撒门 | TRADUÇÃO: (Protestantismo) Salmom (filho de Naassom)
+撒马利亚 | TRADUÇÃO: Samaria
+撒马尔干 | TRADUÇÃO: Samarcanda, Uzbequistão
+撒马尔罕 | TRADUÇÃO: Samarcanda, Uzbequistão
+撒鸭子 | TRADUÇÃO: variante de 撒丫子
+挠 | TRADUÇÃO: coçar/obstruir/ceder
+挠败 | TRADUÇÃO: derrotado/em fuga/esmagado
+挠曲 | TRADUÇÃO: curvar/flexão/deformação por flexão
+挠率 | TRADUÇÃO: torção (de uma curva no espaço)
+挠痒痒 | TRADUÇÃO: fazer cócegas
+挠裂 | TRADUÇÃO: rachar devido a dobramento repetido/trinca por flexão
+挠钩 | TRADUÇÃO: gancho de ferro na ponta de uma vara longa
+挠头 | TRADUÇÃO: complicado/problemático/difícil/coçar a cabeça (em perplexidade)
+撕 | TRADUÇÃO: rasgar
+撕咬 | TRADUÇÃO: rasgar com os dentes (como um animal atacando outro)
+撕心裂肺 | TRADUÇÃO: em angústia insuportável; agonizante
+撕扯 | TRADUÇÃO: rasgar em pedaços
+撕掉 | TRADUÇÃO: arrancar (e jogar fora)/rasgar
+撕毁 | TRADUÇÃO: rasgar/fazer em pedaços/despedaçar
+撕烂 | TRADUÇÃO: rasgar/fazer em pedaços
+撕破 | TRADUÇÃO: rasgar/romper
+撕破脸 | TRADUÇÃO: ter uma briga acrimoniosa/deixar de lado as falsas aparências de cordialidade/agredir-se mutuamente
+撕破脸皮 | TRADUÇÃO: veja 撕破臉|撕破脸
+撕碎 | TRADUÇÃO: rasgar em pedaços
+撕票 | TRADUÇÃO: lit. rasgar o bilhete/matar um refém (geralmente mantido para resgate)
+撕裂 | TRADUÇÃO: rasgar; romper
+撕逼 | TRADUÇÃO: (gíria) (lit.) rasgar a boceta/(fig.) (entre mulheres) ter uma briga de gatas/ter uma briga de vadias
+撖 | TRADUÇÃO: sobrenome Han/pr. em Taiwan [Gan3]
+撙 | TRADUÇÃO: reduzir ou cortar/refrear/controlar
+撚 | TRADUÇÃO: provocar ou enganar/delicado/excelente (cantonês)
+㧑 | TRADUÇÃO: dividir/direcionar/agitar/humilde
+㧑挹 | TRADUÇÃO: ser extremamente modesto e educado
+㧑损 | TRADUÇÃO: humilhar
+撞 | TRADUÇÃO: bater contra/esbarrar em/topar com/encontrar por acaso
+撞倒 | TRADUÇÃO: derrubar/atropelar/atropelar (alguém)
+撞伤 | TRADUÇÃO: contusão/hematoma
+撞大运 | TRADUÇÃO: ter um golpe de sorte/tentar a sorte
+撞击 | TRADUÇÃO: golpear; bater; chocar-se
+撞击坑 | TRADUÇÃO: cratera de impacto
+撞击式印表机 | TRADUÇÃO: impressora de impacto
+撞击式打印机 | TRADUÇÃO: (informática) impressora de impacto
+撞机 | TRADUÇÃO: colidir (duas aeronaves no ar)/bater
+撞死 | TRADUÇÃO: atropelar e matar (com carro, trem etc.)
+撞毁 | TRADUÇÃO: esmagar; destruir
+撞烂 | TRADUÇÃO: destruir esmagando/destruído
+撞球 | TRADUÇÃO: bilhar/bola de bilhar/pool (jogo)
+撞脸 | TRADUÇÃO: (coloq.) parecer-se/ser a cara de
+撞衫 | TRADUÇÃO: usar a mesma roupa que outra pessoa (em público)
+撞见 | TRADUÇÃO: encontrar por acaso
+撞车 | TRADUÇÃO: bater (em outro carro)/(fig.) (de opiniões, horários etc.) colidir/(de assunto) ser o mesmo
+撞运气 | TRADUÇÃO: tentar a sorte/confiar no destino
+撞针 | TRADUÇÃO: percussor
+撞锁 | TRADUÇÃO: fechadura
+撞骗 | TRADUÇÃO: trapacear
+撞鬼 | TRADUÇÃO: encontrar um fantasma ou ser sobrenatural/(coloq.) passar por algo estranho, assustador ou azarado
+挢 | TRADUÇÃO: levantar/erguer/fingir/falso/intratável/variante de 矯|矫/corrigir
+操 | TRADUÇÃO: variante antiga de 操/agarrar/segurar/operar/gerenciar/controlar/dirigir/exercitar/perfurar (prática)/tocar/falar (um idioma)/variante de 肏
+撢 | TRADUÇÃO: tirar o pó
+掸 | TRADUÇÃO: escovar/tirar o pó/escova/espanador/CL:把
+掸子 | TRADUÇÃO: espanador/CL:把
+掸邦 | TRADUÇÃO: Estado Shan do leste de Mianmar (Birmânia)
+掸邦高原 | TRADUÇÃO: planalto Shan do leste de Mianmar (Birmânia)
+撤 | TRADUÇÃO: remover; retirar
+撤下 | TRADUÇÃO: retirar/remover (de um lugar)/destituir do cargo
+撤并 | TRADUÇÃO: consolidar/fundir
+撤侨 | TRADUÇÃO: evacuar (p. ex. civis estrangeiros de uma zona de guerra)
+撤兵 | TRADUÇÃO: retirar tropas/recuar
+撤出 | TRADUÇÃO: retirar-se/sair/recuar/retirar
+撤回 | TRADUÇÃO: chamar de volta/revogar/retirar
+撤掉 | TRADUÇÃO: cortar/jogar fora/destituir (do cargo)/arrancar
+撤换 | TRADUÇÃO: demitir e substituir (alguém)/substituir (alguém ou algo)
+撤档 | TRADUÇÃO: (de um filme, série de TV etc.) ser retirado de exibição; ser removido da programação de lançamento
+撤款 | TRADUÇÃO: sacar dinheiro
+撤消 | TRADUÇÃO: variante de 撤銷|撤销
+撤营 | TRADUÇÃO: retirar tropas
+撤稿 | TRADUÇÃO: retirar uma submissão; retirar uma submissão (a um jornal, revista, periódico etc.)
+撤职 | TRADUÇÃO: eliminar/demitir/destituir do cargo
+撤诉 | TRADUÇÃO: retirar uma ação judicial
+撤走 | TRADUÇÃO: retirar-se/remover/retirar/evacuar
+撤军 | TRADUÇÃO: retirar tropas/recuar
+撤退 | TRADUÇÃO: recuar; retirar-se
+撤销 | TRADUÇÃO: cancelar; revogar; anular/(informática) desfazer
+撤除 | TRADUÇÃO: remover/desmontar
+撤离 | TRADUÇÃO: retirar-se de/evacuar
+拨 | TRADUÇÃO: empurrar para o lado com a mão, pé, bastão etc./discar/alocar/reservar (dinheiro)/mexer (no fogo)/dedilhar (um instrumento de cordas)/virar/classificador: grupo, lote
+拨乱反正 | TRADUÇÃO: restaurar a ordem a partir do caos/endireitar coisas que foram postas em desordem
+拨付 | TRADUÇÃO: desembolsar (dinheiro)
+拨冗 | TRADUÇÃO: encontrar tempo para fazer algo em meio a assuntos urgentes
+拨出 | TRADUÇÃO: retirar/alocar (fundos)/discar
+拨动 | TRADUÇÃO: mexer/atigar/tocar (no fogo)/mover lateralmente/dedilhar (em um violão etc.)
+拨奏 | TRADUÇÃO: pizzicato
+拨子 | TRADUÇÃO: palheta
+拨弄 | TRADUÇÃO: mover para frente e para trás (com a mão, pé, bastão etc.)/mexer em/criar confusão
+拨弦乐器 | TRADUÇÃO: instrumento de cordas dedilhadas/instrumento dedilhado
+拨打 | TRADUÇÃO: chamar/discar
+拨接 | TRADUÇÃO: discagem (conexão de Internet)
+拨款 | TRADUÇÃO: alocar fundos/dotação
+拨正 | TRADUÇÃO: endireitar/corrigir
+拨浪鼓 | TRADUÇÃO: tambor de chocalho; tambor de pelotas – tambor de mão com duas pelotas presas a cordas em lados opostos, montado em uma haste que é girada para fazer as pelotas baterem no tambor (usado em música ritual, como brinquedo infantil ou como chocalho de vendedor ambulante)
+拨火棍 | TRADUÇÃO: bastão ou vara usada para mexer no fogo
+拨片 | TRADUÇÃO: palheta; plectro
+拨用 | TRADUÇÃO: dotaçao
+拨空 | TRADUÇÃO: arranjar tempo
+拨号 | TRADUÇÃO: discar um número de telefone
+拨号盘 | TRADUÇÃO: disco de discagem telefônica
+拨号连接 | TRADUÇÃO: conexão de discagem/rede de discagem
+拨号音 | TRADUÇÃO: tom de discagem
+拨转 | TRADUÇÃO: girar/virar/transferir (fundos etc.)
+拨通 | TRADUÇÃO: conseguir falar com alguém ao telefone
+拨开 | TRADUÇÃO: empurrar para o lado/afastar/escovar (para remover)
+拨云见日 | TRADUÇÃO: (expressão idiomática) fig. restaurar a justiça
+撧 | TRADUÇÃO: quebrar/partir
+撩 | TRADUÇÃO: levantar (algo pendurado)/erguer (a barra da saia)/puxar para cima (a manga)/borrifar (água com as mãos em concha)/provocar/incitar/agitar (emoções)
+撩乱 | TRADUÇÃO: variante de 繚亂|缭乱
+撩人 | TRADUÇÃO: atrair/estimular (sensualmente)
+撩动 | TRADUÇÃO: agitar/provocar
+撩妹 | TRADUÇÃO: (coloq.) flertar; dar em cima de garotas
+撩惹 | TRADUÇÃO: provocar/importunar
+撩拨 | TRADUÇÃO: provocar/incitar
+撩是生非 | TRADUÇÃO: causar problemas/provocar uma troca de farpas
+撩起 | TRADUÇÃO: levantar/erguer (cortinas, roupas etc.)
+撩逗 | TRADUÇÃO: provocar/importunar
+撩开 | TRADUÇÃO: afastar (roupa, cortina etc.) para revelar algo; jogar de lado
+撩骚 | TRADUÇÃO: flertar
+抚 | TRADUÇÃO: confortar/consolar/alisar com a mão/afagar/termo antigo para província ou governador provincial
+抚恤 | TRADUÇÃO: (de uma organização com dever de cuidado) dar apoio financeiro aos familiares de alguém que morreu ou sofreu ferimentos graves
+抚宁 | TRADUÇÃO: ver 撫寧區|抚宁区
+抚宁区 | TRADUÇÃO: Funing, distrito da cidade de Qinhuangdao 秦皇島市|秦皇岛市, Hebei
+抚州 | TRADUÇÃO: ver 撫州市|抚州市
+抚州市 | TRADUÇÃO: Fuzhou, cidade de nível de prefeitura na província de Jiangxi 江西省
+抚平 | TRADUÇÃO: alisar; suavizar; desenrugar/(fig.) acalmar (feridas emocionais); curar (cicatrizes)
+抚弄 | TRADUÇÃO: acariciar; afagar; alisar com a mão
+抚恤金 | TRADUÇÃO: indenização (por lesão)/auxílio financeiro
+抚爱 | TRADUÇÃO: amar ternamente/afeto; amor carinhoso/acariciar
+抚慰 | TRADUÇÃO: consolar/confortar/acalmar
+抚慰金 | TRADUÇÃO: pensão ou pagamento único para feridos ou para a família do falecido
+抚抱 | TRADUÇÃO: carícia
+抚摩 | TRADUÇÃO: alisar com a mão/afagar
+抚摸 | TRADUÇÃO: acariciar e afagar suavemente/fazer carinho em/acariciar (animal)
+抚松 | TRADUÇÃO: ver 撫松縣|抚松县
+抚松县 | TRADUÇÃO: Fusong, condado na cidade de Baishan 白山市, Jilin
+抚琴 | TRADUÇÃO: tocar cítara/variante clássica de 彈琴|弹琴
+抚绥 | TRADUÇÃO: apaziguar/pacificar
+抚育 | TRADUÇÃO: nutrir/criar/fomentar/cuidar (de crianças ou plantas)
+抚远 | TRADUÇÃO: ver 撫遠市|抚远市
+抚远三角洲 | TRADUÇÃO: Ilha Bolshoi Ussuriisk no rio Heilongjiang ou Amur, na foca do rio Ussuri em frente a Khabarovsk/o mesmo que Ilha Heixiazi 黑瞎子島|黑瞎子岛
+抚远市 | TRADUÇÃO: Fuyuan, cidade a nível de condado na cidade de Jiamusi 佳木斯市, Heilongjiang
+抚顺 | TRADUÇÃO: ver 撫順市|抚顺市/ver 撫順縣|抚顺县
+抚顺市 | TRADUÇÃO: Fushun, cidade de nível de prefeitura na província de Liaoning 遼寧省|辽宁省
+抚顺县 | TRADUÇÃO: Fushun, condado na cidade de Fushun 撫順市|抚顺市, Liaoning
+抚养 | TRADUÇÃO: criar (criança)/educar/criar (filhos)
+抚养成人 | TRADUÇÃO: criar (uma criança)
+抚养权 | TRADUÇÃO: guarda (de uma criança etc.)
+抚养费 | TRADUÇÃO: pensão alimentícia (após divórcio)
+撬 | TRADUÇÃO: levantar/forçar com alavanca/abrir com alavanca
+撬动 | TRADUÇÃO: deslocar algo com um pé de cabra etc./(fig.) influenciar aplicando alavancagem
+撬棍 | TRADUÇÃO: pé de cabra
+撬棒 | TRADUÇÃO: pé de cabra
+撬杠 | TRADUÇÃO: pé de cabra
+撬窃 | TRADUÇÃO: furto com arrombamento/arrombamento
+撬锁 | TRADUÇÃO: arrombar uma fechadura/forçar uma fechadura
+撬门 | TRADUÇÃO: arrombar/forçar uma porta
+撬开 | TRADUÇÃO: forçar para abrir; abrir com alavanca
+播 | TRADUÇÃO: (forma presa) semear (sementes); espalhar (ideias, boatos etc.); transmitir (sinais de rádio etc.)/pronúncia de Taiwan [bo4]
+播出 | TRADUÇÃO: transmitir/ir ao ar (um programa de TV etc.)
+播报 | TRADUÇÃO: anunciar/ler (o noticiário)
+播报员 | TRADUÇÃO: anunciador (de rádio, TV)
+播客 | TRADUÇÃO: podcast (estrangeirismo)
+播州 | TRADUÇÃO: ver 播州區|播州区
+播州区 | TRADUÇÃO: Bozhou, distrito da cidade de Zunyi 遵義市|遵义市, Guizhou
+播弄 | TRADUÇÃO: mandar em outros/incitar/semear discórdia
+播撒 | TRADUÇÃO: semear (sementes)/espalhar (coisas)
+播放 | TRADUÇÃO: transmitir; radiodifundir (por rádio ou TV)
+播放列表 | TRADUÇÃO: lista de reprodução
+播放机 | TRADUÇÃO: aparelho de reprodução (ex.: leitor de CD)
+播映 | TRADUÇÃO: transmitir um filme/televisionar
+播发 | TRADUÇÃO: transmitir (pelo rádio, TV)
+播种 | TRADUÇÃO: semear sementes/cultivar (milho etc.) a partir de sementes/plantar (milho etc.) semeando
+播讲 | TRADUÇÃO: transmitir uma palestra, leitura de livro etc.
+播送 | TRADUÇÃO: transmitir/radiodifundir/emitir
+播音 | TRADUÇÃO: transmitir/radiodifundir
+播音员 | TRADUÇÃO: locutor/apresentador
+撮 | TRADUÇÃO: pegar (um pó etc.) com a ponta dos dedos/colher com a mão em concha/reunir/extrair/ajuntar/classificador: pitada/pronúncia de Taiwan [cuo4]/classificador para cabelo ou grama: tufo/pronúncia de Taiwan [cuo4]
+撮合 | TRADUÇÃO: fazer casamenteiro/agir como intermediário
+撰 | TRADUÇÃO: compor/compilar/variante de 撰
+撰写 | TRADUÇÃO: escrever/compor (texto)
+撰拟 | TRADUÇÃO: redigir/esboçar/compor (um plano ou documento)
+撰文 | TRADUÇÃO: escrever um artigo
+撰稿 | TRADUÇÃO: redigir (um artigo para publicação)
+撰稿人 | TRADUÇÃO: autor (de um manuscrito)
+撰述 | TRADUÇÃO: compor (um texto)/escrever/obra (escrita)/escritor
+撰录 | TRADUÇÃO: compilar e registrar
+撱 | TRADUÇÃO: clipe/encurtar/jogar fora
+扑 | TRADUÇÃO: atirar-se/lançar-se sobre/dedicar suas energias/bater (asas)/agitar/(dar uma) batidinha/(dar um) tapinha/curvar-se
+扑倒 | TRADUÇÃO: cair (de bruços)
+扑克 | TRADUÇÃO: pôquer (jogo) (estrangeirismo)/baralho
+扑克牌 | TRADUÇÃO: pôquer (jogo)/carta de baralho/CL:副
+扑克脸 | TRADUÇÃO: cara de pôquer
+扑扇 | TRADUÇÃO: agitar/bater (asas)
+扑打 | TRADUÇÃO: bater (com a mão)/(de asas) agitar
+扑救 | TRADUÇÃO: combate a incêndios/apagar um incêndio e salvar vidas e bens/defender (de goleiro no futebol)
+扑朔 | TRADUÇÃO: ver 撲朔迷離|扑朔迷离
+扑朔迷离 | TRADUÇÃO: impossível de desvendar/confuso
+扑棱 | TRADUÇÃO: (onom.) agitar ou bater de asas/(de asas, cortinas etc.) agitar; esvoaçar
+扑杀 | TRADUÇÃO: matar/abater (animais)
+扑灭 | TRADUÇÃO: erradicar/extinguir

@@ -2,6 +2,7 @@
 // Captura exceções de render em qualquer subárvore e mostra uma tela de falha legível em vez de
 // derrubar o app inteiro (tela branca). Envolve o <App/> na raiz — ver main.tsx.
 import React, { ErrorInfo, ReactNode } from 'react';
+import { t } from '../i18n/i18n';
 
 interface PropsLimiteDeErro {
   children: ReactNode;
@@ -34,7 +35,7 @@ export class LimiteDeErro extends React.Component<PropsLimiteDeErro, EstadoLimit
 
     return (
       <div style={{ color: 'red', padding: '20px', backgroundColor: 'white' }}>
-        <h1>Algo deu errado.</h1>
+        <h1>{t('Algo deu errado.')}</h1>
         <pre>{this.state.erro?.toString()}</pre>
         <pre>{this.state.erro?.stack}</pre>
       </div>

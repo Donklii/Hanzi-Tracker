@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+极端之恶 | TRADUÇÃO: (filosofía) mal radical
+极端分子 | TRADUÇÃO: extremista/radical
+极简主义 | TRADUÇÃO: minimalismo
+极细小 | TRADUÇÃO: extremadamente pequeño/infinitesimal
+极致 | TRADUÇÃO: cima/cumbre/culminación/lo supremo/definitivo
+极角 | TRADUÇÃO: ángulo polar/argumento (ángulo en coordenadas polares)
+极超 | TRADUÇÃO: híper-/ultra-
+极轴 | TRADUÇÃO: eje polar (eje x en coordenadas polares)
+极辣 | TRADUÇÃO: muy picante/extremadamente picante
+极道 | TRADUÇÃO: yakuza
+极限 | TRADUÇÃO: límite/frontera extrema
+极限运动 | TRADUÇÃO: deporte extremo
+极点 | TRADUÇÃO: punto extremo/polo/el origen (en coordenadas polares)
+楷 | TRADUÇÃO: pistachero chino (Pistacia chinensis) ‖ modelo/patrón/estilo regular (caligrafía china)
+楷字 | TRADUÇÃO: escritura regular (estilo de caligrafía china)
+楷书 | TRADUÇÃO: escritura regular (estilo de caligrafía china)
+楷模 | TRADUÇÃO: modelo/ejemplo/arquetipo
+楷体 | TRADUÇÃO: estilo regular (fuente o caligrafía china)
+楸 | TRADUÇÃO: catalpa/Mallotus japonicus
+楸树 | TRADUÇÃO: Catalpa bungei o catalpa de Manchuria
+楹 | TRADUÇÃO: pilar/columna
+楹联 | TRADUÇÃO: pareado (colgado en las columnas de una sala)
+楻 | TRADUÇÃO: variante de 艎
+榀 | TRADUÇÃO: clasificador para vigas y cerchas de tejado
+概 | TRADUÇÃO: (forma ligada) general/aproximado/sin excepción/categóricamente/(forma ligada) porte/comportamiento ‖ variante antigua de 概
+概型 | TRADUÇÃO: (mat.) esquema
+概型理论 | TRADUÇÃO: teoría de esquemas (mat.)
+概形 | TRADUÇÃO: esquema (en geometría algebraica)
+概念 | TRADUÇÃO: concepto/idea/CL:個|个
+概念化 | TRADUÇÃO: conceptualización
+概念地图 | TRADUÇÃO: mapa conceptual/mapa mental
+概念驱动加工 | TRADUÇÃO: procesamiento guiado por conceptos
+概念验证 | TRADUÇÃO: prueba de concepto
+概括 | TRADUÇÃO: resumir/generalizar/brevemente/a grandes rasgos
+概括化 | TRADUÇÃO: generalización
+概数 | TRADUÇÃO: número aproximado/indicación imprecisa de cantidad (ej. 十幾|十几, 兩三百|两三百, 一千多)
+概况 | TRADUÇÃO: situación general/resumen/panorama general
+概测法 | TRADUÇÃO: método aproximado/regla empírica
+概率 | TRADUÇÃO: probabilidad (mat.)
+概率论 | TRADUÇÃO: teoría de probabilidades (mat.)
+概而不论 | TRADUÇÃO: impreciso sobre los detalles/evitar entrar en detalles
+概而言之 | TRADUÇÃO: lo mismo que 總而言之|总而言之/en resumen/en general
+概要 | TRADUÇÃO: resumen/esquema/compendio
+概览 | TRADUÇÃO: visión general/vistazo general/ojear
+概观 | TRADUÇÃO: examinar/hacer un balance/visión de conjunto/panorama general
+概论 | TRADUÇÃO: introducción/resumen/nociones generales/visión general
+概述 | TRADUÇÃO: resumen/visión general/sinopsis
+榃 | TRADUÇÃO: sendero elevado entre campos
+榆 | TRADUÇÃO: olmo
+榆中 | TRADUÇÃO: véase 榆中縣|榆中县
+榆中县 | TRADUÇÃO: Yuzhong, condado en la ciudad de Lanzhou 蘭州市|兰州市, Gansu
+榆木 | TRADUÇÃO: madera de olmo/olmo
+榆木疙瘩 | TRADUÇÃO: (lit.) nudo en un olmo (modismo)/(fig.) cabeza dura/alcornoque/zoquete
+榆木脑壳 | TRADUÇÃO: (coloq.) cabeza dura/zoquete
+榆木脑袋 | TRADUÇÃO: (coloq.) cabeza dura/cabeza de chorlito/mente cerrada
+榆林 | TRADUÇÃO: véase 榆林市
+榆林市 | TRADUÇÃO: Yulin, ciudad-prefectura en la provincia de Shaanxi 陝西省|陕西省
+榆树 | TRADUÇÃO: véase 榆樹市|榆树市 ‖ olmo
+榆树市 | TRADUÇÃO: Yushu, ciudad-condado en la ciudad de Changchun 長春市|长春市, Jilin
+榆次 | TRADUÇÃO: véase 榆次區|榆次区
+榆次区 | TRADUÇÃO: Yuci, distrito de la ciudad de Jinzhong 晉中市|晋中市, Shanxi
+榆社 | TRADUÇÃO: véase 榆社縣|榆社县
+榆社县 | TRADUÇÃO: Yushe, condado en la ciudad de Jinzhong 晉中市|晋中市, Shanxi
+榆罔 | TRADUÇÃO: Yuwang (aprox. 2000 a. C.), último de los legendarios Emperadores de la Llama 炎帝, derrotado por el Emperador Amarillo 黃帝|黄帝
+榆阳 | TRADUÇÃO: véase 榆陽區|榆阳区
+榆阳区 | TRADUÇÃO: Yuyang, distrito de la ciudad de Yulin 榆林市, Shaanxi
+榎 | TRADUÇÃO: (arbusto perennifolio)/Celtis sinensis
+榔 | TRADUÇÃO: árbol alto (arcaico)
+榔榆 | TRADUÇÃO: olmo chino (Ulmus parvifolia)
+榔槺 | TRADUÇÃO: voluminoso/engorroso/torpe
+榔头 | TRADUÇÃO: martillo/mazo/marrajo
+榕 | TRADUÇÃO: Rong, otro nombre de Fuzhou 福州 ‖ baniano chino (Ficus microcarpa)
+榕城 | TRADUÇÃO: véase 榕城區|榕城区
+榕城区 | TRADUÇÃO: Rongcheng, distrito de la ciudad de Jieyang 揭陽市|揭阳市, Guangdong
+榕树 | TRADUÇÃO: baniano/higuera de Bengala
+榕江 | TRADUÇÃO: véase 榕江縣|榕江县
+榕江县 | TRADUÇÃO: Rongjiang, condado en la prefectura autónoma miao y dong de Qiandongnan 黔東南苗族侗族自治州|黔东南苗族侗族自治州, Guizhou
+榖 | TRADUÇÃO: morera de papel
+矩 | TRADUÇÃO: variante de 矩 ‖ escuadra de carpintero/regla/reglamento/patrón/tallar
+榛 | TRADUÇÃO: (forma ligada) avellano (Corylus heterophylla)
+榛仁 | TRADUÇÃO: semilla de avellana/avellana pelada
+榛仁儿 | TRADUÇÃO: variante erhua de 榛仁
+榛子 | TRADUÇÃO: avellana
+榛实 | TRADUÇÃO: avellana
+榛果 | TRADUÇÃO: avellana/fruto del avellano
+榛栗 | TRADUÇÃO: avellana
+榛榛 | TRADUÇÃO: cubierto de maleza/lleno de plantas silvestres
+榛色 | TRADUÇÃO: color avellana
+榛莽 | TRADUÇÃO: (literario) vegetación exuberante/maleza
+榛芜 | TRADUÇÃO: matorral/espesura/humilde/inferior
+榛薮 | TRADUÇÃO: bosque espeso/matorral denso
+榛鸡 | TRADUÇÃO: grévol común
+榜 | TRADUÇÃO: aviso o anuncio/lista de nombres/lista pública de aprobados en exámenes imperiales ‖ (literario) remo/(metonimia) barco/variante de 搒/(literario) azotar/fustigar/pron. en Taiwán [beng4] ‖ variante de 搒 ‖ variante de 榜
+榜一大哥 | TRADUÇÃO: principal donante de un streamer en vivo/mayor patrocinador
+榜单 | TRADUÇÃO: lista de aprobados para admisión universitaria/tabla de clasificación/lista de éxitos o ránking
+榜样 | TRADUÇÃO: modelo/ejemplo (a seguir)/modelo de conducta
+榜眼 | TRADUÇÃO: candidato en segundo lugar en el examen de Hanlin/véase 狀元|状元
+榜笞 | TRADUÇÃO: (literario) azotar/fustigar/golpear con vara
+榜葛剌 | TRADUÇÃO: antiguo nombre chino de Bengala, actualmente escrito 孟加拉
+榜首 | TRADUÇÃO: primer lugar de la lista/cabeza de lista
+榠 | TRADUÇÃO: usado en 榠楂
+榠楂 | TRADUÇÃO: membrillo chino (Pseudocydonia sinensis)
+榡 | TRADUÇÃO: Quercus dentata
+榤 | TRADUÇÃO: palo o percha donde duermen las gallinas
+榥 | TRADUÇÃO: biombo/pantalla
+榦 | TRADUÇÃO: tronco de árbol
+榧 | TRADUÇÃO: Torreya nucifera
+榨干 | TRADUÇÃO: (fig.) exprimir al máximo/agotar por completo/desangrar
+榨取 | TRADUÇÃO: extraer/exprimir (jugo, etc.)/(fig.) explotar/extorsionar
+榨汁机 | TRADUÇÃO: exprimidor/licuadora
+榨油 | TRADUÇÃO: extraer aceite vegetal/prensar
+榨菜 | TRADUÇÃO: tallo de mostaza encurtido picante
+榨酒池 | TRADUÇÃO: lagar/prensa de vino
+杩 | TRADUÇÃO: cabecero de cama
+榫 | TRADUÇÃO: (ebanistería) espiga/machihembrado
+榫卯 | TRADUÇÃO: caja y espiga/ensambladura de mortaja y espiga
+榫眼 | TRADUÇÃO: mortaja/caja (ranura tallada en madera para recibir una espiga)
+榫销 | TRADUÇÃO: clavija/tarugo/pasador de carpintero
+榫凿 | TRADUÇÃO: escoplo para mortajar/formón para ranuras
+榫头 | TRADUÇÃO: espiga (saliente de madera que encaja en una mortaja)
+榭 | TRADUÇÃO: pabellón sobre plataforma de madera
+荣 | TRADUÇÃO: apellido Rong ‖ gloria/honor/próspero/floreciente
+荣任 | TRADUÇÃO: ser honrosamente nombrado o ascendido a un cargo
+荣光 | TRADUÇÃO: gloria/resplandor
+荣光颂 | TRADUÇÃO: Gloria (en la misa católica)
+荣威 | TRADUÇÃO: Roewe (marca de automóviles)
+荣宗耀祖 | TRADUÇÃO: véase 光宗耀祖
+荣市 | TRADUÇÃO: Vinh, Vietnam
+荣幸 | TRADUÇÃO: honrado (tener el honor o privilegio de...)
+荣成 | TRADUÇÃO: véase 榮成市|荣成市
+荣成市 | TRADUÇÃO: Rongcheng, ciudad-condado en la ciudad de Weihai 威海市, Shandong
+荣成湾 | TRADUÇÃO: bahía de Rongcheng cerca de Weihai 威海市 en la costa norte de Shandong
+荣昌 | TRADUÇÃO: véase 榮昌區|荣昌区
+荣昌区 | TRADUÇÃO: Rongchang, distrito de Chongqing 重慶|重庆
+荣景 | TRADUÇÃO: período de prosperidad/bonanza económica
+荣枯 | TRADUÇÃO: florecimiento y marchitamiento (de plantas)/(fig.) prosperidad y declive/altibajos de la vida
+荣格 | TRADUÇÃO: Carl Gustav Jung (1875-1961), psiquiatra suizo
+荣归 | TRADUÇÃO: regresar al hogar con honores
+荣归主 | TRADUÇÃO: Gloria (sección de la misa católica)
+荣归故里 | TRADUÇÃO: regresar a la tierra natal con honores
+荣毅仁 | TRADUÇÃO: Rong Yiren (1916-2005), vicepresidente de la RPC de 1993 a 1998
+荣民 | TRADUÇÃO: (Taiwán) soldado retirado/veterano (abrev. de 榮譽國民|荣誉国民)
+荣获 | TRADUÇÃO: tener el honor de recibir/ser galardonado con
+荣登 | TRADUÇÃO: (en una lista, ranking musical, etc.) alcanzar el primer puesto/encabezar
+荣禄大夫 | TRADUÇÃO: rango oficial honorífico en el gobierno imperial
+荣县 | TRADUÇÃO: Rongxian o condado de Rong, en la ciudad de Zigong 自貢市|自贡市, Sichuan
+荣总 | TRADUÇÃO: (Taiwán) Hospital General de Veteranos (abrev. de 榮民總醫院|荣民总医院)
+荣美 | TRADUÇÃO: glorioso/espléndido
+荣耀 | TRADUÇÃO: honor/gloria/resplandeciente
+荣华 | TRADUÇÃO: gloria y esplendor
+荣华富贵 | TRADUÇÃO: gloria, esplendor, riqueza y rango (modismo)/alta posición y gran fortuna
+荣誉 | TRADUÇÃO: honor/crédito/gloria/reputación honorable/honorífico
+荣誉博士 | TRADUÇÃO: doctorado honoris causa/Doctor Honoris Causa
+荣誉国民 | TRADUÇÃO: (Taiwán) soldado retirado/veterano de guerra
+荣誉学位 | TRADUÇÃO: título honorífico/grado con honores
+荣誉教授 | TRADUÇÃO: profesor emérito
+荣誉军人 | TRADUÇÃO: militar herido en combate/soldado condecorado/veterano discapacitado
+荣军 | TRADUÇÃO: abrev. de 榮譽軍人|荣誉军人
+荣辱 | TRADUÇÃO: honor y deshonor/fama y desgracia
+荣辱与共 | TRADUÇÃO: (de amigos o socios) compartir tanto el honor como la desgracia (modismo)/estar en las buenas y en las malas
+荣辱观 | TRADUÇÃO: conceptos sobre el honor y la vergüenza (en particular, los Conceptos Socialistas sobre el Honor y la Vergüenza en la RPC)/abrev. de 社會主義榮辱觀|社会主义荣辱观/conocido también como los Ocho Honores y las Ocho Vergüenzas 八榮八恥|八荣八耻
+榰 | TRADUÇÃO: base de pilar/puntal
+榱 | TRADUÇÃO: viga/cabio (clásico)
+榅 | TRADUÇÃO: usado en 榲桲|榅桲
+榅桲 | TRADUÇÃO: membrillo (Cydonia oblonga)
+榴 | TRADUÇÃO: granada (fruta)
+榴弹 | TRADUÇÃO: granada/proyectil explosivo
+榴弹炮 | TRADUÇÃO: obús (artillería)
+榴弹发射器 | TRADUÇÃO: lanzagranadas
+榴梿 | TRADUÇÃO: variante de 榴蓮|榴莲
+榴莲 | TRADUÇÃO: durián/Durio zibethinus
+榴莲族 | TRADUÇÃO: trabajador competente pero de trato difícil o desagradable
+榴霰弹 | TRADUÇÃO: metralla/proyectil de metralla/también pron. [liu2 san3 dan4]
+榷 | TRADUÇÃO: pasarela peatonal/peaje/tasa/monopolio estatal
+榻 | TRADUÇÃO: diván/camastro/lecho
+榻床 | TRADUÇÃO: diván/canapé
+榻榻米 | TRADUÇÃO: tatami (préstamo del japonés)
+榼 | TRADUÇÃO: Pusaetha scandens
+榾 | TRADUÇÃO: trozos de leña/virutas de madera
+桤 | TRADUÇÃO: aliso
+桤木 | TRADUÇÃO: aliso/madera de aliso
+桤树 | TRADUÇÃO: aliso chino (Alnus cremastogyne)/Alnus trabeculosa
+槁 | TRADUÇÃO: variante de 槁/marchito ‖ marchito (madera)/árbol seco o muerto
+槃 | TRADUÇÃO: variante de 盤|盘/bandeja de madera
+槊 | TRADUÇÃO: lanza larga/pica
+构件 | TRADUÇÃO: elemento estructural/componente/pieza
+构图 | TRADUÇÃO: (arte) composición
+构型 | TRADUÇÃO: estructura/configuración espacial/disposición/(quím.) configuración (molecular, electrónica, etc.)
+构建 | TRADUÇÃO: construir/estructurar/edificar (algo abstracto)
+构思 | TRADUÇÃO: concebir/planear/diseñar/tramar/componer/esbozo mental/concepción/idea
+构想 | TRADUÇÃO: concebir/imaginar/concepto/idea inicial
+构想图 | TRADUÇÃO: plano conceptual/recreación artística/diseño conceptual
+构成 | TRADUÇÃO: constituir/formar/componer/integrar/configurar (inform.)
+构架 | TRADUÇÃO: estructura/armazón/marco
+构树 | TRADUÇÃO: morera de papel (Broussonetia papyrifera)
+构筑 | TRADUÇÃO: construir/edificar/levantar
+构词 | TRADUÇÃO: formación de palabras/palabra compuesta
+构词学 | TRADUÇÃO: morfología (lingüística)
+构造 | TRADUÇÃO: estructura/composición/tectónica (geología)/CL:個|个
+构造运动 | TRADUÇÃO: movimiento tectónico/movimiento de la corteza terrestre
+构陷 | TRADUÇÃO: tender una trampa/acusar falsamente/incriminar
+槌 | TRADUÇÃO: maza/mazo/mano de mortero/pisón
+槌球 | TRADUÇÃO: croquet
+枪 | TRADUÇÃO: apellido Qiang ‖ arma de fuego/fusil/pistola/lanza/objeto con forma o función de arma de fuego/CL:支,把,桿|杆,條|条,枝/sustituir a alguien en un examen/chocar/clasificador para disparos de fusil ‖ variante de 槍|枪/fusil/lanza
+枪伤 | TRADUÇÃO: herida de bala/herida por arma de fuego
+枪刺 | TRADUÇÃO: bayoneta
+枪匪 | TRADUÇÃO: bandidos armados/delincuente armado/pistolero
+枪口 | TRADUÇÃO: boca del cañón/boca del arma
+枪子 | TRADUÇÃO: bala/proyectil
+枪崩 | TRADUÇÃO: (coloq.) matar a tiros/fusilar
+枪弹 | TRADUÇÃO: bala/munición
+枪战 | TRADUÇÃO: tiroteo/enfrentamiento armado
+枪手 | TRADUÇÃO: pistolero/tirador/persona que se hace pasar por otra en un examen/escritor fantasma/autor anónimo
+枪打出头鸟 | TRADUÇÃO: el pájaro que saca la cabeza recibe el disparo (modismo)/quien destaca se lleva los golpes
+枪托 | TRADUÇÃO: culata de arma de fuego
+枪把儿 | TRADUÇÃO: empuñadura de arma de fuego/culata
+枪击 | TRADUÇÃO: disparar con arma de fuego/tiroteo/atentado a tiros
+枪击案 | TRADUÇÃO: tiroteo/caso de ataque armado/incidente con armas de fuego
+枪支 | TRADUÇÃO: arma de fuego/armas de fuego en general
+枪毙 | TRADUÇÃO: ejecutar por fusilamiento/fusilar/(fig.) desechar/descartar
+枪替 | TRADUÇÃO: suplantar a alguien en un examen
+枪林箭雨 | TRADUÇÃO: bosque de lanzas y lluvia de flechas (modismo)/lluvia de balas y fuego
+枪枝 | TRADUÇÃO: (Taiwán) variante de 槍支|枪支
+枪栓 | TRADUÇÃO: cerrojo de fusil
+枪杆 | TRADUÇÃO: cañón de fusil/cañón del arma
+枪杆儿 | TRADUÇÃO: cañón de fusil
+枪杆子 | TRADUÇÃO: cañón de fusil/el poder militar/las armas
+枪械 | TRADUÇÃO: armas de fuego/armamento de fuego
+枪榴弹 | TRADUÇÃO: granada de fusil
+枪机 | TRADUÇÃO: mecanismo del cerrojo/cierre de arma de fuego
+枪杀 | TRADUÇÃO: matar a tiros/asesinar con arma de fuego
+枪决 | TRADUÇÃO: ejecutar mediante fusilamiento/lo mismo que 槍斃|枪毙
+枪法 | TRADUÇÃO: puntería/habilidad de tiro/arte de la lanza
+枪灰色 | TRADUÇÃO: gris cañón/gris plomo
+枪乌贼 | TRADUÇÃO: calamar
+枪版 | TRADUÇÃO: copia pirata grabada en el cine con cámara de video/versión pirata de cine
+枪眼 | TRADUÇÃO: tronera/aspillera/agujero de bala
+枪炮 | TRADUÇÃO: armas de fuego y artillería
+枪筒 | TRADUÇÃO: cañón de arma de fuego
+枪管 | TRADUÇÃO: cañón de fusil/cañón del arma
+枪声 | TRADUÇÃO: sonido de disparo/detonación/tiro
+枪膛 | TRADUÇÃO: ánima del cañón/recámara
+枪术 | TRADUÇÃO: arte tradicional de la lanza china
+枪衣 | TRADUÇÃO: funda de fusil/funda de arma
+枪闩 | TRADUÇÃO: cerrojo de recámara (de fusil)
+槎 | TRADUÇÃO: balsa de bambú o madera/talar árboles/desbastar
+槐 | TRADUÇÃO: sófora japonesa (Sophora japonica)/árbol de las pagodas
+槐树 | TRADUÇÃO: sófora del Japón (Sophora japonica)
+槐荫 | TRADUÇÃO: véase 槐蔭區|槐荫区
+槐荫区 | TRADUÇÃO: Huaiyin, distrito de la ciudad de Jinan 濟南市|济南市, Shandong
+槑 | TRADUÇÃO: (jerga de internet) variante enfática de 呆/muy tonto/ingenuo
+杠上 | TRADUÇÃO: entrar en disputa con/enfrentarse a
+杠刀 | TRADUÇÃO: afilar una cuchilla o navaja en el asentador
+杠夫 | TRADUÇÃO: porteador de andas o féretros
+杠子 | TRADUÇÃO: barra gruesa/vara de carga resistente
+杠掉 | TRADUÇÃO: tachar/eliminar tachando
+杠杆 | TRADUÇÃO: palanca/barra de uña/apalancamiento financiero
+杠杠的 | TRADUÇÃO: (jerga) (originario del dialecto del noreste) excelente/formidable/impecable
+杠荡 | TRADUÇÃO: sacudir/mecer/balancear
+杠铃 | TRADUÇÃO: barra con pesas/haltera
+杠头 | TRADUÇÃO: (antiguo) líder de porteadores de féretro/(fig.) persona discutidora o llevacontraria/tipo de pan duro aplastado con rodillo 槓子|杠子
+杠龟 | TRADUÇÃO: (Taiwán) perderlo todo en el juego/sufrir un fracaso rotundo (del taiwanés 摃龜, pron. Tai-lo [kòng-ku])
+槔 | TRADUÇÃO: usado en 桔槔
+槖 | TRADUÇÃO: variante de 橐
+槜 | TRADUÇÃO: véase 槜李
+槜李 | TRADUÇÃO: lugar antiguo en la actual provincia de Zhejiang ‖ ciruela de piel roja brillante
+槢 | TRADUÇÃO: madera dura
+梿 | TRADUÇÃO: véase 槤枷|梿枷, mayal/trillar (con mayal)
+梿枷 | TRADUÇÃO: variante de 連枷|连枷
+槥 | TRADUÇÃO: ataúd de tablas toscas
+椠 | TRADUÇÃO: tablilla de madera/edición de libro
+椁 | TRADUÇÃO: féretro exterior/caja sepulcral exterior
+槪 | TRADUÇÃO: variante de 概
+槭 | TRADUÇÃO: arce/también pron. [zu2]/pron. en Taiwán [cu4]
+槭木 | TRADUÇÃO: madera de arce
+槭树 | TRADUÇÃO: arce
+槭糖浆 | TRADUÇÃO: jarabe de arce/sirope de arce
+椮 | TRADUÇÃO: crecimiento frondoso (árboles)/pesca con haces de leña (arcaico)
+槱 | TRADUÇÃO: hoguera ritual
+槲 | TRADUÇÃO: roble japonés (Quercus dentata)/véase también 槲樹|槲树
+槲寄生 | TRADUÇÃO: muérdago
+槲树 | TRADUÇÃO: roble daimyo (Quercus dentata)
+槲栎 | TRADUÇÃO: roble blanco oriental (Quercus aliena)
+槲鸫 | TRADUÇÃO: (ave) zorzal charlo (Turdus viscivorus)
+桨 | TRADUÇÃO: remo/pala/CL:隻|只
+桨手 | TRADUÇÃO: remero/boguero
+桨板 | TRADUÇÃO: paddle surf (SUP)/tabla de paddle surf/pala de hélice/pala de remo
+槵 | TRADUÇÃO: árbol del jabón (orden Sapindales)
+槵子 | TRADUÇÃO: fruto del árbol del jabón (utilizado para cuentas de oración budistas)
+槹 | TRADUÇÃO: variante de 槔
+槺 | TRADUÇÃO: espacio vacío dentro de un edificio
+槻 | TRADUÇÃO: zelkova japonesa
+规 | TRADUÇÃO: variante de 規|规 ‖ compás/regla/reglamento/amonestar/planificar/trazar
+槽 | TRADUÇÃO: artesa/comedero/ranura/canal/(Taiwán) (inform.) unidad de disco duro
+槽位 | TRADUÇÃO: ranura/ranura de expansión/plaza
+槽坊 | TRADUÇÃO: destilería/taller artesanal de fabricación de papel (en tiempos antiguos)
+槽孔 | TRADUÇÃO: ranura/orificio ranurado/ranura alargada
+槽牙 | TRADUÇÃO: (coloq.) muela/diente molar
+槽车 | TRADUÇÃO: camión cisterna
+槽钢 | TRADUÇÃO: acero en U/canal de acero
+槽头 | TRADUÇÃO: cabecera del comedero en establo
+槽点 | TRADUÇÃO: (jerga) punto criticable/aspecto que se presta a burlas o críticas
+槽齿目 | TRADUÇÃO: tecodontos (Thecodontia, agrupación taxonómica obsoleta de reptiles)
+槽齿类 | TRADUÇÃO: tecodonto (tipo de reptil del Pérmico y Triásico)
+槾 | TRADUÇÃO: (árbol)
+槿 | TRADUÇÃO: rosa de Siria (Hibiscus syriacus)/efímero/transitorio
+桩 | TRADUÇÃO: tocón/poste/pilote/clasificador para casos, asuntos, transacciones o sucesos
+桩构栈道 | TRADUÇÃO: pasarela sobre pilotes/caballete sobre pilotes
+桩桩件件 | TRADUÇÃO: todos y cada uno/cosa por cosa/caso por caso
+桩脚 | TRADUÇÃO: cimiento de pilote (arq.)/(Taiwán) figura de influencia política local para captar votos en elecciones
+乐 | TRADUÇÃO: apellido Le ‖ apellido Yue ‖ usado en nombres de lugares ‖ alegre/feliz/reír ‖ música
+乐不可支 | TRADUÇÃO: loco de alegría (modismo)/rebosante de gozo/no caber de gozo
+乐不可极 | TRADUÇÃO: (modismo) no se debe abusar del placer/no entregarse al placer sin límites
+乐不思蜀 | TRADUÇÃO: entregarse al placer olvidando el hogar y los deberes (modismo)/estar tan a gusto que no se quiere volver
+乐之 | TRADUÇÃO: Ritz (marca de galletas)
+乐事 | TRADUÇÃO: Lay's (marca) ‖ placer/cosa agradable
+乐亭 | TRADUÇÃO: véase 樂亭縣|乐亭县
+乐亭县 | TRADUÇÃO: Laoting, condado en la ciudad de Tangshan 唐山市, Hebei
+乐儿 | TRADUÇÃO: véase 樂子|乐子
+乐句 | TRADUÇÃO: frase musical
+乐呵呵 | TRADUÇÃO: alegremente/feliz y contento/sonriente
+乐善好施 | TRADUÇÃO: bondadoso y caritativo/inclinado a hacer el bien
+乐器 | TRADUÇÃO: instrumento musical/CL:件
+乐园 | TRADUÇÃO: paraíso/parque de atracciones
+乐团 | TRADUÇÃO: orquesta/banda musical
+乐土 | TRADUÇÃO: tierra feliz/paraíso/remanso de paz
+乐在其中 | TRADUÇÃO: encontrar placer en algo (modismo)/disfrutar plenamente de una actividad
+乐坛 | TRADUÇÃO: mundo de la música/círculos musicales
+乐天 | TRADUÇÃO: Lotte (conglomerado surcoreano) ‖ despreocupado/optimista/de carácter alegre
+乐天派 | TRADUÇÃO: optimistas/personas despreocupadas y alegres
+乐天知命 | TRADUÇÃO: resignarse al propio destino con alegría/estar conforme con la propia suerte
+乐子 | TRADUÇÃO: diversión/placer/motivo de risa
+乐安 | TRADUÇÃO: véase 樂安縣|乐安县
+乐安县 | TRADUÇÃO: Le'an, condado en la ciudad de Fuzhou 撫州市|抚州市, Jiangxi
+乐山 | TRADUÇÃO: véase 樂山市|乐山市
+乐山市 | TRADUÇÃO: Leshan, ciudad-prefectura en la provincia de Sichuan 四川省
+乐师 | TRADUÇÃO: músico/maestro de música
+乐平 | TRADUÇÃO: véase 樂平市|乐平市
+乐平市 | TRADUÇÃO: Leping, ciudad-condado en la ciudad de Jingdezhen 景德鎮市|景德镇市, Jiangxi
+乐府 | TRADUÇÃO: yuefu (estilo de poesía lírica china/oficina musical imperial)
+乐府诗集 | TRADUÇÃO: Colección de Canciones y Baladas Yuefu, compilada en el siglo XI por Guo Maoqian 郭茂倩
+乐律 | TRADUÇÃO: afinación/temperamento musical/leyes armónicas
+乐意 | TRADUÇÃO: estar dispuesto a/hacer con gusto/contento/satisfecho
+乐感 | TRADUÇÃO: musicalidad/sensibilidad musical
+乐手 | TRADUÇÃO: instrumentista/músico ejecutor
+乐捐 | TRADUÇÃO: donar voluntariamente/ofrenda/contribución voluntaria
+乐于 | TRADUÇÃO: complacerse en/estar dispuesto a/deleitarse con
+乐于助人 | TRADUÇÃO: (modismo) siempre dispuesto a ayudar a los demás/servicial
+乐施会 | TRADUÇÃO: Oxfam
+乐昌 | TRADUÇÃO: véase 樂昌市|乐昌市
+乐昌之镜 | TRADUÇÃO: véase 樂昌破鏡|乐昌破镜
+乐昌分镜 | TRADUÇÃO: véase 樂昌破鏡|乐昌破镜
+乐昌市 | TRADUÇÃO: Lechang, ciudad-condado en la ciudad de Shaoguan 韶關市|韶关市, Guangdong
+乐昌破镜 | TRADUÇÃO: (lit.) la historia del espejo roto de la princesa Lechang 樂昌公主|乐昌公主 (modismo)/(fig.) reencuentro de amantes separados o restablecimiento de una relación conyugal
+乐曲 | TRADUÇÃO: composición musical/pieza musical
+乐东 | TRADUÇÃO: condado autónomo li de Ledong, Hainan
+乐东县 | TRADUÇÃO: condado autónomo li de Ledong, Hainan
+乐东黎族自治县 | TRADUÇÃO: condado autónomo li de Ledong, Hainan
+乐业 | TRADUÇÃO: véase 樂業縣|乐业县
+乐业县 | TRADUÇÃO: Leye, condado en la ciudad de Baise 百色市, Guangxi
+乐极生悲 | TRADUÇÃO: el gozo extremo se torna en tristeza (modismo)/la alegría desmedida engendra pesar
+乐此不倦 | TRADUÇÃO: véase 樂此不疲|乐此不疲
+乐此不疲 | TRADUÇÃO: (modismo) deleitarse con algo sin cansarse nunca/hacer algo con incansable entusiasmo
+乐歪 | TRADUÇÃO: estar loco de contento/sonreír de oreja a oreja
+乐活 | TRADUÇÃO: LOHAS (estilo de vida saludable y sostenible)
+乐浪郡 | TRADUÇÃO: comandancia de Lelang (108 a. C.-313 d. C.), una de las cuatro comandancias de la dinastía Han en el norte de Corea
+乐清 | TRADUÇÃO: véase 樂清市|乐清市
+乐清市 | TRADUÇÃO: Yueqing, ciudad-condado en la ciudad de Wenzhou 溫州市|温州市, Zhejiang
+乐滋滋 | TRADUÇÃO: (coloq.) muy contento/satisfecho/encantado de la vida
+乐理 | TRADUÇÃO: teoría musical
+乐福鞋 | TRADUÇÃO: mocasines (préstamo del inglés loafer)
+乐章 | TRADUÇÃO: movimiento (de una sinfonía u obra musical)
+乐经 | TRADUÇÃO: Clásico de la Música (Yuejing), uno de los Seis Clásicos confucianos perdidos tras la quema de libros por Qin en el 212 a. C.
+乐羊羊 | TRADUÇÃO: Le Yangyang (grupo de cinco ovejas de dibujos animados), mascota de los Juegos Asiáticos de Cantón 2010 廣州亞運會|广州亚运会
+乐至 | TRADUÇÃO: véase 樂至縣|乐至县
+乐至县 | TRADUÇÃO: Lezhi, condado en la ciudad de Ziyang 資陽市|资阳市, Sichuan
+乐色 | TRADUÇÃO: (jerga) basura/escoria (juego de palabras con la pron. taiwanesa de 垃圾)
+乐华梅兰 | TRADUÇÃO: Leroy Merlin (cadena de bricolaje)
+乐蒂 | TRADUÇÃO: Betty Loh Ti, actriz china
+乐蜀 | TRADUÇÃO: Lúxor, ciudad en Egipto (transliteración cantonesa)
+乐见 | TRADUÇÃO: ver con buenos ojos/acoger con agrado/alegrarse de ver
+乐见其成 | TRADUÇÃO: ver con agrado que se realice/alegrarse de que prospere
+乐观 | TRADUÇÃO: optimista/esperanzado
+乐观主义 | TRADUÇÃO: optimismo
+乐观其成 | TRADUÇÃO: ver con agrado que se lleve a cabo/esperar con optimismo su éxito
+乐谱 | TRADUÇÃO: partitura musical/partitura
+乐购 | TRADUÇÃO: Tesco (cadena británica de supermercados)
+乐趣 | TRADUÇÃO: placer/deleite/gozo/diversión
+乐迷 | TRADUÇÃO: aficionado a la música/melómano
+乐透 | TRADUÇÃO: lotería (préstamo)
+乐道 | TRADUÇÃO: deleitarse hablando de algo/encontrar placer en seguir las propias convicciones
+乐都 | TRADUÇÃO: véase 樂都區|乐都区
+乐都区 | TRADUÇÃO: Ledu, distrito de la ciudad de Haidong 海東市|海东市, Qinghai
+乐开花 | TRADUÇÃO: rebosar de alegría/sonreír radiante
+乐陵 | TRADUÇÃO: véase 樂陵市|乐陵市
+乐陵市 | TRADUÇÃO: Laoling, ciudad-condado en la ciudad de Dezhou 德州市, Shandong
+乐陶陶 | TRADUÇÃO: jubiloso/alegre/contento
+乐队 | TRADUÇÃO: banda/grupo musical/orquesta/CL:支
+乐音 | TRADUÇÃO: nota musical/sonido armónico/tono musical
+乐颠了馅 | TRADUÇÃO: extasiado/loco de contento
+乐高 | TRADUÇÃO: Lego
+乐龄 | TRADUÇÃO: tercera edad/años dorados (a partir de los 60 años aprox.)
+枞 | TRADUÇÃO: abeto ‖ usado en 樅陽|枞阳 (topónimo en Anhui)
+枞树 | TRADUÇÃO: abeto
+枞阳 | TRADUÇÃO: véase 樅陽縣|枞阳县
+枞阳县 | TRADUÇÃO: Zongyang, condado en la ciudad de Tongling 銅陵市|铜陵市, Anhui
+樆 | TRADUÇÃO: cordia o manjack (género Cordia) ‖ serbal (género Sorbus)
+樊 | TRADUÇÃO: apellido Fan ‖ (literario) valla/cerca/enrejado
+樊城 | TRADUÇÃO: véase 樊城區|樊城区
+樊城区 | TRADUÇÃO: Fancheng, distrito de la ciudad de Xiangyang 襄陽市|襄阳市, Hubei
+樊笼 | TRADUÇÃO: jaula de pájaros/(fig.) prisión/encierro
+樊篱 | TRADUÇÃO: (lit.) valla/seto/(fig.) barrera/restricción
+樎 | TRADUÇÃO: pesebre
+樏 | TRADUÇÃO: (arcaico) silla de manos rústica para viajar en montaña/(arcaico) bandeja con compartimentos para comida (también pron. [lei3]) ‖ calzado para escalar montañas
+楼 | TRADUÇÃO: apellido Lou ‖ edificio de varios pisos/piso/planta/torre/CL:層|层,座,棟|栋
+楼上 | TRADUÇÃO: piso de arriba/planta superior/(jerga de internet) usuario anterior en un hilo de foro
+楼下 | TRADUÇÃO: piso de abajo/planta baja
+楼主 | TRADUÇÃO: autor de la publicación original (en un foro en línea)/propietario de un edificio (tradicional)
+楼子 | TRADUÇÃO: pabellón de varios pisos/variante de 婁子|娄子
+楼宇 | TRADUÇÃO: edificio/inmueble
+楼层 | TRADUÇÃO: piso/planta (de un edificio)
+楼市 | TRADUÇÃO: mercado inmobiliario
+楼座 | TRADUÇÃO: anfiteatro/asiento de galería (en un teatro)
+楼厢 | TRADUÇÃO: palco de teatro/buhardilla
+楼房 | TRADUÇÃO: edificio de varias plantas/CL:棟|栋,幢,座
+楼板 | TRADUÇÃO: losa de entrepiso/forjado/piso de madera u hormigón
+楼梯 | TRADUÇÃO: escalera/CL:個|个
+楼梯口 | TRADUÇÃO: entrada de la escalera/cabecera de la escalera
+楼梯台 | TRADUÇÃO: descansillo de la escalera/rellano
+楼梯间 | TRADUÇÃO: hueco de la escalera/caja de escalera
+楼橹 | TRADUÇÃO: torre de vigilancia/torre de asedio móvil
+楼盘 | TRADUÇÃO: inmueble en venta/promoción inmobiliaria/edificio en construcción
+楼台 | TRADUÇÃO: (dialectal) balcón/terraza/(literario) edificio alto/torre/(antiguo) escenario teatral
+楼船 | TRADUÇÃO: barco de varios pisos/navío con torre
+楼花 | TRADUÇÃO: propiedad comprada sobre plano/vivienda en preventa
+楼兰 | TRADUÇÃO: Loulan (o Kroraina), antiguo oasis en la Ruta de la Seda cerca de Lop Nor 羅布泊|罗布泊
+楼道 | TRADUÇÃO: pasillo de edificio/corredor
+楼阁 | TRADUÇÃO: pabellón de varios pisos/torre
+楼阁塔 | TRADUÇÃO: pagoda de varios niveles
+楼面 | TRADUÇÃO: superficie de piso/planta
+楼顶 | TRADUÇÃO: azotea/tejado del edificio
+楼凤 | TRADUÇÃO: (jerga) prostituta que atiende en un apartamento privado
+樕 | TRADUÇÃO: arbusto
+樗 | TRADUÇÃO: ailanto/simarubácea
+樗蒱 | TRADUÇÃO: tipo de juego antiguo de dados de dos caras
+樘 | TRADUÇÃO: pilar ‖ pilar/jamba de puerta/marco de puerta o ventana/clasificador para puertas o ventanas
+标 | TRADUÇÃO: marca/señal/etiqueta/marcar con un símbolo, etiqueta o inscripción/llevar (nombre de marca, número de registro, etc.)/premio/galardón/oferta en licitación/meta/objetivo/cuota/(antiguo) copas de los árboles/síntoma superficial/clasificador para unidades militares
+标价 | TRADUÇÃO: marcar el precio/precio marcado
+标兵 | TRADUÇÃO: guardia de desfile/ejemplo a seguir/modelo/puntero
+标售 | TRADUÇÃO: vender por licitación/subasta pública
+标图 | TRADUÇÃO: marcar en un mapa o plano/trazar
+标地 | TRADUÇÃO: parcela de terreno
+标定 | TRADUÇÃO: delimitar (lindes de un terreno, etc.)/demarcar/(ingeniería, etc.) calibrar
+标尺 | TRADUÇÃO: mira de topógrafo/regla graduada/escala de medición/alza de mira
+标帜 | TRADUÇÃO: estandarte/bandera/variante de 標誌|标志
+标底 | TRADUÇÃO: precio base (de licitación)/precio de salida (en subasta)
+标度 | TRADUÇÃO: escala/graduación
+标得 | TRADUÇÃO: ganar (algo) en una licitación o subasta
+标新取异 | TRADUÇÃO: iniciar algo nuevo y diferente (modismo)/hacer gala de originalidad
+标新立异 | TRADUÇÃO: presumir de original o poco convencional (modismo)/innovar para llamar la atención
+标新竞异 | TRADUÇÃO: iniciar algo novedoso y distintivo (modismo)/mostrar originalidad
+标新领异 | TRADUÇÃO: aportar novedades (modismo)/nuevos rumbos y creaciones distintas
+标明 | TRADUÇÃO: marcar/indicar con claridad/señalar
+标普 | TRADUÇÃO: Standard & Poor's/abrev. de 標準普爾|标准普尔
+标书 | TRADUÇÃO: pliego de condiciones de licitación/documento de oferta o propuesta
+标会 | TRADUÇÃO: asociación de crédito rotativo por pujas/reunión de préstamo mutuo/ganar la puja en dicha reunión
+标本 | TRADUÇÃO: espécimen/muestra/causa raíz y síntomas superficiales de una enfermedad
+标本虫 | TRADUÇÃO: escarabajo araña (Gibbium psylloides)
+标杆 | TRADUÇÃO: jalón de agrimensor/poste de referencia/(fig.) meta/modelo/punto de referencia
+标架 | TRADUÇÃO: sistema de coordenadas/marco de referencia
+标柱 | TRADUÇÃO: poste indicador/hito de distancia
+标格 | TRADUÇÃO: estilo/carácter/porte moral
+标榜 | TRADUÇÃO: alardear/hacer alarde de/pregonar/ensalzar en exceso
+标枪 | TRADUÇÃO: jabalina
+标桩 | TRADUÇÃO: estaca de demarcación/hito
+标注 | TRADUÇÃO: marcar/etiquetar/anotar (p. ej. caracteres con pinyin)
+标清 | TRADUÇÃO: definición estándar (calidad de video o TV)
+标准 | TRADUÇÃO: estándar/norma/criterio/estándar (adjetivo)/correcto/conforme a la norma
+标准像 | TRADUÇÃO: retrato oficial
+标准化 | TRADUÇÃO: estandarización/normalización
+标准尺寸 | TRADUÇÃO: dimensión estándar/calibre normalizado
+标准差 | TRADUÇÃO: (estad.) desviación estándar
+标准时 | TRADUÇÃO: hora estándar
+标准普尔 | TRADUÇÃO: Standard & Poor's (S&P)
+标准杆 | TRADUÇÃO: par (golf)
+标准模型 | TRADUÇÃO: Modelo Estándar (de física de partículas)
+标准状态 | TRADUÇÃO: condiciones estándar de temperatura y presión
+标准状况 | TRADUÇÃO: condiciones estándar de temperatura y presión
+标准组织 | TRADUÇÃO: organismo de normalización/organización de estándares
+标准规格 | TRADUÇÃO: especificación estándar/norma técnica
+标准语 | TRADUÇÃO: lengua estándar/idioma estándar
+标准间 | TRADUÇÃO: habitación estándar (de hotel)/habitación doble estándar/abrev. como 標間|标间
+标准音 | TRADUÇÃO: pronunciación estándar/tono de afinación estándar (ej. La = 440 Hz)
+标灯 | TRADUÇÃO: luz de baliza/faro de señalización
+标牌 | TRADUÇÃO: etiqueta/placa de señalización/letrero/placa con inscripción
+标界 | TRADUÇÃO: delimitar una frontera/línea divisoria
+标的 | TRADUÇÃO: objeto de un contrato/meta/objetivo/lo que se persigue obtener
+标砖 | TRADUÇÃO: ladrillo de referencia (construcción)/ladrillo estándar
+标示 | TRADUÇÃO: indicar/marcar/señalizar
+标称 | TRADUÇÃO: nominal (voltaje, potencia, etc.)
+标章 | TRADUÇÃO: (Taiwán) sello de certificación/marca de conformidad con normas
+标竿 | TRADUÇÃO: punto de referencia/vara de señalización/palo con trofeo colgado
+标签 | TRADUÇÃO: etiqueta/rótulo/(inform.) pestaña (elemento de interfaz gráfica)
+标签页 | TRADUÇÃO: pestaña (en navegador web)
+标线 | TRADUÇÃO: señalización vial horizontal/línea de demarcación vial/retícula
+标绘 | TRADUÇÃO: trazar en un plano o mapa/representar gráficamente
+标致 | TRADUÇÃO: Peugeot (marca de coches) ‖ (de una mujer) hermosa/guapa/atractiva
+标号 | TRADUÇÃO: grado/calidad/número de designación
+标记 | TRADUÇÃO: marca/señal/símbolo/marcar/(inform.) token/etiqueta
+标志 | TRADUÇÃO: señal/marca/símbolo/logotipo/simbolizar/indicar/marcar
+标志性 | TRADUÇÃO: emblemático/icónico
+标语 | TRADUÇÃO: eslogan escrito/pancarta/lema/CL:幅,張|张,條|条
+标语牌 | TRADUÇÃO: pancarta/cartel con eslogan
+标识 | TRADUÇÃO: variante de 標誌|标志
+标卖 | TRADUÇÃO: vender al precio marcado/vender mediante licitación o subasta
+标配 | TRADUÇÃO: incluir de serie/equipamiento estándar/configuración de serie/(abrev. de 標準配置|标准配置)
+标量 | TRADUÇÃO: cantidad escalar/escalar
+标金 | TRADUÇÃO: lingote de oro estándar/fianza al presentar una licitación
+标间 | TRADUÇÃO: abrev. de 標準間|标准间, habitación estándar (de hotel)
+标音法 | TRADUÇÃO: transcripción fonética/sistema de representación fonética
+标题 | TRADUÇÃO: título/encabezado/titular/epígrafe/asunto
+标题新闻 | TRADUÇÃO: noticias destacadas/titulares
+标题栏 | TRADUÇÃO: barra de título (de una ventana) (inform.)
+标题语 | TRADUÇÃO: palabra cabecera/lema o entrada (en diccionario)
+标题党 | TRADUÇÃO: creadores de titulares engañosos/cebo de clics/clickbait
+标高 | TRADUÇÃO: cota/elevación/altitud sobre el nivel del suelo
+标点 | TRADUÇÃO: puntuación/signo de puntuación/puntuar/CL:個|个
+标点符号 | TRADUÇÃO: signos de puntuación/puntuación
+樛 | TRADUÇÃO: apellido Jiu ‖ colgar hacia abajo/ramas caídas
+枢 | TRADUÇÃO: (forma ligada) gozne/quicio/eje/pivote (usualmente fig.)
+枢垣 | TRADUÇÃO: censorado imperial
+枢密院 | TRADUÇÃO: consejo privado
+枢机 | TRADUÇÃO: cardenal (catolicismo)
+枢机主教 | TRADUÇÃO: cardenal (de la Iglesia católica)
+枢纽 | TRADUÇÃO: centro neurálgico/núcleo/eje/punto de enlace (ej. red de transporte)/gozne/pivote
+枢轴 | TRADUÇÃO: pivote/eje de giro/punto de apoyo
+樟 | TRADUÇÃO: alcanforero (Cinnamomum camphora)/alcanfor
+樟宜 | TRADUÇÃO: Changi (zona en el este de Singapur donde se ubica el aeropuerto)
+樟木 | TRADUÇÃO: Dram (en chino Zhangmu), localidad en la frontera entre Tíbet y Nepal
+樟树 | TRADUÇÃO: véase 樟樹市|樟树市 ‖ alcanforero (Cinnamomum camphora)
+樟树市 | TRADUÇÃO: Zhangshu, ciudad-condado en la ciudad de Yichun 宜春市, Jiangxi
+樟脑 | TRADUÇÃO: alcanfor C10H16O
+樟脑丸 | TRADUÇÃO: bolas de naftalina/bolas de alcanfor
+樟脑球 | TRADUÇÃO: bolas de alcanfor/bolas de naftalina
+樠 | TRADUÇÃO: olmo/goma/resina
+模 | TRADUÇÃO: imitar/modelo/norma/patrón ‖ molde/matriz/troquel/patrón
+模仿 | TRADUÇÃO: imitar/copiar/emular/reproducir/modelo
+模仿品 | TRADUÇÃO: producto de imitación/falsificación/copia
+模似 | TRADUÇÃO: simular/emular
+模具 | TRADUÇÃO: molde/matriz/troquel/pron. en Taiwán [mo2 ju4]
+模因 | TRADUÇÃO: meme (préstamo)
+模型 | TRADUÇÃO: modelo/maqueta/molde/patrón
+模块 | TRADUÇÃO: módulo (en software)/unidad funcional/componente
+模块化 | TRADUÇÃO: modularidad/modularización
+模块化理论 | TRADUÇÃO: teoría de la modularidad
+模块单元 | TRADUÇÃO: unidad modular
+模块式 | TRADUÇÃO: modular
+模块板 | TRADUÇÃO: placa de módulo/tarjeta modular
+模压 | TRADUÇÃO: moldeo por compresión/prensado en molde
+模子 | TRADUÇÃO: molde/matriz/troquel
+模写 | TRADUÇÃO: variante de 摹寫|摹写
+模式 | TRADUÇÃO: modo/patrón/modelo/esquema
+模式标本 | TRADUÇÃO: espécimen tipo (que define una especie)
+模式种 | TRADUÇÃO: especie tipo (en taxonomía)
+模形 | TRADUÇÃO: patrón/forma/modelo
+模态 | TRADUÇÃO: modal (inform., lingüística)
+模拟 | TRADUÇÃO: imitación/simular/imitar/analógico (dispositivo, en contraste con digital)
+模拟信号 | TRADUÇÃO: señal analógica
+模拟器 | TRADUÇÃO: emulador/simulador
+模拟放大器 | TRADUÇÃO: amplificador analógico
+模数 | TRADUÇÃO: analógico-digital/abrev. de 模擬到數字|模拟到数字
+模数转换器 | TRADUÇÃO: convertidor analógico-digital (ADC)
+模板 | TRADUÇÃO: plantilla/encofrado (arquitectura)
+模样 | TRADUÇÃO: apariencia/aspecto/porte/forma/aproximadamente/alrededor de/CL:個|个/también pron. [mo2 yang4]
+模版 | TRADUÇÃO: variante de 模板
+模特 | TRADUÇÃO: modelo (de moda) (préstamo)
+模特儿 | TRADUÇÃO: modelo (de moda) (préstamo)
+模棱 | TRADUÇÃO: ambiguo/indeciso e impreciso
+模棱两可 | TRADUÇÃO: equívoco/ambiguo/de doble sentido
+模范 | TRADUÇÃO: modelo/ejemplo/ejemplar
+模糊 | TRADUÇÃO: vago/indistinto/borroso/desdibujar/oscurecer/confundir
+模糊不清 | TRADUÇÃO: confuso/borroso/poco claro/desdibujado por el tiempo
+模糊数学 | TRADUÇÃO: matemática difusa
+模糊逻辑 | TRADUÇÃO: lógica difusa
+模组 | TRADUÇÃO: módulo (hardware o software) (inform.)
+模胡 | TRADUÇÃO: variante de 模糊
+模里西斯 | TRADUÇÃO: Mauricio (Taiwán)
+样 | TRADUÇÃO: manera/modo/aspecto/forma/patrón/clasificador: tipo, clase
+样例 | TRADUÇÃO: muestra/modelo/ejemplo de muestra
+样儿 | TRADUÇÃO: véase 樣子|样子
+样品 | TRADUÇÃO: muestra/espécimen
+样单 | TRADUÇÃO: formulario de muestra/hoja de estilo (inform.)
+样子 | TRADUÇÃO: apariencia/aspecto/manera/patrón/modelo
+样式 | TRADUÇÃO: tipo/estilo/diseño
+样张 | TRADUÇÃO: (imprenta) prueba de imprenta/página de muestra/fotografía de muestra/pliego de patrones (diseño de modas)
+样本 | TRADUÇÃO: muestra/espécimen
+样板 | TRADUÇÃO: plantilla/prototipo/modelo/ejemplo
+样板戏 | TRADUÇÃO: óperas revolucionarias modelo (durante la Revolución Cultural)
+样条函数 | TRADUÇÃO: función spline (mat.)
+样样 | TRADUÇÃO: todo tipo de cosas/cada cosa/todo
+样机 | TRADUÇÃO: prototipo (de máquina o aparato)
+样章 | TRADUÇÃO: capítulo de muestra
+样貌 | TRADUÇÃO: apariencia/aspecto físico
+樧 | TRADUÇÃO: fresno de hojas espinosas (Zanthoxylum ailanthoides)
+樨 | TRADUÇÃO: olivo oloroso (Osmanthus fragrans)
+権 | TRADUÇÃO: variante antigua de 權|权
+樲 | TRADUÇÃO: variedad ácida de azufaifa
+樴 | TRADUÇÃO: estaca/piqueta
+樵 | TRADUÇÃO: leña/recoger leña
+樵夫 | TRADUÇÃO: leñador
+樵子 | TRADUÇÃO: leñador
+樶 | TRADUÇÃO: nudo en la madera/tipo de trineo para cruzar zonas lodosas (antiguo)
+朴实 | TRADUÇÃO: sencillo/simple/sin artificios/realista/sincero y honesto
+朴实无华 | TRADUÇÃO: (modismo) sencillo y sin adornos/austero/sobrio
+朴次茅斯 | TRADUÇÃO: Portsmouth (puerto del sur de Inglaterra)
+朴素 | TRADUÇÃO: sobrio y sencillo/sin adornos/vida sencilla/austero
+朴门 | TRADUÇÃO: permacultura (préstamo)
+树 | TRADUÇÃO: árbol/CL:棵/cultivar/establecer/plantar
+树上熟 | TRADUÇÃO: madurado en el árbol
+树上开花 | TRADUÇÃO: adornar el árbol con flores postizas/hacer que algo sin valor parezca valioso (modismo)
+树人 | TRADUÇÃO: educar y formar a las personas/preparar a los niños para ser ciudadanos capaces
+树倒猢狲散 | TRADUÇÃO: cuando el árbol cae los monos se dispersan (modismo)/(fig.) los oportunistas huyen ante la caída del líder/las ratas abandonan el barco que se hunde
+树冠 | TRADUÇÃO: copa del árbol
+树化玉 | TRADUÇÃO: jade de madera (tipo de madera petrificada)
+树丛 | TRADUÇÃO: matorral/espesura/soto
+树大招风 | TRADUÇÃO: (lit.) un árbol alto atrae el viento (modismo)/(fig.) una persona rica o famosa atrae envidias y críticas
+树屋 | TRADUÇÃO: casa del árbol/cabaña en el árbol
+树干 | TRADUÇÃO: tronco de árbol
+树懒 | TRADUÇÃO: perezoso (zool.)
+树挪死，人挪活 | TRADUÇÃO: (lit.) si se trasplanta un árbol muere, pero si una persona se muda prospera (modismo)/(fig.) a diferencia de los árboles, los humanos prosperan con el cambio
+树挂 | TRADUÇÃO: cencellada/escarcha en los árboles
+树敌 | TRADUÇÃO: granjearse enemigos/enemistarse con la gente
+树木 | TRADUÇÃO: árboles/arboleda
+树林 | TRADUÇÃO: Shulin, ciudad en Nuevo Taipéi 新北市, Taiwán ‖ bosque/arboleda/soto
+树林市 | TRADUÇÃO: Shulin, ciudad en Nuevo Taipéi 新北市, Taiwán
+树枝 | TRADUÇÃO: rama/ramita
+树枝状晶 | TRADUÇÃO: dendrita (cristalografía)
+树根 | TRADUÇÃO: raíz de árbol
+树梢 | TRADUÇÃO: copa del árbol/punta de la rama
+树栖 | TRADUÇÃO: arborícola/que habita en los árboles
+树桩 | TRADUÇÃO: tocón de árbol
+树欲静而风不止 | TRADUÇÃO: (lit.) los árboles anhelan la calma pero el viento no cesa (modismo)/(fig.) los acontecimientos siguen su curso inexorable/los hijos quieren cuidar a sus padres pero ya no están
+树洞 | TRADUÇÃO: hueco en el árbol/(jerga) espacio anónimo para desahogarse o compartir secretos/(jerga) confidente
+树液 | TRADUÇÃO: savia de árbol
+树熟 | TRADUÇÃO: madurado en el árbol
+树状细胞 | TRADUÇÃO: célula dendrítica
+树獭 | TRADUÇÃO: (zool.) perezoso (raro, el término estándar es 樹懶|树懒)
+树番茄 | TRADUÇÃO: tamarillo/tomate de árbol
+树皮 | TRADUÇÃO: corteza de árbol
+树碑立传 | TRADUÇÃO: (lit.) erigir una estela y redactar una biografía (modismo)/inmortalizar las hazañas de alguien/cantar alabanzas
+树种 | TRADUÇÃO: especie arbórea/tipo de árbol
+树突 | TRADUÇÃO: dendrita (prolongación ramificada de una neurona)
+树突状细胞 | TRADUÇÃO: célula dendrítica
+树立 | TRADUÇÃO: erigir/establecer/fijar/sentar (un modelo o precedente)
+树篱 | TRADUÇÃO: seto vivo/cercado vegetal
+树脂 | TRADUÇÃO: resina
+树胶 | TRADUÇÃO: goma vegetal/resina de árbol
+树苗 | TRADUÇÃO: retoño/plántula/árbol joven
+树莓 | TRADUÇÃO: frambuesa
+树莓派 | TRADUÇÃO: Raspberry Pi (inform.)
+树菠萝 | TRADUÇÃO: yaca/fruto del árbol del pan
+树叶 | TRADUÇÃO: hojas de árbol/follaje
+树葡萄 | TRADUÇÃO: jabuticaba/guapurú
+树葬 | TRADUÇÃO: entierro ecológico al pie de un árbol
+树荫 | TRADUÇÃO: sombra de los árboles/pron. en Taiwán [shu4yin4]
+树蛙 | TRADUÇÃO: rana arborícola/ranita de San Antonio
+树袋熊 | TRADUÇÃO: koala
+树身 | TRADUÇÃO: tronco del árbol
+树阴 | TRADUÇÃO: sombra de un árbol
+树高千丈，落叶归根 | TRADUÇÃO: véase 樹高千丈，葉落歸根|树高千丈，叶落归根
+树高千丈，叶落归根 | TRADUÇÃO: (fig.) por alto que crezca el árbol, las hojas caen a la raíz (proverbio)/(fig.) todo vuelve a sus orígenes/en la vejez el emigrante regresa a su patria
+树鹨 | TRADUÇÃO: (ave) bisbita del Hodgson (Anthus hodgsoni)
+树麻雀 | TRADUÇÃO: (ave) gorrión molinero (Passer montanus)
+树龄 | TRADUÇÃO: edad de un árbol
+桦 | TRADUÇÃO: (bot.) abedul (género Betula)
+桦南 | TRADUÇÃO: véase 樺南縣|桦南县
+桦南县 | TRADUÇÃO: Huanan, condado en la ciudad de Jiamusi 佳木斯市, Heilongjiang
+桦川 | TRADUÇÃO: véase 樺川縣|桦川县
+桦川县 | TRADUÇÃO: Huachuan, condado en la ciudad de Jiamusi 佳木斯市, Heilongjiang
+桦木 | TRADUÇÃO: madera de abedul/abedul
+桦木科 | TRADUÇÃO: betuláceas (Betulaceae, familia de árboles que incluye abedules y alisos)
+桦树 | TRADUÇÃO: abedul
+桦甸 | TRADUÇÃO: véase 樺甸市|桦甸市
+桦甸市 | TRADUÇÃO: Huadian, ciudad-condado en la ciudad de Jilin 吉林市, Jilin
+樻 | TRADUÇÃO: variante antigua de 櫃|柜
+樽 | TRADUÇÃO: copa/cáliz/vaso de vino/botella/jarra de licor ‖ variante de 樽
+樽罍 | TRADUÇÃO: vasija de barro para licor
+樾 | TRADUÇÃO: sombra de los árboles
+椫 | TRADUÇÃO: (madera)
+橁 | TRADUÇÃO: fresno de Bunge (Fraxinus bungeana)
+橃 | TRADUÇÃO: barca grande/variante antigua de 筏
+橄 | TRADUÇÃO: usado en 橄欖|橄榄
+橄榄 | TRADUÇÃO: aceituna/oliva/olivo chino
+橄榄山 | TRADUÇÃO: monte de los Olivos (en los Evangelios)
+橄榄岩 | TRADUÇÃO: peridotita (geología)
+橄榄枝 | TRADUÇÃO: rama de olivo/símbolo de paz
+橄榄树 | TRADUÇÃO: olivo
+橄榄油 | TRADUÇÃO: aceite de oliva
+橄榄球 | TRADUÇÃO: fútbol americano/rugby
+橄榄石 | TRADUÇÃO: olivino (mineral de silicato de magnesio y hierro)/peridoto
+橄榄绿 | TRADUÇÃO: verde oliva
+橆 | TRADUÇÃO: variante de 無|无
+橇 | TRADUÇÃO: trineo
+桡 | TRADUÇÃO: (literario) perturbar/(literario) debilitar ‖ radio (anatomía)/hueso del antebrazo
+桡骨 | TRADUÇÃO: radio (anatomía)/hueso del antebrazo
+橊 | TRADUÇÃO: variante antigua de 榴
+桥 | TRADUÇÃO: puente/CL:座
+桥台 | TRADUÇÃO: estribo de puente (arquitectura)
+桥墩 | TRADUÇÃO: pilar de puente/pila de puente
+桥式整流器 | TRADUÇÃO: (electr.) rectificador de puente/puente rectificador
+桥接 | TRADUÇÃO: conectar mediante puente/hacer un puente/puentear
+桥接器 | TRADUÇÃO: puente de red/bridge (redes informáticas)
+桥本 | TRADUÇÃO: Hashimoto (apellido y topónimo japonés)
+桥本龙太郎 | TRADUÇÃO: Ryūtarō Hashimoto (1937-2006), político japonés, primer ministro de 1996 a 1998
+桥东 | TRADUÇÃO: véase 橋東區|桥东区
+桥东区 | TRADUÇÃO: Qiaodong, distrito de la ciudad de Zhangjiakou 張家口市|张家口市, Hebei
+桥梁 | TRADUÇÃO: puente (lit. y fig.)
+桥段 | TRADUÇÃO: (cine, literatura, etc.) escena/recurso narrativo/tópico/(composición musical) puente
+桥牌 | TRADUÇÃO: bridge (juego de cartas)
+桥脑 | TRADUÇÃO: (anatomía) protuberancia anular/puente de Varolio
+桥西 | TRADUÇÃO: véase 橋西區|桥西区
+桥西区 | TRADUÇÃO: Qiaoxi, distrito de la ciudad de Shijiazhuang 石家莊市|石家庄市, Hebei/Qiaoxi, distrito de la ciudad de Zhangjiakou 張家口市|张家口市, Hebei
+桥镇 | TRADUÇÃO: Bridgetown, capital de Barbados (Taiwán)
+桥面 | TRADUÇÃO: calzada del puente/tablero del puente
+桥头 | TRADUÇÃO: cabecera del puente/cabeza de puente
+桥头堡 | TRADUÇÃO: cabeza de puente (militar)/plaza fuerte para avanzar en territorio enemigo/torreón de puente/(fig.) vía de acceso/trampolín/base estratégica
+橎 | TRADUÇÃO: tipo de árbol
+橐 | TRADUÇÃO: saco/tubo abierto por ambos extremos/(onomat.) sonido de pisadas
+橐中装 | TRADUÇÃO: joyas/piedras preciosas/objetos de valor
+橐囊 | TRADUÇÃO: sacos/bolsas
+橐橐 | TRADUÇÃO: (onomat.) sonido de pisadas/taconeo
+橐笥 | TRADUÇÃO: bolsa/morral/petate
+橐笔 | TRADUÇÃO: ganarse la vida escribiendo
+橐驼 | TRADUÇÃO: camello/jorobado
+橐龠 | TRADUÇÃO: fuelle para avivar el fuego en un horno
+橕 | TRADUÇÃO: puntal/apuntalamiento/soporte
+橘 | TRADUÇÃO: mandarina (Citrus reticulata)/naranjo mandarino
+橘味 | TRADUÇÃO: sabor a mandarina/yuri (género de ficción de relaciones románticas lésbicas)
+橘子 | TRADUÇÃO: mandarina/naranja mandarina/CL:個|个,瓣
+橘子水 | TRADUÇÃO: refresco de naranja/naranjada/CL:瓶,杯,罐,盒
+橘子汁 | TRADUÇÃO: zumo de naranja/jugo de mandarina/CL:瓶,杯,罐,盒/véase también 橙汁
+橘子酱 | TRADUÇÃO: mermelada de mandarina o naranja
+橘柑 | TRADUÇÃO: mandarina/cítrico
+橘树 | TRADUÇÃO: mandarino/naranjo mandarino
+橘皮组织 | TRADUÇÃO: celulitis/piel de naranja
+橘红 | TRADUÇÃO: rojo anaranjado/cáscara de mandarina (usada en MTC)
+橘络 | TRADUÇÃO: hebras blancas de la mandarina/albedo
+橘色 | TRADUÇÃO: color naranja/color anaranjado
+橘里橘气 | TRADUÇÃO: con aire lésbico/que denota romance lésbico (acuñado hacia 2018)
+橘录 | TRADUÇÃO: Registro de los cítricos, tratado botánico del siglo XII por Han Yanzhi 韓彥直|韩彦直 durante la dinastía Song
+橘黄色 | TRADUÇÃO: amarillo anaranjado/color azafrán
+橙 | TRADUÇÃO: naranjo/naranja (color y fruta)
+橙剂 | TRADUÇÃO: agente naranja (herbicida)
+橙子 | TRADUÇÃO: naranja
+橙斑翅柳莺 | TRADUÇÃO: (ave) mosquitero pulcro (Phylloscopus pulcher)
+橙汁 | TRADUÇÃO: zumo de naranja/jugo de naranja/CL:瓶,杯,罐,盒
+橙皮 | TRADUÇÃO: cáscara de naranja/piel de naranja
+橙皮果酱 | TRADUÇÃO: mermelada de naranja amarga
+橙红色 | TRADUÇÃO: color rojo anaranjado/naranja oscuro
+橙翅噪鹛 | TRADUÇÃO: (ave) charlatán alirrojo (Trochalopteron elliotii)
+橙胸咬鹃 | TRADUÇÃO: (ave) surucuá pechinaranja (Harpactes oreskios)
+橙胸姬鹟 | TRADUÇÃO: (ave) papamoscas gorjirrufo (Ficedula strophiata)
+橙胸绿鸠 | TRADUÇÃO: (ave) vinago pechinaranja (Treron bicinctus)
+橙腹叶鹎 | TRADUÇÃO: (ave) lora de vientre naranja (Chloropsis hardwickii)
+橙色 | TRADUÇÃO: color naranja/color anaranjado
+橙色剂 | TRADUÇÃO: agente naranja (herbicida)
+橙色战剂 | TRADUÇÃO: agente naranja bélico (herbicida)
+橙头地鸫 | TRADUÇÃO: (ave) zorzal cabecinaranja (Geokichla citrina)
+橙黄 | TRADUÇÃO: amarillo anaranjado/ámbar
+橙黄色 | TRADUÇÃO: amarillo anaranjado/ámbar
+橚 | TRADUÇÃO: alto y recto (de árboles)
+橛 | TRADUÇÃO: estaca/poste bajo ‖ variante antigua de 橛
+机 | TRADUÇÃO: apellido Ji ‖ (forma ligada) máquina/mecanismo/(forma ligada) aeronave/avión/(forma ligada) oportunidad/(forma ligada) punto crucial/pivote/(forma ligada) ingenioso/flexible/(forma ligada) orgánico
+机不可失 | TRADUÇÃO: ¡no hay tiempo que perder! (modismo)/la oportunidad no se debe dejar pasar
+机不可失，失不再来 | TRADUÇÃO: la ocasión la pintan calva (modismo)/las oportunidades perdidas no vuelven
+机不可失，时不再来 | TRADUÇÃO: la ocasión perdida no se repite jamás (modismo)/aprovechar la oportunidad sin demora
+机不离手 | TRADUÇÃO: no soltar el teléfono móvil/estar pegado al celular
+机件 | TRADUÇÃO: pieza mecánica/componente de maquinaria
+机伶 | TRADUÇÃO: variante de 機靈|机灵
+机位 | TRADUÇÃO: posición de cámara/asiento de avión/reserva de vuelo/posición de estacionamiento de aeronave
+机制 | TRADUÇÃO: mecanismo ‖ elaborado a máquina/hecho a máquina
+机加酒 | TRADUÇÃO: paquete de vuelo más hotel (abrev. de 機票加酒店|机票加酒店)
+机动 | TRADUÇÃO: a motor/motorizado/mecánico/flexible/adaptable (horario, recursos, etc.)
+机动性 | TRADUÇÃO: flexibilidad/movilidad/maniobrabilidad
+机动车 | TRADUÇÃO: vehículo de motor/vehículo automotor
+机动车辆 | TRADUÇÃO: vehículos a motor/vehículos automotores
+机务段 | TRADUÇÃO: depósito de locomotoras
+机哩瓜拉 | TRADUÇÃO: (Taiwán) véase 嘰哩咕嚕|叽哩咕噜
+机器 | TRADUÇÃO: máquina/aparato/CL:臺|台,部,個|个
+机器人 | TRADUÇÃO: robot/androide
+机器人学 | TRADUÇÃO: robótica
+机器学习 | TRADUÇÃO: (inform.) aprendizaje automático/machine learning
+机器翻译 | TRADUÇÃO: traducción automática
+机器脚踏车 | TRADUÇÃO: (dialectal) motocicleta/ciclomotor/abrev. como 機車|机车
+机型 | TRADUÇÃO: modelo de máquina o aparato (p. ej. modelo de móvil, portátil, avión)
+机场 | TRADUÇÃO: aeropuerto/aeródromo/(jerga) proveedor de servicios proxy (tipo Shadowsocks) para eludir la censura/CL:家,處|处
+机场大厦 | TRADUÇÃO: terminal del aeropuerto
+机子 | TRADUÇÃO: aparato/dispositivo/máquina
+机宜 | TRADUÇÃO: pautas de acción según las circunstancias/oportunidad propicia
+机密 | TRADUÇÃO: secreto/confidencial/información clasificada
+机密性 | TRADUÇÃO: confidencialidad
+机密文件 | TRADUÇÃO: documento secreto/documento confidencial
+机尾 | TRADUÇÃO: cola de avión/parte trasera de aeronave
+机巧 | TRADUÇÃO: astuto/habilidoso/ingenioso
+机师 | TRADUÇÃO: (aviación) piloto/aviador/(maquinaria pesada) maquinista/operador
+机床 | TRADUÇÃO: máquina herramienta/torno/CL:張|张
+机库 | TRADUÇÃO: hangar (de aeronaves)
+机建费 | TRADUÇÃO: tasa de construcción de aeropuertos (abrev. de 機場建設費|机场建设费)
+机房 | TRADUÇÃO: sala de máquinas/sala de servidores/centro de datos
+机掰 | TRADUÇÃO: variante de 雞掰|鸡掰
+机敏 | TRADUÇÃO: agilidad mental/perspicacia/sagacidad
+机智 | TRADUÇÃO: avispado/ingenioso/de mente rápida y despierta
+机会 | TRADUÇÃO: oportunidad/ocasión/posibilidad/CL:個|个
+机会主义 | TRADUÇÃO: oportunismo/pragmatismo
+机会成本 | TRADUÇÃO: coste de oportunidad/costo de oportunidad
+机杼 | TRADUÇÃO: telar/(fig.) originalidad literaria
+机械 | TRADUÇÃO: máquina/maquinaria/mecánico/(antiguo) astuto/maquinador
+机械人 | TRADUÇÃO: (Hong Kong) robot
+机械化 | TRADUÇÃO: mecanizar/mecanización
+机械工 | TRADUÇÃO: mecánico/operario mecánico
+机械工人 | TRADUÇÃO: mecánico/trabajador mecánico
+机械工程 | TRADUÇÃO: ingeniería mecánica
+机械师 | TRADUÇÃO: mecánico/ingeniero mecánico/maquinista/CL:個|个,位
+机械性 | TRADUÇÃO: mecánico/naturaleza mecánica/rutinario
+机械战警 | TRADUÇÃO: RoboCop (película)
+机械硬盘 | TRADUÇÃO: (inform.) disco duro mecánico (HDD)
+机械码 | TRADUÇÃO: código máquina
+机械翻译 | TRADUÇÃO: traducción mecánica/traducción automática
+机械能 | TRADUÇÃO: energía mecánica
+机械臂 | TRADUÇÃO: brazo robótico/brazo mecánico
+机械语言 | TRADUÇÃO: lenguaje de máquina/lenguaje máquina
+机械表 | TRADUÇÃO: reloj mecánico
+机械钟 | TRADUÇÃO: reloj mecánico
+机构 | TRADUÇÃO: institución/organismo/organización/entidad/mecanismo/CL:所
+机枪 | TRADUÇÃO: ametralladora
+机壳 | TRADUÇÃO: carcasa/gabinete/caja protectora (de computadora, equipo, etc.)
+机油 | TRADUÇÃO: aceite de motor/aceite lubricante para máquinas
+机洗 | TRADUÇÃO: lavar a máquina/lavado a máquina
+机率 | TRADUÇÃO: (Taiwán) (mat.) probabilidad
+机理 | TRADUÇÃO: mecanismo (de una reacción, fenómeno, etc.)
+机甲 | TRADUÇÃO: mecha (robot gigante pilotado por humanos)
+机票 | TRADUÇÃO: billete de avión/boleto de avión/CL:張|张
+机箱 | TRADUÇÃO: caja de la computadora/torre del ordenador/gabinete de PC
+机组 | TRADUÇÃO: tripulación de vuelo (en avión)/grupo generador/unidad de maquinaria
+机缘 | TRADUÇÃO: oportunidad/coincidencia afortunada/destino
+机翻 | TRADUÇÃO: traducción automática (abrev. de 機器翻譯|机器翻译)
+机翼 | TRADUÇÃO: ala de avión/ala de aeronave
+机能 | TRADUÇÃO: función/facultad orgánica
+机舱 | TRADUÇÃO: cabina de avión/cabina de vuelo/sala de máquinas de un barco
+机要 | TRADUÇÃO: (atributivo) (de una persona) dedicado a asuntos confidenciales/(de información) secreto/confidencial
+机诈 | TRADUÇÃO: tramposo/astuto y engañoso/falso
+机谋 | TRADUÇÃO: estratagema/ardid/astucia
+机警 | TRADUÇÃO: perspicaz/alerta/avispado/vigilante
+机变 | TRADUÇÃO: improvisación/capacidad de adaptación/flexible/recursivo
+机踏车 | TRADUÇÃO: motocicleta (Taiwán)/ciclomotor/abrev. de 機器腳踏車|机器脚踏车
+机身 | TRADUÇÃO: fuselaje (de avión)/cuerpo de vehículo o máquina
+机车 | TRADUÇÃO: locomotora/(coloq.) motocicleta/(Taiwán) escúter/moto/(Taiwán) (jerga) difícil de tratar/molesto/insoportable/(Taiwán) ¡maldita sea!/¡caramba!
+机轴 | TRADUÇÃO: eje de máquina/árbol de transmisión
+机遇 | TRADUÇÃO: oportunidad propicia/coyuntura favorable/golpe de suerte
+机运 | TRADUÇÃO: suerte y oportunidad/fortuna favorable
+机长 | TRADUÇÃO: (aviación) comandante de vuelo/capitán de avión
+机关 | TRADUÇÃO: mecanismo/engranaje/accionado por mecanismo/órgano/organismo/institución oficial/agencia/departamento/estratagema/ardid/intriga/trampa
+机关报 | TRADUÇÃO: órgano de prensa oficial/periódico portavoz oficial
+机关布景 | TRADUÇÃO: tramoya mecánica (en teatro)
+机关枪 | TRADUÇÃO: ametralladora/también escrito 機槍|机枪
+机关炮 | TRADUÇÃO: cañón automático/ametralladora pesada
+机关算尽太聪明，反算了卿卿性命 | TRADUÇÃO: por ser demasiado calculador, uno termina cavando su propia tumba (célebre verso de "Sueño en el pabellón rojo" 紅樓夢|红楼梦)
+机关车 | TRADUÇÃO: locomotora
+机电 | TRADUÇÃO: electromecánico/maquinaria y equipos eléctricos
+机灵 | TRADUÇÃO: listo/avispado/despierto/ingenioso
+机灵鬼 | TRADUÇÃO: (festivo) personita lista/bicho listo/espabilado
+机顶盒 | TRADUÇÃO: decodificador/sintonizador de televisión/set-top box
+机头 | TRADUÇÃO: morro de avión/cabecera de máquina/cabezal
+机头座 | TRADUÇÃO: cabezal del torno/torreta de torno
+机体 | TRADUÇÃO: organismo (biología)/célula o estructura de aeronave (aeronáutica)
+橡 | TRADUÇÃO: roble/Quercus serrata
+橡子 | TRADUÇÃO: bellota
+橡子面 | TRADUÇÃO: harina de bellota
+橡子面儿 | TRADUÇÃO: variante erhua de 橡子麵|橡子面
+橡实 | TRADUÇÃO: bellota
+橡木 | TRADUÇÃO: madera de roble/roble
+橡树 | TRADUÇÃO: roble
+橡皮 | TRADUÇÃO: goma de borrar/caucho/CL:塊|块
+橡皮图章 | TRADUÇÃO: sello de goma/(fig.) sello de goma/aprobador automático
+橡皮擦 | TRADUÇÃO: goma de borrar/borrador/CL:塊|块
+橡皮泥 | TRADUÇÃO: plastilina
+橡皮球 | TRADUÇÃO: pelota de goma
+橡皮筋 | TRADUÇÃO: goma elástica/banda elástica
+橡皮线 | TRADUÇÃO: cable recubierto de goma
+橡皮膏 | TRADUÇÃO: esparadrapo/tirita/apósito adhesivo
+橡皮艇 | TRADUÇÃO: lancha neumática/bote de goma
+橡胶 | TRADUÇÃO: caucho/hule
+橡胶树 | TRADUÇÃO: árbol del caucho/hevea
+椭 | TRADUÇÃO: elipse
+椭圆 | TRADUÇÃO: óvalo/elipse/elíptico
+椭圆函数 | TRADUÇÃO: (mat.) función elíptica
+椭圆形 | TRADUÇÃO: ovalado/elíptico
+椭圆形办公室 | TRADUÇÃO: Despacho Oval
+椭圆曲线 | TRADUÇÃO: (mat.) curva elíptica
+椭圆机 | TRADUÇÃO: bicicleta elíptica/máquina elíptica (ejercicio)
+椭圆积分 | TRADUÇÃO: (mat.) integral elíptica
+椭球 | TRADUÇÃO: (mat.) elipsoide
+蕊 | TRADUÇÃO: variante de 蕊 ‖ estambre/pistilo ‖ variante de 蕊 ‖ variante de 蕊
+橧 | TRADUÇÃO: choza sobre pilotes de madera
+横 | TRADUÇÃO: horizontal/a través de/transversal/trazo horizontal (en caracteres chinos)/colocar en horizontal/cruzar (un río, etc.)/desordenado/caótico/(en locuciones fijas) violento/tiránico e irracional ‖ arrogante y tiránico/inesperado/imprevisto
+横七竖八 | TRADUÇÃO: en desorden/en completo desbarajuste (modismo)/revuelto
+横三竖四 | TRADUÇÃO: en desorden/hecho un gran lío
+横刀夺爱 | TRADUÇÃO: quitarle a alguien a su ser amado (modismo)/arrebatar el amor de otro
+横切 | TRADUÇÃO: cortar transversalmente/corte transversal
+横剖面 | TRADUÇÃO: sección horizontal/corte transversal
+横加 | TRADUÇÃO: arbitrariamente/violentamente/de forma descarada
+横加指责 | TRADUÇÃO: censurar sin escrúpulos/atacar con acusaciones infundadas
+横匾 | TRADUÇÃO: cartel horizontal con inscripción
+横向 | TRADUÇÃO: horizontal/lateral/transversal
+横吹 | TRADUÇÃO: música militar para instrumentos de viento tocada a caballo en la época Han/flauta traversa/tocar dicha flauta
+横尸遍野 | TRADUÇÃO: cadáveres esparcidos por doquier en el campo (típico tras una batalla)
+横山 | TRADUÇÃO: Hengshan (diversos topónimos)/Yokoyama (apellido japonés)
+横山区 | TRADUÇÃO: Hengshan, distrito de la ciudad de Yulin 榆林市, Shaanxi
+横山乡 | TRADUÇÃO: municipio de Hengshan en el condado de Hsinchu 新竹縣|新竹县, noroeste de Taiwán
+横峰 | TRADUÇÃO: véase 橫峰縣|横峰县
+横峰县 | TRADUÇÃO: Hengfeng, condado en la ciudad de Shangrao 上饒市|上饶市, Jiangxi
+横州 | TRADUÇÃO: véase 橫州市|横州市
+横州市 | TRADUÇÃO: Hengzhou, ciudad-condado en la ciudad de Nanning 南寧市|南宁市, Guangxi
+横幅 | TRADUÇÃO: pancarta horizontal/rollo horizontal/estandarte
+横幅标语 | TRADUÇÃO: pancarta con eslogan
+横坐标 | TRADUÇÃO: coordenada horizontal/abscisa
+横征暴敛 | TRADUÇÃO: imponer tributos abusivos y extorsivos (modismo)/exprimir al pueblo con impuestos tiránicos
+横心 | TRADUÇÃO: armarse de valor/tomar una decisión resuelta/hacer de tripas corazón
+横截 | TRADUÇÃO: cortar transversalmente/transversal
+横截线 | TRADUÇÃO: línea transversal/secante
+横截面 | TRADUÇÃO: sección transversal/corte transversal
+横批 | TRADUÇÃO: lema horizontal (en coplas de primavera)
+横折 | TRADUÇÃO: trazo en ángulo recto que empieza horizontal (en caracteres chinos)
+横拍 | TRADUÇÃO: (tenis de mesa) empuñadura clásica/agarre occidental (shakehand)
+横挑鼻子竖挑眼 | TRADUÇÃO: buscarle tres pies al gato (modismo)/criticarlo todo de forma quisquillosa
+横振动 | TRADUÇÃO: vibración transversal
+横扫 | TRADUÇÃO: barrer con todo/arrasar a su paso
+横扫千军 | TRADUÇÃO: aniquilar a miles de tropas enemigas/barrer con todos los rivales
+横排 | TRADUÇÃO: composición horizontal (imprenta/texto)
+横摇 | TRADUÇÃO: balanceo lateral (de un barco)/rolido
+横摺 | TRADUÇÃO: pliegue horizontal/doblez transversal
+横斑林莺 | TRADUÇÃO: (ave) curruca gavilana (Curruca nisoria)
+横斑腹小鸮 | TRADUÇÃO: (ave) mochuelo brahmán (Athene brama)
+横斜 | TRADUÇÃO: oblicuo/inclinado/entrecruzado
+横斜钩 | TRADUÇÃO: trazo ⺄ en caracteres chinos
+横断 | TRADUÇÃO: cruzar (una calle, un océano, etc.)/atravesar transversalmente
+横断山脉 | TRADUÇÃO: montañas Hengduan (cordilleras paralelas en la frontera entre Yunnan, Sichuan y Tíbet)
+横断步道 | TRADUÇÃO: paso de peatones/senda peatonal transversal
+横断物 | TRADUÇÃO: obstáculo transversal/objeto atravesado
+横断面 | TRADUÇÃO: sección transversal/perfil horizontal
+横是 | TRADUÇÃO: probablemente/lo más seguro
+横暴 | TRADUÇÃO: tiránico/brutal/violento
+横木 | TRADUÇÃO: viga horizontal/travesaño de madera/bancada
+横梁 | TRADUÇÃO: travesaño/viga transversal
+横楣 | TRADUÇÃO: dintel (de puerta o ventana)
+横楣子 | TRADUÇÃO: dintel
+横杠 | TRADUÇÃO: barra horizontal/travesaño
+横标 | TRADUÇÃO: pancarta horizontal/anuncio publicitario horizontal
+横步 | TRADUÇÃO: paso lateral (en baile)
+横死 | TRADUÇÃO: morir violentamente/muerte violenta y repentina
+横波 | TRADUÇÃO: onda transversal
+横流 | TRADUÇÃO: desbordarse/flujo transversal/corriente cruzada
+横渡 | TRADUÇÃO: cruzar a nado o en barco (un río, mar o lago)/atravesar
+横溢 | TRADUÇÃO: desbordar/rebosar de (talento, etc.)
+横滨 | TRADUÇÃO: Yokohama (ciudad de Japón)
+横生 | TRADUÇÃO: proliferar/crecer desordenadamente/surgir inesperadamente
+横生枝节 | TRADUÇÃO: complicar deliberadamente un asunto (modismo)/poner trabas imprevistas
+横直 | TRADUÇÃO: (coloquial) de todos modos/pase lo que pase
+横眉 | TRADUÇÃO: fruncir el ceño/ceño fruncido
+横眉冷对千夫指 | TRADUÇÃO: encarar con ceño adusto el dedo acusador de miles (cita célebre de Lu Xun)/desafiar con orgullo el reproche general
+横眉怒目 | TRADUÇÃO: (lit.) ceño fruncido y mirada furiosa (modismo)/lanzar miradas de odio y rabia
+横眉立目 | TRADUÇÃO: fruncir el ceño y mirar fijamente con furia/desafiar con la mirada
+横眉竖眼 | TRADUÇÃO: poner cara de furia/mirar ferozmente
+横眼 | TRADUÇÃO: mirar de reojo/mirar de soslayo
+横神经 | TRADUÇÃO: comisura transversal
+横祸 | TRADUÇÃO: calamidad inesperada/desgracia imprevista
+横棱纹 | TRADUÇÃO: motivo de rayas transversales
+横空 | TRADUÇÃO: cruzar el cielo/extenderse por los aires
+横空出世 | TRADUÇÃO: (modismo) irrumpir espectacularmente en escena/surgir de la nada con gran éxito
+横穿 | TRADUÇÃO: cruzar/atravesar transversalmente
+横笔 | TRADUÇÃO: pincelada horizontal (en pintura tradicional)
+横筋斗 | TRADUÇÃO: voltereta lateral/rueda (gimnasia)
+横纹 | TRADUÇÃO: raya horizontal/estría transversal
+横纹肌 | TRADUÇÃO: músculo estriado
+横结肠 | TRADUÇÃO: colon transverso (anatomía)
+横纲 | TRADUÇÃO: yokozuna (máximo rango en sumo)
+横线 | TRADUÇÃO: línea horizontal/(mat.) eje horizontal
+横翻筋斗 | TRADUÇÃO: hacer volteretas laterales/hacer la rueda
+横肉 | TRADUÇÃO: carnes abultadas y de aspecto feroz/rostro agresivo
+横膈 | TRADUÇÃO: diafragma
+横膈膜 | TRADUÇÃO: diafragma (anatomía)
+横卧 | TRADUÇÃO: recostarse/yacer horizontalmente
+横蛮 | TRADUÇÃO: véase 蠻橫|蛮横
+横行 | TRADUÇÃO: campar a sus anchas/hacer estragos/andar desbocado
+横行霸道 | TRADUÇÃO: actuar de forma tiránica e insolente (modismo)/tiranizar y oprimir
+横街 | TRADUÇÃO: calle transversal/callejón que cruza la calle principal
+横冲直撞 | TRADUÇÃO: (modismo) abrirse paso a empujones/embestir en todas direcciones/arremeter ciegamente
+横说竖说 | TRADUÇÃO: explicar una y otra vez/insistir de mil maneras
+横竖 | TRADUÇÃO: de todos modos/en cualquier caso/al fin y al cabo
+横竖劲儿 | TRADUÇÃO: firmeza inquebrantable/determinación tenaz

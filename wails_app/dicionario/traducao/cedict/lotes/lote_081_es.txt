@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+窑洞 | TRADUÇÃO: yaodong (tipo de vivienda cueva en la meseta de Loes en el noroeste de China)/CL:孔
+窑场 | TRADUÇÃO: hornos de porcelana bajo administración imperial (dinastía Yuan)
+窳 | TRADUÇÃO: defectuoso/inútil/débil/de mala calidad
+窳败 | TRADUÇÃO: arruinar/corromper/deteriorar
+窴 | TRADUÇÃO: rellenar/tapar
+窎 | TRADUÇÃO: (literario) distante/profundo/lejano
+窭 | TRADUÇÃO: pobre/rústico
+窸 | TRADUÇÃO: usado en 窸窣
+窸窣 | TRADUÇÃO: (onomat.) crujido/susurro/ruido sordo y leve
+窥 | TRADUÇÃO: espiar/atisbar/mirar a hurtadillas ‖ variante de 窺|窥
+窥伺 | TRADUÇÃO: espiar/acechar/estar al acecho
+窥探 | TRADUÇÃO: fisgonear/espiar/curiosear/atisbar/echar un vistazo
+窥望 | TRADUÇÃO: atisbar/espiar/mirar a hurtadillas
+窥知 | TRADUÇÃO: percatarse/descubrir/averiguar
+窥见 | TRADUÇÃO: vislumbrar/entrever/atisbar
+窥视 | TRADUÇÃO: atisbar/espiar/mirar disimuladamente
+窥豹 | TRADUÇÃO: (lit.) ver una sola mancha del leopardo/(fig.) visión parcial/vista limitada
+窥豹一斑 | TRADUÇÃO: (lit.) ver una mancha de un leopardo (modismo)/(fig.) tener una visión parcial/juzgar el todo por una parte
+窾 | TRADUÇÃO: ocultar/esconder ‖ grieta/hueco/cavidad/excavar/ahuecar/(onomat.) sonido del agua golpeando las rocas/(antiguo) variante de 款
+窿 | TRADUÇÃO: cavidad/agujero/fosa
+竁 | TRADUÇÃO: cavar un hoyo/excavar
+竃 | TRADUÇÃO: variante antigua de 灶
+窜 | TRADUÇÃO: huir/escapar a toda prisa/desterrar/exiliar/alterar/modificar (un texto)
+窜升 | TRADUÇÃO: subir rápidamente/dispararse/ascender vertiginosamente
+窜扰 | TRADUÇÃO: invadir y hostigar/hacer incursiones y acosar
+窜改 | TRADUÇÃO: alterar indebidamente/adulterar/modificar/falsificar
+窜犯 | TRADUÇÃO: asaltar/hacer incursiones (enemigos o bandidos)/incursión armada
+窜稀 | TRADUÇÃO: (coloq.) tener diarrea/irise por la pata abajo
+窜红 | TRADUÇÃO: volverse popular de repente/hacerse famoso de la noche a la mañana
+窜访 | TRADUÇÃO: (despect.) (de una figura destacada) realizar una visita no autorizada o no deseada (usado políticamente)
+窜踞 | TRADUÇÃO: huir en desorden y atrincherarse en un lugar
+窜逃 | TRADUÇÃO: huir a la desbandada/escapar a toda prisa
+窍 | TRADUÇÃO: orificio/abertura/cavidad del cuerpo humano/(fig.) clave/truco (para resolver algo)
+窍门 | TRADUÇÃO: truco/método ingenioso/habilidad/el secreto (de cómo hacer algo)
+窍门儿 | TRADUÇÃO: truco/método ingenioso/secreto (de un oficio)
+窦 | TRADUÇÃO: apellido Dou ‖ (literario) agujero/abertura/(anatomía) cavidad/seno
+窦娥冤 | TRADUÇÃO: La injusticia cometida contra Dou E (famosa obra dramática de Guan Hanqing 關漢卿|关汉卿)
+窦性心律 | TRADUÇÃO: (med.) ritmo sinusal
+窦房结 | TRADUÇÃO: (anatomía) nódulo sinoauricular/nodo sinusal
+窦窖 | TRADUÇÃO: sótano/cripta/bodega subterránea
+窦道 | TRADUÇÃO: seno (anatomía)/fístula/pasaje subterráneo
+窃 | TRADUÇÃO: robar/en secreto/a escondidas/(humilde) yo
+窃取 | TRADUÇÃO: robar/sustraer/apropiarse indebidamente (de información, secretos, etc.)
+窃喜 | TRADUÇÃO: alegrarse en secreto/regocijarse para sus adentros
+窃国者侯，窃钩者诛 | TRADUÇÃO: quien roba un país es nombrado marqués, quien roba una hebilla es ejecutado (modismo, del clásico taoísta Zhuangzi 莊子|庄子)
+窃嫌 | TRADUÇÃO: presunto ladrón/sospechoso de robo (Taiwán)
+窃密 | TRADUÇÃO: robar secretos/sustraer información confidencial
+窃据 | TRADUÇÃO: usurpar/apropiarse indebidamente/adueñarse ilegalmente
+窃权 | TRADUÇÃO: usurpar el poder
+窃盗 | TRADUÇÃO: robo/hurto/robar/hurtar
+窃窃 | TRADUÇÃO: en secreto/en voz baja/disimuladamente
+窃窃私语 | TRADUÇÃO: (modismo) cuchichear/susurrar en secreto
+窃笑 | TRADUÇÃO: reírse disimuladamente/reírse por lo bajo/sonreír maliciosamente
+窃声 | TRADUÇÃO: en un susurro/en voz baja
+窃听 | TRADUÇÃO: espiar conversaciones/escuchar a escondidas/interceptar comunicaciones
+窃听器 | TRADUÇÃO: dispositivo de escucha/micrófono oculto/pinchadiscos
+窃蛋龙 | TRADUÇÃO: ovirráptor (dinosaurio oviraptórido)
+窃贼 | TRADUÇÃO: ladrón
+窃钩者诛，窃国者侯 | TRADUÇÃO: quien roba una hebilla es ejecutado, quien roba un país es nombrado marqués (modismo, del clásico taoísta Zhuangzi 莊子|庄子)
+立 | TRADUÇÃO: apellido Li ‖ ponerse de pie/estar de pie/erigir/establecer/fundar/redactar/de inmediato/enseguida
+立下 | TRADUÇÃO: establecer/fundar/fijar/instituir
+立交 | TRADUÇÃO: abrev. de 立體交叉|立体交叉 paso a desnivel/intercambiador vial
+立交桥 | TRADUÇÃO: paso a desnivel/puente elevado/paso superior
+立传 | TRADUÇÃO: escribir una biografía
+立像 | TRADUÇÃO: estatua de pie (de Buda o santos)/imagen de cuerpo entero en pie
+立克次体 | TRADUÇÃO: rickettsia (género de bacterias parásitas intracelulares)
+立冬 | TRADUÇÃO: Lidong o Inicio del Invierno, 19.º de los 24 términos solares 二十四節氣|二十四节气 (7-21 de noviembre)
+立刀旁 | TRADUÇÃO: nombre del radical lateral de cuchillo 刂 en caracteres chinos (radical Kangxi 18)
+立刻 | TRADUÇÃO: de inmediato/inmediatamente/en el acto/al instante
+立功 | TRADUÇÃO: prestar servicios meritorios/hacer contribuciones meritorias/distinguirse por sus méritos
+立功赎罪 | TRADUÇÃO: expiar las culpas mediante méritos/redimirse con buenas acciones
+立即 | TRADUÇÃO: inmediatamente/enseguida/al instante
+立可白 | TRADUÇÃO: corrector líquido (Taiwán)
+立国 | TRADUÇÃO: fundar un país/establecer un Estado
+立地成佛 | TRADUÇÃO: convertirse en Buda en el acto (modismo); redención instantánea/arrepentirse y alcanzar la salvación
+立场 | TRADUÇÃO: postura/posición/punto de vista/CL:個|个
+立夏 | TRADUÇÃO: Lixia o Inicio del Verano, 7.º de los 24 términos solares 二十四節氣|二十四节气 (5-20 de mayo)
+立委 | TRADUÇÃO: (Taiwán) legislador (abrev. de 立法委員|立法委员)
+立委选举 | TRADUÇÃO: elecciones legislativas
+立威 | TRADUÇÃO: asentar la autoridad/imponer respeto
+立定 | TRADUÇÃO: detenerse/hacer alto/¡alto!/mantenerse firme (en una postura, aspiración, etc.)
+立定跳远 | TRADUÇÃO: salto de longitud sin impulso/salto de longitud de pie
+立山 | TRADUÇÃO: véase 立山區|立山区
+立山区 | TRADUÇÃO: Lishan, distrito de la ciudad de Anshan 鞍山市, Liaoning
+立式 | TRADUÇÃO: vertical/de pie/de columna (equipo o aparato)/(acción) realizada de pie
+立德 | TRADUÇÃO: distinguirse por la virtud (uno de los tres logros imperecederos 三不朽)
+立志 | TRADUÇÃO: proponerse/decidirse/estar determinado a
+立意 | TRADUÇÃO: concebir la idea central/concepto principal/estar resuelto a
+立宪 | TRADUÇÃO: establecer una constitución/constitucionalismo
+立方 | TRADUÇÃO: cubo (mat.)/cúbico/abrev. de 立方體|立方体/abrev. de 立方米 metro cúbico
+立方公尺 | TRADUÇÃO: (Taiwán) metro cúbico (m³)
+立方根 | TRADUÇÃO: raíz cúbica (mat.)
+立方米 | TRADUÇÃO: metro cúbico (m³)
+立方厘米 | TRADUÇÃO: centímetro cúbico (cm³)
+立方体 | TRADUÇÃO: cubo/cuerpo cúbico
+立春 | TRADUÇÃO: Lichun o Inicio de la Primavera, 1.º de los 24 términos solares 二十四節氣|二十四节气 (4-18 de febrero)
+立时 | TRADUÇÃO: de inmediato/enseguida/al punto
+立案 | TRADUÇÃO: registrar formalmente (en un organismo oficial)/iniciar un expediente/abrir una causa penal
+立案侦查 | TRADUÇÃO: abrir una investigación formal/iniciar indagaciones judiciales
+立正 | TRADUÇÃO: ponerse firme/¡firmes! (orden militar)
+立氏立克次体 | TRADUÇÃO: Rickettsia rickettsii
+立法 | TRADUÇÃO: promulgar leyes/legislar/legislación
+立法委员 | TRADUÇÃO: legislador del Yuan Legislativo (Taiwán)
+立法委员会 | TRADUÇÃO: comisión legislativa/comité legislativo
+立法会 | TRADUÇÃO: Consejo Legislativo/LegCo (Hong Kong)
+立法机关 | TRADUÇÃO: órgano legislativo/poder legislativo
+立法院 | TRADUÇÃO: Yuan Legislativo (cámara legislativa de la República de China, Taiwán)
+立百病毒 | TRADUÇÃO: virus Nipah
+立直 | TRADUÇÃO: riichi (en mahjong japonés, declaración de mano cerrada a una ficha de ganar)
+立秋 | TRADUÇÃO: Liqiu o Inicio del Otoño, 13.º de los 24 términos solares 二十四節氣|二十四节气 (7-22 de agosto)
+立竿见影 | TRADUÇÃO: (lit.) plantar un poste y ver su sombra al instante (modismo)/(fig.) surtir efecto inmediato/dar resultados instantáneos
+立筊 | TRADUÇÃO: (religión popular) resultado de adivinación con bloques lunares 筊杯 en el que al menos uno queda de canto (interpretado como excepcional o incierto)
+立约 | TRADUÇÃO: celebrar un contrato/firmar un acuerdo
+立绒 | TRADUÇÃO: terciopelo/pana
+立卧撑跳 | TRADUÇÃO: burpee
+立蛋 | TRADUÇÃO: equilibrar un huevo (poner de pie un huevo sobre su base, popular en Lichun 立春)
+立言 | TRADUÇÃO: exponer doctrinas perdurables/distinguirse por sus escritos filosóficos o morales (uno de los tres logros imperecederos 三不朽)
+立论 | TRADUÇÃO: exponer una tesis/argumentar/línea de argumentación/tesis
+立足 | TRADUÇÃO: afianzarse/hacer pie/establecerse/basarse en
+立足点 | TRADUÇÃO: punto de apoyo/base/fundamento
+立身 | TRADUÇÃO: erguirse/establecerse en la sociedad/comportarse con integridad moral
+立身处世 | TRADUÇÃO: (modismo) conducirse en la sociedad/comportamiento social
+立军功 | TRADUÇÃO: realizar méritos militares/distinguirse en el campo de batalla
+立轴 | TRADUÇÃO: rollo vertical (pintura o caligrafía)/eje vertical (mecánica)
+立院 | TRADUÇÃO: (Taiwán) Yuan Legislativo (abrev. de 立法院)
+立陶宛 | TRADUÇÃO: Lituania
+立陶宛人 | TRADUÇÃO: lituano (persona)
+立面图 | TRADUÇÃO: plano de alzado (arquitectura)/vista frontal
+立项 | TRADUÇÃO: aprobar un proyecto/iniciar formalmente un proyecto
+立顿 | TRADUÇÃO: Lipton (marca de té)
+立马 | TRADUÇÃO: de inmediato/enseguida/al instante
+立体 | TRADUÇÃO: tridimensional/en 3D/estereoscópico/sólido
+立体交叉 | TRADUÇÃO: intersección a distinto nivel/paso a desnivel
+立体图 | TRADUÇÃO: figura tridimensional/estereograma/holograma
+立体几何 | TRADUÇÃO: geometría espacial/geometría de los sólidos
+立体摄像机 | TRADUÇÃO: cámara estereoscópica/cámara 3D
+立体书 | TRADUÇÃO: libro desplegable/libro pop-up
+立体派 | TRADUÇÃO: cubismo
+立体照片 | TRADUÇÃO: foto tridimensional/fotografía estereoscópica
+立体异构 | TRADUÇÃO: estereoisomería (quím.)
+立体异构体 | TRADUÇÃO: estereoisómero (quím.)
+立体声 | TRADUÇÃO: sonido estereofónico/estéreo
+立体角 | TRADUÇÃO: ángulo sólido
+立体电影院 | TRADUÇÃO: cine 3D/cine estereoscópico
+立鱼 | TRADUÇÃO: tilapia/sargo
+竑 | TRADUÇÃO: amplio/estimar/evaluar
+站 | TRADUÇÃO: estación/parada/estar de pie/ponerse de pie/detenerse/sucursal/sitio web
+站不住脚 | TRADUÇÃO: insostenible/carente de fundamento/injustificable
+站住 | TRADUÇÃO: detenerse/hacer alto/mantenerse firme/(fig.) sostenerse/ser defendible (un argumento)
+站前 | TRADUÇÃO: véase 站前區|站前区
+站前区 | TRADUÇÃO: Zhanqian, distrito de la ciudad de Yingkou 營口市|营口市, Liaoning
+站员 | TRADUÇÃO: empleado de estación (tren o autobús)
+站地 | TRADUÇÃO: parada (de autobús o tren)
+站姿 | TRADUÇÃO: postura de pie/posición erguida
+站岗 | TRADUÇÃO: hacer guardia/estar de centinela
+站牌 | TRADUÇÃO: cartel de parada de autobús/letrero de estación
+站稳 | TRADUÇÃO: afirmarse/mantenerse firme en pie
+站稳脚步 | TRADUÇÃO: afirmarse/ganar una posición sólida/(fig.) consolidarse
+站稳脚跟 | TRADUÇÃO: consolidar su posición/hacer pie sólidamente/afianzarse
+站立 | TRADUÇÃO: estar de pie/ponerse de pie/erguido
+站台 | TRADUÇÃO: andén (ferrocarril)/(Taiwán) apoyar públicamente en campaña electoral a un candidato/(Taiwán) (antiguo) sitio web
+站着说话不腰疼 | TRADUÇÃO: (dicho) es muy fácil hablar cuando no le duele a uno la espalda/(fig.) opinar con ligereza sin sufrir el trabajo o las consecuencias
+站街 | TRADUÇÃO: hacer la calle (prostitución)
+站街女 | TRADUÇÃO: prostituta callejera
+站起 | TRADUÇÃO: levantarse/alzarse/ponerse de pie (especialmente animales en dos patas)
+站起来 | TRADUÇÃO: ponerse de pie/levantarse/erguirse
+站军姿 | TRADUÇÃO: mantener la posición de firmes militar
+站长 | TRADUÇÃO: jefe de estación 車站|车站/administrador de sitio web 網站|网站/director de centro de voluntarios 志工站
+站队 | TRADUÇÃO: ponerse en fila/hacer cola/(fig.) tomar partido/alinearse con un bando
+站点 | TRADUÇÃO: parada/estación/punto de servicio (peaje, alquiler, meteorológico)/(internet) sitio (web, FTP, etc.)
+竟 | TRADUÇÃO: inesperadamente/al final/llegar al punto de/de hecho
+竟敢 | TRADUÇÃO: atreverse a/tener la audacia de/tener el descaro de
+竟日 | TRADUÇÃO: (literario) todo el día/el día entero
+竟然 | TRADUÇÃO: inesperadamente/para sorpresa de todos/a pesar de todo/increíblemente
+竟陵 | TRADUÇÃO: Jingling, antiguo nombre de Tianmen 天門|天门, Hubei
+章 | TRADUÇÃO: apellido Zhang ‖ capítulo/sección/artículo/movimiento (de una sinfonía)/sello/insignia/reglamento/orden
+章丘 | TRADUÇÃO: véase 章丘區|章丘区
+章丘区 | TRADUÇÃO: Zhangqiu, distrito de la ciudad de Jinan 濟南市|济南市, Shandong
+章则 | TRADUÇÃO: regla/estatuto/reglamento
+章回小说 | TRADUÇÃO: novela capitulada (formato clásico de novelas extensas a partir de la dinastía Ming, encabezadas por dísticos)
+章士钊 | TRADUÇÃO: Zhang Shizhao (1881-1973), periodista revolucionario y escritor
+章太炎 | TRADUÇÃO: Zhang Taiyan (1869-1936), erudito, filólogo y revolucionario chino
+章子 | TRADUÇÃO: sello/cuño/estampilla
+章子怡 | TRADUÇÃO: Zhang Ziyi (1979-), célebre actriz china
+章炳麟 | TRADUÇÃO: Zhang Binglin (conocido como Zhang Taiyan 章太炎, 1869-1936), erudito y revolucionario
+章甫荐履 | TRADUÇÃO: sombrero ceremonial colocado bajo la sandalia de paja (modismo); todo patas arriba/inversión del orden natural
+章程 | TRADUÇÃO: estatutos/reglamentos/constitución/carta orgánica/artículos de asociación
+章节 | TRADUÇÃO: capítulo/sección
+章台 | TRADUÇÃO: calle en la antigua Chang'an sinónimo de barrio rojo o zona de prostíbulos
+章贡 | TRADUÇÃO: véase 章貢區|章贡区
+章贡区 | TRADUÇÃO: Zhanggong, distrito de la ciudad de Ganzhou 贛州市|赣州市, Jiangxi
+章鱼 | TRADUÇÃO: pulpo
+章鱼小丸子 | TRADUÇÃO: takoyaki (bolitas de pulpo, aperitivo japonés)
+章鱼烧 | TRADUÇÃO: takoyaki (bolitas japonesas de pulpo)
+竡 | TRADUÇÃO: hectolitro (antiguo)
+竣 | TRADUÇÃO: completar/finalizar/terminar
+竣工 | TRADUÇÃO: concluir una obra/completar una construcción
+童 | TRADUÇÃO: apellido Tong ‖ niño/infantil
+童乩 | TRADUÇÃO: véase 乩童
+童便 | TRADUÇÃO: orina de niños varones menores de 12 años usada como medicina tradicional china (MTC)
+童儿 | TRADUÇÃO: niño/muchacho
+童叟无欺 | TRADUÇÃO: sin engañar ni a ancianos ni a niños (modismo); comercio honesto e intachable/trato justo a todos los clientes
+童女 | TRADUÇÃO: virgen/niña doncella
+童婚 | TRADUÇÃO: matrimonio infantil
+童子 | TRADUÇÃO: (literario) niño/muchacho/paje
+童子尿 | TRADUÇÃO: orina de niños varones menores de 12 años usada en MTC
+童子军 | TRADUÇÃO: exploradores (scouts) ‖ niños soldado/milicia infantil
+童山濯濯 | TRADUÇÃO: colina pelada sin vegetación/(fig.) cabeza calva
+童工 | TRADUÇÃO: trabajo infantil/menor trabajador
+童年 | TRADUÇÃO: infancia/niñez
+童床 | TRADUÇÃO: cuna/cama infantil
+童心 | TRADUÇÃO: corazón infantil/inocencia de niño
+童心未泯 | TRADUÇÃO: (modismo) conservar el alma o corazón de niño/mantener el espíritu juguetón
+童星 | TRADUÇÃO: estrella infantil/actor infantil
+童模 | TRADUÇÃO: modelo infantil
+童玩 | TRADUÇÃO: (Taiwán) juguete tradicional artesanal (como peonza, tangram, etc.)
+童生 | TRADUÇÃO: candidato que aún no aprobaba los exámenes imperiales a nivel de condado
+童男 | TRADUÇÃO: varón virgen/doncel
+童真 | TRADUÇÃO: inocencia infantil/candor
+童稚 | TRADUÇÃO: niño pequeño/infantil/ingenuo
+童花头 | TRADUÇÃO: corte de pelo estilo paje/corte bob infantil
+童蒙 | TRADUÇÃO: infancia ignorante/niños sin escolarizar/infante
+童装 | TRADUÇÃO: ropa infantil/prendas para niños
+童言无忌 | TRADUÇÃO: las palabras de los niños no ofenden (modismo)/inocencia infantil en el hablar
+童话 | TRADUÇÃO: cuento de hadas/cuento infantil
+童话故事 | TRADUÇÃO: cuento de hadas/relato infantil
+童谣 | TRADUÇÃO: canción infantil/rima infantil
+童贞 | TRADUÇÃO: virginidad/pureza/castidad
+童趣 | TRADUÇÃO: encanto infantil/gracia o diversión para niños
+童身 | TRADUÇÃO: cuerpo virgen/virginidad
+童军 | TRADUÇÃO: scout (organización juvenil)/véase también 童子軍|童子军
+童养媳 | TRADUÇÃO: novia infantil/niña adoptada en una familia como futura nuera
+童养媳妇 | TRADUÇÃO: novia infantil/hija de crianza como futura nuera
+竦 | TRADUÇÃO: respetuoso/aterrorizado/alzarse de hombros/ponerse de puntillas
+竦然 | TRADUÇÃO: variante de 悚然
+竖 | TRADUÇÃO: variante de 豎|竖 ‖ erigir/vertical/trazo vertical (en caracteres chinos)
+竭 | TRADUÇÃO: agotar/consumir totalmente/hacer el máximo esfuerzo
+竭力 | TRADUÇÃO: hacer todo lo posible/esforzarse al máximo
+竭心 | TRADUÇÃO: entregarse de todo corazón/hacer el mayor esfuerzo
+竭泽而渔 | TRADUÇÃO: (lit.) secar el estanque para atrapar los peces (modismo)/(fig.) matar la gallina de los huevos de oro/arruinar los recursos por un beneficio inmediato
+竭尽 | TRADUÇÃO: agotar/consumir por completo
+竭尽全力 | TRADUÇÃO: (modismo) darlo todo/esforzarse con todas las fuerzas/no escatimar esfuerzos
+竭诚 | TRADUÇÃO: de todo corazón/con total sinceridad
+端 | TRADUÇÃO: (forma ligada) extremo/punta/(forma ligada) aspecto/faceta/(forma ligada) recto/honesto/sostener horizontalmente con ambas manos/llevar/eliminar/erradicar ‖ variante antigua de 端/inicio/origen
+端上 | TRADUÇÃO: servir (comida, té, etc.)/llevar a la mesa
+端五 | TRADUÇÃO: variante de 端午
+端倪 | TRADUÇÃO: indicio/pista/comienzo/deducir pistas
+端到端 | TRADUÇÃO: de extremo a extremo/punto a punto
+端到端加密 | TRADUÇÃO: cifrado de extremo a extremo
+端午 | TRADUÇÃO: véase 端午節|端午节
+端午节 | TRADUÇÃO: Fiesta del Barco del Dragón (el 5.º día del 5.º mes lunar)
+端口 | TRADUÇÃO: puerto/interfaz
+端坐 | TRADUÇÃO: sentarse erguido/sentarse con compostura
+端子 | TRADUÇÃO: terminal (electrónica)/borne
+端尿 | TRADUÇÃO: ayudar a un niño o enfermo a orinar
+端屎 | TRADUÇÃO: ayudar a un niño o enfermo a defecar
+端州 | TRADUÇÃO: véase 端州區|端州区
+端州区 | TRADUÇÃO: Duanzhou, distrito de la ciudad de Zhaoqing 肇慶市|肇庆市, Guangdong
+端方 | TRADUÇÃO: recto/honrado/correcto
+端木 | TRADUÇÃO: apellido de dos caracteres Duanmu
+端木赐 | TRADUÇÃO: Duanmu Ci (520 a. C.-446 a. C.), discípulo de Confucio, también conocido como Zi Gong 子貢|子贡
+端架子 | TRADUÇÃO: darse aires de grandeza/mostrarse arrogante
+端正 | TRADUÇÃO: recto/regular/correcto/decente
+端然 | TRADUÇÃO: erguido/dignamente/finalmente/inesperadamente
+端的 | TRADUÇÃO: en verdad/después de todo/detalles/pormenores
+端看 | TRADUÇÃO: depender de/mirar desde una perspectiva
+端砚 | TRADUÇÃO: piedra de entintar de Duan (de alta calidad, fabricada en Duanxi, Guangdong)
+端站 | TRADUÇÃO: estación terminal/estación de cabecera
+端粒 | TRADUÇÃO: telómero (capuchón de ADN protector de un cromosoma)
+端粒酶 | TRADUÇÃO: telomerasa
+端系统 | TRADUÇÃO: sistema terminal (informática)
+端绪 | TRADUÇÃO: origen y desarrollo/hilo conductor/esquema general/indicio
+端线 | TRADUÇÃO: línea de fondo (deportes)
+端庄 | TRADUÇÃO: digno/recatado/decoroso
+端菜 | TRADUÇÃO: servir platos/llevar la comida a la mesa
+端详 | TRADUÇÃO: pormenores/detalles completos ‖ mirar detenidamente/examinar con atención/escrutar
+端赖 | TRADUÇÃO: depender en última instancia de (Taiwán)/confiar enteramente en
+端起碗吃肉，放下筷子骂娘 | TRADUÇÃO: (lit.) comer carne del cuenco y soltar los palillos para insultar a la madre (modismo)/(fig.) ser un desagradecido/quejarse a pesar de ser un privilegiado
+端阳 | TRADUÇÃO: véase 端午
+端阳节 | TRADUÇÃO: véase 端午節|端午节
+端面 | TRADUÇÃO: cara extrema/superficie frontal de un objeto cilíndrico
+端饭 | TRADUÇÃO: servir la comida/llevar el arroz a la mesa
+端点 | TRADUÇÃO: punto final/extremo/(mat.) punto extremo
+竞 | TRADUÇÃO: competir/luchar/disputar/contender
+竞价 | TRADUÇÃO: licitación/subasta/competencia de precios/pujar
+竞品 | TRADUÇÃO: producto de la competencia/producto rival
+竞技 | TRADUÇÃO: competición deportiva/prueba de destreza/atletismo
+竞技动物 | TRADUÇÃO: animales empleados en espectáculos deportivos o de lucha
+竞技场 | TRADUÇÃO: arena/estadio/coliseo
+竞技性 | TRADUÇÃO: competitividad/naturaleza competitiva
+竞拍 | TRADUÇÃO: pujar (en subasta)/subasta competitiva
+竞业条款 | TRADUÇÃO: cláusula de no competencia (derecho)
+竞渡 | TRADUÇÃO: regata/carrera de botes/competición de natación
+竞争 | TRADUÇÃO: competir/competencia/concurrencia
+竞争力 | TRADUÇÃO: competitividad/capacidad competitiva
+竞争对手 | TRADUÇÃO: rival/competidor
+竞争性 | TRADUÇÃO: competitivo/concurrencial
+竞争模式 | TRADUÇÃO: modelo de competencia
+竞争产品 | TRADUÇÃO: producto competidor/producto rival
+竞争者 | TRADUÇÃO: competidor/rival
+竞猜 | TRADUÇÃO: quiniela/concurso de pronósticos/adivinar un resultado
+竞相 | TRADUÇÃO: competir entre sí/afanarse por/rivalizar
+竞秀 | TRADUÇÃO: véase 競秀區|竞秀区 ‖ competir en belleza o esplendor
+竞秀区 | TRADUÇÃO: Jingxiu, distrito de la ciudad de Baoding 保定市, Hebei
+竞租 | TRADUÇÃO: búsqueda de rentas (economía)
+竞答 | TRADUÇÃO: concurso de respuestas rápidas/competir por responder preguntas
+竞艳 | TRADUÇÃO: rivalizar en belleza/concurso de hermosura
+竞购 | TRADUÇÃO: pujar en una compra/competir en la adquisición
+竞赛 | TRADUÇÃO: competir/carrera/concurso/competición/certamen
+竞赛者 | TRADUÇÃO: competidor/participante
+竞走 | TRADUÇÃO: marcha atlética (atletismo)
+竞逐 | TRADUÇÃO: competir/disputar/perseguir (un premio o cargo)
+竞速 | TRADUÇÃO: (deportes) carreras de velocidad/competir en velocidad
+竞速滑冰 | TRADUÇÃO: patinaje de velocidad (Taiwán)
+竞选 | TRADUÇÃO: postularse a una elección/hacer campaña electoral
+竞选副手 | TRADUÇÃO: candidato a vicepresidente/compañero de fórmula
+竞选搭档 | TRADUÇÃO: compañero de fórmula electoral/compañero de candidatura
+竞选活动 | TRADUÇÃO: campaña electoral
+竹 | TRADUÇÃO: (forma ligada) bambú/radical Kangxi 118
+竹内 | TRADUÇÃO: Takeuchi (apellido japonés)
+竹刀 | TRADUÇÃO: shinai (espada de bambú para kendo)
+竹北 | TRADUÇÃO: Zhubei, ciudad del condado de Hsinchu 新竹縣|新竹县, noroeste de Taiwán
+竹北市 | TRADUÇÃO: Zhubei, ciudad del condado de Hsinchu 新竹縣|新竹县, noroeste de Taiwán
+竹南 | TRADUÇÃO: Zhunan, municipio del condado de Miaoli 苗栗縣|苗栗县, noroeste de Taiwán
+竹南镇 | TRADUÇÃO: Zhunan, municipio del condado de Miaoli 苗栗縣|苗栗县, noroeste de Taiwán
+竹啄木鸟 | TRADUÇÃO: carpintero de bambú (Gecinulus grantia, especie de ave de China)
+竹器 | TRADUÇÃO: utensilio de bambú
+竹园 | TRADUÇÃO: Chuk Yuen (lugar en Hong Kong)
+竹塘 | TRADUÇÃO: Zhutang, municipio del condado de Changhua 彰化縣|彰化县, Taiwán
+竹塘乡 | TRADUÇÃO: Zhutang, municipio del condado de Changhua 彰化縣|彰化县, Taiwán
+竹子 | TRADUÇÃO: bambú/CL:棵,根
+竹山 | TRADUÇÃO: véase 竹山縣|竹山县/véase 竹山鎮|竹山镇
+竹山县 | TRADUÇÃO: Zhushan, condado de la ciudad de Shiyan 十堰市, Hubei
+竹山镇 | TRADUÇÃO: Zhushan, municipio del condado de Nantou 南投縣|南投县, centro de Taiwán
+竹岛 | TRADUÇÃO: Takeshima (islas Dokdo 獨島|独岛 en coreano, islas disputadas en el mar del Japón)
+竹崎 | TRADUÇÃO: Zhuqi, municipio del condado de Chiayi 嘉義縣|嘉义县, oeste de Taiwán
+竹崎乡 | TRADUÇÃO: Zhuqi, municipio del condado de Chiayi 嘉義縣|嘉义县, oeste de Taiwán
+竹布 | TRADUÇÃO: tela ligera de algodón/tejido de bambú
+竹帛 | TRADUÇÃO: tablillas de bambú y seda (antiguos materiales de escritura anteriores al papel)/registros históricos
+竹排 | TRADUÇÃO: balsa de bambú
+竹书纪年 | TRADUÇÃO: Anales de Bambú (antigua crónica de la historia de China, c. 300 a. C.)
+竹木 | TRADUÇÃO: bambú y madera
+竹东 | TRADUÇÃO: Zhudong, municipio del condado de Hsinchu 新竹縣|新竹县, noroeste de Taiwán
+竹东镇 | TRADUÇÃO: Zhudong, municipio del condado de Hsinchu 新竹縣|新竹县, noroeste de Taiwán
+竹板 | TRADUÇÃO: tablillas de bambú/claqueta de bambú para narración popular
+竹林 | TRADUÇÃO: bosque de bambú/bambusal
+竹溪 | TRADUÇÃO: véase 竹溪縣|竹溪县
+竹溪县 | TRADUÇÃO: Zhuxi, condado de la ciudad de Shiyan 十堰市, Hubei
+竹田 | TRADUÇÃO: Chutien, municipio del condado de Pingtung 屏東縣|屏东县, Taiwán
+竹田乡 | TRADUÇÃO: Chutien, municipio del condado de Pingtung 屏東縣|屏东县, Taiwán
+竹竿 | TRADUÇÃO: caña de bambú/vara de bambú
+竹笙 | TRADUÇÃO: hongo velo de novia/hongo de bambú
+竹笋 | TRADUÇÃO: brote de bambú
+竹筒 | TRADUÇÃO: tubo de bambú
+竹筒倒豆子 | TRADUÇÃO: como alubias que caen de un tubo de bambú (metáfora de contarlo todo sin reservas)
+竹箍儿 | TRADUÇÃO: aro de bambú/fleje de bambú
+竹管 | TRADUÇÃO: tubo de bambú/caña
+竹节 | TRADUÇÃO: nudo de bambú/entrenudo de bambú
+竹节草 | TRADUÇÃO: Chrysopogon aciculatus (especie de gramínea)
+竹篁 | TRADUÇÃO: (literario) bosque de bambú/bambusal
+竹篙 | TRADUÇÃO: pértiga de bambú (para impulsar barcas)
+竹篦 | TRADUÇÃO: peine fino de bambú
+竹篾 | TRADUÇÃO: tira de bambú/listón fino de bambú
+竹简 | TRADUÇÃO: tablillas de bambú (usadas para escribir en la antigüedad)
+竹篮 | TRADUÇÃO: cesta de mimbre/canasta de bambú
+竹篮打水 | TRADUÇÃO: sacar agua con una cesta de bambú (modismo); esfuerzo en vano/trabajar para nada
+竹篮打水，一场空 | TRADUÇÃO: sacar agua con una cesta de bambú resulta en vano (modismo); perder el tiempo inútilmente
+竹签 | TRADUÇÃO: brocheta de bambú/palillo de bambú para adivinación
+竹篱笆 | TRADUÇÃO: valla de bambú/cerca de caña
+竹丝鸡 | TRADUÇÃO: gallina sedosa del Japón/gallina de huesos negros/véase también 烏骨雞|乌骨鸡
+竹编 | TRADUÇÃO: cestería de bambú/artesanía en tiras de bambú
+竹芋 | TRADUÇÃO: maranta/arrurruz de las Indias Orientales (Maranta arundinacea)
+竹茹 | TRADUÇÃO: virutas de bambú (Bambusa tuldoides, usadas en medicina tradicional china)
+竹叶青 | TRADUÇÃO: víbora del bambú (Trimeresurus stejnegeri)/vino de hojas de bambú
+竹叶青蛇 | TRADUÇÃO: víbora de bambú de Taiwán (Trimeresurus stejnegeri, serpiente venenosa)
+竹荪 | TRADUÇÃO: hongo de bambú/hongo velo de novia (Phallus indusiatus)
+竹席 | TRADUÇÃO: estera de bambú
+竹制 | TRADUÇÃO: hecho de bambú/artículo de bambú
+竹舆 | TRADUÇÃO: palanquín de bambú/litera de caña
+竹青 | TRADUÇÃO: corteza de bambú/verde bambú (color)
+竹鞭 | TRADUÇÃO: rizoma de bambú/fusta de bambú
+竹马 | TRADUÇÃO: caballo de caña de bambú (juguete)
+竹马之交 | TRADUÇÃO: amistad de la infancia (modismo)
+竹马之友 | TRADUÇÃO: véase 竹馬之交|竹马之交
+竹鲛 | TRADUÇÃO: véase 馬鮫魚|马鲛鱼
+竹鼠 | TRADUÇÃO: rata del bambú
+竺 | TRADUÇÃO: apellido Zhu/abrev. de 天竺, India (antiguo o contexto budista)/(arcaico) budismo ‖ variante de 篤|笃
+竺乾 | TRADUÇÃO: Buda (arcaico)/Dharma (enseñanzas budistas)
+竺可桢 | TRADUÇÃO: Zhu Kezhen (1890-1974), meteorólogo y geólogo chino
+竺学 | TRADUÇÃO: doctrina budista (arcaico)/estudios budistas
+竺教 | TRADUÇÃO: budismo (arcaico)
+竺书 | TRADUÇÃO: textos budistas/escrituras sagradas del budismo
+竺法 | TRADUÇÃO: Dharma budista/leyes y preceptos del budismo (arcaico)
+竽 | TRADUÇÃO: yu (antiguo instrumento de viento chino de cañas y lengüetas libres, semejante al sheng 笙)
+竾 | TRADUÇÃO: variante de 篪
+竿 | TRADUÇÃO: vara/caña/pértiga
+竿子 | TRADUÇÃO: vara de bambú/caña/CL:根,個|个
+竿头 | TRADUÇÃO: punta de la vara de bambú/(fig.) cúspide/ápice
+笀 | TRADUÇÃO: variante antigua de 芒/arista (de cereales)
+笄 | TRADUÇÃO: a los 15 años de edad (antiguo)/horquilla para el pelo
+笄冠 | TRADUÇÃO: alcanzar la mayoría de edad (tradicional)
+笄年 | TRADUÇÃO: edad núbil de una muchacha (15 años)
+笄蛭 | TRADUÇÃO: planaria terrestre (Bipalium)
+笆 | TRADUÇÃO: cerca de bambú/artículo tejido de cañas
+笆斗 | TRADUÇÃO: canasta de fondo redondeado de mimbre o bambú
+笆篱子 | TRADUÇÃO: (dialectal) prisión/cárcel
+笈 | TRADUÇÃO: cofre de bambú (para libros)
+笉 | TRADUÇÃO: rostro sonriente/cuerda de bambú
+笊 | TRADUÇÃO: espumadera de bambú
+笊篱 | TRADUÇÃO: colador de bambú o alambre/espumadera
+笋 | TRADUÇÃO: variante de 筍|笋 ‖ brote de bambú
+笎 | TRADUÇÃO: bambú con manchas negras
+笏 | TRADUÇÃO: tablilla ceremonial que portaban los ministros en audiencias imperiales
+笐 | TRADUÇÃO: cañas de bambú colocadas horizontalmente para secar granos
+笑不可仰 | TRADUÇÃO: desternillarse de risa (modismo)/no poder parar de reír
+笑不可抑 | TRADUÇÃO: no poder contener la risa/risa incontenible
+笑剧 | TRADUÇÃO: farsa/comedia corta
+笑口弥勒 | TRADUÇÃO: Maitreya sonriente/Buda sonriente
+笑吟吟 | TRADUÇÃO: sonriente/con una sonrisa radiante
+笑哈哈 | TRADUÇÃO: reír a carcajadas/a mandíbula batiente
+笑嘻嘻 | TRADUÇÃO: sonriente/risueño/con una gran sonrisa
+笑场 | TRADUÇÃO: (de un actor) salirse del personaje por reírse/tentarse de la risa en escena
+笑容 | TRADUÇÃO: sonrisa/expresión sonriente/CL:副
+笑容可掬 | TRADUÇÃO: radiante de sonrisas (modismo); sonreír de oreja a oreja/mostrar una sonrisa encantadora
+笑意 | TRADUÇÃO: expresión de risa o sonrisa/gesto risueño
+笑掉大牙 | TRADUÇÃO: morirse de risa/dar risa a cualquiera/ser ridículo al extremo
+笑料 | TRADUÇÃO: material cómico/motivo de risa/hazmerreír
+笑料百出 | TRADUÇÃO: lleno de momentos hilarantes/desternillante
+笑星 | TRADUÇÃO: estrella del humor/cómico famoso
+笑林 | TRADUÇÃO: Bosque de risas (título de antiguas recopilaciones de chistes chinos)/antología de chistes
+笑柄 | TRADUÇÃO: motivo de burla/hazmerreír
+笑气 | TRADUÇÃO: gas de la risa/óxido nitroso
+笑涡 | TRADUÇÃO: variante de 笑窩|笑窝
+笑盈盈 | TRADUÇÃO: sonriente/rebosante de sonrisas
+笑眯眯 | TRADUÇÃO: sonriente/con ojos risueños
+笑破肚皮 | TRADUÇÃO: morirse de risa/partirse de risa
+笑窝 | TRADUÇÃO: hoyuelo (en la mejilla al sonreír)
+笑筊 | TRADUÇÃO: (religión popular) resultado de los bloques lunares 筊杯 con ambas caras planas hacia arriba (respuesta ambigua de la deidad)
+笑纹 | TRADUÇÃO: líneas de la risa/arrugas de expresión facial
+笑纳 | TRADUÇÃO: aceptar amablemente (un presente u ofrenda)
+笑骂 | TRADUÇÃO: mofarse/burlarse/(festivo) bromear tomándole el pelo a alguien
+笑而不语 | TRADUÇÃO: sonreír sin decir una palabra
+笑声 | TRADUÇÃO: risa/risotada/sonido de risas
+笑脸 | TRADUÇÃO: cara sonriente/emoticono sonriente :) ☺/CL:副
+笑脸儿 | TRADUÇÃO: forma erhua de 笑臉|笑脸
+笑脸相迎 | TRADUÇÃO: recibir a alguien con una cálida sonrisa (modismo)
+笑里藏刀 | TRADUÇÃO: (lit.) puñal escondido tras una sonrisa (modismo); intenciones perversas bajo una apariencia amable/falsedad hipócrita
+笑话 | TRADUÇÃO: chiste/broma/burlarse de/ridículo/absurdo
+笑话儿 | TRADUÇÃO: forma erhua de 笑話|笑话
+笑语 | TRADUÇÃO: charlas y risas/conversación alegre
+笑谈 | TRADUÇÃO: tema de conversación jocoso/objeto de burla/charlar alegremente
+笑貌 | TRADUÇÃO: rostro sonriente/expresión risueña
+笑贫不笑娼 | TRADUÇÃO: despreciar al pobre pero no a la prostituta (modismo); mentalidad social de valorar el dinero por encima de los escrúpulos morales
+笑逐颜开 | TRADUÇÃO: iluminársele el rostro de alegría (modismo); sonreír de oreja a oreja/radiante de gozo
+笑面虎 | TRADUÇÃO: lobo con piel de cordero/persona de sonrisa falsa y malas intenciones
+笑靥 | TRADUÇÃO: hoyuelo/semblante risueño
+笑颜 | TRADUÇÃO: rostro sonriente/cara alegre
+笑鸥 | TRADUÇÃO: gaviota reidora americana (Leucophaeus atricilla)
+笑点 | TRADUÇÃO: punto cómico/gracia del chiste/remate cómico
+笑点低 | TRADUÇÃO: tener la risa fácil/reírse de cualquier tontería
+笓 | TRADUÇÃO: peinar/peine fino/nasa para camarones
+笙 | TRADUÇÃO: sheng (órgano bucal tradicional chino de tubos de bambú con lengüeta libre)
+笙歌 | TRADUÇÃO: música instrumental y cantos (en banquetes o festines)
+笙管 | TRADUÇÃO: tubos de bambú del sheng o zampoña
+笙簧 | TRADUÇÃO: lengüetas de bambú del sheng
+笙箫 | TRADUÇÃO: instrumentos de viento tradicionales (sheng y flauta vertical xiao)
+笛 | TRADUÇÃO: flauta/silbato/bocina
+笛卡儿 | TRADUÇÃO: René Descartes (1596-1650), filósofo, matemático y científico francés
+笛卡儿坐标系 | TRADUÇÃO: (mat.) sistema de coordenadas cartesianas
+笛卡尔 | TRADUÇÃO: René Descartes (1596-1650), filósofo y matemático francés
+笛子 | TRADUÇÃO: flauta traversa de bambú/CL:管
+笛沙格 | TRADUÇÃO: Girard Desargues (1591-1661), geómetra francés
+笛膜 | TRADUÇÃO: membrana para flauta de bambú (dimo)
+笞 | TRADUÇÃO: azotar con varas de bambú
+笞刑 | TRADUÇÃO: azotes con varas de bambú (castigo corporal tradicional)
+笞掠 | TRADUÇÃO: azotar y torturar
+笞挞 | TRADUÇÃO: flagelar/azotar
+笞击 | TRADUÇÃO: apalear/golpear con vara
+笞杖 | TRADUÇÃO: vara o garrote de castigo/CL:根
+笞棰 | TRADUÇÃO: golpear con fusta de bambú
+笞骂 | TRADUÇÃO: azotar e increpar/golpear e insultar
+笞背 | TRADUÇÃO: azotar en la espalda
+笞臀 | TRADUÇÃO: azotar en las nalgas
+笞责 | TRADUÇÃO: castigar con azotes de vara
+笞辱 | TRADUÇÃO: humillar y azotar
+笠 | TRADUÇÃO: sombrero cónico de bambú
+笤 | TRADUÇÃO: escoba
+笤帚 | TRADUÇÃO: escoba pequeña/escobilla/escobillón/CL:把
+笥 | TRADUÇÃO: canasto cuadrado de bambú para guardar ropa o víveres
+符 | TRADUÇÃO: apellido Fu ‖ marca/signo/talismán/amuleto taoísta/concordar con/coincidir/símbolo
+符串 | TRADUÇÃO: cadena de caracteres (informática)
+符印 | TRADUÇÃO: sello talismánico/símbolo sagrado o mágico
+符合 | TRADUÇÃO: coincidir con/ajustarse a/cumplir con (un requisito)/(física) coincidencia
+符咒 | TRADUÇÃO: encantamiento/conjuro/amuleto mágico
+符拉迪沃斯托克 | TRADUÇÃO: Vladivostok (ciudad portuaria rusa, nombre en chino: 海參崴|海参崴)
+符文 | TRADUÇÃO: runa/símbolo rúnico
+符板 | TRADUÇÃO: tablilla protectora contra malos espíritus
+符牌 | TRADUÇÃO: talismán/insignia protectora o amuleto
+符箓 | TRADUÇÃO: (taoísmo) talismán o diagrama mágico escrito
+符号 | TRADUÇÃO: símbolo/signo/marca
+符号学 | TRADUÇÃO: semiótica/semiología
+符记 | TRADUÇÃO: ficha/token
+符记环 | TRADUÇÃO: token ring (informática)
+符类福音 | TRADUÇÃO: evangelios sinópticos (Mateo, Marcos y Lucas)
+符腾堡 | TRADUÇÃO: Wurtemberg (región histórica del suroeste de Alemania)
+笨 | TRADUÇÃO: tonto/torpe/bobo/lento/pesado
+笨人 | TRADUÇÃO: tonto/persona boba/necio
+笨伯 | TRADUÇÃO: zoquete/bobo/patán
+笨到家了 | TRADUÇÃO: sumamente tonto/rematadamente bobo
+笨口拙舌 | TRADUÇÃO: torpe de palabra/poco elocuente
+笨嘴拙腮 | TRADUÇÃO: véase 笨嘴拙舌
+笨嘴拙舌 | TRADUÇÃO: torpe al hablar/inarticulado
+笨嘴笨舌 | TRADUÇÃO: torpe al expresarse/poco fluido
+笨手笨脚 | TRADUÇÃO: torpe con las manos/manazas/patoso
+笨拙 | TRADUÇÃO: torpe/desmañado/tosco
+笨瓜 | TRADUÇÃO: tonto/zoquete/badulaque
+笨蛋 | TRADUÇÃO: (insulto leve) tonto/idiota/(afectuoso) bobito
+笨货 | TRADUÇÃO: zoquete/estúpido
+笨重 | TRADUÇÃO: pesado/voluminoso/engorroso/arduo
+笨鸡 | TRADUÇÃO: pollo de campo/pollo campero
+笨头笨脑 | TRADUÇÃO: (modismo) tonto/torpe de mollera/atolondrado
+笨鸟先飞 | TRADUÇÃO: (lit.) el pájaro torpe echa a volar antes (modismo)/(fig.) compensar la falta de habilidad con esfuerzo anticipado
+笪 | TRADUÇÃO: apellido Da ‖ estera rústica de bambú
+笫 | TRADUÇÃO: esterilla de caña para la cama
+第 | TRADUÇÃO: (prefijo para números ordinales, como en 第六 "sexto")/(literario) grados en los exámenes imperiales/(antiguo) mansión señorial/(literario) pero/sin embargo/(literario) sólo/meramente
+第一 | TRADUÇÃO: primero/primeramente/lo más importante/principal
+第一世界 | TRADUÇÃO: Primer Mundo
+第一人称射击 | TRADUÇÃO: juego de disparos en primera persona (FPS)
+第一作者 | TRADUÇÃO: primer autor (de un artículo científico)
+第一国际 | TRADUÇÃO: Primera Internacional (asociación de trabajadores fundada por Karl Marx en 1864)
+第一型糖尿病 | TRADUÇÃO: diabetes tipo 1
+第一基本形式 | TRADUÇÃO: (mat.) primera forma fundamental
+第一夫人 | TRADUÇÃO: primera dama (esposa del jefe de Estado)
+第一季度 | TRADUÇÃO: primer trimestre (del año fiscal)
+第一岛链 | TRADUÇÃO: (geopolítica) primera cadena de islas (arco estratégico que incluye Japón, Taiwán y Filipinas)
+第一手 | TRADUÇÃO: de primera mano/directo
+第一把手 | TRADUÇÃO: máximo dirigente/principal responsable
+第一时间 | TRADUÇÃO: en el primer instante/de inmediato/lo antes posible
+第一桶金 | TRADUÇÃO: el primer millón/primeras ganancias considerables en los negocios
+第一次 | TRADUÇÃO: por primera vez/la primera vez
+第一次世界大战 | TRADUÇÃO: Primera Guerra Mundial
+第一步 | TRADUÇÃO: primer paso
+第一流 | TRADUÇÃO: de primera clase/de primer nivel/de primera categoría
+第一炮 | TRADUÇÃO: (fig.) primer disparo/primer golpe de efecto
+第一产业 | TRADUÇÃO: sector primario (agricultura, pesca, minería)
+第一眼 | TRADUÇÃO: a primera vista/a primer golpe de vista
+第一线 | TRADUÇÃO: primera línea/vanguardia/frente
+第一声 | TRADUÇÃO: primer tono en mandarín/tono alto y nivelado
+第一轮 | TRADUÇÃO: primera ronda/primera vuelta (electoral o deportiva)
+第三世界 | TRADUÇÃO: Tercer Mundo
+第三人称 | TRADUÇÃO: tercera persona (gramática)
+第三国际 | TRADUÇÃO: véase 共產國際|共产国际
+第三地 | TRADUÇÃO: tercer país/territorio neutral
+第三季度 | TRADUÇÃO: tercer trimestre (del año fiscal)
+第三帝国 | TRADUÇÃO: Tercer Reich (régimen nazi, 1933-1945)
+第三方 | TRADUÇÃO: tercero/tercera parte
+第三状态 | TRADUÇÃO: estado subóptimo de salud (entre la salud y la enfermedad)
+第三产业 | TRADUÇÃO: sector terciario/sector de servicios
+第三眼睑 | TRADUÇÃO: (zoología) tercer párpado/membrana nictitante
+第三纪 | TRADUÇÃO: período Terciario (era geológica cenozoica)
+第三者 | TRADUÇÃO: tercero/tercera persona/(en relaciones) amante/tercero en discordia
+第三声 | TRADUÇÃO: tercer tono en mandarín/tono descendente-ascendente
+第二 | TRADUÇÃO: segundo/en segundo lugar/secundario
+第二世界 | TRADUÇÃO: Segundo Mundo (bloque de países socialistas durante la Guerra Fría)
+第二个人 | TRADUÇÃO: la segunda persona/(fig.) otra persona/un tercero
+第二型糖尿病 | TRADUÇÃO: diabetes tipo 2
+第二天 | TRADUÇÃO: al día siguiente/el día después
+第二季度 | TRADUÇÃO: segundo trimestre (del año fiscal)
+第二岛链 | TRADUÇÃO: (geopolítica) segunda cadena de islas (arco desde las islas Bonin de Japón hasta Guam y Papúa Nueva Guinea)
+第二性 | TRADUÇÃO: El segundo sexo (obra de Simone de Beauvoir)
+第二春 | TRADUÇÃO: (lit.) segunda primavera/(fig.) nuevo amor/segunda juventud/renacimiento
+第二次 | TRADUÇÃO: la segunda vez/segundo
+第二次世界大战 | TRADUÇÃO: Segunda Guerra Mundial
+第二次汉字简化方案 | TRADUÇÃO: Segundo Esquema de Simplificación de Caracteres Chinos (segunda ronda de caracteres simplificados, propuesta en 1977 y retirada en 1986)
+第二产业 | TRADUÇÃO: sector secundario (industria y manufactura)
+第二声 | TRADUÇÃO: segundo tono en mandarín/tono ascendente
+第二职业 | TRADUÇÃO: segundo empleo/actividad secundaria
+第二轮 | TRADUÇÃO: segunda ronda/segunda vuelta
+第五 | TRADUÇÃO: quinto
+第五纵队 | TRADUÇÃO: quinta columna (grupo subversivo)
+第六感 | TRADUÇÃO: sexto sentido/intuición/presentimiento
+第六感觉 | TRADUÇÃO: sexto sentido/intuición
+第勒尼安海 | TRADUÇÃO: mar Tirreno (entre Cerdeña y la península itálica)
+第四堵墙 | TRADUÇÃO: la cuarta pared (en teatro, cine o televisión)
+第四季 | TRADUÇÃO: cuarto trimestre/cuarta temporada
+第四季度 | TRADUÇÃO: cuarto trimestre (del año fiscal)
+第四权 | TRADUÇÃO: cuarto poder/la prensa
+第四纪 | TRADUÇÃO: período Cuaternario (era geológica actual)
+第四声 | TRADUÇÃO: cuarto tono en mandarín/tono descendente
+第四台 | TRADUÇÃO: cuarto canal/(en Taiwán) televisión por cable
+第四面墙 | TRADUÇÃO: la cuarta pared (teatro y cine)
+第戎 | TRADUÇÃO: Dijon (Francia)
+第比利斯 | TRADUÇÃO: Tiflis (capital de Georgia 格魯吉亞|格鲁吉亚)
+第纳尔 | TRADUÇÃO: dinar (moneda)
+第蒙 | TRADUÇÃO: (Taiwán) Des Moines (capital de Iowa, EE. UU.)
+笭 | TRADUÇÃO: biombo de bambú/rejilla de caña
+笮 | TRADUÇÃO: entablado bajo las tejas del tejado/estrecho
+笯 | TRADUÇÃO: (literario) jaula para pájaros/(usado en topónimos)
+笰 | TRADUÇÃO: plumero de bambú/espantamoscas
+笱 | TRADUÇÃO: nasa de bambú para pescar
+笲 | TRADUÇÃO: cesta de mimbre usada por las novias en la antigüedad
+笳 | TRADUÇÃO: jia (antiguo instrumento de viento de caña de pueblos nómadas)
+笵 | TRADUÇÃO: molde de bambú/modelo/norma
+笸 | TRADUÇÃO: canasto plano de mimbre o bambú
+笻 | TRADUÇÃO: variante de 筇
+筀 | TRADUÇÃO: variedad de bambú (arcaico)
+筀竹 | TRADUÇÃO: bambú guizhu (arcaico)
+筃 | TRADUÇÃO: tipo de bambú/variante antigua de 茵
+筅 | TRADUÇÃO: escobilla de bambú para fregar platos o batir té
+筅帚 | TRADUÇÃO: (dialectal) escobilla de bambú para fregar ollas
+笔 | TRADUÇÃO: pincel/pluma/bolígrafo/lápiz (CL:支,枝)/trazo (en caligrafía o pintura)/(forma ligada) estilo de redacción/técnica de pincel/(clasificador) trazo de un carácter chino/(clasificador) suma de dinero; transacción comercial/(literario) escribir (con pluma o pincel)
+笔下 | TRADUÇÃO: en los escritos de uno/bajo la pluma de uno
+笔下生花 | TRADUÇÃO: escribir con suma elegancia/pluma brillante (modismo)
+笔仙 | TRADUÇÃO: juego de la ouija con bolígrafo/espíritu invocado mediante escritura automática
+笔供 | TRADUÇÃO: declaración por escrito/testimonio escrito
+笔刷 | TRADUÇÃO: pincel (especialmente en software gráfico)
+笔划 | TRADUÇÃO: variante de 筆畫|笔画
+笔力 | TRADUÇÃO: fuerza del trazo caligráfico/vigor estilístico en la escritura
+笔友 | TRADUÇÃO: amigo por correspondencia
+笔名 | TRADUÇÃO: seudónimo/nombre de pluma
+笔墨 | TRADUÇÃO: pluma y tinta/escritos/palabras
+笔套 | TRADUÇÃO: capuchón de bolígrafo o pincel/funda de pluma
+笔尖 | TRADUÇÃO: plumín/punta del bolígrafo o lápiz/punta del pincel
+笔帽 | TRADUÇÃO: capuchón de pluma, bolígrafo o pincel
+笔心 | TRADUÇÃO: variante de 筆芯|笔芯
+笔战 | TRADUÇÃO: guerra dialéctica por escrito/polémica literaria o periodística
+笔挺 | TRADUÇÃO: erguido como una vela/muy tieso/bien planchado (ropa)
+笔替 | TRADUÇÃO: escritor fantasma mal pagado/sustituto caligráfico
+笔会 | TRADUÇÃO: club PEN (asociación internacional de escritores)
+笔架 | TRADUÇÃO: portalápices/apoyapinceles
+笔杆 | TRADUÇÃO: fuste o cuerpo del pincel o bolígrafo/(metonimia) la pluma
+笔杆子 | TRADUÇÃO: pluma/buen redactor/escritor hábil
+笔法 | TRADUÇÃO: técnica de pincel/estilo de escritura o caligrafía
+笔画 | TRADUÇÃO: trazo (de un carácter chino)
+笔画数 | TRADUÇÃO: número de trazos (de un carácter chino)
+笔画检字表 | TRADUÇÃO: índice de caracteres por número de trazos
+笔直 | TRADUÇÃO: completamente recto/recto como una vara/en línea recta
+笔砚 | TRADUÇÃO: pincel y piedra de entintar/instrumentos de escritura
+笔筒 | TRADUÇÃO: portalápices/bote de pinceles
+笔算 | TRADUÇÃO: cálculo por escrito/hacer operaciones en papel
+笔管面 | TRADUÇÃO: pasta penne/plumas (pasta)
+笔者 | TRADUÇÃO: el autor/quien escribe (usualmente refiriéndose a uno mismo)
+笔耕 | TRADUÇÃO: ganarse la vida escribiendo/ejercer la escritura
+笔芯 | TRADUÇÃO: mina de lápiz/recambio de bolígrafo
+笔触 | TRADUÇÃO: pincelada/toque de pincel/trazo pictórico
+笔记 | TRADUÇÃO: tomar notas/apuntes/género literario de bosquejos o anécdotas cortas/CL:本
+笔记型电脑 | TRADUÇÃO: computadora portátil/laptop
+笔记本 | TRADUÇÃO: cuaderno (papelería) (CL:本)/(informática) computadora portátil/laptop (abrev. de 筆記本電腦|笔记本电脑)
+笔记本计算机 | TRADUÇÃO: computadora portátil/laptop
+笔记本电脑 | TRADUÇÃO: computadora portátil/ordenador portátil/laptop/CL:臺|台,部
+笔试 | TRADUÇÃO: examen escrito/prueba escrita
+笔误 | TRADUÇÃO: lapsus cálami/error de pluma/errata involuntaria/CL:處|处
+笔调 | TRADUÇÃO: tono literario/estilo de redacción
+笔谈 | TRADUÇÃO: dialogar por notas escritas (en vez de hablar)/intercambio epistolar o ensayístico
+笔译 | TRADUÇÃO: traducción escrita
+笔走龙蛇 | TRADUÇÃO: (lit.) el pincel se mueve con la agilidad de dragones y serpientes (modismo)/(fig.) caligrafía vigorosa y fluida
+笔迹 | TRADUÇÃO: caligrafía/letra manuscrita/grafía
+笔锋 | TRADUÇÃO: punta del pincel/fuerza y agudeza del estilo al escribir
+笔录 | TRADUÇÃO: asentar por escrito/tomar declaración/acta escrita
+笔电 | TRADUÇÃO: computadora portátil/laptop/CL:臺|台,部
+笔顺 | TRADUÇÃO: orden de los trazos (al escribir caracteres chinos)
+笔头 | TRADUÇÃO: habilidad de redacción/por escrito/punta de bolígrafo
+筇 | TRADUÇÃO: caña de bambú qiong (usada antiguamente para bastones)
+筈 | TRADUÇÃO: culatín de la flecha/muesca de flecha
+等 | TRADUÇÃO: esperar/aguardar/para cuando/hasta que/etcétera/y demás/(forma ligada) clase/categoría/grado/(forma ligada) igual a/equivalente a/(usado al final de una enumeración)/(literario) (sufijo plural tras pronombre o sustantivo)
+等一下 | TRADUÇÃO: esperar un momento/un momento/más tarde/luego
+等一下儿 | TRADUÇÃO: forma erhua de 等一下
+等一会 | TRADUÇÃO: ¡espera un momento!/dentro de un rato
+等一会儿 | TRADUÇÃO: forma erhua de 等一會|等一会
+等一等 | TRADUÇÃO: esperar un momento/¡aguarda!
+等不及 | TRADUÇÃO: no poder esperar/estar impaciente
+等位 | TRADUÇÃO: (física) equipotencial
+等位基因 | TRADUÇÃO: alelo (genética)
+等候 | TRADUÇÃO: esperar/aguardar
+等值 | TRADUÇÃO: de igual valor/equivalente
+等价 | TRADUÇÃO: de igual valor/equivalente/del mismo precio
+等价交换 | TRADUÇÃO: intercambio de valores equivalentes
+等价关系 | TRADUÇÃO: (mat.) relación de equivalencia
+等分 | TRADUÇÃO: dividir en partes iguales/partes equivalentes
+等到 | TRADUÇÃO: hasta que/para cuando (esté listo, etc.)
+等化器 | TRADUÇÃO: ecualizador (audio y electrónica) (Hong Kong, Taiwán)
+等同 | TRADUÇÃO: equiparar/considerar igual/equivaler
+等同语 | TRADUÇÃO: (lingüística) término equivalente/traducción exacta de un término
+等周 | TRADUÇÃO: isoperimétrico
+等周不等式 | TRADUÇÃO: desigualdad isoperimétrica
+等因奉此 | TRADUÇÃO: formulismo burocrático/rutina oficial/(antiguo) en vista de lo anterior, por lo tanto...
+等压 | TRADUÇÃO: presión constante/isobárico
+等压线 | TRADUÇÃO: isobara (línea de igual presión atmosférica)
+等差 | TRADUÇÃO: diferencia constante/diferencia igual
+等差数列 | TRADUÇÃO: (mat.) progresión aritmética
+等差级数 | TRADUÇÃO: serie aritmética (como 2+4+6+8+...)
+等式 | TRADUÇÃO: igualdad/ecuación (mat.)
+等待 | TRADUÇÃO: esperar/aguardar
+等待时间 | TRADUÇÃO: tiempo de espera/(informática) latencia
+等效 | TRADUÇÃO: equivalente/de efecto idéntico
+等效百万吨当量 | TRADUÇÃO: megatonelaje equivalente (EMT)
+等于 | TRADUÇÃO: ser igual a/equivaler a/ser equivalente a
+等比 | TRADUÇÃO: geométrico (progresiones matemáticas)
+等比数列 | TRADUÇÃO: progresión geométrica
+等比级数 | TRADUÇÃO: serie geométrica (como 1+2+4+8+...)
+等温 | TRADUÇÃO: isotermo/de igual temperatura
+等熵线 | TRADUÇÃO: (física) curva isentrópica
+等第 | TRADUÇÃO: nivel/rango/grado/clasificación
+等等 | TRADUÇÃO: etcétera/y así sucesivamente/¡espera un momento!/¡un momento!
+等级 | TRADUÇÃO: grado/rango/categoría/estatus
+等级制度 | TRADUÇÃO: jerarquía/sistema jerárquico
+等而下之 | TRADUÇÃO: de peor categoría a partir de ahí (modismo)/inferiores en grado
+等腰三角形 | TRADUÇÃO: triángulo isósceles
+等着瞧 | TRADUÇÃO: ya lo veremos/el tiempo lo dirá (quién tiene razón)
+等号 | TRADUÇÃO: signo de igual = (mat.)
+等变压线 | TRADUÇÃO: isalobara (línea de igual cambio de presión)
+等距 | TRADUÇÃO: equidistante
+等身 | TRADUÇÃO: a tamaño natural/de cuerpo entero
+等轴晶系 | TRADUÇÃO: sistema cristalino cúbico/sistema isométrico (cristalografía)
+等边三角形 | TRADUÇÃO: triángulo equilátero
+等闲 | TRADUÇÃO: común/ordinario/insignificante/en vano/a la ligera
+等闲之辈 | TRADUÇÃO: persona común y corriente (habitualmente en negativo: persona a la que no se debe subestimar)
+等离子 | TRADUÇÃO: (física) plasma
+等离子体 | TRADUÇÃO: plasma (física)
+等额选举 | TRADUÇÃO: elección de candidato único/elección no competitiva
+等高线 | TRADUÇÃO: curva de nivel (topografía)
+筊 | TRADUÇÃO: cuerda de bambú ‖ variante de 珓
+筊杯 | TRADUÇÃO: bloques lunares (religión popular, par de bloques de madera de media luna arrojados al suelo para consultar a los dioses)
+筋 | TRADUÇÃO: músculo/tendón/vena visible bajo la piel/fibra vegetal similar a un nervio
+筋斗 | TRADUÇÃO: voltereta/pirueta/trompazo
+筋斗云 | TRADUÇÃO: nube voladora de Sun Wukong
+筋疲力尽 | TRADUÇÃO: exhausto/rendido/sin fuerzas (modismo)
+筋节 | TRADUÇÃO: (lit.) músculos y coyunturas/(fig.) articulación y coherencia entre partes de un discurso o texto
+筋络 | TRADUÇÃO: tendones y músculos/red de meridianos musculares
+筋脉 | TRADUÇÃO: venas y tendones
+筋膜 | TRADUÇÃO: fascia (anatomía)
+筋道 | TRADUÇÃO: elástico/firme/al dente (fideos)
+筋骨 | TRADUÇÃO: huesos y músculos/constitución física/fuerza y temple
+筌 | TRADUÇÃO: nasa de bambú para peces
+笋子 | TRADUÇÃO: brotes de bambú
+笋尖 | TRADUÇÃO: puntas de brotes de bambú
+筎 | TRADUÇÃO: corteza fina exterior del bambú
+筏子 | TRADUÇÃO: balsa
+筐 | TRADUÇÃO: canasta/cesto/CL:隻|只
+筐箧 | TRADUÇÃO: caja rectangular de mimbre/cofre
+筐箧中物 | TRADUÇÃO: cosa común y ordinaria/objeto corriente
+筑 | TRADUÇÃO: nombre abreviado de Guiyang 貴陽|贵阳 ‖ cítara antigua de cinco cuerdas (pron. Taiwán [zhu2]) ‖ construir/edificar/apisonar/golpear (pron. Taiwán [zhu2])
+筑波 | TRADUÇÃO: Tsukuba (ciudad de Japón)
+筒 | TRADUÇÃO: tubo/cilindro/cilíndrico/meter (las manos en las mangas, etc.) ‖ variante de 筒
+筒子 | TRADUÇÃO: objeto tubular/tubo/carrete/(jerga de internet) camaradas (homófono de 同志)
+筒子米糕 | TRADUÇÃO: pastel de arroz en tubo de bambú (plato tradicional taiwanés de arroz glutinoso al vapor)
+筒灯 | TRADUÇÃO: foco empotrable/lámpara de tubo
+筒阀 | TRADUÇÃO: válvula de camisa cilíndrica
+筒鼓 | TRADUÇÃO: tom-tom (tambor de batería)
+答 | TRADUÇÃO: (forma ligada con el mismo significado que 答, usada en 答應|答应, 答理 etc.) ‖ responder/contestar/replicar
+答允 | TRADUÇÃO: (literario) consentir/aceptar/acceder
+答卷 | TRADUÇÃO: hoja de respuestas del examen/examen respondido/CL:份,張|张
+答问 | TRADUÇÃO: responder a preguntas/preguntas y respuestas
+答对 | TRADUÇÃO: responder correctamente/(literario) responder/contestar
+答复 | TRADUÇÃO: variante de 答覆|答复 ‖ responder/dar una respuesta/Responder a: (encabezado de correo)
+答应 | TRADUÇÃO: responder/contestar/aceptar/acceder/prometer
+答拜 | TRADUÇÃO: devolver una visita de cortesía
+答数 | TRADUÇÃO: solución numérica (mat.)/(Taiwán) conteo o consignas coreadas al unísono por tropas militares
+答案 | TRADUÇÃO: respuesta/solución/CL:個|个
+答理 | TRADUÇÃO: (usualmente en negativo) hacer caso/responder/dar acuse de recibo a un saludo
+答疑 | TRADUÇÃO: responder dudas/aclarar preguntas
+答白 | TRADUÇÃO: responder/contestar
+答礼 | TRADUÇÃO: corresponder a una cortesía/regalo de cortesía en correspondencia
+答腔 | TRADUÇÃO: responder/intervenir en la conversación/tomar la palabra
+答讪 | TRADUÇÃO: variante de 搭訕|搭讪
+答访 | TRADUÇÃO: corresponder a una visita/devolver una visita
+答词 | TRADUÇÃO: discurso de respuesta/palabras de agradecimiento
+答话 | TRADUÇÃO: responder/contestar
+答谢 | TRADUÇÃO: expresar agradecimiento/dar las gracias
+答辩 | TRADUÇÃO: responder a una acusación/defender una tesis de grado o doctorado
+答录机 | TRADUÇÃO: contestador automático
+答非所问 | TRADUÇÃO: responder una cosa por otra (modismo)/contestar con evasivas
+筕 | TRADUÇÃO: véase 筕篖
+筕篖 | TRADUÇÃO: estera tejida de bambú
+策 | TRADUÇÃO: apellido Ce ‖ política/plan/estrategia/tablilla de bambú para escribir (antiguo)/azotar (a un caballo)/alentar/fusta con púas (antiguo)/ensayo político para los exámenes imperiales/trazo horizontal ascendente en caligrafía ‖ variante de 策 ‖ variante de 策
+策划 | TRADUÇÃO: planear/idear/tramar/organizar/planificación/productor/planificador
+策划人 | TRADUÇÃO: promotor/organizador/planificador
+策勒 | TRADUÇÃO: véase 策勒縣|策勒县
+策勒县 | TRADUÇÃO: Qira, condado de la ciudad de Hotan 和田市, Sinkiang
+策动 | TRADUÇÃO: instigar/maquinar/impulsar una acción/tramar
+策励 | TRADUÇÃO: animar/alentar/espolear
+策反 | TRADUÇÃO: instigar a la rebelión o deserción/atraer al bando propio
+策问 | TRADUÇÃO: pregunta de política en los exámenes imperiales
+策士 | TRADUÇÃO: estratega/asesor político-militar
+策展 | TRADUÇÃO: comisariar/curar una exposición
+策展人 | TRADUÇÃO: comisario de exposición/curador de arte
+策应 | TRADUÇÃO: apoyar mediante acción coordinada/cooperar tácticamente
+策源地 | TRADUÇÃO: lugar de origen/foco/cuna (de una guerra o movimiento social)
+策略 | TRADUÇÃO: estrategia/táctica/astuto/hábil
+策画 | TRADUÇÃO: variante de 策劃|策划
+策试 | TRADUÇÃO: examen imperial consistente en un ensayo sobre asuntos de Estado 策論|策论
+策论 | TRADUÇÃO: ensayo sobre asuntos políticos presentado al emperador (antiguo)
+策谋 | TRADUÇÃO: estratagema (política o militar)/ardid
+策马 | TRADUÇÃO: espolear al caballo/apurar el caballo
+筘 | TRADUÇÃO: peine de telar/unidad de medida del ancho de tela
+筠 | TRADUÇÃO: usado en 筠連|筠连 (topónimo en Sichuan) ‖ piel verde del bambú/bambú
+筠连 | TRADUÇÃO: véase 筠連縣|筠连县
+筠连县 | TRADUÇÃO: Junlian, condado de la ciudad de Yibin 宜賓市|宜宾市, Sichuan
+筢 | TRADUÇÃO: rastrillo de bambú
+筢子 | TRADUÇÃO: rastrillo de bambú
+筤 | TRADUÇÃO: bambú joven
+筥 | TRADUÇÃO: cesto redondo de bambú
+筦 | TRADUÇÃO: apellido Guan
+管 | TRADUÇÃO: variante de 管 ‖ apellido Guan ‖ cuidar de/controlar/administrar/encargarse de/ocuparse de/dirigir/importar/tubo/conducto/instrumento de viento de madera/clasificador para objetos cilíndricos/partícula similar a 把 en construcciones 管...叫/pincel/(coloq.) hacia/a
+笕 | TRADUÇÃO: conducto de bambú/tubería de agua de bambú
+筭 | TRADUÇÃO: considerar/calcular/computar
+筮 | TRADUÇÃO: adivinar mediante tallos de milenrama
+箸 | TRADUÇÃO: variante de 箸 ‖ (literario) palillos (para comer)
+筰 | TRADUÇÃO: cable de bambú
+筱 | TRADUÇÃO: bambú enano/bambú fino
+筲箍 | TRADUÇÃO: colocar aros a una cesta de bambú
+筲箕 | TRADUÇÃO: cesta de bambú para lavar arroz
+筳 | TRADUÇÃO: tallo de bambú/huso
+筵 | TRADUÇÃO: estera de bambú para sentarse
+筵上 | TRADUÇÃO: en el banquete/en la mesa del festín
+筵席 | TRADUÇÃO: banquete/festín/estera para sentarse
+筵席捐 | TRADUÇÃO: impuesto sobre banquetes o festines
+筵宴 | TRADUÇÃO: banquete/festín
+筷 | TRADUÇÃO: palillo (para comer)
+筷子 | TRADUÇÃO: palillos chinos/palillos (para comer)/CL:對|对,根,把,雙|双
+筷子腿 | TRADUÇÃO: (coloq.) piernas muy delgadas/piernas de palillo
+筷子芥 | TRADUÇÃO: Arabis (género de plantas de la familia de las brasicáceas)
+筸 | TRADUÇÃO: usado en 鎮筸|镇筸
+箂 | TRADUÇÃO: (bambú)
+箅 | TRADUÇÃO: (forma ligada) rejilla de bambú para cocinar al vapor
+箅子 | TRADUÇÃO: rejilla de bambú para vapor/parrilla/rejilla
+箊 | TRADUÇÃO: bambú de hojas anchas y delgadas
+笺注 | TRADUÇÃO: anotar textos antiguos/comentarios explicativos
+箍 | TRADUÇÃO: aro/fleje/abrazadera/ceñir con aros
+箍嘴 | TRADUÇÃO: poner bozal
+箍子 | TRADUÇÃO: anillo (dialectal)/aro
+箍带 | TRADUÇÃO: correa/banda de sujeción/CL:條|条
+箍桶 | TRADUÇÃO: tonel o barril con aros/fabricar toneles a mano
+箍桶匠 | TRADUÇÃO: tonelero
+箍桶店 | TRADUÇÃO: tonelería
+箍煲 | TRADUÇÃO: recomponer una relación/hacer las paces (cantonés)
+箍节儿 | TRADUÇÃO: tramo corto/pequeña sección
+箍紧 | TRADUÇÃO: ajustar firmemente con un aro/apretar con abrazaderas
+箍麻 | TRADUÇÃO: entumecerse (por estar atado demasiado apretado)
+箎 | TRADUÇÃO: flauta de bambú de ocho agujeros
+筝 | TRADUÇÃO: véase 古箏|古筝
+箐 | TRADUÇÃO: tensar un arco o ballesta de bambú
+箑 | TRADUÇÃO: abanico
+箔 | TRADUÇÃO: estera tejida de juncos o bambú/bandeja para gusanos de seda/lámina metálica/papel de aluminio
+箔篱 | TRADUÇÃO: (dialectal) tabique o biombo tejido de cañas o bambú/pesquera o red fija tejida para atrapar peces
+箕 | TRADUÇÃO: bieldo/canasta para aventar granos/recogedor
+箕子 | TRADUÇÃO: Jizi (sabio legendario de finales de la dinastía Shang, c. 1100 a. C.)
+算 | TRADUÇÃO: calcular/contar/computar/incluir/dar por válido/importar/considerar como
+算不了 | TRADUÇÃO: no ser de gran importancia/no tener relevancia/no contar para nada
+算不得 | TRADUÇÃO: no poder considerarse como/no contar como
+算了 | TRADUÇÃO: déjalo/déjalo estar/olvídalo/basta ya
+算你狠 | TRADUÇÃO: ¡tú ganas!/¡eres increíble!/¡te saliste con la tuya!
+算出 | TRADUÇÃO: calcular/deducir mediante cálculo/determinar
+算力 | TRADUÇÃO: potencia de cálculo/tasa de hash (minería de criptomonedas)
+算卦 | TRADUÇÃO: adivinación con trigramas/echar las cartas o los palitos
+算命 | TRADUÇÃO: adivinación de la suerte/predecir el futuro/leer la fortuna
+算命先生 | TRADUÇÃO: adivino/echador de cartas/clarividente
+算命家 | TRADUÇÃO: adivino/astrólogo/futurólogo
+算命者 | TRADUÇÃO: adivino/persona que predice el futuro
+算哪根葱 | TRADUÇÃO: ¿quién se cree que es?/¿quién te crees tú? (despectivo)
+算子 | TRADUÇÃO: operador (mat.)
+算数 | TRADUÇÃO: contar números/cumplir la palabra/mantenerse válido/contar/ser tomado en cuenta
+算是 | TRADUÇÃO: considerarse como/poder darse por/al fin
+算法 | TRADUÇÃO: algoritmo/método de cálculo/aritmética
+算准 | TRADUÇÃO: calcular con precisión/acertar en la previsión/adivinar correctamente
+算盘 | TRADUÇÃO: ábaco/CL:把/plan/cálculo interesado
+算老几 | TRADUÇÃO: ¿quién se cree que es?/¿quién te crees tú que eres?
+算术 | TRADUÇÃO: aritmética
+算术平均 | TRADUÇÃO: media aritmética (mat.)
+算术平均数 | TRADUÇÃO: media aritmética
+算术式 | TRADUÇÃO: (mat.) expresión aritmética
+算术级数 | TRADUÇÃO: serie aritmética (como 2+4+6+8+...)
+算计 | TRADUÇÃO: calcular/planear/maquinar/especular/hacer cálculos
+算话 | TRADUÇÃO: cumplir lo dicho/mantener la palabra
+算账 | TRADUÇÃO: (contabilidad) cuadrar las cuentas/hacer las cuentas/(fig.) ajustar cuentas/vengarse
+算起来 | TRADUÇÃO: calcular/estimar/en total/en conjunto/(fig.) pensándolo bien
+箘 | TRADUÇÃO: brotes tiernos de bambú
+箙 | TRADUÇÃO: carcaj/aljaba
+箛 | TRADUÇÃO: (bambú)/trompeta para carros de guerra
+箜 | TRADUÇÃO: usado en 箜篌
+箜篌 | TRADUÇÃO: konghou (arpa tradicional china)
+箜簧 | TRADUÇÃO: antiguo instrumento de viento de cañas/(posible uso erróneo de konghou 箜篌 o sheng 笙簧)
+箝 | TRADUÇÃO: tenazas/alicates/sujetar fuertemente
+管不着 | TRADUÇÃO: no tener derecho a intervenir/¡no es asunto tuyo!
+管中窥豹 | TRADUÇÃO: (lit.) mirar a un leopardo a través de un tubo (modismo)/(fig.) tener una visión estrecha/no ver el panorama general
+管井 | TRADUÇÃO: pozo entubado
+管他 | TRADUÇÃO: no importa si/sin importar/no preocuparse por/qué más da
+管他三七二十一 | TRADUÇÃO: qué importa/sin importar las consecuencias/venga lo que venga
+管他呢 | TRADUÇÃO: qué importa/da igual/no importa/de todos modos
+管他的 | TRADUÇÃO: no te preocupes/no importa/da igual/qué más da
+管仲 | TRADUÇÃO: Guan Zhong (-645 a. C.), famoso estadista del Estado de Qi 齊國|齐国 del periodo de Primaveras y Otoños/conocido como Guanzi 管子
+管住 | TRADUÇÃO: controlar/frenar/refrenar/mantener a raya
+管住嘴迈开腿 | TRADUÇÃO: cerrar la boca y mover las piernas (lema para perder peso y mantenerse sano)
+管保 | TRADUÇÃO: garantizar/con toda seguridad
+管制 | TRADUÇÃO: controlar/restringir/(derecho en China) pena de restricción de libertad sin encarcelamiento de hasta 3 años
+管取 | TRADUÇÃO: con certeza/seguro
+管圆线虫 | TRADUÇÃO: Angiostrongylus (gusano parásito causante de meningitis eosinofílica)
+管城 | TRADUÇÃO: véase 管城回族區|管城回族区
+管城区 | TRADUÇÃO: Guancheng Hui, distrito de la ciudad de Zhengzhou 鄭州市|郑州市, Henan
+管城回族区 | TRADUÇÃO: Guancheng Hui, distrito de la ciudad de Zhengzhou 鄭州市|郑州市, Henan
+管套 | TRADUÇÃO: manguito de tubería/funda para tubo
+管委会 | TRADUÇÃO: comité de gestión/comité administrativo/abrev. de 管理委員會|管理委员会
+管子 | TRADUÇÃO: Guanzi o Guan Zhong 管仲 (-645 a. C.), estadista de Qi 齊國|齐国 del periodo de Primaveras y Otoños/Guanzi (obra clásica con escritos de su escuela) ‖ tubo/tubería/pajita/sorbete/CL:根
+管子工 | TRADUÇÃO: fontanero/plomero/instalador de tuberías
+管子钳 | TRADUÇÃO: llave para tubos/llave grifa
+管它 | TRADUÇÃO: no importa si/sin importar/no te preocupes por eso
+管家 | TRADUÇÃO: mayordomo/administrador/ama de llaves/administrar el hogar
+管家婆 | TRADUÇÃO: ama de casa (jocoso)/ama de llaves de rango superior (antiguo)/metomentodo
+管工 | TRADUÇÃO: fontanero/plomero/capataz
+管座 | TRADUÇÃO: zócalo de válvula electrónica/portalámparas
+管弦乐 | TRADUÇÃO: música orquestal
+管弦乐团 | TRADUÇÃO: orquesta sinfónica/orquesta
+管弦乐队 | TRADUÇÃO: orquesta/banda orquestal
+管待 | TRADUÇÃO: atender/hospedar/servir con hospitalidad
+管得着 | TRADUÇÃO: tener derecho a intervenir/ser de la incumbencia de uno
+管情 | TRADUÇÃO: con seguridad/garantizar
+管手管脚 | TRADUÇÃO: controlar en exceso/supervisión minuciosa y sofocante
+管扳手 | TRADUÇÃO: llave para tubos/llave Stilson
+管控 | TRADUÇÃO: controlar/gestionar/supervisar
+管教 | TRADUÇÃO: disciplinar/educar/garantizar
+管教无方 | TRADUÇÃO: incapaz de educar o disciplinar a un hijo/falta de disciplina paterna
+管束 | TRADUÇÃO: controlar/restringir/disciplinar/restricción
+管东管西 | TRADUÇÃO: entrometerse en todo/controlarlo absolutamente todo
+管乐器 | TRADUÇÃO: instrumento de viento/instrumento de viento-madera
+管治 | TRADUÇÃO: gobernanza/gobernar/administrar
+管灯 | TRADUÇÃO: lámpara fluorescente/tubo fluorescente
+管理 | TRADUÇÃO: gestionar/administrar/supervisar/administración/gestión/CL:個|个
+管理人 | TRADUÇÃO: supervisor/administrador/gerente
+管理信息库 | TRADUÇÃO: Base de Información de Gestión/MIB
+管理员 | TRADUÇÃO: administrador/gerente/gestor
+管理委员会 | TRADUÇÃO: comisión administrativa/comité de gestión
+管理学 | TRADUÇÃO: ciencias de la administración/estudios de gestión empresarial
+管理学院 | TRADUÇÃO: facultad de administración y dirección de empresas
+管理层收购 | TRADUÇÃO: compra por parte de la dirección/MBO
+管理站 | TRADUÇÃO: estación de gestión (informática y telecomunicaciones)
+管理费 | TRADUÇÃO: gastos de gestión/cuota de administración
+管用 | TRADUÇÃO: eficaz/útil/que da resultado
+管窥 | TRADUÇÃO: mirar a través de un tubo de bambú/tener una visión limitada
+管窥所及 | TRADUÇÃO: según mi modesta opinión/según mi limitado entender
+管纱 | TRADUÇÃO: husada/canilla (textiles)
+管线 | TRADUÇÃO: tuberías y cableado/conducciones
+管胞 | TRADUÇÃO: traqueida (botánica)
+管见 | TRADUÇÃO: mi humilde opinión/mi modesto punto de vista
+管见所及 | TRADUÇÃO: en mi humilde opinión (modismo)/hasta donde alcanza mi entender
+管路 | TRADUÇÃO: tubería/canalización/conducto (para agua, petróleo, etc.)
+管辖 | TRADUÇÃO: administrar/tener jurisdicción sobre/regir
+管道 | TRADUÇÃO: tubería/oleoducto/conducto/(fig.) canal/vía
+管道运输 | TRADUÇÃO: transporte por tubería/transporte por oleoducto
+管钳 | TRADUÇÃO: llave para caños/llave grifa
+管闲事 | TRADUÇÃO: meterse en asuntos ajenos/ser un entrometido
+管风琴 | TRADUÇÃO: órgano/órgano de tubos
+管龠 | TRADUÇÃO: flauta/tubo/llave/CL:把
+箢 | TRADUÇÃO: usado en 箢箕 y 箢篼 (pron. Taiwán [wan3])
+箢箕 | TRADUÇÃO: (dialectal) canasta tejida de bambú en forma de pala
+箢篼 | TRADUÇÃO: (dialectal) cesto de bambú en forma de pala
+箬 | TRADUÇÃO: (bambú)/piel de bambú/hojas de bambú indocalamus
+箭 | TRADUÇÃO: flecha/saeta/CL:支
+箭杆 | TRADUÇÃO: astil de la flecha/asta
+箭步 | TRADUÇÃO: zancada rápida hacia adelante/paso veloz
+箭毒木 | TRADUÇÃO: upas (Antiaris toxicaria, árbol venenoso)
+箭毒蛙 | TRADUÇÃO: rana punta de flecha/rana dardo venenosa
+箭牌 | TRADUÇÃO: Wrigley (marca de chicle)
+箭矢 | TRADUÇÃO: flechas/saetas/CL:支
+箭竹 | TRADUÇÃO: bambú flecha (género Fargesia)
+箭镞 | TRADUÇÃO: punta de flecha
+箭靶 | TRADUÇÃO: diana de tiro con arco/(fig.) blanco de críticas o ataques
+箭头 | TRADUÇÃO: punta de flecha/símbolo de flecha
+箭头键 | TRADUÇÃO: tecla de flecha (en el teclado)
+箭鱼 | TRADUÇÃO: variante de 劍魚|剑鱼
+箮 | TRADUÇÃO: flor de bambú/bambú en flor
+箯 | TRADUÇÃO: palanquín de bambú
+箱 | TRADUÇÃO: caja/baúl/cofre/maleta
+箱型车 | TRADUÇÃO: furgoneta/monovolumen (Taiwán)/también escrito 廂型車|厢型车
+箱子 | TRADUÇÃO: maleta/caja/baúl/cofre/estuche/CL:隻|只,個|个
+箱庭 | TRADUÇÃO: jardín en miniatura (estilo japonés)/juego de mundo abierto tipo sandbox/caja de arena (terapia)
+箱根 | TRADUÇÃO: Hakone (ciudad balneario en Japón al suroeste de Tokio)
+箱梁 | TRADUÇÃO: viga cajón (construcción e ingeniería)
+箱箧 | TRADUÇÃO: caja/cofre/baúl
+箱鼓 | TRADUÇÃO: cajón flamenco/cajón peruano (instrumento musical)
+箴 | TRADUÇÃO: advertir/amonestar/variante de 針|针
+箴言 | TRADUÇÃO: proverbio/máxima/admonición/Libro de los Proverbios (Biblia)
+箾 | TRADUÇÃO: golpear con una vara/(arcaico) bastón que sostenían los danzantes
+节 | TRADUÇÃO: véase 節骨眼|节骨眼 ‖ nudo/articulación/(forma ligada) sección/segmento/término solar (una de las 24 divisiones del calendario chino tradicional)/festividad estacional/(forma ligada) economizar/ahorrar/(forma ligada) integridad moral/castidad/clasificador para lecciones, vagones de tren, versículos bíblicos/nudo (milla náutica por hora)
+节上生枝 | TRADUÇÃO: brotar una nueva rama en el nudo (modismo); surgir nuevas complicaciones o problemas secundarios
+节令 | TRADUÇÃO: período estacional/término solar (en el calendario tradicional chino)
+节候 | TRADUÇÃO: estación del año/época climática
+节假日 | TRADUÇÃO: días festivos y vacaciones/festivos oficiales
+节俭 | TRADUÇÃO: frugal/austero/económico
+节制 | TRADUÇÃO: controlar/moderar/contenerse/templanza/sobriedad/administrar
+节哀顺变 | TRADUÇÃO: aceptar la pérdida con serenidad/resignarse ante el dolor (expresión de condolencia)
+节外生枝 | TRADUÇÃO: surgir complicaciones inesperadas (modismo)/complicar un asunto innecesariamente
+节奏 | TRADUÇÃO: ritmo/cadencia/compás/tempo musical
+节奏口技 | TRADUÇÃO: beatboxing
+节奏布鲁斯 | TRADUÇÃO: rhythm and blues/R&B
+节子 | TRADUÇÃO: nudo en la madera
+节度使 | TRADUÇÃO: jiedushi (gobernador militar provincial en las dinastías Tang y Song)
+节律 | TRADUÇÃO: ritmo/cadencia regular
+节庆 | TRADUÇÃO: festividad/celebración festiva
+节拍 | TRADUÇÃO: compás (música)/pulso rítmico
+节拍器 | TRADUÇÃO: metrónomo

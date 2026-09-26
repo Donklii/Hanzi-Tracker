@@ -1,0 +1,1004 @@
+# FORMATO (não traduzir esta linha): PALAVRA | TRADUÇÃO: <significados separados por "/"; leituras diferentes separadas por " ‖ ">
+# Traduza os significados diretamente do chinês para o português; a QUANTIDADE de significados por grupo é livre, mas os grupos "‖" devem manter a mesma quantidade e a mesma ordem.
+# NUNCA altere a PALAVRA antes do " | TRADUÇÃO:" — ela é a chave usada para juntar a tradução de volta ao dicionário original.
+# Responda com o mesmo formato, mesma ordem, uma linha por palavra, sem pular nenhuma.
+亏缺 | TRADUÇÃO: faltar/não atingir/declinar/déficit/deficiente
+亏负 | TRADUÇÃO: deficiente/decepcionar alguém/causar sofrimento a alguém
+虩 | TRADUÇÃO: aterrorizado
+虫 | TRADUÇÃO: variante de 蟲|虫 ‖ forma inferior de vida animal, incluindo insetos, larvas de insetos, vermes e criaturas semelhantes/CL:條|条,隻|只/(fig.) pessoa com uma característica indesejável específica
+虬 | TRADUÇÃO: dragão jovem com chifres
+虰 | TRADUÇÃO: ver 虰蛵
+虰蛵 | TRADUÇÃO: termo menos comum para libélula 蜻蜓
+虱 | TRADUÇÃO: piolho ‖ piolho
+虱子多了不痒，债多了不愁 | TRADUÇÃO: (lit.) quando coberto de piolhos, não se sente mais a coceira, e quando endividado até o pescoço, não se preocupa mais com isso (provérbio)/(fig.) estar além da preocupação (com algo)
+虱目鱼 | TRADUÇÃO: peixe-leite (Chanos chanos) ‖ variante de 虱目魚|虱目鱼
+蛇 | TRADUÇÃO: variante de 蛇 ‖ cobra/serpente/CL:條|条 ‖ usado em 委蛇
+虷 | TRADUÇÃO: verme
+虸 | TRADUÇÃO: usado em 虸蚄
+虸蚄 | TRADUÇÃO: lagarta-do-cartucho
+虹 | TRADUÇÃO: arco-íris
+虹口区 | TRADUÇÃO: distrito de Hongkou, centro de Xangai
+虹吸 | TRADUÇÃO: (lit. e fig.) sifonar
+虹吸管 | TRADUÇÃO: sifão
+虹彩 | TRADUÇÃO: iridescência/íris (do olho)
+虹彩病毒 | TRADUÇÃO: iridovírus
+虹桥 | TRADUÇÃO: Hongqiao, nome de inúmeras entidades, notavelmente um grande aeroporto em Xangai e um distrito em Tianjin
+虹桥机场 | TRADUÇÃO: Aeroporto de Hongqiao (Xangai)
+虹膜 | TRADUÇÃO: íris (do olho)
+虹鳟 | TRADUÇÃO: truta-arco-íris (Oncorhynchus mykiss)
+虺 | TRADUÇÃO: doente/sem ambição ‖ cobra venenosa mítica
+虺虺 | TRADUÇÃO: estrondo (de trovão, etc.)
+虺蜥 | TRADUÇÃO: cobra venenosa/fig. pessoa perversa
+虻 | TRADUÇÃO: mutuca/mosca-dos-cavalos ‖ variante antiga de 虻
+虼 | TRADUÇÃO: usado em 虼蚤/usado em 虼螂
+虼蚤 | TRADUÇÃO: (coloq.) pulga
+虼螂 | TRADUÇÃO: ver 蜣螂
+蚄 | TRADUÇÃO: usado em 虸蚄
+蚆 | TRADUÇÃO: um tipo de concha
+蚆蛸 | TRADUÇÃO: variante de 巴蛸
+蚈 | TRADUÇÃO: (arcaico) vaga-lume
+蚉 | TRADUÇÃO: variante antiga de 蚊
+蚊 | TRADUÇÃO: mosquito ‖ variante antiga de 蚊 ‖ variante antiga de 蚊
+蚊子 | TRADUÇÃO: mosquito
+蚊子再小也是肉 | TRADUÇÃO: (lit.) até um mosquito, embora minúsculo, fornece algum nutriente (expressão idiomática)/(fig.) é melhor que nada
+蚊子包 | TRADUÇÃO: picada de mosquito
+蚊子馆 | TRADUÇÃO: (jocoso) prédio público que está ocioso (e, portanto, ideal para abrigar mosquitos) (Taiwan)
+蚊帐 | TRADUÇÃO: mosquiteiro/CL:頂|顶
+蚊虫 | TRADUÇÃO: mosquito
+蚊香 | TRADUÇÃO: incenso ou espiral repelente de mosquitos
+蚋 | TRADUÇÃO: (mosquito)/Simulia lugubris/borrachudo
+蚌 | TRADUÇÃO: abrev. para a cidade de Bengbu, na província de Anhui 蚌埠市 ‖ mexilhão/berbigão
+蚌埠 | TRADUÇÃO: ver 蚌埠市
+蚌埠市 | TRADUÇÃO: Bengbu, cidade em nível de prefeitura na província de Anhui 安徽省
+蚌山 | TRADUÇÃO: ver 蚌山區|蚌山区
+蚌山区 | TRADUÇÃO: Bengshan, um distrito da cidade de Bengbu 蚌埠市, Anhui
+蚌壳 | TRADUÇÃO: concha de berbigão
+蚍 | TRADUÇÃO: usado em 蚍蜉
+蚍蜉 | TRADUÇÃO: um tipo de formiga grande
+蚍蜉撼大树 | TRADUÇÃO: (lit.) uma formiga tentando abalar uma grande árvore (expressão idiomática)/(fig.) superestimar a própria força/também escrito 蚍蜉撼樹|蚍蜉撼树
+蚍蜉撼树 | TRADUÇÃO: (lit.) uma formiga tentando abalar uma árvore (expressão idiomática)/(fig.) superestimar-se; superestimar as próprias capacidades
+蚓 | TRADUÇÃO: usado em 蚯蚓
+蚔 | TRADUÇÃO: rã-verde
+蚖 | TRADUÇÃO: Protura (hexapoda primitivo que vive no solo)/variante de 螈, salamandra/tritão
+蚖虫 | TRADUÇÃO: Protura (hexapoda primitivo que vive no solo)
+蚛 | TRADUÇÃO: (literário) (de um verme ou inseto) roer/morder/roído por vermes
+蚜 | TRADUÇÃO: pulgão
+蚜虫 | TRADUÇÃO: pulgão-verde (Aphis spp.)/afídeo
+蚡 | TRADUÇÃO: (toupeira)
+蚣 | TRADUÇÃO: usado em 蜈蚣
+蚤 | TRADUÇÃO: pulga
+蚦 | TRADUÇÃO: variante de 蚺
+蚧 | TRADUÇÃO: ver 蛤蚧
+蚨 | TRADUÇÃO: (besouro-d'água)/dinheiro
+蚩 | TRADUÇÃO: sobrenome Chi ‖ ignorante/verme
+蚩尤 | TRADUÇÃO: Chiyou, líder tribal lendário que foi derrotado e morto pelo Imperador Amarelo 黃帝|黄帝
+蚪 | TRADUÇÃO: usado em 蝌蚪
+蚯 | TRADUÇÃO: usado em 蚯蚓
+蚯蚓 | TRADUÇÃO: (zoologia) minhoca
+蚰 | TRADUÇÃO: ver 蚰蜒
+蚰蜒 | TRADUÇÃO: centopeia-doméstica
+蚰蜒路 | TRADUÇÃO: (lit.) caminho de centopeia/fig. estrada estreita e sinuosa
+蚱 | TRADUÇÃO: gafanhoto
+蚱蜢 | TRADUÇÃO: gafanhoto
+蚱虫 | TRADUÇÃO: gafanhoto
+蚲 | TRADUÇÃO: gorgulho-do-arroz
+蚳 | TRADUÇÃO: ovos de formiga
+蚴 | TRADUÇÃO: larva
+蚵 | TRADUÇÃO: (Taiwan) ostra (do taiwanês, pron. Tai-lo [ô])
+蚵仔 | TRADUÇÃO: ostra (do taiwanês, pron. Tai-lo [ô-á])
+蚵仔煎 | TRADUÇÃO: (Taiwan) omelete de ostra (do taiwanês, pron. Tai-lo [ô-á-tsian])
+蚶 | TRADUÇÃO: pequeno berbigão (Arca inflata)
+蚶子 | TRADUÇÃO: berbigão-sangue
+蚹 | TRADUÇÃO: escamas no ventre de uma cobra, auxiliando a locomoção/caracol/rastejar
+蚺 | TRADUÇÃO: jiboia
+蚺蛇 | TRADUÇÃO: jiboia
+蚻 | TRADUÇÃO: Aphrophora martima
+蚽 | TRADUÇÃO: um tipo de inseto (antigo)
+蚿 | TRADUÇÃO: piolho-de-cobra
+蛀 | TRADUÇÃO: cupim/perfurar (de insetos)
+蛀牙 | TRADUÇÃO: cárie dentária; cárie dental/dente cariado; dente podre
+蛀蚀 | TRADUÇÃO: corromper/erodir
+蛀虫 | TRADUÇÃO: inseto que rói madeira, livros, roupas, etc./fig. verme (pessoa nociva)
+蛁 | TRADUÇÃO: Pomponia maculatiocollis
+蛄 | TRADUÇÃO: ver 螻蛄|蝼蛄 ‖ usado em 蝲蛄/usado em 蝲蝲蛄
+蛅 | TRADUÇÃO: uma lagarta
+蛆 | TRADUÇÃO: larva de mosca/verme
+蛆虫 | TRADUÇÃO: verme/larva
+蛇信 | TRADUÇÃO: língua de cobra
+蛇夫座 | TRADUÇÃO: Ofiúco (constelação)
+蛇岛 | TRADUÇÃO: Ilha das Cobras (Shedao, no mar de Bohai, próxima a Lüshun, península de Liaoning)
+蛇岛蝮 | TRADUÇÃO: víbora-da-ilha-das-cobras (Gloydius shedaoensis)
+蛇年 | TRADUÇÃO: Ano da Cobra (ex.: 2001)
+蛇形 | TRADUÇÃO: em forma de S/serpentino/enrolado como uma cobra
+蛇果 | TRADUÇÃO: maçã Red Delicious
+蛇毒 | TRADUÇÃO: veneno de cobra
+蛇毒素 | TRADUÇÃO: veneno (toxina de serpente)
+蛇皮 | TRADUÇÃO: pele de cobra
+蛇皮果 | TRADUÇÃO: salaca (Salacca zalacca)
+蛇矛 | TRADUÇÃO: lança de lâmina ondulada
+蛇管 | TRADUÇÃO: mangueira flexível
+蛇精病 | TRADUÇÃO: (gíria) maluco/doido varrido (trocadilho com 神經病)
+蛇纹岩 | TRADUÇÃO: serpentinito (geologia)
+蛇纹石 | TRADUÇÃO: serpentina (geologia)
+蛇绿岩 | TRADUÇÃO: ofiolito (geologia)
+蛇绿混杂 | TRADUÇÃO: melange ofiolítica (geologia)
+蛇绿混杂岩 | TRADUÇÃO: ofiolito (geologia)
+蛇绿混杂岩带 | TRADUÇÃO: cinturão ofiolítico (geologia)
+蛇胆 | TRADUÇÃO: vesícula biliar de cobra (usada na MTC)
+蛇莓 | TRADUÇÃO: morango-da-índia (Potentilla indica)
+蛇蒿 | TRADUÇÃO: estragão
+蛇藨 | TRADUÇÃO: morango-da-índia (Potentilla indica)
+蛇蝎 | TRADUÇÃO: (fig.) malévolo/traicoeiro
+蛇蝎美人 | TRADUÇÃO: femme fatale/mulher fatal
+蛇行 | TRADUÇÃO: rastejar/zigzaguear/meandrar/deslizar
+蛇足 | TRADUÇÃO: lit. pernas em uma cobra/algo supérfluo
+蛇头 | TRADUÇÃO: cabeça de cobra/coiote (contrabandista de pessoas)
+蛇雕 | TRADUÇÃO: (ave da China) águia-serpente-de-crista (Spilornis cheela)
+蛇麻 | TRADUÇÃO: lúpulo (Humulus lupulus)
+蛇麻草 | TRADUÇÃO: lúpulo (Humulus lupulus)
+蛇龙珠 | TRADUÇÃO: Cabernet Gernischt (tipo de uva)
+蛉 | TRADUÇÃO: mosquito-palha
+蛋 | TRADUÇÃO: variante de 蜑 ‖ ovo/CL:個|个,打/objeto em forma oval
+蛋包 | TRADUÇÃO: omelete
+蛋包饭 | TRADUÇÃO: omurice (prato japonês de omelete recheado com arroz frito)
+蛋卷 | TRADUÇÃO: rolinho primavera de ovo
+蛋卷儿 | TRADUÇÃO: variante com erhua de 蛋卷
+蛋品 | TRADUÇÃO: produtos à base de ovo
+蛋塔 | TRADUÇÃO: pastel de ovo (tipo de torta)
+蛋奶冻 | TRADUÇÃO: creme (custard)
+蛋奶素 | TRADUÇÃO: ovolactovegetariano
+蛋奶酥 | TRADUÇÃO: suflê
+蛋挞 | TRADUÇÃO: pastel de ovo (pronúncia coloquial [dan4ta3])
+蛋壳 | TRADUÇÃO: casca de ovo
+蛋氨酸 | TRADUÇÃO: metionina (Met, aminoácido essencial)
+蛋液 | TRADUÇÃO: ovos batidos
+蛋清 | TRADUÇÃO: (coloq.) clara de ovo
+蛋炒饭 | TRADUÇÃO: arroz frito com ovos (salteado com arroz frio)
+蛋疼 | TRADUÇÃO: (gíria) irritante/dor de cabeça/chatice
+蛋白 | TRADUÇÃO: clara de ovo/proteína/albumina
+蛋白光 | TRADUÇÃO: opalescência
+蛋白石 | TRADUÇÃO: opala
+蛋白素 | TRADUÇÃO: albumina
+蛋白胨 | TRADUÇÃO: peptona (bioquímica)
+蛋白质 | TRADUÇÃO: proteína
+蛋白酶 | TRADUÇÃO: protease
+蛋糕 | TRADUÇÃO: bolo/CL:塊|块,個|个
+蛋糕裙 | TRADUÇÃO: saia de camadas/saia evasê
+蛋花汤 | TRADUÇÃO: sopa clara com ovos batidos e verduras/sopa de ovos
+蛋蛋 | TRADUÇÃO: (coloq.) bolas (testículos)
+蛋逼 | TRADUÇÃO: (dialeto) falar besteira/bater papo
+蛋酒 | TRADUÇÃO: eggnog
+蛋鸡 | TRADUÇÃO: galinha poedeira
+蛋饼 | TRADUÇÃO: panqueca de ovo (fina, enrolada com omelete, comum no café da manhã em Taiwan)
+蛋黄 | TRADUÇÃO: gema de ovo
+蛋黄素 | TRADUÇÃO: lecitina (fosfolipídeo presente na gema)
+蛋黄酱 | TRADUÇÃO: maionese
+蛌 | TRADUÇÃO: grilo
+蛐 | TRADUÇÃO: usado em 蛐蛐/usado em 蛐蟮
+蛐蛐 | TRADUÇÃO: (dialeto) grilo (inseto)/(gíria) fofocar/cochichar
+蛐蛐儿 | TRADUÇÃO: forma com erhua de 蛐蛐
+蛐蟮 | TRADUÇÃO: (coloq.) minhoca
+蛑 | TRADUÇÃO: caranguejo marinho
+蛓 | TRADUÇÃO: (literário) lagarta
+蛔虫 | TRADUÇÃO: lombriga/ascarídeo (Ascaris lumbricoides, parasita humano)/(fig.) pessoa que sabe o que o outro pensa/leitor de mentes
+蛔虫病 | TRADUÇÃO: ascaríase (infecção por Ascaris lumbricoides)
+蛘 | TRADUÇÃO: gorgulho (encontrado em arroz etc.)
+蛙 | TRADUÇÃO: sapo/rã/CL:隻|只 ‖ variante antiga de 蛙
+蛙人 | TRADUÇÃO: homem-rã/mergulhador
+蛙式 | TRADUÇÃO: nado de peito (natação)
+蛙泳 | TRADUÇÃO: nado de peito (natação)
+蛙鞋 | TRADUÇÃO: (mergulho, snorkel) nadadeiras/pés-de-pato
+蛚 | TRADUÇÃO: Cyrtoxiphus ritsemae (espécie de grilo)
+蛛 | TRADUÇÃO: (forma presa) aranha
+蛛形纲 | TRADUÇÃO: aracnídeos (classe de artrópodes)
+蛛丝马迹 | TRADUÇÃO: lit. fio de teia de aranha e rastro de cavalo/pistas tênues (de um segredo)/vestígios/indícios
+蛛网 | TRADUÇÃO: teia de aranha
+蛛蛛 | TRADUÇÃO: (coloq.) aranha
+蛜 | TRADUÇÃO: tatuzinho-de-jardim/bicho-de-conta
+蛜蝛 | TRADUÇÃO: tatuzinho-de-jardim/bicho-de-conta
+蛞 | TRADUÇÃO: usado em 蛞螻|蛞蝼/usado em 蛞蝓
+蛞蝓 | TRADUÇÃO: (zoologia) lesma
+蛞蝼 | TRADUÇÃO: paquinha (Gryllotalpa)
+蛟 | TRADUÇÃO: dragão lendário que controla chuvas e enchentes/ver também 蛟龍|蛟龙
+蛟河 | TRADUÇÃO: ver 蛟河市
+蛟河市 | TRADUÇÃO: Jiaohe, cidade suburbana em Jilin City 吉林市, Jilin
+蛟龙 | TRADUÇÃO: dragão lendário com a capacidade de controlar chuva e inundações
+蛡 | TRADUÇÃO: (literário) favo de mel; colmeia
+蛣 | TRADUÇÃO: besouro
+蛤 | TRADUÇÃO: (forma presa) marisco / usado em 蛤蚧 ‖ usado em 蛤蟆
+蛤蚌 | TRADUÇÃO: marisco
+蛤蚧 | TRADUÇÃO: lagartixa-tokai (Gekko gecko), usada na MTC
+蛤蜊 | TRADUÇÃO: marisco
+蛤蟆 | TRADUÇÃO: sapo; rã
+蛤蟆夯 | TRADUÇÃO: compactador ou socador mecânico
+蛤蟆镜 | TRADUÇÃO: óculos de aviador
+蛤蟹 | TRADUÇÃO: mariscos e caranguejos / lagartixa-tokai (Gekko gecko)
+蛤蛎 | TRADUÇÃO: marisco / o mesmo que 蛤蜊
+蛧 | TRADUÇÃO: variante antiga de 魍
+蛩 | TRADUÇÃO: ansioso / gafanhoto / grilo
+蛭 | TRADUÇÃO: verme / sanguessuga / hirudíneo
+蛭石 | TRADUÇÃO: vermiculita
+蛵 | TRADUÇÃO: vide 虰蛵
+蛸 | TRADUÇÃO: polvo / usado em 蠨蛸|蟏蛸 e 肖蛸 ‖ usado em 螵蛸
+蛹 | TRADUÇÃO: crisálida; pupa
+蛱 | TRADUÇÃO: vide 蛺蝶|蛱蝶
+蛱蝶 | TRADUÇÃO: ninfalídeo / borboleta
+蜕 | TRADUÇÃO: pele trocada durante a muda / exúvia / tornar-se pupa / mudar (a pele) / trocar (uma pele ou carapaça velha)
+蜕化 | TRADUÇÃO: (de insetos) sofrer metamorfose / (fig.) transformar-se / metamorfosear-se / degradar-se
+蜕化变质 | TRADUÇÃO: (expressão idiomática) degenerar (moralmente); tornar-se depravado
+蜕壳 | TRADUÇÃO: ecdise; mudar (a pele) ‖ vide 蛻殼|蜕壳
+蜕皮 | TRADUÇÃO: pele trocada durante a muda / exúvio / tornar-se pupa / mudar (a pele) / trocar uma pele ou carapaça velha
+蜕变 | TRADUÇÃO: transformar-se / metamorfosear-se / degenerar / metamorfose / transmutação / transformação / decaimento / degeneração
+蛾 | TRADUÇÃO: (forma presa) mariposa
+蛾子 | TRADUÇÃO: mariposa
+蛾摩拉 | TRADUÇÃO: Gomorra
+蛾眉 | TRADUÇÃO: (fig.) mulher bonita
+蛾眉皓齿 | TRADUÇÃO: sobrancelhas belas e dentes brancos (expressão idiomática); jovem mulher adorável
+蛾类 | TRADUÇÃO: mariposa (família)
+蜀 | TRADUÇÃO: abreviatura da província de Sichuan / um dos Três Reinos 三國|三国 após a dinastia Han, também chamado de 蜀漢|蜀汉, situado na atual província de Sichuan
+蜀国 | TRADUÇÃO: Sichuan / o estado de Shu em Sichuan em diferentes períodos / a dinastia Shu Han (214-263) de Liu Bei 劉備|刘备 durante os Três Reinos
+蜀山 | TRADUÇÃO: vide 蜀山區|蜀山区
+蜀山区 | TRADUÇÃO: Shushan, um distrito da cidade de Hefei 合肥市, Anhui
+蜀汉 | TRADUÇÃO: Shu Han (c. 200-263), o reino de Liu Bei em Sichuan durante os Três Reinos, reivindicando legitimidade como sucessor dos Han
+蜀犬吠日 | TRADUÇÃO: lit. cães de Sichuan ladram para o sol (expressão idiomática); fig. um simplório se maravilha até com as coisas mais comuns / alusão ao tempo nublado de Sichuan, onde é raro ver um dia ensolarado
+蜀相 | TRADUÇÃO: o Primeiro-Ministro de Shu (isto é, Zhuge Liang 諸葛亮|诸葛亮)
+蜀绣 | TRADUÇÃO: bordado de Sichuan, um dos quatro principais estilos tradicionais de bordado chinês (os outros três são 蘇繡|苏绣, 湘繡|湘绣 e 粵繡|粤绣)
+蜀葵 | TRADUÇÃO: malva-rosa (Alcea rosea)
+蜀锦 | TRADUÇÃO: brocado de Sichuan
+蜂乳 | TRADUÇÃO: geleia real
+蜂后 | TRADUÇÃO: abelha-rainha
+蜂子 | TRADUÇÃO: (coloq.) abelha; vespa
+蜂巢 | TRADUÇÃO: favo de mel; colmeia
+蜂巢胃 | TRADUÇÃO: retículo (segundo estômago de ruminantes); dobradinha em forma de favo
+蜂房 | TRADUÇÃO: favo de mel; colmeia
+蜂拥 | TRADUÇÃO: enxamear; aglomerar-se; apinhar-se
+蜂拥而至 | TRADUÇÃO: chegar em grande número / aglomerar-se lá
+蜂毒 | TRADUÇÃO: veneno de vespa
+蜂涌 | TRADUÇÃO: enxamear / aglomerar-se
+蜂王 | TRADUÇÃO: abelha-rainha
+蜂王乳 | TRADUÇÃO: geleia real
+蜂王浆 | TRADUÇÃO: geleia real
+蜂王精 | TRADUÇÃO: geleia real
+蜂皇浆 | TRADUÇÃO: geleia real
+蜂窝 | TRADUÇÃO: favo de mel; colmeia
+蜂窝煤 | TRADUÇÃO: briquete de carvão hexagonal para uso doméstico
+蜂窝组织 | TRADUÇÃO: (fisiologia) tecido areolar; tecido celular
+蜂窝网络 | TRADUÇÃO: rede celular
+蜂箱 | TRADUÇÃO: colmeia
+蜂糕 | TRADUÇÃO: bolo esponjoso (bolo leve de farinha ou arroz cozido no vapor)
+蜂群 | TRADUÇÃO: colônia de abelhas / enxame / CL:隊|队
+蜂聚 | TRADUÇÃO: enxamear / congregar-se em massa
+蜂胶 | TRADUÇÃO: própolis
+蜂蜜 | TRADUÇÃO: mel
+蜂蜜酒 | TRADUÇÃO: hidromel
+蜂螫 | TRADUÇÃO: ferroada de abelha
+蜂蜡 | TRADUÇÃO: cera de abelha
+蜂起 | TRADUÇÃO: enxamear / surgir em massa
+蜂农 | TRADUÇÃO: apicultor
+蜂鸟 | TRADUÇÃO: beija-flor
+蜂鸣器 | TRADUÇÃO: campainha; buzina
+蜃 | TRADUÇÃO: amêijoa gigante / (mitologia) monstro-amêijoa que, diz-se, sopra um vapor que forma uma miragem de edifícios
+蜃景 | TRADUÇÃO: miragem
+蜅 | TRADUÇÃO: caranguejo
+蚬 | TRADUÇÃO: amêijoa-cesta (amêijoa da família Corbiculidae); (esp.) Corbicula leana 真蜆|真蚬
+蜇 | TRADUÇÃO: picar (com ferrão) / ferroada ‖ água-viva
+蜈 | TRADUÇÃO: usado em 蜈蚣
+蜈支洲岛 | TRADUÇÃO: Ilha de Wuzhizhou, Hainan
+蜈蚣 | TRADUÇÃO: centopeia
+蜉 | TRADUÇÃO: usado em 蚍蜉 / usado em 蜉蝣
+蜉蝣 | TRADUÇÃO: efêmera (inseto)
+蜊 | TRADUÇÃO: marisco
+螂 | TRADUÇÃO: variante de 螂 ‖ usado em 螞螂|蚂螂 / usado em 蜣螂 e 虼螂 / usado em 螳螂 / usado em 蟑螂
+蜍 | TRADUÇÃO: Bufo vulgaris / sapo
+蜎 | TRADUÇÃO: sobrenome Yuan ‖ larva de mosquito
+蜐 | TRADUÇÃO: vide 石蜐
+蜑 | TRADUÇÃO: povo Tanka
+蜑人 | TRADUÇÃO: vide 蜑家
+蜑家 | TRADUÇÃO: Tanka, povo que vive em barcos nas províncias de Guangdong, Guangxi, Fujian, Hainan e Zhejiang
+蜑户 | TRADUÇÃO: vide 蜑家
+蜑民 | TRADUÇÃO: vide 蜑家
+蜒 | TRADUÇÃO: lesma / usado em 蜿蜒
+蜒蚰 | TRADUÇÃO: (dialetal) lesma
+蜓 | TRADUÇÃO: vide 蜻蜓
+蜘 | TRADUÇÃO: usado em 蜘蛛
+蜘蛛 | TRADUÇÃO: aranha
+蜘蛛人 | TRADUÇÃO: Homem-Aranha/apelido do alpinista francês Alain Robert (1962-)/pessoa que escala as paredes externas de um edifício como acrobacia ou para manutenção predial ‖ (coloq.) técnico de acesso por corda; alpinista industrial; (especialmente) lavador de janelas de arranha-céus
+蜘蛛侠 | TRADUÇÃO: Homem-Aranha, super-herói de história em quadrinhos
+蜘蛛星云 | TRADUÇÃO: Nebulosa da Tarântula
+蜘蛛痣 | TRADUÇÃO: aranha vascular (medicina)
+蜘蛛网 | TRADUÇÃO: teia de aranha
+蜘蛛类 | TRADUÇÃO: aracnídeo
+蜙 | TRADUÇÃO: usado em 蜙蝑
+蜙蝑 | TRADUÇÃO: esperança (inseto)
+蜚 | TRADUÇÃO: usado em 蜚蠊
+蜚短流长 | TRADUÇÃO: espalhar boatos maliciosos/também escrito 飛短流長|飞短流长
+蜚声 | TRADUÇÃO: tornar-se famoso/fazer nome
+蜚声世界 | TRADUÇÃO: famoso em todo o mundo
+蜚声海外 | TRADUÇÃO: famoso dentro e fora do país
+蜚蠊 | TRADUÇÃO: barata
+蜚蠊科 | TRADUÇÃO: Blattidae, família com cerca de 550 espécies de baratas
+蜚语 | TRADUÇÃO: boato infundado/fofoca maldosa
+蜛 | TRADUÇÃO: Hydrophilus cognatus
+蜜 | TRADUÇÃO: mel
+蜜囊 | TRADUÇÃO: papo de mel (anatomia da abelha)
+蜜大腿 | TRADUÇÃO: (coloq.) coxas curvilíneas (empréstimo do coreano)
+蜜月 | TRADUÇÃO: lua de mel
+蜜月假期 | TRADUÇÃO: lua de mel
+蜜柑 | TRADUÇÃO: tangerina/mexerica
+蜜桃 | TRADUÇÃO: pêssego mel/pêssego suculento
+蜜桃臀 | TRADUÇÃO: (coloq.) bunda em formato de pêssego; nádegas redondas e firmes
+蜜枣 | TRADUÇÃO: jujuba cristalizada
+蜜源 | TRADUÇÃO: fonte de néctar
+蜜獾 | TRADUÇÃO: ratel (Mellivora capensis)
+蜜穴 | TRADUÇÃO: (coloq.) vagina
+蜜糖 | TRADUÇÃO: mel
+蜜罐 | TRADUÇÃO: pote de mel/fig. condições de vida confortáveis/ambiente privilegiado
+蜜胺 | TRADUÇÃO: melamina (estrangeirismo)
+蜜蜂 | TRADUÇÃO: abelha/abelha melífera/CL:隻|只,群
+蜜蜂房 | TRADUÇÃO: colmeia
+蜜蜡 | TRADUÇÃO: cera de abelha
+蜜袋鼯 | TRADUÇÃO: petauro-do-açúcar (Petaurus breviceps)
+蜜语 | TRADUÇÃO: palavras doces/elogios
+蜜露 | TRADUÇÃO: honeydew (substância açucarada)
+蜜饯 | TRADUÇÃO: alimento preservado em açúcar ou mel
+蜞 | TRADUÇÃO: usado em 蟛蜞
+蜢 | TRADUÇÃO: gafanhoto
+蜣 | TRADUÇÃO: besouro-rola-bosta
+蜣螂 | TRADUÇÃO: besouro-rola-bosta
+蜥 | TRADUÇÃO: (forma presa) lagarto
+蜥形纲 | TRADUÇÃO: Sauropsida, classe dentro de Chordata que contém répteis
+蜥易 | TRADUÇÃO: variante de 蜥蜴
+蜥臀目 | TRADUÇÃO: Saurischia ou dinossauros com bacia de lagarto, ordem dentro da superordem Dinosauria
+蜥蜴 | TRADUÇÃO: lagarto
+蝶 | TRADUÇÃO: variante de 蝶 ‖ (forma presa) borboleta
+蜩 | TRADUÇÃO: cigarra
+蜮 | TRADUÇÃO: (mitologia chinesa) criatura que vive debaixo d'água e cospe areia para adoecer pessoas
+蜯 | TRADUÇÃO: variante de 蚌
+蜱 | TRADUÇÃO: carrapato (zoologia)
+蜱咬病 | TRADUÇÃO: doença da mordida de carrapato/termo informal para 發熱伴血小板減少綜合徵|发热伴血小板减少综合征
+蜱虫 | TRADUÇÃO: carrapato (aracnídeo parasita)
+蜴 | TRADUÇÃO: usado em 蜥蜴
+蜷 | TRADUÇÃO: enrolar-se (como um pergaminho)/encolher-se/Melania libertina/contorcer-se (como um verme)
+蜷伏 | TRADUÇÃO: enrolar-se/deitar com os joelhos dobrados/encolher-se
+蜷局 | TRADUÇÃO: enrolar-se/espiralar-se
+蜷曲 | TRADUÇÃO: torcido/enrolado/encaracolado
+蜷缩 | TRADUÇÃO: enrolar-se/encolher-se/agachar-se/acovardar-se
+蜷卧 | TRADUÇÃO: enrolar-se/deitar encolhido
+霓 | TRADUÇÃO: cigarra japonesa/variante antiga de 霓 ‖ arco-íris secundário
+蜻 | TRADUÇÃO: ver 蜻蜓
+蜻蛉 | TRADUÇÃO: libélula (subordem Zygoptera)/crisopa
+蜻蛉目 | TRADUÇÃO: Odonata, ordem que consiste em cerca de 6.000 espécies de libélulas e daminhas
+蜻蜓 | TRADUÇÃO: libélula
+蜻蜓撼石柱 | TRADUÇÃO: lit. a libélula abala a torre de pedra (expressão idiomática); fig. superestimar as próprias capacidades
+蜻蜓目 | TRADUÇÃO: Odonata, ordem que consiste em cerca de 6.000 espécies de libélulas e daminhas
+蜻蜓点水 | TRADUÇÃO: lit. a libélula toca a água levemente/contato superficial (expressão idiomática)
+蜻蝏 | TRADUÇÃO: variante de 蜻蜓
+蜽 | TRADUÇÃO: usado em 蝄蜽
+蜾 | TRADUÇÃO: usado em 蜾蠃
+蜾蠃 | TRADUÇÃO: vespa oleira
+蜿 | TRADUÇÃO: usado em 蜿蜒
+蜿蜒 | TRADUÇÃO: (de uma cobra) rastejar/(de um rio etc) serpentear; meandrar; fazer curvas
+𬟽 | TRADUÇÃO: usado em 螮蝀|䗖𬟽
+蝃 | TRADUÇÃO: variante de 螮|䗖 ‖ ver 蝃蝥
+蝃蝥 | TRADUÇÃO: aranha (antigo)
+蝄 | TRADUÇÃO: usado em 蝄蜽
+蝄蜽 | TRADUÇÃO: variante de 魍魎|魍魉
+蝌 | TRADUÇÃO: usado em 蝌蚪
+蝌蚪 | TRADUÇÃO: girino/CL:隻|只,條|条
+蝍 | TRADUÇÃO: uma centopeia
+蝎 | TRADUÇÃO: variante de 蠍|蝎 ‖ (forma presa) escorpião
+蝏 | TRADUÇÃO: usado em 蜻蝏
+蝐 | TRADUÇÃO: ver 蝳蝐
+蝑 | TRADUÇÃO: usado em 蜙蝑
+蝒 | TRADUÇÃO: cigarra grande e preta/gafanhoto
+蝓 | TRADUÇÃO: usado em 蛞蝓
+蚀 | TRADUÇÃO: roer/corromper/erodir
+蚀刻 | TRADUÇÃO: gravar a água-forte/gravura
+蝗 | TRADUÇÃO: gafanhoto (praga)
+蝗灾 | TRADUÇÃO: praga de gafanhotos
+蝗科 | TRADUÇÃO: Acridoidea (família que contém gafanhotos, grilos e locustas)
+蝗蝻 | TRADUÇÃO: ninfa de gafanhoto
+蝗虫 | TRADUÇÃO: gafanhoto (praga)
+蝘 | TRADUÇÃO: Hemidactylus bowringii
+蝙 | TRADUÇÃO: usado em 蝙蝠
+蝙蝠 | TRADUÇÃO: (zoologia) morcego
+蝙蝠侠 | TRADUÇÃO: Batman, super-herói de história em quadrinhos
+蝛 | TRADUÇÃO: veja 蛜蝛
+蝝 | TRADUÇÃO: larva de gafanhoto sem asas
+猬 | TRADUÇÃO: (forma presa) ouriço
+蝠 | TRADUÇÃO: (forma presa) morcego
+蝠鲼 | TRADUÇÃO: manta (peixe do gênero Mobula)
+蠕 | TRADUÇÃO: variante de 蠕 ‖ contorcer-se/mexer-se/retorcer-se/pr. em Taiwan: [ruan3]
+蝣 | TRADUÇÃO: usado em 蜉蝣
+蝤 | TRADUÇÃO: usado em 蝤蠐|蝤蛴
+蝤蛴 | TRADUÇÃO: (literário) larva de besouro longicórnio
+蝥 | TRADUÇÃO: variante de 蟊
+虾 | TRADUÇÃO: usado em 蝦蟆|虾蟆 ‖ camarão
+虾干 | TRADUÇÃO: camarão seco
+虾仁 | TRADUÇÃO: carne de camarão/camarão descascado
+虾兵蟹将 | TRADUÇÃO: soldados camarão e generais caranguejo (na mitologia ou ficção popular, o exército do Rei Dragão do Mar Oriental)/tropas inúteis (expressão idiomática)
+虾夷 | TRADUÇÃO: Emishi ou Ebisu, grupo étnico do Japão antigo, considerado relacionado aos modernos Ainus
+虾夷葱 | TRADUÇÃO: cebolinha-francesa
+虾子 | TRADUÇÃO: ovas de camarão; ovos de camarão ‖ camarão
+虾油 | TRADUÇÃO: molho de camarão
+虾滑 | TRADUÇÃO: pasta lisa de camarão cru, feita misturando camarão picado com amido e clara de ovo, comumente adicionada ao hot pot
+虾爬子 | TRADUÇÃO: tamarutaca
+虾男 | TRADUÇÃO: (gíria) um cara que é como um camarão: corpo gostoso, mas não tão atraente acima do pescoço
+虾皮 | TRADUÇÃO: pequeno camarão seco
+虾米 | TRADUÇÃO: camarão pequeno; camarão seco e descascado/(Taiwan) (coloq.) o quê (do taiwanês 啥物, leitura em Tai-lo [siánn-mih], equivalente ao mandarim 什麼|什么)
+虾红素 | TRADUÇÃO: astaxantina
+虾线 | TRADUÇÃO: trato digestivo de um camarão/veia de areia
+虾虎鱼 | TRADUÇÃO: peixe-góbio (peixe chato, Gobiidae)
+虾虎鱼科 | TRADUÇÃO: Gobiidae (subordem de perciformes)
+虾蛄 | TRADUÇÃO: tamarutaca
+虾蟆 | TRADUÇÃO: variante de 蛤蟆
+虾酱 | TRADUÇÃO: pasta de camarão
+虾青素 | TRADUÇÃO: astaxantina
+虾饺 | TRADUÇÃO: pastéis de camarão
+虱多不痒 | TRADUÇÃO: (lit.) quando se está coberto de piolhos, não se sente mais a coceira (expressão idiomática)/(fig.) estar além de se preocupar (com algo)
+虱子 | TRADUÇÃO: piolho (Pediculus humanus)
+蝮 | TRADUÇÃO: inseto/cobra venenosa (arcaico)
+蝮蛇 | TRADUÇÃO: víbora siberiana (Gloydius halys)/víbora
+蝰 | TRADUÇÃO: usado em 蝰蛇
+蝰蛇 | TRADUÇÃO: víbora da floresta ou do prado (Vipera russelii siamensis ou similar)
+蝲 | TRADUÇÃO: usado em 蝲蛄/usado em 蝲蝲蛄
+蝲蛄 | TRADUÇÃO: lagostim
+蝲蝲蛄 | TRADUÇÃO: paquinha
+蝳 | TRADUÇÃO: veja 蝳蝐
+蝳蝐 | TRADUÇÃO: variante de 玳瑁/tartaruga-de-pente
+蝴 | TRADUÇÃO: usado em 蝴蝶
+蝴蝶 | TRADUÇÃO: borboleta/CL:隻|只
+蝴蝶效应 | TRADUÇÃO: efeito borboleta (teoria dos sistemas dinâmicos)
+蝴蝶犬 | TRADUÇÃO: papillon (cão de colo com orelhas em forma de borboleta)
+蝴蝶琴 | TRADUÇÃO: mesmo que yangqin 揚琴|扬琴, saltério
+蝴蝶结 | TRADUÇÃO: laço/laço de fita
+蝴蝶花 | TRADUÇÃO: íris/Iris tectorum
+蝴蝶兰 | TRADUÇÃO: orquídea-mariposa (gênero Phalaenopsis)
+蝴蝶酥 | TRADUÇÃO: massa folhada crocante/mil-folhas
+蝴蝶铰 | TRADUÇÃO: dobradiça
+蝴蝶领结 | TRADUÇÃO: gravata borboleta
+蝶古巴特 | TRADUÇÃO: (Taiwan) (estrangeirismo) decoupage
+蝶形领带 | TRADUÇÃO: gravata borboleta
+蝶形领结 | TRADUÇÃO: gravata borboleta
+蝶泳 | TRADUÇÃO: nado borboleta (natação)
+蝶窦 | TRADUÇÃO: seio esfenoidal
+蝶兰 | TRADUÇÃO: Phalaenopsis (gênero de flores)
+蝶变 | TRADUÇÃO: (de uma lagarta etc) metamorfosear-se/(fig.) passar por uma mudança positiva drástica (ex.: renovação urbana, reforma industrial, avanço econômico etc)
+蝶类 | TRADUÇÃO: borboleta (família)
+蝶骨 | TRADUÇÃO: osso esfenoide (frente da têmpora)
+蜗 | TRADUÇÃO: caracol/pr. em Taiwan: [gua1]/veja 蝸牛|蜗牛
+蜗居 | TRADUÇÃO: morada humilde/morar (em um espaço minúsculo e apertado)
+蜗庐 | TRADUÇÃO: morada humilde
+蜗旋 | TRADUÇÃO: espiralar
+蜗杆 | TRADUÇÃO: parafuso sem-fim (engenharia mecânica)
+蜗杆副 | TRADUÇÃO: par de coroa e sem-fim/acionamento por sem-fim/sem-fim e coroa
+蜗牛 | TRADUÇÃO: caracol/pr. em Taiwan: [gua1 niu2]
+蜗窗 | TRADUÇÃO: (anatomia) janela redonda (uma das duas aberturas do ouvido médio para o ouvido interno)
+蜗蜒 | TRADUÇÃO: caracol
+蜗行 | TRADUÇÃO: avançar a passo de caracol
+蜗行牛步 | TRADUÇÃO: lit. rastejar como um caracol e andar pesadamente como um boi velho (expressão idiomática)/fig. mover-se a passo de caracol/progredir lentamente
+蝻 | TRADUÇÃO: ninfa de gafanhoto
+蝽 | TRADUÇÃO: percevejo
+螃 | TRADUÇÃO: usado em 螃蟹
+螃蟹 | TRADUÇÃO: caranguejo/CL:隻|只
+蛳 | TRADUÇÃO: caramujo
+螅 | TRADUÇÃO: usado em 水螅
+螈 | TRADUÇÃO: salamandra/tritão
+螉 | TRADUÇÃO: veja 蠮螉
+螉䗥 | TRADUÇÃO: vespa parasita (de bovinos e equinos)
+螋 | TRADUÇÃO: usado em 蠼螋
+融 | TRADUÇÃO: derreter/degelar/misturar-fundir/harmonizar/fundir ‖ variante antiga de 融
+融入 | TRADUÇÃO: integrar-se/assimilar-se/fundir-se
+融冰 | TRADUÇÃO: (lit. ou fig.) degelo
+融化 | TRADUÇÃO: derreter/degelar/dissolver/fundir-se/combinar-se/fusionar
+融汇 | TRADUÇÃO: fusão/combinar como um só
+融汇贯通 | TRADUÇÃO: variante de 融會貫通|融会贯通
+融合 | TRADUÇÃO: mistura/amálgama/fusão/soldagem/estar em harmonia com (a natureza)/harmonizar-se com/encaixar-se
+融合为一 | TRADUÇÃO: formar um todo coeso/fundir-se
+融和 | TRADUÇÃO: quente/agradável
+融安 | TRADUÇÃO: veja 融安縣|融安县
+融安县 | TRADUÇÃO: Rong'an, um condado na cidade de Liuzhou 柳州市, Guangxi
+融会 | TRADUÇÃO: mesclar/integrar/amalgamar/fundir
+融会贯通 | TRADUÇÃO: (expressão idiomática) integrar o conhecimento de várias fontes em uma compreensão profunda e coerente de um assunto
+融梗 | TRADUÇÃO: (neologismo, atestado em 2018) incorporar ideias ou material do trabalho criativo de outra pessoa no próprio trabalho
+融水 | TRADUÇÃO: veja 融水苗族自治縣|融水苗族自治县
+融水县 | TRADUÇÃO: vide 融水苗族自治縣|融水苗族自治县
+融水苗族自治县 | TRADUÇÃO: Condado Autônomo Miao de Rongshui, na cidade de Liuzhou 柳州市, Guangxi
+融洽 | TRADUÇÃO: harmonioso/relações amigáveis/em bons termos um com o outro
+融为一体 | TRADUÇÃO: fundir-se (expressão idiomática)/união hipostática (religião)
+融然 | TRADUÇÃO: em harmonia/felizes juntos
+融炉 | TRADUÇÃO: forno de fundição/fig. caldeirão cultural
+融融 | TRADUÇÃO: em harmonia/feliz/relações calorosas
+融解 | TRADUÇÃO: derreter/fundido/fig. compreender completamente
+融资 | TRADUÇÃO: financiamento
+融通 | TRADUÇÃO: circular/fluir (especialmente capital)/misturar-se/fundir-se/assimilar-se
+融雪 | TRADUÇÃO: neve derretendo/degelo
+融雪天气 | TRADUÇÃO: degelo
+螒 | TRADUÇÃO: Aulacophora femoralis
+螓 | TRADUÇÃO: pequena cigarra de cabeça quadrada
+螗 | TRADUÇÃO: variedade de cigarra pequena de dorso verde e canto claro (em livros antigos)
+螘 | TRADUÇÃO: formiga/variante de 蟻|蚁
+螙 | TRADUÇÃO: variante de 蠹
+螚 | TRADUÇÃO: Eristalis tenax
+蚂 | TRADUÇÃO: usado em 螞螂|蚂螂 ‖ usado em 螞蟥|蚂蟥/usado em 螞蟻|蚂蚁 ‖ usado em 螞蚱|蚂蚱
+蚂蚱 | TRADUÇÃO: (dialeto) gafanhoto
+蚂蚱也是肉 | TRADUÇÃO: (lit.) até mesmo um gafanhoto dá sustento (expressão idiomática)/fig. é melhor que nada
+蚂蜂 | TRADUÇÃO: variante de 馬蜂|马蜂
+蚂螂 | TRADUÇÃO: libélula
+蚂蟥 | TRADUÇÃO: sanguessuga
+蚂蚁 | TRADUÇÃO: formiga
+蚂蚁上树 | TRADUÇÃO: "formigas subindo na árvore", prato de Sichuan feito com macarrão de celofane 粉絲|粉丝 e carne moída (assim chamado porque os pedaços de carne grudados no macarrão parecem formigas nos galhos de uma árvore)/(posição sexual) homem em pé, mulher agarrada à parte superior do corpo/(massagem erótica) lambida no corpo inteiro
+蚂蚁包 | TRADUÇÃO: picada de formiga (inchaço coçando)/formigueiro; montículo de formigas; (metonímia) ninho de formigas
+蚂蚁窝 | TRADUÇÃO: formigueiro; ninho de formigas
+蚂蚁腰 | TRADUÇÃO: (coloq.) cintura fina
+蚂蚁金服 | TRADUÇÃO: Ant Financial Services Group, afiliada da Alibaba 阿里巴巴
+螟 | TRADUÇÃO: inseto brocador/larva de traça (Aphomia gullaris ou Plodia interpuncuella ou Heliothus armigera etc), grande praga agrícola
+螟蛉 | TRADUÇÃO: lagarta verde do arroz ou larva de inseto semelhante/filho adotivo (Etimologia: Vespas de uma espécie específica levam lagartas para o ninho como alimento para seus filhotes, mas acreditava-se erroneamente que as vespas criavam as lagartas como se fossem suas crias.)
+螟蛉子 | TRADUÇÃO: filho adotivo
+螟虫 | TRADUÇÃO: inseto brocador/larva de traça (Aphomia gullaris ou Plodia interpuncuella ou Heliothus armigera etc), grande praga agrícola
+螠 | TRADUÇÃO: echiuroide (minhoca-colher)
+萤 | TRADUÇÃO: vaga-lume
+萤光 | TRADUÇÃO: variante taiwanesa de 熒光|荧光
+萤光幕 | TRADUÇÃO: vide 螢幕|萤幕
+萤光棒 | TRADUÇÃO: variante taiwanesa de 熒光棒|荧光棒
+萤光灯 | TRADUÇÃO: variante taiwanesa de 熒光燈|荧光灯
+萤光绿 | TRADUÇÃO: verde brilhante; chartreuse
+萤幕 | TRADUÇÃO: (Taiwan) tela (de TV, computador etc)
+萤幕保护程式 | TRADUÇÃO: protetor de tela (Taiwan)
+萤幕保护装置 | TRADUÇÃO: protetor de tela (Taiwan)
+萤火 | TRADUÇÃO: luz de vaga-lume/luz de fada
+萤火虫 | TRADUÇÃO: vaga-lume/pirilampo
+萤焰 | TRADUÇÃO: luz de vaga-lume/vaga-lume
+萤石 | TRADUÇÃO: fluorita CaF2/espatoflúor/fluor
+螣 | TRADUÇÃO: dragão voador
+螫 | TRADUÇÃO: (literário) (de abelha, aranha etc) picar ou morder ‖ (de abelha, aranha etc) picar ou morder/(de irritante) fazer (os olhos ou a pele) arder
+螫中 | TRADUÇÃO: (de abelha, água-viva etc) picar (alguém)
+螬 | TRADUÇÃO: usado em 蠐螬|蛴螬
+螭 | TRADUÇÃO: dragão com chifres ainda não crescidos (no mito ou heráldica)/variante de 魑
+螭首 | TRADUÇÃO: cabeça de dragão sem chifres (usada como ornamento, especialmente gárgulas)
+䗖 | TRADUÇÃO: usado em 螮蝀|䗖𬟽
+䗖𬟽 | TRADUÇÃO: (antigo) arco-íris
+螯 | TRADUÇÃO: quelas; pinças; garra; tenaz (de caranguejos, lagostas, escorpiões etc)
+螯肢 | TRADUÇÃO: quelícera
+螯虾 | TRADUÇÃO: lagostim
+螳 | TRADUÇÃO: louva-a-deus
+螳臂挡车 | TRADUÇÃO: vide 螳臂當車|螳臂当车
+螳臂当车 | TRADUÇÃO: (lit.) um louva-a-deus tentando parar uma carruagem (expressão idiomática)/(fig.) superestimar-se e tentar algo impossível
+螳螂 | TRADUÇÃO: louva-a-deus
+螳螂捕蝉 | TRADUÇÃO: vide 螳螂捕蟬，黃雀在後|螳螂捕蝉，黄雀在后
+螳螂捕蝉，黄雀在后 | TRADUÇÃO: (lit.) o louva-a-deus persegue a cigarra, sem saber do pardal atrás (expressão idiomática, do clássico daoísta Zhuangzi 莊子|庄子)/(fig.) buscar um ganho estreito enquanto se negligencia um perigo maior
+螵 | TRADUÇÃO: usado em 螵蛸
+螵蛸 | TRADUÇÃO: ooteca (cápsula de ovos) de louva-a-deus (usada na MTC)/osso de siba (abrev. de 海螵蛸)
+螺 | TRADUÇÃO: concha espiralada/caracol
+螺刀 | TRADUÇÃO: chave de fenda
+螺帽 | TRADUÇÃO: porca (componente fêmea de parafuso e porca)
+螺旋 | TRADUÇÃO: espiral/hélice/parafuso
+螺旋千斤顶 | TRADUÇÃO: macaco de parafuso
+螺旋形 | TRADUÇÃO: espiral
+螺旋曲面 | TRADUÇÃO: superfície espiralada
+螺旋桨 | TRADUÇÃO: hélice (propulsor)
+螺旋测微器 | TRADUÇÃO: micrômetro de parafuso; micrômetro
+螺旋粉 | TRADUÇÃO: fusilli (massa em formato de espiral)
+螺旋藻 | TRADUÇÃO: alga espiralada/espirulina (suplemento alimentar)
+螺旋钳 | TRADUÇÃO: chave inglesa
+螺旋体 | TRADUÇÃO: Espiroquetas, filo de bactérias extremófilas/bactéria espiralada, p. ex. causadora da sífilis
+螺旋面 | TRADUÇÃO: fusilli (massa)
+螺栓 | TRADUÇÃO: parafuso (componente macho de parafuso e porca)
+螺杆 | TRADUÇÃO: parafuso
+螺桨 | TRADUÇÃO: hélice (propulsor)
+螺母 | TRADUÇÃO: porca (componente fêmea de parafuso e porca)
+螺纹 | TRADUÇÃO: padrão espiralado/arranjo de cristas da impressão digital/filete de rosca
+螺丝 | TRADUÇÃO: parafuso
+螺丝刀 | TRADUÇÃO: chave de fenda/CL:把
+螺丝帽 | TRADUÇÃO: porca (componente fêmea de parafuso e porca)
+螺丝母 | TRADUÇÃO: porca (componente fêmea de parafuso e porca)
+螺丝粉 | TRADUÇÃO: gemelli (massa em formato de espiral)
+螺丝起子 | TRADUÇÃO: chave de fenda
+螺丝钉 | TRADUÇÃO: parafuso
+螺丝钻 | TRADUÇÃO: verruma/trado/chave de fenda (coquetel)
+螺线 | TRADUÇÃO: espiral
+螺线管 | TRADUÇÃO: solenoide/bobina
+螺号 | TRADUÇÃO: búzio/buzina de concha para sinalização
+螺蛳 | TRADUÇÃO: caracol de rio
+螺蛳粉 | TRADUÇÃO: luosifen (macarrão de arroz servido em caldo feito de caracóis de rio e ossos de porco, frequentemente temperado com brotos de bambu fermentados e fedorentos)
+螺距 | TRADUÇÃO: passo de espiral/passo de rosca
+螺钉 | TRADUÇÃO: parafuso
+螺髻 | TRADUÇÃO: coque espiral (em penteados)
+蝼 | TRADUÇÃO: veja 螻蛄
+蝼蛄 | TRADUÇÃO: grilo-toupeira / Gryllolaptaptidae, família de insetos subterrâneos da ordem Orthoptera (praga agrícola grave)
+蝼蛄科 | TRADUÇÃO: Gryllolaptaptidae, família de insetos subterrâneos da ordem Orthoptera / grilos-toupeira
+蝼蚁 | TRADUÇÃO: (literal) grilo-toupeira e formigas / (figurado) indivíduos insignificantes sem poder
+螽 | TRADUÇÃO: (gafanhoto) / Gampsocleis mikado
+螽斯 | TRADUÇÃO: esperança (inseto da família Tettigoniidae)
+螽斯科 | TRADUÇÃO: Tettigoniidae (esperanças e grilos)
+螽斯总科 | TRADUÇÃO: Tettigonioidea (esperanças e grilos)
+螾 | TRADUÇÃO: minhoca
+螀 | TRADUÇÃO: cigarra (Cosmopsaltria opalifera)
+蟀 | TRADUÇÃO: usado em 蟋蟀
+蛰 | TRADUÇÃO: hibernar
+蛰伏 | TRADUÇÃO: hibernação / viver em reclusão
+蛰居 | TRADUÇÃO: viver em reclusão
+蛰眠 | TRADUÇÃO: hibernar
+蛰藏 | TRADUÇÃO: hibernar / esconder-se
+蛰虫 | TRADUÇÃO: inseto em estado de dormência
+蟅 | TRADUÇÃO: gafanhoto / barata-d'água chinesa (Eupolyphaga sinensis)
+蟆 | TRADUÇÃO: sapo ‖ variante antiga de 蟆
+蝈 | TRADUÇÃO: cigarra pequena verde ou rã (significado incerto, possivelmente onomatopeia) / veja 蟈蟈 esperança
+蝈螽 | TRADUÇÃO: inseto do gênero Gampsocleis (gafanhotos e grilos) / Gampsocleis sinensis
+蝈螽属 | TRADUÇÃO: gênero Gampsocleis (gafanhotos e grilos)
+蝈蝈 | TRADUÇÃO: esperança
+蝈蝈儿 | TRADUÇÃO: variante erhua de 蟈蟈
+蝈蝈笼 | TRADUÇÃO: gaiola para cigarra cantora
+蟊 | TRADUÇÃO: mosca-espanhola / larva que come grãos
+蟊贼 | TRADUÇÃO: inseto que danifica mudas de cereais / (literal e figurado) praga / pessoa prejudicial ao país e ao povo
+蟋 | TRADUÇÃO: usado em 蟋蟀
+蟋蟀 | TRADUÇÃO: grilo (inseto)
+蟋蟀草 | TRADUÇÃO: capim-pé-de-galinha (Eleusine indica)
+螨 | TRADUÇÃO: ácaro
+螨虫 | TRADUÇÃO: ácaro (zoologia)
+蟑 | TRADUÇÃO: usado em 蟑螂
+蟑螂 | TRADUÇÃO: barata
+蟑螂屋 | TRADUÇÃO: armadilha para baratas
+蟒 | TRADUÇÃO: píton
+蟒蛇 | TRADUÇÃO: píton / jiboia
+蟒袍 | TRADUÇÃO: manto oficial usado por ministros durante as dinastias Ming (1368-1644) e Qing (1644-1911)
+蟓 | TRADUÇÃO: bicho-da-seda
+蟛 | TRADUÇÃO: usado em 蟛蜞
+蟛蜞 | TRADUÇÃO: caranguejo da família Sesarmidae
+蟜 | TRADUÇÃO: sobrenome Jiao ‖ (inseto)
+蟟 | TRADUÇÃO: veja 蟭蟟
+蟠 | TRADUÇÃO: enrolar-se
+蟠尾丝虫 | TRADUÇÃO: Onchocerca volvulus, o verme parasita filariforme que causa a cegueira dos rios ou oncocercose, a segunda causa mais comum de cegueira em humanos
+蟠尾丝虫症 | TRADUÇÃO: cegueira dos rios ou oncocercose, a segunda causa mais comum de cegueira em humanos, causada pelo verme parasita filariforme Onchocerca volvulus
+蟠据 | TRADUÇÃO: variante de 盤踞
+蟠曲 | TRADUÇÃO: variante de 盤曲
+蟠根错节 | TRADUÇÃO: variante de 盤根錯節
+蟠桃 | TRADUÇÃO: pêssego-chato (também chamado pêssego Saturno ou pêssego rosquinha) / os pêssegos da imortalidade guardados por Xi Wangmu (a Rainha Mãe do Oeste)
+蟠石 | TRADUÇÃO: variante de 磐石
+蟠踞 | TRADUÇÃO: variante de 盤踞
+蟠龙 | TRADUÇÃO: dragão enroscado
+蟢 | TRADUÇÃO: usado em 蟢子
+蟢子 | TRADUÇÃO: aranha-de-teia-orbicular-de-mandíbula-longa; aranha-de-mandíbula-longa (família Tetragnathidae)
+虮 | TRADUÇÃO: ninfa de piolho
+虮子 | TRADUÇÃO: ovo de piolho / lêndea
+蟥 | TRADUÇÃO: sanguessuga de cavalo
+蟨 | TRADUÇÃO: jerboa siberiano
+蟪 | TRADUÇÃO: (cigarra) / Platypleura kaempferi
+蟪蛄 | TRADUÇÃO: Platypleura kaempferi, um tipo de cigarra
+蟪蛄不知春秋 | TRADUÇÃO: (literal) a cigarra de vida curta não conhece as estações; (figurado) ver apenas uma pequena parte do panorama geral
+蝉 | TRADUÇÃO: cigarra
+蝉猴 | TRADUÇÃO: (coloq.) ninfa de cigarra recém-emergida
+蝉科 | TRADUÇÃO: Cicadidae, família de insetos homópteros que inclui a cigarra
+蝉翼 | TRADUÇÃO: asa de cigarra
+蝉联 | TRADUÇÃO: continuar num cargo / (ocupar um cargo) várias vezes consecutivas / (ganhar um título) em anos sucessivos / permanecer em primeiro lugar / defender um campeonato
+蝉蜕 | TRADUÇÃO: exúvia de cigarra / (figurado) libertar-se / livrar-se de
+蝉虾 | TRADUÇÃO: lagosta-sapata (família Scyllaridae)
+蝉衣 | TRADUÇÃO: exúvia de cigarra (usada na MTC)
+蝉鸣 | TRADUÇÃO: canto das cigarras / chilrear de insetos
+蟭 | TRADUÇÃO: ovos de louva-a-deus
+蟭蟟 | TRADUÇÃO: cigarra (antigo)
+蟮 | TRADUÇÃO: usado em 蛐蟮 e 曲蟮
+蛲 | TRADUÇÃO: verme parasita / lombriga em forma de alfinete (Enterobius vermicularis)
+蛲虫 | TRADUÇÃO: verme parasita / lombriga em forma de alfinete (Enterobius vermicularis)
+蛲虫病 | TRADUÇÃO: enterobíase
+虫儿 | TRADUÇÃO: veja 蟲子
+虫卵 | TRADUÇÃO: ovo de inseto
+虫媒 | TRADUÇÃO: (de uma planta) entomófilo; polinizado por insetos / (de uma doença) transmitido por artrópodes; transmitido por insetos
+虫媒病毒 | TRADUÇÃO: arbovírus
+虫子 | TRADUÇÃO: inseto / bicho / verme / CL:條, 隻
+虫子牙 | TRADUÇÃO: veja 蟲牙
+虫害 | TRADUÇÃO: praga de insetos / dano causado por insetos
+虫洞 | TRADUÇÃO: (física) buraco de minhoca
+虫灾 | TRADUÇÃO: dano causado por insetos / destruição de plantações por insetos-praga
+虫牙 | TRADUÇÃO: cárie dentária / dente cariado
+虫白蜡 | TRADUÇÃO: cera branca do inseto-da-cera-branca-chinês (Ericerus pela)
+虫胶 | TRADUÇÃO: goma-laca
+虫草 | TRADUÇÃO: veja 冬蟲夏草
+虫蛀 | TRADUÇÃO: danificado por traças ou vermes
+虫蜡 | TRADUÇÃO: cera branca do inseto-da-cera-branca-chinês (Ericerus pela)
+虫豸 | TRADUÇÃO: inseto ou criatura pequena semelhante a inseto (literário) / pessoa vil (usado como xingamento)
+虫类 | TRADUÇÃO: insetos
+蟳 | TRADUÇÃO: (caranguejo-peludo-do-mar)
+蛏 | TRADUÇÃO: mexilhão / navalheira / Solen constricta
+蟷 | TRADUÇÃO: louva-a-deus
+蟹 | TRADUÇÃO: caranguejo ‖ variante de 蟹
+蟹化 | TRADUÇÃO: (biologia) carcinizar
+蟹味菇 | TRADUÇÃO: cogumelo-faia (Hypsizygus tessulatus)
+蟹爪兰 | TRADUÇÃO: cacto-de-natal
+蟹状星云 | TRADUÇÃO: Nebulosa do Caranguejo
+蟹獴 | TRADUÇÃO: mangusto-crabívoro
+蟹粉 | TRADUÇÃO: carne de caranguejo
+蟹肉 | TRADUÇÃO: carne de caranguejo
+蟹酱 | TRADUÇÃO: pasta de caranguejo
+蟹黄 | TRADUÇÃO: ovário e glândulas digestivas de caranguejo fêmea (apreciado como iguaria)
+蟺 | TRADUÇÃO: minhoca
+蚁 | TRADUÇÃO: formiga
+蚁丘 | TRADUÇÃO: formigueiro (monte)
+蚁后 | TRADUÇÃO: formiga-rainha
+蚁巢 | TRADUÇÃO: formigueiro (ninho)
+蚁族 | TRADUÇÃO: "tribo das formigas", graduados universitários que suportam condições de vida apertadas enquanto tentam desenvolver uma carreira
+蚁穴 | TRADUÇÃO: formigueiro (ninho)
+蚁窝 | TRADUÇÃO: formigueiro (ninho)
+蚁酸 | TRADUÇÃO: ácido fórmico
+蚁醛 | TRADUÇÃO: formaldeído (HCHO)
+蚁斗蜗争 | TRADUÇÃO: (expressão idiomática) lit. as formigas lutam, o caracol disputa; fig. brigas mesquinhas
+蚁䴕 | TRADUÇÃO: (espécie de ave da China) torcicolo-eurasiático (Jynx torquilla)
+蟾 | TRADUÇÃO: sapo ("chán" representa o som de seu coaxar) / (mitologia) o sapo de três pernas que se diz existir na lua / (metonímia) a lua
+蟾宫折桂 | TRADUÇÃO: lit. colher um ramo de osmanthus do Palácio do Sapo (i.e., a lua) / fig. ter sucesso no exame imperial
+蟾蜍 | TRADUÇÃO: sapo
+蟿 | TRADUÇÃO: (inseto) / Tryxalis masuta
+蚃 | TRADUÇÃO: (literário) larva de inseto / pronúncia em Taiwan [xiang4]
+蠂 | TRADUÇÃO: Podisma mikado
+蠃 | TRADUÇÃO: usado em 蜾蠃
+蝇 | TRADUÇÃO: mosca / Musca / CL:隻|只
+蝇子 | TRADUÇÃO: mosca-doméstica
+蝇营狗苟 | TRADUÇÃO: (expressão idiomática) lit. enxamear como moscas em volta de comida podre e levar uma existência ignóbil como um cão; fig. levar uma vida indigna; recorrer a qualquer meio para ganho pessoal
+蝇虎 | TRADUÇÃO: aranha-saltadora (família Salticidae)
+蝇蛆 | TRADUÇÃO: larva de mosca; verme
+蝇蛆病 | TRADUÇÃO: miíase
+蝇头小利 | TRADUÇÃO: (expressão idiomática) lucro irrisório; ganho insignificante
+虿 | TRADUÇÃO: (escorpião) / um inseto
+蠉 | TRADUÇÃO: larva de mosquito / rastejar / mover-se sinuosamente
+蠊 | TRADUÇÃO: usado em 蜚蠊
+蠋 | TRADUÇÃO: lagarta
+蝎子 | TRADUÇÃO: escorpião (animal)
+蝎虎座 | TRADUÇÃO: Lacerta (constelação)
+蠎 | TRADUÇÃO: variante antiga de 蟒
+蛴 | TRADUÇÃO: usado em 蠐螬|蛴螬 / usado em 蝤蠐|蝤蛴
+蛴螬 | TRADUÇÃO: larva de escaravelho (besouro); coró / CL:條|条
+蝾 | TRADUÇÃO: salamandra
+蝾螈 | TRADUÇÃO: salamandra; tritão
+蠓 | TRADUÇÃO: mosquito-pólvora (da família Ceratopogonidae)
+蠓虫 | TRADUÇÃO: mosquito-pólvora (da família Ceratopogonidae)
+蚝 | TRADUÇÃO: ostra
+蚝油 | TRADUÇÃO: molho de ostra
+蚝菇 | TRADUÇÃO: cogumelo-ostra (Pleurotus ostreatus)
+蚝豉 | TRADUÇÃO: ostra seca
+蠕动 | TRADUÇÃO: contorcer-se / peristaltismo (movimento ondulatório da parede intestinal)
+蠕动前进 | TRADUÇÃO: contorcer-se
+蠕形动物 | TRADUÇÃO: organismos de corpo mole / vermes (termo taxonômico obsoleto)
+蠕滑 | TRADUÇÃO: fluência (mecânica de atrito)
+蠕虫 | TRADUÇÃO: verme
+蠕蠕 | TRADUÇÃO: contorcendo-se
+蠕变 | TRADUÇÃO: fluência (ciência dos materiais)
+蠖 | TRADUÇÃO: lagarta-mede-palmos (larva de mariposa geometrídea)
+蠗 | TRADUÇÃO: (macaco) / (concha)
+𧏖 | TRADUÇÃO: ostra-perolífera
+蠚 | TRADUÇÃO: picar / ferroar
+蠛 | TRADUÇÃO: usado em 蠛蠓
+蠛蠓 | TRADUÇÃO: (antigo) mosquito-pólvora
+蠜 | TRADUÇÃO: Cyrtophyllus sp. (inseto ortóptero)
+蜡 | TRADUÇÃO: vela (de cera) / cera
+蜡像 | TRADUÇÃO: figura de cera
+蜡像馆 | TRADUÇÃO: museu de cera
+蜡扦 | TRADUÇÃO: castiçal com uma haste, no qual as velas são encaixadas
+蜡染 | TRADUÇÃO: batik (estampagem colorida em tecido usando cera)
+蜡梅 | TRADUÇÃO: variante de 臘梅|腊梅
+蜡样芽孢杆菌 | TRADUÇÃO: (microbiologia) Bacillus cereus
+蜡炬 | TRADUÇÃO: (literário) vela (de cera)
+蜡烛 | TRADUÇÃO: vela (de cera) / CL:根,支
+蜡烛不点不亮 | TRADUÇÃO: algumas pessoas precisam ser empurradas para agir
+蜡烛两头烧 | TRADUÇÃO: (expressão idiomática) queimar a vela pelos dois lados; trabalhar sob dupla carga
+蜡疗 | TRADUÇÃO: ceroterapia (usada para tratar artrite etc.)
+蜡笔 | TRADUÇÃO: giz de cera (tipo cera)
+蜡笔小新 | TRADUÇÃO: Crayon Shin-chan, série de mangá e anime
+蜡纸 | TRADUÇÃO: papel encerado / papel stencil
+蜡台 | TRADUÇÃO: castiçal / suporte de vela
+蜡虫 | TRADUÇÃO: inseto-da-cera-branco-chinês (Ericerus pela)
+蜡质 | TRADUÇÃO: cerosidade
+蠡 | TRADUÇÃO: cabaça ‖ inseto xilófago
+蠡县 | TRADUÇÃO: Condado de Li ou Lixian, um condado na cidade de Baoding 保定市, Hebei
+蠢事 | TRADUÇÃO: tolice
+蠢人 | TRADUÇÃO: tolo / imbecil
+蠢动 | TRADUÇÃO: contorcer-se / (fig.) agitar-se / (de um sentimento) comover-se
+蠢才 | TRADUÇÃO: variante de 蠢材
+蠢材 | TRADUÇÃO: idiota
+蠢汉 | TRADUÇÃO: tolo / ignorante / paspalho
+蠢笨 | TRADUÇÃO: estúpido
+蠢蛋 | TRADUÇÃO: imbecil / tolo
+蠢蠢欲动 | TRADUÇÃO: (expressão idiomática) começar a agitar-se; ficar inquieto; tornar-se ameaçador
+蠢话 | TRADUÇÃO: tolice; disparate
+蠢猪 | TRADUÇÃO: porco estúpido / idiota
+蠢货 | TRADUÇÃO: cabeça-dura / idiota / pateta / débil mental / tolo
+蠢驴 | TRADUÇÃO: asno burro
+蛎 | TRADUÇÃO: ostra
+蛎鹬 | TRADUÇÃO: (ave da China) ostraceiro-eurasiático (Haematopus ostralegus)
+蛎黄 | TRADUÇÃO: carne de ostra / ostra marinada
+蠧 | TRADUÇÃO: variante de 蠹
+蟏 | TRADUÇÃO: usado em 蠨蛸|蟏蛸
+蟏蛸 | TRADUÇÃO: aranha-de-orbita-de-mandíbula-longa; aranha-de-mandíbula-longa (família Tetragnathidae)
+蠩 | TRADUÇÃO: um sapo
+蠮 | TRADUÇÃO: vespa da família Sphecidae
+蠮螉 | TRADUÇÃO: vespa da família Sphecidae
+蠰 | TRADUÇÃO: Cerambyx rugicollis
+蛊 | TRADUÇÃO: (arcaico) inseto venenoso lendário / envenenar / enfeitiçar / levar à insanidade / causar dano por feitiçaria / parasita intestinal
+蛊惑 | TRADUÇÃO: seduzir / desencaminhar
+蛊惑人心 | TRADUÇÃO: (expressão idiomática) incitar a opinião pública com declarações falsas / recorrer à demagogia
+蛊祝 | TRADUÇÃO: amaldiçoar alguém; lançar um feitiço
+蠲 | TRADUÇÃO: deduzir / mostrar / brilhante e limpo / vaga-lume / piolho-de-cobra / gongolo
+蠲免 | TRADUÇÃO: perdoar (castigo, tributo etc.) / conceder clemência
+蠲吉 | TRADUÇÃO: variante de 涓吉
+蠲减 | TRADUÇÃO: remover ou aliviar (um imposto etc.)
+蠲涤 | TRADUÇÃO: lavar / purificar
+蠲洁 | TRADUÇÃO: limpar / purificar
+蠲租 | TRADUÇÃO: remeter aluguéis ou impostos
+蠲苛 | TRADUÇÃO: remover uma lei, imposto etc. opressivos
+蠲赋 | TRADUÇÃO: remeter tributos
+蠲除 | TRADUÇÃO: perdoar / evitar / redimir
+蠲体 | TRADUÇÃO: limpar-se
+蠵 | TRADUÇÃO: usado em 蠵龜|蠵龟
+蠵龟 | TRADUÇÃO: tartaruga-cabeçuda (Caretta caretta)
+蚕 | TRADUÇÃO: bicho-da-seda
+蚕丛 | TRADUÇÃO: Can Cong, criador lendário da seda e sericicultura
+蚕子 | TRADUÇÃO: ovos do bicho-da-seda
+蚕宝宝 | TRADUÇÃO: bicho-da-seda
+蚕山 | TRADUÇÃO: ver 蠶蔟|蚕蔟
+蚕沙 | TRADUÇÃO: guano (excremento) do bicho-da-seda
+蚕眠 | TRADUÇÃO: período de inatividade do bicho-da-seda antes da muda
+蚕种 | TRADUÇÃO: ovos do bicho-da-seda
+蚕箔 | TRADUÇÃO: bandeja de bambu para criar bichos-da-seda
+蚕纸 | TRADUÇÃO: papel onde o bicho-da-seda põe seus ovos
+蚕丝 | TRADUÇÃO: seda natural (secretada pelo bicho-da-seda)
+蚕茧 | TRADUÇÃO: casulo do bicho-da-seda
+蚕茧纸 | TRADUÇÃO: papel feito de casulos do bicho-da-seda
+蚕菜 | TRADUÇÃO: espinafre-malabar (Basella alba)
+蚕蔟 | TRADUÇÃO: pequeno feixe de palha etc. fornecido aos bichos-da-seda para tecerem casulos
+蚕薄 | TRADUÇÃO: variante de 蠶箔|蚕箔
+蚕蛹 | TRADUÇÃO: crisálida do bicho-da-seda; pupa do bicho-da-seda
+蚕蛾 | TRADUÇÃO: mariposa do bicho-da-seda (Bombyx mori)
+蚕蚁 | TRADUÇÃO: bicho-da-seda recém-eclodido
+蚕豆 | TRADUÇÃO: fava (Vicia faba)
+蚕豆症 | TRADUÇÃO: deficiência de G6PD (deficiência de glicose-6-fosfato desidrogenase)
+蚕农 | TRADUÇÃO: sericicultor
+蚕食 | TRADUÇÃO: (literal e figurado) corroer aos poucos
+蚕食鲸吞 | TRADUÇÃO: (literal) roer como bicho-da-seda ou engolir como baleia (expressão idiomática) / (figurado) apoderar-se (de território etc.) gradual ou completamente
+蠷 | TRADUÇÃO: variante de 蠼
+蠸 | TRADUÇÃO: Aulacophora femoralis
+蠹 | TRADUÇÃO: inseto que rói livros, roupas etc. / carcomido / roído por traças
+蠹吏 | TRADUÇÃO: funcionários corruptos
+蠹国害民 | TRADUÇÃO: (expressão idiomática) roubar o Estado e prejudicar o povo
+蠹害 | TRADUÇÃO: prejudicar / colocar em perigo
+蠹弊 | TRADUÇÃO: má prática / abuso / prática corrupta
+蠹政 | TRADUÇÃO: governo parasitário
+蠹众木折 | TRADUÇÃO: (expressão idiomática) O perigo aparece onde existem muitos fatores nocivos.
+蠹简 | TRADUÇÃO: livros velhos carcomidos
+蠹蛀 | TRADUÇÃO: estar roído por traças / estar roído por carunchos
+蠹虫 | TRADUÇÃO: traça / pessoa nociva / praga
+蠹鱼 | TRADUÇÃO: traça-dos-livros / CL:隻|只
+蠹鱼子 | TRADUÇÃO: traça-dos-livros / CL:隻|只
+蛮 | TRADUÇÃO: bárbaro / violento / muito / bastante / rude / imprudente
+蛮不讲理 | TRADUÇÃO: completamente irracional
+蛮力 | TRADUÇÃO: força bruta
+蛮夷 | TRADUÇÃO: termo comum para povos não-Han em tempos antigos, não exclusivamente depreciativo / bárbaro
+蛮子 | TRADUÇÃO: bárbaro / servo escravo / (antigo) termo depreciativo para pessoas do sul da China (usado por nortistas)
+蛮干 | TRADUÇÃO: agir precipitadamente / agir imprudentemente independentemente das consequências / imprudente / temerário / audacioso
+蛮悍 | TRADUÇÃO: rude e violento / feroz e imprudente
+蛮横 | TRADUÇÃO: rude e irracional
+蛮横无理 | TRADUÇÃO: rude e irracional
+蛮皮 | TRADUÇÃO: recalcitrante / obstinado
+蛮缠 | TRADUÇÃO: importunar / incomodar sem parar
+蛮荒 | TRADUÇÃO: território selvagem / agreste / incivilizado
+蛮邸 | TRADUÇÃO: missão estrangeira (em tempos antigos) / residência de emissário bárbaro
+蠼 | TRADUÇÃO: usado em 蠼螋
+蠼螋 | TRADUÇÃO: tesourinha
+蠽 | TRADUÇÃO: pequena cigarra verde
+血 | TRADUÇÃO: ver 血 ‖ sangue/(coloq.) pronúncia coloquial [xie3]/CL:滴,片
+血中毒 | TRADUÇÃO: envenenamento do sangue
+血债 | TRADUÇÃO: dívida de sangue (após matar alguém)
+血债累累 | TRADUÇÃO: dívidas de sangue clamando por retribuição
+血债血偿 | TRADUÇÃO: dívida de sangue deve ser paga com sangue; sangue clama por sangue / também pronúncia [xue4 zhai4 xie3 chang2]
+血债要用血来偿 | TRADUÇÃO: Dívida de sangue deve ser paga com sangue. / Sangue clama por sangue.
+血债要用血来还 | TRADUÇÃO: Dívida de sangue deve ser paga com sangue. / Sangue clama por sangue.
+血光之灾 | TRADUÇÃO: (expressão idiomática) perigo mortal; desastre fatal
+血凝 | TRADUÇÃO: coagular
+血凝素 | TRADUÇÃO: hemaglutinina (o H de vírus como H5N1 da gripe aviária)
+血刃 | TRADUÇÃO: derramamento de sangue
+血友病 | TRADUÇÃO: hemofilia
+血口 | TRADUÇÃO: boca ensanguentada (por devorar presa recém-abatida)
+血口喷人 | TRADUÇÃO: (expressão idiomática) cuspir sangue; calúnia venenosa / ataques maliciosos
+血史 | TRADUÇÃO: história escrita em sangue / período épico de luta e sacrifício
+血吸虫 | TRADUÇÃO: esquistossomo
+血吸虫病 | TRADUÇÃO: esquistossomose
+血型 | TRADUÇÃO: grupo sanguíneo / tipo sanguíneo
+血块 | TRADUÇÃO: coágulo sanguíneo
+血塞 | TRADUÇÃO: obstrução sanguínea
+血压 | TRADUÇÃO: pressão arterial
+血压计 | TRADUÇÃO: esfigmomanômetro
+血小板 | TRADUÇÃO: plaqueta sanguínea
+血尿 | TRADUÇÃO: hematúria
+血崩 | TRADUÇÃO: metrorragia
+血师 | TRADUÇÃO: hematita (Fe₂O₃)
+血常规 | TRADUÇÃO: hemograma completo
+血帮 | TRADUÇÃO: Bloods (gangue de rua nos EUA)
+血库 | TRADUÇÃO: banco de sangue
+血性 | TRADUÇÃO: corajoso/estoico/indomável
+血战 | TRADUÇÃO: batalha sangrenta
+血拼 | TRADUÇÃO: compras (como lazer)
+血族 | TRADUÇÃO: laços de sangue/parentes carnais/parentesco
+血旺 | TRADUÇÃO: (dialetal) tofu de sangue (sangue animal coagulado)
+血晕 | TRADUÇÃO: hematoma/vermelho-pálido ‖ coma por perda de sangue/desmaio ao ver sangue
+血书 | TRADUÇÃO: carta escrita com o próprio sangue (expressando determinação, ódio ou últimas vontades)
+血月 | TRADUÇÃO: lua de sangue
+血本 | TRADUÇÃO: capital duramente conquistado
+血本无归 | TRADUÇÃO: (expressão idiomática) perder tudo o que investiu; ficar sem nada
+血栓 | TRADUÇÃO: coágulo sanguíneo/trombo
+血栓形成 | TRADUÇÃO: trombose
+血栓病 | TRADUÇÃO: trombose
+血栓症 | TRADUÇÃO: trombose
+血案 | TRADUÇÃO: caso de assassinato
+血条 | TRADUÇÃO: (jogos) barra de vida
+血槽 | TRADUÇÃO: canal de sangue (em lâminas)/(jogos) barra de vida
+血橙 | TRADUÇÃO: laranja-sangue
+血气 | TRADUÇÃO: sangue e energia vital/linhagem (ascendência)/valentia
+血气之勇 | TRADUÇÃO: (expressão idiomática) coragem nascida de emoções exacerbadas
+血气方刚 | TRADUÇÃO: (expressão idiomática) jovem e vigoroso; cheio de seiva
+血氧含量 | TRADUÇÃO: nível de oxigênio no sangue
+血氧量 | TRADUÇÃO: nível de oxigênio no sangue
+血水 | TRADUÇÃO: sangue/líquido sanguinolento
+血汗 | TRADUÇÃO: (fig.) suor e trabalho; trabalho árduo
+血汗工厂 | TRADUÇÃO: fábrica de exploração (sweatshop)
+血汗钱 | TRADUÇÃO: dinheiro suado; trabalho árduo
+血污 | TRADUÇÃO: manchas de sangue
+血沉 | TRADUÇÃO: taxa de sedimentação de eritrócitos (VHS)
+血泊 | TRADUÇÃO: poça de sangue
+血洗 | TRADUÇÃO: realizar um banho de sangue em (um local)/(fig.) causar estragos
+血流 | TRADUÇÃO: fluxo sanguíneo
+血流成河 | TRADUÇÃO: (expressão idiomática) rios de sangue; banho de sangue
+血流漂杵 | TRADUÇÃO: (expressão idiomática) sangue suficiente para flutuar pilões; rios de sangue; banho de sangue
+血液 | TRADUÇÃO: sangue/(fig.) seiva vital
+血液凝结 | TRADUÇÃO: coagulação sanguínea
+血液循环 | TRADUÇÃO: circulação sanguínea
+血液恐怖症 | TRADUÇÃO: fobia de sangue
+血液病 | TRADUÇÃO: doença do sangue
+血液透析 | TRADUÇÃO: hemodiálise
+血液透析机 | TRADUÇÃO: máquina de hemodiálise
+血淋淋 | TRADUÇÃO: ensanguentado; coberto de sangue; sangrento; hediondo/cruel; brutal; severo; amargo
+血泪 | TRADUÇÃO: lágrimas de sangue (símbolo de extremo sofrimento)/sangue e lágrimas
+血泪史 | TRADUÇÃO: (fig.) história de sofrimento/relato comovente
+血清 | TRADUÇÃO: soro (sanguíneo)
+血清张力素 | TRADUÇÃO: serotonina
+血清素 | TRADUÇÃO: serotonina
+血渍 | TRADUÇÃO: mancha de sangue
+血渍斑斑 | TRADUÇÃO: salpicado de sangue/coberto de manchas de sangue
+血浆 | TRADUÇÃO: plasma sanguíneo
+血浓于水 | TRADUÇÃO: sangue é mais grosso que água/laços familiares são mais fortes que relações sociais
+血牛 | TRADUÇÃO: vendedor de sangue (quem vende o próprio sangue para viver)
+血球 | TRADUÇÃO: corpúsculo sanguíneo/hemócito
+血田 | TRADUÇÃO: campo de sangue/campo de batalha/lugar odioso/Aceldama
+血瘤 | TRADUÇÃO: tumor sanguíneo/angioma
+血癌 | TRADUÇÃO: leucemia
+血盆大口 | TRADUÇÃO: (expressão idiomática) boca sangrenta escancarada como uma bacia sacrificial/fauce feroz de besta/(fig.) explorador ganancioso/agressor voraz
+血祭 | TRADUÇÃO: sacrifício de sangue/sacrifício animal (a uma divindade ou ancestral)
+血站 | TRADUÇÃO: centro de coleta de sangue
+血竭 | TRADUÇÃO: sangue-de-dragão (resina vermelha)
+血管 | TRADUÇÃO: vaso sanguíneo/artéria
+血管摄影 | TRADUÇÃO: angiografia
+血管支架 | TRADUÇÃO: (medicina) stent vascular
+血管瘤 | TRADUÇÃO: angioma
+血管粥样硬化 | TRADUÇÃO: aterosclerose
+血管造影 | TRADUÇÃO: angiografia
+血糖 | TRADUÇÃO: açúcar no sangue
+血红素 | TRADUÇÃO: (bioquímica) heme/(Taiwan) hemoglobina
+血红蛋白 | TRADUÇÃO: hemoglobina
+血细胞 | TRADUÇÃO: célula sanguínea
+血统 | TRADUÇÃO: relação de sangue/linhagem/parentesco
+血统论 | TRADUÇÃO: teoria da linhagem (divisão de classes usada na Revolução Cultural)
+血丝 | TRADUÇÃO: fios de sangue/veias visíveis/(olhos) vermelhos de sangue
+血缘 | TRADUÇÃO: linhagem sanguínea
+血缘关系 | TRADUÇÃO: relação de sangue; consanguinidade
+血肉 | TRADUÇÃO: carne
+血肉模糊 | TRADUÇÃO: (expressão idiomática) gravemente mutilado ou desfigurado; hediondo
+血肉横飞 | TRADUÇÃO: (expressão idiomática) carne e sangue voando em todas as direções; carnificina
+血肉相连 | TRADUÇÃO: (expressão idiomática) da mesma carne e sangue; intimamente relacionado
+血胸 | TRADUÇÃO: (medicina) hemotórax
+血脂 | TRADUÇÃO: lipídio sanguíneo
+血脉 | TRADUÇÃO: vasos sanguíneos
+血脉偾张 | TRADUÇÃO: (expressão idiomática) vasos sanguíneos incham; (fig.) o sangue corre mais rápido; estar excitado
+血腥 | TRADUÇÃO: fétido de sangue/sangrento (eventos)
+血腥玛丽 | TRADUÇÃO: Bloody Mary
+血肿 | TRADUÇÃO: hematoma
+血肠 | TRADUÇÃO: chouriço de sangue
+血色 | TRADUÇÃO: cor (da pele, sinal de saúde)/rubor das bochechas
+血色素 | TRADUÇÃO: hematina/heme/hemoglobina
+血色素沉积症 | TRADUÇÃO: hemocromatose
+血蓝素 | TRADUÇÃO: (bioquímica) hemocianina

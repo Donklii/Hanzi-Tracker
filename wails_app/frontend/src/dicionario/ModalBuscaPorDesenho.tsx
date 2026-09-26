@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { CanvasHanziLookup } from "./CanvasHanziLookup";
+import { t } from '../i18n/i18n';
 
 interface ModalBuscaPorDesenhoProps {
   isOpen: boolean;
@@ -14,14 +15,14 @@ export function ModalBuscaPorDesenho({ isOpen, onClose, onSelect, configuracoesA
   if (!isOpen) return null;
 
   return (
-    <div className="modal-overlay" onClick={onClose} style={{ zIndex: 1002 }}>
+    <div className="modal-overlay" onClick={onClose} style={{ zIndex: 3002 }}>
       <div
         className="modal-content"
         style={{ maxWidth: '400px', padding: '24px', flexDirection: 'column', height: 'auto' }}
         onClick={e => e.stopPropagation()}
       >
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
-          <h2 style={{ fontSize: '18px', margin: 0, fontWeight: 'bold' }}>Pesquisar por Desenho</h2>
+          <h2 style={{ fontSize: '18px', margin: 0, fontWeight: 'bold' }}>{t('Pesquisar por Desenho')}</h2>
           <button
             onClick={onClose}
             style={{
@@ -35,9 +36,9 @@ export function ModalBuscaPorDesenho({ isOpen, onClose, onSelect, configuracoesA
 
         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
           <label style={{ fontSize: '12px', color: 'var(--cor-texto-suave)', marginBottom: '8px', alignSelf: 'flex-start' }}>
-            Desenhe o Hanzi abaixo:
+            {t('Desenhe o Hanzi abaixo:')}
             <br />
-            <span style={{ opacity: 0.8 }}>⚠️ A ordem e a direção dos traços importa para o reconhecimento correto.</span>
+            <span style={{ opacity: 0.8 }}>{t('⚠️ A ordem e a direção dos traços importa para o reconhecimento correto.')}</span>
           </label>
           <CanvasHanziLookup 
             onRecognize={(sug) => setSugestoes(sug)} 
@@ -47,7 +48,7 @@ export function ModalBuscaPorDesenho({ isOpen, onClose, onSelect, configuracoesA
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginTop: '12px', justifyContent: 'center', minHeight: '40px' }}>
             {sugestoes.length === 0 ? (
                <span style={{ fontSize: '12px', color: 'var(--cor-texto-suave)', marginTop: '10px' }}>
-                 Nenhuma correspondência ainda.
+                 {t('Nenhuma correspondência ainda.')}
                </span>
             ) : (
               sugestoes.map((hz, idx) => (
@@ -75,7 +76,7 @@ export function ModalBuscaPorDesenho({ isOpen, onClose, onSelect, configuracoesA
                 setSugestoes([]);
               }}
             >
-              Pesquisar todas as sugestões
+              {t('Pesquisar todas as sugestões')}
             </button>
           )}
         </div>

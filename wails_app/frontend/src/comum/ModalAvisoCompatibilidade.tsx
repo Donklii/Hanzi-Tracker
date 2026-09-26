@@ -1,4 +1,5 @@
 // ----- Seção: Comum -----
+import { t } from '../i18n/i18n';
 
 interface ModalAvisoCompatibilidadeProps {
   avisoCompatibilidade: string | null;
@@ -11,14 +12,14 @@ export function ModalAvisoCompatibilidade(props: ModalAvisoCompatibilidadeProps)
   if (!avisoCompatibilidade) return null;
 
   return (
-    <div className="modal-overlay" onClick={() => setAvisoCompatibilidade(null)} style={{ zIndex: 1000 }}>
+    <div className="modal-overlay" onClick={() => setAvisoCompatibilidade(null)} style={{ zIndex: 3000 }}>
       <div
         className="modal-content"
         style={{ maxWidth: '440px', padding: '24px', flexDirection: 'column', height: 'auto' }}
         onClick={e => e.stopPropagation()}
       >
         <div className="modal-header">
-          <h2 style={{ fontSize: '18px' }}>⚠️ Hardware ajustado</h2>
+          <h2 style={{ fontSize: '18px' }}>{t('⚠️ Hardware ajustado')}</h2>
           <button className="modal-close" onClick={() => setAvisoCompatibilidade(null)}>×</button>
         </div>
         <div style={{ color: 'var(--cor-texto-primario)', fontSize: '14px', lineHeight: 1.5, marginTop: '8px' }}>
@@ -29,7 +30,7 @@ export function ModalAvisoCompatibilidade(props: ModalAvisoCompatibilidadeProps)
           style={{ marginTop: '20px', alignSelf: 'flex-end', padding: '6px 16px' }}
           onClick={() => setAvisoCompatibilidade(null)}
         >
-          Entendi
+          {t('Entendi')}
         </button>
       </div>
     </div>

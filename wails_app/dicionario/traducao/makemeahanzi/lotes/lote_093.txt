@@ -1,0 +1,103 @@
+# FORMATO (não traduzir esta linha): CARACTERE | DEFINIÇÃO: <texto em inglês> | DICA: <contexto/etimologia em inglês>
+# Traduza apenas o texto após "DEFINIÇÃO:" e após "DICA:" para português. DICA é só uma dica de contexto, pode ficar vazia.
+# Responda com o mesmo formato, mesma ordem, uma linha por caractere, sem pular nenhuma.
+鲱 | DEFINIÇÃO: herring | DICA: fish
+鲲 | DEFINIÇÃO: spawn; roe; fry | DICA: fish
+鲳 | DEFINIÇÃO: silvery pomfret, Stromateoides argenteus | DICA: fish
+鲴 | DEFINIÇÃO: fish guts | DICA: fish
+鲵 | DEFINIÇÃO: salamander; Cryptobranchus japonicus | DICA: fish
+鲶 | DEFINIÇÃO: catfish; sheat | DICA: fish
+鲷 | DEFINIÇÃO: porgy; Pagrosomus major | DICA: fish
+鲸 | DEFINIÇÃO: whale | DICA: fish
+鲺 | DEFINIÇÃO: cat fish | DICA: fish
+鲻 | DEFINIÇÃO: mullet | DICA: fish
+鲼 | DEFINIÇÃO: fish | DICA: fish
+鲽 | DEFINIÇÃO: flatfish; flounder; sole | DICA: fish
+鳀 | DEFINIÇÃO: anchovy | DICA: fish
+鳃 | DEFINIÇÃO: fish gills | DICA: fish
+鳄 | DEFINIÇÃO: alligator | DICA: fish
+鳅 | DEFINIÇÃO: loach | DICA: fish
+鳆 | DEFINIÇÃO: abalone | DICA: fish
+鳇 | DEFINIÇÃO: sturgeon | DICA: fish
+鳊 | DEFINIÇÃO: bream | DICA: fish
+鳋 | DEFINIÇÃO: carp | DICA: fish
+鳌 | DEFINIÇÃO: huge sea turtle | DICA: fish
+鳍 | DEFINIÇÃO: fin | DICA: fish
+鳎 | DEFINIÇÃO: sole | DICA: fish
+鳏 | DEFINIÇÃO: huge fish; widower; bachelor | DICA: fish
+鳐 | DEFINIÇÃO: the nautilus; the ray | DICA: fish
+鳑 | DEFINIÇÃO: carp | DICA: fish
+鳓 | DEFINIÇÃO: Chinese herring; shad | DICA: fish
+鳔 | DEFINIÇÃO: swim bladder | DICA: fish
+鳕 | DEFINIÇÃO: codfish | DICA: fish
+鳖 | DEFINIÇÃO: turtle | DICA: fish
+鳗 | DEFINIÇÃO: eel | DICA: fish
+鳘 | DEFINIÇÃO: codfish | DICA: fish
+鳙 | DEFINIÇÃO: bighead | DICA: fish
+鳜 | DEFINIÇÃO: mandarin fish | DICA: fish
+鳝 | DEFINIÇÃO: eel | DICA: fish
+鳞 | DEFINIÇÃO: fish scales | DICA: fish
+鳟 | DEFINIÇÃO: barbel | DICA: fish
+鳢 | DEFINIÇÃO: snakehead | DICA: fish
+鳣 | DEFINIÇÃO: sturgeon | DICA: fish
+鳥 | DEFINIÇÃO: bird | DICA: A bird
+鳧 | DEFINIÇÃO: wild duck; teal; swim | DICA: bird
+鳩 | DEFINIÇÃO: pigeon; to collect, to assemble | DICA: bird
+鳳 | DEFINIÇÃO: male phoenix; symbol of joy | DICA: bird
+鳴 | DEFINIÇÃO: a bird call or animal cry; to make a sound | DICA: The sound 口 a bird 鳥 makes
+鳶 | DEFINIÇÃO: kite; Milvus species (various) | DICA: bird
+鴂 | DEFINIÇÃO: tailorbird; working bird | DICA: bird
+鴆 | DEFINIÇÃO: a bird resembling the secretary falcon | DICA: bird
+鴇 | DEFINIÇÃO: bustard; procuress; Otis species (various) | DICA: bird
+鴈 | DEFINIÇÃO: wild goose | DICA: bird
+鴉 | DEFINIÇÃO: crow; Corvus species (various) | DICA: bird
+鴒 | DEFINIÇÃO: lark, wagtail; Motacilla species (various) | DICA: bird
+鴔 | DEFINIÇÃO: hoopoe, crested bird | DICA: bird
+鴕 | DEFINIÇÃO: ostrich | DICA: bird
+鴛 | DEFINIÇÃO: male mandarin duck (Aix galericulata) | DICA: bird
+鴞 | DEFINIÇÃO: owl | DICA: bird
+鴟 | DEFINIÇÃO: kite, horned owl; wine cups | DICA: bird
+鴣 | DEFINIÇÃO: species of Taiwan pigeon | DICA: bird
+鴦 | DEFINIÇÃO: female mandarin duck (Aix galericulata) | DICA: bird
+鴨 | DEFINIÇÃO: duck; Anas species (various) | DICA: bird
+鴯 | DEFINIÇÃO: swallow | DICA: bird
+鴰 | DEFINIÇÃO: crow | DICA: bird
+鴴 | DEFINIÇÃO: plover, wading bird | DICA: A wading 行 bird 鳥; 鳥 also provides the pronunciation
+鴻 | DEFINIÇÃO: a species of wild swan; vast | DICA: bird
+鴿 | DEFINIÇÃO: pigeon, dove; Columba species (various) | DICA: bird
+鵂 | DEFINIÇÃO: horned owl, scops chinensis | DICA: bird
+鵑 | DEFINIÇÃO: cuckoo | DICA: bird
+鵒 | DEFINIÇÃO: mynah; Acridotheres tristis | DICA: bird
+鵓 | DEFINIÇÃO: a species of pigeon | DICA: bird
+鵜 | DEFINIÇÃO: pelican | DICA: bird
+鵝 | DEFINIÇÃO: goose | DICA: bird
+鵠 | DEFINIÇÃO: swan | DICA: bird
+鵡 | DEFINIÇÃO: species of parrot | DICA: bird
+鵪 | DEFINIÇÃO: quail; Coturnix coturnix | DICA: bird
+鵬 | DEFINIÇÃO: fabulous bird of enormous size | DICA: bird
+鵯 | DEFINIÇÃO: bulbul, songbird; Pycnonotidae | DICA: bird
+鵰 | DEFINIÇÃO: eagle, vulture | DICA: bird
+鵲 | DEFINIÇÃO: magpie; Pica species (various) | DICA: bird
+鵾 | DEFINIÇÃO: a bird resembling a crane | DICA: bird
+鶇 | DEFINIÇÃO: thrush; Turdus species (various) | DICA: bird
+鶉 | DEFINIÇÃO: quail; Turnix species (various) | DICA: bird
+鶊 | DEFINIÇÃO: oriole | DICA: bird
+鶓 | DEFINIÇÃO: emu | DICA: bird
+鶖 | DEFINIÇÃO: waterfowl; Garrulus glandarius | DICA: bird
+鶘 | DEFINIÇÃO: pelican | DICA: bird
+鶚 | DEFINIÇÃO: osprey, fishhawk | DICA: bird
+鶩 | DEFINIÇÃO: duck | DICA: bird
+鶬 | DEFINIÇÃO: oriole | DICA: bird
+鶯 | DEFINIÇÃO: oriole, green finch; Sylvia species (various) | DICA: A bird 鳥 covered in 冖 green 炏 feathers
+鶴 | DEFINIÇÃO: crane; Grus species (various) | DICA: bird
+鶹 | DEFINIÇÃO: owl | DICA: bird
+鶺 | DEFINIÇÃO: wagtail | DICA: bird
+鶻 | DEFINIÇÃO: a kind of pigeon; treron permagna | DICA: bird
+鶼 | DEFINIÇÃO: phoenix; fabulous mythical bird | DICA: bird
+鷀 | DEFINIÇÃO: the fishing cormorant | DICA: bird
+鷂 | DEFINIÇÃO: sparrow hawk; Circus species (various) | DICA: bird
+鷄 | DEFINIÇÃO: chicken | DICA: bird
+鷈 | DEFINIÇÃO: a kind of bird | DICA: bird
+鷉 | DEFINIÇÃO: grebe, duck | DICA: An amphibious 虒 bird 虒; 虒 also provides the pronunciation
+鷓 | DEFINIÇÃO: partridge | DICA: bird
+鷗 | DEFINIÇÃO: seagull, tern; Larus species (various) | DICA: bird
